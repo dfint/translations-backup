@@ -24,3 +24,9 @@ jobs:
       run: |
         export TX_TOKEN=${{ secrets.TX_TOKEN }}
         tx pull -a
+
+    - name: Push changes to the repository
+      uses: actions-x/commit@v6
+      with:
+        name: 'github-actions[bot]'
+        email: 'github-actions[bot]@localhost'
