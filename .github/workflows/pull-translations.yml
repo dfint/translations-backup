@@ -22,5 +22,5 @@ jobs:
         pip install transifex-client
     - name: Pull translations
       run: |
-        export TX_TOKEN=${{TX_TOKEN}}
+        export TX_TOKEN=${{ secrets.TX_TOKEN }}
         tx pull -a
