@@ -1,0 +1,4665 @@
+# 
+# Translators:
+# Ana Duarte <rossitranslates@gmail.com>, 2019
+# be247be94f4b26513484e80aba0cee49, 2018
+# 68aa2b710696597d2c15b3d803993bee_52a723c <d707001f82511d8467de1cfc369e967e_419818>, 2016-2019
+msgid ""
+msgstr ""
+"Project-Id-Version: Dwarf Fortress\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2015-09-20 22:56+0000\n"
+"Last-Translator: 68aa2b710696597d2c15b3d803993bee_52a723c <d707001f82511d8467de1cfc369e967e_419818>, 2016-2019\n"
+"Language-Team: Portuguese (http://www.transifex.com/dwarf-fortress-translation/dwarf-fortress/language/pt/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: pt\n"
+"Plural-Forms: nplurals=3; plural=(n == 0 || n == 1) ? 0 : n != 0 && n % 1000000 == 0 ? 1 : 2;\n"
+"X-Generator: Poedit 1.7.3\n"
+
+#: index.txt:2
+msgid "1~data/help/icons"
+msgstr "1~data/help/icons"
+
+#: index.txt:3
+msgid "2~data/announcement/diplomatrebuffed"
+msgstr "2~data/announcement/diplomatrebuffed"
+
+#: index.txt:4
+msgid "3~data/announcement/merchantintro"
+msgstr "3~data/announcement/merchantintro"
+
+#: index.txt:5
+msgid "4~data/announcement/semiend"
+msgstr "4~data/announcement/semiend"
+
+#: index.txt:6
+msgid "5~data/announcement/invasion_elves"
+msgstr "5~data/announcement/invasion_elves"
+
+#: index.txt:7
+msgid "6~data/announcement/hastyking"
+msgstr "6~data/announcement/hastyking"
+
+#: index.txt:8
+msgid "7~data/announcement/kingarrival"
+msgstr "7~data/announcement/kingarrival"
+
+#: index.txt:9
+msgid "8~data/announcement/invasion_goblin"
+msgstr "8~data/announcement/invasion_goblin"
+
+#: index.txt:10
+msgid "9~data/announcement/invasion_human"
+msgstr "9~data/announcement/invasion_human"
+
+#: index.txt:11
+msgid "10~data/announcement/merchantexit"
+msgstr "10~data/announcement/merchantexit"
+
+#: index.txt:12
+msgid "11~data/announcement/fortressintro"
+msgstr "11~data/announcement/fortressintro"
+
+#: index.txt:13
+msgid "12~data/help/main"
+msgstr "12~data/help/main"
+
+#: index.txt:14
+msgid "18~v0.47.04"
+msgstr ""
+
+#: index.txt:20
+msgid "20~Programmed by Tarn Adams"
+msgstr "20~Programado por Tarn Adams"
+
+#: index.txt:22
+msgid "21~Designed by Tarn and Zach Adams"
+msgstr "21~Projectado por Tarn e Zach Adams"
+
+#: index.txt:23
+msgid "22~Visit Bay 12 Games"
+msgstr "22~Visita Bay 12 Games"
+
+#: index.txt:24
+msgid "23~www.bay12games.com"
+msgstr "23~www.bay12games.com"
+
+#: index.txt:25
+msgid "24~Dwarf Fortress"
+msgstr "24~Dwarf Fortress"
+
+#: index.txt:26
+msgid "25~Adventurer"
+msgstr "25~Aventureiro"
+
+#: index.txt:27
+msgid "26~data/announcement/end2"
+msgstr "26~data/announcement/end2"
+
+#: index.txt:28
+msgid "27~data/announcement/end3"
+msgstr "27~data/announcement/end3"
+
+#: index.txt:29
+msgid "28~data/announcement/end4"
+msgstr "28~data/announcement/end4"
+
+#: index.txt:30
+msgid "29~data/save/permits"
+msgstr "29~data/save/permits"
+
+#: index.txt:31
+msgid "30~data/help/a_main"
+msgstr "30~data/help/a_main"
+
+#: index.txt:32
+msgid "31~Legends"
+msgstr "31~Lendas"
+
+#: index.txt:33
+msgid "32~Reclaim Fortress"
+msgstr "32~Reclama de volta a Fortaleza"
+
+#: index.txt:34
+msgid "33~data/help/r_main"
+msgstr "33~data/help/r_main"
+
+#: index.txt:35
+msgid "34~data/initial_movies/bay12games.cmv"
+msgstr "34~data/initial_movies/bay12games.cmv"
+
+#: index.txt:36
+msgid "35~data/initial_movies/toadyone.cmv"
+msgstr "35~data/initial_movies/toadyone.cmv"
+
+#: index.txt:37
+msgid "36~data/initial_movies/dwarf_fortress.cmv"
+msgstr "36~data/initial_movies/dwarf_fortress.cmv"
+
+#: index.txt:38
+msgid "37~data/movies/last_record.cmv"
+msgstr "37~data/movies/last_record.cmv"
+
+#: index.txt:39
+msgid "38~Really?  You're playing like a peasant."
+msgstr "38~A sério? Estás a jogar como um camponês."
+
+#: index.txt:40
+msgid "39~Really?  I thought you should quit."
+msgstr "39~A sério? Pensei que devias desistir."
+
+#: index.txt:41
+msgid "40~Slaves to Armok:  God of Blood"
+msgstr "40~Escravos de Armok:  Deus do Sangue"
+
+#: index.txt:42
+msgid "41~Chapter II: Dwarf Fortress"
+msgstr "41~Capítulo II: Dwarf Fortress"
+
+#: index.txt:43
+msgid "42~Dwarf Fortress"
+msgstr "42~Dwarf Fortress"
+
+#: index.txt:44
+msgid "43~Copyright (C) 2002-2020 by Tarn Adams"
+msgstr ""
+
+#: index.txt:45
+msgid "44~Welcome to the alpha of Dwarf Fortress."
+msgstr "44~Bem-vindo à alpha de Dwarf Fortress."
+
+#: index.txt:46
+msgid ""
+"45~As there has been some time between releases, instability is to be "
+"expected."
+msgstr "45~Como passou algum tempo entre versões, é de se esperar instabilidade."
+
+#: index.txt:47
+msgid ""
+"46~Report crashes, hangs, lags, bugs and general disappointment at the "
+"forums."
+msgstr "s46~Reporta erros, percas de performance, erros e desapontamento geral nos fórums."
+
+#: index.txt:48
+msgid "47~They are at our website, bay12games.com.  Check there for updates."
+msgstr "47~Estes encontram-se no nosso sítio, bay12games.com.  Visita-nos para saber de actualizações."
+
+#: index.txt:49
+msgid ""
+"48~You can also find an older yet more stable version of the game there."
+msgstr "48~Podes também encontrar uma versão mais antiga mas, no entanto, mais estável do jogo lá."
+
+#: index.txt:50
+msgid ""
+"49~As of February 2020, you can get help at the fan-created "
+"dwarffortresswiki.org."
+msgstr ""
+
+#: index.txt:51
+msgid "50~Please make use of and contribute to this valuable resource."
+msgstr "50~Por favor faze uso e contribua para este recurso valioso."
+
+#: index.txt:52
+msgid "51~If you enjoy the game, please consider supporting Bay 12 Games."
+msgstr "51~Se gostares do jogo, por favor considera apoiar Bay 12 Games."
+
+#: index.txt:53
+msgid "52~There is more information at our website and in the readme file."
+msgstr "52~Há mais informações em nosso sítio e no ficheiro LEIA-ME."
+
+#: index.txt:54
+msgid "53~data/announcement/end5"
+msgstr "53~data/announcement/end5"
+
+#: diplomatrebuffed.txt:2
+msgid "[TITLE]Diplomacy Stymied[/TITLE]"
+msgstr "[TITLE]Diplomacia Impedida[/TITLE]"
+
+#: diplomatrebuffed.txt:2
+msgid "[P]A diplomat has left unhappy."
+msgstr "[P]Um diplomata ficou infeliz."
+
+#: end2.txt:2
+msgid "[TITLE]Conquered[/TITLE]"
+msgstr "[TITLE]Conquistado[/TITLE]"
+
+#: end2.txt:2
+msgid "Your strength has been broken."
+msgstr "Tua força foi quebrada."
+
+#: end3.txt:2
+msgid "[TITLE]Withered[/TITLE]"
+msgstr "[TITLE]Enfraquecido[/TITLE]"
+
+#: end3.txt:2
+msgid "Your settlement has crumbled to its end."
+msgstr "Tua povoação ruiu até seu fim."
+
+#: end4.txt:2
+msgid "[TITLE]Retired[/TITLE]"
+msgstr "[TITLE]Reformado[/TITLE]"
+
+#: end4.txt:2
+msgid ""
+"Your fortress has settled into the rhythm of day-to-day living, beyond your "
+"meticulous concern."
+msgstr "Tua fortaleza entrou na rotina do dia-a-dia, longe da tua preocupação meticulosa."
+
+#: end5.txt:2
+msgid "[TITLE]Abandoned[/TITLE]"
+msgstr "[TITLE]Abandonado[/TITLE]"
+
+#: end5.txt:2
+msgid "Your settlement has been abandoned."
+msgstr "Tua povoação foi abandonada."
+
+#: fortressintro.txt:2
+msgid "[TITLE]A Dwarven Outpost[/TITLE]"
+msgstr "[TITLE]Um Posto Avançado Anão[/TITLE]"
+
+#: fortressintro.txt:2
+msgid ""
+"[P]You have arrived.  After a journey from the Mountainhomes into the\n"
+"forbidding wilderness beyond, your harsh trek has finally\n"
+"ended.  Your party of seven is to make an\n"
+"outpost for the glory of all of [VAR:NATIVENAME:GLOBAL:YOURCIV]."
+msgstr "[P]Chegou. Após uma jornada desde os Lares de Montanha em direção à hostil região selvagem, tua severa viagem finalmente terminou. Teu grupo de sete deve agora criar um posto avançado para glória de todos os [VAR:NATIVENAME:GLOBAL:YOURCIV]."
+
+#: fortressintro.txt:7
+msgid ""
+"[P]There are almost no supplies left, but with stout labor\n"
+"comes sustenance.  Whether by bolt, plow or hook, provide\n"
+"for your dwarves.  You are expecting a supply caravan just before\n"
+"winter entombs you, but it is Spring now.\n"
+"Enough time to delve secure lodgings, ere the [VAR:NAME_PLURAL:GLOBAL:LOCAL_LARGE_PREDATOR] get hungry.\n"
+"A new chapter of dwarven history begins here at this place, [VAR:NATIVENAME:GLOBAL:YOURFORT],\n"
+"\"[VAR:TRANSLATEDNAME:GLOBAL:YOURFORT]\".  Strike the earth!"
+msgstr "[P]Não sobram quase quaisquer provisões, mas com árduo labor \nvem sustento.  Seja por virote, arado ou gancho, providencia\naos teus anões. Esperas uma caravana de abastecimento mesmo antes de o\nInverno sepultar-te, mas é Primavera agora.\nTempo suficiente para procurar alojamentos seguros, antes de os [VAR:NAME_PLURAL:GLOBAL:LOCAL_LARGE_PREDATOR] terem fome.\nUm novo capítudo da história dos anões começa aqui, neste local,\n[VAR:NATIVENAME:GLOBAL:YOURFORT],\n\"[VAR:TRANSLATEDNAME:GLOBAL:YOURFORT]\".  Atinge a terra!"
+
+#: hastyking.txt:2
+msgid "[TITLE]A New Arrival[/TITLE]"
+msgstr "[TITLE]Uma Nova Chegada[/TITLE]"
+
+#: hastyking.txt:2
+msgid "[P]Your ruler has arrived, dressed as a peasant!"
+msgstr "[P]Teu governante chegou, vestido como um campónio!"
+
+#: kingarrival.txt:2
+msgid "[TITLE]The Monarch Has Arrived![/TITLE]"
+msgstr "[TITLE]O Monarca Chegou![/TITLE]"
+
+#: kingarrival.txt:2
+msgid ""
+"[P]Your ruler has arrived with a full entourage.  You are now a "
+"Mountainhome."
+msgstr "[P]O seu governante chegou com escolta completa. Agora é uma Casa de Montanha."
+
+#: merchantexit.txt:2
+msgid "[TITLE]The Caravan's Departure[/TITLE]"
+msgstr "[TITLE]A partida da caravana[/TITLE]"
+
+#: merchantexit.txt:2
+msgid "[P]The dwarves begin packing their belongings."
+msgstr "[P]Os anões começam a arrumar os seus pertences."
+
+#: merchantintro.txt:2
+msgid "[TITLE]The Autumn Caravan[/TITLE]"
+msgstr "[TITLE]A caravana de Outono[/TITLE]"
+
+#: merchantintro.txt:2
+msgid ""
+"[P]Although it is a grim reminder of the winter hardships to come,\n"
+"the supply caravan from [VAR:NATIVENAME:GLOBAL:YOURCIV] is a welcome sight.\n"
+"As the merchants unload their goods at the depot,\n"
+"you notice with pride that their eyes are alight with\n"
+"the anticipation of inspecting\n"
+"the splendid products of your industrious craftsdwarves.\n"
+"Take careful stock of your own stores.  What these dwarves offer\n"
+"might very well be the difference between a prosperous future and\n"
+"a slow and meaningless death."
+msgstr "[P]Embora seja um lembrete mórbido das dificuldades de Inverno que estão para vir,\na caravana de abastecimento de [VAR:NATIVENAME:GLOBAL:YOURCIV] é uma visão bem-vinda.\nConforme os comerciantes descarregam os seus produtos no armazém,\nvocê nota com orgulho que tem uma faisca nos olhos\ncom a antecipação de inspeccionar\nos produtos esplêndidos dos seus anões artesões empresariais.\nTenha o cuidado de verificar o stock dos seus depósitos. O que estes anões oferecem\npode bem ser a diferença entre um futuro próspero e\numa morte lenta e sem significado."
+
+#: semiend.txt:2
+msgid "[TITLE]The Metal of Metals![/TITLE]"
+msgstr "[TITLE]O metal dos metais[/TITLE]"
+
+#: semiend.txt:2
+msgid "You have found it!"
+msgstr "Encontrou-o!"
+
+#: unretire.txt:2
+msgid "[TITLE]A Dwarven Outpost Revisited[/TITLE]"
+msgstr "[TITLE]Um posto avançado anão revisitado[/TITLE]"
+
+#: unretire.txt:2
+msgid ""
+"[P]You have returned.  How have your sturdy charges fared in your absence?  "
+"Have they gone on adventures or moved on to richer delving at new frontier "
+"settlements?  Perhaps they are all still here, unwilling to leave the "
+"magnificent fortress you prepared for them.   Deep underground, the promise "
+"of treasure and the thrill of overcoming danger have lured you back to this "
+"place.  Will you strike the earth again?"
+msgstr "[P]Você regressou. Como terão sobrevivido os seus encargos robustos na sua ausência? Terão ido em aventuras ou mudado para locais mais ricos em novas povoações na fronteira? Talvez estejam todos aqui ainda, relutantes a deixar a magnifica fortaleza que preparou para eles. Bem nas profundezas, a promessa de tesouro e a excitação de sobreviver ao perigo atraíram-no de volta a este local. Irá bater na terra outra vez?"
+
+#: dwarf_liaison1.txt:2
+msgid ""
+"[VAR:NATIVENAME:MEETING:ACTOR]:  I am your liaison from the Mountainhomes.  "
+"Let's discuss your situation."
+msgstr "[VAR:NATIVENAME:MEETING:ACTOR]:  Sou a sua ligação às Casas da Montanha. Vamos discutir a sua situação."
+
+#: dwarf_liaison_bye.txt:2
+msgid ""
+"[VAR:NATIVENAME:MEETING:ACTOR]:  Farewell, [VAR:NATIVENAME:MEETING:NOBLE].  I look forward\n"
+"to our meeting next year.  Our fortunes rise and fall together."
+msgstr "[VAR:NATIVENAME:MEETING:ACTOR]:  Adeus, [VAR:NATIVENAME:MEETING:NOBLE].  Estou ansioso pela nossa reunião do próximo ano.  A nossa fortuna cresce e declina em conjunto."
+
+#: elves_firstcontact1.txt:2
+msgid ""
+"[VAR:NATIVENAME:MEETING:ACTOR]:  You have disrespected the trees in this area, but this is what we have come to expect\n"
+"from your stunted kind.  Further abuse cannot be tolerated.  Let this be a warning to you."
+msgstr "[VAR:NATIVENAME:MEETING:ACTOR]:  Tem sido desrepeitoso para com as árvores nesta área, mas isso tem sido que temos vindo a esperar do tipo de pessoa estagnada que é.  Não será tolerado mais abuso.  Que isto sirva de aviso para si."
+
+#: elves_firstcontact2.txt:2
+msgid ""
+"[VAR:NATIVENAME:MEETING:ACTOR]:  What a pleasant surprise!  Not a single tree here weeps from the abuses\n"
+"meted out with such ease by your people.  Joy!  The dwarves have turned a page,\n"
+"not that we would make paper.  A travesty!  Perhaps it is better said that the dwarves\n"
+"have turned over a new leaf, and the springtime for our two races has\n"
+"only just begun."
+msgstr "[VAR:NATIVENAME:MEETING:ACTOR]:  Que surpresa agradável!  Nem uma única árvore solta uma lágrima pelos abusos dados com tanta facilidade pelo vosso povo. Alegria!  Os anões viraram uma página,\nnão que fossemos fazer papel.  A aberração!  Talvez seja melhor dizer que os anões\nviraram uma nova folha, e a primavera para as nossas duas raças apenas\ncomeçou."
+
+#: elves_standard1.txt:2
+msgid ""
+"[VAR:NATIVENAME:MEETING:ACTOR]:  Greetings from the woodlands.  We have much"
+" to discuss."
+msgstr "[VAR:NATIVENAME:MEETING:ACTOR]:  Cumprimentos dos bosques.  Temos muito para discutir."
+
+#: elves_standard_bye.txt:2
+msgid ""
+"[VAR:NATIVENAME:MEETING:ACTOR]:  Although we do not always see eye to eye (ha!), I\n"
+"bid you farewell.  May you someday embrace nature as you embrace the rocks and mud."
+msgstr "[VAR:NATIVENAME:MEETING:ACTOR]:  Embora não vejamos sempre olho a olho (ha!), \ndesejo-lhe adeus.  Que algum dia possa abraçar a natureza como abraça as pedras e lama."
+
+#: human_standard1.txt:2
+msgid ""
+"[VAR:NATIVENAME:MEETING:ACTOR]:  Greetings, noble dwarf.  There is much to "
+"discuss."
+msgstr "[VAR:NATIVENAME:MEETING:ACTOR]:  Cumprimentos, nobre anão.  Há muito para discutir."
+
+#: human_standard_bye.txt:2
+msgid ""
+"[VAR:NATIVENAME:MEETING:ACTOR]:  It has been an honor, noble [VAR:NATIVENAME:MEETING:NOBLE].\n"
+"I bid you farewell."
+msgstr "[VAR:NATIVENAME:MEETING:ACTOR]: Foi uma honra, nobre [VAR:NATIVENAME:MEETING:NOBLE].\nDesejo-lhe um feliz adeus."
+
+#: human_trade1.txt:2
+msgid ""
+"[VAR:NATIVENAME:MEETING:ACTOR]:  On behalf of the Merchants' Guild, let me "
+"extend greetings to your people.  There is much to discuss."
+msgstr "[VAR:NATIVENAME:MEETING:ACTOR]:  Em nome do Grémio de Comerciantes, deixe-me desejar-lhe as boas vindas ao seu povo.  Há muito a discutir."
+
+#: human_trade_bye.txt:2
+msgid ""
+"[VAR:NATIVENAME:MEETING:ACTOR]:  Again on behalf of the Merchants' Guild, let me bid farewell\n"
+"to you and your stout dwarves."
+msgstr "[VAR:NATIVENAME:MEETING:ACTOR]:  Uma vez mais, em nome do Grémio de Comerciantes, deixe-me desejar uma feliz despedida\na si e aos seus robustos anões."
+
+#: a_first.txt:2
+msgid "[TITLE]The Manual: Your First Adventurer[/TITLE]"
+msgstr "[TITLE]O Manual: A sua primeira aventura[/TITLE]"
+
+#: a_first.txt:2
+msgid "Before you begin, you need to create your adventurer."
+msgstr "Andes de começar, deve criar o seu aventureiro."
+
+#: a_first.txt:4
+msgid ""
+"First, you choose from among the available human, dwarf and elf "
+"civilizations or choose a retired adventurer once you have one.  New "
+"adventurers also pick a status from among peasant, hero and demigod.  The "
+"only effect of this status is to determine how powerful your character is at"
+" the beginning of the game.  The status will be indicated in your "
+"introduction in legends mode."
+msgstr "Primeiro, deve escolher entre as civilizações humana, anã ou elfa disponíveis ou escolher um aventureiro reformado uma vez que tenha um. Novos aventureiros podem também escolher um estatuto entre camponês, herói ou semi-deus. O único efeito que este estatuto terá será determinar o quão poderoso o seu personagem será no início do jogo. O estatuto será indicado na sua apresentação no modo lendário."
+
+#: a_first.txt:6
+msgid ""
+"Second, you need to select attributes and skills to improve.  Among skills, "
+"most of the mental ones have no use in adventure mode currently, but "
+"kinesthetic sense and spatial sense can be used in combat.  Fighter and "
+"Observer are useful skills for combat.  Fighter influences your aiming "
+"chances greatly, relatively to your opponent's skill.  Your weapon skill "
+"will determine your starting equipment.  In the final screen you can select "
+"a name and gender for yourself."
+msgstr "Segundo, deve escolher atributos e habilidades a melhorar. Acerca destas, a maioria das habilidades mentais não tem qualquer uso corrente em modo de aventura, mas sentido cinestésico e espacial podem ser usados em combate. Guerreiro e Observador são habilidades úteis para combate. Guerreiro influencia em muito a sua capacidade de pontaria relativamente à perícia do seu oponente. A sua habilidade com arma irá determinar o seu equipamento inicial. No ecrã final, poderá escolher o seu nome e género."
+
+#: a_first.txt:8
+msgid ""
+"Unless your world was somehow catastrophically depopulated, you should start"
+" in an appropriate settlement.  Feel free to explore, but in order to give "
+"yourself some direction, you can talk ([IKEY:A_TALK]) to people to get "
+"information and recruit followers.  The number and quality of the people "
+"that will join you depends on your overall skill and reputation.  You can "
+"ask people in town for numerous tasks at a time, though you might want to "
+"avoid this to reduce clutter in your log.  If somebody refers you elsewhere "
+"for a task, you can still ask for tasks again to obtain any additional tasks"
+" that person is interested in mentioning."
+msgstr "A não ser que o seu mundo tenha, de alguma forma, perdido população de uma catastrófica, deverá começar numa povoação adequada. Sinta-se livre de explorar mas, para lhe dar alguma direção, poderá falar ([IKEY:A_TALK]) com pessoal para obter informação geral e recrutar seguidores. O número e qualidade das pessoas que se juntam a si depende da sua habilidade geral e reputação. Pode perguntar acerca de várias tarefas ao mesmo tempo às pessoas da cidade mas poderá querer evitar desordem no seu registo. Se alguém o orientar a outro local para obter uma tarefa, poderá ainda perguntar acerca das mesmas outra vez para obter mais tarefas adicionais que essa pessoa esteja interessada em mencionar."
+
+#: a_first.txt:10
+msgid ""
+"Once you are ready to go, you can press [IKEY:A_TRAVEL] (in friendly "
+"locations).  This takes you to the travel map, where you can move more "
+"quickly to your destination.  View your adventurer log ([IKEY:A_LOG]) to "
+"help you locate sites you know about or to remind you of your tasks.  You "
+"cannot enter certain sites from the travel map.  Stop travel "
+"([IKEY:A_END_TRAVEL]) from the outskirts to approach these places carefully."
+msgstr "Uma vez pronto para ir, pode carregar em [IKEY:A_TRAVEL] (em locais amigáveis). Isto dar-lhe-á acesso ao mapa de viagem onde poderá viajar rapidamente até ao seu destino. Veja o seu registo de aventureiro ([IKEY:A_LOG]) para o ajudar a localizar locais que conhece ou para se relembrar das suas tarefas. Não é possível entrar em certos locais a partir do mapa de viagem. Pare a viagem ([IKEY:A_END_TRAVEL]) nos arredores para se aproximar dos mesmos com cautela."
+
+#: a_first.txt:12
+msgid ""
+"You'll need to eat and drink.  You start with some water, and you can refill"
+" your waterskin at a river or well.  Food is sold in town and you can also "
+"butcher animals that you kill in the wilderness.  It is important to stay "
+"well-rested, but it is dangerous to sleep outside, especially at night.  "
+"Travel with others or obtain permission to sleep in cottages or castles for "
+"the night."
+msgstr "Precisará de comer e beber. Começará com alguma água e poderá reabastecer o seu cantil num rio ou poço. Comida é vendida em povoações e pode também preparar animais que mate nas regiões selvagens. É importante que descanse mas é perigoso dormir no exterior, especialmente à noite. Faça viagens com outras personagens e obtenha permissão para dormir em cabanas ou castelos durante a noite."
+
+#: a_first.txt:14
+msgid ""
+"If you cannot make use of the objects you find, remember that you can still "
+"sell them at towns and obtain more useful ones there.  There are many "
+"currencies in use in the world, and you may find that you have to trade in "
+"some types of coins as regular objects.  This devalues them significantly at"
+" this time."
+msgstr "Se não puder fazer uso de objectos que encontre, lembre-se que pode sempre vendê-los nas povoações bem como obter items mais úteis. Existem muitas divisas em uso no mundo e poderá ver que precisa de trocar em algumas moedas como objectos normais. Isto faz com que percam valor significativamente nessas alturas."
+
+#: a_first.txt:16
+msgid ""
+"Remember to check the key bindings to see a list of your options.  There are"
+" many commands that were not described here."
+msgstr "Lembre-se de verificar o seu mapeamento de teclas para ver a lista das opções que lhe estão disponíveis. Existem muitos comandos que não foram descritos aqui."
+
+#: a_first.txt:19
+msgid "[LINK:data/help/a_keys]Key Bindings[/LINK]"
+msgstr "[LINK:data/help/a_keys]Funções de teclas[/LINK]"
+
+#: a_icons.txt:2
+msgid "[TITLE]The Manual: Adventure Icons[/TITLE]"
+msgstr "[TITLE]O Manual: Ícones de aventura[/TITLE]"
+
+#: a_icons.txt:2
+msgid ""
+"Icons are exactly as in the main game, except that @ is reserved for you."
+msgstr "Ícones são exactamente como no jogo principal, excepto que @ está reservado para si."
+
+#: a_icons.txt:4
+msgid "[LINK:data/help/icons_dwarf]Professions (Dwarven Examples)[/LINK]"
+msgstr "[LINK:data/help/icons_dwarf]Profissões (Exemplos Anãos)[/LINK]"
+
+#: a_icons.txt:5
+msgid "[LINK:data/help/icons_creature]Creatures (A Partial List)[/LINK]"
+msgstr "[LINK:data/help/icons_creature]Criaturas (Uma Lista Parcial)[/LINK]"
+
+#: a_icons.txt:6
+msgid "[LINK:data/help/icons_items]Objects (A Partial List)[/LINK]"
+msgstr "[LINK:data/help/icons_items]Objetos (Uma Lista Parcial)[/LINK]"
+
+#: a_icons.txt:7
+msgid "[LINK:data/help/icons_terrain]Terrain (A Partial List)[/LINK]"
+msgstr "[LINK:data/help/icons_terrain]Terrenos (Uma Lista Parcial)[/LINK]"
+
+#: a_intro.txt:2
+msgid "[TITLE]The Manual: Adventure Mode Introduction[/TITLE]"
+msgstr "[TITLE]O Manual: Introdução ao Modo de Aventura[/TITLE]"
+
+#: a_intro.txt:2
+msgid ""
+"Maybe you attempted to guide the dwarves to fortune and things just didn't work out?\n"
+"Welcome to adventure mode.  Now you'll create a character and go on a journey of\n"
+"discovery throughout the world your dwarves left behind.  Perhaps you'll set out for\n"
+"the ruins of your old fortress or help a nearby town.  Throughout the course\n"
+"of your explorations, you'll not only build your own legend, but unearth tales of\n"
+"ancient heroes and fallen civilizations (possibly your own).  Whether you are in it for personal glory,\n"
+"or so that the legend of your dwarf fortress can be exposed to the scrutiny of history, you'll\n"
+"find what you're looking for...  or die trying several times."
+msgstr "Talvez tenha tentado guiar os anões até à fortuna e as coisas não saíram como queria?\nBem vindo ao modo de aventura. Agora pode criar um personagem e partir numa viagem\nde descoberta à volta do mundo que os seus anões deixaram para trás. Talvez parta em direção\n às ruínas da sua antiga fortaleza ou ajude uma cidade próxima. Ao longo das suas\nexpedições, pode não só construir uma lenda para si, mas também descobrir\ncontos de antigos heróis e civilizações caídas (possivelmente a sua). Quer esteja nisto pela sua glória pessoa\nou para que a lenda da sua fortaleza de anões possa surgir no escrutínio da história, ira\nencontrar o que procura...ou morrer várias vezes na tentativa."
+
+#: a_keys.txt:2
+msgid "[TITLE]The Manual: Adventure Mode Key Bindings[/TITLE]"
+msgstr "[TITLE]O Manual: Atalhos de Teclado do Modo de Aventura[/TITLE]"
+
+#: a_keys.txt:2
+msgid "Here are the keys you can use to control your adventurer."
+msgstr "Estas são as teclas que pode usar para controlar o seu aventureiro."
+
+#: a_keys.txt:5
+msgid "[C:7:0:1]Main Keys:[C:7:0:0]"
+msgstr "[C:7:0:1]Teclas Principais:[C:7:0:0]"
+
+#: a_keys.txt:4
+msgid "[IKEY:A_MOVE_DOWN_AUX] - Move/attack."
+msgstr "[IKEY:A_MOVE_DOWN_AUX] - Mover/Atacar."
+
+#: a_keys.txt:17
+msgid "[IKEY:A_MOVE_S_UP] etc. - Move/attack up."
+msgstr "[IKEY:A_MOVE_S_UP] etc. - Mover/Atacar para cima."
+
+#: a_keys.txt:19
+msgid "[IKEY:A_MOVE_S_DOWN] etc. - Move/attack down."
+msgstr "[IKEY:A_MOVE_S_DOWN] etc. - Mover/Atacar para baixo."
+
+#: a_keys.txt:21
+msgid ""
+"[IKEY:A_CARE_MOVE_S] etc. - Move carefully (for entering water, jumping off "
+"cliffs)."
+msgstr "[IKEY:A_CARE_MOVE_S] etc. - Mover cautelosamente (para entrar na água, saltar de encostas)."
+
+#: a_keys.txt:23
+msgid "[IKEY:A_MOVE_SAME_SQUARE] - Attack same square."
+msgstr "[IKEY:A_MOVE_SAME_SQUARE] - Atacar o mesmo quadrado."
+
+#: a_keys.txt:25
+msgid "[IKEY:A_WAIT] - Wait for ten instants (a normal step)."
+msgstr "[IKEY:A_WAIT] - Esperar dez instantes (um passo normal)."
+
+#: a_keys.txt:27
+msgid "[IKEY:A_SHORT_WAIT] - Wait for one instant."
+msgstr "[IKEY:A_SHORT_WAIT] - Esperar um instante."
+
+#: a_keys.txt:29
+msgid "[IKEY:SELECT] - Advance/clear messages."
+msgstr "[IKEY:SELECT] - Avançar/limpar mensagens."
+
+#: a_keys.txt:31
+msgid "[IKEY:CHANGETAB] - Change to another party member."
+msgstr ""
+
+#: a_keys.txt:33
+msgid "[IKEY:A_ANNOUNCEMENTS] - View announcements."
+msgstr "[IKEY:A_ANNOUNCEMENTS] - Ver anúncios."
+
+#: a_keys.txt:36
+msgid "[IKEY:A_CONSTRUCTION] - Found a site and build."
+msgstr "[IKEY:A_CONSTRUCTION] - Fundar um local e construir."
+
+#: a_keys.txt:38
+msgid "[IKEY:A_COMPANIONS] - View companions."
+msgstr "[IKEY:A_COMPANIONS] - Ver companheiros."
+
+#: a_keys.txt:40
+msgid "[IKEY:A_INV_DROP] - Drop an item."
+msgstr "[IKEY:A_INV_DROP] - Largar um ítem."
+
+#: a_keys.txt:42
+msgid "[IKEY:A_INV_EATDRINK] - Eat or drink something."
+msgstr "[IKEY:A_INV_EATDRINK] - Comer ou beber qualquer coisa."
+
+#: a_keys.txt:44
+msgid "[IKEY:A_SHOOT] - Fire a projectile."
+msgstr "[IKEY:A_SHOOT] - Disparar um projétil."
+
+#: a_keys.txt:46
+msgid "[IKEY:A_GROUND] - Pick up an item."
+msgstr "[IKEY:A_GROUND] - Apanhar um ítem."
+
+#: a_keys.txt:48
+msgid ""
+"[IKEY:A_HOLD] - Hold or hang from something (to climb).  "
+"Mount/dismount/lead/claim pet."
+msgstr ""
+
+#: a_keys.txt:50
+msgid "[IKEY:A_INV_LOOK] - Inventory."
+msgstr "[IKEY:A_INV_LOOK] - Inventório."
+
+#: a_keys.txt:52
+msgid "[IKEY:A_JUMP] - Jump.  Sprint in movement options to run and jump."
+msgstr "[IKEY:A_JUMP] - Saltar.  Corra nas opções de movimento para correr e saltar."
+
+#: a_keys.txt:54
+msgid "[IKEY:A_TALK] - Talk, shout, perform or pray."
+msgstr "[IKEY:A_TALK] - Falar, gritar, atuar ou rezar."
+
+#: a_keys.txt:56
+msgid "[IKEY:A_LOOK] - Look around."
+msgstr "[IKEY:A_LOOK] - Olhar em redor."
+
+#: a_keys.txt:58
+msgid "[IKEY:A_MOVEMENT] - Movement options."
+msgstr "[IKEY:A_MOVEMENT] - Opções de movimento."
+
+#: a_keys.txt:60
+msgid "[IKEY:A_ODOR] - Show strongest odor."
+msgstr "[IKEY:A_ODOR] - Mostrar o odor mais forte."
+
+#: a_keys.txt:62
+msgid ""
+"[IKEY:A_INV_PUTIN] - Put an item in a container, place an item on or in "
+"furniture, or pack an item on a pack animal."
+msgstr ""
+
+#: a_keys.txt:64
+msgid "[IKEY:A_INV_DRAW_WEAPON] - Draw/put away weapon."
+msgstr "[IKEY:A_INV_DRAW_WEAPON] - Sacar/arrumar arma."
+
+#: a_keys.txt:66
+msgid ""
+"[IKEY:A_INV_REMOVE] - Remove an item you are wearing or from a container."
+msgstr "[IKEY:A_INV_REMOVE] - Remover um objecto que esteja a usar ou de dentro de um contentor."
+
+#: a_keys.txt:68
+msgid "[IKEY:A_STANCE] - Stand or lie down."
+msgstr "[IKEY:A_STANCE] - Levantar-se ou deitar-se."
+
+#: a_keys.txt:70
+msgid "[IKEY:A_THROW] - Throw an item."
+msgstr "[IKEY:A_THROW] - Atirar um objecto."
+
+#: a_keys.txt:72
+msgid ""
+"[IKEY:A_BUILDING] - Interact with a building, furniture, vehicle or "
+"mechanism."
+msgstr "[IKEY:A_BUILDING] - Interagir com um prédio, mobília, veículo ou mecanismo."
+
+#: a_keys.txt:74
+msgid "[IKEY:A_CENTER] - Center screen on yourself."
+msgstr "[IKEY:A_CENTER] - Centrar o ecrã em si."
+
+#: a_keys.txt:76
+msgid "[IKEY:A_INV_WEAR] - Wear an item."
+msgstr "[IKEY:A_INV_WEAR] - Utilizar um item."
+
+#: a_keys.txt:78
+msgid ""
+"[IKEY:A_ACTION] - Create an object, create art, use powers, or butcher a "
+"corpse."
+msgstr "[IKEY:A_ACTION] - Criar um objeto, criar arte, utilizar poderes ou chacinar um corpo."
+
+#: a_keys.txt:80
+msgid "[IKEY:A_YIELD] - Yield."
+msgstr "[IKEY:A_YIELD] - Empunhar."
+
+#: a_keys.txt:82
+msgid "[IKEY:A_STATUS] - Status."
+msgstr "[IKEY:A_STATUS] - Situação."
+
+#: a_keys.txt:84
+msgid "[IKEY:A_ATTACK] - Aim an attack/wrestle."
+msgstr "[IKEY:A_ATTACK] - Apontar um ataque/chave."
+
+#: a_keys.txt:87
+msgid "[IKEY:A_COMBAT] - Combat preferences."
+msgstr "[IKEY:A_COMBAT] - Preferências de combate."
+
+#: a_keys.txt:89
+msgid "[IKEY:A_DATE] - Date/time."
+msgstr "[IKEY:A_DATE] - Data/tempo."
+
+#: a_keys.txt:91
+msgid "[IKEY:A_TACTICAL_SETTINGS] - Party tactical settings."
+msgstr ""
+
+#: a_keys.txt:93
+msgid "[IKEY:A_INTERACT] - Interact with an object in an advanced way."
+msgstr "[IKEY:A_INTERACT] - Interagir com um objecto de forma avançada."
+
+#: a_keys.txt:95
+msgid "[IKEY:A_DISPLAY_TRACKS] - Display all nearby tracks."
+msgstr "[IKEY:A_DISPLAY_TRACKS] - Mostrar todos os trilhos próximos."
+
+#: a_keys.txt:97
+msgid "[IKEY:A_FRESHEST_TRACK] - Display information for freshest track."
+msgstr "[IKEY:A_FRESHEST_TRACK] - Apresentar informação acerca do trilho mais recente."
+
+#: a_keys.txt:99
+msgid "[IKEY:A_SEARCH] - Search the nearby area very carefully."
+msgstr "[IKEY:A_SEARCH] - Vasculhar a área circundante com grande cuidado."
+
+#: a_keys.txt:101
+msgid "[IKEY:A_DISPLAY_ODOR] - Display odor information."
+msgstr "[IKEY:A_DISPLAY_ODOR] - Apresentar informação acerca de odores."
+
+#: a_keys.txt:103
+msgid "[IKEY:A_TEMPERATURE] - Temperature."
+msgstr "[IKEY:A_TEMPERATURE] - Temperatura."
+
+#: a_keys.txt:105
+msgid "[IKEY:A_LOG] - Adventure log/information."
+msgstr "[IKEY:A_LOG] - Diário de Aventura/informacão."
+
+#: a_keys.txt:107
+msgid "[IKEY:A_SPEED_SNEAK] - Sneak/speed."
+msgstr "[IKEY:A_SPEED_SNEAK] - Esgueirar/velocidade."
+
+#: a_keys.txt:109
+msgid "[IKEY:A_TRAVEL] - Travel."
+msgstr "[IKEY:A_TRAVEL] - Viajar."
+
+#: a_keys.txt:111
+msgid "[IKEY:A_WEATHER] - Weather."
+msgstr "[IKEY:A_WEATHER] - Clima."
+
+#: a_keys.txt:113
+msgid "[IKEY:A_SLEEP] - Sleep/wait."
+msgstr "[IKEY:A_SLEEP] - Dormir/esperar."
+
+#: a_keys.txt:117
+msgid "[C:7:0:1]Travel Keys:[C:7:0:0]"
+msgstr "[C:7:0:1]Teclas de viagem:[C:7:0:0]"
+
+#: a_keys.txt:115
+msgid "[IKEY:CURSOR_DOWNRIGHT] - Move."
+msgstr "[IKEY:CURSOR_DOWNRIGHT] - Movimento."
+
+#: a_keys.txt:127
+msgid "[IKEY:CURSOR_DOWN_Z] - Move into/out of tunnel."
+msgstr "[IKEY:CURSOR_DOWN_Z] - Entrar/sair de túnel."
+
+#: a_keys.txt:130
+msgid "[IKEY:A_TRAVEL_CLOUDS] - Start/stop cloud viewing."
+msgstr "[IKEY:A_TRAVEL_CLOUDS] - Começar/parar de olhar para as nuvens."
+
+#: a_keys.txt:132
+msgid "[IKEY:A_END_TRAVEL] - Visit location."
+msgstr "[IKEY:A_END_TRAVEL] - Visitar local."
+
+#: a_keys.txt:134
+msgid "[IKEY:A_TRAVEL_HIDE_INSTRUCTIONS] - Display/hide instructions."
+msgstr "[IKEY:A_TRAVEL_HIDE_INSTRUCTIONS] - Mostrar/ocultar instruções."
+
+#: a_keys.txt:136
+msgid "[IKEY:A_TRAVEL_MAP] - Display/hide map."
+msgstr "[IKEY:A_TRAVEL_MAP] - Mostrar/ocultar mapa."
+
+#: a_keys.txt:138
+msgid "[IKEY:A_SNEAK] - Sneak."
+msgstr "[IKEY:A_SNEAK] - Esgueirar."
+
+#: a_keys.txt:140
+msgid ""
+"[IKEY:A_DISPLAY_TRACKS] - Display all nearby tracks and strongest odor."
+msgstr "[IKEY:A_DISPLAY_TRACKS] - Mostrar todas as trilhas próximas e o odor mais forte."
+
+#: a_keys.txt:142
+msgid "[IKEY:A_TRAVEL_LOG] - Adventure log/information."
+msgstr "[IKEY:A_TRAVEL_LOG] - Diário de aventura/informação."
+
+#: a_keys.txt:144
+msgid "[IKEY:A_TRAVEL_SLEEP] - Sleep/wait."
+msgstr "[IKEY:A_TRAVEL_SLEEP] - Dormir/esperar."
+
+#: a_main.txt:2
+msgid "[TITLE]Dwarf Fortress: The Manual[/TITLE]"
+msgstr "[TITLE]Dwarf Fortress: O Manual[/TITLE]"
+
+#: a_main.txt:2
+msgid ""
+"You can press [IKEY:HELP] any time for help.  Press it now for help on how "
+"to use this text viewer.  And remember:"
+msgstr "Pode carregar em [IKEY:HELP] a qualquer altura para chamar a ajuda. Prima a tecla agora para ajuda acerca de como utilizar este visualizador de texto. E lembre-se:"
+
+#: a_main.txt:4
+msgid "[C:2:0:1]Losing is still fun, and now it's personal![C:7:0:0]"
+msgstr "[C:2:0:1]Perder ainda é divertido e agora é pessoal![C:7:0:0]"
+
+#: a_main.txt:8
+msgid "[LINK:data/help/a_intro]Introduction[/LINK]"
+msgstr "[LINK:data/help/a_intro]Introdução[/LINK]"
+
+#: a_main.txt:9
+msgid "[LINK:data/help/a_first]Your First Adventurer[/LINK]"
+msgstr "[LINK:data/help/a_first]O seu primeiro Aventureiro[/LINK]"
+
+#: a_main.txt:10
+msgid "[LINK:data/help/a_icons]Icons[/LINK]"
+msgstr "[LINK:data/help/a_icons]Icones[/LINK]"
+
+#: a_main.txt:11
+msgid "[LINK:data/help/tables]Tables[/LINK]"
+msgstr "[LINK:data/help/tables]Mesas[/LINK]"
+
+#: a_main.txt:13
+msgid "[LINK:data/help/technical]Technical[/LINK]"
+msgstr "[LINK:data/help/technical]Técnico[/LINK]"
+
+#: accounts.txt:2
+msgid "[TITLE]The Manual: Accounts[/TITLE]"
+msgstr "[TITLE]O Manual: Contas[/TITLE]"
+
+#: accounts.txt:2
+msgid ""
+"Once you get a baron, your dwarves will all be given accounts in the "
+"currency of the dwarven kingdom."
+msgstr "Uma vez que obtenha um barão, todos os seus anões receberam uma conta na moeda do reino anão."
+
+#: accounts.txt:4
+msgid ""
+"They can no longer freely acquire goods, or even food, but instead must purchase these things.  The only exception is that penniless starving\n"
+"dwarves can eat the cheapest food items in the fortress."
+msgstr "Não poderão mais obter bens gratuitamente, ou mesmo comida, mas sim comprar esses mesmos artigos. A única excepção é que anões sem dinheiro esfaimados\npoderão comprar a comida mais barata na fortaleza."
+
+#: accounts.txt:7
+msgid ""
+"Nobles do not have accounts.  Dwarves that have attained a legendary skill "
+"status are also exempt."
+msgstr "Nobres não tem contas. Anões que tenham alcançado um estatuto de destreza lendária são também isentos."
+
+#: accounts.txt:9
+msgid "Other dwarves must obtain money by doing tasks or running shops."
+msgstr "Quaisquer outros anões deverão obter dinheiro realizado tarefas ou mantendo lojas."
+
+#: accounts.txt:12
+msgid "[C:7:0:1]Coins[C:7:0:0]"
+msgstr "[C:7:0:1]Moedas[C:7:0:0]"
+
+#: accounts.txt:11
+msgid ""
+"Once accounts are active, dwarves will want shiny coins to reflect their balances.  The bookkeeper sets mandates that let you know how many coins to make.\n"
+"These mandates are exceptional in that there are no punishments associated to them.  Dwarves will periodically bring coins to their rooms or give\n"
+"up coins if they have too many."
+msgstr "Uma vez se ative contas, anões quererão moedas para reflectir os seus saldos. O guarda-livros definirá mandatos para que saiba quantas moedas deve criar.\nEstes mandatos são excepcionais no sentido em que não há qualquer castigo associado a eles. Anões irão periodicamente levar moedas para os seus quartos ou darão\nmoedas se tem demasiadas."
+
+#: accounts.txt:18
+msgid "[LINK:data/help/menu_status_currency]Currency Counts[/LINK]"
+msgstr "[LINK:data/help/menu_status_currency]Contas Correntes[/LINK]"
+
+#: accounts.txt:20
+msgid "[C:7:0:1]Shops[C:7:0:0]"
+msgstr "[C:7:0:1]Lojas[C:7:0:0]"
+
+#: accounts.txt:17
+msgid ""
+"In order to sell goods to your dwarves, you'll have to set up shops.  Initially, shops are run by the bookkeeper and broker, but these dwarves\n"
+"will attempt to sell the shops off to any willing buyer."
+msgstr "De forma a vender bens aos seus anões, deverá criar lojas. Inicialmente, lojas são geridas pelo guarda-livros e corretor, mas estes anões tentarão vender as mesmas a qualquer potencial comprador."
+
+#: accounts.txt:24
+msgid ""
+"The shopkeeper buys finished goods from the fortress stockpiles and has them"
+" moved to the stop to be sold to other dwarves at a slight profit."
+msgstr "O comerciante compra bens criados aos armazéns da fortaleza e move-os para a loja de forma a serem vendidos a outros anões com uma ligeira margem de lucro."
+
+#: accounts.txt:26
+msgid ""
+"All purchases occur at the account level.  Coins are not needed.  The bookkeeper handles all of the accounting.  All dwarves have exceptional\n"
+"abilities with coin counting and seem to know the balances of every dwarf in the fortress, so there are no attempts to cheat the shopkeeper."
+msgstr "Quaisquer compras ocorrem ao nível da conta. Moedas não é necessárias. O guarda-livros trata de toda a contabilidade. Todos os anões tem habilidades\nexcepcionais no que toca a contar moedas e parecem saber o saldo de todos os anões na fortaleza pelo que não há qualquer tentativa de enganar o comerciante."
+
+#: accounts.txt:29
+msgid "The power of Dwarven Justice dissuades potential thieves."
+msgstr "O poder de Justiça Anã dissuade potenciais ladrões."
+
+#: building_clutter.txt:2
+msgid "[TITLE]The Manual: Building Clutter[/TITLE]"
+msgstr "[TITLE]O Manual: Criar Desordem[/TITLE]"
+
+#: building_clutter.txt:2
+msgid ""
+"When viewing building tasks or items, the amount of clutter is displayed at "
+"the top right of the menu.  Clutter is caused by items in the building."
+msgstr "Quando a visualizar tarefas ou objetos, a quantidade de desordem é apresentada na zona superior direita do menu. Desordem é causada por objetos no edifício."
+
+#: building_clutter.txt:4
+msgid "Building clutter slows tasks:"
+msgstr "Tralha de edifícios atrasa tarefas:"
+
+#: building_clutter.txt:7
+msgid "[C:0:0:1](CLT)[C:7:0:0] Work is slowed by two times.[R]"
+msgstr "[C:0:0:1](CLT)[C:7:0:0] O trabalho irá demorar duas vezes mais.[R]"
+
+#: building_clutter.txt:8
+msgid "[C:7:0:0](CLT)[C:7:0:0] Work is slowed by three times.[R]"
+msgstr "[C:7:0:0](CLT)[C:7:0:0] O trabalho irá demorar três vezes mais.[R]"
+
+#: building_clutter.txt:9
+msgid "[C:7:0:1](CLT)[C:7:0:0] Work is slowed by four times.[R]"
+msgstr "[C:7:0:1](CLT)[C:7:0:0] O trabalho irá demorar quatro vezes mais.[R]"
+
+#: building_clutter.txt:10
+msgid "[C:6:0:1](CLT)[C:7:0:0] Work is slowed by five times.[R]"
+msgstr "[C:6:0:1](CLT)[C:7:0:0] O trabalho irá demorar cinco vezes mais.[R]"
+
+#: building_clutter.txt:11
+msgid "[C:4:0:0](CLT)[C:7:0:0] Work is slowed by six times.[R]"
+msgstr "[C:4:0:0](CLT)[C:7:0:0] O trabalho irá demorar seis vezes mais.[R]"
+
+#: building_clutter.txt:12
+msgid "[C:4:0:1](CLT)[C:7:0:0] Work is slowed by seven times.[R]"
+msgstr "[C:4:0:1](CLT)[C:7:0:0] O trabalho irá demorar sete vezes mais.[R]"
+
+#: building_clutter.txt:13
+msgid "[C:5:0:1](CLT)[C:7:0:0] Work is slowed by eight times.[R]"
+msgstr "[C:5:0:1](CLT)[C:7:0:0] O trabalho irá demorar oito vezes mais.[R]"
+
+#: building_clutter.txt:14
+msgid "[C:5:0:1]*CLT*[C:7:0:0] Work is slowed by nine times.[R]"
+msgstr "[C:5:0:1]*CLT*[C:7:0:0] O trabalho irá demorar nove vezes mais.[R]"
+
+#: building_clutter.txt:15
+msgid ""
+"[C:5:0:1][CHAR:15]CLT[CHAR:15][C:7:0:0] Work is slowed by ten times.[R]"
+msgstr "[C:5:0:1][CHAR:15]CLT[CHAR:15][C:7:0:0] O trabalho irá demorar dez vezes mais.[R]"
+
+#: building_clutter.txt:6
+msgid ""
+"In order to reduce clutter, you must remove items from the building.  You "
+"can do this by storing them properly."
+msgstr "Para poder reduzir a quantidade de tralha, deve retirar objetos de dentro do edifîcio. Poderá fazer isto através do armazenamento apropriado dos mesmos."
+
+#: building_clutter.txt:18
+msgid "[LINK:data/help/storage]Storage[/LINK]"
+msgstr "[LINK:data/help/storage]Armazenamento[/LINK]"
+
+#: crafts.txt:2
+msgid "[TITLE]The Manual: Making Crafts[/TITLE]"
+msgstr "[TITLE]O Manual: Ofícios de Fabrico[/TITLE]"
+
+#: crafts.txt:2
+msgid ""
+"To the dwarves, all of this mining is pointless unless the end result is a fortress filled with treasure.\n"
+"Once you've mined out some stone, you'll be ready to make crafts.  You can also make objects out of wood,\n"
+"bone, shell, glass, silk... whatever your dwarves can get their hands on.  You can also decorate existing objects\n"
+"with these materials."
+msgstr "Para os anões, toda a actividade de minar é sem sentido a não ser que o resultado final seja uma fortaleza cheia de tesouro.\nUma vez que tenha minado alguma pedra, poderá começar a fabricar objetos. Pode também criar objectos a partir de madeira,\nosso, concha, vidro, seda...qualquer material que os anões consigam apanhar. Poderá também decorar objetos existentes\ncom esses materiais."
+
+#: crafts.txt:7
+msgid "In order to make crafts, you need the following:"
+msgstr "Para poder fabricar coisas, precisará do seguinte:"
+
+#: crafts.txt:9
+msgid ""
+"[C:6:0:1][CHAR:15][C:2:0:1] A healthy, unoccupied dwarf with the proper "
+"profession"
+msgstr "[C:6:0:1][CHAR:15][C:2:0:1] Um anão saudável com a profissão adequada que não esteja ocupado"
+
+#: crafts.txt:11
+msgid "[C:6:0:1][CHAR:15][C:2:0:1] A proper, accessible workshop"
+msgstr "[C:6:0:1][CHAR:15][C:2:0:1] Uma oficina de trabalho adequada e acessível"
+
+#: crafts.txt:13
+msgid "[C:6:0:1][CHAR:15][C:2:0:1] A proper, accessible material"
+msgstr "[C:6:0:1][CHAR:15][C:2:0:1] Material adequado e acessível"
+
+#: crafts.txt:15
+msgid "For technical help with these matters, follow these links:"
+msgstr "Para ajuda técnica sobre estes assuntos, siga estes links:"
+
+#: crafts.txt:19
+msgid "[LINK:data/help/menu_professions]Setting Professions[/LINK]"
+msgstr "[LINK:data/help/menu_professions]Definir Profissões[/LINK]"
+
+#: crafts.txt:20
+msgid "[LINK:data/help/menu_buildjob]Creating Building Tasks[/LINK]"
+msgstr "[LINK:data/help/menu_buildjob]Criar Tarefas de Construção[/LINK]"
+
+#: crafts.txt:18
+msgid "Now let's discuss the individual materials."
+msgstr "Vamos agora discutir os materiais individuais."
+
+#: crafts.txt:24
+msgid "[C:7:0:1]Stone[C:7:0:0]"
+msgstr "[C:7:0:1]Pedra[C:7:0:0]"
+
+#: crafts.txt:23
+msgid ""
+"Stone is simple.  Use the mason or craftsdwarf's workshop to assign jobs.  "
+"Stone is buried under a few layers of soil in low-lying areas, so dig "
+"downward if you have trouble finding some."
+msgstr "Pedra é simples. Utilize um pedreiro ou oficina de um artífice anão para atribuir tarefas. Pedra pode ser encontrada enterrada sob algumas camadas de solo em zonas baixas pelo que cave diretamente para baixo se tiver dificuldade em encontrar alguma."
+
+#: crafts.txt:27
+msgid ""
+"Certain varieties of stone, like limestone, are used to further operations "
+"at the smelter.  If you want to use these in jobs, you'll have to enable "
+"them from the Stone Restriction screen."
+msgstr "Certas variedades de pedra, como calcário, são utilizadas para outras operações na fundição. Se quiser utiliza-las nessas operações, deverá ativar a sua utilização no ecrã de Restrição de Pedras."
+
+#: crafts.txt:29
+msgid "[LINK:data/help/menu_status_stone]Stone Restrictions[/LINK]"
+msgstr "[LINK:data/help/menu_status_stone]Restrições com Pedra[/LINK]"
+
+#: crafts.txt:31
+msgid "[C:7:0:1]Metal[C:7:0:0]"
+msgstr "[C:7:0:1]Metal[C:7:0:0]"
+
+#: crafts.txt:29
+msgid ""
+"Metal is more valuable than stone, but also harder to find and process.  The ore that you find must\n"
+"be refined at a smelter.  Then you will have bars.  Bars can be made into objects at the metalsmith's forge."
+msgstr "Metal é mais valioso que pedra, mas também mais difícil de encontrar e processar. O minério que encontre deve\nser refinado numa fundição. Obterá então barras. Barras podem ser transformadas em objetos numa forja de ferreiro."
+
+#: crafts.txt:35
+msgid ""
+"These processes require fuel.  You can use charcoal made from wood, or coal "
+"fuel from coal refined from the mountain."
+msgstr "Estes processos necessitam combustível. Pode usar carvão criado a partir de madeira ou carvão combustível criado a partir de carvão refinado da montanha."
+
+#: crafts.txt:37
+msgid ""
+"A metalsmith's forge requires an anvil.  You can either bring one with you "
+"or request one from the outpost liaison and trade for it the next year."
+msgstr "A forja de um ferreiro necessita de uma bigorna. Pode trazer uma consigo ou pedir uma ao representante do posto avançado e regatear por ela no ano seguinte."
+
+#: crafts.txt:40
+msgid "[C:7:0:1]Gems[C:7:0:0]"
+msgstr "[C:7:0:1]Gemas[C:7:0:0]"
+
+#: crafts.txt:39
+msgid ""
+"Gems are rare and valuable.  When you mine them from the mountain, they are initially \"rough\".  Rough gems are unfinished stones\n"
+"that need to be cut by a jeweler.  Build a jeweler's workshop to assign these jobs."
+msgstr "Gemas são raras e valiosas. Quando as minar na montanha, estarão inicialmente \"em bruto\". Gemas em bruto são pedras inacabadas\nque precisam de ser cortadas por um joalheiro. Construia uma oficina de joalharia para atribuir essas tarefas."
+
+#: crafts.txt:44
+msgid ""
+"Rarely, the gem cutter will be inspired and make\n"
+"a large finished gem or gem crafts.  Most of the time, you'll obtain small gems.  These objects are valuable in their own right, but can also be used to encrust other objects."
+msgstr "Raramente, um joalheiro estará inspirado e criará\numa gema final grande ou criações em gema. A maioria do tempo, obterá pequenas gemas. Estes objetos são valiosos por si só, mas podem também ser utilizados para incrustar outros objetos."
+
+#: crafts.txt:48
+msgid "[C:7:0:1]Wood[C:7:0:0]"
+msgstr "[C:7:0:1]Madeira[C:7:0:0]"
+
+#: crafts.txt:47
+msgid ""
+"Wood is easy to obtain and requires no processing.  It is also an early source of fuel and can be used to make lye.\n"
+"Cut wood by designating trees for logging outside.  You can then use the logs at the carpenter's workshop, the bowyer's workshop and\n"
+"the wood furnace.  Keep in mind that wood is the only material that can be used for beds and axles, so it's good to keep\n"
+"a steady supply of logs coming in from outdoors."
+msgstr "Madeira é fácil de obter e não requere qualquer processamento. É também uma fonte de combustível inicial e pode ser utilizada para criar potassa.\nMadeira pode ser cortada através da designação de árvores para abate no exterior. Pode então utilizar os troncos na oficina de carpintaria, oficina de fabrico de arcos e na fornalha de madeira. Tenha em mente que madeira é o único material que pode ser usado para camas e eixos, pelo que é bom manter\num fluxo constante de troncos a virem do exterior."
+
+#: crafts.txt:55
+msgid "[LINK:data/help/menu_designations]Designations[/LINK]"
+msgstr "[LINK:data/help/menu_designations]Designações[/LINK]"
+
+#: crafts.txt:57
+msgid "[C:7:0:1]Bone and Shell[C:7:0:0]"
+msgstr "[C:7:0:1]Osso e Casca[C:7:0:0]"
+
+#: crafts.txt:54
+msgid ""
+"Bone and shell are the debris of eating and butchery, but they can be used to make crafts or enhance existing objects as well.  This work\n"
+"is done at the craftsdwarf's workshop."
+msgstr "Osso e conchas são dejetos criados ao comer e esquartejamento, mas podem também ser usadas para criar objetos ou melhorar objetos já existentes também. Este trabalho\né feito na oficina de anão artesão."
+
+#: crafts.txt:62
+msgid "[C:7:0:1]Leather[C:7:0:0]"
+msgstr "[C:7:0:1]Couro[C:7:0:0]"
+
+#: crafts.txt:61
+msgid ""
+"Raw skins are obtained from the butcher's shop any time a corpse is butchered, and these can be processed at the tanner's workshop to make leather.\n"
+"The butcher and tanner assign jobs automatically."
+msgstr "Peles em bruto podem ser obtidas a partir do talho a qualquer altura que um corpo de animal é esquartejado, e estas podem ser processadas na oficina de curar couro para criar cabedal.\nTarefas são automaticamente atribuídas ao talhante e curador."
+
+#: crafts.txt:66
+msgid ""
+"Leather can then be used to make clothing, armor, backpacks, quivers, bags and crafts.\n"
+"Soldiers use backpacks to hold food so that they can stay on duty longer.  The value of leather depends on the creature."
+msgstr "Couro pode ser utilizado para criar roupa, armadura, mochilas, aljavas, sacos e artigos artesanais.\nSoldados utilizam mochilas para guardar comida para que possam estar em serviço mais tempo. O valor de couro depende da criatura."
+
+#: crafts.txt:70
+msgid "[C:7:0:1]Cloth[C:7:0:0]"
+msgstr "[C:7:0:1]Tecido[C:7:0:0]"
+
+#: crafts.txt:69
+msgid ""
+"Cloth is made at a loom from thread.  Thread is obtained from plants which have been processed at the farmer's workshop.  Cloth can be used at the\n"
+"clothes maker's shop to create clothes, crafts or bags."
+msgstr "Pano é feito num tear com fio. Fio é obtido a partir de plantas que tenham sido processadas na oficina de um lavrador. Tecido pode ser utilizado na\nloja de um alfaiate para criar roupas, artigos artesanais ou sacos."
+
+#: crafts.txt:75
+msgid "[C:7:0:1]Silk[C:7:0:0]"
+msgstr "[C:7:0:1]Seda[C:7:0:0]"
+
+#: crafts.txt:74
+msgid ""
+"Silk is like the cloth made from plant, but generally more valuable.  You'll occasionally find webs in your fortress, and if you have a loom,\n"
+"a task will appear automatically which lets the dwarves collect these webs.  Once you have silk cloth from the loom, you can use it like standard\n"
+"cloths."
+msgstr "Seda é, à semelhança de pano, feito a partir de plantas, mas é geralmente mais valiosa. Pode ocasionalmente encontrar teias na sua fortaleza e, se tiver um tear,\numa tarefa aparecerá automaticamente que permitira aos anões colher essas mesmas teias. Uma vez que obtenha tecido de seda de um tear, pode utilizá-lo da mesma forma que \nroupas normais."
+
+#: crafts.txt:81
+msgid "[C:7:0:1]Glass[C:7:0:0]"
+msgstr "[C:7:0:1]Vidro[C:7:0:0]"
+
+#: crafts.txt:80
+msgid ""
+"Glass is a fairly valuable material and can be a decent early trade good.  "
+"If you have a bag, you can create an order to collect sand at a glass "
+"furnace."
+msgstr "Vidro é relativamente valioso como material e pode ser usado cedo como material de troca comercial. Se tiver um saco, pode dar ordens para apanhar areia numa fornalha de vidro."
+
+#: crafts.txt:84
+msgid ""
+"In order to collect sand, you need to create a sand collection activity "
+"zone."
+msgstr "Para poder colher areia, deve criar uma zona de actividade para coleta de areia."
+
+#: crafts.txt:86
+msgid "[LINK:data/help/menu_activity_zones]Activity Zones[/LINK]"
+msgstr "[LINK:data/help/menu_activity_zones]Zonas de Actividade[/LINK]"
+
+#: crafts.txt:86
+msgid ""
+"Using sand, you can create green glass goods at the glass furnace.  Green glass isn't very valuable, but if you also have pearlash, you can make clear glass.\n"
+"Pearlash is potash which has been baked in a kiln.  As described in the paragraph on fertilizing farms, potash is obtained by evaporating\n"
+"lye water, and lye water is obtained from soaking wood ash at the ashery."
+msgstr "Usando areia, poderá criar bens de vidro verde numa fornalha de vidro. Vidro verde não é muito valioso mas, se tiver cinza de potássio, poderá criar vidro transparente.\nCinza de potássio obtém-se de cozinhar potassa num forno. Como descrito no parágrafo sobre fertilizar quintas, potassa é obtida ao evaporar\nágua de lixívia e esta, por sua vez, é obtida ao ensopar cinza de madeira num forno de queima."
+
+#: crafts.txt:91
+msgid ""
+"You can also substitute sand with rock crystal in the clear glass recipe to "
+"make crystal glass, which is quite valuable."
+msgstr "Pode também substituir areia por cristal de rocha na receita de vidro transparente para obter vidro de cristal, por si bastante valioso."
+
+#: crafts.txt:94
+msgid "[C:7:0:1]Soap[C:7:0:0]"
+msgstr "[C:7:0:1]Sabão[C:7:0:0]"
+
+#: crafts.txt:93
+msgid ""
+"Soap is a fairly valuable commodity, but its creation is somewhat involved.\n"
+"You need to create a soap maker's workshop, as well as lye and some rendered fat.  The value of soap depends on the creature.\n"
+"Unrotten fat can be rendered in the kitchen."
+msgstr "Sabão é uma comodidade relativamente valiosa, mas a sua criação é um bocado complicada.\nPrecisará de criar uma oficina de criador de sabão, bem como de lixívia e alguma gordura fundida. O valor do sabão dependerá da criatura.\nGordura não apodrecida pode ser fundida na cozinha."
+
+#: defense.txt:2
+msgid "[TITLE]The Manual: Defending the Fortress[/TITLE]"
+msgstr "[TITLE]O Manual: Defendendo a Fortaleza[/TITLE]"
+
+#: defense.txt:2
+msgid "You have two main methods of defending yourself:  soldiers and traps."
+msgstr "Tem dois meios principais para se defender: soldados e armadilhas."
+
+#: defense.txt:5
+msgid "[C:7:0:1]Soldiers[C:7:0:0]"
+msgstr "[C:7:0:1]Soldados[C:7:0:0]"
+
+#: defense.txt:4
+msgid ""
+"At any time, any dwarf that isn't a noble or a child can be recruited for service.\n"
+"This is done from the military screen, where the dwarves can be organized into squads."
+msgstr "A qualquer altura, qualquer anão que não seja um nobre ou criança pode ser recrutado para serviço.\nIsto é feito no ecrã militar, onde anões podem ser organizados em esquadras."
+
+#: defense.txt:10
+msgid "[LINK:data/help/menu_military]The Military Screen[/LINK]"
+msgstr "[LINK:data/help/menu_military]O Ecrã Militar[/LINK]"
+
+#: defense.txt:9
+msgid ""
+"Dwarves with no weapon skills do not like being drafted, and dwarves with no"
+" craft skills do not like being relieved."
+msgstr "Anões sem perícia de armas não gostam de ser recrutados, e anões sem habilidades de fabrico não gostam de ser rendidos."
+
+#: defense.txt:13
+msgid ""
+"Dwarves do not like serving on active duty for long periods of time.  Use "
+"the schedule options in the military screen to relieve squads for a time.  "
+"Squads that are standing down will train if you have a barracks or archery "
+"targets."
+msgstr "Anões não gostam de estar em serviço ativo por períodos tempo longos. Use as opções de agendamento no ecrã militar para render esquadras durante um tempo. Esquadras que estão a ser rendidas irão então treinas se tiver casernas ou alvos de tiro ao arco."
+
+#: defense.txt:16
+msgid "[C:7:0:1]Traps[C:7:0:0]"
+msgstr "[C:7:0:1]Armadilhas[C:7:0:0]"
+
+#: defense.txt:15
+msgid ""
+"Traps are another effective method of thwarting your opposition.  These come in many forms.  The components required\n"
+"depend on the trap, but all traps need mechanisms.  You can link levers and pressure plates to certain furniture to\n"
+"trigger more elaborate traps."
+msgstr "Armadilhas são outro método eficaz de frustar a sua oposição. Estas vem em muitas formas. Os componentes necessários\ndependem da armadilha, mas todas as armadilhas precisam de mecanismos. Pode ligar alavancas e placas de pressão a certas peças de mobília para\ndespoletar armadilhas mais elaboradas."
+
+#: defense.txt:22
+msgid "[LINK:data/help/menu_buildjob_lever]The Lever Menu[/LINK]"
+msgstr "[LINK:data/help/menu_buildjob_lever]O Menu de Alavancas[/LINK]"
+
+#: food.txt:2
+msgid "[TITLE]The Manual: Obtaining Food[/TITLE]"
+msgstr "[TITLE]O Manual: Obter Comida[/TITLE]"
+
+#: food.txt:2
+msgid ""
+"Dwarves like to eat, and there are many ways to serve them their favorite dishes. These include\n"
+"gathering plants, fishing, hunting, butchering livestock and farming."
+msgstr "Anões gostam de comer, e há muitas maneiras de servir os seus pratos favoritos. Estes incluem\nrecolher plantas, pesca, caça, esquartejar gado e lavoura."
+
+#: food.txt:6
+msgid "[C:7:0:1]Gathering Plants[C:7:0:0]"
+msgstr "[C:7:0:1]Colher Plantas[C:7:0:0]"
+
+#: food.txt:5
+msgid ""
+"Gathering plants is a fairly inefficient way to get food, but you'll have to do it sometimes, if\n"
+"only to get seeds that you can use for farming later.  In order to gather plants you need:"
+msgstr "Colher plantas é uma forma ineficaz de obter comida mas, por vezes, terá de recorrer a tal, nem que seja\npara obter sementes a usar para cultivo mais tarde. Para poder colher plantas, necessitará do seguinte:"
+
+#: food.txt:10
+msgid ""
+"[C:6:0:1][CHAR:15][C:2:0:1] A healthy, unoccupied dwarf with the Plant "
+"Gathering profession"
+msgstr "[C:6:0:1][CHAR:15][C:2:0:1] Um anão desocupado e saudável com uma profissão de Colheita de Plantas"
+
+#: food.txt:12
+msgid ""
+"[C:6:0:1][CHAR:15][C:2:0:1] A bush in a designated plant gathering area that"
+" such a dwarf can access"
+msgstr "[C:6:0:1][CHAR:15][C:2:0:1] Um arbusto numa zona de recolha de plantas à qual o anão tenha acesso"
+
+#: food.txt:21
+msgid "[C:7:0:1]Fishing[C:7:0:0]"
+msgstr "[C:7:0:1]Pesca[C:7:0:0]"
+
+#: food.txt:17
+msgid ""
+"Fishing is a fairly easy way to get some initial food, but you'll find yourself running out of fish in larger fortresses.\n"
+"In order to fish you need:"
+msgstr "Pesca é uma forma fácil de obter comida inicialmente mas, em fortalezas maiores, irá ver-se a ficar sem peixe.\nPara pescar, necessita do seguinte:"
+
+#: food.txt:25
+msgid ""
+"[C:6:0:1][CHAR:15][C:2:0:1] A healthy, unoccupied dwarf with the Fishing "
+"profession"
+msgstr "[C:6:0:1][CHAR:15][C:2:0:1] Um anão desocupado e saudável com a profissão de Pesca"
+
+#: food.txt:27
+msgid ""
+"[C:6:0:1][CHAR:15][C:2:0:1] A nearby water source or a fishing activity zone"
+msgstr "[C:6:0:1][CHAR:15][C:2:0:1] Uma fonte de água próxima ou zona de pesca"
+
+#: food.txt:29
+msgid ""
+"Fish need to be cleaned after you catch them.  You'll need to construct a "
+"fishery to do this."
+msgstr "Peixes tem de ser amanhados depois de os apanhar. Precisará de construir uma peixaria para fazer isso."
+
+#: food.txt:39
+msgid "[C:7:0:1]Hunting[C:7:0:0]"
+msgstr "[C:7:0:1]Caça[C:7:0:0]"
+
+#: food.txt:35
+msgid ""
+"Hunting is another way to get some initial food, but it will put the life of your hunter at risk.\n"
+"In order to hunt you need:"
+msgstr "Caça é outra forma de obter alguma comida inicialmente, mas colocará a vida do seu caçador em risco.\nPara poder caçar, necessitará de:"
+
+#: food.txt:43
+msgid ""
+"[C:6:0:1][CHAR:15][C:2:0:1] A healthy, unoccupied dwarf with the Hunting "
+"profession, preferably armed with a ranged weapon"
+msgstr "[C:6:0:1][CHAR:15][C:2:0:1] Um anão saudável com a profissão de Caçador que não esteja ocupado, preferivelmente armado com uma arma de longo alcance"
+
+#: food.txt:45
+msgid "For technical help with these matters, follow this link:"
+msgstr "Para ajuda técnica com estes assuntos, siga este link:"
+
+#: food.txt:51
+msgid "[C:7:0:1]Butchering Livestock[C:7:0:0]"
+msgstr "[C:7:0:1]Chacinar Gado[C:7:0:0]"
+
+#: food.txt:48
+msgid ""
+"You can slaughter animals that aren't pets, and you can butcher any animal corpse that doesn't belong to a pet.\n"
+"In order to butcher a corpse you need:"
+msgstr "Pode abater animais que não sejam de estimação e pode esquartejar qualquer cadáver de animal que não seja de um bicho de estimação.\nPara poder esquartejar um corpo, necessitará de:"
+
+#: food.txt:55
+msgid ""
+"[C:6:0:1][CHAR:15][C:2:0:1] A healthy, unoccupied dwarf with the Butchery "
+"profession"
+msgstr "[C:6:0:1][CHAR:15][C:2:0:1] Um anão saudável com a profissão de Talhante que não esteja ocupado"
+
+#: food.txt:57
+msgid "[C:6:0:1][CHAR:15][C:2:0:1] A Butcher's Shop"
+msgstr "[C:6:0:1][CHAR:15][C:2:0:1] Um Talho"
+
+#: food.txt:59
+msgid ""
+"[C:6:0:1][CHAR:15][C:2:0:1] An accessible unrotten animal corpse that wasn't"
+" once a pet"
+msgstr "[C:6:0:1][CHAR:15][C:2:0:1] O corpo de um animal que seja acessível e não pertença a um antigo animal de estimação"
+
+#: food.txt:61
+msgid ""
+"To slaughter animals, designate them for slaughter from the Animals screen."
+msgstr "Para chacinar animais, designe-os para tal no ecrã de Animais."
+
+#: food.txt:68
+msgid "[LINK:data/help/menu_make_buildings]Creating Buildings[/LINK]"
+msgstr "[LINK:data/help/menu_make_buildings]Criar Edifícios[/LINK]"
+
+#: food.txt:69
+msgid "[LINK:data/help/menu_status_animals]The Animals Screen[/LINK]"
+msgstr "[LINK:data/help/menu_status_animals]O Ecrã de Animais[/LINK]"
+
+#: food.txt:71
+msgid "[C:7:0:1]Farming[C:7:0:0]"
+msgstr "[C:7:0:1]Cultivo[C:7:0:0]"
+
+#: food.txt:66
+msgid ""
+"Farming is the most reliable way to obtain food, but it is also the most complicated to prepare.\n"
+"To get started, you must place a farm plot.  You can place a farm plot on soil or mud, inside or outside.\n"
+"Dwarves with the Farming (Fields) profession will plant seeds according to your selections in the farm plot menu, and all dwarves help with the harvest.  A plant will generally grow either inside or outside, so be careful with the seeds you select."
+msgstr "O Cultivo é a forma de maior confiança para obter comida, mas pode também ser a mais complicada de preparar.\nPara começar, deve colocar um campo de cultivo. Pode colocar um campo de cultivo em solo ou lama, tanto num interior como exterior.\nAnões com a profissão de Cultivo (Campos) plantarão sementes segundo a suas seleções no menu de campos de cultivo, e todos os anões ajudarão com a colheita. Uma planta geralmente cresce tanto no interior como exterior pelo que tenha cuidado com as sementes que escolha para cultivo."
+
+#: food.txt:76
+msgid ""
+"Should you find a water source, you can divert the water using channels and floodgates to control\n"
+"which squares become muddy (all water currently places mud)."
+msgstr "Se encontrar uma fonte de água, pode desviar a água utilizando canais e comportas para controlar\nque quadrados ficaram enlameados (toda a água correntemente coloca lama)."
+
+#: food.txt:79
+msgid ""
+"Some plants that you farm aren't immediately edible, but can be processed at a mill or farmer's workshop to make\n"
+"flour, sugar, syrup, spices or thread for cloth-making."
+msgstr "Algumas plantas que você cultive não são instantaneamente comestíveis, mas podem ser processadas num moinho ou oficina de lavrador para criar\nfarinha, açucar, xarope, especiarias ou fio para fabrico de tecido."
+
+#: food.txt:82
+msgid ""
+"You can greatly increase your farm output by using potash as a fertilizer.\n"
+"Potash is obtained from evaporating lye water, and lye water is obtained from soaking wood ash.  These jobs\n"
+"are carried out at the Ashery.  The Making Crafts section of the First Outpost tutorial will discuss how to assign jobs."
+msgstr "Pode aumentar substancialmente a produção da sua quinta ao utilizar potassa como fertilizante.\nPotassa pode ser obtida quando se evapora água de soda cáustica e esta pode ser obtida ao ensopar cinza de madeira. Estes trabalhos\nsão realizados na fábrica de potassa. A secção de Ofícios de Fabrico no tutorial do Primeiro Posto Avançado cobrirá como se podem atribuir trabalhos."
+
+#: food.txt:90
+msgid "[LINK:data/help/menu_buildjob_farmplot]The Farm Plot Menu[/LINK]"
+msgstr "[LINK:data/help/menu_buildjob_farmplot]O Menu de Terreno de Cultivo[/LINK]"
+
+#: food.txt:91
+msgid "[LINK:data/help/machines]Machines[/LINK]"
+msgstr "[LINK:data/help/machines]Máquinas[/LINK]"
+
+#: food.txt:93
+msgid "[C:7:0:1]Preparing Food[C:7:0:0]"
+msgstr "[C:7:0:1]Preparar Comida[C:7:0:0]"
+
+#: food.txt:88
+msgid ""
+"Each dwarf has preferred foods, but they only eat one piece of food when they are hungry.  In order to maximize the chance that a dwarf can find\n"
+"a piece of food that they really enjoy, it is important to use a kitchen to prepare food.  This mixes the food types together.  It also allows a dwarven\n"
+"cook the opportunity to apply their craft to the ingredients and produce higher quality foods.  The Making Crafts section of the First Outpost tutorial covers job assignment."
+msgstr "Cada anão tem preferências de comida, mas podem apenas comer uma peça de fruta quando tem fome. De forma a maximiza a possibilidade de um anão encontrar\numa peça de comida que realmente aprecie, é importante utilizar a cozinha para preparar comida. Esta mistura diferentes tipos de comida. Isto também permite ao anão\ncozinheiro a oportunidade de aplicar a sua arte aos ingredientes e produzir comida de maior qualidade. A secção de Ofícios de Fabrico no tutorial do Primeiro Posto Avançado cobre a atribuição de profissões."
+
+#: food.txt:101
+msgid "[LINK:data/help/menu_status_kitchen]The Kitchen Screen[/LINK]"
+msgstr "[LINK:data/help/menu_status_kitchen]O Ecrã de Cozinha[/LINK]"
+
+#: icons.txt:2
+msgid "[TITLE]The Manual: Icons[/TITLE]"
+msgstr "[TITLE]O Manual: ícones[/TITLE]"
+
+#: icons.txt:3
+msgid "[LINK:data/help/icons_dwarf]Dwarves / Professions[/LINK]"
+msgstr "[LINK:data/help/icons_dwarf]Anões / Profissões[/LINK]"
+
+#: icons_creature.txt:4
+msgid "[C:7:0:1]Creatures (A Partial List)[C:7:0:0]"
+msgstr "[C:7:0:1]Criaturas (Uma Lista Parcial)[C:7:0:0]"
+
+#: icons_creature.txt:6
+msgid "[C:6:0:0]B[C:7:0:0] Grizzly Bear[R]"
+msgstr "[C:6:0:0]B[C:7:0:0] Urso Pardo[R]"
+
+#: icons_creature.txt:7
+msgid "[C:0:0:1]B[C:7:0:0] Black Bear[R]"
+msgstr "[C:0:0:1]B[C:7:0:0] Urso Negro[R]"
+
+#: icons_creature.txt:8
+msgid "[C:0:0:1]c[C:7:0:0] Cat[R]"
+msgstr "[C:0:0:1]c[C:7:0:0] Gato[R]"
+
+#: icons_creature.txt:9
+msgid "[C:6:0:1]C[C:7:0:0] Cougar[R]"
+msgstr "[C:6:0:1]C[C:7:0:0] Puma[R]"
+
+#: icons_creature.txt:10
+msgid "[C:6:0:0]d[C:7:0:0] Deer[R]"
+msgstr "[C:6:0:0]d[C:7:0:0] Veado[R]"
+
+#: icons_creature.txt:11
+msgid "[C:7:0:0]d[C:7:0:0] Dog[R]"
+msgstr "[C:7:0:0]d[C:7:0:0] Cão[R]"
+
+#: icons_creature.txt:12
+msgid "[C:2:0:1]e[C:7:0:0] Elf[R]"
+msgstr "[C:2:0:1]e[C:7:0:0] Elfo[R]"
+
+#: icons_creature.txt:13
+msgid "[C:4:0:0]f[C:7:0:0] Fox[R]"
+msgstr "[C:4:0:0]f[C:7:0:0] Raposa[R]"
+
+#: icons_creature.txt:14
+msgid "[C:7:0:0]g[C:7:0:0] Goblin[R]"
+msgstr "[C:7:0:0]g[C:7:0:0] Gnomo[R]"
+
+#: icons_creature.txt:15
+msgid "[C:6:0:0]k[C:7:0:0] Kobold[R]"
+msgstr "[C:6:0:0]k[C:7:0:0] Kobold[R]"
+
+#: icons_creature.txt:16
+msgid "[C:7:0:0]M[C:7:0:0] Musk Ox[R]"
+msgstr "[C:7:0:0]M[C:7:0:0] Boi Almiscarado[R]"
+
+#: icons_creature.txt:17
+msgid "[C:7:0:0]r[C:7:0:0] Raccoon[R]"
+msgstr "[C:7:0:0]r[C:7:0:0] Texugo[R]"
+
+#: icons_creature.txt:18
+msgid "[C:7:0:0]U[C:7:0:0] Human[R]"
+msgstr "[C:7:0:0]U[C:7:0:0] Humano[R]"
+
+#: icons_dwarf.txt:4
+msgid "[C:7:0:1]Dwarves / Professions[C:7:0:0]"
+msgstr "[C:7:0:1]Anões / Profissões[C:7:0:0]"
+
+#: icons_dwarf.txt:6
+msgid "[C:1:0:0][CHAR:1][C:7:0:0] Fishery Worker[R]"
+msgstr "[C:1:0:0][CHAR:1][C:7:0:0] Trabalhador de pesca[R]"
+
+#: icons_dwarf.txt:7
+msgid "[C:1:0:0][CHAR:2][C:7:0:0] Axedwarf[R]"
+msgstr "[C:1:0:0][CHAR:2][C:7:0:0] Anão de machado[R]"
+
+#: icons_dwarf.txt:8
+msgid "[C:1:0:1][CHAR:1][C:7:0:0] Craftsdwarf[R]"
+msgstr "[C:1:0:1][CHAR:1][C:7:0:0] Anão artesão[R]"
+
+#: icons_dwarf.txt:9
+msgid "[C:1:0:1][CHAR:2][C:7:0:0] Axe Lord[R]"
+msgstr "[C:1:0:1][CHAR:2][C:7:0:0] Senhor do Machado[R]"
+
+#: icons_dwarf.txt:10
+msgid "[C:2:0:0][CHAR:1][C:7:0:0] Ranger[R]"
+msgstr "[C:2:0:0][CHAR:1][C:7:0:0] Guarda[R]"
+
+#: icons_dwarf.txt:11
+msgid "[C:2:0:0][CHAR:2][C:7:0:0] Marksdwarf[R]"
+msgstr "[C:2:0:0][CHAR:2][C:7:0:0] Anão atirador[R]"
+
+#: icons_dwarf.txt:12
+msgid "[C:2:0:1][CHAR:1][C:7:0:0] Jeweler[R]"
+msgstr "[C:2:0:1][CHAR:1][C:7:0:0] Joalheiro[R]"
+
+#: icons_dwarf.txt:13
+msgid "[C:2:0:1][CHAR:2][C:7:0:0] Elite Marksdwarf[R]"
+msgstr "[C:2:0:1][CHAR:2][C:7:0:0] Anão atirador de Elite[R]"
+
+#: icons_dwarf.txt:14
+msgid "[C:3:0:0][CHAR:1][C:7:0:0] Peasant[R]"
+msgstr "[C:3:0:0][CHAR:1][C:7:0:0] Camponês[R]"
+
+#: icons_dwarf.txt:15
+msgid "[C:3:0:0][CHAR:2][C:7:0:0] Swordsdwarf[R]"
+msgstr "[C:3:0:0][CHAR:2][C:7:0:0] Anão esgrimista[R]"
+
+#: icons_dwarf.txt:16
+msgid "[C:3:0:1][CHAR:1][C:7:0:0] Royal Consort[R]"
+msgstr "[C:3:0:1][CHAR:1][C:7:0:0] Consorte Real[R]"
+
+#: icons_dwarf.txt:17
+msgid "[C:3:0:1][CHAR:2][C:7:0:0] Swordmaster[R]"
+msgstr "[C:3:0:1][CHAR:2][C:7:0:0] Mestre de Esgrima[R]"
+
+#: icons_dwarf.txt:18
+msgid "[C:4:0:0][CHAR:1][C:7:0:0] Child[R]"
+msgstr "[C:4:0:0][CHAR:1][C:7:0:0] Criança[R]"
+
+#: icons_dwarf.txt:19
+msgid "[C:4:0:0][CHAR:2][C:7:0:0] Macedwarf[R]"
+msgstr "[C:4:0:0][CHAR:2][C:7:0:0] Anão de clava[R]"
+
+#: icons_dwarf.txt:20
+msgid "[C:4:0:1][CHAR:1][C:7:0:0] Engineer[R]"
+msgstr "[C:4:0:1][CHAR:1][C:7:0:0] Engenheiro[R]"
+
+#: icons_dwarf.txt:21
+msgid "[C:4:0:1][CHAR:2][C:7:0:0] Mace Lord[R]"
+msgstr "[C:4:0:1][CHAR:2][C:7:0:0] Senhor da Clava[R]"
+
+#: icons_dwarf.txt:22
+msgid "[C:5:0:0][CHAR:1][C:7:0:0] Noble/Administrator[R]"
+msgstr "[C:5:0:0][CHAR:1][C:7:0:0] Nobre/Administrador[R]"
+
+#: icons_dwarf.txt:23
+msgid "[C:5:0:0][CHAR:2][C:7:0:0] Hammerdwarf[R]"
+msgstr "[C:5:0:0][CHAR:2][C:7:0:0] Anão marteleiro[R]"
+
+#: icons_dwarf.txt:24
+msgid "[C:5:0:1][CHAR:1][C:7:0:0] King/Queen[R]"
+msgstr "[C:5:0:1][CHAR:1][C:7:0:0] Rei/Rainha[R]"
+
+#: icons_dwarf.txt:25
+msgid "[C:5:0:1][CHAR:2][C:7:0:0] Hammer Lord[R]"
+msgstr "[C:5:0:1][CHAR:2][C:7:0:0] Senhor do Martelo[R]"
+
+#: icons_dwarf.txt:26
+msgid "[C:6:0:0][CHAR:1][C:7:0:0] Farmer[R]"
+msgstr "[C:6:0:0][CHAR:1][C:7:0:0] Lavrador[R]"
+
+#: icons_dwarf.txt:27
+msgid "[C:6:0:0][CHAR:2][C:7:0:0] Speardwarf[R]"
+msgstr "[C:6:0:0][CHAR:2][C:7:0:0] Anão lanceiro[R]"
+
+#: icons_dwarf.txt:28
+msgid "[C:6:0:1][CHAR:1][C:7:0:0] Woodworker[R]"
+msgstr "[C:6:0:1][CHAR:1][C:7:0:0] Carpinteiro[R]"
+
+#: icons_dwarf.txt:29
+msgid "[C:6:0:1][CHAR:2][C:7:0:0] Spearmaster[R]"
+msgstr "[C:6:0:1][CHAR:2][C:7:0:0] Mestre de Lança[R]"
+
+#: icons_dwarf.txt:30
+msgid "[C:0:0:1][CHAR:1][C:7:0:0] Metalsmith[R]"
+msgstr "[C:0:0:1][CHAR:1][C:7:0:0] Ferreiro[R]"
+
+#: icons_dwarf.txt:31
+msgid "[C:0:0:1][CHAR:2][C:7:0:0] Recruit[R]"
+msgstr "[C:0:0:1][CHAR:2][C:7:0:0] Recruta[R]"
+
+#: icons_dwarf.txt:32
+msgid "[C:7:0:0][CHAR:1][C:7:0:0] Miner[R]"
+msgstr "[C:7:0:0][CHAR:1][C:7:0:0] Mineiro[R]"
+
+#: icons_dwarf.txt:33
+msgid "[C:7:0:0][CHAR:2][C:7:0:0] Wrestler[R]"
+msgstr "[C:7:0:0][CHAR:2][C:7:0:0] Lutador[R]"
+
+#: icons_dwarf.txt:34
+msgid "[C:7:0:1][CHAR:1][C:7:0:0] Stoneworker[R]"
+msgstr "[C:7:0:1][CHAR:1][C:7:0:0] Pedreiro[R]"
+
+#: icons_dwarf.txt:35
+msgid "[C:7:0:1][CHAR:2][C:7:0:0] Elite Wrestler[R]"
+msgstr "[C:7:0:1][CHAR:2][C:7:0:0] Lutador Elíte[R]"
+
+#: icons_dwarf.txt:36
+msgid "[C:7:0:0]@[C:7:0:0] Merchant[R]"
+msgstr "[C:7:0:0]@[C:7:0:0] Mercador[R]"
+
+#: icons_dwarf.txt:37
+msgid "[C:7:0:1]@[C:7:0:0] Diplomat[R]"
+msgstr "[C:7:0:1]@[C:7:0:0] Diplomata[R]"
+
+#: icons_items.txt:4
+msgid "[C:7:0:1]Objects (A Partial List)[C:7:0:0]"
+msgstr "[C:7:0:1]Objetos (Uma lista de parte)[C:7:0:0]"
+
+#: icons_items.txt:6
+msgid "[C:2:0:1][CHAR:4][C:7:0:0] Cut Gems[R]"
+msgstr "[C:2:0:1][CHAR:4][C:7:0:0] Gemas refinadas[R]"
+
+#: icons_items.txt:7
+msgid "[C:7:0:0][CHAR:7][C:7:0:0] Stone[R]"
+msgstr "[C:7:0:0][CHAR:7][C:7:0:0] Pedra[R]"
+
+#: icons_items.txt:8
+msgid "[C:3:0:1][CHAR:153][C:7:0:0] Bracelet[R]"
+msgstr "[C:3:0:1][CHAR:153][C:7:0:0] Pulseira[R]"
+
+#: icons_items.txt:9
+msgid "[C:6:0:0][CHAR:11][C:7:0:0] Bag[R]"
+msgstr "[C:6:0:0][CHAR:11][C:7:0:0] Saco[R]"
+
+#: icons_items.txt:10
+msgid "[C:7:0:1][CHAR:12][C:7:0:0] Amulet[R]"
+msgstr "[C:7:0:1][CHAR:12][C:7:0:0] Amuleto[R]"
+
+#: icons_items.txt:11
+msgid "[C:7:0:0][CHAR:14][C:7:0:0] Armor Stand[R]"
+msgstr "[C:7:0:0][CHAR:14][C:7:0:0] Pouso de armadura[R]"
+
+#: icons_items.txt:12
+msgid "[C:4:0:1][CHAR:15][C:7:0:0] Rough Gems/Web[R]"
+msgstr "[C:4:0:1][CHAR:15][C:7:0:0] Gemas em bruto/Teia[R]"
+
+#: icons_items.txt:13
+msgid "[C:0:6:0][CHAR:19][C:7:0:0] Cage[R]"
+msgstr "[C:0:6:0][CHAR:19][C:7:0:0] Jaula[R]"
+
+#: icons_items.txt:14
+msgid "[C:7:0:0][CHAR:20][C:7:0:0] Goblet/Mug[R]"
+msgstr "[C:7:0:0][CHAR:20][C:7:0:0] Cálice/Caneca[R]"
+
+#: icons_items.txt:15
+msgid "[C:0:0:1][CHAR:21][C:7:0:0] Chain/Rope[R]"
+msgstr "[C:0:0:1][CHAR:21][C:7:0:0] Corrente/Corda[R]"
+
+#: icons_items.txt:16
+msgid "[C:6:0:0][CHAR:22][C:7:0:0] Log[R]"
+msgstr "[C:6:0:0][CHAR:22][C:7:0:0] Tronco[R]"
+
+#: icons_items.txt:17
+msgid "[C:6:0:1]$[C:7:0:0] Coins[R]"
+msgstr "[C:6:0:1]$[C:7:0:0] Moedas[R]"
+
+#: icons_items.txt:18
+msgid "[C:7:0:0]%[C:7:0:0] Prepared Food[R]"
+msgstr "[C:7:0:0]%[C:7:0:0] Comida preparada[R]"
+
+#: icons_items.txt:19
+msgid "[C:4:0:0]*[C:7:0:0] Ore[R]"
+msgstr "[C:4:0:0]*[C:7:0:0] Minério[R]"
+
+#: icons_items.txt:20
+msgid "[C:7:0:1]-[C:7:0:0] Scepter[R]"
+msgstr "[C:7:0:1]-[C:7:0:0] Ceptro[R]"
+
+#: icons_items.txt:21
+msgid "[C:0:0:1]/[C:7:0:0] Weapon[R]"
+msgstr "[C:0:0:1]/[C:7:0:0] Arma[R]"
+
+#: icons_items.txt:22
+msgid "[C:7:0:0]0[C:7:0:0] Coffin[R]"
+msgstr "[C:7:0:0]0[C:7:0:0] Caixão[R]"
+
+#: icons_items.txt:24
+msgid "[C:6:0:0][CHAR:127][C:7:0:0] Animal Trap[R]"
+msgstr "[C:6:0:0][CHAR:127][C:7:0:0] Armadilha para animais[R]"
+
+#: icons_items.txt:25
+msgid "[C:7:0:0][CHAR:128][C:7:0:0] Mechanism[R]"
+msgstr "[C:7:0:0][CHAR:128][C:7:0:0] Mecanismo[R]"
+
+#: icons_items.txt:26
+msgid "[C:7:0:0][CHAR:135][C:7:0:0] Totem[R]"
+msgstr "[C:7:0:0][CHAR:135][C:7:0:0] Totem[R]"
+
+#: icons_items.txt:27
+msgid "[C:7:0:0][CHAR:143][C:7:0:0] Figurine[R]"
+msgstr "[C:7:0:0][CHAR:143][C:7:0:0] Estatueta[R]"
+
+#: icons_items.txt:28
+msgid "[C:7:0:1][CHAR:145][C:7:0:0] Toy[R]"
+msgstr "[C:7:0:1][CHAR:145][C:7:0:0] Brinquedo[R]"
+
+#: icons_items.txt:29
+msgid "[C:6:0:0][CHAR:146][C:7:0:0] Backpack/Chest/Quiver[R]"
+msgstr "[C:6:0:0][CHAR:146][C:7:0:0] Mochila/Peito/Aljava[R]"
+
+#: icons_items.txt:30
+msgid "[C:5:0:1][CHAR:167][C:7:0:0] Cloth[R]"
+msgstr "[C:5:0:1][CHAR:167][C:7:0:0] Tecido[R]"
+
+#: icons_items.txt:31
+msgid "[C:6:0:1][CHAR:168][C:7:0:0] Instrument[R]"
+msgstr "[C:6:0:1][CHAR:168][C:7:0:0] Instrument[R]"
+
+#: icons_items.txt:32
+msgid "[C:0:0:1][CHAR:169][C:7:0:0] Rotten Plant[R]"
+msgstr "[C:0:0:1][CHAR:169][C:7:0:0] Planta Podre[R]"
+
+#: icons_items.txt:33
+msgid "[C:3:0:1][CHAR:173][C:7:0:0] Flask[R]"
+msgstr "[C:3:0:1][CHAR:173][C:7:0:0] Frasco[R]"
+
+#: icons_items.txt:34
+msgid "[C:3:0:1][CHAR:177][C:7:0:0] Window[R]"
+msgstr "[C:3:0:1][CHAR:177][C:7:0:0] Janela[R]"
+
+#: icons_items.txt:35
+msgid "[C:0:7:1][CHAR:197][C:7:0:0] Door[R]"
+msgstr "[C:0:7:1][CHAR:197][C:7:0:0] Porta[R]"
+
+#: icons_items.txt:36
+msgid "[C:6:0:0][CHAR:209][C:7:0:0] Table[R]"
+msgstr "[C:6:0:0][CHAR:209][C:7:0:0] Mesa[R]"
+
+#: icons_items.txt:37
+msgid "[C:6:0:0][CHAR:210][C:7:0:0] Chair[R]"
+msgstr "[C:6:0:0][CHAR:210][C:7:0:0] Cadeira[R]"
+
+#: icons_items.txt:38
+msgid "[C:4:0:0][CHAR:224][C:7:0:0] Meat/Fish[R]"
+msgstr "[C:4:0:0][CHAR:224][C:7:0:0] Carne/Peixe[R]"
+
+#: icons_items.txt:39
+msgid "[C:6:0:0][CHAR:225][C:7:0:0] Leather[R]"
+msgstr "[C:6:0:0][CHAR:225][C:7:0:0] Cabedal[R]"
+
+#: icons_items.txt:40
+msgid "[C:6:0:0][CHAR:227][C:7:0:0] Cabinet[R]"
+msgstr "[C:6:0:0][CHAR:227][C:7:0:0] Gabinete[R]"
+
+#: icons_items.txt:41
+msgid "[C:0:0:1][CHAR:228][C:7:0:0] Trap Component[R]"
+msgstr "[C:0:0:1][CHAR:228][C:7:0:0] Componente de armadilha[R]"
+
+#: icons_items.txt:42
+msgid "[C:0:0:1][CHAR:229][C:7:0:0] Anvil[R]"
+msgstr "[C:0:0:1][CHAR:229][C:7:0:0] Bigorna[R]"
+
+#: icons_items.txt:43
+msgid "[C:6:0:1][CHAR:230][C:7:0:0] Crown[R]"
+msgstr "[C:6:0:1][CHAR:230][C:7:0:0] Coroa[R]"
+
+#: icons_items.txt:44
+msgid "[C:6:0:0][CHAR:233][C:7:0:0] Bed[R]"
+msgstr "[C:6:0:0][CHAR:233][C:7:0:0] Cama[R]"
+
+#: icons_items.txt:45
+msgid "[C:7:0:0][CHAR:234][C:7:0:0] Statue[R]"
+msgstr "[C:7:0:0][CHAR:234][C:7:0:0] Estátua[R]"
+
+#: icons_items.txt:46
+msgid "[C:2:0:1][CHAR:235][C:7:0:0] Earring[R]"
+msgstr "[C:2:0:1][CHAR:235][C:7:0:0] Brinco[R]"
+
+#: icons_items.txt:47
+msgid "[C:4:0:1][CHAR:237][C:7:0:0] Thread[R]"
+msgstr "[C:4:0:1][CHAR:237][C:7:0:0] Fio[R]"
+
+#: icons_items.txt:48
+msgid "[C:6:0:1][CHAR:240][C:7:0:0] Bars[R]"
+msgstr "[C:6:0:1][CHAR:240][C:7:0:0] Barras[R]"
+
+#: icons_items.txt:49
+msgid "[C:0:6:0][CHAR:246][C:7:0:0] Barrel[R]"
+msgstr "[C:0:6:0][CHAR:246][C:7:0:0] Barríl[R]"
+
+#: icons_items.txt:50
+msgid "[C:6:0:1][CHAR:148][C:7:0:0] Ring[R]"
+msgstr "[C:6:0:1][CHAR:148][C:7:0:0] Anel[R]"
+
+#: icons_items.txt:51
+msgid "[C:2:0:1][CHAR:250][C:7:0:0] Seeds[R]"
+msgstr "[C:2:0:1][CHAR:250][C:7:0:0] Sementes[R]"
+
+#: icons_items.txt:52
+msgid "[C:7:0:0][CHAR:251][C:7:0:0] Weapon Rack[R]"
+msgstr "[C:7:0:0][CHAR:251][C:7:0:0] Pouso de Armas[R]"
+
+#: icons_items.txt:53
+msgid "[C:5:0:0][CHAR:253][C:7:0:0] Remains[R]"
+msgstr "[C:5:0:0][CHAR:253][C:7:0:0] Restos[R]"
+
+#: icons_items.txt:54
+msgid "[C:7:0:0][CHAR:254][C:7:0:0] Blocks[R]"
+msgstr "[C:7:0:0][CHAR:254][C:7:0:0] Blocos[R]"
+
+#: icons_terrain.txt:4
+msgid "[C:7:0:1]Terrain (A Partial List)[C:7:0:0]"
+msgstr "[C:7:0:1]Terreno (Uma Lista Parcial)[C:7:0:0]"
+
+#: icons_terrain.txt:6
+msgid ""
+"[C:7:0:0][CHAR:219][C:7:0:0] Rock Wall "
+"[C:7:0:0][CHAR:178][CHAR:177][CHAR:176][C:7:0:0][C:7:7:1]=[C:0:7:1],[C:7:0:0]"
+" etc.[R]"
+msgstr "[C:7:0:0][CHAR:219][C:7:0:0] Parede de Pedra[C:7:0:0][CHAR:178][CHAR:177][CHAR:176][C:7:0:0][C:7:7:1]=[C:0:7:1],[C:7:0:0] etc.[R]"
+
+#: icons_terrain.txt:7
+msgid "[C:6:7:1][CHAR:156][C:7:0:0] Ore[R]"
+msgstr "[C:6:7:1][CHAR:156][C:7:0:0] Minério[R]"
+
+#: icons_terrain.txt:8
+msgid "[C:4:7:1][CHAR:15][C:7:0:0] Gem[R]"
+msgstr "[C:4:7:1][CHAR:15][C:7:0:0] Gema[R]"
+
+#: icons_terrain.txt:9
+msgid "[C:0:7:1][CHAR:15][C:7:0:0] Coal[R]"
+msgstr "[C:0:7:1][CHAR:15][C:7:0:0] Carvão[R]"
+
+#: icons_terrain.txt:10
+msgid "[C:7:0:0],[C:7:0:0] Stone Floor [C:7:0:0],`'[C:7:0:0][R]"
+msgstr "[C:7:0:0],[C:7:0:0] Chão de Pedra [C:7:0:0],`'[C:7:0:0][R]"
+
+#: icons_terrain.txt:11
+msgid "[C:6:0:0],[C:7:0:0] Mud [C:6:0:0],`'[CHAR:247]~[C:7:0:0][R]"
+msgstr "[C:6:0:0],[C:7:0:0] Lama [C:6:0:0],`'[CHAR:247]~[C:7:0:0][R]"
+
+#: icons_terrain.txt:12
+msgid ""
+"[C:2:0:1].[C:7:0:0] Grass [C:2:0:1],`'[C:7:0:0][C:2:0:0].,`'[C:7:0:0][R]"
+msgstr "[C:2:0:1].[C:7:0:0] Relva [C:2:0:1],`'[C:7:0:0][C:2:0:0].,`'[C:7:0:0][R]"
+
+#: icons_terrain.txt:13
+msgid "[C:2:0:1]\"[C:7:0:0] Bush [C:2:0:0]\"[C:7:0:0][R]"
+msgstr "[C:2:0:1]\"[C:7:0:0] Arbusto [C:2:0:0]\"[C:7:0:0][R]"
+
+#: icons_terrain.txt:14
+msgid "[C:2:0:1][CHAR:231][C:7:0:0] Sapling [C:2:0:0][CHAR:231][C:7:0:0][R]"
+msgstr "[C:2:0:1][CHAR:231][C:7:0:0] Rebento [C:2:0:0][CHAR:231][C:7:0:0][R]"
+
+#: icons_terrain.txt:15
+msgid ""
+"[C:6:0:0][CHAR:5][C:7:0:0] Tree "
+"[C:6:0:0][CHAR:6][CHAR:23][CHAR:24][CHAR:244][C:7:0:0][R]"
+msgstr "[C:6:0:0][CHAR:5][C:7:0:0] Árvore [C:6:0:0][CHAR:6][CHAR:23][CHAR:24][CHAR:244][C:7:0:0][R]"
+
+#: icons_terrain.txt:16
+msgid "[C:1:0:0][CHAR:247][C:7:0:0] Water[R]"
+msgstr "[C:1:0:0][CHAR:247][C:7:0:0] Água[R]"
+
+#: icons_terrain.txt:17
+msgid "[C:3:0:0][CHAR:247][C:7:0:0] Murky Water[R]"
+msgstr "[C:3:0:0][CHAR:247][C:7:0:0] Água Escura[R]"
+
+#: intro.txt:2
+msgid "[TITLE]The Manual: Introduction[/TITLE]"
+msgstr "[TITLE]O Manual: Introdução[/TITLE]"
+
+#: intro.txt:2
+msgid ""
+"Welcome to Dwarf Fortress.  Prepare to guide your stout charges to fortune in a world fraught with many perils.\n"
+"You'll begin by creating your world and watching an animation of the region's history.  Once this process\n"
+"is completed, you can prepare a group of dwarves and send them out to seek wealth deep in the mountains.\n"
+"As you dig deeper and more dwarves take up residence in your outpost, your doings will attract attention, both\n"
+"wanted and unwanted.  Deal with challenges as they arise, and you might one day find that your fortress\n"
+"has grown to become the capital of the kingdom."
+msgstr "Bem-vindo a Dwarf Fortress. Prepare-se para guiar os seus encargos robustos em direcção à fortuna num mundo repleto de muitos perigos.\nComeçará por criar o seu mundo e ver uma animação da história da região. Uma vez este processo\nesteja completo, pode preparar um grupo de anões e enviá-los em procura de riqueza nas profundezas das montanhas.\nConforme for cavando mais fundo e mais anões se juntarem ao seu posto avançado, os seus feitos atrairão atenção, tanto\ndesejada como indesejada. Lide com desafios conforme aparecem e poderá um dia vir a descobrir que a sua fortaleza\ncresceu até se tornar a capital do reino."
+
+#: living_quarters.txt:2
+msgid "[TITLE]The Manual: Living Quarters[/TITLE]"
+msgstr "[TITLE]O Manual: Alojamentos[/TITLE]"
+
+#: living_quarters.txt:2
+msgid ""
+"Your dwarves don't like to sleep and eat outside in the mud and rain, so you'll like to set up some\n"
+"living quarters early on."
+msgstr "Os seus anões não gostam de dormir ou comer no exterior, na lama e chuva, por isso é melhor preparar alguns\naposentos o mais cedo possível."
+
+#: living_quarters.txt:6
+msgid "[C:7:0:1]Sleeping Quarters[C:7:0:0]"
+msgstr "[C:7:0:1]Dormitórios[C:7:0:0]"
+
+#: living_quarters.txt:5
+msgid ""
+"If you build some beds and place them, the dwarves will sleep in them when they are tired.  If you use the building interface\n"
+"to create a bedroom, then the first dwarf to sleep in the room will claim it unless you assign a dwarf first.  The better the room,\n"
+"the happier the dwarf, but regular workers don't expect much.  Keep your eyes on their thoughts to see how you are doing."
+msgstr "Se construir algumas camas e as colocar, os anões irão dormir nelas quando se encontrem cansados. Se utilizar a interface de construção\npara criar um quarto, então o primeiro anão a dormir nele irá tomar posse dele a não ser que o atribua a um anão primeiro. Quanto melhor o quarto,\nmais contente estará o anão, mas trabalhadores normais não esperam muito. Mantenha os seus olhos nos seus pensamentos para ver o quão bem está a fazer o seu trabalho."
+
+#: living_quarters.txt:12
+msgid "[C:7:0:1]Dining Rooms[C:7:0:0]"
+msgstr "[C:7:0:1]Salas de Refeição[C:7:0:0]"
+
+#: living_quarters.txt:11
+msgid ""
+"A dwarf expects a decent dining experience.  To keep the dwarves satisfied the bare minimum is a table with an adjacent chair.  You'll\n"
+"know that you are doing this correctly because the dwarf will sit on the chair and you'll see the dwarf's meal placed on the table.  Dragging out\n"
+"a dining room from the table will enhance the dining experience, but it is not required."
+msgstr "Um anão espera uma experiência de refeição decente. Para manter os anões satisfeitos, o mínimo essencial é uma mesa com uma cadeira adjacente. Saberá\nque está a fazer isto corretamente porque o anão irá sentar-se na cadeira e verá então a refeição do anão colocada na mesa. Expandir\na sala de refeições a partir da mesa irá melhorar a experiência de refeição mas não é obrigatório."
+
+#: living_quarters.txt:18
+msgid "[C:7:0:1]Meeting Halls[C:7:0:0]"
+msgstr "[C:7:0:1]Salas de Reunião[C:7:0:0]"
+
+#: living_quarters.txt:17
+msgid ""
+"Another way to keep dwarves happy is to give them places to meet and hold social events.  Meeting halls work well for this purpose.  You can\n"
+"drag out a meeting hall from a well or a table.  Note that a room dragged out from a table will be a dining room unless you specifically designate it a\n"
+"meeting hall."
+msgstr "Outra maneira de manter anões felizes é dar-lhes locais para se reunirem e organizarem eventos sociais. Salões de convívio funcionam bem para este propósito. Pode\nexpandir um salão de convívio a partir de um poço ou mesa. Note que uma divisão criada a partir de uma mesa será, por omissão, uma sala de refeições a não ser que especifique que deve ser um\nsalão de convívio."
+
+#: living_quarters.txt:24
+msgid "[C:7:0:1]Other Rooms[C:7:0:0]"
+msgstr "[C:7:0:1]Outras Divisões[C:7:0:0]"
+
+#: living_quarters.txt:23
+msgid ""
+"You can also drag out rooms from statues, cages and chains.  This will create sculpture gardens or zoos, respectively.  You can assign\n"
+"these rooms to specific dwarves, or you can leave them as general meeting places."
+msgstr "Pode também criar divisões a partir de estátuas, jaulas e correntes. Isto criará, respetivamente, jardins de estátuas ou jardins zoológicos . Pode atribuir\nestas salas a anões específicos ou pode simplesmente deixar que sejam zonas de convívio gerais."
+
+#: living_quarters.txt:33
+msgid "[LINK:data/help/menu_rooms]Creating Rooms[/LINK]"
+msgstr "[LINK:data/help/menu_rooms]Criar divisões[/LINK]"
+
+#: machines.txt:2
+msgid "[TITLE]The Manual: Machines[/TITLE]"
+msgstr "[TITLE]O Manual: Máquinas[/TITLE]"
+
+#: machines.txt:2
+msgid ""
+"Using querns to mill wheat and buckets to haul water is very inefficient, "
+"and your dwarves get tired of running on screw pump casings.  Fortunately "
+"you can utilize wind and water power to make these jobs easier."
+msgstr "Usando mós para moer trigo e baldes para transportar água não é muito eficiente e faz com que os seus anões fiquem cansados de correr nas bombas de parafuso. Felizmente pode utilizar vento ou água para tornar estas tarefas mais fáceis."
+
+#: machines.txt:5
+msgid "[C:7:0:1]Basics[C:7:0:0]"
+msgstr "[C:7:0:1]Básicos[C:7:0:0]"
+
+#: machines.txt:4
+msgid ""
+"You must connect power sources to work areas.  In this case, the power "
+"sources are water wheels and windmills, and the work areas are millstones "
+"and screw pumps."
+msgstr "Deve ligar fontes de energia a zonas de trabalho. Neste caso, as fontes de energia são rodas de água e moinhos de vento e as áreas de trabalho são mós e bombas de parafuso."
+
+#: machines.txt:8
+msgid ""
+"You can either place the work area directly adjacent to the power source, or"
+" you can use a series of axles and gear assemblies to transfer the power "
+"over longer distances."
+msgstr "Pode colocar a área de trabalho directamente ao lado da fonte de energia ou utilizar uma série de eixos e engrenagens para transferir a energia por longas distâncias."
+
+#: machines.txt:10
+msgid ""
+"An axle can only transfer power along its length.  A gear assembly can "
+"transfer power in any direction but uses more power per tile than an axle.  "
+"So if you want to connect a north/south axle to an east/west or an up/down "
+"axle, you must use a gear assembly (or a work area)."
+msgstr "Um eixo só pode transferir energia ao longo do seu tamanho. Uma engrenagem pode transferir energia em qualquer direção mas utiliza mais energia por espaço que um eixo. Portanto, se quer ligar um eixo orientado a norte/sul a um eixo orientado a este/oeste ou cima/baixo, deve usar uma engrenagem (ou área de trabalho)."
+
+#: machines.txt:13
+msgid "[C:7:0:1]Water Power[C:7:0:0]"
+msgstr "[C:7:0:1]Energia Hidráulica[C:7:0:0]"
+
+#: machines.txt:12
+msgid ""
+"You require a visibly flowing body of water.  A temporary flood of water "
+"will also work for as long as you can sustain it.  To harness the power of "
+"the flow, you need to use a water wheel.  One you've got your machinery "
+"connected to the bank above the water, place a wheel directly above the "
+"flow."
+msgstr "Necessita um corpo de água corrente visível. Uma inundação temporária de água também funcionará desde que a consiga manter. Para utilizar a energia da corrente, deve utilizar uma roda de água. Uma vez que tenha ligado a sua maquinaria à margem acima da água, coloque a roda directamente acima da corrente."
+
+#: machines.txt:16
+msgid ""
+"A water wheel can only be connected to machinery through its center "
+"perpendicular to the line of the wheel.  You need to use a gear assembly to "
+"transfer the power vertically."
+msgstr "Uma roda de água só pode ser ligar a maquinaria através de uma ligação perpendicular ao seu centro. Pode ter de utilizar uma engrenagem para transferir energia verticalmente."
+
+#: machines.txt:19
+msgid "[C:7:0:1]Wind Power[C:7:0:0]"
+msgstr "[C:7:0:1]Energia Eólica[C:7:0:0]"
+
+#: machines.txt:18
+msgid ""
+"A windmill can be placed anywhere outside.  It can only transfer power "
+"downward however, so you should build it on top of a gear assembly or work "
+"area, or you won't be able to use it.  In order to build it in the air, you "
+"might need to build temporary stairways, ramps or walls to access the "
+"location."
+msgstr "Um moinho de vento pode ser colocado em qualquer local no exterior. Só pode, contudo, transferir energia directamente para baixo, pelo que deve ser construído em cima de uma engrenagem ou área de trabalho, ou não será capaz de a utilizar. De forma a construir o moinho no ar, poderá ter de construir escadas, rampas ou paredes temporárias para aceder ao local."
+
+#: machines.txt:22
+msgid ""
+"A windmill generates power according to the wind speed, which can vary with "
+"the time of day and other factors."
+msgstr "Um moinho gera energia de acordo com a velocidade do vento, pelo que pode variar com a altura do dia e outros fatores."
+
+#: main.txt:2
+msgid ""
+"You can press [IKEY:HELP] any time for help.  Press it now for help on how "
+"to use this text viewer.  As of February 2020, you can also find help at the"
+" DF Wiki at dwarffortresswiki.org.  And remember:"
+msgstr ""
+
+#: main.txt:4
+msgid "[C:2:0:1]Losing is fun![C:7:0:0]"
+msgstr "[C:2:0:1]Perder é divertido![C:7:0:0]"
+
+#: main.txt:6
+msgid "[LINK:data/help/intro]Introduction[/LINK]"
+msgstr "[LINK:data/help/intro]Introdução[/LINK]"
+
+#: main.txt:7
+msgid "[LINK:data/help/new_region]Creating Your World[/LINK]"
+msgstr "[LINK:data/help/new_region]Criar o Seu Mundo[/LINK]"
+
+#: main.txt:8
+msgid "[LINK:data/help/setup_game]Preparing For The Journey[/LINK]"
+msgstr "[LINK:data/help/setup_game]Preparar-se para a Viagem[/LINK]"
+
+#: main.txt:9
+msgid "[LINK:data/help/outpost]Your First Outpost[/LINK]"
+msgstr "[LINK:data/help/outpost]O seu primeiro Posto Avançado[/LINK]"
+
+#: main.txt:10
+msgid "[LINK:data/help/menus]The Many Menus[/LINK]"
+msgstr "[LINK:data/help/menus]Os Muitos Menus[/LINK]"
+
+#: main.txt:11
+msgid "[LINK:data/help/icons]Icons[/LINK]"
+msgstr "[LINK:data/help/icons]Icónes[/LINK]"
+
+#: main.txt:14
+msgid "[LINK:data/help/a_main]The Adventurer's Manual[/LINK]"
+msgstr "[LINK:data/help/a_main]O Manual do Aventureiro[/LINK]"
+
+#: menu_activity_zones.txt:2
+msgid "[TITLE]The Manual: Activity Zones[/TITLE]"
+msgstr "[TITLE]O Manual: Zonas de Atividades[/TITLE]"
+
+#: menu_activity_zones.txt:4
+msgid "[C:7:0:1]How to Get Here[C:7:0:0]"
+msgstr "[C:7:0:1]Como Chegar Aqui[C:7:0:0]"
+
+#: menu_activity_zones.txt:2
+msgid "Press [IKEY:D_CIVZONE] from the main view."
+msgstr "Carregue em [IKEY:D_CIVZONE] a partir da vista principal."
+
+#: menu_activity_zones.txt:8
+msgid "[C:7:0:1]Description[C:7:0:0]"
+msgstr "[C:7:0:1]Descrição[C:7:0:0]"
+
+#: menu_activity_zones.txt:7
+msgid ""
+"An activity zone is an area where your dwarves perform any of a variety of "
+"tasks.  Sometimes the dwarves will perform these tasks on their own and the "
+"activity zone is a way of localizing activity, and sometimes the activity "
+"zone is the only way to get the dwarves to perform the task."
+msgstr "Uma zona de atividade é uma área onde os seus anões realizam uma variedade de tarefas. Por vezes os anões realizam estas tarefas de sua livre vontade e a zona de atividade é uma forma de localizar atividade e ,por vezes, é a única forma de chegar aos anões que estão a realizar a tarefa."
+
+#: menu_activity_zones.txt:11
+msgid ""
+"First you need to place an activity zone.  This is done by selecting two of its opposing corners with your cursor.\n"
+"As you move to the second corner, you will be shown a count of how many of the squares in the rectangle are valid for a given activity."
+msgstr "Primeiro precisa de colocar uma zona de atividade. Isto é feito através da escolha de duas esquinas opostas com o seu cursor.\nQuando estiver a mover para a segunda esquina, irá ser-lhe apresentada uma contagem de quantos quadrados no retângulo são válidos para a atividade."
+
+#: menu_activity_zones.txt:16
+msgid "[C:7:0:1]Water Source[C:7:0:0]"
+msgstr "[C:7:0:1]Fonte de Água[C:7:0:0]"
+
+#: menu_activity_zones.txt:14
+msgid ""
+"Dwarves will use these zones for drinking, filling waterskins and filling "
+"buckets.  Dwarves will not drink saltwater and they don't like stagnant "
+"water."
+msgstr "Anões irão usar estas zonas para beber, encherem cantis de água e baldes. Anões não bebem água salgada e não gostam de água estagnada."
+
+#: menu_activity_zones.txt:19
+msgid ""
+"Dwarves will use these areas for fishing provided there are still fish to "
+"catch."
+msgstr "Anões irão usar estas áreas para pescarem desde que ainda haja peixe para ser apanhado."
+
+#: menu_activity_zones.txt:24
+msgid "[C:7:0:1]Garbage Dump[C:7:0:0]"
+msgstr "[C:7:0:1]Lixeira[C:7:0:0]"
+
+#: menu_activity_zones.txt:23
+msgid ""
+"Dwarves will dump designated items in these squares.  A dumped item will "
+"become forbidden.  Dwarves will preferentially use open squares that cause "
+"the item to fall at least one level."
+msgstr "Anões depositarão os items assinalados nestes quadrados. Um objeto depositado desta forma tornar-se-á proibido. Anões irão preferir quadrados que causem a queda do item em pelo menos um nível."
+
+#: menu_activity_zones.txt:28
+msgid "[C:7:0:1]Pit/Pond[C:7:0:0]"
+msgstr "[C:7:0:1]Poço/Charco[C:7:0:0]"
+
+#: menu_activity_zones.txt:27
+msgid ""
+"You can drop creatures into these zones.  You can also designate them to be "
+"filled with buckets.  Once an animal is dropped, it loses its attachment to "
+"the zone, so if it gets out somehow your dwarves will not seek to replace "
+"it."
+msgstr "Pode soltar criaturas nestas zonas. Também é possível designá-las para estarem cheias com baldes. Quando um animal é largado, perde a sua ligação com a zona, portanto se um animal se conseguir soltar, os seus anões não o irão substituir. "
+
+#: menu_activity_zones.txt:32
+msgid "[C:7:0:1]Sand Collection[C:7:0:0]"
+msgstr "[C:7:0:1]Colecta de areia[C:7:0:0]"
+
+#: menu_activity_zones.txt:31
+msgid ""
+"You can collect sand in bags in these zones.  There must be sand in the zone"
+" for this to work."
+msgstr "É possível apanhar areia em sacos nestas zonas. É necessária areia nesta zona para isto funcionar."
+
+#: menu_activity_zones.txt:36
+msgid "[C:7:0:1]Meeting Area[C:7:0:0]"
+msgstr "[C:7:0:1]Área de Reuniões[C:7:0:0]"
+
+#: menu_activity_zones.txt:35
+msgid "Your dwarves will congregate in these areas."
+msgstr "Os seus anões irão reunir-se nestas áreas."
+
+#: menu_builditem.txt:2
+msgid "[TITLE]The Manual: View Building Items[/TITLE]"
+msgstr "[TITLE]O Manual: Ver Itens de Construção[/TITLE]"
+
+#: menu_builditem.txt:2
+msgid "Press [IKEY:D_BUILDITEM] from the main view."
+msgstr "Carregue em [IKEY:D_BUILDITEM] para a vista principal."
+
+#: menu_builditem.txt:7
+msgid ""
+"This menu allows you to look inside buildings.  A cursor will appear on the "
+"screen.  Use "
+"[IKEY:CURSOR_UP][IKEY:CURSOR_DOWN][IKEY:CURSOR_LEFT][IKEY:CURSOR_RIGHT][IKEY:CURSOR_UPLEFT][IKEY:CURSOR_UPRIGHT][IKEY:CURSOR_DOWNLEFT][IKEY:CURSOR_DOWNRIGHT]"
+" to move the cursor."
+msgstr "Este menu permite ver dentro de edifícios. Um cursor irá aparecer no ecrã. Use [IKEY:CURSOR_UP][IKEY:CURSOR_DOWN][IKEY:CURSOR_LEFT][IKEY:CURSOR_RIGHT][IKEY:CURSOR_UPLEFT][IKEY:CURSOR_UPRIGHT][IKEY:CURSOR_DOWNLEFT][IKEY:CURSOR_DOWNRIGHT] para mover dito cursor."
+
+#: menu_builditem.txt:11
+msgid ""
+"The contents of the closest building are displayed, along with instructions on how to select items.  You can view items from this menu, and you can\n"
+"order the removal of the building.  You can also view the progress of building construction from this menu."
+msgstr "Os conteúdos do edifício mais próximo podem ser exibidos, juntamente com instruções de como seleccionar itens. É possível ver itens a partir deste menu, e remover o edifício. Também é possível ver o progresso da construção do edifício  a partir deste menu. "
+
+#: menu_builditem.txt:14
+msgid ""
+"Depending on the building, some special symbols can appear to give you more "
+"information."
+msgstr "Dependendo do edifício, alguns símbolos especiais poderão aparecer para lhe dar mais informação. "
+
+#: menu_builditem.txt:17
+msgid "[C:3:0:1]TSK[C:7:0:0] A task is associated to this object.[R]"
+msgstr "[C:3:0:1]TSK[C:7:0:0] Existe uma tarefa associada a este objeto.[R]"
+
+#: menu_builditem.txt:18
+msgid "[C:7:0:1][[B]][C:7:0:0] The object is part of the building.[R]"
+msgstr "[C:7:0:1][[B]][C:7:0:0] O objeto faz parte do edifício.[R]"
+
+#: menu_builditem.txt:19
+msgid "[C:6:0:1][[T]][C:7:0:0] The object is a trade good.[R]"
+msgstr "[C:6:0:1][[T]][C:7:0:0] O objeto é um bem de troca.[R]"
+
+#: menu_builditem.txt:20
+msgid "[C:2:0:1][[A]][C:7:0:0] This is an animal caught in a trap.[R]"
+msgstr "[C:2:0:1][[A]][C:7:0:0] Isto é um animal preso numa armadilha.[R]"
+
+#: menu_builditem.txt:21
+msgid "[C:6:0:0][[B]][C:7:0:0] This object is bait in a trap.[R]"
+msgstr "[C:6:0:0][[B]][C:7:0:0] Este objeto é isco numa armadilha.[R]"
+
+#: menu_builditem.txt:22
+msgid "[C:5:0:1][[L]][C:7:0:0] This object is loaded in a siege engine.[R]"
+msgstr "[C:5:0:1][[L]][C:7:0:0] Este objeto é carregano numa máquina de cerco.[R]"
+
+#: menu_builditem.txt:23
+msgid "[C:0:0:1][[B]][C:7:0:0] The object is enclosed in a coffin.[R]"
+msgstr "[C:0:0:1][[B]][C:7:0:0] Este objeto está fechado num caixão.[R]"
+
+#: menu_builditem.txt:24
+msgid ""
+"[C:1:0:1][[B]][C:7:0:0] The object is associated to the building in another "
+"way.[R]"
+msgstr "[C:1:0:1][[B]][C:7:0:0] O objeto está associado ao edifício de outra forma.[R]"
+
+#: menu_builditem.txt:16
+msgid ""
+"If the building is cluttered, that information will be displayed at the top "
+"right of the menu."
+msgstr "Se o edifício estiver obstruído, um aviso aparecerá na parte superior direita do menu. "
+
+#: menu_builditem.txt:28
+msgid "[LINK:data/help/building_clutter]Building Clutter[/LINK]"
+msgstr ""
+
+#: menu_buildjob.txt:2
+msgid "[TITLE]The Manual: Building Tasks[/TITLE]"
+msgstr "[TITLE]O Manual: Tarefas de Construção[/TITLE]"
+
+#: menu_buildjob.txt:2
+msgid "Press [IKEY:D_BUILDJOB] from the main view."
+msgstr "Carregue em  [IKEY:D_BUILDJOB] a partir da vista principal."
+
+#: menu_buildjob.txt:7
+msgid ""
+"Here you can set up tasks at buildings, create rooms and set other building "
+"properties.  You can also designate buildings for destruction here."
+msgstr "Aqui é possível distribuir tarefas pelos edifícios, criar divisões e definir outras propriedades do edifício. Também é possível destruir edifícios. "
+
+#: menu_buildjob.txt:12
+msgid "[C:7:0:1]Standard Menu[C:7:0:0]"
+msgstr "[C:7:0:1]Menu Standard[C:7:0:0]"
+
+#: menu_buildjob.txt:11
+msgid ""
+"Most buildings, including workshops, use a standard menu.  Here you can create tasks, set their priority, cancel them,\n"
+"or set them to repeat.  Any healthy unoccupied dwarf with the proper professions will perform these tasks."
+msgstr "A maioria dos edifícios, inluindo oficinas, usam um menu standard. Aqui pode criar tarefas, definir as suas prioridades, cancelá-las ou marcá-las para repetição. Qualquer anão saudável e desocupado com a profissão apropriada irá realizar ditas tarefas."
+
+#: menu_buildjob.txt:19
+msgid "[C:7:0:1]Other Menus[C:7:0:0]"
+msgstr "[C:7:0:1]Outros Menus[C:7:0:0]"
+
+#: menu_buildjob.txt:16
+msgid "Many buildings have specialized menus:"
+msgstr "Muitos edifícios têm menus especializados:"
+
+#: menu_buildjob.txt:23
+msgid ""
+"[LINK:data/help/menu_rooms]Creating Rooms "
+"(Bed/Chair/Table/Coffin/Well/Target/Statue/Cage/Chain)[/LINK]"
+msgstr "[LINK:data/help/menu_rooms]Criar Divisões (Cama/Cadeira/Mesa/Caixão/Poço/Alvo/Estátua/Jaula/Corrente)[/LINK]"
+
+#: menu_buildjob.txt:24
+msgid "[LINK:data/help/menu_buildjob_stockpile]Stockpile Menu[/LINK]"
+msgstr "[LINK:data/help/menu_buildjob_stockpile]Menu de Reservas[/LINK]"
+
+#: menu_buildjob.txt:25
+msgid "[LINK:data/help/menu_buildjob_farmplot]Farm Plot Menu[/LINK]"
+msgstr ""
+
+#: menu_buildjob.txt:26
+msgid "[LINK:data/help/menu_buildjob_depot]Trade Depot Menu[/LINK]"
+msgstr ""
+
+#: menu_buildjob.txt:27
+msgid "[LINK:data/help/menu_buildjob_shop]Shop Menu[/LINK]"
+msgstr "[LINK:data/help/menu_buildjob_shop]Menu de Loja[/LINK]"
+
+#: menu_buildjob.txt:28
+msgid "[LINK:data/help/menu_buildjob_lever]Lever Menu[/LINK]"
+msgstr "[LINK:data/help/menu_buildjob_lever]Menu de Alavanca[/LINK]"
+
+#: menu_buildjob.txt:29
+msgid "[LINK:data/help/menu_buildjob_siege]Siege Engine Menu[/LINK]"
+msgstr ""
+
+#: menu_buildjob.txt:30
+msgid "[LINK:data/help/menu_buildjob_door]Door Menu[/LINK]"
+msgstr "[LINK:data/help/menu_buildjob_door]Menu de Porta[/LINK]"
+
+#: menu_buildjob.txt:31
+msgid "[LINK:data/help/menu_buildjob_animaltrap]Animal Trap Menu[/LINK]"
+msgstr ""
+
+#: menu_buildjob_animaltrap.txt:2
+msgid "[TITLE]The Manual: Animal Trap Menu[/TITLE]"
+msgstr "[TITLE]O Manual: Menu de Armadilhas de Animais[/TITLE]"
+
+#: menu_buildjob_animaltrap.txt:2
+msgid "Press [IKEY:D_BUILDJOB] from the main view and move to an animal trap."
+msgstr ""
+
+#: menu_buildjob_animaltrap.txt:7
+msgid ""
+"Animal traps catch small animals.  In order for them to be effective, bait must be used.  The type of bait determines the possible captive.\n"
+"Do not use gems."
+msgstr ""
+
+#: menu_buildjob_animaltrap.txt:12
+msgid ""
+"Captured animals can be used for food, extracts or trade. Some can be tamed."
+msgstr "Animais capturados podem ser usados para comida, extratos ou comércio. Alguns podem ser domados."
+
+#: menu_buildjob_depot.txt:2
+msgid "[TITLE]The Manual: Trade Depot Menu[/TITLE]"
+msgstr ""
+
+#: menu_buildjob_depot.txt:2
+msgid "Press [IKEY:D_BUILDJOB] from the main view and move to a trade depot."
+msgstr ""
+
+#: menu_buildjob_depot.txt:7
+msgid "If merchants are coming, you can bring goods to the trade depot."
+msgstr ""
+
+#: menu_buildjob_depot.txt:11
+msgid ""
+"If merchants have arrived and unloaded their goods, you can trade with them "
+"provided your broker or another dwarf is present at the depot with a trade "
+"job."
+msgstr ""
+
+#: menu_buildjob_depot.txt:13
+msgid ""
+"When trading, you select goods on both sides of the partition.  Then you can trade.\n"
+"The merchant will give you feedback and make a counter offer if possible."
+msgstr ""
+
+#: menu_buildjob_depot.txt:16
+msgid ""
+"You can seize goods from a merchant.  This will cause tensions between your "
+"civilizations."
+msgstr "Pode confiscar os bens de um mercador. Isto irá causar tensões entre as suas civilizações."
+
+#: menu_buildjob_depot.txt:18
+msgid ""
+"You can offer goods to a merchant.  This will smooth over tensions somewhat "
+"and generally improve relations."
+msgstr "Pode oferecer bens a um mercador. Isto irá aliviar tensões em graus diferentes e geralmente melhorar relações."
+
+#: menu_buildjob_door.txt:2
+msgid "[TITLE]The Manual: Door Menu[/TITLE]"
+msgstr "[TITLE]O Manual: Menu de Portas[/TITLE]"
+
+#: menu_buildjob_door.txt:2
+msgid "Press [IKEY:D_BUILDJOB] from the main view and move to a door."
+msgstr "Carregue em [IKEY:D_BUILDJOB] a partir da vista principal e mova-se para uma porta."
+
+#: menu_buildjob_door.txt:7
+msgid "Doors have three major settings."
+msgstr "Portas tem 3 configurações principais."
+
+#: menu_buildjob_door.txt:11
+msgid ""
+"You can set a door as forbidden.  This will stop your dwarves from passing "
+"through it during their regular activities."
+msgstr "Pode definir uma porta como proibida. Isto irá impedir os seus anões de passar através dela durante as suas atividades normais."
+
+#: menu_buildjob_door.txt:13
+msgid ""
+"You can set a door to be kept tightly closed.  This means that your pets "
+"cannot use the door freely."
+msgstr "Pode configurar uma porta para se manter firmemente fechada. Isto significa que os seus animais de estimação não poderão utilizar a porta livremente."
+
+#: menu_buildjob_door.txt:15
+msgid ""
+"A door can also be set as internal.  This means that the door will not stop "
+"the room plan from flowing through during room creation."
+msgstr "Uma porta pode também ser definida como interna. Isto significa que a porta não irá parar um plano de uma divisão de passar por ela durante a criação de uma divisão."
+
+#: menu_buildjob_door.txt:17
+msgid ""
+"Doors can be taken by invaders.  This stops you from controlling the door.  "
+"To retake a door, one of your dwarves must walk through it."
+msgstr "Portas podem ser tomadas por invasores. Isto previne que seja você a controlar a porta. Para retomar a porta, um dos seus anões deve passar através dela."
+
+#: menu_buildjob_farmplot.txt:2
+msgid "[TITLE]The Manual: Farm Plot Menu[/TITLE]"
+msgstr ""
+
+#: menu_buildjob_farmplot.txt:2
+msgid "Press [IKEY:D_BUILDJOB] from the main view and move to a farm plot."
+msgstr ""
+
+#: menu_buildjob_farmplot.txt:7
+msgid ""
+"Here you can select which crop to plant in the farm plot each season.\n"
+"There is no reason to let a field stand fallow at the present time.\n"
+"Prepare multiple plots to plant more than one crop type per season."
+msgstr ""
+
+#: menu_buildjob_farmplot.txt:13
+msgid ""
+"If a crop is red, it is known that this is a bad time of the season to plant"
+" it."
+msgstr ""
+
+#: menu_buildjob_farmplot.txt:16
+msgid "[LINK:data/help/food]More on Food[/LINK]"
+msgstr "[LINK:data/help/food]Mais sobre Comida[/LINK]"
+
+#: menu_buildjob_lever.txt:2
+msgid "[TITLE]The Manual: Lever Menu[/TITLE]"
+msgstr "[TITLE]O Manual: Menu de Alavancas[/TITLE]"
+
+#: menu_buildjob_lever.txt:2
+msgid ""
+"Press [IKEY:D_BUILDJOB] from the main view and move to a lever (or pressure "
+"plate)."
+msgstr ""
+
+#: menu_buildjob_lever.txt:7
+msgid ""
+"The lever menu is a standard menu, but the tasks are unusual.  The lever (or pressure plate) can be linked to one or\n"
+"more buildings.  Pulling the lever (or stepping on the pressure plate) causes the effect to be trigger.  Linking a\n"
+"building requires two mechanisms and takes some time."
+msgstr ""
+
+#: menu_buildjob_lever.txt:13
+msgid "The effects are as follows:"
+msgstr "Os efeitos são os seguintes:"
+
+#: menu_buildjob_lever.txt:16
+msgid "[C:3:0:1]Bridge[C:7:0:0] Raise/lower[R]"
+msgstr "[C:3:0:1]Ponte[C:7:0:0] Subir/baixar[R]"
+
+#: menu_buildjob_lever.txt:17
+msgid "[C:3:0:1]Cage/Chain[C:7:0:0] Release occupants[R]"
+msgstr "[C:3:0:1]Jaula/Corrente[C:7:0:0] Soltar ocupantes[R]"
+
+#: menu_buildjob_lever.txt:18
+msgid "[C:3:0:1]Door/Hatch[C:7:0:0] Open/close (otherwise unuseable)[R]"
+msgstr "[C:3:0:1]Porta/Escotilha[C:7:0:0] Abrir/fechar (não utilizável de outra forma)[R]"
+
+#: menu_buildjob_lever.txt:19
+msgid "[C:3:0:1]Floodgate/Grate/Bars[C:7:0:0] Open/close[R]"
+msgstr "[C:3:0:1]Comporta/Grade/Barras[C:7:0:0] Abrir/fechar[R]"
+
+#: menu_buildjob_lever.txt:20
+msgid "[C:3:0:1]Support[C:7:0:0] Collapses[R]"
+msgstr "[C:3:0:1]Pilar[C:7:0:0] Colapsa[R]"
+
+#: menu_buildjob_lever.txt:21
+msgid "[C:3:0:1]Spears/Spikes[C:7:0:0] Retract/extend[R]"
+msgstr "[C:3:0:1]Lanças/Espigões[C:7:0:0] Retrair/extender[R]"
+
+#: menu_buildjob_lever.txt:22
+msgid "[C:3:0:1]Gear assembly[C:7:0:0] Engage/Disengage[R]"
+msgstr ""
+
+#: menu_buildjob_shop.txt:2
+msgid "[TITLE]The Manual: Shop Menu[/TITLE]"
+msgstr "[TITLE]O Manual: Menu de Loja[/TITLE]"
+
+#: menu_buildjob_shop.txt:2
+msgid ""
+"If accounts are active, press [IKEY:D_BUILDJOB] from the main view and move "
+"to a shop."
+msgstr ""
+
+#: menu_buildjob_shop.txt:7
+msgid ""
+"Shops are run by their shopkeeper.  You do not have any control over what happens here, but you\n"
+"can view the status of the shop here."
+msgstr ""
+
+#: menu_buildjob_siege.txt:2
+msgid "[TITLE]The Manual: Siege Engine Menu[/TITLE]"
+msgstr ""
+
+#: menu_buildjob_siege.txt:2
+msgid "Press [IKEY:D_BUILDJOB] from the main view and move to a siege engine."
+msgstr ""
+
+#: menu_buildjob_siege.txt:7
+msgid ""
+"You can orient a siege engine and set its firing state.  Siege engines require ammunition.  Ballistas require specially constructed arrows.\n"
+"Any stone will work in a catapult."
+msgstr ""
+
+#: menu_buildjob_siege.txt:12
+msgid ""
+"Siege engines work best against large armies since the firing is imprecise, although having a ballista set to\n"
+"fire down a hallway is an option that can provide some relief from invading forces that enter your fortress."
+msgstr ""
+
+#: menu_buildjob_stockpile.txt:2
+msgid "[TITLE]The Manual: Stockpile Menu[/TITLE]"
+msgstr "[TITLE]O Manual: Menu de Pilha de Estoque[/TITLE]"
+
+#: menu_buildjob_stockpile.txt:2
+msgid "Press [IKEY:D_BUILDJOB] from the main view and move to a stockpile."
+msgstr "Carregue em [IKEY:D_BUILDJOB] a partir da vista principal e mova-se para uma pilha de estoque."
+
+#: menu_buildjob_stockpile.txt:7
+msgid "Here you can customize stockpile settings."
+msgstr "Aqui pode customizar as definições de uma pilha de estoque."
+
+#: menu_buildjob_stockpile.txt:11
+msgid ""
+"You can make one pile want items from another pile.\n"
+"Once you select \"take from a pile\", move to another pile and press [IKEY:SELECT].\n"
+"You'll see the second pile appear in a list."
+msgstr ""
+
+#: menu_civlist.txt:2
+msgid "[TITLE]The Manual: Civilizations[/TITLE]"
+msgstr "[TITLE]O Manual: Civilizações[/TITLE]"
+
+#: menu_civlist.txt:2
+msgid "Press [IKEY:D_CIVLIST] from the main view."
+msgstr "Carregue em [IKEY:D_CIVLIST] a partir da vista principal."
+
+#: menu_civlist.txt:7
+msgid ""
+"Here you have a list of the civilizations.\n"
+"Use [IKEY:STANDARDSCROLL_UP][IKEY:STANDARDSCROLL_DOWN][IKEY:STANDARDSCROLL_PAGEUP][IKEY:STANDARDSCROLL_PAGEDOWN] to scroll."
+msgstr "Aqui está a lista de civilizações.\nUse [IKEY:STANDARDSCROLL_UP][IKEY:STANDARDSCROLL_DOWN][IKEY:STANDARDSCROLL_PAGEUP][IKEY:STANDARDSCROLL_PAGEDOWN] para navegar."
+
+#: menu_civlist.txt:12
+msgid ""
+"Depending on the number of civilizations you've located, there will be two columns of [C:2:1:1]P[C:7:0:0]s and [C:6:4:1]W[C:7:0:0]s.\n"
+"The first column indicates the state of peace/war with your civilization, and the second relates the currently selected civilization to\n"
+"the other civilizations."
+msgstr ""
+
+#: menu_civlist.txt:16
+msgid "Press [IKEY:SELECT] to view a civilization."
+msgstr "Carregue em [IKEY:SELECT] para ver uma civilização."
+
+#: menu_civlist.txt:18
+msgid ""
+"When you are viewing a specific civilization, you can see that "
+"civilization's important figures, trade statistics and agreements."
+msgstr "Quando está a ver uma civilização específica, pode ver números de importância, estatísticas de comércio e acordos da mesma."
+
+#: menu_designations.txt:2
+msgid "[TITLE]The Manual: Designations[/TITLE]"
+msgstr "[TITLE]O Manual: Designações[/TITLE]"
+
+#: menu_designations.txt:2
+msgid "Press [IKEY:D_DESIGNATE] from the main view."
+msgstr ""
+
+#: menu_designations.txt:7
+msgid ""
+"Here you can designate areas for digging, detailing, plant gathering and "
+"wood cutting, among other things."
+msgstr ""
+
+#: menu_designations.txt:11
+msgid ""
+"Use the displayed keys to select which type of activity you are designating."
+msgstr ""
+
+#: menu_designations.txt:13
+msgid ""
+"Press [IKEY:SELECT] to place one corner of the area you are designating.  All designated areas are rectangles.\n"
+"Move the cursor and press [IKEY:SELECT] again to finish the designation."
+msgstr ""
+
+#: menu_designations.txt:16
+msgid ""
+"If your designated area has encompassed any appropriate map squares, they will become highlighted.  Detail\n"
+"highlighting is not always visible, but you can view it whenever you are designating.  Dig, chop and gather detailing\n"
+"is always visible."
+msgstr ""
+
+#: menu_designations.txt:20
+msgid ""
+"Removing designations works in the same way as assigning them.  Any highlighted designations that are encompassed by\n"
+"your rectangle will be removed.  This includes any active jobs."
+msgstr ""
+
+#: menu_designations.txt:24
+msgid "[C:7:0:1]Mining[C:7:0:0]"
+msgstr "[C:7:0:1]Minar[C:7:0:0]"
+
+#: menu_designations.txt:23
+msgid ""
+"A few things to keep in mind:  You must connect a down staircase to an "
+"upward staircase in the level below.  If you select a floor as a channel, "
+"your dwarf will dig out the wall below as well.  Regular mining leaves a "
+"floor layer betwen adjacent levels."
+msgstr ""
+
+#: menu_designations.txt:28
+msgid "[C:7:0:1]Smoothing/Engraving[C:7:0:0]"
+msgstr ""
+
+#: menu_designations.txt:27
+msgid ""
+"Any rock wall or floor can be smoothed.  Smoothing increases the value of "
+"rooms, which makes the dwarves happier and attracts more dwarves to your "
+"fortress.  You can subsequently make engravings in the smooth surface to "
+"increase the value further."
+msgstr ""
+
+#: menu_designations.txt:32
+msgid "[C:7:0:1]Fortifications[C:7:0:0]"
+msgstr ""
+
+#: menu_designations.txt:31
+msgid ""
+"Any detailed wall that is open on opposing sides (up/down or left/right) can be turned into a fortification.  Fortifications have no\n"
+"monetary value, as opposed to normal detailed walls.  However, dwarves can fire through fortifications.  If you have dwarves equipped\n"
+"with crossbows, they can be positioned safely behind fortifications, which still act as walls."
+msgstr ""
+
+#: menu_designations.txt:37
+msgid ""
+"In addition, units cannot fire through fortifications from a distance unless"
+" they make a skill roll, so you dwarves can fire safely through them even at"
+" enemy ranged units."
+msgstr ""
+
+#: menu_designations.txt:40
+msgid "[C:7:0:1]Forbid/Reclaim[C:7:0:0]"
+msgstr ""
+
+#: menu_designations.txt:39
+msgid ""
+"Use these designations to stop a dwarf from using an item or to reclaim an "
+"item that has been forbidden.  When you send an expedition to reclaim an old"
+" fortress, all of the items there will start out forbidden."
+msgstr ""
+
+#: menu_designations.txt:44
+msgid "[C:7:0:1]Constructions[C:7:0:0]"
+msgstr "[C:7:0:1]Construções[C:7:0:0]"
+
+#: menu_designations.txt:43
+msgid ""
+"You can remove constructions (such as wall and floor sections you've made "
+"from blocks) using the Remove Construction designations.  You cannot mine or"
+" make engravings on these sections."
+msgstr ""
+
+#: menu_designations.txt:48
+msgid "[C:7:0:1]Traffic Designations[C:7:0:0]"
+msgstr ""
+
+#: menu_designations.txt:47
+msgid ""
+"You can set traffic areas to bias the movement of your dwarves.  Dwarves "
+"will prefer to walk through high traffic areas.  Normal traffic areas are "
+"not displayed.  A restricted traffic area does not prevent pathing, but "
+"dwarves will seldom use restricted areas if there is another way to get to "
+"their goal."
+msgstr ""
+
+#: menu_jobunitlist.txt:2
+msgid "[TITLE]The Manual: Job/Unit List[/TITLE]"
+msgstr ""
+
+#: menu_jobunitlist.txt:2
+msgid ""
+"Press [IKEY:D_JOBLIST] or press [IKEY:D_UNITLIST] from the main view.  The first emphasizes jobs and the\n"
+"second emphasizes units."
+msgstr ""
+
+#: menu_jobunitlist.txt:8
+msgid ""
+"This screen is a convenient way to few which tasks are active in the fortress and what your dwarves are doing.\n"
+"Use [IKEY:STANDARDSCROLL_UP][IKEY:STANDARDSCROLL_DOWN][IKEY:STANDARDSCROLL_PAGEUP][IKEY:STANDARDSCROLL_PAGEDOWN] to scroll."
+msgstr ""
+
+#: menu_jobunitlist.txt:13
+msgid ""
+"You can view the particulars of the job or unit profiles from this screen."
+msgstr ""
+
+#: menu_jobunitlist.txt:16
+msgid "[LINK:data/help/unit_profile]Unit Profiles[/LINK]"
+msgstr ""
+
+#: menu_jobunitlist.txt:15
+msgid ""
+"You can also zoom to units or related buildings, or remove a unit from "
+"certain jobs."
+msgstr ""
+
+#: menu_jobunitlist.txt:19
+msgid "If you have a manager, you can access the manager screen from here."
+msgstr ""
+
+#: menu_jobunitlist.txt:22
+msgid "[LINK:data/help/menu_manager]Manager Screen[/LINK]"
+msgstr ""
+
+#: menu_look.txt:2
+msgid "[TITLE]The Manual: Looking Around[/TITLE]"
+msgstr ""
+
+#: menu_look.txt:2
+msgid "Press [IKEY:D_LOOK] from the main view."
+msgstr ""
+
+#: menu_look.txt:7
+msgid ""
+"Once you enter look mode, you'll have the standard cursor to move around, "
+"and anything in the cursor's square will be listed on the right."
+msgstr ""
+
+#: menu_look.txt:11
+msgid ""
+"If you highlight a unit or item on the right and press [IKEY:SELECT], you "
+"will be taken to the unit profile or item descriptions, respectively."
+msgstr ""
+
+#: menu_make_buildings.txt:2
+msgid "[TITLE]The Manual: Placing Buildings[/TITLE]"
+msgstr ""
+
+#: menu_make_buildings.txt:2
+msgid "Press [IKEY:D_BUILDING] from the main view."
+msgstr ""
+
+#: menu_make_buildings.txt:7
+msgid ""
+"First you'll be confronted by a long list of buildings.  Many of these lead "
+"to submenus.  Choose the building you want by pressing the displayed hotkey "
+"or by selecting it with the cursor."
+msgstr ""
+
+#: menu_make_buildings.txt:11
+msgid ""
+"If you don't have the required materials, you will be told what you need."
+msgstr ""
+
+#: menu_make_buildings.txt:13
+msgid ""
+"Once you are ready to place a building, you'll see one or many Xs appear on the screen.  You can maneuver these in the same way as the standard cursor.\n"
+"This is the location of your new building.  Some buildings have additional options for sizing and orientation."
+msgstr ""
+
+#: menu_make_buildings.txt:16
+msgid "The color of the Xs lets you know about the building placement:"
+msgstr ""
+
+#: menu_make_buildings.txt:19
+msgid "[C:2:0:1]X[C:7:0:0] Legal placement[R]"
+msgstr ""
+
+#: menu_make_buildings.txt:20
+msgid "[C:2:0:0]X[C:7:0:0] Legal placement and will obstruct dwarves[R]"
+msgstr ""
+
+#: menu_make_buildings.txt:21
+msgid "[C:4:0:1]X[C:7:0:0] or [C:5:0:1]X[C:7:0:0] Blocked, cannot place[R]"
+msgstr ""
+
+#: menu_make_buildings.txt:18
+msgid ""
+"The [C:4:0:1]X[C:7:0:0] can also appear in other special cases.  The reasons"
+" for placement failure are listed for you."
+msgstr ""
+
+#: menu_make_buildings.txt:23
+msgid ""
+"Once a building is placed, you'll be able to choose the objects you want to use from a list.  Some buildings require multiple items.\n"
+"And of these, some buildings like bridges can be sized according to how many objects you select.  Other buildings like dirt roads do not require items."
+msgstr ""
+
+#: menu_make_buildings.txt:26
+msgid ""
+"When you've finished selecting items, healthy unoccupied dwarves with the appropriate professions will get to work on it.  Some buildings require an architect\n"
+"to design them.  Some require a carpenter or mason, while others require a dwarf of the profession used by the building's tasks."
+msgstr ""
+
+#: menu_manager.txt:2
+msgid "[TITLE]The Manual: Manager Screen[/TITLE]"
+msgstr ""
+
+#: menu_manager.txt:2
+msgid ""
+"If you have a manager, press [IKEY:D_JOBLIST] or press [IKEY:D_UNITLIST] "
+"from the main view.  Then press"
+msgstr ""
+
+#: menu_manager.txt:7
+msgid ""
+"You can set up work orders from this screen.  Work orders are a convenient "
+"way to set up tasks once your fortress starts getting large."
+msgstr ""
+
+#: menu_manager.txt:12
+msgid ""
+"Use "
+"[IKEY:STANDARDSCROLL_UP][IKEY:STANDARDSCROLL_DOWN][IKEY:STANDARDSCROLL_PAGEUP][IKEY:STANDARDSCROLL_PAGEDOWN]"
+" to scroll."
+msgstr ""
+
+#: menu_manager.txt:14
+msgid ""
+"Press [IKEY:MANAGER_NEW_ORDER] to set up a new order.  You'll be faced with "
+"an enormous list of potential tasks."
+msgstr ""
+
+#: menu_manager.txt:16
+msgid ""
+"Type a portion of the name of the task you are looking for to narrow down the list.\n"
+"Use [IKEY:STANDARDSCROLL_UP][IKEY:STANDARDSCROLL_DOWN][IKEY:STANDARDSCROLL_LEFT][IKEY:STANDARDSCROLL_RIGHT][IKEY:STANDARDSCROLL_PAGEUP][IKEY:STANDARDSCROLL_PAGEDOWN] to scroll."
+msgstr ""
+
+#: menu_manager.txt:19
+msgid ""
+"Press [IKEY:SELECT] to select a task.  You'll be prompted for a quantity.  "
+"Type in a number and press [IKEY:SELECT]."
+msgstr ""
+
+#: menu_manager.txt:21
+msgid ""
+"The new order will appear in your work order list.  You can remove orders "
+"and change their priorities."
+msgstr ""
+
+#: menu_manager.txt:23
+msgid ""
+"Every so often, the manager will assign tasks to buildings based on the work"
+" orders."
+msgstr ""
+
+#: menu_manager.txt:25
+msgid "If accounts are active, you can view wages from this screen."
+msgstr ""
+
+#: menu_manager.txt:28
+msgid "[LINK:data/help/accounts]Accounts[/LINK]"
+msgstr "[LINK:data/help/accounts]Contas[/LINK]"
+
+#: menu_manager.txt:29
+msgid "[LINK:data/help/menu_wages]Wage Screen[/LINK]"
+msgstr "[LINK:data/help/menu_wages]Ecrã de Ordenados[/LINK]"
+
+#: menu_military.txt:2
+msgid "[TITLE]The Manual: Military Screen[/TITLE]"
+msgstr "[TITLE]O Manual: Ecrã Militar[/TITLE]"
+
+#: menu_military.txt:2
+msgid "Press [IKEY:D_MILITARY] from the main view."
+msgstr "Carregue em [IKEY:D_MILITARY] a partir da vista principal."
+
+#: menu_nobles.txt:2
+msgid "[TITLE]The Manual: Nobles and Administrators[/TITLE]"
+msgstr "[TITLE]O Manual: Nobres e Administradores[/TITLE]"
+
+#: menu_nobles.txt:2
+msgid "Press [IKEY:D_NOBLES] from the main view."
+msgstr "Carregue em [IKEY:D_NOBLES] a partir da vista principal."
+
+#: menu_nobles.txt:7
+msgid ""
+"These are the important figures in your fortress.\n"
+"Use [IKEY:STANDARDSCROLL_UP][IKEY:STANDARDSCROLL_DOWN][IKEY:STANDARDSCROLL_PAGEUP][IKEY:STANDARDSCROLL_PAGEDOWN] to scroll."
+msgstr ""
+
+#: menu_nobles.txt:12
+msgid ""
+"Press [IKEY:SELECT] to view a noble's profile.  You can get specifics about "
+"requirements, demands and mandates here."
+msgstr ""
+
+#: menu_nobles.txt:14
+msgid ""
+"You can also appoint dwarves for administrative tasks and set bookkeeper "
+"precision."
+msgstr ""
+
+#: menu_nobles.txt:16
+msgid ""
+"On the right, you'll see three categories, which will now be described."
+msgstr ""
+
+#: menu_nobles.txt:21
+msgid "[C:7:0:1]Requirements[C:7:0:0]"
+msgstr ""
+
+#: menu_nobles.txt:20
+msgid ""
+"Nobles have required rooms and furniture.  The color of [[REQUIREMENT]] "
+"refers to the state of the requirements:"
+msgstr ""
+
+#: menu_nobles.txt:25
+msgid "[C:7:0:1][[REQUIREMENT]][C:7:0:0] All requirements met.[R]"
+msgstr ""
+
+#: menu_nobles.txt:26
+msgid ""
+"[C:6:0:1][[REQUIREMENT]][C:7:0:0] At least one requirement is only partially"
+" met.[R]"
+msgstr ""
+
+#: menu_nobles.txt:27
+msgid ""
+"[C:4:0:1][[REQUIREMENT]][C:7:0:0] At least one requirement is being "
+"completely ignored.[R]"
+msgstr ""
+
+#: menu_nobles.txt:28
+msgid "[C:0:0:1][[REQUIREMENT]][C:7:0:0] No requirements.[R]"
+msgstr ""
+
+#: menu_nobles.txt:24
+msgid ""
+"Nobles can become angry or sad if their requirements are not met, but there "
+"are no formal legal repercussions."
+msgstr ""
+
+#: menu_nobles.txt:31
+msgid "[C:7:0:1]Demands[C:7:0:0]"
+msgstr ""
+
+#: menu_nobles.txt:30
+msgid ""
+"Nobles occasionally demand additional furnishings.  The color of [[DEMAND]] "
+"refers to the state of the demands:"
+msgstr ""
+
+#: menu_nobles.txt:35
+msgid "[C:7:0:1][[DEMAND]][C:7:0:0] All demands met.[R]"
+msgstr ""
+
+#: menu_nobles.txt:36
+msgid ""
+"[C:6:0:0][[DEMAND]][C:7:0:0] At least one demand is not met, but you have "
+"time.[R]"
+msgstr ""
+
+#: menu_nobles.txt:37
+msgid ""
+"[C:6:0:1][[DEMAND]][C:7:0:0] At least one demand is running out of time.[R]"
+msgstr ""
+
+#: menu_nobles.txt:38
+msgid ""
+"[C:4:0:1][[DEMAND]][C:7:0:0] At least one demand failure is being noticed by"
+" the noble.[R]"
+msgstr ""
+
+#: menu_nobles.txt:39
+msgid "[C:0:0:1][[DEMAND]][C:7:0:0] No demands at present.[R]"
+msgstr ""
+
+#: menu_nobles.txt:34
+msgid ""
+"Nobles can become angry or sad if their demands are not met, but there are "
+"no formal legal repercussions."
+msgstr ""
+
+#: menu_nobles.txt:42
+msgid "[C:7:0:1]Mandates[C:7:0:0]"
+msgstr ""
+
+#: menu_nobles.txt:41
+msgid ""
+"Nobles also have the power to make formal legal mandates.  The color of "
+"[[MANDATE]] refers to the state of the mandates:"
+msgstr ""
+
+#: menu_nobles.txt:46
+msgid ""
+"[C:7:0:1][[MANDATE]][C:7:0:0] All mandates are standing restrictions, like "
+"export mandates.[R]"
+msgstr ""
+
+#: menu_nobles.txt:47
+msgid ""
+"[C:6:0:0][[MANDATE]][C:7:0:0] At least one mandate is timed, but you have "
+"plenty left.[R]"
+msgstr ""
+
+#: menu_nobles.txt:48
+msgid ""
+"[C:6:0:1][[MANDATE]][C:7:0:0] At least one timed mandate is at least half-"
+"way to expiration.[R]"
+msgstr ""
+
+#: menu_nobles.txt:49
+msgid ""
+"[C:4:0:1][[MANDATE]][C:7:0:0] At least one timed mandate is about to "
+"expire.[R]"
+msgstr ""
+
+#: menu_nobles.txt:50
+msgid "[C:0:0:1][[MANDATE]][C:7:0:0] No mandates at present.[R]"
+msgstr ""
+
+#: menu_nobles.txt:52
+msgid "[LINK:data/help/menu_status_justice]Dwarven Justice[/LINK]"
+msgstr ""
+
+#: menu_orders.txt:2
+msgid "[TITLE]The Manual: Standing Orders[/TITLE]"
+msgstr ""
+
+#: menu_orders.txt:2
+msgid "Press [IKEY:D_ORDERS] from the main view."
+msgstr ""
+
+#: menu_orders.txt:7
+msgid ""
+"Here you'll find a number of options that govern the behavior of your dwarves.\n"
+"The descriptions of each follow."
+msgstr ""
+
+#: menu_orders.txt:13
+msgid "[C:7:0:1]Cancellation Announcements[C:7:0:0]"
+msgstr ""
+
+#: menu_orders.txt:12
+msgid ""
+"The game announces when jobs fail, unless you don't want to hear about it.\n"
+"Some of these announcements are important, while others are just incidental.\n"
+"The default setting is good for most purposes, but if you find it intrusive, change it here."
+msgstr ""
+
+#: menu_orders.txt:19
+msgid "[C:7:0:1]Gather Animals[C:7:0:0]"
+msgstr ""
+
+#: menu_orders.txt:18
+msgid ""
+"If you'd like to temporarily stop your dwarves from considering animal haul "
+"jobs, do it here."
+msgstr ""
+
+#: menu_orders.txt:23
+msgid "[C:7:0:1]Gather Food[C:7:0:0]"
+msgstr ""
+
+#: menu_orders.txt:22
+msgid ""
+"If you'd like to temporarily stop your dwarves from considering food haul "
+"jobs, do it here."
+msgstr ""
+
+#: menu_orders.txt:27
+msgid "[C:7:0:1]Gather Furniture[C:7:0:0]"
+msgstr ""
+
+#: menu_orders.txt:26
+msgid ""
+"If you'd like to temporarily stop your dwarves from considering furniture "
+"haul jobs, do it here."
+msgstr ""
+
+#: menu_orders.txt:31
+msgid "[C:7:0:1]Gather Bodies[C:7:0:0]"
+msgstr ""
+
+#: menu_orders.txt:30
+msgid ""
+"If you'd like to temporarily stop your dwarves from considering burial haul "
+"jobs, do it here."
+msgstr ""
+
+#: menu_orders.txt:35
+msgid "[C:7:0:1]Refuse[C:7:0:0]"
+msgstr ""
+
+#: menu_orders.txt:34
+msgid "Here you can set refuse orders, with a few categories."
+msgstr ""
+
+#: menu_orders.txt:39
+msgid "[C:7:0:1]Forbid[C:7:0:0]"
+msgstr ""
+
+#: menu_orders.txt:38
+msgid ""
+"This lets you stop certain items from being used by dwarves (such as items "
+"dropped by dying opponents)."
+msgstr ""
+
+#: menu_orders.txt:43
+msgid "[C:7:0:1]Gather Minerals[C:7:0:0]"
+msgstr ""
+
+#: menu_orders.txt:42
+msgid ""
+"If you'd like to temporarily stop your dwarves from considering stone and "
+"ore haul jobs, do it here."
+msgstr ""
+
+#: menu_orders.txt:47
+msgid "[C:7:0:1]Gather Wood[C:7:0:0]"
+msgstr ""
+
+#: menu_orders.txt:46
+msgid ""
+"If you'd like to temporarily stop your dwarves from considering wood haul "
+"jobs, do it here."
+msgstr ""
+
+#: menu_orders.txt:51
+msgid "[C:7:0:1]Harvesting[C:7:0:0]"
+msgstr ""
+
+#: menu_orders.txt:50
+msgid ""
+"By default, all dwarves help with the harvest, even nobles.  This is to prevent the loss of food.  If you feel\n"
+"you have the situation under control, you can set only your farmers to harvest."
+msgstr ""
+
+#: menu_orders.txt:56
+msgid "[C:7:0:1]Food Mixing[C:7:0:0]"
+msgstr ""
+
+#: menu_orders.txt:55
+msgid ""
+"By default, dwarves will put all meats in a \"meat barrel\" and all plants in a \"plant barrel\", for example.  If\n"
+"you'd like them to separate foods out more specifically, you can do that here."
+msgstr ""
+
+#: menu_orders.txt:61
+msgid "[C:7:0:1]Workshop Orders[C:7:0:0]"
+msgstr ""
+
+#: menu_orders.txt:60
+msgid "Here you can set some of your workshops to be automated."
+msgstr ""
+
+#: menu_orders.txt:65
+msgid "[C:7:0:1]Activity Zone Orders[C:7:0:0]"
+msgstr ""
+
+#: menu_orders.txt:64
+msgid "Here you can restrict drinking and fishing to your activity zones."
+msgstr ""
+
+#: menu_professions.txt:2
+msgid "[TITLE]The Manual: Setting Professions[/TITLE]"
+msgstr ""
+
+#: menu_professions.txt:2
+msgid ""
+"Press [IKEY:D_VIEWUNIT] from the main view and move to the desired unit.\n"
+"After that, press [IKEY:UNITVIEW_PRF] followed by [IKEY:UNITVIEW_PRF_PROF]."
+msgstr ""
+
+#: menu_professions.txt:8
+msgid ""
+"There are many pages.  Scroll with "
+"[IKEY:SECONDSCROLL_DOWN][IKEY:SECONDSCROLL_UP][IKEY:SECONDSCROLL_PAGEDOWN][IKEY:SECONDSCROLL_PAGEUP]."
+msgstr ""
+
+#: menu_professions.txt:12
+msgid ""
+"Select a profession with [IKEY:SELECT].  A dwarf can have several "
+"professions."
+msgstr ""
+
+#: menu_roomlist.txt:2
+msgid "[TITLE]The Manual: Room/Building List[/TITLE]"
+msgstr ""
+
+#: menu_roomlist.txt:2
+msgid "Press [IKEY:D_ROOMS] from the main view."
+msgstr ""
+
+#: menu_roomlist.txt:7
+msgid ""
+"Here you have a list of all of the buildings in the fortress, starting with the proper rooms.\n"
+"Use [IKEY:STANDARDSCROLL_UP][IKEY:STANDARDSCROLL_DOWN][IKEY:STANDARDSCROLL_PAGEUP][IKEY:STANDARDSCROLL_PAGEDOWN] to scroll."
+msgstr ""
+
+#: menu_roomlist.txt:12
+msgid ""
+"On the right, there is a map of your fortress and the location of the room."
+msgstr ""
+
+#: menu_roomlist.txt:14
+msgid ""
+"If you press [IKEY:CHANGETAB], and the room has an owner, you'll be presented with two evaluations of the room.\n"
+"One of them is impartial.  The other is based on the perception of the owner."
+msgstr ""
+
+#: menu_roomlist.txt:17
+msgid ""
+"If you use materials that\n"
+"a dwarf prefers, you can often save objects and building space when you are trying to meet requirements."
+msgstr ""
+
+#: menu_roomlist.txt:20
+msgid ""
+"If a room is shared by a spouse, you'll also be able to view the spouse's evaluation.  Note that it\n"
+"might say \"[[Name]] / Spouse\" but you receive no spouse evaluation.  This means that the spouse is dead."
+msgstr ""
+
+#: menu_rooms.txt:2
+msgid "[TITLE]The Manual: Creating Rooms[/TITLE]"
+msgstr ""
+
+#: menu_rooms.txt:2
+msgid ""
+"Press [IKEY:D_BUILDJOB] from the main view and move to one of the buildings "
+"discussed below."
+msgstr ""
+
+#: menu_rooms.txt:7
+msgid ""
+"Many buildings allow you to create rooms.  Many other buildings are \"masterable\" by a room.  For instance,\n"
+"if you place a chest in a bedroom, that chest will be associated to that bedroom, and the occupant of the bedroom will use it for storage."
+msgstr ""
+
+#: menu_rooms.txt:12
+msgid ""
+"You create a room by selecting the appropriate option from the menu, and then sizing the room.  You'll see flashing [C:3:0:1]X[C:7:0:0]s.\n"
+"These are the floor plan of the room."
+msgstr ""
+
+#: menu_rooms.txt:15
+msgid ""
+"If you are making rooms for individual dwarves to use, it is best for them to have wall/door/window boundaries,\n"
+"and for them not to be shared with other rooms."
+msgstr ""
+
+#: menu_rooms.txt:18
+msgid "Several buildings can be used to create rooms:"
+msgstr ""
+
+#: menu_rooms.txt:21
+msgid "[C:7:0:1]Bed[C:7:0:0]"
+msgstr ""
+
+#: menu_rooms.txt:20
+msgid ""
+"Use beds to create rooms for dwarves to sleep in, or a barracks for soldiers to sleep in.  Beds that are not set as rooms are used\n"
+"by homeless dwarves and for medical care."
+msgstr ""
+
+#: menu_rooms.txt:26
+msgid "[C:7:0:1]Table[C:7:0:0]"
+msgstr ""
+
+#: menu_rooms.txt:25
+msgid ""
+"Use tables to create dining rooms.  Once a dining room is created, you can designate it as a meeting hall.  Creating a number of meeting halls\n"
+"as your fortress grows is a good way to get your dwarves to make new friends.  They will also organize parties in meeting halls."
+msgstr ""
+
+#: menu_rooms.txt:31
+msgid "[C:7:0:1]Chair[C:7:0:0]"
+msgstr ""
+
+#: menu_rooms.txt:30
+msgid ""
+"Use chairs to create offices and throne rooms.  Most dwarves won't need one,"
+" but certain nobles and administrators want them."
+msgstr ""
+
+#: menu_rooms.txt:35
+msgid "[C:7:0:1]Coffin[C:7:0:0]"
+msgstr ""
+
+#: menu_rooms.txt:34
+msgid ""
+"Place coffins for your dwarves to be buried in.  If they are set on \"general burial\", any needy corpse will be placed in the coffin.  Certain nobles\n"
+"require tombs to be buried in.  This is the room that you drag out, and then assign to the noble prior to death.  If a dwarf has a tomb, they will\n"
+"keep their possessions after death and they'll be moved to the tomb.  Otherwise all possessions will revert to the fortress."
+msgstr ""
+
+#: menu_rooms.txt:41
+msgid "[C:7:0:1]Well[C:7:0:0]"
+msgstr ""
+
+#: menu_rooms.txt:40
+msgid "Wells can be made into meeting hall rooms."
+msgstr ""
+
+#: menu_rooms.txt:45
+msgid "[C:7:0:1]Cage[C:7:0:0]"
+msgstr ""
+
+#: menu_rooms.txt:44
+msgid ""
+"Cages can be used either for Dwarven Justice or for zoos.  Any cage or chain"
+" mastered by a cage or chain is joined to the corresponding zoo or dungeon."
+msgstr ""
+
+#: menu_rooms.txt:48
+msgid ""
+"The officer in charge of a criminal will place prisoners in any free justice"
+" building.  You must designate creatures for a zoo on your own."
+msgstr ""
+
+#: menu_rooms.txt:50
+msgid ""
+"If you are using an appropriate cage, you can designate it as an aquarium.  It will then be filled with water by a free dwarf, and you can place\n"
+"live aquatic creatures inside for the viewing pleasure of passersby."
+msgstr ""
+
+#: menu_rooms.txt:54
+msgid "[C:7:0:1]Chain[C:7:0:0]"
+msgstr ""
+
+#: menu_rooms.txt:53
+msgid ""
+"Chains are as cages, except that cannot be made into aquariums and they can "
+"only have one occupant."
+msgstr ""
+
+#: menu_rooms.txt:58
+msgid "[C:7:0:1]Statue[C:7:0:0]"
+msgstr ""
+
+#: menu_rooms.txt:57
+msgid ""
+"A statue can be made into a sculpture garden.  These can be kept public or assigned to dwarves for private use.  Any building mastered by\n"
+"a sculpture garden gives bonuses to the art-appreciation assessments that dwarves make as they wander your fortress."
+msgstr ""
+
+#: menu_rooms.txt:63
+msgid "[C:7:0:1]Archery Target[C:7:0:0]"
+msgstr ""
+
+#: menu_rooms.txt:62
+msgid ""
+"You need to create a room from an archery target to tell potential marksdwarves where to stand.  The room doesn't need to be large, but\n"
+"they should stand a few squares away from the target."
+msgstr ""
+
+#: menu_squads.txt:2
+msgid "[TITLE]The Manual: Command Squads[/TITLE]"
+msgstr ""
+
+#: menu_squads.txt:2
+msgid "Press [IKEY:D_SQUADS] from the main view."
+msgstr ""
+
+#: menu_squads.txt:7
+msgid ""
+"You control your army by moving squads around.  These squads are constructed"
+" in the military screen."
+msgstr ""
+
+#: menu_squads.txt:12
+msgid "[LINK:data/help/menu_military]Military Screen[/LINK]"
+msgstr ""
+
+#: menu_squads.txt:11
+msgid "There are two ways to control squads from here:  move and kill orders."
+msgstr ""
+
+#: menu_squads.txt:15
+msgid ""
+"Move a squad if you just want them to sit someplace until opposition "
+"arrives."
+msgstr ""
+
+#: menu_squads.txt:17
+msgid ""
+"Soldiers will not follow your orders if they are standing down, eating, "
+"drinking, sleeping or heavily injured."
+msgstr ""
+
+#: menu_status.txt:2
+msgid "[TITLE]The Manual: Overall Status[/TITLE]"
+msgstr ""
+
+#: menu_status.txt:2
+msgid "Press [IKEY:D_STATUS] from the main view."
+msgstr ""
+
+#: menu_status.txt:7
+msgid ""
+"From the status screen, you can get lots of information about your fortress,"
+" as well as make many important designations."
+msgstr ""
+
+#: menu_status.txt:11
+msgid ""
+"In the beginning, you'll see your food stores and a population breakdown, as well as some options across the top.  When you appoint some\n"
+"skilled administrative dwarves, you'll also get some additional information about your wealth and trade statistics."
+msgstr ""
+
+#: menu_status.txt:14
+msgid ""
+"The options at the top take you to additional status screens.\n"
+"Use [IKEY:STANDARDSCROLL_LEFT] and [IKEY:STANDARDSCROLL_RIGHT] to move, and [IKEY:SELECT] to select."
+msgstr ""
+
+#: menu_status.txt:18
+msgid "[LINK:data/help/menu_status_animals]Animals[/LINK]"
+msgstr ""
+
+#: menu_status.txt:19
+msgid "[LINK:data/help/menu_status_kitchen]Kitchen Preferences[/LINK]"
+msgstr ""
+
+#: menu_status.txt:21
+msgid "[LINK:data/help/menu_status_stocks]Stocks[/LINK]"
+msgstr ""
+
+#: menu_status.txt:22
+msgid "[LINK:data/help/menu_status_prices]Prices[/LINK]"
+msgstr ""
+
+#: menu_status_animals.txt:2
+msgid "[TITLE]The Manual: Animals[/TITLE]"
+msgstr ""
+
+#: menu_status_animals.txt:2
+msgid ""
+"Press [IKEY:D_STATUS] from the main view, scroll to \"Animals\" and press "
+"[IKEY:SELECT]."
+msgstr ""
+
+#: menu_status_animals.txt:7
+msgid ""
+"This lists all of the animals in your fortress.\n"
+"Use [IKEY:STANDARDSCROLL_UP][IKEY:STANDARDSCROLL_DOWN][IKEY:STANDARDSCROLL_PAGEUP][IKEY:STANDARDSCROLL_PAGEDOWN] to scroll."
+msgstr ""
+
+#: menu_status_animals.txt:12
+msgid ""
+"You can make tame animals available as pets here.  Some dwarves like to keep"
+" a certain type of animal as a pet.  You can view pet preferences in the "
+"unit profile."
+msgstr ""
+
+#: menu_status_animals.txt:14
+msgid ""
+"If an animal is not somebody's pet, you can also designate it to be "
+"slaughtered.  The slaughter occurs at the butcher's shop."
+msgstr ""
+
+#: menu_status_currency.txt:2
+msgid "[TITLE]The Manual: Currency Counts[/TITLE]"
+msgstr ""
+
+#: menu_status_currency.txt:2
+msgid ""
+"Press [IKEY:D_STATUS] from the main view, scroll to \"Currency\" and press "
+"[IKEY:SELECT]."
+msgstr ""
+
+#: menu_status_currency.txt:7
+msgid ""
+"Here you can see the current count of each type of currency, and a broker "
+"recommendation of how much currency to keep around."
+msgstr ""
+
+#: menu_status_justice.txt:2
+msgid "[TITLE]The Manual: Dwarven Justice[/TITLE]"
+msgstr ""
+
+#: menu_status_justice.txt:2
+msgid ""
+"If you have a sheriff or captain of the guard, press [IKEY:D_STATUS] from "
+"the main view, scroll to \"Justice\" and press [IKEY:SELECT]."
+msgstr ""
+
+#: menu_status_justice.txt:7
+msgid ""
+"Here you can view a list of all of the fortress's criminals.\n"
+"Use [IKEY:STANDARDSCROLL_UP][IKEY:STANDARDSCROLL_DOWN][IKEY:STANDARDSCROLL_PAGEUP][IKEY:STANDARDSCROLL_PAGEDOWN] to scroll."
+msgstr ""
+
+#: menu_status_justice.txt:12
+msgid ""
+"At the top right, you can see a list of how many justice buildings you have."
+"  These are cages and chains that have the justice status turned on."
+msgstr ""
+
+#: menu_status_justice.txt:15
+msgid ""
+"[LINK:data/help/menu_rooms]Rooms (More on Cages and Chains Here)[/LINK]"
+msgstr ""
+
+#: menu_status_justice.txt:14
+msgid ""
+"For each criminal, you'll see a list of crimes, and possibly a sentence and "
+"an assigned officer."
+msgstr "Para cada criminal, verá uma lista de crimes, e a sentença possível bem como um oficial destacado."
+
+#: menu_status_justice.txt:18
+msgid ""
+"Possible punishments include incarceration in a justice building, being "
+"beaten or receiving a fixed number of strokes from the hammer."
+msgstr "Castigos possíveis incluem ser preso num ediífio da justiça, ser espancado ou receber um número fixo de golpes de martelo."
+
+#: menu_status_justice.txt:21
+msgid "[C:7:0:1]Dwarven Justice and You[C:7:0:0]"
+msgstr ""
+
+#: menu_status_justice.txt:20
+msgid ""
+"Many crimes are committed by dwarves throwing tantrums.  However, crimes can occur when you break a mandate.  When a mandate is broken, the\n"
+"offended noble blames a related dwarf.  So if you fail to make metal goods, a metalsmith is charged with violation of a production order.  If you\n"
+"export a prohibited item, the dwarf that brought it to the trade depot is charged."
+msgstr ""
+
+#: menu_status_justice.txt:26
+msgid ""
+"Dwarven justice can be very harsh, especially if the offended noble has a high rank.  It is therefore very important to obey mandates given out\n"
+"by the nobles, lest your prized metalsmith be subjected to five hammerstrikes."
+msgstr ""
+
+#: menu_status_justice.txt:30
+msgid "[C:7:0:1]The Hammerer[C:7:0:0]"
+msgstr ""
+
+#: menu_status_justice.txt:29
+msgid ""
+"Hammering is the ultimate form of dwarven punishment.  The criminal is brought to a justice chain by the Hammerer and restrained.\n"
+"The location of the hammerstrikes is calculated by the Hammerer, determined by an ancient formula.  Dwarves do not gather and spectate at such events."
+msgstr ""
+
+#: menu_status_justice.txt:34
+msgid ""
+"Given such a sentence, death is not uncommon.  The Hammerer is not swayed by the\n"
+"pleas of a friend or even his or her own spouse at the time of the punishment, although the Hammerer is not immune to later anguish and can sink into bitter depression."
+msgstr ""
+
+#: menu_status_justice.txt:37
+msgid ""
+"Particularly egregious crimes are punished by execution.  Typically, an execution is a sentence of 50 to 100 hammerstrikes.  If the condemned dwarf somehow\n"
+"survives, no further punishment is carried out and the dwarf can rejoin society to the extent that they are able."
+msgstr ""
+
+#: menu_status_justice.txt:40
+msgid "This is never known to have occurred."
+msgstr ""
+
+#: menu_status_kitchen.txt:2
+msgid "[TITLE]The Manual: Kitchen Preferences[/TITLE]"
+msgstr ""
+
+#: menu_status_kitchen.txt:2
+msgid ""
+"Press [IKEY:D_STATUS] from the main view, scroll to \"Kitchen\" and press "
+"[IKEY:SELECT]."
+msgstr ""
+
+#: menu_status_kitchen.txt:7
+msgid ""
+"Here you can set whether or not different kinds of food are cooked or brewed.\n"
+"Use [IKEY:STANDARDSCROLL_UP][IKEY:STANDARDSCROLL_DOWN][IKEY:STANDARDSCROLL_PAGEUP][IKEY:STANDARDSCROLL_PAGEDOWN] to scroll."
+msgstr ""
+
+#: menu_status_kitchen.txt:12
+msgid ""
+"Seeds are not cooked by default, but you might find yourself cooking seeds "
+"if you have more than enough for farming."
+msgstr ""
+
+#: menu_status_prices.txt:2
+msgid "[TITLE]The Manual: Prices[/TITLE]"
+msgstr ""
+
+#: menu_status_prices.txt:2
+msgid ""
+"If accounts are active, press [IKEY:D_STATUS] from the main view, scroll to "
+"\"Prices\" and press [IKEY:SELECT]."
+msgstr ""
+
+#: menu_status_prices.txt:7
+msgid ""
+"Here you can view the relative prices of objects.\n"
+"Use [IKEY:STANDARDSCROLL_UP][IKEY:STANDARDSCROLL_DOWN][IKEY:STANDARDSCROLL_PAGEUP][IKEY:STANDARDSCROLL_PAGEDOWN] to scroll."
+msgstr ""
+
+#: menu_status_prices.txt:12
+msgid ""
+"Prices are displayed as a percentage.  These are originally set by the bookkeeper corresponding to item availability, but occasionally nobles\n"
+"will tweak prices to make objects they like harder for peasants to buy.  Produce more of an object or material to make it cheaper."
+msgstr ""
+
+#: menu_status_prices.txt:15
+msgid ""
+"If no prices are displayed for a given object type, this means that the "
+"prices are all at standard levels, or the object is completely unavailable "
+"for purchase."
+msgstr ""
+
+#: menu_status_prices.txt:17
+msgid ""
+"You can view an individual item's price by viewing its description (from the"
+" Stocks screen for instance)."
+msgstr ""
+
+#: menu_status_stocks.txt:2
+msgid "[TITLE]The Manual: Stocks[/TITLE]"
+msgstr ""
+
+#: menu_status_stocks.txt:2
+msgid ""
+"If you have a bookkeeper, press [IKEY:D_STATUS] from the main view, scroll "
+"to \"Stocks\" and press [IKEY:SELECT]."
+msgstr ""
+
+#: menu_status_stocks.txt:7
+msgid ""
+"Here you can view every single object on the map.\n"
+"Use [IKEY:STANDARDSCROLL_UP][IKEY:STANDARDSCROLL_DOWN][IKEY:STANDARDSCROLL_LEFT][IKEY:STANDARDSCROLL_RIGHT][IKEY:STANDARDSCROLL_PAGEUP][IKEY:STANDARDSCROLL_PAGEDOWN] to scroll."
+msgstr ""
+
+#: menu_status_stocks.txt:12
+msgid ""
+"There are two modes.  One compresses the item list for convenience, and one displays the items individually in a list.  When you are in\n"
+"the individual list, you can view an object's description or zoom to its location on the map."
+msgstr ""
+
+#: menu_status_stocks.txt:15
+msgid ""
+"Numbers in brown with question marks indicate that your bookkeeper has not "
+"yet put in enough office time for you to be able to expand the corresponding"
+" item type into a list of individual items.  Brown numbers are also rounded "
+"according to your bookkeeping precision level."
+msgstr ""
+
+#: menu_status_stone.txt:2
+msgid "[TITLE]The Manual: Stone Restrictions[/TITLE]"
+msgstr ""
+
+#: menu_status_stone.txt:2
+msgid ""
+"Press [IKEY:D_STATUS] from the main view, scroll to \"Stone\" and press "
+"[IKEY:SELECT]."
+msgstr ""
+
+#: menu_status_stone.txt:7
+msgid ""
+"Here you can set whether or not the economically valuable stones are used by the mason and others for tasks that don't relate directly to their primary economic value.  For instance, limestone can be used in the production of steel, but if you select limestone here, you can use it to make a limestone throne or limestone trinkets.\n"
+"Use [IKEY:STANDARDSCROLL_UP][IKEY:STANDARDSCROLL_DOWN][IKEY:STANDARDSCROLL_PAGEUP][IKEY:STANDARDSCROLL_PAGEDOWN] to scroll."
+msgstr ""
+
+#: menu_stockpiles.txt:2
+msgid "[TITLE]The Manual: Stockpiles[/TITLE]"
+msgstr ""
+
+#: menu_stockpiles.txt:2
+msgid "Press [IKEY:D_STOCKPILES] from the main view."
+msgstr ""
+
+#: menu_stockpiles.txt:7
+msgid ""
+"Your dwarves use stockpiles to store all of your finished, intermediate and "
+"raw objects."
+msgstr ""
+
+#: menu_stockpiles.txt:12
+msgid "[LINK:data/help/storage]More on Storage[/LINK]"
+msgstr ""
+
+#: menu_stockpiles.txt:11
+msgid ""
+"When you get to the stockpile menu, you'll be faced by several stockpile options.  Each of these stockpile\n"
+"types holds different kinds of objects."
+msgstr ""
+
+#: menu_stockpiles.txt:16
+msgid ""
+"To place a stockpile, press [IKEY:SELECT] to designate one corner, move the cursor, and press [IKEY:SELECT] again to finish.\n"
+"Stockpiles are denoted by [C:0:0:1]=[C:7:0:0].  You can only have one type of stockpile per square, and they cannot be placed on buildings."
+msgstr ""
+
+#: menu_stockpiles.txt:19
+msgid ""
+"Once you create a stockpile, you can set it to take goods from another "
+"stockpile."
+msgstr ""
+
+#: menu_stockpiles.txt:22
+msgid ""
+"[LINK:data/help/menu_buildjob_stockpile]Individual Stockpile Menu[/LINK]"
+msgstr ""
+
+#: menu_stockpiles.txt:21
+msgid "Some stockpiles merit a bit of discussion."
+msgstr ""
+
+#: menu_stockpiles.txt:26
+msgid "[C:7:0:1]Refuse Stockpile[C:7:0:0]"
+msgstr ""
+
+#: menu_stockpiles.txt:25
+msgid ""
+"This holds anything inedible that can rot, as well as tattered clothing, bones and shells.\n"
+"It's important to get refuse above ground before it starts to stink and bother your dwarves.\n"
+"You'll notice purple clouds in your cave if something is rotting indoors."
+msgstr ""
+
+#: menu_stockpiles.txt:32
+msgid "[C:7:0:1]Animal Stockpile[C:7:0:0]"
+msgstr ""
+
+#: menu_stockpiles.txt:31
+msgid ""
+"This holds live animals in cages, not butchered animals.  Meat goes to the "
+"food pile."
+msgstr ""
+
+#: menu_viewunit.txt:2
+msgid "[TITLE]The Manual: Viewing Units[/TITLE]"
+msgstr ""
+
+#: menu_viewunit.txt:2
+msgid ""
+"Press [IKEY:D_VIEWUNIT] from the main view and move the cursor to a unit."
+msgstr ""
+
+#: menu_viewunit.txt:7
+msgid "There are several options from this screen."
+msgstr ""
+
+#: menu_viewunit.txt:12
+msgid "[C:7:0:1]General[C:7:0:0]"
+msgstr "[C:7:0:1]Geral[C:7:0:0]"
+
+#: menu_viewunit.txt:11
+msgid ""
+"Here you can see a creature's type, active job and skills.  Use "
+"[IKEY:SECONDSCROLL_DOWN][IKEY:SECONDSCROLL_UP][IKEY:SECONDSCROLL_PAGEUP][IKEY:SECONDSCROLL_PAGEDOWN]"
+" to scroll the skill list."
+msgstr ""
+
+#: menu_viewunit.txt:16
+msgid "[C:7:0:1]Inventory[C:7:0:0]"
+msgstr ""
+
+#: menu_viewunit.txt:15
+msgid ""
+"These are objects in the creature's possession.  Use "
+"[IKEY:SECONDSCROLL_DOWN][IKEY:SECONDSCROLL_UP][IKEY:SECONDSCROLL_PAGEUP][IKEY:SECONDSCROLL_PAGEDOWN]"
+" to scroll.  Press [IKEY:SELECT] to view an item's description."
+msgstr ""
+
+#: menu_viewunit.txt:20
+msgid "[C:7:0:1]Preferences[C:7:0:0]"
+msgstr ""
+
+#: menu_viewunit.txt:19
+msgid ""
+"This is where you assign professions and work dogs.  You can also view a "
+"dwarf's profile here."
+msgstr ""
+
+#: menu_viewunit.txt:27
+msgid "[C:7:0:1]Wounds[C:7:0:0]"
+msgstr "[C:7:0:1]Feridas[C:7:0:0]"
+
+#: menu_viewunit.txt:23
+msgid ""
+"You can see the creature's body status here.  As the creature becomes more "
+"injured, scrolling becomes available.  Use "
+"[IKEY:SECONDSCROLL_DOWN][IKEY:SECONDSCROLL_UP][IKEY:SECONDSCROLL_PAGEUP][IKEY:SECONDSCROLL_PAGEDOWN]"
+" to scroll."
+msgstr ""
+
+#: menu_viewunit.txt:30
+msgid ""
+"Creatures do not have a \"life rating\", although they can bleed to death.  "
+"Small creatures have difficulty injuring larger creatures."
+msgstr ""
+
+#: menu_viewunit.txt:32
+msgid ""
+"Parts that are broken cannot be used to stand on the ground or to hold objects.  A dwarf with such an injury should be allowed to rest or ideally should receive medical treatment.\n"
+"Severe injuries to the spine or brain cause paralysis and they do not heal.  Missing parts do not grow back."
+msgstr ""
+
+#: menu_wages.txt:2
+msgid "[TITLE]The Manual: Wages Screen[/TITLE]"
+msgstr "[TITLE]The Manual: Ecrã de Salários[/TITLE]"
+
+#: menu_wages.txt:2
+msgid ""
+"If accounts are active, press [IKEY:D_JOBLIST] or press [IKEY:D_UNITLIST] from the main view.  Then press\n"
+"[IKEY:UNITJOB_MANAGER] and finally [IKEY:MANAGER_WAGES]."
+msgstr ""
+
+#: menu_wages.txt:8
+msgid "You can view wages from this screen."
+msgstr ""
+
+#: menu_wages.txt:12
+msgid ""
+"Use [IKEY:STANDARDSCROLL_LEFT] and [IKEY:STANDARDSCROLL_RIGHT] to switch "
+"screens."
+msgstr ""
+
+#: menu_wages.txt:14
+msgid ""
+"The percentages on the first screen are general guild modifiers.  These are not applied to the wage numbers in subsequent screens.\n"
+"So if mining is displayed as \"[C:3:0:1]5[CHAR:15][C:7:0:0]\" and the mining modifier is set at \"[C:3:0:1]200%[C:7:0:0]\", mining is actually worth [C:3:0:1]10[CHAR:15][C:7:0:0]."
+msgstr ""
+
+#: menus.txt:2
+msgid "[TITLE]The Manual: The Many Menus[/TITLE]"
+msgstr "[TITLE]O Manual: Os Muitos Menus[/TITLE]"
+
+#: menus.txt:2
+msgid ""
+"Starting from the main dwarf fortress screen, there are many options, and it can\n"
+"be difficult to sort things out at first.  Here each choice will be described."
+msgstr "A partir do ecrã principal da fortaleza de anões, existem muitas opções, podendo ser\ndifícil de perceber no início. Aqui, cada escolha será descrita."
+
+#: menus.txt:6
+msgid "[C:7:0:1]General Notes[C:7:0:0]"
+msgstr "[C:7:0:1]Notas Gerais[C:7:0:0]"
+
+#: menus.txt:5
+msgid ""
+"Use [IKEY:CURSOR_UP][IKEY:CURSOR_DOWN][IKEY:CURSOR_LEFT][IKEY:CURSOR_RIGHT]"
+msgstr "Utilize [IKEY:CURSOR_UP][IKEY:CURSOR_DOWN][IKEY:CURSOR_LEFT][IKEY:CURSOR_RIGHT]"
+
+#: menus.txt:9
+msgid ""
+"[IKEY:CURSOR_UPLEFT][IKEY:CURSOR_UPRIGHT][IKEY:CURSOR_DOWNLEFT][IKEY:CURSOR_DOWNRIGHT][IKEY:CURSOR_UP_Z][IKEY:CURSOR_DOWN_Z]"
+" to move the view window around."
+msgstr "[IKEY:CURSOR_UPLEFT][IKEY:CURSOR_UPRIGHT][IKEY:CURSOR_DOWNLEFT][IKEY:CURSOR_DOWNRIGHT][IKEY:CURSOR_UP_Z][IKEY:CURSOR_DOWN_Z] para mover a janela de imagem."
+
+#: menus.txt:10
+msgid ""
+"Use [IKEY:CHANGETAB] to cycle through different arrangements of the view "
+"windows."
+msgstr "Utilize [IKEY:CHANGETAB] para rodar através das diferentes configurações na janela de visualização."
+
+#: menus.txt:12
+msgid ""
+"Keep in mind that you can pause the game at any time using [IKEY:D_PAUSE].  If you want to step through\n"
+"the game Very slowly, use [IKEY:D_ONESTEP].  It takes about ten presses of this key for the average dwarf to move one square,\n"
+"but it lets you watch battles very precisely if you like."
+msgstr "Tenha em mente que pode pausar o jogo a qualquer altura utilizando [IKEY:D_PAUSE]. Se quiser avançar através\ndo jogo muito lentamente, utilize [IKEY:D_ONESTEP]. Tem de carregar nesta tecla cerca de dez vezes para que o anão normal se mova um quadrado,\nmas permite-lhe ver batalhas de forma muito precisa se quiser."
+
+#: menus.txt:16
+msgid ""
+"If you ever get lost as you scroll around, press [IKEY:D_HOTKEY1].  This key"
+" zooms you to your starting wagon.  You can change the zoom hotkeys by "
+"pressing [IKEY:D_HOT_KEYS]."
+msgstr "Se alguma vez se perder enquanto navegar a vista, carregue em [IKEY:D_HOTKEY1]. Esta tecla move a vista para a sua carroça de início. Pode mudar a teclas de navegação rápida ao carregar em [IKEY:D_HOT_KEYS]."
+
+#: menus.txt:18
+msgid ""
+"Every announcement made at the bottom of the screen is saved for you.  Press"
+" [IKEY:D_ANNOUNCE] to view them."
+msgstr "Cada anúncio feito na parte inferior do monitor é salvo por si. Carregue em [IKEY:D_ANNOUNCE] para os ver."
+
+#: menus.txt:21
+msgid "[C:7:0:1]Placing Buildings[C:7:0:0]"
+msgstr "[C:7:0:1]Colocar Edifícios[C:7:0:0]"
+
+#: menus.txt:20
+msgid ""
+"Press [IKEY:D_BUILDING] to place a building.  Most buildings require some kind of material and a dwarf\n"
+"with the proper profession settings to build them.  Note that many buildings first need to be designed\n"
+"by a dwarf with the Architecture profession.  Follow the link for more information."
+msgstr "Carregue em [IKEY:D_BUILDING] para colocar um edifício. A maioria dos edifícios requere algum tipo de material e um anão\ncom a profissão apropriada para serem construídos. Note que muitos edifícios precisam primeiro de ser projetados\npor um anão com a profissão de Arquitectura. Siga o link para mais informação."
+
+#: menus.txt:27
+msgid ""
+"[LINK:data/help/menu_make_buildings]Building Placement Specifics[/LINK]"
+msgstr "[LINK:data/help/menu_make_buildings]Específicos de Colocação de Edifícios[/LINK]"
+
+#: menus.txt:29
+msgid "[C:7:0:1]Designations[C:7:0:0]"
+msgstr "[C:7:0:1]Designações[C:7:0:0]"
+
+#: menus.txt:26
+msgid ""
+"Press [IKEY:D_DESIGNATE] to designate areas for digging, detailing, plant gathering and wood cutting.\n"
+"If a dwarf has the appropriate profession and equipment, work will begin immediately."
+msgstr "Carregue em [IKEY:D_DESIGNATE] para designar áreas para escavar, projetar, colheita de plantas e corte de madeira.\nSe um anão tiver a profissão e equipamento adequados, começarão imediatamente os trabalhos."
+
+#: menus.txt:34
+msgid "[LINK:data/help/menu_designations]Designation Specifics[/LINK]"
+msgstr "[LINK:data/help/menu_designations]Específicos de Atribuição[/LINK]"
+
+#: menus.txt:36
+msgid "[C:7:0:1]View Units[C:7:0:0]"
+msgstr "[C:7:0:1]Ver Unidades[C:7:0:0]"
+
+#: menus.txt:33
+msgid ""
+"Press [IKEY:D_VIEWUNIT] to view unit information.  Move the cursor to a unit and you'll see a menu.\n"
+"This is where you set professions, view thoughts and wounds, view skills and set soldier preferences,\n"
+"among other things."
+msgstr "Carregue em [IKEY:D_VIEWUNIT] para ver informação acerca da unidade. Mova o cursor sobre a unidade e poderá ver um menu.\nÉ aqui que poderá atribuir profissões, ver os pensamentos e ferimentos da mesma, consultar as suas habilidades e definir preferências de soldado,\nentre outras coisas."
+
+#: menus.txt:42
+msgid "[LINK:data/help/menu_viewunit]Unit Viewing Specifics[/LINK]"
+msgstr "[LINK:data/help/menu_viewunit]Detalhes da Visualização de Unidades[/LINK]"
+
+#: menus.txt:44
+msgid "[C:7:0:1]Create Building Tasks[C:7:0:0]"
+msgstr "[C:7:0:1]Criar Tarefas de Construção[C:7:0:0]"
+
+#: menus.txt:41
+msgid ""
+"Press [IKEY:D_BUILDJOB] to view the task lists for your buildings.  You also create rooms and set\n"
+"some other settings using the menus that arise from this selection."
+msgstr "Carregue em [IKEY:D_BUILDJOB] para ver a lista de tarefas dos seus edifícios. Pode também criar divisões e definir\nalguns outros parâmetros utilizando os menus que apareçam aquando esta seleção."
+
+#: menus.txt:49
+msgid "[LINK:data/help/menu_buildjob]Building Task Specifics[/LINK]"
+msgstr "[LINK:data/help/menu_buildjob]Detalhes acerca de Tarefas de Edifícios[/LINK]"
+
+#: menus.txt:51
+msgid "[C:7:0:1]View Building Items[C:7:0:0]"
+msgstr "[C:7:0:1]Ver Items de Construção[C:7:0:0]"
+
+#: menus.txt:48
+msgid ""
+"Press [IKEY:D_BUILDITEM] to view the objects that are in a building.  You'll often find objects\n"
+"you thought were missing inside a building."
+msgstr "Carregue em [IKEY:D_BUILDITEM] para ver os objectos que estão no interior de um edifício. Muitas vezes poderá encontrar objetos\nque pensava estarem em falta dentro de um edifício."
+
+#: menus.txt:56
+msgid "[LINK:data/help/menu_builditem]Building Item Specifics[/LINK]"
+msgstr "[LINK:data/help/menu_builditem]Especificidades de Construção de Items[/LINK]"
+
+#: menus.txt:58
+msgid "[C:7:0:1]Activity Zones[C:7:0:0]"
+msgstr "[C:7:0:1]Zonas de Actividades[C:7:0:0]"
+
+#: menus.txt:55
+msgid "Press [IKEY:D_CIVZONE] to create a new activity zone."
+msgstr "Carregue em  [IKEY:D_CIVZONE] para criar uma nova zona de actividades."
+
+#: menus.txt:62
+msgid "[LINK:data/help/menu_activity_zones]Activity Zone Specifics[/LINK]"
+msgstr "[LINK:data/help/menu_activity_zones]Específicos de Zonas de Actividades[/LINK]"
+
+#: menus.txt:64
+msgid "[C:7:0:1]Stockpiles[C:7:0:0]"
+msgstr "[C:7:0:1]Pilhas de armazenamento[C:7:0:0]"
+
+#: menus.txt:61
+msgid "Press [IKEY:D_STOCKPILES] to create a new stockpile."
+msgstr "Carregue em [IKEY:D_STOCKPILES] para criar uma pilhas de armazenamento."
+
+#: menus.txt:68
+msgid "[LINK:data/help/menu_stockpiles]Stockpile Specifics[/LINK]"
+msgstr "[LINK:data/help/menu_stockpiles]Específicos de Pilhas de Armazenamento[/LINK]"
+
+#: menus.txt:70
+msgid "[C:7:0:1]Overall Status[C:7:0:0]"
+msgstr "[C:7:0:1]Estado Geral[C:7:0:0]"
+
+#: menus.txt:67
+msgid ""
+"Press [IKEY:D_STATUS] to view the overall status of your fortress.  You can check your population and\n"
+"your food stores.  At first you can also get advice and set preferences for your kitchens and animals.\n"
+"Later on several additional menus open up as you attract specialized dwarves."
+msgstr "Carregue em [IKEY:D_STATUS] para ver o estado geral da sua fortaleza. Pode verificar a sua população e\narmazéns de comida. Inicialmente poderá obter conselhos e estabelecer as preferências das suas cozinhas e animais.\nMais tarde vários menus adicionais estarão disponíveis conforme vá atraindo anões especialistas."
+
+#: menus.txt:76
+msgid "[LINK:data/help/menu_status]Overall Status Specifics[/LINK]"
+msgstr "[LINK:data/help/menu_status]Especificidades de Estatísticas Gerais [/LINK]"
+
+#: menus.txt:78
+msgid "[C:7:0:1]Set Standing Orders[C:7:0:0]"
+msgstr "[C:7:0:1]Definir Ordens Correntes[C:7:0:0]"
+
+#: menus.txt:75
+msgid ""
+"Press [IKEY:D_ORDERS] to set the standing orders for your dwarves.  Follow "
+"the link for descriptions."
+msgstr "Carregue em [IKEY:D_ORDERS] para definir ordens correntes para os seus anões.  Siga o link para descrições."
+
+#: menus.txt:82
+msgid "[LINK:data/help/menu_orders]Standing Order Specifics[/LINK]"
+msgstr "[LINK:data/help/menu_orders]Específicos de Ordens Correntes[/LINK]"
+
+#: menus.txt:84
+msgid "[C:7:0:1]Room/Building List[C:7:0:0]"
+msgstr "[C:7:0:1]Lista de Edifícios/Divisões[C:7:0:0]"
+
+#: menus.txt:81
+msgid ""
+"Press [IKEY:D_ROOMS] to view the list of rooms and buildings.  You can also check\n"
+"how a dwarf values a room from here."
+msgstr "Carregue em [IKEY:D_ROOMS] para ver a lista de divisões e edifícios.  Pode também ver\ncomo um anão avalia uma divisão a partir daqui."
+
+#: menus.txt:89
+msgid "[LINK:data/help/menu_roomlist]Room List Specifics[/LINK]"
+msgstr "[LINK:data/help/menu_roomlist]Especificidades da Lista de Divisões[/LINK]"
+
+#: menus.txt:91
+msgid "[C:7:0:1]Job List[C:7:0:0]"
+msgstr "[C:7:0:1]Lista de Empregos[C:7:0:0]"
+
+#: menus.txt:88
+msgid ""
+"Press [IKEY:D_JOBLIST] to view a list of jobs.  This is similar to the Unit List screen.  If you have a manager,\n"
+"you can get to the manager screen from here."
+msgstr "Carregue em [IKEY:D_JOBLIST] para ver a lista de trabalhos.  Isto é similar ao ecrã de Lista de Unidades.  Se tiver um gestor,\npode chegar ao ecrã de gestor a partir daqui."
+
+#: menus.txt:96
+msgid "[LINK:data/help/menu_jobunitlist]Job/Unit List Specifics[/LINK]"
+msgstr "[LINK:data/help/menu_jobunitlist]Lista Detalhada de Trabalho/Unidade[/LINK]"
+
+#: menus.txt:98
+msgid "[C:7:0:1]Unit List[C:7:0:0]"
+msgstr "[C:7:0:1]Lista de Unidades[C:7:0:0]"
+
+#: menus.txt:95
+msgid ""
+"Press [IKEY:D_UNITLIST] to view a list of units.  This is similar to the Job List screen.  If you have a manager,\n"
+"you can get to the manager screen from here."
+msgstr "Carregue em [IKEY:D_UNITLIST] para ver uma lista de unidades.  Isto é semelhante ao ecrã de Lista de Trabalhos.  Se tem um gestor,\npode chegar ao ecrã do mesmo a partir daqui."
+
+#: menus.txt:105
+msgid "[C:7:0:1]Military[C:7:0:0]"
+msgstr "[C:7:0:1]Militares[C:7:0:0]"
+
+#: menus.txt:102
+msgid ""
+"Press [IKEY:D_MILITARY] to view and change your military.  You can access the menus of individual squads and set the\n"
+"chain of command from this screen."
+msgstr "Carregue em [IKEY:D_MILITARY] para ver e mudar os seus militares.  Pode aceder aos menus de unidades individuais e definir a\nhierarquia de comando a partir deste ecrã."
+
+#: menus.txt:110
+msgid "[LINK:data/help/menu_military]Military Specifics[/LINK]"
+msgstr "[LINK:data/help/menu_military]Especificidades Militares[/LINK]"
+
+#: menus.txt:112
+msgid "[C:7:0:1]Command Squads[C:7:0:0]"
+msgstr "[C:7:0:1]Comandar Batalhões[C:7:0:0]"
+
+#: menus.txt:109
+msgid ""
+"Press [IKEY:D_SQUADS] to order your squads to station at a new location or "
+"to send them on patrols."
+msgstr "Carregue em [IKEY:D_SQUADS] para dar ordens aos seus batalhões para se mexerem para uma nova localização ou para os enviar em patrulhas."
+
+#: menus.txt:116
+msgid "[LINK:data/help/menu_squads]Command Squad Specifics[/LINK]"
+msgstr "[LINK:data/help/menu_squads]Especificidades de Comandar Batalhões[/LINK]"
+
+#: menus.txt:118
+msgid "[C:7:0:1]Look Around[C:7:0:0]"
+msgstr "[C:7:0:1]Olhar à volta[C:7:0:0]"
+
+#: menus.txt:115
+msgid ""
+"Press [IKEY:D_LOOK] to look at everything that is in a map square.  You can "
+"select many of these objects for further descriptions."
+msgstr "Carregue em [IKEY:D_LOOK] para ver tudo o que está num quadrado do mapa. Pode selecionar muitos destes objetos para obter mais descrições."
+
+#: menus.txt:122
+msgid "[LINK:data/help/menu_look]Look Around Specifics[/LINK]"
+msgstr "[LINK:data/help/menu_look]Especificidades de Olhar em Volta[/LINK]"
+
+#: menus.txt:124
+msgid "[C:7:0:1]Nobles and Administrators[C:7:0:0]"
+msgstr "[C:7:0:1]Nobres e Administradores[C:7:0:0]"
+
+#: menus.txt:121
+msgid "Press [IKEY:D_NOBLES] to view your nobles and appoint administrators."
+msgstr "Carregue em [IKEY:D_NOBLES] para ver os seus nobres e destacar administradores."
+
+#: menus.txt:128
+msgid "[LINK:data/help/menu_nobles]Noble Specifics[/LINK]"
+msgstr "[LINK:data/help/menu_nobles]Especificidades dos Nobres[/LINK]"
+
+#: menus.txt:130
+msgid "[C:7:0:1]Civilizations[C:7:0:0]"
+msgstr "[C:7:0:1]Civilizações[C:7:0:0]"
+
+#: menus.txt:127
+msgid "Press [IKEY:D_CIVLIST] to view your neighbors."
+msgstr "Carregue em [IKEY:D_CIVLIST] para ver os seus vizinhos."
+
+#: menus.txt:134
+msgid "[LINK:data/help/menu_civlist]Civilization Specifics[/LINK]"
+msgstr "[LINK:data/help/menu_civlist]Especificidades sobre Civilização[/LINK]"
+
+#: mining.txt:2
+msgid "[TITLE]The Manual: Mining[/TITLE]"
+msgstr ""
+
+#: mining.txt:2
+msgid ""
+"Mining is the most basic activity your dwarves will perform.  In order to "
+"mine, you need the following:"
+msgstr ""
+
+#: mining.txt:4
+msgid ""
+"[C:6:0:1][CHAR:15][C:2:0:1] A healthy, unoccupied dwarf with a pick and the "
+"Mining profession"
+msgstr ""
+
+#: mining.txt:6
+msgid ""
+"[C:6:0:1][CHAR:15][C:2:0:1] A rock wall in a designated mining area that "
+"such a dwarf can access"
+msgstr ""
+
+#: mining.txt:12
+msgid ""
+"Mining serves two purposes.  First, you get minerals which you can turn into treasure.  Second, you\n"
+"create living space for your dwarves to shelter in.  The rest of the First Outpost tutorial\n"
+"will guide you through how to create living spaces, how to make crafts and how to store the minerals\n"
+"and crafts that come under your control."
+msgstr ""
+
+#: new_region.txt:2
+msgid "[TITLE]The Manual: Creating Your World[/TITLE]"
+msgstr ""
+
+#: new_region.txt:2
+msgid ""
+"When you start your first game, you'll notice that it goes through a lengthy world generation process.\n"
+"You only have to do this once in a long while, so sit back and enjoy it."
+msgstr ""
+
+#: new_region.txt:5
+msgid ""
+"At first, the game produces\n"
+"several fractally generated landscapes, searching for an ideal balance.  You'll notice that there are\n"
+"many rejects, sometimes well over one hundred.  This is normal -- you'll be playing several fortresses\n"
+"in this world, so it's important that terrain is evenly distributed."
+msgstr ""
+
+#: new_region.txt:10
+msgid ""
+"After the basic terrain is prepared,\n"
+"the game will simulate erosion and run rivers and lakes.  It's still possible to have a few rejects at this point."
+msgstr ""
+
+#: new_region.txt:13
+msgid ""
+"Once the history animation begins, you are indeed watching the world you'll be playing in.  The civilizations\n"
+"that are spreading out and fighting over the ages will be the same ones you interact with when you are running a fortress."
+msgstr ""
+
+#: new_region.txt:16
+msgid ""
+"When history catches up with the present time, the animated world map "
+"becomes a piece of parchment and you are prompted to continue."
+msgstr ""
+
+#: outpost.txt:2
+msgid "[TITLE]The Manual: Your First Outpost[/TITLE]"
+msgstr ""
+
+#: outpost.txt:2
+msgid ""
+"When you start, your dwarves will be located in the environment you selected"
+" with whatever animals and objects you decided to bring along.  If you've "
+"brought along somebody that knows how to fish or hunt, that dwarf will get "
+"to work, but the others will mill around, awaiting your orders."
+msgstr ""
+
+#: outpost.txt:4
+msgid ""
+"Your ultimate goal is to extract every last ounce of wealth from the "
+"mountain, but first you need to survive, so you need to get your dwarves to "
+"handle the basics.  Most orders are issued to your dwarves from buildings "
+"you've created, and others are issued by designating work areas."
+msgstr ""
+
+#: outpost.txt:6
+msgid ""
+"The list of options can be daunting at first (and will remain daunting for a"
+" while).  Read the following sections to get a handle on individual aspects "
+"of running a simple fortress."
+msgstr ""
+
+#: outpost.txt:9
+msgid "[LINK:data/help/menus]Help With Specific Menus[/LINK]"
+msgstr ""
+
+#: outpost.txt:11
+msgid "[LINK:data/help/mining]Mining[/LINK]"
+msgstr ""
+
+#: outpost.txt:12
+msgid "[LINK:data/help/wood]Chopping Wood[/LINK]"
+msgstr ""
+
+#: outpost.txt:13
+msgid "[LINK:data/help/water]Obtaining Water[/LINK]"
+msgstr ""
+
+#: outpost.txt:14
+msgid "[LINK:data/help/food]Obtaining Food[/LINK]"
+msgstr ""
+
+#: outpost.txt:15
+msgid "[LINK:data/help/living_quarters]Living Quarters[/LINK]"
+msgstr ""
+
+#: outpost.txt:16
+msgid "[LINK:data/help/crafts]Making Crafts[/LINK]"
+msgstr ""
+
+#: outpost.txt:18
+msgid "[LINK:data/help/trading]Trading[/LINK]"
+msgstr ""
+
+#: outpost.txt:19
+msgid "[LINK:data/help/defense]Defending the Fortress[/LINK]"
+msgstr ""
+
+#: practice.txt:2
+msgid "[TITLE]The Manual: Good Job[/TITLE]"
+msgstr "[TITLE]The Manual: Bom Trabalho[/TITLE]"
+
+#: practice.txt:2
+msgid "You have successfully navigated a text link!"
+msgstr "Navegou com sucesso um link de texto!"
+
+#: practice.txt:4
+msgid "[B]Press [IKEY:LEAVESCREEN] to go back to the previous screen."
+msgstr ""
+
+#: r_intro.txt:2
+msgid "[TITLE]The Manual: Reclaim Outpost Introduction[/TITLE]"
+msgstr ""
+
+#: r_intro.txt:2
+msgid ""
+"Welcome to Dwarf Fortress.  Your old fortress.  Things didn't go well, and now you're back to set the record straight or die trying.\n"
+"I wonder which it will be.  In any case, the game runs in the same way, except there is a pre-carved and pre-populated outpost\n"
+"waiting for you."
+msgstr ""
+
+#: r_intro.txt:6
+msgid ""
+"You'll notice that your dwarves do not interact with the objects in the fortress at first.  This is to prevent accidents.\n"
+"The last thing you want is for your dwarves to run alone to fetch something deep in enemy territory."
+msgstr ""
+
+#: r_intro.txt:9
+msgid ""
+"In order to let your dwarves know where to go, use the Claim designation.  When you select it, you'll notice that many of\n"
+"the items on the screen turn green.  These are objects which are currently being ignored.  They'll also be surrounded by {}."
+msgstr ""
+
+#: r_main.txt:2
+msgid ""
+"You can press [IKEY:HELP] any time for help.  Press it now for help on how to use this text viewer.\n"
+"And remember:"
+msgstr ""
+
+#: r_main.txt:5
+msgid ""
+"[C:2:0:1]Last time you lost it was fun, and it'll be fun this time "
+"too![C:7:0:0]"
+msgstr ""
+
+#: r_main.txt:7
+msgid "[LINK:data/help/r_intro]Reclaim Outpost Introduction (new!)[/LINK]"
+msgstr ""
+
+#: r_main.txt:8
+msgid "[LINK:data/help/setup_game]Preparing For The Expedition[/LINK]"
+msgstr ""
+
+#: setup_game.txt:2
+msgid "[TITLE]The Manual: Preparing For The Journey[/TITLE]"
+msgstr ""
+
+#: setup_game.txt:2
+msgid ""
+"Now that the world has been generated, it's time to prepare your settlers to travel.  There are three main screens.\n"
+"Instructions for which keys to press are displayed at the bottom of each screen."
+msgstr ""
+
+#: setup_game.txt:5
+msgid ""
+"The Site Selection Screen shows you where your fortress is located, and the "
+"general characteristics of the surrounding area.  You can place your "
+"fortress in any location so long as the selection rectangle isn't entirely "
+"in an ocean, lake or mountain biome."
+msgstr ""
+
+#: setup_game.txt:7
+msgid ""
+"The Unit Preparation Screen has a list of the dwarves that are going on the journey and their skills.\n"
+"Dwarves learn as they work, so it's not essential to spend a lot of points here, but you might find it convenient to\n"
+"let them know what their main roles are at this point by making them novices in a few skills.  For instance, if you make\n"
+"one of the dwarves a \"Novice Miner\", then that dwarf will immediately grab a pick and take any mining orders you prepare."
+msgstr ""
+
+#: setup_game.txt:12
+msgid ""
+"You buy skills with points.  Keep in mind that the skill list scrolls.\n"
+"The amount of points you have is displayed on the lower right.\n"
+"These points are also used to buy equipment on the Equipment Preparation Screen."
+msgstr ""
+
+#: setup_game.txt:16
+msgid ""
+"The Equipment Preparation Screen is the most complicated of the three screens.  The list of objects your dwarves are bringing along appears on the left, and the list of animals going on the journey appears on the right.  If you choose to add a new object, you'll be taken to a screen with a list of all the potential items that you can bring.  Type in a partial name to narrow the list.\n"
+"You can leave this screen by selecting an object or by pressing [IKEY:LEAVESCREEN]."
+msgstr ""
+
+#: storage.txt:2
+msgid "[TITLE]The Manual: Storage[/TITLE]"
+msgstr "[TITLE]The Manual: Armazenamento[/TITLE]"
+
+#: storage.txt:2
+msgid ""
+"If you aren't careful, your fortress can become a cluttered and inefficient mess.\n"
+"In fact, you'll find one of your principal roles in managing the fortress is to get food, materials and finished goods to\n"
+"move around efficiently."
+msgstr ""
+
+#: storage.txt:6
+msgid ""
+"The main method for moving objects around is the designation of stockpiles.  A stockpile has certain object types associated to it,\n"
+"and any object that isn't already stored will be brought to a free space in the pile when a dwarf with the proper hauling profession\n"
+"has some free time."
+msgstr ""
+
+#: storage.txt:12
+msgid ""
+"Using the mastery option, you can make piles take objects from other piles to create a flow of goods throughout\n"
+"the fortress."
+msgstr ""
+
+#: storage.txt:16
+msgid "[LINK:data/help/menu_stockpiles]Designating Stockpiles[/LINK]"
+msgstr ""
+
+#: storage.txt:19
+msgid "[C:7:0:1]Bins[C:7:0:0]"
+msgstr ""
+
+#: storage.txt:15
+msgid ""
+"Stockpiles fill up quickly.  In order to consolidate objects and save space,"
+" dwarves use bins."
+msgstr ""
+
+#: storage.txt:22
+msgid ""
+"Once you make a bin, the dwarves will move it to a furniture stockpile.  The"
+" next time a bin is needed, a dwarf will place an object in the bin, and "
+"then the bin will be moved to the proper stockpile.  All you have to do is "
+"provide a consistent supply of bins."
+msgstr ""
+
+#: storage.txt:25
+msgid "[C:7:0:1]Barrels[C:7:0:0]"
+msgstr "[C:7:0:1]Barris[C:7:0:0]"
+
+#: storage.txt:24
+msgid ""
+"Barrels are exactly like bins, but they are used for food.  Food in barrels "
+"is less susceptible to pests, though barrels are not immune to their clever "
+"and persistent vermin natures."
+msgstr ""
+
+#: storage.txt:29
+msgid "[C:7:0:1]Personal Storage[C:7:0:0]"
+msgstr "[C:7:0:1]Armazenamento Pessoal[C:7:0:0]"
+
+#: storage.txt:28
+msgid ""
+"Dwarves will amass personal property over time, especially when the coin "
+"economy begins in the middle game.  If a dwarf has a room, you'll soon find "
+"that personal possessions cover the floor.  In order to give the dwarf more "
+"storage space, consider placing a chest and a cabinet within the room.  "
+"Cabinets are used for storing clothes, and chests are used to store "
+"everything else.  Certain important dwarves will require weapon and armor "
+"racks in their rooms as well."
+msgstr ""
+
+#: table_item_designations.txt:2
+msgid "[TITLE]The Manual: Item Designations[/TITLE]"
+msgstr ""
+
+#: table_item_designations.txt:3
+msgid "[C:6:0:1]-Sword-[C:7:0:0] Well-crafted[R]"
+msgstr ""
+
+#: table_item_designations.txt:4
+msgid "[C:6:0:1]+Sword+[C:7:0:0] Finely-crafted[R]"
+msgstr ""
+
+#: table_item_designations.txt:5
+msgid "[C:6:0:1]*Sword*[C:7:0:0] Superior quality[R]"
+msgstr ""
+
+#: table_item_designations.txt:6
+msgid "[C:6:0:1][CHAR:240]Sword[CHAR:240][C:7:0:0] Exceptional[R]"
+msgstr ""
+
+#: table_item_designations.txt:7
+msgid "[C:6:0:1][CHAR:15]Sword[CHAR:15][C:7:0:0] A masterpiece[R]"
+msgstr ""
+
+#: table_item_designations.txt:8
+msgid "[C:6:0:1][CHAR:174]Sword[CHAR:175][C:7:0:0] Improved or decorated[R]"
+msgstr ""
+
+#: table_item_designations.txt:9
+msgid "[C:6:0:1]*[CHAR:174]Sword[CHAR:175]*[C:7:0:0] Superior improvement[R]"
+msgstr ""
+
+#: table_item_designations.txt:10
+msgid "[C:6:0:1][CHAR:19]Sword[CHAR:19][C:7:0:0] On fire[R]"
+msgstr ""
+
+#: table_item_designations.txt:11
+msgid ""
+"[C:6:0:1](Sword)[C:7:0:0] Not produced on-site, does not count towards "
+"wealth[R]"
+msgstr ""
+
+#: table_item_designations.txt:12
+msgid "[C:6:0:1]{Sword}[C:7:0:0] Unclaimed/Forbidden[R]"
+msgstr ""
+
+#: table_item_designations.txt:13
+msgid "[C:6:0:1]xSwordx[C:7:0:0] Somewhat damaged[R]"
+msgstr ""
+
+#: table_item_designations.txt:14
+msgid "[C:6:0:1]XSwordX[C:7:0:0] Damaged[R]"
+msgstr ""
+
+#: table_item_designations.txt:15
+msgid "[C:6:0:1]XXSwordXX[C:7:0:0] Very damaged[R]"
+msgstr ""
+
+#: table_item_designations.txt:16
+msgid "[C:6:0:1][CHAR:17]Sword[CHAR:16][C:7:0:0] Magical[R]"
+msgstr ""
+
+#: tables.txt:2
+msgid "[TITLE]The Manual: Tables[/TITLE]"
+msgstr ""
+
+#: tables.txt:3
+msgid ""
+"[LINK:data/help/table_item_designations]-=*(Item Designations)*=-[/LINK]"
+msgstr ""
+
+#: technical.txt:2
+msgid "[TITLE]The Manual: Technical[/TITLE]"
+msgstr ""
+
+#: technical.txt:2
+msgid ""
+"See readme.txt for the license.\n"
+"See file_changes.txt for new init/interface information.\n"
+"See command_line.txt for information on world generation from command lines."
+msgstr ""
+
+#: technical.txt:6
+msgid "(1) Copy the relevant region folder in \"data/save\" to a safe location."
+msgstr ""
+
+#: technical.txt:10
+msgid ""
+"(2) When you want to reuse it, copy that region back to \"data/save\".  Do "
+"*NOT* overwrite an old folder, as it might leave residual files."
+msgstr ""
+
+#: technical.txt:12
+msgid ""
+"Please *DO* back up saves.  Although the game has permanent death and you might want to play it in that spirit, the game\n"
+"is also in development, and your world might become corrupted by an error.  You can also make use of the auto save features settable in \"data/init/init.txt\"."
+msgstr ""
+
+#: technical.txt:15
+msgid ""
+"(0) ***Note that version 0.40.03+ is not compatible with older versions.***"
+msgstr ""
+
+#: technical.txt:19
+msgid "(1) Unzip the new dwarves into a *NEW* folder."
+msgstr ""
+
+#: technical.txt:21
+msgid ""
+"(2) Copy \"data/save\" from the old folder into the new folder, or copy over"
+" the relevant region folders you've saved to \"data/save\".  Keep a backup "
+"in case something is wrong with the new version."
+msgstr ""
+
+#: technical.txt:23
+msgid "(3) When you start, your world should be accessible and ready to play."
+msgstr ""
+
+#: technical.txt:25
+msgid ""
+"Unzipping the new dwarves into your old folder will work most of the time, "
+"but if files have changed, it can crash, or worse yet, destroy your saves."
+msgstr ""
+
+#: technical.txt:27
+msgid ""
+"Go to \"data/init/init.txt\".  These options will take effect the next time "
+"you start the game."
+msgstr ""
+
+#: technical.txt:31
+msgid ""
+"If you can get to the ESC keybindings menu (from the start screen, press ESC"
+" and then 2/8 to scroll to Key Bindings), you can set your key bindings.  If"
+" your \"?\" key on your keyboard doesn't work for help, you can set the "
+"keybinding properly here.  It might not display as a \"*\".  You can set the"
+" display up properly in \"data/init/interface.txt\" using the display "
+"strings at the top of the file."
+msgstr ""
+
+#: text_viewer.txt:2
+msgid "[TITLE]The Manual: Text Viewers[/TITLE]"
+msgstr ""
+
+#: text_viewer.txt:2
+msgid "Use"
+msgstr ""
+
+#: text_viewer.txt:4
+msgid ""
+"[IKEY:STANDARDSCROLL_PAGEDOWN] to scroll.  You can check the key bindings for your current settings.  You can get to the key bindings\n"
+"by pressing [IKEY:OPTIONS]."
+msgstr ""
+
+#: text_viewer.txt:11
+msgid ""
+"[B]Press [IKEY:SECONDSCROLL_DOWN][IKEY:SECONDSCROLL_UP] to move between any highlighted links,\n"
+"and press [IKEY:SELECT] to select a highlighted link.\n"
+"Here are some practice links to try:"
+msgstr ""
+
+#: text_viewer.txt:15
+msgid "[LINK:data/help/practice]Practice Link[/LINK]"
+msgstr ""
+
+#: text_viewer.txt:14
+msgid ""
+"[B]Press [IKEY:LEAVESCREEN] to close the text viewer.  If there\n"
+"is a paused section (as there is in this screen), it will open up before [IKEY:LEAVESCREEN] makes you leave.  [IKEY:SELECT] will also work if no link is highlighted."
+msgstr ""
+
+#: text_viewer.txt:21
+msgid ""
+"[B]In order to practice scrolling, I've put the pause instructions down the "
+"page a bit."
+msgstr ""
+
+#: text_viewer.txt:22
+msgid ""
+"Sometimes there is a pause in a text viewer window.  Press "
+"[IKEY:LEAVESCREEN] to advance.  If no link is highlighted, [IKEY:SELECT] "
+"will work as well."
+msgstr ""
+
+#: text_viewer.txt:31
+msgid ""
+"Good job.  Here are some more practice links to try out.  Notice how the "
+"interface interacts with scrolling."
+msgstr ""
+
+#: text_viewer2.txt:2
+msgid "[TITLE]The Manual: Text Viewers (Again)[/TITLE]"
+msgstr ""
+
+#: text_viewer2.txt:2
+msgid ""
+"You have pressed the help key from the text viewer help screen.\n"
+"Press [IKEY:LEAVESCREEN] to go back to that screen.\n"
+"I don't know how to explain it any better.  Go to the forums\n"
+"at www.bay12games.com if you are having technical issues."
+msgstr ""
+
+#: text_viewer3.txt:2
+msgid "[TITLE]The Manual: Helpless or Hopeless?[/TITLE]"
+msgstr ""
+
+#: text_viewer3.txt:2
+msgid ""
+"You have pressed the help key many times.\n"
+"You only need to press the help key once, no matter how urgent your problem may seem at the time.\n"
+"Press [IKEY:LEAVESCREEN] to go back to the previous screen.\n"
+"Despite my promise to have the help key work on any screen, it doesn't work on this screen.\n"
+"If you are having technical trouble, go to www.bay12games.com and ask for help on the forums."
+msgstr ""
+
+#: trading.txt:2
+msgid "[TITLE]The Manual: Trading[/TITLE]"
+msgstr ""
+
+#: trading.txt:2
+msgid ""
+"Sometimes your dwarves need to trade away their wealth to obtain necessities.  You do this at a trade depot.\n"
+"Merchants arrive throughout the year, starting in the first autumn."
+msgstr ""
+
+#: trading.txt:5
+msgid ""
+"You can go to the trade depot both to designate goods to be brought to the depot for trade and to perform\n"
+"the actual transactions."
+msgstr ""
+
+#: trading.txt:11
+msgid "[LINK:data/help/menu_buildjob_depot]The Trade Depot Interface[/LINK]"
+msgstr ""
+
+#: unit_profile.txt:2
+msgid "[TITLE]The Manual: Unit Profiles[/TITLE]"
+msgstr "[TITLE]O Manual: Perfis de Unidades[/TITLE]"
+
+#: unit_profile.txt:2
+msgid ""
+"A common way to get to unit profiles is pressing [IKEY:D_VIEWUNIT] from the main view, moving\n"
+"the cursor over a unit and pressing [IKEY:UNITVIEW_PRF] then [IKEY:UNITVIEW_PRF_VIEW]."
+msgstr "Uma forma comum de obter perfis de unidades é carregar em [IKEY:D_VIEWUNIT] a partir do ecrã principal, movendo\no cursor sobre a unidade e carregando em [IKEY:UNITVIEW_PRF] e a seguir [IKEY:UNITVIEW_PRF_VIEW]."
+
+#: unit_profile.txt:8
+msgid ""
+"There are also a few other screens that let you view unit profiles directly."
+msgstr "Existem alguns outros ecrãs onde é possível ver o perfil de unidades directamente."
+
+#: unit_profile.txt:10
+msgid ""
+"Here you can view a unit's holdings and requirements, as well as their "
+"thoughts and preferences."
+msgstr "Aqui pode ver os pertences e requisitos de uma unidade, bem como os seus pensamentos e preferências."
+
+#: unit_profile.txt:14
+msgid ""
+"The holdings, requirements, demands and mandates of the unit will be listed on the screen.  To access thoughts and preferences,\n"
+"simply press [IKEY:SELECT]."
+msgstr "As posses, requisitos, exigências e mandatos da unidade serão listadas no ecrã. Para aceder aos pensamentos e preferências da mesma,\nsimplesmente carregue em [IKEY:SELECT]."
+
+#: unit_profile.txt:17
+msgid ""
+"The thoughts and preferences of a unit let you know what has been happening to a unit and the things that would please them.  All of the\n"
+"information you see here is used by the game."
+msgstr ""
+
+#: unit_profile.txt:20
+msgid ""
+"An important part of Dwarf Fortress is learning how to keep dwarves happy.  If dwarves become\n"
+"unhappy, they can throw tantrums, damage property, start fights and eventually lose their minds."
+msgstr ""
+
+#: water.txt:2
+msgid "[TITLE]The Manual: Obtaining Water[/TITLE]"
+msgstr "[TITLE]O Manual: Obter Água[/TITLE]"
+
+#: water.txt:2
+msgid ""
+"Your dwarves need to drink.  They'll attempt to drink from nearby water "
+"sources.  You can also designate specific places for them to drink by using "
+"activity zones.  They will also drink from any wells you have built, "
+"provided the well has an open path below it to a water-filled square."
+msgstr "Os seus anões precisaram de beber. Eles tentarão obter bebida de fontes de água próximas. Pode também locais específicos onde poderão beber através de zonas de atividades. Eles beberão também de quaisquer poços que tenha construído, desde que ditos poços tenham um caminho aberto abaixo deles até um quadrado preenchido de água."
+
+#: water.txt:6
+msgid ""
+"Eventually, you'll want to secure alcohol for your dwarves.  To do this, you need plants and a still.  We'll talk about how to operate\n"
+"buildings like the still in the Making Crafts section, and in the Obtaining Food section we'll go over how to get plants."
+msgstr "Eventualmente, terá de obter álcool para os seus anões. Para tal, precisará de plantas e uma destiladora. Iremos falar de como operar edifícios como a destiladora na secção de Artes de Fabrico, e como obter plantas na secção de Obter Comida."
+
+#: wood.txt:2
+msgid "[TITLE]The Manual: Chopping Wood[/TITLE]"
+msgstr "[TITLE]O Manual: Cortar Madeira[/TITLE]"
+
+#: wood.txt:2
+msgid ""
+"Wood is the starting point for many fortress industries.  In order to chop "
+"wood, you need the following:"
+msgstr "Madeira é o ponto de início para muitas industrias da fortaleza. Para cortar madeira, precisará do seguinte:"
+
+#: wood.txt:4
+msgid ""
+"[C:6:0:1][CHAR:15][C:2:0:1] A healthy, unoccupied dwarf with an axe and the "
+"Wood Cutting profession"
+msgstr "[C:6:0:1][CHAR:15][C:2:0:1] Um anão saudável e desocupado com um machado e a profissão de Lenhador"
+
+#: wood.txt:6
+msgid ""
+"[C:6:0:1][CHAR:15][C:2:0:1] A tree designated for cutting that such a dwarf "
+"can access"
+msgstr "[C:6:0:1][CHAR:15][C:2:0:1] Uma árvore marcada para corte que esse anão consiga aceder"
+
+#: wood.txt:12
+msgid ""
+"The initial purpose for wood is building beds and other furniture, as well "
+"as crossbows and bolts for defensive purposes.  Once you strike metal ores, "
+"you can also feed wood to the wood furnace to make charcoal, which can be "
+"used in the smelter to refine ore.  Wood can also be burned at the wood "
+"furnace to make ash, which can be used at the ashery to make lye.  Lye can "
+"be used to make soap (along with animal fat), or it can be made into potash,"
+" which is a fertilizer.  Potash can be baked at a kiln into pearlash, which "
+"can be used to produce clear glass."
+msgstr "O propósito inicial da madeira é a construção de camas e outra mobília, assim como bestas e flechas para fins defensivos. Quando encontrar minérios metálicos, poderá também utilizar madeira na fornalha para criar carvão que poderá, então, ser usado no fundidor para refinar minério. Madeira pode também ser queimada na fornalha para criar cínza, utilizável posteriormente na misturadora para criar lixívia. Lixívia pode ser usada para fazer sabão (em conjunto com gordura animal) ou pode ser transformada em potassa, em si um fertilizante. Potassa pode ser cozina num forno para criar cínza de potássio, utilizada para criar vidro transparente."

@@ -1,0 +1,709 @@
+# 
+# Translators:
+# Jaroslav Körner <jardasek@centrum.cz>, 2018
+# Milan Vašíček <b.shark@atlas.cz>, 2019
+msgid ""
+msgstr ""
+"Project-Id-Version: Dwarf Fortress\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2015-09-19 23:35+0000\n"
+"Last-Translator: Milan Vašíček <b.shark@atlas.cz>, 2019\n"
+"Language-Team: Czech (http://www.transifex.com/dwarf-fortress-translation/dwarf-fortress/language/cs/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: cs\n"
+"Plural-Forms: nplurals=4; plural=(n == 1 && n % 1 == 0) ? 0 : (n >= 2 && n <= 4 && n % 1 == 0) ? 1: (n % 1 != 0 ) ? 2 : 3;\n"
+"X-Generator: Poedit 1.8.4\n"
+
+#: ab_specific_hf_seeker.txt:0
+msgid ""
+"seek out [CONTEXT:HIST_FIG:TRANS_NAME] at "
+"[CONTEXT:ABSTRACT_BUILDING:TRANS_NAME] over in [CONTEXT:SITE:TRANS_NAME]"
+msgstr "najdi [CONTEXT:HIST_FIG:TRANS_NAME] v [CONTEXT:ABSTRACT_BUILDING:TRANS_NAME] v [CONTEXT:SITE:TRANS_NAME]"
+
+#: animal_slayer.txt:0
+msgid ""
+"I have taken down [CONTEXT:NUMBER] [CONTEXT:RACE:NUMBERED_NAME] while "
+"stalking [CONTEXT:PLACE:TRANS_NAME]."
+msgstr "Sejmul jsem [CONTEXT:NUMBER] [CONTEXT:RACE:NUMBERED_NAME] když jsem se plížil [CONTEXT:PLACE:TRANS_NAME]."
+
+#: arch_info_justification.txt:0
+msgid ""
+"It is said that the [CONTEXT:ARCH_ELEMENT] of "
+"[CONTEXT:ABSTRACT_BUILDING:TRANS_NAME] [CONTEXT:JUSTIFICATION] "
+"[CONTEXT:DEF_SPHERE] for the glory of [CONTEXT:HIST_FIG:TRANS_NAME]."
+msgstr "Říká se, že [CONTEXT:ARCH_ELEMENT] z [CONTEXT:ABSTRACT_BUILDING:TRANS_NAME] [CONTEXT:JUSTIFICATION] [CONTEXT:DEF_SPHERE] pro slávu [CONTEXT:HIST_FIG:TRANS_NAME]."
+
+#: child_age_proclamation.txt:0
+msgid "I'm [CONTEXT:NUMBER]!"
+msgstr "Já jsem [CONTEXT:NUMBER]!"
+
+#: current_profession_no_year.txt:0
+msgid "I am a [CONTEXT:UNIT_NAME]."
+msgstr "Já jsem [CONTEXT:UNIT_NAME]."
+
+#: current_profession_year.txt:0
+msgid "This is my [CONTEXT:ORDINAL] year as a [CONTEXT:UNIT_NAME]."
+msgstr "Tohle je můj [CONTEXT:ORDINAL] rok jako [CONTEXT:UNIT_NAME]."
+
+#: curse.txt:0
+msgid "Who dares to enter my house?  I curse you!"
+msgstr "Kdo se odváží vstoupit do mého domu? Proklínám tě!"
+
+#: dwarf.txt:0
+msgid "who was too short to live"
+msgstr "kdož žil po tak krátký čas"
+
+#: dwarf.txt:1
+msgid "who tunneled away from me like a frightened mole"
+msgstr "kdož se ode mne protuneloval pryč jako vystrašený krtek"
+
+#: dwarf.txt:2
+msgid "who sucked plump helmets like a purring maggot"
+msgstr "který ocucával helmy jako vrnící červ"
+
+#: dwarf.txt:3
+msgid "whose hammer shattered on the anvil of my power"
+msgstr "jehož kladivo se roztříštilo na kovadlině mé moci"
+
+#: dwarf.txt:4
+msgid "who forged [PRO_POS] own doom by challenging me"
+msgstr "kdo ukul [PRO_POS] svou záhubu tím že mne vyzval"
+
+#: dwarf.txt:5
+msgid "who was returned to the rock and muck from which it was spawned"
+msgstr "ten jenž se navrátil ke kameni a blátu ze kterého vzešel"
+
+#: dwarf.txt:6
+msgid ""
+"whose tall tales of bravery were all the more embarrassing because of "
+"[PRO_POS] height"
+msgstr "jehož báchorky o hrdinství byly tím trapnější čím víc [PRO_POS] pil"
+
+#: elf.txt:0
+msgid "who was felled like a slender sapling"
+msgstr "ten kdo opadal jako jarní květ"
+
+#: elf.txt:1
+msgid "whom I sent back to the home-tree as fertilizer"
+msgstr "koho jsem poslal domů k rodnému stromu jako hnojivo"
+
+#: elf.txt:2
+msgid "whose fragile bones shattered before the power of my contempt"
+msgstr "ten jehož křehké kosti se rozpadli pod tíhou mého opovržení"
+
+#: elf.txt:3
+msgid "who came down from the home-tree and was devoured"
+msgstr "ten kdo opustil svůj rodný strom a byl pozřen"
+
+#: elf.txt:4
+msgid ""
+"who should have stayed in the trees when the real elves came down to fight"
+msgstr "ten kdo měl raději zůstat v koruně stromu, když ti praví elfové šli do boje"
+
+#: family_relationship_additional.txt:0
+msgid "[CONTEXT:HIST_FIG:PRO_SUB] is also my [CONTEXT:FAMILY_RELATIONSHIP]"
+msgstr "[CONTEXT:HIST_FIG:PRO_SUB] je také můj [CONTEXT:FAMILY_RELATIONSHIP]"
+
+#: family_relationship_additional_dead.txt:0
+msgid "[CONTEXT:HIST_FIG:PRO_SUB] was also my [CONTEXT:FAMILY_RELATIONSHIP]"
+msgstr "[CONTEXT:HIST_FIG:PRO_SUB] byl také můj [CONTEXT:FAMILY_RELATIONSHIP]"
+
+#: family_relationship_no_spec.txt:0
+msgid ""
+"I have [CONTEXT:INDEF_FAMILY_RELATIONSHIP] named "
+"[CONTEXT:HIST_FIG:TRANS_NAME]"
+msgstr "Mám [CONTEXT:INDEF_FAMILY_RELATIONSHIP], jež se jmenuje [CONTEXT:HIST_FIG:TRANS_NAME]"
+
+#: family_relationship_no_spec_dead.txt:0
+msgid ""
+"I had [CONTEXT:INDEF_FAMILY_RELATIONSHIP] named "
+"[CONTEXT:HIST_FIG:TRANS_NAME]"
+msgstr "Měl jsem [CONTEXT:INDEF_FAMILY_RELATIONSHIP], jenž se jmenoval [CONTEXT:HIST_FIG:TRANS_NAME]"
+
+#: family_relationship_spec.txt:0
+msgid ""
+"my [CONTEXT:FAMILY_RELATIONSHIP] is named [CONTEXT:HIST_FIG:TRANS_NAME]"
+msgstr "můj [CONTEXT:FAMILY_RELATIONSHIP]  se jmenuje [CONTEXT:HIST_FIG:TRANS_NAME]"
+
+#: family_relationship_spec_dead.txt:0
+msgid ""
+"my [CONTEXT:FAMILY_RELATIONSHIP] was named [CONTEXT:HIST_FIG:TRANS_NAME]"
+msgstr "můj [CONTEXT:FAMILY_RELATIONSHIP] byl pojmenován [CONTEXT:HIST_FIG:TRANS_NAME]"
+
+#: general.txt:0
+msgid "whose cries for mercy went unheeded by my wrath"
+msgstr "jehož výkřiky o slitování zůstal nevyslyšen mým hněvem "
+
+#: general.txt:1
+msgid "whose insignificant name I struggle to recall"
+msgstr "na jehož bezvýznamné jméno mám si vzpomenout"
+
+#: general.txt:2
+msgid "a spineless slug who was crushed under my might"
+msgstr "bezpáteřní červ, který byl rozdrcen pod mojí botou"
+
+#: general.txt:3
+msgid "whom I buried alive under a mountain of hatred"
+msgstr "ten jež byl zaživa pohřben pod horou nenávisti"
+
+#: general.txt:4
+msgid "who lies dead, now only an embarrassing memory"
+msgstr "ten jež leží mrtví a zůstává jen trapnou vzpomínkou"
+
+#: general.txt:5
+msgid "who sought my praise, only to be rejected in death"
+msgstr "ten kdo hledal mou chválu jen aby byl odmítnut ve smrti"
+
+#: general.txt:6
+msgid "once revered by those who didn't know any better"
+msgstr "uctíván těmi, kteří nevěděli moho"
+
+#: goodbye_worship_1.txt:0
+msgid "upon arising in the mornings,"
+msgstr "po raním vstávání,"
+
+#: goodbye_worship_1.txt:1
+msgid "when going on a long journey,"
+msgstr "když jde na dlouhou cestu,"
+
+#: goodbye_worship_1.txt:2
+msgid "before retiring in the evening,"
+msgstr "před spočinutím večer,"
+
+#: goodbye_worship_1.txt:3
+msgid "as sure as I am here now,"
+msgstr "tak jistě jako zde stojím,"
+
+#: goodbye_worship_1.txt:4
+msgid "and lo,"
+msgstr "a hle,"
+
+#: goodbye_worship_1.txt:5
+msgid "it cannot be said enough;"
+msgstr "nemohl jsem říci více;"
+
+#: goodbye_worship_1.txt:6
+msgid "these are dangerous times, so"
+msgstr "toto jsou nebezpečné časy"
+
+#: goodbye_worship_1.txt:7
+msgid "I say again"
+msgstr "Říkám znovu"
+
+#: goodbye_worship_1.txt:8
+msgid "yes,"
+msgstr "jo,"
+
+#: goodbye_worship_1.txt:9
+msgid "before every meal,"
+msgstr "před každým jídlem,"
+
+#: goodbye_worship_1.txt:10
+msgid "whenever the tide turns,"
+msgstr "pokaždé když se příliv otočí,"
+
+#: goodbye_worship_1.txt:11
+msgid "when you return to this place,"
+msgstr "když se vrátíš k tomuto místo,"
+
+#: goodbye_worship_1.txt:12
+msgid "when you arrive at your destination,"
+msgstr "když dorazíš ke svému cíli,"
+
+#: goodbye_worship_1.txt:13
+msgid "at this juncture in your life,"
+msgstr "na této křižatce tvého života, "
+
+#: goodbye_worship_2.txt:0
+msgid "don't forget to"
+msgstr "nezapomeň na"
+
+#: goodbye_worship_2.txt:1
+msgid "always remember to"
+msgstr "nikdy nazapoměň"
+
+#: goodbye_worship_2.txt:2
+msgid "it would be wise to"
+msgstr "bylo by moudré"
+
+#: goodbye_worship_2.txt:3
+msgid "you should"
+msgstr "měl by jsi"
+
+#: goodbye_worship_2.txt:4
+msgid "you must"
+msgstr "musíš"
+
+#: goodbye_worship_2.txt:5
+msgid "prudence demands that you"
+msgstr "opatrnost vyžaduje abys "
+
+#: goodbye_worship_2.txt:6
+msgid "even for a moment"
+msgstr "jen na okamžik"
+
+#: goodbye_worship_2.txt:7
+msgid "follow my advice and"
+msgstr "následuj mé rady a"
+
+#: goodbye_worship_2.txt:8
+msgid "heed my words and"
+msgstr "slyš má slova a"
+
+#: goodbye_worship_2.txt:9
+msgid "remember to"
+msgstr "pamatuj na"
+
+#: goodbye_worship_2.txt:10
+msgid "show devotion and"
+msgstr "ukaž odhodlání a"
+
+#: goodbye_worship_3.txt:0
+msgid "speak the praises of [SPEAKER:HF_LINK:DEITY:TRANS_NAME]"
+msgstr "mluv chválu [SPEAKER:HF_LINK:DEITY:TRANS_NAME]"
+
+#: goodbye_worship_3.txt:1
+msgid "speak the praises of [SPEAKER:HF_LINK:DEITY:RANDOM_DEF_SPHERE]"
+msgstr "mluv chválu [SPEAKER:HF_LINK:DEITY:RANDOM_DEF_SPHERE]"
+
+#: goodbye_worship_3.txt:2
+msgid "go with [SPEAKER:HF_LINK:DEITY:TRANS_NAME]"
+msgstr "jdi s [SPEAKER:HF_LINK:DEITY:TRANS_NAME]"
+
+#: goodbye_worship_3.txt:3
+msgid "go with [SPEAKER:HF_LINK:DEITY:RANDOM_DEF_SPHERE]"
+msgstr "běž s [SPEAKER:HF_LINK:DEITY:RANDOM_DEF_SPHERE]"
+
+#: goodbye_worship_3.txt:4
+msgid "put your faith in [SPEAKER:HF_LINK:DEITY:TRANS_NAME]"
+msgstr "vlož svou víru v [SPEAKER:HF_LINK:DEITY:TRANS_NAME]"
+
+#: goodbye_worship_3.txt:5
+msgid "put your faith in [SPEAKER:HF_LINK:DEITY:RANDOM_DEF_SPHERE]"
+msgstr "vlož svou víru v [SPEAKER:HF_LINK:DEITY:RANDOM_DEF_SPHERE]"
+
+#: goodbye_worship_3.txt:6
+msgid "experience [SPEAKER:HF_LINK:DEITY:TRANS_NAME]"
+msgstr "zakus [SPEAKER:HF_LINK:DEITY:TRANS_NAME]"
+
+#: goodbye_worship_3.txt:7
+msgid "experience [SPEAKER:HF_LINK:DEITY:RANDOM_DEF_SPHERE]"
+msgstr "prožij [SPEAKER:HF_LINK:DEITY:RANDOM_DEF_SPHERE]"
+
+#: goodbye_worship_3.txt:8
+msgid "consider [SPEAKER:HF_LINK:DEITY:TRANS_NAME]"
+msgstr "vezmi v potaz  [SPEAKER:HF_LINK:DEITY:TRANS_NAME]"
+
+#: goodbye_worship_3.txt:9
+msgid "consider [SPEAKER:HF_LINK:DEITY:RANDOM_DEF_SPHERE]"
+msgstr "uvažuj o [SPEAKER:HF_LINK:DEITY:RANDOM_DEF_SPHERE]"
+
+#: goodbye_worship_3.txt:10
+msgid "give yourself to [SPEAKER:HF_LINK:DEITY:TRANS_NAME]"
+msgstr "dej se k [SPEAKER:HF_LINK:DEITY:TRANS_NAME]"
+
+#: goodbye_worship_3.txt:11
+msgid "give yourself to [SPEAKER:HF_LINK:DEITY:RANDOM_DEF_SPHERE]"
+msgstr "přidej se k [SPEAKER:HF_LINK:DEITY:RANDOM_DEF_SPHERE]"
+
+#: greet.txt:0
+msgid "Greetings.  My name is [SPEAKER:TRANS_NAME]."
+msgstr "Zdravím. Mé jméno je [SPEAKER:TRANS_NAME]."
+
+#: greet_baby.txt:0
+msgid "Hellooo!"
+msgstr "Nazdáááár!"
+
+#: greet_baby.txt:1
+msgid "Look at you!"
+msgstr "Podívej se na sebe!"
+
+#: greet_baby.txt:2
+msgid "A baby!  How adorable!"
+msgstr "Dítě! Jak roztomilé!"
+
+#: greet_reply.txt:0
+msgid "Ah, hello.  I'm [SPEAKER:TRANS_NAME]."
+msgstr "Aa-, ahoj. Já jsem [SPEAKER:TRANS_NAME]."
+
+#: greet_reply_after_hero.txt:0
+msgid "I am [SPEAKER:TRANS_NAME].  Can I be of some help?"
+msgstr "Já jsem [SPEAKER:TRANS_NAME]. Mohu ti nějak pomoc?"
+
+#: greet_reply_after_hero.txt:1
+msgid "I am [SPEAKER:TRANS_NAME].  How can I be of service?"
+msgstr "Já jsem [SPEAKER:TRANS_NAME]. Jak bych Vám mohl posloužit?"
+
+#: greet_reply_diff_language.txt:0
+msgid "Hello, [AUDIENCE:RACE].  I am [SPEAKER:TRANS_NAME]."
+msgstr "Ahoj, [AUDIENCE:RACE]. Já jsem [SPEAKER:TRANS_NAME]."
+
+#: greet_reply_unusual_first.txt:0
+msgid "[AUDIENCE:FIRST_NAME]...  your parents must have been interesting!"
+msgstr "[AUDIENCE:FIRST_NAME]... tvý rodiče museli být ale zajímavý!"
+
+#: greet_reply_unusual_first.txt:1
+msgid ""
+"You know, you don't meet many people with the name [AUDIENCE:FIRST_NAME]."
+msgstr "Znáš to, nepotkáš mnoho lidí s takovým jménem jako je [AUDIENCE:FIRST_NAME]."
+
+#: greet_reply_unusual_first.txt:2
+msgid "So, [AUDIENCE:FIRST_NAME]...   [AUDIENCE:FIRST_NAME], was it?"
+msgstr "Tak, [AUDIENCE:FIRST_NAME]...   [AUDIENCE:FIRST_NAME], bylo to?"
+
+#: greet_reply_unusual_first.txt:3
+msgid "[AUDIENCE:FIRST_NAME].  Does that mean something?"
+msgstr "[AUDIENCE:FIRST_NAME]. Znamená to něco?"
+
+#: greet_reply_unusual_first.txt:4
+msgid "[AUDIENCE:FIRST_NAME].  I can't say I've heard that before."
+msgstr "[AUDIENCE:FIRST_NAME]. No nemohu říci že bych o tom někdy dříve slyšel."
+
+#: greet_worship.txt:0
+msgid "Praise be to [SPEAKER:HF_LINK:DEITY:TRANS_NAME]."
+msgstr "Sláva pro [SPEAKER:HF_LINK:DEITY:TRANS_NAME]."
+
+#: greet_worship.txt:1
+msgid "Praise [SPEAKER:HF_LINK:DEITY:RANDOM_DEF_SPHERE]."
+msgstr "Oslavujte [SPEAKER:HF_LINK:DEITY:RANDOM_DEF_SPHERE]."
+
+#: greet_worship.txt:2
+msgid "Life is, in a word, [SPEAKER:HF_LINK:DEITY:RANDOM_DEF_SPHERE]."
+msgstr "Život je, jedním slovem [SPEAKER:HF_LINK:DEITY:RANDOM_DEF_SPHERE]."
+
+#: greet_worship.txt:3
+msgid "This servant of [SPEAKER:HF_LINK:DEITY:TRANS_NAME] greets you."
+msgstr "Tento služebník [SPEAKER:HF_LINK:DEITY:TRANS_NAME] tě zdraví."
+
+#: greet_worship.txt:4
+msgid "This servant of [SPEAKER:HF_LINK:DEITY:RANDOM_DEF_SPHERE] greets you."
+msgstr "Tento služebník [SPEAKER:HF_LINK:DEITY:RANDOM_DEF_SPHERE] tě zdraví."
+
+#: guard_profession.txt:0
+msgid "I am a guard."
+msgstr "Já jsem stráž."
+
+#: guard_warning.txt:0
+msgid "Don't start any trouble."
+msgstr "Nezačínej si žádné problémy."
+
+#: hist_fig_slayer.txt:0
+msgid ""
+"It is I that felled [CONTEXT:HIST_FIG:TRANS_NAME] the "
+"[CONTEXT:HIST_FIG:RACE]."
+msgstr "Jsem ten kdo skolil [CONTEXT:HIST_FIG:TRANS_NAME] z rasy [CONTEXT:HIST_FIG:RACE]."
+
+#: hunting_profession.txt:0
+msgid "I hunt great beasts in [CONTEXT:PLACE:TRANS_NAME]."
+msgstr "Lovil jsem velké bestie v [CONTEXT:PLACE:TRANS_NAME]."
+
+#: hunting_profession_year.txt:0
+msgid ""
+"I have hunted great beasts in [CONTEXT:PLACE:TRANS_NAME] for "
+"[CONTEXT:NUMBER] of my years."
+msgstr " [CONTEXT:NUMBER] let mého života jsem lovil divoké bestie v [CONTEXT:PLACE:TRANS_NAME]."
+
+#: justification_antithetical.txt:0
+msgid "can be thought of as the antithesis of"
+msgstr "dá se o něm uvažovat jako o antitezi k "
+
+#: justification_experience.txt:0
+msgid "can allow one to experience"
+msgstr "dovolí ti prožít"
+
+#: justification_proximity.txt:0
+msgid "can bring one near to"
+msgstr "dovede tě blízko k"
+
+#: justification_reminder.txt:0
+msgid "can remind one of"
+msgstr "dovede ti připomenout"
+
+#: justification_representation.txt:0
+msgid "can be thought of as a representation of"
+msgstr "dá se o tom uvažovat jako o představě"
+
+#: lair_hunter_minotaur.txt:0
+msgid "I want your bones for my bone mill!"
+msgstr "Vhodím tě do svého mlýnku na maso!"
+
+#: lair_hunter_minotaur.txt:1
+msgid "I'll grind you into porridge!"
+msgstr "Rozmačkám tě na kaši!"
+
+#: lair_hunter_minotaur.txt:2
+msgid "I'll eat you whole!"
+msgstr "Spolknu tě i s botama!"
+
+#: mercenary_profession.txt:0
+msgid ""
+"I seek fortune and glory by offering my skill at arms in "
+"[CONTEXT:PLACE:TRANS_NAME]."
+msgstr "Hledám bohatství a slávu tím, že nabízím své schopnosti ve zbrani  [CONTEXT:PLACE:TRANS_NAME]."
+
+#: mercenary_profession_year.txt:0
+msgid ""
+"I have sought fortune and glory by offering my skill at arms in "
+"[CONTEXT:PLACE:TRANS_NAME] for [CONTEXT:NUMBER] of my years."
+msgstr "Hledal jsme [CONTEXT:NUMBER] let bohatství a slávu, tím že jsem nabízel své schopnosti ve zbrani v [CONTEXT:PLACE:TRANS_NAME]."
+
+#: no_family.txt:0
+msgid "I have no family to speak of"
+msgstr "Nemám rodinu o které bych mluvil"
+
+#: past_hunting_profession.txt:0
+msgid "In the past, I hunted great beasts."
+msgstr "V minulosti, jo tenkrát jsem ulovil i velké nestvůry."
+
+#: past_hunting_profession.txt:1
+msgid "I was a hunter of mighty beasts for [CONTEXT:NUMBER] of my years."
+msgstr " [CONTEXT:NUMBER] let jsem byl lovec velkých zuřivých bestií. "
+
+#: past_mercenary_profession.txt:0
+msgid "In the past, I sought fortune and glory by offering my skill at arms."
+msgstr "V minulosti jsem hledal štěstí a slávu tím, že jsem nabízel svou udatnost ve zbrani."
+
+#: past_mercenary_profession.txt:1
+msgid ""
+"I sought fortune and glory by offering my skill at arms for [CONTEXT:NUMBER]"
+" of my years."
+msgstr "[CONTEXT:NUMBER] let svého života jsem hledal štěstí a slávu  s mečem v ruce."
+
+#: past_profession_no_year.txt:0
+msgid "I was once a [CONTEXT:UNIT_NAME]."
+msgstr "Býval jsem tenkrát [CONTEXT:UNIT_NAME]."
+
+#: past_profession_year.txt:0
+msgid ""
+"I was a [CONTEXT:UNIT_NAME] for [CONTEXT:NUMBER] of the years of my life."
+msgstr "Byl jsem  [CONTEXT:UNIT_NAME]  [CONTEXT:NUMBER]  let svého života."
+
+#: past_snatcher_profession.txt:0
+msgid "Once it was my calling to rescue lost children."
+msgstr "Jednou jsem byl povolán k záchraně ztracených dětí."
+
+#: past_snatcher_profession.txt:1
+msgid "For [CONTEXT:NUMBER] of my years, I rescued lost children."
+msgstr " [CONTEXT:NUMBER] jsem zahraňoval ztracené děti."
+
+#: past_thief_profession.txt:0
+msgid "I once sought great treasures."
+msgstr "Jednou jsem spatřil veliký poklad."
+
+#: past_thief_profession.txt:1
+msgid "I sought great treasures for [CONTEXT:NUMBER] of my years."
+msgstr "Hledal jsem skvělé poklady [CONTEXT:NUMBER] let svého života."
+
+#: past_wandering_profession.txt:0
+msgid "I once wandered the wilds."
+msgstr "Kdysi jsem procházel divočinou."
+
+#: past_wandering_profession.txt:1
+msgid "For [CONTEXT:NUMBER] of my years, I wandered the wilds."
+msgstr "Celých  [CONTEXT:NUMBER] let mého života jsem se prodíral divočinou."
+
+#: positive.txt:0
+msgid "fantastic!"
+msgstr "fantastické!"
+
+#: positive.txt:1
+msgid "wonderful!"
+msgstr "překrásné!"
+
+#: positive.txt:2
+msgid "I'm thrilled to hear that."
+msgstr "To rád slyším."
+
+#: positive.txt:3
+msgid "I'm pleased to hear that."
+msgstr "Jsem potěšen tou zprávou."
+
+#: positive.txt:4
+msgid "that is good news."
+msgstr "to je dobrá zpráva."
+
+#: positive.txt:5
+msgid "that is wonderful news."
+msgstr "to je úžasná zpráva."
+
+#: positive.txt:6
+msgid "this is encouraging."
+msgstr "je to slibné."
+
+#: positive.txt:7
+msgid "very good."
+msgstr "velmi dobře."
+
+#: positive.txt:8
+msgid "I'm proud of you."
+msgstr "Jsem na tebe hrdý."
+
+#: positive.txt:9
+msgid "that is a good turn of affairs."
+msgstr "to je dobrý obrat."
+
+#: same_site_ab_specific_hf_seeker.txt:0
+msgid ""
+"seek out [CONTEXT:HIST_FIG:TRANS_NAME] here in [CONTEXT:SITE:TRANS_NAME] at "
+"[CONTEXT:ABSTRACT_BUILDING:TRANS_NAME]"
+msgstr "najdi [CONTEXT:HIST_FIG:TRANS_NAME] v [CONTEXT:ABSTRACT_BUILDING:TRANS_NAME] tady v [CONTEXT:SITE:TRANS_NAME]"
+
+#: same_site_specific_hf_seeker.txt:0
+msgid ""
+"seek out [CONTEXT:HIST_FIG:TRANS_NAME] here in [CONTEXT:SITE:TRANS_NAME]"
+msgstr "kontaktuj [CONTEXT:HIST_FIG:TRANS_NAME] tady v [CONTEXT:SITE:TRANS_NAME]"
+
+#: site_specific_hf_seeker.txt:0
+msgid ""
+"seek out [CONTEXT:HIST_FIG:TRANS_NAME] over in [CONTEXT:SITE:TRANS_NAME]"
+msgstr "vyhledej [CONTEXT:HIST_FIG:TRANS_NAME] v [CONTEXT:SITE:TRANS_NAME]"
+
+#: slayer.txt:0
+msgid "bane"
+msgstr "prokletí"
+
+#: slayer.txt:1
+msgid "conqueror"
+msgstr "dobyvatel"
+
+#: slayer.txt:2
+msgid "death"
+msgstr "smrt"
+
+#: slayer.txt:3
+msgid "foe"
+msgstr "skvostný"
+
+#: slayer.txt:4
+msgid "killer"
+msgstr "zabiják"
+
+#: slayer.txt:5
+msgid "lord"
+msgstr "pán"
+
+#: slayer.txt:6
+msgid "master"
+msgstr "mistr"
+
+#: slayer.txt:7
+msgid "nemesis"
+msgstr "úhlavní nepřítel"
+
+#: slayer.txt:8
+msgid "slayer"
+msgstr "vrah trochu jinak"
+
+#: slayer.txt:9
+msgid "vanquisher"
+msgstr "přemožitel"
+
+#: slayer.txt:10
+msgid "murderer"
+msgstr "vrah"
+
+#: slayer.txt:11
+msgid "crusher"
+msgstr "drtič"
+
+#: slayer.txt:12
+msgid "extinguisher"
+msgstr "vyhubitel"
+
+#: slayer.txt:13
+msgid "strangler"
+msgstr "škrtič"
+
+#: snatcher_profession.txt:0
+msgid ""
+"I rescue lost children and bring them back to [CONTEXT:PLACE:TRANS_NAME]."
+msgstr "Zachránil jsem ztracené dítě a přivedl jsem jej zpět do [CONTEXT:PLACE:TRANS_NAME]."
+
+#: snatcher_profession_year.txt:0
+msgid ""
+"For [CONTEXT:NUMBER] of my years, I have been rescuing lost children and "
+"bringing them back to [CONTEXT:PLACE:TRANS_NAME]."
+msgstr "[CONTEXT:NUMBER] let jsem hledal ztracené děti a vodil jsem je zpět do [CONTEXT:PLACE:TRANS_NAME]."
+
+#: soldier_profession.txt:0
+msgid "I am a soldier."
+msgstr "Já jsem voják."
+
+#: task_recommendation.txt:0
+msgid "[CONTEXT:ANY:TRANS_NAME] might have a task for you"
+msgstr "[CONTEXT:ANY:TRANS_NAME] by pro tebe mohl mít úkol."
+
+#: temple_already_member.txt:0
+msgid "simply"
+msgstr "prostě"
+
+#: temple_already_member.txt:1
+msgid "it is enough to"
+msgstr "je to dost k"
+
+#: temple_already_member.txt:2
+msgid "your task is simple;"
+msgstr "tvůj úkol je jednoduchý;"
+
+#: temple_already_member.txt:3
+msgid "just"
+msgstr "pouze"
+
+#: temple_already_member.txt:4
+msgid "all you need is to"
+msgstr "vše co potřebuješ je"
+
+#: temple_become_member.txt:0
+msgid ""
+"Welcome to [CONTEXT:ENTITY:TRANS_NAME].  Praise be to "
+"[CONTEXT:ENTITY:WORSHIP_HF:TRANS_NAME]!"
+msgstr "Vítejte do [CONTEXT:ENTITY:TRANS_NAME]. Sláva buď  [CONTEXT:ENTITY:WORSHIP_HF:TRANS_NAME]!"
+
+#: temple_become_member.txt:1
+msgid ""
+"Welcome to [CONTEXT:ENTITY:TRANS_NAME].  Praise be to "
+"[CONTEXT:ENTITY:WORSHIP_HF:RANDOM_DEF_SPHERE]!"
+msgstr "Vítejte v [CONTEXT:ENTITY:TRANS_NAME]. Chvála buď [CONTEXT:ENTITY:WORSHIP_HF:RANDOM_DEF_SPHERE]!"
+
+#: temple_become_member.txt:2
+msgid ""
+"As a member of [CONTEXT:ENTITY:TRANS_NAME], you can now seek the higher "
+"mysteries of [CONTEXT:ENTITY:WORSHIP_HF:TRANS_NAME]."
+msgstr "Jako člen [CONTEXT:ENTITY:TRANS_NAME], můžeš nyní hledat největší tajemství [CONTEXT:ENTITY:WORSHIP_HF:TRANS_NAME]."
+
+#: temple_become_member.txt:3
+msgid ""
+"As a member of [CONTEXT:ENTITY:TRANS_NAME], you can now seek the higher "
+"mysteries of [CONTEXT:ENTITY:WORSHIP_HF:RANDOM_DEF_SPHERE]."
+msgstr "Jako člen [CONTEXT:ENTITY:TRANS_NAME], můžeš nyní hledat největší tajemství [CONTEXT:ENTITY:WORSHIP_HF:RANDOM_DEF_SPHERE]."
+
+#: thief_profession.txt:0
+msgid "I seek treasures and bring them back to [CONTEXT:PLACE:TRANS_NAME]."
+msgstr "Já hledám poklady a přináším je zpět do [CONTEXT:PLACE:TRANS_NAME]."
+
+#: thief_profession_year.txt:0
+msgid ""
+"I seek treasures and bring them back to [CONTEXT:PLACE:TRANS_NAME] and have "
+"done so for [CONTEXT:NUMBER] of the years of my life."
+msgstr "Já hledám poklady a nosím je zpět do [CONTEXT:PLACE:TRANS_NAME], dělám to již [CONTEXT:NUMBER]  svého života."
+
+#: threat.txt:0
+msgid "Prepare to die!"
+msgstr "Připrav se na smrt!"
+
+#: unknown_hf_seeker.txt:0
+msgid ""
+"seek out [CONTEXT:HIST_FIG:TRANS_NAME], wherever [CONTEXT:HIST_FIG:PRO_SUB] "
+"might be"
+msgstr "zjisti kde v [CONTEXT:HIST_FIG:PRO_SUB]  by mohl být  [CONTEXT:HIST_FIG:TRANS_NAME]"
+
+#: wandering_profession.txt:0
+msgid "I wander [CONTEXT:PLACE:TRANS_NAME]."
+msgstr "Toulám se po [CONTEXT:PLACE:TRANS_NAME]."
+
+#: wandering_profession_year.txt:0
+msgid ""
+"I have wandered [CONTEXT:PLACE:TRANS_NAME] for [CONTEXT:NUMBER] of my years."
+msgstr "[CONTEXT:NUMBER] let jsem se toulal po [CONTEXT:PLACE:TRANS_NAME]."

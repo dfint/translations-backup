@@ -1,0 +1,770 @@
+# 
+# Translators:
+# Alexandre Hernandes, 2020
+# Alexandre Hernandes, 2015-2016
+# Daniel <daniel.augustojf@gmail.com>, 2015
+msgid ""
+msgstr ""
+"Project-Id-Version: Dwarf Fortress\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2015-10-10 15:47+0000\n"
+"Last-Translator: Alexandre Hernandes, 2020\n"
+"Language-Team: Portuguese (Brazil) (http://www.transifex.com/dwarf-fortress-translation/dwarf-fortress/language/pt_BR/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: pt_BR\n"
+"Plural-Forms: nplurals=3; plural=(n == 0 || n == 1) ? 0 : n != 0 && n % 1000000 == 0 ? 1 : 2;\n"
+"X-Generator: Poedit 1.8.7\n"
+
+#: book_art.txt:4
+msgid "The [ADJ] [NO_ART_NAME]"
+msgstr "O [ADJ] [NO_ART_NAME]"
+
+#: book_art.txt:6
+msgid "[NAME] and the [NOUN]"
+msgstr "[NAME] e o [NOUN]"
+
+#: book_art.txt:7
+msgid "[NAME] and the [ADJ] [NOUN]"
+msgstr "[NAME] e o [ADJ] [NOUM]"
+
+#: book_art.txt:8
+msgid "The [NOUN] and [NAME]"
+msgstr "O [NOUN] e [NAME]"
+
+#: book_art.txt:9
+msgid "The [ADJ] [NOUN] and [NAME]"
+msgstr "O [ADJ] [NOUN] e [NAME]"
+
+#: book_art.txt:11
+msgid "It Must Have Been [NAME]"
+msgstr "Deve Ter Sido [NAME]"
+
+#: book_art.txt:12
+msgid "My Friend [NAME]"
+msgstr "Meu Amigo [NAME]"
+
+#: book_art.txt:13
+msgid "The Birth of [NAME]"
+msgstr "O Nascimento de [NAME]"
+
+#: book_art.txt:14
+msgid "The Sun Sets on [NAME]"
+msgstr "O Sol se Põe em [NAME]"
+
+#: book_art.txt:15
+msgid "We See [NAME]"
+msgstr "Nós Avistamos [NAME]"
+
+#: book_art.txt:16
+msgid "[NAME] Ever Onward"
+msgstr "[NAME] Sempre Adiante"
+
+#: book_art.txt:17
+msgid "[NAME] and Nothing More"
+msgstr "[NAME] e Nada Mais"
+
+#: book_art.txt:18
+msgid "And [ANY_PRONOUN] Sang '[NAME]!'"
+msgstr "E [ANY_PRONOUN] Cantou '[NAME]!'"
+
+#: book_instruction.txt:2
+msgid "A Course on [NAME]"
+msgstr "Um Curso em [NAME]"
+
+#: book_instruction.txt:3
+msgid "A Humble Offering to [NAME]"
+msgstr "Uma Humilde Oferta para [NAME]"
+
+#: book_instruction.txt:4
+msgid "A Meditation on [NAME]"
+msgstr "Uma Meditação em [NAME]"
+
+#: book_instruction.txt:5
+msgid "A Record of [NAME]"
+msgstr "Um Registro de [NAME]"
+
+#: book_instruction.txt:6
+msgid "A Treatise on [NAME]"
+msgstr "Um Tratado Sobre [NAME]"
+
+#: book_instruction.txt:7
+msgid "A World of [NAME]"
+msgstr "Um Mundo de [NAME]"
+
+#: book_instruction.txt:8
+msgid "About [NAME]"
+msgstr "Sobre [NAME]"
+
+#: book_instruction.txt:9
+msgid "After [NAME]"
+msgstr "Depois [NAME]"
+
+#: book_instruction.txt:10
+msgid "Against [NAME]"
+msgstr "Contra [NAME]"
+
+#: book_instruction.txt:11
+msgid "An Exploration of [NAME]"
+msgstr "Uma Exploração de [NAME]"
+
+#: book_instruction.txt:12
+msgid "An Introduction to [NAME]"
+msgstr "Uma Introdução ao [NAME]"
+
+#: book_instruction.txt:13
+msgid "An Offering to [NAME]"
+msgstr "Uma Oferta para [NAME]"
+
+#: book_instruction.txt:14
+msgid "At One With [NAME]"
+msgstr "De Acordo com [NAME]"
+
+#: book_instruction.txt:15
+msgid "Before [NAME]"
+msgstr "Antes [NAME]"
+
+#: book_instruction.txt:16
+msgid "Better [NO_ART_NAME]"
+msgstr "Melhor [NO_ART_NAME]"
+
+#: book_instruction.txt:17
+msgid "Beyond [NAME]"
+msgstr "Além [NAME]"
+
+#: book_instruction.txt:18
+msgid "Book of [NAME]"
+msgstr "Livro de [NAME]"
+
+#: book_instruction.txt:19
+msgid "Captivated by [NAME]"
+msgstr "Cativado por [NAME]"
+
+#: book_instruction.txt:20
+msgid "Choose [NAME]"
+msgstr "Escolha [NAME]"
+
+#: book_instruction.txt:21
+msgid "Classic [NO_ART_NAME]"
+msgstr "Clássico [NO_ART_NAME]"
+
+#: book_instruction.txt:22
+msgid "Commentary on [NAME]"
+msgstr "Comentário Sobre [NAME]"
+
+#: book_instruction.txt:23
+msgid "Common Sense [NO_ART_NAME]"
+msgstr "Senso Comum [NO_ART_NAME]"
+
+#: book_instruction.txt:24
+msgid "Concerning [NAME]"
+msgstr "A Respeito de [NAME]"
+
+#: book_instruction.txt:25
+msgid "Discourse on [NAME]"
+msgstr "Discurso Sobre [NAME]"
+
+#: book_instruction.txt:26
+msgid "Discovering [NAME]"
+msgstr "Descobrindo [NAME]"
+
+#: book_instruction.txt:27
+msgid "Doubts About [NAME]"
+msgstr "Dúvidas Sobre [NAME]"
+
+#: book_instruction.txt:28
+msgid "Dreams of [NAME]"
+msgstr "Sonhos de [NAME]"
+
+#: book_instruction.txt:29
+msgid "Elements of [NAME]"
+msgstr "Elementos de [NAME]"
+
+#: book_instruction.txt:30
+msgid "Errors In [NAME]"
+msgstr "Erros em [NAME]"
+
+#: book_instruction.txt:31
+msgid "Exploring [NAME]"
+msgstr "Explorando [NAME]"
+
+#: book_instruction.txt:32
+msgid "Explorations of [NAME]"
+msgstr "Explorações de [NAME]"
+
+#: book_instruction.txt:33
+msgid "Factual [NO_ART_NAME]"
+msgstr "Factual [NO_ART_NAME]"
+
+#: book_instruction.txt:34
+msgid "For the Love of [NAME]"
+msgstr "Pelo Amor de [NAME]"
+
+#: book_instruction.txt:35
+msgid "Foundations of [NAME]"
+msgstr "Fundações de [NAME]"
+
+#: book_instruction.txt:36
+msgid "Give Me [NAME]"
+msgstr "Dê-me [NAME]"
+
+#: book_instruction.txt:37
+msgid "Great [NO_ART_NAME]"
+msgstr "Ótimo [NO_ART_NAME]"
+
+#: book_instruction.txt:38
+msgid "In Pursuit of [NAME]"
+msgstr "Em Busca de [NAME]"
+
+#: book_instruction.txt:39
+msgid "Inquiries on [NAME]"
+msgstr "Investigações Sobre [NAME]"
+
+#: book_instruction.txt:40
+msgid "Interpretations of [NAME]"
+msgstr "Interpretações de [NAME]"
+
+#: book_instruction.txt:41
+msgid "Introduction to [NAME]"
+msgstr "Introdução ao [NAME]"
+
+#: book_instruction.txt:42
+msgid "It All Begins With [NAME]"
+msgstr "Tudo Começa com [NAME]"
+
+#: book_instruction.txt:43
+msgid "It Is [NAME]"
+msgstr "Isso é [NAME]"
+
+#: book_instruction.txt:44
+msgid "Journey to [NAME]"
+msgstr "Jornada para [NAME]"
+
+#: book_instruction.txt:45
+msgid "Life With [NAME]"
+msgstr "Vida com [NAME]"
+
+#: book_instruction.txt:46
+msgid "Master of [NAME]"
+msgstr "Mestre de [NAME]"
+
+#: book_instruction.txt:47
+msgid "Mastering [NAME]"
+msgstr "Dominando [NAME]"
+
+#: book_instruction.txt:48
+msgid "Meditations on [NAME]"
+msgstr "Meditações Sobre [NAME]"
+
+#: book_instruction.txt:49
+msgid "Misconceptions About [NAME]"
+msgstr "Equívocos Sobre [NAME]"
+
+#: book_instruction.txt:50
+msgid "More [NO_ART_NAME]"
+msgstr "Mais [NO_ART_NAME]"
+
+#: book_instruction.txt:51
+msgid "Musings on [NAME]"
+msgstr "Reflexões Sobre [NAME]"
+
+#: book_instruction.txt:52
+msgid "My Thoughts on [NAME]"
+msgstr "Meus Pensamentos Sobre [NAME]"
+
+#: book_instruction.txt:53
+msgid "Mysteries of [NAME]"
+msgstr "Mistérios de [NAME]"
+
+#: book_instruction.txt:54
+msgid "Never Underestimate [NAME]"
+msgstr "Nunca Subestime [NAME]"
+
+#: book_instruction.txt:55
+msgid "New [NO_ART_NAME]"
+msgstr "Novo [NO_ART_NAME]"
+
+#: book_instruction.txt:56
+msgid "Of [NAME]"
+msgstr "De [NAME]"
+
+#: book_instruction.txt:57
+msgid "On [NAME]"
+msgstr "Sobre [NAME]"
+
+#: book_instruction.txt:58
+msgid "Pathways to [NAME]"
+msgstr "Caminhos para [NAME]"
+
+#: book_instruction.txt:59
+msgid "Principles of [NAME]"
+msgstr "Princípios de [NAME]"
+
+#: book_instruction.txt:60
+msgid "Question [NAME]"
+msgstr "Pergunta [NAME]"
+
+#: book_instruction.txt:61
+msgid "Questions About [NAME]"
+msgstr "Perguntas Sobre [NAME]"
+
+#: book_instruction.txt:62
+msgid "Records of [NAME]"
+msgstr "Registros de [NAME]"
+
+#: book_instruction.txt:63
+msgid "Reflections on [NAME]"
+msgstr "Reflexões Sobre [NAME]"
+
+#: book_instruction.txt:64
+msgid "Secret [NO_ART_NAME]"
+msgstr "Secreto [NO_ART_NAME]"
+
+#: book_instruction.txt:65
+msgid "Start Your Day With [NAME]"
+msgstr "Comece Seu Dia Com [NAME]"
+
+#: book_instruction.txt:66
+msgid "Strange [NO_ART_NAME]"
+msgstr "Estranho [NO_ART_NAME]"
+
+#: book_instruction.txt:67
+msgid "The Art of [NAME]"
+msgstr "A Arte de [NAME]"
+
+#: book_instruction.txt:68
+msgid "The Book of [NAME]"
+msgstr "O Livro de [NAME]"
+
+#: book_instruction.txt:69
+msgid "The Future of [NAME]"
+msgstr "O Futuro de [NAME]"
+
+#: book_instruction.txt:70
+msgid "The Great [NO_ART_NAME]"
+msgstr "O Grande [NO_ART_NAME]"
+
+#: book_instruction.txt:71
+msgid "The Hidden Meaning of [NAME]"
+msgstr "O Significado Oculto de [NAME]"
+
+#: book_instruction.txt:72
+msgid "The History of [NAME]"
+msgstr "A História de [NAME]"
+
+#: book_instruction.txt:73
+msgid "The Interpretation of [NAME]"
+msgstr "A Interpretação de [NAME]"
+
+#: book_instruction.txt:74
+msgid "The Journey into [NAME]"
+msgstr "A Jornada para [NAME]"
+
+#: book_instruction.txt:75
+msgid "The Knowledge of [NAME]"
+msgstr "O Conhecimento de [NAME]"
+
+#: book_instruction.txt:76
+msgid "The Meaning of [NAME]"
+msgstr "O Significado de [NAME]"
+
+#: book_instruction.txt:77
+msgid "The Mysteries of [NAME]"
+msgstr "Os Mistérios de [NAME]"
+
+#: book_instruction.txt:78
+msgid "The Mystery of [NAME]"
+msgstr "O Mistério de [NAME]"
+
+#: book_instruction.txt:79
+msgid "The Nuanced [NO_ART_NAME]"
+msgstr "O Nuançado [NO_ART_NAME]"
+
+#: book_instruction.txt:80
+msgid "The Possibilities of [NAME]"
+msgstr "As Possibilidades de [NAME]"
+
+#: book_instruction.txt:81
+msgid "The Pursuit of [NAME]"
+msgstr "A Busca de [NAME]"
+
+#: book_instruction.txt:82
+msgid "The Secret of [NAME]"
+msgstr "O Segredo de [NAME]"
+
+#: book_instruction.txt:83
+msgid "The Student's [NO_ART_NAME]"
+msgstr "O [NO_ART_NAME] de Estudo"
+
+#: book_instruction.txt:84
+msgid "The Study of [NAME]"
+msgstr "O Estudo de [NAME]"
+
+#: book_instruction.txt:85
+msgid "The True [NO_ART_NAME]"
+msgstr "A Verdade [NO_ART_NAME]"
+
+#: book_instruction.txt:86
+msgid "The Truth About [NAME]"
+msgstr "A Verdade Sobre [NAME]"
+
+#: book_instruction.txt:87
+msgid "The Unabridged [NO_ART_NAME]"
+msgstr "O Completo [NO_ART_NAME]"
+
+#: book_instruction.txt:88
+msgid "The Way With [NAME]"
+msgstr "O Caminho com [NAME]"
+
+#: book_instruction.txt:89
+msgid "The Wizard's Guide to [NAME]"
+msgstr "O Guia de Mágicos para [NAME]"
+
+#: book_instruction.txt:90
+msgid "The World of [NAME]"
+msgstr "O Mundo de [NAME]"
+
+#: book_instruction.txt:91
+msgid "The World Without [NAME]"
+msgstr "O Mundo Sem [NAME]"
+
+#: book_instruction.txt:92
+msgid "Thoughts on [NAME]"
+msgstr "Pensamentos Sobre [NAME]"
+
+#: book_instruction.txt:93
+msgid "Time Spent With [NAME]"
+msgstr "Tempo Gasto com [NAME]"
+
+#: book_instruction.txt:94
+msgid "Traditional [NO_ART_NAME]"
+msgstr "Tradicional [NO_ART_NAME]"
+
+#: book_instruction.txt:95
+msgid "Treatise on [NAME]"
+msgstr "Tratado Sobre [NAME]"
+
+#: book_instruction.txt:96
+msgid "True [NO_ART_NAME]"
+msgstr "Verdade [NO_ART_NAME]"
+
+#: book_instruction.txt:97
+msgid "Uncanny [NO_ART_NAME]"
+msgstr "Misterioso [NO_ART_NAME]"
+
+#: book_instruction.txt:98
+msgid "Uncovering [NAME]"
+msgstr "Descobrindo [NAME]"
+
+#: book_instruction.txt:99
+msgid "Understanding [NAME]"
+msgstr "Entendendo [NAME]"
+
+#: book_instruction.txt:100
+msgid "Unknown [NO_ART_NAME]"
+msgstr "Desconhecido [NO_ART_NAME]"
+
+#: book_instruction.txt:101
+msgid "Unusual [NO_ART_NAME]"
+msgstr "Incomum [NO_ART_NAME]"
+
+#: book_instruction.txt:102
+msgid "Useful [NO_ART_NAME]"
+msgstr "Útil [NO_ART_NAME]"
+
+#: book_instruction.txt:103
+msgid "Victory By [NAME]"
+msgstr "Vitória por [NAME]"
+
+#: book_instruction.txt:104
+msgid "[NAME] After The End"
+msgstr "[NAME] Depois do Fim"
+
+#: book_instruction.txt:105
+msgid "[NAME] and Beyond"
+msgstr "[NAME] e Além"
+
+#: book_instruction.txt:106
+msgid "[NAME] and More"
+msgstr "[NAME] e Mais"
+
+#: book_instruction.txt:107
+msgid "[NAME] and Other Topics"
+msgstr "[NAME] e Outros Tópicos"
+
+#: book_instruction.txt:108
+msgid "[NAME] and Other Travesties"
+msgstr "[NAME] e Outras Paródias"
+
+#: book_instruction.txt:109
+msgid "[NAME] and The Coming Troubles"
+msgstr "[NAME] e Os Próximos Problemas"
+
+#: book_instruction.txt:110
+msgid "[NAME] and The Universe"
+msgstr "[NAME] e O Universo"
+
+#: book_instruction.txt:111
+msgid "[NAME] Came Full Circle"
+msgstr "[NAME] Fecha o Círculo"
+
+#: book_instruction.txt:112
+msgid "[NAME] Explained"
+msgstr "[NAME] Explicado"
+
+#: book_instruction.txt:113
+msgid "[NAME] Exposed"
+msgstr "[NAME] Exposto"
+
+#: book_instruction.txt:114
+msgid "[NAME] For Everyone"
+msgstr "[NAME] Para Todos"
+
+#: book_instruction.txt:115
+msgid "[NAME] For Students"
+msgstr "[NAME] Para Estudantes"
+
+#: book_instruction.txt:116
+msgid "[NAME] For The Beginning Practitioner"
+msgstr "[NAME] Para o Praticante Iniciante"
+
+#: book_instruction.txt:117
+msgid "[NAME] In Practice"
+msgstr "[NAME] Na Prática"
+
+#: book_instruction.txt:118
+msgid "[NAME] In The Modern Era"
+msgstr "[NAME] Na Era Moderna"
+
+#: book_instruction.txt:119
+msgid "[NAME] In The Time of My Ancestors"
+msgstr "[NAME] No Tempo dos Meus Ancestrais"
+
+#: book_instruction.txt:120
+msgid "[NAME] In Theory"
+msgstr "[NAME] Em Teoria"
+
+#: book_instruction.txt:121
+msgid "[NAME] In [ANY_AGE]"
+msgstr "[NAME] em [ANY_AGE]"
+
+#: book_instruction.txt:122
+msgid "[NAME] Interpreted"
+msgstr "[NAME] Interpretado"
+
+#: book_instruction.txt:123
+msgid "[NAME] Might Help"
+msgstr "[NAME] Pode Ajudar"
+
+#: book_instruction.txt:124
+msgid "[NAME] Questioned"
+msgstr "[NAME] Questionado"
+
+#: book_instruction.txt:125
+msgid "[NAME] The Easy Way"
+msgstr "[NAME] O Caminho Mais Fácil"
+
+#: book_instruction.txt:126
+msgid "[NAME] Uncovered"
+msgstr "[NAME] Descoberto"
+
+#: book_instruction.txt:127
+msgid "[NAME] Understood"
+msgstr "[NAME] Entendido"
+
+#: book_instruction.txt:128
+msgid "[NAME] When It Counts"
+msgstr "[NAME] Quando é Preciso"
+
+#: book_instruction.txt:129
+msgid "[NAME] Within Reason"
+msgstr "[NAME] Com Razão"
+
+#: book_instruction.txt:130
+msgid "[NAME] Without Limits"
+msgstr "[NAME] Sem Limites"
+
+#: book_instruction.txt:131
+msgid "[NAME], Abridged"
+msgstr "[NAME], Resumido"
+
+#: book_instruction.txt:132
+msgid "[NAME], My Life"
+msgstr "[NAME], Minha Vida"
+
+#: book_instruction.txt:133
+msgid "[NAME], My Love"
+msgstr "[NAME], Meu Amor"
+
+#: book_instruction.txt:134
+msgid "[NAME]: A Brief History"
+msgstr "[NAME]: Uma Breve História"
+
+#: book_instruction.txt:135
+msgid "[NAME]: A Brief Introduction"
+msgstr "[NAME]: Uma Breve Introdução"
+
+#: book_instruction.txt:136
+msgid "[NAME]: A New Approach"
+msgstr "[NAME]: Uma Nova Abordagem"
+
+#: book_instruction.txt:137
+msgid "[NAME]: A Quandary"
+msgstr "[NAME]: Um Dilema"
+
+#: book_instruction.txt:138
+msgid "[NAME]: Before and After"
+msgstr "[NAME]: Antes e Depois"
+
+#: book_instruction.txt:139
+msgid "[NAME]: Common Practice"
+msgstr "[NAME]: Prática comum"
+
+#: book_instruction.txt:140
+msgid "[NAME]: Fact or Fiction?"
+msgstr "[NAME]: Fato ou Ficção?"
+
+#: book_instruction.txt:141
+msgid "[NAME]: Further Musings"
+msgstr "[NAME]: Mais Reflexões"
+
+#: book_instruction.txt:142
+msgid "[NAME]: My Only Mistake"
+msgstr "[NAME]: Meu Único Erro"
+
+#: book_instruction.txt:143
+msgid "[NAME]: Natural or Supernatural?"
+msgstr "[NAME]: Natural ou Supernatural?"
+
+#: book_instruction.txt:144
+msgid "[NAME]: Principles and Practice"
+msgstr "[NAME]: Princípios e Práticas"
+
+#: book_instruction.txt:145
+msgid "[NAME]: Problems And Solutions"
+msgstr "[NAME]: Problemas e Soluções"
+
+#: book_instruction.txt:146
+msgid "[NAME]: The Definitive Guide"
+msgstr "[NAME]: O Guia Definitivo"
+
+#: book_instruction.txt:147
+msgid "[NAME]: The Truth"
+msgstr "[NAME]: A Verdade"
+
+#: book_instruction.txt:148
+msgid "Can [NAME] Save The World?"
+msgstr "Pode [NAME] Salvar O Mundo?"
+
+#: book_instruction.txt:149
+msgid "Could It Be [NAME]?"
+msgstr "Pode Ser [NAME]?"
+
+#: book_instruction.txt:150
+msgid "Did [NAME] Falter?"
+msgstr "Fez [NAME] Gaguejar?"
+
+#: book_instruction.txt:151
+msgid "Do We Understand [NAME]?"
+msgstr "Nós Entendemos [NAME]?"
+
+#: book_instruction.txt:152
+msgid "Do You Know [NAME]?"
+msgstr "Você Conhece [NAME]?"
+
+#: book_instruction.txt:153
+msgid "First [NAME], Then The World!"
+msgstr "Primeiro [NAME], Então O Mundo!"
+
+#: book_instruction.txt:154
+msgid "The [NO_ART_NAME] Book"
+msgstr "O [NO_ART_NAME] Livro"
+
+#: book_instruction.txt:155
+msgid "To [NAME] and Glory!"
+msgstr "Para [NAME] e Glória!"
+
+#: secret_death.txt:1
+msgid "Annihilation"
+msgstr "Aniquilação"
+
+#: secret_death.txt:2
+msgid "Bereavement"
+msgstr "Luto"
+
+#: secret_death.txt:3
+msgid "Death"
+msgstr "Morte"
+
+#: secret_death.txt:4
+msgid "Demise"
+msgstr "Falecimento"
+
+#: secret_death.txt:5
+msgid "Departure"
+msgstr "Partida"
+
+#: secret_death.txt:6
+msgid "Doom"
+msgstr "Condenação"
+
+#: secret_death.txt:7
+msgid "Dying"
+msgstr "Moribundo"
+
+#: secret_death.txt:8
+msgid "Eternal Rest"
+msgstr "Descanso Eterno"
+
+#: secret_death.txt:9
+msgid "Expiration"
+msgstr "Expiração"
+
+#: secret_death.txt:10
+msgid "Extinction"
+msgstr "Extinção"
+
+#: secret_death.txt:11
+msgid "Mortality"
+msgstr "Mortalidade"
+
+#: secret_death.txt:12
+msgid "Immortality"
+msgstr "Imortalidade"
+
+#: secret_death.txt:13
+msgid "Loss"
+msgstr "Perda"
+
+#: secret_death.txt:14
+msgid "Oblivion"
+msgstr "Oblívio"
+
+#: secret_death.txt:15
+msgid "Parting"
+msgstr "Despedida"
+
+#: secret_death.txt:16
+msgid "Ruin"
+msgstr "Ruína"
+
+#: secret_death.txt:17
+msgid "Ruination"
+msgstr "Arruinado"
+
+#: secret_death.txt:18
+msgid "Sleep"
+msgstr "Dorme"
+
+#: secret_death.txt:19
+msgid "the Afterlife"
+msgstr "a Vida Após a Morte"
+
+#: secret_death.txt:20
+msgid "the End"
+msgstr "o Fim"
+
+#: secret_death.txt:21
+msgid "the Grave"
+msgstr "o Túmulo"

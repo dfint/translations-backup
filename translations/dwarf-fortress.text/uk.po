@@ -1,0 +1,775 @@
+# 
+# Translators:
+# Andrey Nazarchuk <nandrushko99@gmail.com>, 2016
+# ツァレンコ“DenTheUA”デニス <den6135484@gmail.com>, 2016
+# falcathief <falca.thief@gmail.com>, 2017
+# 6587ba24ec974dc846f14ed8a51272fc_84e2cc3 <5c861dd5ed8e18e600fe15119b7c0325_365735>, 2016
+# Viatus Cras <viatus.cras@gmail.com>, 2015
+# Андрій Фенц <fritzenco@gmail.com>, 2016
+# Илля Тараненко <arlukanist@gmail.com>, 2016
+# 6587ba24ec974dc846f14ed8a51272fc_84e2cc3 <5c861dd5ed8e18e600fe15119b7c0325_365735>, 2015
+msgid ""
+msgstr ""
+"Project-Id-Version: Dwarf Fortress\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2015-10-10 15:47+0000\n"
+"Last-Translator: falcathief <falca.thief@gmail.com>, 2017\n"
+"Language-Team: Ukrainian (http://www.transifex.com/dwarf-fortress-translation/dwarf-fortress/language/uk/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: uk\n"
+"Plural-Forms: nplurals=4; plural=(n % 1 == 0 && n % 10 == 1 && n % 100 != 11 ? 0 : n % 1 == 0 && n % 10 >= 2 && n % 10 <= 4 && (n % 100 < 12 || n % 100 > 14) ? 1 : n % 1 == 0 && (n % 10 ==0 || (n % 10 >=5 && n % 10 <=9) || (n % 100 >=11 && n % 100 <=14 )) ? 2: 3);\n"
+"X-Generator: Poedit 1.8.7\n"
+
+#: book_art.txt:4
+msgid "The [ADJ] [NO_ART_NAME]"
+msgstr "<set-form:[ADJ]> <get-form:[NO_ART_NAME]>"
+
+#: book_art.txt:6
+msgid "[NAME] and the [NOUN]"
+msgstr "[NAME] і [NOUN]"
+
+#: book_art.txt:7
+msgid "[NAME] and the [ADJ] [NOUN]"
+msgstr "[NAME] і <set-form:[ADJ]> <get-form:[NOUN]>"
+
+#: book_art.txt:8
+msgid "The [NOUN] and [NAME]"
+msgstr "[NOUN] і [NAME]"
+
+#: book_art.txt:9
+msgid "The [ADJ] [NOUN] and [NAME]"
+msgstr "<set-form:[ADJ]> <get-form:[NOUN]> і [NAME]"
+
+#: book_art.txt:11
+msgid "It Must Have Been [NAME]"
+msgstr "Це <set-form:повинен> <set-form:був> бути <get-form:[NAME]>"
+
+#: book_art.txt:12
+msgid "My Friend [NAME]"
+msgstr "Мій друг [NAME]"
+
+#: book_art.txt:13
+msgid "The Birth of [NAME]"
+msgstr "Народження <gent:[NAME]>"
+
+#: book_art.txt:14
+msgid "The Sun Sets on [NAME]"
+msgstr "Захід Сонця над <ablt:[NAME]>"
+
+#: book_art.txt:15
+msgid "We See [NAME]"
+msgstr "Ми бачимо <accs:[NAME]>"
+
+#: book_art.txt:16
+msgid "[NAME] Ever Onward"
+msgstr "[NAME]  - завжди вперед"
+
+#: book_art.txt:17
+msgid "[NAME] and Nothing More"
+msgstr "[NAME] і більше нічого"
+
+#: book_art.txt:18
+msgid "And [ANY_PRONOUN] Sang '[NAME]!'"
+msgstr "<get-form:[ANY_PRONOUN]> <set-form:співав>: 'О [NAME]!'"
+
+#: book_instruction.txt:2
+msgid "A Course on [NAME]"
+msgstr "Курс на <accs:[NAME]>"
+
+#: book_instruction.txt:3
+msgid "A Humble Offering to [NAME]"
+msgstr "Скромна пропозиція для <gent:[NAME]>"
+
+#: book_instruction.txt:4
+msgid "A Meditation on [NAME]"
+msgstr "Медитація на <accs:[NAME]>"
+
+#: book_instruction.txt:5
+msgid "A Record of [NAME]"
+msgstr "Запис <gent:[NAME]>"
+
+#: book_instruction.txt:6
+msgid "A Treatise on [NAME]"
+msgstr "Трактат про <accs:[NAME]>"
+
+#: book_instruction.txt:7
+msgid "A World of [NAME]"
+msgstr "Світ <gent:[NAME]>"
+
+#: book_instruction.txt:8
+msgid "About [NAME]"
+msgstr "Про <accs:[NAME]>"
+
+#: book_instruction.txt:9
+msgid "After [NAME]"
+msgstr "Після <gent:[NAME]>"
+
+#: book_instruction.txt:10
+msgid "Against [NAME]"
+msgstr "Проти <gent:[NAME]>"
+
+#: book_instruction.txt:11
+msgid "An Exploration of [NAME]"
+msgstr "Дослідження <gent:[NAME]>"
+
+#: book_instruction.txt:12
+msgid "An Introduction to [NAME]"
+msgstr "Вступ до <gent:[NAME]>"
+
+#: book_instruction.txt:13
+msgid "An Offering to [NAME]"
+msgstr "Пропозиція для <gent:[NAME]>"
+
+#: book_instruction.txt:14
+msgid "At One With [NAME]"
+msgstr "Наодинці з <ablt:[NAME]>"
+
+#: book_instruction.txt:15
+msgid "Before [NAME]"
+msgstr "Перед <ablt:[NAME]>"
+
+#: book_instruction.txt:16
+msgid "Better [NO_ART_NAME]"
+msgstr "Краще, ніж [NO_ART_NAME]"
+
+#: book_instruction.txt:17
+msgid "Beyond [NAME]"
+msgstr "За межами <gent:[NAME]>"
+
+#: book_instruction.txt:18
+msgid "Book of [NAME]"
+msgstr "Книга <gent:[NAME]>"
+
+#: book_instruction.txt:19
+msgid "Captivated by [NAME]"
+msgstr "Полонений <ablt:[NAME]>"
+
+#: book_instruction.txt:20
+msgid "Choose [NAME]"
+msgstr "Вибір <gent:[NAME]>"
+
+#: book_instruction.txt:21
+msgid "Classic [NO_ART_NAME]"
+msgstr "<set-form:Класичний> <get-form:[NO_ART_NAME]>"
+
+#: book_instruction.txt:22
+msgid "Commentary on [NAME]"
+msgstr "Комментарії щодо <gent:[NAME]>"
+
+#: book_instruction.txt:23
+msgid "Common Sense [NO_ART_NAME]"
+msgstr "Здоровий глузд [NO_ART_NAME]"
+
+#: book_instruction.txt:24
+msgid "Concerning [NAME]"
+msgstr "\"Щодо <gent:[NAME]>\""
+
+#: book_instruction.txt:25
+msgid "Discourse on [NAME]"
+msgstr "Міркування про <accs:[NAME]>"
+
+#: book_instruction.txt:26
+msgid "Discovering [NAME]"
+msgstr "Дослідження <gent:[NAME]>"
+
+#: book_instruction.txt:27
+msgid "Doubts About [NAME]"
+msgstr "Сумніви щодо <gent:[NAME]>"
+
+#: book_instruction.txt:28
+msgid "Dreams of [NAME]"
+msgstr "Мрії про <accs:[NAME]>"
+
+#: book_instruction.txt:29
+msgid "Elements of [NAME]"
+msgstr "Частини <gent:[NAME]>"
+
+#: book_instruction.txt:30
+msgid "Errors In [NAME]"
+msgstr "Помилки в <loct:[NAME]>"
+
+#: book_instruction.txt:31
+msgid "Exploring [NAME]"
+msgstr "Дослідження <gent:[NAME]>"
+
+#: book_instruction.txt:32
+msgid "Explorations of [NAME]"
+msgstr "\"Дослідження <gent:[NAME]>\""
+
+#: book_instruction.txt:33
+msgid "Factual [NO_ART_NAME]"
+msgstr "Факти про <accs:[NAME]>"
+
+#: book_instruction.txt:34
+msgid "For the Love of [NAME]"
+msgstr "Заради любові <gent:[NAME]>"
+
+#: book_instruction.txt:35
+msgid "Foundations of [NAME]"
+msgstr "Основи <gent:[NAME]>"
+
+#: book_instruction.txt:36
+msgid "Give Me [NAME]"
+msgstr "Дайте мені <accs,inan:[NAME]>"
+
+#: book_instruction.txt:37
+msgid "Great [NO_ART_NAME]"
+msgstr "<set-form:Великий> <get-form:[NO_ART_NAME]>"
+
+#: book_instruction.txt:38
+msgid "In Pursuit of [NAME]"
+msgstr "У пошуках <gent:[NAME]>"
+
+#: book_instruction.txt:39
+msgid "Inquiries on [NAME]"
+msgstr "\"Вивчення <gent:[NAME]>\""
+
+#: book_instruction.txt:40
+msgid "Interpretations of [NAME]"
+msgstr "\"інтерпретації <gent:[NAME]>\""
+
+#: book_instruction.txt:41
+msgid "Introduction to [NAME]"
+msgstr "Вступ до <gent:[NAME]>"
+
+#: book_instruction.txt:42
+msgid "It All Begins With [NAME]"
+msgstr "Все починається з <gent:[NAME]>"
+
+#: book_instruction.txt:43
+msgid "It Is [NAME]"
+msgstr "Це [NAME]"
+
+#: book_instruction.txt:44
+msgid "Journey to [NAME]"
+msgstr "Подорож до <gent:[NAME]>"
+
+#: book_instruction.txt:45
+msgid "Life With [NAME]"
+msgstr "Життя з <ablt:[NAME]>"
+
+#: book_instruction.txt:46
+msgid "Master of [NAME]"
+msgstr "Володар <gent:[NAME]>"
+
+#: book_instruction.txt:47
+msgid "Mastering [NAME]"
+msgstr "Опановуючи <accs:[NAME]>"
+
+#: book_instruction.txt:48
+msgid "Meditations on [NAME]"
+msgstr "Медитація на <accs:[NAME]>"
+
+#: book_instruction.txt:49
+msgid "Misconceptions About [NAME]"
+msgstr "Хибні уявлення про <accs:[NAME]>"
+
+#: book_instruction.txt:50
+msgid "More [NO_ART_NAME]"
+msgstr "Більше <gent:[NO_ART_NAME]>"
+
+#: book_instruction.txt:51
+msgid "Musings on [NAME]"
+msgstr "Роздуми про <accs:[NAME]>"
+
+#: book_instruction.txt:52
+msgid "My Thoughts on [NAME]"
+msgstr "Мої думки про <accs:[NAME]>"
+
+#: book_instruction.txt:53
+msgid "Mysteries of [NAME]"
+msgstr "\"Загадки <gent:[NAME]>\""
+
+#: book_instruction.txt:54
+msgid "Never Underestimate [NAME]"
+msgstr "Годі недооцінювати <accs:[NAME]>"
+
+#: book_instruction.txt:55
+msgid "New [NO_ART_NAME]"
+msgstr "<set-form:Новий> <get-form:[NO_ART_NAME]>"
+
+#: book_instruction.txt:56
+msgid "Of [NAME]"
+msgstr "Щодо <gent:[NAME]>"
+
+#: book_instruction.txt:57
+msgid "On [NAME]"
+msgstr "Про <accs:[NAME]>"
+
+#: book_instruction.txt:58
+msgid "Pathways to [NAME]"
+msgstr "Шляхи до <gent:[NAME]>"
+
+#: book_instruction.txt:59
+msgid "Principles of [NAME]"
+msgstr "Принципи <gent:[NAME]>"
+
+#: book_instruction.txt:60
+msgid "Question [NAME]"
+msgstr "Питання <gent:[NAME]>"
+
+#: book_instruction.txt:61
+msgid "Questions About [NAME]"
+msgstr "Питання про <accs:[NAME]>"
+
+#: book_instruction.txt:62
+msgid "Records of [NAME]"
+msgstr "Записи про <accs:[NAME]>"
+
+#: book_instruction.txt:63
+msgid "Reflections on [NAME]"
+msgstr "Міркування над <ablt:[NAME]>"
+
+#: book_instruction.txt:64
+msgid "Secret [NO_ART_NAME]"
+msgstr "<set-form:Таємний> <get-form:[NO_ART_NAME]>"
+
+#: book_instruction.txt:65
+msgid "Start Your Day With [NAME]"
+msgstr "Почніть свій день з <gent:[NAME]>"
+
+#: book_instruction.txt:66
+msgid "Strange [NO_ART_NAME]"
+msgstr "<set-form:Дивний> <get-form:[NAME]>"
+
+#: book_instruction.txt:67
+msgid "The Art of [NAME]"
+msgstr "Мистецтво <gent:[NAME]>"
+
+#: book_instruction.txt:68
+msgid "The Book of [NAME]"
+msgstr "Книга про <accs:[NAME]>"
+
+#: book_instruction.txt:69
+msgid "The Future of [NAME]"
+msgstr "Майбутнє <gent:[NAME]>"
+
+#: book_instruction.txt:70
+msgid "The Great [NO_ART_NAME]"
+msgstr "<set-form:Величний> <get-form:[NO_ART_NAME]>"
+
+#: book_instruction.txt:71
+msgid "The Hidden Meaning of [NAME]"
+msgstr "Прихованний сенс <gent:[NAME]>"
+
+#: book_instruction.txt:72
+msgid "The History of [NAME]"
+msgstr "Історія <gent:[NAME]>"
+
+#: book_instruction.txt:73
+msgid "The Interpretation of [NAME]"
+msgstr "\"Інтерпретація <gent:[NAME]>\""
+
+#: book_instruction.txt:74
+msgid "The Journey into [NAME]"
+msgstr "Подорож до <gent:[NAME]>"
+
+#: book_instruction.txt:75
+msgid "The Knowledge of [NAME]"
+msgstr "Знання про <accs:[NAME]>"
+
+#: book_instruction.txt:76
+msgid "The Meaning of [NAME]"
+msgstr "Значення <gent:[NAME]>"
+
+#: book_instruction.txt:77
+msgid "The Mysteries of [NAME]"
+msgstr "Секрети <gent:[NAME]>"
+
+#: book_instruction.txt:78
+msgid "The Mystery of [NAME]"
+msgstr "Загадка <gent:[NAME]>"
+
+#: book_instruction.txt:79
+msgid "The Nuanced [NO_ART_NAME]"
+msgstr "<set-form:Винятковий> <get-form:[NO_ART_NAME]>"
+
+#: book_instruction.txt:80
+msgid "The Possibilities of [NAME]"
+msgstr "\"Можливості <gent:[NAME]>\""
+
+#: book_instruction.txt:81
+msgid "The Pursuit of [NAME]"
+msgstr "\"Пошук <datv:[NAME]>\""
+
+#: book_instruction.txt:82
+msgid "The Secret of [NAME]"
+msgstr "Таємниця <gent:[NAME]>"
+
+#: book_instruction.txt:83
+msgid "The Student's [NO_ART_NAME]"
+msgstr "[NO_ART_NAME] учня"
+
+#: book_instruction.txt:84
+msgid "The Study of [NAME]"
+msgstr "Навчання <gent:[NAME]>"
+
+#: book_instruction.txt:85
+msgid "The True [NO_ART_NAME]"
+msgstr "\"<set-form:Істинний> <get-form:[NO_ART_NAME]>\""
+
+#: book_instruction.txt:86
+msgid "The Truth About [NAME]"
+msgstr "Правда про <accs:[NAME]>"
+
+#: book_instruction.txt:87
+msgid "The Unabridged [NO_ART_NAME]"
+msgstr "\"<set-form:Повний> <get-form:[NO_ART_NAME]>\""
+
+#: book_instruction.txt:88
+msgid "The Way With [NAME]"
+msgstr "Шлях разом з <ablt:[NAME]>"
+
+#: book_instruction.txt:89
+msgid "The Wizard's Guide to [NAME]"
+msgstr "Посібник майстра з <gent:[NAME]>"
+
+#: book_instruction.txt:90
+msgid "The World of [NAME]"
+msgstr "Світ <gent:[NAME]>"
+
+#: book_instruction.txt:91
+msgid "The World Without [NAME]"
+msgstr "Світ без <gent:[NAME]>"
+
+#: book_instruction.txt:92
+msgid "Thoughts on [NAME]"
+msgstr "Думки про <accs:[NAME]>"
+
+#: book_instruction.txt:93
+msgid "Time Spent With [NAME]"
+msgstr "Час проведений з <ablt:[NAME]>"
+
+#: book_instruction.txt:94
+msgid "Traditional [NO_ART_NAME]"
+msgstr "<set-form:Традиційний> <get-form:[NO_ART_NAME]>"
+
+#: book_instruction.txt:95
+msgid "Treatise on [NAME]"
+msgstr "Трактат про <accs:[NAME]>"
+
+#: book_instruction.txt:96
+msgid "True [NO_ART_NAME]"
+msgstr "\"<set-form:Справжній> <get-form:[NO_ART_NAME]>\""
+
+#: book_instruction.txt:97
+msgid "Uncanny [NO_ART_NAME]"
+msgstr "<set-form:Надзвичайний> <get-form:[NAME]>"
+
+#: book_instruction.txt:98
+msgid "Uncovering [NAME]"
+msgstr "Розкриття <gent:[NAME]>"
+
+#: book_instruction.txt:99
+msgid "Understanding [NAME]"
+msgstr "Розуміння <gent:[NAME]>"
+
+#: book_instruction.txt:100
+msgid "Unknown [NO_ART_NAME]"
+msgstr "<set-form:Невідомий> <get-form:[NO_ART_NAME]>"
+
+#: book_instruction.txt:101
+msgid "Unusual [NO_ART_NAME]"
+msgstr "\"<set-form:Незвичайний> <get-form:[NO_ART_NAME]>\""
+
+#: book_instruction.txt:102
+msgid "Useful [NO_ART_NAME]"
+msgstr "\"<set-form:Корисний> <get-form:[NO_ART_NAME]>\""
+
+#: book_instruction.txt:103
+msgid "Victory By [NAME]"
+msgstr "Перемога <gent:[NAME]>"
+
+#: book_instruction.txt:104
+msgid "[NAME] After The End"
+msgstr "[NAME] по закінченні"
+
+#: book_instruction.txt:105
+msgid "[NAME] and Beyond"
+msgstr "[NAME] і не тільки"
+
+#: book_instruction.txt:106
+msgid "[NAME] and More"
+msgstr "[NAME] і ще більше"
+
+#: book_instruction.txt:107
+msgid "[NAME] and Other Topics"
+msgstr "[NAME] та інші теми"
+
+#: book_instruction.txt:108
+msgid "[NAME] and Other Travesties"
+msgstr "[NAME] та інші пародії"
+
+#: book_instruction.txt:109
+msgid "[NAME] and The Coming Troubles"
+msgstr "[NAME] і майбутні труднощі"
+
+#: book_instruction.txt:110
+msgid "[NAME] and The Universe"
+msgstr "[NAME] і Всесвіт"
+
+#: book_instruction.txt:111
+msgid "[NAME] Came Full Circle"
+msgstr "[NAME] повертається на круги своя"
+
+#: book_instruction.txt:112
+msgid "[NAME] Explained"
+msgstr "Роз'яснення щодо <gent:[NAME]>"
+
+#: book_instruction.txt:113
+msgid "[NAME] Exposed"
+msgstr "Розкриття <gent:[NAME]>"
+
+#: book_instruction.txt:114
+msgid "[NAME] For Everyone"
+msgstr "[NAME] для всіх"
+
+#: book_instruction.txt:115
+msgid "[NAME] For Students"
+msgstr "[NAME] для учнів"
+
+#: book_instruction.txt:116
+msgid "[NAME] For The Beginning Practitioner"
+msgstr "[NAME] для початківців"
+
+#: book_instruction.txt:117
+msgid "[NAME] In Practice"
+msgstr "[NAME] на практиці"
+
+#: book_instruction.txt:118
+msgid "[NAME] In The Modern Era"
+msgstr "[NAME] в наші часи"
+
+#: book_instruction.txt:119
+msgid "[NAME] In The Time of My Ancestors"
+msgstr "[NAME] за часів моїх пращурів"
+
+#: book_instruction.txt:120
+msgid "[NAME] In Theory"
+msgstr "[NAME] у теорії"
+
+#: book_instruction.txt:121
+msgid "[NAME] In [ANY_AGE]"
+msgstr "[NAME] в часи <gent:[ANY_AGE]>"
+
+#: book_instruction.txt:122
+msgid "[NAME] Interpreted"
+msgstr "Тлумачення <gent:[NAME]>"
+
+#: book_instruction.txt:123
+msgid "[NAME] Might Help"
+msgstr "[NAME] може допомогти"
+
+#: book_instruction.txt:124
+msgid "[NAME] Questioned"
+msgstr "[NAME] під питанням"
+
+#: book_instruction.txt:125
+msgid "[NAME] The Easy Way"
+msgstr "[NAME] - легкий шлях"
+
+#: book_instruction.txt:126
+msgid "[NAME] Uncovered"
+msgstr "<get-form:[NAME]> <set-form:розкритий>"
+
+#: book_instruction.txt:127
+msgid "[NAME] Understood"
+msgstr "Розуміння <gent:[NAME]>"
+
+#: book_instruction.txt:128
+msgid "[NAME] When It Counts"
+msgstr "[NAME] коли це важливо"
+
+#: book_instruction.txt:129
+msgid "[NAME] Within Reason"
+msgstr "[NAME] у межах розумного"
+
+#: book_instruction.txt:130
+msgid "[NAME] Without Limits"
+msgstr "[NAME] без меж"
+
+#: book_instruction.txt:131
+msgid "[NAME], Abridged"
+msgstr "[NAME], стисло"
+
+#: book_instruction.txt:132
+msgid "[NAME], My Life"
+msgstr "[NAME], моє життя"
+
+#: book_instruction.txt:133
+msgid "[NAME], My Love"
+msgstr "[NAME], моя любов"
+
+#: book_instruction.txt:134
+msgid "[NAME]: A Brief History"
+msgstr "[NAME]: коротка історія"
+
+#: book_instruction.txt:135
+msgid "[NAME]: A Brief Introduction"
+msgstr "[NAME]: коротке ознайомлення"
+
+#: book_instruction.txt:136
+msgid "[NAME]: A New Approach"
+msgstr "[NAME]: новий підхід"
+
+#: book_instruction.txt:137
+msgid "[NAME]: A Quandary"
+msgstr "[NAME]: скрута"
+
+#: book_instruction.txt:138
+msgid "[NAME]: Before and After"
+msgstr "[NAME]: до і після"
+
+#: book_instruction.txt:139
+msgid "[NAME]: Common Practice"
+msgstr "[NAME]: загальний ужиток"
+
+#: book_instruction.txt:140
+msgid "[NAME]: Fact or Fiction?"
+msgstr "[NAME]: правда чи вигадка?"
+
+#: book_instruction.txt:141
+msgid "[NAME]: Further Musings"
+msgstr "[NAME]: подальші роздуми"
+
+#: book_instruction.txt:142
+msgid "[NAME]: My Only Mistake"
+msgstr "[NAME]: моя єдина помилка"
+
+#: book_instruction.txt:143
+msgid "[NAME]: Natural or Supernatural?"
+msgstr "[NAME]: природний чи надприродний?"
+
+#: book_instruction.txt:144
+msgid "[NAME]: Principles and Practice"
+msgstr "[NAME]: теорія та практика"
+
+#: book_instruction.txt:145
+msgid "[NAME]: Problems And Solutions"
+msgstr "[NAME]: проблеми та рішення"
+
+#: book_instruction.txt:146
+msgid "[NAME]: The Definitive Guide"
+msgstr "[NAME]: повний посібник"
+
+#: book_instruction.txt:147
+msgid "[NAME]: The Truth"
+msgstr "[NAME]: уся правда"
+
+#: book_instruction.txt:148
+msgid "Can [NAME] Save The World?"
+msgstr "Чи може [NAME] врятувати світ?"
+
+#: book_instruction.txt:149
+msgid "Could It Be [NAME]?"
+msgstr "Чи може це бути [NAME]?"
+
+#: book_instruction.txt:150
+msgid "Did [NAME] Falter?"
+msgstr "Чи <set-form:вагався> <get-form:[NAME]>?"
+
+#: book_instruction.txt:151
+msgid "Do We Understand [NAME]?"
+msgstr "Чи розуміємо ми <accs:[NAME]>?"
+
+#: book_instruction.txt:152
+msgid "Do You Know [NAME]?"
+msgstr "Ти знаєш <accs:[NAME]>?"
+
+#: book_instruction.txt:153
+msgid "First [NAME], Then The World!"
+msgstr "Спочатку [NAME], згодом увесь світ!"
+
+#: book_instruction.txt:154
+msgid "The [NO_ART_NAME] Book"
+msgstr "Книга <gent:[NO_ART_NAME]>"
+
+#: book_instruction.txt:155
+msgid "To [NAME] and Glory!"
+msgstr "За <accs:[NAME]> і славу!"
+
+#: secret_death.txt:1
+msgid "Annihilation"
+msgstr "Анігіляція"
+
+#: secret_death.txt:2
+msgid "Bereavement"
+msgstr "Тяжка втрата"
+
+#: secret_death.txt:3
+msgid "Death"
+msgstr "Смерть"
+
+#: secret_death.txt:4
+msgid "Demise"
+msgstr "Загибель"
+
+#: secret_death.txt:5
+msgid "Departure"
+msgstr "Відхід"
+
+#: secret_death.txt:6
+msgid "Doom"
+msgstr "Загибель"
+
+#: secret_death.txt:7
+msgid "Dying"
+msgstr "Умирання"
+
+#: secret_death.txt:8
+msgid "Eternal Rest"
+msgstr "Вічній покій"
+
+#: secret_death.txt:9
+msgid "Expiration"
+msgstr "Закінчення"
+
+#: secret_death.txt:10
+msgid "Extinction"
+msgstr "Вимирання"
+
+#: secret_death.txt:11
+msgid "Mortality"
+msgstr "Смертність"
+
+#: secret_death.txt:12
+msgid "Immortality"
+msgstr "Безсмертя"
+
+#: secret_death.txt:13
+msgid "Loss"
+msgstr "Втрата"
+
+#: secret_death.txt:14
+msgid "Oblivion"
+msgstr "Забуття"
+
+#: secret_death.txt:15
+msgid "Parting"
+msgstr "Розставання"
+
+#: secret_death.txt:16
+msgid "Ruin"
+msgstr "Руїни"
+
+#: secret_death.txt:17
+msgid "Ruination"
+msgstr "Крах"
+
+#: secret_death.txt:18
+msgid "Sleep"
+msgstr "Сон"
+
+#: secret_death.txt:19
+msgid "the Afterlife"
+msgstr "Потойбічне життя"
+
+#: secret_death.txt:20
+msgid "the End"
+msgstr "Кінець"
+
+#: secret_death.txt:21
+msgid "the Grave"
+msgstr "Могила"

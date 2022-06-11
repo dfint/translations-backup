@@ -1,0 +1,717 @@
+# 
+# Translators:
+# Igor “VeTeRo4ek” Huhro <igor011055@gmail.com>, 2015
+# insolor, 2015-2016
+# Vlas Kapuza <vlas_kapuza13@mail.ru>, 2018
+# Александр Азаров <justlucik@gmail.com>, 2017
+# Андрей Аристархов <andrey.aristarhov.yt@gmail.com>, 2018
+# Валентин Застрожный <zastrozhnyy@gmail.com>, 2015
+# Вячеслав <miru2b@gmail.com>, 2016
+# Евгений Hilden <Geckasith@rambler.ru>, 2015
+# Tentrill (Kakoi to chelovechek) <kakoi.to.chelovechek@gmail.com>, 2015
+# николай тихомиров <nikolai.tamb@gmail.com>, 2016
+msgid ""
+msgstr ""
+"Project-Id-Version: Dwarf Fortress\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2015-09-19 23:35+0000\n"
+"Last-Translator: Андрей Аристархов <andrey.aristarhov.yt@gmail.com>, 2018\n"
+"Language-Team: Russian (http://www.transifex.com/dwarf-fortress-translation/dwarf-fortress/language/ru/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ru\n"
+"Plural-Forms: nplurals=4; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<12 || n%100>14) ? 1 : n%10==0 || (n%10>=5 && n%10<=9) || (n%100>=11 && n%100<=14)? 2 : 3);\n"
+"X-Generator: Poedit 1.8.4\n"
+
+#: ab_specific_hf_seeker.txt:0
+msgid ""
+"seek out [CONTEXT:HIST_FIG:TRANS_NAME] at "
+"[CONTEXT:ABSTRACT_BUILDING:TRANS_NAME] over in [CONTEXT:SITE:TRANS_NAME]"
+msgstr "найдите [CONTEXT:HIST_FIG:TRANS_NAME] в [CONTEXT:SITE:TRANS_NAME] в [CONTEXT:ABSTRACT_BUILDING:TRANS_NAME]"
+
+#: animal_slayer.txt:0
+msgid ""
+"I have taken down [CONTEXT:NUMBER] [CONTEXT:RACE:NUMBERED_NAME] while "
+"stalking [CONTEXT:PLACE:TRANS_NAME]."
+msgstr "Я убил [CONTEXT:NUMBER] [CONTEXT:RACE:NUMBERED_NAME], пока путешествовал по [CONTEXT:PLACE:TRANS_NAME]."
+
+#: arch_info_justification.txt:0
+msgid ""
+"It is said that the [CONTEXT:ARCH_ELEMENT] of "
+"[CONTEXT:ABSTRACT_BUILDING:TRANS_NAME] [CONTEXT:JUSTIFICATION] "
+"[CONTEXT:DEF_SPHERE] for the glory of [CONTEXT:HIST_FIG:TRANS_NAME]."
+msgstr "Здесь сказано, что [CONTEXT:ARCH_ELEMENT] от [CONTEXT:ABSTRACT_BUILDING:TRANS_NAME] [CONTEXT:JUSTIFICATION] [CONTEXT:DEF_SPHERE] в честь [CONTEXT:HIST_FIG:TRANS_NAME]."
+
+#: child_age_proclamation.txt:0
+msgid "I'm [CONTEXT:NUMBER]!"
+msgstr "Мне [CONTEXT:NUMBER] лет!"
+
+#: current_profession_no_year.txt:0
+msgid "I am a [CONTEXT:UNIT_NAME]."
+msgstr "Я [CONTEXT:UNIT_NAME]."
+
+#: current_profession_year.txt:0
+msgid "This is my [CONTEXT:ORDINAL] year as a [CONTEXT:UNIT_NAME]."
+msgstr "Вот уже [CONTEXT:ORDINAL] лет я [CONTEXT:UNIT_NAME]."
+
+#: curse.txt:0
+msgid "Who dares to enter my house?  I curse you!"
+msgstr "Кто посмел войти в мой дом? Будь ты проклят!"
+
+#: dwarf.txt:0
+msgid "who was too short to live"
+msgstr "который слишком низок, чтобы жить"
+
+#: dwarf.txt:1
+msgid "who tunneled away from me like a frightened mole"
+msgstr "который зарылся в землю, словно трусливый крот"
+
+#: dwarf.txt:2
+msgid "who sucked plump helmets like a purring maggot"
+msgstr "который сосёт толстошлемники, словно урчащая личинка"
+
+#: dwarf.txt:3
+msgid "whose hammer shattered on the anvil of my power"
+msgstr "чей молот разбился о наковальню моей воли"
+
+#: dwarf.txt:4
+msgid "who forged [PRO_POS] own doom by challenging me"
+msgstr "который только обрёк себя на гибель, бросив мне вызов"
+
+#: dwarf.txt:5
+msgid "who was returned to the rock and muck from which it was spawned"
+msgstr "который вернулся в камень и грязь, его породившие"
+
+#: dwarf.txt:6
+msgid ""
+"whose tall tales of bravery were all the more embarrassing because of "
+"[PRO_POS] height"
+msgstr "чьи небылицы о храбрости выглядят еще более нелепыми из-за [PRO_POS] роста "
+
+#: elf.txt:0
+msgid "who was felled like a slender sapling"
+msgstr "который был срублен, как стройный саженец"
+
+#: elf.txt:1
+msgid "whom I sent back to the home-tree as fertilizer"
+msgstr "которого я отправил обратно на домашнее дерево в качестве удобрения"
+
+#: elf.txt:2
+msgid "whose fragile bones shattered before the power of my contempt"
+msgstr "чьи хрупкие кости разрушились перед силой моего презрения"
+
+#: elf.txt:3
+msgid "who came down from the home-tree and was devoured"
+msgstr "который спустился с домашнего дерева и был поглощен"
+
+#: elf.txt:4
+msgid ""
+"who should have stayed in the trees when the real elves came down to fight"
+msgstr "кто должен был остаться на деревьях, когда настоящие эльфы спустились, чтобы сражаться"
+
+#: family_relationship_additional.txt:0
+msgid "[CONTEXT:HIST_FIG:PRO_SUB] is also my [CONTEXT:FAMILY_RELATIONSHIP]"
+msgstr "[CONTEXT:HIST_FIG:PRO_SUB] - это тоже мой [CONTEXT:FAMILY_RELATIONSHIP]"
+
+#: family_relationship_additional_dead.txt:0
+msgid "[CONTEXT:HIST_FIG:PRO_SUB] was also my [CONTEXT:FAMILY_RELATIONSHIP]"
+msgstr "[CONTEXT:HIST_FIG:PRO_SUB] тоже был моим [CONTEXT:FAMILY_RELATIONSHIP]"
+
+#: family_relationship_no_spec.txt:0
+msgid ""
+"I have [CONTEXT:INDEF_FAMILY_RELATIONSHIP] named "
+"[CONTEXT:HIST_FIG:TRANS_NAME]"
+msgstr "У меня есть [CONTEXT:INDEF_FAMILY_RELATIONSHIP] по имени [CONTEXT:HIST_FIG:TRANS_NAME]"
+
+#: family_relationship_no_spec_dead.txt:0
+msgid ""
+"I had [CONTEXT:INDEF_FAMILY_RELATIONSHIP] named "
+"[CONTEXT:HIST_FIG:TRANS_NAME]"
+msgstr "У меня был [CONTEXT:INDEF_FAMILY_RELATIONSHIP] по имени [CONTEXT:HIST_FIG:TRANS_NAME]"
+
+#: family_relationship_spec.txt:0
+msgid ""
+"my [CONTEXT:FAMILY_RELATIONSHIP] is named [CONTEXT:HIST_FIG:TRANS_NAME]"
+msgstr "моего [CONTEXT:FAMILY_RELATIONSHIP] зовут [CONTEXT:HIST_FIG:TRANS_NAME]"
+
+#: family_relationship_spec_dead.txt:0
+msgid ""
+"my [CONTEXT:FAMILY_RELATIONSHIP] was named [CONTEXT:HIST_FIG:TRANS_NAME]"
+msgstr "моего [CONTEXT:FAMILY_RELATIONSHIP] звали [CONTEXT:HIST_FIG:TRANS_NAME]"
+
+#: general.txt:0
+msgid "whose cries for mercy went unheeded by my wrath"
+msgstr "чья мольба о пощаде была не замечена мной"
+
+#: general.txt:1
+msgid "whose insignificant name I struggle to recall"
+msgstr "чье жалкое имя я с трудом вспоминаю"
+
+#: general.txt:2
+msgid "a spineless slug who was crushed under my might"
+msgstr "бесхребетный слизняк, раздавленный моей мощью"
+
+#: general.txt:3
+msgid "whom I buried alive under a mountain of hatred"
+msgstr "который был погребён заживо под горой моей ненависти"
+
+#: general.txt:4
+msgid "who lies dead, now only an embarrassing memory"
+msgstr "который был повержен, и теперь только изредка тревожит мою память"
+
+#: general.txt:5
+msgid "who sought my praise, only to be rejected in death"
+msgstr "который искал моей похвалы, только чтобы избежать смерти"
+
+#: general.txt:6
+msgid "once revered by those who didn't know any better"
+msgstr "почитаем только теми, кто не знает никого лучше"
+
+#: goodbye_worship_1.txt:0
+msgid "upon arising in the mornings,"
+msgstr "с приходом утра,"
+
+#: goodbye_worship_1.txt:1
+msgid "when going on a long journey,"
+msgstr "в долгом пути,"
+
+#: goodbye_worship_1.txt:2
+msgid "before retiring in the evening,"
+msgstr "перед тем, как отойти ко сну,"
+
+#: goodbye_worship_1.txt:3
+msgid "as sure as I am here now,"
+msgstr "так же ясно, как будто это было вчера,"
+
+#: goodbye_worship_1.txt:4
+msgid "and lo,"
+msgstr "и вот,"
+
+#: goodbye_worship_1.txt:5
+msgid "it cannot be said enough;"
+msgstr "нечего толком сказать;"
+
+#: goodbye_worship_1.txt:6
+msgid "these are dangerous times, so"
+msgstr "это было тревожное время, поэтому"
+
+#: goodbye_worship_1.txt:7
+msgid "I say again"
+msgstr "я повторяю"
+
+#: goodbye_worship_1.txt:8
+msgid "yes,"
+msgstr "да,"
+
+#: goodbye_worship_1.txt:9
+msgid "before every meal,"
+msgstr "перед трапезой,"
+
+#: goodbye_worship_1.txt:10
+msgid "whenever the tide turns,"
+msgstr "когда изменится ход событий,"
+
+#: goodbye_worship_1.txt:11
+msgid "when you return to this place,"
+msgstr "когда вы вернетесь сюда,"
+
+#: goodbye_worship_1.txt:12
+msgid "when you arrive at your destination,"
+msgstr "когда вы достигнете вашей цели,"
+
+#: goodbye_worship_1.txt:13
+msgid "at this juncture in your life,"
+msgstr "в данный момент вашей жизни,"
+
+#: goodbye_worship_2.txt:0
+msgid "don't forget to"
+msgstr "не забудьте"
+
+#: goodbye_worship_2.txt:1
+msgid "always remember to"
+msgstr "всегда помните о том, чтобы"
+
+#: goodbye_worship_2.txt:2
+msgid "it would be wise to"
+msgstr "было бы мудро с вашей стороны"
+
+#: goodbye_worship_2.txt:3
+msgid "you should"
+msgstr "вам следует"
+
+#: goodbye_worship_2.txt:4
+msgid "you must"
+msgstr "вы должны"
+
+#: goodbye_worship_2.txt:5
+msgid "prudence demands that you"
+msgstr "было бы благоразумно, если бы вы"
+
+#: goodbye_worship_2.txt:6
+msgid "even for a moment"
+msgstr "даже на мгновенье"
+
+#: goodbye_worship_2.txt:7
+msgid "follow my advice and"
+msgstr "следуйте моему совету, и"
+
+#: goodbye_worship_2.txt:8
+msgid "heed my words and"
+msgstr "прислушайтесь к моим словам, и"
+
+#: goodbye_worship_2.txt:9
+msgid "remember to"
+msgstr "не забудьте"
+
+#: goodbye_worship_2.txt:10
+msgid "show devotion and"
+msgstr "выкажите преданность, и"
+
+#: goodbye_worship_3.txt:0
+msgid "speak the praises of [SPEAKER:HF_LINK:DEITY:TRANS_NAME]"
+msgstr "вознесите хвалу [SPEAKER:HF_LINK:DEITY:TRANS_NAME]"
+
+#: goodbye_worship_3.txt:1
+msgid "speak the praises of [SPEAKER:HF_LINK:DEITY:RANDOM_DEF_SPHERE]"
+msgstr "вознесите хвалу [SPEAKER:HF_LINK:DEITY:RANDOM_DEF_SPHERE]"
+
+#: goodbye_worship_3.txt:2
+msgid "go with [SPEAKER:HF_LINK:DEITY:TRANS_NAME]"
+msgstr "ступайте с [SPEAKER:HF_LINK:DEITY:TRANS_NAME]"
+
+#: goodbye_worship_3.txt:3
+msgid "go with [SPEAKER:HF_LINK:DEITY:RANDOM_DEF_SPHERE]"
+msgstr "ступайте с [SPEAKER:HF_LINK:DEITY:RANDOM_DEF_SPHERE]"
+
+#: goodbye_worship_3.txt:4
+msgid "put your faith in [SPEAKER:HF_LINK:DEITY:TRANS_NAME]"
+msgstr "верьте [SPEAKER:HF_LINK:DEITY:TRANS_NAME]"
+
+#: goodbye_worship_3.txt:5
+msgid "put your faith in [SPEAKER:HF_LINK:DEITY:RANDOM_DEF_SPHERE]"
+msgstr "верьте [SPEAKER:HF_LINK:DEITY:RANDOM_DEF_SPHERE]"
+
+#: goodbye_worship_3.txt:6
+msgid "experience [SPEAKER:HF_LINK:DEITY:TRANS_NAME]"
+msgstr "ощутите присутствие [SPEAKER:HF_LINK:DEITY:TRANS_NAME]"
+
+#: goodbye_worship_3.txt:7
+msgid "experience [SPEAKER:HF_LINK:DEITY:RANDOM_DEF_SPHERE]"
+msgstr "ощутите присутствие [SPEAKER:HF_LINK:DEITY:RANDOM_DEF_SPHERE]"
+
+#: goodbye_worship_3.txt:8
+msgid "consider [SPEAKER:HF_LINK:DEITY:TRANS_NAME]"
+msgstr "чтите [SPEAKER:HF_LINK:DEITY:TRANS_NAME]"
+
+#: goodbye_worship_3.txt:9
+msgid "consider [SPEAKER:HF_LINK:DEITY:RANDOM_DEF_SPHERE]"
+msgstr "чтите [SPEAKER:HF_LINK:DEITY:RANDOM_DEF_SPHERE]"
+
+#: goodbye_worship_3.txt:10
+msgid "give yourself to [SPEAKER:HF_LINK:DEITY:TRANS_NAME]"
+msgstr "посвятите себя [SPEAKER:HF_LINK:DEITY:TRANS_NAME]"
+
+#: goodbye_worship_3.txt:11
+msgid "give yourself to [SPEAKER:HF_LINK:DEITY:RANDOM_DEF_SPHERE]"
+msgstr "посвятите себя [SPEAKER:HF_LINK:DEITY:RANDOM_DEF_SPHERE]"
+
+#: greet.txt:0
+msgid "Greetings.  My name is [SPEAKER:TRANS_NAME]."
+msgstr "Приветствую.  Меня зовут [SPEAKER:TRANS_NAME]."
+
+#: greet_baby.txt:0
+msgid "Hellooo!"
+msgstr "Приве-е-ет!"
+
+#: greet_baby.txt:1
+msgid "Look at you!"
+msgstr "Посмотри-ка!"
+
+#: greet_baby.txt:2
+msgid "A baby!  How adorable!"
+msgstr "Какой милый малыш!"
+
+#: greet_reply.txt:0
+msgid "Ah, hello.  I'm [SPEAKER:TRANS_NAME]."
+msgstr "О, здравствуйте. Меня зовут [SPEAKER:TRANS_NAME]."
+
+#: greet_reply_after_hero.txt:0
+msgid "I am [SPEAKER:TRANS_NAME].  Can I be of some help?"
+msgstr "Меня зовут [SPEAKER:TRANS_NAME]. Чем я могу вам помочь?"
+
+#: greet_reply_after_hero.txt:1
+msgid "I am [SPEAKER:TRANS_NAME].  How can I be of service?"
+msgstr "Меня зовут [SPEAKER:TRANS_NAME].  Чем я могу служить?"
+
+#: greet_reply_diff_language.txt:0
+msgid "Hello, [AUDIENCE:RACE].  I am [SPEAKER:TRANS_NAME]."
+msgstr "Здравствуй, [AUDIENCE:RACE].  Меня зовут [SPEAKER:TRANS_NAME]."
+
+#: greet_reply_unusual_first.txt:0
+msgid "[AUDIENCE:FIRST_NAME]...  your parents must have been interesting!"
+msgstr "[AUDIENCE:FIRST_NAME]...  ваши родители, должно быть, затейники!"
+
+#: greet_reply_unusual_first.txt:1
+msgid ""
+"You know, you don't meet many people with the name [AUDIENCE:FIRST_NAME]."
+msgstr "Нечасто встретишь существ с именем [AUDIENCE:FIRST_NAME]."
+
+#: greet_reply_unusual_first.txt:2
+msgid "So, [AUDIENCE:FIRST_NAME]...   [AUDIENCE:FIRST_NAME], was it?"
+msgstr "Итак, [AUDIENCE:FIRST_NAME]...   [AUDIENCE:FIRST_NAME], правильно?"
+
+#: greet_reply_unusual_first.txt:3
+msgid "[AUDIENCE:FIRST_NAME].  Does that mean something?"
+msgstr "[AUDIENCE:FIRST_NAME]...  Это что-нибудь означает?"
+
+#: greet_reply_unusual_first.txt:4
+msgid "[AUDIENCE:FIRST_NAME].  I can't say I've heard that before."
+msgstr "[AUDIENCE:FIRST_NAME]...  Не слышал раньше таких имен."
+
+#: greet_worship.txt:0
+msgid "Praise be to [SPEAKER:HF_LINK:DEITY:TRANS_NAME]."
+msgstr "Вознесём хвалу [SPEAKER:HF_LINK:DEITY:TRANS_NAME]."
+
+#: greet_worship.txt:1
+msgid "Praise [SPEAKER:HF_LINK:DEITY:RANDOM_DEF_SPHERE]."
+msgstr "Хвала [SPEAKER:HF_LINK:DEITY:RANDOM_DEF_SPHERE]."
+
+#: greet_worship.txt:2
+msgid "Life is, in a word, [SPEAKER:HF_LINK:DEITY:RANDOM_DEF_SPHERE]."
+msgstr "Одним словом, жизнь - это [SPEAKER:HF_LINK:DEITY:RANDOM_DEF_SPHERE]."
+
+#: greet_worship.txt:3
+msgid "This servant of [SPEAKER:HF_LINK:DEITY:TRANS_NAME] greets you."
+msgstr "Служитель [SPEAKER:HF_LINK:DEITY:TRANS_NAME] привествует вас."
+
+#: greet_worship.txt:4
+msgid "This servant of [SPEAKER:HF_LINK:DEITY:RANDOM_DEF_SPHERE] greets you."
+msgstr "Служитель [SPEAKER:HF_LINK:DEITY:RANDOM_DEF_SPHERE] приветствует вас."
+
+#: guard_profession.txt:0
+msgid "I am a guard."
+msgstr "Я страж."
+
+#: guard_warning.txt:0
+msgid "Don't start any trouble."
+msgstr "Не создавайте проблем."
+
+#: hist_fig_slayer.txt:0
+msgid ""
+"It is I that felled [CONTEXT:HIST_FIG:TRANS_NAME] the "
+"[CONTEXT:HIST_FIG:RACE]."
+msgstr "Я тот, кто поверг [CONTEXT:HIST_FIG:RACE] по имени [CONTEXT:HIST_FIG:TRANS_NAME]."
+
+#: hunting_profession.txt:0
+msgid "I hunt great beasts in [CONTEXT:PLACE:TRANS_NAME]."
+msgstr "Я охотился на чудовищ в [CONTEXT:PLACE:TRANS_NAME]."
+
+#: hunting_profession_year.txt:0
+msgid ""
+"I have hunted great beasts in [CONTEXT:PLACE:TRANS_NAME] for "
+"[CONTEXT:NUMBER] of my years."
+msgstr "Я охочусь на чудовищ в [CONTEXT:PLACE:TRANS_NAME] в течение [CONTEXT:NUMBER] лет."
+
+#: justification_antithetical.txt:0
+msgid "can be thought of as the antithesis of"
+msgstr " - полная противоположность"
+
+#: justification_experience.txt:0
+msgid "can allow one to experience"
+msgstr "позволяет ощутить"
+
+#: justification_proximity.txt:0
+msgid "can bring one near to"
+msgstr "позволяет приблизиться"
+
+#: justification_reminder.txt:0
+msgid "can remind one of"
+msgstr "напоминает одного из"
+
+#: justification_representation.txt:0
+msgid "can be thought of as a representation of"
+msgstr "можно представить как"
+
+#: lair_hunter_minotaur.txt:0
+msgid "I want your bones for my bone mill!"
+msgstr "Я сотру твои кости в муку!"
+
+#: lair_hunter_minotaur.txt:1
+msgid "I'll grind you into porridge!"
+msgstr "Я сотру тебя в порошок!"
+
+#: lair_hunter_minotaur.txt:2
+msgid "I'll eat you whole!"
+msgstr "Я сожру тебя целиком!"
+
+#: mercenary_profession.txt:0
+msgid ""
+"I seek fortune and glory by offering my skill at arms in "
+"[CONTEXT:PLACE:TRANS_NAME]."
+msgstr "Я ищу удачи и славы, предлагая свои услуги в [CONTEXT:PLACE:TRANS_NAME]."
+
+#: mercenary_profession_year.txt:0
+msgid ""
+"I have sought fortune and glory by offering my skill at arms in "
+"[CONTEXT:PLACE:TRANS_NAME] for [CONTEXT:NUMBER] of my years."
+msgstr "Я ищу удачи и славы в [CONTEXT:PLACE:TRANS_NAME] вот уже [CONTEXT:NUMBER] лет."
+
+#: no_family.txt:0
+msgid "I have no family to speak of"
+msgstr "У меня нет родственников, о которых стоило бы упомянуть"
+
+#: past_hunting_profession.txt:0
+msgid "In the past, I hunted great beasts."
+msgstr "В прошлом я охотился на чудовищ."
+
+#: past_hunting_profession.txt:1
+msgid "I was a hunter of mighty beasts for [CONTEXT:NUMBER] of my years."
+msgstr "Я охотился на чудовищ [CONTEXT:NUMBER] лет."
+
+#: past_mercenary_profession.txt:0
+msgid "In the past, I sought fortune and glory by offering my skill at arms."
+msgstr "В прошлом я искал удачи и славы, предлагая своё искусство владения оружием."
+
+#: past_mercenary_profession.txt:1
+msgid ""
+"I sought fortune and glory by offering my skill at arms for [CONTEXT:NUMBER]"
+" of my years."
+msgstr "Я искал удачи и славы, предлагая своё искусство владения оружием в течение [CONTEXT:NUMBER] лет."
+
+#: past_profession_no_year.txt:0
+msgid "I was once a [CONTEXT:UNIT_NAME]."
+msgstr "Когда-то я был [CONTEXT:UNIT_NAME]."
+
+#: past_profession_year.txt:0
+msgid ""
+"I was a [CONTEXT:UNIT_NAME] for [CONTEXT:NUMBER] of the years of my life."
+msgstr "Я был [CONTEXT:UNIT_NAME] в течение [CONTEXT:NUMBER] лет."
+
+#: past_snatcher_profession.txt:0
+msgid "Once it was my calling to rescue lost children."
+msgstr "Когда-то моей работой было спасение потерявшихся детей."
+
+#: past_snatcher_profession.txt:1
+msgid "For [CONTEXT:NUMBER] of my years, I rescued lost children."
+msgstr "В течение [CONTEXT:NUMBER] лет я спасал потерявшихся детей."
+
+#: past_thief_profession.txt:0
+msgid "I once sought great treasures."
+msgstr "Когда-то я искал сокровища."
+
+#: past_thief_profession.txt:1
+msgid "I sought great treasures for [CONTEXT:NUMBER] of my years."
+msgstr "Я провёл в поисках сокровищ [CONTEXT:NUMBER] лет."
+
+#: past_wandering_profession.txt:0
+msgid "I once wandered the wilds."
+msgstr "Когда-то я скитался по дебрям."
+
+#: past_wandering_profession.txt:1
+msgid "For [CONTEXT:NUMBER] of my years, I wandered the wilds."
+msgstr "В течение [CONTEXT:NUMBER] лет я скитался по дебрям."
+
+#: positive.txt:0
+msgid "fantastic!"
+msgstr "потрясающе!"
+
+#: positive.txt:1
+msgid "wonderful!"
+msgstr "чудесно!"
+
+#: positive.txt:2
+msgid "I'm thrilled to hear that."
+msgstr "Я потрясен."
+
+#: positive.txt:3
+msgid "I'm pleased to hear that."
+msgstr "Я рад это слышать."
+
+#: positive.txt:4
+msgid "that is good news."
+msgstr "это хорошие новости."
+
+#: positive.txt:5
+msgid "that is wonderful news."
+msgstr "это чудесные новости."
+
+#: positive.txt:6
+msgid "this is encouraging."
+msgstr "это обнадёживает."
+
+#: positive.txt:7
+msgid "very good."
+msgstr "очень хорошо."
+
+#: positive.txt:8
+msgid "I'm proud of you."
+msgstr "Я горд за вас."
+
+#: positive.txt:9
+msgid "that is a good turn of affairs."
+msgstr "это хорошее развитие событий."
+
+#: same_site_ab_specific_hf_seeker.txt:0
+msgid ""
+"seek out [CONTEXT:HIST_FIG:TRANS_NAME] here in [CONTEXT:SITE:TRANS_NAME] at "
+"[CONTEXT:ABSTRACT_BUILDING:TRANS_NAME]"
+msgstr "найдите [CONTEXT:HIST_FIG:TRANS_NAME] здесь, в [CONTEXT:SITE:TRANS_NAME] в [CONTEXT:ABSTRACT_BUILDING:TRANS_NAME]"
+
+#: same_site_specific_hf_seeker.txt:0
+msgid ""
+"seek out [CONTEXT:HIST_FIG:TRANS_NAME] here in [CONTEXT:SITE:TRANS_NAME]"
+msgstr "найдите [CONTEXT:HIST_FIG:TRANS_NAME] здесь, в [CONTEXT:SITE:TRANS_NAME]"
+
+#: site_specific_hf_seeker.txt:0
+msgid ""
+"seek out [CONTEXT:HIST_FIG:TRANS_NAME] over in [CONTEXT:SITE:TRANS_NAME]"
+msgstr "разыщите [CONTEXT:HIST_FIG:TRANS_NAME] в [CONTEXT:SITE:TRANS_NAME]"
+
+#: slayer.txt:0
+msgid "bane"
+msgstr "проклятие"
+
+#: slayer.txt:1
+msgid "conqueror"
+msgstr "завоеватель"
+
+#: slayer.txt:2
+msgid "death"
+msgstr "смерть"
+
+#: slayer.txt:3
+msgid "foe"
+msgstr "враг"
+
+#: slayer.txt:4
+msgid "killer"
+msgstr "убийца"
+
+#: slayer.txt:5
+msgid "lord"
+msgstr "лорд"
+
+#: slayer.txt:6
+msgid "master"
+msgstr "хозяин"
+
+#: slayer.txt:7
+msgid "nemesis"
+msgstr "мститель"
+
+#: slayer.txt:8
+msgid "slayer"
+msgstr "убийца"
+
+#: slayer.txt:9
+msgid "vanquisher"
+msgstr "покоритель"
+
+#: slayer.txt:10
+msgid "murderer"
+msgstr "душегуб"
+
+#: slayer.txt:11
+msgid "crusher"
+msgstr "дебошир"
+
+#: slayer.txt:12
+msgid "extinguisher"
+msgstr "уничтожитель"
+
+#: slayer.txt:13
+msgid "strangler"
+msgstr "душитель"
+
+#: snatcher_profession.txt:0
+msgid ""
+"I rescue lost children and bring them back to [CONTEXT:PLACE:TRANS_NAME]."
+msgstr "Я спасаю потерявшихся детей и возвращаю их в [CONTEXT:PLACE:TRANS_NAME]."
+
+#: snatcher_profession_year.txt:0
+msgid ""
+"For [CONTEXT:NUMBER] of my years, I have been rescuing lost children and "
+"bringing them back to [CONTEXT:PLACE:TRANS_NAME]."
+msgstr "В течение [CONTEXT:NUMBER] лет я спасал потерявшихся детей и возвращал их в [CONTEXT:PLACE:TRANS_NAME]."
+
+#: soldier_profession.txt:0
+msgid "I am a soldier."
+msgstr "Я солдат."
+
+#: task_recommendation.txt:0
+msgid "[CONTEXT:ANY:TRANS_NAME] might have a task for you"
+msgstr "Возможно, у [CONTEXT:ANY:TRANS_NAME] найдётся задание для вас"
+
+#: temple_already_member.txt:0
+msgid "simply"
+msgstr "просто"
+
+#: temple_already_member.txt:1
+msgid "it is enough to"
+msgstr "этого достаточно для того, чтобы"
+
+#: temple_already_member.txt:2
+msgid "your task is simple;"
+msgstr "ваша задача проста;"
+
+#: temple_already_member.txt:3
+msgid "just"
+msgstr "просто"
+
+#: temple_already_member.txt:4
+msgid "all you need is to"
+msgstr "все что вам нужно, это "
+
+#: temple_become_member.txt:0
+msgid ""
+"Welcome to [CONTEXT:ENTITY:TRANS_NAME].  Praise be to "
+"[CONTEXT:ENTITY:WORSHIP_HF:TRANS_NAME]!"
+msgstr "Добро пожаловать в [CONTEXT:ENTITY:TRANS_NAME].  Вознесём хвалу [CONTEXT:ENTITY:WORSHIP_HF:TRANS_NAME]!"
+
+#: temple_become_member.txt:1
+msgid ""
+"Welcome to [CONTEXT:ENTITY:TRANS_NAME].  Praise be to "
+"[CONTEXT:ENTITY:WORSHIP_HF:RANDOM_DEF_SPHERE]!"
+msgstr "Добро пожаловать в [CONTEXT:ENTITY:TRANS_NAME].  Вознесём хвалу [CONTEXT:ENTITY:WORSHIP_HF:RANDOM_DEF_SPHERE]!"
+
+#: temple_become_member.txt:2
+msgid ""
+"As a member of [CONTEXT:ENTITY:TRANS_NAME], you can now seek the higher "
+"mysteries of [CONTEXT:ENTITY:WORSHIP_HF:TRANS_NAME]."
+msgstr "Став членом [CONTEXT:ENTITY:TRANS_NAME], вы сможете проникнуть в высшие тайны [CONTEXT:ENTITY:WORSHIP_HF:TRANS_NAME]."
+
+#: temple_become_member.txt:3
+msgid ""
+"As a member of [CONTEXT:ENTITY:TRANS_NAME], you can now seek the higher "
+"mysteries of [CONTEXT:ENTITY:WORSHIP_HF:RANDOM_DEF_SPHERE]."
+msgstr "Став членом [CONTEXT:ENTITY:TRANS_NAME], вы сможете проникнуть в высшие тайны [CONTEXT:ENTITY:WORSHIP_HF:RANDOM_DEF_SPHERE]."
+
+#: thief_profession.txt:0
+msgid "I seek treasures and bring them back to [CONTEXT:PLACE:TRANS_NAME]."
+msgstr "Я нахожу сокровища и приношу их в [CONTEXT:PLACE:TRANS_NAME]."
+
+#: thief_profession_year.txt:0
+msgid ""
+"I seek treasures and bring them back to [CONTEXT:PLACE:TRANS_NAME] and have "
+"done so for [CONTEXT:NUMBER] of the years of my life."
+msgstr "Я нахожу сокровища и приношу их в [CONTEXT:PLACE:TRANS_NAME] вот уже [CONTEXT:NUMBER] лет."
+
+#: threat.txt:0
+msgid "Prepare to die!"
+msgstr "Готовься к смерти!"
+
+#: unknown_hf_seeker.txt:0
+msgid ""
+"seek out [CONTEXT:HIST_FIG:TRANS_NAME], wherever [CONTEXT:HIST_FIG:PRO_SUB] "
+"might be"
+msgstr "разыщите [CONTEXT:HIST_FIG:TRANS_NAME], где бы [CONTEXT:HIST_FIG:PRO_SUB] ни был"
+
+#: wandering_profession.txt:0
+msgid "I wander [CONTEXT:PLACE:TRANS_NAME]."
+msgstr "Я скитаюсь по [CONTEXT:PLACE:TRANS_NAME]."
+
+#: wandering_profession_year.txt:0
+msgid ""
+"I have wandered [CONTEXT:PLACE:TRANS_NAME] for [CONTEXT:NUMBER] of my years."
+msgstr "Я скитаюсь по [CONTEXT:PLACE:TRANS_NAME] вот уже [CONTEXT:NUMBER] лет."

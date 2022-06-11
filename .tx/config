@@ -1,0 +1,27 @@
+[main]
+host = https://www.transifex.com
+
+[dwarf-fortress.speech]
+file_filter = translations/dwarf-fortress.speech/<lang>.po
+source_lang = en
+type = PO
+
+[dwarf-fortress.uncompressed]
+file_filter = translations/dwarf-fortress.uncompressed/<lang>.po
+source_lang = en
+type = PO
+
+[dwarf-fortress.hardcoded]
+file_filter = translations/dwarf-fortress.hardcoded/<lang>.po
+source_lang = en
+type = PO
+
+[dwarf-fortress.raw-objects]
+file_filter = translations/dwarf-fortress.raw-objects/<lang>.po
+source_lang = en
+type = PO
+
+[dwarf-fortress.text]
+file_filter = translations/dwarf-fortress.text/<lang>.po
+source_lang = en
+type = PO

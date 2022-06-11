@@ -1,0 +1,708 @@
+# 
+# Translators:
+# Henrik Hansen <zumsalat@hotmail.com>, 2016
+msgid ""
+msgstr ""
+"Project-Id-Version: Dwarf Fortress\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2015-09-19 23:35+0000\n"
+"Last-Translator: Henrik Hansen <zumsalat@hotmail.com>, 2016\n"
+"Language-Team: Danish (http://www.transifex.com/dwarf-fortress-translation/dwarf-fortress/language/da/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: da\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 1.8.4\n"
+
+#: ab_specific_hf_seeker.txt:0
+msgid ""
+"seek out [CONTEXT:HIST_FIG:TRANS_NAME] at "
+"[CONTEXT:ABSTRACT_BUILDING:TRANS_NAME] over in [CONTEXT:SITE:TRANS_NAME]"
+msgstr "Opsøg [CONTEXT:HIST_FIG:TRANS_NAME] ved [CONTEXT:ABSTRACT_BUILDING:TRANS_NAME] ovre i [CONTEXT:SITE:TRANS_NAME]"
+
+#: animal_slayer.txt:0
+msgid ""
+"I have taken down [CONTEXT:NUMBER] [CONTEXT:RACE:NUMBERED_NAME] while "
+"stalking [CONTEXT:PLACE:TRANS_NAME]."
+msgstr "Jeg har nedlagt [CONTEXT:NUMBER] [CONTEXT:RACE:NUMBERED_NAME] mens jeg stalkede [CONTEXT:PLACE:TRANS_NAME]."
+
+#: arch_info_justification.txt:0
+msgid ""
+"It is said that the [CONTEXT:ARCH_ELEMENT] of "
+"[CONTEXT:ABSTRACT_BUILDING:TRANS_NAME] [CONTEXT:JUSTIFICATION] "
+"[CONTEXT:DEF_SPHERE] for the glory of [CONTEXT:HIST_FIG:TRANS_NAME]."
+msgstr ""
+
+#: child_age_proclamation.txt:0
+msgid "I'm [CONTEXT:NUMBER]!"
+msgstr "Jeg er [CONTEXT:NUMBER] år gammel!"
+
+#: current_profession_no_year.txt:0
+msgid "I am a [CONTEXT:UNIT_NAME]."
+msgstr "Jeg er en [CONTEXT:UNIT_NAME]."
+
+#: current_profession_year.txt:0
+msgid "This is my [CONTEXT:ORDINAL] year as a [CONTEXT:UNIT_NAME]."
+msgstr "Dette er mit [CONTEXT:ORDINAL] år som en [CONTEXT:UNIT_NAME]."
+
+#: curse.txt:0
+msgid "Who dares to enter my house?  I curse you!"
+msgstr "Hvem vover at trænge sig ind i mit ud? Jeg forbander dig!"
+
+#: dwarf.txt:0
+msgid "who was too short to live"
+msgstr "som var for kort til at leve"
+
+#: dwarf.txt:1
+msgid "who tunneled away from me like a frightened mole"
+msgstr "som gravede sig væk fra mig som en forskrækket muldvarp"
+
+#: dwarf.txt:2
+msgid "who sucked plump helmets like a purring maggot"
+msgstr "som sugede plump helmets som en spindende larve"
+
+#: dwarf.txt:3
+msgid "whose hammer shattered on the anvil of my power"
+msgstr "hvis hammer blev knust på armbolten af min kraft"
+
+#: dwarf.txt:4
+msgid "who forged [PRO_POS] own doom by challenging me"
+msgstr ""
+
+#: dwarf.txt:5
+msgid "who was returned to the rock and muck from which it was spawned"
+msgstr "som blev sendt tilbage til klippen og skidtet hvorfra den blev skabt"
+
+#: dwarf.txt:6
+msgid ""
+"whose tall tales of bravery were all the more embarrassing because of "
+"[PRO_POS] height"
+msgstr "hvis skrøner af tapperhed var desto mere pinligt på grund af [PRO_POS] højde"
+
+#: elf.txt:0
+msgid "who was felled like a slender sapling"
+msgstr ""
+
+#: elf.txt:1
+msgid "whom I sent back to the home-tree as fertilizer"
+msgstr "som jeg sendte tilbage til hjemmetræet som gødning"
+
+#: elf.txt:2
+msgid "whose fragile bones shattered before the power of my contempt"
+msgstr "hvis skrøbelige knogler blev knust fra kraften i min foragt"
+
+#: elf.txt:3
+msgid "who came down from the home-tree and was devoured"
+msgstr "som kom ned fra hjemmetræet og blev fortæret"
+
+#: elf.txt:4
+msgid ""
+"who should have stayed in the trees when the real elves came down to fight"
+msgstr "som burde have forblevet i træerne, når de rigtige elvere kom ned for at kæmpe"
+
+#: family_relationship_additional.txt:0
+msgid "[CONTEXT:HIST_FIG:PRO_SUB] is also my [CONTEXT:FAMILY_RELATIONSHIP]"
+msgstr "[CONTEXT:HIST_FIG:PRO_SUB] er også min [CONTEXT:FAMILY_RELATIONSHIP]"
+
+#: family_relationship_additional_dead.txt:0
+msgid "[CONTEXT:HIST_FIG:PRO_SUB] was also my [CONTEXT:FAMILY_RELATIONSHIP]"
+msgstr "[CONTEXT:HIST_FIG:PRO_SUB] var også min [CONTEXT:FAMILY_RELATIONSHIP]"
+
+#: family_relationship_no_spec.txt:0
+msgid ""
+"I have [CONTEXT:INDEF_FAMILY_RELATIONSHIP] named "
+"[CONTEXT:HIST_FIG:TRANS_NAME]"
+msgstr "Jeg har [CONTEXT:INDEF_FAMILY_RELATIONSHIP] navngivet [CONTEXT:HIST_FIG:TRANS_NAME]"
+
+#: family_relationship_no_spec_dead.txt:0
+msgid ""
+"I had [CONTEXT:INDEF_FAMILY_RELATIONSHIP] named "
+"[CONTEXT:HIST_FIG:TRANS_NAME]"
+msgstr "Jeg havde [CONTEXT:INDEF_FAMILY_RELATIONSHIP] navngivet [CONTEXT:HIST_FIG:TRANS_NAME]"
+
+#: family_relationship_spec.txt:0
+msgid ""
+"my [CONTEXT:FAMILY_RELATIONSHIP] is named [CONTEXT:HIST_FIG:TRANS_NAME]"
+msgstr "min [CONTEXT:FAMILY_RELATIONSHIP] hedder [CONTEXT:HIST_FIG:TRANS_NAME]"
+
+#: family_relationship_spec_dead.txt:0
+msgid ""
+"my [CONTEXT:FAMILY_RELATIONSHIP] was named [CONTEXT:HIST_FIG:TRANS_NAME]"
+msgstr "min [CONTEXT:FAMILY_RELATIONSHIP] hed [CONTEXT:HIST_FIG:TRANS_NAME]"
+
+#: general.txt:0
+msgid "whose cries for mercy went unheeded by my wrath"
+msgstr "hvis gråd om nåde gik upåagtet af min vrede"
+
+#: general.txt:1
+msgid "whose insignificant name I struggle to recall"
+msgstr "hvis ubetydelige navn jeg kæmper for at huske"
+
+#: general.txt:2
+msgid "a spineless slug who was crushed under my might"
+msgstr "en holdningsløs skovsnegl, som blev knust under min vælde"
+
+#: general.txt:3
+msgid "whom I buried alive under a mountain of hatred"
+msgstr "som jeg begravede levende under et bjerg af had"
+
+#: general.txt:4
+msgid "who lies dead, now only an embarrassing memory"
+msgstr "som ligger død, nu kun en pinlig minde"
+
+#: general.txt:5
+msgid "who sought my praise, only to be rejected in death"
+msgstr "som søgte min ros, kun for at blive afvist i døden"
+
+#: general.txt:6
+msgid "once revered by those who didn't know any better"
+msgstr "engang beundret af dem, der ikke vidste bedre"
+
+#: goodbye_worship_1.txt:0
+msgid "upon arising in the mornings,"
+msgstr ""
+
+#: goodbye_worship_1.txt:1
+msgid "when going on a long journey,"
+msgstr "når du skal på en lang rejse,"
+
+#: goodbye_worship_1.txt:2
+msgid "before retiring in the evening,"
+msgstr ""
+
+#: goodbye_worship_1.txt:3
+msgid "as sure as I am here now,"
+msgstr "så sikker som jeg er her nu,"
+
+#: goodbye_worship_1.txt:4
+msgid "and lo,"
+msgstr "og lo,"
+
+#: goodbye_worship_1.txt:5
+msgid "it cannot be said enough;"
+msgstr "det kan ikke siges nok;"
+
+#: goodbye_worship_1.txt:6
+msgid "these are dangerous times, so"
+msgstr "disse er farlige tider, så"
+
+#: goodbye_worship_1.txt:7
+msgid "I say again"
+msgstr "Jeg siger igen"
+
+#: goodbye_worship_1.txt:8
+msgid "yes,"
+msgstr "ja,"
+
+#: goodbye_worship_1.txt:9
+msgid "before every meal,"
+msgstr "før hvert måltid"
+
+#: goodbye_worship_1.txt:10
+msgid "whenever the tide turns,"
+msgstr "uanset hvornår tidevandet vender,"
+
+#: goodbye_worship_1.txt:11
+msgid "when you return to this place,"
+msgstr "når du vender tilbage til dette sted,"
+
+#: goodbye_worship_1.txt:12
+msgid "when you arrive at your destination,"
+msgstr "når du ankommer til din destination,"
+
+#: goodbye_worship_1.txt:13
+msgid "at this juncture in your life,"
+msgstr "på dette tidspunkt i dit liv,"
+
+#: goodbye_worship_2.txt:0
+msgid "don't forget to"
+msgstr "glem ikke at"
+
+#: goodbye_worship_2.txt:1
+msgid "always remember to"
+msgstr "altid huske at"
+
+#: goodbye_worship_2.txt:2
+msgid "it would be wise to"
+msgstr "det ville være klogt at"
+
+#: goodbye_worship_2.txt:3
+msgid "you should"
+msgstr ""
+
+#: goodbye_worship_2.txt:4
+msgid "you must"
+msgstr "du skal"
+
+#: goodbye_worship_2.txt:5
+msgid "prudence demands that you"
+msgstr "fornuft kræver, at du"
+
+#: goodbye_worship_2.txt:6
+msgid "even for a moment"
+msgstr "selv for et øjeblik"
+
+#: goodbye_worship_2.txt:7
+msgid "follow my advice and"
+msgstr "følg mit råd og"
+
+#: goodbye_worship_2.txt:8
+msgid "heed my words and"
+msgstr ""
+
+#: goodbye_worship_2.txt:9
+msgid "remember to"
+msgstr "husk at"
+
+#: goodbye_worship_2.txt:10
+msgid "show devotion and"
+msgstr "vis hengivenhed og"
+
+#: goodbye_worship_3.txt:0
+msgid "speak the praises of [SPEAKER:HF_LINK:DEITY:TRANS_NAME]"
+msgstr "fortæl lovprisningerne af [SPEAKER:HF_LINK:DEITY:TRANS_NAME]"
+
+#: goodbye_worship_3.txt:1
+msgid "speak the praises of [SPEAKER:HF_LINK:DEITY:RANDOM_DEF_SPHERE]"
+msgstr "fortæl lovprisningerne af [SPEAKER:HF_LINK:DEITY:RANDOM_DEF_SPHERE]"
+
+#: goodbye_worship_3.txt:2
+msgid "go with [SPEAKER:HF_LINK:DEITY:TRANS_NAME]"
+msgstr "gå med [SPEAKER:HF_LINK:DEITY:TRANS_NAME]"
+
+#: goodbye_worship_3.txt:3
+msgid "go with [SPEAKER:HF_LINK:DEITY:RANDOM_DEF_SPHERE]"
+msgstr "gå med [SPEAKER:HF_LINK:DEITY:RANDOM_DEF_SPHERE]"
+
+#: goodbye_worship_3.txt:4
+msgid "put your faith in [SPEAKER:HF_LINK:DEITY:TRANS_NAME]"
+msgstr "læg din tro i [SPEAKER:HF_LINK:DEITY:TRANS_NAME]"
+
+#: goodbye_worship_3.txt:5
+msgid "put your faith in [SPEAKER:HF_LINK:DEITY:RANDOM_DEF_SPHERE]"
+msgstr "læg din tro i [SPEAKER:HF_LINK:DEITY:RANDOM_DEF_SPHERE]"
+
+#: goodbye_worship_3.txt:6
+msgid "experience [SPEAKER:HF_LINK:DEITY:TRANS_NAME]"
+msgstr "oplev [SPEAKER:HF_LINK:DEITY:TRANS_NAME]"
+
+#: goodbye_worship_3.txt:7
+msgid "experience [SPEAKER:HF_LINK:DEITY:RANDOM_DEF_SPHERE]"
+msgstr "oplev [SPEAKER:HF_LINK:DEITY:RANDOM_DEF_SPHERE]"
+
+#: goodbye_worship_3.txt:8
+msgid "consider [SPEAKER:HF_LINK:DEITY:TRANS_NAME]"
+msgstr "overvej [SPEAKER:HF_LINK:DEITY:TRANS_NAME]"
+
+#: goodbye_worship_3.txt:9
+msgid "consider [SPEAKER:HF_LINK:DEITY:RANDOM_DEF_SPHERE]"
+msgstr "overvej [SPEAKER:HF_LINK:DEITY:RANDOM_DEF_SPHERE]"
+
+#: goodbye_worship_3.txt:10
+msgid "give yourself to [SPEAKER:HF_LINK:DEITY:TRANS_NAME]"
+msgstr "giv dig selv til [SPEAKER:HF_LINK:DEITY:TRANS_NAME]"
+
+#: goodbye_worship_3.txt:11
+msgid "give yourself to [SPEAKER:HF_LINK:DEITY:RANDOM_DEF_SPHERE]"
+msgstr "giv dig selv til [SPEAKER:HF_LINK:DEITY:RANDOM_DEF_SPHERE]"
+
+#: greet.txt:0
+msgid "Greetings.  My name is [SPEAKER:TRANS_NAME]."
+msgstr "Goddag. Mit navn er [SPEAKER:TRANS_NAME]."
+
+#: greet_baby.txt:0
+msgid "Hellooo!"
+msgstr "Hallooo!"
+
+#: greet_baby.txt:1
+msgid "Look at you!"
+msgstr "Se på dig!"
+
+#: greet_baby.txt:2
+msgid "A baby!  How adorable!"
+msgstr "En baby! Hvor bedårende!"
+
+#: greet_reply.txt:0
+msgid "Ah, hello.  I'm [SPEAKER:TRANS_NAME]."
+msgstr "Åh, hej. Jeg er [SPEAKER:TRANS_NAME]."
+
+#: greet_reply_after_hero.txt:0
+msgid "I am [SPEAKER:TRANS_NAME].  Can I be of some help?"
+msgstr "Jeg er [SPEAKER:TRANS_NAME]. Kan jeg være til nogen hjælp?"
+
+#: greet_reply_after_hero.txt:1
+msgid "I am [SPEAKER:TRANS_NAME].  How can I be of service?"
+msgstr "Jeg er [SPEAKER:TRANS_NAME]. Hvordan kan jeg være til tjeneste?"
+
+#: greet_reply_diff_language.txt:0
+msgid "Hello, [AUDIENCE:RACE].  I am [SPEAKER:TRANS_NAME]."
+msgstr "Hej, [AUDIENCE:RACE]. Jeg er [SPEAKER:TRANS_NAME]."
+
+#: greet_reply_unusual_first.txt:0
+msgid "[AUDIENCE:FIRST_NAME]...  your parents must have been interesting!"
+msgstr "[AUDIENCE:FIRST_NAME]... dine forældre må have været interessante!"
+
+#: greet_reply_unusual_first.txt:1
+msgid ""
+"You know, you don't meet many people with the name [AUDIENCE:FIRST_NAME]."
+msgstr "Du ved, man møder ikke mange personer med navnet [AUDIENCE:FIRST_NAME]."
+
+#: greet_reply_unusual_first.txt:2
+msgid "So, [AUDIENCE:FIRST_NAME]...   [AUDIENCE:FIRST_NAME], was it?"
+msgstr "Så, [AUDIENCE:FIRST_NAME]... var det [AUDIENCE:FIRST_NAME]?"
+
+#: greet_reply_unusual_first.txt:3
+msgid "[AUDIENCE:FIRST_NAME].  Does that mean something?"
+msgstr "[AUDIENCE:FIRST_NAME]. Betyder det noget?"
+
+#: greet_reply_unusual_first.txt:4
+msgid "[AUDIENCE:FIRST_NAME].  I can't say I've heard that before."
+msgstr "[AUDIENCE:FIRST_NAME]. Jeg kan ikke sige jeg har hørt det før."
+
+#: greet_worship.txt:0
+msgid "Praise be to [SPEAKER:HF_LINK:DEITY:TRANS_NAME]."
+msgstr "Lovet være [SPEAKER:HF_LINK:DEITY:TRANS_NAME]."
+
+#: greet_worship.txt:1
+msgid "Praise [SPEAKER:HF_LINK:DEITY:RANDOM_DEF_SPHERE]."
+msgstr "Lovpris [SPEAKER:HF_LINK:DEITY:RANDOM_DEF_SPHERE]."
+
+#: greet_worship.txt:2
+msgid "Life is, in a word, [SPEAKER:HF_LINK:DEITY:RANDOM_DEF_SPHERE]."
+msgstr "Livet er, i et ord, [SPEAKER:HF_LINK:DEITY:RANDOM_DEF_SPHERE]."
+
+#: greet_worship.txt:3
+msgid "This servant of [SPEAKER:HF_LINK:DEITY:TRANS_NAME] greets you."
+msgstr "Denne tjener af [SPEAKER:HF_LINK:DEITY:TRANS_NAME] hilser på dig."
+
+#: greet_worship.txt:4
+msgid "This servant of [SPEAKER:HF_LINK:DEITY:RANDOM_DEF_SPHERE] greets you."
+msgstr "Denne tjener af [SPEAKER:HF_LINK:DEITY:RANDOM_DEF_SPHERE] hilser på dig."
+
+#: guard_profession.txt:0
+msgid "I am a guard."
+msgstr "Jeg er en vagt."
+
+#: guard_warning.txt:0
+msgid "Don't start any trouble."
+msgstr "Start ikke nogen problemer."
+
+#: hist_fig_slayer.txt:0
+msgid ""
+"It is I that felled [CONTEXT:HIST_FIG:TRANS_NAME] the "
+"[CONTEXT:HIST_FIG:RACE]."
+msgstr "Det er jeg, som fældede [CONTEXT:HIST_FIG:RACE] [CONTEXT:HIST_FIG:TRANS_NAME]."
+
+#: hunting_profession.txt:0
+msgid "I hunt great beasts in [CONTEXT:PLACE:TRANS_NAME]."
+msgstr "Jeg jager mægtige bæster i [CONTEXT:PLACE:TRANS_NAME]."
+
+#: hunting_profession_year.txt:0
+msgid ""
+"I have hunted great beasts in [CONTEXT:PLACE:TRANS_NAME] for "
+"[CONTEXT:NUMBER] of my years."
+msgstr "Jeg har jaget mægtige bæster i [CONTEXT:PLACE:TRANS_NAME] i [CONTEXT:NUMBER] af mine år."
+
+#: justification_antithetical.txt:0
+msgid "can be thought of as the antithesis of"
+msgstr "kan opfattes som modsættningen af"
+
+#: justification_experience.txt:0
+msgid "can allow one to experience"
+msgstr "kan tillade en at opleve"
+
+#: justification_proximity.txt:0
+msgid "can bring one near to"
+msgstr "kan bringe en nær til"
+
+#: justification_reminder.txt:0
+msgid "can remind one of"
+msgstr "kan minde en om"
+
+#: justification_representation.txt:0
+msgid "can be thought of as a representation of"
+msgstr "kan opfattes som en repræsentation af"
+
+#: lair_hunter_minotaur.txt:0
+msgid "I want your bones for my bone mill!"
+msgstr "Jeg vil have dine knogler til min knoglemølle!"
+
+#: lair_hunter_minotaur.txt:1
+msgid "I'll grind you into porridge!"
+msgstr "Jeg vil kværne dig til grød!"
+
+#: lair_hunter_minotaur.txt:2
+msgid "I'll eat you whole!"
+msgstr "Jeg vil spise dig hel!"
+
+#: mercenary_profession.txt:0
+msgid ""
+"I seek fortune and glory by offering my skill at arms in "
+"[CONTEXT:PLACE:TRANS_NAME]."
+msgstr "Jeg søger lykke og ære ved at tilbyde mine evner med våben i [CONTEXT:PLACE:TRANS_NAME]."
+
+#: mercenary_profession_year.txt:0
+msgid ""
+"I have sought fortune and glory by offering my skill at arms in "
+"[CONTEXT:PLACE:TRANS_NAME] for [CONTEXT:NUMBER] of my years."
+msgstr "Jeg har søgt lykke og ære ved at tilbyde mine evner med våben i [CONTEXT:PLACE:TRANS_NAME] i [CONTEXT:NUMBER] af mine år."
+
+#: no_family.txt:0
+msgid "I have no family to speak of"
+msgstr "Jeg har ingen familie at snakke om"
+
+#: past_hunting_profession.txt:0
+msgid "In the past, I hunted great beasts."
+msgstr "I fortiden, jagtede jeg mægtige bæster."
+
+#: past_hunting_profession.txt:1
+msgid "I was a hunter of mighty beasts for [CONTEXT:NUMBER] of my years."
+msgstr "Jeg har en jæger af mægtige bæster i [CONTEXT:NUMBER] af mine år."
+
+#: past_mercenary_profession.txt:0
+msgid "In the past, I sought fortune and glory by offering my skill at arms."
+msgstr "I fortiden, søgte jeg lykke og ære ved at tilbyde mine evner med våben."
+
+#: past_mercenary_profession.txt:1
+msgid ""
+"I sought fortune and glory by offering my skill at arms for [CONTEXT:NUMBER]"
+" of my years."
+msgstr "Jeg søgte lykke og ære ved at tilbyde mine evner med våben i [CONTEXT:NUMBER] af mine år."
+
+#: past_profession_no_year.txt:0
+msgid "I was once a [CONTEXT:UNIT_NAME]."
+msgstr "Jeg var engang en [CONTEXT:UNIT_NAME]."
+
+#: past_profession_year.txt:0
+msgid ""
+"I was a [CONTEXT:UNIT_NAME] for [CONTEXT:NUMBER] of the years of my life."
+msgstr "Jeg var en [CONTEXT:UNIT_NAME] i [CONTEXT:NUMBER] år af mit liv."
+
+#: past_snatcher_profession.txt:0
+msgid "Once it was my calling to rescue lost children."
+msgstr "Engang var det mit kald at redde fortabte børn."
+
+#: past_snatcher_profession.txt:1
+msgid "For [CONTEXT:NUMBER] of my years, I rescued lost children."
+msgstr "I [CONTEXT:NUMBER] af mine år, reddede jeg fortabte børn."
+
+#: past_thief_profession.txt:0
+msgid "I once sought great treasures."
+msgstr "Jeg søgte engang mægtige rigdomme."
+
+#: past_thief_profession.txt:1
+msgid "I sought great treasures for [CONTEXT:NUMBER] of my years."
+msgstr "Jeg søgte mægtige rigdomme i [CONTEXT:NUMBER] af mine år."
+
+#: past_wandering_profession.txt:0
+msgid "I once wandered the wilds."
+msgstr "Jeg vandrerede engang i ødemarken."
+
+#: past_wandering_profession.txt:1
+msgid "For [CONTEXT:NUMBER] of my years, I wandered the wilds."
+msgstr "I [CONTEXT:NUMBER] af mine år, vandrerede jeg i ødemarken."
+
+#: positive.txt:0
+msgid "fantastic!"
+msgstr "fantastisk!"
+
+#: positive.txt:1
+msgid "wonderful!"
+msgstr "vidunderligt!"
+
+#: positive.txt:2
+msgid "I'm thrilled to hear that."
+msgstr "Jeg er begejstret for at høre det."
+
+#: positive.txt:3
+msgid "I'm pleased to hear that."
+msgstr "Jeg er glad for at høre det."
+
+#: positive.txt:4
+msgid "that is good news."
+msgstr "det er gode nyheder."
+
+#: positive.txt:5
+msgid "that is wonderful news."
+msgstr "det er vidunderlige nyheder."
+
+#: positive.txt:6
+msgid "this is encouraging."
+msgstr "dette er opmuntrende."
+
+#: positive.txt:7
+msgid "very good."
+msgstr "meget godt."
+
+#: positive.txt:8
+msgid "I'm proud of you."
+msgstr "Jeg er stolt af dig."
+
+#: positive.txt:9
+msgid "that is a good turn of affairs."
+msgstr "det er en god drejning af affærer."
+
+#: same_site_ab_specific_hf_seeker.txt:0
+msgid ""
+"seek out [CONTEXT:HIST_FIG:TRANS_NAME] here in [CONTEXT:SITE:TRANS_NAME] at "
+"[CONTEXT:ABSTRACT_BUILDING:TRANS_NAME]"
+msgstr "opsøg [CONTEXT:HIST_FIG:TRANS_NAME] her i [CONTEXT:SITE:TRANS_NAME] hos [CONTEXT:ABSTRACT_BUILDING:TRANS_NAME]"
+
+#: same_site_specific_hf_seeker.txt:0
+msgid ""
+"seek out [CONTEXT:HIST_FIG:TRANS_NAME] here in [CONTEXT:SITE:TRANS_NAME]"
+msgstr "opsøg [CONTEXT:HIST_FIG:TRANS_NAME] her i [CONTEXT:SITE:TRANS_NAME]"
+
+#: site_specific_hf_seeker.txt:0
+msgid ""
+"seek out [CONTEXT:HIST_FIG:TRANS_NAME] over in [CONTEXT:SITE:TRANS_NAME]"
+msgstr "opsøg [CONTEXT:HIST_FIG:TRANS_NAME] ovre i [CONTEXT:SITE:TRANS_NAME]"
+
+#: slayer.txt:0
+msgid "bane"
+msgstr "forbandelse"
+
+#: slayer.txt:1
+msgid "conqueror"
+msgstr "sejrherre"
+
+#: slayer.txt:2
+msgid "death"
+msgstr "død"
+
+#: slayer.txt:3
+msgid "foe"
+msgstr "fjende"
+
+#: slayer.txt:4
+msgid "killer"
+msgstr "dræber"
+
+#: slayer.txt:5
+msgid "lord"
+msgstr "herre"
+
+#: slayer.txt:6
+msgid "master"
+msgstr "mester"
+
+#: slayer.txt:7
+msgid "nemesis"
+msgstr "nemesis"
+
+#: slayer.txt:8
+msgid "slayer"
+msgstr "drabsmand"
+
+#: slayer.txt:9
+msgid "vanquisher"
+msgstr "besejrer"
+
+#: slayer.txt:10
+msgid "murderer"
+msgstr "morder"
+
+#: slayer.txt:11
+msgid "crusher"
+msgstr "knuser"
+
+#: slayer.txt:12
+msgid "extinguisher"
+msgstr ""
+
+#: slayer.txt:13
+msgid "strangler"
+msgstr "kvæler"
+
+#: snatcher_profession.txt:0
+msgid ""
+"I rescue lost children and bring them back to [CONTEXT:PLACE:TRANS_NAME]."
+msgstr "Jeg redder fortabte børn og bringer dem tilbage til [CONTEXT:PLACE:TRANS_NAME]."
+
+#: snatcher_profession_year.txt:0
+msgid ""
+"For [CONTEXT:NUMBER] of my years, I have been rescuing lost children and "
+"bringing them back to [CONTEXT:PLACE:TRANS_NAME]."
+msgstr "I [CONTEXT:NUMBER] af mine år, har jeg reddet fortabte børn og bragt dem tilbage til [CONTEXT:PLACE:TRANS_NAME]."
+
+#: soldier_profession.txt:0
+msgid "I am a soldier."
+msgstr "Jeg er en soldat."
+
+#: task_recommendation.txt:0
+msgid "[CONTEXT:ANY:TRANS_NAME] might have a task for you"
+msgstr "[CONTEXT:ANY:TRANS_NAME] har måske en opgave til dig"
+
+#: temple_already_member.txt:0
+msgid "simply"
+msgstr "bare"
+
+#: temple_already_member.txt:1
+msgid "it is enough to"
+msgstr "det er nok at"
+
+#: temple_already_member.txt:2
+msgid "your task is simple;"
+msgstr "din opgave er simpel;"
+
+#: temple_already_member.txt:3
+msgid "just"
+msgstr ""
+
+#: temple_already_member.txt:4
+msgid "all you need is to"
+msgstr "alt du behøver er at"
+
+#: temple_become_member.txt:0
+msgid ""
+"Welcome to [CONTEXT:ENTITY:TRANS_NAME].  Praise be to "
+"[CONTEXT:ENTITY:WORSHIP_HF:TRANS_NAME]!"
+msgstr "Velkommen til [CONTEXT:ENTITY:TRANS_NAME]. Lovet være [CONTEXT:ENTITY:WORSHIP_HF:TRANS_NAME]!"
+
+#: temple_become_member.txt:1
+msgid ""
+"Welcome to [CONTEXT:ENTITY:TRANS_NAME].  Praise be to "
+"[CONTEXT:ENTITY:WORSHIP_HF:RANDOM_DEF_SPHERE]!"
+msgstr "Velkommen til [CONTEXT:ENTITY:TRANS_NAME]. Lovet være [CONTEXT:ENTITY:WORSHIP_HF:RANDOM_DEF_SPHERE]!"
+
+#: temple_become_member.txt:2
+msgid ""
+"As a member of [CONTEXT:ENTITY:TRANS_NAME], you can now seek the higher "
+"mysteries of [CONTEXT:ENTITY:WORSHIP_HF:TRANS_NAME]."
+msgstr "Som et medlem af [CONTEXT:ENTITY:TRANS_NAME], kan du nu søge de højere mysterier af [CONTEXT:ENTITY:WORSHIP_HF:TRANS_NAME]."
+
+#: temple_become_member.txt:3
+msgid ""
+"As a member of [CONTEXT:ENTITY:TRANS_NAME], you can now seek the higher "
+"mysteries of [CONTEXT:ENTITY:WORSHIP_HF:RANDOM_DEF_SPHERE]."
+msgstr ""
+
+#: thief_profession.txt:0
+msgid "I seek treasures and bring them back to [CONTEXT:PLACE:TRANS_NAME]."
+msgstr ""
+
+#: thief_profession_year.txt:0
+msgid ""
+"I seek treasures and bring them back to [CONTEXT:PLACE:TRANS_NAME] and have "
+"done so for [CONTEXT:NUMBER] of the years of my life."
+msgstr ""
+
+#: threat.txt:0
+msgid "Prepare to die!"
+msgstr ""
+
+#: unknown_hf_seeker.txt:0
+msgid ""
+"seek out [CONTEXT:HIST_FIG:TRANS_NAME], wherever [CONTEXT:HIST_FIG:PRO_SUB] "
+"might be"
+msgstr ""
+
+#: wandering_profession.txt:0
+msgid "I wander [CONTEXT:PLACE:TRANS_NAME]."
+msgstr ""
+
+#: wandering_profession_year.txt:0
+msgid ""
+"I have wandered [CONTEXT:PLACE:TRANS_NAME] for [CONTEXT:NUMBER] of my years."
+msgstr ""
