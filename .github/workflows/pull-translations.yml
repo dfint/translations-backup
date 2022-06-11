@@ -23,7 +23,7 @@ jobs:
     - name: Pull translations
       run: |
         export TX_TOKEN=${{ secrets.TX_TOKEN }}
-        tx pull --use-git-timestamps --parallel
+        tx pull --f --parallel
 
     - name: Push changes to the repository
       uses: EndBug/add-and-commit@v7.0.0
