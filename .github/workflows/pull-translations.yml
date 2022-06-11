@@ -26,7 +26,7 @@ jobs:
         tx pull -a
 
     - name: Push changes to the repository
-      uses: actions-x/commit@v6
+      uses: EndBug/add-and-commit@v7.0.0
       with:
-        name: 'github-actions[bot]'
-        email: 'github-actions[bot]@localhost'
+        author_name: 'github-actions[bot]'
+        author_email: 'github-actions[bot]@localhost'
