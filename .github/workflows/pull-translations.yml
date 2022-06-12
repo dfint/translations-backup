@@ -2,7 +2,7 @@ name: Pull translations from transifex
 
 on:
   schedule:
-    - cron: "0 3 * * *"  # Run every day at 03:00
+    - cron: "0 0 * * *"  # Run every day at 03:00
   workflow_dispatch:
 
 permissions:
