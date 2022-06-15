@@ -3,7 +3,7 @@ name: Update files_by_language.json
 on:
   workflow_dispatch:
   workflow_run:
-    workflows: [ pull-translations ]
+    workflows: [ "Pull translations from transifex" ]
     type: [ completed ]
 
 permissions:
