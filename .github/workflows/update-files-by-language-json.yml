@@ -4,7 +4,7 @@ on:
   workflow_dispatch:
   workflow_run:
     workflows: [ "Pull translations from transifex" ]
-    type: [ completed ]
+    types: [ completed ]
 
 permissions:
   contents: write
@@ -17,9 +17,6 @@ jobs:
         python-version: [3.8]
 
     steps:
-    # - uses: ahmadnassri/action-workflow-run-wait@v1
-    #   with:
-    #     timeout: 90000
     - uses: actions/checkout@v3
     
     - name: Set up Python ${{ matrix.python-version }}
