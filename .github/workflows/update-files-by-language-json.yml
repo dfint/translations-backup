@@ -10,7 +10,7 @@ permissions:
   contents: write
 
 jobs:
-  build:
+  update-files-by-language-json:
     runs-on: ubuntu-latest
     strategy:
       matrix:
