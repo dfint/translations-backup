@@ -45,11 +45,12 @@ jobs:
     - name: Generate json file
       run: |
         cd automation
-        # poetry run files_by_language ../translations > ../files_by_language.json
-        poetry run files_by_language ../translations
+        poetry run files_by_language ../translations > ../files_by_language.json
 
-    # - name: Push changes to the repository
-    #   uses: EndBug/add-and-commit@v7.0.0
-    #   with:
-    #     author_name: 'github-actions[bot]'
-    #     author_email: 'github-actions[bot]@localhost'
+    - name: Push changes to the repository
+      uses: EndBug/add-and-commit@v7.0.0
+      with:
+        author_name: github-actions[bot]
+        author_email: github-actions[bot]@localhost
+        add: files_by_language.json
+        message: Update files_by_language.json
