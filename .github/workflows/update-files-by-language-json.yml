@@ -41,6 +41,7 @@ jobs:
       
     - name: Generate json file
       run: |
+        cd automation
         # poetry run files_by_language ../translations > ../files_by_language.json
         poetry run files_by_language ../translations
 
