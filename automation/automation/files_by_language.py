@@ -14,7 +14,7 @@ def group_files_by_language(translations_directory: Path):
     {
         "ru": {
             "hardcoded": "dwarf-fortress.hardcoded/ru.po",
-            "raw-objects": "dwarf-fortress.hardcoded/ru.po",
+            "raw-objects": "dwarf-fortress.raw-objects/ru.po",
             ...
         }
     }
