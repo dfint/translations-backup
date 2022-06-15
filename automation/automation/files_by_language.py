@@ -26,4 +26,6 @@ def group_files_by_language(translations_directory: Path):
             language = file.stem
             result[language][resource_name] = str(PurePosixPath(directory.name) / file.name)
     
+    assert result, "Empty result"
+    
     print(json.dumps(result, indent=4, sort_keys=True))
