@@ -1,8 +1,8 @@
-from collections import defaultdict
-import typer
 import json
+from collections import defaultdict
 from pathlib import Path, PurePosixPath
 
+import typer
 
 app = typer.Typer()
 
