@@ -2,6 +2,9 @@ name: Update files_by_language.json
 
 on:
   workflow_dispatch:
+  workflow_run:
+    workflows: [ pull-translations ]
+    type: [ completed ]
 
 permissions:
   contents: write
@@ -14,6 +17,7 @@ jobs:
         python-version: [3.8]
 
     steps:
+    - uses: ahmadnassri/action-workflow-run-wait@v1
     - uses: actions/checkout@v3
     
     - name: Set up Python ${{ matrix.python-version }}
