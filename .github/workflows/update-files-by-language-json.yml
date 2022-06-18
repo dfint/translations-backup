@@ -1,4 +1,4 @@
-name: Update files_by_language.json
+name: Update files_by_resource.json
 
 on:
   workflow_dispatch:
@@ -10,7 +10,7 @@ permissions:
   contents: write
 
 jobs:
-  update-files-by-language-json:
+  update-files-by-resource-json:
     runs-on: ubuntu-latest
     strategy:
       matrix:
@@ -45,11 +45,11 @@ jobs:
     - name: Generate json file
       run: |
         cd automation
-        poetry run files_by_language ../translations > ../files_by_language.json
+        poetry run files_by_resource ../translations > ../files_by_resource.json
 
     - name: Push changes to the repository
       uses: EndBug/add-and-commit@v7.0.0
       with:
         author_name: github-actions[bot]
         author_email: github-actions[bot]@localhost
-        add: files_by_language.json
+        add: files_by_resource.json
