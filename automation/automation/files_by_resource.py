@@ -12,9 +12,8 @@ def group_files_by_language(translations_directory: Path):
     result = defaultdict(dict)
     """
     {
-        "ru": {
-            "hardcoded": "dwarf-fortress.hardcoded/ru.po",
-            "raw-objects": "dwarf-fortress.raw-objects/ru.po",
+        "hardcoded": {
+            "ru": "dwarf-fortress.hardcoded/ru.po",
             ...
         }
     }
@@ -25,7 +24,7 @@ def group_files_by_language(translations_directory: Path):
         assert resource_name, f"Unable to extract a resource name (no dot in the directory name or no text after dot): {directory.name:!r}"
         for file in directory.glob("*.po"):
             language = file.stem  # Path("dwarf-fortress.hardcoded/ru.po") -> "ru"
-            result[language][resource_name] = str(PurePosixPath(directory.name) / file.name)
+            result[resource_name][language]= str(PurePosixPath(directory.name) / file.name)
     
     assert result, "Empty result"
     
