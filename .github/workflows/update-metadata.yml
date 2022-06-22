@@ -10,7 +10,7 @@ permissions:
   contents: write
 
 jobs:
-  update-files-by-language-json:
+  update-metadata:
     runs-on: ubuntu-latest
     strategy:
       matrix:
@@ -44,8 +44,8 @@ jobs:
       
     - name: Generate json file
       run: |
-        cd automation
-        poetry run files_by_language ../../translations > ../../metadata.json
+        cd automation/metadata
+        poetry run files_by_resource ../../translations > ../../metadata.json
 
     - name: Push changes to the repository
       uses: EndBug/add-and-commit@v7.0.0
