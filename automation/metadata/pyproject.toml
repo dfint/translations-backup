@@ -16,5 +16,5 @@ requires = ["poetry-core>=1.0.0"]
 build-backend = "poetry.core.masonry.api"
 
 [tool.poetry.scripts]
-# poetry run files_by_language ../translations > ../files_by_language.json
-files_by_language = "metadata.files_by_language:app"
+# poetry run files_by_resource ../../translations > ../../metadata.json
+files_by_resource = "metadata.files_by_resource:app"
