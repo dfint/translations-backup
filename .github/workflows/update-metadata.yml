@@ -1,0 +1,55 @@
+name: Update metadata.json
+
+on:
+  workflow_dispatch:
+  workflow_run:
+    workflows: [ "Pull translations from transifex" ]
+    types: [ completed ]
+
+permissions:
+  contents: write
+
+jobs:
+  update-files-by-language-json:
+    runs-on: ubuntu-latest
+    strategy:
+      matrix:
+        python-version: [3.8]
+
+    steps:
+    - uses: actions/checkout@v3
+    
+    - name: Set up Python ${{ matrix.python-version }}
+      uses: actions/setup-python@v2
+      with:
+        python-version: ${{ matrix.python-version }}
+
+    - name: Install Poetry
+      uses: snok/install-poetry@v1.1.6
+      with:
+        virtualenvs-create: true
+        virtualenvs-in-project: true
+
+    - name: Load cached venv
+      id: cached-poetry-dependencies
+      uses: actions/cache@v2
+      with:
+        path: .venv
+        key: venv-${{ runner.os }}-${{ matrix.python-version }}-${{ hashFiles('**/poetry.lock') }}
+
+    - name: Install library and dependencies
+      run: |
+        cd automation/metadata
+        poetry install --no-interaction --no-dev
+      
+    - name: Generate json file
+      run: |
+        cd automation
+        poetry run files_by_language ../../translations > ../../metadata.json
+
+    - name: Push changes to the repository
+      uses: EndBug/add-and-commit@v7.0.0
+      with:
+        author_name: github-actions[bot]
+        author_email: github-actions[bot]@localhost
+        add: metadata.json
