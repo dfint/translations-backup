@@ -1,27 +1,33 @@
 [main]
 host = https://www.transifex.com
 
-[dwarf-fortress.speech]
-file_filter = translations/dwarf-fortress.speech/<lang>.po
-source_lang = en
-type = PO
-
-[dwarf-fortress.uncompressed]
-file_filter = translations/dwarf-fortress.uncompressed/<lang>.po
-source_lang = en
-type = PO
-
-[dwarf-fortress.hardcoded]
+[o:dwarf-fortress-translation:p:dwarf-fortress:r:hardcoded]
 file_filter = translations/dwarf-fortress.hardcoded/<lang>.po
+source_file = translations/dwarf-fortress.hardcoded/en.po
 source_lang = en
-type = PO
+type        = PO
 
-[dwarf-fortress.raw-objects]
+[o:dwarf-fortress-translation:p:dwarf-fortress:r:raw-objects]
 file_filter = translations/dwarf-fortress.raw-objects/<lang>.po
+source_file = translations/dwarf-fortress.raw-objects/en.po
 source_lang = en
-type = PO
+type        = PO
 
-[dwarf-fortress.text]
-file_filter = translations/dwarf-fortress.text/<lang>.po
+[o:dwarf-fortress-translation:p:dwarf-fortress:r:speech]
+file_filter = translations/dwarf-fortress.speech/<lang>.po
+source_file = translations/dwarf-fortress.speech/en.po
 source_lang = en
-type = PO
+type        = PO
+
+[o:dwarf-fortress-translation:p:dwarf-fortress:r:text]
+file_filter = translations/dwarf-fortress.text/<lang>.po
+source_file = translations/dwarf-fortress.text/en.po
+source_lang = en
+type        = PO
+
+[o:dwarf-fortress-translation:p:dwarf-fortress:r:uncompressed]
+file_filter = translations/dwarf-fortress.uncompressed/<lang>.po
+source_file = translations/dwarf-fortress.uncompressed/en.po
+source_lang = en
+type        = PO
+
