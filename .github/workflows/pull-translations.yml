@@ -17,8 +17,7 @@ jobs:
 
     - name: Install transifex client
       run: |
-        python3 -m pip install --upgrade pip
-        pip3 install transifex-client
+        curl -o- https://raw.githubusercontent.com/transifex/cli/master/install.sh | bash
 
     - name: Pull translations
       run: |
