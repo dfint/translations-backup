@@ -2,7 +2,7 @@
 # Translators:
 # 김승훈 <arta2040@gmail.com>, 2017
 # hee MOON <xmun@naver.com>, 2018
-# Jeong Challenge <ryunenim@gmail.com>, 2021
+# Jeong Challenge <ryunenim@gmail.com>, 2021-2022
 # Jooho Lee <jacob9909@naver.com>, 2018
 # k jh <4492kjh@gmail.com>, 2021
 # Jeong Challenge <ryunenim@gmail.com>, 2021
@@ -11,7 +11,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Dwarf Fortress\n"
 "PO-Revision-Date: 2015-09-19 23:35+0000\n"
-"Last-Translator: k jh <4492kjh@gmail.com>, 2021\n"
+"Last-Translator: Jeong Challenge <ryunenim@gmail.com>, 2021-2022\n"
 "Language-Team: Korean (Korea) (http://www.transifex.com/dwarf-fortress-translation/dwarf-fortress/language/ko_KR/)\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -22,7 +22,7 @@ msgstr ""
 msgid ""
 "seek out [CONTEXT:HIST_FIG:TRANS_NAME] at "
 "[CONTEXT:ABSTRACT_BUILDING:TRANS_NAME] over in [CONTEXT:SITE:TRANS_NAME]"
-msgstr "[CONTEXT:SITE:TRANS_NAME] 에 있는 [CONTEXT:ABSTRACT_BUILDING:TRANS_NAME]에서  [CONTEXT:HIST_FIG:TRANS_NAME]를 찾다"
+msgstr "[CONTEXT:SITE:TRANS_NAME]에 있는 [CONTEXT:ABSTRACT_BUILDING:TRANS_NAME]에서  [CONTEXT:HIST_FIG:TRANS_NAME](을)를 찾다"
 
 #: animal_slayer.txt:1
 msgid ""
@@ -39,11 +39,11 @@ msgstr ""
 
 #: child_age_proclamation.txt:1
 msgid "I'm [CONTEXT:NUMBER]!"
-msgstr "나는 [CONTEXT:NUMBER]살 이야!"
+msgstr "나는 [CONTEXT:NUMBER]살이야!"
 
 #: current_profession_no_year.txt:1
 msgid "I am a [CONTEXT:UNIT_NAME]."
-msgstr ""
+msgstr "나는 [CONTEXT:UNIT_NAME]이야."
 
 #: current_profession_year.txt:1
 msgid "This is my [CONTEXT:ORDINAL] year as a [CONTEXT:UNIT_NAME]."
@@ -176,11 +176,11 @@ msgstr ""
 
 #: goodbye_worship_1.txt:4
 msgid "as sure as I am here now,"
-msgstr ""
+msgstr "내가 지금 여기에 있는 것처럼,"
 
 #: goodbye_worship_1.txt:5
 msgid "and lo,"
-msgstr ""
+msgstr "그리고 보아라,"
 
 #: goodbye_worship_1.txt:6
 msgid "it cannot be said enough;"
@@ -192,7 +192,7 @@ msgstr ""
 
 #: goodbye_worship_1.txt:8
 msgid "I say again"
-msgstr ""
+msgstr "다시 말하자면"
 
 #: goodbye_worship_1.txt:9
 msgid "yes,"
@@ -204,7 +204,7 @@ msgstr "매 끼니 전에,"
 
 #: goodbye_worship_1.txt:11
 msgid "whenever the tide turns,"
-msgstr ""
+msgstr "흐름이 바뀔 때마다"
 
 #: goodbye_worship_1.txt:12
 msgid "when you return to this place,"
@@ -220,11 +220,11 @@ msgstr ""
 
 #: goodbye_worship_2.txt:1
 msgid "don't forget to"
-msgstr ""
+msgstr "을(를) 잊지 마라"
 
 #: goodbye_worship_2.txt:2
 msgid "always remember to"
-msgstr ""
+msgstr "을(를) 항상 기억하라"
 
 #: goodbye_worship_2.txt:3
 msgid "it would be wise to"
@@ -232,11 +232,11 @@ msgstr ""
 
 #: goodbye_worship_2.txt:4
 msgid "you should"
-msgstr ""
+msgstr "너는 반드시"
 
 #: goodbye_worship_2.txt:5
 msgid "you must"
-msgstr ""
+msgstr "너는 무조건"
 
 #: goodbye_worship_2.txt:6
 msgid "prudence demands that you"
@@ -260,7 +260,7 @@ msgstr ""
 
 #: goodbye_worship_2.txt:11
 msgid "show devotion and"
-msgstr ""
+msgstr "헌신을 보여주고"
 
 #: goodbye_worship_3.txt:1
 msgid "speak the praises of [SPEAKER:HF_LINK:DEITY:TRANS_NAME]"
@@ -328,7 +328,7 @@ msgstr "아기! 얼마나 사랑스러운지!"
 
 #: greet_reply.txt:1
 msgid "Ah, hello.  I'm [SPEAKER:TRANS_NAME]."
-msgstr ""
+msgstr "어, 안녕, 나는 [SPEAKER:TRANS_NAME](이)야."
 
 #: greet_reply_after_hero.txt:1
 msgid "I am [SPEAKER:TRANS_NAME].  Can I be of some help?"
@@ -389,7 +389,7 @@ msgstr "저는 경비원입니다."
 
 #: guard_warning.txt:1
 msgid "Don't start any trouble."
-msgstr ""
+msgstr "문제를 일으키지 말거라"
 
 #: hist_fig_slayer.txt:1
 msgid ""
@@ -433,11 +433,11 @@ msgstr ""
 
 #: lair_hunter_minotaur.txt:2
 msgid "I'll grind you into porridge!"
-msgstr ""
+msgstr "널 죽사발로 만들어주마!"
 
 #: lair_hunter_minotaur.txt:3
 msgid "I'll eat you whole!"
-msgstr ""
+msgstr "널 모조리 먹어 치우겠다!"
 
 #: mercenary_profession.txt:1
 msgid ""
@@ -516,19 +516,19 @@ msgstr "훌륭하군!"
 
 #: positive.txt:3
 msgid "I'm thrilled to hear that."
-msgstr ""
+msgstr "그걸 들으니 두렵다."
 
 #: positive.txt:4
 msgid "I'm pleased to hear that."
-msgstr ""
+msgstr "그걸 들으니 기쁘다."
 
 #: positive.txt:5
 msgid "that is good news."
-msgstr ""
+msgstr "그것은 좋은 소식이다."
 
 #: positive.txt:6
 msgid "that is wonderful news."
-msgstr ""
+msgstr "그것은 환상적인 소식이다."
 
 #: positive.txt:7
 msgid "this is encouraging."
@@ -540,7 +540,7 @@ msgstr "아주 좋아."
 
 #: positive.txt:9
 msgid "I'm proud of you."
-msgstr ""
+msgstr "네가 자랑스럽다."
 
 #: positive.txt:10
 msgid "that is a good turn of affairs."
@@ -631,7 +631,7 @@ msgstr ""
 
 #: soldier_profession.txt:1
 msgid "I am a soldier."
-msgstr ""
+msgstr "저는 군인입니다."
 
 #: task_recommendation.txt:1
 msgid "[CONTEXT:ANY:TRANS_NAME] might have a task for you"
