@@ -9,6 +9,7 @@
 # Daniel Ufer <baneus.catrix@gmail.com>, 2019
 # Jöran Albert <joeran.albert@googlemail.com>, 2016
 # Julian Leyh <julian@vgai.de>, 2016
+# Juls Nope, 2022
 # Konstantin Dombrowski <kazakh87@gmail.com>, 2020
 # Wuttclup, 2022
 # Marc None, 2022
@@ -33,7 +34,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Dwarf Fortress\n"
 "PO-Revision-Date: 2015-02-03 06:42+0000\n"
-"Last-Translator: Marc None, 2022\n"
+"Last-Translator: Juls Nope, 2022\n"
 "Language-Team: German (http://www.transifex.com/dwarf-fortress-translation/dwarf-fortress/language/de/)\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -13464,17 +13465,17 @@ msgstr "[TLCM_NOUN:Augen:PLURAL]"
 #: creature_insects.txt:66
 msgctxt "CREATURE:FLY_MAN"
 msgid "[CASTE_NAME:fly man:fly men:fly man]"
-msgstr ""
+msgstr "[CASTE_NAME:männliche Fliege:männliche Fliegen:männliche Fliege]"
 
 #: creature_insects.txt:68
 msgctxt "CREATURE:FLY_MAN"
 msgid "[CASTE_NAME:fly woman:fly women:fly woman]"
-msgstr ""
+msgstr "[CASTE_NAME:weibliche Fliege:weibliche Fliegen:weibliche Fliege]"
 
 #: creature_insects.txt:77
 msgctxt "CREATURE:FLY_MAN"
 msgid "[NAME:fly man:fly men:fly man]"
-msgstr ""
+msgstr "[NAME:männliche Fliege:männliche Fliegen:männliche Fliege]"
 
 #: creature_insects.txt:78
 msgctxt "CREATURE:FLY_MAN"
@@ -16333,17 +16334,17 @@ msgstr "[DESCRIPTION:Ein mittelgroßes Meeressäugetier mit einem langen, dünne
 #: creature_large_ocean.txt:2859
 msgctxt "CREATURE:NARWHAL"
 msgid "[NAME:narwhal:narwhals:narwhal]"
-msgstr "[NAME:Narwhal:Narwhale:Narwhal]"
+msgstr "[NAME:Narwal:Narwale:Narwal]"
 
 #: creature_large_ocean.txt:2860
 msgctxt "CREATURE:NARWHAL"
 msgid "[CASTE_NAME:narwhal:narwhals:narwhal]"
-msgstr "[CASTE_NAME:Narwhal:Narwhale:Narwhal]"
+msgstr "[CASTE_NAME:Narwal:Narwale:Narwal]"
 
 #: creature_large_ocean.txt:2861
 msgctxt "CREATURE:NARWHAL"
 msgid "[GENERAL_CHILD_NAME:narwhal calf:narwhal calves]"
-msgstr "[GENERAL_CHILD_NAME:Narwhal Kalb:Narwhal Kälber]"
+msgstr "[GENERAL_CHILD_NAME:Narwal Kalb:Narwal Kälber]"
 
 #: creature_large_ocean.txt:2871
 msgctxt "CREATURE:NARWHAL"
@@ -16393,39 +16394,39 @@ msgstr "[TLCM_NOUN:Augen:PLURAL]"
 #: creature_large_ocean.txt:2955
 msgctxt "CREATURE:NARWHAL MAN"
 msgid "[CASTE_NAME:narwhal man:narwhal men:narwhal man]"
-msgstr "[CASTE_NAME:Narwhal Männchen:Narwhal Männchen:Narwhal Männchen]"
+msgstr "[CASTE_NAME:Narwal Männchen:Narwal Männchen:Narwal Männchen]"
 
 #: creature_large_ocean.txt:2957
 msgctxt "CREATURE:NARWHAL MAN"
 msgid "[CASTE_NAME:narwhal woman:narwhal women:narwhal woman]"
-msgstr "[CASTE_NAME:Narwhalfrau: Narwhalfrau: Narwhalfrau]"
+msgstr "[CASTE_NAME:Narwalfrau: Narwalfrau: Narwalfrau]"
 
 #: creature_large_ocean.txt:2967
 msgctxt "CREATURE:NARWHAL MAN"
 msgid "[NAME:narwhal man:narwhal men:narwhal man]"
-msgstr "[NAME:Narwhalmann: Narwhalmann: Narwhalmann]"
+msgstr "[NAME:Narwalmann: Narwalmann: Narwalmann]"
 
 #: creature_large_ocean.txt:2968
 msgctxt "CREATURE:NARWHAL MAN"
 msgid ""
 "[DESCRIPTION:A medium-sized creature with the arms and torso on a man, but "
 "with the head and tail of a narwhal.]"
-msgstr "[DESCRIPTION:Eine mittelgroße Kreatur mit den Armen und dem Oberkörper eines Mannes, aber mit Kopf und Schwanz eines Narwhals.]"
+msgstr "[DESCRIPTION:Eine mittelgroße Kreatur mit den Armen und dem Oberkörper eines Mannes, aber mit Kopf und Schwanz eines Narwals.]"
 
 #: creature_large_ocean.txt:2983
 msgctxt "CREATURE:NARWHAL, GIANT"
 msgid "[NAME:giant narwhal:giant narwhals:giant narwhal]"
-msgstr "[NAME:riesiger Narwhal:riesiger Narwhal:riesiger Narwhal]"
+msgstr "[NAME:riesiger Narwal:riesiger Narwal:riesiger Narwal]"
 
 #: creature_large_ocean.txt:2984
 msgctxt "CREATURE:NARWHAL, GIANT"
 msgid "[CASTE_NAME:giant narwhal:giant narwhals:giant narwhal]"
-msgstr "[CASTE_NAME:riesiger Narwhal:riesiger Narwhal:riesiger Narwhal]"
+msgstr "[CASTE_NAME:riesiger Narwal:riesiger Narwal:riesiger Narwal]"
 
 #: creature_large_ocean.txt:2985
 msgctxt "CREATURE:NARWHAL, GIANT"
 msgid "[GENERAL_CHILD_NAME:giant narwhal calf:giant narwhal calves]"
-msgstr "[GENERAL_CHILD_NAME:riesiges Narwhalkalb: riesige Narwhalkälber]"
+msgstr "[GENERAL_CHILD_NAME:riesiges Narwalkalb: riesige Narwalkälber]"
 
 #: creature_large_ocean.txt:2986
 msgctxt "CREATURE:NARWHAL, GIANT"
@@ -16648,22 +16649,22 @@ msgstr "[DESCRIPTION:Ein mittelgroßer Raubfisch, der in Seen und Bächen vorkom
 #: creature_large_riverlake.txt:324
 msgctxt "CREATURE:FISH_TIGERFISH"
 msgid "[NAME:tigerfish:tigerfish:tigerfish]"
-msgstr ""
+msgstr "[NAME:Tigerfische:Tigerfische:Tigerfische]"
 
 #: creature_large_riverlake.txt:325
 msgctxt "CREATURE:FISH_TIGERFISH"
 msgid "[CASTE_NAME:tigerfish:tigerfish:tigerfish]"
-msgstr ""
+msgstr "[CASTE_NAME:Tigerfische:Tigerfische:Tigerfische"
 
 #: creature_large_riverlake.txt:326
 msgctxt "CREATURE:FISH_TIGERFISH"
 msgid "[GENERAL_CHILD_NAME:tigerfish fry:tigerfish fry]"
-msgstr ""
+msgstr "[GENERAL_CHILD_NAME:Tigerfischbrut: Tigerfischbrut]"
 
 #: creature_large_riverlake.txt:336
 msgctxt "CREATURE:FISH_TIGERFISH"
 msgid "[PREFSTRING:spirit]"
-msgstr ""
+msgstr "[PREFSTRING:Geist]"
 
 #: creature_large_riverlake.txt:374
 msgctxt "CREATURE:FISH_TIGERFISH"
@@ -16688,22 +16689,22 @@ msgstr "[TLCM_NOUN:Augen:PLURAL]"
 #: creature_large_riverlake.txt:409
 msgctxt "CREATURE:FISH_PIKE"
 msgid "[DESCRIPTION:A medium-sized, green fish found in temperate lakes.]"
-msgstr ""
+msgstr "[DESCRIPTION:Ein mittelgroßer, grüner Fisch, der in gemäßigten Seen vorkommt.]"
 
 #: creature_large_riverlake.txt:410
 msgctxt "CREATURE:FISH_PIKE"
 msgid "[NAME:pike:pike:pike]"
-msgstr ""
+msgstr "[NAME:Hecht:Hecht:Hecht]"
 
 #: creature_large_riverlake.txt:411
 msgctxt "CREATURE:FISH_PIKE"
 msgid "[CASTE_NAME:pike:pike:pike]"
-msgstr ""
+msgstr "[CASTE_NAME:Hecht:Hecht:Hecht]"
 
 #: creature_large_riverlake.txt:412
 msgctxt "CREATURE:FISH_PIKE"
 msgid "[GENERAL_CHILD_NAME:pike fry:pike fry]"
-msgstr ""
+msgstr "[GENERAL_CHILD_NAME:Hechtbrut:Hechtbrut]"
 
 #: creature_large_riverlake.txt:423
 msgctxt "CREATURE:FISH_PIKE"
@@ -16735,22 +16736,22 @@ msgctxt "CREATURE:PLATYPUS"
 msgid ""
 "[DESCRIPTION:A small semi-aquatic, egg laying mammal with a bill, flat tail "
 "and poison spurs.]"
-msgstr ""
+msgstr "[DESCRIPTION:Ein kleines, halb aquatisches, eierlegendes Säugetier mit Schnabel, flachem Schwanz und Giftsporen.]"
 
 #: creature_large_riverlake.txt:506
 msgctxt "CREATURE:PLATYPUS"
 msgid "[NAME:platypus:platypuses:platypus]"
-msgstr ""
+msgstr "[NAME:Schnabeltier:Schnabeltiere:Schnabeltier]"
 
 #: creature_large_riverlake.txt:507
 msgctxt "CREATURE:PLATYPUS"
 msgid "[CASTE_NAME:platypus:platypuses:platypus]"
-msgstr ""
+msgstr "[CASTE_NAME:Schnabeltier:Schnabeltiere:Schnabeltier]"
 
 #: creature_large_riverlake.txt:508
 msgctxt "CREATURE:PLATYPUS"
 msgid "[GENERAL_CHILD_NAME:baby platypus:baby platypuses]"
-msgstr ""
+msgstr "[GENERAL_CHILD_NAME:Baby Schnabeltier:Baby Schnabeltiere]"
 
 #: creature_large_riverlake.txt:522
 msgctxt "CREATURE:PLATYPUS"
@@ -16785,27 +16786,27 @@ msgstr "[STATE_ADJ:ALL_SOLID:gefrorenes Schnabeltier Gift]"
 #: creature_large_riverlake.txt:553
 msgctxt "CREATURE:PLATYPUS"
 msgid "[STATE_NAME:LIQUID:platypus venom]"
-msgstr ""
+msgstr "[STATE_NAME:LIQUID:Schnabeltiergift]"
 
 #: creature_large_riverlake.txt:554
 msgctxt "CREATURE:PLATYPUS"
 msgid "[STATE_ADJ:LIQUID:platypus venom]"
-msgstr ""
+msgstr "[STATE_ADJ:LIQUID:Schnabeltiergift]"
 
 #: creature_large_riverlake.txt:555
 msgctxt "CREATURE:PLATYPUS"
 msgid "[STATE_NAME:GAS:boiling platypus venom]"
-msgstr ""
+msgstr "[STATE_NAME:GAS:kochendes Schnabeltiergift]"
 
 #: creature_large_riverlake.txt:556
 msgctxt "CREATURE:PLATYPUS"
 msgid "[STATE_ADJ:GAS:boiling platypus venom]"
-msgstr ""
+msgstr "[STATE_ADJ:GAS:kochendes Schnabeltiergift]"
 
 #: creature_large_riverlake.txt:560
 msgctxt "CREATURE:PLATYPUS"
 msgid "[SYN_NAME:platypus sting]"
-msgstr ""
+msgstr "[SYN_NAME:Schnabeltierstich]"
 
 #: creature_large_riverlake.txt:590
 msgctxt "CREATURE:PLATYPUS"
@@ -16835,7 +16836,7 @@ msgstr "[TLCM_NOUN:Augen:PLURAL]"
 #: creature_large_riverlake.txt:636
 msgctxt "CREATURE:PLATYPUS MAN"
 msgid "[CASTE_NAME:platypus man:platypus men:platypus man]"
-msgstr ""
+msgstr "[CASTE_NAME:Schnabeltiermann:Schnabeltiermenschen:Schnabeltiermann]"
 
 #: creature_large_riverlake.txt:640
 msgctxt "CREATURE:PLATYPUS MAN"
@@ -16845,33 +16846,33 @@ msgstr "[ATTACK_VERB:treten:tritt]"
 #: creature_large_riverlake.txt:651
 msgctxt "CREATURE:PLATYPUS MAN"
 msgid "[CASTE_NAME:platypus woman:platypus women:platypus woman]"
-msgstr ""
+msgstr "[CASTE_NAME:Schnabeltier Frau:Schnabeltier Frauen:Schnabeltier Frau]"
 
 #: creature_large_riverlake.txt:661
 msgctxt "CREATURE:PLATYPUS MAN"
 msgid "[NAME:platypus man:platypus men:platypus man]"
-msgstr ""
+msgstr "[NAME:Schnabeltiermann:Schnabeltiermenschen:Schnabeltiermann]"
 
 #: creature_large_riverlake.txt:662
 msgctxt "CREATURE:PLATYPUS MAN"
 msgid ""
 "[DESCRIPTION:A humanoid with the head, tail and poison spurs of a platypus.]"
-msgstr ""
+msgstr "[DESCRIPTION:Ein Humanoide mit dem Kopf, dem Schwanz und den Giftsporen eines Schnabeltiers.]"
 
 #: creature_large_riverlake.txt:677
 msgctxt "CREATURE:PLATYPUS, GIANT"
 msgid "[NAME:giant platypus:giant platypuses:giant platypus]"
-msgstr ""
+msgstr "[NAME:Riesenschnabeltier:Riesenschnabeltiere:Riesenschnabeltier]"
 
 #: creature_large_riverlake.txt:678
 msgctxt "CREATURE:PLATYPUS, GIANT"
 msgid "[CASTE_NAME:giant platypus:giant platypuses:giant platypus]"
-msgstr ""
+msgstr "[CASTE_NAME:Riesenschnabeltier:Riesenschnabeltiere:Riesenschnabeltier]"
 
 #: creature_large_riverlake.txt:679
 msgctxt "CREATURE:PLATYPUS, GIANT"
 msgid "[GENERAL_CHILD_NAME:baby giant platypus:baby giant platypuses]"
-msgstr ""
+msgstr "[GENERAL_CHILD_NAME:Baby-Riesenschnabeltier:Baby-Riesenschnabeltiere]"
 
 #: creature_large_riverlake.txt:680
 msgctxt "CREATURE:PLATYPUS, GIANT"
@@ -16913,17 +16914,17 @@ msgstr "[DESCRIPTION:Eine riesige braune Kreatur, die in gemäßigten Wäldern v
 #: creature_large_temperate.txt:7
 msgctxt "CREATURE:BEAR_GRIZZLY"
 msgid "[NAME:grizzly bear:grizzly bears:grizzly bear]"
-msgstr ""
+msgstr "[NAME:Grizzlybär:Grizzlybären:Grizzlybär]"
 
 #: creature_large_temperate.txt:8
 msgctxt "CREATURE:BEAR_GRIZZLY"
 msgid "[CASTE_NAME:grizzly bear:grizzly bears:grizzly bear]"
-msgstr ""
+msgstr "[CASTE_NAME:Grizzlybär:Grizzlybären:Grizzlybär]"
 
 #: creature_large_temperate.txt:9
 msgctxt "CREATURE:BEAR_GRIZZLY"
 msgid "[GENERAL_CHILD_NAME:grizzly bear cub:grizzly bear cubs]"
-msgstr ""
+msgstr "[GENERAL_CHILD_NAME:Grizzlybärjunge:Grizzlybärjunge]"
 
 #: creature_large_temperate.txt:27
 msgctxt "CREATURE:BEAR_GRIZZLY"
@@ -16958,37 +16959,37 @@ msgstr "[TLCM_NOUN:Augen:PLURAL]"
 #: creature_large_temperate.txt:111
 msgctxt "CREATURE:BEAR_GRIZZLY_MAN"
 msgid "[CASTE_NAME:grizzly bear man:grizzly bear men:grizzly bear man]"
-msgstr ""
+msgstr "[CASTE_NAME:Grizzlybär männchen:Grizzlybären männchen:Grizzlybär männchen]"
 
 #: creature_large_temperate.txt:113
 msgctxt "CREATURE:BEAR_GRIZZLY_MAN"
 msgid "[CASTE_NAME:grizzly bear woman:grizzly bear women:grizzly bear woman]"
-msgstr ""
+msgstr "[CASTE_NAME:Grizzlybär weibchen:Grizzlybären weibchen:Grizzlybär weibchen]"
 
 #: creature_large_temperate.txt:124
 msgctxt "CREATURE:BEAR_GRIZZLY_MAN"
 msgid "[NAME:grizzly bear man:grizzly bear men:grizzly bear man]"
-msgstr ""
+msgstr "[NAME:Grizzlybär männchen:Grizzlybären männchen:Grizzlybär männchen]"
 
 #: creature_large_temperate.txt:125
 msgctxt "CREATURE:BEAR_GRIZZLY_MAN"
 msgid "[DESCRIPTION:A large person with the head of a grizzly bear.]"
-msgstr ""
+msgstr "[DESCRIPTION:Eine große Person mit dem Kopf eines Grizzlybären.]"
 
 #: creature_large_temperate.txt:143
 msgctxt "CREATURE:GIANT_BEAR_GRIZZLY"
 msgid "[NAME:giant grizzly bear:giant grizzly bears:giant grizzly bear]"
-msgstr ""
+msgstr "[NAME:Riesen-Grizzlybär:Riesen-Grizzlybären:Riesen-Grizzlybär]"
 
 #: creature_large_temperate.txt:144
 msgctxt "CREATURE:GIANT_BEAR_GRIZZLY"
 msgid "[CASTE_NAME:giant grizzly bear:giant grizzly bears:giant grizzly bear]"
-msgstr ""
+msgstr "[CASTE_NAME:Riesen-Grizzlybär:Riesen-Grizzlybären:Riesen-Grizzlybär]"
 
 #: creature_large_temperate.txt:145
 msgctxt "CREATURE:GIANT_BEAR_GRIZZLY"
 msgid "[GENERAL_CHILD_NAME:giant grizzly bear cub:giant grizzly bear cubs]"
-msgstr ""
+msgstr "[GENERAL_CHILD_NAME:Riesiges Grizzlybär-Jungtier:Riesige Grizzlybär-Jungtiere]"
 
 #: creature_large_temperate.txt:146
 msgctxt "CREATURE:GIANT_BEAR_GRIZZLY"
@@ -17007,22 +17008,22 @@ msgid ""
 "Mainly living on berries, it will also steal carcasses from other hunters.  "
 "Though normally a docile animal, it has been known to kill in a predatory "
 "attack.]"
-msgstr ""
+msgstr "[DESCRIPTION:Ein großes, alles fressendes Raubtier, das in gemäßigten Wäldern lebt. Er ernährt sich hauptsächlich von Beeren, stiehlt aber auch Kadaver von anderen Jägern. Obwohl er normalerweise ein gutmütiges Tier ist, ist es bekannt, dass er bei einem Raubzug tötet.]"
 
 #: creature_large_temperate.txt:163
 msgctxt "CREATURE:BEAR_BLACK"
 msgid "[NAME:black bear:black bears:black bear]"
-msgstr ""
+msgstr "[NAME:Schwarzbär:Schwarzbären:Schwarzbär]"
 
 #: creature_large_temperate.txt:164
 msgctxt "CREATURE:BEAR_BLACK"
 msgid "[CASTE_NAME:black bear:black bears:black bear]"
-msgstr ""
+msgstr "[CASTE_NAME:Schwarzbär:Schwarzbären:Schwarzbär]"
 
 #: creature_large_temperate.txt:165
 msgctxt "CREATURE:BEAR_BLACK"
 msgid "[GENERAL_CHILD_NAME:black bear cub:black bear cubs]"
-msgstr ""
+msgstr "[GENERAL_CHILD_NAME:Schwarzbärenjunge:Schwarzbärenjunge]"
 
 #: creature_large_temperate.txt:181
 msgctxt "CREATURE:BEAR_BLACK"
@@ -17057,37 +17058,37 @@ msgstr "[TLCM_NOUN:Augen:PLURAL]"
 #: creature_large_temperate.txt:265
 msgctxt "CREATURE:BEAR_BLACK_MAN"
 msgid "[CASTE_NAME:black bear man:black bear men:black bear man]"
-msgstr ""
+msgstr "[CASTE_NAME:Schwarzbär männchen:Schwarzbären männchen:Schwarzbär männchen]"
 
 #: creature_large_temperate.txt:267
 msgctxt "CREATURE:BEAR_BLACK_MAN"
 msgid "[CASTE_NAME:black bear woman:black bear women:black bear woman]"
-msgstr ""
+msgstr "[CASTE_NAME:Schwarzbär weibchen:Schwarzbären weibchen:Schwarzbär weibchen]"
 
 #: creature_large_temperate.txt:278
 msgctxt "CREATURE:BEAR_BLACK_MAN"
 msgid "[NAME:black bear man:black bear men:black bear man]"
-msgstr ""
+msgstr "[NAME:Schwarzer Bär männchen:Schwarzeren Bär männchen:Schwarzer Bär  männchen]"
 
 #: creature_large_temperate.txt:279
 msgctxt "CREATURE:BEAR_BLACK_MAN"
 msgid "[DESCRIPTION:A large person with the head of a black bear.]"
-msgstr ""
+msgstr "[DESCRIPTION:Eine große Person mit dem Kopf eines Schwarzbären.]"
 
 #: creature_large_temperate.txt:297
 msgctxt "CREATURE:GIANT_BEAR_BLACK"
 msgid "[NAME:giant black bear:giant black bears:giant black bear]"
-msgstr ""
+msgstr "[NAME:Riesenschwarzbär:Riesenschwarzbären:Riesenschwarzbär]"
 
 #: creature_large_temperate.txt:298
 msgctxt "CREATURE:GIANT_BEAR_BLACK"
 msgid "[CASTE_NAME:giant black bear:giant black bears:giant black bear]"
-msgstr ""
+msgstr "[CASTE_NAME:Riesenschwarzbär:Riesenschwarzbären:Riesenschwarzbär]"
 
 #: creature_large_temperate.txt:299
 msgctxt "CREATURE:GIANT_BEAR_BLACK"
 msgid "[GENERAL_CHILD_NAME:giant black bear cub:giant black bear cubs]"
-msgstr ""
+msgstr "[GENERAL_CHILD_NAME:Riesiges Schwarzbärjunges:Riesiges Schwarzbärjunges]"
 
 #: creature_large_temperate.txt:300
 msgctxt "CREATURE:GIANT_BEAR_BLACK"
@@ -17104,22 +17105,22 @@ msgctxt "CREATURE:DEER"
 msgid ""
 "[DESCRIPTION:A medium-sized hoofed forest creature that grows its antlers "
 "back each year.]"
-msgstr ""
+msgstr "[DESCRIPTION:Ein mittelgroßes Waldtier mit Hufen, das sein Geweih jedes Jahr nachwachsen lässt.]"
 
 #: creature_large_temperate.txt:317
 msgctxt "CREATURE:DEER"
 msgid "[NAME:deer:deer:deer]"
-msgstr ""
+msgstr "[NAME:Rehe:Rehe:Rehe]"
 
 #: creature_large_temperate.txt:318
 msgctxt "CREATURE:DEER"
 msgid "[CASTE_NAME:deer:deer:deer]"
-msgstr ""
+msgstr "[CASTE_NAME:Rehe:Rehe:Rehe]"
 
 #: creature_large_temperate.txt:319
 msgctxt "CREATURE:DEER"
 msgid "[GENERAL_CHILD_NAME:deer fawn:deer fawns]"
-msgstr ""
+msgstr "[GENERAL_CHILD_NAME:Hirschkalb:Hirschkitze]"
 
 #: creature_large_temperate.txt:324
 msgctxt "CREATURE:DEER"
@@ -17154,7 +17155,7 @@ msgstr "[STATE_ADJ:ALL_SOLID:Geweih]"
 #: creature_large_temperate.txt:390
 msgctxt "CREATURE:DEER"
 msgid "[TISSUE_NAME:antler:NP]"
-msgstr ""
+msgstr "[TISSUE_NAME:Geweih:NP]"
 
 #: creature_large_temperate.txt:417
 msgctxt "CREATURE:DEER"
@@ -17174,37 +17175,37 @@ msgstr "[TLCM_NOUN:Augen:PLURAL]"
 #: creature_large_temperate.txt:430
 msgctxt "CREATURE:DEER_MAN"
 msgid "[CASTE_NAME:deer man:deer men:deer man]"
-msgstr ""
+msgstr "[CASTE_NAME:hirschmann:hirschmänner:hirschmann]"
 
 #: creature_large_temperate.txt:432
 msgctxt "CREATURE:DEER_MAN"
 msgid "[CASTE_NAME:deer woman:deer women:deer woman]"
-msgstr ""
+msgstr "[CASTE_NAME:Hirschfrau:Hirschfrauen:Hirschfrau]"
 
 #: creature_large_temperate.txt:442
 msgctxt "CREATURE:DEER_MAN"
 msgid "[NAME:deer man:deer men:deer man]"
-msgstr ""
+msgstr "[NAME:Hirschmann:Hirschmänner:Hirschmann]"
 
 #: creature_large_temperate.txt:443
 msgctxt "CREATURE:DEER_MAN"
 msgid "[DESCRIPTION:A person with the head of a deer.]"
-msgstr ""
+msgstr "[DESCRIPTION:Eine Person mit dem Kopf eines Rehs.]"
 
 #: creature_large_temperate.txt:459
 msgctxt "CREATURE:GIANT_DEER"
 msgid "[NAME:giant deer:giant deer:giant deer]"
-msgstr ""
+msgstr "[NAME:Riesenhirsch:Riesenhirsch:Riesenhirsch]"
 
 #: creature_large_temperate.txt:460
 msgctxt "CREATURE:GIANT_DEER"
 msgid "[CASTE_NAME:giant deer:giant deer:giant deer]"
-msgstr ""
+msgstr "[CASTE_NAME:Riesenhirsch:Riesenhirsch:Riesenhirsch]"
 
 #: creature_large_temperate.txt:461
 msgctxt "CREATURE:GIANT_DEER"
 msgid "[GENERAL_CHILD_NAME:giant deer fawn:giant deer fawns]"
-msgstr ""
+msgstr "[GENERAL_CHILD_NAME:Riesenhirschkalb:Riesenhirschkitze]"
 
 #: creature_large_temperate.txt:462
 msgctxt "CREATURE:GIANT_DEER"
@@ -17221,22 +17222,22 @@ msgctxt "CREATURE:FOX"
 msgid ""
 "[DESCRIPTION:A small carnivorous animal found in temperate climates.  It has"
 " orange fur and is known for its cleverness.]"
-msgstr ""
+msgstr "[DESCRIPTION:Ein kleines fleischfressendes Tier, das in gemäßigten Klimazonen vorkommt. Es hat ein orangefarbenes Fell und ist für seine Intelligenz bekannt]."
 
 #: creature_large_temperate.txt:478
 msgctxt "CREATURE:FOX"
 msgid "[NAME:fox:foxes:fox]"
-msgstr ""
+msgstr "[NAME:Fuchs:Füchse:Fuchs]"
 
 #: creature_large_temperate.txt:479
 msgctxt "CREATURE:FOX"
 msgid "[CASTE_NAME:fox:foxes:fox]"
-msgstr ""
+msgstr "[CASTE_NAME:Fuchs:Füchse:Fuchs]"
 
 #: creature_large_temperate.txt:480
 msgctxt "CREATURE:FOX"
 msgid "[GENERAL_CHILD_NAME:fox pup:fox pups]"
-msgstr ""
+msgstr "[GENERAL_CHILD_NAME:Fuchswelpe:Fuchswelpen]"
 
 #: creature_large_temperate.txt:494
 msgctxt "CREATURE:FOX"
@@ -17271,22 +17272,22 @@ msgstr "[TLCM_NOUN:Augen:PLURAL]"
 #: creature_large_temperate.txt:574
 msgctxt "CREATURE:FOX_MAN"
 msgid "[CASTE_NAME:fox man:fox men:fox man]"
-msgstr ""
+msgstr "[CASTE_NAME:Fuchsmann:Fuchsmänner:Fuchsmann]"
 
 #: creature_large_temperate.txt:576
 msgctxt "CREATURE:FOX_MAN"
 msgid "[CASTE_NAME:fox woman:fox women:fox woman]"
-msgstr ""
+msgstr "[CASTE_NAME:Fuchsfrau:Fuchsfrauen:Fuchsfrau]"
 
 #: creature_large_temperate.txt:587
 msgctxt "CREATURE:FOX_MAN"
 msgid "[NAME:fox man:fox men:fox man]"
-msgstr ""
+msgstr "[NAME:Fuchsmann:Fuchsmänner:Fuchsmann]"
 
 #: creature_large_temperate.txt:588
 msgctxt "CREATURE:FOX_MAN"
 msgid "[DESCRIPTION:A person with the head and tail of a fox.]"
-msgstr ""
+msgstr "[DESCRIPTION:Eine Person mit dem Kopf und Schwanz eines Fuchses]."
 
 #: creature_large_temperate.txt:606
 msgctxt "CREATURE:GIANT_FOX"
@@ -17319,7 +17320,7 @@ msgid ""
 "[DESCRIPTION:A small omnivorous animal with a bright mask of fur.  It is "
 "nocturnal and found in temperate forests.  It is a curious animal and has "
 "been known to steal from civilized areas.]"
-msgstr ""
+msgstr "[DESCRIPTION:Ein kleines, alles fressendes Tier mit einem hellen Fellkleid. Es ist nachtaktiv und kommt in temperierten Wäldern vor. Es ist ein neugieriges Tier und dafür bekannt, dass es aus zivilisierten Gebieten stiehlt]."
 
 #: creature_large_temperate.txt:625
 msgctxt "CREATURE:RACCOON"
@@ -17700,7 +17701,7 @@ msgctxt "CREATURE:GROUNDHOG"
 msgid ""
 "[DESCRIPTION:A large, round, lowland rodent.  It lives in burrows in the "
 "ground and ventures out to eat.]"
-msgstr ""
+msgstr "[DESCRIPTION:Ein großes, rundes Tiefland-Nagetier. Er lebt in Erdlöchern und wagt sich zum Fressen hinaus.]"
 
 #: creature_large_temperate.txt:1224
 msgctxt "CREATURE:GROUNDHOG"
@@ -25755,7 +25756,7 @@ msgctxt "CREATURE:BEAVER"
 msgid ""
 "[DESCRIPTION:A small river mammal with a flat tail, known for building "
 "wooden dams.]"
-msgstr ""
+msgstr "[DESCRIPTION:Ein kleines Flusssäugetier mit einem flachen Schwanz, das für den Bau von Holzdämmen bekannt ist.]"
 
 #: creature_riverlakepool_new.txt:501
 msgctxt "CREATURE:BEAVER"
@@ -25847,7 +25848,7 @@ msgctxt "CREATURE:GIANT_BEAVER"
 msgid ""
 "[DESCRIPTION:A large river monster, known for building huge wooden "
 "fortresses.]"
-msgstr ""
+msgstr "[DESCRIPTION:Ein großes Flussmonster, bekannt für den Bau riesiger Holzfestungen.]"
 
 #: creature_riverlakepool_new.txt:642
 msgctxt "CREATURE:GIANT_BEAVER"
@@ -26189,7 +26190,7 @@ msgstr "[PREFSTRING:Schalen]"
 msgctxt "CREATURE:HAMSTER"
 msgid ""
 "[DESCRIPTION:A tiny rodent that burrows by day and scurries about at night.]"
-msgstr ""
+msgstr "[DESCRIPTION:Ein winziges Nagetier, das sich tagsüber eingräbt und nachts herumwuselt.]"
 
 #: creature_small_mammal_new.txt:11
 msgctxt "CREATURE:HAMSTER"
@@ -27677,7 +27678,7 @@ msgctxt "CREATURE:FISH_LUNGFISH"
 msgid ""
 "[DESCRIPTION:A small fish which can walk on the land and breathe air.  It "
 "burrows in the mud when things get dry.]"
-msgstr ""
+msgstr "[DESCRIPTION:Ein kleiner Fisch, der an Land gehen und Luft atmen kann. Er gräbt sich im Schlamm ein, wenn es trocken wird..]"
 
 #: creature_small_riverlake.txt:7
 msgctxt "CREATURE:FISH_LUNGFISH"
