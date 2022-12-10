@@ -3,7 +3,8 @@
 # Brivido . <brivido20640441@yahoo.it>, 2020
 # Dado Dade <davidoskky@yahoo.it>, 2019
 # daniele leonetti <daniele.leonetti@emec.it>, 2018
-# 2L2L <crongdynedavmorn@gmail.com>, 2018
+# Dario Landucci, 2018
+# Francesco Passoni, 2022
 # Gabriele Grillo <gabry.grillo@alice.it>, 2018
 # Matteo Cagliari <matteocagliari5@gmail.com>, 2021
 # Riccardo Di Maio <riccardodimaio11@gmail.com>, 2015
@@ -13,7 +14,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Dwarf Fortress\n"
 "PO-Revision-Date: 2015-02-03 06:42+0000\n"
-"Last-Translator: Matteo Cagliari <matteocagliari5@gmail.com>, 2021\n"
+"Last-Translator: Francesco Passoni, 2022\n"
 "Language-Team: Italian (http://www.transifex.com/dwarf-fortress-translation/dwarf-fortress/language/it/)\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -138,7 +139,7 @@ msgstr "[BP:LL:gamba posteriore sinistra:STP]"
 #: body_default.txt:69
 msgctxt "BODY:BASIC_REARLEGS"
 msgid "[BP:RF:right rear foot:right rear feet]"
-msgstr ""
+msgstr "[BP:RF:piede posteriore destro:piedi posteriori destri]"
 
 #: body_default.txt:71
 msgctxt "BODY:BASIC_REARLEGS"
@@ -228,27 +229,27 @@ msgstr "[BP:HD3:terza testa:STP]"
 #: body_default.txt:109
 msgctxt "BODY:7HEADNECKS"
 msgid "[BP:HD4:fourth head:STP]"
-msgstr ""
+msgstr "[BP:HD4:quarta testa:STP]"
 
 #: body_default.txt:111
 msgctxt "BODY:7HEADNECKS"
 msgid "[BP:HD5:fifth head:STP]"
-msgstr ""
+msgstr "[BP:HD5:quinta testa:STP]"
 
 #: body_default.txt:113
 msgctxt "BODY:7HEADNECKS"
 msgid "[BP:HD6:sixth head:STP]"
-msgstr ""
+msgstr "[BP:HD6:sesta testa:STP]"
 
 #: body_default.txt:115
 msgctxt "BODY:7HEADNECKS"
 msgid "[BP:HD7:seventh head:STP]"
-msgstr ""
+msgstr "[BP:HD7:settima testa:STP]"
 
 #: body_default.txt:119
 msgctxt "BODY:BASIC_HEAD"
 msgid "[BP:HD:head:STP]"
-msgstr ""
+msgstr "[BP:HD:testa:STP]"
 
 #: body_default.txt:123
 msgctxt "BODY:BASIC_HEAD_NECK"
@@ -258,12 +259,12 @@ msgstr ""
 #: body_default.txt:125
 msgctxt "BODY:BASIC_HEAD_NECK"
 msgid "[BP:HD:head:STP]"
-msgstr ""
+msgstr "[BP:HD:testa:STP]"
 
 #: body_default.txt:129
 msgctxt "BODY:BODY_HEAD"
 msgid "[BP:HD:head:STP]"
-msgstr ""
+msgstr "[BP:HD:testa:STP]"
 
 #: body_default.txt:133
 msgctxt "BODY:BODY_WITH_HEAD_FLAG"
@@ -283,7 +284,7 @@ msgstr "[BP:LB:arti inferiori:arti inferiori]"
 #: body_default.txt:141
 msgctxt "BODY:HUMANOID"
 msgid "[BP:HD:head:STP]"
-msgstr ""
+msgstr "[BP:HD:testa:STP]"
 
 #: body_default.txt:143
 msgctxt "BODY:HUMANOID"
@@ -358,7 +359,7 @@ msgstr "[BP:LB:arti inferiori:arti inferiori]"
 #: body_default.txt:173
 msgctxt "BODY:HUMANOID_HOOF"
 msgid "[BP:HD:head:STP]"
-msgstr ""
+msgstr "[BP:HD:testa:STP]"
 
 #: body_default.txt:175
 msgctxt "BODY:HUMANOID_HOOF"
@@ -438,7 +439,7 @@ msgstr ""
 #: body_default.txt:207
 msgctxt "BODY:HUMANOID_NECK"
 msgid "[BP:HD:head:STP]"
-msgstr ""
+msgstr "[BP:HD:testa:STP]"
 
 #: body_default.txt:209
 msgctxt "BODY:HUMANOID_NECK"
@@ -518,7 +519,7 @@ msgstr ""
 #: body_default.txt:241
 msgctxt "BODY:HUMANOID_NECK_HOOF"
 msgid "[BP:HD:head:STP]"
-msgstr ""
+msgstr "[BP:HD:testa:STP]"
 
 #: body_default.txt:243
 msgctxt "BODY:HUMANOID_NECK_HOOF"
@@ -598,7 +599,7 @@ msgstr ""
 #: body_default.txt:275
 msgctxt "BODY:HUMANOID_LEGLESS_NECK"
 msgid "[BP:HD:head:STP]"
-msgstr ""
+msgstr "[BP:HD:testa:STP]"
 
 #: body_default.txt:277
 msgctxt "BODY:HUMANOID_LEGLESS_NECK"
@@ -643,7 +644,7 @@ msgstr "[BP:LB:arti inferiori:arti inferiori]"
 #: body_default.txt:295
 msgctxt "BODY:HUMANOID_FLIER"
 msgid "[BP:HD:head:STP]"
-msgstr ""
+msgstr "[BP:HD:testa:STP]"
 
 #: body_default.txt:297
 msgctxt "BODY:HUMANOID_FLIER"
@@ -723,7 +724,7 @@ msgstr ""
 #: body_default.txt:329
 msgctxt "BODY:HUMANOID_NECK_FLIER"
 msgid "[BP:HD:head:STP]"
-msgstr ""
+msgstr "[BP:HD:testa:STP]"
 
 #: body_default.txt:331
 msgctxt "BODY:HUMANOID_NECK_FLIER"
@@ -808,7 +809,7 @@ msgstr "[BP:LB:arti inferiori:arti inferiori]"
 #: body_default.txt:367
 msgctxt "BODY:HUMANOID_ARMLESS"
 msgid "[BP:HD:head:STP]"
-msgstr ""
+msgstr "[BP:HD:testa:STP]"
 
 #: body_default.txt:369
 msgctxt "BODY:HUMANOID_ARMLESS"
@@ -853,7 +854,7 @@ msgstr "[BP:LB:arti inferiori:arti inferiori]"
 #: body_default.txt:387
 msgctxt "BODY:HUMANOID_LEGLESS"
 msgid "[BP:HD:head:STP]"
-msgstr ""
+msgstr "[BP:HD:testa:STP]"
 
 #: body_default.txt:389
 msgctxt "BODY:HUMANOID_LEGLESS"
@@ -898,7 +899,7 @@ msgstr "[BP:LB:arti inferiori:arti inferiori]"
 #: body_default.txt:407
 msgctxt "BODY:HUMANOID_4ARMS"
 msgid "[BP:HD:head:STP]"
-msgstr ""
+msgstr "[BP:HD:testa:STP]"
 
 #: body_default.txt:409
 msgctxt "BODY:HUMANOID_4ARMS"
@@ -1003,7 +1004,7 @@ msgstr "[BP:LB:arti inferiori:arti inferiori]"
 #: body_default.txt:451
 msgctxt "BODY:HUMANOID_6ARMS"
 msgid "[BP:HD:head:STP]"
-msgstr ""
+msgstr "[BP:HD:testa:STP]"
 
 #: body_default.txt:453
 msgctxt "BODY:HUMANOID_6ARMS"
@@ -1138,7 +1139,7 @@ msgstr "[BP:LB:arti inferiori:arti inferiori]"
 #: body_default.txt:507
 msgctxt "BODY:HUMANOID_LEGLESS_4ARMS"
 msgid "[BP:HD:head:STP]"
-msgstr ""
+msgstr "[BP:HD:testa:STP]"
 
 #: body_default.txt:509
 msgctxt "BODY:HUMANOID_LEGLESS_4ARMS"
@@ -1213,7 +1214,7 @@ msgstr "[BP:LB:arti inferiori:arti inferiori]"
 #: body_default.txt:539
 msgctxt "BODY:HUMANOID_LEGLESS_6ARMS"
 msgid "[BP:HD:head:STP]"
-msgstr ""
+msgstr "[BP:HD:testa:STP]"
 
 #: body_default.txt:541
 msgctxt "BODY:HUMANOID_LEGLESS_6ARMS"
@@ -1323,7 +1324,7 @@ msgstr ""
 #: body_default.txt:585
 msgctxt "BODY:HUMANOID_NECK_4ARMS"
 msgid "[BP:HD:head:STP]"
-msgstr ""
+msgstr "[BP:HD:testa:STP]"
 
 #: body_default.txt:587
 msgctxt "BODY:HUMANOID_NECK_4ARMS"
@@ -1488,12 +1489,12 @@ msgstr "[BP:LB:arti inferiori:arti inferiori]"
 #: body_default.txt:655
 msgctxt "BODY:HUMANOID_2HEAD"
 msgid "[BP:RHD:right head:STP]"
-msgstr ""
+msgstr "[BP:RHD:testa a destra:STP]"
 
 #: body_default.txt:657
 msgctxt "BODY:HUMANOID_2HEAD"
 msgid "[BP:LHD:left head:STP]"
-msgstr ""
+msgstr "[BP:LHD:testa a sinistra:STP]"
 
 #: body_default.txt:659
 msgctxt "BODY:HUMANOID_2HEAD"
@@ -13073,7 +13074,7 @@ msgstr ""
 #: creature_domestic.txt:2124
 msgctxt "CREATURE:ALPACA"
 msgid "[APP_MOD_NOUN:wool:SINGULAR]"
-msgstr ""
+msgstr "[APP_MOD_NOUN:lana:SINGULAR]"
 
 #: creature_domestic.txt:2130
 msgctxt "CREATURE:ALPACA"
@@ -15324,7 +15325,7 @@ msgstr ""
 #: creature_large_ocean.txt:1087
 msgctxt "CREATURE:SHARK_REEF_BLACKTIP"
 msgid "[PREFSTRING:curiosity]"
-msgstr ""
+msgstr "[PREFSTRING:curiosità]"
 
 #: creature_large_ocean.txt:1088
 msgctxt "CREATURE:SHARK_REEF_BLACKTIP"
