@@ -4,12 +4,12 @@
 # Alejandro “UniverseOfGamer” Vera Garcia, 2022
 # Clemente Pozo Heredia <clementepozoheredia@gmail.com>, 2022
 # Transifex Bot <>, 2022
-# Fco Javier Rodríguez, 2022
 # José Marín, 2022
+# Fco Javier Rodríguez, 2022
 # 
 msgid ""
 msgstr ""
-"Last-Translator: José Marín, 2022\n"
+"Last-Translator: Fco Javier Rodríguez, 2022\n"
 "Language-Team: Spanish (https://www.transifex.com/dwarf-fortress-translation/teams/22396/es/)\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -18585,21 +18585,23 @@ msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:4594
 msgid "This item is bait."
-msgstr ""
+msgstr "Este objeto es un cebo."
 
 #: stringdump_steam_2022_12_06.txt:4595
 msgid "This is a small creature within the trap."
-msgstr ""
+msgstr "Esta es una pequeña criatura dentro de la trampa."
 
 #: stringdump_steam_2022_12_06.txt:4596
 msgid "This item is being traded."
-msgstr ""
+msgstr "Este objeto está siendo intercambiado."
 
 #: stringdump_steam_2022_12_06.txt:4597
 msgid ""
 "This item is a permanent part of the building.  Forbid and visibility tags "
 "set here affect the whole building."
 msgstr ""
+"Este objeto es una parte permanente del edificio. Las etiquetas de "
+"prohibición y visibilidad establecidas aquí afectan a todo el edificio."
 
 #: stringdump_steam_2022_12_06.txt:4598
 msgid ""
@@ -18607,11 +18609,16 @@ msgid ""
 "items or buildings.  If a permanent building item is forbidden, citizens "
 "will not perform tasks there!"
 msgstr ""
+"Cambia el estado prohibido del objeto. Los ciudadanos no utilizarán objetos "
+"o edificios prohibidos. ¡Si un objeto de construcción permanente está "
+"prohibido, los ciudadanos no realizarán tareas allí!"
 
 #: stringdump_steam_2022_12_06.txt:4599
 msgid ""
 "This item is a semi-permanent part of the building, like an item on display."
 msgstr ""
+"Este objeto es una parte semipermanente del edificio, como un objeto en "
+"exhibición."
 
 #: stringdump_steam_2022_12_06.txt:4600
 msgid "This item is resting within the building."
@@ -60927,15 +60934,15 @@ msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:19758
 msgid " table"
-msgstr ""
+msgstr "mesa"
 
 #: stringdump_steam_2022_12_06.txt:19759
 msgid " crutch"
-msgstr ""
+msgstr "muleta"
 
 #: stringdump_steam_2022_12_06.txt:19760
 msgid " splint"
-msgstr ""
+msgstr "entablillar"
 
 #: stringdump_steam_2022_12_06.txt:19761
 msgid " weapon rack"
@@ -60951,7 +60958,7 @@ msgstr "Cortar"
 
 #: stringdump_steam_2022_12_06.txt:19764
 msgid " coins"
-msgstr ""
+msgstr "monedas"
 
 #: stringdump_steam_2022_12_06.txt:19765
 msgid "Cut raw glass into gems"
@@ -60959,7 +60966,7 @@ msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:19766
 msgid "Cut gems"
-msgstr ""
+msgstr "Cortar gemas"
 
 #: stringdump_steam_2022_12_06.txt:19767
 msgid "Polish stones"
@@ -60971,7 +60978,7 @@ msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:19769
 msgid "Engrave memorial slab"
-msgstr ""
+msgstr "Grabar losa conmemorativa"
 
 #: stringdump_steam_2022_12_06.txt:19770
 msgid " (engrave memorial)"
@@ -60983,11 +60990,11 @@ msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:19772
 msgid "Decorate with "
-msgstr ""
+msgstr "Decorar con"
 
 #: stringdump_steam_2022_12_06.txt:19773
 msgid "finished goods"
-msgstr ""
+msgstr "artículos terminados"
 
 #: stringdump_steam_2022_12_06.txt:19774
 msgid "Encrust "
@@ -60995,11 +61002,11 @@ msgstr "Encrustar"
 
 #: stringdump_steam_2022_12_06.txt:19775
 msgid "ammo"
-msgstr ""
+msgstr "munición"
 
 #: stringdump_steam_2022_12_06.txt:19776
 msgid "furniture"
-msgstr ""
+msgstr "mueble"
 
 #: stringdump_steam_2022_12_06.txt:19777
 msgid "polished stones"
@@ -61027,7 +61034,7 @@ msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:19783
 msgid "Fell tree"
-msgstr ""
+msgstr "árbol vil"
 
 #: stringdump_steam_2022_12_06.txt:19784
 msgid "Dig channel"
@@ -61039,7 +61046,7 @@ msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:19786
 msgid "Gather plants"
-msgstr ""
+msgstr "Recolectar plantas"
 
 #: stringdump_steam_2022_12_06.txt:19787
 msgid "Eat"
@@ -61055,7 +61062,7 @@ msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:19790
 msgid "Get provisions"
-msgstr ""
+msgstr "Obtener provisiones"
 
 #: stringdump_steam_2022_12_06.txt:19791
 msgid "Sleep"
@@ -61067,7 +61074,7 @@ msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:19793
 msgid "No job"
-msgstr ""
+msgstr "Sin trabajo"
 
 #: stringdump_steam_2022_12_06.txt:19794
 msgid "Kidnap"
@@ -61075,7 +61082,7 @@ msgstr "Secuestrar"
 
 #: stringdump_steam_2022_12_06.txt:19795
 msgid "Weave thread into cloth"
-msgstr ""
+msgstr "Tejer hilo en ropa"
 
 #: stringdump_steam_2022_12_06.txt:19796
 msgid "Weave yarn into cloth"
@@ -61095,7 +61102,7 @@ msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:19800
 msgid "Plant seeds"
-msgstr ""
+msgstr "Semillas de planta"
 
 #: stringdump_steam_2022_12_06.txt:19801
 msgid "Link a building to trigger"
@@ -61131,7 +61138,7 @@ msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:19809
 msgid "Remove construction"
-msgstr ""
+msgstr "Eliminar construcción"
 
 #: stringdump_steam_2022_12_06.txt:19810
 msgid "Remove stairs/ramps"
@@ -61147,11 +61154,11 @@ msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:19813
 msgid "Make ash"
-msgstr ""
+msgstr "Hacer cenizas"
 
 #: stringdump_steam_2022_12_06.txt:19814
 msgid "Make charcoal"
-msgstr ""
+msgstr "Hacer carbón"
 
 #: stringdump_steam_2022_12_06.txt:19815
 msgid "Smelt "
@@ -61163,15 +61170,15 @@ msgstr "Reacción"
 
 #: stringdump_steam_2022_12_06.txt:19817
 msgid "Melt a metal object"
-msgstr ""
+msgstr "Derretir objeto de metal"
 
 #: stringdump_steam_2022_12_06.txt:19818
 msgid " ore"
-msgstr ""
+msgstr "mineral"
 
 #: stringdump_steam_2022_12_06.txt:19819
 msgid "Dye thread"
-msgstr ""
+msgstr "Tintar hilo"
 
 #: stringdump_steam_2022_12_06.txt:19820
 msgid "Extract metal strands"
@@ -61183,11 +61190,11 @@ msgstr "Coser"
 
 #: stringdump_steam_2022_12_06.txt:19822
 msgid "Dye cloth"
-msgstr ""
+msgstr "Tintar ropa"
 
 #: stringdump_steam_2022_12_06.txt:19823
 msgid "Collect webs"
-msgstr ""
+msgstr "Recoger tejido"
 
 #: stringdump_steam_2022_12_06.txt:19824
 msgid " image"
@@ -61219,7 +61226,7 @@ msgstr "Montar"
 
 #: stringdump_steam_2022_12_06.txt:19831
 msgid " mechanisms"
-msgstr ""
+msgstr "mecanismos"
 
 #: stringdump_steam_2022_12_06.txt:19832
 msgid " catapult parts"
@@ -61227,19 +61234,19 @@ msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:19833
 msgid " anvil"
-msgstr ""
+msgstr "yunque"
 
 #: stringdump_steam_2022_12_06.txt:19834
 msgid " ballista parts"
-msgstr ""
+msgstr "piezas de balista"
 
 #: stringdump_steam_2022_12_06.txt:19835
 msgid " statue"
-msgstr ""
+msgstr "estatua"
 
 #: stringdump_steam_2022_12_06.txt:19836
 msgid " bed"
-msgstr ""
+msgstr "cama"
 
 #: stringdump_steam_2022_12_06.txt:19837
 msgid " quern"
@@ -61247,7 +61254,7 @@ msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:19838
 msgid " slab"
-msgstr ""
+msgstr "losa"
 
 #: stringdump_steam_2022_12_06.txt:19839
 msgid "Train "
@@ -61271,7 +61278,7 @@ msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:19844
 msgid "Fire ballista"
-msgstr ""
+msgstr "Balista de fuego"
 
 #: stringdump_steam_2022_12_06.txt:19845
 msgid "Load stone trap"
@@ -61291,19 +61298,19 @@ msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:19849
 msgid "Place item in tomb"
-msgstr ""
+msgstr "Colocar objeto en la tumba"
 
 #: stringdump_steam_2022_12_06.txt:19850
 msgid "Store item in barrel"
-msgstr ""
+msgstr "Almacenar objeto en el barril"
 
 #: stringdump_steam_2022_12_06.txt:19851
 msgid "Store item in bag"
-msgstr ""
+msgstr "Almacenar objeto en la mochila"
 
 #: stringdump_steam_2022_12_06.txt:19852
 msgid "Store item in vehicle"
-msgstr ""
+msgstr "Almacenar el objeto en el vehículo"
 
 #: stringdump_steam_2022_12_06.txt:19853
 msgid "Store item in bin"
@@ -61311,11 +61318,11 @@ msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:19854
 msgid "Store armor"
-msgstr ""
+msgstr "Almacenar armadura"
 
 #: stringdump_steam_2022_12_06.txt:19855
 msgid "Store weapon"
-msgstr ""
+msgstr "Almacenar arma"
 
 #: stringdump_steam_2022_12_06.txt:19856
 msgid "Pickup equipment"
@@ -61335,27 +61342,27 @@ msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:19860
 msgid "Load catapult"
-msgstr ""
+msgstr "Cargar catapulta"
 
 #: stringdump_steam_2022_12_06.txt:19861
 msgid "Clean trap"
-msgstr ""
+msgstr "Limpiar trampa"
 
 #: stringdump_steam_2022_12_06.txt:19862
 msgid "Fire catapult"
-msgstr ""
+msgstr "Catapulta de fuego"
 
 #: stringdump_steam_2022_12_06.txt:19863
 msgid "Load ballista"
-msgstr ""
+msgstr "Cargar balista"
 
 #: stringdump_steam_2022_12_06.txt:19864
 msgid "Report crime"
-msgstr ""
+msgstr "Reportar crimen"
 
 #: stringdump_steam_2022_12_06.txt:19865
 msgid "No activity"
-msgstr ""
+msgstr "Sin actividad"
 
 #: stringdump_steam_2022_12_06.txt:19866
 msgid "Starting fist fight"
@@ -61375,7 +61382,7 @@ msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:19870
 msgid "Execute criminal"
-msgstr ""
+msgstr "Ejecutar animal"
 
 #: stringdump_steam_2022_12_06.txt:19871
 msgid "Push track vehicle"
@@ -61403,7 +61410,7 @@ msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:19877
 msgid "Go shopping"
-msgstr ""
+msgstr "Ir de compras"
 
 #: stringdump_steam_2022_12_06.txt:19878
 msgid "Store owned item"
