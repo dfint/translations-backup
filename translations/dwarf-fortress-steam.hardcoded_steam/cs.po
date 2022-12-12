@@ -19204,6 +19204,8 @@ msgid ""
 "[C:VAR:MEETING:ACTOR][VAR:NATIVENAME:MEETING:ACTOR]: Well then, we have "
 "finalized the import agreement.  Feel free to go over the documents.[B]"
 msgstr ""
+"[C:VAR:MEETING:ACTOR][VAR:NATIVENAME:MEETING:ACTOR]: No, pak jsme dokončili "
+"dohodu o dovozu. Neváhejte projít dokumenty.[B]"
 
 #: stringdump_steam_2022_12_06.txt:4861
 msgid ""
@@ -19229,6 +19231,8 @@ msgid ""
 "[C:VAR:MEETING:ACTOR][VAR:NATIVENAME:MEETING:ACTOR]: Remember, trade "
 "agreements strengthen bonds.  Please consider an import agreement next year."
 msgstr ""
+"[C:VAR:MEETING:ACTOR][VAR:NATIVENAME:MEETING:ACTOR]: Pamatujte, že obchodní "
+"dohody posilují dluhopisy. Zvažte prosím dohodu o dovozu příští rok."
 
 #: stringdump_steam_2022_12_06.txt:4867
 msgid " requested, priced at "
@@ -19279,6 +19283,8 @@ msgid ""
 "[C:VAR:MEETING:ACTOR][VAR:NATIVENAME:MEETING:ACTOR]: We can part with at "
 "most "
 msgstr ""
+"[C:VAR:MEETING:ACTOR][VAR:NATIVENAME:MEETING:ACTOR]: Můžeme se rozloučit s "
+"nejvýše "
 
 #: stringdump_steam_2022_12_06.txt:4876
 msgid " is a sacred relic of our people."
@@ -19301,18 +19307,24 @@ msgid ""
 "[C:VAR:MEETING:ACTOR][VAR:NATIVENAME:MEETING:ACTOR]: The world is the same "
 "as ever."
 msgstr ""
+"[C:VAR:MEETING:ACTOR][VAR:NATIVENAME:MEETING:ACTOR]: Svět je stejný jako "
+"vždy."
 
 #: stringdump_steam_2022_12_06.txt:4881
 msgid ""
 "[C:VAR:MEETING:ACTOR][VAR:NATIVENAME:MEETING:ACTOR]: There is much to "
 "share...  (Information added to Civilizations/World Info)"
 msgstr ""
+"[C:VAR:MEETING:ACTOR][VAR:NATIVENAME:MEETING:ACTOR]: Je toho hodně ke "
+"sdílení ... (Informace přidány k Civilizacím/Světovým Informacím)"
 
 #: stringdump_steam_2022_12_06.txt:4882
 msgid ""
 "[C:VAR:MEETING:ACTOR][VAR:NATIVENAME:MEETING:ACTOR]: I don't know very much "
 "about the outside world.  I wish I had more to tell you."
 msgstr ""
+"[C:VAR:MEETING:ACTOR][VAR:NATIVENAME:MEETING:ACTOR]: O vnějším světě moc "
+"nevím. Přál bych si, abych ti toho řekl víc."
 
 #: stringdump_steam_2022_12_06.txt:4883
 msgid ""
@@ -19324,12 +19336,16 @@ msgid ""
 "[C:VAR:MEETING:ACTOR][VAR:NATIVENAME:MEETING:ACTOR]: Let's discuss what we "
 "are willing to offer for your "
 msgstr ""
+"[C:VAR:MEETING:ACTOR][VAR:NATIVENAME:MEETING:ACTOR]: Pojďme diskutovat o "
+"tom, co jsme ochotni nabídnout pro vaše "
 
 #: stringdump_steam_2022_12_06.txt:4885
 msgid ""
 "[C:VAR:MEETING:ACTOR][VAR:NATIVENAME:MEETING:ACTOR]: Let's discuss the state"
 " of our current agreements..."
 msgstr ""
+"[C:VAR:MEETING:ACTOR][VAR:NATIVENAME:MEETING:ACTOR]: Pojďme diskutovat o "
+"stavu našich současných dohod ..."
 
 #: stringdump_steam_2022_12_06.txt:4886
 msgid ""
@@ -46448,7 +46464,7 @@ msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:14621
 msgid "[Requires "
-msgstr ""
+msgstr "[Vyžaduje "
 
 #: stringdump_steam_2022_12_06.txt:14622
 msgid "slab engraved"
@@ -46480,15 +46496,15 @@ msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:14630
 msgid "[Requires fuel]"
-msgstr ""
+msgstr "[Vyžaduje palivo]"
 
 #: stringdump_steam_2022_12_06.txt:14631
 msgid "[Requires ore, fuel]"
-msgstr ""
+msgstr "[Vyžaduje rudu, palivo]"
 
 #: stringdump_steam_2022_12_06.txt:14632
 msgid "[Requires ore]"
-msgstr ""
+msgstr "[Vyžaduje rudu]"
 
 #: stringdump_steam_2022_12_06.txt:14633
 msgid ""
@@ -77346,7 +77362,7 @@ msgstr "[NAME:kabát:kabáty]"
 
 #: stringdump_steam_2022_12_06.txt:27875
 msgid "[NAME:cape:capes]"
-msgstr ""
+msgstr "[NAME:kapuce:kapuce]"
 
 #: stringdump_steam_2022_12_06.txt:27876
 msgid "[NAME:toga:togas]"
@@ -77354,7 +77370,7 @@ msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:27879
 msgid "[NAME:tunic:tunics]"
-msgstr ""
+msgstr "[NAME:tunika:tuniky]"
 
 #: stringdump_steam_2022_12_06.txt:27880
 msgid "[NAME:cloak:cloaks]"
@@ -77378,7 +77394,7 @@ msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:27900
 msgid "[NAME:arrow:arrows]"
-msgstr ""
+msgstr "[NAME:šíp:šípy]"
 
 #: stringdump_steam_2022_12_06.txt:27901
 msgid "wide-headed"
@@ -77390,7 +77406,7 @@ msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:27906
 msgid "[NAME:blowdart:blowdarts]"
-msgstr ""
+msgstr "[NAME:foukací šipka:foukací šipky]"
 
 #: stringdump_steam_2022_12_06.txt:27907
 msgid "tapered"
@@ -77454,27 +77470,27 @@ msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:27947
 msgid "[NAME:low boot:low boots]"
-msgstr ""
+msgstr "[NAME:nízká bota:nízké boty]"
 
 #: stringdump_steam_2022_12_06.txt:27949
 msgid "[NAME:high boot:high boots]"
-msgstr ""
+msgstr "[NAME:vysoká bota:vysoké boty]"
 
 #: stringdump_steam_2022_12_06.txt:27950
 msgid "[NAME:mitten:mittens]"
-msgstr ""
+msgstr "[NAME:palčáky:palčáky]"
 
 #: stringdump_steam_2022_12_06.txt:27953
 msgid "[NAME:glove:gloves]"
-msgstr ""
+msgstr "[NAME:rukavice:rukavice]"
 
 #: stringdump_steam_2022_12_06.txt:27957
 msgid "[NAME:sock:socks]"
-msgstr ""
+msgstr "[NAME:ponožka:ponožky]"
 
 #: stringdump_steam_2022_12_06.txt:27958
 msgid "[NAME:sandal:sandals]"
-msgstr ""
+msgstr "[NAME:sandál:sandály]"
 
 #: stringdump_steam_2022_12_06.txt:27959
 msgid "[NAME:chausse:chausses]"
@@ -77482,7 +77498,7 @@ msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:27961
 msgid "[NAME:shoe:shoes]"
-msgstr ""
+msgstr "[NAME:střevíc:střevíce]"
 
 #: stringdump_steam_2022_12_06.txt:27979
 msgid "[ATTACK:EDGE:20:10000:stab:stabs:NO_SUB:1000]"
@@ -77502,7 +77518,7 @@ msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:27983
 msgid "[NAME:maul:mauls]"
-msgstr ""
+msgstr "[NAME:kyj:kyje]"
 
 #: stringdump_steam_2022_12_06.txt:27989
 msgid "rectangular"
@@ -77510,7 +77526,7 @@ msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:27993
 msgid "[NAME:bolt:bolts]"
-msgstr ""
+msgstr "[NAME:šipka:šipky]"
 
 #: stringdump_steam_2022_12_06.txt:27994
 msgid "spike:spikes"
@@ -77550,7 +77566,7 @@ msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:28003
 msgid "[NAME:war hammer:war hammers]"
-msgstr ""
+msgstr "[NAME:válečné kladivo:válečné kladiva]"
 
 #: stringdump_steam_2022_12_06.txt:28004
 msgid "bent"
@@ -77566,7 +77582,7 @@ msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:28012
 msgid "[NAME:battle axe:battle axes]"
-msgstr ""
+msgstr "[NAME:bojová sekera:bojové sekery]"
 
 #: stringdump_steam_2022_12_06.txt:28015
 msgid "[ATTACK:EDGE:1:50:stick:sticks:NO_SUB:1000]"
@@ -77578,7 +77594,7 @@ msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:28018
 msgid "[NAME:great axe:great axes]"
-msgstr ""
+msgstr "[NAME:velká sekera:velké sekery]"
 
 #: stringdump_steam_2022_12_06.txt:28020
 msgid "[ATTACK:EDGE:20000:8000:slash:slashes:NO_SUB:1250]"
@@ -77590,7 +77606,7 @@ msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:28022
 msgid "[NAME:halberd:halberds]"
-msgstr ""
+msgstr "[NAME:halapartna:halapartny]"
 
 #: stringdump_steam_2022_12_06.txt:28024
 msgid "[ATTACK:EDGE:40000:6000:hack:hacks:NO_SUB:1250]"
