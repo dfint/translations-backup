@@ -6,7 +6,6 @@
 # K Kim, 2022
 # Jeong Challenge <ryunenim@gmail.com>, 2022
 # DAEKI KIM, 2022
-# 이찬기, 2022
 # redcle 1, 2022
 # 가막살나무, 2022
 # stzeod, 2022
@@ -14,21 +13,24 @@
 # J K <stardom8387@gmail.com>, 2022
 # dj s, 2022
 # gekko l, 2022
-# hy gx, 2022
 # Sonnet Songbird, 2022
 # 이강우, 2022
 # 니냐니뇨, 2022
-# 준영 윤, 2022
 # MatejCha, 2022
 # Xerath, 2022
-# ENHL <syg1031@naver.com>, 2022
-# 김덤불, 2022
 # Ah Lon Sin, 2022
 # 정민 <crispynap@gmail.com>, 2022
+# ENHL <syg1031@naver.com>, 2022
+# 윤준영, 2022
+# 학찬 김, 2022
+# draco evil, 2022
+# hy gx, 2022
+# 이찬기, 2022
+# 김덤불, 2022
 # 
 msgid ""
 msgstr ""
-"Last-Translator: 정민 <crispynap@gmail.com>, 2022\n"
+"Last-Translator: 김덤불, 2022\n"
 "Language-Team: Korean (https://www.transifex.com/dwarf-fortress-translation/teams/22396/ko/)\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -77,7 +79,7 @@ msgstr " 줍기"
 
 #: stringdump_steam_2022_12_06.txt:62
 msgid " empties "
-msgstr " 빈상자 "
+msgstr " 빈 상자 "
 
 #: stringdump_steam_2022_12_06.txt:63
 msgid " embraces "
@@ -6227,7 +6229,7 @@ msgstr "하루 이상의 여행"
 
 #: stringdump_steam_2022_12_06.txt:1633
 msgid " days' travel"
-msgstr "며칠 간의 여행"
+msgstr " 일 간의 여행"
 
 #: stringdump_steam_2022_12_06.txt:1634
 msgid "Inaccessible from your location"
@@ -6295,7 +6297,7 @@ msgstr "인구: >10000"
 
 #: stringdump_steam_2022_12_06.txt:1650
 msgid "Your location"
-msgstr "내 위치"
+msgstr "당신의 위치"
 
 #: stringdump_steam_2022_12_06.txt:1651
 msgid "Population: ~3000"
@@ -6731,19 +6733,19 @@ msgstr "현지 가족이 주장하는"
 
 #: stringdump_steam_2022_12_06.txt:1759
 msgid "th"
-msgstr "일"
+msgstr "번째"
 
 #: stringdump_steam_2022_12_06.txt:1760
 msgid "rd"
-msgstr "일"
+msgstr "번째"
 
 #: stringdump_steam_2022_12_06.txt:1761
 msgid "nd"
-msgstr "차"
+msgstr "번째"
 
 #: stringdump_steam_2022_12_06.txt:1762
 msgid "st"
-msgstr "성"
+msgstr "번째"
 
 #: stringdump_steam_2022_12_06.txt:1763
 msgid "Location unknown"
@@ -7140,7 +7142,7 @@ msgstr "계약 저장 중..."
 
 #: stringdump_steam_2022_12_06.txt:1863
 msgid "[Completed]"
-msgstr "[완전한]"
+msgstr "[완성됨]"
 
 #: stringdump_steam_2022_12_06.txt:1864
 msgid "Preparing for the caravan"
@@ -7460,7 +7462,7 @@ msgstr "음료 및 산업"
 
 #: stringdump_steam_2022_12_06.txt:1944
 msgid "Forgotten Beast"
-msgstr "잊혀진 짐승"
+msgstr "잊혀진 야수"
 
 #: stringdump_steam_2022_12_06.txt:1945
 msgid "Hill Dwarf"
@@ -7926,8 +7928,8 @@ msgid ""
 "Let's make a safe place to work.  Select [C:5:0:1]Regular Mining[C:7:0:0] "
 "mode, to the left of [C:5:0:1]Stair Mining[C:7:0:0] mode."
 msgstr ""
-"작업하기 안전한 곳을 만들어 봅시다. [C:5:0:1]Stair Mining[C:7:0:0] 모드의 왼쪽에 있는 "
-"[C:5:0:1]Regular Mining[C:7:0:0] 모드를 선택하세요."
+"작업하기 안전한 곳을 만들어 봅시다. [C:5:0:1]계단 채굴[C:7:0:0] 모드의 왼쪽에 있는 [C:5:0:1]일반 "
+"채굴[C:7:0:0] 모드를 선택하세요."
 
 #: stringdump_steam_2022_12_06.txt:2054
 msgid ""
@@ -8124,37 +8126,47 @@ msgstr "(5/8)"
 msgid ""
 "If all of your [C:6:0:0]Stockpiles[C:7:0:0] are full, go ahead and place "
 "another one."
-msgstr ""
+msgstr "만약 당신의 [C:6:0:0]저장구역[C:7:0:0] 이 모두 찼다면, 다른 저장구역을 배치하십시오."
 
 #: stringdump_steam_2022_12_06.txt:2088
 msgid ""
 "You can right click to close [C:5:0:1]Woodcutting[C:7:0:0] mode.  Right "
 "clicking closes most menus."
 msgstr ""
+"마우스 오른쪽 버튼을 클릭하여[C:5:0:1]벌목[C:7:0:0]모드를 닫을 수 있습니다.  마우스 오른쪽 버튼을 클릭하면 대부분의 "
+"메뉴가 닫힙니다."
 
 #: stringdump_steam_2022_12_06.txt:2089
 msgid ""
 "Click [C:5:0:1]Workshops[C:7:0:0] -> [C:5:0:1]Carpenter[C:7:0:0] and place "
 "the shop in an empty area on the surface or underground."
 msgstr ""
+"[C:5:0:1]작업장[C:5:0:1]-> [C:5:0:1]목수[C:7:0:0] 순서대로 클릭하여 빈 공간의 표면이나 지하에 작업장을 "
+"배치합니다."
 
 #: stringdump_steam_2022_12_06.txt:2090
 msgid ""
 "If you have some [C:6:0:1]Wood[C:7:0:0] stockpiled, you'll be able to place "
 "a [C:6:0:0]Carpenter's Workshop[C:7:0:0].  "
 msgstr ""
+"만약 당신의 7:0:0] 저장구역에 [C:6:0:1]나무[C:가 있다면, 당신은 [C:6:0:0]목공소[C:7:0:0] 를 배치할 수 "
+"있습니다."
 
 #: stringdump_steam_2022_12_06.txt:2091
 msgid ""
 "Most [C:6:0:0]Workshops[C:7:0:0] require building material, such as "
 "[C:6:0:1]Wood[C:7:0:0] or [C:6:0:1]Boulders[C:7:0:0].  "
 msgstr ""
+"많은[C:6:0:0]작업장[C:7:0:0] 은 [C:6:0:1]나무[C:7:0:0] 나 [C:6:0:1]바위[C:7:0:0] 같은 "
+"건축재료를 필요로 합니다."
 
 #: stringdump_steam_2022_12_06.txt:2092
 msgid ""
 "[C:6:0:0]Workshops[C:7:0:0] are one of many buildings you can place with the"
 " highlighted [C:5:0:1]Build[C:7:0:0] button.  Click it now."
 msgstr ""
+"[C:6:0:0]작업장[C:7:0:0] 은 강조 표시된 [C:5:0:1]건축[C:7:0:0] 버튼을 클릭하여 배치할 수 있는 여러 건물 "
+"중 하나입니다. 지금 클릭하세요."
 
 #: stringdump_steam_2022_12_06.txt:2093
 msgid ""
@@ -8162,6 +8174,8 @@ msgid ""
 "[C:6:0:0]All Stockpile[C:7:0:0] unless you turn it off in the "
 "[C:5:0:1]Custom Stockpile Menu[C:7:0:0]."
 msgstr ""
+"[C:2:0:0]짐꾼[C:7:0:0] 들은 또한 [C:6:0:1]목재[C:7:0:0] 를 당신의 [C:6:0:0]모든 "
+"저장구역[C:7:0:0]으로 떨어트립니다. [C:5:0:1]사용자 지정 저장구역 메뉴[C:7:0:0] 에서 끌 수 있습니다."
 
 #: stringdump_steam_2022_12_06.txt:2094
 msgid ""
@@ -8209,6 +8223,8 @@ msgid ""
 "room with a [C:6:0:0]Door[C:7:0:0] and use the [C:5:0:1]Zones[C:7:0:0] menu "
 "to assign an official [C:3:0:0]Bedroom[C:7:0:0] for each resident."
 msgstr ""
+"[C:6:0:0]문[C:7:0:0]이 있는 방에 [C:5:0:1]구역[C:7:0:0] 메뉴를 사용하여 거주민에게 공식 "
+"[C:3:0:0]침실[C:7:0:0]을 지정 할 수 있습니다."
 
 #: stringdump_steam_2022_12_06.txt:2103
 msgid ""
@@ -8222,11 +8238,13 @@ msgid ""
 "category.  Unlike [C:6:0:0]Workshops[C:7:0:0], [C:6:0:0]Beds[C:7:0:0] must "
 "be placed underground."
 msgstr ""
+"[C:5:0:1]침대[C:7:0:0]는 [C:5:0:1]가구[C:7:0:0] 카테코리에 있습니다.[C:6:0:0]작업장[C:7:0:0]과"
+" 달리 [C:6:0:0]침대[C:7:0:0]는 지하에 설치해야 합니다."
 
 #: stringdump_steam_2022_12_06.txt:2105
 msgid ""
 "You can also access information from the [C:5:0:1]Citizens[C:7:0:0] button."
-msgstr ""
+msgstr "당신은 또한 [C:5:0:1]정착민[C:7:0:0] 버튼에서도 정보에 접근할 수 있습니다."
 
 #: stringdump_steam_2022_12_06.txt:2106
 msgid ""
@@ -8276,7 +8294,7 @@ msgid ""
 "Use the [C:5:0:1]Build[C:7:0:0] menu to place it in a room underground, just"
 " like the [C:6:0:0]Workshop[C:7:0:0].  Dig a new room first if you like.  "
 msgstr ""
-"1[C:6:0:0]작업장1[C:6:0:0] 건설 때 처럼 1[C:6:0:0]건설1[C:6:0:0] 메뉴를 눌러 지하에 만든 방에 침대를 "
+"[C:5:0:1]작업장[C:7:0:0] 건설 때 처럼 [C:6:0:0]건설[C:7:0:0] 메뉴를 눌러 지하에 만든 방에 침대를 "
 "배치하십시오. 필요하다면 땅을 더 팔 수도 있습니다."
 
 #: stringdump_steam_2022_12_06.txt:2114
@@ -8297,6 +8315,8 @@ msgid ""
 "Workshop[C:7:0:0] usually takes one [C:6:0:1]Wood[C:7:0:0] to build.  Add a "
 "task and make a [C:6:0:1]Bed[C:7:0:0].  "
 msgstr ""
+"[C:6:0:0]목공소[C:7:0:0]에서 만든 [C:6:0:1]가구[C:7:0:0]는 보통 [C:6:0:1]목재[C:7:0:0]를 "
+"사용하여 만듭니다. 작업을 추가해 [C:6:0:1]침대[C:7:0:0]를 만드세요."
 
 #: stringdump_steam_2022_12_06.txt:2117
 msgid " (8 of 8)"
@@ -8913,7 +8933,7 @@ msgstr "여기서는 귀족들을 볼 수 있을 뿐만 아니라 관리자, 군
 
 #: stringdump_steam_2022_12_06.txt:2232
 msgid "Nobles and administrators"
-msgstr "귀족과 행정가"
+msgstr "귀족 및 관리자"
 
 #: stringdump_steam_2022_12_06.txt:2233
 msgid ""
@@ -9481,7 +9501,7 @@ msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:2330
 msgid "[C:7:0:1]Temples[C:7:0:0]"
-msgstr "[C:7:0:1]사원[C:7:0:0]"
+msgstr "[C:7:0:1]신전[C:7:0:0]"
 
 #: stringdump_steam_2022_12_06.txt:2331
 msgid ""
@@ -9701,7 +9721,7 @@ msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:2367
 msgid "[C:7:0:0] from the [C:5:0:1]Nobles and administrators[C:7:0:0] menu. "
-msgstr "[C:7:0:0] [C:5:0:1]귀족 및 관리[C:7:0:0] 메뉴에서."
+msgstr "[C:7:0:0] [C:5:0:1]귀족 및 관리자[C:7:0:0] 메뉴에서."
 
 #: stringdump_steam_2022_12_06.txt:2368
 msgid "Chief Medical Dwarf"
@@ -9813,7 +9833,7 @@ msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:2388
 msgid "from the [C:5:0:1]Nobles and administrators[C:7:0:0] menu. "
-msgstr "[C:5:0:1]귀족 및 관리[C:7:0:0] 메뉴에서."
+msgstr "[C:5:0:1]귀족 및 관리자[C:7:0:0] 메뉴에서."
 
 #: stringdump_steam_2022_12_06.txt:2389
 msgid ""
@@ -10113,7 +10133,7 @@ msgstr "정교한 수력 장치를 만들거나 이전에는 길들여지지 않
 msgid ""
 "Call visitors from all over the world with the greatest tavern, library, or "
 "temple the world has ever known. "
-msgstr "세계에서 가장 훌륭한 선술집, 도서관 또는 사원이 있는 전 세계의 방문객들에게 연락하세요."
+msgstr "세계에서 가장 훌륭한 선술집, 도서관 또는 신전으로 전 세계의 방문객들을 불러모으시오."
 
 #: stringdump_steam_2022_12_06.txt:2446
 msgid ""
@@ -12847,7 +12867,7 @@ msgstr "사원 단지"
 
 #: stringdump_steam_2022_12_06.txt:3349
 msgid "a temple"
-msgstr "사원"
+msgstr "신전"
 
 #: stringdump_steam_2022_12_06.txt:3350
 msgid "a corrupt agreement was formed"
@@ -16187,7 +16207,7 @@ msgstr "시민 방아쇠"
 
 #: stringdump_steam_2022_12_06.txt:4196
 msgid "Then select the corners of the bridge."
-msgstr "그런 다음 다리의 모서리를 선택합니다."
+msgstr "그 후 다리의 모서리를 선택한다."
 
 #: stringdump_steam_2022_12_06.txt:4197
 msgid "Set the draw direction below."
@@ -17310,7 +17330,7 @@ msgstr "다른 설정에 관계없이 저장구역이 식물 및 동물들의 �
 
 #: stringdump_steam_2022_12_06.txt:4447
 msgid "Open the justice menu."
-msgstr "정의 메뉴를 엽니다."
+msgstr "사법 메뉴를 열기."
 
 #: stringdump_steam_2022_12_06.txt:4448
 msgid "Open the world screen."
@@ -17420,7 +17440,7 @@ msgstr "이 정류장의 이름을 지정하십시오."
 
 #: stringdump_steam_2022_12_06.txt:4470
 msgid "Open the place information menu."
-msgstr "장소 정보 메뉴를 엽니다."
+msgstr "장소 정보 메뉴 열기."
 
 #: stringdump_steam_2022_12_06.txt:4471
 msgid "Open the task information menu."
@@ -17428,7 +17448,7 @@ msgstr "작업 정보 메뉴를 엽니다."
 
 #: stringdump_steam_2022_12_06.txt:4472
 msgid "Open the citizen information menu."
-msgstr "시민정보 메뉴를 엽니다."
+msgstr "정착민 정보 메뉴 열기."
 
 #: stringdump_steam_2022_12_06.txt:4473
 msgid ""
@@ -17438,19 +17458,19 @@ msgstr "지정된 차량이 이 정류장에 있으려고 하지만 현재는 �
 
 #: stringdump_steam_2022_12_06.txt:4474
 msgid "Open the objects menu."
-msgstr "개체 메뉴를 엽니다."
+msgstr "개체 메뉴 열기."
 
 #: stringdump_steam_2022_12_06.txt:4475
 msgid "Open the nobles and administrators menu."
-msgstr "귀족 및 관리자 메뉴를 엽니다."
+msgstr "귀족 및 관리자 메뉴 열기."
 
 #: stringdump_steam_2022_12_06.txt:4476
 msgid "Open the work orders menu."
-msgstr "작업 주문 메뉴를 엽니다."
+msgstr "작업지시서 메뉴 열기."
 
 #: stringdump_steam_2022_12_06.txt:4477
 msgid "Open the labor menu."
-msgstr "노동 메뉴를 엽니다."
+msgstr "노동 메뉴 열기."
 
 #: stringdump_steam_2022_12_06.txt:4478
 msgid ""
@@ -19162,7 +19182,7 @@ msgstr "귀하의 주장은 여기서 가치가 없습니다. "
 #: stringdump_steam_2022_12_06.txt:4817
 msgid ""
 "Give up this childish errand.  We do not part with our treasures lightly."
-msgstr ""
+msgstr "어린 애들이나 할법한 심부름은 그만두세요. 우리는 우리의 보물을 가볍게 포기하지 않습니다."
 
 #: stringdump_steam_2022_12_06.txt:4818
 msgid "Sadly, we do not possess this object.  Best of luck in your search."
@@ -19382,13 +19402,14 @@ msgstr "입문용으로 추천해주실 분 있으신가요?"
 msgid ""
 "Can you imagine the trade wagons?  Of course, there are responsibilities, "
 "and the nobility must live well.[B]"
-msgstr ""
+msgstr "무역용 마차를 상상할 수 있나요? 물론 책임도 있고, 귀족들도 잘 살아야 합니다."
 
 #: stringdump_steam_2022_12_06.txt:4871
 msgid ""
 "Merit deserves a reward, and I come empowered to establish this colony as an"
 " official land of our realm.[B]"
 msgstr ""
+"공을 세우면 적합한 보상을 받을 자격이 있습니다. 그리고 저는 이 식민지를 우리 왕국의 공식적인 땅으로 세울 권한을 부여받습니다."
 
 #: stringdump_steam_2022_12_06.txt:4872
 msgid ""
@@ -19402,6 +19423,8 @@ msgid ""
 "even larger than your kind than usual, we do not know.  But know that this "
 "land is sacred to us, these trees more than any others."
 msgstr ""
+"우리의 동물 친구들이 평소보다 훨씬 더 많은 이 야생에서 당신이 무엇에 홀렸는지 우리는 모릅니다. 그러나 이 땅이 우리에게 신성하다는 "
+"것을 알아야 합니다. 이 나무들은 다른 어떤 나무들보다 더 신성합니다."
 
 #: stringdump_steam_2022_12_06.txt:4874
 msgid " trees, butcher."
@@ -19450,7 +19473,7 @@ msgstr ""
 #: stringdump_steam_2022_12_06.txt:4883
 msgid ""
 "[B]Pass this treasure into our possession, and we shall depart in peace."
-msgstr ""
+msgstr "이 보물을 우리 손에 넘겨주면 우리는 평화롭게 떠날 것입니다."
 
 #: stringdump_steam_2022_12_06.txt:4884
 msgid ""
@@ -19558,7 +19581,7 @@ msgstr "우리는 당신이 당신의 나뭇가지에 모자를 씌울 것을 �
 msgid ""
 "  Although we are loath to spare a single branch to your senseless "
 "slaughter, "
-msgstr ""
+msgstr "비록 우리는 당신의 분별없는 살육에 동의하지 않지만,"
 
 #: stringdump_steam_2022_12_06.txt:4908
 msgid "(Vehicle moved to next stop if any condition triggered.)"
@@ -19690,7 +19713,7 @@ msgstr "귀족 일원은 개인방을 필요로 하고 요구했습니다. 그�
 msgid ""
 "Administrators handle various aspects of your fortress and can be "
 "reassigned. Many administrators also require rooms."
-msgstr ""
+msgstr "관리자는 요새의 다양한 측면을 처리하고 재할당할 수 있습니다. 또한 많은 관리자가 회의실을 요구합니다."
 
 #: stringdump_steam_2022_12_06.txt:4943
 msgid "Custom Detail "
@@ -23529,12 +23552,12 @@ msgstr "우릴 우두머리로 만들려고 왔는데, 그 겁쟁이에게 교�
 #: stringdump_steam_2022_12_06.txt:5917
 msgid ""
 " to try to boss us around, but you'll show them the true nature of power."
-msgstr ""
+msgstr "권력의 실체를 보여줄 거예요"
 
 #: stringdump_steam_2022_12_06.txt:5918
 msgid ""
 "could afford to learn a lesson or two, though open conflict would be unwise."
-msgstr ""
+msgstr "공개적인 갈등은 현명하지 못하겠지만 한 두 가지 교훈을 얻을 여유가 있었습니다."
 
 #: stringdump_steam_2022_12_06.txt:5919
 msgid "must be driven off or subjugated."
@@ -24296,7 +24319,7 @@ msgstr "나는 결정했다. "
 msgid ""
 "Certainly.  It would be terrible to leave someone to fend for themselves "
 "after sunset."
-msgstr ""
+msgstr "물론이에요. 해가 진 후에 누군가를 혼자 살게 하는 것은 끔찍할 것입니다."
 
 #: stringdump_steam_2022_12_06.txt:6109
 msgid "Ah, I'm sorry.  Permission is not mine to give."
@@ -24629,6 +24652,8 @@ msgid ""
 "Whosoever would blight the world, preying on the helpless, fear me!  I call "
 "you a child of the night and will slay you where you stand."
 msgstr ""
+"세상을 더럽히고, 무력한 자들을 잡아먹는 자는 나를 두려워하십시오! 나는 당신을 밤의 아이라고 부르고 당신이 서 있는 곳에서 당신을 죽일"
+" 것입니다."
 
 #: stringdump_steam_2022_12_06.txt:6191
 msgid "Tell me who you work for, or else."
@@ -24732,7 +24757,7 @@ msgstr "진짜? "
 
 #: stringdump_steam_2022_12_06.txt:6216
 msgid "Fantastic!  Please come closer and ask again."
-msgstr "환상적입니다! "
+msgstr "훌륭해요! 가까이 와서 다시 물어보세요."
 
 #: stringdump_steam_2022_12_06.txt:6217
 msgid "Sorry, I'm otherwise occupied."
@@ -24913,7 +24938,7 @@ msgstr "새로운 삶을 시작하기 위해"
 #: stringdump_steam_2022_12_06.txt:6261
 msgid ""
 "I don't know myself, and I don't even know anybody that could tell you."
-msgstr ""
+msgstr "전 제 자신도 모르고, 당신에게 말해줄 수 있는 사람도 없어요."
 
 #: stringdump_steam_2022_12_06.txt:6262
 msgid " is dead."
@@ -25179,7 +25204,7 @@ msgstr "무역."
 msgid ""
 "This place is insulated from the rest of the world, at least in terms of "
 "trade."
-msgstr ""
+msgstr "이곳은 적어도 무역 면에서는 세계의 다른 지역들과 절연되어 있습니다."
 
 #: stringdump_steam_2022_12_06.txt:6328
 msgid "The people of "
@@ -25541,7 +25566,7 @@ msgstr "나에게서 도망!"
 msgid ""
 "I am so nearly swayed by your greatness alone that we can simply assign you "
 "the victory!"
-msgstr ""
+msgstr "저는 당신의 위대함에 깊게 감명받아 당신에게 간단히 승리를 줄 수 있습니다!"
 
 #: stringdump_steam_2022_12_06.txt:6418
 msgid "Do I look like I need to calm down?!"
@@ -26687,7 +26712,7 @@ msgstr "원래 고안한"
 msgid ""
 "The rules of the form are applied by choreographers to produce individual "
 "dances which can be performed.  "
-msgstr ""
+msgstr "형태의 규칙은 안무가들에 의해 공연될 수 있는 개별적인 춤을 만들기 위해 적용됩니다."
 
 #: stringdump_steam_2022_12_06.txt:6706
 msgid "The form guides dancers during improvised performances.  "
@@ -30460,13 +30485,13 @@ msgstr "저는 법률이 무엇보다 제안에 가깝다고 생각합니다."
 #: stringdump_steam_2022_12_06.txt:7740
 msgid ""
 "Rules are there to be bent, but they shouldn't be flouted thoughtlessly."
-msgstr ""
+msgstr "규칙은 굽히기 위해 존재하지만, 생각 없이 무시되어서는 안 됩니다."
 
 #: stringdump_steam_2022_12_06.txt:7741
 msgid ""
 "How can society function without loyalty?  We must be able to have faith in "
 "each other."
-msgstr ""
+msgstr "충성심 없이 어떻게 사회가 기능할 수 있을까요? 우리는 서로에게 믿음을 가질 수 있어야 합니다."
 
 #: stringdump_steam_2022_12_06.txt:7742
 msgid "You must never forget true loyalty.  Repay it in full."
@@ -30488,13 +30513,13 @@ msgstr "충성심을 잃지 마십시오. "
 msgid ""
 "The whole idea of loyalty is pointless.  Acting purely out of loyalty "
 "implies acting against one's own best interest."
-msgstr ""
+msgstr "충성심에 대한 모든 생각은 무의미합니다. 순전히 충성심 때문에 행동하는 것은 자신의 최선의 이익에 반하는 행동을 의미합니다."
 
 #: stringdump_steam_2022_12_06.txt:7747
 msgid ""
 "You should only maintain loyalty so long as something more important is not "
 "at stake."
-msgstr ""
+msgstr "당신은 더 중요한 것이 위태롭지 않은 한 충성심을 유지해야 합니다."
 
 #: stringdump_steam_2022_12_06.txt:7748
 msgid ""
@@ -30539,7 +30564,7 @@ msgstr ""
 msgid ""
 "I hold the relationships I've forged myself over family ties I had no part "
 "in creating."
-msgstr ""
+msgstr "저는 제가 만든 것과는 전혀 관계가 없는 가족 관계에 대해 스스로 만들어낸 관계를 유지하고 있습니다."
 
 #: stringdump_steam_2022_12_06.txt:7757
 msgid "There's nothing like a good friend."
@@ -30549,7 +30574,7 @@ msgstr "좋은 친구만큼 좋은 것은 없습니다."
 msgid ""
 "You can't always rely on your family, but it's good to know somebody is "
 "there."
-msgstr ""
+msgstr "항상 가족에게 의지할 수는 없지만, 누군가가 거기에 있다는 것을 알게 되어 기쁩니다."
 
 #: stringdump_steam_2022_12_06.txt:7759
 msgid "When all other bonds wither, friendship will remain."
@@ -30558,7 +30583,7 @@ msgstr "다른 모든 유대가 시들어도 우정은 남을 것입니다."
 #: stringdump_steam_2022_12_06.txt:7760
 msgid ""
 "Surround yourself with friends you can trust and you will be unstoppable."
-msgstr ""
+msgstr "여러분이 믿을 수 있는 친구들로 여러분 자신을 둘러싸면 여러분은 막을 수 없을 것입니다."
 
 #: stringdump_steam_2022_12_06.txt:7761
 msgid ""
@@ -30823,7 +30848,7 @@ msgstr "마음은 세상이 쉬고 있을 때 가장 잘 생각합니다."
 msgid ""
 "People should be able to control themselves, but it's fine to follow "
 "impulses that aren't too harmful."
-msgstr ""
+msgstr "사람들은 스스로를 통제할 수 있어야 하지만, 너무 해롭지 않은 충동을 따르는 것은 괜찮습니다."
 
 #: stringdump_steam_2022_12_06.txt:7823
 msgid "I like a balance of tranquility and commotion myself."
@@ -30849,7 +30874,7 @@ msgstr "즐거운 시간 보내세요!"
 msgid ""
 "Some discord is a healthy part of society, but we must also try to live "
 "together."
-msgstr ""
+msgstr "약간의 불화는 사회의 건강한 부분이지만, 우리는 또한 함께 살기 위해 노력해야 합니다."
 
 #: stringdump_steam_2022_12_06.txt:7829
 msgid "Power over others is the only true measure of worth."
@@ -30867,7 +30892,7 @@ msgstr "다른 사람을 괴롭히는 것에 대해 칭찬할 만한 것은 없�
 msgid ""
 "You can be powerful or powerless.  The choice is yours, until somebody makes"
 " it for you."
-msgstr ""
+msgstr "당신은 강력할 수도 있고 힘이 없을 수도 있습니다. 선택은 당신에게 달렸어요. 누군가 당신을 위해 만들어 줄 때까지요."
 
 #: stringdump_steam_2022_12_06.txt:7833
 msgid "The struggle for power must be balanced by other considerations."
@@ -30889,7 +30914,7 @@ msgstr "항상 진실을 말해야 합니다."
 msgid ""
 "There is no value in telling the truth thoughtlessly.  Consider the "
 "circumstances and say what is best."
-msgstr ""
+msgstr "아무 생각 없이 진실을 말하는 것은 가치가 없습니다. 상황을 고려하고 무엇이 최선인지 말하세요."
 
 #: stringdump_steam_2022_12_06.txt:7838
 msgid "Everything is so much easier when you just tell the truth."
@@ -30899,19 +30924,19 @@ msgstr "진실을 말하면 모든 것이 훨씬 쉬워집니다."
 msgid ""
 "Don't think about the truth, whatever that is.  Just say what needs to be "
 "said."
-msgstr ""
+msgstr "진실에 대해 생각하지 마세요, 그게 뭐든. 할 말만 하세요."
 
 #: stringdump_steam_2022_12_06.txt:7840
 msgid ""
 "Is there ever a time when honesty by itself overrides other considerations?"
 "  Say what is right, not what is true."
-msgstr ""
+msgstr "정직 자체가 다른 고려사항보다 우선시 되는 때가 있나요? 진실이 아닌 옳은 것을 말하세요."
 
 #: stringdump_steam_2022_12_06.txt:7841
 msgid ""
 "It is best not to complicate your life with lies, sure, but the truth also "
 "has its problems."
-msgstr ""
+msgstr "물론 거짓말로 인생을 복잡하게 만들지 않는 것이 최선이지만, 진실에도 문제가 있습니다."
 
 #: stringdump_steam_2022_12_06.txt:7842
 msgid "There are times when it is alright not to tell the whole truth."
@@ -30925,7 +30950,7 @@ msgstr "나는 영리한 함정에 감탄합니다."
 msgid ""
 "Sometimes the blunt truth just does more damage.  Think about how the "
 "situation will unfold before you speak."
-msgstr ""
+msgstr "때로는 무뚝뚝한 진실이 더 큰 피해를 입히기도 합니다. 말하기 전에 상황이 어떻게 전개될지 생각해 보세요."
 
 #: stringdump_steam_2022_12_06.txt:7845
 msgid "Be shrewd, but do not lose yourself in guile."
@@ -30958,13 +30983,13 @@ msgstr "항상 공정하게 거래하십시오."
 #: stringdump_steam_2022_12_06.txt:7852
 msgid ""
 "There is a time for artful speech, and a time for blunt speech as well."
-msgstr ""
+msgstr "교묘한 말을 할 때도 있고, 직설적인 말을 할 때도 있습니다."
 
 #: stringdump_steam_2022_12_06.txt:7853
 msgid ""
 "Life isn't fair, and sometimes you have to do what you have to do, but "
 "working toward a balance isn't a bad thing."
-msgstr ""
+msgstr "인생은 공평하지 않고, 때로는 해야 할 일을 해야 하지만, 균형을 위해 일하는 것은 나쁜 것이 아니다."
 
 #: stringdump_steam_2022_12_06.txt:7854
 msgid "Don't be afraid to do anything to get ahead in this world."
@@ -30986,7 +31011,7 @@ msgstr "어떤 것들은 절대로 바뀌어서는 안 됩니다."
 msgid ""
 "I can see a place for maintaining decorum, but it's exhausting to live that "
 "way."
-msgstr ""
+msgstr "예절을 지키는 곳은 보이는데, 그렇게 사는 건 너무 힘들어요."
 
 #: stringdump_steam_2022_12_06.txt:7859
 msgid "We need to find a better way than those of before."
@@ -31000,13 +31025,13 @@ msgstr "전통이 지켜지는 모습이 아름답습니다."
 msgid ""
 "It's good to keep pushing forward, but sometimes you just have to know when "
 "it's time to stop."
-msgstr ""
+msgstr "계속 밀고 나가는 것도 좋지만, 가끔은 멈출 때만 알면 돼요."
 
 #: stringdump_steam_2022_12_06.txt:7862
 msgid ""
 "Anybody that sticks to something a moment longer than they have to is an "
 "idiot."
-msgstr ""
+msgstr "그들이 해야 하는 것보다 더 오래 무언가를 고수하는 사람은 누구나 바보입니다."
 
 #: stringdump_steam_2022_12_06.txt:7863
 msgid "It's best to slow down and just relax."
@@ -31016,7 +31041,7 @@ msgstr "속도를 늦추고 휴식을 취하는 것이 가장 좋습니다."
 msgid ""
 "Wouldn't it be grand to just take my life off and do nothing for the rest of"
 " my days?"
-msgstr ""
+msgstr "그냥 내 인생의 남은 날 동안 아무것도 하지 않는 것이 대단하지 않을까요?"
 
 #: stringdump_steam_2022_12_06.txt:7865
 msgid "Time spent in leisure is such a waste."
@@ -31034,13 +31059,13 @@ msgstr "무역은 번영하는 사회의 생명선입니다."
 msgid ""
 "There's some value in leisure, but one also has to engage with other aspects"
 " of life."
-msgstr ""
+msgstr "여가에는 약간의 가치가 있지만, 사람들은 또한 삶의 다른 측면들에 관여해야 합니다."
 
 #: stringdump_steam_2022_12_06.txt:7869
 msgid ""
 "There's something to be said for trade as a necessity, but there are better "
 "things in life to do with one's time."
-msgstr ""
+msgstr "무역은 필수라고 할 수 있는 것도 있지만, 인생에는 시간과 함께 할 수 있는 더 좋은 것들이 있습니다."
 
 #: stringdump_steam_2022_12_06.txt:7870
 msgid "All of this buying and selling isn't honest work."
@@ -31062,13 +31087,13 @@ msgstr "야생을 탐험하는 것은 멋진 일입니다!"
 msgid ""
 "You shouldn't get too carried away with romance, but it's fine in "
 "moderation."
-msgstr ""
+msgstr "로맨스에 너무 빠져서는 안 되지만 적당히 해도 괜찮아요."
 
 #: stringdump_steam_2022_12_06.txt:7875
 msgid ""
 "Nature can be enjoyed and used for myriad purposes, but there must always be"
 " respect and even fear of its power."
-msgstr ""
+msgstr "자연은 무수한 목적을 위해 즐기고 사용될 수 있지만, 자연의 힘에 대한 존중과 두려움이 항상 있어야 합니다."
 
 #: stringdump_steam_2022_12_06.txt:7876
 msgid "I could do without all of those creatures and that tangled greenery."
@@ -31173,7 +31198,7 @@ msgstr "숙련된 전사는 보기에 아름다운 광경입니다."
 #: stringdump_steam_2022_12_06.txt:7900
 msgid ""
 "A tool should get the job done, but one shouldn't obsess over the details."
-msgstr ""
+msgstr "도구는 일을 완수해야 하지만 세부적인 것에 집착해서는 안 됩니다."
 
 #: stringdump_steam_2022_12_06.txt:7901
 msgid ""
@@ -31186,7 +31211,7 @@ msgstr ""
 #: stringdump_steam_2022_12_06.txt:7902
 msgid ""
 "Why this obsession with weapons and battle?  I don't understand some people."
-msgstr ""
+msgstr "왜 무기와 전투에 집착하죠? 저는 몇몇 사람들을 이해하지 못합니다."
 
 #: stringdump_steam_2022_12_06.txt:7903
 msgid ""
@@ -31218,6 +31243,7 @@ msgid ""
 "I think people should hone their skills, but it's possible to take it too "
 "far and lose sight of the breadth of life."
 msgstr ""
+"저는 사람들이 그들의 기술을 연마해야 한다고 생각하지만, 그것에 너무 집착해서 삶의 폭에 대한 시야를 잃을 수도 있다고 생각합니다."
 
 #: stringdump_steam_2022_12_06.txt:7909
 msgid "Hard work is the true sign of character."
@@ -31264,7 +31290,7 @@ msgstr "열심히 일하는 것은 훌륭하다. 절반의 노력으로 일할 �
 msgid ""
 "Some self-sacrifice is worthy, but do not forget yourself in devotion to the"
 " well-being of others."
-msgstr ""
+msgstr "어떤 자기희생은 가치가 있지만, 다른 사람들의 행복에 헌신하는 자신을 잊지 마세요."
 
 #: stringdump_steam_2022_12_06.txt:7920
 msgid "Why harm yourself for anybody else's benefit?"
@@ -37883,7 +37909,7 @@ msgstr "이렇게 큰 극단을 관리할 수 있습니까?"
 msgid ""
 "Maybe after you've improved.  Prove you have what it takes.  The life of the"
 " traveling performer is a hard one."
-msgstr ""
+msgstr "아마 당신이 발전한 후에요 능력이 있다는 걸 증명해 보세요. 여행하는 연주자의 삶은 힘든 삶입니다."
 
 #: stringdump_steam_2022_12_06.txt:9617
 msgid "Ha!  Such enthusiasm from one such as yourself."
@@ -43307,7 +43333,7 @@ msgstr "안개"
 
 #: stringdump_steam_2022_12_06.txt:12784
 msgid "minerals"
-msgstr "탄산수"
+msgstr "광물"
 
 #: stringdump_steam_2022_12_06.txt:12785
 msgid "oceans"
@@ -44563,7 +44589,7 @@ msgstr "하이 마스터"
 
 #: stringdump_steam_2022_12_06.txt:13696
 msgid "Accomplished"
-msgstr "재주많은"
+msgstr "천재적인"
 
 #: stringdump_steam_2022_12_06.txt:13697
 msgid "Stonecutting"
@@ -44759,7 +44785,7 @@ msgstr "공작석"
 
 #: stringdump_steam_2022_12_06.txt:13745
 msgid "Dabbling"
-msgstr "미숙한"
+msgstr "풋내기"
 
 #: stringdump_steam_2022_12_06.txt:13746
 msgid "Opal"
@@ -44775,15 +44801,15 @@ msgstr "목재"
 
 #: stringdump_steam_2022_12_06.txt:13749
 msgid "Skilled"
-msgstr "능숙한"
+msgstr "숙련된"
 
 #: stringdump_steam_2022_12_06.txt:13750
 msgid "Competent"
-msgstr "익숙한"
+msgstr "평범한"
 
 #: stringdump_steam_2022_12_06.txt:13751
 msgid "Adequate"
-msgstr "보통"
+msgstr "견습"
 
 #: stringdump_steam_2022_12_06.txt:13752
 msgid "Novice"
@@ -44791,11 +44817,11 @@ msgstr "초보"
 
 #: stringdump_steam_2022_12_06.txt:13753
 msgid "Professional"
-msgstr "프로의"
+msgstr "전문적인"
 
 #: stringdump_steam_2022_12_06.txt:13754
 msgid "Adept"
-msgstr "능숙한"
+msgstr "상급"
 
 #: stringdump_steam_2022_12_06.txt:13755
 msgid "Talented"
@@ -44803,7 +44829,7 @@ msgstr "타고난"
 
 #: stringdump_steam_2022_12_06.txt:13756
 msgid "Proficient"
-msgstr "노련한"
+msgstr "능숙한"
 
 #: stringdump_steam_2022_12_06.txt:13757
 msgid "Stringed Instrument"
@@ -48227,7 +48253,7 @@ msgstr "이 기묘하고 깊숙한 곳에서, 우리는 신들의 보물임에 �
 
 #: stringdump_steam_2022_12_06.txt:15374
 msgid "Saving civilized populations..."
-msgstr "문명인을 구하는..."
+msgstr "문명 인구 저장 중..."
 
 #: stringdump_steam_2022_12_06.txt:15375
 msgid "Saving map data..."
@@ -65065,7 +65091,7 @@ msgstr "온대 사바나"
 
 #: stringdump_steam_2022_12_06.txt:23046
 msgid "Temperate Shrubland"
-msgstr "온대 관목지대"
+msgstr "온대 관목지"
 
 #: stringdump_steam_2022_12_06.txt:23047
 msgid "ALLOW ALL REJECTS, even if I end up with a legends-only world!"
@@ -65157,7 +65183,7 @@ msgstr "사막 거부"
 
 #: stringdump_steam_2022_12_06.txt:23069
 msgid "FOREST REJECTION"
-msgstr ""
+msgstr "숲의 거부"
 
 #: stringdump_steam_2022_12_06.txt:23070
 msgid "MOUNTAIN REJECTION"
@@ -65471,13 +65497,13 @@ msgstr "유창한 연사들에게 다소 역겹다"
 msgid ""
 "holds fairness as one of the highest ideals and despises cheating of any "
 "kind"
-msgstr ""
+msgstr "가장 높은 이상 중 하나로 공정성을 유지하고 어떤 종류의 부정행위도 경멸합니다."
 
 #: stringdump_steam_2022_12_06.txt:23335
 msgid ""
 "sees artful speech and eloquence as a wasteful form of deliberate deception "
 "and treats it as such"
-msgstr ""
+msgstr "교묘한 말과 웅변을 고의적인 속임수의 형태로 취급합니다."
 
 #: stringdump_steam_2022_12_06.txt:23336
 msgid "values decorum, dignity and proper behavior"
@@ -65507,13 +65533,13 @@ msgstr "수익성이 있다고 생각"
 msgid ""
 "views decorum as a high ideal and is deeply offended by those that fail to "
 "maintain it"
-msgstr ""
+msgstr "예의범절을 지키는 것을  중요시여기며 예의 없는 사람에 대해 깊은 불쾌감을 느낍니다."
 
 #: stringdump_steam_2022_12_06.txt:23343
 msgid ""
 "is disgusted by the idea of fairness and will freely cheat anybody at any "
 "time"
-msgstr ""
+msgstr "공정함에 대해 혐오감을 느끼고 언제든지 자유롭게 누구든 속일 것입니다."
 
 #: stringdump_steam_2022_12_06.txt:23344
 msgid "greatly respects the shrewd and guileful"
@@ -65575,7 +65601,7 @@ msgstr "교활함과 교활함을 간접적이고 다소 무가치한 것으로 
 msgid ""
 "believes that artful speech and eloquent expression are of the highest "
 "ideals"
-msgstr ""
+msgstr "예술적인 연설과 웅변적인 표현이 가장 높은 이상이라고 믿습니다."
 
 #: stringdump_steam_2022_12_06.txt:23359
 msgid "is utterly disgusted by guile and cunning"
@@ -65597,7 +65623,7 @@ msgstr "다른 사람에 대한 권력을 노력해야 할 것으로 본다."
 msgid ""
 "believes that the acquisition of power over others is the ideal goal in life"
 " and worthy of the highest respect"
-msgstr ""
+msgstr "타인에 대한 권력의 획득이 삶의 이상적인 목표이며 최고의 존경을 받을 가치가 있다고 믿습니다."
 
 #: stringdump_steam_2022_12_06.txt:23364
 msgid "thinks friendship is important"
@@ -65623,7 +65649,7 @@ msgstr "비용에 관계없이 진실은 불가침이라고 믿습니다."
 msgid ""
 "finds the acquisition and use of power abhorrent and would have all masters "
 "toppled"
-msgstr ""
+msgstr "권력의 획득과 사용을 혐오스러워 하며 모든 권력자를 쓰러뜨릴 것입니다."
 
 #: stringdump_steam_2022_12_06.txt:23370
 msgid "values honesty"
@@ -65717,13 +65743,13 @@ msgstr "가족을 중시한다"
 msgid ""
 "believes that self-mastery and the denial of impulses are of the highest "
 "ideals"
-msgstr ""
+msgstr "자기 연민과 충동의 부정이 가장 높은 이상이라고 믿습니다."
 
 #: stringdump_steam_2022_12_06.txt:23393
 msgid ""
 "finds the whole idea of introspection completely offensive and contrary to "
 "the ideals of a life well-lived"
-msgstr ""
+msgstr "자기 성찰에 대한 모든 생각이 완전히 불쾌하고 잘 사는 삶의 이상과 반대된다는 것을 발견합니다."
 
 #: stringdump_steam_2022_12_06.txt:23394
 msgid "values self-control"
@@ -65745,7 +65771,7 @@ msgstr "자기 성찰을 중요시한다"
 msgid ""
 "thinks that introspection is valueless and those that waste time in self-"
 "examination are deluded fools"
-msgstr ""
+msgstr "자기성찰은 가치가 없으며 자기성찰에 시간을 낭비하는 사람들은 착각한 바보들이라고 생각합니다."
 
 #: stringdump_steam_2022_12_06.txt:23399
 msgid "finds introspection to be a waste of time"
@@ -65779,7 +65805,7 @@ msgstr "특별히 자제력을 소중히 여기지 않는다"
 msgid ""
 "has abandoned any attempt at self-control and finds the whole concept deeply"
 " offensive"
-msgstr ""
+msgstr "자제하려는 시도를 포기했고 전체 개념이 매우 불쾌하다고 생각합니다."
 
 #: stringdump_steam_2022_12_06.txt:23407
 msgid "sees the denial of impulses as a vain and foolish pursuit"
@@ -66061,7 +66087,7 @@ msgstr "세계에서 결정적인 원동력이되는 경쟁"
 msgid ""
 "holds the idea of competition among the most important and would encourage "
 "it wherever possible"
-msgstr ""
+msgstr "가장 중요한 것들 사이의 경쟁에 대한 생각을 가지고 있고 가능한 한 그것을 장려할 것입니다."
 
 #: stringdump_steam_2022_12_06.txt:23472
 msgid "believes that the mastery of a skill is one of the highest pursuits"
@@ -66070,7 +66096,7 @@ msgstr "기술의 숙달이 가장 높은 추구 중 하나라고 믿습니다."
 #: stringdump_steam_2022_12_06.txt:23473
 msgid ""
 "abhors those that pursue the mastery of weapons and skill with fighting"
-msgstr ""
+msgstr "무기와 전투 기술의 숙달을 추구하는 사람들을 혐오합니다."
 
 #: stringdump_steam_2022_12_06.txt:23474
 msgid "respects the development of skill"
@@ -66092,7 +66118,7 @@ msgstr "무예를 중히 여긴다"
 msgid ""
 "thinks that the pursuit of the skills of warfare and fighting is a low "
 "pursuit indeed"
-msgstr ""
+msgstr "전쟁과 전투의 기술을 추구하는 것이 형편없는 목표라고 생각합니다."
 
 #: stringdump_steam_2022_12_06.txt:23479
 msgid "finds those that develop skill with weapons and fighting distasteful"
@@ -66165,7 +66191,7 @@ msgstr "보유"
 msgid ""
 " to be of the highest ideals and celebrates talented artisans and their "
 "masterworks"
-msgstr ""
+msgstr "재능 있는 장인과 그들의 걸작을 찬양하는 것에 최고의 이상을 가집니다."
 
 #: stringdump_steam_2022_12_06.txt:23496
 msgid "views "
@@ -66266,7 +66292,7 @@ msgstr "혼돈과 무질서로 점철된 삶이 진실된 삶이며 혼돈이 �
 msgid ""
 "can't fathom why anyone would want to live in an orderly and harmonious "
 "society"
-msgstr ""
+msgstr "어째서 다른 사람들이 질서정연하고 조화로운 사회에서 살고 싶어하는지 이해할 수 없습니다."
 
 #: stringdump_steam_2022_12_06.txt:23518
 msgid "truly values merrymaking and parties"
@@ -66370,7 +66396,7 @@ msgstr "어떤 식 으로든 자연을 신경 쓰지 않습니다."
 msgid ""
 "would just as soon have nature and the great outdoors burned to ashes and "
 "converted into a great mining pit"
-msgstr ""
+msgstr "자연이 잿더미로 타오르고 거대한 광산 구덩이로 변하는 것이 더 나을 것입니다."
 
 #: stringdump_steam_2022_12_06.txt:23543
 msgid "has a deep dislike of the natural world"
@@ -66879,7 +66905,7 @@ msgstr "매우 무례하고 타당성에 대해 무의미하다."
 #: stringdump_steam_2022_12_06.txt:23666
 msgid ""
 "disdains even the best advice of associates and family, relying strictly on "
-msgstr ""
+msgstr "동료들과 가족들의 정성어린 조언조차도 무시하고, 지나치게 의존합니다."
 
 #: stringdump_steam_2022_12_06.txt:23667
 msgid " own counsel"
@@ -66893,7 +66919,7 @@ msgstr "가능하다면 예의 바르며 적절한 예의 범절을 지킵니다
 msgid ""
 "exhibits a refined politeness and is determined to keep the guiding rules of"
 " etiquette and decorum as if life itself depended on it"
-msgstr ""
+msgstr "세련된 공손함을 보여주고, 삶 자체가 그것에 의존하는 것처럼 에티켓과 예절의 지침을 지키기로 결심했습니다."
 
 #: stringdump_steam_2022_12_06.txt:23670
 msgid "could be considered rude"
@@ -71859,7 +71885,7 @@ msgstr "관목"
 
 #: stringdump_steam_2022_12_06.txt:24893
 msgid "Sapling"
-msgstr "어린나무"
+msgstr "묘목"
 
 #: stringdump_steam_2022_12_06.txt:24894
 msgid " Track (SW)"
@@ -74564,7 +74590,7 @@ msgstr "함께"
 msgid ""
 "The instrument produces a complex sound that cannot be said to be of a "
 "single pitch.  "
-msgstr ""
+msgstr "그 악기는 뭐라 설명하기 힘든 복잡한 소리를 낸다."
 
 #: stringdump_steam_2022_12_06.txt:26141
 msgid "[NAME:forgotten beast:forgotten beasts:forgotten beast]"
@@ -75362,7 +75388,7 @@ msgstr "그것은 슬픈 친절을 발산"
 msgid ""
 "the details of its form are easily forgotten without deliberate "
 "concentration"
-msgstr ""
+msgstr "그 모습은 의도적으로 떠올리지 않으면 금세 잊혀진다."
 
 #: stringdump_steam_2022_12_06.txt:26724
 msgid "it moves with great focus"
@@ -75502,7 +75528,7 @@ msgstr "해가 뜨기 전과 해가 진 직후에 짧게 지저귄다."
 msgid ""
 "it always tries to embolden any fighting in its presence with exhortations "
 "of bravery, even its foes"
-msgstr ""
+msgstr "그것은 항상 용감함의 권고, 심지어 적들까지 그것의 앞에서 어떤 싸움도 대담하게 하려고 노력합니다."
 
 #: stringdump_steam_2022_12_06.txt:26758
 msgid "it has a tendency to laugh quietly to itself every so often"
@@ -75512,7 +75538,7 @@ msgstr "너무 자주 혼자 조용히 웃는 경향이 있습니다."
 msgid ""
 "it tenses up throughout its entire body whenever somebody tells a falsehood "
 "in its presence"
-msgstr ""
+msgstr "누군가가 그 앞에서 거짓을 말할 때마다 전신이 긴장으로 굳어집니다."
 
 #: stringdump_steam_2022_12_06.txt:26760
 msgid "it is unsettling to be around"
@@ -75626,7 +75652,7 @@ msgstr "그것은 눈에 띄게 착색된다"
 msgid ""
 "it alternates from instant to instant between sluggishness and extreme "
 "vibrancy"
-msgstr ""
+msgstr "그것은 느림과 극도의 진동 사이에서 순간에서 순간으로 교대합니다."
 
 #: stringdump_steam_2022_12_06.txt:26788
 msgid "it appears to be expecting"
@@ -77306,7 +77332,7 @@ msgstr "[IS_TRIGGER_STRING:한 주 동안 행운을 빕니다!]"
 #: stringdump_steam_2022_12_06.txt:27736
 msgid ""
 "[IS_TRIGGER_STRING:been cursed, for one week, to know life as a beast!]"
-msgstr ""
+msgstr "[IS_TRIGGER_STRING:일주일 동안, 짐승이 되는 저주를 받았다!]"
 
 #: stringdump_steam_2022_12_06.txt:27741
 msgid "[IS_TRIGGER_STRING:been granted healing!]"
@@ -80630,7 +80656,7 @@ msgstr "경도"
 
 #: stringdump_steam_2022_12_06.txt:28791
 msgid "Minerals"
-msgstr "탄산수"
+msgstr "광물"
 
 #: stringdump_steam_2022_12_06.txt:28792
 msgid "Metals"
@@ -81674,7 +81700,7 @@ msgstr "더 타워"
 
 #: stringdump_steam_2022_12_06.txt:29052
 msgid "the Temple"
-msgstr "사원"
+msgstr "신전"
 
 #: stringdump_steam_2022_12_06.txt:29053
 msgid "the Library"
@@ -83619,11 +83645,11 @@ msgstr "의학:방법:의대"
 
 #: stringdump_steam_2022_12_06.txt:29538
 msgid "medicine:method:asylum for mentally ill"
-msgstr "의학:방법:정신질환자를 위한 망명"
+msgstr "의학:방법:정신질환자를 위한 정신병원"
 
 #: stringdump_steam_2022_12_06.txt:29539
 msgid "medicine:method:specialized wards"
-msgstr "의학:방법:전문병동"
+msgstr "의학:방법:특수 구금실"
 
 #: stringdump_steam_2022_12_06.txt:29540
 msgid "medicine:method:hospital lab"
@@ -85971,7 +85997,7 @@ msgstr "사냥꾼"
 
 #: stringdump_steam_2022_12_06.txt:30262
 msgid "Planters"
-msgstr "재배자"
+msgstr "농부"
 
 #: stringdump_steam_2022_12_06.txt:30263
 msgid "Fishermen"
@@ -85979,7 +86005,7 @@ msgstr "어민"
 
 #: stringdump_steam_2022_12_06.txt:30264
 msgid "Plant gatherers"
-msgstr "채집가"
+msgstr "채집꾼"
 
 #: stringdump_steam_2022_12_06.txt:30265
 msgid "Stonecutters"
@@ -86023,7 +86049,7 @@ msgstr "미드홀(255,128,255)"
 
 #: stringdump_steam_2022_12_06.txt:30275
 msgid "temple (170,120,230)"
-msgstr "사원 (170,120,230)"
+msgstr "신전 (170,120,230)"
 
 #: stringdump_steam_2022_12_06.txt:30276
 msgid "library (255,192,255)"
@@ -89786,7 +89812,7 @@ msgstr "(잘못된 명령)"
 
 #: stringdump_steam_2022_12_06.txt:37109
 msgid " (no temple)"
-msgstr "(사원 없음)"
+msgstr "(신전 없음)"
 
 #: stringdump_steam_2022_12_06.txt:37110
 msgid " (no archery target)"
