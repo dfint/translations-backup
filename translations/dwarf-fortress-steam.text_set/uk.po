@@ -1,0 +1,1524 @@
+# 
+# Translators:
+# insolor, 2022
+# 
+msgid ""
+msgstr ""
+"Last-Translator: insolor, 2022\n"
+"Language-Team: Ukrainian (https://www.transifex.com/dwarf-fortress-translation/teams/22396/uk/)\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: uk\n"
+"Plural-Forms: nplurals=4; plural=(n % 1 == 0 && n % 10 == 1 && n % 100 != 11 ? 0 : n % 1 == 0 && n % 10 >= 2 && n % 10 <= 4 && (n % 100 < 12 || n % 100 > 14) ? 1 : n % 1 == 0 && (n % 10 ==0 || (n % 10 >=5 && n % 10 <=9) || (n % 100 >=11 && n % 100 <=14 )) ? 2: 3);\n"
+
+#: text_dwarf.txt:2
+msgid "who was too short to live"
+msgstr "який був замалим для життя"
+
+#: text_dwarf.txt:3
+msgid "who tunneled away from me like a frightened mole"
+msgstr "котрий зрився од мене наче переляканий кріт"
+
+#: text_dwarf.txt:4
+msgid "who sucked plump helmets like a purring maggot"
+msgstr "хто смоктав товсті шоломники, як огидна личинка"
+
+#: text_dwarf.txt:5
+msgid "whose hammer shattered on the anvil of my power"
+msgstr "чий молот розбився об наковальню моєї волі"
+
+#: text_dwarf.txt:6
+msgid "who forged [PRO_POS] own doom by challenging me"
+msgstr "який викував [PRO_POS] власної гибелі, кинувши мені виклик"
+
+#: text_dwarf.txt:7
+msgid "who was returned to the rock and muck from which it was spawned"
+msgstr "який повернувся в камінь і болото яке його і породило"
+
+#: text_dwarf.txt:8
+msgid ""
+"whose tall tales of bravery were all the more embarrassing because of "
+"[PRO_POS] height"
+msgstr ""
+"чиї небилиці про хоробрість все більше збивають з толку через ріст [PRO_POS]"
+" "
+
+#: text_elf.txt:2
+msgid "who was felled like a slender sapling"
+msgstr "який був стятий, наче тоненьке деревце"
+
+#: text_elf.txt:3
+msgid "whom I sent back to the home-tree as fertilizer"
+msgstr "якого я послав назад в Дім-дерево в якості добрива"
+
+#: text_elf.txt:4
+msgid "whose fragile bones shattered before the power of my contempt"
+msgstr "чиї крихкі кістки зламалися під натиском моєї зневаги"
+
+#: text_elf.txt:5
+msgid "who came down from the home-tree and was devoured"
+msgstr "який випав з Дому-дерева і був з'їдений"
+
+#: text_elf.txt:6
+msgid ""
+"who should have stayed in the trees when the real elves came down to fight"
+msgstr "який мусив залишатися на деревах поки справжні ельфи йшли в бій"
+
+#: text_lair_hunter_minotaur.txt:2
+msgid "I want your bones for my bone mill!"
+msgstr "Мені потрібні твої кістки для моєї кісткодробарки. "
+
+#: text_lair_hunter_minotaur.txt:3
+msgid "I'll grind you into porridge!"
+msgstr "Я тебе на порох розітру!"
+
+#: text_lair_hunter_minotaur.txt:4
+msgid "I'll eat you whole!"
+msgstr "Я з'їм тебе повністю!"
+
+#: text_ab_specific_hf_seeker.txt:2
+msgid ""
+"seek out [CONTEXT:HIST_FIG:TRANS_NAME] at "
+"[CONTEXT:ABSTRACT_BUILDING:TRANS_NAME] over in [CONTEXT:SITE:TRANS_NAME]"
+msgstr ""
+"відшукайте [CONTEXT:HIST_FIG:TRANS_NAME] в "
+"[CONTEXT:ABSTRACT_BUILDING:TRANS_NAME], який знаходиться в "
+"[CONTEXT:SITE:TRANS_NAME]"
+
+#: text_animal_slayer.txt:2
+msgid ""
+"I have taken down [CONTEXT:NUMBER] [CONTEXT:RACE:NUMBERED_NAME] while "
+"stalking [CONTEXT:PLACE:TRANS_NAME]."
+msgstr ""
+"Я вбив [CONTEXT:NUMBER] [CONTEXT:RACE:NUMBERED_NAME] коли подорожував по "
+"[CONTEXT:PLACE:TRANS_NAME]."
+
+#: text_arch_info_justification.txt:2
+msgid ""
+"It is said that the [CONTEXT:ARCH_ELEMENT] of "
+"[CONTEXT:ABSTRACT_BUILDING:TRANS_NAME] [CONTEXT:JUSTIFICATION] "
+"[CONTEXT:DEF_SPHERE] for the glory of [CONTEXT:HIST_FIG:TRANS_NAME]."
+msgstr ""
+"Тут сказано що [CONTEXT:ARCH_ELEMENT] від "
+"[CONTEXT:ABSTRACT_BUILDING:TRANS_NAME] [CONTEXT:JUSTIFICATION] "
+"[CONTEXT:DEF_SPHERE] в честь [CONTEXT:HIST_FIG:TRANS_NAME]."
+
+#: text_book_art.txt2, text_book_instruction.txt:2
+msgid "[NAME]"
+msgstr ""
+
+#: text_book_art.txt:3
+msgid "[PHRASE]"
+msgstr ""
+
+#: text_book_art.txt:4
+msgid "[ADJ] [NO_ART_NAME]"
+msgstr ""
+
+#: text_book_art.txt:5
+msgid "The [ADJ] [NO_ART_NAME]"
+msgstr "<set-form:[ADJ]> <get-form:[NO_ART_NAME]>"
+
+#: text_book_art.txt:6
+msgid "[NAME] [ADJ]"
+msgstr ""
+
+#: text_book_art.txt:7
+msgid "[NAME] and the [NOUN]"
+msgstr "[NAME] і [NOUN]"
+
+#: text_book_art.txt:8
+msgid "[NAME] and the [ADJ] [NOUN]"
+msgstr "[NAME] і <set-form:[ADJ]> <get-form:[NOUN]>"
+
+#: text_book_art.txt:9
+msgid "The [NOUN] and [NAME]"
+msgstr "[NOUN] і [NAME]"
+
+#: text_book_art.txt:10
+msgid "The [ADJ] [NOUN] and [NAME]"
+msgstr "<set-form:[ADJ]> <get-form:[NOUN]> і [NAME]"
+
+#: text_book_art.txt:11
+msgid "[NAME]: [PHRASE]"
+msgstr ""
+
+#: text_book_art.txt:12
+msgid "It Must Have Been [NAME]"
+msgstr "Це <set-form:повинен> <set-form:був> бути <get-form:[NAME]>"
+
+#: text_book_art.txt:13
+msgid "My Friend [NAME]"
+msgstr "Мій друг [NAME]"
+
+#: text_book_art.txt:14
+msgid "The Birth of [NAME]"
+msgstr "Народження <gent:[NAME]>"
+
+#: text_book_art.txt:15
+msgid "The Sun Sets on [NAME]"
+msgstr "Захід Сонця над <ablt:[NAME]>"
+
+#: text_book_art.txt:16
+msgid "We See [NAME]"
+msgstr "Ми бачимо <accs:[NAME]>"
+
+#: text_book_art.txt:17
+msgid "[NAME] Ever Onward"
+msgstr "[NAME]  - завжди вперед"
+
+#: text_book_art.txt:18
+msgid "[NAME] and Nothing More"
+msgstr "[NAME] і більше нічого"
+
+#: text_book_art.txt:19
+msgid "And [ANY_PRONOUN] Sang '[NAME]!'"
+msgstr "<get-form:[ANY_PRONOUN]> <set-form:співав>: 'О [NAME]!'"
+
+#: text_book_instruction.txt:3
+msgid "A Course on [NAME]"
+msgstr "Курс на <accs:[NAME]>"
+
+#: text_book_instruction.txt:4
+msgid "A Humble Offering to [NAME]"
+msgstr "Скромна пропозиція для <gent:[NAME]>"
+
+#: text_book_instruction.txt:5
+msgid "A Meditation on [NAME]"
+msgstr "Медитація на <accs:[NAME]>"
+
+#: text_book_instruction.txt:6
+msgid "A Record of [NAME]"
+msgstr "Запис <gent:[NAME]>"
+
+#: text_book_instruction.txt:7
+msgid "A Treatise on [NAME]"
+msgstr "Трактат про <accs:[NAME]>"
+
+#: text_book_instruction.txt:8
+msgid "A World of [NAME]"
+msgstr "Світ <gent:[NAME]>"
+
+#: text_book_instruction.txt:9
+msgid "About [NAME]"
+msgstr "Про <accs:[NAME]>"
+
+#: text_book_instruction.txt:10
+msgid "After [NAME]"
+msgstr "Після <gent:[NAME]>"
+
+#: text_book_instruction.txt:11
+msgid "Against [NAME]"
+msgstr "Проти <gent:[NAME]>"
+
+#: text_book_instruction.txt:12
+msgid "An Exploration of [NAME]"
+msgstr "Дослідження <gent:[NAME]>"
+
+#: text_book_instruction.txt:13
+msgid "An Introduction to [NAME]"
+msgstr "Вступ до <gent:[NAME]>"
+
+#: text_book_instruction.txt:14
+msgid "An Offering to [NAME]"
+msgstr "Пропозиція для <gent:[NAME]>"
+
+#: text_book_instruction.txt:15
+msgid "At One With [NAME]"
+msgstr "Наодинці з <ablt:[NAME]>"
+
+#: text_book_instruction.txt:16
+msgid "Before [NAME]"
+msgstr "Перед <ablt:[NAME]>"
+
+#: text_book_instruction.txt:17
+msgid "Better [NO_ART_NAME]"
+msgstr "Краще, ніж [NO_ART_NAME]"
+
+#: text_book_instruction.txt:18
+msgid "Beyond [NAME]"
+msgstr "За межами <gent:[NAME]>"
+
+#: text_book_instruction.txt:19
+msgid "Book of [NAME]"
+msgstr "Книга <gent:[NAME]>"
+
+#: text_book_instruction.txt:20
+msgid "Captivated by [NAME]"
+msgstr "Полонений <ablt:[NAME]>"
+
+#: text_book_instruction.txt:21
+msgid "Choose [NAME]"
+msgstr "Вибір <gent:[NAME]>"
+
+#: text_book_instruction.txt:22
+msgid "Classic [NO_ART_NAME]"
+msgstr "<set-form:Класичний> <get-form:[NO_ART_NAME]>"
+
+#: text_book_instruction.txt:23
+msgid "Commentary on [NAME]"
+msgstr "Комментарії щодо <gent:[NAME]>"
+
+#: text_book_instruction.txt:24
+msgid "Common Sense [NO_ART_NAME]"
+msgstr "Здоровий глузд [NO_ART_NAME]"
+
+#: text_book_instruction.txt:25
+msgid "Concerning [NAME]"
+msgstr "\"Щодо <gent:[NAME]>\""
+
+#: text_book_instruction.txt:26
+msgid "Discourse on [NAME]"
+msgstr "Міркування про <accs:[NAME]>"
+
+#: text_book_instruction.txt:27
+msgid "Discovering [NAME]"
+msgstr "Дослідження <gent:[NAME]>"
+
+#: text_book_instruction.txt:28
+msgid "Doubts About [NAME]"
+msgstr "Сумніви щодо <gent:[NAME]>"
+
+#: text_book_instruction.txt:29
+msgid "Dreams of [NAME]"
+msgstr "Мрії про <accs:[NAME]>"
+
+#: text_book_instruction.txt:30
+msgid "Elements of [NAME]"
+msgstr "Частини <gent:[NAME]>"
+
+#: text_book_instruction.txt:31
+msgid "Errors In [NAME]"
+msgstr "Помилки в <loct:[NAME]>"
+
+#: text_book_instruction.txt:32
+msgid "Exploring [NAME]"
+msgstr "Дослідження <gent:[NAME]>"
+
+#: text_book_instruction.txt:33
+msgid "Explorations of [NAME]"
+msgstr "\"Дослідження <gent:[NAME]>\""
+
+#: text_book_instruction.txt:34
+msgid "Factual [NO_ART_NAME]"
+msgstr "Факти про <accs:[NAME]>"
+
+#: text_book_instruction.txt:35
+msgid "For the Love of [NAME]"
+msgstr "Заради любові <gent:[NAME]>"
+
+#: text_book_instruction.txt:36
+msgid "Foundations of [NAME]"
+msgstr "Основи <gent:[NAME]>"
+
+#: text_book_instruction.txt:37
+msgid "Give Me [NAME]"
+msgstr "Дайте мені <accs,inan:[NAME]>"
+
+#: text_book_instruction.txt:38
+msgid "Great [NO_ART_NAME]"
+msgstr "<set-form:Великий> <get-form:[NO_ART_NAME]>"
+
+#: text_book_instruction.txt:39
+msgid "In Pursuit of [NAME]"
+msgstr "У пошуках <gent:[NAME]>"
+
+#: text_book_instruction.txt:40
+msgid "Inquiries on [NAME]"
+msgstr "\"Вивчення <gent:[NAME]>\""
+
+#: text_book_instruction.txt:41
+msgid "Interpretations of [NAME]"
+msgstr "\"інтерпретації <gent:[NAME]>\""
+
+#: text_book_instruction.txt:42
+msgid "Introduction to [NAME]"
+msgstr "Вступ до <gent:[NAME]>"
+
+#: text_book_instruction.txt:43
+msgid "It All Begins With [NAME]"
+msgstr "Все починається з <gent:[NAME]>"
+
+#: text_book_instruction.txt:44
+msgid "It Is [NAME]"
+msgstr "Це [NAME]"
+
+#: text_book_instruction.txt:45
+msgid "Journey to [NAME]"
+msgstr "Подорож до <gent:[NAME]>"
+
+#: text_book_instruction.txt:46
+msgid "Life With [NAME]"
+msgstr "Життя з <ablt:[NAME]>"
+
+#: text_book_instruction.txt:47
+msgid "Master of [NAME]"
+msgstr "Володар <gent:[NAME]>"
+
+#: text_book_instruction.txt:48
+msgid "Mastering [NAME]"
+msgstr "Опановуючи <accs:[NAME]>"
+
+#: text_book_instruction.txt:49
+msgid "Meditations on [NAME]"
+msgstr "Медитація на <accs:[NAME]>"
+
+#: text_book_instruction.txt:50
+msgid "Misconceptions About [NAME]"
+msgstr "Хибні уявлення про <accs:[NAME]>"
+
+#: text_book_instruction.txt:51
+msgid "More [NO_ART_NAME]"
+msgstr "Більше <gent:[NO_ART_NAME]>"
+
+#: text_book_instruction.txt:52
+msgid "Musings on [NAME]"
+msgstr "Роздуми про <accs:[NAME]>"
+
+#: text_book_instruction.txt:53
+msgid "My Thoughts on [NAME]"
+msgstr "Мої думки про <accs:[NAME]>"
+
+#: text_book_instruction.txt:54
+msgid "Mysteries of [NAME]"
+msgstr "\"Загадки <gent:[NAME]>\""
+
+#: text_book_instruction.txt:55
+msgid "Never Underestimate [NAME]"
+msgstr "Годі недооцінювати <accs:[NAME]>"
+
+#: text_book_instruction.txt:56
+msgid "New [NO_ART_NAME]"
+msgstr "<set-form:Новий> <get-form:[NO_ART_NAME]>"
+
+#: text_book_instruction.txt:57
+msgid "Of [NAME]"
+msgstr "Щодо <gent:[NAME]>"
+
+#: text_book_instruction.txt:58
+msgid "On [NAME]"
+msgstr "Про <accs:[NAME]>"
+
+#: text_book_instruction.txt:59
+msgid "Pathways to [NAME]"
+msgstr "Шляхи до <gent:[NAME]>"
+
+#: text_book_instruction.txt:60
+msgid "Principles of [NAME]"
+msgstr "Принципи <gent:[NAME]>"
+
+#: text_book_instruction.txt:61
+msgid "Question [NAME]"
+msgstr "Питання <gent:[NAME]>"
+
+#: text_book_instruction.txt:62
+msgid "Questions About [NAME]"
+msgstr "Питання про <accs:[NAME]>"
+
+#: text_book_instruction.txt:63
+msgid "Records of [NAME]"
+msgstr "Записи про <accs:[NAME]>"
+
+#: text_book_instruction.txt:64
+msgid "Reflections on [NAME]"
+msgstr "Міркування над <ablt:[NAME]>"
+
+#: text_book_instruction.txt:65
+msgid "Secret [NO_ART_NAME]"
+msgstr "<set-form:Таємний> <get-form:[NO_ART_NAME]>"
+
+#: text_book_instruction.txt:66
+msgid "Start Your Day With [NAME]"
+msgstr "Почніть свій день з <gent:[NAME]>"
+
+#: text_book_instruction.txt:67
+msgid "Strange [NO_ART_NAME]"
+msgstr "<set-form:Дивний> <get-form:[NAME]>"
+
+#: text_book_instruction.txt:68
+msgid "The Art of [NAME]"
+msgstr "Мистецтво <gent:[NAME]>"
+
+#: text_book_instruction.txt:69
+msgid "The Book of [NAME]"
+msgstr "Книга про <accs:[NAME]>"
+
+#: text_book_instruction.txt:70
+msgid "The Future of [NAME]"
+msgstr "Майбутнє <gent:[NAME]>"
+
+#: text_book_instruction.txt:71
+msgid "The Great [NO_ART_NAME]"
+msgstr "<set-form:Величний> <get-form:[NO_ART_NAME]>"
+
+#: text_book_instruction.txt:72
+msgid "The Hidden Meaning of [NAME]"
+msgstr "Прихованний сенс <gent:[NAME]>"
+
+#: text_book_instruction.txt:73
+msgid "The History of [NAME]"
+msgstr "Історія <gent:[NAME]>"
+
+#: text_book_instruction.txt:74
+msgid "The Interpretation of [NAME]"
+msgstr "\"Інтерпретація <gent:[NAME]>\""
+
+#: text_book_instruction.txt:75
+msgid "The Journey into [NAME]"
+msgstr "Подорож до <gent:[NAME]>"
+
+#: text_book_instruction.txt:76
+msgid "The Knowledge of [NAME]"
+msgstr "Знання про <accs:[NAME]>"
+
+#: text_book_instruction.txt:77
+msgid "The Meaning of [NAME]"
+msgstr "Значення <gent:[NAME]>"
+
+#: text_book_instruction.txt:78
+msgid "The Mysteries of [NAME]"
+msgstr "Секрети <gent:[NAME]>"
+
+#: text_book_instruction.txt:79
+msgid "The Mystery of [NAME]"
+msgstr "Загадка <gent:[NAME]>"
+
+#: text_book_instruction.txt:80
+msgid "The Nuanced [NO_ART_NAME]"
+msgstr "<set-form:Винятковий> <get-form:[NO_ART_NAME]>"
+
+#: text_book_instruction.txt:81
+msgid "The Possibilities of [NAME]"
+msgstr "\"Можливості <gent:[NAME]>\""
+
+#: text_book_instruction.txt:82
+msgid "The Pursuit of [NAME]"
+msgstr "\"Пошук <datv:[NAME]>\""
+
+#: text_book_instruction.txt:83
+msgid "The Secret of [NAME]"
+msgstr "Таємниця <gent:[NAME]>"
+
+#: text_book_instruction.txt:84
+msgid "The Student's [NO_ART_NAME]"
+msgstr "[NO_ART_NAME] учня"
+
+#: text_book_instruction.txt:85
+msgid "The Study of [NAME]"
+msgstr "Навчання <gent:[NAME]>"
+
+#: text_book_instruction.txt:86
+msgid "The True [NO_ART_NAME]"
+msgstr "\"<set-form:Істинний> <get-form:[NO_ART_NAME]>\""
+
+#: text_book_instruction.txt:87
+msgid "The Truth About [NAME]"
+msgstr "Правда про <accs:[NAME]>"
+
+#: text_book_instruction.txt:88
+msgid "The Unabridged [NO_ART_NAME]"
+msgstr "\"<set-form:Повний> <get-form:[NO_ART_NAME]>\""
+
+#: text_book_instruction.txt:89
+msgid "The Way With [NAME]"
+msgstr "Шлях разом з <ablt:[NAME]>"
+
+#: text_book_instruction.txt:90
+msgid "The Wizard's Guide to [NAME]"
+msgstr "Посібник майстра з <gent:[NAME]>"
+
+#: text_book_instruction.txt:91
+msgid "The World of [NAME]"
+msgstr "Світ <gent:[NAME]>"
+
+#: text_book_instruction.txt:92
+msgid "The World Without [NAME]"
+msgstr "Світ без <gent:[NAME]>"
+
+#: text_book_instruction.txt:93
+msgid "Thoughts on [NAME]"
+msgstr "Думки про <accs:[NAME]>"
+
+#: text_book_instruction.txt:94
+msgid "Time Spent With [NAME]"
+msgstr "Час проведений з <ablt:[NAME]>"
+
+#: text_book_instruction.txt:95
+msgid "Traditional [NO_ART_NAME]"
+msgstr "<set-form:Традиційний> <get-form:[NO_ART_NAME]>"
+
+#: text_book_instruction.txt:96
+msgid "Treatise on [NAME]"
+msgstr "Трактат про <accs:[NAME]>"
+
+#: text_book_instruction.txt:97
+msgid "True [NO_ART_NAME]"
+msgstr "\"<set-form:Справжній> <get-form:[NO_ART_NAME]>\""
+
+#: text_book_instruction.txt:98
+msgid "Uncanny [NO_ART_NAME]"
+msgstr "<set-form:Надзвичайний> <get-form:[NAME]>"
+
+#: text_book_instruction.txt:99
+msgid "Uncovering [NAME]"
+msgstr "Розкриття <gent:[NAME]>"
+
+#: text_book_instruction.txt:100
+msgid "Understanding [NAME]"
+msgstr "Розуміння <gent:[NAME]>"
+
+#: text_book_instruction.txt:101
+msgid "Unknown [NO_ART_NAME]"
+msgstr "<set-form:Невідомий> <get-form:[NO_ART_NAME]>"
+
+#: text_book_instruction.txt:102
+msgid "Unusual [NO_ART_NAME]"
+msgstr "\"<set-form:Незвичайний> <get-form:[NO_ART_NAME]>\""
+
+#: text_book_instruction.txt:103
+msgid "Useful [NO_ART_NAME]"
+msgstr "\"<set-form:Корисний> <get-form:[NO_ART_NAME]>\""
+
+#: text_book_instruction.txt:104
+msgid "Victory By [NAME]"
+msgstr "Перемога <gent:[NAME]>"
+
+#: text_book_instruction.txt:105
+msgid "[NAME] After The End"
+msgstr "[NAME] по закінченні"
+
+#: text_book_instruction.txt:106
+msgid "[NAME] and Beyond"
+msgstr "[NAME] і не тільки"
+
+#: text_book_instruction.txt:107
+msgid "[NAME] and More"
+msgstr "[NAME] і ще більше"
+
+#: text_book_instruction.txt:108
+msgid "[NAME] and Other Topics"
+msgstr "[NAME] та інші теми"
+
+#: text_book_instruction.txt:109
+msgid "[NAME] and Other Travesties"
+msgstr "[NAME] та інші пародії"
+
+#: text_book_instruction.txt:110
+msgid "[NAME] and The Coming Troubles"
+msgstr "[NAME] і майбутні труднощі"
+
+#: text_book_instruction.txt:111
+msgid "[NAME] and The Universe"
+msgstr "[NAME] і Всесвіт"
+
+#: text_book_instruction.txt:112
+msgid "[NAME] Came Full Circle"
+msgstr "[NAME] повертається на круги своя"
+
+#: text_book_instruction.txt:113
+msgid "[NAME] Explained"
+msgstr "Роз'яснення щодо <gent:[NAME]>"
+
+#: text_book_instruction.txt:114
+msgid "[NAME] Exposed"
+msgstr "Розкриття <gent:[NAME]>"
+
+#: text_book_instruction.txt:115
+msgid "[NAME] For Everyone"
+msgstr "[NAME] для всіх"
+
+#: text_book_instruction.txt:116
+msgid "[NAME] For Students"
+msgstr "[NAME] для учнів"
+
+#: text_book_instruction.txt:117
+msgid "[NAME] For The Beginning Practitioner"
+msgstr "[NAME] для початківців"
+
+#: text_book_instruction.txt:118
+msgid "[NAME] In Practice"
+msgstr "[NAME] на практиці"
+
+#: text_book_instruction.txt:119
+msgid "[NAME] In The Modern Era"
+msgstr "[NAME] в наші часи"
+
+#: text_book_instruction.txt:120
+msgid "[NAME] In The Time of My Ancestors"
+msgstr "[NAME] за часів моїх пращурів"
+
+#: text_book_instruction.txt:121
+msgid "[NAME] In Theory"
+msgstr "[NAME] у теорії"
+
+#: text_book_instruction.txt:122
+msgid "[NAME] In [ANY_AGE]"
+msgstr "[NAME] в часи <gent:[ANY_AGE]>"
+
+#: text_book_instruction.txt:123
+msgid "[NAME] Interpreted"
+msgstr "Тлумачення <gent:[NAME]>"
+
+#: text_book_instruction.txt:124
+msgid "[NAME] Might Help"
+msgstr "[NAME] може допомогти"
+
+#: text_book_instruction.txt:125
+msgid "[NAME] Questioned"
+msgstr "[NAME] під питанням"
+
+#: text_book_instruction.txt:126
+msgid "[NAME] The Easy Way"
+msgstr "[NAME] - легкий шлях"
+
+#: text_book_instruction.txt:127
+msgid "[NAME] Uncovered"
+msgstr "<get-form:[NAME]> <set-form:розкритий>"
+
+#: text_book_instruction.txt:128
+msgid "[NAME] Understood"
+msgstr "Розуміння <gent:[NAME]>"
+
+#: text_book_instruction.txt:129
+msgid "[NAME] When It Counts"
+msgstr "[NAME] коли це важливо"
+
+#: text_book_instruction.txt:130
+msgid "[NAME] Within Reason"
+msgstr "[NAME] у межах розумного"
+
+#: text_book_instruction.txt:131
+msgid "[NAME] Without Limits"
+msgstr "[NAME] без меж"
+
+#: text_book_instruction.txt:132
+msgid "[NAME], Abridged"
+msgstr "[NAME], стисло"
+
+#: text_book_instruction.txt:133
+msgid "[NAME], My Life"
+msgstr "[NAME], моє життя"
+
+#: text_book_instruction.txt:134
+msgid "[NAME], My Love"
+msgstr "[NAME], моя любов"
+
+#: text_book_instruction.txt:135
+msgid "[NAME]: A Brief History"
+msgstr "[NAME]: коротка історія"
+
+#: text_book_instruction.txt:136
+msgid "[NAME]: A Brief Introduction"
+msgstr "[NAME]: коротке ознайомлення"
+
+#: text_book_instruction.txt:137
+msgid "[NAME]: A New Approach"
+msgstr "[NAME]: новий підхід"
+
+#: text_book_instruction.txt:138
+msgid "[NAME]: A Quandary"
+msgstr "[NAME]: скрута"
+
+#: text_book_instruction.txt:139
+msgid "[NAME]: Before and After"
+msgstr "[NAME]: до і після"
+
+#: text_book_instruction.txt:140
+msgid "[NAME]: Common Practice"
+msgstr "[NAME]: загальний ужиток"
+
+#: text_book_instruction.txt:141
+msgid "[NAME]: Fact or Fiction?"
+msgstr "[NAME]: правда чи вигадка?"
+
+#: text_book_instruction.txt:142
+msgid "[NAME]: Further Musings"
+msgstr "[NAME]: подальші роздуми"
+
+#: text_book_instruction.txt:143
+msgid "[NAME]: My Only Mistake"
+msgstr "[NAME]: моя єдина помилка"
+
+#: text_book_instruction.txt:144
+msgid "[NAME]: Natural or Supernatural?"
+msgstr "[NAME]: природний чи надприродний?"
+
+#: text_book_instruction.txt:145
+msgid "[NAME]: Principles and Practice"
+msgstr "[NAME]: теорія та практика"
+
+#: text_book_instruction.txt:146
+msgid "[NAME]: Problems And Solutions"
+msgstr "[NAME]: проблеми та рішення"
+
+#: text_book_instruction.txt:147
+msgid "[NAME]: The Definitive Guide"
+msgstr "[NAME]: повний посібник"
+
+#: text_book_instruction.txt:148
+msgid "[NAME]: The Truth"
+msgstr "[NAME]: уся правда"
+
+#: text_book_instruction.txt:149
+msgid "Can [NAME] Save The World?"
+msgstr "Чи може [NAME] врятувати світ?"
+
+#: text_book_instruction.txt:150
+msgid "Could It Be [NAME]?"
+msgstr "Чи може це бути [NAME]?"
+
+#: text_book_instruction.txt:151
+msgid "Did [NAME] Falter?"
+msgstr "Чи <set-form:вагався> <get-form:[NAME]>?"
+
+#: text_book_instruction.txt:152
+msgid "Do We Understand [NAME]?"
+msgstr "Чи розуміємо ми <accs:[NAME]>?"
+
+#: text_book_instruction.txt:153
+msgid "Do You Know [NAME]?"
+msgstr "Ти знаєш <accs:[NAME]>?"
+
+#: text_book_instruction.txt:154
+msgid "First [NAME], Then The World!"
+msgstr "Спочатку [NAME], згодом увесь світ!"
+
+#: text_book_instruction.txt:155
+msgid "The [NO_ART_NAME] Book"
+msgstr "Книга <gent:[NO_ART_NAME]>"
+
+#: text_book_instruction.txt:156
+msgid "To [NAME] and Glory!"
+msgstr "За <accs:[NAME]> і славу!"
+
+#: text_child_age_proclamation.txt:2
+msgid "I'm [CONTEXT:NUMBER]!"
+msgstr "Мені [CONTEXT:NUMBER] років!"
+
+#: text_current_profession_no_year.txt:2
+msgid "I am a [CONTEXT:UNIT_NAME]."
+msgstr "Я є [CONTEXT:UNIT_NAME]."
+
+#: text_current_profession_year.txt:2
+msgid "This is my [CONTEXT:ORDINAL] year as a [CONTEXT:UNIT_NAME]."
+msgstr "Ось вже [CONTEXT:ORDINAL] рік я [CONTEXT:UNIT_NAME]"
+
+#: text_curse.txt:2
+msgid "Who dares to enter my house?  I curse you!"
+msgstr "Хто наважився увійти до мого дому? Будь ти проклятий!"
+
+#: text_family_relationship_additional.txt:2
+msgid "[CONTEXT:HIST_FIG:PRO_SUB] is also my [CONTEXT:FAMILY_RELATIONSHIP]"
+msgstr "[CONTEXT:HIST_FIG:PRO_SUB] - це ж мій [CONTEXT:FAMILY_RELATIONSHIP]"
+
+#: text_family_relationship_additional_dead.txt:2
+msgid "[CONTEXT:HIST_FIG:PRO_SUB] was also my [CONTEXT:FAMILY_RELATIONSHIP]"
+msgstr "[CONTEXT:HIST_FIG:PRO_SUB] теж був моїм [CONTEXT:FAMILY_RELATIONSHIP]"
+
+#: text_family_relationship_no_spec.txt:2
+msgid ""
+"I have [CONTEXT:INDEF_FAMILY_RELATIONSHIP] named "
+"[CONTEXT:HIST_FIG:TRANS_NAME]"
+msgstr ""
+"У мене є [CONTEXT:INDEF_FAMILY_RELATIONSHIP] по імені "
+"[CONTEXT:HIST_FIG:TRANS_NAME]"
+
+#: text_family_relationship_no_spec_dead.txt:2
+msgid ""
+"I had [CONTEXT:INDEF_FAMILY_RELATIONSHIP] named "
+"[CONTEXT:HIST_FIG:TRANS_NAME]"
+msgstr ""
+"У мене був [CONTEXT:INDEF_FAMILY_RELATIONSHIP] по імені "
+"[CONTEXT:HIST_FIG:TRANS_NAME]"
+
+#: text_family_relationship_spec.txt:2
+msgid ""
+"my [CONTEXT:FAMILY_RELATIONSHIP] is named [CONTEXT:HIST_FIG:TRANS_NAME]"
+msgstr ""
+"мого [CONTEXT:FAMILY_RELATIONSHIP] звати [CONTEXT:HIST_FIG:TRANS_NAME]"
+
+#: text_family_relationship_spec_dead.txt:2
+msgid ""
+"my [CONTEXT:FAMILY_RELATIONSHIP] was named [CONTEXT:HIST_FIG:TRANS_NAME]"
+msgstr "мого [CONTEXT:FAMILY_RELATIONSHIP] звали[CONTEXT:HIST_FIG:TRANS_NAME]"
+
+#: text_general.txt:2
+msgid "whose cries for mercy went unheeded by my wrath"
+msgstr "чия молитва пощади була не помічена"
+
+#: text_general.txt:3
+msgid "whose insignificant name I struggle to recall"
+msgstr "чиє жалюгідне ім'я з важкістю згадую "
+
+#: text_general.txt:4
+msgid "a spineless slug who was crushed under my might"
+msgstr "безхребетний слимак, роздавлений моєю могутністю"
+
+#: text_general.txt:5
+msgid "whom I buried alive under a mountain of hatred"
+msgstr "який був похований заживо під горою ненависті"
+
+#: text_general.txt:6
+msgid "who lies dead, now only an embarrassing memory"
+msgstr "який помер, і тепер тільки зрідка тривожить мою пам'ять "
+
+#: text_general.txt:7
+msgid "who sought my praise, only to be rejected in death"
+msgstr "який шукав моєї похвали, тільки щоб уникнути смерті"
+
+#: text_general.txt:8
+msgid "once revered by those who didn't know any better"
+msgstr "шанований тільки тими, хто не знав нікого кращого "
+
+#: text_goodbye_worship_1.txt:2
+msgid "upon arising in the mornings,"
+msgstr "з приходом ранків,"
+
+#: text_goodbye_worship_1.txt:3
+msgid "when going on a long journey,"
+msgstr "коли в довгій подорожі,"
+
+#: text_goodbye_worship_1.txt:4
+msgid "before retiring in the evening,"
+msgstr "перед тим як лягати спати ввечері,"
+
+#: text_goodbye_worship_1.txt:5
+msgid "as sure as I am here now,"
+msgstr "вірно як і те, що я зараз стою тут,"
+
+#: text_goodbye_worship_1.txt:6
+msgid "and lo,"
+msgstr "і ось,"
+
+#: text_goodbye_worship_1.txt:7
+msgid "it cannot be said enough;"
+msgstr "більше тут вже нічого сказати;"
+
+#: text_goodbye_worship_1.txt:8
+msgid "these are dangerous times, so"
+msgstr "ці небезпечні часи, тому"
+
+#: text_goodbye_worship_1.txt:9
+msgid "I say again"
+msgstr "Ще раз кажу"
+
+#: text_goodbye_worship_1.txt:10
+msgid "yes,"
+msgstr "так,"
+
+#: text_goodbye_worship_1.txt:11
+msgid "before every meal,"
+msgstr "перед кожною трапезою,"
+
+#: text_goodbye_worship_1.txt:12
+msgid "whenever the tide turns,"
+msgstr "коли приплив обернеться,"
+
+#: text_goodbye_worship_1.txt:13
+msgid "when you return to this place,"
+msgstr "коли ви повернетесь до цього місця,"
+
+#: text_goodbye_worship_1.txt:14
+msgid "when you arrive at your destination,"
+msgstr "коли ви прибудете в пункт призначення,"
+
+#: text_goodbye_worship_1.txt:15
+msgid "at this juncture in your life,"
+msgstr "в цю мить вашого життя,"
+
+#: text_goodbye_worship_2.txt:2
+msgid "don't forget to"
+msgstr "маєте пам'ятати"
+
+#: text_goodbye_worship_2.txt:3
+msgid "always remember to"
+msgstr "завжди пам'ятайте"
+
+#: text_goodbye_worship_2.txt:4
+msgid "it would be wise to"
+msgstr "було б розумно"
+
+#: text_goodbye_worship_2.txt:5
+msgid "you should"
+msgstr "вам слід"
+
+#: text_goodbye_worship_2.txt:6
+msgid "you must"
+msgstr "ви повинні"
+
+#: text_goodbye_worship_2.txt:7
+msgid "prudence demands that you"
+msgstr "розсудливість вимагає, щоби ви"
+
+#: text_goodbye_worship_2.txt:8
+msgid "even for a moment"
+msgstr "рівно на мить"
+
+#: text_goodbye_worship_2.txt:9
+msgid "follow my advice and"
+msgstr "тримайтеся моєї поради та"
+
+#: text_goodbye_worship_2.txt:10
+msgid "heed my words and"
+msgstr "прислухайтеся до моїх слів та"
+
+#: text_goodbye_worship_2.txt:11
+msgid "remember to"
+msgstr "пам'ятайте"
+
+#: text_goodbye_worship_2.txt:12
+msgid "show devotion and"
+msgstr "покажіть відданість та "
+
+#: text_goodbye_worship_3.txt:2
+msgid "speak the praises of [SPEAKER:HF_LINK:DEITY:TRANS_NAME]"
+msgstr "вознесіть хвалу [SPEAKER:HF_LINK:DEITY:TRANS_NAME]"
+
+#: text_goodbye_worship_3.txt:3
+msgid "speak the praises of [SPEAKER:HF_LINK:DEITY:RANDOM_DEF_SPHERE]"
+msgstr "вознесіть хвалу [SPEAKER:HF_LINK:DEITY:RANDOM_DEF_SPHERE]"
+
+#: text_goodbye_worship_3.txt:4
+msgid "go with [SPEAKER:HF_LINK:DEITY:TRANS_NAME]"
+msgstr "йди з [SPEAKER:HF_LINK:DEITY:TRANS_NAME]"
+
+#: text_goodbye_worship_3.txt:5
+msgid "go with [SPEAKER:HF_LINK:DEITY:RANDOM_DEF_SPHERE]"
+msgstr "йди з [SPEAKER:HF_LINK:DEITY:RANDOM_DEF_SPHERE]"
+
+#: text_goodbye_worship_3.txt:6
+msgid "put your faith in [SPEAKER:HF_LINK:DEITY:TRANS_NAME]"
+msgstr "покладись на [SPEAKER:HF_LINK:DEITY:TRANS_NAME]"
+
+#: text_goodbye_worship_3.txt:7
+msgid "put your faith in [SPEAKER:HF_LINK:DEITY:RANDOM_DEF_SPHERE]"
+msgstr "покладись на [SPEAKER:HF_LINK:DEITY:RANDOM_DEF_SPHERE]"
+
+#: text_goodbye_worship_3.txt:8
+msgid "experience [SPEAKER:HF_LINK:DEITY:TRANS_NAME]"
+msgstr "відчуйте [SPEAKER:HF_LINK:DEITY:TRANS_NAME]"
+
+#: text_goodbye_worship_3.txt:9
+msgid "experience [SPEAKER:HF_LINK:DEITY:RANDOM_DEF_SPHERE]"
+msgstr "відчуйте [SPEAKER:HF_LINK:DEITY:RANDOM_DEF_SPHERE]"
+
+#: text_goodbye_worship_3.txt:10
+msgid "consider [SPEAKER:HF_LINK:DEITY:TRANS_NAME]"
+msgstr "розглядати [SPEAKER:HF_LINK:DEITY:TRANS_NAME]"
+
+#: text_goodbye_worship_3.txt:11
+msgid "consider [SPEAKER:HF_LINK:DEITY:RANDOM_DEF_SPHERE]"
+msgstr "розгляньте [SPEAKER:HF_LINK:DEITY:RANDOM_DEF_SPHERE]"
+
+#: text_goodbye_worship_3.txt:12
+msgid "give yourself to [SPEAKER:HF_LINK:DEITY:TRANS_NAME]"
+msgstr "присвятіть себе [SPEAKER:HF_LINK:DEITY:TRANS_NAME]"
+
+#: text_goodbye_worship_3.txt:13
+msgid "give yourself to [SPEAKER:HF_LINK:DEITY:RANDOM_DEF_SPHERE]"
+msgstr "присвятіть себе [SPEAKER:HF_LINK:DEITY:RANDOM_DEF_SPHERE]"
+
+#: text_greet.txt:2
+msgid "Greetings.  My name is [SPEAKER:TRANS_NAME]."
+msgstr "Вітаю. Мене звати [SPEAKER:TRANS_NAME]."
+
+#: text_greet_baby.txt:2
+msgid "Hellooo!"
+msgstr "Приві-і-іт!"
+
+#: text_greet_baby.txt:3
+msgid "Look at you!"
+msgstr "Подивимося на тебе!"
+
+#: text_greet_baby.txt:4
+msgid "A baby!  How adorable!"
+msgstr "Малюк! Який прекрасний!"
+
+#: text_greet_reply.txt:2
+msgid "Ah, hello.  I'm [SPEAKER:TRANS_NAME]."
+msgstr "Оу, привіт. Я [SPEAKER:TRANS_NAME]."
+
+#: text_greet_reply_after_hero.txt:2
+msgid "I am [SPEAKER:TRANS_NAME].  Can I be of some help?"
+msgstr "Я [SPEAKER:TRANS_NAME].  Чи можу чимось допомогти?"
+
+#: text_greet_reply_after_hero.txt:3
+msgid "I am [SPEAKER:TRANS_NAME].  How can I be of service?"
+msgstr "Я [SPEAKER:TRANS_NAME].  Чим можу бути корисним?"
+
+#: text_greet_reply_diff_language.txt:2
+msgid "Hello, [AUDIENCE:RACE].  I am [SPEAKER:TRANS_NAME]."
+msgstr "Привіт, [AUDIENCE:RACE].  Я [SPEAKER:TRANS_NAME]."
+
+#: text_greet_reply_unusual_first.txt:2
+msgid "[AUDIENCE:FIRST_NAME]...  your parents must have been interesting!"
+msgstr "[AUDIENCE:FIRST_NAME]...  ваші батьки повинні бути цікавими!"
+
+#: text_greet_reply_unusual_first.txt:3
+msgid ""
+"You know, you don't meet many people with the name [AUDIENCE:FIRST_NAME]."
+msgstr ""
+"Знаєте, ви навряд чи зустрічали багато людей з ім'ям [AUDIENCE:FIRST_NAME]."
+
+#: text_greet_reply_unusual_first.txt:4
+msgid "So, [AUDIENCE:FIRST_NAME]...   [AUDIENCE:FIRST_NAME], was it?"
+msgstr "Так, [AUDIENCE:FIRST_NAME]... [AUDIENCE:FIRST_NAME], це було?"
+
+#: text_greet_reply_unusual_first.txt:5
+msgid "[AUDIENCE:FIRST_NAME].  Does that mean something?"
+msgstr "[AUDIENCE:FIRST_NAME]. Це що-небудь має означати?"
+
+#: text_greet_reply_unusual_first.txt:6
+msgid "[AUDIENCE:FIRST_NAME].  I can't say I've heard that before."
+msgstr "[AUDIENCE:FIRST_NAME]. Не можу сказати чи чув це раніше."
+
+#: text_greet_worship.txt:2
+msgid "Praise be to [SPEAKER:HF_LINK:DEITY:TRANS_NAME]."
+msgstr "Прославимо ж [SPEAKER:HF_LINK:DEITY:TRANS_NAME]."
+
+#: text_greet_worship.txt:3
+msgid "Praise [SPEAKER:HF_LINK:DEITY:RANDOM_DEF_SPHERE]."
+msgstr "Хвала [SPEAKER:HF_LINK:DEITY:RANDOM_DEF_SPHERE]."
+
+#: text_greet_worship.txt:4
+msgid "Life is, in a word, [SPEAKER:HF_LINK:DEITY:RANDOM_DEF_SPHERE]."
+msgstr "Життя, одним словом, [SPEAKER:HF_LINK:DEITY:RANDOM_DEF_SPHERE]."
+
+#: text_greet_worship.txt:5
+msgid "This servant of [SPEAKER:HF_LINK:DEITY:TRANS_NAME] greets you."
+msgstr "Цей слуга [SPEAKER:HF_LINK:DEITY:TRANS_NAME] вітає Вас."
+
+#: text_greet_worship.txt:6
+msgid "This servant of [SPEAKER:HF_LINK:DEITY:RANDOM_DEF_SPHERE] greets you."
+msgstr "Цей слуга [SPEAKER:HF_LINK:DEITY:RANDOM_DEF_SPHERE] вітає Вас."
+
+#: text_guard_profession.txt:2
+msgid "I am a guard."
+msgstr "Я вартовий."
+
+#: text_guard_warning.txt:2
+msgid "Don't start any trouble."
+msgstr "Не створюйте ніяких проблем"
+
+#: text_hist_fig_slayer.txt:2
+msgid ""
+"It is I that felled [CONTEXT:HIST_FIG:TRANS_NAME] the "
+"[CONTEXT:HIST_FIG:RACE]."
+msgstr ""
+"Це я, той що повалив [CONTEXT:HIST_FIG:TRANS_NAME] на ім'я "
+"[CONTEXT:HIST_FIG:RACE]"
+
+#: text_hunting_profession.txt:2
+msgid "I hunt great beasts in [CONTEXT:PLACE:TRANS_NAME]."
+msgstr "Я полював на дужих звірів у [CONTEXT:PLACE:TRANS_NAME]."
+
+#: text_hunting_profession_year.txt:2
+msgid ""
+"I have hunted great beasts in [CONTEXT:PLACE:TRANS_NAME] for "
+"[CONTEXT:NUMBER] of my years."
+msgstr ""
+"Я полював на страшенних чудовиськ у [CONTEXT:PLACE:TRANS_NAME] цілих "
+"[CONTEXT:NUMBER] років свого життя."
+
+#: text_justification_antithetical.txt:2
+msgid "can be thought of as the antithesis of"
+msgstr "можна розглядати як протиставлення до"
+
+#: text_justification_experience.txt:2
+msgid "can allow one to experience"
+msgstr "може дозволити до випробування"
+
+#: text_justification_proximity.txt:2
+msgid "can bring one near to"
+msgstr "може принести один поблизу"
+
+#: text_justification_reminder.txt:2
+msgid "can remind one of"
+msgstr "може нагадати один з"
+
+#: text_justification_representation.txt:2
+msgid "can be thought of as a representation of"
+msgstr "може бути розглянуте як ідея"
+
+#: text_mercenary_profession.txt:2
+msgid ""
+"I seek fortune and glory by offering my skill at arms in "
+"[CONTEXT:PLACE:TRANS_NAME]."
+msgstr ""
+"Я шукаю вдачу та славу випробовуючи свої таланти у "
+"[CONTEXT:PLACE:TRANS_NAME]."
+
+#: text_mercenary_profession_year.txt:2
+msgid ""
+"I have sought fortune and glory by offering my skill at arms in "
+"[CONTEXT:PLACE:TRANS_NAME] for [CONTEXT:NUMBER] of my years."
+msgstr ""
+"Я шукаю вдачу та славу випробовуючи свої таланти у "
+"[CONTEXT:PLACE:TRANS_NAME] вже [CONTEXT:NUMBER] років."
+
+#: text_no_family.txt:2
+msgid "I have no family to speak of"
+msgstr "У мене немає сім'ї щоби говорити про"
+
+#: text_past_hunting_profession.txt:2
+msgid "In the past, I hunted great beasts."
+msgstr "У минулому я полював на страшних звірів."
+
+#: text_past_hunting_profession.txt:3
+msgid "I was a hunter of mighty beasts for [CONTEXT:NUMBER] of my years."
+msgstr "Я був мисливцем на диких звірів цілих [CONTEXT:NUMBER] років. "
+
+#: text_past_mercenary_profession.txt:2
+msgid "In the past, I sought fortune and glory by offering my skill at arms."
+msgstr "В минулому я шукав щастя та слави випробовуючи свої таланти."
+
+#: text_past_mercenary_profession.txt:3
+msgid ""
+"I sought fortune and glory by offering my skill at arms for [CONTEXT:NUMBER]"
+" of my years."
+msgstr ""
+"Я шукав вдачі та слави випробовуючи свої вміння всі [CONTEXT:NUMBER] років "
+"свого життя."
+
+#: text_past_profession_no_year.txt:2
+msgid "I was once a [CONTEXT:UNIT_NAME]."
+msgstr "Одного разу я був [CONTEXT:UNIT_NAME]."
+
+#: text_past_profession_year.txt:2
+msgid ""
+"I was a [CONTEXT:UNIT_NAME] for [CONTEXT:NUMBER] of the years of my life."
+msgstr "Я був [CONTEXT:UNIT_NAME] всі [CONTEXT:NUMBER] років свого життя."
+
+#: text_past_snatcher_profession.txt:2
+msgid "Once it was my calling to rescue lost children."
+msgstr "Колись то було моє покликання, рятувати загублених дітей."
+
+#: text_past_snatcher_profession.txt:3
+msgid "For [CONTEXT:NUMBER] of my years, I rescued lost children."
+msgstr ""
+"Цілих [CONTEXT:NUMBER] років свого життя, я відшукував загублених дітей."
+
+#: text_past_thief_profession.txt:2
+msgid "I once sought great treasures."
+msgstr "Якось я шукав великі скарби. "
+
+#: text_past_thief_profession.txt:3
+msgid "I sought great treasures for [CONTEXT:NUMBER] of my years."
+msgstr "Я шукав великі скарби [CONTEXT:NUMBER] років свого життя."
+
+#: text_past_wandering_profession.txt:2
+msgid "I once wandered the wilds."
+msgstr "Якось я бродив дикими місцями."
+
+#: text_past_wandering_profession.txt:3
+msgid "For [CONTEXT:NUMBER] of my years, I wandered the wilds."
+msgstr "Протягом [CONTEXT:NUMBER] років я бродив по диким хащам."
+
+#: text_positive.txt:2
+msgid "fantastic!"
+msgstr "неймовірно!"
+
+#: text_positive.txt:3
+msgid "wonderful!"
+msgstr "чудово!"
+
+#: text_positive.txt:4
+msgid "I'm thrilled to hear that."
+msgstr "Це хвилюючи новини для мене."
+
+#: text_positive.txt:5
+msgid "I'm pleased to hear that."
+msgstr "Я радий це чути."
+
+#: text_positive.txt:6
+msgid "that is good news."
+msgstr "це добрі новини."
+
+#: text_positive.txt:7
+msgid "that is wonderful news."
+msgstr "це чудові новини."
+
+#: text_positive.txt:8
+msgid "this is encouraging."
+msgstr "це дає надію."
+
+#: text_positive.txt:9
+msgid "very good."
+msgstr "дуже добре."
+
+#: text_positive.txt:10
+msgid "I'm proud of you."
+msgstr "Я пишаюсь тобою."
+
+#: text_positive.txt:11
+msgid "that is a good turn of affairs."
+msgstr "це добрий розвиток подій."
+
+#: text_same_site_ab_specific_hf_seeker.txt:2
+msgid ""
+"seek out [CONTEXT:HIST_FIG:TRANS_NAME] here in [CONTEXT:SITE:TRANS_NAME] at "
+"[CONTEXT:ABSTRACT_BUILDING:TRANS_NAME]"
+msgstr ""
+"шукати [CONTEXT:HIST_FIG:TRANS_NAME] поблизу [CONTEXT:SITE:TRANS_NAME] біля "
+"[CONTEXT:ABSTRACT_BUILDING:TRANS_NAME]"
+
+#: text_same_site_specific_hf_seeker.txt:2
+msgid ""
+"seek out [CONTEXT:HIST_FIG:TRANS_NAME] here in [CONTEXT:SITE:TRANS_NAME]"
+msgstr ""
+"шукати [CONTEXT:HIST_FIG:TRANS_NAME] поблизу в [CONTEXT:SITE:TRANS_NAME]"
+
+#: text_secret_death.txt:2
+msgid "Annihilation"
+msgstr "Анігіляція"
+
+#: text_secret_death.txt:3
+msgid "Bereavement"
+msgstr "Тяжка втрата"
+
+#: text_secret_death.txt:4
+msgid "Death"
+msgstr "Смерть"
+
+#: text_secret_death.txt:5
+msgid "Demise"
+msgstr "Загибель"
+
+#: text_secret_death.txt:6
+msgid "Departure"
+msgstr "Відхід"
+
+#: text_secret_death.txt:7
+msgid "Doom"
+msgstr "Загибель"
+
+#: text_secret_death.txt:8
+msgid "Dying"
+msgstr "Умирання"
+
+#: text_secret_death.txt:9
+msgid "Eternal Rest"
+msgstr "Вічній покій"
+
+#: text_secret_death.txt:10
+msgid "Expiration"
+msgstr "Закінчення"
+
+#: text_secret_death.txt:11
+msgid "Extinction"
+msgstr "Вимирання"
+
+#: text_secret_death.txt:12
+msgid "Mortality"
+msgstr "Смертність"
+
+#: text_secret_death.txt:13
+msgid "Immortality"
+msgstr "Безсмертя"
+
+#: text_secret_death.txt:14
+msgid "Loss"
+msgstr "Втрата"
+
+#: text_secret_death.txt:15
+msgid "Oblivion"
+msgstr "Забуття"
+
+#: text_secret_death.txt:16
+msgid "Parting"
+msgstr "Розставання"
+
+#: text_secret_death.txt:17
+msgid "Ruin"
+msgstr "Руїни"
+
+#: text_secret_death.txt:18
+msgid "Ruination"
+msgstr "Крах"
+
+#: text_secret_death.txt:19
+msgid "Sleep"
+msgstr "Сон"
+
+#: text_secret_death.txt:20
+msgid "the Afterlife"
+msgstr "Потойбічне життя"
+
+#: text_secret_death.txt:21
+msgid "the End"
+msgstr "Кінець"
+
+#: text_secret_death.txt:22
+msgid "the Grave"
+msgstr "Могила"
+
+#: text_site_specific_hf_seeker.txt:2
+msgid ""
+"seek out [CONTEXT:HIST_FIG:TRANS_NAME] over in [CONTEXT:SITE:TRANS_NAME]"
+msgstr ""
+"шукати [CONTEXT:HIST_FIG:TRANS_NAME] більше в [CONTEXT:SITE:TRANS_NAME]"
+
+#: text_slayer.txt:2
+msgid "bane"
+msgstr "отрута"
+
+#: text_slayer.txt:3
+msgid "conqueror"
+msgstr "завойовник"
+
+#: text_slayer.txt:4
+msgid "death"
+msgstr "смерть"
+
+#: text_slayer.txt:5
+msgid "foe"
+msgstr "недруг"
+
+#: text_slayer.txt:6
+msgid "killer"
+msgstr "забивач"
+
+#: text_slayer.txt:7
+msgid "lord"
+msgstr "лорд"
+
+#: text_slayer.txt:8
+msgid "master"
+msgstr "майстер"
+
+#: text_slayer.txt:9
+msgid "nemesis"
+msgstr "відплата"
+
+#: text_slayer.txt:10
+msgid "slayer"
+msgstr "вбивця"
+
+#: text_slayer.txt:11
+msgid "vanquisher"
+msgstr "переможець"
+
+#: text_slayer.txt:12
+msgid "murderer"
+msgstr "душогуб"
+
+#: text_slayer.txt:13
+msgid "crusher"
+msgstr "дробарка"
+
+#: text_slayer.txt:14
+msgid "extinguisher"
+msgstr "вогнегасник"
+
+#: text_slayer.txt:15
+msgid "strangler"
+msgstr "душитель"
+
+#: text_snatcher_profession.txt:2
+msgid ""
+"I rescue lost children and bring them back to [CONTEXT:PLACE:TRANS_NAME]."
+msgstr ""
+"Я відшукував втрачених дітей та повертав їх до [CONTEXT:PLACE:TRANS_NAME]."
+
+#: text_snatcher_profession_year.txt:2
+msgid ""
+"For [CONTEXT:NUMBER] of my years, I have been rescuing lost children and "
+"bringing them back to [CONTEXT:PLACE:TRANS_NAME]."
+msgstr ""
+"Всі [CONTEXT:NUMBER] років свого життя, я відшукував загублених дітей та "
+"повертав їх до [CONTEXT:PLACE:TRANS_NAME]."
+
+#: text_soldier_profession.txt:2
+msgid "I am a soldier."
+msgstr "Я є солдат."
+
+#: text_task_recommendation.txt:2
+msgid "[CONTEXT:ANY:TRANS_NAME] might have a task for you"
+msgstr "[CONTEXT:ANY:TRANS_NAME] можливо має завдання для вас"
+
+#: text_temple_already_member.txt:2
+msgid "simply"
+msgstr "легко"
+
+#: text_temple_already_member.txt:3
+msgid "it is enough to"
+msgstr "цього досить"
+
+#: text_temple_already_member.txt:4
+msgid "your task is simple;"
+msgstr "ваше завдання просте;"
+
+#: text_temple_already_member.txt:5
+msgid "just"
+msgstr "просто"
+
+#: text_temple_already_member.txt:6
+msgid "all you need is to"
+msgstr "все що ти потребуєш, то є"
+
+#: text_temple_become_member.txt:2
+msgid ""
+"Welcome to [CONTEXT:ENTITY:TRANS_NAME].  Praise be to "
+"[CONTEXT:ENTITY:WORSHIP_HF:TRANS_NAME]!"
+msgstr ""
+"Ласкаво просимо до [CONTEXT:ENTITY:TRANS_NAME].  Хвала "
+"[CONTEXT:ENTITY:WORSHIP_HF:TRANS_NAME]!"
+
+#: text_temple_become_member.txt:3
+msgid ""
+"Welcome to [CONTEXT:ENTITY:TRANS_NAME].  Praise be to "
+"[CONTEXT:ENTITY:WORSHIP_HF:RANDOM_DEF_SPHERE]!"
+msgstr ""
+"Ласкаво просимо до [CONTEXT:ENTITY:TRANS_NAME].  Хвала "
+"[CONTEXT:ENTITY:WORSHIP_HF:RANDOM_DEF_SPHERE]!"
+
+#: text_temple_become_member.txt:4
+msgid ""
+"As a member of [CONTEXT:ENTITY:TRANS_NAME], you can now seek the higher "
+"mysteries of [CONTEXT:ENTITY:WORSHIP_HF:TRANS_NAME]."
+msgstr ""
+"Як член [CONTEXT:ENTITY:TRANS_NAME], ви можете пізнати більш високі матерії "
+"з [CONTEXT:ENTITY:WORSHIP_HF:TRANS_NAME]."
+
+#: text_temple_become_member.txt:5
+msgid ""
+"As a member of [CONTEXT:ENTITY:TRANS_NAME], you can now seek the higher "
+"mysteries of [CONTEXT:ENTITY:WORSHIP_HF:RANDOM_DEF_SPHERE]."
+msgstr ""
+"Як член [CONTEXT:ENTITY:TRANS_NAME], ви можете пізнати більш високі матерії "
+"з [CONTEXT:ENTITY:WORSHIP_HF:RANDOM_DEF_SPHERE]."
+
+#: text_thief_profession.txt:2
+msgid "I seek treasures and bring them back to [CONTEXT:PLACE:TRANS_NAME]."
+msgstr "Я шукаю скарби та повертаю їх до [CONTEXT:PLACE:TRANS_NAME]."
+
+#: text_thief_profession_year.txt:2
+msgid ""
+"I seek treasures and bring them back to [CONTEXT:PLACE:TRANS_NAME] and have "
+"done so for [CONTEXT:NUMBER] of the years of my life."
+msgstr ""
+"Я шукаю скарби та повертаю їх до [CONTEXT:PLACE:TRANS_NAME] і роблю те цілих"
+" [CONTEXT:NUMBER] років свого життя."
+
+#: text_threat.txt:2
+msgid "Prepare to die!"
+msgstr "Готуйся до смерті!"
+
+#: text_unknown_hf_seeker.txt:2
+msgid ""
+"seek out [CONTEXT:HIST_FIG:TRANS_NAME], wherever [CONTEXT:HIST_FIG:PRO_SUB] "
+"might be"
+msgstr ""
+"Розшукувати [CONTEXT:HIST_FIG:TRANS_NAME], де б він "
+"[CONTEXT:HIST_FIG:PRO_SUB] не був"
+
+#: text_wandering_profession.txt:2
+msgid "I wander [CONTEXT:PLACE:TRANS_NAME]."
+msgstr "Я блукаю по [CONTEXT:PLACE:TRANS_NAME]."
+
+#: text_wandering_profession_year.txt:2
+msgid ""
+"I have wandered [CONTEXT:PLACE:TRANS_NAME] for [CONTEXT:NUMBER] of my years."
+msgstr ""
+"Я тинявся [CONTEXT:PLACE:TRANS_NAME] цілих [CONTEXT:NUMBER] років свого "
+"життя."

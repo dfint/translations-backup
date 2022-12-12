@@ -16,21 +16,21 @@
 # Sonnet Songbird, 2022
 # 이강우, 2022
 # 니냐니뇨, 2022
-# MatejCha, 2022
 # Xerath, 2022
 # Ah Lon Sin, 2022
 # 정민 <crispynap@gmail.com>, 2022
-# ENHL <syg1031@naver.com>, 2022
-# 윤준영, 2022
 # 학찬 김, 2022
 # draco evil, 2022
 # hy gx, 2022
 # 이찬기, 2022
 # 김덤불, 2022
+# ENHL <syg1031@naver.com>, 2022
+# 윤준영, 2022
+# MatejCha, 2022
 # 
 msgid ""
 msgstr ""
-"Last-Translator: 김덤불, 2022\n"
+"Last-Translator: MatejCha, 2022\n"
 "Language-Team: Korean (https://www.transifex.com/dwarf-fortress-translation/teams/22396/ko/)\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -8340,7 +8340,7 @@ msgstr "알림 아이콘 위로 마우스를 가져가면 정보를 볼 수 있�
 msgid ""
 "[C:6:0:1]Crafts[C:7:0:0] are an easy way to make a lot of trade goods "
 "quickly. "
-msgstr ""
+msgstr "[C:6:0:1]제작[C:7:0:0]은 무역상품을 많이 만들 수 있는 쉬운 길입니다."
 
 #: stringdump_steam_2022_12_06.txt:2122
 msgid "You need something of value to trade. "
@@ -8351,6 +8351,8 @@ msgid ""
 "To trade with the autumn caravan, you must build a [C:6:0:0]Trade "
 "Depot[C:7:0:0] from the [C:5:0:1]Build[C:7:0:0] menu."
 msgstr ""
+"가을 캐러밴과 거래하고 싶으시다면, 먼저 [C:6:0:0]거래 창고[C:7:0:0]를 [C:5:0:1]건축[C:7:0:0]메뉴에서 "
+"만들어야 합니다."
 
 #: stringdump_steam_2022_12_06.txt:2124
 msgid "You may need supplies before the coming of winter. "
@@ -8412,13 +8414,14 @@ msgstr "지금 클릭하면 이 튜토리얼이 종료됩니다."
 msgid ""
 "The [C:5:0:1]Help[C:7:0:0] button at the top of the screen contains more "
 "guides. "
-msgstr ""
+msgstr "화면 상단의 [C:5:0:1]도움말[C:7:0:0] 버튼에는 더 많은 가이드가 포함되어 있습니다."
 
 #: stringdump_steam_2022_12_06.txt:2137
 msgid ""
 "Later you may try the [C:5:0:1]Burrows[C:7:0:0] menu to create a safe place "
 "for your civilians to hide when real trouble comes."
 msgstr ""
+"[C:5:0:1]피난[C:7:0:0] 메뉴를 사용해서 문제가 생겼을때 시민들이 숨을 수 있는 안전한 장소를 만들 수 있습니다."
 
 #: stringdump_steam_2022_12_06.txt:2138
 msgid ""
@@ -43901,7 +43904,7 @@ msgstr "거북"
 
 #: stringdump_steam_2022_12_06.txt:13524
 msgid "turtle"
-msgstr "거북"
+msgstr "바다거북"
 
 #: stringdump_steam_2022_12_06.txt:13525
 msgid "hadrosaurid"
@@ -43925,7 +43928,7 @@ msgstr "오리"
 
 #: stringdump_steam_2022_12_06.txt:13530
 msgid "ankylosaurid"
-msgstr "안킬로사우루스"
+msgstr "안킬로사우리드"
 
 #: stringdump_steam_2022_12_06.txt:13531
 msgid "ceratopsid"
@@ -43933,7 +43936,7 @@ msgstr "케라톱시드"
 
 #: stringdump_steam_2022_12_06.txt:13532
 msgid "stegosaurid"
-msgstr "스테고사우루이드"
+msgstr "스테고사우리드"
 
 #: stringdump_steam_2022_12_06.txt:13533
 msgid "rhinoceros beetle"
@@ -44077,7 +44080,7 @@ msgstr "칼새"
 
 #: stringdump_steam_2022_12_06.txt:13568
 msgid "nightjar"
-msgstr "쑥독새"
+msgstr "쏙독새"
 
 #: stringdump_steam_2022_12_06.txt:13569
 msgid "woodpecker"
@@ -46095,7 +46098,7 @@ msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:14436
 msgid "** Loading Fortress **"
-msgstr "** 요새 로딩 중 **"
+msgstr "** 요새 불러오는 중 **"
 
 #: stringdump_steam_2022_12_06.txt:14437
 msgid "Vanilla Buildings Graphics"
@@ -46103,11 +46106,11 @@ msgstr "바닐라 건물 그래픽"
 
 #: stringdump_steam_2022_12_06.txt:14441
 msgid "Loading object files...  "
-msgstr "개체 파일 로드 중..."
+msgstr "개체 파일 불러오는 중..."
 
 #: stringdump_steam_2022_12_06.txt:14442
 msgid "Loading world to start new game"
-msgstr "새 게임을 시작하기 위해 세계를 로드하는 중"
+msgstr "새 게임을 시작하기 위해 세계를 불러오는 중"
 
 #: stringdump_steam_2022_12_06.txt:14443
 msgid "Sorting material templates..."
@@ -46215,7 +46218,7 @@ msgstr "바닐라 식물 그래픽"
 
 #: stringdump_steam_2022_12_06.txt:14497
 msgid "Loading vehicles..."
-msgstr "차량 로드 중..."
+msgstr "차량 불러오는 중..."
 
 #: stringdump_steam_2022_12_06.txt:14498
 msgid "Loading crimes..."
@@ -46227,11 +46230,11 @@ msgstr "육군 컨트롤러 로드 중..."
 
 #: stringdump_steam_2022_12_06.txt:14500
 msgid "Loading armies..."
-msgstr "군대 로드 중..."
+msgstr "군대 불러오는 중..."
 
 #: stringdump_steam_2022_12_06.txt:14501
 msgid "Loading written content..."
-msgstr "작성된 콘텐츠 로드 중..."
+msgstr "작성된 콘텐츠 불러오는 중..."
 
 #: stringdump_steam_2022_12_06.txt:14502
 msgid "Loading interactions..."
@@ -48075,7 +48078,7 @@ msgstr "유약을 바르는"
 
 #: stringdump_steam_2022_12_06.txt:15329
 msgid "calcite/limestone/chalk/marble "
-msgstr "방해석/석회석/초크/대리석"
+msgstr "방해석/석회석/백악/대리석"
 
 #: stringdump_steam_2022_12_06.txt:15330
 msgid "folded sheet protector"
@@ -60523,7 +60526,7 @@ msgstr "덤프 항목"
 
 #: stringdump_steam_2022_12_06.txt:19860
 msgid "Load catapult"
-msgstr "로드 투석기"
+msgstr "투석기 장전"
 
 #: stringdump_steam_2022_12_06.txt:19861
 msgid "Clean trap"
@@ -60531,7 +60534,7 @@ msgstr "클린트랩"
 
 #: stringdump_steam_2022_12_06.txt:19862
 msgid "Fire catapult"
-msgstr "화재 투석기"
+msgstr "투석기 발사"
 
 #: stringdump_steam_2022_12_06.txt:19863
 msgid "Load ballista"

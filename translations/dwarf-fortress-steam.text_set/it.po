@@ -1,0 +1,1528 @@
+# 
+# Translators:
+# insolor, 2022
+# 
+msgid ""
+msgstr ""
+"Last-Translator: insolor, 2022\n"
+"Language-Team: Italian (https://www.transifex.com/dwarf-fortress-translation/teams/22396/it/)\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: it\n"
+"Plural-Forms: nplurals=3; plural=n == 1 ? 0 : n != 0 && n % 1000000 == 0 ? 1 : 2;\n"
+
+#: text_dwarf.txt:2
+msgid "who was too short to live"
+msgstr "che era troppo basso per vivere"
+
+#: text_dwarf.txt:3
+msgid "who tunneled away from me like a frightened mole"
+msgstr "che si è scavato un buco lontano da me come una talpa spaventata"
+
+#: text_dwarf.txt:4
+msgid "who sucked plump helmets like a purring maggot"
+msgstr "ha succhiato plump helmet come una larva felice"
+
+#: text_dwarf.txt:5
+msgid "whose hammer shattered on the anvil of my power"
+msgstr "il cui martello si frantumò contro l'incudine del mio potere"
+
+#: text_dwarf.txt:6
+msgid "who forged [PRO_POS] own doom by challenging me"
+msgstr "che forgiò la propria condanna sfidandomi"
+
+#: text_dwarf.txt:7
+msgid "who was returned to the rock and muck from which it was spawned"
+msgstr "che fù rispedito nella roccia e fango da cui era nato"
+
+#: text_dwarf.txt:8
+msgid ""
+"whose tall tales of bravery were all the more embarrassing because of "
+"[PRO_POS] height"
+msgstr ""
+"le cui boriose storie di coraggio erano tanto più imbarazzanti a causa dei "
+"suoi [PRO_POS] di altezza"
+
+#: text_elf.txt:2
+msgid "who was felled like a slender sapling"
+msgstr "che fu abbattuto come in esile alberello"
+
+#: text_elf.txt:3
+msgid "whom I sent back to the home-tree as fertilizer"
+msgstr "che rispedii all'albero-casa come fertilizzante"
+
+#: text_elf.txt:4
+msgid "whose fragile bones shattered before the power of my contempt"
+msgstr "le cui fragili ossa si frantumarono sotto il potere del mio disprezzo"
+
+#: text_elf.txt:5
+msgid "who came down from the home-tree and was devoured"
+msgstr "che scese dall'albero-casa e fu divorato"
+
+#: text_elf.txt:6
+msgid ""
+"who should have stayed in the trees when the real elves came down to fight"
+msgstr ""
+"che sarebbe dovuto rimanere fra gli alberi quando i veri elfi scesero a "
+"combattere"
+
+#: text_lair_hunter_minotaur.txt:2
+msgid "I want your bones for my bone mill!"
+msgstr "Voglio le tue ossa per il mio polverizza ossa"
+
+#: text_lair_hunter_minotaur.txt:3
+msgid "I'll grind you into porridge!"
+msgstr "Ti ridurrò come un porridge!"
+
+#: text_lair_hunter_minotaur.txt:4
+msgid "I'll eat you whole!"
+msgstr "Ti mangerò!"
+
+#: text_ab_specific_hf_seeker.txt:2
+msgid ""
+"seek out [CONTEXT:HIST_FIG:TRANS_NAME] at "
+"[CONTEXT:ABSTRACT_BUILDING:TRANS_NAME] over in [CONTEXT:SITE:TRANS_NAME]"
+msgstr ""
+"cerca [CONTEXT:HIST_FIG:TRANS_NAME] in "
+"[CONTEXT:ABSTRACT_BUILDING:TRANS_NAME] su [CONTEXT:SITE:TRANS_NAME]"
+
+#: text_animal_slayer.txt:2
+msgid ""
+"I have taken down [CONTEXT:NUMBER] [CONTEXT:RACE:NUMBERED_NAME] while "
+"stalking [CONTEXT:PLACE:TRANS_NAME]."
+msgstr ""
+"Ho atterrato [CONTEXT:NUMBER] [CONTEXT:RACE:NUMBERED_NAME] mentre inseguivo "
+"[CONTEXT:PLACE:TRANS_NAME]."
+
+#: text_arch_info_justification.txt:2
+msgid ""
+"It is said that the [CONTEXT:ARCH_ELEMENT] of "
+"[CONTEXT:ABSTRACT_BUILDING:TRANS_NAME] [CONTEXT:JUSTIFICATION] "
+"[CONTEXT:DEF_SPHERE] for the glory of [CONTEXT:HIST_FIG:TRANS_NAME]."
+msgstr ""
+"Si dice che [CONTEXT: ARCH_ELEMENT] di [CONTEXT: ABSTRACT_BUILDING: "
+"TRANS_NAME] [CONTESTO: GIUSTIFICAZIONE] [CONTESTO: DEF_SPHERE] per la gloria"
+" di [CONTEXT: HIST_FIG: TRANS_NAME]."
+
+#: text_book_art.txt2, text_book_instruction.txt:2
+msgid "[NAME]"
+msgstr ""
+
+#: text_book_art.txt:3
+msgid "[PHRASE]"
+msgstr ""
+
+#: text_book_art.txt:4
+msgid "[ADJ] [NO_ART_NAME]"
+msgstr ""
+
+#: text_book_art.txt:5
+msgid "The [ADJ] [NO_ART_NAME]"
+msgstr "Il [ADJ] [NO_ART_NAME]"
+
+#: text_book_art.txt:6
+msgid "[NAME] [ADJ]"
+msgstr ""
+
+#: text_book_art.txt:7
+msgid "[NAME] and the [NOUN]"
+msgstr "[NAME] e [NOUN]"
+
+#: text_book_art.txt:8
+msgid "[NAME] and the [ADJ] [NOUN]"
+msgstr "[NAME] e [ADJ] [NOUN]"
+
+#: text_book_art.txt:9
+msgid "The [NOUN] and [NAME]"
+msgstr "Il [NOUN] e [NAME]"
+
+#: text_book_art.txt:10
+msgid "The [ADJ] [NOUN] and [NAME]"
+msgstr "Il [ADJ] [NOUN] e [NAME]"
+
+#: text_book_art.txt:11
+msgid "[NAME]: [PHRASE]"
+msgstr ""
+
+#: text_book_art.txt:12
+msgid "It Must Have Been [NAME]"
+msgstr "Deve essere stato [NAME]"
+
+#: text_book_art.txt:13
+msgid "My Friend [NAME]"
+msgstr "Il mio amico [NAME]"
+
+#: text_book_art.txt:14
+msgid "The Birth of [NAME]"
+msgstr "La Nascita di [NAME]"
+
+#: text_book_art.txt:15
+msgid "The Sun Sets on [NAME]"
+msgstr "Il Sole si alzò su [NAME]"
+
+#: text_book_art.txt:16
+msgid "We See [NAME]"
+msgstr "Noi vediamo [NAME]"
+
+#: text_book_art.txt:17
+msgid "[NAME] Ever Onward"
+msgstr "[NAME] Sempre avanti"
+
+#: text_book_art.txt:18
+msgid "[NAME] and Nothing More"
+msgstr "[NAME] e basta"
+
+#: text_book_art.txt:19
+msgid "And [ANY_PRONOUN] Sang '[NAME]!'"
+msgstr "E [ANY_PRONOUN] Cantò nel nome di '[NAME]!'"
+
+#: text_book_instruction.txt:3
+msgid "A Course on [NAME]"
+msgstr "Lezioni di [Name]"
+
+#: text_book_instruction.txt:4
+msgid "A Humble Offering to [NAME]"
+msgstr "Un'umile Offerta a [NAME]"
+
+#: text_book_instruction.txt:5
+msgid "A Meditation on [NAME]"
+msgstr "Una Meditazione su [NAME]"
+
+#: text_book_instruction.txt:6
+msgid "A Record of [NAME]"
+msgstr "Una Nota di [NAME]"
+
+#: text_book_instruction.txt:7
+msgid "A Treatise on [NAME]"
+msgstr "Un Trattato su [NAME]"
+
+#: text_book_instruction.txt:8
+msgid "A World of [NAME]"
+msgstr "Un Mondo di [NAME]"
+
+#: text_book_instruction.txt:9
+msgid "About [NAME]"
+msgstr "Su [NAME]"
+
+#: text_book_instruction.txt:10
+msgid "After [NAME]"
+msgstr "Dopo [NAME]"
+
+#: text_book_instruction.txt:11
+msgid "Against [NAME]"
+msgstr "Contro [NAME]"
+
+#: text_book_instruction.txt:12
+msgid "An Exploration of [NAME]"
+msgstr "Un'Esplorazione di [NAME]"
+
+#: text_book_instruction.txt:13
+msgid "An Introduction to [NAME]"
+msgstr "Un Introduzione a [NAME]"
+
+#: text_book_instruction.txt:14
+msgid "An Offering to [NAME]"
+msgstr "Un'offerta a [NAME]"
+
+#: text_book_instruction.txt:15
+msgid "At One With [NAME]"
+msgstr "Ad Uno Con [NAME]"
+
+#: text_book_instruction.txt:16
+msgid "Before [NAME]"
+msgstr "Prima [NAME]"
+
+#: text_book_instruction.txt:17
+msgid "Better [NO_ART_NAME]"
+msgstr "Meglio [NO_ART_NAME]"
+
+#: text_book_instruction.txt:18
+msgid "Beyond [NAME]"
+msgstr "Oltre [NAME]"
+
+#: text_book_instruction.txt:19
+msgid "Book of [NAME]"
+msgstr "Libro di [NAME]"
+
+#: text_book_instruction.txt:20
+msgid "Captivated by [NAME]"
+msgstr "Affascinato da [NAME]"
+
+#: text_book_instruction.txt:21
+msgid "Choose [NAME]"
+msgstr "Scegli [NAME]"
+
+#: text_book_instruction.txt:22
+msgid "Classic [NO_ART_NAME]"
+msgstr "Classico [NO_ART_NAME]"
+
+#: text_book_instruction.txt:23
+msgid "Commentary on [NAME]"
+msgstr "Commento su [NAME]"
+
+#: text_book_instruction.txt:24
+msgid "Common Sense [NO_ART_NAME]"
+msgstr "Buon Senso [NO_ART_NAME]"
+
+#: text_book_instruction.txt:25
+msgid "Concerning [NAME]"
+msgstr "Riguardante [NAME]"
+
+#: text_book_instruction.txt:26
+msgid "Discourse on [NAME]"
+msgstr "Discorso su [NAME]"
+
+#: text_book_instruction.txt:27
+msgid "Discovering [NAME]"
+msgstr "Alla scoperta di [NAME]"
+
+#: text_book_instruction.txt:28
+msgid "Doubts About [NAME]"
+msgstr "Dubbi su [NAME]"
+
+#: text_book_instruction.txt:29
+msgid "Dreams of [NAME]"
+msgstr "Sogna di [NAME]"
+
+#: text_book_instruction.txt:30
+msgid "Elements of [NAME]"
+msgstr "Elementi di [NAME]"
+
+#: text_book_instruction.txt:31
+msgid "Errors In [NAME]"
+msgstr "Errori in [NAME]"
+
+#: text_book_instruction.txt:32
+msgid "Exploring [NAME]"
+msgstr "Esplorando [NAME]"
+
+#: text_book_instruction.txt:33
+msgid "Explorations of [NAME]"
+msgstr "Esplorazione di [NAME]"
+
+#: text_book_instruction.txt:34
+msgid "Factual [NO_ART_NAME]"
+msgstr "A riguardo di [NO_ART_NAME]"
+
+#: text_book_instruction.txt:35
+msgid "For the Love of [NAME]"
+msgstr "Per Amor di [NAME]"
+
+#: text_book_instruction.txt:36
+msgid "Foundations of [NAME]"
+msgstr "Fondamenti di [NAME]"
+
+#: text_book_instruction.txt:37
+msgid "Give Me [NAME]"
+msgstr "Dammi [NAME]"
+
+#: text_book_instruction.txt:38
+msgid "Great [NO_ART_NAME]"
+msgstr "Grande [NO_ART_NAME]"
+
+#: text_book_instruction.txt:39
+msgid "In Pursuit of [NAME]"
+msgstr "All'Inseguimento di [NAME]"
+
+#: text_book_instruction.txt:40
+msgid "Inquiries on [NAME]"
+msgstr "Richieste su [NAME]"
+
+#: text_book_instruction.txt:41
+msgid "Interpretations of [NAME]"
+msgstr "Interpretazioni di [NAME]"
+
+#: text_book_instruction.txt:42
+msgid "Introduction to [NAME]"
+msgstr "Introduzione a [NAME]"
+
+#: text_book_instruction.txt:43
+msgid "It All Begins With [NAME]"
+msgstr "Tutto inizia con [NAME]"
+
+#: text_book_instruction.txt:44
+msgid "It Is [NAME]"
+msgstr "E' [NAME]"
+
+#: text_book_instruction.txt:45
+msgid "Journey to [NAME]"
+msgstr "Viaggio a [NAME]"
+
+#: text_book_instruction.txt:46
+msgid "Life With [NAME]"
+msgstr "Vita Con [NAME]"
+
+#: text_book_instruction.txt:47
+msgid "Master of [NAME]"
+msgstr "Maestro di [NAME]"
+
+#: text_book_instruction.txt:48
+msgid "Mastering [NAME]"
+msgstr "Padroneggiare [NAME]"
+
+#: text_book_instruction.txt:49
+msgid "Meditations on [NAME]"
+msgstr "Meditazioni su [NAME]"
+
+#: text_book_instruction.txt:50
+msgid "Misconceptions About [NAME]"
+msgstr "Idee sbagliate Su [NAME]"
+
+#: text_book_instruction.txt:51
+msgid "More [NO_ART_NAME]"
+msgstr "Più [NO_ART_NAME]"
+
+#: text_book_instruction.txt:52
+msgid "Musings on [NAME]"
+msgstr "Riflessioni su [NAME]"
+
+#: text_book_instruction.txt:53
+msgid "My Thoughts on [NAME]"
+msgstr "I miei pensieri su [NAME]"
+
+#: text_book_instruction.txt:54
+msgid "Mysteries of [NAME]"
+msgstr "Misteri di [NAME]"
+
+#: text_book_instruction.txt:55
+msgid "Never Underestimate [NAME]"
+msgstr "Mai Sottovalutare [NAME]"
+
+#: text_book_instruction.txt:56
+msgid "New [NO_ART_NAME]"
+msgstr "Nuovo [NO_ART_NAME]"
+
+#: text_book_instruction.txt:57
+msgid "Of [NAME]"
+msgstr "Di [NAME]"
+
+#: text_book_instruction.txt:58
+msgid "On [NAME]"
+msgstr "Su [NAME]"
+
+#: text_book_instruction.txt:59
+msgid "Pathways to [NAME]"
+msgstr "Percorsi per [NAME]"
+
+#: text_book_instruction.txt:60
+msgid "Principles of [NAME]"
+msgstr "Principi di [NAME]"
+
+#: text_book_instruction.txt:61
+msgid "Question [NAME]"
+msgstr "Domanda [NAME]"
+
+#: text_book_instruction.txt:62
+msgid "Questions About [NAME]"
+msgstr "Domande su [NAME]"
+
+#: text_book_instruction.txt:63
+msgid "Records of [NAME]"
+msgstr "Note di [NAME]"
+
+#: text_book_instruction.txt:64
+msgid "Reflections on [NAME]"
+msgstr "Riflessioni su [NAME]"
+
+#: text_book_instruction.txt:65
+msgid "Secret [NO_ART_NAME]"
+msgstr "Segreto [NO_ART_NAME]"
+
+#: text_book_instruction.txt:66
+msgid "Start Your Day With [NAME]"
+msgstr "Inizia la giornata con [NAME]"
+
+#: text_book_instruction.txt:67
+msgid "Strange [NO_ART_NAME]"
+msgstr "Strano [NO_ART_NAME]"
+
+#: text_book_instruction.txt:68
+msgid "The Art of [NAME]"
+msgstr "L'arte di [NAME]"
+
+#: text_book_instruction.txt:69
+msgid "The Book of [NAME]"
+msgstr "Il Libro di [NAME]"
+
+#: text_book_instruction.txt:70
+msgid "The Future of [NAME]"
+msgstr "Il futuro di [NAME]"
+
+#: text_book_instruction.txt:71
+msgid "The Great [NO_ART_NAME]"
+msgstr "Il Grande [NO_ART_NAME]"
+
+#: text_book_instruction.txt:72
+msgid "The Hidden Meaning of [NAME]"
+msgstr "Il Significato Nascosto di [NAME]"
+
+#: text_book_instruction.txt:73
+msgid "The History of [NAME]"
+msgstr "La storia di [NAME]"
+
+#: text_book_instruction.txt:74
+msgid "The Interpretation of [NAME]"
+msgstr "L'interpretazione di [NAME]"
+
+#: text_book_instruction.txt:75
+msgid "The Journey into [NAME]"
+msgstr "Il viaggio in [NAME]"
+
+#: text_book_instruction.txt:76
+msgid "The Knowledge of [NAME]"
+msgstr "La Conoscenza di [NAME]"
+
+#: text_book_instruction.txt:77
+msgid "The Meaning of [NAME]"
+msgstr "Il Significato di [NAME]"
+
+#: text_book_instruction.txt:78
+msgid "The Mysteries of [NAME]"
+msgstr "I Misteri di [NAME]"
+
+#: text_book_instruction.txt:79
+msgid "The Mystery of [NAME]"
+msgstr "Il Mistero di [NAME]"
+
+#: text_book_instruction.txt:80
+msgid "The Nuanced [NO_ART_NAME]"
+msgstr "La Sfumatura [NO_ART_NAME]"
+
+#: text_book_instruction.txt:81
+msgid "The Possibilities of [NAME]"
+msgstr "Le Possibilità di [NAME]"
+
+#: text_book_instruction.txt:82
+msgid "The Pursuit of [NAME]"
+msgstr "L'Inseguimento di [NAME]"
+
+#: text_book_instruction.txt:83
+msgid "The Secret of [NAME]"
+msgstr "Il Segreto di [NAME]"
+
+#: text_book_instruction.txt:84
+msgid "The Student's [NO_ART_NAME]"
+msgstr "Lo Studente [NO_ART_NAME]"
+
+#: text_book_instruction.txt:85
+msgid "The Study of [NAME]"
+msgstr "Lo Studio di [NAME]"
+
+#: text_book_instruction.txt:86
+msgid "The True [NO_ART_NAME]"
+msgstr "Il vero [NO_ART_NAME]"
+
+#: text_book_instruction.txt:87
+msgid "The Truth About [NAME]"
+msgstr "La Verità su [NAME]"
+
+#: text_book_instruction.txt:88
+msgid "The Unabridged [NO_ART_NAME]"
+msgstr "Il Completo [NO_ART_NAME]"
+
+#: text_book_instruction.txt:89
+msgid "The Way With [NAME]"
+msgstr "La via con [NAME]"
+
+#: text_book_instruction.txt:90
+msgid "The Wizard's Guide to [NAME]"
+msgstr "La Guida del Mago a [NAME]"
+
+#: text_book_instruction.txt:91
+msgid "The World of [NAME]"
+msgstr "Il Mondo di [NAME]"
+
+#: text_book_instruction.txt:92
+msgid "The World Without [NAME]"
+msgstr "Il Mondo senza [NAME]"
+
+#: text_book_instruction.txt:93
+msgid "Thoughts on [NAME]"
+msgstr "Pensieri su [NAME]"
+
+#: text_book_instruction.txt:94
+msgid "Time Spent With [NAME]"
+msgstr "Tempo Passato con [NAME]"
+
+#: text_book_instruction.txt:95
+msgid "Traditional [NO_ART_NAME]"
+msgstr "Tradizionale [NO_ART_NAME]"
+
+#: text_book_instruction.txt:96
+msgid "Treatise on [NAME]"
+msgstr "Trattato su [NAME]"
+
+#: text_book_instruction.txt:97
+msgid "True [NO_ART_NAME]"
+msgstr "Vero [NO_ART_NAME]"
+
+#: text_book_instruction.txt:98
+msgid "Uncanny [NO_ART_NAME]"
+msgstr "Inspiegabile [NO_ART_NAME]"
+
+#: text_book_instruction.txt:99
+msgid "Uncovering [NAME]"
+msgstr "Scoprendo [NAME]"
+
+#: text_book_instruction.txt:100
+msgid "Understanding [NAME]"
+msgstr "Comprendendo [NAME]"
+
+#: text_book_instruction.txt:101
+msgid "Unknown [NO_ART_NAME]"
+msgstr "Sconosciuto [NO_ART_NAME]"
+
+#: text_book_instruction.txt:102
+msgid "Unusual [NO_ART_NAME]"
+msgstr "Inusuale [NO_ART_NAME]"
+
+#: text_book_instruction.txt:103
+msgid "Useful [NO_ART_NAME]"
+msgstr "Utile [NO_ART_NAME]"
+
+#: text_book_instruction.txt:104
+msgid "Victory By [NAME]"
+msgstr "Vittoria Di [NAME]"
+
+#: text_book_instruction.txt:105
+msgid "[NAME] After The End"
+msgstr "[NAME] Dopo la Fine"
+
+#: text_book_instruction.txt:106
+msgid "[NAME] and Beyond"
+msgstr "[NAME] e Oltre"
+
+#: text_book_instruction.txt:107
+msgid "[NAME] and More"
+msgstr "[NAME] e Altro"
+
+#: text_book_instruction.txt:108
+msgid "[NAME] and Other Topics"
+msgstr "[NAME] e Altri Argomenti"
+
+#: text_book_instruction.txt:109
+msgid "[NAME] and Other Travesties"
+msgstr "[NAME] e Altre Parodie"
+
+#: text_book_instruction.txt:110
+msgid "[NAME] and The Coming Troubles"
+msgstr "[NAME] e i Problemi in arrivo"
+
+#: text_book_instruction.txt:111
+msgid "[NAME] and The Universe"
+msgstr "[NAME] e l'Universo"
+
+#: text_book_instruction.txt:112
+msgid "[NAME] Came Full Circle"
+msgstr "[NAME] Finì dove Iniziò"
+
+#: text_book_instruction.txt:113
+msgid "[NAME] Explained"
+msgstr "[NAME] illustrato"
+
+#: text_book_instruction.txt:114
+msgid "[NAME] Exposed"
+msgstr "[NAME] illustrato"
+
+#: text_book_instruction.txt:115
+msgid "[NAME] For Everyone"
+msgstr "[NAME] per tutti"
+
+#: text_book_instruction.txt:116
+msgid "[NAME] For Students"
+msgstr "[NAME] per Studenti"
+
+#: text_book_instruction.txt:117
+msgid "[NAME] For The Beginning Practitioner"
+msgstr "[NAME] Per il Principiante"
+
+#: text_book_instruction.txt:118
+msgid "[NAME] In Practice"
+msgstr "[NAME] In Pratica"
+
+#: text_book_instruction.txt:119
+msgid "[NAME] In The Modern Era"
+msgstr "[NAME] Nell'Era Moderna"
+
+#: text_book_instruction.txt:120
+msgid "[NAME] In The Time of My Ancestors"
+msgstr "[NAME] nel tempo dei miei Antenati"
+
+#: text_book_instruction.txt:121
+msgid "[NAME] In Theory"
+msgstr "[NOME] In teoria"
+
+#: text_book_instruction.txt:122
+msgid "[NAME] In [ANY_AGE]"
+msgstr "[NAME] In [ANY_AGE]"
+
+#: text_book_instruction.txt:123
+msgid "[NAME] Interpreted"
+msgstr "[NAME] Interpretato"
+
+#: text_book_instruction.txt:124
+msgid "[NAME] Might Help"
+msgstr "[NOME] Potrebbe aiutare"
+
+#: text_book_instruction.txt:125
+msgid "[NAME] Questioned"
+msgstr "[NAME] Interrogato"
+
+#: text_book_instruction.txt:126
+msgid "[NAME] The Easy Way"
+msgstr "[NAME] La Via Più Semplice"
+
+#: text_book_instruction.txt:127
+msgid "[NAME] Uncovered"
+msgstr "[NAME] Scoperto"
+
+#: text_book_instruction.txt:128
+msgid "[NAME] Understood"
+msgstr "[NAME] Inteso"
+
+#: text_book_instruction.txt:129
+msgid "[NAME] When It Counts"
+msgstr "[NAME] Quando Conta"
+
+#: text_book_instruction.txt:130
+msgid "[NAME] Within Reason"
+msgstr "[NAME] Nei Limiti della Ragione"
+
+#: text_book_instruction.txt:131
+msgid "[NAME] Without Limits"
+msgstr "[NAME] Senza Limiti"
+
+#: text_book_instruction.txt:132
+msgid "[NAME], Abridged"
+msgstr "[NAME], Sintesi"
+
+#: text_book_instruction.txt:133
+msgid "[NAME], My Life"
+msgstr "[NAME], Mia Vita"
+
+#: text_book_instruction.txt:134
+msgid "[NAME], My Love"
+msgstr "[NAME], Amore mio"
+
+#: text_book_instruction.txt:135
+msgid "[NAME]: A Brief History"
+msgstr "[NAME]: Una Storia Breve"
+
+#: text_book_instruction.txt:136
+msgid "[NAME]: A Brief Introduction"
+msgstr "[NAME]: Una Breve Introduzione"
+
+#: text_book_instruction.txt:137
+msgid "[NAME]: A New Approach"
+msgstr "[NAME]: un nuovo approccio"
+
+#: text_book_instruction.txt:138
+msgid "[NAME]: A Quandary"
+msgstr "[NAME]: Un Dilemma"
+
+#: text_book_instruction.txt:139
+msgid "[NAME]: Before and After"
+msgstr "[NAME]: Prima e Dopo"
+
+#: text_book_instruction.txt:140
+msgid "[NAME]: Common Practice"
+msgstr "[NAME]: Pratica comune"
+
+#: text_book_instruction.txt:141
+msgid "[NAME]: Fact or Fiction?"
+msgstr "[NAME]: Realtà o Finzione?"
+
+#: text_book_instruction.txt:142
+msgid "[NAME]: Further Musings"
+msgstr "[NAME]: Ulteriori Approfondimenti"
+
+#: text_book_instruction.txt:143
+msgid "[NAME]: My Only Mistake"
+msgstr "[NAME]: Il Mio unico Errore"
+
+#: text_book_instruction.txt:144
+msgid "[NAME]: Natural or Supernatural?"
+msgstr "[NAME]: Naturale o Sovrannaturale?"
+
+#: text_book_instruction.txt:145
+msgid "[NAME]: Principles and Practice"
+msgstr "[NAME]: Principi e Pratica"
+
+#: text_book_instruction.txt:146
+msgid "[NAME]: Problems And Solutions"
+msgstr "[NAME]: Problemi e Soluzioni"
+
+#: text_book_instruction.txt:147
+msgid "[NAME]: The Definitive Guide"
+msgstr "[NAME]: il manuale definitivo"
+
+#: text_book_instruction.txt:148
+msgid "[NAME]: The Truth"
+msgstr "[NAME]: La Verità"
+
+#: text_book_instruction.txt:149
+msgid "Can [NAME] Save The World?"
+msgstr "Può [NAME] Salvare il Mondo?"
+
+#: text_book_instruction.txt:150
+msgid "Could It Be [NAME]?"
+msgstr "Potrebbe essere [NAME]?"
+
+#: text_book_instruction.txt:151
+msgid "Did [NAME] Falter?"
+msgstr "[NAME] ha Vacillato?"
+
+#: text_book_instruction.txt:152
+msgid "Do We Understand [NAME]?"
+msgstr "Riusciamo a capire [NAME]?"
+
+#: text_book_instruction.txt:153
+msgid "Do You Know [NAME]?"
+msgstr "Conosci [NAME]?"
+
+#: text_book_instruction.txt:154
+msgid "First [NAME], Then The World!"
+msgstr "Prima [NAME], poi il Mondo!"
+
+#: text_book_instruction.txt:155
+msgid "The [NO_ART_NAME] Book"
+msgstr "Il libro [NO_ART_NAME]"
+
+#: text_book_instruction.txt:156
+msgid "To [NAME] and Glory!"
+msgstr "Per [NAME] e per la gloria!"
+
+#: text_child_age_proclamation.txt:2
+msgid "I'm [CONTEXT:NUMBER]!"
+msgstr "Ho [CONTEXT:NUMBER] anni!"
+
+#: text_current_profession_no_year.txt:2
+msgid "I am a [CONTEXT:UNIT_NAME]."
+msgstr "Io sono un [CONTEXT:UNIT_NAME]."
+
+#: text_current_profession_year.txt:2
+msgid "This is my [CONTEXT:ORDINAL] year as a [CONTEXT:UNIT_NAME]."
+msgstr "Questo è il mio [CONTEXT:ORDINAL] anno come [CONTEXT:UNIT_NAME]."
+
+#: text_curse.txt:2
+msgid "Who dares to enter my house?  I curse you!"
+msgstr "Chi osa entrare in casa mia? Che tu sia maledetto!"
+
+#: text_family_relationship_additional.txt:2
+msgid "[CONTEXT:HIST_FIG:PRO_SUB] is also my [CONTEXT:FAMILY_RELATIONSHIP]"
+msgstr "[CONTEXT:HIST_FIG:PRO_SUB] è anche mio[CONTEXT:FAMILY_RELATIONSHIP]"
+
+#: text_family_relationship_additional_dead.txt:2
+msgid "[CONTEXT:HIST_FIG:PRO_SUB] was also my [CONTEXT:FAMILY_RELATIONSHIP]"
+msgstr ""
+"[CONTEXT:HIST_FIG:PRO_SUB] era anche mio [CONTEXT:FAMILY_RELATIONSHIP]"
+
+#: text_family_relationship_no_spec.txt:2
+msgid ""
+"I have [CONTEXT:INDEF_FAMILY_RELATIONSHIP] named "
+"[CONTEXT:HIST_FIG:TRANS_NAME]"
+msgstr ""
+"Ho [CONTEXT:INDEF_FAMILY_RELATIONSHIP] chiamato "
+"[CONTEXT:HIST_FIG:TRANS_NAME]"
+
+#: text_family_relationship_no_spec_dead.txt:2
+msgid ""
+"I had [CONTEXT:INDEF_FAMILY_RELATIONSHIP] named "
+"[CONTEXT:HIST_FIG:TRANS_NAME]"
+msgstr ""
+"Avevo [CONTEXT:INDEF_FAMILY_RELATIONSHIP] chiamato "
+"[CONTEXT:HIST_FIG:TRANS_NAME]"
+
+#: text_family_relationship_spec.txt:2
+msgid ""
+"my [CONTEXT:FAMILY_RELATIONSHIP] is named [CONTEXT:HIST_FIG:TRANS_NAME]"
+msgstr ""
+"mio [CONTEXT:FAMILY_RELATIONSHIP] si chiama [CONTEXT:HIST_FIG:TRANS_NAME]"
+
+#: text_family_relationship_spec_dead.txt:2
+msgid ""
+"my [CONTEXT:FAMILY_RELATIONSHIP] was named [CONTEXT:HIST_FIG:TRANS_NAME]"
+msgstr ""
+"mio [CONTEXT:FAMILY_RELATIONSHIP] si chiamava [CONTEXT:HIST_FIG:TRANS_NAME]"
+
+#: text_general.txt:2
+msgid "whose cries for mercy went unheeded by my wrath"
+msgstr "le cui preghiere di pietà vennero ignorate dalla mia ira"
+
+#: text_general.txt:3
+msgid "whose insignificant name I struggle to recall"
+msgstr "il cui insignificante nome fatico a ricordare"
+
+#: text_general.txt:4
+msgid "a spineless slug who was crushed under my might"
+msgstr "un invertebrato che fu schiacciato sotto la mia potenza"
+
+#: text_general.txt:5
+msgid "whom I buried alive under a mountain of hatred"
+msgstr "che ho seppellito sotto una montagna di odio"
+
+#: text_general.txt:6
+msgid "who lies dead, now only an embarrassing memory"
+msgstr "che giace morto, ormai solo un imbarazzante ricordo"
+
+#: text_general.txt:7
+msgid "who sought my praise, only to be rejected in death"
+msgstr "che cercò la mia approvazione, che ho rifiutato mentre moriva"
+
+#: text_general.txt:8
+msgid "once revered by those who didn't know any better"
+msgstr "una volta riverito da coloro che non conoscevano di meglio"
+
+#: text_goodbye_worship_1.txt:2
+msgid "upon arising in the mornings,"
+msgstr "alzandosi la mattina,"
+
+#: text_goodbye_worship_1.txt:3
+msgid "when going on a long journey,"
+msgstr "viaggiando a lungo,"
+
+#: text_goodbye_worship_1.txt:4
+msgid "before retiring in the evening,"
+msgstr "prima di ritirarsi per la sera,"
+
+#: text_goodbye_worship_1.txt:5
+msgid "as sure as I am here now,"
+msgstr "sicuro come è sicuro che sono qui ora,"
+
+#: text_goodbye_worship_1.txt:6
+msgid "and lo,"
+msgstr "e io,"
+
+#: text_goodbye_worship_1.txt:7
+msgid "it cannot be said enough;"
+msgstr "non se ne potrà mai parlare abbastanza;"
+
+#: text_goodbye_worship_1.txt:8
+msgid "these are dangerous times, so"
+msgstr "questi sono tempi bui, quindi"
+
+#: text_goodbye_worship_1.txt:9
+msgid "I say again"
+msgstr "Ripeto"
+
+#: text_goodbye_worship_1.txt:10
+msgid "yes,"
+msgstr "Sì,"
+
+#: text_goodbye_worship_1.txt:11
+msgid "before every meal,"
+msgstr "prima di ogni pasto,"
+
+#: text_goodbye_worship_1.txt:12
+msgid "whenever the tide turns,"
+msgstr "ad ogni cambio di marea,"
+
+#: text_goodbye_worship_1.txt:13
+msgid "when you return to this place,"
+msgstr "quando tornerai qui,"
+
+#: text_goodbye_worship_1.txt:14
+msgid "when you arrive at your destination,"
+msgstr "quando arriverai alla tua destinazione,"
+
+#: text_goodbye_worship_1.txt:15
+msgid "at this juncture in your life,"
+msgstr "a questo bivio nella tua vita,"
+
+#: text_goodbye_worship_2.txt:2
+msgid "don't forget to"
+msgstr "non dimenticare di"
+
+#: text_goodbye_worship_2.txt:3
+msgid "always remember to"
+msgstr "ricorda sempre di"
+
+#: text_goodbye_worship_2.txt:4
+msgid "it would be wise to"
+msgstr "sarebbe saggio"
+
+#: text_goodbye_worship_2.txt:5
+msgid "you should"
+msgstr "dovresti"
+
+#: text_goodbye_worship_2.txt:6
+msgid "you must"
+msgstr "devi"
+
+#: text_goodbye_worship_2.txt:7
+msgid "prudence demands that you"
+msgstr "la prudenza richiede che tu"
+
+#: text_goodbye_worship_2.txt:8
+msgid "even for a moment"
+msgstr "anche per un istante"
+
+#: text_goodbye_worship_2.txt:9
+msgid "follow my advice and"
+msgstr "segui il mio consiglio e"
+
+#: text_goodbye_worship_2.txt:10
+msgid "heed my words and"
+msgstr "presta attenzione alle mie parole e"
+
+#: text_goodbye_worship_2.txt:11
+msgid "remember to"
+msgstr "ricordati di"
+
+#: text_goodbye_worship_2.txt:12
+msgid "show devotion and"
+msgstr "mostrare devozione e"
+
+#: text_goodbye_worship_3.txt:2
+msgid "speak the praises of [SPEAKER:HF_LINK:DEITY:TRANS_NAME]"
+msgstr "recitare le preghiere di [SPEAKER:HF_LINK:DEITY:TRANS_NAME]"
+
+#: text_goodbye_worship_3.txt:3
+msgid "speak the praises of [SPEAKER:HF_LINK:DEITY:RANDOM_DEF_SPHERE]"
+msgstr "recitare le preghiere di [SPEAKER:HF_LINK:DEITY:RANDOM_DEF_SPHERE]"
+
+#: text_goodbye_worship_3.txt:4
+msgid "go with [SPEAKER:HF_LINK:DEITY:TRANS_NAME]"
+msgstr "andare con [SPEAKER:HF_LINK:DEITY:TRANS_NAME]"
+
+#: text_goodbye_worship_3.txt:5
+msgid "go with [SPEAKER:HF_LINK:DEITY:RANDOM_DEF_SPHERE]"
+msgstr "andare con [SPEAKER:HF_LINK:DEITY:RANDOM_DEF_SPHERE]"
+
+#: text_goodbye_worship_3.txt:6
+msgid "put your faith in [SPEAKER:HF_LINK:DEITY:TRANS_NAME]"
+msgstr "porre la tua fede in [SPEAKER:HF_LINK:DEITY:TRANS_NAME]"
+
+#: text_goodbye_worship_3.txt:7
+msgid "put your faith in [SPEAKER:HF_LINK:DEITY:RANDOM_DEF_SPHERE]"
+msgstr "porre la tua fede in [SPEAKER:HF_LINK:DEITY:RANDOM_DEF_SPHERE]"
+
+#: text_goodbye_worship_3.txt:8
+msgid "experience [SPEAKER:HF_LINK:DEITY:TRANS_NAME]"
+msgstr "conoscere [SPEAKER:HF_LINK:DEITY:TRANS_NAME]"
+
+#: text_goodbye_worship_3.txt:9
+msgid "experience [SPEAKER:HF_LINK:DEITY:RANDOM_DEF_SPHERE]"
+msgstr "conoscere [SPEAKER:HF_LINK:DEITY:RANDOM_DEF_SPHERE]"
+
+#: text_goodbye_worship_3.txt:10
+msgid "consider [SPEAKER:HF_LINK:DEITY:TRANS_NAME]"
+msgstr "considerare [SPEAKER:HF_LINK:DEITY:TRANS_NAME]"
+
+#: text_goodbye_worship_3.txt:11
+msgid "consider [SPEAKER:HF_LINK:DEITY:RANDOM_DEF_SPHERE]"
+msgstr "considerare [SPEAKER:HF_LINK:DEITY:RANDOM_DEF_SPHERE]"
+
+#: text_goodbye_worship_3.txt:12
+msgid "give yourself to [SPEAKER:HF_LINK:DEITY:TRANS_NAME]"
+msgstr "dare a te stesso un [SPEAKER:HF_LINK:DEITY:TRANS_NAME]"
+
+#: text_goodbye_worship_3.txt:13
+msgid "give yourself to [SPEAKER:HF_LINK:DEITY:RANDOM_DEF_SPHERE]"
+msgstr "dare a te stesso un[SPEAKER:HF_LINK:DEITY:RANDOM_DEF_SPHERE]"
+
+#: text_greet.txt:2
+msgid "Greetings.  My name is [SPEAKER:TRANS_NAME]."
+msgstr "Salve! Il mio nome è[SPEAKER:TRANS_NAME]."
+
+#: text_greet_baby.txt:2
+msgid "Hellooo!"
+msgstr "Ciaooo!"
+
+#: text_greet_baby.txt:3
+msgid "Look at you!"
+msgstr "Ma guardati!"
+
+#: text_greet_baby.txt:4
+msgid "A baby!  How adorable!"
+msgstr "Un bambino! Che carino!"
+
+#: text_greet_reply.txt:2
+msgid "Ah, hello.  I'm [SPEAKER:TRANS_NAME]."
+msgstr "Ah, ciao.  Mi chiamo [SPEAKER:TRANS_NAME]."
+
+#: text_greet_reply_after_hero.txt:2
+msgid "I am [SPEAKER:TRANS_NAME].  Can I be of some help?"
+msgstr "Sono [SPEAKER:TRANS_NAME].  Posso esserti d'aiuto?"
+
+#: text_greet_reply_after_hero.txt:3
+msgid "I am [SPEAKER:TRANS_NAME].  How can I be of service?"
+msgstr "Sono [SPEAKER:TRANS_NAME].  Posso offrirti i miei servizi?"
+
+#: text_greet_reply_diff_language.txt:2
+msgid "Hello, [AUDIENCE:RACE].  I am [SPEAKER:TRANS_NAME]."
+msgstr "Ciao, [AUDIENCE:RACE].  Sono [SPEAKER:TRANS_NAME]."
+
+#: text_greet_reply_unusual_first.txt:2
+msgid "[AUDIENCE:FIRST_NAME]...  your parents must have been interesting!"
+msgstr ""
+"[AUDIENCE:FIRST_NAME]...  i tuoi genitori devono essere stati interessanti!"
+
+#: text_greet_reply_unusual_first.txt:3
+msgid ""
+"You know, you don't meet many people with the name [AUDIENCE:FIRST_NAME]."
+msgstr ""
+"Sai, non si incontrano molte persone con il nome di [AUDIENCE:FIRST_NAME]."
+
+#: text_greet_reply_unusual_first.txt:4
+msgid "So, [AUDIENCE:FIRST_NAME]...   [AUDIENCE:FIRST_NAME], was it?"
+msgstr "Allora, [AUDIENCE:FIRST_NAME]...   [AUDIENCE:FIRST_NAME], giusto?"
+
+#: text_greet_reply_unusual_first.txt:5
+msgid "[AUDIENCE:FIRST_NAME].  Does that mean something?"
+msgstr "[AUDIENCE:FIRST_NAME].  Ha un significato particolare?"
+
+#: text_greet_reply_unusual_first.txt:6
+msgid "[AUDIENCE:FIRST_NAME].  I can't say I've heard that before."
+msgstr "[AUDIENCE:FIRST_NAME].  Non posso dire di averlo mai sentito."
+
+#: text_greet_worship.txt:2
+msgid "Praise be to [SPEAKER:HF_LINK:DEITY:TRANS_NAME]."
+msgstr "Lode a [SPEAKER:HF_LINK:DEITY:TRANS_NAME]."
+
+#: text_greet_worship.txt:3
+msgid "Praise [SPEAKER:HF_LINK:DEITY:RANDOM_DEF_SPHERE]."
+msgstr "Prega [SPEAKER:HF_LINK:DEITY:RANDOM_DEF_SPHERE]."
+
+#: text_greet_worship.txt:4
+msgid "Life is, in a word, [SPEAKER:HF_LINK:DEITY:RANDOM_DEF_SPHERE]."
+msgstr "La vita è, in una parola, [SPEAKER:HF_LINK:DEITY:RANDOM_DEF_SPHERE]."
+
+#: text_greet_worship.txt:5
+msgid "This servant of [SPEAKER:HF_LINK:DEITY:TRANS_NAME] greets you."
+msgstr "Questo umile servo di [SPEAKER:HF_LINK:DEITY:TRANS_NAME] ti saluta."
+
+#: text_greet_worship.txt:6
+msgid "This servant of [SPEAKER:HF_LINK:DEITY:RANDOM_DEF_SPHERE] greets you."
+msgstr ""
+"Questo umile servo di [SPEAKER:HF_LINK:DEITY:RANDOM_DEF_SPHERE] ti saluta."
+
+#: text_guard_profession.txt:2
+msgid "I am a guard."
+msgstr "Sono una guardia."
+
+#: text_guard_warning.txt:2
+msgid "Don't start any trouble."
+msgstr "Non dare problemi."
+
+#: text_hist_fig_slayer.txt:2
+msgid ""
+"It is I that felled [CONTEXT:HIST_FIG:TRANS_NAME] the "
+"[CONTEXT:HIST_FIG:RACE]."
+msgstr ""
+"Sono stato io ad aver ucciso [CONTEXT:HIST_FIG:TRANS_NAME] il\\la "
+"[CONTEXT:HIST_FIG:RACE]."
+
+#: text_hunting_profession.txt:2
+msgid "I hunt great beasts in [CONTEXT:PLACE:TRANS_NAME]."
+msgstr "Vado a caccia di enormi bestie in [CONTEXT:PLACE:TRANS_NAME]."
+
+#: text_hunting_profession_year.txt:2
+msgid ""
+"I have hunted great beasts in [CONTEXT:PLACE:TRANS_NAME] for "
+"[CONTEXT:NUMBER] of my years."
+msgstr ""
+"Ho dato la caccia ad enormi bestie in [CONTEXT:PLACE:TRANS_NAME] per "
+"[CONTEXT:NUMBER] anni."
+
+#: text_justification_antithetical.txt:2
+msgid "can be thought of as the antithesis of"
+msgstr "può essere pensato come l'antitesi di"
+
+#: text_justification_experience.txt:2
+msgid "can allow one to experience"
+msgstr "permette di provare"
+
+#: text_justification_proximity.txt:2
+msgid "can bring one near to"
+msgstr "può portarti vicino a"
+
+#: text_justification_reminder.txt:2
+msgid "can remind one of"
+msgstr "può ricordarti di"
+
+#: text_justification_representation.txt:2
+msgid "can be thought of as a representation of"
+msgstr "può essere pensato come la rappresentazione di"
+
+#: text_mercenary_profession.txt:2
+msgid ""
+"I seek fortune and glory by offering my skill at arms in "
+"[CONTEXT:PLACE:TRANS_NAME]."
+msgstr ""
+"Cerco fortuna e gloria offrendo la mia bravura nell'utilizzo delle armi in "
+"[CONTEXT:PLACE:TRANS_NAME]."
+
+#: text_mercenary_profession_year.txt:2
+msgid ""
+"I have sought fortune and glory by offering my skill at arms in "
+"[CONTEXT:PLACE:TRANS_NAME] for [CONTEXT:NUMBER] of my years."
+msgstr ""
+"Ho cercato frtuna e gloria offrendo la mia bravura nell'utilizzo delle armi "
+"[CONTEXT:PLACE:TRANS_NAME] per [CONTEXT:NUMBER] anni."
+
+#: text_no_family.txt:2
+msgid "I have no family to speak of"
+msgstr "Non ho famiglia di cui poter parlare"
+
+#: text_past_hunting_profession.txt:2
+msgid "In the past, I hunted great beasts."
+msgstr "In passato, ho dato la caccia a grandi bestie."
+
+#: text_past_hunting_profession.txt:3
+msgid "I was a hunter of mighty beasts for [CONTEXT:NUMBER] of my years."
+msgstr "Sono stato un cacciatore di potenti bestie per [CONTEXT:NUMBER] anni."
+
+#: text_past_mercenary_profession.txt:2
+msgid "In the past, I sought fortune and glory by offering my skill at arms."
+msgstr ""
+"In passsato, ho cercato fortuna e gloria offrendo la mia bravura "
+"nell'utilizzo delle armi."
+
+#: text_past_mercenary_profession.txt:3
+msgid ""
+"I sought fortune and glory by offering my skill at arms for [CONTEXT:NUMBER]"
+" of my years."
+msgstr ""
+"Ho cercato fortuna e gloria offrendo la mia bravura nell'utilizzo delle armi"
+" per [CONTEXT:NUMBER] anni."
+
+#: text_past_profession_no_year.txt:2
+msgid "I was once a [CONTEXT:UNIT_NAME]."
+msgstr "Una volta ero un [CONTEXT:UNIT_NAME]."
+
+#: text_past_profession_year.txt:2
+msgid ""
+"I was a [CONTEXT:UNIT_NAME] for [CONTEXT:NUMBER] of the years of my life."
+msgstr ""
+"Sono stato un [CONTEXT:UNIT_NAME] per [CONTEXT:NUMBER] anni della mia vita."
+
+#: text_past_snatcher_profession.txt:2
+msgid "Once it was my calling to rescue lost children."
+msgstr "Un tempo salvare i bambini smarriti era la mia vocazione"
+
+#: text_past_snatcher_profession.txt:3
+msgid "For [CONTEXT:NUMBER] of my years, I rescued lost children."
+msgstr "Per [CONTEXT:NUMBER] dei miei anni, ho salvato i bambini perduti."
+
+#: text_past_thief_profession.txt:2
+msgid "I once sought great treasures."
+msgstr "Una volta ho visto grandi tesori"
+
+#: text_past_thief_profession.txt:3
+msgid "I sought great treasures for [CONTEXT:NUMBER] of my years."
+msgstr "Ho cercato grandi tesori per [CONTESTO: NUMERO] dei miei anni."
+
+#: text_past_wandering_profession.txt:2
+msgid "I once wandered the wilds."
+msgstr "Una volta ho girovagato per terre selvagge"
+
+#: text_past_wandering_profession.txt:3
+msgid "For [CONTEXT:NUMBER] of my years, I wandered the wilds."
+msgstr "Per [CONTEXT: NUMERO] dei miei anni, ho vagato per le terre selvagge."
+
+#: text_positive.txt:2
+msgid "fantastic!"
+msgstr "fantastico!"
+
+#: text_positive.txt:3
+msgid "wonderful!"
+msgstr "meraviglioso!"
+
+#: text_positive.txt:4
+msgid "I'm thrilled to hear that."
+msgstr "Sono entusiasta di sentirlo"
+
+#: text_positive.txt:5
+msgid "I'm pleased to hear that."
+msgstr "è un piacere sentirlo dire."
+
+#: text_positive.txt:6
+msgid "that is good news."
+msgstr "sono buone notizie."
+
+#: text_positive.txt:7
+msgid "that is wonderful news."
+msgstr "sono splendide notizie."
+
+#: text_positive.txt:8
+msgid "this is encouraging."
+msgstr "è incoraggiante."
+
+#: text_positive.txt:9
+msgid "very good."
+msgstr "molto bene."
+
+#: text_positive.txt:10
+msgid "I'm proud of you."
+msgstr "Sono fiero di te."
+
+#: text_positive.txt:11
+msgid "that is a good turn of affairs."
+msgstr "questa è un'ottima svolta."
+
+#: text_same_site_ab_specific_hf_seeker.txt:2
+msgid ""
+"seek out [CONTEXT:HIST_FIG:TRANS_NAME] here in [CONTEXT:SITE:TRANS_NAME] at "
+"[CONTEXT:ABSTRACT_BUILDING:TRANS_NAME]"
+msgstr ""
+"cerca [CONTEXT:HIST_FIG:TRANS_NAME] qui [CONTEXT:SITE:TRANS_NAME] nel "
+"[CONTEXT:ABSTRACT_BUILDING:TRANS_NAME]"
+
+#: text_same_site_specific_hf_seeker.txt:2
+msgid ""
+"seek out [CONTEXT:HIST_FIG:TRANS_NAME] here in [CONTEXT:SITE:TRANS_NAME]"
+msgstr ""
+"cerca [CONTEXT: HIST_FIG: TRANS_NAME] qui in [CONTEXT: SITE: TRANS_NAME]"
+
+#: text_secret_death.txt:2
+msgid "Annihilation"
+msgstr "Annientamento"
+
+#: text_secret_death.txt:3
+msgid "Bereavement"
+msgstr "Lutto"
+
+#: text_secret_death.txt:4
+msgid "Death"
+msgstr "Morte"
+
+#: text_secret_death.txt:5
+msgid "Demise"
+msgstr "La Morte"
+
+#: text_secret_death.txt:6
+msgid "Departure"
+msgstr "La Partenza"
+
+#: text_secret_death.txt:7
+msgid "Doom"
+msgstr "Condanna"
+
+#: text_secret_death.txt:8
+msgid "Dying"
+msgstr "Morendo"
+
+#: text_secret_death.txt:9
+msgid "Eternal Rest"
+msgstr "Eterno Riposo"
+
+#: text_secret_death.txt:10
+msgid "Expiration"
+msgstr "Espirazione"
+
+#: text_secret_death.txt:11
+msgid "Extinction"
+msgstr "Estinzione"
+
+#: text_secret_death.txt:12
+msgid "Mortality"
+msgstr "Mortalità"
+
+#: text_secret_death.txt:13
+msgid "Immortality"
+msgstr "Immortalità"
+
+#: text_secret_death.txt:14
+msgid "Loss"
+msgstr "Perdita"
+
+#: text_secret_death.txt:15
+msgid "Oblivion"
+msgstr "Oblio"
+
+#: text_secret_death.txt:16
+msgid "Parting"
+msgstr "Separazione"
+
+#: text_secret_death.txt:17
+msgid "Ruin"
+msgstr "Rovina"
+
+#: text_secret_death.txt:18
+msgid "Ruination"
+msgstr "Rovina"
+
+#: text_secret_death.txt:19
+msgid "Sleep"
+msgstr "Sonno"
+
+#: text_secret_death.txt:20
+msgid "the Afterlife"
+msgstr "L'aldilà"
+
+#: text_secret_death.txt:21
+msgid "the End"
+msgstr "la Fine"
+
+#: text_secret_death.txt:22
+msgid "the Grave"
+msgstr "la Tomba"
+
+#: text_site_specific_hf_seeker.txt:2
+msgid ""
+"seek out [CONTEXT:HIST_FIG:TRANS_NAME] over in [CONTEXT:SITE:TRANS_NAME]"
+msgstr "cerca [CONTEXT:HIST_FIG:TRANS_NAME] oltre [CONTEXT:SITE:TRANS_NAME]"
+
+#: text_slayer.txt:2
+msgid "bane"
+msgstr "rovina"
+
+#: text_slayer.txt:3
+msgid "conqueror"
+msgstr "conquistatore"
+
+#: text_slayer.txt:4
+msgid "death"
+msgstr "morte"
+
+#: text_slayer.txt:5
+msgid "foe"
+msgstr "nemico"
+
+#: text_slayer.txt:6
+msgid "killer"
+msgstr "uccisore"
+
+#: text_slayer.txt:7
+msgid "lord"
+msgstr "signore"
+
+#: text_slayer.txt:8
+msgid "master"
+msgstr "maestro"
+
+#: text_slayer.txt:9
+msgid "nemesis"
+msgstr "nemesi"
+
+#: text_slayer.txt:10
+msgid "slayer"
+msgstr "squartatore"
+
+#: text_slayer.txt:11
+msgid "vanquisher"
+msgstr "annientatore"
+
+#: text_slayer.txt:12
+msgid "murderer"
+msgstr "assassino"
+
+#: text_slayer.txt:13
+msgid "crusher"
+msgstr "distruttore"
+
+#: text_slayer.txt:14
+msgid "extinguisher"
+msgstr "sterminatore"
+
+#: text_slayer.txt:15
+msgid "strangler"
+msgstr "strangolatore"
+
+#: text_snatcher_profession.txt:2
+msgid ""
+"I rescue lost children and bring them back to [CONTEXT:PLACE:TRANS_NAME]."
+msgstr "Salvo i bambini perduti e li riporto a [CONTEXT:PLACE:TRANS_NAME]."
+
+#: text_snatcher_profession_year.txt:2
+msgid ""
+"For [CONTEXT:NUMBER] of my years, I have been rescuing lost children and "
+"bringing them back to [CONTEXT:PLACE:TRANS_NAME]."
+msgstr ""
+"Per [CONTEXT:NUMBER] dei miei anni, ho salvato bamini perduti e li ho "
+"riportati a [CONTEXT:PLACE:TRANS_NAME]."
+
+#: text_soldier_profession.txt:2
+msgid "I am a soldier."
+msgstr "Sono un soldato."
+
+#: text_task_recommendation.txt:2
+msgid "[CONTEXT:ANY:TRANS_NAME] might have a task for you"
+msgstr "[CONTEXT:ANY:TRANS_NAME] potrei avere un compito per te"
+
+#: text_temple_already_member.txt:2
+msgid "simply"
+msgstr "semplicemente"
+
+#: text_temple_already_member.txt:3
+msgid "it is enough to"
+msgstr "è abbastanza per"
+
+#: text_temple_already_member.txt:4
+msgid "your task is simple;"
+msgstr "il tuo compito è semplice"
+
+#: text_temple_already_member.txt:5
+msgid "just"
+msgstr "solo"
+
+#: text_temple_already_member.txt:6
+msgid "all you need is to"
+msgstr "tutto ciò di cui hai bisogno è"
+
+#: text_temple_become_member.txt:2
+msgid ""
+"Welcome to [CONTEXT:ENTITY:TRANS_NAME].  Praise be to "
+"[CONTEXT:ENTITY:WORSHIP_HF:TRANS_NAME]!"
+msgstr ""
+"Benvenuto a [CONTEXT:ENTITY:TRANS_NAME]. Lode a "
+"[CONTEXT:ENTITY:WORSHIP_HF:TRANS_NAME]!"
+
+#: text_temple_become_member.txt:3
+msgid ""
+"Welcome to [CONTEXT:ENTITY:TRANS_NAME].  Praise be to "
+"[CONTEXT:ENTITY:WORSHIP_HF:RANDOM_DEF_SPHERE]!"
+msgstr ""
+"Benvenuto a [CONTEXT:ENTITY:TRANS_NAME]. Lode a "
+"[CONTEXT:ENTITY:WORSHIP_HF:RANDOM_DEF_SPHERE]!"
+
+#: text_temple_become_member.txt:4
+msgid ""
+"As a member of [CONTEXT:ENTITY:TRANS_NAME], you can now seek the higher "
+"mysteries of [CONTEXT:ENTITY:WORSHIP_HF:TRANS_NAME]."
+msgstr ""
+"Come membro di [CONTEXT:ENTITY:TRANS_NAME], puoi ora ricercare i più alti "
+"misteri di [CONTEXT:ENTITY:WORSHIP_HF:TRANS_NAME]."
+
+#: text_temple_become_member.txt:5
+msgid ""
+"As a member of [CONTEXT:ENTITY:TRANS_NAME], you can now seek the higher "
+"mysteries of [CONTEXT:ENTITY:WORSHIP_HF:RANDOM_DEF_SPHERE]."
+msgstr ""
+"Come membro di [CONTEXT:ENTITY:TRANS_NAME], puoi ora ricercare i più alti "
+"misteri di [CONTEXT:ENTITY:WORSHIP_HF:RANDOM_DEF_SPHERE]."
+
+#: text_thief_profession.txt:2
+msgid "I seek treasures and bring them back to [CONTEXT:PLACE:TRANS_NAME]."
+msgstr "Cerco tesori da riportare a [CONTEXT:PLACE:TRANS_NAME]."
+
+#: text_thief_profession_year.txt:2
+msgid ""
+"I seek treasures and bring them back to [CONTEXT:PLACE:TRANS_NAME] and have "
+"done so for [CONTEXT:NUMBER] of the years of my life."
+msgstr ""
+"Cerco dei tesori e per riportarli a [CONTEXT: PLACE: TRANS_NAME] e l'ho "
+"fatto per [CONTEXT: NUMBER] anni della mia vita."
+
+#: text_threat.txt:2
+msgid "Prepare to die!"
+msgstr "Ora morirai!"
+
+#: text_unknown_hf_seeker.txt:2
+msgid ""
+"seek out [CONTEXT:HIST_FIG:TRANS_NAME], wherever [CONTEXT:HIST_FIG:PRO_SUB] "
+"might be"
+msgstr ""
+"cerca [CONTEXT: HIST_FIG: TRANS_NAME], dovunque [CONTEXT: HIST_FIG: PRO_SUB]"
+" potrebbe essere"
+
+#: text_wandering_profession.txt:2
+msgid "I wander [CONTEXT:PLACE:TRANS_NAME]."
+msgstr "Vago in [CONTEXT:PLACE:TRANS_NAME]."
+
+#: text_wandering_profession_year.txt:2
+msgid ""
+"I have wandered [CONTEXT:PLACE:TRANS_NAME] for [CONTEXT:NUMBER] of my years."
+msgstr ""
+"Ho vagato in [CONTEXT:PLACE:TRANS_NAME] per [CONTEXT:NUMBER] lunghi anni."
