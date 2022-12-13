@@ -1,10 +1,13 @@
 # 
 # Translators:
 # insolor, 2022
+# Wind Moon, 2022
+# xxJAY xx, 2022
+# jj z, 2022
 # 
 msgid ""
 msgstr ""
-"Last-Translator: insolor, 2022\n"
+"Last-Translator: jj z, 2022\n"
 "Language-Team: Chinese Simplified (https://www.transifex.com/dwarf-fortress-translation/teams/22396/zh-Hans/)\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -2049,12 +2052,12 @@ msgstr "[BP:LF1:左前脚掌:左前脚掌]"
 #: body_default.txt:899
 msgctxt "BODY:INSECT_4LEGS_2ARMS"
 msgid "[BP:RA2:right second leg:STP]"
-msgstr ""
+msgstr "RA2:右中足:STP"
 
 #: body_default.txt:901
 msgctxt "BODY:INSECT_4LEGS_2ARMS"
 msgid "[BP:LA2:left second leg:STP]"
-msgstr ""
+msgstr "LA2:左中足:STP]"
 
 #: body_default.txt:903
 msgctxt "BODY:INSECT_4LEGS_2ARMS"
@@ -2144,7 +2147,7 @@ msgstr ""
 #: body_default.txt:939
 msgctxt "BODY:SPIDER"
 msgid "[BP:LA3:left third leg:STP]"
-msgstr ""
+msgstr "LA3:左后足:STP]"
 
 #: body_default.txt:941
 msgctxt "BODY:SPIDER"
@@ -2224,7 +2227,7 @@ msgstr ""
 #: body_default.txt:973
 msgctxt "BODY:CRAB_BODY"
 msgid "[BP:RA3:right third leg:STP]"
-msgstr ""
+msgstr "[BP:RA3:右后足:STP]"
 
 #: body_default.txt:975
 msgctxt "BODY:CRAB_BODY"
@@ -2274,7 +2277,7 @@ msgstr ""
 #: body_default.txt:997
 msgctxt "BODY:TENTACLE_MOUTH"
 msgid "[BP:MOUTH:mouth:STP]"
-msgstr ""
+msgstr "[BP:MOUTH:嘴:STP]"
 
 #: body_default.txt:1001
 msgctxt "BODY:TENTACLE_TEETH"
@@ -2454,52 +2457,52 @@ msgstr ""
 #: body_default.txt:1081
 msgctxt "BODY:WAGON"
 msgid "[BP:RFW:right front wheel:STP]"
-msgstr ""
+msgstr "[BP:RFW:右前轮:STP]"
 
 #: body_default.txt:1083
 msgctxt "BODY:WAGON"
 msgid "[BP:LFW:left front wheel:STP]"
-msgstr ""
+msgstr "[BP:LFW:左前轮:STP]"
 
 #: body_default.txt:1085
 msgctxt "BODY:WAGON"
 msgid "[BP:RRW:right rear wheel:STP]"
-msgstr ""
+msgstr "[BP:RRW:右后轮:STP]"
 
 #: body_default.txt:1087
 msgctxt "BODY:WAGON"
 msgid "[BP:LRW:left rear wheel:STP]"
-msgstr ""
+msgstr "[BP:LRW:左后轮:STP]"
 
 #: body_default.txt:1091
 msgctxt "BODY:TAIL"
 msgid "[BP:TAIL:tail:STP]"
-msgstr ""
+msgstr "[BP:TAIL:尾巴:STP]"
 
 #: body_default.txt:1095
 msgctxt "BODY:SHELL"
 msgid "[BP:SHELL:shell:STP]"
-msgstr ""
+msgstr "[BP:SHELL:壳:STP]"
 
 #: body_default.txt:1100
 msgctxt "BODY:TAIL_STANCE"
 msgid "[BP:TAIL:tail:STP]"
-msgstr ""
+msgstr "[BP:TAIL:尾巴:STP]"
 
 #: body_default.txt:1104
 msgctxt "BODY:TAIL_STINGER"
 msgid "[BP:TAIL_STINGER:stinger:STP]"
-msgstr ""
+msgstr "[BP:TAIL_STINGER:毒刺:STP]"
 
 #: body_default.txt:1108
 msgctxt "BODY:UPPERBODY_PINCERS"
 msgid "[BP:R_UB_PINCER:right pincer:STP]"
-msgstr ""
+msgstr "[BP:R_UB_PINCER:右钳:STP]"
 
 #: body_default.txt:1110
 msgctxt "BODY:UPPERBODY_PINCERS"
 msgid "[BP:L_UB_PINCER:left pincer:STP]"
-msgstr ""
+msgstr "[BP:L_UB_PINCER:左钳:STP]"
 
 #: body_default.txt:1113
 msgctxt "BODY:UPPERBODY_PINCERS"
@@ -2559,22 +2562,22 @@ msgstr ""
 #: body_default.txt:1135
 msgctxt "BODY:2EYES"
 msgid "[BP:REYE:right eye:STP]"
-msgstr ""
+msgstr "[BP:REYE:右眼:STP]"
 
 #: body_default.txt:1137
 msgctxt "BODY:2EYES"
 msgid "[BP:LEYE:left eye:STP]"
-msgstr ""
+msgstr "[BP:LEYE:左眼:STP]"
 
 #: body_default.txt:1141
 msgctxt "BODY:3EYES"
 msgid "[BP:REYE:right eye:STP]"
-msgstr ""
+msgstr "[BP:REYE:右眼:STP]"
 
 #: body_default.txt:1143
 msgctxt "BODY:3EYES"
 msgid "[BP:LEYE:left eye:STP]"
-msgstr ""
+msgstr "[BP:LEYE:左眼:STP]"
 
 #: body_default.txt:1145
 msgctxt "BODY:3EYES"
@@ -2624,12 +2627,12 @@ msgstr ""
 #: body_default.txt:1171
 msgctxt "BODY:NOSE"
 msgid "[BP:NOSE:nose:STP]"
-msgstr ""
+msgstr "[BP:NOSE:鼻子:STP]"
 
 #: body_default.txt:1175
 msgctxt "BODY:SNOUT_NOSMELL"
 msgid "[BP:SNOUT:snout:STP]"
-msgstr ""
+msgstr "[BP:SNOUT:猪鼻:STP]"
 
 #: body_default.txt:1179
 msgctxt "BODY:TRUNK"
@@ -2639,27 +2642,27 @@ msgstr ""
 #: body_default.txt:1183
 msgctxt "BODY:2EARS"
 msgid "[BP:R_EAR:right ear:STP]"
-msgstr ""
+msgstr "[BP:R_EAR:右耳:STP]"
 
 #: body_default.txt:1185
 msgctxt "BODY:2EARS"
 msgid "[BP:L_EAR:left ear:STP]"
-msgstr ""
+msgstr "[BP:L_EAR:左耳:STP]"
 
 #: body_default.txt:1189
 msgctxt "BODY:2LUNGS"
 msgid "[BP:RLUNG:right lung:STP]"
-msgstr ""
+msgstr "[BP:RLUNG:右肺:STP]"
 
 #: body_default.txt:1191
 msgctxt "BODY:2LUNGS"
 msgid "[BP:LLUNG:left lung:STP]"
-msgstr ""
+msgstr "[BP:LLUNG:左肺:STP]"
 
 #: body_default.txt:1195
 msgctxt "BODY:MOUTH"
 msgid "[BP:MOUTH:mouth:STP]"
-msgstr ""
+msgstr "[BP:MOUTH:嘴:STP]"
 
 #: body_default.txt:1199
 msgctxt "BODY:PROBOSCIS"
@@ -2669,12 +2672,12 @@ msgstr ""
 #: body_default.txt:1203
 msgctxt "BODY:BEAK"
 msgid "[BP:BEAK:beak:STP]"
-msgstr ""
+msgstr "[BP:BEAK:喙:STP]"
 
 #: body_default.txt:1207
 msgctxt "BODY:HEART"
 msgid "[BP:HEART:heart:STP]"
-msgstr ""
+msgstr "[BP:HEART:心脏:STP]"
 
 #: body_default.txt:1211
 msgctxt "BODY:GUTS"
@@ -2684,57 +2687,57 @@ msgstr ""
 #: body_default.txt:1216
 msgctxt "BODY:GIZZARD"
 msgid "[BP:GIZZARD:gizzard:STP]"
-msgstr ""
+msgstr "[BP:GIZZARD:胗:STP]"
 
 #: body_default.txt:1220
 msgctxt "BODY:ORGANS"
 msgid "[BP:LIVER:liver:STP]"
-msgstr ""
+msgstr "[BP:LIVER:肝脏:STP]"
 
 #: body_default.txt:1222
 msgctxt "BODY:ORGANS"
 msgid "[BP:STOMACH:stomach:STP]"
-msgstr ""
+msgstr "[BP:STOMACH:胃:STP]"
 
 #: body_default.txt:1224
 msgctxt "BODY:ORGANS"
 msgid "[BP:PANCREAS:pancreas:pancreases]"
-msgstr ""
+msgstr "[BP:PANCREAS:胰腺:胰腺]"
 
 #: body_default.txt:1226
 msgctxt "BODY:ORGANS"
 msgid "[BP:SPLEEN:spleen:STP]"
-msgstr ""
+msgstr "[BP:SPLEEN:脾:STP]"
 
 #: body_default.txt:1228
 msgctxt "BODY:ORGANS"
 msgid "[BP:RKIDNEY:right kidney:STP]"
-msgstr ""
+msgstr "[BP:RKIDNEY:右肾:STP]"
 
 #: body_default.txt:1230
 msgctxt "BODY:ORGANS"
 msgid "[BP:LKIDNEY:left kidney:STP]"
-msgstr ""
+msgstr "[BP:LKIDNEY:左肾:STP]"
 
 #: body_default.txt:1234
 msgctxt "BODY:HUMANOID_JOINTS"
 msgid "[BP:RUA_J:right shoulder:STP]"
-msgstr ""
+msgstr "[BP:RUA_J:右肩:STP]"
 
 #: body_default.txt:1236
 msgctxt "BODY:HUMANOID_JOINTS"
 msgid "[BP:LUA_J:left shoulder:STP]"
-msgstr ""
+msgstr "[BP:LUA_J:左肩:STP]"
 
 #: body_default.txt:1238
 msgctxt "BODY:HUMANOID_JOINTS"
 msgid "[BP:RLA_J:right elbow:STP]"
-msgstr ""
+msgstr "[BP:RLA_J:右肘:STP]"
 
 #: body_default.txt:1240
 msgctxt "BODY:HUMANOID_JOINTS"
 msgid "[BP:LLA_J:left elbow:STP]"
-msgstr ""
+msgstr "[BP:LLA_J:左肘:STP]"
 
 #: body_default.txt:1242
 msgctxt "BODY:HUMANOID_JOINTS"
@@ -5342,42 +5345,42 @@ msgstr ""
 #: c_variation_default.txt:631
 msgctxt "CREATURE_VARIATION:STANDARD_BIPED_GAITS"
 msgid "[CV_NEW_TAG:GAIT:WALK:Sprint:]"
-msgstr ""
+msgstr "[CV_NEW_TAG:移动:步行:冲刺:]"
 
 #: c_variation_default.txt:632
 msgctxt "CREATURE_VARIATION:STANDARD_BIPED_GAITS"
 msgid "[CV_NEW_TAG:GAIT:WALK:Run:]"
-msgstr ""
+msgstr "[CV_NEW_TAG:移动:步行:奔跑:]"
 
 #: c_variation_default.txt:633
 msgctxt "CREATURE_VARIATION:STANDARD_BIPED_GAITS"
 msgid "[CV_NEW_TAG:GAIT:WALK:Jog:]"
-msgstr ""
+msgstr "[CV_NEW_TAG:移动:步行:慢跑:]"
 
 #: c_variation_default.txt:634
 msgctxt "CREATURE_VARIATION:STANDARD_BIPED_GAITS"
 msgid "[CV_NEW_TAG:GAIT:WALK:Walk:]"
-msgstr ""
+msgstr "[CV_NEW_TAG:移动:步行:行走:]"
 
 #: c_variation_default.txt:635
 msgctxt "CREATURE_VARIATION:STANDARD_BIPED_GAITS"
 msgid "[CV_NEW_TAG:GAIT:WALK:Stroll:]"
-msgstr ""
+msgstr "[CV_NEW_TAG:移动:步行:散步:]"
 
 #: c_variation_default.txt:636
 msgctxt "CREATURE_VARIATION:STANDARD_BIPED_GAITS"
 msgid "[CV_NEW_TAG:GAIT:WALK:Creep:]"
-msgstr ""
+msgstr "[CV_NEW_TAG:移动:步行:爬行:]"
 
 #: c_variation_default.txt:639
 msgctxt "CREATURE_VARIATION:STANDARD_QUADRUPED_GAITS"
 msgid "[CV_NEW_TAG:GAIT:WALK:Gallop:]"
-msgstr ""
+msgstr "[CV_NEW_TAG:移动:步行:疾驰:]"
 
 #: c_variation_default.txt:640
 msgctxt "CREATURE_VARIATION:STANDARD_QUADRUPED_GAITS"
 msgid "[CV_NEW_TAG:GAIT:WALK:Canter:]"
-msgstr ""
+msgstr "[CV_NEW_TAG:移动:步行:慢跑:]"
 
 #: c_variation_default.txt:641
 msgctxt "CREATURE_VARIATION:STANDARD_QUADRUPED_GAITS"
@@ -11492,22 +11495,22 @@ msgstr ""
 #: creature_domestic.txt:322
 msgctxt "CREATURE:MULE"
 msgid "[ATTACK_VERB:kick:kicks]"
-msgstr ""
+msgstr "[ATTACK_VERB:踢:踢]"
 
 #: creature_domestic.txt:338
 msgctxt "CREATURE:MULE"
 msgid "[ATTACK_VERB:bite:bites]"
-msgstr ""
+msgstr "[ATTACK_VERB:咬:咬]"
 
 #: creature_domestic.txt:357
 msgctxt "CREATURE:MULE"
 msgid "[TLCM_NOUN:hair:SINGULAR]"
-msgstr ""
+msgstr "[TLCM_NOUN:毛发:SINGULAR]"
 
 #: creature_domestic.txt:360
 msgctxt "CREATURE:MULE"
 msgid "[TLCM_NOUN:skin:SINGULAR]"
-msgstr ""
+msgstr "[TLCM_NOUN:皮肤:SINGULAR]"
 
 #: creature_domestic.txt:363
 msgctxt "CREATURE:MULE"
@@ -40930,107 +40933,107 @@ msgstr ""
 #: inorganic_stone_gem.txt:34
 msgctxt "INORGANIC:ONYX"
 msgid "[IS_GEM:onyx:onyxes:]"
-msgstr ""
+msgstr "[IS_GEM:缟玛瑙:缟玛瑙:]"
 
 #: inorganic_stone_gem.txt:41
 msgctxt "INORGANIC:MORION"
 msgid "[IS_GEM:morion:STP:]"
-msgstr ""
+msgstr "[IS_GEM:墨晶:STP:]"
 
 #: inorganic_stone_gem.txt:48
 msgctxt "INORGANIC:SCHORL"
 msgid "[IS_GEM:schorl:STP:]"
-msgstr ""
+msgstr "[IS_GEM:黑碧玺:STP:]"
 
 #: inorganic_stone_gem.txt:57
 msgctxt "INORGANIC:LACE AGATE"
 msgid "[IS_GEM:lace agate:STP:]"
-msgstr ""
+msgstr "[IS_GEM:蕾丝玛瑙:STP:]"
 
 #: inorganic_stone_gem.txt:64
 msgctxt "INORGANIC:BLUE JADE"
 msgid "[IS_GEM:blue jade:STP:]"
-msgstr ""
+msgstr "[IS_GEM:蓝翡翠:STP:]"
 
 #: inorganic_stone_gem.txt:71
 msgctxt "INORGANIC:LAPIS LAZULI"
 msgid "[IS_GEM:lapis lazuli:STP:]"
-msgstr ""
+msgstr "[IS_GEM:青金石:STP:]"
 
 #: inorganic_stone_gem.txt:79
 msgctxt "INORGANIC:PRASE"
 msgid "[IS_GEM:prase:STP:]"
-msgstr ""
+msgstr "[IS_GEM:绿石英:STP:]"
 
 #: inorganic_stone_gem.txt:86
 msgctxt "INORGANIC:PRASE OPAL"
 msgid "[IS_GEM:prase opal:STP:]"
-msgstr ""
+msgstr "[IS_GEM:绿蛋白石:STP:]"
 
 #: inorganic_stone_gem.txt:93
 msgctxt "INORGANIC:BLOODSTONE"
 msgid "[IS_GEM:bloodstone:STP:]"
-msgstr ""
+msgstr "[IS_GEM:血玉髓:STP:]"
 
 #: inorganic_stone_gem.txt:100
 msgctxt "INORGANIC:MOSS AGATE"
 msgid "[IS_GEM:moss agate:STP:]"
-msgstr ""
+msgstr "[IS_GEM:藓纹玛瑙:STP:]"
 
 #: inorganic_stone_gem.txt:107
 msgctxt "INORGANIC:MOSS OPAL"
 msgid "[IS_GEM:moss opal:STP:]"
-msgstr ""
+msgstr "[IS_GEM:苔蛋白石:STP:]"
 
 #: inorganic_stone_gem.txt:114
 msgctxt "INORGANIC:VARISCITE"
 msgid "[IS_GEM:variscite:STP:]"
-msgstr ""
+msgstr "[IS_GEM:磷酸铝石:STP:]"
 
 #: inorganic_stone_gem.txt:121
 msgctxt "INORGANIC:CHRYSOPRASE"
 msgid "[IS_GEM:chrysoprase:STP:]"
-msgstr ""
+msgstr "[IS_GEM:绿玉髓:STP:]"
 
 #: inorganic_stone_gem.txt:128
 msgctxt "INORGANIC:CHRYSOCOLLA"
 msgid "[IS_GEM:chrysocolla:STP:]"
-msgstr ""
+msgstr "[IS_GEM:孔雀石:STP:]"
 
 #: inorganic_stone_gem.txt:135
 msgctxt "INORGANIC:SARD"
 msgid "[IS_GEM:sard:STP:]"
-msgstr ""
+msgstr "[IS_GEM:肉红玉髓:STP:]"
 
 #: inorganic_stone_gem.txt:142
 msgctxt "INORGANIC:CARNELIAN"
 msgid "[IS_GEM:carnelian:STP:]"
-msgstr ""
+msgstr "[IS_GEM:红玉髓:STP:]"
 
 #: inorganic_stone_gem.txt:149
 msgctxt "INORGANIC:BANDED AGATE"
 msgid "[IS_GEM:banded agate:STP:]"
-msgstr ""
+msgstr "[IS_GEM:条纹玛瑙:STP:]"
 
 #: inorganic_stone_gem.txt:156
 msgctxt "INORGANIC:SARDONYX"
 msgid "[IS_GEM:sardonyx:sardonyxes:]"
-msgstr ""
+msgstr "[IS_GEM:缠丝玛瑙:缠丝玛瑙:]"
 
 #: inorganic_stone_gem.txt:163
 msgctxt "INORGANIC:CHERRY OPAL"
 msgid "[IS_GEM:cherry opal:STP:]"
-msgstr ""
+msgstr "[IS_GEM:樱桃欧泊:STP:]"
 
 #: inorganic_stone_gem.txt:170
 msgctxt "INORGANIC:LAVENDER JADE"
 msgid "[IS_GEM:lavender jade:STP:]"
-msgstr ""
+msgstr "[IS_GEM:紫翡翠:STP:]"
 
 #: inorganic_stone_gem.txt:177
 msgctxt "INORGANIC:PINK JADE"
 msgid "[IS_GEM:pink jade:STP:]"
-msgstr ""
+msgstr "[IS_GEM:粉红翡翠:STP:]"
 
 #: inorganic_stone_gem.txt:184
 msgctxt "INORGANIC:TUBE AGATE"

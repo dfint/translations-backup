@@ -1,10 +1,11 @@
 # 
 # Translators:
 # insolor, 2022
+# Márton Próba, 2022
 # 
 msgid ""
 msgstr ""
-"Last-Translator: insolor, 2022\n"
+"Last-Translator: Márton Próba, 2022\n"
 "Language-Team: Hungarian (https://www.transifex.com/dwarf-fortress-translation/teams/22396/hu/)\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -11564,12 +11565,12 @@ msgstr ""
 #: creature_domestic.txt:449
 msgctxt "CREATURE:DONKEY"
 msgid "[STATE_NAME:LIQUID:donkey's milk]"
-msgstr ""
+msgstr "[STATE_NAME:LIQUID:szamártej]"
 
 #: creature_domestic.txt:450
 msgctxt "CREATURE:DONKEY"
 msgid "[STATE_ADJ:LIQUID:donkey's milk]"
-msgstr ""
+msgstr "[STATE_ADJ:LIQUID:szamártej]"
 
 #: creature_domestic.txt:451
 msgctxt "CREATURE:DONKEY"
@@ -14299,7 +14300,7 @@ msgstr ""
 #: creature_insects.txt:864
 msgctxt "CREATURE:BUMBLEBEE"
 msgid "[STATE_NAME_ADJ:LIQUID:melted bumblebee wax]"
-msgstr ""
+msgstr "[STATE_NAME_ADJ:LIQUID:olvadt dongóviasz]"
 
 #: creature_insects.txt:865
 msgctxt "CREATURE:BUMBLEBEE"
@@ -16033,7 +16034,7 @@ msgstr ""
 #: creature_large_ocean.txt:1941
 msgctxt "CREATURE:FISH_MILKFISH"
 msgid "[PREFSTRING:silvery bodies]"
-msgstr ""
+msgstr "[PREFSTRING:ezüstös testek]"
 
 #: creature_large_ocean.txt:1979
 msgctxt "CREATURE:FISH_MILKFISH"
@@ -20054,6 +20055,9 @@ msgid ""
 "eating plants.  The groups are lead by a large dominant male with a silver "
 "back.]"
 msgstr ""
+"[DESCRIPTION:Egy hatalmas majom, amely az erdőben található. Kis "
+"csoportokban él és növényeket eszik. A csoportokat egy hatalmas, ezüsthátú, "
+"domináns hím vezeti.]"
 
 #: creature_large_tropical.txt:1561
 msgctxt "CREATURE:GORILLA"
@@ -20367,12 +20371,12 @@ msgstr ""
 #: creature_large_tropical.txt:2112
 msgctxt "CREATURE:GIBBON_SILVERY"
 msgid "[NAME:silvery gibbon:silvery gibbons:silvery gibbon]"
-msgstr ""
+msgstr "[NAME:ezüstös gibbon:ezüstös gibbon:ezüstös gibbon]"
 
 #: creature_large_tropical.txt:2113
 msgctxt "CREATURE:GIBBON_SILVERY"
 msgid "[CASTE_NAME:silvery gibbon:silvery gibbons:silvery gibbon]"
-msgstr ""
+msgstr "[CASTE_NAME:ezüstös gibbon:ezüstös gibbon:ezüstös gibbon]"
 
 #: creature_large_tropical.txt:2125
 msgctxt "CREATURE:GIBBON_SILVERY"
@@ -20859,12 +20863,12 @@ msgstr ""
 #: creature_large_tropical.txt:2846
 msgctxt "CREATURE:CAMEL_2_HUMP"
 msgid "[STATE_NAME:LIQUID:two-humped camel's milk]"
-msgstr ""
+msgstr "[STATE_NAME:LIQUID:kétpúpú tevetej]"
 
 #: creature_large_tropical.txt:2847
 msgctxt "CREATURE:CAMEL_2_HUMP"
 msgid "[STATE_ADJ:LIQUID:two-humped camel's milk]"
-msgstr ""
+msgstr "[STATE_ADJ:LIQUID:kétpúpú tevetej]"
 
 #: creature_large_tropical.txt:2848
 msgctxt "CREATURE:CAMEL_2_HUMP"
@@ -20899,12 +20903,12 @@ msgstr ""
 #: creature_large_tropical.txt:2857
 msgctxt "CREATURE:CAMEL_2_HUMP"
 msgid "[STATE_NAME:LIQUID:melted two-humped camel cheese]"
-msgstr ""
+msgstr "[STATE_NAME:LIQUID:olvadt kétpúpú tevesajt]"
 
 #: creature_large_tropical.txt:2858
 msgctxt "CREATURE:CAMEL_2_HUMP"
 msgid "[STATE_ADJ:LIQUID:melted two-humped camel cheese]"
-msgstr ""
+msgstr "[STATE_ADJ:LIQUID:olvadt kétpúpú tevesajt]"
 
 #: creature_large_tropical.txt:2859
 msgctxt "CREATURE:CAMEL_2_HUMP"
@@ -22759,12 +22763,12 @@ msgstr ""
 #: creature_next_underground.txt:909
 msgctxt "CREATURE:HELMET_SNAKE"
 msgid "[STATE_NAME:LIQUID:helmet snake venom]"
-msgstr ""
+msgstr "[STATE_NAME:LIQUID:sisakkígyó mérge]"
 
 #: creature_next_underground.txt:910
 msgctxt "CREATURE:HELMET_SNAKE"
 msgid "[STATE_ADJ:LIQUID:helmet snake venom]"
-msgstr ""
+msgstr "[STATE_ADJ:LIQUID:sisakkígyó mérge]"
 
 #: creature_next_underground.txt:911
 msgctxt "CREATURE:HELMET_SNAKE"
@@ -23018,12 +23022,12 @@ msgstr ""
 #: creature_next_underground.txt:1347
 msgctxt "CREATURE:BLOOD_MAN"
 msgid "[STATE_NAME:LIQUID:corrupted blood]"
-msgstr ""
+msgstr "[STATE_NAME:LIQUID:megrontott vér]"
 
 #: creature_next_underground.txt:1348
 msgctxt "CREATURE:BLOOD_MAN"
 msgid "[STATE_ADJ:LIQUID:corrupted blood]"
-msgstr ""
+msgstr "[STATE_ADJ:LIQUID:megrontott vér]"
 
 #: creature_next_underground.txt:1349
 msgctxt "CREATURE:BLOOD_MAN"
@@ -23744,12 +23748,12 @@ msgstr ""
 #: creature_next_underground.txt:2522
 msgctxt "CREATURE:CAVE_BLOB"
 msgid "[STATE_NAME:LIQUID:cave blob fluid]"
-msgstr ""
+msgstr "[STATE_NAME:LIQUID:barlangi paca folyadéka]"
 
 #: creature_next_underground.txt:2523
 msgctxt "CREATURE:CAVE_BLOB"
 msgid "[STATE_NAME_ADJ:LIQUID:cave blob fluid]"
-msgstr ""
+msgstr "[STATE_NAME_ADJ:LIQUID:barlangi paca folyadéka]"
 
 #: creature_next_underground.txt:2524
 msgctxt "CREATURE:CAVE_BLOB"
@@ -23863,12 +23867,12 @@ msgstr ""
 #: creature_ocean_new.txt:55
 msgctxt "CREATURE:OCTOPUS"
 msgid "[STATE_NAME:LIQUID:octopus ink]"
-msgstr ""
+msgstr "[STATE_NAME:LIQUID:poliptinta]"
 
 #: creature_ocean_new.txt:56
 msgctxt "CREATURE:OCTOPUS"
 msgid "[STATE_ADJ:LIQUID:octopus ink]"
-msgstr ""
+msgstr "[STATE_ADJ:LIQUID:poliptinta]"
 
 #: creature_ocean_new.txt:57
 msgctxt "CREATURE:OCTOPUS"
@@ -24177,12 +24181,12 @@ msgstr ""
 #: creature_ocean_new.txt:462
 msgctxt "CREATURE:CUTTLEFISH"
 msgid "[STATE_NAME:LIQUID:cuttlefish ink]"
-msgstr ""
+msgstr "[STATE_NAME:LIQUID:tintahal tinta]"
 
 #: creature_ocean_new.txt:463
 msgctxt "CREATURE:CUTTLEFISH"
 msgid "[STATE_ADJ:LIQUID:cuttlefish ink]"
-msgstr ""
+msgstr "[STATE_ADJ:LIQUID:tintahal tinta]"
 
 #: creature_ocean_new.txt:464
 msgctxt "CREATURE:CUTTLEFISH"
@@ -25260,12 +25264,12 @@ msgstr ""
 #: creature_other.txt:470
 msgctxt "CREATURE:SPIDER_PHANTOM"
 msgid "[STATE_NAME:LIQUID:phantom spider venom]"
-msgstr ""
+msgstr "[STATE_NAME:LIQUID:fantompók mérge]"
 
 #: creature_other.txt:471
 msgctxt "CREATURE:SPIDER_PHANTOM"
 msgid "[STATE_ADJ:LIQUID:phantom spider venom]"
-msgstr ""
+msgstr "[STATE_ADJ:LIQUID:fantompók mérge]"
 
 #: creature_other.txt:472
 msgctxt "CREATURE:SPIDER_PHANTOM"
@@ -27989,12 +27993,12 @@ msgstr ""
 #: creature_small_ocean.txt:1471
 msgctxt "CREATURE:SQUID"
 msgid "[STATE_NAME:LIQUID:squid ink]"
-msgstr ""
+msgstr "[STATE_NAME:LIQUID:kalmártinta]"
 
 #: creature_small_ocean.txt:1472
 msgctxt "CREATURE:SQUID"
 msgid "[STATE_ADJ:LIQUID:squid ink]"
-msgstr ""
+msgstr "[STATE_ADJ:LIQUID:kalmártinta]"
 
 #: creature_small_ocean.txt:1473
 msgctxt "CREATURE:SQUID"
@@ -32380,12 +32384,12 @@ msgstr ""
 #: creature_subterranean.txt:1065
 msgctxt "CREATURE:SPIDER_CAVE_GIANT"
 msgid "[STATE_NAME:LIQUID:giant cave spider venom]"
-msgstr ""
+msgstr "[STATE_NAME:LIQUID:óriás barlangi pók mérge]"
 
 #: creature_subterranean.txt:1066
 msgctxt "CREATURE:SPIDER_CAVE_GIANT"
 msgid "[STATE_ADJ:LIQUID:giant cave spider venom]"
-msgstr ""
+msgstr "[STATE_ADJ:LIQUID:óriás barlangi pók mérge]"
 
 #: creature_subterranean.txt:1067
 msgctxt "CREATURE:SPIDER_CAVE_GIANT"
@@ -32450,12 +32454,12 @@ msgstr ""
 #: creature_subterranean.txt:1137
 msgctxt "CREATURE:SPIDER_CAVE"
 msgid "[STATE_NAME:LIQUID:cave spider venom]"
-msgstr ""
+msgstr "[STATE_NAME:LIQUID:barlangi pók mérge]"
 
 #: creature_subterranean.txt:1138
 msgctxt "CREATURE:SPIDER_CAVE"
 msgid "[STATE_ADJ:LIQUID:cave spider venom]"
-msgstr ""
+msgstr "[STATE_ADJ:LIQUID:barlangi pók mérge]"
 
 #: creature_subterranean.txt:1139
 msgctxt "CREATURE:SPIDER_CAVE"
@@ -32960,12 +32964,12 @@ msgstr ""
 #: creature_subterranean.txt:1841
 msgctxt "CREATURE:ELEMENTMAN_IRON"
 msgid "[STATE_NAME:LIQUID:condensed iron man gas]"
-msgstr ""
+msgstr "[STATE_NAME:LIQUID:sűrített vasember-gáz]"
 
 #: creature_subterranean.txt:1842
 msgctxt "CREATURE:ELEMENTMAN_IRON"
 msgid "[STATE_NAME_ADJ:LIQUID:condensed iron man gas]"
-msgstr ""
+msgstr "[STATE_NAME_ADJ:LIQUID:sűrített vasember-gáz]"
 
 #: creature_subterranean.txt:1843
 msgctxt "CREATURE:ELEMENTMAN_IRON"
@@ -33307,12 +33311,12 @@ msgstr ""
 #: creature_subterranean.txt:2466
 msgctxt "CREATURE:SERPENT_MAN"
 msgid "[STATE_NAME:LIQUID:serpent man venom]"
-msgstr ""
+msgstr "[STATE_NAME:LIQUID:kígyóember mérge]"
 
 #: creature_subterranean.txt:2467
 msgctxt "CREATURE:SERPENT_MAN"
 msgid "[STATE_ADJ:LIQUID:serpent man venom]"
-msgstr ""
+msgstr "[STATE_ADJ:LIQUID:kígyóember mérge]"
 
 #: creature_subterranean.txt:2468
 msgctxt "CREATURE:SERPENT_MAN"
@@ -33769,12 +33773,12 @@ msgstr ""
 #: creature_temperate_new.txt:431
 msgctxt "CREATURE:KANGAROO"
 msgid "[STATE_NAME:LIQUID:kangaroo's milk]"
-msgstr ""
+msgstr "[STATE_NAME:LIQUID:kengurutej]"
 
 #: creature_temperate_new.txt:432
 msgctxt "CREATURE:KANGAROO"
 msgid "[STATE_ADJ:LIQUID:kangaroo's milk]"
-msgstr ""
+msgstr "[STATE_ADJ:LIQUID:kengurutej]"
 
 #: creature_temperate_new.txt:433
 msgctxt "CREATURE:KANGAROO"
@@ -33809,12 +33813,12 @@ msgstr ""
 #: creature_temperate_new.txt:442
 msgctxt "CREATURE:KANGAROO"
 msgid "[STATE_NAME:LIQUID:melted kangaroo cheese]"
-msgstr ""
+msgstr "[STATE_NAME:LIQUID:olvadt kengurusajt]"
 
 #: creature_temperate_new.txt:443
 msgctxt "CREATURE:KANGAROO"
 msgid "[STATE_ADJ:LIQUID:melted kangaroo cheese]"
-msgstr ""
+msgstr "[STATE_ADJ:LIQUID:olvadt kengurusajt]"
 
 #: creature_temperate_new.txt:444
 msgctxt "CREATURE:KANGAROO"
@@ -34040,12 +34044,12 @@ msgstr ""
 #: creature_temperate_new.txt:741
 msgctxt "CREATURE:ADDER"
 msgid "[STATE_NAME:LIQUID:adder venom]"
-msgstr ""
+msgstr "[STATE_NAME:LIQUID:viperaméreg]"
 
 #: creature_temperate_new.txt:742
 msgctxt "CREATURE:ADDER"
 msgid "[STATE_ADJ:LIQUID:adder venom]"
-msgstr ""
+msgstr "[STATE_ADJ:LIQUID:viperaméreg]"
 
 #: creature_temperate_new.txt:743
 msgctxt "CREATURE:ADDER"
@@ -34977,12 +34981,12 @@ msgstr ""
 #: creature_temperate_new.txt:2141
 msgctxt "CREATURE:RATTLESNAKE"
 msgid "[STATE_NAME:LIQUID:rattlesnake venom]"
-msgstr ""
+msgstr "[STATE_NAME:LIQUID:csörgőkígyó mérge]"
 
 #: creature_temperate_new.txt:2142
 msgctxt "CREATURE:RATTLESNAKE"
 msgid "[STATE_ADJ:LIQUID:rattlesnake venom]"
-msgstr ""
+msgstr "[STATE_ADJ:LIQUID:csörgőkígyó mérge]"
 
 #: creature_temperate_new.txt:2143
 msgctxt "CREATURE:RATTLESNAKE"
@@ -35134,22 +35138,22 @@ msgstr ""
 #: creature_temperate_new.txt:2382
 msgctxt "CREATURE:WEASEL_MAN"
 msgid "[CASTE_NAME:weasel man:weasel men:weasel man]"
-msgstr ""
+msgstr "[CASTE_NAME:menyétférfi:menyétférfi:menyétférfi]"
 
 #: creature_temperate_new.txt:2384
 msgctxt "CREATURE:WEASEL_MAN"
 msgid "[CASTE_NAME:weasel woman:weasel women:weasel woman]"
-msgstr ""
+msgstr "[CASTE_NAME:menyétnő:menyétnő:menyétnő]"
 
 #: creature_temperate_new.txt:2395
 msgctxt "CREATURE:WEASEL_MAN"
 msgid "[NAME:weasel man:weasel men:weasel man]"
-msgstr ""
+msgstr "[NAME:menyétember:menyétember:menyétember]"
 
 #: creature_temperate_new.txt:2396
 msgctxt "CREATURE:WEASEL_MAN"
 msgid "[DESCRIPTION:A person with the head and tail of a weasel.]"
-msgstr ""
+msgstr "[DESCRIPTION:Olyan személy, akinek menyét feje és farka van.]"
 
 #: creature_temperate_new.txt:2414
 msgctxt "CREATURE:GIANT_WEASEL"
@@ -35214,12 +35218,12 @@ msgstr ""
 #: creature_temperate_new.txt:2484
 msgctxt "CREATURE:COPPERHEAD_SNAKE"
 msgid "[STATE_NAME:LIQUID:copperhead snake venom]"
-msgstr ""
+msgstr "[STATE_NAME:LIQUID:rezesfejű kígyó mérge]"
 
 #: creature_temperate_new.txt:2485
 msgctxt "CREATURE:COPPERHEAD_SNAKE"
 msgid "[STATE_ADJ:LIQUID:copperhead snake venom]"
-msgstr ""
+msgstr "[STATE_ADJ:LIQUID:rezesfejű kígyó mérge]"
 
 #: creature_temperate_new.txt:2486
 msgctxt "CREATURE:COPPERHEAD_SNAKE"
@@ -36217,12 +36221,12 @@ msgstr ""
 #: creature_tropical_new.txt:653
 msgctxt "CREATURE:KING_COBRA"
 msgid "[STATE_NAME:LIQUID:king cobra venom]"
-msgstr ""
+msgstr "[STATE_NAME:LIQUID:királykobra mérge]"
 
 #: creature_tropical_new.txt:654
 msgctxt "CREATURE:KING_COBRA"
 msgid "[STATE_ADJ:LIQUID:king cobra venom]"
-msgstr ""
+msgstr "[STATE_ADJ:LIQUID:királykobra mérge]"
 
 #: creature_tropical_new.txt:655
 msgctxt "CREATURE:KING_COBRA"
@@ -36938,12 +36942,12 @@ msgstr ""
 #: creature_tropical_new.txt:1765
 msgctxt "CREATURE:BLACK_MAMBA"
 msgid "[STATE_NAME:LIQUID:black mamba venom]"
-msgstr ""
+msgstr "[STATE_NAME:LIQUID:fekete mamba mérge]"
 
 #: creature_tropical_new.txt:1766
 msgctxt "CREATURE:BLACK_MAMBA"
 msgid "[STATE_ADJ:LIQUID:black mamba venom]"
-msgstr ""
+msgstr "[STATE_ADJ:LIQUID:fekete mamba mérge]"
 
 #: creature_tropical_new.txt:1767
 msgctxt "CREATURE:BLACK_MAMBA"
@@ -37258,12 +37262,12 @@ msgstr ""
 #: creature_tropical_new.txt:2263
 msgctxt "CREATURE:BUSHMASTER"
 msgid "[STATE_NAME:LIQUID:bushmaster venom]"
-msgstr ""
+msgstr "[STATE_NAME:LIQUID:gödörkésorrú-vipera mérge]"
 
 #: creature_tropical_new.txt:2264
 msgctxt "CREATURE:BUSHMASTER"
 msgid "[STATE_ADJ:LIQUID:bushmaster venom]"
-msgstr ""
+msgstr "[STATE_ADJ:LIQUID:gödörkésorrú-vipera mérge]"
 
 #: creature_tropical_new.txt:2265
 msgctxt "CREATURE:BUSHMASTER"
@@ -37482,12 +37486,12 @@ msgstr ""
 #: creature_tropical_new.txt:2633
 msgctxt "CREATURE:TAPIR"
 msgid "[STATE_NAME:LIQUID:tapir's milk]"
-msgstr ""
+msgstr "[STATE_NAME:LIQUID:tapírtej]"
 
 #: creature_tropical_new.txt:2634
 msgctxt "CREATURE:TAPIR"
 msgid "[STATE_ADJ:LIQUID:tapir's milk]"
-msgstr ""
+msgstr "[STATE_ADJ:LIQUID:tapírtej]"
 
 #: creature_tropical_new.txt:2635
 msgctxt "CREATURE:TAPIR"
@@ -37522,12 +37526,12 @@ msgstr ""
 #: creature_tropical_new.txt:2644
 msgctxt "CREATURE:TAPIR"
 msgid "[STATE_NAME:LIQUID:melted tapir cheese]"
-msgstr ""
+msgstr "[STATE_NAME:LIQUID:olvadt tapírsajt]"
 
 #: creature_tropical_new.txt:2645
 msgctxt "CREATURE:TAPIR"
 msgid "[STATE_ADJ:LIQUID:melted tapir cheese]"
-msgstr ""
+msgstr "[STATE_ADJ:LIQUID:olvadt tapírsajt]"
 
 #: creature_tropical_new.txt:2646
 msgctxt "CREATURE:TAPIR"
@@ -38095,12 +38099,12 @@ msgstr ""
 #: creature_tundra_taiga_new.txt:293
 msgctxt "CREATURE:GIANT_LYNX"
 msgid "[NAME:giant lynx:giant lynx:giant lynx]"
-msgstr ""
+msgstr "[NAME:óriáshiúz:óriáshiúz:óriáshiúz]"
 
 #: creature_tundra_taiga_new.txt:294
 msgctxt "CREATURE:GIANT_LYNX"
 msgid "[CASTE_NAME:giant lynx:giant lynx:giant lynx]"
-msgstr ""
+msgstr "[CASTE_NAME:óriáshiúz:óriáshiúz:óriáshiúz]"
 
 #: creature_tundra_taiga_new.txt:295
 msgctxt "CREATURE:GIANT_LYNX"
@@ -38110,77 +38114,77 @@ msgstr ""
 #: creature_tundra_taiga_new.txt:296
 msgctxt "CREATURE:GIANT_LYNX"
 msgid "[DESCRIPTION:A huge monster in the shape of a lynx.]"
-msgstr ""
+msgstr "[DESCRIPTION:Egy óriási, hiúz alakú szörnyeteg.]"
 
 #: creature_tundra_taiga_new.txt:305
 msgctxt "CREATURE:GIANT_LYNX"
 msgid "[PREFSTRING:ear tufts]"
-msgstr ""
+msgstr "[PREFSTRING:fülpamacsok]"
 
 #: descriptor_color_standard.txt:8
 msgctxt "COLOR:AMBER"
 msgid "[NAME:amber]"
-msgstr ""
+msgstr "[NAME:borostyán]"
 
 #: descriptor_color_standard.txt:13
 msgctxt "COLOR:AMETHYST"
 msgid "[NAME:amethyst]"
-msgstr ""
+msgstr "[NAME:ametiszt]"
 
 #: descriptor_color_standard.txt:18
 msgctxt "COLOR:AQUA"
 msgid "[NAME:aqua]"
-msgstr ""
+msgstr "[NAME:akva]"
 
 #: descriptor_color_standard.txt:23
 msgctxt "COLOR:AQUAMARINE"
 msgid "[NAME:aquamarine]"
-msgstr ""
+msgstr "[NAME:akvamarin]"
 
 #: descriptor_color_standard.txt:28
 msgctxt "COLOR:ASH_GRAY"
 msgid "[NAME:ash gray]"
-msgstr ""
+msgstr "[NAME:hamuszürke]"
 
 #: descriptor_color_standard.txt:33
 msgctxt "COLOR:AUBURN"
 msgid "[NAME:auburn]"
-msgstr ""
+msgstr "[NAME:bordó]"
 
 #: descriptor_color_standard.txt:38
 msgctxt "COLOR:AZURE"
 msgid "[NAME:azure]"
-msgstr ""
+msgstr "[NAME:azúrkék]"
 
 #: descriptor_color_standard.txt:43
 msgctxt "COLOR:BEIGE"
 msgid "[NAME:beige]"
-msgstr ""
+msgstr "[NAME:bézs]"
 
 #: descriptor_color_standard.txt:48
 msgctxt "COLOR:BLACK"
 msgid "[NAME:black]"
-msgstr ""
+msgstr "[NAME:fekete]"
 
 #: descriptor_color_standard.txt:53
 msgctxt "COLOR:BLUE"
 msgid "[NAME:blue]"
-msgstr ""
+msgstr "[NAME:kék]"
 
 #: descriptor_color_standard.txt:58
 msgctxt "COLOR:BRASS"
 msgid "[NAME:brass]"
-msgstr ""
+msgstr "[NAME:sárgaréz]"
 
 #: descriptor_color_standard.txt:63
 msgctxt "COLOR:BRONZE"
 msgid "[NAME:bronze]"
-msgstr ""
+msgstr "[NAME:bronz]"
 
 #: descriptor_color_standard.txt:68
 msgctxt "COLOR:BROWN"
 msgid "[NAME:brown]"
-msgstr ""
+msgstr "[NAME:barna]"
 
 #: descriptor_color_standard.txt:73
 msgctxt "COLOR:BUFF"
@@ -38600,7 +38604,7 @@ msgstr ""
 #: descriptor_color_standard.txt:494
 msgctxt "COLOR:SILVER"
 msgid "[NAME:silver]"
-msgstr ""
+msgstr "[NAME:ezüst]"
 
 #: descriptor_color_standard.txt:499
 msgctxt "COLOR:SKY_BLUE"
@@ -40460,7 +40464,7 @@ msgstr ""
 #: inorganic_metal.txt:11
 msgctxt "INORGANIC:IRON"
 msgid "[STATE_NAME_ADJ:LIQUID:molten iron]"
-msgstr ""
+msgstr "[STATE_NAME_ADJ:LIQUID:olvadt vas]"
 
 #: inorganic_metal.txt:12
 msgctxt "INORGANIC:IRON"
@@ -40485,7 +40489,7 @@ msgstr ""
 #: inorganic_metal.txt:53
 msgctxt "INORGANIC:GOLD"
 msgid "[STATE_NAME_ADJ:LIQUID:molten gold]"
-msgstr ""
+msgstr "[STATE_NAME_ADJ:LIQUID:olvadt arany]"
 
 #: inorganic_metal.txt:54
 msgctxt "INORGANIC:GOLD"
@@ -40495,17 +40499,17 @@ msgstr ""
 #: inorganic_metal.txt:91
 msgctxt "INORGANIC:SILVER"
 msgid "[STATE_NAME_ADJ:ALL_SOLID:silver]"
-msgstr ""
+msgstr "[STATE_NAME_ADJ:ALL_SOLID:ezüst]"
 
 #: inorganic_metal.txt:92
 msgctxt "INORGANIC:SILVER"
 msgid "[STATE_NAME_ADJ:LIQUID:molten silver]"
-msgstr ""
+msgstr "[STATE_NAME_ADJ:LIQUID:olvadt ezüst]"
 
 #: inorganic_metal.txt:93
 msgctxt "INORGANIC:SILVER"
 msgid "[STATE_NAME_ADJ:GAS:boiling silver]"
-msgstr ""
+msgstr "[STATE_NAME_ADJ:GAS:forrásban lévő ezüst]"
 
 #: inorganic_metal.txt:131
 msgctxt "INORGANIC:COPPER"
@@ -40515,7 +40519,7 @@ msgstr ""
 #: inorganic_metal.txt:132
 msgctxt "INORGANIC:COPPER"
 msgid "[STATE_NAME_ADJ:LIQUID:molten copper]"
-msgstr ""
+msgstr "[STATE_NAME_ADJ:LIQUID:olvadt vörösréz]"
 
 #: inorganic_metal.txt:133
 msgctxt "INORGANIC:COPPER"
@@ -40530,7 +40534,7 @@ msgstr ""
 #: inorganic_metal.txt:172
 msgctxt "INORGANIC:NICKEL"
 msgid "[STATE_NAME_ADJ:LIQUID:molten nickel]"
-msgstr ""
+msgstr "[STATE_NAME_ADJ:LIQUID:olvadt nikkel]"
 
 #: inorganic_metal.txt:173
 msgctxt "INORGANIC:NICKEL"
@@ -40545,7 +40549,7 @@ msgstr ""
 #: inorganic_metal.txt:211
 msgctxt "INORGANIC:ZINC"
 msgid "[STATE_NAME_ADJ:LIQUID:molten zinc]"
-msgstr ""
+msgstr "[STATE_NAME_ADJ:LIQUID:olvadt cink]"
 
 #: inorganic_metal.txt:212
 msgctxt "INORGANIC:ZINC"
@@ -40560,7 +40564,7 @@ msgstr ""
 #: inorganic_metal.txt:250
 msgctxt "INORGANIC:BRONZE"
 msgid "[STATE_NAME_ADJ:LIQUID:molten bronze]"
-msgstr ""
+msgstr "[STATE_NAME_ADJ:LIQUID:olvadt bronz]"
 
 #: inorganic_metal.txt:251
 msgctxt "INORGANIC:BRONZE"
@@ -40575,7 +40579,7 @@ msgstr ""
 #: inorganic_metal.txt:290
 msgctxt "INORGANIC:BRASS"
 msgid "[STATE_NAME_ADJ:LIQUID:molten brass]"
-msgstr ""
+msgstr "[STATE_NAME_ADJ:LIQUID:olvadt sárgaréz]"
 
 #: inorganic_metal.txt:291
 msgctxt "INORGANIC:BRASS"
@@ -40590,7 +40594,7 @@ msgstr ""
 #: inorganic_metal.txt:329
 msgctxt "INORGANIC:STEEL"
 msgid "[STATE_NAME_ADJ:LIQUID:molten steel]"
-msgstr ""
+msgstr "[STATE_NAME_ADJ:LIQUID:olvadt acél]"
 
 #: inorganic_metal.txt:330
 msgctxt "INORGANIC:STEEL"
@@ -40605,7 +40609,7 @@ msgstr ""
 #: inorganic_metal.txt:369
 msgctxt "INORGANIC:PIG_IRON"
 msgid "[STATE_NAME_ADJ:LIQUID:molten pig iron]"
-msgstr ""
+msgstr "[STATE_NAME_ADJ:LIQUID:olvadt nyersvas]"
 
 #: inorganic_metal.txt:370
 msgctxt "INORGANIC:PIG_IRON"
@@ -40620,7 +40624,7 @@ msgstr ""
 #: inorganic_metal.txt:404
 msgctxt "INORGANIC:PLATINUM"
 msgid "[STATE_NAME_ADJ:LIQUID:molten platinum]"
-msgstr ""
+msgstr "[STATE_NAME_ADJ:LIQUID:olvadt platina]"
 
 #: inorganic_metal.txt:405
 msgctxt "INORGANIC:PLATINUM"
@@ -40635,7 +40639,7 @@ msgstr ""
 #: inorganic_metal.txt:443
 msgctxt "INORGANIC:ELECTRUM"
 msgid "[STATE_NAME_ADJ:LIQUID:molten electrum]"
-msgstr ""
+msgstr "[STATE_NAME_ADJ:LIQUID:olvadt elektrum]"
 
 #: inorganic_metal.txt:444
 msgctxt "INORGANIC:ELECTRUM"
@@ -40650,7 +40654,7 @@ msgstr ""
 #: inorganic_metal.txt:485
 msgctxt "INORGANIC:TIN"
 msgid "[STATE_NAME_ADJ:LIQUID:molten tin]"
-msgstr ""
+msgstr "[STATE_NAME_ADJ:LIQUID:olvadt bádog]"
 
 #: inorganic_metal.txt:486
 msgctxt "INORGANIC:TIN"
@@ -40665,7 +40669,7 @@ msgstr ""
 #: inorganic_metal.txt:524
 msgctxt "INORGANIC:PEWTER_FINE"
 msgid "[STATE_NAME_ADJ:LIQUID:molten fine pewter]"
-msgstr ""
+msgstr "[STATE_NAME_ADJ:LIQUID:olvadt cin]"
 
 #: inorganic_metal.txt:525
 msgctxt "INORGANIC:PEWTER_FINE"
@@ -40680,7 +40684,7 @@ msgstr ""
 #: inorganic_metal.txt:563
 msgctxt "INORGANIC:PEWTER_TRIFLE"
 msgid "[STATE_NAME_ADJ:LIQUID:molten trifle pewter]"
-msgstr ""
+msgstr "[STATE_NAME_ADJ:LIQUID:olvadt öntőón]"
 
 #: inorganic_metal.txt:564
 msgctxt "INORGANIC:PEWTER_TRIFLE"
@@ -40695,7 +40699,7 @@ msgstr ""
 #: inorganic_metal.txt:602
 msgctxt "INORGANIC:PEWTER_LAY"
 msgid "[STATE_NAME_ADJ:LIQUID:molten lay pewter]"
-msgstr ""
+msgstr "[STATE_NAME_ADJ:LIQUID:olvadt ágyazóón]"
 
 #: inorganic_metal.txt:603
 msgctxt "INORGANIC:PEWTER_LAY"
@@ -40710,7 +40714,7 @@ msgstr ""
 #: inorganic_metal.txt:641
 msgctxt "INORGANIC:LEAD"
 msgid "[STATE_NAME_ADJ:LIQUID:molten lead]"
-msgstr ""
+msgstr "[STATE_NAME_ADJ:LIQUID:olvadt ólom]"
 
 #: inorganic_metal.txt:642
 msgctxt "INORGANIC:LEAD"
@@ -40725,7 +40729,7 @@ msgstr ""
 #: inorganic_metal.txt:680
 msgctxt "INORGANIC:ALUMINUM"
 msgid "[STATE_NAME_ADJ:LIQUID:molten aluminum]"
-msgstr ""
+msgstr "[STATE_NAME_ADJ:LIQUID:olvadt alumínium]"
 
 #: inorganic_metal.txt:681
 msgctxt "INORGANIC:ALUMINUM"
@@ -40735,17 +40739,17 @@ msgstr ""
 #: inorganic_metal.txt:719
 msgctxt "INORGANIC:NICKEL_SILVER"
 msgid "[STATE_NAME_ADJ:ALL_SOLID:nickel silver]"
-msgstr ""
+msgstr "[STATE_NAME_ADJ:ALL_SOLID:nikkelezüst]"
 
 #: inorganic_metal.txt:720
 msgctxt "INORGANIC:NICKEL_SILVER"
 msgid "[STATE_NAME_ADJ:LIQUID:molten nickel silver]"
-msgstr ""
+msgstr "[STATE_NAME_ADJ:LIQUID:olvadt nikkelezüst]"
 
 #: inorganic_metal.txt:721
 msgctxt "INORGANIC:NICKEL_SILVER"
 msgid "[STATE_NAME_ADJ:GAS:boiling nickel silver]"
-msgstr ""
+msgstr "[STATE_NAME_ADJ:GAS:forrásban lévő nikkelezüst]"
 
 #: inorganic_metal.txt:759
 msgctxt "INORGANIC:BILLON"
@@ -40755,7 +40759,7 @@ msgstr ""
 #: inorganic_metal.txt:760
 msgctxt "INORGANIC:BILLON"
 msgid "[STATE_NAME_ADJ:LIQUID:molten billon]"
-msgstr ""
+msgstr "[STATE_NAME_ADJ:LIQUID:olvadt rézezüst]"
 
 #: inorganic_metal.txt:761
 msgctxt "INORGANIC:BILLON"
@@ -40765,12 +40769,12 @@ msgstr ""
 #: inorganic_metal.txt:800
 msgctxt "INORGANIC:STERLING_SILVER"
 msgid "[STATE_NAME_ADJ:ALL_SOLID:sterling silver]"
-msgstr ""
+msgstr "[STATE_NAME_ADJ:ALL_SOLID:sterling ezüst]"
 
 #: inorganic_metal.txt:801
 msgctxt "INORGANIC:STERLING_SILVER"
 msgid "[STATE_NAME_ADJ:LIQUID:molten sterling silver]"
-msgstr ""
+msgstr "[STATE_NAME_ADJ:LIQUID:olvadt sterling ezüst]"
 
 #: inorganic_metal.txt:802
 msgctxt "INORGANIC:STERLING_SILVER"
@@ -40785,7 +40789,7 @@ msgstr ""
 #: inorganic_metal.txt:845
 msgctxt "INORGANIC:BLACK_BRONZE"
 msgid "[STATE_NAME_ADJ:LIQUID:molten black bronze]"
-msgstr ""
+msgstr "[STATE_NAME_ADJ:LIQUID:olvadt feketebronz]"
 
 #: inorganic_metal.txt:846
 msgctxt "INORGANIC:BLACK_BRONZE"
@@ -40800,7 +40804,7 @@ msgstr ""
 #: inorganic_metal.txt:886
 msgctxt "INORGANIC:ROSE_GOLD"
 msgid "[STATE_NAME_ADJ:LIQUID:molten rose gold]"
-msgstr ""
+msgstr "[STATE_NAME_ADJ:LIQUID:olvadt rózsaarany]"
 
 #: inorganic_metal.txt:887
 msgctxt "INORGANIC:ROSE_GOLD"
@@ -40815,7 +40819,7 @@ msgstr ""
 #: inorganic_metal.txt:926
 msgctxt "INORGANIC:BISMUTH"
 msgid "[STATE_NAME_ADJ:LIQUID:molten bismuth]"
-msgstr ""
+msgstr "[STATE_NAME_ADJ:LIQUID:olvadt bizmut]"
 
 #: inorganic_metal.txt:927
 msgctxt "INORGANIC:BISMUTH"
@@ -40830,7 +40834,7 @@ msgstr ""
 #: inorganic_metal.txt:962
 msgctxt "INORGANIC:BISMUTH_BRONZE"
 msgid "[STATE_NAME_ADJ:LIQUID:molten bismuth bronze]"
-msgstr ""
+msgstr "[STATE_NAME_ADJ:LIQUID:olvadt bizmutbronz]"
 
 #: inorganic_metal.txt:963
 msgctxt "INORGANIC:BISMUTH_BRONZE"
@@ -40845,7 +40849,7 @@ msgstr ""
 #: inorganic_metal.txt:1002
 msgctxt "INORGANIC:ADAMANTINE"
 msgid "[STATE_NAME_ADJ:LIQUID:molten adamantine]"
-msgstr ""
+msgstr "[STATE_NAME_ADJ:LIQUID:olvadt adamantin]"
 
 #: inorganic_metal.txt:1003
 msgctxt "INORGANIC:ADAMANTINE"
@@ -41725,7 +41729,7 @@ msgstr ""
 #: inorganic_stone_mineral.txt:55
 msgctxt "INORGANIC:NATIVE_GOLD"
 msgid "[STATE_NAME_ADJ:LIQUID:molten native gold]"
-msgstr ""
+msgstr "[STATE_NAME_ADJ:LIQUID:olvadt természetes arany]"
 
 #: inorganic_stone_mineral.txt:56
 msgctxt "INORGANIC:NATIVE_GOLD"
@@ -41735,22 +41739,22 @@ msgstr ""
 #: inorganic_stone_mineral.txt:94
 msgctxt "INORGANIC:NATIVE_SILVER"
 msgid "[STONE_NAME:silver nuggets]"
-msgstr ""
+msgstr "[STONE_NAME:ezüströgök]"
 
 #: inorganic_stone_mineral.txt:95
 msgctxt "INORGANIC:NATIVE_SILVER"
 msgid "[STATE_NAME_ADJ:ALL_SOLID:native silver]"
-msgstr ""
+msgstr "[STATE_NAME_ADJ:ALL_SOLID:természetes ezüst]"
 
 #: inorganic_stone_mineral.txt:96
 msgctxt "INORGANIC:NATIVE_SILVER"
 msgid "[STATE_NAME_ADJ:LIQUID:molten native silver]"
-msgstr ""
+msgstr "[STATE_NAME_ADJ:LIQUID:olvadt természetes ezüst]"
 
 #: inorganic_stone_mineral.txt:97
 msgctxt "INORGANIC:NATIVE_SILVER"
 msgid "[STATE_NAME_ADJ:GAS:boiling native silver]"
-msgstr ""
+msgstr "[STATE_NAME_ADJ:GAS:forrásban lévő természetes ezüst]"
 
 #: inorganic_stone_mineral.txt:131
 msgctxt "INORGANIC:NATIVE_COPPER"
@@ -41765,7 +41769,7 @@ msgstr ""
 #: inorganic_stone_mineral.txt:137
 msgctxt "INORGANIC:NATIVE_COPPER"
 msgid "[STATE_NAME_ADJ:LIQUID:molten native copper]"
-msgstr ""
+msgstr "[STATE_NAME_ADJ:LIQUID:olvadt természetes vörösréz]"
 
 #: inorganic_stone_mineral.txt:138
 msgctxt "INORGANIC:NATIVE_COPPER"
@@ -41815,7 +41819,7 @@ msgstr ""
 #: inorganic_stone_mineral.txt:263
 msgctxt "INORGANIC:NATIVE_PLATINUM"
 msgid "[STATE_NAME_ADJ:LIQUID:molten native platinum]"
-msgstr ""
+msgstr "[STATE_NAME_ADJ:LIQUID:olvadt természetes platina]"
 
 #: inorganic_stone_mineral.txt:264
 msgctxt "INORGANIC:NATIVE_PLATINUM"
@@ -41840,7 +41844,7 @@ msgstr ""
 #: inorganic_stone_mineral.txt:335
 msgctxt "INORGANIC:HORN_SILVER"
 msgid "[STATE_NAME_ADJ:ALL_SOLID:horn silver]"
-msgstr ""
+msgstr "[STATE_NAME_ADJ:ALL_SOLID:szarvezüst]"
 
 #: inorganic_stone_mineral.txt:348
 msgctxt "INORGANIC:GYPSUM"
@@ -41965,7 +41969,7 @@ msgstr ""
 #: inorganic_stone_mineral.txt:600
 msgctxt "INORGANIC:NATIVE_ALUMINUM"
 msgid "[STATE_NAME_ADJ:LIQUID:molten native aluminum]"
-msgstr ""
+msgstr "[STATE_NAME_ADJ:LIQUID:olvadt természetes alumínium]"
 
 #: inorganic_stone_mineral.txt:601
 msgctxt "INORGANIC:NATIVE_ALUMINUM"
@@ -42055,7 +42059,7 @@ msgstr ""
 #: inorganic_stone_mineral.txt:800
 msgctxt "INORGANIC:RAW_ADAMANTINE"
 msgid "[STATE_NAME_ADJ:LIQUID:molten raw adamantine]"
-msgstr ""
+msgstr "[STATE_NAME_ADJ:LIQUID:olvadt nyers adamantin]"
 
 #: inorganic_stone_mineral.txt:801
 msgctxt "INORGANIC:RAW_ADAMANTINE"
@@ -42185,12 +42189,12 @@ msgstr ""
 #: material_template_default.txt:11
 msgctxt "MATERIAL_TEMPLATE:STONE_TEMPLATE"
 msgid "[STATE_NAME:LIQUID:magma]"
-msgstr ""
+msgstr "[STATE_NAME:LIQUID:magma]"
 
 #: material_template_default.txt:12
 msgctxt "MATERIAL_TEMPLATE:STONE_TEMPLATE"
 msgid "[STATE_ADJ:LIQUID:magma]"
-msgstr ""
+msgstr "[STATE_ADJ:LIQUID:magma]"
 
 #: material_template_default.txt:14
 msgctxt "MATERIAL_TEMPLATE:STONE_TEMPLATE"
@@ -42215,12 +42219,12 @@ msgstr ""
 #: material_template_default.txt:68
 msgctxt "MATERIAL_TEMPLATE:METAL_TEMPLATE"
 msgid "[STATE_NAME:LIQUID:molten metal]"
-msgstr ""
+msgstr "[STATE_NAME:LIQUID:olvadt fém]"
 
 #: material_template_default.txt:69
 msgctxt "MATERIAL_TEMPLATE:METAL_TEMPLATE"
 msgid "[STATE_ADJ:LIQUID:molten metal]"
-msgstr ""
+msgstr "[STATE_ADJ:LIQUID:olvadt fém]"
 
 #: material_template_default.txt:71
 msgctxt "MATERIAL_TEMPLATE:METAL_TEMPLATE"
@@ -42245,12 +42249,12 @@ msgstr ""
 #: material_template_default.txt:112
 msgctxt "MATERIAL_TEMPLATE:WOOD_TEMPLATE"
 msgid "[STATE_NAME:LIQUID:n/a]"
-msgstr ""
+msgstr "[STATE_NAME:LIQUID:n/a]"
 
 #: material_template_default.txt:113
 msgctxt "MATERIAL_TEMPLATE:WOOD_TEMPLATE"
 msgid "[STATE_ADJ:LIQUID:n/a]"
-msgstr ""
+msgstr "[STATE_ADJ:LIQUID:n/a]"
 
 #: material_template_default.txt:115
 msgctxt "MATERIAL_TEMPLATE:WOOD_TEMPLATE"
@@ -42275,12 +42279,12 @@ msgstr ""
 #: material_template_default.txt:163
 msgctxt "MATERIAL_TEMPLATE:SKIN_TEMPLATE"
 msgid "[STATE_NAME:LIQUID:n/a]"
-msgstr ""
+msgstr "[STATE_NAME:LIQUID:n/a]"
 
 #: material_template_default.txt:164
 msgctxt "MATERIAL_TEMPLATE:SKIN_TEMPLATE"
 msgid "[STATE_ADJ:LIQUID:n/a]"
-msgstr ""
+msgstr "[STATE_ADJ:LIQUID:n/a]"
 
 #: material_template_default.txt:166
 msgctxt "MATERIAL_TEMPLATE:SKIN_TEMPLATE"
@@ -42305,12 +42309,12 @@ msgstr ""
 #: material_template_default.txt:212
 msgctxt "MATERIAL_TEMPLATE:FAT_TEMPLATE"
 msgid "[STATE_NAME:LIQUID:grease]"
-msgstr ""
+msgstr "[STATE_NAME:LIQUID:zsír]"
 
 #: material_template_default.txt:213
 msgctxt "MATERIAL_TEMPLATE:FAT_TEMPLATE"
 msgid "[STATE_ADJ:LIQUID:greasy]"
-msgstr ""
+msgstr "[STATE_ADJ:LIQUID:zsíros]"
 
 #: material_template_default.txt:215
 msgctxt "MATERIAL_TEMPLATE:FAT_TEMPLATE"
@@ -42335,12 +42339,12 @@ msgstr ""
 #: material_template_default.txt:263
 msgctxt "MATERIAL_TEMPLATE:MUSCLE_TEMPLATE"
 msgid "[STATE_NAME:LIQUID:n/a]"
-msgstr ""
+msgstr "[STATE_NAME:LIQUID:n/a]"
 
 #: material_template_default.txt:264
 msgctxt "MATERIAL_TEMPLATE:MUSCLE_TEMPLATE"
 msgid "[STATE_ADJ:LIQUID:n/a]"
-msgstr ""
+msgstr "[STATE_ADJ:LIQUID:n/a]"
 
 #: material_template_default.txt:266
 msgctxt "MATERIAL_TEMPLATE:MUSCLE_TEMPLATE"
@@ -42370,12 +42374,12 @@ msgstr ""
 #: material_template_default.txt:316
 msgctxt "MATERIAL_TEMPLATE:SINEW_TEMPLATE"
 msgid "[STATE_NAME:LIQUID:n/a]"
-msgstr ""
+msgstr "[STATE_NAME:LIQUID:n/a]"
 
 #: material_template_default.txt:317
 msgctxt "MATERIAL_TEMPLATE:SINEW_TEMPLATE"
 msgid "[STATE_ADJ:LIQUID:n/a]"
-msgstr ""
+msgstr "[STATE_ADJ:LIQUID:n/a]"
 
 #: material_template_default.txt:319
 msgctxt "MATERIAL_TEMPLATE:SINEW_TEMPLATE"
@@ -42410,12 +42414,12 @@ msgstr ""
 #: material_template_default.txt:363
 msgctxt "MATERIAL_TEMPLATE:BONE_TEMPLATE"
 msgid "[STATE_NAME:LIQUID:n/a]"
-msgstr ""
+msgstr "[STATE_NAME:LIQUID:n/a]"
 
 #: material_template_default.txt:364
 msgctxt "MATERIAL_TEMPLATE:BONE_TEMPLATE"
 msgid "[STATE_ADJ:LIQUID:n/a]"
-msgstr ""
+msgstr "[STATE_ADJ:LIQUID:n/a]"
 
 #: material_template_default.txt:366
 msgctxt "MATERIAL_TEMPLATE:BONE_TEMPLATE"
@@ -42440,12 +42444,12 @@ msgstr ""
 #: material_template_default.txt:410
 msgctxt "MATERIAL_TEMPLATE:CARTILAGE_TEMPLATE"
 msgid "[STATE_NAME:LIQUID:n/a]"
-msgstr ""
+msgstr "[STATE_NAME:LIQUID:n/a]"
 
 #: material_template_default.txt:411
 msgctxt "MATERIAL_TEMPLATE:CARTILAGE_TEMPLATE"
 msgid "[STATE_ADJ:LIQUID:n/a]"
-msgstr ""
+msgstr "[STATE_ADJ:LIQUID:n/a]"
 
 #: material_template_default.txt:413
 msgctxt "MATERIAL_TEMPLATE:CARTILAGE_TEMPLATE"
@@ -42470,12 +42474,12 @@ msgstr ""
 #: material_template_default.txt:455
 msgctxt "MATERIAL_TEMPLATE:HAIR_TEMPLATE"
 msgid "[STATE_NAME:LIQUID:n/a]"
-msgstr ""
+msgstr "[STATE_NAME:LIQUID:n/a]"
 
 #: material_template_default.txt:456
 msgctxt "MATERIAL_TEMPLATE:HAIR_TEMPLATE"
 msgid "[STATE_ADJ:LIQUID:n/a]"
-msgstr ""
+msgstr "[STATE_ADJ:LIQUID:n/a]"
 
 #: material_template_default.txt:458
 msgctxt "MATERIAL_TEMPLATE:HAIR_TEMPLATE"
@@ -42500,12 +42504,12 @@ msgstr ""
 #: material_template_default.txt:501
 msgctxt "MATERIAL_TEMPLATE:FEATHER_TEMPLATE"
 msgid "[STATE_NAME:LIQUID:n/a]"
-msgstr ""
+msgstr "[STATE_NAME:LIQUID:n/a]"
 
 #: material_template_default.txt:502
 msgctxt "MATERIAL_TEMPLATE:FEATHER_TEMPLATE"
 msgid "[STATE_ADJ:LIQUID:n/a]"
-msgstr ""
+msgstr "[STATE_ADJ:LIQUID:n/a]"
 
 #: material_template_default.txt:504
 msgctxt "MATERIAL_TEMPLATE:FEATHER_TEMPLATE"
@@ -42530,12 +42534,12 @@ msgstr ""
 #: material_template_default.txt:546
 msgctxt "MATERIAL_TEMPLATE:SCALE_TEMPLATE"
 msgid "[STATE_NAME:LIQUID:n/a]"
-msgstr ""
+msgstr "[STATE_NAME:LIQUID:n/a]"
 
 #: material_template_default.txt:547
 msgctxt "MATERIAL_TEMPLATE:SCALE_TEMPLATE"
 msgid "[STATE_ADJ:LIQUID:n/a]"
-msgstr ""
+msgstr "[STATE_ADJ:LIQUID:n/a]"
 
 #: material_template_default.txt:549
 msgctxt "MATERIAL_TEMPLATE:SCALE_TEMPLATE"
@@ -43070,7 +43074,7 @@ msgstr ""
 #: material_template_default.txt:1346
 msgctxt "MATERIAL_TEMPLATE:PARCHMENT_TEMPLATE"
 msgid "[STATE_ADJ:LIQUID:n/a]"
-msgstr ""
+msgstr "[STATE_ADJ:LIQUID:n/a]"
 
 #: material_template_default.txt:1348
 msgctxt "MATERIAL_TEMPLATE:PARCHMENT_TEMPLATE"
@@ -43095,12 +43099,12 @@ msgstr ""
 #: material_template_default.txt:1390
 msgctxt "MATERIAL_TEMPLATE:HORN_TEMPLATE"
 msgid "[STATE_NAME:LIQUID:n/a]"
-msgstr ""
+msgstr "[STATE_NAME:LIQUID:n/a]"
 
 #: material_template_default.txt:1391
 msgctxt "MATERIAL_TEMPLATE:HORN_TEMPLATE"
 msgid "[STATE_ADJ:LIQUID:n/a]"
-msgstr ""
+msgstr "[STATE_ADJ:LIQUID:n/a]"
 
 #: material_template_default.txt:1393
 msgctxt "MATERIAL_TEMPLATE:HORN_TEMPLATE"
@@ -43125,12 +43129,12 @@ msgstr ""
 #: material_template_default.txt:1436
 msgctxt "MATERIAL_TEMPLATE:HOOF_TEMPLATE"
 msgid "[STATE_NAME:LIQUID:n/a]"
-msgstr ""
+msgstr "[STATE_NAME:LIQUID:n/a]"
 
 #: material_template_default.txt:1437
 msgctxt "MATERIAL_TEMPLATE:HOOF_TEMPLATE"
 msgid "[STATE_ADJ:LIQUID:n/a]"
-msgstr ""
+msgstr "[STATE_ADJ:LIQUID:n/a]"
 
 #: material_template_default.txt:1439
 msgctxt "MATERIAL_TEMPLATE:HOOF_TEMPLATE"
@@ -43155,12 +43159,12 @@ msgstr ""
 #: material_template_default.txt:1483
 msgctxt "MATERIAL_TEMPLATE:PEARL_TEMPLATE"
 msgid "[STATE_NAME:LIQUID:n/a]"
-msgstr ""
+msgstr "[STATE_NAME:LIQUID:n/a]"
 
 #: material_template_default.txt:1484
 msgctxt "MATERIAL_TEMPLATE:PEARL_TEMPLATE"
 msgid "[STATE_ADJ:LIQUID:n/a]"
-msgstr ""
+msgstr "[STATE_ADJ:LIQUID:n/a]"
 
 #: material_template_default.txt:1486
 msgctxt "MATERIAL_TEMPLATE:PEARL_TEMPLATE"
@@ -43185,12 +43189,12 @@ msgstr ""
 #: material_template_default.txt:1528
 msgctxt "MATERIAL_TEMPLATE:SILK_TEMPLATE"
 msgid "[STATE_NAME:LIQUID:n/a]"
-msgstr ""
+msgstr "[STATE_NAME:LIQUID:n/a]"
 
 #: material_template_default.txt:1529
 msgctxt "MATERIAL_TEMPLATE:SILK_TEMPLATE"
 msgid "[STATE_ADJ:LIQUID:n/a]"
-msgstr ""
+msgstr "[STATE_ADJ:LIQUID:n/a]"
 
 #: material_template_default.txt:1531
 msgctxt "MATERIAL_TEMPLATE:SILK_TEMPLATE"
@@ -43215,12 +43219,12 @@ msgstr ""
 #: material_template_default.txt:1573
 msgctxt "MATERIAL_TEMPLATE:BLOOD_TEMPLATE"
 msgid "[STATE_NAME:LIQUID:blood]"
-msgstr ""
+msgstr "[STATE_NAME:LIQUID:vér]"
 
 #: material_template_default.txt:1574
 msgctxt "MATERIAL_TEMPLATE:BLOOD_TEMPLATE"
 msgid "[STATE_ADJ:LIQUID:blood]"
-msgstr ""
+msgstr "[STATE_ADJ:LIQUID:vér]"
 
 #: material_template_default.txt:1576
 msgctxt "MATERIAL_TEMPLATE:BLOOD_TEMPLATE"
@@ -43365,12 +43369,12 @@ msgstr ""
 #: material_template_default.txt:1802
 msgctxt "MATERIAL_TEMPLATE:SHELL_TEMPLATE"
 msgid "[STATE_NAME:LIQUID:n/a]"
-msgstr ""
+msgstr "[STATE_NAME:LIQUID:n/a]"
 
 #: material_template_default.txt:1803
 msgctxt "MATERIAL_TEMPLATE:SHELL_TEMPLATE"
 msgid "[STATE_ADJ:LIQUID:n/a]"
-msgstr ""
+msgstr "[STATE_ADJ:LIQUID:n/a]"
 
 #: material_template_default.txt:1805
 msgctxt "MATERIAL_TEMPLATE:SHELL_TEMPLATE"
@@ -43395,12 +43399,12 @@ msgstr ""
 #: material_template_default.txt:1849
 msgctxt "MATERIAL_TEMPLATE:SOAP_TEMPLATE"
 msgid "[STATE_NAME:LIQUID:melted soap]"
-msgstr ""
+msgstr "[STATE_NAME:LIQUID:olvadt szappan]"
 
 #: material_template_default.txt:1850
 msgctxt "MATERIAL_TEMPLATE:SOAP_TEMPLATE"
 msgid "[STATE_ADJ:LIQUID:melted soap]"
-msgstr ""
+msgstr "[STATE_ADJ:LIQUID:olvadt szappan]"
 
 #: material_template_default.txt:1852
 msgctxt "MATERIAL_TEMPLATE:SOAP_TEMPLATE"
@@ -43425,12 +43429,12 @@ msgstr ""
 #: material_template_default.txt:1895
 msgctxt "MATERIAL_TEMPLATE:TALLOW_TEMPLATE"
 msgid "[STATE_NAME:LIQUID:melted tallow]"
-msgstr ""
+msgstr "[STATE_NAME:LIQUID:olvadt faggyú]"
 
 #: material_template_default.txt:1896
 msgctxt "MATERIAL_TEMPLATE:TALLOW_TEMPLATE"
 msgid "[STATE_ADJ:LIQUID:melted tallow]"
-msgstr ""
+msgstr "[STATE_ADJ:LIQUID:olvadt faggyú]"
 
 #: material_template_default.txt:1898
 msgctxt "MATERIAL_TEMPLATE:TALLOW_TEMPLATE"
@@ -43455,12 +43459,12 @@ msgstr ""
 #: material_template_default.txt:1945
 msgctxt "MATERIAL_TEMPLATE:CHITIN_TEMPLATE"
 msgid "[STATE_NAME:LIQUID:n/a]"
-msgstr ""
+msgstr "[STATE_NAME:LIQUID:n/a]"
 
 #: material_template_default.txt:1946
 msgctxt "MATERIAL_TEMPLATE:CHITIN_TEMPLATE"
 msgid "[STATE_ADJ:LIQUID:n/a]"
-msgstr ""
+msgstr "[STATE_ADJ:LIQUID:n/a]"
 
 #: material_template_default.txt:1948
 msgctxt "MATERIAL_TEMPLATE:CHITIN_TEMPLATE"
@@ -43485,12 +43489,12 @@ msgstr ""
 #: material_template_default.txt:1990
 msgctxt "MATERIAL_TEMPLATE:MILK_TEMPLATE"
 msgid "[STATE_NAME:LIQUID:milk]"
-msgstr ""
+msgstr "[STATE_NAME:LIQUID:tejes]"
 
 #: material_template_default.txt:1991
 msgctxt "MATERIAL_TEMPLATE:MILK_TEMPLATE"
 msgid "[STATE_ADJ:LIQUID:milky]"
-msgstr ""
+msgstr "[STATE_ADJ:LIQUID:tejes]"
 
 #: material_template_default.txt:1993
 msgctxt "MATERIAL_TEMPLATE:MILK_TEMPLATE"
@@ -43515,7 +43519,7 @@ msgstr ""
 #: material_template_default.txt:2041
 msgctxt "MATERIAL_TEMPLATE:CREATURE_CHEESE_TEMPLATE"
 msgid "[STATE_NAME:LIQUID:melted cheese]"
-msgstr ""
+msgstr "[STATE_NAME:LIQUID:olvadt sajt]"
 
 #: material_template_default.txt:2042
 msgctxt "MATERIAL_TEMPLATE:CREATURE_CHEESE_TEMPLATE"
@@ -53381,7 +53385,7 @@ msgstr ""
 #: plant_standard.txt:2085
 msgctxt "PLANT:BIRCH"
 msgid "[PREFSTRING:silver bark]"
-msgstr ""
+msgstr "[PREFSTRING:ezüstkéreg]"
 
 #: plant_standard.txt:2086
 msgctxt "PLANT:BIRCH"
@@ -55355,7 +55359,7 @@ msgstr ""
 #: reaction_smelter.txt:161
 msgctxt "REACTION:NICKEL_SILVER_MAKING"
 msgid "[NAME:make nickel silver bars]"
-msgstr ""
+msgstr "[NAME:nikkelezüst rudak készítése]"
 
 #: reaction_smelter.txt:171
 msgctxt "REACTION:BLACK_BRONZE_MAKING"
@@ -55365,7 +55369,7 @@ msgstr ""
 #: reaction_smelter.txt:181
 msgctxt "REACTION:STERLING_SILVER_MAKING"
 msgid "[NAME:make sterling silver bars]"
-msgstr ""
+msgstr "[NAME:sterling ezüst rudak készítése]"
 
 #: reaction_smelter.txt:190
 msgctxt "REACTION:ROSE_GOLD_MAKING"

@@ -1,10 +1,12 @@
 # 
 # Translators:
 # insolor, 2022
+# smileme77 <leo_priv@gmx.net>, 2022
+# Markus L. <mslplaysgames@gmail.com>, 2022
 # 
 msgid ""
 msgstr ""
-"Last-Translator: insolor, 2022\n"
+"Last-Translator: Markus L. <mslplaysgames@gmail.com>, 2022\n"
 "Language-Team: German (https://www.transifex.com/dwarf-fortress-translation/teams/22396/de/)\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -3744,7 +3746,7 @@ msgstr "[INDIVIDUAL_NAME:zweier oberer linker Prämolar:STP]"
 #: body_default.txt:1734
 msgctxt "BODY:TEETH"
 msgid "[INDIVIDUAL_NAME:first upper left molar:STP]"
-msgstr "[INDIVIDUAL_NAME:erste obere linke Backenzahn:STP"
+msgstr "[INDIVIDUAL_NAME:erste obere linke Backenzahn:STP]"
 
 #: body_default.txt:1735
 msgctxt "BODY:TEETH"
@@ -5205,17 +5207,19 @@ msgstr "[TISSUE_NAME:Schwamm:NP]"
 #: building_custom.txt:6
 msgctxt "BUILDING_WORKSHOP:SOAP_MAKER"
 msgid "[NAME:Soap Maker's Workshop]"
-msgstr "[NAME:Seifenwerkstatt]"
+msgstr "[NAME:Seifensiederwerkstatt]"
 
 #: building_custom.txt:41
 msgctxt "BUILDING_WORKSHOP:SOAP_MAKER"
 msgid "[TOOLTIP:Use tallow (rendered fat) or oil here with lye to make soap.]"
 msgstr ""
+"[TOOLTIP: Verwenden hier Talg (geschmolzenes Fett) oder Öl mit Lauge, um "
+"Seife herzustellen]."
 
 #: building_custom.txt:44
 msgctxt "BUILDING_WORKSHOP:SCREW_PRESS"
 msgid "[NAME:Screw Press]"
-msgstr "[NAME:Schraubenbremse]"
+msgstr "[NAME:Spindelpresse]"
 
 #: building_custom.txt:56
 msgctxt "BUILDING_WORKSHOP:SCREW_PRESS"
@@ -5224,6 +5228,10 @@ msgid ""
 "plants might need to be milled first before they can be used.  Empty jugs "
 "are required to store the liquid products.]"
 msgstr ""
+"[TOOLTIP: Eine nützliche Werkstatt zum Pressen von Flüssigkeiten aus "
+"verschiedenen Rohstoffen. Einige Pflanzen müssen möglicherweise erst "
+"gemahlen werden, bevor sie verwendet werden können. Zur Aufbewahrung der "
+"flüssigen Produkte werden leere Krüge benötigt]."
 
 #: c_variation_default.txt:189
 msgctxt "CREATURE_VARIATION:ANIMAL_PERSON"
@@ -5597,12 +5605,12 @@ msgstr ""
 #: creature_amphibians.txt:7
 msgctxt "CREATURE:TOAD"
 msgid "[NAME:toad:toads:toad]"
-msgstr "[NAME:Pilz:Pilze:Pilz]"
+msgstr "[NAME:Kröte:Kröten:Kröte]"
 
 #: creature_amphibians.txt:8
 msgctxt "CREATURE:TOAD"
 msgid "[CASTE_NAME:toad:toads:toad]"
-msgstr "[CASTE_NAME:Pilz:Pilze:Pilz]"
+msgstr "[CASTE_NAME:Kröte:Kröten:Kröte]"
 
 #: creature_amphibians.txt:17
 msgctxt "CREATURE:TOAD"
@@ -5627,37 +5635,38 @@ msgstr "[TLCM_NOUN:Augen:PLURAL]"
 #: creature_amphibians.txt:75
 msgctxt "CREATURE:TOAD_MAN"
 msgid "[CASTE_NAME:toad man:toad men:toad man]"
-msgstr "[CASTE_NAME:Pilzmann:Pilzmänner:Pilzmann]"
+msgstr "[CASTE_NAME:Krötenmännchen:Krötenmännchen:Krötenmännchen]"
 
 #: creature_amphibians.txt:77
 msgctxt "CREATURE:TOAD_MAN"
 msgid "[CASTE_NAME:toad woman:toad women:toad woman]"
-msgstr "[CASTE_NAME:Pilzfrau:Pilzfrauen:Pilzfrau]"
+msgstr "[CASTE_NAME:Krötenweibchen:Krötenweibchen:Kröztenweibchen]"
 
 #: creature_amphibians.txt:87
 msgctxt "CREATURE:TOAD_MAN"
 msgid "[NAME:toad man:toad men:toad man]"
-msgstr "[NAME:Pilzmensch:Pilzmenschen:Pilzmensch]"
+msgstr "[NAME:Krötenmännchen:Krötenmännchen:Krötenmännchen]"
 
 #: creature_amphibians.txt:88
 msgctxt "CREATURE:TOAD_MAN"
 msgid "[DESCRIPTION:A dark green man with the distinct head of a toad.]"
-msgstr "[DESCRIPTION:Ein dunkelgrüner Mensch mit dem Kopf einer Kröte.]"
+msgstr ""
+"[DESCRIPTION:Ein dunkelgrüner Mann mit dem markanten Kopf einer Kröte.]"
 
 #: creature_amphibians.txt:104
 msgctxt "CREATURE:GIANT_TOAD"
 msgid "[NAME:giant toad:giant toads:giant toad]"
-msgstr "[NAME:Riesenpilz:Riesenpilze:Riesenpilz]"
+msgstr "[NAME:Riesenkröte:Riesenkröten:Riesenkröte]"
 
 #: creature_amphibians.txt:105
 msgctxt "CREATURE:GIANT_TOAD"
 msgid "[CASTE_NAME:giant toad:giant toads:giant toad]"
-msgstr "[CASTE_NAME:Riesenpilz:Riesenpilze:Riesenpilz]"
+msgstr "[CASTE_NAME:Riesenkröte:Riesenkröten:Riesenkröte]"
 
 #: creature_amphibians.txt:106
 msgctxt "CREATURE:GIANT_TOAD"
 msgid "[DESCRIPTION:A huge monster in the shape of a toad.]"
-msgstr "[DESCRIPTION: Ein riesiges Monster, in Form eines Pilzes.]"
+msgstr "[DESCRIPTION: Ein riesiges Ungeheuer, in Form eines Pilzes.]"
 
 #: creature_amphibians.txt:115
 msgctxt "CREATURE:GIANT_TOAD"
@@ -5670,8 +5679,8 @@ msgid ""
 "[DESCRIPTION:A tiny burrowing creature, found in moist soil.  It is legless,"
 " long and thin.]"
 msgstr ""
-"[DESCRIPTION:Eine kleine, in feuchtem Erdboden lebende Kreatur, die Tunnel "
-"gräbt. Sie hat keine Beine, ist lang und dünn.]"
+"[DESCRIPTION:Ein winziges, wühlendes Wesen, das in feuchter Erde lebt. Es "
+"ist beinlos, lang und dünn.]"
 
 #: creature_annelids.txt:7
 msgctxt "CREATURE:WORM"
@@ -5706,12 +5715,12 @@ msgstr "[TLCM_NOUN:Haut:SINGULAR]"
 #: creature_annelids.txt:59
 msgctxt "CREATURE:WORM_MAN"
 msgid "[NAME:worm man:worm men:worm man]"
-msgstr "[NAME:Wurmmensch:Wurmmenschen:Wurmmensch]"
+msgstr "[NAME:Wurmmännchen:Wurmmännchen:Wurmmännchen]"
 
 #: creature_annelids.txt:60
 msgctxt "CREATURE:WORM_MAN"
 msgid "[CASTE_NAME:worm man:worm men:worm man]"
-msgstr "[CASTE_NAME:Wurmmann:Wurmmänner:Wurmmann]"
+msgstr "[CASTE_NAME:Wurmmännchen:Wurmmännchen:Wurmmännchen]"
 
 #: creature_annelids.txt:61
 msgctxt "CREATURE:WORM_MAN"
@@ -5724,8 +5733,8 @@ msgid ""
 "[DESCRIPTION:A small blue-crested bird living in temperate woodlands, known "
 "for its harsh chirps.]"
 msgstr ""
-"[DESCRIPTION:Ein kleiner, blau gesprenkelter Vogel, heimisch in gemäßigten "
-"Wäldern. Sein Gezwitscher klingt harsch.]"
+"[DESCRIPTION:Ein kleiner Blauschopfvogel, der in den Wäldern der gemäßigten "
+"Zone lebt und für sein raues Zwitschern bekannt ist.]"
 
 #: creature_birds.txt:7
 msgctxt "CREATURE:BIRD_BLUEJAY"
@@ -5775,17 +5784,17 @@ msgstr "[TLCM_NOUN:Augen:PLURAL]"
 #: creature_birds.txt:115
 msgctxt "CREATURE:BLUEJAY_MAN"
 msgid "[CASTE_NAME:bluejay man:bluejay men:bluejay man]"
-msgstr "[CASTE_NAME:Blauhähermann:Blauhähermänner:Blauhähermann]"
+msgstr "[CASTE_NAME:Blauhähermännchen:Blauhähermännchen:Blauhähermännchen]"
 
 #: creature_birds.txt:117
 msgctxt "CREATURE:BLUEJAY_MAN"
 msgid "[CASTE_NAME:bluejay woman:bluejay women:bluejay woman]"
-msgstr "[CASTE_NAME:Blauhäherfrau:Blauhäherfrauen:Blauhäherfrau]"
+msgstr "[CASTE_NAME:Blauhäherweibchen:Blauhäherweibchen:Blauhäherweibchen]"
 
 #: creature_birds.txt:129
 msgctxt "CREATURE:BLUEJAY_MAN"
 msgid "[NAME:bluejay man:bluejay men:bluejay man]"
-msgstr "[NAME:Blauhähermensch:Blauhähermenschen:Blauhähermenschen]"
+msgstr "[NAME:Blauhähermännchen:Blauhähermännchen:Blauhähermännchen]"
 
 #: creature_birds.txt:130
 msgctxt "CREATURE:BLUEJAY_MAN"
@@ -9504,7 +9513,7 @@ msgstr "[CASTE_NAME:Adler:Adler:Adler]"
 #: creature_birds_new.txt:3826
 msgctxt "CREATURE:BIRD_EAGLE"
 msgid "[GENERAL_CHILD_NAME:eaglet:eaglets]"
-msgstr ""
+msgstr "[GENERAL_CHILD_NAME:Adlerhorst:Adlerhorste]"
 
 #: creature_birds_new.txt:3854
 msgctxt "CREATURE:BIRD_EAGLE"
@@ -10221,12 +10230,12 @@ msgstr "[TLCM_NOUN:Augen:PLURAL]"
 #: creature_bug_slug_new.txt:410
 msgctxt "CREATURE:BARK_SCORPION_MAN"
 msgid "[CVCT_TARGET:bark scorpion]"
-msgstr ""
+msgstr "[CVCT_TARGET:Rindenskorpion]"
 
 #: creature_bug_slug_new.txt:411
 msgctxt "CREATURE:BARK_SCORPION_MAN"
 msgid "[CVCT_REPLACEMENT:bark scorpion man]"
-msgstr ""
+msgstr "[CVCT_REPLACEMENT:Rindenskorpionmännchen]"
 
 #: creature_bug_slug_new.txt:428
 msgctxt "CREATURE:BARK_SCORPION_MAN"
@@ -10258,12 +10267,12 @@ msgstr ""
 #: creature_bug_slug_new.txt:451
 msgctxt "CREATURE:GIANT_BARK_SCORPION"
 msgid "[CVCT_TARGET:bark scorpion]"
-msgstr ""
+msgstr "[CVCT_TARGET:Rindenskorpion]"
 
 #: creature_bug_slug_new.txt:452
 msgctxt "CREATURE:GIANT_BARK_SCORPION"
 msgid "[CVCT_REPLACEMENT:giant bark scorpion]"
-msgstr ""
+msgstr "[CVCT_REPLACEMENT:Riesenrindenskorpion]"
 
 #: creature_bug_slug_new.txt:473
 msgctxt "CREATURE:GIANT_BARK_SCORPION"
@@ -10491,7 +10500,7 @@ msgstr "[TLCM_NOUN:Augen:PLURAL]"
 #: creature_bug_slug_new.txt:770
 msgctxt "CREATURE:LOUSE_MAN"
 msgid "[CASTE_NAME:louse man:louse men:louse man]"
-msgstr "[CASTE_NAME:Läusemann:Läusemänner:Läusemann]"
+msgstr "[CASTE_NAME:Läusemännchen:Läusemännchen:Läusemännchen]"
 
 #: creature_bug_slug_new.txt:772
 msgctxt "CREATURE:LOUSE_MAN"
@@ -13962,7 +13971,7 @@ msgstr "[NAME:Greif:Greifen:Greif]"
 #: creature_fanciful.txt:29
 msgctxt "CREATURE:GRIFFON"
 msgid "[CASTE_NAME:griffon:griffons:griffon]"
-msgstr ""
+msgstr "[CASTE_NAME:Gänsegeier:Gänsegeier:Gänsegeier]"
 
 #: creature_fanciful.txt:33
 msgctxt "CREATURE:GRIFFON"
@@ -17543,12 +17552,12 @@ msgstr "[TLCM_NOUN:Augen:PLURAL]"
 #: creature_large_riverlake.txt:635
 msgctxt "CREATURE:PLATYPUS MAN"
 msgid "[CVCT_TARGET:platypus]"
-msgstr ""
+msgstr "[CVCT_TARGET:Schnabeltier]"
 
 #: creature_large_riverlake.txt:636
 msgctxt "CREATURE:PLATYPUS MAN"
 msgid "[CVCT_REPLACEMENT:platypus man]"
-msgstr ""
+msgstr "[CVCT_REPLACEMENT:Schnabeltiermännchen]"
 
 #: creature_large_riverlake.txt:653
 msgctxt "CREATURE:PLATYPUS MAN"
@@ -17581,12 +17590,12 @@ msgstr ""
 #: creature_large_riverlake.txt:690
 msgctxt "CREATURE:PLATYPUS, GIANT"
 msgid "[CVCT_TARGET:platypus]"
-msgstr ""
+msgstr "[CVCT_TARGET:Schnabeltier]"
 
 #: creature_large_riverlake.txt:691
 msgctxt "CREATURE:PLATYPUS, GIANT"
 msgid "[CVCT_REPLACEMENT:giant platypus]"
-msgstr ""
+msgstr "[CVCT_REPLACEMENT:Riesenschnabeltier]"
 
 #: creature_large_riverlake.txt:711
 msgctxt "CREATURE:PLATYPUS, GIANT"
@@ -18224,17 +18233,19 @@ msgstr "[TLCM_NOUN:Augen:PLURAL]"
 msgctxt "CREATURE:MACAQUE_RHESUS_MAN"
 msgid "[CASTE_NAME:rhesus macaque man:rhesus macaque men:rhesus macaque man]"
 msgstr ""
+"[CASTE_NAME:Rhesusaffenmännchen:Rhesusaffenmännchen:Rhesusaffenmännchen]"
 
 #: creature_large_temperate.txt:875
 msgctxt "CREATURE:MACAQUE_RHESUS_MAN"
 msgid ""
 "[CASTE_NAME:rhesus macaque woman:rhesus macaque women:rhesus macaque woman]"
 msgstr ""
+"[CASTE_NAME:Rhesusaffenweibchen:Rhesusaffenweibchen:Rhesusaffenweibchen]"
 
 #: creature_large_temperate.txt:886
 msgctxt "CREATURE:MACAQUE_RHESUS_MAN"
 msgid "[NAME:rhesus macaque man:rhesus macaque men:rhesus macaque man]"
-msgstr ""
+msgstr "[NAME:Rhesusaffenmännchen:Rhesusaffenmännchen:Rhesusaffenmännchen]"
 
 #: creature_large_temperate.txt:887
 msgctxt "CREATURE:MACAQUE_RHESUS_MAN"
@@ -18319,17 +18330,17 @@ msgstr "[TLCM_NOUN:Augen:PLURAL]"
 #: creature_large_temperate.txt:1023
 msgctxt "CREATURE:COUGAR_MAN"
 msgid "[CASTE_NAME:cougar man:cougar men:cougar man]"
-msgstr ""
+msgstr "[CASTE_NAME:Pumamännchen:Pumamännchen:Pumamännchen]"
 
 #: creature_large_temperate.txt:1025
 msgctxt "CREATURE:COUGAR_MAN"
 msgid "[CASTE_NAME:cougar woman:cougar women:cougar woman]"
-msgstr ""
+msgstr "[CASTE_NAME:Pumaweibchen:Pumaweibchen:Pumaweibchen]"
 
 #: creature_large_temperate.txt:1036
 msgctxt "CREATURE:COUGAR_MAN"
 msgid "[NAME:cougar man:cougar men:cougar man]"
-msgstr ""
+msgstr "[NAME:Pumamännchen:Pumamännchen:Pumamännchen]"
 
 #: creature_large_temperate.txt:1037
 msgctxt "CREATURE:COUGAR_MAN"
@@ -18418,17 +18429,17 @@ msgstr "[TLCM_NOUN:Augen:PLURAL]"
 #: creature_large_temperate.txt:1174
 msgctxt "CREATURE:WOLF_MAN"
 msgid "[CASTE_NAME:wolf man:wolf men:wolf man]"
-msgstr ""
+msgstr "[CASTE_NAME:Wolfsrüde:Wolfsrüden:Wolfsrüde]"
 
 #: creature_large_temperate.txt:1176
 msgctxt "CREATURE:WOLF_MAN"
 msgid "[CASTE_NAME:wolf woman:wolf women:wolf woman]"
-msgstr ""
+msgstr "[CASTE_NAME:Wolfshündin:Wolfshündinnen:Wolfshündin]"
 
 #: creature_large_temperate.txt:1187
 msgctxt "CREATURE:WOLF_MAN"
 msgid "[NAME:wolf man:wolf men:wolf man]"
-msgstr ""
+msgstr "[NAME:Wolfsrüde:Wolfsrüden:Wolfsrüde]"
 
 #: creature_large_temperate.txt:1188
 msgctxt "CREATURE:WOLF_MAN"
@@ -18517,7 +18528,7 @@ msgstr "[TLCM_NOUN:Augen:PLURAL]"
 #: creature_large_temperate.txt:1324
 msgctxt "CREATURE:GROUNDHOG_MAN"
 msgid "[CASTE_NAME:groundhog man:groundhog men:groundhog man]"
-msgstr ""
+msgstr "[CASTE_NAME:groundhog man:groundhog men:groundhog man]"
 
 #: creature_large_temperate.txt:1326
 msgctxt "CREATURE:GROUNDHOG_MAN"
@@ -31802,6 +31813,9 @@ msgid ""
 "[DESCRIPTION:A large humanoid monster from the wild tundra.  It has "
 "translucent skin, icicles for teeth, red glowing eyes and pointed ears.]"
 msgstr ""
+"[DESCRIPTION:Ein großes humanoides Ungeheuer aus der wilden Tundra. Es hat "
+"durchscheinende Haut, Eiszapfen als Zähne, rot glühende Augen und spitze "
+"Ohren]."
 
 #: creature_standard.txt:3830
 msgctxt "CREATURE:BLIZZARD_MAN"
@@ -31915,7 +31929,7 @@ msgstr "[TLCM_NOUN:Augen:PLURAL]"
 #: creature_standard.txt:4004
 msgctxt "CREATURE:FAIRY"
 msgid "[DESCRIPTION:A tiny, giggling humanoid with lacy wings.]"
-msgstr ""
+msgstr "[DESCRIPTION:Ein kleiner, kichernder Humanoid mit Spitzenflügeln]."
 
 #: creature_standard.txt:4005
 msgctxt "CREATURE:FAIRY"
@@ -32122,6 +32136,9 @@ msgid ""
 "[DESCRIPTION:A creature from the evil swamp.  It resembles a squat, wingless"
 " bird with powerful beak and legs.  Its blotchy skin is brightly colored.]"
 msgstr ""
+"[DESCRIPTION:Eine Kreatur aus dem Sumpf des Bösen. Er ähnelt einem "
+"hockenden, flügellosen Vogel mit kräftigem Schnabel und Beinen. Seine "
+"fleckige Haut ist hell gefärbt]."
 
 #: creature_standard.txt:4404
 msgctxt "CREATURE:BEAK_DOG"
@@ -32218,6 +32235,8 @@ msgid ""
 "[DESCRIPTION:A man-shaped creature with the legs of a goat and the empty-"
 "eyed skull of a goat.]"
 msgstr ""
+"[DESCRIPTION:Eine menschenähnliche Kreatur mit den Beinen einer Ziege und "
+"einen Schädel ohne Augen einer Ziege]."
 
 #: creature_standard.txt:4574
 msgctxt "CREATURE:BLENDEC_FOUL"
@@ -32285,6 +32304,8 @@ msgid ""
 "[DESCRIPTION:A large, four-armed ape creature with three eyes and razor-"
 "sharp teeth.]"
 msgstr ""
+"[DESCRIPTION:Ein großes, vierarmiges Affenwesen mit drei Augen und "
+"rasiermesserscharfen Zähnen]."
 
 #: creature_standard.txt:4692
 msgctxt "CREATURE:STRANGLER"
@@ -32348,6 +32369,9 @@ msgid ""
 "It has the head of a jackal with needle-like horns protruding through its "
 "mane.]"
 msgstr ""
+"[DESCRIPTION:Ein fliegendes Ungeheuer mit gespannter Haut über seinem "
+"ausgemergelten Körper. Es hat den Kopf eines Schakals mit nadelartigen "
+"Hörnern, die aus seiner Mähne herausragen]."
 
 #: creature_standard.txt:4784
 msgctxt "CREATURE:NIGHTWING"
@@ -32430,6 +32454,8 @@ msgid ""
 "[DESCRIPTION:A monster in the shape of a woman with a bird's wings in place "
 "of arms and talons for feet.]"
 msgstr ""
+"[DESCRIPTION:Ein Ungeheuer in Form einer Frau mit Vogelflügeln anstelle der "
+"Arme und Krallen als Füße]."
 
 #: creature_standard.txt:4872
 msgctxt "CREATURE:HARPY"
@@ -32525,6 +32551,8 @@ msgstr "[TLCM_NOUN:Augen:PLURAL]"
 msgctxt "CREATURE:HYDRA"
 msgid "[DESCRIPTION:A giant dragon-like monster with seven biting heads.]"
 msgstr ""
+"[DESCRIPTION:Ein riesiges drachenähnliches Monster mit sieben bissigen "
+"Köpfen]."
 
 #: creature_standard.txt:5052
 msgctxt "CREATURE:HYDRA"
@@ -32566,6 +32594,8 @@ msgctxt "CREATURE:MERPERSON"
 msgid ""
 "[DESCRIPTION:A man-like creature with the tail of a fish instead of legs.]"
 msgstr ""
+"[DESCRIPTION:Eine menschenähnliche Kreatur mit dem Schwanz eines Fisches "
+"anstelle von Beinen]."
 
 #: creature_standard.txt:5159
 msgctxt "CREATURE:MERPERSON"
@@ -32752,6 +32782,8 @@ msgctxt "CREATURE:SEA_MONSTER"
 msgid ""
 "[DESCRIPTION:A giant creature with many eyes and arms to terrify the sea.]"
 msgstr ""
+"[DESCRIPTION:Eine riesige Kreatur mit vielen Augen und Armen, um das Meer zu"
+" erschrecken]."
 
 #: creature_standard.txt:5503
 msgctxt "CREATURE:SEA_MONSTER"
@@ -32799,6 +32831,9 @@ msgid ""
 "[DESCRIPTION:A bird of prey so large and ferocious it dwarfs many dragons.  "
 "All beneath its mighty wings should fear the sky.]"
 msgstr ""
+"[DESCRIPTION:Ein Raubvogel, der so groß und grausam ist, dass er viele "
+"Drachen in den Schatten stellt. Alle unter seinen mächtigen Flügeln sollten "
+"den Himmel fürchten]."
 
 #: creature_standard.txt:5585
 msgctxt "CREATURE:BIRD_ROC"
@@ -32856,6 +32891,8 @@ msgid ""
 "[DESCRIPTION:A huge, predatory reptile with pale, colorless scales and red "
 "eyes.  It lives in caves and ambushes its prey.]"
 msgstr ""
+"[DESCRIPTION:Ein riesiges, räuberisches Reptil mit blassen, farblosen "
+"Schuppen und roten Augen. Es lebt in Höhlen und lauert seiner Beute auf]."
 
 #: creature_subterranean.txt:7
 msgctxt "CREATURE:CROCODILE_CAVE"
@@ -50338,12 +50375,12 @@ msgstr ""
 #: plant_new_trees.txt:290
 msgctxt "PLANT:COFFEE"
 msgid "[STATE_ADJ:ALL_SOLID:coffee wood]"
-msgstr ""
+msgstr "[STATE_ADJ:ALL_SOLID:Kaffeeholz]"
 
 #: plant_new_trees.txt:308
 msgctxt "PLANT:COFFEE"
 msgid "[SEED:coffee bean:coffee beans:]"
-msgstr ""
+msgstr "[SEED:Kaffeebohne:Kaffeebohnen:]"
 
 #: plant_new_trees.txt:322
 msgctxt "PLANT:COFFEE"
@@ -50353,77 +50390,77 @@ msgstr "[PREFSTRING:leckere Kirschen]"
 #: plant_new_trees.txt:327
 msgctxt "PLANT:COFFEE"
 msgid "[GROWTH_NAME:coffee leaf:coffee leaves]"
-msgstr ""
+msgstr "[GROWTH_NAME:Kaffeeblatt:Kaffeeblätter]"
 
 #: plant_new_trees.txt:334
 msgctxt "PLANT:COFFEE"
 msgid "[GROWTH_NAME:coffee flower cluster:STP]"
-msgstr ""
+msgstr "[GROWTH_NAME:Kaffeeblumenbüschel:STP]"
 
 #: plant_new_trees.txt:341
 msgctxt "PLANT:COFFEE"
 msgid "[GROWTH_NAME:coffee cherry:coffee cherries]"
-msgstr ""
+msgstr "[GROWTH_NAME:Kaffeekirsche:Kaffeekirschen]"
 
 #: plant_new_trees.txt:353
 msgctxt "PLANT:DURIAN"
 msgid "[NAME:durian tree]"
-msgstr ""
+msgstr "[NAME:Durianbaum]"
 
 #: plant_new_trees.txt:353
 msgctxt "PLANT:DURIAN"
 msgid "[NAME_PLURAL:durian trees]"
-msgstr ""
+msgstr "[NAME_PLURAL:Durianbäume]"
 
 #: plant_new_trees.txt:353
 msgctxt "PLANT:DURIAN"
 msgid "[ADJ:durian tree]"
-msgstr "[ADJ:Stinkfruchtbaum]"
+msgstr "[ADJ:Durianbaum]"
 
 #: plant_new_trees.txt:357
 msgctxt "PLANT:DURIAN"
 msgid "[STATE_NAME:ALL_SOLID:durian wood]"
-msgstr ""
+msgstr "[STATE_NAME:ALL_SOLID:Durianholz]"
 
 #: plant_new_trees.txt:358
 msgctxt "PLANT:DURIAN"
 msgid "[STATE_ADJ:ALL_SOLID:durian wood]"
-msgstr ""
+msgstr "[STATE_ADJ:ALL_SOLID:Durianholz]"
 
 #: plant_new_trees.txt:363
 msgctxt "PLANT:DURIAN"
 msgid "[STATE_NAME_ADJ:ALL_SOLID:frozen durian wine]"
-msgstr ""
+msgstr "[STATE_NAME_ADJ:ALL_SOLID:gefrorener Durianwein]"
 
 #: plant_new_trees.txt:364
 msgctxt "PLANT:DURIAN"
 msgid "[STATE_NAME_ADJ:LIQUID:durian wine]"
-msgstr ""
+msgstr "[STATE_NAME_ADJ:LIQUID:Durianwein]"
 
 #: plant_new_trees.txt:365
 msgctxt "PLANT:DURIAN"
 msgid "[STATE_NAME_ADJ:GAS:boiling durian wine]"
-msgstr ""
+msgstr "[STATE_NAME_ADJ:GAS:kochender Durianwein]"
 
 #: plant_new_trees.txt:392
 msgctxt "PLANT:DURIAN"
 msgid "[SEED:durian seed:durian seeds:]"
-msgstr ""
+msgstr "[SEED:Duriansamen:Duriansamen:]"
 
 #: plant_new_trees.txt:406
 msgctxt "PLANT:DURIAN"
 msgid "[PREFSTRING:fragrant fruit]"
-msgstr ""
+msgstr "[PREFSTRING:duftende Frucht]"
 
 #: plant_new_trees.txt:411
 msgctxt "PLANT:DURIAN"
 msgid "[GROWTH_NAME:durian leaf:durian leaves]"
-msgstr ""
+msgstr "[GROWTH_NAME:Durianblatt:Durianblätter]"
 
 #: plant_new_trees.txt:418
 msgctxt "PLANT:DURIAN"
 msgid "[GROWTH_NAME:durian flower:STP]"
-msgstr ""
+msgstr "[GROWTH_NAME:Durianblume:STP]"
 
 #: plant_new_trees.txt:425
 msgctxt "PLANT:DURIAN"
@@ -50433,12 +50470,12 @@ msgstr "[GROWTH_NAME:Durianfrucht:STP]"
 #: plant_new_trees.txt:435
 msgctxt "PLANT:GUAVA"
 msgid "[NAME:guava tree]"
-msgstr ""
+msgstr "[NAME:Guavenbaum]"
 
 #: plant_new_trees.txt:435
 msgctxt "PLANT:GUAVA"
 msgid "[NAME_PLURAL:guava trees]"
-msgstr ""
+msgstr "[NAME_PLURAL:Guavenbäume]"
 
 #: plant_new_trees.txt:435
 msgctxt "PLANT:GUAVA"
@@ -50448,32 +50485,32 @@ msgstr "[ADJ:Guavenbaum]"
 #: plant_new_trees.txt:439
 msgctxt "PLANT:GUAVA"
 msgid "[STATE_NAME:ALL_SOLID:guava wood]"
-msgstr ""
+msgstr "[STATE_NAME:ALL_SOLID:Guavenholz]"
 
 #: plant_new_trees.txt:440
 msgctxt "PLANT:GUAVA"
 msgid "[STATE_ADJ:ALL_SOLID:guava wood]"
-msgstr ""
+msgstr "[STATE_ADJ:ALL_SOLID:Guavenholz]"
 
 #: plant_new_trees.txt:445
 msgctxt "PLANT:GUAVA"
 msgid "[STATE_NAME_ADJ:ALL_SOLID:frozen guava wine]"
-msgstr ""
+msgstr "[STATE_NAME_ADJ:ALL_SOLID:gefrorenes Guavenholz]"
 
 #: plant_new_trees.txt:446
 msgctxt "PLANT:GUAVA"
 msgid "[STATE_NAME_ADJ:LIQUID:guava wine]"
-msgstr ""
+msgstr "[STATE_NAME_ADJ:LIQUID:Guavenwein]"
 
 #: plant_new_trees.txt:447
 msgctxt "PLANT:GUAVA"
 msgid "[STATE_NAME_ADJ:GAS:boiling guava wine]"
-msgstr ""
+msgstr "[STATE_NAME_ADJ:GAS:kochender Guavenwein]"
 
 #: plant_new_trees.txt:473
 msgctxt "PLANT:GUAVA"
 msgid "[SEED:guava seed:guava seeds:]"
-msgstr ""
+msgstr "[SEED:Guavensamen:Guavensamen:]"
 
 #: plant_new_trees.txt:487
 msgctxt "PLANT:GUAVA"
@@ -50483,12 +50520,12 @@ msgstr "[PREFSTRING:Frucht]"
 #: plant_new_trees.txt:492
 msgctxt "PLANT:GUAVA"
 msgid "[GROWTH_NAME:guava leaf:guava leaves]"
-msgstr ""
+msgstr "[GROWTH_NAME:Guavenblatt:Guavenblätter]"
 
 #: plant_new_trees.txt:499
 msgctxt "PLANT:GUAVA"
 msgid "[GROWTH_NAME:guava flower:STP]"
-msgstr ""
+msgstr "[GROWTH_NAME:Guavenblume:STP]"
 
 #: plant_new_trees.txt:506
 msgctxt "PLANT:GUAVA"
@@ -50498,12 +50535,12 @@ msgstr "[GROWTH_NAME:Guave:STP]"
 #: plant_new_trees.txt:516
 msgctxt "PLANT:PAPAYA"
 msgid "[NAME:papaya tree]"
-msgstr ""
+msgstr "[NAME:Papayabaum]"
 
 #: plant_new_trees.txt:516
 msgctxt "PLANT:PAPAYA"
 msgid "[NAME_PLURAL:papaya trees]"
-msgstr ""
+msgstr "[NAME_PLURAL:Papayabäume]"
 
 #: plant_new_trees.txt:516
 msgctxt "PLANT:PAPAYA"
@@ -50513,32 +50550,32 @@ msgstr "[ADJ:Papayabaum]"
 #: plant_new_trees.txt:520
 msgctxt "PLANT:PAPAYA"
 msgid "[STATE_NAME:ALL_SOLID:papaya wood]"
-msgstr ""
+msgstr "[STATE_NAME:ALL_SOLID:Papayaholz]"
 
 #: plant_new_trees.txt:521
 msgctxt "PLANT:PAPAYA"
 msgid "[STATE_ADJ:ALL_SOLID:papaya wood]"
-msgstr ""
+msgstr "[STATE_ADJ:ALL_SOLID:Papayaholz]"
 
 #: plant_new_trees.txt:526
 msgctxt "PLANT:PAPAYA"
 msgid "[STATE_NAME_ADJ:ALL_SOLID:frozen papaya wine]"
-msgstr ""
+msgstr "[STATE_NAME_ADJ:ALL_SOLID:gefrorener Papayawein]"
 
 #: plant_new_trees.txt:527
 msgctxt "PLANT:PAPAYA"
 msgid "[STATE_NAME_ADJ:LIQUID:papaya wine]"
-msgstr ""
+msgstr "[STATE_NAME_ADJ:LIQUID:Papayawein]"
 
 #: plant_new_trees.txt:528
 msgctxt "PLANT:PAPAYA"
 msgid "[STATE_NAME_ADJ:GAS:boiling papaya wine]"
-msgstr ""
+msgstr "[STATE_NAME_ADJ:GAS:kochender Papayawein]"
 
 #: plant_new_trees.txt:554
 msgctxt "PLANT:PAPAYA"
 msgid "[SEED:papaya seed:papaya seeds:]"
-msgstr ""
+msgstr "[SEED:Papayasamen:Papayasamen:]"
 
 #: plant_new_trees.txt:567
 msgctxt "PLANT:PAPAYA"
@@ -50548,12 +50585,12 @@ msgstr "[PREFSTRING:Frucht]"
 #: plant_new_trees.txt:572
 msgctxt "PLANT:PAPAYA"
 msgid "[GROWTH_NAME:papaya leaf:papaya leaves]"
-msgstr ""
+msgstr "[GROWTH_NAME:Papayablatt:Papayablätter]"
 
 #: plant_new_trees.txt:579
 msgctxt "PLANT:PAPAYA"
 msgid "[GROWTH_NAME:papaya flower:STP]"
-msgstr ""
+msgstr "[GROWTH_NAME:Papayablume:STP]"
 
 #: plant_new_trees.txt:586
 msgctxt "PLANT:PAPAYA"
@@ -50563,32 +50600,32 @@ msgstr "[GROWTH_NAME:Papaya:STP]"
 #: plant_new_trees.txt:596
 msgctxt "PLANT:PARADISE_NUT"
 msgid "[NAME:paradise nut tree]"
-msgstr ""
+msgstr "[NAME:Paradiesnussbaum]"
 
 #: plant_new_trees.txt:596
 msgctxt "PLANT:PARADISE_NUT"
 msgid "[NAME_PLURAL:paradise nut trees]"
-msgstr ""
+msgstr "[NAME_PLURAL:Paradiesnussbäume]"
 
 #: plant_new_trees.txt:596
 msgctxt "PLANT:PARADISE_NUT"
 msgid "[ADJ:paradise nut tree]"
-msgstr ""
+msgstr "[ADJ:Paradiesnussbaum]"
 
 #: plant_new_trees.txt:600
 msgctxt "PLANT:PARADISE_NUT"
 msgid "[STATE_NAME:ALL_SOLID:paradise nut wood]"
-msgstr ""
+msgstr "[STATE_NAME:ALL_SOLID:Paradiesnussholz]"
 
 #: plant_new_trees.txt:601
 msgctxt "PLANT:PARADISE_NUT"
 msgid "[STATE_ADJ:ALL_SOLID:paradise nut wood]"
-msgstr ""
+msgstr "[STATE_ADJ:ALL_SOLID:Paradiesnussholz]"
 
 #: plant_new_trees.txt:621
 msgctxt "PLANT:PARADISE_NUT"
 msgid "[SEED:paradise nut:paradise nuts:]"
-msgstr ""
+msgstr "[SEED:Paradiesnuss:Paradiesnüsse]"
 
 #: plant_new_trees.txt:635
 msgctxt "PLANT:PARADISE_NUT"
@@ -50598,27 +50635,27 @@ msgstr "[PREFSTRING:nussgefüllte Töpfe]"
 #: plant_new_trees.txt:640
 msgctxt "PLANT:PARADISE_NUT"
 msgid "[GROWTH_NAME:paradise nut leaf:paradise nut leaves]"
-msgstr ""
+msgstr "[GROWTH_NAME:Paradiesnussblatt:Paradiesnussblätter]"
 
 #: plant_new_trees.txt:647
 msgctxt "PLANT:PARADISE_NUT"
 msgid "[GROWTH_NAME:paradise nut raceme:STP]"
-msgstr ""
+msgstr "[GROWTH_NAME:Paradiesnuss-Traube:STP]"
 
 #: plant_new_trees.txt:654
 msgctxt "PLANT:PARADISE_NUT"
 msgid "[GROWTH_NAME:paradise nut fruit:STP]"
-msgstr ""
+msgstr "[GROWTH_NAME:Paradiesnussfrucht:STP]"
 
 #: plant_new_trees.txt:664
 msgctxt "PLANT:RAMBUTAN"
 msgid "[NAME:rambutan tree]"
-msgstr ""
+msgstr "[NAME:Rambutanbaum]"
 
 #: plant_new_trees.txt:664
 msgctxt "PLANT:RAMBUTAN"
 msgid "[NAME_PLURAL:rambutan trees]"
-msgstr ""
+msgstr "[NAME_PLURAL:Rambutanbäume]"
 
 #: plant_new_trees.txt:664
 msgctxt "PLANT:RAMBUTAN"
@@ -50628,32 +50665,32 @@ msgstr "[ADJ:Rambutanbaum]"
 #: plant_new_trees.txt:668
 msgctxt "PLANT:RAMBUTAN"
 msgid "[STATE_NAME:ALL_SOLID:rambutan wood]"
-msgstr ""
+msgstr "[STATE_NAME:ALL_SOLID:Rambutanholz]"
 
 #: plant_new_trees.txt:669
 msgctxt "PLANT:RAMBUTAN"
 msgid "[STATE_ADJ:ALL_SOLID:rambutan wood]"
-msgstr ""
+msgstr "[STATE_ADJ:ALL_SOLID:Rambutanbaum]"
 
 #: plant_new_trees.txt:674
 msgctxt "PLANT:RAMBUTAN"
 msgid "[STATE_NAME_ADJ:ALL_SOLID:frozen rambutan wine]"
-msgstr ""
+msgstr "[STATE_NAME_ADJ:ALL_SOLID:gefrorener Rambutanwein]"
 
 #: plant_new_trees.txt:675
 msgctxt "PLANT:RAMBUTAN"
 msgid "[STATE_NAME_ADJ:LIQUID:rambutan wine]"
-msgstr ""
+msgstr "[STATE_NAME_ADJ:LIQUID:Rambutanwein]"
 
 #: plant_new_trees.txt:676
 msgctxt "PLANT:RAMBUTAN"
 msgid "[STATE_NAME_ADJ:GAS:boiling rambutan wine]"
-msgstr ""
+msgstr "[STATE_NAME_ADJ:GAS:kochender Rambutanwein]"
 
 #: plant_new_trees.txt:703
 msgctxt "PLANT:RAMBUTAN"
 msgid "[SEED:rambutan seed:rambutan seeds:]"
-msgstr ""
+msgstr "[SEED:Rambutansamen:Rambutansamen:]"
 
 #: plant_new_trees.txt:717
 msgctxt "PLANT:RAMBUTAN"
@@ -50663,27 +50700,27 @@ msgstr "[PREFSTRING:Frucht]"
 #: plant_new_trees.txt:722
 msgctxt "PLANT:RAMBUTAN"
 msgid "[GROWTH_NAME:rambutan leaf:rambutan leaves]"
-msgstr ""
+msgstr "[GROWTH_NAME:Rambutanblatt:Rambutanblätter]"
 
 #: plant_new_trees.txt:729
 msgctxt "PLANT:RAMBUTAN"
 msgid "[GROWTH_NAME:rambutan flower:STP]"
-msgstr ""
+msgstr "[GROWTH_NAME:Rambutanblume:STP]"
 
 #: plant_new_trees.txt:736
 msgctxt "PLANT:RAMBUTAN"
 msgid "[GROWTH_NAME:rambutan:STP]"
-msgstr ""
+msgstr "[GROWTH_NAME:Rambutan:STP]"
 
 #: plant_new_trees.txt:746
 msgctxt "PLANT:TEA"
 msgid "[NAME:tea tree]"
-msgstr ""
+msgstr "[NAME:Teebaum]"
 
 #: plant_new_trees.txt:746
 msgctxt "PLANT:TEA"
 msgid "[NAME_PLURAL:tea trees]"
-msgstr ""
+msgstr "[NAME_PLURAL:Teebäume]"
 
 #: plant_new_trees.txt:746
 msgctxt "PLANT:TEA"
@@ -50693,17 +50730,17 @@ msgstr "[ADJ:Teebaum]"
 #: plant_new_trees.txt:750
 msgctxt "PLANT:TEA"
 msgid "[STATE_NAME:ALL_SOLID:tea wood]"
-msgstr ""
+msgstr "[STATE_NAME:ALL_SOLID:Teeholz]"
 
 #: plant_new_trees.txt:751
 msgctxt "PLANT:TEA"
 msgid "[STATE_ADJ:ALL_SOLID:tea wood]"
-msgstr ""
+msgstr "[STATE_ADJ:ALL_SOLID:Teeholz]"
 
 #: plant_new_trees.txt:767
 msgctxt "PLANT:TEA"
 msgid "[SEED:tea seed:tea seeds:]"
-msgstr ""
+msgstr "[SEED:Teesamen_Teesamen]"
 
 #: plant_new_trees.txt:781
 msgctxt "PLANT:TEA"
@@ -50713,27 +50750,27 @@ msgstr "[PREFSTRING:Blätter]"
 #: plant_new_trees.txt:787
 msgctxt "PLANT:TEA"
 msgid "[GROWTH_NAME:tea leaf:tea leaves]"
-msgstr ""
+msgstr "[GROWTH_NAME:Teeblatt:Teeblätter]"
 
 #: plant_new_trees.txt:794
 msgctxt "PLANT:TEA"
 msgid "[GROWTH_NAME:tea flower:STP]"
-msgstr ""
+msgstr "[GROWTH_NAME:Teeblume:STP]"
 
 #: plant_new_trees.txt:801
 msgctxt "PLANT:TEA"
 msgid "[GROWTH_NAME:tea tree capsule:STP]"
-msgstr ""
+msgstr "[GROWTH_NAME:Teebaumkapsel:STP]"
 
 #: plant_new_trees.txt:811
 msgctxt "PLANT:AVOCADO"
 msgid "[NAME:avocado tree]"
-msgstr ""
+msgstr "[NAME:Avocadobaum]"
 
 #: plant_new_trees.txt:811
 msgctxt "PLANT:AVOCADO"
 msgid "[NAME_PLURAL:avocado trees]"
-msgstr ""
+msgstr "[NAME_PLURAL:Avocadobäume]"
 
 #: plant_new_trees.txt:811
 msgctxt "PLANT:AVOCADO"
@@ -50743,17 +50780,17 @@ msgstr "[ADJ:Advocadobaum]"
 #: plant_new_trees.txt:815
 msgctxt "PLANT:AVOCADO"
 msgid "[STATE_NAME:ALL_SOLID:avocado wood]"
-msgstr ""
+msgstr "[STATE_NAME:ALL_SOLID:Avocadoholz]"
 
 #: plant_new_trees.txt:816
 msgctxt "PLANT:AVOCADO"
 msgid "[STATE_ADJ:ALL_SOLID:avocado wood]"
-msgstr ""
+msgstr "[STATE_ADJ:ALL_SOLID:Avocadoholz]"
 
 #: plant_new_trees.txt:836
 msgctxt "PLANT:AVOCADO"
 msgid "[SEED:avocado pit:avocado pits:]"
-msgstr ""
+msgstr "[SEED:Avocadokern:Avocadokerne]"
 
 #: plant_new_trees.txt:850
 msgctxt "PLANT:AVOCADO"
@@ -50763,12 +50800,12 @@ msgstr "[PREFSTRING:Frucht]"
 #: plant_new_trees.txt:855
 msgctxt "PLANT:AVOCADO"
 msgid "[GROWTH_NAME:avocado leaf:avocado leaves]"
-msgstr ""
+msgstr "[GROWTH_NAME:Avocadoblatt:Avocadoblätter]"
 
 #: plant_new_trees.txt:862
 msgctxt "PLANT:AVOCADO"
 msgid "[GROWTH_NAME:avocado flower:STP]"
-msgstr ""
+msgstr "[GROWTH_NAME:Avocadoblume:STP]"
 
 #: plant_new_trees.txt:869
 msgctxt "PLANT:AVOCADO"
@@ -50778,12 +50815,12 @@ msgstr "[GROWTH_NAME:Avocado:STP]"
 #: plant_new_trees.txt:879
 msgctxt "PLANT:LIME"
 msgid "[NAME:lime tree]"
-msgstr ""
+msgstr "[NAME:Limettenbaum]"
 
 #: plant_new_trees.txt:879
 msgctxt "PLANT:LIME"
 msgid "[NAME_PLURAL:lime trees]"
-msgstr ""
+msgstr "[NAME_PLURAL:Limettenbäume]"
 
 #: plant_new_trees.txt:879
 msgctxt "PLANT:LIME"
@@ -50793,17 +50830,17 @@ msgstr "[ADJ:Limetenbaum]"
 #: plant_new_trees.txt:883
 msgctxt "PLANT:LIME"
 msgid "[STATE_NAME:ALL_SOLID:lime wood]"
-msgstr ""
+msgstr "[STATE_NAME:ALL_SOLID:Limettenholz]"
 
 #: plant_new_trees.txt:884
 msgctxt "PLANT:LIME"
 msgid "[STATE_ADJ:ALL_SOLID:lime wood]"
-msgstr ""
+msgstr "[STATE_ADJ:ALL_SOLID:Limettenholz]"
 
 #: plant_new_trees.txt:904
 msgctxt "PLANT:LIME"
 msgid "[SEED:lime seed:lime seeds:]"
-msgstr ""
+msgstr "[SEED:Limettensamen:Limettensamen:]"
 
 #: plant_new_trees.txt:918
 msgctxt "PLANT:LIME"
@@ -50813,12 +50850,12 @@ msgstr "[PREFSTRING:Frucht]"
 #: plant_new_trees.txt:923
 msgctxt "PLANT:LIME"
 msgid "[GROWTH_NAME:lime leaf:lime leaves]"
-msgstr ""
+msgstr "[GROWTH_NAME:Limettenblatt:Limettenblätter]"
 
 #: plant_new_trees.txt:930
 msgctxt "PLANT:LIME"
 msgid "[GROWTH_NAME:lime flower:STP]"
-msgstr ""
+msgstr "[GROWTH_NAME:Limettenblume:STP]"
 
 #: plant_new_trees.txt:937
 msgctxt "PLANT:LIME"
@@ -50828,12 +50865,14 @@ msgstr "[GROWTH_NAME:Limette:STP]"
 #: plant_new_trees.txt:947
 msgctxt "PLANT:POMELO"
 msgid "[NAME:pomelo tree]"
-msgstr ""
+msgstr "[NAME:Pomelobaum]"
 
 #: plant_new_trees.txt:947
 msgctxt "PLANT:POMELO"
 msgid "[NAME_PLURAL:pomelo trees]"
 msgstr ""
+"[NAME_PLURAL:Pomelobäume\n"
+"]"
 
 #: plant_new_trees.txt:947
 msgctxt "PLANT:POMELO"
@@ -50843,17 +50882,17 @@ msgstr "[ADJ:Pomelobaum]"
 #: plant_new_trees.txt:951
 msgctxt "PLANT:POMELO"
 msgid "[STATE_NAME:ALL_SOLID:pomelo wood]"
-msgstr ""
+msgstr "[STATE_NAME:ALL_SOLID:Pomelobholz]"
 
 #: plant_new_trees.txt:952
 msgctxt "PLANT:POMELO"
 msgid "[STATE_ADJ:ALL_SOLID:pomelo wood]"
-msgstr ""
+msgstr "[STATE_ADJ:ALL_SOLID:Pomelobholz]"
 
 #: plant_new_trees.txt:972
 msgctxt "PLANT:POMELO"
 msgid "[SEED:pomelo seed:pomelo seeds:]"
-msgstr ""
+msgstr "[SEED:Pomelosamen:Pomelosamen:]"
 
 #: plant_new_trees.txt:986
 msgctxt "PLANT:POMELO"
@@ -50863,27 +50902,27 @@ msgstr "[PREFSTRING:Frucht]"
 #: plant_new_trees.txt:991
 msgctxt "PLANT:POMELO"
 msgid "[GROWTH_NAME:pomelo leaf:pomelo leaves]"
-msgstr ""
+msgstr "[GROWTH_NAME:Pomeloblatt:Pomeloblätter]"
 
 #: plant_new_trees.txt:998
 msgctxt "PLANT:POMELO"
 msgid "[GROWTH_NAME:pomelo flower:STP]"
-msgstr ""
+msgstr "[GROWTH_NAME:Pomeloblume:STP]"
 
 #: plant_new_trees.txt:1005
 msgctxt "PLANT:POMELO"
 msgid "[GROWTH_NAME:pomelo:STP]"
-msgstr ""
+msgstr "[GROWTH_NAME:Pomelo:STP]"
 
 #: plant_new_trees.txt:1015
 msgctxt "PLANT:CITRON"
 msgid "[NAME:citron tree]"
-msgstr ""
+msgstr "[NAME:Zitronenbaum]"
 
 #: plant_new_trees.txt:1015
 msgctxt "PLANT:CITRON"
 msgid "[NAME_PLURAL:citron trees]"
-msgstr ""
+msgstr "[NAME_PLURAL:Zitronenbäume]"
 
 #: plant_new_trees.txt:1015
 msgctxt "PLANT:CITRON"
@@ -50893,17 +50932,17 @@ msgstr "[ADJ:Zitronenbaum]"
 #: plant_new_trees.txt:1019
 msgctxt "PLANT:CITRON"
 msgid "[STATE_NAME:ALL_SOLID:citron wood]"
-msgstr ""
+msgstr "[STATE_NAME:ALL_SOLID:Zitronenholz]"
 
 #: plant_new_trees.txt:1020
 msgctxt "PLANT:CITRON"
 msgid "[STATE_ADJ:ALL_SOLID:citron wood]"
-msgstr ""
+msgstr "[STATE_ADJ:ALL_SOLID:Zitronenholz]"
 
 #: plant_new_trees.txt:1040
 msgctxt "PLANT:CITRON"
 msgid "[SEED:citron seed:citron seeds:]"
-msgstr ""
+msgstr "[SEED:Zitronensamen:Zitronensamen:]"
 
 #: plant_new_trees.txt:1054
 msgctxt "PLANT:CITRON"
@@ -50913,12 +50952,12 @@ msgstr "[PREFSTRING:Frucht]"
 #: plant_new_trees.txt:1059
 msgctxt "PLANT:CITRON"
 msgid "[GROWTH_NAME:citron leaf:citron leaves]"
-msgstr ""
+msgstr "[GROWTH_NAME:Zitronenblatt:Zitronenblätter]"
 
 #: plant_new_trees.txt:1066
 msgctxt "PLANT:CITRON"
 msgid "[GROWTH_NAME:citron flower:STP]"
-msgstr ""
+msgstr "[GROWTH_NAME:Zitronenblume:STP]"
 
 #: plant_new_trees.txt:1073
 msgctxt "PLANT:CITRON"
@@ -50933,7 +50972,7 @@ msgstr "[NAME:Orangenbaum]"
 #: plant_new_trees.txt:1083
 msgctxt "PLANT:ORANGE"
 msgid "[NAME_PLURAL:orange trees]"
-msgstr ""
+msgstr "[NAME_PLURAL:Orangenbäume]"
 
 #: plant_new_trees.txt:1083
 msgctxt "PLANT:ORANGE"
@@ -50943,17 +50982,17 @@ msgstr "[ADJ:Orangenbaum]"
 #: plant_new_trees.txt:1087
 msgctxt "PLANT:ORANGE"
 msgid "[STATE_NAME:ALL_SOLID:orange wood]"
-msgstr ""
+msgstr "[STATE_NAME:ALL_SOLID:Orangenholz]"
 
 #: plant_new_trees.txt:1088
 msgctxt "PLANT:ORANGE"
 msgid "[STATE_ADJ:ALL_SOLID:orange wood]"
-msgstr ""
+msgstr "[STATE_ADJ:ALL_SOLID:Orangenholz]"
 
 #: plant_new_trees.txt:1108
 msgctxt "PLANT:ORANGE"
 msgid "[SEED:orange seed:orange seeds:]"
-msgstr ""
+msgstr "[SEED:Orangensamen_Orangensamen:]"
 
 #: plant_new_trees.txt:1122
 msgctxt "PLANT:ORANGE"
