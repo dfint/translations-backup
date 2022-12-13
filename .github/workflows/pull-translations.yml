@@ -20,8 +20,9 @@ jobs:
         curl -o- https://raw.githubusercontent.com/transifex/cli/master/install.sh | bash
 
     - name: Pull translations
+      env:
+        TX_TOKEN: ${{ secrets.TX_TOKEN }}
       run: |
-        export TX_TOKEN=${{ secrets.TX_TOKEN }}
         ./tx pull -f -a
 
     - name: Push changes to the repository
