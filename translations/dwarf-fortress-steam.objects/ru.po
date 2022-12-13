@@ -1,10 +1,11 @@
 # 
 # Translators:
 # insolor, 2022
+# Anton Gorodeczky <gorodeczkyanton@gmail.com>, 2022
 # 
 msgid ""
 msgstr ""
-"Last-Translator: insolor, 2022\n"
+"Last-Translator: Anton Gorodeczky <gorodeczkyanton@gmail.com>, 2022\n"
 "Language-Team: Russian (https://www.transifex.com/dwarf-fortress-translation/teams/22396/ru/)\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -5335,6 +5336,8 @@ msgstr "[NAME:Мастерская мыловара]"
 msgctxt "BUILDING_WORKSHOP:SOAP_MAKER"
 msgid "[TOOLTIP:Use tallow (rendered fat) or oil here with lye to make soap.]"
 msgstr ""
+"[TOOLTIP:Используйте жир (топленый жир) или масло с щелоком, чтобы сделать "
+"мыло.]"
 
 #: building_custom.txt:44
 msgctxt "BUILDING_WORKSHOP:SCREW_PRESS"
@@ -5348,6 +5351,10 @@ msgid ""
 "plants might need to be milled first before they can be used.  Empty jugs "
 "are required to store the liquid products.]"
 msgstr ""
+"[TOOLTIP:Используйте мастерскую по выжимке масла из различных растений. "
+"Некоторые растения, возможно, придется сначала измельчить, прежде чем их "
+"можно будет использовать. Пустые кувшины необходимы для хранения жидких "
+"продуктов.]"
 
 #: c_variation_default.txt:189
 msgctxt "CREATURE_VARIATION:ANIMAL_PERSON"
@@ -9703,7 +9710,7 @@ msgstr "[CASTE_NAME:орёл:орлы:орла]"
 #: creature_birds_new.txt:3826
 msgctxt "CREATURE:BIRD_EAGLE"
 msgid "[GENERAL_CHILD_NAME:eaglet:eaglets]"
-msgstr ""
+msgstr "[GENERAL_CHILD_NAME:орленок: орлята]"
 
 #: creature_birds_new.txt:3854
 msgctxt "CREATURE:BIRD_EAGLE"
@@ -10454,12 +10461,12 @@ msgstr "[TLCM_NOUN:глаза:PLURAL]"
 #: creature_bug_slug_new.txt:410
 msgctxt "CREATURE:BARK_SCORPION_MAN"
 msgid "[CVCT_TARGET:bark scorpion]"
-msgstr ""
+msgstr "[CVCT_TARGET:древесный скорпион]"
 
 #: creature_bug_slug_new.txt:411
 msgctxt "CREATURE:BARK_SCORPION_MAN"
 msgid "[CVCT_REPLACEMENT:bark scorpion man]"
-msgstr ""
+msgstr "[CVCT_REPLACEMENT:древесный скорпион человек]"
 
 #: creature_bug_slug_new.txt:428
 msgctxt "CREATURE:BARK_SCORPION_MAN"
@@ -10493,12 +10500,12 @@ msgstr ""
 #: creature_bug_slug_new.txt:451
 msgctxt "CREATURE:GIANT_BARK_SCORPION"
 msgid "[CVCT_TARGET:bark scorpion]"
-msgstr ""
+msgstr "[CVCT_TARGET:древесный скорпион]"
 
 #: creature_bug_slug_new.txt:452
 msgctxt "CREATURE:GIANT_BARK_SCORPION"
 msgid "[CVCT_REPLACEMENT:giant bark scorpion]"
-msgstr ""
+msgstr "[CVCT_REPLACEMENT:гигантский древесный скорпион]"
 
 #: creature_bug_slug_new.txt:473
 msgctxt "CREATURE:GIANT_BARK_SCORPION"
@@ -41019,6 +41026,9 @@ msgid ""
 "certain population, the manager must work in an office to validate work "
 "orders.]"
 msgstr ""
+"[DESCRIPTION:Менеджер обрабатывает заказы. Как только ваша крепость "
+"достигает определенного количества населения, менеджер должен работать в "
+"офисе, чтобы подтверждать рабочие задания.]"
 
 #: entity_default.txt:582
 msgctxt "ENTITY:MOUNTAIN"
@@ -41031,6 +41041,8 @@ msgid ""
 "[DESCRIPTION:The chief medical dwarf allows you to see the overall health of"
 " dwarves in your fortress.]"
 msgstr ""
+"[DESCRIPTION:Главный дварф-медик позволяет вам видеть общее состояние "
+"здоровья дварфов в вашей крепости.]"
 
 #: entity_default.txt:595
 msgctxt "ENTITY:MOUNTAIN"
@@ -41044,6 +41056,9 @@ msgid ""
 "value of items in the fortress. They are also the default negotiator with "
 "visiting merchants.]"
 msgstr ""
+"[DESCRIPTION:Брокер использует свои навыки оценки, чтобы вы могли видеть "
+"стоимость предметов в крепости. Они также являются переговорщиками по "
+"умолчанию с приезжими торговцами.]"
 
 #: entity_default.txt:608
 msgctxt "ENTITY:MOUNTAIN"
@@ -41056,6 +41071,8 @@ msgid ""
 "[DESCRIPTION:The bookkeeper keeps an accurate count of items in the "
 "fortress. They work in their office to improve the precision of the count.]"
 msgstr ""
+"[DESCRIPTION:Счетовод ведет точный подсчет предметов в крепости. Он работают"
+" в своем офисе, чтобы улучшить точность подсчета.]"
 
 #: entity_default.txt:622
 msgctxt "ENTITY:MOUNTAIN"
