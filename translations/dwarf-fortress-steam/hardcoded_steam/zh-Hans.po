@@ -28,7 +28,6 @@
 # yyy ggg, 2022
 # Guan Wang, 2022
 # 昊伟 范, 2022
-# 奥里给大菠萝, 2022
 # Edmunddz <lniis@outlook.com>, 2022
 # 0000 0000, 2022
 # Myaois Myaois, 2022
@@ -48,7 +47,6 @@
 # z z, 2022
 # Tiger Jing, 2022
 # no l, 2022
-# Kagamine_Lily, 2022
 # xz lin, 2022
 # sleepy熊 <odanobukuma@gmail.com>, 2022
 # Yuliang Cai, 2022
@@ -56,15 +54,17 @@
 # Kerry H, 2022
 # zz z, 2022
 # 杨 李, 2022
-# 嘉杰 李, 2022
-# bojack cheng, 2022
 # DD KL, 2022
 # 许威 <1975428296@qq.com>, 2022
 # 墨漓 Mori, 2022
+# 嘉杰 李, 2022
+# Kagamine_Lily, 2022
+# bojack cheng, 2022
+# 奥里给大菠萝, 2022
 # 
 msgid ""
 msgstr ""
-"Last-Translator: 墨漓 Mori, 2022\n"
+"Last-Translator: 奥里给大菠萝, 2022\n"
 "Language-Team: Chinese Simplified (https://www.transifex.com/dwarf-fortress-translation/teams/22396/zh-Hans/)\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -197,7 +197,7 @@ msgstr "组织战斗训练"
 
 #: stringdump_steam_2022_12_06.txt:83
 msgid "Play Make Believe"
-msgstr "玩过家家"
+msgstr "玩假扮游戏"
 
 #: stringdump_steam_2022_12_06.txt:84
 msgid "Wait for Combat Training"
@@ -517,7 +517,7 @@ msgstr "和谁玩"
 
 #: stringdump_steam_2022_12_06.txt:164
 msgid " playing make believe."
-msgstr "演奏《假装》。"
+msgstr "正在玩假扮游戏。"
 
 #: stringdump_steam_2022_12_06.txt:165
 msgid "The performers"
@@ -1385,7 +1385,7 @@ msgstr "馊的"
 
 #: stringdump_steam_2022_12_06.txt:381
 msgid "It is a gelding blow!"
-msgstr "这是一记致命的打击!"
+msgstr "击中了下体要害部位，这是一次阉割打击！"
 
 #: stringdump_steam_2022_12_06.txt:382
 msgid "It is a gelding strike!"
@@ -8017,6 +8017,8 @@ msgid ""
 "down one level[C:7:0:0], and [C:2:0:1]click[C:7:0:0] the underground.  "
 "Reversing the "
 msgstr ""
+"接下来.  [C:2:0:1]点击[C:7:0:0] 地表, [C:2:0:1]然后将视角移动到下一层[C:7:0:0], "
+"再[C:2:0:1]点击[C:7:0:0] 地下.  反转"
 
 #: stringdump_steam_2022_12_06.txt:2066
 msgid ""
@@ -8446,7 +8448,7 @@ msgstr "种类和一些[C:6:0:1]宝石原料[C:7:0:0]如果你幸运的话。"
 msgid ""
 "If you dig down enough layers you will find a near infinite amount of "
 "[C:6:0:1]Boulders[C:7:0:0] of various "
-msgstr ""
+msgstr "如果你挖的足够深，那么你就会发现近乎无限的各类 [C:6:0:1]矿石[C:7:0:0] "
 
 #: stringdump_steam_2022_12_06.txt:2143
 msgid "An obvious material to use to make the crafts is rock. "
@@ -8456,7 +8458,7 @@ msgstr "制作这些工艺品的一种明显的材料是岩石。"
 msgid ""
 "Make the appropriate workshop with [C:5:0:1]Workshops[C:7:0:0] -> "
 "[C:5:0:1]Crafts[C:7:0:0]. "
-msgstr ""
+msgstr "在 [C:5:0:1]工坊[C:7:0:0] -> [C:5:0:1]工艺品[C:7:0:0]选单中建立合适的工坊. "
 
 #: stringdump_steam_2022_12_06.txt:2145
 msgid "As you enter new menus, there will be information and tips."
@@ -8508,6 +8510,8 @@ msgid ""
 "[C:5:0:1]Build[C:7:0:0] menu using [C:5:0:1]Workshops[C:7:0:0] -> "
 "[C:5:0:1]Farming[C:7:0:0] -> [C:5:0:1]Still[C:7:0:0]. "
 msgstr ""
+"通过[C:5:0:1]建造[C:7:0:0] 菜单中的 [C:5:0:1]工坊[C:7:0:0] -> [C:5:0:1]农业[C:7:0:0] -> "
+"[C:5:0:1]蒸馏器[C:7:0:0]，来制造一个[C:6:0:0]蒸馏器[C:7:0:0] . "
 
 #: stringdump_steam_2022_12_06.txt:2155
 msgid "The main way is by brewing alcohol. "
@@ -8529,7 +8533,7 @@ msgstr "点击这里并确保你有一个[C:2:0:0]"
 msgid ""
 "Some essential tasks must be assigned from the [C:5:0:1]Labor[C:7:0:0] menu."
 " "
-msgstr ""
+msgstr "一些基本任务需要从 [C:5:0:1]劳动[C:7:0:0] 菜单中分配. "
 
 #: stringdump_steam_2022_12_06.txt:2160
 msgid "[C:7:0:1]Labor[C:7:0:0]"
@@ -8589,7 +8593,7 @@ msgstr "这不是肥沃的土壤，但现在就足够了。挖得更深寻找更
 msgid ""
 "With a subterranean soil floor exposed, you can place an underground "
 "[C:6:0:0]Farmplot[C:7:0:0]. "
-msgstr ""
+msgstr "当挖掘到有土壤的地层时，你就可以在土壤上开拓 [C:6:0:0]耕地[C:7:0:0]. "
 
 #: stringdump_steam_2022_12_06.txt:2172
 msgid ""
@@ -8601,7 +8605,7 @@ msgstr "确保上面的天花板完好无损，这样地下土壤就不会受到
 msgid ""
 "or [C:6:0:1]Plants[C:7:0:0] there.  The number of [C:6:0:1]Drink[C:7:0:0] "
 "rations can be seen at the top of the screen."
-msgstr ""
+msgstr "或[C:6:0:1]植物[C:7:0:0] 在那里.   [C:6:0:1]饮品[C:7:0:0] 的配给的具体数据可以在屏幕顶端查看。"
 
 #: stringdump_steam_2022_12_06.txt:2174
 msgid ""
@@ -8613,7 +8617,7 @@ msgstr "如果你坚持到商队到来你也可以购买[C:6:0:1]饮料[C:7:0:0]
 msgid ""
 "The task also requires a [C:6:0:1]Barrel[C:7:0:0] from the "
 "[C:6:0:0]Carpenter's Workshop[C:7:0:0]. "
-msgstr ""
+msgstr "这个任务还需要从[C:6:0:0]木匠工坊[C:7:0:0] 处获得一个 [C:6:0:1]圆桶[C:7:0:0] ."
 
 #: stringdump_steam_2022_12_06.txt:2176
 msgid "may try [C:5:0:1]Planting[C:7:0:0] or [C:5:0:1]Gathering[C:7:0:0]. "
@@ -8629,7 +8633,7 @@ msgstr "在启程的[C:6:0:0]马车[C:7:0:0]上有一些食物，并且你可以
 msgid ""
 "and certain [C:6:0:0]Workshop[C:7:0:0] tasks.  You may find water "
 "underground."
-msgstr ""
+msgstr "以及某些 [C:6:0:0]工坊[C:7:0:0] 工作.  你可以在地下找到水."
 
 #: stringdump_steam_2022_12_06.txt:2179
 msgid ""
@@ -8642,6 +8646,8 @@ msgid ""
 "Absent alcohol and in warmer weather, you can designate a [C:3:0:0]Water "
 "Source[C:7:0:0] from the [C:5:0:1]Zones[C:7:0:0] menu at a river or pond, "
 msgstr ""
+"若你在温暖的环境下缺乏酒精, 你可以点选 [C:5:0:1]区域[C:7:0:0] -> "
+"[C:3:0:0]水源地[C:7:0:0]，然后在河流或池塘中建立取水点 "
 
 #: stringdump_steam_2022_12_06.txt:2181
 msgid ""
@@ -8651,11 +8657,11 @@ msgstr "如果附近有河流或池塘，你可以考虑钓鱼。如果水没有
 
 #: stringdump_steam_2022_12_06.txt:2182
 msgid "[C:7:0:1]Fishing[C:7:0:0]"
-msgstr ""
+msgstr "[C:7:0:1]渔业[C:7:0:0]"
 
 #: stringdump_steam_2022_12_06.txt:2183
 msgid "[C:6:0:1]Fertilizer[C:7:0:0] is not needed to farm."
-msgstr ""
+msgstr "耕作不需要[C:6:0:1]化肥[C:7:0:0]。"
 
 #: stringdump_steam_2022_12_06.txt:2184
 msgid ""
@@ -8671,18 +8677,20 @@ msgid ""
 "Do this by selecting [C:5:0:1]Workshops[C:7:0:0] -> "
 "[C:5:0:1]Farming[C:7:0:0] -> [C:5:0:1]Fishery[C:7:0:0]."
 msgstr ""
+"可以通过选择[C:5:0:1]工坊[C:7:0:0]->[C:5:0:1]农场[C:7:0:0]->[C:5:0:1] "
+"渔场[C:7:0:0]来实现这一目标。"
 
 #: stringdump_steam_2022_12_06.txt:2186
 msgid ""
 "Remember, your workers do not eat raw fish!  You must build a "
 "[C:6:0:0]Fishery[C:7:0:0] to prepare them. "
-msgstr ""
+msgstr "记住，你的工人们不吃生鱼！你必须建立一个[C:6:0:0] 渔场[C:7:0:0]来处理生鱼。"
 
 #: stringdump_steam_2022_12_06.txt:2187
 msgid ""
 "You can optionally choose to designate a [C:3:0:0]Fishing[C:7:0:0] zone if "
 "you don't want your workers going far afield."
-msgstr ""
+msgstr "如果你不想让你的工人们去很远的地方，你可以选择指定一个[C:3:0:0]钓鱼[C:7:0:0]区域。"
 
 #: stringdump_steam_2022_12_06.txt:2188
 msgid "fishing labor assigned will begin fishing automatically."
@@ -8694,6 +8702,7 @@ msgid ""
 "by eating gathered [C:6:0:1]Plants[C:7:0:0], but aboveground farming exposes"
 " your [C:2:0:0]Planters[C:7:0:0] to dangers and the elements."
 msgstr ""
+"请注意，你可以通过交易或食用收集的[C:6:0:1]植物[C:7:0:0]获得地面上的[C:6:0:1]种子[C:7:0:0]，但在地面上耕作会使你的[C:2:0:0]播种者[C:7:0:0]暴露在危险和自然因素中。"
 
 #: stringdump_steam_2022_12_06.txt:2190
 msgid ""
@@ -8701,12 +8710,14 @@ msgid ""
 "[C:6:0:0]Wagon[C:7:0:0] comes with [C:6:0:1]Plump Helmet Spawn[C:7:0:0], "
 "which are their \"seeds\"."
 msgstr ""
+"[C:6:0:1]肉盔菇[C:7:0:0]是可食用的，并且初始的[C:6:0:0]马车[C:7:0:0]上会携带着[C: "
+"6:0:1]肉盔菇菌种[C:7:0:0]，这就是它们的“种子”。"
 
 #: stringdump_steam_2022_12_06.txt:2191
 msgid ""
 "Click on the [C:6:0:0]Farmplot[C:7:0:0] you placed to pull up the "
 "[C:5:0:1]Farming[C:7:0:0] menu."
-msgstr ""
+msgstr "点击你设置好的[C:6:0:0]耕地[C:7:0:0]来调出[C:5:0:1]耕种[C:7:0:0]菜单。"
 
 #: stringdump_steam_2022_12_06.txt:2192
 msgid "You need to select the crops to be grown each season. "
@@ -8722,7 +8733,7 @@ msgstr "这些影响在地下深处更为明显，在那里你可以找到洞穴
 msgid ""
 "[C:6:0:1]Fertilizer[C:7:0:0] and skilled [C:2:0:0]Planters[C:7:0:0] have a "
 "direct impact on crop yield. "
-msgstr ""
+msgstr "[C:6:0:1]肥料[C:7:0:0]和熟练的[C:2:0:0]播种者[C:7:0:0]对作物产量有着直接的影响。"
 
 #: stringdump_steam_2022_12_06.txt:2195
 msgid ""
@@ -8730,6 +8741,8 @@ msgid ""
 "benefits, you can assign them to the [C:2:0:0]Planters[C:7:0:0] work detail "
 "from the [C:5:0:1]Labor[C:7:0:0] menu. "
 msgstr ""
+"如果你想让你的一些公民专注于农业，这可以提供技能收益，你可以在[C:5:0:1]劳动[C:7:0:0]菜单将他们指派到[C: 2:0:0]播种者[C: "
+"7:0:0]的工作中。"
 
 #: stringdump_steam_2022_12_06.txt:2196
 msgid ""
@@ -8740,18 +8753,19 @@ msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:2197
 msgid "add button to assign the [C:2:0:0]Animals[C:7:0:0]."
-msgstr ""
+msgstr "添加按钮来指派[C:2:0:0]动物[C:7:0:0]。"
 
 #: stringdump_steam_2022_12_06.txt:2198
 msgid ""
 "To keep them alive use the [C:3:0:0]Pen/Pasture[C:7:0:0] zone from the "
 "[C:5:0:1]Zones[C:7:0:0] menu to select a section of grass and click the "
 msgstr ""
+"为了让他们活着，使用[C:5:0:1]区域[C:7:0:0]菜单中的[C:3:0:0]围栏/牧场[C:7:0:0]区域来选中一片草地，并点击"
 
 #: stringdump_steam_2022_12_06.txt:2199
 msgid ""
 "Note that some [C:2:0:0]Livestock[C:7:0:0] must eat vegetation to survive. "
-msgstr ""
+msgstr "请注意，一些[C:2:0:0]牲畜[C:7:0:0]必须吃植被才能生存。"
 
 #: stringdump_steam_2022_12_06.txt:2200
 msgid ""
@@ -8783,7 +8797,7 @@ msgstr "功能区"
 
 #: stringdump_steam_2022_12_06.txt:2205
 msgid "[C:7:0:1]Butchering[C:7:0:0]"
-msgstr ""
+msgstr "[C:7:0:1]屠宰[C:7:0:0]"
 
 #: stringdump_steam_2022_12_06.txt:2206
 msgid "Then draw a rectangle over the bushes you wish to search."
@@ -16921,7 +16935,7 @@ msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:4371
 msgid "Engrave artwork into a smooth wall."
-msgstr ""
+msgstr "在光滑的墙上雕刻艺术品。"
 
 #: stringdump_steam_2022_12_06.txt:4372
 msgid ""
@@ -25270,7 +25284,7 @@ msgstr "物品已退回！"
 
 #: stringdump_steam_2022_12_06.txt:6370
 msgid "I don't remember what I believe..."
-msgstr "我不记得我相信..."
+msgstr "我不记得我相信什么了……"
 
 #: stringdump_steam_2022_12_06.txt:6371
 msgid "Is it really you?"
@@ -25812,7 +25826,7 @@ msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:6505
 msgid "I believe...  something."
-msgstr "我相信......大致上。"
+msgstr "我相信......一些东西。"
 
 #: stringdump_steam_2022_12_06.txt:6506
 msgid "Help!  Save me!"
@@ -25824,7 +25838,7 @@ msgstr "我觉得你在摇摆不定。"
 
 #: stringdump_steam_2022_12_06.txt:6508
 msgid "Well, I believe...  something else."
-msgstr "好吧，我相信......还有别的。"
+msgstr "好吧，我相信......一些别的。"
 
 #: stringdump_steam_2022_12_06.txt:6509
 msgid "demand a portion of the official funds from "
@@ -31873,7 +31887,7 @@ msgstr "那令人难以置信的可疑！"
 
 #: stringdump_steam_2022_12_06.txt:8092
 msgid "I can't believe how great I feel!"
-msgstr "我无法相信我的感觉有多棒！"
+msgstr "我简直不敢相信我的感觉有多棒！"
 
 #: stringdump_steam_2022_12_06.txt:8093
 msgid "What's that?!"
@@ -34113,7 +34127,7 @@ msgstr "我玩过"
 
 #: stringdump_steam_2022_12_06.txt:8652
 msgid "I played make believe."
-msgstr "我玩了相信。"
+msgstr "我玩了假扮游戏。"
 
 #: stringdump_steam_2022_12_06.txt:8653
 msgid " in this holy place"
@@ -36802,7 +36816,7 @@ msgstr "我很荣幸能在你面前。"
 
 #: stringdump_steam_2022_12_06.txt:9324
 msgid "A legend?  Here?  I can scarcely believe it.  "
-msgstr "一个传奇？?这里？?我几乎不相信它。"
+msgstr "一个传奇?在这里?我简直不敢相信。"
 
 #: stringdump_steam_2022_12_06.txt:9325
 msgid "Your name precedes you.  Thank you for all that you have done.  "
@@ -39120,11 +39134,11 @@ msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:10455
 msgid "is very tall and fat"
-msgstr ""
+msgstr "又高又胖"
 
 #: stringdump_steam_2022_12_06.txt:10456
 msgid "is fat and very tall"
-msgstr ""
+msgstr "又胖又高"
 
 #: stringdump_steam_2022_12_06.txt:10457
 msgid "is very tall yet somewhat weak"
@@ -39144,15 +39158,15 @@ msgstr "非常高"
 
 #: stringdump_steam_2022_12_06.txt:10461
 msgid "is very tall and incredibly skinny"
-msgstr ""
+msgstr "又高又瘦"
 
 #: stringdump_steam_2022_12_06.txt:10462
 msgid "is very tall and skinny"
-msgstr ""
+msgstr "又高又瘦"
 
 #: stringdump_steam_2022_12_06.txt:10463
 msgid "is tall, extremely skinny and frail"
-msgstr ""
+msgstr "身材高大，极其瘦弱"
 
 #: stringdump_steam_2022_12_06.txt:10464
 msgid "is tall, weak and skinny"
@@ -39160,11 +39174,11 @@ msgstr "很高，很虚弱，身形瘦削"
 
 #: stringdump_steam_2022_12_06.txt:10465
 msgid "is very muscular, tall and obese"
-msgstr ""
+msgstr "肌肉发达，身材高大肥胖"
 
 #: stringdump_steam_2022_12_06.txt:10466
 msgid "is tall, muscular and fat"
-msgstr ""
+msgstr "高大，肌肉发达，肥胖"
 
 #: stringdump_steam_2022_12_06.txt:10467
 msgid "would be very thin but bears an enormous lardy burden"
@@ -42210,7 +42224,7 @@ msgstr "现场步行到建筑物"
 
 #: stringdump_steam_2022_12_06.txt:12505
 msgid "Make Believe"
-msgstr "让我相信"
+msgstr "假扮游戏"
 
 #: stringdump_steam_2022_12_06.txt:12506
 msgid "Prayer"
@@ -50865,7 +50879,7 @@ msgstr "玩玩具"
 
 #: stringdump_steam_2022_12_06.txt:16126
 msgid "make believe"
-msgstr "让我相信"
+msgstr "假扮游戏"
 
 #: stringdump_steam_2022_12_06.txt:16127
 msgid "left troupe"
@@ -57048,7 +57062,7 @@ msgstr "童话时代"
 
 #: stringdump_steam_2022_12_06.txt:17680
 msgid "Twilight Age"
-msgstr "暮光之城时代"
+msgstr "暮光时代"
 
 #: stringdump_steam_2022_12_06.txt:17681
 msgid "Age of Legends"
@@ -57060,7 +57074,7 @@ msgstr "神话时代"
 
 #: stringdump_steam_2022_12_06.txt:17683
 msgid "Age of One Power"
-msgstr "大一统时代"
+msgstr "一统时代"
 
 #: stringdump_steam_2022_12_06.txt:17684
 msgid " Age"
@@ -57923,15 +57937,15 @@ msgstr "固执"
 
 #: stringdump_steam_2022_12_06.txt:18374
 msgid "likes fighting"
-msgstr ""
+msgstr "喜欢战斗"
 
 #: stringdump_steam_2022_12_06.txt:18375
 msgid "intemperance"
-msgstr ""
+msgstr "放纵"
 
 #: stringdump_steam_2022_12_06.txt:18376
 msgid "greed"
-msgstr ""
+msgstr "贪婪"
 
 #: stringdump_steam_2022_12_06.txt:18377
 msgid "stress vulnerability"
@@ -57983,7 +57997,7 @@ msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:18390
 msgid "perfectionist"
-msgstr ""
+msgstr "完美主义者"
 
 #: stringdump_steam_2022_12_06.txt:18391
 msgid "private"
@@ -57991,7 +58005,7 @@ msgstr "私人的"
 
 #: stringdump_steam_2022_12_06.txt:18392
 msgid "bashful"
-msgstr ""
+msgstr "害羞的"
 
 #: stringdump_steam_2022_12_06.txt:18393
 msgid "singlemindedness"
@@ -65492,7 +65506,7 @@ msgstr "认为狡猾和狡猾是并不坦率且有时毫无价值"
 msgid ""
 "believes that artful speech and eloquent expression are of the highest "
 "ideals"
-msgstr "相信巧妙的言论和雄辩的表达是最高的理想"
+msgstr "认为巧妙的言论和雄辩的表达是最高的理想"
 
 #: stringdump_steam_2022_12_06.txt:23359
 msgid "is utterly disgusted by guile and cunning"
@@ -65514,7 +65528,7 @@ msgstr "把力量视为对别人的追求"
 msgid ""
 "believes that the acquisition of power over others is the ideal goal in life"
 " and worthy of the highest respect"
-msgstr "相信获得权力超过他人是人生理想的目标，值得尊重"
+msgstr "认为获得支配他人的权力是人生的理想目标，值得最高的尊重"
 
 #: stringdump_steam_2022_12_06.txt:23364
 msgid "thinks friendship is important"
@@ -65534,7 +65548,7 @@ msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:23368
 msgid "believes the truth is inviolable regardless of the cost"
-msgstr "相信无论成本如何，真相都是不可侵犯的"
+msgstr "认为真理是不可侵犯的，不计代价"
 
 #: stringdump_steam_2022_12_06.txt:23369
 msgid ""
@@ -65548,7 +65562,7 @@ msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:23371
 msgid "believes that honesty is a high ideal"
-msgstr ""
+msgstr "认为诚实是崇高的理想"
 
 #: stringdump_steam_2022_12_06.txt:23372
 msgid "doesn't find power particularly praiseworthy"
@@ -65608,7 +65622,7 @@ msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:23386
 msgid "believes friendship is a key to the ideal life"
-msgstr "相信友谊是理想生活的关键"
+msgstr "认为友谊是理想生活的关键"
 
 #: stringdump_steam_2022_12_06.txt:23387
 msgid "finds the idea of family loathsome"
@@ -65634,7 +65648,7 @@ msgstr ""
 msgid ""
 "believes that self-mastery and the denial of impulses are of the highest "
 "ideals"
-msgstr "相信掌握自我和否定冲动是最高的理想"
+msgstr "认为掌握自我和否定冲动是最高的理想"
 
 #: stringdump_steam_2022_12_06.txt:23393
 msgid ""
@@ -65831,7 +65845,7 @@ msgstr ""
 msgid ""
 "believes that freedom and independence are completely non-negotiable and "
 "would fight to defend them"
-msgstr "相信自由和独立不容置疑，并且会为保护它们而斗争"
+msgstr "认为自由和独立不容侵犯，并且会为捍卫它们而斗争"
 
 #: stringdump_steam_2022_12_06.txt:23438
 msgid "doesn't really value independence one way or another"
@@ -65871,7 +65885,7 @@ msgstr "认为那些试图保持尊严和适当行为的人是虚荣和冒犯的
 
 #: stringdump_steam_2022_12_06.txt:23446
 msgid "is a firm believer in the value of tradition"
-msgstr ""
+msgstr "坚信传统的价值"
 
 #: stringdump_steam_2022_12_06.txt:23447
 msgid "holds the maintenance of tradition as one of the highest ideals"
@@ -65909,7 +65923,7 @@ msgstr ""
 msgid ""
 "believes that the creation and appreciation of artwork is one of the highest"
 " ideals"
-msgstr "相信艺术品的创作和欣赏是最高理想之一"
+msgstr "认为艺术品的创作和欣赏是最高理想之一"
 
 #: stringdump_steam_2022_12_06.txt:23456
 msgid "values sacrifice"
@@ -65918,7 +65932,7 @@ msgstr ""
 #: stringdump_steam_2022_12_06.txt:23457
 msgid ""
 "believes that those who sacrifice for others should be deeply respected"
-msgstr ""
+msgstr "认为那些为他人牺牲的人应该得到崇高的敬意"
 
 #: stringdump_steam_2022_12_06.txt:23458
 msgid "sees sacrifice as wasteful and foolish"
@@ -65982,7 +65996,7 @@ msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:23472
 msgid "believes that the mastery of a skill is one of the highest pursuits"
-msgstr "相信技能的掌握是最高的追求之一"
+msgstr "认为技能的掌握是最高的追求之一"
 
 #: stringdump_steam_2022_12_06.txt:23473
 msgid ""
@@ -66023,7 +66037,7 @@ msgstr ""
 msgid ""
 "believes that hard work is one of the highest ideals and a key to the good "
 "life"
-msgstr "我们相信，努力工作是最高理想之一，也是美好生活的关键"
+msgstr "认为努力工作是最高理想之一，也是是通往美好生活的钥匙"
 
 #: stringdump_steam_2022_12_06.txt:23482
 msgid "doesn't really see the point of working hard"
@@ -66047,7 +66061,7 @@ msgstr "看到了花时间掌握一项令人震惊的技能的整个想法"
 
 #: stringdump_steam_2022_12_06.txt:23487
 msgid "believes that the time taken to master a skill is a horrible waste"
-msgstr "相信掌握技能所花费的时间是一种可怕的浪费"
+msgstr "认为花时间掌握一项技能是一种可怕的浪费"
 
 #: stringdump_steam_2022_12_06.txt:23488
 msgid "values good "
@@ -66099,7 +66113,7 @@ msgstr ""
 #: stringdump_steam_2022_12_06.txt:23499
 msgid ""
 "believes that martial prowess defines the good character of an individual"
-msgstr "相信军事实力定义了个人的良好品格"
+msgstr "认为军事实力决定了一个人的优良品质"
 
 #: stringdump_steam_2022_12_06.txt:23500
 msgid " as a total waste"
@@ -66125,7 +66139,7 @@ msgstr ""
 msgid ""
 "strongly believes that a peaceful and ordered society without dissent is "
 "best"
-msgstr ""
+msgstr "坚信一个和平有序、没有异议的社会是最好的"
 
 #: stringdump_steam_2022_12_06.txt:23506
 msgid ""
@@ -66177,7 +66191,7 @@ msgstr ""
 msgid ""
 "believes deeply that chaos and disorder are the truest expressions of life "
 "and would disrupt harmony wherever it is found"
-msgstr ""
+msgstr "认为无处不在的混乱和无序是生活最真实的表现，并将破坏和谐"
 
 #: stringdump_steam_2022_12_06.txt:23517
 msgid ""
@@ -66191,7 +66205,7 @@ msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:23519
 msgid "believes that little is better in life than a good party"
-msgstr ""
+msgstr "认为生活中没有什么比一个完美的派对更美好"
 
 #: stringdump_steam_2022_12_06.txt:23520
 msgid "dreams of mastering a skill"
@@ -66259,13 +66273,13 @@ msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:23536
 msgid "believes that peace is always preferable to war"
-msgstr ""
+msgstr "认为和平总是比战争更可取"
 
 #: stringdump_steam_2022_12_06.txt:23537
 msgid ""
 "believes the idea of war is utterly repellent and would have peace at all "
 "costs"
-msgstr "相信战争的想法完全是令人厌恶的，并且会不惜一切代价获得和平"
+msgstr "认为进行战争的念头是完全令人厌恶的，并将不惜一切代价实现和平"
 
 #: stringdump_steam_2022_12_06.txt:23538
 msgid "doesn't particularly care between war and peace"
@@ -66311,7 +66325,7 @@ msgstr "由于"
 
 #: stringdump_steam_2022_12_06.txt:23548
 msgid "believes war is preferable to peace in general"
-msgstr "通常相信战争比和平更可取"
+msgstr "通常认为战争比和平更可取"
 
 #: stringdump_steam_2022_12_06.txt:23549
 msgid "sees war as a useful means to an end"
@@ -68231,7 +68245,7 @@ msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:24005
 msgid " believes in the importance of the rule of the law"
-msgstr ""
+msgstr "相信法治的重要性"
 
 #: stringdump_steam_2022_12_06.txt:24006
 msgid " values the concept of loyalty and is troubled by "
@@ -68366,7 +68380,7 @@ msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:24038
 msgid "playing make believe"
-msgstr "打得相信"
+msgstr "正在玩假扮游戏"
 
 #: stringdump_steam_2022_12_06.txt:24039
 msgid "realizing "
