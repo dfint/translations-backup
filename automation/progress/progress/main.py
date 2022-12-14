@@ -29,7 +29,7 @@ def dir_stat(path: str) -> Tuple[dict[str, float], int]:
     for root, _dirs, files in os.walk(path):
         for file in files:
             file_name, _file_extension = os.path.splitext(file)
-            translated = translated_lines(root + "\\" + file)
+            translated = translated_lines(root + "/" + file)
             output[file_name] = translated[1]
             total_lines = translated[0]
     return (output, total_lines)
@@ -47,7 +47,7 @@ def project_section(path: str) -> str:
     labels: list[str] = []
     for root, dirs, _files in os.walk(path):
         for dir in dirs:
-            path = root + "\\" + dir
+            path = root + "/" + dir
             stat = dir_stat(path)
             dataset[dir] = stat[0]
             total_lines += stat[1]
@@ -104,7 +104,6 @@ def chart_url(data: dict[str, Any]) -> str:
 
 
 def generate_readme(base_dir: Path):
-    print(base_dir)
     file = open("README.md", "w")
     file.write(
         "# Translations Backup\n\n[![Pull translations from transifex](https://github.com/dfint/translations-backup/actions/workflows/pull-translations.yml/badge.svg)](https://github.com/dfint/translations-backup/actions/workflows/pull-translations.yml)\n\nAutomatically pulls translations from transifex site. If there are any changes then it commits them to the repository.\n\n"
