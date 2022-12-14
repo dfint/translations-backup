@@ -2,10 +2,11 @@
 # Translators:
 # insolor, 2022
 # Vitor Pereira Tavares da Costa <vitor.costa1990@gmail.com>, 2022
+# Mateus Rodrigo Nunes da Silva <mateusrnds@gmail.com>, 2022
 # 
 msgid ""
 msgstr ""
-"Last-Translator: Vitor Pereira Tavares da Costa <vitor.costa1990@gmail.com>, 2022\n"
+"Last-Translator: Mateus Rodrigo Nunes da Silva <mateusrnds@gmail.com>, 2022\n"
 "Language-Team: Portuguese (Brazil) (https://www.transifex.com/dwarf-fortress-translation/teams/22396/pt_BR/)\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -23637,9 +23638,9 @@ msgid ""
 "It walks on two legs and has the head of a bird with the antlers of a great "
 "elk.]"
 msgstr ""
-"[DESCRIPTION:A grande criatura encontrada em cogumelos pastagem subterrâneo "
-"profundo. Ele anda em dois pés e tem a cabeça de um pássaro com os chifres "
-"de um grande alce.]"
+"[DESCRIPTION:Uma grande criatura encontrada pastando cogumelos no subsolo "
+"profundo. Caminha sobre duas patas e tem a cabeça de uma ave com chifres de "
+"um grande alce.]"
 
 #: creature_next_underground.txt:747
 msgctxt "CREATURE:ELK_BIRD"
@@ -23902,8 +23903,8 @@ msgid ""
 "[DESCRIPTION:A large, long-bodied grazer with a thick mane that feeds on the"
 " tops of towercap mushrooms deep under the earth.]"
 msgstr ""
-"[DESCRIPTION:A grazer grande, longa-bodied com uma juba espessa que alimenta"
-" sobre os cumes dos cogumelos towercap profundas sob a terra.]"
+"[DESCRIPTION:Um grande herbívoro de corpo comprido com uma crina espessa que"
+" se alimenta dos topos dos cogumelos towercap nas profundezas da terra.]"
 
 #: creature_next_underground.txt:1177
 msgctxt "CREATURE:DRALTHA"
@@ -24681,21 +24682,19 @@ msgid ""
 "[DESCRIPTION:A small humanoid resembling a walking mushroom with arms and "
 "legs.  It lives far underground near water and soil.]"
 msgstr ""
-"[DESCRIPTION:Um pequeno humanóide que lembra um cogumelo pé com os braços e "
-"pernas. Ela vive perto da água no subsolo e do solo.]"
+"[DESCRIPTION:Um pequeno humanoide que se assemelha a um cogumelo ambulante "
+"com braços e pernas. Vive no subterrâneo, perto da água e do solo.]"
 
 #: creature_next_underground.txt:2409
 msgctxt "CREATURE:PLUMP_HELMET_MAN"
 msgid "[NAME:plump helmet man:plump helmet men:plump helmet man]"
-msgstr ""
-"[NAME:homem elmo suculento:homens elmo suculento:de homem elmo suculento]"
+msgstr "[NAME:homem elmo roliço:homens elmo roliço:de homem elmo roliço]"
 
 #: creature_next_underground.txt:2410
 msgctxt "CREATURE:PLUMP_HELMET_MAN"
 msgid "[CASTE_NAME:plump helmet man:plump helmet men:plump helmet man]"
 msgstr ""
-"[CASTE_NAME:homem elmo suculento:homens elmo suculento:de homem elmo "
-"suculento]"
+"[CASTE_NAME:homem elmo roliço:homens elmo roliço:de homem elmo roliço]"
 
 #: creature_next_underground.txt:2423
 msgctxt "CREATURE:PLUMP_HELMET_MAN"
@@ -24705,37 +24704,37 @@ msgstr "[PREFSTRING:semelhança com alimentos]"
 #: creature_next_underground.txt:2431
 msgctxt "CREATURE:PLUMP_HELMET_MAN"
 msgid "[STATE_NAME:ALL_SOLID:plump helmet man tissue]"
-msgstr "[STATE_NAME:ALL_SOLID:tecido de homem elmo suculento]"
+msgstr "[STATE_NAME:ALL_SOLID:tecido de homem elmo roliço]"
 
 #: creature_next_underground.txt:2432
 msgctxt "CREATURE:PLUMP_HELMET_MAN"
 msgid "[STATE_ADJ:ALL_SOLID:plump helmet man tissue]"
-msgstr "[STATE_ADJ:ALL_SOLID:tecido de homem elmo suculento]"
+msgstr "[STATE_ADJ:ALL_SOLID:tecido de homem elmo roliço]"
 
 #: creature_next_underground.txt:2433
 msgctxt "CREATURE:PLUMP_HELMET_MAN"
 msgid "[STATE_NAME:LIQUID:melted plump helmet man tissue]"
-msgstr "[STATE_NAME:LIQUID:tecido de homem elmo suculento derretido]"
+msgstr "[STATE_NAME:LIQUID:tecido de homem elmo roliço derretido]"
 
 #: creature_next_underground.txt:2434
 msgctxt "CREATURE:PLUMP_HELMET_MAN"
 msgid "[STATE_ADJ:LIQUID:melted plump helmet man tissue]"
-msgstr "[STATE_ADJ:LIQUID:tecido de homem elmo suculento derretido]"
+msgstr "[STATE_ADJ:LIQUID:tecido de homem elmo roliço derretido]"
 
 #: creature_next_underground.txt:2435
 msgctxt "CREATURE:PLUMP_HELMET_MAN"
 msgid "[STATE_NAME:GAS:boiling plump helmet man tissue]"
-msgstr "[STATE_NAME:GAS:tecido de homem elmo suculento em ebulição]"
+msgstr "[STATE_NAME:GAS:tecido de homem elmo roliço em ebulição]"
 
 #: creature_next_underground.txt:2436
 msgctxt "CREATURE:PLUMP_HELMET_MAN"
 msgid "[STATE_ADJ:GAS:boiling plump helmet man tissue]"
-msgstr "[STATE_ADJ:GAS:tecido de homem elmo suculento em ebulição]"
+msgstr "[STATE_ADJ:GAS:tecido de homem elmo roliço em ebulição]"
 
 #: creature_next_underground.txt:2442
 msgctxt "CREATURE:PLUMP_HELMET_MAN"
 msgid "[TISSUE_NAME:plump helmet man tissue:NP]"
-msgstr "[TISSUE_NAME:tecido de homen elmo suculento:NP]"
+msgstr "[TISSUE_NAME:tecido de homem elmo roliço:NP]"
 
 #: creature_next_underground.txt:2462
 msgctxt "CREATURE:PLUMP_HELMET_MAN"
@@ -45368,12 +45367,12 @@ msgstr "[STATE_ADJ:GAS: none]"
 #: material_template_default.txt:2310
 msgctxt "MATERIAL_TEMPLATE:MUSHROOM_TEMPLATE"
 msgid "[STATE_NAME:ALL_SOLID:mushroom]"
-msgstr "[STATE_NAME: ALL_SOLID: Cogumelo]"
+msgstr "[STATE_NAME:ALL_SOLID:cogumelo]"
 
 #: material_template_default.txt:2311
 msgctxt "MATERIAL_TEMPLATE:MUSHROOM_TEMPLATE"
 msgid "[STATE_ADJ:ALL_SOLID:mushroom]"
-msgstr "[STATE_ADJ: ALL_SOLID: Cogumelo]"
+msgstr "[STATE_ADJ:ALL_SOLID:cogumelo]"
 
 #: material_template_default.txt:2313
 msgctxt "MATERIAL_TEMPLATE:MUSHROOM_TEMPLATE"
@@ -53125,17 +53124,17 @@ msgstr "[GROWTH_NAME:nogueira:STP]"
 #: plant_standard.txt:6
 msgctxt "PLANT:MUSHROOM_HELMET_PLUMP"
 msgid "[NAME:plump helmet]"
-msgstr "[NAME:elmo suculento]"
+msgstr "[NAME:elmo roliço]"
 
 #: plant_standard.txt:6
 msgctxt "PLANT:MUSHROOM_HELMET_PLUMP"
 msgid "[NAME_PLURAL:plump helmets]"
-msgstr "[NAME_PLURAL:elmos suculentos]"
+msgstr "[NAME_PLURAL:elmos roliços]"
 
 #: plant_standard.txt:6
 msgctxt "PLANT:MUSHROOM_HELMET_PLUMP"
 msgid "[ADJ:plump helmet]"
-msgstr "[ADJ:de elmo suculento]"
+msgstr "[ADJ:de elmo roliço]"
 
 #: plant_standard.txt:34
 msgctxt "PLANT:MUSHROOM_HELMET_PLUMP"
@@ -53155,7 +53154,7 @@ msgstr "[STATE_NAME_ADJ:GAS: ferver o vinho anão]"
 #: plant_standard.txt:52
 msgctxt "PLANT:MUSHROOM_HELMET_PLUMP"
 msgid "[SEED:plump helmet spawn:plump helmet spawn:]"
-msgstr "[SEED:micélio de elmo suculento:micélio de elmo suculento:]"
+msgstr "[SEED:spawn de elmo roliço:spawn de elmo roliço:]"
 
 #: plant_standard.txt:56
 msgctxt "PLANT:MUSHROOM_HELMET_PLUMP"

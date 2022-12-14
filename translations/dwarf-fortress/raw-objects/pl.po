@@ -11,6 +11,7 @@
 # Jakub Semeniuk <kubasemeniuk18@outlook.com>, 2016
 # Jakub Tomaszewski <tomaszewski202@gmail.com>, 2019
 # Jupiter Jupiterowicz <jab44703@bcaoo.com>, 2019
+# Kamil Duch, 2022
 # Karol Smołkowicz, 2022
 # Liam Tailor <liado@wp.pl>, 2016
 # Mateusz Rambał, 2021
@@ -34,7 +35,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Dwarf Fortress\n"
 "PO-Revision-Date: 2015-02-03 06:42+0000\n"
-"Last-Translator: Armadon Przeróbki, 2022\n"
+"Last-Translator: Kamil Duch, 2022\n"
 "Language-Team: Polish (http://www.transifex.com/dwarf-fortress-translation/dwarf-fortress/language/pl/)\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -274,7 +275,7 @@ msgstr "[BP:HD:głowa:STP]"
 #: body_default.txt:123
 msgctxt "BODY:BASIC_HEAD_NECK"
 msgid "[BP:NK:neck:STP]"
-msgstr "[BP:NK:kark:STP]"
+msgstr "[BP:NK:szyja:STP]"
 
 #: body_default.txt:125
 msgctxt "BODY:BASIC_HEAD_NECK"
@@ -454,7 +455,7 @@ msgstr "[BP:LB:podbrzusze:podbrzusza]"
 #: body_default.txt:205
 msgctxt "BODY:HUMANOID_NECK"
 msgid "[BP:NK:neck:STP]"
-msgstr "[BP:NK:kark:STP]"
+msgstr "[BP:NK:szyja:STP]"
 
 #: body_default.txt:207
 msgctxt "BODY:HUMANOID_NECK"
@@ -534,7 +535,7 @@ msgstr "[BP:LB:podbrzusze:podbrzusza]"
 #: body_default.txt:239
 msgctxt "BODY:HUMANOID_NECK_HOOF"
 msgid "[BP:NK:neck:STP]"
-msgstr "[BP:NK:kark:STP]"
+msgstr "[BP:NK:szyja:STP]"
 
 #: body_default.txt:241
 msgctxt "BODY:HUMANOID_NECK_HOOF"
@@ -614,7 +615,7 @@ msgstr "[BP:LB:podbrzusze:podbrzusza]"
 #: body_default.txt:273
 msgctxt "BODY:HUMANOID_LEGLESS_NECK"
 msgid "[BP:NK:neck:STP]"
-msgstr "[BP:NK:kark:STP]"
+msgstr "[BP:NK:szyja:STP]"
 
 #: body_default.txt:275
 msgctxt "BODY:HUMANOID_LEGLESS_NECK"
@@ -739,7 +740,7 @@ msgstr "[BP:LB:podbrzusze:podbrzusza]"
 #: body_default.txt:327
 msgctxt "BODY:HUMANOID_NECK_FLIER"
 msgid "[BP:NK:neck:STP]"
-msgstr "[BP:NK:kark:STP]"
+msgstr "[BP:NK:szyja:STP]"
 
 #: body_default.txt:329
 msgctxt "BODY:HUMANOID_NECK_FLIER"
@@ -1339,7 +1340,7 @@ msgstr "[BP:LB:podbrzusze:podbrzusza]"
 #: body_default.txt:583
 msgctxt "BODY:HUMANOID_NECK_4ARMS"
 msgid "[BP:NK:neck:STP]"
-msgstr "[BP:NK:kark:STP]"
+msgstr "[BP:NK:szyja:STP]"
 
 #: body_default.txt:585
 msgctxt "BODY:HUMANOID_NECK_4ARMS"
@@ -1789,7 +1790,7 @@ msgstr "[BP:LB:podbrzusze:podbrzusza]"
 #: body_default.txt:775
 msgctxt "BODY:QUADRUPED_NECK_FRONT_GRASP"
 msgid "[BP:NK:neck:STP]"
-msgstr "[BP:NK:kark:STP]"
+msgstr "[BP:NK:szyja:STP]"
 
 #: body_default.txt:777
 msgctxt "BODY:QUADRUPED_NECK_FRONT_GRASP"
@@ -1849,7 +1850,7 @@ msgstr "[BP:LB:podbrzusze:podbrzusza]"
 #: body_default.txt:801
 msgctxt "BODY:QUADRUPED_NECK"
 msgid "[BP:NK:neck:STP]"
-msgstr "[BP:NK:kark:STP]"
+msgstr "[BP:NK:szyja:STP]"
 
 #: body_default.txt:803
 msgctxt "BODY:QUADRUPED_NECK"
@@ -1909,7 +1910,7 @@ msgstr "[BP:LB:podbrzusze:podbrzusza]"
 #: body_default.txt:827
 msgctxt "BODY:QUADRUPED_NECK_HOOF"
 msgid "[BP:NK:neck:STP]"
-msgstr "[BP:NK:kark:STP]"
+msgstr "[BP:NK:szyja:STP]"
 
 #: body_default.txt:829
 msgctxt "BODY:QUADRUPED_NECK_HOOF"
@@ -3819,7 +3820,7 @@ msgstr "[BP:LB:podbrzusze:podbrzusza]"
 #: body_default.txt:1748
 msgctxt "BODY:HAND_FOOT_CENTAUR_NECK"
 msgid "[BP:NK:neck:STP]"
-msgstr "[BP:NK:kark:STP]"
+msgstr "[BP:NK:szyja:STP]"
 
 #: body_default.txt:1750
 msgctxt "BODY:HAND_FOOT_CENTAUR_NECK"
@@ -3924,7 +3925,7 @@ msgstr "[BP:LB:podbrzusze:podbrzusza]"
 #: body_default.txt:1796
 msgctxt "BODY:HUMANOID_ARMLESS_NECK"
 msgid "[BP:NK:neck:STP]"
-msgstr "[BP:NK:kark:STP]"
+msgstr "[BP:NK:szyja:STP]"
 
 #: body_default.txt:1798
 msgctxt "BODY:HUMANOID_ARMLESS_NECK"
@@ -4874,7 +4875,7 @@ msgstr "[BP:LOWERSPINE:dolna część kręgosłupa:STP]"
 #: body_rcp.txt:514
 msgctxt "BODY:RCP_NECK"
 msgid "[BP:NK:neck:STP]"
-msgstr "[BP:NK:kark:STP]"
+msgstr "[BP:NK:szyja:STP]"
 
 #: body_rcp.txt:518
 msgctxt "BODY:RCP_UPPER_SPINE"
@@ -35834,12 +35835,12 @@ msgstr ""
 #: creature_tropical_new.txt:755
 msgctxt "CREATURE:GIANT_KING_COBRA"
 msgid "[CVCT_TARGET:king cobra]"
-msgstr ""
+msgstr "[CVCT_TARGET:kobra królewska]"
 
 #: creature_tropical_new.txt:756
 msgctxt "CREATURE:GIANT_KING_COBRA"
 msgid "[CVCT_REPLACEMENT:giant king cobra]"
-msgstr ""
+msgstr "[CVCT_REPLACEMENT:ogromna kobra królewska]"
 
 #: creature_tropical_new.txt:777
 msgctxt "CREATURE:GIANT_KING_COBRA"
