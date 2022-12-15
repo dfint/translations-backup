@@ -3,12 +3,12 @@
 # insolor, 2022
 # Romain Lamour, 2022
 # WhiteKevi Gaming, 2022
-# Jérémi Duarte, 2022
 # J. Bat., 2022
+# Jérémi Duarte, 2022
 # 
 msgid ""
 msgstr ""
-"Last-Translator: J. Bat., 2022\n"
+"Last-Translator: Jérémi Duarte, 2022\n"
 "Language-Team: French (https://www.transifex.com/dwarf-fortress-translation/teams/22396/fr/)\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -15623,31 +15623,33 @@ msgstr "[TLCM_NOUN:yeux:PLURAL]"
 msgctxt "CREATURE:SHARK_FRILL"
 msgid "[DESCRIPTION:A large eel-like fish found in coastal waters.]"
 msgstr ""
+"[DESCRIPTION:Un grand poisson ressemblant à une anguille que l'on trouve "
+"dans les eaux côtières.]"
 
 #: creature_large_ocean.txt:300
 msgctxt "CREATURE:SHARK_FRILL"
 msgid "[NAME:frill shark:frill sharks:frill shark]"
-msgstr ""
+msgstr "[NAME:requin-lézard:requins-lézard:requin-lézard]"
 
 #: creature_large_ocean.txt:301
 msgctxt "CREATURE:SHARK_FRILL"
 msgid "[CASTE_NAME:frill shark:frill sharks:frill shark]"
-msgstr ""
+msgstr "[CASTE_NAME:requin-lézard:requins-lézard:requin-lézard]"
 
 #: creature_large_ocean.txt:302
 msgctxt "CREATURE:SHARK_FRILL"
 msgid "[GENERAL_CHILD_NAME:frill shark pup:frill shark pups]"
-msgstr ""
+msgstr "[GENERAL_CHILD_NAME:requineau-lézard:requineaux-lézard]"
 
 #: creature_large_ocean.txt:310
 msgctxt "CREATURE:SHARK_FRILL"
 msgid "[PREFSTRING:needle teeth]"
-msgstr ""
+msgstr "[PREFSTRING:dents en aiguille]"
 
 #: creature_large_ocean.txt:311
 msgctxt "CREATURE:SHARK_FRILL"
 msgid "[PREFSTRING:frilled gill slits]"
-msgstr ""
+msgstr "[PREFSTRING:fentes branchiales à collerette]"
 
 #: creature_large_ocean.txt:344
 msgctxt "CREATURE:SHARK_FRILL"
@@ -15673,26 +15675,30 @@ msgstr "[TLCM_NOUN:yeux:PLURAL]"
 msgctxt "CREATURE:SHARK_SPINY_DOGFISH"
 msgid "[DESCRIPTION:A large fish found in coastal temperate waters.]"
 msgstr ""
+"[DESCRIPTION:Un grand poisson que l'on trouve dans les eaux côtières "
+"tempérées.]"
 
 #: creature_large_ocean.txt:380
 msgctxt "CREATURE:SHARK_SPINY_DOGFISH"
 msgid "[NAME:spiny dogfish:spiny dogfish:spiny dogfish]"
-msgstr ""
+msgstr "[NAME:aiguillat commun:aiguillats communs:aiguillat commun]"
 
 #: creature_large_ocean.txt:381
 msgctxt "CREATURE:SHARK_SPINY_DOGFISH"
 msgid "[CASTE_NAME:spiny dogfish:spiny dogfish:spiny dogfish]"
-msgstr ""
+msgstr "[CASTE_NAME:aiguillat commun:aiguillats communs:aiguillat commun]"
 
 #: creature_large_ocean.txt:382
 msgctxt "CREATURE:SHARK_SPINY_DOGFISH"
 msgid "[GENERAL_CHILD_NAME:spiny dogfish pup:spiny dogfish pups]"
 msgstr ""
+"[GENERAL_CHILD_NAME:jeune aiguillat commun:jeunes aiguillat commun:jeune "
+"aiguillat commun]"
 
 #: creature_large_ocean.txt:391
 msgctxt "CREATURE:SHARK_SPINY_DOGFISH"
 msgid "[PREFSTRING:dorsal spines]"
-msgstr ""
+msgstr "[PREFSTRING:épines dorsales]"
 
 #: creature_large_ocean.txt:424
 msgctxt "CREATURE:SHARK_SPINY_DOGFISH"
@@ -15720,21 +15726,27 @@ msgid ""
 "[DESCRIPTION:A huge fish covered with growths and spots it uses to hide on "
 "the sea bed.  It is not usually aggressive.]"
 msgstr ""
+"[DESCRIPTION:Un énorme poisson couvert d'excroissances et de taches qu'il "
+"utilise pour se cacher au fond de la mer. Il n'est généralement pas "
+"agressif.]"
 
 #: creature_large_ocean.txt:460
 msgctxt "CREATURE:SHARK_WOBBEGONG_SPOTTED"
 msgid "[NAME:spotted wobbegong:spotted wobbegongs:spotted wobbegong]"
 msgstr ""
+"[NAME:requin-tapis tacheté:requins-tapis tachetés:requin-tapis tacheté]"
 
 #: creature_large_ocean.txt:461
 msgctxt "CREATURE:SHARK_WOBBEGONG_SPOTTED"
 msgid "[CASTE_NAME:spotted wobbegong:spotted wobbegongs:spotted wobbegong]"
 msgstr ""
+"[CASTE_NAME:requin-tapis tacheté:requins-tapis tachetés:requin-tapis "
+"tacheté]"
 
 #: creature_large_ocean.txt:462
 msgctxt "CREATURE:SHARK_WOBBEGONG_SPOTTED"
 msgid "[GENERAL_CHILD_NAME:spotted wobbegong pup:spotted wobbegong pups]"
-msgstr ""
+msgstr "[GENERAL_CHILD_NAME:requineau-tapis tacheté:requineaux-tapis tacheté]"
 
 #: creature_large_ocean.txt:471
 msgctxt "CREATURE:SHARK_WOBBEGONG_SPOTTED"
@@ -54876,17 +54888,17 @@ msgstr ""
 #: reaction_adv_carpenter.txt:263
 msgctxt "REACTION:MAKE WOODEN TRAINING SHORT SWORD"
 msgid "[PRODUCT_TOKEN:sword]"
-msgstr ""
+msgstr "[PRODUCT_TOKEN:épée]"
 
 #: reaction_adv_carpenter.txt:268
 msgctxt "REACTION:MAKE WOODEN TRAINING SPEAR"
 msgid "[NAME:make wooden training spear]"
-msgstr ""
+msgstr "[NAME:faire une lance d'entraînement en bois]"
 
 #: reaction_adv_carpenter.txt:271
 msgctxt "REACTION:MAKE WOODEN TRAINING SPEAR"
 msgid "[REAGENT:log:]"
-msgstr ""
+msgstr "[REAGENT:bûche:]"
 
 #: reaction_adv_carpenter.txt:273
 msgctxt "REACTION:MAKE WOODEN TRAINING SPEAR"
@@ -54898,21 +54910,22 @@ msgctxt "REACTION:MAKE WOODEN TRAINING SPEAR"
 msgid ""
 "[PRODUCT:100:1:WEAPON:ITEM_WEAPON_SPEAR_TRAINING:GET_MATERIAL_FROM_REAGENT:log:]"
 msgstr ""
+"[PRODUCT:100:1:WEAPON:ITEM_WEAPON_SPEAR_TRAINING:GET_MATERIAL_FROM_REAGENT:bûche:]"
 
 #: reaction_adv_carpenter.txt:276
 msgctxt "REACTION:MAKE WOODEN TRAINING SPEAR"
 msgid "[PRODUCT_TOKEN:spear]"
-msgstr ""
+msgstr "[PRODUCT_TOKEN:lance]"
 
 #: reaction_adv_carpenter.txt:281
 msgctxt "REACTION:MAKE WOODEN PEDESTAL"
 msgid "[NAME:make wooden pedestal]"
-msgstr ""
+msgstr "[NAME:fabriquer un piédestal en bois]"
 
 #: reaction_adv_carpenter.txt:284
 msgctxt "REACTION:MAKE WOODEN PEDESTAL"
 msgid "[REAGENT:log:]"
-msgstr ""
+msgstr "[REAGENT:bûche:]"
 
 #: reaction_adv_carpenter.txt:286
 msgctxt "REACTION:MAKE WOODEN PEDESTAL"
@@ -54923,617 +54936,621 @@ msgstr "[REAGENT:outil:]"
 msgctxt "REACTION:MAKE WOODEN PEDESTAL"
 msgid "[PRODUCT:100:1:TOOL:ITEM_TOOL_PEDESTAL:GET_MATERIAL_FROM_REAGENT:log:]"
 msgstr ""
+"[PRODUCT:100:1:TOOL:ITEM_TOOL_PEDESTAL:GET_MATERIAL_FROM_REAGENT:bûche:]"
 
 #: reaction_adv_carpenter.txt:289
 msgctxt "REACTION:MAKE WOODEN PEDESTAL"
 msgid "[PRODUCT_TOKEN:pedestal]"
-msgstr ""
+msgstr "[PRODUCT_TOKEN:piédestal]"
 
 #: reaction_other.txt:6
 msgctxt "REACTION:TAN_A_HIDE"
 msgid "[NAME:tan a hide]"
-msgstr ""
+msgstr "[NAME:tanner une peau]"
 
 #: reaction_other.txt:18
 msgctxt "REACTION:RENDER_FAT"
 msgid "[NAME:render fat]"
-msgstr ""
+msgstr "[NAME:rendre la graisse]"
 
 #: reaction_other.txt:27
 msgctxt "REACTION:MAKE_SOAP_FROM_TALLOW"
 msgid "[NAME:make soap from tallow]"
-msgstr ""
+msgstr "[NAME:faire du savon avec du suif]"
 
 #: reaction_other.txt:29
 msgctxt "REACTION:MAKE_SOAP_FROM_TALLOW"
 msgid "[REAGENT:lye:]"
-msgstr ""
+msgstr "[REAGENT:lessive:]"
 
 #: reaction_other.txt:30
 msgctxt "REACTION:MAKE_SOAP_FROM_TALLOW"
 msgid "[REAGENT:lye container:]"
-msgstr ""
+msgstr "[REAGENT:récipient de lessive:]"
 
 #: reaction_other.txt:31
 msgctxt "REACTION:MAKE_SOAP_FROM_TALLOW"
 msgid "[CONTAINS:lye]"
-msgstr ""
+msgstr "[CONTAINS:lessive]"
 
 #: reaction_other.txt:34
 msgctxt "REACTION:MAKE_SOAP_FROM_TALLOW"
 msgid "[REAGENT:tallow:]"
-msgstr ""
+msgstr "[REAGENT:suif:]"
 
 #: reaction_other.txt:36
 msgctxt "REACTION:MAKE_SOAP_FROM_TALLOW"
 msgid "[PRODUCT:100:1:BAR:NONE:GET_MATERIAL_FROM_REAGENT:tallow:]"
-msgstr ""
+msgstr "[PRODUCT:100:1:BAR:NONE:GET_MATERIAL_FROM_REAGENT:suif:]"
 
 #: reaction_other.txt:41
 msgctxt "REACTION:MAKE_SOAP_FROM_OIL"
 msgid "[NAME:make soap from oil]"
-msgstr ""
+msgstr "[NAME:faire du savon à partir d'huile]"
 
 #: reaction_other.txt:43
 msgctxt "REACTION:MAKE_SOAP_FROM_OIL"
 msgid "[REAGENT:lye:]"
-msgstr ""
+msgstr "[REAGENT:lessive:]"
 
 #: reaction_other.txt:44
 msgctxt "REACTION:MAKE_SOAP_FROM_OIL"
 msgid "[REAGENT:lye container:]"
-msgstr ""
+msgstr "[REAGENT:récipient de lessive:]"
 
 #: reaction_other.txt:45
 msgctxt "REACTION:MAKE_SOAP_FROM_OIL"
 msgid "[CONTAINS:lye]"
-msgstr ""
+msgstr "[CONTAINS:lessive]"
 
 #: reaction_other.txt:48
 msgctxt "REACTION:MAKE_SOAP_FROM_OIL"
 msgid "[REAGENT:oil:]"
-msgstr ""
+msgstr "[REAGENT:huile:]"
 
 #: reaction_other.txt:51
 msgctxt "REACTION:MAKE_SOAP_FROM_OIL"
 msgid "[REAGENT:oil container:]"
-msgstr ""
+msgstr "[REAGENT:bidon d'huile:]"
 
 #: reaction_other.txt:52
 msgctxt "REACTION:MAKE_SOAP_FROM_OIL"
 msgid "[CONTAINS:oil]"
-msgstr ""
+msgstr "[CONTAINS:huile]"
 
 #: reaction_other.txt:55
 msgctxt "REACTION:MAKE_SOAP_FROM_OIL"
 msgid "[PRODUCT:100:1:BAR:NONE:GET_MATERIAL_FROM_REAGENT:oil:]"
-msgstr ""
+msgstr "[PRODUCT:100:1:BAR:NONE:GET_MATERIAL_FROM_REAGENT:huile:]"
 
 #: reaction_other.txt:60
 msgctxt "REACTION:MAKE_PEARLASH"
 msgid "[NAME:make pearlash]"
-msgstr ""
+msgstr "[NAME:faire carbonate de potassium]"
 
 #: reaction_other.txt:68
 msgctxt "REACTION:MAKE_PLASTER_POWDER"
 msgid "[NAME:make plaster powder]"
-msgstr ""
+msgstr "[NAME:faire de la poudre de plâtre]"
 
 #: reaction_other.txt:77
 msgctxt "REACTION:MAKE_SHARP_ROCK"
 msgid "[NAME:make sharp rock]"
-msgstr ""
+msgstr "[NAME:faire de la pierre tranchante]"
 
 #: reaction_other.txt:79
 msgctxt "REACTION:MAKE_SHARP_ROCK"
 msgid "[REAGENT:tool stone:]"
-msgstr ""
+msgstr "[REAGENT:outil en pierre:]"
 
 #: reaction_other.txt:80
 msgctxt "REACTION:MAKE_SHARP_ROCK"
 msgid "[REAGENT:hammerstone:]"
-msgstr ""
+msgstr "[REAGENT:marteau en pierre:]"
 
 #: reaction_other.txt:81
 msgctxt "REACTION:MAKE_SHARP_ROCK"
 msgid "[PRODUCT:100:1:ROCK:NONE:GET_MATERIAL_FROM_REAGENT:tool stone:]"
-msgstr ""
+msgstr "[PRODUCT:100:1:ROCK:NONE:GET_MATERIAL_FROM_REAGENT:outil en pierre:]"
 
 #: reaction_other.txt:85
 msgctxt "REACTION:MILL_SEEDS_NUTS_TO_PASTE"
 msgid "[NAME:mill seeds/nuts to paste]"
-msgstr ""
+msgstr "[NAME:moudre les graines/noix pour les coller]"
 
 #: reaction_other.txt:88
 msgctxt "REACTION:MILL_SEEDS_NUTS_TO_PASTE"
 msgid "[REAGENT:seeds:]"
-msgstr ""
+msgstr "[REAGENT:graines:]"
 
 #: reaction_other.txt:90
 msgctxt "REACTION:MILL_SEEDS_NUTS_TO_PASTE"
 msgid "[PRODUCT:100:1:GLOB:NONE:GET_MATERIAL_FROM_REAGENT:seeds:]"
-msgstr ""
+msgstr "[PRODUCT:100:1:GLOB:NONE:GET_MATERIAL_FROM_REAGENT:graines:]"
 
 #: reaction_other.txt:94
 msgctxt "REACTION:MAKE_CLAY_JUG"
 msgid "[NAME:make clay jug]"
-msgstr ""
+msgstr "[NAME:faire une cruche en argile]"
 
 #: reaction_other.txt:96
 msgctxt "REACTION:MAKE_CLAY_JUG"
 msgid "[REAGENT:clay:]"
-msgstr ""
+msgstr "[REAGENT:argile:]"
 
 #: reaction_other.txt:98
 msgctxt "REACTION:MAKE_CLAY_JUG"
 msgid "[PRODUCT:100:1:TOOL:ITEM_TOOL_JUG:GET_MATERIAL_FROM_REAGENT:clay:]"
-msgstr ""
+msgstr "[PRODUCT:100:1:TOOL:ITEM_TOOL_JUG:GET_MATERIAL_FROM_REAGENT:argile:]"
 
 #: reaction_other.txt:103
 msgctxt "REACTION:MAKE_CLAY_BRICKS"
 msgid "[NAME:make clay bricks]"
-msgstr ""
+msgstr "[NAME:faire des briques en argile]"
 
 #: reaction_other.txt:105
 msgctxt "REACTION:MAKE_CLAY_BRICKS"
 msgid "[REAGENT:clay:]"
-msgstr ""
+msgstr "[REAGENT:argile:]"
 
 #: reaction_other.txt:107
 msgctxt "REACTION:MAKE_CLAY_BRICKS"
 msgid "[PRODUCT:100:1:BLOCKS:NONE:GET_MATERIAL_FROM_REAGENT:clay:]"
-msgstr ""
+msgstr "[PRODUCT:100:1:BLOCKS:NONE:GET_MATERIAL_FROM_REAGENT:argile:]"
 
 #: reaction_other.txt:112
 msgctxt "REACTION:MAKE_CLAY_STATUE"
 msgid "[NAME:make clay statue]"
-msgstr ""
+msgstr "[NAME:faire une statue d'argile]"
 
 #: reaction_other.txt:114
 msgctxt "REACTION:MAKE_CLAY_STATUE"
 msgid "[REAGENT:clay:]"
-msgstr ""
+msgstr "[REAGENT:argile:]"
 
 #: reaction_other.txt:116
 msgctxt "REACTION:MAKE_CLAY_STATUE"
 msgid "[PRODUCT:100:1:STATUE:NONE:GET_MATERIAL_FROM_REAGENT:clay:]"
-msgstr ""
+msgstr "[PRODUCT:100:1:STATUE:NONE:GET_MATERIAL_FROM_REAGENT:argile:]"
 
 #: reaction_other.txt:121
 msgctxt "REACTION:MAKE_LARGE_CLAY_POT"
 msgid "[NAME:make large clay pot]"
-msgstr ""
+msgstr "[NAME:faire un grand pot en argile]"
 
 #: reaction_other.txt:123
 msgctxt "REACTION:MAKE_LARGE_CLAY_POT"
 msgid "[REAGENT:clay:]"
-msgstr ""
+msgstr "[REAGENT:argile:]"
 
 #: reaction_other.txt:125
 msgctxt "REACTION:MAKE_LARGE_CLAY_POT"
 msgid ""
 "[PRODUCT:100:1:TOOL:ITEM_TOOL_LARGE_POT:GET_MATERIAL_FROM_REAGENT:clay:]"
 msgstr ""
+"[PRODUCT:100:1:TOOL:ITEM_TOOL_LARGE_POT:GET_MATERIAL_FROM_REAGENT:argile:]"
 
 #: reaction_other.txt:130
 msgctxt "REACTION:MAKE_CLAY_CRAFTS"
 msgid "[NAME:make clay crafts]"
-msgstr ""
+msgstr "[NAME:faire de l'artisanat en argile]"
 
 #: reaction_other.txt:132
 msgctxt "REACTION:MAKE_CLAY_CRAFTS"
 msgid "[REAGENT:clay:]"
-msgstr ""
+msgstr "[REAGENT:argile:]"
 
 #: reaction_other.txt:134
 msgctxt "REACTION:MAKE_CLAY_CRAFTS"
 msgid "[PRODUCT:100:1:CRAFTS:NONE:GET_MATERIAL_FROM_REAGENT:clay:]"
-msgstr ""
+msgstr "[PRODUCT:100:1:CRAFTS:NONE:GET_MATERIAL_FROM_REAGENT:argile:]"
 
 #: reaction_other.txt:139
 msgctxt "REACTION:GLAZE_JUG"
 msgid "[NAME:glaze clay/stone jug]"
-msgstr ""
+msgstr "[NAME:pichet en argile/pierre avec glaçure]"
 
 #: reaction_other.txt:141
 msgctxt "REACTION:GLAZE_JUG"
 msgid "[REAGENT:glaze:]"
-msgstr ""
+msgstr "[REAGENT:glaçage:]"
 
 #: reaction_other.txt:143
 msgctxt "REACTION:GLAZE_JUG"
 msgid "[REAGENT:jug:]"
-msgstr ""
+msgstr "[REAGENT:cruche:]"
 
 #: reaction_other.txt:153
 msgctxt "REACTION:GLAZE_JUG"
 msgid "[IMPROVEMENT:100:jug:GLAZED:GET_MATERIAL_FROM_REAGENT:glaze:]"
-msgstr ""
+msgstr "[IMPROVEMENT:100:cruche:GLAZED:GET_MATERIAL_FROM_REAGENT:glaçage:]"
 
 #: reaction_other.txt:158
 msgctxt "REACTION:GLAZE_STATUE"
 msgid "[NAME:glaze clay/stone statue]"
-msgstr ""
+msgstr "[NAME:statue en argile/pierre avec glaçure]"
 
 #: reaction_other.txt:160
 msgctxt "REACTION:GLAZE_STATUE"
 msgid "[REAGENT:glaze:]"
-msgstr ""
+msgstr "[REAGENT:glaçage:]"
 
 #: reaction_other.txt:162
 msgctxt "REACTION:GLAZE_STATUE"
 msgid "[REAGENT:statue:]"
-msgstr ""
+msgstr "[REAGENT:statue:]"
 
 #: reaction_other.txt:167
 msgctxt "REACTION:GLAZE_STATUE"
 msgid "[IMPROVEMENT:100:statue:GLAZED:GET_MATERIAL_FROM_REAGENT:glaze:]"
-msgstr ""
+msgstr "[IMPROVEMENT:100:statue:GLAZED:GET_MATERIAL_FROM_REAGENT:glaçage:]"
 
 #: reaction_other.txt:172
 msgctxt "REACTION:GLAZE_LARGE_POT"
 msgid "[NAME:glaze large clay/stone pot]"
-msgstr ""
+msgstr "[NAME:grand pot en argile/pierre avec glaçure]"
 
 #: reaction_other.txt:174
 msgctxt "REACTION:GLAZE_LARGE_POT"
 msgid "[REAGENT:glaze:]"
-msgstr ""
+msgstr "[REAGENT:glaçage:]"
 
 #: reaction_other.txt:176
 msgctxt "REACTION:GLAZE_LARGE_POT"
 msgid "[REAGENT:large pot:]"
-msgstr ""
+msgstr "[REAGENT:grand pot:]"
 
 #: reaction_other.txt:181
 msgctxt "REACTION:GLAZE_LARGE_POT"
 msgid "[IMPROVEMENT:100:large pot:GLAZED:GET_MATERIAL_FROM_REAGENT:glaze:]"
-msgstr ""
+msgstr "[IMPROVEMENT:100:grand pot:GLAZED:GET_MATERIAL_FROM_REAGENT:glaçage:]"
 
 #: reaction_other.txt:186
 msgctxt "REACTION:GLAZE_CRAFT"
 msgid "[NAME:glaze clay/stone craft]"
-msgstr ""
+msgstr "[NAME:artisanat en argile/pierre avec glaçure]"
 
 #: reaction_other.txt:188
 msgctxt "REACTION:GLAZE_CRAFT"
 msgid "[REAGENT:glaze:]"
-msgstr ""
+msgstr "[REAGENT:glaçage:]"
 
 #: reaction_other.txt:190
 msgctxt "REACTION:GLAZE_CRAFT"
 msgid "[REAGENT:craft:]"
-msgstr ""
+msgstr "[REAGENT:artisanat:]"
 
 #: reaction_other.txt:195
 msgctxt "REACTION:GLAZE_CRAFT"
 msgid "[IMPROVEMENT:100:craft:GLAZED:GET_MATERIAL_FROM_REAGENT:glaze:]"
-msgstr ""
+msgstr "[IMPROVEMENT:100:artisanat:GLAZED:GET_MATERIAL_FROM_REAGENT:glaçage:]"
 
 #: reaction_other.txt:200
 msgctxt "REACTION:PRESS_OIL"
 msgid "[NAME:press liquid from paste]"
-msgstr ""
+msgstr "[NAME:presser le liquide à partir de pâte]"
 
 #: reaction_other.txt:202
 msgctxt "REACTION:PRESS_OIL"
 msgid "[REAGENT:paste:]"
-msgstr ""
+msgstr "[REAGENT:pâte:]"
 
 #: reaction_other.txt:205
 msgctxt "REACTION:PRESS_OIL"
 msgid "[REAGENT:liquid container:]"
-msgstr ""
+msgstr "[REAGENT:récipient de liquide:]"
 
 #: reaction_other.txt:211
 msgctxt "REACTION:PRESS_OIL"
 msgid "[PRODUCT:100:1:LIQUID_MISC:NONE:GET_MATERIAL_FROM_REAGENT:paste:]"
-msgstr ""
+msgstr "[PRODUCT:100:1:LIQUID_MISC:NONE:GET_MATERIAL_FROM_REAGENT:pâte:]"
 
 #: reaction_other.txt:211
 msgctxt "REACTION:PRESS_OIL"
 msgid "[PRODUCT_TO_CONTAINER:liquid container]"
-msgstr ""
+msgstr "[PRODUCT_TO_CONTAINER:récipient de liquide]"
 
 #: reaction_other.txt:212
 msgctxt "REACTION:PRESS_OIL"
 msgid "[PRODUCT:100:1:GLOB:NONE:GET_MATERIAL_FROM_REAGENT:paste:]"
-msgstr ""
+msgstr "[PRODUCT:100:1:GLOB:NONE:GET_MATERIAL_FROM_REAGENT:pâte:]"
 
 #: reaction_other.txt:216
 msgctxt "REACTION:PRESS_OIL_FRUIT"
 msgid "[NAME:press liquid from fruit]"
-msgstr ""
+msgstr "[NAME:presser le liquide à partir de fruit]"
 
 #: reaction_other.txt:218
 msgctxt "REACTION:PRESS_OIL_FRUIT"
 msgid "[REAGENT:plant:]"
-msgstr ""
+msgstr "[REAGENT:plante:]"
 
 #: reaction_other.txt:222
 msgctxt "REACTION:PRESS_OIL_FRUIT"
 msgid "[REAGENT:liquid container:]"
-msgstr ""
+msgstr "[REAGENT:récipient de liquide:]"
 
 #: reaction_other.txt:228
 msgctxt "REACTION:PRESS_OIL_FRUIT"
 msgid "[PRODUCT:100:1:LIQUID_MISC:NONE:GET_MATERIAL_FROM_REAGENT:plant:]"
-msgstr ""
+msgstr "[PRODUCT:100:1:LIQUID_MISC:NONE:GET_MATERIAL_FROM_REAGENT:plante:]"
 
 #: reaction_other.txt:228
 msgctxt "REACTION:PRESS_OIL_FRUIT"
 msgid "[PRODUCT_TO_CONTAINER:liquid container]"
-msgstr ""
+msgstr "[PRODUCT_TO_CONTAINER:récipient de liquide]"
 
 #: reaction_other.txt:229
 msgctxt "REACTION:PRESS_OIL_FRUIT"
 msgid "[PRODUCT:100:1:GLOB:NONE:GET_MATERIAL_FROM_REAGENT:plant:]"
-msgstr ""
+msgstr "[PRODUCT:100:1:GLOB:NONE:GET_MATERIAL_FROM_REAGENT:plante:]"
 
 #: reaction_other.txt:233
 msgctxt "REACTION:MAKE_CLAY_HIVE"
 msgid "[NAME:make clay hive]"
-msgstr ""
+msgstr "[NAME:faire une ruche d'argile]"
 
 #: reaction_other.txt:235
 msgctxt "REACTION:MAKE_CLAY_HIVE"
 msgid "[REAGENT:clay:]"
-msgstr ""
+msgstr "[REAGENT:argile:]"
 
 #: reaction_other.txt:237
 msgctxt "REACTION:MAKE_CLAY_HIVE"
 msgid "[PRODUCT:100:1:TOOL:ITEM_TOOL_HIVE:GET_MATERIAL_FROM_REAGENT:clay:]"
-msgstr ""
+msgstr "[PRODUCT:100:1:TOOL:ITEM_TOOL_HIVE:GET_MATERIAL_FROM_REAGENT:argile:]"
 
 #: reaction_other.txt:242
 msgctxt "REACTION:PRESS_HONEYCOMB"
 msgid "[NAME:press honey from honeycomb]"
-msgstr ""
+msgstr "[NAME:presser le miel a partir d'un nid d'abeille]"
 
 #: reaction_other.txt:244
 msgctxt "REACTION:PRESS_HONEYCOMB"
 msgid "[REAGENT:honeycomb:]"
-msgstr ""
+msgstr "[REAGENT:rayon de miel:]"
 
 #: reaction_other.txt:247
 msgctxt "REACTION:PRESS_HONEYCOMB"
 msgid "[REAGENT:liquid container:]"
-msgstr ""
+msgstr "[REAGENT:récipient de liquide:]"
 
 #: reaction_other.txt:253
 msgctxt "REACTION:PRESS_HONEYCOMB"
 msgid "[PRODUCT:100:1:LIQUID_MISC:NONE:GET_MATERIAL_FROM_REAGENT:honeycomb:]"
 msgstr ""
+"[PRODUCT:100:1:LIQUID_MISC:NONE:GET_MATERIAL_FROM_REAGENT:rayon de miel:]"
 
 #: reaction_other.txt:253
 msgctxt "REACTION:PRESS_HONEYCOMB"
 msgid "[PRODUCT_TO_CONTAINER:liquid container]"
-msgstr ""
+msgstr "[PRODUCT_TO_CONTAINER:récipient de liquide]"
 
 #: reaction_other.txt:254
 msgctxt "REACTION:PRESS_HONEYCOMB"
 msgid "[PRODUCT:100:1:GLOB:NONE:GET_MATERIAL_FROM_REAGENT:honeycomb:]"
-msgstr ""
+msgstr "[PRODUCT:100:1:GLOB:NONE:GET_MATERIAL_FROM_REAGENT:rayon de miel:]"
 
 #: reaction_other.txt:258
 msgctxt "REACTION:MAKE_WAX_CRAFTS"
 msgid "[NAME:make wax crafts]"
-msgstr ""
+msgstr "[NAME:faire de l'artisanat en cire]"
 
 #: reaction_other.txt:260
 msgctxt "REACTION:MAKE_WAX_CRAFTS"
 msgid "[REAGENT:wax:]"
-msgstr ""
+msgstr "[REAGENT:cire:]"
 
 #: reaction_other.txt:262
 msgctxt "REACTION:MAKE_WAX_CRAFTS"
 msgid "[PRODUCT:100:1:CRAFTS:NONE:GET_MATERIAL_FROM_REAGENT:wax:]"
-msgstr ""
+msgstr "[PRODUCT:100:1:CRAFTS:NONE:GET_MATERIAL_FROM_REAGENT:cire:]"
 
 #: reaction_other.txt:266
 msgctxt "REACTION:BREW_DRINK_FROM_PLANT"
 msgid "[NAME:brew drink from plant]"
-msgstr ""
+msgstr "[NAME:brasser une boisson à partir d'une plante]"
 
 #: reaction_other.txt:268
 msgctxt "REACTION:BREW_DRINK_FROM_PLANT"
 msgid "[REAGENT:plant:]"
-msgstr ""
+msgstr "[REAGENT:plante:]"
 
 #: reaction_other.txt:271
 msgctxt "REACTION:BREW_DRINK_FROM_PLANT"
 msgid "[REAGENT:barrel/pot:]"
-msgstr ""
+msgstr "[REAGENT:baril/pot:]"
 
 #: reaction_other.txt:276
 msgctxt "REACTION:BREW_DRINK_FROM_PLANT"
 msgid "[PRODUCT:100:5:DRINK:NONE:GET_MATERIAL_FROM_REAGENT:plant:]"
-msgstr ""
+msgstr "[PRODUCT:100:5:DRINK:NONE:GET_MATERIAL_FROM_REAGENT:plante:]"
 
 #: reaction_other.txt:277
 msgctxt "REACTION:BREW_DRINK_FROM_PLANT"
 msgid "[PRODUCT_TO_CONTAINER:barrel/pot]"
-msgstr ""
+msgstr "[PRODUCT_TO_CONTAINER:baril/pot]"
 
 #: reaction_other.txt:279
 msgctxt "REACTION:BREW_DRINK_FROM_PLANT"
 msgid "[PRODUCT:100:1:SEEDS:NONE:GET_MATERIAL_FROM_REAGENT:plant:]"
-msgstr ""
+msgstr "[PRODUCT:100:1:SEEDS:NONE:GET_MATERIAL_FROM_REAGENT:plante:]"
 
 #: reaction_other.txt:283
 msgctxt "REACTION:BREW_DRINK_FROM_PLANT_GROWTH"
 msgid "[NAME:brew drink from fruit]"
-msgstr ""
+msgstr "[NAME:brasser une boisson à partir d'un fruit]"
 
 #: reaction_other.txt:285
 msgctxt "REACTION:BREW_DRINK_FROM_PLANT_GROWTH"
 msgid "[REAGENT:plant:]"
-msgstr ""
+msgstr "[REAGENT:plante:]"
 
 #: reaction_other.txt:288
 msgctxt "REACTION:BREW_DRINK_FROM_PLANT_GROWTH"
 msgid "[REAGENT:barrel/pot:]"
-msgstr ""
+msgstr "[REAGENT:baril/pot:]"
 
 #: reaction_other.txt:293
 msgctxt "REACTION:BREW_DRINK_FROM_PLANT_GROWTH"
 msgid "[PRODUCT:100:5:DRINK:NONE:GET_MATERIAL_FROM_REAGENT:plant:]"
-msgstr ""
+msgstr "[PRODUCT:100:5:DRINK:NONE:GET_MATERIAL_FROM_REAGENT:plante:]"
 
 #: reaction_other.txt:294
 msgctxt "REACTION:BREW_DRINK_FROM_PLANT_GROWTH"
 msgid "[PRODUCT_TO_CONTAINER:barrel/pot]"
-msgstr ""
+msgstr "[PRODUCT_TO_CONTAINER:baril/pot]"
 
 #: reaction_other.txt:296
 msgctxt "REACTION:BREW_DRINK_FROM_PLANT_GROWTH"
 msgid "[PRODUCT:100:1:SEEDS:NONE:GET_MATERIAL_FROM_REAGENT:plant:]"
-msgstr ""
+msgstr "[PRODUCT:100:1:SEEDS:NONE:GET_MATERIAL_FROM_REAGENT:plante:]"
 
 #: reaction_other.txt:300
 msgctxt "REACTION:MAKE_MEAD"
 msgid "[NAME:make mead]"
-msgstr ""
+msgstr "[NAME:faire de l'hydromel]"
 
 #: reaction_other.txt:302
 msgctxt "REACTION:MAKE_MEAD"
 msgid "[REAGENT:honey:]"
-msgstr ""
+msgstr "[REAGENT:miel:]"
 
 #: reaction_other.txt:304
 msgctxt "REACTION:MAKE_MEAD"
 msgid "[REAGENT:honey container:]"
-msgstr ""
+msgstr "[REAGENT:contenant de miel:]"
 
 #: reaction_other.txt:305
 msgctxt "REACTION:MAKE_MEAD"
 msgid "[CONTAINS:honey]"
-msgstr ""
+msgstr "[CONTAINS:miel]"
 
 #: reaction_other.txt:308
 msgctxt "REACTION:MAKE_MEAD"
 msgid "[REAGENT:barrel/pot:]"
-msgstr ""
+msgstr "[REAGENT:baril/pot:]"
 
 #: reaction_other.txt:313
 msgctxt "REACTION:MAKE_MEAD"
 msgid "[PRODUCT:100:5:DRINK:NONE:GET_MATERIAL_FROM_REAGENT:honey:]"
-msgstr ""
+msgstr "[PRODUCT:100:5:DRINK:NONE:GET_MATERIAL_FROM_REAGENT:miel:]"
 
 #: reaction_other.txt:314
 msgctxt "REACTION:MAKE_MEAD"
 msgid "[PRODUCT_TO_CONTAINER:barrel/pot]"
-msgstr ""
+msgstr "[PRODUCT_TO_CONTAINER:baril/pot]"
 
 #: reaction_other.txt:319
 msgctxt "REACTION:PROCESS_PLANT_TO_BAG"
 msgid "[NAME:process plant to bag]"
-msgstr ""
+msgstr "[NAME:transformation de plante en sac]"
 
 #: reaction_other.txt:321
 msgctxt "REACTION:PROCESS_PLANT_TO_BAG"
 msgid "[REAGENT:plant:]"
-msgstr ""
+msgstr "[REAGENT:plante:]"
 
 #: reaction_other.txt:324
 msgctxt "REACTION:PROCESS_PLANT_TO_BAG"
 msgid "[REAGENT:bag:]"
-msgstr ""
+msgstr "[REAGENT:sac:]"
 
 #: reaction_other.txt:328
 msgctxt "REACTION:PROCESS_PLANT_TO_BAG"
 msgid "[PRODUCT:100:5:GET_ITEM_DATA_FROM_REAGENT:plant:]"
-msgstr ""
+msgstr "[PRODUCT:100:5:GET_ITEM_DATA_FROM_REAGENT:plante:]"
 
 #: reaction_other.txt:329
 msgctxt "REACTION:PROCESS_PLANT_TO_BAG"
 msgid "[PRODUCT_TO_CONTAINER:bag]"
-msgstr ""
+msgstr "[PRODUCT_TO_CONTAINER:sac]"
 
 #: reaction_other.txt:330
 msgctxt "REACTION:PROCESS_PLANT_TO_BAG"
 msgid "[PRODUCT:100:1:SEEDS:NONE:GET_MATERIAL_FROM_REAGENT:plant:]"
-msgstr ""
+msgstr "[PRODUCT:100:1:SEEDS:NONE:GET_MATERIAL_FROM_REAGENT:plante:]"
 
 #: reaction_other.txt:334
 msgctxt "REACTION:MAKE_QUICKLIME"
 msgid "[NAME:make quicklime]"
-msgstr ""
+msgstr "[NAME:faire de la chaux vive]"
 
 #: reaction_other.txt:343
 msgctxt "REACTION:MAKE_MILK_OF_LIME"
 msgid "[NAME:make milk of lime]"
-msgstr ""
+msgstr "[NAME:faire du lait de chaux]"
 
 #: reaction_other.txt:345
 msgctxt "REACTION:MAKE_MILK_OF_LIME"
 msgid "[REAGENT:quicklime:]"
-msgstr ""
+msgstr "[REAGENT:chaux vive:]"
 
 #: reaction_other.txt:346
 msgctxt "REACTION:MAKE_MILK_OF_LIME"
 msgid "[REAGENT:quicklime container:]"
-msgstr ""
+msgstr "[REAGENT:contenant de chaux vive:]"
 
 #: reaction_other.txt:347
 msgctxt "REACTION:MAKE_MILK_OF_LIME"
 msgid "[CONTAINS:quicklime]"
-msgstr ""
+msgstr "[CONTAINS:chaux vive]"
 
 #: reaction_other.txt:350
 msgctxt "REACTION:MAKE_MILK_OF_LIME"
 msgid "[REAGENT:bucket:]"
-msgstr ""
+msgstr "[REAGENT:seau:]"
 
 #: reaction_other.txt:355
 msgctxt "REACTION:MAKE_MILK_OF_LIME"
 msgid "[PRODUCT_TO_CONTAINER:bucket]"
-msgstr ""
+msgstr "[PRODUCT_TO_CONTAINER:seau]"
 
 #: reaction_other.txt:360
 msgctxt "REACTION:MAKE_PARCHMENT"
 msgid "[NAME:make parchment]"
-msgstr ""
+msgstr "[NAME:faire un parchemin]"
 
 #: reaction_other.txt:364
 msgctxt "REACTION:MAKE_PARCHMENT"
 msgid "[REAGENT:milk of lime:]"
-msgstr ""
+msgstr "[REAGENT:lait de chaux:]"
 
 #: reaction_other.txt:365
 msgctxt "REACTION:MAKE_PARCHMENT"
 msgid "[REAGENT:lime container:]"
-msgstr ""
+msgstr "[REAGENT:contenant de chaux:]"
 
 #: reaction_other.txt:366
 msgctxt "REACTION:MAKE_PARCHMENT"
 msgid "[CONTAINS:milk of lime]"
-msgstr ""
+msgstr "[CONTAINS:lait de chaux]"
 
 #: reaction_other.txt:373
 msgctxt "REACTION:MAKE_SCROLL"
 msgid "[NAME:make scroll]"
-msgstr ""
+msgstr "[NAME:faire un manuscrit]"
 
 #: reaction_other.txt:375
 msgctxt "REACTION:MAKE_SCROLL"
 msgid "[REAGENT:sheet:]"
-msgstr ""
+msgstr "[REAGENT:feuille:]"
 
 #: reaction_other.txt:376
 msgctxt "REACTION:MAKE_SCROLL"
 msgid "[REAGENT:scroll rollers:]"
-msgstr ""
+msgstr "[REAGENT:reouleaux de manuscrit]"
 
 #: reaction_other.txt:377
 msgctxt "REACTION:MAKE_SCROLL"
 msgid "[PRODUCT:100:1:TOOL:ITEM_TOOL_SCROLL:GET_MATERIAL_FROM_REAGENT:sheet:]"
 msgstr ""
+"[PRODUCT:100:1:TOOL:ITEM_TOOL_SCROLL:GET_MATERIAL_FROM_REAGENT:feuille:]"
 
 #: reaction_other.txt:378
 msgctxt "REACTION:MAKE_SCROLL"
 msgid "[PRODUCT_TOKEN:scroll]"
-msgstr ""
+msgstr "[PRODUCT_TOKEN:manuscrit]"
 
 #: reaction_other.txt:379
 msgctxt "REACTION:MAKE_SCROLL"
@@ -55541,116 +55558,119 @@ msgid ""
 "[IMPROVEMENT:100:scroll:SPECIFIC:ROLLERS:GET_MATERIAL_FROM_REAGENT:scroll "
 "rollers:]"
 msgstr ""
+"[IMPROVEMENT:100:manuscrit:SPECIFIC:ROLLERS:GET_MATERIAL_FROM_REAGENT:rouleau"
+" de manuscrit:]"
 
 #: reaction_other.txt:383
 msgctxt "REACTION:MAKE_QUIRE"
 msgid "[NAME:make quire]"
-msgstr ""
+msgstr "[NAME:faire un cahier]"
 
 #: reaction_other.txt:385
 msgctxt "REACTION:MAKE_QUIRE"
 msgid "[REAGENT:sheet:]"
-msgstr ""
+msgstr "[REAGENT:feuille:]"
 
 #: reaction_other.txt:386
 msgctxt "REACTION:MAKE_QUIRE"
 msgid "[PRODUCT:100:1:TOOL:ITEM_TOOL_QUIRE:GET_MATERIAL_FROM_REAGENT:sheet:]"
 msgstr ""
+"[PRODUCT:100:1:TOOL:ITEM_TOOL_QUIRE:GET_MATERIAL_FROM_REAGENT:feuille:]"
 
 #: reaction_other.txt:390
 msgctxt "REACTION:MAKE_SHEET_FROM_PLANT"
 msgid "[NAME:make sheet from plant]"
-msgstr ""
+msgstr "[NAME:faire une feuille à partir d'une plante]"
 
 #: reaction_other.txt:392
 msgctxt "REACTION:MAKE_SHEET_FROM_PLANT"
 msgid "[REAGENT:plant:]"
-msgstr ""
+msgstr "[REAGENT:plante:]"
 
 #: reaction_other.txt:395
 msgctxt "REACTION:MAKE_SHEET_FROM_PLANT"
 msgid "[PRODUCT:100:1:SHEET:NONE:GET_MATERIAL_FROM_REAGENT:plant:]"
-msgstr ""
+msgstr "[PRODUCT:100:1:SHEET:NONE:GET_MATERIAL_FROM_REAGENT:plante:]"
 
 #: reaction_other.txt:397
 msgctxt "REACTION:MAKE_SHEET_FROM_PLANT"
 msgid "[PRODUCT:100:1:SEEDS:NONE:GET_MATERIAL_FROM_REAGENT:plant:]"
-msgstr ""
+msgstr "[PRODUCT:100:1:SEEDS:NONE:GET_MATERIAL_FROM_REAGENT:plante:]"
 
 #: reaction_other.txt:401
 msgctxt "REACTION:MAKE_SLURRY_FROM_PLANT"
 msgid "[NAME:mash plant into slurry]"
-msgstr ""
+msgstr "[NAME:broyer la plante en bouillie]"
 
 #: reaction_other.txt:404
 msgctxt "REACTION:MAKE_SLURRY_FROM_PLANT"
 msgid "[REAGENT:plant:]"
-msgstr ""
+msgstr "[REAGENT:plante:]"
 
 #: reaction_other.txt:407
 msgctxt "REACTION:MAKE_SLURRY_FROM_PLANT"
 msgid "[PRODUCT:100:1:GLOB:NONE:GET_MATERIAL_FROM_REAGENT:plant:]"
-msgstr ""
+msgstr "[PRODUCT:100:1:GLOB:NONE:GET_MATERIAL_FROM_REAGENT:plante:]"
 
 #: reaction_other.txt:409
 msgctxt "REACTION:MAKE_SLURRY_FROM_PLANT"
 msgid "[PRODUCT:100:1:SEEDS:NONE:GET_MATERIAL_FROM_REAGENT:plant:]"
-msgstr ""
+msgstr "[PRODUCT:100:1:SEEDS:NONE:GET_MATERIAL_FROM_REAGENT:plante:]"
 
 #: reaction_other.txt:413
 msgctxt "REACTION:PRESS_PLANT_PAPER"
 msgid "[NAME:press plant slurry into paper sheet]"
-msgstr ""
+msgstr "[NAME:presser la bouillie de plantes en feuille de papier]"
 
 #: reaction_other.txt:415
 msgctxt "REACTION:PRESS_PLANT_PAPER"
 msgid "[REAGENT:paste:]"
-msgstr ""
+msgstr "[REAGENT:pâte:]"
 
 #: reaction_other.txt:418
 msgctxt "REACTION:PRESS_PLANT_PAPER"
 msgid "[PRODUCT:100:1:SHEET:NONE:GET_MATERIAL_FROM_REAGENT:paste:]"
-msgstr ""
+msgstr "[PRODUCT:100:1:SHEET:NONE:GET_MATERIAL_FROM_REAGENT:pâte:]"
 
 #: reaction_other.txt:423
 msgctxt "REACTION:BIND_BOOK"
 msgid "[NAME:bind book]"
-msgstr ""
+msgstr "[NAME:livre relié]"
 
 #: reaction_other.txt:425
 msgctxt "REACTION:BIND_BOOK"
 msgid "[REAGENT:quire:]"
-msgstr ""
+msgstr "[REAGENT:cahier:]"
 
 #: reaction_other.txt:429
 msgctxt "REACTION:BIND_BOOK"
 msgid "[REAGENT:binding:]"
-msgstr ""
+msgstr "[REAGENT:reliure:]"
 
 #: reaction_other.txt:430
 msgctxt "REACTION:BIND_BOOK"
 msgid "[REAGENT:thread:]"
-msgstr ""
+msgstr "[REAGENT:fil:]"
 
 #: reaction_other.txt:432
 msgctxt "REACTION:BIND_BOOK"
 msgid "[PRODUCT:100:1:BOOK:NONE:GET_MATERIAL_FROM_REAGENT:binding:]"
-msgstr ""
+msgstr "[PRODUCT:100:1:BOOK:NONE:GET_MATERIAL_FROM_REAGENT:reliure:]"
 
 #: reaction_other.txt:433
 msgctxt "REACTION:BIND_BOOK"
 msgid "[PRODUCT_TOKEN:book]"
-msgstr ""
+msgstr "[PRODUCT_TOKEN:livre]"
 
 #: reaction_other.txt:435
 msgctxt "REACTION:BIND_BOOK"
 msgid "[IMPROVEMENT:100:book:PAGES:GET_MATERIAL_FROM_REAGENT:quire:]"
-msgstr ""
+msgstr "[IMPROVEMENT:100:livre:PAGES:GET_MATERIAL_FROM_REAGENT:cahier:]"
 
 #: reaction_other.txt:440
 msgctxt "REACTION:CARVE_BONE_FIGURINE"
 msgid "[NAME:carve bone figurine]"
-msgstr ""
+msgstr "[NAME:tailler une figurine en os]"
 
 #: reaction_other.txt:442
 msgctxt "REACTION:CARVE_BONE_FIGURINE"
@@ -55665,28 +55685,30 @@ msgstr "[REAGENT:outil:]"
 #: reaction_other.txt:446
 msgctxt "REACTION:CARVE_BONE_FIGURINE"
 msgid "[PRODUCT:100:1:FIGURINE:NONE:GET_MATERIAL_FROM_REAGENT:bone:]"
-msgstr ""
+msgstr "[PRODUCT:100:1:FIGURINE:NONE:GET_MATERIAL_FROM_REAGENT:os:]"
 
 #: reaction_other.txt:447
 msgctxt "REACTION:CARVE_BONE_FIGURINE"
 msgid "[PRODUCT_TOKEN:figurine]"
-msgstr ""
+msgstr "[PRODUCT_TOKEN:figurine]"
 
 #: reaction_other.txt:450
 msgctxt "REACTION:CARVE_BONE_FIGURINE"
 msgid "[CATEGORY_NAME:Carve bone]"
-msgstr ""
+msgstr "[CATEGORY_NAME:Tailler de l'os]"
 
 #: reaction_other.txt:451
 msgctxt "REACTION:CARVE_BONE_FIGURINE"
 msgid ""
 "[CATEGORY_DESCRIPTION:Make crafts from bone using a sharp weapon or tool.]"
 msgstr ""
+"[CATEGORY_DESCRIPTION:Faites de l'artisanat à partir d'os à l'aide d'une "
+"arme tranchante ou d'un outil pointu.]"
 
 #: reaction_other.txt:454
 msgctxt "REACTION:CARVE_BONE_RING"
 msgid "[NAME:carve bone ring]"
-msgstr ""
+msgstr "[NAME:tailler un anneau en os]"
 
 #: reaction_other.txt:456
 msgctxt "REACTION:CARVE_BONE_RING"
@@ -55701,17 +55723,17 @@ msgstr "[REAGENT:outil:]"
 #: reaction_other.txt:460
 msgctxt "REACTION:CARVE_BONE_RING"
 msgid "[PRODUCT:100:1:RING:NONE:GET_MATERIAL_FROM_REAGENT:bone:]"
-msgstr ""
+msgstr "[PRODUCT:100:1:RING:NONE:GET_MATERIAL_FROM_REAGENT:os:]"
 
 #: reaction_other.txt:461
 msgctxt "REACTION:CARVE_BONE_RING"
 msgid "[PRODUCT_TOKEN:ring]"
-msgstr ""
+msgstr "[PRODUCT_TOKEN:anneau]"
 
 #: reaction_other.txt:466
 msgctxt "REACTION:CARVE_BONE_EARRING"
 msgid "[NAME:carve bone earring]"
-msgstr ""
+msgstr "[NAME:tailler une boucle d'oreille en os]"
 
 #: reaction_other.txt:468
 msgctxt "REACTION:CARVE_BONE_EARRING"
@@ -55726,17 +55748,17 @@ msgstr "[REAGENT:outil:]"
 #: reaction_other.txt:472
 msgctxt "REACTION:CARVE_BONE_EARRING"
 msgid "[PRODUCT:100:1:EARRING:NONE:GET_MATERIAL_FROM_REAGENT:bone:]"
-msgstr ""
+msgstr "[PRODUCT:100:1:EARRING:NONE:GET_MATERIAL_FROM_REAGENT:os:]"
 
 #: reaction_other.txt:473
 msgctxt "REACTION:CARVE_BONE_EARRING"
 msgid "[PRODUCT_TOKEN:earring]"
-msgstr ""
+msgstr "[PRODUCT_TOKEN:boucle d'oreille]"
 
 #: reaction_other.txt:478
 msgctxt "REACTION:CARVE_BONE_SCEPTER"
 msgid "[NAME:carve bone scepter]"
-msgstr ""
+msgstr "[NAME:tailler un sceptre en os]"
 
 #: reaction_other.txt:480
 msgctxt "REACTION:CARVE_BONE_SCEPTER"
@@ -55751,17 +55773,17 @@ msgstr "[REAGENT:outil:]"
 #: reaction_other.txt:484
 msgctxt "REACTION:CARVE_BONE_SCEPTER"
 msgid "[PRODUCT:100:1:SCEPTER:NONE:GET_MATERIAL_FROM_REAGENT:bone:]"
-msgstr ""
+msgstr "[PRODUCT:100:1:SCEPTER:NONE:GET_MATERIAL_FROM_REAGENT:os:]"
 
 #: reaction_other.txt:485
 msgctxt "REACTION:CARVE_BONE_SCEPTER"
 msgid "[PRODUCT_TOKEN:scepter]"
-msgstr ""
+msgstr "[PRODUCT_TOKEN:sceptre]"
 
 #: reaction_other.txt:490
 msgctxt "REACTION:CARVE_BONE_AMULET"
 msgid "[NAME:carve bone amulet]"
-msgstr ""
+msgstr "[NAME:tailler une amulette en os]"
 
 #: reaction_other.txt:492
 msgctxt "REACTION:CARVE_BONE_AMULET"
@@ -55776,17 +55798,17 @@ msgstr "[REAGENT:outil:]"
 #: reaction_other.txt:496
 msgctxt "REACTION:CARVE_BONE_AMULET"
 msgid "[PRODUCT:100:1:AMULET:NONE:GET_MATERIAL_FROM_REAGENT:bone:]"
-msgstr ""
+msgstr "[PRODUCT:100:1:AMULET:NONE:GET_MATERIAL_FROM_REAGENT:os:]"
 
 #: reaction_other.txt:497
 msgctxt "REACTION:CARVE_BONE_AMULET"
 msgid "[PRODUCT_TOKEN:amulet]"
-msgstr ""
+msgstr "[PRODUCT_TOKEN:amulette]"
 
 #: reaction_other.txt:502
 msgctxt "REACTION:CARVE_BONE_BRACELET"
 msgid "[NAME:carve bone bracelet]"
-msgstr ""
+msgstr "[NAME:tailler un bracelet en os]"
 
 #: reaction_other.txt:504
 msgctxt "REACTION:CARVE_BONE_BRACELET"
@@ -55801,17 +55823,17 @@ msgstr "[REAGENT:outil:]"
 #: reaction_other.txt:508
 msgctxt "REACTION:CARVE_BONE_BRACELET"
 msgid "[PRODUCT:100:1:BRACELET:NONE:GET_MATERIAL_FROM_REAGENT:bone:]"
-msgstr ""
+msgstr "[PRODUCT:100:1:BRACELET:NONE:GET_MATERIAL_FROM_REAGENT:os:]"
 
 #: reaction_other.txt:509
 msgctxt "REACTION:CARVE_BONE_BRACELET"
 msgid "[PRODUCT_TOKEN:bracelet]"
-msgstr ""
+msgstr "[PRODUCT_TOKEN:bracelet]"
 
 #: reaction_other.txt:514
 msgctxt "REACTION:CARVE_BONE_CROWN"
 msgid "[NAME:carve bone crown]"
-msgstr ""
+msgstr "[NAME:tailler une couronne en os]"
 
 #: reaction_other.txt:516
 msgctxt "REACTION:CARVE_BONE_CROWN"
