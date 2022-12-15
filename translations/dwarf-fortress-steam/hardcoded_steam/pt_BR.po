@@ -4,7 +4,6 @@
 # Ariel Barroso, 2022
 # Bruno Brandão dos Santos <brunobrandao10@gmail.com>, 2022
 # Alexandre Lopes, 2022
-# Alexandre Hernandes, 2022
 # Soleva Strike, 2022
 # Matheus Rodrigo, 2022
 # Transifex Bot <>, 2022
@@ -30,13 +29,19 @@
 # Isabela Velasquez, 2022
 # Anderson Rodrigues, 2022
 # Henrique Rutzen, 2022
-# Rodrigo Puerare, 2022
 # Cândido Gabriel Samborski Parise, 2022
+# Márcio Luiz, 2022
+# Artur Melo, 2022
+# John Gerber, 2022
+# lu66cas, 2022
+# João Victor, 2022
 # Bruno Fernandes, 2022
+# Alexandre Hernandes, 2022
+# Rodrigo Puerare, 2022
 # 
 msgid ""
 msgstr ""
-"Last-Translator: Bruno Fernandes, 2022\n"
+"Last-Translator: Rodrigo Puerare, 2022\n"
 "Language-Team: Portuguese (Brazil) (https://www.transifex.com/dwarf-fortress-translation/teams/22396/pt_BR/)\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -2234,7 +2239,7 @@ msgstr "Verdadeiramente mortificado!"
 
 #: stringdump_steam_2022_12_06.txt:614
 msgid "Distressed!"
-msgstr "Distresse"
+msgstr "Angustiado!"
 
 #: stringdump_steam_2022_12_06.txt:615
 msgid "Taken by a fright!"
@@ -3374,7 +3379,7 @@ msgstr "Sem posição oficial"
 
 #: stringdump_steam_2022_12_06.txt:900
 msgid " (Rusty)"
-msgstr "Rusty"
+msgstr "(Enferrujado)"
 
 #: stringdump_steam_2022_12_06.txt:901
 msgid "Focused!"
@@ -7156,7 +7161,7 @@ msgstr "Salvando acordos..."
 
 #: stringdump_steam_2022_12_06.txt:1863
 msgid "[Completed]"
-msgstr "[Concluído]"
+msgstr "[Completed]"
 
 #: stringdump_steam_2022_12_06.txt:1864
 msgid "Preparing for the caravan"
@@ -7332,7 +7337,7 @@ msgstr "Anúncio: Estoques"
 
 #: stringdump_steam_2022_12_06.txt:1907
 msgid "[Viewed]"
-msgstr "[Visualizado]"
+msgstr "[Viewed]"
 
 #: stringdump_steam_2022_12_06.txt:1908
 msgid "Popup: Work orders"
@@ -18786,11 +18791,15 @@ msgid ""
 "Assign a burrow defense order.  The soldiers will patrol the burrow and "
 "attack any hostile creatures."
 msgstr ""
+"Atribua uma ordem de defesa da toca. Os soldados irão patrulhar e atacar "
+"qualquer criatura hostil."
 
 #: stringdump_steam_2022_12_06.txt:4585
 msgid ""
 "Assign a patrol order.  The soldiers will walk a specified route repeatedly."
 msgstr ""
+"Definir rota de patrulha. Os soldados caminharão repetidamente pela rota "
+"especificada."
 
 #: stringdump_steam_2022_12_06.txt:4586
 msgid "Recenter on the creature (at the time of the announcement.)"
@@ -18802,15 +18811,15 @@ msgstr "Centralizar no local do aviso."
 
 #: stringdump_steam_2022_12_06.txt:4588
 msgid "Inspect the route."
-msgstr ""
+msgstr "Inspecione a rota."
 
 #: stringdump_steam_2022_12_06.txt:4589
 msgid "Disband the squad."
-msgstr ""
+msgstr "Debandar o esquadrão."
 
 #: stringdump_steam_2022_12_06.txt:4590
 msgid "Add stockpile links for this workshop."
-msgstr ""
+msgstr "Adiciona vínculos de depósitos à esta oficina."
 
 #: stringdump_steam_2022_12_06.txt:4591
 msgid "Recenter on the linked building."
@@ -18822,12 +18831,17 @@ msgid ""
 "repeat specified numbers of times and which can be given start conditions.  "
 "This is useful for automation."
 msgstr ""
+"Criar nova ordem de trabalho para essa oficina. Ordens de trabalho são "
+"tarefas que podem repetir por numeros específicos de vezes e que podem ser "
+"atribuídas condições para iniciar. Isso é útil para automação."
 
 #: stringdump_steam_2022_12_06.txt:4593
 msgid ""
 "Click to suspend the task.  Assigned workers are removed from suspended "
 "tasks."
 msgstr ""
+"Clique para suspender a tarefa. Trabalhadores designados são removidos de "
+"tarefas suspensas."
 
 #: stringdump_steam_2022_12_06.txt:4594
 msgid "This item is bait."
@@ -18835,7 +18849,7 @@ msgstr "Esse item é isca."
 
 #: stringdump_steam_2022_12_06.txt:4595
 msgid "This is a small creature within the trap."
-msgstr ""
+msgstr "Esta é uma pequena criatura dentro da armadilha."
 
 #: stringdump_steam_2022_12_06.txt:4596
 msgid "This item is being traded."
@@ -18846,6 +18860,8 @@ msgid ""
 "This item is a permanent part of the building.  Forbid and visibility tags "
 "set here affect the whole building."
 msgstr ""
+"Este item é parte permanente da construção. Etiquetas de restrição e "
+"visibilidade colocadas aqui afetarão toda a construção."
 
 #: stringdump_steam_2022_12_06.txt:4598
 msgid ""
@@ -18853,35 +18869,44 @@ msgid ""
 "items or buildings.  If a permanent building item is forbidden, citizens "
 "will not perform tasks there!"
 msgstr ""
+"Alternar o estado de proibido do item. Cidadãos não usarão itens ou "
+"construções proibidas. Se um item permanente da construção for proibido, "
+"cidadãos não farão tarefas nela!"
 
 #: stringdump_steam_2022_12_06.txt:4599
 msgid ""
 "This item is a semi-permanent part of the building, like an item on display."
 msgstr ""
+"Esse item é uma parte semi-permanente da construção, como um item em "
+"exibição."
 
 #: stringdump_steam_2022_12_06.txt:4600
 msgid "This item is resting within the building."
-msgstr ""
+msgstr "Este item está depositado dentro da construção."
 
 #: stringdump_steam_2022_12_06.txt:4601
 msgid "This item has been loaded."
-msgstr ""
+msgstr "Este item foi carregado."
 
 #: stringdump_steam_2022_12_06.txt:4602
 msgid "Cancel this scheduled order."
-msgstr ""
+msgstr "Cancele esta ordem agendada."
 
 #: stringdump_steam_2022_12_06.txt:4603
 msgid ""
 "The soldiers can be allowed to sleep in their rooms whenever they way, or in"
 " the barracks either when they want or only when they must."
 msgstr ""
+"Soldados podem ser autorizados a dormir em seus quartos sempre que "
+"desejarem, ou nos quartéis, se assim preferirem ou apenas quando necessário."
 
 #: stringdump_steam_2022_12_06.txt:4604
 msgid ""
 "The soldiers can either keep their equipment on at all times, or only when "
 "an order is active."
 msgstr ""
+"Soldados podem manter-se equipados todo o tempo, ou apenas quando uma ordem "
+"estiver ativa."
 
 #: stringdump_steam_2022_12_06.txt:4605
 msgid ""
@@ -18889,38 +18914,41 @@ msgid ""
 " will still use them.  If a permanent building item is invisible, the "
 "building will be too!"
 msgstr ""
+"Alterna a visibilidade do item. Itens escondidos não podem ser vistos mas "
+"continurão a ser usados por cidadãos. Se um item de construção permanente "
+"for invisível, a construção também será!"
 
 #: stringdump_steam_2022_12_06.txt:4606
 msgid "The creature is chained."
-msgstr ""
+msgstr "A criatura está acorrentada."
 
 #: stringdump_steam_2022_12_06.txt:4607
 msgid "The selected stockpile will give items to here."
-msgstr ""
+msgstr "O depósito selecionado entregará itens aqui."
 
 #: stringdump_steam_2022_12_06.txt:4608
 msgid "The selected stockpile will take items from here."
-msgstr ""
+msgstr "O depósito selecionado pegará itens daqui."
 
 #: stringdump_steam_2022_12_06.txt:4609
 msgid "The selected workshop will give items to here."
-msgstr ""
+msgstr "A oficina selecionada entregará itens aqui."
 
 #: stringdump_steam_2022_12_06.txt:4610
 msgid "The creature is assigned to a pasture."
-msgstr ""
+msgstr "A criatura está designada para um pasto."
 
 #: stringdump_steam_2022_12_06.txt:4611
 msgid "The creature is set to be caged."
-msgstr ""
+msgstr "A criatura está definida para ser enjaulada."
 
 #: stringdump_steam_2022_12_06.txt:4612
 msgid "The creature is set to be chained."
-msgstr ""
+msgstr "A criatura está definida para ser acorrentada."
 
 #: stringdump_steam_2022_12_06.txt:4613
 msgid "The creature is caged."
-msgstr ""
+msgstr "A criatura está enjaulada."
 
 #: stringdump_steam_2022_12_06.txt:4614
 msgid "Recenter on the surface at this location."
@@ -18932,11 +18960,11 @@ msgstr "Editar os atalhos de locais de centralização."
 
 #: stringdump_steam_2022_12_06.txt:4616
 msgid "The creature is assigned to a pit."
-msgstr ""
+msgstr "A criatura está designada a um poço."
 
 #: stringdump_steam_2022_12_06.txt:4617
 msgid "The creature is assigned to a pond."
-msgstr ""
+msgstr "A criatura está designada a uma lagoa."
 
 #: stringdump_steam_2022_12_06.txt:4618
 msgid "Clear this recenter hotkey location."
@@ -18959,14 +18987,16 @@ msgid ""
 "Toggle whether the soldiers will store their individually assigned weapons "
 "and armor here."
 msgstr ""
+"Alterna se os soldados depositarão suas armas e armaduras individualmente "
+"atribuídas aqui."
 
 #: stringdump_steam_2022_12_06.txt:4623
 msgid "Toggle whether the squad will train here."
-msgstr ""
+msgstr "Alterna se o esquadrão treinará aqui."
 
 #: stringdump_steam_2022_12_06.txt:4624
 msgid "Toggle whether the squad will sleep here."
-msgstr ""
+msgstr "Alterna se o esquadrão dormirá aqui."
 
 #: stringdump_steam_2022_12_06.txt:4625
 msgid "Recenter on the item (at the time of the announcement.)"
@@ -18977,55 +19007,62 @@ msgid ""
 "Choose a stockpile with which the track stop's vehicle will exchange items."
 "  The vehicle will take desired items and offload any others."
 msgstr ""
+"Escolhe um depósito com o qual o veículo na parada da trilha trocará itens. "
+"O veículo pegará os itens desejados e descarregará quaisquer outros."
 
 #: stringdump_steam_2022_12_06.txt:4627
 msgid ""
 "Choose a stockpile from which the track stop's vehicle will take items."
 msgstr ""
+"Escolhe um depósito do qual o veículo na parada da trilha pegará itens."
 
 #: stringdump_steam_2022_12_06.txt:4628
 msgid "Choose a stockpile to which the track stop's vehicle will give items."
 msgstr ""
+"Escolha um depósito aonde o veículo na parada da trilha colocará itens."
 
 #: stringdump_steam_2022_12_06.txt:4629
 msgid ""
 "Toggle whether the squad will store squad-level equipment here, such as "
 "ammunition."
 msgstr ""
+"Alterna se o esquadrão depositará equipamento de combate aqui, como munição."
 
 #: stringdump_steam_2022_12_06.txt:4630
 msgid "Choose a stockpile from which the selected stockpile will take items."
-msgstr ""
+msgstr "Escolhe um depósito do qual o depósito selecionado pegará itens."
 
 #: stringdump_steam_2022_12_06.txt:4631
 msgid "Choose a stockpile to which the selected stockpile will give items."
-msgstr ""
+msgstr "Escolha um depósito aonde o depósito selecionado colocará itens"
 
 #: stringdump_steam_2022_12_06.txt:4632
 msgid "Choose a stockpile from which the workshop will take items."
-msgstr ""
+msgstr "Escolhe um depósito do qual a oficina receberá itens."
 
 #: stringdump_steam_2022_12_06.txt:4633
 msgid "Choose a stockpile to which the workshop will give items."
-msgstr ""
+msgstr "Escolhe um depósito para qual a oficina fornecerá itens."
 
 #: stringdump_steam_2022_12_06.txt:4634
 msgid "The selected workshop will take items from here."
-msgstr ""
+msgstr "A oficina selecionada irá pegar itens daqui."
 
 #: stringdump_steam_2022_12_06.txt:4635
 msgid "The track stop's vehicle will give items to this stockpile."
-msgstr ""
+msgstr "O veículo na parada da trilha fornecerá itens à este depósito."
 
 #: stringdump_steam_2022_12_06.txt:4636
 msgid "The track stop's vehicle will take items from this stockpile."
-msgstr ""
+msgstr "O veículo na parada da trilha receberá itens deste depósito."
 
 #: stringdump_steam_2022_12_06.txt:4637
 msgid ""
 "The track stop's vehicle will exchange items with this stockpile.  The "
 "vehicle will take desired items and offload any others."
 msgstr ""
+"O veículo na parada da trilha trocará itens com este depósito. O veículo "
+"pegará os itens desejados e descarregará quaisquer outros."
 
 #: stringdump_steam_2022_12_06.txt:4638
 msgid ""
@@ -19033,6 +19070,9 @@ msgid ""
 "for metal crossbows and metal bolts, and the crafts workshop is used to make"
 " other bolts."
 msgstr ""
+"Faça bestas de madeira ou osso aqui. A forja do ferreiro pode ser usada para"
+" bestas e setas de metal, e a oficina de artesanato é usada para fazer "
+"outras setas."
 
 #: stringdump_steam_2022_12_06.txt:4639
 msgid ""
@@ -19058,6 +19098,8 @@ msgid ""
 "Archery targets, siege weapons, and some ornamental display items can be "
 "found in this category."
 msgstr ""
+"Alvos para arco e flecha, armas de cerco, e alguns itens ornamentais podem "
+"ser encontrados nesta categoria."
 
 #: stringdump_steam_2022_12_06.txt:4642
 msgid ""
@@ -19066,6 +19108,10 @@ msgid ""
 "are responsible for placing the forge above the magma, but no other fuel is "
 "required."
 msgstr ""
+"Forje armas e armaduras aqui, bem como a maioria dos objetos de metal desde "
+"mobília à componentes para armadilhas. O magma sob a forja alimentará seu "
+"funcionamento. Você é responsável por colocar a forja sobre o magma, nenhum "
+"outro combustível é necessário."
 
 #: stringdump_steam_2022_12_06.txt:4643
 msgid ""
@@ -19080,29 +19126,38 @@ msgid ""
 "Make crafts for trade and your own citizens here, as well as a variety of "
 "tools, armor, and bolts."
 msgstr ""
+"Fabrique objetos para negociar e para seus próprios cidadãos aqui, bem como "
+"uma variedade de ferramentas, armaduras e parafusos."
 
 #: stringdump_steam_2022_12_06.txt:4645
 msgid ""
 "Make beds and various furniture here, as well as bins, barrels, and more."
 msgstr ""
+"Fabrique camas e uma variedade de móveis aqui, bem como cestos de lixo, "
+"barris e mais."
 
 #: stringdump_steam_2022_12_06.txt:4646
 msgid ""
 "Make stone furniture here, as well as blocks which are used in "
 "constructions."
-msgstr ""
+msgstr "Fabrique mobília de pedra aqui, bem como blocos usados em construção."
 
 #: stringdump_steam_2022_12_06.txt:4647
 msgid ""
 "Here you can make parts for ballistae and catapults.  This workshop is also "
 "the place where ballista ammo is assembled."
 msgstr ""
+"Aqui podem ser fabricadas partes para balistas e catapultas. Esta oficina "
+"também é o lugar onde munição para balistas é montada."
 
 #: stringdump_steam_2022_12_06.txt:4648
 msgid ""
 "Forge weapons and armor here, as well as most other metal objects from "
 "furniture to trap components.  These tasks require fuel."
 msgstr ""
+"Forje armas e armaduras aqui, bem como a maioria de outros objetos de metal "
+"desde mobília a componentes de armadilhas. Estas tarefas precisam de "
+"combustível."
 
 #: stringdump_steam_2022_12_06.txt:4649
 msgid ""
@@ -19110,40 +19165,49 @@ msgid ""
 "gears.  You can also use mechanisms to link levers and pressure plates to "
 "other machinery."
 msgstr ""
+"Fabrique mecanismos  usados na confecção de alavancas, placas de pressão, e "
+"engrenagens. Você também pode usar mecanismos para associar alavancas e "
+"placas de pressão à outros equipamentos."
 
 #: stringdump_steam_2022_12_06.txt:4650
 msgid ""
 "Use dyes here to color thread and cloth.  Requires a barrel and bucket for "
 "construction."
 msgstr ""
+"Use corantes aqui para tingir fio e tecido. Um barril e balde são "
+"necessários para construção."
 
 #: stringdump_steam_2022_12_06.txt:4651
 msgid "Make cloth into clothing and tools here, such as bags and ropes."
-msgstr ""
+msgstr "Transforme tecido em roupas e utensílios aqui, como sacos e cordas."
 
 #: stringdump_steam_2022_12_06.txt:4652
 msgid ""
 "Here you can turn thread into cloth, whether it is thread from the farmer's "
 "workshop or spider silk gathered underground."
 msgstr ""
+"Aqui você pode transformar fio em tecido, quer seja fio de uma oficina de "
+"fazendeiro ou seda de aranha coletada no subsolo."
 
 #: stringdump_steam_2022_12_06.txt:4653
 msgid ""
 "Use leather tanned at the tanner's shop here to make clothing and tools, "
 "such as bags and waterskins."
 msgstr ""
+"Use couro curtido no curtume aqui para confeccionar roupas e ferramentas, "
+"como bolsas e odres."
 
 #: stringdump_steam_2022_12_06.txt:4654
 msgid "Zoom in on the play area."
-msgstr ""
+msgstr "Aumente o zoom na área de jogar."
 
 #: stringdump_steam_2022_12_06.txt:4655
 msgid "Show up and down arrows over ramps at the current elevation."
-msgstr ""
+msgstr "Mostra setas indicando cima e baixo sobre rampas na elevação atual."
 
 #: stringdump_steam_2022_12_06.txt:4656
 msgid "Display water and magma depth numerically (1 to 7.)"
-msgstr ""
+msgstr "Mostra a profundidade da água e do magma em números (1 a 7)."
 
 #: stringdump_steam_2022_12_06.txt:4657
 msgid "Delete this recenter location."
@@ -19155,6 +19219,9 @@ msgid ""
 "fuel from wood or raw coal.  Furnaces require fuel to function, or they can "
 "be set above magma."
 msgstr ""
+"Fornalhas são usadas para fundição, fabricação de vidro, cerâmica, "
+"incineração, ou criação de combustível da madeira ou carvão bruto. Fornalhas"
+" precisam de combustível, ou podem ser colocadas sobre o magma."
 
 #: stringdump_steam_2022_12_06.txt:4659
 msgid ""
@@ -19162,45 +19229,59 @@ msgid ""
 "generally require raw materials and most workshops are constructed from "
 "boulders, blocks, or wood."
 msgstr ""
+"A maioria das tarefas no forte começam e terminam nas oficinas. Tarefas "
+"geralmente precisam de matéria-prima e a maioria das oficinas são "
+"construidas de pedregulhos, blocos ou madeira."
 
 #: stringdump_steam_2022_12_06.txt:4660
 msgid ""
 "Open the stocks window, where you can see all of your fortress's items."
 msgstr ""
+"Abra a janela do depósito, onde você pode ver todos os itens de seu forte."
 
 #: stringdump_steam_2022_12_06.txt:4661
 msgid "Zoom out from the play area."
-msgstr ""
+msgstr "Abaixe o zom na área de jogar."
 
 #: stringdump_steam_2022_12_06.txt:4662
 msgid ""
 "Place doors and hatches here after you have constructed them in an "
 "appropriate workshop."
 msgstr ""
+"Coloque portas e escotilhas aqui depois que você as tenha fabricado numa "
+"oficina apropriada."
 
 #: stringdump_steam_2022_12_06.txt:4663
 msgid ""
 "Use options in this category to place furniture that has already been "
 "constructed in a workshop."
 msgstr ""
+"Use as opções nesta categoria para posicionar a mobília que já foi fabricada"
+" numa oficina."
 
 #: stringdump_steam_2022_12_06.txt:4664
 msgid ""
 "A wide variety of food-and-drink-related workshops can be found in this "
 "category."
 msgstr ""
+"Uma grande variedade de oficinas ligadas a comida e bebida podem ser "
+"encontradas nesta categoria."
 
 #: stringdump_steam_2022_12_06.txt:4665
 msgid ""
 "These workshops are used in the clothesmaking process, whether dyeing and "
 "weaving or using tanned hides."
 msgstr ""
+"Estas oficinas são usadas no processo de confecção de roupas, seja tingindo "
+"e tecendo ou usando couro curtido."
 
 #: stringdump_steam_2022_12_06.txt:4666
 msgid ""
 "Various mechanical traps can be found here.  The pressure plate is also "
 "found here, which has applications beyond traps."
 msgstr ""
+"Várias armadilhas mecânicas podem ser encontradas aqui. Dentre elas a placa "
+"de pressão, com utilidades que vão além de armadilhas."
 
 #: stringdump_steam_2022_12_06.txt:4667
 msgid ""
@@ -19208,18 +19289,25 @@ msgid ""
 "traps or to transport large animals.  Metal cages and chains are also used "
 "by the justice system."
 msgstr ""
+"Gaiolas, cordas e armadilhas para animais são encontradas aqui. Gaiolas "
+"podem ser usadas em armadilhas ou para transportar grandes animais. Gaiolas "
+"de metal também são usadas pelo sistema judiciário."
 
 #: stringdump_steam_2022_12_06.txt:4668
 msgid ""
 "More complicated buildings from wells to powered machine components to "
 "levers and floodgates are found here."
 msgstr ""
+"Construções mais complexas são encontradas aqui, desde poços à componentes "
+"de maquinário e alavancas à comportas."
 
 #: stringdump_steam_2022_12_06.txt:4669
 msgid ""
 "Most terrain-altering constructions can be found here, from walls and floors"
 " to bridges, ramps, stairs, and more."
 msgstr ""
+"A maioria das construções que alteram o terreno podem ser encontradas aqui, "
+"desde paredes e pisos à pontes, rampas, escadas e mais."
 
 #: stringdump_steam_2022_12_06.txt:4670
 msgid ""
@@ -19235,12 +19323,17 @@ msgid ""
 "after the hive is placed, or a colony can be split from an existing hive "
 "colony."
 msgstr ""
+"Mantém uma colônia de insetos em suas colmeias. Uma colônia selvagem deve "
+"ser coletada depois que a colmeia é colocada, ou uma colônia pode ser "
+"dividida de uma outra existente."
 
 #: stringdump_steam_2022_12_06.txt:4672
 msgid ""
 "When placed, a female bird will claim the box and start laying eggs, if one "
 "is available."
 msgstr ""
+"Quando colocado, um pássaro fêmea proclamará a caixa e começará a botar "
+"ovos, se uma estiver disponível."
 
 #: stringdump_steam_2022_12_06.txt:4673
 msgid ""
@@ -19257,6 +19350,8 @@ msgid ""
 "Cabinets are used in personal bedrooms for storing clothing objects.  A "
 "cabinet object must be made before it can be placed."
 msgstr ""
+"Cômodas são usadas nos quartos pessoais para guardar peças de roupa. Uma "
+"cômoda precisa antes ser fabricada e depois alocada."
 
 #: stringdump_steam_2022_12_06.txt:4675
 msgid ""
@@ -19265,12 +19360,18 @@ msgid ""
 "hospitals, and libraries for storing useful materials.  A box object must be"
 " made before it can be placed."
 msgstr ""
+"Baús e cofres são usadas nos quartos pessoais para guarda objetos que não "
+"sejam roupas. São usados também em algumas localizações como tabernas, "
+"hospitais e bibliotecas para armazenar objetos úteis. Caixas precisam antes "
+"ser fabricadas e depois alocadas."
 
 #: stringdump_steam_2022_12_06.txt:4676
 msgid ""
 "Tables are required for dining.  A chair should be placed adjacent to the "
 "table.  A table object must be made before it can be placed."
 msgstr ""
+"Mesas são necessárias para jantar. Uma cadeira deve ser colocada adjacente à"
+" mesa. Um objeto mesa deve ser feito antes de ser posicionado."
 
 #: stringdump_steam_2022_12_06.txt:4677
 msgid ""
@@ -19288,12 +19389,17 @@ msgid ""
 "contraptions like the traction bench for treatment.  A traction bench object"
 " must be made before it can be placed."
 msgstr ""
+"Certos ferimentos como fraturas sobrepostas precisam de equipamentos médicos"
+" como o banco tracionador para tratamento. Um objeto de banco tracionador "
+"deve ser feito antes de ser posicionado."
 
 #: stringdump_steam_2022_12_06.txt:4679
 msgid ""
 "Statues can be used to decorate your fortress and add value to your rooms.  "
 "A statue object must be made at an appropriate workshop first."
 msgstr ""
+"Estátuas podem ser usadas para decorar seu forte e adicionar riqueza a seus "
+"quartos. A estátua deve ser feita em uma oficina apropriada primeiro."
 
 #: stringdump_steam_2022_12_06.txt:4680
 msgid ""
@@ -19310,18 +19416,26 @@ msgid ""
 "zone in order to work.  A coffin object must be made before it can be "
 "placed."
 msgstr ""
+"Os mortos são sepultados em caixões. Caixões devem ser depositados em seus "
+"próprios túmulos para funcionar. Um caixão precisa antes ser fabricado e "
+"depois alocado."
 
 #: stringdump_steam_2022_12_06.txt:4682
 msgid ""
 "Large instruments must be placed in taverns or temples before they will be "
 "used.  These instruments must be assembled at a workshop first."
 msgstr ""
+"Grandes instrumentos devem ser colocados em tabernas ou templos antes de "
+"serem usados. Estes instrumentos devem ser montados numa oficina primeiro."
 
 #: stringdump_steam_2022_12_06.txt:4683
 msgid ""
 "These ornamental objects increase the value of rooms in which they are "
 "placed.  An offering place object must be made before it can be placed."
 msgstr ""
+"Estes objetos ornamentais aumentam a riqueza das salas onde são depositados."
+" Um objeto de oferta deve antes ser fabricado para que estes possam ser "
+"alocados."
 
 #: stringdump_steam_2022_12_06.txt:4684
 msgid ""
@@ -19329,16 +19443,21 @@ msgid ""
 "their value and to entertain passing citizens.  A pedestal or display case "
 "must be made before it can be placed."
 msgstr ""
+"Seus objetos de maior valor podem ser colocados à mostra em salas para "
+"aumentar sua riqueza e para entreter cidadãos de passagem. Um pedestal ou "
+"expositor deve ser fabricado para que estes possam ser alocados."
 
 #: stringdump_steam_2022_12_06.txt:4685
 msgid ""
 "Codices and scrolls in your library can be stored in bookcases.  A bookcase "
 "object must be made before it can be placed."
 msgstr ""
+"Códices e pergaminhos na sua biblioteca podem ser armazenados em estantes. "
+"Estantes devem antes ser fabricadas e depois alocadas."
 
 #: stringdump_steam_2022_12_06.txt:4686
 msgid "Process raw fish into edible food here.  Raw fish will not be eaten."
-msgstr ""
+msgstr "Transforme peixe cru em comida aqui. Peixe cru não será consumido."
 
 #: stringdump_steam_2022_12_06.txt:4687
 msgid ""
@@ -19353,30 +19472,38 @@ msgid ""
 "Slaughter livestock here in order to obtain meat, hides, bones, and other "
 "animal products."
 msgstr ""
+"Abata rebanhos aqui para obter carne, couro, ossos e outros produtos "
+"animais."
 
 #: stringdump_steam_2022_12_06.txt:4689
 msgid "Brew alcohol from plants, fruit, or honey."
-msgstr ""
+msgstr "Prepare álcool de plantas, frutas ou mel."
 
 #: stringdump_steam_2022_12_06.txt:4690
 msgid "Capture and train small animals here.  Requires animal traps."
 msgstr ""
+"Capture e treine animais pequenos aqui. Precisa de armadilhas de animais."
 
 #: stringdump_steam_2022_12_06.txt:4691
 msgid ""
 "Make sugar, flour, and various useful slurries here.  Tasks are completed "
 "very slowly compared to the powered millstone."
 msgstr ""
+"Faça açúcar, farinha, e muitas outras massas úteis aqui. O trabalho progride"
+" lentamente se comparado a um moinho."
 
 #: stringdump_steam_2022_12_06.txt:4692
 msgid ""
 "Process plants and work with livestock here.  Milk and shear animals, make "
 "cheese, and spin thread."
 msgstr ""
+"Processe plantas e manuseie rebanhos aqui. Ordenhe e tose animais, faça "
+"queijo, e teça fios."
 
 #: stringdump_steam_2022_12_06.txt:4693
 msgid "Cook meals here.  You can also render fat into tallow."
 msgstr ""
+"Cozinhe as refeições aqui. Você também pode transformar gordura em sebo."
 
 #: stringdump_steam_2022_12_06.txt:4694
 msgid ""
@@ -19386,6 +19513,11 @@ msgid ""
 "responsible for placing the furnace above the magma, but no other fuel is "
 "required."
 msgstr ""
+"Você pode criar uma variedade de objetos usando três tipos diferentes de "
+"vidro. Você pode também coletar areia em sacos através de uma tarefa criada "
+"aqui, se você tiver uma zona de coleta de areia. Magma sob a fornalha à "
+"alimentará. É sua responsabilidade colocar a fornalha sobre o magma, então "
+"nenhum outro combustível é necessário."
 
 #: stringdump_steam_2022_12_06.txt:4695
 msgid ""
@@ -19393,6 +19525,9 @@ msgid ""
 "also be collected here if you have a clay collection zone.  All tasks "
 "require fuel aside from clay collection."
 msgstr ""
+"Asse objetos de argila aqui, bem como alguns outros materiais úteis. Argila "
+"pode ser coletada aqui se você tiver uma zona de coleta de argila. Todas as "
+"tarefas que não são coleta de argila precisam de combustível."
 
 #: stringdump_steam_2022_12_06.txt:4696
 msgid ""
@@ -19400,22 +19535,31 @@ msgid ""
 " can also collect sand in bags from a task originating here, if you have a "
 "sand collection zone.  Glassmaking requires fuel."
 msgstr ""
+"Você pode criar uma variedade de objetos usando três tipos diferentes de "
+"vidro. Você pode também coletar areia em sacos através de uma tarefa criada "
+"aqui, se você tiver uma zona de coleta de areia. A fabricação de vidro "
+"precisa de combustível."
 
 #: stringdump_steam_2022_12_06.txt:4697
 msgid ""
 "Make sugar, flour, and various useful slurries here.  Powered version of the"
 " quern.  Must be hooked to a windmill or water wheel to function."
 msgstr ""
+"Faça açúcar, farinha e varias polpas úteis aqui. Versão motorizada do "
+"moedor. Precisa estar ligado a um moinho de vento ou roda d'água para "
+"funcionar."
 
 #: stringdump_steam_2022_12_06.txt:4698
 msgid "Make charcoal and ash from wood here.  Does not require fuel."
-msgstr ""
+msgstr "Faça carvão vegetal e cinzas aqui. Não necessita de combustível."
 
 #: stringdump_steam_2022_12_06.txt:4699
 msgid ""
 "Make metal bars from ore here.  Can also refine coal into usable fuel or "
 "make alloys.  All tasks require fuel."
 msgstr ""
+"Faça barras de metais aqui. Você também pode refinar carvão em combustível "
+"ou fazer liga de metais. Todas tarefas necessitam de combustível."
 
 #: stringdump_steam_2022_12_06.txt:4700
 msgid ""
@@ -19778,7 +19922,7 @@ msgstr "uma colônia de"
 
 #: stringdump_steam_2022_12_06.txt:4765
 msgid " - mine rock or chop trees"
-msgstr ""
+msgstr "- minere pedras ou corte árvores "
 
 #: stringdump_steam_2022_12_06.txt:4766
 msgid "unintelligible"
@@ -19890,7 +20034,7 @@ msgstr "Faixa/Spoor"
 
 #: stringdump_steam_2022_12_06.txt:4797
 msgid "Status of "
-msgstr ""
+msgstr "Estatus de"
 
 #: stringdump_steam_2022_12_06.txt:4798
 msgid "Parley with "
@@ -19938,11 +20082,11 @@ msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:4809
 msgid "Approve"
-msgstr ""
+msgstr "Aprovado"
 
 #: stringdump_steam_2022_12_06.txt:4810
 msgid "Do you approve this request?"
-msgstr ""
+msgstr "Você aprova esse pedido?"
 
 #: stringdump_steam_2022_12_06.txt:4811
 msgid "loss of life."
@@ -20016,11 +20160,11 @@ msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:4828
 msgid "has many members here"
-msgstr ""
+msgstr "tem muitos membros aqui"
 
 #: stringdump_steam_2022_12_06.txt:4829
 msgid "has many members in"
-msgstr ""
+msgstr "tem muitos membros em"
 
 #: stringdump_steam_2022_12_06.txt:4830
 msgid "with the new position appointed by you."
@@ -20040,7 +20184,7 @@ msgstr "reúne-se com"
 
 #: stringdump_steam_2022_12_06.txt:4834
 msgid " guild."
-msgstr ""
+msgstr "guilda."
 
 #: stringdump_steam_2022_12_06.txt:4835
 msgid "with the hall designated for a"
@@ -20056,7 +20200,7 @@ msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:4838
 msgid "  My epic journey began "
-msgstr ""
+msgstr "Minha jornada épica se inicia "
 
 #: stringdump_steam_2022_12_06.txt:4839
 msgid ", and I aim to return it home."
@@ -20064,7 +20208,7 @@ msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:4840
 msgid " is the symbol of "
-msgstr ""
+msgstr "é o símbolo de"
 
 #: stringdump_steam_2022_12_06.txt:4841
 msgid "[B]Play your role in this noble quest and become legendary!"
@@ -20084,7 +20228,7 @@ msgstr "erradicando monstros."
 
 #: stringdump_steam_2022_12_06.txt:4845
 msgid "for the purpose of"
-msgstr ""
+msgstr "para o propósito de"
 
 #: stringdump_steam_2022_12_06.txt:4846
 msgid "wishes to reside here"
@@ -20096,15 +20240,15 @@ msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:4848
 msgid "sanctuary."
-msgstr ""
+msgstr "santuário."
 
 #: stringdump_steam_2022_12_06.txt:4849
 msgid "study."
-msgstr ""
+msgstr "estudo."
 
 #: stringdump_steam_2022_12_06.txt:4850
 msgid "soldiering."
-msgstr ""
+msgstr "guardando."
 
 #: stringdump_steam_2022_12_06.txt:4851
 msgid "entertaining citizens and visitors."
@@ -20116,7 +20260,7 @@ msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:4853
 msgid "as a citizen of"
-msgstr ""
+msgstr "é um cidadão de"
 
 #: stringdump_steam_2022_12_06.txt:4854
 msgid "desires citizenship."
@@ -20136,7 +20280,7 @@ msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:4858
 msgid "and now requires"
-msgstr ""
+msgstr "e agora requere"
 
 #: stringdump_steam_2022_12_06.txt:4859
 msgid "has many worshippers here"
@@ -20484,7 +20628,7 @@ msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:4937
 msgid "Add new work detail"
-msgstr ""
+msgstr "Adicionar nova configuração de trabalho"
 
 #: stringdump_steam_2022_12_06.txt:4938
 msgid "You have no work details."
@@ -20512,19 +20656,19 @@ msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:4944
 msgid "Hauling"
-msgstr "Recolha de madeira"
+msgstr "Transporte"
 
 #: stringdump_steam_2022_12_06.txt:4945
 msgid "Sieges and forbidding"
-msgstr ""
+msgstr "Cercos e proibições"
 
 #: stringdump_steam_2022_12_06.txt:4946
 msgid "Chores"
-msgstr ""
+msgstr "Tarefas"
 
 #: stringdump_steam_2022_12_06.txt:4947
 msgid "Automatically weave all thread"
-msgstr ""
+msgstr "Automaticamente tecer todos os fios"
 
 #: stringdump_steam_2022_12_06.txt:4948
 msgid "Only selected do this"
@@ -20532,35 +20676,35 @@ msgstr "Selecionado para fazer apenas isso"
 
 #: stringdump_steam_2022_12_06.txt:4949
 msgid "Nobody does this"
-msgstr ""
+msgstr "Ninguém faz isso"
 
 #: stringdump_steam_2022_12_06.txt:4950
 msgid "Nobody can be assigned."
-msgstr ""
+msgstr "Ninguém pode ser atribuído."
 
 #: stringdump_steam_2022_12_06.txt:4951
 msgid "Automated workshops"
-msgstr ""
+msgstr "Oficinas automatizadas"
 
 #: stringdump_steam_2022_12_06.txt:4952
 msgid "All counts accurate"
-msgstr "Todas as contagens exatas"
+msgstr "Todas as contagens precisas"
 
 #: stringdump_steam_2022_12_06.txt:4953
 msgid "High Precision"
-msgstr "Alta precisao"
+msgstr "Alta Precisão"
 
 #: stringdump_steam_2022_12_06.txt:4954
 msgid "Highest Precision"
-msgstr "Maior precisao"
+msgstr "Maior Precisão"
 
 #: stringdump_steam_2022_12_06.txt:4955
 msgid "Stocks amount display: "
-msgstr ""
+msgstr "Exibição da quantidade de estoques: "
 
 #: stringdump_steam_2022_12_06.txt:4956
 msgid "highest precision"
-msgstr "maior precisao"
+msgstr "maior precisão"
 
 #: stringdump_steam_2022_12_06.txt:4957
 msgid "Your bookkeeper needs to work in an office to improve precision"
@@ -20569,11 +20713,11 @@ msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:4958
 msgid "The stockpile records are "
-msgstr "Os registros de estoque sao"
+msgstr "Os registros de estoque são "
 
 #: stringdump_steam_2022_12_06.txt:4959
 msgid "% updated toward the next precision level."
-msgstr "% atualizado para o próximo nível de precisao."
+msgstr "% atualizado para o próximo nível de precisão."
 
 #: stringdump_steam_2022_12_06.txt:4960
 msgid "Your bookkeeper has done enough work to attain "
@@ -20581,123 +20725,123 @@ msgstr "Seu contador tem feito bastante trabalho para atingir"
 
 #: stringdump_steam_2022_12_06.txt:4961
 msgid "low precision"
-msgstr "baixa precisao"
+msgstr "baixa precisão"
 
 #: stringdump_steam_2022_12_06.txt:4962
 msgid "medium precision"
-msgstr "precisao média"
+msgstr "precisão média"
 
 #: stringdump_steam_2022_12_06.txt:4963
 msgid "high precision"
-msgstr "alta precisao"
+msgstr "alta precisão"
 
 #: stringdump_steam_2022_12_06.txt:4964
 msgid "Do not automate smelter"
-msgstr ""
+msgstr "Não automatizar a fundição"
 
 #: stringdump_steam_2022_12_06.txt:4965
 msgid "Automate other shops"
-msgstr ""
+msgstr "Automatizar outras oficinas"
 
 #: stringdump_steam_2022_12_06.txt:4966
 msgid "Do not automate other shops"
-msgstr ""
+msgstr "Não automatizar outras oficinas"
 
 #: stringdump_steam_2022_12_06.txt:4967
 msgid "Workers gather animals"
-msgstr ""
+msgstr "Trabalhadores recolhem animais"
 
 #: stringdump_steam_2022_12_06.txt:4968
 msgid "Do not automate tannery"
-msgstr ""
+msgstr "Não automatizar o curtume"
 
 #: stringdump_steam_2022_12_06.txt:4969
 msgid "Automate kiln"
-msgstr ""
+msgstr "Automatizar o forno"
 
 #: stringdump_steam_2022_12_06.txt:4970
 msgid "Do not automate kiln"
-msgstr ""
+msgstr "Não automatizar o forno"
 
 #: stringdump_steam_2022_12_06.txt:4971
 msgid "Automate smelter"
-msgstr ""
+msgstr "Automatizar a fundição"
 
 #: stringdump_steam_2022_12_06.txt:4972
 msgid "Workers ignore furniture"
-msgstr ""
+msgstr "Trabalhadores ignoram móveis"
 
 #: stringdump_steam_2022_12_06.txt:4973
 msgid "Workers gather bodies"
-msgstr ""
+msgstr "Trabalhadores recolhem corpos"
 
 #: stringdump_steam_2022_12_06.txt:4974
 msgid "Workers ignore bodies"
-msgstr ""
+msgstr "Trabalhadores ignoram corpos"
 
 #: stringdump_steam_2022_12_06.txt:4975
 msgid "Workers gather minerals"
-msgstr ""
+msgstr "Trabalhadores recolhem minerais"
 
 #: stringdump_steam_2022_12_06.txt:4976
 msgid "Workers ignore animals"
-msgstr ""
+msgstr "Trabalhadores ignoram animais"
 
 #: stringdump_steam_2022_12_06.txt:4977
 msgid "Workers gather food"
-msgstr ""
+msgstr "Trabalhadores coletam comida"
 
 #: stringdump_steam_2022_12_06.txt:4978
 msgid "Workers ignore food"
-msgstr ""
+msgstr "Trabalhadores ignoram comida"
 
 #: stringdump_steam_2022_12_06.txt:4979
 msgid "Workers gather furniture"
-msgstr ""
+msgstr "Trabalhadores recolhem móveis"
 
 #: stringdump_steam_2022_12_06.txt:4980
 msgid "Automatically collect webs"
-msgstr ""
+msgstr "Coletar teias automaticamente"
 
 #: stringdump_steam_2022_12_06.txt:4981
 msgid "No automatic web collection"
-msgstr ""
+msgstr "Não coletar teias automaticamente"
 
 #: stringdump_steam_2022_12_06.txt:4982
 msgid "Slaughter any marked animal"
-msgstr ""
+msgstr "Abater qualquer animal marcado"
 
 #: stringdump_steam_2022_12_06.txt:4983
 msgid "No automatic slaughter"
-msgstr ""
+msgstr "Não abater automaticamente"
 
 #: stringdump_steam_2022_12_06.txt:4984
 msgid "Automatically weave dyed thread"
-msgstr ""
+msgstr "Tecer automaticamente linha tingida"
 
 #: stringdump_steam_2022_12_06.txt:4985
 msgid "No automatic weaving"
-msgstr ""
+msgstr "Não tecer automaticamente"
 
 #: stringdump_steam_2022_12_06.txt:4986
 msgid "Use only dyed cloth"
-msgstr ""
+msgstr "Use apenas pano tingido"
 
 #: stringdump_steam_2022_12_06.txt:4987
 msgid "Use any cloth"
-msgstr ""
+msgstr "Use qualquer pano"
 
 #: stringdump_steam_2022_12_06.txt:4988
 msgid "Automate kitchen"
-msgstr ""
+msgstr "Automatizar cozinha"
 
 #: stringdump_steam_2022_12_06.txt:4989
 msgid "Do not automate kitchen"
-msgstr ""
+msgstr "Não automatizar cozinha"
 
 #: stringdump_steam_2022_12_06.txt:4990
 msgid "Automate tannery"
-msgstr ""
+msgstr "Automatizar curtume"
 
 #: stringdump_steam_2022_12_06.txt:4991
 msgid "Automatically butcher carcasses"
@@ -20709,75 +20853,75 @@ msgstr "Não retalhar automaticamente"
 
 #: stringdump_steam_2022_12_06.txt:4993
 msgid "Automatically clean fish"
-msgstr ""
+msgstr "Limpar peixes automaticamente"
 
 #: stringdump_steam_2022_12_06.txt:4994
 msgid "No automatic fish cleaning"
-msgstr ""
+msgstr "Não limpar peixes automaticamente"
 
 #: stringdump_steam_2022_12_06.txt:4995
 msgid "Workers save hair and wool"
-msgstr ""
+msgstr "Trabalhadores salvam pelos e lã"
 
 #: stringdump_steam_2022_12_06.txt:4996
 msgid "Workers dump other objects"
-msgstr ""
+msgstr "Trabalhadores despejam outros objetos"
 
 #: stringdump_steam_2022_12_06.txt:4997
 msgid "Workers save other objects"
-msgstr ""
+msgstr "Trabalhadores salvam outros objetos"
 
 #: stringdump_steam_2022_12_06.txt:4998
 msgid "Forbid used ammunition"
-msgstr ""
+msgstr "Proibir munição usada"
 
 #: stringdump_steam_2022_12_06.txt:4999
 msgid "Workers save shells"
-msgstr ""
+msgstr "Trabalhadores salvam conchas"
 
 #: stringdump_steam_2022_12_06.txt:5000
 msgid "Workers dump skins"
-msgstr ""
+msgstr "Trabalhadores despejam peles"
 
 #: stringdump_steam_2022_12_06.txt:5001
 msgid "Workers save skins"
-msgstr ""
+msgstr "Trabalhadores salvam peles"
 
 #: stringdump_steam_2022_12_06.txt:5002
 msgid "Workers dump hair and wool"
-msgstr ""
+msgstr "Trabalhadores despejam pelos e lã"
 
 #: stringdump_steam_2022_12_06.txt:5003
 msgid "Claim your dead"
-msgstr ""
+msgstr "Reivindique seus mortos"
 
 #: stringdump_steam_2022_12_06.txt:5004
 msgid "Forbid your death items"
-msgstr ""
+msgstr "Proibir seus itens de morte"
 
 #: stringdump_steam_2022_12_06.txt:5005
 msgid "Forbid your death items during sieges"
-msgstr ""
+msgstr "Proibir seus itens de morte durante cercos"
 
 #: stringdump_steam_2022_12_06.txt:5006
 msgid "Claim your death items"
-msgstr ""
+msgstr "Reivindique seus itens de morte"
 
 #: stringdump_steam_2022_12_06.txt:5007
 msgid "Forbid used ammunition during sieges"
-msgstr ""
+msgstr "Proibir munição usada durante cercos"
 
 #: stringdump_steam_2022_12_06.txt:5008
 msgid "Claim used ammunition"
-msgstr ""
+msgstr "Reivindicar munição usada"
 
 #: stringdump_steam_2022_12_06.txt:5009
 msgid "Forbid your dead"
-msgstr ""
+msgstr "Proibir seus mortos"
 
 #: stringdump_steam_2022_12_06.txt:5010
 msgid "Forbid your dead during sieges"
-msgstr ""
+msgstr "Proibir seus mortos durante cercos"
 
 #: stringdump_steam_2022_12_06.txt:5011
 msgid "Workers ignore refuse"
@@ -20793,19 +20937,19 @@ msgstr "Trabalhadores ignoram restos ao ar livre"
 
 #: stringdump_steam_2022_12_06.txt:5014
 msgid "Workers gather outdoor vermin remains"
-msgstr ""
+msgstr "Trabalhadores recolhem restos de vermes ao ar livre"
 
 #: stringdump_steam_2022_12_06.txt:5015
 msgid "Workers ignore minerals"
-msgstr ""
+msgstr "Trabalhadores ignoram minerais"
 
 #: stringdump_steam_2022_12_06.txt:5016
 msgid "Workers gather wood"
-msgstr ""
+msgstr "Trabalhadores recolhem madeira"
 
 #: stringdump_steam_2022_12_06.txt:5017
 msgid "Workers ignore wood"
-msgstr ""
+msgstr "Trabalhadores ignoram madeira"
 
 #: stringdump_steam_2022_12_06.txt:5018
 msgid "Workers gather refuse"
@@ -20813,179 +20957,179 @@ msgstr "Trabalhadores recolhem restos"
 
 #: stringdump_steam_2022_12_06.txt:5019
 msgid "Workers save skulls"
-msgstr ""
+msgstr "Trabalhadores salvam crânios"
 
 #: stringdump_steam_2022_12_06.txt:5020
 msgid "Workers dump bones"
-msgstr ""
+msgstr "Trabalhadores despejam ossos"
 
 #: stringdump_steam_2022_12_06.txt:5021
 msgid "Workers save bones"
-msgstr ""
+msgstr "Trabalhadores salvam ossos"
 
 #: stringdump_steam_2022_12_06.txt:5022
 msgid "Workers dump shells"
-msgstr ""
+msgstr "Trabalhadores despejam conchas"
 
 #: stringdump_steam_2022_12_06.txt:5023
 msgid "Workers ignore outdoor vermin remains"
-msgstr ""
+msgstr "Trabalhadores ignoram restos de vermes ao ar livre"
 
 #: stringdump_steam_2022_12_06.txt:5024
 msgid "Workers dump corpses"
-msgstr ""
+msgstr "Trabalhadores despejam cadáveres"
 
 #: stringdump_steam_2022_12_06.txt:5025
 msgid "Workers save corpses"
-msgstr ""
+msgstr "Trabalhadores salvam cadáveres"
 
 #: stringdump_steam_2022_12_06.txt:5026
 msgid "Workers dump skulls"
-msgstr ""
+msgstr "Trabalhadores despejam crânios"
 
 #: stringdump_steam_2022_12_06.txt:5027
 msgid "Claim toppled building items"
-msgstr ""
+msgstr "Reivindicar itens de construção tombados"
 
 #: stringdump_steam_2022_12_06.txt:5028
 msgid "Forbidding of death objects occurs at time of death."
-msgstr ""
+msgstr "A proibição de objetos de morte ocorre no momento da morte."
 
 #: stringdump_steam_2022_12_06.txt:5029
 msgid "Children do chores"
-msgstr ""
+msgstr "Crianças fazem tarefas"
 
 #: stringdump_steam_2022_12_06.txt:5030
 msgid "Children don't do chores"
-msgstr ""
+msgstr "Crianças não fazem tarefas"
 
 #: stringdump_steam_2022_12_06.txt:5031
 msgid "Forbid cages from sprung traps during sieges"
-msgstr ""
+msgstr "Proibir jaulas de armadilhas suspensas durante cercos"
 
 #: stringdump_steam_2022_12_06.txt:5032
 msgid "Claim cages from sprung traps"
-msgstr ""
+msgstr "Reivindicar jaulas de armadilhas suspensas"
 
 #: stringdump_steam_2022_12_06.txt:5033
 msgid "Forbid toppled building items"
-msgstr ""
+msgstr "Proibir itens de construção tombados"
 
 #: stringdump_steam_2022_12_06.txt:5034
 msgid "Forbid toppled building items during sieges"
-msgstr ""
+msgstr "Proibir itens de construção tombados durante cercos"
 
 #: stringdump_steam_2022_12_06.txt:5035
 msgid "Announce some job cancellations"
-msgstr ""
+msgstr "Anunciar alguns cancelamentos de empregos"
 
 #: stringdump_steam_2022_12_06.txt:5036
 msgid "Announce no job cancellations"
-msgstr ""
+msgstr "Anunciar nenhum cancelamento de empregos"
 
 #: stringdump_steam_2022_12_06.txt:5037
 msgid "Everybody harvests"
-msgstr ""
+msgstr "Todo mundo colhe"
 
 #: stringdump_steam_2022_12_06.txt:5038
 msgid "Only farmers harvest"
-msgstr ""
+msgstr "Só os agricultores colhem"
 
 #: stringdump_steam_2022_12_06.txt:5039
 msgid "There are no children"
-msgstr ""
+msgstr "Não há crianças"
 
 #: stringdump_steam_2022_12_06.txt:5040
 msgid "to do your chores."
-msgstr ""
+msgstr "para fazer suas tarefas. "
 
 #: stringdump_steam_2022_12_06.txt:5041
 msgid "Announce all job cancellations"
-msgstr ""
+msgstr "Anunciar todos os cancelamentos de trabalhos"
 
 #: stringdump_steam_2022_12_06.txt:5042
 msgid "Announce most job cancellations"
-msgstr ""
+msgstr "Anunciar a maioria dos cancelamentos de trabalhos"
 
 #: stringdump_steam_2022_12_06.txt:5043
 msgid "Forbid other death items during sieges"
-msgstr ""
+msgstr "Proibir outros itens de morte durante cercos"
 
 #: stringdump_steam_2022_12_06.txt:5044
 msgid "Claim other death items"
-msgstr ""
+msgstr "Reivindique outros itens de morte"
 
 #: stringdump_steam_2022_12_06.txt:5045
 msgid "Forbid floor/wall cleaning"
-msgstr ""
+msgstr "Proibir a limpeza do chão/parede"
 
 #: stringdump_steam_2022_12_06.txt:5046
 msgid "Forbid floor/wall cleaning during sieges"
-msgstr ""
+msgstr "Proibir a limpeza do chão/parede durante cercos"
 
 #: stringdump_steam_2022_12_06.txt:5047
 msgid "Forbid other non-hunted dead"
-msgstr ""
+msgstr "Proibir outros mortos não caçados"
 
 #: stringdump_steam_2022_12_06.txt:5048
 msgid "Forbid other non-hunted dead during sieges"
-msgstr ""
+msgstr "Proibir outros mortos não caçados durante cercos"
 
 #: stringdump_steam_2022_12_06.txt:5049
 msgid "Claim other dead"
-msgstr ""
+msgstr "Reivindique outros mortos"
 
 #: stringdump_steam_2022_12_06.txt:5050
 msgid "Forbid other death items"
-msgstr ""
+msgstr "Proibir outros itens de morte"
 
 #: stringdump_steam_2022_12_06.txt:5051
 msgid "Forbid trap rearming"
-msgstr ""
+msgstr "Proibir rearme de armadilha"
 
 #: stringdump_steam_2022_12_06.txt:5052
 msgid "Forbid trap rearming during sieges"
-msgstr ""
+msgstr "Proibir rearme de armadilha durante cercos"
 
 #: stringdump_steam_2022_12_06.txt:5053
 msgid "Allow trap rearming"
-msgstr ""
+msgstr "Permitir rearme de armadilha"
 
 #: stringdump_steam_2022_12_06.txt:5054
 msgid "Forbid cages from sprung traps"
-msgstr ""
+msgstr "Proibir jaulas de armadilhas suspensas"
 
 #: stringdump_steam_2022_12_06.txt:5055
 msgid "Allow floor/wall cleaning"
-msgstr ""
+msgstr "Permitir a limpeza do piso/parede"
 
 #: stringdump_steam_2022_12_06.txt:5056
 msgid "Forbid trap cleaning"
-msgstr ""
+msgstr "Proibir a limpeza da armadilha"
 
 #: stringdump_steam_2022_12_06.txt:5057
 msgid "Forbid trap cleaning during sieges"
-msgstr ""
+msgstr "Proibir a limpeza de armadilhas durante cercos"
 
 #: stringdump_steam_2022_12_06.txt:5058
 msgid "Allow trap cleaning"
-msgstr ""
+msgstr "Permitir a limpeza de armadilhas"
 
 #: stringdump_steam_2022_12_06.txt:5059
 msgid "Stone use"
-msgstr ""
+msgstr "Uso de pedras"
 
 #: stringdump_steam_2022_12_06.txt:5060
 msgid "Choose a symbol for the burrow."
-msgstr ""
+msgstr "Escolha um símbolo para a toca."
 
 #: stringdump_steam_2022_12_06.txt:5061
 msgid "Choose a symbol for the detail."
-msgstr ""
+msgstr "Escolha um símbolo para o detalhe."
 
 #: stringdump_steam_2022_12_06.txt:5062
 msgid "Choose a symbol for the squad."
-msgstr ""
+msgstr "Escolha um símbolo para o esquadrão."
 
 #: stringdump_steam_2022_12_06.txt:5063
 msgid "Number"
@@ -20993,47 +21137,47 @@ msgstr "Número"
 
 #: stringdump_steam_2022_12_06.txt:5064
 msgid "Permissions"
-msgstr "Permissoes"
+msgstr "Permissões"
 
 #: stringdump_steam_2022_12_06.txt:5065
 msgid "You have no appropriate ingredients."
-msgstr "Você nao tem nenhum ingrediente apropriado."
+msgstr "Você não tem ingredientes adequados."
 
 #: stringdump_steam_2022_12_06.txt:5066
 msgid "Standing orders"
-msgstr ""
+msgstr "Ordens permanentes"
 
 #: stringdump_steam_2022_12_06.txt:5067
 msgid "Editing routine "
-msgstr ""
+msgstr "Editando rotinas "
 
 #: stringdump_steam_2022_12_06.txt:5068
 msgid "Equip/always"
-msgstr ""
+msgstr "Equipar/sempre"
 
 #: stringdump_steam_2022_12_06.txt:5069
 msgid "Equip/orders only"
-msgstr ""
+msgstr "Equipar/apenas ordens"
 
 #: stringdump_steam_2022_12_06.txt:5070
 msgid "Sleep/room at will"
-msgstr ""
+msgstr "Dormir/quarto à vontade"
 
 #: stringdump_steam_2022_12_06.txt:5071
 msgid "Symbol"
-msgstr ""
+msgstr "Símbolo "
 
 #: stringdump_steam_2022_12_06.txt:5072
 msgid "Background"
-msgstr ""
+msgstr "Plano de fundo"
 
 #: stringdump_steam_2022_12_06.txt:5073
 msgid "Done editing"
-msgstr ""
+msgstr "Terminar edição"
 
 #: stringdump_steam_2022_12_06.txt:5074
 msgid "(unnamed orders)"
-msgstr ""
+msgstr "(ordens sem nome)"
 
 #: stringdump_steam_2022_12_06.txt:5075
 msgid "Fish only in designated zones"
@@ -21041,111 +21185,111 @@ msgstr "Pescar apenas em áreas designadas"
 
 #: stringdump_steam_2022_12_06.txt:5076
 msgid "Prefer zones for fishing"
-msgstr ""
+msgstr "Prefira zonas para pesca"
 
 #: stringdump_steam_2022_12_06.txt:5077
 msgid "Economic stone"
-msgstr ""
+msgstr "Pedra econômica"
 
 #: stringdump_steam_2022_12_06.txt:5078
 msgid "Stone type"
-msgstr ""
+msgstr "Tipo de pedra"
 
 #: stringdump_steam_2022_12_06.txt:5079
 msgid "Mix similar foods in barrels"
-msgstr ""
+msgstr "Misture alimentos semelhantes em barris"
 
 #: stringdump_steam_2022_12_06.txt:5080
 msgid "Do not mix similar food in barrels"
-msgstr ""
+msgstr "Não misture alimentos semelhantes em barris"
 
 #: stringdump_steam_2022_12_06.txt:5081
 msgid "Drink water only from designed zones"
-msgstr ""
+msgstr "Beber água apenas de zonas designadas"
 
 #: stringdump_steam_2022_12_06.txt:5082
 msgid "Prefer zones for water drinking"
-msgstr ""
+msgstr "Prefira zonas para beber água "
 
 #: stringdump_steam_2022_12_06.txt:5083
 msgid "Vegetables, fruit, and leaves"
-msgstr ""
+msgstr "Vegetais, frutas e folhas"
 
 #: stringdump_steam_2022_12_06.txt:5084
 msgid "Drinks"
-msgstr "drink's"
+msgstr "Bebidas"
 
 #: stringdump_steam_2022_12_06.txt:5085
 msgid "Meat, fish, and others"
-msgstr ""
+msgstr "Carne, peixe e outros"
 
 #: stringdump_steam_2022_12_06.txt:5086
 msgid "Ingredient type"
-msgstr ""
+msgstr "Tipo de ingrediente"
 
 #: stringdump_steam_2022_12_06.txt:5087
 msgid "Magma-safe"
-msgstr "Magma-seguro"
+msgstr "Seguro de magma"
 
 #: stringdump_steam_2022_12_06.txt:5088
 msgid "Economic uses"
-msgstr ""
+msgstr "Usos econômicos"
 
 #: stringdump_steam_2022_12_06.txt:5089
 msgid "Select to use in non-economic jobs."
-msgstr ""
+msgstr "Selecione para usar em trabalhos não econômicos."
 
 #: stringdump_steam_2022_12_06.txt:5090
 msgid "You know of no appropriate stones."
-msgstr ""
+msgstr "Você não conhece pedras apropriadas."
 
 #: stringdump_steam_2022_12_06.txt:5091
 msgid "Routine:"
-msgstr ""
+msgstr "Rotina:"
 
 #: stringdump_steam_2022_12_06.txt:5092
 msgid " target"
-msgstr "alvo"
+msgstr " alvo"
 
 #: stringdump_steam_2022_12_06.txt:5093
 msgid "No target"
-msgstr "Saqueava alvo"
+msgstr "Sem alvo"
 
 #: stringdump_steam_2022_12_06.txt:5094
 msgid "Move: click on the map."
-msgstr ""
+msgstr "Mover: clique no mapa."
 
 #: stringdump_steam_2022_12_06.txt:5095
 msgid "to create a squad."
-msgstr ""
+msgstr "para criar um esquadrão."
 
 #: stringdump_steam_2022_12_06.txt:5096
 msgid "Create new squad"
-msgstr ""
+msgstr "Crie um esquadrão novo"
 
 #: stringdump_steam_2022_12_06.txt:5097
 msgid "Multiple orders"
-msgstr ""
+msgstr "Várias ordens"
 
 #: stringdump_steam_2022_12_06.txt:5098
 msgid "No special orders"
-msgstr ""
+msgstr "Sem ordens especiais"
 
 #: stringdump_steam_2022_12_06.txt:5099
 msgid "change equipment, and"
-msgstr ""
+msgstr "mudar de equipamentos e"
 
 #: stringdump_steam_2022_12_06.txt:5100
 msgid "assign schedules."
-msgstr ""
+msgstr "atribuir programação."
 
 #: stringdump_steam_2022_12_06.txt:5101
 msgid "Choose a uniform for the"
-msgstr ""
+msgstr "Escolha um uniforme para o"
 
 #: stringdump_steam_2022_12_06.txt:5102
 msgid "squad."
-msgstr ""
+msgstr "esquadrão."
 
 #: stringdump_steam_2022_12_06.txt:5103
 msgid "Equip"
@@ -21153,91 +21297,91 @@ msgstr "Equipar"
 
 #: stringdump_steam_2022_12_06.txt:5104
 msgid "Schedule"
-msgstr ""
+msgstr "Programação"
 
 #: stringdump_steam_2022_12_06.txt:5105
 msgid "Select a squad or squad"
-msgstr ""
+msgstr "Selecione um esquadrão ou membro do esquadrão"
 
 #: stringdump_steam_2022_12_06.txt:5106
 msgid "member to give orders,"
-msgstr ""
+msgstr "para dar ordens,"
 
 #: stringdump_steam_2022_12_06.txt:5107
 msgid "new order"
-msgstr ""
+msgstr "nova ordem"
 
 #: stringdump_steam_2022_12_06.txt:5108
 msgid "At least "
-msgstr ""
+msgstr "Pelo menos "
 
 #: stringdump_steam_2022_12_06.txt:5109
 msgid "Vacant position"
-msgstr ""
+msgstr "Posição vaga"
 
 #: stringdump_steam_2022_12_06.txt:5110
 msgid "Back to squads"
-msgstr ""
+msgstr "De volta aos esquadrões"
 
 #: stringdump_steam_2022_12_06.txt:5111
 msgid "Sleep/barracks at will"
-msgstr ""
+msgstr "Dormir/quartel à vontade"
 
 #: stringdump_steam_2022_12_06.txt:5112
 msgid "Sleep/barracks at need"
-msgstr ""
+msgstr "Dormir/quartel se necessário"
 
 #: stringdump_steam_2022_12_06.txt:5113
 msgid "Minimum number of"
-msgstr ""
+msgstr "Número mínimo de"
 
 #: stringdump_steam_2022_12_06.txt:5114
 msgid "soldiers to follow"
-msgstr ""
+msgstr "soldados a seguir"
 
 #: stringdump_steam_2022_12_06.txt:5115
 msgid "is selected"
-msgstr ""
+msgstr "é selecionado"
 
 #: stringdump_steam_2022_12_06.txt:5116
 msgid "You must appoint"
-msgstr ""
+msgstr "Você deve determinar"
 
 #: stringdump_steam_2022_12_06.txt:5117
 msgid "somebody first"
-msgstr ""
+msgstr "alguém primeiro"
 
 #: stringdump_steam_2022_12_06.txt:5118
 msgid "You must appoint a"
-msgstr ""
+msgstr "Você deve determinar um"
 
 #: stringdump_steam_2022_12_06.txt:5119
 msgid "Assign leader"
-msgstr ""
+msgstr "Atribuir líder"
 
 #: stringdump_steam_2022_12_06.txt:5120
 msgid "Assign position "
-msgstr ""
+msgstr "Atribuir posição "
 
 #: stringdump_steam_2022_12_06.txt:5121
 msgid "Cannot appoint"
-msgstr ""
+msgstr "Impossível determinar"
 
 #: stringdump_steam_2022_12_06.txt:5122
 msgid "until commander"
-msgstr ""
+msgstr "até que o comandante"
 
 #: stringdump_steam_2022_12_06.txt:5123
 msgid "Monthly orders"
-msgstr ""
+msgstr "Ordens mensais"
 
 #: stringdump_steam_2022_12_06.txt:5124
 msgid "specific armor"
-msgstr "armaduras específicas"
+msgstr "armadura específica"
 
 #: stringdump_steam_2022_12_06.txt:5125
 msgid "specific helm"
-msgstr "específica Helm"
+msgstr "elmo específico"
 
 #: stringdump_steam_2022_12_06.txt:5126
 msgid "specific pants"
@@ -21245,15 +21389,15 @@ msgstr "calças específicas"
 
 #: stringdump_steam_2022_12_06.txt:5127
 msgid "Current month"
-msgstr ""
+msgstr "Mês atual"
 
 #: stringdump_steam_2022_12_06.txt:5128
 msgid "Add/edit routines (columns)"
-msgstr ""
+msgstr "Adicionar/editar rotinas (colunas)"
 
 #: stringdump_steam_2022_12_06.txt:5129
 msgid "View monthly schedule"
-msgstr ""
+msgstr "Ver programação mensal"
 
 #: stringdump_steam_2022_12_06.txt:5130
 msgid "individual choice"
@@ -21261,15 +21405,15 @@ msgstr "Escolha individual"
 
 #: stringdump_steam_2022_12_06.txt:5131
 msgid ", weapon"
-msgstr "Arma"
+msgstr ", arma"
 
 #: stringdump_steam_2022_12_06.txt:5132
 msgid "indiv choice, melee"
-msgstr "escolha, corpo a corpo indiv"
+msgstr "escolha individual, corpo a corpo"
 
 #: stringdump_steam_2022_12_06.txt:5133
 msgid "indiv choice, ranged"
-msgstr "escolha de indiv, variou"
+msgstr "escolha individual, longo alcance"
 
 #: stringdump_steam_2022_12_06.txt:5134
 msgid "specific gloves"
@@ -21289,15 +21433,15 @@ msgstr "arma específica"
 
 #: stringdump_steam_2022_12_06.txt:5138
 msgid "Off duty"
-msgstr ""
+msgstr "De folga"
 
 #: stringdump_steam_2022_12_06.txt:5139
 msgid "Staggered training"
-msgstr ""
+msgstr "Treino escalonado"
 
 #: stringdump_steam_2022_12_06.txt:5140
 msgid "Constant training"
-msgstr ""
+msgstr "Treino constante"
 
 #: stringdump_steam_2022_12_06.txt:5141
 msgid "Ready"
@@ -21305,59 +21449,59 @@ msgstr "Pronto"
 
 #: stringdump_steam_2022_12_06.txt:5142
 msgid "seleced positions."
-msgstr ""
+msgstr "posições selecionadas."
 
 #: stringdump_steam_2022_12_06.txt:5143
 msgid "seleced squads."
-msgstr ""
+msgstr "esquadrões selecionados."
 
 #: stringdump_steam_2022_12_06.txt:5144
 msgid "No uniform"
-msgstr ": Adicionar uniforme"
+msgstr "Sem uniforme"
 
 #: stringdump_steam_2022_12_06.txt:5145
 msgid "Military routines"
-msgstr ""
+msgstr "Rotinas militares"
 
 #: stringdump_steam_2022_12_06.txt:5146
 msgid "Routine #"
-msgstr ""
+msgstr "Rotina #"
 
 #: stringdump_steam_2022_12_06.txt:5147
 msgid "Add new routine"
-msgstr ""
+msgstr "Adicionar nova rotina"
 
 #: stringdump_steam_2022_12_06.txt:5148
 msgid "Really delete this routine?"
-msgstr ""
+msgstr "Realmente excluir esta rotina?"
 
 #: stringdump_steam_2022_12_06.txt:5149
 msgid "Create which squad?"
-msgstr ""
+msgstr "Criar qual esquadrão?"
 
 #: stringdump_steam_2022_12_06.txt:5150
 msgid "'s squad"
-msgstr ""
+msgstr "esquadrão"
 
 #: stringdump_steam_2022_12_06.txt:5151
 msgid "appointed by "
-msgstr ""
+msgstr "apontado por "
 
 #: stringdump_steam_2022_12_06.txt:5152
 msgid "Uniform worn over clothing"
-msgstr ""
+msgstr "Uniforme usado por cima da roupa"
 
 #: stringdump_steam_2022_12_06.txt:5153
 msgid "Exact matches only"
-msgstr ""
+msgstr "Apenas correspondências exatas"
 
 #: stringdump_steam_2022_12_06.txt:5154
 msgid "Partial matches okay"
-msgstr ""
+msgstr "Correspondências parciais ok"
 
 #: stringdump_steam_2022_12_06.txt:5155
 msgid " individual choice"
-msgstr "Escolha individual"
+msgstr " escolha individual"
 
 #: stringdump_steam_2022_12_06.txt:5156
 msgid "New footwear"
@@ -21365,19 +21509,19 @@ msgstr "Novo calçado"
 
 #: stringdump_steam_2022_12_06.txt:5157
 msgid "New shield"
-msgstr ""
+msgstr "Novo escudo"
 
 #: stringdump_steam_2022_12_06.txt:5158
 msgid "New weapon"
-msgstr ""
+msgstr "Nova arma"
 
 #: stringdump_steam_2022_12_06.txt:5159
 msgid "Uniform replaces clothing"
-msgstr ""
+msgstr "Uniforme substitui a roupa"
 
 #: stringdump_steam_2022_12_06.txt:5160
 msgid "No assigned items"
-msgstr ""
+msgstr "Sem itens atribuídos"
 
 #: stringdump_steam_2022_12_06.txt:5161
 msgid "Mat"
@@ -21389,23 +21533,23 @@ msgstr "Cor"
 
 #: stringdump_steam_2022_12_06.txt:5163
 msgid "Assign uniform"
-msgstr ""
+msgstr "Atribuir uniforme "
 
 #: stringdump_steam_2022_12_06.txt:5164
 msgid " indiv choice, melee"
-msgstr "escolha, corpo a corpo indiv"
+msgstr " escolha individual, corpo a corpo"
 
 #: stringdump_steam_2022_12_06.txt:5165
 msgid " indiv choice, ranged"
-msgstr "escolha de indiv, variou"
+msgstr " escolha individual, longo alcance"
 
 #: stringdump_steam_2022_12_06.txt:5166
 msgid " assigned items"
-msgstr ""
+msgstr " itens atribuídos "
 
 #: stringdump_steam_2022_12_06.txt:5167
 msgid "Not yet assigned"
-msgstr ""
+msgstr "Ainda não atribuído "
 
 #: stringdump_steam_2022_12_06.txt:5168
 msgid "any material"
@@ -21421,7 +21565,7 @@ msgstr "(Corante)"
 
 #: stringdump_steam_2022_12_06.txt:5171
 msgid "missing item"
-msgstr ""
+msgstr "item faltando"
 
 #: stringdump_steam_2022_12_06.txt:5172
 msgid " (foreign)"
@@ -21437,19 +21581,19 @@ msgstr "metal"
 
 #: stringdump_steam_2022_12_06.txt:5176
 msgid "New bodywear"
-msgstr ""
+msgstr "Nova roupa corporal"
 
 #: stringdump_steam_2022_12_06.txt:5177
 msgid "New headwear"
-msgstr ""
+msgstr "Novo chapéu"
 
 #: stringdump_steam_2022_12_06.txt:5178
 msgid "New legwear"
-msgstr ""
+msgstr "Novas calças"
 
 #: stringdump_steam_2022_12_06.txt:5179
 msgid "New handwear"
-msgstr "Novo chapéu"
+msgstr "Novas luvas"
 
 #: stringdump_steam_2022_12_06.txt:5180
 msgid "Position "
@@ -21457,27 +21601,27 @@ msgstr "Posiçao"
 
 #: stringdump_steam_2022_12_06.txt:5181
 msgid "Adding uniform"
-msgstr ""
+msgstr "Adicionando uniforme"
 
 #: stringdump_steam_2022_12_06.txt:5182
 msgid "(enter name here)"
-msgstr ""
+msgstr "(coloque um nome aqui)"
 
 #: stringdump_steam_2022_12_06.txt:5183
 msgid "Confirm and save uniform"
-msgstr ""
+msgstr "Confirmar e salvar uniforme"
 
 #: stringdump_steam_2022_12_06.txt:5184
 msgid "Add uniform"
-msgstr ""
+msgstr "Adicionar uniforme "
 
 #: stringdump_steam_2022_12_06.txt:5185
 msgid "Update equipment"
-msgstr ""
+msgstr "Atualizar equipamento"
 
 #: stringdump_steam_2022_12_06.txt:5186
 msgid "Custom uniform"
-msgstr ""
+msgstr "Uniforme customizado"
 
 #: stringdump_steam_2022_12_06.txt:5187
 msgid "Details"
@@ -21793,7 +21937,7 @@ msgstr "Exausto."
 
 #: stringdump_steam_2022_12_06.txt:5266
 msgid "In combat."
-msgstr ""
+msgstr "Em combate."
 
 #: stringdump_steam_2022_12_06.txt:5267
 msgid "Missing."
@@ -21841,7 +21985,7 @@ msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:5278
 msgid "Prepared by "
-msgstr ""
+msgstr "Confeccionado por"
 
 #: stringdump_steam_2022_12_06.txt:5279
 msgid "[C:5:0:1]Faint"
@@ -22580,7 +22724,7 @@ msgstr "a visão de"
 
 #: stringdump_steam_2022_12_06.txt:5470
 msgid " prefers to consume "
-msgstr "prefere a consumir"
+msgstr "prefere consumir"
 
 #: stringdump_steam_2022_12_06.txt:5471
 msgid " absolutely detests "
@@ -25187,7 +25331,7 @@ msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:6123
 msgid "this counting house"
-msgstr "esta casa de contagem"
+msgstr "esta casa de contabilidade"
 
 #: stringdump_steam_2022_12_06.txt:6124
 msgid "Your room is "
@@ -32657,7 +32801,7 @@ msgstr "As pessoas devem ouvir o que tenho a dizer."
 
 #: stringdump_steam_2022_12_06.txt:8044
 msgid "I prefer to be by myself."
-msgstr "Eu dei água alguém."
+msgstr "Eu prefiro estar sozinho."
 
 #: stringdump_steam_2022_12_06.txt:8045
 msgid "There's so much to be done!"
@@ -42521,7 +42665,7 @@ msgstr "usado junto ao corpo"
 
 #: stringdump_steam_2022_12_06.txt:12320
 msgid "Training Weapons"
-msgstr "Treinamento com armas"
+msgstr "Armas de treinamento"
 
 #: stringdump_steam_2022_12_06.txt:12321
 msgid "Legwear"
@@ -50941,7 +51085,7 @@ msgstr "glorificar figura histórica"
 
 #: stringdump_steam_2022_12_06.txt:15878
 msgid "prefers working alone"
-msgstr ""
+msgstr "prefere trabalhar sozinho"
 
 #: stringdump_steam_2022_12_06.txt:15879
 msgid "become citizen"
@@ -53137,11 +53281,11 @@ msgstr "Outono"
 
 #: stringdump_steam_2022_12_06.txt:16429
 msgid " Summer"
-msgstr ""
+msgstr "Verão"
 
 #: stringdump_steam_2022_12_06.txt:16430
 msgid " Spring"
-msgstr ""
+msgstr "Primavera"
 
 #: stringdump_steam_2022_12_06.txt:16431
 msgid "the securing of "
@@ -62259,11 +62403,11 @@ msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:21371
 msgid "dark tower"
-msgstr ""
+msgstr "torre negra"
 
 #: stringdump_steam_2022_12_06.txt:21372
 msgid "underworld spire"
-msgstr ""
+msgstr "pináculo do submundo"
 
 #: stringdump_steam_2022_12_06.txt:21373
 msgid "temple"
@@ -62295,7 +62439,7 @@ msgstr "Topo da Torre"
 
 #: stringdump_steam_2022_12_06.txt:21380
 msgid "Unknown structure"
-msgstr ""
+msgstr "Estrutura desconhecida"
 
 #: stringdump_steam_2022_12_06.txt:21381
 msgid " again"
@@ -62332,35 +62476,35 @@ msgstr "apenas simples criaturas habitadas"
 
 #: stringdump_steam_2022_12_06.txt:21389
 msgid "Unknown artifact"
-msgstr ""
+msgstr "Artefato desconhecido"
 
 #: stringdump_steam_2022_12_06.txt:21390
 msgid "Unknown book"
-msgstr ""
+msgstr "Livro desconhecido"
 
 #: stringdump_steam_2022_12_06.txt:21391
 msgid "Unknown artwork"
-msgstr ""
+msgstr "Obra de arte desconhecida"
 
 #: stringdump_steam_2022_12_06.txt:21392
 msgid "Unknown site"
-msgstr ""
+msgstr "Local desconhecido"
 
 #: stringdump_steam_2022_12_06.txt:21393
 msgid "Unknown group"
-msgstr ""
+msgstr "Grupo desconhecido"
 
 #: stringdump_steam_2022_12_06.txt:21394
 msgid "counting house"
-msgstr ""
+msgstr "casa de contabilidade"
 
 #: stringdump_steam_2022_12_06.txt:21395
 msgid "Unknown region"
-msgstr ""
+msgstr "Região desconhecida"
 
 #: stringdump_steam_2022_12_06.txt:21396
 msgid "Unknown underground area"
-msgstr ""
+msgstr "Área subterrânea desconhecida"
 
 #: stringdump_steam_2022_12_06.txt:21397
 msgid " was the only great power in the world."
@@ -62787,27 +62931,27 @@ msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:22009
 msgid " has characters that can't be used in filename."
-msgstr ""
+msgstr "possui caracteres que não podem ser usados no nome do arquivo."
 
 #: stringdump_steam_2022_12_06.txt:22010
 msgid "Identifier "
-msgstr ""
+msgstr "Identificador"
 
 #: stringdump_steam_2022_12_06.txt:22019
 msgid ").  Using the first encountered: "
-msgstr ""
+msgstr "). Usando o encontrado primeiro:"
 
 #: stringdump_steam_2022_12_06.txt:22020
 msgid "Two uninstalled mods have the same id and numeric version: "
-msgstr ""
+msgstr "Dois mods desinstalados têm o mesmo id e número de versão:"
 
 #: stringdump_steam_2022_12_06.txt:22021
 msgid "Two installed mods have the same id and numeric version: "
-msgstr ""
+msgstr "Dois mods instalados têm o mesmo id e número de versão:"
 
 #: stringdump_steam_2022_12_06.txt:22024
 msgid "Mod identifier "
-msgstr ""
+msgstr "Identificador do Mod"
 
 #: stringdump_steam_2022_12_06.txt:22025
 msgid " skipped: identifier cannot start with 'classic'."
@@ -62822,6 +62966,8 @@ msgid ""
 " has characters that can't be used in filename.  Loading without these "
 "characters."
 msgstr ""
+"possui caracteres que não podem ser usados no nome do arquivo. Carregando "
+"sem esses caracteres."
 
 #: stringdump_steam_2022_12_06.txt:22035
 msgid "Failed to find vanilla world map header."
@@ -75305,7 +75451,7 @@ msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:25880
 msgid ":blowpipe:blowpipes"
-msgstr ""
+msgstr ":assoprete:assoprete s"
 
 #: stringdump_steam_2022_12_06.txt:25881
 msgid " pipes to select the pitch as the air leaves the instrument.]"
@@ -75329,23 +75475,23 @@ msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:25889
 msgid "Pitch can also be altered by pedals.  "
-msgstr ""
+msgstr "Tom também pode ser alterado pelos pedais."
 
 #: stringdump_steam_2022_12_06.txt:25890
 msgid " bowl is attached to the neck to provide additional overtones.  "
-msgstr ""
+msgstr "caixa é presa ao braço para permitir sobretons adicionais."
 
 #: stringdump_steam_2022_12_06.txt:25891
 msgid "Tuning is accomplished by pegs.  "
-msgstr ""
+msgstr "A afinação é realizada pelas cravelhas."
 
 #: stringdump_steam_2022_12_06.txt:25892
 msgid "Tuning is also possible using small levers.  "
-msgstr ""
+msgstr "Também é possível afinar usando pequenas alavancas."
 
 #: stringdump_steam_2022_12_06.txt:25893
 msgid " string by stopping it against the body.  "
-msgstr ""
+msgstr "corda parando-a contra o corpo."
 
 #: stringdump_steam_2022_12_06.txt:25894
 msgid "Tuning is possible with adjustable bridges.  "
@@ -75353,29 +75499,31 @@ msgstr "Afinaçao é possível com pontes ajustáveis."
 
 #: stringdump_steam_2022_12_06.txt:25895
 msgid " melody pipe"
-msgstr ""
+msgstr "tubo melódico"
 
 #: stringdump_steam_2022_12_06.txt:25896
 msgid " melody pipes"
-msgstr ""
+msgstr "tubos melódicos"
 
 #: stringdump_steam_2022_12_06.txt:25897
 msgid " blowpipe is used by the musician to send air into the instrument.]"
-msgstr ""
+msgstr "assoprete é usado pelo músico para soprar ar dentro do instrumento.]"
 
 #: stringdump_steam_2022_12_06.txt:25898
 msgid ""
 " bag is used by the musician to control the steady flow of air through the "
 "instrument.]"
 msgstr ""
+"saco é usado pelo músico para controlar o fluxo de ar constante pelo "
+"instrumento.]"
 
 #: stringdump_steam_2022_12_06.txt:25899
 msgid " blowpipe"
-msgstr ""
+msgstr "assoprete"
 
 #: stringdump_steam_2022_12_06.txt:25900
 msgid " blowpipes"
-msgstr ""
+msgstr "assopretes"
 
 #: stringdump_steam_2022_12_06.txt:25903
 msgid "plucks "
@@ -75383,23 +75531,23 @@ msgstr "arranca"
 
 #: stringdump_steam_2022_12_06.txt:25904
 msgid "Another string vibrates in sympathy and is rarely played itself"
-msgstr ""
+msgstr "Outra corda vibra solidária e raramente é tocada sozinha"
 
 #: stringdump_steam_2022_12_06.txt:25905
 msgid "picks "
-msgstr ""
+msgstr "pega"
 
 #: stringdump_steam_2022_12_06.txt:25906
 msgid "strikes "
-msgstr ""
+msgstr "atinge"
 
 #: stringdump_steam_2022_12_06.txt:25907
 msgid "the main string"
-msgstr ""
+msgstr "a corda principal"
 
 #: stringdump_steam_2022_12_06.txt:25908
 msgid " main"
-msgstr ""
+msgstr "principal"
 
 #: stringdump_steam_2022_12_06.txt:25909
 msgid " the musician "
@@ -75407,39 +75555,39 @@ msgstr "o(a) musicista"
 
 #: stringdump_steam_2022_12_06.txt:25910
 msgid "plays "
-msgstr ""
+msgstr "toca"
 
 #: stringdump_steam_2022_12_06.txt:25911
 msgid "The musician can alter the pitch of "
-msgstr ""
+msgstr "O músico pode mudar o tom do(a)"
 
 #: stringdump_steam_2022_12_06.txt:25912
 msgid " string by stopping it against the neck.  "
-msgstr ""
+msgstr "corda parando-a contra o corpo."
 
 #: stringdump_steam_2022_12_06.txt:25913
 msgid " occasionally plucked.  "
-msgstr ""
+msgstr "dedilhada ocasionalmente"
 
 #: stringdump_steam_2022_12_06.txt:25914
 msgid "Frets on the neck allow the musician to alter the pitch.  "
-msgstr ""
+msgstr "Trastes no braço permitem que o músico mude o tom."
 
 #: stringdump_steam_2022_12_06.txt:25915
 msgid " drone strings are"
-msgstr ""
+msgstr "cordas drone são"
 
 #: stringdump_steam_2022_12_06.txt:25916
 msgid " occasionally struck.  "
-msgstr ""
+msgstr "atingidas ocasionalmente"
 
 #: stringdump_steam_2022_12_06.txt:25917
 msgid " other strings vibrate in sympathy and are rarely played themselves"
-msgstr ""
+msgstr "Outras cordas vibram solidárias e raramente são tocadas sozinhas"
 
 #: stringdump_steam_2022_12_06.txt:25918
 msgid "A drone string is"
-msgstr ""
+msgstr "Uma corda drone é"
 
 #: stringdump_steam_2022_12_06.txt:25919
 msgid " adjacent "
@@ -75451,48 +75599,48 @@ msgstr "fechado"
 
 #: stringdump_steam_2022_12_06.txt:25921
 msgid "stop holes"
-msgstr ""
+msgstr "tampa buracos"
 
 #: stringdump_steam_2022_12_06.txt:25922
 msgid "wind instrument consisting of "
-msgstr ""
+msgstr "instrumento de sopro composto de"
 
 #: stringdump_steam_2022_12_06.txt:25923
 msgid " and can also "
-msgstr ""
+msgstr "e pode também"
 
 #: stringdump_steam_2022_12_06.txt:25924
 msgid "press keys to stop holes"
-msgstr ""
+msgstr "pressionar as teclas para tampar buracos"
 
 #: stringdump_steam_2022_12_06.txt:25925
 msgid "The musician blows through a double reed at one end"
-msgstr ""
+msgstr "O músico sopra por uma palheta dupla em uma das pontas"
 
 #: stringdump_steam_2022_12_06.txt:25926
 msgid ""
 "The musician selects the pitch by achieving higher and higher harmonics"
-msgstr ""
+msgstr "O músico seleciona o tom alcançando harmônicos cada vez mais altos"
 
 #: stringdump_steam_2022_12_06.txt:25927
 msgid "The musician blows through a double reed in each pipe"
-msgstr ""
+msgstr "O músico sopra por uma palheta dupla em cada uma das pontas"
 
 #: stringdump_steam_2022_12_06.txt:25928
 msgid " wind instrument consisting of a central wind chest and "
-msgstr ""
+msgstr "instrumento de sopro composto de uma caixa de vento central e"
 
 #: stringdump_steam_2022_12_06.txt:25929
 msgid "The musician blows across the end of each pipe"
-msgstr ""
+msgstr "O músico sopra na ponta de cada tubo"
 
 #: stringdump_steam_2022_12_06.txt:25930
 msgid "The musician blows over a single reed in each pipe"
-msgstr ""
+msgstr "O músico sopra por uma palheta única em cada uma das pontas"
 
 #: stringdump_steam_2022_12_06.txt:25931
 msgid "The musician blows into the fipple at the end of each pipe"
-msgstr ""
+msgstr "O músico sopra o bocal nas pontas de cada tubo"
 
 #: stringdump_steam_2022_12_06.txt:25932
 msgid "The musician blows across a hole in the side of each pipe"
@@ -92493,7 +92641,7 @@ msgstr "está brigando sob a influência!"
 
 #: stringdump_steam_2022_12_06.txt:37549
 msgid " is stumbling around obliviously!"
-msgstr "está obviamente tropeçando!"
+msgstr "está cambaleando alheio por aí!"
 
 #: stringdump_steam_2022_12_06.txt:37550
 msgid " has slipped into depression..."
