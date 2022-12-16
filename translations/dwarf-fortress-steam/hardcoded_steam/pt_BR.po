@@ -42,17 +42,18 @@
 # Bruno Santos, 2022
 # Zhude DDR, 2022
 # Patinho <jv0888854@gmail.com>, 2022
-# Rodrigo Puerare, 2022
 # Legado Pokémon, 2022
 # Lucas Pinheiro, 2022
 # Isabela Velasquez, 2022
-# Bruno Fernandes, 2022
 # Shig, 2022
 # leonardo bajerski, 2022
+# Gabriel Dias, 2022
+# Bruno Fernandes, 2022
+# Rodrigo Puerare, 2022
 # 
 msgid ""
 msgstr ""
-"Last-Translator: leonardo bajerski, 2022\n"
+"Last-Translator: Rodrigo Puerare, 2022\n"
 "Language-Team: Portuguese (Brazil) (https://www.transifex.com/dwarf-fortress-translation/teams/22396/pt_BR/)\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -36358,7 +36359,7 @@ msgstr "Eu preciso vestir coisas finas."
 
 #: stringdump_steam_2022_12_06.txt:8877
 msgid "I want to puzzle over something."
-msgstr ""
+msgstr "Eu quero me ocupar com alguma coisa."
 
 #: stringdump_steam_2022_12_06.txt:8878
 msgid "I just wish to help somebody."
@@ -39401,7 +39402,7 @@ msgstr "tábua porta cimento"
 
 #: stringdump_steam_2022_12_06.txt:9673
 msgid "failed to load conflict report incident"
-msgstr ""
+msgstr "falha ao carregar incidente de relatório de conflito"
 
 #: stringdump_steam_2022_12_06.txt:9674
 msgid "argument"
@@ -39420,6 +39421,8 @@ msgid ""
 " has no body parts and creature doesn't have [DOES_NOT_EXIST], adding "
 "[DOES_NOT_EXIST] to creature"
 msgstr ""
+"não tem partes do corpo e a criatura não tem [DOES_NOT_EXIST], adicionando "
+"[DOES_NOT_EXIST] à criatura"
 
 #: stringdump_steam_2022_12_06.txt:9734
 msgid ""
@@ -39521,11 +39524,11 @@ msgstr "registros"
 
 #: stringdump_steam_2022_12_06.txt:9773
 msgid "--- Logging Creature "
-msgstr ""
+msgstr "Registrando Criatura"
 
 #: stringdump_steam_2022_12_06.txt:9788
 msgid "Creature Tissue Material Failure: "
-msgstr ""
+msgstr "Fala do Material do Tecido da Criatura:"
 
 #: stringdump_steam_2022_12_06.txt:9789
 msgid "(empty tissue)"
@@ -39533,19 +39536,19 @@ msgstr "(tecido vazio)"
 
 #: stringdump_steam_2022_12_06.txt:9792
 msgid "Custom tissue shape not found: "
-msgstr ""
+msgstr "Formato customizado de tecido não encontrado:"
 
 #: stringdump_steam_2022_12_06.txt:9793
 msgid "(no mat1)"
-msgstr ""
+msgstr "(sem mat1)"
 
 #: stringdump_steam_2022_12_06.txt:9794
 msgid "(no mat3)"
-msgstr ""
+msgstr "(sem mat3)"
 
 #: stringdump_steam_2022_12_06.txt:9797
 msgid " Color Mod Ending With ("
-msgstr ""
+msgstr "Modificação de Cor Termina Com ("
 
 #: stringdump_steam_2022_12_06.txt:9798
 msgid ") Was Not Used"
@@ -39585,7 +39588,7 @@ msgstr "Zumbi"
 
 #: stringdump_steam_2022_12_06.txt:9843
 msgid " Shearable Tissue "
-msgstr ""
+msgstr "Tecido Compartilhável"
 
 #: stringdump_steam_2022_12_06.txt:9844
 msgid " Was Not Used"
@@ -42604,7 +42607,7 @@ msgstr "magro(a)"
 
 #: stringdump_steam_2022_12_06.txt:10970
 msgid "squat"
-msgstr ""
+msgstr "agachamento"
 
 #: stringdump_steam_2022_12_06.txt:10971
 msgid "scrawny"
@@ -68341,40 +68344,39 @@ msgstr "é rápido para formar opiniões negativas sobre as coisas"
 
 #: stringdump_steam_2022_12_06.txt:23634
 msgid "never feels hatred toward anyone or anything"
-msgstr "nunca sente ódio de ninguém ou de algo"
+msgstr "nunca sente ódio de nada nem ninguém"
 
 #: stringdump_steam_2022_12_06.txt:23635
 msgid "very rarely develops negative feelings toward things"
-msgstr "muito raramente desenvolve sentimentos negativos em relaçao a coisas"
+msgstr "muito raramente desenvolve sentimentos negativos em relação às coisas"
 
 #: stringdump_steam_2022_12_06.txt:23636
 msgid "never falls in love or develops positive feelings toward anything"
 msgstr ""
-"Nunca se apaixona ou desenvolve sentimentos positivos em relaçao a nada"
+"nunca se apaixona ou desenvolve sentimentos positivos em relação à nada"
 
 #: stringdump_steam_2022_12_06.txt:23637
 msgid "is not the type to fall in love or even develop positive feelings"
 msgstr ""
-"Nao é o tipo para se apaixonar, ou até mesmo desenvolver sentimentos "
-"positivos"
+"não é do tipo que se apaixona ou mesmo desenvolve sentimentos positivos"
 
 #: stringdump_steam_2022_12_06.txt:23638
 msgid "is prone to hatreds and often develops negative feelings"
-msgstr "é propenso a ódios e frequentemente desenvolve sentimentos negativos"
+msgstr "é propenso ao ódio e muitas vezes desenvolve sentimentos negativos"
 
 #: stringdump_steam_2022_12_06.txt:23639
 msgid "is often inflamed by hatred and easily develops hatred toward things"
 msgstr ""
-"muitas vezes é inflamado pelo ódio e facilmente desenvolve ódio em direçao "
-"as coisas"
+"é frequentemente inflamado pelo ódio e facilmente desenvolve ódio pelas "
+"coisas"
 
 #: stringdump_steam_2022_12_06.txt:23640
 msgid "never envies others their status, situation or possessions"
-msgstr "Nunca tem inveja de outros seus status, situaçao ou posses"
+msgstr "nunca inveja os outros por seu status, situação ou posses"
 
 #: stringdump_steam_2022_12_06.txt:23641
 msgid "is rarely jealous"
-msgstr "é raramente com ciúmes"
+msgstr "raramente tem ciúmes"
 
 #: stringdump_steam_2022_12_06.txt:23642
 msgid "can be very happy and optimistic"
@@ -68386,35 +68388,35 @@ msgstr "muitas vezes se sente cheio de alegria"
 
 #: stringdump_steam_2022_12_06.txt:23644
 msgid "is prone to strong feelings of jealousy"
-msgstr "é propensa a sentimentos fortes de ciúme"
+msgstr "é propenso a sentimentos fortes de ciúme"
 
 #: stringdump_steam_2022_12_06.txt:23645
 msgid "is consumed by overpowering feelings of jealousy"
-msgstr "é consumida por avassalador sentimentos de ciúme"
+msgstr "é consumido por sentimentos avassaladores de ciúme"
 
 #: stringdump_steam_2022_12_06.txt:23646
 msgid "doesn't often feel envious of others"
-msgstr "muitas vezes nao sente inveja dos outros"
+msgstr "não costuma sentir inveja dos outros"
 
 #: stringdump_steam_2022_12_06.txt:23647
 msgid "often feels envious of others"
-msgstr "muitas vezes se sente inveja dos outros"
+msgstr "costuma sentir inveja dos outros"
 
 #: stringdump_steam_2022_12_06.txt:23648
 msgid " skills"
-msgstr "Aventura: Status, Att/competências"
+msgstr " habilidades"
 
 #: stringdump_steam_2022_12_06.txt:23649
 msgid "presupposes success in any venture requiring "
-msgstr "pressupoe o sucesso em qualquer empreendimento que exigem"
+msgstr "pressupõe o sucesso em qualquer empreendimento que exija "
 
 #: stringdump_steam_2022_12_06.txt:23650
 msgid "is extremely confident of "
-msgstr "é extremamente confiante de"
+msgstr "é extremamente confiante com "
 
 #: stringdump_steam_2022_12_06.txt:23651
 msgid " in situations requiring "
-msgstr "em situaçoes que requerem"
+msgstr " em situações que exigem  "
 
 #: stringdump_steam_2022_12_06.txt:23652
 msgid "has great trouble mastering fear when confronted by danger"
@@ -68428,26 +68430,26 @@ msgstr "é um pouco temeroso diante do perigo iminente"
 #: stringdump_steam_2022_12_06.txt:23654
 msgid " skills with what could be called blind overconfidence"
 msgstr ""
-"habilidades com o que poderia ser chamado de excesso de confiança cego"
+" habilidades com o que poderia ser chamado de excesso de confiança cega"
 
 #: stringdump_steam_2022_12_06.txt:23655
 msgid ""
 "is a coward, completely overwhelmed by fear when confronted with danger"
 msgstr ""
-"é um covarde, completamente dominado pelo medo, quando confrontado com o "
+"é um covarde, completamente dominado pelo medo quando confrontado com o "
 "perigo"
 
 #: stringdump_steam_2022_12_06.txt:23656
 msgid " talent and abilities"
-msgstr "talentos e habilidades"
+msgstr " talentos e habilidades"
 
 #: stringdump_steam_2022_12_06.txt:23657
 msgid "lacks confidence in "
-msgstr "falta de confiança em"
+msgstr "falta de confiança em "
 
 #: stringdump_steam_2022_12_06.txt:23658
 msgid " own appearance, abilities and other personal matters"
-msgstr "própria aparência, habilidades e outros assuntos pessoais"
+msgstr " própria aparência, habilidades e outros assuntos pessoais"
 
 #: stringdump_steam_2022_12_06.txt:23659
 msgid "has no confidence at all in "

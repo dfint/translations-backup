@@ -49,8 +49,6 @@
 # k Auro, 2022
 # DD KL, 2022
 # 许威 <1975428296@qq.com>, 2022
-# 嘉杰 李, 2022
-# Kagamine_Lily, 2022
 # 奥里给大菠萝, 2022
 # Tiger Jing, 2022
 # Paipai Chen, 2022
@@ -67,15 +65,17 @@
 # 北 萝, 2022
 # 杨 李, 2022
 # jj z, 2022
-# Flight233 Mr, 2022
+# 程愉钦, 2022
 # Kerry H, 2022
 # H_Hedgehog, 2022
 # 铭齐 梁, 2022
+# 嘉杰 李, 2022
 # 墨漓 Mori, 2022
+# Kagamine_Lily, 2022
 # 
 msgid ""
 msgstr ""
-"Last-Translator: 墨漓 Mori, 2022\n"
+"Last-Translator: Kagamine_Lily, 2022\n"
 "Language-Team: Chinese Simplified (https://www.transifex.com/dwarf-fortress-translation/teams/22396/zh-Hans/)\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -2366,7 +2366,7 @@ msgstr "配偶："
 
 #: stringdump_steam_2022_12_06.txt:639
 msgid " lovers"
-msgstr "情人"
+msgstr "恋人们"
 
 #: stringdump_steam_2022_12_06.txt:640
 msgid "Rooms"
@@ -3554,7 +3554,7 @@ msgstr "惹麻烦"
 
 #: stringdump_steam_2022_12_06.txt:936
 msgid "Engineering"
-msgstr "机械相关"
+msgstr "工程学"
 
 #: stringdump_steam_2022_12_06.txt:937
 msgid "Poetic form"
@@ -3866,7 +3866,7 @@ msgstr "儿时的朋友"
 
 #: stringdump_steam_2022_12_06.txt:1014
 msgid "Lover"
-msgstr "情人"
+msgstr "恋人"
 
 #: stringdump_steam_2022_12_06.txt:1015
 msgid "Child"
@@ -8764,6 +8764,8 @@ msgid ""
 "[C:6:0:0]Farmplot[C:7:0:0] and the [C:6:0:1]Spawn[C:7:0:0], will plant the "
 "field, and after a period of growth, they'll be harvested. "
 msgstr ""
+"现在，那些能访问[C:6:0:0]耕地[C:7:0:0] 和作物 [C:6:0:1]种子[C:7:0:0]的 "
+"[C:2:0:0]播种者[C:7:0:0]们，将会负责种植田地。作物经过一段时间的生长后就可以收获。"
 
 #: stringdump_steam_2022_12_06.txt:2197
 msgid "add button to assign the [C:2:0:0]Animals[C:7:0:0]."
@@ -8833,6 +8835,7 @@ msgid ""
 "Once the shop is built, open the [C:5:0:1]Creatures[C:7:0:0] info menu.  "
 "From there select the [C:5:0:1]Pets/Livestock[C:7:0:0] tab. "
 msgstr ""
+"商店建好后， 打开 [C:5:0:1]生物[C:7:0:0] 信息菜单.  从里面选择 [C:5:0:1]宠物/牲畜[C:7:0:0] 选项卡. "
 
 #: stringdump_steam_2022_12_06.txt:2210
 msgid ""
@@ -9783,7 +9786,7 @@ msgstr "[C:7:0:1]图书馆[C:7:0:0]"
 msgid ""
 "[C:6:0:0]Traction Benches[C:7:0:0] which can be built at the "
 "[C:6:0:0]Mechanic's Shop[C:7:0:0]."
-msgstr "[C:6:0:0]牵引工作台[C:7:0:0] 可以在 [C:6:0:0] 机械机械工坊[C:7:0:0] 制作."
+msgstr "[C:6:0:0]牵引台[C:7:0:0] 可以在 [C:6:0:0] 机械工坊[C:7:0:0] 中制作."
 
 #: stringdump_steam_2022_12_06.txt:2372
 msgid ""
@@ -11213,7 +11216,7 @@ msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:2709
 msgid "Total seed cap"
-msgstr ""
+msgstr "种子上限总额"
 
 #: stringdump_steam_2022_12_06.txt:2710
 msgid "Strict population cap (includes births)"
@@ -12613,7 +12616,7 @@ msgstr "伴侣"
 
 #: stringdump_steam_2022_12_06.txt:3275
 msgid "lover "
-msgstr "情人"
+msgstr "恋人"
 
 #: stringdump_steam_2022_12_06.txt:3276
 msgid "childhood friend "
@@ -17994,7 +17997,7 @@ msgid ""
 "Create a new work order for this workshop.  Work orders are tasks that can "
 "repeat specified numbers of times and which can be given start conditions.  "
 "This is useful for automation."
-msgstr ""
+msgstr "为这个工坊创建一个新工单，工单是可以重复指定次数的任务，并且可以给定启动条件。这对自动化很有用。"
 
 #: stringdump_steam_2022_12_06.txt:4593
 msgid ""
@@ -18149,26 +18152,26 @@ msgstr ""
 msgid ""
 "Choose a stockpile with which the track stop's vehicle will exchange items."
 "  The vehicle will take desired items and offload any others."
-msgstr ""
+msgstr "选择一个储物堆，轨道站的车辆将与该仓库交换物品。 车辆将取走所需物品，并卸下任何其他物品。"
 
 #: stringdump_steam_2022_12_06.txt:4627
 msgid ""
 "Choose a stockpile from which the track stop's vehicle will take items."
-msgstr ""
+msgstr "选择一个储物堆，轨道站的车辆从那里获取物品。"
 
 #: stringdump_steam_2022_12_06.txt:4628
 msgid "Choose a stockpile to which the track stop's vehicle will give items."
-msgstr ""
+msgstr "选择一个储物堆，轨道站的车辆将会提供物品。"
 
 #: stringdump_steam_2022_12_06.txt:4629
 msgid ""
 "Toggle whether the squad will store squad-level equipment here, such as "
 "ammunition."
-msgstr ""
+msgstr "切换小队是否会在这里存放小队级别的装备，例如弹药。"
 
 #: stringdump_steam_2022_12_06.txt:4630
 msgid "Choose a stockpile from which the selected stockpile will take items."
-msgstr ""
+msgstr "选择一个储物堆，所选的储物堆将从中获取物品。"
 
 #: stringdump_steam_2022_12_06.txt:4631
 msgid "Choose a stockpile to which the selected stockpile will give items."
@@ -30048,7 +30051,7 @@ msgstr "我恨"
 
 #: stringdump_steam_2022_12_06.txt:7648
 msgid " my lover."
-msgstr "我的爱人。"
+msgstr "我的恋人。"
 
 #: stringdump_steam_2022_12_06.txt:7649
 msgid " an intruder."
@@ -34759,7 +34762,7 @@ msgstr "关于我已故的兄弟姐妹，我做了一个噩梦。"
 
 #: stringdump_steam_2022_12_06.txt:8804
 msgid "I had a nightmare about my deceased lover."
-msgstr "关于我已故的情人，我做了一个噩梦。"
+msgstr "关于我已故的恋人，我做了一个噩梦。"
 
 #: stringdump_steam_2022_12_06.txt:8805
 msgid "I had a nightmare about my deceased father."
@@ -34823,7 +34826,7 @@ msgstr "我兄弟的幽灵"
 
 #: stringdump_steam_2022_12_06.txt:8820
 msgid "the ghost of my lover"
-msgstr "我爱人的幽灵"
+msgstr "我恋人的幽灵"
 
 #: stringdump_steam_2022_12_06.txt:8821
 msgid "I was caught in freakish weather."
@@ -35615,7 +35618,7 @@ msgstr "我和我的兄弟姐妹分享了个人见解。"
 
 #: stringdump_steam_2022_12_06.txt:9018
 msgid "I shared a personal insight with my lover."
-msgstr "我和我的情人分享了个人见解。"
+msgstr "我和我的恋人分享了个人见解。"
 
 #: stringdump_steam_2022_12_06.txt:9019
 msgid "I shared a personal insight with my father."
@@ -35643,7 +35646,7 @@ msgstr "我和一位熟人分享了个人见解。"
 
 #: stringdump_steam_2022_12_06.txt:9025
 msgid "My lover shared a personal insight with me."
-msgstr "我的情人与我分享了个人见解。"
+msgstr "我的恋人与我分享了个人见解。"
 
 #: stringdump_steam_2022_12_06.txt:9026
 msgid "My spouse shared a personal insight with me."
@@ -35687,7 +35690,7 @@ msgstr "我和我的兄弟姐妹讨论了我的问题。"
 
 #: stringdump_steam_2022_12_06.txt:9036
 msgid "I discussed my problems with my lover."
-msgstr "我和情人讨论了我的问题。"
+msgstr "我和恋人讨论了我的问题。"
 
 #: stringdump_steam_2022_12_06.txt:9037
 msgid "I discussed my problems with my father."
@@ -35715,7 +35718,7 @@ msgstr "我和一位熟人讨论了我的问题。"
 
 #: stringdump_steam_2022_12_06.txt:9043
 msgid "My lover discussed their problems with me."
-msgstr "我的情人和我讨论了他们的问题。"
+msgstr "我的恋人和我讨论了他们的问题。"
 
 #: stringdump_steam_2022_12_06.txt:9044
 msgid "My spouse discussed their problems with me."
@@ -35799,7 +35802,7 @@ msgstr "我的兄弟姐妹"
 
 #: stringdump_steam_2022_12_06.txt:9064
 msgid "my lover"
-msgstr "我的爱人"
+msgstr "我的恋人"
 
 #: stringdump_steam_2022_12_06.txt:9065
 msgid "my father"
@@ -35827,7 +35830,7 @@ msgstr "我认识"
 
 #: stringdump_steam_2022_12_06.txt:9071
 msgid "I had an intellectual discussion with my lover."
-msgstr "我和我的爱人进行了一次理智的讨论。"
+msgstr "我和我的恋人进行了一次理智的讨论。"
 
 #: stringdump_steam_2022_12_06.txt:9072
 msgid "I had an intellectual discussion with my spouse."
@@ -36011,7 +36014,7 @@ msgstr "有人和我讨论了他们的问题。"
 
 #: stringdump_steam_2022_12_06.txt:9117
 msgid "I talked to my lover."
-msgstr "我跟爱人说话了。"
+msgstr "我跟恋人说话了。"
 
 #: stringdump_steam_2022_12_06.txt:9118
 msgid "I talked to my spouse."
@@ -44876,7 +44879,7 @@ msgstr "攻城器操作"
 
 #: stringdump_steam_2022_12_06.txt:13786
 msgid "Siege Engineering"
-msgstr "攻城器制作"
+msgstr "攻城武器学"
 
 #: stringdump_steam_2022_12_06.txt:13787
 msgid "Bow"
@@ -49515,7 +49518,7 @@ msgstr "其他工作"
 
 #: stringdump_steam_2022_12_06.txt:15757
 msgid "Farming/Related"
-msgstr "农耕/相关"
+msgstr "耕种/相关"
 
 #: stringdump_steam_2022_12_06.txt:15758
 msgid "Healthcare"
@@ -49527,7 +49530,7 @@ msgstr "宝石相关"
 
 #: stringdump_steam_2022_12_06.txt:15760
 msgid "Fishing/Related"
-msgstr "渔业/相关"
+msgstr "钓鱼/相关"
 
 #: stringdump_steam_2022_12_06.txt:15761
 msgid "Woodworking"
@@ -49763,7 +49766,7 @@ msgstr "缺少资金"
 
 #: stringdump_steam_2022_12_06.txt:15841
 msgid "had ambitions for which death is only a small obstacle"
-msgstr "有雄心壮志，死亡只是一个小障碍"
+msgstr "有雄心壮志，死亡只是一个小阻碍"
 
 #: stringdump_steam_2022_12_06.txt:15842
 msgid "too vain to give in to death"
@@ -49787,7 +49790,7 @@ msgstr "对死后的事情感到恐慌"
 
 #: stringdump_steam_2022_12_06.txt:15847
 msgid "envious of those that live on"
-msgstr ""
+msgstr "羡慕那些活着的人"
 
 #: stringdump_steam_2022_12_06.txt:15848
 msgid "be with master"
@@ -49795,7 +49798,7 @@ msgstr "与主人在一起"
 
 #: stringdump_steam_2022_12_06.txt:15849
 msgid "exiled after conviction"
-msgstr ""
+msgstr "定罪后流放"
 
 #: stringdump_steam_2022_12_06.txt:15850
 msgid "study"
@@ -50067,7 +50070,7 @@ msgstr "离婚"
 
 #: stringdump_steam_2022_12_06.txt:15917
 msgid "broke up with lover"
-msgstr "与爱人分手"
+msgstr "与恋人分手"
 
 #: stringdump_steam_2022_12_06.txt:15918
 msgid "mastered skill"
@@ -51303,15 +51306,15 @@ msgstr "工程学"
 
 #: stringdump_steam_2022_12_06.txt:16229
 msgid "medicine"
-msgstr ""
+msgstr "医学"
 
 #: stringdump_steam_2022_12_06.txt:16230
 msgid "geography"
-msgstr ""
+msgstr "地理学"
 
 #: stringdump_steam_2022_12_06.txt:16231
 msgid "chemistry"
-msgstr ""
+msgstr "化学"
 
 #: stringdump_steam_2022_12_06.txt:16232
 msgid "in order to admire architecture"
@@ -51371,7 +51374,7 @@ msgstr "为了追求奖学金"
 
 #: stringdump_steam_2022_12_06.txt:16246
 msgid "after being exiled following a criminal conviction"
-msgstr ""
+msgstr "在刑事定罪后被流放"
 
 #: stringdump_steam_2022_12_06.txt:16247
 msgid "in order to flee"
@@ -51379,15 +51382,15 @@ msgstr "为了逃离"
 
 #: stringdump_steam_2022_12_06.txt:16248
 msgid "due to fear of death"
-msgstr ""
+msgstr "由于对死亡的恐惧"
 
 #: stringdump_steam_2022_12_06.txt:16249
 msgid "due to panic about what happens after death"
-msgstr ""
+msgstr "由于对死后的情况感到恐慌"
 
 #: stringdump_steam_2022_12_06.txt:16250
 msgid "due to envy of those that live on"
-msgstr ""
+msgstr "由于羡慕生活在"
 
 #: stringdump_steam_2022_12_06.txt:16251
 msgid "as a symbol of authority within "
@@ -51443,31 +51446,31 @@ msgstr "为了祈祷"
 
 #: stringdump_steam_2022_12_06.txt:16264
 msgid "after receiving a cut of corruptly-obtained funds"
-msgstr ""
+msgstr "在收到贪污所得资金的分成后"
 
 #: stringdump_steam_2022_12_06.txt:16265
 msgid "after embezzling funds"
-msgstr ""
+msgstr "贪污资金后"
 
 #: stringdump_steam_2022_12_06.txt:16266
 msgid "after accepting bribes in exchange for leniency"
-msgstr ""
+msgstr "在接受贿赂以换取宽大处理后"
 
 #: stringdump_steam_2022_12_06.txt:16267
 msgid "after a performance in "
-msgstr ""
+msgstr "演出结束后"
 
 #: stringdump_steam_2022_12_06.txt:16268
 msgid "after a scholarly lecture in "
-msgstr ""
+msgstr "在一场学术演讲之后"
 
 #: stringdump_steam_2022_12_06.txt:16269
 msgid "being unnaturally ageless"
-msgstr ""
+msgstr "不自然的不老"
 
 #: stringdump_steam_2022_12_06.txt:16270
 msgid "after preying on the blood of civilized creatures"
-msgstr ""
+msgstr "吸食文明生物的血液后"
 
 #: stringdump_steam_2022_12_06.txt:16271
 msgid " was given away"
@@ -51491,7 +51494,7 @@ msgstr "谋杀后"
 
 #: stringdump_steam_2022_12_06.txt:16276
 msgid "after abducting "
-msgstr ""
+msgstr "绑架后"
 
 #: stringdump_steam_2022_12_06.txt:16277
 msgid "by preserving a part of the body"
@@ -51613,7 +51616,7 @@ msgstr "到了"
 
 #: stringdump_steam_2022_12_06.txt:16306
 msgid "created a masterful image set"
-msgstr ""
+msgstr "创作了一套精湛的图像集"
 
 #: stringdump_steam_2022_12_06.txt:16307
 msgid "attached a masterful instrument piece"
@@ -51633,75 +51636,75 @@ msgstr "编织出精巧的缝制图像"
 
 #: stringdump_steam_2022_12_06.txt:16311
 msgid " cemented a bond of friendship amidst the horror of combat"
-msgstr ""
+msgstr "在恐怖的战斗中巩固了友谊的纽带"
 
 #: stringdump_steam_2022_12_06.txt:16312
 msgid " became childhood friends"
-msgstr ""
+msgstr "成了儿时的朋友"
 
 #: stringdump_steam_2022_12_06.txt:16313
 msgid " recognized "
-msgstr ""
+msgstr "公认的"
 
 #: stringdump_steam_2022_12_06.txt:16314
 msgid " developed a business rivalry"
-msgstr ""
+msgstr "发展为商业竞争关系"
 
 #: stringdump_steam_2022_12_06.txt:16315
 msgid " developed an athletic rivalry"
-msgstr ""
+msgstr "发展为体育竞技关系"
 
 #: stringdump_steam_2022_12_06.txt:16316
 msgid " become friends over a shared love of athletics"
-msgstr ""
+msgstr "因对运动的共同热爱而成为朋友"
 
 #: stringdump_steam_2022_12_06.txt:16317
 msgid "due to a shared artistic interest"
-msgstr ""
+msgstr "由于共同的艺术兴趣"
 
 #: stringdump_steam_2022_12_06.txt:16318
 msgid "due to a shared scholarly interest"
-msgstr ""
+msgstr "由于共同的学术兴趣"
 
 #: stringdump_steam_2022_12_06.txt:16319
 msgid " became friends "
-msgstr ""
+msgstr "成为朋友"
 
 #: stringdump_steam_2022_12_06.txt:16320
 msgid " broke up"
-msgstr ""
+msgstr "失恋了"
 
 #: stringdump_steam_2022_12_06.txt:16321
 msgid " became lovers"
-msgstr ""
+msgstr "成为恋人"
 
 #: stringdump_steam_2022_12_06.txt:16322
 msgid " over the latter's romantic relationship"
-msgstr ""
+msgstr "对后者的恋爱关系"
 
 #: stringdump_steam_2022_12_06.txt:16323
 msgid " formed a grudge against "
-msgstr ""
+msgstr "结怨与"
 
 #: stringdump_steam_2022_12_06.txt:16324
 msgid " due to religious persecution"
-msgstr ""
+msgstr "由于收到宗教迫害的原因"
 
 #: stringdump_steam_2022_12_06.txt:16325
 msgid " due to persecution"
-msgstr ""
+msgstr "由于受到迫害"
 
 #: stringdump_steam_2022_12_06.txt:16326
 msgid " held a deep hatred of "
-msgstr ""
+msgstr "深深憎恨着"
 
 #: stringdump_steam_2022_12_06.txt:16327
 msgid " was bent toward supernatural vengeance upon "
-msgstr ""
+msgstr "执意要在超自然的情况下报复"
 
 #: stringdump_steam_2022_12_06.txt:16328
 msgid " became infatuated with "
-msgstr ""
+msgstr "迷恋上了"
 
 #: stringdump_steam_2022_12_06.txt:16329
 msgid "stole treasure and livestock from"
@@ -51905,7 +51908,7 @@ msgstr "攻击"
 
 #: stringdump_steam_2022_12_06.txt:16379
 msgid " as scouts "
-msgstr ""
+msgstr "作为斥候"
 
 #: stringdump_steam_2022_12_06.txt:16380
 msgid "  The defenders hired "
@@ -51913,7 +51916,7 @@ msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:16381
 msgid "by the attackers."
-msgstr ""
+msgstr "由攻击者"
 
 #: stringdump_steam_2022_12_06.txt:16382
 msgid "as scouts "
@@ -56322,7 +56325,7 @@ msgstr "囚犯"
 
 #: stringdump_steam_2022_12_06.txt:17485
 msgid "lover"
-msgstr "情人"
+msgstr "恋人"
 
 #: stringdump_steam_2022_12_06.txt:17486
 msgid "worship"
@@ -58791,7 +58794,7 @@ msgstr "在一个人"
 
 #: stringdump_steam_2022_12_06.txt:19331
 msgid "Lover of "
-msgstr "情人的"
+msgstr "恋人的"
 
 #: stringdump_steam_2022_12_06.txt:19332
 msgid "Burned alive"
@@ -68640,7 +68643,7 @@ msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:24097
 msgid " by a dead lover"
-msgstr ""
+msgstr "死去的恋人"
 
 #: stringdump_steam_2022_12_06.txt:24098
 msgid " by a dead friend"
@@ -68708,7 +68711,7 @@ msgstr "身体"
 
 #: stringdump_steam_2022_12_06.txt:24114
 msgid "being tormented in nightmares by a dead lover"
-msgstr "被一个死去的情人在恶梦中折磨着"
+msgstr "被一个死去的恋人在恶梦中折磨着"
 
 #: stringdump_steam_2022_12_06.txt:24115
 msgid "being tormented in nightmares by a dead spouse"
@@ -69725,7 +69728,7 @@ msgstr "不得不在卧室里举行正式会议"
 
 #: stringdump_steam_2022_12_06.txt:24368
 msgid "discussing a lover's problems"
-msgstr "讨论情人的问题"
+msgstr "讨论恋人的问题"
 
 #: stringdump_steam_2022_12_06.txt:24369
 msgid "discussing the spouse's problems"
@@ -69745,7 +69748,7 @@ msgstr "兄弟姐妹"
 
 #: stringdump_steam_2022_12_06.txt:24373
 msgid "a lover"
-msgstr "一个情人"
+msgstr "一个恋人"
 
 #: stringdump_steam_2022_12_06.txt:24374
 msgid "an acquaintance"
@@ -69765,7 +69768,7 @@ msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:24378
 msgid "talking with a lover"
-msgstr ""
+msgstr "与恋人交谈"
 
 #: stringdump_steam_2022_12_06.txt:24379
 msgid "talking with the spouse"
@@ -69801,7 +69804,7 @@ msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:24387
 msgid "sharing a lover's personal insight"
-msgstr ""
+msgstr "分享恋人的个人见解"
 
 #: stringdump_steam_2022_12_06.txt:24388
 msgid "sharing a personal insight with a child"
@@ -69857,7 +69860,7 @@ msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:24401
 msgid "having an intellectual discussion with a lover"
-msgstr ""
+msgstr "与恋人进行思想交流"
 
 #: stringdump_steam_2022_12_06.txt:24402
 msgid "having an intellectual discussion with father"
@@ -69885,7 +69888,7 @@ msgstr "给某人食物"
 
 #: stringdump_steam_2022_12_06.txt:24408
 msgid "sharing a personal insight with a lover"
-msgstr ""
+msgstr "与恋人分享个人感悟"
 
 #: stringdump_steam_2022_12_06.txt:24409
 msgid "sharing a personal insight with the spouse"
@@ -70045,7 +70048,7 @@ msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:24448
 msgid "being forced to endure the decay of a lover"
-msgstr "被迫忍受情人的腐朽"
+msgstr "被迫忍受恋人的腐朽"
 
 #: stringdump_steam_2022_12_06.txt:24449
 msgid "being forced to endure the decay of a spouse"
@@ -71771,7 +71774,7 @@ msgstr "轨道（东西南北）"
 
 #: stringdump_steam_2022_12_06.txt:24883
 msgid "Ice Track (SEW)"
-msgstr ""
+msgstr "冰轨道（东南偏西）"
 
 #: stringdump_steam_2022_12_06.txt:24884
 msgid " Boulder"
@@ -71779,7 +71782,7 @@ msgstr "漂砾"
 
 #: stringdump_steam_2022_12_06.txt:24885
 msgid "Ice Track (NSEW)"
-msgstr ""
+msgstr "冰轨道（东西南北）"
 
 #: stringdump_steam_2022_12_06.txt:24886
 msgid "Ashes"
@@ -71819,7 +71822,7 @@ msgstr "轨道（西南）"
 
 #: stringdump_steam_2022_12_06.txt:24895
 msgid "Ice Track (SE)"
-msgstr ""
+msgstr "冰轨道（东南方向）"
 
 #: stringdump_steam_2022_12_06.txt:24896
 msgid " Track (EW)"
@@ -71827,7 +71830,7 @@ msgstr "轨道（东西）"
 
 #: stringdump_steam_2022_12_06.txt:24897
 msgid "Ice Track (SW)"
-msgstr ""
+msgstr "冰轨道（西南方向）"
 
 #: stringdump_steam_2022_12_06.txt:24898
 msgid " Track (NW)"
@@ -71835,7 +71838,7 @@ msgstr "轨道（西北）"
 
 #: stringdump_steam_2022_12_06.txt:24899
 msgid "Ice Track (NE)"
-msgstr ""
+msgstr "冰轨道（东北方向）"
 
 #: stringdump_steam_2022_12_06.txt:24900
 msgid " Track (SE)"
@@ -71843,7 +71846,7 @@ msgstr "轨道（东南）"
 
 #: stringdump_steam_2022_12_06.txt:24901
 msgid "Ice Track (NW)"
-msgstr ""
+msgstr "冰轨道（西北方向）"
 
 #: stringdump_steam_2022_12_06.txt:24902
 msgid " Track (NEW)"
@@ -71851,7 +71854,7 @@ msgstr "轨道（东西北）"
 
 #: stringdump_steam_2022_12_06.txt:24903
 msgid "Ice Track (NSW)"
-msgstr ""
+msgstr "冰轨道（西南偏北）"
 
 #: stringdump_steam_2022_12_06.txt:24904
 msgid " Track (SEW)"
@@ -71867,7 +71870,7 @@ msgstr "轨道（东南北）"
 
 #: stringdump_steam_2022_12_06.txt:24907
 msgid "Ice Track (EW)"
-msgstr ""
+msgstr "冰轨道（正东偏西）"
 
 #: stringdump_steam_2022_12_06.txt:24908
 msgid " Track (NSW)"
@@ -71875,7 +71878,7 @@ msgstr "轨道（西南北）"
 
 #: stringdump_steam_2022_12_06.txt:24909
 msgid "Ice Track (NSE)"
-msgstr ""
+msgstr "冰轨道（东南偏北）"
 
 #: stringdump_steam_2022_12_06.txt:24910
 msgid " Track (N)"
@@ -71891,7 +71894,7 @@ msgstr "轨道（南）"
 
 #: stringdump_steam_2022_12_06.txt:24913
 msgid "Ice Track (N)"
-msgstr ""
+msgstr "冰轨道（正北方向）"
 
 #: stringdump_steam_2022_12_06.txt:24914
 msgid "Dead Grass"
@@ -71915,7 +71918,7 @@ msgstr "轨道（南北）"
 
 #: stringdump_steam_2022_12_06.txt:24919
 msgid "Ice Track (W)"
-msgstr ""
+msgstr "冰轨道（正西方向）"
 
 #: stringdump_steam_2022_12_06.txt:24920
 msgid " Track (NE)"
@@ -71923,7 +71926,7 @@ msgstr "轨道（东北）"
 
 #: stringdump_steam_2022_12_06.txt:24921
 msgid "Ice Track (NS)"
-msgstr ""
+msgstr "冰轨道（正北偏南）"
 
 #: stringdump_steam_2022_12_06.txt:24922
 msgid " Track (E)"
@@ -71931,7 +71934,7 @@ msgstr "轨道（东）"
 
 #: stringdump_steam_2022_12_06.txt:24923
 msgid "Ice Track (S)"
-msgstr ""
+msgstr "冰轨道（正南方向）"
 
 #: stringdump_steam_2022_12_06.txt:24924
 msgid " Track (W)"
@@ -71939,7 +71942,7 @@ msgstr "轨道（西）"
 
 #: stringdump_steam_2022_12_06.txt:24925
 msgid "Ice Track (E)"
-msgstr ""
+msgstr "冰轨道（正东方向）"
 
 #: stringdump_steam_2022_12_06.txt:24926
 msgid "Rough-hewn "
@@ -72007,51 +72010,51 @@ msgstr "簇"
 
 #: stringdump_steam_2022_12_06.txt:24942
 msgid "Ice Upward Track (SEW)"
-msgstr ""
+msgstr "冰上行轨道（东南偏西）"
 
 #: stringdump_steam_2022_12_06.txt:24943
 msgid " Upward Track (SEW)"
-msgstr ""
+msgstr "冰上行轨道（东南偏西）"
 
 #: stringdump_steam_2022_12_06.txt:24944
 msgid "Ice Upward Track (NSEW)"
-msgstr ""
+msgstr "冰上行轨道（东南西北）"
 
 #: stringdump_steam_2022_12_06.txt:24945
 msgid " Upward Track (NSEW)"
-msgstr ""
+msgstr "上行轨道（东南西北）"
 
 #: stringdump_steam_2022_12_06.txt:24946
 msgid "Ice Upward Track (NSW)"
-msgstr ""
+msgstr "冰上行轨道（西南偏北）"
 
 #: stringdump_steam_2022_12_06.txt:24947
 msgid " Upward Track (NSW)"
-msgstr ""
+msgstr "上行轨道（西南偏北）"
 
 #: stringdump_steam_2022_12_06.txt:24948
 msgid "Ice Upward Track (NEW)"
-msgstr ""
+msgstr "冰上行轨道（东北偏西）"
 
 #: stringdump_steam_2022_12_06.txt:24949
 msgid " Upward Track (NEW)"
-msgstr ""
+msgstr "上行轨道（东北偏西）"
 
 #: stringdump_steam_2022_12_06.txt:24950
 msgid " Downward Track (N)"
-msgstr ""
+msgstr "下行轨道（正北方向）"
 
 #: stringdump_steam_2022_12_06.txt:24951
 msgid "Dead Grass Downward Slope"
-msgstr ""
+msgstr "枯草下坡"
 
 #: stringdump_steam_2022_12_06.txt:24952
 msgid " Downward Track (S)"
-msgstr ""
+msgstr "下行轨道（正南方向）"
 
 #: stringdump_steam_2022_12_06.txt:24953
 msgid "Ice Downward Track (N)"
-msgstr ""
+msgstr "冰下行轨道（正北方向）"
 
 #: stringdump_steam_2022_12_06.txt:24954
 msgid " Downward Slope"
@@ -72071,71 +72074,71 @@ msgstr "草地向下坡"
 
 #: stringdump_steam_2022_12_06.txt:24958
 msgid "Ice Upward Track (NE)"
-msgstr ""
+msgstr "冰上行轨道（东北方向）"
 
 #: stringdump_steam_2022_12_06.txt:24959
 msgid " Upward Track (NE)"
-msgstr ""
+msgstr "上行轨道（东北方向）"
 
 #: stringdump_steam_2022_12_06.txt:24960
 msgid "Ice Upward Track (NW)"
-msgstr ""
+msgstr "冰上行轨道（西北方向）"
 
 #: stringdump_steam_2022_12_06.txt:24961
 msgid " Upward Track (NW)"
-msgstr ""
+msgstr "上行轨道（西北方向）"
 
 #: stringdump_steam_2022_12_06.txt:24962
 msgid "Ice Upward Track (W)"
-msgstr ""
+msgstr "冰上行轨道（正西方向）"
 
 #: stringdump_steam_2022_12_06.txt:24963
 msgid " Upward Track (W)"
-msgstr ""
+msgstr "上行轨道（正西方向）"
 
 #: stringdump_steam_2022_12_06.txt:24964
 msgid "Ice Upward Track (NS)"
-msgstr ""
+msgstr "冰上行轨道（正北偏南）"
 
 #: stringdump_steam_2022_12_06.txt:24965
 msgid " Upward Track (NS)"
-msgstr ""
+msgstr "上行轨道（正北偏南）"
 
 #: stringdump_steam_2022_12_06.txt:24966
 msgid "Ice Upward Track (EW)"
-msgstr ""
+msgstr "冰上行轨道（正东偏西）"
 
 #: stringdump_steam_2022_12_06.txt:24967
 msgid " Upward Track (EW)"
-msgstr ""
+msgstr "上行轨道（正东偏西）"
 
 #: stringdump_steam_2022_12_06.txt:24968
 msgid "Ice Upward Track (NSE)"
-msgstr ""
+msgstr "冰上行轨道（东南偏北）"
 
 #: stringdump_steam_2022_12_06.txt:24969
 msgid " Upward Track (NSE)"
-msgstr ""
+msgstr "上行轨道（东南偏北）"
 
 #: stringdump_steam_2022_12_06.txt:24970
 msgid "Ice Upward Track (SE)"
-msgstr ""
+msgstr "冰上行轨道（东南方向）"
 
 #: stringdump_steam_2022_12_06.txt:24971
 msgid " Upward Track (SE)"
-msgstr ""
+msgstr "上行轨道（东南方向）"
 
 #: stringdump_steam_2022_12_06.txt:24972
 msgid "Ice Upward Track (SW)"
-msgstr ""
+msgstr "冰上行轨道（西南方向）"
 
 #: stringdump_steam_2022_12_06.txt:24973
 msgid " Upward Track (SW)"
-msgstr ""
+msgstr "上行轨道（西南方向）"
 
 #: stringdump_steam_2022_12_06.txt:24974
 msgid "Ice Upward Stairway"
-msgstr ""
+msgstr "冰上楼梯"
 
 #: stringdump_steam_2022_12_06.txt:24975
 msgid "Ice Downward Stairway"
@@ -72159,7 +72162,7 @@ msgstr "向下阶梯"
 
 #: stringdump_steam_2022_12_06.txt:24980
 msgid "Ice Up/Down Stairway"
-msgstr ""
+msgstr "冰上/下楼梯"
 
 #: stringdump_steam_2022_12_06.txt:24981
 msgid "Underworld Gate"
@@ -72167,23 +72170,23 @@ msgstr "黑社会门"
 
 #: stringdump_steam_2022_12_06.txt:24982
 msgid "Ice Upward Track (S)"
-msgstr ""
+msgstr "冰上行轨道（正南方向）"
 
 #: stringdump_steam_2022_12_06.txt:24983
 msgid " Upward Track (S)"
-msgstr ""
+msgstr "上行轨道（正南方向）"
 
 #: stringdump_steam_2022_12_06.txt:24984
 msgid "Ice Upward Track (E)"
-msgstr ""
+msgstr "冰上行轨道（正东方向）"
 
 #: stringdump_steam_2022_12_06.txt:24985
 msgid " Upward Track (E)"
-msgstr ""
+msgstr "上行轨道（正东方向）"
 
 #: stringdump_steam_2022_12_06.txt:24986
 msgid "Dead Grass Upward Slope"
-msgstr ""
+msgstr "枯草上坡"
 
 #: stringdump_steam_2022_12_06.txt:24987
 msgid "Dry Grass Upward Slope"
@@ -72191,15 +72194,15 @@ msgstr "干草向上坡"
 
 #: stringdump_steam_2022_12_06.txt:24988
 msgid "Ice Upward Track (N)"
-msgstr ""
+msgstr "冰上行轨道（正北方向）"
 
 #: stringdump_steam_2022_12_06.txt:24989
 msgid " Upward Track (N)"
-msgstr ""
+msgstr "上行轨道（正北方向）"
 
 #: stringdump_steam_2022_12_06.txt:24990
 msgid "Lava Flow"
-msgstr ""
+msgstr "岩浆流动"
 
 #: stringdump_steam_2022_12_06.txt:24991
 msgid "Semi-molten Rock"
@@ -72207,11 +72210,11 @@ msgstr "半熔岩"
 
 #: stringdump_steam_2022_12_06.txt:24992
 msgid "Murky Pool"
-msgstr ""
+msgstr "浑浊的水池"
 
 #: stringdump_steam_2022_12_06.txt:24993
 msgid "Magma Flow"
-msgstr ""
+msgstr "熔岩流动"
 
 #: stringdump_steam_2022_12_06.txt:24994
 msgid "Eerie Glowing Pit"
@@ -72247,7 +72250,7 @@ msgstr "双向阶梯"
 
 #: stringdump_steam_2022_12_06.txt:25002
 msgid "Murky Pool Slope"
-msgstr ""
+msgstr "浑浊的池塘坡地"
 
 #: stringdump_steam_2022_12_06.txt:25003
 msgid "Unusable "
@@ -72263,15 +72266,15 @@ msgstr "河"
 
 #: stringdump_steam_2022_12_06.txt:25007
 msgid " Downward Track (NEW)"
-msgstr ""
+msgstr "下行轨道（东北偏西）"
 
 #: stringdump_steam_2022_12_06.txt:25008
 msgid "Ice Downward Track (NSW)"
-msgstr ""
+msgstr "冰下行轨道（西南偏北）"
 
 #: stringdump_steam_2022_12_06.txt:25009
 msgid " Downward Track (SEW)"
-msgstr ""
+msgstr "下行轨道（东南偏西）"
 
 #: stringdump_steam_2022_12_06.txt:25010
 msgid "Ice Downward Track (NEW)"
@@ -72279,19 +72282,19 @@ msgstr "冰下行道（新）"
 
 #: stringdump_steam_2022_12_06.txt:25011
 msgid " Downward Track (NSE)"
-msgstr ""
+msgstr "下行轨道（东南偏北）"
 
 #: stringdump_steam_2022_12_06.txt:25012
 msgid "Ice Downward Track (EW)"
-msgstr ""
+msgstr "冰下行轨道（正东偏西）"
 
 #: stringdump_steam_2022_12_06.txt:25013
 msgid " Downward Track (NSW)"
-msgstr ""
+msgstr "下行轨道（西南偏北）"
 
 #: stringdump_steam_2022_12_06.txt:25014
 msgid "Ice Downward Track (NSE)"
-msgstr ""
+msgstr "冰下行轨道（东南偏北）"
 
 #: stringdump_steam_2022_12_06.txt:25015
 msgid "Open Space"
@@ -72307,11 +72310,11 @@ msgstr "未知"
 
 #: stringdump_steam_2022_12_06.txt:25018
 msgid " Downward Track (NSEW)"
-msgstr ""
+msgstr "下行轨道（东西南北）"
 
 #: stringdump_steam_2022_12_06.txt:25019
 msgid "Ice Downward Track (SEW)"
-msgstr ""
+msgstr "冰下行轨道（东南偏西）"
 
 #: stringdump_steam_2022_12_06.txt:25020
 msgid "Glacial Downward Slope"
@@ -72319,75 +72322,75 @@ msgstr "冰川向下坡"
 
 #: stringdump_steam_2022_12_06.txt:25021
 msgid "Ice Downward Track (NSEW)"
-msgstr ""
+msgstr "冰下行轨道（东西南北）"
 
 #: stringdump_steam_2022_12_06.txt:25022
 msgid " Downward Track (NS)"
-msgstr ""
+msgstr "下行轨道（正北偏南）"
 
 #: stringdump_steam_2022_12_06.txt:25023
 msgid "Ice Downward Track (W)"
-msgstr ""
+msgstr "冰下行轨道（正西方向）"
 
 #: stringdump_steam_2022_12_06.txt:25024
 msgid " Downward Track (NE)"
-msgstr ""
+msgstr "下行轨道（东北方向）"
 
 #: stringdump_steam_2022_12_06.txt:25025
 msgid "Ice Downward Track (NS)"
-msgstr ""
+msgstr "冰下行轨道（正北偏南）"
 
 #: stringdump_steam_2022_12_06.txt:25026
 msgid " Downward Track (E)"
-msgstr ""
+msgstr "下行轨道（正东方向）"
 
 #: stringdump_steam_2022_12_06.txt:25027
 msgid "Ice Downward Track (S)"
-msgstr ""
+msgstr "冰下行轨道（正南方向）"
 
 #: stringdump_steam_2022_12_06.txt:25028
 msgid " Downward Track (W)"
-msgstr ""
+msgstr "下行轨道（正西方向）"
 
 #: stringdump_steam_2022_12_06.txt:25029
 msgid "Ice Downward Track (E)"
-msgstr ""
+msgstr "冰下行轨道（正东方向）"
 
 #: stringdump_steam_2022_12_06.txt:25030
 msgid " Downward Track (SW)"
-msgstr ""
+msgstr "下行轨道（西南方向）"
 
 #: stringdump_steam_2022_12_06.txt:25031
 msgid "Ice Downward Track (SE)"
-msgstr ""
+msgstr "冰下行轨道（东南方向）"
 
 #: stringdump_steam_2022_12_06.txt:25032
 msgid " Downward Track (EW)"
-msgstr ""
+msgstr "下行轨道（正东偏西）"
 
 #: stringdump_steam_2022_12_06.txt:25033
 msgid "Ice Downward Track (SW)"
-msgstr ""
+msgstr "冰下行轨道（西南方向）"
 
 #: stringdump_steam_2022_12_06.txt:25034
 msgid " Downward Track (NW)"
-msgstr ""
+msgstr "下行轨道（西北方向）"
 
 #: stringdump_steam_2022_12_06.txt:25035
 msgid "Ice Downward Track (NE)"
-msgstr ""
+msgstr "冰下行轨道（东北方向）"
 
 #: stringdump_steam_2022_12_06.txt:25036
 msgid " Downward Track (SE)"
-msgstr ""
+msgstr "下行轨道（东南方向）"
 
 #: stringdump_steam_2022_12_06.txt:25037
 msgid "Ice Downward Track (NW)"
-msgstr ""
+msgstr "冰下行轨道（西北方向）"
 
 #: stringdump_steam_2022_12_06.txt:25038
 msgid "many corpses"
-msgstr ""
+msgstr "尸横遍野"
 
 #: stringdump_steam_2022_12_06.txt:25039
 msgid " guts"
@@ -72395,11 +72398,11 @@ msgstr "内脏"
 
 #: stringdump_steam_2022_12_06.txt:25040
 msgid "a few corpses"
-msgstr ""
+msgstr "几具尸体"
 
 #: stringdump_steam_2022_12_06.txt:25041
 msgid "some corpses"
-msgstr ""
+msgstr "一些尸体"
 
 #: stringdump_steam_2022_12_06.txt:25042
 msgid "various"
@@ -72407,7 +72410,7 @@ msgstr "各个"
 
 #: stringdump_steam_2022_12_06.txt:25043
 msgid "deep in "
-msgstr ""
+msgstr "深陷于"
 
 #: stringdump_steam_2022_12_06.txt:25044
 msgid " ghostly"
@@ -78653,11 +78656,11 @@ msgstr "高炉的建造和使用"
 
 #: stringdump_steam_2022_12_06.txt:28306
 msgid "the construction and use of the alembic"
-msgstr ""
+msgstr "蒸馏器的构造和使用"
 
 #: stringdump_steam_2022_12_06.txt:28307
 msgid "the preparation of aqua regia"
-msgstr ""
+msgstr "王水的制备"
 
 #: stringdump_steam_2022_12_06.txt:28308
 msgid "the construction and use of the ampoule"
@@ -78681,15 +78684,15 @@ msgstr "坩埚的构造和使用"
 
 #: stringdump_steam_2022_12_06.txt:28313
 msgid "the construction and use of the beaker"
-msgstr ""
+msgstr "烧杯的构造和使用"
 
 #: stringdump_steam_2022_12_06.txt:28314
 msgid "the construction and use of the vial"
-msgstr ""
+msgstr "小瓶的构造和使用"
 
 #: stringdump_steam_2022_12_06.txt:28315
 msgid "the diseases of creatures"
-msgstr ""
+msgstr "生物疾病"
 
 #: stringdump_steam_2022_12_06.txt:28316
 msgid "the ways that creatures are suited to the climates in which they live"
@@ -78701,11 +78704,11 @@ msgstr "不同生物的饮食之间的联系"
 
 #: stringdump_steam_2022_12_06.txt:28318
 msgid "the social behavior of creatures"
-msgstr ""
+msgstr "生物的社会行为"
 
 #: stringdump_steam_2022_12_06.txt:28319
 msgid "the reproductive behavior of creatures"
-msgstr ""
+msgstr "生物的繁殖行为"
 
 #: stringdump_steam_2022_12_06.txt:28320
 msgid "the foraging behavior and diet of creatures"
@@ -78713,11 +78716,11 @@ msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:28321
 msgid "the classification of creatures by their physical features"
-msgstr ""
+msgstr "根据生物的身体特征对其进行分类"
 
 #: stringdump_steam_2022_12_06.txt:28322
 msgid "the migratory patterns of creatures"
-msgstr ""
+msgstr "生物的迁徙模式"
 
 #: stringdump_steam_2022_12_06.txt:28323
 msgid ""
@@ -78727,7 +78730,7 @@ msgstr "材料的分类基于哪些元素材料可能形成它们"
 
 #: stringdump_steam_2022_12_06.txt:28324
 msgid "the preparation and use of adhesive materials"
-msgstr ""
+msgstr "粘合剂材料的制备和使用"
 
 #: stringdump_steam_2022_12_06.txt:28325
 msgid "the mixture of metals to produce alloys"
@@ -78737,7 +78740,7 @@ msgstr "金属混合物生产合金"
 msgid ""
 "a method of classify the hardness of materials by scratching them against "
 "each other"
-msgstr ""
+msgstr "通过相互摩擦来区分材料硬度的一种方法"
 
 #: stringdump_steam_2022_12_06.txt:28327
 msgid "the classification of combustible materials"
@@ -78753,7 +78756,7 @@ msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:28330
 msgid "the struggle for survival among creatures"
-msgstr ""
+msgstr "生物之间的生存斗争"
 
 #: stringdump_steam_2022_12_06.txt:28331
 msgid "the use of a laboratory for preparation of remedies in a hospital"
@@ -79072,7 +79075,7 @@ msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:28413
 msgid "the use of models and templates in engineering"
-msgstr "工程中模型和模板的使用"
+msgstr "工程学中模型和模板的使用"
 
 #: stringdump_steam_2022_12_06.txt:28414
 msgid "the theory of light and color"
@@ -79254,7 +79257,7 @@ msgstr "谎言"
 
 #: stringdump_steam_2022_12_06.txt:28458
 msgid "the Truth"
-msgstr ""
+msgstr "真相"
 
 #: stringdump_steam_2022_12_06.txt:28459
 msgid "Honesty"
@@ -79314,7 +79317,7 @@ msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:28473
 msgid "the Voice"
-msgstr ""
+msgstr "声音"
 
 #: stringdump_steam_2022_12_06.txt:28474
 msgid "the Dance"
@@ -79346,7 +79349,7 @@ msgstr "健"
 
 #: stringdump_steam_2022_12_06.txt:28481
 msgid "Lawlessness"
-msgstr ""
+msgstr "违法"
 
 #: stringdump_steam_2022_12_06.txt:28482
 msgid "Betrayal"
@@ -79370,11 +79373,11 @@ msgstr "知道"
 
 #: stringdump_steam_2022_12_06.txt:28487
 msgid "Mourn"
-msgstr ""
+msgstr "哀悼"
 
 #: stringdump_steam_2022_12_06.txt:28488
 msgid "Foretell"
-msgstr ""
+msgstr "预测"
 
 #: stringdump_steam_2022_12_06.txt:28489
 msgid "Can Say"
@@ -79394,7 +79397,7 @@ msgstr "没有人"
 
 #: stringdump_steam_2022_12_06.txt:28493
 msgid "The Future"
-msgstr ""
+msgstr "未来"
 
 #: stringdump_steam_2022_12_06.txt:28494
 msgid "the Verse"
@@ -79414,7 +79417,7 @@ msgstr "最后"
 
 #: stringdump_steam_2022_12_06.txt:28498
 msgid "Afterward"
-msgstr ""
+msgstr "后来"
 
 #: stringdump_steam_2022_12_06.txt:28499
 msgid "Weep"
@@ -79442,11 +79445,11 @@ msgstr "然后"
 
 #: stringdump_steam_2022_12_06.txt:28505
 msgid "Only"
-msgstr ""
+msgstr "仅仅"
 
 #: stringdump_steam_2022_12_06.txt:28506
 msgid "Suddenly"
-msgstr ""
+msgstr "出乎意料地"
 
 #: stringdump_steam_2022_12_06.txt:28508
 msgid "The Dirt"
@@ -79490,11 +79493,11 @@ msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:28518
 msgid "Properties"
-msgstr ""
+msgstr "属性 "
 
 #: stringdump_steam_2022_12_06.txt:28519
 msgid "the Whole"
-msgstr ""
+msgstr "整体"
 
 #: stringdump_steam_2022_12_06.txt:28520
 msgid "Thought"
@@ -79506,7 +79509,7 @@ msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:28522
 msgid "the Body"
-msgstr ""
+msgstr "身体"
 
 #: stringdump_steam_2022_12_06.txt:28523
 msgid "the Soul"
@@ -79514,11 +79517,11 @@ msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:28524
 msgid "the Effect"
-msgstr ""
+msgstr "效果"
 
 #: stringdump_steam_2022_12_06.txt:28525
 msgid "Causes"
-msgstr ""
+msgstr "原因"
 
 #: stringdump_steam_2022_12_06.txt:28526
 msgid "Processes"
@@ -79526,7 +79529,7 @@ msgstr "流程"
 
 #: stringdump_steam_2022_12_06.txt:28527
 msgid "the Cause"
-msgstr ""
+msgstr "原因"
 
 #: stringdump_steam_2022_12_06.txt:28528
 msgid "Occurrences"
@@ -79566,15 +79569,15 @@ msgstr "愈合"
 
 #: stringdump_steam_2022_12_06.txt:28537
 msgid "Happiness"
-msgstr ""
+msgstr "幸福"
 
 #: stringdump_steam_2022_12_06.txt:28538
 msgid "Medical Ethics"
-msgstr ""
+msgstr "医德"
 
 #: stringdump_steam_2022_12_06.txt:28539
 msgid "Harm"
-msgstr ""
+msgstr "损害"
 
 #: stringdump_steam_2022_12_06.txt:28540
 msgid "Everything"
@@ -83919,79 +83922,79 @@ msgstr "工程学:机械:曲柄"
 
 #: stringdump_steam_2022_12_06.txt:29625
 msgid "engineering:optics:cause of twilight"
-msgstr ""
+msgstr "工程学:光学:暮光的诱因"
 
 #: stringdump_steam_2022_12_06.txt:29626
 msgid "engineering:optics:height of atmosphere"
-msgstr ""
+msgstr "工程学:光学:大气层的高度"
 
 #: stringdump_steam_2022_12_06.txt:29627
 msgid "engineering:fluid:archimedes principle"
-msgstr ""
+msgstr "工程学:流体力学:阿基米德原理"
 
 #: stringdump_steam_2022_12_06.txt:29628
 msgid "engineering:optics:atmospheric refraction"
-msgstr ""
+msgstr "工程学:光学:大气折射"
 
 #: stringdump_steam_2022_12_06.txt:29629
 msgid "engineering:optics:crystal lens"
-msgstr ""
+msgstr "工程学:光学:水晶镜片"
 
 #: stringdump_steam_2022_12_06.txt:29630
 msgid "engineering:optics:water-filled spheres"
-msgstr ""
+msgstr "工程学:光学:装水球体"
 
 #: stringdump_steam_2022_12_06.txt:29631
 msgid "engineering:fluid:valves"
-msgstr ""
+msgstr "工程学:流体力学:阀门"
 
 #: stringdump_steam_2022_12_06.txt:29632
 msgid "engineering:fluid:force pump"
-msgstr ""
+msgstr "工程学:流体动力学:压力泵"
 
 #: stringdump_steam_2022_12_06.txt:29633
 msgid "engineering:machine:balance wheel"
-msgstr ""
+msgstr "工程学:机器:摆轮"
 
 #: stringdump_steam_2022_12_06.txt:29634
 msgid "engineering:fluid:theory of siphon"
-msgstr ""
+msgstr "工程学:流体动力学:虹吸理论"
 
 #: stringdump_steam_2022_12_06.txt:29635
 msgid "engineering:machine:combination lock"
-msgstr ""
+msgstr "工程学:机械:密码锁"
 
 #: stringdump_steam_2022_12_06.txt:29636
 msgid "engineering:machine:verge escapement"
-msgstr ""
+msgstr "工程学:机械:边缘擒纵机构"
 
 #: stringdump_steam_2022_12_06.txt:29637
 msgid "engineering:design:models and templates"
-msgstr ""
+msgstr "工程学:机械:模型与模板"
 
 #: stringdump_steam_2022_12_06.txt:29638
 msgid "engineering:construction:wood lamination"
-msgstr ""
+msgstr "工程学:机械:木材纹理"
 
 #: stringdump_steam_2022_12_06.txt:29639
 msgid "engineering:optics:theory of rainbows"
-msgstr ""
+msgstr "工程学:流体动力学:彩虹理论"
 
 #: stringdump_steam_2022_12_06.txt:29640
 msgid "engineering:optics:law of refraction"
-msgstr ""
+msgstr "工程学:光学:折射定律"
 
 #: stringdump_steam_2022_12_06.txt:29641
 msgid "engineering:optics:parabolic mirror"
-msgstr ""
+msgstr "工程学:光学:抛物柱面镜"
 
 #: stringdump_steam_2022_12_06.txt:29642
 msgid "engineering:optics:theory of color"
-msgstr ""
+msgstr "工程学:光学:色彩理论"
 
 #: stringdump_steam_2022_12_06.txt:29643
 msgid "engineering:optics:glass lens"
-msgstr ""
+msgstr "工程学:光学:玻璃镜片"
 
 #: stringdump_steam_2022_12_06.txt:29644
 msgid "engineering:optics:camera obscura"
