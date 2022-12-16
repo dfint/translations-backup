@@ -1,13 +1,11 @@
 # 
 # Translators:
-# insolor, 2022
 # Kirill Shevernitskiy, 2022
-# Daniel Ţurcanu, 2022
-# Vitaliy Morgenn, 2022
+# insolor, 2022
 # 
 msgid ""
 msgstr ""
-"Last-Translator: Vitaliy Morgenn, 2022\n"
+"Last-Translator: insolor, 2022\n"
 "Language-Team: Russian (https://www.transifex.com/dwarf-fortress-translation/teams/22396/ru/)\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -32,7 +30,7 @@ msgstr "чей молот разбился о наковальню моей во
 
 #: text_dwarf.txt:6
 msgid "who forged [PRO_POS] own doom by challenging me"
-msgstr "который только [PRO_POS] обрёк себя на гибель, бросив мне вызов"
+msgstr "который только обрёк себя на гибель, бросив мне вызов"
 
 #: text_dwarf.txt:7
 msgid "who was returned to the rock and muck from which it was spawned"
@@ -85,8 +83,8 @@ msgid ""
 "seek out [CONTEXT:HIST_FIG:TRANS_NAME] at "
 "[CONTEXT:ABSTRACT_BUILDING:TRANS_NAME] over in [CONTEXT:SITE:TRANS_NAME]"
 msgstr ""
-"искать [CONTEXT:HIST_FIG:TRANS_NAME] в "
-"[CONTEXT:ABSTRACT_BUILDING:TRANS_NAME] над [CONTEXT:SITE:TRANS_NAME]"
+"разыщите [CONTEXT:HIST_FIG:TRANS_NAME] в "
+"[CONTEXT:ABSTRACT_BUILDING:TRANS_NAME] в [CONTEXT:SITE:TRANS_NAME]"
 
 #: text_animal_slayer.txt:2
 msgid ""
@@ -108,23 +106,23 @@ msgstr ""
 
 #: text_book_art.txt2, text_book_instruction.txt:2
 msgid "[NAME]"
-msgstr "[NAME]"
+msgstr "\"[NAME]\""
 
 #: text_book_art.txt:3
 msgid "[PHRASE]"
-msgstr "[PHRASE]"
+msgstr "\"[PHRASE]\""
 
 #: text_book_art.txt:4
 msgid "[ADJ] [NO_ART_NAME]"
-msgstr "[ADJ] [NO_ART_NAME]"
+msgstr "\"[ADJ] [NO_ART_NAME]\""
 
 #: text_book_art.txt:5
 msgid "The [ADJ] [NO_ART_NAME]"
-msgstr "\"<set-form:[ADJ]> <get-form:[NO_ART_NAME]>\""
+msgstr "\"[ADJ] [NO_ART_NAME]\""
 
 #: text_book_art.txt:6
 msgid "[NAME] [ADJ]"
-msgstr "[NAME] [ADJ]"
+msgstr "\"[NAME] [ADJ]\""
 
 #: text_book_art.txt:7
 msgid "[NAME] and the [NOUN]"
@@ -132,7 +130,7 @@ msgstr "\"[NAME] и [NOUN]\""
 
 #: text_book_art.txt:8
 msgid "[NAME] and the [ADJ] [NOUN]"
-msgstr "\"[NAME] и <set-form:[ADJ]> <get-form:[NOUN]>\""
+msgstr "\"[NAME] и [ADJ] [NOUN]\""
 
 #: text_book_art.txt:9
 msgid "The [NOUN] and [NAME]"
@@ -140,7 +138,7 @@ msgstr "\"[NOUN] и [NAME]\""
 
 #: text_book_art.txt:10
 msgid "The [ADJ] [NOUN] and [NAME]"
-msgstr "\"<set-form:[ADJ]> <get-form:[NOUN]> и [NAME]\""
+msgstr "\"[NOUN] [ADJ] и [NAME]\""
 
 #: text_book_art.txt:11
 msgid "[NAME]: [PHRASE]"
@@ -148,7 +146,7 @@ msgstr "[NAME]: [PHRASE]"
 
 #: text_book_art.txt:12
 msgid "It Must Have Been [NAME]"
-msgstr "\"Это <set-form:должен> <set-form:был> быть <get-form:[NAME]>\""
+msgstr "\"Должно быть это был [NAME]\""
 
 #: text_book_art.txt:13
 msgid "My Friend [NAME]"
@@ -156,15 +154,15 @@ msgstr "\"Мой друг, [NAME]\""
 
 #: text_book_art.txt:14
 msgid "The Birth of [NAME]"
-msgstr "\"Рождение <gent:[NAME]>\""
+msgstr "\"Рождение [NAME]\""
 
 #: text_book_art.txt:15
 msgid "The Sun Sets on [NAME]"
-msgstr "\"Закат <gent:[NAME]>\""
+msgstr "\"Закат [NAME]\""
 
 #: text_book_art.txt:16
 msgid "We See [NAME]"
-msgstr "\"Наше видение <gent:[NAME]>\""
+msgstr "\"Наше видение [NAME]\""
 
 #: text_book_art.txt:17
 msgid "[NAME] Ever Onward"
@@ -176,63 +174,63 @@ msgstr "\"[NAME] и ничего более\""
 
 #: text_book_art.txt:19
 msgid "And [ANY_PRONOUN] Sang '[NAME]!'"
-msgstr "\"<get-form:[ANY_PRONOUN]> <set-form:пел>: 'О [NAME]!'\""
+msgstr "\"И пел он 'О, [NAME]!'\""
 
 #: text_book_instruction.txt:3
 msgid "A Course on [NAME]"
-msgstr "\"Курс по <datv:[NAME]>\""
+msgstr "\"Курс по [NAME]\""
 
 #: text_book_instruction.txt:4
 msgid "A Humble Offering to [NAME]"
-msgstr "\"Скромное подношение <datv:[NAME]>\""
+msgstr "\"Скромное подношение [NAME]\""
 
 #: text_book_instruction.txt:5
 msgid "A Meditation on [NAME]"
-msgstr "\"Медитация на <accs:[NAME]>\""
+msgstr "\"Медитация на [NAME]\""
 
 #: text_book_instruction.txt:6
 msgid "A Record of [NAME]"
-msgstr "\"Записки о <accs:[NAME]>\""
+msgstr "\"Записки о [NAME]\""
 
 #: text_book_instruction.txt:7
 msgid "A Treatise on [NAME]"
-msgstr "\"Труды о <loct:[NAME]>\""
+msgstr "\"Труды о [NAME]\""
 
 #: text_book_instruction.txt:8
 msgid "A World of [NAME]"
-msgstr "\"Мир <gent:[NAME]>\""
+msgstr "\"Мир [NAME]\""
 
 #: text_book_instruction.txt:9
 msgid "About [NAME]"
-msgstr "\"О <loct:[NAME]>\""
+msgstr "\"О [NAME]\""
 
 #: text_book_instruction.txt:10
 msgid "After [NAME]"
-msgstr "\"После <gent:[NAME]>\""
+msgstr "\"После [NAME]\""
 
 #: text_book_instruction.txt:11
 msgid "Against [NAME]"
-msgstr "\"Против <gent:[NAME]>\""
+msgstr "\"Против [NAME]\""
 
 #: text_book_instruction.txt:12
 msgid "An Exploration of [NAME]"
-msgstr "\"Исследование <gent:[NAME]>\""
+msgstr "\"Исследование [NAME]\""
 
 #: text_book_instruction.txt:13
 msgid "An Introduction to [NAME]"
-msgstr "\"Введение в <accs:[NAME]>\""
+msgstr "\"Введение в [NAME]\""
 
 #: text_book_instruction.txt:14
 msgid "An Offering to [NAME]"
-msgstr "\"Подношение <datv:[NAME]>\""
+msgstr "\"Подношение [NAME]\""
 
 #: text_book_instruction.txt:15
 msgid "At One With [NAME]"
-msgstr "\"Один на один с <ablt:[NAME]>\""
+msgstr "\"Один на один с [NAME]\""
 
 #: text_book_instruction.txt:16
 msgid "Before [NAME]"
-msgstr "\"Перед <ablt:[NAME]>\""
+msgstr "\"Перед [NAME]\""
 
 #: text_book_instruction.txt:17
 msgid "Better [NO_ART_NAME]"
@@ -240,83 +238,83 @@ msgstr "\"Лучше чем [NO_ART_NAME]\""
 
 #: text_book_instruction.txt:18
 msgid "Beyond [NAME]"
-msgstr "\"За пределами <gent:[NAME]>\""
+msgstr "\"За пределами [NAME]\""
 
 #: text_book_instruction.txt:19
 msgid "Book of [NAME]"
-msgstr "\"Книга <gent:[NAME]>\""
+msgstr "\"Книга [NAME]\""
 
 #: text_book_instruction.txt:20
 msgid "Captivated by [NAME]"
-msgstr "\"Очарование <gent:[NAME]>\""
+msgstr "\"Очарование [NAME]\""
 
 #: text_book_instruction.txt:21
 msgid "Choose [NAME]"
-msgstr "\"Выбор <gent:[NAME]>\""
+msgstr "\"Выбор [NAME]\""
 
 #: text_book_instruction.txt:22
 msgid "Classic [NO_ART_NAME]"
-msgstr "\"Классика <gent:[NO_ART_NAME]>\""
+msgstr "\"Классика [NO_ART_NAME]\""
 
 #: text_book_instruction.txt:23
 msgid "Commentary on [NAME]"
-msgstr "\"Комментарии о <loct:[NAME]>\""
+msgstr "\"Комментарии о [NAME]\""
 
 #: text_book_instruction.txt:24
 msgid "Common Sense [NO_ART_NAME]"
-msgstr "\"Здравые рассуждения о <loct:[NO_ART_NAME]>\""
+msgstr "\"Здравые рассуждения о [NO_ART_NAME]\""
 
 #: text_book_instruction.txt:25
 msgid "Concerning [NAME]"
-msgstr "\"Рассуждения относительно <gent:[NAME]>\""
+msgstr "\"Рассуждения относительно [NAME]\""
 
 #: text_book_instruction.txt:26
 msgid "Discourse on [NAME]"
-msgstr "\"Диалоги о <loct:[NAME]>\""
+msgstr "\"Диалоги о [NAME]\""
 
 #: text_book_instruction.txt:27
 msgid "Discovering [NAME]"
-msgstr "\"Изучение <gent:[NAME]>\""
+msgstr "\"Изучение [NAME]\""
 
 #: text_book_instruction.txt:28
 msgid "Doubts About [NAME]"
-msgstr "\"Сомнения о <loct:[NAME]>\""
+msgstr "\"Сомнения о [NAME]\""
 
 #: text_book_instruction.txt:29
 msgid "Dreams of [NAME]"
-msgstr "\"Мечты о <loct:[NAME]>\""
+msgstr "\"Мечты о [NAME]\""
 
 #: text_book_instruction.txt:30
 msgid "Elements of [NAME]"
-msgstr "\"Элементы <gent:[NAME]>\""
+msgstr "\"Элементы [NAME]\""
 
 #: text_book_instruction.txt:31
 msgid "Errors In [NAME]"
-msgstr "\"Ошибки в <loct:[NAME]>\""
+msgstr "\"Ошибки в [NAME]\""
 
 #: text_book_instruction.txt:32
 msgid "Exploring [NAME]"
-msgstr "\"Исследование <gent:[NAME]>\""
+msgstr "\"Исследование [NAME]\""
 
 #: text_book_instruction.txt:33
 msgid "Explorations of [NAME]"
-msgstr "\"Исследования <gent:[NAME]>\""
+msgstr "\"Исследования [NAME]\""
 
 #: text_book_instruction.txt:34
 msgid "Factual [NO_ART_NAME]"
-msgstr "\"Факты о <loct:[NO_ART_NAME]>\""
+msgstr "\"Факты о [NO_ART_NAME]\""
 
 #: text_book_instruction.txt:35
 msgid "For the Love of [NAME]"
-msgstr "\"За любовь <gent:[NAME]>\""
+msgstr "\"За любовь [NAME]\""
 
 #: text_book_instruction.txt:36
 msgid "Foundations of [NAME]"
-msgstr "\"Основы <gent:[NAME]>\""
+msgstr "\"Основы [NAME]\""
 
 #: text_book_instruction.txt:37
 msgid "Give Me [NAME]"
-msgstr "\"Дайте мне <accs,inan:[NAME]>\""
+msgstr "\"Дайте мне [NAME]\""
 
 #: text_book_instruction.txt:38
 msgid "Great [NO_ART_NAME]"
@@ -324,23 +322,23 @@ msgstr "\"Великий [NO_ART_NAME]\""
 
 #: text_book_instruction.txt:39
 msgid "In Pursuit of [NAME]"
-msgstr "\"В стремлении к <datv:[NAME]>\""
+msgstr "\"В стремлении к [NAME]\""
 
 #: text_book_instruction.txt:40
 msgid "Inquiries on [NAME]"
-msgstr "\"Изучение <gent:[NAME]>\""
+msgstr "\"Изучение [NAME]\""
 
 #: text_book_instruction.txt:41
 msgid "Interpretations of [NAME]"
-msgstr "\"Интерпретации <gent:[NAME]>\""
+msgstr "\"Интерпретации [NAME]\""
 
 #: text_book_instruction.txt:42
 msgid "Introduction to [NAME]"
-msgstr "\"Введение в <accs:[NAME]>\""
+msgstr "\"Введение в [NAME]\""
 
 #: text_book_instruction.txt:43
 msgid "It All Begins With [NAME]"
-msgstr "\"Все начинается с <gent:[NAME]>\""
+msgstr "\"Все начинается с [NAME]\""
 
 #: text_book_instruction.txt:44
 msgid "It Is [NAME]"
@@ -348,159 +346,159 @@ msgstr "\"Это [NAME]\""
 
 #: text_book_instruction.txt:45
 msgid "Journey to [NAME]"
-msgstr "\"Путешествие в <accs:[NAME]>\""
+msgstr "\"Путешествие в [NAME]\""
 
 #: text_book_instruction.txt:46
 msgid "Life With [NAME]"
-msgstr "\"Жизнь с <ablt:[NAME]>\""
+msgstr "\"Жизнь с [NAME]\""
 
 #: text_book_instruction.txt:47
 msgid "Master of [NAME]"
-msgstr "\"Мастер <gent:[NAME]>\""
+msgstr "\"Мастер [NAME]\""
 
 #: text_book_instruction.txt:48
 msgid "Mastering [NAME]"
-msgstr "\"Постижение <gent:[NAME]>\""
+msgstr "\"Совершенствование в [NAME]\""
 
 #: text_book_instruction.txt:49
 msgid "Meditations on [NAME]"
-msgstr "\"Медитации на <accs:[NAME]>\""
+msgstr "\"Медитации на [NAME]\""
 
 #: text_book_instruction.txt:50
 msgid "Misconceptions About [NAME]"
-msgstr "\"Заблуждения о <loct:[NAME]>\""
+msgstr "\"Заблуждения о [NAME]\""
 
 #: text_book_instruction.txt:51
 msgid "More [NO_ART_NAME]"
-msgstr "\"Больше <gent:[NO_ART_NAME]>\""
+msgstr "\"Больше [NO_ART_NAME]\""
 
 #: text_book_instruction.txt:52
 msgid "Musings on [NAME]"
-msgstr "\"Размышления о <loct:[NAME]>\""
+msgstr "\"Размышления о [NAME]\""
 
 #: text_book_instruction.txt:53
 msgid "My Thoughts on [NAME]"
-msgstr "\"Мои мысли о <loct:[NAME]>\""
+msgstr "\"Мои мысли о [NAME]\""
 
 #: text_book_instruction.txt:54
 msgid "Mysteries of [NAME]"
-msgstr "\"Загадки <gent:[NAME]>\""
+msgstr "\"Загадки [NAME]\""
 
 #: text_book_instruction.txt:55
 msgid "Never Underestimate [NAME]"
-msgstr "\"Не стоит недооценивать <accs:[NAME]>\""
+msgstr "\"Не стоит недооценивать [NAME]\""
 
 #: text_book_instruction.txt:56
 msgid "New [NO_ART_NAME]"
-msgstr "\"<set-form:Новый> <get-form:[NO_ART_NAME]>\""
+msgstr "\"Новый [NO_ART_NAME]\""
 
 #: text_book_instruction.txt:57
 msgid "Of [NAME]"
-msgstr "\"Про <accs:[NAME]>\""
+msgstr "\"Про [NAME]\""
 
 #: text_book_instruction.txt:58
 msgid "On [NAME]"
-msgstr "\"Про <accs:[NAME]>\""
+msgstr "\"Про [NAME]\""
 
 #: text_book_instruction.txt:59
 msgid "Pathways to [NAME]"
-msgstr "\"Пути к <datv:[NAME]>\""
+msgstr "\"Пути к [NAME]\""
 
 #: text_book_instruction.txt:60
 msgid "Principles of [NAME]"
-msgstr "\"Принципы <gent:[NAME]>\""
+msgstr "\"Принципы [NAME]\""
 
 #: text_book_instruction.txt:61
 msgid "Question [NAME]"
-msgstr "\"Вопрос <gent:[NAME]>\""
+msgstr "\"Вопрос [NAME]\""
 
 #: text_book_instruction.txt:62
 msgid "Questions About [NAME]"
-msgstr "\"Вопросы о <loct:[NAME]>\""
+msgstr "\"Вопросы по [NAME]\""
 
 #: text_book_instruction.txt:63
 msgid "Records of [NAME]"
-msgstr "\"Записи о <loct:[NAME]>\""
+msgstr "\"Записки о [NAME]\""
 
 #: text_book_instruction.txt:64
 msgid "Reflections on [NAME]"
-msgstr "\"Грани <gent:[NAME]>\""
+msgstr "\"Размышления о [NAME]\""
 
 #: text_book_instruction.txt:65
 msgid "Secret [NO_ART_NAME]"
-msgstr "\"Секрет <gent:[NO_ART_NAME]>\""
+msgstr "\"Секреты [NO_ART_NAME]\""
 
 #: text_book_instruction.txt:66
 msgid "Start Your Day With [NAME]"
-msgstr "\"Начните свой день с <gent:[NAME]>\""
+msgstr "\"Начните свой день с [NAME]\""
 
 #: text_book_instruction.txt:67
 msgid "Strange [NO_ART_NAME]"
-msgstr "\"<set-form:Странный> <get-form:[NO_ART_NAME]>\""
+msgstr "\"Странности [NO_ART_NAME]\""
 
 #: text_book_instruction.txt:68
 msgid "The Art of [NAME]"
-msgstr "\"Искусство <gent:[NAME]>\""
+msgstr "\"Искусство [NAME]\""
 
 #: text_book_instruction.txt:69
 msgid "The Book of [NAME]"
-msgstr "\"Книга <gent:[NAME]>\""
+msgstr "\"Книга [NAME]\""
 
 #: text_book_instruction.txt:70
 msgid "The Future of [NAME]"
-msgstr "\"Будущее <gent:[NAME]>\""
+msgstr "\"Будущее [NAME]\""
 
 #: text_book_instruction.txt:71
 msgid "The Great [NO_ART_NAME]"
-msgstr "\"<set-form:Великий> <get-form:[NO_ART_NAME]>\""
+msgstr "\"Величие [NO_ART_NAME]\""
 
 #: text_book_instruction.txt:72
 msgid "The Hidden Meaning of [NAME]"
-msgstr "\"Скрытое значение <gent:[NAME]>\""
+msgstr "\"Скрытые значения [NAME]\""
 
 #: text_book_instruction.txt:73
 msgid "The History of [NAME]"
-msgstr "\"История <gent:[NAME]>\""
+msgstr "\"История [NAME]\""
 
 #: text_book_instruction.txt:74
 msgid "The Interpretation of [NAME]"
-msgstr "\"Интерпретация <gent:[NAME]>\""
+msgstr "\"Интерпретация [NAME]\""
 
 #: text_book_instruction.txt:75
 msgid "The Journey into [NAME]"
-msgstr "\"Путешествие в <datv:[NAME]>\""
+msgstr "\"Путешествие в [NAME]\""
 
 #: text_book_instruction.txt:76
 msgid "The Knowledge of [NAME]"
-msgstr "\"Знание <gent:[NAME]>\""
+msgstr "\"Знание [NAME]\""
 
 #: text_book_instruction.txt:77
 msgid "The Meaning of [NAME]"
-msgstr "\"Смысл <gent:[NAME]>\""
+msgstr "\"Смысл [NAME]\""
 
 #: text_book_instruction.txt:78
 msgid "The Mysteries of [NAME]"
-msgstr "\"Загадки <gent:[NAME]>\""
+msgstr "\"Загадки [NAME]\""
 
 #: text_book_instruction.txt:79
 msgid "The Mystery of [NAME]"
-msgstr "\"Загадка <gent:[NAME]>\""
+msgstr "\"Загадка [NAME]\""
 
 #: text_book_instruction.txt:80
 msgid "The Nuanced [NO_ART_NAME]"
-msgstr "\"Нюансы <gent:[NO_ART_NAME]>\""
+msgstr "\"Нюансы [NO_ART_NAME]\""
 
 #: text_book_instruction.txt:81
 msgid "The Possibilities of [NAME]"
-msgstr "\"Возможности <gent:[NAME]>\""
+msgstr "\"Возможности [NAME]\""
 
 #: text_book_instruction.txt:82
 msgid "The Pursuit of [NAME]"
-msgstr "\"Стремление к <datv:[NAME]>\""
+msgstr "\"Стремление к [NAME]\""
 
 #: text_book_instruction.txt:83
 msgid "The Secret of [NAME]"
-msgstr "\"Секрет <gent:[NAME]>\""
+msgstr "\"Секрет [NAME]\""
 
 #: text_book_instruction.txt:84
 msgid "The Student's [NO_ART_NAME]"
@@ -508,15 +506,15 @@ msgstr "\"[NO_ART_NAME] студента\""
 
 #: text_book_instruction.txt:85
 msgid "The Study of [NAME]"
-msgstr "\"Изучение <gent:[NAME]>\""
+msgstr "\"Изучение [NAME]\""
 
 #: text_book_instruction.txt:86
 msgid "The True [NO_ART_NAME]"
-msgstr "\"<set-form:Истинный> <get-form:[NO_ART_NAME]>\""
+msgstr "\"Истинный [NO_ART_NAME]\""
 
 #: text_book_instruction.txt:87
 msgid "The Truth About [NAME]"
-msgstr "\"Правда о <loct:[NAME]>\""
+msgstr "\"Правда о [NAME]\""
 
 #: text_book_instruction.txt:88
 msgid "The Unabridged [NO_ART_NAME]"
@@ -524,67 +522,67 @@ msgstr "\"[NO_ART_NAME] без сокращений\""
 
 #: text_book_instruction.txt:89
 msgid "The Way With [NAME]"
-msgstr "\"По пути с <ablt:[NAME]>\""
+msgstr "\"По пути с [NAME]\""
 
 #: text_book_instruction.txt:90
 msgid "The Wizard's Guide to [NAME]"
-msgstr "\"Руководство волшебника по <datv:[NAME]>\""
+msgstr "\"Руководство волшебника по [NAME]\""
 
 #: text_book_instruction.txt:91
 msgid "The World of [NAME]"
-msgstr "\"Мир <gent:[NAME]>\""
+msgstr "\"Мир [NAME]\""
 
 #: text_book_instruction.txt:92
 msgid "The World Without [NAME]"
-msgstr "\"Мир без <gent:[NAME]>\""
+msgstr "\"Мир без [NAME]\""
 
 #: text_book_instruction.txt:93
 msgid "Thoughts on [NAME]"
-msgstr "\"Мысли о <loct:[NAME]>\""
+msgstr "\"Мысли о [NAME]\""
 
 #: text_book_instruction.txt:94
 msgid "Time Spent With [NAME]"
-msgstr "\"Время с <ablt:[NAME]>\""
+msgstr "\"Время с [NAME]\""
 
 #: text_book_instruction.txt:95
 msgid "Traditional [NO_ART_NAME]"
-msgstr "\"Традиции <gent:[NO_ART_NAME]>\""
+msgstr "\"Традиции [NO_ART_NAME]\""
 
 #: text_book_instruction.txt:96
 msgid "Treatise on [NAME]"
-msgstr "\"Трактат о <loct:[NAME]>\""
+msgstr "\"Трактат о [NAME]\""
 
 #: text_book_instruction.txt:97
 msgid "True [NO_ART_NAME]"
-msgstr "\"<set-form:Истинный> <get-form:[NO_ART_NAME]>\""
+msgstr "\"Истинный [NO_ART_NAME]\""
 
 #: text_book_instruction.txt:98
 msgid "Uncanny [NO_ART_NAME]"
-msgstr "\"<set-form:Необъяснимый> <get-form:[NO_ART_NAME]>\""
+msgstr "\"Необъяснимый [NO_ART_NAME]\""
 
 #: text_book_instruction.txt:99
 msgid "Uncovering [NAME]"
-msgstr "\"Открытие <gent:[NAME]>\""
+msgstr "\"Открытие [NAME]\""
 
 #: text_book_instruction.txt:100
 msgid "Understanding [NAME]"
-msgstr "\"Понимание <gent:[NAME]>\""
+msgstr "\"Понимание [NAME]\""
 
 #: text_book_instruction.txt:101
 msgid "Unknown [NO_ART_NAME]"
-msgstr "\"<set-form:Неизвестный> <get-form:[NO_ART_NAME]>\""
+msgstr "\"Неизвестный [NO_ART_NAME]\""
 
 #: text_book_instruction.txt:102
 msgid "Unusual [NO_ART_NAME]"
-msgstr "\"<set-form:Необычный> <get-form:[NO_ART_NAME]>\""
+msgstr "\"Необычный [NO_ART_NAME]\""
 
 #: text_book_instruction.txt:103
 msgid "Useful [NO_ART_NAME]"
-msgstr "\"<set-form:Полезный> <get-form:[NO_ART_NAME]>\""
+msgstr "\"Полезный [NO_ART_NAME]\""
 
 #: text_book_instruction.txt:104
 msgid "Victory By [NAME]"
-msgstr "\"Победа <gent:[NAME]>\""
+msgstr "\"Победа [NAME]\""
 
 #: text_book_instruction.txt:105
 msgid "[NAME] After The End"
@@ -616,7 +614,7 @@ msgstr "\"[NAME] и Вселенная\""
 
 #: text_book_instruction.txt:112
 msgid "[NAME] Came Full Circle"
-msgstr "\"Полный оборот <gent:[NAME]>\""
+msgstr "\"Полный оборот [NAME]\""
 
 #: text_book_instruction.txt:113
 msgid "[NAME] Explained"
@@ -640,7 +638,7 @@ msgstr "\"[NAME] для начинающих практиков\""
 
 #: text_book_instruction.txt:118
 msgid "[NAME] In Practice"
-msgstr "\"Практика <gent:[NAME]>\""
+msgstr "\"Практика [NAME]\""
 
 #: text_book_instruction.txt:119
 msgid "[NAME] In The Modern Era"
@@ -652,15 +650,15 @@ msgstr "\"[NAME] во времена предков\""
 
 #: text_book_instruction.txt:121
 msgid "[NAME] In Theory"
-msgstr "\"Теория <gent:[NAME]>\""
+msgstr "\"Теория [NAME]\""
 
 #: text_book_instruction.txt:122
 msgid "[NAME] In [ANY_AGE]"
-msgstr "\"[NAME] во времена <gent:[ANY_AGE]>\""
+msgstr "\"[NAME] во времена [ANY_AGE]\""
 
 #: text_book_instruction.txt:123
 msgid "[NAME] Interpreted"
-msgstr "\"Интерпретация <gent:[NAME]>\""
+msgstr "\"Интерпретация [NAME]\""
 
 #: text_book_instruction.txt:124
 msgid "[NAME] Might Help"
@@ -672,15 +670,15 @@ msgstr "\"[NAME] отвечает на вопросы\""
 
 #: text_book_instruction.txt:126
 msgid "[NAME] The Easy Way"
-msgstr "\"Лёгкий путь к <datv:[NAME]>\""
+msgstr "\"Лёгкий путь к [NAME]\""
 
 #: text_book_instruction.txt:127
 msgid "[NAME] Uncovered"
-msgstr "\"<set-form:Открытый> <get-form:[NAME]>\""
+msgstr "\"Открытый [NAME]\""
 
 #: text_book_instruction.txt:128
 msgid "[NAME] Understood"
-msgstr "\"Понимание <gent:[NAME]>\""
+msgstr "\"Понимание [NAME]\""
 
 #: text_book_instruction.txt:129
 msgid "[NAME] When It Counts"
@@ -688,7 +686,7 @@ msgstr "\"[NAME] имеет значение\""
 
 #: text_book_instruction.txt:130
 msgid "[NAME] Within Reason"
-msgstr "\"Причины <gent:[NAME]>\""
+msgstr "\"Причины [NAME]\""
 
 #: text_book_instruction.txt:131
 msgid "[NAME] Without Limits"
@@ -760,7 +758,7 @@ msgstr "\"[NAME]: полное руководство\""
 
 #: text_book_instruction.txt:148
 msgid "[NAME]: The Truth"
-msgstr "\"Вся правда о <loct:[NAME]>\""
+msgstr "\"Вся правда о [NAME]\""
 
 #: text_book_instruction.txt:149
 msgid "Can [NAME] Save The World?"
@@ -768,19 +766,19 @@ msgstr "\"Может ли [NAME] спасти мир?\""
 
 #: text_book_instruction.txt:150
 msgid "Could It Be [NAME]?"
-msgstr "\"<set-form:Мог> ли это быть <get-form:[NAME]>?\""
+msgstr "\"Мог ли это быть [NAME]?\""
 
 #: text_book_instruction.txt:151
 msgid "Did [NAME] Falter?"
-msgstr "\"<set-form:Колебался> ли <get-form:[NAME]>?\""
+msgstr "\"Колебался ли [NAME]?\""
 
 #: text_book_instruction.txt:152
 msgid "Do We Understand [NAME]?"
-msgstr "\"Правильно ли мы понимаем <accs:[NAME]>?\""
+msgstr "\"Правильно ли мы понимаем [NAME]?\""
 
 #: text_book_instruction.txt:153
 msgid "Do You Know [NAME]?"
-msgstr "\"Всё ли мы знаем о <loct:[NAME]>?\""
+msgstr "\"Всё ли мы знаем о [NAME]?\""
 
 #: text_book_instruction.txt:154
 msgid "First [NAME], Then The World!"
@@ -788,7 +786,7 @@ msgstr "\"Сначала [NAME], потом - весь мир!\""
 
 #: text_book_instruction.txt:155
 msgid "The [NO_ART_NAME] Book"
-msgstr "\"Книга о <loct:[NO_ART_NAME]>\""
+msgstr "\"Книга о [NO_ART_NAME]\""
 
 #: text_book_instruction.txt:156
 msgid "To [NAME] and Glory!"
@@ -1263,14 +1261,14 @@ msgid ""
 "seek out [CONTEXT:HIST_FIG:TRANS_NAME] here in [CONTEXT:SITE:TRANS_NAME] at "
 "[CONTEXT:ABSTRACT_BUILDING:TRANS_NAME]"
 msgstr ""
-"найдите [CONTEXT:HIST_FIG:TRANS_NAME] здесь, в [CONTEXT:SITE:TRANS_NAME] в "
+"разыщите [CONTEXT:HIST_FIG:TRANS_NAME] здесь, в [CONTEXT:SITE:TRANS_NAME] в "
 "[CONTEXT:ABSTRACT_BUILDING:TRANS_NAME]"
 
 #: text_same_site_specific_hf_seeker.txt:2
 msgid ""
 "seek out [CONTEXT:HIST_FIG:TRANS_NAME] here in [CONTEXT:SITE:TRANS_NAME]"
 msgstr ""
-"найдите [CONTEXT:HIST_FIG:TRANS_NAME] здесь, в [CONTEXT:SITE:TRANS_NAME]"
+"разыщите [CONTEXT:HIST_FIG:TRANS_NAME] здесь, в [CONTEXT:SITE:TRANS_NAME]"
 
 #: text_secret_death.txt:2
 msgid "Annihilation"

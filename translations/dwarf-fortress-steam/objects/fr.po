@@ -5242,7 +5242,7 @@ msgstr ""
 #: c_variation_default.txt:189
 msgctxt "CREATURE_VARIATION:ANIMAL_PERSON"
 msgid "[CV_NEW_TAG:CDI:ADV_NAME:Pet animal]"
-msgstr "Animal de compagnie"
+msgstr "[CV_NEW_TAG:CDI:ADV_NAME:Animal de compagnie]"
 
 #: c_variation_default.txt:192
 msgctxt "CREATURE_VARIATION:ANIMAL_PERSON"
@@ -12076,8 +12076,9 @@ msgid ""
 "[DESCRIPTION:A large hooved, maned herbivore.  They can run swiftly and many"
 " are domesticated as steeds.]"
 msgstr ""
-"Un grand herbivore domestiqué et portant des fers. Ils peuvent courir vite "
-"et nombreux sont ceux qui sont domestiquées pour organiser des courses."
+"[DESCRIPTION:Un grand herbivore domestiqué et portant des fers. Ils peuvent "
+"courir vite et nombreux sont ceux qui sont domestiquées pour organiser des "
+"courses.]"
 
 #: creature_domestic.txt:481
 msgctxt "CREATURE:HORSE"
@@ -12824,7 +12825,7 @@ msgstr "[ATTACK_VERB:arracher à:arrache à]"
 #: creature_domestic.txt:1189
 msgctxt "CREATURE:BIRD_CHICKEN"
 msgid "[ROOT_AROUND:BY_TYPE:STANCE:scratch:scratches]"
-msgstr ""
+msgstr "[ROOT_AROUND:BY_TYPE:STANCE:rayure:rayures]"
 
 #: creature_domestic.txt:1192
 msgctxt "CREATURE:BIRD_CHICKEN"
@@ -13925,7 +13926,7 @@ msgstr "[PREFSTRING:acacia]"
 #: creature_domestic.txt:2367
 msgctxt "CREATURE:BIRD_TURKEY"
 msgid "[PREFSTRING:snood]"
-msgstr ""
+msgstr "[PREFSTRING:tour de cou]"
 
 #: creature_domestic.txt:2368
 msgctxt "CREATURE:BIRD_TURKEY"
@@ -15207,6 +15208,7 @@ msgstr "[CDI:ADV_NAME:Animal de compagnie]"
 msgctxt "CREATURE:GNOME_MOUNTAIN"
 msgid "[CDI:VERB:pet:pets:pets]"
 msgstr ""
+"[CDI:VERB:animal de compagnie:animaux de compagnie:animaux de compagnie]"
 
 #: creature_large_mountain.txt:374
 msgctxt "CREATURE:GNOME_MOUNTAIN"
@@ -15323,6 +15325,7 @@ msgstr "[CDI:ADV_NAME:Animal de compagnie]"
 msgctxt "CREATURE:GNOME_DARK"
 msgid "[CDI:VERB:pet:pets:pets]"
 msgstr ""
+"[CDI:VERB:animal de compagnie:animaux de compagnie:animaux de compagnie]"
 
 #: creature_large_mountain.txt:617
 msgctxt "CREATURE:GNOME_DARK"
@@ -16112,22 +16115,30 @@ msgstr "[TLCM_NOUN:yeux:PLURAL]"
 msgctxt "CREATURE:SHARK_REEF_BLACKTIP"
 msgid "[DESCRIPTION:A medium-sized fish found in shallow oceanic waters.]"
 msgstr ""
+"[DESCRIPTION:Un poisson de taille moyenne trouvé dans les eaux océaniques "
+"peu profondes.]"
 
 #: creature_large_ocean.txt:1077
 msgctxt "CREATURE:SHARK_REEF_BLACKTIP"
 msgid "[NAME:blacktip reef shark:blacktip reef sharks:blacktip reef shark]"
 msgstr ""
+"[NAME:requin à pointes noires:requins à pointes noires:requin à pointes "
+"noires]"
 
 #: creature_large_ocean.txt:1078
 msgctxt "CREATURE:SHARK_REEF_BLACKTIP"
 msgid ""
 "[CASTE_NAME:blacktip reef shark:blacktip reef sharks:blacktip reef shark]"
 msgstr ""
+"[CASTE_NAME:requin à pointes noires:requins à pointes noires:requin à "
+"pointes noires]"
 
 #: creature_large_ocean.txt:1079
 msgctxt "CREATURE:SHARK_REEF_BLACKTIP"
 msgid "[GENERAL_CHILD_NAME:blacktip reef shark pup:blacktip reef shark pups]"
 msgstr ""
+"[GENERAL_CHILD_NAME:bébé requin à pointes noires:bébés requins à pointes "
+"noires]"
 
 #: creature_large_ocean.txt:1087
 msgctxt "CREATURE:SHARK_REEF_BLACKTIP"
@@ -16137,7 +16148,7 @@ msgstr "[PREFSTRING:curiosité]"
 #: creature_large_ocean.txt:1088
 msgctxt "CREATURE:SHARK_REEF_BLACKTIP"
 msgid "[PREFSTRING:distinctive dorsal fin]"
-msgstr ""
+msgstr "[PREFSTRING:nageoire dorsale distinctive]"
 
 #: creature_large_ocean.txt:1121
 msgctxt "CREATURE:SHARK_REEF_BLACKTIP"
@@ -16165,27 +16176,34 @@ msgid ""
 "[DESCRIPTION:A medium-sized fish which shelters in caves on the shallow sea "
 "floor.  It hunts for food in packs but is not aggressive.]"
 msgstr ""
+"[DESCRIPTION:Un poisson de taille moyenne qui s'abrite dans des grottes sur "
+"les fonds marins peu profonds. Il chasse pour se nourrir en meute mais n'est"
+" pas agressif.]"
 
 #: creature_large_ocean.txt:1157
 msgctxt "CREATURE:SHARK_REEF_WHITETIP"
 msgid "[NAME:whitetip reef shark:whitetip reef sharks:whitetip reef shark]"
 msgstr ""
+"[NAME:requin pointe blanche:requin pointe blanche:requin pointe blanche]"
 
 #: creature_large_ocean.txt:1158
 msgctxt "CREATURE:SHARK_REEF_WHITETIP"
 msgid ""
 "[CASTE_NAME:whitetip reef shark:whitetip reef sharks:whitetip reef shark]"
 msgstr ""
+"[CASTE_NAME:requin pointe blanche:requin pointe blanche:requin pointe "
+"blanche]"
 
 #: creature_large_ocean.txt:1159
 msgctxt "CREATURE:SHARK_REEF_WHITETIP"
 msgid "[GENERAL_CHILD_NAME:whitetip reef shark pup:whitetip reef shark pups]"
 msgstr ""
+"[GENERAL_CHILD_NAME:bébé requin pointe blanche:bébés requins pointe blanche]"
 
 #: creature_large_ocean.txt:1167
 msgctxt "CREATURE:SHARK_REEF_WHITETIP"
 msgid "[PREFSTRING:distinctive dorsal fin]"
-msgstr ""
+msgstr "[PREFSTRING:nageoire dorsale distinctive]"
 
 #: creature_large_ocean.txt:1200
 msgctxt "CREATURE:SHARK_REEF_WHITETIP"
@@ -16212,21 +16230,23 @@ msgctxt "CREATURE:SHARK_BLUE"
 msgid ""
 "[DESCRIPTION:A large, dangerous fish found hunting in packs in any ocean.]"
 msgstr ""
+"[DESCRIPTION:Un gros poisson dangereux que l'on trouve en train de chasser "
+"en meute dans n'importe quel océan.]"
 
 #: creature_large_ocean.txt:1236
 msgctxt "CREATURE:SHARK_BLUE"
 msgid "[NAME:blue shark:blue sharks:blue shark]"
-msgstr ""
+msgstr "[NAME:requin bleu:requins bleus:requin bleu]"
 
 #: creature_large_ocean.txt:1237
 msgctxt "CREATURE:SHARK_BLUE"
 msgid "[CASTE_NAME:blue shark:blue sharks:blue shark]"
-msgstr ""
+msgstr "[CASTE_NAME:requin bleu:requins bleus:requin bleu]"
 
 #: creature_large_ocean.txt:1238
 msgctxt "CREATURE:SHARK_BLUE"
 msgid "[GENERAL_CHILD_NAME:blue shark pup:blue shark pups]"
-msgstr ""
+msgstr "[GENERAL_CHILD_NAME:bébé requin bleu:bébés requins bleus]"
 
 #: creature_large_ocean.txt:1246
 msgctxt "CREATURE:SHARK_BLUE"
@@ -16259,26 +16279,28 @@ msgid ""
 "[DESCRIPTION:A large, dangerous fish, often found hunting solitarily along "
 "coastlines.]"
 msgstr ""
+"[DESCRIPTION:Un gros poisson dangereux, souvent trouvé en chasse solitaire "
+"le long des côtes.]"
 
 #: creature_large_ocean.txt:1315
 msgctxt "CREATURE:SHARK_HAMMERHEAD"
 msgid "[NAME:hammerhead shark:hammerhead sharks:hammerhead shark]"
-msgstr ""
+msgstr "[NAME:requin marteau:requins marteaux:requin marteau]"
 
 #: creature_large_ocean.txt:1316
 msgctxt "CREATURE:SHARK_HAMMERHEAD"
 msgid "[CASTE_NAME:hammerhead shark:hammerhead sharks:hammerhead shark]"
-msgstr ""
+msgstr "[CASTE_NAME:requin marteau:requins marteaux:requin marteau]"
 
 #: creature_large_ocean.txt:1317
 msgctxt "CREATURE:SHARK_HAMMERHEAD"
 msgid "[GENERAL_CHILD_NAME:hammerhead shark pup:hammerhead shark pups]"
-msgstr ""
+msgstr "[GENERAL_CHILD_NAME:bébé requin-marteau:bébés requin-marteau]"
 
 #: creature_large_ocean.txt:1326
 msgctxt "CREATURE:SHARK_HAMMERHEAD"
 msgid "[PREFSTRING:oddly-shaped heads]"
-msgstr ""
+msgstr "[PREFSTRING:têtes aux formes étranges]"
 
 #: creature_large_ocean.txt:1359
 msgctxt "CREATURE:SHARK_HAMMERHEAD"
@@ -16306,26 +16328,28 @@ msgid ""
 "[DESCRIPTION:A large, flat, camouflaged fish found on the sea floor in "
 "temperate waters.  It is quite passive.]"
 msgstr ""
+"[DESCRIPTION:Un gros poisson plat et camouflé que l'on trouve au fond de la "
+"mer dans les eaux tempérées. C'est assez passif.]"
 
 #: creature_large_ocean.txt:1395
 msgctxt "CREATURE:SHARK_ANGEL"
 msgid "[NAME:angelshark:angelsharks:angelshark]"
-msgstr ""
+msgstr "[NAME:requin ange: requins anges:requins anges]"
 
 #: creature_large_ocean.txt:1396
 msgctxt "CREATURE:SHARK_ANGEL"
 msgid "[CASTE_NAME:angelshark:angelsharks:angelshark]"
-msgstr ""
+msgstr "[CASTE_NAME:requin ange: requins anges:requins anges]"
 
 #: creature_large_ocean.txt:1397
 msgctxt "CREATURE:SHARK_ANGEL"
 msgid "[GENERAL_CHILD_NAME:angelshark pup:angelshark pups]"
-msgstr ""
+msgstr "[GENERAL_CHILD_NAME:bébé requin ange:bébés requins anges]"
 
 #: creature_large_ocean.txt:1406
 msgctxt "CREATURE:SHARK_ANGEL"
 msgid "[PREFSTRING:ability to conceal themselves]"
-msgstr ""
+msgstr "[PREFSTRING:capacité à se dissimuler]"
 
 #: creature_large_ocean.txt:1439
 msgctxt "CREATURE:SHARK_ANGEL"
@@ -16350,27 +16374,28 @@ msgstr "[TLCM_NOUN:yeux:PLURAL]"
 #: creature_large_ocean.txt:1474
 msgctxt "CREATURE:FISH_SKATE_COMMON"
 msgid "[DESCRIPTION:A medium-sized, flat, bottom-dwelling fish.]"
-msgstr ""
+msgstr "[DESCRIPTION:Poisson de fond, plat, de taille moyenne.]"
 
 #: creature_large_ocean.txt:1475
 msgctxt "CREATURE:FISH_SKATE_COMMON"
 msgid "[NAME:common skate:common skates:common skate]"
-msgstr ""
+msgstr "[NAME:raie commune:raies communes:raie commune]"
 
 #: creature_large_ocean.txt:1476
 msgctxt "CREATURE:FISH_SKATE_COMMON"
 msgid "[CASTE_NAME:common skate:common skates:common skate]"
-msgstr ""
+msgstr "[CASTE_NAME:raie commune:raies communes:raie commune]"
 
 #: creature_large_ocean.txt:1477
 msgctxt "CREATURE:FISH_SKATE_COMMON"
 msgid "[GENERAL_CHILD_NAME:common skate pup:common skate pups]"
 msgstr ""
+"[GENERAL_CHILD_NAME:bébé raie commune:raies communes:bébés raie commune]"
 
 #: creature_large_ocean.txt:1486
 msgctxt "CREATURE:FISH_SKATE_COMMON"
 msgid "[PREFSTRING:flat bodies]"
-msgstr ""
+msgstr "[PREFSTRING:corps plats]"
 
 #: creature_large_ocean.txt:1519
 msgctxt "CREATURE:FISH_SKATE_COMMON"
@@ -16393,26 +16418,28 @@ msgid ""
 "[DESCRIPTION:A huge filter-feeding fish with great wings.  They travel the "
 "oceans and are curious and friendly.]"
 msgstr ""
+"[DESCRIPTION:Un énorme poisson filtreur avec de grandes ailes. Ils "
+"parcourent les océans et sont curieux et amicaux.]"
 
 #: creature_large_ocean.txt:1547
 msgctxt "CREATURE:FISH_RAY_MANTA"
 msgid "[NAME:manta ray:manta rays:manta ray]"
-msgstr ""
+msgstr "[NAME:raie manta:raies mantas:raie manta]"
 
 #: creature_large_ocean.txt:1548
 msgctxt "CREATURE:FISH_RAY_MANTA"
 msgid "[CASTE_NAME:manta ray:manta rays:manta ray]"
-msgstr ""
+msgstr "[CASTE_NAME:raie manta:raies mantas:raie manta]"
 
 #: creature_large_ocean.txt:1549
 msgctxt "CREATURE:FISH_RAY_MANTA"
 msgid "[GENERAL_CHILD_NAME:manta ray pup:manta ray pups]"
-msgstr ""
+msgstr "[GENERAL_CHILD_NAME:jeune raie manta:jeunes raies mantas]"
 
 #: creature_large_ocean.txt:1557
 msgctxt "CREATURE:FISH_RAY_MANTA"
 msgid "[PREFSTRING:majesty]"
-msgstr ""
+msgstr "[PREFSTRING:majestueux]"
 
 #: creature_large_ocean.txt:1602
 msgctxt "CREATURE:FISH_RAY_MANTA"
@@ -16430,31 +16457,33 @@ msgid ""
 "[DESCRIPTION:A medium-sized, flat fish.  It lives near the beach and will "
 "defend itself with sharp barbs.]"
 msgstr ""
+"[DESCRIPTION:Un poisson plat de taille moyenne. Il vit près de la plage et "
+"se défend avec des barbillons acérés.]"
 
 #: creature_large_ocean.txt:1609
 msgctxt "CREATURE:FISH_STINGRAY"
 msgid "[NAME:stingray:stingrays:stingray]"
-msgstr ""
+msgstr "[NAME:raie pastenague:raies pastenagues:raie pastenague]"
 
 #: creature_large_ocean.txt:1610
 msgctxt "CREATURE:FISH_STINGRAY"
 msgid "[CASTE_NAME:stingray:stingrays:stingray]"
-msgstr ""
+msgstr "[CASTE_NAME:raie pastenague:raies pastenagues:raie pastenague]"
 
 #: creature_large_ocean.txt:1611
 msgctxt "CREATURE:FISH_STINGRAY"
 msgid "[GENERAL_CHILD_NAME:stingray pup:stingray pups]"
-msgstr ""
+msgstr "[GENERAL_CHILD_NAME:jeune raie pastenague:jeunes raies pastenagues]"
 
 #: creature_large_ocean.txt:1625
 msgctxt "CREATURE:FISH_STINGRAY"
 msgid "[PREFSTRING:tail spines]"
-msgstr ""
+msgstr "[PREFSTRING:épines de la queue]"
 
 #: creature_large_ocean.txt:1658
 msgctxt "CREATURE:FISH_STINGRAY"
 msgid "[ATTACK_VERB:stab:stabs]"
-msgstr ""
+msgstr "[ATTACK_VERB:poignarder:poignarde]"
 
 #: creature_large_ocean.txt:1680
 msgctxt "CREATURE:FISH_STINGRAY"
@@ -16470,6 +16499,8 @@ msgstr "[TLCM_NOUN:yeux:PLURAL]"
 msgctxt "CREATURE:FISH_COELACANTH"
 msgid "[DESCRIPTION:An elusive medium-sized fish found in coastal waters.]"
 msgstr ""
+"[DESCRIPTION:Un poisson insaisissable de taille moyenne que l'on trouve dans"
+" les eaux côtières.]"
 
 #: creature_large_ocean.txt:1687
 msgctxt "CREATURE:FISH_COELACANTH"
@@ -34361,21 +34392,23 @@ msgid ""
 "[DESCRIPTION:A medium-sized creature that can be found hopping through the "
 "grassland.]"
 msgstr ""
+"[DESCRIPTION:Une créature de taille moyenne que l'on peut trouver sautillant"
+" dans la prairie.]"
 
 #: creature_temperate_new.txt:344
 msgctxt "CREATURE:KANGAROO"
 msgid "[NAME:kangaroo:kangaroos:kangaroo]"
-msgstr ""
+msgstr "[NAME:kangourou:kangourous:kangourou]"
 
 #: creature_temperate_new.txt:345
 msgctxt "CREATURE:KANGAROO"
 msgid "[GENERAL_CHILD_NAME:kangaroo joey:kangaroo joeys]"
-msgstr ""
+msgstr "[GENERAL_CHILD_NAME:joey kangourou:joeys kangourous]"
 
 #: creature_temperate_new.txt:356
 msgctxt "CREATURE:KANGAROO"
 msgid "[PREFSTRING:pouches]"
-msgstr ""
+msgstr "[PREFSTRING:poches]"
 
 #: creature_temperate_new.txt:357
 msgctxt "CREATURE:KANGAROO"
@@ -34400,12 +34433,12 @@ msgstr "[ATTACK_VERB:morsure:morsures]"
 #: creature_temperate_new.txt:425
 msgctxt "CREATURE:KANGAROO"
 msgid "[CASTE_NAME:kangaroo doe:kangaroo does:kangaroo doe]"
-msgstr ""
+msgstr "[CASTE_NAME:fkangourou femelle:kangourous femelles]"
 
 #: creature_temperate_new.txt:429
 msgctxt "CREATURE:KANGAROO"
 msgid "[STATE_NAME:ALL_SOLID:frozen kangaroo's milk]"
-msgstr ""
+msgstr "[STATE_NAME:ALL_SOLID:lait de kangourou congelé]"
 
 #: creature_temperate_new.txt:430
 msgctxt "CREATURE:KANGAROO"
@@ -37468,7 +37501,8 @@ msgctxt "CREATURE:GIANT_SPIDER_MONKEY"
 msgid ""
 "[CASTE_NAME:giant spider monkey:giant spider monkeys:giant spider monkey]"
 msgstr ""
-"[NAME:singe-araignée géant:singes-araignées géants:singe-araignée géant]"
+"[CASTE_NAME:singe-araignée géant:singes-araignées géants:singe-araignée "
+"géant]"
 
 #: creature_tropical_new.txt:1535
 msgctxt "CREATURE:GIANT_SPIDER_MONKEY"
@@ -39863,7 +39897,7 @@ msgstr "[SPOUSE_MALE:roi consort:rois consorts]"
 #: entity_default.txt:362
 msgctxt "ENTITY:MOUNTAIN"
 msgid "[SPOUSE_FEMALE:queen consort:queens consort]"
-msgstr "[SPOUSE_MALE:reine consort:reines consorts]"
+msgstr "[SPOUSE_FEMALE:reine consort:reines consorts]"
 
 #: entity_default.txt:395
 msgctxt "ENTITY:MOUNTAIN"
@@ -40053,7 +40087,7 @@ msgstr "[SPOUSE_MALE:baron consort:barons consorts]"
 #: entity_default.txt:742
 msgctxt "ENTITY:MOUNTAIN"
 msgid "[SPOUSE_FEMALE:baroness consort:baronesses consort]"
-msgstr "[SPOUSE_MALE:baronne consort:baronnes consorts]"
+msgstr "[SPOUSE_FEMALE:baronne consort:baronnes consorts]"
 
 #: entity_default.txt:745
 msgctxt "ENTITY:MOUNTAIN"
@@ -41699,7 +41733,7 @@ msgstr "[IS_GEM:chrysocolle:STP:]"
 #: inorganic_stone_gem.txt:135
 msgctxt "INORGANIC:SARD"
 msgid "[IS_GEM:sard:STP:]"
-msgstr "[IS_GEM:quartzSTP:]"
+msgstr "[IS_GEM:sard:STP:]"
 
 #: inorganic_stone_gem.txt:142
 msgctxt "INORGANIC:CARNELIAN"
@@ -54235,122 +54269,122 @@ msgstr ""
 #: plant_standard.txt:2278
 msgctxt "PLANT:MANGO"
 msgid "[STATE_NAME_ADJ:LIQUID:mango wine]"
-msgstr ""
+msgstr "[STATE_NAME_ADJ:LIQUID:vin de mangue]"
 
 #: plant_standard.txt:2279
 msgctxt "PLANT:MANGO"
 msgid "[STATE_NAME_ADJ:GAS:boiling mango wine]"
-msgstr ""
+msgstr "[STATE_NAME_ADJ:GAS:vapeur de vin de mangue]"
 
 #: plant_standard.txt:2290
 msgctxt "PLANT:MANGO"
 msgid "[SEED:mango pit:mango pits:]"
-msgstr ""
+msgstr "[SEED:noyau de mangue:noyaux de mangue:]"
 
 #: plant_standard.txt:2304
 msgctxt "PLANT:MANGO"
 msgid "[PREFSTRING:sweet-smelling flowers]"
-msgstr ""
+msgstr "[PREFSTRING:fleurs odorantes]"
 
 #: plant_standard.txt:2309
 msgctxt "PLANT:MANGO"
 msgid "[GROWTH_NAME:mango leaf:mango leaves]"
-msgstr ""
+msgstr "[GROWTH_NAME:feuille de manguier:feuilles de manguier]"
 
 #: plant_standard.txt:2316
 msgctxt "PLANT:MANGO"
 msgid "[GROWTH_NAME:mango flower:STP]"
-msgstr ""
+msgstr "[GROWTH_NAME:fleur de manguier:STP]"
 
 #: plant_standard.txt:2323
 msgctxt "PLANT:MANGO"
 msgid "[GROWTH_NAME:mango:STP]"
-msgstr ""
+msgstr "[GROWTH_NAME:manguier:STP]"
 
 #: plant_standard.txt:2333
 msgctxt "PLANT:RUBBER"
 msgid "[NAME:rubber tree]"
-msgstr ""
+msgstr "[NAME:hévéa]"
 
 #: plant_standard.txt:2333
 msgctxt "PLANT:RUBBER"
 msgid "[NAME_PLURAL:rubber trees]"
-msgstr ""
+msgstr "[NAME_PLURAL:hévéas]"
 
 #: plant_standard.txt:2333
 msgctxt "PLANT:RUBBER"
 msgid "[ADJ:rubber tree]"
-msgstr ""
+msgstr "[ADJ:hévéa]"
 
 #: plant_standard.txt:2337
 msgctxt "PLANT:RUBBER"
 msgid "[STATE_NAME:ALL_SOLID:rubber wood]"
-msgstr ""
+msgstr "[STATE_NAME:ALL_SOLID:bois d'hévéa]"
 
 #: plant_standard.txt:2338
 msgctxt "PLANT:RUBBER"
 msgid "[STATE_ADJ:ALL_SOLID:rubber wood]"
-msgstr ""
+msgstr "[STATE_ADJ:ALL_SOLID:bois d'hévéa]"
 
 #: plant_standard.txt:2360
 msgctxt "PLANT:RUBBER"
 msgid "[PREFSTRING:branch shedding]"
-msgstr ""
+msgstr "[PREFSTRING:perte de branche]"
 
 #: plant_standard.txt:2365
 msgctxt "PLANT:RUBBER"
 msgid "[GROWTH_NAME:rubber leaf:rubber leaves]"
-msgstr ""
+msgstr "[GROWTH_NAME:feuille d'hévéa:feuilles d'hévéa]"
 
 #: plant_standard.txt:2374
 msgctxt "PLANT:CACAO"
 msgid "[NAME:cacao tree]"
-msgstr ""
+msgstr "[NAME:cacaotier]"
 
 #: plant_standard.txt:2374
 msgctxt "PLANT:CACAO"
 msgid "[NAME_PLURAL:cacao trees]"
-msgstr ""
+msgstr "[NAME_PLURAL:cacaotiers]"
 
 #: plant_standard.txt:2374
 msgctxt "PLANT:CACAO"
 msgid "[ADJ:cacao tree]"
-msgstr ""
+msgstr "[ADJ:cacaotier]"
 
 #: plant_standard.txt:2378
 msgctxt "PLANT:CACAO"
 msgid "[STATE_NAME:ALL_SOLID:cacao wood]"
-msgstr ""
+msgstr "[STATE_NAME:ALL_SOLID:bois de cacao]"
 
 #: plant_standard.txt:2379
 msgctxt "PLANT:CACAO"
 msgid "[STATE_ADJ:ALL_SOLID:cacao wood]"
-msgstr ""
+msgstr "[STATE_ADJ:ALL_SOLID:bois de cacao]"
 
 #: plant_standard.txt:2396
 msgctxt "PLANT:CACAO"
 msgid "[SEED:cacao bean:cacao beans:]"
-msgstr ""
+msgstr "[SEED:fève de cacao:fèves de cacao]"
 
 #: plant_standard.txt:2410
 msgctxt "PLANT:CACAO"
 msgid "[PREFSTRING:flowers]"
-msgstr ""
+msgstr "[PREFSTRING:fleurs]"
 
 #: plant_standard.txt:2415
 msgctxt "PLANT:CACAO"
 msgid "[GROWTH_NAME:cacao leaf:cacao leaves]"
-msgstr ""
+msgstr "[GROWTH_NAME:feuille de cacao:feuilles de cacao]"
 
 #: plant_standard.txt:2422
 msgctxt "PLANT:CACAO"
 msgid "[GROWTH_NAME:cacao flower:STP]"
-msgstr ""
+msgstr "[GROWTH_NAME:fleur de cacao:STP]"
 
 #: plant_standard.txt:2429
 msgctxt "PLANT:CACAO"
 msgid "[GROWTH_NAME:cacao pod:STP]"
-msgstr ""
+msgstr "[GROWTH_NAME:gousse de cacao:STP]"
 
 #: plant_standard.txt:2439
 msgctxt "PLANT:PALM"
