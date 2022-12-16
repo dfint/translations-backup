@@ -3,12 +3,12 @@
 # insolor, 2022
 # Romain Lamour, 2022
 # WhiteKevi Gaming, 2022
-# J. Bat., 2022
 # Jérémi Duarte, 2022
+# J. Bat., 2022
 # 
 msgid ""
 msgstr ""
-"Last-Translator: Jérémi Duarte, 2022\n"
+"Last-Translator: J. Bat., 2022\n"
 "Language-Team: French (https://www.transifex.com/dwarf-fortress-translation/teams/22396/fr/)\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -5846,12 +5846,12 @@ msgstr ""
 #: creature_birds.txt:167
 msgctxt "CREATURE:BIRD_CARDINAL"
 msgid "[NAME:cardinal:cardinals:cardinal]"
-msgstr "[NAME:cardinal:cardinaux:cardinal]"
+msgstr "[NAME:cardinal rouge:cardinaux rouges:cardinal rouge]"
 
 #: creature_birds.txt:168
 msgctxt "CREATURE:BIRD_CARDINAL"
 msgid "[CASTE_NAME:cardinal:cardinals:cardinal]"
-msgstr "[CASTE_NAME:cardinal:cardinaux:cardinal]"
+msgstr "[CASTE_NAME:cardinal rouge:cardinaux rouges:cardinal rouge]"
 
 #: creature_birds.txt:169
 msgctxt "CREATURE:BIRD_CARDINAL"
@@ -6485,7 +6485,7 @@ msgstr "[CASTE_NAME:femme-pinguoin:femmes-pinguoins:femme-pinguoin]"
 #: creature_birds.txt:1110
 msgctxt "CREATURE:PENGUIN MAN"
 msgid "[NAME:penguin man:penguin men:penguin man]"
-msgstr "[NAME:homme pinguoin:hommes pinguoins:homme pinguoin]"
+msgstr "[NAME:homme-pingouin:hommes-pingouins:homme-pingouin]"
 
 #: creature_birds.txt:1111
 msgctxt "CREATURE:PENGUIN MAN"
@@ -15591,8 +15591,7 @@ msgstr ""
 msgctxt "CREATURE:SHARK_GREAT_WHITE"
 msgid "[GENERAL_CHILD_NAME:great white shark pup:great white shark pups]"
 msgstr ""
-"[GENERAL_CHILD_NAME:requineau grand requin blanc:requineaux grand requin "
-"blanc]"
+"[GENERAL_CHILD_NAME:jeune grand requin blanc:jeunes grand requin blanc]"
 
 #: creature_large_ocean.txt:231
 msgctxt "CREATURE:SHARK_GREAT_WHITE"
@@ -15639,7 +15638,7 @@ msgstr "[CASTE_NAME:requin-lézard:requins-lézard:requin-lézard]"
 #: creature_large_ocean.txt:302
 msgctxt "CREATURE:SHARK_FRILL"
 msgid "[GENERAL_CHILD_NAME:frill shark pup:frill shark pups]"
-msgstr "[GENERAL_CHILD_NAME:requineau-lézard:requineaux-lézard]"
+msgstr "[GENERAL_CHILD_NAME:jeune requin-lézard:jeunes requins-lézard]"
 
 #: creature_large_ocean.txt:310
 msgctxt "CREATURE:SHARK_FRILL"
@@ -15777,26 +15776,28 @@ msgstr "[TLCM_NOUN:yeux:PLURAL]"
 msgctxt "CREATURE:SHARK_WHALE"
 msgid "[DESCRIPTION:A gigantic filter-feeding fish found in tropical oceans.]"
 msgstr ""
+"[DESCRIPTION:Un gigantesque poisson filtreur que l'on trouve dans les océans"
+" tropicaux.]"
 
 #: creature_large_ocean.txt:540
 msgctxt "CREATURE:SHARK_WHALE"
 msgid "[NAME:whale shark:whale sharks:whale shark]"
-msgstr ""
+msgstr "[NAME:requin-baleine:requins-baleines:requin-baleine]"
 
 #: creature_large_ocean.txt:541
 msgctxt "CREATURE:SHARK_WHALE"
 msgid "[CASTE_NAME:whale shark:whale sharks:whale shark]"
-msgstr ""
+msgstr "[CASTE_NAME:requin-baleine:requins-baleines:requin-baleine]"
 
 #: creature_large_ocean.txt:542
 msgctxt "CREATURE:SHARK_WHALE"
 msgid "[GENERAL_CHILD_NAME:whale shark pup:whale shark pups]"
-msgstr ""
+msgstr "[GENERAL_CHILD_NAME:jeune requin-baleine:jeunes requins-baleines]"
 
 #: creature_large_ocean.txt:550
 msgctxt "CREATURE:SHARK_WHALE"
 msgid "[PREFSTRING:gentle nature]"
-msgstr ""
+msgstr "[PREFSTRING:nature douce]"
 
 #: creature_large_ocean.txt:583
 msgctxt "CREATURE:SHARK_WHALE"
@@ -15818,26 +15819,28 @@ msgctxt "CREATURE:SHARK_BASKING"
 msgid ""
 "[DESCRIPTION:A gigantic filter-feeding fish found in temperate oceans.]"
 msgstr ""
+"[DESCRIPTION:Un gigantesque poisson filtreur que l'on trouve dans les océans"
+" tempérés.]"
 
 #: creature_large_ocean.txt:610
 msgctxt "CREATURE:SHARK_BASKING"
 msgid "[NAME:basking shark:basking sharks:basking shark]"
-msgstr ""
+msgstr "[NAME:requin pèlerin:requins pèlerins:requin pèlerin]"
 
 #: creature_large_ocean.txt:611
 msgctxt "CREATURE:SHARK_BASKING"
 msgid "[CASTE_NAME:basking shark:basking sharks:basking shark]"
-msgstr ""
+msgstr "[CASTE_NAME:requin pèlerin:requins pèlerins:requin pèlerin]"
 
 #: creature_large_ocean.txt:612
 msgctxt "CREATURE:SHARK_BASKING"
 msgid "[GENERAL_CHILD_NAME:basking shark pup:basking shark pups]"
-msgstr ""
+msgstr "[GENERAL_CHILD_NAME:jeune requin pélerin:jeunes requins pélerin]"
 
 #: creature_large_ocean.txt:620
 msgctxt "CREATURE:SHARK_BASKING"
 msgid "[PREFSTRING:giant open mouths]"
-msgstr ""
+msgstr "[PREFSTRING:bouches ouvertes géantes]"
 
 #: creature_large_ocean.txt:653
 msgctxt "CREATURE:SHARK_BASKING"
@@ -15860,21 +15863,23 @@ msgid ""
 "[DESCRIPTION:A large nocturnal bottom-dwelling fish.  It is sluggish in "
 "movement and found in near-tropical shores.]"
 msgstr ""
+"[DESCRIPTION:Un grand poisson nocturne vivant sur le fond. Il a des "
+"mouvements lents et se trouve sur les côtes quasi-tropicales.]"
 
 #: creature_large_ocean.txt:680
 msgctxt "CREATURE:SHARK_NURSE"
 msgid "[NAME:nurse shark:nurse sharks:nurse shark]"
-msgstr ""
+msgstr "[NAME:requin nourrice:requins nourrices:requin nourrice]"
 
 #: creature_large_ocean.txt:681
 msgctxt "CREATURE:SHARK_NURSE"
 msgid "[CASTE_NAME:nurse shark:nurse sharks:nurse shark]"
-msgstr ""
+msgstr "[CASTE_NAME:requin nourrice:requins nourrices:requin nourrice]"
 
 #: creature_large_ocean.txt:682
 msgctxt "CREATURE:SHARK_NURSE"
 msgid "[GENERAL_CHILD_NAME:nurse shark pup:nurse shark pups]"
-msgstr ""
+msgstr "[GENERAL_CHILD_NAME:jeune requin nourrice:jeunes requins nourrices]"
 
 #: creature_large_ocean.txt:690
 msgctxt "CREATURE:SHARK_NURSE"
@@ -15907,22 +15912,24 @@ msgid ""
 "[DESCRIPTION:A large, aggressive, oceanic fish with a mouth full of pointed "
 "teeth.  It is capable of great speed.]"
 msgstr ""
+"[DESCRIPTION:Un grand poisson océanique agressif avec une bouche pleine de "
+"dents pointues. Il est capable d'une grande vitesse.]"
 
 #: creature_large_ocean.txt:759
 msgctxt "CREATURE:SHARK_MAKO_SHORTFIN"
 msgid "[NAME:shortfin mako shark:shortfin mako sharks:shortfin mako shark]"
-msgstr ""
+msgstr "[NAME:requin mako:requins makos:requin mako]"
 
 #: creature_large_ocean.txt:760
 msgctxt "CREATURE:SHARK_MAKO_SHORTFIN"
 msgid ""
 "[CASTE_NAME:shortfin mako shark:shortfin mako sharks:shortfin mako shark]"
-msgstr ""
+msgstr "[CASTE_NAME:requin mako:requins makos:requin mako]"
 
 #: creature_large_ocean.txt:761
 msgctxt "CREATURE:SHARK_MAKO_SHORTFIN"
 msgid "[GENERAL_CHILD_NAME:shortfin mako shark pup:shortfin mako shark pup]"
-msgstr ""
+msgstr "[GENERAL_CHILD_NAME:jeune requin mako:jeunes requins makos]"
 
 #: creature_large_ocean.txt:770
 msgctxt "CREATURE:SHARK_MAKO_SHORTFIN"
@@ -15955,21 +15962,25 @@ msgid ""
 "[DESCRIPTION:A large fish which scavenges along tropical and temperate "
 "coastal waters.]"
 msgstr ""
+"[DESCRIPTION:Un grand poisson qui se nourrit de déchets dans les eaux "
+"côtières tropicales et tempérées.]"
 
 #: creature_large_ocean.txt:839
 msgctxt "CREATURE:SHARK_MAKO_LONGFIN"
 msgid "[NAME:longfin mako shark:longfin mako sharks:longfin mako shark]"
-msgstr ""
+msgstr "[NAME:petit requin taupe:petits requins taupes:petit requin taupe]"
 
 #: creature_large_ocean.txt:840
 msgctxt "CREATURE:SHARK_MAKO_LONGFIN"
 msgid "[CASTE_NAME:longfin mako shark:longfin mako sharks:longfin mako shark]"
 msgstr ""
+"[CASTE_NAME:petit requin taupe:petits requins taupes:petit requin taupe]"
 
 #: creature_large_ocean.txt:841
 msgctxt "CREATURE:SHARK_MAKO_LONGFIN"
 msgid "[GENERAL_CHILD_NAME:longfin mako shark pup:longfin mako shark pup]"
 msgstr ""
+"[GENERAL_CHILD_NAME:jeune petit requin taupe:jeunes petits requins taupes]"
 
 #: creature_large_ocean.txt:850
 msgctxt "CREATURE:SHARK_MAKO_LONGFIN"
@@ -16002,21 +16013,23 @@ msgid ""
 "[DESCRIPTION:A giant, striped, oceanic fish known to devour anything in its "
 "path.]"
 msgstr ""
+"[DESCRIPTION:Un poisson océanique géant, rayé, connu pour dévorer tout ce "
+"qui se trouve sur son chemin.]"
 
 #: creature_large_ocean.txt:919
 msgctxt "CREATURE:SHARK_TIGER"
 msgid "[NAME:tiger shark:tiger sharks:tiger shark]"
-msgstr ""
+msgstr "[NAME:requin-tigre:requins-tigres:requin-tigre]"
 
 #: creature_large_ocean.txt:920
 msgctxt "CREATURE:SHARK_TIGER"
 msgid "[CASTE_NAME:tiger shark:tiger sharks:tiger shark]"
-msgstr ""
+msgstr "[CASTE_NAME:requin-tigre:requins-tigres:requin-tigre]"
 
 #: creature_large_ocean.txt:921
 msgctxt "CREATURE:SHARK_TIGER"
 msgid "[GENERAL_CHILD_NAME:tiger shark pup:tiger shark pups]"
-msgstr ""
+msgstr "[GENERAL_CHILD_NAME:jeune requin-tigre:jeunes requins-tigres]"
 
 #: creature_large_ocean.txt:929
 msgctxt "CREATURE:SHARK_TIGER"
@@ -16050,26 +16063,30 @@ msgid ""
 "in shallow oceanic waters, and has also been known to travel up large "
 "rivers.]"
 msgstr ""
+"[DESCRIPTION:Un poisson de taille moyenne, agressif et territorial. On peut "
+"le trouver dans les eaux océaniques peu profondes, et il est également connu"
+" pour remonter les grandes rivières.]"
 
 #: creature_large_ocean.txt:998
 msgctxt "CREATURE:SHARK_BULL"
 msgid "[NAME:bull shark:bull sharks:bull shark]"
-msgstr ""
+msgstr "[NAME:requin-bouledogue:requins-bouledogues:requin-bouledogue]"
 
 #: creature_large_ocean.txt:999
 msgctxt "CREATURE:SHARK_BULL"
 msgid "[CASTE_NAME:bull shark:bull sharks:bull shark]"
-msgstr ""
+msgstr "[CASTE_NAME:requin-bouledogue:requins-bouledogues:requin-bouledogue]"
 
 #: creature_large_ocean.txt:1000
 msgctxt "CREATURE:SHARK_BULL"
 msgid "[GENERAL_CHILD_NAME:bull shark pup:bull shark pups]"
 msgstr ""
+"[GENERAL_CHILD_NAME:jeune requin-bouledogue:jeunes requins-bouledogues]"
 
 #: creature_large_ocean.txt:1008
 msgctxt "CREATURE:SHARK_BULL"
 msgid "[PREFSTRING:aggressive nature]"
-msgstr ""
+msgstr "[PREFSTRING:nature agressive]"
 
 #: creature_large_ocean.txt:1041
 msgctxt "CREATURE:SHARK_BULL"
@@ -17106,22 +17123,22 @@ msgstr ""
 #: creature_large_ocean.txt:2859
 msgctxt "CREATURE:NARWHAL"
 msgid "[NAME:narwhal:narwhals:narwhal]"
-msgstr ""
+msgstr "[NAME:narval:narvals:narval]"
 
 #: creature_large_ocean.txt:2860
 msgctxt "CREATURE:NARWHAL"
 msgid "[CASTE_NAME:narwhal:narwhals:narwhal]"
-msgstr ""
+msgstr "[CASTE_NAME:narval:narvals:narval]"
 
 #: creature_large_ocean.txt:2861
 msgctxt "CREATURE:NARWHAL"
 msgid "[GENERAL_CHILD_NAME:narwhal calf:narwhal calves]"
-msgstr ""
+msgstr "[GENERAL_CHILD_NAME:jeune narval:jeunes narvals]"
 
 #: creature_large_ocean.txt:2871
 msgctxt "CREATURE:NARWHAL"
 msgid "[PREFSTRING:horns]"
-msgstr ""
+msgstr "[PREFSTRING:cornes]"
 
 #: creature_large_ocean.txt:2877
 msgctxt "CREATURE:NARWHAL"
@@ -17141,7 +17158,7 @@ msgstr "[TISSUE_NAME:ivoire:NP]"
 #: creature_large_ocean.txt:2909
 msgctxt "CREATURE:NARWHAL"
 msgid "[ATTACK_VERB:stab:stabs]"
-msgstr ""
+msgstr "[ATTACK_VERB:poignarder:poignarde]"
 
 #: creature_large_ocean.txt:2917
 msgctxt "CREATURE:NARWHAL"
@@ -17166,17 +17183,17 @@ msgstr "[TLCM_NOUN:yeux:PLURAL]"
 #: creature_large_ocean.txt:2955
 msgctxt "CREATURE:NARWHAL MAN"
 msgid "[CASTE_NAME:narwhal man:narwhal men:narwhal man]"
-msgstr ""
+msgstr "[CASTE_NAME:homme-narval:hommes-narvals:homme-narval]"
 
 #: creature_large_ocean.txt:2957
 msgctxt "CREATURE:NARWHAL MAN"
 msgid "[CASTE_NAME:narwhal woman:narwhal women:narwhal woman]"
-msgstr ""
+msgstr "[CASTE_NAME:femme-narval:femmes-narvals:femme-narval]"
 
 #: creature_large_ocean.txt:2967
 msgctxt "CREATURE:NARWHAL MAN"
 msgid "[NAME:narwhal man:narwhal men:narwhal man]"
-msgstr ""
+msgstr "[NAME:homme-narval:hommes-narvals:homme-narval]"
 
 #: creature_large_ocean.txt:2968
 msgctxt "CREATURE:NARWHAL MAN"
@@ -17184,31 +17201,34 @@ msgid ""
 "[DESCRIPTION:A medium-sized creature with the arms and torso on a man, but "
 "with the head and tail of a narwhal.]"
 msgstr ""
+"[DESCRIPTION:Une créature de taille moyenne avec les bras et le torse d'un "
+"homme, mais avec la tête et la queue d'un narval.]"
 
 #: creature_large_ocean.txt:2983
 msgctxt "CREATURE:NARWHAL, GIANT"
 msgid "[NAME:giant narwhal:giant narwhals:giant narwhal]"
-msgstr ""
+msgstr "[NAME:narval géant:narvals géants:narval géant]"
 
 #: creature_large_ocean.txt:2984
 msgctxt "CREATURE:NARWHAL, GIANT"
 msgid "[CASTE_NAME:giant narwhal:giant narwhals:giant narwhal]"
-msgstr ""
+msgstr "[CASTE_NAME:narval géant:narvals géants:narval géant]"
 
 #: creature_large_ocean.txt:2985
 msgctxt "CREATURE:NARWHAL, GIANT"
 msgid "[GENERAL_CHILD_NAME:giant narwhal calf:giant narwhal calves]"
-msgstr ""
+msgstr "[GENERAL_CHILD_NAME:jeune narval géant:jeunes narvals géants]"
 
 #: creature_large_ocean.txt:2986
 msgctxt "CREATURE:NARWHAL, GIANT"
 msgid "[DESCRIPTION:A huge sea monster with an enormous horn on its nose.]"
 msgstr ""
+"[DESCRIPTION:Un énorme monstre marin avec une énorme corne sur son nez.]"
 
 #: creature_large_ocean.txt:2994
 msgctxt "CREATURE:NARWHAL, GIANT"
 msgid "[PREFSTRING:horns]"
-msgstr ""
+msgstr "[PREFSTRING:cornes]"
 
 #: creature_large_riverlake.txt:6
 msgctxt "CREATURE:HIPPO"
@@ -17223,17 +17243,17 @@ msgstr ""
 #: creature_large_riverlake.txt:7
 msgctxt "CREATURE:HIPPO"
 msgid "[NAME:hippo:hippos:hippo]"
-msgstr ""
+msgstr "[NAME:hippopotame:hippopotames:hippopotame]"
 
 #: creature_large_riverlake.txt:8
 msgctxt "CREATURE:HIPPO"
 msgid "[CASTE_NAME:hippo:hippos:hippo]"
-msgstr ""
+msgstr "[CASTE_NAME:hippopotame:hippopotames:hippopotame]"
 
 #: creature_large_riverlake.txt:9
 msgctxt "CREATURE:HIPPO"
 msgid "[GENERAL_CHILD_NAME:hippo calf:hippo calves]"
-msgstr ""
+msgstr "[GENERAL_CHILD_NAME:jeune hippopotame:jeunes hippopotames]"
 
 #: creature_large_riverlake.txt:25
 msgctxt "CREATURE:HIPPO"
@@ -17263,7 +17283,7 @@ msgstr "[ATTACK_VERB:coup de pied:coups de pied]"
 #: creature_large_riverlake.txt:71
 msgctxt "CREATURE:HIPPO"
 msgid "[ATTACK_VERB:gore:gores]"
-msgstr ""
+msgstr "[ATTACK_VERB:encorne:encornes]"
 
 #: creature_large_riverlake.txt:93
 msgctxt "CREATURE:HIPPO"
@@ -17278,42 +17298,43 @@ msgstr "[TLCM_NOUN:yeux:PLURAL]"
 #: creature_large_riverlake.txt:103
 msgctxt "CREATURE:HIPPO_MAN"
 msgid "[CASTE_NAME:hippo man:hippo men:hippo man]"
-msgstr ""
+msgstr "[CASTE_NAME:homme-hippopotame:hommes-hippopotames:homme-hippopotame]"
 
 #: creature_large_riverlake.txt:105
 msgctxt "CREATURE:HIPPO_MAN"
 msgid "[CASTE_NAME:hippo woman:hippo women:hippo woman]"
-msgstr ""
+msgstr "[CASTE_NAME:femme-hippopotame:femmes-hippopotames:femme-hippopotame]"
 
 #: creature_large_riverlake.txt:115
 msgctxt "CREATURE:HIPPO_MAN"
 msgid "[NAME:hippo man:hippo men:hippo man]"
-msgstr ""
+msgstr "[NAME:homme-hippopotame:hommes-hippopotames:homme-hippopotame]"
 
 #: creature_large_riverlake.txt:116
 msgctxt "CREATURE:HIPPO_MAN"
 msgid "[DESCRIPTION:A large person with the head of a hippo.]"
-msgstr ""
+msgstr "[DESCRIPTION:Une grande personne avec la tête d'un hippopotame.]"
 
 #: creature_large_riverlake.txt:132
 msgctxt "CREATURE:GIANT_HIPPO"
 msgid "[NAME:giant hippo:giant hippos:giant hippo]"
-msgstr ""
+msgstr "[NAME:hippopotame géant:hippopotames géant:hippopotame géant]"
 
 #: creature_large_riverlake.txt:133
 msgctxt "CREATURE:GIANT_HIPPO"
 msgid "[CASTE_NAME:giant hippo:giant hippos:giant hippo]"
-msgstr ""
+msgstr "[CASTE_NAME:hippopotame géant:hippopotames géant:hippopotame géant]"
 
 #: creature_large_riverlake.txt:134
 msgctxt "CREATURE:GIANT_HIPPO"
 msgid "[GENERAL_CHILD_NAME:giant hippo calf:giant hippo calves]"
 msgstr ""
+"[GENERAL_CHILD_NAME:jeune hippopotame géant:jeunes hippopotames géants]"
 
 #: creature_large_riverlake.txt:135
 msgctxt "CREATURE:GIANT_HIPPO"
 msgid "[DESCRIPTION:A huge hippo-shaped monster.]"
-msgstr ""
+msgstr "[DESCRIPTION:Un énorme monstre en forme d'hippopotame.]"
 
 #: creature_large_riverlake.txt:144
 msgctxt "CREATURE:GIANT_HIPPO"
@@ -36758,22 +36779,25 @@ msgid ""
 "such as eggs or worms.  They are said to be the most intelligent of their "
 "kind.]"
 msgstr ""
+"[DESCRIPTION:Un reptile de taille moyenne. On peut les trouver en train de "
+"chercher de la nourriture comme des œufs ou des vers. On dit qu'ils sont les"
+" plus intelligents de leur espèce.]"
 
 #: creature_tropical_new.txt:455
 msgctxt "CREATURE:MONITOR_LIZARD"
 msgid "[NAME:monitor lizard:monitor lizards:monitor lizard]"
-msgstr ""
+msgstr "[NAME:varan:varans:varan]"
 
 #: creature_tropical_new.txt:456
 msgctxt "CREATURE:MONITOR_LIZARD"
 msgid "[CASTE_NAME:monitor lizard:monitor lizards:monitor lizard]"
-msgstr ""
+msgstr "[CASTE_NAME:varan:varans:varan]"
 
 #: creature_tropical_new.txt:457
 msgctxt "CREATURE:MONITOR_LIZARD"
 msgid ""
 "[GENERAL_CHILD_NAME:monitor lizard hatchling:monitor lizard hatchlings]"
-msgstr ""
+msgstr "[GENERAL_CHILD_NAME:jeune varan:jeunes varans]"
 
 #: creature_tropical_new.txt:471
 msgctxt "CREATURE:MONITOR_LIZARD"
@@ -36798,46 +36822,46 @@ msgstr "[TLCM_NOUN:yeux:PLURAL]"
 #: creature_tropical_new.txt:552
 msgctxt "CREATURE:MONITOR_LIZARD_MAN"
 msgid "[CASTE_NAME:monitor lizard man:monitor lizard men:monitor lizard man]"
-msgstr ""
+msgstr "[CASTE_NAME:homme-varan:hommes-varans:homme-varan]"
 
 #: creature_tropical_new.txt:554
 msgctxt "CREATURE:MONITOR_LIZARD_MAN"
 msgid ""
 "[CASTE_NAME:monitor lizard woman:monitor lizard women:monitor lizard woman]"
-msgstr ""
+msgstr "[CASTE_NAME:femme-varan:femmes-varans:femme-varan]"
 
 #: creature_tropical_new.txt:565
 msgctxt "CREATURE:MONITOR_LIZARD_MAN"
 msgid "[NAME:monitor lizard man:monitor lizard men:monitor lizard man]"
-msgstr ""
+msgstr "[NAME:homme-varan:hommes-varans:homme-varan]"
 
 #: creature_tropical_new.txt:566
 msgctxt "CREATURE:MONITOR_LIZARD_MAN"
 msgid "[DESCRIPTION:A person with the head and tail of a monitor lizard.]"
-msgstr ""
+msgstr "[DESCRIPTION:Une personne avec la tête et la queue d'un varan.]"
 
 #: creature_tropical_new.txt:584
 msgctxt "CREATURE:GIANT_MONITOR_LIZARD"
 msgid "[NAME:giant monitor lizard:giant monitor lizards:giant monitor lizard]"
-msgstr ""
+msgstr "[NAME:varan géant:varans géants:varan géant]"
 
 #: creature_tropical_new.txt:585
 msgctxt "CREATURE:GIANT_MONITOR_LIZARD"
 msgid ""
 "[CASTE_NAME:giant monitor lizard:giant monitor lizards:giant monitor lizard]"
-msgstr ""
+msgstr "[CASTE_NAME:varan géant:varans géants:varan géant]"
 
 #: creature_tropical_new.txt:586
 msgctxt "CREATURE:GIANT_MONITOR_LIZARD"
 msgid ""
 "[GENERAL_CHILD_NAME:giant monitor lizard hatchling:giant monitor lizard "
 "hatchlings]"
-msgstr ""
+msgstr "[GENERAL_CHILD_NAME:jeune varan géant:jeunes varans géants]"
 
 #: creature_tropical_new.txt:587
 msgctxt "CREATURE:GIANT_MONITOR_LIZARD"
 msgid "[DESCRIPTION:A huge monster in the shape of a monitor lizard.]"
-msgstr ""
+msgstr "[DESCRIPTION:Un énorme monstre en forme de varan.]"
 
 #: creature_tropical_new.txt:596
 msgctxt "CREATURE:GIANT_MONITOR_LIZARD"
@@ -41645,7 +41669,7 @@ msgstr ""
 #: inorganic_stone_gem.txt:93
 msgctxt "INORGANIC:BLOODSTONE"
 msgid "[IS_GEM:bloodstone:STP:]"
-msgstr "[IS_GEM:Héliotrope:STP:]"
+msgstr "[IS_GEM:héliotrope:STP:]"
 
 #: inorganic_stone_gem.txt:100
 msgctxt "INORGANIC:MOSS AGATE"
@@ -41675,7 +41699,7 @@ msgstr "[IS_GEM:chrysocolle:STP:]"
 #: inorganic_stone_gem.txt:135
 msgctxt "INORGANIC:SARD"
 msgid "[IS_GEM:sard:STP:]"
-msgstr "[IS_GEM:sard:STP:]"
+msgstr "[IS_GEM:quartzSTP:]"
 
 #: inorganic_stone_gem.txt:142
 msgctxt "INORGANIC:CARNELIAN"
@@ -54331,57 +54355,57 @@ msgstr ""
 #: plant_standard.txt:2439
 msgctxt "PLANT:PALM"
 msgid "[NAME:coconut palm]"
-msgstr ""
+msgstr "[NAME:cocotier]"
 
 #: plant_standard.txt:2439
 msgctxt "PLANT:PALM"
 msgid "[NAME_PLURAL:coconut palms]"
-msgstr ""
+msgstr "[NAME_PLURAL:cocotiers]"
 
 #: plant_standard.txt:2439
 msgctxt "PLANT:PALM"
 msgid "[ADJ:coconut palm]"
-msgstr ""
+msgstr "[ADJ:cocotier]"
 
 #: plant_standard.txt:2443
 msgctxt "PLANT:PALM"
 msgid "[STATE_NAME:ALL_SOLID:coconut palm]"
-msgstr ""
+msgstr "[STATE_NAME:ALL_SOLID:cocotier]"
 
 #: plant_standard.txt:2444
 msgctxt "PLANT:PALM"
 msgid "[STATE_ADJ:ALL_SOLID:coconut palm]"
-msgstr ""
+msgstr "[STATE_ADJ:ALL_SOLID:cocotier]"
 
 #: plant_standard.txt:2472
 msgctxt "PLANT:PALM"
 msgid "[PREFSTRING:leaves]"
-msgstr ""
+msgstr "[PREFSTRING:feuilles]"
 
 #: plant_standard.txt:2477
 msgctxt "PLANT:PALM"
 msgid "[GROWTH_NAME:coconut palm frond blade:coconut palm frond blades]"
-msgstr ""
+msgstr "[GROWTH_NAME:lame de palme de cocotier:lames de palme de cocotier]"
 
 #: plant_standard.txt:2485
 msgctxt "PLANT:PALM"
 msgid "[GROWTH_NAME:coconut palm spathe:STP]"
-msgstr ""
+msgstr "[GROWTH_NAME:fleur de cocotier:STP]"
 
 #: plant_standard.txt:2494
 msgctxt "PLANT:PALM"
 msgid "[GROWTH_NAME:coconut:STP]"
-msgstr ""
+msgstr "[GROWTH_NAME:noix de coco:STP]"
 
 #: reaction_adv_carpenter.txt:6
 msgctxt "REACTION:MAKE WOODEN CHAIR"
 msgid "[NAME:make wooden chair]"
-msgstr ""
+msgstr "[NAME:fabriquer une chaise en bois]"
 
 #: reaction_adv_carpenter.txt:9
 msgctxt "REACTION:MAKE WOODEN CHAIR"
 msgid "[REAGENT:log:]"
-msgstr ""
+msgstr "[REAGENT:bûche:]"
 
 #: reaction_adv_carpenter.txt:11
 msgctxt "REACTION:MAKE WOODEN CHAIR"
@@ -54391,17 +54415,17 @@ msgstr "[REAGENT:outil:]"
 #: reaction_adv_carpenter.txt:13
 msgctxt "REACTION:MAKE WOODEN CHAIR"
 msgid "[PRODUCT:100:1:CHAIR:NONE:GET_MATERIAL_FROM_REAGENT:log:]"
-msgstr ""
+msgstr "[PRODUCT:100:1:CHAIR:NONE:GET_MATERIAL_FROM_REAGENT:bûche:]"
 
 #: reaction_adv_carpenter.txt:14
 msgctxt "REACTION:MAKE WOODEN CHAIR"
 msgid "[PRODUCT_TOKEN:chair]"
-msgstr ""
+msgstr "[PRODUCT_TOKEN:chaise]"
 
 #: reaction_adv_carpenter.txt:17
 msgctxt "REACTION:MAKE WOODEN CHAIR"
 msgid "[CATEGORY_NAME:Carpentry]"
-msgstr ""
+msgstr "[CATEGORY_NAME:Menuiserie]"
 
 #: reaction_adv_carpenter.txt:18
 msgctxt "REACTION:MAKE WOODEN CHAIR"
@@ -54409,16 +54433,18 @@ msgid ""
 "[CATEGORY_DESCRIPTION:Make furniture at a carpenter's workshop using logs "
 "and a sharp tool.]"
 msgstr ""
+"[CATEGORY_DESCRIPTION:Fabriquer des meubles dans un atelier de menuiserie en"
+" utilisant des bûches et un outil tranchant]"
 
 #: reaction_adv_carpenter.txt:21
 msgctxt "REACTION:MAKE WOODEN TABLE"
 msgid "[NAME:make wooden table]"
-msgstr ""
+msgstr "[NAME:fabriquer une table en bois]"
 
 #: reaction_adv_carpenter.txt:24
 msgctxt "REACTION:MAKE WOODEN TABLE"
 msgid "[REAGENT:log:]"
-msgstr ""
+msgstr "[REAGENT:bûche:]"
 
 #: reaction_adv_carpenter.txt:26
 msgctxt "REACTION:MAKE WOODEN TABLE"
@@ -54428,22 +54454,22 @@ msgstr "[REAGENT:outil:]"
 #: reaction_adv_carpenter.txt:28
 msgctxt "REACTION:MAKE WOODEN TABLE"
 msgid "[PRODUCT:100:1:TABLE:NONE:GET_MATERIAL_FROM_REAGENT:log:]"
-msgstr ""
+msgstr "[PRODUCT:100:1:TABLE:NONE:GET_MATERIAL_FROM_REAGENT:bûche:]"
 
 #: reaction_adv_carpenter.txt:29
 msgctxt "REACTION:MAKE WOODEN TABLE"
 msgid "[PRODUCT_TOKEN:table]"
-msgstr ""
+msgstr "[PRODUCT_TOKEN:table]"
 
 #: reaction_adv_carpenter.txt:34
 msgctxt "REACTION:MAKE WOODEN BED"
 msgid "[NAME:make wooden bed]"
-msgstr ""
+msgstr "[NAME:fabriquer un lit en bois]"
 
 #: reaction_adv_carpenter.txt:37
 msgctxt "REACTION:MAKE WOODEN BED"
 msgid "[REAGENT:log:]"
-msgstr ""
+msgstr "[REAGENT:bûche:]"
 
 #: reaction_adv_carpenter.txt:39
 msgctxt "REACTION:MAKE WOODEN BED"
@@ -54453,22 +54479,22 @@ msgstr "[REAGENT:outil:]"
 #: reaction_adv_carpenter.txt:41
 msgctxt "REACTION:MAKE WOODEN BED"
 msgid "[PRODUCT:100:1:BED:NONE:GET_MATERIAL_FROM_REAGENT:log:]"
-msgstr ""
+msgstr "[PRODUCT:100:1:BED:NONE:GET_MATERIAL_FROM_REAGENT:bûche:]"
 
 #: reaction_adv_carpenter.txt:42
 msgctxt "REACTION:MAKE WOODEN BED"
 msgid "[PRODUCT_TOKEN:bed]"
-msgstr ""
+msgstr "[PRODUCT_TOKEN:lit]"
 
 #: reaction_adv_carpenter.txt:47
 msgctxt "REACTION:MAKE WOODEN CHEST"
 msgid "[NAME:make wooden chest]"
-msgstr ""
+msgstr "[NAME:fabriquer un coffre en bois]"
 
 #: reaction_adv_carpenter.txt:50
 msgctxt "REACTION:MAKE WOODEN CHEST"
 msgid "[REAGENT:log:]"
-msgstr ""
+msgstr "[REAGENT:bûche:]"
 
 #: reaction_adv_carpenter.txt:52
 msgctxt "REACTION:MAKE WOODEN CHEST"
@@ -54478,22 +54504,22 @@ msgstr "[REAGENT:outil:]"
 #: reaction_adv_carpenter.txt:54
 msgctxt "REACTION:MAKE WOODEN CHEST"
 msgid "[PRODUCT:100:1:BOX:NONE:GET_MATERIAL_FROM_REAGENT:log:]"
-msgstr ""
+msgstr "[PRODUCT:100:1:BOX:NONE:GET_MATERIAL_FROM_REAGENT:bûche:]"
 
 #: reaction_adv_carpenter.txt:55
 msgctxt "REACTION:MAKE WOODEN CHEST"
 msgid "[PRODUCT_TOKEN:chest]"
-msgstr ""
+msgstr "[PRODUCT_TOKEN:coffre]"
 
 #: reaction_adv_carpenter.txt:60
 msgctxt "REACTION:MAKE WOODEN CABINET"
 msgid "[NAME:make wooden cabinet]"
-msgstr ""
+msgstr "[NAME:fabriquer une armoire en bois]"
 
 #: reaction_adv_carpenter.txt:63
 msgctxt "REACTION:MAKE WOODEN CABINET"
 msgid "[REAGENT:log:]"
-msgstr ""
+msgstr "[REAGENT:bûche:]"
 
 #: reaction_adv_carpenter.txt:65
 msgctxt "REACTION:MAKE WOODEN CABINET"
@@ -54503,22 +54529,22 @@ msgstr "[REAGENT:outil:]"
 #: reaction_adv_carpenter.txt:67
 msgctxt "REACTION:MAKE WOODEN CABINET"
 msgid "[PRODUCT:100:1:CABINET:NONE:GET_MATERIAL_FROM_REAGENT:log:]"
-msgstr ""
+msgstr "[PRODUCT:100:1:CABINET:NONE:GET_MATERIAL_FROM_REAGENT:bûche:]"
 
 #: reaction_adv_carpenter.txt:68
 msgctxt "REACTION:MAKE WOODEN CABINET"
 msgid "[PRODUCT_TOKEN:cabinet]"
-msgstr ""
+msgstr "[PRODUCT_TOKEN:armoire]"
 
 #: reaction_adv_carpenter.txt:73
 msgctxt "REACTION:MAKE WOODEN DOOR"
 msgid "[NAME:make wooden door]"
-msgstr ""
+msgstr "[NAME:fabriquer une porte en bois]"
 
 #: reaction_adv_carpenter.txt:76
 msgctxt "REACTION:MAKE WOODEN DOOR"
 msgid "[REAGENT:log:]"
-msgstr ""
+msgstr "[REAGENT:bûche:]"
 
 #: reaction_adv_carpenter.txt:78
 msgctxt "REACTION:MAKE WOODEN DOOR"
@@ -54528,22 +54554,22 @@ msgstr "[REAGENT:outil:]"
 #: reaction_adv_carpenter.txt:80
 msgctxt "REACTION:MAKE WOODEN DOOR"
 msgid "[PRODUCT:100:1:DOOR:NONE:GET_MATERIAL_FROM_REAGENT:log:]"
-msgstr ""
+msgstr "[PRODUCT:100:1:DOOR:NONE:GET_MATERIAL_FROM_REAGENT:bûche:]"
 
 #: reaction_adv_carpenter.txt:81
 msgctxt "REACTION:MAKE WOODEN DOOR"
 msgid "[PRODUCT_TOKEN:door]"
-msgstr ""
+msgstr "[PRODUCT_TOKEN:porte]"
 
 #: reaction_adv_carpenter.txt:86
 msgctxt "REACTION:MAKE WOODEN BARREL"
 msgid "[NAME:make wooden barrel]"
-msgstr ""
+msgstr "[NAME:fabriquer un baril en bois]"
 
 #: reaction_adv_carpenter.txt:89
 msgctxt "REACTION:MAKE WOODEN BARREL"
 msgid "[REAGENT:log:]"
-msgstr ""
+msgstr "[REAGENT:bûche:]"
 
 #: reaction_adv_carpenter.txt:91
 msgctxt "REACTION:MAKE WOODEN BARREL"
@@ -54553,22 +54579,22 @@ msgstr "[REAGENT:outil:]"
 #: reaction_adv_carpenter.txt:93
 msgctxt "REACTION:MAKE WOODEN BARREL"
 msgid "[PRODUCT:100:1:BARREL:NONE:GET_MATERIAL_FROM_REAGENT:log:]"
-msgstr ""
+msgstr "[PRODUCT:100:1:BARREL:NONE:GET_MATERIAL_FROM_REAGENT:bûche:]"
 
 #: reaction_adv_carpenter.txt:94
 msgctxt "REACTION:MAKE WOODEN BARREL"
 msgid "[PRODUCT_TOKEN:barrel]"
-msgstr ""
+msgstr "[PRODUCT_TOKEN:baril]"
 
 #: reaction_adv_carpenter.txt:99
 msgctxt "REACTION:MAKE WOODEN BUCKET"
 msgid "[NAME:make wooden bucket]"
-msgstr ""
+msgstr "[NAME:fabriquer un seau en bois]"
 
 #: reaction_adv_carpenter.txt:102
 msgctxt "REACTION:MAKE WOODEN BUCKET"
 msgid "[REAGENT:log:]"
-msgstr ""
+msgstr "[REAGENT:bûche:]"
 
 #: reaction_adv_carpenter.txt:104
 msgctxt "REACTION:MAKE WOODEN BUCKET"
@@ -54578,22 +54604,22 @@ msgstr "[REAGENT:outil:]"
 #: reaction_adv_carpenter.txt:106
 msgctxt "REACTION:MAKE WOODEN BUCKET"
 msgid "[PRODUCT:100:1:BUCKET:NONE:GET_MATERIAL_FROM_REAGENT:log:]"
-msgstr ""
+msgstr "[PRODUCT:100:1:BUCKET:NONE:GET_MATERIAL_FROM_REAGENT:bûche:]"
 
 #: reaction_adv_carpenter.txt:107
 msgctxt "REACTION:MAKE WOODEN BUCKET"
 msgid "[PRODUCT_TOKEN:bucket]"
-msgstr ""
+msgstr "[PRODUCT_TOKEN:seau]"
 
 #: reaction_adv_carpenter.txt:112
 msgctxt "REACTION:MAKE WOODEN CASKET"
 msgid "[NAME:make wooden casket]"
-msgstr ""
+msgstr "[NAME:fabriquer un cercueil en bois]"
 
 #: reaction_adv_carpenter.txt:115
 msgctxt "REACTION:MAKE WOODEN CASKET"
 msgid "[REAGENT:log:]"
-msgstr ""
+msgstr "[REAGENT:bûche:]"
 
 #: reaction_adv_carpenter.txt:117
 msgctxt "REACTION:MAKE WOODEN CASKET"
@@ -54603,22 +54629,22 @@ msgstr "[REAGENT:outil:]"
 #: reaction_adv_carpenter.txt:119
 msgctxt "REACTION:MAKE WOODEN CASKET"
 msgid "[PRODUCT:100:1:COFFIN:NONE:GET_MATERIAL_FROM_REAGENT:log:]"
-msgstr ""
+msgstr "[PRODUCT:100:1:COFFIN:NONE:GET_MATERIAL_FROM_REAGENT:bûche:]"
 
 #: reaction_adv_carpenter.txt:120
 msgctxt "REACTION:MAKE WOODEN CASKET"
 msgid "[PRODUCT_TOKEN:casket]"
-msgstr ""
+msgstr "[PRODUCT_TOKEN:cercueil]"
 
 #: reaction_adv_carpenter.txt:125
 msgctxt "REACTION:MAKE WOODEN HATCH COVER"
 msgid "[NAME:make wooden hatch cover]"
-msgstr ""
+msgstr "[NAME:fabriquer une trappe en bois]"
 
 #: reaction_adv_carpenter.txt:128
 msgctxt "REACTION:MAKE WOODEN HATCH COVER"
 msgid "[REAGENT:log:]"
-msgstr ""
+msgstr "[REAGENT:bûche:]"
 
 #: reaction_adv_carpenter.txt:130
 msgctxt "REACTION:MAKE WOODEN HATCH COVER"
@@ -54628,22 +54654,22 @@ msgstr "[REAGENT:outil:]"
 #: reaction_adv_carpenter.txt:132
 msgctxt "REACTION:MAKE WOODEN HATCH COVER"
 msgid "[PRODUCT:100:1:HATCH_COVER:NONE:GET_MATERIAL_FROM_REAGENT:log:]"
-msgstr ""
+msgstr "[PRODUCT:100:1:HATCH_COVER:NONE:GET_MATERIAL_FROM_REAGENT:bûche:]"
 
 #: reaction_adv_carpenter.txt:133
 msgctxt "REACTION:MAKE WOODEN HATCH COVER"
 msgid "[PRODUCT_TOKEN:hatch cover]"
-msgstr ""
+msgstr "[PRODUCT_TOKEN:trappe]"
 
 #: reaction_adv_carpenter.txt:138
 msgctxt "REACTION:MAKE WOODEN GRATE"
 msgid "[NAME:make wooden grate]"
-msgstr ""
+msgstr "[NAME:fabriquer une grille en bois]"
 
 #: reaction_adv_carpenter.txt:141
 msgctxt "REACTION:MAKE WOODEN GRATE"
 msgid "[REAGENT:log:]"
-msgstr ""
+msgstr "[REAGENT:bûche:]"
 
 #: reaction_adv_carpenter.txt:143
 msgctxt "REACTION:MAKE WOODEN GRATE"
@@ -54653,22 +54679,22 @@ msgstr "[REAGENT:outil:]"
 #: reaction_adv_carpenter.txt:145
 msgctxt "REACTION:MAKE WOODEN GRATE"
 msgid "[PRODUCT:100:1:GRATE:NONE:GET_MATERIAL_FROM_REAGENT:log:]"
-msgstr ""
+msgstr "[PRODUCT:100:1:GRATE:NONE:GET_MATERIAL_FROM_REAGENT:bûche:]"
 
 #: reaction_adv_carpenter.txt:146
 msgctxt "REACTION:MAKE WOODEN GRATE"
 msgid "[PRODUCT_TOKEN:grate]"
-msgstr ""
+msgstr "[PRODUCT_TOKEN:grille]"
 
 #: reaction_adv_carpenter.txt:151
 msgctxt "REACTION:MAKE WOODEN BIN"
 msgid "[NAME:make wooden bin]"
-msgstr ""
+msgstr "[NAME:fabriquer un bac en bois]"
 
 #: reaction_adv_carpenter.txt:154
 msgctxt "REACTION:MAKE WOODEN BIN"
 msgid "[REAGENT:log:]"
-msgstr ""
+msgstr "[REAGENT:bûche:]"
 
 #: reaction_adv_carpenter.txt:156
 msgctxt "REACTION:MAKE WOODEN BIN"
@@ -54678,22 +54704,22 @@ msgstr "[REAGENT:outil:]"
 #: reaction_adv_carpenter.txt:158
 msgctxt "REACTION:MAKE WOODEN BIN"
 msgid "[PRODUCT:100:1:BIN:NONE:GET_MATERIAL_FROM_REAGENT:log:]"
-msgstr ""
+msgstr "[PRODUCT:100:1:BIN:NONE:GET_MATERIAL_FROM_REAGENT:bûche:]"
 
 #: reaction_adv_carpenter.txt:159
 msgctxt "REACTION:MAKE WOODEN BIN"
 msgid "[PRODUCT_TOKEN:bin]"
-msgstr ""
+msgstr "[PRODUCT_TOKEN:bac]"
 
 #: reaction_adv_carpenter.txt:164
 msgctxt "REACTION:MAKE WOODEN STEPLADDER"
 msgid "[NAME:make wooden stepladder]"
-msgstr ""
+msgstr "[NAME:fabriquer un escabeau en bois]"
 
 #: reaction_adv_carpenter.txt:167
 msgctxt "REACTION:MAKE WOODEN STEPLADDER"
 msgid "[REAGENT:log:]"
-msgstr ""
+msgstr "[REAGENT:bûche:]"
 
 #: reaction_adv_carpenter.txt:169
 msgctxt "REACTION:MAKE WOODEN STEPLADDER"
@@ -54705,21 +54731,22 @@ msgctxt "REACTION:MAKE WOODEN STEPLADDER"
 msgid ""
 "[PRODUCT:100:1:TOOL:ITEM_TOOL_STEPLADDER:GET_MATERIAL_FROM_REAGENT:log:]"
 msgstr ""
+"[PRODUCT:100:1:TOOL:ITEM_TOOL_STEPLADDER:GET_MATERIAL_FROM_REAGENT:bûche:]"
 
 #: reaction_adv_carpenter.txt:172
 msgctxt "REACTION:MAKE WOODEN STEPLADDER"
 msgid "[PRODUCT_TOKEN:stepladder]"
-msgstr ""
+msgstr "[PRODUCT_TOKEN:escabeau]"
 
 #: reaction_adv_carpenter.txt:177
 msgctxt "REACTION:MAKE WOODEN BOOKCASE"
 msgid "[NAME:make wooden bookcase]"
-msgstr ""
+msgstr "[NAME:fabriquer une bibliothèque en bois]"
 
 #: reaction_adv_carpenter.txt:180
 msgctxt "REACTION:MAKE WOODEN BOOKCASE"
 msgid "[REAGENT:log:]"
-msgstr ""
+msgstr "[REAGENT:bûche:]"
 
 #: reaction_adv_carpenter.txt:182
 msgctxt "REACTION:MAKE WOODEN BOOKCASE"
@@ -54730,21 +54757,22 @@ msgstr "[REAGENT:outil:]"
 msgctxt "REACTION:MAKE WOODEN BOOKCASE"
 msgid "[PRODUCT:100:1:TOOL:ITEM_TOOL_BOOKCASE:GET_MATERIAL_FROM_REAGENT:log:]"
 msgstr ""
+"[PRODUCT:100:1:TOOL:ITEM_TOOL_BOOKCASE:GET_MATERIAL_FROM_REAGENT:bûche:]"
 
 #: reaction_adv_carpenter.txt:185
 msgctxt "REACTION:MAKE WOODEN BOOKCASE"
 msgid "[PRODUCT_TOKEN:bookcase]"
-msgstr ""
+msgstr "[PRODUCT_TOKEN:bibliothèque]"
 
 #: reaction_adv_carpenter.txt:190
 msgctxt "REACTION:MAKE WOODEN SPLINT"
 msgid "[NAME:make wooden splint]"
-msgstr ""
+msgstr "[NAME:fabriquer une attelle en bois]"
 
 #: reaction_adv_carpenter.txt:193
 msgctxt "REACTION:MAKE WOODEN SPLINT"
 msgid "[REAGENT:log:]"
-msgstr ""
+msgstr "[REAGENT:bûche:]"
 
 #: reaction_adv_carpenter.txt:195
 msgctxt "REACTION:MAKE WOODEN SPLINT"
@@ -54754,22 +54782,22 @@ msgstr "[REAGENT:outil:]"
 #: reaction_adv_carpenter.txt:197
 msgctxt "REACTION:MAKE WOODEN SPLINT"
 msgid "[PRODUCT:100:1:SPLINT:NONE:GET_MATERIAL_FROM_REAGENT:log:]"
-msgstr ""
+msgstr "[PRODUCT:100:1:SPLINT:NONE:GET_MATERIAL_FROM_REAGENT:bûche:]"
 
 #: reaction_adv_carpenter.txt:198
 msgctxt "REACTION:MAKE WOODEN SPLINT"
 msgid "[PRODUCT_TOKEN:splint]"
-msgstr ""
+msgstr "[PRODUCT_TOKEN:attelle]"
 
 #: reaction_adv_carpenter.txt:203
 msgctxt "REACTION:MAKE WOODEN CRUTCH"
 msgid "[NAME:make wooden crutch]"
-msgstr ""
+msgstr "[NAME:fabriquer une béquille en bois]"
 
 #: reaction_adv_carpenter.txt:206
 msgctxt "REACTION:MAKE WOODEN CRUTCH"
 msgid "[REAGENT:log:]"
-msgstr ""
+msgstr "[REAGENT:bûche:]"
 
 #: reaction_adv_carpenter.txt:208
 msgctxt "REACTION:MAKE WOODEN CRUTCH"
@@ -54779,22 +54807,22 @@ msgstr "[REAGENT:outil:]"
 #: reaction_adv_carpenter.txt:210
 msgctxt "REACTION:MAKE WOODEN CRUTCH"
 msgid "[PRODUCT:100:1:CRUTCH:NONE:GET_MATERIAL_FROM_REAGENT:log:]"
-msgstr ""
+msgstr "[PRODUCT:100:1:CRUTCH:NONE:GET_MATERIAL_FROM_REAGENT:bûche:]"
 
 #: reaction_adv_carpenter.txt:211
 msgctxt "REACTION:MAKE WOODEN CRUTCH"
 msgid "[PRODUCT_TOKEN:crutch]"
-msgstr ""
+msgstr "[PRODUCT_TOKEN:béquille]"
 
 #: reaction_adv_carpenter.txt:216
 msgctxt "REACTION:MAKE WOODEN SHIELD"
 msgid "[NAME:make wooden shield]"
-msgstr ""
+msgstr "[NAME:fabriquer un bouclier en bois]"
 
 #: reaction_adv_carpenter.txt:219
 msgctxt "REACTION:MAKE WOODEN SHIELD"
 msgid "[REAGENT:log:]"
-msgstr ""
+msgstr "[REAGENT:bûche:]"
 
 #: reaction_adv_carpenter.txt:221
 msgctxt "REACTION:MAKE WOODEN SHIELD"
@@ -54806,21 +54834,22 @@ msgctxt "REACTION:MAKE WOODEN SHIELD"
 msgid ""
 "[PRODUCT:100:1:SHIELD:ITEM_SHIELD_SHIELD:GET_MATERIAL_FROM_REAGENT:log:]"
 msgstr ""
+"[PRODUCT:100:1:SHIELD:ITEM_SHIELD_SHIELD:GET_MATERIAL_FROM_REAGENT:bûche:]"
 
 #: reaction_adv_carpenter.txt:224
 msgctxt "REACTION:MAKE WOODEN SHIELD"
 msgid "[PRODUCT_TOKEN:shield]"
-msgstr ""
+msgstr "[PRODUCT_TOKEN:bouclier]"
 
 #: reaction_adv_carpenter.txt:229
 msgctxt "REACTION:MAKE WOODEN BUCKLER"
 msgid "[NAME:make wooden buckler]"
-msgstr ""
+msgstr "[NAME:fabriquer un petit bouclier en bois]"
 
 #: reaction_adv_carpenter.txt:232
 msgctxt "REACTION:MAKE WOODEN BUCKLER"
 msgid "[REAGENT:log:]"
-msgstr ""
+msgstr "[REAGENT:bûche:]"
 
 #: reaction_adv_carpenter.txt:234
 msgctxt "REACTION:MAKE WOODEN BUCKLER"
@@ -54832,21 +54861,22 @@ msgctxt "REACTION:MAKE WOODEN BUCKLER"
 msgid ""
 "[PRODUCT:100:1:SHIELD:ITEM_SHIELD_BUCKLER:GET_MATERIAL_FROM_REAGENT:log:]"
 msgstr ""
+"[PRODUCT:100:1:SHIELD:ITEM_SHIELD_BUCKLER:GET_MATERIAL_FROM_REAGENT:bûche:]"
 
 #: reaction_adv_carpenter.txt:237
 msgctxt "REACTION:MAKE WOODEN BUCKLER"
 msgid "[PRODUCT_TOKEN:buckler]"
-msgstr ""
+msgstr "[PRODUCT_TOKEN:petit bouclier]"
 
 #: reaction_adv_carpenter.txt:242
 msgctxt "REACTION:MAKE WOODEN TRAINING AXE"
 msgid "[NAME:make wooden training axe]"
-msgstr ""
+msgstr "[NAME:fabriquer une hache d'entraînement en bois]"
 
 #: reaction_adv_carpenter.txt:245
 msgctxt "REACTION:MAKE WOODEN TRAINING AXE"
 msgid "[REAGENT:log:]"
-msgstr ""
+msgstr "[REAGENT:bûche:]"
 
 #: reaction_adv_carpenter.txt:247
 msgctxt "REACTION:MAKE WOODEN TRAINING AXE"
@@ -54858,21 +54888,22 @@ msgctxt "REACTION:MAKE WOODEN TRAINING AXE"
 msgid ""
 "[PRODUCT:100:1:WEAPON:ITEM_WEAPON_AXE_TRAINING:GET_MATERIAL_FROM_REAGENT:log:]"
 msgstr ""
+"[PRODUCT:100:1:WEAPON:ITEM_WEAPON_AXE_TRAINING:GET_MATERIAL_FROM_REAGENT:bûche:]"
 
 #: reaction_adv_carpenter.txt:250
 msgctxt "REACTION:MAKE WOODEN TRAINING AXE"
 msgid "[PRODUCT_TOKEN:axe]"
-msgstr ""
+msgstr "[PRODUCT_TOKEN:hache]"
 
 #: reaction_adv_carpenter.txt:255
 msgctxt "REACTION:MAKE WOODEN TRAINING SHORT SWORD"
 msgid "[NAME:make wooden training short sword]"
-msgstr ""
+msgstr "[NAME:fabriquer une épée courte d'entraînement en bois]"
 
 #: reaction_adv_carpenter.txt:258
 msgctxt "REACTION:MAKE WOODEN TRAINING SHORT SWORD"
 msgid "[REAGENT:log:]"
-msgstr ""
+msgstr "[REAGENT:bûche:]"
 
 #: reaction_adv_carpenter.txt:260
 msgctxt "REACTION:MAKE WOODEN TRAINING SHORT SWORD"
@@ -54884,6 +54915,7 @@ msgctxt "REACTION:MAKE WOODEN TRAINING SHORT SWORD"
 msgid ""
 "[PRODUCT:100:1:WEAPON:ITEM_WEAPON_SWORD_SHORT_TRAINING:GET_MATERIAL_FROM_REAGENT:log:]"
 msgstr ""
+"[PRODUCT:100:1:WEAPON:ITEM_WEAPON_SWORD_SHORT_TRAINING:GET_MATERIAL_FROM_REAGENT:bûche:]"
 
 #: reaction_adv_carpenter.txt:263
 msgctxt "REACTION:MAKE WOODEN TRAINING SHORT SWORD"
@@ -55848,17 +55880,17 @@ msgstr "[REAGENT:outil:]"
 #: reaction_other.txt:520
 msgctxt "REACTION:CARVE_BONE_CROWN"
 msgid "[PRODUCT:100:1:CROWN:NONE:GET_MATERIAL_FROM_REAGENT:bone:]"
-msgstr ""
+msgstr "[PRODUCT:100:1:CROWN:NONE:GET_MATERIAL_FROM_REAGENT:os:]"
 
 #: reaction_other.txt:521
 msgctxt "REACTION:CARVE_BONE_CROWN"
 msgid "[PRODUCT_TOKEN:crown]"
-msgstr ""
+msgstr "[PRODUCT_TOKEN:couronne]"
 
 #: reaction_other.txt:526
 msgctxt "REACTION:CARVE_BONE_GEM"
 msgid "[NAME:carve bone cabochon]"
-msgstr ""
+msgstr "[NAME:sculpter un cabochon en os]"
 
 #: reaction_other.txt:528
 msgctxt "REACTION:CARVE_BONE_GEM"
@@ -55873,22 +55905,22 @@ msgstr "[REAGENT:outil:]"
 #: reaction_other.txt:532
 msgctxt "REACTION:CARVE_BONE_GEM"
 msgid "[PRODUCT:100:1:GEM:NONE:GET_MATERIAL_FROM_REAGENT:bone:]"
-msgstr ""
+msgstr "[PRODUCT:100:1:GEM:NONE:GET_MATERIAL_FROM_REAGENT:os:]"
 
 #: reaction_other.txt:533
 msgctxt "REACTION:CARVE_BONE_GEM"
 msgid "[PRODUCT_TOKEN:gem]"
-msgstr ""
+msgstr "[PRODUCT_TOKEN:gemme]"
 
 #: reaction_other.txt:538
 msgctxt "REACTION:CARVE_WOODEN_HELVE"
 msgid "[NAME:carve wooden helve from branch]"
-msgstr ""
+msgstr "[NAME:sculpter un manche en bois dans une branche]"
 
 #: reaction_other.txt:540
 msgctxt "REACTION:CARVE_WOODEN_HELVE"
 msgid "[REAGENT:branch:]"
-msgstr ""
+msgstr "[REAGENT:branche:]"
 
 #: reaction_other.txt:542
 msgctxt "REACTION:CARVE_WOODEN_HELVE"
@@ -55899,58 +55931,61 @@ msgstr "[REAGENT:outil:]"
 msgctxt "REACTION:CARVE_WOODEN_HELVE"
 msgid "[PRODUCT:100:1:TOOL:ITEM_TOOL_HELVE:GET_MATERIAL_FROM_REAGENT:branch:]"
 msgstr ""
+"[PRODUCT:100:1:TOOL:ITEM_TOOL_HELVE:GET_MATERIAL_FROM_REAGENT:branche:]"
 
 #: reaction_other.txt:545
 msgctxt "REACTION:CARVE_WOODEN_HELVE"
 msgid "[PRODUCT_TOKEN:helve]"
-msgstr ""
+msgstr "[PRODUCT_TOKEN:manche]"
 
 #: reaction_other.txt:549
 msgctxt "REACTION:ASSEMBLE STONE AXE"
 msgid "[NAME:assemble stone axe]"
-msgstr ""
+msgstr "[NAME:assembler une hache en pierre]"
 
 #: reaction_other.txt:551
 msgctxt "REACTION:ASSEMBLE STONE AXE"
 msgid "[REAGENT:helve:]"
-msgstr ""
+msgstr "[REAGENT:manche:]"
 
 #: reaction_other.txt:552
 msgctxt "REACTION:ASSEMBLE STONE AXE"
 msgid "[REAGENT:stone:]"
-msgstr ""
+msgstr "[REAGENT:pierre:]"
 
 #: reaction_other.txt:554
 msgctxt "REACTION:ASSEMBLE STONE AXE"
 msgid ""
 "[PRODUCT:100:1:TOOL:ITEM_TOOL_STONE_AXE:GET_MATERIAL_FROM_REAGENT:stone:]"
 msgstr ""
+"[PRODUCT:100:1:TOOL:ITEM_TOOL_STONE_AXE:GET_MATERIAL_FROM_REAGENT:pierre:]"
 
 #: reaction_other.txt:555
 msgctxt "REACTION:ASSEMBLE STONE AXE"
 msgid "[PRODUCT_TOKEN:axe]"
-msgstr ""
+msgstr "[PRODUCT_TOKEN:hache]"
 
 #: reaction_other.txt:558
 msgctxt "REACTION:MAKE WOODEN DISPLAY CASE"
 msgid "[NAME:make display case]"
-msgstr ""
+msgstr "[NAME:faire une vitrine]"
 
 #: reaction_other.txt:560
 msgctxt "REACTION:MAKE WOODEN DISPLAY CASE"
 msgid "[REAGENT:log:]"
-msgstr ""
+msgstr "[REAGENT:bûche:]"
 
 #: reaction_other.txt:562
 msgctxt "REACTION:MAKE WOODEN DISPLAY CASE"
 msgid "[REAGENT:window:]"
-msgstr ""
+msgstr "[REAGENT:vitre]"
 
 #: reaction_other.txt:563
 msgctxt "REACTION:MAKE WOODEN DISPLAY CASE"
 msgid ""
 "[PRODUCT:100:1:TOOL:ITEM_TOOL_DISPLAY_CASE:GET_MATERIAL_FROM_REAGENT:log:]"
 msgstr ""
+"[PRODUCT:100:1:TOOL:ITEM_TOOL_PEDESTAL:GET_MATERIAL_FROM_REAGENT:bûche:]"
 
 #: reaction_smelter.txt:6
 msgctxt "REACTION:BITUMINOUS_COAL_TO_COKE"
