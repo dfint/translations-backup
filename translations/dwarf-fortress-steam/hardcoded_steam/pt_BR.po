@@ -31,24 +31,26 @@
 # Márcio Luiz, 2022
 # Artur Melo, 2022
 # Alexandre Hernandes, 2022
-# John Gerber, 2022
 # mn3, 2022
 # Thiago Souza (BrilhoCaotico), 2022
 # Brenner @Reubertt, 2022
 # lu66cas, 2022
 # Lucas Gomes, 2022
 # Felipe Malta, 2022
-# Rafael Porto, 2022
-# Bruno Santos, 2022
 # Zhude DDR, 2022
 # Patinho <jv0888854@gmail.com>, 2022
 # Legado Pokémon, 2022
 # Lucas Pinheiro, 2022
 # Isabela Velasquez, 2022
-# Shig, 2022
 # leonardo bajerski, 2022
 # Gabriel Dias, 2022
 # Bruno Fernandes, 2022
+# Elias Marques, 2022
+# Jhonatas Gioto, 2022
+# John Gerber, 2022
+# Rafael Porto, 2022
+# Bruno Santos, 2022
+# Shig, 2022
 # Rodrigo Puerare, 2022
 # 
 msgid ""
@@ -486,7 +488,7 @@ msgstr "Você"
 
 #: stringdump_steam_2022_12_06.txt:159
 msgid "is"
-msgstr "está"
+msgstr "é"
 
 #: stringdump_steam_2022_12_06.txt:160
 msgid "are"
@@ -498,7 +500,7 @@ msgstr "começa"
 
 #: stringdump_steam_2022_12_06.txt:162
 msgid "begin"
-msgstr "início"
+msgstr "começa"
 
 #: stringdump_steam_2022_12_06.txt:163
 msgid " playing with "
@@ -574,7 +576,7 @@ msgstr "A história continua"
 
 #: stringdump_steam_2022_12_06.txt:181
 msgid "the "
-msgstr "o"
+msgstr "o(a)"
 
 #: stringdump_steam_2022_12_06.txt:182
 msgid "The poetry enters"
@@ -774,7 +776,7 @@ msgstr "deitar"
 
 #: stringdump_steam_2022_12_06.txt:231
 msgid "'s"
-msgstr "​"
+msgstr "​de"
 
 #: stringdump_steam_2022_12_06.txt:232
 msgid " forth an awe-inspiring sermon for the ages!"
@@ -782,7 +784,7 @@ msgstr "adiante um sermão inspirador para todos os tempos!"
 
 #: stringdump_steam_2022_12_06.txt:233
 msgid "s"
-msgstr "​"
+msgstr "s"
 
 #: stringdump_steam_2022_12_06.txt:234
 msgid " a lucid and powerful sermon."
@@ -886,7 +888,7 @@ msgstr "instrumento"
 
 #: stringdump_steam_2022_12_06.txt:259
 msgid " and the "
-msgstr "e o"
+msgstr "e o(a)"
 
 #: stringdump_steam_2022_12_06.txt:260
 msgid " delivering a virtuoso performance on the "
@@ -1222,7 +1224,7 @@ msgstr "parte principal"
 
 #: stringdump_steam_2022_12_06.txt:343
 msgid "'s "
-msgstr "​ "
+msgstr "​ de"
 
 #: stringdump_steam_2022_12_06.txt:344
 msgid "passing through a hole in the "
@@ -2219,7 +2221,7 @@ msgstr "A expulsão"
 
 #: stringdump_steam_2022_12_06.txt:606
 msgid "Somebody"
-msgstr "Somebody"
+msgstr "Alguém"
 
 #: stringdump_steam_2022_12_06.txt:607
 msgid "Creator of "
@@ -12489,7 +12491,7 @@ msgstr "Finalizando as variaçoes da criatura..."
 
 #: stringdump_steam_2022_12_06.txt:2959
 msgid "Finalizing body detail plans..."
-msgstr "Finalizando planos de detalhe do corpo..."
+msgstr "Finalizando planos do corpo..."
 
 #: stringdump_steam_2022_12_06.txt:2960
 msgid "Finalizing buildings..."
@@ -39429,10 +39431,13 @@ msgid ""
 " : Numbered body parts cannot have children -- number set to 1 (make "
 "individual parts if possible)"
 msgstr ""
+": Partes numeradas não podem ter dependências - número ajustado pra 1 (faça "
+"partes individuais se possível)"
 
 #: stringdump_steam_2022_12_06.txt:9735
 msgid " : Special attack material missing state -- set to liquid"
 msgstr ""
+"Estado faltando para material de ataque especial - Defeinir para líquido"
 
 #: stringdump_steam_2022_12_06.txt:9736
 msgid ": Tissue "
@@ -39596,21 +39601,23 @@ msgstr "Não Foi Usado"
 
 #: stringdump_steam_2022_12_06.txt:9848
 msgid " BP Remove Type "
-msgstr ""
+msgstr "PC Remove Tipo"
 
 #: stringdump_steam_2022_12_06.txt:9850
 msgid " BP Add Type "
-msgstr ""
+msgstr "PC Adiciona Tipo"
 
 #: stringdump_steam_2022_12_06.txt:9854
 msgid " BP Mod "
-msgstr ""
+msgstr "PC Modificador"
 
 #: stringdump_steam_2022_12_06.txt:9900
 msgid ""
 "Gastroliths seem to have correct format but could not find proper BPs in any"
 " caste, so not added"
 msgstr ""
+"Os gastrólitos parecem ter o formato correto mas não encontraram uma parte "
+"do corpo adequada em nenhuma classe, então não foram adicionados"
 
 #: stringdump_steam_2022_12_06.txt:9913
 msgid "Attack "
@@ -39621,6 +39628,8 @@ msgid ""
 " seems to have correct format but could not find proper BPs in any caste, so"
 " not added"
 msgstr ""
+"parecem ter o formato correto mas não encontraram uma parte do corpo "
+"adequado em nenhuma classe, então não foram adicionadas"
 
 #: stringdump_steam_2022_12_06.txt:9989
 msgid "remains"
@@ -39653,6 +39662,8 @@ msgstr "Limite de percentagem de atributo menor que 100, definido para 100"
 #: stringdump_steam_2022_12_06.txt:10136
 msgid "Tissue layer not added because no BP found: "
 msgstr ""
+"Camada de tecido não foi adicionada porque nenhuma parte do corpo foi "
+"encontrada."
 
 #: stringdump_steam_2022_12_06.txt:10140
 msgid "Body detail plan not found:"
@@ -42515,11 +42526,11 @@ msgstr "tem um muito amplo"
 
 #: stringdump_steam_2022_12_06.txt:10947
 msgid "recessed-chin"
-msgstr ""
+msgstr "queixo retraído"
 
 #: stringdump_steam_2022_12_06.txt:10948
 msgid "jutting-chin"
-msgstr ""
+msgstr "queixo saliente"
 
 #: stringdump_steam_2022_12_06.txt:10949
 msgid "round-chin"
@@ -42531,7 +42542,7 @@ msgstr "queixo massiço"
 
 #: stringdump_steam_2022_12_06.txt:10951
 msgid "narrow-chin"
-msgstr ""
+msgstr "queixo estreito"
 
 #: stringdump_steam_2022_12_06.txt:10952
 msgid "prominent-chin"
@@ -42539,7 +42550,7 @@ msgstr "queixo proeminente"
 
 #: stringdump_steam_2022_12_06.txt:10953
 msgid "broad-chin"
-msgstr ""
+msgstr "queixo largo"
 
 #: stringdump_steam_2022_12_06.txt:10954
 msgid "very small "
@@ -42595,7 +42606,7 @@ msgstr "grande"
 
 #: stringdump_steam_2022_12_06.txt:10967
 msgid "lanky"
-msgstr ""
+msgstr "esguio"
 
 #: stringdump_steam_2022_12_06.txt:10968
 msgid "skinny"
@@ -42611,23 +42622,23 @@ msgstr "agachamento"
 
 #: stringdump_steam_2022_12_06.txt:10971
 msgid "scrawny"
-msgstr ""
+msgstr "magricelo"
 
 #: stringdump_steam_2022_12_06.txt:10972
 msgid "stout"
-msgstr ""
+msgstr "robusto"
 
 #: stringdump_steam_2022_12_06.txt:10973
 msgid "towering"
-msgstr ""
+msgstr "muito alto"
 
 #: stringdump_steam_2022_12_06.txt:10974
 msgid "average"
-msgstr ""
+msgstr "mediano"
 
 #: stringdump_steam_2022_12_06.txt:10975
 msgid "splayed"
-msgstr ""
+msgstr "espalhado"
 
 #: stringdump_steam_2022_12_06.txt:10976
 msgid "small"
@@ -42639,11 +42650,11 @@ msgstr "minúsculo(a)"
 
 #: stringdump_steam_2022_12_06.txt:10978
 msgid "squeaky-voiced"
-msgstr ""
+msgstr "tem a voz estridente"
 
 #: stringdump_steam_2022_12_06.txt:10979
 msgid "scratchy-voiced"
-msgstr ""
+msgstr "tem a voz áspera"
 
 #: stringdump_steam_2022_12_06.txt:10980
 msgid "guttural-voiced"
@@ -42655,23 +42666,23 @@ msgstr "sonoramente estridente"
 
 #: stringdump_steam_2022_12_06.txt:10982
 msgid "low-cheekbones"
-msgstr ""
+msgstr "maçãs do rosto baixas"
 
 #: stringdump_steam_2022_12_06.txt:10983
 msgid "square-chin"
-msgstr ""
+msgstr "queixo quadrado"
 
 #: stringdump_steam_2022_12_06.txt:10984
 msgid "low-voiced"
-msgstr ""
+msgstr "tem a voz grave"
 
 #: stringdump_steam_2022_12_06.txt:10985
 msgid "high-cheekbones"
-msgstr ""
+msgstr "maçãs do rosto altas"
 
 #: stringdump_steam_2022_12_06.txt:11021
 msgid ": number capped at 32"
-msgstr ""
+msgstr ": número máximo 32"
 
 #: stringdump_steam_2022_12_06.txt:12233
 msgid "South"
@@ -42771,7 +42782,7 @@ msgstr "Comandante da Masmorra"
 
 #: stringdump_steam_2022_12_06.txt:12289
 msgid "Marauder Mill"
-msgstr ""
+msgstr "Moinho do Saqueador"
 
 #: stringdump_steam_2022_12_06.txt:12290
 msgid "Ambush Patrol"
@@ -42779,11 +42790,11 @@ msgstr "Patrulha de Emboscada"
 
 #: stringdump_steam_2022_12_06.txt:12291
 msgid "Sieger Mill"
-msgstr ""
+msgstr "Moinho do Sitiante"
 
 #: stringdump_steam_2022_12_06.txt:12292
 msgid "Sieger Basepoint"
-msgstr ""
+msgstr "Base do Sitiante"
 
 #: stringdump_steam_2022_12_06.txt:12293
 msgid "Pattern Patrol"
@@ -42799,7 +42810,7 @@ msgstr "Alvo de roubo curioso do deserto"
 
 #: stringdump_steam_2022_12_06.txt:12296
 msgid "Wilderness Curious Wander"
-msgstr ""
+msgstr "Andarilho Curioso do Sertão"
 
 #: stringdump_steam_2022_12_06.txt:12297
 msgid "Chained Animal"
@@ -42823,7 +42834,7 @@ msgstr "Comandante de Busca"
 
 #: stringdump_steam_2022_12_06.txt:12302
 msgid "Vermin Hunting"
-msgstr ""
+msgstr "Caça às pragas"
 
 #: stringdump_steam_2022_12_06.txt:12303
 msgid "Meeting Location Building"
@@ -42839,11 +42850,11 @@ msgstr "Mover para:"
 
 #: stringdump_steam_2022_12_06.txt:12306
 msgid "Mill Building"
-msgstr ""
+msgstr "Construção de Moinho"
 
 #: stringdump_steam_2022_12_06.txt:12307
 msgid "Mill Anywhere"
-msgstr ""
+msgstr "Moa em qualquer lugar"
 
 #: stringdump_steam_2022_12_06.txt:12308
 msgid "Return to Base"
@@ -42851,7 +42862,7 @@ msgstr "Retornar à Base"
 
 #: stringdump_steam_2022_12_06.txt:12309
 msgid "Milling Burrow"
-msgstr ""
+msgstr "Toca de Moagem"
 
 #: stringdump_steam_2022_12_06.txt:12310
 msgid "Milling Flood"
@@ -43203,7 +43214,7 @@ msgstr "Ataque de carga"
 
 #: stringdump_steam_2022_12_06.txt:12397
 msgid "Flee Terrain"
-msgstr ""
+msgstr "Fugir do Terreno"
 
 #: stringdump_steam_2022_12_06.txt:12398
 msgid "Leave Wall"
@@ -43387,7 +43398,7 @@ msgstr "Gabinete de interrogatório"
 
 #: stringdump_steam_2022_12_06.txt:12443
 msgid "Go to Interrogation Target"
-msgstr ""
+msgstr "Indo Interrogar o alvo"
 
 #: stringdump_steam_2022_12_06.txt:12444
 msgid "Go to Beating Target"
@@ -47067,7 +47078,7 @@ msgstr "Habilidade 7"
 
 #: stringdump_steam_2022_12_06.txt:14012
 msgid "catatonic"
-msgstr ""
+msgstr "catatônico"
 
 #: stringdump_steam_2022_12_06.txt:14037
 msgid "Random Buffer Overload"
@@ -47091,11 +47102,11 @@ msgstr "barulhento(a)"
 
 #: stringdump_steam_2022_12_06.txt:14063
 msgid "bright"
-msgstr ""
+msgstr "brilhante"
 
 #: stringdump_steam_2022_12_06.txt:14064
 msgid "evolving"
-msgstr ""
+msgstr "evoluindo"
 
 #: stringdump_steam_2022_12_06.txt:14065
 msgid "steady"
@@ -47107,7 +47118,7 @@ msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:14067
 msgid "focused"
-msgstr ""
+msgstr "focado"
 
 #: stringdump_steam_2022_12_06.txt:14068
 msgid "wobbling"
@@ -47119,7 +47130,7 @@ msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:14070
 msgid "breathy"
-msgstr ""
+msgstr "ofegante"
 
 #: stringdump_steam_2022_12_06.txt:14091
 msgid "rippling"
@@ -47151,7 +47162,7 @@ msgstr "trêmulo"
 
 #: stringdump_steam_2022_12_06.txt:14125
 msgid "vibrating"
-msgstr ""
+msgstr "vibrando"
 
 #: stringdump_steam_2022_12_06.txt:14126
 msgid "even"
@@ -47159,7 +47170,7 @@ msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:14127
 msgid "piercing"
-msgstr ""
+msgstr "perfurando"
 
 #: stringdump_steam_2022_12_06.txt:14128
 msgid "pure"
@@ -47171,7 +47182,7 @@ msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:14130
 msgid "fragile"
-msgstr ""
+msgstr "frágil"
 
 #: stringdump_steam_2022_12_06.txt:14131
 msgid "reedy"
@@ -47231,11 +47242,11 @@ msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:14145
 msgid "gentle"
-msgstr ""
+msgstr "gentil "
 
 #: stringdump_steam_2022_12_06.txt:14146
 msgid "sonorous"
-msgstr ""
+msgstr "sonoro"
 
 #: stringdump_steam_2022_12_06.txt:14147
 msgid "wispy"
@@ -47299,7 +47310,7 @@ msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:14164
 msgid "poet"
-msgstr ""
+msgstr "poeta"
 
 #: stringdump_steam_2022_12_06.txt:14165
 msgid "preacher"
@@ -47323,7 +47334,7 @@ msgstr "amigável"
 
 #: stringdump_steam_2022_12_06.txt:14170
 msgid "dancer"
-msgstr ""
+msgstr "dançarino"
 
 #: stringdump_steam_2022_12_06.txt:14171
 msgid "hated group"
@@ -47419,11 +47430,11 @@ msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:14441
 msgid "Loading object files...  "
-msgstr ""
+msgstr "Carregando Objetos..."
 
 #: stringdump_steam_2022_12_06.txt:14442
 msgid "Loading world to start new game"
-msgstr ""
+msgstr "Carregando Mundo Para Começar Novo Jogo"
 
 #: stringdump_steam_2022_12_06.txt:14443
 msgid "Sorting material templates..."
@@ -47431,7 +47442,7 @@ msgstr "Classificaçao de modelos de material..."
 
 #: stringdump_steam_2022_12_06.txt:14444
 msgid "Sorting text..."
-msgstr ""
+msgstr "Classificando Texto..."
 
 #: stringdump_steam_2022_12_06.txt:14445
 msgid "removed erroneous unit ground occupancy flag"
@@ -47491,11 +47502,11 @@ msgstr "Classificaçao de reaçoes..."
 
 #: stringdump_steam_2022_12_06.txt:14459
 msgid "Sorting sounds..."
-msgstr ""
+msgstr "Classificando sons"
 
 #: stringdump_steam_2022_12_06.txt:14460
 msgid "Sorting music..."
-msgstr ""
+msgstr "Classificando musica "
 
 #: stringdump_steam_2022_12_06.txt:14461
 msgid "Sorting entities..."
@@ -47519,15 +47530,15 @@ msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:14492
 msgid "Vanilla Items Graphics"
-msgstr ""
+msgstr "Gráfico de itens padrão "
 
 #: stringdump_steam_2022_12_06.txt:14494
 msgid "Vanilla Descriptors Graphics"
-msgstr ""
+msgstr "Gráfico de descritores Padrão "
 
 #: stringdump_steam_2022_12_06.txt:14495
 msgid "Vanilla Plants Graphics"
-msgstr ""
+msgstr "Gráfico de plantas padrão"
 
 #: stringdump_steam_2022_12_06.txt:14497
 msgid "Loading vehicles..."
@@ -47563,7 +47574,7 @@ msgstr "Carregar as identidades..."
 
 #: stringdump_steam_2022_12_06.txt:14505
 msgid "Loading belief systems..."
-msgstr ""
+msgstr "Carregando sistemas de crença "
 
 #: stringdump_steam_2022_12_06.txt:14506
 msgid "Loading occupations..."
@@ -48329,7 +48340,7 @@ msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:15026
 msgid "Exalted"
-msgstr ""
+msgstr "Exaltado"
 
 #: stringdump_steam_2022_12_06.txt:15027
 msgid " Master"
@@ -51887,11 +51898,11 @@ msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:16021
 msgid "gave food"
-msgstr ""
+msgstr "deu comida"
 
 #: stringdump_steam_2022_12_06.txt:16022
 msgid "received food"
-msgstr ""
+msgstr "recebeu comida"
 
 #: stringdump_steam_2022_12_06.txt:16023
 msgid "gave water"
@@ -52455,7 +52466,7 @@ msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:16163
 msgid "after arriving at the location"
-msgstr ""
+msgstr "após chegar ao local"
 
 #: stringdump_steam_2022_12_06.txt:16164
 msgid "after going the wrong direction"
@@ -52639,7 +52650,7 @@ msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:16212
 msgid "having ambitions for which death was only a small obstacle"
-msgstr ""
+msgstr "tendo ambições pelas quais a morte era apenas um obstáculo"
 
 #: stringdump_steam_2022_12_06.txt:16213
 msgid "being too vain to give in to death"
@@ -52647,7 +52658,7 @@ msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:16214
 msgid "being too proud to give in to death"
-msgstr ""
+msgstr "sendo muito orgulhoso para se entregar à morte"
 
 #: stringdump_steam_2022_12_06.txt:16215
 msgid "unable to face any possible judgment and the afterlife"
@@ -52887,7 +52898,7 @@ msgstr "depois de adquirir"
 
 #: stringdump_steam_2022_12_06.txt:16274
 msgid "during "
-msgstr ""
+msgstr "durante"
 
 #: stringdump_steam_2022_12_06.txt:16275
 msgid "after murdering "
@@ -53153,7 +53164,7 @@ msgstr "e nao achou nada"
 
 #: stringdump_steam_2022_12_06.txt:16340
 msgid " searched "
-msgstr ""
+msgstr "procurou"
 
 #: stringdump_steam_2022_12_06.txt:16341
 msgid "the fleeing of "
@@ -53161,7 +53172,7 @@ msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:16342
 msgid " fled "
-msgstr ""
+msgstr "fugiu"
 
 #: stringdump_steam_2022_12_06.txt:16343
 msgid " throughout "
@@ -53313,7 +53324,7 @@ msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:16380
 msgid "  The defenders hired "
-msgstr ""
+msgstr "Os defensores contratados"
 
 #: stringdump_steam_2022_12_06.txt:16381
 msgid "by the attackers."
@@ -58702,7 +58713,7 @@ msgstr "Competiçao de Dança"
 
 #: stringdump_steam_2022_12_06.txt:17771
 msgid "Storytelling"
-msgstr ""
+msgstr "Narrativa "
 
 #: stringdump_steam_2022_12_06.txt:17772
 msgid "Poetry Recital"
@@ -58762,11 +58773,11 @@ msgstr ", uma vez do submundo."
 
 #: stringdump_steam_2022_12_06.txt:17788
 msgid "Ceremony"
-msgstr ""
+msgstr "Cerimônia "
 
 #: stringdump_steam_2022_12_06.txt:17789
 msgid "Main Ceremony"
-msgstr ""
+msgstr "Cerimônia principal "
 
 #: stringdump_steam_2022_12_06.txt:17790
 msgid "Closing Ceremony"
@@ -58778,7 +58789,7 @@ msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:17792
 msgid "Procession"
-msgstr ""
+msgstr "Procissão"
 
 #: stringdump_steam_2022_12_06.txt:17793
 msgid "Gladiatory Games"
@@ -59266,7 +59277,7 @@ msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:18309
 msgid "insane"
-msgstr ""
+msgstr "insano "
 
 #: stringdump_steam_2022_12_06.txt:18310
 msgid "melancholy"
@@ -59274,7 +59285,7 @@ msgstr "melancolia"
 
 #: stringdump_steam_2022_12_06.txt:18311
 msgid "fell"
-msgstr ""
+msgstr "caiu"
 
 #: stringdump_steam_2022_12_06.txt:18312
 msgid "macabre"
@@ -59294,7 +59305,7 @@ msgstr "aprendiz"
 
 #: stringdump_steam_2022_12_06.txt:18335
 msgid "visiting"
-msgstr ""
+msgstr "visitando "
 
 #: stringdump_steam_2022_12_06.txt:18336
 msgid "refugee"
@@ -59306,7 +59317,7 @@ msgstr "Resolvido"
 
 #: stringdump_steam_2022_12_06.txt:18344
 msgid "resident"
-msgstr ""
+msgstr "habitante "
 
 #: stringdump_steam_2022_12_06.txt:18345
 msgid "former occupation"
@@ -59318,7 +59329,7 @@ msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:18347
 msgid "squad"
-msgstr ""
+msgstr "equipe "
 
 #: stringdump_steam_2022_12_06.txt:18348
 msgid "position claim"
@@ -59378,7 +59389,7 @@ msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:18376
 msgid "greed"
-msgstr ""
+msgstr "ganância "
 
 #: stringdump_steam_2022_12_06.txt:18377
 msgid "stress vulnerability"
@@ -59386,7 +59397,7 @@ msgstr "vulnerabilidade ao estresse"
 
 #: stringdump_steam_2022_12_06.txt:18378
 msgid "lust propensity"
-msgstr ""
+msgstr "propensão à luxúria "
 
 #: stringdump_steam_2022_12_06.txt:18379
 msgid "anxiety propensity"
@@ -59398,23 +59409,23 @@ msgstr "propensão à raiva"
 
 #: stringdump_steam_2022_12_06.txt:18381
 msgid "depression propensity"
-msgstr ""
+msgstr "propensão à depressão"
 
 #: stringdump_steam_2022_12_06.txt:18382
 msgid "cheer propensity"
-msgstr ""
+msgstr "propensão ao ânimo "
 
 #: stringdump_steam_2022_12_06.txt:18383
 msgid "envy propensity"
-msgstr ""
+msgstr "propensão à inveja"
 
 #: stringdump_steam_2022_12_06.txt:18384
 msgid "hate propensity"
-msgstr ""
+msgstr "propensão ao ódio"
 
 #: stringdump_steam_2022_12_06.txt:18385
 msgid "love propensity"
-msgstr ""
+msgstr "propensão ao amor "
 
 #: stringdump_steam_2022_12_06.txt:18387
 msgid "obsessive"
@@ -61593,7 +61604,7 @@ msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:19793
 msgid "No job"
-msgstr ""
+msgstr "Sem Trabalho "
 
 #: stringdump_steam_2022_12_06.txt:19794
 msgid "Kidnap"
@@ -61601,15 +61612,15 @@ msgstr "Sequestro"
 
 #: stringdump_steam_2022_12_06.txt:19795
 msgid "Weave thread into cloth"
-msgstr ""
+msgstr "Tecer linha em Tecido"
 
 #: stringdump_steam_2022_12_06.txt:19796
 msgid "Weave yarn into cloth"
-msgstr ""
+msgstr "Tecer fio em tecido "
 
 #: stringdump_steam_2022_12_06.txt:19797
 msgid "Harvest plants"
-msgstr ""
+msgstr "Colher colheita"
 
 #: stringdump_steam_2022_12_06.txt:19798
 msgid " (dyed only)"
@@ -63613,23 +63624,23 @@ msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:22265
 msgid "be bright"
-msgstr ""
+msgstr "seja brilhante "
 
 #: stringdump_steam_2022_12_06.txt:22266
 msgid "be lively"
-msgstr ""
+msgstr "seja vívido "
 
 #: stringdump_steam_2022_12_06.txt:22267
 msgid "be made with skill"
-msgstr ""
+msgstr "seja feito com habilidade "
 
 #: stringdump_steam_2022_12_06.txt:22268
 msgid "The musical voices are purely rhythmic"
-msgstr ""
+msgstr "As vozes musicais são muito rítmicas "
 
 #: stringdump_steam_2022_12_06.txt:22269
 msgid "The entire performance "
-msgstr ""
+msgstr "A performance inteira "
 
 #: stringdump_steam_2022_12_06.txt:22270
 msgid "should "
@@ -63641,7 +63652,7 @@ msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:22272
 msgid "singer"
-msgstr ""
+msgstr "cantor "
 
 #: stringdump_steam_2022_12_06.txt:22273
 msgid "speaker"
@@ -63747,7 +63758,7 @@ msgstr "frases longas"
 
 #: stringdump_steam_2022_12_06.txt:22298
 msgid "phrases of varied length"
-msgstr ""
+msgstr "frases de tamanho variado "
 
 #: stringdump_steam_2022_12_06.txt:22299
 msgid "The music is broadly layered with chords spanning the range.  "
@@ -63790,7 +63801,7 @@ msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:22308
 msgid "be very soft"
-msgstr ""
+msgstr "seja muito macio "
 
 #: stringdump_steam_2022_12_06.txt:22309
 msgid "be soft"
@@ -63798,7 +63809,7 @@ msgstr "seja suave"
 
 #: stringdump_steam_2022_12_06.txt:22310
 msgid "be moderately soft"
-msgstr ""
+msgstr "seja meio macio "
 
 #: stringdump_steam_2022_12_06.txt:22311
 msgid "becomes calmer as the end is approached"
@@ -63822,7 +63833,7 @@ msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:22316
 msgid "fade into silence"
-msgstr ""
+msgstr "desaparecer no silêncio "
 
 #: stringdump_steam_2022_12_06.txt:22317
 msgid "start loud then be immediately soft"
@@ -63834,15 +63845,15 @@ msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:22319
 msgid "be moderately loud"
-msgstr ""
+msgstr "seja meio barulhento"
 
 #: stringdump_steam_2022_12_06.txt:22320
 msgid "be loud"
-msgstr ""
+msgstr "seja barulhento"
 
 #: stringdump_steam_2022_12_06.txt:22321
 msgid "be very loud"
-msgstr ""
+msgstr "seja muito barulhento "
 
 #: stringdump_steam_2022_12_06.txt:22322
 msgid "become louder and louder"
@@ -63886,7 +63897,7 @@ msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:22332
 msgid "is at a hurried pace"
-msgstr ""
+msgstr "está em um passo acelerado "
 
 #: stringdump_steam_2022_12_06.txt:22333
 msgid "gradually slows as it comes to an end"
@@ -63954,7 +63965,7 @@ msgstr "sentindo-se brincalhão"
 
 #: stringdump_steam_2022_12_06.txt:22349
 msgid "feel tender"
-msgstr ""
+msgstr "sentir sensibilidade "
 
 #: stringdump_steam_2022_12_06.txt:22350
 msgid "feel calm"
@@ -64234,7 +64245,7 @@ msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:22419
 msgid " is voiced by "
-msgstr ""
+msgstr "é dublado por "
 
 #: stringdump_steam_2022_12_06.txt:22420
 msgid "the melody of the"
@@ -64246,11 +64257,11 @@ msgstr "o contraponto do"
 
 #: stringdump_steam_2022_12_06.txt:22422
 msgid "the harmony of the"
-msgstr ""
+msgstr "a harmonia do"
 
 #: stringdump_steam_2022_12_06.txt:22423
 msgid "simple passage"
-msgstr ""
+msgstr "simples passagem "
 
 #: stringdump_steam_2022_12_06.txt:22424
 msgid "series of variations"
@@ -64258,11 +64269,11 @@ msgstr "série de variaçoes"
 
 #: stringdump_steam_2022_12_06.txt:22425
 msgid "Each passage"
-msgstr ""
+msgstr "Cada passagem"
 
 #: stringdump_steam_2022_12_06.txt:22426
 msgid "The passage"
-msgstr ""
+msgstr "A passagem"
 
 #: stringdump_steam_2022_12_06.txt:22427
 msgid "is twice the tempo of the last passage"
@@ -64314,19 +64325,19 @@ msgstr "segundo"
 
 #: stringdump_steam_2022_12_06.txt:22439
 msgid " synthesis"
-msgstr ""
+msgstr "síntese "
 
 #: stringdump_steam_2022_12_06.txt:22440
 msgid " verse"
-msgstr ""
+msgstr "verso"
 
 #: stringdump_steam_2022_12_06.txt:22441
 msgid " chorus"
-msgstr ""
+msgstr "acorde"
 
 #: stringdump_steam_2022_12_06.txt:22442
 msgid " finale"
-msgstr ""
+msgstr "final "
 
 #: stringdump_steam_2022_12_06.txt:22443
 msgid "repeated"
@@ -64418,7 +64429,7 @@ msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:22465
 msgid " brief"
-msgstr ""
+msgstr "breve "
 
 #: stringdump_steam_2022_12_06.txt:22466
 msgid " unrelated"
@@ -64889,7 +64900,7 @@ msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:22575
 msgid " patterns: "
-msgstr ""
+msgstr "padrões:"
 
 #: stringdump_steam_2022_12_06.txt:22576
 msgid " (considered the primary)"
@@ -65053,7 +65064,7 @@ msgstr "uma criatura segura."
 
 #: stringdump_steam_2022_12_06.txt:22616
 msgid "Custom world name"
-msgstr ""
+msgstr "Nome do mundo personalizado "
 
 #: stringdump_steam_2022_12_06.txt:22617
 msgid "Embark Points"
@@ -70312,7 +70323,7 @@ msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:24074
 msgid "while "
-msgstr ""
+msgstr "enquanto "
 
 #: stringdump_steam_2022_12_06.txt:24075
 msgid "somebody's death"
@@ -70416,7 +70427,7 @@ msgstr "por um parceiro de treinamento de animais mortos"
 
 #: stringdump_steam_2022_12_06.txt:24100
 msgid "being "
-msgstr ""
+msgstr "sendo "
 
 #: stringdump_steam_2022_12_06.txt:24101
 msgid "being tormented in nightmares by the dead"
@@ -70480,11 +70491,11 @@ msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:24116
 msgid "wearing tattered clothing"
-msgstr ""
+msgstr "vestindo roupas esfarrapadas "
 
 #: stringdump_steam_2022_12_06.txt:24117
 msgid "wearing old clothing"
-msgstr ""
+msgstr "vestindo roupa velha "
 
 #: stringdump_steam_2022_12_06.txt:24118
 msgid "clothes rot off of "
@@ -70545,7 +70556,7 @@ msgstr "excelente"
 
 #: stringdump_steam_2022_12_06.txt:24132
 msgid "viewing "
-msgstr ""
+msgstr "vendo "
 
 #: stringdump_steam_2022_12_06.txt:24133
 msgid "hearing somebody was being prevented from leaving"
@@ -70589,7 +70600,7 @@ msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:24143
 msgid "losing a pet"
-msgstr ""
+msgstr "perdendo um animal de estimação "
 
 #: stringdump_steam_2022_12_06.txt:24144
 msgid "making suggestions about work allocations"
@@ -70669,7 +70680,7 @@ msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:24163
 msgid "the lack of work last season"
-msgstr ""
+msgstr "a falta de trabalho na última estação "
 
 #: stringdump_steam_2022_12_06.txt:24164
 msgid " punishment delayed"
@@ -70681,7 +70692,7 @@ msgstr "tendo "
 
 #: stringdump_steam_2022_12_06.txt:24166
 msgid "the scarcity of cages and chains"
-msgstr ""
+msgstr "a escassez de jaulas e correntes  "
 
 #: stringdump_steam_2022_12_06.txt:24167
 msgid "the delayed punishment of a criminal"
@@ -70689,7 +70700,7 @@ msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:24168
 msgid "uncovered"
-msgstr ""
+msgstr "descoberto "
 
 #: stringdump_steam_2022_12_06.txt:24169
 msgid "a mandate deadline met"
@@ -70721,19 +70732,19 @@ msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:24176
 msgid " being ignored"
-msgstr ""
+msgstr "sendo ignorado "
 
 #: stringdump_steam_2022_12_06.txt:24177
 msgid " was ignored"
-msgstr ""
+msgstr "foi ignorado "
 
 #: stringdump_steam_2022_12_06.txt:24178
 msgid " was abandoned"
-msgstr ""
+msgstr "foi abandonado "
 
 #: stringdump_steam_2022_12_06.txt:24179
 msgid "an agreement to construct a temple for "
-msgstr ""
+msgstr "um acordo de construir um templo para "
 
 #: stringdump_steam_2022_12_06.txt:24180
 msgid "being denied residency"
@@ -73446,7 +73457,7 @@ msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:24858
 msgid " includes "
-msgstr ""
+msgstr "inclui"
 
 #: stringdump_steam_2022_12_06.txt:24859
 msgid " line.  "
@@ -80295,7 +80306,7 @@ msgstr "formulas simples para certas somas arbitrárias grandes"
 
 #: stringdump_steam_2022_12_06.txt:28266
 msgid "methods for solving systems of equations"
-msgstr ""
+msgstr "métodos para resolver sistemas de equações "
 
 #: stringdump_steam_2022_12_06.txt:28267
 msgid "the creation of accurate maps"
@@ -80313,11 +80324,11 @@ msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:28270
 msgid "the division of the world into climate zones"
-msgstr ""
+msgstr "a divisão do mundo em zonas climáticas "
 
 #: stringdump_steam_2022_12_06.txt:28271
 msgid "the forces that govern wind patterns"
-msgstr ""
+msgstr "as forças que determinam o padrão do vento "
 
 #: stringdump_steam_2022_12_06.txt:28272
 msgid "the origin of rainfall through evaporation and condensation"
@@ -80333,7 +80344,7 @@ msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:28275
 msgid "mineral remedies"
-msgstr ""
+msgstr "remédios minerais "
 
 #: stringdump_steam_2022_12_06.txt:28276
 msgid "the method of bandaging wounds"
@@ -80341,7 +80352,7 @@ msgstr "o método de enfaixar feridas"
 
 #: stringdump_steam_2022_12_06.txt:28277
 msgid "herbal remedies"
-msgstr ""
+msgstr "remédios herbais"
 
 #: stringdump_steam_2022_12_06.txt:28278
 msgid "remedies prepared from animals"
@@ -80377,11 +80388,11 @@ msgstr "o processo envolvido na criaçao de mapas"
 
 #: stringdump_steam_2022_12_06.txt:28286
 msgid "surveying by triangulation"
-msgstr ""
+msgstr "triangulação topográfica"
 
 #: stringdump_steam_2022_12_06.txt:28287
 msgid "the process of surveying land"
-msgstr ""
+msgstr "o processo de topografia "
 
 #: stringdump_steam_2022_12_06.txt:28288
 msgid "the construction and use of the surveying staff"
@@ -80433,7 +80444,7 @@ msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:28300
 msgid "the construction and use of the flask"
-msgstr ""
+msgstr "a construção e o uso do frasco"
 
 #: stringdump_steam_2022_12_06.txt:28301
 msgid "the theory and methods involved in evaporation"
@@ -80465,7 +80476,7 @@ msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:28307
 msgid "the preparation of aqua regia"
-msgstr ""
+msgstr "a preparação de água regia "
 
 #: stringdump_steam_2022_12_06.txt:28308
 msgid "the construction and use of the ampoule"
@@ -80481,7 +80492,7 @@ msgstr "a preparação do óleo de vitríolo"
 
 #: stringdump_steam_2022_12_06.txt:28311
 msgid "the construction and use of the funnel"
-msgstr ""
+msgstr "a construção e o uso do funil"
 
 #: stringdump_steam_2022_12_06.txt:28312
 msgid "the construction and use of the crucible"
@@ -80676,7 +80687,7 @@ msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:28358
 msgid "pulmonary circulation"
-msgstr ""
+msgstr "circulação pulmonar "
 
 #: stringdump_steam_2022_12_06.txt:28359
 msgid "the function of the nervous system"
@@ -80684,11 +80695,11 @@ msgstr "a funçao do sistema nervoso"
 
 #: stringdump_steam_2022_12_06.txt:28360
 msgid "the study of reaction time"
-msgstr ""
+msgstr "o estudo do tempo de reação "
 
 #: stringdump_steam_2022_12_06.txt:28361
 msgid "the anatomy of the eye"
-msgstr ""
+msgstr "a anatomia do olho"
 
 #: stringdump_steam_2022_12_06.txt:28362
 msgid "the distinction between motor and sensory nerves"
@@ -80696,11 +80707,11 @@ msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:28363
 msgid "the surgical method of probing"
-msgstr ""
+msgstr "o método cirúrgico de examinar "
 
 #: stringdump_steam_2022_12_06.txt:28364
 msgid "the surgical method of suturing"
-msgstr ""
+msgstr "o método cirúrgico de sutura"
 
 #: stringdump_steam_2022_12_06.txt:28365
 msgid "the surgical method of scraping"
@@ -80708,7 +80719,7 @@ msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:28366
 msgid "the surgical method of draining"
-msgstr ""
+msgstr "o método cirúrgico de drenagem "
 
 #: stringdump_steam_2022_12_06.txt:28367
 msgid "the tracheotomy surgery"
@@ -80768,7 +80779,7 @@ msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:28381
 msgid "the theory of epidemic disease"
-msgstr ""
+msgstr "a teoria de doenças epidêmicas "
 
 #: stringdump_steam_2022_12_06.txt:28382
 msgid "the notion of the exacerbation of a patient's condition"
@@ -80784,11 +80795,11 @@ msgstr "a teoria das doenças endêmicas"
 
 #: stringdump_steam_2022_12_06.txt:28385
 msgid "the classification of disease"
-msgstr ""
+msgstr "a classificação de doença "
 
 #: stringdump_steam_2022_12_06.txt:28386
 msgid "the classification of toxic substances"
-msgstr ""
+msgstr "a classificação de substâncias tóxicas "
 
 #: stringdump_steam_2022_12_06.txt:28387
 msgid "the creation and use of the orthopedic cast"
@@ -80796,7 +80807,7 @@ msgstr "a criaçao e uso dos moldes ortopédicos"
 
 #: stringdump_steam_2022_12_06.txt:28388
 msgid "the surgical method of excision"
-msgstr ""
+msgstr "o método cirúrgico de excisão "
 
 #: stringdump_steam_2022_12_06.txt:28389
 msgid "the construction and use of the traction bench"
@@ -80886,7 +80897,7 @@ msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:28414
 msgid "the theory of light and color"
-msgstr ""
+msgstr "a teoria da luz e da cor "
 
 #: stringdump_steam_2022_12_06.txt:28415
 msgid "the appearance of rainbows based on optical theories"
@@ -80894,7 +80905,7 @@ msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:28416
 msgid "atmospheric refraction"
-msgstr ""
+msgstr "refração atmosférica "
 
 #: stringdump_steam_2022_12_06.txt:28417
 msgid ""
@@ -82204,23 +82215,23 @@ msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:28744
 msgid "Lineage"
-msgstr ""
+msgstr "Linhagem "
 
 #: stringdump_steam_2022_12_06.txt:28745
 msgid "the Phases"
-msgstr ""
+msgstr "As Frases "
 
 #: stringdump_steam_2022_12_06.txt:28746
 msgid "the Moon"
-msgstr ""
+msgstr "A Lua "
 
 #: stringdump_steam_2022_12_06.txt:28747
 msgid "Methods"
-msgstr ""
+msgstr "Métodos "
 
 #: stringdump_steam_2022_12_06.txt:28748
 msgid "Technology"
-msgstr ""
+msgstr "Tecnologia "
 
 #: stringdump_steam_2022_12_06.txt:28749
 msgid "Relics"
@@ -82228,7 +82239,7 @@ msgstr "Relíquias"
 
 #: stringdump_steam_2022_12_06.txt:28750
 msgid "Techniques"
-msgstr ""
+msgstr "Técnicas "
 
 #: stringdump_steam_2022_12_06.txt:28751
 msgid "Histories"
@@ -82236,7 +82247,7 @@ msgstr "Histórias"
 
 #: stringdump_steam_2022_12_06.txt:28752
 msgid "Ruins"
-msgstr ""
+msgstr "Ruínas "
 
 #: stringdump_steam_2022_12_06.txt:28753
 msgid "Historical Cycles"
@@ -82248,7 +82259,7 @@ msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:28755
 msgid "Cycles"
-msgstr ""
+msgstr "Ciclos "
 
 #: stringdump_steam_2022_12_06.txt:28756
 msgid "Repetition"
@@ -82256,7 +82267,7 @@ msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:28757
 msgid "Conversations"
-msgstr ""
+msgstr "Conversação "
 
 #: stringdump_steam_2022_12_06.txt:28758
 msgid "Causation"
@@ -82380,7 +82391,7 @@ msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:28788
 msgid "the Elements"
-msgstr ""
+msgstr "Os Elementos "
 
 #: stringdump_steam_2022_12_06.txt:28789
 msgid "Alloys"
@@ -82392,23 +82403,23 @@ msgstr "Dureza"
 
 #: stringdump_steam_2022_12_06.txt:28791
 msgid "Minerals"
-msgstr ""
+msgstr "Minerais "
 
 #: stringdump_steam_2022_12_06.txt:28792
 msgid "Metals"
-msgstr ""
+msgstr "Metais "
 
 #: stringdump_steam_2022_12_06.txt:28793
 msgid "Solutions"
-msgstr ""
+msgstr "Soluções"
 
 #: stringdump_steam_2022_12_06.txt:28794
 msgid "Distillation"
-msgstr ""
+msgstr "Destilação "
 
 #: stringdump_steam_2022_12_06.txt:28795
 msgid "Alembics"
-msgstr ""
+msgstr "Alambique "
 
 #: stringdump_steam_2022_12_06.txt:28796
 msgid "the Liquids"
@@ -82440,7 +82451,7 @@ msgstr "Animais e o Clima"
 
 #: stringdump_steam_2022_12_06.txt:28803
 msgid "Animal Societies"
-msgstr ""
+msgstr "Sociedades de Animais"
 
 #: stringdump_steam_2022_12_06.txt:28804
 msgid "Animal Diseases"
@@ -82456,11 +82467,11 @@ msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:28807
 msgid "Animal Diets"
-msgstr ""
+msgstr "Dieta animal "
 
 #: stringdump_steam_2022_12_06.txt:28808
 msgid "the Food Chain"
-msgstr ""
+msgstr "A Cadeia Alimentar "
 
 #: stringdump_steam_2022_12_06.txt:28809
 msgid "Combustion"
@@ -82492,7 +82503,7 @@ msgstr "Embriões de Animais"
 
 #: stringdump_steam_2022_12_06.txt:28816
 msgid "Animal Development"
-msgstr ""
+msgstr "Desenvolvimento Animal"
 
 #: stringdump_steam_2022_12_06.txt:28817
 msgid "Anatomies"
@@ -82512,7 +82523,7 @@ msgstr "Anatomia"
 
 #: stringdump_steam_2022_12_06.txt:28821
 msgid "the Path"
-msgstr ""
+msgstr "O Caminho "
 
 #: stringdump_steam_2022_12_06.txt:28822
 msgid "Paths"
@@ -82768,11 +82779,11 @@ msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:28885
 msgid "the Ampoule"
-msgstr ""
+msgstr "A Ampolas "
 
 #: stringdump_steam_2022_12_06.txt:28886
 msgid "Ampoules"
-msgstr ""
+msgstr "Ampolas "
 
 #: stringdump_steam_2022_12_06.txt:28887
 msgid "Oil of Vitriol"
@@ -82988,7 +82999,7 @@ msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:28940
 msgid "Sutures"
-msgstr ""
+msgstr "Suturas"
 
 #: stringdump_steam_2022_12_06.txt:28941
 msgid "Scraping"
@@ -83028,15 +83039,15 @@ msgstr "Contágio"
 
 #: stringdump_steam_2022_12_06.txt:28950
 msgid "Exacerbation"
-msgstr ""
+msgstr "Exacerbação"
 
 #: stringdump_steam_2022_12_06.txt:28951
 msgid "the Plague"
-msgstr ""
+msgstr "A Praga "
 
 #: stringdump_steam_2022_12_06.txt:28952
 msgid "Plagues"
-msgstr ""
+msgstr "Pragas"
 
 #: stringdump_steam_2022_12_06.txt:28953
 msgid "Fracture Treatment"
@@ -83124,7 +83135,7 @@ msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:28974
 msgid "Rainbows"
-msgstr ""
+msgstr "Arco-íris "
 
 #: stringdump_steam_2022_12_06.txt:28975
 msgid "the Burning Glass"
@@ -85663,7 +85674,7 @@ msgstr "eventos"
 
 #: stringdump_steam_2022_12_06.txt:29608
 msgid "processes"
-msgstr ""
+msgstr "processos "
 
 #: stringdump_steam_2022_12_06.txt:29609
 msgid "objects and properties"
@@ -85843,7 +85854,7 @@ msgstr "a cor das estrelas"
 
 #: stringdump_steam_2022_12_06.txt:29653
 msgid "social behavior"
-msgstr ""
+msgstr "comportamento social"
 
 #: stringdump_steam_2022_12_06.txt:29654
 msgid "diseases"
@@ -85879,7 +85890,7 @@ msgstr "a lua e as marés"
 
 #: stringdump_steam_2022_12_06.txt:29662
 msgid "tidal height"
-msgstr ""
+msgstr "altura das marés "
 
 #: stringdump_steam_2022_12_06.txt:29663
 msgid "the moon and seasons"
@@ -85979,7 +85990,7 @@ msgstr "a enciclopédia"
 
 #: stringdump_steam_2022_12_06.txt:29687
 msgid "community conflict"
-msgstr ""
+msgstr "conflitos comunitários"
 
 #: stringdump_steam_2022_12_06.txt:29688
 msgid "biographical dictionaries"
@@ -85991,7 +86002,7 @@ msgstr "ciclos"
 
 #: stringdump_steam_2022_12_06.txt:29690
 msgid "community bonds"
-msgstr ""
+msgstr "laços comunitários "
 
 #: stringdump_steam_2022_12_06.txt:29691
 msgid "personal interviews"
@@ -86135,7 +86146,7 @@ msgstr "medidas de altura"
 
 #: stringdump_steam_2022_12_06.txt:29726
 msgid "economic data"
-msgstr ""
+msgstr "dados econômicos "
 
 #: stringdump_steam_2022_12_06.txt:29727
 msgid "map grids"
@@ -86155,7 +86166,7 @@ msgstr "cartografia geológica"
 
 #: stringdump_steam_2022_12_06.txt:29731
 msgid "land surveying"
-msgstr ""
+msgstr "topografia "
 
 #: stringdump_steam_2022_12_06.txt:29732
 msgid "military surveying"
@@ -86247,11 +86258,11 @@ msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:29754
 msgid "surveying"
-msgstr ""
+msgstr "pesquisa "
 
 #: stringdump_steam_2022_12_06.txt:29755
 msgid "the ampoule"
-msgstr ""
+msgstr "a ampola "
 
 #: stringdump_steam_2022_12_06.txt:29756
 msgid "the retort"
@@ -86555,7 +86566,7 @@ msgstr "modelos cirúrgicos"
 
 #: stringdump_steam_2022_12_06.txt:29831
 msgid "probing"
-msgstr ""
+msgstr "examinar "
 
 #: stringdump_steam_2022_12_06.txt:29832
 msgid "suturing"
@@ -86567,7 +86578,7 @@ msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:29834
 msgid "draining"
-msgstr ""
+msgstr "drenagem"
 
 #: stringdump_steam_2022_12_06.txt:29835
 msgid "tracheotomy surgery"
@@ -87456,7 +87467,7 @@ msgstr "Ponto"
 
 #: stringdump_steam_2022_12_06.txt:30188
 msgid " remain"
-msgstr ""
+msgstr "permanecer "
 
 #: stringdump_steam_2022_12_06.txt:30189
 msgid " unpicked skill"
@@ -90167,7 +90178,7 @@ msgstr "roçadoura"
 
 #: stringdump_steam_2022_12_06.txt:36758
 msgid "cheesemaker"
-msgstr ""
+msgstr "Queijeiro"
 
 #: stringdump_steam_2022_12_06.txt:36759
 msgid "milker"
@@ -90255,7 +90266,7 @@ msgstr "Couro"
 
 #: stringdump_steam_2022_12_06.txt:36780
 msgid "Peddler"
-msgstr ""
+msgstr "Vendedor ambulante "
 
 #: stringdump_steam_2022_12_06.txt:36781
 msgid "Prophet"
@@ -91927,7 +91938,8 @@ msgstr "Unit has misaligned body modifiers.  Adjusting."
 
 #: stringdump_steam_2022_12_06.txt:37201
 msgid "Unit has misaligned bp modifiers.  Adjusting."
-msgstr "Unit has misaligned bp modifiers.  Adjusting."
+msgstr ""
+"A unidade tem modificadores de partes do corpo desalinhados. Ajustando."
 
 #: stringdump_steam_2022_12_06.txt:37202
 msgid "Wrapped around "

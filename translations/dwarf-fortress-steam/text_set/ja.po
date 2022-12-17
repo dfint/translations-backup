@@ -99,15 +99,15 @@ msgstr ""
 
 #: text_book_art.txt2, text_book_instruction.txt:2
 msgid "[NAME]"
-msgstr ""
+msgstr "[NAME]"
 
 #: text_book_art.txt:3
 msgid "[PHRASE]"
-msgstr ""
+msgstr "[PHRASE]"
 
 #: text_book_art.txt:4
 msgid "[ADJ] [NO_ART_NAME]"
-msgstr ""
+msgstr "[ADJ] [NO_ART_NAME]"
 
 #: text_book_art.txt:5
 msgid "The [ADJ] [NO_ART_NAME]"
@@ -115,7 +115,7 @@ msgstr "[ADJ][NO_ART_NAME]は"
 
 #: text_book_art.txt:6
 msgid "[NAME] [ADJ]"
-msgstr ""
+msgstr "[NAME] [ADJ]"
 
 #: text_book_art.txt:7
 msgid "[NAME] and the [NOUN]"
@@ -135,7 +135,7 @@ msgstr "[ADJ] [NOUN] と[NAME]"
 
 #: text_book_art.txt:11
 msgid "[NAME]: [PHRASE]"
-msgstr ""
+msgstr "[NAME]:[PHRASE]"
 
 #: text_book_art.txt:12
 msgid "It Must Have Been [NAME]"
@@ -311,7 +311,7 @@ msgstr " [NAME]をください"
 
 #: text_book_instruction.txt:38
 msgid "Great [NO_ART_NAME]"
-msgstr ""
+msgstr "偉大な[NO_ART_NAME]"
 
 #: text_book_instruction.txt:39
 msgid "In Pursuit of [NAME]"
@@ -419,7 +419,7 @@ msgstr ""
 
 #: text_book_instruction.txt:65
 msgid "Secret [NO_ART_NAME]"
-msgstr ""
+msgstr "学徒の[NO_ART_NAME]"
 
 #: text_book_instruction.txt:66
 msgid "Start Your Day With [NAME]"
@@ -599,7 +599,7 @@ msgstr ""
 
 #: text_book_instruction.txt:110
 msgid "[NAME] and The Coming Troubles"
-msgstr ""
+msgstr "[NAME]とやってくるトラブル"
 
 #: text_book_instruction.txt:111
 msgid "[NAME] and The Universe"
@@ -1438,6 +1438,7 @@ msgid ""
 "Welcome to [CONTEXT:ENTITY:TRANS_NAME].  Praise be to "
 "[CONTEXT:ENTITY:WORSHIP_HF:TRANS_NAME]!"
 msgstr ""
+"ようこそ[CONTEXT:ENTITY:TRANS_NAME]へ。[CONTEXT:ENTITY:WORSHIP_HF:TRANS_NAME]を敬いましょう！"
 
 #: text_temple_become_member.txt:3
 msgid ""
