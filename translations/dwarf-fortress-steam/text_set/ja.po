@@ -1247,7 +1247,7 @@ msgstr ""
 #: text_same_site_specific_hf_seeker.txt:2
 msgid ""
 "seek out [CONTEXT:HIST_FIG:TRANS_NAME] here in [CONTEXT:SITE:TRANS_NAME]"
-msgstr ""
+msgstr "[CONTEXT:SITE:TRANS_NAME]の中から[CONTEXT:HIST_FIG:TRANS_NAME] を探し出せ"
 
 #: text_secret_death.txt:2
 msgid "Annihilation"
@@ -1431,7 +1431,7 @@ msgstr "ちょうど"
 
 #: text_temple_already_member.txt:6
 msgid "all you need is to"
-msgstr "あなたに必要なのは"
+msgstr "あなたがまさに必要としているのは"
 
 #: text_temple_become_member.txt:2
 msgid ""
@@ -1445,28 +1445,31 @@ msgid ""
 "Welcome to [CONTEXT:ENTITY:TRANS_NAME].  Praise be to "
 "[CONTEXT:ENTITY:WORSHIP_HF:RANDOM_DEF_SPHERE]!"
 msgstr ""
+"ようこそ[CONTEXT:ENTITY:TRANS_NAME].へ。[CONTEXT:ENTITY:WORSHIP_HF:RANDOM_DEF_SPHERE]を敬いましょう！"
 
 #: text_temple_become_member.txt:4
 msgid ""
 "As a member of [CONTEXT:ENTITY:TRANS_NAME], you can now seek the higher "
 "mysteries of [CONTEXT:ENTITY:WORSHIP_HF:TRANS_NAME]."
 msgstr ""
+"信徒[CONTEXT:ENTITY:TRANS_NAME]よ、あなたは[CONTEXT:ENTITY:WORSHIP_HF:TRANS_NAME]のさらなる奥義を探求することができます"
 
 #: text_temple_become_member.txt:5
 msgid ""
 "As a member of [CONTEXT:ENTITY:TRANS_NAME], you can now seek the higher "
 "mysteries of [CONTEXT:ENTITY:WORSHIP_HF:RANDOM_DEF_SPHERE]."
 msgstr ""
+"信徒[CONTEXT:ENTITY:TRANS_NAME],よ、あなたは[CONTEXT:ENTITY:WORSHIP_HF:RANDOM_DEF_SPHERE]のさらなる奥義を探求することができます"
 
 #: text_thief_profession.txt:2
 msgid "I seek treasures and bring them back to [CONTEXT:PLACE:TRANS_NAME]."
-msgstr ""
+msgstr "私は財宝を探しそれを[CONTEXT:PLACE:TRANS_NAME].に持ち帰る"
 
 #: text_thief_profession_year.txt:2
 msgid ""
 "I seek treasures and bring them back to [CONTEXT:PLACE:TRANS_NAME] and have "
 "done so for [CONTEXT:NUMBER] of the years of my life."
-msgstr ""
+msgstr "私は財宝を探しそれを[CONTEXT:PLACE:TRANS_NAME] の持ち帰る。それを[CONTEXT:NUMBER]年もやってきた"
 
 #: text_threat.txt:2
 msgid "Prepare to die!"
@@ -1480,7 +1483,7 @@ msgstr ""
 
 #: text_wandering_profession.txt:2
 msgid "I wander [CONTEXT:PLACE:TRANS_NAME]."
-msgstr ""
+msgstr "私は[CONTEXT:PLACE:TRANS_NAME].を彷徨う"
 
 #: text_wandering_profession_year.txt:2
 msgid ""

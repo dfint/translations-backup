@@ -54,13 +54,11 @@
 # Paipai Chen, 2022
 # 橓 新, 2022
 # 佳肴 林, 2022
-# whfnet <whfnet@gmail.com>, 2022
 # miao miao, 2022
 # bojack cheng, 2022
 # YIQUAN CHEN, 2022
 # yyya sssa, 2022
 # 沉沉 赵, 2022
-# Dongchen Gao, 2022
 # zz z, 2022
 # 北 萝, 2022
 # 杨 李, 2022
@@ -68,14 +66,18 @@
 # 程愉钦, 2022
 # Kerry H, 2022
 # H_Hedgehog, 2022
-# 铭齐 梁, 2022
 # 嘉杰 李, 2022
 # 墨漓 Mori, 2022
 # Kagamine_Lily, 2022
+# 2 K, 2022
+# cc cc, 2022
+# Dongchen Gao, 2022
+# 铭齐 梁, 2022
+# whfnet <whfnet@gmail.com>, 2022
 # 
 msgid ""
 msgstr ""
-"Last-Translator: Kagamine_Lily, 2022\n"
+"Last-Translator: whfnet <whfnet@gmail.com>, 2022\n"
 "Language-Team: Chinese Simplified (https://www.transifex.com/dwarf-fortress-translation/teams/22396/zh-Hans/)\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -800,7 +802,7 @@ msgstr "的"
 
 #: stringdump_steam_2022_12_06.txt:232
 msgid " forth an awe-inspiring sermon for the ages!"
-msgstr "讲演了一段这个时代最令人敬畏的布道!"
+msgstr "为千古传颂令人敬畏的布道!"
 
 #: stringdump_steam_2022_12_06.txt:233
 msgid "s"
@@ -7271,7 +7273,7 @@ msgstr "弹窗：运输"
 
 #: stringdump_steam_2022_12_06.txt:1884
 msgid "Popup: Burrows"
-msgstr "弹窗：避难所"
+msgstr "弹窗：洞所"
 
 #: stringdump_steam_2022_12_06.txt:1885
 msgid "Popup: Zones"
@@ -7651,7 +7653,7 @@ msgstr "更有可能的是，不看前几条说明的话，你的矮人会挨饿
 msgid ""
 "The game is open-ended and you can do whatever you choose.  If you'd like a "
 "goal, try to become a barony, then a Mountainhome. "
-msgstr "这个游戏是开放式结局的，你可以随心所欲。如果你实在想要一个目标的话，先成为一个领主，然后建立一个山脉聚居地。"
+msgstr "这个游戏是开放式结局的，你可以随心所欲。如果你实在想要一个目标的话，先成为一个领主，然后建立一个山居。"
 
 #: stringdump_steam_2022_12_06.txt:1982
 msgid "Obsidian"
@@ -8862,7 +8864,7 @@ msgid ""
 "Each [C:6:0:0]Track Stop[C:7:0:0] must be linked to a "
 "[C:6:0:0]Stockpile[C:7:0:0] for [C:6:0:1]Items[C:7:0:0] to be put on or "
 "removed from the [C:6:0:1]Minecart[C:7:0:0]."
-msgstr ""
+msgstr "每一个停靠站必须链接储物堆，之后物品才可以从矿车移除。"
 
 #: stringdump_steam_2022_12_06.txt:2214
 msgid ""
@@ -9950,6 +9952,7 @@ msgid ""
 "[C:3:0:1]Training[C:7:0:0] order allows your soldiers to train, but you must"
 " "
 msgstr ""
+"[C:5:0:1]洞所[C:7:0:0] 菜单)用于小队防守. The [C:3:0:1]训练[C:7:0:0] 命令允许你训练你的士兵, 但你必须"
 
 #: stringdump_steam_2022_12_06.txt:2401
 msgid "can assign and edit the routines your soldiers will follow. "
@@ -10150,7 +10153,7 @@ msgstr "在这一点上，你将是一名出色的玩家。"
 msgid ""
 "and finally become a Mountainhome by seating them on a legendary throne with"
 " seven mythical symbols of office. "
-msgstr "并最终成为Mountainhome的一员，让他们坐在带有七个神话般的职务标志的传奇宝座上。"
+msgstr "并最终成为山居的一员，让他们坐在带有七个神话般的职务标志的传奇宝座上。"
 
 #: stringdump_steam_2022_12_06.txt:2441
 msgid ""
@@ -10676,7 +10679,7 @@ msgstr "皮革"
 
 #: stringdump_steam_2022_12_06.txt:2570
 msgid "vessel"
-msgstr "容器"
+msgstr "船"
 
 #: stringdump_steam_2022_12_06.txt:2571
 msgid "religion"
@@ -11168,7 +11171,7 @@ msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:2697
 msgid "Walking spreads spatter"
-msgstr ""
+msgstr "行走着散布飞溅物"
 
 #: stringdump_steam_2022_12_06.txt:2698
 msgid "Nickname position (fort mode)"
@@ -11180,7 +11183,7 @@ msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:2700
 msgid "Centralize"
-msgstr ""
+msgstr "集中"
 
 #: stringdump_steam_2022_12_06.txt:2701
 msgid "Replace first"
@@ -11348,7 +11351,7 @@ msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:2742
 msgid "Werebeasts can attack"
-msgstr ""
+msgstr "狼人会攻击"
 
 #: stringdump_steam_2022_12_06.txt:2743
 msgid "Enemy population trigger 2"
@@ -11360,31 +11363,31 @@ msgstr "敌对人口触发器1"
 
 #: stringdump_steam_2022_12_06.txt:2745
 msgid "Invasion cap (regulars, attack two)"
-msgstr ""
+msgstr "入侵上限(常规，攻击两次)"
 
 #: stringdump_steam_2022_12_06.txt:2746
 msgid "Invasion cap (monsters, attack one)"
-msgstr ""
+msgstr "入侵帽(怪物，攻击一个)"
 
 #: stringdump_steam_2022_12_06.txt:2747
 msgid "Invasion cap (regulars, attack three+)"
-msgstr ""
+msgstr "入侵帽(怪物，攻击一个)"
 
 #: stringdump_steam_2022_12_06.txt:2748
 msgid "Invasion cap (monsters, attack two)"
-msgstr ""
+msgstr "入侵帽(怪物，攻击两次)"
 
 #: stringdump_steam_2022_12_06.txt:2749
 msgid "Werebeast attack period (seasons)"
-msgstr ""
+msgstr "野兽攻击时期(季节)"
 
 #: stringdump_steam_2022_12_06.txt:2750
 msgid "Wilderness irritation decay (more = safer)"
-msgstr ""
+msgstr "荒野刺激衰减(更=更安全)"
 
 #: stringdump_steam_2022_12_06.txt:2751
 msgid "Invasion cap (regulars, attack one)"
-msgstr ""
+msgstr "入侵帽(正规军，攻击1)"
 
 #: stringdump_steam_2022_12_06.txt:2752
 msgid "Vampire migrant fraction (more = safer)"
@@ -11408,11 +11411,11 @@ msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:2757
 msgid "Enemy trade trigger 5"
-msgstr ""
+msgstr "敌对贸易触发器5"
 
 #: stringdump_steam_2022_12_06.txt:2758
 msgid "Enemy trade trigger 4"
-msgstr ""
+msgstr "敌对贸易触发器2"
 
 #: stringdump_steam_2022_12_06.txt:2759
 msgid "Forgotten beast sensitivity (less = sooner)"
@@ -11424,7 +11427,7 @@ msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:2761
 msgid "Economy production trigger 1"
-msgstr ""
+msgstr "经济生产触发1"
 
 #: stringdump_steam_2022_12_06.txt:2762
 msgid "Economy population trigger 5"
@@ -11432,7 +11435,7 @@ msgstr "经济人口触发器5"
 
 #: stringdump_steam_2022_12_06.txt:2763
 msgid "Economy production trigger 3"
-msgstr ""
+msgstr "经济生产触发2"
 
 #: stringdump_steam_2022_12_06.txt:2764
 msgid "Economy production trigger 2"
@@ -13180,7 +13183,7 @@ msgstr "抢劫犯"
 
 #: stringdump_steam_2022_12_06.txt:3416
 msgid "the theft"
-msgstr "小偷"
+msgstr "盗窃"
 
 #: stringdump_steam_2022_12_06.txt:3417
 msgid "Subject revealed that "
@@ -14078,7 +14081,7 @@ msgstr "来自外地的问候。"
 
 #: stringdump_steam_2022_12_06.txt:3648
 msgid "Greetings from the Mountainhomes.  "
-msgstr "来自山岭家园的问候。"
+msgstr "来自山居的问候。"
 
 #: stringdump_steam_2022_12_06.txt:3649
 msgid "craftsman"
@@ -15172,7 +15175,7 @@ msgstr "点击一个生物来指定。"
 
 #: stringdump_steam_2022_12_06.txt:3920
 msgid "Burrow "
-msgstr "地洞"
+msgstr "洞所"
 
 #: stringdump_steam_2022_12_06.txt:3921
 msgid "Select how squads will use this space."
@@ -17439,35 +17442,35 @@ msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:4465
 msgid "Remove this route."
-msgstr ""
+msgstr "移除这条路线。"
 
 #: stringdump_steam_2022_12_06.txt:4466
 msgid "The assigned vehicle is moving toward this stop."
-msgstr ""
+msgstr "指定的车辆正在向这个站点移动。"
 
 #: stringdump_steam_2022_12_06.txt:4467
 msgid "The assigned vehicle is at this stop."
-msgstr ""
+msgstr "指定的车辆在这个站点。"
 
 #: stringdump_steam_2022_12_06.txt:4468
 msgid "Remove this stop."
-msgstr ""
+msgstr "移除这个站。"
 
 #: stringdump_steam_2022_12_06.txt:4469
 msgid "Name this stop."
-msgstr ""
+msgstr "给这个站命名。"
 
 #: stringdump_steam_2022_12_06.txt:4470
 msgid "Open the place information menu."
-msgstr ""
+msgstr "打开地点信息菜单。"
 
 #: stringdump_steam_2022_12_06.txt:4471
 msgid "Open the task information menu."
-msgstr ""
+msgstr "打开任务信息菜单。"
 
 #: stringdump_steam_2022_12_06.txt:4472
 msgid "Open the citizen information menu."
-msgstr ""
+msgstr "打开市民信息清单。"
 
 #: stringdump_steam_2022_12_06.txt:4473
 msgid ""
@@ -17477,7 +17480,7 @@ msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:4474
 msgid "Open the objects menu."
-msgstr ""
+msgstr "打开物品菜单。"
 
 #: stringdump_steam_2022_12_06.txt:4475
 msgid "Open the nobles and administrators menu."
@@ -17485,11 +17488,11 @@ msgstr "打开贵族和管理员菜单。"
 
 #: stringdump_steam_2022_12_06.txt:4476
 msgid "Open the work orders menu."
-msgstr ""
+msgstr "打开工作指令菜单。"
 
 #: stringdump_steam_2022_12_06.txt:4477
 msgid "Open the labor menu."
-msgstr ""
+msgstr "打开工作清单。"
 
 #: stringdump_steam_2022_12_06.txt:4478
 msgid ""
@@ -17526,7 +17529,7 @@ msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:4485
 msgid "Remove this condition."
-msgstr ""
+msgstr "删除此条件。"
 
 #: stringdump_steam_2022_12_06.txt:4486
 msgid "Leave this menu and recenter on the task's building."
@@ -17910,7 +17913,7 @@ msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:4573
 msgid "This item is part of the assigned squad equipment."
-msgstr ""
+msgstr "这件物品是已分配小队装备的一部分"
 
 #: stringdump_steam_2022_12_06.txt:4574
 msgid "The squad leader is traveling or otherwise occupied off-site."
@@ -20122,7 +20125,7 @@ msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:5060
 msgid "Choose a symbol for the burrow."
-msgstr ""
+msgstr "为洞所选择一个标志"
 
 #: stringdump_steam_2022_12_06.txt:5061
 msgid "Choose a symbol for the detail."
@@ -20278,7 +20281,7 @@ msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:5099
 msgid "change equipment, and"
-msgstr ""
+msgstr "改变装备,并"
 
 #: stringdump_steam_2022_12_06.txt:5100
 msgid "assign schedules."
@@ -20554,11 +20557,11 @@ msgstr "尚未分配"
 
 #: stringdump_steam_2022_12_06.txt:5168
 msgid "any material"
-msgstr ""
+msgstr "任何材料"
 
 #: stringdump_steam_2022_12_06.txt:5169
 msgid "any color"
-msgstr ""
+msgstr "任何颜色"
 
 #: stringdump_steam_2022_12_06.txt:5170
 msgid " (Dye)"
@@ -20566,7 +20569,7 @@ msgstr "（染料）"
 
 #: stringdump_steam_2022_12_06.txt:5171
 msgid "missing item"
-msgstr ""
+msgstr "缺少物品"
 
 #: stringdump_steam_2022_12_06.txt:5172
 msgid " (foreign)"
@@ -20606,11 +20609,11 @@ msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:5182
 msgid "(enter name here)"
-msgstr ""
+msgstr "(在此输入名称)"
 
 #: stringdump_steam_2022_12_06.txt:5183
 msgid "Confirm and save uniform"
-msgstr ""
+msgstr "确认并保存制服"
 
 #: stringdump_steam_2022_12_06.txt:5184
 msgid "Add uniform"
@@ -20618,11 +20621,11 @@ msgstr "添加制服"
 
 #: stringdump_steam_2022_12_06.txt:5185
 msgid "Update equipment"
-msgstr ""
+msgstr "升级装备"
 
 #: stringdump_steam_2022_12_06.txt:5186
 msgid "Custom uniform"
-msgstr ""
+msgstr "自定义制服"
 
 #: stringdump_steam_2022_12_06.txt:5187
 msgid "Details"
@@ -21018,7 +21021,7 @@ msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:5286
 msgid "[C:4:0:1]Bleeding"
-msgstr ""
+msgstr "[C:4:0:1]失血"
 
 #: stringdump_steam_2022_12_06.txt:5287
 msgid "Espionage."
@@ -21075,7 +21078,7 @@ msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:5300
 msgid "Attempted theft."
-msgstr ""
+msgstr "盗窃未遂。"
 
 #: stringdump_steam_2022_12_06.txt:5301
 msgid "Attempted kidnapping."
@@ -21091,31 +21094,31 @@ msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:5304
 msgid "[C:1:0:1]Drowsy"
-msgstr ""
+msgstr "[C:1:0:1]疲倦"
 
 #: stringdump_steam_2022_12_06.txt:5305
 msgid "[C:4:0:1]Starving"
-msgstr ""
+msgstr "[C:4:0:1]挨饿"
 
 #: stringdump_steam_2022_12_06.txt:5306
 msgid "[C:1:0:1]Thirsty"
-msgstr ""
+msgstr "[C:1:0:1]口渴"
 
 #: stringdump_steam_2022_12_06.txt:5307
 msgid "[C:7:0:0]Winded"
-msgstr ""
+msgstr "[C:7:0:0]呼吸困难"
 
 #: stringdump_steam_2022_12_06.txt:5308
 msgid "[C:1:0:1]Drowning"
-msgstr ""
+msgstr "[C:1:0:1]溺水"
 
 #: stringdump_steam_2022_12_06.txt:5309
 msgid "[C:4:0:1]Very drowsy"
-msgstr ""
+msgstr "[C:4:0:1]非常困倦"
 
 #: stringdump_steam_2022_12_06.txt:5310
 msgid "[C:2:0:1]Nauseous"
-msgstr ""
+msgstr "[C:2:0:1]恶心的"
 
 #: stringdump_steam_2022_12_06.txt:5311
 msgid "[C:4:0:0]Thirsty"
@@ -21279,127 +21282,127 @@ msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:5352
 msgid "[C:4:0:1]Vision lost"
-msgstr ""
+msgstr "[C:4:0:1]视力丧失"
 
 #: stringdump_steam_2022_12_06.txt:5353
 msgid "[C:6:0:1]Ability to stand lost"
-msgstr ""
+msgstr "[C:6:0:1]直立能力丧失"
 
 #: stringdump_steam_2022_12_06.txt:5354
 msgid "[C:7:0:0]Vision somewhat impaired"
-msgstr ""
+msgstr "[C:7:0:0]视力有些受损"
 
 #: stringdump_steam_2022_12_06.txt:5355
 msgid "[C:6:0:1]Hungry"
-msgstr ""
+msgstr "[C:6:0:1]饥饿"
 
 #: stringdump_steam_2022_12_06.txt:5356
 msgid "[C:4:0:1]Very hungry"
-msgstr ""
+msgstr "[C:4:0:1]非常饥饿"
 
 #: stringdump_steam_2022_12_06.txt:5357
 msgid "[C:7:0:0]Trouble breathing"
-msgstr ""
+msgstr "[C:7:0:0]呼吸困难"
 
 #: stringdump_steam_2022_12_06.txt:5358
 msgid "[C:4:0:1]Cannot breathe"
-msgstr ""
+msgstr "[C:4:0:1]无法呼吸"
 
 #: stringdump_steam_2022_12_06.txt:5359
 msgid "[C:7:0:1]Motor nerve damage"
-msgstr ""
+msgstr "[C:7:0:1]运动神经受损"
 
 #: stringdump_steam_2022_12_06.txt:5360
 msgid "[C:6:0:1]Ability to fly somewhat impaired"
-msgstr ""
+msgstr "[C:6:0:1]飞行能力有所受损"
 
 #: stringdump_steam_2022_12_06.txt:5361
 msgid "[C:7:0:0]No health problems"
-msgstr ""
+msgstr "[C:7:0:0]无健康问题"
 
 #: stringdump_steam_2022_12_06.txt:5362
 msgid "[C:7:0:1]Sensory nerve damage"
-msgstr ""
+msgstr "[C:7:0:1]感官神经受损"
 
 #: stringdump_steam_2022_12_06.txt:5363
 msgid "[C:6:0:1]Ability to grasp lost"
-msgstr ""
+msgstr "[C:6:0:1]抓取能力丧失"
 
 #: stringdump_steam_2022_12_06.txt:5364
 msgid "[C:6:0:1]Ability to stand somewhat impaired"
-msgstr ""
+msgstr "[C:6:0:1]直立能力有所受损"
 
 #: stringdump_steam_2022_12_06.txt:5365
 msgid "[C:6:0:1]Ability to fly lost"
-msgstr ""
+msgstr "[C:6:0:1]飞行能力丧失"
 
 #: stringdump_steam_2022_12_06.txt:5366
 msgid "[C:6:0:1]Ability to grasp somewhat impaired"
-msgstr ""
+msgstr "[C:6:0:1]抓取能力有所受损"
 
 #: stringdump_steam_2022_12_06.txt:5367
 msgid "[C:6:0:0].Minor frost-bite"
-msgstr ""
+msgstr "[C:6:0:0].轻微冻伤"
 
 #: stringdump_steam_2022_12_06.txt:5368
 msgid "[C:6:0:0].Moderate frost-bite"
-msgstr ""
+msgstr "[C:6:0:0].中度冻伤"
 
 #: stringdump_steam_2022_12_06.txt:5369
 msgid "[C:6:0:0].Moderate melting"
-msgstr ""
+msgstr "[C:6:0:0].中度融化"
 
 #: stringdump_steam_2022_12_06.txt:5370
 msgid "[C:6:0:0].Serious melting"
-msgstr ""
+msgstr "[C:6:0:0].严重融化"
 
 #: stringdump_steam_2022_12_06.txt:5371
 msgid "[C:6:0:0].Moderate burn"
-msgstr ""
+msgstr "[C:6:0:0].中度烧伤"
 
 #: stringdump_steam_2022_12_06.txt:5372
 msgid "[C:6:0:0].Serious burn"
-msgstr ""
+msgstr "[C:6:0:0].严重烧伤"
 
 #: stringdump_steam_2022_12_06.txt:5373
 msgid "[C:6:0:0].Serious frost-bite"
-msgstr ""
+msgstr "[C:6:0:0].严重冻伤"
 
 #: stringdump_steam_2022_12_06.txt:5374
 msgid "[C:6:0:0].Minor burn"
-msgstr "轻微烧伤"
+msgstr "[C:6:0:0].轻微烧伤"
 
 #: stringdump_steam_2022_12_06.txt:5375
 msgid "[C:6:0:0].Moderate freezing"
-msgstr ""
+msgstr "[C:6:0:0].中度冻结"
 
 #: stringdump_steam_2022_12_06.txt:5376
 msgid "[C:6:0:0].Serious freezing"
-msgstr ""
+msgstr "[C:6:0:0].严重冻结"
 
 #: stringdump_steam_2022_12_06.txt:5377
 msgid "[C:6:0:0].Serious condensation"
-msgstr ""
+msgstr "[C:6:0:0].中度冷凝"
 
 #: stringdump_steam_2022_12_06.txt:5378
 msgid "[C:6:0:0].Minor freezing"
-msgstr ""
+msgstr "[C:6:0:0].轻微冻结"
 
 #: stringdump_steam_2022_12_06.txt:5379
 msgid "[C:6:0:0].Serious boiling"
-msgstr ""
+msgstr "[C:6:0:0].严重沸腾"
 
 #: stringdump_steam_2022_12_06.txt:5380
 msgid "[C:6:0:0].Minor melting"
-msgstr ""
+msgstr "[C:6:0:0].轻微融化"
 
 #: stringdump_steam_2022_12_06.txt:5381
 msgid "[C:6:0:0].Minor boiling"
-msgstr ""
+msgstr "[C:6:0:0].轻微沸腾"
 
 #: stringdump_steam_2022_12_06.txt:5382
 msgid "[C:6:0:0].Moderate boiling"
-msgstr ""
+msgstr "[C:6:0:0].中度沸腾"
 
 #: stringdump_steam_2022_12_06.txt:5383
 msgid "[C:4:0:1].Smashed apart"
@@ -21423,7 +21426,7 @@ msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:5388
 msgid "[C:4:0:1].Compound fracture"
-msgstr ""
+msgstr "[C:4:0:1].复合性骨折"
 
 #: stringdump_steam_2022_12_06.txt:5389
 msgid "[C:6:0:1].Needs setting"
@@ -21435,19 +21438,19 @@ msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:5391
 msgid "[C:6:0:0].Heavy bruising"
-msgstr ""
+msgstr "[C:6:0:0].严重擦伤"
 
 #: stringdump_steam_2022_12_06.txt:5392
 msgid "[C:6:0:0].Dented"
-msgstr ""
+msgstr "[C:6:0:0].撞伤"
 
 #: stringdump_steam_2022_12_06.txt:5393
 msgid "[C:6:0:0].Light bruising"
-msgstr ""
+msgstr "[C:6:0:0].轻微擦伤"
 
 #: stringdump_steam_2022_12_06.txt:5394
 msgid "[C:6:0:0].Moderate bruising"
-msgstr ""
+msgstr "[C:6:0:0].中度擦伤"
 
 #: stringdump_steam_2022_12_06.txt:5395
 msgid "[C:4:0:1].Smashed open"
@@ -21467,47 +21470,47 @@ msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:5399
 msgid "[C:6:0:1].Minor swelling"
-msgstr ""
+msgstr "[C:6:0:1].轻微红肿"
 
 #: stringdump_steam_2022_12_06.txt:5400
 msgid "[C:6:0:1].Moderate swelling"
-msgstr ""
+msgstr "[C:6:0:1].中度红肿"
 
 #: stringdump_steam_2022_12_06.txt:5401
 msgid "[C:7:0:1].Partially impaired function"
-msgstr ""
+msgstr "[C:7:0:1].部分功能受损"
 
 #: stringdump_steam_2022_12_06.txt:5402
 msgid "[C:7:0:1].Function totally impaired"
-msgstr ""
+msgstr "[C:7:0:1].功能完全受损"
 
 #: stringdump_steam_2022_12_06.txt:5403
 msgid "[C:3:0:1].Partial numbness"
-msgstr ""
+msgstr "[C:3:0:1].局部麻痹"
 
 #: stringdump_steam_2022_12_06.txt:5404
 msgid "[C:3:0:1].Complete numbness"
-msgstr ""
+msgstr "[C:3:0:1].完全麻痹"
 
 #: stringdump_steam_2022_12_06.txt:5405
 msgid "[C:6:0:1].Extreme swelling"
-msgstr ""
+msgstr "[C:6:0:1].极度红肿"
 
 #: stringdump_steam_2022_12_06.txt:5406
 msgid "[C:3:0:1].Slight numbness"
-msgstr ""
+msgstr "[C:3:0:1].轻微麻痹"
 
 #: stringdump_steam_2022_12_06.txt:5407
 msgid "[C:7:0:1]Crutch required"
-msgstr ""
+msgstr "[C:7:0:1]需要拐杖"
 
 #: stringdump_steam_2022_12_06.txt:5408
 msgid "[C:7:0:1]Diagnosis required"
-msgstr ""
+msgstr "[C:7:0:1]需要诊断"
 
 #: stringdump_steam_2022_12_06.txt:5409
 msgid ".[C:3:0:1]Needs cleaning"
-msgstr ""
+msgstr "[C:3:0:1]需要清洁"
 
 #: stringdump_steam_2022_12_06.txt:5410
 msgid ".[C:5:0:1]Rotten -- inoperable"
@@ -21515,11 +21518,11 @@ msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:5411
 msgid "[C:7:0:1]Has been sutured"
-msgstr ""
+msgstr "[C:7:0:1]已经缝合"
 
 #: stringdump_steam_2022_12_06.txt:5412
 msgid "[C:7:0:1].Slightly impaired function"
-msgstr ""
+msgstr "[C:7:0:1].功能轻微受损"
 
 #: stringdump_steam_2022_12_06.txt:5413
 msgid "[C:7:0:0]No evaluated wounds"
@@ -21527,11 +21530,11 @@ msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:5414
 msgid "[C:5:0:1]Infection"
-msgstr ""
+msgstr "[C:5:0:1]感染"
 
 #: stringdump_steam_2022_12_06.txt:5415
 msgid "[C:6:0:0].Serious blistering"
-msgstr ""
+msgstr "[C:6:0:0].重度起泡"
 
 #: stringdump_steam_2022_12_06.txt:5416
 msgid "[C:5:0:1].Minor rot"
@@ -21539,11 +21542,11 @@ msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:5417
 msgid "[C:6:0:0].Minor blistering"
-msgstr ""
+msgstr "[C:6:0:0].轻微起泡"
 
 #: stringdump_steam_2022_12_06.txt:5418
 msgid "[C:6:0:0].Moderate blistering"
-msgstr ""
+msgstr "[C:6:0:0].中度起泡"
 
 #: stringdump_steam_2022_12_06.txt:5419
 msgid "[C:6:0:0].Minor condensation"
@@ -23998,7 +24001,7 @@ msgstr "水果和蔬菜市场"
 
 #: stringdump_steam_2022_12_06.txt:6044
 msgid " shrine"
-msgstr ""
+msgstr "圣祠"
 
 #: stringdump_steam_2022_12_06.txt:6045
 msgid "the processed goods market"
@@ -24937,7 +24940,7 @@ msgstr "我不记得我要说的是什么了......"
 
 #: stringdump_steam_2022_12_06.txt:6277
 msgid "I'm going to visit the shrine."
-msgstr "我要去拜访祭坛。"
+msgstr "我要去拜访圣祠。"
 
 #: stringdump_steam_2022_12_06.txt:6278
 msgid "I'm going out to the tavern."
@@ -24961,7 +24964,7 @@ msgstr "我正在巡逻。"
 
 #: stringdump_steam_2022_12_06.txt:6283
 msgid "I was out visiting the shrine."
-msgstr "我在外面参观祭坛。"
+msgstr "我在外面参观圣祠。"
 
 #: stringdump_steam_2022_12_06.txt:6284
 msgid "I was just out at the tavern."
@@ -25965,19 +25968,19 @@ msgstr "停下来思考。"
 
 #: stringdump_steam_2022_12_06.txt:6533
 msgid " engaged me to sabotage the activities of "
-msgstr ""
+msgstr "雇我去破坏"
 
 #: stringdump_steam_2022_12_06.txt:6534
 msgid " engaged me to infiltrate "
-msgstr ""
+msgstr "雇我去渗透"
 
 #: stringdump_steam_2022_12_06.txt:6535
 msgid " engaged me to assassinate "
-msgstr ""
+msgstr "雇我去暗杀"
 
 #: stringdump_steam_2022_12_06.txt:6536
 msgid " engaged me to abduct "
-msgstr ""
+msgstr "雇我去绑架"
 
 #: stringdump_steam_2022_12_06.txt:6537
 msgid " to obtain "
@@ -25985,15 +25988,15 @@ msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:6538
 msgid " sent me to engage "
-msgstr ""
+msgstr "派我去参与"
 
 #: stringdump_steam_2022_12_06.txt:6539
 msgid " to engage "
-msgstr ""
+msgstr "参与"
 
 #: stringdump_steam_2022_12_06.txt:6540
 msgid "I engaged "
-msgstr ""
+msgstr "我参与了"
 
 #: stringdump_steam_2022_12_06.txt:6541
 msgid "I have nothing to say to you."
@@ -29463,7 +29466,7 @@ msgstr "偷了"
 
 #: stringdump_steam_2022_12_06.txt:7501
 msgid "a counting house"
-msgstr ""
+msgstr "一个会计室"
 
 #: stringdump_steam_2022_12_06.txt:7502
 msgid "destroyed "
@@ -30075,7 +30078,7 @@ msgstr "一个好朋友"
 
 #: stringdump_steam_2022_12_06.txt:7654
 msgid " a kindred spirit"
-msgstr ""
+msgstr "一名同志"
 
 #: stringdump_steam_2022_12_06.txt:7655
 msgid ", but that bond seems so thin now."
@@ -30083,7 +30086,7 @@ msgstr "但是现在这种联系似乎很薄弱。"
 
 #: stringdump_steam_2022_12_06.txt:7656
 msgid " a friend"
-msgstr ""
+msgstr "一位朋友"
 
 #: stringdump_steam_2022_12_06.txt:7657
 msgid "loathe"
@@ -31590,7 +31593,7 @@ msgstr "我去过"
 
 #: stringdump_steam_2022_12_06.txt:8011
 msgid "I'm "
-msgstr ""
+msgstr "我"
 
 #: stringdump_steam_2022_12_06.txt:8012
 msgid "just fine"
@@ -31606,7 +31609,7 @@ msgstr "有人帮忙！"
 
 #: stringdump_steam_2022_12_06.txt:8015
 msgid "Rawr!!!"
-msgstr ""
+msgstr "吼!!!"
 
 #: stringdump_steam_2022_12_06.txt:8016
 msgid "The horror..."
@@ -34414,7 +34417,7 @@ msgstr "我对负责人喊道。"
 
 #: stringdump_steam_2022_12_06.txt:8717
 msgid "I was yelled at by an unhappy worshipper."
-msgstr ""
+msgstr "我被一个不高兴礼拜者大吼大叫了。"
 
 #: stringdump_steam_2022_12_06.txt:8718
 msgid "I told somebody that I am being prevented from leaving."
@@ -34426,7 +34429,7 @@ msgstr "我被一个不快乐的公民大吼大叫。"
 
 #: stringdump_steam_2022_12_06.txt:8720
 msgid "I was cried on by an unhappy worshipper."
-msgstr ""
+msgstr "我被一个不高兴的礼拜者弄哭了。"
 
 #: stringdump_steam_2022_12_06.txt:8721
 msgid "A visitor complained about being prevented from leaving."
@@ -34434,7 +34437,7 @@ msgstr "一位访客抱怨被禁止离开。"
 
 #: stringdump_steam_2022_12_06.txt:8722
 msgid "I was cried on by an unhappy citizen."
-msgstr "我被一个不快乐的公民哭了。"
+msgstr "我被一个不快乐的公民弄哭了。"
 
 #: stringdump_steam_2022_12_06.txt:8723
 msgid " on display"
@@ -34930,7 +34933,7 @@ msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:8846
 msgid " was ignored."
-msgstr ""
+msgstr "被忽视"
 
 #: stringdump_steam_2022_12_06.txt:8847
 msgid "The guildhall petition for "
@@ -34938,7 +34941,7 @@ msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:8848
 msgid " was abandoned."
-msgstr ""
+msgstr "被遗弃"
 
 #: stringdump_steam_2022_12_06.txt:8849
 msgid "I was rejected by "
@@ -34946,7 +34949,7 @@ msgstr "我被拒绝了"
 
 #: stringdump_steam_2022_12_06.txt:8850
 msgid "The agreement to establish a guildhall for "
-msgstr ""
+msgstr "建立公会的协议"
 
 #: stringdump_steam_2022_12_06.txt:8851
 msgid "My request was ignored."
@@ -35886,7 +35889,7 @@ msgstr "我接受了贿赂，以换取提供宽大处理。 "
 
 #: stringdump_steam_2022_12_06.txt:9085
 msgid "I was far away."
-msgstr ""
+msgstr "我离得太远了。"
 
 #: stringdump_steam_2022_12_06.txt:9086
 msgid "I received a cut of corruptly-obtained funds."
@@ -41483,7 +41486,7 @@ msgstr "索赔网站"
 
 #: stringdump_steam_2022_12_06.txt:12313
 msgid "Squad Defend Burrow"
-msgstr "小队保卫陋居"
+msgstr "小队保卫洞所"
 
 #: stringdump_steam_2022_12_06.txt:12314
 msgid "Squad Patrol"
@@ -41767,7 +41770,7 @@ msgstr "巢穴猎人"
 
 #: stringdump_steam_2022_12_06.txt:12384
 msgid "Squad Defend Burrow From Target"
-msgstr "小队从目标保卫陋居"
+msgstr "小队从目标保卫洞所"
 
 #: stringdump_steam_2022_12_06.txt:12385
 msgid "Come to Job Building"
@@ -42331,7 +42334,7 @@ msgstr "寻求害虫狩猎点"
 
 #: stringdump_steam_2022_12_06.txt:12525
 msgid "Prepare Equipment Manifests"
-msgstr "准备设备清单"
+msgstr "准备装备清单"
 
 #: stringdump_steam_2022_12_06.txt:12526
 msgid "Upgrade Squad Equipment"
@@ -43303,7 +43306,7 @@ msgstr "狂欢"
 
 #: stringdump_steam_2022_12_06.txt:12794
 msgid "rebirth"
-msgstr "新生"
+msgstr "重生"
 
 #: stringdump_steam_2022_12_06.txt:12795
 msgid "rainbows"
@@ -52201,19 +52204,19 @@ msgstr "投降"
 
 #: stringdump_steam_2022_12_06.txt:16452
 msgid " is a holy city"
-msgstr ""
+msgstr "是圣城"
 
 #: stringdump_steam_2022_12_06.txt:16453
 msgid "the declaration that "
-msgstr ""
+msgstr "声明说"
 
 #: stringdump_steam_2022_12_06.txt:16454
 msgid " to be a holy city"
-msgstr ""
+msgstr "成为圣城"
 
 #: stringdump_steam_2022_12_06.txt:16455
 msgid " declared "
-msgstr ""
+msgstr "宣布"
 
 #: stringdump_steam_2022_12_06.txt:16456
 msgid " devoured "
@@ -52285,7 +52288,7 @@ msgstr "大刀阔斧"
 
 #: stringdump_steam_2022_12_06.txt:16473
 msgid " as a means of torture"
-msgstr ""
+msgstr "作为一种折磨手段"
 
 #: stringdump_steam_2022_12_06.txt:16474
 msgid "stabbed"
@@ -52741,7 +52744,7 @@ msgstr "是第一个发现的"
 
 #: stringdump_steam_2022_12_06.txt:16588
 msgid "brawl with"
-msgstr ""
+msgstr "争吵与"
 
 #: stringdump_steam_2022_12_06.txt:16589
 msgid "confrontation of"
@@ -52881,7 +52884,7 @@ msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:16623
 msgid " equipment"
-msgstr "设备"
+msgstr "装备"
 
 #: stringdump_steam_2022_12_06.txt:16624
 msgid "masterwork"
@@ -54345,19 +54348,19 @@ msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:16989
 msgid "rebuilt"
-msgstr ""
+msgstr "重建"
 
 #: stringdump_steam_2022_12_06.txt:16990
 msgid "inherited"
-msgstr ""
+msgstr "继承"
 
 #: stringdump_steam_2022_12_06.txt:16991
 msgid "purchased"
-msgstr ""
+msgstr "购买"
 
 #: stringdump_steam_2022_12_06.txt:16992
 msgid "a feast hall"
-msgstr ""
+msgstr "一个节日大厅"
 
 #: stringdump_steam_2022_12_06.txt:16993
 msgid "a gated courtyard"
@@ -56809,7 +56812,7 @@ msgstr "著名的入侵者"
 
 #: stringdump_steam_2022_12_06.txt:17607
 msgid "a shrine"
-msgstr ""
+msgstr "一座圣祠"
 
 #: stringdump_steam_2022_12_06.txt:17608
 msgid "a shop"
@@ -60437,7 +60440,7 @@ msgstr "储存武器"
 
 #: stringdump_steam_2022_12_06.txt:19856
 msgid "Pickup equipment"
-msgstr ""
+msgstr "拾起武器"
 
 #: stringdump_steam_2022_12_06.txt:19857
 msgid "Store item in location"
@@ -64983,11 +64986,11 @@ msgstr "红树林地沼泽"
 
 #: stringdump_steam_2022_12_06.txt:23036
 msgid "Tropical Freshwater Marsh"
-msgstr "热带淡水草本沼泽"
+msgstr "热带淡水草本湿地"
 
 #: stringdump_steam_2022_12_06.txt:23037
 msgid "Tropical Saltwater Marsh"
-msgstr "热带咸水草本沼泽"
+msgstr "热带咸水草本湿地"
 
 #: stringdump_steam_2022_12_06.txt:23038
 msgid "Taiga"
@@ -65059,11 +65062,11 @@ msgstr "允许这种拒绝类型并继续报告其它消息。"
 
 #: stringdump_steam_2022_12_06.txt:23055
 msgid "Temperate Freshwater Marsh"
-msgstr "温带淡水草本沼泽"
+msgstr "温带淡水草本湿地"
 
 #: stringdump_steam_2022_12_06.txt:23056
 msgid "Temperate Saltwater Marsh"
-msgstr "温带咸水草本沼泽"
+msgstr "温带咸水草本湿地"
 
 #: stringdump_steam_2022_12_06.txt:23057
 msgid "Tropical Freshwater Swamp"
@@ -68268,7 +68271,7 @@ msgstr "发现这可能与之发生冲突"
 
 #: stringdump_steam_2022_12_06.txt:24004
 msgid " still holds the law in disdain"
-msgstr ""
+msgstr "仍然蔑视法律"
 
 #: stringdump_steam_2022_12_06.txt:24005
 msgid " believes in the importance of the rule of the law"
@@ -68280,7 +68283,7 @@ msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:24007
 msgid " natural tendencies"
-msgstr ""
+msgstr "自然倾向"
 
 #: stringdump_steam_2022_12_06.txt:24008
 msgid " sees the whole pursuit of art as a waste"
@@ -68304,7 +68307,7 @@ msgstr "从概念上讲，宁静比骚动更可取"
 
 #: stringdump_steam_2022_12_06.txt:24013
 msgid " still holds the idea of freedom itself in low regard"
-msgstr ""
+msgstr "仍然不重视自由的概念本身"
 
 #: stringdump_steam_2022_12_06.txt:24014
 msgid " feels intellectually that life should be more tumultuous"
@@ -68329,7 +68332,7 @@ msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:24019
 msgid " since "
-msgstr ""
+msgstr "当"
 
 #: stringdump_steam_2022_12_06.txt:24020
 msgid " is bothered by this since "
@@ -68337,7 +68340,7 @@ msgstr "从那以后就被这个困扰了"
 
 #: stringdump_steam_2022_12_06.txt:24021
 msgid " values friendship"
-msgstr ""
+msgstr "重视友谊"
 
 #: stringdump_steam_2022_12_06.txt:24022
 msgid " is burdened by this tendency because "
@@ -68349,7 +68352,7 @@ msgstr "不喜欢友谊的想法"
 
 #: stringdump_steam_2022_12_06.txt:24024
 msgid " truly respects sacrifice"
-msgstr ""
+msgstr "真正尊重牺牲"
 
 #: stringdump_steam_2022_12_06.txt:24025
 msgid " dislikes this sort of concealment in the abstract"
@@ -68357,7 +68360,7 @@ msgstr "不喜欢这种抽象的隐瞒"
 
 #: stringdump_steam_2022_12_06.txt:24026
 msgid " wishes this were not the case as "
-msgstr ""
+msgstr "真希望不是这样"
 
 #: stringdump_steam_2022_12_06.txt:24027
 msgid " considers altruism foolish"
@@ -68399,11 +68402,11 @@ msgstr "接近冲突"
 
 #: stringdump_steam_2022_12_06.txt:24036
 msgid "a new romance"
-msgstr ""
+msgstr "一段新的浪漫"
 
 #: stringdump_steam_2022_12_06.txt:24037
 msgid " caught up in "
-msgstr ""
+msgstr "陷入"
 
 #: stringdump_steam_2022_12_06.txt:24038
 msgid "playing make believe"
@@ -68411,7 +68414,7 @@ msgstr "正在玩假扮游戏"
 
 #: stringdump_steam_2022_12_06.txt:24039
 msgid "realizing "
-msgstr ""
+msgstr "实现"
 
 #: stringdump_steam_2022_12_06.txt:24040
 msgid "leaving a performance troupe"
@@ -68419,7 +68422,7 @@ msgstr "离开表演团"
 
 #: stringdump_steam_2022_12_06.txt:24041
 msgid "hearing a rumor"
-msgstr ""
+msgstr "听到谣言"
 
 #: stringdump_steam_2022_12_06.txt:24042
 msgid "being removed from a military group"
@@ -68431,7 +68434,7 @@ msgstr "被从表演团队中删除"
 
 #: stringdump_steam_2022_12_06.txt:24044
 msgid "a site was controlled"
-msgstr ""
+msgstr "一个站点被控制"
 
 #: stringdump_steam_2022_12_06.txt:24045
 msgid "joining a traveling group"
@@ -68439,7 +68442,7 @@ msgstr "加入旅行团"
 
 #: stringdump_steam_2022_12_06.txt:24046
 msgid "an incident"
-msgstr ""
+msgstr "一个事件"
 
 #: stringdump_steam_2022_12_06.txt:24047
 msgid "a tribute cancellation"
@@ -68447,15 +68450,15 @@ msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:24048
 msgid "attending a sermon"
-msgstr ""
+msgstr "参加布道"
 
 #: stringdump_steam_2022_12_06.txt:24049
 msgid "giving a sermon"
-msgstr ""
+msgstr "布道"
 
 #: stringdump_steam_2022_12_06.txt:24050
 msgid "producing a masterwork"
-msgstr ""
+msgstr "制作杰作"
 
 #: stringdump_steam_2022_12_06.txt:24051
 msgid "watching a performance"
@@ -68463,11 +68466,11 @@ msgstr "看表演"
 
 #: stringdump_steam_2022_12_06.txt:24052
 msgid "being reunited with a loved one"
-msgstr ""
+msgstr "与心爱的人团聚"
 
 #: stringdump_steam_2022_12_06.txt:24053
 msgid "killing somebody"
-msgstr ""
+msgstr "杀掉某人"
 
 #: stringdump_steam_2022_12_06.txt:24054
 msgid "joining an existing conflict"
@@ -68475,15 +68478,15 @@ msgstr "加入现有的冲突"
 
 #: stringdump_steam_2022_12_06.txt:24055
 msgid "being caught sneaking"
-msgstr ""
+msgstr "偷溜被抓"
 
 #: stringdump_steam_2022_12_06.txt:24056
 msgid "getting divorced"
-msgstr ""
+msgstr "离婚"
 
 #: stringdump_steam_2022_12_06.txt:24057
 msgid "a break up"
-msgstr ""
+msgstr "分手"
 
 #: stringdump_steam_2022_12_06.txt:24058
 msgid "you were"
@@ -68495,7 +68498,7 @@ msgstr "如"
 
 #: stringdump_steam_2022_12_06.txt:24060
 msgid "upon "
-msgstr ""
+msgstr "在"
 
 #: stringdump_steam_2022_12_06.txt:24061
 msgid "creating an artifact"
@@ -68507,7 +68510,7 @@ msgstr "掌握"
 
 #: stringdump_steam_2022_12_06.txt:24063
 msgid "improving "
-msgstr ""
+msgstr "改善"
 
 #: stringdump_steam_2022_12_06.txt:24064
 msgid "less inclined to create"
@@ -68539,7 +68542,7 @@ msgstr "更倾向于实用"
 
 #: stringdump_steam_2022_12_06.txt:24071
 msgid "less of a thrill seeker"
-msgstr ""
+msgstr "不是一个寻求刺激的人"
 
 #: stringdump_steam_2022_12_06.txt:24072
 msgid "the unexpected death of somebody"
@@ -68563,11 +68566,11 @@ msgstr "死亡"
 
 #: stringdump_steam_2022_12_06.txt:24077
 msgid "seeing "
-msgstr ""
+msgstr "看到"
 
 #: stringdump_steam_2022_12_06.txt:24078
 msgid " dead body"
-msgstr ""
+msgstr "尸体"
 
 #: stringdump_steam_2022_12_06.txt:24079
 msgid "somebody's"
@@ -68639,7 +68642,7 @@ msgstr "不那么痴迷"
 
 #: stringdump_steam_2022_12_06.txt:24096
 msgid " by a dead sibling"
-msgstr ""
+msgstr "被死去的兄弟姐妹"
 
 #: stringdump_steam_2022_12_06.txt:24097
 msgid " by a dead lover"
@@ -68647,11 +68650,11 @@ msgstr "死去的恋人"
 
 #: stringdump_steam_2022_12_06.txt:24098
 msgid " by a dead friend"
-msgstr ""
+msgstr "一个死去的朋友"
 
 #: stringdump_steam_2022_12_06.txt:24099
 msgid " by a dead animal training partner"
-msgstr ""
+msgstr "一个死去的动物训练搭档"
 
 #: stringdump_steam_2022_12_06.txt:24100
 msgid "being "
@@ -68663,23 +68666,23 @@ msgstr "被死者噩梦折磨"
 
 #: stringdump_steam_2022_12_06.txt:24102
 msgid " by a dead spouse"
-msgstr ""
+msgstr "死去的配偶"
 
 #: stringdump_steam_2022_12_06.txt:24103
 msgid " by a dead pet"
-msgstr ""
+msgstr "一只死去的宠物"
 
 #: stringdump_steam_2022_12_06.txt:24104
 msgid "being unable to petition for citizenship"
-msgstr ""
+msgstr "不能申请公民身份的"
 
 #: stringdump_steam_2022_12_06.txt:24105
 msgid "a sparring session"
-msgstr ""
+msgstr "拳击比赛"
 
 #: stringdump_steam_2022_12_06.txt:24106
 msgid "being unable to make suggestions about work allocations"
-msgstr ""
+msgstr "无法就工作分配提出建议"
 
 #: stringdump_steam_2022_12_06.txt:24107
 msgid "being unable to find somebody to complain to about job scarcity"
@@ -70184,7 +70187,7 @@ msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:24482
 msgid "being far away"
-msgstr ""
+msgstr "远离"
 
 #: stringdump_steam_2022_12_06.txt:24483
 msgid "receiving a cut of corruptly-obtained funds"
@@ -76354,11 +76357,11 @@ msgstr "沙漠"
 
 #: stringdump_steam_2022_12_06.txt:27372
 msgid "swamp"
-msgstr "林沼"
+msgstr "沼泽"
 
 #: stringdump_steam_2022_12_06.txt:27373
 msgid "marsh"
-msgstr "沼泽"
+msgstr "湿地"
 
 #: stringdump_steam_2022_12_06.txt:27374
 msgid "terror-inspiring antics"
@@ -77273,7 +77276,7 @@ msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:27756
 msgid "[IS_TRIGGER_STRING:been blessed with improved equipment!]"
-msgstr ""
+msgstr "[IS_TRIGGER_STRING:被改良的装备祝福!]"
 
 #: stringdump_steam_2022_12_06.txt:27778
 msgid "bell-shaped"
@@ -77642,7 +77645,7 @@ msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:28003
 msgid "[NAME:war hammer:war hammers]"
-msgstr ""
+msgstr "[NAME:战锤:战锤]"
 
 #: stringdump_steam_2022_12_06.txt:28004
 msgid "bent"
@@ -77658,7 +77661,7 @@ msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:28012
 msgid "[NAME:battle axe:battle axes]"
-msgstr ""
+msgstr "[NAME:战斧:战斧]"
 
 #: stringdump_steam_2022_12_06.txt:28015
 msgid "[ATTACK:EDGE:1:50:stick:sticks:NO_SUB:1000]"
@@ -77670,7 +77673,7 @@ msgstr "双尖的"
 
 #: stringdump_steam_2022_12_06.txt:28018
 msgid "[NAME:great axe:great axes]"
-msgstr ""
+msgstr "[NAME:巨斧:巨斧]"
 
 #: stringdump_steam_2022_12_06.txt:28020
 msgid "[ATTACK:EDGE:20000:8000:slash:slashes:NO_SUB:1250]"
@@ -77682,7 +77685,7 @@ msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:28022
 msgid "[NAME:halberd:halberds]"
-msgstr ""
+msgstr "[NAME:戟:戟]"
 
 #: stringdump_steam_2022_12_06.txt:28024
 msgid "[ATTACK:EDGE:40000:6000:hack:hacks:NO_SUB:1250]"
@@ -77778,7 +77781,7 @@ msgstr "关于社会福利的讨论"
 
 #: stringdump_steam_2022_12_06.txt:28100
 msgid "discourse on the nature of beauty"
-msgstr ""
+msgstr "关于美的本质的论述"
 
 #: stringdump_steam_2022_12_06.txt:28101
 msgid "discourse on government"
@@ -77834,7 +77837,7 @@ msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:28114
 msgid "the idea of using symbolic notation for addition"
-msgstr ""
+msgstr "用符号化的表示法来做加法的概念"
 
 #: stringdump_steam_2022_12_06.txt:28115
 msgid "discourse on the nature of time"
@@ -78075,7 +78078,7 @@ msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:28169
 msgid "positional notation"
-msgstr ""
+msgstr "进位制"
 
 #: stringdump_steam_2022_12_06.txt:28170
 msgid "geometric objects:  points, lines, circles, triangles, and so on"
@@ -78175,7 +78178,7 @@ msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:28194
 msgid "syllogistic logic"
-msgstr ""
+msgstr "三段论逻辑"
 
 #: stringdump_steam_2022_12_06.txt:28195
 msgid "the nature of time"
@@ -78368,7 +78371,7 @@ msgstr "来源的可靠性"
 
 #: stringdump_steam_2022_12_06.txt:28239
 msgid "experiments with symbolic notation for addition"
-msgstr ""
+msgstr "用符号化的表示法来做加法的实验"
 
 #: stringdump_steam_2022_12_06.txt:28240
 msgid "the divergence of the harmonic series"
@@ -79029,7 +79032,7 @@ msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:28399
 msgid "the construction and use of the crank"
-msgstr ""
+msgstr "曲柄的构造和使用"
 
 #: stringdump_steam_2022_12_06.txt:28400
 msgid "the construction and use of the bellows"
@@ -79055,7 +79058,7 @@ msgstr "她"
 
 #: stringdump_steam_2022_12_06.txt:28408
 msgid "the construction and use of the astrolabe"
-msgstr ""
+msgstr "星盘的构造和使用"
 
 #: stringdump_steam_2022_12_06.txt:28409
 msgid "the construction and use of the armillary sphere"
@@ -79067,7 +79070,7 @@ msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:28411
 msgid "the construction and use of the dioptra"
-msgstr ""
+msgstr "望筒的结构和使用"
 
 #: stringdump_steam_2022_12_06.txt:28412
 msgid "the relation between refraction and the half chord"
@@ -79113,7 +79116,7 @@ msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:28422
 msgid "the construction and use of the spherical astrolabe"
-msgstr ""
+msgstr "球形星盘的构造和使用"
 
 #: stringdump_steam_2022_12_06.txt:28423
 msgid "the construction and use of mural instruments"
@@ -79221,7 +79224,7 @@ msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:28449
 msgid "the construction and use of the crankshaft"
-msgstr ""
+msgstr "曲轴的构造和使用"
 
 #: stringdump_steam_2022_12_06.txt:28450
 msgid "the construction and use of the tumbler lock"
@@ -80089,7 +80092,7 @@ msgstr "二次公式"
 
 #: stringdump_steam_2022_12_06.txt:28667
 msgid "Notation"
-msgstr "符号"
+msgstr "表示法"
 
 #: stringdump_steam_2022_12_06.txt:28668
 msgid "Completing the Square"
@@ -80465,7 +80468,7 @@ msgstr "面试"
 
 #: stringdump_steam_2022_12_06.txt:28761
 msgid "Summaries"
-msgstr ""
+msgstr "总结"
 
 #: stringdump_steam_2022_12_06.txt:28762
 msgid "Adventure"
@@ -80493,7 +80496,7 @@ msgstr "债券"
 
 #: stringdump_steam_2022_12_06.txt:28768
 msgid "Disputes"
-msgstr ""
+msgstr "争议"
 
 #: stringdump_steam_2022_12_06.txt:28769
 msgid "Flasks"
@@ -80501,19 +80504,19 @@ msgstr "保温瓶"
 
 #: stringdump_steam_2022_12_06.txt:28770
 msgid "the Beaker"
-msgstr ""
+msgstr "烧杯"
 
 #: stringdump_steam_2022_12_06.txt:28771
 msgid "the Laboratory"
-msgstr ""
+msgstr "实验室"
 
 #: stringdump_steam_2022_12_06.txt:28772
 msgid "the Flask"
-msgstr ""
+msgstr "长颈瓶"
 
 #: stringdump_steam_2022_12_06.txt:28773
 msgid "Acids and Alkalis"
-msgstr ""
+msgstr "酸和碱"
 
 #: stringdump_steam_2022_12_06.txt:28774
 msgid "Experiments"
@@ -80533,7 +80536,7 @@ msgstr "坩埚"
 
 #: stringdump_steam_2022_12_06.txt:28778
 msgid "Spirit of Niter"
-msgstr ""
+msgstr "硝酸乙酯的酒精溶液"
 
 #: stringdump_steam_2022_12_06.txt:28779
 msgid "Funnels"
@@ -80545,7 +80548,7 @@ msgstr "克鲁斯堡"
 
 #: stringdump_steam_2022_12_06.txt:28781
 msgid "Vials"
-msgstr ""
+msgstr "样本瓶"
 
 #: stringdump_steam_2022_12_06.txt:28782
 msgid "the Funnel"
@@ -80553,15 +80556,15 @@ msgstr "漏斗"
 
 #: stringdump_steam_2022_12_06.txt:28783
 msgid "Beakers"
-msgstr ""
+msgstr "烧杯"
 
 #: stringdump_steam_2022_12_06.txt:28784
 msgid "the Vial"
-msgstr ""
+msgstr "样本瓶"
 
 #: stringdump_steam_2022_12_06.txt:28785
 msgid "Composition"
-msgstr ""
+msgstr "创作"
 
 #: stringdump_steam_2022_12_06.txt:28786
 msgid "Adhesives"
@@ -80573,7 +80576,7 @@ msgstr "划痕测试"
 
 #: stringdump_steam_2022_12_06.txt:28788
 msgid "the Elements"
-msgstr ""
+msgstr "元素"
 
 #: stringdump_steam_2022_12_06.txt:28789
 msgid "Alloys"
@@ -80581,7 +80584,7 @@ msgstr "合金"
 
 #: stringdump_steam_2022_12_06.txt:28790
 msgid "Hardness"
-msgstr ""
+msgstr "硬度"
 
 #: stringdump_steam_2022_12_06.txt:28791
 msgid "Minerals"
@@ -80597,15 +80600,15 @@ msgstr "解决方案"
 
 #: stringdump_steam_2022_12_06.txt:28794
 msgid "Distillation"
-msgstr ""
+msgstr "蒸馏"
 
 #: stringdump_steam_2022_12_06.txt:28795
 msgid "Alembics"
-msgstr ""
+msgstr "蒸馏器"
 
 #: stringdump_steam_2022_12_06.txt:28796
 msgid "the Liquids"
-msgstr ""
+msgstr "液体"
 
 #: stringdump_steam_2022_12_06.txt:28797
 msgid "the Blast Furnace"
@@ -80613,7 +80616,7 @@ msgstr "高炉"
 
 #: stringdump_steam_2022_12_06.txt:28798
 msgid "the Alembic"
-msgstr ""
+msgstr "蒸馏器"
 
 #: stringdump_steam_2022_12_06.txt:28799
 msgid "Glue"
@@ -80645,7 +80648,7 @@ msgstr "捕食者和猎物"
 
 #: stringdump_steam_2022_12_06.txt:28806
 msgid "Social Animals"
-msgstr ""
+msgstr "群居动物"
 
 #: stringdump_steam_2022_12_06.txt:28807
 msgid "Animal Diets"
@@ -80653,11 +80656,11 @@ msgstr "动物饮食"
 
 #: stringdump_steam_2022_12_06.txt:28808
 msgid "the Food Chain"
-msgstr ""
+msgstr "食物链"
 
 #: stringdump_steam_2022_12_06.txt:28809
 msgid "Combustion"
-msgstr ""
+msgstr "氧化"
 
 #: stringdump_steam_2022_12_06.txt:28810
 msgid "Ores"
@@ -80693,7 +80696,7 @@ msgstr "解剖"
 
 #: stringdump_steam_2022_12_06.txt:28818
 msgid "the Creatures"
-msgstr ""
+msgstr "生物"
 
 #: stringdump_steam_2022_12_06.txt:28819
 msgid "Dissection"
@@ -80713,11 +80716,11 @@ msgstr "路径"
 
 #: stringdump_steam_2022_12_06.txt:28823
 msgid "the Equinoxes"
-msgstr ""
+msgstr "春秋分"
 
 #: stringdump_steam_2022_12_06.txt:28824
 msgid "Precession"
-msgstr ""
+msgstr "岁差"
 
 #: stringdump_steam_2022_12_06.txt:28825
 msgid "Animal Courtship"
@@ -80733,11 +80736,11 @@ msgstr "交配"
 
 #: stringdump_steam_2022_12_06.txt:28828
 msgid "Reproduction"
-msgstr ""
+msgstr "繁殖"
 
 #: stringdump_steam_2022_12_06.txt:28829
 msgid "Migration"
-msgstr ""
+msgstr "移民"
 
 #: stringdump_steam_2022_12_06.txt:28830
 msgid "the Movement of Animals"
@@ -80745,7 +80748,7 @@ msgstr "动物运动"
 
 #: stringdump_steam_2022_12_06.txt:28831
 msgid "the Animals"
-msgstr ""
+msgstr "动物"
 
 #: stringdump_steam_2022_12_06.txt:28832
 msgid "Classification"
@@ -80757,11 +80760,11 @@ msgstr "绷带"
 
 #: stringdump_steam_2022_12_06.txt:28834
 msgid "Wound Wrapping"
-msgstr ""
+msgstr "伤口缝合"
 
 #: stringdump_steam_2022_12_06.txt:28835
 msgid "Animal Remedies"
-msgstr "动物救济"
+msgstr "动物疗法"
 
 #: stringdump_steam_2022_12_06.txt:28836
 msgid "Mineral Remedies"
@@ -80773,11 +80776,11 @@ msgstr "草药疗法"
 
 #: stringdump_steam_2022_12_06.txt:28838
 msgid "the Healing Plants"
-msgstr ""
+msgstr "药用植物"
 
 #: stringdump_steam_2022_12_06.txt:28839
 msgid "Prognosis"
-msgstr ""
+msgstr "预后"
 
 #: stringdump_steam_2022_12_06.txt:28840
 msgid "the Course of Disease"
@@ -80805,7 +80808,7 @@ msgstr "疾病分类"
 
 #: stringdump_steam_2022_12_06.txt:28846
 msgid "Toxic Substances"
-msgstr ""
+msgstr "有毒物质"
 
 #: stringdump_steam_2022_12_06.txt:28847
 msgid "Diseases"
@@ -80825,7 +80828,7 @@ msgstr "气候区"
 
 #: stringdump_steam_2022_12_06.txt:28851
 msgid "the Water Cycle"
-msgstr ""
+msgstr "水循环"
 
 #: stringdump_steam_2022_12_06.txt:28852
 msgid "Rainfall and Rivers"
@@ -80837,7 +80840,7 @@ msgstr "降雨的起源"
 
 #: stringdump_steam_2022_12_06.txt:28854
 msgid "Evaporation and Condensation"
-msgstr ""
+msgstr "蒸发和凝结"
 
 #: stringdump_steam_2022_12_06.txt:28855
 msgid "Wind Patterns"
@@ -80849,7 +80852,7 @@ msgstr "风向"
 
 #: stringdump_steam_2022_12_06.txt:28857
 msgid "Autopsy"
-msgstr ""
+msgstr "尸体剖检"
 
 #: stringdump_steam_2022_12_06.txt:28858
 msgid "Examination of the Dead"
@@ -80865,7 +80868,7 @@ msgstr "考试"
 
 #: stringdump_steam_2022_12_06.txt:28861
 msgid "Fouled Water"
-msgstr ""
+msgstr "污水"
 
 #: stringdump_steam_2022_12_06.txt:28862
 msgid "Disease and Water"
@@ -80877,7 +80880,7 @@ msgstr "地图和世界"
 
 #: stringdump_steam_2022_12_06.txt:28864
 msgid "Adjusting Maps"
-msgstr ""
+msgstr "调整地图"
 
 #: stringdump_steam_2022_12_06.txt:28865
 msgid "the Distance Scale"
@@ -80889,7 +80892,7 @@ msgstr "地图和距离"
 
 #: stringdump_steam_2022_12_06.txt:28867
 msgid "the Grid"
-msgstr ""
+msgstr "网格"
 
 #: stringdump_steam_2022_12_06.txt:28868
 msgid "Map Grids"
@@ -80897,7 +80900,7 @@ msgstr "地图网格"
 
 #: stringdump_steam_2022_12_06.txt:28869
 msgid "the Straight Road"
-msgstr ""
+msgstr "直道"
 
 #: stringdump_steam_2022_12_06.txt:28870
 msgid "Minerals and Maps"
@@ -80913,7 +80916,7 @@ msgstr "测量和战争"
 
 #: stringdump_steam_2022_12_06.txt:28873
 msgid "the Delta"
-msgstr ""
+msgstr "三角洲"
 
 #: stringdump_steam_2022_12_06.txt:28874
 msgid "the Wind"
@@ -80941,15 +80944,15 @@ msgstr "高度测量"
 
 #: stringdump_steam_2022_12_06.txt:28880
 msgid "Mountains and Valleys"
-msgstr ""
+msgstr "山脉于山谷"
 
 #: stringdump_steam_2022_12_06.txt:28881
 msgid "the Laboratory Oven"
-msgstr ""
+msgstr "实验室烘箱"
 
 #: stringdump_steam_2022_12_06.txt:28882
 msgid "Laboratory Ovens"
-msgstr ""
+msgstr "实验室烘箱"
 
 #: stringdump_steam_2022_12_06.txt:28883
 msgid "the Retort"
@@ -80957,7 +80960,7 @@ msgstr "反驳"
 
 #: stringdump_steam_2022_12_06.txt:28884
 msgid "Retorts"
-msgstr ""
+msgstr "曲颈瓶"
 
 #: stringdump_steam_2022_12_06.txt:28885
 msgid "the Ampoule"
@@ -80969,19 +80972,19 @@ msgstr "安瓿"
 
 #: stringdump_steam_2022_12_06.txt:28887
 msgid "Oil of Vitriol"
-msgstr ""
+msgstr "浓硫酸"
 
 #: stringdump_steam_2022_12_06.txt:28888
 msgid "Aqua Regia"
-msgstr ""
+msgstr "王水"
 
 #: stringdump_steam_2022_12_06.txt:28889
 msgid "Mapmaking"
-msgstr ""
+msgstr "绘图法"
 
 #: stringdump_steam_2022_12_06.txt:28890
 msgid "Triangulation"
-msgstr ""
+msgstr "三角测量"
 
 #: stringdump_steam_2022_12_06.txt:28891
 msgid "Maps"
@@ -80989,11 +80992,11 @@ msgstr "地图"
 
 #: stringdump_steam_2022_12_06.txt:28892
 msgid "Making Maps"
-msgstr ""
+msgstr "制作地图"
 
 #: stringdump_steam_2022_12_06.txt:28893
 msgid "the Staff"
-msgstr ""
+msgstr "人员"
 
 #: stringdump_steam_2022_12_06.txt:28894
 msgid "the Map"
@@ -81001,7 +81004,7 @@ msgstr "地图"
 
 #: stringdump_steam_2022_12_06.txt:28895
 msgid "Surveying"
-msgstr ""
+msgstr "测量"
 
 #: stringdump_steam_2022_12_06.txt:28896
 msgid "the Surveying Staff"
@@ -81009,11 +81012,11 @@ msgstr "测量人员"
 
 #: stringdump_steam_2022_12_06.txt:28897
 msgid "Circulation"
-msgstr ""
+msgstr "循环"
 
 #: stringdump_steam_2022_12_06.txt:28898
 msgid "Blood and Breath"
-msgstr ""
+msgstr "血液与呼吸"
 
 #: stringdump_steam_2022_12_06.txt:28899
 msgid "Veins and Arteries"
@@ -81025,7 +81028,7 @@ msgstr "血管"
 
 #: stringdump_steam_2022_12_06.txt:28901
 msgid "Types of Nerves"
-msgstr ""
+msgstr "神经类型"
 
 #: stringdump_steam_2022_12_06.txt:28902
 msgid "Reaction Time"
@@ -81033,11 +81036,11 @@ msgstr "反应时间"
 
 #: stringdump_steam_2022_12_06.txt:28903
 msgid "the Anatomy of the Eye"
-msgstr ""
+msgstr "眼部解剖"
 
 #: stringdump_steam_2022_12_06.txt:28904
 msgid "the Nerves"
-msgstr ""
+msgstr "神经"
 
 #: stringdump_steam_2022_12_06.txt:28905
 msgid "Medical School"
@@ -81077,31 +81080,31 @@ msgstr "手术剪刀"
 
 #: stringdump_steam_2022_12_06.txt:28914
 msgid "the Surgical Needle"
-msgstr ""
+msgstr "手术针"
 
 #: stringdump_steam_2022_12_06.txt:28915
 msgid "the Scalpel"
-msgstr ""
+msgstr "手术刀"
 
 #: stringdump_steam_2022_12_06.txt:28916
 msgid "Scalpels"
-msgstr ""
+msgstr "手术刀"
 
 #: stringdump_steam_2022_12_06.txt:28917
 msgid "Surgical Instruments"
-msgstr ""
+msgstr "外科仪器"
 
 #: stringdump_steam_2022_12_06.txt:28918
 msgid "Forceps"
-msgstr ""
+msgstr "钳"
 
 #: stringdump_steam_2022_12_06.txt:28919
 msgid "Surgery Models"
-msgstr ""
+msgstr "外科模型"
 
 #: stringdump_steam_2022_12_06.txt:28920
 msgid "Surgical Tools"
-msgstr ""
+msgstr "外科工具"
 
 #: stringdump_steam_2022_12_06.txt:28921
 msgid "the Fluids"
@@ -81129,7 +81132,7 @@ msgstr "腐蚀"
 
 #: stringdump_steam_2022_12_06.txt:28927
 msgid "Surgical Needles"
-msgstr ""
+msgstr "手术针"
 
 #: stringdump_steam_2022_12_06.txt:28928
 msgid "Cataracts"
@@ -81137,11 +81140,11 @@ msgstr "白内障"
 
 #: stringdump_steam_2022_12_06.txt:28929
 msgid "Incision"
-msgstr ""
+msgstr "切口"
 
 #: stringdump_steam_2022_12_06.txt:28930
 msgid "Hernia"
-msgstr ""
+msgstr "疝气"
 
 #: stringdump_steam_2022_12_06.txt:28931
 msgid "the Cast"
@@ -81149,11 +81152,11 @@ msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:28932
 msgid "Excision"
-msgstr ""
+msgstr "切除"
 
 #: stringdump_steam_2022_12_06.txt:28933
 msgid "the Traction Bench"
-msgstr ""
+msgstr "牵引台"
 
 #: stringdump_steam_2022_12_06.txt:28934
 msgid "Immobilization"
@@ -81165,7 +81168,7 @@ msgstr "不同的骨折"
 
 #: stringdump_steam_2022_12_06.txt:28936
 msgid "Traction"
-msgstr ""
+msgstr "牵引"
 
 #: stringdump_steam_2022_12_06.txt:28937
 msgid "Ligature"
@@ -81177,7 +81180,7 @@ msgstr "练习手术"
 
 #: stringdump_steam_2022_12_06.txt:28939
 msgid "Probing"
-msgstr ""
+msgstr "探索"
 
 #: stringdump_steam_2022_12_06.txt:28940
 msgid "Sutures"
@@ -81197,7 +81200,7 @@ msgstr "气管切开术"
 
 #: stringdump_steam_2022_12_06.txt:28944
 msgid "Removing Stones"
-msgstr ""
+msgstr "移开石块"
 
 #: stringdump_steam_2022_12_06.txt:28945
 msgid "Relapse"
@@ -81213,7 +81216,7 @@ msgstr "发作"
 
 #: stringdump_steam_2022_12_06.txt:28948
 msgid "Sudden Attacks"
-msgstr ""
+msgstr "奇袭"
 
 #: stringdump_steam_2022_12_06.txt:28949
 msgid "Contagion"
@@ -81245,7 +81248,7 @@ msgstr "骨折"
 
 #: stringdump_steam_2022_12_06.txt:28956
 msgid "Breaks"
-msgstr ""
+msgstr "休息"
 
 #: stringdump_steam_2022_12_06.txt:28957
 msgid "the Injury"
@@ -81253,15 +81256,15 @@ msgstr "伤口"
 
 #: stringdump_steam_2022_12_06.txt:28958
 msgid "Treating Injuries"
-msgstr ""
+msgstr "治疗损伤"
 
 #: stringdump_steam_2022_12_06.txt:28959
 msgid "Trauma"
-msgstr ""
+msgstr "创伤"
 
 #: stringdump_steam_2022_12_06.txt:28960
 msgid "Injuries"
-msgstr ""
+msgstr "损伤"
 
 #: stringdump_steam_2022_12_06.txt:28961
 msgid "the Parabolic Mirror"
@@ -81277,11 +81280,11 @@ msgstr "镜头"
 
 #: stringdump_steam_2022_12_06.txt:28964
 msgid "the Camera Obscura"
-msgstr ""
+msgstr "暗箱"
 
 #: stringdump_steam_2022_12_06.txt:28965
 msgid "Force Pumps"
-msgstr ""
+msgstr "压力泵"
 
 #: stringdump_steam_2022_12_06.txt:28966
 msgid "the Lens"
@@ -81293,11 +81296,11 @@ msgstr "阀门"
 
 #: stringdump_steam_2022_12_06.txt:28968
 msgid "the Force Pump"
-msgstr "力泵"
+msgstr "压力泵"
 
 #: stringdump_steam_2022_12_06.txt:28969
 msgid "the Law of Refraction"
-msgstr ""
+msgstr "折射定律"
 
 #: stringdump_steam_2022_12_06.txt:28970
 msgid "Models"
@@ -81305,11 +81308,11 @@ msgstr "楷模"
 
 #: stringdump_steam_2022_12_06.txt:28971
 msgid "the Origin of Rainbows"
-msgstr "彩虹的起源"
+msgstr "彩虹的形成"
 
 #: stringdump_steam_2022_12_06.txt:28972
 msgid "Refraction"
-msgstr ""
+msgstr "折射"
 
 #: stringdump_steam_2022_12_06.txt:28973
 msgid "Light and Color"
@@ -81321,11 +81324,11 @@ msgstr "彩虹"
 
 #: stringdump_steam_2022_12_06.txt:28975
 msgid "the Burning Glass"
-msgstr ""
+msgstr "燃烧的玻璃"
 
 #: stringdump_steam_2022_12_06.txt:28976
 msgid "the Burning Mirror"
-msgstr ""
+msgstr "燃烧的镜子"
 
 #: stringdump_steam_2022_12_06.txt:28977
 msgid "Chain Drives"
@@ -81353,7 +81356,7 @@ msgstr "里程表"
 
 #: stringdump_steam_2022_12_06.txt:28983
 msgid "Crankshafts"
-msgstr ""
+msgstr "曲轴"
 
 #: stringdump_steam_2022_12_06.txt:28984
 msgid "the Sawmill"
@@ -81397,7 +81400,7 @@ msgstr "杠杆"
 
 #: stringdump_steam_2022_12_06.txt:28994
 msgid "the Straight-Beam Balance"
-msgstr ""
+msgstr "直梁天平"
 
 #: stringdump_steam_2022_12_06.txt:28995
 msgid "Wedges"
@@ -81425,11 +81428,11 @@ msgstr "轮轴"
 
 #: stringdump_steam_2022_12_06.txt:29001
 msgid "Camshafts"
-msgstr ""
+msgstr "曲轴"
 
 #: stringdump_steam_2022_12_06.txt:29002
 msgid "the Crankshaft"
-msgstr ""
+msgstr "曲轴"
 
 #: stringdump_steam_2022_12_06.txt:29003
 msgid "Locks"
@@ -81437,7 +81440,7 @@ msgstr "锁"
 
 #: stringdump_steam_2022_12_06.txt:29004
 msgid "the Camshaft"
-msgstr ""
+msgstr "曲轴"
 
 #: stringdump_steam_2022_12_06.txt:29005
 msgid "Gears"
@@ -81449,7 +81452,7 @@ msgstr "锁"
 
 #: stringdump_steam_2022_12_06.txt:29007
 msgid "Straight-Beam Balances"
-msgstr ""
+msgstr "直梁天平"
 
 #: stringdump_steam_2022_12_06.txt:29008
 msgid "the Gear"
@@ -81457,15 +81460,15 @@ msgstr "齿轮"
 
 #: stringdump_steam_2022_12_06.txt:29009
 msgid "Water Clocks"
-msgstr ""
+msgstr "水钟"
 
 #: stringdump_steam_2022_12_06.txt:29010
 msgid "the Astrarium"
-msgstr ""
+msgstr "星座"
 
 #: stringdump_steam_2022_12_06.txt:29011
 msgid "Shadow Clocks"
-msgstr ""
+msgstr "影子时钟"
 
 #: stringdump_steam_2022_12_06.txt:29012
 msgid "the Water Clock"
@@ -81473,19 +81476,19 @@ msgstr "水钟"
 
 #: stringdump_steam_2022_12_06.txt:29013
 msgid "the Shadow Clock"
-msgstr ""
+msgstr "影子时钟"
 
 #: stringdump_steam_2022_12_06.txt:29014
 msgid "Sundials"
-msgstr ""
+msgstr "日晷"
 
 #: stringdump_steam_2022_12_06.txt:29015
 msgid "Asylum"
-msgstr "避难所"
+msgstr "疯人院"
 
 #: stringdump_steam_2022_12_06.txt:29016
 msgid "the Sundial"
-msgstr ""
+msgstr "日晷"
 
 #: stringdump_steam_2022_12_06.txt:29017
 msgid "Pulleys"
@@ -81505,7 +81508,7 @@ msgstr "滑轮"
 
 #: stringdump_steam_2022_12_06.txt:29021
 msgid "Hourglasses"
-msgstr ""
+msgstr "沙漏"
 
 #: stringdump_steam_2022_12_06.txt:29022
 msgid "the Mechanical Clock"
@@ -81513,11 +81516,11 @@ msgstr "机械钟"
 
 #: stringdump_steam_2022_12_06.txt:29023
 msgid "Astrariums"
-msgstr ""
+msgstr "星座"
 
 #: stringdump_steam_2022_12_06.txt:29024
 msgid "the Hourglass"
-msgstr ""
+msgstr "沙漏"
 
 #: stringdump_steam_2022_12_06.txt:29025
 msgid "the Rescue"
@@ -81533,7 +81536,7 @@ msgstr "自由"
 
 #: stringdump_steam_2022_12_06.txt:29028
 msgid "the Sewers"
-msgstr ""
+msgstr "下水道"
 
 #: stringdump_steam_2022_12_06.txt:29029
 msgid "the Catacombs"
@@ -81561,15 +81564,15 @@ msgstr "攻击"
 
 #: stringdump_steam_2022_12_06.txt:29035
 msgid "the Invasion"
-msgstr ""
+msgstr "入侵"
 
 #: stringdump_steam_2022_12_06.txt:29036
 msgid "the Raid"
-msgstr ""
+msgstr "突袭"
 
 #: stringdump_steam_2022_12_06.txt:29037
 msgid "the Infiltration"
-msgstr ""
+msgstr "渗透"
 
 #: stringdump_steam_2022_12_06.txt:29038
 msgid "the Search"
@@ -81581,15 +81584,15 @@ msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:29040
 msgid "the Counting House"
-msgstr ""
+msgstr "会计室"
 
 #: stringdump_steam_2022_12_06.txt:29041
 msgid "the Guildhall"
-msgstr ""
+msgstr "市政厅"
 
 #: stringdump_steam_2022_12_06.txt:29042
 msgid "the Artifact"
-msgstr ""
+msgstr "工艺品"
 
 #: stringdump_steam_2022_12_06.txt:29043
 msgid "spire"
@@ -81665,7 +81668,7 @@ msgstr "风箱"
 
 #: stringdump_steam_2022_12_06.txt:29061
 msgid "Orreries"
-msgstr ""
+msgstr "太阳系仪"
 
 #: stringdump_steam_2022_12_06.txt:29062
 msgid "the Trip Hammer"
@@ -81673,11 +81676,11 @@ msgstr "旅行锤"
 
 #: stringdump_steam_2022_12_06.txt:29063
 msgid "the Crank"
-msgstr ""
+msgstr "曲柄"
 
 #: stringdump_steam_2022_12_06.txt:29064
 msgid "Cranks"
-msgstr ""
+msgstr "曲柄"
 
 #: stringdump_steam_2022_12_06.txt:29065
 msgid "the Piston"
@@ -81689,15 +81692,15 @@ msgstr "活塞"
 
 #: stringdump_steam_2022_12_06.txt:29067
 msgid "the Cause of Twilight"
-msgstr "暮光之城的原因"
+msgstr "暮光的产生"
 
 #: stringdump_steam_2022_12_06.txt:29068
 msgid "the Height of the Sky"
-msgstr ""
+msgstr "天空的高度"
 
 #: stringdump_steam_2022_12_06.txt:29069
 msgid "the Sky and Refraction"
-msgstr ""
+msgstr "天空与折射"
 
 #: stringdump_steam_2022_12_06.txt:29070
 msgid "Twilight"
@@ -81705,11 +81708,11 @@ msgstr "黄昏"
 
 #: stringdump_steam_2022_12_06.txt:29071
 msgid "Dioptras"
-msgstr ""
+msgstr "望筒"
 
 #: stringdump_steam_2022_12_06.txt:29072
 msgid "the Astrolabe"
-msgstr ""
+msgstr "星盘"
 
 #: stringdump_steam_2022_12_06.txt:29073
 msgid "Lamination"
@@ -81717,7 +81720,7 @@ msgstr "层压"
 
 #: stringdump_steam_2022_12_06.txt:29074
 msgid "the Dioptra"
-msgstr ""
+msgstr "望筒"
 
 #: stringdump_steam_2022_12_06.txt:29075
 msgid "the Model"
@@ -81741,11 +81744,11 @@ msgstr "壁画乐器"
 
 #: stringdump_steam_2022_12_06.txt:29080
 msgid "the Orrery"
-msgstr ""
+msgstr "太阳系仪"
 
 #: stringdump_steam_2022_12_06.txt:29081
 msgid "Spherical Astrolabes"
-msgstr ""
+msgstr "球形星盘"
 
 #: stringdump_steam_2022_12_06.txt:29082
 msgid "the Mural Instrument"
@@ -81753,23 +81756,23 @@ msgstr "壁画乐器"
 
 #: stringdump_steam_2022_12_06.txt:29083
 msgid "Armillary Spheres"
-msgstr "浑仪"
+msgstr "浑天仪"
 
 #: stringdump_steam_2022_12_06.txt:29084
 msgid "the Spherical Astrolabe"
-msgstr ""
+msgstr "球形星盘"
 
 #: stringdump_steam_2022_12_06.txt:29085
 msgid "Astrolabes"
-msgstr ""
+msgstr "星盘"
 
 #: stringdump_steam_2022_12_06.txt:29086
 msgid "the Armillary Sphere"
-msgstr "浑仪"
+msgstr "浑天仪"
 
 #: stringdump_steam_2022_12_06.txt:29087
 msgid "the Battle"
-msgstr ""
+msgstr "战斗"
 
 #: stringdump_steam_2022_12_06.txt:29088
 msgid "the Clash"
@@ -81797,7 +81800,7 @@ msgstr "秘密"
 
 #: stringdump_steam_2022_12_06.txt:29094
 msgid "Possession"
-msgstr ""
+msgstr "所有物"
 
 #: stringdump_steam_2022_12_06.txt:29095
 msgid "the Abduction"
@@ -81809,19 +81812,19 @@ msgstr "绑架"
 
 #: stringdump_steam_2022_12_06.txt:29097
 msgid "the Surrender"
-msgstr ""
+msgstr "投降"
 
 #: stringdump_steam_2022_12_06.txt:29098
 msgid "the Desecration"
-msgstr ""
+msgstr "亵渎"
 
 #: stringdump_steam_2022_12_06.txt:29099
 msgid "the Tribute"
-msgstr ""
+msgstr "奉献"
 
 #: stringdump_steam_2022_12_06.txt:29100
 msgid "the Holy City"
-msgstr ""
+msgstr "圣神之城"
 
 #: stringdump_steam_2022_12_06.txt:29101
 msgid "Pillage"
@@ -81849,7 +81852,7 @@ msgstr "起义"
 
 #: stringdump_steam_2022_12_06.txt:29107
 msgid "the Ceremony"
-msgstr ""
+msgstr "仪式"
 
 #: stringdump_steam_2022_12_06.txt:29108
 msgid "the Insurrection"
@@ -81861,7 +81864,7 @@ msgstr "竞赛"
 
 #: stringdump_steam_2022_12_06.txt:29110
 msgid "the Procession"
-msgstr ""
+msgstr "游行"
 
 #: stringdump_steam_2022_12_06.txt:29111
 msgid "Masterpiece"
@@ -81881,7 +81884,7 @@ msgstr "加入"
 
 #: stringdump_steam_2022_12_06.txt:29115
 msgid "the Reclamation"
-msgstr ""
+msgstr "开垦"
 
 #: stringdump_steam_2022_12_06.txt:29116
 msgid "the Resettlement"
@@ -81889,7 +81892,7 @@ msgstr "安置"
 
 #: stringdump_steam_2022_12_06.txt:29117
 msgid "the Overthrow"
-msgstr ""
+msgstr "推翻"
 
 #: stringdump_steam_2022_12_06.txt:29118
 msgid "the Punishment"
@@ -81905,11 +81908,11 @@ msgstr "发售"
 
 #: stringdump_steam_2022_12_06.txt:29121
 msgid "the Merchants"
-msgstr ""
+msgstr "商人"
 
 #: stringdump_steam_2022_12_06.txt:29122
 msgid "Concealment"
-msgstr ""
+msgstr "藏身处"
 
 #: stringdump_steam_2022_12_06.txt:29123
 msgid "Chance"
@@ -81921,7 +81924,7 @@ msgstr "大篷车"
 
 #: stringdump_steam_2022_12_06.txt:29125
 msgid "Gambling"
-msgstr ""
+msgstr "赌博"
 
 #: stringdump_steam_2022_12_06.txt:29126
 msgid "the Gamble"
@@ -82077,11 +82080,11 @@ msgstr "束缚"
 
 #: stringdump_steam_2022_12_06.txt:29164
 msgid "the Conviction"
-msgstr ""
+msgstr "定罪"
 
 #: stringdump_steam_2022_12_06.txt:29165
 msgid "the Rank"
-msgstr ""
+msgstr "排名"
 
 #: stringdump_steam_2022_12_06.txt:29166
 msgid "the Dissolution"
@@ -82097,11 +82100,11 @@ msgstr "声望"
 
 #: stringdump_steam_2022_12_06.txt:29169
 msgid "the Composition"
-msgstr ""
+msgstr "创作"
 
 #: stringdump_steam_2022_12_06.txt:29170
 msgid "the Author"
-msgstr ""
+msgstr "作者"
 
 #: stringdump_steam_2022_12_06.txt:29171
 msgid "the Obsession"
@@ -82113,15 +82116,15 @@ msgstr "存储"
 
 #: stringdump_steam_2022_12_06.txt:29173
 msgid "the Sermon"
-msgstr ""
+msgstr "布道"
 
 #: stringdump_steam_2022_12_06.txt:29174
 msgid "Preaching"
-msgstr ""
+msgstr "讲道"
 
 #: stringdump_steam_2022_12_06.txt:29175
 msgid "the Building"
-msgstr ""
+msgstr "建筑物"
 
 #: stringdump_steam_2022_12_06.txt:29176
 msgid "the Improvements"
@@ -82129,15 +82132,15 @@ msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:29177
 msgid "the Failure"
-msgstr ""
+msgstr "失败"
 
 #: stringdump_steam_2022_12_06.txt:29178
 msgid "the Equipment"
-msgstr ""
+msgstr "装备"
 
 #: stringdump_steam_2022_12_06.txt:29179
 msgid "the Fall"
-msgstr ""
+msgstr "瀑布"
 
 #: stringdump_steam_2022_12_06.txt:29180
 msgid "Ruin"
@@ -82145,7 +82148,7 @@ msgstr "废墟"
 
 #: stringdump_steam_2022_12_06.txt:29181
 msgid "the Companion"
-msgstr ""
+msgstr "同伴"
 
 #: stringdump_steam_2022_12_06.txt:29182
 msgid "the Impersonation"
@@ -82169,11 +82172,11 @@ msgstr "旅行者"
 
 #: stringdump_steam_2022_12_06.txt:29187
 msgid "the Purchase"
-msgstr ""
+msgstr "购买"
 
 #: stringdump_steam_2022_12_06.txt:29188
 msgid "Equipment"
-msgstr ""
+msgstr "装备"
 
 #: stringdump_steam_2022_12_06.txt:29189
 msgid "the Confrontation"
@@ -82181,7 +82184,7 @@ msgstr "对抗"
 
 #: stringdump_steam_2022_12_06.txt:29190
 msgid "the Knowledge"
-msgstr ""
+msgstr "知识"
 
 #: stringdump_steam_2022_12_06.txt:29191
 msgid "the Mystery"
@@ -82197,7 +82200,7 @@ msgstr "复活"
 
 #: stringdump_steam_2022_12_06.txt:29194
 msgid "Rebirth"
-msgstr ""
+msgstr "重生"
 
 #: stringdump_steam_2022_12_06.txt:29195
 msgid "Trickery"
@@ -82209,7 +82212,7 @@ msgstr "谎言"
 
 #: stringdump_steam_2022_12_06.txt:29197
 msgid "the Maiming"
-msgstr "麦明"
+msgstr "残废"
 
 #: stringdump_steam_2022_12_06.txt:29198
 msgid "the Duel"
@@ -82217,15 +82220,15 @@ msgstr "决斗"
 
 #: stringdump_steam_2022_12_06.txt:29199
 msgid "the Wound"
-msgstr ""
+msgstr "伤口"
 
 #: stringdump_steam_2022_12_06.txt:29200
 msgid "the Wounding"
-msgstr ""
+msgstr "伤口"
 
 #: stringdump_steam_2022_12_06.txt:29201
 msgid "the Devouring"
-msgstr ""
+msgstr "吞噬"
 
 #: stringdump_steam_2022_12_06.txt:29202
 msgid "Hunger"
@@ -82233,11 +82236,11 @@ msgstr "饥饿"
 
 #: stringdump_steam_2022_12_06.txt:29203
 msgid "the Theft"
-msgstr ""
+msgstr "盗窃"
 
 #: stringdump_steam_2022_12_06.txt:29204
 msgid "the Thief"
-msgstr ""
+msgstr "小偷"
 
 #: stringdump_steam_2022_12_06.txt:29205
 msgid "the Party"
@@ -82257,11 +82260,11 @@ msgstr "策略"
 
 #: stringdump_steam_2022_12_06.txt:29209
 msgid "the Reunion"
-msgstr ""
+msgstr "重聚"
 
 #: stringdump_steam_2022_12_06.txt:29210
 msgid "the Summit"
-msgstr ""
+msgstr "顶峰"
 
 #: stringdump_steam_2022_12_06.txt:29211
 msgid "the Struggle"
@@ -82273,7 +82276,7 @@ msgstr "那个工程"
 
 #: stringdump_steam_2022_12_06.txt:29213
 msgid "the Canopy"
-msgstr ""
+msgstr "树冠层"
 
 #: stringdump_steam_2022_12_06.txt:29214
 msgid "the Undergrowth"
@@ -82281,19 +82284,19 @@ msgstr "灌木丛"
 
 #: stringdump_steam_2022_12_06.txt:29215
 msgid "the Rocks"
-msgstr ""
+msgstr "岩石"
 
 #: stringdump_steam_2022_12_06.txt:29216
 msgid "the Murk"
-msgstr "穆克"
+msgstr "黑暗"
 
 #: stringdump_steam_2022_12_06.txt:29217
 msgid "the Desert"
-msgstr ""
+msgstr "荒漠"
 
 #: stringdump_steam_2022_12_06.txt:29218
 msgid "the Bog"
-msgstr ""
+msgstr "泥塘"
 
 #: stringdump_steam_2022_12_06.txt:29219
 msgid "the Mire"
@@ -82309,7 +82312,7 @@ msgstr "海浪"
 
 #: stringdump_steam_2022_12_06.txt:29222
 msgid "the Mountain"
-msgstr ""
+msgstr "山脉"
 
 #: stringdump_steam_2022_12_06.txt:29223
 msgid "the Ocean"
@@ -82317,11 +82320,11 @@ msgstr "海洋"
 
 #: stringdump_steam_2022_12_06.txt:29224
 msgid "the Mountains"
-msgstr ""
+msgstr "山脉"
 
 #: stringdump_steam_2022_12_06.txt:29225
 msgid "the Peaks"
-msgstr ""
+msgstr "山顶"
 
 #: stringdump_steam_2022_12_06.txt:29226
 msgid "Evil"
@@ -82353,23 +82356,23 @@ msgstr "埋葬"
 
 #: stringdump_steam_2022_12_06.txt:29233
 msgid "the Marsh"
-msgstr ""
+msgstr "湿地"
 
 #: stringdump_steam_2022_12_06.txt:29234
 msgid "the Swamp"
-msgstr ""
+msgstr "沼泽"
 
 #: stringdump_steam_2022_12_06.txt:29235
 msgid "the Universe"
-msgstr ""
+msgstr "宇宙"
 
 #: stringdump_steam_2022_12_06.txt:29236
 msgid "the Wetland"
-msgstr ""
+msgstr "湿地"
 
 #: stringdump_steam_2022_12_06.txt:29237
 msgid "the World"
-msgstr ""
+msgstr "世界"
 
 #: stringdump_steam_2022_12_06.txt:29238
 msgid "the Region"
@@ -82393,15 +82396,15 @@ msgstr "村庄"
 
 #: stringdump_steam_2022_12_06.txt:29243
 msgid "the Forest"
-msgstr ""
+msgstr "森林"
 
 #: stringdump_steam_2022_12_06.txt:29244
 msgid "the Forest Retreat"
-msgstr ""
+msgstr "森林休憩所"
 
 #: stringdump_steam_2022_12_06.txt:29245
 msgid "the Fort"
-msgstr ""
+msgstr "要塞"
 
 #: stringdump_steam_2022_12_06.txt:29246
 msgid "the Castle"
@@ -82409,15 +82412,15 @@ msgstr "城堡"
 
 #: stringdump_steam_2022_12_06.txt:29247
 msgid "the Burrow"
-msgstr "陋居"
+msgstr "洞所"
 
 #: stringdump_steam_2022_12_06.txt:29248
 msgid "the Monastery"
-msgstr ""
+msgstr "修道院"
 
 #: stringdump_steam_2022_12_06.txt:29249
 msgid "the Shrine"
-msgstr "靖国神社"
+msgstr "圣祠"
 
 #: stringdump_steam_2022_12_06.txt:29250
 msgid "the Maze"
@@ -82425,15 +82428,15 @@ msgstr "迷宫"
 
 #: stringdump_steam_2022_12_06.txt:29251
 msgid "the Tunnels"
-msgstr ""
+msgstr "隧道"
 
 #: stringdump_steam_2022_12_06.txt:29252
 msgid "the Trenches"
-msgstr ""
+msgstr "沟渠"
 
 #: stringdump_steam_2022_12_06.txt:29253
 msgid "the Gutter"
-msgstr ""
+msgstr "排水渠"
 
 #: stringdump_steam_2022_12_06.txt:29254
 msgid "the Dark Fortress"
@@ -82441,7 +82444,7 @@ msgstr "黑暗的堡垒"
 
 #: stringdump_steam_2022_12_06.txt:29255
 msgid "the Mountainhome"
-msgstr ""
+msgstr "山居"
 
 #: stringdump_steam_2022_12_06.txt:29256
 msgid "the Fortress"
@@ -82449,15 +82452,15 @@ msgstr "堡垒"
 
 #: stringdump_steam_2022_12_06.txt:29257
 msgid "the Corpse"
-msgstr ""
+msgstr "尸体"
 
 #: stringdump_steam_2022_12_06.txt:29258
 msgid "the Mountain Halls"
-msgstr ""
+msgstr "山岳厅"
 
 #: stringdump_steam_2022_12_06.txt:29259
 msgid "the Trees"
-msgstr ""
+msgstr "树"
 
 #: stringdump_steam_2022_12_06.txt:29260
 msgid "the Hole"
@@ -82477,75 +82480,75 @@ msgstr "坑"
 
 #: stringdump_steam_2022_12_06.txt:29264
 msgid "philosophy:epistemology:justification"
-msgstr ""
+msgstr "哲学:认识论:正当理由"
 
 #: stringdump_steam_2022_12_06.txt:29265
 msgid "philosophy:epistemology:belief"
-msgstr ""
+msgstr "哲学:认识论:信仰"
 
 #: stringdump_steam_2022_12_06.txt:29266
 msgid "philosophy:epistemology:truth"
-msgstr ""
+msgstr "哲学:认识论:真相"
 
 #: stringdump_steam_2022_12_06.txt:29267
 msgid "philosophy:epistemology:perception"
-msgstr ""
+msgstr "哲学:认识论:悟性"
 
 #: stringdump_steam_2022_12_06.txt:29268
 msgid "philosophy:ethics:individual value"
-msgstr ""
+msgstr "哲学:认识论:个人价值"
 
 #: stringdump_steam_2022_12_06.txt:29269
 msgid "philosophy:ethics:state consequentialism"
-msgstr ""
+msgstr "哲学:认识论:效果论"
 
 #: stringdump_steam_2022_12_06.txt:29270
 msgid "philosophy:logic:analogical inference"
-msgstr ""
+msgstr "哲学:逻辑:类比推理"
 
 #: stringdump_steam_2022_12_06.txt:29271
 msgid "philosophy:ethics:applied medical"
-msgstr ""
+msgstr "哲学:认识论:应用医学"
 
 #: stringdump_steam_2022_12_06.txt:29272
 msgid "philosophy:metaphysics:processes"
-msgstr ""
+msgstr "哲学:玄学:过程"
 
 #: stringdump_steam_2022_12_06.txt:29273
 msgid "philosophy:metaphysics:causation"
-msgstr ""
+msgstr "哲学:玄学:因果关系"
 
 #: stringdump_steam_2022_12_06.txt:29274
 msgid "philosophy:metaphysics:wholes and parts"
-msgstr ""
+msgstr "哲学:玄学:整体与部分"
 
 #: stringdump_steam_2022_12_06.txt:29275
 msgid "philosophy:metaphysics:events"
-msgstr ""
+msgstr "哲学:玄学:事件"
 
 #: stringdump_steam_2022_12_06.txt:29276
 msgid "philosophy:metaphysics:mind body"
-msgstr ""
+msgstr "哲学:玄学:意识 形体"
 
 #: stringdump_steam_2022_12_06.txt:29277
 msgid "philosophy:metaphysics:objects and properties"
-msgstr ""
+msgstr "哲学:玄学:对象和属性"
 
 #: stringdump_steam_2022_12_06.txt:29278
 msgid "philosophy:metaphysics:existence"
-msgstr ""
+msgstr "哲学:玄学:存在物"
 
 #: stringdump_steam_2022_12_06.txt:29279
 msgid "philosophy:metaphysics:time"
-msgstr ""
+msgstr "哲学:玄学:时间"
 
 #: stringdump_steam_2022_12_06.txt:29280
 msgid "the Faith"
-msgstr ""
+msgstr "信仰"
 
 #: stringdump_steam_2022_12_06.txt:29281
 msgid "the Fighters"
-msgstr ""
+msgstr "战士"
 
 #: stringdump_steam_2022_12_06.txt:29282
 msgid "the Troupe"
@@ -82553,43 +82556,43 @@ msgstr "剧团"
 
 #: stringdump_steam_2022_12_06.txt:29283
 msgid "the Religion"
-msgstr ""
+msgstr "宗教"
 
 #: stringdump_steam_2022_12_06.txt:29284
 msgid "Entertainment"
-msgstr ""
+msgstr "娱乐"
 
 #: stringdump_steam_2022_12_06.txt:29285
 msgid "the Vessel"
-msgstr ""
+msgstr "船"
 
 #: stringdump_steam_2022_12_06.txt:29286
 msgid "the Migration"
-msgstr ""
+msgstr "移民"
 
 #: stringdump_steam_2022_12_06.txt:29287
 msgid "philosophy:logic:propositional logic"
-msgstr ""
+msgstr "哲学:逻辑:命题逻辑"
 
 #: stringdump_steam_2022_12_06.txt:29288
 msgid "philosophy:logic:dialectic reasoning"
-msgstr ""
+msgstr "哲学:逻辑:辩证推理"
 
 #: stringdump_steam_2022_12_06.txt:29289
 msgid "philosophy:logic:syllogistic logic"
-msgstr ""
+msgstr "哲学:逻辑:三段论逻辑"
 
 #: stringdump_steam_2022_12_06.txt:29290
 msgid "philosophy:logic:hypothetical syllogisms"
-msgstr ""
+msgstr "哲学:逻辑:假言三段论"
 
 #: stringdump_steam_2022_12_06.txt:29291
 msgid "philosophy:logic:formal reasoning"
-msgstr ""
+msgstr "哲学:逻辑:形式推理"
 
 #: stringdump_steam_2022_12_06.txt:29292
 msgid "philosophy:logic:deductive reasoning"
-msgstr ""
+msgstr "哲学:逻辑:演绎推理"
 
 #: stringdump_steam_2022_12_06.txt:29293
 msgid "the Outcasts"
@@ -82597,15 +82600,15 @@ msgstr "流浪者"
 
 #: stringdump_steam_2022_12_06.txt:29294
 msgid "the Criminals"
-msgstr ""
+msgstr "罪犯"
 
 #: stringdump_steam_2022_12_06.txt:29295
 msgid "the Coins"
-msgstr ""
+msgstr "货币"
 
 #: stringdump_steam_2022_12_06.txt:29296
 msgid "the Art"
-msgstr ""
+msgstr "艺术"
 
 #: stringdump_steam_2022_12_06.txt:29297
 msgid " corpse"
@@ -82613,15 +82616,15 @@ msgstr "尸体"
 
 #: stringdump_steam_2022_12_06.txt:29298
 msgid "the Creature"
-msgstr ""
+msgstr "生物"
 
 #: stringdump_steam_2022_12_06.txt:29299
 msgid "a population of "
-msgstr ""
+msgstr "的人口"
 
 #: stringdump_steam_2022_12_06.txt:29300
 msgid " corpses"
-msgstr ""
+msgstr "尸体"
 
 #: stringdump_steam_2022_12_06.txt:29301
 msgid "the Fiery Depths"
@@ -82629,23 +82632,23 @@ msgstr "火热的深度"
 
 #: stringdump_steam_2022_12_06.txt:29302
 msgid "the Guild"
-msgstr ""
+msgstr "行会"
 
 #: stringdump_steam_2022_12_06.txt:29303
 msgid "the Artisans"
-msgstr ""
+msgstr "工匠"
 
 #: stringdump_steam_2022_12_06.txt:29304
 msgid "the Company"
-msgstr ""
+msgstr "公司"
 
 #: stringdump_steam_2022_12_06.txt:29305
 msgid "the Traders"
-msgstr ""
+msgstr "贸易商"
 
 #: stringdump_steam_2022_12_06.txt:29306
 msgid "the Group"
-msgstr ""
+msgstr "群组"
 
 #: stringdump_steam_2022_12_06.txt:29307
 msgid "the Settlement"
@@ -82653,11 +82656,11 @@ msgstr "结算"
 
 #: stringdump_steam_2022_12_06.txt:29308
 msgid "an unnamed group"
-msgstr ""
+msgstr "一个未命名的群组"
 
 #: stringdump_steam_2022_12_06.txt:29309
 msgid "the People"
-msgstr ""
+msgstr "人民"
 
 #: stringdump_steam_2022_12_06.txt:29310
 msgid "the Plains"
@@ -82665,7 +82668,7 @@ msgstr "平原"
 
 #: stringdump_steam_2022_12_06.txt:29311
 msgid "the Savanna"
-msgstr ""
+msgstr "热带草原"
 
 #: stringdump_steam_2022_12_06.txt:29312
 msgid "the Frozen Wastes"
@@ -82681,11 +82684,11 @@ msgstr "冰块"
 
 #: stringdump_steam_2022_12_06.txt:29315
 msgid "the Tundra"
-msgstr ""
+msgstr "苔原"
 
 #: stringdump_steam_2022_12_06.txt:29316
 msgid "the Waters"
-msgstr ""
+msgstr "水域"
 
 #: stringdump_steam_2022_12_06.txt:29317
 msgid "the Glacier"
@@ -82697,7 +82700,7 @@ msgstr "火焰"
 
 #: stringdump_steam_2022_12_06.txt:29319
 msgid "the Magma"
-msgstr ""
+msgstr "岩浆"
 
 #: stringdump_steam_2022_12_06.txt:29320
 msgid "the Caverns"
@@ -82717,111 +82720,111 @@ msgstr "灌木丛"
 
 #: stringdump_steam_2022_12_06.txt:29324
 msgid "the Hills"
-msgstr ""
+msgstr "丘陵"
 
 #: stringdump_steam_2022_12_06.txt:29325
 msgid "mathematics:algebra:quadratic by completing square"
-msgstr ""
+msgstr "数学:代数:平方补全求二次"
 
 #: stringdump_steam_2022_12_06.txt:29326
 msgid "mathematics:algebra:quadratic formula"
-msgstr ""
+msgstr "数学:代数:二次公式"
 
 #: stringdump_steam_2022_12_06.txt:29327
 msgid "mathematics:algebra:solving linear systems"
-msgstr ""
+msgstr "数学:代数:解线性方程组"
 
 #: stringdump_steam_2022_12_06.txt:29328
 msgid "mathematics:algebra:balancing and completion"
-msgstr ""
+msgstr "数学:代数:完成和平衡计算法概要"
 
 #: stringdump_steam_2022_12_06.txt:29329
 msgid "mathematics:geometry:surface area of sphere"
-msgstr ""
+msgstr "数学:几何:球面表面积"
 
 #: stringdump_steam_2022_12_06.txt:29330
 msgid "mathematics:algebra:finite summation formulas"
-msgstr ""
+msgstr "数学:代数:有限求和公式"
 
 #: stringdump_steam_2022_12_06.txt:29331
 msgid "mathematics:numbers:infinite primes"
-msgstr ""
+msgstr "数学:数论:无限的质数"
 
 #: stringdump_steam_2022_12_06.txt:29332
 msgid "mathematics:numbers:root 2 irrational"
-msgstr ""
+msgstr "数学:数论:根号2是无理数"
 
 #: stringdump_steam_2022_12_06.txt:29333
 msgid "mathematics:algebra:divergence of harmonic series"
-msgstr ""
+msgstr "数学:代数:调和级数的敛散性"
 
 #: stringdump_steam_2022_12_06.txt:29334
 msgid "mathematics:geometry:properties of chords"
-msgstr ""
+msgstr "数学:几何:和弦的性质"
 
 #: stringdump_steam_2022_12_06.txt:29335
 msgid "mathematics:algebra:solving higher order polynomials"
-msgstr ""
+msgstr "数学:代数:求解高阶多项式"
 
 #: stringdump_steam_2022_12_06.txt:29336
 msgid "mathematics:notation:early symbols for operations"
-msgstr ""
+msgstr "数学:表示法:早期的运算符号"
 
 #: stringdump_steam_2022_12_06.txt:29337
 msgid "mathematics:geometry:angle sum difference trig identities"
-msgstr ""
+msgstr "数学:几何:角和差分三角恒等式"
 
 #: stringdump_steam_2022_12_06.txt:29338
 msgid "mathematics:algebra:pascal's triangle"
-msgstr ""
+msgstr "数学:几何:帕斯卡三角形"
 
 #: stringdump_steam_2022_12_06.txt:29339
 msgid "mathematics:notation:syncopated algebra"
-msgstr ""
+msgstr "数学:表示法:切分代数"
 
 #: stringdump_steam_2022_12_06.txt:29340
 msgid "mathematics:geometry:law of sines"
-msgstr ""
+msgstr "数学:几何:正弦定律"
 
 #: stringdump_steam_2022_12_06.txt:29341
 msgid "mathematics:numbers:division algorithm"
-msgstr ""
+msgstr "数学:数论:辗转相除法"
 
 #: stringdump_steam_2022_12_06.txt:29342
 msgid "mathematics:geometry:table of chord values"
-msgstr ""
+msgstr "数学:几何:和弦值表"
 
 #: stringdump_steam_2022_12_06.txt:29343
 msgid "mathematics:geometry:volume of sphere"
-msgstr ""
+msgstr "数学:几何:球体体积"
 
 #: stringdump_steam_2022_12_06.txt:29344
 msgid "mathematics:geometry:pi to 4 digits"
-msgstr ""
+msgstr "数学:几何:圆周率后4位"
 
 #: stringdump_steam_2022_12_06.txt:29345
 msgid "mathematics:geometry:volume of pyramid"
-msgstr ""
+msgstr "数学:几何:金字塔体积"
 
 #: stringdump_steam_2022_12_06.txt:29346
 msgid "mathematics:geometry:volume of cone"
-msgstr ""
+msgstr "数学:几何:圆锥体体积"
 
 #: stringdump_steam_2022_12_06.txt:29347
 msgid "mathematics:numbers:unique prime factorization"
-msgstr ""
+msgstr "数学:数论:质因数分解"
 
 #: stringdump_steam_2022_12_06.txt:29348
 msgid "mathematics:numbers:algorithm for computing gcd"
-msgstr ""
+msgstr "数学:数论:求最大公约数"
 
 #: stringdump_steam_2022_12_06.txt:29349
 msgid "mathematics:numbers:sieve algorithm for primes"
-msgstr ""
+msgstr "数学:数论:质数的筛选算法"
 
 #: stringdump_steam_2022_12_06.txt:29350
 msgid "mathematics:numbers:root 2 to 5 digits"
-msgstr ""
+msgstr "数学:数论:5位根号2"
 
 #: stringdump_steam_2022_12_06.txt:29351
 msgid "mathematics:numbers:chinese remainder algorithm"
@@ -82829,60 +82832,60 @@ msgstr "数学:数论:中国余数定理算法"
 
 #: stringdump_steam_2022_12_06.txt:29352
 msgid "mathematics:geometry:area enclosed by line and parabola"
-msgstr ""
+msgstr "数学:几何:由直线和抛物线围成的区域"
 
 #: stringdump_steam_2022_12_06.txt:29353
 msgid "mathematics:geometry:pi to 6 digits"
-msgstr ""
+msgstr "数学:几何:圆周率后6位"
 
 #: stringdump_steam_2022_12_06.txt:29354
 msgid ""
 "mathematics:geometry:definitions and basic properties of conic sections"
-msgstr ""
+msgstr "数学:几何:圆锥截面的定义和基本性质"
 
 #: stringdump_steam_2022_12_06.txt:29355
 msgid "mathematics:geometry:area of triangle from side lengths"
-msgstr ""
+msgstr "数学:几何:三角形从边长算出的面积"
 
 #: stringdump_steam_2022_12_06.txt:29356
 msgid "mathematics:geometry:area of circle"
-msgstr ""
+msgstr "数学:几何:圆的面积"
 
 #: stringdump_steam_2022_12_06.txt:29357
 msgid "mathematics:geometry:similar and congruent triangles"
-msgstr ""
+msgstr "数学:几何:相似三角形和全等三角形"
 
 #: stringdump_steam_2022_12_06.txt:29358
 msgid "mathematics:geometry:geometric mean theorem"
-msgstr ""
+msgstr "数学:几何:几何平均定理"
 
 #: stringdump_steam_2022_12_06.txt:29359
 msgid "mathematics:geometry:basic objects"
-msgstr ""
+msgstr "数学:几何:基本对象"
 
 #: stringdump_steam_2022_12_06.txt:29360
 msgid "mathematics:method:exhaustion"
-msgstr ""
+msgstr "数学:算法:穷竭法"
 
 #: stringdump_steam_2022_12_06.txt:29361
 msgid "mathematics:notation:large numbers"
-msgstr ""
+msgstr "数学:表示法:大数名称"
 
 #: stringdump_steam_2022_12_06.txt:29362
 msgid "mathematics:notation:positional"
-msgstr ""
+msgstr "数学:符号:进位制"
 
 #: stringdump_steam_2022_12_06.txt:29363
 msgid "mathematics:notation:zero"
-msgstr ""
+msgstr "数学:表示法:零"
 
 #: stringdump_steam_2022_12_06.txt:29364
 msgid "mathematics:notation:negative numbers"
-msgstr ""
+msgstr "数学:符号:负数"
 
 #: stringdump_steam_2022_12_06.txt:29365
 msgid "mathematics:geometry:existence of incommensurable ratios"
-msgstr ""
+msgstr "数学:几何:无理数"
 
 #: stringdump_steam_2022_12_06.txt:29366
 msgid "mathematics:method:axiomatic reasoning"
@@ -82890,27 +82893,27 @@ msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:29367
 msgid "mathematics:geometry:pythagorean triples 3 digit"
-msgstr ""
+msgstr "数学:几何:勾股数 3位数"
 
 #: stringdump_steam_2022_12_06.txt:29368
 msgid "mathematics:geometry:pythagorean triples 4 digit"
-msgstr ""
+msgstr "数学:几何:勾股数 4位数"
 
 #: stringdump_steam_2022_12_06.txt:29369
 msgid "mathematics:geometry:pythagorean theorem"
-msgstr ""
+msgstr "数学:几何:勾股定理"
 
 #: stringdump_steam_2022_12_06.txt:29370
 msgid "mathematics:geometry:pythagorean triples small"
-msgstr ""
+msgstr "数学:几何:勾股数 小整数"
 
 #: stringdump_steam_2022_12_06.txt:29371
 msgid "mathematics:geometry:isosceles base angles equal"
-msgstr ""
+msgstr "数学:几何:等腰底角相等"
 
 #: stringdump_steam_2022_12_06.txt:29372
 msgid "mathematics:geometry:inscribed triangle on diameter is right"
-msgstr ""
+msgstr "数学:几何:泰勒斯定理"
 
 #: stringdump_steam_2022_12_06.txt:29373
 msgid "philosophy:specialized:politics diplomacy"
@@ -82962,11 +82965,11 @@ msgstr "哲学：美学：艺术的价值"
 
 #: stringdump_steam_2022_12_06.txt:29385
 msgid "philosophy:logic:inductive reasoning"
-msgstr ""
+msgstr "哲学:逻辑:归纳法"
 
 #: stringdump_steam_2022_12_06.txt:29386
 msgid "philosophy:logic:direct inference"
-msgstr ""
+msgstr "哲学:逻辑:直接推理"
 
 #: stringdump_steam_2022_12_06.txt:29387
 msgid "philosophy:specialized:politics economic policy"
@@ -83610,7 +83613,7 @@ msgstr "工程学:机械:滑轮理论"
 
 #: stringdump_steam_2022_12_06.txt:29547
 msgid "engineering:horology:astrarium"
-msgstr "工程学:钟表学:黄芪"
+msgstr "工程学:钟表学:星座"
 
 #: stringdump_steam_2022_12_06.txt:29548
 msgid "engineering:horology:hourglass"
@@ -83622,7 +83625,7 @@ msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:29550
 msgid "medicine:theory:blood vessels"
-msgstr ""
+msgstr "医学:理论:血管"
 
 #: stringdump_steam_2022_12_06.txt:29551
 msgid "medicine:theory:motor vs sensory nerves"
@@ -83698,7 +83701,7 @@ msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:29569
 msgid "medicine:method:surgery suturing"
-msgstr ""
+msgstr "医学:方法:手术缝合"
 
 #: stringdump_steam_2022_12_06.txt:29570
 msgid "medicine:method:surgery ligature"
@@ -83706,23 +83709,23 @@ msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:29571
 msgid "medicine:method:surgery draining"
-msgstr ""
+msgstr "医学:方法:手术引流"
 
 #: stringdump_steam_2022_12_06.txt:29572
 msgid "medicine:method:surgery probing"
-msgstr ""
+msgstr "医学:方法:手术探查"
 
 #: stringdump_steam_2022_12_06.txt:29573
 msgid "medicine:method:cauterization"
-msgstr ""
+msgstr "医学:方法:腐蚀"
 
 #: stringdump_steam_2022_12_06.txt:29574
 msgid "medicine:method:anesthesia"
-msgstr ""
+msgstr "医学:方法:麻醉"
 
 #: stringdump_steam_2022_12_06.txt:29575
 msgid "medicine:tool:surgical needles"
-msgstr ""
+msgstr "医学:工具:手术针"
 
 #: stringdump_steam_2022_12_06.txt:29576
 msgid "medicine:method:cataract surgery"
@@ -83730,19 +83733,19 @@ msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:29577
 msgid "medicine:tool:scalpel"
-msgstr ""
+msgstr "医学:工具:手术刀"
 
 #: stringdump_steam_2022_12_06.txt:29578
 msgid "medicine:tool:surgical scissors"
-msgstr ""
+msgstr "医学:工具:手术剪刀"
 
 #: stringdump_steam_2022_12_06.txt:29579
 msgid "medicine:theory:specialized surgical instruments"
-msgstr ""
+msgstr "医学:理论:专门的手术器械"
 
 #: stringdump_steam_2022_12_06.txt:29580
 msgid "medicine:tool:forceps"
-msgstr ""
+msgstr "医学:工具:钳"
 
 #: stringdump_steam_2022_12_06.txt:29581
 msgid "negative quantities"
@@ -83766,11 +83769,11 @@ msgstr "经济政策"
 
 #: stringdump_steam_2022_12_06.txt:29586
 msgid "social welfare"
-msgstr ""
+msgstr "社会福利"
 
 #: stringdump_steam_2022_12_06.txt:29587
 msgid "interpersonal ethics"
-msgstr ""
+msgstr "人与人之间的道德"
 
 #: stringdump_steam_2022_12_06.txt:29588
 msgid "education"
@@ -83782,11 +83785,11 @@ msgstr "不可比较的比率"
 
 #: stringdump_steam_2022_12_06.txt:29590
 msgid "prime divisors"
-msgstr ""
+msgstr "主要因数"
 
 #: stringdump_steam_2022_12_06.txt:29591
 msgid "isosceles triangles"
-msgstr ""
+msgstr "等腰三角形"
 
 #: stringdump_steam_2022_12_06.txt:29592
 msgid "inscribed triangles"
@@ -83794,11 +83797,11 @@ msgstr "刻有三角形"
 
 #: stringdump_steam_2022_12_06.txt:29593
 msgid "congruent triangles"
-msgstr ""
+msgstr "全等三角形"
 
 #: stringdump_steam_2022_12_06.txt:29594
 msgid "right triangles"
-msgstr ""
+msgstr "直角三角形"
 
 #: stringdump_steam_2022_12_06.txt:29595
 msgid "geometric objects"
@@ -83806,7 +83809,7 @@ msgstr "几何对象"
 
 #: stringdump_steam_2022_12_06.txt:29596
 msgid "exhaustion"
-msgstr ""
+msgstr "疲惫"
 
 #: stringdump_steam_2022_12_06.txt:29597
 msgid "belief"
@@ -83818,7 +83821,7 @@ msgstr "存在"
 
 #: stringdump_steam_2022_12_06.txt:29599
 msgid "perception"
-msgstr ""
+msgstr "感知"
 
 #: stringdump_steam_2022_12_06.txt:29600
 msgid "justification"
@@ -83842,7 +83845,7 @@ msgstr "工程学:机器:杵锤"
 
 #: stringdump_steam_2022_12_06.txt:29605
 msgid "causation"
-msgstr ""
+msgstr "因果关系"
 
 #: stringdump_steam_2022_12_06.txt:29606
 msgid "military ethics"
@@ -83850,7 +83853,7 @@ msgstr "军事道德"
 
 #: stringdump_steam_2022_12_06.txt:29607
 msgid "events"
-msgstr ""
+msgstr "事件"
 
 #: stringdump_steam_2022_12_06.txt:29608
 msgid "processes"
@@ -83862,7 +83865,7 @@ msgstr "对象和属性"
 
 #: stringdump_steam_2022_12_06.txt:29610
 msgid "wholes and parts"
-msgstr ""
+msgstr "整体与部分"
 
 #: stringdump_steam_2022_12_06.txt:29611
 msgid "time"
@@ -83870,7 +83873,7 @@ msgstr "时间"
 
 #: stringdump_steam_2022_12_06.txt:29612
 msgid "mind and body"
-msgstr ""
+msgstr "心灵与身体"
 
 #: stringdump_steam_2022_12_06.txt:29613
 msgid "engineering:machine:water-powered trip hammer"
@@ -83898,7 +83901,7 @@ msgstr "工程学:天文学:球形星盘"
 
 #: stringdump_steam_2022_12_06.txt:29619
 msgid "engineering:astronomy:dioptra"
-msgstr "工程学:天文学:窥管"
+msgstr "工程学:天文学:望筒"
 
 #: stringdump_steam_2022_12_06.txt:29620
 msgid "engineering:astronomy:astrolabe"
@@ -84154,7 +84157,7 @@ msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:29683
 msgid "notation"
-msgstr "符号"
+msgstr "表示法"
 
 #: stringdump_steam_2022_12_06.txt:29684
 msgid "triangle and circles"
@@ -84618,7 +84621,7 @@ msgstr "滑轮"
 
 #: stringdump_steam_2022_12_06.txt:29799
 msgid "the astrarium"
-msgstr ""
+msgstr "星座"
 
 #: stringdump_steam_2022_12_06.txt:29800
 msgid "the hourglass"
@@ -84790,7 +84793,7 @@ msgstr "浑天仪"
 
 #: stringdump_steam_2022_12_06.txt:29842
 msgid "the spherical astrolabe"
-msgstr "浑仪"
+msgstr "球形星盘"
 
 #: stringdump_steam_2022_12_06.txt:29843
 msgid "the dioptra"
@@ -84878,7 +84881,7 @@ msgstr "光和颜色"
 
 #: stringdump_steam_2022_12_06.txt:29864
 msgid "refraction"
-msgstr ""
+msgstr "折射"
 
 #: stringdump_steam_2022_12_06.txt:29865
 msgid "the camera obscura"
@@ -86238,7 +86241,7 @@ msgstr "山岳厅"
 
 #: stringdump_steam_2022_12_06.txt:30346
 msgid "shrine (0,255,255)"
-msgstr "神社(0,255,255)"
+msgstr "圣祠(0,255,255)"
 
 #: stringdump_steam_2022_12_06.txt:30347
 msgid "crops 1 (255,195,0), rows"
@@ -88139,7 +88142,7 @@ msgstr "从警卫中移除"
 
 #: stringdump_steam_2022_12_06.txt:36707
 msgid "Equipment mismatch"
-msgstr "装备不合身"
+msgstr "装备不匹配"
 
 #: stringdump_steam_2022_12_06.txt:36708
 msgid "Target inaccessible"
@@ -89763,7 +89766,7 @@ msgstr "（无法达到有效目标）"
 
 #: stringdump_steam_2022_12_06.txt:37115
 msgid " (no burrow)"
-msgstr "（没有洞穴）"
+msgstr "（没有洞所）"
 
 #: stringdump_steam_2022_12_06.txt:37116
 msgid " (unreachable location)"
