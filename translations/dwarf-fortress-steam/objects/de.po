@@ -7,10 +7,12 @@
 # Hammerbund, 2022
 # Tristan Weber, 2022
 # Patrick Hadasch, 2022
+# Jan S, 2022
+# Thomas Schampera, 2022
 # 
 msgid ""
 msgstr ""
-"Last-Translator: Patrick Hadasch, 2022\n"
+"Last-Translator: Thomas Schampera, 2022\n"
 "Language-Team: German (https://www.transifex.com/dwarf-fortress-translation/teams/22396/de/)\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -18973,16 +18975,20 @@ msgctxt "CREATURE:CAPYBARA"
 msgid ""
 "[SOUND:PEACEFUL_INTERMITTENT:25:10000:VOCALIZATION:grunt:grunts:a grunt]"
 msgstr ""
+"[SOUND:PEACEFUL_INTERMITTENT:25:10000:VOCALIZATION:Grunzen.gruntz:ein "
+"Grunzen]"
 
 #: creature_large_temperate.txt:1920
 msgctxt "CREATURE:CAPYBARA"
 msgid "[SOUND:PEACEFUL_INTERMITTENT:5:10000:VOCALIZATION:purr:purrs:a purr]"
 msgstr ""
+"[SOUND:PEACEFUL_INTERMITTENT:5:10000:VOCALIZATION:schnurren:Schnurrt:ein "
+"Schnurren]"
 
 #: creature_large_temperate.txt:1921
 msgctxt "CREATURE:CAPYBARA"
 msgid "[SOUND:PEACEFUL_INTERMITTENT:25:10000:NONE:click:clicks:a click]"
-msgstr ""
+msgstr "[SOUND:PEACEFUL_INTERMITTENT:25:10000:NONE:klick:klicks: ein klick]"
 
 #: creature_large_temperate.txt:1922
 msgctxt "CREATURE:CAPYBARA"
@@ -19038,7 +19044,7 @@ msgstr ""
 #: creature_large_temperate.txt:2010
 msgctxt "CREATURE:CAPYBARA, GIANT"
 msgid "[GENERAL_CHILD_NAME:giant capybara pup:giant capybara pups]"
-msgstr "[GENERAL_CHILD_NAME:Großer Capybara Welpe: Große Capybara Welpen]"
+msgstr "[GENERAL_CHILD_NAME:Großer Capybarawelpe: Große Capybarawelpen]"
 
 #: creature_large_temperate.txt:2011
 msgctxt "CREATURE:CAPYBARA, GIANT"
@@ -19061,6 +19067,8 @@ msgid ""
 "[SOUND:PEACEFUL_INTERMITTENT:200:10000:VOCALIZATION:whistle:whistles:deep "
 "whistling]"
 msgstr ""
+"[SOUND:PEACEFUL_INTERMITTENT:200:10000:VOCALIZATION:pfeifen:pfeift:tiefes "
+"pfeifen]"
 
 #: creature_large_temperate.txt:2021
 msgctxt "CREATURE:CAPYBARA, GIANT"
@@ -19068,17 +19076,22 @@ msgid ""
 "[SOUND:PEACEFUL_INTERMITTENT:50:10000:VOCALIZATION:grunt:grunts:a loud "
 "grunt]"
 msgstr ""
+"[SOUND:PEACEFUL_INTERMITTENT:50:10000:VOCALIZATION:grunzen:grunzen:ein "
+"lautes Grunzen]"
 
 #: creature_large_temperate.txt:2022
 msgctxt "CREATURE:CAPYBARA, GIANT"
 msgid ""
 "[SOUND:PEACEFUL_INTERMITTENT:5:10000:VOCALIZATION:purr:purrs:a deep purr]"
 msgstr ""
+"[SOUND:PEACEFUL_INTERMITTENT:5:10000:VOCALIZATION:schnurren:schnurrt:ein "
+"tiefes Schnurren]"
 
 #: creature_large_temperate.txt:2023
 msgctxt "CREATURE:CAPYBARA, GIANT"
 msgid "[SOUND:PEACEFUL_INTERMITTENT:50:10000:NONE:click:clicks:a loud click]"
 msgstr ""
+"[SOUND:PEACEFUL_INTERMITTENT:50:10000:NONE:klick:klicks:ein lautes Klicken]"
 
 #: creature_large_temperate.txt:2024
 msgctxt "CREATURE:CAPYBARA, GIANT"
@@ -19098,17 +19111,17 @@ msgstr "[PREFSTRING:Resonanzbellen]"
 #: creature_large_temperate.txt:2038
 msgctxt "CREATURE:CAPYBARA MAN"
 msgid "[CASTE_NAME:capybara man:capybara men:capybara man]"
-msgstr "[CASTE_NAME:Capybara Mann: Capybara Mann: Capybara Mann]"
+msgstr "[CASTE_NAME:Capybaramännchen: Capybaramännchen: Capybaramännchen]"
 
 #: creature_large_temperate.txt:2040
 msgctxt "CREATURE:CAPYBARA MAN"
 msgid "[CASTE_NAME:capybara woman:capybara women:capybara woman]"
-msgstr "[CASTE_NAME:Capybara Frau: Capybara Frau: Capybara Frau]"
+msgstr "[CASTE_NAME:Capybaraweibchen: Capybaraweibchen: Capybaraweibchen]"
 
 #: creature_large_temperate.txt:2051
 msgctxt "CREATURE:CAPYBARA MAN"
 msgid "[NAME:capybara man:capybara men:capybara man]"
-msgstr "[NAME:Capybara Mann : Capybara Mann : Capybara Mann]"
+msgstr "[NAME:Capybaramännchen : Capybaramännchen : Capybaramännchen]"
 
 #: creature_large_temperate.txt:2052
 msgctxt "CREATURE:CAPYBARA MAN"
@@ -19544,7 +19557,7 @@ msgctxt "CREATURE:RED PANDA, GIANT"
 msgid ""
 "[CASTE_NAME:giant red panda sow:giant red panda sows:giant red panda sow]"
 msgstr ""
-"[CASTE_NAME:Rote Riesenpanda Sau:Rote Riesenpanda Säue:Rote Riesenpanda Sau]"
+"[CASTE_NAME:Rote Riesenpandasau:Rote Riesenpandasäue:Rote Riesenpandasau]"
 
 #: creature_large_temperate.txt:2637
 msgctxt "CREATURE:RED PANDA, GIANT"
@@ -19847,17 +19860,20 @@ msgstr "[TLCM_NOUN:Augen:PLURAL]"
 #: creature_large_tropical.txt:283
 msgctxt "CREATURE:WARTHOG_MAN"
 msgid "[CASTE_NAME:warthog man:warthog men:warthog man]"
-msgstr "[CASTE_NAME:Warzenschwein Mann:Warzenschwein Mann:Warzenschwein Mann]"
+msgstr ""
+"[CASTE_NAME:Warzenschweinmännchen:Warzenschweinmännchen:Warzenschweinmännchen]"
 
 #: creature_large_tropical.txt:285
 msgctxt "CREATURE:WARTHOG_MAN"
 msgid "[CASTE_NAME:warthog woman:warthog women:warthog woman]"
-msgstr "[CASTE_NAME:Warzenschwein Frau:Warzenschwein Frau:Warzenschwein Frau]"
+msgstr ""
+"[CASTE_NAME:Warzenschweinweibchen:Warzenschweinweibchen:Warzenschweinweibchen]"
 
 #: creature_large_tropical.txt:297
 msgctxt "CREATURE:WARTHOG_MAN"
 msgid "[NAME:warthog man:warthog men:warthog man]"
 msgstr ""
+"[NAME:Warzenschweinmännchen:Warzenschweinmännchen:Warzenschweinmännchen]"
 
 #: creature_large_tropical.txt:298
 msgctxt "CREATURE:WARTHOG_MAN"
@@ -20264,17 +20280,17 @@ msgstr "[TLCM_NOUN:Augen:PLURAL]"
 #: creature_large_tropical.txt:884
 msgctxt "CREATURE:TIGER_MAN"
 msgid "[CASTE_NAME:tiger man:tiger men:tiger man]"
-msgstr ""
+msgstr "[CASTE_NAME:Tigermännchen:Tigermännchen:Tigermännchen]"
 
 #: creature_large_tropical.txt:886
 msgctxt "CREATURE:TIGER_MAN"
 msgid "[CASTE_NAME:tiger woman:tiger women:tiger woman]"
-msgstr ""
+msgstr "[CASTE_NAME:Tigerweibchen:Tigerweibchen:Tigerweibchen]"
 
 #: creature_large_tropical.txt:897
 msgctxt "CREATURE:TIGER_MAN"
 msgid "[NAME:tiger man:tiger men:tiger man]"
-msgstr ""
+msgstr "[NAME:Tigermännchen:Tigermännchen:Tigermännchen]"
 
 #: creature_large_tropical.txt:898
 msgctxt "CREATURE:TIGER_MAN"
@@ -20368,17 +20384,17 @@ msgstr "[TLCM_NOUN:Augen:PLURAL]"
 #: creature_large_tropical.txt:1032
 msgctxt "CREATURE:CHEETAH_MAN"
 msgid "[CASTE_NAME:cheetah man:cheetah men:cheetah man]"
-msgstr ""
+msgstr "[CASTE_NAME:Gepardenmännchen:Gepardenmännchen:Gepardenmännchen]"
 
 #: creature_large_tropical.txt:1034
 msgctxt "CREATURE:CHEETAH_MAN"
 msgid "[CASTE_NAME:cheetah woman:cheetah women:cheetah woman]"
-msgstr ""
+msgstr "[CASTE_NAME:Gepardenweibchen:Gepardenweibchen:Gepardenweibchen]"
 
 #: creature_large_tropical.txt:1045
 msgctxt "CREATURE:CHEETAH_MAN"
 msgid "[NAME:cheetah man:cheetah men:cheetah man]"
-msgstr ""
+msgstr "[NAME:Gepardenmännchen:Gepardenmännchen:Gepardenmännchen]"
 
 #: creature_large_tropical.txt:1046
 msgctxt "CREATURE:CHEETAH_MAN"
@@ -20437,7 +20453,7 @@ msgstr "[CASTE_NAME:Gazelle:Gazellen:Gazelle]"
 #: creature_large_tropical.txt:1085
 msgctxt "CREATURE:GAZELLE"
 msgid "[GENERAL_CHILD_NAME:gazelle fawn:gazelle fawns]"
-msgstr ""
+msgstr "[GENERAL_CHILD_NAME:Gezallenkalb:Gazellenkaelber]"
 
 #: creature_large_tropical.txt:1092
 msgctxt "CREATURE:GAZELLE"
@@ -20472,17 +20488,17 @@ msgstr "[TLCM_NOUN:Augen:PLURAL]"
 #: creature_large_tropical.txt:1184
 msgctxt "CREATURE:GAZELLE_MAN"
 msgid "[CASTE_NAME:gazelle man:gazelle men:gazelle man]"
-msgstr ""
+msgstr "[CASTE_NAME:Gazellenmännchen:Gazellenmännchen:Gazellenmännchen]"
 
 #: creature_large_tropical.txt:1186
 msgctxt "CREATURE:GAZELLE_MAN"
 msgid "[CASTE_NAME:gazelle woman:gazelle women:gazelle woman]"
-msgstr ""
+msgstr "[CASTE_NAME:Gazellenweibchen:Gazellenweibchen:Gazellenweibchen]"
 
 #: creature_large_tropical.txt:1196
 msgctxt "CREATURE:GAZELLE_MAN"
 msgid "[NAME:gazelle man:gazelle men:gazelle man]"
-msgstr ""
+msgstr "[NAME:Gazellenmännchen:Gazellenmännchen:Gazellenmännchen]"
 
 #: creature_large_tropical.txt:1197
 msgctxt "CREATURE:GAZELLE_MAN"
@@ -20502,7 +20518,7 @@ msgstr "[CASTE_NAME:Riesengazelle:Riesengazellen:Riesengazelle]"
 #: creature_large_tropical.txt:1215
 msgctxt "CREATURE:GIANT_GAZELLE"
 msgid "[GENERAL_CHILD_NAME:giant gazelle fawn:giant gazelle fawns]"
-msgstr ""
+msgstr "[GENERAL_CHILD_NAME:Riesiges Gazellenkalb:Riesige Gazellenkälber]"
 
 #: creature_large_tropical.txt:1216
 msgctxt "CREATURE:GIANT_GAZELLE"
@@ -20568,17 +20584,17 @@ msgstr "[TLCM_NOUN:Augen:PLURAL]"
 #: creature_large_tropical.txt:1328
 msgctxt "CREATURE:MANDRILL_MAN"
 msgid "[CASTE_NAME:mandrill man:mandrill men:mandrill man]"
-msgstr ""
+msgstr "[CASTE_NAME:Mandrillenmännchen:Mandrillenmännchen:Mandrillenmännchen]"
 
 #: creature_large_tropical.txt:1330
 msgctxt "CREATURE:MANDRILL_MAN"
 msgid "[CASTE_NAME:mandrill woman:mandrill women:mandrill woman]"
-msgstr ""
+msgstr "[CASTE_NAME:Mandrillenweibchen:Mandrillenweibchen:Mandrillenweibchen]"
 
 #: creature_large_tropical.txt:1341
 msgctxt "CREATURE:MANDRILL_MAN"
 msgid "[NAME:mandrill man:mandrill men:mandrill man]"
-msgstr ""
+msgstr "[NAME:Mandrillenmännchen:Mandrillenmännchen:Mandrillenmännchen]"
 
 #: creature_large_tropical.txt:1342
 msgctxt "CREATURE:MANDRILL_MAN"
@@ -20591,12 +20607,12 @@ msgstr ""
 #: creature_large_tropical.txt:1360
 msgctxt "CREATURE:GIANT_MANDRILL"
 msgid "[NAME:giant mandrill:giant mandrills:giant mandrill]"
-msgstr ""
+msgstr "[NAME:Riesiger Mandrill:Riesige Mandrillen:Riesiger Mandrill]"
 
 #: creature_large_tropical.txt:1361
 msgctxt "CREATURE:GIANT_MANDRILL"
 msgid "[CASTE_NAME:giant mandrill:giant mandrills:giant mandrill]"
-msgstr ""
+msgstr "[CASTE_NAME:Riesiger Mandrill:Riesige Mandrillen:Riesiger Mandrill]"
 
 #: creature_large_tropical.txt:1362
 msgctxt "CREATURE:GIANT_MANDRILL"
@@ -20671,12 +20687,12 @@ msgstr ""
 #: creature_large_tropical.txt:1470
 msgctxt "CREATURE:BONOBO"
 msgid "[NAME:bonobo:bonobos:bonobo]"
-msgstr ""
+msgstr "[NAME:Bonobo:Bonobos:Bonobo]"
 
 #: creature_large_tropical.txt:1471
 msgctxt "CREATURE:BONOBO"
 msgid "[CASTE_NAME:bonobo:bonobos:bonobo]"
-msgstr ""
+msgstr "[CASTE_NAME:Bonobo:Bonobos:Bonobo]"
 
 #: creature_large_tropical.txt:1484
 msgctxt "CREATURE:BONOBO"
@@ -20830,12 +20846,12 @@ msgstr ""
 #: creature_large_tropical.txt:1746
 msgctxt "CREATURE:GIBBON_SIAMANG"
 msgid "[NAME:siamang:siamangs:siamang]"
-msgstr ""
+msgstr "[NAME:Siamang:Siamangs:Siamang]"
 
 #: creature_large_tropical.txt:1747
 msgctxt "CREATURE:GIBBON_SIAMANG"
 msgid "[CASTE_NAME:siamang:siamangs:siamang]"
-msgstr ""
+msgstr "[CASTE_NAME:Siamang:Siamangs:Siamang]"
 
 #: creature_large_tropical.txt:1759
 msgctxt "CREATURE:GIBBON_SIAMANG"
@@ -20890,6 +20906,7 @@ msgctxt "CREATURE:GIBBON_WHITE_HANDED"
 msgid ""
 "[CASTE_NAME:white-handed gibbon:white-handed gibbons:white-handed gibbon]"
 msgstr ""
+"[CASTE_NAME:weißhändiger Gibbon:weißhändige Gibbons:weißhändiger Gibbon]"
 
 #: creature_large_tropical.txt:1850
 msgctxt "CREATURE:GIBBON_WHITE_HANDED"
@@ -20936,12 +20953,15 @@ msgstr ""
 msgctxt "CREATURE:GIBBON_BLACK_HANDED"
 msgid "[NAME:black-handed gibbon:black-handed gibbons:black-handed gibbon]"
 msgstr ""
+"[NAME:schwarzhändiger Gibbon:schwarzhändige Gibbons:schwarzhändiger Gibbon]"
 
 #: creature_large_tropical.txt:1930
 msgctxt "CREATURE:GIBBON_BLACK_HANDED"
 msgid ""
 "[CASTE_NAME:black-handed gibbon:black-handed gibbons:black-handed gibbon]"
 msgstr ""
+"[CASTE_NAME:schwazhändiger Gibbon:schwarzhändige Gibbons:schwarzhändiger "
+"Gibbon]"
 
 #: creature_large_tropical.txt:1942
 msgctxt "CREATURE:GIBBON_BLACK_HANDED"
@@ -21144,12 +21164,12 @@ msgstr ""
 #: creature_large_tropical.txt:2297
 msgctxt "CREATURE:GIBBON_BILOU"
 msgid "[NAME:bilou:bilous:bilou]"
-msgstr ""
+msgstr "[NAME:Bilou:Biloue:Bilou]"
 
 #: creature_large_tropical.txt:2298
 msgctxt "CREATURE:GIBBON_BILOU"
 msgid "[CASTE_NAME:bilou:bilous:bilou]"
-msgstr ""
+msgstr "[CASTE_NAME:Bilou:Biloue:Bilou]"
 
 #: creature_large_tropical.txt:2310
 msgctxt "CREATURE:GIBBON_BILOU"
@@ -21195,13 +21215,13 @@ msgstr ""
 #: creature_large_tropical.txt:2388
 msgctxt "CREATURE:GIBBON_WHITE_BROWED"
 msgid "[NAME:white-browed gibbon:white-browed gibbons:white-browed gibbon]"
-msgstr ""
+msgstr "[NAME:Weißbrauen Gibbon:Weißbrauen Gibbons:Weißbrauen Gibbon]"
 
 #: creature_large_tropical.txt:2389
 msgctxt "CREATURE:GIBBON_WHITE_BROWED"
 msgid ""
 "[CASTE_NAME:white-browed gibbon:white-browed gibbons:white-browed gibbon]"
-msgstr ""
+msgstr "[CASTE_NAME:Weißbrauen Gibbon:Weißbrauen Gibbons:Weißbrauen Gibbon]"
 
 #: creature_large_tropical.txt:2401
 msgctxt "CREATURE:GIBBON_WHITE_BROWED"
@@ -21251,12 +21271,15 @@ msgstr ""
 msgctxt "CREATURE:GIBBON_BLACK_CRESTED"
 msgid "[NAME:black-crested gibbon:black-crested gibbons:black-crested gibbon]"
 msgstr ""
+"[NAME:Schwarzer Schopfgibbon:Schwarze Schopfgibbons:Schwarzer Schopfgibbon]"
 
 #: creature_large_tropical.txt:2480
 msgctxt "CREATURE:GIBBON_BLACK_CRESTED"
 msgid ""
 "[CASTE_NAME:black-crested gibbon:black-crested gibbons:black-crested gibbon]"
 msgstr ""
+"[CASTE_NAME:Schwarzer Schopfgibbon:Schwarze Schopfgibbons:Schwarzer "
+"Schopfgibbon]"
 
 #: creature_large_tropical.txt:2492
 msgctxt "CREATURE:GIBBON_BLACK_CRESTED"
@@ -21397,12 +21420,12 @@ msgstr "[STATE_ADJ:LIQUID:geschmolzener Kamelkäse]"
 #: creature_large_tropical.txt:2668
 msgctxt "CREATURE:CAMEL_1_HUMP"
 msgid "[STATE_NAME:GAS:boiling one-humped camel cheese]"
-msgstr ""
+msgstr "[STATE_NAME:GAS:kochender einhöckriger Kamelkäse]"
 
 #: creature_large_tropical.txt:2669
 msgctxt "CREATURE:CAMEL_1_HUMP"
 msgid "[STATE_ADJ:GAS:boiling one-humped camel cheese]"
-msgstr ""
+msgstr "[STATE_ADJ:GAS:kochender einhöckriger Kamelkäse]"
 
 #: creature_large_tropical.txt:2677
 msgctxt "CREATURE:CAMEL_1_HUMP"
@@ -21422,18 +21445,20 @@ msgstr "[TLCM_NOUN:Augen:PLURAL]"
 #: creature_large_tropical.txt:2689
 msgctxt "CREATURE:CAMEL_1_HUMP_MAN"
 msgid "[CVCT_TARGET:one-humped camel]"
-msgstr ""
+msgstr "[CVCT_TARGET:einhöckriges Kamel]"
 
 #: creature_large_tropical.txt:2690
 msgctxt "CREATURE:CAMEL_1_HUMP_MAN"
 msgid "[CVCT_REPLACEMENT:one-humped camel man]"
-msgstr ""
+msgstr "[CVCT_REPLACEMENT:einhöckriger Kamelmann]"
 
 #: creature_large_tropical.txt:2699
 msgctxt "CREATURE:CAMEL_1_HUMP_MAN"
 msgid ""
 "[CASTE_NAME:one-humped camel man:one-humped camel men:one-humped camel man]"
 msgstr ""
+"[CASTE_NAME:einhöckriger Kamelmann:einhöckriger Kamelmann:einhöckriger "
+"Kamelmann]"
 
 #: creature_large_tropical.txt:2701
 msgctxt "CREATURE:CAMEL_1_HUMP_MAN"
@@ -21441,11 +21466,14 @@ msgid ""
 "[CASTE_NAME:one-humped camel woman:one-humped camel women:one-humped camel "
 "woman]"
 msgstr ""
+"[CASTE_NAME:Einhöckerige Kamelfrau:Einhöckerige Kamelfrauen:Einhöckerige "
+"Kamelfrau]"
 
 #: creature_large_tropical.txt:2712
 msgctxt "CREATURE:CAMEL_1_HUMP_MAN"
 msgid "[NAME:one-humped camel man:one-humped camel men:one-humped camel man]"
 msgstr ""
+"[NAME:einhöckriger Kamelmann:einhöckriger Kamelmann:einhöckriger Kamelmann]"
 
 #: creature_large_tropical.txt:2713
 msgctxt "CREATURE:CAMEL_1_HUMP_MAN"
@@ -21455,18 +21483,20 @@ msgstr "[DESCRIPTION:Eine Person mit dem Kopf und dem Höcker eines Kamels.]"
 #: creature_large_tropical.txt:2728
 msgctxt "CREATURE:GIANT_CAMEL_1_HUMP"
 msgid "[CVCT_TARGET:one-humped camel]"
-msgstr ""
+msgstr "[CVCT_TARGET:einhöckriges Kamel]"
 
 #: creature_large_tropical.txt:2729
 msgctxt "CREATURE:GIANT_CAMEL_1_HUMP"
 msgid "[CVCT_REPLACEMENT:giant one-humped camel]"
-msgstr ""
+msgstr "[CVCT_REPLACEMENT:riesiges einhöckriges Kamel]"
 
 #: creature_large_tropical.txt:2742
 msgctxt "CREATURE:GIANT_CAMEL_1_HUMP"
 msgid ""
 "[NAME:giant one-humped camel:giant one-humped camels:giant one-humped camel]"
 msgstr ""
+"[NAME:Einhöckeriges Riesenkamel:Einhöckerige Riesenkamele:Einhöckeriges "
+"Riesenkamel]"
 
 #: creature_large_tropical.txt:2743
 msgctxt "CREATURE:GIANT_CAMEL_1_HUMP"
@@ -21474,6 +21504,8 @@ msgid ""
 "[CASTE_NAME:giant one-humped camel:giant one-humped camels:giant one-humped "
 "camel]"
 msgstr ""
+"[CASTE_NAME:Einhöckeriges Riesenkamel:Einhöckerige "
+"Riesenkamele:Einhöckeriges Riesenkamel]"
 
 #: creature_large_tropical.txt:2744
 msgctxt "CREATURE:GIANT_CAMEL_1_HUMP"
@@ -21481,6 +21513,8 @@ msgid ""
 "[GENERAL_CHILD_NAME:giant one-humped camel calf:giant one-humped camel "
 "calves]"
 msgstr ""
+"[GENERAL_CHILD_NAME:Riesiges einhöckriges Kamelkalb:Riesige einhöckrige "
+"Kamelkälber]"
 
 #: creature_large_tropical.txt:2745
 msgctxt "CREATURE:GIANT_CAMEL_1_HUMP"
@@ -21505,7 +21539,7 @@ msgstr ""
 #: creature_large_tropical.txt:2761
 msgctxt "CREATURE:CAMEL_2_HUMP"
 msgid "[NAME:two-humped camel:two-humped camels:two-humped camel]"
-msgstr ""
+msgstr "[NAME:zweihöckriges Kamel:zweihöckrige Kamele:zweihöckriges Kamel]"
 
 #: creature_large_tropical.txt:2762
 msgctxt "CREATURE:CAMEL_2_HUMP"
@@ -31499,7 +31533,7 @@ msgstr "[TLCM_NOUN:Auge:SINGULAR]"
 #: creature_standard.txt:3164
 msgctxt "CREATURE:ETTIN"
 msgid "[DESCRIPTION:A giant humanoid monster with two heads.]"
-msgstr ""
+msgstr "[DESCRIPTION:eine riesige humanoide Kreatur mit zwei Köpfen]"
 
 #: creature_standard.txt:3165
 msgctxt "CREATURE:ETTIN"
@@ -56445,7 +56479,7 @@ msgstr ""
 #: reaction_smelter.txt:103
 msgctxt "REACTION:PEWTER_FINE_MAKING2"
 msgid "[NAME:make fine pewter bars (use bars)]"
-msgstr ""
+msgstr "[NAME:Feinzinnbarren herstellen (Barren verwenden)]"
 
 #: reaction_smelter.txt:112
 msgctxt "REACTION:PEWTER_TRIFLE_MAKING"
@@ -56460,7 +56494,7 @@ msgstr ""
 #: reaction_smelter.txt:130
 msgctxt "REACTION:PEWTER_LAY_MAKING"
 msgid "[NAME:make lay pewter bars (use bars)]"
-msgstr ""
+msgstr "[NAME:Bleizinnbarren herstellen (Barren verwenden)]"
 
 #: reaction_smelter.txt:140
 msgctxt "REACTION:PIG_IRON_MAKING"

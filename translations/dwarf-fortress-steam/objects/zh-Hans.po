@@ -10,15 +10,16 @@
 # jj z, 2022
 # 墨漓 Mori, 2022
 # Dongchen Gao, 2022
-# r zz, 2022
-# whfnet <whfnet@gmail.com>, 2022
 # NineMonth Eternal, 2022
 # yih U, 2022
+# 梓程 刘, 2022
+# whfnet <whfnet@gmail.com>, 2022
 # 铭齐 梁, 2022
+# r zz, 2022
 # 
 msgid ""
 msgstr ""
-"Last-Translator: 铭齐 梁, 2022\n"
+"Last-Translator: r zz, 2022\n"
 "Language-Team: Chinese Simplified (https://www.transifex.com/dwarf-fortress-translation/teams/22396/zh-Hans/)\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -2683,7 +2684,7 @@ msgstr "[BP:PROBOSCIS:长鼻:长鼻]"
 #: body_default.txt:1203
 msgctxt "BODY:BEAK"
 msgid "[BP:BEAK:beak:STP]"
-msgstr "[BP:BEAK:喙:STP]"
+msgstr "[BP:BEAK:尖喙:STP]"
 
 #: body_default.txt:1207
 msgctxt "BODY:HEART"
@@ -3893,7 +3894,7 @@ msgstr "[BP:R_MAND:左颌骨:STP]"
 #: body_default.txt:1788
 msgctxt "BODY:BILL"
 msgid "[BP:BILL:bill:STP]"
-msgstr "[BP:BILL:喙:STP]"
+msgstr "[BP:BILL:扁喙:STP]"
 
 #: body_default.txt:1792
 msgctxt "BODY:HUMANOID_ARMLESS_NECK"
@@ -4803,7 +4804,7 @@ msgstr "[BP:EYE:中眼:STP]"
 #: body_rcp.txt:473
 msgctxt "BODY:RCP_BEAK"
 msgid "[BP:BEAK:beak:STP]"
-msgstr "[BP:BEAK:喙:STP]"
+msgstr "[BP:BEAK:尖喙:STP]"
 
 #: body_rcp.txt:477
 msgctxt "BODY:RCP_NOSE"
@@ -5008,7 +5009,7 @@ msgstr "[BODYGLOSS:RCP_GLOSS_PAW:脚:爪子:脚:爪子]"
 #: body_rcp.txt:609
 msgctxt "BODY:RCP_BILL"
 msgid "[BP:BILL:bill:STP]"
-msgstr "[BP:BILL:喙:STP]"
+msgstr "[BP:BILL:扁喙:STP]"
 
 #: body_rcp.txt:613
 msgctxt "BODY:RCP_2_HEAD_ANTLERS"
@@ -5613,7 +5614,7 @@ msgstr "[CASTE_NAME:蟾蜍:蟾蜍:蟾蜍]"
 #: creature_amphibians.txt:17
 msgctxt "CREATURE:TOAD"
 msgid "[PREFSTRING:beauty]"
-msgstr "[PREFSTRING:漂亮的]"
+msgstr "[PREFSTRING:貌美]"
 
 #: creature_amphibians.txt:51
 msgctxt "CREATURE:TOAD"
@@ -5668,7 +5669,7 @@ msgstr "[DESCRIPTION:一只巨大的蟾蜍型怪物。]"
 #: creature_amphibians.txt:115
 msgctxt "CREATURE:GIANT_TOAD"
 msgid "[PREFSTRING:beauty]"
-msgstr "[PREFSTRING:漂亮的]"
+msgstr "[PREFSTRING:貌美]"
 
 #: creature_annelids.txt:6
 msgctxt "CREATURE:WORM"
@@ -5752,7 +5753,7 @@ msgstr "[PREFSTRING:自然花纹]"
 #: creature_birds.txt:71
 msgctxt "CREATURE:BIRD_BLUEJAY"
 msgid "[ATTACK_VERB:bite:bites]"
-msgstr "[ATTACK_VERB:咬:咬]"
+msgstr "[ATTACK_VERB:啄;啄]"
 
 #: creature_birds.txt:80
 msgctxt "CREATURE:BIRD_BLUEJAY"
@@ -5849,7 +5850,7 @@ msgstr "[PREFSTRING:自然花纹]"
 #: creature_birds.txt:231
 msgctxt "CREATURE:BIRD_CARDINAL"
 msgid "[ATTACK_VERB:bite:bites]"
-msgstr "[ATTACK_VERB:咬:咬]"
+msgstr "[ATTACK_VERB:啄;啄]"
 
 #: creature_birds.txt:240
 msgctxt "CREATURE:BIRD_CARDINAL"
@@ -5947,7 +5948,7 @@ msgstr "[PREFSTRING:沙哑鸣叫]"
 #: creature_birds.txt:387
 msgctxt "CREATURE:BIRD_GRACKLE"
 msgid "[ATTACK_VERB:bite:bites]"
-msgstr "[ATTACK_VERB:咬:咬]"
+msgstr "[ATTACK_VERB:啄;啄]"
 
 #: creature_birds.txt:396
 msgctxt "CREATURE:BIRD_GRACKLE"
@@ -5972,32 +5973,32 @@ msgstr "[TLCM_NOUN:眼睛:PLURAL]"
 #: creature_birds.txt:430
 msgctxt "CREATURE:GRACKLE_MAN"
 msgid "[CASTE_NAME:grackle man:grackle men:grackle man]"
-msgstr "[CASTE_NAME:拟八哥人:拟八哥人:拟八哥人]"
+msgstr "[CASTE_NAME:黑羽椋鸟人:黑羽椋鸟人:黑羽椋鸟人]"
 
 #: creature_birds.txt:432
 msgctxt "CREATURE:GRACKLE_MAN"
 msgid "[CASTE_NAME:grackle woman:grackle women:grackle woman]"
-msgstr "[CASTE_NAME:拟八哥女:拟八哥女:拟八哥女]"
+msgstr "[CASTE_NAME:黑羽椋鸟女:黑羽椋鸟女:黑羽椋鸟女]"
 
 #: creature_birds.txt:444
 msgctxt "CREATURE:GRACKLE_MAN"
 msgid "[NAME:grackle man:grackle men:grackle man]"
-msgstr "[NAME:拟八哥人:拟八哥人:拟八哥人]"
+msgstr "[NAME:黑羽椋鸟人:黑羽椋鸟人:黑羽椋鸟人]"
 
 #: creature_birds.txt:445
 msgctxt "CREATURE:GRACKLE_MAN"
 msgid "[DESCRIPTION:A person with the head and wings of a grackle.]"
-msgstr "[DESCRIPTION:一个长着椋鸟脑袋和翅膀的人。]"
+msgstr "[DESCRIPTION:一个长着黑羽椋鸟脑袋和翅膀的人。]"
 
 #: creature_birds.txt:461
 msgctxt "CREATURE:GIANT_GRACKLE"
 msgid "[NAME:giant grackle:giant grackles:giant grackle]"
-msgstr "[NAME:巨拟八哥:巨拟八哥:巨拟八哥]"
+msgstr "[NAME:巨黑羽椋鸟:巨黑羽椋鸟:巨黑羽椋鸟]"
 
 #: creature_birds.txt:462
 msgctxt "CREATURE:GIANT_GRACKLE"
 msgid "[CASTE_NAME:giant grackle:giant grackles:giant grackle]"
-msgstr "[CASTE_NAME:巨拟八哥:巨拟八哥:巨拟八哥]"
+msgstr "[CASTE_NAME:巨黑羽椋鸟:巨黑羽椋鸟:巨黑羽椋鸟]"
 
 #: creature_birds.txt:463
 msgctxt "CREATURE:GIANT_GRACKLE"
@@ -6034,7 +6035,7 @@ msgstr "[CASTE_NAME:黄鹂:黄鹂:黄鹂]"
 #: creature_birds.txt:484
 msgctxt "CREATURE:BIRD_ORIOLE"
 msgid "[GENERAL_CHILD_NAME:oriole hatchling:oriole hatchlings]"
-msgstr "[GENERAL_CHILD_NAME:金莺幼崽:金莺幼崽]"
+msgstr "[GENERAL_CHILD_NAME:黄鹂幼崽:黄鹂幼崽]"
 
 #: creature_birds.txt:504
 msgctxt "CREATURE:BIRD_ORIOLE"
@@ -6044,7 +6045,7 @@ msgstr "[PREFSTRING:自然花纹]"
 #: creature_birds.txt:542
 msgctxt "CREATURE:BIRD_ORIOLE"
 msgid "[ATTACK_VERB:bite:bites]"
-msgstr "[ATTACK_VERB:咬:咬]"
+msgstr "[ATTACK_VERB:啄;啄]"
 
 #: creature_birds.txt:551
 msgctxt "CREATURE:BIRD_ORIOLE"
@@ -6084,7 +6085,7 @@ msgstr "[NAME:黄鹂人:黄鹂人:黄鹂人]"
 #: creature_birds.txt:600
 msgctxt "CREATURE:ORIOLE_MAN"
 msgid "[DESCRIPTION:A person with the head and wings of an oriole.]"
-msgstr "[DESCRIPTION:一个长着金莺脑袋和翅膀的人。]"
+msgstr "[DESCRIPTION:一个长着黄鹂脑袋和翅膀的人。]"
 
 #: creature_birds.txt:616
 msgctxt "CREATURE:GIANT_ORIOLE"
@@ -6099,12 +6100,12 @@ msgstr "[CASTE_NAME:巨黄鹂:巨黄鹂:巨黄鹂]"
 #: creature_birds.txt:618
 msgctxt "CREATURE:GIANT_ORIOLE"
 msgid "[GENERAL_CHILD_NAME:giant oriole hatchling:giant oriole hatchlings]"
-msgstr "[GENERAL_CHILD_NAME:巨金莺幼崽:巨金莺幼崽]"
+msgstr "[GENERAL_CHILD_NAME:巨黄鹂幼崽:巨黄鹂幼崽]"
 
 #: creature_birds.txt:619
 msgctxt "CREATURE:GIANT_ORIOLE"
 msgid "[DESCRIPTION:A huge monster in the form of an oriole.]"
-msgstr "[DESCRIPTION:一只体型巨大的金莺怪。]"
+msgstr "[DESCRIPTION:一只体型巨大的黄鹂怪。]"
 
 #: creature_birds.txt:628
 msgctxt "CREATURE:GIANT_ORIOLE"
@@ -6134,7 +6135,7 @@ msgctxt "CREATURE:BIRD_RW_BLACKBIRD"
 msgid ""
 "[GENERAL_CHILD_NAME:red-winged blackbird hatchling:red-winged blackbird "
 "hatchlings]"
-msgstr "[GENERAL_CHILD_NAME:红翅黑鸟幼崽:红翅黑鸟幼崽]"
+msgstr "[GENERAL_CHILD_NAME:红翅黑鹂幼崽:红翅黑鹂幼崽]"
 
 #: creature_birds.txt:660
 msgctxt "CREATURE:BIRD_RW_BLACKBIRD"
@@ -6144,12 +6145,12 @@ msgstr "[PREFSTRING:自然花纹]"
 #: creature_birds.txt:698
 msgctxt "CREATURE:BIRD_RW_BLACKBIRD"
 msgid "[ATTACK_VERB:bite:bites]"
-msgstr "[ATTACK_VERB:咬:咬]"
+msgstr "[ATTACK_VERB:啄;啄]"
 
 #: creature_birds.txt:707
 msgctxt "CREATURE:BIRD_RW_BLACKBIRD"
 msgid "[ATTACK_VERB:snatch at:snatches at]"
-msgstr "[ATTACK_VERB:抢夺，抢夺]"
+msgstr "[ATTACK_VERB:抓住:抓住]"
 
 #: creature_birds.txt:728
 msgctxt "CREATURE:BIRD_RW_BLACKBIRD"
@@ -6212,12 +6213,12 @@ msgctxt "CREATURE:GIANT_RW_BLACKBIRD"
 msgid ""
 "[GENERAL_CHILD_NAME:giant red-winged blackbird hatchling:giant red-winged "
 "blackbird hatchlings]"
-msgstr "[GENERAL_CHILD_NAME:巨红翅黑鸟幼崽:巨红翅黑鸟幼崽]"
+msgstr "[GENERAL_CHILD_NAME:巨红翅黑鹂幼崽:巨红翅黑鹂幼崽]"
 
 #: creature_birds.txt:775
 msgctxt "CREATURE:GIANT_RW_BLACKBIRD"
 msgid "[DESCRIPTION:A huge monster in the form of a red-winged blackbird.]"
-msgstr "[DESCRIPTION:一只体型巨大的红翅黑鸟怪。]"
+msgstr "[DESCRIPTION:一只体型巨大的红翅黑鹂怪。]"
 
 #: creature_birds.txt:784
 msgctxt "CREATURE:GIANT_RW_BLACKBIRD"
@@ -6262,7 +6263,7 @@ msgstr "[PREFSTRING:在水中滑翔]"
 #: creature_birds.txt:863
 msgctxt "CREATURE:BIRD_PENGUIN"
 msgid "[ATTACK_VERB:bite:bites]"
-msgstr "[ATTACK_VERB:咬:咬]"
+msgstr "[ATTACK_VERB:啄;啄]"
 
 #: creature_birds.txt:884
 msgctxt "CREATURE:BIRD_PENGUIN"
@@ -6329,7 +6330,7 @@ msgstr "[PREFSTRING:在水中滑翔]"
 #: creature_birds.txt:959
 msgctxt "CREATURE:BIRD_PENGUIN_LITTLE"
 msgid "[ATTACK_VERB:bite:bites]"
-msgstr "[ATTACK_VERB:咬:咬]"
+msgstr "[ATTACK_VERB:啄;啄]"
 
 #: creature_birds.txt:980
 msgctxt "CREATURE:BIRD_PENGUIN_LITTLE"
@@ -6396,7 +6397,7 @@ msgstr "[PREFSTRING:在水中滑翔]"
 #: creature_birds.txt:1055
 msgctxt "CREATURE:BIRD_PENGUIN_EMPEROR"
 msgid "[ATTACK_VERB:bite:bites]"
-msgstr "[ATTACK_VERB:咬:咬]"
+msgstr "[ATTACK_VERB:啄;啄]"
 
 #: creature_birds.txt:1076
 msgctxt "CREATURE:BIRD_PENGUIN_EMPEROR"
@@ -6603,7 +6604,7 @@ msgctxt "CREATURE:BIRD_KIWI"
 msgid ""
 "[DESCRIPTION:A small, brown, flightless bird.  It eats insects and grubs and"
 " is known for its keen sense of smell.]"
-msgstr "[DESCRIPTION:一种以昆虫和蛴螬为食的棕色无飞行能力鸟类，以其敏锐的嗅觉而闻名]"
+msgstr "[DESCRIPTION:一种以昆虫和蛴螬为食的无法飞行的小型棕色鸟类，以其敏锐的嗅觉而闻名]"
 
 #: creature_birds.txt:1339
 msgctxt "CREATURE:BIRD_KIWI"
@@ -6613,22 +6614,22 @@ msgstr "[NAME:鹬鸵:鹬鸵:鹬鸵]"
 #: creature_birds.txt:1340
 msgctxt "CREATURE:BIRD_KIWI"
 msgid "[GENERAL_CHILD_NAME:kiwi chick:kiwi chicks]"
-msgstr "[GENERAL_CHILD_NAME:几维鸟雏鸟:几维鸟雏鸟]"
+msgstr "[GENERAL_CHILD_NAME:鹬鸵雏鸟:鹬鸵雏鸟]"
 
 #: creature_birds.txt:1359
 msgctxt "CREATURE:BIRD_KIWI"
 msgid "[PREFSTRING:long beaks]"
-msgstr "[PREFSTRING:长喙]"
+msgstr "[PREFSTRING:长尖喙]"
 
 #: creature_birds.txt:1398
 msgctxt "CREATURE:BIRD_KIWI"
 msgid "[ATTACK_VERB:snatch at:snatches at]"
-msgstr "[ATTACK_VERB:抢夺，抢夺]"
+msgstr "[ATTACK_VERB:抓住:抓住]"
 
 #: creature_birds.txt:1406
 msgctxt "CREATURE:BIRD_KIWI"
 msgid "[ROOT_AROUND:BY_CATEGORY:BEAK:root around in:roots around in]"
-msgstr "[ROOT_AROUND:BY_CATEGORY:BEAK:在根附近]"
+msgstr "[ROOT_AROUND:BY_CATEGORY:尖喙:在根附近]"
 
 #: creature_birds.txt:1409
 msgctxt "CREATURE:BIRD_KIWI"
@@ -6683,12 +6684,12 @@ msgstr "[NAME:巨鹬鸵:巨鹬鸵:巨鹬鸵]"
 #: creature_birds.txt:1466
 msgctxt "CREATURE:BIRD_KIWI_GIANT"
 msgid "[GENERAL_CHILD_NAME:giant kiwi chick:giant kiwi chicks]"
-msgstr "[GENERAL_CHILD_NAME:巨几维鸟雏鸟:巨几维鸟雏鸟]"
+msgstr "[GENERAL_CHILD_NAME:巨鹬鸵雏鸟:巨鹬鸵雏鸟]"
 
 #: creature_birds.txt:1467
 msgctxt "CREATURE:BIRD_KIWI_GIANT"
 msgid "[DESCRIPTION:A large monster with a long nose and brown feathers.]"
-msgstr "[DESCRIPTION:一个巨几维鸟怪物。]"
+msgstr "[DESCRIPTION:一个巨鹬鸵怪物。]"
 
 #: creature_birds.txt:1477
 msgctxt "CREATURE:BIRD_KIWI_GIANT"
@@ -6708,7 +6709,7 @@ msgstr "[PREFSTRING:巨大的体型]"
 #: creature_birds.txt:1482
 msgctxt "CREATURE:BIRD_KIWI_GIANT"
 msgid "[PREFSTRING:long beaks]"
-msgstr "[PREFSTRING:长喙]"
+msgstr "[PREFSTRING:长尖喙]"
 
 #: creature_birds.txt:1496
 msgctxt "CREATURE:BIRD_OSTRICH"
@@ -6745,7 +6746,7 @@ msgstr "[ATTACK_VERB:踢:踢]"
 #: creature_birds.txt:1567
 msgctxt "CREATURE:BIRD_OSTRICH"
 msgid "[ATTACK_VERB:bite:bites]"
-msgstr "[ATTACK_VERB:咬:咬]"
+msgstr "[ATTACK_VERB:啄;啄]"
 
 #: creature_birds.txt:1576
 msgctxt "CREATURE:BIRD_OSTRICH"
@@ -6832,12 +6833,12 @@ msgstr "[CASTE_NAME:母巨鸵鸟:母巨鸵鸟:母巨鸵鸟]"
 #: creature_birds.txt:1664
 msgctxt "CREATURE:BIRD_OSTRICH_GIANT"
 msgid "[PREFSTRING:long necks]"
-msgstr ""
+msgstr "[PREFSTRING:长颈]"
 
 #: creature_birds.txt:1665
 msgctxt "CREATURE:BIRD_OSTRICH_GIANT"
 msgid "[PREFSTRING:giant eggs]"
-msgstr ""
+msgstr "[PREFSTRING:巨型鸟蛋]"
 
 #: creature_birds_new.txt:12
 msgctxt "CREATURE:BIRD_CROW"
@@ -6864,7 +6865,7 @@ msgstr "[GENERAL_CHILD_NAME:乌鸦幼崽:乌鸦幼崽]"
 #: creature_birds_new.txt:40
 msgctxt "CREATURE:BIRD_CROW"
 msgid "[PREFSTRING:intelligence]"
-msgstr ""
+msgstr "[PREFSTRING:聪慧]"
 
 #: creature_birds_new.txt:78
 msgctxt "CREATURE:BIRD_CROW"
@@ -6874,22 +6875,22 @@ msgstr "[ATTACK_VERB:咬:咬]"
 #: creature_birds_new.txt:87
 msgctxt "CREATURE:BIRD_CROW"
 msgid "[ATTACK_VERB:snatch at:snatches at]"
-msgstr ""
+msgstr "[ATTACK_VERB:抓住:抓住]"
 
 #: creature_birds_new.txt:108
 msgctxt "CREATURE:BIRD_CROW"
 msgid "[TLCM_NOUN:feathers:PLURAL]"
-msgstr ""
+msgstr "[TLCM_NOUN:羽毛:PLURAL]"
 
 #: creature_birds_new.txt:111
 msgctxt "CREATURE:BIRD_CROW"
 msgid "[TLCM_NOUN:skin:SINGULAR]"
-msgstr ""
+msgstr "[TLCM_NOUN:皮:SINGULAR]"
 
 #: creature_birds_new.txt:114
 msgctxt "CREATURE:BIRD_CROW"
 msgid "[TLCM_NOUN:eyes:PLURAL]"
-msgstr ""
+msgstr "[TLCM_NOUN:眼睛:PLURAL]"
 
 #: creature_birds_new.txt:121
 msgctxt "CREATURE:CROW_MAN"
@@ -6936,7 +6937,7 @@ msgstr "[DESCRIPTION:一种大型鸟类怪物,在成群结队时更加致命。]
 #: creature_birds_new.txt:164
 msgctxt "CREATURE:GIANT_CROW"
 msgid "[PREFSTRING:intelligence]"
-msgstr ""
+msgstr "[PREFSTRING:聪慧]"
 
 #: creature_birds_new.txt:178
 msgctxt "CREATURE:BIRD_RAVEN"
@@ -6963,32 +6964,32 @@ msgstr "[GENERAL_CHILD_NAME:渡鸦幼崽:渡鸦幼崽]"
 #: creature_birds_new.txt:209
 msgctxt "CREATURE:BIRD_RAVEN"
 msgid "[PREFSTRING:intelligence]"
-msgstr ""
+msgstr "[PREFSTRING:聪慧]"
 
 #: creature_birds_new.txt:247
 msgctxt "CREATURE:BIRD_RAVEN"
 msgid "[ATTACK_VERB:bite:bites]"
-msgstr ""
+msgstr "[ATTACK_VERB:啄;啄]"
 
 #: creature_birds_new.txt:256
 msgctxt "CREATURE:BIRD_RAVEN"
 msgid "[ATTACK_VERB:snatch at:snatches at]"
-msgstr ""
+msgstr "[ATTACK_VERB:抓住:抓住]"
 
 #: creature_birds_new.txt:277
 msgctxt "CREATURE:BIRD_RAVEN"
 msgid "[TLCM_NOUN:feathers:PLURAL]"
-msgstr ""
+msgstr "[TLCM_NOUN:羽毛:PLURAL]"
 
 #: creature_birds_new.txt:280
 msgctxt "CREATURE:BIRD_RAVEN"
 msgid "[TLCM_NOUN:skin:SINGULAR]"
-msgstr ""
+msgstr "[TLCM_NOUN:皮:SINGULAR]"
 
 #: creature_birds_new.txt:283
 msgctxt "CREATURE:BIRD_RAVEN"
 msgid "[TLCM_NOUN:eyes:PLURAL]"
-msgstr ""
+msgstr "[TLCM_NOUN:眼睛:PLURAL]"
 
 #: creature_birds_new.txt:290
 msgctxt "CREATURE:RAVEN_MAN"
@@ -7023,7 +7024,7 @@ msgstr "[CASTE_NAME:巨渡鸦:巨渡鸦:巨渡鸦]"
 #: creature_birds_new.txt:323
 msgctxt "CREATURE:GIANT_RAVEN"
 msgid "[GENERAL_CHILD_NAME:giant raven hatchling:giant raven hatchlings]"
-msgstr "[GENERAL_CHILD_NAME:巨型渡鸦幼崽:巨型渡鸦幼崽]"
+msgstr "[GENERAL_CHILD_NAME:巨渡鸦幼崽:巨渡鸦幼崽]"
 
 #: creature_birds_new.txt:324
 msgctxt "CREATURE:GIANT_RAVEN"
@@ -7035,102 +7036,102 @@ msgstr "[DESCRIPTION:一种大型鸟类怪物,在成群结队时更加致命。]
 #: creature_birds_new.txt:333
 msgctxt "CREATURE:GIANT_RAVEN"
 msgid "[PREFSTRING:intelligence]"
-msgstr ""
+msgstr "[PREFSTRING:聪慧]"
 
 #: creature_birds_new.txt:346
 msgctxt "CREATURE:BIRD_CASSOWARY"
 msgid "[DESCRIPTION:A small, flightless, brightly-colored bird.]"
-msgstr ""
+msgstr "[DESCRIPTION:一种无法飞行的色彩鲜艳的小型鸟类。]"
 
 #: creature_birds_new.txt:347
 msgctxt "CREATURE:BIRD_CASSOWARY"
 msgid "[NAME:cassowary:cassowaries:cassowary]"
-msgstr "[NAME:食火鸡:食火鸡:食火鸡]"
+msgstr "[NAME:鹤鸵:鹤鸵:鹤鸵]"
 
 #: creature_birds_new.txt:348
 msgctxt "CREATURE:BIRD_CASSOWARY"
 msgid "[CASTE_NAME:cassowary:cassowaries:cassowary]"
-msgstr "[CASTE_NAME:食火鸡:食火鸡:食火鸡]"
+msgstr "[CASTE_NAME:鹤鸵:鹤鸵:鹤鸵]"
 
 #: creature_birds_new.txt:349
 msgctxt "CREATURE:BIRD_CASSOWARY"
 msgid "[GENERAL_CHILD_NAME:cassowary chick:cassowary chicks]"
-msgstr ""
+msgstr "[GENERAL_CHILD_NAME:鹤鸵雏鸟:鹤鸵雏鸟]"
 
 #: creature_birds_new.txt:362
 msgctxt "CREATURE:BIRD_CASSOWARY"
 msgid "[PREFSTRING:casques]"
-msgstr ""
+msgstr "[PREFSTRING:角质盔]"
 
 #: creature_birds_new.txt:404
 msgctxt "CREATURE:BIRD_CASSOWARY"
 msgid "[ATTACK_VERB:kick:kicks]"
-msgstr ""
+msgstr "[ATTACK_VERB:踢:踢]"
 
 #: creature_birds_new.txt:412
 msgctxt "CREATURE:BIRD_CASSOWARY"
 msgid "[ATTACK_VERB:bite:bites]"
-msgstr ""
+msgstr "[ATTACK_VERB:啄;啄]"
 
 #: creature_birds_new.txt:432
 msgctxt "CREATURE:BIRD_CASSOWARY"
 msgid "[TLCM_NOUN:feathers:PLURAL]"
-msgstr ""
+msgstr "[TLCM_NOUN:羽毛:PLURAL]"
 
 #: creature_birds_new.txt:435
 msgctxt "CREATURE:BIRD_CASSOWARY"
 msgid "[TLCM_NOUN:skin:SINGULAR]"
-msgstr ""
+msgstr "[TLCM_NOUN:皮:SINGULAR]"
 
 #: creature_birds_new.txt:438
 msgctxt "CREATURE:BIRD_CASSOWARY"
 msgid "[TLCM_NOUN:eyes:PLURAL]"
-msgstr ""
+msgstr "[TLCM_NOUN:眼睛:PLURAL]"
 
 #: creature_birds_new.txt:445
 msgctxt "CREATURE:CASSOWARY_MAN"
 msgid "[CASTE_NAME:cassowary man:cassowary men:cassowary man]"
-msgstr "[CASTE_NAME:食火鸡人:食火鸡人:食火鸡人]"
+msgstr "[CASTE_NAME:鹤鸵人:鹤鸵人:鹤鸵人]"
 
 #: creature_birds_new.txt:447
 msgctxt "CREATURE:CASSOWARY_MAN"
 msgid "[CASTE_NAME:cassowary woman:cassowary women:cassowary woman]"
-msgstr "[CASTE_NAME:食火鸡女:食火鸡女:食火鸡女]"
+msgstr "[CASTE_NAME:鹤鸵女:鹤鸵女:鹤鸵女]"
 
 #: creature_birds_new.txt:458
 msgctxt "CREATURE:CASSOWARY_MAN"
 msgid "[NAME:cassowary man:cassowary men:cassowary man]"
-msgstr "[NAME:食火鸡人:食火鸡人:食火鸡人]"
+msgstr "[NAME:鹤鸵人:鹤鸵人:鹤鸵人]"
 
 #: creature_birds_new.txt:459
 msgctxt "CREATURE:CASSOWARY_MAN"
 msgid "[DESCRIPTION:A brightly-colored person with the head of a cassowary.]"
-msgstr "[DESCRIPTION:一个长着食火鸡脑袋的色彩鲜艳的人。]"
+msgstr "[DESCRIPTION:一个长着鹤鸵脑袋的色彩鲜艳的人。]"
 
 #: creature_birds_new.txt:475
 msgctxt "CREATURE:GIANT_CASSOWARY"
 msgid "[NAME:giant cassowary:giant cassowaries:giant cassowary]"
-msgstr "[NAME:巨食火鸡:巨食火鸡:巨食火鸡]"
+msgstr "[NAME:巨鹤鸵:巨鹤鸵:巨鹤鸵]"
 
 #: creature_birds_new.txt:476
 msgctxt "CREATURE:GIANT_CASSOWARY"
 msgid "[CASTE_NAME:giant cassowary:giant cassowaries:giant cassowary]"
-msgstr "[CASTE_NAME:巨食火鸡:巨食火鸡:巨食火鸡]"
+msgstr "[CASTE_NAME:巨鹤鸵:巨鹤鸵:巨鹤鸵]"
 
 #: creature_birds_new.txt:477
 msgctxt "CREATURE:GIANT_CASSOWARY"
 msgid "[GENERAL_CHILD_NAME:giant cassowary chick:giant cassowary chicks]"
-msgstr "[GENERAL_CHILD_NAME:巨食火鸡雏鸟:巨食火鸡雏鸟]"
+msgstr "[GENERAL_CHILD_NAME:巨鹤鸵雏鸟:巨鹤鸵雏鸟]"
 
 #: creature_birds_new.txt:478
 msgctxt "CREATURE:GIANT_CASSOWARY"
 msgid "[DESCRIPTION:A huge monster in the shape of a cassowary.]"
-msgstr "[DESCRIPTION:一只体型巨大的食火鸡怪。]"
+msgstr "[DESCRIPTION:一只体型巨大的鹤鸵怪。]"
 
 #: creature_birds_new.txt:486
 msgctxt "CREATURE:GIANT_CASSOWARY"
 msgid "[PREFSTRING:casques]"
-msgstr ""
+msgstr "[PREFSTRING:角质盔]"
 
 #: creature_birds_new.txt:494
 msgctxt "CREATURE:BIRD_KEA"
@@ -7155,37 +7156,37 @@ msgstr "[GENERAL_CHILD_NAME:啄羊鹦鹉雏鸟:啄羊鹦鹉雏鸟]"
 #: creature_birds_new.txt:523
 msgctxt "CREATURE:BIRD_KEA"
 msgid "[PREFSTRING:curiosity]"
-msgstr ""
+msgstr "[PREFSTRING:好奇心]"
 
 #: creature_birds_new.txt:524
 msgctxt "CREATURE:BIRD_KEA"
 msgid "[PREFSTRING:intelligence]"
-msgstr ""
+msgstr "[PREFSTRING:聪慧]"
 
 #: creature_birds_new.txt:563
 msgctxt "CREATURE:BIRD_KEA"
 msgid "[ATTACK_VERB:bite:bites]"
-msgstr ""
+msgstr "[ATTACK_VERB:啄;啄]"
 
 #: creature_birds_new.txt:572
 msgctxt "CREATURE:BIRD_KEA"
 msgid "[ATTACK_VERB:snatch at:snatches at]"
-msgstr ""
+msgstr "[ATTACK_VERB:抓住:抓住]"
 
 #: creature_birds_new.txt:593
 msgctxt "CREATURE:BIRD_KEA"
 msgid "[TLCM_NOUN:feathers:PLURAL]"
-msgstr ""
+msgstr "[TLCM_NOUN:羽毛:PLURAL]"
 
 #: creature_birds_new.txt:597
 msgctxt "CREATURE:BIRD_KEA"
 msgid "[TLCM_NOUN:skin:SINGULAR]"
-msgstr ""
+msgstr "[TLCM_NOUN:皮:SINGULAR]"
 
 #: creature_birds_new.txt:600
 msgctxt "CREATURE:BIRD_KEA"
 msgid "[TLCM_NOUN:eyes:PLURAL]"
-msgstr ""
+msgstr "[TLCM_NOUN:眼睛:PLURAL]"
 
 #: creature_birds_new.txt:607
 msgctxt "CREATURE:KEA_MAN"
@@ -7230,12 +7231,12 @@ msgstr "[DESCRIPTION:一种体型数倍于寻常体型的啄羊鹦鹉怪。]"
 #: creature_birds_new.txt:650
 msgctxt "CREATURE:GIANT_KEA"
 msgid "[PREFSTRING:curiosity]"
-msgstr ""
+msgstr "[PREFSTRING:好奇心]"
 
 #: creature_birds_new.txt:651
 msgctxt "CREATURE:GIANT_KEA"
 msgid "[PREFSTRING:intelligence]"
-msgstr ""
+msgstr "[PREFSTRING:聪慧]"
 
 #: creature_birds_new.txt:664
 msgctxt "CREATURE:BIRD_OWL_SNOWY"
@@ -7257,42 +7258,42 @@ msgstr "[CASTE_NAME:雪鸮:雪鸮:雪鸮]"
 #: creature_birds_new.txt:667
 msgctxt "CREATURE:BIRD_OWL_SNOWY"
 msgid "[GENERAL_CHILD_NAME:snowy owl chick:snowy owl chicks]"
-msgstr "[GENERAL_CHILD_NAME:雪枭雏鸟:雪枭雏鸟]"
+msgstr "[GENERAL_CHILD_NAME:雪鸮雏鸟:雪鸮雏鸟]"
 
 #: creature_birds_new.txt:688
 msgctxt "CREATURE:BIRD_OWL_SNOWY"
 msgid "[PREFSTRING:yellow eyes]"
-msgstr ""
+msgstr "[PREFSTRING:黄色眼眸]"
 
 #: creature_birds_new.txt:689
 msgctxt "CREATURE:BIRD_OWL_SNOWY"
 msgid "[PREFSTRING:coloration]"
-msgstr ""
+msgstr "[PREFSTRING:自然花纹]"
 
 #: creature_birds_new.txt:728
 msgctxt "CREATURE:BIRD_OWL_SNOWY"
 msgid "[ATTACK_VERB:bite:bites]"
-msgstr ""
+msgstr "[ATTACK_VERB:啄;啄]"
 
 #: creature_birds_new.txt:737
 msgctxt "CREATURE:BIRD_OWL_SNOWY"
 msgid "[ATTACK_VERB:snatch at:snatches at]"
-msgstr ""
+msgstr "[ATTACK_VERB:抓住:抓住]"
 
 #: creature_birds_new.txt:755
 msgctxt "CREATURE:BIRD_OWL_SNOWY"
 msgid "[TLCM_NOUN:feathers:PLURAL]"
-msgstr ""
+msgstr "[TLCM_NOUN:羽毛:PLURAL]"
 
 #: creature_birds_new.txt:764
 msgctxt "CREATURE:BIRD_OWL_SNOWY"
 msgid "[TLCM_NOUN:skin:SINGULAR]"
-msgstr ""
+msgstr "[TLCM_NOUN:皮:SINGULAR]"
 
 #: creature_birds_new.txt:767
 msgctxt "CREATURE:BIRD_OWL_SNOWY"
 msgid "[TLCM_NOUN:eyes:PLURAL]"
-msgstr ""
+msgstr "[TLCM_NOUN:眼睛:PLURAL]"
 
 #: creature_birds_new.txt:774
 msgctxt "CREATURE:SNOWY_OWL_MAN"
@@ -7312,7 +7313,7 @@ msgstr "[NAME:雪鸮人:雪鸮人:雪鸮人]"
 #: creature_birds_new.txt:789
 msgctxt "CREATURE:SNOWY_OWL_MAN"
 msgid "[DESCRIPTION:A person with the wings and head of a snowy owl.]"
-msgstr "[DESCRIPTION:一个长着雪枭脑袋和翅膀的人。]"
+msgstr "[DESCRIPTION:一个长着雪鸮脑袋和翅膀的人。]"
 
 #: creature_birds_new.txt:805
 msgctxt "CREATURE:GIANT_SNOWY_OWL"
@@ -7327,22 +7328,22 @@ msgstr "[CASTE_NAME:巨雪鸮:巨雪鸮:巨雪鸮]"
 #: creature_birds_new.txt:807
 msgctxt "CREATURE:GIANT_SNOWY_OWL"
 msgid "[GENERAL_CHILD_NAME:giant snowy owl chick:giant snowy owl chicks]"
-msgstr "[GENERAL_CHILD_NAME:巨雪枭雏鸟:巨雪枭雏鸟]"
+msgstr "[GENERAL_CHILD_NAME:巨雪鸮雏鸟:巨雪鸮雏鸟]"
 
 #: creature_birds_new.txt:808
 msgctxt "CREATURE:GIANT_SNOWY_OWL"
 msgid "[DESCRIPTION:A large bird monster in the shape of a snowy owl.]"
-msgstr "[DESCRIPTION:一只体型巨大的雪枭怪。]"
+msgstr "[DESCRIPTION:一只体型巨大的雪鸮怪。]"
 
 #: creature_birds_new.txt:816
 msgctxt "CREATURE:GIANT_SNOWY_OWL"
 msgid "[PREFSTRING:yellow eyes]"
-msgstr ""
+msgstr "[PREFSTRING:黄色眼眸]"
 
 #: creature_birds_new.txt:817
 msgctxt "CREATURE:GIANT_SNOWY_OWL"
 msgid "[PREFSTRING:coloration]"
-msgstr ""
+msgstr "[PREFSTRING:自然花纹]"
 
 #: creature_birds_new.txt:830
 msgctxt "CREATURE:SPARROW"
@@ -7353,12 +7354,12 @@ msgstr "[DESCRIPTION:一种在大多数温带地区找到的小型棕色鸟类�
 #: creature_birds_new.txt:831
 msgctxt "CREATURE:SPARROW"
 msgid "[NAME:sparrow:sparrows:sparrow]"
-msgstr "[NAME:雀:雀:雀]"
+msgstr "[NAME:麻雀:麻雀:麻雀]"
 
 #: creature_birds_new.txt:832
 msgctxt "CREATURE:SPARROW"
 msgid "[CASTE_NAME:sparrow:sparrows:sparrow]"
-msgstr "[CASTE_NAME:雀:雀:雀]"
+msgstr "[CASTE_NAME:麻雀:麻雀:麻雀]"
 
 #: creature_birds_new.txt:833
 msgctxt "CREATURE:SPARROW"
@@ -7368,7 +7369,7 @@ msgstr "[GENERAL_CHILD_NAME:麻雀幼崽:麻雀幼崽]"
 #: creature_birds_new.txt:859
 msgctxt "CREATURE:SPARROW"
 msgid "[PREFSTRING:lovely songs]"
-msgstr "[PREFSTRING:悦耳音乐]"
+msgstr "[PREFSTRING:悦耳的声乐]"
 
 #: creature_birds_new.txt:860
 msgctxt "CREATURE:SPARROW"
@@ -7378,27 +7379,27 @@ msgstr "[PREFSTRING:沙浴]"
 #: creature_birds_new.txt:898
 msgctxt "CREATURE:SPARROW"
 msgid "[ATTACK_VERB:bite:bites]"
-msgstr ""
+msgstr "[ATTACK_VERB:啄;啄]"
 
 #: creature_birds_new.txt:907
 msgctxt "CREATURE:SPARROW"
 msgid "[ATTACK_VERB:snatch at:snatches at]"
-msgstr ""
+msgstr "[ATTACK_VERB:抓住:抓住]"
 
 #: creature_birds_new.txt:928
 msgctxt "CREATURE:SPARROW"
 msgid "[TLCM_NOUN:feathers:PLURAL]"
-msgstr ""
+msgstr "[TLCM_NOUN:羽毛:PLURAL]"
 
 #: creature_birds_new.txt:931
 msgctxt "CREATURE:SPARROW"
 msgid "[TLCM_NOUN:skin:SINGULAR]"
-msgstr ""
+msgstr "[TLCM_NOUN:皮:SINGULAR]"
 
 #: creature_birds_new.txt:934
 msgctxt "CREATURE:SPARROW"
 msgid "[TLCM_NOUN:eyes:PLURAL]"
-msgstr ""
+msgstr "[TLCM_NOUN:眼睛:PLURAL]"
 
 #: creature_birds_new.txt:941
 msgctxt "CREATURE:SPARROW_MAN"
@@ -7443,7 +7444,7 @@ msgstr "[DESCRIPTION:一只体型巨大的麻雀怪。]"
 #: creature_birds_new.txt:984
 msgctxt "CREATURE:GIANT_SPARROW"
 msgid "[PREFSTRING:lovely songs]"
-msgstr "[PREFSTRING:悦耳音乐]"
+msgstr "[PREFSTRING:悦耳的声乐]"
 
 #: creature_birds_new.txt:985
 msgctxt "CREATURE:GIANT_SPARROW"
@@ -7455,7 +7456,7 @@ msgctxt "CREATURE:BIRD_STORK_WHITE"
 msgid ""
 "[DESCRIPTION:A small bird with long legs and bill, and a extremely long "
 "wingspan.]"
-msgstr "[DESCRIPTION:一直有着长腿、长喙以及翼展极长的小鸟。]"
+msgstr "[DESCRIPTION:一直有着长腿、长扁喙以及翼展极长的小鸟。]"
 
 #: creature_birds_new.txt:999
 msgctxt "CREATURE:BIRD_STORK_WHITE"
@@ -7475,37 +7476,37 @@ msgstr "[GENERAL_CHILD_NAME:白鹳幼崽:白鹳幼崽]"
 #: creature_birds_new.txt:1019
 msgctxt "CREATURE:BIRD_STORK_WHITE"
 msgid "[PREFSTRING:long necks]"
-msgstr ""
+msgstr "[PREFSTRING:长颈]"
 
 #: creature_birds_new.txt:1020
 msgctxt "CREATURE:BIRD_STORK_WHITE"
 msgid "[PREFSTRING:long legs]"
-msgstr ""
+msgstr "[PREFSTRING:长腿]"
 
 #: creature_birds_new.txt:1021
 msgctxt "CREATURE:BIRD_STORK_WHITE"
 msgid "[PREFSTRING:long bills]"
-msgstr ""
+msgstr "[PREFSTRING:长扁喙]"
 
 #: creature_birds_new.txt:1057
 msgctxt "CREATURE:BIRD_STORK_WHITE"
 msgid "[ATTACK_VERB:bite:bites]"
-msgstr ""
+msgstr "[ATTACK_VERB:啄;啄]"
 
 #: creature_birds_new.txt:1078
 msgctxt "CREATURE:BIRD_STORK_WHITE"
 msgid "[TLCM_NOUN:feathers:PLURAL]"
-msgstr ""
+msgstr "[TLCM_NOUN:羽毛:PLURAL]"
 
 #: creature_birds_new.txt:1081
 msgctxt "CREATURE:BIRD_STORK_WHITE"
 msgid "[TLCM_NOUN:skin:SINGULAR]"
-msgstr ""
+msgstr "[TLCM_NOUN:皮:SINGULAR]"
 
 #: creature_birds_new.txt:1084
 msgctxt "CREATURE:BIRD_STORK_WHITE"
 msgid "[TLCM_NOUN:eyes:PLURAL]"
-msgstr ""
+msgstr "[TLCM_NOUN:眼睛:PLURAL]"
 
 #: creature_birds_new.txt:1091
 msgctxt "CREATURE:WHITE_STORK_MAN"
@@ -7554,17 +7555,17 @@ msgstr "[DESCRIPTION:一只体型巨大的鹳怪。]"
 #: creature_birds_new.txt:1133
 msgctxt "CREATURE:GIANT_WHITE_STORK"
 msgid "[PREFSTRING:long necks]"
-msgstr ""
+msgstr "[PREFSTRING:长颈]"
 
 #: creature_birds_new.txt:1134
 msgctxt "CREATURE:GIANT_WHITE_STORK"
 msgid "[PREFSTRING:long legs]"
-msgstr ""
+msgstr "[PREFSTRING:长腿]"
 
 #: creature_birds_new.txt:1135
 msgctxt "CREATURE:GIANT_WHITE_STORK"
 msgid "[PREFSTRING:long bills]"
-msgstr ""
+msgstr "[PREFSTRING:长扁喙]"
 
 #: creature_birds_new.txt:1148
 msgctxt "CREATURE:BIRD_LOON"
@@ -7586,37 +7587,37 @@ msgstr "[CASTE_NAME:潜鸟:潜鸟:潜鸟]"
 #: creature_birds_new.txt:1151
 msgctxt "CREATURE:BIRD_LOON"
 msgid "[GENERAL_CHILD_NAME:loon chick:loon chicks]"
-msgstr ""
+msgstr "[GENERAL_CHILD_NAME:潜鸟雏鸟:潜鸟雏鸟]"
 
 #: creature_birds_new.txt:1170
 msgctxt "CREATURE:BIRD_LOON"
 msgid "[PREFSTRING:haunting call]"
-msgstr ""
+msgstr "[PREFSTRING:瘆人的叫声]"
 
 #: creature_birds_new.txt:1171
 msgctxt "CREATURE:BIRD_LOON"
 msgid "[PREFSTRING:coloration]"
-msgstr ""
+msgstr "[PREFSTRING:自然花纹]"
 
 #: creature_birds_new.txt:1207
 msgctxt "CREATURE:BIRD_LOON"
 msgid "[ATTACK_VERB:bite:bites]"
-msgstr ""
+msgstr "[ATTACK_VERB:啄;啄]"
 
 #: creature_birds_new.txt:1228
 msgctxt "CREATURE:BIRD_LOON"
 msgid "[TLCM_NOUN:feathers:PLURAL]"
-msgstr ""
+msgstr "[TLCM_NOUN:羽毛:PLURAL]"
 
 #: creature_birds_new.txt:1231
 msgctxt "CREATURE:BIRD_LOON"
 msgid "[TLCM_NOUN:skin:SINGULAR]"
-msgstr ""
+msgstr "[TLCM_NOUN:皮肤:SINGULAR]"
 
 #: creature_birds_new.txt:1234
 msgctxt "CREATURE:BIRD_LOON"
 msgid "[TLCM_NOUN:eyes:PLURAL]"
-msgstr ""
+msgstr "[TLCM_NOUN:眼睛:PLURAL]"
 
 #: creature_birds_new.txt:1241
 msgctxt "CREATURE:LOON_MAN"
@@ -7661,12 +7662,12 @@ msgstr "[DESCRIPTION:一只体型巨大的潜鸟怪。]"
 #: creature_birds_new.txt:1283
 msgctxt "CREATURE:GIANT_LOON"
 msgid "[PREFSTRING:haunting call]"
-msgstr ""
+msgstr "[PREFSTRING:瘆人的叫声]"
 
 #: creature_birds_new.txt:1284
 msgctxt "CREATURE:GIANT_LOON"
 msgid "[PREFSTRING:coloration]"
-msgstr ""
+msgstr "[PREFSTRING:自然花纹]"
 
 #: creature_birds_new.txt:1296
 msgctxt "CREATURE:BIRD_OWL_BARN"
@@ -7693,32 +7694,32 @@ msgstr "[GENERAL_CHILD_NAME:仓鸮雏鸟:仓鸮雏鸟]"
 #: creature_birds_new.txt:1326
 msgctxt "CREATURE:BIRD_OWL_BARN"
 msgid "[PREFSTRING:coloration]"
-msgstr ""
+msgstr "[PREFSTRING:自然花纹]"
 
 #: creature_birds_new.txt:1366
 msgctxt "CREATURE:BIRD_OWL_BARN"
 msgid "[ATTACK_VERB:bite:bites]"
-msgstr ""
+msgstr "[ATTACK_VERB:啄;啄]"
 
 #: creature_birds_new.txt:1375
 msgctxt "CREATURE:BIRD_OWL_BARN"
 msgid "[ATTACK_VERB:snatch at:snatches at]"
-msgstr ""
+msgstr "[ATTACK_VERB:抓住:抓住]"
 
 #: creature_birds_new.txt:1396
 msgctxt "CREATURE:BIRD_OWL_BARN"
 msgid "[TLCM_NOUN:feathers:PLURAL]"
-msgstr ""
+msgstr "[TLCM_NOUN:羽毛:PLURAL]"
 
 #: creature_birds_new.txt:1399
 msgctxt "CREATURE:BIRD_OWL_BARN"
 msgid "[TLCM_NOUN:skin:SINGULAR]"
-msgstr ""
+msgstr "[TLCM_NOUN:皮肤:SINGULAR]"
 
 #: creature_birds_new.txt:1402
 msgctxt "CREATURE:BIRD_OWL_BARN"
 msgid "[TLCM_NOUN:eyes:PLURAL]"
-msgstr ""
+msgstr "[TLCM_NOUN:眼睛:PLURAL]"
 
 #: creature_birds_new.txt:1409
 msgctxt "CREATURE:BARN_OWL_MAN"
@@ -7763,7 +7764,7 @@ msgstr "[DESCRIPTION:一只体型巨大的仓鸮怪。]"
 #: creature_birds_new.txt:1451
 msgctxt "CREATURE:GIANT_BARN_OWL"
 msgid "[PREFSTRING:coloration]"
-msgstr ""
+msgstr "[PREFSTRING:自然花纹]"
 
 #: creature_birds_new.txt:1464
 msgctxt "CREATURE:BIRD_PARAKEET"
@@ -7785,42 +7786,42 @@ msgstr "[CASTE_NAME:长尾鹦鹉:长尾鹦鹉:长尾鹦鹉]"
 #: creature_birds_new.txt:1467
 msgctxt "CREATURE:BIRD_PARAKEET"
 msgid "[GENERAL_CHILD_NAME:parakeet hatchling:parakeet hatchlings]"
-msgstr ""
+msgstr "[GENERAL_CHILD_NAME:长尾鹦鹉幼崽:长尾鹦鹉幼崽]"
 
 #: creature_birds_new.txt:1490
 msgctxt "CREATURE:BIRD_PARAKEET"
 msgid "[PREFSTRING:coloration]"
-msgstr ""
+msgstr "[PREFSTRING:自然花纹]"
 
 #: creature_birds_new.txt:1491
 msgctxt "CREATURE:BIRD_PARAKEET"
 msgid "[PREFSTRING:ability to speak]"
-msgstr ""
+msgstr "[PREFSTRING:可说话]"
 
 #: creature_birds_new.txt:1529
 msgctxt "CREATURE:BIRD_PARAKEET"
 msgid "[ATTACK_VERB:bite:bites]"
-msgstr ""
+msgstr "[ATTACK_VERB:啄;啄]"
 
 #: creature_birds_new.txt:1538
 msgctxt "CREATURE:BIRD_PARAKEET"
 msgid "[ATTACK_VERB:snatch at:snatches at]"
-msgstr ""
+msgstr "[ATTACK_VERB:抓住:抓住]"
 
 #: creature_birds_new.txt:1559
 msgctxt "CREATURE:BIRD_PARAKEET"
 msgid "[TLCM_NOUN:feathers:PLURAL]"
-msgstr ""
+msgstr "[TLCM_NOUN:羽毛:PLURAL]"
 
 #: creature_birds_new.txt:1562
 msgctxt "CREATURE:BIRD_PARAKEET"
 msgid "[TLCM_NOUN:skin:SINGULAR]"
-msgstr ""
+msgstr "[TLCM_NOUN:皮肤:SINGULAR]"
 
 #: creature_birds_new.txt:1565
 msgctxt "CREATURE:BIRD_PARAKEET"
 msgid "[TLCM_NOUN:eyes:PLURAL]"
-msgstr ""
+msgstr "[TLCM_NOUN:眼睛:PLURAL]"
 
 #: creature_birds_new.txt:1572
 msgctxt "CREATURE:PARAKEET_MAN"
@@ -7840,7 +7841,7 @@ msgstr "[NAME:长尾鹦鹉人:长尾鹦鹉人:长尾鹦鹉人]"
 #: creature_birds_new.txt:1587
 msgctxt "CREATURE:PARAKEET_MAN"
 msgid "[DESCRIPTION:A person with the head and wings of a parakeet.]"
-msgstr ""
+msgstr "[DESCRIPTION:一个长着长尾鹦鹉脑袋和翅膀的人。]"
 
 #: creature_birds_new.txt:1603
 msgctxt "CREATURE:GIANT_PARAKEET"
@@ -7856,29 +7857,29 @@ msgstr "[CASTE_NAME:巨长尾鹦鹉:巨长尾鹦鹉:巨长尾鹦鹉]"
 msgctxt "CREATURE:GIANT_PARAKEET"
 msgid ""
 "[GENERAL_CHILD_NAME:giant parakeet hatchling:giant parakeet hatchlings]"
-msgstr ""
+msgstr "[GENERAL_CHILD_NAME:巨长尾鹦鹉幼崽:巨长尾鹦鹉幼崽]"
 
 #: creature_birds_new.txt:1606
 msgctxt "CREATURE:GIANT_PARAKEET"
 msgid "[DESCRIPTION:A large monster in the shape of a parakeet.]"
-msgstr ""
+msgstr "[DESCRIPTION:一只体型巨大的长尾鹦鹉怪。]"
 
 #: creature_birds_new.txt:1615
 msgctxt "CREATURE:GIANT_PARAKEET"
 msgid "[PREFSTRING:coloration]"
-msgstr ""
+msgstr "[PREFSTRING:自然花纹]"
 
 #: creature_birds_new.txt:1616
 msgctxt "CREATURE:GIANT_PARAKEET"
 msgid "[PREFSTRING:ability to speak]"
-msgstr ""
+msgstr "[PREFSTRING:可说话]"
 
 #: creature_birds_new.txt:1628
 msgctxt "CREATURE:BIRD_KAKAPO"
 msgid ""
 "[DESCRIPTION:A small flightless green parrot.  It is nocturnal and counts "
 "itself among the longest-lived birds.]"
-msgstr ""
+msgstr "[DESCRIPTION:一种无法飞行的小型绿色鹦鹉。它是夜习性的且被认为是最长寿的鸟类之一。]"
 
 #: creature_birds_new.txt:1629
 msgctxt "CREATURE:BIRD_KAKAPO"
@@ -7893,27 +7894,27 @@ msgstr "[CASTE_NAME:鸮鹦鹉:鸮鹦鹉:鸮鹦鹉]"
 #: creature_birds_new.txt:1631
 msgctxt "CREATURE:BIRD_KAKAPO"
 msgid "[GENERAL_CHILD_NAME:kakapo chick:kakapo chicks]"
-msgstr ""
+msgstr "[GENERAL_CHILD_NAME:鸮鹦鹉雏鸟:鸮鹦鹉雏鸟]"
 
 #: creature_birds_new.txt:1649
 msgctxt "CREATURE:BIRD_KAKAPO"
 msgid "[PREFSTRING:longevity]"
-msgstr ""
+msgstr "[PREFSTRING:长寿]"
 
 #: creature_birds_new.txt:1650
 msgctxt "CREATURE:BIRD_KAKAPO"
 msgid "[PREFSTRING:flightlessness]"
-msgstr ""
+msgstr "[PREFSTRING:不可飞行]"
 
 #: creature_birds_new.txt:1651
 msgctxt "CREATURE:BIRD_KAKAPO"
 msgid "[PREFSTRING:booming calls]"
-msgstr ""
+msgstr "[PREFSTRING:轰鸣的叫声]"
 
 #: creature_birds_new.txt:1687
 msgctxt "CREATURE:BIRD_KAKAPO"
 msgid "[ATTACK_VERB:bite:bites]"
-msgstr ""
+msgstr "[ATTACK_VERB:啄;啄]"
 
 #: creature_birds_new.txt:1705
 msgctxt "CREATURE:BIRD_KAKAPO"
@@ -7931,17 +7932,17 @@ msgstr ""
 #: creature_birds_new.txt:1710
 msgctxt "CREATURE:BIRD_KAKAPO"
 msgid "[TLCM_NOUN:feathers:PLURAL]"
-msgstr ""
+msgstr "[TLCM_NOUN:羽毛:PLURAL]"
 
 #: creature_birds_new.txt:1713
 msgctxt "CREATURE:BIRD_KAKAPO"
 msgid "[TLCM_NOUN:skin:SINGULAR]"
-msgstr ""
+msgstr "[TLCM_NOUN:皮肤:SINGULAR]"
 
 #: creature_birds_new.txt:1716
 msgctxt "CREATURE:BIRD_KAKAPO"
 msgid "[TLCM_NOUN:eyes:PLURAL]"
-msgstr ""
+msgstr "[TLCM_NOUN:眼睛:PLURAL]"
 
 #: creature_birds_new.txt:1723
 msgctxt "CREATURE:KAKAPO_MAN"
@@ -7961,7 +7962,7 @@ msgstr "[NAME:鸮鹦鹉人:鸮鹦鹉人:鸮鹦鹉人]"
 #: creature_birds_new.txt:1736
 msgctxt "CREATURE:KAKAPO_MAN"
 msgid "[DESCRIPTION:A person with the head and wings of a kakapo.]"
-msgstr ""
+msgstr "[DESCRIPTION:一个长着鸮鹦鹉脑袋和翅膀的人。]"
 
 #: creature_birds_new.txt:1752
 msgctxt "CREATURE:GIANT_KAKAPO"
@@ -7976,34 +7977,34 @@ msgstr "[CASTE_NAME:巨鸮鹦鹉:巨鸮鹦鹉:巨鸮鹦鹉]"
 #: creature_birds_new.txt:1754
 msgctxt "CREATURE:GIANT_KAKAPO"
 msgid "[GENERAL_CHILD_NAME:giant kakapo chick:giant kakapo chicks]"
-msgstr ""
+msgstr "[GENERAL_CHILD_NAME:巨鸮鹦鹉雏鸟:巨鸮鹦鹉雏鸟]"
 
 #: creature_birds_new.txt:1755
 msgctxt "CREATURE:GIANT_KAKAPO"
 msgid "[DESCRIPTION:A large monster the shape of a kakapo.]"
-msgstr ""
+msgstr "[DESCRIPTION:一只体型巨大的鸮鹦鹉怪。]"
 
 #: creature_birds_new.txt:1764
 msgctxt "CREATURE:GIANT_KAKAPO"
 msgid "[PREFSTRING:longevity]"
-msgstr ""
+msgstr "[PREFSTRING:长寿]"
 
 #: creature_birds_new.txt:1765
 msgctxt "CREATURE:GIANT_KAKAPO"
 msgid "[PREFSTRING:flightlessness]"
-msgstr ""
+msgstr "[PREFSTRING:不可飞行]"
 
 #: creature_birds_new.txt:1766
 msgctxt "CREATURE:GIANT_KAKAPO"
 msgid "[PREFSTRING:booming calls]"
-msgstr ""
+msgstr "[PREFSTRING:轰鸣的叫声]"
 
 #: creature_birds_new.txt:1777
 msgctxt "CREATURE:BIRD_PARROT_GREY"
 msgid ""
 "[DESCRIPTION:The most intelligent of birds.  It can be found in the "
 "rainforest.]"
-msgstr ""
+msgstr "[DESCRIPTION:世界上最聪明的鸟类。它能在雨林中发现。]"
 
 #: creature_birds_new.txt:1778
 msgctxt "CREATURE:BIRD_PARROT_GREY"
@@ -8018,37 +8019,37 @@ msgstr "[CASTE_NAME:灰鹦鹉:灰鹦鹉:灰鹦鹉]"
 #: creature_birds_new.txt:1780
 msgctxt "CREATURE:BIRD_PARROT_GREY"
 msgid "[GENERAL_CHILD_NAME:grey parrot chick:grey parrot chicks]"
-msgstr ""
+msgstr "[GENERAL_CHILD_NAME:灰鹦鹉雏鸟:灰鹦鹉雏鸟]"
 
 #: creature_birds_new.txt:1799
 msgctxt "CREATURE:BIRD_PARROT_GREY"
 msgid "[PREFSTRING:intelligence]"
-msgstr ""
+msgstr "[PREFSTRING:聪慧]"
 
 #: creature_birds_new.txt:1800
 msgctxt "CREATURE:BIRD_PARROT_GREY"
 msgid "[PREFSTRING:social nature]"
-msgstr ""
+msgstr "[PREFSTRING:群居天性]"
 
 #: creature_birds_new.txt:1836
 msgctxt "CREATURE:BIRD_PARROT_GREY"
 msgid "[ATTACK_VERB:bite:bites]"
-msgstr ""
+msgstr "[ATTACK_VERB:啄;啄]"
 
 #: creature_birds_new.txt:1857
 msgctxt "CREATURE:BIRD_PARROT_GREY"
 msgid "[TLCM_NOUN:feathers:PLURAL]"
-msgstr ""
+msgstr "[TLCM_NOUN:羽毛:PLURAL]"
 
 #: creature_birds_new.txt:1860
 msgctxt "CREATURE:BIRD_PARROT_GREY"
 msgid "[TLCM_NOUN:skin:SINGULAR]"
-msgstr ""
+msgstr "[TLCM_NOUN:皮肤:SINGULAR]"
 
 #: creature_birds_new.txt:1863
 msgctxt "CREATURE:BIRD_PARROT_GREY"
 msgid "[TLCM_NOUN:eyes:PLURAL]"
-msgstr ""
+msgstr "[TLCM_NOUN:眼睛:PLURAL]"
 
 #: creature_birds_new.txt:1870
 msgctxt "CREATURE:GREY_PARROT_MAN"
@@ -8068,7 +8069,7 @@ msgstr "[NAME:灰鹦鹉人:灰鹦鹉人:灰鹦鹉人]"
 #: creature_birds_new.txt:1884
 msgctxt "CREATURE:GREY_PARROT_MAN"
 msgid "[DESCRIPTION:A person with the head and wings of a grey parrot.]"
-msgstr ""
+msgstr "[DESCRIPTION:一个长着灰鹦鹉脑袋和翅膀的人。]"
 
 #: creature_birds_new.txt:1900
 msgctxt "CREATURE:GIANT_GREY_PARROT"
@@ -8083,29 +8084,29 @@ msgstr "[CASTE_NAME:巨灰鹦鹉:巨灰鹦鹉:巨灰鹦鹉]"
 #: creature_birds_new.txt:1902
 msgctxt "CREATURE:GIANT_GREY_PARROT"
 msgid "[GENERAL_CHILD_NAME:giant grey parrot chick:giant grey parrot chicks]"
-msgstr ""
+msgstr "[GENERAL_CHILD_NAME:巨灰鹦鹉雏鸟:巨灰鹦鹉雏鸟]"
 
 #: creature_birds_new.txt:1903
 msgctxt "CREATURE:GIANT_GREY_PARROT"
 msgid "[DESCRIPTION:A huge monster in the shape of a grey parrot.]"
-msgstr ""
+msgstr "[DESCRIPTION:一只体型巨大的灰鹦鹉怪。]"
 
 #: creature_birds_new.txt:1912
 msgctxt "CREATURE:GIANT_GREY_PARROT"
 msgid "[PREFSTRING:intelligence]"
-msgstr ""
+msgstr "[PREFSTRING:聪慧]"
 
 #: creature_birds_new.txt:1913
 msgctxt "CREATURE:GIANT_GREY_PARROT"
 msgid "[PREFSTRING:social nature]"
-msgstr ""
+msgstr "[PREFSTRING:群居天性]"
 
 #: creature_birds_new.txt:1925
 msgctxt "CREATURE:BIRD_PUFFIN"
 msgid ""
 "[DESCRIPTION:A tiny diving bird found living on seaside cliffs in the colder"
 " climates.]"
-msgstr ""
+msgstr "[DESCRIPTION:一种在气候寒冷的海边悬崖上发现的小型潜鸟。]"
 
 #: creature_birds_new.txt:1926
 msgctxt "CREATURE:BIRD_PUFFIN"
@@ -8120,32 +8121,32 @@ msgstr "[CASTE_NAME:海鹦:海鹦:海鹦]"
 #: creature_birds_new.txt:1928
 msgctxt "CREATURE:BIRD_PUFFIN"
 msgid "[GENERAL_CHILD_NAME:puffin chick:puffin chicks]"
-msgstr ""
+msgstr "[GENERAL_CHILD_NAME:海鹦雏鸟:海鹦雏鸟]"
 
 #: creature_birds_new.txt:1945
 msgctxt "CREATURE:BIRD_PUFFIN"
 msgid "[PREFSTRING:colorful beaks]"
-msgstr ""
+msgstr "[PREFSTRING:彩色尖喙]"
 
 #: creature_birds_new.txt:1981
 msgctxt "CREATURE:BIRD_PUFFIN"
 msgid "[ATTACK_VERB:bite:bites]"
-msgstr ""
+msgstr "[ATTACK_VERB:啄;啄]"
 
 #: creature_birds_new.txt:2002
 msgctxt "CREATURE:BIRD_PUFFIN"
 msgid "[TLCM_NOUN:feathers:PLURAL]"
-msgstr ""
+msgstr "[TLCM_NOUN:羽毛:PLURAL]"
 
 #: creature_birds_new.txt:2005
 msgctxt "CREATURE:BIRD_PUFFIN"
 msgid "[TLCM_NOUN:skin:SINGULAR]"
-msgstr ""
+msgstr "[TLCM_NOUN:皮肤:SINGULAR]"
 
 #: creature_birds_new.txt:2008
 msgctxt "CREATURE:BIRD_PUFFIN"
 msgid "[TLCM_NOUN:eyes:PLURAL]"
-msgstr ""
+msgstr "[TLCM_NOUN:眼睛:PLURAL]"
 
 #: creature_birds_new.txt:2015
 msgctxt "CREATURE:PUFFIN_MAN"
@@ -8165,7 +8166,7 @@ msgstr "[NAME:海鹦人:海鹦人:海鹦人]"
 #: creature_birds_new.txt:2029
 msgctxt "CREATURE:PUFFIN_MAN"
 msgid "[DESCRIPTION:A feathered person with the head of a puffin.]"
-msgstr ""
+msgstr "[DESCRIPTION:一个长着海鹦脑袋的羽毛人。]"
 
 #: creature_birds_new.txt:2045
 msgctxt "CREATURE:GIANT_PUFFIN"
@@ -8180,22 +8181,22 @@ msgstr "[CASTE_NAME:巨海鹦:巨海鹦:巨海鹦]"
 #: creature_birds_new.txt:2047
 msgctxt "CREATURE:GIANT_PUFFIN"
 msgid "[GENERAL_CHILD_NAME:giant puffin chick:giant puffin chicks]"
-msgstr ""
+msgstr "[GENERAL_CHILD_NAME:巨海鹦雏鸟:巨海鹦雏鸟]"
 
 #: creature_birds_new.txt:2048
 msgctxt "CREATURE:GIANT_PUFFIN"
 msgid "[DESCRIPTION:A large monster in the form of a puffin.]"
-msgstr ""
+msgstr "[DESCRIPTION:一只体型巨大的海鹦怪。]"
 
 #: creature_birds_new.txt:2057
 msgctxt "CREATURE:GIANT_PUFFIN"
 msgid "[PREFSTRING:colorful beaks]"
-msgstr ""
+msgstr "[PREFSTRING:彩色尖喙]"
 
 #: creature_birds_new.txt:2068
 msgctxt "CREATURE:BIRD_SWAN"
 msgid "[DESCRIPTION:A small aquatic bird, prized for its beauty.]"
-msgstr ""
+msgstr "[DESCRIPTION:一种小型水禽，因其美丽而珍贵。]"
 
 #: creature_birds_new.txt:2069
 msgctxt "CREATURE:BIRD_SWAN"
@@ -8205,17 +8206,17 @@ msgstr "[NAME:天鹅:天鹅:天鹅]"
 #: creature_birds_new.txt:2070
 msgctxt "CREATURE:BIRD_SWAN"
 msgid "[GENERAL_CHILD_NAME:cygnet:cygnets]"
-msgstr ""
+msgstr "[GENERAL_CHILD_NAME:小天鹅:小天鹅]"
 
 #: creature_birds_new.txt:2088
 msgctxt "CREATURE:BIRD_SWAN"
 msgid "[PREFSTRING:beauty]"
-msgstr ""
+msgstr "[PREFSTRING:貌美]"
 
 #: creature_birds_new.txt:2124
 msgctxt "CREATURE:BIRD_SWAN"
 msgid "[ATTACK_VERB:bite:bites]"
-msgstr ""
+msgstr "[ATTACK_VERB:啄;啄]"
 
 #: creature_birds_new.txt:2133
 msgctxt "CREATURE:BIRD_SWAN"
@@ -8230,17 +8231,17 @@ msgstr "[CASTE_NAME:公天鹅:公天鹅:公天鹅]"
 #: creature_birds_new.txt:2147
 msgctxt "CREATURE:BIRD_SWAN"
 msgid "[TLCM_NOUN:feathers:PLURAL]"
-msgstr ""
+msgstr "[TLCM_NOUN:羽毛:PLURAL]"
 
 #: creature_birds_new.txt:2150
 msgctxt "CREATURE:BIRD_SWAN"
 msgid "[TLCM_NOUN:skin:SINGULAR]"
-msgstr ""
+msgstr "[TLCM_NOUN:皮肤:SINGULAR]"
 
 #: creature_birds_new.txt:2153
 msgctxt "CREATURE:BIRD_SWAN"
 msgid "[TLCM_NOUN:eyes:PLURAL]"
-msgstr ""
+msgstr "[TLCM_NOUN:眼睛:PLURAL]"
 
 #: creature_birds_new.txt:2160
 msgctxt "CREATURE:SWAN_MAN"
@@ -8260,7 +8261,7 @@ msgstr "[NAME:天鹅人:天鹅人:天鹅人]"
 #: creature_birds_new.txt:2174
 msgctxt "CREATURE:SWAN_MAN"
 msgid "[DESCRIPTION:A person with the head and wings of a swan.]"
-msgstr ""
+msgstr "[DESCRIPTION:一个长着天鹅脑袋和翅膀的人。]"
 
 #: creature_birds_new.txt:2190
 msgctxt "CREATURE:GIANT_SWAN"
@@ -8275,24 +8276,24 @@ msgstr "[CASTE_NAME:巨天鹅:巨天鹅:巨天鹅]"
 #: creature_birds_new.txt:2192
 msgctxt "CREATURE:GIANT_SWAN"
 msgid "[GENERAL_CHILD_NAME:giant cygnet:giant cygnets]"
-msgstr ""
+msgstr "[GENERAL_CHILD_NAME:巨幼天鹅:巨幼天鹅]"
 
 #: creature_birds_new.txt:2193
 msgctxt "CREATURE:GIANT_SWAN"
 msgid "[DESCRIPTION:A large monster in the form of a swan.]"
-msgstr ""
+msgstr "[DESCRIPTION:一只体型巨大的天鹅怪。]"
 
 #: creature_birds_new.txt:2202
 msgctxt "CREATURE:GIANT_SWAN"
 msgid "[PREFSTRING:beauty]"
-msgstr ""
+msgstr "[PREFSTRING:貌美]"
 
 #: creature_birds_new.txt:2213
 msgctxt "CREATURE:BIRD_LORIKEET"
 msgid ""
 "[DESCRIPTION:A tiny, brightly-colored tree parrot.  It uses its tongue to "
 "feed on plants.]"
-msgstr ""
+msgstr "[DESCRIPTION:一种小型的彩色树鹦鹉。通过其舌头吸取植物来维生。]"
 
 #: creature_birds_new.txt:2214
 msgctxt "CREATURE:BIRD_LORIKEET"
@@ -8307,42 +8308,42 @@ msgstr "[CASTE_NAME:吸蜜鹦鹉:吸蜜鹦鹉:吸蜜鹦鹉]"
 #: creature_birds_new.txt:2216
 msgctxt "CREATURE:BIRD_LORIKEET"
 msgid "[GENERAL_CHILD_NAME:lorikeet hatchling:lorikeet hatchlings]"
-msgstr ""
+msgstr "[GENERAL_CHILD_NAME:吸蜜鹦鹉幼崽:吸蜜鹦鹉幼崽]"
 
 #: creature_birds_new.txt:2237
 msgctxt "CREATURE:BIRD_LORIKEET"
 msgid "[PREFSTRING:bright coloration]"
-msgstr ""
+msgstr "[PREFSTRING:鲜艳的花纹]"
 
 #: creature_birds_new.txt:2238
 msgctxt "CREATURE:BIRD_LORIKEET"
 msgid "[PREFSTRING:playful personalities]"
-msgstr ""
+msgstr "[PREFSTRING:活泼的个性]"
 
 #: creature_birds_new.txt:2276
 msgctxt "CREATURE:BIRD_LORIKEET"
 msgid "[ATTACK_VERB:bite:bites]"
-msgstr ""
+msgstr "[ATTACK_VERB:啄;啄]"
 
 #: creature_birds_new.txt:2285
 msgctxt "CREATURE:BIRD_LORIKEET"
 msgid "[ATTACK_VERB:snatch at:snatches at]"
-msgstr ""
+msgstr "[ATTACK_VERB:抓住:抓住]"
 
 #: creature_birds_new.txt:2306
 msgctxt "CREATURE:BIRD_LORIKEET"
 msgid "[TLCM_NOUN:feathers:PLURAL]"
-msgstr ""
+msgstr "[TLCM_NOUN:羽毛:PLURAL]"
 
 #: creature_birds_new.txt:2309
 msgctxt "CREATURE:BIRD_LORIKEET"
 msgid "[TLCM_NOUN:skin:SINGULAR]"
-msgstr ""
+msgstr "[TLCM_NOUN:皮肤:SINGULAR]"
 
 #: creature_birds_new.txt:2312
 msgctxt "CREATURE:BIRD_LORIKEET"
 msgid "[TLCM_NOUN:eyes:PLURAL]"
-msgstr ""
+msgstr "[TLCM_NOUN:眼睛:PLURAL]"
 
 #: creature_birds_new.txt:2319
 msgctxt "CREATURE:LORIKEET_MAN"
@@ -8362,7 +8363,7 @@ msgstr "[NAME:吸蜜鹦鹉人:吸蜜鹦鹉人:吸蜜鹦鹉人]"
 #: creature_birds_new.txt:2334
 msgctxt "CREATURE:LORIKEET_MAN"
 msgid "[DESCRIPTION:A colorful person with the head and wings of a lorikeet.]"
-msgstr ""
+msgstr "[DESCRIPTION:一个长着吸蜜鹦鹉脑袋和翅膀的人。]"
 
 #: creature_birds_new.txt:2350
 msgctxt "CREATURE:GIANT_LORIKEET"
@@ -8378,27 +8379,27 @@ msgstr "[CASTE_NAME:巨吸蜜鹦鹉:巨吸蜜鹦鹉:巨吸蜜鹦鹉]"
 msgctxt "CREATURE:GIANT_LORIKEET"
 msgid ""
 "[GENERAL_CHILD_NAME:giant lorikeet hatchling:giant lorikeet hatchlings]"
-msgstr ""
+msgstr "[GENERAL_CHILD_NAME:巨吸蜜鹦鹉幼崽:巨吸蜜鹦鹉幼崽]"
 
 #: creature_birds_new.txt:2353
 msgctxt "CREATURE:GIANT_LORIKEET"
 msgid "[DESCRIPTION:A large monster in the shape of a lorikeet.]"
-msgstr ""
+msgstr "[DESCRIPTION:一只体型巨大的吸蜜鹦鹉怪。]"
 
 #: creature_birds_new.txt:2362
 msgctxt "CREATURE:GIANT_LORIKEET"
 msgid "[PREFSTRING:bright coloration]"
-msgstr ""
+msgstr "[PREFSTRING:鲜艳的花纹]"
 
 #: creature_birds_new.txt:2363
 msgctxt "CREATURE:GIANT_LORIKEET"
 msgid "[PREFSTRING:playful personalities]"
-msgstr ""
+msgstr "[PREFSTRING:活泼的个性]"
 
 #: creature_birds_new.txt:2375
 msgctxt "CREATURE:BIRD_WREN"
 msgid "[DESCRIPTION:A tiny brown bird given to singing complex songs.]"
-msgstr ""
+msgstr "[DESCRIPTION:一种擅长唱复杂的声乐的棕色小鸟。]"
 
 #: creature_birds_new.txt:2376
 msgctxt "CREATURE:BIRD_WREN"
@@ -8413,37 +8414,37 @@ msgstr "[CASTE_NAME:鹪鹩:鹪鹩:鹪鹩]"
 #: creature_birds_new.txt:2378
 msgctxt "CREATURE:BIRD_WREN"
 msgid "[GENERAL_CHILD_NAME:wren hatchling:wren hatchlings]"
-msgstr ""
+msgstr "[GENERAL_CHILD_NAME:鹪鹩幼崽:鹪鹩幼崽]"
 
 #: creature_birds_new.txt:2403
 msgctxt "CREATURE:BIRD_WREN"
 msgid "[PREFSTRING:intricate songs]"
-msgstr ""
+msgstr "[PREFSTRING:复杂的声乐]"
 
 #: creature_birds_new.txt:2441
 msgctxt "CREATURE:BIRD_WREN"
 msgid "[ATTACK_VERB:bite:bites]"
-msgstr ""
+msgstr "[ATTACK_VERB:啄;啄]"
 
 #: creature_birds_new.txt:2450
 msgctxt "CREATURE:BIRD_WREN"
 msgid "[ATTACK_VERB:snatch at:snatches at]"
-msgstr ""
+msgstr "[ATTACK_VERB:抓住:抓住]"
 
 #: creature_birds_new.txt:2471
 msgctxt "CREATURE:BIRD_WREN"
 msgid "[TLCM_NOUN:feathers:PLURAL]"
-msgstr ""
+msgstr "[TLCM_NOUN:羽毛:PLURAL]"
 
 #: creature_birds_new.txt:2474
 msgctxt "CREATURE:BIRD_WREN"
 msgid "[TLCM_NOUN:skin:SINGULAR]"
-msgstr ""
+msgstr "[TLCM_NOUN:皮肤:SINGULAR]"
 
 #: creature_birds_new.txt:2477
 msgctxt "CREATURE:BIRD_WREN"
 msgid "[TLCM_NOUN:eyes:PLURAL]"
-msgstr ""
+msgstr "[TLCM_NOUN:眼睛:PLURAL]"
 
 #: creature_birds_new.txt:2484
 msgctxt "CREATURE:WREN_MAN"
@@ -8463,7 +8464,7 @@ msgstr "[NAME:鹪鹩人:鹪鹩人:鹪鹩人]"
 #: creature_birds_new.txt:2499
 msgctxt "CREATURE:WREN_MAN"
 msgid "[DESCRIPTION:A person with the head and wings of a wren.]"
-msgstr ""
+msgstr "[DESCRIPTION:一个长着鹪鹩脑袋和翅膀的人。]"
 
 #: creature_birds_new.txt:2515
 msgctxt "CREATURE:GIANT_WREN"
@@ -8478,121 +8479,121 @@ msgstr "[CASTE_NAME:巨鹪鹩:巨鹪鹩:巨鹪鹩]"
 #: creature_birds_new.txt:2517
 msgctxt "CREATURE:GIANT_WREN"
 msgid "[GENERAL_CHILD_NAME:giant wren hatchling:giant wren hatchlings]"
-msgstr ""
+msgstr "[GENERAL_CHILD_NAME:巨鹪鹩幼崽:巨鹪鹩幼崽]"
 
 #: creature_birds_new.txt:2518
 msgctxt "CREATURE:GIANT_WREN"
 msgid "[DESCRIPTION:A huge monster in the form of a wren.]"
-msgstr ""
+msgstr "[DESCRIPTION:一只体型巨大的鹪鹩怪。]"
 
 #: creature_birds_new.txt:2527
 msgctxt "CREATURE:GIANT_WREN"
 msgid "[PREFSTRING:intricate songs]"
-msgstr ""
+msgstr "[PREFSTRING:复杂的声乐]"
 
 #: creature_birds_new.txt:2539
 msgctxt "CREATURE:BIRD_OSPREY"
 msgid ""
 "[DESCRIPTION:A small bird of prey with black markings on its eyes.  It hunts"
 " near bodies of water.]"
-msgstr ""
+msgstr "[DESCRIPTION:一种眼睛上有黑色斑纹的小型猛禽。它在水体附近狩猎。]"
 
 #: creature_birds_new.txt:2540
 msgctxt "CREATURE:BIRD_OSPREY"
 msgid "[NAME:osprey:ospreys:osprey]"
-msgstr "[NAME:鹗:鹗:鹗]"
+msgstr "[NAME:鱼鹰:鱼鹰:鱼鹰]"
 
 #: creature_birds_new.txt:2541
 msgctxt "CREATURE:BIRD_OSPREY"
 msgid "[CASTE_NAME:osprey:ospreys:osprey]"
-msgstr "[CASTE_NAME:鹗:鹗:鹗]"
+msgstr "[CASTE_NAME:鱼鹰:鱼鹰:鱼鹰]"
 
 #: creature_birds_new.txt:2542
 msgctxt "CREATURE:BIRD_OSPREY"
 msgid "[GENERAL_CHILD_NAME:osprey chick:osprey chicks]"
-msgstr ""
+msgstr "[GENERAL_CHILD_NAME:鱼鹰雏鸟:鱼鹰雏鸟]"
 
 #: creature_birds_new.txt:2568
 msgctxt "CREATURE:BIRD_OSPREY"
 msgid "[PREFSTRING:fishing ability]"
-msgstr ""
+msgstr "[PREFSTRING:可捕鱼]"
 
 #: creature_birds_new.txt:2608
 msgctxt "CREATURE:BIRD_OSPREY"
 msgid "[ATTACK_VERB:bite:bites]"
-msgstr ""
+msgstr "[ATTACK_VERB:啄;啄]"
 
 #: creature_birds_new.txt:2617
 msgctxt "CREATURE:BIRD_OSPREY"
 msgid "[ATTACK_VERB:snatch at:snatches at]"
-msgstr ""
+msgstr "[ATTACK_VERB:抓住:抓住]"
 
 #: creature_birds_new.txt:2638
 msgctxt "CREATURE:BIRD_OSPREY"
 msgid "[TLCM_NOUN:feathers:PLURAL]"
-msgstr ""
+msgstr "[TLCM_NOUN:羽毛:PLURAL]"
 
 #: creature_birds_new.txt:2641
 msgctxt "CREATURE:BIRD_OSPREY"
 msgid "[TLCM_NOUN:skin:SINGULAR]"
-msgstr ""
+msgstr "[TLCM_NOUN:皮肤:SINGULAR]"
 
 #: creature_birds_new.txt:2644
 msgctxt "CREATURE:BIRD_OSPREY"
 msgid "[TLCM_NOUN:eyes:PLURAL]"
-msgstr ""
+msgstr "[TLCM_NOUN:眼睛:PLURAL]"
 
 #: creature_birds_new.txt:2651
 msgctxt "CREATURE:OSPREY_MAN"
 msgid "[CASTE_NAME:osprey man:osprey men:osprey man]"
-msgstr "[CASTE_NAME:鹗人:鹗人:鹗人]"
+msgstr "[CASTE_NAME:鱼鹰人:鱼鹰人:鱼鹰人]"
 
 #: creature_birds_new.txt:2653
 msgctxt "CREATURE:OSPREY_MAN"
 msgid "[CASTE_NAME:osprey woman:osprey women:osprey woman]"
-msgstr "[CASTE_NAME:鹗女:鹗女:鹗女]"
+msgstr "[CASTE_NAME:鱼鹰女:鱼鹰女:鱼鹰女]"
 
 #: creature_birds_new.txt:2665
 msgctxt "CREATURE:OSPREY_MAN"
 msgid "[NAME:osprey man:osprey men:osprey man]"
-msgstr "[NAME:鹗人:鹗人:鹗人]"
+msgstr "[NAME:鱼鹰人:鱼鹰人:鱼鹰人]"
 
 #: creature_birds_new.txt:2666
 msgctxt "CREATURE:OSPREY_MAN"
 msgid "[DESCRIPTION:A person with the head and wings of an osprey.]"
-msgstr "[DESCRIPTION:一个长着鹗的头和翅膀的人.]"
+msgstr "[DESCRIPTION:一个长着鱼鹰脑袋和翅膀的人.]"
 
 #: creature_birds_new.txt:2682
 msgctxt "CREATURE:GIANT_OSPREY"
 msgid "[NAME:giant osprey:giant ospreys:giant osprey]"
-msgstr "[NAME:巨鹗:巨鹗:巨鹗]"
+msgstr "[NAME:巨鱼鹰:巨鱼鹰:巨鱼鹰]"
 
 #: creature_birds_new.txt:2683
 msgctxt "CREATURE:GIANT_OSPREY"
 msgid "[CASTE_NAME:giant osprey:giant ospreys:giant osprey]"
-msgstr "[CASTE_NAME:巨鹗:巨鹗:巨鹗]"
+msgstr "[CASTE_NAME:巨鱼鹰:巨鱼鹰:巨鱼鹰]"
 
 #: creature_birds_new.txt:2684
 msgctxt "CREATURE:GIANT_OSPREY"
 msgid "[GENERAL_CHILD_NAME:giant osprey chick:giant osprey chicks]"
-msgstr "[GENERAL_CHILD_NAME:巨鹗雏鸟:巨鹗雏鸟]"
+msgstr "[GENERAL_CHILD_NAME:巨鱼鹰雏鸟:巨鱼鹰雏鸟]"
 
 #: creature_birds_new.txt:2685
 msgctxt "CREATURE:GIANT_OSPREY"
 msgid "[DESCRIPTION:A large monster in the form of an osprey.]"
-msgstr "[DESCRIPTION:一个巨鹗怪物。]"
+msgstr "[DESCRIPTION:一个巨鱼鹰怪物。]"
 
 #: creature_birds_new.txt:2693
 msgctxt "CREATURE:GIANT_OSPREY"
 msgid "[PREFSTRING:fishing ability]"
-msgstr ""
+msgstr "[PREFSTRING:可捕鱼]"
 
 #: creature_birds_new.txt:2705
 msgctxt "CREATURE:BIRD_EMU"
 msgid ""
 "[DESCRIPTION:A large flightless bird.  It is very curious and has been known"
 " to follow other creatures.]"
-msgstr ""
+msgstr "[DESCRIPTION:一种无法飞行的大型鸟类。它非常好奇且会跟随其他生物。]"
 
 #: creature_birds_new.txt:2706
 msgctxt "CREATURE:BIRD_EMU"
@@ -8607,42 +8608,42 @@ msgstr "[CASTE_NAME:鸸鹋:鸸鹋:鸸鹋]"
 #: creature_birds_new.txt:2708
 msgctxt "CREATURE:BIRD_EMU"
 msgid "[GENERAL_CHILD_NAME:emu chick:emu chicks]"
-msgstr ""
+msgstr "[GENERAL_CHILD_NAME:鸸鹋雏鸟:鸸鹋雏鸟]"
 
 #: creature_birds_new.txt:2725
 msgctxt "CREATURE:BIRD_EMU"
 msgid "[PREFSTRING:size]"
-msgstr ""
+msgstr "[PREFSTRING:巨大]"
 
 #: creature_birds_new.txt:2726
 msgctxt "CREATURE:BIRD_EMU"
 msgid "[PREFSTRING:inquisitive nature]"
-msgstr ""
+msgstr "[PREFSTRING:好奇的天性]"
 
 #: creature_birds_new.txt:2765
 msgctxt "CREATURE:BIRD_EMU"
 msgid "[ATTACK_VERB:kick:kicks]"
-msgstr ""
+msgstr "[ATTACK_VERB:踢:踢]"
 
 #: creature_birds_new.txt:2773
 msgctxt "CREATURE:BIRD_EMU"
 msgid "[ATTACK_VERB:bite:bites]"
-msgstr ""
+msgstr "[ATTACK_VERB:啄;啄]"
 
 #: creature_birds_new.txt:2794
 msgctxt "CREATURE:BIRD_EMU"
 msgid "[TLCM_NOUN:feathers:PLURAL]"
-msgstr ""
+msgstr "[TLCM_NOUN:羽毛:PLURAL]"
 
 #: creature_birds_new.txt:2797
 msgctxt "CREATURE:BIRD_EMU"
 msgid "[TLCM_NOUN:skin:SINGULAR]"
-msgstr ""
+msgstr "[TLCM_NOUN:皮肤:SINGULAR]"
 
 #: creature_birds_new.txt:2800
 msgctxt "CREATURE:BIRD_EMU"
 msgid "[TLCM_NOUN:eyes:PLURAL]"
-msgstr ""
+msgstr "[TLCM_NOUN:眼睛:PLURAL]"
 
 #: creature_birds_new.txt:2807
 msgctxt "CREATURE:EMU_MAN"
@@ -8662,7 +8663,7 @@ msgstr "[NAME:鸸鹋人:鸸鹋人:鸸鹋人]"
 #: creature_birds_new.txt:2821
 msgctxt "CREATURE:EMU_MAN"
 msgid "[DESCRIPTION:A feathered person with the head of an emu.]"
-msgstr ""
+msgstr "[DESCRIPTION:一个长着鸸鹋脑袋的羽毛人。]"
 
 #: creature_birds_new.txt:2837
 msgctxt "CREATURE:GIANT_EMU"
@@ -8677,127 +8678,127 @@ msgstr "[CASTE_NAME:巨鸸鹋:巨鸸鹋:巨鸸鹋]"
 #: creature_birds_new.txt:2839
 msgctxt "CREATURE:GIANT_EMU"
 msgid "[GENERAL_CHILD_NAME:giant emu chick:giant emu chicks]"
-msgstr ""
+msgstr "[GENERAL_CHILD_NAME:巨鸸鹋雏鸟:巨鸸鹋雏鸟]"
 
 #: creature_birds_new.txt:2840
 msgctxt "CREATURE:GIANT_EMU"
 msgid "[DESCRIPTION:A huge monster in the form of an emu.]"
-msgstr ""
+msgstr "[DESCRIPTION:一只体型巨大的鸸鹋怪。]"
 
 #: creature_birds_new.txt:2849
 msgctxt "CREATURE:GIANT_EMU"
 msgid "[PREFSTRING:size]"
-msgstr ""
+msgstr "[PREFSTRING:巨大]"
 
 #: creature_birds_new.txt:2850
 msgctxt "CREATURE:GIANT_EMU"
 msgid "[PREFSTRING:inquisitive nature]"
-msgstr ""
+msgstr "[PREFSTRING:好奇的天性]"
 
 #: creature_birds_new.txt:2860
 msgctxt "CREATURE:BIRD_COCKATIEL"
 msgid ""
 "[DESCRIPTION:A tiny crested parrot.  They are prized as domestic "
 "companions.]"
-msgstr ""
+msgstr "[DESCRIPTION:一种小型的凤头鹦鹉。它们被视为驯良的伙伴。]"
 
 #: creature_birds_new.txt:2861
 msgctxt "CREATURE:BIRD_COCKATIEL"
 msgid "[NAME:cockatiel:cockatiels:cockatiel]"
-msgstr "[NAME:鸡尾鹦鹉:鸡尾鹦鹉:鸡尾鹦鹉]"
+msgstr "[NAME:玄凤鹦鹉:玄凤鹦鹉:玄凤鹦鹉]"
 
 #: creature_birds_new.txt:2862
 msgctxt "CREATURE:BIRD_COCKATIEL"
 msgid "[CASTE_NAME:cockatiel:cockatiels:cockatiel]"
-msgstr "[CASTE_NAME:鸡尾鹦鹉:鸡尾鹦鹉:鸡尾鹦鹉]"
+msgstr "[CASTE_NAME:玄凤鹦鹉:玄凤鹦鹉:玄凤鹦鹉]"
 
 #: creature_birds_new.txt:2863
 msgctxt "CREATURE:BIRD_COCKATIEL"
 msgid "[GENERAL_CHILD_NAME:cockatiel hatchling:cockatiel hatchlings]"
-msgstr ""
+msgstr "[GENERAL_CHILD_NAME:玄凤鹦鹉幼崽:玄凤鹦鹉幼崽]"
 
 #: creature_birds_new.txt:2884
 msgctxt "CREATURE:BIRD_COCKATIEL"
 msgid "[PREFSTRING:crests]"
-msgstr ""
+msgstr "[PREFSTRING:头冠]"
 
 #: creature_birds_new.txt:2922
 msgctxt "CREATURE:BIRD_COCKATIEL"
 msgid "[ATTACK_VERB:bite:bites]"
-msgstr ""
+msgstr "[ATTACK_VERB:啄;啄]"
 
 #: creature_birds_new.txt:2931
 msgctxt "CREATURE:BIRD_COCKATIEL"
 msgid "[ATTACK_VERB:snatch at:snatches at]"
-msgstr ""
+msgstr "[ATTACK_VERB:抓住:抓住]"
 
 #: creature_birds_new.txt:2952
 msgctxt "CREATURE:BIRD_COCKATIEL"
 msgid "[TLCM_NOUN:feathers:PLURAL]"
-msgstr ""
+msgstr "[TLCM_NOUN:羽毛:PLURAL]"
 
 #: creature_birds_new.txt:2955
 msgctxt "CREATURE:BIRD_COCKATIEL"
 msgid "[TLCM_NOUN:skin:SINGULAR]"
-msgstr ""
+msgstr "[TLCM_NOUN:皮肤:SINGULAR]"
 
 #: creature_birds_new.txt:2958
 msgctxt "CREATURE:BIRD_COCKATIEL"
 msgid "[TLCM_NOUN:eyes:PLURAL]"
-msgstr ""
+msgstr "[TLCM_NOUN:眼睛:PLURAL]"
 
 #: creature_birds_new.txt:2965
 msgctxt "CREATURE:COCKATIEL_MAN"
 msgid "[CASTE_NAME:cockatiel man:cockatiel men:cockatiel man]"
-msgstr "[CASTE_NAME:鸡尾鹦鹉人:鸡尾鹦鹉人:鸡尾鹦鹉人]"
+msgstr "[CASTE_NAME:玄凤鹦鹉人:玄凤鹦鹉人:玄凤鹦鹉人]"
 
 #: creature_birds_new.txt:2967
 msgctxt "CREATURE:COCKATIEL_MAN"
 msgid "[CASTE_NAME:cockatiel woman:cockatiel women:cockatiel woman]"
-msgstr "[CASTE_NAME:鸡尾鹦鹉女:鸡尾鹦鹉女:鸡尾鹦鹉女]"
+msgstr "[CASTE_NAME:玄凤鹦鹉女:玄凤鹦鹉女:玄凤鹦鹉女]"
 
 #: creature_birds_new.txt:2979
 msgctxt "CREATURE:COCKATIEL_MAN"
 msgid "[NAME:cockatiel man:cockatiel men:cockatiel man]"
-msgstr "[NAME:鸡尾鹦鹉人:鸡尾鹦鹉人:鸡尾鹦鹉人]"
+msgstr "[NAME:玄凤鹦鹉人:玄凤鹦鹉人:玄凤鹦鹉人]"
 
 #: creature_birds_new.txt:2980
 msgctxt "CREATURE:COCKATIEL_MAN"
 msgid "[DESCRIPTION:A crested person with the head and wings of a cockatiel.]"
-msgstr ""
+msgstr "[DESCRIPTION:一个长着玄凤鹦鹉脑袋和翅膀的人。]"
 
 #: creature_birds_new.txt:2996
 msgctxt "CREATURE:GIANT_COCKATIEL"
 msgid "[NAME:giant cockatiel:giant cockatiels:giant cockatiel]"
-msgstr "[NAME:巨鸡尾鹦鹉:巨鸡尾鹦鹉:巨鸡尾鹦鹉]"
+msgstr "[NAME:巨玄凤鹦鹉鹉:巨玄凤鹦鹉:巨玄凤鹦鹉]"
 
 #: creature_birds_new.txt:2997
 msgctxt "CREATURE:GIANT_COCKATIEL"
 msgid "[CASTE_NAME:giant cockatiel:giant cockatiels:giant cockatiel]"
-msgstr "[CASTE_NAME:巨鸡尾鹦鹉:巨鸡尾鹦鹉:巨鸡尾鹦鹉]"
+msgstr "[CASTE_NAME:巨玄凤鹦鹉:巨玄凤鹦鹉:巨玄凤鹦鹉]"
 
 #: creature_birds_new.txt:2998
 msgctxt "CREATURE:GIANT_COCKATIEL"
 msgid ""
 "[GENERAL_CHILD_NAME:giant cockatiel hatchling:giant cockatiel hatchlings]"
-msgstr ""
+msgstr "[GENERAL_CHILD_NAME:巨玄凤鹦鹉幼崽:巨玄凤鹦鹉幼崽]"
 
 #: creature_birds_new.txt:2999
 msgctxt "CREATURE:GIANT_COCKATIEL"
 msgid "[DESCRIPTION:A large monster in the form of a cockatiel.]"
-msgstr ""
+msgstr "[DESCRIPTION:一只体型巨大的玄凤鹦鹉怪。]"
 
 #: creature_birds_new.txt:3008
 msgctxt "CREATURE:GIANT_COCKATIEL"
 msgid "[PREFSTRING:crests]"
-msgstr ""
+msgstr "[PREFSTRING:头冠]"
 
 #: creature_birds_new.txt:3018
 msgctxt "CREATURE:BIRD_LOVEBIRD_PEACH-FACED"
 msgid ""
 "[DESCRIPTION:A tiny, brightly colored parrot.  They are clever and learn "
 "many tricks.]"
-msgstr ""
+msgstr "[DESCRIPTION:一种小型的彩色鹦鹉。它们非常聪明且能学习很多把戏。]"
 
 #: creature_birds_new.txt:3019
 msgctxt "CREATURE:BIRD_LOVEBIRD_PEACH-FACED"
@@ -8815,37 +8816,37 @@ msgctxt "CREATURE:BIRD_LOVEBIRD_PEACH-FACED"
 msgid ""
 "[GENERAL_CHILD_NAME:peach-faced lovebird hatchling:peach-faced lovebird "
 "hatchlings]"
-msgstr ""
+msgstr "[GENERAL_CHILD_NAME:桃面爱情鸟幼崽:桃面爱情鸟幼崽]"
 
 #: creature_birds_new.txt:3044
 msgctxt "CREATURE:BIRD_LOVEBIRD_PEACH-FACED"
 msgid "[PREFSTRING:loving nature]"
-msgstr ""
+msgstr "[PREFSTRING:爱的天性]"
 
 #: creature_birds_new.txt:3082
 msgctxt "CREATURE:BIRD_LOVEBIRD_PEACH-FACED"
 msgid "[ATTACK_VERB:bite:bites]"
-msgstr ""
+msgstr "[ATTACK_VERB:啄;啄]"
 
 #: creature_birds_new.txt:3091
 msgctxt "CREATURE:BIRD_LOVEBIRD_PEACH-FACED"
 msgid "[ATTACK_VERB:snatch at:snatches at]"
-msgstr ""
+msgstr "[ATTACK_VERB:抓住:抓住]"
 
 #: creature_birds_new.txt:3112
 msgctxt "CREATURE:BIRD_LOVEBIRD_PEACH-FACED"
 msgid "[TLCM_NOUN:feathers:PLURAL]"
-msgstr ""
+msgstr "[TLCM_NOUN:羽毛:PLURAL]"
 
 #: creature_birds_new.txt:3115
 msgctxt "CREATURE:BIRD_LOVEBIRD_PEACH-FACED"
 msgid "[TLCM_NOUN:skin:SINGULAR]"
-msgstr ""
+msgstr "[TLCM_NOUN:皮肤:SINGULAR]"
 
 #: creature_birds_new.txt:3118
 msgctxt "CREATURE:BIRD_LOVEBIRD_PEACH-FACED"
 msgid "[TLCM_NOUN:eyes:PLURAL]"
-msgstr ""
+msgstr "[TLCM_NOUN:眼睛:PLURAL]"
 
 #: creature_birds_new.txt:3125
 msgctxt "CREATURE:PEACH-FACED_LOVEBIRD_MAN"
@@ -8873,7 +8874,7 @@ msgctxt "CREATURE:PEACH-FACED_LOVEBIRD_MAN"
 msgid ""
 "[DESCRIPTION:A colorful person with the head and wings of a peach-faced "
 "lovebird.]"
-msgstr ""
+msgstr "[DESCRIPTION:一个长着桃面爱情鸟脑袋和翅膀的彩人。]"
 
 #: creature_birds_new.txt:3156
 msgctxt "CREATURE:GIANT_PEACH-FACED_LOVEBIRD"
@@ -8894,25 +8895,25 @@ msgctxt "CREATURE:GIANT_PEACH-FACED_LOVEBIRD"
 msgid ""
 "[GENERAL_CHILD_NAME:giant peach-faced lovebird hatchling:giant peach-faced "
 "lovebird hatchlings]"
-msgstr ""
+msgstr "[GENERAL_CHILD_NAME:巨桃面爱情鸟幼崽:巨桃面爱情鸟幼崽]"
 
 #: creature_birds_new.txt:3159
 msgctxt "CREATURE:GIANT_PEACH-FACED_LOVEBIRD"
 msgid ""
 "[DESCRIPTION:A huge monster taking the shape of a peach-faced lovebird.]"
-msgstr ""
+msgstr "[DESCRIPTION:一只体型巨大的桃面爱情鸟怪。]"
 
 #: creature_birds_new.txt:3168
 msgctxt "CREATURE:GIANT_PEACH-FACED_LOVEBIRD"
 msgid "[PREFSTRING:loving nature]"
-msgstr ""
+msgstr "[PREFSTRING:爱的天性]"
 
 #: creature_birds_new.txt:3180
 msgctxt "CREATURE:BIRD_MAGPIE"
 msgid ""
 "[DESCRIPTION:A tiny black and white bird.  It is one of the most intelligent"
 " of the natural creatures.]"
-msgstr ""
+msgstr "[DESCRIPTION:一种黑白相间的小型鸟类。它是自然生物中最聪明的生物之一。]"
 
 #: creature_birds_new.txt:3181
 msgctxt "CREATURE:BIRD_MAGPIE"
@@ -25632,7 +25633,7 @@ msgctxt "CREATURE:ANOLE"
 msgid ""
 "[DESCRIPTION:A small lizard with adhesive feet for climbing.  It can change "
 "color from brown to green to fit its surroundings.]"
-msgstr "[DESCRIPTION:一种小型蜥蜴，具备粘性且可攀爬的脚。可以将颜色从棕色变为绿色，以适应周围环境。]"
+msgstr "[DESCRIPTION:一种小型蜥蜴，拥有带粘性的用于攀爬的脚。可以将自身颜色从棕色变为绿色，以适应周围环境。]"
 
 #: creature_reptiles.txt:411
 msgctxt "CREATURE:ANOLE"
@@ -25721,7 +25722,7 @@ msgid ""
 "forests.  Though it is a vegetarian, and mainly docile, it may whip with its"
 " extremely long tail when angered.]"
 msgstr ""
-"[DESCRIPTION:一种生活在热带森林中，体型相对较大的树栖蜥蜴。尽管它吃素食，通常又很温顺的，但当它被激怒时，可能会用它极长的尾巴抽打。]"
+"[DESCRIPTION:一种生活在热带森林中，体型相对较大的树栖蜥蜴。尽管它吃素食，而且通常很温顺，但当它被激怒时，可能会用它极长的尾巴抽打对方。]"
 
 #: creature_reptiles.txt:545
 msgctxt "CREATURE:IGUANA"
@@ -44342,1388 +44343,1388 @@ msgstr ""
 #: material_template_default.txt:3257
 msgctxt "MATERIAL_TEMPLATE:SWEAT_TEMPLATE"
 msgid "[STATE_NAME:ALL_SOLID:frozen sweat]"
-msgstr ""
+msgstr "[STATE_NAME:ALL_SOLID:冷冻的汗液]"
 
 #: material_template_default.txt:3258
 msgctxt "MATERIAL_TEMPLATE:SWEAT_TEMPLATE"
 msgid "[STATE_ADJ:ALL_SOLID:frozen sweat]"
-msgstr ""
+msgstr "[STATE_ADJ:ALL_SOLID:冷冻的汗液的]"
 
 #: material_template_default.txt:3260
 msgctxt "MATERIAL_TEMPLATE:SWEAT_TEMPLATE"
 msgid "[STATE_NAME:LIQUID:sweat]"
-msgstr ""
+msgstr "[STATE_NAME:LIQUID:汗液]"
 
 #: material_template_default.txt:3261
 msgctxt "MATERIAL_TEMPLATE:SWEAT_TEMPLATE"
 msgid "[STATE_ADJ:LIQUID:sweat]"
-msgstr ""
+msgstr "[STATE_ADJ:LIQUID:汗液的]"
 
 #: material_template_default.txt:3263
 msgctxt "MATERIAL_TEMPLATE:SWEAT_TEMPLATE"
 msgid "[STATE_NAME:GAS:boiling sweat]"
-msgstr ""
+msgstr "[STATE_NAME:GAS:沸腾的汗液]"
 
 #: material_template_default.txt:3264
 msgctxt "MATERIAL_TEMPLATE:SWEAT_TEMPLATE"
 msgid "[STATE_ADJ:GAS:boiling sweat]"
-msgstr ""
+msgstr "[STATE_ADJ:GAS:沸腾的汗液的]"
 
 #: plant_crops.txt:6
 msgctxt "PLANT:SINGLE-GRAIN_WHEAT"
 msgid "[NAME:single-grain wheat]"
-msgstr ""
+msgstr "[NAME:单粒小麦]"
 
 #: plant_crops.txt:6
 msgctxt "PLANT:SINGLE-GRAIN_WHEAT"
 msgid "[NAME_PLURAL:single-grain wheat]"
-msgstr ""
+msgstr "[NAME_PLURAL:单粒小麦]"
 
 #: plant_crops.txt:6
 msgctxt "PLANT:SINGLE-GRAIN_WHEAT"
 msgid "[ADJ:single-grain wheat]"
-msgstr ""
+msgstr "[ADJ:单粒小麦的]"
 
 #: plant_crops.txt:14
 msgctxt "PLANT:SINGLE-GRAIN_WHEAT"
 msgid "[STATE_NAME_ADJ:ALL_SOLID:frozen single-grain wheat beer]"
-msgstr ""
+msgstr "[STATE_NAME_ADJ:ALL_SOLID:冷冻的单粒小麦啤]"
 
 #: plant_crops.txt:15
 msgctxt "PLANT:SINGLE-GRAIN_WHEAT"
 msgid "[STATE_NAME_ADJ:LIQUID:single-grain wheat beer]"
-msgstr ""
+msgstr "[STATE_NAME_ADJ:LIQUID:单粒小麦啤]"
 
 #: plant_crops.txt:16
 msgctxt "PLANT:SINGLE-GRAIN_WHEAT"
 msgid "[STATE_NAME_ADJ:GAS:boiling single-grain wheat beer]"
-msgstr ""
+msgstr "[STATE_NAME_ADJ:GAS:沸腾的单粒小麦啤]"
 
 #: plant_crops.txt:25
 msgctxt "PLANT:SINGLE-GRAIN_WHEAT"
 msgid "[STATE_NAME_ADJ:ALL_SOLID:single-grain wheat flour]"
-msgstr ""
+msgstr "[STATE_NAME_ADJ:ALL_SOLID:单粒小麦面粉]"
 
 #: plant_crops.txt:41
 msgctxt "PLANT:SINGLE-GRAIN_WHEAT"
 msgid "[SEED:single-grain wheat seed:single-grain wheat seeds:]"
-msgstr ""
+msgstr "[SEED:单粒小麦种子:单粒小麦种子:]"
 
 #: plant_crops.txt:44
 msgctxt "PLANT:SINGLE-GRAIN_WHEAT"
 msgid "[PREFSTRING:beer]"
-msgstr ""
+msgstr "[PREFSTRING:啤酒]"
 
 #: plant_crops.txt:46
 msgctxt "PLANT:SINGLE-GRAIN_WHEAT"
 msgid "[GROWTH_NAME:single-grain wheat leaf:single-grain wheat leaves]"
-msgstr ""
+msgstr "[GROWTH_NAME:单粒小麦叶:单粒小麦叶]"
 
 #: plant_crops.txt:52
 msgctxt "PLANT:TWO-GRAIN_WHEAT"
 msgid "[NAME:two-grain wheat]"
-msgstr ""
+msgstr "[NAME:双粒小麦]"
 
 #: plant_crops.txt:52
 msgctxt "PLANT:TWO-GRAIN_WHEAT"
 msgid "[NAME_PLURAL:two-grain wheat]"
-msgstr ""
+msgstr "[NAME_PLURAL:双粒小麦]"
 
 #: plant_crops.txt:52
 msgctxt "PLANT:TWO-GRAIN_WHEAT"
 msgid "[ADJ:two-grain wheat]"
-msgstr ""
+msgstr "[ADJ:双粒小麦的]"
 
 #: plant_crops.txt:60
 msgctxt "PLANT:TWO-GRAIN_WHEAT"
 msgid "[STATE_NAME_ADJ:ALL_SOLID:frozen two-grain wheat beer]"
-msgstr ""
+msgstr "[STATE_NAME_ADJ:ALL_SOLID:冷冻的双粒小麦啤]"
 
 #: plant_crops.txt:61
 msgctxt "PLANT:TWO-GRAIN_WHEAT"
 msgid "[STATE_NAME_ADJ:LIQUID:two-grain wheat beer]"
-msgstr ""
+msgstr "[STATE_NAME_ADJ:LIQUID:双粒小麦啤]"
 
 #: plant_crops.txt:62
 msgctxt "PLANT:TWO-GRAIN_WHEAT"
 msgid "[STATE_NAME_ADJ:GAS:boiling two-grain wheat beer]"
-msgstr ""
+msgstr "[STATE_NAME_ADJ:GAS:沸腾的双粒小麦啤]"
 
 #: plant_crops.txt:71
 msgctxt "PLANT:TWO-GRAIN_WHEAT"
 msgid "[STATE_NAME_ADJ:ALL_SOLID:two-grain wheat flour]"
-msgstr ""
+msgstr "[STATE_NAME_ADJ:ALL_SOLID:双粒小麦面粉]"
 
 #: plant_crops.txt:87
 msgctxt "PLANT:TWO-GRAIN_WHEAT"
 msgid "[SEED:two-grain wheat seed:two-grain wheat seeds:]"
-msgstr ""
+msgstr "[SEED:双粒小麦种子:双粒小麦种子:]"
 
 #: plant_crops.txt:90
 msgctxt "PLANT:TWO-GRAIN_WHEAT"
 msgid "[PREFSTRING:beer]"
-msgstr ""
+msgstr "[PREFSTRING:啤酒]"
 
 #: plant_crops.txt:92
 msgctxt "PLANT:TWO-GRAIN_WHEAT"
 msgid "[GROWTH_NAME:two-grain wheat leaf:two-grain wheat leaves]"
-msgstr ""
+msgstr "[GROWTH_NAME:双粒小麦叶:双粒小麦叶]"
 
 #: plant_crops.txt:98
 msgctxt "PLANT:SOFT_WHEAT"
 msgid "[NAME:soft wheat]"
-msgstr ""
+msgstr "[NAME:软质小麦]"
 
 #: plant_crops.txt:98
 msgctxt "PLANT:SOFT_WHEAT"
 msgid "[NAME_PLURAL:soft wheat]"
-msgstr ""
+msgstr "[NAME_PLURAL:软质小麦]"
 
 #: plant_crops.txt:98
 msgctxt "PLANT:SOFT_WHEAT"
 msgid "[ADJ:soft wheat]"
-msgstr ""
+msgstr "[ADJ:软质小麦的]"
 
 #: plant_crops.txt:106
 msgctxt "PLANT:SOFT_WHEAT"
 msgid "[STATE_NAME_ADJ:ALL_SOLID:frozen soft wheat beer]"
-msgstr ""
+msgstr "[STATE_NAME_ADJ:ALL_SOLID:冷冻的软质小麦啤]"
 
 #: plant_crops.txt:107
 msgctxt "PLANT:SOFT_WHEAT"
 msgid "[STATE_NAME_ADJ:LIQUID:soft wheat beer]"
-msgstr ""
+msgstr "[STATE_NAME_ADJ:LIQUID:软质小麦啤]"
 
 #: plant_crops.txt:108
 msgctxt "PLANT:SOFT_WHEAT"
 msgid "[STATE_NAME_ADJ:GAS:boiling soft wheat beer]"
-msgstr ""
+msgstr "[STATE_NAME_ADJ:GAS:沸腾的软质小麦啤]"
 
 #: plant_crops.txt:117
 msgctxt "PLANT:SOFT_WHEAT"
 msgid "[STATE_NAME_ADJ:ALL_SOLID:soft wheat flour]"
-msgstr ""
+msgstr "[STATE_NAME_ADJ:ALL_SOLID:软质小麦面粉]"
 
 #: plant_crops.txt:133
 msgctxt "PLANT:SOFT_WHEAT"
 msgid "[SEED:soft wheat seed:soft wheat seeds:]"
-msgstr ""
+msgstr "[SEED:软质小麦种子:软质小麦种子:]"
 
 #: plant_crops.txt:136
 msgctxt "PLANT:SOFT_WHEAT"
 msgid "[PREFSTRING:beer]"
-msgstr ""
+msgstr "[PREFSTRING:啤酒]"
 
 #: plant_crops.txt:138
 msgctxt "PLANT:SOFT_WHEAT"
 msgid "[GROWTH_NAME:soft wheat leaf:soft wheat leaves]"
-msgstr ""
+msgstr "[GROWTH_NAME:软质小麦叶:软质小麦叶]"
 
 #: plant_crops.txt:144
 msgctxt "PLANT:HARD_WHEAT"
 msgid "[NAME:hard wheat]"
-msgstr ""
+msgstr "[NAME:硬质小麦]"
 
 #: plant_crops.txt:144
 msgctxt "PLANT:HARD_WHEAT"
 msgid "[NAME_PLURAL:hard wheat]"
-msgstr ""
+msgstr "[NAME_PLURAL:硬质小麦]"
 
 #: plant_crops.txt:144
 msgctxt "PLANT:HARD_WHEAT"
 msgid "[ADJ:hard wheat]"
-msgstr ""
+msgstr "[ADJ:硬质小麦的]"
 
 #: plant_crops.txt:152
 msgctxt "PLANT:HARD_WHEAT"
 msgid "[STATE_NAME_ADJ:ALL_SOLID:frozen hard wheat beer]"
-msgstr ""
+msgstr "[STATE_NAME_ADJ:ALL_SOLID:冷冻的硬质小麦啤]"
 
 #: plant_crops.txt:153
 msgctxt "PLANT:HARD_WHEAT"
 msgid "[STATE_NAME_ADJ:LIQUID:hard wheat beer]"
-msgstr ""
+msgstr "[STATE_NAME_ADJ:LIQUID:硬质小麦啤]"
 
 #: plant_crops.txt:154
 msgctxt "PLANT:HARD_WHEAT"
 msgid "[STATE_NAME_ADJ:GAS:boiling hard wheat beer]"
-msgstr ""
+msgstr "[STATE_NAME_ADJ:GAS:沸腾的硬质小麦啤]"
 
 #: plant_crops.txt:163
 msgctxt "PLANT:HARD_WHEAT"
 msgid "[STATE_NAME_ADJ:ALL_SOLID:hard wheat flour]"
-msgstr ""
+msgstr "[STATE_NAME_ADJ:ALL_SOLID:硬质小麦面粉]"
 
 #: plant_crops.txt:179
 msgctxt "PLANT:HARD_WHEAT"
 msgid "[SEED:hard wheat seed:hard wheat seeds:]"
-msgstr ""
+msgstr "[SEED:硬质小麦种子:硬质小麦种子:]"
 
 #: plant_crops.txt:182
 msgctxt "PLANT:HARD_WHEAT"
 msgid "[PREFSTRING:beer]"
-msgstr ""
+msgstr "[PREFSTRING:啤酒]"
 
 #: plant_crops.txt:184
 msgctxt "PLANT:HARD_WHEAT"
 msgid "[GROWTH_NAME:hard wheat leaf:hard wheat leaves]"
-msgstr ""
+msgstr "[GROWTH_NAME:硬质小麦叶:硬质小麦叶]"
 
 #: plant_crops.txt:190
 msgctxt "PLANT:SPELT"
 msgid "[NAME:spelt]"
-msgstr ""
+msgstr "[NAME:斯佩尔特麦]"
 
 #: plant_crops.txt:190
 msgctxt "PLANT:SPELT"
 msgid "[NAME_PLURAL:spelt]"
-msgstr ""
+msgstr "[NAME_PLURAL:斯佩尔特麦]"
 
 #: plant_crops.txt:190
 msgctxt "PLANT:SPELT"
 msgid "[ADJ:spelt]"
-msgstr ""
+msgstr "[ADJ:斯佩尔特麦的]"
 
 #: plant_crops.txt:198
 msgctxt "PLANT:SPELT"
 msgid "[STATE_NAME_ADJ:ALL_SOLID:frozen spelt beer]"
-msgstr ""
+msgstr "[STATE_NAME_ADJ:ALL_SOLID:冷冻的斯佩尔特麦啤酒]"
 
 #: plant_crops.txt:199
 msgctxt "PLANT:SPELT"
 msgid "[STATE_NAME_ADJ:LIQUID:spelt beer]"
-msgstr ""
+msgstr "[STATE_NAME_ADJ:LIQUID:斯佩尔特麦啤酒]"
 
 #: plant_crops.txt:200
 msgctxt "PLANT:SPELT"
 msgid "[STATE_NAME_ADJ:GAS:boiling spelt beer]"
-msgstr ""
+msgstr "[STATE_NAME_ADJ:GAS:沸腾的斯佩尔特麦啤酒]"
 
 #: plant_crops.txt:209
 msgctxt "PLANT:SPELT"
 msgid "[STATE_NAME_ADJ:ALL_SOLID:spelt flour]"
-msgstr ""
+msgstr "[STATE_NAME_ADJ:ALL_SOLID:斯佩尔特麦粉]"
 
 #: plant_crops.txt:225
 msgctxt "PLANT:SPELT"
 msgid "[SEED:spelt seed:spelt seeds:]"
-msgstr ""
+msgstr "[SEED:斯佩尔特麦种子:斯佩尔特麦种子:]"
 
 #: plant_crops.txt:228
 msgctxt "PLANT:SPELT"
 msgid "[PREFSTRING:beer]"
-msgstr ""
+msgstr "[PREFSTRING:啤酒]"
 
 #: plant_crops.txt:230
 msgctxt "PLANT:SPELT"
 msgid "[GROWTH_NAME:spelt leaf:spelt leaves]"
-msgstr ""
+msgstr "[GROWTH_NAME:斯佩尔特麦叶:斯佩尔特麦叶]"
 
 #: plant_crops.txt:236
 msgctxt "PLANT:BARLEY"
 msgid "[NAME:barley]"
-msgstr ""
+msgstr "[NAME:大麦]"
 
 #: plant_crops.txt:236
 msgctxt "PLANT:BARLEY"
 msgid "[NAME_PLURAL:barley]"
-msgstr ""
+msgstr "[NAME_PLURAL:大麦]"
 
 #: plant_crops.txt:236
 msgctxt "PLANT:BARLEY"
 msgid "[ADJ:barley]"
-msgstr ""
+msgstr "[ADJ:大麦的]"
 
 #: plant_crops.txt:244
 msgctxt "PLANT:BARLEY"
 msgid "[STATE_NAME_ADJ:ALL_SOLID:frozen barley wine]"
-msgstr ""
+msgstr "[STATE_NAME_ADJ:ALL_SOLID:冷冻的大麦酒]"
 
 #: plant_crops.txt:245
 msgctxt "PLANT:BARLEY"
 msgid "[STATE_NAME_ADJ:LIQUID:barley wine]"
-msgstr ""
+msgstr "[STATE_NAME_ADJ:LIQUID:大麦酒]"
 
 #: plant_crops.txt:246
 msgctxt "PLANT:BARLEY"
 msgid "[STATE_NAME_ADJ:GAS:boiling barley wine]"
-msgstr ""
+msgstr "[STATE_NAME_ADJ:GAS:沸腾的大麦酒]"
 
 #: plant_crops.txt:255
 msgctxt "PLANT:BARLEY"
 msgid "[STATE_NAME_ADJ:ALL_SOLID:barley flour]"
-msgstr ""
+msgstr "[STATE_NAME_ADJ:ALL_SOLID:大麦粉]"
 
 #: plant_crops.txt:271
 msgctxt "PLANT:BARLEY"
 msgid "[SEED:barley seed:barley seeds:]"
-msgstr ""
+msgstr "[SEED:大麦种子:大麦种子:]"
 
 #: plant_crops.txt:274
 msgctxt "PLANT:BARLEY"
 msgid "[PREFSTRING:wine]"
-msgstr ""
+msgstr "[PREFSTRING:酒]"
 
 #: plant_crops.txt:276
 msgctxt "PLANT:BARLEY"
 msgid "[GROWTH_NAME:barley leaf:barley leaves]"
-msgstr ""
+msgstr "[GROWTH_NAME:大麦叶:大麦叶]"
 
 #: plant_crops.txt:282
 msgctxt "PLANT:BUCKWHEAT"
 msgid "[NAME:buckwheat]"
-msgstr ""
+msgstr "[NAME:荞麦]"
 
 #: plant_crops.txt:282
 msgctxt "PLANT:BUCKWHEAT"
 msgid "[NAME_PLURAL:buckwheat]"
-msgstr ""
+msgstr "[NAME_PLURAL:荞麦]"
 
 #: plant_crops.txt:282
 msgctxt "PLANT:BUCKWHEAT"
 msgid "[ADJ:buckwheat]"
-msgstr ""
+msgstr "[ADJ:荞麦的]"
 
 #: plant_crops.txt:290
 msgctxt "PLANT:BUCKWHEAT"
 msgid "[STATE_NAME_ADJ:ALL_SOLID:frozen buckwheat beer]"
-msgstr ""
+msgstr "[STATE_NAME_ADJ:ALL_SOLID:冷冻的荞麦啤酒]"
 
 #: plant_crops.txt:291
 msgctxt "PLANT:BUCKWHEAT"
 msgid "[STATE_NAME_ADJ:LIQUID:buckwheat beer]"
-msgstr ""
+msgstr "[STATE_NAME_ADJ:LIQUID:荞麦啤酒]"
 
 #: plant_crops.txt:292
 msgctxt "PLANT:BUCKWHEAT"
 msgid "[STATE_NAME_ADJ:GAS:boiling buckwheat beer]"
-msgstr ""
+msgstr "[STATE_NAME_ADJ:GAS:沸腾的荞麦啤酒]"
 
 #: plant_crops.txt:301
 msgctxt "PLANT:BUCKWHEAT"
 msgid "[STATE_NAME_ADJ:ALL_SOLID:buckwheat flour]"
-msgstr ""
+msgstr "[STATE_NAME_ADJ:ALL_SOLID:荞麦粉]"
 
 #: plant_crops.txt:320
 msgctxt "PLANT:BUCKWHEAT"
 msgid "[SEED:buckwheat seed:buckwheat seeds:]"
-msgstr ""
+msgstr "[SEED:荞麦种子:荞麦种子:]"
 
 #: plant_crops.txt:323
 msgctxt "PLANT:BUCKWHEAT"
 msgid "[PREFSTRING:beer]"
-msgstr ""
+msgstr "[PREFSTRING:啤酒]"
 
 #: plant_crops.txt:325
 msgctxt "PLANT:BUCKWHEAT"
 msgid "[GROWTH_NAME:buckwheat leaf:buckwheat leaves]"
-msgstr ""
+msgstr "[GROWTH_NAME:荞麦叶:荞麦叶]"
 
 #: plant_crops.txt:330
 msgctxt "PLANT:BUCKWHEAT"
 msgid "[GROWTH_NAME:buckwheat flower:STP]"
-msgstr ""
+msgstr "[GROWTH_NAME:荞麦花:STP]"
 
 #: plant_crops.txt:337
 msgctxt "PLANT:OATS"
 msgid "[NAME:oat]"
-msgstr ""
+msgstr "[NAME:燕麦]"
 
 #: plant_crops.txt:337
 msgctxt "PLANT:OATS"
 msgid "[NAME_PLURAL:oats]"
-msgstr ""
+msgstr "[NAME_PLURAL:燕麦]"
 
 #: plant_crops.txt:337
 msgctxt "PLANT:OATS"
 msgid "[ADJ:oat]"
-msgstr ""
+msgstr "[ADJ:燕麦的]"
 
 #: plant_crops.txt:344
 msgctxt "PLANT:OATS"
 msgid "[STATE_NAME_ADJ:ALL_SOLID:oat flour]"
-msgstr ""
+msgstr "[STATE_NAME_ADJ:ALL_SOLID:燕麦粉]"
 
 #: plant_crops.txt:360
 msgctxt "PLANT:OATS"
 msgid "[SEED:oat seed:oat seeds:]"
-msgstr ""
+msgstr "[SEED:燕麦种子:燕麦种子:]"
 
 #: plant_crops.txt:363
 msgctxt "PLANT:OATS"
 msgid "[PREFSTRING:beer]"
-msgstr ""
+msgstr "[PREFSTRING:啤酒]"
 
 #: plant_crops.txt:365
 msgctxt "PLANT:OATS"
 msgid "[GROWTH_NAME:oat leaf:oat leaves]"
-msgstr ""
+msgstr "[GROWTH_NAME:燕麦叶:燕麦叶]"
 
 #: plant_crops.txt:371
 msgctxt "PLANT:ALFALFA"
 msgid "[NAME:alfalfa]"
-msgstr ""
+msgstr "[NAME:苜蓿]"
 
 #: plant_crops.txt:371
 msgctxt "PLANT:ALFALFA"
 msgid "[NAME_PLURAL:alfalfa]"
-msgstr ""
+msgstr "[NAME_PLURAL:苜蓿]"
 
 #: plant_crops.txt:371
 msgctxt "PLANT:ALFALFA"
 msgid "[ADJ:alfalfa]"
-msgstr ""
+msgstr "[ADJ:苜蓿的]"
 
 #: plant_crops.txt:392
 msgctxt "PLANT:ALFALFA"
 msgid "[SEED:alfalfa seed:alfalfa seeds:]"
-msgstr ""
+msgstr "[SEED:苜蓿种子:苜蓿种子:]"
 
 #: plant_crops.txt:395
 msgctxt "PLANT:ALFALFA"
 msgid "[PREFSTRING:sprouts]"
-msgstr ""
+msgstr "[PREFSTRING:嫩茎]"
 
 #: plant_crops.txt:397
 msgctxt "PLANT:ALFALFA"
 msgid "[GROWTH_NAME:alfalfa leaf:alfalfa leaves]"
-msgstr ""
+msgstr "[GROWTH_NAME:苜蓿叶:苜蓿叶]"
 
 #: plant_crops.txt:402
 msgctxt "PLANT:ALFALFA"
 msgid "[GROWTH_NAME:alfalfa flower cluster:STP]"
-msgstr ""
+msgstr "[GROWTH_NAME:苜蓿花簇:STP]"
 
 #: plant_crops.txt:409
 msgctxt "PLANT:RYE"
 msgid "[NAME:rye]"
-msgstr ""
+msgstr "[NAME:黑麦]"
 
 #: plant_crops.txt:409
 msgctxt "PLANT:RYE"
 msgid "[NAME_PLURAL:rye]"
-msgstr ""
+msgstr "[NAME_PLURAL:黑麦]"
 
 #: plant_crops.txt:409
 msgctxt "PLANT:RYE"
 msgid "[ADJ:rye]"
-msgstr ""
+msgstr "[ADJ:黑麦的]"
 
 #: plant_crops.txt:417
 msgctxt "PLANT:RYE"
 msgid "[STATE_NAME_ADJ:ALL_SOLID:frozen rye beer]"
-msgstr ""
+msgstr "[STATE_NAME_ADJ:ALL_SOLID:冷冻的黑麦啤酒]"
 
 #: plant_crops.txt:418
 msgctxt "PLANT:RYE"
 msgid "[STATE_NAME_ADJ:LIQUID:rye beer]"
-msgstr ""
+msgstr "[STATE_NAME_ADJ:LIQUID:黑麦啤酒]"
 
 #: plant_crops.txt:419
 msgctxt "PLANT:RYE"
 msgid "[STATE_NAME_ADJ:GAS:boiling rye beer]"
-msgstr ""
+msgstr "[STATE_NAME_ADJ:GAS:沸腾的黑麦啤酒]"
 
 #: plant_crops.txt:428
 msgctxt "PLANT:RYE"
 msgid "[STATE_NAME_ADJ:ALL_SOLID:rye flour]"
-msgstr ""
+msgstr "[STATE_NAME_ADJ:ALL_SOLID:黑麦粉]"
 
 #: plant_crops.txt:444
 msgctxt "PLANT:RYE"
 msgid "[SEED:rye seed:rye seeds:]"
-msgstr ""
+msgstr "[SEED:黑麦种子:黑麦种子:]"
 
 #: plant_crops.txt:447
 msgctxt "PLANT:RYE"
 msgid "[PREFSTRING:beer]"
-msgstr ""
+msgstr "[PREFSTRING:啤酒]"
 
 #: plant_crops.txt:449
 msgctxt "PLANT:RYE"
 msgid "[GROWTH_NAME:rye leaf:rye leaves]"
-msgstr ""
+msgstr "[GROWTH_NAME:黑麦叶:黑麦叶]"
 
 #: plant_crops.txt:455
 msgctxt "PLANT:SORGHUM"
 msgid "[NAME:sorghum]"
-msgstr ""
+msgstr "[NAME:高粱]"
 
 #: plant_crops.txt:455
 msgctxt "PLANT:SORGHUM"
 msgid "[NAME_PLURAL:sorghum]"
-msgstr ""
+msgstr "[NAME_PLURAL:高粱]"
 
 #: plant_crops.txt:455
 msgctxt "PLANT:SORGHUM"
 msgid "[ADJ:sorghum]"
-msgstr ""
+msgstr "[ADJ:高粱的]"
 
 #: plant_crops.txt:463
 msgctxt "PLANT:SORGHUM"
 msgid "[STATE_NAME_ADJ:ALL_SOLID:frozen sorghum beer]"
-msgstr ""
+msgstr "[STATE_NAME_ADJ:ALL_SOLID:冷冻的高粱啤酒]"
 
 #: plant_crops.txt:464
 msgctxt "PLANT:SORGHUM"
 msgid "[STATE_NAME_ADJ:LIQUID:sorghum beer]"
-msgstr ""
+msgstr "[STATE_NAME_ADJ:LIQUID:高粱啤酒]"
 
 #: plant_crops.txt:465
 msgctxt "PLANT:SORGHUM"
 msgid "[STATE_NAME_ADJ:GAS:boiling sorghum beer]"
-msgstr ""
+msgstr "[STATE_NAME_ADJ:GAS:沸腾的高粱啤酒]"
 
 #: plant_crops.txt:474
 msgctxt "PLANT:SORGHUM"
 msgid "[STATE_NAME_ADJ:ALL_SOLID:sorghum flour]"
-msgstr ""
+msgstr "[STATE_NAME_ADJ:ALL_SOLID:高粱粉]"
 
 #: plant_crops.txt:493
 msgctxt "PLANT:SORGHUM"
 msgid "[SEED:sorghum seed:sorghum seeds:]"
-msgstr ""
+msgstr "[SEED:高粱种子:高粱种子:]"
 
 #: plant_crops.txt:497
 msgctxt "PLANT:SORGHUM"
 msgid "[PREFSTRING:beer]"
-msgstr ""
+msgstr "[PREFSTRING:啤酒]"
 
 #: plant_crops.txt:499
 msgctxt "PLANT:SORGHUM"
 msgid "[GROWTH_NAME:sorghum leaf:sorghum leaves]"
-msgstr ""
+msgstr "[GROWTH_NAME:高粱叶:高粱叶]"
 
 #: plant_crops.txt:504
 msgctxt "PLANT:SORGHUM"
 msgid "[GROWTH_NAME:sorghum flower cluster:STP]"
-msgstr ""
+msgstr "[GROWTH_NAME:高粱花簇:STP]"
 
 #: plant_crops.txt:511
 msgctxt "PLANT:RICE"
 msgid "[NAME:rice plant]"
-msgstr ""
+msgstr "[NAME:稻米植株]"
 
 #: plant_crops.txt:511
 msgctxt "PLANT:RICE"
 msgid "[NAME_PLURAL:rice plants]"
-msgstr ""
+msgstr "[NAME_PLURAL:稻米植株]"
 
 #: plant_crops.txt:511
 msgctxt "PLANT:RICE"
 msgid "[ADJ:rice plant]"
-msgstr ""
+msgstr "[ADJ:稻米植株的]"
 
 #: plant_crops.txt:519
 msgctxt "PLANT:RICE"
 msgid "[STATE_NAME_ADJ:ALL_SOLID:frozen rice beer]"
-msgstr ""
+msgstr "[STATE_NAME_ADJ:ALL_SOLID:冷冻的稻米啤酒]"
 
 #: plant_crops.txt:520
 msgctxt "PLANT:RICE"
 msgid "[STATE_NAME_ADJ:LIQUID:rice beer]"
-msgstr ""
+msgstr "[STATE_NAME_ADJ:LIQUID:稻米啤酒]"
 
 #: plant_crops.txt:521
 msgctxt "PLANT:RICE"
 msgid "[STATE_NAME_ADJ:GAS:boiling rice beer]"
-msgstr ""
+msgstr "[STATE_NAME_ADJ:GAS:沸腾的稻米啤酒]"
 
 #: plant_crops.txt:530
 msgctxt "PLANT:RICE"
 msgid "[STATE_NAME_ADJ:ALL_SOLID:rice flour]"
-msgstr ""
+msgstr "[STATE_NAME_ADJ:ALL_SOLID:稻米粉]"
 
 #: plant_crops.txt:546
 msgctxt "PLANT:RICE"
 msgid "[SEED:rice:rice:]"
-msgstr ""
+msgstr "[SEED:稻米:稻米:]"
 
 #: plant_crops.txt:549
 msgctxt "PLANT:RICE"
 msgid "[PREFSTRING:grain]"
-msgstr ""
+msgstr "[PREFSTRING:谷物]"
 
 #: plant_crops.txt:551
 msgctxt "PLANT:RICE"
 msgid "[GROWTH_NAME:rice leaf:rice leaves]"
-msgstr ""
+msgstr "[GROWTH_NAME:稻米叶:稻米叶]"
 
 #: plant_crops.txt:557
 msgctxt "PLANT:MAIZE"
 msgid "[NAME:maize plant]"
-msgstr ""
+msgstr "[NAME:玉米植株]"
 
 #: plant_crops.txt:557
 msgctxt "PLANT:MAIZE"
 msgid "[NAME_PLURAL:maize plants]"
-msgstr ""
+msgstr "[NAME_PLURAL:玉米植株]"
 
 #: plant_crops.txt:557
 msgctxt "PLANT:MAIZE"
 msgid "[ADJ:maize plant]"
-msgstr ""
+msgstr "[ADJ:玉米植株的]"
 
 #: plant_crops.txt:565
 msgctxt "PLANT:MAIZE"
 msgid "[STATE_NAME_ADJ:ALL_SOLID:frozen maize beer]"
-msgstr ""
+msgstr "[STATE_NAME_ADJ:ALL_SOLID:冷冻的玉米啤酒]"
 
 #: plant_crops.txt:566
 msgctxt "PLANT:MAIZE"
 msgid "[STATE_NAME_ADJ:LIQUID:maize beer]"
-msgstr ""
+msgstr "[STATE_NAME_ADJ:LIQUID:玉米啤酒]"
 
 #: plant_crops.txt:567
 msgctxt "PLANT:MAIZE"
 msgid "[STATE_NAME_ADJ:GAS:boiling maize beer]"
-msgstr ""
+msgstr "[STATE_NAME_ADJ:GAS:沸腾的玉米啤酒]"
 
 #: plant_crops.txt:576
 msgctxt "PLANT:MAIZE"
 msgid "[STATE_NAME_ADJ:ALL_SOLID:maize flour]"
-msgstr ""
+msgstr "[STATE_NAME_ADJ:ALL_SOLID:玉米粉]"
 
 #: plant_crops.txt:592
 msgctxt "PLANT:MAIZE"
 msgid "[SEED:maize:maize:]"
-msgstr ""
+msgstr "[SEED:玉米:玉米:]"
 
 #: plant_crops.txt:597
 msgctxt "PLANT:MAIZE"
 msgid "[PREFSTRING:popped kernels]"
-msgstr ""
+msgstr "[PREFSTRING:爆裂的果仁]"
 
 #: plant_crops.txt:599
 msgctxt "PLANT:MAIZE"
 msgid "[GROWTH_NAME:maize leaf:maize leaves]"
-msgstr ""
+msgstr "[GROWTH_NAME:玉米叶:玉米叶]"
 
 #: plant_crops.txt:605
 msgctxt "PLANT:QUINOA"
 msgid "[NAME:quinoa]"
-msgstr ""
+msgstr "[NAME:藜麦]"
 
 #: plant_crops.txt:605
 msgctxt "PLANT:QUINOA"
 msgid "[NAME_PLURAL:quinoa]"
-msgstr ""
+msgstr "[NAME_PLURAL:藜麦]"
 
 #: plant_crops.txt:605
 msgctxt "PLANT:QUINOA"
 msgid "[ADJ:quinoa]"
-msgstr ""
+msgstr "[ADJ:藜麦的]"
 
 #: plant_crops.txt:613
 msgctxt "PLANT:QUINOA"
 msgid "[STATE_NAME_ADJ:ALL_SOLID:frozen quinoa beer]"
-msgstr ""
+msgstr "[STATE_NAME_ADJ:ALL_SOLID:冷冻的藜麦啤酒]"
 
 #: plant_crops.txt:614
 msgctxt "PLANT:QUINOA"
 msgid "[STATE_NAME_ADJ:LIQUID:quinoa beer]"
-msgstr ""
+msgstr "[STATE_NAME_ADJ:LIQUID:藜麦啤酒]"
 
 #: plant_crops.txt:615
 msgctxt "PLANT:QUINOA"
 msgid "[STATE_NAME_ADJ:GAS:boiling quinoa beer]"
-msgstr ""
+msgstr "[STATE_NAME_ADJ:GAS:沸腾的藜麦啤酒]"
 
 #: plant_crops.txt:624
 msgctxt "PLANT:QUINOA"
 msgid "[STATE_NAME_ADJ:ALL_SOLID:quinoa flour]"
-msgstr ""
+msgstr "[STATE_NAME_ADJ:ALL_SOLID:藜麦粉]"
 
 #: plant_crops.txt:643
 msgctxt "PLANT:QUINOA"
 msgid "[SEED:quinoa seed:quinoa seeds:]"
-msgstr ""
+msgstr "[SEED:藜麦种子:藜麦种子:]"
 
 #: plant_crops.txt:646
 msgctxt "PLANT:QUINOA"
 msgid "[PREFSTRING:beer]"
-msgstr ""
+msgstr "[PREFSTRING:啤酒]"
 
 #: plant_crops.txt:648
 msgctxt "PLANT:QUINOA"
 msgid "[GROWTH_NAME:quinoa leaf:quinoa leaves]"
-msgstr ""
+msgstr "[GROWTH_NAME:藜麦叶:藜麦叶]"
 
 #: plant_crops.txt:653
 msgctxt "PLANT:QUINOA"
 msgid "[GROWTH_NAME:quinoa flower:STP]"
-msgstr ""
+msgstr "[GROWTH_NAME:藜麦花:STP]"
 
 #: plant_crops.txt:660
 msgctxt "PLANT:KANIWA"
 msgid "[NAME:kaniwa]"
-msgstr ""
+msgstr "[NAME:彩藜]"
 
 #: plant_crops.txt:660
 msgctxt "PLANT:KANIWA"
 msgid "[NAME_PLURAL:kaniwa]"
-msgstr ""
+msgstr "[NAME_PLURAL:彩藜]"
 
 #: plant_crops.txt:660
 msgctxt "PLANT:KANIWA"
 msgid "[ADJ:kaniwa]"
-msgstr ""
+msgstr "[ADJ:彩藜的]"
 
 #: plant_crops.txt:668
 msgctxt "PLANT:KANIWA"
 msgid "[STATE_NAME_ADJ:ALL_SOLID:frozen kaniwa beer]"
-msgstr ""
+msgstr "[STATE_NAME_ADJ:ALL_SOLID:冷冻的彩藜啤酒]"
 
 #: plant_crops.txt:669
 msgctxt "PLANT:KANIWA"
 msgid "[STATE_NAME_ADJ:LIQUID:kaniwa beer]"
-msgstr ""
+msgstr "[STATE_NAME_ADJ:LIQUID:彩藜啤酒]"
 
 #: plant_crops.txt:670
 msgctxt "PLANT:KANIWA"
 msgid "[STATE_NAME_ADJ:GAS:boiling kaniwa beer]"
-msgstr ""
+msgstr "[STATE_NAME_ADJ:GAS:沸腾的彩藜啤酒]"
 
 #: plant_crops.txt:679
 msgctxt "PLANT:KANIWA"
 msgid "[STATE_NAME_ADJ:ALL_SOLID:kaniwa flour]"
-msgstr ""
+msgstr "[STATE_NAME_ADJ:ALL_SOLID:彩藜粉]"
 
 #: plant_crops.txt:698
 msgctxt "PLANT:KANIWA"
 msgid "[SEED:kaniwa seed:kaniwa seeds:]"
-msgstr ""
+msgstr "[SEED:彩藜种子:彩藜种子:]"
 
 #: plant_crops.txt:701
 msgctxt "PLANT:KANIWA"
 msgid "[PREFSTRING:beer]"
-msgstr ""
+msgstr "[PREFSTRING:啤酒]"
 
 #: plant_crops.txt:703
 msgctxt "PLANT:KANIWA"
 msgid "[GROWTH_NAME:kaniwa leaf:kaniwa leaves]"
-msgstr ""
+msgstr "[GROWTH_NAME:彩藜叶:彩藜叶]"
 
 #: plant_crops.txt:708
 msgctxt "PLANT:KANIWA"
 msgid "[GROWTH_NAME:kaniwa flower:STP]"
-msgstr ""
+msgstr "[GROWTH_NAME:彩藜花:STP]"
 
 #: plant_crops.txt:715
 msgctxt "PLANT:BITTER_VETCH"
 msgid "[NAME:bitter vetch]"
-msgstr ""
+msgstr "[NAME:苦野豌豆]"
 
 #: plant_crops.txt:715
 msgctxt "PLANT:BITTER_VETCH"
 msgid "[NAME_PLURAL:bitter vetch]"
-msgstr ""
+msgstr "[NAME_PLURAL:苦野豌豆]"
 
 #: plant_crops.txt:715
 msgctxt "PLANT:BITTER_VETCH"
 msgid "[ADJ:bitter vetch]"
-msgstr ""
+msgstr "[ADJ:苦野豌豆的]"
 
 #: plant_crops.txt:737
 msgctxt "PLANT:BITTER_VETCH"
 msgid "[SEED:bitter vetch seed:bitter vetch seeds:]"
-msgstr ""
+msgstr "[SEED:苦野豌豆种子:苦野豌豆种子:]"
 
 #: plant_crops.txt:740
 msgctxt "PLANT:BITTER_VETCH"
 msgid "[PREFSTRING:grain]"
-msgstr ""
+msgstr "[PREFSTRING:谷物]"
 
 #: plant_crops.txt:742
 msgctxt "PLANT:BITTER_VETCH"
 msgid "[GROWTH_NAME:bitter vetch leaf:bitter vetch leaves]"
-msgstr ""
+msgstr "[GROWTH_NAME:苦野豌豆叶:苦野豌豆叶]"
 
 #: plant_crops.txt:747
 msgctxt "PLANT:BITTER_VETCH"
 msgid "[GROWTH_NAME:bitter vetch flower:STP]"
-msgstr ""
+msgstr "[GROWTH_NAME:苦野豌豆花:STP]"
 
 #: plant_crops.txt:753
 msgctxt "PLANT:BITTER_VETCH"
 msgid "[GROWTH_NAME:bitter vetch pod:STP]"
-msgstr ""
+msgstr "[GROWTH_NAME:苦野豌豆豆荚:STP]"
 
 #: plant_crops.txt:761
 msgctxt "PLANT:PENDANT_AMARANTH"
 msgid "[NAME:pendant amaranth]"
-msgstr ""
+msgstr "[NAME:吊坠苋]"
 
 #: plant_crops.txt:761
 msgctxt "PLANT:PENDANT_AMARANTH"
 msgid "[NAME_PLURAL:pendant amaranths]"
-msgstr ""
+msgstr "[NAME_PLURAL:吊坠苋]"
 
 #: plant_crops.txt:761
 msgctxt "PLANT:PENDANT_AMARANTH"
 msgid "[ADJ:pendant amaranth]"
-msgstr ""
+msgstr "[ADJ:吊坠苋的]"
 
 #: plant_crops.txt:769
 msgctxt "PLANT:PENDANT_AMARANTH"
 msgid "[STATE_NAME_ADJ:ALL_SOLID:frozen pendant amaranth beer]"
-msgstr ""
+msgstr "[STATE_NAME_ADJ:ALL_SOLID:冷冻的吊坠苋啤酒]"
 
 #: plant_crops.txt:770
 msgctxt "PLANT:PENDANT_AMARANTH"
 msgid "[STATE_NAME_ADJ:LIQUID:pendant amaranth beer]"
-msgstr ""
+msgstr "[STATE_NAME_ADJ:LIQUID:吊坠苋啤酒]"
 
 #: plant_crops.txt:771
 msgctxt "PLANT:PENDANT_AMARANTH"
 msgid "[STATE_NAME_ADJ:GAS:boiling pendant amaranth beer]"
-msgstr ""
+msgstr "[STATE_NAME_ADJ:GAS:沸腾的吊坠苋啤酒]"
 
 #: plant_crops.txt:780
 msgctxt "PLANT:PENDANT_AMARANTH"
 msgid "[STATE_NAME_ADJ:ALL_SOLID:pendant amaranth flour]"
-msgstr ""
+msgstr "[STATE_NAME_ADJ:ALL_SOLID:吊坠苋粉]"
 
 #: plant_crops.txt:801
 msgctxt "PLANT:PENDANT_AMARANTH"
 msgid "[SEED:pendant amaranth seed:pendant amaranth seeds:]"
-msgstr ""
+msgstr "[SEED:吊坠苋种子:吊坠苋种子:]"
 
 #: plant_crops.txt:804
 msgctxt "PLANT:PENDANT_AMARANTH"
 msgid "[PREFSTRING:striking color]"
-msgstr ""
+msgstr "[PREFSTRING:引人注目的颜色]"
 
 #: plant_crops.txt:806
 msgctxt "PLANT:PENDANT_AMARANTH"
 msgid "[GROWTH_NAME:pendant amaranth leaf:pendant amaranth leaves]"
-msgstr ""
+msgstr "[GROWTH_NAME:吊坠苋叶:吊坠苋叶]"
 
 #: plant_crops.txt:811
 msgctxt "PLANT:PENDANT_AMARANTH"
 msgid "[GROWTH_NAME:pendant amaranth inflorescence:STP]"
-msgstr ""
+msgstr "[GROWTH_NAME:吊坠苋花序:STP]"
 
 #: plant_crops.txt:818
 msgctxt "PLANT:BLOOD_AMARANTH"
 msgid "[NAME:blood amaranth]"
-msgstr ""
+msgstr "[NAME:血苋]"
 
 #: plant_crops.txt:818
 msgctxt "PLANT:BLOOD_AMARANTH"
 msgid "[NAME_PLURAL:blood amaranths]"
-msgstr ""
+msgstr "[NAME_PLURAL:血苋]"
 
 #: plant_crops.txt:818
 msgctxt "PLANT:BLOOD_AMARANTH"
 msgid "[ADJ:blood amaranth]"
-msgstr ""
+msgstr "[ADJ:血苋的]"
 
 #: plant_crops.txt:826
 msgctxt "PLANT:BLOOD_AMARANTH"
 msgid "[STATE_NAME_ADJ:ALL_SOLID:frozen blood amaranth beer]"
-msgstr ""
+msgstr "[STATE_NAME_ADJ:ALL_SOLID:冷冻的血苋啤酒]"
 
 #: plant_crops.txt:827
 msgctxt "PLANT:BLOOD_AMARANTH"
 msgid "[STATE_NAME_ADJ:LIQUID:blood amaranth beer]"
-msgstr ""
+msgstr "[STATE_NAME_ADJ:LIQUID:血苋啤酒]"
 
 #: plant_crops.txt:828
 msgctxt "PLANT:BLOOD_AMARANTH"
 msgid "[STATE_NAME_ADJ:GAS:boiling blood amaranth beer]"
-msgstr ""
+msgstr "[STATE_NAME_ADJ:GAS:沸腾的血苋啤酒]"
 
 #: plant_crops.txt:837
 msgctxt "PLANT:BLOOD_AMARANTH"
 msgid "[STATE_NAME_ADJ:ALL_SOLID:blood amaranth flour]"
-msgstr ""
+msgstr "[STATE_NAME_ADJ:ALL_SOLID:血苋粉]"
 
 #: plant_crops.txt:861
 msgctxt "PLANT:BLOOD_AMARANTH"
 msgid "[SEED:blood amaranth seed:blood amaranth seeds:]"
-msgstr ""
+msgstr "[SEED:血苋种子:血苋种子:]"
 
 #: plant_crops.txt:864
 msgctxt "PLANT:BLOOD_AMARANTH"
 msgid "[PREFSTRING:striking color]"
-msgstr ""
+msgstr "[PREFSTRING:引人注目的颜色]"
 
 #: plant_crops.txt:866
 msgctxt "PLANT:BLOOD_AMARANTH"
 msgid "[GROWTH_NAME:blood amaranth leaf:blood amaranth leaves]"
-msgstr ""
+msgstr "[GROWTH_NAME:血苋叶:血苋叶]"
 
 #: plant_crops.txt:871
 msgctxt "PLANT:BLOOD_AMARANTH"
 msgid "[GROWTH_NAME:blood amaranth inflorescence:STP]"
-msgstr ""
+msgstr "[GROWTH_NAME:血苋花序:STP]"
 
 #: plant_crops.txt:878
 msgctxt "PLANT:PURPLE_AMARANTH"
 msgid "[NAME:purple amaranth]"
-msgstr ""
+msgstr "[NAME:紫苋]"
 
 #: plant_crops.txt:878
 msgctxt "PLANT:PURPLE_AMARANTH"
 msgid "[NAME_PLURAL:purple amaranths]"
-msgstr ""
+msgstr "[NAME_PLURAL:紫苋]"
 
 #: plant_crops.txt:878
 msgctxt "PLANT:PURPLE_AMARANTH"
 msgid "[ADJ:purple amaranth]"
-msgstr ""
+msgstr "[ADJ:紫苋的]"
 
 #: plant_crops.txt:886
 msgctxt "PLANT:PURPLE_AMARANTH"
 msgid "[STATE_NAME_ADJ:ALL_SOLID:frozen purple amaranth beer]"
-msgstr ""
+msgstr "[STATE_NAME_ADJ:ALL_SOLID:冷冻的紫苋啤酒]"
 
 #: plant_crops.txt:887
 msgctxt "PLANT:PURPLE_AMARANTH"
 msgid "[STATE_NAME_ADJ:LIQUID:purple amaranth beer]"
-msgstr ""
+msgstr "[STATE_NAME_ADJ:LIQUID:紫苋啤酒]"
 
 #: plant_crops.txt:888
 msgctxt "PLANT:PURPLE_AMARANTH"
 msgid "[STATE_NAME_ADJ:GAS:boiling purple amaranth beer]"
-msgstr ""
+msgstr "[STATE_NAME_ADJ:GAS:沸腾的紫苋啤酒]"
 
 #: plant_crops.txt:897
 msgctxt "PLANT:PURPLE_AMARANTH"
 msgid "[STATE_NAME_ADJ:ALL_SOLID:purple amaranth flour]"
-msgstr ""
+msgstr "[STATE_NAME_ADJ:ALL_SOLID:紫苋粉]"
 
 #: plant_crops.txt:914
 msgctxt "PLANT:PURPLE_AMARANTH"
 msgid "[SEED:purple amaranth seed:purple amaranth seeds:]"
-msgstr ""
+msgstr "[SEED:紫苋种子:紫苋种子:]"
 
 #: plant_crops.txt:924
 msgctxt "PLANT:PURPLE_AMARANTH"
 msgid "[PREFSTRING:striking color]"
-msgstr ""
+msgstr "[PREFSTRING:引人注目的颜色]"
 
 #: plant_crops.txt:926
 msgctxt "PLANT:PURPLE_AMARANTH"
 msgid "[GROWTH_NAME:purple amaranth leaf:purple amaranth leaves]"
-msgstr ""
+msgstr "[GROWTH_NAME:紫苋叶:紫苋叶]"
 
 #: plant_crops.txt:931
 msgctxt "PLANT:PURPLE_AMARANTH"
 msgid "[GROWTH_NAME:purple amaranth inflorescence:STP]"
-msgstr ""
+msgstr "[GROWTH_NAME:紫苋花序:STP]"
 
 #: plant_crops.txt:938
 msgctxt "PLANT:RED_SPINACH"
 msgid "[NAME:red spinach]"
-msgstr ""
+msgstr "[NAME:红菠菜]"
 
 #: plant_crops.txt:938
 msgctxt "PLANT:RED_SPINACH"
 msgid "[NAME_PLURAL:red spinach]"
-msgstr ""
+msgstr "[NAME_PLURAL:红菠菜]"
 
 #: plant_crops.txt:938
 msgctxt "PLANT:RED_SPINACH"
 msgid "[ADJ:red spinach]"
-msgstr ""
+msgstr "[ADJ:红菠菜的]"
 
 #: plant_crops.txt:952
 msgctxt "PLANT:RED_SPINACH"
 msgid "[SEED:red spinach seed:red spinach seeds:]"
-msgstr ""
+msgstr "[SEED:红菠菜种子:红菠菜种子:]"
 
 #: plant_crops.txt:962
 msgctxt "PLANT:RED_SPINACH"
 msgid "[PREFSTRING:leaves]"
-msgstr ""
+msgstr "[PREFSTRING:叶]"
 
 #: plant_crops.txt:964
 msgctxt "PLANT:RED_SPINACH"
 msgid "[GROWTH_NAME:red spinach leaf:red spinach leaves]"
-msgstr ""
+msgstr "[GROWTH_NAME:红菠菜叶:红菠菜叶]"
 
 #: plant_crops.txt:969
 msgctxt "PLANT:RED_SPINACH"
 msgid "[GROWTH_NAME:red spinach inflorescence:STP]"
-msgstr ""
+msgstr "[GROWTH_NAME:红菠菜花序:STP]"
 
 #: plant_crops.txt:976
 msgctxt "PLANT:ELEPHANT-HEAD_AMARANTH"
 msgid "[NAME:elephant-head amaranth]"
-msgstr ""
+msgstr "[NAME:象头苋]"
 
 #: plant_crops.txt:976
 msgctxt "PLANT:ELEPHANT-HEAD_AMARANTH"
 msgid "[NAME_PLURAL:elephant-head amaranths]"
-msgstr ""
+msgstr "[NAME_PLURAL:象头苋]"
 
 #: plant_crops.txt:976
 msgctxt "PLANT:ELEPHANT-HEAD_AMARANTH"
 msgid "[ADJ:elephant-head amaranth]"
-msgstr ""
+msgstr "[ADJ:象头苋的]"
 
 #: plant_crops.txt:990
 msgctxt "PLANT:ELEPHANT-HEAD_AMARANTH"
 msgid "[SEED:elephant-head amaranth seed:elephant-head amaranth seeds:]"
-msgstr ""
+msgstr "[SEED:象头苋种子:象头苋种子:]"
 
 #: plant_crops.txt:1001
 msgctxt "PLANT:ELEPHANT-HEAD_AMARANTH"
 msgid "[PREFSTRING:leaf coloration]"
-msgstr ""
+msgstr "[PREFSTRING:叶子的颜色]"
 
 #: plant_crops.txt:1003
 msgctxt "PLANT:ELEPHANT-HEAD_AMARANTH"
 msgid ""
 "[GROWTH_NAME:elephant-head amaranth leaf:elephant-head amaranth leaves]"
-msgstr ""
+msgstr "[GROWTH_NAME:象头苋叶:象头苋叶]"
 
 #: plant_crops.txt:1008
 msgctxt "PLANT:ELEPHANT-HEAD_AMARANTH"
 msgid "[GROWTH_NAME:elephant-head amaranth inflorescence:STP]"
-msgstr ""
+msgstr "[GROWTH_NAME:象头苋花序:STP]"
 
 #: plant_crops.txt:1015
 msgctxt "PLANT:PEARL_MILLET"
 msgid "[NAME:pearl millet plant]"
-msgstr ""
+msgstr "[NAME:珍珠粟植株]"
 
 #: plant_crops.txt:1015
 msgctxt "PLANT:PEARL_MILLET"
 msgid "[NAME_PLURAL:pearl millet plants]"
-msgstr ""
+msgstr "[NAME_PLURAL:珍珠粟植株]"
 
 #: plant_crops.txt:1015
 msgctxt "PLANT:PEARL_MILLET"
 msgid "[ADJ:pearl millet plant]"
-msgstr ""
+msgstr "[ADJ:珍珠粟植株的]"
 
 #: plant_crops.txt:1023
 msgctxt "PLANT:PEARL_MILLET"
 msgid "[STATE_NAME_ADJ:ALL_SOLID:frozen pearl millet beer]"
-msgstr ""
+msgstr "[STATE_NAME_ADJ:ALL_SOLID:冷冻的珍珠粟啤酒]"
 
 #: plant_crops.txt:1024
 msgctxt "PLANT:PEARL_MILLET"
 msgid "[STATE_NAME_ADJ:LIQUID:pearl millet beer]"
-msgstr ""
+msgstr "[STATE_NAME_ADJ:LIQUID:珍珠粟啤酒]"
 
 #: plant_crops.txt:1025
 msgctxt "PLANT:PEARL_MILLET"
 msgid "[STATE_NAME_ADJ:GAS:boiling pearl millet beer]"
-msgstr ""
+msgstr "[STATE_NAME_ADJ:GAS:沸腾的珍珠粟啤酒]"
 
 #: plant_crops.txt:1034
 msgctxt "PLANT:PEARL_MILLET"
 msgid "[STATE_NAME_ADJ:ALL_SOLID:pearl millet flour]"
-msgstr ""
+msgstr "[STATE_NAME_ADJ:ALL_SOLID:珍珠粟粉]"
 
 #: plant_crops.txt:1050
 msgctxt "PLANT:PEARL_MILLET"
 msgid "[SEED:pearl millet:pearl millet:]"
-msgstr ""
+msgstr "[SEED:珍珠粟:珍珠粟:]"
 
 #: plant_crops.txt:1053
 msgctxt "PLANT:PEARL_MILLET"
 msgid "[PREFSTRING:grain]"
-msgstr ""
+msgstr "[PREFSTRING:谷物]"
 
 #: plant_crops.txt:1055
 msgctxt "PLANT:PEARL_MILLET"
 msgid "[GROWTH_NAME:pearl millet leaf:pearl millet leaves]"
-msgstr ""
+msgstr "[GROWTH_NAME:珍珠粟叶:珍珠粟叶]"
 
 #: plant_crops.txt:1061
 msgctxt "PLANT:WHITE_MILLET"
 msgid "[NAME:white millet plant]"
-msgstr ""
+msgstr "[NAME:白粟植株]"
 
 #: plant_crops.txt:1061
 msgctxt "PLANT:WHITE_MILLET"
 msgid "[NAME_PLURAL:white millet plants]"
-msgstr ""
+msgstr "[NAME_PLURAL:白粟植株]"
 
 #: plant_crops.txt:1061
 msgctxt "PLANT:WHITE_MILLET"
 msgid "[ADJ:white millet plant]"
-msgstr ""
+msgstr "[ADJ:白粟植株的]"
 
 #: plant_crops.txt:1069
 msgctxt "PLANT:WHITE_MILLET"
 msgid "[STATE_NAME_ADJ:ALL_SOLID:frozen white millet beer]"
-msgstr ""
+msgstr "[STATE_NAME_ADJ:ALL_SOLID:冷冻的白粟啤酒]"
 
 #: plant_crops.txt:1070
 msgctxt "PLANT:WHITE_MILLET"
 msgid "[STATE_NAME_ADJ:LIQUID:white millet beer]"
-msgstr ""
+msgstr "[STATE_NAME_ADJ:LIQUID:白粟啤酒]"
 
 #: plant_crops.txt:1071
 msgctxt "PLANT:WHITE_MILLET"
 msgid "[STATE_NAME_ADJ:GAS:boiling white millet beer]"
-msgstr ""
+msgstr "[STATE_NAME_ADJ:GAS:沸腾的白粟啤酒]"
 
 #: plant_crops.txt:1080
 msgctxt "PLANT:WHITE_MILLET"
 msgid "[STATE_NAME_ADJ:ALL_SOLID:white millet flour]"
-msgstr ""
+msgstr "[STATE_NAME_ADJ:ALL_SOLID:白粟粉]"
 
 #: plant_crops.txt:1096
 msgctxt "PLANT:WHITE_MILLET"
 msgid "[SEED:white millet:white millet:]"
-msgstr ""
+msgstr "[SEED:白粟:白粟:]"
 
 #: plant_crops.txt:1099
 msgctxt "PLANT:WHITE_MILLET"
 msgid "[PREFSTRING:grain]"
-msgstr ""
+msgstr "[PREFSTRING:谷物]"
 
 #: plant_crops.txt:1101
 msgctxt "PLANT:WHITE_MILLET"
 msgid "[GROWTH_NAME:white millet leaf:white millet leaves]"
-msgstr ""
+msgstr "[GROWTH_NAME:白粟叶:白粟叶]"
 
 #: plant_crops.txt:1107
 msgctxt "PLANT:FINGER_MILLET"
 msgid "[NAME:finger millet plant]"
-msgstr ""
+msgstr "[NAME:爪粟植株]"
 
 #: plant_crops.txt:1107
 msgctxt "PLANT:FINGER_MILLET"
 msgid "[NAME_PLURAL:finger millet plants]"
-msgstr ""
+msgstr "[NAME_PLURAL:爪粟植株]"
 
 #: plant_crops.txt:1107
 msgctxt "PLANT:FINGER_MILLET"
 msgid "[ADJ:finger millet plant]"
-msgstr ""
+msgstr "[ADJ:爪粟植株的]"
 
 #: plant_crops.txt:1115
 msgctxt "PLANT:FINGER_MILLET"
 msgid "[STATE_NAME_ADJ:ALL_SOLID:frozen finger millet beer]"
-msgstr ""
+msgstr "[STATE_NAME_ADJ:ALL_SOLID:冷冻的爪粟啤酒]"
 
 #: plant_crops.txt:1116
 msgctxt "PLANT:FINGER_MILLET"
 msgid "[STATE_NAME_ADJ:LIQUID:finger millet beer]"
-msgstr ""
+msgstr "[STATE_NAME_ADJ:LIQUID:爪粟啤酒]"
 
 #: plant_crops.txt:1117
 msgctxt "PLANT:FINGER_MILLET"
 msgid "[STATE_NAME_ADJ:GAS:boiling finger millet beer]"
-msgstr ""
+msgstr "[STATE_NAME_ADJ:GAS:沸腾的爪粟啤酒]"
 
 #: plant_crops.txt:1126
 msgctxt "PLANT:FINGER_MILLET"
 msgid "[STATE_NAME_ADJ:ALL_SOLID:finger millet flour]"
-msgstr ""
+msgstr "[STATE_NAME_ADJ:ALL_SOLID:爪粟粉]"
 
 #: plant_crops.txt:1142
 msgctxt "PLANT:FINGER_MILLET"
 msgid "[SEED:finger millet:finger millet:]"
-msgstr ""
+msgstr "[SEED:爪粟:爪粟:]"
 
 #: plant_crops.txt:1145
 msgctxt "PLANT:FINGER_MILLET"
 msgid "[PREFSTRING:grain]"
-msgstr ""
+msgstr "[PREFSTRING:谷物]"
 
 #: plant_crops.txt:1147
 msgctxt "PLANT:FINGER_MILLET"
 msgid "[GROWTH_NAME:finger millet leaf:finger millet leaves]"
-msgstr ""
+msgstr "[GROWTH_NAME:爪粟叶:爪粟叶]"
 
 #: plant_crops.txt:1153
 msgctxt "PLANT:FOXTAIL_MILLET"
 msgid "[NAME:foxtail millet plant]"
-msgstr ""
+msgstr "[NAME:狐尾粟植株]"
 
 #: plant_crops.txt:1153
 msgctxt "PLANT:FOXTAIL_MILLET"
 msgid "[NAME_PLURAL:foxtail millet plants]"
-msgstr ""
+msgstr "[NAME_PLURAL:狐尾粟植株]"
 
 #: plant_crops.txt:1153
 msgctxt "PLANT:FOXTAIL_MILLET"
 msgid "[ADJ:foxtail millet plant]"
-msgstr ""
+msgstr "[ADJ:狐尾粟啤酒植株的]"
 
 #: plant_crops.txt:1161
 msgctxt "PLANT:FOXTAIL_MILLET"
 msgid "[STATE_NAME_ADJ:ALL_SOLID:frozen foxtail millet beer]"
-msgstr ""
+msgstr "[STATE_NAME_ADJ:ALL_SOLID:冷冻的狐尾粟啤酒]"
 
 #: plant_crops.txt:1162
 msgctxt "PLANT:FOXTAIL_MILLET"
 msgid "[STATE_NAME_ADJ:LIQUID:foxtail millet beer]"
-msgstr ""
+msgstr "[STATE_NAME_ADJ:LIQUID:狐尾粟啤酒]"
 
 #: plant_crops.txt:1163
 msgctxt "PLANT:FOXTAIL_MILLET"
 msgid "[STATE_NAME_ADJ:GAS:boiling foxtail millet beer]"
-msgstr ""
+msgstr "[STATE_NAME_ADJ:GAS:沸腾的狐尾粟啤酒]"
 
 #: plant_crops.txt:1172
 msgctxt "PLANT:FOXTAIL_MILLET"
 msgid "[STATE_NAME_ADJ:ALL_SOLID:foxtail millet flour]"
-msgstr ""
+msgstr "[STATE_NAME_ADJ:ALL_SOLID:狐尾粟粉]"
 
 #: plant_crops.txt:1188
 msgctxt "PLANT:FOXTAIL_MILLET"
 msgid "[SEED:foxtail millet:foxtail millet:]"
-msgstr ""
+msgstr "[SEED:狐尾粟:狐尾粟:]"
 
 #: plant_crops.txt:1191
 msgctxt "PLANT:FOXTAIL_MILLET"
 msgid "[PREFSTRING:grain]"
-msgstr ""
+msgstr "[PREFSTRING:谷物]"
 
 #: plant_crops.txt:1193
 msgctxt "PLANT:FOXTAIL_MILLET"
 msgid "[GROWTH_NAME:foxtail millet leaf:foxtail millet leaves]"
-msgstr ""
+msgstr "[GROWTH_NAME:狐尾粟叶:狐尾粟叶]"
 
 #: plant_crops.txt:1199
 msgctxt "PLANT:FONIO"
 msgid "[NAME:fonio plant]"
-msgstr ""
+msgstr "[NAME:非尼奥米植株]"
 
 #: plant_crops.txt:1199
 msgctxt "PLANT:FONIO"
 msgid "[NAME_PLURAL:fonio plants]"
-msgstr ""
+msgstr "[NAME_PLURAL:非尼奥米植株]"
 
 #: plant_crops.txt:1199
 msgctxt "PLANT:FONIO"
 msgid "[ADJ:fonio plant]"
-msgstr ""
+msgstr "[ADJ:非尼奥米植株的]"
 
 #: plant_crops.txt:1207
 msgctxt "PLANT:FONIO"
 msgid "[STATE_NAME_ADJ:ALL_SOLID:frozen fonio beer]"
-msgstr ""
+msgstr "[STATE_NAME_ADJ:ALL_SOLID:冷冻的非尼奥米啤酒]"
 
 #: plant_crops.txt:1208
 msgctxt "PLANT:FONIO"
 msgid "[STATE_NAME_ADJ:LIQUID:fonio beer]"
-msgstr ""
+msgstr "[STATE_NAME_ADJ:LIQUID:非尼奥米啤酒]"
 
 #: plant_crops.txt:1209
 msgctxt "PLANT:FONIO"
 msgid "[STATE_NAME_ADJ:GAS:boiling fonio beer]"
-msgstr ""
+msgstr "[STATE_NAME_ADJ:GAS:沸腾的非尼奥米啤酒]"
 
 #: plant_crops.txt:1218
 msgctxt "PLANT:FONIO"
 msgid "[STATE_NAME_ADJ:ALL_SOLID:fonio flour]"
-msgstr ""
+msgstr "[STATE_NAME_ADJ:ALL_SOLID:非尼奥米粉]"
 
 #: plant_crops.txt:1234
 msgctxt "PLANT:FONIO"
 msgid "[SEED:fonio:fonio:]"
-msgstr ""
+msgstr "[SEED:非尼奥米:非尼奥米:]"
 
 #: plant_crops.txt:1237
 msgctxt "PLANT:FONIO"
 msgid "[PREFSTRING:grain]"
-msgstr ""
+msgstr "[PREFSTRING:谷物]"
 
 #: plant_crops.txt:1239
 msgctxt "PLANT:FONIO"
 msgid "[GROWTH_NAME:fonio leaf:fonio leaves]"
-msgstr ""
+msgstr "[GROWTH_NAME:非尼奥米叶:非尼奥米叶]"
 
 #: plant_crops.txt:1245
 msgctxt "PLANT:TEFF"
 msgid "[NAME:teff plant]"
-msgstr ""
+msgstr "[NAME:苔麸植株]"
 
 #: plant_crops.txt:1245
 msgctxt "PLANT:TEFF"
 msgid "[NAME_PLURAL:teff plants]"
-msgstr ""
+msgstr "[NAME_PLURAL:苔麸植株]"
 
 #: plant_crops.txt:1245
 msgctxt "PLANT:TEFF"
 msgid "[ADJ:teff plant]"
-msgstr ""
+msgstr "[ADJ:苔麸植株的]"
 
 #: plant_crops.txt:1253
 msgctxt "PLANT:TEFF"
 msgid "[STATE_NAME_ADJ:ALL_SOLID:frozen teff beer]"
-msgstr ""
+msgstr "[STATE_NAME_ADJ:ALL_SOLID:冷冻的苔麸啤酒]"
 
 #: plant_crops.txt:1254
 msgctxt "PLANT:TEFF"
 msgid "[STATE_NAME_ADJ:LIQUID:teff beer]"
-msgstr ""
+msgstr "[STATE_NAME_ADJ:LIQUID:苔麸啤酒]"
 
 #: plant_crops.txt:1255
 msgctxt "PLANT:TEFF"
 msgid "[STATE_NAME_ADJ:GAS:boiling teff beer]"
-msgstr ""
+msgstr "[STATE_NAME_ADJ:GAS:沸腾的苔麸啤酒]"
 
 #: plant_crops.txt:1264
 msgctxt "PLANT:TEFF"
 msgid "[STATE_NAME_ADJ:ALL_SOLID:teff flour]"
-msgstr ""
+msgstr "[STATE_NAME_ADJ:ALL_SOLID:苔麸粉]"
 
 #: plant_crops.txt:1280
 msgctxt "PLANT:TEFF"
 msgid "[SEED:teff:teff:]"
-msgstr ""
+msgstr "[SEED:苔麸:苔麸:]"
 
 #: plant_crops.txt:1283
 msgctxt "PLANT:TEFF"
 msgid "[PREFSTRING:grain]"
-msgstr ""
+msgstr "[PREFSTRING:谷物]"
 
 #: plant_crops.txt:1285
 msgctxt "PLANT:TEFF"
 msgid "[GROWTH_NAME:teff leaf:teff leaves]"
-msgstr ""
+msgstr "[GROWTH_NAME:苔麸叶:苔麸叶]"
 
 #: plant_crops.txt:1291
 msgctxt "PLANT:FLAX"
 msgid "[NAME:flax plant]"
-msgstr ""
+msgstr "[NAME:亚麻植株]"
 
 #: plant_crops.txt:1291
 msgctxt "PLANT:FLAX"
 msgid "[NAME_PLURAL:flax plants]"
-msgstr ""
+msgstr "[NAME_PLURAL:亚麻植株]"
 
 #: plant_crops.txt:1291
 msgctxt "PLANT:FLAX"
 msgid "[ADJ:flax plant]"
-msgstr ""
+msgstr "[ADJ:亚麻植株的]"
 
 #: plant_crops.txt:1299
 msgctxt "PLANT:FLAX"
 msgid "[STATE_NAME_ADJ:ALL_SOLID:frozen linseed oil]"
-msgstr ""
+msgstr "[STATE_NAME_ADJ:ALL_SOLID:冷冻的亚麻籽油]"
 
 #: plant_crops.txt:1300
 msgctxt "PLANT:FLAX"
 msgid "[STATE_NAME_ADJ:LIQUID:linseed oil]"
-msgstr ""
+msgstr "[STATE_NAME_ADJ:LIQUID:亚麻籽油]"
 
 #: plant_crops.txt:1301
 msgctxt "PLANT:FLAX"
 msgid "[STATE_NAME_ADJ:GAS:boiling linseed oil]"
-msgstr ""
+msgstr "[STATE_NAME_ADJ:GAS:沸腾的亚麻籽油]"
 
 #: plant_crops.txt:1306
 msgctxt "PLANT:FLAX"
 msgid "[STATE_NAME_ADJ:ALL_SOLID:linseed oil soap]"
-msgstr ""
+msgstr "[STATE_NAME_ADJ:ALL_SOLID:亚麻籽油皂]"
 
 #: plant_crops.txt:1307
 msgctxt "PLANT:FLAX"
 msgid "[STATE_NAME_ADJ:LIQUID:melted linseed oil soap]"
-msgstr ""
+msgstr "[STATE_NAME_ADJ:LIQUID:溶化的亚麻籽油皂]"
 
 #: plant_crops.txt:1308
 msgctxt "PLANT:FLAX"
@@ -45733,147 +45734,147 @@ msgstr ""
 #: plant_crops.txt:1312
 msgctxt "PLANT:FLAX"
 msgid "[STATE_NAME_ADJ:ALL_SOLID:flax flour]"
-msgstr ""
+msgstr "[STATE_NAME_ADJ:ALL_SOLID:亚麻粉]"
 
 #: plant_crops.txt:1328
 msgctxt "PLANT:FLAX"
 msgid "[STATE_NAME_ADJ:ALL_SOLID:flax seed]"
-msgstr ""
+msgstr "[STATE_NAME_ADJ:ALL_SOLID:亚麻籽]"
 
 #: plant_crops.txt:1329
 msgctxt "PLANT:FLAX"
 msgid "[STATE_NAME_ADJ:SOLID_PASTE:flax seed paste]"
-msgstr ""
+msgstr "[STATE_NAME_ADJ:SOLID_PASTE:亚麻籽浆糊]"
 
 #: plant_crops.txt:1330
 msgctxt "PLANT:FLAX"
 msgid "[STATE_NAME_ADJ:SOLID_PRESSED:flax seed press cake]"
-msgstr ""
+msgstr "[STATE_NAME_ADJ:SOLID_PRESSED:亚麻籽压榨饼]"
 
 #: plant_crops.txt:1339
 msgctxt "PLANT:FLAX"
 msgid "[SEED:flax seed:flax seeds:]"
-msgstr ""
+msgstr "[SEED:亚麻籽:亚麻籽:]"
 
 #: plant_crops.txt:1342
 msgctxt "PLANT:FLAX"
 msgid "[PREFSTRING:flowers]"
-msgstr ""
+msgstr "[PREFSTRING:花]"
 
 #: plant_crops.txt:1344
 msgctxt "PLANT:FLAX"
 msgid "[STATE_NAME_ADJ:SOLID:linen]"
-msgstr ""
+msgstr "[STATE_NAME_ADJ:SOLID:亚麻的]"
 
 #: plant_crops.txt:1345
 msgctxt "PLANT:FLAX"
 msgid "[STATE_NAME_ADJ:SOLID_PASTE:linen slurry]"
-msgstr ""
+msgstr "[STATE_NAME_ADJ:SOLID_PASTE:亚麻纸浆]"
 
 #: plant_crops.txt:1346
 msgctxt "PLANT:FLAX"
 msgid "[STATE_NAME_ADJ:SOLID_PRESSED:linen paper]"
-msgstr ""
+msgstr "[STATE_NAME_ADJ:SOLID_PRESSED:亚麻纸]"
 
 #: plant_crops.txt:1353
 msgctxt "PLANT:FLAX"
 msgid "[GROWTH_NAME:flax leaf:flax leaves]"
-msgstr ""
+msgstr "[GROWTH_NAME:亚麻叶:亚麻叶]"
 
 #: plant_crops.txt:1358
 msgctxt "PLANT:FLAX"
 msgid "[GROWTH_NAME:flax flower:STP]"
-msgstr ""
+msgstr "[GROWTH_NAME:亚麻花:STP]"
 
 #: plant_crops.txt:1365
 msgctxt "PLANT:JUTE"
 msgid "[NAME:jute plant]"
-msgstr ""
+msgstr "[NAME:黄麻植株]"
 
 #: plant_crops.txt:1365
 msgctxt "PLANT:JUTE"
 msgid "[NAME_PLURAL:jute plants]"
-msgstr ""
+msgstr "[NAME_PLURAL:黄麻植株]"
 
 #: plant_crops.txt:1365
 msgctxt "PLANT:JUTE"
 msgid "[ADJ:jute plant]"
-msgstr ""
+msgstr "[ADJ:黄麻植株的]"
 
 #: plant_crops.txt:1380
 msgctxt "PLANT:JUTE"
 msgid "[SEED:jute seed:jute seeds:]"
-msgstr ""
+msgstr "[SEED:黄麻种子:黄麻种子:]"
 
 #: plant_crops.txt:1383
 msgctxt "PLANT:JUTE"
 msgid "[PREFSTRING:fibrous stems]"
-msgstr ""
+msgstr "[PREFSTRING:纤维茎秆]"
 
 #: plant_crops.txt:1385
 msgctxt "PLANT:JUTE"
 msgid "[STATE_NAME_ADJ:SOLID:jute]"
-msgstr ""
+msgstr "[STATE_NAME_ADJ:SOLID:黄麻]"
 
 #: plant_crops.txt:1386
 msgctxt "PLANT:JUTE"
 msgid "[STATE_NAME_ADJ:SOLID_PASTE:jute slurry]"
-msgstr ""
+msgstr "[STATE_NAME_ADJ:SOLID_PASTE:黄麻纸浆]"
 
 #: plant_crops.txt:1387
 msgctxt "PLANT:JUTE"
 msgid "[STATE_NAME_ADJ:SOLID_PRESSED:jute paper]"
-msgstr ""
+msgstr "[STATE_NAME_ADJ:SOLID_PRESSED:黄麻纸]"
 
 #: plant_crops.txt:1394
 msgctxt "PLANT:JUTE"
 msgid "[GROWTH_NAME:jute leaf:jute leaves]"
-msgstr ""
+msgstr "[GROWTH_NAME:黄麻叶:黄麻叶]"
 
 #: plant_crops.txt:1399
 msgctxt "PLANT:JUTE"
 msgid "[GROWTH_NAME:jute flower:STP]"
-msgstr ""
+msgstr "[GROWTH_NAME:黄麻花:STP]"
 
 #: plant_crops.txt:1406
 msgctxt "PLANT:HEMP"
 msgid "[NAME:hemp plant]"
-msgstr ""
+msgstr "[NAME:大麻植株]"
 
 #: plant_crops.txt:1406
 msgctxt "PLANT:HEMP"
 msgid "[NAME_PLURAL:hemp plants]"
-msgstr ""
+msgstr "[NAME_PLURAL:大麻植株]"
 
 #: plant_crops.txt:1406
 msgctxt "PLANT:HEMP"
 msgid "[ADJ:hemp plant]"
-msgstr ""
+msgstr "[ADJ:大麻植株的]"
 
 #: plant_crops.txt:1414
 msgctxt "PLANT:HEMP"
 msgid "[STATE_NAME_ADJ:ALL_SOLID:frozen hempseed oil]"
-msgstr ""
+msgstr "[STATE_NAME_ADJ:ALL_SOLID:冷冻的大麻种子油]"
 
 #: plant_crops.txt:1415
 msgctxt "PLANT:HEMP"
 msgid "[STATE_NAME_ADJ:LIQUID:hempseed oil]"
-msgstr ""
+msgstr "[STATE_NAME_ADJ:LIQUID:大麻种子油]"
 
 #: plant_crops.txt:1416
 msgctxt "PLANT:HEMP"
 msgid "[STATE_NAME_ADJ:GAS:boiling hempseed oil]"
-msgstr ""
+msgstr "[STATE_NAME_ADJ:GAS:沸腾的大麻种子油]"
 
 #: plant_crops.txt:1421
 msgctxt "PLANT:HEMP"
 msgid "[STATE_NAME_ADJ:ALL_SOLID:hempseed oil soap]"
-msgstr ""
+msgstr "[STATE_NAME_ADJ:ALL_SOLID:大麻种子油皂]"
 
 #: plant_crops.txt:1422
 msgctxt "PLANT:HEMP"
 msgid "[STATE_NAME_ADJ:LIQUID:melted hempseed oil soap]"
-msgstr ""
+msgstr "[STATE_NAME_ADJ:LIQUID:溶化的大麻种子油皂]"
 
 #: plant_crops.txt:1423
 msgctxt "PLANT:HEMP"
@@ -45883,92 +45884,92 @@ msgstr ""
 #: plant_crops.txt:1427
 msgctxt "PLANT:HEMP"
 msgid "[STATE_NAME_ADJ:ALL_SOLID:hemp flour]"
-msgstr ""
+msgstr "[STATE_NAME_ADJ:ALL_SOLID:大麻粉]"
 
 #: plant_crops.txt:1440
 msgctxt "PLANT:HEMP"
 msgid "[STATE_NAME_ADJ:ALL_SOLID:hemp seed]"
-msgstr ""
+msgstr "[STATE_NAME_ADJ:ALL_SOLID:大麻种子]"
 
 #: plant_crops.txt:1441
 msgctxt "PLANT:HEMP"
 msgid "[STATE_NAME_ADJ:SOLID_PASTE:hemp seed paste]"
-msgstr ""
+msgstr "[STATE_NAME_ADJ:SOLID_PASTE:大麻种子浆糊]"
 
 #: plant_crops.txt:1442
 msgctxt "PLANT:HEMP"
 msgid "[STATE_NAME_ADJ:SOLID_PRESSED:hemp seed press cake]"
-msgstr ""
+msgstr "[STATE_NAME_ADJ:SOLID_PRESSED:大麻种子压榨饼]"
 
 #: plant_crops.txt:1451
 msgctxt "PLANT:HEMP"
 msgid "[SEED:hemp seed:hemp seeds:]"
-msgstr ""
+msgstr "[SEED:大麻种子:大麻种子:]"
 
 #: plant_crops.txt:1454
 msgctxt "PLANT:HEMP"
 msgid "[PREFSTRING:leaves]"
-msgstr ""
+msgstr "[PREFSTRING:叶]"
 
 #: plant_crops.txt:1456
 msgctxt "PLANT:HEMP"
 msgid "[STATE_NAME_ADJ:SOLID:hemp]"
-msgstr ""
+msgstr "[STATE_NAME_ADJ:SOLID:大麻]"
 
 #: plant_crops.txt:1457
 msgctxt "PLANT:HEMP"
 msgid "[STATE_NAME_ADJ:SOLID_PASTE:hemp slurry]"
-msgstr ""
+msgstr "[STATE_NAME_ADJ:SOLID_PASTE:大麻纸浆]"
 
 #: plant_crops.txt:1458
 msgctxt "PLANT:HEMP"
 msgid "[STATE_NAME_ADJ:SOLID_PRESSED:hemp paper]"
-msgstr ""
+msgstr "[STATE_NAME_ADJ:SOLID_PRESSED:大麻纸]"
 
 #: plant_crops.txt:1465
 msgctxt "PLANT:HEMP"
 msgid "[GROWTH_NAME:hemp leaf:hemp leaves]"
-msgstr ""
+msgstr "[GROWTH_NAME:大麻叶:大麻叶]"
 
 #: plant_crops.txt:1471
 msgctxt "PLANT:COTTON"
 msgid "[NAME:cotton plant]"
-msgstr ""
+msgstr "[NAME:棉花植株]"
 
 #: plant_crops.txt:1471
 msgctxt "PLANT:COTTON"
 msgid "[NAME_PLURAL:cotton plants]"
-msgstr ""
+msgstr "[NAME_PLURAL:棉花植株]"
 
 #: plant_crops.txt:1471
 msgctxt "PLANT:COTTON"
 msgid "[ADJ:cotton plant]"
-msgstr ""
+msgstr "[ADJ:棉花植株的]"
 
 #: plant_crops.txt:1480
 msgctxt "PLANT:COTTON"
 msgid "[STATE_NAME_ADJ:ALL_SOLID:frozen cottonseed oil]"
-msgstr ""
+msgstr "[STATE_NAME_ADJ:ALL_SOLID:冷冻的棉花种子油]"
 
 #: plant_crops.txt:1481
 msgctxt "PLANT:COTTON"
 msgid "[STATE_NAME_ADJ:LIQUID:cottonseed oil]"
-msgstr ""
+msgstr "[STATE_NAME_ADJ:LIQUID:棉花种子油]"
 
 #: plant_crops.txt:1482
 msgctxt "PLANT:COTTON"
 msgid "[STATE_NAME_ADJ:GAS:boiling cottonseed oil]"
-msgstr ""
+msgstr "[STATE_NAME_ADJ:GAS:沸腾的棉花种子油]"
 
 #: plant_crops.txt:1487
 msgctxt "PLANT:COTTON"
 msgid "[STATE_NAME_ADJ:ALL_SOLID:cottonseed oil soap]"
-msgstr ""
+msgstr "[STATE_NAME_ADJ:ALL_SOLID:棉花油皂]"
 
 #: plant_crops.txt:1488
 msgctxt "PLANT:COTTON"
 msgid "[STATE_NAME_ADJ:LIQUID:melted cottonseed oil soap]"
-msgstr ""
+msgstr "[STATE_NAME_ADJ:LIQUID:溶化的棉花种子油皂]"
 
 #: plant_crops.txt:1489
 msgctxt "PLANT:COTTON"
@@ -45978,137 +45979,137 @@ msgstr ""
 #: plant_crops.txt:1499
 msgctxt "PLANT:COTTON"
 msgid "[STATE_NAME_ADJ:ALL_SOLID:cotton seed]"
-msgstr ""
+msgstr "[STATE_NAME_ADJ:ALL_SOLID:棉花种子]"
 
 #: plant_crops.txt:1500
 msgctxt "PLANT:COTTON"
 msgid "[STATE_NAME_ADJ:SOLID_PASTE:cotton seed paste]"
-msgstr ""
+msgstr "[STATE_NAME_ADJ:SOLID_PASTE:棉花种子浆糊]"
 
 #: plant_crops.txt:1501
 msgctxt "PLANT:COTTON"
 msgid "[STATE_NAME_ADJ:SOLID_PRESSED:cotton seed press cake]"
-msgstr ""
+msgstr "[STATE_NAME_ADJ:SOLID_PRESSED:棉花种子压榨饼]"
 
 #: plant_crops.txt:1510
 msgctxt "PLANT:COTTON"
 msgid "[SEED:cotton seed:cotton seeds:]"
-msgstr ""
+msgstr "[SEED:棉花种子:棉花种子:]"
 
 #: plant_crops.txt:1513
 msgctxt "PLANT:COTTON"
 msgid "[PREFSTRING:flowers]"
-msgstr ""
+msgstr "[PREFSTRING:花]"
 
 #: plant_crops.txt:1515
 msgctxt "PLANT:COTTON"
 msgid "[STATE_NAME_ADJ:SOLID:cotton]"
-msgstr ""
+msgstr "[STATE_NAME_ADJ:SOLID:棉花]"
 
 #: plant_crops.txt:1516
 msgctxt "PLANT:COTTON"
 msgid "[STATE_NAME_ADJ:SOLID_PASTE:cotton slurry]"
-msgstr ""
+msgstr "[STATE_NAME_ADJ:SOLID_PASTE:棉花纸浆]"
 
 #: plant_crops.txt:1517
 msgctxt "PLANT:COTTON"
 msgid "[STATE_NAME_ADJ:SOLID_PRESSED:cotton paper]"
-msgstr ""
+msgstr "[STATE_NAME_ADJ:SOLID_PRESSED:棉花纸]"
 
 #: plant_crops.txt:1524
 msgctxt "PLANT:COTTON"
 msgid "[GROWTH_NAME:cotton leaf:cotton leaves]"
-msgstr ""
+msgstr "[GROWTH_NAME:棉花叶:棉花叶]"
 
 #: plant_crops.txt:1529
 msgctxt "PLANT:COTTON"
 msgid "[GROWTH_NAME:cotton flower:STP]"
-msgstr ""
+msgstr "[GROWTH_NAME:棉花花:STP]"
 
 #: plant_crops.txt:1536
 msgctxt "PLANT:RAMIE"
 msgid "[NAME:ramie plant]"
-msgstr ""
+msgstr "[NAME:苎麻植株]"
 
 #: plant_crops.txt:1536
 msgctxt "PLANT:RAMIE"
 msgid "[NAME_PLURAL:ramie plants]"
-msgstr ""
+msgstr "[NAME_PLURAL:苎麻植株]"
 
 #: plant_crops.txt:1536
 msgctxt "PLANT:RAMIE"
 msgid "[ADJ:ramie plant]"
-msgstr ""
+msgstr "[ADJ:苎麻植株的]"
 
 #: plant_crops.txt:1548
 msgctxt "PLANT:RAMIE"
 msgid "[SEED:ramie seed:ramie seeds:]"
-msgstr ""
+msgstr "[SEED:苎麻种子:苎麻种子:]"
 
 #: plant_crops.txt:1551
 msgctxt "PLANT:RAMIE"
 msgid "[PREFSTRING:useful stems]"
-msgstr ""
+msgstr "[PREFSTRING:有用的茎秆]"
 
 #: plant_crops.txt:1553
 msgctxt "PLANT:RAMIE"
 msgid "[STATE_NAME_ADJ:SOLID:ramie]"
-msgstr ""
+msgstr "[STATE_NAME_ADJ:SOLID:苎麻]"
 
 #: plant_crops.txt:1554
 msgctxt "PLANT:RAMIE"
 msgid "[STATE_NAME_ADJ:SOLID_PASTE:ramie slurry]"
-msgstr ""
+msgstr "[STATE_NAME_ADJ:SOLID_PASTE:苎麻纸浆]"
 
 #: plant_crops.txt:1555
 msgctxt "PLANT:RAMIE"
 msgid "[STATE_NAME_ADJ:SOLID_PRESSED:ramie paper]"
-msgstr ""
+msgstr "[STATE_NAME_ADJ:SOLID_PRESSED:苎麻纸]"
 
 #: plant_crops.txt:1562
 msgctxt "PLANT:RAMIE"
 msgid "[GROWTH_NAME:ramie leaf:ramie leaves]"
-msgstr ""
+msgstr "[GROWTH_NAME:苎麻叶:苎麻叶]"
 
 #: plant_crops.txt:1568
 msgctxt "PLANT:KENAF"
 msgid "[NAME:kenaf plant]"
-msgstr ""
+msgstr "[NAME:洋麻植株]"
 
 #: plant_crops.txt:1568
 msgctxt "PLANT:KENAF"
 msgid "[NAME_PLURAL:kenaf plants]"
-msgstr ""
+msgstr "[NAME_PLURAL:洋麻植株]"
 
 #: plant_crops.txt:1568
 msgctxt "PLANT:KENAF"
 msgid "[ADJ:kenaf plant]"
-msgstr ""
+msgstr "[ADJ:洋麻植株的]"
 
 #: plant_crops.txt:1577
 msgctxt "PLANT:KENAF"
 msgid "[STATE_NAME_ADJ:ALL_SOLID:frozen kenaf seed oil]"
-msgstr ""
+msgstr "[STATE_NAME_ADJ:ALL_SOLID:冷冻的洋麻种子油]"
 
 #: plant_crops.txt:1578
 msgctxt "PLANT:KENAF"
 msgid "[STATE_NAME_ADJ:LIQUID:kenaf seed oil]"
-msgstr ""
+msgstr "[STATE_NAME_ADJ:LIQUID:洋麻种子油]"
 
 #: plant_crops.txt:1579
 msgctxt "PLANT:KENAF"
 msgid "[STATE_NAME_ADJ:GAS:boiling kenaf seed oil]"
-msgstr ""
+msgstr "[STATE_NAME_ADJ:GAS:沸腾的洋麻种子油]"
 
 #: plant_crops.txt:1584
 msgctxt "PLANT:KENAF"
 msgid "[STATE_NAME_ADJ:ALL_SOLID:kenaf seed oil soap]"
-msgstr ""
+msgstr "[STATE_NAME_ADJ:ALL_SOLID:洋麻种子油皂]"
 
 #: plant_crops.txt:1585
 msgctxt "PLANT:KENAF"
 msgid "[STATE_NAME_ADJ:LIQUID:melted kenaf seed oil soap]"
-msgstr ""
+msgstr "[STATE_NAME_ADJ:LIQUID:溶化的洋麻种子油皂]"
 
 #: plant_crops.txt:1586
 msgctxt "PLANT:KENAF"
@@ -46118,52 +46119,52 @@ msgstr ""
 #: plant_crops.txt:1596
 msgctxt "PLANT:KENAF"
 msgid "[STATE_NAME_ADJ:ALL_SOLID:kenaf seed]"
-msgstr ""
+msgstr "[STATE_NAME_ADJ:ALL_SOLID:洋麻种子]"
 
 #: plant_crops.txt:1597
 msgctxt "PLANT:KENAF"
 msgid "[STATE_NAME_ADJ:SOLID_PASTE:kenaf seed paste]"
-msgstr ""
+msgstr "[STATE_NAME_ADJ:SOLID_PASTE:洋麻种子浆糊]"
 
 #: plant_crops.txt:1598
 msgctxt "PLANT:KENAF"
 msgid "[STATE_NAME_ADJ:SOLID_PRESSED:kenaf seed press cake]"
-msgstr ""
+msgstr "[STATE_NAME_ADJ:SOLID_PRESSED:洋麻种子压榨饼]"
 
 #: plant_crops.txt:1607
 msgctxt "PLANT:KENAF"
 msgid "[SEED:kenaf seed:kenaf seeds:]"
-msgstr ""
+msgstr "[SEED:洋麻种子:洋麻种子:]"
 
 #: plant_crops.txt:1610
 msgctxt "PLANT:KENAF"
 msgid "[PREFSTRING:flowers]"
-msgstr ""
+msgstr "[PREFSTRING:花]"
 
 #: plant_crops.txt:1612
 msgctxt "PLANT:KENAF"
 msgid "[STATE_NAME_ADJ:SOLID:kenaf]"
-msgstr ""
+msgstr "[STATE_NAME_ADJ:SOLID:洋麻]"
 
 #: plant_crops.txt:1613
 msgctxt "PLANT:KENAF"
 msgid "[STATE_NAME_ADJ:SOLID_PASTE:kenaf slurry]"
-msgstr ""
+msgstr "[STATE_NAME_ADJ:SOLID_PASTE:洋麻纸浆]"
 
 #: plant_crops.txt:1614
 msgctxt "PLANT:KENAF"
 msgid "[STATE_NAME_ADJ:SOLID_PRESSED:kenaf paper]"
-msgstr ""
+msgstr "[STATE_NAME_ADJ:SOLID_PRESSED:洋麻纸]"
 
 #: plant_crops.txt:1621
 msgctxt "PLANT:KENAF"
 msgid "[GROWTH_NAME:kenaf leaf:kenaf leaves]"
-msgstr ""
+msgstr "[GROWTH_NAME:洋麻叶:洋麻叶]"
 
 #: plant_crops.txt:1626
 msgctxt "PLANT:KENAF"
 msgid "[GROWTH_NAME:kenaf flower:STP]"
-msgstr ""
+msgstr "[GROWTH_NAME:洋麻花:STP]"
 
 #: plant_crops.txt:1633
 msgctxt "PLANT:PAPYRUS_SEDGE"
@@ -47098,7 +47099,7 @@ msgstr "[SEED:扁豆:扁豆:]"
 #: plant_garden.txt:963
 msgctxt "PLANT:LENTIL"
 msgid "[PREFSTRING:lens-shaped seeds]"
-msgstr ""
+msgstr "[PREFSTRING:透镜状种子]"
 
 #: plant_garden.txt:965
 msgctxt "PLANT:LENTIL"
