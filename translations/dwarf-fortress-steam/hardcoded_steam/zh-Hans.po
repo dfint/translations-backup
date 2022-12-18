@@ -48,8 +48,6 @@
 # Yuliang Cai, 2022
 # k Auro, 2022
 # DD KL, 2022
-# 许威 <1975428296@qq.com>, 2022
-# 奥里给大菠萝, 2022
 # Tiger Jing, 2022
 # Paipai Chen, 2022
 # 橓 新, 2022
@@ -65,19 +63,23 @@
 # jj z, 2022
 # 程愉钦, 2022
 # Kerry H, 2022
-# H_Hedgehog, 2022
 # 嘉杰 李, 2022
-# 墨漓 Mori, 2022
 # Kagamine_Lily, 2022
 # 2 K, 2022
 # cc cc, 2022
 # Dongchen Gao, 2022
-# 铭齐 梁, 2022
 # whfnet <whfnet@gmail.com>, 2022
+# 墨漓 Mori, 2022
+# H_Hedgehog, 2022
+# 许威 <1975428296@qq.com>, 2022
+# 铭齐 梁, 2022
+# 姜伯约, 2022
+# 奥里给大菠萝, 2022
+# w ylds (白), 2022
 # 
 msgid ""
 msgstr ""
-"Last-Translator: whfnet <whfnet@gmail.com>, 2022\n"
+"Last-Translator: w ylds (白), 2022\n"
 "Language-Team: Chinese Simplified (https://www.transifex.com/dwarf-fortress-translation/teams/22396/zh-Hans/)\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -194,7 +196,7 @@ msgstr "复制"
 
 #: stringdump_steam_2022_12_06.txt:79
 msgid "Go to Combat Training"
-msgstr "去进行战斗训练"
+msgstr "进行战斗训练"
 
 #: stringdump_steam_2022_12_06.txt:80
 msgid "Pray to "
@@ -290,7 +292,7 @@ msgstr "艺术品"
 
 #: stringdump_steam_2022_12_06.txt:103
 msgid "Stoicism"
-msgstr "斯多葛派"
+msgstr "恬淡寡欲"
 
 #: stringdump_steam_2022_12_06.txt:104
 msgid "Independence"
@@ -390,7 +392,7 @@ msgstr "模拟"
 
 #: stringdump_steam_2022_12_06.txt:128
 msgid "Listen to Poetry"
-msgstr "听诗歌"
+msgstr "聆听诗歌"
 
 #: stringdump_steam_2022_12_06.txt:129
 msgid "Sing"
@@ -402,11 +404,11 @@ msgstr "弹奏"
 
 #: stringdump_steam_2022_12_06.txt:131
 msgid "Perform Music"
-msgstr "表演音乐"
+msgstr "演奏音乐"
 
 #: stringdump_steam_2022_12_06.txt:132
 msgid "Chant"
-msgstr "号子"
+msgstr "呼号"
 
 #: stringdump_steam_2022_12_06.txt:133
 msgid "Perform Dance"
@@ -422,7 +424,7 @@ msgstr "去"
 
 #: stringdump_steam_2022_12_06.txt:136
 msgid "Watch Dance"
-msgstr "观看舞蹈"
+msgstr "观赏舞蹈"
 
 #: stringdump_steam_2022_12_06.txt:137
 msgid "Organize "
@@ -8898,6 +8900,7 @@ msgid ""
 "[C:6:0:0]Stops[C:7:0:0] with various friction settings, or a worker to guide"
 " the vehicle."
 msgstr ""
+"当一条路线有一个急剧的下降，可以考虑使用电动的[C:6:0:0]滚动辊[C:7:0:0]、额外的曲线、在[C:6:0:0]站[C:7:0:0]之间的轨道“站点”加上各种摩擦力设置，或者使用一个工人来引导车辆。"
 
 #: stringdump_steam_2022_12_06.txt:2219
 msgid ""
@@ -8909,7 +8912,7 @@ msgstr "[C:6:0:1]矿车[C:7:0:0]在转弯处移动太快时会把矿车里的东
 msgid ""
 "Only one condition needs to be satisfied for the [C:6:0:1]Minecart[C:7:0:0] "
 "to move to the next [C:6:0:0]Track Stop[C:7:0:0]."
-msgstr ""
+msgstr "只需要满足一个条件 [C:6:0:1]矿车[C:7:0:0] 移动到下一个 [C:6:0:0]轨道：停靠站[C:7:0:0]."
 
 #: stringdump_steam_2022_12_06.txt:2221
 msgid "Burrows"
@@ -8921,6 +8924,7 @@ msgid ""
 "the rooms with [C:6:0:0]Doors[C:7:0:0] or vertical entries separating each "
 "room before you begin."
 msgstr ""
+"只要确保你拿对了 [C:6:0:0]家具[C:7:0:0] 在房间里放置 [C:6:0:0]门[C:7:0:0] 或者在你开始之前用垂直入口分隔房间"
 
 #: stringdump_steam_2022_12_06.txt:2223
 msgid ""
@@ -8993,7 +8997,7 @@ msgstr ""
 msgid ""
 "Once they are assigned, you can create work orders, run a "
 "[C:1:0:1]Hospital[C:7:0:0], and count and appraise your hoard."
-msgstr ""
+msgstr "一旦他们被分配，你可以创建工作指令，去运作一所 [C:1:0:1]医院[C:7:0:0], 同时为你的贮藏进行估量和统计。"
 
 #: stringdump_steam_2022_12_06.txt:2235
 msgid ""
@@ -9112,6 +9116,8 @@ msgid ""
 " or [C:5:0:0]Captain of the Guard[C:7:0:0], witnesses of crimes will make "
 "reports, which find their way here. "
 msgstr ""
+"如果你有一个执法部门的管理人员像是一个 [C:5:0:0]警长[C:7:0:0] 或者 [C:5:0:0]警卫队队长 [C:7:0:0], "
+"犯罪目击者会将报道传到这里。"
 
 #: stringdump_steam_2022_12_06.txt:2256
 msgid "Justice"
@@ -9123,6 +9129,8 @@ msgid ""
 "[C:6:0:0]Chains[C:7:0:0] and assign them to a [C:3:0:0]Dungeon[C:7:0:0] "
 "zone. "
 msgstr ""
+"建议放置一定数量的 [C:6:0:0]笼子[C:7:0:0] 和 [C:6:0:0]锁链[C:7:0:0] 并将它们分配到 "
+"[C:3:0:0]地牢[C:7:0:0] 区域。"
 
 #: stringdump_steam_2022_12_06.txt:2258
 msgid ""
@@ -9142,7 +9150,7 @@ msgstr "每个案件都提供了所有可用的证人信息。"
 msgid ""
 "If you find that your stockpiles are filling up too fast, you can create "
 "room by building [C:6:0:1]Bins[C:7:0:0], "
-msgstr ""
+msgstr "如果你发现你的储物堆满的太快，为了腾出空间你可以建造 一些[C:6:0:1]箱子[C:7:0:0], "
 
 #: stringdump_steam_2022_12_06.txt:2262
 msgid ""
@@ -9154,11 +9162,11 @@ msgstr "该系统相当强大，如果你愿意，你最终可以自动化几乎
 msgid ""
 "You can also create work orders at specific [C:6:0:0]Workshops[C:7:0:0] from"
 " their building sheet. "
-msgstr ""
+msgstr "你也可以在特定的[C:工坊中，通过它们的[C:建造表来创造工作清单。"
 
 #: stringdump_steam_2022_12_06.txt:2264
 msgid "You can limit work orders to a number of [C:6:0:0]Workshops[C:7:0:0]. "
-msgstr ""
+msgstr "你可以将工作清单限制在一定数量的[C:6:0:0]工坊[C:7:0:0]中。"
 
 #: stringdump_steam_2022_12_06.txt:2265
 msgid ""
@@ -34417,7 +34425,7 @@ msgstr "我对负责人喊道。"
 
 #: stringdump_steam_2022_12_06.txt:8717
 msgid "I was yelled at by an unhappy worshipper."
-msgstr "我被一个不高兴礼拜者大吼大叫了。"
+msgstr "我被一个不高兴崇拜者大吼大叫了。"
 
 #: stringdump_steam_2022_12_06.txt:8718
 msgid "I told somebody that I am being prevented from leaving."
@@ -34429,7 +34437,7 @@ msgstr "我被一个不快乐的公民大吼大叫。"
 
 #: stringdump_steam_2022_12_06.txt:8720
 msgid "I was cried on by an unhappy worshipper."
-msgstr "我被一个不高兴的礼拜者弄哭了。"
+msgstr "我被一个不高兴的崇拜者弄哭了。"
 
 #: stringdump_steam_2022_12_06.txt:8721
 msgid "A visitor complained about being prevented from leaving."
@@ -69463,15 +69471,15 @@ msgstr "讨论"
 
 #: stringdump_steam_2022_12_06.txt:24301
 msgid "being unable to advance the study of "
-msgstr ""
+msgstr "无法推进研究"
 
 #: stringdump_steam_2022_12_06.txt:24302
 msgid "giving birth to "
-msgstr ""
+msgstr "生下"
 
 #: stringdump_steam_2022_12_06.txt:24303
 msgid "pondering "
-msgstr ""
+msgstr "琢磨"
 
 #: stringdump_steam_2022_12_06.txt:24304
 msgid "an awful bedroom"
@@ -69539,7 +69547,7 @@ msgstr "睡在草地上"
 
 #: stringdump_steam_2022_12_06.txt:24320
 msgid "forced to drink ichorous water"
-msgstr ""
+msgstr "被迫喝下腐坏的水"
 
 #: stringdump_steam_2022_12_06.txt:24321
 msgid "forced to drink gooey water"
@@ -69587,7 +69595,7 @@ msgstr "私人宫殿般的卧室"
 
 #: stringdump_steam_2022_12_06.txt:24332
 msgid "having a drink without using a goblet, cup or mug"
-msgstr ""
+msgstr "不使用高脚杯、杯子或马克杯喝水"
 
 #: stringdump_steam_2022_12_06.txt:24333
 msgid "drinking something spoiled"
@@ -69643,7 +69651,7 @@ msgstr "被袭击"
 
 #: stringdump_steam_2022_12_06.txt:24346
 msgid " own dead "
-msgstr ""
+msgstr "自己死亡"
 
 #: stringdump_steam_2022_12_06.txt:24347
 msgid "being attacked by "
@@ -69671,7 +69679,7 @@ msgstr "和朋友聊天"
 
 #: stringdump_steam_2022_12_06.txt:24353
 msgid "visiting with an animal training partner"
-msgstr ""
+msgstr "拜访动物训练伙伴"
 
 #: stringdump_steam_2022_12_06.txt:24354
 msgid "forced to talk to somebody annoying"
@@ -69679,7 +69687,7 @@ msgstr "被迫与某人讨厌"
 
 #: stringdump_steam_2022_12_06.txt:24355
 msgid "talking with an acquaintance"
-msgstr ""
+msgstr "与熟人交谈"
 
 #: stringdump_steam_2022_12_06.txt:24356
 msgid "talking with mother"
@@ -69687,7 +69695,7 @@ msgstr "和妈妈说话"
 
 #: stringdump_steam_2022_12_06.txt:24357
 msgid "talking with a sibling"
-msgstr ""
+msgstr "与兄弟姐妹交谈"
 
 #: stringdump_steam_2022_12_06.txt:24358
 msgid "talking with a child"
@@ -69767,7 +69775,7 @@ msgstr "和宠物一起旅行"
 
 #: stringdump_steam_2022_12_06.txt:24377
 msgid "discussing somebody's problems"
-msgstr ""
+msgstr "谈论某人的问题"
 
 #: stringdump_steam_2022_12_06.txt:24378
 msgid "talking with a lover"
@@ -69775,35 +69783,35 @@ msgstr "与恋人交谈"
 
 #: stringdump_steam_2022_12_06.txt:24379
 msgid "talking with the spouse"
-msgstr ""
+msgstr "与配偶交谈"
 
 #: stringdump_steam_2022_12_06.txt:24380
 msgid "discussing a child's problems"
-msgstr ""
+msgstr "讨论孩子的问题"
 
 #: stringdump_steam_2022_12_06.txt:24381
 msgid "discussing father's problems"
-msgstr ""
+msgstr "讨论父亲的问题"
 
 #: stringdump_steam_2022_12_06.txt:24382
 msgid "discussing an acquaintance's problems"
-msgstr ""
+msgstr "讨论熟人的问题"
 
 #: stringdump_steam_2022_12_06.txt:24383
 msgid "discussing a friend's problems"
-msgstr ""
+msgstr "讨论朋友的问题"
 
 #: stringdump_steam_2022_12_06.txt:24384
 msgid "sharing one of the spouse's personal insight"
-msgstr ""
+msgstr "分享配偶的一个个人见解"
 
 #: stringdump_steam_2022_12_06.txt:24385
 msgid "sharing a personal insight with somebody"
-msgstr ""
+msgstr "分享某人的一个个人见解"
 
 #: stringdump_steam_2022_12_06.txt:24386
 msgid "sharing a sibling's personal insight"
-msgstr ""
+msgstr "分享兄弟姐妹的个人见解"
 
 #: stringdump_steam_2022_12_06.txt:24387
 msgid "sharing a lover's personal insight"
@@ -69811,55 +69819,55 @@ msgstr "分享恋人的个人见解"
 
 #: stringdump_steam_2022_12_06.txt:24388
 msgid "sharing a personal insight with a child"
-msgstr ""
+msgstr "与孩子分享个人见解"
 
 #: stringdump_steam_2022_12_06.txt:24389
 msgid "sharing a personal insight with father"
-msgstr ""
+msgstr "与父亲分享个人见解"
 
 #: stringdump_steam_2022_12_06.txt:24390
 msgid "sharing a personal insight with an acquaintance"
-msgstr ""
+msgstr "与熟人分享个人见解"
 
 #: stringdump_steam_2022_12_06.txt:24391
 msgid "sharing a personal insight with a friend"
-msgstr ""
+msgstr "与朋友分享个人见解"
 
 #: stringdump_steam_2022_12_06.txt:24392
 msgid "sharing somebody's personal insight"
-msgstr ""
+msgstr "分享某人的个人洞察力"
 
 #: stringdump_steam_2022_12_06.txt:24393
 msgid "sharing an acquaintance's personal insight"
-msgstr ""
+msgstr "分享熟人的个人洞察力"
 
 #: stringdump_steam_2022_12_06.txt:24394
 msgid "the spouse"
-msgstr ""
+msgstr "配偶"
 
 #: stringdump_steam_2022_12_06.txt:24395
 msgid " problems with "
-msgstr ""
+msgstr "问题"
 
 #: stringdump_steam_2022_12_06.txt:24396
 msgid "sharing one of father's personal insight"
-msgstr ""
+msgstr "分享一个父亲的个人洞察力"
 
 #: stringdump_steam_2022_12_06.txt:24397
 msgid "sharing one of mother's personal insight"
-msgstr ""
+msgstr "分享一个母亲的个人洞察力"
 
 #: stringdump_steam_2022_12_06.txt:24398
 msgid "sharing a friend's personal insight"
-msgstr ""
+msgstr "分享朋友的个人洞察力"
 
 #: stringdump_steam_2022_12_06.txt:24399
 msgid "sharing a child's personal insight"
-msgstr ""
+msgstr "分享孩子的个人洞察力"
 
 #: stringdump_steam_2022_12_06.txt:24400
 msgid "having an intellectual discussion with a sibling"
-msgstr ""
+msgstr "与兄弟姐妹进行智力讨论"
 
 #: stringdump_steam_2022_12_06.txt:24401
 msgid "having an intellectual discussion with a lover"
@@ -69867,15 +69875,15 @@ msgstr "与恋人进行思想交流"
 
 #: stringdump_steam_2022_12_06.txt:24402
 msgid "having an intellectual discussion with father"
-msgstr ""
+msgstr "与父亲进行智力讨论"
 
 #: stringdump_steam_2022_12_06.txt:24403
 msgid "having an intellectual discussion with mother"
-msgstr ""
+msgstr "与母亲进行智力讨论"
 
 #: stringdump_steam_2022_12_06.txt:24404
 msgid "receiving food"
-msgstr ""
+msgstr "接收食物"
 
 #: stringdump_steam_2022_12_06.txt:24405
 msgid "giving somebody water"
@@ -69883,7 +69891,7 @@ msgstr "给某人喝水"
 
 #: stringdump_steam_2022_12_06.txt:24406
 msgid "having an intellectual discussion with the spouse"
-msgstr ""
+msgstr "与配偶进行智力讨论"
 
 #: stringdump_steam_2022_12_06.txt:24407
 msgid "giving somebody food"
@@ -69895,91 +69903,91 @@ msgstr "与恋人分享个人感悟"
 
 #: stringdump_steam_2022_12_06.txt:24409
 msgid "sharing a personal insight with the spouse"
-msgstr ""
+msgstr "与配偶分享个人洞察力"
 
 #: stringdump_steam_2022_12_06.txt:24410
 msgid "sharing a personal insight with mother"
-msgstr ""
+msgstr "与母亲分享个人感悟"
 
 #: stringdump_steam_2022_12_06.txt:24411
 msgid "sharing a personal insight with a sibling"
-msgstr ""
+msgstr "与兄弟姐妹分享个人感悟"
 
 #: stringdump_steam_2022_12_06.txt:24412
 msgid "having an intellectual discussion with a friend"
-msgstr ""
+msgstr "与朋友进行智力讨论"
 
 #: stringdump_steam_2022_12_06.txt:24413
 msgid "having an intellectual discussion with a child"
-msgstr ""
+msgstr "与孩子进行智力讨论"
 
 #: stringdump_steam_2022_12_06.txt:24414
 msgid "having an intellectual discussion with somebody"
-msgstr ""
+msgstr "与某人进行智力讨论"
 
 #: stringdump_steam_2022_12_06.txt:24415
 msgid "having an intellectual discussion with an acquaintance"
-msgstr ""
+msgstr "与熟人进行智力讨论"
 
 #: stringdump_steam_2022_12_06.txt:24416
 msgid "a lack of decent meals for too long"
-msgstr ""
+msgstr "太长时间没有像样的饭菜"
 
 #: stringdump_steam_2022_12_06.txt:24417
 msgid "being unable to acquire something for too long"
-msgstr ""
+msgstr "太久无法获得某物"
 
 #: stringdump_steam_2022_12_06.txt:24418
 msgid "a lack of trouble-making for too long"
-msgstr ""
+msgstr "太久没有制造麻烦"
 
 #: stringdump_steam_2022_12_06.txt:24419
 msgid "being unable to fight for too long"
-msgstr ""
+msgstr "无法战斗太久"
 
 #: stringdump_steam_2022_12_06.txt:24420
 msgid "being unable to make romance for so long"
-msgstr ""
+msgstr "太久没有制造浪漫"
 
 #: stringdump_steam_2022_12_06.txt:24421
 msgid "being unable to take it easy for so long"
-msgstr ""
+msgstr "长久起来无法轻松应对"
 
 #: stringdump_steam_2022_12_06.txt:24422
 msgid "being away from great beasts for so long"
-msgstr ""
+msgstr "长时间远离野兽"
 
 #: stringdump_steam_2022_12_06.txt:24423
 msgid "being away from animals for so long"
-msgstr ""
+msgstr "长时间远离动物"
 
 #: stringdump_steam_2022_12_06.txt:24424
 msgid "performing the rites of "
-msgstr ""
+msgstr "举行仪式"
 
 #: stringdump_steam_2022_12_06.txt:24425
 msgid "a lack of abstract thinking for too long"
-msgstr ""
+msgstr "长期缺乏抽象思维"
 
 #: stringdump_steam_2022_12_06.txt:24426
 msgid "communing with "
-msgstr ""
+msgstr "沟通了"
 
 #: stringdump_steam_2022_12_06.txt:24427
 msgid "incompletely performing the rites of "
-msgstr ""
+msgstr "不完整的执行仪式"
 
 #: stringdump_steam_2022_12_06.txt:24428
 msgid "being unable to be extravagant for so long"
-msgstr ""
+msgstr "不能长时间穷奢极侈"
 
 #: stringdump_steam_2022_12_06.txt:24429
 msgid "being unable to argue for too long"
-msgstr ""
+msgstr "不能长时间争辩"
 
 #: stringdump_steam_2022_12_06.txt:24430
 msgid "being unable to help anybody for too long"
-msgstr ""
+msgstr "长时间不能帮助任何人"
 
 #: stringdump_steam_2022_12_06.txt:24431
 msgid "being unable to wander for too long"
@@ -85809,7 +85817,7 @@ msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:30229
 msgid "Reclaim!"
-msgstr ""
+msgstr "收复！"
 
 #: stringdump_steam_2022_12_06.txt:30230
 msgid "Population: "
@@ -85857,7 +85865,7 @@ msgstr "开始"
 
 #: stringdump_steam_2022_12_06.txt:30241
 msgid "Unretire "
-msgstr ""
+msgstr "不退休"
 
 #: stringdump_steam_2022_12_06.txt:30242
 msgid "Reclaim "
@@ -86784,7 +86792,7 @@ msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:30481
 msgid "always stutters when "
-msgstr ""
+msgstr "总是结巴"
 
 #: stringdump_steam_2022_12_06.txt:30482
 msgid "skips over to others when "
@@ -91053,7 +91061,7 @@ msgstr "营地命令失去父级--单位将永久驻扎"
 
 #: stringdump_steam_2022_12_06.txt:37548
 msgid " is brawling under the influence!"
-msgstr "喝醉以后爱吵架！"
+msgstr "正在醉酒后打斗！"
 
 #: stringdump_steam_2022_12_06.txt:37549
 msgid " is stumbling around obliviously!"

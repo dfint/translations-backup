@@ -3,12 +3,12 @@
 # insolor, 2022
 # Ace The Brave <acethebrave@gmail.com>, 2022
 # Francesco Passoni, 2022
+# Dario "Crongdyne" Landucci, 2022
 # Luca_PolyZen_, 2022
-# Dario Landucci, 2022
 # 
 msgid ""
 msgstr ""
-"Last-Translator: Dario Landucci, 2022\n"
+"Last-Translator: Luca_PolyZen_, 2022\n"
 "Language-Team: Italian (https://www.transifex.com/dwarf-fortress-translation/teams/22396/it/)\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -17,7 +17,7 @@ msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:52
 msgid "Training Session"
-msgstr "Sessione di allenamento"
+msgstr "Sessione di addestramento"
 
 #: stringdump_steam_2022_12_06.txt:53
 msgid "Activity"
@@ -33,7 +33,7 @@ msgstr "Attività evento"
 
 #: stringdump_steam_2022_12_06.txt:56
 msgid "Worship"
-msgstr "Prega"
+msgstr "Culto"
 
 #: stringdump_steam_2022_12_06.txt:57
 msgid "Play"
@@ -1553,11 +1553,11 @@ msgstr "è in visita."
 
 #: stringdump_steam_2022_12_06.txt:437
 msgid ", the performance troupe, has arrived."
-msgstr ", la compagnia di artisti è arrivata."
+msgstr ", la troupe artistica è arrivata."
 
 #: stringdump_steam_2022_12_06.txt:438
 msgid ", a performance troupe, is visiting."
-msgstr ", una compagnia di artisti sta facendo visita."
+msgstr ", una troupe artistica sta facendo visita."
 
 #: stringdump_steam_2022_12_06.txt:439
 msgid " has returned."
@@ -4014,7 +4014,7 @@ msgstr "Emarginato"
 
 #: stringdump_steam_2022_12_06.txt:1067
 msgid "Performance troupe"
-msgstr "Compagnia di spettacolo"
+msgstr "Troupe artistica"
 
 #: stringdump_steam_2022_12_06.txt:1068
 msgid "Famous her"
@@ -4939,7 +4939,7 @@ msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:1298
 msgid "   * Requires wild colony or"
-msgstr ""
+msgstr "   * Richiede una colonia selvatica o"
 
 #: stringdump_steam_2022_12_06.txt:1299
 msgid "   * Existing hive"
@@ -5315,7 +5315,7 @@ msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:1392
 msgid "(Cavern soil"
-msgstr ""
+msgstr "(Suolo di caverna"
 
 #: stringdump_steam_2022_12_06.txt:1393
 msgid "every season"
@@ -7208,7 +7208,7 @@ msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:1884
 msgid "Popup: Burrows"
-msgstr ""
+msgstr "Popup: Rifugi"
 
 #: stringdump_steam_2022_12_06.txt:1885
 msgid "Popup: Zones"
@@ -7308,7 +7308,7 @@ msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:1909
 msgid "Popup: The world"
-msgstr ""
+msgstr "Popup: Il mondo"
 
 #: stringdump_steam_2022_12_06.txt:1910
 msgid "Popup: Squads"
@@ -8372,6 +8372,8 @@ msgid ""
 "In order to keep your citizens alive in the unforgiving wilderness they will"
 " need shelter, drink, and food."
 msgstr ""
+"Per mantenere in vita i tuoi cittadini nelle terre selvagge e spietate, "
+"avranno bisogno di riparo, bevande e cibo."
 
 #: stringdump_steam_2022_12_06.txt:2135
 msgid "Click it now, and this tutorial will be concluded."
@@ -8388,6 +8390,8 @@ msgid ""
 "Later you may try the [C:5:0:1]Burrows[C:7:0:0] menu to create a safe place "
 "for your civilians to hide when real trouble comes."
 msgstr ""
+"In seguito puoi provare il menù [C:5:0:1]Rifugi[C:7:0:0] per creare un luogo"
+" sicuro in cui i civili possano nascondersi quando arrivano i veri problemi."
 
 #: stringdump_steam_2022_12_06.txt:2138
 msgid ""
@@ -8517,13 +8521,16 @@ msgstr "Taglialegna"
 
 #: stringdump_steam_2022_12_06.txt:2165
 msgid "The highest mountain elevations do not have soil. "
-msgstr ""
+msgstr "Le elevazioni più alte della montagna non hanno terreno. "
 
 #: stringdump_steam_2022_12_06.txt:2166
 msgid ""
 "The underground rectangle must be near the surface, where there is soil "
 "(loam, clay, or sand.) One level down should suffice, before you hit rock. "
 msgstr ""
+"Il rettangolo sotterraneo deve trovarsi vicino alla superficie, dove c'è del"
+" terreno (terriccio, argilla o sabbia). Un livello inferiore dovrebbe "
+"bastare prima di colpire la roccia. "
 
 #: stringdump_steam_2022_12_06.txt:2167
 msgid ""
@@ -8547,24 +8554,34 @@ msgid ""
 "[C:5:0:1]Farmplot[C:7:0:0].  Place the [C:6:0:0]Farmplot[C:7:0:0] on the "
 "subterranean soil."
 msgstr ""
+"Seleziona [C:5:0:1]Terreno agricolo[C:7:0:0] dal menù "
+"[C:5:0:1]Costruisci[C:7:0:0].  Si trova in [C:5:0:1]Laboratori[C:7:0:0] -> "
+"[C:5:0:1]Agricoltura[C:7:0:0] -> [C:5:0:1]Terreno agricolo[C:7:0:0].  Piazza"
+" il [C:6:0:0]Terreno agricolo[C:7:0:0] sul terreno sotterraneo."
 
 #: stringdump_steam_2022_12_06.txt:2170
 msgid ""
 "This isn't rich soil, but will suffice for now.  Dig deeper to find better "
 "soil. "
 msgstr ""
+"Non è un terreno ricco, ma per ora è sufficiente. Scava più a fondo per "
+"trovare un terreno migliore."
 
 #: stringdump_steam_2022_12_06.txt:2171
 msgid ""
 "With a subterranean soil floor exposed, you can place an underground "
 "[C:6:0:0]Farmplot[C:7:0:0]. "
 msgstr ""
+"Con un pavimento sotterraneo esposto è possibile posizionare un "
+"[C:6:0:0]Terreno agricolo[C:7:0:0]."
 
 #: stringdump_steam_2022_12_06.txt:2172
 msgid ""
 "Make sure to leave the ceiling above intact so the underground soil doesn't "
 "receive any sunlight."
 msgstr ""
+"Assicurati di lasciare intatto il soffitto sovrastante in modo che il "
+"terreno sotterraneo non riceva la luce del sole."
 
 #: stringdump_steam_2022_12_06.txt:2173
 msgid ""
@@ -8665,7 +8682,7 @@ msgid ""
 msgstr ""
 "Nota che puoi ottenere [C:6:0:1]Semi[C:7:0:0] in superficie dal commercio o "
 "mangiando [C:6:0:1]Piante[C:7:0:0] raccolte in superficie, l'agricoltura in "
-"superficie espone però i tuoi [C:2:0:0]Seminatori[C:7: 0:0] ai pericoli e "
+"superficie espone però i tuoi [C:2:0:0]Coltivatori[C:7: 0:0] ai pericoli e "
 "agli elementi."
 
 #: stringdump_steam_2022_12_06.txt:2190
@@ -8693,6 +8710,8 @@ msgid ""
 "These effects are more pronounced deep underground where you can locate the "
 "cavern biome and its rich soil."
 msgstr ""
+"Questi effetti sono più pronunciati nelle profondità del sottosuolo, dove si"
+" trova il bioma delle caverne e il suo ricco terreno."
 
 #: stringdump_steam_2022_12_06.txt:2194
 msgid ""
@@ -8710,7 +8729,7 @@ msgid ""
 msgstr ""
 "Se desideri concentrare alcuni cittadini sull'agricoltura, che offre "
 "vantaggi in termini di abilità, puoi farli diventare "
-"[C:2:0:0]Seminatori[C:7:0:0] dal menù [C:5:0:1]Lavoro[C:7:0:0]."
+"[C:2:0:0]Coltivatori[C:7:0:0] dal menù [C:5:0:1]Lavoro[C:7:0:0]."
 
 #: stringdump_steam_2022_12_06.txt:2196
 msgid ""
@@ -8859,7 +8878,7 @@ msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:2221
 msgid "Burrows"
-msgstr ""
+msgstr "Rifugi"
 
 #: stringdump_steam_2022_12_06.txt:2222
 msgid ""
@@ -9335,6 +9354,8 @@ msgstr ""
 #: stringdump_steam_2022_12_06.txt:2302
 msgid "[C:6:0:1]Ore[C:7:0:0] is mined underground, below the soil layers."
 msgstr ""
+"I [C:6:0:1]Minerali[C:7:0:0] sono estratti nel sottosuolo, sotto gli strati "
+"di terreno."
 
 #: stringdump_steam_2022_12_06.txt:2303
 msgid ""
@@ -10079,6 +10100,8 @@ msgstr ""
 msgid ""
 "Valuable gems and precious metals can be found, along with richer soil, "
 msgstr ""
+"Si possono trovare gemme preziose e metalli preziosi, oltre a terreni più "
+"ricchi,"
 
 #: stringdump_steam_2022_12_06.txt:2430
 msgid "In order to pursue the wealth of the earth, you must dig deeper! "
@@ -10677,7 +10700,7 @@ msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:2576
 msgid "performance troupe"
-msgstr "compagnia di artisti "
+msgstr "troupe artistica"
 
 #: stringdump_steam_2022_12_06.txt:2577
 msgid "government"
@@ -10817,7 +10840,7 @@ msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:2611
 msgid "Difficulty"
-msgstr ""
+msgstr "Difficoltà"
 
 #: stringdump_steam_2022_12_06.txt:2612
 msgid "Keybindings"
@@ -11322,6 +11345,7 @@ msgstr ""
 #: stringdump_steam_2022_12_06.txt:2741
 msgid "Curious wilderness creatures can come to cause trouble"
 msgstr ""
+"Creature curiose delle terre selvagge possono venire a creare problemi"
 
 #: stringdump_steam_2022_12_06.txt:2742
 msgid "Werebeasts can attack"
@@ -11961,7 +11985,7 @@ msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:2992
 msgid "Are you sure you want to delete this active world?"
-msgstr ""
+msgstr "Sei sicuro di voler cancellare il mondo attivo?"
 
 #: stringdump_steam_2022_12_06.txt:2993
 msgid "(no other folders will be deleted)"
@@ -11993,15 +12017,15 @@ msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:3005
 msgid "Create new world"
-msgstr ""
+msgstr "Crea nuovo mondo"
 
 #: stringdump_steam_2022_12_06.txt:3006
 msgid "Start new game in existing world"
-msgstr ""
+msgstr "Inizia nuova partita in un mondo esistente"
 
 #: stringdump_steam_2022_12_06.txt:3007
 msgid "Continue active game"
-msgstr ""
+msgstr "Continua partita"
 
 #: stringdump_steam_2022_12_06.txt:3008
 msgid "adventurer"
@@ -12526,7 +12550,7 @@ msgstr "compagno membro dell'ordine"
 
 #: stringdump_steam_2022_12_06.txt:3257
 msgid "troupemate "
-msgstr ""
+msgstr "compagno di troupe "
 
 #: stringdump_steam_2022_12_06.txt:3258
 msgid "fellow company member "
@@ -12686,7 +12710,7 @@ msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:3297
 msgid "the wilds"
-msgstr ""
+msgstr "lande selvagge"
 
 #: stringdump_steam_2022_12_06.txt:3298
 msgid " as a member of "
@@ -12794,7 +12818,7 @@ msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:3324
 msgid " in becoming a permanent part of the living world"
-msgstr ""
+msgstr " nel diventare una parte permanente del mondo vivente"
 
 #: stringdump_steam_2022_12_06.txt:3325
 msgid ".  The ritual took place in "
@@ -12982,7 +13006,7 @@ msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:3371
 msgid " to entertain the world"
-msgstr ""
+msgstr " per intrattenere il mondo"
 
 #: stringdump_steam_2022_12_06.txt:3372
 msgid " to live a life of adventure"
@@ -13054,7 +13078,7 @@ msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:3389
 msgid " to the living world"
-msgstr ""
+msgstr " al mondo vivente"
 
 #: stringdump_steam_2022_12_06.txt:3390
 msgid "the parley between "
@@ -14558,7 +14582,7 @@ msgstr "Riavvia se completato, verificato annualmente"
 
 #: stringdump_steam_2022_12_06.txt:3768
 msgid "Wild Animal"
-msgstr ""
+msgstr "Animale selvaggio"
 
 #: stringdump_steam_2022_12_06.txt:3769
 msgid " (Caged)"
@@ -14742,11 +14766,11 @@ msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:3817
 msgid "Agitated Wilderness Creature"
-msgstr ""
+msgstr "Creatura selvaggia agitata"
 
 #: stringdump_steam_2022_12_06.txt:3818
 msgid "Underworld"
-msgstr ""
+msgstr "Inferi"
 
 #: stringdump_steam_2022_12_06.txt:3819
 msgid "Agitated Caged Creature"
@@ -14790,7 +14814,7 @@ msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:3829
 msgid "Semi-Wild"
-msgstr ""
+msgstr "Semi-selvaggio"
 
 #: stringdump_steam_2022_12_06.txt:3830
 msgid "Expertly trained"
@@ -15513,7 +15537,7 @@ msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:4009
 msgid "Monster Slayer"
-msgstr ""
+msgstr "Ammazzamostri"
 
 #: stringdump_steam_2022_12_06.txt:4010
 msgid "No members"
@@ -15985,15 +16009,15 @@ msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:4127
 msgid "No mud/soil for farm"
-msgstr ""
+msgstr "Manca fango/terreno per le colture"
 
 #: stringdump_steam_2022_12_06.txt:4128
 msgid "Need soil or mud at location"
-msgstr "Serve terriccio o fango nella posizione"
+msgstr "Serve terreno o fango nella posizione"
 
 #: stringdump_steam_2022_12_06.txt:4129
 msgid "Need soil at location"
-msgstr "Serve terriccio nella posizione"
+msgstr "Serve terreno nella posizione"
 
 #: stringdump_steam_2022_12_06.txt:4130
 msgid "Mud is left by water"
@@ -16493,11 +16517,11 @@ msgstr "feretro"
 
 #: stringdump_steam_2022_12_06.txt:4261
 msgid "chair"
-msgstr ""
+msgstr "sedia"
 
 #: stringdump_steam_2022_12_06.txt:4262
 msgid "table"
-msgstr ""
+msgstr "tavolo"
 
 #: stringdump_steam_2022_12_06.txt:4263
 msgid "bed"
@@ -16505,7 +16529,7 @@ msgstr "letto"
 
 #: stringdump_steam_2022_12_06.txt:4264
 msgid "to paint the zone."
-msgstr ""
+msgstr "per dipingere la zona."
 
 #: stringdump_steam_2022_12_06.txt:4265
 msgid " rejected (not enclosed.)"
@@ -16565,7 +16589,7 @@ msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:4279
 msgid "to continue."
-msgstr ""
+msgstr "per continuare."
 
 #: stringdump_steam_2022_12_06.txt:4280
 msgid "Select another rectangle"
@@ -17214,7 +17238,7 @@ msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:4425
 msgid "Recenter on this burrow."
-msgstr "Ricentra su questo carretto."
+msgstr "Ricentra su questo rifugio."
 
 #: stringdump_steam_2022_12_06.txt:4426
 msgid "Name this route."
@@ -17350,7 +17374,7 @@ msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:4448
 msgid "Open the world screen."
-msgstr ""
+msgstr "Apri la schermata del mondo."
 
 #: stringdump_steam_2022_12_06.txt:4449
 msgid "Open the squad sidebar."
@@ -19409,6 +19433,9 @@ msgid ""
 "impress!  I have come empowered to elevate this land in the eyes of our "
 "realm."
 msgstr ""
+"[C:VAR:MEETING:ACTOR][VAR:NATIVENAME:MEETING:ACTOR]: Continui a stupire!  "
+"Sono venuto con il potere di elevare questa terra agli occhi del nostro "
+"regno."
 
 #: stringdump_steam_2022_12_06.txt:4869
 msgid "Do you have anyone suitable to recommend for elevation?"
@@ -20199,7 +20226,7 @@ msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:5060
 msgid "Choose a symbol for the burrow."
-msgstr ""
+msgstr "Scegli un simbolo per il rifugio."
 
 #: stringdump_steam_2022_12_06.txt:5061
 msgid "Choose a symbol for the detail."
@@ -22735,23 +22762,23 @@ msgstr "artigianato"
 
 #: stringdump_steam_2022_12_06.txt:5710
 msgid "introspection"
-msgstr ""
+msgstr "introspezione"
 
 #: stringdump_steam_2022_12_06.txt:5711
 msgid "stoicism"
-msgstr ""
+msgstr "stoicismo"
 
 #: stringdump_steam_2022_12_06.txt:5712
 msgid "tranquility"
-msgstr ""
+msgstr "tranquillità"
 
 #: stringdump_steam_2022_12_06.txt:5713
 msgid "self-control"
-msgstr ""
+msgstr "autocontrollo"
 
 #: stringdump_steam_2022_12_06.txt:5714
 msgid " will be slain."
-msgstr ""
+msgstr " verrà ucciso."
 
 #: stringdump_steam_2022_12_06.txt:5715
 msgid " is dead!"
@@ -22759,7 +22786,7 @@ msgstr "è morto!"
 
 #: stringdump_steam_2022_12_06.txt:5716
 msgid "  The need for my task seems to have passed."
-msgstr ""
+msgstr "  Il bisogno del mio compito sembra essere passato."
 
 #: stringdump_steam_2022_12_06.txt:5717
 msgid " have been driven from "
@@ -22779,7 +22806,7 @@ msgstr "La missione è compiuta."
 
 #: stringdump_steam_2022_12_06.txt:5721
 msgid "I am your loyal "
-msgstr "sono il tuo leale "
+msgstr "Sono il tuo leale "
 
 #: stringdump_steam_2022_12_06.txt:5722
 msgid "I am very confused."
@@ -22791,7 +22818,7 @@ msgstr "Sono confuso."
 
 #: stringdump_steam_2022_12_06.txt:5724
 msgid ".  What do you command?"
-msgstr ""
+msgstr ".  Cosa comandate?"
 
 #: stringdump_steam_2022_12_06.txt:5725
 msgid "Commendable!  Your loyalty and bravery cannot be denied."
@@ -22803,7 +22830,7 @@ msgstr "Non ci sarà riposo per il nemico."
 
 #: stringdump_steam_2022_12_06.txt:5727
 msgid "  The enemy will be driven off."
-msgstr ""
+msgstr "  Il nemico sarà scacciato."
 
 #: stringdump_steam_2022_12_06.txt:5728
 msgid "  I am sort of confused."
@@ -22815,19 +22842,19 @@ msgstr "Sono un pò confuso."
 
 #: stringdump_steam_2022_12_06.txt:5730
 msgid "er"
-msgstr ""
+msgstr "er"
 
 #: stringdump_steam_2022_12_06.txt:5731
 msgid "us"
-msgstr ""
+msgstr "noi"
 
 #: stringdump_steam_2022_12_06.txt:5732
 msgid "as"
-msgstr ""
+msgstr "come"
 
 #: stringdump_steam_2022_12_06.txt:5733
 msgid "in"
-msgstr ""
+msgstr "in"
 
 #: stringdump_steam_2022_12_06.txt:5734
 msgid "You just aren't good enough yet, but you should keep performing."
@@ -22839,7 +22866,7 @@ msgstr "Benvenuto a"
 
 #: stringdump_steam_2022_12_06.txt:5736
 msgid "?  The troupe could use your talent."
-msgstr ""
+msgstr "?  La troupe ha bisogno del tuo talento."
 
 #: stringdump_steam_2022_12_06.txt:5737
 msgid "Would you like to join "
@@ -22879,7 +22906,7 @@ msgstr "Mi dispiace. Non penso ci sia spazio per me."
 
 #: stringdump_steam_2022_12_06.txt:5746
 msgid "I'm sorry, but I can't join the troupe."
-msgstr ""
+msgstr "Mi dispiace ma non posso unirmi alla troupe."
 
 #: stringdump_steam_2022_12_06.txt:5747
 msgid "Yes!  It'll be great to perform with you."
@@ -22943,7 +22970,7 @@ msgstr ". Ci accetterai?"
 
 #: stringdump_steam_2022_12_06.txt:5762
 msgid "monster slayer"
-msgstr ""
+msgstr "ammazzamostri"
 
 #: stringdump_steam_2022_12_06.txt:5763
 msgid "mercenary"
@@ -23197,7 +23224,7 @@ msgstr "Puoi indicarmi il modo di"
 
 #: stringdump_steam_2022_12_06.txt:5825
 msgid "Let's continue onward together."
-msgstr ""
+msgstr "Andiamo avanti insieme."
 
 #: stringdump_steam_2022_12_06.txt:5826
 msgid "open war"
@@ -23345,7 +23372,7 @@ msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:5862
 msgid "terrifying wilderness monster"
-msgstr ""
+msgstr "terrificante mostro delle terre selvagge"
 
 #: stringdump_steam_2022_12_06.txt:5863
 msgid "creeping thing"
@@ -23353,7 +23380,7 @@ msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:5864
 msgid "ferocious wild animal"
-msgstr ""
+msgstr "animale selvatico feroce"
 
 #: stringdump_steam_2022_12_06.txt:5865
 msgid "savage beast"
@@ -23393,7 +23420,7 @@ msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:5874
 msgid "beast from the wilds"
-msgstr ""
+msgstr "bestia delle lande selvagge"
 
 #: stringdump_steam_2022_12_06.txt:5875
 msgid "ferocious unnatural beast"
@@ -24330,7 +24357,7 @@ msgstr "Ecco qualcosa che potrebbe interessarti..."
 
 #: stringdump_steam_2022_12_06.txt:6107
 msgid "I've decided.  Let's call our troupe "
-msgstr ""
+msgstr "Ho deciso.  Chiamiamo la nostra troupe"
 
 #: stringdump_steam_2022_12_06.txt:6108
 msgid ""
@@ -24505,7 +24532,7 @@ msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:6150
 msgid "Look at the sky!  Are we in the Underworld?"
-msgstr ""
+msgstr "Guarda il cielo!  Siamo negli Inferi?"
 
 #: stringdump_steam_2022_12_06.txt:6151
 msgid "What an odd glow!"
@@ -24676,7 +24703,7 @@ msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:6192
 msgid "The bond is broken!  Return to the Underworld and trouble us no more!"
-msgstr ""
+msgstr "Il legame è spezzato!  Torna negli Inferi e non disturbarci più!"
 
 #: stringdump_steam_2022_12_06.txt:6193
 msgid "You are bound to me!"
@@ -25655,7 +25682,7 @@ msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:6435
 msgid "I am compelled to continue!"
-msgstr ""
+msgstr "Sono costretto a continuare!"
 
 #: stringdump_steam_2022_12_06.txt:6436
 msgid "Maybe you're right."
@@ -26263,7 +26290,7 @@ msgstr "Innanzitutto, "
 
 #: stringdump_steam_2022_12_06.txt:6588
 msgid "Then "
-msgstr ""
+msgstr "Dop"
 
 #: stringdump_steam_2022_12_06.txt:6589
 msgid " passionate"
@@ -26271,7 +26298,7 @@ msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:6590
 msgid " vivacious"
-msgstr ""
+msgstr " vivace"
 
 #: stringdump_steam_2022_12_06.txt:6591
 msgid " joyous"
@@ -26279,7 +26306,7 @@ msgstr "gioioso"
 
 #: stringdump_steam_2022_12_06.txt:6592
 msgid " proud"
-msgstr ""
+msgstr "fiero"
 
 #: stringdump_steam_2022_12_06.txt:6593
 msgid " flamboyant"
@@ -26287,15 +26314,15 @@ msgstr "fiammeggiante"
 
 #: stringdump_steam_2022_12_06.txt:6594
 msgid " lively"
-msgstr ""
+msgstr "bril"
 
 #: stringdump_steam_2022_12_06.txt:6595
 msgid " spirited"
-msgstr ""
+msgstr " spiritos"
 
 #: stringdump_steam_2022_12_06.txt:6596
 msgid " vigorous"
-msgstr ""
+msgstr " vigoroso"
 
 #: stringdump_steam_2022_12_06.txt:6597
 msgid " straight-lined"
@@ -26303,75 +26330,75 @@ msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:6598
 msgid " high"
-msgstr ""
+msgstr " al"
 
 #: stringdump_steam_2022_12_06.txt:6599
 msgid " low"
-msgstr ""
+msgstr "bass"
 
 #: stringdump_steam_2022_12_06.txt:6600
 msgid " loudly percussive"
-msgstr ""
+msgstr " fortemente percussivo"
 
 #: stringdump_steam_2022_12_06.txt:6601
 msgid " softly percussive"
-msgstr ""
+msgstr " dolcemente percussivo"
 
 #: stringdump_steam_2022_12_06.txt:6602
 msgid " aborted"
-msgstr ""
+msgstr " interrotto"
 
 #: stringdump_steam_2022_12_06.txt:6603
 msgid " partially realized"
-msgstr ""
+msgstr " parzialmente realizzato"
 
 #: stringdump_steam_2022_12_06.txt:6604
 msgid " energetic"
-msgstr ""
+msgstr " energetico"
 
 #: stringdump_steam_2022_12_06.txt:6605
 msgid " strong"
-msgstr ""
+msgstr " forte"
 
 #: stringdump_steam_2022_12_06.txt:6606
 msgid " large"
-msgstr ""
+msgstr " largo"
 
 #: stringdump_steam_2022_12_06.txt:6607
 msgid " weightless"
-msgstr ""
+msgstr " senza peso"
 
 #: stringdump_steam_2022_12_06.txt:6608
 msgid " fluid"
-msgstr ""
+msgstr " fluido"
 
 #: stringdump_steam_2022_12_06.txt:6609
 msgid " undulating"
-msgstr ""
+msgstr " ondulato"
 
 #: stringdump_steam_2022_12_06.txt:6610
 msgid " soft"
-msgstr ""
+msgstr " soft"
 
 #: stringdump_steam_2022_12_06.txt:6611
 msgid " jerking"
-msgstr ""
+msgstr " scat"
 
 #: stringdump_steam_2022_12_06.txt:6612
 msgid " sharp-edged"
-msgstr ""
+msgstr " sharp-edged"
 
 #: stringdump_steam_2022_12_06.txt:6613
 msgid " grotesque"
-msgstr ""
+msgstr " grottesc"
 
 #: stringdump_steam_2022_12_06.txt:6614
 msgid " crude"
-msgstr ""
+msgstr " crude"
 
 #: stringdump_steam_2022_12_06.txt:6615
 msgid " refined"
-msgstr ""
+msgstr " raffinato"
 
 #: stringdump_steam_2022_12_06.txt:6617
 msgid " understated"
@@ -26379,7 +26406,7 @@ msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:6618
 msgid " delicate"
-msgstr ""
+msgstr " delicato"
 
 #: stringdump_steam_2022_12_06.txt:6619
 msgid " elaborate"
@@ -26387,11 +26414,11 @@ msgstr " elaborato"
 
 #: stringdump_steam_2022_12_06.txt:6620
 msgid " expressive"
-msgstr ""
+msgstr " espressivo"
 
 #: stringdump_steam_2022_12_06.txt:6621
 msgid " turn"
-msgstr ""
+msgstr " girare"
 
 #: stringdump_steam_2022_12_06.txt:6622
 msgid " facial expression"
@@ -29589,7 +29616,7 @@ msgstr "un labirinto di segrete"
 
 #: stringdump_steam_2022_12_06.txt:7512
 msgid "an underworld spire"
-msgstr "una guglia sotterranea"
+msgstr "una guglia degli inferi"
 
 #: stringdump_steam_2022_12_06.txt:7513
 msgid "the catacombs"
@@ -30309,7 +30336,7 @@ msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:7692
 msgid "a killer"
-msgstr ""
+msgstr "un assassino"
 
 #: stringdump_steam_2022_12_06.txt:7693
 msgid "an infamous murderer"
@@ -34406,15 +34433,15 @@ msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:8693
 msgid ", slayer."
-msgstr ""
+msgstr ", uccisore."
 
 #: stringdump_steam_2022_12_06.txt:8694
 msgid ", slayer of "
-msgstr ""
+msgstr ", uccisore di "
 
 #: stringdump_steam_2022_12_06.txt:8695
 msgid "Slayer."
-msgstr ""
+msgstr "Uccisore."
 
 #: stringdump_steam_2022_12_06.txt:8696
 msgid " has killed."
@@ -37381,7 +37408,7 @@ msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:9448
 msgid "It is time to send our cursed enemy back to the underworld."
-msgstr ""
+msgstr "È ora di rispedire il nostro nemico maledetto negli inferi."
 
 #: stringdump_steam_2022_12_06.txt:9449
 msgid "A creature of the night has our people cowering in fear."
@@ -37395,6 +37422,8 @@ msgstr ""
 msgid ""
 "A terror most foul from the evil depths nigh the underworld plagues us."
 msgstr ""
+"Un terrore immondo, proveniente dalle malvagie profondità vicine agli "
+"inferi, ci affligge."
 
 #: stringdump_steam_2022_12_06.txt:9452
 msgid "The forces of darkness have descended upon us."
@@ -37412,6 +37441,8 @@ msgstr ""
 #: stringdump_steam_2022_12_06.txt:9455
 msgid "We are besieged by a terrifying monster from the harshest wilderness."
 msgstr ""
+"Siamo assediati da un mostro terrificante che proviene dalle terre più "
+"estreme."
 
 #: stringdump_steam_2022_12_06.txt:9456
 msgid "At times, creeping things slither out from below ground."
@@ -37576,6 +37607,8 @@ msgstr ""
 #: stringdump_steam_2022_12_06.txt:9526
 msgid "Vanquishing a great beast on our behalf would bring us all much glory."
 msgstr ""
+"Sconfiggere una grande bestia per conto nostro porterebbe a tutti noi molta "
+"gloria."
 
 #: stringdump_steam_2022_12_06.txt:9527
 msgid "Not far from here, a fearsome creature has made its home."
@@ -37931,7 +37964,7 @@ msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:9615
 msgid "Can you manage a troupe so large?"
-msgstr ""
+msgstr "Sai gestire una troupe così numerosa?"
 
 #: stringdump_steam_2022_12_06.txt:9616
 msgid ""
@@ -38121,7 +38154,7 @@ msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:9662
 msgid "slayer"
-msgstr "squartatore"
+msgstr "uccisore"
 
 #: stringdump_steam_2022_12_06.txt:9663
 msgid "force"
@@ -41508,7 +41541,7 @@ msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:12294
 msgid "Wilderness Roamer"
-msgstr ""
+msgstr "Girovago delle terre selvagge"
 
 #: stringdump_steam_2022_12_06.txt:12295
 msgid "Wilderness Curious Steal Target"
@@ -42532,7 +42565,7 @@ msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:12563
 msgid "cavernous"
-msgstr ""
+msgstr "cavernoso"
 
 #: stringdump_steam_2022_12_06.txt:12564
 msgid "delineated"
@@ -42928,7 +42961,7 @@ msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:12675
 msgid "caverns"
-msgstr ""
+msgstr "caverne"
 
 #: stringdump_steam_2022_12_06.txt:12676
 msgid "boundaries"
@@ -44044,7 +44077,7 @@ msgstr "ragno"
 
 #: stringdump_steam_2022_12_06.txt:13552
 msgid "maggot"
-msgstr "larva"
+msgstr "baco"
 
 #: stringdump_steam_2022_12_06.txt:13553
 msgid "lobster"
@@ -46032,7 +46065,7 @@ msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:14168
 msgid "killer"
-msgstr "uccisore"
+msgstr "assassino"
 
 #: stringdump_steam_2022_12_06.txt:14169
 msgid "friendly"
@@ -46693,7 +46726,7 @@ msgid ""
 msgstr ""
 " Outpost:[C:7:0:0]  Sei arrivato.  Dopo un viaggio dalle Rocchenaniche "
 "nell'ostile selva aldilà, il tuo duro viaggio è finalmente finito.  Il tuo "
-"gruppo di sette dovrà creare un avamposto per la gloria di tutti "
+"gruppo di sette dovrà creare un avamposto per la gloria di tutti i "
 
 #: stringdump_steam_2022_12_06.txt:14634
 msgid ""
@@ -48216,7 +48249,7 @@ msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:15357
 msgid "the underworld portal"
-msgstr ""
+msgstr "il portale degli inferi"
 
 #: stringdump_steam_2022_12_06.txt:15358
 msgid "the volcano"
@@ -48228,7 +48261,7 @@ msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:15360
 msgid "the underworld"
-msgstr ""
+msgstr "gli inferi"
 
 #: stringdump_steam_2022_12_06.txt:15361
 msgid "the pit"
@@ -48277,6 +48310,8 @@ msgid ""
 "The glowing barrier has disappeared, replaced by terrible shrieks from the "
 "underworld!"
 msgstr ""
+"La barriera luminosa è scomparsa, sostituita da terribili urla provenienti "
+"dagli inferi!"
 
 #: stringdump_steam_2022_12_06.txt:15372
 msgid "The glowing barrier has disappeared!"
@@ -50223,7 +50258,7 @@ msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:15925
 msgid "slayer in incident"
-msgstr ""
+msgstr "uccisore in incidente"
 
 #: stringdump_steam_2022_12_06.txt:15926
 msgid "hf is dead"
@@ -50967,7 +51002,7 @@ msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:16111
 msgid "kicked out of troupe"
-msgstr "cacciato dalla compagnia di artisti"
+msgstr "cacciato dalla troupe artistica"
 
 #: stringdump_steam_2022_12_06.txt:16112
 msgid "saw performance in incident"
@@ -51031,7 +51066,7 @@ msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:16127
 msgid "left troupe"
-msgstr ""
+msgstr "lasciato la troupe"
 
 #: stringdump_steam_2022_12_06.txt:16128
 msgid "citizenship petition rejected"
@@ -51479,7 +51514,7 @@ msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:16242
 msgid "in order to continue working alone"
-msgstr ""
+msgstr "per continuare a lavorare da solo"
 
 #: stringdump_steam_2022_12_06.txt:16243
 msgid "in order to become a citizen"
@@ -52490,7 +52525,7 @@ msgstr " ricostruito "
 
 #: stringdump_steam_2022_12_06.txt:16494
 msgid " thrust a spire of slade up from the underworld, naming it "
-msgstr ""
+msgstr " spingi una guglia di slada dagli Inferi, dandole il nome di "
 
 #: stringdump_steam_2022_12_06.txt:16495
 msgid "the completion of "
@@ -55620,7 +55655,7 @@ msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:17277
 msgid "the unsatisfactory conclusion"
-msgstr ""
+msgstr "la conclusione insoddisfacente"
 
 #: stringdump_steam_2022_12_06.txt:17278
 msgid "the fair conclusion"
@@ -55644,7 +55679,7 @@ msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:17283
 msgid " in an unsatisfactory fashion"
-msgstr ""
+msgstr " in modo insoddisfacente"
 
 #: stringdump_steam_2022_12_06.txt:17284
 msgid " fairly"
@@ -56592,7 +56627,7 @@ msgstr " collezione di rinnegati da "
 
 #: stringdump_steam_2022_12_06.txt:17521
 msgid " performance troupe from "
-msgstr " compagnia di artisti da "
+msgstr " troupe artistica da "
 
 #: stringdump_steam_2022_12_06.txt:17522
 msgid "band"
@@ -57336,7 +57371,7 @@ msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:17714
 msgid "the Underworld"
-msgstr ""
+msgstr "gli Inferi"
 
 #: stringdump_steam_2022_12_06.txt:17715
 msgid "the magma sea"
@@ -57477,7 +57512,7 @@ msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:17785
 msgid ", once of the Underworld.  "
-msgstr ""
+msgstr ", una volta degli Inferi.  "
 
 #: stringdump_steam_2022_12_06.txt:17788
 msgid "Ceremony"
@@ -57513,15 +57548,15 @@ msgstr "Gara di lotta"
 
 #: stringdump_steam_2022_12_06.txt:17796
 msgid " Race"
-msgstr ""
+msgstr " Gara"
 
 #: stringdump_steam_2022_12_06.txt:17797
 msgid "Air Race"
-msgstr ""
+msgstr "Gara aerea"
 
 #: stringdump_steam_2022_12_06.txt:17862
 msgid "population gone"
-msgstr ""
+msgstr "popolazione andata"
 
 #: stringdump_steam_2022_12_06.txt:17863
 msgid "leadership overthrown"
@@ -57529,43 +57564,43 @@ msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:17878
 msgid "ambushed"
-msgstr ""
+msgstr "caduti in un'imboscata"
 
 #: stringdump_steam_2022_12_06.txt:17879
 msgid "surprised"
-msgstr ""
+msgstr "sorpreso"
 
 #: stringdump_steam_2022_12_06.txt:17880
 msgid "scuffle"
-msgstr ""
+msgstr "rissa"
 
 #: stringdump_steam_2022_12_06.txt:17881
 msgid "subdued"
-msgstr ""
+msgstr "calmo"
 
 #: stringdump_steam_2022_12_06.txt:17967
 msgid "2 lost after mutual wounds"
-msgstr ""
+msgstr "2 persi dopo ferite reciproche"
 
 #: stringdump_steam_2022_12_06.txt:17968
 msgid "2 lost after giving wounds"
-msgstr ""
+msgstr "2 persi dopo aver inflitto ferite"
 
 #: stringdump_steam_2022_12_06.txt:17969
 msgid "2 lost after receiving wounds"
-msgstr ""
+msgstr "2 persi dopo aver ricevuto ferite"
 
 #: stringdump_steam_2022_12_06.txt:17970
 msgid "got into a brawl"
-msgstr ""
+msgstr "ha avuto una rissa"
 
 #: stringdump_steam_2022_12_06.txt:17971
 msgid "confront"
-msgstr ""
+msgstr "confronta"
 
 #: stringdump_steam_2022_12_06.txt:17972
 msgid "corner"
-msgstr ""
+msgstr "angolo"
 
 #: stringdump_steam_2022_12_06.txt:17973
 msgid "happen upon"
@@ -57601,15 +57636,15 @@ msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:17990
 msgid "sadistic ghost"
-msgstr ""
+msgstr "fantasma sadico"
 
 #: stringdump_steam_2022_12_06.txt:17992
 msgid "murderous ghost"
-msgstr ""
+msgstr "fantasma assassino"
 
 #: stringdump_steam_2022_12_06.txt:17995
 msgid "bathe world in chaos"
-msgstr ""
+msgstr "immergere il mondo nel caos"
 
 #: stringdump_steam_2022_12_06.txt:17996
 msgid "attain rank in society"
@@ -57617,7 +57652,7 @@ msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:17997
 msgid "make a great discovery"
-msgstr ""
+msgstr "fare una grande scoperta"
 
 #: stringdump_steam_2022_12_06.txt:17998
 msgid "see the great natural sites"
@@ -57625,31 +57660,31 @@ msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:17999
 msgid "fall in love"
-msgstr ""
+msgstr "innamorarsi"
 
 #: stringdump_steam_2022_12_06.txt:18000
 msgid "master a skill"
-msgstr ""
+msgstr "padroneggiare un'abilità"
 
 #: stringdump_steam_2022_12_06.txt:18001
 msgid "become a legendary warrior"
-msgstr "diventa un guerriero leggendario"
+msgstr "diventare un guerriero leggendario"
 
 #: stringdump_steam_2022_12_06.txt:18002
 msgid "bring peace to the world"
-msgstr ""
+msgstr "portare pace nel mondo"
 
 #: stringdump_steam_2022_12_06.txt:18003
 msgid "craft a masterwork"
-msgstr ""
+msgstr "creare un capolavoro"
 
 #: stringdump_steam_2022_12_06.txt:18004
 msgid "create a great work of art"
-msgstr ""
+msgstr "creare una grande opera d'arte"
 
 #: stringdump_steam_2022_12_06.txt:18005
 msgid "rule the world"
-msgstr ""
+msgstr "governare il mondo"
 
 #: stringdump_steam_2022_12_06.txt:18013
 msgid "forlorn haunt"
@@ -57929,7 +57964,7 @@ msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:18166
 msgid "underworld contact"
-msgstr ""
+msgstr "contatto con gli Inferi"
 
 #: stringdump_steam_2022_12_06.txt:18167
 msgid "plot saboteur"
@@ -58655,7 +58690,7 @@ msgstr " tessuto da "
 
 #: stringdump_steam_2022_12_06.txt:19264
 msgid "Slayer"
-msgstr ""
+msgstr "Uccisore"
 
 #: stringdump_steam_2022_12_06.txt:19265
 msgid " kill"
@@ -58879,11 +58914,11 @@ msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:19321
 msgid "Slayer of"
-msgstr ""
+msgstr "Uccisore di"
 
 #: stringdump_steam_2022_12_06.txt:19322
 msgid "Slayer of "
-msgstr ""
+msgstr "Uccisore di "
 
 #: stringdump_steam_2022_12_06.txt:19323
 msgid "Hunter of "
@@ -60950,7 +60985,7 @@ msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:21269
 msgid "Underworld spire"
-msgstr ""
+msgstr "Guglia degli Inferi"
 
 #: stringdump_steam_2022_12_06.txt:21270
 msgid "Initialization complete..."
@@ -61300,7 +61335,7 @@ msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:21358
 msgid "Unnamed Underworld area"
-msgstr ""
+msgstr "Area degli Inferi senza nome"
 
 #: stringdump_steam_2022_12_06.txt:21359
 msgid "occurred."
@@ -61352,7 +61387,7 @@ msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:21372
 msgid "underworld spire"
-msgstr ""
+msgstr "guglia degli inferi"
 
 #: stringdump_steam_2022_12_06.txt:21373
 msgid "temple"
@@ -65181,7 +65216,7 @@ msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:23052
 msgid "CONTINUE until you give me another warning."
-msgstr ""
+msgstr "CONTINUA finché non mi dai un altro avvertimento."
 
 #: stringdump_steam_2022_12_06.txt:23053
 msgid "ABORT NOW and I'll look over my parameters."
@@ -65209,7 +65244,7 @@ msgstr "Palude tropicale d'acqua salata"
 
 #: stringdump_steam_2022_12_06.txt:23059
 msgid "Continue generating"
-msgstr ""
+msgstr "Continua a generare"
 
 #: stringdump_steam_2022_12_06.txt:23060
 msgid "Mountain"
@@ -65341,15 +65376,15 @@ msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:23103
 msgid "Deep soil"
-msgstr ""
+msgstr "Terreno profondo"
 
 #: stringdump_steam_2022_12_06.txt:23104
 msgid "Very deep soil"
-msgstr ""
+msgstr "Terreno molto profondo"
 
 #: stringdump_steam_2022_12_06.txt:23105
 msgid "Extremely deep soil"
-msgstr ""
+msgstr "Terreno estremamente profondo"
 
 #: stringdump_steam_2022_12_06.txt:23106
 msgid "Varied aquifer"
@@ -65365,11 +65400,11 @@ msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:23109
 msgid "Little soil"
-msgstr ""
+msgstr "Poco terreno"
 
 #: stringdump_steam_2022_12_06.txt:23110
 msgid "Some soil"
-msgstr ""
+msgstr "Un po' di terreno"
 
 #: stringdump_steam_2022_12_06.txt:23111
 msgid "Thick"
@@ -65429,7 +65464,7 @@ msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:23125
 msgid "Wilderness"
-msgstr ""
+msgstr "Terre selvagge"
 
 #: stringdump_steam_2022_12_06.txt:23126
 msgid "Haunted"
@@ -68559,7 +68594,7 @@ msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:24040
 msgid "leaving a performance troupe"
-msgstr "lasciando una compagnia di artisti"
+msgstr "lasciando una troupe artistica"
 
 #: stringdump_steam_2022_12_06.txt:24041
 msgid "hearing a rumor"
@@ -68571,7 +68606,7 @@ msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:24043
 msgid "being removed from a performance troupe"
-msgstr "venendo rimosso da una compagnia di artisti"
+msgstr "venendo rimosso da una troupe artistica"
 
 #: stringdump_steam_2022_12_06.txt:24044
 msgid "a site was controlled"
@@ -70392,6 +70427,8 @@ msgstr ""
 msgid ""
 "  Consider placing a farmplot on some underground soil and planting seeds."
 msgstr ""
+"  Considera di piazzare un terreno agricolo su un terreno sotterraneo e "
+"piantare semi."
 
 #: stringdump_steam_2022_12_06.txt:24496
 msgid "Your fortress is out of food!"
@@ -70484,6 +70521,8 @@ msgid ""
 "This legend does not end until we've chipped out the last treasures of the "
 "underworld!"
 msgstr ""
+"Questa leggenda non finirà finché non avremo estratto gli ultimi tesori "
+"degli Inferi!"
 
 #: stringdump_steam_2022_12_06.txt:24516
 msgid ""
@@ -70841,7 +70880,7 @@ msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:24610
 msgid "a specific wilderness region"
-msgstr ""
+msgstr "una regione selvaggia specifica"
 
 #: stringdump_steam_2022_12_06.txt:24611
 msgid "a specific place"
@@ -71928,7 +71967,7 @@ msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:24881
 msgid " Cavern Floor"
-msgstr ""
+msgstr " Pavimento della Caverna"
 
 #: stringdump_steam_2022_12_06.txt:24882
 msgid " Track (NSEW)"
@@ -72328,7 +72367,7 @@ msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:24981
 msgid "Underworld Gate"
-msgstr ""
+msgstr "Portale degli Inferi"
 
 #: stringdump_steam_2022_12_06.txt:24982
 msgid "Ice Upward Track (S)"
@@ -74878,7 +74917,7 @@ msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:26429
 msgid "[ODOR_STRING:soil]"
-msgstr ""
+msgstr "[ODOR_STRING:terreno]"
 
 #: stringdump_steam_2022_12_06.txt:26431
 msgid "[ODOR_STRING:smoke]"
@@ -76693,7 +76732,7 @@ msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:27416
 msgid "Slayers"
-msgstr ""
+msgstr "Uccisori"
 
 #: stringdump_steam_2022_12_06.txt:27417
 msgid "Enforcer"
@@ -77139,7 +77178,7 @@ msgstr "cacciatori"
 
 #: stringdump_steam_2022_12_06.txt:27543
 msgid "slayers"
-msgstr "squartatori"
+msgstr "uccisori"
 
 #: stringdump_steam_2022_12_06.txt:27544
 msgid "butcher"
@@ -82579,7 +82618,7 @@ msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:29247
 msgid "the Burrow"
-msgstr ""
+msgstr "il RIfugio"
 
 #: stringdump_steam_2022_12_06.txt:29248
 msgid "the Monastery"
@@ -82635,7 +82674,7 @@ msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:29261
 msgid "the Cavern"
-msgstr ""
+msgstr "la Caverna"
 
 #: stringdump_steam_2022_12_06.txt:29262
 msgid "the Darkness"
@@ -82871,7 +82910,7 @@ msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:29320
 msgid "the Caverns"
-msgstr ""
+msgstr "le Caverne"
 
 #: stringdump_steam_2022_12_06.txt:29321
 msgid "the fiery bowels of the earth"
@@ -86046,7 +86085,7 @@ msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:30246
 msgid "Soil"
-msgstr ""
+msgstr "Terreno"
 
 #: stringdump_steam_2022_12_06.txt:30247
 msgid "Untamed wilds"
@@ -86098,7 +86137,7 @@ msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:30262
 msgid "Planters"
-msgstr "Seminatori"
+msgstr "Coltivatori"
 
 #: stringdump_steam_2022_12_06.txt:30263
 msgid "Fishermen"
@@ -88866,7 +88905,7 @@ msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:36845
 msgid "The vomit falls away into the underworld."
-msgstr ""
+msgstr "Il vomito cade negli inferi."
 
 #: stringdump_steam_2022_12_06.txt:36846
 msgid "The rest of the vomit splatters into the shallow puddle of water."
@@ -88878,7 +88917,7 @@ msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:36848
 msgid "The rest of the vomit falls away into the underworld."
-msgstr ""
+msgstr "Il resto del vomito cade negli inferi."
 
 #: stringdump_steam_2022_12_06.txt:36849
 msgid " into the flames"
@@ -89038,7 +89077,7 @@ msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:36888
 msgid "eerie cavern"
-msgstr ""
+msgstr "caverna inquietante"
 
 #: stringdump_steam_2022_12_06.txt:36889
 msgid "swamps"
@@ -89046,7 +89085,7 @@ msgstr "paludi"
 
 #: stringdump_steam_2022_12_06.txt:36890
 msgid "cavern"
-msgstr ""
+msgstr "caverna"
 
 #: stringdump_steam_2022_12_06.txt:36891
 msgid "magma sea"
@@ -89202,7 +89241,7 @@ msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:36930
 msgid "Cavern dwellers!  Send them back to the darkness!"
-msgstr ""
+msgstr "Abitanti delle caverne!  Rispediteli nell'oscurità!"
 
 #: stringdump_steam_2022_12_06.txt:36931
 msgid "!  Drive it away!"
@@ -89938,7 +89977,7 @@ msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:37115
 msgid " (no burrow)"
-msgstr ""
+msgstr " (nessun rifugio)"
 
 #: stringdump_steam_2022_12_06.txt:37116
 msgid " (unreachable location)"
@@ -90979,7 +91018,7 @@ msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:37428
 msgid "A section of the cavern has collapsed!"
-msgstr ""
+msgstr "Una sezione della caverna è crollata!"
 
 #: stringdump_steam_2022_12_06.txt:37429
 msgid "Something has collapsed on the surface!"
@@ -91075,7 +91114,7 @@ msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:37480
 msgid "You have discovered an expansive cavern deep underground."
-msgstr ""
+msgstr "Hai scoperto una vasta caverna nelle profondità del sottosuolo."
 
 #: stringdump_steam_2022_12_06.txt:37481
 msgid "You have discovered a river."
