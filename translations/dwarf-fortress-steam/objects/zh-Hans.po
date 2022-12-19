@@ -9,18 +9,19 @@
 # Jared Yin, 2022
 # jj z, 2022
 # 墨漓 Mori, 2022
-# Dongchen Gao, 2022
 # NineMonth Eternal, 2022
 # yih U, 2022
 # 梓程 刘, 2022
-# whfnet <whfnet@gmail.com>, 2022
 # 铭齐 梁, 2022
 # 111 111, 2022
 # r zz, 2022
+# whfnet <whfnet@gmail.com>, 2022
+# jiang jeff, 2022
+# Dongchen Gao, 2022
 # 
 msgid ""
 msgstr ""
-"Last-Translator: r zz, 2022\n"
+"Last-Translator: Dongchen Gao, 2022\n"
 "Language-Team: Chinese Simplified (https://www.transifex.com/dwarf-fortress-translation/teams/22396/zh-Hans/)\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -5944,7 +5945,7 @@ msgstr "[GENERAL_CHILD_NAME:黑羽椋鸟幼崽:黑羽椋鸟幼崽]"
 #: creature_birds.txt:349
 msgctxt "CREATURE:BIRD_GRACKLE"
 msgid "[PREFSTRING:raucous calls]"
-msgstr "[PREFSTRING:沙哑鸣叫]"
+msgstr "[PREFSTRING:沙哑的叫声]"
 
 #: creature_birds.txt:387
 msgctxt "CREATURE:BIRD_GRACKLE"
@@ -6014,7 +6015,7 @@ msgstr "[DESCRIPTION:一只体型巨大的黑羽椋鸟怪。]"
 #: creature_birds.txt:473
 msgctxt "CREATURE:GIANT_GRACKLE"
 msgid "[PREFSTRING:raucous calls]"
-msgstr "[PREFSTRING:沙哑鸣叫]"
+msgstr "[PREFSTRING:沙哑的叫声]"
 
 #: creature_birds.txt:481
 msgctxt "CREATURE:BIRD_ORIOLE"
@@ -6506,7 +6507,7 @@ msgstr "[PREFSTRING:在空中俯冲的能力]"
 #: creature_birds.txt:1226
 msgctxt "CREATURE:BIRD_FALCON_PEREGRINE"
 msgid "[ATTACK_VERB:bite:bites]"
-msgstr "[ATTACK_VERB:咬:咬]"
+msgstr "[ATTACK_VERB:啄;啄]"
 
 #: creature_birds.txt:1235
 msgctxt "CREATURE:BIRD_FALCON_PEREGRINE"
@@ -6772,7 +6773,7 @@ msgstr "[TLCM_NOUN:尾羽:PLURAL]"
 #: creature_birds.txt:1606
 msgctxt "CREATURE:BIRD_OSTRICH"
 msgid "[TLCM_NOUN:head and neck down:SINGULAR]"
-msgstr ""
+msgstr "[TLCM_NOUN:头颈以下]"
 
 #: creature_birds.txt:1609
 msgctxt "CREATURE:BIRD_OSTRICH"
@@ -8517,7 +8518,7 @@ msgstr "[GENERAL_CHILD_NAME:鱼鹰雏鸟:鱼鹰雏鸟]"
 #: creature_birds_new.txt:2568
 msgctxt "CREATURE:BIRD_OSPREY"
 msgid "[PREFSTRING:fishing ability]"
-msgstr "[PREFSTRING:可捕鱼]"
+msgstr "[PREFSTRING:捕鱼能力]"
 
 #: creature_birds_new.txt:2608
 msgctxt "CREATURE:BIRD_OSPREY"
@@ -8587,7 +8588,7 @@ msgstr "[DESCRIPTION:一个巨鱼鹰怪物。]"
 #: creature_birds_new.txt:2693
 msgctxt "CREATURE:GIANT_OSPREY"
 msgid "[PREFSTRING:fishing ability]"
-msgstr "[PREFSTRING:可捕鱼]"
+msgstr "[PREFSTRING:捕鱼能力]"
 
 #: creature_birds_new.txt:2705
 msgctxt "CREATURE:BIRD_EMU"
@@ -8929,12 +8930,12 @@ msgstr "[CASTE_NAME:喜鹊:喜鹊:喜鹊]"
 #: creature_birds_new.txt:3183
 msgctxt "CREATURE:BIRD_MAGPIE"
 msgid "[GENERAL_CHILD_NAME:magpie hatchling:magpie hatchlings]"
-msgstr ""
+msgstr "[GENERAL_CHILD_NAME:喜鹊幼崽:喜鹊幼崽]"
 
 #: creature_birds_new.txt:3205
 msgctxt "CREATURE:BIRD_MAGPIE"
 msgid "[PREFSTRING:intelligence]"
-msgstr "[PREFSTRING:智能化]"
+msgstr "[PREFSTRING:聪慧]"
 
 #: creature_birds_new.txt:3206
 msgctxt "CREATURE:BIRD_MAGPIE"
@@ -8944,22 +8945,22 @@ msgstr "[PREFSTRING:喜欢闪亮的物体]"
 #: creature_birds_new.txt:3244
 msgctxt "CREATURE:BIRD_MAGPIE"
 msgid "[ATTACK_VERB:bite:bites]"
-msgstr "[ATTACK_VERB:咬人]"
+msgstr "[ATTACK_VERB:啄;啄]"
 
 #: creature_birds_new.txt:3253
 msgctxt "CREATURE:BIRD_MAGPIE"
 msgid "[ATTACK_VERB:snatch at:snatches at]"
-msgstr "[ATTACK_VERB:攫取：攫取于]"
+msgstr "[ATTACK_VERB:抓住:抓住]"
 
 #: creature_birds_new.txt:3274
 msgctxt "CREATURE:BIRD_MAGPIE"
 msgid "[TLCM_NOUN:feathers:PLURAL]"
-msgstr ""
+msgstr "[TLCM_NOUN:羽毛:PLURAL]"
 
 #: creature_birds_new.txt:3277
 msgctxt "CREATURE:BIRD_MAGPIE"
 msgid "[TLCM_NOUN:skin:SINGULAR]"
-msgstr ""
+msgstr "[TLCM_NOUN:皮:SINGULAR]"
 
 #: creature_birds_new.txt:3280
 msgctxt "CREATURE:BIRD_MAGPIE"
@@ -8984,7 +8985,7 @@ msgstr "[NAME:喜鹊人:喜鹊人:喜鹊人]"
 #: creature_birds_new.txt:3302
 msgctxt "CREATURE:MAGPIE_MAN"
 msgid "[DESCRIPTION:A person with the head and wings of a magpie.]"
-msgstr ""
+msgstr "[DESCRIPTION:一个长着喜鹊脑袋和翅膀的人。]"
 
 #: creature_birds_new.txt:3318
 msgctxt "CREATURE:GIANT_MAGPIE"
@@ -8999,29 +9000,29 @@ msgstr "[CASTE_NAME:巨喜鹊:巨喜鹊:巨喜鹊]"
 #: creature_birds_new.txt:3320
 msgctxt "CREATURE:GIANT_MAGPIE"
 msgid "[GENERAL_CHILD_NAME:giant magpie hatchling:giant magpie hatchlings]"
-msgstr ""
+msgstr "[GENERAL_CHILD_NAME:巨喜鹊幼崽:巨喜鹊幼崽]"
 
 #: creature_birds_new.txt:3321
 msgctxt "CREATURE:GIANT_MAGPIE"
 msgid "[DESCRIPTION:A huge monster in the shape of a magpie.]"
-msgstr ""
+msgstr "[DESCRIPTION:一只巨大的喜鹊怪。]"
 
 #: creature_birds_new.txt:3330
 msgctxt "CREATURE:GIANT_MAGPIE"
 msgid "[PREFSTRING:intelligence]"
-msgstr ""
+msgstr "[PREFSTRING:聪慧]"
 
 #: creature_birds_new.txt:3331
 msgctxt "CREATURE:GIANT_MAGPIE"
 msgid "[PREFSTRING:fondness of shiny objects]"
-msgstr ""
+msgstr "[PREFSTRING:喜欢闪亮的物体]"
 
 #: creature_birds_new.txt:3341
 msgctxt "CREATURE:BIRD_KESTREL"
 msgid ""
 "[DESCRIPTION:A tiny bird of prey.  It hovers above the ground and swoops "
 "down to snatch rodents and mice.]"
-msgstr ""
+msgstr "[DESCRIPTION:一只小型猛禽。它在地面上空盘旋并俯冲下来捕捉啮齿动物和老鼠。]"
 
 #: creature_birds_new.txt:3342
 msgctxt "CREATURE:BIRD_KESTREL"
@@ -9036,22 +9037,22 @@ msgstr "[CASTE_NAME:茶隼:茶隼:茶隼]"
 #: creature_birds_new.txt:3344
 msgctxt "CREATURE:BIRD_KESTREL"
 msgid "[GENERAL_CHILD_NAME:kestrel chick:kestrel chicks]"
-msgstr ""
+msgstr "[GENERAL_CHILD_NAME:红隼雏鸟:红隼雏鸟]"
 
 #: creature_birds_new.txt:3371
 msgctxt "CREATURE:BIRD_KESTREL"
 msgid "[PREFSTRING:coloration]"
-msgstr ""
+msgstr "[PREFSTRING:自然花纹]"
 
 #: creature_birds_new.txt:3372
 msgctxt "CREATURE:BIRD_KESTREL"
 msgid "[PREFSTRING:hunting prowess]"
-msgstr ""
+msgstr "[PREFSTRING:狩猎能力]"
 
 #: creature_birds_new.txt:3408
 msgctxt "CREATURE:BIRD_KESTREL"
 msgid "[ATTACK_VERB:bite:bites]"
-msgstr ""
+msgstr "[ATTACK_VERB:啄;啄]"
 
 #: creature_birds_new.txt:3417
 msgctxt "CREATURE:BIRD_KESTREL"
@@ -12560,22 +12561,22 @@ msgstr ""
 #: creature_domestic.txt:1412
 msgctxt "CREATURE:WATER_BUFFALO"
 msgid "[PREFSTRING:water wallowing]"
-msgstr ""
+msgstr "[PREFSTRING:喜欢待在水中]"
 
 #: creature_domestic.txt:1453
 msgctxt "CREATURE:WATER_BUFFALO"
 msgid "[ATTACK_VERB:gore:gores]"
-msgstr ""
+msgstr "[ATTACK_VERB:顶:顶]"
 
 #: creature_domestic.txt:1460
 msgctxt "CREATURE:WATER_BUFFALO"
 msgid "[ATTACK_VERB:kick:kicks]"
-msgstr ""
+msgstr "[ATTACK_VERB:踢:踢]"
 
 #: creature_domestic.txt:1476
 msgctxt "CREATURE:WATER_BUFFALO"
 msgid "[ATTACK_VERB:bite:bites]"
-msgstr ""
+msgstr "[ATTACK_VERB:咬:咬]"
 
 #: creature_domestic.txt:1492
 msgctxt "CREATURE:WATER_BUFFALO"
@@ -12585,72 +12586,72 @@ msgstr "[CASTE_NAME:母水牛:母水牛:母水牛]"
 #: creature_domestic.txt:1496
 msgctxt "CREATURE:WATER_BUFFALO"
 msgid "[STATE_NAME:ALL_SOLID:frozen water buffalo's milk]"
-msgstr ""
+msgstr "[STATE_NAME:ALL_SOLID:冻结的水牛奶]"
 
 #: creature_domestic.txt:1497
 msgctxt "CREATURE:WATER_BUFFALO"
 msgid "[STATE_ADJ:ALL_SOLID:frozen water buffalo's milk]"
-msgstr ""
+msgstr "[STATE_ADJ:ALL_SOLID:冻结的水牛奶的]"
 
 #: creature_domestic.txt:1498
 msgctxt "CREATURE:WATER_BUFFALO"
 msgid "[STATE_NAME:LIQUID:water buffalo's milk]"
-msgstr ""
+msgstr "[STATE_NAME:LIQUID:水牛奶]"
 
 #: creature_domestic.txt:1499
 msgctxt "CREATURE:WATER_BUFFALO"
 msgid "[STATE_ADJ:LIQUID:water buffalo's milk]"
-msgstr ""
+msgstr "[STATE_ADJ:LIQUID:水牛奶]"
 
 #: creature_domestic.txt:1500
 msgctxt "CREATURE:WATER_BUFFALO"
 msgid "[STATE_NAME:GAS:boiling water buffalo's milk]"
-msgstr ""
+msgstr "[STATE_NAME:GAS:沸腾的水牛奶]"
 
 #: creature_domestic.txt:1501
 msgctxt "CREATURE:WATER_BUFFALO"
 msgid "[STATE_ADJ:GAS:boiling water buffalo's milk]"
-msgstr ""
+msgstr "[STATE_ADJ:GAS:沸腾的水牛奶的]"
 
 #: creature_domestic.txt:1505
 msgctxt "CREATURE:WATER_BUFFALO"
 msgid "[STATE_NAME:SOLID:water buffalo cheese]"
-msgstr ""
+msgstr "[STATE_NAME:SOLID:水牛奶奶酪]"
 
 #: creature_domestic.txt:1506
 msgctxt "CREATURE:WATER_BUFFALO"
 msgid "[STATE_ADJ:SOLID:water buffalo cheese]"
-msgstr ""
+msgstr "[STATE_ADJ:SOLID:水牛奶奶酪的]"
 
 #: creature_domestic.txt:1507
 msgctxt "CREATURE:WATER_BUFFALO"
 msgid "[STATE_NAME:SOLID_POWDER:water buffalo cheese powder]"
-msgstr ""
+msgstr "[STATE_NAME:SOLID_POWDER:水牛奶奶酪粉]"
 
 #: creature_domestic.txt:1508
 msgctxt "CREATURE:WATER_BUFFALO"
 msgid "[STATE_ADJ:SOLID_POWDER:water buffalo cheese powder]"
-msgstr ""
+msgstr "[STATE_ADJ:SOLID_POWDER:水牛奶奶酪粉的]"
 
 #: creature_domestic.txt:1509
 msgctxt "CREATURE:WATER_BUFFALO"
 msgid "[STATE_NAME:LIQUID:melted water buffalo cheese]"
-msgstr ""
+msgstr "[STATE_NAME:LIQUID:溶化的水牛奶奶酪]"
 
 #: creature_domestic.txt:1510
 msgctxt "CREATURE:WATER_BUFFALO"
 msgid "[STATE_ADJ:LIQUID:melted water buffalo cheese]"
-msgstr ""
+msgstr "[STATE_ADJ:LIQUID:溶化的水牛奶奶酪的]"
 
 #: creature_domestic.txt:1511
 msgctxt "CREATURE:WATER_BUFFALO"
 msgid "[STATE_NAME:GAS:boiling water buffalo cheese]"
-msgstr ""
+msgstr "[STATE_NAME:GAS:沸腾的水牛奶奶酪]"
 
 #: creature_domestic.txt:1512
 msgctxt "CREATURE:WATER_BUFFALO"
 msgid "[STATE_ADJ:GAS:boiling water buffalo cheese]"
-msgstr ""
+msgstr "[STATE_ADJ:GAS:沸腾的水牛奶奶酪的]"
 
 #: creature_domestic.txt:1515
 msgctxt "CREATURE:WATER_BUFFALO"
@@ -12660,17 +12661,17 @@ msgstr "[CASTE_NAME:公水牛:公水牛:公水牛]"
 #: creature_domestic.txt:1521
 msgctxt "CREATURE:WATER_BUFFALO"
 msgid "[TLCM_NOUN:hair:SINGULAR]"
-msgstr ""
+msgstr "[TLCM_NOUN:毛发:SINGULAR]"
 
 #: creature_domestic.txt:1524
 msgctxt "CREATURE:WATER_BUFFALO"
 msgid "[TLCM_NOUN:skin:SINGULAR]"
-msgstr ""
+msgstr "[TLCM_NOUN:皮:SINGULAR]"
 
 #: creature_domestic.txt:1527
 msgctxt "CREATURE:WATER_BUFFALO"
 msgid "[TLCM_NOUN:eyes:PLURAL]"
-msgstr ""
+msgstr "[TLCM_NOUN:眼睛:PLURAL]"
 
 #: creature_domestic.txt:1530
 msgctxt "CREATURE:REINDEER"
@@ -15495,7 +15496,7 @@ msgid ""
 "[DESCRIPTION:A medium-sized, aggressive, territorial fish.  It can be found "
 "in shallow oceanic waters, and has also been known to travel up large "
 "rivers.]"
-msgstr ""
+msgstr "[DESCRIPTION:一种中等尺寸、极具攻击性的、领地意识很强的鱼类。通常可以在浅海水域发现它们，有时也会沿大型河流逆流而上。]"
 
 #: creature_large_ocean.txt:998
 msgctxt "CREATURE:SHARK_BULL"
@@ -15540,7 +15541,7 @@ msgstr ""
 #: creature_large_ocean.txt:1076
 msgctxt "CREATURE:SHARK_REEF_BLACKTIP"
 msgid "[DESCRIPTION:A medium-sized fish found in shallow oceanic waters.]"
-msgstr ""
+msgstr "[DESCRIPTION:一种发现于浅海水域的中等尺寸鱼类。]"
 
 #: creature_large_ocean.txt:1077
 msgctxt "CREATURE:SHARK_REEF_BLACKTIP"
@@ -15593,7 +15594,7 @@ msgctxt "CREATURE:SHARK_REEF_WHITETIP"
 msgid ""
 "[DESCRIPTION:A medium-sized fish which shelters in caves on the shallow sea "
 "floor.  It hunts for food in packs but is not aggressive.]"
-msgstr ""
+msgstr "[DESCRIPTION:一种生活在浅海海底洞穴中的中等尺寸鱼类，它们成群结队的觅食，没有太大的攻击性。]"
 
 #: creature_large_ocean.txt:1157
 msgctxt "CREATURE:SHARK_REEF_WHITETIP"
@@ -15779,7 +15780,7 @@ msgstr ""
 #: creature_large_ocean.txt:1474
 msgctxt "CREATURE:FISH_SKATE_COMMON"
 msgid "[DESCRIPTION:A medium-sized, flat, bottom-dwelling fish.]"
-msgstr ""
+msgstr "[DESCRIPTION:一种中等尺寸、扁平的、生活在水底的鱼类。]"
 
 #: creature_large_ocean.txt:1475
 msgctxt "CREATURE:FISH_SKATE_COMMON"
@@ -15858,7 +15859,7 @@ msgctxt "CREATURE:FISH_STINGRAY"
 msgid ""
 "[DESCRIPTION:A medium-sized, flat fish.  It lives near the beach and will "
 "defend itself with sharp barbs.]"
-msgstr ""
+msgstr "[DESCRIPTION:一种中等尺寸的扁平鱼类，它们生活在海滩附近，会使用锋利的倒刺保护自己。]"
 
 #: creature_large_ocean.txt:1609
 msgctxt "CREATURE:FISH_STINGRAY"
@@ -15898,7 +15899,7 @@ msgstr ""
 #: creature_large_ocean.txt:1686
 msgctxt "CREATURE:FISH_COELACANTH"
 msgid "[DESCRIPTION:An elusive medium-sized fish found in coastal waters.]"
-msgstr ""
+msgstr "[DESCRIPTION:一种罕见的中等尺寸鱼类，生活在沿海水域。]"
 
 #: creature_large_ocean.txt:1687
 msgctxt "CREATURE:FISH_COELACANTH"
@@ -15989,7 +15990,7 @@ msgstr ""
 msgctxt "CREATURE:FISH_CONGER_EEL"
 msgid ""
 "[DESCRIPTION:A medium-sized, brown, snake-like fish found in ocean waters.]"
-msgstr ""
+msgstr "[DESCRIPTION:一种生活在海洋中的中等尺寸的棕色蛇形鱼类。]"
 
 #: creature_large_ocean.txt:1855
 msgctxt "CREATURE:FISH_CONGER_EEL"
@@ -16031,7 +16032,7 @@ msgctxt "CREATURE:FISH_MILKFISH"
 msgid ""
 "[DESCRIPTION:A medium-sized fish found around coasts and islands.  It is "
 "easy prey for predators.]"
-msgstr ""
+msgstr "[DESCRIPTION:一种生活在海岸及岛屿周边的中等尺寸鱼类，它们很容易成为捕食者的猎物。]"
 
 #: creature_large_ocean.txt:1924
 msgctxt "CREATURE:FISH_MILKFISH"
@@ -16076,7 +16077,7 @@ msgstr ""
 #: creature_large_ocean.txt:2012
 msgctxt "CREATURE:FISH_COD"
 msgid "[DESCRIPTION:A medium-sized oceanic fish, often hunted for its meat.]"
-msgstr ""
+msgstr "[DESCRIPTION:一种中等尺寸的海洋鱼类，经常为了获取肉类而被捕杀。]"
 
 #: creature_large_ocean.txt:2013
 msgctxt "CREATURE:FISH_COD"
@@ -16213,7 +16214,7 @@ msgctxt "CREATURE:FISH_BLUEFISH"
 msgid ""
 "[DESCRIPTION:A medium-sized oceanic fish.  It is fork-tailed and sought "
 "after for its meat.]"
-msgstr ""
+msgstr "[DESCRIPTION:一种中等尺寸的海洋鱼类，特征是尾巴分叉，它们的肉很受欢迎。]"
 
 #: creature_large_ocean.txt:2262
 msgctxt "CREATURE:FISH_BLUEFISH"

@@ -61,11 +61,9 @@
 # zz z, 2022
 # 北 萝, 2022
 # 杨 李, 2022
-# 程愉钦, 2022
 # Kerry H, 2022
 # 2 K, 2022
 # cc cc, 2022
-# whfnet <whfnet@gmail.com>, 2022
 # 墨漓 Mori, 2022
 # H_Hedgehog, 2022
 # 许威 <1975428296@qq.com>, 2022
@@ -75,12 +73,14 @@
 # 梓程 刘, 2022
 # jj z, 2022
 # 嘉杰 李, 2022
-# 铭齐 梁, 2022
 # Kagamine_Lily, 2022
+# 程愉钦, 2022
+# 铭齐 梁, 2022
+# whfnet <whfnet@gmail.com>, 2022
 # 
 msgid ""
 msgstr ""
-"Last-Translator: Kagamine_Lily, 2022\n"
+"Last-Translator: whfnet <whfnet@gmail.com>, 2022\n"
 "Language-Team: Chinese Simplified (https://www.transifex.com/dwarf-fortress-translation/teams/22396/zh-Hans/)\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -6503,11 +6503,11 @@ msgstr "死亡"
 
 #: stringdump_steam_2022_12_06.txt:1689
 msgid "Offerings from "
-msgstr "来自的产品"
+msgstr "产品源自"
 
 #: stringdump_steam_2022_12_06.txt:1690
 msgid "Imports from "
-msgstr "进口来自"
+msgstr "进口源自"
 
 #: stringdump_steam_2022_12_06.txt:1691
 msgid "Trade Agreement (Exports to "
@@ -6571,7 +6571,7 @@ msgstr "夷"
 
 #: stringdump_steam_2022_12_06.txt:1706
 msgid "Demand Tribute from "
-msgstr "要求致敬"
+msgstr "要求致敬对着"
 
 #: stringdump_steam_2022_12_06.txt:1707
 msgid "No messengers"
@@ -6691,7 +6691,7 @@ msgstr "在这个任务"
 
 #: stringdump_steam_2022_12_06.txt:1736
 msgid "be manageable from this screen."
-msgstr "可以从这个屏幕管理。"
+msgstr "可以通过这个屏幕管理。"
 
 #: stringdump_steam_2022_12_06.txt:1737
 msgid "occupation and not return.  Your new holdings will"
@@ -6888,7 +6888,7 @@ msgstr "被征服了"
 
 #: stringdump_steam_2022_12_06.txt:1786
 msgid " after a long journey from the lands of "
-msgstr "经过长途跋涉之旅"
+msgstr "经过长途跋涉之旅从"
 
 #: stringdump_steam_2022_12_06.txt:1787
 msgid " led by "
@@ -6972,7 +6972,7 @@ msgstr "未命名的重定位点"
 
 #: stringdump_steam_2022_12_06.txt:1808
 msgid " from "
-msgstr "从"
+msgstr "来自"
 
 #: stringdump_steam_2022_12_06.txt:1809
 msgid "was kidnapped"
@@ -9186,6 +9186,8 @@ msgid ""
 "lightweight [C:6:0:1]Bins[C:7:0:0] and [C:6:0:1]Barrels[C:7:0:0], but they "
 "can also be made at "
 msgstr ""
+" "
+"[C:6:0:0]木匠工坊[C:7:0:0]是制造重量轻的[C:6:0:1]储物箱[C:7:0:0]和[C:6:0:1]圆桶[C:7:0:0]最好的地方，同时这两种物品也可以被制造于"
 
 #: stringdump_steam_2022_12_06.txt:2267
 msgid ""
@@ -9193,6 +9195,8 @@ msgid ""
 " hold just about everything else except [C:6:0:1]Furniture[C:7:0:0], "
 "[C:6:0:1]Wood[C:7:0:0] and [C:6:0:1]Boulders[C:7:0:0]. "
 msgstr ""
+"(和一些其他的东西比如[C:6:0:1]沙子[C::7:0:0])。[C:6:0:1]储物箱[C:7:0:0]几乎可以放任何东西，除了[C:6:0:1]家具[C:7:0:0],[C:6:0:1]木材[C:7:0:0]"
+" 以及[C:6:0:1]岩石[C:7:0:0]. "
 
 #: stringdump_steam_2022_12_06.txt:2268
 msgid ""
@@ -9200,6 +9204,9 @@ msgid ""
 "[C:6:0:1]Barrels[C:7:0:0] are used to store [C:6:0:1]Food[C:7:0:0].  "
 "[C:6:0:1]Bags[C:7:0:0] are used to store [C:6:0:1]Seeds[C:7:0:0] "
 msgstr ""
+"[C:6:0:1]圆桶[C:7:0:0]，和 "
+"[C:6:0:1]袋子[C:7:0:0]。[C:6:0:1]圆桶[C:7:0:0]可以用来储存[C:6:0:1]食物[C:7:0:0]。[C:6:0:1]袋子[C:7:0:0]可以用来储存[C:6:0:1]种子[C:7:0:0]"
+" "
 
 #: stringdump_steam_2022_12_06.txt:2269
 msgid "You can also cause trouble if you'd like to raid your neighbors. "
@@ -9209,7 +9216,7 @@ msgstr "如果你想突袭你的邻居，你也可以制造麻烦。"
 msgid ""
 "Stolen [C:6:0:1]Artifacts[C:7:0:0] and kidnapped citizens can be recovered "
 "by preparing missions from this screen. "
-msgstr ""
+msgstr "被盗的[C:6:0:1]神器[C:7:0:0]以及被绑架的公民可以通过此屏幕上的装备任务来恢复。"
 
 #: stringdump_steam_2022_12_06.txt:2271
 msgid ""
@@ -9227,6 +9234,8 @@ msgid ""
 "if you are out of empty ones, to [C:3:0:1]Brew Drinks[C:7:0:0] if you are "
 "running low, or to [C:3:0:1]Make Five Statues[C:7:0:0] every month."
 msgstr ""
+"例如，你可以在没有空的储物箱时创建一个订单来[C:3:0:1]制作木制储物箱[C:7:0:0] ,在你快喝完酒时 "
+"[C:3:0:1]酿酒[C:7:0:0] , 或者每个月[C:3:0:1]制作5个雕像[C:7:0:0] 。"
 
 #: stringdump_steam_2022_12_06.txt:2274
 msgid ""
@@ -9238,7 +9247,7 @@ msgstr ""
 msgid ""
 "Work orders are used to automate [C:3:0:1]Tasks[C:7:0:0] in "
 "[C:6:0:0]Workshops[C:7:0:0]. "
-msgstr ""
+msgstr "[C:6:0:0]作坊[C:7:0:0]里的 [C:3:0:1]任务[C:7:0:0:0]的工作顺序是自主进行的。"
 
 #: stringdump_steam_2022_12_06.txt:2276
 msgid ""
@@ -9256,7 +9265,7 @@ msgstr ""
 msgid ""
 "Some [C:5:0:0]Administrators[C:7:0:0] will require [C:3:0:0]Offices[C:7:0:0]"
 " to perform their work. "
-msgstr ""
+msgstr "某些[C:5:0:0]管理员[C:7:0:0]类的职位会要求有一间[C:3:0:0]办公室[C:7:0:0]来更好的工作。"
 
 #: stringdump_steam_2022_12_06.txt:2279
 msgid ""
@@ -9393,7 +9402,7 @@ msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:2302
 msgid "[C:6:0:1]Ore[C:7:0:0] is mined underground, below the soil layers."
-msgstr ""
+msgstr "[C:6:0:1]矿物[C:7:0:0] 是在地下开采的，在土层之下。"
 
 #: stringdump_steam_2022_12_06.txt:2303
 msgid ""
@@ -9481,7 +9490,7 @@ msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:2317
 msgid "get it is from a [C:6:0:0]Well[C:7:0:0]. "
-msgstr ""
+msgstr "它是从一口[C:6:0:0]井[C:7:0:0]里得到的。"
 
 #: stringdump_steam_2022_12_06.txt:2318
 msgid ""
@@ -9759,7 +9768,7 @@ msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:2363
 msgid "[C:7:0:1]Guildhalls[C:7:0:0]"
-msgstr ""
+msgstr "[C:7:0:1]行会[C:7:0:0]"
 
 #: stringdump_steam_2022_12_06.txt:2364
 msgid ""
@@ -11300,7 +11309,7 @@ msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:2726
 msgid "Nickname position (legends mode)"
-msgstr ""
+msgstr "称号位置(传奇模式)"
 
 #: stringdump_steam_2022_12_06.txt:2727
 msgid "Replace all"
@@ -11360,7 +11369,7 @@ msgstr "敌对人口触发器5"
 
 #: stringdump_steam_2022_12_06.txt:2741
 msgid "Curious wilderness creatures can come to cause trouble"
-msgstr ""
+msgstr "好奇的野生动物可能会带来麻烦"
 
 #: stringdump_steam_2022_12_06.txt:2742
 msgid "Werebeasts can attack"
@@ -11404,7 +11413,7 @@ msgstr "入侵帽(正规军，攻击1)"
 
 #: stringdump_steam_2022_12_06.txt:2752
 msgid "Vampire migrant fraction (more = safer)"
-msgstr ""
+msgstr "吸血鬼移民比例（更多=更安全）"
 
 #: stringdump_steam_2022_12_06.txt:2753
 msgid "Forgotten beast wealth divisor (more = safer)"
@@ -11500,11 +11509,11 @@ msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:2776
 msgid "Minimum raids between sieges (per civ)"
-msgstr ""
+msgstr "最少攻城次数(每个文明)"
 
 #: stringdump_steam_2022_12_06.txt:2777
 msgid "Priesthood unit count"
-msgstr ""
+msgstr "祭祀单位总数"
 
 #: stringdump_steam_2022_12_06.txt:2778
 msgid "Value of temple complex"
@@ -11512,15 +11521,15 @@ msgstr "寺庙建筑群的重要性"
 
 #: stringdump_steam_2022_12_06.txt:2779
 msgid "Value of guildhall"
-msgstr "市政厅的重要性"
+msgstr "行会的价值"
 
 #: stringdump_steam_2022_12_06.txt:2780
 msgid "High priesthood unit count"
-msgstr ""
+msgstr "大祭司单位总数"
 
 #: stringdump_steam_2022_12_06.txt:2781
 msgid "Land holder production trigger "
-msgstr ""
+msgstr "土地持有人生产触发"
 
 #: stringdump_steam_2022_12_06.txt:2782
 msgid " (mods)"
@@ -11540,31 +11549,31 @@ msgstr "经济贸易触发4"
 
 #: stringdump_steam_2022_12_06.txt:2786
 msgid "Economy trade trigger 3"
-msgstr ""
+msgstr "经济贸易触发3"
 
 #: stringdump_steam_2022_12_06.txt:2787
 msgid "Land holder population trigger "
-msgstr ""
+msgstr "土地所有者人口触发"
 
 #: stringdump_steam_2022_12_06.txt:2788
 msgid "Economy trade trigger 5"
-msgstr ""
+msgstr "经济贸易触发5"
 
 #: stringdump_steam_2022_12_06.txt:2789
 msgid "Economy production trigger 5"
-msgstr ""
+msgstr "经济生产触发5"
 
 #: stringdump_steam_2022_12_06.txt:2790
 msgid "Economy production trigger 4"
-msgstr ""
+msgstr "经济生产触发4"
 
 #: stringdump_steam_2022_12_06.txt:2791
 msgid "Economy trade trigger 2"
-msgstr ""
+msgstr "经济贸易触发2"
 
 #: stringdump_steam_2022_12_06.txt:2792
 msgid "Economy trade trigger 1"
-msgstr ""
+msgstr "经济贸易触发1"
 
 #: stringdump_steam_2022_12_06.txt:2798
 msgid "Failed to open "
@@ -11580,11 +11589,11 @@ msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:2804
 msgid "Guild unit count"
-msgstr ""
+msgstr "行会单位数"
 
 #: stringdump_steam_2022_12_06.txt:2805
 msgid "Value of grand guildhall"
-msgstr "宏伟市政厅的重要性"
+msgstr "大行会的价值"
 
 #: stringdump_steam_2022_12_06.txt:2806
 msgid "Mandate period (more = fewer)"
@@ -11592,7 +11601,7 @@ msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:2807
 msgid "Grand guild unit count"
-msgstr ""
+msgstr "大行会单位数"
 
 #: stringdump_steam_2022_12_06.txt:2873
 msgid "prefs"
@@ -12916,7 +12925,7 @@ msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:3346
 msgid "a grand guildhall"
-msgstr ""
+msgstr "一个大行会"
 
 #: stringdump_steam_2022_12_06.txt:3347
 msgid "a guildhall"
@@ -13682,7 +13691,7 @@ msgstr "角"
 
 #: stringdump_steam_2022_12_06.txt:3545
 msgid "Merchants from "
-msgstr "来自的商人"
+msgstr "商人来于"
 
 #: stringdump_steam_2022_12_06.txt:3546
 msgid "All tasks"
@@ -15052,7 +15061,7 @@ msgstr "位置不明"
 
 #: stringdump_steam_2022_12_06.txt:3886
 msgid " guildhall"
-msgstr "会馆"
+msgstr "行会"
 
 #: stringdump_steam_2022_12_06.txt:3887
 msgid "Hospital"
@@ -15296,7 +15305,7 @@ msgstr "致力于"
 
 #: stringdump_steam_2022_12_06.txt:3947
 msgid " Guildhall"
-msgstr "行会厅"
+msgstr "行会"
 
 #: stringdump_steam_2022_12_06.txt:3948
 msgid "exchange with"
@@ -15308,7 +15317,7 @@ msgstr "没有特别的神性"
 
 #: stringdump_steam_2022_12_06.txt:3950
 msgid "No established guild"
-msgstr "无已创建的公会"
+msgstr "无已创建的行会"
 
 #: stringdump_steam_2022_12_06.txt:3951
 msgid " worker"
@@ -15340,11 +15349,11 @@ msgstr "你需要一个"
 
 #: stringdump_steam_2022_12_06.txt:3958
 msgid "Guildhall, "
-msgstr "行会厅，"
+msgstr "行会，"
 
 #: stringdump_steam_2022_12_06.txt:3959
 msgid "Grand Guildhall, "
-msgstr "堂皇的行会厅，"
+msgstr "大行会，"
 
 #: stringdump_steam_2022_12_06.txt:3960
 msgid "Only organized religions can have recognized priesthoods."
@@ -15364,11 +15373,11 @@ msgstr "公共区域的桌子："
 
 #: stringdump_steam_2022_12_06.txt:3964
 msgid "Agreed to build guildhall"
-msgstr "同意建立行会厅"
+msgstr "同意建立行会"
 
 #: stringdump_steam_2022_12_06.txt:3965
 msgid "Agreed to build grand guildhall"
-msgstr "同意建立堂皇的行会厅"
+msgstr "同意建立大行会"
 
 #: stringdump_steam_2022_12_06.txt:3966
 msgid "Cloth (Desired): "
@@ -15492,7 +15501,7 @@ msgstr "门/盖板"
 
 #: stringdump_steam_2022_12_06.txt:3996
 msgid "New guildhall"
-msgstr "新建行会厅"
+msgstr "新建行会"
 
 #: stringdump_steam_2022_12_06.txt:3997
 msgid "New hospital"
@@ -15560,7 +15569,7 @@ msgstr "没有工人"
 
 #: stringdump_steam_2022_12_06.txt:4013
 msgid "Guild:"
-msgstr "公会："
+msgstr "行会："
 
 #: stringdump_steam_2022_12_06.txt:4014
 msgid "and libraries can be created from"
@@ -18914,7 +18923,7 @@ msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:4758
 msgid " - mine rock underground"
-msgstr ""
+msgstr " -开采地下岩石"
 
 #: stringdump_steam_2022_12_06.txt:4759
 msgid " - chop down trees"
@@ -19206,7 +19215,7 @@ msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:4834
 msgid " guild."
-msgstr "公会。"
+msgstr "行会。"
 
 #: stringdump_steam_2022_12_06.txt:4835
 msgid "with the hall designated for a"
@@ -24324,7 +24333,7 @@ msgstr "这家医院"
 
 #: stringdump_steam_2022_12_06.txt:6121
 msgid "this guildhall"
-msgstr "这个市政厅"
+msgstr "这个行会"
 
 #: stringdump_steam_2022_12_06.txt:6122
 msgid ""
@@ -25511,7 +25520,7 @@ msgstr "我会让你冷静下来！"
 
 #: stringdump_steam_2022_12_06.txt:6416
 msgid "  Get away from me!"
-msgstr "远离我！"
+msgstr "离我远点儿！"
 
 #: stringdump_steam_2022_12_06.txt:6417
 msgid ""
@@ -25885,7 +25894,7 @@ msgstr "好吧，我相信......一些别的。"
 
 #: stringdump_steam_2022_12_06.txt:6509
 msgid "demand a portion of the official funds from "
-msgstr ""
+msgstr "索求一部分官方资金从"
 
 #: stringdump_steam_2022_12_06.txt:6510
 msgid "I asked that "
@@ -26069,7 +26078,7 @@ msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:6555
 msgid "I demand a portion of the official funds from "
-msgstr ""
+msgstr "我索求一部分官方资金从"
 
 #: stringdump_steam_2022_12_06.txt:6556
 msgid " look past illicit acts"
@@ -28287,7 +28296,7 @@ msgstr "地牢囚室"
 
 #: stringdump_steam_2022_12_06.txt:7115
 msgid "Guildhall Storage"
-msgstr ""
+msgstr "行会存储"
 
 #: stringdump_steam_2022_12_06.txt:7116
 msgid "Market Stall"
@@ -28315,7 +28324,7 @@ msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:7122
 msgid "Guildhall Offices"
-msgstr ""
+msgstr "行会办公室"
 
 #: stringdump_steam_2022_12_06.txt:7123
 msgid "Noble quarters"
@@ -29667,7 +29676,7 @@ msgstr "塔楼"
 
 #: stringdump_steam_2022_12_06.txt:7548
 msgid "the guildhall"
-msgstr "市政厅"
+msgstr "行会"
 
 #: stringdump_steam_2022_12_06.txt:7549
 msgid "the dining hall"
@@ -29699,7 +29708,7 @@ msgstr "就在这附近"
 
 #: stringdump_steam_2022_12_06.txt:7556
 msgid "The guildhall"
-msgstr "市政厅"
+msgstr "行会"
 
 #: stringdump_steam_2022_12_06.txt:7557
 msgid "the"
@@ -34950,7 +34959,7 @@ msgstr "被忽视"
 
 #: stringdump_steam_2022_12_06.txt:8847
 msgid "The guildhall petition for "
-msgstr ""
+msgstr "行会的请求"
 
 #: stringdump_steam_2022_12_06.txt:8848
 msgid " was abandoned."
@@ -37753,7 +37762,7 @@ msgstr "这是一个邪恶的地方。"
 
 #: stringdump_steam_2022_12_06.txt:9588
 msgid "That place is blessed."
-msgstr "那个地方很幸运。"
+msgstr "那个地方被祝福了。"
 
 #: stringdump_steam_2022_12_06.txt:9589
 msgid "  It is rumored that the dead rise and stalk the living!"
@@ -51134,7 +51143,7 @@ msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:16181
 msgid "from afar"
-msgstr ""
+msgstr "从此以后"
 
 #: stringdump_steam_2022_12_06.txt:16182
 msgid "cut of corrupt funds"
@@ -51832,23 +51841,23 @@ msgstr "搜查"
 
 #: stringdump_steam_2022_12_06.txt:16356
 msgid "seized livestock from"
-msgstr "从中查获牲畜"
+msgstr "查获牲畜从"
 
 #: stringdump_steam_2022_12_06.txt:16357
 msgid "stole livestock from"
-msgstr "从中偷走了牲畜"
+msgstr "偷走了牲畜从"
 
 #: stringdump_steam_2022_12_06.txt:16358
 msgid "looted treasure from"
-msgstr "从中抢劫的宝藏"
+msgstr "抢劫的宝藏从"
 
 #: stringdump_steam_2022_12_06.txt:16359
 msgid "stole treasure from"
-msgstr "从中偷走了宝藏"
+msgstr "偷走了宝藏从"
 
 #: stringdump_steam_2022_12_06.txt:16360
 msgid "looted treasure and seized livestock from"
-msgstr "抢劫财宝并查获牲畜"
+msgstr "抢劫财宝并查获牲畜从"
 
 #: stringdump_steam_2022_12_06.txt:16361
 msgid "writing of a masterpiece"
@@ -52044,7 +52053,7 @@ msgstr "颁布了一系列压迫性法律"
 
 #: stringdump_steam_2022_12_06.txt:16409
 msgid " lifted numerous oppressive laws from "
-msgstr "解除了许多压迫性的法律"
+msgstr "解除了许多压迫性的法律从"
 
 #: stringdump_steam_2022_12_06.txt:16410
 msgid " laid a series of oppressive edicts upon "
@@ -52113,7 +52122,7 @@ msgstr "并接管了"
 
 #: stringdump_steam_2022_12_06.txt:16426
 msgid " tribute from "
-msgstr "致敬"
+msgstr "致敬来自"
 
 #: stringdump_steam_2022_12_06.txt:16427
 msgid " Winter"
@@ -52149,23 +52158,23 @@ msgstr "所有"
 
 #: stringdump_steam_2022_12_06.txt:16435
 msgid ", to be delivered from "
-msgstr "，交付"
+msgstr "，交付通过"
 
 #: stringdump_steam_2022_12_06.txt:16436
 msgid " secured tribute from "
-msgstr "得到了致敬"
+msgstr "得到了致敬来自"
 
 #: stringdump_steam_2022_12_06.txt:16437
 msgid " tried to secure tribute from "
-msgstr "试图从中获得致敬"
+msgstr "试图获取致敬从"
 
 #: stringdump_steam_2022_12_06.txt:16438
 msgid " demanded and received treasure from "
-msgstr "要求并从中获得宝藏"
+msgstr "索求并获得宝藏从"
 
 #: stringdump_steam_2022_12_06.txt:16439
 msgid " demanded treasure from "
-msgstr "要求宝藏来自"
+msgstr "索求宝藏从"
 
 #: stringdump_steam_2022_12_06.txt:16440
 msgid " abandoned the settlement of "
@@ -52413,7 +52422,7 @@ msgstr "制定一系列压迫性法律"
 
 #: stringdump_steam_2022_12_06.txt:16501
 msgid "the lifting of numerous oppressive laws from "
-msgstr "解除了许多压迫性的法律"
+msgstr "解除了许多压迫性的法律从"
 
 #: stringdump_steam_2022_12_06.txt:16502
 msgid "the proclamation of a series of oppressive edicts upon "
@@ -52729,7 +52738,7 @@ msgstr "回归"
 
 #: stringdump_steam_2022_12_06.txt:16580
 msgid "the escape from "
-msgstr "逃避"
+msgstr "逃脱于"
 
 #: stringdump_steam_2022_12_06.txt:16582
 msgid " made a journey to "
@@ -52737,7 +52746,7 @@ msgstr "走了一段路"
 
 #: stringdump_steam_2022_12_06.txt:16583
 msgid " escaped from "
-msgstr "逃脱了"
+msgstr "逃离了"
 
 #: stringdump_steam_2022_12_06.txt:16584
 msgid " own mortality and sought to extend "
@@ -52973,7 +52982,7 @@ msgstr "不管后者的伤口"
 
 #: stringdump_steam_2022_12_06.txt:16642
 msgid " was forced to retreat from "
-msgstr "被迫退出"
+msgstr "被迫退出于"
 
 #: stringdump_steam_2022_12_06.txt:16643
 msgid "'s onslaught"
@@ -52981,7 +52990,7 @@ msgstr "的猛攻"
 
 #: stringdump_steam_2022_12_06.txt:16644
 msgid " managed to escape from "
-msgstr "设法逃脱"
+msgstr "设法逃脱于"
 
 #: stringdump_steam_2022_12_06.txt:16645
 msgid ".  While defeated, the latter escaped unscathed"
@@ -53573,7 +53582,7 @@ msgstr "致死"
 
 #: stringdump_steam_2022_12_06.txt:16792
 msgid "the career change from "
-msgstr "职业生涯的转变"
+msgstr "职业生涯的转变源自"
 
 #: stringdump_steam_2022_12_06.txt:16793
 msgid "the thievery"
@@ -54061,7 +54070,7 @@ msgstr "教"
 
 #: stringdump_steam_2022_12_06.txt:16914
 msgid "escaped from"
-msgstr "逃脱了"
+msgstr "逃离了"
 
 #: stringdump_steam_2022_12_06.txt:16915
 msgid "moved out of"
@@ -54229,7 +54238,7 @@ msgstr "开始闲逛"
 
 #: stringdump_steam_2022_12_06.txt:16956
 msgid "ruled from"
-msgstr "统治自"
+msgstr "统治于"
 
 #: stringdump_steam_2022_12_06.txt:16957
 msgid "started working at"
@@ -55405,7 +55414,7 @@ msgstr "渗透计谋"
 
 #: stringdump_steam_2022_12_06.txt:17250
 msgid "an agreement to establish a guildhall"
-msgstr "建立公会的协定"
+msgstr "建立行会的协议"
 
 #: stringdump_steam_2022_12_06.txt:17251
 msgid "an agreement to establish a temple"
@@ -55709,19 +55718,19 @@ msgstr "身体"
 
 #: stringdump_steam_2022_12_06.txt:17326
 msgid "the rejection of an offer of peace from "
-msgstr "拒绝提供和平"
+msgstr "拒绝一份和平提议与"
 
 #: stringdump_steam_2022_12_06.txt:17327
 msgid " rejected an offer of peace from "
-msgstr "拒绝了和平的提议"
+msgstr "拒绝了和平的提议与"
 
 #: stringdump_steam_2022_12_06.txt:17328
 msgid "the acceptance of an offer of peace from "
-msgstr "接受和平的提议"
+msgstr "接受和平的提议与"
 
 #: stringdump_steam_2022_12_06.txt:17329
 msgid " accepted an offer of peace from "
-msgstr "接受了和平的提议"
+msgstr "接受了和平的提议与"
 
 #: stringdump_steam_2022_12_06.txt:17330
 msgid "the dispute between "
@@ -55785,15 +55794,15 @@ msgstr "显示在"
 
 #: stringdump_steam_2022_12_06.txt:17345
 msgid "construction of a gruesome sculpture from"
-msgstr "建造一个令人毛骨悚然的雕塑"
+msgstr "建造一个令人毛骨悚然的雕塑在"
 
 #: stringdump_steam_2022_12_06.txt:17346
 msgid "construction of a grotesque pillar from"
-msgstr "建造一个怪诞的支柱"
+msgstr "建造一个怪诞的支柱在"
 
 #: stringdump_steam_2022_12_06.txt:17347
 msgid "construction of a grisly mound from"
-msgstr "建造一个可怕的土墩"
+msgstr "建造一个可怕的土墩在"
 
 #: stringdump_steam_2022_12_06.txt:17348
 msgid "impalement on "
@@ -55937,7 +55946,7 @@ msgstr "一种诗意的形式"
 
 #: stringdump_steam_2022_12_06.txt:17383
 msgid "merchants from "
-msgstr "来自的商人"
+msgstr "商人来于"
 
 #: stringdump_steam_2022_12_06.txt:17384
 msgid " delivered tribute to "
@@ -55945,7 +55954,7 @@ msgstr "致敬"
 
 #: stringdump_steam_2022_12_06.txt:17385
 msgid "a caravan from "
-msgstr "来自的大篷车"
+msgstr "大篷车来于"
 
 #: stringdump_steam_2022_12_06.txt:17386
 msgid " crafts"
@@ -56473,7 +56482,7 @@ msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:17518
 msgid " group from "
-msgstr "来自"
+msgstr "团体来于"
 
 #: stringdump_steam_2022_12_06.txt:17519
 msgid " merchant company from "
@@ -56481,7 +56490,7 @@ msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:17520
 msgid " collection of outcasts from "
-msgstr "收集被遗弃的人"
+msgstr "放逐者的集团来自"
 
 #: stringdump_steam_2022_12_06.txt:17521
 msgid " performance troupe from "
@@ -58382,11 +58391,11 @@ msgstr "原料为"
 
 #: stringdump_steam_2022_12_06.txt:19221
 msgid "The handle is made from "
-msgstr "手柄由。制成"
+msgstr "手柄的材料是"
 
 #: stringdump_steam_2022_12_06.txt:19222
 msgid "The rollers are made from "
-msgstr "辊子由"
+msgstr "滚筒的材料为"
 
 #: stringdump_steam_2022_12_06.txt:19223
 msgid "The rope is "
@@ -59761,7 +59770,7 @@ msgstr "更新库存记录"
 
 #: stringdump_steam_2022_12_06.txt:19683
 msgid "Interrogate "
-msgstr ""
+msgstr "审问"
 
 #: stringdump_steam_2022_12_06.txt:19684
 msgid "Unchain pet"
@@ -59833,7 +59842,7 @@ msgstr "剪断"
 
 #: stringdump_steam_2022_12_06.txt:19701
 msgid "Process plants (vial)"
-msgstr ""
+msgstr "加工植物(小瓶)"
 
 #: stringdump_steam_2022_12_06.txt:19702
 msgid "Make cheese"
@@ -59841,11 +59850,11 @@ msgstr "制作奶酪"
 
 #: stringdump_steam_2022_12_06.txt:19703
 msgid "Make lye"
-msgstr ""
+msgstr "制作碱液"
 
 #: stringdump_steam_2022_12_06.txt:19704
 msgid "Process plants (barrel)"
-msgstr ""
+msgstr "加工植物(圆桶)"
 
 #: stringdump_steam_2022_12_06.txt:19705
 msgid "Make potash from ash"
@@ -59873,7 +59882,7 @@ msgstr "准备丰盛的大餐"
 
 #: stringdump_steam_2022_12_06.txt:19711
 msgid "Extract from land animal"
-msgstr ""
+msgstr "提取陆地动物油"
 
 #: stringdump_steam_2022_12_06.txt:19712
 msgid "Extract from raw fish"
@@ -60825,7 +60834,7 @@ msgstr "会计室"
 
 #: stringdump_steam_2022_12_06.txt:21265
 msgid "Guildhall"
-msgstr "市政厅"
+msgstr "行会"
 
 #: stringdump_steam_2022_12_06.txt:21266
 msgid "Market"
@@ -61235,7 +61244,7 @@ msgstr "医院"
 
 #: stringdump_steam_2022_12_06.txt:21370
 msgid "guildhall"
-msgstr "会馆"
+msgstr "行会"
 
 #: stringdump_steam_2022_12_06.txt:21371
 msgid "dark tower"
@@ -63927,7 +63936,7 @@ msgstr "泰坦号码"
 
 #: stringdump_steam_2022_12_06.txt:22687
 msgid "Number of Werebeast Curse Types"
-msgstr ""
+msgstr "兽人诅咒类型的数量"
 
 #: stringdump_steam_2022_12_06.txt:22688
 msgid "Werebeast Attack Population Rating"
@@ -64051,7 +64060,7 @@ msgstr "最小中间排水广场数量"
 
 #: stringdump_steam_2022_12_06.txt:22769
 msgid "LARGE ISLAND"
-msgstr ""
+msgstr "巨大的岛屿"
 
 #: stringdump_steam_2022_12_06.txt:22770
 msgid "LARGE REGION"
@@ -64301,7 +64310,7 @@ msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:22871
 msgid "SMALLER ISLAND"
-msgstr "小岛屿"
+msgstr "非常小的岛屿"
 
 #: stringdump_steam_2022_12_06.txt:22872
 msgid "SMALLER REGION"
@@ -64317,7 +64326,7 @@ msgstr "口袋区域"
 
 #: stringdump_steam_2022_12_06.txt:22875
 msgid "MEDIUM ISLAND"
-msgstr ""
+msgstr "中等岛屿"
 
 #: stringdump_steam_2022_12_06.txt:22876
 msgid "MEDIUM REGION"
@@ -64325,7 +64334,7 @@ msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:22877
 msgid "SMALL ISLAND"
-msgstr ""
+msgstr "小岛屿"
 
 #: stringdump_steam_2022_12_06.txt:22878
 msgid "SMALL REGION"
@@ -70233,7 +70242,7 @@ msgstr "尝试建造一家屠宰作坊建筑并宰杀一些牲畜。"
 #: stringdump_steam_2022_12_06.txt:24490
 msgid ""
 "  Are your farmplots working?  Make sure you are planting edible plants."
-msgstr "你的农田在工作吗？确保你种下的是可食用的植物。"
+msgstr "你的耕地在工作吗？确保你种下的是可食用的植物。"
 
 #: stringdump_steam_2022_12_06.txt:24491
 msgid "  Perhaps you can gather plants, fruit, or go fishing."
@@ -70247,16 +70256,16 @@ msgstr "你有牲畜要宰杀吗？"
 msgid ""
 "Congratulations!  (You should be proud of your accomplishment.  Embark in a "
 "world with the deepest cavern layers for further challenges.)"
-msgstr ""
+msgstr "祝贺你!(你应该为你的成就感到骄傲。踏上一个拥有最深洞穴层的世界迎接进一步的挑战。)"
 
 #: stringdump_steam_2022_12_06.txt:24494
 msgid "Deeper. We must dig deeper."
-msgstr ""
+msgstr "更深。我们必须挖得更深。"
 
 #: stringdump_steam_2022_12_06.txt:24495
 msgid ""
 "  Consider placing a farmplot on some underground soil and planting seeds."
-msgstr ""
+msgstr "考虑在地下土壤上种植一块耕地并播种。"
 
 #: stringdump_steam_2022_12_06.txt:24496
 msgid "Your fortress is out of food!"
@@ -70270,11 +70279,11 @@ msgstr ""
 msgid ""
 "Although it is a grim reminder of the winter hardships to come, the supply "
 "caravan from "
-msgstr ""
+msgstr "虽然这是一个严峻的提醒，艰苦的冬天即将到来，补给车队从"
 
 #: stringdump_steam_2022_12_06.txt:24499
 msgid "craftsmen"
-msgstr ""
+msgstr "手艺人"
 
 #: stringdump_steam_2022_12_06.txt:24500
 msgid ""
@@ -70284,11 +70293,11 @@ msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:24501
 msgid "A mandate has ended."
-msgstr ""
+msgstr "一个任期结束了。"
 
 #: stringdump_steam_2022_12_06.txt:24502
 msgid " has ended a mandate."
-msgstr ""
+msgstr "结束了一个任期。"
 
 #: stringdump_steam_2022_12_06.txt:24503
 msgid "The annual tribute from "
@@ -70300,17 +70309,17 @@ msgstr "马车路径灾难"
 
 #: stringdump_steam_2022_12_06.txt:24505
 msgid " guild, has been established."
-msgstr ""
+msgstr "行会，已经建立。"
 
 #: stringdump_steam_2022_12_06.txt:24506
 msgid " has been abandoned."
-msgstr ""
+msgstr "被遗弃了。"
 
 #: stringdump_steam_2022_12_06.txt:24507
 msgid ""
 "Congratulations! This fortress is now a Mountainhome, proof that any "
 "suggestion of hubris was childish nonsense. "
-msgstr ""
+msgstr "祝贺你!这个要塞现在是一个山居了，你证明了任何傲慢的建议都和小孩子过家家一样。"
 
 #: stringdump_steam_2022_12_06.txt:24508
 msgid " has been missing for a week."
@@ -70352,7 +70361,7 @@ msgstr "在我们挖出地狱最后一个宝藏之前这个传说都不会结束
 msgid ""
 "And a true ruler requires seven symbols, symbols not of this world. Mere "
 "steel will not suffice. "
-msgstr ""
+msgstr "一个真正的统治者需要七个标志，不属于这个世界的标志。光有钢铁是不够的。"
 
 #: stringdump_steam_2022_12_06.txt:24517
 msgid "The gods surely want you to dig deeper still!"
@@ -70360,7 +70369,7 @@ msgstr "众神肯定希望你更深入地挖掘！"
 
 #: stringdump_steam_2022_12_06.txt:24518
 msgid "What are a few pesky demons after all?"
-msgstr ""
+msgstr "几个讨厌的恶魔到底是什么?"
 
 #: stringdump_steam_2022_12_06.txt:24519
 msgid " is satisfied with their position here. "
@@ -70408,7 +70417,7 @@ msgstr "将很快离开。"
 
 #: stringdump_steam_2022_12_06.txt:24530
 msgid "The merchants from "
-msgstr "来自的商人"
+msgstr "商人来自"
 
 #: stringdump_steam_2022_12_06.txt:24531
 msgid ""
@@ -70419,7 +70428,7 @@ msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:24532
 msgid "The fortress attracted no migrants this season."
-msgstr "堡垒本赛季没有吸引移民。"
+msgstr "这个季度堡垒没有吸引移民。"
 
 #: stringdump_steam_2022_12_06.txt:24533
 msgid "No "
@@ -70427,7 +70436,7 @@ msgstr "没有"
 
 #: stringdump_steam_2022_12_06.txt:24534
 msgid " diplomat from "
-msgstr ""
+msgstr "外交官来自"
 
 #: stringdump_steam_2022_12_06.txt:24540
 msgid " have embarked on their journey."
@@ -70483,15 +70492,15 @@ msgstr "这个季节，移民们拒绝前往如此危险和悲惨的堡垒。"
 msgid ""
 "No one even considered making the journey to such a miserable hellhole this "
 "season."
-msgstr "甚至没有人考虑在这个时期去一个如此悲惨的地狱。"
+msgstr "甚至没有人考虑在这个季度去一个如此悲惨的地狱。"
 
 #: stringdump_steam_2022_12_06.txt:24552
 msgid "Others were too wary to make the journey."
-msgstr ""
+msgstr "其他人太谨慎了，不敢出行。"
 
 #: stringdump_steam_2022_12_06.txt:24553
 msgid "Migrants were too wary to make the journey this season."
-msgstr ""
+msgstr "移民们谨慎了，无法在这个季节出行。"
 
 #: stringdump_steam_2022_12_06.txt:24554
 msgid "Migrants refused to journey to this unhappy fortress this season."
@@ -70586,11 +70595,11 @@ msgstr "其他人太紧张焦虑，无法前往这座悲惨的堡垒。"
 
 #: stringdump_steam_2022_12_06.txt:24575
 msgid "Your ruler has arrived, dressed as a peasant!"
-msgstr ""
+msgstr "你的统治者来了，你得穿得像个农民！"
 
 #: stringdump_steam_2022_12_06.txt:24576
 msgid "Their wagons have bypassed your inaccessible site."
-msgstr ""
+msgstr "他们的马车绕过了你的禁区。"
 
 #: stringdump_steam_2022_12_06.txt:24577
 msgid ""
@@ -70605,11 +70614,11 @@ msgstr "一些移民决定勇敢面对这个可怕的地方，因为他们知道
 
 #: stringdump_steam_2022_12_06.txt:24579
 msgid "Take careful stock of your own stores. "
-msgstr ""
+msgstr "仔细盘点你的贮藏。"
 
 #: stringdump_steam_2022_12_06.txt:24580
 msgid "caravan from "
-msgstr "来自的大篷车"
+msgstr "大篷车来自"
 
 #: stringdump_steam_2022_12_06.txt:24581
 msgid ""
@@ -72714,7 +72723,7 @@ msgstr "穿过"
 
 #: stringdump_steam_2022_12_06.txt:25115
 msgid " away from the "
-msgstr ""
+msgstr "远离"
 
 #: stringdump_steam_2022_12_06.txt:25116
 msgid " skip"
@@ -72870,7 +72879,7 @@ msgstr "八度范围"
 
 #: stringdump_steam_2022_12_06.txt:25254
 msgid "going from "
-msgstr "来自"
+msgstr "出发于"
 
 #: stringdump_steam_2022_12_06.txt:25255
 msgid " nearly "
@@ -73078,7 +73087,7 @@ msgstr "半透明金属"
 
 #: stringdump_steam_2022_12_06.txt:25537
 msgid "cursed"
-msgstr ""
+msgstr "诅咒"
 
 #: stringdump_steam_2022_12_06.txt:25538
 msgid "evil"
@@ -73366,7 +73375,7 @@ msgstr "恶劣"
 
 #: stringdump_steam_2022_12_06.txt:25655
 msgid "accursed"
-msgstr ""
+msgstr "被诅咒的"
 
 #: stringdump_steam_2022_12_06.txt:25659
 msgid "vapor"
@@ -75742,7 +75751,7 @@ msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:26823
 msgid "it murmurs horrible curses"
-msgstr ""
+msgstr "它发出喃喃地可怕的诅咒"
 
 #: stringdump_steam_2022_12_06.txt:26824
 msgid "it has a gaunt appearance"
@@ -75946,39 +75955,39 @@ msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:26874
 msgid "  Beware its deadly spittle!"
-msgstr ""
+msgstr "当心这是致命的唾液!"
 
 #: stringdump_steam_2022_12_06.txt:26875
 msgid "  Beware its noxious secretions!"
-msgstr ""
+msgstr "当心这是有毒分泌物!"
 
 #: stringdump_steam_2022_12_06.txt:26876
 msgid "  Beware its poisonous vapors!"
-msgstr ""
+msgstr "当心这是有毒蒸汽!"
 
 #: stringdump_steam_2022_12_06.txt:26877
 msgid "  Beware its poisonous gas!"
-msgstr ""
+msgstr "当心这是有毒气体!"
 
 #: stringdump_steam_2022_12_06.txt:26878
 msgid "  Beware its webs!"
-msgstr ""
+msgstr "当心这是蛛网!"
 
 #: stringdump_steam_2022_12_06.txt:26879
 msgid "  Beware its deadly dust!"
-msgstr ""
+msgstr "当心这是致命粉尘!"
 
 #: stringdump_steam_2022_12_06.txt:26880
 msgid "  Beware its hunger for warm blood!"
-msgstr ""
+msgstr "当心这是对温血的饥渴!"
 
 #: stringdump_steam_2022_12_06.txt:26881
 msgid "  Beware its fire!"
-msgstr ""
+msgstr "当心这是火!"
 
 #: stringdump_steam_2022_12_06.txt:26888
 msgid "  Beware its deadly blood!"
-msgstr ""
+msgstr "当心这是致命的失血!"
 
 #: stringdump_steam_2022_12_06.txt:26890
 msgid " through the fiend's chaotic power"
@@ -76014,11 +76023,11 @@ msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:26898
 msgid "  Beware its poisonous sting!"
-msgstr ""
+msgstr "当心这是带毒的蛰伤!"
 
 #: stringdump_steam_2022_12_06.txt:26899
 msgid "  Beware its poisonous bite!"
-msgstr ""
+msgstr "当心这是带毒的咬伤!"
 
 #: stringdump_steam_2022_12_06.txt:26900
 msgid " and is of a part with "
@@ -77180,23 +77189,23 @@ msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:27642
 msgid "[IS_TRIGGER_STRING:been blessed with holy headwear!]"
-msgstr ""
+msgstr "[IS_TRIGGER_STRING:被神圣头装祝福!]"
 
 #: stringdump_steam_2022_12_06.txt:27643
 msgid "[IS_TRIGGER_STRING:been blessed with holy handwear!]"
-msgstr ""
+msgstr "[IS_TRIGGER_STRING:被神圣手装祝福!]"
 
 #: stringdump_steam_2022_12_06.txt:27644
 msgid "[IS_TRIGGER_STRING:been blessed with holy bodywear!]"
-msgstr ""
+msgstr "[IS_TRIGGER_STRING:被神圣体装祝福!]"
 
 #: stringdump_steam_2022_12_06.txt:27645
 msgid "[IS_TRIGGER_STRING:been blessed with holy legwear!]"
-msgstr ""
+msgstr "[IS_TRIGGER_STRING:被神圣腿装祝福!]"
 
 #: stringdump_steam_2022_12_06.txt:27647
 msgid "[IS_TRIGGER_STRING:been blessed with a holy weapon!]"
-msgstr ""
+msgstr "[IS_TRIGGER_STRING:被圣武器祝福!]"
 
 #: stringdump_steam_2022_12_06.txt:27654
 msgid "[IT_MANUAL_INPUT:recipient]"
@@ -77204,15 +77213,15 @@ msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:27656
 msgid "[IS_TRIGGER_STRING:been blessed with holy footwear!]"
-msgstr ""
+msgstr "[IS_TRIGGER_STRING:被神圣足装祝福!]"
 
 #: stringdump_steam_2022_12_06.txt:27657
 msgid "[IS_TRIGGER_STRING:been blessed with a holy shield!]"
-msgstr ""
+msgstr "[IS_TRIGGER_STRING:被圣盾祝福!]"
 
 #: stringdump_steam_2022_12_06.txt:27658
 msgid "[CDI:ADV_NAME:Curse]"
-msgstr ""
+msgstr "[CDI:ADV_NAME:诅咒]"
 
 #: stringdump_steam_2022_12_06.txt:27663
 msgid "[CE_DISPLAY_NAME:NAME:mummy:mummies:mummified:START:0:ABRUPT]"
@@ -77220,7 +77229,7 @@ msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:27666
 msgid "[IE_ARENA_NAME:Cursed]"
-msgstr ""
+msgstr "[IE_ARENA_NAME:诅咒]"
 
 #: stringdump_steam_2022_12_06.txt:27671
 msgid "[CDI:TARGET_VERB:feel horrible:looks horrible]"
@@ -77268,24 +77277,24 @@ msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:27718
 msgid "[IS_TRIGGER_STRING:been cursed with a week's bad luck!]"
-msgstr ""
+msgstr "[IS_TRIGGER_STRING:被祝福了，会走一周的霉运!]"
 
 #: stringdump_steam_2022_12_06.txt:27724
 msgid "[IS_TRIGGER_STRING:been blessed with a week's good fortune!]"
-msgstr ""
+msgstr "[IS_TRIGGER_STRING:被祝福了，会走一周的好运!]"
 
 #: stringdump_steam_2022_12_06.txt:27736
 msgid ""
 "[IS_TRIGGER_STRING:been cursed, for one week, to know life as a beast!]"
-msgstr ""
+msgstr "[IS_TRIGGER_STRING:被诅咒，维持一周，像野兽一样生活!]"
 
 #: stringdump_steam_2022_12_06.txt:27741
 msgid "[IS_TRIGGER_STRING:been granted healing!]"
-msgstr ""
+msgstr "[IS_TRIGGER_STRING:被治愈了!]"
 
 #: stringdump_steam_2022_12_06.txt:27755
 msgid "[IS_TRIGGER_STRING:been blessed with a pet!]"
-msgstr ""
+msgstr "[IS_TRIGGER_STRING:被一只的宠物祝福!]"
 
 #: stringdump_steam_2022_12_06.txt:27756
 msgid "[IS_TRIGGER_STRING:been blessed with improved equipment!]"
@@ -77338,7 +77347,7 @@ msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:27805
 msgid "[IS_TRIGGER_STRING:been cursed to prowl the night in search of blood!]"
-msgstr ""
+msgstr "[IS_TRIGGER_STRING:被诅咒在夜晚徘徊寻找鲜血!]"
 
 #: stringdump_steam_2022_12_06.txt:27808
 msgid "[IS_HIST_STRING_2:, passing on the "
@@ -77350,7 +77359,7 @@ msgstr "怪物诅咒]"
 
 #: stringdump_steam_2022_12_06.txt:27816
 msgid "[IS_HIST_STRING_2: and was cursed]"
-msgstr ""
+msgstr "[IS_HIST_STRING_2:且被诅咒了]"
 
 #: stringdump_steam_2022_12_06.txt:27817
 msgid "[IE_ARENA_NAME:Vampire]"
@@ -77358,7 +77367,7 @@ msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:27818
 msgid "-like monster every full moon!]"
-msgstr ""
+msgstr "-在每个圆月如同怪物!]"
 
 #: stringdump_steam_2022_12_06.txt:27820
 msgid "-like monster every full moon]"
@@ -77366,11 +77375,11 @@ msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:27821
 msgid "[IS_TRIGGER_STRING:been cursed to assume the form of a "
-msgstr ""
+msgstr "[IS_TRIGGER_STRING:被诅咒成了一个"
 
 #: stringdump_steam_2022_12_06.txt:27822
 msgid "[IS_HIST_STRING_1: cursed ]"
-msgstr ""
+msgstr "[IS_HIST_STRING_1:诅咒]"
 
 #: stringdump_steam_2022_12_06.txt:27823
 msgid "[IS_HIST_STRING_2: to assume the form of a "
@@ -78845,7 +78854,7 @@ msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:28348
 msgid "the classification of bodily fluids"
-msgstr ""
+msgstr "体液的分类"
 
 #: stringdump_steam_2022_12_06.txt:28349
 msgid "anesthesia"
@@ -78901,7 +78910,7 @@ msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:28362
 msgid "the distinction between motor and sensory nerves"
-msgstr ""
+msgstr "运动和感觉神经的区别"
 
 #: stringdump_steam_2022_12_06.txt:28363
 msgid "the surgical method of probing"
@@ -78909,7 +78918,7 @@ msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:28364
 msgid "the surgical method of suturing"
-msgstr ""
+msgstr "缝合手术方法"
 
 #: stringdump_steam_2022_12_06.txt:28365
 msgid "the surgical method of scraping"
@@ -78917,7 +78926,7 @@ msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:28366
 msgid "the surgical method of draining"
-msgstr "排水手术方法"
+msgstr "引流手术方法"
 
 #: stringdump_steam_2022_12_06.txt:28367
 msgid "the tracheotomy surgery"
@@ -78933,7 +78942,7 @@ msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:28370
 msgid "hernia surgery"
-msgstr ""
+msgstr "疝气手术"
 
 #: stringdump_steam_2022_12_06.txt:28371
 msgid "the construction and use of forceps"
@@ -78941,7 +78950,7 @@ msgstr "镊子的构造和使用"
 
 #: stringdump_steam_2022_12_06.txt:28372
 msgid "the construction and use of the scalpel"
-msgstr ""
+msgstr "手术刀的结构和使用"
 
 #: stringdump_steam_2022_12_06.txt:28373
 msgid "the use of animals as surgical models"
@@ -81601,7 +81610,7 @@ msgstr "会计室"
 
 #: stringdump_steam_2022_12_06.txt:29041
 msgid "the Guildhall"
-msgstr "市政厅"
+msgstr "行会"
 
 #: stringdump_steam_2022_12_06.txt:29042
 msgid "the Artifact"
@@ -86030,7 +86039,7 @@ msgstr "地下生活（20,50,30）"
 
 #: stringdump_steam_2022_12_06.txt:30284
 msgid "underground guilds (20,100,20)"
-msgstr "地下工会 (20,100,20)"
+msgstr "地下行会 (20,100,20)"
 
 #: stringdump_steam_2022_12_06.txt:30285
 msgid "bone carver shop (128,255,255)"
@@ -88131,7 +88140,7 @@ msgstr "无效的办公室"
 
 #: stringdump_steam_2022_12_06.txt:36701
 msgid "\"Farewell!\"  Leaving"
-msgstr "“永别了！”?离开"
+msgstr "“永别了！”离开"
 
 #: stringdump_steam_2022_12_06.txt:36702
 msgid "Attacking building"
@@ -89035,7 +89044,7 @@ msgstr "小偷！别让那些渣滓染手宝库！"
 
 #: stringdump_steam_2022_12_06.txt:36928
 msgid "An ambush!  Skulking vermin!"
-msgstr "埋伏！躲藏害虫！"
+msgstr "埋伏！躲躲藏藏的害虫！"
 
 #: stringdump_steam_2022_12_06.txt:36929
 msgid "Intruders!  Drive them away!"
@@ -89047,7 +89056,7 @@ msgstr "穴居人！ 把他们赶回黑暗！"
 
 #: stringdump_steam_2022_12_06.txt:36931
 msgid "!  Drive it away!"
-msgstr "! 赶走吧！"
+msgstr "! 赶走它！"
 
 #: stringdump_steam_2022_12_06.txt:36932
 msgid "Snatcher!  Protect the children!"
@@ -89059,7 +89068,7 @@ msgstr "埋伏！诅咒所有大自然的朋友！"
 
 #: stringdump_steam_2022_12_06.txt:36934
 msgid "An ambush!  Curse them!"
-msgstr "敌人摸进来了！诅咒他们！"
+msgstr "埋伏！诅咒他们！"
 
 #: stringdump_steam_2022_12_06.txt:36935
 msgid "Horrors!  Demons in the deep!"
@@ -89087,7 +89096,7 @@ msgstr "“我会活着战斗到明天！”"
 
 #: stringdump_steam_2022_12_06.txt:36941
 msgid "An ambush!  Drive them out!"
-msgstr "敌人摸进来了！赶跑他们！"
+msgstr "埋伏！赶跑他们！"
 
 #: stringdump_steam_2022_12_06.txt:36942
 msgid " was spotted sneaking around!"
