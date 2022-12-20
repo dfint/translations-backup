@@ -9,10 +9,13 @@
 # Patrick Hadasch, 2022
 # Jan S, 2022
 # Thomas Schampera, 2022
+# TheDuplex, 2022
+# Stephan Bülling, 2022
+# Jonas Graap, 2022
 # 
 msgid ""
 msgstr ""
-"Last-Translator: Thomas Schampera, 2022\n"
+"Last-Translator: Jonas Graap, 2022\n"
 "Language-Team: German (https://www.transifex.com/dwarf-fortress-translation/teams/22396/de/)\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -21545,6 +21548,7 @@ msgstr "[NAME:zweihöckriges Kamel:zweihöckrige Kamele:zweihöckriges Kamel]"
 msgctxt "CREATURE:CAMEL_2_HUMP"
 msgid "[CASTE_NAME:two-humped camel:two-humped camels:two-humped camel]"
 msgstr ""
+"[CASTE_NAME:zweihöckriges Kamel:zweihöckrige Kamele:zweihöckriges Kamel]"
 
 #: creature_large_tropical.txt:2763
 msgctxt "CREATURE:CAMEL_2_HUMP"
@@ -24045,6 +24049,9 @@ msgid ""
 "[DESCRIPTION:A huge monster that lurks in caverns deep under the earth.  It "
 "uses its wide beak to reach down and pluck up unsuspecting intruders.]"
 msgstr ""
+"[DESCRIPTION:Ein riesiges Ungetüm, das in Höhlen tief unter der Erde lauert."
+" Es nutzt seinen langen Schnabel, um nach unten zu schnappen und ahnungslose"
+" Eindringlinge zu verschlingen.]"
 
 #: creature_next_underground.txt:1645
 msgctxt "CREATURE:JABBERER"
@@ -24514,6 +24521,9 @@ msgid ""
 "[DESCRIPTION:A small humanoid resembling a walking mushroom with arms and "
 "legs.  It lives far underground near water and soil.]"
 msgstr ""
+"[DESCRIPTION:Ein kleines humanoides Wesen das einem laufenden Pilz mit Armen"
+" und Beinen ähnelt. Es lebt tief im Untergrund in der Nähe von Wasser und "
+"Schlamm.]"
 
 #: creature_next_underground.txt:2409
 msgctxt "CREATURE:PLUMP_HELMET_MAN"
@@ -29006,7 +29016,7 @@ msgstr "[ATTACK_VERB:beißen:beißt]"
 #: creature_small_ocean.txt:1469
 msgctxt "CREATURE:SQUID"
 msgid "[STATE_NAME:ALL_SOLID:frozen squid ink]"
-msgstr ""
+msgstr "[STATE_NAME:ALL_SOLID:gefrorene Tintenfisch-Tinte]"
 
 #: creature_small_ocean.txt:1470
 msgctxt "CREATURE:SQUID"
@@ -29016,7 +29026,7 @@ msgstr ""
 #: creature_small_ocean.txt:1471
 msgctxt "CREATURE:SQUID"
 msgid "[STATE_NAME:LIQUID:squid ink]"
-msgstr ""
+msgstr "[STATE_NAME:LIQUID: Tintenfisch Tinte]"
 
 #: creature_small_ocean.txt:1472
 msgctxt "CREATURE:SQUID"
@@ -32217,7 +32227,7 @@ msgstr "[PREFSTRING:Klappern und Klicken]"
 #: creature_standard.txt:4423
 msgctxt "CREATURE:BEAK_DOG"
 msgid "[PREFSTRING:hunched backs]"
-msgstr ""
+msgstr "[PREFSTRING:Bucklige Rücken]"
 
 #: creature_standard.txt:4424
 msgctxt "CREATURE:BEAK_DOG"
@@ -37330,12 +37340,12 @@ msgstr ""
 #: creature_tropical_new.txt:607
 msgctxt "CREATURE:KING_COBRA"
 msgid "[NAME:king cobra:king cobras:king cobra]"
-msgstr ""
+msgstr "[NAME:Königskobra:Königskobras:Königskobra]"
 
 #: creature_tropical_new.txt:608
 msgctxt "CREATURE:KING_COBRA"
 msgid "[CASTE_NAME:king cobra:king cobras:king cobra]"
-msgstr ""
+msgstr "[CASTE_NAME:Königskobra:Königskobras:Königskobra]"
 
 #: creature_tropical_new.txt:620
 msgctxt "CREATURE:KING_COBRA"
@@ -37355,22 +37365,22 @@ msgstr "[STATE_ADJ:ALL_SOLID:Gefrorenes Königskobra-Gift]"
 #: creature_tropical_new.txt:653
 msgctxt "CREATURE:KING_COBRA"
 msgid "[STATE_NAME:LIQUID:king cobra venom]"
-msgstr ""
+msgstr "[STATE_NAME:LIQUID: Königskobra-Gift]"
 
 #: creature_tropical_new.txt:654
 msgctxt "CREATURE:KING_COBRA"
 msgid "[STATE_ADJ:LIQUID:king cobra venom]"
-msgstr ""
+msgstr "[STATE_ADJ:LIQUID:Königskobra-Gift]"
 
 #: creature_tropical_new.txt:655
 msgctxt "CREATURE:KING_COBRA"
 msgid "[STATE_NAME:GAS:boiling king cobra venom]"
-msgstr ""
+msgstr "[STATE_NAME:GAS:Kochendes Königskobra-Gift]"
 
 #: creature_tropical_new.txt:656
 msgctxt "CREATURE:KING_COBRA"
 msgid "[STATE_ADJ:GAS:boiling king cobra venom]"
-msgstr ""
+msgstr "[STATE_ADJ:GAS:Kochendes Königskobra-Gift]"
 
 #: creature_tropical_new.txt:660
 msgctxt "CREATURE:KING_COBRA"
@@ -37395,7 +37405,7 @@ msgstr "[TLCM_NOUN:Augen:PLURAL]"
 #: creature_tropical_new.txt:714
 msgctxt "CREATURE:KING_COBRA_MAN"
 msgid "[CVCT_TARGET:king cobra]"
-msgstr ""
+msgstr "[CVCT_TARGET:Königskobra]"
 
 #: creature_tropical_new.txt:715
 msgctxt "CREATURE:KING_COBRA_MAN"
@@ -37421,21 +37431,23 @@ msgstr ""
 msgctxt "CREATURE:KING_COBRA_MAN"
 msgid "[DESCRIPTION:A legless person with the head and tail of a king cobra.]"
 msgstr ""
+"[DESCRIPTION:Eine beinlose Person mit dem Kopf und Schwanz einer "
+"Königskobra]"
 
 #: creature_tropical_new.txt:755
 msgctxt "CREATURE:GIANT_KING_COBRA"
 msgid "[CVCT_TARGET:king cobra]"
-msgstr ""
+msgstr "[CVCT_TARGET:Königskobra]"
 
 #: creature_tropical_new.txt:756
 msgctxt "CREATURE:GIANT_KING_COBRA"
 msgid "[CVCT_REPLACEMENT:giant king cobra]"
-msgstr ""
+msgstr "[CVCT_REPLACEMENT:riesige Königskobra]"
 
 #: creature_tropical_new.txt:777
 msgctxt "CREATURE:GIANT_KING_COBRA"
 msgid "[NAME:giant king cobra:giant king cobras:giant king cobra]"
-msgstr ""
+msgstr "[NAME:riesige Königskobra:riesige Königskobras:riesige Königskobra]"
 
 #: creature_tropical_new.txt:778
 msgctxt "CREATURE:GIANT_KING_COBRA"
@@ -37456,21 +37468,23 @@ msgstr "[PREFSTRING:charmante Haube]"
 msgctxt "CREATURE:OCELOT"
 msgid "[DESCRIPTION:A small cat-like creature found in the jungle.]"
 msgstr ""
+"[DESCRIPTION:Eine kleine katzenartige Kreatur, die im Dschungel zu finden "
+"ist.]"
 
 #: creature_tropical_new.txt:799
 msgctxt "CREATURE:OCELOT"
 msgid "[NAME:ocelot:ocelots:ocelot]"
-msgstr ""
+msgstr "[NAME:Ozelot:Ozelots:Ozelot]"
 
 #: creature_tropical_new.txt:800
 msgctxt "CREATURE:OCELOT"
 msgid "[CASTE_NAME:ocelot:ocelots:ocelot]"
-msgstr ""
+msgstr "[CASTE_NAME:Ozelot:Ozelots:Ozelot]"
 
 #: creature_tropical_new.txt:801
 msgctxt "CREATURE:OCELOT"
 msgid "[GENERAL_CHILD_NAME:ocelot kitten:ocelot kittens]"
-msgstr ""
+msgstr "[GENERAL_CHILD_NAME:Ozelot Kätzchen:Ozelot Kätzchen]"
 
 #: creature_tropical_new.txt:817
 msgctxt "CREATURE:OCELOT"
@@ -54796,27 +54810,27 @@ msgstr ""
 #: plant_standard.txt:2439
 msgctxt "PLANT:PALM"
 msgid "[NAME:coconut palm]"
-msgstr ""
+msgstr "[NAME:Kokosnuss-Palme]"
 
 #: plant_standard.txt:2439
 msgctxt "PLANT:PALM"
 msgid "[NAME_PLURAL:coconut palms]"
-msgstr ""
+msgstr "[NAME_PLURAL:Kokosnuss-Palmen]"
 
 #: plant_standard.txt:2439
 msgctxt "PLANT:PALM"
 msgid "[ADJ:coconut palm]"
-msgstr ""
+msgstr "[ADJ:Kokosnuss-Palme]"
 
 #: plant_standard.txt:2443
 msgctxt "PLANT:PALM"
 msgid "[STATE_NAME:ALL_SOLID:coconut palm]"
-msgstr ""
+msgstr "[STATE_NAME:ALL_SOLID:Kokosnuss-Palme]"
 
 #: plant_standard.txt:2444
 msgctxt "PLANT:PALM"
 msgid "[STATE_ADJ:ALL_SOLID:coconut palm]"
-msgstr ""
+msgstr "[STATE_ADJ:ALL_SOLID:Kokosnuss-Palme]"
 
 #: plant_standard.txt:2472
 msgctxt "PLANT:PALM"
@@ -54841,7 +54855,7 @@ msgstr "[GROWTH_NAME:Kokosnuss:STP]"
 #: reaction_adv_carpenter.txt:6
 msgctxt "REACTION:MAKE WOODEN CHAIR"
 msgid "[NAME:make wooden chair]"
-msgstr ""
+msgstr "[NAME:Holz Stuhl herstellen]"
 
 #: reaction_adv_carpenter.txt:9
 msgctxt "REACTION:MAKE WOODEN CHAIR"
@@ -54874,11 +54888,13 @@ msgid ""
 "[CATEGORY_DESCRIPTION:Make furniture at a carpenter's workshop using logs "
 "and a sharp tool.]"
 msgstr ""
+"[CATEGORY_DESCRIPTION:Stelle Möbel mithilfe von Baumstämmen und scharfen "
+"Werkzeugen in einer Tischler Werkstatt her.]"
 
 #: reaction_adv_carpenter.txt:21
 msgctxt "REACTION:MAKE WOODEN TABLE"
 msgid "[NAME:make wooden table]"
-msgstr ""
+msgstr "[NAME:Holz Tisch herstellen]"
 
 #: reaction_adv_carpenter.txt:24
 msgctxt "REACTION:MAKE WOODEN TABLE"
@@ -54898,12 +54914,12 @@ msgstr "[PRODUCT:100:1:TABLE:NONE:GET_MATERIAL_FROM_REAGENT:Baumstamm:]"
 #: reaction_adv_carpenter.txt:29
 msgctxt "REACTION:MAKE WOODEN TABLE"
 msgid "[PRODUCT_TOKEN:table]"
-msgstr ""
+msgstr "[PRODUCT_TOKEN:Tisch]"
 
 #: reaction_adv_carpenter.txt:34
 msgctxt "REACTION:MAKE WOODEN BED"
 msgid "[NAME:make wooden bed]"
-msgstr ""
+msgstr "[NAME:Holz Bett herstellen]"
 
 #: reaction_adv_carpenter.txt:37
 msgctxt "REACTION:MAKE WOODEN BED"
@@ -54923,12 +54939,12 @@ msgstr "[PRODUCT:100:1:BED:NONE:GET_MATERIAL_FROM_REAGENT:Baumstamm:]"
 #: reaction_adv_carpenter.txt:42
 msgctxt "REACTION:MAKE WOODEN BED"
 msgid "[PRODUCT_TOKEN:bed]"
-msgstr ""
+msgstr "[PRODUCT_TOKEN:Bett]"
 
 #: reaction_adv_carpenter.txt:47
 msgctxt "REACTION:MAKE WOODEN CHEST"
 msgid "[NAME:make wooden chest]"
-msgstr ""
+msgstr "[NAME:Holz Kiste herstellen]"
 
 #: reaction_adv_carpenter.txt:50
 msgctxt "REACTION:MAKE WOODEN CHEST"
@@ -54948,12 +54964,12 @@ msgstr "[PRODUCT:100:1:BOX:NONE:GET_MATERIAL_FROM_REAGENT:Baumstamm:]"
 #: reaction_adv_carpenter.txt:55
 msgctxt "REACTION:MAKE WOODEN CHEST"
 msgid "[PRODUCT_TOKEN:chest]"
-msgstr ""
+msgstr "[PRODUCT_TOKEN:Kiste]"
 
 #: reaction_adv_carpenter.txt:60
 msgctxt "REACTION:MAKE WOODEN CABINET"
 msgid "[NAME:make wooden cabinet]"
-msgstr ""
+msgstr "[NAME:Holz Schrank herstellen]"
 
 #: reaction_adv_carpenter.txt:63
 msgctxt "REACTION:MAKE WOODEN CABINET"
@@ -54973,12 +54989,12 @@ msgstr "[PRODUCT:100:1:CABINET:NONE:GET_MATERIAL_FROM_REAGENT:Baumstamm:]"
 #: reaction_adv_carpenter.txt:68
 msgctxt "REACTION:MAKE WOODEN CABINET"
 msgid "[PRODUCT_TOKEN:cabinet]"
-msgstr ""
+msgstr "[PRODUCT_TOKEN:Schrank]"
 
 #: reaction_adv_carpenter.txt:73
 msgctxt "REACTION:MAKE WOODEN DOOR"
 msgid "[NAME:make wooden door]"
-msgstr ""
+msgstr "[NAME:Holz Tür herstellen]"
 
 #: reaction_adv_carpenter.txt:76
 msgctxt "REACTION:MAKE WOODEN DOOR"
@@ -54998,12 +55014,12 @@ msgstr "[PRODUCT:100:1:DOOR:NONE:GET_MATERIAL_FROM_REAGENT:Baumstamm:]"
 #: reaction_adv_carpenter.txt:81
 msgctxt "REACTION:MAKE WOODEN DOOR"
 msgid "[PRODUCT_TOKEN:door]"
-msgstr ""
+msgstr "[PRODUCT_TOKEN:Tür]"
 
 #: reaction_adv_carpenter.txt:86
 msgctxt "REACTION:MAKE WOODEN BARREL"
 msgid "[NAME:make wooden barrel]"
-msgstr ""
+msgstr "[NAME:Holz Fass herstellen]"
 
 #: reaction_adv_carpenter.txt:89
 msgctxt "REACTION:MAKE WOODEN BARREL"
@@ -55023,12 +55039,12 @@ msgstr "[PRODUCT:100:1:BARREL:NONE:GET_MATERIAL_FROM_REAGENT:Baumstamm:]"
 #: reaction_adv_carpenter.txt:94
 msgctxt "REACTION:MAKE WOODEN BARREL"
 msgid "[PRODUCT_TOKEN:barrel]"
-msgstr ""
+msgstr "[PRODUCT_TOKEN:Fass]"
 
 #: reaction_adv_carpenter.txt:99
 msgctxt "REACTION:MAKE WOODEN BUCKET"
 msgid "[NAME:make wooden bucket]"
-msgstr ""
+msgstr "[NAME:Holz Eimer herstellen]"
 
 #: reaction_adv_carpenter.txt:102
 msgctxt "REACTION:MAKE WOODEN BUCKET"
@@ -55048,12 +55064,12 @@ msgstr "[PRODUCT:100:1:BUCKET:NONE:GET_MATERIAL_FROM_REAGENT:Baumstamm:]"
 #: reaction_adv_carpenter.txt:107
 msgctxt "REACTION:MAKE WOODEN BUCKET"
 msgid "[PRODUCT_TOKEN:bucket]"
-msgstr ""
+msgstr "[PRODUCT_TOKEN:Eimer]"
 
 #: reaction_adv_carpenter.txt:112
 msgctxt "REACTION:MAKE WOODEN CASKET"
 msgid "[NAME:make wooden casket]"
-msgstr ""
+msgstr "[NAME:Holz Schatulle herstellen]"
 
 #: reaction_adv_carpenter.txt:115
 msgctxt "REACTION:MAKE WOODEN CASKET"
@@ -55073,12 +55089,12 @@ msgstr "[PRODUCT:100:1:COFFIN:NONE:GET_MATERIAL_FROM_REAGENT:Baumstamm:]"
 #: reaction_adv_carpenter.txt:120
 msgctxt "REACTION:MAKE WOODEN CASKET"
 msgid "[PRODUCT_TOKEN:casket]"
-msgstr ""
+msgstr "[PRODUCT_TOKEN:Schatulle]"
 
 #: reaction_adv_carpenter.txt:125
 msgctxt "REACTION:MAKE WOODEN HATCH COVER"
 msgid "[NAME:make wooden hatch cover]"
-msgstr ""
+msgstr "[NAME:Holz Lukendeckel herstellen]"
 
 #: reaction_adv_carpenter.txt:128
 msgctxt "REACTION:MAKE WOODEN HATCH COVER"
@@ -55098,12 +55114,12 @@ msgstr "[PRODUCT:100:1:HATCH_COVER:NONE:GET_MATERIAL_FROM_REAGENT:Baumstamm:]"
 #: reaction_adv_carpenter.txt:133
 msgctxt "REACTION:MAKE WOODEN HATCH COVER"
 msgid "[PRODUCT_TOKEN:hatch cover]"
-msgstr ""
+msgstr "[PRODUCT_TOKEN:Lukendeckel]"
 
 #: reaction_adv_carpenter.txt:138
 msgctxt "REACTION:MAKE WOODEN GRATE"
 msgid "[NAME:make wooden grate]"
-msgstr ""
+msgstr "[NAME:Holz Gitter herstellen]"
 
 #: reaction_adv_carpenter.txt:141
 msgctxt "REACTION:MAKE WOODEN GRATE"
@@ -55123,12 +55139,12 @@ msgstr "[PRODUCT:100:1:GRATE:NONE:GET_MATERIAL_FROM_REAGENT:Baumstamm:]"
 #: reaction_adv_carpenter.txt:146
 msgctxt "REACTION:MAKE WOODEN GRATE"
 msgid "[PRODUCT_TOKEN:grate]"
-msgstr ""
+msgstr "[PRODUCT_TOKEN:Gitter]"
 
 #: reaction_adv_carpenter.txt:151
 msgctxt "REACTION:MAKE WOODEN BIN"
 msgid "[NAME:make wooden bin]"
-msgstr ""
+msgstr "[NAME:Holz Kiste herstellen]"
 
 #: reaction_adv_carpenter.txt:154
 msgctxt "REACTION:MAKE WOODEN BIN"
@@ -55148,7 +55164,7 @@ msgstr "[PRODUCT:100:1:BIN:NONE:GET_MATERIAL_FROM_REAGENT:Baumstamm:]"
 #: reaction_adv_carpenter.txt:159
 msgctxt "REACTION:MAKE WOODEN BIN"
 msgid "[PRODUCT_TOKEN:bin]"
-msgstr ""
+msgstr "[PRODUCT_TOKEN:Kiste]"
 
 #: reaction_adv_carpenter.txt:164
 msgctxt "REACTION:MAKE WOODEN STEPLADDER"
@@ -55206,7 +55222,7 @@ msgstr "[PRODUCT_TOKEN:Bücherregal]"
 #: reaction_adv_carpenter.txt:190
 msgctxt "REACTION:MAKE WOODEN SPLINT"
 msgid "[NAME:make wooden splint]"
-msgstr ""
+msgstr "[NAME:Holz Schiene herstellen]"
 
 #: reaction_adv_carpenter.txt:193
 msgctxt "REACTION:MAKE WOODEN SPLINT"
@@ -55226,12 +55242,12 @@ msgstr "[PRODUCT:100:1:SPLINT:NONE:GET_MATERIAL_FROM_REAGENT:Baumstamm:]"
 #: reaction_adv_carpenter.txt:198
 msgctxt "REACTION:MAKE WOODEN SPLINT"
 msgid "[PRODUCT_TOKEN:splint]"
-msgstr ""
+msgstr "[PRODUCT_TOKEN:Schiene]"
 
 #: reaction_adv_carpenter.txt:203
 msgctxt "REACTION:MAKE WOODEN CRUTCH"
 msgid "[NAME:make wooden crutch]"
-msgstr ""
+msgstr "[NAME:Holz Krücke herstellen]"
 
 #: reaction_adv_carpenter.txt:206
 msgctxt "REACTION:MAKE WOODEN CRUTCH"
@@ -55251,7 +55267,7 @@ msgstr "[PRODUCT:100:1:CRUTCH:NONE:GET_MATERIAL_FROM_REAGENT:Baumstamm:]"
 #: reaction_adv_carpenter.txt:211
 msgctxt "REACTION:MAKE WOODEN CRUTCH"
 msgid "[PRODUCT_TOKEN:crutch]"
-msgstr ""
+msgstr "[PRODUCT_TOKEN:Krücke]"
 
 #: reaction_adv_carpenter.txt:216
 msgctxt "REACTION:MAKE WOODEN SHIELD"
@@ -55283,7 +55299,7 @@ msgstr "[PRODUCT_TOKEN:Schild]"
 #: reaction_adv_carpenter.txt:229
 msgctxt "REACTION:MAKE WOODEN BUCKLER"
 msgid "[NAME:make wooden buckler]"
-msgstr ""
+msgstr "[NAME:Holz Buckler herstellen]"
 
 #: reaction_adv_carpenter.txt:232
 msgctxt "REACTION:MAKE WOODEN BUCKLER"
@@ -55310,7 +55326,7 @@ msgstr "[PRODUCT_TOKEN:Buckler]"
 #: reaction_adv_carpenter.txt:242
 msgctxt "REACTION:MAKE WOODEN TRAINING AXE"
 msgid "[NAME:make wooden training axe]"
-msgstr ""
+msgstr "[NAME:Holz Übungsaxt herstellen]"
 
 #: reaction_adv_carpenter.txt:245
 msgctxt "REACTION:MAKE WOODEN TRAINING AXE"
@@ -55337,7 +55353,7 @@ msgstr "[PRODUCT_TOKEN:Axt]"
 #: reaction_adv_carpenter.txt:255
 msgctxt "REACTION:MAKE WOODEN TRAINING SHORT SWORD"
 msgid "[NAME:make wooden training short sword]"
-msgstr ""
+msgstr "[NAME:Holz Übungskurzschwert herstellen]"
 
 #: reaction_adv_carpenter.txt:258
 msgctxt "REACTION:MAKE WOODEN TRAINING SHORT SWORD"
@@ -55364,7 +55380,7 @@ msgstr "[PRODUCT_TOKEN:Schwert]"
 #: reaction_adv_carpenter.txt:268
 msgctxt "REACTION:MAKE WOODEN TRAINING SPEAR"
 msgid "[NAME:make wooden training spear]"
-msgstr ""
+msgstr "[NAME:Holz Übungsspeer herstellen]"
 
 #: reaction_adv_carpenter.txt:271
 msgctxt "REACTION:MAKE WOODEN TRAINING SPEAR"
@@ -55442,7 +55458,7 @@ msgstr "[REAGENT:Laugenbottich:]"
 #: reaction_other.txt:31
 msgctxt "REACTION:MAKE_SOAP_FROM_TALLOW"
 msgid "[CONTAINS:lye]"
-msgstr ""
+msgstr "[CONTAINS:Lauge]"
 
 #: reaction_other.txt:34
 msgctxt "REACTION:MAKE_SOAP_FROM_TALLOW"
@@ -55472,7 +55488,7 @@ msgstr "[REAGENT:Laugenbottich:]"
 #: reaction_other.txt:45
 msgctxt "REACTION:MAKE_SOAP_FROM_OIL"
 msgid "[CONTAINS:lye]"
-msgstr ""
+msgstr "[CONTAINS:Lauge]"
 
 #: reaction_other.txt:48
 msgctxt "REACTION:MAKE_SOAP_FROM_OIL"
@@ -55502,12 +55518,12 @@ msgstr ""
 #: reaction_other.txt:68
 msgctxt "REACTION:MAKE_PLASTER_POWDER"
 msgid "[NAME:make plaster powder]"
-msgstr ""
+msgstr "[NAME:Gipspulver herstellen]"
 
 #: reaction_other.txt:77
 msgctxt "REACTION:MAKE_SHARP_ROCK"
 msgid "[NAME:make sharp rock]"
-msgstr ""
+msgstr "[NAME:Scharfen Stein herstellen]"
 
 #: reaction_other.txt:79
 msgctxt "REACTION:MAKE_SHARP_ROCK"
@@ -55542,7 +55558,7 @@ msgstr "[PRODUCT:100:1:GLOB:NONE:GET_MATERIAL_FROM_REAGENT:Samen:]"
 #: reaction_other.txt:94
 msgctxt "REACTION:MAKE_CLAY_JUG"
 msgid "[NAME:make clay jug]"
-msgstr ""
+msgstr "[NAME:Tonkanne herstellen]"
 
 #: reaction_other.txt:96
 msgctxt "REACTION:MAKE_CLAY_JUG"
@@ -55557,7 +55573,7 @@ msgstr "[PRODUCT:100:1:TOOL:ITEM_TOOL_JUG:GET_MATERIAL_FROM_REAGENT:Lehm:]"
 #: reaction_other.txt:103
 msgctxt "REACTION:MAKE_CLAY_BRICKS"
 msgid "[NAME:make clay bricks]"
-msgstr ""
+msgstr "[NAME:Tonziegel herstellen]"
 
 #: reaction_other.txt:105
 msgctxt "REACTION:MAKE_CLAY_BRICKS"
@@ -55572,7 +55588,7 @@ msgstr "[PRODUCT:100:1:BLOCKS:NONE:GET_MATERIAL_FROM_REAGENT:Lehm:]"
 #: reaction_other.txt:112
 msgctxt "REACTION:MAKE_CLAY_STATUE"
 msgid "[NAME:make clay statue]"
-msgstr ""
+msgstr "[NAME:Tonstatue herstellen]"
 
 #: reaction_other.txt:114
 msgctxt "REACTION:MAKE_CLAY_STATUE"
@@ -55587,7 +55603,7 @@ msgstr "[PRODUCT:100:1:STATUE:NONE:GET_MATERIAL_FROM_REAGENT:Lehm:]"
 #: reaction_other.txt:121
 msgctxt "REACTION:MAKE_LARGE_CLAY_POT"
 msgid "[NAME:make large clay pot]"
-msgstr ""
+msgstr "[NAME:Tonkrug herstellen]"
 
 #: reaction_other.txt:123
 msgctxt "REACTION:MAKE_LARGE_CLAY_POT"
@@ -55689,7 +55705,7 @@ msgstr "[REAGENT:Glasur:]"
 #: reaction_other.txt:190
 msgctxt "REACTION:GLAZE_CRAFT"
 msgid "[REAGENT:craft:]"
-msgstr ""
+msgstr "[REAGENT:Herstellen:]"
 
 #: reaction_other.txt:195
 msgctxt "REACTION:GLAZE_CRAFT"
@@ -55719,7 +55735,7 @@ msgstr "[PRODUCT:100:1:LIQUID_MISC:NONE:GET_MATERIAL_FROM_REAGENT:paste:]"
 #: reaction_other.txt:211
 msgctxt "REACTION:PRESS_OIL"
 msgid "[PRODUCT_TO_CONTAINER:liquid container]"
-msgstr ""
+msgstr "[PRODUCT_TO_CONTAINER:Flüssigkeitsbehälter]"
 
 #: reaction_other.txt:212
 msgctxt "REACTION:PRESS_OIL"
@@ -55729,7 +55745,7 @@ msgstr "[PRODUCT:100:1:GLOB:NONE:GET_MATERIAL_FROM_REAGENT:paste:]"
 #: reaction_other.txt:216
 msgctxt "REACTION:PRESS_OIL_FRUIT"
 msgid "[NAME:press liquid from fruit]"
-msgstr ""
+msgstr "[NAME:Presse Flüssigkeit aus Früchten]"
 
 #: reaction_other.txt:218
 msgctxt "REACTION:PRESS_OIL_FRUIT"
@@ -55749,7 +55765,7 @@ msgstr "[PRODUCT:100:1:LIQUID_MISC:NONE:GET_MATERIAL_FROM_REAGENT:Pflanze:]"
 #: reaction_other.txt:228
 msgctxt "REACTION:PRESS_OIL_FRUIT"
 msgid "[PRODUCT_TO_CONTAINER:liquid container]"
-msgstr ""
+msgstr "[PRODUCT_TO_CONTAINER:Flüssigkeitsbehälter]"
 
 #: reaction_other.txt:229
 msgctxt "REACTION:PRESS_OIL_FRUIT"
@@ -55774,7 +55790,7 @@ msgstr "[PRODUCT:100:1:TOOL:ITEM_TOOL_HIVE:GET_MATERIAL_FROM_REAGENT:Lehm:]"
 #: reaction_other.txt:242
 msgctxt "REACTION:PRESS_HONEYCOMB"
 msgid "[NAME:press honey from honeycomb]"
-msgstr ""
+msgstr "[NAME:Honig aus Honigwaben pressen]"
 
 #: reaction_other.txt:244
 msgctxt "REACTION:PRESS_HONEYCOMB"
@@ -55794,7 +55810,7 @@ msgstr "[PRODUCT:100:1:LIQUID_MISC:NONE:GET_MATERIAL_FROM_REAGENT:honeycomb:]"
 #: reaction_other.txt:253
 msgctxt "REACTION:PRESS_HONEYCOMB"
 msgid "[PRODUCT_TO_CONTAINER:liquid container]"
-msgstr ""
+msgstr "[PRODUCT_TO_CONTAINER:Flüssigkeitsbehälter]"
 
 #: reaction_other.txt:254
 msgctxt "REACTION:PRESS_HONEYCOMB"
@@ -55819,7 +55835,7 @@ msgstr "[PRODUCT:100:1:CRAFTS:NONE:GET_MATERIAL_FROM_REAGENT:Wachs:]"
 #: reaction_other.txt:266
 msgctxt "REACTION:BREW_DRINK_FROM_PLANT"
 msgid "[NAME:brew drink from plant]"
-msgstr ""
+msgstr "[NAME:Getränk aus Pflanzen brauen]"
 
 #: reaction_other.txt:268
 msgctxt "REACTION:BREW_DRINK_FROM_PLANT"
@@ -55829,7 +55845,7 @@ msgstr "[REAGENT:Pflanze:]"
 #: reaction_other.txt:271
 msgctxt "REACTION:BREW_DRINK_FROM_PLANT"
 msgid "[REAGENT:barrel/pot:]"
-msgstr ""
+msgstr "[REAGENT:Fass/Krug;]"
 
 #: reaction_other.txt:276
 msgctxt "REACTION:BREW_DRINK_FROM_PLANT"
@@ -55839,7 +55855,7 @@ msgstr "[PRODUCT:100:5:DRINK:NONE:GET_MATERIAL_FROM_REAGENT:Pflanze:]"
 #: reaction_other.txt:277
 msgctxt "REACTION:BREW_DRINK_FROM_PLANT"
 msgid "[PRODUCT_TO_CONTAINER:barrel/pot]"
-msgstr ""
+msgstr "[PRODUCT_TO_CONTAINER:Fass/Krug]"
 
 #: reaction_other.txt:279
 msgctxt "REACTION:BREW_DRINK_FROM_PLANT"
@@ -55849,7 +55865,7 @@ msgstr "[PRODUCT:100:1:SEEDS:NONE:GET_MATERIAL_FROM_REAGENT:Pflanze:]"
 #: reaction_other.txt:283
 msgctxt "REACTION:BREW_DRINK_FROM_PLANT_GROWTH"
 msgid "[NAME:brew drink from fruit]"
-msgstr ""
+msgstr "[NAME:Getränk aus Früchten brauen]"
 
 #: reaction_other.txt:285
 msgctxt "REACTION:BREW_DRINK_FROM_PLANT_GROWTH"
@@ -55859,7 +55875,7 @@ msgstr "[REAGENT:Pflanze:]"
 #: reaction_other.txt:288
 msgctxt "REACTION:BREW_DRINK_FROM_PLANT_GROWTH"
 msgid "[REAGENT:barrel/pot:]"
-msgstr ""
+msgstr "[REAGENT:Fass/Krug:]"
 
 #: reaction_other.txt:293
 msgctxt "REACTION:BREW_DRINK_FROM_PLANT_GROWTH"
@@ -55869,7 +55885,7 @@ msgstr "[PRODUCT:100:5:DRINK:NONE:GET_MATERIAL_FROM_REAGENT:Pflanze:]"
 #: reaction_other.txt:294
 msgctxt "REACTION:BREW_DRINK_FROM_PLANT_GROWTH"
 msgid "[PRODUCT_TO_CONTAINER:barrel/pot]"
-msgstr ""
+msgstr "[PRODUCT_TO_CONTAINER:Fass/Krug]"
 
 #: reaction_other.txt:296
 msgctxt "REACTION:BREW_DRINK_FROM_PLANT_GROWTH"
@@ -55879,7 +55895,7 @@ msgstr "[PRODUCT:100:1:SEEDS:NONE:GET_MATERIAL_FROM_REAGENT:Pflanze:]"
 #: reaction_other.txt:300
 msgctxt "REACTION:MAKE_MEAD"
 msgid "[NAME:make mead]"
-msgstr ""
+msgstr "[NAME:Met herstellen]"
 
 #: reaction_other.txt:302
 msgctxt "REACTION:MAKE_MEAD"
@@ -56474,7 +56490,7 @@ msgstr "[NAME:Billonbarren herstellen (Barren verwenden)]"
 #: reaction_smelter.txt:94
 msgctxt "REACTION:PEWTER_FINE_MAKING"
 msgid "[NAME:make fine pewter bars (use ore)]"
-msgstr ""
+msgstr "[NAME:Feinzinnbarren herstellen (Erze verwenden)]"
 
 #: reaction_smelter.txt:103
 msgctxt "REACTION:PEWTER_FINE_MAKING2"
