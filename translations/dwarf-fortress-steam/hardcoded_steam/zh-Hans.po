@@ -43,7 +43,6 @@
 # tinygrox, 2022
 # z z, 2022
 # no l, 2022
-# xz lin, 2022
 # sleepy熊 <odanobukuma@gmail.com>, 2022
 # Yuliang Cai, 2022
 # k Auro, 2022
@@ -54,7 +53,6 @@
 # 佳肴 林, 2022
 # miao miao, 2022
 # bojack cheng, 2022
-# YIQUAN CHEN, 2022
 # yyya sssa, 2022
 # 沉沉 赵, 2022
 # Dongchen Gao, 2022
@@ -78,10 +76,13 @@
 # 铭齐 梁, 2022
 # 傲 李, 2022
 # whfnet <whfnet@gmail.com>, 2022
+# YIQUAN CHEN, 2022
+# 宇琛 王, 2022
+# xz lin, 2022
 # 
 msgid ""
 msgstr ""
-"Last-Translator: whfnet <whfnet@gmail.com>, 2022\n"
+"Last-Translator: xz lin, 2022\n"
 "Language-Team: Chinese Simplified (https://www.transifex.com/dwarf-fortress-translation/teams/22396/zh-Hans/)\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -9260,7 +9261,7 @@ msgstr "突袭是通过点击任何不属于你的文明的网站来创建的。
 msgid ""
 "You can create these with [C:5:0:1]Zones[C:7:0:0] -> "
 "[C:5:0:1]Office[C:7:0:0]. "
-msgstr ""
+msgstr "你可以创建这些在[C:5:0:1]功能区[C:7:0:0] -> [C:[C:5:0:1]办公室[C:7:0:0]."
 
 #: stringdump_steam_2022_12_06.txt:2278
 msgid ""
@@ -17745,7 +17746,7 @@ msgstr ""
 #: stringdump_steam_2022_12_06.txt:4529
 msgid ""
 "Suspend this task.  This removes the worker.  The task can be unsuspended."
-msgstr ""
+msgstr "暂停此任务。这将移除工人。可以取消暂停任务。"
 
 #: stringdump_steam_2022_12_06.txt:4530
 msgid "This creature is ecstatic right now."
@@ -17789,13 +17790,13 @@ msgstr ""
 msgid ""
 "This worker is not specialized and will do any free tasks that become "
 "available.  Click to toggle."
-msgstr ""
+msgstr "这个工人无专职工作，可以做任何自由任务。单击切换。"
 
 #: stringdump_steam_2022_12_06.txt:4539
 msgid ""
 "This worker is specialized and will only do tasks that match their workshop "
 "assignments, work details, and occupations.  Click to toggle."
-msgstr ""
+msgstr "这是个专职工人，只会做与车间分配、工作细节和职业相匹配的任务。单击可切换。"
 
 #: stringdump_steam_2022_12_06.txt:4540
 msgid "This creature is miserable right now."
@@ -17895,7 +17896,7 @@ msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:4563
 msgid "Remove this worker from this occupation."
-msgstr ""
+msgstr "将该工人从该职业中移除。"
 
 #: stringdump_steam_2022_12_06.txt:4564
 msgid "This option indicates that the location is only open to members."
@@ -31920,7 +31921,7 @@ msgstr "爱压倒了我！"
 
 #: stringdump_steam_2022_12_06.txt:8087
 msgid "Ahhhhhhh!  No!"
-msgstr ""
+msgstr "啊啊啊啊啊啊啊！不！"
 
 #: stringdump_steam_2022_12_06.txt:8088
 msgid "Every last one of you will pay with your lives!"
@@ -39349,11 +39350,11 @@ msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:10495
 msgid "is incredibly tall and muscular"
-msgstr ""
+msgstr "个子出奇地高且健壮"
 
 #: stringdump_steam_2022_12_06.txt:10496
 msgid "is very muscular and extremely tall"
-msgstr ""
+msgstr "非常健壮且极其高"
 
 #: stringdump_steam_2022_12_06.txt:10497
 msgid "is very frail with an extremely tall and skinny body"
@@ -78790,7 +78791,7 @@ msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:28332
 msgid "schools of medicine"
-msgstr ""
+msgstr "医学院"
 
 #: stringdump_steam_2022_12_06.txt:28333
 msgid "the use of professional hospital staff"
@@ -78883,7 +78884,7 @@ msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:28355
 msgid "comparative anatomical studies for use in medicine"
-msgstr ""
+msgstr "医学上的比较解剖学研究"
 
 #: stringdump_steam_2022_12_06.txt:28356
 msgid "the source of the voice"
@@ -78955,7 +78956,7 @@ msgstr "手术刀的结构和使用"
 
 #: stringdump_steam_2022_12_06.txt:28373
 msgid "the use of animals as surgical models"
-msgstr ""
+msgstr "使用动物作为手术模型"
 
 #: stringdump_steam_2022_12_06.txt:28374
 msgid "the use of specialized surgical instruments"
@@ -78963,11 +78964,11 @@ msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:28375
 msgid "the use of mud bags as surgical models"
-msgstr ""
+msgstr "使用泥袋作为手术模型"
 
 #: stringdump_steam_2022_12_06.txt:28376
 msgid "the use of plants as surgical models"
-msgstr ""
+msgstr "使用植物作为手术模型"
 
 #: stringdump_steam_2022_12_06.txt:28377
 msgid "the surgical method of ligature"
@@ -83260,83 +83261,83 @@ msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:29453
 msgid "medicine:theory:fracture classification"
-msgstr ""
+msgstr "医学:理论:骨折分类"
 
 #: stringdump_steam_2022_12_06.txt:29454
 msgid "medicine:tool:traction bench"
-msgstr ""
+msgstr "医学:工具:牵引台"
 
 #: stringdump_steam_2022_12_06.txt:29455
 msgid "medicine:method:treatment of traumatic injuries"
-msgstr ""
+msgstr "医学:方法:外伤治疗"
 
 #: stringdump_steam_2022_12_06.txt:29456
 msgid "medicine:method:fracture treatment"
-msgstr ""
+msgstr "医学:方法:骨折治疗"
 
 #: stringdump_steam_2022_12_06.txt:29457
 msgid "medicine:theory:relapse"
-msgstr ""
+msgstr "医学:理论:复发"
 
 #: stringdump_steam_2022_12_06.txt:29458
 msgid "medicine:theory:convalescence"
-msgstr ""
+msgstr "医学:理论:恢复期"
 
 #: stringdump_steam_2022_12_06.txt:29459
 msgid "medicine:theory:exacerbation"
-msgstr ""
+msgstr "医学:理论:恶化"
 
 #: stringdump_steam_2022_12_06.txt:29460
 msgid "medicine:theory:paroxysm"
-msgstr ""
+msgstr "医学:理论:发作"
 
 #: stringdump_steam_2022_12_06.txt:29461
 msgid "medicine:method:lithotomy surgery"
-msgstr ""
+msgstr "医学:方法:截石术"
 
 #: stringdump_steam_2022_12_06.txt:29462
 msgid "medicine:method:surgery scraping"
-msgstr ""
+msgstr "医学:方法:刮除术"
 
 #: stringdump_steam_2022_12_06.txt:29463
 msgid "medicine:method:hernia surgery"
-msgstr ""
+msgstr "医学:方法:疝手术"
 
 #: stringdump_steam_2022_12_06.txt:29464
 msgid "medicine:method:tracheotomy surgery"
-msgstr ""
+msgstr "医学:方法:气管切开术"
 
 #: stringdump_steam_2022_12_06.txt:29465
 msgid "medicine:method:surgery excision"
-msgstr ""
+msgstr "医学:方法:切除手术"
 
 #: stringdump_steam_2022_12_06.txt:29466
 msgid "medicine:method:surgery incision"
-msgstr ""
+msgstr "医学:方法:切口手术"
 
 #: stringdump_steam_2022_12_06.txt:29467
 msgid "medicine:method:fracture immobilization"
-msgstr ""
+msgstr "医学:方法:骨折固定"
 
 #: stringdump_steam_2022_12_06.txt:29468
 msgid "medicine:tool:orthopedic cast"
-msgstr ""
+msgstr "医学:方法:骨科石膏"
 
 #: stringdump_steam_2022_12_06.txt:29469
 msgid "medicine:theory:prognosis"
-msgstr ""
+msgstr "医学:理论:预后"
 
 #: stringdump_steam_2022_12_06.txt:29470
 msgid "medicine:tool:herbal remedies"
-msgstr ""
+msgstr "医学:工具:草药"
 
 #: stringdump_steam_2022_12_06.txt:29471
 msgid "medicine:method:physical examination"
-msgstr ""
+msgstr "医学:方法:体格检查"
 
 #: stringdump_steam_2022_12_06.txt:29472
 msgid "medicine:method:autopsy"
-msgstr ""
+msgstr "医学:方法:解剖"
 
 #: stringdump_steam_2022_12_06.txt:29473
 msgid "geography:cartography:map projections"
@@ -83344,7 +83345,7 @@ msgstr "地理:制图学:地图投影"
 
 #: stringdump_steam_2022_12_06.txt:29474
 msgid "medicine:theory:disease and fouled water"
-msgstr ""
+msgstr "医学:理论:疾病和污水"
 
 #: stringdump_steam_2022_12_06.txt:29475
 msgid "geography:theory:latitude climate zones"
@@ -83356,35 +83357,35 @@ msgstr "地理:制图学:精确地图"
 
 #: stringdump_steam_2022_12_06.txt:29477
 msgid "medicine:theory:endemic disease"
-msgstr ""
+msgstr "医学:理论:地方病"
 
 #: stringdump_steam_2022_12_06.txt:29478
 msgid "medicine:theory:epidemic disease"
-msgstr ""
+msgstr "医学:理论:流行病"
 
 #: stringdump_steam_2022_12_06.txt:29479
 msgid "medicine:theory:toxicology"
-msgstr ""
+msgstr "医学:理论:毒理学"
 
 #: stringdump_steam_2022_12_06.txt:29480
 msgid "medicine:theory:acute and chronic conditions"
-msgstr ""
+msgstr "医学:理论:急性和慢性疾病"
 
 #: stringdump_steam_2022_12_06.txt:29481
 msgid "medicine:tool:bandages"
-msgstr ""
+msgstr "医学:工具:绷带"
 
 #: stringdump_steam_2022_12_06.txt:29482
 msgid "medicine:theory:disease classification"
-msgstr ""
+msgstr "医学:理论:疾病分类"
 
 #: stringdump_steam_2022_12_06.txt:29483
 msgid "medicine:tool:animal remedies"
-msgstr ""
+msgstr "医学:工具:动物疗法"
 
 #: stringdump_steam_2022_12_06.txt:29484
 msgid "medicine:tool:mineral remedies"
-msgstr ""
+msgstr "医学:工具:矿物疗法"
 
 #: stringdump_steam_2022_12_06.txt:29485
 msgid "geography:cartography:grid system"
@@ -83596,19 +83597,19 @@ msgstr "工程学:钟表学:水钟"
 
 #: stringdump_steam_2022_12_06.txt:29537
 msgid "medicine:method:medical school"
-msgstr ""
+msgstr "医学:方法:医学院"
 
 #: stringdump_steam_2022_12_06.txt:29538
 msgid "medicine:method:asylum for mentally ill"
-msgstr ""
+msgstr "医学:方法:精神病院"
 
 #: stringdump_steam_2022_12_06.txt:29539
 msgid "medicine:method:specialized wards"
-msgstr ""
+msgstr "医学:方法:专用病房"
 
 #: stringdump_steam_2022_12_06.txt:29540
 msgid "medicine:method:hospital lab"
-msgstr ""
+msgstr "医学:方法:医院实验室"
 
 #: stringdump_steam_2022_12_06.txt:29541
 msgid "engineering:machine:screw"
@@ -83644,7 +83645,7 @@ msgstr "工程学:钟表学:沙漏"
 
 #: stringdump_steam_2022_12_06.txt:29549
 msgid "medicine:theory:reaction time"
-msgstr ""
+msgstr "医学:理论:反应时间"
 
 #: stringdump_steam_2022_12_06.txt:29550
 msgid "medicine:theory:blood vessels"
@@ -83652,75 +83653,75 @@ msgstr "医学:理论:血管"
 
 #: stringdump_steam_2022_12_06.txt:29551
 msgid "medicine:theory:motor vs sensory nerves"
-msgstr ""
+msgstr "医学:理论:运动神经vs感觉神经"
 
 #: stringdump_steam_2022_12_06.txt:29552
 msgid "medicine:theory:nervous system function"
-msgstr ""
+msgstr "医学:理论:神经系统功能"
 
 #: stringdump_steam_2022_12_06.txt:29553
 msgid "medicine:theory:classification of bodily fluids"
-msgstr ""
+msgstr "医学:理论:体液分类"
 
 #: stringdump_steam_2022_12_06.txt:29554
 msgid "medicine:theory:eye anatomy"
-msgstr ""
+msgstr "医学:理论:眼部解剖"
 
 #: stringdump_steam_2022_12_06.txt:29555
 msgid "medicine:theory:pulmonary medicine"
-msgstr ""
+msgstr "医学:理论:肺药"
 
 #: stringdump_steam_2022_12_06.txt:29556
 msgid "medicine:theory:anatomical studies"
-msgstr ""
+msgstr "医学:理论:解剖研究"
 
 #: stringdump_steam_2022_12_06.txt:29557
 msgid "medicine:tool:dedicated hospitals"
-msgstr ""
+msgstr "医学:工具:专用医院"
 
 #: stringdump_steam_2022_12_06.txt:29558
 msgid "medicine:method:professional hospital staff"
-msgstr ""
+msgstr "医学:方法:医院专业人员"
 
 #: stringdump_steam_2022_12_06.txt:29559
 msgid "medicine:theory:classification of mental illnesses"
-msgstr ""
+msgstr "医学:理论:精神疾病分类"
 
 #: stringdump_steam_2022_12_06.txt:29560
 msgid "medicine:theory:treatment of mental illnesses"
-msgstr ""
+msgstr "医学:理论:精神疾病的治疗"
 
 #: stringdump_steam_2022_12_06.txt:29561
 msgid "medicine:theory:the voice"
-msgstr ""
+msgstr "医学:理论:声音"
 
 #: stringdump_steam_2022_12_06.txt:29562
 msgid "medicine:theory:classification of muscles"
-msgstr ""
+msgstr "医学:理论:肌肉分类"
 
 #: stringdump_steam_2022_12_06.txt:29563
 msgid "medicine:theory:pulmonary circulation"
-msgstr ""
+msgstr "医学:理论:肺循环"
 
 #: stringdump_steam_2022_12_06.txt:29564
 msgid "medicine:theory:comparative anatomy"
-msgstr ""
+msgstr "医学:理论:比较解剖学"
 
 #: stringdump_steam_2022_12_06.txt:29565
 msgid "medicine:tool:plants as surgical models"
-msgstr ""
+msgstr "医学:工具:植物作为手术模型"
 
 #: stringdump_steam_2022_12_06.txt:29566
 msgid "medicine:tool:animals as surgical models"
-msgstr ""
+msgstr "医学:工具:动物作为手术模型"
 
 #: stringdump_steam_2022_12_06.txt:29567
 msgid "medicine:theory:surgical models"
-msgstr ""
+msgstr "医学:理论:手术模型"
 
 #: stringdump_steam_2022_12_06.txt:29568
 msgid "medicine:tool:mud bags as surgical models"
-msgstr ""
+msgstr "医学:工具:泥袋作为手术模型"
 
 #: stringdump_steam_2022_12_06.txt:29569
 msgid "medicine:method:surgery suturing"
@@ -83728,7 +83729,7 @@ msgstr "医学:方法:手术缝合"
 
 #: stringdump_steam_2022_12_06.txt:29570
 msgid "medicine:method:surgery ligature"
-msgstr ""
+msgstr "医学:方法:手术结扎"
 
 #: stringdump_steam_2022_12_06.txt:29571
 msgid "medicine:method:surgery draining"
@@ -83752,7 +83753,7 @@ msgstr "医学:工具:手术针"
 
 #: stringdump_steam_2022_12_06.txt:29576
 msgid "medicine:method:cataract surgery"
-msgstr ""
+msgstr "医学:方法:白内障手术"
 
 #: stringdump_steam_2022_12_06.txt:29577
 msgid "medicine:tool:scalpel"
@@ -83764,7 +83765,7 @@ msgstr "医学:工具:手术剪刀"
 
 #: stringdump_steam_2022_12_06.txt:29579
 msgid "medicine:theory:specialized surgical instruments"
-msgstr "医学:理论:专门的手术器械"
+msgstr "医学:理论:专用手术器械"
 
 #: stringdump_steam_2022_12_06.txt:29580
 msgid "medicine:tool:forceps"
@@ -84688,7 +84689,7 @@ msgstr "动物作为手术模型"
 
 #: stringdump_steam_2022_12_06.txt:29810
 msgid "specialized surgical instruments"
-msgstr "专用外科器械"
+msgstr "专用手术器械"
 
 #: stringdump_steam_2022_12_06.txt:29811
 msgid "mud bags as surgical models"
@@ -84696,7 +84697,7 @@ msgstr "泥袋作为手术模型"
 
 #: stringdump_steam_2022_12_06.txt:29812
 msgid "plants as surgical models"
-msgstr "移植作为手术模型"
+msgstr "植物作为手术模型"
 
 #: stringdump_steam_2022_12_06.txt:29813
 msgid "blood vessels"
@@ -91084,7 +91085,7 @@ msgstr "茫然地磕磕绊绊！"
 
 #: stringdump_steam_2022_12_06.txt:37550
 msgid " has slipped into depression..."
-msgstr "已经郁郁寡欢。。。"
+msgstr "已经郁郁寡欢..."
 
 #: stringdump_steam_2022_12_06.txt:37564
 msgid "too many length or distance symbols"
