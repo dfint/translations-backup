@@ -2,12 +2,13 @@
 # Translators:
 # GotrekGurnisson <avrk@seznam.cz>, 2021
 # Jaroslav Körner <jardasek@centrum.cz>, 2018
+# Kewar Cz, 2022
 # Zdenek Galus <zgalus@centrum.cz>, 2019,2022
 msgid ""
 msgstr ""
 "Project-Id-Version: Dwarf Fortress\n"
 "PO-Revision-Date: 2015-02-03 06:42+0000\n"
-"Last-Translator: Zdenek Galus <zgalus@centrum.cz>, 2019,2022\n"
+"Last-Translator: Kewar Cz, 2022\n"
 "Language-Team: Czech (http://www.transifex.com/dwarf-fortress-translation/dwarf-fortress/language/cs/)\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -2457,22 +2458,22 @@ msgstr "[BP:BACK:zadek:STP]"
 #: body_default.txt:1081
 msgctxt "BODY:WAGON"
 msgid "[BP:RFW:right front wheel:STP]"
-msgstr ""
+msgstr "[BP:RFW:pravé přední kolo:STP]"
 
 #: body_default.txt:1083
 msgctxt "BODY:WAGON"
 msgid "[BP:LFW:left front wheel:STP]"
-msgstr ""
+msgstr "[BP:LFW:levé přední kolo:STP]"
 
 #: body_default.txt:1085
 msgctxt "BODY:WAGON"
 msgid "[BP:RRW:right rear wheel:STP]"
-msgstr ""
+msgstr "[BP:RRW:pravé zadní kolo:STP]"
 
 #: body_default.txt:1087
 msgctxt "BODY:WAGON"
 msgid "[BP:LRW:left rear wheel:STP]"
-msgstr ""
+msgstr "[BP:LRW:levé zadní kolo:STP]"
 
 #: body_default.txt:1091
 msgctxt "BODY:TAIL"
@@ -2512,7 +2513,7 @@ msgstr "[BODYGLOSS:PAW:chodidlo:tlapka:chodidla:tlapky]"
 #: body_default.txt:1115
 msgctxt "BODY:UPPERBODY_PINCERS"
 msgid "[BODYGLOSS:MAW:mouth:maw:mouths:maws]"
-msgstr ""
+msgstr "[BODYGLOSS:MAW:ústa:tlama:ústa:tlamy]"
 
 #: body_default.txt:1117
 msgctxt "BODY:UPPERBODY_PINCERS"
@@ -5012,112 +5013,112 @@ msgstr "[BP:HEAD_ANTLER_2:pravý paroh:STP]"
 #: building_custom.txt:6
 msgctxt "BUILDING_WORKSHOP:SOAP_MAKER"
 msgid "[NAME:Soap Maker's Workshop]"
-msgstr ""
+msgstr "[NAME:Mýdlařská dílna]"
 
 #: building_custom.txt:43
 msgctxt "BUILDING_WORKSHOP:SCREW_PRESS"
 msgid "[NAME:Screw Press]"
-msgstr ""
+msgstr "[NAME:Šroubový lis]"
 
 #: c_variation_default.txt:189
 msgctxt "CREATURE_VARIATION:ANIMAL_PERSON"
 msgid "[CV_NEW_TAG:CDI:ADV_NAME:Pet animal]"
-msgstr ""
+msgstr "[CV_NEW_TAG:CDI:ADV_NAME:Domácí zvíře]"
 
 #: c_variation_default.txt:192
 msgctxt "CREATURE_VARIATION:ANIMAL_PERSON"
 msgid "[CV_NEW_TAG:CDI:VERB:pet:pets:pets]"
-msgstr ""
+msgstr "[CV_NEW_TAG:CDI:VERB:domácí zvíře:domácí zvířata:domácí zvířata]"
 
 #: c_variation_default.txt:354
 msgctxt "CREATURE_VARIATION:ANIMAL_PERSON_LEGLESS"
 msgid "[CV_NEW_TAG:CDI:ADV_NAME:Pet animal]"
-msgstr ""
+msgstr "[CV_NEW_TAG:CDI:ADV_NAME:Domácí zvíře]"
 
 #: c_variation_default.txt:357
 msgctxt "CREATURE_VARIATION:ANIMAL_PERSON_LEGLESS"
 msgid "[CV_NEW_TAG:CDI:VERB:pet:pets:pets]"
-msgstr ""
+msgstr "[CV_NEW_TAG:CDI:VERB:domácí zvíře:domácí zvířata:domácí zvířata]"
 
 #: c_variation_default.txt:367
 msgctxt "CREATURE_VARIATION:PUNCH_ATTACK"
 msgid "[CV_NEW_TAG:ATTACK_VERB:punch:punches]"
-msgstr ""
+msgstr "[CV_NEW_TAG:ATTACK_VERB:úder:údery]"
 
 #: c_variation_default.txt:376
 msgctxt "CREATURE_VARIATION:KICK_ATTACK"
 msgid "[CV_NEW_TAG:ATTACK_VERB:kick:kicks]"
-msgstr ""
+msgstr "[CV_NEW_TAG:ATTACK_VERB:kop:kopy]"
 
 #: c_variation_default.txt:386
 msgctxt "CREATURE_VARIATION:KICK_HIGHVEL_ATTACK"
 msgid "[CV_NEW_TAG:ATTACK_VERB:kick:kicks]"
-msgstr ""
+msgstr "[CV_NEW_TAG:ATTACK_VERB:kop:kopy]"
 
 #: c_variation_default.txt:397
 msgctxt "CREATURE_VARIATION:TAIL_ATTACK"
 msgid "[CV_NEW_TAG:ATTACK_VERB:slap:slaps]"
-msgstr ""
+msgstr "[CV_NEW_TAG:ATTACK_VERB:facka:facky]"
 
 #: c_variation_default.txt:406
 msgctxt "CREATURE_VARIATION:HOOF_ATTACK"
 msgid "[CV_NEW_TAG:ATTACK_VERB:kick:kicks]"
-msgstr ""
+msgstr "[CV_NEW_TAG:ATTACK_VERB:kop:kopy]"
 
 #: c_variation_default.txt:421
 msgctxt "CREATURE_VARIATION:NAIL_SCRATCH_ATTACK"
 msgid "[CV_NEW_TAG:ATTACK_VERB:scratch:scratches]"
-msgstr ""
+msgstr "[CV_NEW_TAG:ATTACK_VERB:škrábnutí:škrábance]"
 
 #: c_variation_default.txt:431
 msgctxt "CREATURE_VARIATION:CLAW_SCRATCH_ATTACK"
 msgid "[CV_NEW_TAG:ATTACK_VERB:scratch:scratches]"
-msgstr ""
+msgstr "[CV_NEW_TAG:ATTACK_VERB:škrábnutí:škrábance]"
 
 #: c_variation_default.txt:441
 msgctxt "CREATURE_VARIATION:TOOTH_BITE_ATTACK"
 msgid "[CV_NEW_TAG:ATTACK_VERB:bite:bites]"
-msgstr ""
+msgstr "[CV_NEW_TAG:ATTACK_VERB:kousnutí:kousance]"
 
 #: c_variation_default.txt:452
 msgctxt "CREATURE_VARIATION:TOOTH_BITE_VENOM_ATTACK"
 msgid "[CV_NEW_TAG:ATTACK_VERB:bite:bites]"
-msgstr ""
+msgstr "[CV_NEW_TAG:ATTACK_VERB:kousnutí:kousance]"
 
 #: c_variation_default.txt:464
 msgctxt "CREATURE_VARIATION:TAIL_STING_VENOM_ATTACK"
 msgid "[CV_NEW_TAG:ATTACK_VERB:sting:stings]"
-msgstr ""
+msgstr "[CV_NEW_TAG:ATTACK_VERB:žihadlo:žihadla]"
 
 #: c_variation_default.txt:475
 msgctxt "CREATURE_VARIATION:MOUTH_BITE_ATTACK"
 msgid "[CV_NEW_TAG:ATTACK_VERB:bite:bites]"
-msgstr ""
+msgstr "[CV_NEW_TAG:ATTACK_VERB:kousnutí:kousance]"
 
 #: c_variation_default.txt:484
 msgctxt "CREATURE_VARIATION:MOUTH_SUCK_ATTACK"
 msgid "[CV_NEW_TAG:ATTACK_VERB:bite:bites]"
-msgstr ""
+msgstr "[CV_NEW_TAG:ATTACK_VERB:kousnutí:kousance]"
 
 #: c_variation_default.txt:494
 msgctxt "CREATURE_VARIATION:PROBOSCIS_SUCK_ATTACK"
 msgid "[CV_NEW_TAG:ATTACK_VERB:bite:bites]"
-msgstr ""
+msgstr "[CV_NEW_TAG:ATTACK_VERB:kousnutí:kousance]"
 
 #: c_variation_default.txt:505
 msgctxt "CREATURE_VARIATION:MOUTH_BITE_EDGE_ATTACK"
 msgid "[CV_NEW_TAG:ATTACK_VERB:bite:bites]"
-msgstr ""
+msgstr "[CV_NEW_TAG:ATTACK_VERB:kousnutí:kousance]"
 
 #: c_variation_default.txt:515
 msgctxt "CREATURE_VARIATION:MOUTH_BITE_VENOM_ATTACK"
 msgid "[CV_NEW_TAG:ATTACK_VERB:bite:bites]"
-msgstr ""
+msgstr "[CV_NEW_TAG:ATTACK_VERB:kousnutí:kousance]"
 
 #: c_variation_default.txt:526
 msgctxt "CREATURE_VARIATION:BEAK_BITE_ATTACK"
 msgid "[CV_NEW_TAG:ATTACK_VERB:bite:bites]"
-msgstr ""
+msgstr "[CV_NEW_TAG:ATTACK_VERB:kousnutí:kousance]"
 
 #: c_variation_default.txt:537
 msgctxt "CREATURE_VARIATION:TALON_SCRATCH_ATTACK"
@@ -5127,7 +5128,7 @@ msgstr ""
 #: c_variation_default.txt:549
 msgctxt "CREATURE_VARIATION:TUSK_STAB_ATTACK"
 msgid "[CV_NEW_TAG:ATTACK_VERB:stab:stabs]"
-msgstr ""
+msgstr "[CV_NEW_TAG:ATTACK_VERB:bodnutí:bodnutí]"
 
 #: c_variation_default.txt:559
 msgctxt "CREATURE_VARIATION:PINCER_ATTACK"
@@ -5389,12 +5390,12 @@ msgstr ""
 #: creature_amphibians.txt:7
 msgctxt "CREATURE:TOAD"
 msgid "[NAME:toad:toads:toad]"
-msgstr ""
+msgstr "[NAME:ropucha:ropuchy:ropucha]"
 
 #: creature_amphibians.txt:8
 msgctxt "CREATURE:TOAD"
 msgid "[CASTE_NAME:toad:toads:toad]"
-msgstr ""
+msgstr "[CASTE_NAME:ropucha:ropuchy:ropucha]"
 
 #: creature_amphibians.txt:17
 msgctxt "CREATURE:TOAD"
