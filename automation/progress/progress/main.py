@@ -13,9 +13,7 @@ def translated_lines(path: Path | str) -> Tuple[int, int, float]:
     entries: int = 0
     translated_entries: int = 0
     with open(path, "r", encoding="utf-8") as file:
-        for match in re.finditer(
-            r'^msgid\s"(.+)"\nmsgstr\s"(.*)"\n', file.read(), re.RegexFlag.MULTILINE
-        ):
+        for match in re.finditer(r'^msgid\s"(.+)"\nmsgstr\s"(.*)"\n', file.read(), re.RegexFlag.MULTILINE):
             entries += 1
             if match.group(1) != match.group(2) and match.group(2) != "":
                 translated_entries += 1
@@ -39,9 +37,7 @@ def dir_stat(path: Path) -> Tuple[dict[str, float], int]:
     return output, total_lines
 
 
-def chart_struct(
-    data: dict[str, dict[str, float]], labels: list[str], max_lines: int
-) -> dict[str, Any]:
+def chart_struct(data: dict[str, dict[str, float]], labels: list[str], max_lines: int) -> dict[str, Any]:
     datasets: list[Any] = []
 
     for resource, lines in data.items():
@@ -114,9 +110,7 @@ def generate_readme_jinja(base_dir: Path, template_file: Path, result_path: Path
     template_env = jinja2.Environment(loader=template_loader)
     template = template_env.get_template(template_file.name)
 
-    dwarf_fortress_steam_chart_url = get_chart_url(
-        base_dir / "translations/dwarf-fortress-steam"
-    )
+    dwarf_fortress_steam_chart_url = get_chart_url(base_dir / "translations/dwarf-fortress-steam")
     dwarf_fortress_chart_url = get_chart_url(base_dir / "translations/dwarf-fortress")
 
     output = template.render(
