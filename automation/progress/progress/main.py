@@ -1,8 +1,11 @@
-import re
-import os
 import json
+import os
+import re
 from pathlib import Path
 from typing import Any, Tuple
+
+import jinja2
+from loguru import logger
 from requests import post
 
 
@@ -40,8 +43,7 @@ def pretty_section_name(path: str) -> str:
     return name
 
 
-def project_section(path: str) -> str:
-    output: str = "\n### " + pretty_section_name(path) + "\n\n"
+def get_chart_url(path: str) -> str:
     dataset: dict[str, dict[str, float]] = {}
     total_lines: int = 0
     labels: list[str] = []
@@ -54,8 +56,14 @@ def project_section(path: str) -> str:
             labels = list(stat[0].keys())
 
     chart = chart_url(chart_struct(dataset, labels, total_lines))
-    output += "![Chart](" + chart + ")\n"
 
+    return chart
+
+
+def project_section(path: str) -> str:
+    output: str = "\n### " + pretty_section_name(path) + "\n\n"
+    chart = get_chart_url(path)
+    output += "![Chart](" + chart + ")\n"
     return output
 
 
@@ -114,9 +122,31 @@ def generate_readme(base_dir: Path):
     file.close()
 
 
+def generate_readme_jinja(base_dir: Path, template_file: Path, result_path: Path):
+    logger.info(f"base_dir: {base_dir.resolve().absolute()}")
+    logger.info(f"template_file: {template_file.resolve().absolute()}")
+    logger.info(f"result_path: {result_path.resolve().absolute()}")
+
+    template_loader = jinja2.FileSystemLoader(searchpath=template_file.parent)
+    template_env = jinja2.Environment(loader=template_loader)
+    template = template_env.get_template(template_file.name)
+    dwarf_fortress_steam = get_chart_url(base_dir / "translations/dwarf-fortress-steam")
+    dwarf_fortress = get_chart_url(base_dir / "translations/dwarf-fortress")
+    output = template.render(
+        dwarf_fortress_steam_chart_url=dwarf_fortress_steam,
+        dwarf_fortress_chart_url=dwarf_fortress,
+    )
+    with open(result_path, "w") as result_file:
+        result_file.write(output)
+
+
 def main():
     generate_readme(Path("../.."))
 
 
 if __name__ == "__main__":
-    main()
+    generate_readme_jinja(
+        Path("../../.."),
+        Path("../../../README.template.md"),
+        Path("../../../README.md"),
+    )
