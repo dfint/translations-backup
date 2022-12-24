@@ -35,45 +35,16 @@ def dir_stat(path: str) -> Tuple[dict[str, float], int]:
             translated = translated_lines(root + "/" + file)
             output[file_name] = translated[1]
             total_lines = translated[0]
-    return (output, total_lines)
-
-
-def pretty_section_name(path: str) -> str:
-    *_, name = os.path.split(path)
-    return name
-
-
-def get_chart_url(path: str) -> str:
-    dataset: dict[str, dict[str, float]] = {}
-    total_lines: int = 0
-    labels: list[str] = []
-    for root, dirs, _files in os.walk(path):
-        for dir in dirs:
-            path = root + "/" + dir
-            stat = dir_stat(path)
-            dataset[dir] = stat[0]
-            total_lines += stat[1]
-            labels = list(stat[0].keys())
-
-    chart = chart_url(chart_struct(dataset, labels, total_lines))
-
-    return chart
-
-
-def project_section(path: str) -> str:
-    output: str = "\n### " + pretty_section_name(path) + "\n\n"
-    chart = get_chart_url(path)
-    output += "![Chart](" + chart + ")\n"
-    return output
+    return output, total_lines
 
 
 def chart_struct(
     data: dict[str, dict[str, float]], labels: list[str], max_lines: int
 ) -> dict[str, Any]:
     datasets: list[Any] = []
-    for resourse, lines in data.items():
+    for resource, lines in data.items():
         # values = [round(elem * 100, 2) for elem in list(lines.values())]
-        datasets.append(dict(label=resourse, data=list(lines.values())))
+        datasets.append(dict(label=resource, data=list(lines.values())))
     return dict(
         type="horizontalBar",
         data={"labels": [elem.upper() for elem in labels], "datasets": datasets},
@@ -111,15 +82,21 @@ def chart_url(data: dict[str, Any]) -> str:
     return response.json()["url"]
 
 
-def generate_readme(base_dir: Path):
-    file = open("README.md", "w")
-    file.write(
-        "# Translations Backup\n\n[![Pull translations from transifex](https://github.com/dfint/translations-backup/actions/workflows/pull-translations.yml/badge.svg)](https://github.com/dfint/translations-backup/actions/workflows/pull-translations.yml)\n\nAutomatically pulls translations from transifex site. If there are any changes then it commits them to the repository.\n\n"
-    )
-    file.write("## Progress\n")
-    file.write(project_section(base_dir / "translations/dwarf-fortress-steam"))
-    file.write(project_section(base_dir / "translations/dwarf-fortress"))
-    file.close()
+def get_chart_url(path: str) -> str:
+    dataset: dict[str, dict[str, float]] = {}
+    total_lines: int = 0
+    labels: list[str] = []
+    for root, dirs, _files in os.walk(path):
+        for dir in dirs:
+            path = root + "/" + dir
+            stat = dir_stat(path)
+            dataset[dir] = stat[0]
+            total_lines += stat[1]
+            labels = list(stat[0].keys())
+
+    chart = chart_url(chart_struct(dataset, labels, total_lines))
+
+    return chart
 
 
 def generate_readme_jinja(base_dir: Path, template_file: Path, result_path: Path):
@@ -130,18 +107,17 @@ def generate_readme_jinja(base_dir: Path, template_file: Path, result_path: Path
     template_loader = jinja2.FileSystemLoader(searchpath=template_file.parent)
     template_env = jinja2.Environment(loader=template_loader)
     template = template_env.get_template(template_file.name)
-    dwarf_fortress_steam = get_chart_url(base_dir / "translations/dwarf-fortress-steam")
-    dwarf_fortress = get_chart_url(base_dir / "translations/dwarf-fortress")
+
+    dwarf_fortress_steam_chart_url = get_chart_url(base_dir / "translations/dwarf-fortress-steam")
+    dwarf_fortress_chart_url = get_chart_url(base_dir / "translations/dwarf-fortress")
+
     output = template.render(
-        dwarf_fortress_steam_chart_url=dwarf_fortress_steam,
-        dwarf_fortress_chart_url=dwarf_fortress,
+        dwarf_fortress_steam_chart_url=dwarf_fortress_steam_chart_url,
+        dwarf_fortress_chart_url=dwarf_fortress_chart_url,
     )
+
     with open(result_path, "w") as result_file:
         result_file.write(output)
-
-
-def main():
-    generate_readme(Path("../.."))
 
 
 if __name__ == "__main__":
