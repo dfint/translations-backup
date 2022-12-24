@@ -1,4 +1,4 @@
-name: Update metadata.json
+name: Update metadata
 
 on:
   workflow_dispatch:
@@ -45,11 +45,11 @@ jobs:
     - name: Generate json file
       run: |
         cd automation/metadata
-        poetry run files_by_resource ../../translations > ../../metadata.json
+        poetry run files_by_resource ../../translations ../../
 
     - name: Push changes to the repository
       uses: EndBug/add-and-commit@v7.0.0
       with:
         author_name: github-actions[bot]
         author_email: 41898282+github-actions[bot]@users.noreply.github.com
-        add: metadata.json
+        add: metadata*.json

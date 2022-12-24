@@ -1,11 +1,11 @@
 # 
 # Translators:
 # insolor, 2022
-# Dario Landucci, 2022
+# Dario "Crongdyne" Landucci, 2022
 # 
 msgid ""
 msgstr ""
-"Last-Translator: Dario Landucci, 2022\n"
+"Last-Translator: Dario \"Crongdyne\" Landucci, 2022\n"
 "Language-Team: Italian (https://www.transifex.com/dwarf-fortress-translation/teams/22396/it/)\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -135,7 +135,7 @@ msgstr "[BP:RF:piede posteriore destro:piedi posteriori destri]"
 #: body_default.txt:71
 msgctxt "BODY:BASIC_REARLEGS"
 msgid "[BP:LF:left rear foot:left rear feet]"
-msgstr ""
+msgstr "[BP:LF:piede posteriore sinistro:piedi posteriori sinistri]"
 
 #: body_default.txt:75
 msgctxt "BODY:ARMS_STANCE"
@@ -245,7 +245,7 @@ msgstr "[BP:HD:testa:STP]"
 #: body_default.txt:123
 msgctxt "BODY:BASIC_HEAD_NECK"
 msgid "[BP:NK:neck:STP]"
-msgstr ""
+msgstr "[BP:NK:collo:STP]"
 
 #: body_default.txt:125
 msgctxt "BODY:BASIC_HEAD_NECK"
@@ -260,7 +260,7 @@ msgstr "[BP:HD:testa:STP]"
 #: body_default.txt:133
 msgctxt "BODY:BODY_WITH_HEAD_FLAG"
 msgid "[BP:HD:body:bodies]"
-msgstr ""
+msgstr "[BP:HD:corpo:corpi]"
 
 #: body_default.txt:137
 msgctxt "BODY:HUMANOID"
@@ -405,12 +405,12 @@ msgstr "[BP:LLL:gamba superiore sinistra:STP]"
 #: body_default.txt:195
 msgctxt "BODY:HUMANOID_HOOF"
 msgid "[BP:RF:right hoof:right hooves]"
-msgstr ""
+msgstr "[BP:RF:zoccolo destro:zoccoli destri]"
 
 #: body_default.txt:197
 msgctxt "BODY:HUMANOID_HOOF"
 msgid "[BP:LF:left hoof:left hooves]"
-msgstr ""
+msgstr "[BP:LF:zoccolo sinistro:zoccoli sinistri]"
 
 #: body_default.txt:201
 msgctxt "BODY:HUMANOID_NECK"
@@ -425,7 +425,7 @@ msgstr "[BP:LB:arti inferiori:arti inferiori]"
 #: body_default.txt:205
 msgctxt "BODY:HUMANOID_NECK"
 msgid "[BP:NK:neck:STP]"
-msgstr ""
+msgstr "[BP:NK:collo:STP]"
 
 #: body_default.txt:207
 msgctxt "BODY:HUMANOID_NECK"
@@ -505,7 +505,7 @@ msgstr "[BP:LB:arti inferiori:arti inferiori]"
 #: body_default.txt:239
 msgctxt "BODY:HUMANOID_NECK_HOOF"
 msgid "[BP:NK:neck:STP]"
-msgstr ""
+msgstr "[BP:NK:collo:STP]"
 
 #: body_default.txt:241
 msgctxt "BODY:HUMANOID_NECK_HOOF"
@@ -585,7 +585,7 @@ msgstr "[BP:LB:arti inferiori:arti inferiori]"
 #: body_default.txt:273
 msgctxt "BODY:HUMANOID_LEGLESS_NECK"
 msgid "[BP:NK:neck:STP]"
-msgstr ""
+msgstr "[BP:NK:collo:STP]"
 
 #: body_default.txt:275
 msgctxt "BODY:HUMANOID_LEGLESS_NECK"
@@ -710,7 +710,7 @@ msgstr "[BP:LB:arti inferiori:arti inferiori]"
 #: body_default.txt:327
 msgctxt "BODY:HUMANOID_NECK_FLIER"
 msgid "[BP:NK:neck:STP]"
-msgstr ""
+msgstr "[BP:NK:collo:STP]"
 
 #: body_default.txt:329
 msgctxt "BODY:HUMANOID_NECK_FLIER"
@@ -1310,7 +1310,7 @@ msgstr "[BP:LB:arti inferiori:arti inferiori]"
 #: body_default.txt:583
 msgctxt "BODY:HUMANOID_NECK_4ARMS"
 msgid "[BP:NK:neck:STP]"
-msgstr ""
+msgstr "[BP:NK:collo:STP]"
 
 #: body_default.txt:585
 msgctxt "BODY:HUMANOID_NECK_4ARMS"
@@ -1560,12 +1560,12 @@ msgstr "[BP:LB:arti inferiori:arti inferiori]"
 #: body_default.txt:689
 msgctxt "BODY:HUMANOID_NECK_2HEAD"
 msgid "[BP:RNK:right neck:STP]"
-msgstr ""
+msgstr "[BP:RNK:collo destro:STP]"
 
 #: body_default.txt:691
 msgctxt "BODY:HUMANOID_NECK_2HEAD"
 msgid "[BP:LNK:left neck:STP]"
-msgstr ""
+msgstr "[BP:LNK:collo sinistro:STP]"
 
 #: body_default.txt:693
 msgctxt "BODY:HUMANOID_NECK_2HEAD"
@@ -1650,7 +1650,7 @@ msgstr "[BP:LB:arti inferiori:arti inferiori]"
 #: body_default.txt:727
 msgctxt "BODY:HUMANOID_SIMPLE"
 msgid "[BP:HD:head:STP]"
-msgstr ""
+msgstr "[BP:HD:testa:STP]"
 
 #: body_default.txt:729
 msgctxt "BODY:HUMANOID_SIMPLE"
@@ -1705,7 +1705,7 @@ msgstr "[BP:LB:arti inferiori:arti inferiori]"
 #: body_default.txt:751
 msgctxt "BODY:QUADRUPED"
 msgid "[BP:HD:head:STP]"
-msgstr ""
+msgstr "[BP:HD:testa:STP]"
 
 #: body_default.txt:753
 msgctxt "BODY:QUADRUPED"
@@ -1760,12 +1760,12 @@ msgstr "[BP:LB:arti inferiori:arti inferiori]"
 #: body_default.txt:775
 msgctxt "BODY:QUADRUPED_NECK_FRONT_GRASP"
 msgid "[BP:NK:neck:STP]"
-msgstr ""
+msgstr "[BP:NK:collo:STP]"
 
 #: body_default.txt:777
 msgctxt "BODY:QUADRUPED_NECK_FRONT_GRASP"
 msgid "[BP:HD:head:STP]"
-msgstr ""
+msgstr "[BP:HD:testa:STP]"
 
 #: body_default.txt:779
 msgctxt "BODY:QUADRUPED_NECK_FRONT_GRASP"
@@ -1820,12 +1820,12 @@ msgstr "[BP:LB:arti inferiori:arti inferiori]"
 #: body_default.txt:801
 msgctxt "BODY:QUADRUPED_NECK"
 msgid "[BP:NK:neck:STP]"
-msgstr ""
+msgstr "[BP:NK:collo:STP]"
 
 #: body_default.txt:803
 msgctxt "BODY:QUADRUPED_NECK"
 msgid "[BP:HD:head:STP]"
-msgstr ""
+msgstr "[BP:HD:testa:STP]"
 
 #: body_default.txt:805
 msgctxt "BODY:QUADRUPED_NECK"
@@ -1880,12 +1880,12 @@ msgstr "[BP:LB:arti inferiori:arti inferiori]"
 #: body_default.txt:827
 msgctxt "BODY:QUADRUPED_NECK_HOOF"
 msgid "[BP:NK:neck:STP]"
-msgstr ""
+msgstr "[BP:NK:collo:STP]"
 
 #: body_default.txt:829
 msgctxt "BODY:QUADRUPED_NECK_HOOF"
 msgid "[BP:HD:head:STP]"
-msgstr ""
+msgstr "[BP:HD:testa:STP]"
 
 #: body_default.txt:831
 msgctxt "BODY:QUADRUPED_NECK_HOOF"
@@ -1935,7 +1935,7 @@ msgstr " [BP:UB:torace:toraci] "
 #: body_default.txt:851
 msgctxt "BODY:INSECT"
 msgid "[BP:HD:head:STP]"
-msgstr ""
+msgstr "[BP:HD:testa:STP]"
 
 #: body_default.txt:853
 msgctxt "BODY:INSECT"
@@ -2010,7 +2010,7 @@ msgstr " [BP:UB:torace:toraci] "
 #: body_default.txt:883
 msgctxt "BODY:INSECT_4LEGS_2ARMS"
 msgid "[BP:HD:head:STP]"
-msgstr ""
+msgstr "[BP:HD:testa:STP]"
 
 #: body_default.txt:885
 msgctxt "BODY:INSECT_4LEGS_2ARMS"
@@ -2785,7 +2785,7 @@ msgstr ""
 #: body_default.txt:1264
 msgctxt "BODY:NECK"
 msgid "[BP:NECK:upper spine:STP]"
-msgstr ""
+msgstr "[BP:NECK:parte superiore colonna vertebrale:STP]"
 
 #: body_default.txt:1269
 msgctxt "BODY:SPINE"
@@ -3790,12 +3790,12 @@ msgstr "[BP:LB:arti inferiori:arti inferiori]"
 #: body_default.txt:1748
 msgctxt "BODY:HAND_FOOT_CENTAUR_NECK"
 msgid "[BP:NK:neck:STP]"
-msgstr ""
+msgstr "[BP:NK:collo:STP]"
 
 #: body_default.txt:1750
 msgctxt "BODY:HAND_FOOT_CENTAUR_NECK"
 msgid "[BP:HD:head:STP]"
-msgstr ""
+msgstr "[BP:HD:testa:STP]"
 
 #: body_default.txt:1752
 msgctxt "BODY:HAND_FOOT_CENTAUR_NECK"
@@ -3895,12 +3895,12 @@ msgstr "[BP:LB:arti inferiori:arti inferiori]"
 #: body_default.txt:1796
 msgctxt "BODY:HUMANOID_ARMLESS_NECK"
 msgid "[BP:NK:neck:STP]"
-msgstr ""
+msgstr "[BP:NK:collo:STP]"
 
 #: body_default.txt:1798
 msgctxt "BODY:HUMANOID_ARMLESS_NECK"
 msgid "[BP:HD:head:STP]"
-msgstr ""
+msgstr "[BP:HD:testa:STP]"
 
 #: body_default.txt:1800
 msgctxt "BODY:HUMANOID_ARMLESS_NECK"
@@ -3980,7 +3980,7 @@ msgstr ""
 #: body_rcp.txt:38
 msgctxt "BODY:RCP_HEAD"
 msgid "[BP:HD:head:STP]"
-msgstr ""
+msgstr "[BP:HD:testa:STP]"
 
 #: body_rcp.txt:42
 msgctxt "BODY:RCP_TWO_PART_ARMS"
@@ -4850,7 +4850,7 @@ msgstr ""
 #: body_rcp.txt:518
 msgctxt "BODY:RCP_UPPER_SPINE"
 msgid "[BP:NECK:upper spine:STP]"
-msgstr ""
+msgstr "[BP:NECK:parte superiore colonna vertebrale:STP]"
 
 #: body_rcp.txt:523
 msgctxt "BODY:RCP_BRAIN"
@@ -5200,7 +5200,7 @@ msgstr "[TISSUE_NAME:spugna:NP]"
 #: building_custom.txt:6
 msgctxt "BUILDING_WORKSHOP:SOAP_MAKER"
 msgid "[NAME:Soap Maker's Workshop]"
-msgstr ""
+msgstr "[NAME:Bottega del saponaio]"
 
 #: building_custom.txt:41
 msgctxt "BUILDING_WORKSHOP:SOAP_MAKER"
@@ -5650,7 +5650,7 @@ msgstr "[CASTE_NAME:rospo gigante:rospi giganti:rospo gigante]"
 #: creature_amphibians.txt:106
 msgctxt "CREATURE:GIANT_TOAD"
 msgid "[DESCRIPTION:A huge monster in the shape of a toad.]"
-msgstr ""
+msgstr "[DESCRIPTION:Un enorme mostro sotto forma di rospo.]"
 
 #: creature_amphibians.txt:115
 msgctxt "CREATURE:GIANT_TOAD"
@@ -5663,6 +5663,8 @@ msgid ""
 "[DESCRIPTION:A tiny burrowing creature, found in moist soil.  It is legless,"
 " long and thin.]"
 msgstr ""
+"[DESCRIPTION:Una minuscola creatura scavatrice che si trova nel terreno "
+"umido.  È priva di zampe, lunga e sottile.]"
 
 #: creature_annelids.txt:7
 msgctxt "CREATURE:WORM"
@@ -5780,6 +5782,7 @@ msgstr ""
 msgctxt "CREATURE:BLUEJAY_MAN"
 msgid "[DESCRIPTION:A person with the head and wings of a bluejay.]"
 msgstr ""
+"[DESCRIPTION:Una persona con la testa e le ali di una ghiandaia azzurra.]"
 
 #: creature_birds.txt:146
 msgctxt "CREATURE:GIANT_BLUEJAY"
@@ -5876,7 +5879,7 @@ msgstr ""
 #: creature_birds.txt:289
 msgctxt "CREATURE:CARDINAL_MAN"
 msgid "[DESCRIPTION:A person with the head and wings of a cardinal.]"
-msgstr ""
+msgstr "[DESCRIPTION:Una persona con la testa e le ali di un cardinale.]"
 
 #: creature_birds.txt:305
 msgctxt "CREATURE:GIANT_CARDINAL"
@@ -5974,7 +5977,7 @@ msgstr ""
 #: creature_birds.txt:445
 msgctxt "CREATURE:GRACKLE_MAN"
 msgid "[DESCRIPTION:A person with the head and wings of a grackle.]"
-msgstr ""
+msgstr "[DESCRIPTION:Una persona con la testa e le ali di una gracola.]"
 
 #: creature_birds.txt:461
 msgctxt "CREATURE:GIANT_GRACKLE"
@@ -6071,7 +6074,7 @@ msgstr ""
 #: creature_birds.txt:600
 msgctxt "CREATURE:ORIOLE_MAN"
 msgid "[DESCRIPTION:A person with the head and wings of an oriole.]"
-msgstr ""
+msgstr "[DESCRIPTION:Una persona con la testa e le ali di un oriolo.]"
 
 #: creature_birds.txt:616
 msgctxt "CREATURE:GIANT_ORIOLE"
@@ -6179,6 +6182,7 @@ msgctxt "CREATURE:RW_BLACKBIRD_MAN"
 msgid ""
 "[DESCRIPTION:A person with the head and wings of a red-winged blackbird.]"
 msgstr ""
+"[DESCRIPTION:Una persona con la testa e le ali di un merlo dalle ali rosse.]"
 
 #: creature_birds.txt:772
 msgctxt "CREATURE:GIANT_RW_BLACKBIRD"
@@ -6545,6 +6549,7 @@ msgstr ""
 msgctxt "CREATURE:PEREGRINE FALCON MAN"
 msgid "[DESCRIPTION:A person with the head and wings of a peregrine falcon.]"
 msgstr ""
+"[DESCRIPTION:Una persona con la testa e le ali di un falco pellegrino.]"
 
 #: creature_birds.txt:1310
 msgctxt "CREATURE:GIANT PEREGRINE FALCON"
@@ -6565,6 +6570,8 @@ msgid ""
 "[DESCRIPTION:A large bird monster that is the same shape as a peregrine "
 "falcon.]"
 msgstr ""
+"[DESCRIPTION:Un grande mostro-uccello che ha la stessa forma di un falco "
+"pellegrino.]"
 
 #: creature_birds.txt:1320
 msgctxt "CREATURE:GIANT PEREGRINE FALCON"
@@ -6717,7 +6724,7 @@ msgstr ""
 #: creature_birds.txt:1516
 msgctxt "CREATURE:BIRD_OSTRICH"
 msgid "[PREFSTRING:long necks]"
-msgstr ""
+msgstr "[PREFSTRING:colli lunghi]"
 
 #: creature_birds.txt:1517
 msgctxt "CREATURE:BIRD_OSTRICH"
@@ -6819,7 +6826,7 @@ msgstr ""
 #: creature_birds.txt:1664
 msgctxt "CREATURE:BIRD_OSTRICH_GIANT"
 msgid "[PREFSTRING:long necks]"
-msgstr ""
+msgstr "[PREFSTRING:colli lunghi]"
 
 #: creature_birds.txt:1665
 msgctxt "CREATURE:BIRD_OSTRICH_GIANT"
@@ -6896,7 +6903,7 @@ msgstr ""
 #: creature_birds_new.txt:136
 msgctxt "CREATURE:CROW_MAN"
 msgid "[DESCRIPTION:A small person with the head and wings of a crow.]"
-msgstr ""
+msgstr "[DESCRIPTION:Una piccola persona con la testa e le ali di un corvo.]"
 
 #: creature_birds_new.txt:152
 msgctxt "CREATURE:GIANT_CROW"
@@ -6995,7 +7002,7 @@ msgstr ""
 #: creature_birds_new.txt:305
 msgctxt "CREATURE:RAVEN_MAN"
 msgid "[DESCRIPTION:A person with the head and wings of a raven.]"
-msgstr ""
+msgstr "[DESCRIPTION:Una persona con la testa e le ali di un corvo maggiore.]"
 
 #: creature_birds_new.txt:321
 msgctxt "CREATURE:GIANT_RAVEN"
@@ -7112,7 +7119,7 @@ msgstr ""
 #: creature_birds_new.txt:478
 msgctxt "CREATURE:GIANT_CASSOWARY"
 msgid "[DESCRIPTION:A huge monster in the shape of a cassowary.]"
-msgstr ""
+msgstr "[DESCRIPTION:Un enorme mostro sotto forma di casuario.]"
 
 #: creature_birds_new.txt:486
 msgctxt "CREATURE:GIANT_CASSOWARY"
@@ -7123,31 +7130,32 @@ msgstr ""
 msgctxt "CREATURE:BIRD_KEA"
 msgid "[DESCRIPTION:A small, green, intelligent mountain parrot.]"
 msgstr ""
+"[DESCRIPTION:Un piccolo pappagallo di montagna, verde e intelligente.]"
 
 #: creature_birds_new.txt:495
 msgctxt "CREATURE:BIRD_KEA"
 msgid "[NAME:kea:kea:kea]"
-msgstr ""
+msgstr "[NAME:kea:kea:kea]"
 
 #: creature_birds_new.txt:496
 msgctxt "CREATURE:BIRD_KEA"
 msgid "[CASTE_NAME:kea:kea:kea]"
-msgstr ""
+msgstr "[CASTE_NAME:kea:kea:kea]"
 
 #: creature_birds_new.txt:497
 msgctxt "CREATURE:BIRD_KEA"
 msgid "[GENERAL_CHILD_NAME:kea chick:kea chicks]"
-msgstr ""
+msgstr "[GENERAL_CHILD_NAME:pulcino di kea:pulcini di kea]"
 
 #: creature_birds_new.txt:523
 msgctxt "CREATURE:BIRD_KEA"
 msgid "[PREFSTRING:curiosity]"
-msgstr ""
+msgstr "[PREFSTRING:curiosità]"
 
 #: creature_birds_new.txt:524
 msgctxt "CREATURE:BIRD_KEA"
 msgid "[PREFSTRING:intelligence]"
-msgstr ""
+msgstr "[PREFSTRING:intelligenza]"
 
 #: creature_birds_new.txt:563
 msgctxt "CREATURE:BIRD_KEA"
@@ -7217,12 +7225,12 @@ msgstr ""
 #: creature_birds_new.txt:650
 msgctxt "CREATURE:GIANT_KEA"
 msgid "[PREFSTRING:curiosity]"
-msgstr ""
+msgstr "[PREFSTRING:curiosità]"
 
 #: creature_birds_new.txt:651
 msgctxt "CREATURE:GIANT_KEA"
 msgid "[PREFSTRING:intelligence]"
-msgstr ""
+msgstr "[PREFSTRING:intelligenza]"
 
 #: creature_birds_new.txt:664
 msgctxt "CREATURE:BIRD_OWL_SNOWY"
@@ -7249,7 +7257,7 @@ msgstr ""
 #: creature_birds_new.txt:688
 msgctxt "CREATURE:BIRD_OWL_SNOWY"
 msgid "[PREFSTRING:yellow eyes]"
-msgstr ""
+msgstr "[PREFSTRING:occhi gialli]"
 
 #: creature_birds_new.txt:689
 msgctxt "CREATURE:BIRD_OWL_SNOWY"
@@ -7300,6 +7308,7 @@ msgstr ""
 msgctxt "CREATURE:SNOWY_OWL_MAN"
 msgid "[DESCRIPTION:A person with the wings and head of a snowy owl.]"
 msgstr ""
+"[DESCRIPTION:Una persona con la testa e le ali di un gufo delle nevi.]"
 
 #: creature_birds_new.txt:805
 msgctxt "CREATURE:GIANT_SNOWY_OWL"
@@ -7320,6 +7329,7 @@ msgstr ""
 msgctxt "CREATURE:GIANT_SNOWY_OWL"
 msgid "[DESCRIPTION:A large bird monster in the shape of a snowy owl.]"
 msgstr ""
+"[DESCRIPTION:Un grande mostro uccello sotto forma di gufo delle nevi.]"
 
 #: creature_birds_new.txt:816
 msgctxt "CREATURE:GIANT_SNOWY_OWL"
@@ -7405,7 +7415,7 @@ msgstr ""
 #: creature_birds_new.txt:956
 msgctxt "CREATURE:SPARROW_MAN"
 msgid "[DESCRIPTION:A person with the head and wings of a sparrow.]"
-msgstr ""
+msgstr "[DESCRIPTION:Una persona con la testa e le ali di un passero.]"
 
 #: creature_birds_new.txt:972
 msgctxt "CREATURE:GIANT_SPARROW"
@@ -7425,7 +7435,7 @@ msgstr ""
 #: creature_birds_new.txt:975
 msgctxt "CREATURE:GIANT_SPARROW"
 msgid "[DESCRIPTION:A large bird-like monster in the shape of a sparrow.]"
-msgstr ""
+msgstr "[DESCRIPTION:Un grande mostro uccello sotto forma di passero.]"
 
 #: creature_birds_new.txt:984
 msgctxt "CREATURE:GIANT_SPARROW"
@@ -7462,7 +7472,7 @@ msgstr ""
 #: creature_birds_new.txt:1019
 msgctxt "CREATURE:BIRD_STORK_WHITE"
 msgid "[PREFSTRING:long necks]"
-msgstr ""
+msgstr "[PREFSTRING:colli lunghi]"
 
 #: creature_birds_new.txt:1020
 msgctxt "CREATURE:BIRD_STORK_WHITE"
@@ -7515,6 +7525,8 @@ msgid ""
 "[DESCRIPTION:A person with the head and wings of a stork, also standing on "
 "long legs.]"
 msgstr ""
+"[DESCRIPTION:Una persona con la testa e le ali di una cicogna, che si regge "
+"anche su lunghe gambe.]"
 
 #: creature_birds_new.txt:1121
 msgctxt "CREATURE:GIANT_WHITE_STORK"
@@ -7541,7 +7553,7 @@ msgstr ""
 #: creature_birds_new.txt:1133
 msgctxt "CREATURE:GIANT_WHITE_STORK"
 msgid "[PREFSTRING:long necks]"
-msgstr ""
+msgstr "[PREFSTRING:colli lunghi]"
 
 #: creature_birds_new.txt:1134
 msgctxt "CREATURE:GIANT_WHITE_STORK"
@@ -7623,7 +7635,7 @@ msgstr ""
 #: creature_birds_new.txt:1255
 msgctxt "CREATURE:LOON_MAN"
 msgid "[DESCRIPTION:A person with the head and wings of a loon.]"
-msgstr ""
+msgstr "[DESCRIPTION:Una persona con la testa e le ali di una strolaga.]"
 
 #: creature_birds_new.txt:1271
 msgctxt "CREATURE:GIANT_LOON"
@@ -7643,7 +7655,7 @@ msgstr ""
 #: creature_birds_new.txt:1274
 msgctxt "CREATURE:GIANT_LOON"
 msgid "[DESCRIPTION:A large monster in the shape of a loon.]"
-msgstr ""
+msgstr "[DESCRIPTION:A large monster in the shape of a loon.]"
 
 #: creature_birds_new.txt:1283
 msgctxt "CREATURE:GIANT_LOON"
@@ -7827,7 +7839,7 @@ msgstr ""
 #: creature_birds_new.txt:1587
 msgctxt "CREATURE:PARAKEET_MAN"
 msgid "[DESCRIPTION:A person with the head and wings of a parakeet.]"
-msgstr ""
+msgstr "[DESCRIPTION:Una persona con la testa e le ali di un parrocchetto.]"
 
 #: creature_birds_new.txt:1603
 msgctxt "CREATURE:GIANT_PARAKEET"
@@ -7848,7 +7860,7 @@ msgstr ""
 #: creature_birds_new.txt:1606
 msgctxt "CREATURE:GIANT_PARAKEET"
 msgid "[DESCRIPTION:A large monster in the shape of a parakeet.]"
-msgstr ""
+msgstr "[DESCRIPTION:A large monster in the shape of a parakeet.]"
 
 #: creature_birds_new.txt:1615
 msgctxt "CREATURE:GIANT_PARAKEET"
@@ -7948,7 +7960,7 @@ msgstr ""
 #: creature_birds_new.txt:1736
 msgctxt "CREATURE:KAKAPO_MAN"
 msgid "[DESCRIPTION:A person with the head and wings of a kakapo.]"
-msgstr ""
+msgstr "[DESCRIPTION:Una persona con la testa e le ali di un cacapò.]"
 
 #: creature_birds_new.txt:1752
 msgctxt "CREATURE:GIANT_KAKAPO"
@@ -8056,6 +8068,7 @@ msgstr ""
 msgctxt "CREATURE:GREY_PARROT_MAN"
 msgid "[DESCRIPTION:A person with the head and wings of a grey parrot.]"
 msgstr ""
+"[DESCRIPTION:Una persona con la testa e le ali di un pappagallo grigio.]"
 
 #: creature_birds_new.txt:1900
 msgctxt "CREATURE:GIANT_GREY_PARROT"
@@ -8075,7 +8088,7 @@ msgstr ""
 #: creature_birds_new.txt:1903
 msgctxt "CREATURE:GIANT_GREY_PARROT"
 msgid "[DESCRIPTION:A huge monster in the shape of a grey parrot.]"
-msgstr ""
+msgstr "[DESCRIPTION:Un enorme mostro sotto forma di pappagallo grigio.]"
 
 #: creature_birds_new.txt:1912
 msgctxt "CREATURE:GIANT_GREY_PARROT"
@@ -8247,7 +8260,7 @@ msgstr ""
 #: creature_birds_new.txt:2174
 msgctxt "CREATURE:SWAN_MAN"
 msgid "[DESCRIPTION:A person with the head and wings of a swan.]"
-msgstr ""
+msgstr "[DESCRIPTION:Una persona con la testa e le ali di un cigno.]"
 
 #: creature_birds_new.txt:2190
 msgctxt "CREATURE:GIANT_SWAN"
@@ -8350,6 +8363,7 @@ msgstr ""
 msgctxt "CREATURE:LORIKEET_MAN"
 msgid "[DESCRIPTION:A colorful person with the head and wings of a lorikeet.]"
 msgstr ""
+"[DESCRIPTION:Una persona variopinta con la testa e le ali di un lorichetto.]"
 
 #: creature_birds_new.txt:2350
 msgctxt "CREATURE:GIANT_LORIKEET"
@@ -8370,7 +8384,7 @@ msgstr ""
 #: creature_birds_new.txt:2353
 msgctxt "CREATURE:GIANT_LORIKEET"
 msgid "[DESCRIPTION:A large monster in the shape of a lorikeet.]"
-msgstr ""
+msgstr "[DESCRIPTION:A large monster in the shape of a lorikeet.]"
 
 #: creature_birds_new.txt:2362
 msgctxt "CREATURE:GIANT_LORIKEET"
@@ -8450,7 +8464,7 @@ msgstr ""
 #: creature_birds_new.txt:2499
 msgctxt "CREATURE:WREN_MAN"
 msgid "[DESCRIPTION:A person with the head and wings of a wren.]"
-msgstr ""
+msgstr "[DESCRIPTION:Una persona con la testa e le ali di uno scricciolo.]"
 
 #: creature_birds_new.txt:2515
 msgctxt "CREATURE:GIANT_WREN"
@@ -8483,6 +8497,8 @@ msgid ""
 "[DESCRIPTION:A small bird of prey with black markings on its eyes.  It hunts"
 " near bodies of water.]"
 msgstr ""
+"[DESCRIPTION:Un piccolo rapace con segni neri sugli occhi.  Caccia in "
+"prossimità di specchi d'acqua]."
 
 #: creature_birds_new.txt:2540
 msgctxt "CREATURE:BIRD_OSPREY"
@@ -8548,6 +8564,7 @@ msgstr ""
 msgctxt "CREATURE:OSPREY_MAN"
 msgid "[DESCRIPTION:A person with the head and wings of an osprey.]"
 msgstr ""
+"[DESCRIPTION:Una persona con la testa e le ali di un falco pescatore.]"
 
 #: creature_birds_new.txt:2682
 msgctxt "CREATURE:GIANT_OSPREY"
@@ -8580,6 +8597,8 @@ msgid ""
 "[DESCRIPTION:A large flightless bird.  It is very curious and has been known"
 " to follow other creatures.]"
 msgstr ""
+"[DESCRIPTION:Un grande uccello incapace di volare. È molto curioso, è "
+"risaputo che segue altre creature.]"
 
 #: creature_birds_new.txt:2706
 msgctxt "CREATURE:BIRD_EMU"
@@ -8752,6 +8771,7 @@ msgstr ""
 msgctxt "CREATURE:COCKATIEL_MAN"
 msgid "[DESCRIPTION:A crested person with the head and wings of a cockatiel.]"
 msgstr ""
+"[DESCRIPTION:Una persona crestata con la testa e le ali di una calopsitta.]"
 
 #: creature_birds_new.txt:2996
 msgctxt "CREATURE:GIANT_COCKATIEL"
@@ -8861,6 +8881,8 @@ msgid ""
 "[DESCRIPTION:A colorful person with the head and wings of a peach-faced "
 "lovebird.]"
 msgstr ""
+"[DESCRIPTION:Una persona variopinta con la testa e le ali di un inseparabile"
+" facciarosa.]"
 
 #: creature_birds_new.txt:3156
 msgctxt "CREATURE:GIANT_PEACH-FACED_LOVEBIRD"
@@ -8888,6 +8910,8 @@ msgctxt "CREATURE:GIANT_PEACH-FACED_LOVEBIRD"
 msgid ""
 "[DESCRIPTION:A huge monster taking the shape of a peach-faced lovebird.]"
 msgstr ""
+"[DESCRIPTION:Un enorme mostro che assume la forma di un inseparabile "
+"facciarosa.]"
 
 #: creature_birds_new.txt:3168
 msgctxt "CREATURE:GIANT_PEACH-FACED_LOVEBIRD"
@@ -8969,7 +8993,7 @@ msgstr ""
 #: creature_birds_new.txt:3302
 msgctxt "CREATURE:MAGPIE_MAN"
 msgid "[DESCRIPTION:A person with the head and wings of a magpie.]"
-msgstr ""
+msgstr "[DESCRIPTION:Una persona con la testa e le ali di un gazza.]"
 
 #: creature_birds_new.txt:3318
 msgctxt "CREATURE:GIANT_MAGPIE"
@@ -8989,7 +9013,7 @@ msgstr ""
 #: creature_birds_new.txt:3321
 msgctxt "CREATURE:GIANT_MAGPIE"
 msgid "[DESCRIPTION:A huge monster in the shape of a magpie.]"
-msgstr ""
+msgstr "[DESCRIPTION:Un enorme mostro sotto forma di gazza.]"
 
 #: creature_birds_new.txt:3330
 msgctxt "CREATURE:GIANT_MAGPIE"
@@ -9076,7 +9100,7 @@ msgstr ""
 #: creature_birds_new.txt:3469
 msgctxt "CREATURE:KESTREL_MAN"
 msgid "[DESCRIPTION:A person with the head and wings of a kestrel.]"
-msgstr ""
+msgstr "[DESCRIPTION:Una persona con la testa e le ali di un gheppio.]"
 
 #: creature_birds_new.txt:3485
 msgctxt "CREATURE:GIANT_KESTREL"
@@ -9173,7 +9197,7 @@ msgstr ""
 #: creature_birds_new.txt:3613
 msgctxt "CREATURE:ALBATROSS_MAN"
 msgid "[DESCRIPTION:A person with the head and wings of an albatross.]"
-msgstr ""
+msgstr "[DESCRIPTION:Una persona con la testa e le ali di un albatros.]"
 
 #: creature_birds_new.txt:3629
 msgctxt "CREATURE:GIANT_ALBATROSS"
@@ -9194,7 +9218,7 @@ msgstr ""
 #: creature_birds_new.txt:3632
 msgctxt "CREATURE:GIANT_ALBATROSS"
 msgid "[DESCRIPTION:A huge monster in the shape of an albatross.]"
-msgstr ""
+msgstr "[DESCRIPTION:Un enorme mostro sotto forma di albatros.]"
 
 #: creature_birds_new.txt:3641
 msgctxt "CREATURE:GIANT_ALBATROSS"
@@ -9207,6 +9231,7 @@ msgid ""
 "[DESCRIPTION:A small, nocturnal bird of prey with large eyes and protruding "
 "feathers.]"
 msgstr ""
+"[DESCRIPTION:Un piccolo rapace notturno con grandi occhi e piume sporgenti]."
 
 #: creature_birds_new.txt:3654
 msgctxt "CREATURE:BIRD_OWL_GREAT_HORNED"
@@ -9226,7 +9251,7 @@ msgstr ""
 #: creature_birds_new.txt:3685
 msgctxt "CREATURE:BIRD_OWL_GREAT_HORNED"
 msgid "[PREFSTRING:piercing yellow eyes]"
-msgstr ""
+msgstr "[PREFSTRING:occhi gialli penetranti]"
 
 #: creature_birds_new.txt:3686
 msgctxt "CREATURE:BIRD_OWL_GREAT_HORNED"
@@ -9282,6 +9307,8 @@ msgid ""
 "[DESCRIPTION:A feathered person with the head and wings of a great horned "
 "owl.]"
 msgstr ""
+"[DESCRIPTION:Una persona piumata con la testa e le ali di un grande gufo "
+"cornuto.]"
 
 #: creature_birds_new.txt:3799
 msgctxt "CREATURE:GIANT_GREAT_HORNED_OWL"
@@ -9306,12 +9333,12 @@ msgstr ""
 #: creature_birds_new.txt:3802
 msgctxt "CREATURE:GIANT_GREAT_HORNED_OWL"
 msgid "[DESCRIPTION:A huge monster in the shape of a great horned owl.]"
-msgstr ""
+msgstr "[DESCRIPTION:Un enorme mostro sotto forma di grande gufo cornuto.]"
 
 #: creature_birds_new.txt:3810
 msgctxt "CREATURE:GIANT_GREAT_HORNED_OWL"
 msgid "[PREFSTRING:piercing yellow eyes]"
-msgstr ""
+msgstr "[PREFSTRING:occhi gialli penetranti]"
 
 #: creature_birds_new.txt:3811
 msgctxt "CREATURE:GIANT_GREAT_HORNED_OWL"
@@ -9386,7 +9413,7 @@ msgstr ""
 #: creature_birds_new.txt:3951
 msgctxt "CREATURE:EAGLE_MAN"
 msgid "[DESCRIPTION:A feathered person with the head and wings of an eagle.]"
-msgstr ""
+msgstr "[DESCRIPTION:Una persona piumata con la testa e le ali di un'aquila.]"
 
 #: creature_birds_new.txt:3967
 msgctxt "CREATURE:GIANT_EAGLE"
@@ -9501,7 +9528,7 @@ msgstr ""
 #: creature_birds_new.txt:4129
 msgctxt "CREATURE:GIANT_HORNBILL"
 msgid "[DESCRIPTION:A huge monster in the shape of a hornbill.]"
-msgstr ""
+msgstr "[DESCRIPTION:Un enorme mostro sotto forma di bucero.]"
 
 #: creature_birds_new.txt:4137
 msgctxt "CREATURE:GIANT_HORNBILL"
@@ -9585,6 +9612,8 @@ msgid ""
 "[DESCRIPTION:A colorful person with the head and wings of a masked "
 "lovebird.]"
 msgstr ""
+"[DESCRIPTION:Una persona variopinta con la testa e le ali di un inseparabile"
+" mascherato.]"
 
 #: creature_birds_new.txt:4284
 msgctxt "CREATURE:GIANT_MASKED_LOVEBIRD"
@@ -9689,7 +9718,7 @@ msgstr ""
 #: creature_birds_new.txt:4426
 msgctxt "CREATURE:BUSHTIT_MAN"
 msgid "[DESCRIPTION:A person with the head and wings of a bushtit.]"
-msgstr ""
+msgstr "[DESCRIPTION:Una persona con la testa e le ali di un egitalide.]"
 
 #: creature_birds_new.txt:4442
 msgctxt "CREATURE:GIANT_BUSHTIT"
@@ -9744,7 +9773,7 @@ msgstr "[PREFSTRING:colorazione]"
 #: creature_bug_slug_new.txt:57
 msgctxt "CREATURE:DAMSELFLY"
 msgid "[TLCM_NOUN:chitin:SINGULAR]"
-msgstr ""
+msgstr "[TLCM_NOUN:chitina:SINGULAR]"
 
 #: creature_bug_slug_new.txt:60
 msgctxt "CREATURE:DAMSELFLY"
@@ -9769,7 +9798,7 @@ msgstr ""
 #: creature_bug_slug_new.txt:79
 msgctxt "CREATURE:DAMSELFLY_MAN"
 msgid "[DESCRIPTION:A person with the wings and head of a damselfly.]"
-msgstr ""
+msgstr "[DESCRIPTION:Una persona con la testa e le ali di una damigella.]"
 
 #: creature_bug_slug_new.txt:95
 msgctxt "CREATURE:GIANT_DAMSELFLY"
@@ -9784,7 +9813,7 @@ msgstr ""
 #: creature_bug_slug_new.txt:97
 msgctxt "CREATURE:GIANT_DAMSELFLY"
 msgid "[DESCRIPTION:A large monster in the shape of a damselfly.]"
-msgstr ""
+msgstr "[DESCRIPTION:A large monster in the shape of a damselfly.]"
 
 #: creature_bug_slug_new.txt:106
 msgctxt "CREATURE:GIANT_DAMSELFLY"
@@ -9815,7 +9844,7 @@ msgstr "[PREFSTRING:colorazione]"
 #: creature_bug_slug_new.txt:165
 msgctxt "CREATURE:MOTH"
 msgid "[TLCM_NOUN:chitin:SINGULAR]"
-msgstr ""
+msgstr "[TLCM_NOUN:chitina:SINGULAR]"
 
 #: creature_bug_slug_new.txt:168
 msgctxt "CREATURE:MOTH"
@@ -9840,7 +9869,7 @@ msgstr ""
 #: creature_bug_slug_new.txt:187
 msgctxt "CREATURE:MOTH_MAN"
 msgid "[DESCRIPTION:A person with the head and wings of a moth.]"
-msgstr ""
+msgstr "[DESCRIPTION:Una persona con la testa e le ali di una falena.]"
 
 #: creature_bug_slug_new.txt:203
 msgctxt "CREATURE:GIANT_MOTH"
@@ -9894,7 +9923,7 @@ msgstr "[PREFSTRING:grandi balzi]"
 #: creature_bug_slug_new.txt:270
 msgctxt "CREATURE:GRASSHOPPER"
 msgid "[TLCM_NOUN:chitin:SINGULAR]"
-msgstr ""
+msgstr "[TLCM_NOUN:chitina:SINGULAR]"
 
 #: creature_bug_slug_new.txt:273
 msgctxt "CREATURE:GRASSHOPPER"
@@ -9934,7 +9963,7 @@ msgstr ""
 #: creature_bug_slug_new.txt:309
 msgctxt "CREATURE:GIANT_GRASSHOPPER"
 msgid "[DESCRIPTION:A huge creature in the shape of a grasshopper.]"
-msgstr ""
+msgstr "[DESCRIPTION:A huge creature in the shape of a grasshopper.]"
 
 #: creature_bug_slug_new.txt:318
 msgctxt "CREATURE:GIANT_GRASSHOPPER"
@@ -10016,7 +10045,7 @@ msgstr ""
 #: creature_bug_slug_new.txt:401
 msgctxt "CREATURE:BARK_SCORPION"
 msgid "[TLCM_NOUN:chitin:SINGULAR]"
-msgstr ""
+msgstr "[TLCM_NOUN:chitina:SINGULAR]"
 
 #: creature_bug_slug_new.txt:404
 msgctxt "CREATURE:BARK_SCORPION"
@@ -10121,7 +10150,7 @@ msgstr ""
 #: creature_bug_slug_new.txt:543
 msgctxt "CREATURE:MANTIS"
 msgid "[TLCM_NOUN:chitin:SINGULAR]"
-msgstr ""
+msgstr "[TLCM_NOUN:chitina:SINGULAR]"
 
 #: creature_bug_slug_new.txt:546
 msgctxt "CREATURE:MANTIS"
@@ -10161,7 +10190,7 @@ msgstr ""
 #: creature_bug_slug_new.txt:584
 msgctxt "CREATURE:GIANT_MANTIS"
 msgid "[DESCRIPTION:A large monster in the shape of a mantis.]"
-msgstr ""
+msgstr "[DESCRIPTION:A large monster in the shape of a mantis.]"
 
 #: creature_bug_slug_new.txt:593
 msgctxt "CREATURE:GIANT_MANTIS"
@@ -10196,7 +10225,7 @@ msgstr ""
 #: creature_bug_slug_new.txt:653
 msgctxt "CREATURE:TICK"
 msgid "[TLCM_NOUN:chitin:SINGULAR]"
-msgstr ""
+msgstr "[TLCM_NOUN:chitina:SINGULAR]"
 
 #: creature_bug_slug_new.txt:656
 msgctxt "CREATURE:TICK"
@@ -10236,7 +10265,7 @@ msgstr ""
 #: creature_bug_slug_new.txt:693
 msgctxt "CREATURE:GIANT_TICK"
 msgid "[DESCRIPTION:A large monster taking the shape of a tick.]"
-msgstr ""
+msgstr "[DESCRIPTION:A large monster taking the shape of a tick.]"
 
 #: creature_bug_slug_new.txt:702
 msgctxt "CREATURE:GIANT_TICK"
@@ -10266,7 +10295,7 @@ msgstr ""
 #: creature_bug_slug_new.txt:760
 msgctxt "CREATURE:LOUSE"
 msgid "[TLCM_NOUN:chitin:SINGULAR]"
-msgstr ""
+msgstr "[TLCM_NOUN:chitina:SINGULAR]"
 
 #: creature_bug_slug_new.txt:763
 msgctxt "CREATURE:LOUSE"
@@ -10306,7 +10335,7 @@ msgstr ""
 #: creature_bug_slug_new.txt:800
 msgctxt "CREATURE:GIANT_LOUSE"
 msgid "[DESCRIPTION:A huge monster in the shape of a louse.]"
-msgstr ""
+msgstr "[DESCRIPTION:Un enorme mostro sotto forma di pidocchio.]"
 
 #: creature_bug_slug_new.txt:809
 msgctxt "CREATURE:GIANT_LOUSE"
@@ -10337,7 +10366,7 @@ msgstr ""
 #: creature_bug_slug_new.txt:868
 msgctxt "CREATURE:THRIPS"
 msgid "[TLCM_NOUN:chitin:SINGULAR]"
-msgstr ""
+msgstr "[TLCM_NOUN:chitina:SINGULAR]"
 
 #: creature_bug_slug_new.txt:871
 msgctxt "CREATURE:THRIPS"
@@ -10362,7 +10391,7 @@ msgstr ""
 #: creature_bug_slug_new.txt:890
 msgctxt "CREATURE:THRIPS_MAN"
 msgid "[DESCRIPTION:A person with the head and wings of a thrips.]"
-msgstr ""
+msgstr "[DESCRIPTION:Una persona con la testa e le ali di un tisanottero.]"
 
 #: creature_bug_slug_new.txt:906
 msgctxt "CREATURE:GIANT_THRIPS"
@@ -10478,7 +10507,7 @@ msgstr ""
 #: creature_bug_slug_new.txt:1065
 msgctxt "CREATURE:MOSQUITO"
 msgid "[TLCM_NOUN:chitin:SINGULAR]"
-msgstr ""
+msgstr "[TLCM_NOUN:chitina:SINGULAR]"
 
 #: creature_bug_slug_new.txt:1068
 msgctxt "CREATURE:MOSQUITO"
@@ -10518,7 +10547,7 @@ msgstr ""
 #: creature_bug_slug_new.txt:1106
 msgctxt "CREATURE:GIANT_MOSQUITO"
 msgid "[DESCRIPTION:A huge monster in the shape of a mosquito.]"
-msgstr ""
+msgstr "[DESCRIPTION:Un enorme mostro sotto forma di zanzara.]"
 
 #: creature_bug_slug_new.txt:1115
 msgctxt "CREATURE:GIANT_MOSQUITO"
@@ -10560,7 +10589,7 @@ msgstr ""
 #: creature_bug_slug_new.txt:1173
 msgctxt "CREATURE:SPIDER_JUMPING"
 msgid "[TLCM_NOUN:chitin:SINGULAR]"
-msgstr ""
+msgstr "[TLCM_NOUN:chitina:SINGULAR]"
 
 #: creature_bug_slug_new.txt:1176
 msgctxt "CREATURE:SPIDER_JUMPING"
@@ -10659,7 +10688,7 @@ msgstr ""
 #: creature_bug_slug_new.txt:1290
 msgctxt "CREATURE:TERMITE"
 msgid "[TLCM_NOUN:chitin:SINGULAR]"
-msgstr ""
+msgstr "[TLCM_NOUN:chitina:SINGULAR]"
 
 #: creature_bug_slug_new.txt:1293
 msgctxt "CREATURE:TERMITE"
@@ -10735,7 +10764,7 @@ msgstr ""
 #: creature_bug_slug_new.txt:1389
 msgctxt "CREATURE:GIANT_MOON_SNAIL"
 msgid "[DESCRIPTION:A huge monster in the shape of a moon snail.]"
-msgstr ""
+msgstr "[DESCRIPTION:Un enorme mostro sotto forma di naticide.]"
 
 #: creature_bug_slug_new.txt:1398
 msgctxt "CREATURE:GIANT_MOON_SNAIL"
@@ -10811,7 +10840,7 @@ msgstr ""
 #: creature_bug_slug_new.txt:1476
 msgctxt "CREATURE:SPIDER_BROWN_RECLUSE"
 msgid "[TLCM_NOUN:chitin:SINGULAR]"
-msgstr ""
+msgstr "[TLCM_NOUN:chitina:SINGULAR]"
 
 #: creature_bug_slug_new.txt:1479
 msgctxt "CREATURE:SPIDER_BROWN_RECLUSE"
@@ -10882,7 +10911,7 @@ msgstr ""
 #: creature_bug_slug_new.txt:1551
 msgctxt "CREATURE:GIANT_BROWN_RECLUSE_SPIDER"
 msgid "[DESCRIPTION:A huge monster in the shape of a brown recluse spider.]"
-msgstr ""
+msgstr "[DESCRIPTION:Un enorme mostro sotto forma di ragno eremita marrone.]"
 
 #: creature_bug_slug_new.txt:1560
 msgctxt "CREATURE:GIANT_BROWN_RECLUSE_SPIDER"
@@ -11026,7 +11055,7 @@ msgstr ""
 #: creature_desert_new.txt:119
 msgctxt "CREATURE:GIANT_LEOPARD_GECKO"
 msgid "[DESCRIPTION:A large monster in the shape of a gecko.]"
-msgstr ""
+msgstr "[DESCRIPTION:A large monster in the shape of a gecko.]"
 
 #: creature_desert_new.txt:128
 msgctxt "CREATURE:GIANT_LEOPARD_GECKO"
@@ -11311,7 +11340,7 @@ msgstr ""
 #: creature_domestic.txt:15
 msgctxt "CREATURE:DOG"
 msgid "[PREFSTRING:loyalty]"
-msgstr ""
+msgstr "[PREFSTRING:lealtà]"
 
 #: creature_domestic.txt:50
 msgctxt "CREATURE:DOG"
@@ -11346,7 +11375,7 @@ msgstr ""
 #: creature_domestic.txt:95
 msgctxt "CREATURE:DOG"
 msgid "[TLCM_NOUN:head:SINGULAR]"
-msgstr ""
+msgstr "[TLCM_NOUN:testa:SINGULAR]"
 
 #: creature_domestic.txt:106
 msgctxt "CREATURE:DOG"
@@ -11423,7 +11452,7 @@ msgstr ""
 #: creature_domestic.txt:221
 msgctxt "CREATURE:CAT"
 msgid "[TLCM_NOUN:head:SINGULAR]"
-msgstr ""
+msgstr "[TLCM_NOUN:testa:SINGULAR]"
 
 #: creature_domestic.txt:234
 msgctxt "CREATURE:CAT"
@@ -11914,6 +11943,8 @@ msgid ""
 "[DESCRIPTION:A medium-sized herding animal.  It is prized for its thick wool"
 " coat.]"
 msgstr ""
+"[DESCRIPTION:Animale da pascolo di medie dimensioni.  È apprezzato per il "
+"suo folto manto di lana.]"
 
 #: creature_domestic.txt:728
 msgctxt "CREATURE:SHEEP"
@@ -12677,7 +12708,7 @@ msgstr ""
 #: creature_domestic.txt:1540
 msgctxt "CREATURE:REINDEER"
 msgid "[PREFSTRING:large herds]"
-msgstr ""
+msgstr "[PREFSTRING:grandi mandrie]"
 
 #: creature_domestic.txt:1551
 msgctxt "CREATURE:REINDEER"
@@ -12881,7 +12912,7 @@ msgstr ""
 #: creature_domestic.txt:1762
 msgctxt "CREATURE:YAK"
 msgid "[PREFSTRING:shaggy hair]"
-msgstr ""
+msgstr "[PREFSTRING:capelli arruffati]"
 
 #: creature_domestic.txt:1803
 msgctxt "CREATURE:YAK"
@@ -12999,6 +13030,8 @@ msgid ""
 "[DESCRIPTION:A large domestic pack animal.  It has a long neck.  It is "
 "prized for its hair.]"
 msgstr ""
+"[DESCRIPTION:Un grande animale domestico da soma. Ha il collo lungo.  È "
+"apprezzato per il suo pelo.]"
 
 #: creature_domestic.txt:1881
 msgctxt "CREATURE:LLAMA"
@@ -13018,7 +13051,7 @@ msgstr ""
 #: creature_domestic.txt:1887
 msgctxt "CREATURE:LLAMA"
 msgid "[PREFSTRING:long necks]"
-msgstr ""
+msgstr "[PREFSTRING:colli lunghi]"
 
 #: creature_domestic.txt:1888
 msgctxt "CREATURE:LLAMA"
@@ -13151,6 +13184,8 @@ msgid ""
 "[DESCRIPTION:A large domestic animal with a long neck.  It has been bred for"
 " its valuable hair.]"
 msgstr ""
+"[DESCRIPTION:Animale domestico di grandi dimensioni con collo lungo.  È "
+"stato allevato per il suo prezioso pelo.]"
 
 #: creature_domestic.txt:2010
 msgctxt "CREATURE:ALPACA"
@@ -13170,7 +13205,7 @@ msgstr ""
 #: creature_domestic.txt:2016
 msgctxt "CREATURE:ALPACA"
 msgid "[PREFSTRING:long necks]"
-msgstr ""
+msgstr "[PREFSTRING:colli lunghi]"
 
 #: creature_domestic.txt:2017
 msgctxt "CREATURE:ALPACA"
@@ -13529,7 +13564,7 @@ msgstr ""
 #: creature_domestic.txt:2467
 msgctxt "CREATURE:RABBIT"
 msgid "[PREFSTRING:ability to burrow]"
-msgstr ""
+msgstr "[PREFSTRING:capacità di scavare]"
 
 #: creature_domestic.txt:2505
 msgctxt "CREATURE:RABBIT"
@@ -13656,7 +13691,7 @@ msgstr ""
 #: creature_insects.txt:56
 msgctxt "CREATURE:FLY"
 msgid "[TLCM_NOUN:chitin:SINGULAR]"
-msgstr ""
+msgstr "[TLCM_NOUN:chitina:SINGULAR]"
 
 #: creature_insects.txt:59
 msgctxt "CREATURE:FLY"
@@ -13681,7 +13716,7 @@ msgstr ""
 #: creature_insects.txt:78
 msgctxt "CREATURE:FLY_MAN"
 msgid "[DESCRIPTION:A person with the wings and head of a fly.]"
-msgstr ""
+msgstr "[DESCRIPTION:Una persona con la testa e le ali di una mosca.]"
 
 #: creature_insects.txt:94
 msgctxt "CREATURE:GIANT_FLY"
@@ -13696,7 +13731,7 @@ msgstr ""
 #: creature_insects.txt:96
 msgctxt "CREATURE:GIANT_FLY"
 msgid "[DESCRIPTION:A large monster in the shape of a fly.]"
-msgstr ""
+msgstr "[DESCRIPTION:A large monster in the shape of a fly.]"
 
 #: creature_insects.txt:105
 msgctxt "CREATURE:GIANT_FLY"
@@ -13713,12 +13748,12 @@ msgstr ""
 #: creature_insects.txt:113
 msgctxt "CREATURE:ROACH_LARGE"
 msgid "[NAME:large roach:large roaches:large roach]"
-msgstr ""
+msgstr "[NAME:grossa blatta:grosse blatte:grossa blatta]"
 
 #: creature_insects.txt:114
 msgctxt "CREATURE:ROACH_LARGE"
 msgid "[CASTE_NAME:large roach:large roaches:large roach]"
-msgstr ""
+msgstr "[CASTE_NAME:grossa blatta:grosse blatte:grossa blatta]"
 
 #: creature_insects.txt:124
 msgctxt "CREATURE:ROACH_LARGE"
@@ -13728,7 +13763,7 @@ msgstr ""
 #: creature_insects.txt:162
 msgctxt "CREATURE:ROACH_LARGE"
 msgid "[TLCM_NOUN:chitin:SINGULAR]"
-msgstr ""
+msgstr "[TLCM_NOUN:chitina:SINGULAR]"
 
 #: creature_insects.txt:165
 msgctxt "CREATURE:ROACH_LARGE"
@@ -13738,37 +13773,37 @@ msgstr "[TLCM_NOUN:occhi:PLURAL]"
 #: creature_insects.txt:172
 msgctxt "CREATURE:ROACH_MAN"
 msgid "[CASTE_NAME:roach man:roach men:roach man]"
-msgstr ""
+msgstr "[CASTE_NAME:uomo blatta:uomini blatta:uomo blatta]"
 
 #: creature_insects.txt:174
 msgctxt "CREATURE:ROACH_MAN"
 msgid "[CASTE_NAME:roach woman:roach women:roach woman]"
-msgstr ""
+msgstr "[CASTE_NAME:donna blatta:donne blatta: donna blatta]"
 
 #: creature_insects.txt:183
 msgctxt "CREATURE:ROACH_MAN"
 msgid "[NAME:roach man:roach men:roach man]"
-msgstr ""
+msgstr "[NAME:uomo blatta:uomini blatta:uomo blatta]"
 
 #: creature_insects.txt:184
 msgctxt "CREATURE:ROACH_MAN"
 msgid "[DESCRIPTION:A person with the wings and head of a roach.]"
-msgstr ""
+msgstr "[DESCRIPTION:Una persona con la testa e le ali di una blatta.]"
 
 #: creature_insects.txt:200
 msgctxt "CREATURE:GIANT_ROACH"
 msgid "[NAME:giant roach:giant roaches:giant roach]"
-msgstr ""
+msgstr "[NAME:blatta gigante:blatte giganti:blatta gigante]"
 
 #: creature_insects.txt:201
 msgctxt "CREATURE:GIANT_ROACH"
 msgid "[CASTE_NAME:giant roach:giant roaches:giant roach]"
-msgstr ""
+msgstr "[CASTE_NAME:blatta gigante:blatte giganti:blatta gigante]"
 
 #: creature_insects.txt:202
 msgctxt "CREATURE:GIANT_ROACH"
 msgid "[DESCRIPTION:A large monster in the shape of a roach.]"
-msgstr ""
+msgstr "[DESCRIPTION:Un grande mostro sotto forma di blatta.]"
 
 #: creature_insects.txt:211
 msgctxt "CREATURE:GIANT_ROACH"
@@ -13798,7 +13833,7 @@ msgstr ""
 #: creature_insects.txt:266
 msgctxt "CREATURE:BEETLE"
 msgid "[TLCM_NOUN:chitin:SINGULAR]"
-msgstr ""
+msgstr "[TLCM_NOUN:chitina:SINGULAR]"
 
 #: creature_insects.txt:269
 msgctxt "CREATURE:BEETLE"
@@ -13838,7 +13873,7 @@ msgstr ""
 #: creature_insects.txt:305
 msgctxt "CREATURE:GIANT_BEETLE"
 msgid "[DESCRIPTION:A large monster in the shape of a beetle.]"
-msgstr ""
+msgstr "[DESCRIPTION:A large monster in the shape of a beetle.]"
 
 #: creature_insects.txt:314
 msgctxt "CREATURE:GIANT_BEETLE"
@@ -13885,7 +13920,7 @@ msgstr ""
 #: creature_insects.txt:393
 msgctxt "CREATURE:ANT"
 msgid "[TLCM_NOUN:chitin:SINGULAR]"
-msgstr ""
+msgstr "[TLCM_NOUN:chitina:SINGULAR]"
 
 #: creature_insects.txt:396
 msgctxt "CREATURE:ANT"
@@ -13917,7 +13952,7 @@ msgstr "[PREFSTRING:colorazione]"
 #: creature_insects.txt:446
 msgctxt "CREATURE:BUTTERFLY_MONARCH"
 msgid "[TLCM_NOUN:chitin:SINGULAR]"
-msgstr ""
+msgstr "[TLCM_NOUN:chitina:SINGULAR]"
 
 #: creature_insects.txt:449
 msgctxt "CREATURE:BUTTERFLY_MONARCH"
@@ -13948,6 +13983,7 @@ msgstr ""
 msgctxt "CREATURE:BUTTERFLY_MONARCH_MAN"
 msgid "[DESCRIPTION:A person with the wings and head of a monarch butterfly.]"
 msgstr ""
+"[DESCRIPTION:Una persona con la testa e le ali di una farfalla monarca.]"
 
 #: creature_insects.txt:484
 msgctxt "CREATURE:GIANT_BUTTERFLY_MONARCH"
@@ -13966,7 +14002,7 @@ msgstr ""
 #: creature_insects.txt:486
 msgctxt "CREATURE:GIANT_BUTTERFLY_MONARCH"
 msgid "[DESCRIPTION:A large monster in the shape of a monarch butterfly.]"
-msgstr ""
+msgstr "[DESCRIPTION:A large monster in the shape of a monarch butterfly.]"
 
 #: creature_insects.txt:495
 msgctxt "CREATURE:GIANT_BUTTERFLY_MONARCH"
@@ -13998,7 +14034,7 @@ msgstr ""
 #: creature_insects.txt:551
 msgctxt "CREATURE:FIREFLY"
 msgid "[TLCM_NOUN:chitin:SINGULAR]"
-msgstr ""
+msgstr "[TLCM_NOUN:chitina:SINGULAR]"
 
 #: creature_insects.txt:554
 msgctxt "CREATURE:FIREFLY"
@@ -14023,7 +14059,7 @@ msgstr ""
 #: creature_insects.txt:573
 msgctxt "CREATURE:FIREFLY_MAN"
 msgid "[DESCRIPTION:A person with the wings and head of a firefly.]"
-msgstr ""
+msgstr "[DESCRIPTION:Una persona con la testa e le ali di una lucciola.]"
 
 #: creature_insects.txt:589
 msgctxt "CREATURE:GIANT_FIREFLY"
@@ -14038,7 +14074,7 @@ msgstr ""
 #: creature_insects.txt:591
 msgctxt "CREATURE:GIANT_FIREFLY"
 msgid "[DESCRIPTION:A large monster in the shape of a firefly.]"
-msgstr ""
+msgstr "[DESCRIPTION:A large monster in the shape of a firefly.]"
 
 #: creature_insects.txt:600
 msgctxt "CREATURE:GIANT_FIREFLY"
@@ -14068,7 +14104,7 @@ msgstr ""
 #: creature_insects.txt:654
 msgctxt "CREATURE:DRAGONFLY"
 msgid "[TLCM_NOUN:chitin:SINGULAR]"
-msgstr ""
+msgstr "[TLCM_NOUN:chitina:SINGULAR]"
 
 #: creature_insects.txt:657
 msgctxt "CREATURE:DRAGONFLY"
@@ -14093,7 +14129,7 @@ msgstr ""
 #: creature_insects.txt:676
 msgctxt "CREATURE:DRAGONFLY_MAN"
 msgid "[DESCRIPTION:A person with the wings and head of a dragonfly.]"
-msgstr ""
+msgstr "[DESCRIPTION:Una persona con la testa e le ali di una libellula.]"
 
 #: creature_insects.txt:692
 msgctxt "CREATURE:GIANT_DRAGONFLY"
@@ -14108,7 +14144,7 @@ msgstr ""
 #: creature_insects.txt:694
 msgctxt "CREATURE:GIANT_DRAGONFLY"
 msgid "[DESCRIPTION:A large monster in the shape of a dragonfly.]"
-msgstr ""
+msgstr "[DESCRIPTION:A large monster in the shape of a dragonfly.]"
 
 #: creature_insects.txt:703
 msgctxt "CREATURE:GIANT_DRAGONFLY"
@@ -14140,7 +14176,7 @@ msgstr ""
 #: creature_insects.txt:731
 msgctxt "CREATURE:HONEY_BEE"
 msgid "[PREFSTRING:ability to organize]"
-msgstr ""
+msgstr "[PREFSTRING:capacità di organizzare]"
 
 #: creature_insects.txt:742
 msgctxt "CREATURE:HONEY_BEE"
@@ -14265,7 +14301,7 @@ msgstr ""
 #: creature_insects.txt:835
 msgctxt "CREATURE:HONEY_BEE"
 msgid "[TLCM_NOUN:chitin:SINGULAR]"
-msgstr ""
+msgstr "[TLCM_NOUN:chitina:SINGULAR]"
 
 #: creature_insects.txt:838
 msgctxt "CREATURE:HONEY_BEE"
@@ -14412,7 +14448,7 @@ msgstr ""
 #: creature_insects.txt:951
 msgctxt "CREATURE:BUMBLEBEE"
 msgid "[TLCM_NOUN:chitin:SINGULAR]"
-msgstr ""
+msgstr "[TLCM_NOUN:chitina:SINGULAR]"
 
 #: creature_insects.txt:954
 msgctxt "CREATURE:BUMBLEBEE"
@@ -14725,17 +14761,17 @@ msgstr "[TLCM_NOUN:capigliatura:SINGULAR]"
 #: creature_large_mountain.txt:516
 msgctxt "CREATURE:GNOME_MOUNTAIN"
 msgid "[APP_MOD_NOUN:eyebrows:PLURAL]"
-msgstr ""
+msgstr "[APP_MOD_NOUN:sopracciglia:PLURAL]"
 
 #: creature_large_mountain.txt:525
 msgctxt "CREATURE:GNOME_MOUNTAIN"
 msgid "[APP_MOD_NOUN:eyelashes:PLURAL]"
-msgstr ""
+msgstr "[APP_MOD_NOUN:ciglia:PLURAL]"
 
 #: creature_large_mountain.txt:533
 msgctxt "CREATURE:GNOME_MOUNTAIN"
 msgid "[APP_MOD_NOUN:hair:SINGULAR]"
-msgstr ""
+msgstr "[APP_MOD_NOUN:capigliatura:SINGULAR]"
 
 #: creature_large_mountain.txt:549
 msgctxt "CREATURE:GNOME_MOUNTAIN"
@@ -14838,17 +14874,17 @@ msgstr "[TLCM_NOUN:capigliatura:SINGULAR]"
 #: creature_large_mountain.txt:761
 msgctxt "CREATURE:GNOME_DARK"
 msgid "[APP_MOD_NOUN:eyebrows:PLURAL]"
-msgstr ""
+msgstr "[APP_MOD_NOUN:sopracciglia:PLURAL]"
 
 #: creature_large_mountain.txt:770
 msgctxt "CREATURE:GNOME_DARK"
 msgid "[APP_MOD_NOUN:eyelashes:PLURAL]"
-msgstr ""
+msgstr "[APP_MOD_NOUN:ciglia:PLURAL]"
 
 #: creature_large_mountain.txt:778
 msgctxt "CREATURE:GNOME_DARK"
 msgid "[APP_MOD_NOUN:hair:SINGULAR]"
-msgstr ""
+msgstr "[APP_MOD_NOUN:capigliatura:SINGULAR]"
 
 #: creature_large_mountain.txt:794
 msgctxt "CREATURE:GNOME_DARK"
@@ -16392,6 +16428,8 @@ msgid ""
 "[DESCRIPTION:A large, flat, oceanic fish.  It dwells on the sea floor, both "
 "its eyes on the top side.]"
 msgstr ""
+"[DESCRIPTION:Un grande pesce oceanico piatto.  Abita sul fondo del mare, "
+"entrambi gli occhi sono sul lato superiore.]"
 
 #: creature_large_ocean.txt:2598
 msgctxt "CREATURE:FISH_HALIBUT"
@@ -17215,7 +17253,7 @@ msgstr ""
 #: creature_large_temperate.txt:146
 msgctxt "CREATURE:GIANT_BEAR_GRIZZLY"
 msgid "[DESCRIPTION:A huge monster in the shape of a grizzly bear.]"
-msgstr ""
+msgstr "[DESCRIPTION:Un enorme mostro sotto forma di orso grizzly.]"
 
 #: creature_large_temperate.txt:155
 msgctxt "CREATURE:GIANT_BEAR_GRIZZLY"
@@ -17314,7 +17352,7 @@ msgstr ""
 #: creature_large_temperate.txt:300
 msgctxt "CREATURE:GIANT_BEAR_BLACK"
 msgid "[DESCRIPTION:A huge monster in the shape of a black bear.]"
-msgstr ""
+msgstr "[DESCRIPTION:Un enorme mostro sotto forma di orso nero.]"
 
 #: creature_large_temperate.txt:309
 msgctxt "CREATURE:GIANT_BEAR_BLACK"
@@ -17528,7 +17566,7 @@ msgstr ""
 #: creature_large_temperate.txt:610
 msgctxt "CREATURE:GIANT_FOX"
 msgid "[DESCRIPTION:A huge monster in the shape of a fox.]"
-msgstr ""
+msgstr "[DESCRIPTION:Un enorme mostro sotto forma di volpe.]"
 
 #: creature_large_temperate.txt:619
 msgctxt "CREATURE:GIANT_FOX"
@@ -17626,7 +17664,7 @@ msgstr ""
 #: creature_large_temperate.txt:759
 msgctxt "CREATURE:GIANT_RACCOON"
 msgid "[DESCRIPTION:A huge monster in the shape of a raccoon.]"
-msgstr ""
+msgstr "[DESCRIPTION:Un enorme mostro sotto forma di procione.]"
 
 #: creature_large_temperate.txt:768
 msgctxt "CREATURE:GIANT_RACCOON"
@@ -17910,7 +17948,7 @@ msgstr ""
 #: creature_large_temperate.txt:1209
 msgctxt "CREATURE:GIANT_WOLF"
 msgid "[DESCRIPTION:A huge monster in the shape of a wolf.]"
-msgstr ""
+msgstr "[DESCRIPTION:Un enorme mostro sotto forma di lupo.]"
 
 #: creature_large_temperate.txt:1218
 msgctxt "CREATURE:GIANT_WOLF"
@@ -17923,6 +17961,8 @@ msgid ""
 "[DESCRIPTION:A large, round, lowland rodent.  It lives in burrows in the "
 "ground and ventures out to eat.]"
 msgstr ""
+"[DESCRIPTION:Un roditore di grandi dimensioni e di forma rotonda dei "
+"bassipiani.  Vive in tane nel terreno e si avventura fuori per mangiare.]"
 
 #: creature_large_temperate.txt:1225
 msgctxt "CREATURE:GROUNDHOG"
@@ -17942,7 +17982,7 @@ msgstr ""
 #: creature_large_temperate.txt:1242
 msgctxt "CREATURE:GROUNDHOG"
 msgid "[PREFSTRING:ability to burrow]"
-msgstr ""
+msgstr "[PREFSTRING:capacità di scavare]"
 
 #: creature_large_temperate.txt:1280
 msgctxt "CREATURE:GROUNDHOG"
@@ -18012,7 +18052,7 @@ msgstr ""
 #: creature_large_temperate.txt:1368
 msgctxt "CREATURE:GIANT_GROUNDHOG"
 msgid "[PREFSTRING:ability to burrow]"
-msgstr ""
+msgstr "[PREFSTRING:capacità di scavare]"
 
 #: creature_large_temperate.txt:1374
 msgctxt "CREATURE:ALLIGATOR"
@@ -18095,7 +18135,7 @@ msgstr ""
 #: creature_large_temperate.txt:1517
 msgctxt "CREATURE:GIANT_ALLIGATOR"
 msgid "[DESCRIPTION:A huge monster in the shape of an alligator.]"
-msgstr ""
+msgstr "[DESCRIPTION:Un enorme mostro sotto forma di alligatore.]"
 
 #: creature_large_temperate.txt:1526
 msgctxt "CREATURE:GIANT_ALLIGATOR"
@@ -18172,7 +18212,7 @@ msgstr ""
 #: creature_large_temperate.txt:1657
 msgctxt "CREATURE:BUZZARD_MAN"
 msgid "[DESCRIPTION:A person with the head and wings of a buzzard.]"
-msgstr ""
+msgstr "[DESCRIPTION:Una persona con la testa e le ali di una poiana.]"
 
 #: creature_large_temperate.txt:1673
 msgctxt "CREATURE:GIANT_BUZZARD"
@@ -18205,6 +18245,8 @@ msgid ""
 "[DESCRIPTION:A large bear-like creature with a striking coat of black and "
 "white hair.  It feeds on bamboo forests.]"
 msgstr ""
+"[DESCRIPTION:Una grande creatura simile a un orso, con un sorprendente manto"
+" di peli bianchi e neri.  Si nutre di bambù.]"
 
 #: creature_large_temperate.txt:1701
 msgctxt "CREATURE:PANDA"
@@ -18249,7 +18291,7 @@ msgstr ""
 #: creature_large_temperate.txt:1788
 msgctxt "CREATURE:PANDA"
 msgid "[TLCM_NOUN:hair around the eyes:SINGULAR]"
-msgstr ""
+msgstr "[TLCM_NOUN:capelli attorno agli occhi:SINGULAR]"
 
 #: creature_large_temperate.txt:1791
 msgctxt "CREATURE:PANDA"
@@ -18269,7 +18311,7 @@ msgstr ""
 #: creature_large_temperate.txt:1806
 msgctxt "CREATURE:PANDA"
 msgid "[TLCM_NOUN:other hair:SINGULAR]"
-msgstr ""
+msgstr "[TLCM_NOUN:altra capigliatura:SINGULAR]"
 
 #: creature_large_temperate.txt:1809
 msgctxt "CREATURE:PANDA"
@@ -18359,6 +18401,8 @@ msgid ""
 "[DESCRIPTION:A medium-sized semi-aquatic rodent.  It lives in large herds "
 "and barks when alarmed.]"
 msgstr ""
+"[DESCRIPTION:Un roditore semiacquatico di medie dimensioni.  Vive in grandi "
+"gruppi e abbaia quando è allarmato."
 
 #: creature_large_temperate.txt:1900
 msgctxt "CREATURE:CAPYBARA"
@@ -18591,7 +18635,7 @@ msgstr ""
 #: creature_large_temperate.txt:2170
 msgctxt "CREATURE:BADGER"
 msgid "[TLCM_NOUN:head:SINGULAR]"
-msgstr ""
+msgstr "[TLCM_NOUN:testa:SINGULAR]"
 
 #: creature_large_temperate.txt:2173
 msgctxt "CREATURE:BADGER"
@@ -18639,6 +18683,8 @@ msgid ""
 "[DESCRIPTION:A huge monster the shape of a badger.  It is ferocious in "
 "combat.]"
 msgstr ""
+"[DESCRIPTION:Un enorme mostro a forma di tasso.  È feroce nel "
+"combattimento.]"
 
 #: creature_large_temperate.txt:2239
 msgctxt "CREATURE:BADGER, GIANT"
@@ -19080,6 +19126,8 @@ msgstr ""
 msgctxt "CREATURE:ELEPHANT_MAN"
 msgid "[DESCRIPTION:A large person with the trunk and ears of an elephant.]"
 msgstr ""
+"[DESCRIPTION:Una persona di grandi dimensioni con la proboscide e le "
+"orecchie di un elefante.]"
 
 #: creature_large_tropical.txt:145
 msgctxt "CREATURE:GIANT_ELEPHANT"
@@ -19565,6 +19613,8 @@ msgid ""
 "[DESCRIPTION:A gigantic feline predator, similar to its cousins in all but "
 "size.  It can be found in the savage wilderness.]"
 msgstr ""
+"[DESCRIPTION:Un gigantesco predatore felino, simile ai suoi cugini in tutto "
+"tranne che nelle dimensioni. Si trova nelle terre selvagge.]"
 
 #: creature_large_tropical.txt:777
 msgctxt "CREATURE:GIANT_JAGUAR"
@@ -20118,7 +20168,7 @@ msgstr ""
 #: creature_large_tropical.txt:1667
 msgctxt "CREATURE:ORANGUTAN"
 msgid "[PREFSTRING:colorful hair]"
-msgstr ""
+msgstr "[PREFSTRING:capelli colorati]"
 
 #: creature_large_tropical.txt:1668
 msgctxt "CREATURE:ORANGUTAN"
@@ -21105,6 +21155,7 @@ msgstr ""
 msgctxt "CREATURE:GIANT_CROCODILE_SALTWATER"
 msgid "[DESCRIPTION:A huge monster in the shape of a saltwater crocodile.]"
 msgstr ""
+"[DESCRIPTION:Un enorme mostro sotto forma di coccodrillo d'acqua salata.]"
 
 #: creature_large_tropical.txt:3103
 msgctxt "CREATURE:GIANT_CROCODILE_SALTWATER"
@@ -21181,7 +21232,7 @@ msgstr ""
 #: creature_large_tropical.txt:3232
 msgctxt "CREATURE:VULTURE_MAN"
 msgid "[DESCRIPTION:A person with the head and wings of a vulture.]"
-msgstr ""
+msgstr "[DESCRIPTION:Una persona con la testa e le ali di un avvoltoio.]"
 
 #: creature_large_tropical.txt:3248
 msgctxt "CREATURE:GIANT_VULTURE"
@@ -21298,7 +21349,7 @@ msgstr ""
 #: creature_large_tropical.txt:3402
 msgctxt "CREATURE:GIANT_RHINOCEROS"
 msgid "[DESCRIPTION:A huge monster the shape of a rhinoceros.]"
-msgstr ""
+msgstr "[DESCRIPTION:Un enorme mostro a forma di rinoceronte.]"
 
 #: creature_large_tropical.txt:3411
 msgctxt "CREATURE:GIANT_RHINOCEROS"
@@ -21330,7 +21381,7 @@ msgstr ""
 #: creature_large_tropical.txt:3434
 msgctxt "CREATURE:GIRAFFE"
 msgid "[PREFSTRING:long necks]"
-msgstr ""
+msgstr "[PREFSTRING:colli lunghi]"
 
 #: creature_large_tropical.txt:3470
 msgctxt "CREATURE:GIRAFFE"
@@ -21500,6 +21551,8 @@ msgid ""
 "[DESCRIPTION:A huge monster the shape of a honey badger.  It is ferocious in"
 " combat.]"
 msgstr ""
+"[DESCRIPTION:Un enorme mostro a forma di tasso del miele.  È feroce nel "
+"combattimento.]"
 
 #: creature_large_tropical.txt:3726
 msgctxt "CREATURE:HONEY BADGER, GIANT"
@@ -21522,6 +21575,8 @@ msgid ""
 "[DESCRIPTION:A medium-sized reptile with a large shell.  It can retreat into"
 " its shell to escape predators.]"
 msgstr ""
+"[DESCRIPTION:Rettile di medie dimensioni con un grande guscio.  Può "
+"ritirarsi nel suo guscio per sfuggire ai predatori.]"
 
 #: creature_large_tropical.txt:3741
 msgctxt "CREATURE:GIANT TORTOISE"
@@ -21622,6 +21677,8 @@ msgid ""
 "[DESCRIPTION:A small mammal with a leathery hide.  It can roll into a ball "
 "to escape predators.]"
 msgstr ""
+"[DESCRIPTION:Un piccolo mammifero con una pelle coriacea.  Può arrotolarsi "
+"in una palla per sfuggire ai predatori.]"
 
 #: creature_large_tropical.txt:3888
 msgctxt "CREATURE:ARMADILLO"
@@ -21711,6 +21768,8 @@ msgid ""
 "[DESCRIPTION:A large monster the shape of an armadillo.  It has thick armor "
 "for skin.]"
 msgstr ""
+"[DESCRIPTION:A large monster the shape of an armadillo.  It has thick armor "
+"for skin.]"
 
 #: creature_large_tropical.txt:4018
 msgctxt "CREATURE:ARMADILLO, GIANT"
@@ -21944,6 +22003,8 @@ msgid ""
 "[DESCRIPTION:A huge predatory mammal covered in white hair.  It hunts the "
 "shores along tundra and glaciers.]"
 msgstr ""
+"[DESCRIPTION:Un enorme mammifero predatore coperto di peli bianchi.  Caccia "
+"lungo le coste di tundra e ghiacciai.]"
 
 #: creature_large_tundra.txt:327
 msgctxt "CREATURE:BEAR_POLAR"
@@ -22028,7 +22089,7 @@ msgstr ""
 #: creature_large_tundra.txt:467
 msgctxt "CREATURE:GIANT_BEAR_POLAR"
 msgid "[DESCRIPTION:A huge monster in the shape of a polar bear.]"
-msgstr ""
+msgstr "[DESCRIPTION:Un enorme mostro sotto forma di orso polare.]"
 
 #: creature_large_tundra.txt:476
 msgctxt "CREATURE:GIANT_BEAR_POLAR"
@@ -22130,7 +22191,7 @@ msgstr ""
 #: creature_mountain_new.txt:154
 msgctxt "CREATURE:GIANT_WOLVERINE"
 msgid "[DESCRIPTION:A large, terrifying monster the shape of a wolverine.]"
-msgstr ""
+msgstr "[DESCRIPTION:A large, terrifying monster the shape of a wolverine.]"
 
 #: creature_mountain_new.txt:163
 msgctxt "CREATURE:GIANT_WOLVERINE"
@@ -22227,7 +22288,7 @@ msgstr ""
 #: creature_mountain_new.txt:300
 msgctxt "CREATURE:GIANT_CHINCHILLA"
 msgid "[DESCRIPTION:A large monster in the shape of a chinchilla.]"
-msgstr ""
+msgstr "[DESCRIPTION:A large monster in the shape of a chinchilla.]"
 
 #: creature_mountain_new.txt:309
 msgctxt "CREATURE:GIANT_CHINCHILLA"
@@ -22241,6 +22302,9 @@ msgid ""
 " is small in size and is found crawling across the cavern floor.  Its organs"
 " appear to be floating inside of its body.]"
 msgstr ""
+"[DESCRIPTION:Un mostro trasparente e amorfo che vive nel sottosuolo.  È di "
+"piccole dimensioni e si trova mentre striscia sul pavimento della caverna.  "
+"I suoi organi sembrano galleggiare all'interno del corpo.]"
 
 #: creature_next_underground.txt:8
 msgctxt "CREATURE:FLOATING_GUTS"
@@ -22347,7 +22411,7 @@ msgstr "[TLCM_NOUN:pelle:SINGULAR]"
 #: creature_next_underground.txt:203
 msgctxt "CREATURE:CREEPING_EYE"
 msgid "[TLCM_NOUN:eye:SINGULAR]"
-msgstr ""
+msgstr "[TLCM_NOUN:occhio:SINGULAR]"
 
 #: creature_next_underground.txt:207
 msgctxt "CREATURE:VORACIOUS_CAVE_CRAWLER"
@@ -22392,6 +22456,9 @@ msgid ""
 "mouth with many sharp teeth.  It has no eyes and only two digits on each "
 "hand and foot.]"
 msgstr ""
+"[DESCRIPTION:Un grande mostro umanoide che abita le caverne.  Ha fauci "
+"spalancate con molti denti affilati.  È privo di occhi e ha solo due dita "
+"per mano e piede.]"
 
 #: creature_next_underground.txt:280
 msgctxt "CREATURE:BLIND_CAVE_OGRE"
@@ -22987,6 +23054,8 @@ msgid ""
 "[DESCRIPTION:A man-shaped abomination made entirely of blood.  These cursed "
 "creatures are only found very near the underworld.]"
 msgstr ""
+"[DESCRIPTION:Un abominio a forma di uomo fatto interamente di sangue.  "
+"Queste creature maledette si trovano solo nelle vicinanze degli Inferi.]"
 
 #: creature_next_underground.txt:1314
 msgctxt "CREATURE:BLOOD_MAN"
@@ -23352,7 +23421,7 @@ msgstr ""
 #: creature_next_underground.txt:1929
 msgctxt "CREATURE:CAVE_DRAGON"
 msgid "[PREFSTRING:large eyes]"
-msgstr ""
+msgstr "[PREFSTRING:grossi occhi]"
 
 #: creature_next_underground.txt:1969
 msgctxt "CREATURE:CAVE_DRAGON"
@@ -23646,6 +23715,8 @@ msgid ""
 "[DESCRIPTION:A small humanoid resembling a walking mushroom with arms and "
 "legs.  It lives far underground near water and soil.]"
 msgstr ""
+"[DESCRIPTION:Un piccolo umanoide che assomiglia a un fungo che cammina, "
+"munito di braccia e gambe.  Vive nel sottosuolo, vicino ad acqua e terreno.]"
 
 #: creature_next_underground.txt:2409
 msgctxt "CREATURE:PLUMP_HELMET_MAN"
@@ -23994,7 +24065,7 @@ msgstr ""
 #: creature_ocean_new.txt:218
 msgctxt "CREATURE:CRAB"
 msgid "[TLCM_NOUN:chitin:SINGULAR]"
-msgstr ""
+msgstr "[TLCM_NOUN:chitina:SINGULAR]"
 
 #: creature_ocean_new.txt:221
 msgctxt "CREATURE:CRAB"
@@ -24034,7 +24105,7 @@ msgstr ""
 #: creature_ocean_new.txt:261
 msgctxt "CREATURE:GIANT_CRAB"
 msgid "[DESCRIPTION:A large monster in the shape of a crab.]"
-msgstr ""
+msgstr "[DESCRIPTION:A large monster in the shape of a crab.]"
 
 #: creature_ocean_new.txt:270
 msgctxt "CREATURE:GIANT_CRAB"
@@ -24265,7 +24336,7 @@ msgstr ""
 #: creature_ocean_new.txt:554
 msgctxt "CREATURE:GIANT_CUTTLEFISH"
 msgid "[DESCRIPTION:A huge sea monster in the shape of a cuttlefish.]"
-msgstr ""
+msgstr "[DESCRIPTION:Un enorme mostro marino sotto forma di seppia.]"
 
 #: creature_ocean_new.txt:563
 msgctxt "CREATURE:GIANT_CUTTLEFISH"
@@ -24347,7 +24418,7 @@ msgstr ""
 #: creature_ocean_new.txt:669
 msgctxt "CREATURE:ORCA_MAN"
 msgid "[DESCRIPTION:An aquatic person in the shape of an orca with arms.]"
-msgstr ""
+msgstr "[DESCRIPTION:An aquatic person in the shape of an orca with arms.]"
 
 #: creature_ocean_new.txt:685
 msgctxt "CREATURE:GIANT_ORCA"
@@ -24367,7 +24438,7 @@ msgstr ""
 #: creature_ocean_new.txt:688
 msgctxt "CREATURE:GIANT_ORCA"
 msgid "[DESCRIPTION:A gigantic monster in the shape of an orca.]"
-msgstr ""
+msgstr "[DESCRIPTION:A gigantic monster in the shape of an orca.]"
 
 #: creature_ocean_new.txt:697
 msgctxt "CREATURE:GIANT_ORCA"
@@ -24466,7 +24537,7 @@ msgstr ""
 #: creature_ocean_new.txt:837
 msgctxt "CREATURE:HORSESHOE_CRAB"
 msgid "[TLCM_NOUN:chitin:SINGULAR]"
-msgstr ""
+msgstr "[TLCM_NOUN:chitina:SINGULAR]"
 
 #: creature_ocean_new.txt:848
 msgctxt "CREATURE:HORSESHOE_CRAB_MAN"
@@ -24600,7 +24671,7 @@ msgstr ""
 #: creature_ocean_new.txt:1013
 msgctxt "CREATURE:GIANT_SPERM_WHALE"
 msgid "[DESCRIPTION:A gigantic monster in the shape of a sperm whale.]"
-msgstr ""
+msgstr "[DESCRIPTION:A gigantic monster in the shape of a sperm whale.]"
 
 #: creature_ocean_new.txt:1022
 msgctxt "CREATURE:GIANT_SPERM_WHALE"
@@ -24697,7 +24768,7 @@ msgstr ""
 #: creature_ocean_new.txt:1148
 msgctxt "CREATURE:GIANT_ELEPHANT_SEAL"
 msgid "[DESCRIPTION:A huge monster in the shape of an elephant seal.]"
-msgstr ""
+msgstr "[DESCRIPTION:Un enorme mostro sotto forma di elefante marino.]"
 
 #: creature_ocean_new.txt:1157
 msgctxt "CREATURE:GIANT_ELEPHANT_SEAL"
@@ -24789,7 +24860,7 @@ msgstr ""
 #: creature_ocean_new.txt:1279
 msgctxt "CREATURE:GIANT_HARP_SEAL"
 msgid "[DESCRIPTION:A huge monster in the shape of a harp seal.]"
-msgstr ""
+msgstr "[DESCRIPTION:Un enorme mostro sotto forma di foca della sella.]"
 
 #: creature_ocean_new.txt:1288
 msgctxt "CREATURE:GIANT_HARP_SEAL"
@@ -24869,7 +24940,7 @@ msgstr ""
 #: creature_ocean_new.txt:1404
 msgctxt "CREATURE:GIANT_NAUTILUS"
 msgid "[DESCRIPTION:A huge monster in the shape of a nautilus.]"
-msgstr ""
+msgstr "[DESCRIPTION:Un enorme mostro sotto forma di nautilo.]"
 
 #: creature_ocean_new.txt:1413
 msgctxt "CREATURE:GIANT_NAUTILUS"
@@ -24887,6 +24958,8 @@ msgid ""
 "[DESCRIPTION:A small mammal noted for its tenacity.  It has long ears and "
 "flashing eyes.]"
 msgstr ""
+"[DESCRIPTION:Piccolo mammifero noto per la sua tenacia.  Ha orecchie lunghe "
+"e occhi lampeggianti.]"
 
 #: creature_other.txt:7
 msgctxt "CREATURE:FOXSQUIRREL"
@@ -24931,7 +25004,7 @@ msgstr "[TLCM_NOUN:occhi:PLURAL]"
 #: creature_other.txt:90
 msgctxt "CREATURE:MOGHOPPER"
 msgid "[DESCRIPTION:A small mud-dwelling amphibian.]"
-msgstr ""
+msgstr "[DESCRIPTION:Un piccolo anfibio che vive nel fango.]"
 
 #: creature_other.txt:91
 msgctxt "CREATURE:MOGHOPPER"
@@ -25325,7 +25398,7 @@ msgstr ""
 #: creature_other.txt:564
 msgctxt "CREATURE:FLY_ACORN"
 msgid "[TLCM_NOUN:chitin:SINGULAR]"
-msgstr ""
+msgstr "[TLCM_NOUN:chitina:SINGULAR]"
 
 #: creature_other.txt:567
 msgctxt "CREATURE:FLY_ACORN"
@@ -25362,7 +25435,7 @@ msgstr ""
 #: creature_other.txt:620
 msgctxt "CREATURE:GNAT_BLOOD"
 msgid "[TLCM_NOUN:chitin:SINGULAR]"
-msgstr ""
+msgstr "[TLCM_NOUN:chitina:SINGULAR]"
 
 #: creature_other.txt:623
 msgctxt "CREATURE:GNAT_BLOOD"
@@ -25372,7 +25445,7 @@ msgstr "[TLCM_NOUN:occhi:PLURAL]"
 #: creature_reptiles.txt:6
 msgctxt "CREATURE:LIZARD"
 msgid "[DESCRIPTION:A small reptile.]"
-msgstr ""
+msgstr "[DESCRIPTION:Un piccolo rettile.]"
 
 #: creature_reptiles.txt:7
 msgctxt "CREATURE:LIZARD"
@@ -25442,7 +25515,7 @@ msgstr ""
 #: creature_reptiles.txt:122
 msgctxt "CREATURE:GIANT_LIZARD"
 msgid "[DESCRIPTION:A huge monster in the shape of a lizard.]"
-msgstr ""
+msgstr "[DESCRIPTION:Un enorme mostro sotto forma di lucertola.]"
 
 #: creature_reptiles.txt:131
 msgctxt "CREATURE:GIANT_LIZARD"
@@ -25519,7 +25592,7 @@ msgstr ""
 #: creature_reptiles.txt:256
 msgctxt "CREATURE:GIANT_SKINK"
 msgid "[DESCRIPTION:A large monster in the shape of a skink.]"
-msgstr ""
+msgstr "[DESCRIPTION:A large monster in the shape of a skink.]"
 
 #: creature_reptiles.txt:265
 msgctxt "CREATURE:GIANT_SKINK"
@@ -25533,6 +25606,9 @@ msgid ""
 " long tongue.  It moves slowly through the trees, spying the surroundings "
 "with its independently roving eyes.]"
 msgstr ""
+"[DESCRIPTION:Una lucertola variopinta che passa la vita a cacciare insetti "
+"con la sua lunga lingua.  Si muove lenta tra gli alberi, spiando l'ambiente "
+"circostante con i suoi occhi che vagano indipendentemente.]"
 
 #: creature_reptiles.txt:273
 msgctxt "CREATURE:CHAMELEON"
@@ -25552,7 +25628,7 @@ msgstr ""
 #: creature_reptiles.txt:288
 msgctxt "CREATURE:CHAMELEON"
 msgid "[PREFSTRING:eyes]"
-msgstr ""
+msgstr "[PREFSTRING:occhi]"
 
 #: creature_reptiles.txt:331
 msgctxt "CREATURE:CHAMELEON"
@@ -25602,7 +25678,7 @@ msgstr ""
 #: creature_reptiles.txt:393
 msgctxt "CREATURE:GIANT_CHAMELEON"
 msgid "[DESCRIPTION:A large monster in the shape of a chameleon.]"
-msgstr ""
+msgstr "[DESCRIPTION:A large monster in the shape of a chameleon.]"
 
 #: creature_reptiles.txt:402
 msgctxt "CREATURE:GIANT_CHAMELEON"
@@ -25612,7 +25688,7 @@ msgstr ""
 #: creature_reptiles.txt:403
 msgctxt "CREATURE:GIANT_CHAMELEON"
 msgid "[PREFSTRING:eyes]"
-msgstr ""
+msgstr "[PREFSTRING:occhi]"
 
 #: creature_reptiles.txt:410
 msgctxt "CREATURE:ANOLE"
@@ -25689,7 +25765,7 @@ msgstr ""
 #: creature_reptiles.txt:527
 msgctxt "CREATURE:GIANT_ANOLE"
 msgid "[DESCRIPTION:A large monster in the shape of an anole.]"
-msgstr ""
+msgstr "[DESCRIPTION:A large monster in the shape of an anole.]"
 
 #: creature_reptiles.txt:536
 msgctxt "CREATURE:GIANT_ANOLE"
@@ -25787,7 +25863,7 @@ msgstr ""
 #: creature_reptiles.txt:674
 msgctxt "CREATURE:GIANT_IGUANA"
 msgid "[DESCRIPTION:A huge monster in the shape of an iguana.]"
-msgstr ""
+msgstr "[DESCRIPTION:Un enorme mostro sotto forma d'iguana.]"
 
 #: creature_reptiles.txt:683
 msgctxt "CREATURE:GIANT_IGUANA"
@@ -25996,7 +26072,7 @@ msgstr ""
 #: creature_riverlakepool_new.txt:280
 msgctxt "CREATURE:SNAPPING TURTLE"
 msgid "[PREFSTRING:long necks]"
-msgstr ""
+msgstr "[PREFSTRING:colli lunghi]"
 
 #: creature_riverlakepool_new.txt:325
 msgctxt "CREATURE:SNAPPING TURTLE"
@@ -26042,7 +26118,7 @@ msgstr ""
 #: creature_riverlakepool_new.txt:371
 msgctxt "CREATURE:ALLIGATOR SNAPPING TURTLE"
 msgid "[PREFSTRING:long necks]"
-msgstr ""
+msgstr "[PREFSTRING:colli lunghi]"
 
 #: creature_riverlakepool_new.txt:417
 msgctxt "CREATURE:ALLIGATOR SNAPPING TURTLE"
@@ -26110,7 +26186,7 @@ msgstr ""
 #: creature_riverlakepool_new.txt:490
 msgctxt "CREATURE:GIANT_SNAPPING_TURTLE"
 msgid "[PREFSTRING:long necks]"
-msgstr ""
+msgstr "[PREFSTRING:colli lunghi]"
 
 #: creature_riverlakepool_new.txt:500
 msgctxt "CREATURE:BEAVER"
@@ -26281,7 +26357,7 @@ msgstr ""
 #: creature_riverlakepool_new.txt:741
 msgctxt "CREATURE:GIANT_LEECH"
 msgid "[DESCRIPTION:A large monster in the shape of a leech.]"
-msgstr ""
+msgstr "[DESCRIPTION:A large monster in the shape of a leech.]"
 
 #: creature_riverlakepool_new.txt:750
 msgctxt "CREATURE:GIANT_LEECH"
@@ -26358,7 +26434,7 @@ msgstr ""
 #: creature_riverlakepool_new.txt:867
 msgctxt "CREATURE:GIANT_AXOLOTL"
 msgid "[DESCRIPTION:A large monster in the shape of an axolotl.]"
-msgstr ""
+msgstr "[DESCRIPTION:A large monster in the shape of an axolotl.]"
 
 #: creature_riverlakepool_new.txt:876
 msgctxt "CREATURE:GIANT_AXOLOTL"
@@ -26773,7 +26849,7 @@ msgstr ""
 #: creature_small_mammal_new.txt:314
 msgctxt "CREATURE:SQUIRREL_FLYING"
 msgid "[PREFSTRING:large eyes]"
-msgstr ""
+msgstr "[PREFSTRING:grossi occhi]"
 
 #: creature_small_mammal_new.txt:353
 msgctxt "CREATURE:SQUIRREL_FLYING"
@@ -26822,6 +26898,7 @@ msgstr ""
 msgctxt "CREATURE:FLYING_SQUIRREL_MAN"
 msgid "[DESCRIPTION:A person with the head and wings of a flying squirrel.]"
 msgstr ""
+"[DESCRIPTION:Una persona con la testa e le ali di uno scoiattolo volante.]"
 
 #: creature_small_mammal_new.txt:425
 msgctxt "CREATURE:GIANT_FLYING_SQUIRREL"
@@ -26839,7 +26916,7 @@ msgstr ""
 #: creature_small_mammal_new.txt:427
 msgctxt "CREATURE:GIANT_FLYING_SQUIRREL"
 msgid "[DESCRIPTION:A large monster taking the shape of a flying squirrel.]"
-msgstr ""
+msgstr "[DESCRIPTION:A large monster taking the shape of a flying squirrel.]"
 
 #: creature_small_mammal_new.txt:436
 msgctxt "CREATURE:GIANT_FLYING_SQUIRREL"
@@ -26849,7 +26926,7 @@ msgstr ""
 #: creature_small_mammal_new.txt:437
 msgctxt "CREATURE:GIANT_FLYING_SQUIRREL"
 msgid "[PREFSTRING:large eyes]"
-msgstr ""
+msgstr "[PREFSTRING:grossi occhi]"
 
 #: creature_small_mammals.txt:6
 msgctxt "CREATURE:RAT"
@@ -27348,6 +27425,9 @@ msgid ""
 "the ocean.  It can turn the water around its body into a cloud of slime to "
 "escape predators.]"
 msgstr ""
+"[DESCRIPTION:Un piccolo pesce senza spina dorsale, simile a un'anguilla, che"
+" vive sul fondo dell'oceano.  Può trasformare l'acqua intorno al suo corpo "
+"in una nuvola di melma per sfuggire ai predatori.]"
 
 #: creature_small_ocean.txt:263
 msgctxt "CREATURE:FISH_HAGFISH"
@@ -27752,12 +27832,12 @@ msgstr ""
 #: creature_small_ocean.txt:1034
 msgctxt "CREATURE:FISH_GLASSEYE"
 msgid "[NAME:glasseye:glasseye:glasseye]"
-msgstr ""
+msgstr "[NAME:occhiodivetro:occhiodivetro:occhiodivetro]"
 
 #: creature_small_ocean.txt:1035
 msgctxt "CREATURE:FISH_GLASSEYE"
 msgid "[CASTE_NAME:glasseye:glasseye:glasseye]"
-msgstr ""
+msgstr "[CASTE_NAME:occhiodivetro:occhiodivetro:occhiodivetro]"
 
 #: creature_small_ocean.txt:1044
 msgctxt "CREATURE:FISH_GLASSEYE"
@@ -27872,7 +27952,7 @@ msgstr ""
 #: creature_small_ocean.txt:1249
 msgctxt "CREATURE:FISH_FLOUNDER"
 msgid "[PREFSTRING:strange eyes]"
-msgstr ""
+msgstr "[PREFSTRING:strani occhi]"
 
 #: creature_small_ocean.txt:1286
 msgctxt "CREATURE:FISH_FLOUNDER"
@@ -28521,7 +28601,7 @@ msgstr ""
 #: creature_standard.txt:146
 msgctxt "CREATURE:DWARF"
 msgid "[APP_MOD_NOUN:eyes:PLURAL]"
-msgstr ""
+msgstr "[APP_MOD_NOUN:occhi:PLURAL]"
 
 #: creature_standard.txt:157
 msgctxt "CREATURE:DWARF"
@@ -28586,12 +28666,12 @@ msgstr ""
 #: creature_standard.txt:274
 msgctxt "CREATURE:DWARF"
 msgid "[PROFESSION_NAME:CRAFTSMAN:craftsdwarf:craftsdwarves]"
-msgstr ""
+msgstr "[PROFESSION_NAME:ARTIGIANO:nanoartigiano:naniartigiani]"
 
 #: creature_standard.txt:275
 msgctxt "CREATURE:DWARF"
 msgid "[PROFESSION_NAME:FISHERMAN:fisherdwarf:fisherdwarves]"
-msgstr ""
+msgstr "[PROFESSION_NAME:PESCATORE:nanopescatore:nanipescatori]"
 
 #: creature_standard.txt:276
 msgctxt "CREATURE:DWARF"
@@ -28662,12 +28742,12 @@ msgstr ""
 #: creature_standard.txt:303
 msgctxt "CREATURE:DWARF"
 msgid "[MANNERISM_HEAD:head]"
-msgstr ""
+msgstr "[MANNERISM_HEAD:testa]"
 
 #: creature_standard.txt:304
 msgctxt "CREATURE:DWARF"
 msgid "[MANNERISM_EYES:eyes]"
-msgstr ""
+msgstr "[MANNERISM_EYES:occhi]"
 
 #: creature_standard.txt:305
 msgctxt "CREATURE:DWARF"
@@ -28732,12 +28812,12 @@ msgstr "[TLCM_NOUN:capigliatura:SINGULAR]"
 #: creature_standard.txt:371
 msgctxt "CREATURE:DWARF"
 msgid "[APP_MOD_NOUN:eyebrows:PLURAL]"
-msgstr ""
+msgstr "[APP_MOD_NOUN:sopracciglia:PLURAL]"
 
 #: creature_standard.txt:381
 msgctxt "CREATURE:DWARF"
 msgid "[APP_MOD_NOUN:eyelashes:PLURAL]"
-msgstr ""
+msgstr "[APP_MOD_NOUN:ciglia:PLURAL]"
 
 #: creature_standard.txt:392
 msgctxt "CREATURE:DWARF"
@@ -28822,7 +28902,7 @@ msgstr ""
 #: creature_standard.txt:529
 msgctxt "CREATURE:HUMAN"
 msgid "[APP_MOD_NOUN:eyes:PLURAL]"
-msgstr ""
+msgstr "[APP_MOD_NOUN:occhi:PLURAL]"
 
 #: creature_standard.txt:539
 msgctxt "CREATURE:HUMAN"
@@ -28882,12 +28962,12 @@ msgstr ""
 #: creature_standard.txt:631
 msgctxt "CREATURE:HUMAN"
 msgid "[MANNERISM_HEAD:head]"
-msgstr ""
+msgstr "[MANNERISM_HEAD:testa]"
 
 #: creature_standard.txt:632
 msgctxt "CREATURE:HUMAN"
 msgid "[MANNERISM_EYES:eyes]"
-msgstr ""
+msgstr "[MANNERISM_EYES:occhi]"
 
 #: creature_standard.txt:633
 msgctxt "CREATURE:HUMAN"
@@ -28952,12 +29032,12 @@ msgstr "[TLCM_NOUN:capigliatura:SINGULAR]"
 #: creature_standard.txt:679
 msgctxt "CREATURE:HUMAN"
 msgid "[APP_MOD_NOUN:eyebrows:PLURAL]"
-msgstr ""
+msgstr "[APP_MOD_NOUN:sopracciglia:PLURAL]"
 
 #: creature_standard.txt:688
 msgctxt "CREATURE:HUMAN"
 msgid "[APP_MOD_NOUN:eyelashes:PLURAL]"
-msgstr ""
+msgstr "[APP_MOD_NOUN:ciglia:PLURAL]"
 
 #: creature_standard.txt:696
 msgctxt "CREATURE:HUMAN"
@@ -29044,7 +29124,7 @@ msgstr ""
 #: creature_standard.txt:829
 msgctxt "CREATURE:ELF"
 msgid "[APP_MOD_NOUN:eyes:PLURAL]"
-msgstr ""
+msgstr "[APP_MOD_NOUN:occhi:PLURAL]"
 
 #: creature_standard.txt:839
 msgctxt "CREATURE:ELF"
@@ -29104,12 +29184,12 @@ msgstr ""
 #: creature_standard.txt:932
 msgctxt "CREATURE:ELF"
 msgid "[MANNERISM_HEAD:head]"
-msgstr ""
+msgstr "[MANNERISM_HEAD:testa]"
 
 #: creature_standard.txt:933
 msgctxt "CREATURE:ELF"
 msgid "[MANNERISM_EYES:eyes]"
-msgstr ""
+msgstr "[MANNERISM_EYES:occhi]"
 
 #: creature_standard.txt:934
 msgctxt "CREATURE:ELF"
@@ -29174,12 +29254,12 @@ msgstr "[TLCM_NOUN:capigliatura:SINGULAR]"
 #: creature_standard.txt:973
 msgctxt "CREATURE:ELF"
 msgid "[APP_MOD_NOUN:eyebrows:PLURAL]"
-msgstr ""
+msgstr "[APP_MOD_NOUN:sopracciglia:PLURAL]"
 
 #: creature_standard.txt:977
 msgctxt "CREATURE:ELF"
 msgid "[APP_MOD_NOUN:eyelashes:PLURAL]"
-msgstr ""
+msgstr "[APP_MOD_NOUN:ciglia:PLURAL]"
 
 #: creature_standard.txt:986
 msgctxt "CREATURE:ELF"
@@ -29260,7 +29340,7 @@ msgstr ""
 #: creature_standard.txt:1109
 msgctxt "CREATURE:GOBLIN"
 msgid "[APP_MOD_NOUN:eyes:PLURAL]"
-msgstr ""
+msgstr "[APP_MOD_NOUN:occhi:PLURAL]"
 
 #: creature_standard.txt:1116
 msgctxt "CREATURE:GOBLIN"
@@ -29320,12 +29400,12 @@ msgstr ""
 #: creature_standard.txt:1207
 msgctxt "CREATURE:GOBLIN"
 msgid "[MANNERISM_HEAD:head]"
-msgstr ""
+msgstr "[MANNERISM_HEAD:testa]"
 
 #: creature_standard.txt:1208
 msgctxt "CREATURE:GOBLIN"
 msgid "[MANNERISM_EYES:eyes]"
-msgstr ""
+msgstr "[MANNERISM_EYES:occhi]"
 
 #: creature_standard.txt:1209
 msgctxt "CREATURE:GOBLIN"
@@ -29390,12 +29470,12 @@ msgstr "[TLCM_NOUN:capigliatura:SINGULAR]"
 #: creature_standard.txt:1247
 msgctxt "CREATURE:GOBLIN"
 msgid "[APP_MOD_NOUN:eyebrows:PLURAL]"
-msgstr ""
+msgstr "[APP_MOD_NOUN:sopracciglia:PLURAL]"
 
 #: creature_standard.txt:1251
 msgctxt "CREATURE:GOBLIN"
 msgid "[APP_MOD_NOUN:eyelashes:PLURAL]"
-msgstr ""
+msgstr "[APP_MOD_NOUN:ciglia:PLURAL]"
 
 #: creature_standard.txt:1260
 msgctxt "CREATURE:GOBLIN"
@@ -29477,7 +29557,7 @@ msgstr ""
 #: creature_standard.txt:1376
 msgctxt "CREATURE:KOBOLD"
 msgid "[APP_MOD_NOUN:eyes:PLURAL]"
-msgstr ""
+msgstr "[APP_MOD_NOUN:occhi:PLURAL]"
 
 #: creature_standard.txt:1383
 msgctxt "CREATURE:KOBOLD"
@@ -29537,7 +29617,7 @@ msgstr ""
 #: creature_standard.txt:1476
 msgctxt "CREATURE:KOBOLD"
 msgid "[MANNERISM_HEAD:head]"
-msgstr ""
+msgstr "[MANNERISM_HEAD:testa]"
 
 #: creature_standard.txt:1477
 msgctxt "CREATURE:KOBOLD"
@@ -30107,12 +30187,12 @@ msgstr "[TLCM_NOUN:capigliatura:SINGULAR]"
 #: creature_standard.txt:2549
 msgctxt "CREATURE:SATYR"
 msgid "[APP_MOD_NOUN:eyebrows:PLURAL]"
-msgstr ""
+msgstr "[APP_MOD_NOUN:sopracciglia:PLURAL]"
 
 #: creature_standard.txt:2558
 msgctxt "CREATURE:SATYR"
 msgid "[APP_MOD_NOUN:eyelashes:PLURAL]"
-msgstr ""
+msgstr "[APP_MOD_NOUN:ciglia:PLURAL]"
 
 #: creature_standard.txt:2566
 msgctxt "CREATURE:SATYR"
@@ -30285,12 +30365,12 @@ msgstr "[TLCM_NOUN:capigliatura:SINGULAR]"
 #: creature_standard.txt:2869
 msgctxt "CREATURE:GIANT"
 msgid "[APP_MOD_NOUN:eyebrows:PLURAL]"
-msgstr ""
+msgstr "[APP_MOD_NOUN:sopracciglia:PLURAL]"
 
 #: creature_standard.txt:2878
 msgctxt "CREATURE:GIANT"
 msgid "[APP_MOD_NOUN:eyelashes:PLURAL]"
-msgstr ""
+msgstr "[APP_MOD_NOUN:ciglia:PLURAL]"
 
 #: creature_standard.txt:2886
 msgctxt "CREATURE:GIANT"
@@ -30422,12 +30502,12 @@ msgstr "[TLCM_NOUN:capigliatura:SINGULAR]"
 #: creature_standard.txt:3116
 msgctxt "CREATURE:CYCLOPS"
 msgid "[APP_MOD_NOUN:eyebrow:SINGULAR]"
-msgstr ""
+msgstr "[APP_MOD_NOUN:sopracciglio:SINGULAR]"
 
 #: creature_standard.txt:3125
 msgctxt "CREATURE:CYCLOPS"
 msgid "[APP_MOD_NOUN:eyelashes:PLURAL]"
-msgstr ""
+msgstr "[APP_MOD_NOUN:ciglia:PLURAL]"
 
 #: creature_standard.txt:3133
 msgctxt "CREATURE:CYCLOPS"
@@ -30557,12 +30637,12 @@ msgstr "[TLCM_NOUN:capigliatura:SINGULAR]"
 #: creature_standard.txt:3369
 msgctxt "CREATURE:ETTIN"
 msgid "[APP_MOD_NOUN:eyebrows:PLURAL]"
-msgstr ""
+msgstr "[APP_MOD_NOUN:sopracciglia:PLURAL]"
 
 #: creature_standard.txt:3378
 msgctxt "CREATURE:ETTIN"
 msgid "[APP_MOD_NOUN:eyelashes:PLURAL]"
-msgstr ""
+msgstr "[APP_MOD_NOUN:ciglia:PLURAL]"
 
 #: creature_standard.txt:3386
 msgctxt "CREATURE:ETTIN"
@@ -30985,12 +31065,12 @@ msgstr "[TLCM_NOUN:capigliatura:SINGULAR]"
 #: creature_standard.txt:4181
 msgctxt "CREATURE:FAIRY"
 msgid "[APP_MOD_NOUN:eyebrows:PLURAL]"
-msgstr ""
+msgstr "[APP_MOD_NOUN:sopracciglia:PLURAL]"
 
 #: creature_standard.txt:4185
 msgctxt "CREATURE:FAIRY"
 msgid "[APP_MOD_NOUN:eyelashes:PLURAL]"
-msgstr ""
+msgstr "[APP_MOD_NOUN:ciglia:PLURAL]"
 
 #: creature_standard.txt:4194
 msgctxt "CREATURE:FAIRY"
@@ -31087,12 +31167,12 @@ msgstr "[TLCM_NOUN:capigliatura:SINGULAR]"
 #: creature_standard.txt:4380
 msgctxt "CREATURE:PIXIE"
 msgid "[APP_MOD_NOUN:eyebrows:PLURAL]"
-msgstr ""
+msgstr "[APP_MOD_NOUN:sopracciglia:PLURAL]"
 
 #: creature_standard.txt:4384
 msgctxt "CREATURE:PIXIE"
 msgid "[APP_MOD_NOUN:eyelashes:PLURAL]"
-msgstr ""
+msgstr "[APP_MOD_NOUN:ciglia:PLURAL]"
 
 #: creature_standard.txt:4393
 msgctxt "CREATURE:PIXIE"
@@ -31421,6 +31501,8 @@ msgid ""
 "[DESCRIPTION:A monster in the shape of a woman with a bird's wings in place "
 "of arms and talons for feet.]"
 msgstr ""
+"[DESCRIPTION:A monster in the shape of a woman with a bird's wings in place "
+"of arms and talons for feet.]"
 
 #: creature_standard.txt:4872
 msgctxt "CREATURE:HARPY"
@@ -31646,12 +31728,12 @@ msgstr "[TLCM_NOUN:capigliatura:SINGULAR]"
 #: creature_standard.txt:5357
 msgctxt "CREATURE:MERPERSON"
 msgid "[APP_MOD_NOUN:eyebrows:PLURAL]"
-msgstr ""
+msgstr "[APP_MOD_NOUN:sopracciglia:PLURAL]"
 
 #: creature_standard.txt:5366
 msgctxt "CREATURE:MERPERSON"
 msgid "[APP_MOD_NOUN:eyelashes:PLURAL]"
-msgstr ""
+msgstr "[APP_MOD_NOUN:ciglia:PLURAL]"
 
 #: creature_standard.txt:5374
 msgctxt "CREATURE:MERPERSON"
@@ -32415,7 +32497,7 @@ msgstr "[ATTACK_VERB:morso:morde]"
 #: creature_subterranean.txt:1095
 msgctxt "CREATURE:SPIDER_CAVE_GIANT"
 msgid "[TLCM_NOUN:chitin:SINGULAR]"
-msgstr ""
+msgstr "[TLCM_NOUN:chitina:SINGULAR]"
 
 #: creature_subterranean.txt:1098
 msgctxt "CREATURE:SPIDER_CAVE_GIANT"
@@ -32485,7 +32567,7 @@ msgstr ""
 #: creature_subterranean.txt:1176
 msgctxt "CREATURE:SPIDER_CAVE"
 msgid "[TLCM_NOUN:chitin:SINGULAR]"
-msgstr ""
+msgstr "[TLCM_NOUN:chitina:SINGULAR]"
 
 #: creature_subterranean.txt:1179
 msgctxt "CREATURE:SPIDER_CAVE"
@@ -32570,7 +32652,7 @@ msgstr ""
 #: creature_subterranean.txt:1327
 msgctxt "CREATURE:LOBSTER_CAVE"
 msgid "[TLCM_NOUN:chitin:SINGULAR]"
-msgstr ""
+msgstr "[TLCM_NOUN:chitina:SINGULAR]"
 
 #: creature_subterranean.txt:1330
 msgctxt "CREATURE:LOBSTER_CAVE"
@@ -32758,12 +32840,12 @@ msgstr ""
 #: creature_subterranean.txt:1601
 msgctxt "CREATURE:MAGGOT_PURRING"
 msgid "[NAME:purring maggot:purring maggots:purring maggot]"
-msgstr ""
+msgstr "[NAME:baco ronfante:bachi ronfanti:baco ronfante]"
 
 #: creature_subterranean.txt:1602
 msgctxt "CREATURE:MAGGOT_PURRING"
 msgid "[CASTE_NAME:purring maggot:purring maggots:purring maggot]"
-msgstr ""
+msgstr "[CASTE_NAME:baco ronfante:bachi ronfanti:baco ronfante]"
 
 #: creature_subterranean.txt:1612
 msgctxt "CREATURE:MAGGOT_PURRING"
@@ -32848,7 +32930,7 @@ msgstr ""
 #: creature_subterranean.txt:1659
 msgctxt "CREATURE:ELEMENTMAN_FIRE"
 msgid "[DESCRIPTION:Fire in the shape of a human that can hurl fireballs.]"
-msgstr ""
+msgstr "[DESCRIPTION:Fire in the shape of a human that can hurl fireballs.]"
 
 #: creature_subterranean.txt:1660
 msgctxt "CREATURE:ELEMENTMAN_FIRE"
@@ -32896,6 +32978,8 @@ msgid ""
 "[DESCRIPTION:Magma moving in the shape of a man.  It has a cracked black "
 "crust.]"
 msgstr ""
+"[DESCRIPTION:Magma moving in the shape of a man.  It has a cracked black "
+"crust.]"
 
 #: creature_subterranean.txt:1736
 msgctxt "CREATURE:ELEMENTMAN_MAGMA"
@@ -33016,12 +33100,12 @@ msgstr ""
 #: creature_subterranean.txt:1901
 msgctxt "CREATURE:ELEMENTMAN_MUD"
 msgid "[NAME:mud man:mud men:mud man]"
-msgstr ""
+msgstr "[NAME:uomo di fango:uomini di fango:uomo di fango]"
 
 #: creature_subterranean.txt:1902
 msgctxt "CREATURE:ELEMENTMAN_MUD"
 msgid "[CASTE_NAME:mud man:mud men:mud man]"
-msgstr ""
+msgstr "[CASTE_NAME:uomo di fango:uomini di fango:uomo di fango]"
 
 #: creature_subterranean.txt:1920
 msgctxt "CREATURE:ELEMENTMAN_MUD"
@@ -33031,12 +33115,12 @@ msgstr ""
 #: creature_subterranean.txt:1921
 msgctxt "CREATURE:ELEMENTMAN_MUD"
 msgid "[ODOR_STRING:mud]"
-msgstr ""
+msgstr "[ODOR_STRING:fango]"
 
 #: creature_subterranean.txt:1928
 msgctxt "CREATURE:ELEMENTMAN_MUD"
 msgid "[TISSUE_NAME:mud:NP]"
-msgstr ""
+msgstr "[TISSUE_NAME:fango:NP]"
 
 #: creature_subterranean.txt:1942
 msgctxt "CREATURE:ELEMENTMAN_MUD"
@@ -33238,7 +33322,7 @@ msgstr ""
 #: creature_subterranean.txt:2291
 msgctxt "CREATURE:REPTILE_MAN"
 msgid "[NAME:reptile man:reptile men:reptile man]"
-msgstr ""
+msgstr "[NAME:uomo rettile:uomini rettile:uomo rettile]"
 
 #: creature_subterranean.txt:2305
 msgctxt "CREATURE:REPTILE_MAN"
@@ -33268,12 +33352,12 @@ msgstr "[ATTACK_VERB:morso:morde]"
 #: creature_subterranean.txt:2391
 msgctxt "CREATURE:REPTILE_MAN"
 msgid "[CASTE_NAME:reptile woman:reptile women:reptile woman]"
-msgstr ""
+msgstr "[CASTE_NAME:donna rettile:donne rettile:donna rettile]"
 
 #: creature_subterranean.txt:2400
 msgctxt "CREATURE:REPTILE_MAN"
 msgid "[CASTE_NAME:reptile man:reptile men:reptile man]"
-msgstr ""
+msgstr "[CASTE_NAME:uomo rettile:uomini rettile:uomo rettile]"
 
 #: creature_subterranean.txt:2405
 msgctxt "CREATURE:REPTILE_MAN"
@@ -33430,7 +33514,7 @@ msgstr "[ATTACK_VERB:morso:morde]"
 #: creature_subterranean.txt:2646
 msgctxt "CREATURE:ANT_MAN"
 msgid "[TLCM_NOUN:chitin:SINGULAR]"
-msgstr ""
+msgstr "[TLCM_NOUN:chitina:SINGULAR]"
 
 #: creature_subterranean.txt:2649
 msgctxt "CREATURE:ANT_MAN"
@@ -33912,7 +33996,7 @@ msgstr ""
 #: creature_temperate_new.txt:517
 msgctxt "CREATURE:GIANT_KANGAROO"
 msgid "[DESCRIPTION:A huge monster in the shape of a kangaroo.]"
-msgstr ""
+msgstr "[DESCRIPTION:Un enorme mostro sotto forma di canguro.]"
 
 #: creature_temperate_new.txt:526
 msgctxt "CREATURE:GIANT_KANGAROO"
@@ -34254,7 +34338,7 @@ msgstr ""
 #: creature_temperate_new.txt:1026
 msgctxt "CREATURE:GIANT_ECHIDNA"
 msgid "[DESCRIPTION:A large monster in the shape of an echidna.]"
-msgstr ""
+msgstr "[DESCRIPTION:A large monster in the shape of an echidna.]"
 
 #: creature_temperate_new.txt:1035
 msgctxt "CREATURE:GIANT_ECHIDNA"
@@ -34545,7 +34629,7 @@ msgstr ""
 #: creature_temperate_new.txt:1485
 msgctxt "CREATURE:GIANT_GRAY_LANGUR"
 msgid "[DESCRIPTION:A huge monster in the shape of a gray langur.]"
-msgstr ""
+msgstr "[DESCRIPTION:Un enorme mostro sotto forma di entello grigio.]"
 
 #: creature_temperate_new.txt:1494
 msgctxt "CREATURE:GIANT_GRAY_LANGUR"
@@ -34833,7 +34917,7 @@ msgstr ""
 #: creature_temperate_new.txt:1920
 msgctxt "CREATURE:GIANT_GREEN_TREE_FROG"
 msgid "[DESCRIPTION:A large monster in the shape of a green tree frog.]"
-msgstr ""
+msgstr "[DESCRIPTION:A large monster in the shape of a green tree frog.]"
 
 #: creature_temperate_new.txt:1929
 msgctxt "CREATURE:GIANT_GREEN_TREE_FROG"
@@ -34940,7 +35024,7 @@ msgstr ""
 #: creature_temperate_new.txt:2077
 msgctxt "CREATURE:GIANT_HARE"
 msgid "[DESCRIPTION:A large monster in the shape of a hare.]"
-msgstr ""
+msgstr "[DESCRIPTION:A large monster in the shape of a hare.]"
 
 #: creature_temperate_new.txt:2086
 msgctxt "CREATURE:GIANT_HARE"
@@ -35078,6 +35162,7 @@ msgstr ""
 msgctxt "CREATURE:GIANT_RATTLESNAKE"
 msgid "[DESCRIPTION:A huge monster taking the shape of a rattlesnake.]"
 msgstr ""
+"[DESCRIPTION:Un enorme mostro che assume la forma di serpente a sonagli.]"
 
 #: creature_temperate_new.txt:2274
 msgctxt "CREATURE:GIANT_RATTLESNAKE"
@@ -35179,7 +35264,7 @@ msgstr ""
 #: creature_temperate_new.txt:2417
 msgctxt "CREATURE:GIANT_WEASEL"
 msgid "[DESCRIPTION:A large monster taking the shape of a weasel.]"
-msgstr ""
+msgstr "[DESCRIPTION:A large monster taking the shape of a weasel.]"
 
 #: creature_temperate_new.txt:2426
 msgctxt "CREATURE:GIANT_WEASEL"
@@ -35514,7 +35599,7 @@ msgstr ""
 #: creature_temperate_new.txt:2916
 msgctxt "CREATURE:GIANT_WOMBAT"
 msgid "[DESCRIPTION:A huge monster in the shape of a wombat.]"
-msgstr ""
+msgstr "[DESCRIPTION:Un enorme mostro sotto forma di vombato.]"
 
 #: creature_temperate_new.txt:2925
 msgctxt "CREATURE:GIANT_WOMBAT"
@@ -35801,7 +35886,7 @@ msgstr ""
 #: creature_temperate_new.txt:3372
 msgctxt "CREATURE:GIANT_OPOSSUM"
 msgid "[DESCRIPTION:A huge monster in the shape of an opossum.]"
-msgstr ""
+msgstr "[DESCRIPTION:Un enorme mostro sotto forma di opossum.]"
 
 #: creature_temperate_new.txt:3381
 msgctxt "CREATURE:GIANT_OPOSSUM"
@@ -36185,7 +36270,7 @@ msgstr ""
 #: creature_tropical_new.txt:587
 msgctxt "CREATURE:GIANT_MONITOR_LIZARD"
 msgid "[DESCRIPTION:A huge monster in the shape of a monitor lizard.]"
-msgstr ""
+msgstr "[DESCRIPTION:Un enorme mostro sotto forma di monitor lizard.]"
 
 #: creature_tropical_new.txt:596
 msgctxt "CREATURE:GIANT_MONITOR_LIZARD"
@@ -36317,7 +36402,7 @@ msgstr ""
 #: creature_tropical_new.txt:779
 msgctxt "CREATURE:GIANT_KING_COBRA"
 msgid "[DESCRIPTION:A large monster in the shape of a king cobra.]"
-msgstr ""
+msgstr "[DESCRIPTION:A large monster in the shape of a king cobra.]"
 
 #: creature_tropical_new.txt:788
 msgctxt "CREATURE:GIANT_KING_COBRA"
@@ -36412,7 +36497,7 @@ msgstr ""
 #: creature_tropical_new.txt:934
 msgctxt "CREATURE:GIANT_OCELOT"
 msgid "[DESCRIPTION:A huge monster in the shape of an ocelot.]"
-msgstr ""
+msgstr "[DESCRIPTION:Un enorme mostro sotto forma di gattopardo.]"
 
 #: creature_tropical_new.txt:943
 msgctxt "CREATURE:GIANT_OCELOT"
@@ -36691,7 +36776,7 @@ msgstr ""
 #: creature_tropical_new.txt:1385
 msgctxt "CREATURE:GIANT_SLOTH"
 msgid "[DESCRIPTION:A huge monster in the shape of a sloth.]"
-msgstr ""
+msgstr "[DESCRIPTION:Un enorme mostro sotto forma di bradipo.]"
 
 #: creature_tropical_new.txt:1394
 msgctxt "CREATURE:GIANT_SLOTH"
@@ -37040,7 +37125,7 @@ msgstr ""
 #: creature_tropical_new.txt:1893
 msgctxt "CREATURE:GIANT_BLACK_MAMBA"
 msgid "[DESCRIPTION:A large monster taking the shape of a black mamba.]"
-msgstr ""
+msgstr "[DESCRIPTION:A large monster taking the shape of a black mamba.]"
 
 #: creature_tropical_new.txt:1902
 msgctxt "CREATURE:GIANT_BLACK_MAMBA"
@@ -38025,7 +38110,7 @@ msgstr ""
 #: creature_tundra_taiga_new.txt:144
 msgctxt "CREATURE:GIANT_STOAT"
 msgid "[DESCRIPTION:A large monster in the shape of a stoat.]"
-msgstr ""
+msgstr "[DESCRIPTION:A large monster in the shape of a stoat.]"
 
 #: creature_tundra_taiga_new.txt:152
 msgctxt "CREATURE:GIANT_STOAT"
@@ -38122,17 +38207,17 @@ msgstr ""
 #: creature_tundra_taiga_new.txt:296
 msgctxt "CREATURE:GIANT_LYNX"
 msgid "[DESCRIPTION:A huge monster in the shape of a lynx.]"
-msgstr ""
+msgstr "[DESCRIPTION:Un enorme mostro sotto forma di lince.]"
 
 #: creature_tundra_taiga_new.txt:305
 msgctxt "CREATURE:GIANT_LYNX"
 msgid "[PREFSTRING:ear tufts]"
-msgstr ""
+msgstr "[PREFSTRING:orecchie con ciuffi]"
 
 #: descriptor_color_standard.txt:8
 msgctxt "COLOR:AMBER"
 msgid "[NAME:amber]"
-msgstr ""
+msgstr "[NAME:ambra]"
 
 #: descriptor_color_standard.txt:13
 msgctxt "COLOR:AMETHYST"
@@ -38142,12 +38227,12 @@ msgstr "[NAME:ametista]"
 #: descriptor_color_standard.txt:18
 msgctxt "COLOR:AQUA"
 msgid "[NAME:aqua]"
-msgstr ""
+msgstr "[NAME:acqua]"
 
 #: descriptor_color_standard.txt:23
 msgctxt "COLOR:AQUAMARINE"
 msgid "[NAME:aquamarine]"
-msgstr ""
+msgstr "[NAME:acquamarina]"
 
 #: descriptor_color_standard.txt:28
 msgctxt "COLOR:ASH_GRAY"
@@ -38232,27 +38317,27 @@ msgstr "[NAME:carbone]"
 #: descriptor_color_standard.txt:108
 msgctxt "COLOR:CHARTREUSE"
 msgid "[NAME:chartreuse]"
-msgstr ""
+msgstr "[NAME:chartreuse]"
 
 #: descriptor_color_standard.txt:113
 msgctxt "COLOR:CHESTNUT"
 msgid "[NAME:chestnut]"
-msgstr ""
+msgstr "[NAME:marrone castagna]"
 
 #: descriptor_color_standard.txt:118
 msgctxt "COLOR:CHOCOLATE"
 msgid "[NAME:chocolate]"
-msgstr ""
+msgstr "[NAME:cioccolato]"
 
 #: descriptor_color_standard.txt:123
 msgctxt "COLOR:CINNAMON"
 msgid "[NAME:cinnamon]"
-msgstr ""
+msgstr "[NAME:marrone cannella]"
 
 #: descriptor_color_standard.txt:128
 msgctxt "COLOR:CLEAR"
 msgid "[NAME:clear]"
-msgstr ""
+msgstr "[NAME:trasparente]"
 
 #: descriptor_color_standard.txt:133
 msgctxt "COLOR:COBALT"
@@ -38267,12 +38352,12 @@ msgstr "[NAME:rame]"
 #: descriptor_color_standard.txt:143
 msgctxt "COLOR:CREAM"
 msgid "[NAME:cream]"
-msgstr ""
+msgstr "[NAME:crema]"
 
 #: descriptor_color_standard.txt:148
 msgctxt "COLOR:CRIMSON"
 msgid "[NAME:crimson]"
-msgstr ""
+msgstr "[NAME:cremisi]"
 
 #: descriptor_color_standard.txt:153
 msgctxt "COLOR:DARK_BLUE"
@@ -38282,12 +38367,12 @@ msgstr "[NAME:blu scuro]"
 #: descriptor_color_standard.txt:158
 msgctxt "COLOR:DARK_BROWN"
 msgid "[NAME:dark brown]"
-msgstr ""
+msgstr "[NAME:marrone scuro]"
 
 #: descriptor_color_standard.txt:163
 msgctxt "COLOR:DARK_CHESTNUT"
 msgid "[NAME:dark chestnut]"
-msgstr ""
+msgstr "[NAME:castagna scuro]"
 
 #: descriptor_color_standard.txt:168
 msgctxt "COLOR:DARK_GREEN"
@@ -38297,67 +38382,67 @@ msgstr "[NAME:verde scuro]"
 #: descriptor_color_standard.txt:173
 msgctxt "COLOR:DARK_INDIGO"
 msgid "[NAME:dark indigo]"
-msgstr ""
+msgstr "[NAME:indaco scuro]"
 
 #: descriptor_color_standard.txt:178
 msgctxt "COLOR:DARK_OLIVE"
 msgid "[NAME:dark olive]"
-msgstr ""
+msgstr "[NAME:oliva scuro]"
 
 #: descriptor_color_standard.txt:183
 msgctxt "COLOR:DARK_PEACH"
 msgid "[NAME:dark peach]"
-msgstr ""
+msgstr "[NAME:pesca scuro]"
 
 #: descriptor_color_standard.txt:188
 msgctxt "COLOR:DARK_PINK"
 msgid "[NAME:dark pink]"
-msgstr ""
+msgstr "[NAME:rosa scuro]"
 
 #: descriptor_color_standard.txt:193
 msgctxt "COLOR:DARK_SCARLET"
 msgid "[NAME:dark scarlet]"
-msgstr ""
+msgstr "[NAME:scarlatto scuro]"
 
 #: descriptor_color_standard.txt:198
 msgctxt "COLOR:DARK_TAN"
 msgid "[NAME:dark tan]"
-msgstr ""
+msgstr "[NAME:bronzo scuro]"
 
 #: descriptor_color_standard.txt:203
 msgctxt "COLOR:DARK_VIOLET"
 msgid "[NAME:dark violet]"
-msgstr ""
+msgstr "[NAME:violetto scuro]"
 
 #: descriptor_color_standard.txt:208
 msgctxt "COLOR:ECRU"
 msgid "[NAME:ecru]"
-msgstr ""
+msgstr "[NAME:écru]"
 
 #: descriptor_color_standard.txt:213
 msgctxt "COLOR:EGGPLANT"
 msgid "[NAME:eggplant]"
-msgstr ""
+msgstr "[NAME:melanzana]"
 
 #: descriptor_color_standard.txt:217
 msgctxt "COLOR:EMERALD"
 msgid "[NAME:emerald]"
-msgstr "[NAME:verde smeraldo]"
+msgstr "[NAME:smeraldo]"
 
 #: descriptor_color_standard.txt:222
 msgctxt "COLOR:FERN_GREEN"
 msgid "[NAME:fern green]"
-msgstr ""
+msgstr "[NAME:verde felce]"
 
 #: descriptor_color_standard.txt:227
 msgctxt "COLOR:FLAX"
 msgid "[NAME:flax]"
-msgstr ""
+msgstr "[NAME:lino]"
 
 #: descriptor_color_standard.txt:232
 msgctxt "COLOR:FUCHSIA"
 msgid "[NAME:fuchsia]"
-msgstr ""
+msgstr "[NAME:fucsia]"
 
 #: descriptor_color_standard.txt:237
 msgctxt "COLOR:GOLD"
@@ -38367,12 +38452,12 @@ msgstr "[NAME:oro]"
 #: descriptor_color_standard.txt:242
 msgctxt "COLOR:GOLDEN_YELLOW"
 msgid "[NAME:golden yellow]"
-msgstr ""
+msgstr "[NAME:giallo dorato]"
 
 #: descriptor_color_standard.txt:248
 msgctxt "COLOR:GOLDENROD"
 msgid "[NAME:goldenrod]"
-msgstr ""
+msgstr "[NAME:solidago]"
 
 #: descriptor_color_standard.txt:253
 msgctxt "COLOR:GRAY"
@@ -38387,17 +38472,17 @@ msgstr "[NAME:verde]"
 #: descriptor_color_standard.txt:263
 msgctxt "COLOR:GREEN-YELLOW"
 msgid "[NAME:green-yellow]"
-msgstr ""
+msgstr "[NAME:verde-giallo]"
 
 #: descriptor_color_standard.txt:269
 msgctxt "COLOR:HELIOTROPE"
 msgid "[NAME:heliotrope]"
-msgstr ""
+msgstr "[NAME:eliotropo]"
 
 #: descriptor_color_standard.txt:274
 msgctxt "COLOR:INDIGO"
 msgid "[NAME:indigo]"
-msgstr ""
+msgstr "[NAME:indaco]"
 
 #: descriptor_color_standard.txt:279
 msgctxt "COLOR:IVORY"
@@ -38412,17 +38497,17 @@ msgstr "[NAME:giada]"
 #: descriptor_color_standard.txt:289
 msgctxt "COLOR:LAVENDER"
 msgid "[NAME:lavender]"
-msgstr ""
+msgstr "[NAME:lavanda]"
 
 #: descriptor_color_standard.txt:294
 msgctxt "COLOR:LAVENDER_BLUSH"
 msgid "[NAME:lavender blush]"
-msgstr ""
+msgstr "[NAME:lavanda rossastra]"
 
 #: descriptor_color_standard.txt:299
 msgctxt "COLOR:LEMON"
 msgid "[NAME:lemon]"
-msgstr "[NAME:giallo limone]"
+msgstr "[NAME:limone]"
 
 #: descriptor_color_standard.txt:304
 msgctxt "COLOR:LIGHT_BLUE"
@@ -38437,47 +38522,47 @@ msgstr "[NAME:marrone chiaro]"
 #: descriptor_color_standard.txt:314
 msgctxt "COLOR:LILAC"
 msgid "[NAME:lilac]"
-msgstr ""
+msgstr "[NAME:lilla]"
 
 #: descriptor_color_standard.txt:319
 msgctxt "COLOR:LIME"
 msgid "[NAME:lime]"
-msgstr ""
+msgstr "[NAME:lime]"
 
 #: descriptor_color_standard.txt:324
 msgctxt "COLOR:MAHOGANY"
 msgid "[NAME:mahogany]"
-msgstr ""
+msgstr "[NAME:mogano]"
 
 #: descriptor_color_standard.txt:329
 msgctxt "COLOR:MAROON"
 msgid "[NAME:maroon]"
-msgstr ""
+msgstr "[NAME:granata]"
 
 #: descriptor_color_standard.txt:334
 msgctxt "COLOR:MAUVE"
 msgid "[NAME:mauve]"
-msgstr ""
+msgstr "[NAME:malva]"
 
 #: descriptor_color_standard.txt:339
 msgctxt "COLOR:MAUVE_TAUPE"
 msgid "[NAME:mauve taupe]"
-msgstr ""
+msgstr "[NAME:malva talpa]"
 
 #: descriptor_color_standard.txt:345
 msgctxt "COLOR:MIDNIGHT_BLUE"
 msgid "[NAME:midnight blue]"
-msgstr ""
+msgstr "[NAME:blu notte]"
 
 #: descriptor_color_standard.txt:350
 msgctxt "COLOR:MINT_GREEN"
 msgid "[NAME:mint green]"
-msgstr ""
+msgstr "[NAME:verde menta]"
 
 #: descriptor_color_standard.txt:355
 msgctxt "COLOR:MOSS_GREEN"
 msgid "[NAME:moss green]"
-msgstr ""
+msgstr "[NAME:verde muschio]"
 
 #: descriptor_color_standard.txt:360
 msgctxt "COLOR:OCHRE"
@@ -38497,42 +38582,42 @@ msgstr "[NAME:arancione]"
 #: descriptor_color_standard.txt:375
 msgctxt "COLOR:PALE_BLUE"
 msgid "[NAME:pale blue]"
-msgstr ""
+msgstr "[NAME:celeste]"
 
 #: descriptor_color_standard.txt:380
 msgctxt "COLOR:PALE_BROWN"
 msgid "[NAME:pale brown]"
-msgstr ""
+msgstr "[NAME:marrone chiaro]"
 
 #: descriptor_color_standard.txt:385
 msgctxt "COLOR:PALE_CHESTNUT"
 msgid "[NAME:pale chestnut]"
-msgstr ""
+msgstr "[NAME:castagna chiaro]"
 
 #: descriptor_color_standard.txt:390
 msgctxt "COLOR:PALE_PINK"
 msgid "[NAME:pale pink]"
-msgstr ""
+msgstr "[NAME:rosa pallido]"
 
 #: descriptor_color_standard.txt:395
 msgctxt "COLOR:PEACH"
 msgid "[NAME:peach]"
-msgstr ""
+msgstr "[NAME:pesca]"
 
 #: descriptor_color_standard.txt:400
 msgctxt "COLOR:PEARL"
 msgid "[NAME:pearl]"
-msgstr ""
+msgstr "[NAME:perla]"
 
 #: descriptor_color_standard.txt:405
 msgctxt "COLOR:PERIWINKLE"
 msgid "[NAME:periwinkle]"
-msgstr ""
+msgstr "[NAME:pervinca]"
 
 #: descriptor_color_standard.txt:410
 msgctxt "COLOR:PINE_GREEN"
 msgid "[NAME:pine green]"
-msgstr ""
+msgstr "[NAME:verde pino]"
 
 #: descriptor_color_standard.txt:416
 msgctxt "COLOR:PINK"
@@ -38542,17 +38627,17 @@ msgstr "[NAME:rosa]"
 #: descriptor_color_standard.txt:421
 msgctxt "COLOR:PLUM"
 msgid "[NAME:plum]"
-msgstr ""
+msgstr "[NAME:prugna]"
 
 #: descriptor_color_standard.txt:426
 msgctxt "COLOR:PUCE"
 msgid "[NAME:puce]"
-msgstr ""
+msgstr "[NAME:pulce]"
 
 #: descriptor_color_standard.txt:431
 msgctxt "COLOR:PUMPKIN"
 msgid "[NAME:pumpkin]"
-msgstr ""
+msgstr "[NAME:zucca]"
 
 #: descriptor_color_standard.txt:436
 msgctxt "COLOR:PURPLE"
@@ -38562,7 +38647,7 @@ msgstr "[NAME:viola]"
 #: descriptor_color_standard.txt:441
 msgctxt "COLOR:RAW_UMBER"
 msgid "[NAME:raw umber]"
-msgstr ""
+msgstr "[NAME:terra d'ombra]"
 
 #: descriptor_color_standard.txt:446
 msgctxt "COLOR:RED"
@@ -38572,42 +38657,42 @@ msgstr "[NAME:rosso]"
 #: descriptor_color_standard.txt:451
 msgctxt "COLOR:RED_PURPLE"
 msgid "[NAME:red-purple]"
-msgstr ""
+msgstr "[NAME:rosso-viola]"
 
 #: descriptor_color_standard.txt:457
 msgctxt "COLOR:ROSE"
 msgid "[NAME:rose]"
-msgstr ""
+msgstr "[NAME:rosa]"
 
 #: descriptor_color_standard.txt:462
 msgctxt "COLOR:RUSSET"
 msgid "[NAME:russet]"
-msgstr ""
+msgstr "[NAME:marrone ruggine]"
 
 #: descriptor_color_standard.txt:467
 msgctxt "COLOR:RUST"
 msgid "[NAME:rust]"
-msgstr ""
+msgstr "[NAME:ruggine]"
 
 #: descriptor_color_standard.txt:472
 msgctxt "COLOR:SAFFRON"
 msgid "[NAME:saffron]"
-msgstr ""
+msgstr "[NAME:zafferano]"
 
 #: descriptor_color_standard.txt:477
 msgctxt "COLOR:SCARLET"
 msgid "[NAME:scarlet]"
-msgstr ""
+msgstr "[NAME:scarlatto]"
 
 #: descriptor_color_standard.txt:482
 msgctxt "COLOR:SEA_GREEN"
 msgid "[NAME:sea green]"
-msgstr ""
+msgstr "[NAME:verde mare]"
 
 #: descriptor_color_standard.txt:489
 msgctxt "COLOR:SEPIA"
 msgid "[NAME:sepia]"
-msgstr ""
+msgstr "[NAME:seppia]"
 
 #: descriptor_color_standard.txt:494
 msgctxt "COLOR:SILVER"
@@ -38617,62 +38702,62 @@ msgstr "[NAME:argento]"
 #: descriptor_color_standard.txt:499
 msgctxt "COLOR:SKY_BLUE"
 msgid "[NAME:sky blue]"
-msgstr ""
+msgstr "[NAME:blu cielo]"
 
 #: descriptor_color_standard.txt:504
 msgctxt "COLOR:SLATE_GRAY"
 msgid "[NAME:slate gray]"
-msgstr ""
+msgstr "[NAME:grigio ardesia]"
 
 #: descriptor_color_standard.txt:509
 msgctxt "COLOR:SPRING_GREEN"
 msgid "[NAME:spring green]"
-msgstr ""
+msgstr "[NAME:verde primavera]"
 
 #: descriptor_color_standard.txt:514
 msgctxt "COLOR:TAN"
 msgid "[NAME:tan]"
-msgstr ""
+msgstr "[NAME:bronzo]"
 
 #: descriptor_color_standard.txt:519
 msgctxt "COLOR:TAUPE_DARK"
 msgid "[NAME:dark taupe]"
-msgstr ""
+msgstr "[NAME:talpa scuro]"
 
 #: descriptor_color_standard.txt:524
 msgctxt "COLOR:TAUPE_GRAY"
 msgid "[NAME:taupe gray]"
-msgstr ""
+msgstr "[NAME:grigio talpa]"
 
 #: descriptor_color_standard.txt:530
 msgctxt "COLOR:TAUPE_MEDIUM"
 msgid "[NAME:taupe]"
-msgstr ""
+msgstr "[NAME:talpa]"
 
 #: descriptor_color_standard.txt:535
 msgctxt "COLOR:TAUPE_PURPLE"
 msgid "[NAME:purple taupe]"
-msgstr ""
+msgstr "[NAME:viola talpa]"
 
 #: descriptor_color_standard.txt:541
 msgctxt "COLOR:TAUPE_PALE"
 msgid "[NAME:pale taupe]"
-msgstr ""
+msgstr "[NAME:talpa chiaro]"
 
 #: descriptor_color_standard.txt:546
 msgctxt "COLOR:TAUPE_ROSE"
 msgid "[NAME:rose taupe]"
-msgstr ""
+msgstr "[NAME:rosa talpa]"
 
 #: descriptor_color_standard.txt:551
 msgctxt "COLOR:TAUPE_SANDY"
 msgid "[NAME:sandy taupe]"
-msgstr ""
+msgstr "[NAME:talpa sabbia]"
 
 #: descriptor_color_standard.txt:556
 msgctxt "COLOR:TEAL"
 msgid "[NAME:teal]"
-msgstr ""
+msgstr "[NAME:blu tè]"
 
 #: descriptor_color_standard.txt:561
 msgctxt "COLOR:TURQUOISE"
@@ -38682,12 +38767,12 @@ msgstr "[NAME:turchese]"
 #: descriptor_color_standard.txt:566
 msgctxt "COLOR:VERMILION"
 msgid "[NAME:vermilion]"
-msgstr ""
+msgstr "[NAME:vermiglio]"
 
 #: descriptor_color_standard.txt:571
 msgctxt "COLOR:VIOLET"
 msgid "[NAME:violet]"
-msgstr ""
+msgstr "[NAME:violetto]"
 
 #: descriptor_color_standard.txt:576
 msgctxt "COLOR:WHITE"
@@ -38702,132 +38787,132 @@ msgstr "[NAME:giallo]"
 #: descriptor_color_standard.txt:586
 msgctxt "COLOR:YELLOW_GREEN"
 msgid "[NAME:yellow-green]"
-msgstr ""
+msgstr "[NAME:giallo-verde]"
 
 #: descriptor_color_standard.txt:592
 msgctxt "COLOR:BLUE-GRAY"
 msgid "[NAME:blue-gray]"
-msgstr ""
+msgstr "[NAME:blu-grigio]"
 
 #: descriptor_shape_standard.txt:6
 msgctxt "SHAPE:STAR"
 msgid "[NAME:star:stars]"
-msgstr ""
+msgstr "[NAME:stella:stelle]"
 
 #: descriptor_shape_standard.txt:8
 msgctxt "SHAPE:STAR"
 msgid "[ADJ:three-pointed]"
-msgstr ""
+msgstr "[ADJ:a tre punte]"
 
 #: descriptor_shape_standard.txt:9
 msgctxt "SHAPE:STAR"
 msgid "[ADJ:four-pointed]"
-msgstr ""
+msgstr "[ADJ:a quattro punte]"
 
 #: descriptor_shape_standard.txt:10
 msgctxt "SHAPE:STAR"
 msgid "[ADJ:five-pointed]"
-msgstr ""
+msgstr "[ADJ:a cinque punte]"
 
 #: descriptor_shape_standard.txt:11
 msgctxt "SHAPE:STAR"
 msgid "[ADJ:many-pointed]"
-msgstr ""
+msgstr "[ADJ:a molte punte]"
 
 #: descriptor_shape_standard.txt:16
 msgctxt "SHAPE:CRESCENT"
 msgid "[NAME:crescent:crescents]"
-msgstr ""
+msgstr "[NAME:crescente:crescenti]"
 
 #: descriptor_shape_standard.txt:18
 msgctxt "SHAPE:CRESCENT"
 msgid "[ADJ:narrow]"
-msgstr ""
+msgstr "[ADJ:stretto]"
 
 #: descriptor_shape_standard.txt:19
 msgctxt "SHAPE:CRESCENT"
 msgid "[ADJ:thick]"
-msgstr ""
+msgstr "[ADJ:spesso]"
 
 #: descriptor_shape_standard.txt:24
 msgctxt "SHAPE:CROSS"
 msgid "[NAME:cross:crosses]"
-msgstr ""
+msgstr "[NAME:croce:croci]"
 
 #: descriptor_shape_standard.txt:26
 msgctxt "SHAPE:CROSS"
 msgid "[ADJ:broad]"
-msgstr ""
+msgstr "[ADJ:largo]"
 
 #: descriptor_shape_standard.txt:27
 msgctxt "SHAPE:CROSS"
 msgid "[ADJ:tall]"
-msgstr ""
+msgstr "[ADJ:alto]"
 
 #: descriptor_shape_standard.txt:28
 msgctxt "SHAPE:CROSS"
 msgid "[ADJ:thin]"
-msgstr ""
+msgstr "[ADJ:sottile]"
 
 #: descriptor_shape_standard.txt:33
 msgctxt "SHAPE:SQUARE"
 msgid "[NAME:square:squares]"
-msgstr ""
+msgstr "[NAME:casella:caselle]"
 
 #: descriptor_shape_standard.txt:38
 msgctxt "SHAPE:CIRCLE"
 msgid "[NAME:circle:circles]"
-msgstr ""
+msgstr "[NAME:cerchio:cerchi]"
 
 #: descriptor_shape_standard.txt:43
 msgctxt "SHAPE:DIAMOND"
 msgid "[NAME:diamond:diamonds]"
-msgstr ""
+msgstr "[NAME:diamante:diamanti]"
 
 #: descriptor_shape_standard.txt:48
 msgctxt "SHAPE:SUN"
 msgid "[NAME:sun:suns]"
-msgstr ""
+msgstr "[NAME:sole:soli]"
 
 #: descriptor_shape_standard.txt:50
 msgctxt "SHAPE:SUN"
 msgid "[ADJ:shining]"
-msgstr ""
+msgstr "[ADJ:splendente]"
 
 #: descriptor_shape_standard.txt:51
 msgctxt "SHAPE:SUN"
 msgid "[ADJ:blazing]"
-msgstr ""
+msgstr "[ADJ:fiammeggiante]"
 
 #: descriptor_shape_standard.txt:56
 msgctxt "SHAPE:MOON"
 msgid "[NAME:moon:moons]"
-msgstr ""
+msgstr "[NAME:luna:lune]"
 
 #: descriptor_shape_standard.txt:58
 msgctxt "SHAPE:MOON"
 msgid "[ADJ:hidden]"
-msgstr ""
+msgstr "[ADJ:nascosto]"
 
 #: descriptor_shape_standard.txt:59
 msgctxt "SHAPE:MOON"
 msgid "[ADJ:full]"
-msgstr ""
+msgstr "[ADJ:pieno]"
 
 #: descriptor_shape_standard.txt:60
 msgctxt "SHAPE:MOON"
 msgid "[ADJ:crescent]"
-msgstr ""
+msgstr "[ADJ:crescente]"
 
 #: descriptor_shape_standard.txt:61
 msgctxt "SHAPE:MOON"
 msgid "[ADJ:half]"
-msgstr ""
+msgstr "[ADJ:metà]"
 
 #: descriptor_shape_standard.txt:66
 msgctxt "SHAPE:WAVE"
 msgid "[NAME:wave:waves]"
-msgstr ""
+msgstr "[NAME:onda:onde]"
 
 #: descriptor_shape_standard.txt:72
 msgctxt "SHAPE:MOUNTAIN"
@@ -38852,7 +38937,7 @@ msgstr ""
 #: descriptor_shape_standard.txt:89
 msgctxt "SHAPE:SMOOTH_PEBBLE"
 msgid "[ADJ:smooth]"
-msgstr ""
+msgstr "[ADJ:liscio]"
 
 #: descriptor_shape_standard.txt:94
 msgctxt "SHAPE:OVAL_CABOCHON"
@@ -38862,7 +38947,7 @@ msgstr ""
 #: descriptor_shape_standard.txt:95
 msgctxt "SHAPE:OVAL_CABOCHON"
 msgid "[ADJ:oval]"
-msgstr ""
+msgstr "[ADJ:ovale]"
 
 #: descriptor_shape_standard.txt:100
 msgctxt "SHAPE:ROUND_CABOCHON"
@@ -38872,7 +38957,7 @@ msgstr ""
 #: descriptor_shape_standard.txt:101
 msgctxt "SHAPE:ROUND_CABOCHON"
 msgid "[ADJ:round]"
-msgstr ""
+msgstr "[ADJ:tondo]"
 
 #: descriptor_shape_standard.txt:106
 msgctxt "SHAPE:CUSHION_CABOCHON"
@@ -39232,7 +39317,7 @@ msgstr ""
 #: entity_default.txt:527
 msgctxt "ENTITY:MOUNTAIN"
 msgid "[NAME:expedition leader:expedition leaders]"
-msgstr ""
+msgstr "[NAME:capo spedizione:capi spedizione]"
 
 #: entity_default.txt:540
 msgctxt "ENTITY:MOUNTAIN"
@@ -40407,7 +40492,7 @@ msgstr ""
 #: item_weapon.txt:279
 msgctxt "ITEM_WEAPON:ITEM_WEAPON_AXE_TRAINING"
 msgid "[NAME:training axe:training axes]"
-msgstr ""
+msgstr "[NAME:ascia d'allenamento:asce d'allenamento]"
 
 #: item_weapon.txt:285
 msgctxt "ITEM_WEAPON:ITEM_WEAPON_AXE_TRAINING"
@@ -40427,7 +40512,7 @@ msgstr ""
 #: item_weapon.txt:294
 msgctxt "ITEM_WEAPON:ITEM_WEAPON_SWORD_SHORT_TRAINING"
 msgid "[NAME:training sword:training swords]"
-msgstr ""
+msgstr "[NAME:spada d'allenamento:spade d'allenamento]"
 
 #: item_weapon.txt:300
 msgctxt "ITEM_WEAPON:ITEM_WEAPON_SWORD_SHORT_TRAINING"
@@ -40452,7 +40537,7 @@ msgstr ""
 #: item_weapon.txt:311
 msgctxt "ITEM_WEAPON:ITEM_WEAPON_SPEAR_TRAINING"
 msgid "[NAME:training spear:training spears]"
-msgstr ""
+msgstr "[NAME:lancia d'allenamento:lance d'allenamento]"
 
 #: item_weapon.txt:317
 msgctxt "ITEM_WEAPON:ITEM_WEAPON_SPEAR_TRAINING"
@@ -41447,7 +41532,7 @@ msgstr ""
 #: inorganic_stone_gem.txt:809
 msgctxt "INORGANIC:AQUAMARINE"
 msgid "[IS_GEM:aquamarine:STP:]"
-msgstr ""
+msgstr "[IS_GEM:acquamarina:STP:]"
 
 #: inorganic_stone_gem.txt:818
 msgctxt "INORGANIC:SPINEL_RED"
@@ -41587,7 +41672,7 @@ msgstr ""
 #: inorganic_stone_layer.txt:34
 msgctxt "INORGANIC:MUDSTONE"
 msgid "[STATE_NAME_ADJ:ALL_SOLID:mudstone]"
-msgstr ""
+msgstr "[STATE_NAME_ADJ:ALL_SOLID:argillite]"
 
 #: inorganic_stone_layer.txt:42
 msgctxt "INORGANIC:SHALE"
@@ -41602,7 +41687,7 @@ msgstr ""
 #: inorganic_stone_layer.txt:58
 msgctxt "INORGANIC:ROCK_SALT"
 msgid "[STATE_NAME_ADJ:ALL_SOLID:rock salt]"
-msgstr ""
+msgstr "[STATE_NAME_ADJ:ALL_SOLID:Roccia Salina]"
 
 #: inorganic_stone_layer.txt:68
 msgctxt "INORGANIC:LIMESTONE"
@@ -41942,7 +42027,7 @@ msgstr ""
 #: inorganic_stone_mineral.txt:526
 msgctxt "INORGANIC:RUTILE"
 msgid "[STATE_NAME_ADJ:ALL_SOLID:rutile]"
-msgstr ""
+msgstr "[STATE_NAME_ADJ:ALL_SOLID:rutilo]"
 
 #: inorganic_stone_mineral.txt:536
 msgctxt "INORGANIC:MAGNETITE"
@@ -42077,7 +42162,7 @@ msgstr ""
 #: inorganic_stone_mineral.txt:836
 msgctxt "INORGANIC:SLADE"
 msgid "[STATE_NAME_ADJ:ALL_SOLID:slade]"
-msgstr ""
+msgstr "[STATE_NAME_ADJ:ALL_SOLID:slada]"
 
 #: inorganic_stone_soil.txt:21
 msgctxt "INORGANIC:CLAY"
@@ -42472,12 +42557,12 @@ msgstr ""
 #: material_template_default.txt:452
 msgctxt "MATERIAL_TEMPLATE:HAIR_TEMPLATE"
 msgid "[STATE_NAME:ALL_SOLID:hair]"
-msgstr ""
+msgstr "[STATE_NAME:ALL_SOLID:pelo]"
 
 #: material_template_default.txt:453
 msgctxt "MATERIAL_TEMPLATE:HAIR_TEMPLATE"
 msgid "[STATE_ADJ:ALL_SOLID:hair]"
-msgstr ""
+msgstr "[STATE_ADJ:ALL_SOLID:pelo]"
 
 #: material_template_default.txt:455
 msgctxt "MATERIAL_TEMPLATE:HAIR_TEMPLATE"
@@ -43457,12 +43542,12 @@ msgstr ""
 #: material_template_default.txt:1942
 msgctxt "MATERIAL_TEMPLATE:CHITIN_TEMPLATE"
 msgid "[STATE_NAME:ALL_SOLID:chitin]"
-msgstr ""
+msgstr "[STATE_NAME:ALL_SOLID:chitina]"
 
 #: material_template_default.txt:1943
 msgctxt "MATERIAL_TEMPLATE:CHITIN_TEMPLATE"
 msgid "[STATE_ADJ:ALL_SOLID:chitin]"
-msgstr ""
+msgstr "[STATE_ADJ:ALL_SOLID:chitina]"
 
 #: material_template_default.txt:1945
 msgctxt "MATERIAL_TEMPLATE:CHITIN_TEMPLATE"
@@ -43922,12 +44007,12 @@ msgstr ""
 #: material_template_default.txt:2653
 msgctxt "MATERIAL_TEMPLATE:SOIL_TEMPLATE"
 msgid "[STATE_NAME:ALL_SOLID:soil]"
-msgstr ""
+msgstr "[STATE_NAME:ALL_SOLID:terreno]"
 
 #: material_template_default.txt:2654
 msgctxt "MATERIAL_TEMPLATE:SOIL_TEMPLATE"
 msgid "[STATE_ADJ:ALL_SOLID:soil]"
-msgstr ""
+msgstr "[STATE_ADJ:ALL_SOLID:terreno]"
 
 #: material_template_default.txt:2656
 msgctxt "MATERIAL_TEMPLATE:SOIL_TEMPLATE"
@@ -48688,7 +48773,7 @@ msgstr ""
 #: plant_grasses.txt:23
 msgctxt "PLANT:HAIR GRASS"
 msgid "[ALL_NAMES:hair grass]"
-msgstr ""
+msgstr "[ALL_NAMES:erba a cespuglio]"
 
 #: plant_grasses.txt:40
 msgctxt "PLANT:BENTGRASS"
@@ -51718,17 +51803,17 @@ msgstr ""
 #: plant_standard.txt:276
 msgctxt "PLANT:ROOT_MUCK"
 msgid "[NAME:muck root]"
-msgstr ""
+msgstr "[NAME:radice fangosa]"
 
 #: plant_standard.txt:276
 msgctxt "PLANT:ROOT_MUCK"
 msgid "[NAME_PLURAL:muck roots]"
-msgstr ""
+msgstr "[NAME_PLURAL:radici fangose]"
 
 #: plant_standard.txt:276
 msgctxt "PLANT:ROOT_MUCK"
 msgid "[ADJ:muck root]"
-msgstr ""
+msgstr "[ADJ:radice fangosa]"
 
 #: plant_standard.txt:288
 msgctxt "PLANT:ROOT_MUCK"
@@ -51748,7 +51833,7 @@ msgstr ""
 #: plant_standard.txt:299
 msgctxt "PLANT:ROOT_MUCK"
 msgid "[SEED:muck root seed:muck root seeds:]"
-msgstr ""
+msgstr "[SEED:seme di radice fangosa:semi di radice fangosa]"
 
 #: plant_standard.txt:303
 msgctxt "PLANT:ROOT_MUCK"
@@ -53746,6 +53831,8 @@ msgid ""
 "[CATEGORY_DESCRIPTION:Make furniture at a carpenter's workshop using logs "
 "and a sharp tool.]"
 msgstr ""
+"[CATEGORY_DESCRIPTION:Crea mobili in un'bottega del carpentiere usando "
+"tronchi e un attrezzo affilato.]"
 
 #: reaction_adv_carpenter.txt:21
 msgctxt "REACTION:MAKE WOODEN TABLE"
@@ -54178,7 +54265,7 @@ msgstr ""
 #: reaction_adv_carpenter.txt:242
 msgctxt "REACTION:MAKE WOODEN TRAINING AXE"
 msgid "[NAME:make wooden training axe]"
-msgstr ""
+msgstr "[NAME:crea ascia d'allenamento in legno]"
 
 #: reaction_adv_carpenter.txt:245
 msgctxt "REACTION:MAKE WOODEN TRAINING AXE"
@@ -54195,6 +54282,7 @@ msgctxt "REACTION:MAKE WOODEN TRAINING AXE"
 msgid ""
 "[PRODUCT:100:1:WEAPON:ITEM_WEAPON_AXE_TRAINING:GET_MATERIAL_FROM_REAGENT:log:]"
 msgstr ""
+"[PRODUCT:100:1:WEAPON:ITEM_WEAPON_AXE_TRAINING:GET_MATERIAL_FROM_REAGENT:log:]"
 
 #: reaction_adv_carpenter.txt:250
 msgctxt "REACTION:MAKE WOODEN TRAINING AXE"
@@ -54204,7 +54292,7 @@ msgstr ""
 #: reaction_adv_carpenter.txt:255
 msgctxt "REACTION:MAKE WOODEN TRAINING SHORT SWORD"
 msgid "[NAME:make wooden training short sword]"
-msgstr ""
+msgstr "[NAME:crea spada corta d'allenamento in legno]"
 
 #: reaction_adv_carpenter.txt:258
 msgctxt "REACTION:MAKE WOODEN TRAINING SHORT SWORD"
@@ -54221,6 +54309,7 @@ msgctxt "REACTION:MAKE WOODEN TRAINING SHORT SWORD"
 msgid ""
 "[PRODUCT:100:1:WEAPON:ITEM_WEAPON_SWORD_SHORT_TRAINING:GET_MATERIAL_FROM_REAGENT:log:]"
 msgstr ""
+"[PRODUCT:100:1:WEAPON:ITEM_WEAPON_SWORD_SHORT_TRAINING:GET_MATERIAL_FROM_REAGENT:log:]"
 
 #: reaction_adv_carpenter.txt:263
 msgctxt "REACTION:MAKE WOODEN TRAINING SHORT SWORD"
@@ -54230,7 +54319,7 @@ msgstr ""
 #: reaction_adv_carpenter.txt:268
 msgctxt "REACTION:MAKE WOODEN TRAINING SPEAR"
 msgid "[NAME:make wooden training spear]"
-msgstr ""
+msgstr "[NAME:crea lancia d'allenamento in legno]"
 
 #: reaction_adv_carpenter.txt:271
 msgctxt "REACTION:MAKE WOODEN TRAINING SPEAR"
@@ -54247,6 +54336,7 @@ msgctxt "REACTION:MAKE WOODEN TRAINING SPEAR"
 msgid ""
 "[PRODUCT:100:1:WEAPON:ITEM_WEAPON_SPEAR_TRAINING:GET_MATERIAL_FROM_REAGENT:log:]"
 msgstr ""
+"[PRODUCT:100:1:WEAPON:ITEM_WEAPON_SPEAR_TRAINING:GET_MATERIAL_FROM_REAGENT:log:]"
 
 #: reaction_adv_carpenter.txt:276
 msgctxt "REACTION:MAKE WOODEN TRAINING SPEAR"
@@ -54467,7 +54557,7 @@ msgstr ""
 #: reaction_other.txt:130
 msgctxt "REACTION:MAKE_CLAY_CRAFTS"
 msgid "[NAME:make clay crafts]"
-msgstr ""
+msgstr "[NAME:crea oggetti d'artigianato in argilla]"
 
 #: reaction_other.txt:132
 msgctxt "REACTION:MAKE_CLAY_CRAFTS"
@@ -54477,7 +54567,7 @@ msgstr ""
 #: reaction_other.txt:134
 msgctxt "REACTION:MAKE_CLAY_CRAFTS"
 msgid "[PRODUCT:100:1:CRAFTS:NONE:GET_MATERIAL_FROM_REAGENT:clay:]"
-msgstr ""
+msgstr "[PRODUCT:100:1:CRAFTS:NONE:GET_MATERIAL_FROM_REAGENT:argilla:]"
 
 #: reaction_other.txt:139
 msgctxt "REACTION:GLAZE_JUG"
@@ -54667,7 +54757,7 @@ msgstr ""
 #: reaction_other.txt:258
 msgctxt "REACTION:MAKE_WAX_CRAFTS"
 msgid "[NAME:make wax crafts]"
-msgstr ""
+msgstr "[NAME:crea oggetti d'artigianato in cera]"
 
 #: reaction_other.txt:260
 msgctxt "REACTION:MAKE_WAX_CRAFTS"
@@ -54677,7 +54767,7 @@ msgstr ""
 #: reaction_other.txt:262
 msgctxt "REACTION:MAKE_WAX_CRAFTS"
 msgid "[PRODUCT:100:1:CRAFTS:NONE:GET_MATERIAL_FROM_REAGENT:wax:]"
-msgstr ""
+msgstr "[PRODUCT:100:1:CRAFTS:NONE:GET_MATERIAL_FROM_REAGENT:cera:]"
 
 #: reaction_other.txt:266
 msgctxt "REACTION:BREW_DRINK_FROM_PLANT"
@@ -55031,6 +55121,8 @@ msgctxt "REACTION:CARVE_BONE_FIGURINE"
 msgid ""
 "[CATEGORY_DESCRIPTION:Make crafts from bone using a sharp weapon or tool.]"
 msgstr ""
+"[CATEGORY_DESCRIPTION:Crea oggetti d'artigianato con ossa usando un'arma o "
+"strumento affilati.]"
 
 #: reaction_other.txt:454
 msgctxt "REACTION:CARVE_BONE_RING"
