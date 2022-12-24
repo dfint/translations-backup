@@ -9,6 +9,7 @@ python = "^3.9"
 requests = "^2.28.1"
 Jinja2 = "^3.1.2"
 loguru = "^0.6.0"
+typer = "^0.7.0"
 
 [tool.poetry.dev-dependencies]
 
@@ -19,3 +20,7 @@ isort = "^5.11.4"
 [build-system]
 requires = ["poetry-core>=1.0.0"]
 build-backend = "poetry.core.masonry.api"
+
+[tool.poetry.scripts]
+# poetry run progress ../../ ../../README.template.md ../../README.md
+progress = "progress.main:app"

@@ -6,6 +6,7 @@ from typing import Any, Tuple
 
 import jinja2
 import requests
+import typer
 from loguru import logger
 
 
@@ -101,6 +102,10 @@ def get_chart_url(path: Path) -> str:
     return chart
 
 
+app = typer.Typer()
+
+
+@app.command()
 def generate_readme_jinja(base_dir: Path, template_file: Path, result_path: Path):
     logger.info(f"base_dir: {base_dir.resolve().absolute()}")
     logger.info(f"template_file: {template_file.resolve().absolute()}")
