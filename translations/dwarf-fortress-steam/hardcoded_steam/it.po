@@ -3,8 +3,8 @@
 # insolor, 2022
 # Ace The Brave <acethebrave@gmail.com>, 2022
 # Francesco Passoni, 2022
-# Transifex Bot <>, 2022
 # Dario "Crongdyne" Landucci, 2022
+# Transifex Bot <>, 2022
 # Luca_PolyZen_, 2022
 # 
 msgid ""
@@ -1522,7 +1522,7 @@ msgstr "viene iniettato nel"
 
 #: stringdump_steam_2022_12_06.txt:429
 msgid "Okay"
-msgstr "Va bene"
+msgstr "Ok"
 
 #: stringdump_steam_2022_12_06.txt:430
 msgid " is sucked out of the wound!"
@@ -3627,7 +3627,7 @@ msgstr "Animali da soma"
 
 #: stringdump_steam_2022_12_06.txt:970
 msgid "Work details"
-msgstr "Dettagli lavoro"
+msgstr "Dett. lavoro"
 
 #: stringdump_steam_2022_12_06.txt:971
 msgid "Workshops"
@@ -7295,7 +7295,7 @@ msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:1905
 msgid "Popup: Work details"
-msgstr ""
+msgstr "Popup: Dettagli di lavoro"
 
 #: stringdump_steam_2022_12_06.txt:1906
 msgid "Popup: Stocks"
@@ -7307,7 +7307,7 @@ msgstr "[visualizzato]"
 
 #: stringdump_steam_2022_12_06.txt:1908
 msgid "Popup: Work orders"
-msgstr ""
+msgstr "Popup: Ordini di lavoro"
 
 #: stringdump_steam_2022_12_06.txt:1909
 msgid "Popup: The world"
@@ -7770,6 +7770,8 @@ msgid ""
 "You'll begin by creating your world and watching the region's history "
 "unfold. "
 msgstr ""
+"Inizierai creando il tuo mondo e osservando la storia della regione "
+"svolgersi. "
 
 #: stringdump_steam_2022_12_06.txt:2024
 msgid ""
@@ -8199,6 +8201,8 @@ msgid ""
 "When you are ready, open the [C:5:0:1]Woodcutting[C:7:0:0] menu and "
 "designate the trunk of a tree on the surface.  "
 msgstr ""
+"Quando sei pronto, apri il menù [C:5:0:1]Taglialegna[C:7:0:0] e designa il "
+"tronco di un albero sulla superficie.  "
 
 #: stringdump_steam_2022_12_06.txt:2101
 msgid " (6 of 8)"
@@ -8518,7 +8522,7 @@ msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:2156
 msgid "There are two ways to make drinks for your residents."
-msgstr ""
+msgstr "Ci sono due modi per preparare bevande per i residenti."
 
 #: stringdump_steam_2022_12_06.txt:2157
 msgid "Miner"
@@ -8627,6 +8631,8 @@ msgid ""
 "If you survive until the caravan comes you may also trade for "
 "[C:6:0:1]Drinks[C:7:0:0] "
 msgstr ""
+"Se sopravvivi fino all'arrivo della carovana puoi anche commerciare per "
+"[C:6:0:1]Bevande[C:7:0:0]"
 
 #: stringdump_steam_2022_12_06.txt:2175
 msgid ""
@@ -8889,7 +8895,7 @@ msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:2217
 msgid "Stocks"
-msgstr "Inventario"
+msgstr "Risorse"
 
 #: stringdump_steam_2022_12_06.txt:2218
 msgid ""
@@ -8983,7 +8989,7 @@ msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:2232
 msgid "Nobles and administrators"
-msgstr ""
+msgstr "Nobili e Amministratori"
 
 #: stringdump_steam_2022_12_06.txt:2233
 msgid ""
@@ -8996,6 +9002,8 @@ msgid ""
 "Once they are assigned, you can create work orders, run a "
 "[C:1:0:1]Hospital[C:7:0:0], and count and appraise your hoard."
 msgstr ""
+"Una volta assegnati è possibile creare ordini di lavoro, dirigere un "
+"[C:1:0:1]Ospedale[C:7:0:0] e contare e stimare il tesoro."
 
 #: stringdump_steam_2022_12_06.txt:2235
 msgid ""
@@ -9017,6 +9025,9 @@ msgid ""
 "they are the only way to assign certain tasks like mining, woodcutting, "
 "hunting, and fishing. "
 msgstr ""
+"I dettagli di lavoro sono un modo per controllare quali lavoratori svolgono "
+"quali compiti e sono l'unico modo per assegnare alcuni compiti come scavo, "
+"taglio del legno, caccia e pesca."
 
 #: stringdump_steam_2022_12_06.txt:2238
 msgid ""
@@ -9038,12 +9049,18 @@ msgid ""
 "detail.  Once you assign citizens to the task, you can then set "
 "[C:5:0:1]\"Only selected do this\"[C:7:0:0] if you want to restrict it."
 msgstr ""
+"Se un compito non ha un dettaglio di lavoro predefinito è possibile creare "
+"un dettaglio di lavoro personalizzato.  Una volta assegnato il cittadino "
+"all'attività è possibile impostare [C:5:0:1]\"Solo i selezionati fanno "
+"questo\"[C:7:0:0] se desideri limitarlo."
 
 #: stringdump_steam_2022_12_06.txt:2242
 msgid ""
 "Tasks are restricted by setting their work detail to [C:5:0:1]\"Only "
 "selected do this\"[C:7:0:0]."
 msgstr ""
+"I compiti sono limitati impostando i dettagli di lavoro su [C:5:0:1]\"Solo i"
+" selezionati fanno questo\"[C:7:0:0]."
 
 #: stringdump_steam_2022_12_06.txt:2243
 msgid ""
@@ -9230,6 +9247,10 @@ msgid ""
 "if you are out of empty ones, to [C:3:0:1]Brew Drinks[C:7:0:0] if you are "
 "running low, or to [C:3:0:1]Make Five Statues[C:7:0:0] every month."
 msgstr ""
+"Ad esempio, puoi creare un ordine per [C:3:0:1]Produrre cesti di "
+"legno[C:7:0:0] se si è a corto di cesti vuoti, per [C:3:0:1]Produrre "
+"bevande[C:7:0:0] se si stanno esaurendo o per [C:3:0:1]Produrre cinque "
+"statue[C:7:0:0] al mese."
 
 #: stringdump_steam_2022_12_06.txt:2274
 msgid ""
@@ -13252,7 +13273,7 @@ msgstr "la cospirazione per rallentare il lavoro."
 
 #: stringdump_steam_2022_12_06.txt:3412
 msgid "the job order violation"
-msgstr ""
+msgstr "la violazione dell'ordine di lavoro"
 
 #: stringdump_steam_2022_12_06.txt:3413
 msgid "the kidnapping"
@@ -13738,7 +13759,7 @@ msgstr "Legna"
 
 #: stringdump_steam_2022_12_06.txt:3541
 msgid "Pearl"
-msgstr ""
+msgstr "Perla"
 
 #: stringdump_steam_2022_12_06.txt:3542
 msgid "Shell"
@@ -13822,7 +13843,7 @@ msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:3562
 msgid "Pearlash"
-msgstr ""
+msgstr "Potassa raffinata"
 
 #: stringdump_steam_2022_12_06.txt:3563
 msgid "Coal"
@@ -14448,52 +14469,53 @@ msgstr "Distanza: "
 
 #: stringdump_steam_2022_12_06.txt:3714
 msgid "Accept Counteroffer"
-msgstr ""
+msgstr "Accetta controfferta"
 
 #: stringdump_steam_2022_12_06.txt:3715
 msgid "Offer as gift"
-msgstr ""
+msgstr "Offri come regalo"
 
 #: stringdump_steam_2022_12_06.txt:3716
 msgid "at least"
-msgstr ""
+msgstr "almeno"
 
 #: stringdump_steam_2022_12_06.txt:3717
 msgid "at most"
-msgstr ""
+msgstr "al massimo"
 
 #: stringdump_steam_2022_12_06.txt:3718
 msgid "Amount of "
-msgstr ""
+msgstr "Qauntità di "
 
 #: stringdump_steam_2022_12_06.txt:3719
 msgid "available is "
-msgstr ""
+msgstr "disponibile è "
 
 #: stringdump_steam_2022_12_06.txt:3720
 msgid "Once a beautiful tree, and now?  "
-msgstr ""
+msgstr "Un tempo era un bellissimo albero, e ora?  "
 
 #: stringdump_steam_2022_12_06.txt:3721
 msgid "It is a rude bauble, fit only for your kind."
-msgstr ""
+msgstr "È un gingillo volgare, adatto solo alla tua specie."
 
 #: stringdump_steam_2022_12_06.txt:3722
 msgid "You truly despise life, don't you?  "
-msgstr ""
+msgstr "Disprezzi davvero la vita, vero?  "
 
 #: stringdump_steam_2022_12_06.txt:3723
 msgid ""
 "I am beside myself with grief.  Perhaps we will show you how they suffered."
 msgstr ""
+"Sono fuori di me dal dolore.  Magari vi mostreremo come hanno sofferto."
 
 #: stringdump_steam_2022_12_06.txt:3724
 msgid " seems "
-msgstr ""
+msgstr " sembra "
 
 #: stringdump_steam_2022_12_06.txt:3725
 msgid "ecstatic with the trading"
-msgstr ""
+msgstr "estasiato dal commercio"
 
 #: stringdump_steam_2022_12_06.txt:3726
 msgid "I see your low race still revels in death.  "
@@ -14505,59 +14527,59 @@ msgstr "Quella povera creatura gentile..."
 
 #: stringdump_steam_2022_12_06.txt:3728
 msgid "willing to trade"
-msgstr ""
+msgstr "disposto a commerciare"
 
 #: stringdump_steam_2022_12_06.txt:3729
 msgid "to be rapidly losing patience"
-msgstr ""
+msgstr "perde rapidamente la pazienza"
 
 #: stringdump_steam_2022_12_06.txt:3730
 msgid "very happy about the trading"
-msgstr ""
+msgstr "molto contento del commercio"
 
 #: stringdump_steam_2022_12_06.txt:3731
 msgid "pleased with the trading"
-msgstr ""
+msgstr "soddisfatti del commercio"
 
 #: stringdump_steam_2022_12_06.txt:3732
 msgid "The following fortress goods"
-msgstr "I prodotti di questa fortezza"
+msgstr "I seguenti prodotti della fortezza"
 
 #: stringdump_steam_2022_12_06.txt:3733
 msgid "were added for the counteroffer:"
-msgstr ""
+msgstr "sono stati aggiunti per la controfferta:"
 
 #: stringdump_steam_2022_12_06.txt:3734
 msgid "not going to take much more of this"
-msgstr ""
+msgstr "non ne sopporteremo ancora per molto"
 
 #: stringdump_steam_2022_12_06.txt:3735
 msgid "unwilling to trade"
-msgstr ""
+msgstr "non disposto a commerciare"
 
 #: stringdump_steam_2022_12_06.txt:3736
 msgid "must first be completed"
-msgstr ""
+msgstr "dev'essere prima completato"
 
 #: stringdump_steam_2022_12_06.txt:3737
 msgid "Suggested conditions"
-msgstr ""
+msgstr "Condizioni suggerite"
 
 #: stringdump_steam_2022_12_06.txt:3738
 msgid "Not satisfied for next check"
-msgstr ""
+msgstr "Non soddisfatto per il prossimo controllo"
 
 #: stringdump_steam_2022_12_06.txt:3739
 msgid "must first be activated"
-msgstr ""
+msgstr "dev'essere prima attivato"
 
 #: stringdump_steam_2022_12_06.txt:3740
 msgid " max"
-msgstr ""
+msgstr " max"
 
 #: stringdump_steam_2022_12_06.txt:3741
 msgid "0 = Can use any shop"
-msgstr ""
+msgstr "0 = Può usare qualsiasi negozio"
 
 #: stringdump_steam_2022_12_06.txt:3742
 msgid " shop(s)"
@@ -14573,7 +14595,7 @@ msgstr "È richiesto un responsabile per coordinare"
 
 #: stringdump_steam_2022_12_06.txt:3745
 msgid "work orders."
-msgstr ""
+msgstr "ordini di lavoro."
 
 #: stringdump_steam_2022_12_06.txt:3746
 msgid "Can use any shop"
@@ -14581,15 +14603,15 @@ msgstr "Può usare qualsiasi negozio"
 
 #: stringdump_steam_2022_12_06.txt:3747
 msgid "There are no active work orders."
-msgstr ""
+msgstr "Non ci sono ordini di lavoro attivi."
 
 #: stringdump_steam_2022_12_06.txt:3748
 msgid "active."
-msgstr ""
+msgstr "attivo."
 
 #: stringdump_steam_2022_12_06.txt:3749
 msgid "Creatures"
-msgstr ""
+msgstr "Creature"
 
 #: stringdump_steam_2022_12_06.txt:3750
 msgid "All work orders must be validated"
@@ -14605,7 +14627,7 @@ msgstr "esattamente"
 
 #: stringdump_steam_2022_12_06.txt:3753
 msgid "not"
-msgstr ""
+msgstr "non"
 
 #: stringdump_steam_2022_12_06.txt:3754
 msgid "greater than"
@@ -14729,7 +14751,7 @@ msgstr "Ospite / "
 
 #: stringdump_steam_2022_12_06.txt:3784
 msgid "Close"
-msgstr ""
+msgstr "Chiudi"
 
 #: stringdump_steam_2022_12_06.txt:3785
 msgid "Citizens"
@@ -14769,7 +14791,7 @@ msgstr "Addomesticato"
 
 #: stringdump_steam_2022_12_06.txt:3794
 msgid "General familiarity"
-msgstr ""
+msgstr "Familiarità generale"
 
 #: stringdump_steam_2022_12_06.txt:3795
 msgid "Knowledgeable"
@@ -14821,11 +14843,11 @@ msgstr "Non disponibile come animale domestico"
 
 #: stringdump_steam_2022_12_06.txt:3810
 msgid "Being traded"
-msgstr ""
+msgstr "In commercio"
 
 #: stringdump_steam_2022_12_06.txt:3811
 msgid "Ready for slaughter"
-msgstr ""
+msgstr "Pronto per la macellazione"
 
 #: stringdump_steam_2022_12_06.txt:3812
 msgid "Train (to make a pet) or slaughter"
@@ -14845,7 +14867,7 @@ msgstr "Addomestica al negozio del Disinfestatore"
 
 #: stringdump_steam_2022_12_06.txt:3816
 msgid "Agitated Chained Creature"
-msgstr ""
+msgstr "Creatura incatenata agitata"
 
 #: stringdump_steam_2022_12_06.txt:3817
 msgid "Agitated Wilderness Creature"
@@ -14913,7 +14935,7 @@ msgstr "Addestramento animali"
 
 #: stringdump_steam_2022_12_06.txt:3833
 msgid "Bedroom"
-msgstr ""
+msgstr "Camera da letto"
 
 #: stringdump_steam_2022_12_06.txt:3834
 msgid "Sand"
@@ -14925,19 +14947,19 @@ msgstr "Area d'incontro"
 
 #: stringdump_steam_2022_12_06.txt:3836
 msgid "Archery range"
-msgstr ""
+msgstr "Campo da tiro"
 
 #: stringdump_steam_2022_12_06.txt:3837
 msgid "Barracks"
-msgstr ""
+msgstr "Caserma"
 
 #: stringdump_steam_2022_12_06.txt:3838
 msgid "Dining hall"
-msgstr ""
+msgstr "Sala da pranzo"
 
 #: stringdump_steam_2022_12_06.txt:3839
 msgid "Office"
-msgstr ""
+msgstr "Ufficio"
 
 #: stringdump_steam_2022_12_06.txt:3840
 msgid "Tomb"
@@ -14983,21 +15005,23 @@ msgstr "Non hai alcun luogo."
 
 #: stringdump_steam_2022_12_06.txt:3850
 msgid "Farm plots"
-msgstr ""
+msgstr "Terreni agricoli"
 
 #: stringdump_steam_2022_12_06.txt:3851
 msgid "You do not have any zones."
-msgstr ""
+msgstr "Non hai zone."
 
 #: stringdump_steam_2022_12_06.txt:3852
 msgid ""
 "Stockpiles can be placed using the stockpile menu at the bottom of the "
 "screen."
 msgstr ""
+"Le scorte si possono posizionare tramite il menù delle scorte nella parte "
+"bassa dello schermo."
 
 #: stringdump_steam_2022_12_06.txt:3853
 msgid "You do not have any workshops."
-msgstr ""
+msgstr "Non hai botteghe."
 
 #: stringdump_steam_2022_12_06.txt:3854
 msgid "Locations can be created from zones."
@@ -16782,7 +16806,7 @@ msgstr "per dipingere il rifugio."
 
 #: stringdump_steam_2022_12_06.txt:4307
 msgid "Drink"
-msgstr "Beveraggio"
+msgstr "Bevande"
 
 #: stringdump_steam_2022_12_06.txt:4308
 msgid "Pop"
@@ -19837,7 +19861,7 @@ msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:4931
 msgid "Dining Room"
-msgstr ""
+msgstr "Sala da pranzo"
 
 #: stringdump_steam_2022_12_06.txt:4932
 msgid "Export of "
@@ -19857,7 +19881,7 @@ msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:4936
 msgid "Custom Detail"
-msgstr ""
+msgstr "Dettaglio personalizzato"
 
 #: stringdump_steam_2022_12_06.txt:4937
 msgid "Add new work detail"
@@ -19865,7 +19889,7 @@ msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:4938
 msgid "You have no work details."
-msgstr ""
+msgstr "Non hai dettagli di lavoro."
 
 #: stringdump_steam_2022_12_06.txt:4939
 msgid "Everybody does this"
@@ -19885,7 +19909,7 @@ msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:4943
 msgid "Custom Detail "
-msgstr ""
+msgstr "Dettaglio personalizzato "
 
 #: stringdump_steam_2022_12_06.txt:4944
 msgid "Hauling"
@@ -20205,7 +20229,7 @@ msgstr "I lavoratori scartano le conchiglie"
 
 #: stringdump_steam_2022_12_06.txt:5023
 msgid "Workers ignore outdoor vermin remains"
-msgstr ""
+msgstr "I lavoratori ignorano i resti di parassiti all'aperto"
 
 #: stringdump_steam_2022_12_06.txt:5024
 msgid "Workers dump corpses"
@@ -20229,11 +20253,11 @@ msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:5029
 msgid "Children do chores"
-msgstr ""
+msgstr "I bambini fanno le faccende domestiche"
 
 #: stringdump_steam_2022_12_06.txt:5030
 msgid "Children don't do chores"
-msgstr ""
+msgstr "I bambini non fanno le faccende domestiche"
 
 #: stringdump_steam_2022_12_06.txt:5031
 msgid "Forbid cages from sprung traps during sieges"
@@ -20257,7 +20281,7 @@ msgstr "Annuncia alcune cancellazioni di lavori"
 
 #: stringdump_steam_2022_12_06.txt:5036
 msgid "Announce no job cancellations"
-msgstr ""
+msgstr "Annuncia cancellazioni di nessun lavoro"
 
 #: stringdump_steam_2022_12_06.txt:5037
 msgid "Everybody harvests"
@@ -20277,11 +20301,11 @@ msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:5041
 msgid "Announce all job cancellations"
-msgstr ""
+msgstr "Annuncia cancellazioni di tutti i lavori"
 
 #: stringdump_steam_2022_12_06.txt:5042
 msgid "Announce most job cancellations"
-msgstr ""
+msgstr "Annuncia cancellazione di molti lavori"
 
 #: stringdump_steam_2022_12_06.txt:5043
 msgid "Forbid other death items during sieges"
@@ -20365,31 +20389,31 @@ msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:5063
 msgid "Number"
-msgstr ""
+msgstr "Numero"
 
 #: stringdump_steam_2022_12_06.txt:5064
 msgid "Permissions"
-msgstr ""
+msgstr "Permessi"
 
 #: stringdump_steam_2022_12_06.txt:5065
 msgid "You have no appropriate ingredients."
-msgstr ""
+msgstr "Non hai ingredienti adeguati."
 
 #: stringdump_steam_2022_12_06.txt:5066
 msgid "Standing orders"
-msgstr ""
+msgstr "Ordini permanenti"
 
 #: stringdump_steam_2022_12_06.txt:5067
 msgid "Editing routine "
-msgstr ""
+msgstr "Modificando routine"
 
 #: stringdump_steam_2022_12_06.txt:5068
 msgid "Equip/always"
-msgstr ""
+msgstr "Equipaggia/sempre"
 
 #: stringdump_steam_2022_12_06.txt:5069
 msgid "Equip/orders only"
-msgstr ""
+msgstr "Equipaggia/solo ordini"
 
 #: stringdump_steam_2022_12_06.txt:5070
 msgid "Sleep/room at will"
@@ -20397,55 +20421,55 @@ msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:5071
 msgid "Symbol"
-msgstr ""
+msgstr "Simbolo"
 
 #: stringdump_steam_2022_12_06.txt:5072
 msgid "Background"
-msgstr ""
+msgstr "Sfondo"
 
 #: stringdump_steam_2022_12_06.txt:5073
 msgid "Done editing"
-msgstr ""
+msgstr "Modifica fatta"
 
 #: stringdump_steam_2022_12_06.txt:5074
 msgid "(unnamed orders)"
-msgstr ""
+msgstr "(ordini senza nome)"
 
 #: stringdump_steam_2022_12_06.txt:5075
 msgid "Fish only in designated zones"
-msgstr ""
+msgstr "Pesca solo nelle zone designate"
 
 #: stringdump_steam_2022_12_06.txt:5076
 msgid "Prefer zones for fishing"
-msgstr ""
+msgstr "Preferisci zone di pesca"
 
 #: stringdump_steam_2022_12_06.txt:5077
 msgid "Economic stone"
-msgstr ""
+msgstr "Pietra economica"
 
 #: stringdump_steam_2022_12_06.txt:5078
 msgid "Stone type"
-msgstr ""
+msgstr "Tipo di pietra"
 
 #: stringdump_steam_2022_12_06.txt:5079
 msgid "Mix similar foods in barrels"
-msgstr ""
+msgstr "Mescola alimenti simili in barili"
 
 #: stringdump_steam_2022_12_06.txt:5080
 msgid "Do not mix similar food in barrels"
-msgstr ""
+msgstr "Non mescolare alimenti simili in barili"
 
 #: stringdump_steam_2022_12_06.txt:5081
 msgid "Drink water only from designed zones"
-msgstr ""
+msgstr "Bevi acqua solo dalle zone designate"
 
 #: stringdump_steam_2022_12_06.txt:5082
 msgid "Prefer zones for water drinking"
-msgstr ""
+msgstr "Preferisci le zone per bere acqua"
 
 #: stringdump_steam_2022_12_06.txt:5083
 msgid "Vegetables, fruit, and leaves"
-msgstr ""
+msgstr "Verdure, frutta e foglie"
 
 #: stringdump_steam_2022_12_06.txt:5084
 msgid "Drinks"
@@ -20453,23 +20477,23 @@ msgstr "Beveraggi"
 
 #: stringdump_steam_2022_12_06.txt:5085
 msgid "Meat, fish, and others"
-msgstr ""
+msgstr "Carne, pesce e altri"
 
 #: stringdump_steam_2022_12_06.txt:5086
 msgid "Ingredient type"
-msgstr ""
+msgstr "Tipo d'ingrediente"
 
 #: stringdump_steam_2022_12_06.txt:5087
 msgid "Magma-safe"
-msgstr ""
+msgstr "A prova di magma"
 
 #: stringdump_steam_2022_12_06.txt:5088
 msgid "Economic uses"
-msgstr ""
+msgstr "Utilizzi economici"
 
 #: stringdump_steam_2022_12_06.txt:5089
 msgid "Select to use in non-economic jobs."
-msgstr ""
+msgstr "Seleziona per l'uso in lavori non economici."
 
 #: stringdump_steam_2022_12_06.txt:5090
 msgid "You know of no appropriate stones."
@@ -20477,15 +20501,15 @@ msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:5091
 msgid "Routine:"
-msgstr ""
+msgstr "Routine:"
 
 #: stringdump_steam_2022_12_06.txt:5092
 msgid " target"
-msgstr ""
+msgstr " obiettivo"
 
 #: stringdump_steam_2022_12_06.txt:5093
 msgid "No target"
-msgstr ""
+msgstr "Nessun obiettivo"
 
 #: stringdump_steam_2022_12_06.txt:5094
 msgid "Move: click on the map."
@@ -20857,7 +20881,7 @@ msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:5187
 msgid "Details"
-msgstr ""
+msgstr "Dettagli"
 
 #: stringdump_steam_2022_12_06.txt:5188
 msgid "There are no cold cases."
@@ -20909,7 +20933,7 @@ msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:5200
 msgid "Violation of job order"
-msgstr "Violazione dell'ordine di lavoro"
+msgstr "Violazione d'ordine di lavoro"
 
 #: stringdump_steam_2022_12_06.txt:5201
 msgid "Violation of export prohibition"
@@ -21117,7 +21141,7 @@ msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:5253
 msgid "Violation of job order."
-msgstr "Violazione dell'ordine di lavoro."
+msgstr "Violazione d'ordine di lavoro."
 
 #: stringdump_steam_2022_12_06.txt:5254
 msgid "Violation of export prohibition."
@@ -21860,7 +21884,7 @@ msgstr "[C:4:0:1]Frattura composta di "
 
 #: stringdump_steam_2022_12_06.txt:5439
 msgid "[C:7:0:0]No medical history"
-msgstr ""
+msgstr "[C:7:0:0]Nessuna anamnesi medica"
 
 #: stringdump_steam_2022_12_06.txt:5441
 msgid " and can't even remember the last time "
@@ -22017,7 +22041,7 @@ msgstr "le parole di "
 
 #: stringdump_steam_2022_12_06.txt:5491
 msgid " likes "
-msgstr ""
+msgstr " piace "
 
 #: stringdump_steam_2022_12_06.txt:5492
 msgid " is getting used to tragedy.  "
@@ -22541,7 +22565,7 @@ msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:5623
 msgid "less attentive to details"
-msgstr ""
+msgstr "meno attento ai dettagli"
 
 #: stringdump_steam_2022_12_06.txt:5624
 msgid "more of a perfectionist"
@@ -23649,7 +23673,7 @@ msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:5899
 msgid "  This war must end with our victory."
-msgstr ""
+msgstr "  Questa guerra deve finire con la nostra vittoria."
 
 #: stringdump_steam_2022_12_06.txt:5900
 msgid "  I tire of this pointless skirmishing."
@@ -23939,7 +23963,7 @@ msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:5971
 msgid "They still hold this area, but they do not feel certain."
-msgstr ""
+msgstr "L'area è ancora in mano loro, ma si sentono incerti."
 
 #: stringdump_steam_2022_12_06.txt:5972
 msgid "They consider you an infamous villain among those opposing them."
@@ -24320,7 +24344,7 @@ msgstr "Uhm...  cos'era quello?"
 
 #: stringdump_steam_2022_12_06.txt:6066
 msgid "I'm with you on this."
-msgstr ""
+msgstr "Sono d'accordo con te."
 
 #: stringdump_steam_2022_12_06.txt:6067
 msgid " forever!"
@@ -24436,7 +24460,7 @@ msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:6095
 msgid "  All drinks are free, of course!"
-msgstr ""
+msgstr "  Tutte le bevande sono gratuite, naturalmente!"
 
 #: stringdump_steam_2022_12_06.txt:6096
 msgid "We have "
@@ -24444,7 +24468,7 @@ msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:6097
 msgid "  All drinks cost "
-msgstr ""
+msgstr "  Tutte le bevande costano "
 
 #: stringdump_steam_2022_12_06.txt:6098
 msgid "There's no need for trouble here."
@@ -24452,7 +24476,7 @@ msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:6099
 msgid "We have many drinks to choose from.  [You receive a list.]"
-msgstr ""
+msgstr "Abbiamo molte bevande tra cui scegliere.  [Ricevi una lista.]"
 
 #: stringdump_steam_2022_12_06.txt:6100
 msgid "What a dancer!  It's such an honor to have you here."
@@ -24551,7 +24575,7 @@ msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:6123
 msgid "this counting house"
-msgstr ""
+msgstr "questa casa di conteggio"
 
 #: stringdump_steam_2022_12_06.txt:6124
 msgid "Your room is "
@@ -25139,7 +25163,7 @@ msgstr "Dovresti provare con un negoziante."
 
 #: stringdump_steam_2022_12_06.txt:6268
 msgid "This is "
-msgstr ""
+msgstr "Questo è "
 
 #: stringdump_steam_2022_12_06.txt:6269
 msgid "I'm preparing to travel to "
@@ -26341,7 +26365,7 @@ msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:6567
 msgid " appears unconvinced."
-msgstr ""
+msgstr " non sembra convinto."
 
 #: stringdump_steam_2022_12_06.txt:6568
 msgid "You flinch."
@@ -26349,7 +26373,7 @@ msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:6569
 msgid " appears to acquiesce."
-msgstr ""
+msgstr " sembra acconsentire."
 
 #: stringdump_steam_2022_12_06.txt:6570
 msgid "It is not convincing."
@@ -26365,7 +26389,7 @@ msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:6573
 msgid " appears unperturbed."
-msgstr ""
+msgstr " sembra imperturbato."
 
 #: stringdump_steam_2022_12_06.txt:6574
 msgid "Finally, "
@@ -26641,7 +26665,7 @@ msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:6644
 msgid " quarter"
-msgstr ""
+msgstr " alloggio"
 
 #: stringdump_steam_2022_12_06.txt:6645
 msgid " intense"
@@ -27187,7 +27211,7 @@ msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:6780
 msgid "quarter "
-msgstr ""
+msgstr "alloggio "
 
 #: stringdump_steam_2022_12_06.txt:6781
 msgid "half "
@@ -27475,7 +27499,7 @@ msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:6852
 msgid "This"
-msgstr ""
+msgstr "Questo"
 
 #: stringdump_steam_2022_12_06.txt:6853
 msgid "introduction"
@@ -28319,11 +28343,11 @@ msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:7066
 msgid "Spears"
-msgstr ""
+msgstr "Lance"
 
 #: stringdump_steam_2022_12_06.txt:7067
 msgid "Spears/Spikes"
-msgstr ""
+msgstr "Lance/Spuntoni"
 
 #: stringdump_steam_2022_12_06.txt:7068
 msgid " Casket"
@@ -28423,7 +28447,7 @@ msgstr "Legna "
 
 #: stringdump_steam_2022_12_06.txt:7093
 msgid "Sheet "
-msgstr ""
+msgstr "Strato "
 
 #: stringdump_steam_2022_12_06.txt:7094
 msgid "Stockpile #"
@@ -28431,7 +28455,7 @@ msgstr "Scorta #"
 
 #: stringdump_steam_2022_12_06.txt:7095
 msgid "Bar/Block "
-msgstr ""
+msgstr "Barra/Blocco "
 
 #: stringdump_steam_2022_12_06.txt:7096
 msgid "Gem "
@@ -28447,27 +28471,27 @@ msgstr "Cuoio "
 
 #: stringdump_steam_2022_12_06.txt:7099
 msgid "Refuse "
-msgstr ""
+msgstr "Rifiuti"
 
 #: stringdump_steam_2022_12_06.txt:7100
 msgid "Stone "
-msgstr ""
+msgstr "Pietra"
 
 #: stringdump_steam_2022_12_06.txt:7101
 msgid "Ammo "
-msgstr ""
+msgstr "Munizione"
 
 #: stringdump_steam_2022_12_06.txt:7102
 msgid "Coins "
-msgstr ""
+msgstr "Monete"
 
 #: stringdump_steam_2022_12_06.txt:7103
 msgid "Animal "
-msgstr ""
+msgstr "Animali "
 
 #: stringdump_steam_2022_12_06.txt:7104
 msgid "Food "
-msgstr ""
+msgstr "Cibo "
 
 #: stringdump_steam_2022_12_06.txt:7105
 msgid "Furniture "
@@ -28475,11 +28499,11 @@ msgstr "Mobile "
 
 #: stringdump_steam_2022_12_06.txt:7106
 msgid "Corpse "
-msgstr ""
+msgstr "Cadaveri "
 
 #: stringdump_steam_2022_12_06.txt:7107
 msgid "Animal Pit"
-msgstr ""
+msgstr "Fossa degli Animali"
 
 #: stringdump_steam_2022_12_06.txt:7108
 msgid "Cloth Pit"
@@ -28487,15 +28511,15 @@ msgstr "Fossa di Stoffa"
 
 #: stringdump_steam_2022_12_06.txt:7109
 msgid "Tanning Pit"
-msgstr ""
+msgstr "Fossa della Conciatura"
 
 #: stringdump_steam_2022_12_06.txt:7110
 msgid "Cloth Clothing Pit"
-msgstr "Fossa abbigliamento in stoffa"
+msgstr "Fossa d'Abbigliamento in stoffa"
 
 #: stringdump_steam_2022_12_06.txt:7111
 msgid "Tent"
-msgstr ""
+msgstr "Tenda"
 
 #: stringdump_steam_2022_12_06.txt:7112
 msgid "Command Tent (Bld)"
@@ -28507,35 +28531,35 @@ msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:7114
 msgid "Dungeon Cell"
-msgstr ""
+msgstr "Cella delle segrete"
 
 #: stringdump_steam_2022_12_06.txt:7115
 msgid "Guildhall Storage"
-msgstr ""
+msgstr "Deposito della Sala della Gilda"
 
 #: stringdump_steam_2022_12_06.txt:7116
 msgid "Market Stall"
-msgstr ""
+msgstr "Bancarella"
 
 #: stringdump_steam_2022_12_06.txt:7117
 msgid "Campground"
-msgstr ""
+msgstr "Accampamento"
 
 #: stringdump_steam_2022_12_06.txt:7118
 msgid "Command Tent"
-msgstr ""
+msgstr "Tenda di comando"
 
 #: stringdump_steam_2022_12_06.txt:7119
 msgid "Secret Library"
-msgstr ""
+msgstr "Biblioteca segreta"
 
 #: stringdump_steam_2022_12_06.txt:7120
 msgid "Counting House Offices"
-msgstr ""
+msgstr "Uffici della Casa di conteggio"
 
 #: stringdump_steam_2022_12_06.txt:7121
 msgid "Counting House Storage"
-msgstr ""
+msgstr "Deposito della Casa di conteggio"
 
 #: stringdump_steam_2022_12_06.txt:7122
 msgid "Guildhall Offices"
@@ -28543,51 +28567,51 @@ msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:7123
 msgid "Noble quarters"
-msgstr ""
+msgstr "Alloggi nobiliari"
 
 #: stringdump_steam_2022_12_06.txt:7124
 msgid "Captive Room"
-msgstr ""
+msgstr "Stanza di prigionia"
 
 #: stringdump_steam_2022_12_06.txt:7125
 msgid "Tower Top"
-msgstr ""
+msgstr "Cima della Torre"
 
 #: stringdump_steam_2022_12_06.txt:7126
 msgid "Courtyard"
-msgstr ""
+msgstr "Cortile"
 
 #: stringdump_steam_2022_12_06.txt:7127
 msgid "Entrance"
-msgstr ""
+msgstr "Entrata"
 
 #: stringdump_steam_2022_12_06.txt:7128
 msgid "Treasury"
-msgstr ""
+msgstr "Tesoreria"
 
 #: stringdump_steam_2022_12_06.txt:7129
 msgid "Mechanism Room"
-msgstr ""
+msgstr "Sala dei meccanismi"
 
 #: stringdump_steam_2022_12_06.txt:7130
 msgid "Guard post"
-msgstr ""
+msgstr "Posto di guardia"
 
 #: stringdump_steam_2022_12_06.txt:7131
 msgid "Home"
-msgstr ""
+msgstr "Casa"
 
 #: stringdump_steam_2022_12_06.txt:7132
 msgid "Plot"
-msgstr ""
+msgstr "Appezzamento"
 
 #: stringdump_steam_2022_12_06.txt:7133
 msgid "Mead Hall"
-msgstr ""
+msgstr "Sala dell'idromele"
 
 #: stringdump_steam_2022_12_06.txt:7134
 msgid "Throneroom"
-msgstr ""
+msgstr "Sala del trono"
 
 #: stringdump_steam_2022_12_06.txt:7136
 msgid "preparetomb() HAS LIVE owner"
@@ -28595,11 +28619,11 @@ msgstr "preparetomb() HAS LIVE owner"
 
 #: stringdump_steam_2022_12_06.txt:7137
 msgid "A masterwork of "
-msgstr ""
+msgstr "Un capolavoro di "
 
 #: stringdump_steam_2022_12_06.txt:7138
 msgid " has been lost!"
-msgstr ""
+msgstr " è stato perso!"
 
 #: stringdump_steam_2022_12_06.txt:7139
 msgid "Forging Workshop"
@@ -28607,15 +28631,15 @@ msgstr "Bottega di Forgiatura"
 
 #: stringdump_steam_2022_12_06.txt:7140
 msgid "Depot"
-msgstr ""
+msgstr "Deposito"
 
 #: stringdump_steam_2022_12_06.txt:7141
 msgid "Tower Entrance"
-msgstr ""
+msgstr "Ingresso della torre"
 
 #: stringdump_steam_2022_12_06.txt:7142
 msgid "Tower Feasthall"
-msgstr ""
+msgstr "Salone delle feste della Torre"
 
 #: stringdump_steam_2022_12_06.txt:7143
 msgid "Metal Crafting Workshop"
@@ -28667,7 +28691,7 @@ msgstr "Bottega dell'Intagliatore di Gemme"
 
 #: stringdump_steam_2022_12_06.txt:7155
 msgid "Fighting Pit"
-msgstr ""
+msgstr "Fossa della lotta"
 
 #: stringdump_steam_2022_12_06.txt:7156
 msgid "Animal Workshop"
@@ -28787,11 +28811,11 @@ msgstr "Trasporto mobili"
 
 #: stringdump_steam_2022_12_06.txt:7229
 msgid ", Etc."
-msgstr ""
+msgstr ", Ecc."
 
 #: stringdump_steam_2022_12_06.txt:7230
 msgid " Or "
-msgstr ""
+msgstr " O "
 
 #: stringdump_steam_2022_12_06.txt:7251
 msgid " from a period of no rule"
@@ -28799,27 +28823,27 @@ msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:7252
 msgid " under an obscure ruler"
-msgstr ""
+msgstr " sotto un oscuro sovrano"
 
 #: stringdump_steam_2022_12_06.txt:7253
 msgid " under "
-msgstr ""
+msgstr " sotto "
 
 #: stringdump_steam_2022_12_06.txt:7254
 msgid " from an unknown year"
-msgstr ""
+msgstr " da un anno sconosciuto"
 
 #: stringdump_steam_2022_12_06.txt:7255
 msgid " from the year "
-msgstr ""
+msgstr " dall'anno "
 
 #: stringdump_steam_2022_12_06.txt:7257
 msgid " currency of "
-msgstr ""
+msgstr " valuta di "
 
 #: stringdump_steam_2022_12_06.txt:7258
 msgid "This is the "
-msgstr ""
+msgstr "Questo è il "
 
 #: stringdump_steam_2022_12_06.txt:7260
 msgid "gen"
@@ -28827,15 +28851,15 @@ msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:7267
 msgid "heads"
-msgstr ""
+msgstr "capi"
 
 #: stringdump_steam_2022_12_06.txt:7268
 msgid "head"
-msgstr ""
+msgstr "capo"
 
 #: stringdump_steam_2022_12_06.txt:7269
 msgid "masters"
-msgstr ""
+msgstr "maestri"
 
 #: stringdump_steam_2022_12_06.txt:7270
 msgid "master"
@@ -29567,7 +29591,7 @@ msgstr "sono"
 
 #: stringdump_steam_2022_12_06.txt:7467
 msgid "appeared"
-msgstr "apparsi"
+msgstr "apparso"
 
 #: stringdump_steam_2022_12_06.txt:7468
 msgid "appearing"
@@ -29579,7 +29603,7 @@ msgstr "appare"
 
 #: stringdump_steam_2022_12_06.txt:7470
 msgid "appear"
-msgstr "appare"
+msgstr "appari"
 
 #: stringdump_steam_2022_12_06.txt:7471
 msgid "destroyed"
@@ -29703,7 +29727,7 @@ msgstr "ha rubato "
 
 #: stringdump_steam_2022_12_06.txt:7501
 msgid "a counting house"
-msgstr "un ufficio di contabilità"
+msgstr "una Casa di conteggio"
 
 #: stringdump_steam_2022_12_06.txt:7502
 msgid "destroyed "
@@ -29911,7 +29935,7 @@ msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:7553
 msgid "The counting house"
-msgstr ""
+msgstr "La casa di conteggio"
 
 #: stringdump_steam_2022_12_06.txt:7554
 msgid "The throne room"
@@ -29931,7 +29955,7 @@ msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:7558
 msgid "history"
-msgstr ""
+msgstr "storia"
 
 #: stringdump_steam_2022_12_06.txt:7559
 msgid "a poem"
@@ -30071,7 +30095,7 @@ msgstr "il mio"
 
 #: stringdump_steam_2022_12_06.txt:7593
 msgid "  Save us from this "
-msgstr ""
+msgstr "  Salvaci da questo "
 
 #: stringdump_steam_2022_12_06.txt:7594
 msgid ", now cursed"
@@ -30111,7 +30135,7 @@ msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:7603
 msgid "the counting house"
-msgstr ""
+msgstr "la casa di conteggio"
 
 #: stringdump_steam_2022_12_06.txt:7604
 msgid "the throne room"
@@ -31386,6 +31410,8 @@ msgstr "Un abile guerriero è un bello spettacolo da vedere."
 msgid ""
 "A tool should get the job done, but one shouldn't obsess over the details."
 msgstr ""
+"Uno strumento dovrebbe portare a termine il lavoro, ma non bisogna "
+"ossessionarsi coi dettagli."
 
 #: stringdump_steam_2022_12_06.txt:7901
 msgid ""
@@ -31503,7 +31529,7 @@ msgstr "Non sono mai stato uno che segue i consigli."
 
 #: stringdump_steam_2022_12_06.txt:7926
 msgid "What's this about proper living?"
-msgstr ""
+msgstr "Cos'è questa storia del vivere bene?"
 
 #: stringdump_steam_2022_12_06.txt:7927
 msgid "Have no fear."
@@ -31527,7 +31553,7 @@ msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:7932
 msgid "I don't think I'm cut out for this."
-msgstr ""
+msgstr "Non credo di essere tagliato per questo."
 
 #: stringdump_steam_2022_12_06.txt:7933
 msgid "My goals are important to me."
@@ -31579,7 +31605,7 @@ msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:7945
 msgid "There's no room for mercy in this world."
-msgstr ""
+msgstr "Non c'è spazio per la misericordia in questo mondo."
 
 #: stringdump_steam_2022_12_06.txt:7946
 msgid "Oh, I'm nothing special."
@@ -32530,7 +32556,7 @@ msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:8182
 msgid "This is driving me to agitation."
-msgstr ""
+msgstr "Questo mi sta portando all'agitazione."
 
 #: stringdump_steam_2022_12_06.txt:8183
 msgid "I feel alienated."
@@ -32586,7 +32612,7 @@ msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:8196
 msgid "I'm very averse to this."
-msgstr ""
+msgstr "Sono molto contrario a questo."
 
 #: stringdump_steam_2022_12_06.txt:8197
 msgid "It's really boring."
@@ -32614,7 +32640,7 @@ msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:8203
 msgid "This is delightful!"
-msgstr ""
+msgstr "È delizioso!"
 
 #: stringdump_steam_2022_12_06.txt:8204
 msgid "I'm feeling very dejected."
@@ -32642,15 +32668,15 @@ msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:8210
 msgid "I really don't like this."
-msgstr ""
+msgstr "Non mi piace affatto."
 
 #: stringdump_steam_2022_12_06.txt:8211
 msgid "I'm so distressed about this!"
-msgstr ""
+msgstr "Sono così addolorato per questo!"
 
 #: stringdump_steam_2022_12_06.txt:8212
 msgid "This is quite displeasing."
-msgstr ""
+msgstr "Questo è piuttosto spiacevole."
 
 #: stringdump_steam_2022_12_06.txt:8213
 msgid "I am filled with such wrath!"
@@ -33262,23 +33288,23 @@ msgstr "Mi sento un po' triste."
 
 #: stringdump_steam_2022_12_06.txt:8365
 msgid "Is this love?"
-msgstr ""
+msgstr "Questo è amore?"
 
 #: stringdump_steam_2022_12_06.txt:8366
 msgid "This is nice."
-msgstr ""
+msgstr "Questo è bello."
 
 #: stringdump_steam_2022_12_06.txt:8367
 msgid "This might require an answer."
-msgstr ""
+msgstr "Questo potrebbe richiedere una risposta."
 
 #: stringdump_steam_2022_12_06.txt:8368
 msgid "This could be bliss."
-msgstr ""
+msgstr "Potrebbe essere una beatitudine."
 
 #: stringdump_steam_2022_12_06.txt:8369
 msgid "I can accept this."
-msgstr ""
+msgstr "Posso accettarlo."
 
 #: stringdump_steam_2022_12_06.txt:8370
 msgid "I feel no terror."
@@ -33286,7 +33312,7 @@ msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:8371
 msgid "I can adore this."
-msgstr ""
+msgstr "Posso adorarlo."
 
 #: stringdump_steam_2022_12_06.txt:8372
 msgid "I find this somewhat admirable."
@@ -33314,7 +33340,7 @@ msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:8378
 msgid "This is mortifying."
-msgstr ""
+msgstr "È mortificante."
 
 #: stringdump_steam_2022_12_06.txt:8379
 msgid "I'm optimistic."
@@ -33390,7 +33416,7 @@ msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:8397
 msgid "This has shaken me."
-msgstr ""
+msgstr "Ciò mi ha scosso."
 
 #: stringdump_steam_2022_12_06.txt:8398
 msgid "I will serve."
@@ -33522,7 +33548,7 @@ msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:8430
 msgid "This is humiliating."
-msgstr ""
+msgstr "È umiliante."
 
 #: stringdump_steam_2022_12_06.txt:8431
 msgid "It's irritating."
@@ -33562,7 +33588,7 @@ msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:8440
 msgid "I can take this."
-msgstr ""
+msgstr "Posso sopportarlo."
 
 #: stringdump_steam_2022_12_06.txt:8441
 msgid "I guess I should be feeling ambivalent right now."
@@ -33586,7 +33612,7 @@ msgstr "No, non è fastidioso."
 
 #: stringdump_steam_2022_12_06.txt:8446
 msgid "This is nothing."
-msgstr ""
+msgstr "Questo non è niente."
 
 #: stringdump_steam_2022_12_06.txt:8447
 msgid "If I thought about it more, I guess I'd be apathetic."
@@ -33686,7 +33712,7 @@ msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:8471
 msgid "I am ready for this."
-msgstr ""
+msgstr "Sono pronto per questo."
 
 #: stringdump_steam_2022_12_06.txt:8472
 msgid "The wrath rises within me..."
@@ -33702,7 +33728,7 @@ msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:8475
 msgid "Let's do this."
-msgstr ""
+msgstr "Facciamolo."
 
 #: stringdump_steam_2022_12_06.txt:8476
 msgid "I have my doubts."
@@ -34498,7 +34524,7 @@ msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:8674
 msgid "a job order violation"
-msgstr ""
+msgstr "violazione di un ordine di lavoro"
 
 #: stringdump_steam_2022_12_06.txt:8675
 msgid "a theft"
@@ -34778,7 +34804,7 @@ msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:8744
 msgid "This is a fight!"
-msgstr ""
+msgstr "Questa è una battaglia!"
 
 #: stringdump_steam_2022_12_06.txt:8745
 msgid "How fragile we are..."
@@ -35398,7 +35424,7 @@ msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:8899
 msgid "I ate in a dining room."
-msgstr ""
+msgstr "Ho mangiato in una sala da pranzo."
 
 #: stringdump_steam_2022_12_06.txt:8900
 msgid "I ate at a crowded table."
@@ -35410,7 +35436,7 @@ msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:8902
 msgid "I didn't have a dining room."
-msgstr ""
+msgstr "Non avevo una sala da pranzo."
 
 #: stringdump_steam_2022_12_06.txt:8903
 msgid "I was rescued."
@@ -36366,7 +36392,7 @@ msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:9140
 msgid "I conducted an official meeting in a dining room."
-msgstr ""
+msgstr "I conducted an official meeting in a sala da pranzo."
 
 #: stringdump_steam_2022_12_06.txt:9141
 msgid " is middling."
@@ -36426,7 +36452,7 @@ msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:9155
 msgid "This is my favorite music."
-msgstr ""
+msgstr "Questa è la mia musica preferita."
 
 #: stringdump_steam_2022_12_06.txt:9156
 msgid "The accompaniment is my favorite music."
@@ -36446,7 +36472,7 @@ msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:9160
 msgid "This is my favorite poetry."
-msgstr ""
+msgstr "Questa è la mia poesia preferita."
 
 #: stringdump_steam_2022_12_06.txt:9161
 msgid "I love reflective poetry."
@@ -36499,7 +36525,7 @@ msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:9173
 msgid "This preacher"
-msgstr ""
+msgstr "Questo predicatore"
 
 #: stringdump_steam_2022_12_06.txt:9174
 msgid "I concur!"
@@ -36507,15 +36533,15 @@ msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:9175
 msgid "This recitation"
-msgstr ""
+msgstr "Questa recita"
 
 #: stringdump_steam_2022_12_06.txt:9176
 msgid "This storyteller"
-msgstr ""
+msgstr "Questo narratore"
 
 #: stringdump_steam_2022_12_06.txt:9177
 msgid "This "
-msgstr ""
+msgstr "Questo "
 
 #: stringdump_steam_2022_12_06.txt:9178
 msgid "That sounds just like the "
@@ -36523,7 +36549,7 @@ msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:9179
 msgid "This singer"
-msgstr ""
+msgstr "Questo cantante"
 
 #: stringdump_steam_2022_12_06.txt:9180
 msgid " player"
@@ -36535,7 +36561,7 @@ msgstr "Questo danzatore"
 
 #: stringdump_steam_2022_12_06.txt:9182
 msgid "This chanter"
-msgstr ""
+msgstr "Questo cantore"
 
 #: stringdump_steam_2022_12_06.txt:9183
 msgid " is awesome!"
@@ -36683,7 +36709,7 @@ msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:9219
 msgid "not a quarter hour ago"
-msgstr ""
+msgstr "meno d'un quarto d'ora fa"
 
 #: stringdump_steam_2022_12_06.txt:9220
 msgid "a few minutes ago"
@@ -36755,7 +36781,7 @@ msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:9237
 msgid "This poetry is so embarrassing!"
-msgstr ""
+msgstr "Questa poesia è così imbarazzante!"
 
 #: stringdump_steam_2022_12_06.txt:9238
 msgid "The lyrics are so embarrassing!"
@@ -36775,7 +36801,7 @@ msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:9242
 msgid "This poetry is so funny!"
-msgstr ""
+msgstr "Questa poesia è così divertente!"
 
 #: stringdump_steam_2022_12_06.txt:9243
 msgid "I love raunchy poetry!"
@@ -37055,7 +37081,7 @@ msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:9312
 msgid "What is this?  "
-msgstr ""
+msgstr "Cos'è questo?  "
 
 #: stringdump_steam_2022_12_06.txt:9313
 msgid "I wonder what the weather is like outside."
@@ -37295,7 +37321,7 @@ msgstr " è stato conquistato"
 
 #: stringdump_steam_2022_12_06.txt:9372
 msgid "This place has been conquered"
-msgstr ""
+msgstr "Questo posto è stato conquistato"
 
 #: stringdump_steam_2022_12_06.txt:9373
 msgid " in order to find better lives"
@@ -37408,7 +37434,7 @@ msgstr "È incredibile quanto sei arrivato lontano. Benvenuto a casa."
 
 #: stringdump_steam_2022_12_06.txt:9401
 msgid "Hopefully your friends can dissuade you from this foolishness."
-msgstr ""
+msgstr "Speriamo che i tuoi amici possano dissuaderti da questa follia."
 
 #: stringdump_steam_2022_12_06.txt:9402
 msgid "I know you can handle yourself, but be careful out there."
@@ -38069,7 +38095,7 @@ msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:9605
 msgid "  [You receive a detailed description.]"
-msgstr ""
+msgstr "  [RicevI una descrizione dettagliata.]"
 
 #: stringdump_steam_2022_12_06.txt:9606
 msgid "Search first in "
@@ -38595,7 +38621,7 @@ msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:10140
 msgid "Body detail plan not found:"
-msgstr ""
+msgstr "Piano di dettaglio del corpo non trovato:"
 
 #: stringdump_steam_2022_12_06.txt:10187
 msgid "Tissue Template "
@@ -40440,7 +40466,7 @@ msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:10703
 msgid "condensed"
-msgstr ""
+msgstr "condensato"
 
 #: stringdump_steam_2022_12_06.txt:10704
 msgid "blistered"
@@ -41117,11 +41143,11 @@ msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:10873
 msgid "quite dense"
-msgstr ""
+msgstr "abbastanza denso"
 
 #: stringdump_steam_2022_12_06.txt:10874
 msgid "slightly dense"
-msgstr ""
+msgstr "leggermente denso"
 
 #: stringdump_steam_2022_12_06.txt:10875
 msgid "slightly thick"
@@ -41229,7 +41255,7 @@ msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:10901
 msgid "tied in a pony tail"
-msgstr ""
+msgstr "legati a coda di cavallo"
 
 #: stringdump_steam_2022_12_06.txt:10902
 msgid "unkempt"
@@ -42001,7 +42027,7 @@ msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:12372
 msgid "Seek Job Item"
-msgstr ""
+msgstr "Cerca oggetto di Lavoro"
 
 #: stringdump_steam_2022_12_06.txt:12373
 msgid "Seek Suture Thread"
@@ -42017,7 +42043,7 @@ msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:12376
 msgid "Seek Building For Job"
-msgstr ""
+msgstr "Cerca Edificio per il Lavoro"
 
 #: stringdump_steam_2022_12_06.txt:12377
 msgid "Seek Target for Food"
@@ -42481,7 +42507,7 @@ msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:12492
 msgid "Detail"
-msgstr ""
+msgstr "Dettaglio"
 
 #: stringdump_steam_2022_12_06.txt:12493
 msgid "Skill Demonstration"
@@ -45145,7 +45171,7 @@ msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:13782
 msgid "Spear"
-msgstr ""
+msgstr "Lancia"
 
 #: stringdump_steam_2022_12_06.txt:13783
 msgid "Hammer"
@@ -47905,7 +47931,7 @@ msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:15219
 msgid "pearl "
-msgstr ""
+msgstr "perla "
 
 #: stringdump_steam_2022_12_06.txt:15220
 msgid "hair/wool "
@@ -48023,11 +48049,11 @@ msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:15248
 msgid "An animal"
-msgstr ""
+msgstr "Un animale"
 
 #: stringdump_steam_2022_12_06.txt:15249
 msgid " has become a "
-msgstr ""
+msgstr "è diventato un"
 
 #: stringdump_steam_2022_12_06.txt:15250
 msgid "extract-bearing small creature "
@@ -48487,7 +48513,7 @@ msgstr "Salvataggio dei parametri..."
 
 #: stringdump_steam_2022_12_06.txt:15377
 msgid "Saving history..."
-msgstr ""
+msgstr "Salvando storia..."
 
 #: stringdump_steam_2022_12_06.txt:15378
 msgid "Saving world"
@@ -48780,7 +48806,7 @@ msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:15479
 msgid "Jobs removed from unpowered "
-msgstr ""
+msgstr "Lavori rimossi da impianto non alimentato"
 
 #: stringdump_steam_2022_12_06.txt:15480
 msgid "es"
@@ -49396,7 +49422,7 @@ msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:15639
 msgid "Fine Quarters"
-msgstr ""
+msgstr "Alloggi Fini"
 
 #: stringdump_steam_2022_12_06.txt:15640
 msgid "Great Bedroom"
@@ -49412,7 +49438,7 @@ msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:15643
 msgid "No Study"
-msgstr ""
+msgstr "Nessuno Studio"
 
 #: stringdump_steam_2022_12_06.txt:15644
 msgid "Meager Study"
@@ -49448,7 +49474,7 @@ msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:15653
 msgid "No Dining Room"
-msgstr ""
+msgstr "Nessuna Sala da pranzo"
 
 #: stringdump_steam_2022_12_06.txt:15654
 msgid "Mausoleum"
@@ -49460,51 +49486,51 @@ msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:15656
 msgid "Decent Dining Room"
-msgstr ""
+msgstr "Decente Sala da pranzo"
 
 #: stringdump_steam_2022_12_06.txt:15657
 msgid "Fine Dining Room"
-msgstr ""
+msgstr "Fine Sala da pranzo"
 
 #: stringdump_steam_2022_12_06.txt:15658
 msgid "Meager Dining Room"
-msgstr ""
+msgstr "Misera Sala da pranzo"
 
 #: stringdump_steam_2022_12_06.txt:15659
 msgid "Modest Dining Room"
-msgstr ""
+msgstr "Modesta Sala da pranzo"
 
 #: stringdump_steam_2022_12_06.txt:15660
 msgid "Royal Dining Room"
-msgstr ""
+msgstr "Regale Sala da pranzo"
 
 #: stringdump_steam_2022_12_06.txt:15661
 msgid "No Quarters"
-msgstr ""
+msgstr "Nessun alloggio"
 
 #: stringdump_steam_2022_12_06.txt:15662
 msgid "Great Dining Room"
-msgstr ""
+msgstr "Grande Sala da pranzo"
 
 #: stringdump_steam_2022_12_06.txt:15663
 msgid "Grand Dining Room"
-msgstr ""
+msgstr "Grandiosa Sala da pranzo"
 
 #: stringdump_steam_2022_12_06.txt:15664
 msgid "Quarters"
-msgstr ""
+msgstr "Alloggi"
 
 #: stringdump_steam_2022_12_06.txt:15665
 msgid "Decent Quarters"
-msgstr ""
+msgstr "Alloggi Decenti"
 
 #: stringdump_steam_2022_12_06.txt:15666
 msgid "Meager Quarters"
-msgstr ""
+msgstr "Alloggi Miseri"
 
 #: stringdump_steam_2022_12_06.txt:15667
 msgid "Modest Quarters"
-msgstr ""
+msgstr "Alloggi Modesti"
 
 #: stringdump_steam_2022_12_06.txt:15668
 msgid " caught up in the web!"
@@ -49550,7 +49576,7 @@ msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:15678
 msgid "he"
-msgstr ""
+msgstr "lui"
 
 #: stringdump_steam_2022_12_06.txt:15679
 msgid "no material"
@@ -49830,7 +49856,7 @@ msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:15754
 msgid "Other Jobs"
-msgstr ""
+msgstr "Altri lavori"
 
 #: stringdump_steam_2022_12_06.txt:15757
 msgid "Farming/Related"
@@ -49902,7 +49928,7 @@ msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:15791
 msgid "liked appearance"
-msgstr ""
+msgstr "aspetto gradito"
 
 #: stringdump_steam_2022_12_06.txt:15792
 msgid "bring death to the world"
@@ -50498,7 +50524,7 @@ msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:15945
 msgid "completed job"
-msgstr ""
+msgstr "lavori completati"
 
 #: stringdump_steam_2022_12_06.txt:15946
 msgid "rescued somebody"
@@ -50518,11 +50544,11 @@ msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:15950
 msgid "eating without dining room"
-msgstr ""
+msgstr "mangiando senza sala da pranzo"
 
 #: stringdump_steam_2022_12_06.txt:15951
 msgid "eating in dining room"
-msgstr ""
+msgstr "mangiando in sala da pranzo"
 
 #: stringdump_steam_2022_12_06.txt:15952
 msgid "eating at crowded table"
@@ -50766,7 +50792,7 @@ msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:16012
 msgid "official meeting in dining room"
-msgstr ""
+msgstr "riunione ufficiale in sala da pranzo"
 
 #: stringdump_steam_2022_12_06.txt:16013
 msgid "official meeting in bedroom"
@@ -51506,7 +51532,7 @@ msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:16200
 msgid "natural history"
-msgstr ""
+msgstr "storia naturale"
 
 #: stringdump_steam_2022_12_06.txt:16201
 msgid "astronomy"
@@ -57985,7 +58011,7 @@ msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:18078
 msgid "condense"
-msgstr ""
+msgstr "condensa"
 
 #: stringdump_steam_2022_12_06.txt:18079
 msgid "melt"
@@ -58209,7 +58235,7 @@ msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:18335
 msgid "visiting"
-msgstr ""
+msgstr "visita"
 
 #: stringdump_steam_2022_12_06.txt:18336
 msgid "refugee"
@@ -58285,7 +58311,7 @@ msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:18374
 msgid "likes fighting"
-msgstr ""
+msgstr "ama lottare"
 
 #: stringdump_steam_2022_12_06.txt:18375
 msgid "intemperance"
@@ -58883,7 +58909,7 @@ msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:19272
 msgid "Condensed"
-msgstr ""
+msgstr "Condensato"
 
 #: stringdump_steam_2022_12_06.txt:19273
 msgid "Solidified"
@@ -60506,7 +60532,7 @@ msgstr "Riempi otre"
 
 #: stringdump_steam_2022_12_06.txt:19793
 msgid "No job"
-msgstr "Senza lavoro"
+msgstr "Nessun lavoro"
 
 #: stringdump_steam_2022_12_06.txt:19794
 msgid "Kidnap"
@@ -60554,7 +60580,7 @@ msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:19805
 msgid "Detail wall"
-msgstr ""
+msgstr "Dettaglia muro"
 
 #: stringdump_steam_2022_12_06.txt:19806
 msgid "Smooth floor"
@@ -60566,7 +60592,7 @@ msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:19808
 msgid "Detail floor"
-msgstr ""
+msgstr "Dettaglia pavimento"
 
 #: stringdump_steam_2022_12_06.txt:19809
 msgid "Remove construction"
@@ -61126,7 +61152,7 @@ msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:21264
 msgid "Counting house"
-msgstr ""
+msgstr "Casa di conteggio"
 
 #: stringdump_steam_2022_12_06.txt:21265
 msgid "Guildhall"
@@ -61182,7 +61208,7 @@ msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:21278
 msgid "Explore the history of "
-msgstr ""
+msgstr "Esplora la storia di"
 
 #: stringdump_steam_2022_12_06.txt:21279
 msgid "Select a category below to begin."
@@ -61206,7 +61232,7 @@ msgstr "Regioni"
 
 #: stringdump_steam_2022_12_06.txt:21284
 msgid "Historical figures"
-msgstr ""
+msgstr "Figure storiche"
 
 #: stringdump_steam_2022_12_06.txt:21285
 msgid "Sites"
@@ -61636,7 +61662,7 @@ msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:21394
 msgid "counting house"
-msgstr ""
+msgstr "casa di conteggio"
 
 #: stringdump_steam_2022_12_06.txt:21395
 msgid "Unknown region"
@@ -61822,11 +61848,11 @@ msgstr "liscivia congelata"
 
 #: stringdump_steam_2022_12_06.txt:21606
 msgid "pressed pearlash"
-msgstr ""
+msgstr "potassa raffinata pressata"
 
 #: stringdump_steam_2022_12_06.txt:21607
 msgid "pearlash paste"
-msgstr ""
+msgstr "pasta di potassa raffinata"
 
 #: stringdump_steam_2022_12_06.txt:21608
 msgid "mud"
@@ -61918,7 +61944,7 @@ msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:21632
 msgid "pearlash"
-msgstr ""
+msgstr "potassa raffinata"
 
 #: stringdump_steam_2022_12_06.txt:21634
 msgid "pressed ash"
@@ -62030,7 +62056,7 @@ msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:21946
 msgid " trunk"
-msgstr ""
+msgstr " tronco"
 
 #: stringdump_steam_2022_12_06.txt:21949
 msgid " cap"
@@ -64000,7 +64026,7 @@ msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:22629
 msgid "Use History Seed"
-msgstr ""
+msgstr "Usa seme della storia"
 
 #: stringdump_steam_2022_12_06.txt:22630
 msgid "Use Name Seed"
@@ -64820,7 +64846,7 @@ msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:22911
 msgid "History length"
-msgstr ""
+msgstr "Lunghezza storia"
 
 #: stringdump_steam_2022_12_06.txt:22912
 msgid "This may take several minutes!"
@@ -64840,7 +64866,7 @@ msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:22916
 msgid "Detailed mode"
-msgstr ""
+msgstr "Mod. dettagli"
 
 #: stringdump_steam_2022_12_06.txt:22917
 msgid "Back to main menu"
@@ -65095,7 +65121,7 @@ msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:22957
 msgid "Historical figures: "
-msgstr ""
+msgstr "Figure storiche: "
 
 #: stringdump_steam_2022_12_06.txt:22958
 msgid "An abridged chronicle ("
@@ -65135,7 +65161,7 @@ msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:22967
 msgid "Finished prehistory..."
-msgstr ""
+msgstr "Preistoria finita..."
 
 #: stringdump_steam_2022_12_06.txt:22968
 msgid "Placing civilizations... ("
@@ -65163,11 +65189,11 @@ msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:22974
 msgid "Recounting legends..."
-msgstr ""
+msgstr "Raccontando leggende..."
 
 #: stringdump_steam_2022_12_06.txt:22975
 msgid "Prehistory init..."
-msgstr ""
+msgstr "Preistoria iniziata..."
 
 #: stringdump_steam_2022_12_06.txt:22976
 msgid "Finalizing civ mats... ("
@@ -66250,7 +66276,7 @@ msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:23424
 msgid "dislikes cooperation"
-msgstr ""
+msgstr "non ama la cooperazione"
 
 #: stringdump_steam_2022_12_06.txt:23425
 msgid "doesn't see cooperation as valuable"
@@ -67321,10 +67347,11 @@ msgstr ""
 msgid ""
 "has a tendency to go it alone, without considering the advice of others"
 msgstr ""
+"ha la tendenza ad andare avanti da solo, senza considerare i consigli altrui"
 
 #: stringdump_steam_2022_12_06.txt:23677
 msgid "dislikes receiving advice, preferring to keep "
-msgstr ""
+msgstr "non ama ricevere consigli, preferendo mantenere la "
 
 #: stringdump_steam_2022_12_06.txt:23678
 msgid "relies on the advice of others during decision making"
@@ -67441,7 +67468,7 @@ msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:23703
 msgid "likes to brawl"
-msgstr ""
+msgstr "ama le risse"
 
 #: stringdump_steam_2022_12_06.txt:23704
 msgid ""
@@ -67666,7 +67693,7 @@ msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:23755
 msgid "likes to present "
-msgstr ""
+msgstr "ama presentare "
 
 #: stringdump_steam_2022_12_06.txt:23756
 msgid ", no matter how major the help or how much "
@@ -67821,7 +67848,7 @@ msgstr "cambia facilmente"
 
 #: stringdump_steam_2022_12_06.txt:23792
 msgid "shares intimate details of "
-msgstr ""
+msgstr "condivide dettagli intimi di "
 
 #: stringdump_steam_2022_12_06.txt:23793
 msgid " life without sparing a thought to repercussions or propriety"
@@ -67933,7 +67960,7 @@ msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:23819
 msgid "has a strong tendency toward privacy"
-msgstr ""
+msgstr "ha una forte tendenza alla privacy"
 
 #: stringdump_steam_2022_12_06.txt:23820
 msgid "is not particularly interested in what others think of "
@@ -68015,11 +68042,11 @@ msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:23838
 msgid "generally finds "
-msgstr ""
+msgstr "generalmente si trova "
 
 #: stringdump_steam_2022_12_06.txt:23839
 msgid " quite hopeful about the future"
-msgstr ""
+msgstr " abbastanza fiducioso per il futuro"
 
 #: stringdump_steam_2022_12_06.txt:23840
 msgid "tends to avoid crowds"
@@ -68185,7 +68212,7 @@ msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:23879
 msgid "dislikes helping others"
-msgstr ""
+msgstr "detesta aiutare gli altri"
 
 #: stringdump_steam_2022_12_06.txt:23880
 msgid "can sometimes act without deliberation"
@@ -68253,7 +68280,7 @@ msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:23894
 msgid "has a tendency toward forming deep emotional bonds with others"
-msgstr ""
+msgstr "ha la tendenza a formare legami emotivi profondi con gli altri"
 
 #: stringdump_steam_2022_12_06.txt:23895
 msgid "forms strong emotional bonds with others, at times to "
@@ -68441,6 +68468,8 @@ msgid ""
 "has a tendency to consider ideas and abstractions over practical "
 "applications"
 msgstr ""
+"ha la tendenza a considerare le idee e le astrazioni piuttosto che le "
+"applicazioni pratiche"
 
 #: stringdump_steam_2022_12_06.txt:23940
 msgid "isn't given to flights of fancy"
@@ -68500,7 +68529,7 @@ msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:23953
 msgid "likes to take it easy"
-msgstr ""
+msgstr "ama prendersela comoda"
 
 #: stringdump_steam_2022_12_06.txt:23954
 msgid ""
@@ -68547,7 +68576,7 @@ msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:23964
 msgid "likes a little excitement now and then"
-msgstr ""
+msgstr "ama un po' di eccitazione di tanto in tanto"
 
 #: stringdump_steam_2022_12_06.txt:23965
 msgid "seeks out exciting and adventurous situations"
@@ -68647,7 +68676,7 @@ msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:23989
 msgid " dislikes the natural world"
-msgstr ""
+msgstr "detesta il mondo naturale"
 
 #: stringdump_steam_2022_12_06.txt:23990
 msgid "more love-prone"
@@ -68786,7 +68815,7 @@ msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:24023
 msgid " dislikes the idea of friendship"
-msgstr ""
+msgstr "detesta l'idea dell'amicizia"
 
 #: stringdump_steam_2022_12_06.txt:24024
 msgid " truly respects sacrifice"
@@ -68794,7 +68823,7 @@ msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:24025
 msgid " dislikes this sort of concealment in the abstract"
-msgstr ""
+msgstr " detesta questo tipo di occultamento in astratto"
 
 #: stringdump_steam_2022_12_06.txt:24026
 msgid " wishes this were not the case as "
@@ -68809,6 +68838,8 @@ msgid ""
 " is disturbed by this as someone who dislikes those that seek to acquire "
 "power over others"
 msgstr ""
+" è disturbato da questo, in quanto non ama coloro che cercano di acquisire "
+"potere sugli altri."
 
 #: stringdump_steam_2022_12_06.txt:24029
 msgid " sees these tendencies as an impediment to the quest for power"
@@ -69125,6 +69156,8 @@ msgstr "impossibilitato a formulare suggerimenti sull'assegnazione del lavoro"
 #: stringdump_steam_2022_12_06.txt:24107
 msgid "being unable to find somebody to complain to about job scarcity"
 msgstr ""
+"non riuscire a trovare qualcuno con cui lamentarsi della scarsità di posti "
+"di lavoro"
 
 #: stringdump_steam_2022_12_06.txt:24108
 msgid " by the dead"
@@ -69278,7 +69311,7 @@ msgstr "proporre suggerimenti sull'assegnazione del lavoro"
 
 #: stringdump_steam_2022_12_06.txt:24145
 msgid "bringing up job scarcity in a meeting"
-msgstr ""
+msgstr "parlare di scarsità di posti di lavoro in una riunione"
 
 #: stringdump_steam_2022_12_06.txt:24146
 msgid "yelling at a priest"
@@ -69658,35 +69691,35 @@ msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:24240
 msgid "a horribly substandard dining room"
-msgstr ""
+msgstr "una sala da pranzo terribilmente sotto standard"
 
 #: stringdump_steam_2022_12_06.txt:24241
 msgid "a good dining room"
-msgstr ""
+msgstr "una buona sala da pranzo"
 
 #: stringdump_steam_2022_12_06.txt:24242
 msgid "an awful dining room"
-msgstr ""
+msgstr "una terribile sala da pranzo"
 
 #: stringdump_steam_2022_12_06.txt:24243
 msgid "a horrible dining room"
-msgstr ""
+msgstr "un'orribile sala da pranzo"
 
 #: stringdump_steam_2022_12_06.txt:24244
 msgid "a fantastic dining room"
-msgstr ""
+msgstr "una fantastica sala da pranzo"
 
 #: stringdump_steam_2022_12_06.txt:24245
 msgid "a legendary dining room"
-msgstr "una sala da pranzo leggendaria"
+msgstr "una leggendaria sala da pranzo"
 
 #: stringdump_steam_2022_12_06.txt:24246
 msgid "a very good dining room"
-msgstr ""
+msgstr "un'ottima sala da pranzo"
 
 #: stringdump_steam_2022_12_06.txt:24247
 msgid "a great dining room"
-msgstr ""
+msgstr "una grande sala da pranzo"
 
 #: stringdump_steam_2022_12_06.txt:24248
 msgid "being rescued"
@@ -69706,11 +69739,11 @@ msgstr "portando qualcuno a riposare a letto"
 
 #: stringdump_steam_2022_12_06.txt:24252
 msgid "a poor dining room"
-msgstr ""
+msgstr "una sala da pranzo povera"
 
 #: stringdump_steam_2022_12_06.txt:24253
 msgid "a very poor dining room"
-msgstr ""
+msgstr "una sala da pranzo molto povera"
 
 #: stringdump_steam_2022_12_06.txt:24254
 msgid "the lack of chairs"
@@ -69718,7 +69751,7 @@ msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:24255
 msgid "eating without a proper dining room"
-msgstr ""
+msgstr "mangiato senza una sala da pranzo adeguata"
 
 #: stringdump_steam_2022_12_06.txt:24256
 msgid "a legendary drink"
@@ -70162,7 +70195,7 @@ msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:24366
 msgid "having to conduct an official meeting in a dining room"
-msgstr ""
+msgstr "dovendo condurre una riunione ufficiale in una sala da pranzo"
 
 #: stringdump_steam_2022_12_06.txt:24367
 msgid "having to conduct an official meeting in a bedroom"
@@ -71270,7 +71303,7 @@ msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:24641
 msgid "an animal"
-msgstr ""
+msgstr "un animale"
 
 #: stringdump_steam_2022_12_06.txt:24642
 msgid "a soldier"
@@ -72417,7 +72450,7 @@ msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:24927
 msgid "Detailed"
-msgstr ""
+msgstr "Dettagliato"
 
 #: stringdump_steam_2022_12_06.txt:24928
 msgid "Smooth "
@@ -72449,7 +72482,7 @@ msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:24935
 msgid "Dense "
-msgstr ""
+msgstr "Denso "
 
 #: stringdump_steam_2022_12_06.txt:24936
 msgid "Dry "
@@ -73089,7 +73122,7 @@ msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:25096
 msgid "detailed "
-msgstr ""
+msgstr "dettagliato "
 
 #: stringdump_steam_2022_12_06.txt:25097
 msgid "sculpted "
@@ -73402,6 +73435,8 @@ msgstr ""
 #: stringdump_steam_2022_12_06.txt:25374
 msgid "Cannot generate random creatures -- missing body detail plan "
 msgstr ""
+"Impossibile generare creature casuali -- manca il piano dei dettagli del "
+"corpo "
 
 #: stringdump_steam_2022_12_06.txt:25389
 msgid "Cannot generate random creatures -- missing body gloss "
@@ -75495,7 +75530,7 @@ msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:26647
 msgid " tail"
-msgstr ""
+msgstr " coda"
 
 #: stringdump_steam_2022_12_06.txt:26648
 msgid "  It has a proboscis"
@@ -75507,7 +75542,7 @@ msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:26650
 msgid " tails"
-msgstr ""
+msgstr " code"
 
 #: stringdump_steam_2022_12_06.txt:26651
 msgid "skinless "
@@ -75786,6 +75821,8 @@ msgid ""
 "the details of its form are easily forgotten without deliberate "
 "concentration"
 msgstr ""
+"i dettagli della sua forma sono facilmente dimenticati senza una "
+"concentrazione deliberata"
 
 #: stringdump_steam_2022_12_06.txt:26724
 msgid "it moves with great focus"
@@ -75929,7 +75966,7 @@ msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:26758
 msgid "it has a tendency to laugh quietly to itself every so often"
-msgstr ""
+msgstr "ha la tendenza a ridere silenziosamente tra sé e sé di tanto in tanto"
 
 #: stringdump_steam_2022_12_06.txt:26759
 msgid ""
@@ -76350,7 +76387,7 @@ msgstr "agisce con calma incrollabile"
 
 #: stringdump_steam_2022_12_06.txt:26862
 msgid "it always seems to be counting something"
-msgstr ""
+msgstr "sembra sempre che stia contando qualcosa"
 
 #: stringdump_steam_2022_12_06.txt:26863
 msgid "it changes appearance based on the clouds and precipitation above"
@@ -78755,12 +78792,16 @@ msgid ""
 "the exploration of how history would be different if some key past events "
 "had transpired differently"
 msgstr ""
+"l'esplorazione di come la storia sarebbe diversa se eventi chiave del "
+"passato si fossero svolti diversamente"
 
 #: stringdump_steam_2022_12_06.txt:28220
 msgid ""
 "the method of collecting and evaluating artifacts to learn about history and"
 " culture"
 msgstr ""
+"il metodo di raccolta e valutazione degli artefatti per conoscere storia e "
+"cultura"
 
 #: stringdump_steam_2022_12_06.txt:28221
 msgid "the method of comparing and contrasting different cultures"
@@ -78867,6 +78908,8 @@ msgid ""
 "the method of compiling several biographies to compare and contrast the "
 "subjects' character and to gain insight into history"
 msgstr ""
+"il metodo di compilazione di diverse biografie per confrontare e contrastare"
+" il carattere dei soggetti e per trarre una visione storica"
 
 #: stringdump_steam_2022_12_06.txt:28244
 msgid "the compilation of brief biographies into one large collection"
@@ -78878,7 +78921,7 @@ msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:28246
 msgid "the method of writing the history of a single individual"
-msgstr ""
+msgstr "il metodo di scrittura della storia di un singolo individuo"
 
 #: stringdump_steam_2022_12_06.txt:28247
 msgid "historical, governmental and social cycles"
@@ -80846,7 +80889,7 @@ msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:28737
 msgid "Another History"
-msgstr ""
+msgstr "Un'altra storia"
 
 #: stringdump_steam_2022_12_06.txt:28738
 msgid "Outcomes"
@@ -80962,7 +81005,7 @@ msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:28766
 msgid "Personal History"
-msgstr ""
+msgstr "Storia personale"
 
 #: stringdump_steam_2022_12_06.txt:28767
 msgid "the Bond"
@@ -82058,7 +82101,7 @@ msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:29040
 msgid "the Counting House"
-msgstr ""
+msgstr "la Casa di conteggio"
 
 #: stringdump_steam_2022_12_06.txt:29041
 msgid "the Guildhall"
@@ -83599,19 +83642,19 @@ msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:29425
 msgid "history:sourcing:basic archaeology"
-msgstr ""
+msgstr "storia:fonte:archeologia di base"
 
 #: stringdump_steam_2022_12_06.txt:29426
 msgid "history:form:treatise on tech evolution"
-msgstr ""
+msgstr "storia:forma:trattato sull'evol. tecnologica"
 
 #: stringdump_steam_2022_12_06.txt:29427
 msgid "history:sourcing:role of cultural differences"
-msgstr ""
+msgstr "storia:fonte:ruolo delle differenze culturali"
 
 #: stringdump_steam_2022_12_06.txt:29428
 msgid "history:form:alternate history"
-msgstr ""
+msgstr "storia:forma:storia alternativa"
 
 #: stringdump_steam_2022_12_06.txt:29429
 msgid "astronomy:dates of lunar and solar eclipses"
@@ -83647,67 +83690,67 @@ msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:29437
 msgid "history:theory:social cohesion"
-msgstr ""
+msgstr "storia:teoria:coesione sociale"
 
 #: stringdump_steam_2022_12_06.txt:29438
 msgid "history:theory:social conflict"
-msgstr ""
+msgstr "storia:teoria:conflitto sociale"
 
 #: stringdump_steam_2022_12_06.txt:29439
 msgid "history:theory:historical causation"
-msgstr ""
+msgstr "storia:teoria:causalità storica"
 
 #: stringdump_steam_2022_12_06.txt:29440
 msgid "history:theory:historical cycles"
-msgstr ""
+msgstr "storia:teoria:cicli storici"
 
 #: stringdump_steam_2022_12_06.txt:29441
 msgid "history:sourcing:role of state bias and propaganda"
-msgstr ""
+msgstr "storia:fonte:ruolo di propaganda e pregiudizi di stato"
 
 #: stringdump_steam_2022_12_06.txt:29442
 msgid "history:sourcing:personal interviews"
-msgstr ""
+msgstr "storia:fonte:interviste personali"
 
 #: stringdump_steam_2022_12_06.txt:29443
 msgid "history:sourcing:basic reliability"
-msgstr ""
+msgstr "storia:fonte:affidabilità di base"
 
 #: stringdump_steam_2022_12_06.txt:29444
 msgid "history:sourcing:role of systemic bias"
-msgstr ""
+msgstr "storia:fonte:ruolo dei pregiudizi sistemici"
 
 #: stringdump_steam_2022_12_06.txt:29445
 msgid "history:form:cultural history"
-msgstr ""
+msgstr "storia:forma:storia culturale"
 
 #: stringdump_steam_2022_12_06.txt:29446
 msgid "history:form:cultural comparison"
-msgstr ""
+msgstr "storia:forma:confronto culturale"
 
 #: stringdump_steam_2022_12_06.txt:29447
 msgid "history:form:genealogy"
-msgstr ""
+msgstr "storia:forma:genealogia"
 
 #: stringdump_steam_2022_12_06.txt:29448
 msgid "history:form:encyclopedia"
-msgstr ""
+msgstr "storia:forma:enciclopedia"
 
 #: stringdump_steam_2022_12_06.txt:29449
 msgid "history:form:biographical dictionaries"
-msgstr ""
+msgstr "storia:forma:dizionari biografici"
 
 #: stringdump_steam_2022_12_06.txt:29450
 msgid "history:form:autobiographical adventure"
-msgstr ""
+msgstr "storia:forma:avventura autobiografica"
 
 #: stringdump_steam_2022_12_06.txt:29451
 msgid "history:form:biography"
-msgstr ""
+msgstr "storia:forma:biografia"
 
 #: stringdump_steam_2022_12_06.txt:29452
 msgid "history:form:comparative biography"
-msgstr ""
+msgstr "storia:forma:biografia comparativa"
 
 #: stringdump_steam_2022_12_06.txt:29453
 msgid "medicine:theory:fracture classification"
@@ -83871,7 +83914,7 @@ msgstr "geography:surveying:cartographical"
 
 #: stringdump_steam_2022_12_06.txt:29493
 msgid "geography:theory:origin of rainfall from evap condense"
-msgstr ""
+msgstr "geografia:teoria:origine di pioggia dalla condensa di evap"
 
 #: stringdump_steam_2022_12_06.txt:29494
 msgid "geography:theory:water cycle"
@@ -86850,7 +86893,7 @@ msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:30379
 msgid " voice trails off whenever "
-msgstr ""
+msgstr "voce si interrompe ogni volta che "
 
 #: stringdump_steam_2022_12_06.txt:30380
 msgid " is thinking about something"
@@ -86866,7 +86909,7 @@ msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:30383
 msgid " voice has a tendency to trail off when "
-msgstr ""
+msgstr " voce ha la tendenza a perdere colpi quando "
 
 #: stringdump_steam_2022_12_06.txt:30384
 msgid "'s angry"
@@ -87169,7 +87212,7 @@ msgstr "è facilmente distratto durante le conversazioni quando"
 
 #: stringdump_steam_2022_12_06.txt:30458
 msgid "has a tendency to talk to inanimate objects"
-msgstr "ha una tendenza al parlare con oggetti inanimati"
+msgstr "ha una tendenza a parlare con oggetti inanimati"
 
 #: stringdump_steam_2022_12_06.txt:30459
 msgid " starts talking to inanimate objects"
@@ -87685,7 +87728,7 @@ msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:30587
 msgid " has a tendency to chew on "
-msgstr ""
+msgstr " ha la tendenza a masticare "
 
 #: stringdump_steam_2022_12_06.txt:30588
 msgid "bites "
@@ -88477,7 +88520,7 @@ msgstr "Scalpellino"
 
 #: stringdump_steam_2022_12_06.txt:36670
 msgid "carpenter"
-msgstr ""
+msgstr "Carpentiere"
 
 #: stringdump_steam_2022_12_06.txt:36671
 msgid "bowyer"
@@ -88505,7 +88548,7 @@ msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:36677
 msgid ") has been completed."
-msgstr ""
+msgstr ") è stato completato."
 
 #: stringdump_steam_2022_12_06.txt:36678
 msgid "No longer requested"
@@ -89033,7 +89076,7 @@ msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:36810
 msgid "Stray "
-msgstr ""
+msgstr "Randagio/a"
 
 #: stringdump_steam_2022_12_06.txt:36811
 msgid "agitated "
@@ -89081,7 +89124,7 @@ msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:36822
 msgid "stray "
-msgstr ""
+msgstr "randagio/a"
 
 #: stringdump_steam_2022_12_06.txt:36823
 msgid "peasant"
@@ -89569,7 +89612,7 @@ msgstr " si è calmato."
 
 #: stringdump_steam_2022_12_06.txt:36945
 msgid " has grown to become a "
-msgstr ""
+msgstr "è cresciuto fino a diventare un "
 
 #: stringdump_steam_2022_12_06.txt:36946
 msgid " is no longer enraged."
@@ -89969,7 +90012,7 @@ msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:37045
 msgid "a little difficulty with words"
-msgstr ""
+msgstr "un po' di difficoltà con le parole"
 
 #: stringdump_steam_2022_12_06.txt:37046
 msgid "little memory to speak of"
@@ -90515,7 +90558,7 @@ msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:37182
 msgid " has grown attached to a "
-msgstr ""
+msgstr " si è affezionato a un "
 
 #: stringdump_steam_2022_12_06.txt:37183
 msgid "You have disturbed the sleep of the dead!"
@@ -90779,7 +90822,7 @@ msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:37250
 msgid "condensed."
-msgstr ""
+msgstr "condensato "
 
 #: stringdump_steam_2022_12_06.txt:37251
 msgid "solidified."
@@ -90914,7 +90957,7 @@ msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:37286
 msgid "been found condensed."
-msgstr ""
+msgstr "stato trovato condensato."
 
 #: stringdump_steam_2022_12_06.txt:37287
 msgid "been found dead, badly burned."
@@ -90958,7 +91001,7 @@ msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:37298
 msgid "Spring has arrived!"
-msgstr ""
+msgstr "E' arrivata la Primavera!"
 
 #: stringdump_steam_2022_12_06.txt:37299
 msgid "The wet season has arrived!"
@@ -90994,7 +91037,7 @@ msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:37307
 msgid " History Seed: "
-msgstr ""
+msgstr " Seme Storia: "
 
 #: stringdump_steam_2022_12_06.txt:37308
 msgid " Seed: "
@@ -91190,7 +91233,7 @@ msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:37388
 msgid "Winter is upon you."
-msgstr ""
+msgstr "L'inverno è ormai alle porte."
 
 #: stringdump_steam_2022_12_06.txt:37389
 msgid "Autumn has arrived on the calendar."
@@ -91334,7 +91377,7 @@ msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:37466
 msgid "You have struck "
-msgstr ""
+msgstr "Hai trovato"
 
 #: stringdump_steam_2022_12_06.txt:37467
 msgid "You have found a curious underground structure."
@@ -91354,7 +91397,7 @@ msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:37472
 msgid "You have discovered a downward passage."
-msgstr ""
+msgstr "Hai scoperto un passaggio verso il basso."
 
 #: stringdump_steam_2022_12_06.txt:37473
 msgid "You have discovered a cave entrance."
