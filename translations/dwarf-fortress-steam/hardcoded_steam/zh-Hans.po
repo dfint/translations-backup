@@ -71,7 +71,6 @@
 # 梓程 刘, 2022
 # jj z, 2022
 # 嘉杰 李, 2022
-# Kagamine_Lily, 2022
 # 程愉钦, 2022
 # 傲 李, 2022
 # whfnet <whfnet@gmail.com>, 2022
@@ -79,12 +78,13 @@
 # 宇琛 王, 2022
 # xz lin, 2022
 # 铭齐 梁, 2022
-# andylaw E, 2022
 # 朗笑, 2022
+# andylaw E, 2022
+# Kagamine_Lily, 2022
 # 
 msgid ""
 msgstr ""
-"Last-Translator: 朗笑, 2022\n"
+"Last-Translator: Kagamine_Lily, 2022\n"
 "Language-Team: Chinese Simplified (https://www.transifex.com/dwarf-fortress-translation/teams/22396/zh-Hans/)\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -5347,7 +5347,7 @@ msgstr "显示物品"
 
 #: stringdump_steam_2022_12_06.txt:1382
 msgid "is best)"
-msgstr "是最合适的"
+msgstr "是最合适的)"
 
 #: stringdump_steam_2022_12_06.txt:1383
 msgid "Disengaged"
@@ -7484,7 +7484,7 @@ msgstr "遗弃此要塞"
 
 #: stringdump_steam_2022_12_06.txt:1936
 msgid "Retire the fortress (for the time being)"
-msgstr "暂时放弃要塞"
+msgstr "放弃要塞( 暂时 )"
 
 #: stringdump_steam_2022_12_06.txt:1937
 msgid "Save and continue playing"
@@ -7822,7 +7822,7 @@ msgstr "打开储物堆模式"
 
 #: stringdump_steam_2022_12_06.txt:2021
 msgid " of 20)"
-msgstr "有20个"
+msgstr "/20)"
 
 #: stringdump_steam_2022_12_06.txt:2022
 msgid ""
@@ -9287,7 +9287,7 @@ msgstr "为了使某些功能可供使用，比如书籍管理，[C:5:0:0]管理
 msgid ""
 "the game progresses.  Use the [C:5:0:1]Nobles and administrators[C:7:0:0] "
 "menu to check their wants and needs."
-msgstr ""
+msgstr "游戏进程中。  使用 [C:5:0:1]贵族与管理员[C:7:0:0] 菜单来查看他们的需求。"
 
 #: stringdump_steam_2022_12_06.txt:2282
 msgid "Other nobles may appear or be assigned as "
@@ -9305,12 +9305,15 @@ msgid ""
 "[C:6:0:0]Chair[C:7:0:0], or you can paint a [C:3:0:0]Zone[C:7:0:0] and place"
 " a [C:6:0:0]Chair[C:7:0:0] later. "
 msgstr ""
+"你所选择的[C:3:0:0]区域[C:7:0:0] "
+"必须包含一把[C:6:0:0]椅子[C:7:0:0]，或者你可以先漆上一片[C:3:0:0]区域[C:7:0:0] "
+"然后再放置一把[C:6:0:0]椅子[C:7:0:0] "
 
 #: stringdump_steam_2022_12_06.txt:2285
 msgid ""
 "until your [C:5:0:0]Broker[C:7:0:0] or another resident arrives at the "
 "depot."
-msgstr ""
+msgstr "直到你的[C:5:0:0] 代理商[C:7:0:0] 或者其他居民到达交易站"
 
 #: stringdump_steam_2022_12_06.txt:2286
 msgid ""
@@ -9318,6 +9321,7 @@ msgid ""
 "[C:5:0:0]Broker[C:7:0:0], just select [C:5:0:1]\"Anyone can "
 "Trade\"[C:7:0:0].  You cannot trade "
 msgstr ""
+"选择[C:5:0:1]“交易”[C:7:0:0]。如果你没有[C:5:0:0]代理商[C:7:0:0]也不用担心，只需要选择“[C:5:0:1]所有人都可以交易”[C:7:0:0]。你不能交易"
 
 #: stringdump_steam_2022_12_06.txt:2287
 msgid ""
@@ -9330,12 +9334,13 @@ msgid ""
 "When the caravan arrives at the [C:6:0:0]Trade Depot[C:7:0:0], you must "
 "click on the depot and select [C:5:0:1]\"Bring Goods to Depot\"[C:7:0:0]. "
 msgstr ""
+"当旅行商队到达[C:6:0:0]交易站[C:7:0:0]时，你需要单击交易站，然后选择[C:5:0:1]“将货物放进仓库”[C:7:0:0]"
 
 #: stringdump_steam_2022_12_06.txt:2289
 msgid ""
 "Note that if you have a [C:5:0:0]Broker[C:7:0:0] the value of each good with"
 " be shown if their skill is high enough."
-msgstr ""
+msgstr "请注意：如果你的[C:5:0:0]代理商[C:7:0:0]的技巧值足够高，那么可以显示所有货物的价值"
 
 #: stringdump_steam_2022_12_06.txt:2290
 msgid "they can carry away the weight of the things you are selling."
@@ -9345,7 +9350,7 @@ msgstr "它们可以带走你出售的东西的重量。"
 msgid ""
 "trade from the list on the right.  Then hit [C:5:0:1]\"Trade\"[C:7:0:0].  "
 "The trader will accept if the deal is fair and "
-msgstr ""
+msgstr "从右边的列表中进行交易。  然后点击 [C:5:0:1]\"交易\"[C:7:0:0] ，那么这次交易将会成交。当然，前提是交易是公平和"
 
 #: stringdump_steam_2022_12_06.txt:2292
 msgid ""
@@ -9550,7 +9555,7 @@ msgstr ""
 msgid ""
 "You may also leave a cleared space your tavern-goers will use as a dance "
 "floor.  If you have any [C:6:0:1]Musical "
-msgstr "如果您拥有[C:6:0:1]音乐，您也许还需要留下一块开阔的空地让酒鬼们在这里发癫"
+msgstr "您也许还需要留下一块开阔的空地，以便让酒馆顾客在这里发酒疯。如果您拥有[C:6:0:1]音乐"
 
 #: stringdump_steam_2022_12_06.txt:2327
 msgid ""
@@ -15625,7 +15630,7 @@ msgstr "织布工坊"
 
 #: stringdump_steam_2022_12_06.txt:4026
 msgid "Butcher"
-msgstr "屠宰"
+msgstr "屠夫"
 
 #: stringdump_steam_2022_12_06.txt:4027
 msgid "Tanner"
@@ -15649,7 +15654,7 @@ msgstr "手推磨"
 
 #: stringdump_steam_2022_12_06.txt:4032
 msgid "Fishery"
-msgstr "水产品工坊"
+msgstr "渔场"
 
 #: stringdump_steam_2022_12_06.txt:4033
 msgid "Kitchen"
@@ -15765,7 +15770,7 @@ msgstr "泥土道路"
 
 #: stringdump_steam_2022_12_06.txt:4061
 msgid "Fortification"
-msgstr "设防"
+msgstr "城防垛口"
 
 #: stringdump_steam_2022_12_06.txt:4062
 msgid "Glass window"
@@ -73463,7 +73468,7 @@ msgstr ":键盘:键盘"
 
 #: stringdump_steam_2022_12_06.txt:25697
 msgid "[DESCRIPTION:The "
-msgstr "[描述:"
+msgstr "[DESCRIPTION: 这个"
 
 #: stringdump_steam_2022_12_06.txt:25698
 msgid " keyboard allows the musician to select the pitch of the instrument.]"
@@ -73958,7 +73963,7 @@ msgstr "管"
 
 #: stringdump_steam_2022_12_06.txt:25884
 msgid "[DESCRIPTION:The musician uses the "
-msgstr "[描述:音乐家使用"
+msgstr "[DESCRIPTION:音乐家使用"
 
 #: stringdump_steam_2022_12_06.txt:25885
 msgid " wind chests"
