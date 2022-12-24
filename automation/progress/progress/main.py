@@ -1,5 +1,4 @@
 import json
-import os
 import re
 from pathlib import Path
 from typing import Any, Tuple
@@ -27,7 +26,7 @@ def translated_lines(path: Path | str) -> Tuple[int, int, float]:
     )
 
 
-def dir_stat(path: Path | str) -> Tuple[dict[str, float], int]:
+def dir_stat(path: Path) -> Tuple[dict[str, float], int]:
     path = Path(path)
     output: dict[str, float] = {}
     total_lines: int = 0
@@ -90,11 +89,10 @@ def get_chart_url(path: Path) -> str:
     dataset: dict[str, dict[str, float]] = {}
     total_lines: int = 0
     labels: list[str] = []
-    for root, dirs, _files in os.walk(path):
-        for directory in dirs:
-            path = root + "/" + directory
-            stat = dir_stat(path)
-            dataset[directory] = stat[0]
+    for directory in path.glob("*"):
+        if directory.is_dir():
+            stat = dir_stat(directory)
+            dataset[directory.name] = stat[0]
             total_lines += stat[1]
             labels = list(stat[0].keys())
 
