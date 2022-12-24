@@ -10,7 +10,7 @@ import typer
 from loguru import logger
 
 
-def translated_lines(path: str) -> Tuple[int, int, float]:
+def translated_lines(path: Path | str) -> Tuple[int, int, float]:
     entries: int = 0
     translated_entries: int = 0
     with open(path, "r", encoding="utf-8") as file:
@@ -27,13 +27,14 @@ def translated_lines(path: str) -> Tuple[int, int, float]:
     )
 
 
-def dir_stat(path: str) -> Tuple[dict[str, float], int]:
+def dir_stat(path: Path | str) -> Tuple[dict[str, float], int]:
+    path = Path(path)
     output: dict[str, float] = {}
     total_lines: int = 0
-    for root, _dirs, files in os.walk(path):
-        for file in files:
-            file_name, _file_extension = os.path.splitext(file)
-            translated = translated_lines(root + "/" + file)
+    for file in path.glob("*"):
+        if file.is_file():
+            file_name = file.stem
+            translated = translated_lines(file)
             output[file_name] = translated[1]
             total_lines = translated[0]
     return output, total_lines
