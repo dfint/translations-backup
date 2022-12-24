@@ -5,8 +5,8 @@ from pathlib import Path
 from typing import Any, Tuple
 
 import jinja2
+import requests
 from loguru import logger
-from requests import post
 
 
 def translated_lines(path: str) -> Tuple[int, int, float]:
@@ -42,9 +42,11 @@ def chart_struct(
     data: dict[str, dict[str, float]], labels: list[str], max_lines: int
 ) -> dict[str, Any]:
     datasets: list[Any] = []
+
     for resource, lines in data.items():
         # values = [round(elem * 100, 2) for elem in list(lines.values())]
         datasets.append(dict(label=resource, data=list(lines.values())))
+
     return dict(
         type="horizontalBar",
         data={"labels": [elem.upper() for elem in labels], "datasets": datasets},
@@ -78,19 +80,19 @@ def chart_url(data: dict[str, Any]) -> str:
     print(json.dumps(payload))
 
     headers = {"Content-type": "application/json"}
-    response = post(url, data=json.dumps(payload), headers=headers)
+    response = requests.post(url, json=payload, headers=headers)
     return response.json()["url"]
 
 
-def get_chart_url(path: str) -> str:
+def get_chart_url(path: Path) -> str:
     dataset: dict[str, dict[str, float]] = {}
     total_lines: int = 0
     labels: list[str] = []
     for root, dirs, _files in os.walk(path):
-        for dir in dirs:
-            path = root + "/" + dir
+        for directory in dirs:
+            path = root + "/" + directory
             stat = dir_stat(path)
-            dataset[dir] = stat[0]
+            dataset[directory] = stat[0]
             total_lines += stat[1]
             labels = list(stat[0].keys())
 
@@ -108,7 +110,9 @@ def generate_readme_jinja(base_dir: Path, template_file: Path, result_path: Path
     template_env = jinja2.Environment(loader=template_loader)
     template = template_env.get_template(template_file.name)
 
-    dwarf_fortress_steam_chart_url = get_chart_url(base_dir / "translations/dwarf-fortress-steam")
+    dwarf_fortress_steam_chart_url = get_chart_url(
+        base_dir / "translations/dwarf-fortress-steam"
+    )
     dwarf_fortress_chart_url = get_chart_url(base_dir / "translations/dwarf-fortress")
 
     output = template.render(
