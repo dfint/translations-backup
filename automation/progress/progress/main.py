@@ -28,7 +28,7 @@ def dir_stat(path: Path) -> Tuple[dict[str, float], int]:
     path = Path(path)
     output: dict[str, float] = {}
     total_lines: int = 0
-    for file in path.glob("*"):
+    for file in sorted(path.glob("*")):
         if file.is_file():
             file_name = file.stem
             translated = translated_lines(file)
