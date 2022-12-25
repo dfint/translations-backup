@@ -9,7 +9,7 @@ import typer
 from loguru import logger
 
 
-def translated_lines(path: Path | str) -> Tuple[int, int, float]:
+def translated_lines(path: Path | str) -> Tuple[int, int]:
     entries: int = 0
     translated_entries: int = 0
 
@@ -19,27 +19,18 @@ def translated_lines(path: Path | str) -> Tuple[int, int, float]:
             if match.group(2) != "":
                 translated_entries += 1
 
-    return (
-        entries,
-        translated_entries,
-        (translated_entries / entries) if entries > 0 else 0,
-    )
+    return entries, translated_entries
 
 
-def dir_stat(path: Path) -> Tuple[dict[str, float], int]:
+def resource_stat(path: Path) -> Tuple[dict[str, float], int]:
     path = Path(path)
     output: dict[str, float] = {}
     total_lines: int = 0
 
-    for file in sorted(path.glob("*")):
-        if file.is_file():
-            language = file.stem
-            translated = translated_lines(file)
-
-            if translated[1]:
-                output[language] = translated[1]
-
-            total_lines = translated[0]
+    for file in sorted(filter(Path.is_file, path.glob("*.po"))):
+        language = file.stem
+        total_lines, translated = translated_lines(file)
+        output[language] = translated
 
     return output, total_lines
 
@@ -93,12 +84,12 @@ def get_chart_url(path: Path) -> str:
     total_lines: int = 0
     labels: list[str] = []
 
-    for directory in sorted(path.glob("*")):
-        if directory.is_dir():
-            stat = dir_stat(directory)
-            dataset[directory.name] = stat[0]
-            total_lines += stat[1]
-            labels = list(stat[0].keys())
+    for directory in sorted(filter(Path.is_dir, path.glob("*"))):
+        stat = resource_stat(directory)
+        resource_name = directory.name
+        dataset[resource_name] = stat[0]
+        total_lines += stat[1]
+        labels = list(stat[0].keys())
 
     chart = chart_url(chart_struct(dataset, labels, total_lines))
 
