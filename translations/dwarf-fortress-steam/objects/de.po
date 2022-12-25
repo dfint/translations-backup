@@ -6,14 +6,14 @@
 # Thomas Bach (Marketingmensch), 2022
 # Tristan Weber, 2022
 # Patrick Hadasch, 2022
-# Jan S, 2022
 # Thomas Schampera, 2022
 # TheDuplex, 2022
 # BơйđλŖѺ, 2022
 # Stefan Clemens, 2022
 # Frei Hafen, 2022
-# Marcel Priewasser, 2022
 # Hammerbund, 2022
+# Jan S, 2022
+# Marcel Priewasser, 2022
 # Yamon, 2022
 # 
 msgid ""
@@ -20653,7 +20653,7 @@ msgstr "[CASTE_NAME:Schimpanse:Schimpansen:Schimpanse]"
 #: creature_large_tropical.txt:1393
 msgctxt "CREATURE:CHIMPANZEE"
 msgid "[PREFSTRING:antics]"
-msgstr "[PREFSTRING:Possen]"
+msgstr "[PREFSTRING:Streiche]"
 
 #: creature_large_tropical.txt:1427
 msgctxt "CREATURE:CHIMPANZEE"
@@ -22334,6 +22334,8 @@ msgid ""
 "into <pro_pos> shell:come out of <pro_pos> shell:comes out of <pro_pos> "
 "shell]"
 msgstr ""
+"[RETRACT_INTO_BP:BY_CATEGORY:SHELL:hineinziehen<pro_pos>shell:zieht "
+"hinein<pro_pos>shell:herauskommen<pro_pos>shell:kommt heraus<pro_pos>shell]"
 
 #: creature_large_tropical.txt:3824
 msgctxt "CREATURE:GIANT TORTOISE"
@@ -27550,6 +27552,8 @@ msgid ""
 "into <pro_pos> shell:come out of <pro_pos> shell:comes out of <pro_pos> "
 "shell]"
 msgstr ""
+"[RETRACT_INTO_BP:BY_CATEGORY:SHELL:hineinziehen<pro_pos>shell:zieht "
+"hinein<pro_pos>shell:herauskommen<pro_pos>shell:kommt heraus<pro_pos>shell]"
 
 #: creature_riverlakepool_new.txt:1115
 msgctxt "CREATURE:POND_TURTLE"
@@ -40987,7 +40991,7 @@ msgstr "[NAME:Blaspfeil:Blaspfeile]"
 #: item_ammo.txt:23
 msgctxt "ITEM_AMMO:ITEM_AMMO_BLOWDARTS"
 msgid "[ATTACK:EDGE:1:50:stick:sticks:NO_SUB:]"
-msgstr "[ATTACK:EDGE:1:50:hält:halten:NO_SUB:]"
+msgstr "[ATTACK:EDGE:1:50:Stock:Stöcker:NO_SUB:]"
 
 #: item_armor.txt:6
 msgctxt "ITEM_ARMOR:ITEM_ARMOR_BREASTPLATE"
@@ -41352,7 +41356,7 @@ msgstr "[NAME:Tranchiergabel:Tranchiergabeln]"
 #: item_tool.txt:136
 msgctxt "ITEM_TOOL:ITEM_TOOL_FORK_CARVING"
 msgid "[ATTACK:EDGE:1:100:stab:stabs:NO_SUB:]"
-msgstr ""
+msgstr "[ATTACK:EDGE:1:100:Stich:Stiche:NO_SUB:]"
 
 #: item_tool.txt:138
 msgctxt "ITEM_TOOL:ITEM_TOOL_FORK_CARVING"
@@ -41442,17 +41446,17 @@ msgstr "[NAME:Stiel:Stiele]"
 #: item_tool.txt:304
 msgctxt "ITEM_TOOL:ITEM_TOOL_STONE_AXE"
 msgid "[NAME:axe:axes]"
-msgstr ""
+msgstr "[NAME:Axt:Äxte]"
 
 #: item_tool.txt:314
 msgctxt "ITEM_TOOL:ITEM_TOOL_STONE_AXE"
 msgid "[ATTACK:EDGE:800:400:hack:hacks:NO_SUB:]"
-msgstr ""
+msgstr "[ATTACK:EDGE:800:400:Hieb:Hiebe:NO_SUB:]"
 
 #: item_tool.txt:316
 msgctxt "ITEM_TOOL:ITEM_TOOL_STONE_AXE"
 msgid "[ATTACK:BLUNT:800:400:slap:slaps:flat:]"
-msgstr ""
+msgstr "[ATTACK:BLUNT:800:400:Klatsch:Klatsche:flach:]"
 
 #: item_tool.txt:318
 msgctxt "ITEM_TOOL:ITEM_TOOL_STONE_AXE"
@@ -41467,17 +41471,17 @@ msgstr "[NAME:Podest:Podeste]"
 #: item_tool.txt:332
 msgctxt "ITEM_TOOL:ITEM_TOOL_DISPLAY_CASE"
 msgid "[NAME:display case:display cases]"
-msgstr ""
+msgstr "[NAME:Vitrine:Vitrinen]"
 
 #: item_tool.txt:343
 msgctxt "ITEM_TOOL:ITEM_TOOL_ALTAR"
 msgid "[NAME:altar:altars]"
-msgstr ""
+msgstr "[NAME:Altar:Altäre]"
 
 #: item_tool.txt:353
 msgctxt "ITEM_TOOL:ITEM_TOOL_DIE"
 msgid "[NAME:die:dice]"
-msgstr ""
+msgstr "[NAME:würfeln:würfeln]"
 
 #: item_toy.txt:6
 msgctxt "ITEM_TOY:ITEM_TOY_PUZZLEBOX"
@@ -41507,7 +41511,7 @@ msgstr "[NAME:Mini-Schmiede:Mini-Schmieden]"
 #: item_trapcomp.txt:6
 msgctxt "ITEM_TRAPCOMP:ITEM_TRAPCOMP_GIANTAXEBLADE"
 msgid "[NAME:axe blade:axe blades]"
-msgstr ""
+msgstr "[NAME:Axtklinge:Axtklingen]"
 
 #: item_trapcomp.txt:7
 msgctxt "ITEM_TRAPCOMP:ITEM_TRAPCOMP_GIANTAXEBLADE"
@@ -41517,12 +41521,12 @@ msgstr "[ADJECTIVE:wächst]"
 #: item_trapcomp.txt:12
 msgctxt "ITEM_TRAPCOMP:ITEM_TRAPCOMP_GIANTAXEBLADE"
 msgid "[ATTACK:EDGE:100000:10000:slash:slashes:NO_SUB:]"
-msgstr ""
+msgstr "[ATTACK:EDGE:100000:10000:Schnitt:Schnitte:NO_SUB:]"
 
 #: item_trapcomp.txt:16
 msgctxt "ITEM_TRAPCOMP:ITEM_TRAPCOMP_ENORMOUSCORKSCREW"
 msgid "[NAME:corkscrew:corkscrews]"
-msgstr ""
+msgstr "[NAME:Korkenzieher:Korkenzieher]"
 
 #: item_trapcomp.txt:17
 msgctxt "ITEM_TRAPCOMP:ITEM_TRAPCOMP_ENORMOUSCORKSCREW"
@@ -41532,12 +41536,12 @@ msgstr "[ADJECTIVE:enorm]"
 #: item_trapcomp.txt:24
 msgctxt "ITEM_TRAPCOMP:ITEM_TRAPCOMP_ENORMOUSCORKSCREW"
 msgid "[ATTACK:EDGE:100:10000:drill:drills:NO_SUB:]"
-msgstr ""
+msgstr "[ATTACK:EDGE:100:10000:Bohrer:Bohrer:NO_SUB:]"
 
 #: item_trapcomp.txt:28
 msgctxt "ITEM_TRAPCOMP:ITEM_TRAPCOMP_SPIKEDBALL"
 msgid "[NAME:ball:balls]"
-msgstr ""
+msgstr "[NAME:Ball:Bälle]"
 
 #: item_trapcomp.txt:29
 msgctxt "ITEM_TRAPCOMP:ITEM_TRAPCOMP_SPIKEDBALL"
@@ -41552,7 +41556,7 @@ msgstr "[ATTACK:EDGE:10:200:schlagen:schlägt:NO_SUB:]"
 #: item_trapcomp.txt:39
 msgctxt "ITEM_TRAPCOMP:ITEM_TRAPCOMP_LARGESERRATEDDISC"
 msgid "[NAME:disc:discs]"
-msgstr ""
+msgstr "[NAME:Scheibe:Scheiben]"
 
 #: item_trapcomp.txt:40
 msgctxt "ITEM_TRAPCOMP:ITEM_TRAPCOMP_LARGESERRATEDDISC"
@@ -41562,7 +41566,7 @@ msgstr "[ADJECTIVE:groß, gezackt]"
 #: item_trapcomp.txt:45
 msgctxt "ITEM_TRAPCOMP:ITEM_TRAPCOMP_LARGESERRATEDDISC"
 msgid "[ATTACK:EDGE:100000:10000:saw:saws:NO_SUB:]"
-msgstr ""
+msgstr "[ATTACK:EDGE:100000:10000:Säge:Sägen:NO_SUB:]"
 
 #: item_trapcomp.txt:49
 msgctxt "ITEM_TRAPCOMP:ITEM_TRAPCOMP_MENACINGSPIKE"
@@ -41572,37 +41576,37 @@ msgstr "[NAME:spike:spikes]"
 #: item_trapcomp.txt:50
 msgctxt "ITEM_TRAPCOMP:ITEM_TRAPCOMP_MENACINGSPIKE"
 msgid "[ADJECTIVE:menacing]"
-msgstr ""
+msgstr "[ADJECTIVE:bedrohlich]"
 
 #: item_trapcomp.txt:57
 msgctxt "ITEM_TRAPCOMP:ITEM_TRAPCOMP_MENACINGSPIKE"
 msgid "[ATTACK:EDGE:10:6000:stab:stabs:NO_SUB:]"
-msgstr ""
+msgstr "[ATTACK:EDGE:10:6000:Stich:Stiche:NO_SUB:]"
 
 #: item_weapon.txt:6
 msgctxt "ITEM_WEAPON:ITEM_WEAPON_WHIP"
 msgid "[NAME:whip:whips]"
-msgstr ""
+msgstr "[NAME:Peitsche:Peitchen]"
 
 #: item_weapon.txt:12
 msgctxt "ITEM_WEAPON:ITEM_WEAPON_WHIP"
 msgid "[ATTACK:BLUNT:1:10:lash:lashes:NO_SUB:]"
-msgstr ""
+msgstr "[ATTACK:BLUNT:1:10:Peitsche:Peitschen:NO_SUB:]"
 
 #: item_weapon.txt:17
 msgctxt "ITEM_WEAPON:ITEM_WEAPON_AXE_BATTLE"
 msgid "[NAME:battle axe:battle axes]"
-msgstr ""
+msgstr "[NAME:Kampfaxt:Kampfäxte]"
 
 #: item_weapon.txt:27
 msgctxt "ITEM_WEAPON:ITEM_WEAPON_AXE_BATTLE"
 msgid "[ATTACK:EDGE:40000:6000:hack:hacks:NO_SUB:]"
-msgstr ""
+msgstr "[ATTACK:EDGE:40000:6000:Hieb:Hiebe:NO_SUB:]"
 
 #: item_weapon.txt:29
 msgctxt "ITEM_WEAPON:ITEM_WEAPON_AXE_BATTLE"
 msgid "[ATTACK:BLUNT:40000:6000:slap:slaps:flat:]"
-msgstr ""
+msgstr "[ATTACK:BLUNT:40000:6000:Klatsch:Klatsche:flach:]"
 
 #: item_weapon.txt:31
 msgctxt "ITEM_WEAPON:ITEM_WEAPON_AXE_BATTLE"
@@ -41612,32 +41616,32 @@ msgstr "[ATTACK:BLUNT:100:1000:schlagen:schlägt:Knauf:]"
 #: item_weapon.txt:35
 msgctxt "ITEM_WEAPON:ITEM_WEAPON_HAMMER_WAR"
 msgid "[NAME:war hammer:war hammers]"
-msgstr ""
+msgstr "[NAME:Kriegshammer:Kriegshämmer]"
 
 #: item_weapon.txt:41
 msgctxt "ITEM_WEAPON:ITEM_WEAPON_HAMMER_WAR"
 msgid "[ATTACK:BLUNT:10:200:bash:bashes:NO_SUB:]"
-msgstr ""
+msgstr "[ATTACK:BLUNT:10:200:Schlag:Schläge:NO_SUB:]"
 
 #: item_weapon.txt:45
 msgctxt "ITEM_WEAPON:ITEM_WEAPON_SWORD_SHORT"
 msgid "[NAME:short sword:short swords]"
-msgstr ""
+msgstr "[NAME:Kurzschwert:Kurzschwerter]"
 
 #: item_weapon.txt:52
 msgctxt "ITEM_WEAPON:ITEM_WEAPON_SWORD_SHORT"
 msgid "[ATTACK:EDGE:20000:4000:slash:slashes:NO_SUB:]"
-msgstr ""
+msgstr "[ATTACK:EDGE:20000:4000:Schnitt:Schnitte:NO_SUB:]"
 
 #: item_weapon.txt:54
 msgctxt "ITEM_WEAPON:ITEM_WEAPON_SWORD_SHORT"
 msgid "[ATTACK:EDGE:50:2000:stab:stabs:NO_SUB:]"
-msgstr ""
+msgstr "[ATTACK:EDGE:50:2000:Stich:Stiche:NO_SUB:]"
 
 #: item_weapon.txt:56
 msgctxt "ITEM_WEAPON:ITEM_WEAPON_SWORD_SHORT"
 msgid "[ATTACK:BLUNT:20000:4000:slap:slaps:flat:]"
-msgstr ""
+msgstr "[ATTACK:BLUNT:20000:4000:Klatsch:Klatsche:flach:]"
 
 #: item_weapon.txt:58
 msgctxt "ITEM_WEAPON:ITEM_WEAPON_SWORD_SHORT"
@@ -41647,42 +41651,42 @@ msgstr "[ATTACK:BLUNT:100:1000:schlagen:schlägt:Knauf:]"
 #: item_weapon.txt:62
 msgctxt "ITEM_WEAPON:ITEM_WEAPON_SPEAR"
 msgid "[NAME:spear:spears]"
-msgstr ""
+msgstr "[NAME:Speer:Speere]"
 
 #: item_weapon.txt:68
 msgctxt "ITEM_WEAPON:ITEM_WEAPON_SPEAR"
 msgid "[ATTACK:EDGE:20:10000:stab:stabs:NO_SUB:]"
-msgstr ""
+msgstr "[ATTACK:EDGE:20:10000:Stich:Stiche:NO_SUB:]"
 
 #: item_weapon.txt:70
 msgctxt "ITEM_WEAPON:ITEM_WEAPON_SPEAR"
 msgid "[ATTACK:BLUNT:10000:6000:bash:bashes:shaft:]"
-msgstr ""
+msgstr "[ATTACK:BLUNT:10000:6000:Schlag:Schläge:Schaft:]"
 
 #: item_weapon.txt:74
 msgctxt "ITEM_WEAPON:ITEM_WEAPON_MACE"
 msgid "[NAME:mace:maces]"
-msgstr ""
+msgstr "[NAME:Streitkolben:Streitkolben]"
 
 #: item_weapon.txt:80
 msgctxt "ITEM_WEAPON:ITEM_WEAPON_MACE"
 msgid "[ATTACK:BLUNT:20:200:bash:bashes:NO_SUB:]"
-msgstr ""
+msgstr "[ATTACK:BLUNT:20:200:Schlag:Schläge:NO_SUB:]"
 
 #: item_weapon.txt:84
 msgctxt "ITEM_WEAPON:ITEM_WEAPON_CROSSBOW"
 msgid "[NAME:crossbow:crossbows]"
-msgstr ""
+msgstr "[NAME:Armbrust:Armbrüste]"
 
 #: item_weapon.txt:93
 msgctxt "ITEM_WEAPON:ITEM_WEAPON_CROSSBOW"
 msgid "[ATTACK:BLUNT:10000:4000:bash:bashes:NO_SUB:]"
-msgstr ""
+msgstr "[ATTACK:BLUNT:10000:4000:bash:bashes:NO_SUB:]"
 
 #: item_weapon.txt:97
 msgctxt "ITEM_WEAPON:ITEM_WEAPON_PICK"
 msgid "[NAME:pick:picks]"
-msgstr ""
+msgstr "[NAME:Hacke:Hacken]"
 
 #: item_weapon.txt:103
 msgctxt "ITEM_WEAPON:ITEM_WEAPON_PICK"
@@ -41692,77 +41696,77 @@ msgstr "[ATTACK:EDGE:100:4000:schlagen:schlägt:NO_SUB:]"
 #: item_weapon.txt:107
 msgctxt "ITEM_WEAPON:ITEM_WEAPON_BOW"
 msgid "[NAME:bow:bows]"
-msgstr ""
+msgstr "[NAME:Bogen:Bögen]"
 
 #: item_weapon.txt:116
 msgctxt "ITEM_WEAPON:ITEM_WEAPON_BOW"
 msgid "[ATTACK:BLUNT:10000:4000:bash:bashes:NO_SUB:]"
-msgstr ""
+msgstr "[ATTACK:BLUNT:10000:4000:Schlag:Schläge:NO_SUB:]"
 
 #: item_weapon.txt:120
 msgctxt "ITEM_WEAPON:ITEM_WEAPON_BLOWGUN"
 msgid "[NAME:blowgun:blowguns]"
-msgstr ""
+msgstr "[NAME:Blasrohr:Blasrohre]"
 
 #: item_weapon.txt:129
 msgctxt "ITEM_WEAPON:ITEM_WEAPON_BLOWGUN"
 msgid "[ATTACK:BLUNT:10000:4000:bash:bashes:NO_SUB:]"
-msgstr ""
+msgstr "[ATTACK:BLUNT:10000:4000:Schlag:Schläge:NO_SUB:]"
 
 #: item_weapon.txt:133
 msgctxt "ITEM_WEAPON:ITEM_WEAPON_PIKE"
 msgid "[NAME:pike:pikes]"
-msgstr ""
+msgstr "[NAME:Spieß:Spieße]"
 
 #: item_weapon.txt:139
 msgctxt "ITEM_WEAPON:ITEM_WEAPON_PIKE"
 msgid "[ATTACK:EDGE:20:12000:stab:stabs:NO_SUB:]"
-msgstr ""
+msgstr "[ATTACK:EDGE:20:12000:Stich:Stiche:NO_SUB:]"
 
 #: item_weapon.txt:141
 msgctxt "ITEM_WEAPON:ITEM_WEAPON_PIKE"
 msgid "[ATTACK:BLUNT:10000:6000:bash:bashes:shaft:]"
-msgstr ""
+msgstr "[ATTACK:BLUNT:10000:6000:Schlag:Schläge:Schaft:]"
 
 #: item_weapon.txt:145
 msgctxt "ITEM_WEAPON:ITEM_WEAPON_HALBERD"
 msgid "[NAME:halberd:halberds]"
-msgstr ""
+msgstr "[NAME:Hellebarde:Hellebarden]"
 
 #: item_weapon.txt:151
 msgctxt "ITEM_WEAPON:ITEM_WEAPON_HALBERD"
 msgid "[ATTACK:EDGE:20000:8000:slash:slashes:NO_SUB:]"
-msgstr ""
+msgstr "[ATTACK:EDGE:20000:8000:Schnitt:Schnitte:NO_SUB:]"
 
 #: item_weapon.txt:153
 msgctxt "ITEM_WEAPON:ITEM_WEAPON_HALBERD"
 msgid "[ATTACK:EDGE:50:2000:stab:stabs:NO_SUB:]"
-msgstr ""
+msgstr "[ATTACK:EDGE:50:2000Stich:Stiche:NO_SUB:]"
 
 #: item_weapon.txt:155
 msgctxt "ITEM_WEAPON:ITEM_WEAPON_HALBERD"
 msgid "[ATTACK:BLUNT:20000:6000:bash:bashes:shaft:]"
-msgstr ""
+msgstr "[ATTACK:BLUNT:20000:6000:Schlag:Schläge:Schaft:]"
 
 #: item_weapon.txt:159
 msgctxt "ITEM_WEAPON:ITEM_WEAPON_SWORD_2H"
 msgid "[NAME:two-handed sword:two-handed swords]"
-msgstr ""
+msgstr "[NAME:Zweihandschwert:Zweihandschwerter]"
 
 #: item_weapon.txt:165
 msgctxt "ITEM_WEAPON:ITEM_WEAPON_SWORD_2H"
 msgid "[ATTACK:EDGE:100000:8000:slash:slashes:NO_SUB:]"
-msgstr ""
+msgstr "[ATTACK:EDGE:100000:8000:Schnitt:Schnitte:NO_SUB:]"
 
 #: item_weapon.txt:167
 msgctxt "ITEM_WEAPON:ITEM_WEAPON_SWORD_2H"
 msgid "[ATTACK:EDGE:50:4000:stab:stabs:NO_SUB:]"
-msgstr ""
+msgstr "[ATTACK:EDGE:50:4000:Stich:Stiche:NO_SUB:]"
 
 #: item_weapon.txt:169
 msgctxt "ITEM_WEAPON:ITEM_WEAPON_SWORD_2H"
 msgid "[ATTACK:BLUNT:100000:8000:slap:slaps:flat:]"
-msgstr ""
+msgstr "[ATTACK:BLUNT:100000:8000:Klatsch:Klatsche:flach:]"
 
 #: item_weapon.txt:171
 msgctxt "ITEM_WEAPON:ITEM_WEAPON_SWORD_2H"
@@ -41772,22 +41776,22 @@ msgstr "[ATTACK:BLUNT:100:1000:strike:strikes:pommel:]"
 #: item_weapon.txt:175
 msgctxt "ITEM_WEAPON:ITEM_WEAPON_SWORD_LONG"
 msgid "[NAME:long sword:long swords]"
-msgstr ""
+msgstr "[NAME:Langschwert:Langschwerter]"
 
 #: item_weapon.txt:181
 msgctxt "ITEM_WEAPON:ITEM_WEAPON_SWORD_LONG"
 msgid "[ATTACK:EDGE:60000:6000:slash:slashes:NO_SUB:]"
-msgstr ""
+msgstr "[ATTACK:EDGE:60000:6000:Schnitt:Schnitte:NO_SUB:]"
 
 #: item_weapon.txt:183
 msgctxt "ITEM_WEAPON:ITEM_WEAPON_SWORD_LONG"
 msgid "[ATTACK:EDGE:50:3000:stab:stabs:NO_SUB:]"
-msgstr ""
+msgstr "[ATTACK:EDGE:50:3000:Stich:Stiche:NO_SUB:]"
 
 #: item_weapon.txt:185
 msgctxt "ITEM_WEAPON:ITEM_WEAPON_SWORD_LONG"
 msgid "[ATTACK:BLUNT:60000:6000:slap:slaps:flat:]"
-msgstr ""
+msgstr "[ATTACK:BLUNT:60000:6000:Klatsch:Klatsche:flach:]"
 
 #: item_weapon.txt:187
 msgctxt "ITEM_WEAPON:ITEM_WEAPON_SWORD_LONG"
@@ -41797,27 +41801,27 @@ msgstr "[ATTACK:BLUNT:100:1000:schlagen:schlägt:Knauf:]"
 #: item_weapon.txt:191
 msgctxt "ITEM_WEAPON:ITEM_WEAPON_MAUL"
 msgid "[NAME:maul:mauls]"
-msgstr ""
+msgstr "[NAME:Streithammer:Streithämmer]"
 
 #: item_weapon.txt:197
 msgctxt "ITEM_WEAPON:ITEM_WEAPON_MAUL"
 msgid "[ATTACK:BLUNT:100:6000:bash:bashes:NO_SUB:]"
-msgstr ""
+msgstr "[ATTACK:BLUNT:100:6000:Schlag:Schläge:NO_SUB:]"
 
 #: item_weapon.txt:201
 msgctxt "ITEM_WEAPON:ITEM_WEAPON_AXE_GREAT"
 msgid "[NAME:great axe:great axes]"
-msgstr ""
+msgstr "[NAME:Streitaxt:Streitäxte]"
 
 #: item_weapon.txt:207
 msgctxt "ITEM_WEAPON:ITEM_WEAPON_AXE_GREAT"
 msgid "[ATTACK:EDGE:60000:8000:hack:hacks:NO_SUB:]"
-msgstr ""
+msgstr "[ATTACK:EDGE:60000:8000:Hieb:Hiebe:NO_SUB:]"
 
 #: item_weapon.txt:209
 msgctxt "ITEM_WEAPON:ITEM_WEAPON_AXE_GREAT"
 msgid "[ATTACK:BLUNT:60000:8000:slap:slaps:flat:]"
-msgstr ""
+msgstr "[ATTACK:BLUNT:60000:8000:Klatsch:Klatsche:flach:]"
 
 #: item_weapon.txt:211
 msgctxt "ITEM_WEAPON:ITEM_WEAPON_AXE_GREAT"
@@ -41827,7 +41831,7 @@ msgstr "[ATTACK:BLUNT:100:1000:schlagen:schlägt:Knauf:]"
 #: item_weapon.txt:215
 msgctxt "ITEM_WEAPON:ITEM_WEAPON_DAGGER_LARGE"
 msgid "[NAME:dagger:daggers]"
-msgstr ""
+msgstr "[NAME:Dolch:Dolche]"
 
 #: item_weapon.txt:216
 msgctxt "ITEM_WEAPON:ITEM_WEAPON_DAGGER_LARGE"
@@ -41837,12 +41841,12 @@ msgstr "[ADJECTIVE:groß]"
 #: item_weapon.txt:222
 msgctxt "ITEM_WEAPON:ITEM_WEAPON_DAGGER_LARGE"
 msgid "[ATTACK:EDGE:1000:800:slash:slashes:NO_SUB:]"
-msgstr ""
+msgstr "[ATTACK:EDGE:1000:800:Schnitt:Schnitte:NO_SUB:]"
 
 #: item_weapon.txt:224
 msgctxt "ITEM_WEAPON:ITEM_WEAPON_DAGGER_LARGE"
 msgid "[ATTACK:EDGE:5:1000:stab:stabs:NO_SUB:]"
-msgstr ""
+msgstr "[ATTACK:EDGE:5:1000:Stich:Stiche:NO_SUB:]"
 
 #: item_weapon.txt:226
 msgctxt "ITEM_WEAPON:ITEM_WEAPON_DAGGER_LARGE"
@@ -41852,32 +41856,32 @@ msgstr "[ATTACK:BLUNT:20:600:schlagen:schlägt:Knauf:]"
 #: item_weapon.txt:230
 msgctxt "ITEM_WEAPON:ITEM_WEAPON_SCOURGE"
 msgid "[NAME:scourge:scourges]"
-msgstr ""
+msgstr "[NAME:Geißel:Geißeln]"
 
 #: item_weapon.txt:236
 msgctxt "ITEM_WEAPON:ITEM_WEAPON_SCOURGE"
 msgid "[ATTACK:EDGE:10:50:lash:lashes:NO_SUB:]"
-msgstr ""
+msgstr "[ATTACK:EDGE:10:50:Peitsche:Peitschen:NO_SUB:]"
 
 #: item_weapon.txt:241
 msgctxt "ITEM_WEAPON:ITEM_WEAPON_FLAIL"
 msgid "[NAME:flail:flails]"
-msgstr ""
+msgstr "[NAME:Flegel:Flegel]"
 
 #: item_weapon.txt:247
 msgctxt "ITEM_WEAPON:ITEM_WEAPON_FLAIL"
 msgid "[ATTACK:BLUNT:200:4000:bash:bashes:NO_SUB:]"
-msgstr ""
+msgstr "[ATTACK:BLUNT:200:4000:Schlag:Schläge:NO_SUB:]"
 
 #: item_weapon.txt:251
 msgctxt "ITEM_WEAPON:ITEM_WEAPON_MORNINGSTAR"
 msgid "[NAME:morningstar:morningstars]"
-msgstr ""
+msgstr "[NAME:Morgenstern:Morgensterne]"
 
 #: item_weapon.txt:257
 msgctxt "ITEM_WEAPON:ITEM_WEAPON_MORNINGSTAR"
 msgid "[ATTACK:EDGE:10:500:bash:bashes:NO_SUB:]"
-msgstr ""
+msgstr "[ATTACK:EDGE:10:500:Schlag:Schläge:NO_SUB:]"
 
 #: item_weapon.txt:259
 msgctxt "ITEM_WEAPON:ITEM_WEAPON_MORNINGSTAR"
@@ -41887,22 +41891,22 @@ msgstr "[ATTACK:BLUNT:50:1000:schlagen:schlägt:Knauf:]"
 #: item_weapon.txt:263
 msgctxt "ITEM_WEAPON:ITEM_WEAPON_SCIMITAR"
 msgid "[NAME:scimitar:scimitars]"
-msgstr ""
+msgstr "[NAME:Krummsäbel:Krummsäbel]"
 
 #: item_weapon.txt:269
 msgctxt "ITEM_WEAPON:ITEM_WEAPON_SCIMITAR"
 msgid "[ATTACK:EDGE:20000:4000:slash:slashes:NO_SUB:]"
-msgstr ""
+msgstr "[ATTACK:EDGE:20000:4000:Schnitt:Schnitte:NO_SUB:]"
 
 #: item_weapon.txt:271
 msgctxt "ITEM_WEAPON:ITEM_WEAPON_SCIMITAR"
 msgid "[ATTACK:EDGE:50:2000:stab:stabs:NO_SUB:]"
-msgstr ""
+msgstr "[ATTACK:EDGE:50:2000:Stich:Stiche:NO_SUB:]"
 
 #: item_weapon.txt:273
 msgctxt "ITEM_WEAPON:ITEM_WEAPON_SCIMITAR"
 msgid "[ATTACK:BLUNT:20000:4000:slap:slaps:flat:]"
-msgstr ""
+msgstr "[ATTACK:BLUNT:20000:4000:Klatsch:Klatsche:flach:]"
 
 #: item_weapon.txt:275
 msgctxt "ITEM_WEAPON:ITEM_WEAPON_SCIMITAR"
@@ -41912,17 +41916,17 @@ msgstr "[ATTACK:BLUNT:50:1000:schlagen:schlägt:Knauf:]"
 #: item_weapon.txt:279
 msgctxt "ITEM_WEAPON:ITEM_WEAPON_AXE_TRAINING"
 msgid "[NAME:training axe:training axes]"
-msgstr ""
+msgstr "[NAME:Übungsaxt:Übungsäxte]"
 
 #: item_weapon.txt:285
 msgctxt "ITEM_WEAPON:ITEM_WEAPON_AXE_TRAINING"
 msgid "[ATTACK:BLUNT:30000:6000:hack:hacks:NO_SUB:]"
-msgstr ""
+msgstr "[ATTACK:BLUNT:30000:6000:Hieb:Hiebe:NO_SUB:]"
 
 #: item_weapon.txt:287
 msgctxt "ITEM_WEAPON:ITEM_WEAPON_AXE_TRAINING"
 msgid "[ATTACK:BLUNT:30000:6000:slap:slaps:flat:]"
-msgstr ""
+msgstr "[ATTACK:BLUNT:30000:6000:Klatsch:Klatsche:flach:]"
 
 #: item_weapon.txt:289
 msgctxt "ITEM_WEAPON:ITEM_WEAPON_AXE_TRAINING"
@@ -41932,22 +41936,22 @@ msgstr "[ATTACK:BLUNT:100:1000:schlagen:schlägt:Knauf:]"
 #: item_weapon.txt:294
 msgctxt "ITEM_WEAPON:ITEM_WEAPON_SWORD_SHORT_TRAINING"
 msgid "[NAME:training sword:training swords]"
-msgstr ""
+msgstr "[NAME:Übungsschwert:Übungsschwerter]"
 
 #: item_weapon.txt:300
 msgctxt "ITEM_WEAPON:ITEM_WEAPON_SWORD_SHORT_TRAINING"
 msgid "[ATTACK:BLUNT:20000:4000:slash:slashes:NO_SUB:]"
-msgstr ""
+msgstr "[ATTACK:BLUNT:20000:4000:Schnitt:Schnitte:NO_SUB:]"
 
 #: item_weapon.txt:302
 msgctxt "ITEM_WEAPON:ITEM_WEAPON_SWORD_SHORT_TRAINING"
 msgid "[ATTACK:BLUNT:50:2000:stab:stabs:NO_SUB:]"
-msgstr ""
+msgstr "[ATTACK:BLUNT:50:2000:Stich:Stiche:NO_SUB:]"
 
 #: item_weapon.txt:304
 msgctxt "ITEM_WEAPON:ITEM_WEAPON_SWORD_SHORT_TRAINING"
 msgid "[ATTACK:BLUNT:20000:4000:slap:slaps:flat:]"
-msgstr ""
+msgstr "[ATTACK:BLUNT:20000:4000:Klatsch:Klatsche:flach:]"
 
 #: item_weapon.txt:306
 msgctxt "ITEM_WEAPON:ITEM_WEAPON_SWORD_SHORT_TRAINING"
@@ -41957,17 +41961,17 @@ msgstr "[ATTACK:BLUNT:100:1000:schlagen:schlägt:Knauf:]"
 #: item_weapon.txt:311
 msgctxt "ITEM_WEAPON:ITEM_WEAPON_SPEAR_TRAINING"
 msgid "[NAME:training spear:training spears]"
-msgstr ""
+msgstr "[NAME:Übungsspeer:Übungsspeere]"
 
 #: item_weapon.txt:317
 msgctxt "ITEM_WEAPON:ITEM_WEAPON_SPEAR_TRAINING"
 msgid "[ATTACK:BLUNT:200:10000:stab:stabs:NO_SUB:]"
-msgstr ""
+msgstr "[ATTACK:BLUNT:200:10000:Stich:Stiche:NO_SUB:]"
 
 #: item_weapon.txt:319
 msgctxt "ITEM_WEAPON:ITEM_WEAPON_SPEAR_TRAINING"
 msgid "[ATTACK:BLUNT:10000:6000:bash:bashes:shaft:]"
-msgstr ""
+msgstr "[ATTACK:BLUNT:10000:6000:Schlag:Schläge:Schaft:]"
 
 #: inorganic_metal.txt:10
 msgctxt "INORGANIC:IRON"
@@ -41987,7 +41991,7 @@ msgstr "[STATE_NAME_ADJ:GAS:siedendes Eisen]"
 #: inorganic_metal.txt:50
 msgctxt "INORGANIC:GOLD"
 msgid "[STATE_NAME:SOLID:gold]"
-msgstr ""
+msgstr "[STATE_NAME:SOLID:Gold]"
 
 #: inorganic_metal.txt:51
 msgctxt "INORGANIC:GOLD"
@@ -42377,72 +42381,72 @@ msgstr "[STATE_NAME_ADJ:ALL:Gipsputzt]"
 #: inorganic_other.txt:18
 msgctxt "INORGANIC:CERAMIC_EARTHENWARE"
 msgid "[STATE_NAME_ADJ:ALL:earthenware]"
-msgstr ""
+msgstr "[STATE_NAME_ADJ:ALL:Töpferwaren]"
 
 #: inorganic_other.txt:25
 msgctxt "INORGANIC:CERAMIC_EARTHENWARE"
 msgid "[BLOCK_NAME:brick:bricks]"
-msgstr ""
+msgstr "[BLOCK_NAME:Ziegel:Ziegel]"
 
 #: inorganic_other.txt:32
 msgctxt "INORGANIC:CERAMIC_STONEWARE"
 msgid "[STATE_NAME_ADJ:ALL:stoneware]"
-msgstr ""
+msgstr "[STATE_NAME_ADJ:ALL:Steinwaren]"
 
 #: inorganic_other.txt:38
 msgctxt "INORGANIC:CERAMIC_STONEWARE"
 msgid "[BLOCK_NAME:brick:bricks]"
-msgstr ""
+msgstr "[BLOCK_NAME:Ziegel:Ziegel]"
 
 #: inorganic_other.txt:44
 msgctxt "INORGANIC:CERAMIC_PORCELAIN"
 msgid "[STATE_NAME_ADJ:ALL:porcelain]"
-msgstr ""
+msgstr "[STATE_NAME_ADJ:ALL:Porzellan]"
 
 #: inorganic_other.txt:50
 msgctxt "INORGANIC:CERAMIC_PORCELAIN"
 msgid "[BLOCK_NAME:brick:bricks]"
-msgstr ""
+msgstr "[BLOCK_NAME:Ziegel:Ziegel]"
 
 #: inorganic_other.txt:56
 msgctxt "INORGANIC:ASH_GLAZE"
 msgid "[STATE_NAME:ALL:ash glaze]"
-msgstr ""
+msgstr "[STATE_NAME:ALL:Ascheglasur]"
 
 #: inorganic_other.txt:57
 msgctxt "INORGANIC:ASH_GLAZE"
 msgid "[STATE_NAME_ADJ:ALL:ash glaze]"
-msgstr ""
+msgstr "[STATE_NAME_ADJ:ALL:Ascheglasur]"
 
 #: inorganic_other.txt:67
 msgctxt "INORGANIC:TIN_GLAZE"
 msgid "[STATE_NAME:ALL:tin glaze]"
-msgstr ""
+msgstr "[STATE_NAME:ALL:Zinnglasur]"
 
 #: inorganic_other.txt:68
 msgctxt "INORGANIC:TIN_GLAZE"
 msgid "[STATE_NAME_ADJ:ALL:tin glaze]"
-msgstr ""
+msgstr "[STATE_NAME_ADJ:ALL:Zinnglasur]"
 
 #: inorganic_other.txt:78
 msgctxt "INORGANIC:QUICKLIME"
 msgid "[STATE_NAME:ALL:quicklime]"
-msgstr ""
+msgstr "[STATE_NAME:ALL:Branntkalk]"
 
 #: inorganic_other.txt:79
 msgctxt "INORGANIC:QUICKLIME"
 msgid "[STATE_NAME_ADJ:ALL:quicklime]"
-msgstr ""
+msgstr "[STATE_NAME_ADJ:ALL:Branntkalk]"
 
 #: inorganic_other.txt:87
 msgctxt "INORGANIC:MILK_OF_LIME"
 msgid "[STATE_NAME:ALL:milk of lime]"
-msgstr ""
+msgstr "[STATE_NAME:ALL:Kalkmilch]"
 
 #: inorganic_other.txt:88
 msgctxt "INORGANIC:MILK_OF_LIME"
 msgid "[STATE_NAME_ADJ:ALL:milk of lime]"
-msgstr ""
+msgstr "[STATE_NAME_ADJ:ALL:Kalkmilch]"
 
 #: inorganic_stone_gem.txt:34
 msgctxt "INORGANIC:ONYX"
@@ -43222,17 +43226,17 @@ msgstr "[STATE_NAME_ADJ:ALL_SOLID:grünes Nickelerz]"
 #: inorganic_stone_mineral.txt:51
 msgctxt "INORGANIC:NATIVE_GOLD"
 msgid "[STONE_NAME:gold nuggets]"
-msgstr ""
+msgstr "[STONE_NAME:Goldklumpen]"
 
 #: inorganic_stone_mineral.txt:52
 msgctxt "INORGANIC:NATIVE_GOLD"
 msgid "[STATE_NAME:SOLID:native gold]"
-msgstr ""
+msgstr "[STATE_NAME:SOLID:natives Gold]"
 
 #: inorganic_stone_mineral.txt:53
 msgctxt "INORGANIC:NATIVE_GOLD"
 msgid "[STATE_NAME:SOLID_POWDER:native gold dust]"
-msgstr ""
+msgstr "[STATE_NAME:SOLID_POWDER:natives Goldpulver]"
 
 #: inorganic_stone_mineral.txt:54
 msgctxt "INORGANIC:NATIVE_GOLD"
@@ -43242,17 +43246,17 @@ msgstr "[STATE_ADJ:ALL_SOLID:heimisches Gold]"
 #: inorganic_stone_mineral.txt:55
 msgctxt "INORGANIC:NATIVE_GOLD"
 msgid "[STATE_NAME_ADJ:LIQUID:molten native gold]"
-msgstr ""
+msgstr "[STATE_NAME_ADJ:LIQUID:geschmolzenes natives Gold]"
 
 #: inorganic_stone_mineral.txt:56
 msgctxt "INORGANIC:NATIVE_GOLD"
 msgid "[STATE_NAME_ADJ:GAS:boiling native gold]"
-msgstr ""
+msgstr "[STATE_NAME_ADJ:GAS:kochendes natives Gold]"
 
 #: inorganic_stone_mineral.txt:94
 msgctxt "INORGANIC:NATIVE_SILVER"
 msgid "[STONE_NAME:silver nuggets]"
-msgstr ""
+msgstr "[STONE_NAME:Silberklumpen]"
 
 #: inorganic_stone_mineral.txt:95
 msgctxt "INORGANIC:NATIVE_SILVER"
@@ -43262,17 +43266,17 @@ msgstr "[STATE_NAME_ADJ:ALL_SOLID:heimisches Silber]"
 #: inorganic_stone_mineral.txt:96
 msgctxt "INORGANIC:NATIVE_SILVER"
 msgid "[STATE_NAME_ADJ:LIQUID:molten native silver]"
-msgstr ""
+msgstr "[STATE_NAME_ADJ:LIQUID:geschmolzenes natives Silber]"
 
 #: inorganic_stone_mineral.txt:97
 msgctxt "INORGANIC:NATIVE_SILVER"
 msgid "[STATE_NAME_ADJ:GAS:boiling native silver]"
-msgstr ""
+msgstr "[STATE_NAME_ADJ:GAS:kochendes natives Silber]"
 
 #: inorganic_stone_mineral.txt:131
 msgctxt "INORGANIC:NATIVE_COPPER"
 msgid "[STONE_NAME:copper nuggets]"
-msgstr ""
+msgstr "[STONE_NAME:Kupferklumpen]"
 
 #: inorganic_stone_mineral.txt:136
 msgctxt "INORGANIC:NATIVE_COPPER"
@@ -43282,12 +43286,12 @@ msgstr "[STATE_NAME_ADJ:ALL_SOLID:heimisches Kupfer]"
 #: inorganic_stone_mineral.txt:137
 msgctxt "INORGANIC:NATIVE_COPPER"
 msgid "[STATE_NAME_ADJ:LIQUID:molten native copper]"
-msgstr ""
+msgstr "[STATE_NAME_ADJ:LIQUID:geschmolzenes natives Kupfer]"
 
 #: inorganic_stone_mineral.txt:138
 msgctxt "INORGANIC:NATIVE_COPPER"
 msgid "[STATE_NAME_ADJ:GAS:boiling native copper]"
-msgstr ""
+msgstr "[STATE_NAME_ADJ:GAS:kochendes natives Kupfer]"
 
 #: inorganic_stone_mineral.txt:173
 msgctxt "INORGANIC:MALACHITE"
@@ -43332,12 +43336,12 @@ msgstr "[STATE_NAME_ADJ:ALL_SOLID:heimisches Platin]"
 #: inorganic_stone_mineral.txt:263
 msgctxt "INORGANIC:NATIVE_PLATINUM"
 msgid "[STATE_NAME_ADJ:LIQUID:molten native platinum]"
-msgstr ""
+msgstr "[STATE_NAME_ADJ:LIQUID:geschmolzenes natives Platin]"
 
 #: inorganic_stone_mineral.txt:264
 msgctxt "INORGANIC:NATIVE_PLATINUM"
 msgid "[STATE_NAME_ADJ:GAS:boiling native platinum]"
-msgstr ""
+msgstr "[STATE_NAME_ADJ:GAS:kochendes natives Platin]"
 
 #: inorganic_stone_mineral.txt:300
 msgctxt "INORGANIC:CINNABAR"
@@ -43477,62 +43481,62 @@ msgstr "[STATE_NAME_ADJ:ALL_SOLID:Bauxit]"
 #: inorganic_stone_mineral.txt:599
 msgctxt "INORGANIC:NATIVE_ALUMINUM"
 msgid "[STATE_NAME_ADJ:ALL_SOLID:native aluminum]"
-msgstr ""
+msgstr "[STATE_NAME_ADJ:ALL_SOLID:natives Aluminium]"
 
 #: inorganic_stone_mineral.txt:600
 msgctxt "INORGANIC:NATIVE_ALUMINUM"
 msgid "[STATE_NAME_ADJ:LIQUID:molten native aluminum]"
-msgstr ""
+msgstr "[STATE_NAME_ADJ:LIQUID:geschmolzenes natives Aluminium]"
 
 #: inorganic_stone_mineral.txt:601
 msgctxt "INORGANIC:NATIVE_ALUMINUM"
 msgid "[STATE_NAME_ADJ:GAS:boiling native aluminum]"
-msgstr ""
+msgstr "[STATE_NAME_ADJ:GAS:kochendes natives Aluminium]"
 
 #: inorganic_stone_mineral.txt:636
 msgctxt "INORGANIC:BORAX"
 msgid "[STATE_NAME_ADJ:ALL_SOLID:borax]"
-msgstr ""
+msgstr "[STATE_NAME_ADJ:ALL_SOLID:Borax]"
 
 #: inorganic_stone_mineral.txt:647
 msgctxt "INORGANIC:OLIVINE"
 msgid "[STATE_NAME_ADJ:ALL_SOLID:olivine]"
-msgstr ""
+msgstr "[STATE_NAME_ADJ:ALL_SOLID:Olivin]"
 
 #: inorganic_stone_mineral.txt:656
 msgctxt "INORGANIC:HORNBLENDE"
 msgid "[STATE_NAME_ADJ:ALL_SOLID:hornblende]"
-msgstr ""
+msgstr "[STATE_NAME_ADJ:ALL_SOLID:Hornblende]"
 
 #: inorganic_stone_mineral.txt:666
 msgctxt "INORGANIC:KAOLINITE"
 msgid "[STATE_NAME_ADJ:ALL_SOLID:kaolinite]"
-msgstr ""
+msgstr "[STATE_NAME_ADJ:ALL_SOLID:Kaolinit]"
 
 #: inorganic_stone_mineral.txt:676
 msgctxt "INORGANIC:SERPENTINE"
 msgid "[STATE_NAME_ADJ:ALL_SOLID:serpentine]"
-msgstr ""
+msgstr "[STATE_NAME_ADJ:ALL_SOLID:Serpentin]"
 
 #: inorganic_stone_mineral.txt:686
 msgctxt "INORGANIC:ORTHOCLASE"
 msgid "[STATE_NAME_ADJ:ALL_SOLID:orthoclase]"
-msgstr ""
+msgstr "[STATE_NAME_ADJ:ALL_SOLID:Orthoklas]"
 
 #: inorganic_stone_mineral.txt:697
 msgctxt "INORGANIC:MICROCLINE"
 msgid "[STATE_NAME_ADJ:ALL_SOLID:microcline]"
-msgstr ""
+msgstr "[STATE_NAME_ADJ:ALL_SOLID:Mikroklin]"
 
 #: inorganic_stone_mineral.txt:706
 msgctxt "INORGANIC:MICA"
 msgid "[STATE_NAME_ADJ:ALL_SOLID:mica]"
-msgstr ""
+msgstr "[STATE_NAME_ADJ:ALL_SOLID:Glimmer]"
 
 #: inorganic_stone_mineral.txt:717
 msgctxt "INORGANIC:CALCITE"
 msgid "[STATE_NAME_ADJ:ALL_SOLID:calcite]"
-msgstr ""
+msgstr "[STATE_NAME_ADJ:ALL_SOLID:Kalzit]"
 
 #: inorganic_stone_mineral.txt:731
 msgctxt "INORGANIC:SALTPETER"
@@ -43542,47 +43546,47 @@ msgstr "[STATE_NAME_ADJ:ALL_SOLID:Salpeter]"
 #: inorganic_stone_mineral.txt:741
 msgctxt "INORGANIC:ALABASTER"
 msgid "[STATE_NAME_ADJ:ALL_SOLID:alabaster]"
-msgstr ""
+msgstr "[STATE_NAME_ADJ:ALL_SOLID:Alabaster]"
 
 #: inorganic_stone_mineral.txt:751
 msgctxt "INORGANIC:SELENITE"
 msgid "[STATE_NAME_ADJ:ALL_SOLID:selenite]"
-msgstr ""
+msgstr "[STATE_NAME_ADJ:ALL_SOLID:Selenit]"
 
 #: inorganic_stone_mineral.txt:761
 msgctxt "INORGANIC:SATINSPAR"
 msgid "[STATE_NAME_ADJ:ALL_SOLID:satinspar]"
-msgstr ""
+msgstr "[STATE_NAME_ADJ:ALL_SOLID:Satinspat]"
 
 #: inorganic_stone_mineral.txt:772
 msgctxt "INORGANIC:ANHYDRITE"
 msgid "[STATE_NAME_ADJ:ALL_SOLID:anhydrite]"
-msgstr ""
+msgstr "[STATE_NAME_ADJ:ALL_SOLID:Anhydrit]"
 
 #: inorganic_stone_mineral.txt:787
 msgctxt "INORGANIC:ALUNITE"
 msgid "[STATE_NAME_ADJ:ALL_SOLID:alunite]"
-msgstr ""
+msgstr "[STATE_NAME_ADJ:ALL_SOLID:Alunit]"
 
 #: inorganic_stone_mineral.txt:799
 msgctxt "INORGANIC:RAW_ADAMANTINE"
 msgid "[STATE_NAME_ADJ:ALL_SOLID:raw adamantine]"
-msgstr ""
+msgstr "[STATE_NAME_ADJ:ALL_SOLID:Roh-Adamantin]"
 
 #: inorganic_stone_mineral.txt:800
 msgctxt "INORGANIC:RAW_ADAMANTINE"
 msgid "[STATE_NAME_ADJ:LIQUID:molten raw adamantine]"
-msgstr ""
+msgstr "[STATE_NAME_ADJ:LIQUID:geschmolzenes Roh-Adamantin]"
 
 #: inorganic_stone_mineral.txt:801
 msgctxt "INORGANIC:RAW_ADAMANTINE"
 msgid "[STATE_NAME_ADJ:GAS:boiling raw adamantine]"
-msgstr ""
+msgstr "[STATE_NAME_ADJ:GAS:kochendes Roh-Adamantin]"
 
 #: inorganic_stone_mineral.txt:836
 msgctxt "INORGANIC:SLADE"
 msgid "[STATE_NAME_ADJ:ALL_SOLID:slade]"
-msgstr ""
+msgstr "[STATE_NAME_ADJ:ALL_SOLID:Schiefer]"
 
 #: inorganic_stone_soil.txt:21
 msgctxt "INORGANIC:CLAY"
@@ -43692,32 +43696,32 @@ msgstr "[STATE_NAME_ADJ:ALL_SOLID:Feuerfestton]"
 #: material_template_default.txt:8
 msgctxt "MATERIAL_TEMPLATE:STONE_TEMPLATE"
 msgid "[STATE_NAME:ALL_SOLID:stone]"
-msgstr ""
+msgstr "[STATE_NAME:ALL_SOLID:Stein]"
 
 #: material_template_default.txt:9
 msgctxt "MATERIAL_TEMPLATE:STONE_TEMPLATE"
 msgid "[STATE_ADJ:ALL_SOLID:stone]"
-msgstr ""
+msgstr "[STATE_ADJ:ALL_SOLID:steinern]"
 
 #: material_template_default.txt:11
 msgctxt "MATERIAL_TEMPLATE:STONE_TEMPLATE"
 msgid "[STATE_NAME:LIQUID:magma]"
-msgstr ""
+msgstr "[STATE_NAME:LIQUID:Magma]"
 
 #: material_template_default.txt:12
 msgctxt "MATERIAL_TEMPLATE:STONE_TEMPLATE"
 msgid "[STATE_ADJ:LIQUID:magma]"
-msgstr ""
+msgstr "[STATE_ADJ:LIQUID:Magma]"
 
 #: material_template_default.txt:14
 msgctxt "MATERIAL_TEMPLATE:STONE_TEMPLATE"
 msgid "[STATE_NAME:GAS:boiling magma]"
-msgstr ""
+msgstr "[STATE_NAME:GAS:kochendes Magma]"
 
 #: material_template_default.txt:15
 msgctxt "MATERIAL_TEMPLATE:STONE_TEMPLATE"
 msgid "[STATE_ADJ:GAS:boiling magma]"
-msgstr ""
+msgstr "[STATE_ADJ:GAS:kochendes Magma]"
 
 #: material_template_default.txt:65
 msgctxt "MATERIAL_TEMPLATE:METAL_TEMPLATE"
@@ -43732,32 +43736,32 @@ msgstr "[STATE_ADJ:ALL_SOLID:Metall]"
 #: material_template_default.txt:68
 msgctxt "MATERIAL_TEMPLATE:METAL_TEMPLATE"
 msgid "[STATE_NAME:LIQUID:molten metal]"
-msgstr ""
+msgstr "[STATE_NAME:LIQUID:geschmolzenes Metall]"
 
 #: material_template_default.txt:69
 msgctxt "MATERIAL_TEMPLATE:METAL_TEMPLATE"
 msgid "[STATE_ADJ:LIQUID:molten metal]"
-msgstr ""
+msgstr "[STATE_ADJ:LIQUID:geschmolzenes Metall]"
 
 #: material_template_default.txt:71
 msgctxt "MATERIAL_TEMPLATE:METAL_TEMPLATE"
 msgid "[STATE_NAME:GAS:boiling metal]"
-msgstr ""
+msgstr "[STATE_NAME:GAS:kochendes Metall]"
 
 #: material_template_default.txt:72
 msgctxt "MATERIAL_TEMPLATE:METAL_TEMPLATE"
 msgid "[STATE_ADJ:GAS:boiling metal]"
-msgstr ""
+msgstr "[STATE_ADJ:GAS:kochendes Metall]"
 
 #: material_template_default.txt:109
 msgctxt "MATERIAL_TEMPLATE:WOOD_TEMPLATE"
 msgid "[STATE_NAME:ALL_SOLID:wood]"
-msgstr ""
+msgstr "[STATE_NAME:ALL_SOLID:Holz]"
 
 #: material_template_default.txt:110
 msgctxt "MATERIAL_TEMPLATE:WOOD_TEMPLATE"
 msgid "[STATE_ADJ:ALL_SOLID:wooden]"
-msgstr ""
+msgstr "[STATE_ADJ:ALL_SOLID:hölzern]"
 
 #: material_template_default.txt:112
 msgctxt "MATERIAL_TEMPLATE:WOOD_TEMPLATE"
@@ -43812,22 +43816,22 @@ msgstr "[STATE_ADJ:GAS:k. A.]"
 #: material_template_default.txt:209
 msgctxt "MATERIAL_TEMPLATE:FAT_TEMPLATE"
 msgid "[STATE_NAME:ALL_SOLID:fat]"
-msgstr ""
+msgstr "[STATE_NAME:ALL_SOLID:Fett]"
 
 #: material_template_default.txt:210
 msgctxt "MATERIAL_TEMPLATE:FAT_TEMPLATE"
 msgid "[STATE_ADJ:ALL_SOLID:fatty]"
-msgstr ""
+msgstr "[STATE_ADJ:ALL_SOLID:fettig]"
 
 #: material_template_default.txt:212
 msgctxt "MATERIAL_TEMPLATE:FAT_TEMPLATE"
 msgid "[STATE_NAME:LIQUID:grease]"
-msgstr ""
+msgstr "[STATE_NAME:LIQUID:Schmalz]"
 
 #: material_template_default.txt:213
 msgctxt "MATERIAL_TEMPLATE:FAT_TEMPLATE"
 msgid "[STATE_ADJ:LIQUID:greasy]"
-msgstr ""
+msgstr "[STATE_ADJ:LIQUID:schmalzig]"
 
 #: material_template_default.txt:215
 msgctxt "MATERIAL_TEMPLATE:FAT_TEMPLATE"
@@ -43842,12 +43846,12 @@ msgstr "[STATE_ADJ:GAS:k. A.]"
 #: material_template_default.txt:260
 msgctxt "MATERIAL_TEMPLATE:MUSCLE_TEMPLATE"
 msgid "[STATE_NAME:ALL_SOLID:muscle]"
-msgstr ""
+msgstr "[STATE_NAME:ALL_SOLID:Muskel]"
 
 #: material_template_default.txt:261
 msgctxt "MATERIAL_TEMPLATE:MUSCLE_TEMPLATE"
 msgid "[STATE_ADJ:ALL_SOLID:muscle]"
-msgstr ""
+msgstr "[STATE_ADJ:ALL_SOLID:muskolös]"
 
 #: material_template_default.txt:263
 msgctxt "MATERIAL_TEMPLATE:MUSCLE_TEMPLATE"
@@ -43877,12 +43881,12 @@ msgstr "[MEAT_NAME:NONE:Fleisch:Fleisch]"
 #: material_template_default.txt:313
 msgctxt "MATERIAL_TEMPLATE:SINEW_TEMPLATE"
 msgid "[STATE_NAME:ALL_SOLID:sinew]"
-msgstr ""
+msgstr "[STATE_NAME:ALL_SOLID:Sehne]"
 
 #: material_template_default.txt:314
 msgctxt "MATERIAL_TEMPLATE:SINEW_TEMPLATE"
 msgid "[STATE_ADJ:ALL_SOLID:sinew]"
-msgstr ""
+msgstr "[STATE_ADJ:ALL_SOLID:sehnig]"
 
 #: material_template_default.txt:316
 msgctxt "MATERIAL_TEMPLATE:SINEW_TEMPLATE"
@@ -43907,22 +43911,22 @@ msgstr "[STATE_ADJ:GAS:k. A.]"
 #: material_template_default.txt:358
 msgctxt "MATERIAL_TEMPLATE:BONE_TEMPLATE"
 msgid "[STATE_NAME:SOLID:bone]"
-msgstr ""
+msgstr "[STATE_NAME:SOLID:Knochen]"
 
 #: material_template_default.txt:359
 msgctxt "MATERIAL_TEMPLATE:BONE_TEMPLATE"
 msgid "[STATE_ADJ:SOLID:bone]"
-msgstr ""
+msgstr "[STATE_ADJ:SOLID:knöchern]"
 
 #: material_template_default.txt:360
 msgctxt "MATERIAL_TEMPLATE:BONE_TEMPLATE"
 msgid "[STATE_NAME:POWDER:bone meal]"
-msgstr ""
+msgstr "[STATE_NAME:POWDER:Knochenmehl]"
 
 #: material_template_default.txt:361
 msgctxt "MATERIAL_TEMPLATE:BONE_TEMPLATE"
 msgid "[STATE_ADJ:POWDER:bone meal]"
-msgstr ""
+msgstr "[STATE_ADJ:POWDER:Knochenmehl]"
 
 #: material_template_default.txt:363
 msgctxt "MATERIAL_TEMPLATE:BONE_TEMPLATE"
@@ -43947,12 +43951,12 @@ msgstr "[STATE_ADJ:GAS:k. A.]"
 #: material_template_default.txt:407
 msgctxt "MATERIAL_TEMPLATE:CARTILAGE_TEMPLATE"
 msgid "[STATE_NAME:ALL_SOLID:cartilage]"
-msgstr ""
+msgstr "[STATE_NAME:ALL_SOLID:Knorpel]"
 
 #: material_template_default.txt:408
 msgctxt "MATERIAL_TEMPLATE:CARTILAGE_TEMPLATE"
 msgid "[STATE_ADJ:ALL_SOLID:cartilaginous]"
-msgstr ""
+msgstr "[STATE_ADJ:ALL_SOLID:knorpelig]"
 
 #: material_template_default.txt:410
 msgctxt "MATERIAL_TEMPLATE:CARTILAGE_TEMPLATE"
@@ -43977,12 +43981,12 @@ msgstr "[STATE_ADJ:GAS:k. A.]"
 #: material_template_default.txt:452
 msgctxt "MATERIAL_TEMPLATE:HAIR_TEMPLATE"
 msgid "[STATE_NAME:ALL_SOLID:hair]"
-msgstr ""
+msgstr "[STATE_NAME:ALL_SOLID:Haar]"
 
 #: material_template_default.txt:453
 msgctxt "MATERIAL_TEMPLATE:HAIR_TEMPLATE"
 msgid "[STATE_ADJ:ALL_SOLID:hair]"
-msgstr ""
+msgstr "[STATE_ADJ:ALL_SOLID:haarig]"
 
 #: material_template_default.txt:455
 msgctxt "MATERIAL_TEMPLATE:HAIR_TEMPLATE"
@@ -44007,12 +44011,12 @@ msgstr "[STATE_ADJ:GAS:k. A.]"
 #: material_template_default.txt:498
 msgctxt "MATERIAL_TEMPLATE:FEATHER_TEMPLATE"
 msgid "[STATE_NAME:ALL_SOLID:feather]"
-msgstr ""
+msgstr "[STATE_NAME:ALL_SOLID:Feder]"
 
 #: material_template_default.txt:499
 msgctxt "MATERIAL_TEMPLATE:FEATHER_TEMPLATE"
 msgid "[STATE_ADJ:ALL_SOLID:feather]"
-msgstr ""
+msgstr "[STATE_ADJ:ALL_SOLID:Feder]"
 
 #: material_template_default.txt:501
 msgctxt "MATERIAL_TEMPLATE:FEATHER_TEMPLATE"
@@ -44037,12 +44041,12 @@ msgstr "[STATE_ADJ:GAS:k. A.]"
 #: material_template_default.txt:543
 msgctxt "MATERIAL_TEMPLATE:SCALE_TEMPLATE"
 msgid "[STATE_NAME:ALL_SOLID:scale]"
-msgstr ""
+msgstr "[STATE_NAME:ALL_SOLID:Schuppe]"
 
 #: material_template_default.txt:544
 msgctxt "MATERIAL_TEMPLATE:SCALE_TEMPLATE"
 msgid "[STATE_ADJ:ALL_SOLID:scale]"
-msgstr ""
+msgstr "[STATE_ADJ:ALL_SOLID:schuppig]"
 
 #: material_template_default.txt:546
 msgctxt "MATERIAL_TEMPLATE:SCALE_TEMPLATE"
@@ -44067,12 +44071,12 @@ msgstr "[STATE_ADJ:GAS:k. A.]"
 #: material_template_default.txt:588
 msgctxt "MATERIAL_TEMPLATE:NAIL_TEMPLATE"
 msgid "[STATE_NAME:ALL_SOLID:nail]"
-msgstr ""
+msgstr "[STATE_NAME:ALL_SOLID:Nagel]"
 
 #: material_template_default.txt:589
 msgctxt "MATERIAL_TEMPLATE:NAIL_TEMPLATE"
 msgid "[STATE_ADJ:ALL_SOLID:nail]"
-msgstr ""
+msgstr "[STATE_ADJ:ALL_SOLID:Nagel]"
 
 #: material_template_default.txt:591
 msgctxt "MATERIAL_TEMPLATE:NAIL_TEMPLATE"
@@ -44097,12 +44101,12 @@ msgstr "[STATE_ADJ:GAS:k. A.]"
 #: material_template_default.txt:633
 msgctxt "MATERIAL_TEMPLATE:TOOTH_TEMPLATE"
 msgid "[STATE_NAME:ALL_SOLID:tooth]"
-msgstr ""
+msgstr "[STATE_NAME:ALL_SOLID:Zahn]"
 
 #: material_template_default.txt:634
 msgctxt "MATERIAL_TEMPLATE:TOOTH_TEMPLATE"
 msgid "[STATE_ADJ:ALL_SOLID:tooth]"
-msgstr ""
+msgstr "[STATE_ADJ:ALL_SOLID:Zahn]"
 
 #: material_template_default.txt:636
 msgctxt "MATERIAL_TEMPLATE:TOOTH_TEMPLATE"
@@ -44127,12 +44131,12 @@ msgstr "[STATE_ADJ:GAS:k. A.]"
 #: material_template_default.txt:679
 msgctxt "MATERIAL_TEMPLATE:EYE_TEMPLATE"
 msgid "[STATE_NAME:ALL_SOLID:eye tissue]"
-msgstr ""
+msgstr "[STATE_NAME:ALL_SOLID:Augengewebe]"
 
 #: material_template_default.txt:680
 msgctxt "MATERIAL_TEMPLATE:EYE_TEMPLATE"
 msgid "[STATE_ADJ:ALL_SOLID:eye tissue]"
-msgstr ""
+msgstr "[STATE_ADJ:ALL_SOLID:Augengewebe]"
 
 #: material_template_default.txt:682
 msgctxt "MATERIAL_TEMPLATE:EYE_TEMPLATE"
@@ -44162,12 +44166,12 @@ msgstr "[MEAT_NAME:vorbereitet:Auge:Auge]"
 #: material_template_default.txt:730
 msgctxt "MATERIAL_TEMPLATE:NERVE_TEMPLATE"
 msgid "[STATE_NAME:ALL_SOLID:nervous tissue]"
-msgstr ""
+msgstr "[STATE_NAME:ALL_SOLID:Nervengewebe]"
 
 #: material_template_default.txt:731
 msgctxt "MATERIAL_TEMPLATE:NERVE_TEMPLATE"
 msgid "[STATE_ADJ:ALL_SOLID:nervous tissue]"
-msgstr ""
+msgstr "[STATE_ADJ:ALL_SOLID:Nervengewebe]"
 
 #: material_template_default.txt:733
 msgctxt "MATERIAL_TEMPLATE:NERVE_TEMPLATE"
@@ -44192,12 +44196,12 @@ msgstr "[STATE_ADJ:GAS:k. A.]"
 #: material_template_default.txt:776
 msgctxt "MATERIAL_TEMPLATE:BRAIN_TEMPLATE"
 msgid "[STATE_NAME:ALL_SOLID:brain]"
-msgstr ""
+msgstr "[STATE_NAME:ALL_SOLID:Gehirn]"
 
 #: material_template_default.txt:777
 msgctxt "MATERIAL_TEMPLATE:BRAIN_TEMPLATE"
 msgid "[STATE_ADJ:ALL_SOLID:brain]"
-msgstr ""
+msgstr "[STATE_ADJ:ALL_SOLID:Gehirn]"
 
 #: material_template_default.txt:779
 msgctxt "MATERIAL_TEMPLATE:BRAIN_TEMPLATE"
@@ -44227,12 +44231,12 @@ msgstr "[MEAT_NAME:vorbereitet:Gehirn:Gehirn]"
 #: material_template_default.txt:828
 msgctxt "MATERIAL_TEMPLATE:LUNG_TEMPLATE"
 msgid "[STATE_NAME:ALL_SOLID:lung tissue]"
-msgstr ""
+msgstr "[STATE_NAME:ALL_SOLID:Lungengewebe]"
 
 #: material_template_default.txt:829
 msgctxt "MATERIAL_TEMPLATE:LUNG_TEMPLATE"
 msgid "[STATE_ADJ:ALL_SOLID:lung tissue]"
-msgstr ""
+msgstr "[STATE_ADJ:ALL_SOLID:Lungengewebe]"
 
 #: material_template_default.txt:831
 msgctxt "MATERIAL_TEMPLATE:LUNG_TEMPLATE"
@@ -44262,12 +44266,12 @@ msgstr "[MEAT_NAME:vorbereitet:Lunge:Lunge]"
 #: material_template_default.txt:880
 msgctxt "MATERIAL_TEMPLATE:HEART_TEMPLATE"
 msgid "[STATE_NAME:ALL_SOLID:heart tissue]"
-msgstr ""
+msgstr "[STATE_NAME:ALL_SOLID:Herzgewebe]"
 
 #: material_template_default.txt:881
 msgctxt "MATERIAL_TEMPLATE:HEART_TEMPLATE"
 msgid "[STATE_ADJ:ALL_SOLID:heart tissue]"
-msgstr ""
+msgstr "[STATE_ADJ:ALL_SOLID:Herzgewebe]"
 
 #: material_template_default.txt:883
 msgctxt "MATERIAL_TEMPLATE:HEART_TEMPLATE"
@@ -44297,12 +44301,12 @@ msgstr "[MEAT_NAME:vorbereitet:Herz:Herz]"
 #: material_template_default.txt:932
 msgctxt "MATERIAL_TEMPLATE:LIVER_TEMPLATE"
 msgid "[STATE_NAME:ALL_SOLID:liver tissue]"
-msgstr ""
+msgstr "[STATE_NAME:ALL_SOLID:Lebergewebe]"
 
 #: material_template_default.txt:933
 msgctxt "MATERIAL_TEMPLATE:LIVER_TEMPLATE"
 msgid "[STATE_ADJ:ALL_SOLID:liver tissue]"
-msgstr ""
+msgstr "[STATE_ADJ:ALL_SOLID:Lebergewebe]"
 
 #: material_template_default.txt:935
 msgctxt "MATERIAL_TEMPLATE:LIVER_TEMPLATE"
@@ -44332,12 +44336,12 @@ msgstr "[MEAT_NAME:zerkleinert:Leber:Leber]"
 #: material_template_default.txt:984
 msgctxt "MATERIAL_TEMPLATE:GUT_TEMPLATE"
 msgid "[STATE_NAME:ALL_SOLID:gut]"
-msgstr ""
+msgstr "[STATE_NAME:ALL_SOLID:Darm]"
 
 #: material_template_default.txt:985
 msgctxt "MATERIAL_TEMPLATE:GUT_TEMPLATE"
 msgid "[STATE_ADJ:ALL_SOLID:gut]"
-msgstr ""
+msgstr "[STATE_ADJ:ALL_SOLID:Darm]"
 
 #: material_template_default.txt:987
 msgctxt "MATERIAL_TEMPLATE:GUT_TEMPLATE"
@@ -44367,12 +44371,12 @@ msgstr "[MEAT_NAME:vorbereitet:Eingeweide:Eingeweide]"
 #: material_template_default.txt:1036
 msgctxt "MATERIAL_TEMPLATE:STOMACH_TEMPLATE"
 msgid "[STATE_NAME:ALL_SOLID:stomach tissue]"
-msgstr ""
+msgstr "[STATE_NAME:ALL_SOLID:Magengewebe]"
 
 #: material_template_default.txt:1037
 msgctxt "MATERIAL_TEMPLATE:STOMACH_TEMPLATE"
 msgid "[STATE_ADJ:ALL_SOLID:stomach tissue]"
-msgstr ""
+msgstr "[STATE_ADJ:ALL_SOLID:Magengewebe]"
 
 #: material_template_default.txt:1039
 msgctxt "MATERIAL_TEMPLATE:STOMACH_TEMPLATE"
@@ -44402,12 +44406,12 @@ msgstr "[MEAT_NAME:NONE:Kutteln:Kutteln]"
 #: material_template_default.txt:1088
 msgctxt "MATERIAL_TEMPLATE:GIZZARD_TEMPLATE"
 msgid "[STATE_NAME:ALL_SOLID:gizzard tissue]"
-msgstr ""
+msgstr "[STATE_NAME:ALL_SOLID: Muskelmagengewebe]"
 
 #: material_template_default.txt:1089
 msgctxt "MATERIAL_TEMPLATE:GIZZARD_TEMPLATE"
 msgid "[STATE_ADJ:ALL_SOLID:gizzard tissue]"
-msgstr ""
+msgstr "[STATE_ADJ:ALL_SOLID: Muskelmagengewebe]"
 
 #: material_template_default.txt:1091
 msgctxt "MATERIAL_TEMPLATE:GIZZARD_TEMPLATE"
@@ -44437,12 +44441,12 @@ msgstr "[MEAT_NAME:vorbereitet:Muskelmagen:Muskelmagen]"
 #: material_template_default.txt:1140
 msgctxt "MATERIAL_TEMPLATE:PANCREAS_TEMPLATE"
 msgid "[STATE_NAME:ALL_SOLID:pancreatic tissue]"
-msgstr ""
+msgstr "[STATE_NAME:ALL_SOLID:Pankreasgewebe]"
 
 #: material_template_default.txt:1141
 msgctxt "MATERIAL_TEMPLATE:PANCREAS_TEMPLATE"
 msgid "[STATE_ADJ:ALL_SOLID:pancreatic tissue]"
-msgstr ""
+msgstr "[STATE_ADJ:ALL_SOLID:Pankreasgewebe]"
 
 #: material_template_default.txt:1143
 msgctxt "MATERIAL_TEMPLATE:PANCREAS_TEMPLATE"
@@ -44472,12 +44476,12 @@ msgstr "[MEAT_NAME:NONE:Kalbsbries:Kalbsbries]"
 #: material_template_default.txt:1192
 msgctxt "MATERIAL_TEMPLATE:SPLEEN_TEMPLATE"
 msgid "[STATE_NAME:ALL_SOLID:spleen tissue]"
-msgstr ""
+msgstr "[STATE_NAME:ALL_SOLID:Milzgewebe]"
 
 #: material_template_default.txt:1193
 msgctxt "MATERIAL_TEMPLATE:SPLEEN_TEMPLATE"
 msgid "[STATE_ADJ:ALL_SOLID:spleen tissue]"
-msgstr ""
+msgstr "[STATE_ADJ:ALL_SOLID:Milzgewebe]"
 
 #: material_template_default.txt:1195
 msgctxt "MATERIAL_TEMPLATE:SPLEEN_TEMPLATE"
@@ -44507,12 +44511,12 @@ msgstr "[MEAT_NAME:vorbereitet:Milz:Milz]"
 #: material_template_default.txt:1244
 msgctxt "MATERIAL_TEMPLATE:KIDNEY_TEMPLATE"
 msgid "[STATE_NAME:ALL_SOLID:kidney tissue]"
-msgstr ""
+msgstr "[STATE_NAME:ALL_SOLID:Nierengewebe]"
 
 #: material_template_default.txt:1245
 msgctxt "MATERIAL_TEMPLATE:KIDNEY_TEMPLATE"
 msgid "[STATE_ADJ:ALL_SOLID:kidney tissue]"
-msgstr ""
+msgstr "[STATE_ADJ:ALL_SOLID:Nierengewebe]"
 
 #: material_template_default.txt:1247
 msgctxt "MATERIAL_TEMPLATE:KIDNEY_TEMPLATE"
@@ -44542,12 +44546,12 @@ msgstr "[MEAT_NAME:vorbereitet:Niere:Niere]"
 #: material_template_default.txt:1296
 msgctxt "MATERIAL_TEMPLATE:LEATHER_TEMPLATE"
 msgid "[STATE_NAME:ALL_SOLID:leather]"
-msgstr ""
+msgstr "[STATE_NAME:ALL_SOLID:Leder]"
 
 #: material_template_default.txt:1297
 msgctxt "MATERIAL_TEMPLATE:LEATHER_TEMPLATE"
 msgid "[STATE_ADJ:ALL_SOLID:leather]"
-msgstr ""
+msgstr "[STATE_ADJ:ALL_SOLID:ledrig]"
 
 #: material_template_default.txt:1299
 msgctxt "MATERIAL_TEMPLATE:LEATHER_TEMPLATE"
@@ -44572,12 +44576,12 @@ msgstr "[STATE_ADJ:GAS:k. A.]"
 #: material_template_default.txt:1342
 msgctxt "MATERIAL_TEMPLATE:PARCHMENT_TEMPLATE"
 msgid "[STATE_NAME:ALL_SOLID:parchment]"
-msgstr ""
+msgstr "[STATE_NAME:ALL_SOLID:Pergament]"
 
 #: material_template_default.txt:1343
 msgctxt "MATERIAL_TEMPLATE:PARCHMENT_TEMPLATE"
 msgid "[STATE_ADJ:ALL_SOLID:parchment]"
-msgstr ""
+msgstr "[STATE_ADJ:ALL_SOLID:Pergament]"
 
 #: material_template_default.txt:1345
 msgctxt "MATERIAL_TEMPLATE:PARCHMENT_TEMPLATE"
@@ -44602,12 +44606,12 @@ msgstr "[STATE_ADJ:GAS:k. A.]"
 #: material_template_default.txt:1387
 msgctxt "MATERIAL_TEMPLATE:HORN_TEMPLATE"
 msgid "[STATE_NAME:ALL_SOLID:horn]"
-msgstr ""
+msgstr "[STATE_NAME:ALL_SOLID:Horn]"
 
 #: material_template_default.txt:1388
 msgctxt "MATERIAL_TEMPLATE:HORN_TEMPLATE"
 msgid "[STATE_ADJ:ALL_SOLID:horn]"
-msgstr ""
+msgstr "[STATE_ADJ:ALL_SOLID:Horn]"
 
 #: material_template_default.txt:1390
 msgctxt "MATERIAL_TEMPLATE:HORN_TEMPLATE"
@@ -44632,12 +44636,12 @@ msgstr "[STATE_ADJ:GAS:k. A.]"
 #: material_template_default.txt:1433
 msgctxt "MATERIAL_TEMPLATE:HOOF_TEMPLATE"
 msgid "[STATE_NAME:ALL_SOLID:hoof]"
-msgstr ""
+msgstr "[STATE_NAME:ALL_SOLID:Huf]"
 
 #: material_template_default.txt:1434
 msgctxt "MATERIAL_TEMPLATE:HOOF_TEMPLATE"
 msgid "[STATE_ADJ:ALL_SOLID:hoof]"
-msgstr ""
+msgstr "[STATE_ADJ:ALL_SOLID:Huf]"
 
 #: material_template_default.txt:1436
 msgctxt "MATERIAL_TEMPLATE:HOOF_TEMPLATE"
@@ -44662,12 +44666,12 @@ msgstr "[STATE_ADJ:GAS:k. A.]"
 #: material_template_default.txt:1480
 msgctxt "MATERIAL_TEMPLATE:PEARL_TEMPLATE"
 msgid "[STATE_NAME:ALL_SOLID:pearl]"
-msgstr ""
+msgstr "[STATE_NAME:ALL_SOLID:Perle]"
 
 #: material_template_default.txt:1481
 msgctxt "MATERIAL_TEMPLATE:PEARL_TEMPLATE"
 msgid "[STATE_ADJ:ALL_SOLID:pearl]"
-msgstr ""
+msgstr "[STATE_ADJ:ALL_SOLID:Perle]"
 
 #: material_template_default.txt:1483
 msgctxt "MATERIAL_TEMPLATE:PEARL_TEMPLATE"
@@ -44692,12 +44696,12 @@ msgstr "[STATE_ADJ:GAS:k. A.]"
 #: material_template_default.txt:1525
 msgctxt "MATERIAL_TEMPLATE:SILK_TEMPLATE"
 msgid "[STATE_NAME:ALL_SOLID:silk]"
-msgstr ""
+msgstr "[STATE_NAME:ALL_SOLID:Seide]"
 
 #: material_template_default.txt:1526
 msgctxt "MATERIAL_TEMPLATE:SILK_TEMPLATE"
 msgid "[STATE_ADJ:ALL_SOLID:silk]"
-msgstr ""
+msgstr "[STATE_ADJ:ALL_SOLID:Seide]"
 
 #: material_template_default.txt:1528
 msgctxt "MATERIAL_TEMPLATE:SILK_TEMPLATE"
@@ -44722,162 +44726,162 @@ msgstr "[STATE_ADJ:GAS:k. A.]"
 #: material_template_default.txt:1570
 msgctxt "MATERIAL_TEMPLATE:BLOOD_TEMPLATE"
 msgid "[STATE_NAME:ALL_SOLID:frozen blood]"
-msgstr ""
+msgstr "[STATE_NAME:ALL_SOLID:gefrorenes Blut]"
 
 #: material_template_default.txt:1571
 msgctxt "MATERIAL_TEMPLATE:BLOOD_TEMPLATE"
 msgid "[STATE_ADJ:ALL_SOLID:frozen blood]"
-msgstr ""
+msgstr "[STATE_ADJ:ALL_SOLID:gefrorenes Blut]"
 
 #: material_template_default.txt:1573
 msgctxt "MATERIAL_TEMPLATE:BLOOD_TEMPLATE"
 msgid "[STATE_NAME:LIQUID:blood]"
-msgstr ""
+msgstr "[STATE_NAME:LIQUID:Blut]"
 
 #: material_template_default.txt:1574
 msgctxt "MATERIAL_TEMPLATE:BLOOD_TEMPLATE"
 msgid "[STATE_ADJ:LIQUID:blood]"
-msgstr ""
+msgstr "[STATE_ADJ:LIQUID:Blut]"
 
 #: material_template_default.txt:1576
 msgctxt "MATERIAL_TEMPLATE:BLOOD_TEMPLATE"
 msgid "[STATE_NAME:GAS:boiling blood]"
-msgstr ""
+msgstr "[STATE_NAME:GAS:kochendes Blut]"
 
 #: material_template_default.txt:1577
 msgctxt "MATERIAL_TEMPLATE:BLOOD_TEMPLATE"
 msgid "[STATE_ADJ:GAS:boiling blood]"
-msgstr ""
+msgstr "[STATE_ADJ:GAS:kochendes Blut]"
 
 #: material_template_default.txt:1616
 msgctxt "MATERIAL_TEMPLATE:ICHOR_TEMPLATE"
 msgid "[STATE_NAME:ALL_SOLID:frozen ichor]"
-msgstr ""
+msgstr "[STATE_NAME:ALL_SOLID:gefrorenes Sekret]"
 
 #: material_template_default.txt:1617
 msgctxt "MATERIAL_TEMPLATE:ICHOR_TEMPLATE"
 msgid "[STATE_ADJ:ALL_SOLID:frozen ichor]"
-msgstr ""
+msgstr "[STATE_ADJ:ALL_SOLID:gefrorenes Sekret]"
 
 #: material_template_default.txt:1619
 msgctxt "MATERIAL_TEMPLATE:ICHOR_TEMPLATE"
 msgid "[STATE_NAME:LIQUID:ichor]"
-msgstr ""
+msgstr "[STATE_NAME:LIQUID:Sekret]"
 
 #: material_template_default.txt:1620
 msgctxt "MATERIAL_TEMPLATE:ICHOR_TEMPLATE"
 msgid "[STATE_ADJ:LIQUID:ichor]"
-msgstr ""
+msgstr "[STATE_ADJ:LIQUID:Sekret]"
 
 #: material_template_default.txt:1622
 msgctxt "MATERIAL_TEMPLATE:ICHOR_TEMPLATE"
 msgid "[STATE_NAME:GAS:boiling ichor]"
-msgstr ""
+msgstr "[STATE_NAME:GAS:kochendes Sekret]"
 
 #: material_template_default.txt:1623
 msgctxt "MATERIAL_TEMPLATE:ICHOR_TEMPLATE"
 msgid "[STATE_ADJ:GAS:boiling ichor]"
-msgstr ""
+msgstr "[STATE_ADJ:GAS:kochendes Sekret]"
 
 #: material_template_default.txt:1662
 msgctxt "MATERIAL_TEMPLATE:GOO_TEMPLATE"
 msgid "[STATE_NAME:ALL_SOLID:frozen goo]"
-msgstr ""
+msgstr "[STATE_NAME:ALL_SOLID:gefrorene Schmiere]"
 
 #: material_template_default.txt:1663
 msgctxt "MATERIAL_TEMPLATE:GOO_TEMPLATE"
 msgid "[STATE_ADJ:ALL_SOLID:frozen goo]"
-msgstr ""
+msgstr "[STATE_ADJ:ALL_SOLID:gefrorene Schmiere]"
 
 #: material_template_default.txt:1665
 msgctxt "MATERIAL_TEMPLATE:GOO_TEMPLATE"
 msgid "[STATE_NAME:LIQUID:goo]"
-msgstr ""
+msgstr "[STATE_NAME:LIQUID:Schmiere]"
 
 #: material_template_default.txt:1666
 msgctxt "MATERIAL_TEMPLATE:GOO_TEMPLATE"
 msgid "[STATE_ADJ:LIQUID:goo]"
-msgstr ""
+msgstr "[STATE_ADJ:LIQUID:Schmiere]"
 
 #: material_template_default.txt:1668
 msgctxt "MATERIAL_TEMPLATE:GOO_TEMPLATE"
 msgid "[STATE_NAME:GAS:boiling goo]"
-msgstr ""
+msgstr "[STATE_NAME:GAS:kochende Schmiere]"
 
 #: material_template_default.txt:1669
 msgctxt "MATERIAL_TEMPLATE:GOO_TEMPLATE"
 msgid "[STATE_ADJ:GAS:boiling goo]"
-msgstr ""
+msgstr "[STATE_ADJ:GAS:kochende Schmiere]"
 
 #: material_template_default.txt:1708
 msgctxt "MATERIAL_TEMPLATE:SLIME_TEMPLATE"
 msgid "[STATE_NAME:ALL_SOLID:frozen slime]"
-msgstr ""
+msgstr "[STATE_NAME:ALL_SOLID:gefrorener Schleim]"
 
 #: material_template_default.txt:1709
 msgctxt "MATERIAL_TEMPLATE:SLIME_TEMPLATE"
 msgid "[STATE_ADJ:ALL_SOLID:frozen slime]"
-msgstr ""
+msgstr "[STATE_ADJ:ALL_SOLID:gefrorener Schleim]"
 
 #: material_template_default.txt:1711
 msgctxt "MATERIAL_TEMPLATE:SLIME_TEMPLATE"
 msgid "[STATE_NAME:LIQUID:slime]"
-msgstr ""
+msgstr "[STATE_NAME:LIQUID:Schleim]"
 
 #: material_template_default.txt:1712
 msgctxt "MATERIAL_TEMPLATE:SLIME_TEMPLATE"
 msgid "[STATE_ADJ:LIQUID:slime]"
-msgstr ""
+msgstr "[STATE_ADJ:LIQUID:Schleim]"
 
 #: material_template_default.txt:1714
 msgctxt "MATERIAL_TEMPLATE:SLIME_TEMPLATE"
 msgid "[STATE_NAME:GAS:boiling slime]"
-msgstr ""
+msgstr "[STATE_NAME:GAS:kochender Schleim]"
 
 #: material_template_default.txt:1715
 msgctxt "MATERIAL_TEMPLATE:SLIME_TEMPLATE"
 msgid "[STATE_ADJ:GAS:boiling slime]"
-msgstr ""
+msgstr "[STATE_ADJ:GAS:kochender Schleim]"
 
 #: material_template_default.txt:1753
 msgctxt "MATERIAL_TEMPLATE:PUS_TEMPLATE"
 msgid "[STATE_NAME:ALL_SOLID:frozen pus]"
-msgstr ""
+msgstr "[STATE_NAME:ALL_SOLID:gefrorener Eiter]"
 
 #: material_template_default.txt:1754
 msgctxt "MATERIAL_TEMPLATE:PUS_TEMPLATE"
 msgid "[STATE_ADJ:ALL_SOLID:frozen pus]"
-msgstr ""
+msgstr "[STATE_ADJ:ALL_SOLID:gefrorener Eiter]"
 
 #: material_template_default.txt:1756
 msgctxt "MATERIAL_TEMPLATE:PUS_TEMPLATE"
 msgid "[STATE_NAME:LIQUID:pus]"
-msgstr ""
+msgstr "[STATE_NAME:LIQUID:Eiter]"
 
 #: material_template_default.txt:1757
 msgctxt "MATERIAL_TEMPLATE:PUS_TEMPLATE"
 msgid "[STATE_ADJ:LIQUID:pus]"
-msgstr ""
+msgstr "[STATE_ADJ:LIQUID:Eiter]"
 
 #: material_template_default.txt:1759
 msgctxt "MATERIAL_TEMPLATE:PUS_TEMPLATE"
 msgid "[STATE_NAME:GAS:boiling pus]"
-msgstr ""
+msgstr "[STATE_NAME:GAS:kochender Eiter]"
 
 #: material_template_default.txt:1760
 msgctxt "MATERIAL_TEMPLATE:PUS_TEMPLATE"
 msgid "[STATE_ADJ:GAS:boiling pus]"
-msgstr ""
+msgstr "[STATE_ADJ:GAS:kochender Eiter]"
 
 #: material_template_default.txt:1799
 msgctxt "MATERIAL_TEMPLATE:SHELL_TEMPLATE"
 msgid "[STATE_NAME:ALL_SOLID:shell]"
-msgstr ""
+msgstr "[STATE_NAME:ALL_SOLID:Schale]"
 
 #: material_template_default.txt:1800
 msgctxt "MATERIAL_TEMPLATE:SHELL_TEMPLATE"
 msgid "[STATE_ADJ:ALL_SOLID:shell]"
-msgstr ""
+msgstr "[STATE_ADJ:ALL_SOLID:Schale]"
 
 #: material_template_default.txt:1802
 msgctxt "MATERIAL_TEMPLATE:SHELL_TEMPLATE"
@@ -44997,17 +45001,17 @@ msgstr "[STATE_NAME:ALL_SOLID:gefrorene Milch]"
 #: material_template_default.txt:1988
 msgctxt "MATERIAL_TEMPLATE:MILK_TEMPLATE"
 msgid "[STATE_ADJ:ALL_SOLID:frozen milky]"
-msgstr ""
+msgstr "[STATE_ADJ:ALL_SOLID:milchig gefroren]"
 
 #: material_template_default.txt:1990
 msgctxt "MATERIAL_TEMPLATE:MILK_TEMPLATE"
 msgid "[STATE_NAME:LIQUID:milk]"
-msgstr ""
+msgstr "[STATE_NAME:LIQUID:Milch]"
 
 #: material_template_default.txt:1991
 msgctxt "MATERIAL_TEMPLATE:MILK_TEMPLATE"
 msgid "[STATE_ADJ:LIQUID:milky]"
-msgstr ""
+msgstr "[STATE_ADJ:LIQUID:milchig]"
 
 #: material_template_default.txt:1993
 msgctxt "MATERIAL_TEMPLATE:MILK_TEMPLATE"
@@ -45022,22 +45026,22 @@ msgstr "[STATE_ADJ:GAS:k. A.]"
 #: material_template_default.txt:2038
 msgctxt "MATERIAL_TEMPLATE:CREATURE_CHEESE_TEMPLATE"
 msgid "[STATE_NAME:ALL_SOLID:cheese]"
-msgstr ""
+msgstr "[STATE_NAME:ALL_SOLID:Käse]"
 
 #: material_template_default.txt:2039
 msgctxt "MATERIAL_TEMPLATE:CREATURE_CHEESE_TEMPLATE"
 msgid "[STATE_ADJ:ALL_SOLID:cheesy]"
-msgstr ""
+msgstr "[STATE_ADJ:ALL_SOLID:käsig]"
 
 #: material_template_default.txt:2041
 msgctxt "MATERIAL_TEMPLATE:CREATURE_CHEESE_TEMPLATE"
 msgid "[STATE_NAME:LIQUID:melted cheese]"
-msgstr ""
+msgstr "[STATE_NAME:LIQUID:geschmolzener Käse]"
 
 #: material_template_default.txt:2042
 msgctxt "MATERIAL_TEMPLATE:CREATURE_CHEESE_TEMPLATE"
 msgid "[STATE_ADJ:LIQUID:melted cheesy]"
-msgstr ""
+msgstr "[STATE_ADJ:LIQUID:käsig geschmolzen]"
 
 #: material_template_default.txt:2044
 msgctxt "MATERIAL_TEMPLATE:CREATURE_CHEESE_TEMPLATE"
@@ -45052,367 +45056,367 @@ msgstr "[STATE_ADJ:GAS:k. A.]"
 #: material_template_default.txt:2088
 msgctxt "MATERIAL_TEMPLATE:STRUCTURAL_PLANT_TEMPLATE"
 msgid "[STATE_NAME:ALL_SOLID:plant]"
-msgstr ""
+msgstr "[STATE_NAME:ALL_SOLID:Pflanze]"
 
 #: material_template_default.txt:2089
 msgctxt "MATERIAL_TEMPLATE:STRUCTURAL_PLANT_TEMPLATE"
 msgid "[STATE_ADJ:ALL_SOLID:plant]"
-msgstr ""
+msgstr "[STATE_ADJ:ALL_SOLID:Pflanze]"
 
 #: material_template_default.txt:2091
 msgctxt "MATERIAL_TEMPLATE:STRUCTURAL_PLANT_TEMPLATE"
 msgid "[STATE_NAME:LIQUID:none]"
-msgstr ""
+msgstr "[STATE_NAME:LIQUIDkeine]"
 
 #: material_template_default.txt:2092
 msgctxt "MATERIAL_TEMPLATE:STRUCTURAL_PLANT_TEMPLATE"
 msgid "[STATE_ADJ:LIQUID:none]"
-msgstr ""
+msgstr "[STATE_ADJ:LIQUID:nichts]"
 
 #: material_template_default.txt:2094
 msgctxt "MATERIAL_TEMPLATE:STRUCTURAL_PLANT_TEMPLATE"
 msgid "[STATE_NAME:GAS:none]"
-msgstr ""
+msgstr "[STATE_NAME:GAS:nichts]"
 
 #: material_template_default.txt:2095
 msgctxt "MATERIAL_TEMPLATE:STRUCTURAL_PLANT_TEMPLATE"
 msgid "[STATE_ADJ:GAS:none]"
-msgstr ""
+msgstr "[STATE_ADJ:GAS:nichts]"
 
 #: material_template_default.txt:2133
 msgctxt "MATERIAL_TEMPLATE:SEED_TEMPLATE"
 msgid "[STATE_NAME:ALL_SOLID:seed]"
-msgstr ""
+msgstr "[STATE_NAME:ALL_SOLID:Samen]"
 
 #: material_template_default.txt:2134
 msgctxt "MATERIAL_TEMPLATE:SEED_TEMPLATE"
 msgid "[STATE_ADJ:ALL_SOLID:seed]"
-msgstr ""
+msgstr "[STATE_ADJ:ALL_SOLID:Samen]"
 
 #: material_template_default.txt:2136
 msgctxt "MATERIAL_TEMPLATE:SEED_TEMPLATE"
 msgid "[STATE_NAME:LIQUID:none]"
-msgstr ""
+msgstr "[STATE_NAME:LIQUID:nichts]"
 
 #: material_template_default.txt:2137
 msgctxt "MATERIAL_TEMPLATE:SEED_TEMPLATE"
 msgid "[STATE_ADJ:LIQUID:none]"
-msgstr ""
+msgstr "[STATE_ADJ:LIQUID:nichts]"
 
 #: material_template_default.txt:2139
 msgctxt "MATERIAL_TEMPLATE:SEED_TEMPLATE"
 msgid "[STATE_NAME:GAS:none]"
-msgstr ""
+msgstr "[STATE_NAME:GAS:nichts]"
 
 #: material_template_default.txt:2140
 msgctxt "MATERIAL_TEMPLATE:SEED_TEMPLATE"
 msgid "[STATE_ADJ:GAS:none]"
-msgstr ""
+msgstr "[STATE_ADJ:GAS:nichts]"
 
 #: material_template_default.txt:2178
 msgctxt "MATERIAL_TEMPLATE:LEAF_TEMPLATE"
 msgid "[STATE_NAME:ALL_SOLID:leaf]"
-msgstr ""
+msgstr "[STATE_NAME:ALL_SOLID:Blatt]"
 
 #: material_template_default.txt:2179
 msgctxt "MATERIAL_TEMPLATE:LEAF_TEMPLATE"
 msgid "[STATE_ADJ:ALL_SOLID:leaf]"
-msgstr ""
+msgstr "[STATE_ADJ:ALL_SOLID:Blatt]"
 
 #: material_template_default.txt:2181
 msgctxt "MATERIAL_TEMPLATE:LEAF_TEMPLATE"
 msgid "[STATE_NAME:LIQUID:none]"
-msgstr ""
+msgstr "[STATE_NAME:LIQUID:nichts]"
 
 #: material_template_default.txt:2182
 msgctxt "MATERIAL_TEMPLATE:LEAF_TEMPLATE"
 msgid "[STATE_ADJ:LIQUID:none]"
-msgstr ""
+msgstr "[STATE_ADJ:LIQUID:nichts]"
 
 #: material_template_default.txt:2184
 msgctxt "MATERIAL_TEMPLATE:LEAF_TEMPLATE"
 msgid "[STATE_NAME:GAS:none]"
-msgstr ""
+msgstr "[STATE_NAME:GAS:nichts]"
 
 #: material_template_default.txt:2185
 msgctxt "MATERIAL_TEMPLATE:LEAF_TEMPLATE"
 msgid "[STATE_ADJ:GAS:none]"
-msgstr ""
+msgstr "[STATE_ADJ:GAS:nichts]"
 
 #: material_template_default.txt:2222
 msgctxt "MATERIAL_TEMPLATE:FRUIT_TEMPLATE"
 msgid "[STATE_NAME:ALL_SOLID:fruit]"
-msgstr ""
+msgstr "[STATE_NAME:ALL_SOLID:Frucht]"
 
 #: material_template_default.txt:2223
 msgctxt "MATERIAL_TEMPLATE:FRUIT_TEMPLATE"
 msgid "[STATE_ADJ:ALL_SOLID:fruit]"
-msgstr ""
+msgstr "[STATE_ADJ:ALL_SOLID:Frucht]"
 
 #: material_template_default.txt:2225
 msgctxt "MATERIAL_TEMPLATE:FRUIT_TEMPLATE"
 msgid "[STATE_NAME:LIQUID:none]"
-msgstr ""
+msgstr "[STATE_NAME:LIQUID:nichts]"
 
 #: material_template_default.txt:2226
 msgctxt "MATERIAL_TEMPLATE:FRUIT_TEMPLATE"
 msgid "[STATE_ADJ:LIQUID:none]"
-msgstr ""
+msgstr "[STATE_ADJ:LIQUID:nichts]"
 
 #: material_template_default.txt:2228
 msgctxt "MATERIAL_TEMPLATE:FRUIT_TEMPLATE"
 msgid "[STATE_NAME:GAS:none]"
-msgstr ""
+msgstr "[STATE_NAME:GAS:nichts]"
 
 #: material_template_default.txt:2229
 msgctxt "MATERIAL_TEMPLATE:FRUIT_TEMPLATE"
 msgid "[STATE_ADJ:GAS:none]"
-msgstr ""
+msgstr "[STATE_ADJ:GAS:nichts]"
 
 #: material_template_default.txt:2266
 msgctxt "MATERIAL_TEMPLATE:BUD_TEMPLATE"
 msgid "[STATE_NAME:ALL_SOLID:bud]"
-msgstr ""
+msgstr "[STATE_NAME:ALL_SOLID:Knospe]"
 
 #: material_template_default.txt:2267
 msgctxt "MATERIAL_TEMPLATE:BUD_TEMPLATE"
 msgid "[STATE_ADJ:ALL_SOLID:bud]"
-msgstr ""
+msgstr "[STATE_ADJ:ALL_SOLID:Knospe]"
 
 #: material_template_default.txt:2269
 msgctxt "MATERIAL_TEMPLATE:BUD_TEMPLATE"
 msgid "[STATE_NAME:LIQUID:none]"
-msgstr ""
+msgstr "[STATE_NAME:LIQUID:nichts]"
 
 #: material_template_default.txt:2270
 msgctxt "MATERIAL_TEMPLATE:BUD_TEMPLATE"
 msgid "[STATE_ADJ:LIQUID:none]"
-msgstr ""
+msgstr "[STATE_ADJ:LIQUID:nichts]"
 
 #: material_template_default.txt:2272
 msgctxt "MATERIAL_TEMPLATE:BUD_TEMPLATE"
 msgid "[STATE_NAME:GAS:none]"
-msgstr ""
+msgstr "[STATE_NAME:GAS:nichts]"
 
 #: material_template_default.txt:2273
 msgctxt "MATERIAL_TEMPLATE:BUD_TEMPLATE"
 msgid "[STATE_ADJ:GAS:none]"
-msgstr ""
+msgstr "[STATE_ADJ:GAS:nichts]"
 
 #: material_template_default.txt:2310
 msgctxt "MATERIAL_TEMPLATE:MUSHROOM_TEMPLATE"
 msgid "[STATE_NAME:ALL_SOLID:mushroom]"
-msgstr ""
+msgstr "[STATE_NAME:ALL_SOLID:Pilz]"
 
 #: material_template_default.txt:2311
 msgctxt "MATERIAL_TEMPLATE:MUSHROOM_TEMPLATE"
 msgid "[STATE_ADJ:ALL_SOLID:mushroom]"
-msgstr ""
+msgstr "[STATE_ADJ:ALL_SOLID:Pilz]"
 
 #: material_template_default.txt:2313
 msgctxt "MATERIAL_TEMPLATE:MUSHROOM_TEMPLATE"
 msgid "[STATE_NAME:LIQUID:none]"
-msgstr ""
+msgstr "[STATE_NAME:LIQUID:nichts]"
 
 #: material_template_default.txt:2314
 msgctxt "MATERIAL_TEMPLATE:MUSHROOM_TEMPLATE"
 msgid "[STATE_ADJ:LIQUID:none]"
-msgstr ""
+msgstr "[STATE_ADJ:LIQUID:nichts]"
 
 #: material_template_default.txt:2316
 msgctxt "MATERIAL_TEMPLATE:MUSHROOM_TEMPLATE"
 msgid "[STATE_NAME:GAS:none]"
-msgstr ""
+msgstr "[STATE_NAME:GAS:nichts]"
 
 #: material_template_default.txt:2317
 msgctxt "MATERIAL_TEMPLATE:MUSHROOM_TEMPLATE"
 msgid "[STATE_ADJ:GAS:none]"
-msgstr ""
+msgstr "[STATE_ADJ:GAS:nichts]"
 
 #: material_template_default.txt:2354
 msgctxt "MATERIAL_TEMPLATE:FLOWER_TEMPLATE"
 msgid "[STATE_NAME:ALL_SOLID:flower]"
-msgstr ""
+msgstr "[STATE_NAME:ALL_SOLID:Blüte]"
 
 #: material_template_default.txt:2355
 msgctxt "MATERIAL_TEMPLATE:FLOWER_TEMPLATE"
 msgid "[STATE_ADJ:ALL_SOLID:flower]"
-msgstr ""
+msgstr "[STATE_ADJ:ALL_SOLID:Blüte]"
 
 #: material_template_default.txt:2357
 msgctxt "MATERIAL_TEMPLATE:FLOWER_TEMPLATE"
 msgid "[STATE_NAME:LIQUID:none]"
-msgstr ""
+msgstr "[STATE_NAME:LIQUID:nichts]"
 
 #: material_template_default.txt:2358
 msgctxt "MATERIAL_TEMPLATE:FLOWER_TEMPLATE"
 msgid "[STATE_ADJ:LIQUID:none]"
-msgstr ""
+msgstr "[STATE_ADJ:LIQUID:nichts]"
 
 #: material_template_default.txt:2360
 msgctxt "MATERIAL_TEMPLATE:FLOWER_TEMPLATE"
 msgid "[STATE_NAME:GAS:none]"
-msgstr ""
+msgstr "[STATE_NAME:GAS:nichts]"
 
 #: material_template_default.txt:2361
 msgctxt "MATERIAL_TEMPLATE:FLOWER_TEMPLATE"
 msgid "[STATE_ADJ:GAS:none]"
-msgstr ""
+msgstr "[STATE_ADJ:GAS:nichts]"
 
 #: material_template_default.txt:2398
 msgctxt "MATERIAL_TEMPLATE:THREAD_PLANT_TEMPLATE"
 msgid "[STATE_NAME:ALL_SOLID:fiber]"
-msgstr ""
+msgstr "[STATE_NAME:ALL_SOLID:Faser]"
 
 #: material_template_default.txt:2399
 msgctxt "MATERIAL_TEMPLATE:THREAD_PLANT_TEMPLATE"
 msgid "[STATE_ADJ:ALL_SOLID:fiber]"
-msgstr ""
+msgstr "[STATE_ADJ:ALL_SOLID:Faser]"
 
 #: material_template_default.txt:2401
 msgctxt "MATERIAL_TEMPLATE:THREAD_PLANT_TEMPLATE"
 msgid "[STATE_NAME:LIQUID:none]"
-msgstr ""
+msgstr "[STATE_NAME:LIQUID:nichts]"
 
 #: material_template_default.txt:2402
 msgctxt "MATERIAL_TEMPLATE:THREAD_PLANT_TEMPLATE"
 msgid "[STATE_ADJ:LIQUID:none]"
-msgstr ""
+msgstr "[STATE_ADJ:LIQUID:nichts]"
 
 #: material_template_default.txt:2404
 msgctxt "MATERIAL_TEMPLATE:THREAD_PLANT_TEMPLATE"
 msgid "[STATE_NAME:GAS:none]"
-msgstr ""
+msgstr "[STATE_NAME:GAS:nichts]"
 
 #: material_template_default.txt:2405
 msgctxt "MATERIAL_TEMPLATE:THREAD_PLANT_TEMPLATE"
 msgid "[STATE_ADJ:GAS:none]"
-msgstr ""
+msgstr "[STATE_ADJ:GAS:nichts]"
 
 #: material_template_default.txt:2443
 msgctxt "MATERIAL_TEMPLATE:PLANT_ALCOHOL_TEMPLATE"
 msgid "[STATE_NAME:ALL_SOLID:frozen alcohol]"
-msgstr ""
+msgstr "[STATE_NAME:ALL_SOLID:gefrorener Alkohol]"
 
 #: material_template_default.txt:2444
 msgctxt "MATERIAL_TEMPLATE:PLANT_ALCOHOL_TEMPLATE"
 msgid "[STATE_ADJ:ALL_SOLID:frozen alcohol]"
-msgstr ""
+msgstr "[STATE_ADJ:ALL_SOLID:gefrorener Alkohol]"
 
 #: material_template_default.txt:2446
 msgctxt "MATERIAL_TEMPLATE:PLANT_ALCOHOL_TEMPLATE"
 msgid "[STATE_NAME:LIQUID:alcohol]"
-msgstr ""
+msgstr "[STATE_NAME:LIQUID:Alkohol]"
 
 #: material_template_default.txt:2447
 msgctxt "MATERIAL_TEMPLATE:PLANT_ALCOHOL_TEMPLATE"
 msgid "[STATE_ADJ:LIQUID:alcohol]"
-msgstr ""
+msgstr "[STATE_ADJ:LIQUID:Alkohol]"
 
 #: material_template_default.txt:2449
 msgctxt "MATERIAL_TEMPLATE:PLANT_ALCOHOL_TEMPLATE"
 msgid "[STATE_NAME:GAS:boiling alcohol]"
-msgstr ""
+msgstr "[STATE_NAME:GAS:kochender Alkohol]"
 
 #: material_template_default.txt:2450
 msgctxt "MATERIAL_TEMPLATE:PLANT_ALCOHOL_TEMPLATE"
 msgid "[STATE_ADJ:GAS:boiling alcohol]"
-msgstr ""
+msgstr "[STATE_ADJ:GAS:kochender Alkohol]"
 
 #: material_template_default.txt:2485
 msgctxt "MATERIAL_TEMPLATE:PLANT_ALCOHOL_TEMPLATE"
 msgid "[SYN_NAME:inebriation]"
-msgstr ""
+msgstr "[SYN_NAME:Trunkenheit]"
 
 #: material_template_default.txt:2502
 msgctxt "MATERIAL_TEMPLATE:PLANT_POWDER_TEMPLATE"
 msgid "[STATE_NAME:ALL_SOLID:plant powder]"
-msgstr ""
+msgstr "[STATE_NAME:ALL_SOLID:pflanzliches Pulver]"
 
 #: material_template_default.txt:2503
 msgctxt "MATERIAL_TEMPLATE:PLANT_POWDER_TEMPLATE"
 msgid "[STATE_ADJ:ALL_SOLID:plant powder]"
-msgstr ""
+msgstr "[STATE_ADJ:ALL_SOLID:pflanzliches Pulver]"
 
 #: material_template_default.txt:2505
 msgctxt "MATERIAL_TEMPLATE:PLANT_POWDER_TEMPLATE"
 msgid "[STATE_NAME:LIQUID:none]"
-msgstr ""
+msgstr "[STATE_NAME:LIQUID:nichts]"
 
 #: material_template_default.txt:2506
 msgctxt "MATERIAL_TEMPLATE:PLANT_POWDER_TEMPLATE"
 msgid "[STATE_ADJ:LIQUID:none]"
-msgstr ""
+msgstr "[STATE_ADJ:LIQUID:nichts]"
 
 #: material_template_default.txt:2508
 msgctxt "MATERIAL_TEMPLATE:PLANT_POWDER_TEMPLATE"
 msgid "[STATE_NAME:GAS:none]"
-msgstr ""
+msgstr "[STATE_NAME:GAS:nichts]"
 
 #: material_template_default.txt:2509
 msgctxt "MATERIAL_TEMPLATE:PLANT_POWDER_TEMPLATE"
 msgid "[STATE_ADJ:GAS:none]"
-msgstr ""
+msgstr "[STATE_ADJ:GAS:nichts]"
 
 #: material_template_default.txt:2546
 msgctxt "MATERIAL_TEMPLATE:PLANT_EXTRACT_TEMPLATE"
 msgid "[STATE_NAME:ALL_SOLID:frozen extract]"
-msgstr ""
+msgstr "[STATE_NAME:ALL_SOLID:gefrorenes Extrakt]"
 
 #: material_template_default.txt:2547
 msgctxt "MATERIAL_TEMPLATE:PLANT_EXTRACT_TEMPLATE"
 msgid "[STATE_ADJ:ALL_SOLID:frozen extract]"
-msgstr ""
+msgstr "[STATE_ADJ:ALL_SOLID:gefrorenes Extrakt]"
 
 #: material_template_default.txt:2549
 msgctxt "MATERIAL_TEMPLATE:PLANT_EXTRACT_TEMPLATE"
 msgid "[STATE_NAME:LIQUID:extract]"
-msgstr ""
+msgstr "[STATE_NAME:LIQUID:Extrakt]"
 
 #: material_template_default.txt:2550
 msgctxt "MATERIAL_TEMPLATE:PLANT_EXTRACT_TEMPLATE"
 msgid "[STATE_ADJ:LIQUID:extract]"
-msgstr ""
+msgstr "[STATE_ADJ:LIQUID:Extrakt]"
 
 #: material_template_default.txt:2552
 msgctxt "MATERIAL_TEMPLATE:PLANT_EXTRACT_TEMPLATE"
 msgid "[STATE_NAME:GAS:boiling extract]"
-msgstr ""
+msgstr "[STATE_NAME:GAS:kochendes Extrakt]"
 
 #: material_template_default.txt:2553
 msgctxt "MATERIAL_TEMPLATE:PLANT_EXTRACT_TEMPLATE"
 msgid "[STATE_ADJ:GAS:boiling extract]"
-msgstr ""
+msgstr "[STATE_ADJ:GAS:kochendes Extrakt]"
 
 #: material_template_default.txt:2591
 msgctxt "MATERIAL_TEMPLATE:CREATURE_EXTRACT_TEMPLATE"
 msgid "[STATE_NAME:ALL_SOLID:frozen extract]"
-msgstr ""
+msgstr "[STATE_NAME:ALL_SOLID:gefrorenes Extrakt]"
 
 #: material_template_default.txt:2592
 msgctxt "MATERIAL_TEMPLATE:CREATURE_EXTRACT_TEMPLATE"
 msgid "[STATE_ADJ:ALL_SOLID:frozen extract]"
-msgstr ""
+msgstr "[STATE_ADJ:ALL_SOLID:gefrorenes Extrakt]"
 
 #: material_template_default.txt:2594
 msgctxt "MATERIAL_TEMPLATE:CREATURE_EXTRACT_TEMPLATE"
 msgid "[STATE_NAME:LIQUID:extract]"
-msgstr ""
+msgstr "[STATE_NAME:LIQUID:Extrakt]"
 
 #: material_template_default.txt:2595
 msgctxt "MATERIAL_TEMPLATE:CREATURE_EXTRACT_TEMPLATE"
 msgid "[STATE_ADJ:LIQUID:extract]"
-msgstr ""
+msgstr "[STATE_ADJ:LIQUID:Extrakt]"
 
 #: material_template_default.txt:2597
 msgctxt "MATERIAL_TEMPLATE:CREATURE_EXTRACT_TEMPLATE"
 msgid "[STATE_NAME:GAS:boiling extract]"
-msgstr ""
+msgstr "[STATE_NAME:GAS:kochendes Extrakt]"
 
 #: material_template_default.txt:2598
 msgctxt "MATERIAL_TEMPLATE:CREATURE_EXTRACT_TEMPLATE"
 msgid "[STATE_ADJ:GAS:boiling extract]"
-msgstr ""
+msgstr "[STATE_ADJ:GAS:kochendes Extrakt]"
 
 #: material_template_default.txt:2637
 msgctxt "MATERIAL_TEMPLATE:FLAME_TEMPLATE"
@@ -45422,57 +45426,57 @@ msgstr "[STATE_NAME:GAS:Flammen]"
 #: material_template_default.txt:2638
 msgctxt "MATERIAL_TEMPLATE:FLAME_TEMPLATE"
 msgid "[STATE_ADJ:GAS:flames]"
-msgstr ""
+msgstr "[STATE_ADJ:GAS: Flammen]"
 
 #: material_template_default.txt:2653
 msgctxt "MATERIAL_TEMPLATE:SOIL_TEMPLATE"
 msgid "[STATE_NAME:ALL_SOLID:soil]"
-msgstr ""
+msgstr "[STATE_NAME:ALL_SOLID:Erde]"
 
 #: material_template_default.txt:2654
 msgctxt "MATERIAL_TEMPLATE:SOIL_TEMPLATE"
 msgid "[STATE_ADJ:ALL_SOLID:soil]"
-msgstr ""
+msgstr "[STATE_ADJ:ALL_SOLID:Erde]"
 
 #: material_template_default.txt:2656
 msgctxt "MATERIAL_TEMPLATE:SOIL_TEMPLATE"
 msgid "[STATE_NAME:LIQUID:magma]"
-msgstr ""
+msgstr "[STATE_NAME:LIQUID:Magma]"
 
 #: material_template_default.txt:2657
 msgctxt "MATERIAL_TEMPLATE:SOIL_TEMPLATE"
 msgid "[STATE_ADJ:LIQUID:magma]"
-msgstr ""
+msgstr "[STATE_ADJ:LIQUID:Magma]"
 
 #: material_template_default.txt:2659
 msgctxt "MATERIAL_TEMPLATE:SOIL_TEMPLATE"
 msgid "[STATE_NAME:GAS:boiling magma]"
-msgstr ""
+msgstr "[STATE_NAME:GAS:kochendes Magma]"
 
 #: material_template_default.txt:2660
 msgctxt "MATERIAL_TEMPLATE:SOIL_TEMPLATE"
 msgid "[STATE_ADJ:GAS:boiling magma]"
-msgstr ""
+msgstr "[STATE_ADJ:GAS:kochendes Magma]"
 
 #: material_template_default.txt:2696
 msgctxt "MATERIAL_TEMPLATE:EGGSHELL_TEMPLATE"
 msgid "[STATE_NAME:SOLID:eggshell]"
-msgstr ""
+msgstr "[STATE_NAME:SOLID:Eierschale]"
 
 #: material_template_default.txt:2697
 msgctxt "MATERIAL_TEMPLATE:EGGSHELL_TEMPLATE"
 msgid "[STATE_ADJ:SOLID:eggshell]"
-msgstr ""
+msgstr "[STATE_ADJ:SOLID:Eierschale]"
 
 #: material_template_default.txt:2698
 msgctxt "MATERIAL_TEMPLATE:EGGSHELL_TEMPLATE"
 msgid "[STATE_NAME:POWDER:eggshell powder]"
-msgstr ""
+msgstr "[STATE_NAME:POWDER:Eierschalenpulver]"
 
 #: material_template_default.txt:2699
 msgctxt "MATERIAL_TEMPLATE:EGGSHELL_TEMPLATE"
 msgid "[STATE_ADJ:POWDER:eggshell powder]"
-msgstr ""
+msgstr "[STATE_ADJ:POWDER:Eierschalenpulver]"
 
 #: material_template_default.txt:2701
 msgctxt "MATERIAL_TEMPLATE:EGGSHELL_TEMPLATE"
@@ -45497,112 +45501,112 @@ msgstr "[STATE_ADJ:GAS:k. A.]"
 #: material_template_default.txt:2743
 msgctxt "MATERIAL_TEMPLATE:EGG_WHITE_TEMPLATE"
 msgid "[STATE_NAME:ALL_SOLID:frozen egg white]"
-msgstr ""
+msgstr "[STATE_NAME:ALL_SOLID:gefrorenes Eiweiß]"
 
 #: material_template_default.txt:2744
 msgctxt "MATERIAL_TEMPLATE:EGG_WHITE_TEMPLATE"
 msgid "[STATE_ADJ:ALL_SOLID:frozen egg white]"
-msgstr ""
+msgstr "[STATE_ADJ:ALL_SOLID:gefrorenes Eiweiß]"
 
 #: material_template_default.txt:2746
 msgctxt "MATERIAL_TEMPLATE:EGG_WHITE_TEMPLATE"
 msgid "[STATE_NAME:LIQUID:egg white]"
-msgstr ""
+msgstr "[STATE_NAME:LIQUID:Eiweiß]"
 
 #: material_template_default.txt:2747
 msgctxt "MATERIAL_TEMPLATE:EGG_WHITE_TEMPLATE"
 msgid "[STATE_ADJ:LIQUID:egg white]"
-msgstr ""
+msgstr "[STATE_ADJ:LIQUID:Eiweiß]"
 
 #: material_template_default.txt:2749
 msgctxt "MATERIAL_TEMPLATE:EGG_WHITE_TEMPLATE"
 msgid "[STATE_NAME:GAS:boiling egg white]"
-msgstr ""
+msgstr "[STATE_NAME:GAS:kochendes Eiweiß]"
 
 #: material_template_default.txt:2750
 msgctxt "MATERIAL_TEMPLATE:EGG_WHITE_TEMPLATE"
 msgid "[STATE_ADJ:GAS:boiling egg white]"
-msgstr ""
+msgstr "[STATE_ADJ:GAS:kochendes Eiweiß]"
 
 #: material_template_default.txt:2790
 msgctxt "MATERIAL_TEMPLATE:EGG_YOLK_TEMPLATE"
 msgid "[STATE_NAME:ALL_SOLID:frozen egg yolk]"
-msgstr ""
+msgstr "[STATE_NAME:ALL_SOLID:gefrorenes Eigelb]"
 
 #: material_template_default.txt:2791
 msgctxt "MATERIAL_TEMPLATE:EGG_YOLK_TEMPLATE"
 msgid "[STATE_ADJ:ALL_SOLID:frozen egg yolk]"
-msgstr ""
+msgstr "[STATE_ADJ:ALL_SOLID:gefrorenes Eigelb]"
 
 #: material_template_default.txt:2793
 msgctxt "MATERIAL_TEMPLATE:EGG_YOLK_TEMPLATE"
 msgid "[STATE_NAME:LIQUID:egg yolk]"
-msgstr ""
+msgstr "[STATE_NAME:LIQUID:Eigelb]"
 
 #: material_template_default.txt:2794
 msgctxt "MATERIAL_TEMPLATE:EGG_YOLK_TEMPLATE"
 msgid "[STATE_ADJ:LIQUID:egg yolk]"
-msgstr ""
+msgstr "[STATE_ADJ:LIQUID:Eigelb]"
 
 #: material_template_default.txt:2796
 msgctxt "MATERIAL_TEMPLATE:EGG_YOLK_TEMPLATE"
 msgid "[STATE_NAME:GAS:boiling egg yolk]"
-msgstr ""
+msgstr "[STATE_NAME:GAS:kochendes Eigelb]"
 
 #: material_template_default.txt:2797
 msgctxt "MATERIAL_TEMPLATE:EGG_YOLK_TEMPLATE"
 msgid "[STATE_ADJ:GAS:boiling egg yolk]"
-msgstr ""
+msgstr "[STATE_ADJ:GAS:kochendes Eigelb]"
 
 #: material_template_default.txt:2837
 msgctxt "MATERIAL_TEMPLATE:PLANT_OIL_TEMPLATE"
 msgid "[STATE_NAME:ALL_SOLID:frozen vegetable oil]"
-msgstr ""
+msgstr "[STATE_NAME:ALL_SOLID:gefrorenes Pflanzenöl]"
 
 #: material_template_default.txt:2838
 msgctxt "MATERIAL_TEMPLATE:PLANT_OIL_TEMPLATE"
 msgid "[STATE_ADJ:ALL_SOLID:frozen vegetable oil]"
-msgstr ""
+msgstr "[STATE_ADJ:ALL_SOLID:gefrorenes Pflanzenöl]"
 
 #: material_template_default.txt:2840
 msgctxt "MATERIAL_TEMPLATE:PLANT_OIL_TEMPLATE"
 msgid "[STATE_NAME:LIQUID:vegetable oil]"
-msgstr ""
+msgstr "[STATE_NAME:LIQUID:Pflanzenöl]"
 
 #: material_template_default.txt:2841
 msgctxt "MATERIAL_TEMPLATE:PLANT_OIL_TEMPLATE"
 msgid "[STATE_ADJ:LIQUID:vegetable oil]"
-msgstr ""
+msgstr "[STATE_ADJ:LIQUID:Pflanzenöl]"
 
 #: material_template_default.txt:2843
 msgctxt "MATERIAL_TEMPLATE:PLANT_OIL_TEMPLATE"
 msgid "[STATE_NAME:GAS:boiling vegetable oil]"
-msgstr ""
+msgstr "[STATE_NAME:GAS:kochendes Pflanzenöl]"
 
 #: material_template_default.txt:2844
 msgctxt "MATERIAL_TEMPLATE:PLANT_OIL_TEMPLATE"
 msgid "[STATE_ADJ:GAS:boiling vegetable oil]"
-msgstr ""
+msgstr "[STATE_ADJ:GAS:kochendes Pflanzenöl]"
 
 #: material_template_default.txt:2882
 msgctxt "MATERIAL_TEMPLATE:PLANT_SOAP_TEMPLATE"
 msgid "[STATE_NAME:ALL_SOLID:soap]"
-msgstr ""
+msgstr "[STATE_NAME:ALL_SOLID:Seife]"
 
 #: material_template_default.txt:2883
 msgctxt "MATERIAL_TEMPLATE:PLANT_SOAP_TEMPLATE"
 msgid "[STATE_ADJ:ALL_SOLID:soap]"
-msgstr ""
+msgstr "[STATE_ADJ:ALL_SOLID:Seife]"
 
 #: material_template_default.txt:2885
 msgctxt "MATERIAL_TEMPLATE:PLANT_SOAP_TEMPLATE"
 msgid "[STATE_NAME:LIQUID:melted soap]"
-msgstr ""
+msgstr "[STATE_NAME:LIQUID:geschmolzene Seife]"
 
 #: material_template_default.txt:2886
 msgctxt "MATERIAL_TEMPLATE:PLANT_SOAP_TEMPLATE"
 msgid "[STATE_ADJ:LIQUID:melted soap]"
-msgstr ""
+msgstr "[STATE_ADJ:LIQUID:geschmolzene Seife]"
 
 #: material_template_default.txt:2888
 msgctxt "MATERIAL_TEMPLATE:PLANT_SOAP_TEMPLATE"
@@ -45617,22 +45621,22 @@ msgstr "[STATE_ADJ:GAS:k. A.]"
 #: material_template_default.txt:2927
 msgctxt "MATERIAL_TEMPLATE:WAX_TEMPLATE"
 msgid "[STATE_NAME:ALL_SOLID:wax]"
-msgstr ""
+msgstr "[STATE_NAME:ALL_SOLID:Wachs]"
 
 #: material_template_default.txt:2928
 msgctxt "MATERIAL_TEMPLATE:WAX_TEMPLATE"
 msgid "[STATE_ADJ:ALL_SOLID:wax]"
-msgstr ""
+msgstr "[STATE_ADJ:ALL_SOLID:Wachs]"
 
 #: material_template_default.txt:2930
 msgctxt "MATERIAL_TEMPLATE:WAX_TEMPLATE"
 msgid "[STATE_NAME:LIQUID:melted wax]"
-msgstr ""
+msgstr "[STATE_NAME:LIQUID:geschmolzenes Wachs]"
 
 #: material_template_default.txt:2931
 msgctxt "MATERIAL_TEMPLATE:WAX_TEMPLATE"
 msgid "[STATE_ADJ:LIQUID:melted wax]"
-msgstr ""
+msgstr "[STATE_ADJ:LIQUID:geschmolzenes Wachs]"
 
 #: material_template_default.txt:2933
 msgctxt "MATERIAL_TEMPLATE:WAX_TEMPLATE"
@@ -45647,37 +45651,37 @@ msgstr "[STATE_ADJ:GAS:k. A.]"
 #: material_template_default.txt:2973
 msgctxt "MATERIAL_TEMPLATE:CREATURE_ALCOHOL_TEMPLATE"
 msgid "[STATE_NAME:ALL_SOLID:frozen alcohol]"
-msgstr ""
+msgstr "[STATE_NAME:ALL_SOLID:gefrorener Alkohol]"
 
 #: material_template_default.txt:2974
 msgctxt "MATERIAL_TEMPLATE:CREATURE_ALCOHOL_TEMPLATE"
 msgid "[STATE_ADJ:ALL_SOLID:frozen alcohol]"
-msgstr ""
+msgstr "[STATE_ADJ:ALL_SOLID:gefrorener Alkohol]"
 
 #: material_template_default.txt:2976
 msgctxt "MATERIAL_TEMPLATE:CREATURE_ALCOHOL_TEMPLATE"
 msgid "[STATE_NAME:LIQUID:alcohol]"
-msgstr ""
+msgstr "[STATE_NAME:LIQUID:Alkohol]"
 
 #: material_template_default.txt:2977
 msgctxt "MATERIAL_TEMPLATE:CREATURE_ALCOHOL_TEMPLATE"
 msgid "[STATE_ADJ:LIQUID:alcohol]"
-msgstr ""
+msgstr "[STATE_ADJ:LIQUID:Alkohol]"
 
 #: material_template_default.txt:2979
 msgctxt "MATERIAL_TEMPLATE:CREATURE_ALCOHOL_TEMPLATE"
 msgid "[STATE_NAME:GAS:boiling alcohol]"
-msgstr ""
+msgstr "[STATE_NAME:GAS:kochender Alkohol]"
 
 #: material_template_default.txt:2980
 msgctxt "MATERIAL_TEMPLATE:CREATURE_ALCOHOL_TEMPLATE"
 msgid "[STATE_ADJ:GAS:boiling alcohol]"
-msgstr ""
+msgstr "[STATE_ADJ:GAS:kochender Alkohol]"
 
 #: material_template_default.txt:3015
 msgctxt "MATERIAL_TEMPLATE:CREATURE_ALCOHOL_TEMPLATE"
 msgid "[SYN_NAME:inebriation]"
-msgstr ""
+msgstr "[SYN_NAME:Trunkenheit]"
 
 #: material_template_default.txt:3032
 msgctxt "MATERIAL_TEMPLATE:LEATHERY_EGGSHELL_TEMPLATE"
@@ -46612,22 +46616,22 @@ msgstr "[GROWTH_NAME:Kaniwablüte:STP]"
 #: plant_crops.txt:715
 msgctxt "PLANT:BITTER_VETCH"
 msgid "[NAME:bitter vetch]"
-msgstr ""
+msgstr "[NAME:Bitterwicke]"
 
 #: plant_crops.txt:715
 msgctxt "PLANT:BITTER_VETCH"
 msgid "[NAME_PLURAL:bitter vetch]"
-msgstr ""
+msgstr "[NAME_PLURAL:Bitterwicken]"
 
 #: plant_crops.txt:715
 msgctxt "PLANT:BITTER_VETCH"
 msgid "[ADJ:bitter vetch]"
-msgstr ""
+msgstr "[ADJ:Bitterwicke]"
 
 #: plant_crops.txt:737
 msgctxt "PLANT:BITTER_VETCH"
 msgid "[SEED:bitter vetch seed:bitter vetch seeds:]"
-msgstr ""
+msgstr "[SEED:Bitterwicken Samen:Bitterwicken Samen]"
 
 #: plant_crops.txt:740
 msgctxt "PLANT:BITTER_VETCH"
@@ -46637,192 +46641,192 @@ msgstr "[PREFSTRING:Korn]"
 #: plant_crops.txt:742
 msgctxt "PLANT:BITTER_VETCH"
 msgid "[GROWTH_NAME:bitter vetch leaf:bitter vetch leaves]"
-msgstr ""
+msgstr "[GROWTH_NAME:Bitterwickenblatt:Bitterwickenblätter]"
 
 #: plant_crops.txt:747
 msgctxt "PLANT:BITTER_VETCH"
 msgid "[GROWTH_NAME:bitter vetch flower:STP]"
-msgstr ""
+msgstr "[GROWTH_NAME:Bitterwickenblüte:STP]"
 
 #: plant_crops.txt:753
 msgctxt "PLANT:BITTER_VETCH"
 msgid "[GROWTH_NAME:bitter vetch pod:STP]"
-msgstr ""
+msgstr "[GROWTH_NAME:Bitterwickenschote:STP]"
 
 #: plant_crops.txt:761
 msgctxt "PLANT:PENDANT_AMARANTH"
 msgid "[NAME:pendant amaranth]"
-msgstr ""
+msgstr "[NAME:hängender Amaranth]"
 
 #: plant_crops.txt:761
 msgctxt "PLANT:PENDANT_AMARANTH"
 msgid "[NAME_PLURAL:pendant amaranths]"
-msgstr ""
+msgstr "[NAME_PLURAL:hängende Amaranthen]"
 
 #: plant_crops.txt:761
 msgctxt "PLANT:PENDANT_AMARANTH"
 msgid "[ADJ:pendant amaranth]"
-msgstr ""
+msgstr "[ADJ:hängender Amaranth]"
 
 #: plant_crops.txt:769
 msgctxt "PLANT:PENDANT_AMARANTH"
 msgid "[STATE_NAME_ADJ:ALL_SOLID:frozen pendant amaranth beer]"
-msgstr ""
+msgstr "[STATE_NAME_ADJ:ALL_SOLID:gefrorenes hängender Amaranth-Bier]"
 
 #: plant_crops.txt:770
 msgctxt "PLANT:PENDANT_AMARANTH"
 msgid "[STATE_NAME_ADJ:LIQUID:pendant amaranth beer]"
-msgstr ""
+msgstr "[STATE_NAME_ADJ:LIQUID:hängender Amaranth-Bier]"
 
 #: plant_crops.txt:771
 msgctxt "PLANT:PENDANT_AMARANTH"
 msgid "[STATE_NAME_ADJ:GAS:boiling pendant amaranth beer]"
-msgstr ""
+msgstr "[STATE_NAME_ADJ:GAS:kochendes hängender Amaranth-Bier]"
 
 #: plant_crops.txt:780
 msgctxt "PLANT:PENDANT_AMARANTH"
 msgid "[STATE_NAME_ADJ:ALL_SOLID:pendant amaranth flour]"
-msgstr ""
+msgstr "[STATE_NAME_ADJ:ALL_SOLID:hängender Amaranth-Mehl]"
 
 #: plant_crops.txt:801
 msgctxt "PLANT:PENDANT_AMARANTH"
 msgid "[SEED:pendant amaranth seed:pendant amaranth seeds:]"
-msgstr ""
+msgstr "[SEED:hängender Amaranth-Samen:hängender Amaranth-Samen:]"
 
 #: plant_crops.txt:804
 msgctxt "PLANT:PENDANT_AMARANTH"
 msgid "[PREFSTRING:striking color]"
-msgstr ""
+msgstr "[PREFSTRING:markante Farbe]"
 
 #: plant_crops.txt:806
 msgctxt "PLANT:PENDANT_AMARANTH"
 msgid "[GROWTH_NAME:pendant amaranth leaf:pendant amaranth leaves]"
-msgstr ""
+msgstr "[GROWTH_NAME:hängendes Amaranthblatt:hängende Amaranthblätter]"
 
 #: plant_crops.txt:811
 msgctxt "PLANT:PENDANT_AMARANTH"
 msgid "[GROWTH_NAME:pendant amaranth inflorescence:STP]"
-msgstr ""
+msgstr "[GROWTH_NAME:hängender Amaranth-Blütenstand: STP]"
 
 #: plant_crops.txt:818
 msgctxt "PLANT:BLOOD_AMARANTH"
 msgid "[NAME:blood amaranth]"
-msgstr ""
+msgstr "[NAME:Blutamaranth]"
 
 #: plant_crops.txt:818
 msgctxt "PLANT:BLOOD_AMARANTH"
 msgid "[NAME_PLURAL:blood amaranths]"
-msgstr ""
+msgstr "[NAME_PLURAL:Blutamaranthen]"
 
 #: plant_crops.txt:818
 msgctxt "PLANT:BLOOD_AMARANTH"
 msgid "[ADJ:blood amaranth]"
-msgstr ""
+msgstr "[ADJ:Blutamaranth]"
 
 #: plant_crops.txt:826
 msgctxt "PLANT:BLOOD_AMARANTH"
 msgid "[STATE_NAME_ADJ:ALL_SOLID:frozen blood amaranth beer]"
-msgstr ""
+msgstr "[STATE_NAME_ADJ:ALL_SOLID:gefrorenes Blutamaranthbier]"
 
 #: plant_crops.txt:827
 msgctxt "PLANT:BLOOD_AMARANTH"
 msgid "[STATE_NAME_ADJ:LIQUID:blood amaranth beer]"
-msgstr ""
+msgstr "[STATE_NAME_ADJ:LIQUID:Blutamaranthbier]"
 
 #: plant_crops.txt:828
 msgctxt "PLANT:BLOOD_AMARANTH"
 msgid "[STATE_NAME_ADJ:GAS:boiling blood amaranth beer]"
-msgstr ""
+msgstr "[STATE_NAME_ADJ:GAS: kochendes Blutamaranthbier]"
 
 #: plant_crops.txt:837
 msgctxt "PLANT:BLOOD_AMARANTH"
 msgid "[STATE_NAME_ADJ:ALL_SOLID:blood amaranth flour]"
-msgstr ""
+msgstr "[STATE_NAME_ADJ:ALL_SOLID:Blutamaranthmehl]"
 
 #: plant_crops.txt:861
 msgctxt "PLANT:BLOOD_AMARANTH"
 msgid "[SEED:blood amaranth seed:blood amaranth seeds:]"
-msgstr ""
+msgstr "[SEED:Blutamaranthsamen:Blutamaranthsamen:]"
 
 #: plant_crops.txt:864
 msgctxt "PLANT:BLOOD_AMARANTH"
 msgid "[PREFSTRING:striking color]"
-msgstr ""
+msgstr "[PREFSTRING:markante Farbe]"
 
 #: plant_crops.txt:866
 msgctxt "PLANT:BLOOD_AMARANTH"
 msgid "[GROWTH_NAME:blood amaranth leaf:blood amaranth leaves]"
-msgstr ""
+msgstr "[GROWTH_NAME:Blutamaranthblatt:Blutamaranthblätter]"
 
 #: plant_crops.txt:871
 msgctxt "PLANT:BLOOD_AMARANTH"
 msgid "[GROWTH_NAME:blood amaranth inflorescence:STP]"
-msgstr ""
+msgstr "[GROWTH_NAME:Blutamaranth-Blütenstand:STP]"
 
 #: plant_crops.txt:878
 msgctxt "PLANT:PURPLE_AMARANTH"
 msgid "[NAME:purple amaranth]"
-msgstr ""
+msgstr "[NAME:lila Amaranth]"
 
 #: plant_crops.txt:878
 msgctxt "PLANT:PURPLE_AMARANTH"
 msgid "[NAME_PLURAL:purple amaranths]"
-msgstr ""
+msgstr "[NAME_PLURAL:lila Amaranthen]"
 
 #: plant_crops.txt:878
 msgctxt "PLANT:PURPLE_AMARANTH"
 msgid "[ADJ:purple amaranth]"
-msgstr ""
+msgstr "[ADJ:lila Amaranth]"
 
 #: plant_crops.txt:886
 msgctxt "PLANT:PURPLE_AMARANTH"
 msgid "[STATE_NAME_ADJ:ALL_SOLID:frozen purple amaranth beer]"
-msgstr ""
+msgstr "[STATE_NAME_ADJ:ALL_SOLID:gefrorenes lila Amaranth-Bier]"
 
 #: plant_crops.txt:887
 msgctxt "PLANT:PURPLE_AMARANTH"
 msgid "[STATE_NAME_ADJ:LIQUID:purple amaranth beer]"
-msgstr ""
+msgstr "[STATE_NAME_ADJ:LIQUID:lila Amaranth-Bier]"
 
 #: plant_crops.txt:888
 msgctxt "PLANT:PURPLE_AMARANTH"
 msgid "[STATE_NAME_ADJ:GAS:boiling purple amaranth beer]"
-msgstr ""
+msgstr "[STATE_NAME_ADJ:GAS:kochendes lila Amaranth-Bier]"
 
 #: plant_crops.txt:897
 msgctxt "PLANT:PURPLE_AMARANTH"
 msgid "[STATE_NAME_ADJ:ALL_SOLID:purple amaranth flour]"
-msgstr ""
+msgstr "[STATE_NAME_ADJ:ALL_SOLID:lila Amaranthmehl]"
 
 #: plant_crops.txt:914
 msgctxt "PLANT:PURPLE_AMARANTH"
 msgid "[SEED:purple amaranth seed:purple amaranth seeds:]"
-msgstr ""
+msgstr "[SEED:lila Amaranthsamen:lila Amaranthsamen:]"
 
 #: plant_crops.txt:924
 msgctxt "PLANT:PURPLE_AMARANTH"
 msgid "[PREFSTRING:striking color]"
-msgstr ""
+msgstr "[PREFSTRING:markante Farbe]"
 
 #: plant_crops.txt:926
 msgctxt "PLANT:PURPLE_AMARANTH"
 msgid "[GROWTH_NAME:purple amaranth leaf:purple amaranth leaves]"
-msgstr ""
+msgstr "[GROWTH_NAME:lila Amaranthblatt:lila Amaranthblätter]"
 
 #: plant_crops.txt:931
 msgctxt "PLANT:PURPLE_AMARANTH"
 msgid "[GROWTH_NAME:purple amaranth inflorescence:STP]"
-msgstr ""
+msgstr "[GROWTH_NAME:lila Amaranth-Blütenstand:STP]"
 
 #: plant_crops.txt:938
 msgctxt "PLANT:RED_SPINACH"
 msgid "[NAME:red spinach]"
-msgstr ""
+msgstr "[NAME:roter Spinat]"
 
 #: plant_crops.txt:938
 msgctxt "PLANT:RED_SPINACH"
 msgid "[NAME_PLURAL:red spinach]"
-msgstr ""
+msgstr "[NAME_PLURAL:roter Spinat]"
 
 #: plant_crops.txt:938
 msgctxt "PLANT:RED_SPINACH"
@@ -46832,7 +46836,7 @@ msgstr "[ADJ:roter Spinat]"
 #: plant_crops.txt:952
 msgctxt "PLANT:RED_SPINACH"
 msgid "[SEED:red spinach seed:red spinach seeds:]"
-msgstr ""
+msgstr "[SEED:roter Spinatsamen:rote Spinatsamen:]"
 
 #: plant_crops.txt:962
 msgctxt "PLANT:RED_SPINACH"
@@ -46842,32 +46846,32 @@ msgstr "[PREFSTRING:Blätter]"
 #: plant_crops.txt:964
 msgctxt "PLANT:RED_SPINACH"
 msgid "[GROWTH_NAME:red spinach leaf:red spinach leaves]"
-msgstr ""
+msgstr "[GROWTH_NAME:rotes Spinatblatt:rote Spinatblätter]"
 
 #: plant_crops.txt:969
 msgctxt "PLANT:RED_SPINACH"
 msgid "[GROWTH_NAME:red spinach inflorescence:STP]"
-msgstr ""
+msgstr "[GROWTH_NAME:roter Spinatblütenstand:STP]"
 
 #: plant_crops.txt:976
 msgctxt "PLANT:ELEPHANT-HEAD_AMARANTH"
 msgid "[NAME:elephant-head amaranth]"
-msgstr ""
+msgstr "[NAME:Elefantenkopf-Amaranth]"
 
 #: plant_crops.txt:976
 msgctxt "PLANT:ELEPHANT-HEAD_AMARANTH"
 msgid "[NAME_PLURAL:elephant-head amaranths]"
-msgstr ""
+msgstr "[NAME_PLURAL:Elefantenkopf-Amaranthen]"
 
 #: plant_crops.txt:976
 msgctxt "PLANT:ELEPHANT-HEAD_AMARANTH"
 msgid "[ADJ:elephant-head amaranth]"
-msgstr ""
+msgstr "[ADJ:Elefantenkopf-Amaranth]"
 
 #: plant_crops.txt:990
 msgctxt "PLANT:ELEPHANT-HEAD_AMARANTH"
 msgid "[SEED:elephant-head amaranth seed:elephant-head amaranth seeds:]"
-msgstr ""
+msgstr "[SEED:Elefantenkopf-Amaranth-Samen:Elefantenkopf-Amaranth-Samen:]"
 
 #: plant_crops.txt:1001
 msgctxt "PLANT:ELEPHANT-HEAD_AMARANTH"
@@ -46879,11 +46883,12 @@ msgctxt "PLANT:ELEPHANT-HEAD_AMARANTH"
 msgid ""
 "[GROWTH_NAME:elephant-head amaranth leaf:elephant-head amaranth leaves]"
 msgstr ""
+"[GROWTH_NAME:Elefantenkopf-Amaranthblatt:Elefantenkopf-Amaranthblätter]"
 
 #: plant_crops.txt:1008
 msgctxt "PLANT:ELEPHANT-HEAD_AMARANTH"
 msgid "[GROWTH_NAME:elephant-head amaranth inflorescence:STP]"
-msgstr ""
+msgstr "[GROWTH_NAME:Elefantenkopf-Amaranth-Blütenstand:STP]"
 
 #: plant_crops.txt:1015
 msgctxt "PLANT:PEARL_MILLET"
@@ -46963,17 +46968,17 @@ msgstr "[STATE_NAME_ADJ:LIQUID:Weißhirsebier]"
 #: plant_crops.txt:1071
 msgctxt "PLANT:WHITE_MILLET"
 msgid "[STATE_NAME_ADJ:GAS:boiling white millet beer]"
-msgstr ""
+msgstr "[STATE_NAME_ADJ:GAS:kochendes weißes Hirsebier]"
 
 #: plant_crops.txt:1080
 msgctxt "PLANT:WHITE_MILLET"
 msgid "[STATE_NAME_ADJ:ALL_SOLID:white millet flour]"
-msgstr ""
+msgstr "[STATE_NAME_ADJ:ALL_SOLID:weißes Hirsemehl]"
 
 #: plant_crops.txt:1096
 msgctxt "PLANT:WHITE_MILLET"
 msgid "[SEED:white millet:white millet:]"
-msgstr ""
+msgstr "[SEED:weiße Hirse:weiße Hirse:]"
 
 #: plant_crops.txt:1099
 msgctxt "PLANT:WHITE_MILLET"
@@ -46983,7 +46988,7 @@ msgstr "[PREFSTRING:Korn]"
 #: plant_crops.txt:1101
 msgctxt "PLANT:WHITE_MILLET"
 msgid "[GROWTH_NAME:white millet leaf:white millet leaves]"
-msgstr ""
+msgstr "[GROWTH_NAME:weißes Hirseblatt:weiße Hirseblätter]"
 
 #: plant_crops.txt:1107
 msgctxt "PLANT:FINGER_MILLET"
@@ -47013,17 +47018,17 @@ msgstr "[STATE_NAME_ADJ:LIQUID:Fingerhirse-Bier]"
 #: plant_crops.txt:1117
 msgctxt "PLANT:FINGER_MILLET"
 msgid "[STATE_NAME_ADJ:GAS:boiling finger millet beer]"
-msgstr ""
+msgstr "[STATE_NAME_ADJ:GAS:kochendes Fingerhirsebier]"
 
 #: plant_crops.txt:1126
 msgctxt "PLANT:FINGER_MILLET"
 msgid "[STATE_NAME_ADJ:ALL_SOLID:finger millet flour]"
-msgstr ""
+msgstr "[STATE_NAME_ADJ:ALL_SOLID:Fingerhirsemehl]"
 
 #: plant_crops.txt:1142
 msgctxt "PLANT:FINGER_MILLET"
 msgid "[SEED:finger millet:finger millet:]"
-msgstr ""
+msgstr "[SEED:Fingerhirse:Fingerhirse:]"
 
 #: plant_crops.txt:1145
 msgctxt "PLANT:FINGER_MILLET"
@@ -47033,7 +47038,7 @@ msgstr "[PREFSTRING:Korn]"
 #: plant_crops.txt:1147
 msgctxt "PLANT:FINGER_MILLET"
 msgid "[GROWTH_NAME:finger millet leaf:finger millet leaves]"
-msgstr ""
+msgstr "[GROWTH_NAME:Fingerhirseblatt:Fingerhirseblätter]"
 
 #: plant_crops.txt:1153
 msgctxt "PLANT:FOXTAIL_MILLET"
@@ -53755,17 +53760,17 @@ msgstr "[ADJ:Splitterspitze]"
 #: plant_standard.txt:710
 msgctxt "PLANT:SLIVER_BARB"
 msgid "[STATE_NAME_ADJ:ALL_SOLID:frozen gutter cruor]"
-msgstr ""
+msgstr "[STATE_NAME_ADJ:ALL_SOLID:gefrorener Splitterspitzenschnaps]"
 
 #: plant_standard.txt:711
 msgctxt "PLANT:SLIVER_BARB"
 msgid "[STATE_NAME_ADJ:LIQUID:gutter cruor]"
-msgstr ""
+msgstr "[STATE_NAME_ADJ:LIQUID:Splitterspitzenschnaps]"
 
 #: plant_standard.txt:712
 msgctxt "PLANT:SLIVER_BARB"
 msgid "[STATE_NAME_ADJ:GAS:boiling gutter cruor]"
-msgstr ""
+msgstr "[STATE_NAME_ADJ:GAS:Splitterspitzenschnaps]"
 
 #: plant_standard.txt:721
 msgctxt "PLANT:SLIVER_BARB"
@@ -56311,7 +56316,7 @@ msgstr "[REAGENT:Tasche:]"
 #: reaction_other.txt:328
 msgctxt "REACTION:PROCESS_PLANT_TO_BAG"
 msgid "[PRODUCT:100:5:GET_ITEM_DATA_FROM_REAGENT:plant:]"
-msgstr ""
+msgstr "[PRODUCT:100:5:GET_ITEM_DATA_FROM_REAGENT:Pflanze:]"
 
 #: reaction_other.txt:329
 msgctxt "REACTION:PROCESS_PLANT_TO_BAG"
