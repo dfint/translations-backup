@@ -85,7 +85,7 @@ def get_chart_url(path: Path) -> str:
     dataset: dict[str, dict[str, float]] = {}
     total_lines: int = 0
     labels: list[str] = []
-    for directory in path.glob("*"):
+    for directory in sorted(path.glob("*")):
         if directory.is_dir():
             stat = dir_stat(directory)
             dataset[directory.name] = stat[0]
