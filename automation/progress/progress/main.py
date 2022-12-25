@@ -12,11 +12,13 @@ from loguru import logger
 def translated_lines(path: Path | str) -> Tuple[int, int, float]:
     entries: int = 0
     translated_entries: int = 0
+
     with open(path, "r", encoding="utf-8") as file:
         for match in re.finditer(r'^msgid\s"(.+)"\nmsgstr\s"(.*)"\n', file.read(), re.RegexFlag.MULTILINE):
             entries += 1
             if match.group(2) != "":
                 translated_entries += 1
+
     return (
         entries,
         translated_entries,
@@ -28,12 +30,17 @@ def dir_stat(path: Path) -> Tuple[dict[str, float], int]:
     path = Path(path)
     output: dict[str, float] = {}
     total_lines: int = 0
+
     for file in sorted(path.glob("*")):
         if file.is_file():
-            file_name = file.stem
+            language = file.stem
             translated = translated_lines(file)
-            output[file_name] = translated[1]
+
+            if translated[1]:
+                output[language] = translated[1]
+
             total_lines = translated[0]
+
     return output, total_lines
 
 
@@ -85,6 +92,7 @@ def get_chart_url(path: Path) -> str:
     dataset: dict[str, dict[str, float]] = {}
     total_lines: int = 0
     labels: list[str] = []
+
     for directory in sorted(path.glob("*")):
         if directory.is_dir():
             stat = dir_stat(directory)
