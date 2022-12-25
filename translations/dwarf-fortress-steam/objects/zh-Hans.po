@@ -17,13 +17,13 @@
 # r zz, 2022
 # whfnet <whfnet@gmail.com>, 2022
 # Ikamu, 2022
-# 铭齐 梁, 2022
 # 朗笑, 2022
 # k Auro, 2022
+# 铭齐 梁, 2022
 # 
 msgid ""
 msgstr ""
-"Last-Translator: k Auro, 2022\n"
+"Last-Translator: 铭齐 梁, 2022\n"
 "Language-Team: Chinese Simplified (https://www.transifex.com/dwarf-fortress-translation/teams/22396/zh-Hans/)\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -11941,7 +11941,7 @@ msgstr "[NAME:羊:羊:羊]"
 #: creature_domestic.txt:729
 msgctxt "CREATURE:SHEEP"
 msgid "[GENERAL_CHILD_NAME:lamb:lambs]"
-msgstr ""
+msgstr "[GENERAL_CHILD_NAME:羊羔:羊羔]"
 
 #: creature_domestic.txt:733
 msgctxt "CREATURE:SHEEP"
@@ -11951,12 +11951,12 @@ msgstr ""
 #: creature_domestic.txt:734
 msgctxt "CREATURE:SHEEP"
 msgid "[PREFSTRING:wool]"
-msgstr ""
+msgstr "[PREFSTRING:羊毛]"
 
 #: creature_domestic.txt:750
 msgctxt "CREATURE:SHEEP"
 msgid "[STATE_NAME:ALL_SOLID:wool]"
-msgstr ""
+msgstr "[STATE_NAME:ALL_SOLID:羊毛]"
 
 #: creature_domestic.txt:751
 msgctxt "CREATURE:SHEEP"
@@ -11966,7 +11966,7 @@ msgstr ""
 #: creature_domestic.txt:757
 msgctxt "CREATURE:SHEEP"
 msgid "[TISSUE_NAME:wool:NP]"
-msgstr ""
+msgstr "[TISSUE_NAME:羊毛:NP]"
 
 #: creature_domestic.txt:787
 msgctxt "CREATURE:SHEEP"
@@ -11981,7 +11981,7 @@ msgstr ""
 #: creature_domestic.txt:813
 msgctxt "CREATURE:SHEEP"
 msgid "[ATTACK_VERB:gore:gores]"
-msgstr ""
+msgstr "[ATTACK_VERB:顶:顶]"
 
 #: creature_domestic.txt:827
 msgctxt "CREATURE:SHEEP"
@@ -12098,12 +12098,12 @@ msgstr "[NAME:猪:猪:猪]"
 #: creature_domestic.txt:872
 msgctxt "CREATURE:PIG"
 msgid "[GENERAL_CHILD_NAME:piglet:piglets]"
-msgstr ""
+msgstr "[GENERAL_CHILD_NAME:乳猪:乳猪]"
 
 #: creature_domestic.txt:876
 msgctxt "CREATURE:PIG"
 msgid "[PREFSTRING:snorts]"
-msgstr ""
+msgstr "[PREFSTRING:哼]"
 
 #: creature_domestic.txt:877
 msgctxt "CREATURE:PIG"
@@ -12235,7 +12235,7 @@ msgstr "[NAME:山羊:山羊:山羊]"
 #: creature_domestic.txt:987
 msgctxt "CREATURE:GOAT"
 msgid "[GENERAL_CHILD_NAME:goat kid:goat kids]"
-msgstr ""
+msgstr "[GENERAL_CHILD_NAME:山羊羔:山羊羔]"
 
 #: creature_domestic.txt:991
 msgctxt "CREATURE:GOAT"
@@ -12372,12 +12372,12 @@ msgstr "[NAME:鸡:鸡:鸡]"
 #: creature_domestic.txt:1117
 msgctxt "CREATURE:BIRD_CHICKEN"
 msgid "[GENERAL_CHILD_NAME:chick:chicks]"
-msgstr ""
+msgstr "[GENERAL_CHILD_NAME:鸡仔:鸡仔]"
 
 #: creature_domestic.txt:1132
 msgctxt "CREATURE:BIRD_CHICKEN"
 msgid "[PREFSTRING:clucking]"
-msgstr ""
+msgstr "[PREFSTRING:咯]"
 
 #: creature_domestic.txt:1133
 msgctxt "CREATURE:BIRD_CHICKEN"
@@ -12434,7 +12434,7 @@ msgstr ""
 #: creature_domestic.txt:1216
 msgctxt "CREATURE:CAVY"
 msgid "[NAME:cavy:cavies:cavy]"
-msgstr "[NAME:天竺鼠:天竺鼠:天竺鼠]"
+msgstr "[NAME:豚鼠:豚鼠:豚鼠]"
 
 #: creature_domestic.txt:1217
 msgctxt "CREATURE:CAVY"
@@ -12464,12 +12464,12 @@ msgstr ""
 #: creature_domestic.txt:1293
 msgctxt "CREATURE:CAVY"
 msgid "[CASTE_NAME:cavy sow:cavy sows:cavy sow]"
-msgstr "[CASTE_NAME:母天竺鼠:母天竺鼠:母天竺鼠]"
+msgstr "[CASTE_NAME:母豚鼠:母豚鼠:母豚鼠]"
 
 #: creature_domestic.txt:1296
 msgctxt "CREATURE:CAVY"
 msgid "[CASTE_NAME:cavy boar:cavy boars:cavy boar]"
-msgstr "[CASTE_NAME:公天竺鼠:公天竺鼠:公天竺鼠]"
+msgstr "[CASTE_NAME:公豚鼠:公豚鼠:公豚鼠]"
 
 #: creature_domestic.txt:1302
 msgctxt "CREATURE:CAVY"
@@ -12501,12 +12501,12 @@ msgstr "[NAME:鸭:鸭:鸭]"
 #: creature_domestic.txt:1313
 msgctxt "CREATURE:BIRD_DUCK"
 msgid "[GENERAL_CHILD_NAME:duckling:ducklings]"
-msgstr ""
+msgstr "[GENERAL_CHILD_NAME:小鸭:小鸭]"
 
 #: creature_domestic.txt:1334
 msgctxt "CREATURE:BIRD_DUCK"
 msgid "[PREFSTRING:quacks]"
-msgstr ""
+msgstr "[PREFSTRING:嘎]"
 
 #: creature_domestic.txt:1370
 msgctxt "CREATURE:BIRD_DUCK"
@@ -13188,12 +13188,12 @@ msgstr ""
 #: creature_domestic.txt:2016
 msgctxt "CREATURE:ALPACA"
 msgid "[PREFSTRING:long necks]"
-msgstr ""
+msgstr "[PREFSTRING:长颈]"
 
 #: creature_domestic.txt:2017
 msgctxt "CREATURE:ALPACA"
 msgid "[PREFSTRING:jutting teeth]"
-msgstr ""
+msgstr "[PREFSTRING:凸牙]"
 
 #: creature_domestic.txt:2018
 msgctxt "CREATURE:ALPACA"
@@ -13469,7 +13469,7 @@ msgstr ""
 #: creature_domestic.txt:2366
 msgctxt "CREATURE:BIRD_TURKEY"
 msgid "[PREFSTRING:wattle]"
-msgstr ""
+msgstr "[PREFSTRING:红色肉垂]"
 
 #: creature_domestic.txt:2367
 msgctxt "CREATURE:BIRD_TURKEY"
@@ -13479,7 +13479,7 @@ msgstr ""
 #: creature_domestic.txt:2368
 msgctxt "CREATURE:BIRD_TURKEY"
 msgid "[PREFSTRING:gobble]"
-msgstr ""
+msgstr "[PREFSTRING:咯咯]"
 
 #: creature_domestic.txt:2407
 msgctxt "CREATURE:BIRD_TURKEY"
@@ -13592,12 +13592,12 @@ msgstr ""
 #: creature_equipment.txt:7
 msgctxt "CREATURE:EQUIPMENT_WAGON"
 msgid "[NAME:wagon:wagons:wagon]"
-msgstr "[NAME:勒勒车:勒勒车:勒勒车]"
+msgstr "[NAME:货车:货车:货车]"
 
 #: creature_equipment.txt:8
 msgctxt "CREATURE:EQUIPMENT_WAGON"
 msgid "[CASTE_NAME:wagon:wagons:wagon]"
-msgstr "[CASTE_NAME:勒勒车:勒勒车:勒勒车]"
+msgstr "[CASTE_NAME:货车:货车:货车]"
 
 #: creature_equipment.txt:18
 msgctxt "CREATURE:EQUIPMENT_WAGON"
@@ -13642,7 +13642,7 @@ msgstr "[NAME:狮鹫:狮鹫:狮鹫]"
 #: creature_fanciful.txt:29
 msgctxt "CREATURE:GRIFFON"
 msgid "[CASTE_NAME:griffon:griffons:griffon]"
-msgstr ""
+msgstr "[CASTE_NAME:狮鹫:狮鹫:狮鹫]"
 
 #: creature_fanciful.txt:33
 msgctxt "CREATURE:GRIFFON"
@@ -13679,7 +13679,7 @@ msgstr ""
 #: creature_insects.txt:59
 msgctxt "CREATURE:FLY"
 msgid "[TLCM_NOUN:eyes:PLURAL]"
-msgstr ""
+msgstr "[TLCM_NOUN:复眼:PLURAL]"
 
 #: creature_insects.txt:66
 msgctxt "CREATURE:FLY_MAN"
@@ -13731,12 +13731,12 @@ msgstr ""
 #: creature_insects.txt:113
 msgctxt "CREATURE:ROACH_LARGE"
 msgid "[NAME:large roach:large roaches:large roach]"
-msgstr "[NAME:匍蜚蠊:匍蜚蠊:匍蜚蠊]"
+msgstr "[NAME:大蟑螂:大蟑螂:大蟑螂]"
 
 #: creature_insects.txt:114
 msgctxt "CREATURE:ROACH_LARGE"
 msgid "[CASTE_NAME:large roach:large roaches:large roach]"
-msgstr "[CASTE_NAME:匍蜚蠊:匍蜚蠊:匍蜚蠊]"
+msgstr "[CASTE_NAME:大蟑螂:大蟑螂:大蟑螂]"
 
 #: creature_insects.txt:124
 msgctxt "CREATURE:ROACH_LARGE"
@@ -13920,12 +13920,12 @@ msgstr ""
 #: creature_insects.txt:401
 msgctxt "CREATURE:BUTTERFLY_MONARCH"
 msgid "[NAME:monarch butterfly:monarch butterflies:monarch butterfly]"
-msgstr "[NAME:君主斑蝶:君主斑蝶:君主斑蝶]"
+msgstr "[NAME:帝王蝶:帝王蝶:帝王蝶]"
 
 #: creature_insects.txt:402
 msgctxt "CREATURE:BUTTERFLY_MONARCH"
 msgid "[CASTE_NAME:monarch butterfly:monarch butterflies:monarch butterfly]"
-msgstr "[CASTE_NAME:君主斑蝶:君主斑蝶:君主斑蝶]"
+msgstr "[CASTE_NAME:帝王蝶:帝王蝶:帝王蝶]"
 
 #: creature_insects.txt:409
 msgctxt "CREATURE:BUTTERFLY_MONARCH"
@@ -13947,7 +13947,7 @@ msgctxt "CREATURE:BUTTERFLY_MONARCH_MAN"
 msgid ""
 "[CASTE_NAME:monarch butterfly man:monarch butterfly men:monarch butterfly "
 "man]"
-msgstr "[CASTE_NAME:君主斑蝶人:君主斑蝶人:君主斑蝶人]"
+msgstr "[CASTE_NAME:帝王蝶人:帝王蝶人:帝王蝶人]"
 
 #: creature_insects.txt:458
 msgctxt "CREATURE:BUTTERFLY_MONARCH_MAN"
@@ -13960,7 +13960,7 @@ msgstr "[CASTE_NAME:君主斑蝶女:君主斑蝶女:君主斑蝶女]"
 msgctxt "CREATURE:BUTTERFLY_MONARCH_MAN"
 msgid ""
 "[NAME:monarch butterfly man:monarch butterfly men:monarch butterfly man]"
-msgstr "[NAME:君主斑蝶人:君主斑蝶人:君主斑蝶人]"
+msgstr "[NAME:帝王蝶人:帝王蝶人:帝王蝶人]"
 
 #: creature_insects.txt:468
 msgctxt "CREATURE:BUTTERFLY_MONARCH_MAN"
@@ -13972,14 +13972,14 @@ msgctxt "CREATURE:GIANT_BUTTERFLY_MONARCH"
 msgid ""
 "[NAME:giant monarch butterfly:giant monarch butterflies:giant monarch "
 "butterfly]"
-msgstr "[NAME:巨君主斑蝶:巨君主斑蝶:巨君主斑蝶]"
+msgstr "[NAME:巨帝王蝶:巨帝王蝶:巨帝王蝶]"
 
 #: creature_insects.txt:485
 msgctxt "CREATURE:GIANT_BUTTERFLY_MONARCH"
 msgid ""
 "[CASTE_NAME:giant monarch butterfly:giant monarch butterflies:giant monarch "
 "butterfly]"
-msgstr "[CASTE_NAME:巨君主斑蝶:巨君主斑蝶:巨君主斑蝶]"
+msgstr "[CASTE_NAME:巨帝王蝶:巨帝王蝶:巨帝王蝶]"
 
 #: creature_insects.txt:486
 msgctxt "CREATURE:GIANT_BUTTERFLY_MONARCH"
