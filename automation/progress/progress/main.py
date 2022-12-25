@@ -15,7 +15,7 @@ def translated_lines(path: Path | str) -> Tuple[int, int, float]:
     with open(path, "r", encoding="utf-8") as file:
         for match in re.finditer(r'^msgid\s"(.+)"\nmsgstr\s"(.*)"\n', file.read(), re.RegexFlag.MULTILINE):
             entries += 1
-            if match.group(1) != match.group(2) and match.group(2) != "":
+            if match.group(2) != "":
                 translated_entries += 1
     return (
         entries,
