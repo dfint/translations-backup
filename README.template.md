@@ -9,7 +9,8 @@ Automatically pulls translations from transifex site. If there are any changes t
 ### dwarf-fortress-steam
 
 ![Chart]({{ dwarf_fortress_steam_chart_url }})
-
+<!--
 ### dwarf-fortress
 
 ![Chart]({{ dwarf_fortress_chart_url }})
+-->
