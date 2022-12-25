@@ -22,9 +22,9 @@ def translated_lines(path: Path | str) -> Tuple[int, int]:
     return entries, translated_entries
 
 
-def resource_stat(path: Path) -> Tuple[dict[str, float], int]:
+def resource_stat(path: Path) -> Tuple[dict[str, int], int]:
     path = Path(path)
-    output: dict[str, float] = {}
+    output: dict[str, int] = {}
     total_lines: int = 0
 
     for file in sorted(filter(Path.is_file, path.glob("*.po"))):
@@ -36,11 +36,7 @@ def resource_stat(path: Path) -> Tuple[dict[str, float], int]:
 
 
 def chart_struct(data: dict[str, dict[str, float]], labels: list[str], max_lines: int) -> dict[str, Any]:
-    datasets: list[Any] = []
-
-    for resource, lines in data.items():
-        # values = [round(elem * 100, 2) for elem in list(lines.values())]
-        datasets.append(dict(label=resource, data=list(lines.values())))
+    datasets = [dict(label=resource, data=list(lines.values())) for resource, lines in data.items()]
 
     return dict(
         type="horizontalBar",
@@ -63,16 +59,15 @@ def chart_struct(data: dict[str, dict[str, float]], labels: list[str], max_lines
     )
 
 
-def chart_url(data: dict[str, Any]) -> str:
+def chart_url(chart_data: dict[str, Any]) -> str:
     url = "https://quickchart.io/chart/create"
     payload = dict(
         width=600,
         height=600,
         backgroundColor="rgb(255, 255, 255)",
         format="png",
-        chart=data,
+        chart=chart_data,
     )
-    print(json.dumps(payload))
 
     headers = {"Content-type": "application/json"}
     response = requests.post(url, json=payload, headers=headers)
@@ -82,18 +77,17 @@ def chart_url(data: dict[str, Any]) -> str:
 def get_chart_url(path: Path) -> str:
     dataset: dict[str, dict[str, float]] = {}
     total_lines: int = 0
-    labels: list[str] = []
+    labels: set[str] = set()
 
     for directory in sorted(filter(Path.is_dir, path.glob("*"))):
-        stat = resource_stat(directory)
+        resource_stats, resource_total_lines = resource_stat(directory)
         resource_name = directory.name
-        dataset[resource_name] = stat[0]
-        total_lines += stat[1]
-        labels = list(stat[0].keys())
+        dataset[resource_name] = resource_stats
+        total_lines += resource_total_lines
+        labels.update(resource_stats.keys())
 
-    chart = chart_url(chart_struct(dataset, labels, total_lines))
-
-    return chart
+    print(json.dumps(dataset))
+    return chart_url(chart_struct(dataset, sorted(labels), total_lines))
 
 
 app = typer.Typer()
