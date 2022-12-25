@@ -56,7 +56,7 @@ def chart_struct(data: dict[str, dict[str, float]], labels: list[str], max_lines
                         "ticks": {
                             "beginAtZero": True,
                             "max": max_lines,
-                            "stepSize": 7500,
+                            "stepSize": 10000,
                         },
                     }
                 ],
