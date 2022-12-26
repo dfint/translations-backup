@@ -9,7 +9,6 @@
 # jj z, 2022
 # 墨漓 Mori, 2022
 # NineMonth Eternal, 2022
-# yih U, 2022
 # 梓程 刘, 2022
 # 111 111, 2022
 # jiang jeff, 2022
@@ -21,10 +20,11 @@
 # k Auro, 2022
 # 铭齐 梁, 2022
 # 奥里给大菠萝, 2022
+# Lisherex Lisherex, 2022
 # 
 msgid ""
 msgstr ""
-"Last-Translator: 奥里给大菠萝, 2022\n"
+"Last-Translator: Lisherex Lisherex, 2022\n"
 "Language-Team: Chinese Simplified (https://www.transifex.com/dwarf-fortress-translation/teams/22396/zh-Hans/)\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -12885,7 +12885,7 @@ msgctxt "CREATURE:YAK"
 msgid ""
 "[DESCRIPTION:A large mammalian herbivore.  It has long fur and curving "
 "horns.  It can be found in the mountains.]"
-msgstr "一种大型哺乳动物食草动物。它有长长的皮毛和弯曲的角。它可以在山上找到。"
+msgstr "[DESCRIPTION:一种大型哺乳动物食草动物。它有长长的皮毛和弯曲的角。它可以在山上找到。]"
 
 #: creature_domestic.txt:1754
 msgctxt "CREATURE:YAK"
@@ -14674,97 +14674,97 @@ msgstr "[CASTE_NAME:山地精;山地精:山地精]"
 #: creature_large_mountain.txt:325
 msgctxt "CREATURE:GNOME_MOUNTAIN"
 msgid "[PREFSTRING:ability to hold liquor]"
-msgstr ""
+msgstr "[PREFSTRING:可饮酒]"
 
 #: creature_large_mountain.txt:364
 msgctxt "CREATURE:GNOME_MOUNTAIN"
 msgid "[CDI:ADV_NAME:Pet animal]"
-msgstr ""
+msgstr "[CDI:CDI:ADV_NAME:宠物]"
 
 #: creature_large_mountain.txt:367
 msgctxt "CREATURE:GNOME_MOUNTAIN"
 msgid "[CDI:VERB:pet:pets:pets]"
-msgstr ""
+msgstr "[CDI:VERB:宠物:宠物:宠物]"
 
 #: creature_large_mountain.txt:374
 msgctxt "CREATURE:GNOME_MOUNTAIN"
 msgid "[CDI:ADV_NAME:Spit]"
-msgstr ""
+msgstr "[CDI:ADV_NAME:吐]"
 
 #: creature_large_mountain.txt:379
 msgctxt "CREATURE:GNOME_MOUNTAIN"
 msgid "[CDI:VERB:spit:spits:NA]"
-msgstr ""
+msgstr "[CDI:VERB:吐:吐:NA]"
 
 #: creature_large_mountain.txt:392
 msgctxt "CREATURE:GNOME_MOUNTAIN"
 msgid "[APP_MOD_NOUN:eyes:PLURAL]"
-msgstr ""
+msgstr "[APP_MOD_NOUN:眼睛:PLURAL]"
 
 #: creature_large_mountain.txt:403
 msgctxt "CREATURE:GNOME_MOUNTAIN"
 msgid "[APP_MOD_NOUN:lips:PLURAL]"
-msgstr ""
+msgstr "[APP_MOD_NOUN:嘴唇:PLURAL]"
 
 #: creature_large_mountain.txt:413
 msgctxt "CREATURE:GNOME_MOUNTAIN"
 msgid "[APP_MOD_NOUN:nose bridge:SINGULAR]"
-msgstr ""
+msgstr "[APP_MOD_NOUN:鼻梁:SINGULAR]"
 
 #: creature_large_mountain.txt:417
 msgctxt "CREATURE:GNOME_MOUNTAIN"
 msgid "[APP_MOD_NOUN:ears:PLURAL]"
-msgstr ""
+msgstr "[APP_MOD_NOUN:双耳:PLURAL]"
 
 #: creature_large_mountain.txt:431
 msgctxt "CREATURE:GNOME_MOUNTAIN"
 msgid "[APP_MOD_NOUN:teeth:PLURAL]"
-msgstr ""
+msgstr "[APP_MOD_NOUN:牙齿:PLURAL]"
 
 #: creature_large_mountain.txt:458
 msgctxt "CREATURE:GNOME_MOUNTAIN"
 msgid "[ATTACK_VERB:punch:punches]"
-msgstr ""
+msgstr "[ATTACK_VERB:打:打]"
 
 #: creature_large_mountain.txt:465
 msgctxt "CREATURE:GNOME_MOUNTAIN"
 msgid "[ATTACK_VERB:scratch:scratches]"
-msgstr ""
+msgstr "[ATTACK_VERB:挠:挠]"
 
 #: creature_large_mountain.txt:473
 msgctxt "CREATURE:GNOME_MOUNTAIN"
 msgid "[ATTACK_VERB:bite:bites]"
-msgstr ""
+msgstr "[ATTACK_VERB:咬:咬]"
 
 #: creature_large_mountain.txt:507
 msgctxt "CREATURE:GNOME_MOUNTAIN"
 msgid "[TLCM_NOUN:hair:SINGULAR]"
-msgstr ""
+msgstr "[TLCM_NOUN:毛发:SINGULAR]"
 
 #: creature_large_mountain.txt:516
 msgctxt "CREATURE:GNOME_MOUNTAIN"
 msgid "[APP_MOD_NOUN:eyebrows:PLURAL]"
-msgstr ""
+msgstr "[APP_MOD_NOUN:眉毛:PLURAL]"
 
 #: creature_large_mountain.txt:525
 msgctxt "CREATURE:GNOME_MOUNTAIN"
 msgid "[APP_MOD_NOUN:eyelashes:PLURAL]"
-msgstr ""
+msgstr "[APP_MOD_NOUN:睫毛:PLURAL]"
 
 #: creature_large_mountain.txt:533
 msgctxt "CREATURE:GNOME_MOUNTAIN"
 msgid "[APP_MOD_NOUN:hair:SINGULAR]"
-msgstr ""
+msgstr "[APP_MOD_NOUN:毛发:SINGULAR]"
 
 #: creature_large_mountain.txt:549
 msgctxt "CREATURE:GNOME_MOUNTAIN"
 msgid "[TLCM_NOUN:skin:SINGULAR]"
-msgstr ""
+msgstr "[TLCM_NOUN:皮:SINGULAR]"
 
 #: creature_large_mountain.txt:552
 msgctxt "CREATURE:GNOME_MOUNTAIN"
 msgid "[TLCM_NOUN:eyes:PLURAL]"
-msgstr ""
+msgstr "[TLCM_NOUN:眼睛:PLURAL]"
 
 #: creature_large_mountain.txt:555
 msgctxt "CREATURE:GNOME_DARK"
@@ -34638,149 +34638,149 @@ msgstr ""
 #: creature_temperate_new.txt:1623
 msgctxt "CREATURE:BOBCAT_MAN"
 msgid "[DESCRIPTION:A person with the head and short tail of a bobcat.]"
-msgstr ""
+msgstr "[DESCRIPTION:一"
 
 #: creature_temperate_new.txt:1641
 msgctxt "CREATURE:GIANT_BOBCAT"
 msgid "[NAME:giant bobcat:giant bobcats:giant bobcat]"
-msgstr ""
+msgstr "[NAME:巨山猫:巨山猫:巨山猫]"
 
 #: creature_temperate_new.txt:1642
 msgctxt "CREATURE:GIANT_BOBCAT"
 msgid "[CASTE_NAME:giant bobcat:giant bobcats:giant bobcat]"
-msgstr ""
+msgstr "[CASTE_NAME:巨山猫:巨山猫:巨山猫]"
 
 #: creature_temperate_new.txt:1643
 msgctxt "CREATURE:GIANT_BOBCAT"
 msgid "[GENERAL_CHILD_NAME:giant bobcat kitten:giant bobcat kittens]"
-msgstr ""
+msgstr "[GENERAL_CHILD_NAME:巨山猫幼兽:巨山猫幼兽:巨山猫幼兽]"
 
 #: creature_temperate_new.txt:1644
 msgctxt "CREATURE:GIANT_BOBCAT"
 msgid "[DESCRIPTION:A large monster in the form of a bobcat.]"
-msgstr ""
+msgstr "[DESCRIPTION:一种山猫外形的巨大怪物。]"
 
 #: creature_temperate_new.txt:1653
 msgctxt "CREATURE:GIANT_BOBCAT"
 msgid "[PREFSTRING:short tails]"
-msgstr ""
+msgstr "[PREFSTRING:短尾巴]"
 
 #: creature_temperate_new.txt:1661
 msgctxt "CREATURE:SKUNK"
 msgid ""
 "[DESCRIPTION:A small black and white mammal.  It is capable of spraying a "
 "stinking fluid.]"
-msgstr ""
+msgstr "[DESCRIPTION:一种小型黑白相间的哺乳动物。它能够喷出恶臭味的液体。]"
 
 #: creature_temperate_new.txt:1662
 msgctxt "CREATURE:SKUNK"
 msgid "[NAME:skunk:skunks:skunk]"
-msgstr ""
+msgstr "[NAME:臭鼬:臭鼬:臭鼬]"
 
 #: creature_temperate_new.txt:1663
 msgctxt "CREATURE:SKUNK"
 msgid "[CASTE_NAME:skunk:skunks:skunk]"
-msgstr ""
+msgstr "[CASTE_NAME:臭鼬:臭鼬:臭鼬]"
 
 #: creature_temperate_new.txt:1664
 msgctxt "CREATURE:SKUNK"
 msgid "[GENERAL_CHILD_NAME:skunk kit:skunk kits]"
-msgstr ""
+msgstr "[GENERAL_CHILD_NAME:臭鼬幼崽:臭鼬幼崽]"
 
 #: creature_temperate_new.txt:1679
 msgctxt "CREATURE:SKUNK"
 msgid "[PREFSTRING:distinctive striping]"
-msgstr ""
+msgstr "[PREFSTRING:独特的条纹]"
 
 #: creature_temperate_new.txt:1680
 msgctxt "CREATURE:SKUNK"
 msgid "[PREFSTRING:foul smell]"
-msgstr ""
+msgstr "[PREFSTRING:臭味]"
 
 #: creature_temperate_new.txt:1718
 msgctxt "CREATURE:SKUNK"
 msgid "[ATTACK_VERB:bite:bites]"
-msgstr ""
+msgstr "[ATTACK_VERB:咬:咬]"
 
 #: creature_temperate_new.txt:1727
 msgctxt "CREATURE:SKUNK"
 msgid "[ATTACK_VERB:scratch:scratches]"
-msgstr ""
+msgstr "[ATTACK_VERB:挠:挠]"
 
 #: creature_temperate_new.txt:1749
 msgctxt "CREATURE:SKUNK"
 msgid "[TLCM_NOUN:hair:SINGULAR]"
-msgstr ""
+msgstr "[TLCM_NOUN:毛发:SINGULAR]"
 
 #: creature_temperate_new.txt:1752
 msgctxt "CREATURE:SKUNK"
 msgid "[TLCM_NOUN:skin:SINGULAR]"
-msgstr ""
+msgstr "[TLCM_NOUN:皮肤:SINGULAR]"
 
 #: creature_temperate_new.txt:1755
 msgctxt "CREATURE:SKUNK"
 msgid "[TLCM_NOUN:eyes:PLURAL]"
-msgstr ""
+msgstr "[TLCM_NOUN:眼睛:PLURAL]"
 
 #: creature_temperate_new.txt:1762
 msgctxt "CREATURE:SKUNK_MAN"
 msgid "[CASTE_NAME:skunk man:skunk men:skunk man]"
-msgstr ""
+msgstr "[CASTE_NAME:臭鼬人:臭鼬人:臭鼬人]"
 
 #: creature_temperate_new.txt:1764
 msgctxt "CREATURE:SKUNK_MAN"
 msgid "[CASTE_NAME:skunk woman:skunk women:skunk woman]"
-msgstr ""
+msgstr "[CASTE_NAME:臭鼬女:臭鼬女:臭鼬女]"
 
 #: creature_temperate_new.txt:1775
 msgctxt "CREATURE:SKUNK_MAN"
 msgid "[NAME:skunk man:skunk men:skunk man]"
-msgstr ""
+msgstr "[NAME:臭鼬人:臭鼬人:臭鼬人]"
 
 #: creature_temperate_new.txt:1776
 msgctxt "CREATURE:SKUNK_MAN"
 msgid "[DESCRIPTION:A striped person with the head and tail of a skunk.]"
-msgstr ""
+msgstr "[DESCRIPTION:一种长着臭鼬头和臭鼬尾巴的人。]"
 
 #: creature_temperate_new.txt:1794
 msgctxt "CREATURE:GIANT_SKUNK"
 msgid "[NAME:giant skunk:giant skunks:giant skunk]"
-msgstr ""
+msgstr "[NAME:巨臭鼬:巨臭鼬:巨臭鼬]"
 
 #: creature_temperate_new.txt:1795
 msgctxt "CREATURE:GIANT_SKUNK"
 msgid "[CASTE_NAME:giant skunk:giant skunks:giant skunk]"
-msgstr ""
+msgstr "[CASTE_NAME:巨臭鼬:巨臭鼬:巨臭鼬]"
 
 #: creature_temperate_new.txt:1796
 msgctxt "CREATURE:GIANT_SKUNK"
 msgid "[GENERAL_CHILD_NAME:giant skunk kit:giant skunk kits]"
-msgstr ""
+msgstr "[GENERAL_CHILD_NAME:巨臭鼬幼兽:巨臭鼬幼兽]"
 
 #: creature_temperate_new.txt:1797
 msgctxt "CREATURE:GIANT_SKUNK"
 msgid "[DESCRIPTION:A large monster in the form of a skunk.]"
-msgstr ""
+msgstr "[DESCRIPTION: 一种臭鼬外形的巨大怪物。]"
 
 #: creature_temperate_new.txt:1806
 msgctxt "CREATURE:GIANT_SKUNK"
 msgid "[PREFSTRING:distinctive striping]"
-msgstr ""
+msgstr "[PREFSTRING:独特的条纹]"
 
 #: creature_temperate_new.txt:1807
 msgctxt "CREATURE:GIANT_SKUNK"
 msgid "[PREFSTRING:foul smell]"
-msgstr ""
+msgstr "[PREFSTRING:臭味]"
 
 #: creature_temperate_new.txt:1815
 msgctxt "CREATURE:GREEN_TREE_FROG"
 msgid "[DESCRIPTION:A tiny amphibian that lives in the trees.]"
-msgstr ""
+msgstr "[DESCRIPTION:一种生活在树上的微型两栖类动物。]"
 
 #: creature_temperate_new.txt:1816
 msgctxt "CREATURE:GREEN_TREE_FROG"
 msgid "[NAME:green tree frog:green tree frogs:green tree frog]"
-msgstr ""
+msgstr "[NAME:绿树蛙:绿树蛙:绿树蛙]"
 
 #: creature_temperate_new.txt:1817
 msgctxt "CREATURE:GREEN_TREE_FROG"
@@ -34790,22 +34790,22 @@ msgstr "[CASTE_NAME:绿树蛙:绿树蛙:绿树蛙]"
 #: creature_temperate_new.txt:1829
 msgctxt "CREATURE:GREEN_TREE_FROG"
 msgid "[PREFSTRING:distinct mating call]"
-msgstr ""
+msgstr "[PREFSTRING:清晰的交配叫声]"
 
 #: creature_temperate_new.txt:1859
 msgctxt "CREATURE:GREEN_TREE_FROG"
 msgid "[ATTACK_VERB:bite:bites]"
-msgstr ""
+msgstr "[ATTACK_VERB:咬:叮咬]"
 
 #: creature_temperate_new.txt:1879
 msgctxt "CREATURE:GREEN_TREE_FROG"
 msgid "[TLCM_NOUN:skin:SINGULAR]"
-msgstr ""
+msgstr "[TLCM_NOUN:皮肤:SINGULAR]"
 
 #: creature_temperate_new.txt:1882
 msgctxt "CREATURE:GREEN_TREE_FROG"
 msgid "[TLCM_NOUN:eyes:PLURAL]"
-msgstr ""
+msgstr "[TLCM_NOUN:眼睛:PLURAL]"
 
 #: creature_temperate_new.txt:1889
 msgctxt "CREATURE:GREEN_TREE_FROG_MAN"
@@ -34828,7 +34828,7 @@ msgstr "[NAME:绿树蛙人:绿树蛙人:绿树蛙人]"
 #: creature_temperate_new.txt:1902
 msgctxt "CREATURE:GREEN_TREE_FROG_MAN"
 msgid "[DESCRIPTION:A green person with the head of a green tree frog.]"
-msgstr "[DESCRIPTION:一个长着绿树蛙脑袋的绿色的人。]"
+msgstr "[DESCRIPTION:一种长着绿树蛙脑袋的绿色的人。]"
 
 #: creature_temperate_new.txt:1918
 msgctxt "CREATURE:GIANT_GREEN_TREE_FROG"
@@ -34846,7 +34846,7 @@ msgstr "[CASTE_NAME:巨型绿树蛙:巨型绿树蛙:巨型绿树蛙]"
 #: creature_temperate_new.txt:1920
 msgctxt "CREATURE:GIANT_GREEN_TREE_FROG"
 msgid "[DESCRIPTION:A large monster in the shape of a green tree frog.]"
-msgstr "[DESCRIPTION:一只体型巨大的绿树蛙怪。]"
+msgstr "[DESCRIPTION:一种绿树蛙外形的巨大怪物。]"
 
 #: creature_temperate_new.txt:1929
 msgctxt "CREATURE:GIANT_GREEN_TREE_FROG"

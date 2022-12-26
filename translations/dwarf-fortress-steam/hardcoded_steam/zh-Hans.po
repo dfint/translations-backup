@@ -78,14 +78,15 @@
 # 铭齐 梁, 2022
 # 朗笑, 2022
 # andylaw E, 2022
-# Kagamine_Lily, 2022
 # 芒果刨冰 玩家, 2022
 # whfnet <whfnet@gmail.com>, 2022
 # 奥里给大菠萝, 2022
+# Kagamine_Lily, 2022
+# Andrew Lin, 2022
 # 
 msgid ""
 msgstr ""
-"Last-Translator: 奥里给大菠萝, 2022\n"
+"Last-Translator: Andrew Lin, 2022\n"
 "Language-Team: Chinese Simplified (https://www.transifex.com/dwarf-fortress-translation/teams/22396/zh-Hans/)\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -506,7 +507,7 @@ msgstr "你不能在这里表演。"
 
 #: stringdump_steam_2022_12_06.txt:156
 msgid "You could not find a partner."
-msgstr "你找不到合作伙伴。"
+msgstr "你找不到搭伴。"
 
 #: stringdump_steam_2022_12_06.txt:157
 msgid "Some children"
@@ -546,11 +547,11 @@ msgstr "表演者"
 
 #: stringdump_steam_2022_12_06.txt:166
 msgid "a toy"
-msgstr "一个玩具"
+msgstr "一件玩具"
 
 #: stringdump_steam_2022_12_06.txt:167
 msgid "the story of "
-msgstr "这个故事是关于"
+msgstr "的故事"
 
 #: stringdump_steam_2022_12_06.txt:168
 msgid "a sermon on "
@@ -9389,6 +9390,8 @@ msgid ""
 "[C:6:0:0]Bridge[C:7:0:0] or [C:6:0:0]Door[C:7:0:0].  This will lock the "
 "[C:6:0:0]Door[C:7:0:0] "
 msgstr ""
+"然后点击[C:6:0:0] 拉杆[C:7:0:0] 并将其连接到一座 [C:6:0:0]桥[C:7:0:0] 或一扇 "
+"[C:6:0:0]房门[C:7:0:0]上.  这将锁定 [C:6:0:0]房门[C:7:0:0] "
 
 #: stringdump_steam_2022_12_06.txt:2299
 msgid ""
@@ -9396,6 +9399,8 @@ msgid ""
 " -> [C:5:0:1]Machines/fluids[C:7:0:0] -> [C:5:0:1]Lever[C:7:0:0] to build a "
 "[C:6:0:0]Lever[C:7:0:0]. "
 msgstr ""
+"使用[C:5:0:1]建造[C:7:0:0] ->[C:5:0:1]机械/流体[C:7:0:0] -> "
+"[C:5:0:1]杠杆[C:7:0:0]来建造[C:6:0:0]杠杆[C:7:0:0].来阻止敌人进入要塞"
 
 #: stringdump_steam_2022_12_06.txt:2300
 msgid ""
@@ -9586,7 +9591,7 @@ msgstr "[C:7:0:1]寺庙[C:7:0:0]"
 msgid ""
 "visitors drinks. There is also an option to allow outsiders to come to your "
 "[C:1:0:1]Tavern[C:7:0:0]."
-msgstr ""
+msgstr "访客饮酒 . 你也可以选择允许外人进入你的 [C:1:0:1]酒馆[C:7:0:0]."
 
 #: stringdump_steam_2022_12_06.txt:2332
 msgid ""
@@ -9594,6 +9599,8 @@ msgid ""
 "[C:5:0:0]Performers[C:7:0:0] or a [C:5:0:0]Tavern Keeper[C:7:0:0] who will "
 "serve the "
 msgstr ""
+"从 [C:5:0:1]酒馆信息菜单[C:7:0:0] 中，您可以指派分配 [C:5:0:0]演员[C:7:0:0] 或 [C:5:0:0] "
+"酒保[C:7:0:0] ，以此让他们服务于"
 
 #: stringdump_steam_2022_12_06.txt:2333
 msgid ""
@@ -9602,6 +9609,9 @@ msgid ""
 "sufficient, but [C:1:0:1]Locations[C:7:0:0] can span several "
 "[C:3:0:0]Zones[C:7:0:0]. "
 msgstr ""
+"[C:3:0:0]区域[C:7:0:0] 可以分配给特殊的 [C:1:0:1] 地点[C:7:0:0]. 通常一个 "
+"[C:3:0:0]聚集区域[C:7:0:0] 就已足够, 但是[C:1:0:1]地点[C:7:0:0] 也可以涵盖多个 "
+"[C:3:0:0]区域[C:7:0:0]. "
 
 #: stringdump_steam_2022_12_06.txt:2334
 msgid ""
@@ -9659,7 +9669,7 @@ msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:2343
 msgid "they are seen by a [C:5:0:0]Doctor[C:7:0:0]. "
-msgstr ""
+msgstr "他们被 [C:5:0:0]医师[C:7:0:0]看见. "
 
 #: stringdump_steam_2022_12_06.txt:2344
 msgid ""
@@ -9755,7 +9765,7 @@ msgstr ""
 msgid ""
 "and [C:5:0:0]Scribes[C:7:0:0] to record them. Beware!  Some knowledge is "
 "dangerous."
-msgstr ""
+msgstr "并且 [C:5:0:0]抄写员[C:7:0:0] 将会记录下它们 . 但是请当心，有些知识是颇为危险的！"
 
 #: stringdump_steam_2022_12_06.txt:2360
 msgid ""
