@@ -6,10 +6,12 @@
 # Rodrigo Puerare, 2022
 # Rafael Porto, 2022
 # Vitor Zig Garcia, 2022
+# Alexandre Hernandes, 2022
+# Enzo Azevedo, 2022
 # 
 msgid ""
 msgstr ""
-"Last-Translator: Vitor Zig Garcia, 2022\n"
+"Last-Translator: Enzo Azevedo, 2022\n"
 "Language-Team: Portuguese (Brazil) (https://www.transifex.com/dwarf-fortress-translation/teams/22396/pt_BR/)\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -34,12 +36,12 @@ msgstr "[BP:UB:corpo:corpos]"
 #: body_default.txt:21
 msgctxt "BODY:BASIC_2PARTBODY"
 msgid "[BP:UB:upper body:upper bodies]"
-msgstr "[BP:UB:corpo superior:corpos superiores]"
+msgstr "[BP:UB:parte superior:partes superiores]"
 
 #: body_default.txt:23
 msgctxt "BODY:BASIC_2PARTBODY"
 msgid "[BP:LB:lower body:lower bodies]"
-msgstr "[BP:LB:corpo inferior:corpos inferiores]"
+msgstr "[BP:LB:parte inferior:partes inferiores]"
 
 #: body_default.txt:27
 msgctxt "BODY:BASIC_3PARTARMS"
@@ -124,22 +126,22 @@ msgstr "[BP:LH:pé dianteiro esquerdo:pés dianteiros esquerdos]"
 #: body_default.txt:65
 msgctxt "BODY:BASIC_REARLEGS"
 msgid "[BP:RL:right rear leg:STP]"
-msgstr "[BP:RL:perna traseira direita:STP]"
+msgstr "[BP:RL:perna direita posterior:STP]"
 
 #: body_default.txt:67
 msgctxt "BODY:BASIC_REARLEGS"
 msgid "[BP:LL:left rear leg:STP]"
-msgstr "[BP:LL:perna traseira esquerda:STP]"
+msgstr "[BP:LL:perna esquerda posterior:STP]"
 
 #: body_default.txt:69
 msgctxt "BODY:BASIC_REARLEGS"
 msgid "[BP:RF:right rear foot:right rear feet]"
-msgstr "[BP:RF:pé traseiro direito:pés traseiros direitos]"
+msgstr "[BP:RF:calcanhar do pé direito:calcanhares do pé direito]"
 
 #: body_default.txt:71
 msgctxt "BODY:BASIC_REARLEGS"
 msgid "[BP:LF:left rear foot:left rear feet]"
-msgstr "[BP:LF:pé traseiro esquerdo:pés traseiros esquerdos]"
+msgstr "[BP:RF:calcanhar do pé esquerda:calcanhares do pé esquerdo]"
 
 #: body_default.txt:75
 msgctxt "BODY:ARMS_STANCE"
@@ -23641,9 +23643,9 @@ msgid ""
 "It walks on two legs and has the head of a bird with the antlers of a great "
 "elk.]"
 msgstr ""
-"[DESCRIPTION:Uma grande criatura encontrada pastando cogumelos no subsolo "
-"profundo. Caminha sobre duas patas e tem a cabeça de uma ave com chifres de "
-"um grande alce.]"
+"[DESCRIPTION:Uma grande criatura encontrada nas profundezas do subterrâneo, "
+"pastando por cogumelos.  Caminha sobre duas patas e tem a cabeça de uma ave "
+"com chifres de um grande alce.]"
 
 #: creature_next_underground.txt:747
 msgctxt "CREATURE:ELK_BIRD"
@@ -24685,7 +24687,7 @@ msgid ""
 "[DESCRIPTION:A small humanoid resembling a walking mushroom with arms and "
 "legs.  It lives far underground near water and soil.]"
 msgstr ""
-"[DESCRIPTION:Um pequeno humanoide que se assemelha a um cogumelo ambulante "
+"[DESCRIPTION:Um pequeno humanoide que se assemelha a um cogumelo ambulante, "
 "com braços e pernas. Vive no subterrâneo, perto da água e do solo.]"
 
 #: creature_next_underground.txt:2409
@@ -41145,7 +41147,7 @@ msgstr "[NAME:parafuso:parafusos]"
 #: item_ammo.txt:9
 msgctxt "ITEM_AMMO:ITEM_AMMO_BOLTS"
 msgid "[ATTACK:EDGE:5:1000:stab:stabs:NO_SUB:]"
-msgstr "[ATTACK: Borda: 5: 1000: facada: facadas: NO_SUB:]"
+msgstr ""
 
 #: item_ammo.txt:13
 msgctxt "ITEM_AMMO:ITEM_AMMO_ARROWS"
@@ -41155,7 +41157,7 @@ msgstr "[NAME:flecha:flechas]"
 #: item_ammo.txt:16
 msgctxt "ITEM_AMMO:ITEM_AMMO_ARROWS"
 msgid "[ATTACK:EDGE:5:1000:stab:stabs:NO_SUB:]"
-msgstr "[ATTACK: Borda: 5: 1000: facada: facadas: NO_SUB:]"
+msgstr ""
 
 #: item_ammo.txt:20
 msgctxt "ITEM_AMMO:ITEM_AMMO_BLOWDARTS"
@@ -41165,7 +41167,7 @@ msgstr "[NAME:blowdart:blowdarts]"
 #: item_ammo.txt:23
 msgctxt "ITEM_AMMO:ITEM_AMMO_BLOWDARTS"
 msgid "[ATTACK:EDGE:1:50:stick:sticks:NO_SUB:]"
-msgstr "[ATTACK: Borda: 1: 50: vara: Varas: NO_SUB:]"
+msgstr ""
 
 #: item_armor.txt:6
 msgctxt "ITEM_ARMOR:ITEM_ARMOR_BREASTPLATE"
@@ -41330,7 +41332,7 @@ msgstr "[NAME: leggings: leggings]"
 #: item_pants.txt:52
 msgctxt "ITEM_PANTS:ITEM_PANTS_LOINCLOTH"
 msgid "[NAME:loincloth:loincloths]"
-msgstr "[NAME: tanga: tangas]"
+msgstr "[NAME:tanga:tangas]"
 
 #: item_pants.txt:63
 msgctxt "ITEM_PANTS:ITEM_PANTS_THONG"
@@ -41450,12 +41452,12 @@ msgstr "[NAME: carving faca: facas carving]"
 #: item_tool.txt:64
 msgctxt "ITEM_TOOL:ITEM_TOOL_KNIFE_CARVING"
 msgid "[ATTACK:EDGE:800:600:slash:slashes:NO_SUB:]"
-msgstr "[ATTACK: Borda: 800: 600: barra: barras: NO_SUB:]"
+msgstr ""
 
 #: item_tool.txt:66
 msgctxt "ITEM_TOOL:ITEM_TOOL_KNIFE_CARVING"
 msgid "[ATTACK:EDGE:4:800:stab:stabs:NO_SUB:]"
-msgstr "[ATTACK: Borda: 4: 800: facada: facadas: NO_SUB:]"
+msgstr ""
 
 #: item_tool.txt:68
 msgctxt "ITEM_TOOL:ITEM_TOOL_KNIFE_CARVING"
@@ -41470,12 +41472,12 @@ msgstr "[NAME: desossa faca: facas de desossa]"
 #: item_tool.txt:82
 msgctxt "ITEM_TOOL:ITEM_TOOL_KNIFE_BONING"
 msgid "[ATTACK:EDGE:500:300:slash:slashes:NO_SUB:]"
-msgstr "[ATTACK: Borda: 500: 300: barra: barras: NO_SUB:]"
+msgstr ""
 
 #: item_tool.txt:84
 msgctxt "ITEM_TOOL:ITEM_TOOL_KNIFE_BONING"
 msgid "[ATTACK:EDGE:2:400:stab:stabs:NO_SUB:]"
-msgstr "[ATTACK: Borda: 2: 400: facada: facadas: NO_SUB:]"
+msgstr ""
 
 #: item_tool.txt:86
 msgctxt "ITEM_TOOL:ITEM_TOOL_KNIFE_BONING"
@@ -41490,12 +41492,12 @@ msgstr "[NAME: cortando faca: facas que cortam]"
 #: item_tool.txt:100
 msgctxt "ITEM_TOOL:ITEM_TOOL_KNIFE_SLICING"
 msgid "[ATTACK:EDGE:900:700:slash:slashes:NO_SUB:]"
-msgstr "[ATTACK: Borda: 900: 700: barra: barras: NO_SUB:]"
+msgstr ""
 
 #: item_tool.txt:102
 msgctxt "ITEM_TOOL:ITEM_TOOL_KNIFE_SLICING"
 msgid "[ATTACK:EDGE:3:900:stab:stabs:NO_SUB:]"
-msgstr "[ATTACK: Borda: 3: 900: facada: facadas: NO_SUB:]"
+msgstr ""
 
 #: item_tool.txt:104
 msgctxt "ITEM_TOOL:ITEM_TOOL_KNIFE_SLICING"
@@ -41510,7 +41512,7 @@ msgstr "[NAME: talhador de carne: um açougueiro]"
 #: item_tool.txt:118
 msgctxt "ITEM_TOOL:ITEM_TOOL_KNIFE_MEAT_CLEAVER"
 msgid "[ATTACK:EDGE:800:400:hack:hacks:NO_SUB:]"
-msgstr "[ATTACK: Borda: 800: 400: corte: hacks: NO_SUB:]"
+msgstr ""
 
 #: item_tool.txt:120
 msgctxt "ITEM_TOOL:ITEM_TOOL_KNIFE_MEAT_CLEAVER"
@@ -41530,7 +41532,7 @@ msgstr "[NAME: carving garfo: garfos para carne]"
 #: item_tool.txt:136
 msgctxt "ITEM_TOOL:ITEM_TOOL_FORK_CARVING"
 msgid "[ATTACK:EDGE:1:100:stab:stabs:NO_SUB:]"
-msgstr "[ATTACK: Borda: 1: 100: facada: facadas: NO_SUB:]"
+msgstr ""
 
 #: item_tool.txt:138
 msgctxt "ITEM_TOOL:ITEM_TOOL_FORK_CARVING"
@@ -41625,7 +41627,7 @@ msgstr "[NAME:machado:machados]"
 #: item_tool.txt:314
 msgctxt "ITEM_TOOL:ITEM_TOOL_STONE_AXE"
 msgid "[ATTACK:EDGE:800:400:hack:hacks:NO_SUB:]"
-msgstr "[ATTACK: Borda: 800: 400: corte: hacks: NO_SUB:]"
+msgstr ""
 
 #: item_tool.txt:316
 msgctxt "ITEM_TOOL:ITEM_TOOL_STONE_AXE"
@@ -41695,7 +41697,7 @@ msgstr "[Adjetivo: gigante]"
 #: item_trapcomp.txt:12
 msgctxt "ITEM_TRAPCOMP:ITEM_TRAPCOMP_GIANTAXEBLADE"
 msgid "[ATTACK:EDGE:100000:10000:slash:slashes:NO_SUB:]"
-msgstr "[ATTACK: Borda: 100000: 10000: barra: barras: NO_SUB:]"
+msgstr ""
 
 #: item_trapcomp.txt:16
 msgctxt "ITEM_TRAPCOMP:ITEM_TRAPCOMP_ENORMOUSCORKSCREW"
@@ -41710,7 +41712,7 @@ msgstr "[Adjetivo: enorme]"
 #: item_trapcomp.txt:24
 msgctxt "ITEM_TRAPCOMP:ITEM_TRAPCOMP_ENORMOUSCORKSCREW"
 msgid "[ATTACK:EDGE:100:10000:drill:drills:NO_SUB:]"
-msgstr "[ATTACK: Borda: 100: 10000: broca: Brocas: NO_SUB:]"
+msgstr ""
 
 #: item_trapcomp.txt:28
 msgctxt "ITEM_TRAPCOMP:ITEM_TRAPCOMP_SPIKEDBALL"
@@ -41725,7 +41727,7 @@ msgstr "[Adjetivo: cravado]"
 #: item_trapcomp.txt:35
 msgctxt "ITEM_TRAPCOMP:ITEM_TRAPCOMP_SPIKEDBALL"
 msgid "[ATTACK:EDGE:10:200:strike:strikes:NO_SUB:]"
-msgstr "[ATTACK: BORDA: 10: 200: greve: greves: NO_SUB:]"
+msgstr ""
 
 #: item_trapcomp.txt:39
 msgctxt "ITEM_TRAPCOMP:ITEM_TRAPCOMP_LARGESERRATEDDISC"
@@ -41740,7 +41742,7 @@ msgstr "[Adjetivo: grande, serrilhada]"
 #: item_trapcomp.txt:45
 msgctxt "ITEM_TRAPCOMP:ITEM_TRAPCOMP_LARGESERRATEDDISC"
 msgid "[ATTACK:EDGE:100000:10000:saw:saws:NO_SUB:]"
-msgstr "[ATTACK: Borda: 100000: 10000: Serra: serras: NO_SUB:]"
+msgstr ""
 
 #: item_trapcomp.txt:49
 msgctxt "ITEM_TRAPCOMP:ITEM_TRAPCOMP_MENACINGSPIKE"
@@ -41755,7 +41757,7 @@ msgstr "[Adjetivo: ameaçador]"
 #: item_trapcomp.txt:57
 msgctxt "ITEM_TRAPCOMP:ITEM_TRAPCOMP_MENACINGSPIKE"
 msgid "[ATTACK:EDGE:10:6000:stab:stabs:NO_SUB:]"
-msgstr "[ATTACK: BORDA: 10: 6000: facada: facadas: NO_SUB:]"
+msgstr ""
 
 #: item_weapon.txt:6
 msgctxt "ITEM_WEAPON:ITEM_WEAPON_WHIP"
@@ -41765,7 +41767,7 @@ msgstr "[NAME: chicote: chicotes]"
 #: item_weapon.txt:12
 msgctxt "ITEM_WEAPON:ITEM_WEAPON_WHIP"
 msgid "[ATTACK:BLUNT:1:10:lash:lashes:NO_SUB:]"
-msgstr "[ATTACK: BLUNT: 1: 10: chicote: cílios: NO_SUB:]"
+msgstr ""
 
 #: item_weapon.txt:17
 msgctxt "ITEM_WEAPON:ITEM_WEAPON_AXE_BATTLE"
@@ -41775,17 +41777,17 @@ msgstr "[NAME:machado de batalha:machados de batalha]"
 #: item_weapon.txt:27
 msgctxt "ITEM_WEAPON:ITEM_WEAPON_AXE_BATTLE"
 msgid "[ATTACK:EDGE:40000:6000:hack:hacks:NO_SUB:]"
-msgstr "[ATTACK: Borda: 40000: 6000: corte: hacks: NO_SUB:]"
+msgstr ""
 
 #: item_weapon.txt:29
 msgctxt "ITEM_WEAPON:ITEM_WEAPON_AXE_BATTLE"
 msgid "[ATTACK:BLUNT:40000:6000:slap:slaps:flat:]"
-msgstr "[ATTACK: BLUNT: 40000: 6000: batida: bofetadas: apartamento:]"
+msgstr ""
 
 #: item_weapon.txt:31
 msgctxt "ITEM_WEAPON:ITEM_WEAPON_AXE_BATTLE"
 msgid "[ATTACK:BLUNT:100:1000:strike:strikes:pommel:]"
-msgstr "[ATTACK: BLUNT: 100: 1000: greve: greves: pomo:]"
+msgstr ""
 
 #: item_weapon.txt:35
 msgctxt "ITEM_WEAPON:ITEM_WEAPON_HAMMER_WAR"
@@ -41795,7 +41797,7 @@ msgstr "[NAME:martelo de guerra:martelos de guerra]"
 #: item_weapon.txt:41
 msgctxt "ITEM_WEAPON:ITEM_WEAPON_HAMMER_WAR"
 msgid "[ATTACK:BLUNT:10:200:bash:bashes:NO_SUB:]"
-msgstr "[ATTACK: BLUNT: 10: 200: bash: festanças: NO_SUB:]"
+msgstr ""
 
 #: item_weapon.txt:45
 msgctxt "ITEM_WEAPON:ITEM_WEAPON_SWORD_SHORT"
@@ -41805,12 +41807,12 @@ msgstr "[NAME: espada curta: espadas curtas]"
 #: item_weapon.txt:52
 msgctxt "ITEM_WEAPON:ITEM_WEAPON_SWORD_SHORT"
 msgid "[ATTACK:EDGE:20000:4000:slash:slashes:NO_SUB:]"
-msgstr "[ATTACK: Borda: 20000: 4000: barra: barras: NO_SUB:]"
+msgstr ""
 
 #: item_weapon.txt:54
 msgctxt "ITEM_WEAPON:ITEM_WEAPON_SWORD_SHORT"
 msgid "[ATTACK:EDGE:50:2000:stab:stabs:NO_SUB:]"
-msgstr "[ATTACK: BORDA: 50: 2000: facada: facadas: NO_SUB:]"
+msgstr ""
 
 #: item_weapon.txt:56
 msgctxt "ITEM_WEAPON:ITEM_WEAPON_SWORD_SHORT"
@@ -41830,7 +41832,7 @@ msgstr "[NAME: Lança: lanças]"
 #: item_weapon.txt:68
 msgctxt "ITEM_WEAPON:ITEM_WEAPON_SPEAR"
 msgid "[ATTACK:EDGE:20:10000:stab:stabs:NO_SUB:]"
-msgstr "[ATTACK: BORDA: 20: 10,000: facada: facadas: NO_SUB:]"
+msgstr ""
 
 #: item_weapon.txt:70
 msgctxt "ITEM_WEAPON:ITEM_WEAPON_SPEAR"
@@ -41865,7 +41867,7 @@ msgstr "[NAME: Pick picaretas]"
 #: item_weapon.txt:103
 msgctxt "ITEM_WEAPON:ITEM_WEAPON_PICK"
 msgid "[ATTACK:EDGE:100:4000:strike:strikes:NO_SUB:]"
-msgstr "[ATTACK: Borda: 100: 4000: greve: greves: NO_SUB:]"
+msgstr ""
 
 #: item_weapon.txt:107
 msgctxt "ITEM_WEAPON:ITEM_WEAPON_BOW"
@@ -41895,7 +41897,7 @@ msgstr "[NAME: pique: piques]"
 #: item_weapon.txt:139
 msgctxt "ITEM_WEAPON:ITEM_WEAPON_PIKE"
 msgid "[ATTACK:EDGE:20:12000:stab:stabs:NO_SUB:]"
-msgstr "[ATTACK: BORDA: 20: 12,000: facada: facadas: NO_SUB:]"
+msgstr ""
 
 #: item_weapon.txt:141
 msgctxt "ITEM_WEAPON:ITEM_WEAPON_PIKE"
@@ -41910,12 +41912,12 @@ msgstr "[NAME:alabarda:alabardas]"
 #: item_weapon.txt:151
 msgctxt "ITEM_WEAPON:ITEM_WEAPON_HALBERD"
 msgid "[ATTACK:EDGE:20000:8000:slash:slashes:NO_SUB:]"
-msgstr "[ATTACK: Borda: 20000: 8000: barra: barras: NO_SUB:]"
+msgstr ""
 
 #: item_weapon.txt:153
 msgctxt "ITEM_WEAPON:ITEM_WEAPON_HALBERD"
 msgid "[ATTACK:EDGE:50:2000:stab:stabs:NO_SUB:]"
-msgstr "[ATTACK: BORDA: 50: 2000: facada: facadas: NO_SUB:]"
+msgstr ""
 
 #: item_weapon.txt:155
 msgctxt "ITEM_WEAPON:ITEM_WEAPON_HALBERD"
@@ -41930,12 +41932,12 @@ msgstr "[NAME:espada de duas mãos:espadas de duas mãos]"
 #: item_weapon.txt:165
 msgctxt "ITEM_WEAPON:ITEM_WEAPON_SWORD_2H"
 msgid "[ATTACK:EDGE:100000:8000:slash:slashes:NO_SUB:]"
-msgstr "[ATTACK: Borda: 100000: 8000: barra: barras: NO_SUB:]"
+msgstr ""
 
 #: item_weapon.txt:167
 msgctxt "ITEM_WEAPON:ITEM_WEAPON_SWORD_2H"
 msgid "[ATTACK:EDGE:50:4000:stab:stabs:NO_SUB:]"
-msgstr "[ATTACK: BORDA: 50: 4000: facada: facadas: NO_SUB:]"
+msgstr ""
 
 #: item_weapon.txt:169
 msgctxt "ITEM_WEAPON:ITEM_WEAPON_SWORD_2H"
@@ -41955,12 +41957,12 @@ msgstr "[NAME: espada longa: espadas longas]"
 #: item_weapon.txt:181
 msgctxt "ITEM_WEAPON:ITEM_WEAPON_SWORD_LONG"
 msgid "[ATTACK:EDGE:60000:6000:slash:slashes:NO_SUB:]"
-msgstr "[ATTACK: Borda: 60000: 6000: barra: barras: NO_SUB:]"
+msgstr ""
 
 #: item_weapon.txt:183
 msgctxt "ITEM_WEAPON:ITEM_WEAPON_SWORD_LONG"
 msgid "[ATTACK:EDGE:50:3000:stab:stabs:NO_SUB:]"
-msgstr "[ATTACK: BORDA: 50: 3000: facada: facadas: NO_SUB:]"
+msgstr ""
 
 #: item_weapon.txt:185
 msgctxt "ITEM_WEAPON:ITEM_WEAPON_SWORD_LONG"
@@ -41990,7 +41992,7 @@ msgstr "[NAME:bom machado:bons machados]"
 #: item_weapon.txt:207
 msgctxt "ITEM_WEAPON:ITEM_WEAPON_AXE_GREAT"
 msgid "[ATTACK:EDGE:60000:8000:hack:hacks:NO_SUB:]"
-msgstr "[ATTACK: Borda: 60000: 8000: corte: hacks: NO_SUB:]"
+msgstr ""
 
 #: item_weapon.txt:209
 msgctxt "ITEM_WEAPON:ITEM_WEAPON_AXE_GREAT"
@@ -42015,12 +42017,12 @@ msgstr "[Adjetivo: grande]"
 #: item_weapon.txt:222
 msgctxt "ITEM_WEAPON:ITEM_WEAPON_DAGGER_LARGE"
 msgid "[ATTACK:EDGE:1000:800:slash:slashes:NO_SUB:]"
-msgstr "[ATTACK: Borda: 1000: 800: barra: barras: NO_SUB:]"
+msgstr ""
 
 #: item_weapon.txt:224
 msgctxt "ITEM_WEAPON:ITEM_WEAPON_DAGGER_LARGE"
 msgid "[ATTACK:EDGE:5:1000:stab:stabs:NO_SUB:]"
-msgstr "[ATTACK: Borda: 5: 1000: facada: facadas: NO_SUB:]"
+msgstr ""
 
 #: item_weapon.txt:226
 msgctxt "ITEM_WEAPON:ITEM_WEAPON_DAGGER_LARGE"
@@ -42035,7 +42037,7 @@ msgstr "[NAME: flagelo: flagelos]"
 #: item_weapon.txt:236
 msgctxt "ITEM_WEAPON:ITEM_WEAPON_SCOURGE"
 msgid "[ATTACK:EDGE:10:50:lash:lashes:NO_SUB:]"
-msgstr "[ATTACK: BORDA: 10: 50: chicote: cílios: NO_SUB:]"
+msgstr ""
 
 #: item_weapon.txt:241
 msgctxt "ITEM_WEAPON:ITEM_WEAPON_FLAIL"
@@ -42055,7 +42057,7 @@ msgstr "[NAME: Morningstar: morningstars]"
 #: item_weapon.txt:257
 msgctxt "ITEM_WEAPON:ITEM_WEAPON_MORNINGSTAR"
 msgid "[ATTACK:EDGE:10:500:bash:bashes:NO_SUB:]"
-msgstr "[ATTACK: BORDA: 10: 500: bash: festanças: NO_SUB:]"
+msgstr ""
 
 #: item_weapon.txt:259
 msgctxt "ITEM_WEAPON:ITEM_WEAPON_MORNINGSTAR"
@@ -42070,12 +42072,12 @@ msgstr "[NAME: cimitarra: cimitarras]"
 #: item_weapon.txt:269
 msgctxt "ITEM_WEAPON:ITEM_WEAPON_SCIMITAR"
 msgid "[ATTACK:EDGE:20000:4000:slash:slashes:NO_SUB:]"
-msgstr "[ATTACK: Borda: 20000: 4000: barra: barras: NO_SUB:]"
+msgstr ""
 
 #: item_weapon.txt:271
 msgctxt "ITEM_WEAPON:ITEM_WEAPON_SCIMITAR"
 msgid "[ATTACK:EDGE:50:2000:stab:stabs:NO_SUB:]"
-msgstr "[ATTACK: BORDA: 50: 2000: facada: facadas: NO_SUB:]"
+msgstr ""
 
 #: item_weapon.txt:273
 msgctxt "ITEM_WEAPON:ITEM_WEAPON_SCIMITAR"

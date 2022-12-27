@@ -6,7 +6,6 @@
 # PREOCO Starwhishper, 2022
 # Silencess <silencess_m@qq.com>, 2022
 # Qingchuan Huang, 2022
-# Transifex Bot <>, 2022
 # 荒 吾, 2022
 # NineMonth Eternal, 2022
 # Hydrogen Air, 2022
@@ -14,7 +13,6 @@
 # 磊 王, 2022
 # binbin wang, 2022
 # Arem Miz, 2022
-# Juijote Chen, 2022
 # LRP, 2022
 # DC伯爵 1, 2022
 # Eliwod ferre, 2022
@@ -84,10 +82,11 @@
 # 颂 葛, 2022
 # twobit 02, 2022
 # 奥里给大菠萝, 2022
+# Juijote Chen, 2022
 # 
 msgid ""
 msgstr ""
-"Last-Translator: 奥里给大菠萝, 2022\n"
+"Last-Translator: Juijote Chen, 2022\n"
 "Language-Team: Chinese Simplified (https://www.transifex.com/dwarf-fortress-translation/teams/22396/zh-Hans/)\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -816,7 +815,7 @@ msgstr "进行了一次可传颂千古令人敬畏的布道!"
 
 #: stringdump_steam_2022_12_06.txt:233
 msgid "s"
-msgstr "们"
+msgstr "s"
 
 #: stringdump_steam_2022_12_06.txt:234
 msgid " a lucid and powerful sermon."
@@ -1412,7 +1411,7 @@ msgstr "击中了下体要害部位，这是一次阉割打击！"
 
 #: stringdump_steam_2022_12_06.txt:382
 msgid "It is a gelding strike!"
-msgstr "击中了下体要害部位，这是一次阉割打击！"
+msgstr "直捣根部的致命一鸡！"
 
 #: stringdump_steam_2022_12_06.txt:383
 msgid "The geldables have been torn away!"
@@ -7423,11 +7422,11 @@ msgstr "退出"
 
 #: stringdump_steam_2022_12_06.txt:1919
 msgid "autosave 2"
-msgstr "自动保存 2"
+msgstr "autosave 2"
 
 #: stringdump_steam_2022_12_06.txt:1920
 msgid "autosave 1"
-msgstr "自动保存 1"
+msgstr "autosave 1"
 
 #: stringdump_steam_2022_12_06.txt:1922
 msgid "but you can delete it while loading."
@@ -7447,7 +7446,7 @@ msgstr "真的累了？你的世界将会被保存但是"
 
 #: stringdump_steam_2022_12_06.txt:1926
 msgid "autosave 3"
-msgstr "自动保存 3"
+msgstr "autosave 3"
 
 #: stringdump_steam_2022_12_06.txt:1927
 msgid "Save to this timeline"
@@ -8901,7 +8900,7 @@ msgstr "矿车道"
 
 #: stringdump_steam_2022_12_06.txt:2217
 msgid "Stocks"
-msgstr "股票"
+msgstr "库存"
 
 #: stringdump_steam_2022_12_06.txt:2218
 msgid ""
@@ -9409,12 +9408,15 @@ msgid ""
 "Shop[C:7:0:0], using [C:5:0:1]Workshops[C:7:0:0] -> "
 "[C:5:0:1]Mechanic[C:7:0:0]. "
 msgstr ""
+"大多数需要在[C:6:0:1]机械师商店[C:7:0:0]制造的[C:6:0:1]机械师[C:7:0:0]，使用[C:5:0:1]车间[C:7:0:0]"
+" -> [C:5:0:1]机械师[C:7:0:0] 。"
 
 #: stringdump_steam_2022_12_06.txt:2301
 msgid ""
 "If you have found magma you can build a [C:6:0:0]Magma Smelter[C:7:0:0] "
 "directly over it, otherwise you need [C:6:0:1]Fuel[C:7:0:0]. "
 msgstr ""
+"如果你发现了岩浆，你可以直接在它上面建造一个[C:6:0:0]岩浆熔炼器[C:7:0:0]，否则你需要[C:6:0:1]燃料[C:7:0:0]。"
 
 #: stringdump_steam_2022_12_06.txt:2302
 msgid "[C:6:0:1]Ore[C:7:0:0] is mined underground, below the soil layers."
@@ -9426,36 +9428,39 @@ msgid ""
 "[C:5:0:1]Workshops[C:7:0:0] -> [C:5:0:1]Furnaces[C:7:0:0] -> "
 "[C:5:0:1]Smelter[C:7:0:0]. "
 msgstr ""
+"这可以在[C:6:0:0]冶炼厂[C:7:0:0]完成，它可以在[C:5:0:1]车间[C:7:0:0]->[C:5:0:1]熔炉[C:7:0:0]->[C:5:0:1]冶炼厂[C:7:0:0]下找到。"
 
 #: stringdump_steam_2022_12_06.txt:2304
 msgid ""
 "In order to make [C:6:0:1]Metal Bars[C:7:0:0] for the "
 "[C:2:0:0]Metalsmith[C:7:0:0], you must smelt [C:6:0:1]Ore[C:7:0:0]. "
 msgstr ""
+"为了给[C:2:0:0]金属匠[C:7:0:0]制造[C:6:0:1]金属棒[C:7:0:0]，你必须熔炼[C:6:0:1]矿石[C:7:0:0]。"
 
 #: stringdump_steam_2022_12_06.txt:2305
 msgid ""
 "need [C:6:0:1]Charcoal[C:7:0:0] from the [C:6:0:0]Wood Furnace[C:7:0:0] to "
 "start the process."
-msgstr ""
+msgstr "需要从[C:6:0:1]木炉[C:7:0:0]中取出[C:6:0:0]木炭，以启动这一过程。"
 
 #: stringdump_steam_2022_12_06.txt:2306
 msgid ""
 "You may switch to other forms of [C:6:0:1]Fuel[C:7:0:0] later, such as "
 "[C:6:0:1]Coal[C:7:0:0], but you will usually "
-msgstr ""
+msgstr "你以后可以改用其他形式的[C:6:0:1]燃料[C:7:0:0]，如[C:6:0:1]煤[C:7:0:0]，但你通常会"
 
 #: stringdump_steam_2022_12_06.txt:2307
 msgid ""
 "found at [C:5:0:1]Workshops[C:7:0:0] -> [C:5:0:1]Furnaces[C:7:0:0] -> "
 "[C:5:0:1]Wood Furnace[C:7:0:0]. "
-msgstr ""
+msgstr "在[C:5:0:1]车间[C:7:0:0]->[C:5:0:1]火炉[C:7:0:0]->[C:5:0:1]木炉[C:7:0:0]发现。"
 
 #: stringdump_steam_2022_12_06.txt:2308
 msgid ""
 "To get [C:6:0:1]Fuel[C:7:0:0] you need to make [C:6:0:1]Charcoal[C:7:0:0] "
 "with a [C:6:0:0]Wood Furnace[C:7:0:0], "
 msgstr ""
+"要获得[C:6:0:1]燃料[C:7:0:0]，你需要用[C:6:0:1]木炉[C:7:0:0]制作[C:6:0:0]木炭[C:7:0:0]。"
 
 #: stringdump_steam_2022_12_06.txt:2309
 msgid ""
@@ -9463,12 +9468,13 @@ msgid ""
 "[C:6:0:1]Cloth[C:7:0:0], or [C:6:0:1]Leather[C:7:0:0], you can also farm "
 "[C:6:0:1]Pigtails[C:7:0:0], "
 msgstr ""
+"虽然可以换取[C:6:0:1]衣服[C:7:0:0]，[C:6:0:1]布[C:7:0:0]，或[C:6:0:1]皮革[C:7:0:0]，但你也可以养殖[C:6:0:1]辫子[C:7:0:0]。"
 
 #: stringdump_steam_2022_12_06.txt:2310
 msgid ""
 "Eventually the [C:6:0:1]Clothing[C:7:0:0] that your residents start with "
 "will rot away. "
-msgstr ""
+msgstr "最终，你的居民开始时的[C:6:0:1]服装[C:7:0:0]会腐烂掉。"
 
 #: stringdump_steam_2022_12_06.txt:2311
 msgid "Repeat this pattern until you get below the aquifer."
@@ -9484,25 +9490,26 @@ msgstr "然后你可以建造 [C:6:0:0]墙[C:7:0:0] 在楼梯周围，直到把�
 msgid ""
 "Gathered [C:6:0:1]Silk[C:7:0:0] can go directly to the "
 "[C:6:0:0]Loom[C:7:0:0]."
-msgstr ""
+msgstr "收集到的[C:6:0:1]丝绸[C:7:0:0]可以直接进入[C:6:0:0]织机[C:7:0:0]。"
 
 #: stringdump_steam_2022_12_06.txt:2314
 msgid ""
 "weave [C:6:0:1]Cloth[C:7:0:0] at the [C:6:0:0]Loom[C:7:0:0], then make "
 "[C:6:0:1]Clothing[C:7:0:0] at the [C:6:0:0]Clothier[C:7:0:0]. "
 msgstr ""
+"在[C:6:0:1]织布机[C:7:0:0]上织出[C:6:0:1]布[C:7:0:0]，然后在[C:6:0:0]衣匠[C:7:0:0]上制作[C:6:0:1]衣服[C:7:0:0]。"
 
 #: stringdump_steam_2022_12_06.txt:2315
 msgid ""
 "After harvesting plants like the [C:6:0:1]Pigtail[C:7:0:0], first process "
 "them at the [C:6:0:0]Farmer's Workshop[C:7:0:0], then "
-msgstr ""
+msgstr "收获像[C:6:0:1]猪尾巴[C:7:0:0]这样的植物后，先在[C:6:0:0]农民工场[C:7:0:0]加工，然后"
 
 #: stringdump_steam_2022_12_06.txt:2316
 msgid ""
 "gather [C:6:0:1]Silk[C:7:0:0], or tan [C:6:0:1]Skins[C:7:0:0] for "
 "[C:6:0:1]Leather[C:7:0:0]. "
-msgstr ""
+msgstr "收集[C:6:0:1]丝绸[C:7:0:0]，或将[C:6:0:1]皮革[C:7:0:0]晒成棕褐色。"
 
 #: stringdump_steam_2022_12_06.txt:2317
 msgid "get it is from a [C:6:0:0]Well[C:7:0:0]. "
@@ -9519,12 +9526,14 @@ msgid ""
 "These require a [C:6:0:1]Weapon[C:7:0:0], [C:6:0:1]Cage[C:7:0:0], or "
 "[C:6:0:1]Boulder[C:7:0:0] to function. "
 msgstr ""
+"这些需要[C:6:0:1]Weapon[C:7:0:0]、[C:6:0:1]Cage[C:7:0:0]或[C:6:0:1]Boulder[C:7:0:0]来发挥作用。"
 
 #: stringdump_steam_2022_12_06.txt:2320
 msgid ""
 "There are also predesigned traps, such as [C:6:0:0]Weapon[C:7:0:0], "
 "[C:6:0:0]Cage[C:7:0:0], and [C:6:0:0]Stone-Fall Traps[C:7:0:0]. "
 msgstr ""
+"还有预先设计好的陷阱，如[C:6:0:0]武器[C:7:0:0]、[C:6:0:0]笼子[C:7:0:0]和[C:6:0:0]石块坠落陷阱[C:7:0:0]。"
 
 #: stringdump_steam_2022_12_06.txt:2321
 msgid ""
@@ -9551,12 +9560,14 @@ msgid ""
 "[C:6:0:1]Chain[C:7:0:0], and [C:6:0:1]Mechanisms[C:7:0:0].  They can be "
 "built over "
 msgstr ""
+"[C:6:0:0]水井[C:7:0:0]需要一个[C:6:0:1]水桶[C:7:0:0]，[C:6:0:1]积木[C:7:0:0]，[C:6:0:1]绳索[C:7:0:0]或[C:6:0:1]链条[C:7:0:0]，和[C:6:0:1]机械装置[C:7:0:0]。"
+" 它们可以建立在"
 
 #: stringdump_steam_2022_12_06.txt:2325
 msgid ""
 "Instruments[C:7:0:0] these can also be used by the [C:1:0:1]Tavern[C:7:0:0]."
 " "
-msgstr ""
+msgstr "这些[C:7:0:0] 工具也可以由[C:1:0:1]酒馆使用[C:7:0:0]。"
 
 #: stringdump_steam_2022_12_06.txt:2326
 msgid ""
@@ -9570,6 +9581,8 @@ msgid ""
 "you can place [C:6:0:0]Tables[C:7:0:0] and [C:6:0:0]Chairs[C:7:0:0] where "
 "your residents can eat. "
 msgstr ""
+"在[C:1:0:1]酒馆[C:7:0:0]内的[C:6:0:0]库房[C:7:0:0]。 "
+"你可以选择在居民吃饭的地方放置[C:6:0:0]桌子[C:7:0:0]和[C:6:0:0]椅子[C:7:0:0] 。"
 
 #: stringdump_steam_2022_12_06.txt:2328
 msgid ""
@@ -9577,12 +9590,14 @@ msgid ""
 "[C:6:0:1]Cups[C:7:0:0], or [C:6:0:1]Mugs[C:7:0:0].  These must be stored in "
 "[C:6:0:0]Chests[C:7:0:0] or "
 msgstr ""
+"居民也喜欢用[C:6:0:1]高脚杯[C:7:0:0]、[C:6:0:1]杯子[C:7:0:0]或[C:6:0:1]水杯[C:7:0:0]喝酒。 "
+"这些东西必须存放在[C:6:0:0]箱子[C:7:0:0]或"
 
 #: stringdump_steam_2022_12_06.txt:2329
 msgid ""
 "[C:1:0:1]Temples[C:7:0:0] are places for faithful residents to commune with "
 "their chosen deity. "
-msgstr ""
+msgstr "[C:1:0:1]寺庙[C:7:0:0]是忠实的居民与他们选择的神灵交流的地方。"
 
 #: stringdump_steam_2022_12_06.txt:2330
 msgid "[C:7:0:1]Temples[C:7:0:0]"
@@ -9618,7 +9633,7 @@ msgstr ""
 msgid ""
 "[C:3:0:0]Meeting Areas[C:7:0:0] are [C:3:0:0]Zones[C:7:0:0] where your "
 "citizens gather when not working or taking care of their needs. "
-msgstr ""
+msgstr "[C:3:0:0]会议区[C:7:0:0]是[C:3:0:0]区[C:7:0:0]，你的公民在不工作或照顾自己的需要时，会聚集在这里。"
 
 #: stringdump_steam_2022_12_06.txt:2335
 msgid ""
@@ -9626,12 +9641,13 @@ msgid ""
 "and made into [C:6:0:1]Clothing[C:7:0:0] at the [C:6:0:0]Leather "
 "Works[C:7:0:0]."
 msgstr ""
+"[C:6:0:1]皮[C:7:0:0]在[C:6:0:0]制革厂[C:7:0:0]鞣制，并在[C:6:0:1]皮革厂[C:7:0:0]制作成[C:6:0:1]服装。"
 
 #: stringdump_steam_2022_12_06.txt:2336
 msgid ""
 "[C:6:0:1]Skins[C:7:0:0] can be obtained by butchering "
 "[C:2:0:0]Livestock[C:7:0:0] at the [C:6:0:0]Butcher's Shop[C:7:0:0]. "
-msgstr ""
+msgstr "[C:6:0:1]皮[C:7:0:0]可以通过在[C:6:0:0]屠夫商店[C:7:0:0]屠宰[C:7:0:0]的牲畜获得。"
 
 #: stringdump_steam_2022_12_06.txt:2337
 msgid ""
@@ -9639,12 +9655,13 @@ msgid ""
 "[C:6:0:0]Stockpile[C:7:0:0] with [C:6:0:1]Booze[C:7:0:0] in it, preferably "
 "close by. "
 msgstr ""
+"要想拥有一个功能齐全的[C:1:0:1]酒馆[C:7:0:0]，你必须有一个[C:6:0:0]库存[C:7:0:0]，里面有[C:6:0:1]酒[C:7:0:0]，最好是在附近。"
 
 #: stringdump_steam_2022_12_06.txt:2338
 msgid ""
 "[C:1:0:1]Taverns[C:7:0:0] are where your residents gather to drink, "
 "socialize, tell stories, and dance. "
-msgstr ""
+msgstr "[C:1:0:1]酒馆[C:7:0:0]是你的居民聚集喝酒、社交、讲故事和跳舞的地方。"
 
 #: stringdump_steam_2022_12_06.txt:2339
 msgid "[C:7:0:1]Taverns[C:7:0:0]"
@@ -9654,19 +9671,20 @@ msgstr "[C:7:0:1]酒馆[C:7:0:0]"
 msgid ""
 "There are five types of [C:1:0:1]Locations[C:7:0:0], which we'll go over in "
 "turn."
-msgstr ""
+msgstr "有五种类型的[C:1:0:1]位置[C:7:0:0]，我们将依次进行介绍。"
 
 #: stringdump_steam_2022_12_06.txt:2341
 msgid ""
 "[C:6:0:1]Buckets[C:7:0:0] (with a source of water), [C:6:0:1]Thread[C:7:0:0]"
 " for sutures, and [C:6:0:1]Cloth[C:7:0:0] for bandages. "
 msgstr ""
+"[C:6:0:1]水桶[C:7:0:0]（有水源），[C:6:0:1]缝合用的线[C:7:0:0]，以及[C:6:0:1]包扎用的布[C:7:0:0]。"
 
 #: stringdump_steam_2022_12_06.txt:2342
 msgid ""
 "To fully function your [C:1:0:1]Hospital[C:7:0:0] needs to have "
 "[C:6:0:0]Beds[C:7:0:0], "
-msgstr ""
+msgstr "为了充分发挥你的[C:1:0:1]医院[C:7:0:0]的功能，需要有[C:6:0:0]床[C:7:0:0]。"
 
 #: stringdump_steam_2022_12_06.txt:2343
 msgid "they are seen by a [C:5:0:0]Doctor[C:7:0:0]. "
@@ -9676,7 +9694,7 @@ msgstr "他们被 [C:5:0:0]医师[C:7:0:0]看见. "
 msgid ""
 "Your unfortunate citizens are taken to the [C:1:0:1]Hospital[C:7:0:0] when "
 "injured.  There they will rest and given water until "
-msgstr ""
+msgstr "你们不幸的公民在受伤后会被送到[C:1:0:1]医院[C:7:0:0]。 他们将在那里休息并得到水，直到"
 
 #: stringdump_steam_2022_12_06.txt:2345
 msgid "You will need to appoint a [C:5:0:0]"
@@ -9785,7 +9803,7 @@ msgstr ""
 msgid ""
 "[C:1:0:1]Guildhalls[C:7:0:0] are where the workers of specific professions "
 "gather to socialize and share their knowledge. "
-msgstr ""
+msgstr "[C:1:0:1]公会[C:7:0:0]是特定职业的工人聚集在一起进行社交和分享知识的地方。"
 
 #: stringdump_steam_2022_12_06.txt:2363
 msgid "[C:7:0:1]Guildhalls[C:7:0:0]"
@@ -9795,7 +9813,7 @@ msgstr "[C:7:0:1]行会[C:7:0:0]"
 msgid ""
 "[C:6:0:1]Writing Material[C:7:0:0] for the [C:5:0:0]Scribes[C:7:0:0] to "
 "write on. "
-msgstr ""
+msgstr "[C:6:0:1]书写材料[C:7:0:0]供[C:5:0:0]文士[C:7:0:0]书写用。"
 
 #: stringdump_steam_2022_12_06.txt:2365
 msgid ""
@@ -9878,6 +9896,8 @@ msgid ""
 "when somebody is selected.  You can make a [C:3:0:1]Kill[C:7:0:0] order and "
 "confirm it. "
 msgstr ""
+"当有人被选中时，可以在[C:5:0:1]小队[C:7:0:0]菜单的底部找到这些命令。 "
+"你可以下一个[C:3:0:1]杀戮[C:7:0:0]的命令并确认它。"
 
 #: stringdump_steam_2022_12_06.txt:2380
 msgid "or the whole squad from the [C:5:0:1]Squad[C:7:0:0] menu. "
@@ -9887,19 +9907,19 @@ msgstr ""
 msgid ""
 "Before you can create a military, you must appoint a [C:5:0:0]Militia "
 "Commander[C:7:0:0] "
-msgstr ""
+msgstr "在你创建军队之前，你必须任命一名[C:5:0:0]民兵指挥官[C:7:0:0] 。"
 
 #: stringdump_steam_2022_12_06.txt:2382
 msgid ""
 "decorating the hall and building [C:6:0:0]Furniture[C:7:0:0] like "
 "[C:6:0:0]Statues[C:7:0:0]."
-msgstr ""
+msgstr "装饰大厅和建造[C:6:0:0]家具[C:7:0:0]像[C:6:0:0]雕像[C:7:0:0]。"
 
 #: stringdump_steam_2022_12_06.txt:2383
 msgid ""
 "As the guild grows in power they may demand a [C:1:0:1]Guildhall[C:7:0:0] of"
 " greater value.  This can be increased by "
-msgstr ""
+msgstr "随着公会力量的增长，他们可以要求获得价值更高的[C:1:0:1]公会[C:7:0:0]。 这可以通过以下方式增加"
 
 #: stringdump_steam_2022_12_06.txt:2384
 msgid ""
@@ -9920,6 +9940,7 @@ msgid ""
 "Then from the [C:5:0:1]Squad[C:7:0:0] menu you can assign your first squad, "
 "led by the [C:5:0:0]Commander[C:7:0:0].  First you must "
 msgstr ""
+"然后从[C:5:0:1]小队[C:7:0:0]菜单中你可以分配你的第一个小队，由[C:5:0:0]指挥官[C:7:0:0]领导。 首先你必须"
 
 #: stringdump_steam_2022_12_06.txt:2388
 msgid "from the [C:5:0:1]Nobles and administrators[C:7:0:0] menu. "
@@ -10043,23 +10064,23 @@ msgstr ""
 msgid ""
 "This can be done either from the [C:5:0:1]Item's Info Sheet[C:7:0:0] or by "
 "dragging a rectangle over everything "
-msgstr ""
+msgstr "这可以从[C:5:0:1]项目的信息表[C:7:0:0]中进行，或者通过在所有东西上拖动一个矩形来完成。"
 
 #: stringdump_steam_2022_12_06.txt:2410
 msgid "then designate [C:6:0:1]Items[C:7:0:0] for [C:3:0:1]Dumping[C:7:0:0]. "
-msgstr ""
+msgstr "然后指定[C:6:0:1]项目[C:7:0:0]为[C:3:0:1]转储[C:7:0:0]。"
 
 #: stringdump_steam_2022_12_06.txt:2411
 msgid ""
 "Use the [C:5:0:1]Zones[C:7:0:0] menu to select [C:3:0:0]Garbage "
 "Dump[C:7:0:0] and draw a rectangle over a cliff or hole and "
-msgstr ""
+msgstr "使用[C:5:0:1]区域[C:7:0:0]菜单，选择[C:3:0:0]垃圾倾倒[C:7:0:0]，在悬崖或洞口上画一个矩形，并且"
 
 #: stringdump_steam_2022_12_06.txt:2412
 msgid ""
 "If your [C:6:0:0]Refuse Stockpile[C:7:0:0] starts to fill up you can create "
 "a [C:3:0:0]Dump Zone[C:7:0:0]. "
-msgstr ""
+msgstr "如果你的[C:6:0:0]垃圾堆[C:7:0:0]开始被填满，你可以创建一个[C:3:0:0]倾倒区[C:7:0:0]。"
 
 #: stringdump_steam_2022_12_06.txt:2413
 msgid ""
@@ -10088,13 +10109,13 @@ msgstr "相邻的墙面上方有一个凿开的地板，这样就可以做一个
 msgid ""
 "As your dwarves live and work in your fortress they will generate "
 "[C:6:0:1]Refuse[C:7:0:0]. "
-msgstr ""
+msgstr "当你的矮人在你的堡垒中生活和工作时，他们会产生[C:6:0:1]垃圾[C:7:0:0]。"
 
 #: stringdump_steam_2022_12_06.txt:2418
 msgid ""
 "To easily see which ramps go up or down, click the [C:5:0:1]Ramp "
 "Vision[C:7:0:0] button by the minimap."
-msgstr ""
+msgstr "要轻松地看到哪些坡道是向上或向下的，请点击最小地图旁的[C:5:0:1]坡道视图[C:7:0:0] 按钮。"
 
 #: stringdump_steam_2022_12_06.txt:2419
 msgid "and create a hole instead."
@@ -10120,7 +10141,7 @@ msgstr "观察他们的想法来找出你可以解决的问题。"
 msgid ""
 "Meet their needs by providing [C:3:0:0]Meeting Areas[C:7:0:0] and "
 "[C:1:0:1]Locations[C:7:0:0] for socializing, worship, and study. "
-msgstr ""
+msgstr "通过提供[C:3:0:0]会议区[C:7:0:0]和[C:1:0:1]社交、崇拜和学习的地点[C:7:0:0]来满足他们的需求。"
 
 #: stringdump_steam_2022_12_06.txt:2424
 msgid "Alcohol, good food, and personal rooms go a long way. "
@@ -10163,7 +10184,7 @@ msgstr "地下深处有许多宝藏和危险。"
 
 #: stringdump_steam_2022_12_06.txt:2432
 msgid "you want to dump using the [C:5:0:1]Dump Designation[C:7:0:0] tool."
-msgstr ""
+msgstr "你想用[C:5:0:1]转储设计工具[C:7:0:0]来转储。"
 
 #: stringdump_steam_2022_12_06.txt:2433
 msgid "There are many ways to maintain your citizens. "
@@ -11286,15 +11307,15 @@ msgstr "最大登船尺寸"
 
 #: stringdump_steam_2022_12_06.txt:2715
 msgid "Compressed saves (recommended!)"
-msgstr ""
+msgstr "压缩保存（推荐！）"
 
 #: stringdump_steam_2022_12_06.txt:2716
 msgid "Megabeasts can attack"
-msgstr ""
+msgstr "巨兽会发动袭击"
 
 #: stringdump_steam_2022_12_06.txt:2717
 msgid "Civilizations can attack"
-msgstr ""
+msgstr "临近文明势力会发动袭击"
 
 #: stringdump_steam_2022_12_06.txt:2718
 msgid "Maximum key repeat acceleration multiplier"
@@ -11306,19 +11327,19 @@ msgstr "不可用"
 
 #: stringdump_steam_2022_12_06.txt:2720
 msgid "Milliseconds between macro instructions"
-msgstr ""
+msgstr "宏指令之间的毫秒数"
 
 #: stringdump_steam_2022_12_06.txt:2721
 msgid "Milliseconds interface shutdown after recenter"
-msgstr ""
+msgstr "重新定位后，接口关闭的毫秒数"
 
 #: stringdump_steam_2022_12_06.txt:2722
 msgid "Key hold milliseconds before repeat"
-msgstr ""
+msgstr "重复前按键保持毫秒"
 
 #: stringdump_steam_2022_12_06.txt:2723
 msgid "Game frames-per-second cap (default 100)"
-msgstr ""
+msgstr "游戏帧率上限（默认100）。"
 
 #: stringdump_steam_2022_12_06.txt:2724
 msgid "Number of key repeats before accelerating"
@@ -11458,7 +11479,7 @@ msgstr "敌对贸易触发器5"
 
 #: stringdump_steam_2022_12_06.txt:2758
 msgid "Enemy trade trigger 4"
-msgstr ""
+msgstr "敌对贸易触发器4"
 
 #: stringdump_steam_2022_12_06.txt:2759
 msgid "Forgotten beast sensitivity (less = sooner)"
@@ -16830,7 +16851,7 @@ msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:4331
 msgid "Finish setting tree chopping orders."
-msgstr ""
+msgstr "结束树木砍伐顺序设定。"
 
 #: stringdump_steam_2022_12_06.txt:4332
 msgid ""
@@ -16841,7 +16862,7 @@ msgstr "设定砍树命令。选择树的底部，以便樵夫能够到。如有
 
 #: stringdump_steam_2022_12_06.txt:4333
 msgid "Set tree chopping orders."
-msgstr ""
+msgstr "设定树木砍伐顺序。"
 
 #: stringdump_steam_2022_12_06.txt:4334
 msgid "Finish setting dig orders."
@@ -16971,7 +16992,7 @@ msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:4363
 msgid "Place structures and work areas that require construction materials."
-msgstr ""
+msgstr "放置需要建筑材料的结构和工作区域。"
 
 #: stringdump_steam_2022_12_06.txt:4364
 msgid "Finish removing mining etc. orders."
@@ -16979,25 +17000,25 @@ msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:4365
 msgid "Remove mining, woodcutting, plant gathering, and smoothing orders."
-msgstr ""
+msgstr "取消开采、砍伐、植物采集及平整命令。"
 
 #: stringdump_steam_2022_12_06.txt:4366
 msgid "Change to standard gather mode."
-msgstr ""
+msgstr "改为标准采集模式。"
 
 #: stringdump_steam_2022_12_06.txt:4367
 msgid "Finish setting plant gathering orders."
-msgstr ""
+msgstr "完成植物采集命令的设置。"
 
 #: stringdump_steam_2022_12_06.txt:4368
 msgid ""
 "Set plant gathering orders.  Some plants require fruit or other growths to "
 "be present."
-msgstr ""
+msgstr "设置植物采集命令。有些植物需要有果实或其他可采集生长物才能进行。"
 
 #: stringdump_steam_2022_12_06.txt:4369
 msgid "Set plant gathering orders."
-msgstr ""
+msgstr "设置植物采集命令。"
 
 #: stringdump_steam_2022_12_06.txt:4370
 msgid ""
@@ -17155,7 +17176,7 @@ msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:4401
 msgid "Place stockpiles for item storage."
-msgstr ""
+msgstr "放置物品储存的库存。"
 
 #: stringdump_steam_2022_12_06.txt:4402
 msgid ""
@@ -17181,7 +17202,7 @@ msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:4407
 msgid "Place zones to establish meeting areas, pastures, and more."
-msgstr ""
+msgstr "放置区域以建立会议区、牧场和更多。"
 
 #: stringdump_steam_2022_12_06.txt:4408
 msgid "Set how many barrerls, bins, and wheelbarrows this stockpile can use."
@@ -17312,7 +17333,7 @@ msgid ""
 "Your citizens will drink at a water source zone or gather water using "
 "buckets for various tasks.  This is useful if you don't have a functioning "
 "well and you want to control exactly where the tasks take place."
-msgstr ""
+msgstr "你的公民将在水源区喝水，或用水桶为各种任务收集水。 如果你没有有效的水井，而你又想控制任务发生的确切位置，这就很有用。"
 
 #: stringdump_steam_2022_12_06.txt:4434
 msgid ""
@@ -17324,7 +17345,7 @@ msgstr ""
 msgid ""
 "Your citizens will fill sand bags at this zone if a sandy floor or sandy "
 "wall is included.  This task is initiated manually at the glass furnace."
-msgstr ""
+msgstr "如果包括沙地或沙墙，你的公民将在这个区域填充沙袋。 这个任务是在玻璃熔炉处手动启动的。"
 
 #: stringdump_steam_2022_12_06.txt:4436
 msgid ""
@@ -17505,7 +17526,7 @@ msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:4470
 msgid "Open the place information menu."
-msgstr ""
+msgstr "打开地方信息菜单。"
 
 #: stringdump_steam_2022_12_06.txt:4471
 msgid "Open the task information menu."
@@ -18247,7 +18268,7 @@ msgstr ""
 msgid ""
 "The track stop's vehicle will exchange items with this stockpile.  The "
 "vehicle will take desired items and offload any others."
-msgstr ""
+msgstr "轨道站的车辆将与这个库存交换物品。 车辆将取走所需物品，并卸下任何其他物品。"
 
 #: stringdump_steam_2022_12_06.txt:4638
 msgid ""
@@ -18369,7 +18390,7 @@ msgid ""
 "Furnaces are used for smelting, glassmaking, pottery, ashmaking, or to make "
 "fuel from wood or raw coal.  Furnaces require fuel to function, or they can "
 "be set above magma."
-msgstr ""
+msgstr "炉子用于冶炼、玻璃制造、制陶、制灰，或用木材或原煤制造燃料。 炉子需要燃料才能运作，或者可以设置在岩浆之上。"
 
 #: stringdump_steam_2022_12_06.txt:4659
 msgid ""
@@ -18391,13 +18412,13 @@ msgstr ""
 msgid ""
 "Place doors and hatches here after you have constructed them in an "
 "appropriate workshop."
-msgstr ""
+msgstr "在适当的车间里建造好门和舱门后，将其放在这里。"
 
 #: stringdump_steam_2022_12_06.txt:4663
 msgid ""
 "Use options in this category to place furniture that has already been "
 "constructed in a workshop."
-msgstr ""
+msgstr "使用这个类别的选项来放置已经在车间里建造好的家具。"
 
 #: stringdump_steam_2022_12_06.txt:4664
 msgid ""
@@ -18440,7 +18461,7 @@ msgstr ""
 msgid ""
 "Your citizens need a comfortable place to sleep.  A bed object must be made "
 "at the carpenter's shop before it can be placed."
-msgstr ""
+msgstr "你的公民需要一个舒适的地方来睡觉。 床的物件必须在木匠的商店里制作，然后才能放置。"
 
 #: stringdump_steam_2022_12_06.txt:4671
 msgid ""
@@ -18588,6 +18609,8 @@ msgid ""
 "responsible for placing the furnace above the magma, but no other fuel is "
 "required."
 msgstr ""
+"你可以用三种不同类型的玻璃制作各种物体。 如果你有一个沙子收集区，你还可以从源自这里的任务中收集袋装沙子。 熔炉下面的岩浆会给任务提供动力。 "
+"你要负责将熔炉放在岩浆上方，但不需要其他燃料。"
 
 #: stringdump_steam_2022_12_06.txt:4695
 msgid ""
@@ -18799,7 +18822,7 @@ msgstr ""
 msgid ""
 "This ornamental construction can enhance the value of rooms.  A window "
 "object must be made at a glass furnace before it can be placed."
-msgstr ""
+msgstr "这种装饰性建筑可以提高房间的价值。 窗户的物件必须在玻璃熔炉中制作，然后才能放置。"
 
 #: stringdump_steam_2022_12_06.txt:4729
 msgid ""
@@ -18908,7 +18931,7 @@ msgid ""
 "Weapon traps use a weapon or trap component to strike intruders.  Can be "
 "used with ranged weapons and loaded with ammo.  Can use multiple weapons at "
 "once."
-msgstr ""
+msgstr "武器陷阱使用武器或陷阱组件来打击入侵者。 可以使用远程武器并装载弹药。 可以同时使用多种武器。"
 
 #: stringdump_steam_2022_12_06.txt:4752
 msgid ""
@@ -18974,7 +18997,7 @@ msgstr "一群殖民地"
 
 #: stringdump_steam_2022_12_06.txt:4765
 msgid " - mine rock or chop trees"
-msgstr ""
+msgstr "- 采矿或砍树"
 
 #: stringdump_steam_2022_12_06.txt:4766
 msgid "unintelligible"
@@ -20328,15 +20351,15 @@ msgstr "改变装备,并"
 
 #: stringdump_steam_2022_12_06.txt:5100
 msgid "assign schedules."
-msgstr ""
+msgstr "指派时间表"
 
 #: stringdump_steam_2022_12_06.txt:5101
 msgid "Choose a uniform for the"
-msgstr ""
+msgstr "选择制服给"
 
 #: stringdump_steam_2022_12_06.txt:5102
 msgid "squad."
-msgstr ""
+msgstr "小队。"
 
 #: stringdump_steam_2022_12_06.txt:5103
 msgid "Equip"
@@ -20348,27 +20371,27 @@ msgstr "计划"
 
 #: stringdump_steam_2022_12_06.txt:5105
 msgid "Select a squad or squad"
-msgstr ""
+msgstr "选择一个小队或小队中的"
 
 #: stringdump_steam_2022_12_06.txt:5106
 msgid "member to give orders,"
-msgstr ""
+msgstr "成员来发布命令。"
 
 #: stringdump_steam_2022_12_06.txt:5107
 msgid "new order"
-msgstr ""
+msgstr "新的命令"
 
 #: stringdump_steam_2022_12_06.txt:5108
 msgid "At least "
-msgstr ""
+msgstr "至少"
 
 #: stringdump_steam_2022_12_06.txt:5109
 msgid "Vacant position"
-msgstr ""
+msgstr "闲置的地点"
 
 #: stringdump_steam_2022_12_06.txt:5110
 msgid "Back to squads"
-msgstr ""
+msgstr "回到小队"
 
 #: stringdump_steam_2022_12_06.txt:5111
 msgid "Sleep/barracks at will"
@@ -20380,47 +20403,47 @@ msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:5113
 msgid "Minimum number of"
-msgstr ""
+msgstr "最小数量的"
 
 #: stringdump_steam_2022_12_06.txt:5114
 msgid "soldiers to follow"
-msgstr ""
+msgstr "士兵跟随"
 
 #: stringdump_steam_2022_12_06.txt:5115
 msgid "is selected"
-msgstr ""
+msgstr "被选中"
 
 #: stringdump_steam_2022_12_06.txt:5116
 msgid "You must appoint"
-msgstr ""
+msgstr "你必须首先任命"
 
 #: stringdump_steam_2022_12_06.txt:5117
 msgid "somebody first"
-msgstr ""
+msgstr "一个人"
 
 #: stringdump_steam_2022_12_06.txt:5118
 msgid "You must appoint a"
-msgstr ""
+msgstr "你必须任命一个"
 
 #: stringdump_steam_2022_12_06.txt:5119
 msgid "Assign leader"
-msgstr ""
+msgstr "指派领导者"
 
 #: stringdump_steam_2022_12_06.txt:5120
 msgid "Assign position "
-msgstr ""
+msgstr "指派位置"
 
 #: stringdump_steam_2022_12_06.txt:5121
 msgid "Cannot appoint"
-msgstr ""
+msgstr "不能指派"
 
 #: stringdump_steam_2022_12_06.txt:5122
 msgid "until commander"
-msgstr ""
+msgstr "直到指挥官"
 
 #: stringdump_steam_2022_12_06.txt:5123
 msgid "Monthly orders"
-msgstr ""
+msgstr "每月命令"
 
 #: stringdump_steam_2022_12_06.txt:5124
 msgid "specific armor"
@@ -20432,19 +20455,19 @@ msgstr "具体掌舵"
 
 #: stringdump_steam_2022_12_06.txt:5126
 msgid "specific pants"
-msgstr ""
+msgstr "特定的裤子"
 
 #: stringdump_steam_2022_12_06.txt:5127
 msgid "Current month"
-msgstr ""
+msgstr "当月"
 
 #: stringdump_steam_2022_12_06.txt:5128
 msgid "Add/edit routines (columns)"
-msgstr ""
+msgstr "添加/编辑时间表(日程)"
 
 #: stringdump_steam_2022_12_06.txt:5129
 msgid "View monthly schedule"
-msgstr ""
+msgstr "查看每月计划"
 
 #: stringdump_steam_2022_12_06.txt:5130
 msgid "individual choice"
@@ -20464,11 +20487,11 @@ msgstr "个人选择，远程"
 
 #: stringdump_steam_2022_12_06.txt:5134
 msgid "specific gloves"
-msgstr ""
+msgstr "特定的手套"
 
 #: stringdump_steam_2022_12_06.txt:5135
 msgid "specific shoes"
-msgstr ""
+msgstr "特定的鞋子"
 
 #: stringdump_steam_2022_12_06.txt:5136
 msgid "specific shield"
@@ -20476,19 +20499,19 @@ msgstr "具体的盾牌"
 
 #: stringdump_steam_2022_12_06.txt:5137
 msgid "specific weapon"
-msgstr ""
+msgstr "特定的武器"
 
 #: stringdump_steam_2022_12_06.txt:5138
 msgid "Off duty"
-msgstr ""
+msgstr "未值班"
 
 #: stringdump_steam_2022_12_06.txt:5139
 msgid "Staggered training"
-msgstr ""
+msgstr "穿插训练"
 
 #: stringdump_steam_2022_12_06.txt:5140
 msgid "Constant training"
-msgstr ""
+msgstr "持续训练"
 
 #: stringdump_steam_2022_12_06.txt:5141
 msgid "Ready"
@@ -20496,11 +20519,11 @@ msgstr "准备"
 
 #: stringdump_steam_2022_12_06.txt:5142
 msgid "seleced positions."
-msgstr ""
+msgstr "选择的位置"
 
 #: stringdump_steam_2022_12_06.txt:5143
 msgid "seleced squads."
-msgstr ""
+msgstr "选择的小队"
 
 #: stringdump_steam_2022_12_06.txt:5144
 msgid "No uniform"
@@ -20508,43 +20531,43 @@ msgstr "没有制服"
 
 #: stringdump_steam_2022_12_06.txt:5145
 msgid "Military routines"
-msgstr ""
+msgstr "军事时间表"
 
 #: stringdump_steam_2022_12_06.txt:5146
 msgid "Routine #"
-msgstr ""
+msgstr "时间表 #"
 
 #: stringdump_steam_2022_12_06.txt:5147
 msgid "Add new routine"
-msgstr ""
+msgstr "添加新的时间表"
 
 #: stringdump_steam_2022_12_06.txt:5148
 msgid "Really delete this routine?"
-msgstr ""
+msgstr "真的要删除这个时间表吗？"
 
 #: stringdump_steam_2022_12_06.txt:5149
 msgid "Create which squad?"
-msgstr ""
+msgstr "创建哪支小队？"
 
 #: stringdump_steam_2022_12_06.txt:5150
 msgid "'s squad"
-msgstr ""
+msgstr "的小队"
 
 #: stringdump_steam_2022_12_06.txt:5151
 msgid "appointed by "
-msgstr ""
+msgstr "来指派"
 
 #: stringdump_steam_2022_12_06.txt:5152
 msgid "Uniform worn over clothing"
-msgstr ""
+msgstr "制服穿在衣服外面"
 
 #: stringdump_steam_2022_12_06.txt:5153
 msgid "Exact matches only"
-msgstr ""
+msgstr "只精确匹配给"
 
 #: stringdump_steam_2022_12_06.txt:5154
 msgid "Partial matches okay"
-msgstr ""
+msgstr "允许部分匹配"
 
 #: stringdump_steam_2022_12_06.txt:5155
 msgid " individual choice"
@@ -20552,27 +20575,27 @@ msgstr "个人选择"
 
 #: stringdump_steam_2022_12_06.txt:5156
 msgid "New footwear"
-msgstr ""
+msgstr "新的鞋类"
 
 #: stringdump_steam_2022_12_06.txt:5157
 msgid "New shield"
-msgstr ""
+msgstr "新的盾牌"
 
 #: stringdump_steam_2022_12_06.txt:5158
 msgid "New weapon"
-msgstr ""
+msgstr "新的武器"
 
 #: stringdump_steam_2022_12_06.txt:5159
 msgid "Uniform replaces clothing"
-msgstr ""
+msgstr "制服替换衣服"
 
 #: stringdump_steam_2022_12_06.txt:5160
 msgid "No assigned items"
-msgstr ""
+msgstr "未分配的物品"
 
 #: stringdump_steam_2022_12_06.txt:5161
 msgid "Mat"
-msgstr ""
+msgstr "垫子"
 
 #: stringdump_steam_2022_12_06.txt:5162
 msgid "Color"
@@ -20592,7 +20615,7 @@ msgstr "个人选择，远程"
 
 #: stringdump_steam_2022_12_06.txt:5166
 msgid " assigned items"
-msgstr ""
+msgstr "已分配的物品"
 
 #: stringdump_steam_2022_12_06.txt:5167
 msgid "Not yet assigned"
@@ -20648,7 +20671,7 @@ msgstr "位置"
 
 #: stringdump_steam_2022_12_06.txt:5181
 msgid "Adding uniform"
-msgstr ""
+msgstr "添加制服"
 
 #: stringdump_steam_2022_12_06.txt:5182
 msgid "(enter name here)"
@@ -20900,7 +20923,7 @@ msgstr "受伤的。"
 
 #: stringdump_steam_2022_12_06.txt:5245
 msgid " hammerstrike"
-msgstr ""
+msgstr "锤击"
 
 #: stringdump_steam_2022_12_06.txt:5246
 msgid "No sentence pending."
@@ -26027,7 +26050,7 @@ msgstr "雇我去绑架"
 
 #: stringdump_steam_2022_12_06.txt:6537
 msgid " to obtain "
-msgstr ""
+msgstr "去得到"
 
 #: stringdump_steam_2022_12_06.txt:6538
 msgid " sent me to engage "
@@ -26059,7 +26082,7 @@ msgstr "你一定觉得自己真的很恐怖。"
 
 #: stringdump_steam_2022_12_06.txt:6545
 msgid " engaged to induce a war of "
-msgstr ""
+msgstr "让我保证去诱发战争同"
 
 #: stringdump_steam_2022_12_06.txt:6546
 msgid "I do not scheme."
@@ -26067,35 +26090,35 @@ msgstr "我不搞阴谋。"
 
 #: stringdump_steam_2022_12_06.txt:6547
 msgid "I decided to frame "
-msgstr ""
+msgstr "我决定去陷害"
 
 #: stringdump_steam_2022_12_06.txt:6548
 msgid " engaged me to frame "
-msgstr ""
+msgstr "让我作保证去陷害"
 
 #: stringdump_steam_2022_12_06.txt:6549
 msgid " told me to tell "
-msgstr ""
+msgstr "让我去告诉"
 
 #: stringdump_steam_2022_12_06.txt:6550
 msgid " to ask "
-msgstr ""
+msgstr "去询问"
 
 #: stringdump_steam_2022_12_06.txt:6551
 msgid "I asked "
-msgstr ""
+msgstr "我询问了"
 
 #: stringdump_steam_2022_12_06.txt:6552
 msgid " told me to ask "
-msgstr ""
+msgstr "告诉我去问"
 
 #: stringdump_steam_2022_12_06.txt:6553
 msgid " sent me to "
-msgstr ""
+msgstr "将我带去"
 
 #: stringdump_steam_2022_12_06.txt:6554
 msgid " asked me"
-msgstr ""
+msgstr "询问了我"
 
 #: stringdump_steam_2022_12_06.txt:6555
 msgid "I demand a portion of the official funds from "
@@ -26103,11 +26126,11 @@ msgstr "我索求一部分官方资金从"
 
 #: stringdump_steam_2022_12_06.txt:6556
 msgid " look past illicit acts"
-msgstr ""
+msgstr "回顾过往的不正当行为"
 
 #: stringdump_steam_2022_12_06.txt:6557
 msgid " when one came available."
-msgstr ""
+msgstr "当其可用时"
 
 #: stringdump_steam_2022_12_06.txt:6558
 msgid " engaged me to obtain "
@@ -26131,7 +26154,7 @@ msgstr "被问道"
 
 #: stringdump_steam_2022_12_06.txt:6563
 msgid " to tell "
-msgstr ""
+msgstr "去告诉"
 
 #: stringdump_steam_2022_12_06.txt:6564
 msgid "Through "
@@ -28337,11 +28360,11 @@ msgstr "秘密图书馆"
 
 #: stringdump_steam_2022_12_06.txt:7120
 msgid "Counting House Offices"
-msgstr ""
+msgstr "计算房间的办公室数量"
 
 #: stringdump_steam_2022_12_06.txt:7121
 msgid "Counting House Storage"
-msgstr ""
+msgstr "计算房间的储量"
 
 #: stringdump_steam_2022_12_06.txt:7122
 msgid "Guildhall Offices"
@@ -28417,7 +28440,7 @@ msgstr "交易站"
 
 #: stringdump_steam_2022_12_06.txt:7141
 msgid "Tower Entrance"
-msgstr ""
+msgstr "塔楼入口"
 
 #: stringdump_steam_2022_12_06.txt:7142
 msgid "Tower Feasthall"
@@ -28537,7 +28560,7 @@ msgstr "武器制造坑"
 
 #: stringdump_steam_2022_12_06.txt:7171
 msgid "Invalid Type"
-msgstr ""
+msgstr "无效的类型"
 
 #: stringdump_steam_2022_12_06.txt:7174
 msgid "Meeting Hall"
@@ -28545,7 +28568,7 @@ msgstr "会议厅"
 
 #: stringdump_steam_2022_12_06.txt:7175
 msgid "Pen"
-msgstr ""
+msgstr "畜栏"
 
 #: stringdump_steam_2022_12_06.txt:7176
 msgid "Clay Collection"
@@ -28577,15 +28600,15 @@ msgstr "塔楼卧室"
 
 #: stringdump_steam_2022_12_06.txt:7183
 msgid "Tower Treasury"
-msgstr ""
+msgstr "塔楼储藏库"
 
 #: stringdump_steam_2022_12_06.txt:7184
 msgid "Tower Dungeon"
-msgstr ""
+msgstr "塔楼地牢"
 
 #: stringdump_steam_2022_12_06.txt:7185
 msgid "Tower Attic"
-msgstr ""
+msgstr "塔楼阁楼"
 
 #: stringdump_steam_2022_12_06.txt:7226
 msgid "Furniture Hauling"
@@ -28593,7 +28616,7 @@ msgstr "搬运家具"
 
 #: stringdump_steam_2022_12_06.txt:7229
 msgid ", Etc."
-msgstr ""
+msgstr "，等等"
 
 #: stringdump_steam_2022_12_06.txt:7230
 msgid " Or "
@@ -28689,7 +28712,7 @@ msgstr "幽灵般"
 
 #: stringdump_steam_2022_12_06.txt:7291
 msgid "'s corpse"
-msgstr ""
+msgstr "的尸体"
 
 #: stringdump_steam_2022_12_06.txt:7293
 msgid "lieutenants"
@@ -34328,7 +34351,7 @@ msgstr "讲经"
 
 #: stringdump_steam_2022_12_06.txt:8684
 msgid "A"
-msgstr "A"
+msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:8685
 msgid "I told the story of "
@@ -36981,7 +37004,7 @@ msgstr "我什么都没有。"
 
 #: stringdump_steam_2022_12_06.txt:9347
 msgid "Do you have wisdom to share, preacher?"
-msgstr ""
+msgstr "传道者，你有智慧可供分享吗？"
 
 #: stringdump_steam_2022_12_06.txt:9348
 msgid "It really is a pleasure to speak with you again."
@@ -39025,7 +39048,7 @@ msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:10410
 msgid "has a broad body bearing impressive muscles and a great load of fat"
-msgstr ""
+msgstr "有一个宽阔的身体，拥有令人印象深刻的肌肉和巨大的脂肪负荷"
 
 #: stringdump_steam_2022_12_06.txt:10411
 msgid "is very muscular with a broad body"
@@ -39299,7 +39322,7 @@ msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:10478
 msgid "has a thin frame but it is loaded with muscles and great layers of fat"
-msgstr ""
+msgstr "有一个瘦小的骨架，但充满了肌肉和巨大的脂肪层"
 
 #: stringdump_steam_2022_12_06.txt:10479
 msgid "is thin and very muscular"
@@ -39521,7 +39544,7 @@ msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:10533
 msgid "has loaded a tall body with incredible muscles"
-msgstr ""
+msgstr "有着高大的身体和难以置信的肌肉"
 
 #: stringdump_steam_2022_12_06.txt:10534
 msgid "is tall and very muscular"
@@ -40861,7 +40884,7 @@ msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:10868
 msgid "extremely dense"
-msgstr ""
+msgstr "极为浓密的"
 
 #: stringdump_steam_2022_12_06.txt:10869
 msgid "slightly convex"
@@ -41505,7 +41528,7 @@ msgstr "磨坊大楼"
 
 #: stringdump_steam_2022_12_06.txt:12307
 msgid "Mill Anywhere"
-msgstr ""
+msgstr "任何地方的磨坊"
 
 #: stringdump_steam_2022_12_06.txt:12308
 msgid "Return to Base"
@@ -41521,7 +41544,7 @@ msgstr "碾压洪水"
 
 #: stringdump_steam_2022_12_06.txt:12311
 msgid "Head for Edge"
-msgstr ""
+msgstr "前往边缘地区"
 
 #: stringdump_steam_2022_12_06.txt:12312
 msgid "Claim Site"
@@ -41649,7 +41672,7 @@ msgstr "箭袋"
 
 #: stringdump_steam_2022_12_06.txt:12343
 msgid "Flasks/Waterskins"
-msgstr ""
+msgstr "水壶/水皮"
 
 #: stringdump_steam_2022_12_06.txt:12344
 msgid "Miscellaneous"
@@ -41885,7 +41908,7 @@ msgstr "得到空沙袋"
 
 #: stringdump_steam_2022_12_06.txt:12402
 msgid "Ransack Taxes"
-msgstr ""
+msgstr "洗劫税"
 
 #: stringdump_steam_2022_12_06.txt:12403
 msgid "Guard Taxes"
@@ -41897,11 +41920,11 @@ msgstr "税务室"
 
 #: stringdump_steam_2022_12_06.txt:12405
 msgid "Return Colony To Install"
-msgstr ""
+msgstr "返回殖民地安装"
 
 #: stringdump_steam_2022_12_06.txt:12406
 msgid "Colony to Install"
-msgstr ""
+msgstr "用于安装的殖民地"
 
 #: stringdump_steam_2022_12_06.txt:12407
 msgid "Clay Zone"
@@ -41921,7 +41944,7 @@ msgstr "捕捉小宠物"
 
 #: stringdump_steam_2022_12_06.txt:12411
 msgid "Uncage Animal"
-msgstr ""
+msgstr "未被关在笼子里的动物"
 
 #: stringdump_steam_2022_12_06.txt:12412
 msgid "Grab Cage"
@@ -42049,7 +42072,7 @@ msgstr "审讯办公室"
 
 #: stringdump_steam_2022_12_06.txt:12443
 msgid "Go to Interrogation Target"
-msgstr ""
+msgstr "转到审讯目标"
 
 #: stringdump_steam_2022_12_06.txt:12444
 msgid "Go to Beating Target"
@@ -42541,7 +42564,7 @@ msgstr "获得写作材料"
 
 #: stringdump_steam_2022_12_06.txt:12579
 msgid "Go to Reading Place"
-msgstr ""
+msgstr "前往阅读场所"
 
 #: stringdump_steam_2022_12_06.txt:12580
 msgid "Get Written Content"
@@ -42565,7 +42588,7 @@ msgstr "拿取乐器"
 
 #: stringdump_steam_2022_12_06.txt:12585
 msgid "Follow Command"
-msgstr ""
+msgstr "遵循命令"
 
 #: stringdump_steam_2022_12_06.txt:12586
 msgid "Parley Item"
@@ -42577,19 +42600,19 @@ msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:12588
 msgid "Leave Site for Squad Order"
-msgstr ""
+msgstr "离开现场的小队秩序"
 
 #: stringdump_steam_2022_12_06.txt:12590
 msgid "Seek Heist Handoff"
-msgstr ""
+msgstr "求助于抢劫案的交接"
 
 #: stringdump_steam_2022_12_06.txt:12591
 msgid "Seek Heist Master"
-msgstr ""
+msgstr "寻找抢劫大师"
 
 #: stringdump_steam_2022_12_06.txt:12592
 msgid "Seek Heist Item"
-msgstr ""
+msgstr "寻找劫掠物品"
 
 #: stringdump_steam_2022_12_06.txt:12605
 msgid "loyal"
@@ -42741,7 +42764,7 @@ msgstr "忠实的"
 
 #: stringdump_steam_2022_12_06.txt:12642
 msgid "dusklight"
-msgstr ""
+msgstr "昏暗的灯光"
 
 #: stringdump_steam_2022_12_06.txt:12643
 msgid "dreaming"
@@ -43621,7 +43644,7 @@ msgstr "姐姐"
 
 #: stringdump_steam_2022_12_06.txt:12969
 msgid "older half-sibling"
-msgstr ""
+msgstr "庶出同辈"
 
 #: stringdump_steam_2022_12_06.txt:12970
 msgid "older half-sister"
@@ -43645,11 +43668,11 @@ msgstr "庶出妹弟"
 
 #: stringdump_steam_2022_12_06.txt:12975
 msgid "younger half-sister"
-msgstr ""
+msgstr "庶出姐妹"
 
 #: stringdump_steam_2022_12_06.txt:12976
 msgid "younger half-brother"
-msgstr ""
+msgstr "庶出兄弟"
 
 #: stringdump_steam_2022_12_06.txt:12980
 msgid "ren"
@@ -43713,15 +43736,15 @@ msgstr "蟑螂"
 
 #: stringdump_steam_2022_12_06.txt:13451
 msgid "stick insect"
-msgstr ""
+msgstr "竹节虫"
 
 #: stringdump_steam_2022_12_06.txt:13452
 msgid "cricket"
-msgstr "板球"
+msgstr "蟋蟀"
 
 #: stringdump_steam_2022_12_06.txt:13453
 msgid "aphid"
-msgstr "蚜"
+msgstr "蚜虫"
 
 #: stringdump_steam_2022_12_06.txt:13454
 msgid "thrips"
@@ -43745,7 +43768,7 @@ msgstr "黄蜂"
 
 #: stringdump_steam_2022_12_06.txt:13459
 msgid "assassin bug"
-msgstr ""
+msgstr "刺客虫"
 
 #: stringdump_steam_2022_12_06.txt:13460
 msgid "cicada"
@@ -43757,7 +43780,7 @@ msgstr "瓢虫"
 
 #: stringdump_steam_2022_12_06.txt:13462
 msgid "tiger beetle"
-msgstr ""
+msgstr "虎头蛇虫"
 
 #: stringdump_steam_2022_12_06.txt:13463
 msgid "ant"
@@ -43797,7 +43820,7 @@ msgstr "蟾蜍"
 
 #: stringdump_steam_2022_12_06.txt:13504
 msgid "flat worm"
-msgstr ""
+msgstr "扁形蠕虫"
 
 #: stringdump_steam_2022_12_06.txt:13505
 msgid "lizard"
@@ -43901,7 +43924,7 @@ msgstr "鸭子"
 
 #: stringdump_steam_2022_12_06.txt:13530
 msgid "ankylosaurid"
-msgstr ""
+msgstr "踝龙类"
 
 #: stringdump_steam_2022_12_06.txt:13531
 msgid "ceratopsid"
@@ -43921,7 +43944,7 @@ msgstr "蜣螂"
 
 #: stringdump_steam_2022_12_06.txt:13535
 msgid "stag beetle"
-msgstr ""
+msgstr "锹形虫"
 
 #: stringdump_steam_2022_12_06.txt:13536
 msgid "scarab beetle"
@@ -45733,7 +45756,7 @@ msgstr "紧张"
 
 #: stringdump_steam_2022_12_06.txt:14037
 msgid "Random Buffer Overload"
-msgstr ""
+msgstr "随机缓冲区过载"
 
 #: stringdump_steam_2022_12_06.txt:14038
 msgid "ghost"
@@ -46083,7 +46106,7 @@ msgstr "加载对象文件......"
 
 #: stringdump_steam_2022_12_06.txt:14442
 msgid "Loading world to start new game"
-msgstr ""
+msgstr "加载世界来开始新游戏"
 
 #: stringdump_steam_2022_12_06.txt:14443
 msgid "Sorting material templates..."
@@ -46231,7 +46254,7 @@ msgstr "装载职业......"
 
 #: stringdump_steam_2022_12_06.txt:14507
 msgid "Loading divination sets..."
-msgstr ""
+msgstr "加载预言集"
 
 #: stringdump_steam_2022_12_06.txt:14508
 msgid "Loading image sets..."
@@ -46279,7 +46302,7 @@ msgstr "重建临时信息......"
 
 #: stringdump_steam_2022_12_06.txt:14519
 msgid "Loading world and continuing active game"
-msgstr ""
+msgstr "加载世界并继续可用游戏"
 
 #: stringdump_steam_2022_12_06.txt:14520
 msgid "Failed!"
@@ -46663,7 +46686,7 @@ msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:14639
 msgid "\".  [C:2:0:1]Strike the earth![C:7:0:0]"
-msgstr ""
+msgstr "\".  [C:2:0:1]挖穿大地吧！[C:7:0:0]"
 
 #: stringdump_steam_2022_12_06.txt:14640
 msgid "autosave "
@@ -46745,7 +46768,7 @@ msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:14681
 msgid "Loading bindings from "
-msgstr ""
+msgstr "从以下方面加载绑定"
 
 #: stringdump_steam_2022_12_06.txt:14687
 msgid "Unknown SDLKey: "
@@ -46757,7 +46780,7 @@ msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:14690
 msgid "Quantity not numeric or Unexpected tab(s) while loading macro: "
-msgstr ""
+msgstr "数量不是数字类型，或在加载宏时出现非法标签。"
 
 #: stringdump_steam_2022_12_06.txt:14694
 msgid "NO BINDING"
@@ -46769,11 +46792,11 @@ msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:14699
 msgid "Binding missing while loading macro: "
-msgstr ""
+msgstr "在加载宏时发现缺少绑定:"
 
 #: stringdump_steam_2022_12_06.txt:14700
 msgid "Binding name unknown while loading macro: "
-msgstr ""
+msgstr "在加载宏时，发现绑定名称未知:"
 
 #: stringdump_steam_2022_12_06.txt:14701
 msgid "list too long"
@@ -48363,7 +48386,7 @@ msgstr "保存跟踪信息......"
 
 #: stringdump_steam_2022_12_06.txt:15428
 msgid "Passing a few weeks to get things ready..."
-msgstr ""
+msgstr "矮人们正忙上几周时间，把事情准备妥当..."
 
 #: stringdump_steam_2022_12_06.txt:15429
 msgid "Synchronizing folders..."
@@ -54443,7 +54466,7 @@ msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:17002
 msgid " received the title of "
-msgstr ""
+msgstr "获得了头衔"
 
 #: stringdump_steam_2022_12_06.txt:17003
 msgid " recruited "
@@ -56491,15 +56514,15 @@ msgstr "致力于掌握"
 
 #: stringdump_steam_2022_12_06.txt:17515
 msgid " devoted to the worship of "
-msgstr ""
+msgstr "致力于侍奉"
 
 #: stringdump_steam_2022_12_06.txt:17516
 msgid " devoted to worship"
-msgstr ""
+msgstr "致力于侍奉"
 
 #: stringdump_steam_2022_12_06.txt:17517
 msgid " linked to "
-msgstr ""
+msgstr "相连与"
 
 #: stringdump_steam_2022_12_06.txt:17518
 msgid " group from "
@@ -56507,7 +56530,7 @@ msgstr "团体来于"
 
 #: stringdump_steam_2022_12_06.txt:17519
 msgid " merchant company from "
-msgstr ""
+msgstr "商行来于"
 
 #: stringdump_steam_2022_12_06.txt:17520
 msgid " collection of outcasts from "
@@ -56523,15 +56546,15 @@ msgstr "乐队"
 
 #: stringdump_steam_2022_12_06.txt:17523
 msgid "company"
-msgstr ""
+msgstr "军团"
 
 #: stringdump_steam_2022_12_06.txt:17524
 msgid "shadowy military"
-msgstr ""
+msgstr "地下武装"
 
 #: stringdump_steam_2022_12_06.txt:17525
 msgid "versatile mercenary"
-msgstr ""
+msgstr "多才多艺的雇佣兵"
 
 #: stringdump_steam_2022_12_06.txt:17526
 msgid " bandit gang from "
@@ -56539,11 +56562,11 @@ msgstr "强盗团伙来自"
 
 #: stringdump_steam_2022_12_06.txt:17527
 msgid " fought in "
-msgstr ""
+msgstr "曾战斗与"
 
 #: stringdump_steam_2022_12_06.txt:17528
 msgid "to fight in "
-msgstr ""
+msgstr "战斗与"
 
 #: stringdump_steam_2022_12_06.txt:17529
 msgid "as part of "
@@ -56551,11 +56574,11 @@ msgstr "作为...的一部分"
 
 #: stringdump_steam_2022_12_06.txt:17530
 msgid "as a scout"
-msgstr ""
+msgstr "作为一个侦察员"
 
 #: stringdump_steam_2022_12_06.txt:17531
 msgid " was hired "
-msgstr ""
+msgstr "被雇佣了"
 
 #: stringdump_steam_2022_12_06.txt:17532
 msgid " which was said to permeate "
@@ -56587,15 +56610,15 @@ msgstr "以崇拜为中心"
 
 #: stringdump_steam_2022_12_06.txt:17539
 msgid " centered around the worship of various beings"
-msgstr "以各种众生的崇拜为中心"
+msgstr "围绕着对各种存在的崇拜而进行的"
 
 #: stringdump_steam_2022_12_06.txt:17540
 msgid "their use of "
-msgstr ""
+msgstr "他们利用"
 
 #: stringdump_steam_2022_12_06.txt:17541
 msgid "kicking"
-msgstr ""
+msgstr "刺激"
 
 #: stringdump_steam_2022_12_06.txt:17542
 msgid "striking"
@@ -56775,19 +56798,19 @@ msgstr "传奇英雄"
 
 #: stringdump_steam_2022_12_06.txt:17586
 msgid " (religious worshippers)[R]"
-msgstr ""
+msgstr "(宗教崇拜者)[R]"
 
 #: stringdump_steam_2022_12_06.txt:17587
 msgid " (militant worshippers)[R]"
-msgstr ""
+msgstr "(宗教狂信徒)[R]"
 
 #: stringdump_steam_2022_12_06.txt:17588
 msgid " (associated civilization)[R]"
-msgstr ""
+msgstr "(相关文明)[R]"
 
 #: stringdump_steam_2022_12_06.txt:17590
 msgid "claim to "
-msgstr "索赔"
+msgstr "声索"
 
 #: stringdump_steam_2022_12_06.txt:17591
 msgid "noted bully"
@@ -56859,23 +56882,23 @@ msgstr "一座圣祠"
 
 #: stringdump_steam_2022_12_06.txt:17608
 msgid "a shop"
-msgstr ""
+msgstr "一个商店"
 
 #: stringdump_steam_2022_12_06.txt:17609
 msgid "a castle courtyard"
-msgstr ""
+msgstr "一座城堡院落"
 
 #: stringdump_steam_2022_12_06.txt:17610
 msgid "a castle tower"
-msgstr ""
+msgstr "一座城堡碉塔"
 
 #: stringdump_steam_2022_12_06.txt:17611
 msgid "a castle wall"
-msgstr ""
+msgstr "一座城墙"
 
 #: stringdump_steam_2022_12_06.txt:17612
 msgid "a cottage plot"
-msgstr ""
+msgstr "一块宅院地基"
 
 #: stringdump_steam_2022_12_06.txt:17613
 msgid "an unknown secret"
@@ -56907,11 +56930,11 @@ msgstr "一个未知的小站"
 
 #: stringdump_steam_2022_12_06.txt:17621
 msgid "an unidentified creature"
-msgstr ""
+msgstr "未识别的生物"
 
 #: stringdump_steam_2022_12_06.txt:17622
 msgid "interrogator"
-msgstr ""
+msgstr "审讯员"
 
 #: stringdump_steam_2022_12_06.txt:17625
 msgid "an unknown building"
@@ -56935,7 +56958,7 @@ msgstr "一口井"
 
 #: stringdump_steam_2022_12_06.txt:17630
 msgid "a yard"
-msgstr ""
+msgstr "院子"
 
 #: stringdump_steam_2022_12_06.txt:17631
 msgid "a waste"
@@ -57055,11 +57078,11 @@ msgstr "权力所在地"
 
 #: stringdump_steam_2022_12_06.txt:17660
 msgid "site occ"
-msgstr ""
+msgstr "场地占用"
 
 #: stringdump_steam_2022_12_06.txt:17661
 msgid "[C:6:0:1]Related Sites[C:7:0:0][B]"
-msgstr ""
+msgstr "[C:6:0:1]相关站点[C:7:0:0][B]"
 
 #: stringdump_steam_2022_12_06.txt:17662
 msgid "rumored thief"
@@ -57175,7 +57198,7 @@ msgstr "清除"
 
 #: stringdump_steam_2022_12_06.txt:17690
 msgid "Persecution of "
-msgstr ""
+msgstr "迫害"
 
 #: stringdump_steam_2022_12_06.txt:17691
 msgid "Overthrow of "
@@ -57386,7 +57409,7 @@ msgstr "在野外"
 
 #: stringdump_steam_2022_12_06.txt:17782
 msgid "Abduction"
-msgstr "拐"
+msgstr "绑架"
 
 #: stringdump_steam_2022_12_06.txt:17783
 msgid "I bind myself to this place."
@@ -57442,7 +57465,7 @@ msgstr "空中竞赛"
 
 #: stringdump_steam_2022_12_06.txt:17862
 msgid "population gone"
-msgstr ""
+msgstr "族群消失"
 
 #: stringdump_steam_2022_12_06.txt:17863
 msgid "leadership overthrown"
@@ -57794,7 +57817,7 @@ msgstr "碎桥"
 
 #: stringdump_steam_2022_12_06.txt:18108
 msgid "steam"
-msgstr "蒸汽"
+msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:18109
 msgid "dragonfire"
@@ -58054,7 +58077,7 @@ msgstr "恨的倾向"
 
 #: stringdump_steam_2022_12_06.txt:18385
 msgid "love propensity"
-msgstr ""
+msgstr "爱的倾向"
 
 #: stringdump_steam_2022_12_06.txt:18387
 msgid "obsessive"
@@ -58066,7 +58089,7 @@ msgstr "对差异的宽容"
 
 #: stringdump_steam_2022_12_06.txt:18389
 msgid "set-in-ways"
-msgstr ""
+msgstr "镶边的方式"
 
 #: stringdump_steam_2022_12_06.txt:18390
 msgid "perfectionist"
@@ -58082,19 +58105,19 @@ msgstr "害羞的"
 
 #: stringdump_steam_2022_12_06.txt:18393
 msgid "singlemindedness"
-msgstr ""
+msgstr "一心一意"
 
 #: stringdump_steam_2022_12_06.txt:18394
 msgid "cruelty"
-msgstr ""
+msgstr "残酷性"
 
 #: stringdump_steam_2022_12_06.txt:18395
 msgid "zaniness"
-msgstr ""
+msgstr "狂热"
 
 #: stringdump_steam_2022_12_06.txt:18396
 msgid "extravagance"
-msgstr ""
+msgstr "奢侈"
 
 #: stringdump_steam_2022_12_06.txt:18397
 msgid "ambition"
@@ -58102,7 +58125,7 @@ msgstr "野心"
 
 #: stringdump_steam_2022_12_06.txt:18398
 msgid "vanity"
-msgstr ""
+msgstr "虚荣"
 
 #: stringdump_steam_2022_12_06.txt:18399
 msgid "confidence"
@@ -58114,7 +58137,7 @@ msgstr "无畏"
 
 #: stringdump_steam_2022_12_06.txt:18401
 msgid "disdain advice"
-msgstr ""
+msgstr "不屑一顾的建议"
 
 #: stringdump_steam_2022_12_06.txt:18402
 msgid "polite"
@@ -58126,7 +58149,7 @@ msgstr "抽象的"
 
 #: stringdump_steam_2022_12_06.txt:18473
 msgid "flights of fancy"
-msgstr ""
+msgstr "幻想的翅膀"
 
 #: stringdump_steam_2022_12_06.txt:18474
 msgid "excitement-seeking"
@@ -58190,7 +58213,7 @@ msgstr "绑架者"
 
 #: stringdump_steam_2022_12_06.txt:18803
 msgid "world view filter not set (moderate private opinion)"
-msgstr ""
+msgstr "未设置世界观过滤器（适度的私人意见）。"
 
 #: stringdump_steam_2022_12_06.txt:18804
 msgid "world view filter not set (adjust ci ps)"
@@ -58848,7 +58871,7 @@ msgstr "烧死了"
 
 #: stringdump_steam_2022_12_06.txt:19333
 msgid "Fed to beasts"
-msgstr "美联储对野兽"
+msgstr "喂养野兽"
 
 #: stringdump_steam_2022_12_06.txt:19334
 msgid "Struck down"
@@ -60499,7 +60522,7 @@ msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:19860
 msgid "Load catapult"
-msgstr ""
+msgstr "装载弹射器"
 
 #: stringdump_steam_2022_12_06.txt:19861
 msgid "Clean trap"
@@ -60511,7 +60534,7 @@ msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:19863
 msgid "Load ballista"
-msgstr ""
+msgstr "装载弹炮"
 
 #: stringdump_steam_2022_12_06.txt:19864
 msgid "Report crime"
@@ -60959,7 +60982,7 @@ msgstr "横幅"
 
 #: stringdump_steam_2022_12_06.txt:21291
 msgid "images"
-msgstr "图片"
+msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:21292
 msgid "criers in front"
@@ -61829,7 +61852,7 @@ msgstr ""
 msgid ""
 " has characters that can't be used in filename.  Loading without these "
 "characters."
-msgstr ""
+msgstr "有不能在文件名中使用的字符。 正在加载没有这些字符的文件。"
 
 #: stringdump_steam_2022_12_06.txt:22035
 msgid "Failed to find vanilla world map header."
@@ -62009,7 +62032,7 @@ msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:22124
 msgid "mods\\mod_upload\\"
-msgstr ""
+msgstr "mods\\mod_upload\\"
 
 #: stringdump_steam_2022_12_06.txt:22127
 msgid "Item creation failed: insufficient privilege."
@@ -64413,7 +64436,7 @@ msgstr "小"
 
 #: stringdump_steam_2022_12_06.txt:22890
 msgid "Medium"
-msgstr "介质"
+msgstr "中等"
 
 #: stringdump_steam_2022_12_06.txt:22891
 msgid "Maximum number of sites"
@@ -68112,7 +68135,7 @@ msgstr "喜欢从容不迫"
 #: stringdump_steam_2022_12_06.txt:23954
 msgid ""
 "never fails to seek out the most stressful and even dangerous situations"
-msgstr ""
+msgstr "始终不忘寻找最紧张甚至是最危险的情况"
 
 #: stringdump_steam_2022_12_06.txt:23955
 msgid "has an utterly languid pace of easy living, calm and slow"
@@ -68120,7 +68143,7 @@ msgstr "拥有完全慵懒的轻松生活节奏，平静而缓慢"
 
 #: stringdump_steam_2022_12_06.txt:23956
 msgid "is driven by a bouncing frenetic energy"
-msgstr ""
+msgstr "被一种反弹的狂热能量所驱动"
 
 #: stringdump_steam_2022_12_06.txt:23957
 msgid "would never under any circumstances speak up or otherwise put forth "
@@ -68132,7 +68155,7 @@ msgstr "过着快节奏的生活"
 
 #: stringdump_steam_2022_12_06.txt:23959
 msgid "lives at a high-energy kinetic pace"
-msgstr ""
+msgstr "生活在高能动感的节奏中"
 
 #: stringdump_steam_2022_12_06.txt:23960
 msgid "does everything in "
@@ -68144,7 +68167,7 @@ msgstr "力量去避免兴奋和压力"
 
 #: stringdump_steam_2022_12_06.txt:23962
 msgid "is given to flights of fancy to the point of distraction"
-msgstr ""
+msgstr "胡思乱想，以至于心烦意乱"
 
 #: stringdump_steam_2022_12_06.txt:23963
 msgid ""
@@ -68158,7 +68181,7 @@ msgstr "时不时地喜欢一点刺激"
 
 #: stringdump_steam_2022_12_06.txt:23965
 msgid "seeks out exciting and adventurous situations"
-msgstr ""
+msgstr "寻求刺激和冒险的情况"
 
 #: stringdump_steam_2022_12_06.txt:23966
 msgid "actively avoids exciting or stressful situations"
@@ -68250,7 +68273,7 @@ msgstr "不那么讨厌"
 
 #: stringdump_steam_2022_12_06.txt:23988
 msgid " is troubled by this since "
-msgstr ""
+msgstr "对此感到不安，因为"
 
 #: stringdump_steam_2022_12_06.txt:23989
 msgid " dislikes the natural world"
@@ -68302,7 +68325,7 @@ msgstr "独立感"
 
 #: stringdump_steam_2022_12_06.txt:24001
 msgid " still views loyalty in a dim light, at least in the abstract"
-msgstr ""
+msgstr "至少在抽象意义上，对忠诚的看法仍然很模糊"
 
 #: stringdump_steam_2022_12_06.txt:24002
 msgid ", although "
@@ -68322,11 +68345,11 @@ msgstr "相信法治的重要性"
 
 #: stringdump_steam_2022_12_06.txt:24006
 msgid " values the concept of loyalty and is troubled by "
-msgstr ""
+msgstr "重视忠诚的概念，并对以下情况感到不安"
 
 #: stringdump_steam_2022_12_06.txt:24007
 msgid " natural tendencies"
-msgstr ""
+msgstr "自然倾向"
 
 #: stringdump_steam_2022_12_06.txt:24008
 msgid " sees the whole pursuit of art as a waste"
@@ -68350,7 +68373,7 @@ msgstr "从概念上讲，宁静比骚动更可取"
 
 #: stringdump_steam_2022_12_06.txt:24013
 msgid " still holds the idea of freedom itself in low regard"
-msgstr ""
+msgstr "仍然对自由的概念本身看得很淡"
 
 #: stringdump_steam_2022_12_06.txt:24014
 msgid " feels intellectually that life should be more tumultuous"
@@ -68363,7 +68386,7 @@ msgstr ""
 #: stringdump_steam_2022_12_06.txt:24016
 msgid ""
 " finds dignified society to be stifling and silly when properly considered"
-msgstr ""
+msgstr "当适当考虑时，发现有尊严的社会是令人窒息和愚蠢的"
 
 #: stringdump_steam_2022_12_06.txt:24017
 msgid " finds rules of etiquette to be valuable in the abstract"
@@ -70362,7 +70385,7 @@ msgstr ""
 msgid ""
 " is ready to be recognized (from the temple's location menu.)  This will "
 "satisfy the agreement."
-msgstr ""
+msgstr "已经准备好被识别（从寺庙的位置菜单中）。 这将满足协议的要求。"
 
 #: stringdump_steam_2022_12_06.txt:24513
 msgid "A true Mountainhome must have a true throne! "
@@ -70445,7 +70468,7 @@ msgid ""
 "Your ruler has arrived with a full entourage.  Your thriving site is now the"
 " capital, and with continued fortune and toil, the legend of a true "
 "Mountainhome may yet be written."
-msgstr ""
+msgstr "你们的统治者已经带着满满的随行人员到达。 你的繁荣之地现在是首都，随着持续的财富和辛劳，一个真正的山地家园的传奇可能还将被书写。"
 
 #: stringdump_steam_2022_12_06.txt:24532
 msgid "The fortress attracted no migrants this season."
@@ -70645,7 +70668,7 @@ msgstr "大篷车来自"
 msgid ""
 "What these merchants offer might very well be the difference between a "
 "prosperous future and a slow and meaningless death."
-msgstr ""
+msgstr "这些商人提供的东西很可能是繁荣的未来和缓慢而无意义的死亡之间的区别。"
 
 #: stringdump_steam_2022_12_06.txt:24582
 msgid "Some migrants have arrived, despite the danger."
@@ -71129,7 +71152,7 @@ msgstr "每条线都有"
 msgid ""
 "lines which emerge when reading along certain prescribed paths across the "
 "body of the poem"
-msgstr ""
+msgstr "诗句的出现，是沿着某些规定的路径在诗体上阅读时出现的。"
 
 #: stringdump_steam_2022_12_06.txt:24712
 msgid "foot"
@@ -74049,7 +74072,7 @@ msgstr "稿子"
 
 #: stringdump_steam_2022_12_06.txt:25906
 msgid "strikes "
-msgstr "敲"
+msgstr "打击"
 
 #: stringdump_steam_2022_12_06.txt:25907
 msgid "the main string"
@@ -74319,7 +74342,7 @@ msgstr ":立场:看台"
 
 #: stringdump_steam_2022_12_06.txt:26003
 msgid " used by the musician to strike the instrument and produce sound.]"
-msgstr ""
+msgstr "音乐家用来敲击乐器和产生声音的工具] 。"
 
 #: stringdump_steam_2022_12_06.txt:26005
 msgid " stretched over the instrument and used to produce sound.]"
@@ -75213,7 +75236,7 @@ msgstr "它被柔和的气体围绕着"
 
 #: stringdump_steam_2022_12_06.txt:26685
 msgid "it radiates an aura of welcoming"
-msgstr ""
+msgstr "它散发出一种欢迎的光环"
 
 #: stringdump_steam_2022_12_06.txt:26686
 msgid "it makes those around it want to give up their possessions"
@@ -75321,7 +75344,7 @@ msgstr "它有新出炉的可口食物的香味"
 
 #: stringdump_steam_2022_12_06.txt:26712
 msgid "a sheen around it always seems to rise upward"
-msgstr ""
+msgstr "围绕着它的光泽似乎总是向上升起"
 
 #: stringdump_steam_2022_12_06.txt:26713
 msgid "it only looks comfortable when it is in the water"
@@ -75333,7 +75356,7 @@ msgstr "即使在明亮的光线下也很难看清楚"
 
 #: stringdump_steam_2022_12_06.txt:26715
 msgid "it always turns to welcome the rise of the sun"
-msgstr ""
+msgstr "它总会变成迎向太阳升起的方向"
 
 #: stringdump_steam_2022_12_06.txt:26716
 msgid "small objects seem to pop into existence around it"
@@ -75473,7 +75496,7 @@ msgstr ""
 msgid ""
 "it always seems to have its attention on the most valuable object in the "
 "area"
-msgstr ""
+msgstr "它的注意力似乎总是集中在该地区最有价值的物体上"
 
 #: stringdump_steam_2022_12_06.txt:26751
 msgid "its movements sound like the rattling of chains"
@@ -75503,7 +75526,7 @@ msgstr ""
 msgid ""
 "it always tries to embolden any fighting in its presence with exhortations "
 "of bravery, even its foes"
-msgstr ""
+msgstr "它总是试图让任何在它面前作战的人鼓起勇气，甚至是它的敌人。"
 
 #: stringdump_steam_2022_12_06.txt:26758
 msgid "it has a tendency to laugh quietly to itself every so often"
@@ -75529,7 +75552,7 @@ msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:26763
 msgid "it always seems to be deep in thought"
-msgstr ""
+msgstr "它似乎总是在思考问题"
 
 #: stringdump_steam_2022_12_06.txt:26764
 msgid "it always nods eagerly when somebody is speaking"
@@ -76832,11 +76855,11 @@ msgstr "巨怪"
 
 #: stringdump_steam_2022_12_06.txt:27480
 msgid " of twilight"
-msgstr "暮光之城"
+msgstr "暮光"
 
 #: stringdump_steam_2022_12_06.txt:27481
 msgid " of shadow"
-msgstr ""
+msgstr "阴影"
 
 #: stringdump_steam_2022_12_06.txt:27482
 msgid "Being"
@@ -76844,7 +76867,7 @@ msgstr "存在"
 
 #: stringdump_steam_2022_12_06.txt:27483
 msgid "Beings"
-msgstr ""
+msgstr "存在"
 
 #: stringdump_steam_2022_12_06.txt:27484
 msgid "helper"
@@ -76860,7 +76883,7 @@ msgstr "帮手"
 
 #: stringdump_steam_2022_12_06.txt:27487
 msgid "Helpers"
-msgstr ""
+msgstr "帮手"
 
 #: stringdump_steam_2022_12_06.txt:27488
 msgid "Minions"
@@ -76880,11 +76903,11 @@ msgstr "定位器"
 
 #: stringdump_steam_2022_12_06.txt:27492
 msgid "Pawn"
-msgstr "典当"
+msgstr "角色"
 
 #: stringdump_steam_2022_12_06.txt:27493
 msgid "Pawns"
-msgstr ""
+msgstr "角色"
 
 #: stringdump_steam_2022_12_06.txt:27494
 msgid "Puppets"
@@ -76932,7 +76955,7 @@ msgstr "祸根"
 
 #: stringdump_steam_2022_12_06.txt:27505
 msgid "Ruinations"
-msgstr ""
+msgstr "祸根"
 
 #: stringdump_steam_2022_12_06.txt:27506
 msgid "attendant"
@@ -78129,7 +78152,7 @@ msgstr "几何对象:点，线，圆，三角形等"
 
 #: stringdump_steam_2022_12_06.txt:28171
 msgid "ethics as applied to interpersonal conduct"
-msgstr ""
+msgstr "适用于人际行为的道德规范"
 
 #: stringdump_steam_2022_12_06.txt:28172
 msgid "law, its forms and recommendations"
@@ -78137,7 +78160,7 @@ msgstr "法律，形式和建议"
 
 #: stringdump_steam_2022_12_06.txt:28173
 msgid "the nature of causation"
-msgstr ""
+msgstr "因果关系的性质"
 
 #: stringdump_steam_2022_12_06.txt:28174
 msgid "ethics as applied to war"
@@ -78169,7 +78192,7 @@ msgstr "归纳推理"
 
 #: stringdump_steam_2022_12_06.txt:28181
 msgid "government, its forms and recommendations"
-msgstr ""
+msgstr "政府、其形式和建议"
 
 #: stringdump_steam_2022_12_06.txt:28182
 msgid "economic policy, its forms and recommendations"
@@ -78181,7 +78204,7 @@ msgstr "词源"
 
 #: stringdump_steam_2022_12_06.txt:28184
 msgid "diplomacy, its forms and recommendations"
-msgstr ""
+msgstr "外交，其形式和建议"
 
 #: stringdump_steam_2022_12_06.txt:28185
 msgid "education, its forms and recommendations"
@@ -78193,7 +78216,7 @@ msgstr "语法"
 
 #: stringdump_steam_2022_12_06.txt:28187
 msgid "medical ethics"
-msgstr ""
+msgstr "医学伦理学"
 
 #: stringdump_steam_2022_12_06.txt:28188
 msgid "the meaning of individual happiness"
@@ -78217,7 +78240,7 @@ msgstr "命题逻辑"
 
 #: stringdump_steam_2022_12_06.txt:28193
 msgid "deductive reasoning"
-msgstr ""
+msgstr "演绎性推理"
 
 #: stringdump_steam_2022_12_06.txt:28194
 msgid "syllogistic logic"
@@ -78257,7 +78280,7 @@ msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:28203
 msgid "the precise compilation of information about stars"
-msgstr ""
+msgstr "准确地汇编关于星星的信息"
 
 #: stringdump_steam_2022_12_06.txt:28204
 msgid "the classification of stars according to color"
@@ -78500,14 +78523,14 @@ msgstr ""
 msgid ""
 "an algorithm for computing a number which has given remainders when divided "
 "by several given primes"
-msgstr ""
+msgstr "计算一个被几个给定的素数除以后有余数的数字的算法"
 
 #: stringdump_steam_2022_12_06.txt:28259
 msgid ""
 "the relationship between the half chords of a triangle's angles, the "
 "opposite side lengths, and the diameter of the triangle's circumscribed "
 "circle"
-msgstr ""
+msgstr "三角形的半弦、对边长度和三角形圆周的直径之间的关系"
 
 #: stringdump_steam_2022_12_06.txt:28260
 msgid ""
@@ -78538,7 +78561,7 @@ msgstr "对于某些任意大的总和的简单公式"
 
 #: stringdump_steam_2022_12_06.txt:28266
 msgid "methods for solving systems of equations"
-msgstr ""
+msgstr "解决方程组的方法"
 
 #: stringdump_steam_2022_12_06.txt:28267
 msgid "the creation of accurate maps"
@@ -78546,7 +78569,7 @@ msgstr "创建精确的地图"
 
 #: stringdump_steam_2022_12_06.txt:28268
 msgid "methods of adjusting maps to account for the shape of the world"
-msgstr ""
+msgstr "调整地图以考虑到世界形状的方法"
 
 #: stringdump_steam_2022_12_06.txt:28269
 msgid ""
@@ -78572,7 +78595,7 @@ msgstr "将地图和其他信息收集到一个文本中"
 
 #: stringdump_steam_2022_12_06.txt:28274
 msgid "the process of the formation of deltas at the mouths of rivers"
-msgstr ""
+msgstr "河流口三角洲的形成过程"
 
 #: stringdump_steam_2022_12_06.txt:28275
 msgid "mineral remedies"
@@ -78592,7 +78615,7 @@ msgstr "从动物准备的补救措施"
 
 #: stringdump_steam_2022_12_06.txt:28279
 msgid "the method of autopsy"
-msgstr ""
+msgstr "尸检的方法"
 
 #: stringdump_steam_2022_12_06.txt:28280
 msgid "determining the likely outcome given a patient's current status"
@@ -78604,15 +78627,15 @@ msgstr "疾病与污水之间的联系"
 
 #: stringdump_steam_2022_12_06.txt:28282
 msgid "the method of physical examination in diagnosing illness"
-msgstr ""
+msgstr "诊断疾病的体检方法"
 
 #: stringdump_steam_2022_12_06.txt:28283
 msgid "surveying by triangulation for the purpose of creating maps"
-msgstr ""
+msgstr "三角测量法来绘制地图"
 
 #: stringdump_steam_2022_12_06.txt:28284
 msgid "surveying by triangulation for the purpose of allocating land"
-msgstr ""
+msgstr "为分配土地而通过三角测量法进行测量"
 
 #: stringdump_steam_2022_12_06.txt:28285
 msgid "the process involved in creating maps"
@@ -78620,7 +78643,7 @@ msgstr "创建地图所??涉及的过程"
 
 #: stringdump_steam_2022_12_06.txt:28286
 msgid "surveying by triangulation"
-msgstr ""
+msgstr "通过三角测量法进行测量"
 
 #: stringdump_steam_2022_12_06.txt:28287
 msgid "the process of surveying land"
@@ -78636,7 +78659,7 @@ msgstr "反击的建设和使用"
 
 #: stringdump_steam_2022_12_06.txt:28290
 msgid "the construction and use of laboratory ovens"
-msgstr ""
+msgstr "实验室熔炉的构造和使用"
 
 #: stringdump_steam_2022_12_06.txt:28291
 msgid "the process of economic data collection"
@@ -78644,7 +78667,7 @@ msgstr "经济数据收集的过程"
 
 #: stringdump_steam_2022_12_06.txt:28292
 msgid "the placement of economic information on maps"
-msgstr ""
+msgstr "经济信息在地图上的位置"
 
 #: stringdump_steam_2022_12_06.txt:28293
 msgid "the use of a distance scale in the creation of maps"
@@ -83076,7 +83099,7 @@ msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:29402
 msgid "chemistry:laboratory:blast furnace"
-msgstr ""
+msgstr "化学：实验室：高炉"
 
 #: stringdump_steam_2022_12_06.txt:29403
 msgid "chemistry:classification:scratch test"
