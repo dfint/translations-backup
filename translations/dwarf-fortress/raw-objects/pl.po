@@ -7,7 +7,7 @@
 # Hajub Hajduga <jakuberich@gmail.com>, 2020
 # Hayen Sowa <lkszmarkiewicz@gmail.com>, 2021
 # insolor, 2022
-# Jacek Nowak <bfspam@o2.pl>, 2017
+# d9a69f9bef07a74d9700361d465fb632_3198e60 <a42bbbd8293189bc70fb8e102a2ae3c9_580031>, 2017
 # Jakub Semeniuk <kubasemeniuk18@outlook.com>, 2016
 # Jakub Tomaszewski <tomaszewski202@gmail.com>, 2019
 # Jupiter Jupiterowicz <jab44703@bcaoo.com>, 2019
@@ -19,6 +19,7 @@
 # Michał Kwiatkowski, 2016
 # Michał Raś <michalras@gmail.com>, 2021
 # Nie Mam <spamklikacz123@o2.pl>, 2018
+# Paweł ., 2022
 # Paweł Widera <widipawel@gmail.com>, 2020
 # Polnocnica A, 2022
 # Przemysław Wagner <dwarobaki@gmail.com>, 2016
@@ -33,9 +34,9 @@
 # zuber meee <zuber9401@gmail.com>, 2021
 msgid ""
 msgstr ""
-"Project-Id-Version: Dwarf Fortress\n"
+"Project-Id-Version: Dwarf Fortress (0.47.05)\n"
 "PO-Revision-Date: 2015-02-03 06:42+0000\n"
-"Last-Translator: Kamil Duch, 2022\n"
+"Last-Translator: Paweł ., 2022\n"
 "Language-Team: Polish (http://www.transifex.com/dwarf-fortress-translation/dwarf-fortress/language/pl/)\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -29295,12 +29296,12 @@ msgstr ""
 #: creature_standard.txt:1708
 msgctxt "CREATURE:TROLL"
 msgid "[STATE_NAME:ALL_SOLID:ivory]"
-msgstr ""
+msgstr "[STATE_NAME:ALL_SOLID:kościo słoniowy]"
 
 #: creature_standard.txt:1709
 msgctxt "CREATURE:TROLL"
 msgid "[STATE_ADJ:ALL_SOLID:ivory]"
-msgstr ""
+msgstr "[STATE_ADJ:ALL_SOLID:kościo słoniowy]"
 
 #: creature_standard.txt:1711
 msgctxt "CREATURE:TROLL"
@@ -29315,32 +29316,32 @@ msgstr ""
 #: creature_standard.txt:1751
 msgctxt "CREATURE:TROLL"
 msgid "[APP_MOD_NOUN:eyes:PLURAL]"
-msgstr ""
+msgstr "[APP_MOD_NOUN:oczy:PLURAL]"
 
 #: creature_standard.txt:1761
 msgctxt "CREATURE:TROLL"
 msgid "[APP_MOD_NOUN:lips:PLURAL]"
-msgstr ""
+msgstr "[APP_MOD_NOUN:wargi:PLURAL]"
 
 #: creature_standard.txt:1770
 msgctxt "CREATURE:TROLL"
 msgid "[APP_MOD_NOUN:nose bridge:SINGULAR]"
-msgstr ""
+msgstr "[APP_MOD_NOUN:nasada nosowa:SINGULAR]"
 
 #: creature_standard.txt:1773
 msgctxt "CREATURE:TROLL"
 msgid "[APP_MOD_NOUN:ears:PLURAL]"
-msgstr ""
+msgstr "[APP_MOD_NOUN:uszy:PLURAL]"
 
 #: creature_standard.txt:1786
 msgctxt "CREATURE:TROLL"
 msgid "[APP_MOD_NOUN:teeth:PLURAL]"
-msgstr ""
+msgstr "[APP_MOD_NOUN:zęby:PLURAL]"
 
 #: creature_standard.txt:1809
 msgctxt "CREATURE:TROLL"
 msgid "[ATTACK_VERB:punch:punches]"
-msgstr ""
+msgstr "[ATTACK_VERB:uderzasz:uderza]"
 
 #: creature_standard.txt:1816
 msgctxt "CREATURE:TROLL"
@@ -29387,7 +29388,7 @@ msgctxt "CREATURE:OGRE"
 msgid ""
 "[DESCRIPTION:A giant humanoid monster found stomping about in the evil "
 "plains.  Their low howls can be heard long before they are seen.]"
-msgstr ""
+msgstr "[DESCRIPTION:Gigantyczny humanoidalny potwór znaleziony na złowrogich równinach. Ich niskie wycie można usłyszeć na długo przed tym, zanim zostaną zauważone.]"
 
 #: creature_standard.txt:1890
 msgctxt "CREATURE:OGRE"
@@ -29526,7 +29527,7 @@ msgctxt "CREATURE:DRAGON"
 msgid ""
 "[DESCRIPTION:A gigantic reptilian creature.  It is magical and can breathe "
 "fire.  These monsters can live for thousands of years.]"
-msgstr ""
+msgstr "[DESCRIPTION:Gigantyczny reptilianin. Magiczna kreatura która może ziać ogniem. Te potwory mogą żyć tysiące lat.]"
 
 #: creature_standard.txt:2179
 msgctxt "CREATURE:DRAGON"
@@ -34620,7 +34621,7 @@ msgstr ""
 #: creature_temperate_new.txt:2256
 msgctxt "CREATURE:GIANT_RATTLESNAKE"
 msgid "[PREFSTRING:warning rattle]"
-msgstr ""
+msgstr "[PREFSTRING:grzechotanie ostrzegawcze]"
 
 #: creature_temperate_new.txt:2266
 msgctxt "CREATURE:WEASEL"
@@ -34647,12 +34648,12 @@ msgstr ""
 #: creature_temperate_new.txt:2281
 msgctxt "CREATURE:WEASEL"
 msgid "[PREFSTRING:long bodies]"
-msgstr ""
+msgstr "[PREFSTRING:długie ciała]"
 
 #: creature_temperate_new.txt:2282
 msgctxt "CREATURE:WEASEL"
 msgid "[PREFSTRING:short legs]"
-msgstr ""
+msgstr "[PREFSTRING:krótkie nogi]"
 
 #: creature_temperate_new.txt:2320
 msgctxt "CREATURE:WEASEL"
@@ -34722,12 +34723,12 @@ msgstr ""
 #: creature_temperate_new.txt:2408
 msgctxt "CREATURE:GIANT_WEASEL"
 msgid "[PREFSTRING:long bodies]"
-msgstr ""
+msgstr "[PREFSTRING:długie ciała]"
 
 #: creature_temperate_new.txt:2409
 msgctxt "CREATURE:GIANT_WEASEL"
 msgid "[PREFSTRING:short legs]"
-msgstr ""
+msgstr "[PREFSTRING:krótkie nogi]"
 
 #: creature_temperate_new.txt:2419
 msgctxt "CREATURE:COPPERHEAD_SNAKE"

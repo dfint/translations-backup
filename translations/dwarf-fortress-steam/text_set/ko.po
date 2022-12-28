@@ -2,10 +2,11 @@
 # Translators:
 # insolor, 2022
 # ENHL <syg1031@naver.com>, 2022
+# Ah Lon Sin, 2022
 # 
 msgid ""
 msgstr ""
-"Last-Translator: ENHL <syg1031@naver.com>, 2022\n"
+"Last-Translator: Ah Lon Sin, 2022\n"
 "Language-Team: Korean (https://www.transifex.com/dwarf-fortress-translation/teams/22396/ko/)\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -65,7 +66,7 @@ msgstr "진정한 엘프들이 싸우러 내려왔을 때 얌전히 나무 안�
 
 #: text_lair_hunter_minotaur.txt:2
 msgid "I want your bones for my bone mill!"
-msgstr ""
+msgstr "네놈의 뼈를 가루로 만들어주지!"
 
 #: text_lair_hunter_minotaur.txt:3
 msgid "I'll grind you into porridge!"
@@ -97,6 +98,9 @@ msgid ""
 "[CONTEXT:ABSTRACT_BUILDING:TRANS_NAME] [CONTEXT:JUSTIFICATION] "
 "[CONTEXT:DEF_SPHERE] for the glory of [CONTEXT:HIST_FIG:TRANS_NAME]."
 msgstr ""
+"들리는 바로는, [CONTEXT:ABSTRACT_BUILDING:TRANS_NAME]의 [CONTEXT:ARCH_ELEMENT](이)가 "
+"[CONTEXT:HIST_FIG:TRANS_NAME]의 영광을 위해 [CONTEXT:DEF_SPHERE] "
+"[CONTEXT:JUSTIFICATION]."
 
 #: text_book_art.txt2, text_book_instruction.txt:2
 msgid "[NAME]"
@@ -160,11 +164,11 @@ msgstr "우리는 [NAME]을(를) 본다."
 
 #: text_book_art.txt:17
 msgid "[NAME] Ever Onward"
-msgstr ""
+msgstr "[NAME]의 행진"
 
 #: text_book_art.txt:18
 msgid "[NAME] and Nothing More"
-msgstr ""
+msgstr "오로지 [NAME]"
 
 #: text_book_art.txt:19
 msgid "And [ANY_PRONOUN] Sang '[NAME]!'"
@@ -172,11 +176,11 @@ msgstr "그리고 [ANY_PRONOUN](이)가 '[NAME]!'(이)라고 외쳤다"
 
 #: text_book_instruction.txt:3
 msgid "A Course on [NAME]"
-msgstr ""
+msgstr "[NAME] 교습"
 
 #: text_book_instruction.txt:4
 msgid "A Humble Offering to [NAME]"
-msgstr ""
+msgstr "[NAME](을)를 위한 작은 헌정"
 
 #: text_book_instruction.txt:5
 msgid "A Meditation on [NAME]"
@@ -208,19 +212,19 @@ msgstr "[NAME]에 맞서"
 
 #: text_book_instruction.txt:12
 msgid "An Exploration of [NAME]"
-msgstr ""
+msgstr "[NAME](으)로의 모험"
 
 #: text_book_instruction.txt:13
 msgid "An Introduction to [NAME]"
-msgstr "[NAME]한테의 소개"
+msgstr "[NAME](으)로의 소개"
 
 #: text_book_instruction.txt:14
 msgid "An Offering to [NAME]"
-msgstr ""
+msgstr "[NAME]에 대한 헌정"
 
 #: text_book_instruction.txt:15
 msgid "At One With [NAME]"
-msgstr ""
+msgstr "[NAME](와)과 하나되기"
 
 #: text_book_instruction.txt:16
 msgid "Before [NAME]"
@@ -228,7 +232,7 @@ msgstr "[NAME] 전에"
 
 #: text_book_instruction.txt:17
 msgid "Better [NO_ART_NAME]"
-msgstr ""
+msgstr "더 나은 [NO_ART_NAME]"
 
 #: text_book_instruction.txt:18
 msgid "Beyond [NAME]"
@@ -240,11 +244,11 @@ msgstr "[NAME]의 책"
 
 #: text_book_instruction.txt:20
 msgid "Captivated by [NAME]"
-msgstr "[NAME]에게 사로잡힌"
+msgstr "[NAME]에 사로잡히다"
 
 #: text_book_instruction.txt:21
 msgid "Choose [NAME]"
-msgstr ""
+msgstr "[NAME] 선택"
 
 #: text_book_instruction.txt:22
 msgid "Classic [NO_ART_NAME]"
@@ -260,15 +264,15 @@ msgstr "[NO_ART_NAME]에 대한 상식"
 
 #: text_book_instruction.txt:25
 msgid "Concerning [NAME]"
-msgstr ""
+msgstr "[NAME]에 관하여"
 
 #: text_book_instruction.txt:26
 msgid "Discourse on [NAME]"
-msgstr ""
+msgstr "[NAME] 논설"
 
 #: text_book_instruction.txt:27
 msgid "Discovering [NAME]"
-msgstr ""
+msgstr "[NAME] 발견하기"
 
 #: text_book_instruction.txt:28
 msgid "Doubts About [NAME]"
@@ -280,7 +284,7 @@ msgstr "[NAME]에 관한 꿈"
 
 #: text_book_instruction.txt:30
 msgid "Elements of [NAME]"
-msgstr ""
+msgstr "[NAME]의 요소들"
 
 #: text_book_instruction.txt:31
 msgid "Errors In [NAME]"
@@ -288,7 +292,7 @@ msgstr "[NAME]의 오류"
 
 #: text_book_instruction.txt:32
 msgid "Exploring [NAME]"
-msgstr ""
+msgstr "[NAME]의 모험"
 
 #: text_book_instruction.txt:33
 msgid "Explorations of [NAME]"
@@ -296,7 +300,7 @@ msgstr "[NAME]에 대한 설명"
 
 #: text_book_instruction.txt:34
 msgid "Factual [NO_ART_NAME]"
-msgstr ""
+msgstr "사실적 [NO_ART_NAME]"
 
 #: text_book_instruction.txt:35
 msgid "For the Love of [NAME]"
@@ -316,475 +320,475 @@ msgstr "굉장한 [NO_ART_NAME]"
 
 #: text_book_instruction.txt:39
 msgid "In Pursuit of [NAME]"
-msgstr ""
+msgstr "[NAME](을)를 쫒아서"
 
 #: text_book_instruction.txt:40
 msgid "Inquiries on [NAME]"
-msgstr ""
+msgstr "[NAME]에 대한 질문"
 
 #: text_book_instruction.txt:41
 msgid "Interpretations of [NAME]"
-msgstr ""
+msgstr "[NAME]의 해석"
 
 #: text_book_instruction.txt:42
 msgid "Introduction to [NAME]"
-msgstr ""
+msgstr "[NAME] 소개서"
 
 #: text_book_instruction.txt:43
 msgid "It All Begins With [NAME]"
-msgstr ""
+msgstr "이것부터 시작하자:[NAME]"
 
 #: text_book_instruction.txt:44
 msgid "It Is [NAME]"
-msgstr "이것은 [NAME]"
+msgstr "이것이 [NAME](이)다"
 
 #: text_book_instruction.txt:45
 msgid "Journey to [NAME]"
-msgstr ""
+msgstr "[NAME] 모험서"
 
 #: text_book_instruction.txt:46
 msgid "Life With [NAME]"
-msgstr ""
+msgstr "[NAME](와)과 함께하는 삶"
 
 #: text_book_instruction.txt:47
 msgid "Master of [NAME]"
-msgstr ""
+msgstr "[NAME] 완전정복"
 
 #: text_book_instruction.txt:48
 msgid "Mastering [NAME]"
-msgstr ""
+msgstr "[NAME] 완벽이해"
 
 #: text_book_instruction.txt:49
 msgid "Meditations on [NAME]"
-msgstr ""
+msgstr "[NAME]에 대한 명상"
 
 #: text_book_instruction.txt:50
 msgid "Misconceptions About [NAME]"
-msgstr ""
+msgstr "[NAME]에 대한 잘못된 상식"
 
 #: text_book_instruction.txt:51
 msgid "More [NO_ART_NAME]"
-msgstr ""
+msgstr "심화 [NO_ART_NAME]"
 
 #: text_book_instruction.txt:52
 msgid "Musings on [NAME]"
-msgstr ""
+msgstr "[NAME]에 대한 숙고"
 
 #: text_book_instruction.txt:53
 msgid "My Thoughts on [NAME]"
-msgstr ""
+msgstr "[NAME]에 대한 개인적 견해"
 
 #: text_book_instruction.txt:54
 msgid "Mysteries of [NAME]"
-msgstr ""
+msgstr "[NAME]의 비밀"
 
 #: text_book_instruction.txt:55
 msgid "Never Underestimate [NAME]"
-msgstr ""
+msgstr "[NAME]의 위대함"
 
 #: text_book_instruction.txt:56
 msgid "New [NO_ART_NAME]"
-msgstr ""
+msgstr "새 [NO_ART_NAME]"
 
 #: text_book_instruction.txt:57
 msgid "Of [NAME]"
-msgstr ""
+msgstr "[NAME]란"
 
 #: text_book_instruction.txt:58
 msgid "On [NAME]"
-msgstr ""
+msgstr "[NAME]에 관하여"
 
 #: text_book_instruction.txt:59
 msgid "Pathways to [NAME]"
-msgstr ""
+msgstr "[NAME] 길라잡이"
 
 #: text_book_instruction.txt:60
 msgid "Principles of [NAME]"
-msgstr ""
+msgstr "[NAME]의 원칙"
 
 #: text_book_instruction.txt:61
 msgid "Question [NAME]"
-msgstr ""
+msgstr "궁금한 [NAME]"
 
 #: text_book_instruction.txt:62
 msgid "Questions About [NAME]"
-msgstr ""
+msgstr "[NAME]에 대한 질문들"
 
 #: text_book_instruction.txt:63
 msgid "Records of [NAME]"
-msgstr ""
+msgstr "[NAME]의 기록"
 
 #: text_book_instruction.txt:64
 msgid "Reflections on [NAME]"
-msgstr ""
+msgstr "[NAME] 감상"
 
 #: text_book_instruction.txt:65
 msgid "Secret [NO_ART_NAME]"
-msgstr ""
+msgstr "비밀스런 [NO_ART_NAME]"
 
 #: text_book_instruction.txt:66
 msgid "Start Your Day With [NAME]"
-msgstr ""
+msgstr "하루를 시작할 땐 [NAME](와)과 함께"
 
 #: text_book_instruction.txt:67
 msgid "Strange [NO_ART_NAME]"
-msgstr ""
+msgstr "요상한 [NO_ART_NAME]"
 
 #: text_book_instruction.txt:68
 msgid "The Art of [NAME]"
-msgstr ""
+msgstr "[NAME]의 예술"
 
 #: text_book_instruction.txt:69
 msgid "The Book of [NAME]"
-msgstr ""
+msgstr "[NAME] 법전"
 
 #: text_book_instruction.txt:70
 msgid "The Future of [NAME]"
-msgstr ""
+msgstr "[NAME]의 미래"
 
 #: text_book_instruction.txt:71
 msgid "The Great [NO_ART_NAME]"
-msgstr ""
+msgstr "위대한 [NO_ART_NAME]"
 
 #: text_book_instruction.txt:72
 msgid "The Hidden Meaning of [NAME]"
-msgstr ""
+msgstr "[NAME]의 숨겨진 뜻"
 
 #: text_book_instruction.txt:73
 msgid "The History of [NAME]"
-msgstr ""
+msgstr "[NAME]의 역사"
 
 #: text_book_instruction.txt:74
 msgid "The Interpretation of [NAME]"
-msgstr ""
+msgstr "[NAME] 해석"
 
 #: text_book_instruction.txt:75
 msgid "The Journey into [NAME]"
-msgstr ""
+msgstr "[NAME](으)로의 여행"
 
 #: text_book_instruction.txt:76
 msgid "The Knowledge of [NAME]"
-msgstr ""
+msgstr "[NAME]의 지식"
 
 #: text_book_instruction.txt:77
 msgid "The Meaning of [NAME]"
-msgstr ""
+msgstr "[NAME]이란 말의 뜻"
 
 #: text_book_instruction.txt:78
 msgid "The Mysteries of [NAME]"
-msgstr ""
+msgstr "[NAME]의 수수께끼들"
 
 #: text_book_instruction.txt:79
 msgid "The Mystery of [NAME]"
-msgstr ""
+msgstr "[NAME]의 의문점"
 
 #: text_book_instruction.txt:80
 msgid "The Nuanced [NO_ART_NAME]"
-msgstr ""
+msgstr "미묘한 [NO_ART_NAME]"
 
 #: text_book_instruction.txt:81
 msgid "The Possibilities of [NAME]"
-msgstr ""
+msgstr "[NAME]의 가능성"
 
 #: text_book_instruction.txt:82
 msgid "The Pursuit of [NAME]"
-msgstr ""
+msgstr "[NAME]의 발자취"
 
 #: text_book_instruction.txt:83
 msgid "The Secret of [NAME]"
-msgstr ""
+msgstr "[NAME](와)과 비밀"
 
 #: text_book_instruction.txt:84
 msgid "The Student's [NO_ART_NAME]"
-msgstr ""
+msgstr "학생의 [NO_ART_NAME]"
 
 #: text_book_instruction.txt:85
 msgid "The Study of [NAME]"
-msgstr ""
+msgstr "[NAME]의 관한 연구"
 
 #: text_book_instruction.txt:86
 msgid "The True [NO_ART_NAME]"
-msgstr ""
+msgstr "진정한 [NO_ART_NAME]"
 
 #: text_book_instruction.txt:87
 msgid "The Truth About [NAME]"
-msgstr ""
+msgstr "[NAME]의 진리"
 
 #: text_book_instruction.txt:88
 msgid "The Unabridged [NO_ART_NAME]"
-msgstr ""
+msgstr "[NO_ART_NAME] 완전판"
 
 #: text_book_instruction.txt:89
 msgid "The Way With [NAME]"
-msgstr ""
+msgstr "[NAME]의 길"
 
 #: text_book_instruction.txt:90
 msgid "The Wizard's Guide to [NAME]"
-msgstr ""
+msgstr "[NAME] 마법사"
 
 #: text_book_instruction.txt:91
 msgid "The World of [NAME]"
-msgstr ""
+msgstr "[NAME]의 세상"
 
 #: text_book_instruction.txt:92
 msgid "The World Without [NAME]"
-msgstr ""
+msgstr "[NAME] 없는 세상"
 
 #: text_book_instruction.txt:93
 msgid "Thoughts on [NAME]"
-msgstr ""
+msgstr "[NAME]에 대한 견해"
 
 #: text_book_instruction.txt:94
 msgid "Time Spent With [NAME]"
-msgstr ""
+msgstr "[NAME](와)과 보낸 시간들"
 
 #: text_book_instruction.txt:95
 msgid "Traditional [NO_ART_NAME]"
-msgstr ""
+msgstr "전통 [NO_ART_NAME]"
 
 #: text_book_instruction.txt:96
 msgid "Treatise on [NAME]"
-msgstr ""
+msgstr "[NAME] 논문"
 
 #: text_book_instruction.txt:97
 msgid "True [NO_ART_NAME]"
-msgstr ""
+msgstr "진짜배기 [NO_ART_NAME]"
 
 #: text_book_instruction.txt:98
 msgid "Uncanny [NO_ART_NAME]"
-msgstr ""
+msgstr "불쾌한 [NO_ART_NAME]"
 
 #: text_book_instruction.txt:99
 msgid "Uncovering [NAME]"
-msgstr ""
+msgstr "드러나는 [NAME]"
 
 #: text_book_instruction.txt:100
 msgid "Understanding [NAME]"
-msgstr ""
+msgstr "[NAME] 이해하기"
 
 #: text_book_instruction.txt:101
 msgid "Unknown [NO_ART_NAME]"
-msgstr ""
+msgstr "미지의 [NO_ART_NAME]"
 
 #: text_book_instruction.txt:102
 msgid "Unusual [NO_ART_NAME]"
-msgstr ""
+msgstr "비범한 [NO_ART_NAME]"
 
 #: text_book_instruction.txt:103
 msgid "Useful [NO_ART_NAME]"
-msgstr ""
+msgstr "유용한 [NO_ART_NAME]"
 
 #: text_book_instruction.txt:104
 msgid "Victory By [NAME]"
-msgstr ""
+msgstr "[NAME](으)로 승리하자!"
 
 #: text_book_instruction.txt:105
 msgid "[NAME] After The End"
-msgstr ""
+msgstr "종말 후 [NAME]"
 
 #: text_book_instruction.txt:106
 msgid "[NAME] and Beyond"
-msgstr ""
+msgstr "[NAME] 그 너머"
 
 #: text_book_instruction.txt:107
 msgid "[NAME] and More"
-msgstr ""
+msgstr "[NAME] 외 등등"
 
 #: text_book_instruction.txt:108
 msgid "[NAME] and Other Topics"
-msgstr ""
+msgstr "[NAME](와)과 다른 주제들"
 
 #: text_book_instruction.txt:109
 msgid "[NAME] and Other Travesties"
-msgstr ""
+msgstr "[NAME](와)과 다른 논문들"
 
 #: text_book_instruction.txt:110
 msgid "[NAME] and The Coming Troubles"
-msgstr ""
+msgstr "다가올 문제와 [NAME]"
 
 #: text_book_instruction.txt:111
 msgid "[NAME] and The Universe"
-msgstr ""
+msgstr "우주와 [NAME]"
 
 #: text_book_instruction.txt:112
 msgid "[NAME] Came Full Circle"
-msgstr ""
+msgstr "[NAME]의 완전순환"
 
 #: text_book_instruction.txt:113
 msgid "[NAME] Explained"
-msgstr ""
+msgstr "[NAME] 알아보기"
 
 #: text_book_instruction.txt:114
 msgid "[NAME] Exposed"
-msgstr ""
+msgstr "[NAME] 완전분해"
 
 #: text_book_instruction.txt:115
 msgid "[NAME] For Everyone"
-msgstr ""
+msgstr "모두를 위한 [NAME]"
 
 #: text_book_instruction.txt:116
 msgid "[NAME] For Students"
-msgstr ""
+msgstr "[NAME] 교과서"
 
 #: text_book_instruction.txt:117
 msgid "[NAME] For The Beginning Practitioner"
-msgstr ""
+msgstr "초보자를 위한 [NAME]"
 
 #: text_book_instruction.txt:118
 msgid "[NAME] In Practice"
-msgstr ""
+msgstr "[NAME] 실전응용"
 
 #: text_book_instruction.txt:119
 msgid "[NAME] In The Modern Era"
-msgstr ""
+msgstr "최신 [NAME]"
 
 #: text_book_instruction.txt:120
 msgid "[NAME] In The Time of My Ancestors"
-msgstr ""
+msgstr "선조들의 [NAME]"
 
 #: text_book_instruction.txt:121
 msgid "[NAME] In Theory"
-msgstr ""
+msgstr "이론적 [NAME]"
 
 #: text_book_instruction.txt:122
 msgid "[NAME] In [ANY_AGE]"
-msgstr ""
+msgstr "[ANY_AGE]의 [NAME]"
 
 #: text_book_instruction.txt:123
 msgid "[NAME] Interpreted"
-msgstr ""
+msgstr "[NAME] 지침서"
 
 #: text_book_instruction.txt:124
 msgid "[NAME] Might Help"
-msgstr ""
+msgstr "[NAME]의 도움"
 
 #: text_book_instruction.txt:125
 msgid "[NAME] Questioned"
-msgstr ""
+msgstr "궁금하다, [NAME]"
 
 #: text_book_instruction.txt:126
 msgid "[NAME] The Easy Way"
-msgstr ""
+msgstr "손쉬운 [NAME]"
 
 #: text_book_instruction.txt:127
 msgid "[NAME] Uncovered"
-msgstr ""
+msgstr "[NAME] 완전 파훼"
 
 #: text_book_instruction.txt:128
 msgid "[NAME] Understood"
-msgstr ""
+msgstr "[NAME] 이해하기"
 
 #: text_book_instruction.txt:129
 msgid "[NAME] When It Counts"
-msgstr ""
+msgstr "실제 [NAME]"
 
 #: text_book_instruction.txt:130
 msgid "[NAME] Within Reason"
-msgstr ""
+msgstr "합리적인 [NAME]"
 
 #: text_book_instruction.txt:131
 msgid "[NAME] Without Limits"
-msgstr ""
+msgstr "한계 없는 [NAME]"
 
 #: text_book_instruction.txt:132
 msgid "[NAME], Abridged"
-msgstr ""
+msgstr "[NAME], 완전판"
 
 #: text_book_instruction.txt:133
 msgid "[NAME], My Life"
-msgstr ""
+msgstr "내 인생: [NAME]"
 
 #: text_book_instruction.txt:134
 msgid "[NAME], My Love"
-msgstr ""
+msgstr "[NAME], 내 사랑"
 
 #: text_book_instruction.txt:135
 msgid "[NAME]: A Brief History"
-msgstr ""
+msgstr "[NAME]:간단한 역사"
 
 #: text_book_instruction.txt:136
 msgid "[NAME]: A Brief Introduction"
-msgstr ""
+msgstr "[NAME]:간단 개요"
 
 #: text_book_instruction.txt:137
 msgid "[NAME]: A New Approach"
-msgstr ""
+msgstr "[NAME]:새로운 접근"
 
 #: text_book_instruction.txt:138
 msgid "[NAME]: A Quandary"
-msgstr ""
+msgstr "[NAME]:문제점"
 
 #: text_book_instruction.txt:139
 msgid "[NAME]: Before and After"
-msgstr ""
+msgstr "[NAME]: 전과 후"
 
 #: text_book_instruction.txt:140
 msgid "[NAME]: Common Practice"
-msgstr ""
+msgstr "[NAME]:실전편"
 
 #: text_book_instruction.txt:141
 msgid "[NAME]: Fact or Fiction?"
-msgstr ""
+msgstr "[NAME]:진실인가 전설인가"
 
 #: text_book_instruction.txt:142
 msgid "[NAME]: Further Musings"
-msgstr ""
+msgstr "[NAME]:심화과정"
 
 #: text_book_instruction.txt:143
 msgid "[NAME]: My Only Mistake"
-msgstr ""
+msgstr "[NAME]:나의 유일한 실수"
 
 #: text_book_instruction.txt:144
 msgid "[NAME]: Natural or Supernatural?"
-msgstr ""
+msgstr "[NAME]: 자연적인가 초자연적인가?"
 
 #: text_book_instruction.txt:145
 msgid "[NAME]: Principles and Practice"
-msgstr ""
+msgstr "[NAME]: 원칙과 실전"
 
 #: text_book_instruction.txt:146
 msgid "[NAME]: Problems And Solutions"
-msgstr ""
+msgstr "[NAME]:문제와 해결방안"
 
 #: text_book_instruction.txt:147
 msgid "[NAME]: The Definitive Guide"
-msgstr ""
+msgstr "[NAME]:완전 길라잡이"
 
 #: text_book_instruction.txt:148
 msgid "[NAME]: The Truth"
-msgstr ""
+msgstr "[NAME]:진실"
 
 #: text_book_instruction.txt:149
 msgid "Can [NAME] Save The World?"
-msgstr ""
+msgstr "[NAME](이)가 세상을 구할 수 있을까?"
 
 #: text_book_instruction.txt:150
 msgid "Could It Be [NAME]?"
-msgstr ""
+msgstr "[NAME]인가요?"
 
 #: text_book_instruction.txt:151
 msgid "Did [NAME] Falter?"
-msgstr ""
+msgstr "[NAME](은)는 실패했나?"
 
 #: text_book_instruction.txt:152
 msgid "Do We Understand [NAME]?"
-msgstr ""
+msgstr "우리는 [NAME](을)를 이해하고 있나?"
 
 #: text_book_instruction.txt:153
 msgid "Do You Know [NAME]?"
-msgstr ""
+msgstr "[NAME](을)를 아시나요?"
 
 #: text_book_instruction.txt:154
 msgid "First [NAME], Then The World!"
-msgstr ""
+msgstr "시작, [NAME], 그리고 세상!"
 
 #: text_book_instruction.txt:155
 msgid "The [NO_ART_NAME] Book"
-msgstr ""
+msgstr "[NO_ART_NAME] 서적"
 
 #: text_book_instruction.txt:156
 msgid "To [NAME] and Glory!"
-msgstr ""
+msgstr "[NAME](와)과 영광을 위해"
 
 #: text_child_age_proclamation.txt:2
 msgid "I'm [CONTEXT:NUMBER]!"
@@ -877,7 +881,7 @@ msgstr "긴 여행을 할 때,"
 
 #: text_goodbye_worship_1.txt:4
 msgid "before retiring in the evening,"
-msgstr ""
+msgstr "잠에 들기 전에"
 
 #: text_goodbye_worship_1.txt:5
 msgid "as sure as I am here now,"
@@ -901,7 +905,7 @@ msgstr "다시 말하자면"
 
 #: text_goodbye_worship_1.txt:10
 msgid "yes,"
-msgstr ""
+msgstr "그래,"
 
 #: text_goodbye_worship_1.txt:11
 msgid "before every meal,"
@@ -933,31 +937,31 @@ msgstr "을(를) 항상 기억하라"
 
 #: text_goodbye_worship_2.txt:4
 msgid "it would be wise to"
-msgstr ""
+msgstr "하는게 좋은 선택이다."
 
 #: text_goodbye_worship_2.txt:5
 msgid "you should"
-msgstr "너는 반드시"
+msgstr "(을)를 반드시 해라"
 
 #: text_goodbye_worship_2.txt:6
 msgid "you must"
-msgstr "너는 무조건"
+msgstr "(을)를 무조건 해라"
 
 #: text_goodbye_worship_2.txt:7
 msgid "prudence demands that you"
-msgstr ""
+msgstr "하기를 게을리 하지 마라."
 
 #: text_goodbye_worship_2.txt:8
 msgid "even for a moment"
-msgstr "잠시라도"
+msgstr "(을)를 잠시라도 해라"
 
 #: text_goodbye_worship_2.txt:9
 msgid "follow my advice and"
-msgstr "내 조언을 따르고"
+msgstr "라는 내 조언을 따라라."
 
 #: text_goodbye_worship_2.txt:10
 msgid "heed my words and"
-msgstr "내 일을 주도하고"
+msgstr "라는 내 말을 귀담아 들어라."
 
 #: text_goodbye_worship_2.txt:11
 msgid "remember to"
@@ -965,11 +969,11 @@ msgstr "을(를) 기억하라"
 
 #: text_goodbye_worship_2.txt:12
 msgid "show devotion and"
-msgstr "헌신을 보여주고"
+msgstr "(을)를 게을리 하지 마라."
 
 #: text_goodbye_worship_3.txt:2
 msgid "speak the praises of [SPEAKER:HF_LINK:DEITY:TRANS_NAME]"
-msgstr "[SPEAKER:HF_LINK:DEITY:TRANS_NAME]에게 찬사를 보내다"
+msgstr "[SPEAKER:HF_LINK:DEITY:RANDOM_DEF_SPHERE]에게 찬사를 보내는 것"
 
 #: text_goodbye_worship_3.txt:3
 msgid "speak the praises of [SPEAKER:HF_LINK:DEITY:RANDOM_DEF_SPHERE]"
@@ -977,43 +981,43 @@ msgstr "[SPEAKER:HF_LINK:DEITY:RANDOM_DEF_SPHERE]에게 찬사를 보내다"
 
 #: text_goodbye_worship_3.txt:4
 msgid "go with [SPEAKER:HF_LINK:DEITY:TRANS_NAME]"
-msgstr ""
+msgstr "[SPEAKER:HF_LINK:DEITY:TRANS_NAME](와)과 함께 하는 것"
 
 #: text_goodbye_worship_3.txt:5
 msgid "go with [SPEAKER:HF_LINK:DEITY:RANDOM_DEF_SPHERE]"
-msgstr ""
+msgstr "[SPEAKER:HF_LINK:DEITY:RANDOM_DEF_SPHERE](와)과 함께 하는것"
 
 #: text_goodbye_worship_3.txt:6
 msgid "put your faith in [SPEAKER:HF_LINK:DEITY:TRANS_NAME]"
-msgstr ""
+msgstr " [SPEAKER:HF_LINK:DEITY:TRANS_NAME](을)를 믿기"
 
 #: text_goodbye_worship_3.txt:7
 msgid "put your faith in [SPEAKER:HF_LINK:DEITY:RANDOM_DEF_SPHERE]"
-msgstr ""
+msgstr " [SPEAKER:HF_LINK:DEITY:RANDOM_DEF_SPHERE](을)를 믿기"
 
 #: text_goodbye_worship_3.txt:8
 msgid "experience [SPEAKER:HF_LINK:DEITY:TRANS_NAME]"
-msgstr ""
+msgstr "[SPEAKER:HF_LINK:DEITY:TRANS_NAME](을)를 경험하기"
 
 #: text_goodbye_worship_3.txt:9
 msgid "experience [SPEAKER:HF_LINK:DEITY:RANDOM_DEF_SPHERE]"
-msgstr ""
+msgstr "[SPEAKER:HF_LINK:DEITY:RANDOM_DEF_SPHERE](을)를 경험하기"
 
 #: text_goodbye_worship_3.txt:10
 msgid "consider [SPEAKER:HF_LINK:DEITY:TRANS_NAME]"
-msgstr ""
+msgstr " [SPEAKER:HF_LINK:DEITY:TRANS_NAME]에 대한 생각"
 
 #: text_goodbye_worship_3.txt:11
 msgid "consider [SPEAKER:HF_LINK:DEITY:RANDOM_DEF_SPHERE]"
-msgstr ""
+msgstr "[SPEAKER:HF_LINK:DEITY:RANDOM_DEF_SPHERE]에 대해 생각"
 
 #: text_goodbye_worship_3.txt:12
 msgid "give yourself to [SPEAKER:HF_LINK:DEITY:TRANS_NAME]"
-msgstr ""
+msgstr "[SPEAKER:HF_LINK:DEITY:TRANS_NAME]께 순종하기"
 
 #: text_goodbye_worship_3.txt:13
 msgid "give yourself to [SPEAKER:HF_LINK:DEITY:RANDOM_DEF_SPHERE]"
-msgstr ""
+msgstr "[SPEAKER:HF_LINK:DEITY:RANDOM_DEF_SPHERE]께 순종하기"
 
 #: text_greet.txt:2
 msgid "Greetings.  My name is [SPEAKER:TRANS_NAME]."
@@ -1025,7 +1029,7 @@ msgstr "안녀어어엉!"
 
 #: text_greet_baby.txt:3
 msgid "Look at you!"
-msgstr ""
+msgstr "멋지구나!"
 
 #: text_greet_baby.txt:4
 msgid "A baby!  How adorable!"
@@ -1037,11 +1041,11 @@ msgstr "어, 안녕, 나는 [SPEAKER:TRANS_NAME](이)야."
 
 #: text_greet_reply_after_hero.txt:2
 msgid "I am [SPEAKER:TRANS_NAME].  Can I be of some help?"
-msgstr ""
+msgstr "나는 [SPEAKER:TRANS_NAME]. 도와줄 일이 있나?"
 
 #: text_greet_reply_after_hero.txt:3
 msgid "I am [SPEAKER:TRANS_NAME].  How can I be of service?"
-msgstr ""
+msgstr "내 이름은 [SPEAKER:TRANS_NAME]. 내가 어떻게 도울 수 있겠나?"
 
 #: text_greet_reply_diff_language.txt:2
 msgid "Hello, [AUDIENCE:RACE].  I am [SPEAKER:TRANS_NAME]."
@@ -1049,48 +1053,48 @@ msgstr "안녕, [AUDIENCE:RACE]. 나는 [SPEAKER:TRANS_NAME] 이야."
 
 #: text_greet_reply_unusual_first.txt:2
 msgid "[AUDIENCE:FIRST_NAME]...  your parents must have been interesting!"
-msgstr ""
+msgstr "[AUDIENCE:FIRST_NAME]... 부모님들이 참 흥미로운 분들이셨겠군!"
 
 #: text_greet_reply_unusual_first.txt:3
 msgid ""
 "You know, you don't meet many people with the name [AUDIENCE:FIRST_NAME]."
-msgstr ""
+msgstr "[AUDIENCE:FIRST_NAME](이)라는 이름은 흔치 않지."
 
 #: text_greet_reply_unusual_first.txt:4
 msgid "So, [AUDIENCE:FIRST_NAME]...   [AUDIENCE:FIRST_NAME], was it?"
-msgstr ""
+msgstr "[AUDIENCE:FIRST_NAME](이)라... [AUDIENCE:FIRST_NAME], 맞지?"
 
 #: text_greet_reply_unusual_first.txt:5
 msgid "[AUDIENCE:FIRST_NAME].  Does that mean something?"
-msgstr ""
+msgstr "[AUDIENCE:FIRST_NAME]. 무슨 뜻이 있는건가?"
 
 #: text_greet_reply_unusual_first.txt:6
 msgid "[AUDIENCE:FIRST_NAME].  I can't say I've heard that before."
-msgstr ""
+msgstr "[AUDIENCE:FIRST_NAME]. 들어본 적은 없는거같다."
 
 #: text_greet_worship.txt:2
 msgid "Praise be to [SPEAKER:HF_LINK:DEITY:TRANS_NAME]."
-msgstr ""
+msgstr "[SPEAKER:HF_LINK:DEITY:TRANS_NAME]께 영광을."
 
 #: text_greet_worship.txt:3
 msgid "Praise [SPEAKER:HF_LINK:DEITY:RANDOM_DEF_SPHERE]."
-msgstr ""
+msgstr "[SPEAKER:HF_LINK:DEITY:RANDOM_DEF_SPHERE](을)를 찬양하라."
 
 #: text_greet_worship.txt:4
 msgid "Life is, in a word, [SPEAKER:HF_LINK:DEITY:RANDOM_DEF_SPHERE]."
-msgstr ""
+msgstr "인생이란, 한마디로 [SPEAKER:HF_LINK:DEITY:RANDOM_DEF_SPHERE]일세."
 
 #: text_greet_worship.txt:5
 msgid "This servant of [SPEAKER:HF_LINK:DEITY:TRANS_NAME] greets you."
-msgstr ""
+msgstr "[SPEAKER:HF_LINK:DEITY:TRANS_NAME]의 종이 그대에게 인사드립니다."
 
 #: text_greet_worship.txt:6
 msgid "This servant of [SPEAKER:HF_LINK:DEITY:RANDOM_DEF_SPHERE] greets you."
-msgstr ""
+msgstr "[SPEAKER:HF_LINK:DEITY:RANDOM_DEF_SPHERE]의 종이 그대에게 인사를 드립니다."
 
 #: text_guard_profession.txt:2
 msgid "I am a guard."
-msgstr "저는 경비원입니다."
+msgstr "나는 경비다."
 
 #: text_guard_warning.txt:2
 msgid "Don't start any trouble."
@@ -1101,16 +1105,17 @@ msgid ""
 "It is I that felled [CONTEXT:HIST_FIG:TRANS_NAME] the "
 "[CONTEXT:HIST_FIG:RACE]."
 msgstr ""
+"내가 바로 [CONTEXT:HIST_FIG:RACE] [CONTEXT:HIST_FIG:TRANS_NAME](을)를 쓰려트렸다."
 
 #: text_hunting_profession.txt:2
 msgid "I hunt great beasts in [CONTEXT:PLACE:TRANS_NAME]."
-msgstr ""
+msgstr "나는 [CONTEXT:PLACE:TRANS_NAME]의 위대한 야수를 사냥했다."
 
 #: text_hunting_profession_year.txt:2
 msgid ""
 "I have hunted great beasts in [CONTEXT:PLACE:TRANS_NAME] for "
 "[CONTEXT:NUMBER] of my years."
-msgstr ""
+msgstr "나는 [CONTEXT:NUMBER]년 동안 [CONTEXT:PLACE:TRANS_NAME]의 위대한 야수들을 사냥했다."
 
 #: text_justification_antithetical.txt:2
 msgid "can be thought of as the antithesis of"
@@ -1252,87 +1257,87 @@ msgstr ""
 
 #: text_secret_death.txt:2
 msgid "Annihilation"
-msgstr ""
+msgstr "멸망"
 
 #: text_secret_death.txt:3
 msgid "Bereavement"
-msgstr ""
+msgstr "떠나간 이들"
 
 #: text_secret_death.txt:4
 msgid "Death"
-msgstr ""
+msgstr "죽음"
 
 #: text_secret_death.txt:5
 msgid "Demise"
-msgstr ""
+msgstr "숙명"
 
 #: text_secret_death.txt:6
 msgid "Departure"
-msgstr ""
+msgstr "마지막 여정"
 
 #: text_secret_death.txt:7
 msgid "Doom"
-msgstr ""
+msgstr "최후 심판"
 
 #: text_secret_death.txt:8
 msgid "Dying"
-msgstr ""
+msgstr "죽는다는 것"
 
 #: text_secret_death.txt:9
 msgid "Eternal Rest"
-msgstr ""
+msgstr "영원한 안식"
 
 #: text_secret_death.txt:10
 msgid "Expiration"
-msgstr ""
+msgstr "진정한 죽음"
 
 #: text_secret_death.txt:11
 msgid "Extinction"
-msgstr ""
+msgstr "멸종"
 
 #: text_secret_death.txt:12
 msgid "Mortality"
-msgstr ""
+msgstr "필멸성"
 
 #: text_secret_death.txt:13
 msgid "Immortality"
-msgstr ""
+msgstr "불사"
 
 #: text_secret_death.txt:14
 msgid "Loss"
-msgstr ""
+msgstr "상심"
 
 #: text_secret_death.txt:15
 msgid "Oblivion"
-msgstr ""
+msgstr "망각"
 
 #: text_secret_death.txt:16
 msgid "Parting"
-msgstr ""
+msgstr "떠나보내기"
 
 #: text_secret_death.txt:17
 msgid "Ruin"
-msgstr ""
+msgstr "파멸"
 
 #: text_secret_death.txt:18
 msgid "Ruination"
-msgstr ""
+msgstr "멸절"
 
 #: text_secret_death.txt:19
 msgid "Sleep"
-msgstr ""
+msgstr "잠"
 
 #: text_secret_death.txt:20
 msgid "the Afterlife"
-msgstr ""
+msgstr "사후세계"
 
 #: text_secret_death.txt:21
 msgid "the End"
-msgstr ""
+msgstr "끝"
 
 #: text_secret_death.txt:22
 msgid "the Grave"
-msgstr ""
+msgstr "무덤"
 
 #: text_site_specific_hf_seeker.txt:2
 msgid ""
@@ -1341,7 +1346,7 @@ msgstr ""
 
 #: text_slayer.txt:2
 msgid "bane"
-msgstr ""
+msgstr "도살자"
 
 #: text_slayer.txt:3
 msgid "conqueror"
@@ -1365,11 +1370,11 @@ msgstr "영주"
 
 #: text_slayer.txt:8
 msgid "master"
-msgstr "스승"
+msgstr "대가"
 
 #: text_slayer.txt:9
 msgid "nemesis"
-msgstr "네메시스"
+msgstr "숙적"
 
 #: text_slayer.txt:10
 msgid "slayer"
@@ -1377,7 +1382,7 @@ msgstr "살해자"
 
 #: text_slayer.txt:11
 msgid "vanquisher"
-msgstr "정복자"
+msgstr "극복자"
 
 #: text_slayer.txt:12
 msgid "murderer"
@@ -1389,7 +1394,7 @@ msgstr "분쇄자"
 
 #: text_slayer.txt:14
 msgid "extinguisher"
-msgstr ""
+msgstr "탄압자"
 
 #: text_slayer.txt:15
 msgid "strangler"
@@ -1432,7 +1437,7 @@ msgstr "단지"
 
 #: text_temple_already_member.txt:6
 msgid "all you need is to"
-msgstr ""
+msgstr "이것 하나만 하면 돼,"
 
 #: text_temple_become_member.txt:2
 msgid ""
