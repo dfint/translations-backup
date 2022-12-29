@@ -8504,6 +8504,9 @@ msgid ""
 "task [C:3:0:1]Brew Drink from Plant (or fruit)[C:7:0:0].  If you have no "
 "suitable [C:6:0:1]Plants[C:7:0:0], you "
 msgstr ""
+"Once the [C:6:0:0]양조장[C:7:0:0]이 건설되면 클릭을 하여 새로운 [C:3:0:1]식물(혹은 과일)로 술 "
+"빚기[C:7:0:0] 작업을 할당할 수 있습니다.  사용 가능한 [C:6:0:1]식물[C:7:0:0]이 없다면, "
+"(hardcoded_steam 2061줄)"
 
 #: stringdump_steam_2022_12_06.txt:2154
 msgid ""
@@ -8511,6 +8514,9 @@ msgid ""
 "[C:5:0:1]Build[C:7:0:0] menu using [C:5:0:1]Workshops[C:7:0:0] -> "
 "[C:5:0:1]Farming[C:7:0:0] -> [C:5:0:1]Still[C:7:0:0]. "
 msgstr ""
+"이는 [C:6:0:0]양조장[C:7:0:0]을 지어서 할 수 있습니다. 양조장을 건설하려면 [C:5:0:1]건설[C:7:0:0] 메뉴에서"
+" [C:5:0:1]작업장[C:7:0:0] -> [C:5:0:1]농업[C:7:0:0] -> [C:5:0:1]양조장[C:7:0:0]을 "
+"누르십시오. "
 
 #: stringdump_steam_2022_12_06.txt:2155
 msgid "The main way is by brewing alcohol. "
@@ -8591,7 +8597,7 @@ msgstr "이것은 비옥한 토양은 아니지만, 지금으로서는 충분할
 msgid ""
 "With a subterranean soil floor exposed, you can place an underground "
 "[C:6:0:0]Farmplot[C:7:0:0]. "
-msgstr ""
+msgstr "지하의 흙이 발견되면 그 위에 지하 [C:6:0:0]농작지[C:7:0:0]를 지을 수 있습니다. "
 
 #: stringdump_steam_2022_12_06.txt:2172
 msgid ""
@@ -8796,6 +8802,7 @@ msgid ""
 "It is possible to survive by gathering plants outside.  Do this by selecting"
 " the [C:5:0:1]Gathering[C:7:0:0] order. "
 msgstr ""
+"야외에서 식물을 채집하는 것으로 식량을 조달할 수 있습니다. [C:5:0:1]채집[C:7:0:0] 명령 버튼을 눌러 실행할 수 있습니다."
 
 #: stringdump_steam_2022_12_06.txt:2208
 msgid "[C:7:0:1]Gathering[C:7:0:0]"
