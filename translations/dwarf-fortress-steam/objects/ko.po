@@ -5209,7 +5209,7 @@ msgstr "[NAME:비누 공방 ]"
 #: building_custom.txt:41
 msgctxt "BUILDING_WORKSHOP:SOAP_MAKER"
 msgid "[TOOLTIP:Use tallow (rendered fat) or oil here with lye to make soap.]"
-msgstr ""
+msgstr "[TOOLTIP:여기에서 수지(정제한 동물지방) 이나 식물기름을 잿물과 섞어 비누를 만들 수 있습니다.]"
 
 #: building_custom.txt:44
 msgctxt "BUILDING_WORKSHOP:SCREW_PRESS"
@@ -5223,6 +5223,8 @@ msgid ""
 "plants might need to be milled first before they can be used.  Empty jugs "
 "are required to store the liquid products.]"
 msgstr ""
+"[TOOLTIP:여러 재료에서 액체를 짜내는 유용한 기구입니다. 몇 식물들은 여기서 가공되기 전에 먼저 제분을 해야하기도 합니다. 액체를"
+" 짜내는 작업에는 그것을 담을 빈 병이 필요합니다."
 
 #: c_variation_default.txt:189
 msgctxt "CREATURE_VARIATION:ANIMAL_PERSON"
@@ -5624,37 +5626,37 @@ msgstr "[TLCM_NOUN:눈들:PLURAL]"
 #: creature_amphibians.txt:75
 msgctxt "CREATURE:TOAD_MAN"
 msgid "[CASTE_NAME:toad man:toad men:toad man]"
-msgstr ""
+msgstr "[CASTE_NAME:남성 두꺼비인간:남성 두꺼비인간들:남성 두꺼비]"
 
 #: creature_amphibians.txt:77
 msgctxt "CREATURE:TOAD_MAN"
 msgid "[CASTE_NAME:toad woman:toad women:toad woman]"
-msgstr ""
+msgstr "[CASTE_NAME:여성 두꺼비인간:여성 두꺼비인간들:여성 두꺼비인간]"
 
 #: creature_amphibians.txt:87
 msgctxt "CREATURE:TOAD_MAN"
 msgid "[NAME:toad man:toad men:toad man]"
-msgstr ""
+msgstr "[NAME:두꺼비인간:두꺼비인간들:두꺼비인간]"
 
 #: creature_amphibians.txt:88
 msgctxt "CREATURE:TOAD_MAN"
 msgid "[DESCRIPTION:A dark green man with the distinct head of a toad.]"
-msgstr ""
+msgstr "[DESCRIPTION:눈에 띄는 두꺼비의 머리를 가진 암녹색의 인간입니다.]"
 
 #: creature_amphibians.txt:104
 msgctxt "CREATURE:GIANT_TOAD"
 msgid "[NAME:giant toad:giant toads:giant toad]"
-msgstr ""
+msgstr "[NAME:거대 두꺼비:거대 두꺼비들:거대 두꺼비]"
 
 #: creature_amphibians.txt:105
 msgctxt "CREATURE:GIANT_TOAD"
 msgid "[CASTE_NAME:giant toad:giant toads:giant toad]"
-msgstr ""
+msgstr "[CASTE_NAME:거대 두꺼비:거대 두꺼비들:거대 두꺼비]"
 
 #: creature_amphibians.txt:106
 msgctxt "CREATURE:GIANT_TOAD"
 msgid "[DESCRIPTION:A huge monster in the shape of a toad.]"
-msgstr ""
+msgstr "[DESCRIPTION:두꺼비의 모습을 한 거대한 괴수.]"
 
 #: creature_amphibians.txt:115
 msgctxt "CREATURE:GIANT_TOAD"
@@ -8019,7 +8021,7 @@ msgstr "[PREFSTRING:지능]"
 #: creature_birds_new.txt:1800
 msgctxt "CREATURE:BIRD_PARROT_GREY"
 msgid "[PREFSTRING:social nature]"
-msgstr ""
+msgstr "[PREFSTRING:무리생활 특성]"
 
 #: creature_birds_new.txt:1836
 msgctxt "CREATURE:BIRD_PARROT_GREY"
@@ -8089,7 +8091,7 @@ msgstr "[PREFSTRING:지능]"
 #: creature_birds_new.txt:1913
 msgctxt "CREATURE:GIANT_GREY_PARROT"
 msgid "[PREFSTRING:social nature]"
-msgstr ""
+msgstr "[PREFSTRING:무리생활 특성]"
 
 #: creature_birds_new.txt:1925
 msgctxt "CREATURE:BIRD_PUFFIN"
@@ -13324,7 +13326,7 @@ msgstr ""
 #: creature_domestic.txt:2153
 msgctxt "CREATURE:BIRD_GUINEAFOWL"
 msgid "[PREFSTRING:social nature]"
-msgstr ""
+msgstr "[PREFSTRING:무리생활 특성]"
 
 #: creature_domestic.txt:2192
 msgctxt "CREATURE:BIRD_GUINEAFOWL"
@@ -23652,12 +23654,12 @@ msgstr ""
 #: creature_next_underground.txt:2409
 msgctxt "CREATURE:PLUMP_HELMET_MAN"
 msgid "[NAME:plump helmet man:plump helmet men:plump helmet man]"
-msgstr ""
+msgstr "[NAME:통통버섯인간:통통버섯인간들:통통버섯인간]"
 
 #: creature_next_underground.txt:2410
 msgctxt "CREATURE:PLUMP_HELMET_MAN"
 msgid "[CASTE_NAME:plump helmet man:plump helmet men:plump helmet man]"
-msgstr ""
+msgstr "[CASTE_NAME:통통버섯인간:통통버섯인간들:통통버섯인간]"
 
 #: creature_next_underground.txt:2423
 msgctxt "CREATURE:PLUMP_HELMET_MAN"
@@ -23667,37 +23669,37 @@ msgstr ""
 #: creature_next_underground.txt:2431
 msgctxt "CREATURE:PLUMP_HELMET_MAN"
 msgid "[STATE_NAME:ALL_SOLID:plump helmet man tissue]"
-msgstr ""
+msgstr "[STATE_NAME:ALL_SOLID:통통버섯인간 조직]"
 
 #: creature_next_underground.txt:2432
 msgctxt "CREATURE:PLUMP_HELMET_MAN"
 msgid "[STATE_ADJ:ALL_SOLID:plump helmet man tissue]"
-msgstr ""
+msgstr "[STATE_ADJ:ALL_SOLID:통통버섯인간 조직]"
 
 #: creature_next_underground.txt:2433
 msgctxt "CREATURE:PLUMP_HELMET_MAN"
 msgid "[STATE_NAME:LIQUID:melted plump helmet man tissue]"
-msgstr ""
+msgstr "[STATE_NAME:LIQUID:녹은 통통버섯인간 신체조직]"
 
 #: creature_next_underground.txt:2434
 msgctxt "CREATURE:PLUMP_HELMET_MAN"
 msgid "[STATE_ADJ:LIQUID:melted plump helmet man tissue]"
-msgstr ""
+msgstr "[STATE_ADJ:LIQUID:녹은 통통버섯인간 신체조직]"
 
 #: creature_next_underground.txt:2435
 msgctxt "CREATURE:PLUMP_HELMET_MAN"
 msgid "[STATE_NAME:GAS:boiling plump helmet man tissue]"
-msgstr ""
+msgstr "[STATE_NAME:GAS:기화된 통통버섯인간 신체 조직]"
 
 #: creature_next_underground.txt:2436
 msgctxt "CREATURE:PLUMP_HELMET_MAN"
 msgid "[STATE_ADJ:GAS:boiling plump helmet man tissue]"
-msgstr ""
+msgstr "[STATE_ADJ:GAS:기화된 통통버섯인간 신체조직]"
 
 #: creature_next_underground.txt:2442
 msgctxt "CREATURE:PLUMP_HELMET_MAN"
 msgid "[TISSUE_NAME:plump helmet man tissue:NP]"
-msgstr ""
+msgstr "[TISSUE_NAME:통통버섯인간 신체 조직:NP]"
 
 #: creature_next_underground.txt:2462
 msgctxt "CREATURE:PLUMP_HELMET_MAN"
@@ -25015,7 +25017,7 @@ msgstr ""
 #: creature_other.txt:171
 msgctxt "CREATURE:RAT_DEMON"
 msgid "[GNAWER:gnawed]"
-msgstr ""
+msgstr "[GNAWER:갉음]"
 
 #: creature_other.txt:177
 msgctxt "CREATURE:RAT_DEMON"
@@ -25173,7 +25175,7 @@ msgstr ""
 #: creature_other.txt:318
 msgctxt "CREATURE:LIZARD_RHINO_TWO_LEGGED"
 msgid "[GNAWER:gnawed]"
-msgstr ""
+msgstr "[GNAWER:갉음]"
 
 #: creature_other.txt:326
 msgctxt "CREATURE:LIZARD_RHINO_TWO_LEGGED"
@@ -26568,7 +26570,7 @@ msgstr ""
 #: creature_small_mammal_new.txt:17
 msgctxt "CREATURE:HAMSTER"
 msgid "[GNAWER:gnawed]"
-msgstr ""
+msgstr "[GNAWER:갉음]"
 
 #: creature_small_mammal_new.txt:23
 msgctxt "CREATURE:HAMSTER"
@@ -26871,7 +26873,7 @@ msgstr ""
 #: creature_small_mammals.txt:13
 msgctxt "CREATURE:RAT"
 msgid "[GNAWER:gnawed]"
-msgstr ""
+msgstr "[GNAWER:갉음]"
 
 #: creature_small_mammals.txt:20
 msgctxt "CREATURE:RAT"
@@ -30192,17 +30194,17 @@ msgctxt "CREATURE:GIANT"
 msgid ""
 "[DESCRIPTION:A gigantic creature resembling a human, almost unparalleled in "
 "size.]"
-msgstr ""
+msgstr "[DESCRIPTION:크기는 비교할 수 조차 없지만, 모습만은 인간의 형태를 띈 거대한 생물.]"
 
 #: creature_standard.txt:2666
 msgctxt "CREATURE:GIANT"
 msgid "[NAME:giant:giants:giant]"
-msgstr ""
+msgstr "[NAME:거인:거인들:거인]"
 
 #: creature_standard.txt:2676
 msgctxt "CREATURE:GIANT"
 msgid "[PREFSTRING:height]"
-msgstr ""
+msgstr "[PREFSTRING:키]"
 
 #: creature_standard.txt:2721
 msgctxt "CREATURE:GIANT"
@@ -31117,36 +31119,38 @@ msgid ""
 "[DESCRIPTION:A creature from the evil swamp.  It resembles a squat, wingless"
 " bird with powerful beak and legs.  Its blotchy skin is brightly colored.]"
 msgstr ""
+"[DESCRIPTION:사악한 늪지에서 서식하는 생물. 짜리몽당하고 날개없는 새의 형태를 하고있으며, 강력한 부리와 다리가 특징이다. "
+"밝은 색의 피부가 얼룩덜룩하다."
 
 #: creature_standard.txt:4404
 msgctxt "CREATURE:BEAK_DOG"
 msgid "[NAME:beak dog:beak dogs:beak dog]"
-msgstr ""
+msgstr "[NAME:부리 개:부리 개들:부리 개]"
 
 #: creature_standard.txt:4405
 msgctxt "CREATURE:BEAK_DOG"
 msgid "[CASTE_NAME:beak dog:beak dogs:beak dog]"
-msgstr ""
+msgstr "[CASTE_NAME:부리 개:부리 개들:부리 개]"
 
 #: creature_standard.txt:4406
 msgctxt "CREATURE:BEAK_DOG"
 msgid "[GENERAL_CHILD_NAME:beak dog pup:beak dog pups]"
-msgstr ""
+msgstr "[GENERAL_CHILD_NAME:부리 강아지:부리 강아지들]"
 
 #: creature_standard.txt:4422
 msgctxt "CREATURE:BEAK_DOG"
 msgid "[PREFSTRING:chatters and clicks]"
-msgstr ""
+msgstr "[PREFSTRING:딱딱 거리는 소리]"
 
 #: creature_standard.txt:4423
 msgctxt "CREATURE:BEAK_DOG"
 msgid "[PREFSTRING:hunched backs]"
-msgstr ""
+msgstr "[PREFSTRING:굽은 등]"
 
 #: creature_standard.txt:4424
 msgctxt "CREATURE:BEAK_DOG"
 msgid "[PREFSTRING:large beaks]"
-msgstr ""
+msgstr "[PREFSTRING:커다란 부리]"
 
 #: creature_standard.txt:4464
 msgctxt "CREATURE:BEAK_DOG"
@@ -31173,27 +31177,27 @@ msgctxt "CREATURE:GRIMELING"
 msgid ""
 "[DESCRIPTION:An evil monster from the swamp.  It resembles a knot of "
 "waterlogged weeds but will strike the unaware victim.]"
-msgstr ""
+msgstr "[DESCRIPTION:늪지에서 서식하는 사악한 괴물. 물에 빠진 잡초더미처럼 생겼으며, 방심 하고있는 대상을 공격한다.]"
 
 #: creature_standard.txt:4507
 msgctxt "CREATURE:GRIMELING"
 msgid "[NAME:grimeling:grimelings:grimeling]"
-msgstr ""
+msgstr "[NAME:그라임링:그라임링들:그라임링]"
 
 #: creature_standard.txt:4508
 msgctxt "CREATURE:GRIMELING"
 msgid "[CASTE_NAME:grimeling:grimelings:grimeling]"
-msgstr ""
+msgstr "[CASTE_NAME:그라임링:그라임링들:그라임링]"
 
 #: creature_standard.txt:4526
 msgctxt "CREATURE:GRIMELING"
 msgid "[PREFSTRING:slithering nature]"
-msgstr ""
+msgstr "[PREFSTRING:흐물거리는 특성]"
 
 #: creature_standard.txt:4527
 msgctxt "CREATURE:GRIMELING"
 msgid "[PREFSTRING:weedy bodies]"
-msgstr ""
+msgstr "[PREFSTRING:풀같은 몸통]"
 
 #: creature_standard.txt:4548
 msgctxt "CREATURE:GRIMELING"
@@ -31210,12 +31214,12 @@ msgctxt "CREATURE:BLENDEC_FOUL"
 msgid ""
 "[DESCRIPTION:A man-shaped creature with the legs of a goat and the empty-"
 "eyed skull of a goat.]"
-msgstr ""
+msgstr "[DESCRIPTION:눈알이 빠진 염소의 해골을 닮은 머리와 다리를 가진 인간형태의 생물."
 
 #: creature_standard.txt:4574
 msgctxt "CREATURE:BLENDEC_FOUL"
 msgid "[NAME:foul blendec:foul blendecs:foul blendec]"
-msgstr ""
+msgstr "[NAME:포울 블렌덱:포울 블렌덱들:포울 블렌덱]"
 
 #: creature_standard.txt:4575
 msgctxt "CREATURE:BLENDEC_FOUL"
@@ -31225,17 +31229,17 @@ msgstr ""
 #: creature_standard.txt:4589
 msgctxt "CREATURE:BLENDEC_FOUL"
 msgid "[PREFSTRING:goat heads]"
-msgstr ""
+msgstr "[PREFSTRING:염소머리]"
 
 #: creature_standard.txt:4590
 msgctxt "CREATURE:BLENDEC_FOUL"
 msgid "[PREFSTRING:goat legs]"
-msgstr ""
+msgstr "[PREFSTRING:염소 다리]"
 
 #: creature_standard.txt:4591
 msgctxt "CREATURE:BLENDEC_FOUL"
 msgid "[PREFSTRING:rotten eye sockets]"
-msgstr ""
+msgstr "[PREFSTRING:썩은 눈구멍]"
 
 #: creature_standard.txt:4632
 msgctxt "CREATURE:BLENDEC_FOUL"
@@ -31370,27 +31374,27 @@ msgstr "[PREFSTRING:긴 tails]"
 #: creature_standard.txt:4800
 msgctxt "CREATURE:NIGHTWING"
 msgid "[PREFSTRING:manes]"
-msgstr ""
+msgstr "[PREFSTRING:갈기]"
 
 #: creature_standard.txt:4801
 msgctxt "CREATURE:NIGHTWING"
 msgid "[PREFSTRING:fangs]"
-msgstr ""
+msgstr "[PREFSTRING:송곳니]"
 
 #: creature_standard.txt:4802
 msgctxt "CREATURE:NIGHTWING"
 msgid "[PREFSTRING:ability to suck blood]"
-msgstr ""
+msgstr "[PREFSTRING:피를 빠는 능력]"
 
 #: creature_standard.txt:4803
 msgctxt "CREATURE:NIGHTWING"
 msgid "[PREFSTRING:tightly-stretched skin]"
-msgstr ""
+msgstr "[PREFSTRING:피막]"
 
 #: creature_standard.txt:4804
 msgctxt "CREATURE:NIGHTWING"
 msgid "[PREFSTRING:needle-like horns]"
-msgstr ""
+msgstr "[PREFSTRING:바늘같은 뿔]"
 
 #: creature_standard.txt:4836
 msgctxt "CREATURE:NIGHTWING"
@@ -31894,12 +31898,12 @@ msgstr ""
 #: creature_subterranean.txt:105
 msgctxt "CREATURE:TOAD_GIANT_CAVE"
 msgid "[NAME:giant cave toad:giant cave toads:giant cave toad]"
-msgstr ""
+msgstr "[NAME:거대 동굴두꺼비:거대 동굴두꺼비들:거대 동굴두꺼비]"
 
 #: creature_subterranean.txt:106
 msgctxt "CREATURE:TOAD_GIANT_CAVE"
 msgid "[CASTE_NAME:giant cave toad:giant cave toads:giant cave toad]"
-msgstr ""
+msgstr "[CASTE_NAME:거대 동굴두꺼비:거대 동굴두꺼비들:거대 동굴두꺼비]"
 
 #: creature_subterranean.txt:121
 msgctxt "CREATURE:TOAD_GIANT_CAVE"
@@ -32696,7 +32700,7 @@ msgstr ""
 #: creature_subterranean.txt:1484
 msgctxt "CREATURE:BAT"
 msgid "[GNAWER:gnawed]"
-msgstr ""
+msgstr "[GNAWER:갉음]"
 
 #: creature_subterranean.txt:1493
 msgctxt "CREATURE:BAT"
@@ -34448,7 +34452,7 @@ msgstr ""
 #: creature_temperate_new.txt:1339
 msgctxt "CREATURE:GIANT_KINGSNAKE"
 msgid "[PREFSTRING:habit of eating other snakes]"
-msgstr ""
+msgstr "[PREFSTRING:다른 뱀들을 먹어치우는 점]"
 
 #: creature_temperate_new.txt:1340
 msgctxt "CREATURE:GIANT_KINGSNAKE"
@@ -34460,7 +34464,7 @@ msgctxt "CREATURE:GRAY_LANGUR"
 msgid ""
 "[DESCRIPTION:A small monkey that can be found in forests and the streets of "
 "towns.]"
-msgstr ""
+msgstr "[DESCRIPTION:숲이나 마을의 길거리에서 보이곤 하는 작은 원숭이]"
 
 #: creature_temperate_new.txt:1351
 msgctxt "CREATURE:GRAY_LANGUR"
@@ -34475,12 +34479,12 @@ msgstr ""
 #: creature_temperate_new.txt:1369
 msgctxt "CREATURE:GRAY_LANGUR"
 msgid "[PREFSTRING:social nature]"
-msgstr ""
+msgstr "[PREFSTRING:무리생활 특성]"
 
 #: creature_temperate_new.txt:1370
 msgctxt "CREATURE:GRAY_LANGUR"
 msgid "[PREFSTRING:vocalizations]"
-msgstr ""
+msgstr "[PREFSTRING:울음소리]"
 
 #: creature_temperate_new.txt:1405
 msgctxt "CREATURE:GRAY_LANGUR"
@@ -34545,12 +34549,12 @@ msgstr ""
 #: creature_temperate_new.txt:1494
 msgctxt "CREATURE:GIANT_GRAY_LANGUR"
 msgid "[PREFSTRING:social nature]"
-msgstr ""
+msgstr "[PREFSTRING:무리생활 특성]"
 
 #: creature_temperate_new.txt:1495
 msgctxt "CREATURE:GIANT_GRAY_LANGUR"
 msgid "[PREFSTRING:vocalizations]"
-msgstr ""
+msgstr "[PREFSTRING:울음소리]"
 
 #: creature_temperate_new.txt:1506
 msgctxt "CREATURE:BOBCAT"
@@ -36536,7 +36540,7 @@ msgstr "[PREFSTRING:지능]"
 #: creature_tropical_new.txt:1123
 msgctxt "CREATURE:CAPUCHIN"
 msgid "[PREFSTRING:social nature]"
-msgstr ""
+msgstr "[PREFSTRING:무리생활 특성]"
 
 #: creature_tropical_new.txt:1158
 msgctxt "CREATURE:CAPUCHIN"
@@ -36606,7 +36610,7 @@ msgstr "[PREFSTRING:지능]"
 #: creature_tropical_new.txt:1248
 msgctxt "CREATURE:GIANT_CAPUCHIN"
 msgid "[PREFSTRING:social nature]"
-msgstr ""
+msgstr "[PREFSTRING:무리생활 특성]"
 
 #: creature_tropical_new.txt:1257
 msgctxt "CREATURE:SLOTH"
@@ -42180,182 +42184,182 @@ msgstr ""
 #: material_template_default.txt:8
 msgctxt "MATERIAL_TEMPLATE:STONE_TEMPLATE"
 msgid "[STATE_NAME:ALL_SOLID:stone]"
-msgstr ""
+msgstr "[STATE_NAME:ALL_SOLID:돌]"
 
 #: material_template_default.txt:9
 msgctxt "MATERIAL_TEMPLATE:STONE_TEMPLATE"
 msgid "[STATE_ADJ:ALL_SOLID:stone]"
-msgstr ""
+msgstr "[STATE_ADJ:ALL_SOLID:돌]"
 
 #: material_template_default.txt:11
 msgctxt "MATERIAL_TEMPLATE:STONE_TEMPLATE"
 msgid "[STATE_NAME:LIQUID:magma]"
-msgstr ""
+msgstr "[STATE_NAME:LIQUID:마그마]"
 
 #: material_template_default.txt:12
 msgctxt "MATERIAL_TEMPLATE:STONE_TEMPLATE"
 msgid "[STATE_ADJ:LIQUID:magma]"
-msgstr ""
+msgstr "[STATE_ADJ:LIQUID:마그마]"
 
 #: material_template_default.txt:14
 msgctxt "MATERIAL_TEMPLATE:STONE_TEMPLATE"
 msgid "[STATE_NAME:GAS:boiling magma]"
-msgstr ""
+msgstr "[STATE_NAME:GAS:기화된 마그마]"
 
 #: material_template_default.txt:15
 msgctxt "MATERIAL_TEMPLATE:STONE_TEMPLATE"
 msgid "[STATE_ADJ:GAS:boiling magma]"
-msgstr ""
+msgstr "[STATE_ADJ:GAS:기화된 마그마]"
 
 #: material_template_default.txt:65
 msgctxt "MATERIAL_TEMPLATE:METAL_TEMPLATE"
 msgid "[STATE_NAME:ALL_SOLID:metal]"
-msgstr ""
+msgstr "[STATE_NAME:ALL_SOLID:금속]"
 
 #: material_template_default.txt:66
 msgctxt "MATERIAL_TEMPLATE:METAL_TEMPLATE"
 msgid "[STATE_ADJ:ALL_SOLID:metal]"
-msgstr ""
+msgstr "[STATE_ADJ:ALL_SOLID:금속]"
 
 #: material_template_default.txt:68
 msgctxt "MATERIAL_TEMPLATE:METAL_TEMPLATE"
 msgid "[STATE_NAME:LIQUID:molten metal]"
-msgstr ""
+msgstr "[STATE_NAME:LIQUID:녹은 금속]"
 
 #: material_template_default.txt:69
 msgctxt "MATERIAL_TEMPLATE:METAL_TEMPLATE"
 msgid "[STATE_ADJ:LIQUID:molten metal]"
-msgstr ""
+msgstr "[STATE_ADJ:LIQUID:녹은 금속]"
 
 #: material_template_default.txt:71
 msgctxt "MATERIAL_TEMPLATE:METAL_TEMPLATE"
 msgid "[STATE_NAME:GAS:boiling metal]"
-msgstr ""
+msgstr "[STATE_NAME:GAS:기화된 금속]"
 
 #: material_template_default.txt:72
 msgctxt "MATERIAL_TEMPLATE:METAL_TEMPLATE"
 msgid "[STATE_ADJ:GAS:boiling metal]"
-msgstr ""
+msgstr "[STATE_ADJ:GAS:기화된 금속]"
 
 #: material_template_default.txt:109
 msgctxt "MATERIAL_TEMPLATE:WOOD_TEMPLATE"
 msgid "[STATE_NAME:ALL_SOLID:wood]"
-msgstr ""
+msgstr "[STATE_NAME:ALL_SOLID:나무]"
 
 #: material_template_default.txt:110
 msgctxt "MATERIAL_TEMPLATE:WOOD_TEMPLATE"
 msgid "[STATE_ADJ:ALL_SOLID:wooden]"
-msgstr ""
+msgstr "[STATE_ADJ:ALL_SOLID:나무]"
 
 #: material_template_default.txt:112
 msgctxt "MATERIAL_TEMPLATE:WOOD_TEMPLATE"
 msgid "[STATE_NAME:LIQUID:n/a]"
-msgstr ""
+msgstr "[STATE_NAME:LIQUID:n/a]"
 
 #: material_template_default.txt:113
 msgctxt "MATERIAL_TEMPLATE:WOOD_TEMPLATE"
 msgid "[STATE_ADJ:LIQUID:n/a]"
-msgstr ""
+msgstr "[STATE_ADJ:LIQUID:n/a]"
 
 #: material_template_default.txt:115
 msgctxt "MATERIAL_TEMPLATE:WOOD_TEMPLATE"
 msgid "[STATE_NAME:GAS:n/a]"
-msgstr ""
+msgstr "[STATE_NAME:GAS:n/a]"
 
 #: material_template_default.txt:116
 msgctxt "MATERIAL_TEMPLATE:WOOD_TEMPLATE"
 msgid "[STATE_ADJ:GAS:n/a]"
-msgstr ""
+msgstr "[STATE_ADJ:GAS:n/a]"
 
 #: material_template_default.txt:160
 msgctxt "MATERIAL_TEMPLATE:SKIN_TEMPLATE"
 msgid "[STATE_NAME:ALL_SOLID:skin]"
-msgstr ""
+msgstr "[STATE_NAME:ALL_SOLID:피부]"
 
 #: material_template_default.txt:161
 msgctxt "MATERIAL_TEMPLATE:SKIN_TEMPLATE"
 msgid "[STATE_ADJ:ALL_SOLID:skin]"
-msgstr ""
+msgstr "[STATE_ADJ:ALL_SOLID:피부]"
 
 #: material_template_default.txt:163
 msgctxt "MATERIAL_TEMPLATE:SKIN_TEMPLATE"
 msgid "[STATE_NAME:LIQUID:n/a]"
-msgstr ""
+msgstr "[STATE_NAME:LIQUID:n/a]"
 
 #: material_template_default.txt:164
 msgctxt "MATERIAL_TEMPLATE:SKIN_TEMPLATE"
 msgid "[STATE_ADJ:LIQUID:n/a]"
-msgstr ""
+msgstr "[STATE_ADJ:LIQUID:n/a]"
 
 #: material_template_default.txt:166
 msgctxt "MATERIAL_TEMPLATE:SKIN_TEMPLATE"
 msgid "[STATE_NAME:GAS:n/a]"
-msgstr ""
+msgstr "[STATE_NAME:GAS:n/a]"
 
 #: material_template_default.txt:167
 msgctxt "MATERIAL_TEMPLATE:SKIN_TEMPLATE"
 msgid "[STATE_ADJ:GAS:n/a]"
-msgstr ""
+msgstr "[STATE_ADJ:GAS:n/a]"
 
 #: material_template_default.txt:209
 msgctxt "MATERIAL_TEMPLATE:FAT_TEMPLATE"
 msgid "[STATE_NAME:ALL_SOLID:fat]"
-msgstr ""
+msgstr "[STATE_NAME:ALL_SOLID:지방]"
 
 #: material_template_default.txt:210
 msgctxt "MATERIAL_TEMPLATE:FAT_TEMPLATE"
 msgid "[STATE_ADJ:ALL_SOLID:fatty]"
-msgstr ""
+msgstr "[STATE_ADJ:ALL_SOLID:지방질]"
 
 #: material_template_default.txt:212
 msgctxt "MATERIAL_TEMPLATE:FAT_TEMPLATE"
 msgid "[STATE_NAME:LIQUID:grease]"
-msgstr ""
+msgstr "[STATE_NAME:LIQUID:기름]"
 
 #: material_template_default.txt:213
 msgctxt "MATERIAL_TEMPLATE:FAT_TEMPLATE"
 msgid "[STATE_ADJ:LIQUID:greasy]"
-msgstr ""
+msgstr "[STATE_ADJ:LIQUID:기름]"
 
 #: material_template_default.txt:215
 msgctxt "MATERIAL_TEMPLATE:FAT_TEMPLATE"
 msgid "[STATE_NAME:GAS:n/a]"
-msgstr ""
+msgstr "[STATE_NAME:GAS:n/a]"
 
 #: material_template_default.txt:216
 msgctxt "MATERIAL_TEMPLATE:FAT_TEMPLATE"
 msgid "[STATE_ADJ:GAS:n/a]"
-msgstr ""
+msgstr "[STATE_ADJ:GAS:n/a]"
 
 #: material_template_default.txt:260
 msgctxt "MATERIAL_TEMPLATE:MUSCLE_TEMPLATE"
 msgid "[STATE_NAME:ALL_SOLID:muscle]"
-msgstr ""
+msgstr "[STATE_NAME:ALL_SOLID:근육]"
 
 #: material_template_default.txt:261
 msgctxt "MATERIAL_TEMPLATE:MUSCLE_TEMPLATE"
 msgid "[STATE_ADJ:ALL_SOLID:muscle]"
-msgstr ""
+msgstr "[STATE_ADJ:ALL_SOLID:근육]"
 
 #: material_template_default.txt:263
 msgctxt "MATERIAL_TEMPLATE:MUSCLE_TEMPLATE"
 msgid "[STATE_NAME:LIQUID:n/a]"
-msgstr ""
+msgstr "[STATE_NAME:LIQUID:n/a]"
 
 #: material_template_default.txt:264
 msgctxt "MATERIAL_TEMPLATE:MUSCLE_TEMPLATE"
 msgid "[STATE_ADJ:LIQUID:n/a]"
-msgstr ""
+msgstr "[STATE_ADJ:LIQUID:n/a]"
 
 #: material_template_default.txt:266
 msgctxt "MATERIAL_TEMPLATE:MUSCLE_TEMPLATE"
 msgid "[STATE_NAME:GAS:n/a]"
-msgstr ""
+msgstr "[STATE_NAME:GAS:n/a]"
 
 #: material_template_default.txt:267
 msgctxt "MATERIAL_TEMPLATE:MUSCLE_TEMPLATE"
 msgid "[STATE_ADJ:GAS:n/a]"
-msgstr ""
+msgstr "[STATE_ADJ:GAS:n/a]"
 
 #: material_template_default.txt:306
 msgctxt "MATERIAL_TEMPLATE:MUSCLE_TEMPLATE"
@@ -42365,102 +42369,102 @@ msgstr "[MEAT_NAME:NONE:고기:고기]"
 #: material_template_default.txt:313
 msgctxt "MATERIAL_TEMPLATE:SINEW_TEMPLATE"
 msgid "[STATE_NAME:ALL_SOLID:sinew]"
-msgstr ""
+msgstr "[STATE_NAME:ALL_SOLID:힘줄]"
 
 #: material_template_default.txt:314
 msgctxt "MATERIAL_TEMPLATE:SINEW_TEMPLATE"
 msgid "[STATE_ADJ:ALL_SOLID:sinew]"
-msgstr ""
+msgstr "[STATE_ADJ:ALL_SOLID:힘줄]"
 
 #: material_template_default.txt:316
 msgctxt "MATERIAL_TEMPLATE:SINEW_TEMPLATE"
 msgid "[STATE_NAME:LIQUID:n/a]"
-msgstr ""
+msgstr "[STATE_NAME:LIQUID:n/a]"
 
 #: material_template_default.txt:317
 msgctxt "MATERIAL_TEMPLATE:SINEW_TEMPLATE"
 msgid "[STATE_ADJ:LIQUID:n/a]"
-msgstr ""
+msgstr "[STATE_ADJ:LIQUID:n/a]"
 
 #: material_template_default.txt:319
 msgctxt "MATERIAL_TEMPLATE:SINEW_TEMPLATE"
 msgid "[STATE_NAME:GAS:n/a]"
-msgstr ""
+msgstr "[STATE_NAME:GAS:n/a]"
 
 #: material_template_default.txt:320
 msgctxt "MATERIAL_TEMPLATE:SINEW_TEMPLATE"
 msgid "[STATE_ADJ:GAS:n/a]"
-msgstr ""
+msgstr "[STATE_ADJ:GAS:n/a]"
 
 #: material_template_default.txt:358
 msgctxt "MATERIAL_TEMPLATE:BONE_TEMPLATE"
 msgid "[STATE_NAME:SOLID:bone]"
-msgstr ""
+msgstr "[STATE_NAME:SOLID:뼈]"
 
 #: material_template_default.txt:359
 msgctxt "MATERIAL_TEMPLATE:BONE_TEMPLATE"
 msgid "[STATE_ADJ:SOLID:bone]"
-msgstr ""
+msgstr "[STATE_ADJ:SOLID:뼈]"
 
 #: material_template_default.txt:360
 msgctxt "MATERIAL_TEMPLATE:BONE_TEMPLATE"
 msgid "[STATE_NAME:POWDER:bone meal]"
-msgstr ""
+msgstr "[STATE_NAME:POWDER:뼛가루]"
 
 #: material_template_default.txt:361
 msgctxt "MATERIAL_TEMPLATE:BONE_TEMPLATE"
 msgid "[STATE_ADJ:POWDER:bone meal]"
-msgstr ""
+msgstr "[STATE_ADJ:POWDER:뼛가루]"
 
 #: material_template_default.txt:363
 msgctxt "MATERIAL_TEMPLATE:BONE_TEMPLATE"
 msgid "[STATE_NAME:LIQUID:n/a]"
-msgstr ""
+msgstr "[STATE_NAME:LIQUID:n/a]"
 
 #: material_template_default.txt:364
 msgctxt "MATERIAL_TEMPLATE:BONE_TEMPLATE"
 msgid "[STATE_ADJ:LIQUID:n/a]"
-msgstr ""
+msgstr "[STATE_ADJ:LIQUID:n/a]"
 
 #: material_template_default.txt:366
 msgctxt "MATERIAL_TEMPLATE:BONE_TEMPLATE"
 msgid "[STATE_NAME:GAS:n/a]"
-msgstr ""
+msgstr "[STATE_NAME:GAS:n/a]"
 
 #: material_template_default.txt:367
 msgctxt "MATERIAL_TEMPLATE:BONE_TEMPLATE"
 msgid "[STATE_ADJ:GAS:n/a]"
-msgstr ""
+msgstr "[STATE_ADJ:GAS:n/a]"
 
 #: material_template_default.txt:407
 msgctxt "MATERIAL_TEMPLATE:CARTILAGE_TEMPLATE"
 msgid "[STATE_NAME:ALL_SOLID:cartilage]"
-msgstr ""
+msgstr "[STATE_NAME:ALL_SOLID:연골]"
 
 #: material_template_default.txt:408
 msgctxt "MATERIAL_TEMPLATE:CARTILAGE_TEMPLATE"
 msgid "[STATE_ADJ:ALL_SOLID:cartilaginous]"
-msgstr ""
+msgstr "[STATE_ADJ:ALL_SOLID:연골질]"
 
 #: material_template_default.txt:410
 msgctxt "MATERIAL_TEMPLATE:CARTILAGE_TEMPLATE"
 msgid "[STATE_NAME:LIQUID:n/a]"
-msgstr ""
+msgstr "[STATE_NAME:LIQUID:n/a]"
 
 #: material_template_default.txt:411
 msgctxt "MATERIAL_TEMPLATE:CARTILAGE_TEMPLATE"
 msgid "[STATE_ADJ:LIQUID:n/a]"
-msgstr ""
+msgstr "[STATE_ADJ:LIQUID:n/a]"
 
 #: material_template_default.txt:413
 msgctxt "MATERIAL_TEMPLATE:CARTILAGE_TEMPLATE"
 msgid "[STATE_NAME:GAS:n/a]"
-msgstr ""
+msgstr "[STATE_NAME:GAS:n/a]"
 
 #: material_template_default.txt:414
 msgctxt "MATERIAL_TEMPLATE:CARTILAGE_TEMPLATE"
 msgid "[STATE_ADJ:GAS:n/a]"
-msgstr ""
+msgstr "[STATE_ADJ:GAS:n/a]"
 
 #: material_template_default.txt:452
 msgctxt "MATERIAL_TEMPLATE:HAIR_TEMPLATE"
@@ -42475,22 +42479,22 @@ msgstr ""
 #: material_template_default.txt:455
 msgctxt "MATERIAL_TEMPLATE:HAIR_TEMPLATE"
 msgid "[STATE_NAME:LIQUID:n/a]"
-msgstr ""
+msgstr "[STATE_NAME:LIQUID:n/a]"
 
 #: material_template_default.txt:456
 msgctxt "MATERIAL_TEMPLATE:HAIR_TEMPLATE"
 msgid "[STATE_ADJ:LIQUID:n/a]"
-msgstr ""
+msgstr "[STATE_ADJ:LIQUID:n/a]"
 
 #: material_template_default.txt:458
 msgctxt "MATERIAL_TEMPLATE:HAIR_TEMPLATE"
 msgid "[STATE_NAME:GAS:n/a]"
-msgstr ""
+msgstr "[STATE_NAME:GAS:n/a]"
 
 #: material_template_default.txt:459
 msgctxt "MATERIAL_TEMPLATE:HAIR_TEMPLATE"
 msgid "[STATE_ADJ:GAS:n/a]"
-msgstr ""
+msgstr "[STATE_ADJ:GAS:n/a]"
 
 #: material_template_default.txt:498
 msgctxt "MATERIAL_TEMPLATE:FEATHER_TEMPLATE"
@@ -42505,22 +42509,22 @@ msgstr ""
 #: material_template_default.txt:501
 msgctxt "MATERIAL_TEMPLATE:FEATHER_TEMPLATE"
 msgid "[STATE_NAME:LIQUID:n/a]"
-msgstr ""
+msgstr "[STATE_NAME:LIQUID:n/a]"
 
 #: material_template_default.txt:502
 msgctxt "MATERIAL_TEMPLATE:FEATHER_TEMPLATE"
 msgid "[STATE_ADJ:LIQUID:n/a]"
-msgstr ""
+msgstr "[STATE_ADJ:LIQUID:n/a]"
 
 #: material_template_default.txt:504
 msgctxt "MATERIAL_TEMPLATE:FEATHER_TEMPLATE"
 msgid "[STATE_NAME:GAS:n/a]"
-msgstr ""
+msgstr "[STATE_NAME:GAS:n/a]"
 
 #: material_template_default.txt:505
 msgctxt "MATERIAL_TEMPLATE:FEATHER_TEMPLATE"
 msgid "[STATE_ADJ:GAS:n/a]"
-msgstr ""
+msgstr "[STATE_ADJ:GAS:n/a]"
 
 #: material_template_default.txt:543
 msgctxt "MATERIAL_TEMPLATE:SCALE_TEMPLATE"
@@ -42535,22 +42539,22 @@ msgstr ""
 #: material_template_default.txt:546
 msgctxt "MATERIAL_TEMPLATE:SCALE_TEMPLATE"
 msgid "[STATE_NAME:LIQUID:n/a]"
-msgstr ""
+msgstr "[STATE_NAME:LIQUID:n/a]"
 
 #: material_template_default.txt:547
 msgctxt "MATERIAL_TEMPLATE:SCALE_TEMPLATE"
 msgid "[STATE_ADJ:LIQUID:n/a]"
-msgstr ""
+msgstr "[STATE_ADJ:LIQUID:n/a]"
 
 #: material_template_default.txt:549
 msgctxt "MATERIAL_TEMPLATE:SCALE_TEMPLATE"
 msgid "[STATE_NAME:GAS:n/a]"
-msgstr ""
+msgstr "[STATE_NAME:GAS:n/a]"
 
 #: material_template_default.txt:550
 msgctxt "MATERIAL_TEMPLATE:SCALE_TEMPLATE"
 msgid "[STATE_ADJ:GAS:n/a]"
-msgstr ""
+msgstr "[STATE_ADJ:GAS:n/a]"
 
 #: material_template_default.txt:588
 msgctxt "MATERIAL_TEMPLATE:NAIL_TEMPLATE"
@@ -42565,22 +42569,22 @@ msgstr ""
 #: material_template_default.txt:591
 msgctxt "MATERIAL_TEMPLATE:NAIL_TEMPLATE"
 msgid "[STATE_NAME:LIQUID:n/a]"
-msgstr ""
+msgstr "[STATE_NAME:LIQUID:n/a]"
 
 #: material_template_default.txt:592
 msgctxt "MATERIAL_TEMPLATE:NAIL_TEMPLATE"
 msgid "[STATE_ADJ:LIQUID:n/a]"
-msgstr ""
+msgstr "[STATE_ADJ:LIQUID:n/a]"
 
 #: material_template_default.txt:594
 msgctxt "MATERIAL_TEMPLATE:NAIL_TEMPLATE"
 msgid "[STATE_NAME:GAS:n/a]"
-msgstr ""
+msgstr "[STATE_NAME:GAS:n/a]"
 
 #: material_template_default.txt:595
 msgctxt "MATERIAL_TEMPLATE:NAIL_TEMPLATE"
 msgid "[STATE_ADJ:GAS:n/a]"
-msgstr ""
+msgstr "[STATE_ADJ:GAS:n/a]"
 
 #: material_template_default.txt:633
 msgctxt "MATERIAL_TEMPLATE:TOOTH_TEMPLATE"
@@ -42595,22 +42599,22 @@ msgstr ""
 #: material_template_default.txt:636
 msgctxt "MATERIAL_TEMPLATE:TOOTH_TEMPLATE"
 msgid "[STATE_NAME:LIQUID:n/a]"
-msgstr ""
+msgstr "[STATE_NAME:LIQUID:n/a]"
 
 #: material_template_default.txt:637
 msgctxt "MATERIAL_TEMPLATE:TOOTH_TEMPLATE"
 msgid "[STATE_ADJ:LIQUID:n/a]"
-msgstr ""
+msgstr "[STATE_ADJ:LIQUID:n/a]"
 
 #: material_template_default.txt:639
 msgctxt "MATERIAL_TEMPLATE:TOOTH_TEMPLATE"
 msgid "[STATE_NAME:GAS:n/a]"
-msgstr ""
+msgstr "[STATE_NAME:GAS:n/a]"
 
 #: material_template_default.txt:640
 msgctxt "MATERIAL_TEMPLATE:TOOTH_TEMPLATE"
 msgid "[STATE_ADJ:GAS:n/a]"
-msgstr ""
+msgstr "[STATE_ADJ:GAS:n/a]"
 
 #: material_template_default.txt:679
 msgctxt "MATERIAL_TEMPLATE:EYE_TEMPLATE"
@@ -42625,22 +42629,22 @@ msgstr ""
 #: material_template_default.txt:682
 msgctxt "MATERIAL_TEMPLATE:EYE_TEMPLATE"
 msgid "[STATE_NAME:LIQUID:n/a]"
-msgstr ""
+msgstr "[STATE_NAME:LIQUID:n/a]"
 
 #: material_template_default.txt:683
 msgctxt "MATERIAL_TEMPLATE:EYE_TEMPLATE"
 msgid "[STATE_ADJ:LIQUID:n/a]"
-msgstr ""
+msgstr "[STATE_ADJ:LIQUID:n/a]"
 
 #: material_template_default.txt:685
 msgctxt "MATERIAL_TEMPLATE:EYE_TEMPLATE"
 msgid "[STATE_NAME:GAS:n/a]"
-msgstr ""
+msgstr "[STATE_NAME:GAS:n/a]"
 
 #: material_template_default.txt:686
 msgctxt "MATERIAL_TEMPLATE:EYE_TEMPLATE"
 msgid "[STATE_ADJ:GAS:n/a]"
-msgstr ""
+msgstr "[STATE_ADJ:GAS:n/a]"
 
 #: material_template_default.txt:724
 msgctxt "MATERIAL_TEMPLATE:EYE_TEMPLATE"
@@ -42660,22 +42664,22 @@ msgstr "[STATE_ADJ:ALL_SOLID:신경 조직]"
 #: material_template_default.txt:733
 msgctxt "MATERIAL_TEMPLATE:NERVE_TEMPLATE"
 msgid "[STATE_NAME:LIQUID:n/a]"
-msgstr ""
+msgstr "[STATE_NAME:LIQUID:n/a]"
 
 #: material_template_default.txt:734
 msgctxt "MATERIAL_TEMPLATE:NERVE_TEMPLATE"
 msgid "[STATE_ADJ:LIQUID:n/a]"
-msgstr ""
+msgstr "[STATE_ADJ:LIQUID:n/a]"
 
 #: material_template_default.txt:736
 msgctxt "MATERIAL_TEMPLATE:NERVE_TEMPLATE"
 msgid "[STATE_NAME:GAS:n/a]"
-msgstr ""
+msgstr "[STATE_NAME:GAS:n/a]"
 
 #: material_template_default.txt:737
 msgctxt "MATERIAL_TEMPLATE:NERVE_TEMPLATE"
 msgid "[STATE_ADJ:GAS:n/a]"
-msgstr ""
+msgstr "[STATE_ADJ:GAS:n/a]"
 
 #: material_template_default.txt:776
 msgctxt "MATERIAL_TEMPLATE:BRAIN_TEMPLATE"
@@ -42690,22 +42694,22 @@ msgstr ""
 #: material_template_default.txt:779
 msgctxt "MATERIAL_TEMPLATE:BRAIN_TEMPLATE"
 msgid "[STATE_NAME:LIQUID:n/a]"
-msgstr ""
+msgstr "[STATE_NAME:LIQUID:n/a]"
 
 #: material_template_default.txt:780
 msgctxt "MATERIAL_TEMPLATE:BRAIN_TEMPLATE"
 msgid "[STATE_ADJ:LIQUID:n/a]"
-msgstr ""
+msgstr "[STATE_ADJ:LIQUID:n/a]"
 
 #: material_template_default.txt:782
 msgctxt "MATERIAL_TEMPLATE:BRAIN_TEMPLATE"
 msgid "[STATE_NAME:GAS:n/a]"
-msgstr ""
+msgstr "[STATE_NAME:GAS:n/a]"
 
 #: material_template_default.txt:783
 msgctxt "MATERIAL_TEMPLATE:BRAIN_TEMPLATE"
 msgid "[STATE_ADJ:GAS:n/a]"
-msgstr ""
+msgstr "[STATE_ADJ:GAS:n/a]"
 
 #: material_template_default.txt:822
 msgctxt "MATERIAL_TEMPLATE:BRAIN_TEMPLATE"
@@ -42725,22 +42729,22 @@ msgstr ""
 #: material_template_default.txt:831
 msgctxt "MATERIAL_TEMPLATE:LUNG_TEMPLATE"
 msgid "[STATE_NAME:LIQUID:n/a]"
-msgstr ""
+msgstr "[STATE_NAME:LIQUID:n/a]"
 
 #: material_template_default.txt:832
 msgctxt "MATERIAL_TEMPLATE:LUNG_TEMPLATE"
 msgid "[STATE_ADJ:LIQUID:n/a]"
-msgstr ""
+msgstr "[STATE_ADJ:LIQUID:n/a]"
 
 #: material_template_default.txt:834
 msgctxt "MATERIAL_TEMPLATE:LUNG_TEMPLATE"
 msgid "[STATE_NAME:GAS:n/a]"
-msgstr ""
+msgstr "[STATE_NAME:GAS:n/a]"
 
 #: material_template_default.txt:835
 msgctxt "MATERIAL_TEMPLATE:LUNG_TEMPLATE"
 msgid "[STATE_ADJ:GAS:n/a]"
-msgstr ""
+msgstr "[STATE_ADJ:GAS:n/a]"
 
 #: material_template_default.txt:874
 msgctxt "MATERIAL_TEMPLATE:LUNG_TEMPLATE"
@@ -42760,22 +42764,22 @@ msgstr ""
 #: material_template_default.txt:883
 msgctxt "MATERIAL_TEMPLATE:HEART_TEMPLATE"
 msgid "[STATE_NAME:LIQUID:n/a]"
-msgstr ""
+msgstr "[STATE_NAME:LIQUID:n/a]"
 
 #: material_template_default.txt:884
 msgctxt "MATERIAL_TEMPLATE:HEART_TEMPLATE"
 msgid "[STATE_ADJ:LIQUID:n/a]"
-msgstr ""
+msgstr "[STATE_ADJ:LIQUID:n/a]"
 
 #: material_template_default.txt:886
 msgctxt "MATERIAL_TEMPLATE:HEART_TEMPLATE"
 msgid "[STATE_NAME:GAS:n/a]"
-msgstr ""
+msgstr "[STATE_NAME:GAS:n/a]"
 
 #: material_template_default.txt:887
 msgctxt "MATERIAL_TEMPLATE:HEART_TEMPLATE"
 msgid "[STATE_ADJ:GAS:n/a]"
-msgstr ""
+msgstr "[STATE_ADJ:GAS:n/a]"
 
 #: material_template_default.txt:926
 msgctxt "MATERIAL_TEMPLATE:HEART_TEMPLATE"
@@ -42795,22 +42799,22 @@ msgstr ""
 #: material_template_default.txt:935
 msgctxt "MATERIAL_TEMPLATE:LIVER_TEMPLATE"
 msgid "[STATE_NAME:LIQUID:n/a]"
-msgstr ""
+msgstr "[STATE_NAME:LIQUID:n/a]"
 
 #: material_template_default.txt:936
 msgctxt "MATERIAL_TEMPLATE:LIVER_TEMPLATE"
 msgid "[STATE_ADJ:LIQUID:n/a]"
-msgstr ""
+msgstr "[STATE_ADJ:LIQUID:n/a]"
 
 #: material_template_default.txt:938
 msgctxt "MATERIAL_TEMPLATE:LIVER_TEMPLATE"
 msgid "[STATE_NAME:GAS:n/a]"
-msgstr ""
+msgstr "[STATE_NAME:GAS:n/a]"
 
 #: material_template_default.txt:939
 msgctxt "MATERIAL_TEMPLATE:LIVER_TEMPLATE"
 msgid "[STATE_ADJ:GAS:n/a]"
-msgstr ""
+msgstr "[STATE_ADJ:GAS:n/a]"
 
 #: material_template_default.txt:978
 msgctxt "MATERIAL_TEMPLATE:LIVER_TEMPLATE"
@@ -42830,22 +42834,22 @@ msgstr ""
 #: material_template_default.txt:987
 msgctxt "MATERIAL_TEMPLATE:GUT_TEMPLATE"
 msgid "[STATE_NAME:LIQUID:n/a]"
-msgstr ""
+msgstr "[STATE_NAME:LIQUID:n/a]"
 
 #: material_template_default.txt:988
 msgctxt "MATERIAL_TEMPLATE:GUT_TEMPLATE"
 msgid "[STATE_ADJ:LIQUID:n/a]"
-msgstr ""
+msgstr "[STATE_ADJ:LIQUID:n/a]"
 
 #: material_template_default.txt:990
 msgctxt "MATERIAL_TEMPLATE:GUT_TEMPLATE"
 msgid "[STATE_NAME:GAS:n/a]"
-msgstr ""
+msgstr "[STATE_NAME:GAS:n/a]"
 
 #: material_template_default.txt:991
 msgctxt "MATERIAL_TEMPLATE:GUT_TEMPLATE"
 msgid "[STATE_ADJ:GAS:n/a]"
-msgstr ""
+msgstr "[STATE_ADJ:GAS:n/a]"
 
 #: material_template_default.txt:1030
 msgctxt "MATERIAL_TEMPLATE:GUT_TEMPLATE"
@@ -42865,22 +42869,22 @@ msgstr ""
 #: material_template_default.txt:1039
 msgctxt "MATERIAL_TEMPLATE:STOMACH_TEMPLATE"
 msgid "[STATE_NAME:LIQUID:n/a]"
-msgstr ""
+msgstr "[STATE_NAME:LIQUID:n/a]"
 
 #: material_template_default.txt:1040
 msgctxt "MATERIAL_TEMPLATE:STOMACH_TEMPLATE"
 msgid "[STATE_ADJ:LIQUID:n/a]"
-msgstr ""
+msgstr "[STATE_ADJ:LIQUID:n/a]"
 
 #: material_template_default.txt:1042
 msgctxt "MATERIAL_TEMPLATE:STOMACH_TEMPLATE"
 msgid "[STATE_NAME:GAS:n/a]"
-msgstr ""
+msgstr "[STATE_NAME:GAS:n/a]"
 
 #: material_template_default.txt:1043
 msgctxt "MATERIAL_TEMPLATE:STOMACH_TEMPLATE"
 msgid "[STATE_ADJ:GAS:n/a]"
-msgstr ""
+msgstr "[STATE_ADJ:GAS:n/a]"
 
 #: material_template_default.txt:1082
 msgctxt "MATERIAL_TEMPLATE:STOMACH_TEMPLATE"
@@ -42900,22 +42904,22 @@ msgstr ""
 #: material_template_default.txt:1091
 msgctxt "MATERIAL_TEMPLATE:GIZZARD_TEMPLATE"
 msgid "[STATE_NAME:LIQUID:n/a]"
-msgstr ""
+msgstr "[STATE_NAME:LIQUID:n/a]"
 
 #: material_template_default.txt:1092
 msgctxt "MATERIAL_TEMPLATE:GIZZARD_TEMPLATE"
 msgid "[STATE_ADJ:LIQUID:n/a]"
-msgstr ""
+msgstr "[STATE_ADJ:LIQUID:n/a]"
 
 #: material_template_default.txt:1094
 msgctxt "MATERIAL_TEMPLATE:GIZZARD_TEMPLATE"
 msgid "[STATE_NAME:GAS:n/a]"
-msgstr ""
+msgstr "[STATE_NAME:GAS:n/a]"
 
 #: material_template_default.txt:1095
 msgctxt "MATERIAL_TEMPLATE:GIZZARD_TEMPLATE"
 msgid "[STATE_ADJ:GAS:n/a]"
-msgstr ""
+msgstr "[STATE_ADJ:GAS:n/a]"
 
 #: material_template_default.txt:1134
 msgctxt "MATERIAL_TEMPLATE:GIZZARD_TEMPLATE"
@@ -42935,22 +42939,22 @@ msgstr ""
 #: material_template_default.txt:1143
 msgctxt "MATERIAL_TEMPLATE:PANCREAS_TEMPLATE"
 msgid "[STATE_NAME:LIQUID:n/a]"
-msgstr ""
+msgstr "[STATE_NAME:LIQUID:n/a]"
 
 #: material_template_default.txt:1144
 msgctxt "MATERIAL_TEMPLATE:PANCREAS_TEMPLATE"
 msgid "[STATE_ADJ:LIQUID:n/a]"
-msgstr ""
+msgstr "[STATE_ADJ:LIQUID:n/a]"
 
 #: material_template_default.txt:1146
 msgctxt "MATERIAL_TEMPLATE:PANCREAS_TEMPLATE"
 msgid "[STATE_NAME:GAS:n/a]"
-msgstr ""
+msgstr "[STATE_NAME:GAS:n/a]"
 
 #: material_template_default.txt:1147
 msgctxt "MATERIAL_TEMPLATE:PANCREAS_TEMPLATE"
 msgid "[STATE_ADJ:GAS:n/a]"
-msgstr ""
+msgstr "[STATE_ADJ:GAS:n/a]"
 
 #: material_template_default.txt:1186
 msgctxt "MATERIAL_TEMPLATE:PANCREAS_TEMPLATE"
@@ -42970,22 +42974,22 @@ msgstr ""
 #: material_template_default.txt:1195
 msgctxt "MATERIAL_TEMPLATE:SPLEEN_TEMPLATE"
 msgid "[STATE_NAME:LIQUID:n/a]"
-msgstr ""
+msgstr "[STATE_NAME:LIQUID:n/a]"
 
 #: material_template_default.txt:1196
 msgctxt "MATERIAL_TEMPLATE:SPLEEN_TEMPLATE"
 msgid "[STATE_ADJ:LIQUID:n/a]"
-msgstr ""
+msgstr "[STATE_ADJ:LIQUID:n/a]"
 
 #: material_template_default.txt:1198
 msgctxt "MATERIAL_TEMPLATE:SPLEEN_TEMPLATE"
 msgid "[STATE_NAME:GAS:n/a]"
-msgstr ""
+msgstr "[STATE_NAME:GAS:n/a]"
 
 #: material_template_default.txt:1199
 msgctxt "MATERIAL_TEMPLATE:SPLEEN_TEMPLATE"
 msgid "[STATE_ADJ:GAS:n/a]"
-msgstr ""
+msgstr "[STATE_ADJ:GAS:n/a]"
 
 #: material_template_default.txt:1238
 msgctxt "MATERIAL_TEMPLATE:SPLEEN_TEMPLATE"
@@ -43005,22 +43009,22 @@ msgstr ""
 #: material_template_default.txt:1247
 msgctxt "MATERIAL_TEMPLATE:KIDNEY_TEMPLATE"
 msgid "[STATE_NAME:LIQUID:n/a]"
-msgstr ""
+msgstr "[STATE_NAME:LIQUID:n/a]"
 
 #: material_template_default.txt:1248
 msgctxt "MATERIAL_TEMPLATE:KIDNEY_TEMPLATE"
 msgid "[STATE_ADJ:LIQUID:n/a]"
-msgstr ""
+msgstr "[STATE_ADJ:LIQUID:n/a]"
 
 #: material_template_default.txt:1250
 msgctxt "MATERIAL_TEMPLATE:KIDNEY_TEMPLATE"
 msgid "[STATE_NAME:GAS:n/a]"
-msgstr ""
+msgstr "[STATE_NAME:GAS:n/a]"
 
 #: material_template_default.txt:1251
 msgctxt "MATERIAL_TEMPLATE:KIDNEY_TEMPLATE"
 msgid "[STATE_ADJ:GAS:n/a]"
-msgstr ""
+msgstr "[STATE_ADJ:GAS:n/a]"
 
 #: material_template_default.txt:1290
 msgctxt "MATERIAL_TEMPLATE:KIDNEY_TEMPLATE"
@@ -43040,22 +43044,22 @@ msgstr ""
 #: material_template_default.txt:1299
 msgctxt "MATERIAL_TEMPLATE:LEATHER_TEMPLATE"
 msgid "[STATE_NAME:LIQUID:n/a]"
-msgstr ""
+msgstr "[STATE_NAME:LIQUID:n/a]"
 
 #: material_template_default.txt:1300
 msgctxt "MATERIAL_TEMPLATE:LEATHER_TEMPLATE"
 msgid "[STATE_ADJ:LIQUID:n/a]"
-msgstr ""
+msgstr "[STATE_ADJ:LIQUID:n/a]"
 
 #: material_template_default.txt:1302
 msgctxt "MATERIAL_TEMPLATE:LEATHER_TEMPLATE"
 msgid "[STATE_NAME:GAS:n/a]"
-msgstr ""
+msgstr "[STATE_NAME:GAS:n/a]"
 
 #: material_template_default.txt:1303
 msgctxt "MATERIAL_TEMPLATE:LEATHER_TEMPLATE"
 msgid "[STATE_ADJ:GAS:n/a]"
-msgstr ""
+msgstr "[STATE_ADJ:GAS:n/a]"
 
 #: material_template_default.txt:1342
 msgctxt "MATERIAL_TEMPLATE:PARCHMENT_TEMPLATE"
@@ -43070,22 +43074,22 @@ msgstr ""
 #: material_template_default.txt:1345
 msgctxt "MATERIAL_TEMPLATE:PARCHMENT_TEMPLATE"
 msgid "[STATE_NAME:LIQUID:n/a]"
-msgstr ""
+msgstr "[STATE_NAME:LIQUID:n/a]"
 
 #: material_template_default.txt:1346
 msgctxt "MATERIAL_TEMPLATE:PARCHMENT_TEMPLATE"
 msgid "[STATE_ADJ:LIQUID:n/a]"
-msgstr ""
+msgstr "[STATE_ADJ:LIQUID:n/a]"
 
 #: material_template_default.txt:1348
 msgctxt "MATERIAL_TEMPLATE:PARCHMENT_TEMPLATE"
 msgid "[STATE_NAME:GAS:n/a]"
-msgstr ""
+msgstr "[STATE_NAME:GAS:n/a]"
 
 #: material_template_default.txt:1349
 msgctxt "MATERIAL_TEMPLATE:PARCHMENT_TEMPLATE"
 msgid "[STATE_ADJ:GAS:n/a]"
-msgstr ""
+msgstr "[STATE_ADJ:GAS:n/a]"
 
 #: material_template_default.txt:1387
 msgctxt "MATERIAL_TEMPLATE:HORN_TEMPLATE"
@@ -43100,22 +43104,22 @@ msgstr ""
 #: material_template_default.txt:1390
 msgctxt "MATERIAL_TEMPLATE:HORN_TEMPLATE"
 msgid "[STATE_NAME:LIQUID:n/a]"
-msgstr ""
+msgstr "[STATE_NAME:LIQUID:n/a]"
 
 #: material_template_default.txt:1391
 msgctxt "MATERIAL_TEMPLATE:HORN_TEMPLATE"
 msgid "[STATE_ADJ:LIQUID:n/a]"
-msgstr ""
+msgstr "[STATE_ADJ:LIQUID:n/a]"
 
 #: material_template_default.txt:1393
 msgctxt "MATERIAL_TEMPLATE:HORN_TEMPLATE"
 msgid "[STATE_NAME:GAS:n/a]"
-msgstr ""
+msgstr "[STATE_NAME:GAS:n/a]"
 
 #: material_template_default.txt:1394
 msgctxt "MATERIAL_TEMPLATE:HORN_TEMPLATE"
 msgid "[STATE_ADJ:GAS:n/a]"
-msgstr ""
+msgstr "[STATE_ADJ:GAS:n/a]"
 
 #: material_template_default.txt:1433
 msgctxt "MATERIAL_TEMPLATE:HOOF_TEMPLATE"
@@ -43130,22 +43134,22 @@ msgstr ""
 #: material_template_default.txt:1436
 msgctxt "MATERIAL_TEMPLATE:HOOF_TEMPLATE"
 msgid "[STATE_NAME:LIQUID:n/a]"
-msgstr ""
+msgstr "[STATE_NAME:LIQUID:n/a]"
 
 #: material_template_default.txt:1437
 msgctxt "MATERIAL_TEMPLATE:HOOF_TEMPLATE"
 msgid "[STATE_ADJ:LIQUID:n/a]"
-msgstr ""
+msgstr "[STATE_ADJ:LIQUID:n/a]"
 
 #: material_template_default.txt:1439
 msgctxt "MATERIAL_TEMPLATE:HOOF_TEMPLATE"
 msgid "[STATE_NAME:GAS:n/a]"
-msgstr ""
+msgstr "[STATE_NAME:GAS:n/a]"
 
 #: material_template_default.txt:1440
 msgctxt "MATERIAL_TEMPLATE:HOOF_TEMPLATE"
 msgid "[STATE_ADJ:GAS:n/a]"
-msgstr ""
+msgstr "[STATE_ADJ:GAS:n/a]"
 
 #: material_template_default.txt:1480
 msgctxt "MATERIAL_TEMPLATE:PEARL_TEMPLATE"
@@ -43160,22 +43164,22 @@ msgstr ""
 #: material_template_default.txt:1483
 msgctxt "MATERIAL_TEMPLATE:PEARL_TEMPLATE"
 msgid "[STATE_NAME:LIQUID:n/a]"
-msgstr ""
+msgstr "[STATE_NAME:LIQUID:n/a]"
 
 #: material_template_default.txt:1484
 msgctxt "MATERIAL_TEMPLATE:PEARL_TEMPLATE"
 msgid "[STATE_ADJ:LIQUID:n/a]"
-msgstr ""
+msgstr "[STATE_ADJ:LIQUID:n/a]"
 
 #: material_template_default.txt:1486
 msgctxt "MATERIAL_TEMPLATE:PEARL_TEMPLATE"
 msgid "[STATE_NAME:GAS:n/a]"
-msgstr ""
+msgstr "[STATE_NAME:GAS:n/a]"
 
 #: material_template_default.txt:1487
 msgctxt "MATERIAL_TEMPLATE:PEARL_TEMPLATE"
 msgid "[STATE_ADJ:GAS:n/a]"
-msgstr ""
+msgstr "[STATE_ADJ:GAS:n/a]"
 
 #: material_template_default.txt:1525
 msgctxt "MATERIAL_TEMPLATE:SILK_TEMPLATE"
@@ -43190,22 +43194,22 @@ msgstr ""
 #: material_template_default.txt:1528
 msgctxt "MATERIAL_TEMPLATE:SILK_TEMPLATE"
 msgid "[STATE_NAME:LIQUID:n/a]"
-msgstr ""
+msgstr "[STATE_NAME:LIQUID:n/a]"
 
 #: material_template_default.txt:1529
 msgctxt "MATERIAL_TEMPLATE:SILK_TEMPLATE"
 msgid "[STATE_ADJ:LIQUID:n/a]"
-msgstr ""
+msgstr "[STATE_ADJ:LIQUID:n/a]"
 
 #: material_template_default.txt:1531
 msgctxt "MATERIAL_TEMPLATE:SILK_TEMPLATE"
 msgid "[STATE_NAME:GAS:n/a]"
-msgstr ""
+msgstr "[STATE_NAME:GAS:n/a]"
 
 #: material_template_default.txt:1532
 msgctxt "MATERIAL_TEMPLATE:SILK_TEMPLATE"
 msgid "[STATE_ADJ:GAS:n/a]"
-msgstr ""
+msgstr "[STATE_ADJ:GAS:n/a]"
 
 #: material_template_default.txt:1570
 msgctxt "MATERIAL_TEMPLATE:BLOOD_TEMPLATE"
@@ -43370,22 +43374,22 @@ msgstr ""
 #: material_template_default.txt:1802
 msgctxt "MATERIAL_TEMPLATE:SHELL_TEMPLATE"
 msgid "[STATE_NAME:LIQUID:n/a]"
-msgstr ""
+msgstr "[STATE_NAME:LIQUID:n/a]"
 
 #: material_template_default.txt:1803
 msgctxt "MATERIAL_TEMPLATE:SHELL_TEMPLATE"
 msgid "[STATE_ADJ:LIQUID:n/a]"
-msgstr ""
+msgstr "[STATE_ADJ:LIQUID:n/a]"
 
 #: material_template_default.txt:1805
 msgctxt "MATERIAL_TEMPLATE:SHELL_TEMPLATE"
 msgid "[STATE_NAME:GAS:n/a]"
-msgstr ""
+msgstr "[STATE_NAME:GAS:n/a]"
 
 #: material_template_default.txt:1806
 msgctxt "MATERIAL_TEMPLATE:SHELL_TEMPLATE"
 msgid "[STATE_ADJ:GAS:n/a]"
-msgstr ""
+msgstr "[STATE_ADJ:GAS:n/a]"
 
 #: material_template_default.txt:1846
 msgctxt "MATERIAL_TEMPLATE:SOAP_TEMPLATE"
@@ -43410,12 +43414,12 @@ msgstr ""
 #: material_template_default.txt:1852
 msgctxt "MATERIAL_TEMPLATE:SOAP_TEMPLATE"
 msgid "[STATE_NAME:GAS:n/a]"
-msgstr ""
+msgstr "[STATE_NAME:GAS:n/a]"
 
 #: material_template_default.txt:1853
 msgctxt "MATERIAL_TEMPLATE:SOAP_TEMPLATE"
 msgid "[STATE_ADJ:GAS:n/a]"
-msgstr ""
+msgstr "[STATE_ADJ:GAS:n/a]"
 
 #: material_template_default.txt:1892
 msgctxt "MATERIAL_TEMPLATE:TALLOW_TEMPLATE"
@@ -43440,12 +43444,12 @@ msgstr ""
 #: material_template_default.txt:1898
 msgctxt "MATERIAL_TEMPLATE:TALLOW_TEMPLATE"
 msgid "[STATE_NAME:GAS:n/a]"
-msgstr ""
+msgstr "[STATE_NAME:GAS:n/a]"
 
 #: material_template_default.txt:1899
 msgctxt "MATERIAL_TEMPLATE:TALLOW_TEMPLATE"
 msgid "[STATE_ADJ:GAS:n/a]"
-msgstr ""
+msgstr "[STATE_ADJ:GAS:n/a]"
 
 #: material_template_default.txt:1942
 msgctxt "MATERIAL_TEMPLATE:CHITIN_TEMPLATE"
@@ -43460,22 +43464,22 @@ msgstr ""
 #: material_template_default.txt:1945
 msgctxt "MATERIAL_TEMPLATE:CHITIN_TEMPLATE"
 msgid "[STATE_NAME:LIQUID:n/a]"
-msgstr ""
+msgstr "[STATE_NAME:LIQUID:n/a]"
 
 #: material_template_default.txt:1946
 msgctxt "MATERIAL_TEMPLATE:CHITIN_TEMPLATE"
 msgid "[STATE_ADJ:LIQUID:n/a]"
-msgstr ""
+msgstr "[STATE_ADJ:LIQUID:n/a]"
 
 #: material_template_default.txt:1948
 msgctxt "MATERIAL_TEMPLATE:CHITIN_TEMPLATE"
 msgid "[STATE_NAME:GAS:n/a]"
-msgstr ""
+msgstr "[STATE_NAME:GAS:n/a]"
 
 #: material_template_default.txt:1949
 msgctxt "MATERIAL_TEMPLATE:CHITIN_TEMPLATE"
 msgid "[STATE_ADJ:GAS:n/a]"
-msgstr ""
+msgstr "[STATE_ADJ:GAS:n/a]"
 
 #: material_template_default.txt:1987
 msgctxt "MATERIAL_TEMPLATE:MILK_TEMPLATE"
@@ -43500,12 +43504,12 @@ msgstr ""
 #: material_template_default.txt:1993
 msgctxt "MATERIAL_TEMPLATE:MILK_TEMPLATE"
 msgid "[STATE_NAME:GAS:n/a]"
-msgstr ""
+msgstr "[STATE_NAME:GAS:n/a]"
 
 #: material_template_default.txt:1994
 msgctxt "MATERIAL_TEMPLATE:MILK_TEMPLATE"
 msgid "[STATE_ADJ:GAS:n/a]"
-msgstr ""
+msgstr "[STATE_ADJ:GAS:n/a]"
 
 #: material_template_default.txt:2038
 msgctxt "MATERIAL_TEMPLATE:CREATURE_CHEESE_TEMPLATE"
@@ -43530,12 +43534,12 @@ msgstr ""
 #: material_template_default.txt:2044
 msgctxt "MATERIAL_TEMPLATE:CREATURE_CHEESE_TEMPLATE"
 msgid "[STATE_NAME:GAS:n/a]"
-msgstr ""
+msgstr "[STATE_NAME:GAS:n/a]"
 
 #: material_template_default.txt:2045
 msgctxt "MATERIAL_TEMPLATE:CREATURE_CHEESE_TEMPLATE"
 msgid "[STATE_ADJ:GAS:n/a]"
-msgstr ""
+msgstr "[STATE_ADJ:GAS:n/a]"
 
 #: material_template_default.txt:2088
 msgctxt "MATERIAL_TEMPLATE:STRUCTURAL_PLANT_TEMPLATE"
@@ -43965,22 +43969,22 @@ msgstr ""
 #: material_template_default.txt:2701
 msgctxt "MATERIAL_TEMPLATE:EGGSHELL_TEMPLATE"
 msgid "[STATE_NAME:LIQUID:n/a]"
-msgstr ""
+msgstr "[STATE_NAME:LIQUID:n/a]"
 
 #: material_template_default.txt:2702
 msgctxt "MATERIAL_TEMPLATE:EGGSHELL_TEMPLATE"
 msgid "[STATE_ADJ:LIQUID:n/a]"
-msgstr ""
+msgstr "[STATE_ADJ:LIQUID:n/a]"
 
 #: material_template_default.txt:2704
 msgctxt "MATERIAL_TEMPLATE:EGGSHELL_TEMPLATE"
 msgid "[STATE_NAME:GAS:n/a]"
-msgstr ""
+msgstr "[STATE_NAME:GAS:n/a]"
 
 #: material_template_default.txt:2705
 msgctxt "MATERIAL_TEMPLATE:EGGSHELL_TEMPLATE"
 msgid "[STATE_ADJ:GAS:n/a]"
-msgstr ""
+msgstr "[STATE_ADJ:GAS:n/a]"
 
 #: material_template_default.txt:2743
 msgctxt "MATERIAL_TEMPLATE:EGG_WHITE_TEMPLATE"
@@ -44095,12 +44099,12 @@ msgstr ""
 #: material_template_default.txt:2888
 msgctxt "MATERIAL_TEMPLATE:PLANT_SOAP_TEMPLATE"
 msgid "[STATE_NAME:GAS:n/a]"
-msgstr ""
+msgstr "[STATE_NAME:GAS:n/a]"
 
 #: material_template_default.txt:2889
 msgctxt "MATERIAL_TEMPLATE:PLANT_SOAP_TEMPLATE"
 msgid "[STATE_ADJ:GAS:n/a]"
-msgstr ""
+msgstr "[STATE_ADJ:GAS:n/a]"
 
 #: material_template_default.txt:2927
 msgctxt "MATERIAL_TEMPLATE:WAX_TEMPLATE"
@@ -44125,12 +44129,12 @@ msgstr ""
 #: material_template_default.txt:2933
 msgctxt "MATERIAL_TEMPLATE:WAX_TEMPLATE"
 msgid "[STATE_NAME:GAS:n/a]"
-msgstr ""
+msgstr "[STATE_NAME:GAS:n/a]"
 
 #: material_template_default.txt:2934
 msgctxt "MATERIAL_TEMPLATE:WAX_TEMPLATE"
 msgid "[STATE_ADJ:GAS:n/a]"
-msgstr ""
+msgstr "[STATE_ADJ:GAS:n/a]"
 
 #: material_template_default.txt:2973
 msgctxt "MATERIAL_TEMPLATE:CREATURE_ALCOHOL_TEMPLATE"
@@ -44190,22 +44194,22 @@ msgstr ""
 #: material_template_default.txt:3037
 msgctxt "MATERIAL_TEMPLATE:LEATHERY_EGGSHELL_TEMPLATE"
 msgid "[STATE_NAME:LIQUID:n/a]"
-msgstr ""
+msgstr "[STATE_NAME:LIQUID:n/a]"
 
 #: material_template_default.txt:3038
 msgctxt "MATERIAL_TEMPLATE:LEATHERY_EGGSHELL_TEMPLATE"
 msgid "[STATE_ADJ:LIQUID:n/a]"
-msgstr ""
+msgstr "[STATE_ADJ:LIQUID:n/a]"
 
 #: material_template_default.txt:3040
 msgctxt "MATERIAL_TEMPLATE:LEATHERY_EGGSHELL_TEMPLATE"
 msgid "[STATE_NAME:GAS:n/a]"
-msgstr ""
+msgstr "[STATE_NAME:GAS:n/a]"
 
 #: material_template_default.txt:3041
 msgctxt "MATERIAL_TEMPLATE:LEATHERY_EGGSHELL_TEMPLATE"
 msgid "[STATE_ADJ:GAS:n/a]"
-msgstr ""
+msgstr "[STATE_ADJ:GAS:n/a]"
 
 #: material_template_default.txt:3079
 msgctxt "MATERIAL_TEMPLATE:INK_TEMPLATE"
@@ -44250,22 +44254,22 @@ msgstr ""
 #: material_template_default.txt:3126
 msgctxt "MATERIAL_TEMPLATE:SPONGE_TEMPLATE"
 msgid "[STATE_NAME:LIQUID:n/a]"
-msgstr ""
+msgstr "[STATE_NAME:LIQUID:n/a]"
 
 #: material_template_default.txt:3127
 msgctxt "MATERIAL_TEMPLATE:SPONGE_TEMPLATE"
 msgid "[STATE_ADJ:LIQUID:n/a]"
-msgstr ""
+msgstr "[STATE_ADJ:LIQUID:n/a]"
 
 #: material_template_default.txt:3129
 msgctxt "MATERIAL_TEMPLATE:SPONGE_TEMPLATE"
 msgid "[STATE_NAME:GAS:n/a]"
-msgstr ""
+msgstr "[STATE_NAME:GAS:n/a]"
 
 #: material_template_default.txt:3130
 msgctxt "MATERIAL_TEMPLATE:SPONGE_TEMPLATE"
 msgid "[STATE_ADJ:GAS:n/a]"
-msgstr ""
+msgstr "[STATE_ADJ:GAS:n/a]"
 
 #: material_template_default.txt:3167
 msgctxt "MATERIAL_TEMPLATE:TEARS_TEMPLATE"
@@ -44400,7 +44404,7 @@ msgstr ""
 #: plant_crops.txt:44
 msgctxt "PLANT:SINGLE-GRAIN_WHEAT"
 msgid "[PREFSTRING:beer]"
-msgstr ""
+msgstr "[PREFSTRING:맥주]"
 
 #: plant_crops.txt:46
 msgctxt "PLANT:SINGLE-GRAIN_WHEAT"
@@ -44450,7 +44454,7 @@ msgstr ""
 #: plant_crops.txt:90
 msgctxt "PLANT:TWO-GRAIN_WHEAT"
 msgid "[PREFSTRING:beer]"
-msgstr ""
+msgstr "[PREFSTRING:맥주]"
 
 #: plant_crops.txt:92
 msgctxt "PLANT:TWO-GRAIN_WHEAT"
@@ -44500,7 +44504,7 @@ msgstr ""
 #: plant_crops.txt:136
 msgctxt "PLANT:SOFT_WHEAT"
 msgid "[PREFSTRING:beer]"
-msgstr ""
+msgstr "[PREFSTRING:맥주]"
 
 #: plant_crops.txt:138
 msgctxt "PLANT:SOFT_WHEAT"
@@ -44550,7 +44554,7 @@ msgstr ""
 #: plant_crops.txt:182
 msgctxt "PLANT:HARD_WHEAT"
 msgid "[PREFSTRING:beer]"
-msgstr ""
+msgstr "[PREFSTRING:맥주]"
 
 #: plant_crops.txt:184
 msgctxt "PLANT:HARD_WHEAT"
@@ -44600,7 +44604,7 @@ msgstr ""
 #: plant_crops.txt:228
 msgctxt "PLANT:SPELT"
 msgid "[PREFSTRING:beer]"
-msgstr ""
+msgstr "[PREFSTRING:맥주]"
 
 #: plant_crops.txt:230
 msgctxt "PLANT:SPELT"
@@ -44700,7 +44704,7 @@ msgstr ""
 #: plant_crops.txt:323
 msgctxt "PLANT:BUCKWHEAT"
 msgid "[PREFSTRING:beer]"
-msgstr ""
+msgstr "[PREFSTRING:맥주]"
 
 #: plant_crops.txt:325
 msgctxt "PLANT:BUCKWHEAT"
@@ -44740,7 +44744,7 @@ msgstr ""
 #: plant_crops.txt:363
 msgctxt "PLANT:OATS"
 msgid "[PREFSTRING:beer]"
-msgstr ""
+msgstr "[PREFSTRING:맥주]"
 
 #: plant_crops.txt:365
 msgctxt "PLANT:OATS"
@@ -44825,7 +44829,7 @@ msgstr ""
 #: plant_crops.txt:447
 msgctxt "PLANT:RYE"
 msgid "[PREFSTRING:beer]"
-msgstr ""
+msgstr "[PREFSTRING:맥주]"
 
 #: plant_crops.txt:449
 msgctxt "PLANT:RYE"
@@ -44875,7 +44879,7 @@ msgstr ""
 #: plant_crops.txt:497
 msgctxt "PLANT:SORGHUM"
 msgid "[PREFSTRING:beer]"
-msgstr ""
+msgstr "[PREFSTRING:맥주]"
 
 #: plant_crops.txt:499
 msgctxt "PLANT:SORGHUM"
@@ -44890,117 +44894,117 @@ msgstr ""
 #: plant_crops.txt:511
 msgctxt "PLANT:RICE"
 msgid "[NAME:rice plant]"
-msgstr ""
+msgstr "[NAME:벼]"
 
 #: plant_crops.txt:511
 msgctxt "PLANT:RICE"
 msgid "[NAME_PLURAL:rice plants]"
-msgstr ""
+msgstr "[NAME_PLURAL:벼들]"
 
 #: plant_crops.txt:511
 msgctxt "PLANT:RICE"
 msgid "[ADJ:rice plant]"
-msgstr ""
+msgstr "[ADJ:벼]"
 
 #: plant_crops.txt:519
 msgctxt "PLANT:RICE"
 msgid "[STATE_NAME_ADJ:ALL_SOLID:frozen rice beer]"
-msgstr ""
+msgstr "[STATE_NAME_ADJ:ALL_SOLID:얼은 쌀맥주]"
 
 #: plant_crops.txt:520
 msgctxt "PLANT:RICE"
 msgid "[STATE_NAME_ADJ:LIQUID:rice beer]"
-msgstr ""
+msgstr "[STATE_NAME_ADJ:LIQUID:쌀맥주]"
 
 #: plant_crops.txt:521
 msgctxt "PLANT:RICE"
 msgid "[STATE_NAME_ADJ:GAS:boiling rice beer]"
-msgstr ""
+msgstr "[STATE_NAME_ADJ:GAS:기화된 쌀맥주]"
 
 #: plant_crops.txt:530
 msgctxt "PLANT:RICE"
 msgid "[STATE_NAME_ADJ:ALL_SOLID:rice flour]"
-msgstr ""
+msgstr "[STATE_NAME_ADJ:ALL_SOLID:쌀가루]"
 
 #: plant_crops.txt:546
 msgctxt "PLANT:RICE"
 msgid "[SEED:rice:rice:]"
-msgstr ""
+msgstr "[SEED:볍씨:볍씨]"
 
 #: plant_crops.txt:549
 msgctxt "PLANT:RICE"
 msgid "[PREFSTRING:grain]"
-msgstr ""
+msgstr "[PREFSTRING:낱알]"
 
 #: plant_crops.txt:551
 msgctxt "PLANT:RICE"
 msgid "[GROWTH_NAME:rice leaf:rice leaves]"
-msgstr ""
+msgstr "[GROWTH_NAME:벼 잎:벼 잎들]"
 
 #: plant_crops.txt:557
 msgctxt "PLANT:MAIZE"
 msgid "[NAME:maize plant]"
-msgstr ""
+msgstr "[NAME:옥수수]"
 
 #: plant_crops.txt:557
 msgctxt "PLANT:MAIZE"
 msgid "[NAME_PLURAL:maize plants]"
-msgstr ""
+msgstr "[NAME_PLURAL:옥수수들]"
 
 #: plant_crops.txt:557
 msgctxt "PLANT:MAIZE"
 msgid "[ADJ:maize plant]"
-msgstr ""
+msgstr "[ADJ:옥수수]"
 
 #: plant_crops.txt:565
 msgctxt "PLANT:MAIZE"
 msgid "[STATE_NAME_ADJ:ALL_SOLID:frozen maize beer]"
-msgstr ""
+msgstr "[STATE_NAME_ADJ:ALL_SOLID:얼은 옥수수맥주]"
 
 #: plant_crops.txt:566
 msgctxt "PLANT:MAIZE"
 msgid "[STATE_NAME_ADJ:LIQUID:maize beer]"
-msgstr ""
+msgstr "[STATE_NAME_ADJ:LIQUID:옥수수 맥주]"
 
 #: plant_crops.txt:567
 msgctxt "PLANT:MAIZE"
 msgid "[STATE_NAME_ADJ:GAS:boiling maize beer]"
-msgstr ""
+msgstr "[STATE_NAME_ADJ:GAS:기화된 옥수수 맥주]"
 
 #: plant_crops.txt:576
 msgctxt "PLANT:MAIZE"
 msgid "[STATE_NAME_ADJ:ALL_SOLID:maize flour]"
-msgstr ""
+msgstr "[STATE_NAME_ADJ:ALL_SOLID:옥수수가루]"
 
 #: plant_crops.txt:592
 msgctxt "PLANT:MAIZE"
 msgid "[SEED:maize:maize:]"
-msgstr ""
+msgstr "[SEED:옥수수 알맹이:옥수수 알맹이:]"
 
 #: plant_crops.txt:597
 msgctxt "PLANT:MAIZE"
 msgid "[PREFSTRING:popped kernels]"
-msgstr ""
+msgstr "[PREFSTRING:알맹이]"
 
 #: plant_crops.txt:599
 msgctxt "PLANT:MAIZE"
 msgid "[GROWTH_NAME:maize leaf:maize leaves]"
-msgstr ""
+msgstr "[GROWTH_NAME:옥수수 잎:옥수수 잎들]"
 
 #: plant_crops.txt:605
 msgctxt "PLANT:QUINOA"
 msgid "[NAME:quinoa]"
-msgstr ""
+msgstr "[NAME:퀴노아]"
 
 #: plant_crops.txt:605
 msgctxt "PLANT:QUINOA"
 msgid "[NAME_PLURAL:quinoa]"
-msgstr ""
+msgstr "[NAME_PLURAL:퀴노아]"
 
 #: plant_crops.txt:605
 msgctxt "PLANT:QUINOA"
 msgid "[ADJ:quinoa]"
-msgstr ""
+msgstr "[ADJ:퀴노아]"
 
 #: plant_crops.txt:613
 msgctxt "PLANT:QUINOA"
@@ -45030,7 +45034,7 @@ msgstr ""
 #: plant_crops.txt:646
 msgctxt "PLANT:QUINOA"
 msgid "[PREFSTRING:beer]"
-msgstr ""
+msgstr "[PREFSTRING:맥주]"
 
 #: plant_crops.txt:648
 msgctxt "PLANT:QUINOA"
@@ -45085,7 +45089,7 @@ msgstr ""
 #: plant_crops.txt:701
 msgctxt "PLANT:KANIWA"
 msgid "[PREFSTRING:beer]"
-msgstr ""
+msgstr "[PREFSTRING:맥주]"
 
 #: plant_crops.txt:703
 msgctxt "PLANT:KANIWA"
@@ -45716,7 +45720,7 @@ msgstr ""
 #: plant_crops.txt:1308
 msgctxt "PLANT:FLAX"
 msgid "[STATE_NAME_ADJ:GAS:n/a]"
-msgstr ""
+msgstr "[STATE_NAME_ADJ:GAS:n/a]"
 
 #: plant_crops.txt:1312
 msgctxt "PLANT:FLAX"
@@ -45866,7 +45870,7 @@ msgstr ""
 #: plant_crops.txt:1423
 msgctxt "PLANT:HEMP"
 msgid "[STATE_NAME_ADJ:GAS:n/a]"
-msgstr ""
+msgstr "[STATE_NAME_ADJ:GAS:n/a]"
 
 #: plant_crops.txt:1427
 msgctxt "PLANT:HEMP"
@@ -45961,7 +45965,7 @@ msgstr ""
 #: plant_crops.txt:1489
 msgctxt "PLANT:COTTON"
 msgid "[STATE_NAME_ADJ:GAS:n/a]"
-msgstr ""
+msgstr "[STATE_NAME_ADJ:GAS:n/a]"
 
 #: plant_crops.txt:1499
 msgctxt "PLANT:COTTON"
@@ -46101,7 +46105,7 @@ msgstr ""
 #: plant_crops.txt:1586
 msgctxt "PLANT:KENAF"
 msgid "[STATE_NAME_ADJ:GAS:n/a]"
-msgstr ""
+msgstr "[STATE_NAME_ADJ:GAS:n/a]"
 
 #: plant_crops.txt:1596
 msgctxt "PLANT:KENAF"
@@ -50471,7 +50475,7 @@ msgstr ""
 #: plant_new_trees.txt:1818
 msgctxt "PLANT:OLIVE"
 msgid "[STATE_NAME_ADJ:GAS:n/a]"
-msgstr ""
+msgstr "[STATE_NAME_ADJ:GAS:n/a]"
 
 #: plant_new_trees.txt:1822
 msgctxt "PLANT:OLIVE"
@@ -51436,17 +51440,17 @@ msgstr ""
 #: plant_standard.txt:6
 msgctxt "PLANT:MUSHROOM_HELMET_PLUMP"
 msgid "[NAME:plump helmet]"
-msgstr ""
+msgstr "[NAME:통통버섯]"
 
 #: plant_standard.txt:6
 msgctxt "PLANT:MUSHROOM_HELMET_PLUMP"
 msgid "[NAME_PLURAL:plump helmets]"
-msgstr ""
+msgstr "[NAME_PLURAL:통통버섯들]"
 
 #: plant_standard.txt:6
 msgctxt "PLANT:MUSHROOM_HELMET_PLUMP"
 msgid "[ADJ:plump helmet]"
-msgstr ""
+msgstr "[ADJ:통통버섯]"
 
 #: plant_standard.txt:34
 msgctxt "PLANT:MUSHROOM_HELMET_PLUMP"
@@ -51466,7 +51470,7 @@ msgstr ""
 #: plant_standard.txt:52
 msgctxt "PLANT:MUSHROOM_HELMET_PLUMP"
 msgid "[SEED:plump helmet spawn:plump helmet spawn:]"
-msgstr ""
+msgstr "[SEED:통통버섯 포자:통통버섯 포자:]"
 
 #: plant_standard.txt:56
 msgctxt "PLANT:MUSHROOM_HELMET_PLUMP"
@@ -51476,17 +51480,17 @@ msgstr ""
 #: plant_standard.txt:66
 msgctxt "PLANT:GRASS_TAIL_PIG"
 msgid "[NAME:pig tail]"
-msgstr ""
+msgstr "[NAME:돼지꼬리풀]"
 
 #: plant_standard.txt:66
 msgctxt "PLANT:GRASS_TAIL_PIG"
 msgid "[NAME_PLURAL:pig tails]"
-msgstr ""
+msgstr "[NAME_PLURAL:돼지꼬리풀들]"
 
 #: plant_standard.txt:66
 msgctxt "PLANT:GRASS_TAIL_PIG"
 msgid "[ADJ:pig tail]"
-msgstr ""
+msgstr "[ADJ:돼지꼬리풀]"
 
 #: plant_standard.txt:76
 msgctxt "PLANT:GRASS_TAIL_PIG"
@@ -51506,22 +51510,22 @@ msgstr ""
 #: plant_standard.txt:90
 msgctxt "PLANT:GRASS_TAIL_PIG"
 msgid "[SEED:pig tail seed:pig tail seeds:]"
-msgstr ""
+msgstr "[SEED:돼지꼬리풀 씨앗:돼지꼬리풀 씨앗들:]"
 
 #: plant_standard.txt:95
 msgctxt "PLANT:GRASS_TAIL_PIG"
 msgid "[STATE_NAME_ADJ:SOLID:pig tail]"
-msgstr ""
+msgstr "[STATE_NAME_ADJ:SOLID:돼지꼬리풀]"
 
 #: plant_standard.txt:96
 msgctxt "PLANT:GRASS_TAIL_PIG"
 msgid "[STATE_NAME_ADJ:SOLID_PASTE:pig tail slurry]"
-msgstr ""
+msgstr "[STATE_NAME_ADJ:SOLID_PASTE:돼지꼬리풀 곤죽]"
 
 #: plant_standard.txt:97
 msgctxt "PLANT:GRASS_TAIL_PIG"
 msgid "[STATE_NAME_ADJ:SOLID_PRESSED:pig tail paper]"
-msgstr ""
+msgstr "[STATE_NAME_ADJ:SOLID_PRESSED:돼지꼬리풀 종이]"
 
 #: plant_standard.txt:103
 msgctxt "PLANT:GRASS_TAIL_PIG"
@@ -51531,17 +51535,17 @@ msgstr ""
 #: plant_standard.txt:113
 msgctxt "PLANT:GRASS_WHEAT_CAVE"
 msgid "[NAME:cave wheat]"
-msgstr ""
+msgstr "[NAME:동굴밀]"
 
 #: plant_standard.txt:113
 msgctxt "PLANT:GRASS_WHEAT_CAVE"
 msgid "[NAME_PLURAL:cave wheat]"
-msgstr ""
+msgstr "[NAME_PLURAL:동굴밀]"
 
 #: plant_standard.txt:113
 msgctxt "PLANT:GRASS_WHEAT_CAVE"
 msgid "[ADJ:cave wheat]"
-msgstr ""
+msgstr "[ADJ:동굴밀]"
 
 #: plant_standard.txt:123
 msgctxt "PLANT:GRASS_WHEAT_CAVE"
@@ -51566,7 +51570,7 @@ msgstr ""
 #: plant_standard.txt:146
 msgctxt "PLANT:GRASS_WHEAT_CAVE"
 msgid "[SEED:cave wheat seed:cave wheat seeds:]"
-msgstr ""
+msgstr "[SEED:동굴밀 씨앗:동굴밀 씨앗들:]"
 
 #: plant_standard.txt:150
 msgctxt "PLANT:GRASS_WHEAT_CAVE"
@@ -51576,17 +51580,17 @@ msgstr ""
 #: plant_standard.txt:160
 msgctxt "PLANT:POD_SWEET"
 msgid "[NAME:sweet pod]"
-msgstr ""
+msgstr "[NAME:사탕콩]"
 
 #: plant_standard.txt:160
 msgctxt "PLANT:POD_SWEET"
 msgid "[NAME_PLURAL:sweet pods]"
-msgstr ""
+msgstr "[NAME_PLURAL:사탕콩들]"
 
 #: plant_standard.txt:160
 msgctxt "PLANT:POD_SWEET"
 msgid "[ADJ:sweet pod]"
-msgstr ""
+msgstr "[ADJ:사탕콩]"
 
 #: plant_standard.txt:170
 msgctxt "PLANT:POD_SWEET"
@@ -51626,7 +51630,7 @@ msgstr ""
 #: plant_standard.txt:205
 msgctxt "PLANT:POD_SWEET"
 msgid "[SEED:sweet pod seed:sweet pod seeds:]"
-msgstr ""
+msgstr "[SEED:사탕콩 씨앗:사탕콩 씨앗들:]"
 
 #: plant_standard.txt:209
 msgctxt "PLANT:POD_SWEET"
@@ -51636,17 +51640,17 @@ msgstr ""
 #: plant_standard.txt:219
 msgctxt "PLANT:BUSH_QUARRY"
 msgid "[NAME:quarry bush]"
-msgstr ""
+msgstr "[NAME:암석덤불]"
 
 #: plant_standard.txt:219
 msgctxt "PLANT:BUSH_QUARRY"
 msgid "[NAME_PLURAL:quarry bushes]"
-msgstr ""
+msgstr "[NAME_PLURAL:암석덤불들]"
 
 #: plant_standard.txt:219
 msgctxt "PLANT:BUSH_QUARRY"
 msgid "[ADJ:quarry bush]"
-msgstr ""
+msgstr "[ADJ:암석덤불]"
 
 #: plant_standard.txt:229
 msgctxt "PLANT:BUSH_QUARRY"
@@ -51676,7 +51680,7 @@ msgstr ""
 #: plant_standard.txt:238
 msgctxt "PLANT:BUSH_QUARRY"
 msgid "[STATE_NAME_ADJ:GAS:n/a]"
-msgstr ""
+msgstr "[STATE_NAME_ADJ:GAS:n/a]"
 
 #: plant_standard.txt:246
 msgctxt "PLANT:BUSH_QUARRY"
@@ -51706,7 +51710,7 @@ msgstr ""
 #: plant_standard.txt:270
 msgctxt "PLANT:BUSH_QUARRY"
 msgid "[GROWTH_NAME:quarry bush leaf:quarry bush leaves]"
-msgstr ""
+msgstr "[GROWTH_NAME:암석덤불 이파리:암석덤불 이파리들]"
 
 #: plant_standard.txt:276
 msgctxt "PLANT:ROOT_MUCK"

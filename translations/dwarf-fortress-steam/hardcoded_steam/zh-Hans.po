@@ -82,15 +82,17 @@
 # twobit 02, 2022
 # 许 豪, 2022
 # Azur Crystal, 2022
-# 奥里给大菠萝, 2022
 # Wiznasim Wu, 2022
-# Peroxide Hydrogen, 2022
 # Jingyuan Xie, 2022
 # H_Hedgehog, 2022
+# r w, 2022
+# Peroxide Hydrogen, 2022
+# 经纬 赵, 2022
+# 奥里给大菠萝, 2022
 # 
 msgid ""
 msgstr ""
-"Last-Translator: H_Hedgehog, 2022\n"
+"Last-Translator: 奥里给大菠萝, 2022\n"
 "Language-Team: Chinese Simplified (https://www.transifex.com/dwarf-fortress-translation/teams/22396/zh-Hans/)\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -1700,7 +1702,7 @@ msgstr "一支军队正在入侵！"
 
 #: stringdump_steam_2022_12_06.txt:453
 msgid "army is located out of bounds: teleporting"
-msgstr "军队位于界外：传送"
+msgstr "军队位于界外：传送中"
 
 #: stringdump_steam_2022_12_06.txt:455
 msgid "A vile force of darkness has arrived, seeking a parley!"
@@ -1773,7 +1775,7 @@ msgstr "是"
 
 #: stringdump_steam_2022_12_06.txt:482
 msgid "surrounded by "
-msgstr "被...围绕"
+msgstr "被围绕于"
 
 #: stringdump_steam_2022_12_06.txt:483
 msgid "shooting "
@@ -4541,7 +4543,7 @@ msgstr "需要"
 
 #: stringdump_steam_2022_12_06.txt:1179
 msgid "*** Forbidden ***"
-msgstr "*** 禁戒 ***"
+msgstr "*** 禁止 ***"
 
 #: stringdump_steam_2022_12_06.txt:1180
 msgid "Trap Occupied:"
@@ -5541,7 +5543,7 @@ msgstr "是"
 
 #: stringdump_steam_2022_12_06.txt:1438
 msgid "is in "
-msgstr "在..."
+msgstr "在"
 
 #: stringdump_steam_2022_12_06.txt:1439
 msgid "didn't feel "
@@ -5553,7 +5555,7 @@ msgstr "感觉"
 
 #: stringdump_steam_2022_12_06.txt:1441
 msgid "was in "
-msgstr "在..."
+msgstr "曾在"
 
 #: stringdump_steam_2022_12_06.txt:1442
 msgid "grieved"
@@ -6233,7 +6235,7 @@ msgstr "舆图"
 
 #: stringdump_steam_2022_12_06.txt:1618
 msgid ", authored by "
-msgstr "，由...撰写"
+msgstr "，撰写自"
 
 #: stringdump_steam_2022_12_06.txt:1619
 msgid "star chart"
@@ -6902,7 +6904,7 @@ msgstr "经过长途跋涉之旅从"
 
 #: stringdump_steam_2022_12_06.txt:1787
 msgid " led by "
-msgstr "由...领着"
+msgstr "受领导于"
 
 #: stringdump_steam_2022_12_06.txt:1788
 msgid " fled from the area just before an army"
@@ -7950,7 +7952,7 @@ msgstr "一些地方即使经验丰富的老手也难以立足，如果你不知
 msgid ""
 "If this is your first time playing, please heed the embark warnings about "
 "aquifers, saltwater, and other hazards. "
-msgstr "如果这是你第一次玩。请仔细检查含水层，咸水和其他灾害的警告。"
+msgstr "如果这是你第一次游玩。请仔细检查含水层，咸水和其他灾害的警告。"
 
 #: stringdump_steam_2022_12_06.txt:2047
 msgid "On your own!"
@@ -9051,8 +9053,7 @@ msgid ""
 "detail.  Once you assign citizens to the task, you can then set "
 "[C:5:0:1]\"Only selected do this\"[C:7:0:0] if you want to restrict it."
 msgstr ""
-"如果一份工作没有默认的工作清单支持，你可以新建一个自定义的工作清单。一旦你为这个工作清单指派了矮人，你便可以设定[C:5:0:1]\"Only "
-"selected do this\"[C:7:0:0]来精准的控制它。"
+"如果一份工作没有默认的工作清单支持，你可以新建一个自定义的工作清单。一旦你为这个工作清单指派了矮人，你便可以设定[C:5:0:1]\"只有被选中的人才做这个\"[C:7:0:0]来精准的控制它。"
 
 #: stringdump_steam_2022_12_06.txt:2242
 msgid ""
@@ -9816,7 +9817,7 @@ msgstr "当决定将[C:1:0:1]行宫[C:7:0:0]献给哪个行会时，你可以滚
 msgid ""
 "[C:1:0:1]Guildhalls[C:7:0:0] are where the workers of specific professions "
 "gather to socialize and share their knowledge. "
-msgstr "[C:1:0:1]公会[C:7:0:0]是特定职业的工人聚集在一起进行社交和分享知识的地方。"
+msgstr "[C:1:0:1]行会[C:7:0:0]是特定职业的工人聚集在一起进行社交和分享知识的地方。"
 
 #: stringdump_steam_2022_12_06.txt:2363
 msgid "[C:7:0:1]Guildhalls[C:7:0:0]"
@@ -10412,7 +10413,7 @@ msgstr "射击"
 
 #: stringdump_steam_2022_12_06.txt:2483
 msgid " surrounded by "
-msgstr "被...围绕"
+msgstr "周围有"
 
 #: stringdump_steam_2022_12_06.txt:2484
 msgid " prostrating itself before "
@@ -11548,15 +11549,15 @@ msgstr "穴居人系数(增加每次袭击)"
 
 #: stringdump_steam_2022_12_06.txt:2771
 msgid "Diplomacy tree-fell count (untamed wilds)"
-msgstr ""
+msgstr "外交树叶计数（未驯化的野蛮人）"
 
 #: stringdump_steam_2022_12_06.txt:2772
 msgid "Diplomacy tree-fell count"
-msgstr ""
+msgstr "外交树叶计数"
 
 #: stringdump_steam_2022_12_06.txt:2773
 msgid "Minimum raids before first siege (per civ)"
-msgstr ""
+msgstr "第一次围攻前的最低突袭次数（每个文明）。"
 
 #: stringdump_steam_2022_12_06.txt:2774
 msgid "Invasion cap (monsters, attack three+)"
@@ -11564,7 +11565,7 @@ msgstr "入侵上限(怪物，三倍袭击+)"
 
 #: stringdump_steam_2022_12_06.txt:2775
 msgid "Siege frequency (percentage, otherwise raid)"
-msgstr ""
+msgstr "围攻频率(百分比，否则为突击)"
 
 #: stringdump_steam_2022_12_06.txt:2776
 msgid "Minimum raids between sieges (per civ)"
@@ -11640,7 +11641,7 @@ msgstr "无法打开"
 
 #: stringdump_steam_2022_12_06.txt:2802
 msgid "Demand period (more = fewer)"
-msgstr ""
+msgstr "需求周期（更长=更少需求）"
 
 #: stringdump_steam_2022_12_06.txt:2803
 msgid " for writing"
@@ -11656,7 +11657,7 @@ msgstr "大行会的价值"
 
 #: stringdump_steam_2022_12_06.txt:2806
 msgid "Mandate period (more = fewer)"
-msgstr ""
+msgstr "授权周期（更长=更少）"
 
 #: stringdump_steam_2022_12_06.txt:2807
 msgid "Grand guild unit count"
@@ -11664,7 +11665,7 @@ msgstr "大行会单位数"
 
 #: stringdump_steam_2022_12_06.txt:2873
 msgid "prefs"
-msgstr ""
+msgstr "预设"
 
 #: stringdump_steam_2022_12_06.txt:2885
 msgid "Exertion"
@@ -12044,7 +12045,7 @@ msgstr "夹："
 
 #: stringdump_steam_2022_12_06.txt:2982
 msgid " save"
-msgstr ""
+msgstr "保存"
 
 #: stringdump_steam_2022_12_06.txt:2983
 msgid " saves"
@@ -12176,7 +12177,7 @@ msgstr "诗歌"
 
 #: stringdump_steam_2022_12_06.txt:3135
 msgid " is an example of "
-msgstr "是一个……的例子"
+msgstr "是一个例子之于"
 
 #: stringdump_steam_2022_12_06.txt:3136
 msgid " line"
@@ -12348,7 +12349,7 @@ msgstr "藐视法律并欣然同意"
 
 #: stringdump_steam_2022_12_06.txt:3187
 msgid "accepted in admiration of power"
-msgstr ""
+msgstr "出于对力量的崇拜而接受了"
 
 #: stringdump_steam_2022_12_06.txt:3188
 msgid "being unafraid in the moment"
@@ -12376,7 +12377,7 @@ msgstr "不觉得贪婪"
 
 #: stringdump_steam_2022_12_06.txt:3194
 msgid "being unswayed by the emotional appeal"
-msgstr ""
+msgstr "不为感情所动"
 
 #: stringdump_steam_2022_12_06.txt:3195
 msgid "a lack of desire for vengeance"
@@ -12388,19 +12389,19 @@ msgstr "信任"
 
 #: stringdump_steam_2022_12_06.txt:3197
 msgid "accepted out of loyalty to"
-msgstr ""
+msgstr "出于忠诚接受了"
 
 #: stringdump_steam_2022_12_06.txt:3198
 msgid "agreed for love of"
-msgstr ""
+msgstr "答应了，因为爱于"
 
 #: stringdump_steam_2022_12_06.txt:3199
 msgid "complied out of fear of"
-msgstr ""
+msgstr "遵从了，因为恐惧于"
 
 #: stringdump_steam_2022_12_06.txt:3200
 msgid "succumbed to vanity"
-msgstr ""
+msgstr "屈服于虚荣心"
 
 #: stringdump_steam_2022_12_06.txt:3201
 msgid "was overcome by greed"
@@ -12420,19 +12421,19 @@ msgstr "嫉妒心太强，不愿接受死亡和协议"
 
 #: stringdump_steam_2022_12_06.txt:3205
 msgid "was too ambitious to accept death and agreed"
-msgstr ""
+msgstr "野心太大，无法接受死亡和妥协"
 
 #: stringdump_steam_2022_12_06.txt:3206
 msgid "was too proud to accept death and agreed"
-msgstr ""
+msgstr "过于自豪，无法接受死亡和妥协"
 
 #: stringdump_steam_2022_12_06.txt:3207
 msgid "was too unsettled by death to face it and agreed"
-msgstr ""
+msgstr "对死亡感到不安而无法面对它并同意"
 
 #: stringdump_steam_2022_12_06.txt:3208
 msgid "could not accept the uncertainty following death and agreed"
-msgstr ""
+msgstr "无法接受死后的不确定性并同意"
 
 #: stringdump_steam_2022_12_06.txt:3209
 msgid ", despite "
@@ -12444,7 +12445,7 @@ msgstr "重视法律"
 
 #: stringdump_steam_2022_12_06.txt:3211
 msgid "loathing the powerful"
-msgstr ""
+msgstr "厌恶强权"
 
 #: stringdump_steam_2022_12_06.txt:3212
 msgid "distrust of"
@@ -12452,7 +12453,7 @@ msgstr "不信任"
 
 #: stringdump_steam_2022_12_06.txt:3213
 msgid "lack of loyalty toward"
-msgstr "缺乏忠诚"
+msgstr "不够忠诚于"
 
 #: stringdump_steam_2022_12_06.txt:3214
 msgid "hatred of"
@@ -12460,7 +12461,7 @@ msgstr "仇恨"
 
 #: stringdump_steam_2022_12_06.txt:3215
 msgid "lack of fear toward"
-msgstr "不害怕"
+msgstr "不够害怕于"
 
 #: stringdump_steam_2022_12_06.txt:3216
 msgid "love of"
@@ -12476,7 +12477,7 @@ msgstr "尊重"
 
 #: stringdump_steam_2022_12_06.txt:3219
 msgid "the efforts of co-conspirators to further the plot"
-msgstr ""
+msgstr "同谋者为促成阴谋所做的努力"
 
 #: stringdump_steam_2022_12_06.txt:3220
 msgid "valued the law and refused"
@@ -12508,7 +12509,7 @@ msgstr "贪欲"
 
 #: stringdump_steam_2022_12_06.txt:3227
 msgid "being swayed by the emotional appeal"
-msgstr ""
+msgstr "情绪化"
 
 #: stringdump_steam_2022_12_06.txt:3228
 msgid "a desire for vengeance"
@@ -12520,7 +12521,7 @@ msgstr "不信任"
 
 #: stringdump_steam_2022_12_06.txt:3230
 msgid "felt no loyalty to"
-msgstr ""
+msgstr "感到不忠诚于"
 
 #: stringdump_steam_2022_12_06.txt:3231
 msgid "hated"
@@ -12532,11 +12533,11 @@ msgstr "受人尊敬的"
 
 #: stringdump_steam_2022_12_06.txt:3233
 msgid " and agreed"
-msgstr ""
+msgstr "还认同"
 
 #: stringdump_steam_2022_12_06.txt:3234
 msgid "  Effective pressure to comply came from co-conspirators surrounding "
-msgstr ""
+msgstr "守规矩的有效压力来自周边同谋"
 
 #: stringdump_steam_2022_12_06.txt:3235
 msgid "  The plan worked."
@@ -12588,11 +12589,11 @@ msgstr "信任"
 
 #: stringdump_steam_2022_12_06.txt:3247
 msgid "loyalty toward"
-msgstr ""
+msgstr "忠诚于"
 
 #: stringdump_steam_2022_12_06.txt:3248
 msgid "fellow athlete "
-msgstr ""
+msgstr "运动员"
 
 #: stringdump_steam_2022_12_06.txt:3249
 msgid "mother "
@@ -12620,23 +12621,23 @@ msgstr "前任"
 
 #: stringdump_steam_2022_12_06.txt:3255
 msgid "fellow believer "
-msgstr ""
+msgstr "从属信徒"
 
 #: stringdump_steam_2022_12_06.txt:3256
 msgid "fellow order member "
-msgstr ""
+msgstr "同行会成员"
 
 #: stringdump_steam_2022_12_06.txt:3257
 msgid "troupemate "
-msgstr ""
+msgstr "团员"
 
 #: stringdump_steam_2022_12_06.txt:3258
 msgid "fellow company member "
-msgstr ""
+msgstr "同军团成员"
 
 #: stringdump_steam_2022_12_06.txt:3259
 msgid "guildmate "
-msgstr ""
+msgstr "工会成员"
 
 #: stringdump_steam_2022_12_06.txt:3260
 msgid "neighbor "
@@ -12644,15 +12645,15 @@ msgstr "邻居"
 
 #: stringdump_steam_2022_12_06.txt:3261
 msgid " in order to have law enforcement look the other way in "
-msgstr ""
+msgstr "为了让执法部门对他们的行为睁一只眼闭一只眼"
 
 #: stringdump_steam_2022_12_06.txt:3262
 msgid " in order to have someone to act on plots and schemes in "
-msgstr ""
+msgstr "以便有人在情节和计划上采取行动在"
 
 #: stringdump_steam_2022_12_06.txt:3263
 msgid " in order to have an agent in "
-msgstr ""
+msgstr "为了让代理人在"
 
 #: stringdump_steam_2022_12_06.txt:3264
 msgid "was unafraid of"
@@ -12668,11 +12669,11 @@ msgstr "而且拒绝"
 
 #: stringdump_steam_2022_12_06.txt:3267
 msgid "  Allies surrounding "
-msgstr ""
+msgstr "周围的盟友 "
 
 #: stringdump_steam_2022_12_06.txt:3268
 msgid " raised their suspicions and the plan was foiled."
-msgstr ""
+msgstr "引起了他们的怀疑，该计划被挫败。"
 
 #: stringdump_steam_2022_12_06.txt:3269
 msgid "  The plan failed."
@@ -12688,7 +12689,7 @@ msgstr "企图贪污"
 
 #: stringdump_steam_2022_12_06.txt:3272
 msgid " subordinated "
-msgstr ""
+msgstr "隶属关系 "
 
 #: stringdump_steam_2022_12_06.txt:3273
 msgid " corrupted "
@@ -12712,11 +12713,11 @@ msgstr "战友"
 
 #: stringdump_steam_2022_12_06.txt:3278
 msgid "fellow scholar "
-msgstr ""
+msgstr "研究员"
 
 #: stringdump_steam_2022_12_06.txt:3279
 msgid "fellow artist "
-msgstr ""
+msgstr "艺术家"
 
 #: stringdump_steam_2022_12_06.txt:3280
 msgid "steal treasures"
@@ -12724,15 +12725,15 @@ msgstr "偷窃宝藏"
 
 #: stringdump_steam_2022_12_06.txt:3281
 msgid "initiate sabotage"
-msgstr ""
+msgstr "开始搞破坏"
 
 #: stringdump_steam_2022_12_06.txt:3282
 msgid "instill terror"
-msgstr ""
+msgstr "灌输恐怖"
 
 #: stringdump_steam_2022_12_06.txt:3283
 msgid "prepare a coup"
-msgstr ""
+msgstr "准备政变"
 
 #: stringdump_steam_2022_12_06.txt:3284
 msgid " approached by "
@@ -12748,7 +12749,7 @@ msgstr "受影响来自"
 
 #: stringdump_steam_2022_12_06.txt:3287
 msgid " plotted to frame "
-msgstr ""
+msgstr "绘制成框架"
 
 #: stringdump_steam_2022_12_06.txt:3288
 msgid " for "
@@ -12784,7 +12785,7 @@ msgstr "建筑物破坏"
 
 #: stringdump_steam_2022_12_06.txt:3296
 msgid " in order to secure embezzled funds in "
-msgstr ""
+msgstr "为了确保被盗用的资金在"
 
 #: stringdump_steam_2022_12_06.txt:3297
 msgid "the wilds"
@@ -12792,15 +12793,15 @@ msgstr "野外"
 
 #: stringdump_steam_2022_12_06.txt:3298
 msgid " as a member of "
-msgstr "作为成员"
+msgstr "作为成员之于"
 
 #: stringdump_steam_2022_12_06.txt:3299
 msgid " toward the fulfillment of plots and schemes in "
-msgstr ""
+msgstr "为实现阴谋诡计于"
 
 #: stringdump_steam_2022_12_06.txt:3300
 msgid "the corruption of "
-msgstr "腐败"
+msgstr "腐败之"
 
 #: stringdump_steam_2022_12_06.txt:3301
 msgid "the failed attempt by "
@@ -12808,11 +12809,11 @@ msgstr "失败的尝试"
 
 #: stringdump_steam_2022_12_06.txt:3302
 msgid " to corrupt "
-msgstr ""
+msgstr "贪污"
 
 #: stringdump_steam_2022_12_06.txt:3303
 msgid "Subject revealed that in "
-msgstr ""
+msgstr "对象透露在"
 
 #: stringdump_steam_2022_12_06.txt:3304
 msgid "an unknown party"
@@ -12824,23 +12825,23 @@ msgstr "，与"
 
 #: stringdump_steam_2022_12_06.txt:3306
 msgid " concocted "
-msgstr ""
+msgstr "炮制的"
 
 #: stringdump_steam_2022_12_06.txt:3307
 msgid "a bribery conspiracy"
-msgstr ""
+msgstr "一个贿赂阴谋"
 
 #: stringdump_steam_2022_12_06.txt:3308
 msgid "a corruption conspiracy"
-msgstr ""
+msgstr "一个贪污阴谋"
 
 #: stringdump_steam_2022_12_06.txt:3309
 msgid "a embezzlement conspiracy"
-msgstr ""
+msgstr "一个挪用公款阴谋"
 
 #: stringdump_steam_2022_12_06.txt:3310
 msgid " plotted to infiltrate "
-msgstr ""
+msgstr "谋划渗透"
 
 #: stringdump_steam_2022_12_06.txt:3311
 msgid " in order to "
@@ -12852,15 +12853,15 @@ msgstr "通过"
 
 #: stringdump_steam_2022_12_06.txt:3313
 msgid " plotted to abduct "
-msgstr ""
+msgstr "谋划绑架 "
 
 #: stringdump_steam_2022_12_06.txt:3314
 msgid " plotted to assassinate "
-msgstr ""
+msgstr "谋划刺杀 "
 
 #: stringdump_steam_2022_12_06.txt:3315
 msgid " plotted to steal "
-msgstr ""
+msgstr "谋划偷窃 "
 
 #: stringdump_steam_2022_12_06.txt:3316
 msgid " promised "
@@ -12868,11 +12869,11 @@ msgstr "承诺过的"
 
 #: stringdump_steam_2022_12_06.txt:3317
 msgid " to give "
-msgstr ""
+msgstr "给予 "
 
 #: stringdump_steam_2022_12_06.txt:3318
 msgid " a position"
-msgstr ""
+msgstr "职位"
 
 #: stringdump_steam_2022_12_06.txt:3319
 msgid " began "
@@ -12880,7 +12881,7 @@ msgstr "开始了"
 
 #: stringdump_steam_2022_12_06.txt:3320
 msgid "accepting bribes in exchange for leniency"
-msgstr ""
+msgstr "接受贿赂以换取宽大处理"
 
 #: stringdump_steam_2022_12_06.txt:3321
 msgid "embezzling funds"
@@ -12964,15 +12965,15 @@ msgstr "通过愚弄"
 
 #: stringdump_steam_2022_12_06.txt:3341
 msgid " plotted to induce a war of "
-msgstr ""
+msgstr "密谋发动一场战争于"
 
 #: stringdump_steam_2022_12_06.txt:3342
 msgid " upon "
-msgstr ""
+msgstr "于"
 
 #: stringdump_steam_2022_12_06.txt:3343
 msgid " plotted to sabotage the activities of "
-msgstr ""
+msgstr "密谋破坏活动于"
 
 #: stringdump_steam_2022_12_06.txt:3344
 msgid " in order to be brought to safety"
@@ -12980,7 +12981,7 @@ msgstr "为了安全起见"
 
 #: stringdump_steam_2022_12_06.txt:3345
 msgid " agreed to establish "
-msgstr ""
+msgstr "同意建立 "
 
 #: stringdump_steam_2022_12_06.txt:3346
 msgid "a grand guildhall"
@@ -13004,39 +13005,39 @@ msgstr "形成了腐败的协议"
 
 #: stringdump_steam_2022_12_06.txt:3351
 msgid "the bribery conspiracy"
-msgstr ""
+msgstr "贿赂阴谋"
 
 #: stringdump_steam_2022_12_06.txt:3352
 msgid "the corruption conspiracy"
-msgstr ""
+msgstr "贪污阴谋"
 
 #: stringdump_steam_2022_12_06.txt:3353
 msgid "the embezzlement conspiracy"
-msgstr ""
+msgstr "挪用公款阴谋"
 
 #: stringdump_steam_2022_12_06.txt:3354
 msgid " concocted by "
-msgstr ""
+msgstr "炮制自"
 
 #: stringdump_steam_2022_12_06.txt:3355
 msgid "the plot of "
-msgstr ""
+msgstr "密谋关于"
 
 #: stringdump_steam_2022_12_06.txt:3356
 msgid " to infiltrate "
-msgstr ""
+msgstr "潜入"
 
 #: stringdump_steam_2022_12_06.txt:3357
 msgid " to frame "
-msgstr ""
+msgstr "来构建"
 
 #: stringdump_steam_2022_12_06.txt:3358
 msgid " to induce a war of "
-msgstr ""
+msgstr "为发动战争于"
 
 #: stringdump_steam_2022_12_06.txt:3359
 msgid " to sabotage the activities of "
-msgstr ""
+msgstr "为破坏活动于"
 
 #: stringdump_steam_2022_12_06.txt:3360
 msgid " agreed to a parley with "
@@ -13044,11 +13045,11 @@ msgstr "同意与之和谈"
 
 #: stringdump_steam_2022_12_06.txt:3361
 msgid " made an agreement with "
-msgstr "与...达成协议"
+msgstr "达成协议与"
 
 #: stringdump_steam_2022_12_06.txt:3362
 msgid ", becoming a resident of "
-msgstr "，成为某地的居民"
+msgstr "，成为居民于"
 
 #: stringdump_steam_2022_12_06.txt:3363
 msgid " to eradicate monsters"
@@ -13068,7 +13069,7 @@ msgstr "学习"
 
 #: stringdump_steam_2022_12_06.txt:3367
 msgid ", becoming a citizen of "
-msgstr "，成为公民"
+msgstr "，成为公民于"
 
 #: stringdump_steam_2022_12_06.txt:3368
 msgid " joined with "
@@ -13104,27 +13105,27 @@ msgstr "找到"
 
 #: stringdump_steam_2022_12_06.txt:3376
 msgid "the agreement by "
-msgstr ""
+msgstr "协议自"
 
 #: stringdump_steam_2022_12_06.txt:3377
 msgid " to establish "
-msgstr ""
+msgstr "来建立"
 
 #: stringdump_steam_2022_12_06.txt:3378
 msgid "the formation of a corrupt agreement"
-msgstr "形成腐败协议"
+msgstr "腐败协议的达成"
 
 #: stringdump_steam_2022_12_06.txt:3379
 msgid " has revealed the presence of "
-msgstr ""
+msgstr "已经暴露了存在于"
 
 #: stringdump_steam_2022_12_06.txt:3380
 msgid " to abduct "
-msgstr ""
+msgstr "来绑架"
 
 #: stringdump_steam_2022_12_06.txt:3381
 msgid " to assassinate "
-msgstr ""
+msgstr "来刺杀"
 
 #: stringdump_steam_2022_12_06.txt:3382
 msgid " to steal "
@@ -13140,15 +13141,15 @@ msgstr "的"
 
 #: stringdump_steam_2022_12_06.txt:3385
 msgid "the bribery of"
-msgstr "的贿赂"
+msgstr "行贿于"
 
 #: stringdump_steam_2022_12_06.txt:3386
 msgid "the embezzlement of"
-msgstr ""
+msgstr "盗用"
 
 #: stringdump_steam_2022_12_06.txt:3387
 msgid "the passing of corruptly-obtained funds by "
-msgstr ""
+msgstr "贪污资金的转移，操作自"
 
 #: stringdump_steam_2022_12_06.txt:3388
 msgid "the permanent joining by "
@@ -13168,15 +13169,15 @@ msgstr "之间的协议"
 
 #: stringdump_steam_2022_12_06.txt:3392
 msgid " and become a resident of "
-msgstr "并成为某地的居民"
+msgstr "并成为居民于"
 
 #: stringdump_steam_2022_12_06.txt:3393
 msgid " and become a citizen of "
-msgstr "并成为公民"
+msgstr "并成为公民于"
 
 #: stringdump_steam_2022_12_06.txt:3394
 msgid "the joining of "
-msgstr "加入"
+msgstr "加入的"
 
 #: stringdump_steam_2022_12_06.txt:3395
 msgid " in bound service"
@@ -13212,43 +13213,43 @@ msgstr "劫持"
 
 #: stringdump_steam_2022_12_06.txt:3403
 msgid "Sabtr"
-msgstr ""
+msgstr "莎布提尔"
 
 #: stringdump_steam_2022_12_06.txt:3404
 msgid "Snatc"
-msgstr ""
+msgstr "斯那铁克"
 
 #: stringdump_steam_2022_12_06.txt:3405
 msgid "Interrogation Report: "
-msgstr ""
+msgstr "审讯报告："
 
 #: stringdump_steam_2022_12_06.txt:3406
 msgid "Framr"
-msgstr ""
+msgstr "弗拉米尔"
 
 #: stringdump_steam_2022_12_06.txt:3407
 msgid "multiple crimes"
-msgstr "多重罪"
+msgstr "多重罪行"
 
 #: stringdump_steam_2022_12_06.txt:3408
 msgid "Subject confessed to "
-msgstr ""
+msgstr "对象交代"
 
 #: stringdump_steam_2022_12_06.txt:3409
 msgid "the export prohibition violation"
-msgstr ""
+msgstr "违反出口禁令"
 
 #: stringdump_steam_2022_12_06.txt:3410
 msgid "the production order violation"
-msgstr ""
+msgstr "生产订单违规"
 
 #: stringdump_steam_2022_12_06.txt:3411
 msgid "the conspiracy to slow labor"
-msgstr ""
+msgstr "放慢劳动速度的阴谋"
 
 #: stringdump_steam_2022_12_06.txt:3412
 msgid "the job order violation"
-msgstr ""
+msgstr "违反工作秩序"
 
 #: stringdump_steam_2022_12_06.txt:3413
 msgid "the kidnapping"
@@ -13268,7 +13269,7 @@ msgstr "盗窃"
 
 #: stringdump_steam_2022_12_06.txt:3417
 msgid "Subject revealed that "
-msgstr ""
+msgstr "对象揭露"
 
 #: stringdump_steam_2022_12_06.txt:3418
 msgid "the crime"
@@ -13276,7 +13277,7 @@ msgstr "罪行"
 
 #: stringdump_steam_2022_12_06.txt:3419
 msgid "Corrupt"
-msgstr ""
+msgstr "腐化"
 
 #: stringdump_steam_2022_12_06.txt:3420
 msgid "Steal"
@@ -13284,7 +13285,7 @@ msgstr "偷窃"
 
 #: stringdump_steam_2022_12_06.txt:3421
 msgid "Attempted Bribery"
-msgstr ""
+msgstr "索贿未遂"
 
 #: stringdump_steam_2022_12_06.txt:3422
 msgid "Provide Position"
@@ -13292,11 +13293,11 @@ msgstr "提供位置"
 
 #: stringdump_steam_2022_12_06.txt:3423
 msgid "Attempted Embezzlement"
-msgstr ""
+msgstr "挪用公款未遂"
 
 #: stringdump_steam_2022_12_06.txt:3424
 msgid "Attempted Espionage"
-msgstr ""
+msgstr "企图从事间谍活动"
 
 #: stringdump_steam_2022_12_06.txt:3425
 msgid "Frame"
@@ -13304,7 +13305,7 @@ msgstr "框架"
 
 #: stringdump_steam_2022_12_06.txt:3426
 msgid "Infiltrate"
-msgstr ""
+msgstr "潜入"
 
 #: stringdump_steam_2022_12_06.txt:3427
 msgid " between "
@@ -13324,15 +13325,15 @@ msgstr "资产"
 
 #: stringdump_steam_2022_12_06.txt:3432
 msgid "Membr"
-msgstr ""
+msgstr "末姆比尔"
 
 #: stringdump_steam_2022_12_06.txt:3433
 msgid "Assas"
-msgstr ""
+msgstr "阿萨斯"
 
 #: stringdump_steam_2022_12_06.txt:3434
 msgid "Crrpt"
-msgstr ""
+msgstr "克利浦特"
 
 #: stringdump_steam_2022_12_06.txt:3435
 msgid "belief in the law"
@@ -13340,7 +13341,7 @@ msgstr "相信法律"
 
 #: stringdump_steam_2022_12_06.txt:3436
 msgid " to subject's "
-msgstr ""
+msgstr "对象的"
 
 #: stringdump_steam_2022_12_06.txt:3437
 msgid "belief in the truth"
@@ -13348,15 +13349,15 @@ msgstr "相信真理"
 
 #: stringdump_steam_2022_12_06.txt:3438
 msgid "belief in harmony"
-msgstr ""
+msgstr "信仰和谐"
 
 #: stringdump_steam_2022_12_06.txt:3439
 msgid "Attempted to build"
-msgstr ""
+msgstr "试图建立"
 
 #: stringdump_steam_2022_12_06.txt:3440
 msgid "belief in cooperation"
-msgstr ""
+msgstr "信仰合作"
 
 #: stringdump_steam_2022_12_06.txt:3441
 msgid " rapport in order to elicit information."
@@ -13368,11 +13369,11 @@ msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:3443
 msgid "Misrepresented"
-msgstr ""
+msgstr "作伪证"
 
 #: stringdump_steam_2022_12_06.txt:3444
 msgid "Attempted to misrepresent"
-msgstr ""
+msgstr "伪证未遂"
 
 #: stringdump_steam_2022_12_06.txt:3445
 msgid "  Subject "
@@ -13460,7 +13461,7 @@ msgstr "以便获取信息。"
 
 #: stringdump_steam_2022_12_06.txt:3466
 msgid " to shared worship of "
-msgstr ""
+msgstr "为共同信仰于"
 
 #: stringdump_steam_2022_12_06.txt:3467
 msgid "valuing the truth"
@@ -13518,11 +13519,11 @@ msgstr "回过头来看，审讯者可能完全误判了当事人的性格。"
 
 #: stringdump_steam_2022_12_06.txt:3480
 msgid "spurning the value of honesty"
-msgstr ""
+msgstr "藐视诚实的价值"
 
 #: stringdump_steam_2022_12_06.txt:3481
 msgid "spurning the value of harmony"
-msgstr ""
+msgstr "藐视和谐的价值"
 
 #: stringdump_steam_2022_12_06.txt:3482
 msgid " interrogator"
@@ -13530,7 +13531,7 @@ msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:3483
 msgid "spurning the value of cooperation"
-msgstr ""
+msgstr "藐视合作的价值"
 
 #: stringdump_steam_2022_12_06.txt:3484
 msgid "valued harmony"
@@ -13762,7 +13763,7 @@ msgstr "是一笔巨大的财富。 我们尊重这次重要的交易。"
 
 #: stringdump_steam_2022_12_06.txt:3548
 msgid "Your fortress of "
-msgstr "你的要塞"
+msgstr "你的要塞于"
 
 #: stringdump_steam_2022_12_06.txt:3549
 msgid "Food"
@@ -13862,7 +13863,7 @@ msgstr "蜡"
 
 #: stringdump_steam_2022_12_06.txt:3573
 msgid "Villains!  The seizure of "
-msgstr "恶棍！癫痫发作"
+msgstr "恶棍！被扣押自"
 
 #: stringdump_steam_2022_12_06.txt:3574
 msgid " will not go unanswered."
@@ -13906,7 +13907,7 @@ msgstr "水果/叶子"
 
 #: stringdump_steam_2022_12_06.txt:3584
 msgid "Milled plant"
-msgstr "碾压过的植物"
+msgstr "碾磨的植物"
 
 #: stringdump_steam_2022_12_06.txt:3585
 msgid "Extract (plant)"
@@ -14170,7 +14171,7 @@ msgstr "工匠"
 
 #: stringdump_steam_2022_12_06.txt:3650
 msgid "ship of the "
-msgstr "船的"
+msgstr "船自"
 
 #: stringdump_steam_2022_12_06.txt:3651
 msgid "your more ethical works.  We've come to trade."
@@ -14601,7 +14602,7 @@ msgstr "不"
 
 #: stringdump_steam_2022_12_06.txt:3754
 msgid "greater than"
-msgstr "比...更棒"
+msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:3755
 msgid "less than"
@@ -15080,7 +15081,7 @@ msgstr "书写材料包括纸和羊皮纸。"
 
 #: stringdump_steam_2022_12_06.txt:3876
 msgid "Treasure of "
-msgstr "宝物之"
+msgstr "宝物之于"
 
 #: stringdump_steam_2022_12_06.txt:3877
 msgid "Sacred to "
@@ -15088,11 +15089,11 @@ msgstr "神圣之"
 
 #: stringdump_steam_2022_12_06.txt:3878
 msgid "Symbol of "
-msgstr "符号之"
+msgstr "象征之于"
 
 #: stringdump_steam_2022_12_06.txt:3879
 msgid "Heirloom of "
-msgstr "传家宝之"
+msgstr "传家宝之于"
 
 #: stringdump_steam_2022_12_06.txt:3880
 msgid "Library"
@@ -18388,7 +18389,7 @@ msgstr "使用在这里的制革店来鞣制皮革以制作衣服和工具，如
 
 #: stringdump_steam_2022_12_06.txt:4654
 msgid "Zoom in on the play area."
-msgstr ""
+msgstr "放大游玩区域。"
 
 #: stringdump_steam_2022_12_06.txt:4655
 msgid "Show up and down arrows over ramps at the current elevation."
@@ -18423,7 +18424,7 @@ msgstr "打开库存窗口，在这里你可以看到你的堡垒的所有物品
 
 #: stringdump_steam_2022_12_06.txt:4661
 msgid "Zoom out from the play area."
-msgstr ""
+msgstr "缩小游玩区域。"
 
 #: stringdump_steam_2022_12_06.txt:4662
 msgid ""
@@ -18441,7 +18442,7 @@ msgstr "使用这个类别的选项来放置已经在车间里建造好的家具
 msgid ""
 "A wide variety of food-and-drink-related workshops can be found in this "
 "category."
-msgstr ""
+msgstr "在这一类别中可以找到各种与食品和饮食有关的车间。"
 
 #: stringdump_steam_2022_12_06.txt:4665
 msgid ""
@@ -18453,7 +18454,7 @@ msgstr "这些工场在制衣过程中，无论是染色和编织，还是使用
 msgid ""
 "Various mechanical traps can be found here.  The pressure plate is also "
 "found here, which has applications beyond traps."
-msgstr ""
+msgstr "在这里可以找到各种机械陷阱。 这里还可以找到压力板，它的应用超出了陷阱。"
 
 #: stringdump_steam_2022_12_06.txt:4667
 msgid ""
@@ -18934,7 +18935,7 @@ msgstr "一滴"
 
 #: stringdump_steam_2022_12_06.txt:4747
 msgid "A spattering of "
-msgstr "一滴飞溅"
+msgstr "一抹"
 
 #: stringdump_steam_2022_12_06.txt:4748
 msgid "A Campfire"
@@ -19015,7 +19016,7 @@ msgstr "许多"
 
 #: stringdump_steam_2022_12_06.txt:4764
 msgid "a colony of "
-msgstr "一群殖民团的"
+msgstr "一殖民团的"
 
 #: stringdump_steam_2022_12_06.txt:4765
 msgid " - mine rock or chop trees"
@@ -19079,11 +19080,11 @@ msgstr "一小堆"
 
 #: stringdump_steam_2022_12_06.txt:4784
 msgid "A dusting of "
-msgstr "一团尘土"
+msgstr "一撮"
 
 #: stringdump_steam_2022_12_06.txt:4785
 msgid "A pool of "
-msgstr "一池水"
+msgstr "一池"
 
 #: stringdump_steam_2022_12_06.txt:4786
 msgid "Salt water ["
@@ -19151,11 +19152,11 @@ msgstr "大祭司来自"
 
 #: stringdump_steam_2022_12_06.txt:4802
 msgid "A Guildhall for "
-msgstr ""
+msgstr "行会来自"
 
 #: stringdump_steam_2022_12_06.txt:4803
 msgid "A Priest for "
-msgstr ""
+msgstr "祭司来自"
 
 #: stringdump_steam_2022_12_06.txt:4804
 msgid "Citizenship of "
@@ -19175,7 +19176,7 @@ msgstr "一些损坏的数据"
 
 #: stringdump_steam_2022_12_06.txt:4808
 msgid "A Grand Guildhall for "
-msgstr ""
+msgstr "大行会来自"
 
 #: stringdump_steam_2022_12_06.txt:4809
 msgid "Approve"
@@ -19297,7 +19298,7 @@ msgstr "我几乎把全世界都搜寻过了"
 
 #: stringdump_steam_2022_12_06.txt:4838
 msgid "  My epic journey began "
-msgstr ""
+msgstr "我的史诗之旅开始于"
 
 #: stringdump_steam_2022_12_06.txt:4839
 msgid ", and I aim to return it home."
@@ -19313,7 +19314,7 @@ msgstr "[B]在这个崇高的任务中发挥你的作用，成为传奇人物!"
 
 #: stringdump_steam_2022_12_06.txt:4842
 msgid "  I can only rest when I've brought the prize safely to "
-msgstr ""
+msgstr "只有当我把奖品安全地带到"
 
 #: stringdump_steam_2022_12_06.txt:4843
 msgid "  I've already searched in "
@@ -19373,15 +19374,15 @@ msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:4857
 msgid "a temple complex and high priest"
-msgstr ""
+msgstr "庙宇建筑群和大祭司"
 
 #: stringdump_steam_2022_12_06.txt:4858
 msgid "and now requires"
-msgstr ""
+msgstr "现在则要求"
 
 #: stringdump_steam_2022_12_06.txt:4859
 msgid "has many worshippers here"
-msgstr ""
+msgstr "在这有许多信徒"
 
 #: stringdump_steam_2022_12_06.txt:4860
 msgid ""
@@ -19476,19 +19477,19 @@ msgstr "[C:VAR:MEETING:ACTOR][VAR:NATIVENAME:MEETING:ACTOR]: 我们最多可以�
 
 #: stringdump_steam_2022_12_06.txt:4876
 msgid " is a sacred relic of our people."
-msgstr ""
+msgstr "是我们的人民的神圣遗物。"
 
 #: stringdump_steam_2022_12_06.txt:4877
 msgid " is the property of our people."
-msgstr ""
+msgstr "是我们的人民的财产。"
 
 #: stringdump_steam_2022_12_06.txt:4878
 msgid " is an heirloom of our people."
-msgstr ""
+msgstr "是我们的人民的传家之宝。"
 
 #: stringdump_steam_2022_12_06.txt:4879
 msgid "our people"
-msgstr ""
+msgstr "我们的人民"
 
 #: stringdump_steam_2022_12_06.txt:4880
 msgid ""
@@ -19557,7 +19558,7 @@ msgstr " [C:VAR:MEETING:ACTOR]预计，如果你能提供一些，大篷车将�
 
 #: stringdump_steam_2022_12_06.txt:4890
 msgid "  A need for [C:6:0:1]"
-msgstr ""
+msgstr "需要 [C:6:0:1]"
 
 #: stringdump_steam_2022_12_06.txt:4891
 msgid "ship."
@@ -19577,7 +19578,7 @@ msgstr "经常（至少0%）"
 
 #: stringdump_steam_2022_12_06.txt:4895
 msgid " days"
-msgstr ""
+msgstr "天"
 
 #: stringdump_steam_2022_12_06.txt:4896
 msgid "when full"
@@ -19621,17 +19622,17 @@ msgstr " 直到我们下次见面。"
 
 #: stringdump_steam_2022_12_06.txt:4906
 msgid "we are willing to ask that you cap your tree-fells at "
-msgstr ""
+msgstr "我们愿意要求你将你的树丛上限定为"
 
 #: stringdump_steam_2022_12_06.txt:4907
 msgid ""
 "  Although we are loath to spare a single branch to your senseless "
 "slaughter, "
-msgstr ""
+msgstr "虽然我们不愿意放过任何一个分支，让你们无意义的屠杀。"
 
 #: stringdump_steam_2022_12_06.txt:4908
 msgid "(Vehicle moved to next stop if any condition triggered.)"
-msgstr ""
+msgstr "(如果有任何条件被触发，车辆将被转移到下一站。)"
 
 #: stringdump_steam_2022_12_06.txt:4909
 msgid "Set conditions for "
@@ -19639,7 +19640,7 @@ msgstr "设定条件为"
 
 #: stringdump_steam_2022_12_06.txt:4910
 msgid "  And beware."
-msgstr ""
+msgstr "  而且要注意。"
 
 #: stringdump_steam_2022_12_06.txt:4911
 msgid "east"
@@ -19719,7 +19720,7 @@ msgstr "饭厅"
 
 #: stringdump_steam_2022_12_06.txt:4932
 msgid "Export of "
-msgstr "出口"
+msgstr "出口之于"
 
 #: stringdump_steam_2022_12_06.txt:4933
 msgid "Make "
@@ -19743,11 +19744,11 @@ msgstr "添加新的工作细节"
 
 #: stringdump_steam_2022_12_06.txt:4938
 msgid "You have no work details."
-msgstr ""
+msgstr "你没有工作细节。"
 
 #: stringdump_steam_2022_12_06.txt:4939
 msgid "Everybody does this"
-msgstr ""
+msgstr "每个人都这样做"
 
 #: stringdump_steam_2022_12_06.txt:4940
 msgid ""
@@ -19759,7 +19760,7 @@ msgstr "贵族成员有规定的房间，可以提出要求。他们不能被重
 msgid ""
 "Administrators handle various aspects of your fortress and can be "
 "reassigned. Many administrators also require rooms."
-msgstr ""
+msgstr "管理员打理您的堡垒的方方面面，并且可被重新分配。还有许多管理员需要房间。"
 
 #: stringdump_steam_2022_12_06.txt:4943
 msgid "Custom Detail "
@@ -19771,7 +19772,7 @@ msgstr "运输"
 
 #: stringdump_steam_2022_12_06.txt:4945
 msgid "Sieges and forbidding"
-msgstr ""
+msgstr "围攻和禁止"
 
 #: stringdump_steam_2022_12_06.txt:4946
 msgid "Chores"
@@ -19787,7 +19788,7 @@ msgstr "只安排做这项任务"
 
 #: stringdump_steam_2022_12_06.txt:4949
 msgid "Nobody does this"
-msgstr ""
+msgstr "没人做这个"
 
 #: stringdump_steam_2022_12_06.txt:4950
 msgid "Nobody can be assigned."
@@ -19847,15 +19848,15 @@ msgstr "高精准度"
 
 #: stringdump_steam_2022_12_06.txt:4964
 msgid "Do not automate smelter"
-msgstr ""
+msgstr "取消熔炼炉自动化"
 
 #: stringdump_steam_2022_12_06.txt:4965
 msgid "Automate other shops"
-msgstr ""
+msgstr "自动化其他工坊"
 
 #: stringdump_steam_2022_12_06.txt:4966
 msgid "Do not automate other shops"
-msgstr ""
+msgstr "取消其他工坊自动化"
 
 #: stringdump_steam_2022_12_06.txt:4967
 msgid "Workers gather animals"
@@ -19911,19 +19912,19 @@ msgstr "工人收集家具"
 
 #: stringdump_steam_2022_12_06.txt:4980
 msgid "Automatically collect webs"
-msgstr ""
+msgstr "自动收集网络"
 
 #: stringdump_steam_2022_12_06.txt:4981
 msgid "No automatic web collection"
-msgstr ""
+msgstr "没有自动网络收集"
 
 #: stringdump_steam_2022_12_06.txt:4982
 msgid "Slaughter any marked animal"
-msgstr ""
+msgstr "宰杀任何有标记的动物"
 
 #: stringdump_steam_2022_12_06.txt:4983
 msgid "No automatic slaughter"
-msgstr ""
+msgstr "没有自动宰杀"
 
 #: stringdump_steam_2022_12_06.txt:4984
 msgid "Automatically weave dyed thread"
@@ -19955,19 +19956,19 @@ msgstr "将制革厂自动化"
 
 #: stringdump_steam_2022_12_06.txt:4991
 msgid "Automatically butcher carcasses"
-msgstr ""
+msgstr "自动屠宰肉体"
 
 #: stringdump_steam_2022_12_06.txt:4992
 msgid "No automatic butchery"
-msgstr ""
+msgstr "取消屠宰自动化"
 
 #: stringdump_steam_2022_12_06.txt:4993
 msgid "Automatically clean fish"
-msgstr ""
+msgstr "洗鱼自动化"
 
 #: stringdump_steam_2022_12_06.txt:4994
 msgid "No automatic fish cleaning"
-msgstr ""
+msgstr "取消洗鱼自动化"
 
 #: stringdump_steam_2022_12_06.txt:4995
 msgid "Workers save hair and wool"
@@ -20103,7 +20104,7 @@ msgstr "宣称被推倒的建筑物品"
 
 #: stringdump_steam_2022_12_06.txt:5028
 msgid "Forbidding of death objects occurs at time of death."
-msgstr ""
+msgstr "对象在死亡时被禁止。"
 
 #: stringdump_steam_2022_12_06.txt:5029
 msgid "Children do chores"
@@ -20115,27 +20116,27 @@ msgstr "儿童不做杂务"
 
 #: stringdump_steam_2022_12_06.txt:5031
 msgid "Forbid cages from sprung traps during sieges"
-msgstr ""
+msgstr "在围攻期间禁止在笼子里设置陷阱"
 
 #: stringdump_steam_2022_12_06.txt:5032
 msgid "Claim cages from sprung traps"
-msgstr ""
+msgstr "从弹簧陷阱中回收笼子"
 
 #: stringdump_steam_2022_12_06.txt:5033
 msgid "Forbid toppled building items"
-msgstr ""
+msgstr "被禁止倾倒的建筑物品"
 
 #: stringdump_steam_2022_12_06.txt:5034
 msgid "Forbid toppled building items during sieges"
-msgstr ""
+msgstr "禁止在围攻期间推翻建筑物的物品"
 
 #: stringdump_steam_2022_12_06.txt:5035
 msgid "Announce some job cancellations"
-msgstr ""
+msgstr "宣布取消一些工作"
 
 #: stringdump_steam_2022_12_06.txt:5036
 msgid "Announce no job cancellations"
-msgstr ""
+msgstr "宣布不取消任何工作"
 
 #: stringdump_steam_2022_12_06.txt:5037
 msgid "Everybody harvests"
@@ -20155,15 +20156,15 @@ msgstr "来做你的杂务。"
 
 #: stringdump_steam_2022_12_06.txt:5041
 msgid "Announce all job cancellations"
-msgstr ""
+msgstr "宣布取消所有工作"
 
 #: stringdump_steam_2022_12_06.txt:5042
 msgid "Announce most job cancellations"
-msgstr ""
+msgstr "宣布取消大多数工作"
 
 #: stringdump_steam_2022_12_06.txt:5043
 msgid "Forbid other death items during sieges"
-msgstr ""
+msgstr "攻城时禁止其他死亡物品"
 
 #: stringdump_steam_2022_12_06.txt:5044
 msgid "Claim other death items"
@@ -20171,19 +20172,19 @@ msgstr "回收所有尸体上的遗物"
 
 #: stringdump_steam_2022_12_06.txt:5045
 msgid "Forbid floor/wall cleaning"
-msgstr ""
+msgstr "禁止清洗地板/墙壁"
 
 #: stringdump_steam_2022_12_06.txt:5046
 msgid "Forbid floor/wall cleaning during sieges"
-msgstr ""
+msgstr "在围攻期间禁止清洁地板/墙壁"
 
 #: stringdump_steam_2022_12_06.txt:5047
 msgid "Forbid other non-hunted dead"
-msgstr ""
+msgstr "禁止其他非猎物的尸体"
 
 #: stringdump_steam_2022_12_06.txt:5048
 msgid "Forbid other non-hunted dead during sieges"
-msgstr ""
+msgstr "在围困期间禁用其他非猎物尸体"
 
 #: stringdump_steam_2022_12_06.txt:5049
 msgid "Claim other dead"
@@ -20191,15 +20192,15 @@ msgstr "回收所有尸体"
 
 #: stringdump_steam_2022_12_06.txt:5050
 msgid "Forbid other death items"
-msgstr ""
+msgstr "禁止其他死亡项目"
 
 #: stringdump_steam_2022_12_06.txt:5051
 msgid "Forbid trap rearming"
-msgstr ""
+msgstr "禁止重设陷阱"
 
 #: stringdump_steam_2022_12_06.txt:5052
 msgid "Forbid trap rearming during sieges"
-msgstr ""
+msgstr "禁止在围困期间重设陷阱"
 
 #: stringdump_steam_2022_12_06.txt:5053
 msgid "Allow trap rearming"
@@ -20207,7 +20208,7 @@ msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:5054
 msgid "Forbid cages from sprung traps"
-msgstr ""
+msgstr "禁止笼子里的弹簧陷阱"
 
 #: stringdump_steam_2022_12_06.txt:5055
 msgid "Allow floor/wall cleaning"
@@ -20215,11 +20216,11 @@ msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:5056
 msgid "Forbid trap cleaning"
-msgstr ""
+msgstr "严禁清洗陷阱"
 
 #: stringdump_steam_2022_12_06.txt:5057
 msgid "Forbid trap cleaning during sieges"
-msgstr ""
+msgstr "禁止在围困期间清理陷阱"
 
 #: stringdump_steam_2022_12_06.txt:5058
 msgid "Allow trap cleaning"
@@ -20239,7 +20240,7 @@ msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:5062
 msgid "Choose a symbol for the squad."
-msgstr ""
+msgstr "为小队选择一个象征物"
 
 #: stringdump_steam_2022_12_06.txt:5063
 msgid "Number"
@@ -20263,15 +20264,15 @@ msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:5068
 msgid "Equip/always"
-msgstr ""
+msgstr "装备/始终"
 
 #: stringdump_steam_2022_12_06.txt:5069
 msgid "Equip/orders only"
-msgstr ""
+msgstr "装备/仅在命令时"
 
 #: stringdump_steam_2022_12_06.txt:5070
 msgid "Sleep/room at will"
-msgstr ""
+msgstr "睡觉/自选房间"
 
 #: stringdump_steam_2022_12_06.txt:5071
 msgid "Symbol"
@@ -20287,7 +20288,7 @@ msgstr "完成编辑"
 
 #: stringdump_steam_2022_12_06.txt:5074
 msgid "(unnamed orders)"
-msgstr ""
+msgstr "（未命名命令）"
 
 #: stringdump_steam_2022_12_06.txt:5075
 msgid "Fish only in designated zones"
@@ -20299,7 +20300,7 @@ msgstr "优先在指定区域钓鱼"
 
 #: stringdump_steam_2022_12_06.txt:5077
 msgid "Economic stone"
-msgstr ""
+msgstr "经济石"
 
 #: stringdump_steam_2022_12_06.txt:5078
 msgid "Stone type"
@@ -20307,11 +20308,11 @@ msgstr "石头类型"
 
 #: stringdump_steam_2022_12_06.txt:5079
 msgid "Mix similar foods in barrels"
-msgstr ""
+msgstr "在桶中混合类似的食物"
 
 #: stringdump_steam_2022_12_06.txt:5080
 msgid "Do not mix similar food in barrels"
-msgstr "箭靶"
+msgstr "不要将类似的食物混入桶中"
 
 #: stringdump_steam_2022_12_06.txt:5081
 msgid "Drink water only from designed zones"
@@ -20331,11 +20332,11 @@ msgstr "酒水"
 
 #: stringdump_steam_2022_12_06.txt:5085
 msgid "Meat, fish, and others"
-msgstr ""
+msgstr "肉类、鱼类和其他"
 
 #: stringdump_steam_2022_12_06.txt:5086
 msgid "Ingredient type"
-msgstr ""
+msgstr "营养成分类型"
 
 #: stringdump_steam_2022_12_06.txt:5087
 msgid "Magma-safe"
@@ -20343,7 +20344,7 @@ msgstr "岩浆安全"
 
 #: stringdump_steam_2022_12_06.txt:5088
 msgid "Economic uses"
-msgstr ""
+msgstr "经济用途"
 
 #: stringdump_steam_2022_12_06.txt:5089
 msgid "Select to use in non-economic jobs."
@@ -20351,7 +20352,7 @@ msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:5090
 msgid "You know of no appropriate stones."
-msgstr ""
+msgstr "你知道没有合适的石头"
 
 #: stringdump_steam_2022_12_06.txt:5091
 msgid "Routine:"
@@ -20947,7 +20948,7 @@ msgstr "跳动。"
 
 #: stringdump_steam_2022_12_06.txt:5241
 msgid "Officer: "
-msgstr "官："
+msgstr "官员："
 
 #: stringdump_steam_2022_12_06.txt:5242
 msgid " in prison."
@@ -21099,31 +21100,31 @@ msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:5279
 msgid "[C:5:0:1]Faint"
-msgstr ""
+msgstr "[C:5:0:1]淡淡的"
 
 #: stringdump_steam_2022_12_06.txt:5280
 msgid "[C:5:0:1]Severe blood loss"
-msgstr ""
+msgstr "[C:5:0:1]严重失血"
 
 #: stringdump_steam_2022_12_06.txt:5281
 msgid "[C:3:0:1]Paralyzed"
-msgstr ""
+msgstr "[C:3:0:1]瘫痪"
 
 #: stringdump_steam_2022_12_06.txt:5282
 msgid "[C:5:0:1]Moderate blood loss"
-msgstr ""
+msgstr "[C:5:0:1]中度失血"
 
 #: stringdump_steam_2022_12_06.txt:5283
 msgid "[C:4:0:1]Heavy bleeding"
-msgstr ""
+msgstr "[C:4:0:1]大量出血"
 
 #: stringdump_steam_2022_12_06.txt:5284
 msgid "[C:6:0:0]In traction"
-msgstr ""
+msgstr "[C:6:0:0]牵引中"
 
 #: stringdump_steam_2022_12_06.txt:5285
 msgid "[C:5:0:1]Pale"
-msgstr ""
+msgstr "[C:5:0:1]苍白的"
 
 #: stringdump_steam_2022_12_06.txt:5286
 msgid "[C:4:0:1]Bleeding"
@@ -21368,23 +21369,23 @@ msgstr "[C:6:0:1].韧带扭伤"
 
 #: stringdump_steam_2022_12_06.txt:5347
 msgid "[C:7:0:1].Sensory nerve severed"
-msgstr ""
+msgstr "[C:7:0:1].感官神经断裂"
 
 #: stringdump_steam_2022_12_06.txt:5348
 msgid "[C:7:0:1].Motor nerve severed"
-msgstr ""
+msgstr "[C:7:0:1].运动神经断裂"
 
 #: stringdump_steam_2022_12_06.txt:5349
 msgid "[C:6:0:1].Strained tendon"
-msgstr ""
+msgstr "[C:6:0:1].肌腱拉伤"
 
 #: stringdump_steam_2022_12_06.txt:5350
 msgid "[C:6:0:1].Torn tendon"
-msgstr ""
+msgstr "[C:6:0:1].肌腱撕裂"
 
 #: stringdump_steam_2022_12_06.txt:5351
 msgid "[C:6:0:1]Vision impaired"
-msgstr ""
+msgstr "[C:6:0:1]视力受损"
 
 #: stringdump_steam_2022_12_06.txt:5352
 msgid "[C:4:0:1]Vision lost"
@@ -21512,23 +21513,23 @@ msgstr "[C:6:0:0].中度沸腾"
 
 #: stringdump_steam_2022_12_06.txt:5383
 msgid "[C:4:0:1].Smashed apart"
-msgstr ""
+msgstr "[C:4:0:1].砸碎"
 
 #: stringdump_steam_2022_12_06.txt:5384
 msgid "[C:4:0:1].Cut apart"
-msgstr ""
+msgstr "[C:4:0:1].割裂"
 
 #: stringdump_steam_2022_12_06.txt:5385
 msgid "[C:4:0:1].Torn apart"
-msgstr ""
+msgstr "[C:4:0:1].撕裂"
 
 #: stringdump_steam_2022_12_06.txt:5386
 msgid "[C:4:0:1].Broken apart"
-msgstr ""
+msgstr "[C:4:0:1].破碎"
 
 #: stringdump_steam_2022_12_06.txt:5387
 msgid "[C:6:0:0].Overlapping fracture (in traction)"
-msgstr ""
+msgstr "[C:6:0:0].重叠性骨折(牵引中)"
 
 #: stringdump_steam_2022_12_06.txt:5388
 msgid "[C:4:0:1].Compound fracture"
@@ -21536,11 +21537,11 @@ msgstr "[C:4:0:1].复合性骨折"
 
 #: stringdump_steam_2022_12_06.txt:5389
 msgid "[C:6:0:1].Needs setting"
-msgstr ""
+msgstr "[C:6:0:1]。需要设置"
 
 #: stringdump_steam_2022_12_06.txt:5390
 msgid "[C:4:0:1].Overlapping fracture"
-msgstr ""
+msgstr "[C:4:0:1].重叠性骨折"
 
 #: stringdump_steam_2022_12_06.txt:5391
 msgid "[C:6:0:0].Heavy bruising"
@@ -21560,19 +21561,19 @@ msgstr "[C:6:0:0].中度擦伤"
 
 #: stringdump_steam_2022_12_06.txt:5395
 msgid "[C:4:0:1].Smashed open"
-msgstr ""
+msgstr "[C:4:0:1].砸开"
 
 #: stringdump_steam_2022_12_06.txt:5396
 msgid "[C:4:0:1].Cut open"
-msgstr ""
+msgstr "[C:4:0:1].切开"
 
 #: stringdump_steam_2022_12_06.txt:5397
 msgid "[C:4:0:1].Torn open"
-msgstr ""
+msgstr "[C:4:0:1].撕开"
 
 #: stringdump_steam_2022_12_06.txt:5398
 msgid "[C:4:0:1].Broken open"
-msgstr ""
+msgstr "[C:4:0:1].破开"
 
 #: stringdump_steam_2022_12_06.txt:5399
 msgid "[C:6:0:1].Minor swelling"
@@ -21620,7 +21621,7 @@ msgstr "[C:3:0:1]需要清洁"
 
 #: stringdump_steam_2022_12_06.txt:5410
 msgid ".[C:5:0:1]Rotten -- inoperable"
-msgstr ""
+msgstr ".[C:5:0:1]腐烂 --无法操作"
 
 #: stringdump_steam_2022_12_06.txt:5411
 msgid "[C:7:0:1]Has been sutured"
@@ -21632,7 +21633,7 @@ msgstr "[C:7:0:1].功能轻微受损"
 
 #: stringdump_steam_2022_12_06.txt:5413
 msgid "[C:7:0:0]No evaluated wounds"
-msgstr ""
+msgstr "[C:7:0:0]没有评估过的伤口"
 
 #: stringdump_steam_2022_12_06.txt:5414
 msgid "[C:5:0:1]Infection"
@@ -21644,7 +21645,7 @@ msgstr "[C:6:0:0].重度起泡"
 
 #: stringdump_steam_2022_12_06.txt:5416
 msgid "[C:5:0:1].Minor rot"
-msgstr ""
+msgstr "[C:5:0:1].轻度腐烂"
 
 #: stringdump_steam_2022_12_06.txt:5417
 msgid "[C:6:0:0].Minor blistering"
@@ -21656,51 +21657,51 @@ msgstr "[C:6:0:0].中度起泡"
 
 #: stringdump_steam_2022_12_06.txt:5419
 msgid "[C:6:0:0].Minor condensation"
-msgstr ""
+msgstr "[C:6:0:0].轻微凝结"
 
 #: stringdump_steam_2022_12_06.txt:5420
 msgid "[C:6:0:0].Moderate condensation"
-msgstr ""
+msgstr "[C:6:0:0].中度凝结"
 
 #: stringdump_steam_2022_12_06.txt:5421
 msgid "[C:5:0:1].Moderate rot"
-msgstr ""
+msgstr "[C:5:0:1].中度腐烂"
 
 #: stringdump_steam_2022_12_06.txt:5422
 msgid "[C:5:0:1].Advanced rot"
-msgstr ""
+msgstr "[C:5:0:1].高度腐烂"
 
 #: stringdump_steam_2022_12_06.txt:5423
 msgid "[C:3:0:1].Paralysis"
-msgstr ""
+msgstr "[C:3:0:1].瘫痪"
 
 #: stringdump_steam_2022_12_06.txt:5424
 msgid "[C:3:0:1].Dizziness"
-msgstr ""
+msgstr "[C:3:0:1].眩晕"
 
 #: stringdump_steam_2022_12_06.txt:5425
 msgid "[C:3:0:1].Some sluggishness"
-msgstr ""
+msgstr "[C:3:0:1].有些迟钝"
 
 #: stringdump_steam_2022_12_06.txt:5426
 msgid "[C:3:0:1].Partial paralysis"
-msgstr ""
+msgstr "[C:3:0:1].局部瘫痪"
 
 #: stringdump_steam_2022_12_06.txt:5427
 msgid "[C:7:0:1].Moderate pain"
-msgstr ""
+msgstr "[C:7:0:1].中度疼痛"
 
 #: stringdump_steam_2022_12_06.txt:5428
 msgid "[C:7:0:1].Extreme pain"
-msgstr ""
+msgstr "[C:7:0:1].极度疼痛"
 
 #: stringdump_steam_2022_12_06.txt:5429
 msgid "[C:2:0:1].Nausea"
-msgstr ""
+msgstr "[C:2:0:1].恶心"
 
 #: stringdump_steam_2022_12_06.txt:5430
 msgid "[C:7:0:1].Minor pain"
-msgstr ""
+msgstr "[C:7:0:1].轻度疼痛"
 
 #: stringdump_steam_2022_12_06.txt:5431
 msgid "Rotten tissue excised from "
@@ -21716,11 +21717,11 @@ msgstr "组"
 
 #: stringdump_steam_2022_12_06.txt:5434
 msgid "[C:6:0:1]Had "
-msgstr ""
+msgstr "[C:6:0:1]曾有"
 
 #: stringdump_steam_2022_12_06.txt:5435
 msgid "[C:4:0:1]Bleeding stopped"
-msgstr ""
+msgstr "[C:4:0:1]血止住了"
 
 #: stringdump_steam_2022_12_06.txt:5436
 msgid " sutures on "
@@ -21732,11 +21733,11 @@ msgstr "修复"
 
 #: stringdump_steam_2022_12_06.txt:5438
 msgid "[C:4:0:1]Compound fracture of "
-msgstr ""
+msgstr "[C:4:0:1]开放性骨折于"
 
 #: stringdump_steam_2022_12_06.txt:5439
 msgid "[C:7:0:0]No medical history"
-msgstr ""
+msgstr "[C:7:0:0]没有病史"
 
 #: stringdump_steam_2022_12_06.txt:5441
 msgid " and can't even remember the last time "
@@ -21748,51 +21749,51 @@ msgstr "需要酒精来度过工作日"
 
 #: stringdump_steam_2022_12_06.txt:5443
 msgid "[C:7:0:1]Evaluated"
-msgstr ""
+msgstr "[C:7:0:1]已评估"
 
 #: stringdump_steam_2022_12_06.txt:5444
 msgid "[C:6:0:1]Placed in traction"
-msgstr ""
+msgstr "[C:6:0:1]放置在牵引装置中"
 
 #: stringdump_steam_2022_12_06.txt:5445
 msgid "[C:3:0:1]Cleaned"
-msgstr ""
+msgstr "[C:3:0:1]已清洗"
 
 #: stringdump_steam_2022_12_06.txt:5446
 msgid "[C:7:0:1]Brought to rest"
-msgstr ""
+msgstr "[C:7:0:1]休息"
 
 #: stringdump_steam_2022_12_06.txt:5447
 msgid ".[C:6:0:1]Needs immobilization"
-msgstr ""
+msgstr ".[C:6:0:1]需要固定"
 
 #: stringdump_steam_2022_12_06.txt:5448
 msgid ".[C:6:0:1]Needs traction"
-msgstr ""
+msgstr ".[C:6:0:1]需要牵引"
 
 #: stringdump_steam_2022_12_06.txt:5449
 msgid "[C:7:0:0:]Diagnosed with "
-msgstr ""
+msgstr "[C:7:0:0:]被诊断为"
 
 #: stringdump_steam_2022_12_06.txt:5450
 msgid "[C:7:0:0]No treatment scheduled"
-msgstr ""
+msgstr "[C:7:0:0]未安排治疗"
 
 #: stringdump_steam_2022_12_06.txt:5451
 msgid ".[C:2:0:1]Needs sutures"
-msgstr ""
+msgstr ".[C:2:0:1]需要缝合"
 
 #: stringdump_steam_2022_12_06.txt:5452
 msgid ".[C:4:0:1]Needs surgery"
-msgstr ""
+msgstr ".[C:4:0:1]需要手术"
 
 #: stringdump_steam_2022_12_06.txt:5453
 msgid ".[C:7:0:0]Needs dressing"
-msgstr ""
+msgstr ".[C:7:0:0]需要包扎"
 
 #: stringdump_steam_2022_12_06.txt:5454
 msgid ".[C:6:0:1]Needs setting"
-msgstr ""
+msgstr ".[C:6:0:1]需要设置"
 
 #: stringdump_steam_2022_12_06.txt:5455
 msgid " splint on "
@@ -21800,11 +21801,11 @@ msgstr "夹板"
 
 #: stringdump_steam_2022_12_06.txt:5456
 msgid "[C:6:0:1]Received "
-msgstr ""
+msgstr "[C:6:0:1]收到"
 
 #: stringdump_steam_2022_12_06.txt:5457
 msgid "[C:4:0:1]Received "
-msgstr ""
+msgstr "[C:4:0:1]收到"
 
 #: stringdump_steam_2022_12_06.txt:5458
 msgid " dressing on "
@@ -21812,7 +21813,7 @@ msgstr "穿上衣服"
 
 #: stringdump_steam_2022_12_06.txt:5459
 msgid "[C:7:0:1]Received "
-msgstr ""
+msgstr "[C:7:0:1]收到"
 
 #: stringdump_steam_2022_12_06.txt:5461
 msgid " cast"
@@ -21820,7 +21821,7 @@ msgstr "投"
 
 #: stringdump_steam_2022_12_06.txt:5462
 msgid "[C:7:0:1:]Received "
-msgstr ""
+msgstr "[C:7:0:1:]收到"
 
 #: stringdump_steam_2022_12_06.txt:5467
 msgid "When possible, "
@@ -21937,7 +21938,7 @@ msgstr "冥想之后"
 
 #: stringdump_steam_2022_12_06.txt:5502
 msgid "after communing with "
-msgstr "与...交往后"
+msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:5503
 msgid "after learning something"
@@ -23137,15 +23138,15 @@ msgstr "谢谢你！我会好好照顾这只威严的生物。"
 
 #: stringdump_steam_2022_12_06.txt:5803
 msgid "What have you done?  This is horrifying!"
-msgstr ""
+msgstr "你做了什么？ 太可怕了!"
 
 #: stringdump_steam_2022_12_06.txt:5804
 msgid "I give to you this fine beast, "
-msgstr ""
+msgstr "我把这只优秀的野兽送给你，"
 
 #: stringdump_steam_2022_12_06.txt:5805
 msgid "I deign to favor you with my little pretty, "
-msgstr ""
+msgstr "我愿意用我的小宝贝来帮助你，"
 
 #: stringdump_steam_2022_12_06.txt:5806
 msgid "We can no longer travel together."
@@ -23503,7 +23504,7 @@ msgstr "巨兽"
 
 #: stringdump_steam_2022_12_06.txt:5894
 msgid " is our ally"
-msgstr ""
+msgstr "是我们的盟友"
 
 #: stringdump_steam_2022_12_06.txt:5895
 msgid ""
@@ -23577,7 +23578,7 @@ msgstr "你必须驱赶潜伏的害虫"
 
 #: stringdump_steam_2022_12_06.txt:5912
 msgid ".  Their aggressive order must not be allowed to flourish."
-msgstr ""
+msgstr ". 决不允许他们的侵略性秩序盛行。"
 
 #: stringdump_steam_2022_12_06.txt:5913
 msgid "You must drive "
@@ -23615,7 +23616,7 @@ msgstr "无论如何，和平不再是一种选择。"
 
 #: stringdump_steam_2022_12_06.txt:5921
 msgid "  The alliance has outlived its usefulness."
-msgstr ""
+msgstr "这个联盟已经失去了它的用处。"
 
 #: stringdump_steam_2022_12_06.txt:5922
 msgid ".  These criminals have been allowed to thrive for too long."
@@ -23747,7 +23748,7 @@ msgstr "对手拒绝签订条约"
 
 #: stringdump_steam_2022_12_06.txt:5954
 msgid "a desire to kill the living and any others in opposition"
-msgstr ""
+msgstr "渴望杀死活着的人和任何其他反对的人"
 
 #: stringdump_steam_2022_12_06.txt:5955
 msgid "the adversary's inability to communicate and form treaties"
@@ -23759,7 +23760,7 @@ msgstr "关于所有权的争议"
 
 #: stringdump_steam_2022_12_06.txt:5957
 msgid "the disturbance of once-eternal rest"
-msgstr ""
+msgstr "扰乱一度的休息"
 
 #: stringdump_steam_2022_12_06.txt:5958
 msgid "It does not help matters that their leader "
@@ -23883,11 +23884,11 @@ msgstr "清除"
 
 #: stringdump_steam_2022_12_06.txt:5988
 msgid "a coup"
-msgstr ""
+msgstr "政变"
 
 #: stringdump_steam_2022_12_06.txt:5989
 msgid "persecution"
-msgstr ""
+msgstr "迫害"
 
 #: stringdump_steam_2022_12_06.txt:5990
 msgid "a blacksmith's shop"
@@ -24701,7 +24702,7 @@ msgstr "残害世界的、猎杀无助者的孽物，惧怕我吧！不论你们
 
 #: stringdump_steam_2022_12_06.txt:6191
 msgid "Tell me who you work for, or else."
-msgstr ""
+msgstr "告诉我你为谁工作，否则的话。"
 
 #: stringdump_steam_2022_12_06.txt:6192
 msgid "The bond is broken!  Return to the Underworld and trouble us no more!"
@@ -24869,7 +24870,7 @@ msgstr "真的"
 
 #: stringdump_steam_2022_12_06.txt:6233
 msgid "What have you been scheming?"
-msgstr ""
+msgstr "你一直在谋划什么？"
 
 #: stringdump_steam_2022_12_06.txt:6234
 msgid "You look like a mighty warrior indeed."
@@ -24881,11 +24882,11 @@ msgstr "你为谁工作？"
 
 #: stringdump_steam_2022_12_06.txt:6236
 msgid "Reveal what you have been scheming or suffer the consequences."
-msgstr ""
+msgstr "袒露你一直以来的阴谋，否则后果自负。"
 
 #: stringdump_steam_2022_12_06.txt:6237
 msgid " saw the sun and vomited on the spot!"
-msgstr ""
+msgstr "看到太阳，当场呕吐!"
 
 #: stringdump_steam_2022_12_06.txt:6238
 msgid "Tell me about your family."
@@ -24893,7 +24894,7 @@ msgstr "跟我说说你的家庭。"
 
 #: stringdump_steam_2022_12_06.txt:6239
 msgid "... and the "
-msgstr ""
+msgstr "...和"
 
 #: stringdump_steam_2022_12_06.txt:6240
 msgid " said, \"Are you going to eat that?\""
@@ -24901,7 +24902,7 @@ msgstr "说道：“你准备吃那个吗？”"
 
 #: stringdump_steam_2022_12_06.txt:6241
 msgid "Calm yourself!"
-msgstr ""
+msgstr "冷静下来!"
 
 #: stringdump_steam_2022_12_06.txt:6242
 msgid "So, the "
@@ -25994,7 +25995,7 @@ msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:6513
 msgid " asks that I look past illicit acts in my official capacities"
-msgstr ""
+msgstr "要求我看清我的官方身份中的非法行为"
 
 #: stringdump_steam_2022_12_06.txt:6514
 msgid " demands a portion of my official funds"
@@ -28080,7 +28081,7 @@ msgstr "轨道/坡道（东南北）"
 
 #: stringdump_steam_2022_12_06.txt:7039
 msgid "Track/Ramp (NSW)"
-msgstr ""
+msgstr "轨道/坡道（西南偏北）"
 
 #: stringdump_steam_2022_12_06.txt:7040
 msgid "Track/Ramp (NEW)"
@@ -28460,7 +28461,7 @@ msgstr "王座室"
 
 #: stringdump_steam_2022_12_06.txt:7136
 msgid "preparetomb() HAS LIVE owner"
-msgstr ""
+msgstr "预备坟墓()有在世主人"
 
 #: stringdump_steam_2022_12_06.txt:7137
 msgid "A masterwork of "
@@ -29104,7 +29105,7 @@ msgstr "你纠结在一起摔倒了！"
 
 #: stringdump_steam_2022_12_06.txt:7383
 msgid "They tangle together and fall over!"
-msgstr ""
+msgstr "他们纠缠在一起并摔倒了!"
 
 #: stringdump_steam_2022_12_06.txt:7384
 msgid "You tangle together and tumble forward!"
@@ -29112,7 +29113,7 @@ msgstr "你纠缠在一起，向前翻滚！"
 
 #: stringdump_steam_2022_12_06.txt:7385
 msgid "They tangle together and tumble forward!"
-msgstr ""
+msgstr "他们纠缠在一起并向前翻滚!"
 
 #: stringdump_steam_2022_12_06.txt:7386
 msgid " has moved out of range!"
@@ -31177,7 +31178,7 @@ msgstr "是"
 
 #: stringdump_steam_2022_12_06.txt:7885
 msgid "the subject of "
-msgstr "的主题"
+msgstr "主题之于"
 
 #: stringdump_steam_2022_12_06.txt:7886
 msgid "on "
@@ -31185,11 +31186,11 @@ msgstr "上"
 
 #: stringdump_steam_2022_12_06.txt:7887
 msgid "the idea of "
-msgstr "的想法"
+msgstr "想法之于"
 
 #: stringdump_steam_2022_12_06.txt:7888
 msgid "the concept of "
-msgstr "的概念"
+msgstr "概念之于"
 
 #: stringdump_steam_2022_12_06.txt:7889
 msgid "It's a great day to fall in love all over again."
@@ -31197,7 +31198,7 @@ msgstr "这是一个重新坠入爱河的美好日子。"
 
 #: stringdump_steam_2022_12_06.txt:7890
 msgid "the theme of "
-msgstr "主题是"
+msgstr "主题之于"
 
 #: stringdump_steam_2022_12_06.txt:7891
 msgid "Sometimes I just don't like somebody."
@@ -34211,7 +34212,7 @@ msgstr "表现"
 
 #: stringdump_steam_2022_12_06.txt:8639
 msgid "I saw a performance of "
-msgstr "我看到了表演"
+msgstr "我看到了表演之于"
 
 #: stringdump_steam_2022_12_06.txt:8640
 msgid "danced"
@@ -34271,7 +34272,7 @@ msgstr "在这个神圣之地"
 
 #: stringdump_steam_2022_12_06.txt:8654
 msgid "I have performed the rites of "
-msgstr "我已经执行仪式了，"
+msgstr "我已经执行了仪式之于"
 
 #: stringdump_steam_2022_12_06.txt:8655
 msgid "I have communed with "
@@ -34319,7 +34320,7 @@ msgstr "被屠杀了"
 
 #: stringdump_steam_2022_12_06.txt:8666
 msgid "was drained of blood"
-msgstr "被抽干的血液"
+msgstr "被抽干了血"
 
 #: stringdump_steam_2022_12_06.txt:8667
 msgid "died"
@@ -34403,19 +34404,19 @@ msgstr "被布道了"
 
 #: stringdump_steam_2022_12_06.txt:8687
 msgid " the story of "
-msgstr "的故事"
+msgstr "故事关于"
 
 #: stringdump_steam_2022_12_06.txt:8688
 msgid "a telling of"
-msgstr "一个告诉"
+msgstr "叙述之于"
 
 #: stringdump_steam_2022_12_06.txt:8689
 msgid "story of "
-msgstr "的故事"
+msgstr "故事关于"
 
 #: stringdump_steam_2022_12_06.txt:8690
 msgid " told the story of "
-msgstr "讲述了这个故事"
+msgstr "讲述了这个故事，关于"
 
 #: stringdump_steam_2022_12_06.txt:8691
 msgid "I recited "
@@ -34431,7 +34432,7 @@ msgstr "，杀手。"
 
 #: stringdump_steam_2022_12_06.txt:8694
 msgid ", slayer of "
-msgstr "，杀手"
+msgstr "，杀手之于"
 
 #: stringdump_steam_2022_12_06.txt:8695
 msgid "Slayer."
@@ -34951,7 +34952,7 @@ msgstr "我一直在下雨。"
 
 #: stringdump_steam_2022_12_06.txt:8824
 msgid "I was out in the rain."
-msgstr "我在外面下雨了。"
+msgstr "我在外面淋雨了。"
 
 #: stringdump_steam_2022_12_06.txt:8825
 msgid "I was in a snow storm."
@@ -35891,7 +35892,7 @@ msgstr "我收到了食物。"
 
 #: stringdump_steam_2022_12_06.txt:9059
 msgid "The body of "
-msgstr "的身体"
+msgstr "身体之于"
 
 #: stringdump_steam_2022_12_06.txt:9060
 msgid "There was an incident."
@@ -36588,7 +36589,7 @@ msgstr "几个月前"
 
 #: stringdump_steam_2022_12_06.txt:9233
 msgid "several years ago"
-msgstr "几年前"
+msgstr "数年前"
 
 #: stringdump_steam_2022_12_06.txt:9234
 msgid "a few years ago"
@@ -36824,7 +36825,7 @@ msgstr "很多敌人"
 
 #: stringdump_steam_2022_12_06.txt:9292
 msgid "by the forces of "
-msgstr "由...的力量"
+msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:9293
 msgid "by a "
@@ -37208,7 +37209,7 @@ msgstr "我有"
 
 #: stringdump_steam_2022_12_06.txt:9388
 msgid " is in "
-msgstr "在..."
+msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:9389
 msgid " is not in "
@@ -37459,7 +37460,7 @@ msgstr "他们有个"
 
 #: stringdump_steam_2022_12_06.txt:9494
 msgid "over at "
-msgstr "在..."
+msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:9495
 msgid " somewhere "
@@ -37483,7 +37484,7 @@ msgstr "一直在街上骚扰人们"
 
 #: stringdump_steam_2022_12_06.txt:9500
 msgid ", led by "
-msgstr "， 由...领着"
+msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:9501
 msgid "The army of "
@@ -37694,7 +37695,7 @@ msgstr "劫掠战队威胁着我们的人民。"
 #: stringdump_steam_2022_12_06.txt:9550
 msgid ""
 "A small but organized military order have been causing us much hardship."
-msgstr ""
+msgstr "一个小规模但有组织的军事秩序一直给我们带来很多困难。"
 
 #: stringdump_steam_2022_12_06.txt:9551
 msgid "Particular outlaws have been causing us much hardship."
@@ -38280,15 +38281,15 @@ msgstr "八胞胎"
 
 #: stringdump_steam_2022_12_06.txt:9761
 msgid "nonuplets"
-msgstr ""
+msgstr "九胞胎"
 
 #: stringdump_steam_2022_12_06.txt:9762
 msgid "sextuplets"
-msgstr ""
+msgstr "六胞胎"
 
 #: stringdump_steam_2022_12_06.txt:9763
 msgid "septuplets"
-msgstr ""
+msgstr "七胞胎"
 
 #: stringdump_steam_2022_12_06.txt:9772
 msgid "logs"
@@ -38400,27 +38401,27 @@ msgstr "残余"
 
 #: stringdump_steam_2022_12_06.txt:10110
 msgid "Unknown GAIT flag "
-msgstr ""
+msgstr "未知的GAIT标志"
 
 #: stringdump_steam_2022_12_06.txt:10123
 msgid ", repaired"
-msgstr ""
+msgstr ", 已修复"
 
 #: stringdump_steam_2022_12_06.txt:10124
 msgid "Attribute range greater than "
-msgstr ""
+msgstr "属性范围大于"
 
 #: stringdump_steam_2022_12_06.txt:10125
 msgid "Attribute range not in increasing order, repaired"
-msgstr ""
+msgstr "属性范围不按递增顺序排列，已修复"
 
 #: stringdump_steam_2022_12_06.txt:10126
 msgid "Attribute range less than "
-msgstr ""
+msgstr "属性范围小于"
 
 #: stringdump_steam_2022_12_06.txt:10127
 msgid "Attribute cap perc less than 100, set to 100"
-msgstr ""
+msgstr "属性上限小于100，设为100"
 
 #: stringdump_steam_2022_12_06.txt:10136
 msgid "Tissue layer not added because no BP found: "
@@ -38428,19 +38429,19 @@ msgstr "因为没有发现身体部件，所以没有添加组织层。"
 
 #: stringdump_steam_2022_12_06.txt:10140
 msgid "Body detail plan not found:"
-msgstr ""
+msgstr "没有找到身体细节图："
 
 #: stringdump_steam_2022_12_06.txt:10187
 msgid "Tissue Template "
-msgstr ""
+msgstr "组织模板"
 
 #: stringdump_steam_2022_12_06.txt:10210
 msgid " needs 2 tokens: "
-msgstr ""
+msgstr "需要两个凭证："
 
 #: stringdump_steam_2022_12_06.txt:10219
 msgid " missing plural string"
-msgstr ""
+msgstr "确实复数字符串"
 
 #: stringdump_steam_2022_12_06.txt:10222
 msgid "Tissue Definition "
@@ -38576,11 +38577,11 @@ msgstr "身躯庞大但骨瘦如柴"
 
 #: stringdump_steam_2022_12_06.txt:10275
 msgid " needs 6 tokens: "
-msgstr ""
+msgstr "需要6个凭证："
 
 #: stringdump_steam_2022_12_06.txt:10277
 msgid " needs 3 tokens: "
-msgstr ""
+msgstr "需要3个凭证："
 
 #: stringdump_steam_2022_12_06.txt:10285
 msgid "chunk"
@@ -38592,11 +38593,11 @@ msgstr "块"
 
 #: stringdump_steam_2022_12_06.txt:10287
 msgid "is gigantic with huge muscles and hanging rolls of lard"
-msgstr ""
+msgstr "巨大的肌肉和悬挂的肥肉。"
 
 #: stringdump_steam_2022_12_06.txt:10288
 msgid "is huge, muscular and fat"
-msgstr ""
+msgstr "身材巨大健壮,肌肉发达"
 
 #: stringdump_steam_2022_12_06.txt:10290
 msgid "body part"
@@ -38604,11 +38605,11 @@ msgstr "身体部位"
 
 #: stringdump_steam_2022_12_06.txt:10291
 msgid "is gigantic with incredible muscles"
-msgstr ""
+msgstr "身材魁梧，肌肉惊人"
 
 #: stringdump_steam_2022_12_06.txt:10292
 msgid "is very muscular and just gigantic overall"
-msgstr ""
+msgstr "肌肉非常发达，总体上是个大块头。"
 
 #: stringdump_steam_2022_12_06.txt:10293
 msgid ""
@@ -38831,15 +38832,15 @@ msgstr "高而瘦，身体虚弱，几乎看不出有什么脂肪"
 
 #: stringdump_steam_2022_12_06.txt:10346
 msgid "is tall and thin with incredible muscles"
-msgstr ""
+msgstr "又高又瘦，有惊人的肌肉"
 
 #: stringdump_steam_2022_12_06.txt:10347
 msgid "is lanky with ill-defined muscles"
-msgstr ""
+msgstr "身材瘦长，肌肉难以形容"
 
 #: stringdump_steam_2022_12_06.txt:10348
 msgid "packs extraordinary obesity on to what was once a tall and thin body"
-msgstr ""
+msgstr "原本高瘦的身体变得异常肥胖"
 
 #: stringdump_steam_2022_12_06.txt:10349
 msgid "is lanky and frail"
@@ -39084,7 +39085,7 @@ msgstr "身体虚弱，非常瘦弱，但总体上有一个宽阔的身体"
 
 #: stringdump_steam_2022_12_06.txt:10409
 msgid "is very broad-bodied"
-msgstr ""
+msgstr "身体非常宽大"
 
 #: stringdump_steam_2022_12_06.txt:10410
 msgid "has a broad body bearing impressive muscles and a great load of fat"
@@ -40044,151 +40045,151 @@ msgstr "又小又胖"
 
 #: stringdump_steam_2022_12_06.txt:10647
 msgid "is very small yet with huge slabs of lard and muscle"
-msgstr ""
+msgstr "非常小，但有着巨量肥油和肌肉块"
 
 #: stringdump_steam_2022_12_06.txt:10648
 msgid "is muscular and fat yet has a very small overall build"
-msgstr ""
+msgstr "肌肉发达，体型肥胖，但整体身材却非常瘦小"
 
 #: stringdump_steam_2022_12_06.txt:10649
 msgid "is skinny with a small build"
-msgstr ""
+msgstr "瘦小的身材"
 
 #: stringdump_steam_2022_12_06.txt:10650
 msgid "is small"
-msgstr "小"
+msgstr "很瘦小"
 
 #: stringdump_steam_2022_12_06.txt:10651
 msgid "is incredibly muscular for one so small"
-msgstr ""
+msgstr "对于这么小的人来说肌肉非常发达"
 
 #: stringdump_steam_2022_12_06.txt:10652
 msgid "is very small yet very muscular"
-msgstr ""
+msgstr "非常小但肌肉非常发达"
 
 #: stringdump_steam_2022_12_06.txt:10653
 msgid "is very weak, skinny and small"
-msgstr ""
+msgstr "非常虚弱，瘦小"
 
 #: stringdump_steam_2022_12_06.txt:10654
 msgid "is weak, skinny and very small"
-msgstr ""
+msgstr "虚弱、瘦弱且非常小"
 
 #: stringdump_steam_2022_12_06.txt:10655
 msgid "is very small with ill-defined muscles"
-msgstr ""
+msgstr "非常小，肌肉难以形容"
 
 #: stringdump_steam_2022_12_06.txt:10656
 msgid "has a very small body bedecked with lardy rolls"
-msgstr ""
+msgstr "有一个非常小的身体但肥的像猪油卷"
 
 #: stringdump_steam_2022_12_06.txt:10657
 msgid "is muscular and very small"
-msgstr ""
+msgstr "肌肉发达而且非常小"
 
 #: stringdump_steam_2022_12_06.txt:10658
 msgid "is weak and very small"
-msgstr ""
+msgstr "很弱而且很小"
 
 #: stringdump_steam_2022_12_06.txt:10659
 msgid "is very short, weak and skinny"
-msgstr ""
+msgstr "很矮，很弱，很瘦"
 
 #: stringdump_steam_2022_12_06.txt:10660
 msgid "is weak and skinny and also very short"
-msgstr ""
+msgstr "又弱又瘦又很矮"
 
 #: stringdump_steam_2022_12_06.txt:10661
 msgid "is very short yet impressively muscular and enormously fat"
-msgstr ""
+msgstr "非常矮小，但肌肉发达且非常肥胖"
 
 #: stringdump_steam_2022_12_06.txt:10662
 msgid "is very short in length but muscular and fat as well"
-msgstr ""
+msgstr "身高很矮，但肌肉和脂肪都很丰满"
 
 #: stringdump_steam_2022_12_06.txt:10663
 msgid "is muscular and very short"
-msgstr ""
+msgstr "肌肉发达而且很矮"
 
 #: stringdump_steam_2022_12_06.txt:10664
 msgid "is very short and frail"
-msgstr ""
+msgstr "非常矮小和虚弱"
 
 #: stringdump_steam_2022_12_06.txt:10665
 msgid "carries great muscles on a very short body"
-msgstr ""
+msgstr "身材矮小，肌肉发达"
 
 #: stringdump_steam_2022_12_06.txt:10666
 msgid "is very short and muscular"
-msgstr ""
+msgstr "很矮而且肌肉发达"
 
 #: stringdump_steam_2022_12_06.txt:10667
 msgid "has a very short body buttressed by rolls of lard"
-msgstr ""
+msgstr "身子很矮，全靠浑身肥油撑着"
 
 #: stringdump_steam_2022_12_06.txt:10668
 msgid "is short with great muscles and copious amounts of lard"
-msgstr ""
+msgstr "身材矮小，肌肉发达，有大量的肥肉"
 
 #: stringdump_steam_2022_12_06.txt:10669
 msgid "is very short and quite weak"
-msgstr ""
+msgstr "很矮很弱"
 
 #: stringdump_steam_2022_12_06.txt:10670
 msgid "is very short with ill-defined muscles"
-msgstr ""
+msgstr "很矮，肌肉难以形容"
 
 #: stringdump_steam_2022_12_06.txt:10671
 msgid "is incredibly muscular if a little short"
-msgstr ""
+msgstr "再矮点的话，肌肉就算非常发达了"
 
 #: stringdump_steam_2022_12_06.txt:10672
 msgid "is very muscular with a short body"
-msgstr ""
+msgstr "肌肉非常发达，身材矮小"
 
 #: stringdump_steam_2022_12_06.txt:10673
 msgid "is short in length but muscular and fat"
-msgstr ""
+msgstr "身高不高，肌肉和肥肉都有"
 
 #: stringdump_steam_2022_12_06.txt:10674
 msgid "is weak, skinny and short"
-msgstr ""
+msgstr "虚弱、瘦弱又矮小"
 
 #: stringdump_steam_2022_12_06.txt:10675
 msgid "is short and incredibly fat"
-msgstr ""
+msgstr "又矮又难以置信的胖"
 
 #: stringdump_steam_2022_12_06.txt:10676
 msgid "is short and very fat"
-msgstr ""
+msgstr "矮小还很胖"
 
 #: stringdump_steam_2022_12_06.txt:10677
 msgid "is short and weak"
-msgstr ""
+msgstr "又矮又弱"
 
 #: stringdump_steam_2022_12_06.txt:10678
 msgid "is short and scrawny"
-msgstr ""
+msgstr "又矮又骨肉如柴"
 
 #: stringdump_steam_2022_12_06.txt:10679
 msgid "is very weak and incredibly skinny"
-msgstr ""
+msgstr "非常虚弱和难以置信的瘦小"
 
 #: stringdump_steam_2022_12_06.txt:10680
 msgid "is weak and skinny"
-msgstr ""
+msgstr "又弱又瘦的皮包骨"
 
 #: stringdump_steam_2022_12_06.txt:10681
 msgid "is strapped with massive amounts of muscle and lard"
-msgstr ""
+msgstr "大量的肌肉和肥肉错落有致"
 
 #: stringdump_steam_2022_12_06.txt:10682
 msgid "is muscular and fat"
-msgstr ""
+msgstr "有肌肉也有肥肉"
 
 #: stringdump_steam_2022_12_06.txt:10683
 msgid "is muscular"
-msgstr ""
+msgstr "肌肉发达"
 
 #: stringdump_steam_2022_12_06.txt:10684
 msgid "is very weak"
@@ -40196,27 +40197,27 @@ msgstr "非常弱"
 
 #: stringdump_steam_2022_12_06.txt:10685
 msgid "is incredibly muscular"
-msgstr ""
+msgstr "难以置信的肌肉发达"
 
 #: stringdump_steam_2022_12_06.txt:10686
 msgid "is very muscular"
-msgstr ""
+msgstr "肌肉非常发达"
 
 #: stringdump_steam_2022_12_06.txt:10687
 msgid "is corpulent"
-msgstr ""
+msgstr "臃肿"
 
 #: stringdump_steam_2022_12_06.txt:10688
 msgid "is very fat"
-msgstr ""
+msgstr "非常胖"
 
 #: stringdump_steam_2022_12_06.txt:10689
 msgid "is weak"
-msgstr ""
+msgstr "有点弱小"
 
 #: stringdump_steam_2022_12_06.txt:10690
 msgid "is scrawny"
-msgstr ""
+msgstr "骨瘦如柴"
 
 #: stringdump_steam_2022_12_06.txt:10691
 msgid "torn open"
@@ -45132,7 +45133,7 @@ msgstr "石匠"
 
 #: stringdump_steam_2022_12_06.txt:13822
 msgid "Stone Carver"
-msgstr "石工艺师"
+msgstr "石雕师"
 
 #: stringdump_steam_2022_12_06.txt:13823
 msgid "Intrigue"
@@ -45560,7 +45561,7 @@ msgstr "宝石切割师"
 
 #: stringdump_steam_2022_12_06.txt:13929
 msgid "Stone Crafter"
-msgstr "石工艺师"
+msgstr "石匠"
 
 #: stringdump_steam_2022_12_06.txt:13930
 msgid "Wax Worker"
@@ -45640,11 +45641,11 @@ msgstr "歌手"
 
 #: stringdump_steam_2022_12_06.txt:13949
 msgid "ill-sized art actions (3): "
-msgstr ""
+msgstr "不合时宜的艺术行动（3）："
 
 #: stringdump_steam_2022_12_06.txt:13950
 msgid "ill-sized art actions (2): "
-msgstr ""
+msgstr "不合时宜的艺术行动（2）："
 
 #: stringdump_steam_2022_12_06.txt:13951
 msgid "ill-sized art actions (1): "
@@ -45652,15 +45653,15 @@ msgstr "不合时宜的艺术行动（1）："
 
 #: stringdump_steam_2022_12_06.txt:13953
 msgid "ill-sized art actions (6): "
-msgstr ""
+msgstr "不合时宜的艺术行动（6）："
 
 #: stringdump_steam_2022_12_06.txt:13954
 msgid "ill-sized art actions (5): "
-msgstr ""
+msgstr "不合时宜的艺术行动（5）："
 
 #: stringdump_steam_2022_12_06.txt:13955
 msgid "ill-sized art actions (4): "
-msgstr ""
+msgstr "不合时宜的艺术行动（4）："
 
 #: stringdump_steam_2022_12_06.txt:13980
 msgid "Miller"
@@ -48254,7 +48255,7 @@ msgstr "磁盘上的一个压缩文件中有错误。如果可以，请从备份
 
 #: stringdump_steam_2022_12_06.txt:15365
 msgid "We have unleashed the echo of a forgotten divine retribution!"
-msgstr ""
+msgstr "我们已经释放了被遗忘的神的报应的回声!"
 
 #: stringdump_steam_2022_12_06.txt:15366
 msgid "Horrifying screams come from the darkness below!"
@@ -48266,7 +48267,7 @@ msgstr "我们检查了那块石头的热量！这是什么鬼？！"
 
 #: stringdump_steam_2022_12_06.txt:15368
 msgid "Some ancient horror was encased here, until now!"
-msgstr ""
+msgstr "一些古老的恐怖被潜藏于此，直到现在!"
 
 #: stringdump_steam_2022_12_06.txt:15369
 msgid "Apocalypse!  We are being judged by the gods!"
@@ -48274,7 +48275,7 @@ msgstr "天启！我们正在接受神的审判！"
 
 #: stringdump_steam_2022_12_06.txt:15370
 msgid "Something evil is emerging from this newly exposed pocket!"
-msgstr ""
+msgstr "邪恶的存在正在从这个新暴露的口袋里冒出来!"
 
 #: stringdump_steam_2022_12_06.txt:15371
 msgid ""
@@ -48290,7 +48291,7 @@ msgstr "发光的障碍消失了！"
 msgid ""
 "Deep within this strange place, we've uncovered what must be a treasure of "
 "the gods!"
-msgstr ""
+msgstr "在这个奇怪的地方深处，我们发现的一定是诸神的宝藏!"
 
 #: stringdump_steam_2022_12_06.txt:15374
 msgid "Saving civilized populations..."
@@ -48310,7 +48311,7 @@ msgstr "保存历史......"
 
 #: stringdump_steam_2022_12_06.txt:15378
 msgid "Saving world"
-msgstr ""
+msgstr "保存世界中"
 
 #: stringdump_steam_2022_12_06.txt:15380
 msgid "Sorting world information..."
@@ -48325,24 +48326,30 @@ msgid ""
 "[C:VAR:MEETING:ACTOR][VAR:NATIVENAME:MEETING:ACTOR]:  Greetings, noble "
 "dwarf.  There is much to discuss."
 msgstr ""
+"[C:VAR:MEETING:ACTOR][VAR:NATIVENAME:MEETING:ACTOR]:  你好，高贵的侏儒。 我们有很多事情要讨论。"
 
 #: stringdump_steam_2022_12_06.txt:15386
 msgid ""
 "[C:VAR:MEETING:ACTOR][VAR:NATIVENAME:MEETING:ACTOR]:  Again on behalf of the"
 " Merchants' Guild, let me bid farewell to you and your stout dwarves."
 msgstr ""
+"[C:VAR:MEETING:ACTOR][VAR:NATIVENAME:MEETING:ACTOR]:  "
+"请允许我再次代表商人协会，向你和你的粗壮的矮人告别。"
 
 #: stringdump_steam_2022_12_06.txt:15388
 msgid ""
 "[C:VAR:MEETING:ACTOR][VAR:NATIVENAME:MEETING:ACTOR]:  Greetings from the "
 "woodlands.  We have much to discuss."
 msgstr ""
+"[C:VAR:MEETING:ACTOR][VAR:NATIVENAME:MEETING:ACTOR]:  来自林地的问候。 我们有很多事情要讨论。"
 
 #: stringdump_steam_2022_12_06.txt:15390
 msgid ""
 "[C:VAR:MEETING:ACTOR][VAR:NATIVENAME:MEETING:ACTOR]:  It has been an honor, "
 "noble [VAR:NATIVENAME:MEETING:NOBLE].  I bid you farewell."
 msgstr ""
+"[C:VAR:MEETING:ACTOR][VAR:NATIVENAME:MEETING:ACTOR]: 这是我的荣幸，高贵的 "
+"[VAR:NATIVENAME:MEETING:NOBLE]. 我向你告别。"
 
 #: stringdump_steam_2022_12_06.txt:15392
 msgid ""
@@ -48386,15 +48393,15 @@ msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:15400
 msgid "[TEXTVIEWER:elves_firstcontact2]"
-msgstr ""
+msgstr "[TEXTVIEWER:elves_firstcontact2]"
 
 #: stringdump_steam_2022_12_06.txt:15406
 msgid "[TEXTVIEWER:elves_firstcontact1]"
-msgstr ""
+msgstr "[TEXTVIEWER:elves_firstcontact1]"
 
 #: stringdump_steam_2022_12_06.txt:15410
 msgid "[TEXTVIEWER:dwarf_liaison_bye]"
-msgstr ""
+msgstr "[TEXTVIEWER:dwarf_liaison_bye]"
 
 #: stringdump_steam_2022_12_06.txt:15412
 msgid ""
@@ -48407,7 +48414,7 @@ msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:15413
 msgid "[TEXTVIEWER:dwarf_liaison1]"
-msgstr ""
+msgstr "[TEXTVIEWER:dwarf_liaison1]"
 
 #: stringdump_steam_2022_12_06.txt:15420
 msgid "*** STARTING NEW GAME ***"
@@ -48580,15 +48587,15 @@ msgstr "绳"
 
 #: stringdump_steam_2022_12_06.txt:15477
 msgid "sarcophag"
-msgstr ""
+msgstr "石棺"
 
 #: stringdump_steam_2022_12_06.txt:15478
 msgid "grown "
-msgstr ""
+msgstr "成长"
 
 #: stringdump_steam_2022_12_06.txt:15479
 msgid "Jobs removed from unpowered "
-msgstr ""
+msgstr "工作已经移除自无动力的"
 
 #: stringdump_steam_2022_12_06.txt:15480
 msgid "es"
@@ -48600,31 +48607,31 @@ msgstr "树枝"
 
 #: stringdump_steam_2022_12_06.txt:15482
 msgid "[TEXTVIEWER:human_trade1]"
-msgstr ""
+msgstr "[TEXTVIEWER:human_trade1]"
 
 #: stringdump_steam_2022_12_06.txt:15484
 msgid " were unable to complete the "
-msgstr ""
+msgstr "无法完成此"
 
 #: stringdump_steam_2022_12_06.txt:15485
 msgid "[TEXTVIEWER:human_trade_bye]"
-msgstr ""
+msgstr "[TEXTVIEWER:human_trade_bye]"
 
 #: stringdump_steam_2022_12_06.txt:15486
 msgid "[TEXTVIEWER:human_standard1]"
-msgstr ""
+msgstr "[TEXTVIEWER:human_standard1]"
 
 #: stringdump_steam_2022_12_06.txt:15489
 msgid "[TEXTVIEWER:human_standard_bye]"
-msgstr ""
+msgstr "[TEXTVIEWER:human_standard_bye]"
 
 #: stringdump_steam_2022_12_06.txt:15490
 msgid "[TEXTVIEWER:elves_standard1]"
-msgstr ""
+msgstr "[TEXTVIEWER:elves_standard1]"
 
 #: stringdump_steam_2022_12_06.txt:15493
 msgid "[TEXTVIEWER:elves_standard_bye]"
-msgstr ""
+msgstr "[TEXTVIEWER:elves_standard_bye]"
 
 #: stringdump_steam_2022_12_06.txt:15494
 msgid "cut crystal glass gems"
@@ -48888,7 +48895,7 @@ msgstr "粉末"
 
 #: stringdump_steam_2022_12_06.txt:15559
 msgid " laced with "
-msgstr "与...相伴"
+msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:15560
 msgid "catapult parts"
@@ -49088,7 +49095,7 @@ msgstr "铁匠的商店标志"
 
 #: stringdump_steam_2022_12_06.txt:15610
 msgid "bowyer's shop sign"
-msgstr ""
+msgstr "弓箭手的商店标志"
 
 #: stringdump_steam_2022_12_06.txt:15611
 msgid "leather goods shop sign"
@@ -49168,11 +49175,11 @@ msgstr "皮革身体部件"
 
 #: stringdump_steam_2022_12_06.txt:15630
 msgid "silk body part"
-msgstr ""
+msgstr "丝织品的身体部件"
 
 #: stringdump_steam_2022_12_06.txt:15631
 msgid "soap body part"
-msgstr ""
+msgstr "肥皂身体部件"
 
 #: stringdump_steam_2022_12_06.txt:15632
 msgid "wooden body part"
@@ -49410,11 +49417,11 @@ msgstr "都会"
 
 #: stringdump_steam_2022_12_06.txt:15691
 msgid "Capital"
-msgstr ""
+msgstr "首府"
 
 #: stringdump_steam_2022_12_06.txt:15692
 msgid "Creatures that look at the item cannot think negative thoughts."
-msgstr "看项目的生物不能想到消极的想法。"
+msgstr "观察该物品的生物不能产生负面想法。"
 
 #: stringdump_steam_2022_12_06.txt:15693
 msgid "Tiny streaks of lightning streak quickly over the object's surface."
@@ -49590,7 +49597,7 @@ msgstr "一个更加官方的土地"
 
 #: stringdump_steam_2022_12_06.txt:15736
 msgid "swarm of "
-msgstr "群"
+msgstr "一群"
 
 #: stringdump_steam_2022_12_06.txt:15737
 msgid " have been disturbed."
@@ -49814,7 +49821,7 @@ msgstr "具有很高的价值"
 
 #: stringdump_steam_2022_12_06.txt:15818
 msgid "smoother operation of entity"
-msgstr ""
+msgstr "实体运作更顺畅"
 
 #: stringdump_steam_2022_12_06.txt:15819
 msgid "afraid of persecution"
@@ -50878,23 +50885,23 @@ msgstr "提高技能"
 
 #: stringdump_steam_2022_12_06.txt:16088
 msgid "accepting bribes for leniency"
-msgstr ""
+msgstr "认罪受贿指控以获得宽大处理"
 
 #: stringdump_steam_2022_12_06.txt:16089
 msgid "performance in site"
-msgstr ""
+msgstr "在站点表演"
 
 #: stringdump_steam_2022_12_06.txt:16090
 msgid "scholarly lecture in site"
-msgstr ""
+msgstr "在站点做学术报告"
 
 #: stringdump_steam_2022_12_06.txt:16091
 msgid "unnaturally ageless"
-msgstr ""
+msgstr "不自然的岁月无痕"
 
 #: stringdump_steam_2022_12_06.txt:16092
 msgid "preying on civilized for blood"
-msgstr ""
+msgstr "掠夺文明人的血液"
 
 #: stringdump_steam_2022_12_06.txt:16093
 msgid "claimed artifact given away"
@@ -50914,7 +50921,7 @@ msgstr "谋杀了"
 
 #: stringdump_steam_2022_12_06.txt:16097
 msgid "abducted hf"
-msgstr ""
+msgstr "被绑架了"
 
 #: stringdump_steam_2022_12_06.txt:16098
 msgid "by preserving part of body"
@@ -51154,7 +51161,7 @@ msgstr "找到后"
 
 #: stringdump_steam_2022_12_06.txt:16157
 msgid "after invocation of the true name"
-msgstr "在调用真名后"
+msgstr "在祷告真名后"
 
 #: stringdump_steam_2022_12_06.txt:16158
 msgid "after adoption"
@@ -51202,19 +51209,19 @@ msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:16171
 msgid "guildhall agreement abandoned"
-msgstr ""
+msgstr "行会协议被放弃"
 
 #: stringdump_steam_2022_12_06.txt:16172
 msgid "guildhall petition ignored"
-msgstr ""
+msgstr "行会请愿被忽视"
 
 #: stringdump_steam_2022_12_06.txt:16173
 msgid "guildhall petition rejected"
-msgstr ""
+msgstr "行会请愿被拒绝"
 
 #: stringdump_steam_2022_12_06.txt:16174
 msgid "guildhall petition accepted"
-msgstr ""
+msgstr "接受行会请愿"
 
 #: stringdump_steam_2022_12_06.txt:16175
 msgid "temple agreement abandoned"
@@ -51246,7 +51253,7 @@ msgstr "从此以后"
 
 #: stringdump_steam_2022_12_06.txt:16182
 msgid "cut of corrupt funds"
-msgstr ""
+msgstr "阻断贪污"
 
 #: stringdump_steam_2022_12_06.txt:16183
 msgid "embezzling funds from position"
@@ -51354,11 +51361,11 @@ msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:16210
 msgid "to smooth the operation of "
-msgstr ""
+msgstr "排除操作上的困难，关于"
 
 #: stringdump_steam_2022_12_06.txt:16211
 msgid "due to fear of persecution"
-msgstr ""
+msgstr "由于害怕遭到迫害"
 
 #: stringdump_steam_2022_12_06.txt:16212
 msgid "having ambitions for which death was only a small obstacle"
@@ -51386,7 +51393,7 @@ msgstr "梦想过后"
 
 #: stringdump_steam_2022_12_06.txt:16218
 msgid "after dreaming of "
-msgstr "在做梦之后"
+msgstr "梦到了"
 
 #: stringdump_steam_2022_12_06.txt:16219
 msgid " in an undedicated temple"
@@ -51398,7 +51405,7 @@ msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:16221
 msgid "after incompletely performing the rites of "
-msgstr ""
+msgstr "举办了不恰当的仪式之于"
 
 #: stringdump_steam_2022_12_06.txt:16222
 msgid " in a dedicated temple"
@@ -51406,7 +51413,7 @@ msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:16223
 msgid "after performing the rites of "
-msgstr ""
+msgstr "举办了仪式之于"
 
 #: stringdump_steam_2022_12_06.txt:16224
 msgid "after praying to "
@@ -51414,7 +51421,7 @@ msgstr "祈祷之后"
 
 #: stringdump_steam_2022_12_06.txt:16225
 msgid "after the death of "
-msgstr "死后"
+msgstr "死后之于"
 
 #: stringdump_steam_2022_12_06.txt:16226
 msgid "after taking heavy losses in battle"
@@ -51422,7 +51429,7 @@ msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:16227
 msgid "due to a lack of funds"
-msgstr ""
+msgstr "由于缺少资金"
 
 #: stringdump_steam_2022_12_06.txt:16228
 msgid "engineering"
@@ -51526,7 +51533,7 @@ msgstr "家庭"
 
 #: stringdump_steam_2022_12_06.txt:16253
 msgid "as an heirloom of the "
-msgstr "作为传家宝的"
+msgstr "作为传家之宝的"
 
 #: stringdump_steam_2022_12_06.txt:16254
 msgid "in order to sanctify "
@@ -51692,7 +51699,7 @@ msgstr "构建了一个高手"
 msgid ""
 " as a capable and connected lieutenant with more autonomy to act on plots in"
 " the web of intrigue"
-msgstr ""
+msgstr "作为一个有能力，有关系的中尉，在阴谋网中有更多的自主权"
 
 #: stringdump_steam_2022_12_06.txt:16295
 msgid " by growing vegetation"
@@ -51840,7 +51847,7 @@ msgstr "破坏"
 
 #: stringdump_steam_2022_12_06.txt:16331
 msgid "the defeat of "
-msgstr "失败了"
+msgstr "败于"
 
 #: stringdump_steam_2022_12_06.txt:16332
 msgid " defeated "
@@ -51852,7 +51859,7 @@ msgstr "攻击"
 
 #: stringdump_steam_2022_12_06.txt:16334
 msgid "the infiltration of "
-msgstr "渗透"
+msgstr "渗透自"
 
 #: stringdump_steam_2022_12_06.txt:16335
 msgid ", undetected by "
@@ -51864,7 +51871,7 @@ msgstr "溜进去"
 
 #: stringdump_steam_2022_12_06.txt:16337
 msgid " by the forces of "
-msgstr "由...的力量"
+msgstr "凭借力量之于"
 
 #: stringdump_steam_2022_12_06.txt:16338
 msgid "the search of "
@@ -51900,7 +51907,7 @@ msgstr "过度"
 
 #: stringdump_steam_2022_12_06.txt:16346
 msgid " and lordship of "
-msgstr "和...的主权"
+msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:16347
 msgid "The new government was called "
@@ -51928,7 +51935,7 @@ msgstr "掠夺"
 
 #: stringdump_steam_2022_12_06.txt:16353
 msgid "raiding of "
-msgstr "袭击"
+msgstr "袭击自"
 
 #: stringdump_steam_2022_12_06.txt:16354
 msgid "pillaged"
@@ -52008,7 +52015,7 @@ msgstr "精心染色"
 
 #: stringdump_steam_2022_12_06.txt:16373
 msgid " created by "
-msgstr "由...制作"
+msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:16374
 msgid "the masterful "
@@ -52024,7 +52031,7 @@ msgstr "横冲直撞"
 
 #: stringdump_steam_2022_12_06.txt:16377
 msgid ", the forces of "
-msgstr "，力量"
+msgstr "，力量之于"
 
 #: stringdump_steam_2022_12_06.txt:16378
 msgid "the attack by "
@@ -52072,7 +52079,7 @@ msgstr "编制"
 
 #: stringdump_steam_2022_12_06.txt:16389
 msgid "creation of a masterful image set"
-msgstr ""
+msgstr "精湛影像集的创作"
 
 #: stringdump_steam_2022_12_06.txt:16390
 msgid "addition of a masterful instrument piece"
@@ -52080,11 +52087,11 @@ msgstr "增加了一个精巧的乐器"
 
 #: stringdump_steam_2022_12_06.txt:16391
 msgid "creation of a masterful illustration"
-msgstr "创造一个高超的插图"
+msgstr "高超插图的创作"
 
 #: stringdump_steam_2022_12_06.txt:16392
 msgid " the joining of "
-msgstr "加入"
+msgstr "加入自"
 
 #: stringdump_steam_2022_12_06.txt:16393
 msgid "a few"
@@ -52128,7 +52135,7 @@ msgstr "形成"
 
 #: stringdump_steam_2022_12_06.txt:16403
 msgid "the withering of "
-msgstr "枯萎了"
+msgstr "枯萎的"
 
 #: stringdump_steam_2022_12_06.txt:16404
 msgid "the abandonment of "
@@ -52140,7 +52147,7 @@ msgstr "干枯。"
 
 #: stringdump_steam_2022_12_06.txt:16406
 msgid " settlement of "
-msgstr "解决"
+msgstr "协议："
 
 #: stringdump_steam_2022_12_06.txt:16407
 msgid "their"
@@ -52168,15 +52175,15 @@ msgstr "成"
 
 #: stringdump_steam_2022_12_06.txt:16413
 msgid "the incorporation of "
-msgstr "纳入"
+msgstr "合并之于"
 
 #: stringdump_steam_2022_12_06.txt:16414
 msgid "the subordination of "
-msgstr ""
+msgstr "隶属于"
 
 #: stringdump_steam_2022_12_06.txt:16415
 msgid "relocation of"
-msgstr "搬迁"
+msgstr "搬迁的"
 
 #: stringdump_steam_2022_12_06.txt:16416
 msgid "ascendency of the criminal organization"
@@ -52184,7 +52191,7 @@ msgstr "犯罪组织的优势"
 
 #: stringdump_steam_2022_12_06.txt:16417
 msgid "the formation of "
-msgstr "的形成"
+msgstr "形成的"
 
 #: stringdump_steam_2022_12_06.txt:16418
 msgid " regained their senses after another period of questionable judgment."
@@ -52201,7 +52208,7 @@ msgstr "在解决"
 
 #: stringdump_steam_2022_12_06.txt:16421
 msgid " under the leadership of "
-msgstr ""
+msgstr "由领导之于"
 
 #: stringdump_steam_2022_12_06.txt:16422
 msgid " fully incorporated into "
@@ -52393,7 +52400,7 @@ msgstr "最后总结"
 
 #: stringdump_steam_2022_12_06.txt:16469
 msgid "the insurrection in "
-msgstr "在...的起义"
+msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:16470
 msgid "the insurrection"
@@ -52689,7 +52696,7 @@ msgstr "单身"
 
 #: stringdump_steam_2022_12_06.txt:16543
 msgid " clashed with "
-msgstr "与...发生冲突"
+msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:16544
 msgid "animated "
@@ -52929,7 +52936,7 @@ msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:16604
 msgid "began dreaming of attaining rank in society"
-msgstr ""
+msgstr "开始梦想在社会上获得地位"
 
 #: stringdump_steam_2022_12_06.txt:16605
 msgid "began dreaming of seeing the great natural wonders of the world"
@@ -52993,15 +53000,15 @@ msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:16620
 msgid "the purchased of "
-msgstr ""
+msgstr "已购买："
 
 #: stringdump_steam_2022_12_06.txt:16621
 msgid "the carousal of"
-msgstr "的喧嚣"
+msgstr "狂欢："
 
 #: stringdump_steam_2022_12_06.txt:16622
 msgid "the horrible experiments of"
-msgstr ""
+msgstr "恐怖实验："
 
 #: stringdump_steam_2022_12_06.txt:16623
 msgid " equipment"
@@ -53041,7 +53048,7 @@ msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:16632
 msgid "the subduing of "
-msgstr ""
+msgstr "制服了"
 
 #: stringdump_steam_2022_12_06.txt:16633
 msgid " got into a brawl with "
@@ -53449,7 +53456,7 @@ msgstr "在岩浆雾中"
 
 #: stringdump_steam_2022_12_06.txt:16734
 msgid "the scalding of "
-msgstr "烫伤"
+msgstr "烫伤的"
 
 #: stringdump_steam_2022_12_06.txt:16735
 msgid "'s fire"
@@ -53477,19 +53484,19 @@ msgstr "包裹的"
 
 #: stringdump_steam_2022_12_06.txt:16741
 msgid "the heat-induced death of "
-msgstr "热死"
+msgstr "热死的"
 
 #: stringdump_steam_2022_12_06.txt:16742
 msgid "the freezing of "
-msgstr "冻结"
+msgstr "冻结的"
 
 #: stringdump_steam_2022_12_06.txt:16743
 msgid "the condensation of "
-msgstr "凝结"
+msgstr "凝结的"
 
 #: stringdump_steam_2022_12_06.txt:16744
 msgid "the new desire of"
-msgstr "新的愿望"
+msgstr "新的愿望："
 
 #: stringdump_steam_2022_12_06.txt:16745
 msgid "independent discovery"
@@ -53609,11 +53616,11 @@ msgstr "统治世界"
 
 #: stringdump_steam_2022_12_06.txt:16774
 msgid "the new obsession of"
-msgstr "新的痴迷"
+msgstr "新的痴迷："
 
 #: stringdump_steam_2022_12_06.txt:16775
 msgid "the new dream of"
-msgstr "新的梦想"
+msgstr "新的梦想："
 
 #: stringdump_steam_2022_12_06.txt:16776
 msgid "decided to become a thief, operating"
@@ -53653,7 +53660,7 @@ msgstr "绑架"
 
 #: stringdump_steam_2022_12_06.txt:16785
 msgid "the reunion of "
-msgstr "团圆的重逢"
+msgstr "重逢"
 
 #: stringdump_steam_2022_12_06.txt:16786
 msgid " through the efforts of "
@@ -53721,7 +53728,7 @@ msgstr "在"
 
 #: stringdump_steam_2022_12_06.txt:16802
 msgid " out of"
-msgstr "在......之外"
+msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:16803
 msgid "lost a hist fig entry"
@@ -54561,7 +54568,7 @@ msgstr "为了提取信息"
 
 #: stringdump_steam_2022_12_06.txt:17012
 msgid " formed a false friendship with "
-msgstr "与...形成虚假的友谊"
+msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:17013
 msgid "formed a friendship"
@@ -54641,7 +54648,7 @@ msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:17032
 msgid " sabotaged the activities of "
-msgstr ""
+msgstr "曾蓄意破坏活动于"
 
 #: stringdump_steam_2022_12_06.txt:17033
 msgid "the sale of "
@@ -54765,7 +54772,7 @@ msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:17063
 msgid "the sabotage of the activities of "
-msgstr ""
+msgstr "蓄意的破坏之于"
 
 #: stringdump_steam_2022_12_06.txt:17064
 msgid "A hundred or more people were expelled"
@@ -54853,7 +54860,7 @@ msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:17085
 msgid "Several major structures were destroyed"
-msgstr ""
+msgstr "一些主要的建筑被摧毁"
 
 #: stringdump_steam_2022_12_06.txt:17086
 msgid "Most property was confiscated"
@@ -54901,7 +54908,7 @@ msgstr "被绳之以法"
 
 #: stringdump_steam_2022_12_06.txt:17097
 msgid "made peace with"
-msgstr "与...和平相处"
+msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:17098
 msgid "left the service of"
@@ -54953,7 +54960,7 @@ msgstr "在眼中的罪犯"
 
 #: stringdump_steam_2022_12_06.txt:17110
 msgid "an enemy of"
-msgstr "是...的敌人"
+msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:17111
 msgid "the former master-apprentice relationship of"
@@ -55549,7 +55556,7 @@ msgstr "第一次接触"
 
 #: stringdump_steam_2022_12_06.txt:17259
 msgid " made contact with "
-msgstr "与...取得联系"
+msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:17260
 msgid "from the prisons of"
@@ -55569,7 +55576,7 @@ msgstr "来自雇佣军的服务"
 
 #: stringdump_steam_2022_12_06.txt:17264
 msgid "from the position of "
-msgstr "从...的位置"
+msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:17265
 msgid "the end of the claim of"
@@ -55609,7 +55616,7 @@ msgstr "被拒绝了"
 
 #: stringdump_steam_2022_12_06.txt:17274
 msgid " proposed by "
-msgstr "由...提出"
+msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:17275
 msgid "the miserable failure"
@@ -55721,7 +55728,7 @@ msgstr "挣了一大笔钱"
 
 #: stringdump_steam_2022_12_06.txt:17302
 msgid "the voiding of agreements with "
-msgstr "与...无效的协议"
+msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:17303
 msgid " ranged weapons"
@@ -56037,7 +56044,7 @@ msgstr "音乐形式"
 
 #: stringdump_steam_2022_12_06.txt:17381
 msgid " was created by "
-msgstr "是由...创建的"
+msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:17382
 msgid "a poetic form"
@@ -56277,7 +56284,7 @@ msgstr "举行仪式"
 
 #: stringdump_steam_2022_12_06.txt:17442
 msgid "a procession held by "
-msgstr "由...举行的游行"
+msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:17443
 msgid "  It ended at "
@@ -56389,7 +56396,7 @@ msgstr "被……持有"
 
 #: stringdump_steam_2022_12_06.txt:17470
 msgid " as part of "
-msgstr "作为...的一部分"
+msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:17471
 msgid "there was a performance"
@@ -56405,7 +56412,7 @@ msgstr "诗歌朗诵"
 
 #: stringdump_steam_2022_12_06.txt:17474
 msgid "a recital of "
-msgstr "一个独奏会"
+msgstr "一场吟诵关于"
 
 #: stringdump_steam_2022_12_06.txt:17475
 msgid "a concert"
@@ -56417,7 +56424,7 @@ msgstr "一支舞"
 
 #: stringdump_steam_2022_12_06.txt:17477
 msgid "a performance of "
-msgstr "表现"
+msgstr "表现之于"
 
 #: stringdump_steam_2022_12_06.txt:17478
 msgid " held "
@@ -56473,11 +56480,11 @@ msgstr "热心"
 
 #: stringdump_steam_2022_12_06.txt:17491
 msgid "object of "
-msgstr "的对象"
+msgstr "对象之于"
 
 #: stringdump_steam_2022_12_06.txt:17492
 msgid "[C:3:0:1]Related Historical Figures[C:7:0:0][B]"
-msgstr ""
+msgstr "[C:3:0:1]相关历史人物[C:7:0:0][B]"
 
 #: stringdump_steam_2022_12_06.txt:17493
 msgid " in defense of "
@@ -56529,7 +56536,7 @@ msgstr "展示"
 
 #: stringdump_steam_2022_12_06.txt:17505
 msgid "[C:1:0:1]Related Entities[C:7:0:0][B]"
-msgstr ""
+msgstr "[C:1:0:1]相关实体[C:7:0:0][B]"
 
 #: stringdump_steam_2022_12_06.txt:17506
 msgid "d. "
@@ -56625,7 +56632,7 @@ msgstr "战斗与"
 
 #: stringdump_steam_2022_12_06.txt:17529
 msgid "as part of "
-msgstr "作为...的一部分"
+msgstr "作为一部分之于"
 
 #: stringdump_steam_2022_12_06.txt:17530
 msgid "as a scout"
@@ -57233,7 +57240,7 @@ msgstr "年龄"
 
 #: stringdump_steam_2022_12_06.txt:17685
 msgid "Age of the "
-msgstr "年龄"
+msgstr "时代："
 
 #: stringdump_steam_2022_12_06.txt:17686
 msgid "Two Powers"
@@ -57253,11 +57260,11 @@ msgstr "清除"
 
 #: stringdump_steam_2022_12_06.txt:17690
 msgid "Persecution of "
-msgstr "迫害"
+msgstr "迫害："
 
 #: stringdump_steam_2022_12_06.txt:17691
 msgid "Overthrow of "
-msgstr "推翻"
+msgstr "推翻："
 
 #: stringdump_steam_2022_12_06.txt:17692
 msgid "Destruction"
@@ -57277,7 +57284,7 @@ msgstr "抢劫"
 
 #: stringdump_steam_2022_12_06.txt:17696
 msgid "Duel of "
-msgstr "决斗"
+msgstr "决斗："
 
 #: stringdump_steam_2022_12_06.txt:17697
 msgid " in the wilds"
@@ -57357,7 +57364,7 @@ msgstr "二"
 
 #: stringdump_steam_2022_12_06.txt:17720
 msgid "Age of "
-msgstr "年龄"
+msgstr "时代："
 
 #: stringdump_steam_2022_12_06.txt:17721
 msgid "Age of Three Powers"
@@ -57440,7 +57447,7 @@ msgstr "场合"
 
 #: stringdump_steam_2022_12_06.txt:17776
 msgid " Occasion of "
-msgstr "场合"
+msgstr "场合："
 
 #: stringdump_steam_2022_12_06.txt:17777
 msgid "Journey"
@@ -57456,7 +57463,7 @@ msgstr "野人"
 
 #: stringdump_steam_2022_12_06.txt:17780
 msgid "Raid of "
-msgstr "袭击"
+msgstr "袭击自"
 
 #: stringdump_steam_2022_12_06.txt:17781
 msgid " in the Wilds"
@@ -57872,7 +57879,7 @@ msgstr "碎桥"
 
 #: stringdump_steam_2022_12_06.txt:18108
 msgid "steam"
-msgstr ""
+msgstr "steam"
 
 #: stringdump_steam_2022_12_06.txt:18109
 msgid "dragonfire"
@@ -58272,7 +58279,7 @@ msgstr "未设置世界观过滤器（适度的私人意见）。"
 
 #: stringdump_steam_2022_12_06.txt:18804
 msgid "world view filter not set (adjust ci ps)"
-msgstr ""
+msgstr "未设置世界观过滤器（调整Ci PS）"
 
 #: stringdump_steam_2022_12_06.txt:18806
 msgid " kind"
@@ -58300,7 +58307,7 @@ msgstr "已经迷失了"
 
 #: stringdump_steam_2022_12_06.txt:18812
 msgid "The identity of "
-msgstr "的身份"
+msgstr "身份之于"
 
 #: stringdump_steam_2022_12_06.txt:18813
 msgid " was the "
@@ -58348,7 +58355,7 @@ msgstr "最常被描述为"
 
 #: stringdump_steam_2022_12_06.txt:18824
 msgid " most often takes the form of a "
-msgstr "最常采取的形式"
+msgstr "最常采取形式以"
 
 #: stringdump_steam_2022_12_06.txt:18825
 msgid "guided by forces unknown.  "
@@ -58378,7 +58385,7 @@ msgstr "秘密身份"
 
 #: stringdump_steam_2022_12_06.txt:18983
 msgid "--- Logging Interaction "
-msgstr ""
+msgstr "--- 日志记录互动"
 
 #: stringdump_steam_2022_12_06.txt:19194
 msgid " (copy)"
@@ -58386,7 +58393,7 @@ msgstr "（复制）"
 
 #: stringdump_steam_2022_12_06.txt:19195
 msgid "menaces with spikes of "
-msgstr "穗状花序的威胁"
+msgstr "钉住的恐吓，钉子的材质是"
 
 #: stringdump_steam_2022_12_06.txt:19196
 msgid "It is made from "
@@ -58394,7 +58401,7 @@ msgstr "它是由"
 
 #: stringdump_steam_2022_12_06.txt:19197
 msgid "On the faces of the object are "
-msgstr ""
+msgstr "物体表面是"
 
 #: stringdump_steam_2022_12_06.txt:19198
 msgid "a series of "
@@ -58414,7 +58421,7 @@ msgstr "话"
 
 #: stringdump_steam_2022_12_06.txt:19202
 msgid " which you cannot read"
-msgstr ""
+msgstr "你无法阅读的"
 
 #: stringdump_steam_2022_12_06.txt:19203
 msgid " symbols"
@@ -58422,7 +58429,7 @@ msgstr "符号"
 
 #: stringdump_steam_2022_12_06.txt:19204
 msgid "dots"
-msgstr ""
+msgstr "点"
 
 #: stringdump_steam_2022_12_06.txt:19205
 msgid ", ranging from "
@@ -58510,7 +58517,7 @@ msgstr "这个对象"
 
 #: stringdump_steam_2022_12_06.txt:19226
 msgid "is adorned with hanging rings of "
-msgstr "用挂环装饰"
+msgstr "挂着几圈作为装饰的"
 
 #: stringdump_steam_2022_12_06.txt:19227
 msgid "The ingredients are "
@@ -58566,7 +58573,7 @@ msgstr "釉面"
 
 #: stringdump_steam_2022_12_06.txt:19240
 msgid "well-prepared "
-msgstr "早有准备"
+msgstr "精心准备的"
 
 #: stringdump_steam_2022_12_06.txt:19241
 msgid "finely-prepared "
@@ -58586,7 +58593,7 @@ msgstr "这是一堆"
 
 #: stringdump_steam_2022_12_06.txt:19245
 msgid " bundles of"
-msgstr "捆绑的"
+msgstr "几捆"
 
 #: stringdump_steam_2022_12_06.txt:19246
 msgid "This is a bundle of"
@@ -58594,7 +58601,7 @@ msgstr "这是一捆"
 
 #: stringdump_steam_2022_12_06.txt:19247
 msgid " well-prepared"
-msgstr "早有准备"
+msgstr "精心准备的"
 
 #: stringdump_steam_2022_12_06.txt:19248
 msgid " finely-prepared"
@@ -58746,7 +58753,7 @@ msgstr "共享"
 
 #: stringdump_steam_2022_12_06.txt:19287
 msgid " gains possession of the "
-msgstr "获得拥有权"
+msgstr "获得拥有权之于"
 
 #: stringdump_steam_2022_12_06.txt:19288
 msgid " remains stuck in "
@@ -58754,11 +58761,11 @@ msgstr "仍陷入困境"
 
 #: stringdump_steam_2022_12_06.txt:19289
 msgid " maintains possession of the "
-msgstr "保持拥有"
+msgstr "维持拥有权之于"
 
 #: stringdump_steam_2022_12_06.txt:19290
 msgid "You gain possession of the "
-msgstr "你获得了拥有权"
+msgstr "你拥有了"
 
 #: stringdump_steam_2022_12_06.txt:19291
 msgid " remains stuck in your "
@@ -58766,7 +58773,7 @@ msgstr "仍然困在你的"
 
 #: stringdump_steam_2022_12_06.txt:19292
 msgid "You maintain possession of the "
-msgstr "你保持拥有"
+msgstr "你维持拥有权之于"
 
 #: stringdump_steam_2022_12_06.txt:19293
 msgid " is torn from your "
@@ -58878,15 +58885,15 @@ msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:19321
 msgid "Slayer of"
-msgstr "杀手"
+msgstr "杀手之于"
 
 #: stringdump_steam_2022_12_06.txt:19322
 msgid "Slayer of "
-msgstr "杀手"
+msgstr "杀手之于"
 
 #: stringdump_steam_2022_12_06.txt:19323
 msgid "Hunter of "
-msgstr "猎人的"
+msgstr "猎人之于"
 
 #: stringdump_steam_2022_12_06.txt:19324
 msgid "Loving "
@@ -58918,7 +58925,7 @@ msgstr "在一个人"
 
 #: stringdump_steam_2022_12_06.txt:19331
 msgid "Lover of "
-msgstr "恋人的"
+msgstr "恋人之于"
 
 #: stringdump_steam_2022_12_06.txt:19332
 msgid "Burned alive"
@@ -59030,7 +59037,7 @@ msgstr "被打成碎片"
 
 #: stringdump_steam_2022_12_06.txt:19359
 msgid "Executed"
-msgstr ""
+msgstr "已执行"
 
 #: stringdump_steam_2022_12_06.txt:19360
 msgid "Beheaded"
@@ -59301,7 +59308,7 @@ msgstr "完全脱节了"
 
 #: stringdump_steam_2022_12_06.txt:19426
 msgid "skips around a lot"
-msgstr ""
+msgstr "经常跳来跳去"
 
 #: stringdump_steam_2022_12_06.txt:19427
 msgid "occasionally changes topic abruptly"
@@ -59309,11 +59316,11 @@ msgstr "偶尔会突然改变主题"
 
 #: stringdump_steam_2022_12_06.txt:19428
 msgid "Admirer of "
-msgstr "崇拜者"
+msgstr "崇拜者之于"
 
 #: stringdump_steam_2022_12_06.txt:19429
 msgid "Friend of "
-msgstr "的朋友"
+msgstr "朋友之于"
 
 #: stringdump_steam_2022_12_06.txt:19430
 msgid "The color "
@@ -59669,7 +59676,7 @@ msgstr "无标题"
 
 #: stringdump_steam_2022_12_06.txt:19536
 msgid "--- Logging Item "
-msgstr ""
+msgstr "---记录项目"
 
 #: stringdump_steam_2022_12_06.txt:19572
 msgid ": unrecognized INSTRUMENT PIECE tag "
@@ -59677,19 +59684,19 @@ msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:19614
 msgid "did not find instrument piece "
-msgstr ""
+msgstr "没有找到乐器碎片"
 
 #: stringdump_steam_2022_12_06.txt:19616
 msgid "did not find tool with index "
-msgstr ""
+msgstr "没有找到带有索引的工具"
 
 #: stringdump_steam_2022_12_06.txt:19617
 msgid ", setting index to zero"
-msgstr ""
+msgstr "，将指数设为零"
 
 #: stringdump_steam_2022_12_06.txt:19619
 msgid " for instrument piece "
-msgstr ""
+msgstr "用于乐器片"
 
 #: stringdump_steam_2022_12_06.txt:19639
 msgid "Repair Compound Fracture"
@@ -59701,31 +59708,31 @@ msgstr "止血"
 
 #: stringdump_steam_2022_12_06.txt:19641
 msgid "Construct building"
-msgstr ""
+msgstr "构建建筑"
 
 #: stringdump_steam_2022_12_06.txt:19642
 msgid "Remove Rotten Tissue"
-msgstr ""
+msgstr "清除腐烂的组织"
 
 #: stringdump_steam_2022_12_06.txt:19643
 msgid "Butcher an animal"
-msgstr ""
+msgstr "屠宰动物"
 
 #: stringdump_steam_2022_12_06.txt:19644
 msgid "Destroy building"
-msgstr ""
+msgstr "毁坏建筑物"
 
 #: stringdump_steam_2022_12_06.txt:19645
 msgid "Catch live land animal"
-msgstr ""
+msgstr "捕获活的陆地动物"
 
 #: stringdump_steam_2022_12_06.txt:19646
 msgid "Catch live fish"
-msgstr ""
+msgstr "抓捕活鱼"
 
 #: stringdump_steam_2022_12_06.txt:19647
 msgid "Mill plants"
-msgstr ""
+msgstr "碾磨植物"
 
 #: stringdump_steam_2022_12_06.txt:19648
 msgid "Prepare a raw fish"
@@ -59741,7 +59748,7 @@ msgstr "加工植物"
 
 #: stringdump_steam_2022_12_06.txt:19651
 msgid "Put in chains"
-msgstr ""
+msgstr "拴上链子"
 
 #: stringdump_steam_2022_12_06.txt:19652
 msgid "Chain "
@@ -59769,7 +59776,7 @@ msgstr "小雕像"
 
 #: stringdump_steam_2022_12_06.txt:19658
 msgid "Tame a small animal"
-msgstr ""
+msgstr "驯化小型动物"
 
 #: stringdump_steam_2022_12_06.txt:19659
 msgid " scepter"
@@ -59801,39 +59808,39 @@ msgstr "薄荷"
 
 #: stringdump_steam_2022_12_06.txt:19666
 msgid "Make large "
-msgstr ""
+msgstr "制作大型"
 
 #: stringdump_steam_2022_12_06.txt:19667
 msgid "Place in traction"
-msgstr ""
+msgstr "牵引的位置"
 
 #: stringdump_steam_2022_12_06.txt:19668
 msgid "Set bone"
-msgstr ""
+msgstr "镶骨"
 
 #: stringdump_steam_2022_12_06.txt:19669
 msgid "Cage small animal"
-msgstr ""
+msgstr "抓捕小型动物"
 
 #: stringdump_steam_2022_12_06.txt:19670
 msgid "Put item on display"
-msgstr ""
+msgstr "展示物体"
 
 #: stringdump_steam_2022_12_06.txt:19671
 msgid "Pit/pond small animal"
-msgstr ""
+msgstr "坑道/池塘小型动物"
 
 #: stringdump_steam_2022_12_06.txt:19672
 msgid "Pit/pond "
-msgstr ""
+msgstr "坑/池塘"
 
 #: stringdump_steam_2022_12_06.txt:19673
 msgid "Pen/pasture small animal"
-msgstr ""
+msgstr "围栏/牧场小动物"
 
 #: stringdump_steam_2022_12_06.txt:19674
 msgid "Pen/pasture "
-msgstr ""
+msgstr "畜栏/牧场"
 
 #: stringdump_steam_2022_12_06.txt:19675
 msgid "Fill aquarium"
@@ -60321,7 +60328,7 @@ msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:19796
 msgid "Weave yarn into cloth"
-msgstr ""
+msgstr "将纱线织成布"
 
 #: stringdump_steam_2022_12_06.txt:19797
 msgid "Harvest plants"
@@ -61165,7 +61172,7 @@ msgstr "后卫取得了胜利。"
 
 #: stringdump_steam_2022_12_06.txt:21323
 msgid " centered around "
-msgstr "以...为中心"
+msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:21324
 msgid " divine aspect of "
@@ -61233,7 +61240,7 @@ msgstr "未知"
 
 #: stringdump_steam_2022_12_06.txt:21341
 msgid " natural aversion to the adversary's inherent association with "
-msgstr "自然厌恶对手与...的内在联系"
+msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:21342
 msgid ""
@@ -63511,7 +63518,7 @@ msgstr "x是节拍"
 
 #: stringdump_steam_2022_12_06.txt:22560
 msgid "[B]where "
-msgstr ""
+msgstr "[B]哪里"
 
 #: stringdump_steam_2022_12_06.txt:22561
 msgid "! marks the primary accent, "
@@ -63547,7 +63554,7 @@ msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:22566
 msgid "pentachord"
-msgstr ""
+msgstr "五弦琴"
 
 #: stringdump_steam_2022_12_06.txt:22567
 msgid " (completing the octave)"
@@ -66841,19 +66848,19 @@ msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:23637
 msgid "is not the type to fall in love or even develop positive feelings"
-msgstr ""
+msgstr "不是那种会坠入爱河，甚至产生积极感情的人"
 
 #: stringdump_steam_2022_12_06.txt:23638
 msgid "is prone to hatreds and often develops negative feelings"
-msgstr ""
+msgstr "容易产生仇恨，经常产生负面情绪"
 
 #: stringdump_steam_2022_12_06.txt:23639
 msgid "is often inflamed by hatred and easily develops hatred toward things"
-msgstr ""
+msgstr "经常被仇恨所激怒，容易对事物产生仇恨"
 
 #: stringdump_steam_2022_12_06.txt:23640
 msgid "never envies others their status, situation or possessions"
-msgstr ""
+msgstr "从不羡慕别人的地位、处境或财产"
 
 #: stringdump_steam_2022_12_06.txt:23641
 msgid "is rarely jealous"
@@ -69132,7 +69139,7 @@ msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:24188
 msgid "the rejection of a petition for a guildhall for "
-msgstr ""
+msgstr "拒绝成立行会的请愿书来自"
 
 #: stringdump_steam_2022_12_06.txt:24189
 msgid " being abandoned"
@@ -69140,11 +69147,11 @@ msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:24190
 msgid "an agreement to construct a guildhall for "
-msgstr ""
+msgstr "建立行会的请愿书来自"
 
 #: stringdump_steam_2022_12_06.txt:24191
 msgid "a petition for a guildhall for "
-msgstr ""
+msgstr "一份请愿书，来自行会"
 
 #: stringdump_steam_2022_12_06.txt:24192
 msgid "considering "
@@ -69180,7 +69187,7 @@ msgstr "地下烟雾窒息"
 
 #: stringdump_steam_2022_12_06.txt:24200
 msgid "the establishment of a guildhall for "
-msgstr ""
+msgstr "成立一个行会，为了"
 
 #: stringdump_steam_2022_12_06.txt:24201
 msgid "the acceptance of a petition for a temple for "
@@ -69192,7 +69199,7 @@ msgstr "被授予居住权"
 
 #: stringdump_steam_2022_12_06.txt:24203
 msgid "the acceptance of a petition for a guildhall for "
-msgstr ""
+msgstr "接受一份请愿书，请愿者是行会来自"
 
 #: stringdump_steam_2022_12_06.txt:24204
 msgid " punishment reduced"
@@ -69200,11 +69207,11 @@ msgstr "惩罚减少了"
 
 #: stringdump_steam_2022_12_06.txt:24205
 msgid "having"
-msgstr ""
+msgstr "经受"
 
 #: stringdump_steam_2022_12_06.txt:24206
 msgid "the establishment of a temple for "
-msgstr ""
+msgstr "建立了一个寺庙为"
 
 #: stringdump_steam_2022_12_06.txt:24207
 msgid "re-elected"
@@ -69232,15 +69239,15 @@ msgstr "找不到牧师来抱怨"
 
 #: stringdump_steam_2022_12_06.txt:24213
 msgid "being unable to request weapon production"
-msgstr ""
+msgstr "无法要求生产武器"
 
 #: stringdump_steam_2022_12_06.txt:24214
 msgid "being unable to find somebody in charge to yell at"
-msgstr ""
+msgstr "找不到负责人来责备"
 
 #: stringdump_steam_2022_12_06.txt:24215
 msgid "being unable to find a priest to cry on"
-msgstr ""
+msgstr "找不到一个可以哭诉的牧师"
 
 #: stringdump_steam_2022_12_06.txt:24216
 msgid "loud noises made it impossible to sleep"
@@ -69248,11 +69255,11 @@ msgstr "吵闹的声音让人无法入睡"
 
 #: stringdump_steam_2022_12_06.txt:24217
 msgid "being disturbed during sleep by loud noises"
-msgstr ""
+msgstr "睡眠时被巨大的噪音所干扰"
 
 #: stringdump_steam_2022_12_06.txt:24218
 msgid "caught in the rain"
-msgstr ""
+msgstr "淋雨了"
 
 #: stringdump_steam_2022_12_06.txt:24219
 msgid "being able to rest and recuperate"
@@ -69260,7 +69267,7 @@ msgstr "能够休息和恢复"
 
 #: stringdump_steam_2022_12_06.txt:24220
 msgid "suffering a major injury"
-msgstr ""
+msgstr "遭受重伤"
 
 #: stringdump_steam_2022_12_06.txt:24221
 msgid "utterly sleep-deprived"
@@ -69272,11 +69279,11 @@ msgstr "因噪音而睡不安稳"
 
 #: stringdump_steam_2022_12_06.txt:24223
 msgid "suffering a minor injury"
-msgstr ""
+msgstr "遭受轻伤"
 
 #: stringdump_steam_2022_12_06.txt:24224
 msgid "losing property to the tax collector's escorts"
-msgstr ""
+msgstr "在征税人的陪同下丢失财产"
 
 #: stringdump_steam_2022_12_06.txt:24225
 msgid "putting a piece on display"
@@ -69296,39 +69303,39 @@ msgstr "笼养一个生物"
 
 #: stringdump_steam_2022_12_06.txt:24229
 msgid "slaughtering an animal"
-msgstr ""
+msgstr "宰杀了一个动物"
 
 #: stringdump_steam_2022_12_06.txt:24230
 msgid "gelding a creature"
-msgstr ""
+msgstr "阉割了一个生物"
 
 #: stringdump_steam_2022_12_06.txt:24231
 msgid "chaining up a creature"
-msgstr "链接一个生物"
+msgstr "链子拴了一个生物"
 
 #: stringdump_steam_2022_12_06.txt:24232
 msgid "having disappointed a noble"
-msgstr ""
+msgstr "令一个贵族失望"
 
 #: stringdump_steam_2022_12_06.txt:24233
 msgid "the tax collection went smoothly"
-msgstr ""
+msgstr "征税工作顺利进行"
 
 #: stringdump_steam_2022_12_06.txt:24234
 msgid "getting into an argument"
-msgstr ""
+msgstr "参与了一场争吵"
 
 #: stringdump_steam_2022_12_06.txt:24235
 msgid "the tax collection didn't go smoothly"
-msgstr ""
+msgstr "征税不顺利"
 
 #: stringdump_steam_2022_12_06.txt:24236
 msgid "being misinformed about a room for tax collection"
-msgstr "被误导了一个征税的房间"
+msgstr "征税时在一个房间问题上被误导了"
 
 #: stringdump_steam_2022_12_06.txt:24237
 msgid "being unable to reach a room for tax collection"
-msgstr ""
+msgstr "在征税时有一个房间无法到达"
 
 #: stringdump_steam_2022_12_06.txt:24238
 msgid "that "
@@ -69384,7 +69391,7 @@ msgstr "砍伐一棵树"
 
 #: stringdump_steam_2022_12_06.txt:24251
 msgid "bringing somebody to rest in bed"
-msgstr ""
+msgstr "让人躺在床上休息"
 
 #: stringdump_steam_2022_12_06.txt:24252
 msgid "a poor dining room"
@@ -69444,7 +69451,7 @@ msgstr "安排"
 
 #: stringdump_steam_2022_12_06.txt:24266
 msgid "dining in "
-msgstr ""
+msgstr "就餐于"
 
 #: stringdump_steam_2022_12_06.txt:24267
 msgid "eating at a crowded table"
@@ -69452,7 +69459,7 @@ msgstr "在拥挤的桌子上吃饭"
 
 #: stringdump_steam_2022_12_06.txt:24268
 msgid "not having enough armor stands"
-msgstr "没有足够的装甲站"
+msgstr "没有足够的装甲立架"
 
 #: stringdump_steam_2022_12_06.txt:24269
 msgid "not having enough weapon racks"
@@ -69460,7 +69467,7 @@ msgstr "没有足够的武器架"
 
 #: stringdump_steam_2022_12_06.txt:24270
 msgid "a lesser's pretentious "
-msgstr ""
+msgstr "穷讲究"
 
 #: stringdump_steam_2022_12_06.txt:24271
 msgid "by "
@@ -69496,7 +69503,7 @@ msgstr "被殴打"
 
 #: stringdump_steam_2022_12_06.txt:24279
 msgid "punishing somebody with a beating"
-msgstr ""
+msgstr "正殴打惩罚某人"
 
 #: stringdump_steam_2022_12_06.txt:24280
 msgid "a wonderful dish"
@@ -69552,11 +69559,11 @@ msgstr "被驱逐"
 
 #: stringdump_steam_2022_12_06.txt:24293
 msgid "suffering the travesty of art defacement"
-msgstr ""
+msgstr "遭受艺术污损的嘲弄"
 
 #: stringdump_steam_2022_12_06.txt:24294
 msgid "learning about "
-msgstr ""
+msgstr "学习"
 
 #: stringdump_steam_2022_12_06.txt:24295
 msgid "teaching "
@@ -69752,7 +69759,7 @@ msgstr "靠近"
 
 #: stringdump_steam_2022_12_06.txt:24343
 msgid "being accosted by "
-msgstr "被...搭讪"
+msgstr "受到搭讪来自"
 
 #: stringdump_steam_2022_12_06.txt:24344
 msgid "being attacked by the dead"
@@ -69768,7 +69775,7 @@ msgstr "自己死亡"
 
 #: stringdump_steam_2022_12_06.txt:24347
 msgid "being attacked by "
-msgstr "被...袭击"
+msgstr "被袭击来自"
 
 #: stringdump_steam_2022_12_06.txt:24348
 msgid "a bath"
@@ -70488,11 +70495,11 @@ msgstr "公民身份申请"
 
 #: stringdump_steam_2022_12_06.txt:24523
 msgid "The guildhall agreement with "
-msgstr ""
+msgstr "行会协议与"
 
 #: stringdump_steam_2022_12_06.txt:24524
 msgid "The guildhall petition by "
-msgstr ""
+msgstr "行会请愿来自"
 
 #: stringdump_steam_2022_12_06.txt:24525
 msgid " has been ignored."
@@ -72998,7 +73005,7 @@ msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:25259
 msgid " begins at "
-msgstr "从...开始"
+msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:25260
 msgid " pitch and"
@@ -74617,7 +74624,7 @@ msgstr "附在一个"
 
 #: stringdump_steam_2022_12_06.txt:26100
 msgid "The musician "
-msgstr ""
+msgstr "音乐家"
 
 #: stringdump_steam_2022_12_06.txt:26101
 msgid " which rest"
@@ -75533,7 +75540,7 @@ msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:26746
 msgid "it seems most content when a fair wind is blowing"
-msgstr ""
+msgstr "风和日丽的时候，它似乎最满足"
 
 #: stringdump_steam_2022_12_06.txt:26747
 msgid "it never stops moving completely"
@@ -75591,7 +75598,7 @@ msgstr ""
 msgid ""
 "it tenses up throughout its entire body whenever somebody tells a falsehood "
 "in its presence"
-msgstr ""
+msgstr "只要有人在它面前说假话，它就会全身绷紧。"
 
 #: stringdump_steam_2022_12_06.txt:26760
 msgid "it is unsettling to be around"
@@ -75790,7 +75797,7 @@ msgstr "很难看清楚"
 
 #: stringdump_steam_2022_12_06.txt:26808
 msgid "it appears to have sharp shimmering edges on many parts of its body"
-msgstr ""
+msgstr "它的身体的许多部分似乎都有尖锐的闪光边缘"
 
 #: stringdump_steam_2022_12_06.txt:26809
 msgid "it has an angular appearance"
@@ -76134,7 +76141,7 @@ msgstr "并参与其中"
 
 #: stringdump_steam_2022_12_06.txt:26901
 msgid "Now you will know why you fear the night."
-msgstr ""
+msgstr "现在你会知道为什么你害怕黑夜。"
 
 #: stringdump_steam_2022_12_06.txt:26902
 msgid "multitudes"
@@ -76238,7 +76245,7 @@ msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:26927
 msgid "[ODOR_STRING:brimstone]"
-msgstr ""
+msgstr "[ODOR_STRING:硫磺石]"
 
 #: stringdump_steam_2022_12_06.txt:26928
 msgid "it has an austere look about it"
@@ -77438,7 +77445,7 @@ msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:27803
 msgid "[IS_HIST_STRING_1: consumed the tainted blood of ]"
-msgstr ""
+msgstr "[IS_HIST_STRING_1: 消耗了被玷污的血 ]"
 
 #: stringdump_steam_2022_12_06.txt:27804
 msgid "[IS_HIST_STRING_2: to prowl the night in search of blood]"
@@ -79577,7 +79584,7 @@ msgstr "出乎意料地"
 
 #: stringdump_steam_2022_12_06.txt:28508
 msgid "The Dirt"
-msgstr ""
+msgstr "尘土"
 
 #: stringdump_steam_2022_12_06.txt:28509
 msgid "The Fool"
@@ -79605,7 +79612,7 @@ msgstr "那天"
 
 #: stringdump_steam_2022_12_06.txt:28515
 msgid "The Night"
-msgstr ""
+msgstr "夜晚"
 
 #: stringdump_steam_2022_12_06.txt:28516
 msgid "Parts"
@@ -79613,7 +79620,7 @@ msgstr "部分"
 
 #: stringdump_steam_2022_12_06.txt:28517
 msgid "the Event"
-msgstr ""
+msgstr "事件"
 
 #: stringdump_steam_2022_12_06.txt:28518
 msgid "Properties"
@@ -79625,11 +79632,11 @@ msgstr "整体"
 
 #: stringdump_steam_2022_12_06.txt:28520
 msgid "Thought"
-msgstr ""
+msgstr "思想"
 
 #: stringdump_steam_2022_12_06.txt:28521
 msgid "the Object"
-msgstr ""
+msgstr "对象"
 
 #: stringdump_steam_2022_12_06.txt:28522
 msgid "the Body"
@@ -79637,7 +79644,7 @@ msgstr "身体"
 
 #: stringdump_steam_2022_12_06.txt:28523
 msgid "the Soul"
-msgstr ""
+msgstr "灵魂"
 
 #: stringdump_steam_2022_12_06.txt:28524
 msgid "the Effect"
@@ -79705,15 +79712,15 @@ msgstr "损害"
 
 #: stringdump_steam_2022_12_06.txt:28540
 msgid "Everything"
-msgstr ""
+msgstr "一切"
 
 #: stringdump_steam_2022_12_06.txt:28541
 msgid "the Mind"
-msgstr ""
+msgstr "头脑"
 
 #: stringdump_steam_2022_12_06.txt:28542
 msgid "Beliefs"
-msgstr ""
+msgstr "众信仰"
 
 #: stringdump_steam_2022_12_06.txt:28543
 msgid "Existence"
@@ -79721,15 +79728,15 @@ msgstr "存在"
 
 #: stringdump_steam_2022_12_06.txt:28544
 msgid "the Believer"
-msgstr ""
+msgstr "信徒"
 
 #: stringdump_steam_2022_12_06.txt:28545
 msgid "Belief"
-msgstr ""
+msgstr "信仰"
 
 #: stringdump_steam_2022_12_06.txt:28546
 msgid "Perception"
-msgstr ""
+msgstr "理解"
 
 #: stringdump_steam_2022_12_06.txt:28547
 msgid "Justification"
@@ -79769,7 +79776,7 @@ msgstr "比喻"
 
 #: stringdump_steam_2022_12_06.txt:28556
 msgid "Inference"
-msgstr ""
+msgstr "推导"
 
 #: stringdump_steam_2022_12_06.txt:28557
 msgid "Method"
@@ -79781,11 +79788,11 @@ msgstr "对话"
 
 #: stringdump_steam_2022_12_06.txt:28559
 msgid "Reasoning"
-msgstr ""
+msgstr "推测"
 
 #: stringdump_steam_2022_12_06.txt:28560
 msgid "Proof"
-msgstr ""
+msgstr "证明"
 
 #: stringdump_steam_2022_12_06.txt:28561
 msgid "Ignorance"
@@ -79797,11 +79804,11 @@ msgstr "原因"
 
 #: stringdump_steam_2022_12_06.txt:28563
 msgid "Complaints"
-msgstr ""
+msgstr "抱怨"
 
 #: stringdump_steam_2022_12_06.txt:28564
 msgid "Self-Examination"
-msgstr ""
+msgstr "自我检查"
 
 #: stringdump_steam_2022_12_06.txt:28565
 msgid "the Individual"
@@ -79817,7 +79824,7 @@ msgstr "联盟"
 
 #: stringdump_steam_2022_12_06.txt:28568
 msgid "Ritual"
-msgstr ""
+msgstr "仪式"
 
 #: stringdump_steam_2022_12_06.txt:28569
 msgid "Creation"
@@ -79857,7 +79864,7 @@ msgstr "安静"
 
 #: stringdump_steam_2022_12_06.txt:28578
 msgid "the Triangles"
-msgstr ""
+msgstr "三角"
 
 #: stringdump_steam_2022_12_06.txt:28579
 msgid "the Altitude"
@@ -79865,11 +79872,11 @@ msgstr "海拔高度"
 
 #: stringdump_steam_2022_12_06.txt:28580
 msgid "Similar Triangles"
-msgstr ""
+msgstr "相似三角"
 
 #: stringdump_steam_2022_12_06.txt:28581
 msgid "Congruence"
-msgstr ""
+msgstr "同理心"
 
 #: stringdump_steam_2022_12_06.txt:28582
 msgid "the Method"
@@ -79877,11 +79884,11 @@ msgstr "方法"
 
 #: stringdump_steam_2022_12_06.txt:28583
 msgid "Similarity"
-msgstr ""
+msgstr "相似"
 
 #: stringdump_steam_2022_12_06.txt:28584
 msgid "Exhaustion"
-msgstr ""
+msgstr "疲劳"
 
 #: stringdump_steam_2022_12_06.txt:28585
 msgid "Approximation"
@@ -79889,7 +79896,7 @@ msgstr "近似"
 
 #: stringdump_steam_2022_12_06.txt:28586
 msgid "the Hypotenuse"
-msgstr ""
+msgstr "下限"
 
 #: stringdump_steam_2022_12_06.txt:28587
 msgid "the Right Triangle"
@@ -85042,7 +85049,7 @@ msgstr "*开始区域保存*"
 
 #: stringdump_steam_2022_12_06.txt:29874
 msgid "*START REGION DIM SAVE*"
-msgstr ""
+msgstr "*开始区域维度保存*"
 
 #: stringdump_steam_2022_12_06.txt:29876
 msgid "Final ocean region count fails by "
@@ -91126,7 +91133,7 @@ msgstr ":某个地方的散步者找不到散步区"
 
 #: stringdump_steam_2022_12_06.txt:37536
 msgid " has guzzled some "
-msgstr "喝多了些..."
+msgstr "已经喝了一些"
 
 #: stringdump_steam_2022_12_06.txt:37537
 msgid "eats"
