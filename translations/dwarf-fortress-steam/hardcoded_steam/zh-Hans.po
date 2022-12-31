@@ -56,7 +56,6 @@
 # 北 萝, 2022
 # Kerry H, 2022
 # 2 K, 2022
-# 墨漓 Mori, 2022
 # 许威 <1975428296@qq.com>, 2022
 # 姜伯约, 2022
 # w ylds (白), 2022
@@ -89,11 +88,13 @@
 # Peroxide Hydrogen, 2022
 # 经纬 赵, 2022
 # 奥里给大菠萝, 2022
+# 墨漓 Mori, 2022
 # asdas adada, 2022
+# 紫 骰, 2022
 # 
 msgid ""
 msgstr ""
-"Last-Translator: asdas adada, 2022\n"
+"Last-Translator: 紫 骰, 2022\n"
 "Language-Team: Chinese Simplified (https://www.transifex.com/dwarf-fortress-translation/teams/22396/zh-Hans/)\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -18651,7 +18652,7 @@ msgstr "你可以用三种不同类型的玻璃制作各种物品。 如果你�
 msgid ""
 "Make sugar, flour, and various useful slurries here.  Powered version of the"
 " quern.  Must be hooked to a windmill or water wheel to function."
-msgstr "在这里制作糖、面粉和各种有用的泥浆。 动力版的泉眼。 必须与风车或水轮挂钩才能发挥作用。"
+msgstr "在这里制作糖、面粉和各种有用的浆料。 石磨的高级版本。 必须与风车或水轮挂钩才能发挥作用。"
 
 #: stringdump_steam_2022_12_06.txt:4698
 msgid "Make charcoal and ash from wood here.  Does not require fuel."
@@ -18692,7 +18693,7 @@ msgid ""
 "Place the well in an open space above water to provide a relatively safe "
 "area for your citizens to draw water.  Requires mechanisms, blocks, a chain "
 "or rope, and a bucket."
-msgstr "把井放在水面上的空地上，为你的公民提供一个相对安全的取水区域。 需要机制、木块、链条或绳子和水桶。"
+msgstr "把井安置在水面的空地上，为你的公民提供一个相对安全的取水区域。 需要机械、木块、链条或绳子和水桶。"
 
 #: stringdump_steam_2022_12_06.txt:4704
 msgid "Use minecart tracks in conjunction with the hauling menu."
@@ -18739,7 +18740,7 @@ msgstr "链条可以放在司法系统中使用，也可以用于约束动物。
 msgid ""
 "Rollers move minecarts on tracks without the need for a citizen to push or "
 "guide the minecart."
-msgstr "滚筒在轨道上移动雷车，不需要市民推动或引导雷车。"
+msgstr "滚筒在轨道上移动矿车，不需要市民推动或引导矿车。"
 
 #: stringdump_steam_2022_12_06.txt:4712
 msgid "Vertical axles transfer power between two adjacent elevations."
@@ -18981,7 +18982,7 @@ msgstr "装饰品。一些贵族需要它们。"
 
 #: stringdump_steam_2022_12_06.txt:4756
 msgid "Archery targets are used in archery range zones for training archers."
-msgstr "射箭靶用于射箭靶场，用来训练射手。"
+msgstr "射箭靶在靶场区使用，用来训练射手。"
 
 #: stringdump_steam_2022_12_06.txt:4757
 msgid ""
@@ -19463,7 +19464,7 @@ msgid ""
 "even larger than your kind than usual, we do not know.  But know that this "
 "land is sacred to us, these trees more than any others."
 msgstr ""
-"我们不知道是什么原因让你们勇敢地来到这片荒野，在这里我们的动物朋友比你们的同类还要大，我们不知道。 "
+"我们不知道是什么原因让你们勇敢地来到这片荒野，在这里我们的动物朋友比你们的同类还要大。 "
 "但要知道，这片土地对我们来说是神圣的，这些树比其他任何树都要神圣。"
 
 #: stringdump_steam_2022_12_06.txt:4874
@@ -19623,13 +19624,13 @@ msgstr " 直到我们下次见面。"
 
 #: stringdump_steam_2022_12_06.txt:4906
 msgid "we are willing to ask that you cap your tree-fells at "
-msgstr "我们愿意要求你将你的树丛上限定为"
+msgstr "我们请求你停止对树木的采伐，就停在"
 
 #: stringdump_steam_2022_12_06.txt:4907
 msgid ""
 "  Although we are loath to spare a single branch to your senseless "
 "slaughter, "
-msgstr "虽然我们不愿意放过任何一个分支，让你们无意义的屠杀。"
+msgstr "虽然我们不愿意留下哪怕一根枝桠，让你们无意义的屠杀。"
 
 #: stringdump_steam_2022_12_06.txt:4908
 msgid "(Vehicle moved to next stop if any condition triggered.)"
@@ -19837,15 +19838,15 @@ msgstr "你的簿记员已经完成了足够的工作"
 
 #: stringdump_steam_2022_12_06.txt:4961
 msgid "low precision"
-msgstr "精度低"
+msgstr "低精度"
 
 #: stringdump_steam_2022_12_06.txt:4962
 msgid "medium precision"
-msgstr "中等精度"
+msgstr "中精度"
 
 #: stringdump_steam_2022_12_06.txt:4963
 msgid "high precision"
-msgstr "高精准度"
+msgstr "高精度"
 
 #: stringdump_steam_2022_12_06.txt:4964
 msgid "Do not automate smelter"
@@ -19957,7 +19958,7 @@ msgstr "将制革厂自动化"
 
 #: stringdump_steam_2022_12_06.txt:4991
 msgid "Automatically butcher carcasses"
-msgstr "自动屠宰肉体"
+msgstr "自动屠宰尸体"
 
 #: stringdump_steam_2022_12_06.txt:4992
 msgid "No automatic butchery"
@@ -21490,7 +21491,7 @@ msgstr "[C:6:0:0].严重冻结"
 
 #: stringdump_steam_2022_12_06.txt:5377
 msgid "[C:6:0:0].Serious condensation"
-msgstr "[C:6:0:0].中度冷凝"
+msgstr "[C:6:0:0].重度冷凝"
 
 #: stringdump_steam_2022_12_06.txt:5378
 msgid "[C:6:0:0].Minor freezing"
@@ -77526,7 +77527,7 @@ msgstr "[NAME:面纱:面纱]"
 
 #: stringdump_steam_2022_12_06.txt:27849
 msgid "[NAME:headscarf:headscarves]"
-msgstr ""
+msgstr "[NAME:丝巾:丝巾]"
 
 #: stringdump_steam_2022_12_06.txt:27850
 msgid "bulky"
@@ -77546,23 +77547,23 @@ msgstr "光滑"
 
 #: stringdump_steam_2022_12_06.txt:27854
 msgid "[NAME:vest:vests]"
-msgstr ""
+msgstr "[NAME:背心:背心]"
 
 #: stringdump_steam_2022_12_06.txt:27855
 msgid "[NAME:dress:dresses]"
-msgstr ""
+msgstr "[NAME:裙装:裙装]"
 
 #: stringdump_steam_2022_12_06.txt:27859
 msgid "[NAME:cap:caps]"
-msgstr ""
+msgstr "[NAME:帽子:帽子]"
 
 #: stringdump_steam_2022_12_06.txt:27862
 msgid "[NAME:helm:helms]"
-msgstr ""
+msgstr "[NAME:头盔:头盔]"
 
 #: stringdump_steam_2022_12_06.txt:27869
 msgid "[NAME:shirt:shirts]"
-msgstr ""
+msgstr "[NAME:衬衫:衬衫]"
 
 #: stringdump_steam_2022_12_06.txt:27870
 msgid "[NAME:coat:coats]"
@@ -77570,19 +77571,19 @@ msgstr "[NAME:大衣:大衣]"
 
 #: stringdump_steam_2022_12_06.txt:27875
 msgid "[NAME:cape:capes]"
-msgstr ""
+msgstr "[NAME:披风:披风]"
 
 #: stringdump_steam_2022_12_06.txt:27876
 msgid "[NAME:toga:togas]"
-msgstr ""
+msgstr "[NAME:宽袍:宽袍]"
 
 #: stringdump_steam_2022_12_06.txt:27879
 msgid "[NAME:tunic:tunics]"
-msgstr ""
+msgstr "[NAME:短袍:短袍]"
 
 #: stringdump_steam_2022_12_06.txt:27880
 msgid "[NAME:cloak:cloaks]"
-msgstr ""
+msgstr "[NAME:斗篷:斗篷]"
 
 #: stringdump_steam_2022_12_06.txt:27894
 msgid "square"
@@ -77614,7 +77615,7 @@ msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:27906
 msgid "[NAME:blowdart:blowdarts]"
-msgstr ""
+msgstr "[NAME:飞镖:飞镖]"
 
 #: stringdump_steam_2022_12_06.txt:27907
 msgid "tapered"
@@ -77686,27 +77687,27 @@ msgstr "[NAME:高靴：高靴]"
 
 #: stringdump_steam_2022_12_06.txt:27950
 msgid "[NAME:mitten:mittens]"
-msgstr ""
+msgstr "[NAME:连指手套:连指手套]"
 
 #: stringdump_steam_2022_12_06.txt:27953
 msgid "[NAME:glove:gloves]"
-msgstr ""
+msgstr "[NAME:手套:手套]"
 
 #: stringdump_steam_2022_12_06.txt:27957
 msgid "[NAME:sock:socks]"
-msgstr ""
+msgstr "[NAME:袜:袜]"
 
 #: stringdump_steam_2022_12_06.txt:27958
 msgid "[NAME:sandal:sandals]"
-msgstr ""
+msgstr "[NAME:凉鞋:凉鞋]"
 
 #: stringdump_steam_2022_12_06.txt:27959
 msgid "[NAME:chausse:chausses]"
-msgstr ""
+msgstr "[NAME:马裤:马裤]"
 
 #: stringdump_steam_2022_12_06.txt:27961
 msgid "[NAME:shoe:shoes]"
-msgstr ""
+msgstr "[NAME:鞋:鞋]"
 
 #: stringdump_steam_2022_12_06.txt:27979
 msgid "[ATTACK:EDGE:20:10000:stab:stabs:NO_SUB:1000]"
@@ -77726,7 +77727,7 @@ msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:27983
 msgid "[NAME:maul:mauls]"
-msgstr ""
+msgstr "[NAME:大槌:大槌]"
 
 #: stringdump_steam_2022_12_06.txt:27989
 msgid "rectangular"
@@ -77734,7 +77735,7 @@ msgstr "矩形"
 
 #: stringdump_steam_2022_12_06.txt:27993
 msgid "[NAME:bolt:bolts]"
-msgstr ""
+msgstr "[NAME:弩矢:弩矢]"
 
 #: stringdump_steam_2022_12_06.txt:27994
 msgid "spike:spikes"
@@ -87301,7 +87302,7 @@ msgstr "通常会降低"
 
 #: stringdump_steam_2022_12_06.txt:30578
 msgid " become animated when "
-msgstr "变得动画的时候"
+msgstr "活跃时"
 
 #: stringdump_steam_2022_12_06.txt:30579
 msgid "has a nervous smile"

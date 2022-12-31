@@ -21,18 +21,18 @@
 # Lisherex Lisherex, 2022
 # r zz, 2022
 # Chiang, 2022
-# Azur Crystal, 2022
 # Peroxide Hydrogen, 2022
 # Jingyuan Xie, 2022
 # H_Hedgehog, 2022
 # 经纬 赵, 2022
-# Andrew Lin, 2022
 # 奥里给大菠萝, 2022
+# 紫 骰, 2022
 # asdas adada, 2022
+# Azur Crystal, 2022
 # 
 msgid ""
 msgstr ""
-"Last-Translator: asdas adada, 2022\n"
+"Last-Translator: Azur Crystal, 2022\n"
 "Language-Team: Chinese Simplified (https://www.transifex.com/dwarf-fortress-translation/teams/22396/zh-Hans/)\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -8529,7 +8529,7 @@ msgstr "[GENERAL_CHILD_NAME:鱼鹰雏鸟:鱼鹰雏鸟]"
 #: creature_birds_new.txt:2568
 msgctxt "CREATURE:BIRD_OSPREY"
 msgid "[PREFSTRING:fishing ability]"
-msgstr "[PREFSTRING:捕鱼能力]"
+msgstr "[PREFSTRING:可捕鱼]"
 
 #: creature_birds_new.txt:2608
 msgctxt "CREATURE:BIRD_OSPREY"
@@ -14157,7 +14157,7 @@ msgstr "[NAME:蜜蜂:蜜蜂:蜜蜂]"
 #: creature_insects.txt:729
 msgctxt "CREATURE:HONEY_BEE"
 msgid "[PREFSTRING:busy nature]"
-msgstr "群居特性]"
+msgstr "[PREFSTRING:忙碌的天性]"
 
 #: creature_insects.txt:730
 msgctxt "CREATURE:HONEY_BEE"
@@ -14212,17 +14212,17 @@ msgstr "[STATE_NAME_ADJ:ALL_SOLID:冷冻的蜜蜂蜂蜜]"
 #: creature_insects.txt:763
 msgctxt "CREATURE:HONEY_BEE"
 msgid "[STATE_NAME_ADJ:LIQUID:honey bee honey]"
-msgstr "LIQUID:蜜蜂蜂蜜]"
+msgstr "[STATE_NAME_ADJ:LIQUID:蜜蜂蜂蜜的]"
 
 #: creature_insects.txt:764
 msgctxt "CREATURE:HONEY_BEE"
 msgid "[STATE_NAME_ADJ:GAS:boiling honey bee honey]"
-msgstr "GAS:沸腾的蜜蜂蜂蜜]"
+msgstr "[STATE_NAME_ADJ:GAS:沸腾的蜜蜂蜂蜜的]"
 
 #: creature_insects.txt:773
 msgctxt "CREATURE:HONEY_BEE"
 msgid "[STATE_NAME_ADJ:ALL_SOLID:frozen mead]"
-msgstr "ALL_SOLID:凝固的蜂蜜酒]"
+msgstr "[STATE_NAME_ADJ:ALL_SOLID:冷冻的蜂蜜酒的]"
 
 #: creature_insects.txt:774
 msgctxt "CREATURE:HONEY_BEE"
@@ -14277,7 +14277,7 @@ msgstr "[CASTE_NAME:工蜂:工蜂:工蜂]"
 #: creature_insects.txt:814
 msgctxt "CREATURE:HONEY_BEE"
 msgid "[VERMIN_BITE:50:stung:]"
-msgstr "50:刺:]"
+msgstr "[VERMIN_BITE:50:螫:]"
 
 #: creature_insects.txt:819
 msgctxt "CREATURE:HONEY_BEE"
@@ -14292,12 +14292,12 @@ msgstr "[CASTE_NAME:蜂后:蜂后:蜂后]"
 #: creature_insects.txt:835
 msgctxt "CREATURE:HONEY_BEE"
 msgid "[TLCM_NOUN:chitin:SINGULAR]"
-msgstr "甲壳素:SINGULAR]"
+msgstr "[TLCM_NOUN:甲壳质:SINGULAR]"
 
 #: creature_insects.txt:838
 msgctxt "CREATURE:HONEY_BEE"
 msgid "[TLCM_NOUN:eyes:PLURAL]"
-msgstr "双眼:PLURAL]"
+msgstr "[TLCM_NOUN:复眼:PLURAL]"
 
 #: creature_insects.txt:841
 msgctxt "CREATURE:BUMBLEBEE"
@@ -14319,67 +14319,67 @@ msgstr "[PREFSTRING:毛茸茸的外表]"
 #: creature_insects.txt:862
 msgctxt "CREATURE:BUMBLEBEE"
 msgid "[STATE_NAME_ADJ:ALL_SOLID:bumblebee wax]"
-msgstr "ALL_SOLID:大黄蜂蜡]"
+msgstr "[STATE_NAME_ADJ:ALL_SOLID:大黄蜂蜂蜡的]"
 
 #: creature_insects.txt:863
 msgctxt "CREATURE:BUMBLEBEE"
 msgid "[STATE_NAME_ADJ:SOLID_PRESSED:bumblebee wax cake]"
-msgstr "SOLID_PRESSED:大黄蜂蜡蛋糕]"
+msgstr "[STATE_NAME_ADJ:SOLID_PRESSED:大黄蜂蜂蜡蛋糕的]"
 
 #: creature_insects.txt:864
 msgctxt "CREATURE:BUMBLEBEE"
 msgid "[STATE_NAME_ADJ:LIQUID:melted bumblebee wax]"
-msgstr "LIQUID:融化的大黄蜂蜂蜡]"
+msgstr "[STATE_NAME_ADJ:LIQUID:融化的大黄蜂蜂蜡的]"
 
 #: creature_insects.txt:865
 msgctxt "CREATURE:BUMBLEBEE"
 msgid "[STATE_NAME_ADJ:GAS:boiling bumblebee wax]"
-msgstr "GAS:沸腾的大黄蜂蜂蜡]"
+msgstr "[STATE_NAME_ADJ:GAS:沸腾的大黄蜂蜂蜡的]"
 
 #: creature_insects.txt:871
 msgctxt "CREATURE:BUMBLEBEE"
 msgid "[STATE_NAME_ADJ:ALL_SOLID:frozen bumblebee royal jelly]"
-msgstr "ALL_SOLID:凝固的大黄蜂蜂王浆]"
+msgstr "[STATE_NAME_ADJ:ALL_SOLID:凝固的大黄蜂蜂王浆的]"
 
 #: creature_insects.txt:872
 msgctxt "CREATURE:BUMBLEBEE"
 msgid "[STATE_NAME_ADJ:LIQUID:bumblebee royal jelly]"
-msgstr "LIQUID:大黄蜂蜂王浆]"
+msgstr "[STATE_NAME_ADJ:LIQUID:大黄蜂蜂王浆的]"
 
 #: creature_insects.txt:873
 msgctxt "CREATURE:BUMBLEBEE"
 msgid "[STATE_NAME_ADJ:GAS:boiling bumblebee royal jelly]"
-msgstr "GAS:沸腾的大黄蜂蜂王浆]"
+msgstr "[STATE_NAME_ADJ:GAS:沸腾的大黄蜂蜂王浆的]"
 
 #: creature_insects.txt:881
 msgctxt "CREATURE:BUMBLEBEE"
 msgid "[STATE_NAME_ADJ:ALL_SOLID:frozen bumblebee honey]"
-msgstr "ALL_SOLID:凝固的大黄蜂蜂蜜]"
+msgstr "[STATE_NAME_ADJ:ALL_SOLID:凝固的大黄蜂蜂蜜的]"
 
 #: creature_insects.txt:882
 msgctxt "CREATURE:BUMBLEBEE"
 msgid "[STATE_NAME_ADJ:LIQUID:bumblebee honey]"
-msgstr "LIQUID:大黄蜂蜂蜜]"
+msgstr "[STATE_NAME_ADJ:LIQUID:大黄蜂蜂蜜的]"
 
 #: creature_insects.txt:883
 msgctxt "CREATURE:BUMBLEBEE"
 msgid "[STATE_NAME_ADJ:GAS:boiling bumblebee honey]"
-msgstr "GAS:沸腾的大黄蜂蜂蜜]"
+msgstr "[STATE_NAME_ADJ:GAS:沸腾的大黄蜂蜂蜜的]"
 
 #: creature_insects.txt:892
 msgctxt "CREATURE:BUMBLEBEE"
 msgid "[STATE_NAME_ADJ:ALL_SOLID:frozen bumblebee mead]"
-msgstr "ALL_SOLID:凝固的大黄蜂蜂蜜酒]"
+msgstr "[STATE_NAME_ADJ:ALL_SOLID:凝固的大黄蜂蜂蜜酒]"
 
 #: creature_insects.txt:893
 msgctxt "CREATURE:BUMBLEBEE"
 msgid "[STATE_NAME_ADJ:LIQUID:bumblebee mead]"
-msgstr ""
+msgstr "[STATE_NAME_ADJ:LIQUID:大黄蜂蜂蜜酒的]"
 
 #: creature_insects.txt:894
 msgctxt "CREATURE:BUMBLEBEE"
 msgid "[STATE_NAME_ADJ:GAS:boiling bumblebee mead]"
-msgstr ""
+msgstr "[STATE_NAME_ADJ:GAS:沸腾的大黄蜂蜂蜜酒的]"
 
 #: creature_insects.txt:897
 msgctxt "CREATURE:BUMBLEBEE"
@@ -14389,7 +14389,7 @@ msgstr "[STATE_NAME:ALL_SOLID:冷冻的大黄蜂蜂毒]"
 #: creature_insects.txt:898
 msgctxt "CREATURE:BUMBLEBEE"
 msgid "[STATE_ADJ:ALL_SOLID:frozen bumblebee venom]"
-msgstr ""
+msgstr "[STATE_ADJ:ALL_SOLID:冷冻的大黄蜂蜂毒的]"
 
 #: creature_insects.txt:899
 msgctxt "CREATURE:BUMBLEBEE"
@@ -14399,7 +14399,7 @@ msgstr "[STATE_NAME:LIQUID:大黄蜂蜂毒]"
 #: creature_insects.txt:900
 msgctxt "CREATURE:BUMBLEBEE"
 msgid "[STATE_ADJ:LIQUID:bumblebee venom]"
-msgstr ""
+msgstr "[STATE_ADJ:LIQUID:大黄蜂毒液的]"
 
 #: creature_insects.txt:901
 msgctxt "CREATURE:BUMBLEBEE"
@@ -14409,7 +14409,7 @@ msgstr "[STATE_NAME:GAS:沸腾的大黄蜂蜂毒]"
 #: creature_insects.txt:902
 msgctxt "CREATURE:BUMBLEBEE"
 msgid "[STATE_ADJ:GAS:boiling bumblebee venom]"
-msgstr ""
+msgstr "[STATE_ADJ:GAS:沸腾的大黄蜂毒液的]"
 
 #: creature_insects.txt:906
 msgctxt "CREATURE:BUMBLEBEE"
@@ -14424,7 +14424,7 @@ msgstr "[CASTE_NAME:工熊蜂:工熊蜂:工熊蜂]"
 #: creature_insects.txt:932
 msgctxt "CREATURE:BUMBLEBEE"
 msgid "[VERMIN_BITE:10:stung:]"
-msgstr ""
+msgstr "[VERMIN_BITE:10:螫:]"
 
 #: creature_insects.txt:935
 msgctxt "CREATURE:BUMBLEBEE"
@@ -14439,12 +14439,12 @@ msgstr "[CASTE_NAME:熊蜂王:熊蜂王:熊蜂王]"
 #: creature_insects.txt:951
 msgctxt "CREATURE:BUMBLEBEE"
 msgid "[TLCM_NOUN:chitin:SINGULAR]"
-msgstr ""
+msgstr "[TLCM_NOUN:甲壳质:SINGULAR]"
 
 #: creature_insects.txt:954
 msgctxt "CREATURE:BUMBLEBEE"
 msgid "[TLCM_NOUN:eyes:PLURAL]"
-msgstr ""
+msgstr "[TLCM_NOUN:复眼:PLURAL]"
 
 #: creature_large_mountain.txt:6
 msgctxt "CREATURE:GOAT_MOUNTAIN"
@@ -14466,47 +14466,47 @@ msgstr "[CASTE_NAME:雪羊:雪羊:雪羊]"
 #: creature_large_mountain.txt:9
 msgctxt "CREATURE:GOAT_MOUNTAIN"
 msgid "[GENERAL_CHILD_NAME:mountain goat kid:mountain goat kids]"
-msgstr ""
+msgstr "[GENERAL_CHILD_NAME:雪羊幼崽:雪羊幼崽]"
 
 #: creature_large_mountain.txt:12
 msgctxt "CREATURE:GOAT_MOUNTAIN"
 msgid "[PREFSTRING:beards]"
-msgstr ""
+msgstr "[PREFSTRING:胡须]"
 
 #: creature_large_mountain.txt:13
 msgctxt "CREATURE:GOAT_MOUNTAIN"
 msgid "[PREFSTRING:long horns]"
-msgstr ""
+msgstr "[PREFSTRING:长角]"
 
 #: creature_large_mountain.txt:14
 msgctxt "CREATURE:GOAT_MOUNTAIN"
 msgid "[PREFSTRING:surefootedness]"
-msgstr ""
+msgstr "[PREFSTRING:脚步稳健]"
 
 #: creature_large_mountain.txt:62
 msgctxt "CREATURE:GOAT_MOUNTAIN"
 msgid "[ATTACK_VERB:kick:kicks]"
-msgstr ""
+msgstr "[ATTACK_VERB:踢:踢]"
 
 #: creature_large_mountain.txt:78
 msgctxt "CREATURE:GOAT_MOUNTAIN"
 msgid "[ATTACK_VERB:bite:bites]"
-msgstr ""
+msgstr "[ATTACK_VERB:咬:咬]"
 
 #: creature_large_mountain.txt:102
 msgctxt "CREATURE:GOAT_MOUNTAIN"
 msgid "[TLCM_NOUN:hair:SINGULAR]"
-msgstr ""
+msgstr "[TLCM_NOUN:毛发:SINGULAR]"
 
 #: creature_large_mountain.txt:105
 msgctxt "CREATURE:GOAT_MOUNTAIN"
 msgid "[TLCM_NOUN:skin:SINGULAR]"
-msgstr ""
+msgstr "[TLCM_NOUN:皮:SINGULAR]"
 
 #: creature_large_mountain.txt:108
 msgctxt "CREATURE:GOAT_MOUNTAIN"
 msgid "[TLCM_NOUN:eyes:PLURAL]"
-msgstr ""
+msgstr "[TLCM_NOUN:眼睛:PLURAL]"
 
 #: creature_large_mountain.txt:115
 msgctxt "CREATURE:GOAT_MOUNTAIN_MAN"
@@ -14527,7 +14527,7 @@ msgstr "[NAME:雪羊人:雪羊人:雪羊人]"
 #: creature_large_mountain.txt:128
 msgctxt "CREATURE:GOAT_MOUNTAIN_MAN"
 msgid "[DESCRIPTION:A horned person with the head of a mountain goat.]"
-msgstr "[DESCRIPTION:一个长着山羊头的人。]"
+msgstr "[DESCRIPTION:一个长着雪羊头的人。]"
 
 #: creature_large_mountain.txt:144
 msgctxt "CREATURE:GIANT_GOAT_MOUNTAIN"
@@ -14538,17 +14538,17 @@ msgstr "[NAME:巨雪羊:巨雪羊:巨雪羊]"
 msgctxt "CREATURE:GIANT_GOAT_MOUNTAIN"
 msgid ""
 "[CASTE_NAME:giant mountain goat:giant mountain goats:giant mountain goat]"
-msgstr "[CASTE_NAME:巨型山羊:巨型山羊:巨型山羊]"
+msgstr "[CASTE_NAME:巨型雪羊:巨型雪羊:巨型雪羊]"
 
 #: creature_large_mountain.txt:146
 msgctxt "CREATURE:GIANT_GOAT_MOUNTAIN"
 msgid "[GENERAL_CHILD_NAME:giant mountain goat kid:giant mountain goat kids]"
-msgstr "[GENERAL_CHILD_NAME:巨型山羊幼崽:巨型山羊幼崽]"
+msgstr "[GENERAL_CHILD_NAME:巨型雪羊幼崽:巨型雪羊幼崽]"
 
 #: creature_large_mountain.txt:147
 msgctxt "CREATURE:GIANT_GOAT_MOUNTAIN"
 msgid "[DESCRIPTION:A huge monster in the form of a mountain goat.]"
-msgstr "[DESCRIPTION:一只体型巨大的山羊怪。]"
+msgstr "[DESCRIPTION:一只体型巨大的雪羊怪。]"
 
 #: creature_large_mountain.txt:156
 msgctxt "CREATURE:GIANT_GOAT_MOUNTAIN"
@@ -14563,7 +14563,7 @@ msgstr "[PREFSTRING:长角]"
 #: creature_large_mountain.txt:158
 msgctxt "CREATURE:GIANT_GOAT_MOUNTAIN"
 msgid "[PREFSTRING:surefootedness]"
-msgstr "[PREFSTRING:脚踏实地]"
+msgstr "[PREFSTRING:脚步稳健]"
 
 #: creature_large_mountain.txt:164
 msgctxt "CREATURE:MARMOT_HOARY"
@@ -14594,27 +14594,27 @@ msgstr "[PREFSTRING:口哨]"
 #: creature_large_mountain.txt:217
 msgctxt "CREATURE:MARMOT_HOARY"
 msgid "[ATTACK_VERB:bite:bites]"
-msgstr ""
+msgstr "[ATTACK_VERB:咬:咬]"
 
 #: creature_large_mountain.txt:226
 msgctxt "CREATURE:MARMOT_HOARY"
 msgid "[ATTACK_VERB:scratch:scratches]"
-msgstr ""
+msgstr "[ATTACK_VERB:抓:抓]"
 
 #: creature_large_mountain.txt:249
 msgctxt "CREATURE:MARMOT_HOARY"
 msgid "[TLCM_NOUN:hair:SINGULAR]"
-msgstr ""
+msgstr "[TLCM_NOUN:毛发:SINGULAR]"
 
 #: creature_large_mountain.txt:252
 msgctxt "CREATURE:MARMOT_HOARY"
 msgid "[TLCM_NOUN:skin:SINGULAR]"
-msgstr ""
+msgstr "[TLCM_NOUN:皮:SINGULAR]"
 
 #: creature_large_mountain.txt:255
 msgctxt "CREATURE:MARMOT_HOARY"
 msgid "[TLCM_NOUN:eyes:PLURAL]"
-msgstr ""
+msgstr "[TLCM_NOUN:眼睛:PLURAL]"
 
 #: creature_large_mountain.txt:262
 msgctxt "CREATURE:MARMOT_HOARY_MAN"
@@ -14634,7 +14634,7 @@ msgstr "[NAME:花白旱獭人:花白旱獭人:花白旱獭人]"
 #: creature_large_mountain.txt:276
 msgctxt "CREATURE:MARMOT_HOARY_MAN"
 msgid "[DESCRIPTION:A person with the head and fur of a hoary marmot.]"
-msgstr ""
+msgstr "[DESCRIPTION:一个长着花白旱獭脑袋和翅膀的人。]"
 
 #: creature_large_mountain.txt:294
 msgctxt "CREATURE:GIANT_MARMOT_HOARY"
@@ -14649,17 +14649,17 @@ msgstr "[CASTE_NAME:巨花白旱獭:巨花白旱獭:巨花白旱獭]"
 #: creature_large_mountain.txt:296
 msgctxt "CREATURE:GIANT_MARMOT_HOARY"
 msgid "[GENERAL_CHILD_NAME:giant hoary marmot pup:giant hoary marmot pups]"
-msgstr ""
+msgstr "[GENERAL_CHILD_NAME:巨j花白旱獭幼崽:巨花白旱獭幼崽]"
 
 #: creature_large_mountain.txt:297
 msgctxt "CREATURE:GIANT_MARMOT_HOARY"
 msgid "[DESCRIPTION:A large creature the shape of a hoary marmot.]"
-msgstr "[DESCRIPTION:一只体型巨大的花白旱獭怪。]"
+msgstr "[DESCRIPTION:一只体型巨大的花白旱獭生物。]"
 
 #: creature_large_mountain.txt:306
 msgctxt "CREATURE:GIANT_MARMOT_HOARY"
 msgid "[PREFSTRING:whistles]"
-msgstr ""
+msgstr "[PREFSTRING:口哨]"
 
 #: creature_large_mountain.txt:312
 msgctxt "CREATURE:GNOME_MOUNTAIN"
@@ -14687,7 +14687,7 @@ msgstr "[PREFSTRING:可饮酒]"
 #: creature_large_mountain.txt:364
 msgctxt "CREATURE:GNOME_MOUNTAIN"
 msgid "[CDI:ADV_NAME:Pet animal]"
-msgstr "[CDI:CDI:ADV_NAME:宠物]"
+msgstr "[CDI:ADV_NAME:宠物]"
 
 #: creature_large_mountain.txt:367
 msgctxt "CREATURE:GNOME_MOUNTAIN"
@@ -14800,17 +14800,17 @@ msgstr "[PREFSTRING:酒量]"
 #: creature_large_mountain.txt:607
 msgctxt "CREATURE:GNOME_DARK"
 msgid "[CDI:ADV_NAME:Pet animal]"
-msgstr ""
+msgstr "[CDI:ADV_NAME:宠物]"
 
 #: creature_large_mountain.txt:610
 msgctxt "CREATURE:GNOME_DARK"
 msgid "[CDI:VERB:pet:pets:pets]"
-msgstr ""
+msgstr "[CDI:VERB:宠物:宠物:宠物]"
 
 #: creature_large_mountain.txt:617
 msgctxt "CREATURE:GNOME_DARK"
 msgid "[CDI:ADV_NAME:Spit]"
-msgstr ""
+msgstr "[CDI:ADV_NAME:吐]"
 
 #: creature_large_mountain.txt:622
 msgctxt "CREATURE:GNOME_DARK"
@@ -14820,47 +14820,47 @@ msgstr "[CDI:VERB:吐:吐:NA]"
 #: creature_large_mountain.txt:637
 msgctxt "CREATURE:GNOME_DARK"
 msgid "[APP_MOD_NOUN:eyes:PLURAL]"
-msgstr ""
+msgstr "[APP_MOD_NOUN:眼睛:PLURAL]"
 
 #: creature_large_mountain.txt:648
 msgctxt "CREATURE:GNOME_DARK"
 msgid "[APP_MOD_NOUN:lips:PLURAL]"
-msgstr ""
+msgstr "[APP_MOD_NOUN:嘴唇:PLURAL]"
 
 #: creature_large_mountain.txt:658
 msgctxt "CREATURE:GNOME_DARK"
 msgid "[APP_MOD_NOUN:nose bridge:SINGULAR]"
-msgstr ""
+msgstr "[APP_MOD_NOUN:鼻梁:SINGULAR]"
 
 #: creature_large_mountain.txt:662
 msgctxt "CREATURE:GNOME_DARK"
 msgid "[APP_MOD_NOUN:ears:PLURAL]"
-msgstr ""
+msgstr "[APP_MOD_NOUN:双耳:PLURAL]"
 
 #: creature_large_mountain.txt:676
 msgctxt "CREATURE:GNOME_DARK"
 msgid "[APP_MOD_NOUN:teeth:PLURAL]"
-msgstr ""
+msgstr "[APP_MOD_NOUN:牙齿:PLURAL]"
 
 #: creature_large_mountain.txt:703
 msgctxt "CREATURE:GNOME_DARK"
 msgid "[ATTACK_VERB:punch:punches]"
-msgstr ""
+msgstr "[ATTACK_VERB:拳打:拳打]。"
 
 #: creature_large_mountain.txt:710
 msgctxt "CREATURE:GNOME_DARK"
 msgid "[ATTACK_VERB:scratch:scratches]"
-msgstr ""
+msgstr "[ATTACK_VERB:抓:抓]"
 
 #: creature_large_mountain.txt:718
 msgctxt "CREATURE:GNOME_DARK"
 msgid "[ATTACK_VERB:bite:bites]"
-msgstr ""
+msgstr "[ATTACK_VERB:咬:咬]"
 
 #: creature_large_mountain.txt:752
 msgctxt "CREATURE:GNOME_DARK"
 msgid "[TLCM_NOUN:hair:SINGULAR]"
-msgstr ""
+msgstr "[TLCM_NOUN:毛发:SINGULAR]"
 
 #: creature_large_mountain.txt:761
 msgctxt "CREATURE:GNOME_DARK"
@@ -14875,17 +14875,17 @@ msgstr ""
 #: creature_large_mountain.txt:778
 msgctxt "CREATURE:GNOME_DARK"
 msgid "[APP_MOD_NOUN:hair:SINGULAR]"
-msgstr ""
+msgstr "[APP_MOD_NOUN:毛发:SINGULAR]"
 
 #: creature_large_mountain.txt:794
 msgctxt "CREATURE:GNOME_DARK"
 msgid "[TLCM_NOUN:skin:SINGULAR]"
-msgstr ""
+msgstr "[TLCM_NOUN:皮:SINGULAR]"
 
 #: creature_large_mountain.txt:797
 msgctxt "CREATURE:GNOME_DARK"
 msgid "[TLCM_NOUN:eyes:PLURAL]"
-msgstr ""
+msgstr "[TLCM_NOUN:眼睛:PLURAL]"
 
 #: creature_large_ocean.txt:6
 msgctxt "CREATURE:WALRUS"
@@ -14932,17 +14932,17 @@ msgstr "[STATE_ADJ:ALL_SOLID:象牙制的]"
 #: creature_large_ocean.txt:29
 msgctxt "CREATURE:WALRUS"
 msgid "[TISSUE_NAME:ivory:NP]"
-msgstr ""
+msgstr "[TISSUE_NAME:象牙:NP]"
 
 #: creature_large_ocean.txt:71
 msgctxt "CREATURE:WALRUS"
 msgid "[TLCM_NOUN:skin:SINGULAR]"
-msgstr ""
+msgstr "[TLCM_NOUN:皮:SINGULAR]"
 
 #: creature_large_ocean.txt:74
 msgctxt "CREATURE:WALRUS"
 msgid "[TLCM_NOUN:eyes:PLURAL]"
-msgstr ""
+msgstr "[TLCM_NOUN:眼睛:PLURAL]"
 
 #: creature_large_ocean.txt:86
 msgctxt "CREATURE:WALRUS_MAN"
@@ -14988,12 +14988,12 @@ msgstr "[DESCRIPTION:一只体型巨大的海象怪。]"
 #: creature_large_ocean.txt:126
 msgctxt "CREATURE:GIANT_WALRUS"
 msgid "[PREFSTRING:tusks]"
-msgstr ""
+msgstr "[PREFSTRING:獠牙]"
 
 #: creature_large_ocean.txt:127
 msgctxt "CREATURE:GIANT_WALRUS"
 msgid "[PREFSTRING:whiskers]"
-msgstr ""
+msgstr "[PREFSTRING:胡须]"
 
 #: creature_large_ocean.txt:133
 msgctxt "CREATURE:FISH_LAMPREY_SEA"
@@ -15015,32 +15015,32 @@ msgstr "[CASTE_NAME:七鳃鳗:七鳃鳗:七鳃鳗]"
 #: creature_large_ocean.txt:136
 msgctxt "CREATURE:FISH_LAMPREY_SEA"
 msgid "[GENERAL_CHILD_NAME:larval sea lamprey:larval sea lampreys]"
-msgstr ""
+msgstr "[GENERAL_CHILD_NAME:海八目鳗幼体:海八目鳗幼体]"
 
 #: creature_large_ocean.txt:151
 msgctxt "CREATURE:FISH_LAMPREY_SEA"
 msgid "[PREFSTRING:suckers]"
-msgstr ""
+msgstr "[PREFSTRING:吸盘]"
 
 #: creature_large_ocean.txt:185
 msgctxt "CREATURE:FISH_LAMPREY_SEA"
 msgid "[ATTACK_VERB:bite:bites]"
-msgstr ""
+msgstr "[ATTACK_VERB:咬:咬]"
 
 #: creature_large_ocean.txt:193
 msgctxt "CREATURE:FISH_LAMPREY_SEA"
 msgid "[ATTACK_VERB:slap:slaps]"
-msgstr ""
+msgstr "[ATTACK_VERB:拍击:拍击]"
 
 #: creature_large_ocean.txt:213
 msgctxt "CREATURE:FISH_LAMPREY_SEA"
 msgid "[TLCM_NOUN:skin:SINGULAR]"
-msgstr ""
+msgstr "[TLCM_NOUN:皮:SINGULAR]"
 
 #: creature_large_ocean.txt:216
 msgctxt "CREATURE:FISH_LAMPREY_SEA"
 msgid "[TLCM_NOUN:eyes:PLURAL]"
-msgstr ""
+msgstr "[TLCM_NOUN:眼睛:PLURAL]"
 
 #: creature_large_ocean.txt:219
 msgctxt "CREATURE:SHARK_GREAT_WHITE"
@@ -15062,32 +15062,32 @@ msgstr "[CASTE_NAME:大白鲨:大白鲨:大白鲨]"
 #: creature_large_ocean.txt:222
 msgctxt "CREATURE:SHARK_GREAT_WHITE"
 msgid "[GENERAL_CHILD_NAME:great white shark pup:great white shark pups]"
-msgstr ""
+msgstr "[GENERAL_CHILD_NAME:大白鲨幼崽:大白鲨幼崽]"
 
 #: creature_large_ocean.txt:231
 msgctxt "CREATURE:SHARK_GREAT_WHITE"
 msgid "[PREFSTRING:ability to make one afraid to go into the water]"
-msgstr ""
+msgstr "[PREFSTRING:使人恐惧入水的能力]"
 
 #: creature_large_ocean.txt:264
 msgctxt "CREATURE:SHARK_GREAT_WHITE"
 msgid "[ATTACK_VERB:bite:bites]"
-msgstr ""
+msgstr "[ATTACK_VERB:咬:咬]"
 
 #: creature_large_ocean.txt:273
 msgctxt "CREATURE:SHARK_GREAT_WHITE"
 msgid "[ATTACK_VERB:slap:slaps]"
-msgstr ""
+msgstr "[ATTACK_VERB:拍击:拍击]"
 
 #: creature_large_ocean.txt:293
 msgctxt "CREATURE:SHARK_GREAT_WHITE"
 msgid "[TLCM_NOUN:skin:SINGULAR]"
-msgstr ""
+msgstr "[TLCM_NOUN:皮:SINGULAR]"
 
 #: creature_large_ocean.txt:296
 msgctxt "CREATURE:SHARK_GREAT_WHITE"
 msgid "[TLCM_NOUN:eyes:PLURAL]"
-msgstr ""
+msgstr "[TLCM_NOUN:眼睛:PLURAL]"
 
 #: creature_large_ocean.txt:299
 msgctxt "CREATURE:SHARK_FRILL"
@@ -15107,37 +15107,37 @@ msgstr "[CASTE_NAME:皱鳃鲨:皱鳃鲨:皱鳃鲨]"
 #: creature_large_ocean.txt:302
 msgctxt "CREATURE:SHARK_FRILL"
 msgid "[GENERAL_CHILD_NAME:frill shark pup:frill shark pups]"
-msgstr ""
+msgstr "[GENERAL_CHILD_NAME:褶边鲨幼崽:褶边鲨幼崽]"
 
 #: creature_large_ocean.txt:310
 msgctxt "CREATURE:SHARK_FRILL"
 msgid "[PREFSTRING:needle teeth]"
-msgstr ""
+msgstr "[PREFSTRING:针状牙齿]"
 
 #: creature_large_ocean.txt:311
 msgctxt "CREATURE:SHARK_FRILL"
 msgid "[PREFSTRING:frilled gill slits]"
-msgstr ""
+msgstr "[PREFSTRING:鳃裂]"
 
 #: creature_large_ocean.txt:344
 msgctxt "CREATURE:SHARK_FRILL"
 msgid "[ATTACK_VERB:bite:bites]"
-msgstr ""
+msgstr "[ATTACK_VERB:咬:咬]"
 
 #: creature_large_ocean.txt:353
 msgctxt "CREATURE:SHARK_FRILL"
 msgid "[ATTACK_VERB:slap:slaps]"
-msgstr ""
+msgstr "[ATTACK_VERB:拍击:拍击]"
 
 #: creature_large_ocean.txt:373
 msgctxt "CREATURE:SHARK_FRILL"
 msgid "[TLCM_NOUN:skin:SINGULAR]"
-msgstr ""
+msgstr "[TLCM_NOUN:皮:SINGULAR]"
 
 #: creature_large_ocean.txt:376
 msgctxt "CREATURE:SHARK_FRILL"
 msgid "[TLCM_NOUN:eyes:PLURAL]"
-msgstr ""
+msgstr "[TLCM_NOUN:眼睛:PLURAL]"
 
 #: creature_large_ocean.txt:379
 msgctxt "CREATURE:SHARK_SPINY_DOGFISH"
@@ -15157,32 +15157,32 @@ msgstr "[CASTE_NAME:白斑角鲨:白斑角鲨:白斑角鲨]"
 #: creature_large_ocean.txt:382
 msgctxt "CREATURE:SHARK_SPINY_DOGFISH"
 msgid "[GENERAL_CHILD_NAME:spiny dogfish pup:spiny dogfish pups]"
-msgstr ""
+msgstr "[GENERAL_CHILD_NAME:多刺角鲨幼崽:多刺角鲨幼崽]"
 
 #: creature_large_ocean.txt:391
 msgctxt "CREATURE:SHARK_SPINY_DOGFISH"
 msgid "[PREFSTRING:dorsal spines]"
-msgstr ""
+msgstr "[PREFSTRING:背棘]"
 
 #: creature_large_ocean.txt:424
 msgctxt "CREATURE:SHARK_SPINY_DOGFISH"
 msgid "[ATTACK_VERB:bite:bites]"
-msgstr ""
+msgstr "[ATTACK_VERB:咬:咬]"
 
 #: creature_large_ocean.txt:433
 msgctxt "CREATURE:SHARK_SPINY_DOGFISH"
 msgid "[ATTACK_VERB:slap:slaps]"
-msgstr ""
+msgstr "[ATTACK_VERB:拍击:拍击]"
 
 #: creature_large_ocean.txt:453
 msgctxt "CREATURE:SHARK_SPINY_DOGFISH"
 msgid "[TLCM_NOUN:skin:SINGULAR]"
-msgstr ""
+msgstr "[TLCM_NOUN:皮:SINGULAR]"
 
 #: creature_large_ocean.txt:456
 msgctxt "CREATURE:SHARK_SPINY_DOGFISH"
 msgid "[TLCM_NOUN:eyes:PLURAL]"
-msgstr ""
+msgstr "[TLCM_NOUN:眼睛:PLURAL]"
 
 #: creature_large_ocean.txt:459
 msgctxt "CREATURE:SHARK_WOBBEGONG_SPOTTED"
@@ -15204,32 +15204,32 @@ msgstr "[CASTE_NAME:斑纹须鲨:斑纹须鲨:斑纹须鲨]"
 #: creature_large_ocean.txt:462
 msgctxt "CREATURE:SHARK_WOBBEGONG_SPOTTED"
 msgid "[GENERAL_CHILD_NAME:spotted wobbegong pup:spotted wobbegong pups]"
-msgstr ""
+msgstr "[GENERAL_CHILD_NAME:斑纹须鲨幼崽:斑纹须鲨幼崽]"
 
 #: creature_large_ocean.txt:471
 msgctxt "CREATURE:SHARK_WOBBEGONG_SPOTTED"
 msgid "[PREFSTRING:coloration]"
-msgstr ""
+msgstr "[PREFSTRING:自然花纹]"
 
 #: creature_large_ocean.txt:504
 msgctxt "CREATURE:SHARK_WOBBEGONG_SPOTTED"
 msgid "[ATTACK_VERB:bite:bites]"
-msgstr ""
+msgstr "[ATTACK_VERB:咬:咬]"
 
 #: creature_large_ocean.txt:513
 msgctxt "CREATURE:SHARK_WOBBEGONG_SPOTTED"
 msgid "[ATTACK_VERB:slap:slaps]"
-msgstr ""
+msgstr "[ATTACK_VERB:拍击:拍击]"
 
 #: creature_large_ocean.txt:533
 msgctxt "CREATURE:SHARK_WOBBEGONG_SPOTTED"
 msgid "[TLCM_NOUN:skin:SINGULAR]"
-msgstr ""
+msgstr "[TLCM_NOUN:皮:SINGULAR]"
 
 #: creature_large_ocean.txt:536
 msgctxt "CREATURE:SHARK_WOBBEGONG_SPOTTED"
 msgid "[TLCM_NOUN:eyes:PLURAL]"
-msgstr ""
+msgstr "[TLCM_NOUN:眼睛:PLURAL]"
 
 #: creature_large_ocean.txt:539
 msgctxt "CREATURE:SHARK_WHALE"
@@ -15249,27 +15249,27 @@ msgstr "[CASTE_NAME:鲸鲨:鲸鲨:鲸鲨]"
 #: creature_large_ocean.txt:542
 msgctxt "CREATURE:SHARK_WHALE"
 msgid "[GENERAL_CHILD_NAME:whale shark pup:whale shark pups]"
-msgstr ""
+msgstr "[GENERAL_CHILD_NAME:鲸鲨幼崽:鲸鲨幼崽]"
 
 #: creature_large_ocean.txt:550
 msgctxt "CREATURE:SHARK_WHALE"
 msgid "[PREFSTRING:gentle nature]"
-msgstr ""
+msgstr "[PREFSTRING:温柔的天性]"
 
 #: creature_large_ocean.txt:583
 msgctxt "CREATURE:SHARK_WHALE"
 msgid "[ATTACK_VERB:slap:slaps]"
-msgstr ""
+msgstr "[ATTACK_VERB:拍击:拍击]"
 
 #: creature_large_ocean.txt:603
 msgctxt "CREATURE:SHARK_WHALE"
 msgid "[TLCM_NOUN:skin:SINGULAR]"
-msgstr ""
+msgstr "[TLCM_NOUN:皮:SINGULAR]"
 
 #: creature_large_ocean.txt:606
 msgctxt "CREATURE:SHARK_WHALE"
 msgid "[TLCM_NOUN:eyes:PLURAL]"
-msgstr ""
+msgstr "[TLCM_NOUN:眼睛:PLURAL]"
 
 #: creature_large_ocean.txt:609
 msgctxt "CREATURE:SHARK_BASKING"
@@ -15290,27 +15290,27 @@ msgstr "[CASTE_NAME:姥鲨:姥鲨:姥鲨]"
 #: creature_large_ocean.txt:612
 msgctxt "CREATURE:SHARK_BASKING"
 msgid "[GENERAL_CHILD_NAME:basking shark pup:basking shark pups]"
-msgstr ""
+msgstr "[GENERAL_CHILD_NAME:姥鲨幼崽:姥鲨幼崽]"
 
 #: creature_large_ocean.txt:620
 msgctxt "CREATURE:SHARK_BASKING"
 msgid "[PREFSTRING:giant open mouths]"
-msgstr ""
+msgstr "[PREFSTRING:超级大嘴]"
 
 #: creature_large_ocean.txt:653
 msgctxt "CREATURE:SHARK_BASKING"
 msgid "[ATTACK_VERB:slap:slaps]"
-msgstr ""
+msgstr "[ATTACK_VERB:拍击:拍击]"
 
 #: creature_large_ocean.txt:673
 msgctxt "CREATURE:SHARK_BASKING"
 msgid "[TLCM_NOUN:skin:SINGULAR]"
-msgstr ""
+msgstr "[TLCM_NOUN:皮:SINGULAR]"
 
 #: creature_large_ocean.txt:676
 msgctxt "CREATURE:SHARK_BASKING"
 msgid "[TLCM_NOUN:eyes:PLURAL]"
-msgstr ""
+msgstr "[TLCM_NOUN:眼睛:PLURAL]"
 
 #: creature_large_ocean.txt:679
 msgctxt "CREATURE:SHARK_NURSE"
@@ -15332,32 +15332,32 @@ msgstr "[CASTE_NAME:铰口鲨:铰口鲨:铰口鲨]"
 #: creature_large_ocean.txt:682
 msgctxt "CREATURE:SHARK_NURSE"
 msgid "[GENERAL_CHILD_NAME:nurse shark pup:nurse shark pups]"
-msgstr ""
+msgstr "[GENERAL_CHILD_NAME:铰口鲨幼崽:铰口鲨幼崽]"
 
 #: creature_large_ocean.txt:690
 msgctxt "CREATURE:SHARK_NURSE"
 msgid "[PREFSTRING:tenacity]"
-msgstr ""
+msgstr "[PREFSTRING:坚韧]"
 
 #: creature_large_ocean.txt:723
 msgctxt "CREATURE:SHARK_NURSE"
 msgid "[ATTACK_VERB:bite:bites]"
-msgstr ""
+msgstr "[ATTACK_VERB:咬:咬]"
 
 #: creature_large_ocean.txt:732
 msgctxt "CREATURE:SHARK_NURSE"
 msgid "[ATTACK_VERB:slap:slaps]"
-msgstr ""
+msgstr "[ATTACK_VERB:拍击:拍击]"
 
 #: creature_large_ocean.txt:752
 msgctxt "CREATURE:SHARK_NURSE"
 msgid "[TLCM_NOUN:skin:SINGULAR]"
-msgstr ""
+msgstr "[TLCM_NOUN:皮:SINGULAR]"
 
 #: creature_large_ocean.txt:755
 msgctxt "CREATURE:SHARK_NURSE"
 msgid "[TLCM_NOUN:eyes:PLURAL]"
-msgstr ""
+msgstr "[TLCM_NOUN:眼睛:PLURAL]"
 
 #: creature_large_ocean.txt:758
 msgctxt "CREATURE:SHARK_MAKO_SHORTFIN"
@@ -15380,32 +15380,32 @@ msgstr "[CASTE_NAME:尖吻鲭鲨:尖吻鲭鲨:尖吻鲭鲨]"
 #: creature_large_ocean.txt:761
 msgctxt "CREATURE:SHARK_MAKO_SHORTFIN"
 msgid "[GENERAL_CHILD_NAME:shortfin mako shark pup:shortfin mako shark pup]"
-msgstr ""
+msgstr "[GENERAL_CHILD_NAME:尖吻鲭鲨幼崽:尖吻鲭鲨幼崽]"
 
 #: creature_large_ocean.txt:770
 msgctxt "CREATURE:SHARK_MAKO_SHORTFIN"
 msgid "[PREFSTRING:speed]"
-msgstr ""
+msgstr "[PREFSTRING:快速]"
 
 #: creature_large_ocean.txt:803
 msgctxt "CREATURE:SHARK_MAKO_SHORTFIN"
 msgid "[ATTACK_VERB:bite:bites]"
-msgstr ""
+msgstr "[ATTACK_VERB:咬:咬]"
 
 #: creature_large_ocean.txt:812
 msgctxt "CREATURE:SHARK_MAKO_SHORTFIN"
 msgid "[ATTACK_VERB:slap:slaps]"
-msgstr ""
+msgstr "[ATTACK_VERB:拍击:拍击]"
 
 #: creature_large_ocean.txt:832
 msgctxt "CREATURE:SHARK_MAKO_SHORTFIN"
 msgid "[TLCM_NOUN:skin:SINGULAR]"
-msgstr ""
+msgstr "[TLCM_NOUN:皮:SINGULAR]"
 
 #: creature_large_ocean.txt:835
 msgctxt "CREATURE:SHARK_MAKO_SHORTFIN"
 msgid "[TLCM_NOUN:eyes:PLURAL]"
-msgstr ""
+msgstr "[TLCM_NOUN:眼睛:PLURAL]"
 
 #: creature_large_ocean.txt:838
 msgctxt "CREATURE:SHARK_MAKO_LONGFIN"
@@ -15427,32 +15427,32 @@ msgstr "[CASTE_NAME:长鳍鲭鲨:长鳍鲭鲨:长鳍鲭鲨]"
 #: creature_large_ocean.txt:841
 msgctxt "CREATURE:SHARK_MAKO_LONGFIN"
 msgid "[GENERAL_CHILD_NAME:longfin mako shark pup:longfin mako shark pup]"
-msgstr ""
+msgstr "[GENERAL_CHILD_NAME:长鳍鲭鲨幼崽:长鳍鲭鲨幼崽]"
 
 #: creature_large_ocean.txt:850
 msgctxt "CREATURE:SHARK_MAKO_LONGFIN"
 msgid "[PREFSTRING:speed]"
-msgstr ""
+msgstr "[PREFSTRING:快速]"
 
 #: creature_large_ocean.txt:883
 msgctxt "CREATURE:SHARK_MAKO_LONGFIN"
 msgid "[ATTACK_VERB:bite:bites]"
-msgstr ""
+msgstr "[ATTACK_VERB:咬:咬]"
 
 #: creature_large_ocean.txt:892
 msgctxt "CREATURE:SHARK_MAKO_LONGFIN"
 msgid "[ATTACK_VERB:slap:slaps]"
-msgstr ""
+msgstr "[ATTACK_VERB:拍击:拍击]"
 
 #: creature_large_ocean.txt:912
 msgctxt "CREATURE:SHARK_MAKO_LONGFIN"
 msgid "[TLCM_NOUN:skin:SINGULAR]"
-msgstr ""
+msgstr "[TLCM_NOUN:皮:SINGULAR]"
 
 #: creature_large_ocean.txt:915
 msgctxt "CREATURE:SHARK_MAKO_LONGFIN"
 msgid "[TLCM_NOUN:eyes:PLURAL]"
-msgstr ""
+msgstr "[TLCM_NOUN:眼睛:PLURAL]"
 
 #: creature_large_ocean.txt:918
 msgctxt "CREATURE:SHARK_TIGER"
@@ -15474,32 +15474,32 @@ msgstr "[CASTE_NAME:鼬鲨:鼬鲨:鼬鲨]"
 #: creature_large_ocean.txt:921
 msgctxt "CREATURE:SHARK_TIGER"
 msgid "[GENERAL_CHILD_NAME:tiger shark pup:tiger shark pups]"
-msgstr ""
+msgstr "[GENERAL_CHILD_NAME:鼬鲨幼崽:鼬鲨幼崽]"
 
 #: creature_large_ocean.txt:929
 msgctxt "CREATURE:SHARK_TIGER"
 msgid "[PREFSTRING:stripes]"
-msgstr ""
+msgstr "[PREFSTRING:斑纹]"
 
 #: creature_large_ocean.txt:962
 msgctxt "CREATURE:SHARK_TIGER"
 msgid "[ATTACK_VERB:bite:bites]"
-msgstr ""
+msgstr "[ATTACK_VERB:咬:咬]"
 
 #: creature_large_ocean.txt:971
 msgctxt "CREATURE:SHARK_TIGER"
 msgid "[ATTACK_VERB:slap:slaps]"
-msgstr ""
+msgstr "[ATTACK_VERB:拍击:拍击]"
 
 #: creature_large_ocean.txt:991
 msgctxt "CREATURE:SHARK_TIGER"
 msgid "[TLCM_NOUN:skin:SINGULAR]"
-msgstr ""
+msgstr "[TLCM_NOUN:皮:SINGULAR]"
 
 #: creature_large_ocean.txt:994
 msgctxt "CREATURE:SHARK_TIGER"
 msgid "[TLCM_NOUN:eyes:PLURAL]"
-msgstr ""
+msgstr "[TLCM_NOUN:眼睛:PLURAL]"
 
 #: creature_large_ocean.txt:997
 msgctxt "CREATURE:SHARK_BULL"
@@ -15522,32 +15522,32 @@ msgstr "[CASTE_NAME:公牛鲨:公牛鲨:公牛鲨]"
 #: creature_large_ocean.txt:1000
 msgctxt "CREATURE:SHARK_BULL"
 msgid "[GENERAL_CHILD_NAME:bull shark pup:bull shark pups]"
-msgstr ""
+msgstr "[GENERAL_CHILD_NAME:公牛鲨幼崽:公牛鲨幼崽]"
 
 #: creature_large_ocean.txt:1008
 msgctxt "CREATURE:SHARK_BULL"
 msgid "[PREFSTRING:aggressive nature]"
-msgstr ""
+msgstr "[PREFSTRING:侵略的天性]"
 
 #: creature_large_ocean.txt:1041
 msgctxt "CREATURE:SHARK_BULL"
 msgid "[ATTACK_VERB:bite:bites]"
-msgstr ""
+msgstr "[ATTACK_VERB:咬:咬]"
 
 #: creature_large_ocean.txt:1050
 msgctxt "CREATURE:SHARK_BULL"
 msgid "[ATTACK_VERB:slap:slaps]"
-msgstr ""
+msgstr "[ATTACK_VERB:拍击:拍击]"
 
 #: creature_large_ocean.txt:1070
 msgctxt "CREATURE:SHARK_BULL"
 msgid "[TLCM_NOUN:skin:SINGULAR]"
-msgstr ""
+msgstr "[TLCM_NOUN:皮:SINGULAR]"
 
 #: creature_large_ocean.txt:1073
 msgctxt "CREATURE:SHARK_BULL"
 msgid "[TLCM_NOUN:eyes:PLURAL]"
-msgstr ""
+msgstr "[TLCM_NOUN:眼睛:PLURAL]"
 
 #: creature_large_ocean.txt:1076
 msgctxt "CREATURE:SHARK_REEF_BLACKTIP"
@@ -15573,7 +15573,7 @@ msgstr ""
 #: creature_large_ocean.txt:1087
 msgctxt "CREATURE:SHARK_REEF_BLACKTIP"
 msgid "[PREFSTRING:curiosity]"
-msgstr ""
+msgstr "[PREFSTRING:好奇心]"
 
 #: creature_large_ocean.txt:1088
 msgctxt "CREATURE:SHARK_REEF_BLACKTIP"
@@ -16557,7 +16557,7 @@ msgctxt "CREATURE:NARWHAL"
 msgid ""
 "[DESCRIPTION:A medium-sized sea mammal with a long thin horn on its nose.  "
 "It uses this horn to communicate and break up ice.]"
-msgstr ""
+msgstr "[DESCRIPTION:中型海洋哺乳动物，它的吻部探出细长且尖锐的长角，常被用于破开冰面以及与同伴交流。]"
 
 #: creature_large_ocean.txt:2859
 msgctxt "CREATURE:NARWHAL"
@@ -16664,7 +16664,7 @@ msgstr "[DESCRIPTION:鼻子上长着巨角的巨大海怪。]"
 #: creature_large_ocean.txt:2994
 msgctxt "CREATURE:NARWHAL, GIANT"
 msgid "[PREFSTRING:horns]"
-msgstr ""
+msgstr "[PREFSTRING:角]"
 
 #: creature_large_riverlake.txt:6
 msgctxt "CREATURE:HIPPO"
@@ -16672,6 +16672,7 @@ msgid ""
 "[DESCRIPTION:A huge, round, hairless river creature.  It is a plant-eating "
 "animal but has long tusks and can be aggressive and deadly if disturbed.]"
 msgstr ""
+"[DESCRIPTION:.这只庞大的河栖生物身躯圆润、光滑无毛，虽然以食用植物为生，却有着狰狞的獠牙，如果惊扰它的话，就能看到它富有攻击性且致命危险的一面。]"
 
 #: creature_large_riverlake.txt:7
 msgctxt "CREATURE:HIPPO"
@@ -16751,12 +16752,12 @@ msgstr ""
 #: creature_large_riverlake.txt:132
 msgctxt "CREATURE:GIANT_HIPPO"
 msgid "[NAME:giant hippo:giant hippos:giant hippo]"
-msgstr ""
+msgstr "[NAME:巨河马:巨河马:巨河马]"
 
 #: creature_large_riverlake.txt:133
 msgctxt "CREATURE:GIANT_HIPPO"
 msgid "[CASTE_NAME:giant hippo:giant hippos:giant hippo]"
-msgstr ""
+msgstr "[CASTE_NAME:巨河马:巨河马:巨河马]"
 
 #: creature_large_riverlake.txt:134
 msgctxt "CREATURE:GIANT_HIPPO"
@@ -16783,12 +16784,12 @@ msgstr ""
 #: creature_large_riverlake.txt:151
 msgctxt "CREATURE:FISH_GAR_LONGNOSE"
 msgid "[NAME:longnose gar:longnose gars:longnose gar]"
-msgstr ""
+msgstr "[NAME:长鼻雀鳝:长鼻雀鳝:长鼻雀鳝]"
 
 #: creature_large_riverlake.txt:152
 msgctxt "CREATURE:FISH_GAR_LONGNOSE"
 msgid "[CASTE_NAME:longnose gar:longnose gars:longnose gar]"
-msgstr ""
+msgstr "[CASTE_NAME:长鼻雀鳝:长鼻雀鳝:长鼻雀鳝]"
 
 #: creature_large_riverlake.txt:153
 msgctxt "CREATURE:FISH_GAR_LONGNOSE"
@@ -16825,12 +16826,12 @@ msgctxt "CREATURE:FISH_CARP"
 msgid ""
 "[DESCRIPTION:A medium-sized fish found in lakes and streams.  They are "
 "bottom-feeders and tend to gather in groups.]"
-msgstr ""
+msgstr "[DESCRIPTION:在湖泊与溪流中发现的中型鱼，在底部栖息，常常成群出现。]"
 
 #: creature_large_riverlake.txt:238
 msgctxt "CREATURE:FISH_CARP"
 msgid "[NAME:carp:carp:carp]"
-msgstr ""
+msgstr "[NAME:鲤鱼:鲤鱼:鲤鱼]"
 
 #: creature_large_riverlake.txt:239
 msgctxt "CREATURE:FISH_CARP"
@@ -17157,7 +17158,7 @@ msgctxt "CREATURE:BEAR_GRIZZLY"
 msgid ""
 "[DESCRIPTION:A huge brown creature found in temperate woodland.  It is known"
 " for its ferocious attack, usually when it or its young are threatened.]"
-msgstr "[DESCRIPTION:在温带林地中发现的一种巨大的棕色生物。 它以凶猛的攻击而闻名，通常是在它或它的幼崽受到威胁时。]"
+msgstr "[DESCRIPTION:在温带林地中发现的一种巨大的棕色生物。 在它或它的幼崽受到威胁时常常会回以凶猛的攻击。]"
 
 #: creature_large_temperate.txt:7
 msgctxt "CREATURE:BEAR_GRIZZLY"
@@ -17257,8 +17258,8 @@ msgid ""
 "Though normally a docile animal, it has been known to kill in a predatory "
 "attack.]"
 msgstr ""
-"[DESCRIPTION:在温带林地发现的大型杂食性捕食者。 主要以浆果为生，也会偷取其他猎人的尸体。 "
-"虽然通常是一种温顺的动物，但众所周知它会在掠夺性攻击中杀死。]"
+"[DESCRIPTION:在温带林地发现的大型杂食性捕食者。 主要以浆果为生，也会偷取其他掠食者的猎物。 "
+"虽然通常温顺无害，但显然它可以在掠食中中杀死猎物。]"
 
 #: creature_large_temperate.txt:163
 msgctxt "CREATURE:BEAR_BLACK"
@@ -34648,7 +34649,7 @@ msgstr ""
 #: creature_temperate_new.txt:1623
 msgctxt "CREATURE:BOBCAT_MAN"
 msgid "[DESCRIPTION:A person with the head and short tail of a bobcat.]"
-msgstr "[DESCRIPTION:一"
+msgstr "[DESCRIPTION:一个长着山猫头和尾巴的人。]"
 
 #: creature_temperate_new.txt:1641
 msgctxt "CREATURE:GIANT_BOBCAT"
@@ -42863,17 +42864,17 @@ msgstr ""
 #: material_template_default.txt:988
 msgctxt "MATERIAL_TEMPLATE:GUT_TEMPLATE"
 msgid "[STATE_ADJ:LIQUID:n/a]"
-msgstr ""
+msgstr "[STATE_ADJ:LIQUID:不存在的]"
 
 #: material_template_default.txt:990
 msgctxt "MATERIAL_TEMPLATE:GUT_TEMPLATE"
 msgid "[STATE_NAME:GAS:n/a]"
-msgstr ""
+msgstr "[STATE_NAME:GAS:不存在]"
 
 #: material_template_default.txt:991
 msgctxt "MATERIAL_TEMPLATE:GUT_TEMPLATE"
 msgid "[STATE_ADJ:GAS:n/a]"
-msgstr ""
+msgstr "[STATE_ADJ:GAS:不存在的]"
 
 #: material_template_default.txt:1030
 msgctxt "MATERIAL_TEMPLATE:GUT_TEMPLATE"
