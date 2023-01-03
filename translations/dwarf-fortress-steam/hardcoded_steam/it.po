@@ -6932,7 +6932,7 @@ msgstr ", posizione "
 
 #: stringdump_steam_2022_12_06.txt:1813
 msgid "elevation "
-msgstr "livello "
+msgstr "quota "
 
 #: stringdump_steam_2022_12_06.txt:1814
 msgid "Recenter to "
@@ -7854,7 +7854,7 @@ msgstr "] e "
 
 #: stringdump_steam_2022_12_06.txt:2039
 msgid "To change the camera's elevation, press "
-msgstr "Per cambiare il livello della telecamera, premi "
+msgstr "Per cambiare la quota della telecamera premi "
 
 #: stringdump_steam_2022_12_06.txt:2040
 msgid "] or hold the middle mouse button and drag the view."
@@ -7876,7 +7876,7 @@ msgid ""
 "you can only interact with objects in your current elevation."
 msgstr ""
 "Quando la visuale è in aria sopra altre tessere puoi vederle in basso ma "
-"puoi interagire solo con gli oggetti che si trovano sul livello attuale."
+"puoi interagire solo con gli oggetti che si trovano alla quota attuale."
 
 #: stringdump_steam_2022_12_06.txt:2044
 msgid ""
@@ -7912,8 +7912,8 @@ msgid ""
 "Your view is focused on one elevation at a time.  To move the camera around,"
 " press "
 msgstr ""
-"La visuale è focalizzata su un livello alla volta. Per spostare la "
-"telecamera, premi "
+"La visuale è focalizzata su una quota alla volta. Per spostare la telecamera"
+" premi "
 
 #: stringdump_steam_2022_12_06.txt:2051
 msgid " (1 of 8)"
@@ -8006,7 +8006,7 @@ msgid ""
 "elevation and are completed at "
 msgstr ""
 "Ci sono diversi modi per scavare.  Le trombe delle scale (selezionate) "
-"iniziano a un livello e sono completate a "
+"iniziano a una quota e sono completate a "
 
 #: stringdump_steam_2022_12_06.txt:2067
 msgid ""
@@ -8573,7 +8573,7 @@ msgstr "Taglialegna"
 
 #: stringdump_steam_2022_12_06.txt:2165
 msgid "The highest mountain elevations do not have soil. "
-msgstr "I livelli più alti della montagna non hanno terreno. "
+msgstr "Le quote più alte della montagna non hanno terreno. "
 
 #: stringdump_steam_2022_12_06.txt:2166
 msgid ""
@@ -9201,6 +9201,8 @@ msgid ""
 "The system is reasonably powerful and you can eventually automate almost all"
 " of your production if you wish."
 msgstr ""
+"Il sistema è ragionevolmente potente e, se lo desideri, è possibile "
+"automatizzare quasi tutta la produzione."
 
 #: stringdump_steam_2022_12_06.txt:2263
 msgid ""
@@ -9289,6 +9291,8 @@ msgid ""
 "Work orders are used to automate [C:3:0:1]Tasks[C:7:0:0] in "
 "[C:6:0:0]Workshops[C:7:0:0]. "
 msgstr ""
+"Gli ordini di lavoro sono utilizzati per automatizzare i "
+"[C:3:0:1]Compiti[C:7:0:0] nelle [C:6:0:0]Botteghe[C:7:0:0]. "
 
 #: stringdump_steam_2022_12_06.txt:2276
 msgid ""
@@ -11154,7 +11158,7 @@ msgstr "Larghezza finestra iniziale (se in mod. finestra)"
 
 #: stringdump_steam_2022_12_06.txt:2656
 msgid "Maximum interface width (not counting minimap/elevation)"
-msgstr "Larghezza massima interfaccia (senza contare minimappa/elevazione)"
+msgstr "Larghezza massima interfaccia (senza contare minimappa/quota)"
 
 #: stringdump_steam_2022_12_06.txt:2657
 msgid "Window is resizable (takes effect on restart)"
@@ -11339,11 +11343,11 @@ msgstr "Mostra qualità miglioria nel nome degli oggetti"
 
 #: stringdump_steam_2022_12_06.txt:2704
 msgid "Number of lower elevation layers to show"
-msgstr "Numero di elevazioni inferiori da mostrare"
+msgstr "Numero di quote inferiori da mostrare"
 
 #: stringdump_steam_2022_12_06.txt:2705
 msgid "Show up/down arrows on ramps at current elevation"
-msgstr "Mostra frecce su/giù sulle rampe all'elevazione attuale"
+msgstr "Mostra frecce su/giù sulle rampe all'attuale quota"
 
 #: stringdump_steam_2022_12_06.txt:2706
 msgid "Seed cap (per species)"
@@ -16235,7 +16239,7 @@ msgstr "Progetto di taglio degli alberi"
 
 #: stringdump_steam_2022_12_06.txt:4142
 msgid "Must span multiple elevations"
-msgstr "Deve estendersi su più livelli"
+msgstr "Deve estendersi su più quote"
 
 #: stringdump_steam_2022_12_06.txt:4143
 msgid "Converting mining to blueprint"
@@ -16615,7 +16619,7 @@ msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:4242
 msgid "Blocks"
-msgstr ""
+msgstr "Blocchi"
 
 #: stringdump_steam_2022_12_06.txt:4243
 msgid "Bars and"
@@ -16887,7 +16891,7 @@ msgstr "Inizio "
 
 #: stringdump_steam_2022_12_06.txt:4312
 msgid "Elevation "
-msgstr "Livello "
+msgstr "Quota "
 
 #: stringdump_steam_2022_12_06.txt:4313
 msgid "Other"
@@ -17006,9 +17010,9 @@ msgid ""
 "Dig a stairwell on this level, going up or down.  Your selection must span "
 "multiple elevations.  Click on a tile, change elevations, and click again."
 msgstr ""
-"Scava una tromba delle scale a questo livello, in salita o discesa.  La "
-"selezione deve comprendere più livelli.  Clicca una tessera, cambia livello "
-"e clicca di nuovo."
+"Scava una tromba delle scale a questo quota, in salita o discesa.  La "
+"selezione deve comprendere più quote.  Clicca una tessera, cambia quote e "
+"clicca di nuovo."
 
 #: stringdump_steam_2022_12_06.txt:4340
 msgid ""
@@ -17283,12 +17287,16 @@ msgid ""
 "Select this option and any unassigned deceased pets will be buried here "
 "automatically."
 msgstr ""
+"Selezionando questa opzione, gli animali domestici deceduti non assegnati "
+"saranno sepolti automaticamente qui."
 
 #: stringdump_steam_2022_12_06.txt:4397
 msgid ""
 "Select this option and any unassigned deceased citizens will be buried here "
 "automatically."
 msgstr ""
+"Selezionando questa opzione, tutti i cittadini deceduti non assegnati "
+"saranno sepolti qui automaticamente."
 
 #: stringdump_steam_2022_12_06.txt:4398
 msgid ""
@@ -17620,6 +17628,9 @@ msgid ""
 "assigned to shops automatically and can be activated with various "
 "conditions."
 msgstr ""
+"Crea un nuovo ordine di lavoro.  Gli ordini di lavoro sono come i lavori di "
+"bottega ma vengono assegnati automaticamente ai negozi e possono essere "
+"attivati con varie condizioni."
 
 #: stringdump_steam_2022_12_06.txt:4460
 msgid ""
@@ -18556,7 +18567,7 @@ msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:4655
 msgid "Show up and down arrows over ramps at the current elevation."
-msgstr "Mostra le frecce di salita e discesa sulle rampe al livello attuale."
+msgstr "Mostra le frecce di salita e discesa sulle rampe alla quota attuale."
 
 #: stringdump_steam_2022_12_06.txt:4656
 msgid "Display water and magma depth numerically (1 to 7.)"
@@ -18933,7 +18944,7 @@ msgid ""
 " the same elevation as the pump."
 msgstr ""
 "Usa una pompa a vite per spostare i liquidi verso l'alto fino a raggiungere "
-"la stessa elevazione della pompa."
+"la stessa quota della pompa."
 
 #: stringdump_steam_2022_12_06.txt:4710
 msgid ""
@@ -18949,16 +18960,15 @@ msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:4712
 msgid "Vertical axles transfer power between two adjacent elevations."
-msgstr ""
-"Gli assi verticali trasferiscono la potenza tra due livelli adiacenti."
+msgstr "Gli assi verticali trasferiscono la potenza tra due quote adiacenti."
 
 #: stringdump_steam_2022_12_06.txt:4713
 msgid ""
 "Horizontal axles transfer power on the same elevation.  Horizontal axles can"
 " be east-west or north-south."
 msgstr ""
-"Gli assi orizzontali trasferiscono la potenza sullo stello livello.  Gli "
-"assi orizzontali possono essere est-ovest o nord-sud."
+"Gli assi orizzontali trasferiscono la potenza sulla stessa quota.  Gli assi "
+"orizzontali possono essere est-ovest o nord-sud."
 
 #: stringdump_steam_2022_12_06.txt:4714
 msgid ""
@@ -19068,8 +19078,8 @@ msgid ""
 "You can build staircases to connect different elevations.  Staircases must "
 "span at least two elevations.  Requires boulder, block, or wood."
 msgstr ""
-"Puoi costruire scalinate per collegare diverse elevazioni. Le scalinate "
-"devono coprire almeno due elevazioni.  Richiede massi, blocchi o legno."
+"Puoi costruire scalinate per collegare diverse quote.  Le scalinate devono "
+"coprire almeno due quote.  Richiede massi, blocchi o legno."
 
 #: stringdump_steam_2022_12_06.txt:4731
 msgid ""
@@ -20006,7 +20016,7 @@ msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:4947
 msgid "Automatically weave all thread"
-msgstr ""
+msgstr "Intreccio automatico dei fili"
 
 #: stringdump_steam_2022_12_06.txt:4948
 msgid "Only selected do this"
@@ -20062,31 +20072,31 @@ msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:4961
 msgid "low precision"
-msgstr ""
+msgstr "bassa precisione"
 
 #: stringdump_steam_2022_12_06.txt:4962
 msgid "medium precision"
-msgstr ""
+msgstr "media precisione"
 
 #: stringdump_steam_2022_12_06.txt:4963
 msgid "high precision"
-msgstr ""
+msgstr "alta precisione"
 
 #: stringdump_steam_2022_12_06.txt:4964
 msgid "Do not automate smelter"
-msgstr ""
+msgstr "Non automatizzare la fonderia"
 
 #: stringdump_steam_2022_12_06.txt:4965
 msgid "Automate other shops"
-msgstr ""
+msgstr "Automatizza altri negozi"
 
 #: stringdump_steam_2022_12_06.txt:4966
 msgid "Do not automate other shops"
-msgstr ""
+msgstr "Non automatizzare altri negozi"
 
 #: stringdump_steam_2022_12_06.txt:4967
 msgid "Workers gather animals"
-msgstr ""
+msgstr "I lavoratori raccolgono animali"
 
 #: stringdump_steam_2022_12_06.txt:4968
 msgid "Do not automate tannery"
@@ -20110,27 +20120,27 @@ msgstr "I lavoratori ignorano i mobili"
 
 #: stringdump_steam_2022_12_06.txt:4973
 msgid "Workers gather bodies"
-msgstr ""
+msgstr "I lavoratori raccolgono i corpi"
 
 #: stringdump_steam_2022_12_06.txt:4974
 msgid "Workers ignore bodies"
-msgstr ""
+msgstr "I lavoratori ignorano i corpi"
 
 #: stringdump_steam_2022_12_06.txt:4975
 msgid "Workers gather minerals"
-msgstr ""
+msgstr "I lavoratori raccolgono i minerali"
 
 #: stringdump_steam_2022_12_06.txt:4976
 msgid "Workers ignore animals"
-msgstr ""
+msgstr "I lavoratori ignorano gli animali"
 
 #: stringdump_steam_2022_12_06.txt:4977
 msgid "Workers gather food"
-msgstr ""
+msgstr "I lavoratori raccolgono il cibo"
 
 #: stringdump_steam_2022_12_06.txt:4978
 msgid "Workers ignore food"
-msgstr ""
+msgstr "I lavoratori ignorano il cibo"
 
 #: stringdump_steam_2022_12_06.txt:4979
 msgid "Workers gather furniture"
@@ -20138,7 +20148,7 @@ msgstr "I lavoratori raccolgono i mobili"
 
 #: stringdump_steam_2022_12_06.txt:4980
 msgid "Automatically collect webs"
-msgstr ""
+msgstr "Raccolta automatica delle reti"
 
 #: stringdump_steam_2022_12_06.txt:4981
 msgid "No automatic web collection"
@@ -20154,7 +20164,7 @@ msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:4984
 msgid "Automatically weave dyed thread"
-msgstr ""
+msgstr "Tessere automaticamente il filo tinto"
 
 #: stringdump_steam_2022_12_06.txt:4985
 msgid "No automatic weaving"
@@ -20182,7 +20192,7 @@ msgstr "Automatizza conciatura"
 
 #: stringdump_steam_2022_12_06.txt:4991
 msgid "Automatically butcher carcasses"
-msgstr ""
+msgstr "Macellazione automatica delle carcasse"
 
 #: stringdump_steam_2022_12_06.txt:4992
 msgid "No automatic butchery"
@@ -20190,7 +20200,7 @@ msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:4993
 msgid "Automatically clean fish"
-msgstr ""
+msgstr "Pulizia automatica del pesce"
 
 #: stringdump_steam_2022_12_06.txt:4994
 msgid "No automatic fish cleaning"
@@ -20274,7 +20284,7 @@ msgstr "I lavoratori ignorano i rifiuti all'aperto"
 
 #: stringdump_steam_2022_12_06.txt:5014
 msgid "Workers gather outdoor vermin remains"
-msgstr "I lavoratori raccolgono i resti dei parassiti all'aperto"
+msgstr "I lavoratori raccolgono i resti di parassiti all'aperto"
 
 #: stringdump_steam_2022_12_06.txt:5015
 msgid "Workers ignore minerals"
@@ -24196,7 +24206,7 @@ msgstr "il mastio"
 
 #: stringdump_steam_2022_12_06.txt:6008
 msgid "a hillock"
-msgstr ""
+msgstr "una collinetta"
 
 #: stringdump_steam_2022_12_06.txt:6009
 msgid "a house"
@@ -24959,11 +24969,11 @@ msgstr "Forse sareste disposti a commerciare "
 
 #: stringdump_steam_2022_12_06.txt:6196
 msgid "Where is "
-msgstr ""
+msgstr "Dov'è "
 
 #: stringdump_steam_2022_12_06.txt:6197
 msgid "Tell me about this area."
-msgstr "Parlami di questa zona."
+msgstr "Parlami di quest'area."
 
 #: stringdump_steam_2022_12_06.txt:6198
 msgid "Let us stop this pointless fighting!"
@@ -25023,7 +25033,7 @@ msgstr "Accetto la sua offerta."
 
 #: stringdump_steam_2022_12_06.txt:6212
 msgid "I have no reason to accept this."
-msgstr ""
+msgstr "Non ho motivo di accettarlo."
 
 #: stringdump_steam_2022_12_06.txt:6213
 msgid "Really?  Alright."
@@ -25055,11 +25065,11 @@ msgstr "Certo."
 
 #: stringdump_steam_2022_12_06.txt:6220
 msgid "Yes, let's go."
-msgstr ""
+msgstr "Sì, andiamo."
 
 #: stringdump_steam_2022_12_06.txt:6221
 msgid "I don't work here."
-msgstr ""
+msgstr "Non lavoro qui."
 
 #: stringdump_steam_2022_12_06.txt:6222
 msgid "You haven't ordered anything.  Would you like something?"
@@ -25067,7 +25077,7 @@ msgstr "Non hai ordinato nulla.  Desideri qualcosa?"
 
 #: stringdump_steam_2022_12_06.txt:6223
 msgid "We don't offer any specific services here."
-msgstr ""
+msgstr "Qui non offriamo servizi specifici."
 
 #: stringdump_steam_2022_12_06.txt:6224
 msgid "Yes, I can serve you when we're both there."
@@ -25107,7 +25117,7 @@ msgstr " veramente "
 
 #: stringdump_steam_2022_12_06.txt:6233
 msgid "What have you been scheming?"
-msgstr ""
+msgstr "Che cosa stavi tramando?"
 
 #: stringdump_steam_2022_12_06.txt:6234
 msgid "You look like a mighty warrior indeed."
@@ -25135,7 +25145,7 @@ msgstr "... e il "
 
 #: stringdump_steam_2022_12_06.txt:6240
 msgid " said, \"Are you going to eat that?\""
-msgstr ""
+msgstr " ha detto: \"Hai intenzione di mangiarlo?\""
 
 #: stringdump_steam_2022_12_06.txt:6241
 msgid "Calm yourself!"
@@ -25253,11 +25263,11 @@ msgstr "Questo è "
 
 #: stringdump_steam_2022_12_06.txt:6269
 msgid "I'm preparing to travel to "
-msgstr ""
+msgstr "Mi preparo per il viaggio a "
 
 #: stringdump_steam_2022_12_06.txt:6270
 msgid "I'm traveling to "
-msgstr ""
+msgstr "Sto viaggiando verso "
 
 #: stringdump_steam_2022_12_06.txt:6271
 msgid "I visited "
@@ -25265,11 +25275,12 @@ msgstr "Ho visitato "
 
 #: stringdump_steam_2022_12_06.txt:6272
 msgid " to view "
-msgstr ""
+msgstr " per vedere "
 
 #: stringdump_steam_2022_12_06.txt:6273
 msgid "Probably on the move or deep underground, but I can't be sure."
 msgstr ""
+"Probabilmente è in movimento o sottoterra, ma non posso esserne certo."
 
 #: stringdump_steam_2022_12_06.txt:6274
 msgid "I started my pilgrimage in "
@@ -25277,7 +25288,7 @@ msgstr "Ho iniziato il mio pellegrinaggio in"
 
 #: stringdump_steam_2022_12_06.txt:6275
 msgid "Who?"
-msgstr ""
+msgstr "Chi?"
 
 #: stringdump_steam_2022_12_06.txt:6276
 msgid "I don't remember what I was going to say..."
@@ -25413,7 +25424,7 @@ msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:6309
 msgid "child"
-msgstr ""
+msgstr "bambino"
 
 #: stringdump_steam_2022_12_06.txt:6310
 msgid "grandmother"
@@ -25421,15 +25432,15 @@ msgstr "nonna"
 
 #: stringdump_steam_2022_12_06.txt:6311
 msgid "son"
-msgstr ""
+msgstr "figlio"
 
 #: stringdump_steam_2022_12_06.txt:6312
 msgid "daughter"
-msgstr ""
+msgstr "figlia"
 
 #: stringdump_steam_2022_12_06.txt:6313
 msgid "father"
-msgstr ""
+msgstr "padre"
 
 #: stringdump_steam_2022_12_06.txt:6314
 msgid "parent"
@@ -25437,27 +25448,27 @@ msgstr "genitore"
 
 #: stringdump_steam_2022_12_06.txt:6315
 msgid "I'd rather not say."
-msgstr ""
+msgstr "Preferirei non dirlo."
 
 #: stringdump_steam_2022_12_06.txt:6316
 msgid "mother"
-msgstr ""
+msgstr "madre"
 
 #: stringdump_steam_2022_12_06.txt:6317
 msgid "half-brother"
-msgstr ""
+msgstr "fratellastro"
 
 #: stringdump_steam_2022_12_06.txt:6318
 msgid "half-sister"
-msgstr ""
+msgstr "sorellastra"
 
 #: stringdump_steam_2022_12_06.txt:6319
 msgid "sister"
-msgstr ""
+msgstr "sorella"
 
 #: stringdump_steam_2022_12_06.txt:6320
 msgid "sibling"
-msgstr ""
+msgstr "fratello"
 
 #: stringdump_steam_2022_12_06.txt:6321
 msgid "grandchild"
@@ -25465,7 +25476,7 @@ msgstr "nipote"
 
 #: stringdump_steam_2022_12_06.txt:6322
 msgid "brother"
-msgstr ""
+msgstr "fratello"
 
 #: stringdump_steam_2022_12_06.txt:6323
 msgid "grandfather"
@@ -25477,17 +25488,18 @@ msgstr "nonno"
 
 #: stringdump_steam_2022_12_06.txt:6325
 msgid " go to "
-msgstr ""
+msgstr " vai a "
 
 #: stringdump_steam_2022_12_06.txt:6326
 msgid " to trade."
-msgstr ""
+msgstr " per commerciare."
 
 #: stringdump_steam_2022_12_06.txt:6327
 msgid ""
 "This place is insulated from the rest of the world, at least in terms of "
 "trade."
 msgstr ""
+"Questo luogo è isolato dal resto del mondo, almeno in termini di commercio."
 
 #: stringdump_steam_2022_12_06.txt:6328
 msgid "The people of "
@@ -25503,11 +25515,11 @@ msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:6331
 msgid "The villages "
-msgstr ""
+msgstr "I villaggi "
 
 #: stringdump_steam_2022_12_06.txt:6332
 msgid "The village "
-msgstr ""
+msgstr "Il villaggio"
 
 #: stringdump_steam_2022_12_06.txt:6333
 msgid "Yes, master.  Ask and I shall obey."
@@ -25519,7 +25531,7 @@ msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:6335
 msgid "Where?"
-msgstr ""
+msgstr "Dove?"
 
 #: stringdump_steam_2022_12_06.txt:6336
 msgid "That's me.  I'm right here."
@@ -25543,35 +25555,35 @@ msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:6341
 msgid "the great"
-msgstr ""
+msgstr "il grande"
 
 #: stringdump_steam_2022_12_06.txt:6342
 msgid "here"
-msgstr ""
+msgstr "qui"
 
 #: stringdump_steam_2022_12_06.txt:6343
 msgid "faraway"
-msgstr ""
+msgstr "lontano"
 
 #: stringdump_steam_2022_12_06.txt:6344
 msgid "fair"
-msgstr ""
+msgstr "fiera"
 
 #: stringdump_steam_2022_12_06.txt:6345
 msgid "all the way"
-msgstr ""
+msgstr "fino in fondo"
 
 #: stringdump_steam_2022_12_06.txt:6346
 msgid "distant"
-msgstr ""
+msgstr "distant"
 
 #: stringdump_steam_2022_12_06.txt:6347
 msgid "authentic"
-msgstr ""
+msgstr "autentico"
 
 #: stringdump_steam_2022_12_06.txt:6348
 msgid "clear"
-msgstr ""
+msgstr "chiaro"
 
 #: stringdump_steam_2022_12_06.txt:6349
 msgid "tanned"
@@ -25579,35 +25591,35 @@ msgstr "conciato"
 
 #: stringdump_steam_2022_12_06.txt:6350
 msgid "cut"
-msgstr ""
+msgstr "tagliato"
 
 #: stringdump_steam_2022_12_06.txt:6351
 msgid " were "
-msgstr ""
+msgstr " erano "
 
 #: stringdump_steam_2022_12_06.txt:6352
 msgid " was "
-msgstr ""
+msgstr " era "
 
 #: stringdump_steam_2022_12_06.txt:6353
 msgid "!  Limited supply"
-msgstr ""
+msgstr "! Fornitura limitata"
 
 #: stringdump_steam_2022_12_06.txt:6354
 msgid "!  Best price in town"
-msgstr ""
+msgstr "! Il miglior prezzo in città"
 
 #: stringdump_steam_2022_12_06.txt:6355
 msgid "right here"
-msgstr ""
+msgstr "proprio qui"
 
 #: stringdump_steam_2022_12_06.txt:6356
 msgid "!  Today only"
-msgstr ""
+msgstr "! Solo oggi"
 
 #: stringdump_steam_2022_12_06.txt:6357
 msgid ", is it really you?"
-msgstr ""
+msgstr ", sei davvero tu?"
 
 #: stringdump_steam_2022_12_06.txt:6358
 msgid "Dear"
@@ -25615,95 +25627,95 @@ msgstr "Caro"
 
 #: stringdump_steam_2022_12_06.txt:6359
 msgid "nephew"
-msgstr ""
+msgstr "nipote"
 
 #: stringdump_steam_2022_12_06.txt:6360
 msgid "cousin"
-msgstr ""
+msgstr "cugino"
 
 #: stringdump_steam_2022_12_06.txt:6361
 msgid "uncle"
-msgstr ""
+msgstr "zio"
 
 #: stringdump_steam_2022_12_06.txt:6362
 msgid "niece"
-msgstr ""
+msgstr "nipote"
 
 #: stringdump_steam_2022_12_06.txt:6363
 msgid "half-sibling"
-msgstr ""
+msgstr "fratellastro"
 
 #: stringdump_steam_2022_12_06.txt:6364
 msgid "aunt"
-msgstr ""
+msgstr "zia"
 
 #: stringdump_steam_2022_12_06.txt:6365
 msgid "your very own"
-msgstr ""
+msgstr "il vostro personale"
 
 #: stringdump_steam_2022_12_06.txt:6366
 msgid "real"
-msgstr ""
+msgstr "reale"
 
 #: stringdump_steam_2022_12_06.txt:6367
 msgid "try"
-msgstr ""
+msgstr "prova"
 
 #: stringdump_steam_2022_12_06.txt:6368
 msgid "get your"
-msgstr ""
+msgstr "prendi il tuo"
 
 #: stringdump_steam_2022_12_06.txt:6369
 msgid "An item has returned!"
-msgstr ""
+msgstr "Un oggetto è tornato!"
 
 #: stringdump_steam_2022_12_06.txt:6370
 msgid "I don't remember what I believe..."
-msgstr ""
+msgstr "Non ricordo in cosa credo..."
 
 #: stringdump_steam_2022_12_06.txt:6371
 msgid "Is it really you?"
-msgstr ""
+msgstr "Sei davvero tu?"
 
 #: stringdump_steam_2022_12_06.txt:6372
 msgid " has returned"
-msgstr ""
+msgstr " è tornato"
 
 #: stringdump_steam_2022_12_06.txt:6373
 msgid "Excellent"
-msgstr ""
+msgstr "Eccellente"
 
 #: stringdump_steam_2022_12_06.txt:6374
 msgid "there"
-msgstr ""
+msgstr "lì"
 
 #: stringdump_steam_2022_12_06.txt:6375
 msgid "Decent"
-msgstr ""
+msgstr "Decente"
 
 #: stringdump_steam_2022_12_06.txt:6376
 msgid "Fantastic"
-msgstr ""
+msgstr "Fantastico"
 
 #: stringdump_steam_2022_12_06.txt:6377
 msgid "Splendid"
-msgstr ""
+msgstr "Splendido"
 
 #: stringdump_steam_2022_12_06.txt:6378
 msgid "Good"
-msgstr ""
+msgstr "Buono"
 
 #: stringdump_steam_2022_12_06.txt:6379
 msgid "Might I interest you in "
-msgstr ""
+msgstr "Posso tentarvi con "
 
 #: stringdump_steam_2022_12_06.txt:6380
 msgid "Great"
-msgstr ""
+msgstr "Grande"
 
 #: stringdump_steam_2022_12_06.txt:6381
 msgid "Stop!  This isn't happening!"
-msgstr ""
+msgstr "Basta!  Non è possibile!"
 
 #: stringdump_steam_2022_12_06.txt:6382
 msgid "We yield!  We yield!"
@@ -25711,11 +25723,11 @@ msgstr "Ci arrendiamo!  Ci arrendiamo!"
 
 #: stringdump_steam_2022_12_06.txt:6383
 msgid "woman"
-msgstr ""
+msgstr "donna"
 
 #: stringdump_steam_2022_12_06.txt:6384
 msgid "person"
-msgstr ""
+msgstr "persona"
 
 #: stringdump_steam_2022_12_06.txt:6385
 msgid "my good "
@@ -25723,35 +25735,35 @@ msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:6386
 msgid "man"
-msgstr ""
+msgstr "uomo"
 
 #: stringdump_steam_2022_12_06.txt:6387
 msgid "right there"
-msgstr ""
+msgstr "proprio lì"
 
 #: stringdump_steam_2022_12_06.txt:6388
 msgid "my friend"
-msgstr ""
+msgstr "mio amico"
 
 #: stringdump_steam_2022_12_06.txt:6389
 msgid "the settlements"
-msgstr ""
+msgstr "gli insediamenti"
 
 #: stringdump_steam_2022_12_06.txt:6390
 msgid " out to the "
-msgstr ""
+msgstr " verso il "
 
 #: stringdump_steam_2022_12_06.txt:6391
 msgid "just outside town"
-msgstr ""
+msgstr "appena fuori città"
 
 #: stringdump_steam_2022_12_06.txt:6392
 msgid "a village nearby"
-msgstr ""
+msgstr "un villaggio nelle vicinanze"
 
 #: stringdump_steam_2022_12_06.txt:6393
 msgid "town"
-msgstr "città"
+msgstr "paese"
 
 #: stringdump_steam_2022_12_06.txt:6394
 msgid "the surrounding area"
@@ -25759,27 +25771,27 @@ msgstr "l'area circostante"
 
 #: stringdump_steam_2022_12_06.txt:6395
 msgid "made"
-msgstr ""
+msgstr "fatto"
 
 #: stringdump_steam_2022_12_06.txt:6396
 msgid " right here in "
-msgstr ""
+msgstr " proprio qui in "
 
 #: stringdump_steam_2022_12_06.txt:6397
 msgid "out to the "
-msgstr ""
+msgstr "verso il "
 
 #: stringdump_steam_2022_12_06.txt:6398
 msgid "Are you interested in "
-msgstr ""
+msgstr "Siete interessati a "
 
 #: stringdump_steam_2022_12_06.txt:6399
 msgid "some of my kind "
-msgstr ""
+msgstr "alcuni dei miei simili "
 
 #: stringdump_steam_2022_12_06.txt:6400
 msgid "some of our kind "
-msgstr ""
+msgstr "alcuni dei nostri simili "
 
 #: stringdump_steam_2022_12_06.txt:6401
 msgid "southwest"
@@ -25791,7 +25803,7 @@ msgstr "sud-est"
 
 #: stringdump_steam_2022_12_06.txt:6403
 msgid "northwest"
-msgstr ""
+msgstr "nord-ovest"
 
 #: stringdump_steam_2022_12_06.txt:6404
 msgid "northeast"
@@ -26739,11 +26751,11 @@ msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:6641
 msgid " counterclockwise"
-msgstr ""
+msgstr " in senso antiorario"
 
 #: stringdump_steam_2022_12_06.txt:6642
 msgid " clockwise"
-msgstr ""
+msgstr " in senso orario"
 
 #: stringdump_steam_2022_12_06.txt:6643
 msgid " eighth"
@@ -26935,15 +26947,15 @@ msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:6690
 msgid "along a clockwise circle"
-msgstr ""
+msgstr "lungo un cerchio in senso orario"
 
 #: stringdump_steam_2022_12_06.txt:6691
 msgid "turning clockwise"
-msgstr ""
+msgstr "ruotando in senso orario"
 
 #: stringdump_steam_2022_12_06.txt:6692
 msgid "along a counterclockwise circle"
-msgstr ""
+msgstr "lungo un cerchio in senso antiorario"
 
 #: stringdump_steam_2022_12_06.txt:6693
 msgid "The dance is accompanied by "
@@ -27133,7 +27145,7 @@ msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:6739
 msgid "turning counterclockwise"
-msgstr ""
+msgstr "ruotando in senso antiorario"
 
 #: stringdump_steam_2022_12_06.txt:6740
 msgid "along an improvised path"
@@ -27349,11 +27361,11 @@ msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:6793
 msgid "counterclockwise "
-msgstr ""
+msgstr "in senso antiorario "
 
 #: stringdump_steam_2022_12_06.txt:6794
 msgid "clockwise "
-msgstr ""
+msgstr "in senso orario "
 
 #: stringdump_steam_2022_12_06.txt:6795
 msgid "spirited"
@@ -29045,7 +29057,7 @@ msgstr " allentato"
 
 #: stringdump_steam_2022_12_06.txt:7308
 msgid " the joint lock of "
-msgstr ""
+msgstr " il blocco congiunto di "
 
 #: stringdump_steam_2022_12_06.txt:7309
 msgid " on "
@@ -30891,7 +30903,7 @@ msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:7762
 msgid "Be careful of your so-called friends."
-msgstr ""
+msgstr "Fa' attenzione ai tuoi cosiddetti amici."
 
 #: stringdump_steam_2022_12_06.txt:7763
 msgid "Friends are nice, but you should keep your priorities straight."
@@ -30905,7 +30917,7 @@ msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:7765
 msgid " are worthy of respect"
-msgstr ""
+msgstr " sono degni di rispetto"
 
 #: stringdump_steam_2022_12_06.txt:7766
 msgid ", but nothing can change the facts."
@@ -30929,7 +30941,7 @@ msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:7771
 msgid " attacked "
-msgstr ""
+msgstr " attaccato "
 
 #: stringdump_steam_2022_12_06.txt:7772
 msgid " an enemy fighter."
@@ -30937,67 +30949,67 @@ msgstr " un combattente nemico."
 
 #: stringdump_steam_2022_12_06.txt:7773
 msgid " protected knowledge from being irrevocably lost"
-msgstr ""
+msgstr " protetto la conoscenza da una perdita irrevocabile"
 
 #: stringdump_steam_2022_12_06.txt:7774
 msgid " killed "
-msgstr ""
+msgstr " ucciso "
 
 #: stringdump_steam_2022_12_06.txt:7775
 msgid " brought back "
-msgstr ""
+msgstr " riportato "
 
 #: stringdump_steam_2022_12_06.txt:7776
 msgid ", yet that means little now"
-msgstr ""
+msgstr ", ma ciò significa poco ora"
 
 #: stringdump_steam_2022_12_06.txt:7777
 msgid " sought out and returned our treasures"
-msgstr ""
+msgstr " ha cercato e restituito i nostri tesori"
 
 #: stringdump_steam_2022_12_06.txt:7778
 msgid "an untitled work"
-msgstr ""
+msgstr "un'opera senza titolo"
 
 #: stringdump_steam_2022_12_06.txt:7779
 msgid " a thieving scoundrel."
-msgstr ""
+msgstr " un furfante ladruncolo."
 
 #: stringdump_steam_2022_12_06.txt:7780
 msgid ", though it doesn't much matter"
-msgstr ""
+msgstr ", anche se non ha molta importanza"
 
 #: stringdump_steam_2022_12_06.txt:7781
 msgid " a protector of the defenseless"
-msgstr ""
+msgstr " un protettore degli indifesi"
 
 #: stringdump_steam_2022_12_06.txt:7782
 msgid " stole "
-msgstr ""
+msgstr " rubato "
 
 #: stringdump_steam_2022_12_06.txt:7783
 msgid " challenged "
-msgstr ""
+msgstr " contestato "
 
 #: stringdump_steam_2022_12_06.txt:7784
 msgid ", but that hardly matters now."
-msgstr ""
+msgstr ", ma questo non ha più importanza."
 
 #: stringdump_steam_2022_12_06.txt:7785
 msgid " on my side"
-msgstr ""
+msgstr " dalla mia parte"
 
 #: stringdump_steam_2022_12_06.txt:7786
 msgid " justly slew "
-msgstr ""
+msgstr " giustamente ucciso "
 
 #: stringdump_steam_2022_12_06.txt:7787
 msgid " brought battle to "
-msgstr ""
+msgstr " ha portato la battaglia a "
 
 #: stringdump_steam_2022_12_06.txt:7788
 msgid ", but what does that mean now?"
-msgstr ""
+msgstr ", ma cosa significa ora?"
 
 #: stringdump_steam_2022_12_06.txt:7789
 msgid "one of the most loyal soldiers to serve anybody at any time"
@@ -31026,11 +31038,11 @@ msgstr "un soldato molto leale"
 
 #: stringdump_steam_2022_12_06.txt:7795
 msgid " my neighbor."
-msgstr ""
+msgstr " il mio vicino."
 
 #: stringdump_steam_2022_12_06.txt:7796
 msgid ".  What happened to bring us to this?"
-msgstr ""
+msgstr ".  Cos'è successo per portarci a questo?"
 
 #: stringdump_steam_2022_12_06.txt:7797
 msgid ""
@@ -31042,27 +31054,27 @@ msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:7798
 msgid "We need to move beyond traditions."
-msgstr ""
+msgstr "Dobbiamo andare oltre le tradizioni."
 
 #: stringdump_steam_2022_12_06.txt:7799
 msgid "The creative impulse is so valuable."
-msgstr ""
+msgstr "L'impulso creativo è così prezioso."
 
 #: stringdump_steam_2022_12_06.txt:7800
 msgid "Art is life."
-msgstr ""
+msgstr "L'arte è vita."
 
 #: stringdump_steam_2022_12_06.txt:7801
 msgid "Art?  More like wasted opportunity."
-msgstr ""
+msgstr "Arte?  Meglio dire occasione sprecata."
 
 #: stringdump_steam_2022_12_06.txt:7802
 msgid "What's so special about art?"
-msgstr ""
+msgstr "Cosa c'è di così speciale nell'arte?"
 
 #: stringdump_steam_2022_12_06.txt:7803
 msgid "We should all work together."
-msgstr ""
+msgstr "Dovremmo lavorare tutti insieme."
 
 #: stringdump_steam_2022_12_06.txt:7804
 msgid "Art is complicated.  I know what I like, but some I can do without."
@@ -31429,47 +31441,47 @@ msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:7881
 msgid "I have"
-msgstr ""
+msgstr "Io ho"
 
 #: stringdump_steam_2022_12_06.txt:7882
 msgid "I've"
-msgstr ""
+msgstr "Ho"
 
 #: stringdump_steam_2022_12_06.txt:7883
 msgid "considering"
-msgstr ""
+msgstr "considerando"
 
 #: stringdump_steam_2022_12_06.txt:7884
 msgid " been "
-msgstr ""
+msgstr " stato"
 
 #: stringdump_steam_2022_12_06.txt:7885
 msgid "the subject of "
-msgstr ""
+msgstr "il soggetto di "
 
 #: stringdump_steam_2022_12_06.txt:7886
 msgid "on "
-msgstr ""
+msgstr "su "
 
 #: stringdump_steam_2022_12_06.txt:7887
 msgid "the idea of "
-msgstr ""
+msgstr "l'idea di "
 
 #: stringdump_steam_2022_12_06.txt:7888
 msgid "the concept of "
-msgstr ""
+msgstr "il concetto di "
 
 #: stringdump_steam_2022_12_06.txt:7889
 msgid "It's a great day to fall in love all over again."
-msgstr ""
+msgstr "È un grande giorno per innamorarsi di nuovo."
 
 #: stringdump_steam_2022_12_06.txt:7890
 msgid "the theme of "
-msgstr ""
+msgstr "il tema del "
 
 #: stringdump_steam_2022_12_06.txt:7891
 msgid "Sometimes I just don't like somebody."
-msgstr ""
+msgstr "A volte non mi piace semplicemente qualcuno."
 
 #: stringdump_steam_2022_12_06.txt:7892
 msgid "People do get so carried away sometimes, but not I."
@@ -34623,7 +34635,7 @@ msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:8672
 msgid "a production order violation"
-msgstr ""
+msgstr "una violazione dell'ordine di produzione"
 
 #: stringdump_steam_2022_12_06.txt:8673
 msgid "a murder"
@@ -38602,35 +38614,35 @@ msgstr "rapporti"
 
 #: stringdump_steam_2022_12_06.txt:9773
 msgid "--- Logging Creature "
-msgstr ""
+msgstr "--- Registrazione Creatura "
 
 #: stringdump_steam_2022_12_06.txt:9788
 msgid "Creature Tissue Material Failure: "
-msgstr ""
+msgstr "Materiale del tessuto della creatura Guasto: "
 
 #: stringdump_steam_2022_12_06.txt:9789
 msgid "(empty tissue)"
-msgstr ""
+msgstr "(tessuto vuoto)"
 
 #: stringdump_steam_2022_12_06.txt:9792
 msgid "Custom tissue shape not found: "
-msgstr ""
+msgstr "Forma del tessuto personalizzata non trovata: "
 
 #: stringdump_steam_2022_12_06.txt:9793
 msgid "(no mat1)"
-msgstr ""
+msgstr "(no mat1)"
 
 #: stringdump_steam_2022_12_06.txt:9794
 msgid "(no mat3)"
-msgstr ""
+msgstr "(no mat3)"
 
 #: stringdump_steam_2022_12_06.txt:9797
 msgid " Color Mod Ending With ("
-msgstr ""
+msgstr "Colore Mod che termina con ("
 
 #: stringdump_steam_2022_12_06.txt:9798
 msgid ") Was Not Used"
-msgstr ""
+msgstr ") non è stato utilizzato"
 
 #: stringdump_steam_2022_12_06.txt:9827
 msgid "duodecaplets"
@@ -38706,7 +38718,7 @@ msgstr "resti"
 
 #: stringdump_steam_2022_12_06.txt:10110
 msgid "Unknown GAIT flag "
-msgstr ""
+msgstr "GAIT flag sconosciuta "
 
 #: stringdump_steam_2022_12_06.txt:10123
 msgid ", repaired"
@@ -38714,7 +38726,7 @@ msgstr ", riparato"
 
 #: stringdump_steam_2022_12_06.txt:10124
 msgid "Attribute range greater than "
-msgstr ""
+msgstr "Intervallo di attributi maggiore di "
 
 #: stringdump_steam_2022_12_06.txt:10125
 msgid "Attribute range not in increasing order, repaired"
@@ -51030,43 +51042,43 @@ msgstr "unità morta condannata"
 
 #: stringdump_steam_2022_12_06.txt:16036
 msgid "relative expelled"
-msgstr ""
+msgstr "parente espulso"
 
 #: stringdump_steam_2022_12_06.txt:16037
 msgid "expelled"
-msgstr ""
+msgstr "espulso"
 
 #: stringdump_steam_2022_12_06.txt:16038
 msgid "turned child away from sanctuary"
-msgstr ""
+msgstr "allontanato il bambino dal santaurio"
 
 #: stringdump_steam_2022_12_06.txt:16039
 msgid "interacted with pet"
-msgstr ""
+msgstr "interagito con animale domestico"
 
 #: stringdump_steam_2022_12_06.txt:16040
 msgid "view favorite animal caged"
-msgstr ""
+msgstr "visto l'animale preferito in gabbia"
 
 #: stringdump_steam_2022_12_06.txt:16041
 msgid "drinking without well"
-msgstr ""
+msgstr "bevuto senza pozzo"
 
 #: stringdump_steam_2022_12_06.txt:16042
 msgid "drinking rotten"
-msgstr ""
+msgstr "bevuto marcio"
 
 #: stringdump_steam_2022_12_06.txt:16043
 msgid "drinking nasty"
-msgstr ""
+msgstr "bevuto nauseante"
 
 #: stringdump_steam_2022_12_06.txt:16044
 msgid "drinking pus"
-msgstr ""
+msgstr "bevuto pus"
 
 #: stringdump_steam_2022_12_06.txt:16045
 msgid "drinking ichor"
-msgstr ""
+msgstr "bevuto icore"
 
 #: stringdump_steam_2022_12_06.txt:16046
 msgid "drinking goo"
@@ -51162,11 +51174,11 @@ msgstr "ha dormito su un pavimento liscio"
 
 #: stringdump_steam_2022_12_06.txt:16069
 msgid "slept in room"
-msgstr ""
+msgstr "ha dormito in stanza"
 
 #: stringdump_steam_2022_12_06.txt:16070
 msgid "slept without proper room"
-msgstr ""
+msgstr "ha dormito senza una stanza adeguata"
 
 #: stringdump_steam_2022_12_06.txt:16071
 msgid "view hated vermin caged"
@@ -57670,7 +57682,7 @@ msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:17704
 msgid "the elevation of the landed nobility"
-msgstr "il livello della nobiltà terriera"
+msgstr "il rango della nobiltà terriera"
 
 #: stringdump_steam_2022_12_06.txt:17705
 msgid "the establishment of landed nobility"
@@ -59099,7 +59111,7 @@ msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:19283
 msgid "Bar/Block"
-msgstr ""
+msgstr "Barra/Blocco"
 
 #: stringdump_steam_2022_12_06.txt:19284
 msgid "Finished Goods"
@@ -60504,7 +60516,7 @@ msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:19749
 msgid "Collect hive products"
-msgstr ""
+msgstr "Raccogli prodotti dell'alveare"
 
 #: stringdump_steam_2022_12_06.txt:19750
 msgid "Install colony in hive"
@@ -60516,7 +60528,7 @@ msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:19752
 msgid " blocks"
-msgstr ""
+msgstr " blocchi"
 
 #: stringdump_steam_2022_12_06.txt:19753
 msgid " floodgate"
@@ -60532,7 +60544,7 @@ msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:19756
 msgid " hatch cover"
-msgstr ""
+msgstr " boccaporto"
 
 #: stringdump_steam_2022_12_06.txt:19757
 msgid "Make traction bench"
@@ -62380,7 +62392,7 @@ msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:22102
 msgid "Item submission failed: locking failed."
-msgstr ""
+msgstr "Invio dell'oggetto non riuscito: blocco non riuscito."
 
 #: stringdump_steam_2022_12_06.txt:22103
 msgid "Item submission failed. (code "
@@ -63596,23 +63608,23 @@ msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:22488
 msgid "As always, the "
-msgstr ""
+msgstr "Come sempre, il "
 
 #: stringdump_steam_2022_12_06.txt:22489
 msgid "pentatonic"
-msgstr ""
+msgstr "pentatonico"
 
 #: stringdump_steam_2022_12_06.txt:22490
 msgid "hexatonic"
-msgstr ""
+msgstr "esatonico"
 
 #: stringdump_steam_2022_12_06.txt:22491
 msgid "These chords are named "
-msgstr ""
+msgstr "Questi accordi sono chiamati "
 
 #: stringdump_steam_2022_12_06.txt:22492
 msgid "[B]The "
-msgstr ""
+msgstr "[B]Il "
 
 #: stringdump_steam_2022_12_06.txt:22493
 msgid "trichord"
@@ -63692,7 +63704,7 @@ msgstr "È chiamato"
 
 #: stringdump_steam_2022_12_06.txt:22510
 msgid "The names are "
-msgstr ""
+msgstr "I nomi sono "
 
 #: stringdump_steam_2022_12_06.txt:22511
 msgid "The tonic note is a fixed tone passed from teacher to student.  "
@@ -64052,11 +64064,11 @@ msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:22598
 msgid "2 x 2"
-msgstr ""
+msgstr "2 x 2"
 
 #: stringdump_steam_2022_12_06.txt:22599
 msgid "Volcanism"
-msgstr ""
+msgstr "Vulcanismo"
 
 #: stringdump_steam_2022_12_06.txt:22600
 msgid "Savagery"
@@ -64064,11 +64076,11 @@ msgstr "Ferocia"
 
 #: stringdump_steam_2022_12_06.txt:22601
 msgid "Minimum "
-msgstr ""
+msgstr "Minimo "
 
 #: stringdump_steam_2022_12_06.txt:22602
 msgid "Maximum "
-msgstr ""
+msgstr "Massimo "
 
 #: stringdump_steam_2022_12_06.txt:22603
 msgid " Elevation Weighted Range ("
@@ -64088,19 +64100,19 @@ msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:22607
 msgid "4 x 4"
-msgstr ""
+msgstr "4 x 4"
 
 #: stringdump_steam_2022_12_06.txt:22608
 msgid "8 x 8"
-msgstr ""
+msgstr "8 x 8"
 
 #: stringdump_steam_2022_12_06.txt:22609
 msgid "16 x 16"
-msgstr ""
+msgstr "16 x 16"
 
 #: stringdump_steam_2022_12_06.txt:22610
 msgid "32 x 32"
-msgstr ""
+msgstr "32 x 32"
 
 #: stringdump_steam_2022_12_06.txt:22611
 msgid "Population Cap After Civ Creation"
@@ -64124,35 +64136,35 @@ msgstr "Usa Seme Creatura"
 
 #: stringdump_steam_2022_12_06.txt:22616
 msgid "Custom world name"
-msgstr ""
+msgstr "Nome personalizzato mondo"
 
 #: stringdump_steam_2022_12_06.txt:22617
 msgid "Embark Points"
-msgstr ""
+msgstr "Punti Imbarco"
 
 #: stringdump_steam_2022_12_06.txt:22618
 msgid "End Year"
-msgstr ""
+msgstr "Fine anno"
 
 #: stringdump_steam_2022_12_06.txt:22619
 msgid "Elevation"
-msgstr "Livello"
+msgstr "Quota"
 
 #: stringdump_steam_2022_12_06.txt:22620
 msgid "Rainfall"
-msgstr ""
+msgstr "Precipitazioni"
 
 #: stringdump_steam_2022_12_06.txt:22621
 msgid "Temperature"
-msgstr ""
+msgstr "Temperatura"
 
 #: stringdump_steam_2022_12_06.txt:22622
 msgid "Drainage"
-msgstr ""
+msgstr "Drenaggio"
 
 #: stringdump_steam_2022_12_06.txt:22623
 msgid "Ignore"
-msgstr ""
+msgstr "Ignora"
 
 #: stringdump_steam_2022_12_06.txt:22624
 msgid "Year to Begin Checking Megabeast Percentage"
@@ -64168,19 +64180,19 @@ msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:22627
 msgid "Use Seed"
-msgstr ""
+msgstr "Usa Seme"
 
 #: stringdump_steam_2022_12_06.txt:22628
 msgid " Seed"
-msgstr ""
+msgstr " Seme"
 
 #: stringdump_steam_2022_12_06.txt:22629
 msgid "Use History Seed"
-msgstr "Usa seme della storia"
+msgstr "Usa Seme della storia"
 
 #: stringdump_steam_2022_12_06.txt:22630
 msgid "Use Name Seed"
-msgstr ""
+msgstr "Usa Nome Seme"
 
 #: stringdump_steam_2022_12_06.txt:22631
 msgid "Bottom Layer (Forces Magma)"
@@ -64188,15 +64200,15 @@ msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:22632
 msgid "Z Levels Above Ground"
-msgstr ""
+msgstr "Z Livelli In Superficie"
 
 #: stringdump_steam_2022_12_06.txt:22633
 msgid "Z Levels Above Layer 1"
-msgstr ""
+msgstr "Z Livelli sopra Strato 1"
 
 #: stringdump_steam_2022_12_06.txt:22634
 msgid "Z Levels Above Layer 2"
-msgstr ""
+msgstr "Z Livelli sopra Strato 2"
 
 #: stringdump_steam_2022_12_06.txt:22635
 msgid "Cavern Layer Passage Density Max"
@@ -64212,51 +64224,51 @@ msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:22638
 msgid "Magma Layer"
-msgstr ""
+msgstr "Strato di Magma"
 
 #: stringdump_steam_2022_12_06.txt:22639
 msgid "Minimum Natural Cave Size"
-msgstr ""
+msgstr "Dimensione minima Grotta naturale"
 
 #: stringdump_steam_2022_12_06.txt:22640
 msgid "Maximum Natural Cave Size"
-msgstr ""
+msgstr "Dimensione massima Grotta naturale"
 
 #: stringdump_steam_2022_12_06.txt:22641
 msgid "Number of Mountain Caves"
-msgstr "Numero di grotte montane"
+msgstr "Numero di Grotte montane"
 
 #: stringdump_steam_2022_12_06.txt:22642
 msgid "Number of Non-Mountain Caves"
-msgstr "Numero di grotte non montane"
+msgstr "Numero di Grotte non montane"
 
 #: stringdump_steam_2022_12_06.txt:22643
 msgid "Z Levels Above Layer 3"
-msgstr ""
+msgstr "Z Livelli sopra Strato 3"
 
 #: stringdump_steam_2022_12_06.txt:22644
 msgid "Z Levels Above Layer 4"
-msgstr ""
+msgstr "Z Livelli sopra Strato 4"
 
 #: stringdump_steam_2022_12_06.txt:22645
 msgid "Z Levels Above Layer 5"
-msgstr ""
+msgstr "Z Livelli sopra Strato 5"
 
 #: stringdump_steam_2022_12_06.txt:22646
 msgid "Z Levels At Bottom"
-msgstr ""
+msgstr "Z Livelli in Basso "
 
 #: stringdump_steam_2022_12_06.txt:22647
 msgid " Region Count"
-msgstr ""
+msgstr " Conto Regioni"
 
 #: stringdump_steam_2022_12_06.txt:22648
 msgid "Minimum Final "
-msgstr ""
+msgstr "Minimo Finale "
 
 #: stringdump_steam_2022_12_06.txt:22649
 msgid "Erosion Cycle Count"
-msgstr ""
+msgstr "Conto Ciclo Erosione"
 
 #: stringdump_steam_2022_12_06.txt:22650
 msgid "Minimum River Start Locations (Pre-Erosion)"
@@ -64272,11 +64284,11 @@ msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:22653
 msgid "Minimum Initial "
-msgstr ""
+msgstr "Minimo Iniziale "
 
 #: stringdump_steam_2022_12_06.txt:22654
 msgid " Square Count"
-msgstr ""
+msgstr " Conteggio dei quadrati"
 
 #: stringdump_steam_2022_12_06.txt:22655
 msgid "Cavern Layer Number"
@@ -64473,15 +64485,15 @@ msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:22744
 msgid "Minimum Number of Mid-Elevation Squares"
-msgstr "Numero minimo di caselle di elevazione media"
+msgstr "Numero minimo di caselle di quota media"
 
 #: stringdump_steam_2022_12_06.txt:22745
 msgid "Minimum Number of Low-Elevation Squares"
-msgstr "Numero minimo di caselle di elevazione bassa"
+msgstr "Numero minimo di caselle di quota bassa"
 
 #: stringdump_steam_2022_12_06.txt:22746
 msgid "Minimum Number of High-Elevation Squares"
-msgstr "Numero minimo di caselle di elevazione alta"
+msgstr "Numero minimo di caselle di quota alta"
 
 #: stringdump_steam_2022_12_06.txt:22747
 msgid "Make Caves Visible"
@@ -64497,7 +64509,7 @@ msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:22750
 msgid "Number of Civilizations"
-msgstr ""
+msgstr "Numero di civiltà"
 
 #: stringdump_steam_2022_12_06.txt:22751
 msgid "Minimum Number of Low-Drainage Squares"
@@ -64533,11 +64545,11 @@ msgstr "Numero minimo di caselle di drenaggio medio"
 
 #: stringdump_steam_2022_12_06.txt:22769
 msgid "LARGE ISLAND"
-msgstr ""
+msgstr "ISOLA GRANDE"
 
 #: stringdump_steam_2022_12_06.txt:22770
 msgid "LARGE REGION"
-msgstr ""
+msgstr "REGIONE GRANDE"
 
 #: stringdump_steam_2022_12_06.txt:22823
 msgid ""
@@ -64545,7 +64557,7 @@ msgid ""
 "rainfall, high drainage, non-freezing areas.  "
 msgstr ""
 "Assicurati che parametri e predefiniti siano in grado di supportare aree a "
-"media altitudine, ad alta piovosità, ad alto drenaggio e non gelate.  "
+"quota media, ad alta piovosità, ad alto drenaggio e non gelate.  "
 
 #: stringdump_steam_2022_12_06.txt:22824
 msgid ""
@@ -64564,7 +64576,7 @@ msgid ""
 "Make sure your parameters and presets can support high elevation areas.  "
 msgstr ""
 "Assicurati che parametri e predefiniti siano in grado di supportare aree ad "
-"alta altitudine.  "
+"alta quota.  "
 
 #: stringdump_steam_2022_12_06.txt:22827
 msgid "The world generator is having trouble placing deserts and badlands.  "
@@ -64576,7 +64588,7 @@ msgid ""
 "rainfall, non-freezing areas.  "
 msgstr ""
 "Assicurati che parametri e predefiniti siano in grado di supportare aree di "
-"media altitudine, con precipitazioni molto scarse e non gelate."
+"quota media, con precipitazioni molto scarse e non gelate."
 
 #: stringdump_steam_2022_12_06.txt:22829
 msgid ""
@@ -64600,7 +64612,7 @@ msgid ""
 "drainage, freezing areas.  "
 msgstr ""
 "Assicurati che parametri e predefiniti siano in grado di supportare aree a "
-"media altitudine, con un drenaggio molto elevato e con temperature rigide."
+"quota media, con un drenaggio molto elevato e con temperature rigide."
 
 #: stringdump_steam_2022_12_06.txt:22833
 msgid ""
@@ -64631,7 +64643,7 @@ msgid ""
 "Make sure your parameters and presets can support low elevation areas.  "
 msgstr ""
 "Assicurati che parametri e predefiniti siano in grado di supportare le aree "
-"a bassa altitudine."
+"a bassa quota."
 
 #: stringdump_steam_2022_12_06.txt:22838
 msgid ""
@@ -64671,8 +64683,8 @@ msgid ""
 "Alternatively, you can reduce the number of high, medium or low drainage "
 "squares required."
 msgstr ""
-"In alternativa puoi ridurre il numero di high, medium or low drainage "
-"squares required."
+"In alternativa puoi ridurre il numero di caselle di drenaggio alto, medio o "
+"basso richieste."
 
 #: stringdump_steam_2022_12_06.txt:22844
 msgid ""
@@ -64711,8 +64723,7 @@ msgid ""
 " rainfall, low drainage, non-freezing areas.  "
 msgstr ""
 "Assicurati che parametri e predefiniti siano in grado di supportare aree a "
-"media altitudine, con precipitazioni medio-alte, a basso drenaggio e non "
-"gelate."
+"quota media, con precipitazioni medio-alte, a basso drenaggio e non gelate."
 
 #: stringdump_steam_2022_12_06.txt:22850
 msgid ""
@@ -64731,6 +64742,8 @@ msgid ""
 "Can volcanism be placed at the value 100 enough times to provide space for "
 "each of your volcanos?  "
 msgstr ""
+"Il vulcanismo può essere piazzato al valore 100 un numero di volte "
+"sufficienti a fornire spazio per ogni tuo vulcano?  "
 
 #: stringdump_steam_2022_12_06.txt:22853
 msgid "You might want to check your preset volcanism for the value 100.  "
@@ -64741,11 +64754,12 @@ msgid ""
 "You must have at least as many of these highest volcanism points as you are "
 "requiring volcanos.  "
 msgstr ""
+"Devi avere almeno tanti di questi punti vulcanismo più alti quanti sono i "
+"vulcani richiesti.  "
 
 #: stringdump_steam_2022_12_06.txt:22855
 msgid "Can your parameters achieve elevations between 0 and 99?  "
-msgstr ""
-"I tuoi parametri possono raggiungere altitudini comprese tra 0 e 99?  "
+msgstr "I tuoi parametri possono raggiungere quote tra 0 e 99?  "
 
 #: stringdump_steam_2022_12_06.txt:22856
 msgid ""
@@ -64755,8 +64769,7 @@ msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:22857
 msgid "Can your parameters achieve elevations between 300 and 400?  "
-msgstr ""
-"I tuoi parametri possono raggiungere altitudini comprese tra 300 e 400?  "
+msgstr "I tuoi parametri possono raggiungere quote tra 300 e 400?  "
 
 #: stringdump_steam_2022_12_06.txt:22858
 msgid ""
@@ -64768,21 +64781,19 @@ msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:22859
 msgid "Can your parameters achieve elevations between 100 and 299?  "
-msgstr ""
-"I tuoi parametri possono raggiungere altitudini comprese tra 100 e 299?  "
+msgstr "I tuoi parametri possono raggiungere quote tra 100 e 299?  "
 
 #: stringdump_steam_2022_12_06.txt:22860
 msgid ""
 "You might want to adjust the parameters governing elevation frequencies.  "
-msgstr "Verifica i parametri che regolano le frequenze di elevazione.  "
+msgstr "Verifica i parametri che regolano le frequenze di quota.  "
 
 #: stringdump_steam_2022_12_06.txt:22861
 msgid ""
 "Alternatively, you can reduce the number of mid-level elevation squares "
 "required."
 msgstr ""
-"In alternativa puoi ridurre il numero di caselle di elevazione di livello "
-"medio richieste."
+"In alternativa puoi ridurre il numero di caselle di quota media richieste."
 
 #: stringdump_steam_2022_12_06.txt:22862
 msgid "The world generator is having trouble placing enough low elevations.  "
@@ -64816,12 +64827,11 @@ msgstr "Verifica i parametri che regolano il drenaggio.  "
 #: stringdump_steam_2022_12_06.txt:22867
 msgid "Can your parameters achieve elevations between 0 and 99 frequently?  "
 msgstr ""
-"I tuoi parametri possono raggiungere frequentemente valori compresi tra 0 e "
-"99?  "
+"I tuoi parametri possono raggiungere frequentemente quote tra 0 e 99?  "
 
 #: stringdump_steam_2022_12_06.txt:22868
 msgid "You might want to adjust the parameters governing elevation.  "
-msgstr "Verifica i parametri che regolano l'elevazione.  "
+msgstr "Verifica i parametri che regolano la quota.  "
 
 #: stringdump_steam_2022_12_06.txt:22869
 msgid "Alternatively, you can reduce the number of edge oceans required."
@@ -64837,46 +64847,48 @@ msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:22871
 msgid "SMALLER ISLAND"
-msgstr ""
+msgstr "ISOLA MINORE"
 
 #: stringdump_steam_2022_12_06.txt:22872
 msgid "SMALLER REGION"
-msgstr ""
+msgstr "REGIONE MINORE"
 
 #: stringdump_steam_2022_12_06.txt:22873
 msgid "POCKET ISLAND"
-msgstr ""
+msgstr "ISOLA MINUSCOLA"
 
 #: stringdump_steam_2022_12_06.txt:22874
 msgid "POCKET REGION"
-msgstr ""
+msgstr "REGIONE MINUSCOLA"
 
 #: stringdump_steam_2022_12_06.txt:22875
 msgid "MEDIUM ISLAND"
-msgstr ""
+msgstr "ISOLA MEDIA"
 
 #: stringdump_steam_2022_12_06.txt:22876
 msgid "MEDIUM REGION"
-msgstr ""
+msgstr "REGIONE MEDIA"
 
 #: stringdump_steam_2022_12_06.txt:22877
 msgid "SMALL ISLAND"
-msgstr ""
+msgstr "ISOLA PICCOLA"
 
 #: stringdump_steam_2022_12_06.txt:22878
 msgid "SMALL REGION"
-msgstr ""
+msgstr "REGIONE PICCOLA"
 
 #: stringdump_steam_2022_12_06.txt:22879
 msgid ""
 "You might want to check your preset elevations for the elevation 400.  "
-msgstr "Verifica le elevazioni predefinite per il livello 400.  "
+msgstr "Verifica le quote predefinite per la quota 400.  "
 
 #: stringdump_steam_2022_12_06.txt:22880
 msgid ""
 "You must have at least as many of these highest elevation points as you are "
 "requiring peaks.  "
 msgstr ""
+"Devi avere almeno tanti di questi punti di massima quota quanti sono i "
+"picchi richiesti.  "
 
 #: stringdump_steam_2022_12_06.txt:22881
 msgid ""
@@ -64902,38 +64914,39 @@ msgstr ""
 msgid ""
 "You might want to check your maximum elevation value and other elevation "
 "parameters.  "
-msgstr ""
-"Verifica il valore di elevazione massima e altri parametri di elevazione.  "
+msgstr "Verifica il valore di quota massima e altri parametri di quota.  "
 
 #: stringdump_steam_2022_12_06.txt:22886
 msgid ""
 "Can the elevation 400 be placed enough times to provide space for your "
 "peaks?  "
 msgstr ""
+"La quota 400 può essere posizionata un numero sufficiente di volte per "
+"fornire spazio ai tuoi picchi?  "
 
 #: stringdump_steam_2022_12_06.txt:22887
 msgid "Pocket"
-msgstr ""
+msgstr "Minuscola"
 
 #: stringdump_steam_2022_12_06.txt:22888
 msgid "Smaller"
-msgstr ""
+msgstr "Minore"
 
 #: stringdump_steam_2022_12_06.txt:22889
 msgid "Small"
-msgstr ""
+msgstr "Piccola"
 
 #: stringdump_steam_2022_12_06.txt:22890
 msgid "Medium"
-msgstr ""
+msgstr "Media"
 
 #: stringdump_steam_2022_12_06.txt:22891
 msgid "Maximum number of sites"
-msgstr ""
+msgstr "Numero massimo di siti"
 
 #: stringdump_steam_2022_12_06.txt:22892
 msgid "Number of beasts"
-msgstr ""
+msgstr "Numero di bestie"
 
 #: stringdump_steam_2022_12_06.txt:22893
 msgid "Natural savagery"
@@ -64945,35 +64958,35 @@ msgstr "Presenza mineraria"
 
 #: stringdump_steam_2022_12_06.txt:22895
 msgid "250 years"
-msgstr ""
+msgstr "250 anni"
 
 #: stringdump_steam_2022_12_06.txt:22896
 msgid "500 years"
-msgstr ""
+msgstr "500 anni"
 
 #: stringdump_steam_2022_12_06.txt:22897
 msgid "Very low"
-msgstr ""
+msgstr "Molto basso"
 
 #: stringdump_steam_2022_12_06.txt:22898
 msgid "Low"
-msgstr ""
+msgstr "Basso"
 
 #: stringdump_steam_2022_12_06.txt:22899
 msgid "Large"
-msgstr ""
+msgstr "Grande"
 
 #: stringdump_steam_2022_12_06.txt:22900
 msgid "5 years"
-msgstr ""
+msgstr "5 Anni"
 
 #: stringdump_steam_2022_12_06.txt:22901
 msgid "50 years"
-msgstr ""
+msgstr "50 anni"
 
 #: stringdump_steam_2022_12_06.txt:22902
 msgid "100 years"
-msgstr ""
+msgstr "100 anni"
 
 #: stringdump_steam_2022_12_06.txt:22904
 msgid "Loading data needed to create new world"
@@ -64985,7 +64998,7 @@ msgstr "Ultimando..."
 
 #: stringdump_steam_2022_12_06.txt:22906
 msgid "Create world"
-msgstr ""
+msgstr "Crea mondo"
 
 #: stringdump_steam_2022_12_06.txt:22909
 msgid " not found -- using default."
@@ -64993,7 +65006,7 @@ msgstr "non trovato -- utilizzando predefinito."
 
 #: stringdump_steam_2022_12_06.txt:22910
 msgid "CREATE WORLD NOW = "
-msgstr ""
+msgstr "CREA MONDO ORA = "
 
 #: stringdump_steam_2022_12_06.txt:22911
 msgid "History length"
@@ -65001,19 +65014,19 @@ msgstr "Lunghezza storia"
 
 #: stringdump_steam_2022_12_06.txt:22912
 msgid "This may take several minutes!"
-msgstr ""
+msgstr "Potrebbe richiedere diversi minuti!"
 
 #: stringdump_steam_2022_12_06.txt:22913
 msgid "This may take a long while!"
-msgstr ""
+msgstr "Potrebbe volerci molto tempo!"
 
 #: stringdump_steam_2022_12_06.txt:22914
 msgid "Number of civilizations"
-msgstr ""
+msgstr "Numero di civiltà"
 
 #: stringdump_steam_2022_12_06.txt:22915
 msgid "Basic options"
-msgstr ""
+msgstr "Opzioni base"
 
 #: stringdump_steam_2022_12_06.txt:22916
 msgid "Detailed mode"
@@ -65021,11 +65034,11 @@ msgstr "Mod. dettagli"
 
 #: stringdump_steam_2022_12_06.txt:22917
 msgid "Back to main menu"
-msgstr ""
+msgstr "Torna al menù principale"
 
 #: stringdump_steam_2022_12_06.txt:22918
 msgid "World map size"
-msgstr ""
+msgstr "Dimensione mappa mondo"
 
 #: stringdump_steam_2022_12_06.txt:22919
 msgid ""
@@ -65151,8 +65164,7 @@ msgid ""
 "rainfall, high drainage, non-freezing areas.  "
 msgstr ""
 "Assicurati che parametri e predefiniti siano in grado di supportare aree a "
-"media altitudine, con precipitazioni medio-basse, ad alto drenaggio e non "
-"gelate."
+"quota media, con precipitazioni medio-basse, ad alto drenaggio e non gelate."
 
 #: stringdump_steam_2022_12_06.txt:22937
 msgid "The world generator is having trouble placing rivers.  "
@@ -65172,7 +65184,7 @@ msgid ""
 "drainage, freezing areas.  "
 msgstr ""
 "Assicurati che parametri e predefiniti siano in grado di supportare aree a "
-"media altitudine, a drenaggio medio-basso e gelate."
+"quota media, a drenaggio medio-basso e gelate."
 
 #: stringdump_steam_2022_12_06.txt:22940
 msgid ""
@@ -65192,8 +65204,8 @@ msgid ""
 "rainfall, low-to-mid drainage, non-freezing areas.  "
 msgstr ""
 "Assicurati che parametri e predefiniti siano in grado di supportare aree di "
-"media altitudine, con precipitazioni medio-basse, drenaggio medio-basso e "
-"non gelate."
+"quota media, con precipitazioni medio-basse, drenaggio medio-basso e non "
+"gelate."
 
 #: stringdump_steam_2022_12_06.txt:22943
 msgid "The world generator is having trouble placing mountain caves.  "
@@ -65260,7 +65272,7 @@ msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:22954
 msgid "MEDIUM ELEVATION REJECTION"
-msgstr ""
+msgstr "RIFIUTO MEDIA QUOTA"
 
 #: stringdump_steam_2022_12_06.txt:22955
 msgid "Finalizing sites... ("
@@ -65296,11 +65308,11 @@ msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:22963
 msgid "LOW ELEVATION REJECTION"
-msgstr ""
+msgstr "RIFIUTO BASSA QUOTA"
 
 #: stringdump_steam_2022_12_06.txt:22964
 msgid "HIGH ELEVATION REJECTION"
-msgstr ""
+msgstr "RIFIUTO ALTA QUOTA"
 
 #: stringdump_steam_2022_12_06.txt:22965
 msgid "LACK OF EDGE OCEANS"
@@ -65436,7 +65448,7 @@ msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:22998
 msgid "Preparing elevation..."
-msgstr "Preparando livelli..."
+msgstr "Preparando quota..."
 
 #: stringdump_steam_2022_12_06.txt:22999
 msgid "Sparse"
@@ -75051,7 +75063,7 @@ msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:26039
 msgid "block"
-msgstr ""
+msgstr "blocco"
 
 #: stringdump_steam_2022_12_06.txt:26040
 msgid "bowls"
@@ -75217,7 +75229,7 @@ msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:26145
 msgid "[PRODUCT_TOKEN:instrument]"
-msgstr ""
+msgstr "[PRODUCT_TOKEN:strumento]"
 
 #: stringdump_steam_2022_12_06.txt:26146
 msgid "[IMPROVEMENT:100:instrument:INSTRUMENT_PIECE:"
@@ -76730,7 +76742,7 @@ msgstr " le bilance sono "
 
 #: stringdump_steam_2022_12_06.txt:26909
 msgid "blocky"
-msgstr "blocco"
+msgstr "squadrato"
 
 #: stringdump_steam_2022_12_06.txt:26910
 msgid "long and sparse"
@@ -78637,7 +78649,7 @@ msgstr ""
 #: stringdump_steam_2022_12_06.txt:28142
 msgid ""
 "the unique decomposition of a number into products of its prime divisors"
-msgstr ""
+msgstr "la scomposizione di un numero nel prodotto dei suoi divisori primi"
 
 #: stringdump_steam_2022_12_06.txt:28143
 msgid ""
@@ -79413,7 +79425,7 @@ msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:28319
 msgid "the reproductive behavior of creatures"
-msgstr ""
+msgstr "il comportamento riproduttivo delle creature"
 
 #: stringdump_steam_2022_12_06.txt:28320
 msgid "the foraging behavior and diet of creatures"
@@ -79506,6 +79518,7 @@ msgstr "la costruzione e l'uso dell'orologio meccanico"
 #: stringdump_steam_2022_12_06.txt:28341
 msgid "the use of reservoirs in water-based clocks to improve their accuracy"
 msgstr ""
+"l'uso di serbatoi negli orologi ad acqua per migliorarne la precisione"
 
 #: stringdump_steam_2022_12_06.txt:28342
 msgid "the construction and use of the astrarium"
@@ -79627,7 +79640,7 @@ msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:28371
 msgid "the construction and use of forceps"
-msgstr "la costruzione e l'uso della forcipe"
+msgstr "la costruzione e l'uso delle pinze"
 
 #: stringdump_steam_2022_12_06.txt:28372
 msgid "the construction and use of the scalpel"
@@ -79843,7 +79856,7 @@ msgstr "la costruzione e l'uso del lucchetto a combinazione"
 
 #: stringdump_steam_2022_12_06.txt:28428
 msgid "the construction and use of chain drives"
-msgstr "la costruzione e l'uso della catena di trasmissione"
+msgstr "la costruzione e l'uso delle catene di trasmissione"
 
 #: stringdump_steam_2022_12_06.txt:28429
 msgid "the construction and use of the mechanical compass"
@@ -79855,7 +79868,7 @@ msgstr "la costruzione e l'uso del mulino ad acqua"
 
 #: stringdump_steam_2022_12_06.txt:28431
 msgid "the construction and use of the chariot odometer"
-msgstr "la costruzione e l'uso dell'odometro"
+msgstr "la costruzione e l'uso dell'odometro del carro"
 
 #: stringdump_steam_2022_12_06.txt:28432
 msgid "the construction and use of the camera obscura"
@@ -81439,7 +81452,7 @@ msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:28828
 msgid "Reproduction"
-msgstr ""
+msgstr "Riproduzione"
 
 #: stringdump_steam_2022_12_06.txt:28829
 msgid "Migration"
@@ -81799,7 +81812,7 @@ msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:28918
 msgid "Forceps"
-msgstr ""
+msgstr "Pinze"
 
 #: stringdump_steam_2022_12_06.txt:28919
 msgid "Surgery Models"
@@ -81987,7 +82000,7 @@ msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:28965
 msgid "Force Pumps"
-msgstr ""
+msgstr "Pompa a pressione"
 
 #: stringdump_steam_2022_12_06.txt:28966
 msgid "the Lens"
@@ -81999,7 +82012,7 @@ msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:28968
 msgid "the Force Pump"
-msgstr ""
+msgstr "la Pompa a pressione"
 
 #: stringdump_steam_2022_12_06.txt:28969
 msgid "the Law of Refraction"
@@ -82035,7 +82048,7 @@ msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:28977
 msgid "Chain Drives"
-msgstr ""
+msgstr "Catene di trasmissione"
 
 #: stringdump_steam_2022_12_06.txt:28978
 msgid "the Mechanical Compass"
@@ -82043,11 +82056,11 @@ msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:28979
 msgid "Odometers"
-msgstr ""
+msgstr "Odometri"
 
 #: stringdump_steam_2022_12_06.txt:28980
 msgid "the Chain Drive"
-msgstr ""
+msgstr "la catena di trasmissione"
 
 #: stringdump_steam_2022_12_06.txt:28981
 msgid "Sawmills"
@@ -82055,11 +82068,11 @@ msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:28982
 msgid "the Odometer"
-msgstr ""
+msgstr "l'Odometro"
 
 #: stringdump_steam_2022_12_06.txt:28983
 msgid "Crankshafts"
-msgstr ""
+msgstr "Albero a gomiti"
 
 #: stringdump_steam_2022_12_06.txt:28984
 msgid "the Sawmill"
@@ -82087,7 +82100,7 @@ msgstr "Scappamento a verga"
 
 #: stringdump_steam_2022_12_06.txt:28990
 msgid "the Balance Wheel"
-msgstr ""
+msgstr "il Bilanciere"
 
 #: stringdump_steam_2022_12_06.txt:28991
 msgid "Mechanical Compasses"
@@ -82135,11 +82148,11 @@ msgstr "Albero a camme"
 
 #: stringdump_steam_2022_12_06.txt:29002
 msgid "the Crankshaft"
-msgstr ""
+msgstr "l'Albero a gomiti"
 
 #: stringdump_steam_2022_12_06.txt:29003
 msgid "Locks"
-msgstr ""
+msgstr "Serrature"
 
 #: stringdump_steam_2022_12_06.txt:29004
 msgid "the Camshaft"
@@ -82151,7 +82164,7 @@ msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:29006
 msgid "the Lock"
-msgstr ""
+msgstr "la Serratura"
 
 #: stringdump_steam_2022_12_06.txt:29007
 msgid "Straight-Beam Balances"
@@ -82163,7 +82176,7 @@ msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:29009
 msgid "Water Clocks"
-msgstr ""
+msgstr "Orologi ad acqua"
 
 #: stringdump_steam_2022_12_06.txt:29010
 msgid "the Astrarium"
@@ -82175,7 +82188,7 @@ msgstr "Meridiane"
 
 #: stringdump_steam_2022_12_06.txt:29012
 msgid "the Water Clock"
-msgstr ""
+msgstr "l'Orologio ad acqua"
 
 #: stringdump_steam_2022_12_06.txt:29013
 msgid "the Shadow Clock"
@@ -82363,7 +82376,7 @@ msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:29059
 msgid "Trip Hammers"
-msgstr ""
+msgstr "Magli"
 
 #: stringdump_steam_2022_12_06.txt:29060
 msgid "the Bellows"
@@ -82375,15 +82388,15 @@ msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:29062
 msgid "the Trip Hammer"
-msgstr ""
+msgstr "il Maglio"
 
 #: stringdump_steam_2022_12_06.txt:29063
 msgid "the Crank"
-msgstr ""
+msgstr "la Manovella"
 
 #: stringdump_steam_2022_12_06.txt:29064
 msgid "Cranks"
-msgstr ""
+msgstr "Manovelle"
 
 #: stringdump_steam_2022_12_06.txt:29065
 msgid "the Piston"
@@ -82423,7 +82436,7 @@ msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:29074
 msgid "the Dioptra"
-msgstr ""
+msgstr "la Diottra"
 
 #: stringdump_steam_2022_12_06.txt:29075
 msgid "the Model"
@@ -82447,7 +82460,7 @@ msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:29080
 msgid "the Orrery"
-msgstr ""
+msgstr "il Planetario meccanico"
 
 #: stringdump_steam_2022_12_06.txt:29081
 msgid "Spherical Astrolabes"
@@ -83692,7 +83705,7 @@ msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:29391
 msgid "naturalist:theory:struggle for existence"
-msgstr ""
+msgstr "naturalista:teoria:lotta per l'esistenza"
 
 #: stringdump_steam_2022_12_06.txt:29392
 msgid "chemistry:classification:combustibles"
@@ -83700,19 +83713,19 @@ msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:29393
 msgid "naturalist:theory:climatic adaptation"
-msgstr ""
+msgstr "naturalista:teoria:adattamento climatico"
 
 #: stringdump_steam_2022_12_06.txt:29394
 msgid "naturalist:observation:embriological development"
-msgstr ""
+msgstr "naturalista:osservazione:sviluppo embriologico"
 
 #: stringdump_steam_2022_12_06.txt:29395
 msgid "naturalist:observation:social behavior"
-msgstr ""
+msgstr "naturalista:osservazione:comportamento sociale"
 
 #: stringdump_steam_2022_12_06.txt:29396
 msgid "naturalist:observation:diseases"
-msgstr ""
+msgstr "naturalista:osservazione:malattie"
 
 #: stringdump_steam_2022_12_06.txt:29397
 msgid "chemistry:laboratory:theory of distillation"
@@ -83780,35 +83793,35 @@ msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:29413
 msgid "naturalist:observation:foraging behavior and diet"
-msgstr ""
+msgstr "naturalista:osservazione:comportamento di foraggiamento e dieta"
 
 #: stringdump_steam_2022_12_06.txt:29414
 msgid "naturalist:theory:food chain"
-msgstr ""
+msgstr "naturalista:teoria:catena alimentare"
 
 #: stringdump_steam_2022_12_06.txt:29415
 msgid "naturalist:observation:migration patterns"
-msgstr ""
+msgstr "naturalista:osservazione:modelli di migratori"
 
 #: stringdump_steam_2022_12_06.txt:29416
 msgid "naturalist:observation:reproductive behavior"
-msgstr ""
+msgstr "naturalista:osservazione:comportamento riproduttivo"
 
 #: stringdump_steam_2022_12_06.txt:29417
 msgid "naturalist:theory:comparative anatomy"
-msgstr ""
+msgstr "naturalista:teoria:anatomia comparata"
 
 #: stringdump_steam_2022_12_06.txt:29418
 msgid "naturalist:theory:classification by physical features"
-msgstr ""
+msgstr "naturalista:teoria:classificazione per caratteristiche fisiche"
 
 #: stringdump_steam_2022_12_06.txt:29419
 msgid "naturalist:method:dissection"
-msgstr ""
+msgstr "naturalista:metodo:dissezione"
 
 #: stringdump_steam_2022_12_06.txt:29420
 msgid "naturalist:observation:anatomy"
-msgstr ""
+msgstr "naturalista:osservazione:anatomia"
 
 #: stringdump_steam_2022_12_06.txt:29421
 msgid "astronomy:path of the moon"
@@ -84220,35 +84233,35 @@ msgstr "ingegneria:macchinario:leva"
 
 #: stringdump_steam_2022_12_06.txt:29523
 msgid "engineering:machine:windlass"
-msgstr "ingegneria:macchinario:windlass"
+msgstr "ingegneria:macchinario:verricello"
 
 #: stringdump_steam_2022_12_06.txt:29524
 msgid "engineering:machine:theory of wedge"
-msgstr "ingegneria:macchinario:teoria d wedge"
+msgstr "ingegneria:macchinario:teoria del cuneo"
 
 #: stringdump_steam_2022_12_06.txt:29525
 msgid "engineering:machine:mechanical compass"
-msgstr "ingegneria:macchinario:mechanical compass"
+msgstr "ingegneria:macchinario:bussola meccanica"
 
 #: stringdump_steam_2022_12_06.txt:29526
 msgid "engineering:machine:differential gear"
-msgstr "ingegneria:macchinario:differential gear"
+msgstr "ingegneria:macchinario:differenziale"
 
 #: stringdump_steam_2022_12_06.txt:29527
 msgid "engineering:machine:chariot odometer"
-msgstr "ingegneria:macchinario:chariot odometer"
+msgstr "ingegneria:macchinario:odometro del carro"
 
 #: stringdump_steam_2022_12_06.txt:29528
 msgid "engineering:machine:chain drive"
-msgstr "ingegneria:macchinario:chain drive"
+msgstr "ingegneria:macchinario:catena di trasmissione"
 
 #: stringdump_steam_2022_12_06.txt:29529
 msgid "engineering:machine:crankshaft"
-msgstr "ingegneria:macchinario:crankshaft"
+msgstr "ingegneria:macchinario:albero a gomiti"
 
 #: stringdump_steam_2022_12_06.txt:29530
 msgid "engineering:machine:water-powered sawmill"
-msgstr "ingegneria:macchinario:water-powered sawmill"
+msgstr "ingegneria:macchinario:segheria alimentata ad acqua"
 
 #: stringdump_steam_2022_12_06.txt:29531
 msgid "engineering:machine:padlock"
@@ -84264,7 +84277,7 @@ msgstr "ingegneria:orologeria:orologio ad acqua conico"
 
 #: stringdump_steam_2022_12_06.txt:29534
 msgid "engineering:horology:water clock reservoir"
-msgstr "ingegneria:orologeria:water clock reservoir"
+msgstr "ingegneria:orologeria:serbatoio dell'orologio ad acqua"
 
 #: stringdump_steam_2022_12_06.txt:29535
 msgid "engineering:horology:shadow clock"
@@ -84304,7 +84317,7 @@ msgstr "ingegneria:macchinario:carrucola"
 
 #: stringdump_steam_2022_12_06.txt:29544
 msgid "engineering:machine:theory of screw"
-msgstr "ingegneria:macchinario:teoria delle viti"
+msgstr "ingegneria:macchinario:teoria della vite"
 
 #: stringdump_steam_2022_12_06.txt:29545
 msgid "engineering:horology:mechanical clock"
@@ -84448,7 +84461,7 @@ msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:29580
 msgid "medicine:tool:forceps"
-msgstr ""
+msgstr "medicina:strumento:pinza"
 
 #: stringdump_steam_2022_12_06.txt:29581
 msgid "negative quantities"
@@ -84540,11 +84553,11 @@ msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:29603
 msgid "engineering:machine:water wheel"
-msgstr "ingegneria:macchinario:water wheel"
+msgstr "ingegneria:macchinario:ruota idraulica"
 
 #: stringdump_steam_2022_12_06.txt:29604
 msgid "engineering:machine:trip hammer"
-msgstr "ingegneria:macchinario:trip hammer"
+msgstr "ingegneria:macchinario:maglio"
 
 #: stringdump_steam_2022_12_06.txt:29605
 msgid "causation"
@@ -84580,7 +84593,7 @@ msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:29613
 msgid "engineering:machine:water-powered trip hammer"
-msgstr "ingegneria:macchinario:water-powered trip hammer"
+msgstr "ingegneria:macchinario:maglio idraulico"
 
 #: stringdump_steam_2022_12_06.txt:29614
 msgid "engineering:machine:double-acting piston bellows"
@@ -84588,27 +84601,27 @@ msgstr "ingegneria:macchinario:mantici a pistone"
 
 #: stringdump_steam_2022_12_06.txt:29615
 msgid "engineering:astronomy:mural instrument"
-msgstr "ingegneria:astronomia:mural instrument"
+msgstr "ingegneria:astronomia:strumento murale"
 
 #: stringdump_steam_2022_12_06.txt:29616
 msgid "engineering:astronomy:orrery"
-msgstr "ingegneria:astronomia:orrery"
+msgstr "ingegneria:astronomia:planetario meccanico"
 
 #: stringdump_steam_2022_12_06.txt:29617
 msgid "engineering:astronomy:armillary sphere"
-msgstr "ingegneria:astronomia:armillary sphere"
+msgstr "ingegneria:astronomia:sfera armillare"
 
 #: stringdump_steam_2022_12_06.txt:29618
 msgid "engineering:astronomy:spherical astrolabe"
-msgstr "ingegneria:astronomia:spherical astrolabe"
+msgstr "ingegneria:astronomia:astrolabio sferico"
 
 #: stringdump_steam_2022_12_06.txt:29619
 msgid "engineering:astronomy:dioptra"
-msgstr "ingegneria:astronomia:dioptra"
+msgstr "ingegneria:astronomia:diottra"
 
 #: stringdump_steam_2022_12_06.txt:29620
 msgid "engineering:astronomy:astrolabe"
-msgstr "ingegneria:astronomia:astrolabe"
+msgstr "ingegneria:astronomia:astrolabio"
 
 #: stringdump_steam_2022_12_06.txt:29621
 msgid "engineering:machine:bellows"
@@ -84620,55 +84633,55 @@ msgstr "ingegneria:macchina:mantici a pistone idraulico"
 
 #: stringdump_steam_2022_12_06.txt:29623
 msgid "engineering:machine:piston"
-msgstr "ingegneria:macchinario:piston"
+msgstr "ingegneria:macchinario:pistone"
 
 #: stringdump_steam_2022_12_06.txt:29624
 msgid "engineering:machine:crank"
-msgstr "ingegneria:macchinario:crank"
+msgstr "ingegneria:macchinario:manovella"
 
 #: stringdump_steam_2022_12_06.txt:29625
 msgid "engineering:optics:cause of twilight"
-msgstr "ingegneria:ottica:cause of twilight"
+msgstr "ingegneria:ottica:causa del crepuscolo"
 
 #: stringdump_steam_2022_12_06.txt:29626
 msgid "engineering:optics:height of atmosphere"
-msgstr "ingegneria:ottica:height of atmosphere"
+msgstr "ingegneria:ottica:altezza dell'atmosfera"
 
 #: stringdump_steam_2022_12_06.txt:29627
 msgid "engineering:fluid:archimedes principle"
-msgstr "ingegneria:fluidi:archimedes principle"
+msgstr "ingegneria:fluido:principio di archimede"
 
 #: stringdump_steam_2022_12_06.txt:29628
 msgid "engineering:optics:atmospheric refraction"
-msgstr "ingegneria:ottica:atmospheric refraction"
+msgstr "ingegneria:ottica:rifrazione atmosferica"
 
 #: stringdump_steam_2022_12_06.txt:29629
 msgid "engineering:optics:crystal lens"
-msgstr "ingegneria:ottica:crystal lens"
+msgstr "ingegneria:ottica:lente di cristallo"
 
 #: stringdump_steam_2022_12_06.txt:29630
 msgid "engineering:optics:water-filled spheres"
-msgstr "ingegneria:ottica:water-filled spheres"
+msgstr "ingegneria:ottica:sfere piene d'acqua"
 
 #: stringdump_steam_2022_12_06.txt:29631
 msgid "engineering:fluid:valves"
-msgstr "ingegneria:fluidi:valvole"
+msgstr "ingegneria:fluido:valvole"
 
 #: stringdump_steam_2022_12_06.txt:29632
 msgid "engineering:fluid:force pump"
-msgstr "ingegneria:fluidi:force pump"
+msgstr "ingegneria:fluido:pompa a pressione"
 
 #: stringdump_steam_2022_12_06.txt:29633
 msgid "engineering:machine:balance wheel"
-msgstr "ingegneria:macchinario:balance wheel"
+msgstr "ingegneria:macchinario:bilanciere"
 
 #: stringdump_steam_2022_12_06.txt:29634
 msgid "engineering:fluid:theory of siphon"
-msgstr "ingegneria:fluidi:teoria dei sifoni"
+msgstr "ingegneria:fluido:teoria dei sifoni"
 
 #: stringdump_steam_2022_12_06.txt:29635
 msgid "engineering:machine:combination lock"
-msgstr "ingegneria:macchinario:combination lock"
+msgstr "ingegneria:macchinario:serratura a combinazione"
 
 #: stringdump_steam_2022_12_06.txt:29636
 msgid "engineering:machine:verge escapement"
@@ -84676,7 +84689,7 @@ msgstr "ingegneria:macchinario:scappamento a verga"
 
 #: stringdump_steam_2022_12_06.txt:29637
 msgid "engineering:design:models and templates"
-msgstr "ingegneria:design:models and templates"
+msgstr "ingegneria:design:modelli e schemi"
 
 #: stringdump_steam_2022_12_06.txt:29638
 msgid "engineering:construction:wood lamination"
@@ -84684,7 +84697,7 @@ msgstr "ingegneria:costruzione:laminazione del legno"
 
 #: stringdump_steam_2022_12_06.txt:29639
 msgid "engineering:optics:theory of rainbows"
-msgstr "ingegneria:ottica:teoria d rainbows"
+msgstr "ingegneria:ottica:teoria degli arcobaleni"
 
 #: stringdump_steam_2022_12_06.txt:29640
 msgid "engineering:optics:law of refraction"
@@ -84692,7 +84705,7 @@ msgstr "ingegneria:ottica:legge della rifrazione"
 
 #: stringdump_steam_2022_12_06.txt:29641
 msgid "engineering:optics:parabolic mirror"
-msgstr "ingegneria:ottica:parabolic mirror"
+msgstr "ingegneria:ottica:specchio parabolico"
 
 #: stringdump_steam_2022_12_06.txt:29642
 msgid "engineering:optics:theory of color"
@@ -84760,7 +84773,7 @@ msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:29658
 msgid "reproductive behavior"
-msgstr ""
+msgstr "comportamento riproduttivo"
 
 #: stringdump_steam_2022_12_06.txt:29659
 msgid "comparative anatomy"
@@ -85044,7 +85057,7 @@ msgstr "scale di distanza"
 
 #: stringdump_steam_2022_12_06.txt:29729
 msgid "surveying for engineering"
-msgstr "rilevamento per ingegneria"
+msgstr "rilievo per ingegneria"
 
 #: stringdump_steam_2022_12_06.txt:29730
 msgid "geological cartography"
@@ -85224,7 +85237,7 @@ msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:29774
 msgid "the warded lock"
-msgstr ""
+msgstr "la serratura a scatola"
 
 #: stringdump_steam_2022_12_06.txt:29775
 msgid "the lever"
@@ -85252,7 +85265,7 @@ msgstr "la ruota-e-asse"
 
 #: stringdump_steam_2022_12_06.txt:29781
 msgid "chain drives"
-msgstr ""
+msgstr "catene di trasmissione"
 
 #: stringdump_steam_2022_12_06.txt:29782
 msgid "the mechanical compass"
@@ -85264,7 +85277,7 @@ msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:29784
 msgid "the chariot odometer"
-msgstr ""
+msgstr "l'odometro del carro"
 
 #: stringdump_steam_2022_12_06.txt:29785
 msgid "the camshaft"
@@ -85272,7 +85285,7 @@ msgstr "l'albero a camme"
 
 #: stringdump_steam_2022_12_06.txt:29786
 msgid "the crankshaft"
-msgstr ""
+msgstr "l'albero a gomiti"
 
 #: stringdump_steam_2022_12_06.txt:29787
 msgid "the tumbler lock"
@@ -85336,7 +85349,7 @@ msgstr "orologi ad acqua conici"
 
 #: stringdump_steam_2022_12_06.txt:29802
 msgid "water clock reservoirs"
-msgstr ""
+msgstr "serbatoi per orologi ad acqua"
 
 #: stringdump_steam_2022_12_06.txt:29803
 msgid "shadow clocks"
@@ -85344,31 +85357,31 @@ msgstr "meridiane"
 
 #: stringdump_steam_2022_12_06.txt:29804
 msgid "water clocks"
-msgstr ""
+msgstr "orologi ad acqua"
 
 #: stringdump_steam_2022_12_06.txt:29805
 msgid "surgical scissors"
-msgstr ""
+msgstr "forbici chirurgiche"
 
 #: stringdump_steam_2022_12_06.txt:29806
 msgid "surgical needles"
-msgstr ""
+msgstr "aghi chirurgici"
 
 #: stringdump_steam_2022_12_06.txt:29807
 msgid "forceps"
-msgstr ""
+msgstr "pinze"
 
 #: stringdump_steam_2022_12_06.txt:29808
 msgid "the scalpel"
-msgstr ""
+msgstr "lo scalpello"
 
 #: stringdump_steam_2022_12_06.txt:29809
 msgid "animals as surgical models"
-msgstr ""
+msgstr "animali come modelli chirurgici"
 
 #: stringdump_steam_2022_12_06.txt:29810
 msgid "specialized surgical instruments"
-msgstr ""
+msgstr "strumenti chirurgici specializzati"
 
 #: stringdump_steam_2022_12_06.txt:29811
 msgid "mud bags as surgical models"
@@ -85376,107 +85389,107 @@ msgstr "sacche di fango come modelli chirurgici"
 
 #: stringdump_steam_2022_12_06.txt:29812
 msgid "plants as surgical models"
-msgstr ""
+msgstr "piante come modelli chirurgici"
 
 #: stringdump_steam_2022_12_06.txt:29813
 msgid "blood vessels"
-msgstr ""
+msgstr "vasi sanguigni"
 
 #: stringdump_steam_2022_12_06.txt:29814
 msgid "the voice"
-msgstr ""
+msgstr "la voce"
 
 #: stringdump_steam_2022_12_06.txt:29815
 msgid "the nervous system"
-msgstr ""
+msgstr "il sistema nervoso"
 
 #: stringdump_steam_2022_12_06.txt:29816
 msgid "reaction time"
-msgstr ""
+msgstr "tempo di reazione"
 
 #: stringdump_steam_2022_12_06.txt:29817
 msgid "eye anatomy"
-msgstr ""
+msgstr "anatomia dell'occhio"
 
 #: stringdump_steam_2022_12_06.txt:29818
 msgid "nerves"
-msgstr ""
+msgstr "nervi"
 
 #: stringdump_steam_2022_12_06.txt:29819
 msgid "anatomical studies"
-msgstr ""
+msgstr "studi anatomici"
 
 #: stringdump_steam_2022_12_06.txt:29820
 msgid "bodily fluids"
-msgstr ""
+msgstr "fluidi corporei"
 
 #: stringdump_steam_2022_12_06.txt:29821
 msgid "excision"
-msgstr ""
+msgstr "escissione"
 
 #: stringdump_steam_2022_12_06.txt:29822
 msgid "incision"
-msgstr ""
+msgstr "incisione"
 
 #: stringdump_steam_2022_12_06.txt:29823
 msgid "fracture immobilization"
-msgstr ""
+msgstr "immobilizzazione della frattura"
 
 #: stringdump_steam_2022_12_06.txt:29824
 msgid "the orthopedic cast"
-msgstr ""
+msgstr "il gesso ortopedico"
 
 #: stringdump_steam_2022_12_06.txt:29825
 msgid "fracture classification"
-msgstr ""
+msgstr "classificazione delle fratture"
 
 #: stringdump_steam_2022_12_06.txt:29826
 msgid "the traction bench"
-msgstr ""
+msgstr "la panca di trazione"
 
 #: stringdump_steam_2022_12_06.txt:29827
 msgid "traumatic injuries"
-msgstr ""
+msgstr "lesioni traumatiche"
 
 #: stringdump_steam_2022_12_06.txt:29828
 msgid "fracture treatment"
-msgstr ""
+msgstr "trattamento delle fratture"
 
 #: stringdump_steam_2022_12_06.txt:29829
 msgid "ligature"
-msgstr ""
+msgstr "legatura"
 
 #: stringdump_steam_2022_12_06.txt:29830
 msgid "surgical models"
-msgstr ""
+msgstr "modelli chirurgici"
 
 #: stringdump_steam_2022_12_06.txt:29831
 msgid "probing"
-msgstr ""
+msgstr "sondaggio"
 
 #: stringdump_steam_2022_12_06.txt:29832
 msgid "suturing"
-msgstr ""
+msgstr "sutura"
 
 #: stringdump_steam_2022_12_06.txt:29833
 msgid "scraping"
-msgstr ""
+msgstr "raschiatura"
 
 #: stringdump_steam_2022_12_06.txt:29834
 msgid "draining"
-msgstr ""
+msgstr "drenaggio"
 
 #: stringdump_steam_2022_12_06.txt:29835
 msgid "tracheotomy surgery"
-msgstr ""
+msgstr "intervento di tracheotomia"
 
 #: stringdump_steam_2022_12_06.txt:29836
 msgid "lithotomy surgery"
-msgstr ""
+msgstr "chirurgia litotomica"
 
 #: stringdump_steam_2022_12_06.txt:29837
 msgid "the water-powered trip hammer"
-msgstr ""
+msgstr "il maglio idraulico"
 
 #: stringdump_steam_2022_12_06.txt:29838
 msgid "double-acting piston bellows"
@@ -85484,23 +85497,23 @@ msgstr "mantici a pistone"
 
 #: stringdump_steam_2022_12_06.txt:29839
 msgid "mural instruments"
-msgstr ""
+msgstr "strumenti murali"
 
 #: stringdump_steam_2022_12_06.txt:29840
 msgid "the orrery"
-msgstr ""
+msgstr "il planetario meccanico"
 
 #: stringdump_steam_2022_12_06.txt:29841
 msgid "the armillary sphere"
-msgstr ""
+msgstr "la sfera armillare"
 
 #: stringdump_steam_2022_12_06.txt:29842
 msgid "the spherical astrolabe"
-msgstr ""
+msgstr "l'astrolabio sferico"
 
 #: stringdump_steam_2022_12_06.txt:29843
 msgid "the dioptra"
-msgstr ""
+msgstr "la diottra"
 
 #: stringdump_steam_2022_12_06.txt:29844
 msgid "the astrolabe"
@@ -85508,11 +85521,11 @@ msgstr "l'astrolabio"
 
 #: stringdump_steam_2022_12_06.txt:29845
 msgid "the water wheel"
-msgstr ""
+msgstr "la ruota idraulica"
 
 #: stringdump_steam_2022_12_06.txt:29846
 msgid "the trip hammer"
-msgstr ""
+msgstr "il maglio"
 
 #: stringdump_steam_2022_12_06.txt:29847
 msgid "the bellows"
@@ -85524,27 +85537,27 @@ msgstr "mantici a pistone idraulico"
 
 #: stringdump_steam_2022_12_06.txt:29849
 msgid "the piston"
-msgstr ""
+msgstr "il pistone"
 
 #: stringdump_steam_2022_12_06.txt:29850
 msgid "the crank"
-msgstr ""
+msgstr "la manovella"
 
 #: stringdump_steam_2022_12_06.txt:29851
 msgid "water displacement"
-msgstr ""
+msgstr "spostamento dell'acqua"
 
 #: stringdump_steam_2022_12_06.txt:29852
 msgid "the height of the atmosphere"
-msgstr ""
+msgstr "l'altezza dell'atmosfera"
 
 #: stringdump_steam_2022_12_06.txt:29853
 msgid "the force pump"
-msgstr ""
+msgstr "la pompa a pressione"
 
 #: stringdump_steam_2022_12_06.txt:29854
 msgid "the crystal lens"
-msgstr ""
+msgstr "la lente di cristallo"
 
 #: stringdump_steam_2022_12_06.txt:29855
 msgid "the siphon"
@@ -85552,7 +85565,7 @@ msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:29856
 msgid "valves"
-msgstr ""
+msgstr "valvole"
 
 #: stringdump_steam_2022_12_06.txt:29857
 msgid "the verge escapement"
@@ -85560,7 +85573,7 @@ msgstr "lo scappamento a verga"
 
 #: stringdump_steam_2022_12_06.txt:29858
 msgid "the balance wheel"
-msgstr ""
+msgstr "il bilanciere"
 
 #: stringdump_steam_2022_12_06.txt:29859
 msgid "the differential gear"
@@ -85568,7 +85581,7 @@ msgstr "l'ingranaggio del differenziale"
 
 #: stringdump_steam_2022_12_06.txt:29860
 msgid "combination locks"
-msgstr ""
+msgstr "serratura a combinazione"
 
 #: stringdump_steam_2022_12_06.txt:29861
 msgid "models and templates"
@@ -85576,7 +85589,7 @@ msgstr "modelli e schemi"
 
 #: stringdump_steam_2022_12_06.txt:29862
 msgid "lamination"
-msgstr ""
+msgstr "laminazione"
 
 #: stringdump_steam_2022_12_06.txt:29863
 msgid "light and color"
@@ -85596,7 +85609,7 @@ msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:29867
 msgid "water-filled spheres"
-msgstr ""
+msgstr "sfere piene d'acqua"
 
 #: stringdump_steam_2022_12_06.txt:29868
 msgid "the glass lens"
@@ -86016,11 +86029,11 @@ msgstr "Totale:"
 
 #: stringdump_steam_2022_12_06.txt:30080
 msgid "Elevation negative on graphical map export (main)"
-msgstr "Elevazione negativa nell'esportazione di mappe grafiche (main)"
+msgstr "Quota negativa nell'esportazione di mappe grafiche (main)"
 
 #: stringdump_steam_2022_12_06.txt:30081
 msgid "Elevation negative on graphical map export (midmap)"
-msgstr "Elevazione negativa nell'esportazione di mappe grafiche (midmap)"
+msgstr "Quota negativa nell'esportazione di mappe grafiche (midmap)"
 
 #: stringdump_steam_2022_12_06.txt:30082
 msgid "Midmap creation failure on graphical map export: "
@@ -86136,7 +86149,7 @@ msgstr "casa"
 
 #: stringdump_steam_2022_12_06.txt:30111
 msgid "hillock"
-msgstr "poggio"
+msgstr "collinetta"
 
 #: stringdump_steam_2022_12_06.txt:30112
 msgid "yard"
@@ -86252,7 +86265,7 @@ msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:30159
 msgid "Show elevation"
-msgstr "Mostra livello"
+msgstr "Mostra quota"
 
 #: stringdump_steam_2022_12_06.txt:30160
 msgid "Show cliffs/grade"
@@ -86891,7 +86904,7 @@ msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:30330
 msgid "hillocks"
-msgstr ""
+msgstr "collinette"
 
 #: stringdump_steam_2022_12_06.txt:30331
 msgid "pits"
@@ -86927,7 +86940,7 @@ msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:30339
 msgid "town yards (100,50,10)"
-msgstr ""
+msgstr "iarde città (100,50,10)"
 
 #: stringdump_steam_2022_12_06.txt:30340
 msgid "abandoned (75,50,20), border (50,50,50)"
@@ -89190,7 +89203,7 @@ msgstr ""
 
 #: stringdump_steam_2022_12_06.txt:36792
 msgid "Naturalist"
-msgstr ""
+msgstr "Naturalista"
 
 #: stringdump_steam_2022_12_06.txt:36793
 msgid "Drunk"
@@ -89322,7 +89335,7 @@ msgstr "schiavo"
 
 #: stringdump_steam_2022_12_06.txt:36825
 msgid "naturalist"
-msgstr ""
+msgstr "naturalista"
 
 #: stringdump_steam_2022_12_06.txt:36826
 msgid "chemist"
