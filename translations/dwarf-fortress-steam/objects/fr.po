@@ -5,12 +5,13 @@
 # J. Bat., 2022
 # WhiteKevi Gaming, 2022
 # Alexandre B, 2022
-# samQC_CA_FR, 2022
 # Jérémi Duarte, 2022
+# samQC_CA_FR, 2023
+# Aym Laj, 2023
 # 
 msgid ""
 msgstr ""
-"Last-Translator: Jérémi Duarte, 2022\n"
+"Last-Translator: Aym Laj, 2023\n"
 "Language-Team: French (https://www.transifex.com/dwarf-fortress-translation/teams/22396/fr/)\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -18633,17 +18634,17 @@ msgstr "[NAME:marmotte:marmottes:marmotte]"
 #: creature_large_temperate.txt:1226
 msgctxt "CREATURE:GROUNDHOG"
 msgid "[CASTE_NAME:groundhog:groundhogs:groundhog]"
-msgstr ""
+msgstr "[CASTE_NAME:marmotte:marmottes:marmotte]"
 
 #: creature_large_temperate.txt:1227
 msgctxt "CREATURE:GROUNDHOG"
 msgid "[GENERAL_CHILD_NAME:groundhog pup:groundhog pups]"
-msgstr ""
+msgstr "[GENERAL_CHILD_NAME:marmotton:marmottons]"
 
 #: creature_large_temperate.txt:1242
 msgctxt "CREATURE:GROUNDHOG"
 msgid "[PREFSTRING:ability to burrow]"
-msgstr ""
+msgstr "[PREFSTRING:capacité à creuser]"
 
 #: creature_large_temperate.txt:1280
 msgctxt "CREATURE:GROUNDHOG"
@@ -18673,17 +18674,17 @@ msgstr "[TLCM_NOUN:yeux:PLURAL]"
 #: creature_large_temperate.txt:1324
 msgctxt "CREATURE:GROUNDHOG_MAN"
 msgid "[CASTE_NAME:groundhog man:groundhog men:groundhog man]"
-msgstr ""
+msgstr "[CASTE_NAME:homme marmotte:homme marmotte:homme marmotte]"
 
 #: creature_large_temperate.txt:1326
 msgctxt "CREATURE:GROUNDHOG_MAN"
 msgid "[CASTE_NAME:groundhog woman:groundhog women:groundhog woman]"
-msgstr ""
+msgstr "[CASTE_NAME:femme marmotte:femme marmotte:femme marmotte]"
 
 #: creature_large_temperate.txt:1337
 msgctxt "CREATURE:GROUNDHOG_MAN"
 msgid "[NAME:groundhog man:groundhog men:groundhog man]"
-msgstr ""
+msgstr "[NAME:homme marmotte:homme marmotte:homme marmotte]"
 
 #: creature_large_temperate.txt:1338
 msgctxt "CREATURE:GROUNDHOG_MAN"
@@ -18694,17 +18695,17 @@ msgstr ""
 #: creature_large_temperate.txt:1356
 msgctxt "CREATURE:GIANT_GROUNDHOG"
 msgid "[NAME:giant groundhog:giant groundhogs:giant groundhog]"
-msgstr ""
+msgstr "[NAME:marmotte géante:marmottes géantes:marmotte géante]"
 
 #: creature_large_temperate.txt:1357
 msgctxt "CREATURE:GIANT_GROUNDHOG"
 msgid "[CASTE_NAME:giant groundhog:giant groundhogs:giant groundhog]"
-msgstr ""
+msgstr "[CASTE_NAME:marmotte géante:marmottes géantes:marmotte géante]"
 
 #: creature_large_temperate.txt:1358
 msgctxt "CREATURE:GIANT_GROUNDHOG"
 msgid "[GENERAL_CHILD_NAME:giant groundhog pup:giant groundhog pups]"
-msgstr ""
+msgstr "[GENERAL_CHILD_NAME:marmotton géant:marmottons géants]"
 
 #: creature_large_temperate.txt:1359
 msgctxt "CREATURE:GIANT_GROUNDHOG"
@@ -18714,7 +18715,7 @@ msgstr "[DESCRIPTION:Une grande créature en forme de marmotte.]"
 #: creature_large_temperate.txt:1368
 msgctxt "CREATURE:GIANT_GROUNDHOG"
 msgid "[PREFSTRING:ability to burrow]"
-msgstr ""
+msgstr "[PREFSTRING:capacité à creuser]"
 
 #: creature_large_temperate.txt:1374
 msgctxt "CREATURE:ALLIGATOR"
@@ -18728,17 +18729,17 @@ msgstr ""
 #: creature_large_temperate.txt:1375
 msgctxt "CREATURE:ALLIGATOR"
 msgid "[NAME:alligator:alligators:alligator]"
-msgstr ""
+msgstr "[NAME:alligator:alligators:alligator]"
 
 #: creature_large_temperate.txt:1376
 msgctxt "CREATURE:ALLIGATOR"
 msgid "[CASTE_NAME:alligator:alligators:alligator]"
-msgstr ""
+msgstr "[CASTE_NAME:alligator:alligators:alligator]"
 
 #: creature_large_temperate.txt:1377
 msgctxt "CREATURE:ALLIGATOR"
 msgid "[GENERAL_CHILD_NAME:alligator hatchling:alligator hatchlings]"
-msgstr ""
+msgstr "[GENERAL_CHILD_NAME:alligator nouveau-né:alligator nouveau-nés]"
 
 #: creature_large_temperate.txt:1399
 msgctxt "CREATURE:ALLIGATOR"
@@ -18763,17 +18764,17 @@ msgstr "[TLCM_NOUN:yeux:PLURAL]"
 #: creature_large_temperate.txt:1482
 msgctxt "CREATURE:ALLIGATOR_MAN"
 msgid "[CASTE_NAME:alligator man:alligator men:alligator man]"
-msgstr ""
+msgstr "[CASTE_NAME:alligator mâle:alligator mâles:alligator mâle]"
 
 #: creature_large_temperate.txt:1484
 msgctxt "CREATURE:ALLIGATOR_MAN"
 msgid "[CASTE_NAME:alligator woman:alligator women:alligator woman]"
-msgstr ""
+msgstr "[CASTE_NAME:alligator femelle:alligator femelles:alligator femelle]"
 
 #: creature_large_temperate.txt:1495
 msgctxt "CREATURE:ALLIGATOR_MAN"
 msgid "[NAME:alligator man:alligator men:alligator man]"
-msgstr ""
+msgstr "[NAME:alligator mâle:alligator mâles:alligator mâle]"
 
 #: creature_large_temperate.txt:1496
 msgctxt "CREATURE:ALLIGATOR_MAN"
@@ -18783,18 +18784,20 @@ msgstr "[DESCRIPTION:Une personne avec la tête et la queue d'un alligator.]"
 #: creature_large_temperate.txt:1514
 msgctxt "CREATURE:GIANT_ALLIGATOR"
 msgid "[NAME:giant alligator:giant alligators:giant alligator]"
-msgstr ""
+msgstr "[NAME:alligator géant:alligators géants:alligator géant]"
 
 #: creature_large_temperate.txt:1515
 msgctxt "CREATURE:GIANT_ALLIGATOR"
 msgid "[CASTE_NAME:giant alligator:giant alligators:giant alligator]"
-msgstr ""
+msgstr "[CASTE_NAME:alligator géant:alligators géants:alligator géant]"
 
 #: creature_large_temperate.txt:1516
 msgctxt "CREATURE:GIANT_ALLIGATOR"
 msgid ""
 "[GENERAL_CHILD_NAME:giant alligator hatchling:giant alligator hatchlings]"
 msgstr ""
+"[GENERAL_CHILD_NAME:alligator géant nouveau-né:alligators géants nouveau-"
+"nés:alligator géant nouveau-né]"
 
 #: creature_large_temperate.txt:1517
 msgctxt "CREATURE:GIANT_ALLIGATOR"
@@ -18818,22 +18821,22 @@ msgstr ""
 #: creature_large_temperate.txt:1533
 msgctxt "CREATURE:BIRD_BUZZARD"
 msgid "[NAME:buzzard:buzzards:buzzard]"
-msgstr ""
+msgstr "[NAME:buse:buses:buse]"
 
 #: creature_large_temperate.txt:1534
 msgctxt "CREATURE:BIRD_BUZZARD"
 msgid "[CASTE_NAME:buzzard:buzzards:buzzard]"
-msgstr ""
+msgstr "[CASTE_NAME:buse:buses:buse]"
 
 #: creature_large_temperate.txt:1535
 msgctxt "CREATURE:BIRD_BUZZARD"
 msgid "[GENERAL_CHILD_NAME:buzzard hatchling:buzzard hatchlings]"
-msgstr ""
+msgstr "[GENERAL_CHILD_NAME:jeune buse:jeunes buses]"
 
 #: creature_large_temperate.txt:1561
 msgctxt "CREATURE:BIRD_BUZZARD"
 msgid "[PREFSTRING:striking red face]"
-msgstr ""
+msgstr "[PREFSTRING:visage écarlate]"
 
 #: creature_large_temperate.txt:1599
 msgctxt "CREATURE:BIRD_BUZZARD"
@@ -18863,17 +18866,17 @@ msgstr "[TLCM_NOUN:yeux:PLURAL]"
 #: creature_large_temperate.txt:1642
 msgctxt "CREATURE:BUZZARD_MAN"
 msgid "[CASTE_NAME:buzzard man:buzzard men:buzzard man]"
-msgstr ""
+msgstr "[CASTE_NAME:buse mâle:buses mâles:buse mâle]"
 
 #: creature_large_temperate.txt:1644
 msgctxt "CREATURE:BUZZARD_MAN"
 msgid "[CASTE_NAME:buzzard woman:buzzard women:buzzard woman]"
-msgstr ""
+msgstr "[CASTE_NAME:buse femelle:buses femelles:buse femelle]"
 
 #: creature_large_temperate.txt:1656
 msgctxt "CREATURE:BUZZARD_MAN"
 msgid "[NAME:buzzard man:buzzard men:buzzard man]"
-msgstr ""
+msgstr "[NAME:buse mâle:buses mâles:buse mâle]"
 
 #: creature_large_temperate.txt:1657
 msgctxt "CREATURE:BUZZARD_MAN"
@@ -18883,17 +18886,17 @@ msgstr "[DESCRIPTION:Une personne avec la tête et les ailes d'une buse.]"
 #: creature_large_temperate.txt:1673
 msgctxt "CREATURE:GIANT_BUZZARD"
 msgid "[NAME:giant buzzard:giant buzzards:giant buzzard]"
-msgstr ""
+msgstr "[NAME:buse géante:buses géantes:buse géante]"
 
 #: creature_large_temperate.txt:1674
 msgctxt "CREATURE:GIANT_BUZZARD"
 msgid "[CASTE_NAME:giant buzzard:giant buzzards:giant buzzard]"
-msgstr ""
+msgstr "[CASTE_NAME:buse géante:buses géantes:buse géante]"
 
 #: creature_large_temperate.txt:1675
 msgctxt "CREATURE:GIANT_BUZZARD"
 msgid "[GENERAL_CHILD_NAME:giant buzzard hatchling:giant buzzard hatchlings]"
-msgstr ""
+msgstr "[GENERAL_CHILD_NAME:jeune buse géante:jeunes buses géantes]"
 
 #: creature_large_temperate.txt:1676
 msgctxt "CREATURE:GIANT_BUZZARD"
@@ -18903,7 +18906,7 @@ msgstr "[DESCRIPTION:Un énorme monstre en forme de buse.]"
 #: creature_large_temperate.txt:1685
 msgctxt "CREATURE:GIANT_BUZZARD"
 msgid "[PREFSTRING:striking red face]"
-msgstr ""
+msgstr "[PREFSTRING:visage écarlate]"
 
 #: creature_large_temperate.txt:1700
 msgctxt "CREATURE:PANDA"
@@ -18911,8 +18914,8 @@ msgid ""
 "[DESCRIPTION:A large bear-like creature with a striking coat of black and "
 "white hair.  It feeds on bamboo forests.]"
 msgstr ""
-"[DESCRIPTION:Une grande créature ressemblant à un ours avec un manteau "
-"frappant de poils noirs et blancs. Il se nourrit de forêts de bambous.]"
+"[DESCRIPTION:Une grande créature ressemblant à un ours avec une fourrure "
+"noire et blanche. Il se nourrit de bambous.]"
 
 #: creature_large_temperate.txt:1701
 msgctxt "CREATURE:PANDA"
@@ -18927,17 +18930,17 @@ msgstr "[CASTE_NAME:panda:pandas:panda]"
 #: creature_large_temperate.txt:1703
 msgctxt "CREATURE:PANDA"
 msgid "[GENERAL_CHILD_NAME:panda cub:panda cubs]"
-msgstr ""
+msgstr "[GENERAL_CHILD_NAME:petit panda:petits pandas]"
 
 #: creature_large_temperate.txt:1719
 msgctxt "CREATURE:PANDA"
 msgid "[PREFSTRING:striking coloration]"
-msgstr ""
+msgstr "[PREFSTRING:coloration saisissante]"
 
 #: creature_large_temperate.txt:1720
 msgctxt "CREATURE:PANDA"
 msgid "[PREFSTRING:big fluffy heads and bellies]"
-msgstr ""
+msgstr "[PREFSTRING:grosses têtes, et ventres, duveteux]"
 
 #: creature_large_temperate.txt:1721
 msgctxt "CREATURE:PANDA"
@@ -19022,7 +19025,7 @@ msgstr "[PREFSTRING:taille énorme]"
 #: creature_large_temperate.txt:1837
 msgctxt "CREATURE:PANDA, GIGANTIC"
 msgid "[PREFSTRING:striking coloration]"
-msgstr ""
+msgstr "[PREFSTRING:coloration saisissante]"
 
 #: creature_large_temperate.txt:1838
 msgctxt "CREATURE:PANDA, GIGANTIC"
@@ -19042,7 +19045,7 @@ msgstr "[CVCT_TARGET:jambes]"
 #: creature_large_temperate.txt:1850
 msgctxt "CREATURE:PANDA MAN"
 msgid "[CVCT_REPLACEMENT:arms and legs]"
-msgstr ""
+msgstr "[CVCT_REPLACEMENT:bras et jambes]"
 
 #: creature_large_temperate.txt:1868
 msgctxt "CREATURE:PANDA MAN"
@@ -19077,12 +19080,12 @@ msgstr ""
 #: creature_large_temperate.txt:1900
 msgctxt "CREATURE:CAPYBARA"
 msgid "[NAME:capybara:capybaras:capybara]"
-msgstr ""
+msgstr "[NAME:capybara:capybaras:capybara]"
 
 #: creature_large_temperate.txt:1901
 msgctxt "CREATURE:CAPYBARA"
 msgid "[CASTE_NAME:capybara:capybaras:capybara]"
-msgstr ""
+msgstr "[CASTE_NAME:capybara:capybaras:capybara]"
 
 #: creature_large_temperate.txt:1902
 msgctxt "CREATURE:CAPYBARA"
@@ -19177,8 +19180,8 @@ msgid ""
 "[DESCRIPTION:A huge rodent that walks on tall legs.  Its bark can be heard "
 "at large distances.  It is fond of swimming.]"
 msgstr ""
-"[DESCRIPTION:Un énorme rongeur qui marche sur de hautes pattes. Son "
-"aboiement peut être entendu à de grandes distances. Il aime nager.]"
+"[DESCRIPTION:Un énorme rongeur qui marche sur de hautes pattes. Son cris "
+"peut être entendu à de grandes distances. Il aime nager.]"
 
 #: creature_large_temperate.txt:2019
 msgctxt "CREATURE:CAPYBARA, GIANT"
@@ -36917,6 +36920,8 @@ msgid ""
 "[DESCRIPTION:A medium-sized snake that lives in the trees.  It eats prey "
 "much larger than itself and slays them by crushing them to death.]"
 msgstr ""
+"[DESCRIPTION:Un serpent de taille moyenne qui vie dans les arbres. Il mange "
+"des proies plus grosse que lui et les tue en les étouffant.]"
 
 #: creature_tropical_new.txt:322
 msgctxt "CREATURE:ANACONDA"
@@ -37318,6 +37323,9 @@ msgid ""
 "[DESCRIPTION:A small wolf-like scavenger.  Normally found in pairs, jackals "
 "can form packs when they find a body.]"
 msgstr ""
+"[DESCRIPTION:Un petit charognard ressemblant à un loup. Se déplacant "
+"habituellement en couple, le chacal peut former une meute lorsqu'ils "
+"trouvent un cadavre.]"
 
 #: creature_tropical_new.txt:955
 msgctxt "CREATURE:JACKAL"
@@ -37415,6 +37423,8 @@ msgid ""
 "[DESCRIPTION:A tiny diurnal monkey.  It spends its time in the trees "
 "searching for food.]"
 msgstr ""
+"[DESCRIPTION:Un petit singe diurne. Il passe son temps dans les arbres à "
+"chercher de la nourriture.]"
 
 #: creature_tropical_new.txt:1107
 msgctxt "CREATURE:CAPUCHIN"
