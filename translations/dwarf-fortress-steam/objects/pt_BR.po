@@ -1,7 +1,6 @@
 # 
 # Translators:
 # insolor, 2022
-# Vitor Pereira Tavares da Costa <vitor.costa1990@gmail.com>, 2022
 # Mateus Rodrigo Nunes da Silva <mateusrnds@gmail.com>, 2022
 # Rodrigo Puerare, 2022
 # Rafael Porto, 2022
@@ -5218,14 +5217,14 @@ msgstr "[TISSUE_NAME: esponja: NP]"
 #: building_custom.txt:6
 msgctxt "BUILDING_WORKSHOP:SOAP_MAKER"
 msgid "[NAME:Soap Maker's Workshop]"
-msgstr "[NAME:Saboaria]"
+msgstr "[NAME:Oficina de Saboaria]"
 
 #: building_custom.txt:41
 msgctxt "BUILDING_WORKSHOP:SOAP_MAKER"
 msgid "[TOOLTIP:Use tallow (rendered fat) or oil here with lye to make soap.]"
 msgstr ""
-"[TOOLTIP:Use banha (gordura derretida) ou óleo aqui com soda caustica para "
-"fazer sabão.]"
+"[TOOLTIP:Para fazer sabão aqui, use barrela com óleo ou sebo (gordura "
+"processada).]"
 
 #: building_custom.txt:44
 msgctxt "BUILDING_WORKSHOP:SCREW_PRESS"
@@ -5239,9 +5238,9 @@ msgid ""
 "plants might need to be milled first before they can be used.  Empty jugs "
 "are required to store the liquid products.]"
 msgstr ""
-"[TOOLTIP:Uma oficina útil para prensar líquidos de diversas fontes. Algumas "
-"plantas precisam ser moídas antes de serem prensadas. Galões vazios são "
-"necessários para armazenar os líquidos produzidos.]"
+"[TOOLTIP:Uma oficina útil para a prensagem de líquidos de diversas fontes. "
+"Algumas plantas precisam ser moídas antes de serem prensadas. São "
+"necessários jarros vazios para armazenar os líquidos produzidos.]"
 
 #: c_variation_default.txt:189
 msgctxt "CREATURE_VARIATION:ANIMAL_PERSON"
@@ -55989,17 +55988,17 @@ msgstr "[NAME: fazer sabão a partir de sebo]"
 #: reaction_other.txt:29
 msgctxt "REACTION:MAKE_SOAP_FROM_TALLOW"
 msgid "[REAGENT:lye:]"
-msgstr "[Reagente: soda cáustica:]"
+msgstr "[REAGENT:barrela:]"
 
 #: reaction_other.txt:30
 msgctxt "REACTION:MAKE_SOAP_FROM_TALLOW"
 msgid "[REAGENT:lye container:]"
-msgstr "[Reagente: recipiente soda cáustica:]"
+msgstr "[REAGENT:recipiente para barrela:]"
 
 #: reaction_other.txt:31
 msgctxt "REACTION:MAKE_SOAP_FROM_TALLOW"
 msgid "[CONTAINS:lye]"
-msgstr "[CONTÉM: soda cáustica]"
+msgstr "[CONTAINS:barrela]"
 
 #: reaction_other.txt:34
 msgctxt "REACTION:MAKE_SOAP_FROM_TALLOW"
@@ -56019,17 +56018,17 @@ msgstr "[NAME: fazer sabão a partir de óleo]"
 #: reaction_other.txt:43
 msgctxt "REACTION:MAKE_SOAP_FROM_OIL"
 msgid "[REAGENT:lye:]"
-msgstr "[Reagente: soda cáustica:]"
+msgstr "[REAGENT:barrela:]"
 
 #: reaction_other.txt:44
 msgctxt "REACTION:MAKE_SOAP_FROM_OIL"
 msgid "[REAGENT:lye container:]"
-msgstr "[Reagente: recipiente soda cáustica:]"
+msgstr "[REAGENT:recipiente para barrela:]"
 
 #: reaction_other.txt:45
 msgctxt "REACTION:MAKE_SOAP_FROM_OIL"
 msgid "[CONTAINS:lye]"
-msgstr "[CONTÉM: soda cáustica]"
+msgstr "[CONTAINS:barrela]"
 
 #: reaction_other.txt:48
 msgctxt "REACTION:MAKE_SOAP_FROM_OIL"

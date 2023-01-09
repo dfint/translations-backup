@@ -73,15 +73,15 @@
 # Spox, 2022
 # Bruno Fernandes, 2022
 # pedro888oGoiano <pedrogabriel888@gmail.com>, 2022
-# Alexandre Hernandes, 2022
 # Enzo Azevedo, 2022
 # Welinson U. de Araújo, 2022
 # Patinho <jv0888854@gmail.com>, 2022
 # Pedro Pedrin, 2022
+# Alexandre Hernandes, 2023
 # 
 msgid ""
 msgstr ""
-"Last-Translator: Pedro Pedrin, 2022\n"
+"Last-Translator: Alexandre Hernandes, 2023\n"
 "Language-Team: Portuguese (Brazil) (https://www.transifex.com/dwarf-fortress-translation/teams/22396/pt_BR/)\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -12464,7 +12464,7 @@ msgstr "Itens..."
 
 #: stringdump_steam_2022_12_06.txt:2945
 msgid "Tissue templates..."
-msgstr "Modelos de tecido..."
+msgstr "Modelos de tecidos..."
 
 #: stringdump_steam_2022_12_06.txt:2946
 msgid "Plants..."
@@ -12532,7 +12532,7 @@ msgstr "Finalizar itens..."
 
 #: stringdump_steam_2022_12_06.txt:2962
 msgid "Finalizing tissue templates..."
-msgstr "Finalizando a modelos de tecido..."
+msgstr "Finalizando modelos de tecidos..."
 
 #: stringdump_steam_2022_12_06.txt:2963
 msgid "Finalizing plants..."
@@ -19122,7 +19122,7 @@ msgid ""
 "Used to make lye, potash, and milk of lime.  Construction requires blocks, "
 "barrel, and a bucket."
 msgstr ""
-"Usado para fazer lixívia, potassa e leite de cal. A construção requer "
+"Usado para fazer barrela, potássio e cal hidratada.  A construção requer "
 "blocos, barril e um balde."
 
 #: stringdump_steam_2022_12_06.txt:4640
@@ -46332,7 +46332,7 @@ msgstr "a consolar"
 
 #: stringdump_steam_2022_12_06.txt:13793
 msgid "Lye Making"
-msgstr "Fabricação de Lixívia"
+msgstr "Fabricação de Barrela"
 
 #: stringdump_steam_2022_12_06.txt:13794
 msgid "Potash Making"
@@ -46828,7 +46828,7 @@ msgstr "Coureiro(a)"
 
 #: stringdump_steam_2022_12_06.txt:13917
 msgid "Lye Maker"
-msgstr "Fabricante de Lixívia"
+msgstr "Produtor de Barrela"
 
 #: stringdump_steam_2022_12_06.txt:13918
 msgid "Potash Maker"
@@ -47520,7 +47520,7 @@ msgstr "Classificando itens..."
 
 #: stringdump_steam_2022_12_06.txt:14456
 msgid "Sorting tissue templates..."
-msgstr "Classificação de modelos de tecido..."
+msgstr "Ordenando modelos de tecidos..."
 
 #: stringdump_steam_2022_12_06.txt:14457
 msgid "Sorting interactions..."
@@ -49035,7 +49035,7 @@ msgstr "terminou bem"
 
 #: stringdump_steam_2022_12_06.txt:15212
 msgid "lye-bearing "
-msgstr "portador de lixívia"
+msgstr "recipiente de barrela "
 
 #: stringdump_steam_2022_12_06.txt:15213
 msgid "milk "
@@ -49079,7 +49079,7 @@ msgstr "Marfim/dente"
 
 #: stringdump_steam_2022_12_06.txt:15223
 msgid "lye/milk-free "
-msgstr "sem lixívia/leite"
+msgstr "barrela/sem cal "
 
 #: stringdump_steam_2022_12_06.txt:15224
 msgid "plaster-containing "
@@ -49189,7 +49189,7 @@ msgstr "tornou-se um"
 
 #: stringdump_steam_2022_12_06.txt:15250
 msgid "extract-bearing small creature "
-msgstr "pequena criatura extrato-rolamento"
+msgstr "recipiente de extrato de pequenas criaturas "
 
 #: stringdump_steam_2022_12_06.txt:15251
 msgid "processable (to vial) "
@@ -49197,15 +49197,15 @@ msgstr "processável (de frasco)"
 
 #: stringdump_steam_2022_12_06.txt:15252
 msgid "extract-bearing plant "
-msgstr "planta de extrato-rolamento"
+msgstr "recipiente de extrato de planta "
 
 #: stringdump_steam_2022_12_06.txt:15253
 msgid "extract-bearing fish "
-msgstr "extrato-rolamento peixe"
+msgstr "recipiente de extrato de peixe "
 
 #: stringdump_steam_2022_12_06.txt:15254
 msgid "sand-bearing "
-msgstr "areia-rolamento"
+msgstr "recipiente de areia "
 
 #: stringdump_steam_2022_12_06.txt:15255
 msgid "glass "
@@ -49257,7 +49257,7 @@ msgstr "produzindo pergaminhos"
 
 #: stringdump_steam_2022_12_06.txt:15269
 msgid "honey-bearing "
-msgstr "portador de mel"
+msgstr "recipiente de mel "
 
 #: stringdump_steam_2022_12_06.txt:15271
 msgid "paper-slurryable "
@@ -49265,7 +49265,7 @@ msgstr "papel pastoso"
 
 #: stringdump_steam_2022_12_06.txt:15273
 msgid "oil-bearing "
-msgstr "oleoso"
+msgstr "recipiente de óleo "
 
 #: stringdump_steam_2022_12_06.txt:15275
 msgid "bag-processable "
@@ -49437,7 +49437,7 @@ msgstr "gema "
 
 #: stringdump_steam_2022_12_06.txt:15323
 msgid "-bearing "
-msgstr "interno"
+msgstr "-recipiente "
 
 #: stringdump_steam_2022_12_06.txt:15324
 msgid "wooden "
@@ -60092,7 +60092,7 @@ msgstr "Moinho"
 
 #: stringdump_steam_2022_12_06.txt:19279
 msgid "Rendered Fat"
-msgstr "gordura fundida"
+msgstr "Gordura Processada"
 
 #: stringdump_steam_2022_12_06.txt:19280
 msgid "Pressed Material"
@@ -61329,7 +61329,7 @@ msgstr "fazer queijo"
 
 #: stringdump_steam_2022_12_06.txt:19703
 msgid "Make lye"
-msgstr "Fazer lixívia"
+msgstr "Produzir barrela"
 
 #: stringdump_steam_2022_12_06.txt:19704
 msgid "Process plants (barrel)"
@@ -61341,7 +61341,7 @@ msgstr "Faça potassa a partir de cinzas"
 
 #: stringdump_steam_2022_12_06.txt:19706
 msgid "Make potash from lye"
-msgstr "Faça potassa a partir de lixívia"
+msgstr "Produzir potássio a partir de barrela"
 
 #: stringdump_steam_2022_12_06.txt:19707
 msgid "Prepare fine meal"
@@ -63001,11 +63001,11 @@ msgstr "colar de sujeira"
 
 #: stringdump_steam_2022_12_06.txt:21604
 msgid "frozen lye powder"
-msgstr "pó de lixívia congelada"
+msgstr "raspa de barrela congelada"
 
 #: stringdump_steam_2022_12_06.txt:21605
 msgid "frozen lye"
-msgstr "lixívia congelada"
+msgstr "barrela congelada"
 
 #: stringdump_steam_2022_12_06.txt:21606
 msgid "pressed pearlash"
@@ -63021,15 +63021,15 @@ msgstr "lama"
 
 #: stringdump_steam_2022_12_06.txt:21609
 msgid "boiling lye"
-msgstr "lixívia fervente"
+msgstr "barrela fervente"
 
 #: stringdump_steam_2022_12_06.txt:21610
 msgid "lye"
-msgstr "lixívia"
+msgstr "barrela"
 
 #: stringdump_steam_2022_12_06.txt:21611
 msgid "lye slush"
-msgstr "lodo de lixívia"
+msgstr "lodo de barrela"
 
 #: stringdump_steam_2022_12_06.txt:21612
 msgid "vomit"
@@ -90372,7 +90372,7 @@ msgstr "fabricante de potassa"
 
 #: stringdump_steam_2022_12_06.txt:36743
 msgid "lye maker"
-msgstr "fabricante de lixívia"
+msgstr "produtor de barrela"
 
 #: stringdump_steam_2022_12_06.txt:36744
 msgid "siege operator"
@@ -90412,7 +90412,7 @@ msgstr "cervejeiro"
 
 #: stringdump_steam_2022_12_06.txt:36753
 msgid "soap maker"
-msgstr "fabricante de sabao"
+msgstr "saboeiro"
 
 #: stringdump_steam_2022_12_06.txt:36754
 msgid "planter"
@@ -90580,7 +90580,7 @@ msgstr "Trabalhador da Pesca"
 
 #: stringdump_steam_2022_12_06.txt:36795
 msgid "Soap Maker"
-msgstr "Fabricante de Sabao"
+msgstr "Saboeiro"
 
 #: stringdump_steam_2022_12_06.txt:36796
 msgid "Metalcrafter"
