@@ -31,13 +31,15 @@
 # 颂 葛, 2023
 # whfnet <whfnet@gmail.com>, 2023
 # 奥里给大菠萝, 2023
-# wimpykid wimpykid, 2023
-# zizi ma, 2023
 # Disk 磁盘 <disk@magictea.cc>, 2023
+# zizi ma, 2023
+# Yupeng Wu, 2023
+# yan zhong, 2023
+# wimpykid wimpykid, 2023
 # 
 msgid ""
 msgstr ""
-"Last-Translator: Disk 磁盘 <disk@magictea.cc>, 2023\n"
+"Last-Translator: wimpykid wimpykid, 2023\n"
 "Language-Team: Chinese Simplified (https://www.transifex.com/dwarf-fortress-translation/teams/22396/zh-Hans/)\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -12478,12 +12480,12 @@ msgstr "[ATTACK_VERB:挠:挠]"
 #: creature_domestic.txt:1293
 msgctxt "CREATURE:CAVY"
 msgid "[CASTE_NAME:cavy sow:cavy sows:cavy sow]"
-msgstr "[CASTE_NAME:母豚鼠:母豚鼠:母豚鼠]"
+msgstr "[CASTE_NAME:雌豚鼠:雌豚鼠:雌豚鼠]"
 
 #: creature_domestic.txt:1296
 msgctxt "CREATURE:CAVY"
 msgid "[CASTE_NAME:cavy boar:cavy boars:cavy boar]"
-msgstr "[CASTE_NAME:公豚鼠:公豚鼠:公豚鼠]"
+msgstr "[CASTE_NAME:雄豚鼠:雄豚鼠:雄豚鼠]"
 
 #: creature_domestic.txt:1302
 msgctxt "CREATURE:CAVY"
@@ -17538,7 +17540,7 @@ msgstr "[CASTE_NAME:狐女:狐女:狐女]"
 #: creature_large_temperate.txt:588
 msgctxt "CREATURE:FOX_MAN"
 msgid "[NAME:fox man:fox men:fox man]"
-msgstr "[NAME:狐男:狐男:狐男]"
+msgstr "[NAME:狐人:狐人:狐人]"
 
 #: creature_large_temperate.txt:589
 msgctxt "CREATURE:FOX_MAN"
@@ -17636,7 +17638,7 @@ msgstr "[CASTE_NAME:浣熊女:浣熊女:浣熊女]"
 #: creature_large_temperate.txt:737
 msgctxt "CREATURE:RACCOON_MAN"
 msgid "[NAME:raccoon man:raccoon men:raccoon man]"
-msgstr "[NAME:浣熊男:浣熊男:浣熊男]"
+msgstr "[NAME:浣熊人:浣熊人:浣熊人]"
 
 #: creature_large_temperate.txt:738
 msgctxt "CREATURE:RACCOON_MAN"
@@ -18420,33 +18422,33 @@ msgstr "[SOUND:ALERT:100:1000:VOCALIZATION:叫声:叫声:很大的叫声]"
 msgctxt "CREATURE:CAPYBARA"
 msgid ""
 "[SOUND:PEACEFUL_INTERMITTENT:100:10000:VOCALIZATION:whistle:whistles:whistling]"
-msgstr ""
+msgstr "[SOUND:PEACEFUL_INTERMITTENT:100:10000:VOCALIZATION:啸叫:啸叫:啸叫声]"
 
 #: creature_large_temperate.txt:1919
 msgctxt "CREATURE:CAPYBARA"
 msgid ""
 "[SOUND:PEACEFUL_INTERMITTENT:25:10000:VOCALIZATION:grunt:grunts:a grunt]"
-msgstr ""
+msgstr "[SOUND:PEACEFUL_INTERMITTENT:25:10000:VOCALIZATION:打呼噜:打呼噜:呼噜声]"
 
 #: creature_large_temperate.txt:1920
 msgctxt "CREATURE:CAPYBARA"
 msgid "[SOUND:PEACEFUL_INTERMITTENT:5:10000:VOCALIZATION:purr:purrs:a purr]"
-msgstr ""
+msgstr "[SOUND:PEACEFUL_INTERMITTENT:5:10000:VOCALIZATION:咕噜:咕噜:咕噜声]"
 
 #: creature_large_temperate.txt:1921
 msgctxt "CREATURE:CAPYBARA"
 msgid "[SOUND:PEACEFUL_INTERMITTENT:25:10000:NONE:click:clicks:a click]"
-msgstr ""
+msgstr "[SOUND:PEACEFUL_INTERMITTENT:25:10000:NONE:咔哒:咔哒:咔哒声]"
 
 #: creature_large_temperate.txt:1922
 msgctxt "CREATURE:CAPYBARA"
 msgid "[PREFSTRING:enormous rodentness]"
-msgstr ""
+msgstr "[PREFSTRING:巨型啮齿动物]"
 
 #: creature_large_temperate.txt:1923
 msgctxt "CREATURE:CAPYBARA"
 msgid "[PREFSTRING:graceful swimming]"
-msgstr ""
+msgstr "[PREFSTRING:优雅的游泳]"
 
 #: creature_large_temperate.txt:1924
 msgctxt "CREATURE:CAPYBARA"
@@ -18510,35 +18512,35 @@ msgctxt "CREATURE:CAPYBARA, GIANT"
 msgid ""
 "[SOUND:PEACEFUL_INTERMITTENT:200:10000:VOCALIZATION:whistle:whistles:deep "
 "whistling]"
-msgstr ""
+msgstr "[SOUND:PEACEFUL_INTERMITTENT:200:10000:VOCALIZATION:啸叫:啸叫:低沉的啸叫声]"
 
 #: creature_large_temperate.txt:2021
 msgctxt "CREATURE:CAPYBARA, GIANT"
 msgid ""
 "[SOUND:PEACEFUL_INTERMITTENT:50:10000:VOCALIZATION:grunt:grunts:a loud "
 "grunt]"
-msgstr ""
+msgstr "[SOUND:PEACEFUL_INTERMITTENT:50:10000:VOCALIZATION:打呼噜:打呼噜:响亮的呼噜声]"
 
 #: creature_large_temperate.txt:2022
 msgctxt "CREATURE:CAPYBARA, GIANT"
 msgid ""
 "[SOUND:PEACEFUL_INTERMITTENT:5:10000:VOCALIZATION:purr:purrs:a deep purr]"
-msgstr ""
+msgstr "[SOUND:PEACEFUL_INTERMITTENT:5:10000:VOCALIZATION:咕噜:咕噜:低沉的咕噜声]"
 
 #: creature_large_temperate.txt:2023
 msgctxt "CREATURE:CAPYBARA, GIANT"
 msgid "[SOUND:PEACEFUL_INTERMITTENT:50:10000:NONE:click:clicks:a loud click]"
-msgstr ""
+msgstr "[SOUND:PEACEFUL_INTERMITTENT:50:10000:NONE:咔哒:咔哒:响亮的咔哒声]"
 
 #: creature_large_temperate.txt:2024
 msgctxt "CREATURE:CAPYBARA, GIANT"
 msgid "[PREFSTRING:beyond enormous rodentness]"
-msgstr ""
+msgstr "[PREFSTRING:超巨大型啮齿动物]"
 
 #: creature_large_temperate.txt:2025
 msgctxt "CREATURE:CAPYBARA, GIANT"
 msgid "[PREFSTRING:graceful swimming]"
-msgstr ""
+msgstr "[PREFSTRING:优雅的游泳]"
 
 #: creature_large_temperate.txt:2026
 msgctxt "CREATURE:CAPYBARA, GIANT"
@@ -18607,12 +18609,12 @@ msgstr "[ATTACK_VERB:抓:抓]"
 #: creature_large_temperate.txt:2149
 msgctxt "CREATURE:BADGER"
 msgid "[CASTE_NAME:badger sow:badger sows:badger sow]"
-msgstr "[CASTE_NAME:母獾:母獾:母獾]"
+msgstr "[CASTE_NAME:雌獾:雌獾:雌獾]"
 
 #: creature_large_temperate.txt:2153
 msgctxt "CREATURE:BADGER"
 msgid "[CASTE_NAME:badger boar:badger boars:badger boar]"
-msgstr "[CASTE_NAME:公獾:公獾:公獾]"
+msgstr "[CASTE_NAME:雄獾:雄獾:雄獾]"
 
 #: creature_large_temperate.txt:2160
 msgctxt "CREATURE:BADGER"
@@ -18679,12 +18681,12 @@ msgstr "[DESCRIPTION:一只巨大的獾怪。在战斗时十分凶猛。]"
 #: creature_large_temperate.txt:2239
 msgctxt "CREATURE:BADGER, GIANT"
 msgid "[CASTE_NAME:giant badger boar:giant badger boars:giant badger boar]"
-msgstr "[CASTE_NAME:巨公獾:巨公獾:巨公獾]"
+msgstr "[CASTE_NAME:巨雄獾:巨雄獾:巨雄獾]"
 
 #: creature_large_temperate.txt:2241
 msgctxt "CREATURE:BADGER, GIANT"
 msgid "[CASTE_NAME:giant badger sow:giant badger sows:giant badger sow]"
-msgstr "[CASTE_NAME:巨母獾:巨母獾:巨母獾]"
+msgstr "[CASTE_NAME:巨雌獾:巨雌獾:巨雌獾]"
 
 #: creature_large_temperate.txt:2243
 msgctxt "CREATURE:BADGER, GIANT"
@@ -18706,12 +18708,12 @@ msgctxt "CREATURE:MOOSE"
 msgid ""
 "[DESCRIPTION:A large mammal with great antlers and a large nose. It lives in"
 " temperate forests.]"
-msgstr ""
+msgstr "[DESCRIPTION:一种长着巨大鹿角和鼻子的大型哺乳生物。它栖息于温带森林。]"
 
 #: creature_large_temperate.txt:2258
 msgctxt "CREATURE:MOOSE"
 msgid "[NAME:moose:moose:moose]"
-msgstr ""
+msgstr "[NAME:驼鹿:驼鹿:驼鹿]"
 
 #: creature_large_temperate.txt:2259
 msgctxt "CREATURE:MOOSE"
@@ -18721,52 +18723,52 @@ msgstr "[GENERAL_CHILD_NAME:麋鹿幼崽:麋鹿幼崽]"
 #: creature_large_temperate.txt:2263
 msgctxt "CREATURE:MOOSE"
 msgid "[PREFSTRING:large size]"
-msgstr ""
+msgstr "[PREFSTRING:大体型]"
 
 #: creature_large_temperate.txt:2264
 msgctxt "CREATURE:MOOSE"
 msgid "[PREFSTRING:broad antlers]"
-msgstr ""
+msgstr "[PREFSTRING:宽鹿角]"
 
 #: creature_large_temperate.txt:2282
 msgctxt "CREATURE:MOOSE"
 msgid "[CASTE_NAME:cow moose:cow moose:cow moose]"
-msgstr ""
+msgstr "[CASTE_NAME:母驼鹿:母驼鹿:母驼鹿]"
 
 #: creature_large_temperate.txt:2291
 msgctxt "CREATURE:MOOSE"
 msgid "[CASTE_NAME:bull moose:bull moose:bull moose]"
-msgstr ""
+msgstr "[CASTE_NAME:公驼鹿:公驼鹿:公驼鹿]"
 
 #: creature_large_temperate.txt:2296
 msgctxt "CREATURE:MOOSE"
 msgid "[ATTACK_VERB:gore:gores]"
-msgstr ""
+msgstr "[ATTACK_VERB:顶:顶]"
 
 #: creature_large_temperate.txt:2308
 msgctxt "CREATURE:MOOSE"
 msgid "[ATTACK_VERB:kick:kicks]"
-msgstr ""
+msgstr "[ATTACK_VERB:踢:踢]"
 
 #: creature_large_temperate.txt:2324
 msgctxt "CREATURE:MOOSE"
 msgid "[ATTACK_VERB:bite:bites]"
-msgstr ""
+msgstr "[ATTACK_VERB:咬:咬]"
 
 #: creature_large_temperate.txt:2334
 msgctxt "CREATURE:MOOSE"
 msgid "[STATE_NAME:ALL_SOLID:antler]"
-msgstr ""
+msgstr "[STATE_NAME:ALL_SOLID:鹿角]"
 
 #: creature_large_temperate.txt:2335
 msgctxt "CREATURE:MOOSE"
 msgid "[STATE_ADJ:ALL_SOLID:antler]"
-msgstr ""
+msgstr "[STATE_ADJ:ALL_SOLID:鹿角的]"
 
 #: creature_large_temperate.txt:2340
 msgctxt "CREATURE:MOOSE"
 msgid "[TISSUE_NAME:antler:NP]"
-msgstr ""
+msgstr "[TISSUE_NAME:鹿角:NP]"
 
 #: creature_large_temperate.txt:2364
 msgctxt "CREATURE:MOOSE"
@@ -18776,37 +18778,37 @@ msgstr "[TLCM_NOUN:毛发:SINGULAR]"
 #: creature_large_temperate.txt:2367
 msgctxt "CREATURE:MOOSE"
 msgid "[TLCM_NOUN:skin:SINGULAR]"
-msgstr ""
+msgstr "[TLCM_NOUN:毛皮:SINGULAR]"
 
 #: creature_large_temperate.txt:2370
 msgctxt "CREATURE:MOOSE"
 msgid "[TLCM_NOUN:eyes:PLURAL]"
-msgstr ""
+msgstr "[TLCM_NOUN:眼睛:PLURAL]"
 
 #: creature_large_temperate.txt:2381
 msgctxt "CREATURE:MOOSE MAN"
 msgid "[CASTE_NAME:moose man:moose men:moose man]"
-msgstr ""
+msgstr "[CASTE_NAME:驼鹿男:驼鹿男:驼鹿男]"
 
 #: creature_large_temperate.txt:2383
 msgctxt "CREATURE:MOOSE MAN"
 msgid "[CASTE_NAME:moose woman:moose women:moose woman]"
-msgstr ""
+msgstr "[CASTE_NAME:驼鹿女:驼鹿女:驼鹿女]"
 
 #: creature_large_temperate.txt:2394
 msgctxt "CREATURE:MOOSE MAN"
 msgid "[NAME:moose man:moose men:moose man]"
-msgstr ""
+msgstr "[NAME:驼鹿人:驼鹿人:驼鹿人]"
 
 #: creature_large_temperate.txt:2395
 msgctxt "CREATURE:MOOSE MAN"
 msgid "[DESCRIPTION:A humanoid with the head and antlers of a moose.]"
-msgstr ""
+msgstr "[DESCRIPTION:一个长着驼鹿头和鹿角的人。]"
 
 #: creature_large_temperate.txt:2410
 msgctxt "CREATURE:MOOSE, GIANT"
 msgid "[NAME:giant moose:giant moose:giant moose]"
-msgstr ""
+msgstr "[NAME:巨驼鹿:巨驼鹿:巨驼鹿]"
 
 #: creature_large_temperate.txt:2411
 msgctxt "CREATURE:MOOSE, GIANT"
@@ -18821,84 +18823,84 @@ msgstr "[DESCRIPTION:一只巨大的驼鹿怪。]"
 #: creature_large_temperate.txt:2422
 msgctxt "CREATURE:MOOSE, GIANT"
 msgid "[CASTE_NAME:giant moose cow:giant moose cows:giant moose cow]"
-msgstr ""
+msgstr "[CASTE_NAME:巨母驼鹿:巨母驼鹿:巨母驼鹿]"
 
 #: creature_large_temperate.txt:2424
 msgctxt "CREATURE:MOOSE, GIANT"
 msgid "[CASTE_NAME:giant moose bull:giant moose bulls:giant moose bull]"
-msgstr ""
+msgstr "[CASTE_NAME:巨公驼鹿:巨公驼鹿:巨公驼鹿]"
 
 #: creature_large_temperate.txt:2426
 msgctxt "CREATURE:MOOSE, GIANT"
 msgid "[PREFSTRING:great size]"
-msgstr ""
+msgstr "[PREFSTRING:巨大的体型]"
 
 #: creature_large_temperate.txt:2427
 msgctxt "CREATURE:MOOSE, GIANT"
 msgid "[PREFSTRING:broad antlers]"
-msgstr ""
+msgstr "[PREFSTRING:宽鹿角]"
 
 #: creature_large_temperate.txt:2440
 msgctxt "CREATURE:RED PANDA"
 msgid ""
 "[DESCRIPTION:A small tree-dwelling mammal with distinctive color.  It rears "
 "up on its hind legs when cornered.  It uses its front paws like hands.]"
-msgstr ""
+msgstr "[DESCRIPTION:一种颜色鲜明的小型树栖哺乳动物。它在被逼到走投无路时会用它的后足腾跃而起。它前爪用得像手一般。]"
 
 #: creature_large_temperate.txt:2441
 msgctxt "CREATURE:RED PANDA"
 msgid "[NAME:red panda:red pandas:red panda]"
-msgstr ""
+msgstr "[NAME:小熊猫:小熊猫:小熊猫]"
 
 #: creature_large_temperate.txt:2442
 msgctxt "CREATURE:RED PANDA"
 msgid "[GENERAL_CHILD_NAME:red panda cub:red panda cubs]"
-msgstr "[GENERAL_CHILD_NAME:红熊猫幼崽:红熊猫幼崽]"
+msgstr "[GENERAL_CHILD_NAME:小熊猫幼崽:小熊猫幼崽]"
 
 #: creature_large_temperate.txt:2458
 msgctxt "CREATURE:RED PANDA"
 msgid "[PREFSTRING:large striped tails]"
-msgstr ""
+msgstr "[PREFSTRING:大斑纹尾巴]"
 
 #: creature_large_temperate.txt:2495
 msgctxt "CREATURE:RED PANDA"
 msgid "[ATTACK_VERB:bite:bites]"
-msgstr ""
+msgstr "[ATTACK_VERB:咬:咬]"
 
 #: creature_large_temperate.txt:2504
 msgctxt "CREATURE:RED PANDA"
 msgid "[ATTACK_VERB:scratch:scratches]"
-msgstr ""
+msgstr "[ATTACK_VERB:抓:抓]"
 
 #: creature_large_temperate.txt:2511
 msgctxt "CREATURE:RED PANDA"
 msgid "[CDI:ADV_NAME:Clean]"
-msgstr ""
+msgstr "[CDI:ADV_NAME:清洁]"
 
 #: creature_large_temperate.txt:2515
 msgctxt "CREATURE:RED PANDA"
 msgid "[CDI:VERB:lick:licks:lick each other]"
-msgstr ""
+msgstr "[CDI:VERB:舔:舔:相互舔舐]"
 
 #: creature_large_temperate.txt:2522
 msgctxt "CREATURE:RED PANDA"
 msgid "[CDI:ADV_NAME:Head bump]"
-msgstr ""
+msgstr "[CDI:ADV_NAME:头撞]"
 
 #: creature_large_temperate.txt:2525
 msgctxt "CREATURE:RED PANDA"
 msgid "[CDI:VERB:head-bump:head-bumps:bump heads]"
-msgstr ""
+msgstr "[CDI:VERB:头撞:头撞:撞头]"
 
 #: creature_large_temperate.txt:2544
 msgctxt "CREATURE:RED PANDA"
 msgid "[CASTE_NAME:red panda sow:red panda sows:red panda sow]"
-msgstr ""
+msgstr "[CASTE_NAME:雌小熊猫:雌小熊猫:雌小熊猫]"
 
 #: creature_large_temperate.txt:2548
 msgctxt "CREATURE:RED PANDA"
 msgid "[CASTE_NAME:red panda boar:red panda boars:red panda boar]"
-msgstr ""
+msgstr "[CASTE_NAME:雄小熊猫:雄小熊猫:雄小熊猫]"
 
 #: creature_large_temperate.txt:2553
 msgctxt "CREATURE:RED PANDA"
@@ -18908,37 +18910,37 @@ msgstr "[TLCM_NOUN:毛发:SINGULAR]"
 #: creature_large_temperate.txt:2560
 msgctxt "CREATURE:RED PANDA"
 msgid "[TLCM_NOUN:legs:PLURAL]"
-msgstr ""
+msgstr "[TLCM_NOUN:腿部:PLURAL]"
 
 #: creature_large_temperate.txt:2565
 msgctxt "CREATURE:RED PANDA"
 msgid "[TLCM_NOUN:head and tail:PLURAL]"
-msgstr ""
+msgstr "[TLCM_NOUN:头和尾巴:PLURAL]"
 
 #: creature_large_temperate.txt:2568
 msgctxt "CREATURE:RED PANDA"
 msgid "[TLCM_NOUN:skin:SINGULAR]"
-msgstr ""
+msgstr "[TLCM_NOUN:毛皮:SINGULAR]"
 
 #: creature_large_temperate.txt:2571
 msgctxt "CREATURE:RED PANDA"
 msgid "[TLCM_NOUN:eyes:PLURAL]"
-msgstr ""
+msgstr "[TLCM_NOUN:眼睛:PLURAL]"
 
 #: creature_large_temperate.txt:2578
 msgctxt "CREATURE:RED PANDA MAN"
 msgid "[CASTE_NAME:red panda man:red panda men:red panda man]"
-msgstr ""
+msgstr "[CASTE_NAME:小熊猫男:小熊猫男:小熊猫男]"
 
 #: creature_large_temperate.txt:2580
 msgctxt "CREATURE:RED PANDA MAN"
 msgid "[CASTE_NAME:red panda woman:red panda women:red panda woman]"
-msgstr ""
+msgstr "[CASTE_NAME:小熊猫女:小熊猫女:小熊猫女]"
 
 #: creature_large_temperate.txt:2591
 msgctxt "CREATURE:RED PANDA MAN"
 msgid "[NAME:red panda man:red panda men:red panda man]"
-msgstr ""
+msgstr "[NAME:小熊猫人:小熊猫人:小熊猫人]"
 
 #: creature_large_temperate.txt:2592
 msgctxt "CREATURE:RED PANDA MAN"
@@ -18946,38 +18948,40 @@ msgid ""
 "[DESCRIPTION:A medium-sized, walking red panda with arms and a tail.  It "
 "prefers the forest and its beloved trees.]"
 msgstr ""
+"[DESCRIPTION:一只中等大小、会走路、有胳膊和尾巴的小熊猫。它喜欢森林和它心爱的树木。]\n"
+" "
 
 #: creature_large_temperate.txt:2621
 msgctxt "CREATURE:RED PANDA, GIANT"
 msgid "[NAME:giant red panda:giant red pandas:giant red panda]"
-msgstr ""
+msgstr "[NAME:巨型小熊猫:巨型小熊猫:巨型小熊猫]"
 
 #: creature_large_temperate.txt:2622
 msgctxt "CREATURE:RED PANDA, GIANT"
 msgid "[GENERAL_CHILD_NAME:giant red panda cub:giant red panda cubs]"
-msgstr "[GENERAL_CHILD_NAME:巨红熊猫幼崽:巨红熊猫幼崽]"
+msgstr "[GENERAL_CHILD_NAME:巨小熊猫幼崽:巨小熊猫幼崽]"
 
 #: creature_large_temperate.txt:2623
 msgctxt "CREATURE:RED PANDA, GIANT"
 msgid "[DESCRIPTION:A large monster with the shape of a red panda.]"
-msgstr ""
+msgstr "[DESCRIPTION:一只有着小熊猫外形的大型怪物。]"
 
 #: creature_large_temperate.txt:2633
 msgctxt "CREATURE:RED PANDA, GIANT"
 msgid ""
 "[CASTE_NAME:giant red panda boar:giant red panda boars:giant red panda boar]"
-msgstr ""
+msgstr "[CASTE_NAME:巨雄小熊猫:巨雄小熊猫:巨雄小熊猫]"
 
 #: creature_large_temperate.txt:2635
 msgctxt "CREATURE:RED PANDA, GIANT"
 msgid ""
 "[CASTE_NAME:giant red panda sow:giant red panda sows:giant red panda sow]"
-msgstr ""
+msgstr "[CASTE_NAME:巨雌小熊猫:巨雌小熊猫:巨雌小熊猫]"
 
 #: creature_large_temperate.txt:2637
 msgctxt "CREATURE:RED PANDA, GIANT"
 msgid "[PREFSTRING:large striped tails]"
-msgstr ""
+msgstr "[PREFSTRING:带条纹的大尾巴]"
 
 #: creature_large_tropical.txt:6
 msgctxt "CREATURE:ELEPHANT"
@@ -18990,12 +18994,12 @@ msgstr "[DESCRIPTION:一种大型的无毛哺乳动物，常在草原群居。�
 #: creature_large_tropical.txt:7
 msgctxt "CREATURE:ELEPHANT"
 msgid "[NAME:elephant:elephants:elephant]"
-msgstr ""
+msgstr "[NAME:大象:大象:大象]"
 
 #: creature_large_tropical.txt:8
 msgctxt "CREATURE:ELEPHANT"
 msgid "[CASTE_NAME:elephant:elephants:elephant]"
-msgstr ""
+msgstr "[CASTE_NAME:大象:大象:大象]"
 
 #: creature_large_tropical.txt:9
 msgctxt "CREATURE:ELEPHANT"
@@ -19020,7 +19024,7 @@ msgstr ""
 #: creature_large_tropical.txt:27
 msgctxt "CREATURE:ELEPHANT"
 msgid "[PREFSTRING:tusks]"
-msgstr ""
+msgstr "[PREFSTRING:象牙]"
 
 #: creature_large_tropical.txt:28
 msgctxt "CREATURE:ELEPHANT"
@@ -19035,7 +19039,7 @@ msgstr ""
 #: creature_large_tropical.txt:30
 msgctxt "CREATURE:ELEPHANT"
 msgid "[PREFSTRING:flappy ears]"
-msgstr ""
+msgstr "[PREFSTRING:垂耳]"
 
 #: creature_large_tropical.txt:31
 msgctxt "CREATURE:ELEPHANT"
@@ -19070,7 +19074,7 @@ msgstr ""
 #: creature_large_tropical.txt:40
 msgctxt "CREATURE:ELEPHANT"
 msgid "[STATE_ADJ:ALL_SOLID:ivory]"
-msgstr ""
+msgstr "[STATE_ADJ:ALL_SOLID:象牙制的]"
 
 #: creature_large_tropical.txt:43
 msgctxt "CREATURE:ELEPHANT"
@@ -19090,42 +19094,42 @@ msgstr ""
 #: creature_large_tropical.txt:98
 msgctxt "CREATURE:ELEPHANT"
 msgid "[TLCM_NOUN:skin:SINGULAR]"
-msgstr ""
+msgstr "[TLCM_NOUN:皮:SINGULAR]"
 
 #: creature_large_tropical.txt:101
 msgctxt "CREATURE:ELEPHANT"
 msgid "[TLCM_NOUN:eyes:PLURAL]"
-msgstr ""
+msgstr "[TLCM_NOUN:眼睛:PLURAL]"
 
 #: creature_large_tropical.txt:110
 msgctxt "CREATURE:ELEPHANT_MAN"
 msgid "[CASTE_NAME:elephant man:elephant men:elephant man]"
-msgstr ""
+msgstr "[CASTE_NAME:大象男:大象男:大象男]"
 
 #: creature_large_tropical.txt:112
 msgctxt "CREATURE:ELEPHANT_MAN"
 msgid "[CASTE_NAME:elephant woman:elephant women:elephant woman]"
-msgstr ""
+msgstr "[CASTE_NAME:大象女:大象女:大象女]"
 
 #: creature_large_tropical.txt:124
 msgctxt "CREATURE:ELEPHANT_MAN"
 msgid "[NAME:elephant man:elephant men:elephant man]"
-msgstr ""
+msgstr "[NAME:大象人:大象人:大象人]"
 
 #: creature_large_tropical.txt:125
 msgctxt "CREATURE:ELEPHANT_MAN"
 msgid "[DESCRIPTION:A large person with the trunk and ears of an elephant.]"
-msgstr ""
+msgstr "[DESCRIPTION:一个长着大象鼻子和耳朵的人。]"
 
 #: creature_large_tropical.txt:145
 msgctxt "CREATURE:GIANT_ELEPHANT"
 msgid "[NAME:giant elephant:giant elephants:giant elephant]"
-msgstr ""
+msgstr "[NAME:巨象:巨象:巨象]"
 
 #: creature_large_tropical.txt:146
 msgctxt "CREATURE:GIANT_ELEPHANT"
 msgid "[CASTE_NAME:giant elephant:giant elephants:giant elephant]"
-msgstr ""
+msgstr "[CASTE_NAME:巨象:巨象:巨象]"
 
 #: creature_large_tropical.txt:147
 msgctxt "CREATURE:GIANT_ELEPHANT"
@@ -19600,7 +19604,7 @@ msgctxt "CREATURE:GIANT_JAGUAR"
 msgid ""
 "[DESCRIPTION:A gigantic feline predator, similar to its cousins in all but "
 "size.  It can be found in the savage wilderness.]"
-msgstr ""
+msgstr "[DESCRIPTION:一种巨大的猫科掠食者，与它的近亲体型相似。它可以在野蛮荒野中被找到。]"
 
 #: creature_large_tropical.txt:777
 msgctxt "CREATURE:GIANT_JAGUAR"
@@ -19612,7 +19616,7 @@ msgctxt "CREATURE:TIGER"
 msgid ""
 "[DESCRIPTION:A huge, striped predator.  It is found in almost any climate on"
 " a lone hunt for its prey.]"
-msgstr ""
+msgstr "[DESCRIPTION:长有条纹的大型掠食者。几乎在任何气候下都能发现它独自寻找猎物的身影。]"
 
 #: creature_large_tropical.txt:784
 msgctxt "CREATURE:TIGER"
@@ -19704,14 +19708,14 @@ msgstr ""
 #: creature_large_tropical.txt:928
 msgctxt "CREATURE:GIANT_TIGER"
 msgid "[PREFSTRING:large stripes, of course]"
-msgstr ""
+msgstr "[PREFSTRING:理所应当的大条纹]"
 
 #: creature_large_tropical.txt:934
 msgctxt "CREATURE:CHEETAH"
 msgid ""
 "[DESCRIPTION:A large spotted feline predator.  It is capable of incredible "
 "speed when ambushing its prey.]"
-msgstr ""
+msgstr "[DESCRIPTION:一种大型斑点猫科掠食者。它能以惊人的速度伏击猎物。]"
 
 #: creature_large_tropical.txt:935
 msgctxt "CREATURE:CHEETAH"
@@ -21483,7 +21487,7 @@ msgstr ""
 #: creature_large_tropical.txt:3656
 msgctxt "CREATURE:HONEY BADGER"
 msgid "[TLCM_NOUN:legs:PLURAL]"
-msgstr ""
+msgstr "[TLCM_NOUN:腿部:PLURAL]"
 
 #: creature_large_tropical.txt:3659
 msgctxt "CREATURE:HONEY BADGER"
@@ -22116,7 +22120,7 @@ msgstr ""
 #: creature_mountain_new.txt:106
 msgctxt "CREATURE:WOLVERINE"
 msgid "[TLCM_NOUN:legs:PLURAL]"
-msgstr ""
+msgstr "[TLCM_NOUN:腿部:PLURAL]"
 
 #: creature_mountain_new.txt:109
 msgctxt "CREATURE:WOLVERINE"
@@ -22701,7 +22705,7 @@ msgid ""
 "[DESCRIPTION:A large creature found grazing on mushrooms deep underground.  "
 "It walks on two legs and has the head of a bird with the antlers of a great "
 "elk.]"
-msgstr ""
+msgstr "[DESCRIPTION:一种被发现在地底深处进食蘑菇的大型生物.他们用两条腿行进并且有着鸟的头部和大型麋鹿的角.]"
 
 #: creature_next_underground.txt:747
 msgctxt "CREATURE:ELK_BIRD"
@@ -22721,7 +22725,7 @@ msgstr "[GENERAL_CHILD_NAME:麋鹿幼鸟:麋鹿幼鸟]"
 #: creature_next_underground.txt:770
 msgctxt "CREATURE:ELK_BIRD"
 msgid "[PREFSTRING:elegant horns]"
-msgstr ""
+msgstr "[PREFSTRING:优雅的角]"
 
 #: creature_next_underground.txt:775
 msgctxt "CREATURE:ELK_BIRD"
@@ -22842,6 +22846,7 @@ msgid ""
 "mouths on the ends of a pair of tentacles.  It uses its mouths to digest its"
 " victims with acid and rows of razor-like teeth.]"
 msgstr ""
+"[DESCRIPTION:一种用两条带有爪子的腿行走的中等体型的怪物.在它的一对触手的末端有两张吸嘴.它用带有嘴的触手通过酸液和一排像剃刀般的牙齿来消化被捕获的生物.]"
 
 #: creature_next_underground.txt:973
 msgctxt "CREATURE:GREEN_DEVOURER"
@@ -23681,7 +23686,7 @@ msgctxt "CREATURE:PLUMP_HELMET_MAN"
 msgid ""
 "[DESCRIPTION:A small humanoid resembling a walking mushroom with arms and "
 "legs.  It lives far underground near water and soil.]"
-msgstr ""
+msgstr "[DESCRIPTION:一种像长着胳膊和腿的行走蘑菇的小型的类人生物.它们生活在靠近水源和油的地底.]"
 
 #: creature_next_underground.txt:2409
 msgctxt "CREATURE:PLUMP_HELMET_MAN"
@@ -23988,7 +23993,7 @@ msgstr ""
 msgctxt "CREATURE:GIANT_OCTOPUS"
 msgid ""
 "[DESCRIPTION:A dangerous water monster known for attacking ships at sea.]"
-msgstr ""
+msgstr "[DESCRIPTION:一种以袭击船只闻名的危险水生怪物。]"
 
 #: creature_ocean_new.txt:160
 msgctxt "CREATURE:GIANT_OCTOPUS"
@@ -24005,7 +24010,7 @@ msgctxt "CREATURE:CRAB"
 msgid ""
 "[DESCRIPTION:A tiny shelled ocean creature with many long legs.  It has two "
 "large pincers on its front limbs.]"
-msgstr ""
+msgstr "[DESCRIPTION:一种有许多条长腿的小型带壳海洋生物.它的前肢上有两个大的螯.]"
 
 #: creature_ocean_new.txt:170
 msgctxt "CREATURE:CRAB"
@@ -24055,7 +24060,7 @@ msgstr ""
 #: creature_ocean_new.txt:243
 msgctxt "CREATURE:CRAB_MAN"
 msgid "[DESCRIPTION:A person with the head and pincers of a crab.]"
-msgstr ""
+msgstr "[DESCRIPTION:一种长有蟹头和蟹钳的人型生物。]"
 
 #: creature_ocean_new.txt:259
 msgctxt "CREATURE:GIANT_CRAB"
@@ -24075,19 +24080,19 @@ msgstr ""
 #: creature_ocean_new.txt:270
 msgctxt "CREATURE:GIANT_CRAB"
 msgid "[PREFSTRING:pincers]"
-msgstr ""
+msgstr "[PREFSTRING:钳子]"
 
 #: creature_ocean_new.txt:271
 msgctxt "CREATURE:GIANT_CRAB"
 msgid "[PREFSTRING:sideways walk]"
-msgstr ""
+msgstr "[PREFSTRING:横向行走]"
 
 #: creature_ocean_new.txt:281
 msgctxt "CREATURE:LEOPARD_SEAL"
 msgid ""
 "[DESCRIPTION:A large predatory amphibious mammal.  It is difficult to evade "
 "once in the water.]"
-msgstr ""
+msgstr "[DESCRIPTION:一种大型食肉两栖类哺乳动物。一旦在水中就很难逃脱追捕。]"
 
 #: creature_ocean_new.txt:282
 msgctxt "CREATURE:LEOPARD_SEAL"
@@ -24144,7 +24149,7 @@ msgctxt "CREATURE:LEOPARD_SEAL_MAN"
 msgid ""
 "[DESCRIPTION:A legless person with the head and back flippers of a leopard "
 "seal.]"
-msgstr ""
+msgstr "[DESCRIPTION:一种有着豹型海豹的头部和背鳍的无腿人.]"
 
 #: creature_ocean_new.txt:391
 msgctxt "CREATURE:GIANT_LEOPARD_SEAL"
@@ -24281,12 +24286,12 @@ msgstr ""
 #: creature_ocean_new.txt:538
 msgctxt "CREATURE:GIANT_CUTTLEFISH"
 msgid "[CVCT_TARGET:cuttlefish]"
-msgstr ""
+msgstr "[CVCT_TARGET:乌贼]"
 
 #: creature_ocean_new.txt:539
 msgctxt "CREATURE:GIANT_CUTTLEFISH"
 msgid "[CVCT_REPLACEMENT:giant cuttlefish]"
-msgstr ""
+msgstr "[CVCT_REPLACEMENT:巨型乌贼]"
 
 #: creature_ocean_new.txt:552
 msgctxt "CREATURE:GIANT_CUTTLEFISH"
@@ -24306,19 +24311,19 @@ msgstr "[DESCRIPTION:一只巨大的墨鱼海怪。]"
 #: creature_ocean_new.txt:563
 msgctxt "CREATURE:GIANT_CUTTLEFISH"
 msgid "[PREFSTRING:ability to change color]"
-msgstr ""
+msgstr "[PREFSTRING:变换颜色的能力]"
 
 #: creature_ocean_new.txt:564
 msgctxt "CREATURE:GIANT_CUTTLEFISH"
 msgid "[PREFSTRING:distinctive pupils]"
-msgstr ""
+msgstr "[PREFSTRING:与众不同的瞳孔]"
 
 #: creature_ocean_new.txt:571
 msgctxt "CREATURE:ORCA"
 msgid ""
 "[DESCRIPTION:A huge ocean mammal.  It is a vicious predator and can hunt in "
 "groups.]"
-msgstr ""
+msgstr "[DESCRIPTION:一种巨大的海洋哺乳动物。它是一种凶残的掠食者，能够成群地狩猎。]"
 
 #: creature_ocean_new.txt:572
 msgctxt "CREATURE:ORCA"
@@ -24383,7 +24388,7 @@ msgstr "[NAME:虎鲸人:虎鲸人:虎鲸人]"
 #: creature_ocean_new.txt:669
 msgctxt "CREATURE:ORCA_MAN"
 msgid "[DESCRIPTION:An aquatic person in the shape of an orca with arms.]"
-msgstr ""
+msgstr "[DESCRIPTION:虎鲸外型的水生人类，长有手臂。]"
 
 #: creature_ocean_new.txt:685
 msgctxt "CREATURE:GIANT_ORCA"
@@ -24403,7 +24408,7 @@ msgstr "[GENERAL_CHILD_NAME:巨虎鲸幼崽:巨虎鲸幼崽]"
 #: creature_ocean_new.txt:688
 msgctxt "CREATURE:GIANT_ORCA"
 msgid "[DESCRIPTION:A gigantic monster in the shape of an orca.]"
-msgstr ""
+msgstr "[DESCRIPTION:虎鲸外形的巨大怪物。]"
 
 #: creature_ocean_new.txt:697
 msgctxt "CREATURE:GIANT_ORCA"
@@ -24420,7 +24425,7 @@ msgctxt "CREATURE:SPONGE"
 msgid ""
 "[DESCRIPTION:A tiny sea creature which dwells on the ocean floor, devoid of "
 "senses or motion.]"
-msgstr ""
+msgstr "[DESCRIPTION:一种生活在海底的一种微小的海洋生物，没有感知或活动能力。]"
 
 #: creature_ocean_new.txt:705
 msgctxt "CREATURE:SPONGE"
@@ -24455,7 +24460,7 @@ msgstr ""
 #: creature_ocean_new.txt:760
 msgctxt "CREATURE:SPONGE_MAN"
 msgid "[DESCRIPTION:A person in the form of a sponge with arms and legs.]"
-msgstr ""
+msgstr "[DESCRIPTION:一种有着海绵块外形的有着胳膊和腿的人.]"
 
 #: creature_ocean_new.txt:776
 msgctxt "CREATURE:GIANT_SPONGE"
@@ -24470,19 +24475,19 @@ msgstr ""
 #: creature_ocean_new.txt:778
 msgctxt "CREATURE:GIANT_SPONGE"
 msgid "[DESCRIPTION:A huge immobile sponge.]"
-msgstr ""
+msgstr "[DESCRIPTION:一块巨大的海绵。]"
 
 #: creature_ocean_new.txt:786
 msgctxt "CREATURE:GIANT_SPONGE"
 msgid "[PREFSTRING:squishy texture]"
-msgstr ""
+msgstr "[PREFSTRING:黏糊湿润的质感]"
 
 #: creature_ocean_new.txt:793
 msgctxt "CREATURE:HORSESHOE_CRAB"
 msgid ""
 "[DESCRIPTION:A tiny sea animal that lives in the sand just offshore.  It has"
 " a flat body with legs underneath.]"
-msgstr ""
+msgstr "[DESCRIPTION:一种生活在岸边的沙滩上的小型海洋生物.它具有平坦的身躯并且两条腿藏在地底下.]"
 
 #: creature_ocean_new.txt:794
 msgctxt "CREATURE:HORSESHOE_CRAB"
@@ -24545,12 +24550,12 @@ msgstr "[DESCRIPTION:一只巨大的马蹄蟹怪。]"
 #: creature_ocean_new.txt:886
 msgctxt "CREATURE:GIANT_HORSESHOE_CRAB"
 msgid "[PREFSTRING:ability to hide in sand]"
-msgstr ""
+msgstr "[PREFSTRING:藏在沙中的能力]"
 
 #: creature_ocean_new.txt:895
 msgctxt "CREATURE:SPERM_WHALE"
 msgid "[DESCRIPTION:A giant marine mammal with a toothy jaw.]"
-msgstr ""
+msgstr "[DESCRIPTION:一种有多齿的下颌的巨大的海洋哺乳动物。]"
 
 #: creature_ocean_new.txt:896
 msgctxt "CREATURE:SPERM_WHALE"
@@ -24636,12 +24641,12 @@ msgstr "[GENERAL_CHILD_NAME:巨抹香鲸幼崽:巨抹香鲸幼崽]"
 #: creature_ocean_new.txt:1013
 msgctxt "CREATURE:GIANT_SPERM_WHALE"
 msgid "[DESCRIPTION:A gigantic monster in the shape of a sperm whale.]"
-msgstr ""
+msgstr "[DESCRIPTION:一种有着抹香鲸外形的巨型怪物。]"
 
 #: creature_ocean_new.txt:1022
 msgctxt "CREATURE:GIANT_SPERM_WHALE"
 msgid "[PREFSTRING:teeth]"
-msgstr ""
+msgstr "[PREFSTRING:牙齿]"
 
 #: creature_ocean_new.txt:1023
 msgctxt "CREATURE:GIANT_SPERM_WHALE"
@@ -24651,7 +24656,7 @@ msgstr ""
 #: creature_ocean_new.txt:1031
 msgctxt "CREATURE:ELEPHANT_SEAL"
 msgid "[DESCRIPTION:A large, predatory marine mammal.]"
-msgstr ""
+msgstr "[DESCRIPTION:一种大型掠食性海洋哺乳动物。]"
 
 #: creature_ocean_new.txt:1032
 msgctxt "CREATURE:ELEPHANT_SEAL"
@@ -25188,21 +25193,21 @@ msgctxt "CREATURE:LIZARD_RHINO_TWO_LEGGED"
 msgid ""
 "[DESCRIPTION:A tiny reptile, running on two legs.  It has a horn on the end "
 "of its nose.]"
-msgstr ""
+msgstr "[DESCRIPTION:一种用两条腿奔跑的小型爬行动物.在他的鼻子末端带附有一只角.]"
 
 #: creature_other.txt:316
 msgctxt "CREATURE:LIZARD_RHINO_TWO_LEGGED"
 msgid ""
 "[NAME:two-legged rhino lizard:two-legged rhino lizards:two-legged rhino "
 "lizard]"
-msgstr ""
+msgstr "[NAME:二足犀牛蜥:二足犀牛蜥群:二足犀牛蜥]"
 
 #: creature_other.txt:317
 msgctxt "CREATURE:LIZARD_RHINO_TWO_LEGGED"
 msgid ""
 "[CASTE_NAME:two-legged rhino lizard:two-legged rhino lizards:two-legged "
 "rhino lizard]"
-msgstr ""
+msgstr "[CASTE_NAME:二足犀牛蜥:二足犀牛蜥群:二足犀牛蜥]"
 
 #: creature_other.txt:318
 msgctxt "CREATURE:LIZARD_RHINO_TWO_LEGGED"
@@ -26790,7 +26795,7 @@ msgctxt "CREATURE:SQUIRREL_FLYING"
 msgid ""
 "[DESCRIPTION:A tiny grey rodent that is only active at night.  It can sail "
 "between trees on wings stretching between its front and hind legs.]"
-msgstr ""
+msgstr "[DESCRIPTION:一种仅在夜晚活动的小型灰色啮齿动物.它能通过展开在前腿和后腿间的翅膀在树丛间快速移动.]"
 
 #: creature_small_mammal_new.txt:303
 msgctxt "CREATURE:SQUIRREL_FLYING"
@@ -28759,7 +28764,7 @@ msgstr ""
 #: creature_standard.txt:315
 msgctxt "CREATURE:DWARF"
 msgid "[MANNERISM_LEG:leg]"
-msgstr ""
+msgstr "[MANNERISM_LEG:腿]"
 
 #: creature_standard.txt:356
 msgctxt "CREATURE:DWARF"
@@ -28979,7 +28984,7 @@ msgstr ""
 #: creature_standard.txt:643
 msgctxt "CREATURE:HUMAN"
 msgid "[MANNERISM_LEG:leg]"
-msgstr ""
+msgstr "[MANNERISM_LEG:腿]"
 
 #: creature_standard.txt:670
 msgctxt "CREATURE:HUMAN"
@@ -29201,7 +29206,7 @@ msgstr ""
 #: creature_standard.txt:944
 msgctxt "CREATURE:ELF"
 msgid "[MANNERISM_LEG:leg]"
-msgstr ""
+msgstr "[MANNERISM_LEG:腿]"
 
 #: creature_standard.txt:970
 msgctxt "CREATURE:ELF"
@@ -29417,7 +29422,7 @@ msgstr ""
 #: creature_standard.txt:1219
 msgctxt "CREATURE:GOBLIN"
 msgid "[MANNERISM_LEG:leg]"
-msgstr ""
+msgstr "[MANNERISM_LEG:腿]"
 
 #: creature_standard.txt:1244
 msgctxt "CREATURE:GOBLIN"
@@ -29634,7 +29639,7 @@ msgstr ""
 #: creature_standard.txt:1488
 msgctxt "CREATURE:KOBOLD"
 msgid "[MANNERISM_LEG:leg]"
-msgstr ""
+msgstr "[MANNERISM_LEG:腿]"
 
 #: creature_standard.txt:1509
 msgctxt "CREATURE:KOBOLD"
@@ -30049,7 +30054,7 @@ msgstr ""
 msgctxt "CREATURE:SATYR"
 msgid ""
 "[DESCRIPTION:A medium-sized humanoid with the horns and legs of a goat.]"
-msgstr ""
+msgstr "[DESCRIPTION:一种具有山羊的角和腿特征的中等体型类人生物.]"
 
 #: creature_standard.txt:2339
 msgctxt "CREATURE:SATYR"
@@ -30064,7 +30069,7 @@ msgstr "[CASTE_NAME:萨堤尔:萨堤尔:萨堤尔]"
 #: creature_standard.txt:2354
 msgctxt "CREATURE:SATYR"
 msgid "[PREFSTRING:woolly legs]"
-msgstr ""
+msgstr "[PREFSTRING:带有羊毛的腿]"
 
 #: creature_standard.txt:2399
 msgctxt "CREATURE:SATYR"
@@ -31151,7 +31156,7 @@ msgctxt "CREATURE:BEAK_DOG"
 msgid ""
 "[DESCRIPTION:A creature from the evil swamp.  It resembles a squat, wingless"
 " bird with powerful beak and legs.  Its blotchy skin is brightly colored.]"
-msgstr ""
+msgstr "[DESCRIPTION:一种来自毒沼的生物.它像带有强壮的喙和腿的矮胖的无翼鸟.它到处有污斑的皮肤被予以亮色.]"
 
 #: creature_standard.txt:4404
 msgctxt "CREATURE:BEAK_DOG"
@@ -31245,7 +31250,7 @@ msgctxt "CREATURE:BLENDEC_FOUL"
 msgid ""
 "[DESCRIPTION:A man-shaped creature with the legs of a goat and the empty-"
 "eyed skull of a goat.]"
-msgstr ""
+msgstr "[DESCRIPTION:一种有着山羊的腿和无眼的山羊头骨作为头部的人性生物.]"
 
 #: creature_standard.txt:4574
 msgctxt "CREATURE:BLENDEC_FOUL"
@@ -31265,7 +31270,7 @@ msgstr ""
 #: creature_standard.txt:4590
 msgctxt "CREATURE:BLENDEC_FOUL"
 msgid "[PREFSTRING:goat legs]"
-msgstr ""
+msgstr "[PREFSTRING:山羊腿]"
 
 #: creature_standard.txt:4591
 msgctxt "CREATURE:BLENDEC_FOUL"
@@ -31593,7 +31598,7 @@ msgstr ""
 msgctxt "CREATURE:MERPERSON"
 msgid ""
 "[DESCRIPTION:A man-like creature with the tail of a fish instead of legs.]"
-msgstr ""
+msgstr "[DESCRIPTION:一种用鱼型尾巴来代替腿部的类人生物.]"
 
 #: creature_standard.txt:5159
 msgctxt "CREATURE:MERPERSON"
@@ -32385,7 +32390,7 @@ msgctxt "CREATURE:SPIDER_CAVE_GIANT"
 msgid ""
 "[DESCRIPTION:A large underground monster with eight legs and sharp, venomous"
 " fangs.]"
-msgstr ""
+msgstr "[DESCRIPTION:一种有八条腿和锋利且带毒尖牙的大型地底怪物.]"
 
 #: creature_subterranean.txt:1001
 msgctxt "CREATURE:SPIDER_CAVE_GIANT"
@@ -38930,7 +38935,7 @@ msgstr ""
 #: descriptor_shape_standard.txt:119
 msgctxt "SHAPE:POINT_CUT_GEM"
 msgid "[ADJ:point cut]"
-msgstr ""
+msgstr "[ADJ:尖琢型]"
 
 #: descriptor_shape_standard.txt:124
 msgctxt "SHAPE:TABLE_CUT_GEM"
@@ -38940,7 +38945,7 @@ msgstr ""
 #: descriptor_shape_standard.txt:125
 msgctxt "SHAPE:TABLE_CUT_GEM"
 msgid "[ADJ:table cut]"
-msgstr ""
+msgstr "[ADJ:桌形琢型]"
 
 #: descriptor_shape_standard.txt:130
 msgctxt "SHAPE:SINGLE_CUT_GEM"
@@ -38950,7 +38955,7 @@ msgstr "[NAME:宝石:宝石]"
 #: descriptor_shape_standard.txt:131
 msgctxt "SHAPE:SINGLE_CUT_GEM"
 msgid "[ADJ:single cut]"
-msgstr ""
+msgstr "[ADJ:单多面形琢型]"
 
 #: descriptor_shape_standard.txt:136
 msgctxt "SHAPE:ROSE_CUT_GEM"
@@ -38960,7 +38965,7 @@ msgstr "[NAME:宝石:宝石]"
 #: descriptor_shape_standard.txt:137
 msgctxt "SHAPE:ROSE_CUT_GEM"
 msgid "[ADJ:rose cut]"
-msgstr ""
+msgstr "[ADJ:玫瑰花琢型]"
 
 #: descriptor_shape_standard.txt:142
 msgctxt "SHAPE:BRIOLETTE_CUT_GEM"
@@ -38980,7 +38985,7 @@ msgstr ""
 #: descriptor_shape_standard.txt:149
 msgctxt "SHAPE:EMERALD_CUT_GEM"
 msgid "[ADJ:emerald cut]"
-msgstr ""
+msgstr "[ADJ:祖母绿琢形]"
 
 #: descriptor_shape_standard.txt:154
 msgctxt "SHAPE:MARQUISE_CUT_GEM"
@@ -39050,7 +39055,7 @@ msgstr ""
 #: descriptor_shape_standard.txt:191
 msgctxt "SHAPE:ROUND_BRILLIANT_CUT_GEM"
 msgid "[ADJ:round brilliant cut]"
-msgstr ""
+msgstr "[ADJ:圆形明亮琢形]"
 
 #: descriptor_shape_standard.txt:196
 msgctxt "SHAPE:BAGUETTE_CUT_GEM"
@@ -39060,7 +39065,7 @@ msgstr ""
 #: descriptor_shape_standard.txt:197
 msgctxt "SHAPE:BAGUETTE_CUT_GEM"
 msgid "[ADJ:baguette cut]"
-msgstr ""
+msgstr "[ADJ:长阶梯琢型]"
 
 #: descriptor_shape_standard.txt:202
 msgctxt "SHAPE:TAPERED_BAGUETTE_CUT_GEM"
