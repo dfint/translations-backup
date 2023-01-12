@@ -2,16 +2,16 @@
 # Translators:
 # insolor, 2022
 # Romain Lamour, 2022
-# J. Bat., 2022
 # WhiteKevi Gaming, 2022
 # Alexandre B, 2022
 # Jérémi Duarte, 2022
 # samQC_CA_FR, 2023
-# Aym Laj, 2023
+# Mamard, 2023
+# J. Bat., 2023
 # 
 msgid ""
 msgstr ""
-"Last-Translator: Aym Laj, 2023\n"
+"Last-Translator: J. Bat., 2023\n"
 "Language-Team: French (https://www.transifex.com/dwarf-fortress-translation/teams/22396/fr/)\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -19030,7 +19030,7 @@ msgstr "[PREFSTRING:coloration saisissante]"
 #: creature_large_temperate.txt:1838
 msgctxt "CREATURE:PANDA, GIGANTIC"
 msgid "[PREFSTRING:gigantic fluffy heads and bellies]"
-msgstr ""
+msgstr "[PREFSTRING:têtes et ventres gigantesques et pelucheux]"
 
 #: creature_large_temperate.txt:1839
 msgctxt "CREATURE:PANDA, GIGANTIC"
@@ -19050,17 +19050,17 @@ msgstr "[CVCT_REPLACEMENT:bras et jambes]"
 #: creature_large_temperate.txt:1868
 msgctxt "CREATURE:PANDA MAN"
 msgid "[CASTE_NAME:panda man:panda men:panda man]"
-msgstr "[CASTE_NAME:panda mâle:pandas mâles:panda mâle]"
+msgstr "[CASTE_NAME:homme-panda:hommes-pandas:homme-panda]"
 
 #: creature_large_temperate.txt:1870
 msgctxt "CREATURE:PANDA MAN"
 msgid "[CASTE_NAME:panda woman:panda women:panda woman]"
-msgstr "[CASTE_NAME:panda femelle:pandas femelles: panda femelle]"
+msgstr "[CASTE_NAME:femme-panda:femmes-pandas:femme-panda]"
 
 #: creature_large_temperate.txt:1881
 msgctxt "CREATURE:PANDA MAN"
 msgid "[NAME:panda man:panda men:panda man]"
-msgstr ""
+msgstr "[NAME:homme-panda:hommes-pandas:homme-panda]"
 
 #: creature_large_temperate.txt:1882
 msgctxt "CREATURE:PANDA MAN"
@@ -19090,34 +19090,39 @@ msgstr "[CASTE_NAME:capybara:capybaras:capybara]"
 #: creature_large_temperate.txt:1902
 msgctxt "CREATURE:CAPYBARA"
 msgid "[GENERAL_CHILD_NAME:capybara pup:capybara pups]"
-msgstr ""
+msgstr "[GENERAL_CHILD_NAME:jeune capybara:jeunes capybaras]"
 
 #: creature_large_temperate.txt:1917
 msgctxt "CREATURE:CAPYBARA"
 msgid "[SOUND:ALERT:100:1000:VOCALIZATION:bark:barks:a loud bark]"
 msgstr ""
+"[SOUND:ALERT:100:1000:VOCALIZATION:aboyer:aboie:un aboiement puissant]"
 
 #: creature_large_temperate.txt:1918
 msgctxt "CREATURE:CAPYBARA"
 msgid ""
 "[SOUND:PEACEFUL_INTERMITTENT:100:10000:VOCALIZATION:whistle:whistles:whistling]"
 msgstr ""
+"[SOUND:PEACEFUL_INTERMITTENT:100:10000:VOCALIZATION:siffler:siffle:sifflement]"
 
 #: creature_large_temperate.txt:1919
 msgctxt "CREATURE:CAPYBARA"
 msgid ""
 "[SOUND:PEACEFUL_INTERMITTENT:25:10000:VOCALIZATION:grunt:grunts:a grunt]"
 msgstr ""
+"[SOUND:PEACEFUL_INTERMITTENT:25:10000:VOCALIZATION:grogner:grogne:grognement]"
 
 #: creature_large_temperate.txt:1920
 msgctxt "CREATURE:CAPYBARA"
 msgid "[SOUND:PEACEFUL_INTERMITTENT:5:10000:VOCALIZATION:purr:purrs:a purr]"
 msgstr ""
+"[SOUND:PEACEFUL_INTERMITTENT:5:10000:VOCALIZATION:ronronner:ronronne:un "
+"ronronnement]"
 
 #: creature_large_temperate.txt:1921
 msgctxt "CREATURE:CAPYBARA"
 msgid "[SOUND:PEACEFUL_INTERMITTENT:25:10000:NONE:click:clicks:a click]"
-msgstr ""
+msgstr "[SOUND:PEACEFUL_INTERMITTENT:25:10000:NONE:claquer:claque:claquement]"
 
 #: creature_large_temperate.txt:1922
 msgctxt "CREATURE:CAPYBARA"
@@ -19132,7 +19137,7 @@ msgstr "[PREFSTRING:nage gracieuse]"
 #: creature_large_temperate.txt:1924
 msgctxt "CREATURE:CAPYBARA"
 msgid "[PREFSTRING:resonant barking]"
-msgstr ""
+msgstr "[PREFSTRING:aboiement résonnant]"
 
 #: creature_large_temperate.txt:1959
 msgctxt "CREATURE:CAPYBARA"
@@ -19162,17 +19167,17 @@ msgstr "[TLCM_NOUN:yeux:PLURAL]"
 #: creature_large_temperate.txt:2008
 msgctxt "CREATURE:CAPYBARA, GIANT"
 msgid "[NAME:giant capybara:giant capybaras:giant capybara]"
-msgstr ""
+msgstr "[NAME:capybara géant:capybaras géants:capybara géant]"
 
 #: creature_large_temperate.txt:2009
 msgctxt "CREATURE:CAPYBARA, GIANT"
 msgid "[CASTE_NAME:giant capybara:giant capybaras:giant capybara]"
-msgstr ""
+msgstr "[CASTE_NAME:capybara géant:capybaras géants:capybara géant]"
 
 #: creature_large_temperate.txt:2010
 msgctxt "CREATURE:CAPYBARA, GIANT"
 msgid "[GENERAL_CHILD_NAME:giant capybara pup:giant capybara pups]"
-msgstr ""
+msgstr "[GENERAL_CHILD_NAME:jeune capybara géant:jeunes capybaras géants]"
 
 #: creature_large_temperate.txt:2011
 msgctxt "CREATURE:CAPYBARA, GIANT"
@@ -19187,6 +19192,7 @@ msgstr ""
 msgctxt "CREATURE:CAPYBARA, GIANT"
 msgid "[SOUND:ALERT:200:1000:VOCALIZATION:bark:barks:a resounding bark]"
 msgstr ""
+"[SOUND:ALERT:200:1000:VOCALIZATION:aboyer:aboie:un aboiement résonnant]"
 
 #: creature_large_temperate.txt:2020
 msgctxt "CREATURE:CAPYBARA, GIANT"
@@ -19194,6 +19200,8 @@ msgid ""
 "[SOUND:PEACEFUL_INTERMITTENT:200:10000:VOCALIZATION:whistle:whistles:deep "
 "whistling]"
 msgstr ""
+"[SOUND:PEACEFUL_INTERMITTENT:200:10000:VOCALIZATION:siffler:siffle:sifflement"
+" profond]"
 
 #: creature_large_temperate.txt:2021
 msgctxt "CREATURE:CAPYBARA, GIANT"
@@ -19201,47 +19209,53 @@ msgid ""
 "[SOUND:PEACEFUL_INTERMITTENT:50:10000:VOCALIZATION:grunt:grunts:a loud "
 "grunt]"
 msgstr ""
+"[SOUND:PEACEFUL_INTERMITTENT:50:10000:VOCALIZATION:grogner:grogne:un "
+"grognement fort]"
 
 #: creature_large_temperate.txt:2022
 msgctxt "CREATURE:CAPYBARA, GIANT"
 msgid ""
 "[SOUND:PEACEFUL_INTERMITTENT:5:10000:VOCALIZATION:purr:purrs:a deep purr]"
 msgstr ""
+"[SOUND:PEACEFUL_INTERMITTENT:5:10000:VOCALIZATION:ronronner:ronronne:un "
+"ronronnement profond]"
 
 #: creature_large_temperate.txt:2023
 msgctxt "CREATURE:CAPYBARA, GIANT"
 msgid "[SOUND:PEACEFUL_INTERMITTENT:50:10000:NONE:click:clicks:a loud click]"
 msgstr ""
+"[SOUND:PEACEFUL_INTERMITTENT:50:10000:NONE:claquer:claque:claquement "
+"puissant]"
 
 #: creature_large_temperate.txt:2024
 msgctxt "CREATURE:CAPYBARA, GIANT"
 msgid "[PREFSTRING:beyond enormous rodentness]"
-msgstr ""
+msgstr "[PREFSTRING:au-delà de l'énorme rongeur]"
 
 #: creature_large_temperate.txt:2025
 msgctxt "CREATURE:CAPYBARA, GIANT"
 msgid "[PREFSTRING:graceful swimming]"
-msgstr ""
+msgstr "[PREFSTRING:nage gracieuse]"
 
 #: creature_large_temperate.txt:2026
 msgctxt "CREATURE:CAPYBARA, GIANT"
 msgid "[PREFSTRING:resonant barking]"
-msgstr ""
+msgstr "[PREFSTRING:aboiement résonnant]"
 
 #: creature_large_temperate.txt:2038
 msgctxt "CREATURE:CAPYBARA MAN"
 msgid "[CASTE_NAME:capybara man:capybara men:capybara man]"
-msgstr ""
+msgstr "[CASTE_NAME:homme-capybara:hommes-capybaras:homme-capybara]"
 
 #: creature_large_temperate.txt:2040
 msgctxt "CREATURE:CAPYBARA MAN"
 msgid "[CASTE_NAME:capybara woman:capybara women:capybara woman]"
-msgstr ""
+msgstr "[CASTE_NAME:femme-capybara:femmes-capybaras:femme-capybara]"
 
 #: creature_large_temperate.txt:2051
 msgctxt "CREATURE:CAPYBARA MAN"
 msgid "[NAME:capybara man:capybara men:capybara man]"
-msgstr ""
+msgstr "[NAME:homme-capybara:hommes-capybaras:homme-capybara]"
 
 #: creature_large_temperate.txt:2052
 msgctxt "CREATURE:CAPYBARA MAN"
@@ -19277,7 +19291,7 @@ msgstr "[PREFSTRING:communautés souterraines]"
 #: creature_large_temperate.txt:2086
 msgctxt "CREATURE:BADGER"
 msgid "[PREFSTRING:striped faces]"
-msgstr ""
+msgstr "[PREFSTRING:bandes triples sur le visage]"
 
 #: creature_large_temperate.txt:2123
 msgctxt "CREATURE:BADGER"
@@ -19292,12 +19306,12 @@ msgstr "[ATTACK_VERB:écorcher:écorche]"
 #: creature_large_temperate.txt:2149
 msgctxt "CREATURE:BADGER"
 msgid "[CASTE_NAME:badger sow:badger sows:badger sow]"
-msgstr ""
+msgstr "[CASTE_NAME:blairelle:blairelles:blairelle]"
 
 #: creature_large_temperate.txt:2153
 msgctxt "CREATURE:BADGER"
 msgid "[CASTE_NAME:badger boar:badger boars:badger boar]"
-msgstr ""
+msgstr "[CASTE_NAME:blaireau:blaireaux:blaireau]"
 
 #: creature_large_temperate.txt:2160
 msgctxt "CREATURE:BADGER"
@@ -19312,7 +19326,7 @@ msgstr "[TLCM_NOUN:jambes:PLURAL]"
 #: creature_large_temperate.txt:2170
 msgctxt "CREATURE:BADGER"
 msgid "[TLCM_NOUN:head:SINGULAR]"
-msgstr ""
+msgstr "[TLCM_NOUN:tête:SINGULAR]"
 
 #: creature_large_temperate.txt:2173
 msgctxt "CREATURE:BADGER"
@@ -19366,12 +19380,12 @@ msgstr ""
 #: creature_large_temperate.txt:2239
 msgctxt "CREATURE:BADGER, GIANT"
 msgid "[CASTE_NAME:giant badger boar:giant badger boars:giant badger boar]"
-msgstr ""
+msgstr "[CASTE_NAME:blaireau géant:blaireaux géants:blaireau géant]"
 
 #: creature_large_temperate.txt:2241
 msgctxt "CREATURE:BADGER, GIANT"
 msgid "[CASTE_NAME:giant badger sow:giant badger sows:giant badger sow]"
-msgstr ""
+msgstr "[CASTE_NAME:blairelle géante:blairelles géantes:blairelle géante]"
 
 #: creature_large_temperate.txt:2243
 msgctxt "CREATURE:BADGER, GIANT"
@@ -19386,7 +19400,7 @@ msgstr "[PREFSTRING:communautés souterraines]"
 #: creature_large_temperate.txt:2245
 msgctxt "CREATURE:BADGER, GIANT"
 msgid "[PREFSTRING:striped faces]"
-msgstr ""
+msgstr "[PREFSTRING:bandes triples sur le visage]"
 
 #: creature_large_temperate.txt:2257
 msgctxt "CREATURE:MOOSE"
@@ -19400,12 +19414,12 @@ msgstr ""
 #: creature_large_temperate.txt:2258
 msgctxt "CREATURE:MOOSE"
 msgid "[NAME:moose:moose:moose]"
-msgstr ""
+msgstr "[NAME:élan:élans:élan]"
 
 #: creature_large_temperate.txt:2259
 msgctxt "CREATURE:MOOSE"
 msgid "[GENERAL_CHILD_NAME:moose calf:moose calves]"
-msgstr ""
+msgstr "[GENERAL_CHILD_NAME:jeune élan:jeunes élans]"
 
 #: creature_large_temperate.txt:2263
 msgctxt "CREATURE:MOOSE"
@@ -19415,22 +19429,22 @@ msgstr "[PREFSTRING:grande taille]"
 #: creature_large_temperate.txt:2264
 msgctxt "CREATURE:MOOSE"
 msgid "[PREFSTRING:broad antlers]"
-msgstr ""
+msgstr "[PREFSTRING:larges ramures]"
 
 #: creature_large_temperate.txt:2282
 msgctxt "CREATURE:MOOSE"
 msgid "[CASTE_NAME:cow moose:cow moose:cow moose]"
-msgstr ""
+msgstr "[CASTE_NAME:élan femelle:élans femelles:élan femelle]"
 
 #: creature_large_temperate.txt:2291
 msgctxt "CREATURE:MOOSE"
 msgid "[CASTE_NAME:bull moose:bull moose:bull moose]"
-msgstr ""
+msgstr "[CASTE_NAME:élan mâle:élans mâles:élan mâle]"
 
 #: creature_large_temperate.txt:2296
 msgctxt "CREATURE:MOOSE"
 msgid "[ATTACK_VERB:gore:gores]"
-msgstr ""
+msgstr "[ATTACK_VERB:encorner:encorner]"
 
 #: creature_large_temperate.txt:2308
 msgctxt "CREATURE:MOOSE"
@@ -19445,17 +19459,17 @@ msgstr "[ATTACK_VERB:morsure:morsures]"
 #: creature_large_temperate.txt:2334
 msgctxt "CREATURE:MOOSE"
 msgid "[STATE_NAME:ALL_SOLID:antler]"
-msgstr ""
+msgstr "[STATE_NAME:ALL_SOLID:ramure]"
 
 #: creature_large_temperate.txt:2335
 msgctxt "CREATURE:MOOSE"
 msgid "[STATE_ADJ:ALL_SOLID:antler]"
-msgstr ""
+msgstr "[STATE_ADJ:ALL_SOLID:ramure]"
 
 #: creature_large_temperate.txt:2340
 msgctxt "CREATURE:MOOSE"
 msgid "[TISSUE_NAME:antler:NP]"
-msgstr ""
+msgstr "[TISSUE_NAME:ramure:NP]"
 
 #: creature_large_temperate.txt:2364
 msgctxt "CREATURE:MOOSE"
@@ -19475,17 +19489,17 @@ msgstr "[TLCM_NOUN:yeux:PLURAL]"
 #: creature_large_temperate.txt:2381
 msgctxt "CREATURE:MOOSE MAN"
 msgid "[CASTE_NAME:moose man:moose men:moose man]"
-msgstr ""
+msgstr "[CASTE_NAME:homme-élan:hommes-élans:homme-élan]"
 
 #: creature_large_temperate.txt:2383
 msgctxt "CREATURE:MOOSE MAN"
 msgid "[CASTE_NAME:moose woman:moose women:moose woman]"
-msgstr ""
+msgstr "[CASTE_NAME:femme-élan:femmes-élans:femme-élan]"
 
 #: creature_large_temperate.txt:2394
 msgctxt "CREATURE:MOOSE MAN"
 msgid "[NAME:moose man:moose men:moose man]"
-msgstr ""
+msgstr "[NAME:homme-élan:hommes-élans:homme-élan]"
 
 #: creature_large_temperate.txt:2395
 msgctxt "CREATURE:MOOSE MAN"
@@ -19495,12 +19509,13 @@ msgstr "[DESCRIPTION:Un humanoïde avec la tête et les bois d'un orignal.]"
 #: creature_large_temperate.txt:2410
 msgctxt "CREATURE:MOOSE, GIANT"
 msgid "[NAME:giant moose:giant moose:giant moose]"
-msgstr ""
+msgstr "[NAME:élan géant:élans géants:élan géant]"
 
 #: creature_large_temperate.txt:2411
 msgctxt "CREATURE:MOOSE, GIANT"
 msgid "[GENERAL_CHILD_NAME:giant moose calf:giant moose calves]"
 msgstr ""
+"[GENERAL_CHILD_NAME:jeune élan géant:jeunes élans géants:jeune élan géant]"
 
 #: creature_large_temperate.txt:2412
 msgctxt "CREATURE:MOOSE, GIANT"
@@ -19511,11 +19526,12 @@ msgstr "[DESCRIPTION:Un énorme monstre en forme d'orignal.]"
 msgctxt "CREATURE:MOOSE, GIANT"
 msgid "[CASTE_NAME:giant moose cow:giant moose cows:giant moose cow]"
 msgstr ""
+"[CASTE_NAME:élan femelle géante:élans femelles géantes:élan femelle géante]"
 
 #: creature_large_temperate.txt:2424
 msgctxt "CREATURE:MOOSE, GIANT"
 msgid "[CASTE_NAME:giant moose bull:giant moose bulls:giant moose bull]"
-msgstr ""
+msgstr "[CASTE_NAME:élan mâle géant:élans mâles géants:élan mâle géant]"
 
 #: creature_large_temperate.txt:2426
 msgctxt "CREATURE:MOOSE, GIANT"
@@ -19525,7 +19541,7 @@ msgstr "[PREFSTRING:grande taille]"
 #: creature_large_temperate.txt:2427
 msgctxt "CREATURE:MOOSE, GIANT"
 msgid "[PREFSTRING:broad antlers]"
-msgstr ""
+msgstr "[PREFSTRING:larges ramures]"
 
 #: creature_large_temperate.txt:2440
 msgctxt "CREATURE:RED PANDA"
@@ -19540,17 +19556,17 @@ msgstr ""
 #: creature_large_temperate.txt:2441
 msgctxt "CREATURE:RED PANDA"
 msgid "[NAME:red panda:red pandas:red panda]"
-msgstr ""
+msgstr "[NAME:panda roux:pandas roux:panda roux]"
 
 #: creature_large_temperate.txt:2442
 msgctxt "CREATURE:RED PANDA"
 msgid "[GENERAL_CHILD_NAME:red panda cub:red panda cubs]"
-msgstr ""
+msgstr "[GENERAL_CHILD_NAME:panda roux:pandas roux:panda roux]"
 
 #: creature_large_temperate.txt:2458
 msgctxt "CREATURE:RED PANDA"
 msgid "[PREFSTRING:large striped tails]"
-msgstr ""
+msgstr "[PREFSTRING:grandes queues rayées]"
 
 #: creature_large_temperate.txt:2495
 msgctxt "CREATURE:RED PANDA"
@@ -19565,32 +19581,33 @@ msgstr "[ATTACK_VERB:écorcher:écorche]"
 #: creature_large_temperate.txt:2511
 msgctxt "CREATURE:RED PANDA"
 msgid "[CDI:ADV_NAME:Clean]"
-msgstr ""
+msgstr "[CDI:ADV_NAME:Nettoyer]"
 
 #: creature_large_temperate.txt:2515
 msgctxt "CREATURE:RED PANDA"
 msgid "[CDI:VERB:lick:licks:lick each other]"
-msgstr ""
+msgstr "[CDI:VERB:lécher:lèche:se lécher l'un l'autre]"
 
 #: creature_large_temperate.txt:2522
 msgctxt "CREATURE:RED PANDA"
 msgid "[CDI:ADV_NAME:Head bump]"
-msgstr ""
+msgstr "[CDI:ADV_NAME:Coup de tête]"
 
 #: creature_large_temperate.txt:2525
 msgctxt "CREATURE:RED PANDA"
 msgid "[CDI:VERB:head-bump:head-bumps:bump heads]"
-msgstr ""
+msgstr "[CDI:VERB:coup de tête:coup de tête:coup de têtes]"
 
 #: creature_large_temperate.txt:2544
 msgctxt "CREATURE:RED PANDA"
 msgid "[CASTE_NAME:red panda sow:red panda sows:red panda sow]"
 msgstr ""
+"[CASTE_NAME:panda roux femelle:pandas roux femelles:panda roux femelle]"
 
 #: creature_large_temperate.txt:2548
 msgctxt "CREATURE:RED PANDA"
 msgid "[CASTE_NAME:red panda boar:red panda boars:red panda boar]"
-msgstr ""
+msgstr "[CASTE_NAME:panda roux mâle:pandas roux mâles:panda roux mâle]"
 
 #: creature_large_temperate.txt:2553
 msgctxt "CREATURE:RED PANDA"
@@ -19605,7 +19622,7 @@ msgstr "[TLCM_NOUN:jambes:PLURAL]"
 #: creature_large_temperate.txt:2565
 msgctxt "CREATURE:RED PANDA"
 msgid "[TLCM_NOUN:head and tail:PLURAL]"
-msgstr ""
+msgstr "[TLCM_NOUN:tête et queue:PLURAL]"
 
 #: creature_large_temperate.txt:2568
 msgctxt "CREATURE:RED PANDA"
@@ -19620,17 +19637,17 @@ msgstr "[TLCM_NOUN:yeux:PLURAL]"
 #: creature_large_temperate.txt:2578
 msgctxt "CREATURE:RED PANDA MAN"
 msgid "[CASTE_NAME:red panda man:red panda men:red panda man]"
-msgstr ""
+msgstr "[CASTE_NAME:homme-panda roux:hommes-pandas roux:homme-panda roux]"
 
 #: creature_large_temperate.txt:2580
 msgctxt "CREATURE:RED PANDA MAN"
 msgid "[CASTE_NAME:red panda woman:red panda women:red panda woman]"
-msgstr ""
+msgstr "[CASTE_NAME:femme-panda roux:femmes-pandas roux:femme-panda roux]"
 
 #: creature_large_temperate.txt:2591
 msgctxt "CREATURE:RED PANDA MAN"
 msgid "[NAME:red panda man:red panda men:red panda man]"
-msgstr ""
+msgstr "[NAME:homme-panda roux:hommes-pandas roux:homme-panda roux]"
 
 #: creature_large_temperate.txt:2592
 msgctxt "CREATURE:RED PANDA MAN"
@@ -19644,12 +19661,12 @@ msgstr ""
 #: creature_large_temperate.txt:2621
 msgctxt "CREATURE:RED PANDA, GIANT"
 msgid "[NAME:giant red panda:giant red pandas:giant red panda]"
-msgstr ""
+msgstr "[NAME:panda roux géant:pandas roux géants:panda roux géant]"
 
 #: creature_large_temperate.txt:2622
 msgctxt "CREATURE:RED PANDA, GIANT"
 msgid "[GENERAL_CHILD_NAME:giant red panda cub:giant red panda cubs]"
-msgstr ""
+msgstr "[GENERAL_CHILD_NAME:petit panda roux géant:petits pandas roux géants]"
 
 #: creature_large_temperate.txt:2623
 msgctxt "CREATURE:RED PANDA, GIANT"
@@ -19661,17 +19678,21 @@ msgctxt "CREATURE:RED PANDA, GIANT"
 msgid ""
 "[CASTE_NAME:giant red panda boar:giant red panda boars:giant red panda boar]"
 msgstr ""
+"[CASTE_NAME:panda roux mâle géant:pandas roux mâles géants:panda roux mâle "
+"géant]"
 
 #: creature_large_temperate.txt:2635
 msgctxt "CREATURE:RED PANDA, GIANT"
 msgid ""
 "[CASTE_NAME:giant red panda sow:giant red panda sows:giant red panda sow]"
 msgstr ""
+"[CASTE_NAME:panda roux femelle géant:pandas roux femelles géants:panda roux "
+"femelle géant]"
 
 #: creature_large_temperate.txt:2637
 msgctxt "CREATURE:RED PANDA, GIANT"
 msgid "[PREFSTRING:large striped tails]"
-msgstr ""
+msgstr "[PREFSTRING:grandes queues rayées]"
 
 #: creature_large_tropical.txt:6
 msgctxt "CREATURE:ELEPHANT"
@@ -19687,17 +19708,17 @@ msgstr ""
 #: creature_large_tropical.txt:7
 msgctxt "CREATURE:ELEPHANT"
 msgid "[NAME:elephant:elephants:elephant]"
-msgstr ""
+msgstr "[NAME:éléphant:éléphants:éléphant]"
 
 #: creature_large_tropical.txt:8
 msgctxt "CREATURE:ELEPHANT"
 msgid "[CASTE_NAME:elephant:elephants:elephant]"
-msgstr ""
+msgstr "[CASTE_NAME:éléphant:éléphants:éléphant]"
 
 #: creature_large_tropical.txt:9
 msgctxt "CREATURE:ELEPHANT"
 msgid "[GENERAL_CHILD_NAME:elephant calf:elephant calves]"
-msgstr ""
+msgstr "[GENERAL_CHILD_NAME:éléphanteau:éléphanteaux]"
 
 #: creature_large_tropical.txt:24
 msgctxt "CREATURE:ELEPHANT"
@@ -19707,12 +19728,12 @@ msgstr "[PREFSTRING:force]"
 #: creature_large_tropical.txt:25
 msgctxt "CREATURE:ELEPHANT"
 msgid "[PREFSTRING:amazing trunks]"
-msgstr ""
+msgstr "[PREFSTRING:trompes incroyables]"
 
 #: creature_large_tropical.txt:26
 msgctxt "CREATURE:ELEPHANT"
 msgid "[PREFSTRING:calves' spirited antics]"
-msgstr ""
+msgstr "[PREFSTRING:jeunes pleins d'entrain]"
 
 #: creature_large_tropical.txt:27
 msgctxt "CREATURE:ELEPHANT"
@@ -19722,42 +19743,42 @@ msgstr "[PREFSTRING:défenses]"
 #: creature_large_tropical.txt:28
 msgctxt "CREATURE:ELEPHANT"
 msgid "[PREFSTRING:great weight]"
-msgstr ""
+msgstr "[PREFSTRING:très lourd]"
 
 #: creature_large_tropical.txt:29
 msgctxt "CREATURE:ELEPHANT"
 msgid "[PREFSTRING:social behavior]"
-msgstr ""
+msgstr "[PREFSTRING:comportement social]"
 
 #: creature_large_tropical.txt:30
 msgctxt "CREATURE:ELEPHANT"
 msgid "[PREFSTRING:flappy ears]"
-msgstr ""
+msgstr "[PREFSTRING:oreilles décollées]"
 
 #: creature_large_tropical.txt:31
 msgctxt "CREATURE:ELEPHANT"
 msgid "[PREFSTRING:uprooting of trees]"
-msgstr ""
+msgstr "[PREFSTRING:déracinement des arbres]"
 
 #: creature_large_tropical.txt:32
 msgctxt "CREATURE:ELEPHANT"
 msgid "[PREFSTRING:aggressive sparring]"
-msgstr ""
+msgstr "[PREFSTRING:combat agressif]"
 
 #: creature_large_tropical.txt:33
 msgctxt "CREATURE:ELEPHANT"
 msgid "[PREFSTRING:trumpeting]"
-msgstr ""
+msgstr "[PREFSTRING:en trompette]"
 
 #: creature_large_tropical.txt:34
 msgctxt "CREATURE:ELEPHANT"
 msgid "[PREFSTRING:tool use]"
-msgstr ""
+msgstr "[PREFSTRING:use d'outils]"
 
 #: creature_large_tropical.txt:35
 msgctxt "CREATURE:ELEPHANT"
 msgid "[PREFSTRING:self-awareness]"
-msgstr ""
+msgstr "[PREFSTRING:conscience de soi]"
 
 #: creature_large_tropical.txt:39
 msgctxt "CREATURE:ELEPHANT"
@@ -19782,7 +19803,7 @@ msgstr "[ATTACK_VERB:coup de pied:coups de pied]"
 #: creature_large_tropical.txt:78
 msgctxt "CREATURE:ELEPHANT"
 msgid "[ATTACK_VERB:gore:gores]"
-msgstr ""
+msgstr "[ATTACK_VERB:encorner:encorner]"
 
 #: creature_large_tropical.txt:98
 msgctxt "CREATURE:ELEPHANT"
@@ -19797,17 +19818,17 @@ msgstr "[TLCM_NOUN:yeux:PLURAL]"
 #: creature_large_tropical.txt:110
 msgctxt "CREATURE:ELEPHANT_MAN"
 msgid "[CASTE_NAME:elephant man:elephant men:elephant man]"
-msgstr ""
+msgstr "[CASTE_NAME:homme-éléphant:hommes-éléphants:homme-éléphant]"
 
 #: creature_large_tropical.txt:112
 msgctxt "CREATURE:ELEPHANT_MAN"
 msgid "[CASTE_NAME:elephant woman:elephant women:elephant woman]"
-msgstr ""
+msgstr "[CASTE_NAME:femme-éléphant:femmes-éléphants:femme-éléphant]"
 
 #: creature_large_tropical.txt:124
 msgctxt "CREATURE:ELEPHANT_MAN"
 msgid "[NAME:elephant man:elephant men:elephant man]"
-msgstr ""
+msgstr "[NAME:homme-éléphant:hommes-éléphants:homme-éléphant]"
 
 #: creature_large_tropical.txt:125
 msgctxt "CREATURE:ELEPHANT_MAN"
@@ -19819,17 +19840,17 @@ msgstr ""
 #: creature_large_tropical.txt:145
 msgctxt "CREATURE:GIANT_ELEPHANT"
 msgid "[NAME:giant elephant:giant elephants:giant elephant]"
-msgstr ""
+msgstr "[NAME:éléphant géant:éléphants géants:éléphant géant]"
 
 #: creature_large_tropical.txt:146
 msgctxt "CREATURE:GIANT_ELEPHANT"
 msgid "[CASTE_NAME:giant elephant:giant elephants:giant elephant]"
-msgstr ""
+msgstr "[CASTE_NAME:éléphant géant:éléphants géants:éléphant géant]"
 
 #: creature_large_tropical.txt:147
 msgctxt "CREATURE:GIANT_ELEPHANT"
 msgid "[GENERAL_CHILD_NAME:giant elephant calf:giant elephant calves]"
-msgstr ""
+msgstr "[GENERAL_CHILD_NAME:éléphanteau géant:éléphanteaux géants]"
 
 #: creature_large_tropical.txt:148
 msgctxt "CREATURE:GIANT_ELEPHANT"
@@ -19844,12 +19865,12 @@ msgstr "[PREFSTRING:force]"
 #: creature_large_tropical.txt:158
 msgctxt "CREATURE:GIANT_ELEPHANT"
 msgid "[PREFSTRING:amazing trunks]"
-msgstr ""
+msgstr "[PREFSTRING:trompes incroyables]"
 
 #: creature_large_tropical.txt:159
 msgctxt "CREATURE:GIANT_ELEPHANT"
 msgid "[PREFSTRING:calves' spirited antics]"
-msgstr ""
+msgstr "[PREFSTRING:jeunes pleins d'entrain]"
 
 #: creature_large_tropical.txt:160
 msgctxt "CREATURE:GIANT_ELEPHANT"
@@ -19859,42 +19880,42 @@ msgstr "[PREFSTRING:défenses]"
 #: creature_large_tropical.txt:161
 msgctxt "CREATURE:GIANT_ELEPHANT"
 msgid "[PREFSTRING:great weight]"
-msgstr ""
+msgstr "[PREFSTRING:très lourd]"
 
 #: creature_large_tropical.txt:162
 msgctxt "CREATURE:GIANT_ELEPHANT"
 msgid "[PREFSTRING:social behavior]"
-msgstr ""
+msgstr "[PREFSTRING:comportement social]"
 
 #: creature_large_tropical.txt:163
 msgctxt "CREATURE:GIANT_ELEPHANT"
 msgid "[PREFSTRING:flappy ears]"
-msgstr ""
+msgstr "[PREFSTRING:oreilles décollées]"
 
 #: creature_large_tropical.txt:164
 msgctxt "CREATURE:GIANT_ELEPHANT"
 msgid "[PREFSTRING:uprooting of trees]"
-msgstr ""
+msgstr "[PREFSTRING:déracinement des arbres]"
 
 #: creature_large_tropical.txt:165
 msgctxt "CREATURE:GIANT_ELEPHANT"
 msgid "[PREFSTRING:aggressive sparring]"
-msgstr ""
+msgstr "[PREFSTRING:combat agressif]"
 
 #: creature_large_tropical.txt:166
 msgctxt "CREATURE:GIANT_ELEPHANT"
 msgid "[PREFSTRING:trumpeting]"
-msgstr ""
+msgstr "[PREFSTRING:en trompette]"
 
 #: creature_large_tropical.txt:167
 msgctxt "CREATURE:GIANT_ELEPHANT"
 msgid "[PREFSTRING:tool use]"
-msgstr ""
+msgstr "[PREFSTRING:use d'outils]"
 
 #: creature_large_tropical.txt:168
 msgctxt "CREATURE:GIANT_ELEPHANT"
 msgid "[PREFSTRING:self-awareness]"
-msgstr ""
+msgstr "[PREFSTRING:conscience de soi]"
 
 #: creature_large_tropical.txt:174
 msgctxt "CREATURE:WARTHOG"
