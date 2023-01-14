@@ -31,12 +31,12 @@
 # Kirill Shevernitskiy, 2022
 # Rzhu Men, 2023
 # Jim Smith, 2023
-# Денис Денисов, 2023
 # insolor, 2023
+# Денис Денисов, 2023
 # 
 msgid ""
 msgstr ""
-"Last-Translator: insolor, 2023\n"
+"Last-Translator: Денис Денисов, 2023\n"
 "Language-Team: Russian (https://www.transifex.com/dwarf-fortress-translation/teams/22396/ru/)\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -5026,7 +5026,7 @@ msgstr "Аквариум"
 
 #: stringdump_steam_2022_12_06.txt:1313
 msgid "You must designate a dungeon"
-msgstr "Вы должны указать подземелье"
+msgstr "Вы должны указать темницу"
 
 #: stringdump_steam_2022_12_06.txt:1314
 msgid "Unassigned occupant"
@@ -5054,7 +5054,7 @@ msgstr "Неназванный район сбора растений"
 
 #: stringdump_steam_2022_12_06.txt:1320
 msgid "Unnamed dungeon"
-msgstr "Безымянное подземелье"
+msgstr "Безымянная темница"
 
 #: stringdump_steam_2022_12_06.txt:1321
 msgid "Unnamed dormitory"
@@ -7265,7 +7265,7 @@ msgstr "Ящики, мешки, и бочки"
 
 #: stringdump_steam_2022_12_06.txt:1891
 msgid "Meeting areas and locations"
-msgstr "Зоны и места проведения встреч"
+msgstr "Зоны и места проведения собраний"
 
 #: stringdump_steam_2022_12_06.txt:1892
 msgid "Clothing"
@@ -7994,8 +7994,8 @@ msgstr "работает аналогично."
 #: stringdump_steam_2022_12_06.txt:2057
 msgid "Later you can consider making a [C:3:0:0]Meeting Area[C:7:0:0] "
 msgstr ""
-"Позже вы можете рассмотреть возможность создания [C:3:0:0]Зона "
-"встречи[C:7:0:0] "
+"Позже вы можете рассмотреть возможность создания [C:3:0:0]Зоны "
+"собраний[C:7:0:0]"
 
 #: stringdump_steam_2022_12_06.txt:2058
 msgid ""
@@ -8549,7 +8549,7 @@ msgid ""
 msgstr ""
 "Чтобы убедиться, что они проводят там свободное время, вам нужно "
 "использовать меню [C:5:0:1]Зоны[C:7:0:0], чтобы создать [C:3:0:0]Зону "
-"встреч[C:7:0:0]."
+"собраний[C:7:0:0]."
 
 #: stringdump_steam_2022_12_06.txt:2139
 msgid ""
@@ -9989,7 +9989,7 @@ msgid ""
 msgstr ""
 "[C:3:0:0]Зоны[C:7:0:0] могут быть назначены на специальные "
 "[C:1:0:1]Места[C:7:0:0]. Обычно достаточно одной [C:3:0:0]Зоны "
-"встречи[C:7:0:0], но [C:1:0:1]Места[C:7:0:0] могут охватывать несколько "
+"собраний[C:7:0:0], но [C:1:0:1]Места[C:7:0:0] могут охватывать несколько "
 "[C:3:0:0]Зон[C:7:0:0]."
 
 #: stringdump_steam_2022_12_06.txt:2334
@@ -9997,8 +9997,8 @@ msgid ""
 "[C:3:0:0]Meeting Areas[C:7:0:0] are [C:3:0:0]Zones[C:7:0:0] where your "
 "citizens gather when not working or taking care of their needs. "
 msgstr ""
-"[C:3:0:0]Зоны встреч[C:7:0:0] - это [C:3:0:0]зоны[C:7:0:0], где собираются "
-"ваши жители, когда не работают или не заботятся о своих нуждах."
+"[C:3:0:0]Зоны собраний[C:7:0:0] - это [C:3:0:0]зоны[C:7:0:0], где собираются"
+" ваши жители, когда не работают или не удовлетворяют свои нужды."
 
 #: stringdump_steam_2022_12_06.txt:2335
 msgid ""
@@ -10648,8 +10648,8 @@ msgid ""
 "Meet their needs by providing [C:3:0:0]Meeting Areas[C:7:0:0] and "
 "[C:1:0:1]Locations[C:7:0:0] for socializing, worship, and study. "
 msgstr ""
-"Удовлетворять их потребности, предоставляя [C:3:0:0]места для "
-"собраний[C:7:0:0] и [C:1:0:1]места[C:7:0:0] для общения, поклонения и учебы."
+"Удовлетворять их потребности, предоставляя [C:3:0:0]Зоны собраний[C:7:0:0] и"
+" [C:1:0:1]Места[C:7:0:0] для общения, поклонения и учебы."
 
 #: stringdump_steam_2022_12_06.txt:2424
 msgid "Alcohol, good food, and personal rooms go a long way. "
@@ -11621,7 +11621,7 @@ msgstr "Изменение размеров окна (вступает в сил
 
 #: stringdump_steam_2022_12_06.txt:2658
 msgid " Desired grid width for scaling (default = 170)"
-msgstr " Желаемая ширина сетки для масштабирования (по умолчанию = 170)"
+msgstr "Ширина сетки для масштабирования (по умолчанию = 170)"
 
 #: stringdump_steam_2022_12_06.txt:2659
 msgid "Yes"
@@ -11629,11 +11629,11 @@ msgstr "Да"
 
 #: stringdump_steam_2022_12_06.txt:2660
 msgid " Interface scaling percentage if not fitting width"
-msgstr "Процент масштабирования интерфейса, если он не соответствует ширине"
+msgstr "Масштаб интерфейса в процентах при нехватке ширины"
 
 #: stringdump_steam_2022_12_06.txt:2661
 msgid " Desired grid height for scaling (default = 64)"
-msgstr " Желаемая высота сетки для масштабирования (по умолчанию = 64)"
+msgstr "Высота сетки для масштабирования (по умолчанию = 64)"
 
 #: stringdump_steam_2022_12_06.txt:2664
 msgid "No"
@@ -15452,7 +15452,7 @@ msgstr "Песок"
 
 #: stringdump_steam_2022_12_06.txt:3835
 msgid "Meeting area"
-msgstr "Зона встречи"
+msgstr "Зона собраний"
 
 #: stringdump_steam_2022_12_06.txt:3836
 msgid "Archery range"
@@ -15960,7 +15960,7 @@ msgstr "Только организованные религии могут им
 
 #: stringdump_steam_2022_12_06.txt:3961
 msgid "Meeting place, "
-msgstr "Место встреч, "
+msgstr "Место собраний, "
 
 #: stringdump_steam_2022_12_06.txt:3962
 msgid "Beds in common area: "
@@ -16176,7 +16176,7 @@ msgstr "и библиотеки могут быть созданы из"
 
 #: stringdump_steam_2022_12_06.txt:4015
 msgid "meeting area zones, dining rooms and"
-msgstr "зоны конференц-залов, столовых и"
+msgstr "зон для собраний, столовых и"
 
 #: stringdump_steam_2022_12_06.txt:4016
 msgid "No worshippers"
@@ -16188,7 +16188,7 @@ msgstr "Места, такие как таверны, храмы"
 
 #: stringdump_steam_2022_12_06.txt:4018
 msgid "outside the fortress."
-msgstr "вне крепости."
+msgstr "извне крепости."
 
 #: stringdump_steam_2022_12_06.txt:4019
 msgid "Add or choose a location."
@@ -16196,11 +16196,11 @@ msgstr "Добавьте или выберите место."
 
 #: stringdump_steam_2022_12_06.txt:4020
 msgid "bedrooms.  These larger associations"
-msgstr "спальни.  Эти более крупные объединения"
+msgstr "спален. Эти более крупные объединения"
 
 #: stringdump_steam_2022_12_06.txt:4021
 msgid "of rooms can attract visitors from"
-msgstr "комнат может привлечь посетителей из"
+msgstr "комнат может привлечь посетителей"
 
 #: stringdump_steam_2022_12_06.txt:4022
 msgid "Clothes"
@@ -17016,7 +17016,7 @@ msgstr "Стрельбище"
 
 #: stringdump_steam_2022_12_06.txt:4231
 msgid "Dining Hall"
-msgstr "обеденный зал"
+msgstr "Обеденный зал"
 
 #: stringdump_steam_2022_12_06.txt:4232
 msgid "beds"
@@ -17300,7 +17300,7 @@ msgstr "Новый маршрут"
 
 #: stringdump_steam_2022_12_06.txt:4304
 msgid "Building track stops is recommended!"
-msgstr "Рекомендуется выстраивать путевые остановки!"
+msgstr "Рекомендуется добавлять остановки!"
 
 #: stringdump_steam_2022_12_06.txt:4305
 msgid "Click a tile to position the stop."
@@ -17388,11 +17388,11 @@ msgstr "У выбранных клеток низкий приоритет."
 
 #: stringdump_steam_2022_12_06.txt:4326
 msgid "Hide advanced options."
-msgstr "Спрятать дополнительные настройки"
+msgstr "Скрыть дополнительные настройки"
 
 #: stringdump_steam_2022_12_06.txt:4327
 msgid "Show advanced options."
-msgstr "Показать дополнительные параметры."
+msgstr "Показать дополнительные настройки."
 
 #: stringdump_steam_2022_12_06.txt:4328
 msgid "Change standard selections to blueprints."
@@ -17815,7 +17815,7 @@ msgstr "Завершить создание зон"
 #: stringdump_steam_2022_12_06.txt:4407
 msgid "Place zones to establish meeting areas, pastures, and more."
 msgstr ""
-"Разместите зоны, чтобы установить места для встреч, пастбища и многое "
+"Разместите зоны, чтобы установить места для собраний, пастбища и многое "
 "другое."
 
 #: stringdump_steam_2022_12_06.txt:4408
@@ -17877,8 +17877,8 @@ msgid ""
 "Prisoners convicted in the Justice menu can be incarcerated at a chain or "
 "metal cage in the dungeon zone."
 msgstr ""
-"Заключенные, осужденные в меню Правосудия, могут быть заключены в цепную или"
-" металлическую клетку в подземелье."
+"Заключенные, осужденные в меню Правосудия, могут быть заключены в цепь или "
+"металлическую клетку в темнице."
 
 #: stringdump_steam_2022_12_06.txt:4418
 msgid "Remove this burrow permanently."
@@ -22096,7 +22096,7 @@ msgstr "восхищаться объектом."
 
 #: stringdump_steam_2022_12_06.txt:5261
 msgid "Desired metal cages and chains in dungeons: "
-msgstr "Желанные металлические клетки и цепи в подземельях:"
+msgstr "Желанные металлические клетки и цепи в темницах: "
 
 #: stringdump_steam_2022_12_06.txt:5262
 msgid "Reported: "
@@ -25498,7 +25498,7 @@ msgstr "эта крепость"
 
 #: stringdump_steam_2022_12_06.txt:6120
 msgid "this hospital"
-msgstr "данный госпиталь"
+msgstr "этот госпиталь"
 
 #: stringdump_steam_2022_12_06.txt:6121
 msgid "this guildhall"
@@ -25524,7 +25524,7 @@ msgstr "где-то"
 
 #: stringdump_steam_2022_12_06.txt:6126
 msgid "this dungeon"
-msgstr "это подземелье"
+msgstr "эта темница"
 
 #: stringdump_steam_2022_12_06.txt:6127
 msgid "these sewers"
@@ -35944,7 +35944,7 @@ msgstr "Я был в длительном патруле."
 
 #: stringdump_steam_2022_12_06.txt:8777
 msgid "I'm sleepy."
-msgstr "Я сонный."
+msgstr "Хочу спать."
 
 #: stringdump_steam_2022_12_06.txt:8778
 msgid "I've been out in the sunshine again after a long time away."
@@ -35952,7 +35952,7 @@ msgstr "Я вышел на солнце после долгого пребыва
 
 #: stringdump_steam_2022_12_06.txt:8779
 msgid "I'm thirsty."
-msgstr "Я хочу пить."
+msgstr "Хочу пить."
 
 #: stringdump_steam_2022_12_06.txt:8780
 msgid "I haven't slept for a very long time."
@@ -35960,7 +35960,7 @@ msgstr "Я очень давно не спал."
 
 #: stringdump_steam_2022_12_06.txt:8781
 msgid "I'm hungry."
-msgstr "Я голоден."
+msgstr "Хочу есть."
 
 #: stringdump_steam_2022_12_06.txt:8782
 msgid "I'm dehydrated."
@@ -35988,7 +35988,7 @@ msgstr "Мне нужно что-то сделать."
 
 #: stringdump_steam_2022_12_06.txt:8788
 msgid "I need time to contemplate."
-msgstr "Мне нужно время размышление."
+msgstr "Мне нужно время на размышление."
 
 #: stringdump_steam_2022_12_06.txt:8789
 msgid "I was near to "
@@ -36032,7 +36032,7 @@ msgstr "Моя супруга потеряла ребёнка."
 
 #: stringdump_steam_2022_12_06.txt:8799
 msgid "My clothes actually rotted right off of my body."
-msgstr "Моя одежда сгнила прямо на мне."
+msgstr "Моя одежда буквально сгнила на мне."
 
 #: stringdump_steam_2022_12_06.txt:8800
 msgid "My clothes are in tatters."
@@ -36280,7 +36280,7 @@ msgstr "Я бы хотел услышать кого-нибудь краснор
 
 #: stringdump_steam_2022_12_06.txt:8861
 msgid "We must make merry again."
-msgstr "Мы должны повеселиться снова."
+msgstr "Нам нужно снова повеселиться."
 
 #: stringdump_steam_2022_12_06.txt:8862
 msgid "I need to pause and reflect upon myself."
@@ -36428,7 +36428,7 @@ msgstr "Здесь не хватает обеденных столов."
 
 #: stringdump_steam_2022_12_06.txt:8898
 msgid " arrangements than I do."
-msgstr "лучше чем у меня."
+msgstr "лучше, чем у меня."
 
 #: stringdump_steam_2022_12_06.txt:8899
 msgid "I ate in a dining room."
@@ -36444,7 +36444,7 @@ msgstr "Здесь не хватает стульев."
 
 #: stringdump_steam_2022_12_06.txt:8902
 msgid "I didn't have a dining room."
-msgstr "У меня нет персональной столовой."
+msgstr "У меня нет своей отдельной столовой."
 
 #: stringdump_steam_2022_12_06.txt:8903
 msgid "I was rescued."
