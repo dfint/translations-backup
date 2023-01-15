@@ -1142,17 +1142,18 @@ msgstr ""
 msgid ""
 "I seek fortune and glory by offering my skill at arms in "
 "[CONTEXT:PLACE:TRANS_NAME]."
-msgstr ""
+msgstr "나는 부귀영화를 위해 [CONTEXT:PLACE:TRANS_NAME]에서 무공을 세웠다."
 
 #: text_mercenary_profession_year.txt:2
 msgid ""
 "I have sought fortune and glory by offering my skill at arms in "
 "[CONTEXT:PLACE:TRANS_NAME] for [CONTEXT:NUMBER] of my years."
 msgstr ""
+"나는 부와 명예를 쫓아 [CONTEXT:NUMBER]년 동안[CONTEXT:PLACE:TRANS_NAME]에서 무공을 세워왔다."
 
 #: text_no_family.txt:2
 msgid "I have no family to speak of"
-msgstr ""
+msgstr "말할 가족이 없는데"
 
 #: text_past_hunting_profession.txt:2
 msgid "In the past, I hunted great beasts."
@@ -1256,7 +1257,7 @@ msgstr ""
 #: text_same_site_specific_hf_seeker.txt:2
 msgid ""
 "seek out [CONTEXT:HIST_FIG:TRANS_NAME] here in [CONTEXT:SITE:TRANS_NAME]"
-msgstr ""
+msgstr "[CONTEXT:HIST_FIG:TRANS_NAME]을(를) 찾아라 여기 [CONTEXT:SITE:TRANS_NAME]에서"
 
 #: text_secret_death.txt:2
 msgid "Annihilation"
@@ -1345,7 +1346,7 @@ msgstr "무덤"
 #: text_site_specific_hf_seeker.txt:2
 msgid ""
 "seek out [CONTEXT:HIST_FIG:TRANS_NAME] over in [CONTEXT:SITE:TRANS_NAME]"
-msgstr ""
+msgstr "[CONTEXT:HIST_FIG:TRANS_NAME]을(를) 찾아라 [CONTEXT:SITE:TRANS_NAME]에서"
 
 #: text_slayer.txt:2
 msgid "bane"
@@ -1406,13 +1407,13 @@ msgstr "교살자"
 #: text_snatcher_profession.txt:2
 msgid ""
 "I rescue lost children and bring them back to [CONTEXT:PLACE:TRANS_NAME]."
-msgstr "나는 잃어버린 아이들을 구출해 [CONTEXT:PLACE:TRANS_NAME]에 대려왔다."
+msgstr "나는 미아들을 구출해 [CONTEXT:PLACE:TRANS_NAME]에 데려왔다."
 
 #: text_snatcher_profession_year.txt:2
 msgid ""
 "For [CONTEXT:NUMBER] of my years, I have been rescuing lost children and "
 "bringing them back to [CONTEXT:PLACE:TRANS_NAME]."
-msgstr ""
+msgstr "[CONTEXT:NUMBER]년 동안, 나는 미아들을 구출하고[CONTEXT:PLACE:TRANS_NAME]로 데려왔다."
 
 #: text_soldier_profession.txt:2
 msgid "I am a soldier."
@@ -1420,7 +1421,7 @@ msgstr "저는 군인입니다."
 
 #: text_task_recommendation.txt:2
 msgid "[CONTEXT:ANY:TRANS_NAME] might have a task for you"
-msgstr ""
+msgstr "[CONTEXT:ANY:TRANS_NAME]은 너에게 볼일이 있는 것 같다"
 
 #: text_temple_already_member.txt:2
 msgid "simply"
@@ -1447,28 +1448,36 @@ msgid ""
 "Welcome to [CONTEXT:ENTITY:TRANS_NAME].  Praise be to "
 "[CONTEXT:ENTITY:WORSHIP_HF:TRANS_NAME]!"
 msgstr ""
+"[CONTEXT:ENTITY:TRANS_NAME]에 오신 것을 환영합니다. "
+"[CONTEXT:ENTITY:WORSHIP_HF:TRANS_NAME]을 찬양하라!"
 
 #: text_temple_become_member.txt:3
 msgid ""
 "Welcome to [CONTEXT:ENTITY:TRANS_NAME].  Praise be to "
 "[CONTEXT:ENTITY:WORSHIP_HF:RANDOM_DEF_SPHERE]!"
 msgstr ""
+"[CONTEXT:ENTITY:TRANS_NAME]에 오신 것을 환영합니다. "
+"[CONTEXT:ENTITY:WORSHIP_HF:RANDOM_DEF_SPHERE]을 찬양하라!"
 
 #: text_temple_become_member.txt:4
 msgid ""
 "As a member of [CONTEXT:ENTITY:TRANS_NAME], you can now seek the higher "
 "mysteries of [CONTEXT:ENTITY:WORSHIP_HF:TRANS_NAME]."
 msgstr ""
+"당신은 이제 [CONTEXT:ENTITY:TRANS_NAME]의 신도로, "
+"[CONTEXT:ENTITY:WORSHIP_HF:TRANS_NAME]의 더 높은 신비를 좇을 수 있습니다."
 
 #: text_temple_become_member.txt:5
 msgid ""
 "As a member of [CONTEXT:ENTITY:TRANS_NAME], you can now seek the higher "
 "mysteries of [CONTEXT:ENTITY:WORSHIP_HF:RANDOM_DEF_SPHERE]."
 msgstr ""
+"당신은 이제 [CONTEXT:ENTITY:TRANS_NAME]의 신도로, "
+"[CONTEXT:ENTITY:WORSHIP_HF:RANDOM_DEF_SPHERE] 의 더 높은 신비를 좇을 수 있습니다."
 
 #: text_thief_profession.txt:2
 msgid "I seek treasures and bring them back to [CONTEXT:PLACE:TRANS_NAME]."
-msgstr "나는 보물을 찾아 [CONTEXT:PLACE:TRANS_NAME]로 돌려놓는다."
+msgstr "나는 보물을 찾아 [CONTEXT:PLACE:TRANS_NAME]로 가져간다."
 
 #: text_thief_profession_year.txt:2
 msgid ""
@@ -1486,6 +1495,8 @@ msgid ""
 "seek out [CONTEXT:HIST_FIG:TRANS_NAME], wherever [CONTEXT:HIST_FIG:PRO_SUB] "
 "might be"
 msgstr ""
+"[CONTEXT:HIST_FIG:TRANS_NAME]을(를) 찾아라,  [CONTEXT:HIST_FIG:PRO_SUB]이(가) 어디에 "
+"있든 "
 
 #: text_wandering_profession.txt:2
 msgid "I wander [CONTEXT:PLACE:TRANS_NAME]."
