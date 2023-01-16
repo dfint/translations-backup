@@ -4,10 +4,11 @@
 # moinen, 2022
 # Krzysztof Bienias <krzysztof.bienias.kb@gmail.com>, 2022
 # Maciej Dembiński, 2023
+# Kuba M <nowasinho@gmail.com>, 2023
 # 
 msgid ""
 msgstr ""
-"Last-Translator: Maciej Dembiński, 2023\n"
+"Last-Translator: Kuba M <nowasinho@gmail.com>, 2023\n"
 "Language-Team: Polish (https://www.transifex.com/dwarf-fortress-translation/teams/22396/pl/)\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -39355,7 +39356,7 @@ msgstr "[ATTACK_VERB:gryziesz:gryzie]"
 #: creature_tundra_taiga_new.txt:72
 msgctxt "CREATURE:STOAT"
 msgid "[ATTACK_VERB:scratch:scratches]"
-msgstr ""
+msgstr "[ATTACK_VERB:drapiesz:drapie]"
 
 #: creature_tundra_taiga_new.txt:88
 msgctxt "CREATURE:STOAT"
@@ -40222,7 +40223,7 @@ msgstr ""
 #: descriptor_shape_standard.txt:66
 msgctxt "SHAPE:WAVE"
 msgid "[NAME:wave:waves]"
-msgstr ""
+msgstr "[NAME:fala:fale]"
 
 #: descriptor_shape_standard.txt:72
 msgctxt "SHAPE:MOUNTAIN"
@@ -40797,27 +40798,27 @@ msgstr ""
 #: entity_default.txt:1097
 msgctxt "ENTITY:FOREST"
 msgid "[NAME:druid:druids]"
-msgstr ""
+msgstr "[NAME:druid:druidzi]"
 
 #: entity_default.txt:1115
 msgctxt "ENTITY:FOREST"
 msgid "[NAME:acolyte:acolytes]"
-msgstr ""
+msgstr "[NAME:akolita:akolici]"
 
 #: entity_default.txt:1128
 msgctxt "ENTITY:FOREST"
 msgid "[NAME:princess:princesses]"
-msgstr ""
+msgstr "[NAME:księżniczka:księżniczki]"
 
 #: entity_default.txt:1148
 msgctxt "ENTITY:FOREST"
 msgid "[NAME:queen:queens]"
-msgstr ""
+msgstr "[NAME:królowa:królowe]"
 
 #: entity_default.txt:1169
 msgctxt "ENTITY:FOREST"
 msgid "[NAME:diplomat:diplomats]"
-msgstr ""
+msgstr "[NAME:dyplomata:dyplomaci]"
 
 #: entity_default.txt:1184
 msgctxt "ENTITY:FOREST"
@@ -40862,7 +40863,7 @@ msgstr ""
 #: item_ammo.txt:13
 msgctxt "ITEM_AMMO:ITEM_AMMO_ARROWS"
 msgid "[NAME:arrow:arrows]"
-msgstr ""
+msgstr "[NAME:strzała:strzały]"
 
 #: item_ammo.txt:16
 msgctxt "ITEM_AMMO:ITEM_AMMO_ARROWS"
@@ -40957,7 +40958,7 @@ msgstr ""
 #: item_food.txt:10
 msgctxt "ITEM_FOOD:ITEM_FOOD_STEW"
 msgid "[NAME:stew]"
-msgstr ""
+msgstr "[NAME:gulasz]"
 
 #: item_food.txt:14
 msgctxt "ITEM_FOOD:ITEM_FOOD_ROAST"
@@ -40972,7 +40973,7 @@ msgstr ""
 #: item_gloves.txt:21
 msgctxt "ITEM_GLOVES:ITEM_GLOVES_GLOVES"
 msgid "[NAME:glove:gloves]"
-msgstr ""
+msgstr "[NAME:rękawica:rękawice]"
 
 #: item_gloves.txt:32
 msgctxt "ITEM_GLOVES:ITEM_GLOVES_MITTENS"
@@ -40982,7 +40983,7 @@ msgstr ""
 #: item_helm.txt:6
 msgctxt "ITEM_HELM:ITEM_HELM_HELM"
 msgid "[NAME:helm:helms]"
-msgstr ""
+msgstr "[NAME:hełm:hełmy]"
 
 #: item_helm.txt:22
 msgctxt "ITEM_HELM:ITEM_HELM_CAP"
@@ -40992,7 +40993,7 @@ msgstr ""
 #: item_helm.txt:37
 msgctxt "ITEM_HELM:ITEM_HELM_HOOD"
 msgid "[NAME:hood:hoods]"
-msgstr ""
+msgstr "[NAME:kaptur:kaptury]"
 
 #: item_helm.txt:48
 msgctxt "ITEM_HELM:ITEM_HELM_TURBAN"
@@ -41002,7 +41003,7 @@ msgstr ""
 #: item_helm.txt:59
 msgctxt "ITEM_HELM:ITEM_HELM_MASK"
 msgid "[NAME:mask:masks]"
-msgstr ""
+msgstr "[NAME:maska:maski]"
 
 #: item_helm.txt:75
 msgctxt "ITEM_HELM:ITEM_HELM_VEIL_HEAD"
@@ -41022,12 +41023,12 @@ msgstr ""
 #: item_pants.txt:6
 msgctxt "ITEM_PANTS:ITEM_PANTS_PANTS"
 msgid "[PREPLURAL:pairs of]"
-msgstr ""
+msgstr "[PREPLURAL:para]"
 
 #: item_pants.txt:7
 msgctxt "ITEM_PANTS:ITEM_PANTS_PANTS"
 msgid "[NAME:trousers:trousers]"
-msgstr ""
+msgstr "[NAME:spodnie:spodnie]"
 
 #: item_pants.txt:20
 msgctxt "ITEM_PANTS:ITEM_PANTS_GREAVES"
@@ -41062,7 +41063,7 @@ msgstr ""
 #: item_pants.txt:87
 msgctxt "ITEM_PANTS:ITEM_PANTS_SKIRT_SHORT"
 msgid "[ADJECTIVE:short]"
-msgstr ""
+msgstr "[ADJECTIVE:krótki]"
 
 #: item_pants.txt:98
 msgctxt "ITEM_PANTS:ITEM_PANTS_SKIRT_LONG"
@@ -41097,7 +41098,7 @@ msgstr ""
 #: item_shoes.txt:6
 msgctxt "ITEM_SHOES:ITEM_SHOES_SHOES"
 msgid "[NAME:shoe:shoes]"
-msgstr ""
+msgstr "[NAME:but:buty]"
 
 #: item_shoes.txt:17
 msgctxt "ITEM_SHOES:ITEM_SHOES_BOOTS"
@@ -41112,7 +41113,7 @@ msgstr ""
 #: item_shoes.txt:44
 msgctxt "ITEM_SHOES:ITEM_SHOES_SANDAL"
 msgid "[NAME:sandal:sandals]"
-msgstr ""
+msgstr "[NAME:sandał:sandały]"
 
 #: item_shoes.txt:55
 msgctxt "ITEM_SHOES:ITEM_SHOES_CHAUSSE"
@@ -41122,7 +41123,7 @@ msgstr ""
 #: item_shoes.txt:67
 msgctxt "ITEM_SHOES:ITEM_SHOES_SOCKS"
 msgid "[NAME:sock:socks]"
-msgstr ""
+msgstr "[NAME:skarpeta:skarpety]"
 
 #: item_siegeammo.txt:6
 msgctxt "ITEM_SIEGEAMMO:ITEM_SIEGEAMMO_BALLISTA"
@@ -41562,7 +41563,7 @@ msgstr ""
 #: item_weapon.txt:84
 msgctxt "ITEM_WEAPON:ITEM_WEAPON_CROSSBOW"
 msgid "[NAME:crossbow:crossbows]"
-msgstr ""
+msgstr "[NAME:kusza:kusze]"
 
 #: item_weapon.txt:93
 msgctxt "ITEM_WEAPON:ITEM_WEAPON_CROSSBOW"
@@ -41662,7 +41663,7 @@ msgstr ""
 #: item_weapon.txt:175
 msgctxt "ITEM_WEAPON:ITEM_WEAPON_SWORD_LONG"
 msgid "[NAME:long sword:long swords]"
-msgstr ""
+msgstr "[NAME:długi miecz:długie miecze]"
 
 #: item_weapon.txt:181
 msgctxt "ITEM_WEAPON:ITEM_WEAPON_SWORD_LONG"
@@ -41717,7 +41718,7 @@ msgstr ""
 #: item_weapon.txt:215
 msgctxt "ITEM_WEAPON:ITEM_WEAPON_DAGGER_LARGE"
 msgid "[NAME:dagger:daggers]"
-msgstr ""
+msgstr "[NAME:sztylet:sztylety]"
 
 #: item_weapon.txt:216
 msgctxt "ITEM_WEAPON:ITEM_WEAPON_DAGGER_LARGE"
