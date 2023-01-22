@@ -7940,6 +7940,8 @@ msgid ""
 "[SOUND:PEACEFUL_INTERMITTENT:50:1000:VOCALIZATION:ching:chings:a metallic "
 "ching]"
 msgstr ""
+"[SOUND:\n"
+"PEACEFUL_INTERMITTENT:50:1000:VOCALIZATION:칭:칭:금속성 칭]"
 
 #: creature_birds_new.txt:1710
 msgctxt "CREATURE:BIRD_KAKAPO"
@@ -11060,7 +11062,7 @@ msgstr "[PREFSTRING:색상]"
 #: creature_desert_new.txt:139
 msgctxt "CREATURE:DESERT TORTOISE"
 msgid "[DESCRIPTION:A tiny shelled reptile that lives in the desert.]"
-msgstr ""
+msgstr "[DESCRIPTION:사막에서 사는 작은 껍질을 가진 파충류.]"
 
 #: creature_desert_new.txt:140
 msgctxt "CREATURE:DESERT TORTOISE"
@@ -11125,7 +11127,7 @@ msgstr "[NAME:수컷 사막 거북이인간:수컷 사막 거북이인간들:수
 msgctxt "CREATURE:DESERT_TORTOISE_MAN"
 msgid ""
 "[DESCRIPTION:A reptile person with the head and tail of a desert tortoise.]"
-msgstr ""
+msgstr "[DESCRIPTION:사막 거북이의 머리와 꼬리를 가진 파충류 인간.]"
 
 #: creature_desert_new.txt:259
 msgctxt "CREATURE:GIANT_DESERT_TORTOISE"
@@ -11150,7 +11152,7 @@ msgstr "[GENERAL_CHILD_NAME:새끼 거대 사막 거북이:새끼 거대 사막 
 #: creature_desert_new.txt:262
 msgctxt "CREATURE:GIANT_DESERT_TORTOISE"
 msgid "[DESCRIPTION:A large monster in the form of a desert tortoise.]"
-msgstr ""
+msgstr "[DESCRIPTION:사막거북이의 모습을 한 거대한 괴수.]"
 
 #: creature_desert_new.txt:271
 msgctxt "CREATURE:GIANT_DESERT_TORTOISE"
@@ -11271,7 +11273,7 @@ msgstr "[NAME:수컷 아메리카독도마뱀인간:수컷 아메리카독도마
 msgctxt "CREATURE:GILA_MONSTER_MAN"
 msgid ""
 "[DESCRIPTION:A venomous person with the head and tail of a gila monster.]"
-msgstr ""
+msgstr "[DESCRIPTION:아메리카독도마뱀의 머리와 꼬리를 가진 독을 분비하는 인간.]"
 
 #: creature_desert_new.txt:438
 msgctxt "CREATURE:GIANT_GILA_MONSTER"
@@ -11303,7 +11305,7 @@ msgstr "[GENERAL_CHILD_NAME:거대 아메리카독도마뱀 새끼:거대 아메
 #: creature_desert_new.txt:463
 msgctxt "CREATURE:GIANT_GILA_MONSTER"
 msgid "[DESCRIPTION:A huge beast in the form of a gila monster.]"
-msgstr ""
+msgstr "[DESCRIPTION:아메리카독도마뱀의 모습을 한 거대한 괴수.]"
 
 #: creature_desert_new.txt:472
 msgctxt "CREATURE:GIANT_GILA_MONSTER"
@@ -11320,7 +11322,7 @@ msgctxt "CREATURE:DOG"
 msgid ""
 "[DESCRIPTION:A medium-sized highly social mammalian carnivore.  It has a "
 "keen sense of smell.  It can be trained to obey commands.]"
-msgstr ""
+msgstr "[DESCRIPTION:중간 크기의 고도로 사회화된 육식성 포유류. 후각이 예민하며, 명령에 따르도록 훈련할 수 있다.]"
 
 #: creature_domestic.txt:7
 msgctxt "CREATURE:DOG"
@@ -11397,7 +11399,7 @@ msgctxt "CREATURE:CAT"
 msgid ""
 "[DESCRIPTION:A small mammalian carnivore.  It is usually domestic and hunts "
 "vermin.]"
-msgstr ""
+msgstr "[DESCRIPTION:작은 육식성 포유류. 그것은 보통 집에서 기르기 좋고, 해충을 사냥한다.]"
 
 #: creature_domestic.txt:127
 msgctxt "CREATURE:CAT"
@@ -11494,7 +11496,7 @@ msgctxt "CREATURE:MULE"
 msgid ""
 "[DESCRIPTION:A compact offspring of horse and donkey, bred to be a beast of "
 "burden.]"
-msgstr ""
+msgstr "[DESCRIPTION:말과 당나귀의 작은 교잡종, 짐을 나르는 짐승으로 길러졌다.]"
 
 #: creature_domestic.txt:277
 msgctxt "CREATURE:MULE"
@@ -11668,7 +11670,7 @@ msgctxt "CREATURE:HORSE"
 msgid ""
 "[DESCRIPTION:A large hooved, maned herbivore.  They can run swiftly and many"
 " are domesticated as steeds.]"
-msgstr ""
+msgstr "[DESCRIPTION:큰 발굽과 갈기가 달린 초식 동물. 빠르게 달릴 수 있으며 말로 길들여진다.]"
 
 #: creature_domestic.txt:481
 msgctxt "CREATURE:HORSE"
@@ -11791,6 +11793,7 @@ msgid ""
 "[DESCRIPTION:A large mammalian herbivore.  They often bear large horns and "
 "the males are ill-tempered.  They are domesticated for milk and meat.]"
 msgstr ""
+"[DESCRIPTION:큰 초식성 포유류. 몇몇은 뿔을 가지고 있으며 수컷은 성질이 사납다. 우유와 고기를 위해 길들여진다.]"
 
 #: creature_domestic.txt:599
 msgctxt "CREATURE:COW"
@@ -11835,17 +11838,17 @@ msgstr ""
 #: creature_domestic.txt:680
 msgctxt "CREATURE:COW"
 msgid "[GENERAL_CHILD_NAME:cow calf:cow calves]"
-msgstr ""
+msgstr "[GENERAL_CHILD_NAME:송아지:송아지들]"
 
 #: creature_domestic.txt:692
 msgctxt "CREATURE:COW"
 msgid "[STATE_NAME:ALL_SOLID:frozen cow's milk]"
-msgstr ""
+msgstr "[STATE_NAME:ALL_SOLID:얼어붙은 우유]"
 
 #: creature_domestic.txt:693
 msgctxt "CREATURE:COW"
 msgid "[STATE_ADJ:ALL_SOLID:frozen cow's milk]"
-msgstr ""
+msgstr "[STATE_ADJ:ALL_SOLID:얼어붙은 우유]"
 
 #: creature_domestic.txt:694
 msgctxt "CREATURE:COW"
