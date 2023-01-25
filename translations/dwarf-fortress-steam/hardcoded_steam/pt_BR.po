@@ -79,10 +79,11 @@
 # Alexandre Hernandes, 2023
 # Transifex Bot <>, 2023
 # Julio CapCaverna, 2023
+# Rodrigo Medeiros, 2023
 # 
 msgid ""
 msgstr ""
-"Last-Translator: Julio CapCaverna, 2023\n"
+"Last-Translator: Rodrigo Medeiros, 2023\n"
 "Language-Team: Portuguese (Brazil) (https://www.transifex.com/dwarf-fortress-translation/teams/22396/pt_BR/)\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -103,7 +104,7 @@ msgstr "Aventureiro"
 
 #: stringdump_steam_0_50_05_sorted_by_xrefs.txt:4
 msgid "Dwarf mode"
-msgstr "Modo de anão"
+msgstr "Modo anão"
 
 #: stringdump_steam_0_50_05_sorted_by_xrefs.txt:5
 msgid "Embark"
@@ -111,7 +112,7 @@ msgstr "Embarcar"
 
 #: stringdump_steam_0_50_05_sorted_by_xrefs.txt:6
 msgid "Stockorder"
-msgstr "Stockorder"
+msgstr "Ordem de estoque"
 
 #: stringdump_steam_0_50_05_sorted_by_xrefs.txt:7
 msgid "Militia"
@@ -11994,7 +11995,7 @@ msgstr "Limite de FPS gráfico (padrão 50)"
 
 #: stringdump_steam_0_50_05_sorted_by_xrefs.txt:2766
 msgid "Use Classic ASCII glyphs"
-msgstr ""
+msgstr "Utilizar ASCII glifos clássicos"
 
 #: stringdump_steam_0_50_05_sorted_by_xrefs.txt:2767
 msgid "NO BINDING"
@@ -16575,11 +16576,11 @@ msgstr "Possíveis alvos nessa área:"
 
 #: stringdump_steam_0_50_05_sorted_by_xrefs.txt:4188
 msgid "Civilians:"
-msgstr ""
+msgstr "Civis:"
 
 #: stringdump_steam_0_50_05_sorted_by_xrefs.txt:4189
 msgid "Soldiers:"
-msgstr ""
+msgstr "Soldados:"
 
 #: stringdump_steam_0_50_05_sorted_by_xrefs.txt:4190
 msgid "Remove assignment"
@@ -22240,7 +22241,7 @@ msgstr "Plano de fundo"
 
 #: stringdump_steam_0_50_05_sorted_by_xrefs.txt:5380
 msgid "Foreground"
-msgstr ""
+msgstr "Primeiro plano"
 
 #: stringdump_steam_0_50_05_sorted_by_xrefs.txt:5381
 msgid "Done editing"
@@ -56110,7 +56111,7 @@ msgstr "o roubo de bebê"
 
 #: stringdump_steam_0_50_05_sorted_by_xrefs.txt:17260
 msgid "the mercenary operation"
-msgstr "a operação de mercenária"
+msgstr "a operação mercenária"
 
 #: stringdump_steam_0_50_05_sorted_by_xrefs.txt:17261
 msgid "the thievery"
@@ -64660,7 +64661,7 @@ msgstr "--- Registrando Música"
 
 #: stringdump_steam_0_50_05_sorted_by_xrefs.txt:22689
 msgid "Song file unrecognized: "
-msgstr ""
+msgstr "Arquivo de música não reconhecido"
 
 #: stringdump_steam_0_50_05_sorted_by_xrefs.txt:22737
 msgid "Card unrecognized: "
@@ -66109,7 +66110,7 @@ msgstr "Ano Final"
 
 #: stringdump_steam_0_50_05_sorted_by_xrefs.txt:23101
 msgid "Population Cap After Civ Creation"
-msgstr "Limite da população após a criação da Civ"
+msgstr "Limite da população após a criação da civilização"
 
 #: stringdump_steam_0_50_05_sorted_by_xrefs.txt:23102
 msgid "No Cap"
@@ -66117,7 +66118,7 @@ msgstr "No Cap"
 
 #: stringdump_steam_0_50_05_sorted_by_xrefs.txt:23103
 msgid "Site Cap After Civ Creation"
-msgstr "Limite do local após a criação da Civ"
+msgstr "Limite do local após a criação da civilização"
 
 #: stringdump_steam_0_50_05_sorted_by_xrefs.txt:23104
 msgid "Percentage Beasts Dead For Stoppage"
@@ -67107,8 +67108,8 @@ msgid ""
 "If you have very few biome types and are placing good or evil regions, "
 "they'll often crowd out the civilizations as well.  "
 msgstr ""
-"Se você tem muito poucos tipos de bioma e está colocando regioes bem ou "
-"maus, eles frequentemente vai desencorajar as civilizações também."
+"Se você tiver poucos tipos de biomas e estiver colocando regiões boas ou "
+"más, elas frequentemente vão desencorajar as civilizações também."
 
 #: stringdump_steam_0_50_05_sorted_by_xrefs.txt:23407
 msgid ""
@@ -67121,7 +67122,8 @@ msgstr ""
 #: stringdump_steam_0_50_05_sorted_by_xrefs.txt:23408
 msgid "The world generator couldn't find any civilization definitions.  "
 msgstr ""
-"O gerador do mundo não poderia encontrar nenhuma definição de civilização."
+"O gerador de mundos não conseguiu encontrar nenhuma definição de "
+"civilização."
 
 #: stringdump_steam_0_50_05_sorted_by_xrefs.txt:23409
 msgid ""
@@ -67135,7 +67137,7 @@ msgstr ""
 msgid ""
 "The world generator is having trouble placing a controllable civilization.  "
 msgstr ""
-"O gerador do mundo está com problemas, colocando uma civilização "
+"O gerador de mundo está tendo problemas para colocar uma civilização "
 "controlável."
 
 #: stringdump_steam_0_50_05_sorted_by_xrefs.txt:23411
@@ -67160,13 +67162,13 @@ msgid ""
 "appropriate civilization is placed)."
 msgstr ""
 "Como alternativa, você pode remover o requisito de uma civilização "
-"controlável de parâmetros, que irao restringir você de aventureiros (supondo"
-" que uma civilização adequada é colocada)."
+"controlável dos parâmetros, o que o restringirá a aventureiros (assumindo "
+"que uma civilização apropriada seja colocada)."
 
 #: stringdump_steam_0_50_05_sorted_by_xrefs.txt:23414
 msgid "The world generator is having trouble placing farming civilizations.  "
 msgstr ""
-"O gerador do mundo está com problemas, colocando as civilizações agrícolas."
+"O gerador mundial está tendo problemas para colocar civilizações agrícolas."
 
 #: stringdump_steam_0_50_05_sorted_by_xrefs.txt:23415
 msgid ""
@@ -67251,7 +67253,7 @@ msgstr "Pré-história terminou..."
 
 #: stringdump_steam_0_50_05_sorted_by_xrefs.txt:23436
 msgid "Placing civilizations... ("
-msgstr "Colocação de civilizações... ("
+msgstr "Colocando civilizações... ("
 
 #: stringdump_steam_0_50_05_sorted_by_xrefs.txt:23437
 msgid "Making cave civilizations..."
@@ -67283,7 +67285,7 @@ msgstr "Pré-história init..."
 
 #: stringdump_steam_0_50_05_sorted_by_xrefs.txt:23444
 msgid "Finalizing civ mats... ("
-msgstr "Finalizando as esteiras civ... ("
+msgstr "Finalizando os tapetes cívicos... ("
 
 #: stringdump_steam_0_50_05_sorted_by_xrefs.txt:23445
 msgid "Finalizing art... ("
@@ -67423,7 +67425,7 @@ msgstr "IMPOSSÍVEL COLOCAR CIVILIZAÇÃO CONTROLÁVEL"
 
 #: stringdump_steam_0_50_05_sorted_by_xrefs.txt:23479
 msgid "FARMING CIVILIZATION PLACED WITHOUT CROPS"
-msgstr "FARMING CIVILIZATION PLACED WITHOUT CROPS"
+msgstr "CIVILIZAÇÃO AGRÍCOLA COLOCADA SEM COLHEITAS"
 
 #: stringdump_steam_0_50_05_sorted_by_xrefs.txt:23480
 msgid "CONTINUE until you give me another warning."
@@ -80962,7 +80964,7 @@ msgstr "a forma de breves biografias em uma grande coleção"
 msgid ""
 "the method of accurately and comprehensively describing cultures and "
 "civilizations"
-msgstr "o método preciso e compreensivo de descrever culturas e civilizações"
+msgstr "o método de descrição precisa e abrangente de culturas e civilizações"
 
 #: stringdump_steam_0_50_05_sorted_by_xrefs.txt:28658
 msgid "the compilation of many summaries into a single text"
@@ -87763,7 +87765,7 @@ msgstr "A água pode precisar ser bombeada ou transportada."
 
 #: stringdump_steam_0_50_05_sorted_by_xrefs.txt:30483
 msgid "Your selected civilization is dead or dying."
-msgstr "Sua civilização selecionada está mortos ou morrendo."
+msgstr "Sua civilização selecionada está morta ou morrendo."
 
 #: stringdump_steam_0_50_05_sorted_by_xrefs.txt:30484
 msgid "Your dwarves might assume important positions."
@@ -87797,7 +87799,7 @@ msgstr "Escolher de novo"
 
 #: stringdump_steam_0_50_05_sorted_by_xrefs.txt:30491
 msgid "Choose origin civilization"
-msgstr "Civilização de origem"
+msgstr "Escolha a civilização de origem"
 
 #: stringdump_steam_0_50_05_sorted_by_xrefs.txt:30492
 msgid "Click the map to zoom in and choose your embark location."
@@ -89620,7 +89622,7 @@ msgstr "--- Som de registro"
 
 #: stringdump_steam_0_50_05_sorted_by_xrefs.txt:30984
 msgid "Sound file unrecognized: "
-msgstr ""
+msgstr "Arquivo de som não reconhecido"
 
 #: stringdump_steam_0_50_05_sorted_by_xrefs.txt:30989
 msgid "Station"
@@ -92132,11 +92134,11 @@ msgstr "larga"
 
 #: stringdump_steam_0_50_05_sorted_by_xrefs.txt:37350
 msgid "Creature caste outside of creature caste bounds: "
-msgstr ""
+msgstr "Casta de criatura fora dos limites da casta de criatura"
 
 #: stringdump_steam_0_50_05_sorted_by_xrefs.txt:37351
 msgid " caste(s)"
-msgstr ""
+msgstr "Casta(s)"
 
 #: stringdump_steam_0_50_05_sorted_by_xrefs.txt:37352
 msgid "Unit has misaligned body modifiers.  Adjusting."

@@ -3970,12 +3970,12 @@ msgstr " [BP:UB:torace:toraci] "
 #: body_rcp.txt:30
 msgctxt "BODY:RCP_ABDOMEN"
 msgid "[BP:LB:abdomen:STP]"
-msgstr ""
+msgstr "[BP:LB:addome:STP]"
 
 #: body_rcp.txt:34
 msgctxt "BODY:RCP_CEPHALOTHORAX"
 msgid "[BP:UB:cephalothorax:cephalothoraxes]"
-msgstr ""
+msgstr "[BP:UB:cefalotorace:cefalotoraci]"
 
 #: body_rcp.txt:38
 msgctxt "BODY:RCP_HEAD"
@@ -5243,7 +5243,7 @@ msgstr ""
 #: c_variation_default.txt:367
 msgctxt "CREATURE_VARIATION:PUNCH_ATTACK"
 msgid "[CV_NEW_TAG:ATTACK_VERB:punch:punches]"
-msgstr "[CV_NEW_TAG:ATTACK_VERB:pugno:colpisce]"
+msgstr "[CV_NEW_TAG:ATTACK_VERB:dai un pugno:da' un pugno]"
 
 #: c_variation_default.txt:376
 msgctxt "CREATURE_VARIATION:KICK_ATTACK"
@@ -14741,7 +14741,7 @@ msgstr ""
 #: creature_large_mountain.txt:458
 msgctxt "CREATURE:GNOME_MOUNTAIN"
 msgid "[ATTACK_VERB:punch:punches]"
-msgstr "[ATTACK_VERB:pugno:colpisce]"
+msgstr "[ATTACK_VERB:dai un pugno:da' un pugno]"
 
 #: creature_large_mountain.txt:465
 msgctxt "CREATURE:GNOME_MOUNTAIN"
@@ -14854,7 +14854,7 @@ msgstr ""
 #: creature_large_mountain.txt:703
 msgctxt "CREATURE:GNOME_DARK"
 msgid "[ATTACK_VERB:punch:punches]"
-msgstr "[ATTACK_VERB:pugno:colpisce]"
+msgstr "[ATTACK_VERB:dai un pugno:da' un pugno]"
 
 #: creature_large_mountain.txt:710
 msgctxt "CREATURE:GNOME_DARK"
@@ -22480,7 +22480,7 @@ msgstr ""
 #: creature_next_underground.txt:330
 msgctxt "CREATURE:BLIND_CAVE_OGRE"
 msgid "[ATTACK_VERB:punch:punches]"
-msgstr "[ATTACK_VERB:pugno:colpisce]"
+msgstr "[ATTACK_VERB:dai un pugno:da' un pugno]"
 
 #: creature_next_underground.txt:337
 msgctxt "CREATURE:BLIND_CAVE_OGRE"
@@ -22612,7 +22612,7 @@ msgstr ""
 #: creature_next_underground.txt:581
 msgctxt "CREATURE:CRUNDLE"
 msgid "[ATTACK_VERB:punch:punches]"
-msgstr "[ATTACK_VERB:pugno:colpisce]"
+msgstr "[ATTACK_VERB:dai un pugno:da' un pugno]"
 
 #: creature_next_underground.txt:588
 msgctxt "CREATURE:CRUNDLE"
@@ -23117,7 +23117,7 @@ msgstr ""
 #: creature_next_underground.txt:1368
 msgctxt "CREATURE:BLOOD_MAN"
 msgid "[ATTACK_VERB:punch:punches]"
-msgstr "[ATTACK_VERB:pugno:colpisce]"
+msgstr "[ATTACK_VERB:dai un pugno:da' un pugno]"
 
 #: creature_next_underground.txt:1375
 msgctxt "CREATURE:BLOOD_MAN"
@@ -23471,7 +23471,7 @@ msgstr ""
 #: creature_next_underground.txt:2065
 msgctxt "CREATURE:REACHER"
 msgid "[ATTACK_VERB:punch:punches]"
-msgstr "[ATTACK_VERB:pugno:colpisce]"
+msgstr "[ATTACK_VERB:dai un pugno:da' un pugno]"
 
 #: creature_next_underground.txt:2072
 msgctxt "CREATURE:REACHER"
@@ -23528,7 +23528,7 @@ msgstr ""
 #: creature_next_underground.txt:2165
 msgctxt "CREATURE:ELEMENTMAN_GABBRO"
 msgid "[ATTACK_VERB:punch:punches]"
-msgstr "[ATTACK_VERB:pugno:colpisce]"
+msgstr "[ATTACK_VERB:dai un pugno:da' un pugno]"
 
 #: creature_next_underground.txt:2172
 msgctxt "CREATURE:ELEMENTMAN_GABBRO"
@@ -23610,7 +23610,7 @@ msgstr "[ATTACK_VERB:morso:morde]"
 #: creature_next_underground.txt:2278
 msgctxt "CREATURE:GORLAK"
 msgid "[ATTACK_VERB:punch:punches]"
-msgstr "[ATTACK_VERB:pugno:colpisce]"
+msgstr "[ATTACK_VERB:dai un pugno:da' un pugno]"
 
 #: creature_next_underground.txt:2285
 msgctxt "CREATURE:GORLAK"
@@ -23773,7 +23773,7 @@ msgstr ""
 #: creature_next_underground.txt:2462
 msgctxt "CREATURE:PLUMP_HELMET_MAN"
 msgid "[ATTACK_VERB:punch:punches]"
-msgstr "[ATTACK_VERB:pugno:colpisce]"
+msgstr "[ATTACK_VERB:dai un pugno:da' un pugno]"
 
 #: creature_next_underground.txt:2469
 msgctxt "CREATURE:PLUMP_HELMET_MAN"
@@ -23887,7 +23887,7 @@ msgstr ""
 #: creature_next_underground.txt:2615
 msgctxt "CREATURE:ELEMENTMAN_AMETHYST"
 msgid "[ATTACK_VERB:punch:punches]"
-msgstr "[ATTACK_VERB:pugno:colpisce]"
+msgstr "[ATTACK_VERB:dai un pugno:da' un pugno]"
 
 #: creature_next_underground.txt:2622
 msgctxt "CREATURE:ELEMENTMAN_AMETHYST"
@@ -28630,7 +28630,7 @@ msgstr ""
 #: creature_standard.txt:217
 msgctxt "CREATURE:DWARF"
 msgid "[ATTACK_VERB:punch:punches]"
-msgstr "[ATTACK_VERB:pugno:colpisce]"
+msgstr "[ATTACK_VERB:dai un pugno:da' un pugno]"
 
 #: creature_standard.txt:228
 msgctxt "CREATURE:DWARF"
@@ -28931,7 +28931,7 @@ msgstr ""
 #: creature_standard.txt:587
 msgctxt "CREATURE:HUMAN"
 msgid "[ATTACK_VERB:punch:punches]"
-msgstr "[ATTACK_VERB:pugno:colpisce]"
+msgstr "[ATTACK_VERB:dai un pugno:da' un pugno]"
 
 #: creature_standard.txt:594
 msgctxt "CREATURE:HUMAN"
@@ -29153,7 +29153,7 @@ msgstr ""
 #: creature_standard.txt:886
 msgctxt "CREATURE:ELF"
 msgid "[ATTACK_VERB:punch:punches]"
-msgstr "[ATTACK_VERB:pugno:colpisce]"
+msgstr "[ATTACK_VERB:dai un pugno:da' un pugno]"
 
 #: creature_standard.txt:893
 msgctxt "CREATURE:ELF"
@@ -29369,7 +29369,7 @@ msgstr ""
 #: creature_standard.txt:1163
 msgctxt "CREATURE:GOBLIN"
 msgid "[ATTACK_VERB:punch:punches]"
-msgstr "[ATTACK_VERB:pugno:colpisce]"
+msgstr "[ATTACK_VERB:dai un pugno:da' un pugno]"
 
 #: creature_standard.txt:1170
 msgctxt "CREATURE:GOBLIN"
@@ -29586,7 +29586,7 @@ msgstr ""
 #: creature_standard.txt:1431
 msgctxt "CREATURE:KOBOLD"
 msgid "[ATTACK_VERB:punch:punches]"
-msgstr "[ATTACK_VERB:pugno:colpisce]"
+msgstr "[ATTACK_VERB:dai un pugno:da' un pugno]"
 
 #: creature_standard.txt:1438
 msgctxt "CREATURE:KOBOLD"
@@ -29767,7 +29767,7 @@ msgstr ""
 #: creature_standard.txt:1656
 msgctxt "CREATURE:GREMLIN"
 msgid "[ATTACK_VERB:punch:punches]"
-msgstr "[ATTACK_VERB:pugno:colpisce]"
+msgstr "[ATTACK_VERB:dai un pugno:da' un pugno]"
 
 #: creature_standard.txt:1663
 msgctxt "CREATURE:GREMLIN"
@@ -29864,7 +29864,7 @@ msgstr ""
 #: creature_standard.txt:1835
 msgctxt "CREATURE:TROLL"
 msgid "[ATTACK_VERB:punch:punches]"
-msgstr "[ATTACK_VERB:pugno:colpisce]"
+msgstr "[ATTACK_VERB:dai un pugno:da' un pugno]"
 
 #: creature_standard.txt:1842
 msgctxt "CREATURE:TROLL"
@@ -29956,7 +29956,7 @@ msgstr ""
 #: creature_standard.txt:2033
 msgctxt "CREATURE:OGRE"
 msgid "[ATTACK_VERB:punch:punches]"
-msgstr "[ATTACK_VERB:pugno:colpisce]"
+msgstr "[ATTACK_VERB:dai un pugno:da' un pugno]"
 
 #: creature_standard.txt:2040
 msgctxt "CREATURE:OGRE"
@@ -30161,7 +30161,7 @@ msgstr ""
 #: creature_standard.txt:2485
 msgctxt "CREATURE:SATYR"
 msgid "[ATTACK_VERB:punch:punches]"
-msgstr "[ATTACK_VERB:pugno:colpisce]"
+msgstr "[ATTACK_VERB:dai un pugno:da' un pugno]"
 
 #: creature_standard.txt:2492
 msgctxt "CREATURE:SATYR"
@@ -30262,7 +30262,7 @@ msgstr ""
 #: creature_standard.txt:2641
 msgctxt "CREATURE:COLOSSUS_BRONZE"
 msgid "[ATTACK_VERB:punch:punches]"
-msgstr "[ATTACK_VERB:pugno:colpisce]"
+msgstr "[ATTACK_VERB:dai un pugno:da' un pugno]"
 
 #: creature_standard.txt:2648
 msgctxt "CREATURE:COLOSSUS_BRONZE"
@@ -30334,7 +30334,7 @@ msgstr ""
 #: creature_standard.txt:2807
 msgctxt "CREATURE:GIANT"
 msgid "[ATTACK_VERB:punch:punches]"
-msgstr "[ATTACK_VERB:pugno:colpisce]"
+msgstr "[ATTACK_VERB:dai un pugno:da' un pugno]"
 
 #: creature_standard.txt:2814
 msgctxt "CREATURE:GIANT"
@@ -30481,7 +30481,7 @@ msgstr ""
 #: creature_standard.txt:3056
 msgctxt "CREATURE:CYCLOPS"
 msgid "[ATTACK_VERB:punch:punches]"
-msgstr "[ATTACK_VERB:pugno:colpisce]"
+msgstr "[ATTACK_VERB:dai un pugno:da' un pugno]"
 
 #: creature_standard.txt:3063
 msgctxt "CREATURE:CYCLOPS"
@@ -30616,7 +30616,7 @@ msgstr ""
 #: creature_standard.txt:3308
 msgctxt "CREATURE:ETTIN"
 msgid "[ATTACK_VERB:punch:punches]"
-msgstr "[ATTACK_VERB:pugno:colpisce]"
+msgstr "[ATTACK_VERB:dai un pugno:da' un pugno]"
 
 #: creature_standard.txt:3315
 msgctxt "CREATURE:ETTIN"
@@ -30726,7 +30726,7 @@ msgstr ""
 #: creature_standard.txt:3503
 msgctxt "CREATURE:MINOTAUR"
 msgid "[ATTACK_VERB:punch:punches]"
-msgstr "[ATTACK_VERB:pugno:colpisce]"
+msgstr "[ATTACK_VERB:dai un pugno:da' un pugno]"
 
 #: creature_standard.txt:3510
 msgctxt "CREATURE:MINOTAUR"
@@ -30788,7 +30788,7 @@ msgstr ""
 #: creature_standard.txt:3657
 msgctxt "CREATURE:YETI"
 msgid "[ATTACK_VERB:punch:punches]"
-msgstr "[ATTACK_VERB:pugno:colpisce]"
+msgstr "[ATTACK_VERB:dai un pugno:da' un pugno]"
 
 #: creature_standard.txt:3664
 msgctxt "CREATURE:YETI"
@@ -30845,7 +30845,7 @@ msgstr ""
 #: creature_standard.txt:3770
 msgctxt "CREATURE:SASQUATCH"
 msgid "[ATTACK_VERB:punch:punches]"
-msgstr "[ATTACK_VERB:pugno:colpisce]"
+msgstr "[ATTACK_VERB:dai un pugno:da' un pugno]"
 
 #: creature_standard.txt:3777
 msgctxt "CREATURE:SASQUATCH"
@@ -30917,7 +30917,7 @@ msgstr ""
 #: creature_standard.txt:3866
 msgctxt "CREATURE:BLIZZARD_MAN"
 msgid "[ATTACK_VERB:punch:punches]"
-msgstr "[ATTACK_VERB:pugno:colpisce]"
+msgstr "[ATTACK_VERB:dai un pugno:da' un pugno]"
 
 #: creature_standard.txt:3873
 msgctxt "CREATURE:BLIZZARD_MAN"
@@ -31044,7 +31044,7 @@ msgstr ""
 #: creature_standard.txt:4120
 msgctxt "CREATURE:FAIRY"
 msgid "[ATTACK_VERB:punch:punches]"
-msgstr "[ATTACK_VERB:pugno:colpisce]"
+msgstr "[ATTACK_VERB:dai un pugno:da' un pugno]"
 
 #: creature_standard.txt:4127
 msgctxt "CREATURE:FAIRY"
@@ -31146,7 +31146,7 @@ msgstr ""
 #: creature_standard.txt:4319
 msgctxt "CREATURE:PIXIE"
 msgid "[ATTACK_VERB:punch:punches]"
-msgstr "[ATTACK_VERB:pugno:colpisce]"
+msgstr "[ATTACK_VERB:dai un pugno:da' un pugno]"
 
 #: creature_standard.txt:4326
 msgctxt "CREATURE:PIXIE"
@@ -31280,7 +31280,7 @@ msgstr ""
 #: creature_standard.txt:4548
 msgctxt "CREATURE:GRIMELING"
 msgid "[ATTACK_VERB:punch:punches]"
-msgstr "[ATTACK_VERB:pugno:colpisce]"
+msgstr "[ATTACK_VERB:dai un pugno:da' un pugno]"
 
 #: creature_standard.txt:4555
 msgctxt "CREATURE:GRIMELING"
@@ -31322,7 +31322,7 @@ msgstr ""
 #: creature_standard.txt:4632
 msgctxt "CREATURE:BLENDEC_FOUL"
 msgid "[ATTACK_VERB:punch:punches]"
-msgstr "[ATTACK_VERB:pugno:colpisce]"
+msgstr "[ATTACK_VERB:dai un pugno:da' un pugno]"
 
 #: creature_standard.txt:4639
 msgctxt "CREATURE:BLENDEC_FOUL"
@@ -31702,7 +31702,7 @@ msgstr ""
 #: creature_standard.txt:5297
 msgctxt "CREATURE:MERPERSON"
 msgid "[ATTACK_VERB:punch:punches]"
-msgstr "[ATTACK_VERB:pugno:colpisce]"
+msgstr "[ATTACK_VERB:dai un pugno:da' un pugno]"
 
 #: creature_standard.txt:5304
 msgctxt "CREATURE:MERPERSON"
@@ -32282,7 +32282,7 @@ msgstr ""
 #: creature_subterranean.txt:730
 msgctxt "CREATURE:TROGLODYTE"
 msgid "[ATTACK_VERB:punch:punches]"
-msgstr "[ATTACK_VERB:pugno:colpisce]"
+msgstr "[ATTACK_VERB:dai un pugno:da' un pugno]"
 
 #: creature_subterranean.txt:737
 msgctxt "CREATURE:TROGLODYTE"
@@ -32409,7 +32409,7 @@ msgstr "[ATTACK_VERB:morso:morde]"
 #: creature_subterranean.txt:951
 msgctxt "CREATURE:IMP_FIRE"
 msgid "[ATTACK_VERB:punch:punches]"
-msgstr "[ATTACK_VERB:pugno:colpisce]"
+msgstr "[ATTACK_VERB:dai un pugno:da' un pugno]"
 
 #: creature_subterranean.txt:958
 msgctxt "CREATURE:IMP_FIRE"
@@ -32969,7 +32969,7 @@ msgstr ""
 #: creature_subterranean.txt:1713
 msgctxt "CREATURE:ELEMENTMAN_FIRE"
 msgid "[ATTACK_VERB:punch:punches]"
-msgstr "[ATTACK_VERB:pugno:colpisce]"
+msgstr "[ATTACK_VERB:dai un pugno:da' un pugno]"
 
 #: creature_subterranean.txt:1720
 msgctxt "CREATURE:ELEMENTMAN_FIRE"
@@ -33013,7 +33013,7 @@ msgstr ""
 #: creature_subterranean.txt:1788
 msgctxt "CREATURE:ELEMENTMAN_MAGMA"
 msgid "[ATTACK_VERB:punch:punches]"
-msgstr "[ATTACK_VERB:pugno:colpisce]"
+msgstr "[ATTACK_VERB:dai un pugno:da' un pugno]"
 
 #: creature_subterranean.txt:1795
 msgctxt "CREATURE:ELEMENTMAN_MAGMA"
@@ -33088,7 +33088,7 @@ msgstr ""
 #: creature_subterranean.txt:1877
 msgctxt "CREATURE:ELEMENTMAN_IRON"
 msgid "[ATTACK_VERB:punch:punches]"
-msgstr "[ATTACK_VERB:pugno:colpisce]"
+msgstr "[ATTACK_VERB:dai un pugno:da' un pugno]"
 
 #: creature_subterranean.txt:1884
 msgctxt "CREATURE:ELEMENTMAN_IRON"
@@ -33129,7 +33129,7 @@ msgstr "[TISSUE_NAME:fango:NP]"
 #: creature_subterranean.txt:1942
 msgctxt "CREATURE:ELEMENTMAN_MUD"
 msgid "[ATTACK_VERB:punch:punches]"
-msgstr "[ATTACK_VERB:pugno:colpisce]"
+msgstr "[ATTACK_VERB:dai un pugno:da' un pugno]"
 
 #: creature_subterranean.txt:1949
 msgctxt "CREATURE:ELEMENTMAN_MUD"
@@ -33280,7 +33280,7 @@ msgstr ""
 #: creature_subterranean.txt:2243
 msgctxt "CREATURE:AMPHIBIAN_MAN"
 msgid "[ATTACK_VERB:punch:punches]"
-msgstr "[ATTACK_VERB:pugno:colpisce]"
+msgstr "[ATTACK_VERB:dai un pugno:da' un pugno]"
 
 #: creature_subterranean.txt:2250
 msgctxt "CREATURE:AMPHIBIAN_MAN"
@@ -33336,7 +33336,7 @@ msgstr ""
 #: creature_subterranean.txt:2349
 msgctxt "CREATURE:REPTILE_MAN"
 msgid "[ATTACK_VERB:punch:punches]"
-msgstr "[ATTACK_VERB:pugno:colpisce]"
+msgstr "[ATTACK_VERB:dai un pugno:da' un pugno]"
 
 #: creature_subterranean.txt:2356
 msgctxt "CREATURE:REPTILE_MAN"
@@ -33428,7 +33428,7 @@ msgstr ""
 #: creature_subterranean.txt:2486
 msgctxt "CREATURE:SERPENT_MAN"
 msgid "[ATTACK_VERB:punch:punches]"
-msgstr "[ATTACK_VERB:pugno:colpisce]"
+msgstr "[ATTACK_VERB:dai un pugno:da' un pugno]"
 
 #: creature_subterranean.txt:2493
 msgctxt "CREATURE:SERPENT_MAN"
@@ -33503,7 +33503,7 @@ msgstr ""
 #: creature_subterranean.txt:2622
 msgctxt "CREATURE:ANT_MAN"
 msgid "[ATTACK_VERB:punch:punches]"
-msgstr "[ATTACK_VERB:pugno:colpisce]"
+msgstr "[ATTACK_VERB:dai un pugno:da' un pugno]"
 
 #: creature_subterranean.txt:2629
 msgctxt "CREATURE:ANT_MAN"
@@ -33545,7 +33545,7 @@ msgstr ""
 #: creature_subterranean.txt:2719
 msgctxt "CREATURE:RODENT MAN"
 msgid "[ATTACK_VERB:punch:punches]"
-msgstr "[ATTACK_VERB:pugno:colpisce]"
+msgstr "[ATTACK_VERB:dai un pugno:da' un pugno]"
 
 #: creature_subterranean.txt:2726
 msgctxt "CREATURE:RODENT MAN"
@@ -33835,7 +33835,7 @@ msgstr "[PREFSTRING:grandi balzi]"
 #: creature_temperate_new.txt:392
 msgctxt "CREATURE:KANGAROO"
 msgid "[ATTACK_VERB:punch:punches]"
-msgstr "[ATTACK_VERB:pugno:colpisce]"
+msgstr "[ATTACK_VERB:dai un pugno:da' un pugno]"
 
 #: creature_temperate_new.txt:399
 msgctxt "CREATURE:KANGAROO"
