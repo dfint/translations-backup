@@ -21,14 +21,15 @@
 # Mansu Kim, 2023
 # 민용 이, 2023
 # JW P, 2023
-# 사람 아님, 2023
-# 까미야, 2023
 # km Imma, 2023
 # 류도현, 2023
+# 까미야, 2023
+# 사람 아님, 2023
+# 롬인디아 ㄱ, 2023
 # 
 msgid ""
 msgstr ""
-"Last-Translator: 류도현, 2023\n"
+"Last-Translator: 롬인디아 ㄱ, 2023\n"
 "Language-Team: Korean (https://www.transifex.com/dwarf-fortress-translation/teams/22396/ko/)\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -12478,12 +12479,12 @@ msgstr "[ATTACK_VERB:할큄:할큄]"
 #: creature_domestic.txt:1293
 msgctxt "CREATURE:CAVY"
 msgid "[CASTE_NAME:cavy sow:cavy sows:cavy sow]"
-msgstr ""
+msgstr "[CASTE_NAME:암컷 기니피그:암컷 기니피그들:암컷 기니피그]"
 
 #: creature_domestic.txt:1296
 msgctxt "CREATURE:CAVY"
 msgid "[CASTE_NAME:cavy boar:cavy boars:cavy boar]"
-msgstr ""
+msgstr "[CASTE_NAME:수컷 기니피그:수컷 기니피그들:수컷 기니피그]"
 
 #: creature_domestic.txt:1302
 msgctxt "CREATURE:CAVY"
@@ -13488,7 +13489,7 @@ msgstr "[PREFSTRING:닭 수염]"
 #: creature_domestic.txt:2367
 msgctxt "CREATURE:BIRD_TURKEY"
 msgid "[PREFSTRING:snood]"
-msgstr ""
+msgstr "[PREFSTRING:머리 망]"
 
 #: creature_domestic.txt:2368
 msgctxt "CREATURE:BIRD_TURKEY"
@@ -14177,22 +14178,22 @@ msgstr ""
 #: creature_insects.txt:742
 msgctxt "CREATURE:HONEY_BEE"
 msgid "[STATE_NAME_ADJ:ALL_SOLID:honey bee wax]"
-msgstr ""
+msgstr "[STATE_NAME_ADJ:ALL_SOLID:꿀벌 밀랍]"
 
 #: creature_insects.txt:743
 msgctxt "CREATURE:HONEY_BEE"
 msgid "[STATE_NAME_ADJ:SOLID_PRESSED:honey bee wax cake]"
-msgstr ""
+msgstr "[STATE_NAME_ADJ:SOLID_PRESSED:꿀벌 밀랍 케이크]"
 
 #: creature_insects.txt:744
 msgctxt "CREATURE:HONEY_BEE"
 msgid "[STATE_NAME_ADJ:LIQUID:melted honey bee wax]"
-msgstr ""
+msgstr "[STATE_NAME_ADJ:LIQUID:녹은 꿀벌 밀랍 케이크]"
 
 #: creature_insects.txt:745
 msgctxt "CREATURE:HONEY_BEE"
 msgid "[STATE_NAME_ADJ:GAS:boiling honey bee wax]"
-msgstr ""
+msgstr "[STATE_NAME_ADJ:GAS:기화된 꿀벌 밀랍]"
 
 #: creature_insects.txt:752
 msgctxt "CREATURE:HONEY_BEE"
@@ -14314,7 +14315,7 @@ msgstr ""
 #: creature_insects.txt:842
 msgctxt "CREATURE:BUMBLEBEE"
 msgid "[NAME:bumblebee:bumblebees:bumblebee]"
-msgstr ""
+msgstr "[NAME:호박벌:호박벌떼:호박벌]"
 
 #: creature_insects.txt:851
 msgctxt "CREATURE:BUMBLEBEE"
@@ -14324,57 +14325,57 @@ msgstr ""
 #: creature_insects.txt:862
 msgctxt "CREATURE:BUMBLEBEE"
 msgid "[STATE_NAME_ADJ:ALL_SOLID:bumblebee wax]"
-msgstr ""
+msgstr "[STATE_NAME_ADJ:ALL_SOLID:호박벌 밀랍]"
 
 #: creature_insects.txt:863
 msgctxt "CREATURE:BUMBLEBEE"
 msgid "[STATE_NAME_ADJ:SOLID_PRESSED:bumblebee wax cake]"
-msgstr ""
+msgstr "[STATE_NAME_ADJ:SOLID_PRESSED:호박벌 밀랍 케이크]"
 
 #: creature_insects.txt:864
 msgctxt "CREATURE:BUMBLEBEE"
 msgid "[STATE_NAME_ADJ:LIQUID:melted bumblebee wax]"
-msgstr ""
+msgstr "[STATE_NAME_ADJ:LIQUID:녹은 호박벌 밀랍]"
 
 #: creature_insects.txt:865
 msgctxt "CREATURE:BUMBLEBEE"
 msgid "[STATE_NAME_ADJ:GAS:boiling bumblebee wax]"
-msgstr ""
+msgstr "[STATE_NAME_ADJ:GAS:기화된 호박벌 밀랍]"
 
 #: creature_insects.txt:871
 msgctxt "CREATURE:BUMBLEBEE"
 msgid "[STATE_NAME_ADJ:ALL_SOLID:frozen bumblebee royal jelly]"
-msgstr ""
+msgstr "[STATE_NAME_ADJ:ALL_SOLID:얼어붙은 호박벌 로얄젤리]"
 
 #: creature_insects.txt:872
 msgctxt "CREATURE:BUMBLEBEE"
 msgid "[STATE_NAME_ADJ:LIQUID:bumblebee royal jelly]"
-msgstr ""
+msgstr "[STATE_NAME_ADJ:LIQUID:호박벌 로얄젤리]"
 
 #: creature_insects.txt:873
 msgctxt "CREATURE:BUMBLEBEE"
 msgid "[STATE_NAME_ADJ:GAS:boiling bumblebee royal jelly]"
-msgstr ""
+msgstr "[STATE_NAME_ADJ:GAS:기화된 호박벌 로얄젤리]"
 
 #: creature_insects.txt:881
 msgctxt "CREATURE:BUMBLEBEE"
 msgid "[STATE_NAME_ADJ:ALL_SOLID:frozen bumblebee honey]"
-msgstr ""
+msgstr "[STATE_NAME_ADJ:ALL_SOLID:얼어붙은 호박벌꿀]"
 
 #: creature_insects.txt:882
 msgctxt "CREATURE:BUMBLEBEE"
 msgid "[STATE_NAME_ADJ:LIQUID:bumblebee honey]"
-msgstr ""
+msgstr "[STATE_NAME_ADJ:LIQUID:호박벌 꿀]"
 
 #: creature_insects.txt:883
 msgctxt "CREATURE:BUMBLEBEE"
 msgid "[STATE_NAME_ADJ:GAS:boiling bumblebee honey]"
-msgstr ""
+msgstr "[STATE_NAME_ADJ:GAS:기화된 호박벌꿀]"
 
 #: creature_insects.txt:892
 msgctxt "CREATURE:BUMBLEBEE"
 msgid "[STATE_NAME_ADJ:ALL_SOLID:frozen bumblebee mead]"
-msgstr ""
+msgstr "[STATE_NAME_ADJ:ALL_SOLID:얼어붙은 호박벌꿀주]"
 
 #: creature_insects.txt:893
 msgctxt "CREATURE:BUMBLEBEE"
@@ -14404,7 +14405,7 @@ msgstr "[STATE_NAME:LIQUID:호박벌 독]"
 #: creature_insects.txt:900
 msgctxt "CREATURE:BUMBLEBEE"
 msgid "[STATE_ADJ:LIQUID:bumblebee venom]"
-msgstr ""
+msgstr "[STATE_ADJ:LIQUID:호박벌 독]"
 
 #: creature_insects.txt:901
 msgctxt "CREATURE:BUMBLEBEE"
@@ -14424,7 +14425,7 @@ msgstr "[SYN_NAME:호박벌의 침]"
 #: creature_insects.txt:928
 msgctxt "CREATURE:BUMBLEBEE"
 msgid "[CASTE_NAME:bumblebee worker:bumblebee workers:bumblebee worker]"
-msgstr ""
+msgstr "[CASTE_NAME:일호박벌:일호박벌떼:일호박벌]"
 
 #: creature_insects.txt:932
 msgctxt "CREATURE:BUMBLEBEE"
@@ -14434,12 +14435,12 @@ msgstr "[VERMIN_BITE:10:쏘인:]"
 #: creature_insects.txt:935
 msgctxt "CREATURE:BUMBLEBEE"
 msgid "[CASTE_NAME:bumblebee drone:bumblebee drones:bumblebee drone]"
-msgstr ""
+msgstr "[CASTE_NAME:수컷 호박벌:수컷 호박벌떼:수컷 호박벌]"
 
 #: creature_insects.txt:939
 msgctxt "CREATURE:BUMBLEBEE"
 msgid "[CASTE_NAME:bumblebee queen:bumblebee queens:bumblebee queen]"
-msgstr ""
+msgstr "[CASTE_NAME:여왕 호박벌:여왕 호박벌들:여왕 호박벌]"
 
 #: creature_insects.txt:951
 msgctxt "CREATURE:BUMBLEBEE"
@@ -14471,7 +14472,7 @@ msgstr "[CASTE_NAME:흰바위산양:흰바위산양들:흰바위산양]"
 #: creature_large_mountain.txt:9
 msgctxt "CREATURE:GOAT_MOUNTAIN"
 msgid "[GENERAL_CHILD_NAME:mountain goat kid:mountain goat kids]"
-msgstr ""
+msgstr "[GENERAL_CHILD_NAME:새끼 흰바위산양:새끼 흰바위산양들:새끼 흰바위산양]"
 
 #: creature_large_mountain.txt:12
 msgctxt "CREATURE:GOAT_MOUNTAIN"
@@ -14527,12 +14528,12 @@ msgstr "[CASTE_NAME:여성 흰바위산양인간:여성 흰바위산양인간들
 #: creature_large_mountain.txt:127
 msgctxt "CREATURE:GOAT_MOUNTAIN_MAN"
 msgid "[NAME:mountain goat man:mountain goat men:mountain goat man]"
-msgstr ""
+msgstr "[NAME:흰바위산양인간:흰바위산양인간들:흰바위산양인간]"
 
 #: creature_large_mountain.txt:128
 msgctxt "CREATURE:GOAT_MOUNTAIN_MAN"
 msgid "[DESCRIPTION:A horned person with the head of a mountain goat.]"
-msgstr ""
+msgstr "[DESCRIPTION:흰바위산양의 머리와 뿔을 가진 인간.]"
 
 #: creature_large_mountain.txt:144
 msgctxt "CREATURE:GIANT_GOAT_MOUNTAIN"
@@ -14548,7 +14549,7 @@ msgstr "[CASTE_NAME:거대 흰바위산양:거대 흰바위산양들:거대 흰�
 #: creature_large_mountain.txt:146
 msgctxt "CREATURE:GIANT_GOAT_MOUNTAIN"
 msgid "[GENERAL_CHILD_NAME:giant mountain goat kid:giant mountain goat kids]"
-msgstr ""
+msgstr "[GENERAL_CHILD_NAME:새끼 거대 흰바위산양:새끼 거대 흰바위산양들:새끼 거대 흰바위산양]"
 
 #: creature_large_mountain.txt:147
 msgctxt "CREATURE:GIANT_GOAT_MOUNTAIN"
@@ -15533,7 +15534,7 @@ msgstr ""
 #: creature_large_ocean.txt:1008
 msgctxt "CREATURE:SHARK_BULL"
 msgid "[PREFSTRING:aggressive nature]"
-msgstr ""
+msgstr "[PREFSTRING:공격적인 특성]"
 
 #: creature_large_ocean.txt:1041
 msgctxt "CREATURE:SHARK_BULL"
@@ -15931,7 +15932,7 @@ msgstr "[CASTE_NAME:실러캔스:실러캔스들:실러캔스]"
 #: creature_large_ocean.txt:1689
 msgctxt "CREATURE:FISH_COELACANTH"
 msgid "[GENERAL_CHILD_NAME:coelacanth fry:coelacanth fry]"
-msgstr ""
+msgstr "[GENERAL_CHILD_NAME:실러캔스 튀김:실러캔스 튀김들]"
 
 #: creature_large_ocean.txt:1697
 msgctxt "CREATURE:FISH_COELACANTH"
@@ -15971,12 +15972,12 @@ msgstr "[NAME:철갑상어:철갑상어들:철갑상어]"
 #: creature_large_ocean.txt:1770
 msgctxt "CREATURE:FISH_STURGEON"
 msgid "[CASTE_NAME:sturgeon:sturgeons:sturgeon]"
-msgstr ""
+msgstr "[CASTE_NAME:철갑상어:철갑상어들:철갑상어]"
 
 #: creature_large_ocean.txt:1771
 msgctxt "CREATURE:FISH_STURGEON"
 msgid "[GENERAL_CHILD_NAME:sturgeon fry:sturgeon fry]"
-msgstr ""
+msgstr "[GENERAL_CHILD_NAME:철갑상어 튀김:철갑상어 튀김들]"
 
 #: creature_large_ocean.txt:1783
 msgctxt "CREATURE:FISH_STURGEON"
@@ -16022,7 +16023,7 @@ msgstr "[CASTE_NAME:붕장어:붕장어들:붕장어]"
 #: creature_large_ocean.txt:1857
 msgctxt "CREATURE:FISH_CONGER_EEL"
 msgid "[GENERAL_CHILD_NAME:conger eel fry:conger eel fry]"
-msgstr ""
+msgstr "[GENERAL_CHILD_NAME:붕장어 튀김:붕장어 튀김들]"
 
 #: creature_large_ocean.txt:1866
 msgctxt "CREATURE:FISH_CONGER_EEL"
@@ -16059,12 +16060,12 @@ msgstr "[NAME:갯농어:갯농어들:갯농어]"
 #: creature_large_ocean.txt:1925
 msgctxt "CREATURE:FISH_MILKFISH"
 msgid "[CASTE_NAME:milkfish:milkfish:milkfish]"
-msgstr ""
+msgstr "[CASTE_NAME:갯농어:갯농어들:갯농어]"
 
 #: creature_large_ocean.txt:1926
 msgctxt "CREATURE:FISH_MILKFISH"
 msgid "[GENERAL_CHILD_NAME:milkfish fry:milkfish fry]"
-msgstr ""
+msgstr "[GENERAL_CHILD_NAME:갯농어 튀김:갯농어 튀김들:갯농어 튀김]"
 
 #: creature_large_ocean.txt:1941
 msgctxt "CREATURE:FISH_MILKFISH"
@@ -16104,12 +16105,12 @@ msgstr "[NAME:대구:대구들:대구]"
 #: creature_large_ocean.txt:2014
 msgctxt "CREATURE:FISH_COD"
 msgid "[CASTE_NAME:cod:cod:cod]"
-msgstr ""
+msgstr "[CASTE_NAME:대구:대구들:대구]"
 
 #: creature_large_ocean.txt:2015
 msgctxt "CREATURE:FISH_COD"
 msgid "[GENERAL_CHILD_NAME:cod fry:cod fry]"
-msgstr ""
+msgstr "[GENERAL_CHILD_NAME:대구 튀김:대구 튀김들]"
 
 #: creature_large_ocean.txt:2025
 msgctxt "CREATURE:FISH_COD"
@@ -16149,12 +16150,12 @@ msgstr "[NAME:붉평치:붉평치들:붉평치]"
 #: creature_large_ocean.txt:2098
 msgctxt "CREATURE:FISH_OPAH"
 msgid "[CASTE_NAME:opah:opah:opah]"
-msgstr ""
+msgstr "[CASTE_NAME:붉평치:붉평치들:붉평치]"
 
 #: creature_large_ocean.txt:2099
 msgctxt "CREATURE:FISH_OPAH"
 msgid "[GENERAL_CHILD_NAME:opah fry:opah fry]"
-msgstr ""
+msgstr "[GENERAL_CHILD_NAME:붉평치 튀김:붉평치 튀김들]"
 
 #: creature_large_ocean.txt:2108
 msgctxt "CREATURE:FISH_OPAH"
@@ -16194,12 +16195,12 @@ msgstr "[NAME:대왕바리:대왕바리들:대왕바리]"
 #: creature_large_ocean.txt:2181
 msgctxt "CREATURE:FISH_GROUPER_GIANT"
 msgid "[CASTE_NAME:giant grouper:giant groupers:giant grouper]"
-msgstr ""
+msgstr "[CASTE_NAME:대왕바리:대왕바리들:대왕바리]"
 
 #: creature_large_ocean.txt:2182
 msgctxt "CREATURE:FISH_GROUPER_GIANT"
 msgid "[GENERAL_CHILD_NAME:grouper fry:grouper fry]"
-msgstr ""
+msgstr "[GENERAL_CHILD_NAME:대왕바리 튀김:대왕바리 튀김들]"
 
 #: creature_large_ocean.txt:2190
 msgctxt "CREATURE:FISH_GROUPER_GIANT"
@@ -16241,12 +16242,12 @@ msgstr "[NAME:파란농어:파란농어들:파란농어]"
 #: creature_large_ocean.txt:2263
 msgctxt "CREATURE:FISH_BLUEFISH"
 msgid "[CASTE_NAME:bluefish:bluefish:bluefish]"
-msgstr ""
+msgstr "[CASTE_NAME:파란농어:파란농어들:파란농어]"
 
 #: creature_large_ocean.txt:2264
 msgctxt "CREATURE:FISH_BLUEFISH"
 msgid "[GENERAL_CHILD_NAME:bluefish fry:bluefish fry]"
-msgstr ""
+msgstr "[GENERAL_CHILD_NAME:파란농어 튀김:파란농어 튀김들]"
 
 #: creature_large_ocean.txt:2274
 msgctxt "CREATURE:FISH_BLUEFISH"
@@ -16288,12 +16289,12 @@ msgstr "[NAME:개복치:개복치들:개복치]"
 #: creature_large_ocean.txt:2347
 msgctxt "CREATURE:FISH_SUNFISH_OCEAN"
 msgid "[CASTE_NAME:ocean sunfish:ocean sunfish:ocean sunfish]"
-msgstr ""
+msgstr "[CASTE_NAME:개복치:개복치들:개복치]"
 
 #: creature_large_ocean.txt:2348
 msgctxt "CREATURE:FISH_SUNFISH_OCEAN"
 msgid "[GENERAL_CHILD_NAME:ocean sunfish fry:ocean sunfish fry]"
-msgstr ""
+msgstr "[GENERAL_CHILD_NAME:개복치 튀김:개복치 튀김들]"
 
 #: creature_large_ocean.txt:2357
 msgctxt "CREATURE:FISH_SUNFISH_OCEAN"
@@ -16340,12 +16341,12 @@ msgstr "[NAME:황새치:황새치들:황새치]"
 #: creature_large_ocean.txt:2431
 msgctxt "CREATURE:FISH_SWORDFISH"
 msgid "[CASTE_NAME:swordfish:swordfish:swordfish]"
-msgstr ""
+msgstr "[CASTE_NAME:황새치:황새치들:황새치]"
 
 #: creature_large_ocean.txt:2432
 msgctxt "CREATURE:FISH_SWORDFISH"
 msgid "[GENERAL_CHILD_NAME:swordfish fry:swordfish fry]"
-msgstr ""
+msgstr "[GENERAL_CHILD_NAME:황새치 튀김:황새치 튀김들]"
 
 #: creature_large_ocean.txt:2441
 msgctxt "CREATURE:FISH_SWORDFISH"
@@ -16388,12 +16389,12 @@ msgstr "[NAME:청새치:청새치들:청새치]"
 #: creature_large_ocean.txt:2515
 msgctxt "CREATURE:FISH_MARLIN"
 msgid "[CASTE_NAME:marlin:marlins:marlin]"
-msgstr ""
+msgstr "[CASTE_NAME:청새치:청새치들:청새치]"
 
 #: creature_large_ocean.txt:2516
 msgctxt "CREATURE:FISH_MARLIN"
 msgid "[GENERAL_CHILD_NAME:marlin fry:marlin fry]"
-msgstr ""
+msgstr "[GENERAL_CHILD_NAME:청새치 튀김:  청새치 튀김들]"
 
 #: creature_large_ocean.txt:2525
 msgctxt "CREATURE:FISH_MARLIN"
@@ -16435,12 +16436,12 @@ msgstr "[NAME:넙치:넙치들:넙치]"
 #: creature_large_ocean.txt:2599
 msgctxt "CREATURE:FISH_HALIBUT"
 msgid "[CASTE_NAME:halibut:halibut:halibut]"
-msgstr ""
+msgstr "[CASTE_NAME:넙치:넙치들:넙치]"
 
 #: creature_large_ocean.txt:2600
 msgctxt "CREATURE:FISH_HALIBUT"
 msgid "[GENERAL_CHILD_NAME:halibut fry:halibut fry]"
-msgstr ""
+msgstr "[GENERAL_CHILD_NAME:넙치 튀김:넙치 튀김들]"
 
 #: creature_large_ocean.txt:2609
 msgctxt "CREATURE:FISH_HALIBUT"
@@ -16482,12 +16483,12 @@ msgstr "[NAME:큰꼬치고기:큰꼬치고기들:큰꼬치고기]"
 #: creature_large_ocean.txt:2682
 msgctxt "CREATURE:FISH_BARRACUDA_GREAT"
 msgid "[CASTE_NAME:great barracuda:great barracudas:great barracuda]"
-msgstr ""
+msgstr "[CASTE_NAME:큰꼬치고기:큰꼬치고기들:큰꼬치고기]"
 
 #: creature_large_ocean.txt:2683
 msgctxt "CREATURE:FISH_BARRACUDA_GREAT"
 msgid "[GENERAL_CHILD_NAME:great barracuda fry:great barracuda fry]"
-msgstr ""
+msgstr "[GENERAL_CHILD_NAME:큰꼬치고기 튀김:큰꼬치고기 튀김들]"
 
 #: creature_large_ocean.txt:2692
 msgctxt "CREATURE:FISH_BARRACUDA_GREAT"
@@ -16527,12 +16528,12 @@ msgstr "[NAME:참다랑어:참다랑어들:참다랑어]"
 #: creature_large_ocean.txt:2767
 msgctxt "CREATURE:FISH_TUNA_BLUEFIN"
 msgid "[CASTE_NAME:bluefin tuna:bluefin tuna:bluefin tuna]"
-msgstr ""
+msgstr "[CASTE_NAME:참다랑어:참다랑어들:참다랑어]"
 
 #: creature_large_ocean.txt:2768
 msgctxt "CREATURE:FISH_TUNA_BLUEFIN"
 msgid "[GENERAL_CHILD_NAME:bluefin fry:bluefin fry]"
-msgstr ""
+msgstr "[GENERAL_CHILD_NAME:참다랑어 튀김:참다랑어 튀김들]"
 
 #: creature_large_ocean.txt:2779
 msgctxt "CREATURE:FISH_TUNA_BLUEFIN"
@@ -16795,12 +16796,12 @@ msgstr "[NAME:긴코가아:긴코가아들:긴코가아]"
 #: creature_large_riverlake.txt:152
 msgctxt "CREATURE:FISH_GAR_LONGNOSE"
 msgid "[CASTE_NAME:longnose gar:longnose gars:longnose gar]"
-msgstr ""
+msgstr "[CASTE_NAME:긴코가아:긴코가아들:긴코가아]"
 
 #: creature_large_riverlake.txt:153
 msgctxt "CREATURE:FISH_GAR_LONGNOSE"
 msgid "[GENERAL_CHILD_NAME:longnose gar fry:longnose gar fry]"
-msgstr ""
+msgstr "[GENERAL_CHILD_NAME:긴코가아 튀김:긴코가아 튀김들]"
 
 #: creature_large_riverlake.txt:164
 msgctxt "CREATURE:FISH_GAR_LONGNOSE"
@@ -16842,12 +16843,12 @@ msgstr "[NAME:잉어:잉어들:잉어]"
 #: creature_large_riverlake.txt:239
 msgctxt "CREATURE:FISH_CARP"
 msgid "[CASTE_NAME:carp:carp:carp]"
-msgstr ""
+msgstr "[CASTE_NAME:잉어:잉어들:잉어]"
 
 #: creature_large_riverlake.txt:240
 msgctxt "CREATURE:FISH_CARP"
 msgid "[GENERAL_CHILD_NAME:carp fry:carp fry]"
-msgstr ""
+msgstr "[GENERAL_CHILD_NAME:잉어 튀김:잉어 튀김들]"
 
 #: creature_large_riverlake.txt:252
 msgctxt "CREATURE:FISH_CARP"
@@ -16889,12 +16890,12 @@ msgstr "[NAME:타이거피쉬:타이거피쉬들:타이거피쉬]"
 #: creature_large_riverlake.txt:325
 msgctxt "CREATURE:FISH_TIGERFISH"
 msgid "[CASTE_NAME:tigerfish:tigerfish:tigerfish]"
-msgstr ""
+msgstr "[CASTE_NAME:타이거피쉬:타이거피쉬들:타이거피쉬]"
 
 #: creature_large_riverlake.txt:326
 msgctxt "CREATURE:FISH_TIGERFISH"
 msgid "[GENERAL_CHILD_NAME:tigerfish fry:tigerfish fry]"
-msgstr ""
+msgstr "[GENERAL_CHILD_NAME:타이거피쉬 튀김:타이거피쉬 튀김들]"
 
 #: creature_large_riverlake.txt:336
 msgctxt "CREATURE:FISH_TIGERFISH"
@@ -16934,12 +16935,12 @@ msgstr "[NAME:민물꼬치고기:민물꼬치고기들:민물꼬치고기]"
 #: creature_large_riverlake.txt:411
 msgctxt "CREATURE:FISH_PIKE"
 msgid "[CASTE_NAME:pike:pike:pike]"
-msgstr ""
+msgstr "[CASTE_NAME:민물꼬치고기:민물꼬치고기들:민물꼬치고기]"
 
 #: creature_large_riverlake.txt:412
 msgctxt "CREATURE:FISH_PIKE"
 msgid "[GENERAL_CHILD_NAME:pike fry:pike fry]"
-msgstr ""
+msgstr "[GENERAL_CHILD_NAME:민물꼬치고기 튀김:민물꼬치고기 튀김들]"
 
 #: creature_large_riverlake.txt:423
 msgctxt "CREATURE:FISH_PIKE"
@@ -22567,7 +22568,7 @@ msgstr "[STATE_NAME:ALL_SOLID:상아]"
 #: creature_next_underground.txt:533
 msgctxt "CREATURE:CRUNDLE"
 msgid "[STATE_ADJ:ALL_SOLID:ivory]"
-msgstr ""
+msgstr "[STATE_ADJ:ALL_SOLID:상아]"
 
 #: creature_next_underground.txt:573
 msgctxt "CREATURE:CRUNDLE"
@@ -23049,32 +23050,32 @@ msgstr ""
 #: creature_next_underground.txt:1345
 msgctxt "CREATURE:BLOOD_MAN"
 msgid "[STATE_NAME:ALL_SOLID:frozen corrupted blood]"
-msgstr ""
+msgstr "[STATE_NAME:ALL_SOLID:얼어붙은 오염된 피]"
 
 #: creature_next_underground.txt:1346
 msgctxt "CREATURE:BLOOD_MAN"
 msgid "[STATE_ADJ:ALL_SOLID:frozen corrupted blood]"
-msgstr ""
+msgstr "[STATE_ADJ:ALL_SOLID:얼어붙은 오염된 피]"
 
 #: creature_next_underground.txt:1347
 msgctxt "CREATURE:BLOOD_MAN"
 msgid "[STATE_NAME:LIQUID:corrupted blood]"
-msgstr ""
+msgstr "[STATE_NAME:LIQUID:오염된 피]"
 
 #: creature_next_underground.txt:1348
 msgctxt "CREATURE:BLOOD_MAN"
 msgid "[STATE_ADJ:LIQUID:corrupted blood]"
-msgstr ""
+msgstr "[STATE_ADJ:LIQUID:오염된 피]"
 
 #: creature_next_underground.txt:1349
 msgctxt "CREATURE:BLOOD_MAN"
 msgid "[STATE_NAME:GAS:boiling corrupted blood]"
-msgstr ""
+msgstr "[STATE_NAME:GAS:기화된 오염된 피]"
 
 #: creature_next_underground.txt:1350
 msgctxt "CREATURE:BLOOD_MAN"
 msgid "[STATE_ADJ:GAS:boiling corrupted blood]"
-msgstr ""
+msgstr "[STATE_ADJ:GAS:기화된 오염된 피]"
 
 #: creature_next_underground.txt:1353
 msgctxt "CREATURE:BLOOD_MAN"
@@ -23253,7 +23254,7 @@ msgstr ""
 #: creature_next_underground.txt:1668
 msgctxt "CREATURE:JABBERER"
 msgid "[PREFSTRING:frightening beaks]"
-msgstr ""
+msgstr "[PREFSTRING:무서운 부리]"
 
 #: creature_next_underground.txt:1709
 msgctxt "CREATURE:JABBERER"
@@ -23285,7 +23286,7 @@ msgctxt "CREATURE:POND_GRABBER"
 msgid ""
 "[DESCRIPTION:A small creature that lives in watery ditches deep underground."
 "  It has a sharp beak and four tentacles with claws at the end.]"
-msgstr ""
+msgstr "[DESCRIPTION:소금과 민물에서 발견되는 작은 생물로 바닥에 뿌리를 둔 비대칭 껍질 속에 살고 있다.]"
 
 #: creature_next_underground.txt:1751
 msgctxt "CREATURE:POND_GRABBER"
@@ -23844,7 +23845,7 @@ msgstr ""
 #: creature_next_underground.txt:2594
 msgctxt "CREATURE:ELEMENTMAN_AMETHYST"
 msgid "[PREFSTRING:rockiness]"
-msgstr ""
+msgstr "[PREFSTRING:단단함]"
 
 #: creature_next_underground.txt:2601
 msgctxt "CREATURE:ELEMENTMAN_AMETHYST"
@@ -23886,7 +23887,7 @@ msgstr "[PREFSTRING:지능]"
 #: creature_ocean_new.txt:26
 msgctxt "CREATURE:OCTOPUS"
 msgid "[PREFSTRING:many arms]"
-msgstr ""
+msgstr "[PREFSTRING:많은 팔]"
 
 #: creature_ocean_new.txt:40
 msgctxt "CREATURE:OCTOPUS"
@@ -23896,32 +23897,32 @@ msgstr "[ATTACK_VERB:깨물음:깨물음]"
 #: creature_ocean_new.txt:53
 msgctxt "CREATURE:OCTOPUS"
 msgid "[STATE_NAME:ALL_SOLID:frozen octopus ink]"
-msgstr ""
+msgstr "[STATE_NAME:ALL_SOLID:얼어붙은 문어 잉크]"
 
 #: creature_ocean_new.txt:54
 msgctxt "CREATURE:OCTOPUS"
 msgid "[STATE_ADJ:ALL_SOLID:frozen octopus ink]"
-msgstr ""
+msgstr "[STATE_ADJ:ALL_SOLID:얼어붙은 문어 잉크]"
 
 #: creature_ocean_new.txt:55
 msgctxt "CREATURE:OCTOPUS"
 msgid "[STATE_NAME:LIQUID:octopus ink]"
-msgstr ""
+msgstr "[STATE_NAME:LIQUID:문어 잉크]"
 
 #: creature_ocean_new.txt:56
 msgctxt "CREATURE:OCTOPUS"
 msgid "[STATE_ADJ:LIQUID:octopus ink]"
-msgstr ""
+msgstr "[STATE_ADJ:LIQUID:문어 잉크]"
 
 #: creature_ocean_new.txt:57
 msgctxt "CREATURE:OCTOPUS"
 msgid "[STATE_NAME:GAS:boiling octopus ink]"
-msgstr ""
+msgstr "[STATE_NAME:GAS:기화된 문어 잉크]"
 
 #: creature_ocean_new.txt:58
 msgctxt "CREATURE:OCTOPUS"
 msgid "[STATE_ADJ:GAS:boiling octopus ink]"
-msgstr ""
+msgstr "[STATE_ADJ:GAS:기화된 문어 잉크]"
 
 #: creature_ocean_new.txt:74
 msgctxt "CREATURE:OCTOPUS"
@@ -23976,7 +23977,7 @@ msgstr "[CVCT_TARGET:문어]"
 #: creature_ocean_new.txt:136
 msgctxt "CREATURE:GIANT_OCTOPUS"
 msgid "[CVCT_REPLACEMENT:giant octopus]"
-msgstr ""
+msgstr "[CVCT_REPLACEMENT:거대 문어]"
 
 #: creature_ocean_new.txt:149
 msgctxt "CREATURE:GIANT_OCTOPUS"
@@ -23986,7 +23987,7 @@ msgstr "[NAME:거대 문어:거대 문어들:거대 문어]"
 #: creature_ocean_new.txt:150
 msgctxt "CREATURE:GIANT_OCTOPUS"
 msgid "[CASTE_NAME:giant octopus:giant octopuses:giant octopus]"
-msgstr ""
+msgstr "[CASTE_NAME:거대 문어:거대 문어들:거대 문어]"
 
 #: creature_ocean_new.txt:151
 msgctxt "CREATURE:GIANT_OCTOPUS"
@@ -24002,7 +24003,7 @@ msgstr "[PREFSTRING:지능]"
 #: creature_ocean_new.txt:161
 msgctxt "CREATURE:GIANT_OCTOPUS"
 msgid "[PREFSTRING:many arms]"
-msgstr ""
+msgstr "[PREFSTRING:많은 팔들]"
 
 #: creature_ocean_new.txt:169
 msgctxt "CREATURE:CRAB"
@@ -24019,7 +24020,7 @@ msgstr "[NAME:게:게들:게]"
 #: creature_ocean_new.txt:171
 msgctxt "CREATURE:CRAB"
 msgid "[CASTE_NAME:crab:crabs:crab]"
-msgstr ""
+msgstr "[CASTE_NAME:게:게들:게]"
 
 #: creature_ocean_new.txt:178
 msgctxt "CREATURE:CRAB"
@@ -24190,7 +24191,7 @@ msgstr "[NAME:갑오징어:갑오징어떼:갑오징어]"
 #: creature_ocean_new.txt:416
 msgctxt "CREATURE:CUTTLEFISH"
 msgid "[CASTE_NAME:cuttlefish:cuttlefish:cuttlefish]"
-msgstr ""
+msgstr "[CASTE_NAME:갑오징어:갑오징어떼:갑오징어]"
 
 #: creature_ocean_new.txt:432
 msgctxt "CREATURE:CUTTLEFISH"
@@ -24210,37 +24211,37 @@ msgstr "[ATTACK_VERB:깨물음:깨물음]"
 #: creature_ocean_new.txt:460
 msgctxt "CREATURE:CUTTLEFISH"
 msgid "[STATE_NAME:ALL_SOLID:frozen cuttlefish ink]"
-msgstr ""
+msgstr "[STATE_NAME:ALL_SOLID:얼어붙은 갑오징어 잉크]"
 
 #: creature_ocean_new.txt:461
 msgctxt "CREATURE:CUTTLEFISH"
 msgid "[STATE_ADJ:ALL_SOLID:frozen cuttlefish ink]"
-msgstr ""
+msgstr "[STATE_ADJ:ALL_SOLID:얼어붙은 갑오징어 잉크]"
 
 #: creature_ocean_new.txt:462
 msgctxt "CREATURE:CUTTLEFISH"
 msgid "[STATE_NAME:LIQUID:cuttlefish ink]"
-msgstr ""
+msgstr "[STATE_NAME:LIQUID:갑오징어 잉크]"
 
 #: creature_ocean_new.txt:463
 msgctxt "CREATURE:CUTTLEFISH"
 msgid "[STATE_ADJ:LIQUID:cuttlefish ink]"
-msgstr ""
+msgstr "[STATE_ADJ:LIQUID:갑오징어 잉크]"
 
 #: creature_ocean_new.txt:464
 msgctxt "CREATURE:CUTTLEFISH"
 msgid "[STATE_NAME:GAS:boiling cuttlefish ink]"
-msgstr ""
+msgstr "[STATE_NAME:GAS:기화된 갑오징어 잉크]"
 
 #: creature_ocean_new.txt:465
 msgctxt "CREATURE:CUTTLEFISH"
 msgid "[STATE_ADJ:GAS:boiling cuttlefish ink]"
-msgstr ""
+msgstr "[STATE_ADJ:GAS:기화된 갑오징어 잉크]"
 
 #: creature_ocean_new.txt:476
 msgctxt "CREATURE:CUTTLEFISH"
 msgid "[CDI:ADV_NAME:Squirt ink]"
-msgstr ""
+msgstr "[CDI:ADV_NAME:오징어 잉크]"
 
 #: creature_ocean_new.txt:481
 msgctxt "CREATURE:CUTTLEFISH"
@@ -24574,7 +24575,7 @@ msgstr ""
 #: creature_ocean_new.txt:908
 msgctxt "CREATURE:SPERM_WHALE"
 msgid "[PREFSTRING:teeth]"
-msgstr ""
+msgstr "[PREFSTRING:치아]"
 
 #: creature_ocean_new.txt:909
 msgctxt "CREATURE:SPERM_WHALE"
@@ -24645,7 +24646,7 @@ msgstr ""
 #: creature_ocean_new.txt:1022
 msgctxt "CREATURE:GIANT_SPERM_WHALE"
 msgid "[PREFSTRING:teeth]"
-msgstr ""
+msgstr "[PREFSTRING:치아]"
 
 #: creature_ocean_new.txt:1023
 msgctxt "CREATURE:GIANT_SPERM_WHALE"
@@ -24859,7 +24860,7 @@ msgstr "[PREFSTRING:껍질]"
 #: creature_ocean_new.txt:1315
 msgctxt "CREATURE:NAUTILUS"
 msgid "[PREFSTRING:many tentacles]"
-msgstr ""
+msgstr "[PREFSTRING:많은 촉수들]"
 
 #: creature_ocean_new.txt:1332
 msgctxt "CREATURE:NAUTILUS"
@@ -24919,7 +24920,7 @@ msgstr "[PREFSTRING:껍질]"
 #: creature_ocean_new.txt:1414
 msgctxt "CREATURE:GIANT_NAUTILUS"
 msgid "[PREFSTRING:many tentacles]"
-msgstr ""
+msgstr "[PREFSTRING:많은 촉수들]"
 
 #: creature_other.txt:6
 msgctxt "CREATURE:FOXSQUIRREL"
@@ -25115,7 +25116,7 @@ msgstr ""
 #: creature_other.txt:255
 msgctxt "CREATURE:WAMBLER_FLUFFY"
 msgid "[PREFSTRING:gentle nature]"
-msgstr ""
+msgstr "[PREFSTRING:신사적 특성]"
 
 #: creature_other.txt:256
 msgctxt "CREATURE:WAMBLER_FLUFFY"
@@ -25273,12 +25274,12 @@ msgstr ""
 #: creature_other.txt:440
 msgctxt "CREATURE:SPIDER_PHANTOM"
 msgid "[NAME:phantom spider:phantom spiders:phantom spider]"
-msgstr ""
+msgstr "[NAME:유령거미:유령거미떼:유령거미]"
 
 #: creature_other.txt:441
 msgctxt "CREATURE:SPIDER_PHANTOM"
 msgid "[CASTE_NAME:phantom spider:phantom spiders:phantom spider]"
-msgstr ""
+msgstr "[CASTE_NAME:유령거미:유령거미떼:유령거미]"
 
 #: creature_other.txt:454
 msgctxt "CREATURE:SPIDER_PHANTOM"
@@ -25293,32 +25294,32 @@ msgstr ""
 #: creature_other.txt:468
 msgctxt "CREATURE:SPIDER_PHANTOM"
 msgid "[STATE_NAME:ALL_SOLID:frozen phantom spider venom]"
-msgstr ""
+msgstr "[STATE_NAME:ALL_SOLID:얼어붙은 유령거미 독]"
 
 #: creature_other.txt:469
 msgctxt "CREATURE:SPIDER_PHANTOM"
 msgid "[STATE_ADJ:ALL_SOLID:frozen phantom spider venom]"
-msgstr ""
+msgstr "[STATE_ADJ:ALL_SOLID:얼어붙은 유령거미 독]"
 
 #: creature_other.txt:470
 msgctxt "CREATURE:SPIDER_PHANTOM"
 msgid "[STATE_NAME:LIQUID:phantom spider venom]"
-msgstr ""
+msgstr "[STATE_NAME:LIQUID:유령거미 독]"
 
 #: creature_other.txt:471
 msgctxt "CREATURE:SPIDER_PHANTOM"
 msgid "[STATE_ADJ:LIQUID:phantom spider venom]"
-msgstr ""
+msgstr "[STATE_ADJ:LIQUID:유령거미 독]"
 
 #: creature_other.txt:472
 msgctxt "CREATURE:SPIDER_PHANTOM"
 msgid "[STATE_NAME:GAS:boiling phantom spider venom]"
-msgstr ""
+msgstr "[STATE_NAME:GAS:기화된 유령거미 독]"
 
 #: creature_other.txt:473
 msgctxt "CREATURE:SPIDER_PHANTOM"
 msgid "[STATE_ADJ:GAS:boiling phantom spider venom]"
-msgstr ""
+msgstr "[STATE_ADJ:GAS:기화된 유령거미 독]"
 
 #: creature_other.txt:477
 msgctxt "CREATURE:SPIDER_PHANTOM"
@@ -25350,12 +25351,12 @@ msgstr ""
 #: creature_other.txt:516
 msgctxt "CREATURE:FLY_ACORN"
 msgid "[NAME:acorn fly:acorn flies:acorn fly]"
-msgstr ""
+msgstr "[NAME:도토리 파리:도토리 파리떼:도토리 파리]"
 
 #: creature_other.txt:517
 msgctxt "CREATURE:FLY_ACORN"
 msgid "[CASTE_NAME:acorn fly:acorn flies:acorn fly]"
-msgstr ""
+msgstr "[CASTE_NAME:도토리 파리:도토리 파리떼:도토리 파리]"
 
 #: creature_other.txt:527
 msgctxt "CREATURE:FLY_ACORN"
@@ -25422,7 +25423,7 @@ msgstr "[NAME:도마뱀:도마뱀들:도마뱀]"
 #: creature_reptiles.txt:8
 msgctxt "CREATURE:LIZARD"
 msgid "[CASTE_NAME:lizard:lizards:lizard]"
-msgstr ""
+msgstr "[CASTE_NAME:도마뱀:도마뱀들:도마뱀]"
 
 #: creature_reptiles.txt:18
 msgctxt "CREATURE:LIZARD"
@@ -25447,12 +25448,12 @@ msgstr "[TLCM_NOUN:눈들:PLURAL]"
 #: creature_reptiles.txt:87
 msgctxt "CREATURE:LIZARD_MAN"
 msgid "[CASTE_NAME:lizard man:lizard men:lizard man]"
-msgstr ""
+msgstr "[CASTE_NAME:남성 도마뱀인간:남성 도마뱀인간들:남성 도마뱀인간]"
 
 #: creature_reptiles.txt:89
 msgctxt "CREATURE:LIZARD_MAN"
 msgid "[CASTE_NAME:lizard woman:lizard women:lizard woman]"
-msgstr ""
+msgstr "[CASTE_NAME:여성 도마뱀인간:여성 도마뱀인간들:여성 도마뱀인간]"
 
 #: creature_reptiles.txt:100
 msgctxt "CREATURE:LIZARD_MAN"
@@ -25472,17 +25473,17 @@ msgstr "[NAME:거대 도마뱀:거대 도마뱀들:거대 도마뱀]"
 #: creature_reptiles.txt:120
 msgctxt "CREATURE:GIANT_LIZARD"
 msgid "[CASTE_NAME:giant lizard:giant lizards:giant lizard]"
-msgstr ""
+msgstr "[CASTE_NAME:거대 도마뱀:거대 도마뱀들:거대 도마뱀]"
 
 #: creature_reptiles.txt:121
 msgctxt "CREATURE:GIANT_LIZARD"
 msgid "[GENERAL_CHILD_NAME:giant lizard hatchling:giant lizard hatchlings]"
-msgstr ""
+msgstr "[GENERAL_CHILD_NAME:새끼 거대 도마뱀:새끼 거대 도마뱀들]"
 
 #: creature_reptiles.txt:122
 msgctxt "CREATURE:GIANT_LIZARD"
 msgid "[DESCRIPTION:A huge monster in the shape of a lizard.]"
-msgstr ""
+msgstr "[DESCRIPTION:도마뱀의 모습을 한 거대한 괴수.]"
 
 #: creature_reptiles.txt:131
 msgctxt "CREATURE:GIANT_LIZARD"
@@ -25509,7 +25510,7 @@ msgstr ""
 #: creature_reptiles.txt:152
 msgctxt "CREATURE:SKINK"
 msgid "[PREFSTRING:colorful tongues]"
-msgstr ""
+msgstr "[PREFSTRING:형형색색의 혀]"
 
 #: creature_reptiles.txt:194
 msgctxt "CREATURE:SKINK"
@@ -25564,7 +25565,7 @@ msgstr ""
 #: creature_reptiles.txt:265
 msgctxt "CREATURE:GIANT_SKINK"
 msgid "[PREFSTRING:colorful tongues]"
-msgstr ""
+msgstr "[PREFSTRING:형형색색의 혀]"
 
 #: creature_reptiles.txt:272
 msgctxt "CREATURE:CHAMELEON"
@@ -25592,7 +25593,7 @@ msgstr ""
 #: creature_reptiles.txt:288
 msgctxt "CREATURE:CHAMELEON"
 msgid "[PREFSTRING:eyes]"
-msgstr ""
+msgstr "[PREFSTRING:눈]"
 
 #: creature_reptiles.txt:331
 msgctxt "CREATURE:CHAMELEON"
@@ -25652,7 +25653,7 @@ msgstr "[PREFSTRING:색깔을 바꾸는 능력]"
 #: creature_reptiles.txt:403
 msgctxt "CREATURE:GIANT_CHAMELEON"
 msgid "[PREFSTRING:eyes]"
-msgstr ""
+msgstr "[PREFSTRING:눈]"
 
 #: creature_reptiles.txt:410
 msgctxt "CREATURE:ANOLE"
@@ -26919,7 +26920,7 @@ msgstr ""
 #: creature_small_mammals.txt:21
 msgctxt "CREATURE:RAT"
 msgid "[PREFSTRING:playfulness]"
-msgstr ""
+msgstr "[PREFSTRING:장난기]"
 
 #: creature_small_mammals.txt:22
 msgctxt "CREATURE:RAT"
@@ -26959,12 +26960,12 @@ msgstr "[TLCM_NOUN:눈들:PLURAL]"
 #: creature_small_mammals.txt:101
 msgctxt "CREATURE:RAT_MAN"
 msgid "[CASTE_NAME:rat man:rat men:rat man]"
-msgstr ""
+msgstr "[CASTE_NAME:남성 쥐인간:남성 쥐인간들:남성 쥐인간]"
 
 #: creature_small_mammals.txt:103
 msgctxt "CREATURE:RAT_MAN"
 msgid "[CASTE_NAME:rat woman:rat women:rat woman]"
-msgstr ""
+msgstr "[CASTE_NAME:여성 쥐인간:여성 쥐인간들:여성 쥐인간]"
 
 #: creature_small_mammals.txt:114
 msgctxt "CREATURE:RAT_MAN"
@@ -26974,7 +26975,7 @@ msgstr "[NAME:쥐인간:쥐인간들:쥐인간]"
 #: creature_small_mammals.txt:115
 msgctxt "CREATURE:RAT_MAN"
 msgid "[DESCRIPTION:A person with the head and tail of a rat.]"
-msgstr ""
+msgstr "[DESCRIPTION:쥐의 머리와 꼬리를 가진 인간.]"
 
 #: creature_small_mammals.txt:125
 msgctxt "CREATURE:SQUIRREL_GRAY"
@@ -27074,7 +27075,7 @@ msgstr "[PREFSTRING:꼬리]"
 msgctxt "CREATURE:SQUIRREL_RED"
 msgid ""
 "[DESCRIPTION:A small red rodent found in the trees of temperate woodlands.]"
-msgstr ""
+msgstr "[DESCRIPTION:온대림의 나무에서 지저귀는게 발견되는 작은 빨간색 설치류]"
 
 #: creature_small_mammals.txt:267
 msgctxt "CREATURE:SQUIRREL_RED"
@@ -27176,12 +27177,12 @@ msgstr "[NAME:다람쥐:다람쥐들:다람쥐]"
 #: creature_small_mammals.txt:409
 msgctxt "CREATURE:CHIPMUNK"
 msgid "[CASTE_NAME:chipmunk:chipmunks:chipmunk]"
-msgstr ""
+msgstr "[CASTE_NAME:다람쥐:다람쥐들:다람쥐]"
 
 #: creature_small_mammals.txt:419
 msgctxt "CREATURE:CHIPMUNK"
 msgid "[PREFSTRING:stripes]"
-msgstr ""
+msgstr "[PREFSTRING:줄무늬]"
 
 #: creature_small_mammals.txt:457
 msgctxt "CREATURE:CHIPMUNK"
@@ -27211,12 +27212,12 @@ msgstr "[TLCM_NOUN:눈들:PLURAL]"
 #: creature_small_mammals.txt:497
 msgctxt "CREATURE:CHIPMUNK_MAN"
 msgid "[CASTE_NAME:chipmunk man:chipmunk men:chipmunk man]"
-msgstr ""
+msgstr "[CASTE_NAME:남성 다람쥐인간:남성 다람쥐인간들:남성 다람쥐인간]"
 
 #: creature_small_mammals.txt:499
 msgctxt "CREATURE:CHIPMUNK_MAN"
 msgid "[CASTE_NAME:chipmunk woman:chipmunk women:chipmunk woman]"
-msgstr ""
+msgstr "[CASTE_NAME:여성 다람쥐인간:여성 다람쥐인간들:여성 다람쥐인간]"
 
 #: creature_small_mammals.txt:510
 msgctxt "CREATURE:CHIPMUNK_MAN"
@@ -27226,7 +27227,7 @@ msgstr "[NAME:다람쥐인간:다람쥐인간들:다람쥐인간]"
 #: creature_small_mammals.txt:511
 msgctxt "CREATURE:CHIPMUNK_MAN"
 msgid "[DESCRIPTION:A striped person with the head and tail of a chipmunk.]"
-msgstr ""
+msgstr "[DESCRIPTION:다람쥐의 머리와 꼬리를 가진 줄무늬 인간.]"
 
 #: creature_small_mammals.txt:529
 msgctxt "CREATURE:GIANT_CHIPMUNK"
@@ -27236,29 +27237,29 @@ msgstr "[NAME:거대 다람쥐:거대 다람쥐들:거대 다람쥐]"
 #: creature_small_mammals.txt:530
 msgctxt "CREATURE:GIANT_CHIPMUNK"
 msgid "[CASTE_NAME:giant chipmunk:giant chipmunks:giant chipmunk]"
-msgstr ""
+msgstr "[CASTE_NAME:거대 다람쥐:거대 다람쥐들:거대 다람쥐]"
 
 #: creature_small_mammals.txt:531
 msgctxt "CREATURE:GIANT_CHIPMUNK"
 msgid "[GENERAL_CHILD_NAME:giant chipmunk pup:giant chipmunk pups]"
-msgstr ""
+msgstr "[GENERAL_CHILD_NAME:새끼 거대 다람쥐:새끼 거대 다람쥐들:새끼 거대 다람쥐]"
 
 #: creature_small_mammals.txt:532
 msgctxt "CREATURE:GIANT_CHIPMUNK"
 msgid "[DESCRIPTION:A large creature the shape of a chipmunk.]"
-msgstr ""
+msgstr "[DESCRIPTION:다람쥐의 모습을 한 거대한 생물.]"
 
 #: creature_small_mammals.txt:541
 msgctxt "CREATURE:GIANT_CHIPMUNK"
 msgid "[PREFSTRING:stripes]"
-msgstr ""
+msgstr "[PREFSTRING:줄무늬]"
 
 #: creature_small_ocean.txt:6
 msgctxt "CREATURE:MUSSEL"
 msgid ""
 "[DESCRIPTION:A small creature found in both salt and fresh water that lives "
 "in an asymmetrical shell rooted to the bottom.]"
-msgstr ""
+msgstr "[DESCRIPTION:소금과 민물에서 발견되는 작은 생물로 바닥에 뿌리를 둔 비대칭 껍질 속에 살고 있다.]"
 
 #: creature_small_ocean.txt:7
 msgctxt "CREATURE:MUSSEL"
@@ -27268,7 +27269,7 @@ msgstr "[NAME:홍합:홍합들:홍합]"
 #: creature_small_ocean.txt:8
 msgctxt "CREATURE:MUSSEL"
 msgid "[CASTE_NAME:mussel:mussels:mussel]"
-msgstr ""
+msgstr "[CASTE_NAME:홍합:홍합들:홍합]"
 
 #: creature_small_ocean.txt:23
 msgctxt "CREATURE:MUSSEL"
@@ -27295,7 +27296,7 @@ msgstr "[NAME:굴:굴들:굴]"
 #: creature_small_ocean.txt:65
 msgctxt "CREATURE:OYSTER"
 msgid "[CASTE_NAME:oyster:oysters:oyster]"
-msgstr ""
+msgstr "[CASTE_NAME:굴:굴들:굴]"
 
 #: creature_small_ocean.txt:78
 msgctxt "CREATURE:OYSTER"
@@ -27322,7 +27323,7 @@ msgstr "[NAME:연어:연어떼:연어]"
 #: creature_small_ocean.txt:120
 msgctxt "CREATURE:FISH_SALMON"
 msgid "[CASTE_NAME:salmon:salmon:salmon]"
-msgstr ""
+msgstr "[CASTE_NAME:연어:연어떼:연어]"
 
 #: creature_small_ocean.txt:132
 msgctxt "CREATURE:FISH_SALMON"
@@ -27349,7 +27350,7 @@ msgctxt "CREATURE:FISH_CLOWNFISH"
 msgid ""
 "[DESCRIPTION:A tiny orange marine fish that lives inside the tentacles of a "
 "poisonous invertebrate.]"
-msgstr ""
+msgstr "[DESCRIPTION:독이 있는 무척추동물의 촉수 안에 사는 작은 오렌지색 바다 물고기.]"
 
 #: creature_small_ocean.txt:193
 msgctxt "CREATURE:FISH_CLOWNFISH"
@@ -27359,7 +27360,7 @@ msgstr "[NAME:흰동가리:흰동가리떼:흰동가리]"
 #: creature_small_ocean.txt:194
 msgctxt "CREATURE:FISH_CLOWNFISH"
 msgid "[CASTE_NAME:clownfish:clownfish:clownfish]"
-msgstr ""
+msgstr "[CASTE_NAME:흰동가리:흰동가리떼:흰동가리]"
 
 #: creature_small_ocean.txt:202
 msgctxt "CREATURE:FISH_CLOWNFISH"
@@ -27388,6 +27389,8 @@ msgid ""
 "the ocean.  It can turn the water around its body into a cloud of slime to "
 "escape predators.]"
 msgstr ""
+"[DESCRIPTION:바다 밑바닥에 사는 작고, 척추가 없고, 뱀장어처럼 생긴 물고기. 그것은 포식자들을 피하기 위해 몸 주위의 물을 "
+"점액 구름으로 바꿀 수 있습니다.]"
 
 #: creature_small_ocean.txt:263
 msgctxt "CREATURE:FISH_HAGFISH"
@@ -27397,7 +27400,7 @@ msgstr "[NAME:먹장어:먹장어들:먹장어]"
 #: creature_small_ocean.txt:264
 msgctxt "CREATURE:FISH_HAGFISH"
 msgid "[CASTE_NAME:hagfish:hagfish:hagfish]"
-msgstr ""
+msgstr "[CASTE_NAME:먹장어:먹장어들:먹장어]"
 
 #: creature_small_ocean.txt:273
 msgctxt "CREATURE:FISH_HAGFISH"
@@ -27407,7 +27410,7 @@ msgstr "[PREFSTRING:점액]"
 #: creature_small_ocean.txt:274
 msgctxt "CREATURE:FISH_HAGFISH"
 msgid "[PREFSTRING:ability to tie themselves in knots]"
-msgstr ""
+msgstr "[PREFSTRING:매듭을 짓는 능력]"
 
 #: creature_small_ocean.txt:307
 msgctxt "CREATURE:FISH_HAGFISH"
@@ -27429,17 +27432,17 @@ msgctxt "CREATURE:FISH_LAMPREY_BROOK"
 msgid ""
 "[DESCRIPTION:A small, jawless, filter-feeding fish found in brooks and "
 "streams.]"
-msgstr ""
+msgstr "[DESCRIPTION:개울과 개울에서 발견되는 작고 턱이 없는 필터를 먹이로 하는 물고기.]"
 
 #: creature_small_ocean.txt:331
 msgctxt "CREATURE:FISH_LAMPREY_BROOK"
 msgid "[NAME:brook lamprey:brook lampreys:brook lamprey]"
-msgstr ""
+msgstr "[NAME:북미다묵장어:북미다묵장어들:북미다묵장어]"
 
 #: creature_small_ocean.txt:332
 msgctxt "CREATURE:FISH_LAMPREY_BROOK"
 msgid "[CASTE_NAME:brook lamprey:brook lampreys:brook lamprey]"
-msgstr ""
+msgstr "[CASTE_NAME:북미다묵장어:북미다묵장어들:북미다묵장어]"
 
 #: creature_small_ocean.txt:343
 msgctxt "CREATURE:FISH_LAMPREY_BROOK"
@@ -27466,7 +27469,7 @@ msgctxt "CREATURE:FISH_RAY_BAT"
 msgid ""
 "[DESCRIPTION:A medium-sized, winged fish found in the muddy coasts of both "
 "temperate and tropical waters.]"
-msgstr ""
+msgstr "[DESCRIPTION:온대와 열대 수역의 진흙투성이 해안에서 발견되는 중간 크기의 날개 달린 물고기.]"
 
 #: creature_small_ocean.txt:400
 msgctxt "CREATURE:FISH_RAY_BAT"
@@ -27481,7 +27484,7 @@ msgstr "[CASTE_NAME:박쥐가오리:박쥐가오리들:박쥐가오리]"
 #: creature_small_ocean.txt:411
 msgctxt "CREATURE:FISH_RAY_BAT"
 msgid "[PREFSTRING:shape]"
-msgstr ""
+msgstr "[PREFSTRING:모양]"
 
 #: creature_small_ocean.txt:444
 msgctxt "CREATURE:FISH_RAY_BAT"
@@ -27501,22 +27504,22 @@ msgstr "[TLCM_NOUN:눈들:PLURAL]"
 #: creature_small_ocean.txt:467
 msgctxt "CREATURE:FISH_RAY_THORNBACK"
 msgid "[DESCRIPTION:A small winged fish found in shallow seas.]"
-msgstr ""
+msgstr "[DESCRIPTION:얕은 바다에서 발견된 작은 날개 달린 물고기.]"
 
 #: creature_small_ocean.txt:468
 msgctxt "CREATURE:FISH_RAY_THORNBACK"
 msgid "[NAME:thornback ray:thornback rays:thornback ray]"
-msgstr ""
+msgstr "[NAME:대서양홍어:대서양홍어들:대서양홍어]"
 
 #: creature_small_ocean.txt:469
 msgctxt "CREATURE:FISH_RAY_THORNBACK"
 msgid "[CASTE_NAME:thornback ray:thornback rays:thornback ray]"
-msgstr ""
+msgstr "[CASTE_NAME:대서양홍어:대서양홍어들:대서양홍어]"
 
 #: creature_small_ocean.txt:478
 msgctxt "CREATURE:FISH_RAY_THORNBACK"
 msgid "[PREFSTRING:back spines]"
-msgstr ""
+msgstr "[PREFSTRING:등뼈]"
 
 #: creature_small_ocean.txt:511
 msgctxt "CREATURE:FISH_RAY_THORNBACK"
@@ -27539,16 +27542,18 @@ msgid ""
 "[DESCRIPTION:A small, shark-like creature that lives in the ocean's muddy "
 "shallows.  Its skin sparkles and it has a venomous spine on its back.]"
 msgstr ""
+"[DESCRIPTION:바다의 진흙투성이 얕은 곳에 사는 상어처럼 생긴 작은 생물입니다. 피부는 반짝이고 등에는 독이 있는 척추가 "
+"있다.]"
 
 #: creature_small_ocean.txt:535
 msgctxt "CREATURE:FISH_RATFISH_SPOTTED"
 msgid "[NAME:spotted ratfish:spotted ratfish:spotted ratfish]"
-msgstr ""
+msgstr "[NAME:점박이은어:점박이은어들:점박이은어]"
 
 #: creature_small_ocean.txt:536
 msgctxt "CREATURE:FISH_RATFISH_SPOTTED"
 msgid "[CASTE_NAME:spotted ratfish:spotted ratfish:spotted ratfish]"
-msgstr ""
+msgstr "[CASTE_NAME:점박이은어:점박이은어들:점박이은어]"
 
 #: creature_small_ocean.txt:544
 msgctxt "CREATURE:FISH_RATFISH_SPOTTED"
@@ -27573,7 +27578,7 @@ msgstr "[TLCM_NOUN:눈들:PLURAL]"
 #: creature_small_ocean.txt:604
 msgctxt "CREATURE:FISH_HERRING"
 msgid "[DESCRIPTION:A tiny marine fish found in vast schools.]"
-msgstr ""
+msgstr "[DESCRIPTION:거대한 학교에서 발견되는 작은 바다 물고기.]"
 
 #: creature_small_ocean.txt:605
 msgctxt "CREATURE:FISH_HERRING"
@@ -27583,12 +27588,12 @@ msgstr "[NAME:청어:청어떼:청어]"
 #: creature_small_ocean.txt:606
 msgctxt "CREATURE:FISH_HERRING"
 msgid "[CASTE_NAME:herring:herrings:herring]"
-msgstr ""
+msgstr "[CASTE_NAME:청어:청어들:청어]"
 
 #: creature_small_ocean.txt:616
 msgctxt "CREATURE:FISH_HERRING"
 msgid "[PREFSTRING:massive schools]"
-msgstr ""
+msgstr "[PREFSTRING:대규모 학교]"
 
 #: creature_small_ocean.txt:653
 msgctxt "CREATURE:FISH_HERRING"
@@ -27608,22 +27613,22 @@ msgstr "[TLCM_NOUN:눈들:PLURAL]"
 #: creature_small_ocean.txt:676
 msgctxt "CREATURE:FISH_SHAD"
 msgid "[DESCRIPTION:A small marine fish that travels to rivers to breed.]"
-msgstr ""
+msgstr "[DESCRIPTION:번식을 위해 강으로 이동하는 작은 바다 물고기.]"
 
 #: creature_small_ocean.txt:677
 msgctxt "CREATURE:FISH_SHAD"
 msgid "[NAME:shad:shads:shad]"
-msgstr ""
+msgstr "[NAME:청어:청어들:청어]"
 
 #: creature_small_ocean.txt:678
 msgctxt "CREATURE:FISH_SHAD"
 msgid "[CASTE_NAME:shad:shads:shad]"
-msgstr ""
+msgstr "[CASTE_NAME:청어:청어들:청어]"
 
 #: creature_small_ocean.txt:691
 msgctxt "CREATURE:FISH_SHAD"
 msgid "[PREFSTRING:silvery bodies]"
-msgstr ""
+msgstr "[PREFSTRING:은빛 시체들]"
 
 #: creature_small_ocean.txt:728
 msgctxt "CREATURE:FISH_SHAD"
@@ -27645,7 +27650,7 @@ msgctxt "CREATURE:FISH_ANCHOVY"
 msgid ""
 "[DESCRIPTION:A tiny blue-green oceanic fish, found only in temperate "
 "waters.]"
-msgstr ""
+msgstr "[DESCRIPTION:온대 수역에서만 발견되는 아주 작은 청록색 해양 물고기.]"
 
 #: creature_small_ocean.txt:752
 msgctxt "CREATURE:FISH_ANCHOVY"
@@ -28002,12 +28007,12 @@ msgstr ""
 #: creature_small_ocean.txt:1429
 msgctxt "CREATURE:SQUID"
 msgid "[NAME:squid:squids:squid]"
-msgstr "[NAME:오징어:오징어뗴:오징어]"
+msgstr "[NAME:오징어:오징어떼:오징어]"
 
 #: creature_small_ocean.txt:1430
 msgctxt "CREATURE:SQUID"
 msgid "[CASTE_NAME:squid:squids:squid]"
-msgstr ""
+msgstr "[CASTE_NAME:오징어:오징어떼:오징어]"
 
 #: creature_small_ocean.txt:1442
 msgctxt "CREATURE:SQUID"
@@ -28022,32 +28027,32 @@ msgstr "[ATTACK_VERB:깨물음:깨물음]"
 #: creature_small_ocean.txt:1469
 msgctxt "CREATURE:SQUID"
 msgid "[STATE_NAME:ALL_SOLID:frozen squid ink]"
-msgstr ""
+msgstr "[STATE_NAME:ALL_SOLID:얼어붙은 오징어 잉크]"
 
 #: creature_small_ocean.txt:1470
 msgctxt "CREATURE:SQUID"
 msgid "[STATE_ADJ:ALL_SOLID:frozen squid ink]"
-msgstr ""
+msgstr "[STATE_ADJ:ALL_SOLID:얼어붙은 오징어 잉크]"
 
 #: creature_small_ocean.txt:1471
 msgctxt "CREATURE:SQUID"
 msgid "[STATE_NAME:LIQUID:squid ink]"
-msgstr ""
+msgstr "[STATE_NAME:LIQUID:오징어 잉크]"
 
 #: creature_small_ocean.txt:1472
 msgctxt "CREATURE:SQUID"
 msgid "[STATE_ADJ:LIQUID:squid ink]"
-msgstr ""
+msgstr "[STATE_ADJ:LIQUID:오징어 잉크]"
 
 #: creature_small_ocean.txt:1473
 msgctxt "CREATURE:SQUID"
 msgid "[STATE_NAME:GAS:boiling squid ink]"
-msgstr ""
+msgstr "[STATE_NAME:GAS:기화된 오징어 잉크]"
 
 #: creature_small_ocean.txt:1474
 msgctxt "CREATURE:SQUID"
 msgid "[STATE_ADJ:GAS:boiling squid ink]"
-msgstr ""
+msgstr "[STATE_ADJ:GAS:기화된 오징어 잉크]"
 
 #: creature_small_ocean.txt:1491
 msgctxt "CREATURE:SQUID"
@@ -28072,17 +28077,17 @@ msgstr "[CVCT_TARGET:오징어]"
 #: creature_small_ocean.txt:1519
 msgctxt "CREATURE:SQUID MAN"
 msgid "[CVCT_REPLACEMENT:squid man]"
-msgstr ""
+msgstr "[CVCT_REPLACEMENT:오징어인간]"
 
 #: creature_small_ocean.txt:1528
 msgctxt "CREATURE:SQUID MAN"
 msgid "[CASTE_NAME:squid man:squid men:squid man]"
-msgstr ""
+msgstr "[CASTE_NAME:남성 오징어인간:남성 오징어인간들:남성 오징어인간]"
 
 #: creature_small_ocean.txt:1530
 msgctxt "CREATURE:SQUID MAN"
 msgid "[CASTE_NAME:squid woman:squid women:squid woman]"
-msgstr ""
+msgstr "[CASTE_NAME:여성 오징어인간:여성 오징어인간들:여성 오징어인간]"
 
 #: creature_small_ocean.txt:1540
 msgctxt "CREATURE:SQUID MAN"
@@ -28102,7 +28107,7 @@ msgstr "[CVCT_TARGET:오징어]"
 #: creature_small_ocean.txt:1553
 msgctxt "CREATURE:GIGANTIC SQUID"
 msgid "[CVCT_REPLACEMENT:giant squid]"
-msgstr ""
+msgstr "[CVCT_REPLACEMENT:거대 오징어]"
 
 #: creature_small_ocean.txt:1566
 msgctxt "CREATURE:GIGANTIC SQUID"
@@ -28112,12 +28117,12 @@ msgstr "[NAME:초 거대 오징어:초 거대 오징어들:초 거대 오징어]
 #: creature_small_ocean.txt:1567
 msgctxt "CREATURE:GIGANTIC SQUID"
 msgid "[CASTE_NAME:gigantic squid:gigantic squids:gigantic squid]"
-msgstr ""
+msgstr "[CASTE_NAME:초 거대 오징어:초 거대 오징어들:초 거대 오징어]"
 
 #: creature_small_ocean.txt:1568
 msgctxt "CREATURE:GIGANTIC SQUID"
 msgid "[DESCRIPTION:A huge sea monster the shape of a squid.]"
-msgstr ""
+msgstr "[DESCRIPTION:오징어의 모습을 한 거대한 바다괴수.]"
 
 #: creature_small_ocean.txt:1576
 msgctxt "CREATURE:GIGANTIC SQUID"
@@ -32982,12 +32987,12 @@ msgstr ""
 #: creature_subterranean.txt:1813
 msgctxt "CREATURE:ELEMENTMAN_IRON"
 msgid "[NAME:iron man:iron men:iron man]"
-msgstr ""
+msgstr "[NAME:철인간:철인간들:철인간]"
 
 #: creature_subterranean.txt:1814
 msgctxt "CREATURE:ELEMENTMAN_IRON"
 msgid "[CASTE_NAME:iron man:iron men:iron man]"
-msgstr ""
+msgstr "[CASTE_NAME:철인간:철인간들:철인간]"
 
 #: creature_subterranean.txt:1832
 msgctxt "CREATURE:ELEMENTMAN_IRON"
@@ -32997,37 +33002,37 @@ msgstr ""
 #: creature_subterranean.txt:1839
 msgctxt "CREATURE:ELEMENTMAN_IRON"
 msgid "[STATE_NAME:ALL_SOLID:frozen iron man gas]"
-msgstr ""
+msgstr "[STATE_NAME:ALL_SOLID:얼어붙은 철인간 방귀]"
 
 #: creature_subterranean.txt:1840
 msgctxt "CREATURE:ELEMENTMAN_IRON"
 msgid "[STATE_NAME_ADJ:ALL_SOLID:frozen iron man gas]"
-msgstr ""
+msgstr "[STATE_NAME_ADJ:ALL_SOLID:얼어붙은 철인간 방귀]"
 
 #: creature_subterranean.txt:1841
 msgctxt "CREATURE:ELEMENTMAN_IRON"
 msgid "[STATE_NAME:LIQUID:condensed iron man gas]"
-msgstr ""
+msgstr "[STATE_NAME:LIQUID:얼어붙은 철인간 방귀]"
 
 #: creature_subterranean.txt:1842
 msgctxt "CREATURE:ELEMENTMAN_IRON"
 msgid "[STATE_NAME_ADJ:LIQUID:condensed iron man gas]"
-msgstr ""
+msgstr "[STATE_NAME_ADJ:LIQUID:응축된 철인간 방귀]"
 
 #: creature_subterranean.txt:1843
 msgctxt "CREATURE:ELEMENTMAN_IRON"
 msgid "[STATE_NAME:GAS:iron man gas]"
-msgstr ""
+msgstr "[STATE_NAME:GAS:철인간 방귀]"
 
 #: creature_subterranean.txt:1844
 msgctxt "CREATURE:ELEMENTMAN_IRON"
 msgid "[STATE_NAME_ADJ:GAS:iron man gas]"
-msgstr ""
+msgstr "[STATE_NAME_ADJ:GAS:철인간 방귀]"
 
 #: creature_subterranean.txt:1850
 msgctxt "CREATURE:ELEMENTMAN_IRON"
 msgid "[SYN_NAME:iron man cough]"
-msgstr ""
+msgstr "[SYN_NAME:철인간 기침]"
 
 #: creature_subterranean.txt:1855
 msgctxt "CREATURE:ELEMENTMAN_IRON"
@@ -33334,7 +33339,7 @@ msgstr ""
 #: creature_subterranean.txt:2412
 msgctxt "CREATURE:SERPENT_MAN"
 msgid "[NAME:serpent man:serpent men:serpent man]"
-msgstr ""
+msgstr "[NAME:독사인간:독사인간들:독사인간]"
 
 #: creature_subterranean.txt:2428
 msgctxt "CREATURE:SERPENT_MAN"
@@ -33344,32 +33349,32 @@ msgstr ""
 #: creature_subterranean.txt:2464
 msgctxt "CREATURE:SERPENT_MAN"
 msgid "[STATE_NAME:ALL_SOLID:frozen serpent man venom]"
-msgstr ""
+msgstr "[STATE_NAME:ALL_SOLID:얼어붙은 독사인간 독]"
 
 #: creature_subterranean.txt:2465
 msgctxt "CREATURE:SERPENT_MAN"
 msgid "[STATE_ADJ:ALL_SOLID:frozen serpent man venom]"
-msgstr ""
+msgstr "[STATE_ADJ:ALL_SOLID:얼어붙은 독사인간 독]"
 
 #: creature_subterranean.txt:2466
 msgctxt "CREATURE:SERPENT_MAN"
 msgid "[STATE_NAME:LIQUID:serpent man venom]"
-msgstr ""
+msgstr "[STATE_NAME:LIQUID:독사인간 독]"
 
 #: creature_subterranean.txt:2467
 msgctxt "CREATURE:SERPENT_MAN"
 msgid "[STATE_ADJ:LIQUID:serpent man venom]"
-msgstr ""
+msgstr "[STATE_ADJ:LIQUID:독사인간 독]"
 
 #: creature_subterranean.txt:2468
 msgctxt "CREATURE:SERPENT_MAN"
 msgid "[STATE_NAME:GAS:boiling serpent man venom]"
-msgstr ""
+msgstr "[STATE_NAME:GAS:기화된 독사인간 독]"
 
 #: creature_subterranean.txt:2469
 msgctxt "CREATURE:SERPENT_MAN"
 msgid "[STATE_ADJ:GAS:boiling serpent man venom]"
-msgstr ""
+msgstr "[STATE_ADJ:GAS:기화된 독사인간 독]"
 
 #: creature_subterranean.txt:2473
 msgctxt "CREATURE:SERPENT_MAN"
@@ -33404,7 +33409,7 @@ msgstr ""
 #: creature_subterranean.txt:2540
 msgctxt "CREATURE:SERPENT_MAN"
 msgid "[CASTE_NAME:serpent man:serpent men:serpent man]"
-msgstr ""
+msgstr "[CASTE_NAME:남성 독사인간:남성 독사인간들:남성 독사인간]"
 
 #: creature_subterranean.txt:2545
 msgctxt "CREATURE:SERPENT_MAN"
@@ -36210,19 +36215,19 @@ msgstr "[NAME:거대 왕도마뱀:거대 왕도마뱀들:거대 왕도마뱀]"
 msgctxt "CREATURE:GIANT_MONITOR_LIZARD"
 msgid ""
 "[CASTE_NAME:giant monitor lizard:giant monitor lizards:giant monitor lizard]"
-msgstr ""
+msgstr "[CASTE_NAME:거대 왕도마뱀:거대 왕도마뱀들:거대 왕도마뱀]"
 
 #: creature_tropical_new.txt:586
 msgctxt "CREATURE:GIANT_MONITOR_LIZARD"
 msgid ""
 "[GENERAL_CHILD_NAME:giant monitor lizard hatchling:giant monitor lizard "
 "hatchlings]"
-msgstr ""
+msgstr "[GENERAL_CHILD_NAME:새끼 거대 왕도마뱀:새끼 거대 왕도마뱀들]"
 
 #: creature_tropical_new.txt:587
 msgctxt "CREATURE:GIANT_MONITOR_LIZARD"
 msgid "[DESCRIPTION:A huge monster in the shape of a monitor lizard.]"
-msgstr ""
+msgstr "[DESCRIPTION:왕도마뱀의 모습을 한 거대한 괴수.]"
 
 #: creature_tropical_new.txt:596
 msgctxt "CREATURE:GIANT_MONITOR_LIZARD"
@@ -36733,7 +36738,7 @@ msgstr "[DESCRIPTION:나무늘보의 모습을 한 거대한 괴수.]"
 #: creature_tropical_new.txt:1394
 msgctxt "CREATURE:GIANT_SLOTH"
 msgid "[PREFSTRING:slow movement]"
-msgstr ""
+msgstr "[PREFSTRING:느린 움직임]"
 
 #: creature_tropical_new.txt:1405
 msgctxt "CREATURE:SPIDER_MONKEY"
@@ -36960,7 +36965,7 @@ msgstr "[NAME:검은 맘바:검은 맘바떼:검은 맘바]"
 #: creature_tropical_new.txt:1715
 msgctxt "CREATURE:BLACK_MAMBA"
 msgid "[CASTE_NAME:black mamba:black mambas:black mamba]"
-msgstr ""
+msgstr "[CASTE_NAME:검은 맘바:검은 맘바떼:검은 맘바]"
 
 #: creature_tropical_new.txt:1730
 msgctxt "CREATURE:BLACK_MAMBA"
@@ -36975,12 +36980,12 @@ msgstr ""
 #: creature_tropical_new.txt:1763
 msgctxt "CREATURE:BLACK_MAMBA"
 msgid "[STATE_NAME:ALL_SOLID:frozen black mamba venom]"
-msgstr ""
+msgstr "[STATE_NAME:ALL_SOLID:얼어붙은 검은맘바 독]"
 
 #: creature_tropical_new.txt:1764
 msgctxt "CREATURE:BLACK_MAMBA"
 msgid "[STATE_ADJ:ALL_SOLID:frozen black mamba venom]"
-msgstr ""
+msgstr "[STATE_ADJ:ALL_SOLID:얼어붙은 검은맘바 독]"
 
 #: creature_tropical_new.txt:1765
 msgctxt "CREATURE:BLACK_MAMBA"
@@ -37035,12 +37040,12 @@ msgstr "[CVCT_REPLACEMENT:검은맘바인간]"
 #: creature_tropical_new.txt:1846
 msgctxt "CREATURE:BLACK_MAMBA_MAN"
 msgid "[CASTE_NAME:black mamba man:black mamba men:black mamba man]"
-msgstr ""
+msgstr "[CASTE_NAME:남성 검은맘바인간:남성 검은맘바인간들:남성 검은맘바인간]"
 
 #: creature_tropical_new.txt:1848
 msgctxt "CREATURE:BLACK_MAMBA_MAN"
 msgid "[CASTE_NAME:black mamba woman:black mamba women:black mamba woman]"
-msgstr ""
+msgstr "[CASTE_NAME:여성 검은맘바인간:여성 검은맘바인간들:여성 검은맘바인간]"
 
 #: creature_tropical_new.txt:1857
 msgctxt "CREATURE:BLACK_MAMBA_MAN"
@@ -37070,12 +37075,12 @@ msgstr "[NAME:거대 검은 맘바:거대 검은 맘바들:거대 검은 맘바]
 #: creature_tropical_new.txt:1892
 msgctxt "CREATURE:GIANT_BLACK_MAMBA"
 msgid "[CASTE_NAME:giant black mamba:giant black mambas:giant black mamba]"
-msgstr ""
+msgstr "[CASTE_NAME:거대 검은맘바:거대 검은맘바들:거대 검은맘바]"
 
 #: creature_tropical_new.txt:1893
 msgctxt "CREATURE:GIANT_BLACK_MAMBA"
 msgid "[DESCRIPTION:A large monster taking the shape of a black mamba.]"
-msgstr ""
+msgstr "[DESCRIPTION:검은맘바의 모습을 한 거대한 괴수.]"
 
 #: creature_tropical_new.txt:1902
 msgctxt "CREATURE:GIANT_BLACK_MAMBA"
@@ -37285,7 +37290,7 @@ msgstr "부시마스터:부시마스터떼:부시마스터]"
 #: creature_tropical_new.txt:2218
 msgctxt "CREATURE:BUSHMASTER"
 msgid "[CASTE_NAME:bushmaster:bushmasters:bushmaster]"
-msgstr ""
+msgstr "[CASTE_NAME:부시마스터:부시마스터들:부시마스터]"
 
 #: creature_tropical_new.txt:2230
 msgctxt "CREATURE:BUSHMASTER"
@@ -37295,22 +37300,22 @@ msgstr ""
 #: creature_tropical_new.txt:2261
 msgctxt "CREATURE:BUSHMASTER"
 msgid "[STATE_NAME:ALL_SOLID:frozen bushmaster venom]"
-msgstr ""
+msgstr "[STATE_NAME:ALL_SOLID:얼어붙은 부시마스터 독]"
 
 #: creature_tropical_new.txt:2262
 msgctxt "CREATURE:BUSHMASTER"
 msgid "[STATE_ADJ:ALL_SOLID:frozen bushmaster venom]"
-msgstr ""
+msgstr "[STATE_ADJ:ALL_SOLID:얼어붙은 부시마스터 독]"
 
 #: creature_tropical_new.txt:2263
 msgctxt "CREATURE:BUSHMASTER"
 msgid "[STATE_NAME:LIQUID:bushmaster venom]"
-msgstr ""
+msgstr "[STATE_NAME:LIQUID:부시마스터 독]"
 
 #: creature_tropical_new.txt:2264
 msgctxt "CREATURE:BUSHMASTER"
 msgid "[STATE_ADJ:LIQUID:bushmaster venom]"
-msgstr ""
+msgstr "[STATE_ADJ:LIQUID:부시마스터 독]"
 
 #: creature_tropical_new.txt:2265
 msgctxt "CREATURE:BUSHMASTER"
@@ -37350,17 +37355,17 @@ msgstr "[CVCT_TARGET:부시마스터]"
 #: creature_tropical_new.txt:2328
 msgctxt "CREATURE:BUSHMASTER_MAN"
 msgid "[CVCT_REPLACEMENT:bushmaster man]"
-msgstr ""
+msgstr "[CVCT_REPLACEMENT:부시마스터인간]"
 
 #: creature_tropical_new.txt:2345
 msgctxt "CREATURE:BUSHMASTER_MAN"
 msgid "[CASTE_NAME:bushmaster man:bushmaster men:bushmaster man]"
-msgstr ""
+msgstr "[CASTE_NAME:남성 부시마스터인간:남성 부시마스터인간들:부시마스터인간]"
 
 #: creature_tropical_new.txt:2347
 msgctxt "CREATURE:BUSHMASTER_MAN"
 msgid "[CASTE_NAME:bushmaster woman:bushmaster women:bushmaster woman]"
-msgstr ""
+msgstr "[CASTE_NAME:여성 부시마스터인간:여성 부시마스터인간들:여성 부시마스터인간]"
 
 #: creature_tropical_new.txt:2356
 msgctxt "CREATURE:BUSHMASTER_MAN"
@@ -37390,12 +37395,12 @@ msgstr "[NAME:거대 부시마스터:거대 부시마스터떼:거대 부시마�
 #: creature_tropical_new.txt:2391
 msgctxt "CREATURE:GIANT_BUSHMASTER"
 msgid "[CASTE_NAME:giant bushmaster:giant bushmasters:giant bushmaster]"
-msgstr ""
+msgstr "[CASTE_NAME:거대 부시마스터:거대 부시마스터떼:거대 부시마스터]"
 
 #: creature_tropical_new.txt:2392
 msgctxt "CREATURE:GIANT_BUSHMASTER"
 msgid "[DESCRIPTION:A huge monster in the form of a bushmaster.]"
-msgstr ""
+msgstr "[DESCRIPTION:부시마스터의 모습을 한 거대한 괴수.]"
 
 #: creature_tropical_new.txt:2401
 msgctxt "CREATURE:GIANT_BUSHMASTER"
@@ -43254,7 +43259,7 @@ msgstr "[STATE_ADJ:GAS:n/a]"
 #: material_template_default.txt:1570
 msgctxt "MATERIAL_TEMPLATE:BLOOD_TEMPLATE"
 msgid "[STATE_NAME:ALL_SOLID:frozen blood]"
-msgstr ""
+msgstr "[STATE_NAME:ALL_SOLID:얼어붙은 피]"
 
 #: material_template_default.txt:1571
 msgctxt "MATERIAL_TEMPLATE:BLOOD_TEMPLATE"
@@ -43314,32 +43319,32 @@ msgstr "[STATE_ADJ:GAS:기화된 체액]"
 #: material_template_default.txt:1662
 msgctxt "MATERIAL_TEMPLATE:GOO_TEMPLATE"
 msgid "[STATE_NAME:ALL_SOLID:frozen goo]"
-msgstr ""
+msgstr "[STATE_NAME:ALL_SOLID:얼어붙은 슬라임]"
 
 #: material_template_default.txt:1663
 msgctxt "MATERIAL_TEMPLATE:GOO_TEMPLATE"
 msgid "[STATE_ADJ:ALL_SOLID:frozen goo]"
-msgstr ""
+msgstr "[STATE_ADJ:ALL_SOLID:얼어붙은 슬라임]"
 
 #: material_template_default.txt:1665
 msgctxt "MATERIAL_TEMPLATE:GOO_TEMPLATE"
 msgid "[STATE_NAME:LIQUID:goo]"
-msgstr ""
+msgstr "[STATE_NAME:LIQUID:슬라임]"
 
 #: material_template_default.txt:1666
 msgctxt "MATERIAL_TEMPLATE:GOO_TEMPLATE"
 msgid "[STATE_ADJ:LIQUID:goo]"
-msgstr ""
+msgstr "[STATE_ADJ:LIQUID:슬라임]"
 
 #: material_template_default.txt:1668
 msgctxt "MATERIAL_TEMPLATE:GOO_TEMPLATE"
 msgid "[STATE_NAME:GAS:boiling goo]"
-msgstr ""
+msgstr "[STATE_NAME:GAS:기화된 슬라임]"
 
 #: material_template_default.txt:1669
 msgctxt "MATERIAL_TEMPLATE:GOO_TEMPLATE"
 msgid "[STATE_ADJ:GAS:boiling goo]"
-msgstr ""
+msgstr "[STATE_ADJ:GAS:기화된 슬라임]"
 
 #: material_template_default.txt:1708
 msgctxt "MATERIAL_TEMPLATE:SLIME_TEMPLATE"
@@ -44149,22 +44154,22 @@ msgstr "[STATE_ADJ:GAS:n/a]"
 #: material_template_default.txt:2927
 msgctxt "MATERIAL_TEMPLATE:WAX_TEMPLATE"
 msgid "[STATE_NAME:ALL_SOLID:wax]"
-msgstr ""
+msgstr "[STATE_NAME:ALL_SOLID:밀랍]"
 
 #: material_template_default.txt:2928
 msgctxt "MATERIAL_TEMPLATE:WAX_TEMPLATE"
 msgid "[STATE_ADJ:ALL_SOLID:wax]"
-msgstr ""
+msgstr "[STATE_ADJ:ALL_SOLID:밀랍]"
 
 #: material_template_default.txt:2930
 msgctxt "MATERIAL_TEMPLATE:WAX_TEMPLATE"
 msgid "[STATE_NAME:LIQUID:melted wax]"
-msgstr ""
+msgstr "[STATE_NAME:LIQUID:녹은 밀랍]"
 
 #: material_template_default.txt:2931
 msgctxt "MATERIAL_TEMPLATE:WAX_TEMPLATE"
 msgid "[STATE_ADJ:LIQUID:melted wax]"
-msgstr ""
+msgstr "[STATE_ADJ:LIQUID:녹은 밀랍]"
 
 #: material_template_default.txt:2933
 msgctxt "MATERIAL_TEMPLATE:WAX_TEMPLATE"
@@ -54717,7 +54722,7 @@ msgstr "[NAME:밀랍 공예품 만들기]"
 #: reaction_other.txt:260
 msgctxt "REACTION:MAKE_WAX_CRAFTS"
 msgid "[REAGENT:wax:]"
-msgstr ""
+msgstr "[REAGENT:밀랍:]"
 
 #: reaction_other.txt:262
 msgctxt "REACTION:MAKE_WAX_CRAFTS"
@@ -55368,12 +55373,12 @@ msgstr "[NAME:엘렉트럼 주괴 만들기 (주괴 사용)]"
 #: reaction_smelter.txt:76
 msgctxt "REACTION:BILLON_MAKING"
 msgid "[NAME:make billon bars (use ore)]"
-msgstr ""
+msgstr "[NAME:금동 주괴 만들기 (광석 사용)]"
 
 #: reaction_smelter.txt:85
 msgctxt "REACTION:BILLON_MAKING2"
 msgid "[NAME:make billon bars (use bars)]"
-msgstr ""
+msgstr "[NAME:금동 주괴 만들기 (주괴 사용)]"
 
 #: reaction_smelter.txt:94
 msgctxt "REACTION:PEWTER_FINE_MAKING"
