@@ -11,7 +11,6 @@
 # 주야 이, 2023
 # Lee, 2023
 # Jungheum Cho, 2023
-# Minsb, 2023
 # h-s j, 2023
 # A D, 2023
 # ru Ha, 2023
@@ -20,16 +19,17 @@
 # JW P, 2023
 # km Imma, 2023
 # Mansu Kim, 2023
+# 사람 아님, 2023
 # 롬인디아, 2023
+# Minsb, 2023
 # 류도현, 2023
-# ture sang, 2023
 # youme1cm, 2023
 # 까미야, 2023
-# 사람 아님, 2023
+# ture sang, 2023
 # 
 msgid ""
 msgstr ""
-"Last-Translator: 사람 아님, 2023\n"
+"Last-Translator: ture sang, 2023\n"
 "Language-Team: Korean (https://www.transifex.com/dwarf-fortress-translation/teams/22396/ko/)\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -6643,7 +6643,7 @@ msgstr "[ATTACK_VERB:잡아채다:잡아채다]"
 #: creature_birds.txt:1406
 msgctxt "CREATURE:BIRD_KIWI"
 msgid "[ROOT_AROUND:BY_CATEGORY:BEAK:root around in:roots around in]"
-msgstr ""
+msgstr "[ROOT_AROUND:BY_CATEGORY:BEAK:주변을 헤집는다:주변을 헤집는다]"
 
 #: creature_birds.txt:1409
 msgctxt "CREATURE:BIRD_KIWI"
@@ -12140,7 +12140,7 @@ msgstr "[ATTACK_VERB:깨물음:깨물음]"
 #: creature_domestic.txt:938
 msgctxt "CREATURE:PIG"
 msgid "[ROOT_AROUND:BY_CATEGORY:NOSE:root around in:roots around in]"
-msgstr ""
+msgstr "[ROOT_AROUND:BY_CATEGORY:NOSE:주변을 헤집는다:주변을 헤집는다]"
 
 #: creature_domestic.txt:947
 msgctxt "CREATURE:PIG"
@@ -12533,7 +12533,7 @@ msgstr "[ATTACK_VERB:깨물음:깨물음]"
 #: creature_domestic.txt:1377
 msgctxt "CREATURE:BIRD_DUCK"
 msgid "[ROOT_AROUND:BY_CATEGORY:BEAK:root around in:roots around in]"
-msgstr ""
+msgstr "[ROOT_AROUND:BY_CATEGORY:BEAK:주변을 헤집는다:주변을 헤집는다]"
 
 #: creature_domestic.txt:1380
 msgctxt "CREATURE:BIRD_DUCK"
@@ -12869,7 +12869,7 @@ msgstr "[ATTACK_VERB:깨물음:깨물음]"
 #: creature_domestic.txt:1727
 msgctxt "CREATURE:BIRD_GOOSE"
 msgid "[ROOT_AROUND:BY_CATEGORY:BEAK:root around in:roots around in]"
-msgstr ""
+msgstr "[ROOT_AROUND:BY_CATEGORY:BEAK:주변을 헤집는다:주변을 헤집는다]"
 
 #: creature_domestic.txt:1730
 msgctxt "CREATURE:BIRD_GOOSE"
@@ -13373,7 +13373,7 @@ msgstr "[ATTACK_VERB:잡아채다:잡아채다]"
 #: creature_domestic.txt:2209
 msgctxt "CREATURE:BIRD_GUINEAFOWL"
 msgid "[ROOT_AROUND:BY_CATEGORY:BEAK:root around in:roots around in]"
-msgstr ""
+msgstr "[ROOT_AROUND:BY_CATEGORY:BEAK:주변을 헤집는다:주변을 헤집는다]"
 
 #: creature_domestic.txt:2212
 msgctxt "CREATURE:BIRD_GUINEAFOWL"
@@ -13441,7 +13441,7 @@ msgstr "[ATTACK_VERB:잡아채다:잡아채다]"
 #: creature_domestic.txt:2313
 msgctxt "CREATURE:BIRD_PEAFOWL_BLUE"
 msgid "[ROOT_AROUND:BY_CATEGORY:BEAK:root around in:roots around in]"
-msgstr ""
+msgstr "[ROOT_AROUND:BY_CATEGORY:BEAK:주변을 헤집는다:주변을 헤집는다]"
 
 #: creature_domestic.txt:2316
 msgctxt "CREATURE:BIRD_PEAFOWL_BLUE"
@@ -13513,7 +13513,7 @@ msgstr "[ATTACK_VERB:잡아채다:잡아채다]"
 #: creature_domestic.txt:2424
 msgctxt "CREATURE:BIRD_TURKEY"
 msgid "[ROOT_AROUND:BY_CATEGORY:BEAK:root around in:roots around in]"
-msgstr ""
+msgstr "[ROOT_AROUND:BY_CATEGORY:BEAK:주변을 헤집는다:주변을 헤집는다]"
 
 #: creature_domestic.txt:2427
 msgctxt "CREATURE:BIRD_TURKEY"
@@ -15000,7 +15000,7 @@ msgstr "[CASTE_NAME:거대 바다코끼리:거대 바다코끼리들:거대 바�
 #: creature_large_ocean.txt:116
 msgctxt "CREATURE:GIANT_WALRUS"
 msgid "[GENERAL_CHILD_NAME:giant walrus pup:giant walrus pups]"
-msgstr ""
+msgstr "[GENERAL_CHILD_NAME:새끼 거대 바다코끼리:새끼 거대 바다코끼리들]"
 
 #: creature_large_ocean.txt:117
 msgctxt "CREATURE:GIANT_WALRUS"
@@ -15037,12 +15037,12 @@ msgstr "[CASTE_NAME:바다칠성장어:바다칠성장어들:바다칠성장어]
 #: creature_large_ocean.txt:136
 msgctxt "CREATURE:FISH_LAMPREY_SEA"
 msgid "[GENERAL_CHILD_NAME:larval sea lamprey:larval sea lampreys]"
-msgstr ""
+msgstr "[GENERAL_CHILD_NAME: 바다칠성장어 유생:바다칠성장어 유생들]"
 
 #: creature_large_ocean.txt:151
 msgctxt "CREATURE:FISH_LAMPREY_SEA"
 msgid "[PREFSTRING:suckers]"
-msgstr ""
+msgstr "[PREFSTRING:빨판]"
 
 #: creature_large_ocean.txt:185
 msgctxt "CREATURE:FISH_LAMPREY_SEA"
@@ -15139,7 +15139,7 @@ msgstr "[PREFSTRING:송곳니]"
 #: creature_large_ocean.txt:311
 msgctxt "CREATURE:SHARK_FRILL"
 msgid "[PREFSTRING:frilled gill slits]"
-msgstr ""
+msgstr "[PREFSTRING:주름진 아가미 구멍]"
 
 #: creature_large_ocean.txt:344
 msgctxt "CREATURE:SHARK_FRILL"
@@ -15216,17 +15216,17 @@ msgstr "[DESCRIPTION:해저에 숨을 때 사용하는 식물과 반점으로 �
 #: creature_large_ocean.txt:460
 msgctxt "CREATURE:SHARK_WOBBEGONG_SPOTTED"
 msgid "[NAME:spotted wobbegong:spotted wobbegongs:spotted wobbegong]"
-msgstr ""
+msgstr "[NAME:점박이 워베공:점박이 워베공들:점박이 워베공]"
 
 #: creature_large_ocean.txt:461
 msgctxt "CREATURE:SHARK_WOBBEGONG_SPOTTED"
 msgid "[CASTE_NAME:spotted wobbegong:spotted wobbegongs:spotted wobbegong]"
-msgstr ""
+msgstr "[CASTE_NAME:점박이 워베공:점박이 워베공들:점박이 워베공]"
 
 #: creature_large_ocean.txt:462
 msgctxt "CREATURE:SHARK_WOBBEGONG_SPOTTED"
 msgid "[GENERAL_CHILD_NAME:spotted wobbegong pup:spotted wobbegong pups]"
-msgstr ""
+msgstr "[GENERAL_CHILD_NAME:새끼 점박이 워베공:새끼 점박이 워베공들]"
 
 #: creature_large_ocean.txt:471
 msgctxt "CREATURE:SHARK_WOBBEGONG_SPOTTED"
@@ -15271,7 +15271,7 @@ msgstr "[CASTE_NAME:고래상어:고래상어들:고래상어]"
 #: creature_large_ocean.txt:542
 msgctxt "CREATURE:SHARK_WHALE"
 msgid "[GENERAL_CHILD_NAME:whale shark pup:whale shark pups]"
-msgstr ""
+msgstr "[GENERAL_CHILD_NAME:새끼 고래상어:새끼 고래상어들]"
 
 #: creature_large_ocean.txt:550
 msgctxt "CREATURE:SHARK_WHALE"
@@ -15312,7 +15312,7 @@ msgstr "[CASTE_NAME:돌묵상어:돌묵상어들:돌묵상어]"
 #: creature_large_ocean.txt:612
 msgctxt "CREATURE:SHARK_BASKING"
 msgid "[GENERAL_CHILD_NAME:basking shark pup:basking shark pups]"
-msgstr ""
+msgstr "[GENERAL_CHILD_NAME:새끼 돌묵상어:새끼 돌묵상어들]"
 
 #: creature_large_ocean.txt:620
 msgctxt "CREATURE:SHARK_BASKING"
@@ -15354,12 +15354,12 @@ msgstr "[CASTE_NAME:너스상어:너스상어들:너스상어]"
 #: creature_large_ocean.txt:682
 msgctxt "CREATURE:SHARK_NURSE"
 msgid "[GENERAL_CHILD_NAME:nurse shark pup:nurse shark pups]"
-msgstr ""
+msgstr "[GENERAL_CHILD_NAME:새끼 너스상어:새끼 너스상어들]"
 
 #: creature_large_ocean.txt:690
 msgctxt "CREATURE:SHARK_NURSE"
 msgid "[PREFSTRING:tenacity]"
-msgstr ""
+msgstr "[PREFSTRING:끈기]"
 
 #: creature_large_ocean.txt:723
 msgctxt "CREATURE:SHARK_NURSE"
@@ -15402,7 +15402,7 @@ msgstr "[CASTE_NAME:청상아리:청상아리들:청상아리]"
 #: creature_large_ocean.txt:761
 msgctxt "CREATURE:SHARK_MAKO_SHORTFIN"
 msgid "[GENERAL_CHILD_NAME:shortfin mako shark pup:shortfin mako shark pup]"
-msgstr ""
+msgstr "[GENERAL_CHILD_NAME:새끼 청상아리:새끼 청상아리들]"
 
 #: creature_large_ocean.txt:770
 msgctxt "CREATURE:SHARK_MAKO_SHORTFIN"
@@ -15449,7 +15449,7 @@ msgstr "[CASTE_NAME:단순청상아리:단순청상아리들:단순청상아리]
 #: creature_large_ocean.txt:841
 msgctxt "CREATURE:SHARK_MAKO_LONGFIN"
 msgid "[GENERAL_CHILD_NAME:longfin mako shark pup:longfin mako shark pup]"
-msgstr ""
+msgstr "[GENERAL_CHILD_NAME:새끼 단순청상아리:새끼 단순청상아리들]"
 
 #: creature_large_ocean.txt:850
 msgctxt "CREATURE:SHARK_MAKO_LONGFIN"
@@ -15496,12 +15496,12 @@ msgstr "[CASTE_NAME:뱀상어:뱀상어들:뱀상어]"
 #: creature_large_ocean.txt:921
 msgctxt "CREATURE:SHARK_TIGER"
 msgid "[GENERAL_CHILD_NAME:tiger shark pup:tiger shark pups]"
-msgstr ""
+msgstr "[GENERAL_CHILD_NAME:새끼 뱀상어:새끼 뱀상어들]"
 
 #: creature_large_ocean.txt:929
 msgctxt "CREATURE:SHARK_TIGER"
 msgid "[PREFSTRING:stripes]"
-msgstr ""
+msgstr "[PREFSTRING:줄무늬]"
 
 #: creature_large_ocean.txt:962
 msgctxt "CREATURE:SHARK_TIGER"
@@ -15546,7 +15546,7 @@ msgstr "[CASTE_NAME:황소상어:황소상어들:황소상어]"
 #: creature_large_ocean.txt:1000
 msgctxt "CREATURE:SHARK_BULL"
 msgid "[GENERAL_CHILD_NAME:bull shark pup:bull shark pups]"
-msgstr ""
+msgstr "[GENERAL_CHILD_NAME:새끼 황소상어:새끼 황소상어들]"
 
 #: creature_large_ocean.txt:1008
 msgctxt "CREATURE:SHARK_BULL"
@@ -15576,7 +15576,7 @@ msgstr "[TLCM_NOUN:눈들:PLURAL]"
 #: creature_large_ocean.txt:1076
 msgctxt "CREATURE:SHARK_REEF_BLACKTIP"
 msgid "[DESCRIPTION:A medium-sized fish found in shallow oceanic waters.]"
-msgstr ""
+msgstr "[DESCRIPTION:얕은 바다에서 발견되는 중간 크기의 물고기입니다.]"
 
 #: creature_large_ocean.txt:1077
 msgctxt "CREATURE:SHARK_REEF_BLACKTIP"
@@ -15592,7 +15592,7 @@ msgstr "[CASTE_NAME:흑기흉상어:흑기흉상어들:흑기흉상어]"
 #: creature_large_ocean.txt:1079
 msgctxt "CREATURE:SHARK_REEF_BLACKTIP"
 msgid "[GENERAL_CHILD_NAME:blacktip reef shark pup:blacktip reef shark pups]"
-msgstr ""
+msgstr "[GENERAL_CHILD_NAME:새끼 흑기흉상어:새끼 흑기흉상어들]"
 
 #: creature_large_ocean.txt:1087
 msgctxt "CREATURE:SHARK_REEF_BLACKTIP"
@@ -15602,7 +15602,7 @@ msgstr "[PREFSTRING:호기심]"
 #: creature_large_ocean.txt:1088
 msgctxt "CREATURE:SHARK_REEF_BLACKTIP"
 msgid "[PREFSTRING:distinctive dorsal fin]"
-msgstr ""
+msgstr "[PREFSTRING:독특한 등지느러미]"
 
 #: creature_large_ocean.txt:1121
 msgctxt "CREATURE:SHARK_REEF_BLACKTIP"
@@ -15646,12 +15646,12 @@ msgstr "[CASTE_NAME:백기흉상어:백기흉상어들:백기흉상어]"
 #: creature_large_ocean.txt:1159
 msgctxt "CREATURE:SHARK_REEF_WHITETIP"
 msgid "[GENERAL_CHILD_NAME:whitetip reef shark pup:whitetip reef shark pups]"
-msgstr ""
+msgstr "[GENERAL_CHILD_NAME:새끼 백기흉상어:새끼 백기흉상어들]"
 
 #: creature_large_ocean.txt:1167
 msgctxt "CREATURE:SHARK_REEF_WHITETIP"
 msgid "[PREFSTRING:distinctive dorsal fin]"
-msgstr ""
+msgstr "[PREFSTRING:독특한 등지느러미]"
 
 #: creature_large_ocean.txt:1200
 msgctxt "CREATURE:SHARK_REEF_WHITETIP"
@@ -15734,17 +15734,17 @@ msgstr "[NAME:귀상어:귀상어들:귀상어]"
 #: creature_large_ocean.txt:1316
 msgctxt "CREATURE:SHARK_HAMMERHEAD"
 msgid "[CASTE_NAME:hammerhead shark:hammerhead sharks:hammerhead shark]"
-msgstr ""
+msgstr "[CASTE_NAME:귀상어:귀상어들:귀상어]"
 
 #: creature_large_ocean.txt:1317
 msgctxt "CREATURE:SHARK_HAMMERHEAD"
 msgid "[GENERAL_CHILD_NAME:hammerhead shark pup:hammerhead shark pups]"
-msgstr ""
+msgstr "[GENERAL_CHILD_NAME:새끼 귀상어:새끼 귀상어들]"
 
 #: creature_large_ocean.txt:1326
 msgctxt "CREATURE:SHARK_HAMMERHEAD"
 msgid "[PREFSTRING:oddly-shaped heads]"
-msgstr ""
+msgstr "[PREFSTRING:이상한 모양의 머리]"
 
 #: creature_large_ocean.txt:1359
 msgctxt "CREATURE:SHARK_HAMMERHEAD"
@@ -15791,7 +15791,7 @@ msgstr "[GENERAL_CHILD_NAME:새끼 엔젤샤크:새끼엔젤샤크들]"
 #: creature_large_ocean.txt:1406
 msgctxt "CREATURE:SHARK_ANGEL"
 msgid "[PREFSTRING:ability to conceal themselves]"
-msgstr ""
+msgstr "[PREFSTRING:자신을 숨기는 능력]"
 
 #: creature_large_ocean.txt:1439
 msgctxt "CREATURE:SHARK_ANGEL"
@@ -15831,7 +15831,7 @@ msgstr "[CASTE_NAME:청홍어:청홍어들:청홍어]"
 #: creature_large_ocean.txt:1477
 msgctxt "CREATURE:FISH_SKATE_COMMON"
 msgid "[GENERAL_CHILD_NAME:common skate pup:common skate pups]"
-msgstr ""
+msgstr "[GENERAL_CHILD_NAME:새끼 청홍어:새끼 청홍어들]"
 
 #: creature_large_ocean.txt:1486
 msgctxt "CREATURE:FISH_SKATE_COMMON"
@@ -15873,12 +15873,12 @@ msgstr "[CASTE_NAME:만타가오리:만타가오리들:만타가오리]"
 #: creature_large_ocean.txt:1549
 msgctxt "CREATURE:FISH_RAY_MANTA"
 msgid "[GENERAL_CHILD_NAME:manta ray pup:manta ray pups]"
-msgstr ""
+msgstr "[GENERAL_CHILD_NAME:새끼 만타가오리:새끼 만타가오리들]"
 
 #: creature_large_ocean.txt:1557
 msgctxt "CREATURE:FISH_RAY_MANTA"
 msgid "[PREFSTRING:majesty]"
-msgstr ""
+msgstr "[PREFSTRING:패왕색]"
 
 #: creature_large_ocean.txt:1602
 msgctxt "CREATURE:FISH_RAY_MANTA"
@@ -15910,7 +15910,7 @@ msgstr "[CASTE_NAME:가오리:가오리들:가오리]"
 #: creature_large_ocean.txt:1611
 msgctxt "CREATURE:FISH_STINGRAY"
 msgid "[GENERAL_CHILD_NAME:stingray pup:stingray pups]"
-msgstr ""
+msgstr "[GENERAL_CHILD_NAME:새끼 가오리:새끼 가오리들]"
 
 #: creature_large_ocean.txt:1625
 msgctxt "CREATURE:FISH_STINGRAY"
@@ -15935,7 +15935,7 @@ msgstr "[TLCM_NOUN:눈들:PLURAL]"
 #: creature_large_ocean.txt:1686
 msgctxt "CREATURE:FISH_COELACANTH"
 msgid "[DESCRIPTION:An elusive medium-sized fish found in coastal waters.]"
-msgstr ""
+msgstr "[DESCRIPTION:연안 해역에서 발견된 찾기 힘든 중형 물고기.]"
 
 #: creature_large_ocean.txt:1687
 msgctxt "CREATURE:FISH_COELACANTH"
@@ -16000,7 +16000,7 @@ msgstr "[GENERAL_CHILD_NAME:철갑상어 튀김:철갑상어 튀김들]"
 #: creature_large_ocean.txt:1783
 msgctxt "CREATURE:FISH_STURGEON"
 msgid "[PREFSTRING:bony scutes]"
-msgstr ""
+msgstr "[PREFSTRING:뼈가 앙상한 사람들]"
 
 #: creature_large_ocean.txt:1821
 msgctxt "CREATURE:FISH_STURGEON"
@@ -16369,7 +16369,7 @@ msgstr "[GENERAL_CHILD_NAME:황새치 튀김:황새치 튀김들]"
 #: creature_large_ocean.txt:2441
 msgctxt "CREATURE:FISH_SWORDFISH"
 msgid "[PREFSTRING:sharp snout]"
-msgstr ""
+msgstr "[PREFSTRING:날카로운 코]"
 
 #: creature_large_ocean.txt:2479
 msgctxt "CREATURE:FISH_SWORDFISH"
@@ -16511,7 +16511,7 @@ msgstr "[GENERAL_CHILD_NAME:큰꼬치고기 튀김:큰꼬치고기 튀김들]"
 #: creature_large_ocean.txt:2692
 msgctxt "CREATURE:FISH_BARRACUDA_GREAT"
 msgid "[PREFSTRING:predatory nature]"
-msgstr ""
+msgstr "[PREFSTRING:약탈 본성]"
 
 #: creature_large_ocean.txt:2730
 msgctxt "CREATURE:FISH_BARRACUDA_GREAT"
@@ -16556,7 +16556,7 @@ msgstr "[GENERAL_CHILD_NAME:참다랑어 튀김:참다랑어 튀김들]"
 #: creature_large_ocean.txt:2779
 msgctxt "CREATURE:FISH_TUNA_BLUEFIN"
 msgid "[PREFSTRING:finlets]"
-msgstr ""
+msgstr "[PREFSTRING:지느러미]"
 
 #: creature_large_ocean.txt:2817
 msgctxt "CREATURE:FISH_TUNA_BLUEFIN"
@@ -16594,12 +16594,12 @@ msgstr "[NAME:일각고래:일각고래들:일각고래]"
 #: creature_large_ocean.txt:2860
 msgctxt "CREATURE:NARWHAL"
 msgid "[CASTE_NAME:narwhal:narwhals:narwhal]"
-msgstr ""
+msgstr "[CASTE_NAME:일각고래:일각고래들:일각고래]"
 
 #: creature_large_ocean.txt:2861
 msgctxt "CREATURE:NARWHAL"
 msgid "[GENERAL_CHILD_NAME:narwhal calf:narwhal calves]"
-msgstr ""
+msgstr "[GENERAL_CHILD_NAME:새끼 일각고래:새끼 일각고래떼]"
 
 #: creature_large_ocean.txt:2871
 msgctxt "CREATURE:NARWHAL"
@@ -16634,7 +16634,7 @@ msgstr "[ATTACK_VERB:철썩 때림:철썩 때림]"
 #: creature_large_ocean.txt:2926
 msgctxt "CREATURE:NARWHAL"
 msgid "[CDI:VERB:tusk:tusks:are tusking]"
-msgstr ""
+msgstr "[CDI:VERB:뿔로 찌르다:뿔로 찌르다:뿔로 찌르다]"
 
 #: creature_large_ocean.txt:2945
 msgctxt "CREATURE:NARWHAL"
@@ -16681,7 +16681,7 @@ msgstr "[CASTE_NAME:거대 일각고래:거대 일각고래들:거대 일각고�
 #: creature_large_ocean.txt:2985
 msgctxt "CREATURE:NARWHAL, GIANT"
 msgid "[GENERAL_CHILD_NAME:giant narwhal calf:giant narwhal calves]"
-msgstr ""
+msgstr "[GENERAL_CHILD_NAME:새끼 거대 일각고래:새끼 거대 일각고래떼]"
 
 #: creature_large_ocean.txt:2986
 msgctxt "CREATURE:NARWHAL, GIANT"
@@ -16710,12 +16710,12 @@ msgstr "[NAME:하마:하마들:하마]"
 #: creature_large_riverlake.txt:8
 msgctxt "CREATURE:HIPPO"
 msgid "[CASTE_NAME:hippo:hippos:hippo]"
-msgstr ""
+msgstr "[CASTE_NAME:하마:하마들:하마]"
 
 #: creature_large_riverlake.txt:9
 msgctxt "CREATURE:HIPPO"
 msgid "[GENERAL_CHILD_NAME:hippo calf:hippo calves]"
-msgstr ""
+msgstr "[GENERAL_CHILD_NAME:새끼 하마:새끼 하마들]"
 
 #: creature_large_riverlake.txt:25
 msgctxt "CREATURE:HIPPO"
@@ -16875,7 +16875,7 @@ msgstr "[GENERAL_CHILD_NAME:잉어 튀김:잉어 튀김들]"
 #: creature_large_riverlake.txt:252
 msgctxt "CREATURE:FISH_CARP"
 msgid "[PREFSTRING:protruding mouths]"
-msgstr ""
+msgstr "[PREFSTRING:돌출된 입]"
 
 #: creature_large_riverlake.txt:290
 msgctxt "CREATURE:FISH_CARP"
@@ -16968,7 +16968,7 @@ msgstr "[GENERAL_CHILD_NAME:민물꼬치고기 튀김:민물꼬치고기 튀김�
 #: creature_large_riverlake.txt:423
 msgctxt "CREATURE:FISH_PIKE"
 msgid "[PREFSTRING:distinct markings]"
-msgstr ""
+msgstr "[PREFSTRING:뚜렷한 표시]"
 
 #: creature_large_riverlake.txt:461
 msgctxt "CREATURE:FISH_PIKE"
@@ -17015,22 +17015,22 @@ msgstr "[GENERAL_CHILD_NAME:새끼 오리너구리:새끼 오리너구리들]"
 #: creature_large_riverlake.txt:522
 msgctxt "CREATURE:PLATYPUS"
 msgid "[PREFSTRING:bizarre appearance]"
-msgstr ""
+msgstr "[PREFSTRING:기괴한 외모]"
 
 #: creature_large_riverlake.txt:523
 msgctxt "CREATURE:PLATYPUS"
 msgid "[PREFSTRING:venomous spurs]"
-msgstr ""
+msgstr "[PREFSTRING:독 자극]"
 
 #: creature_large_riverlake.txt:524
 msgctxt "CREATURE:PLATYPUS"
 msgid "[PREFSTRING:flat tails]"
-msgstr ""
+msgstr "[PREFSTRING:납작한 꼬리]"
 
 #: creature_large_riverlake.txt:525
 msgctxt "CREATURE:PLATYPUS"
 msgid "[PREFSTRING:large bills]"
-msgstr ""
+msgstr "[PREFSTRING:커다란 지폐]"
 
 #: creature_large_riverlake.txt:551
 msgctxt "CREATURE:PLATYPUS"
@@ -17065,7 +17065,7 @@ msgstr "[STATE_ADJ:GAS:기화된 오리너구리 독]"
 #: creature_large_riverlake.txt:560
 msgctxt "CREATURE:PLATYPUS"
 msgid "[SYN_NAME:platypus sting]"
-msgstr ""
+msgstr "[SYN_NAME:오리너구리 침]"
 
 #: creature_large_riverlake.txt:590
 msgctxt "CREATURE:PLATYPUS"
@@ -17156,7 +17156,7 @@ msgstr "[GENERAL_CHILD_NAME:새끼 거대 오리 너구리:새끼 거대 오리�
 #: creature_large_riverlake.txt:714
 msgctxt "CREATURE:PLATYPUS, GIANT"
 msgid "[DESCRIPTION:A huge monster, the shape of a platypus.]"
-msgstr ""
+msgstr "[DESCRIPTION:오리너구리의 모습을 한 거대한 괴수.]"
 
 #: creature_large_riverlake.txt:722
 msgctxt "CREATURE:PLATYPUS, GIANT"
@@ -17171,17 +17171,17 @@ msgstr "[PREFSTRING:기괴한 외모]"
 #: creature_large_riverlake.txt:724
 msgctxt "CREATURE:PLATYPUS, GIANT"
 msgid "[PREFSTRING:venomous spurs]"
-msgstr ""
+msgstr "[PREFSTRING:독 자극]"
 
 #: creature_large_riverlake.txt:725
 msgctxt "CREATURE:PLATYPUS, GIANT"
 msgid "[PREFSTRING:flat tails]"
-msgstr ""
+msgstr "[PREFSTRING:납작한 꼬리]"
 
 #: creature_large_riverlake.txt:726
 msgctxt "CREATURE:PLATYPUS, GIANT"
 msgid "[PREFSTRING:large bills]"
-msgstr ""
+msgstr "[PREFSTRING:커다란 지폐]"
 
 #: creature_large_temperate.txt:6
 msgctxt "CREATURE:BEAR_GRIZZLY"
@@ -17397,12 +17397,12 @@ msgstr "[NAME:사슴:사슴들:사슴]"
 #: creature_large_temperate.txt:318
 msgctxt "CREATURE:DEER"
 msgid "[CASTE_NAME:deer:deer:deer]"
-msgstr ""
+msgstr "[CASTE_NAME:사슴:사슴들:사슴]"
 
 #: creature_large_temperate.txt:319
 msgctxt "CREATURE:DEER"
 msgid "[GENERAL_CHILD_NAME:deer fawn:deer fawns]"
-msgstr ""
+msgstr "[GENERAL_CHILD_NAME:새끼 사슴:새끼 사슴들]"
 
 #: creature_large_temperate.txt:324
 msgctxt "CREATURE:DEER"
@@ -17472,7 +17472,7 @@ msgstr "[NAME:남성 사슴인간:남성 사슴인간들:남성 사슴인간]"
 #: creature_large_temperate.txt:444
 msgctxt "CREATURE:DEER_MAN"
 msgid "[DESCRIPTION:A person with the head of a deer.]"
-msgstr ""
+msgstr "[DESCRIPTION:사슴의 머리를 가진 인간.]"
 
 #: creature_large_temperate.txt:460
 msgctxt "CREATURE:GIANT_DEER"
@@ -17482,17 +17482,17 @@ msgstr "[NAME:거대 사슴:거대 사슴들:거대 사슴]"
 #: creature_large_temperate.txt:461
 msgctxt "CREATURE:GIANT_DEER"
 msgid "[CASTE_NAME:giant deer:giant deer:giant deer]"
-msgstr ""
+msgstr "[CASTE_NAME:거대 사슴:거대 사슴들:거대 사슴]"
 
 #: creature_large_temperate.txt:462
 msgctxt "CREATURE:GIANT_DEER"
 msgid "[GENERAL_CHILD_NAME:giant deer fawn:giant deer fawns]"
-msgstr ""
+msgstr "[GENERAL_CHILD_NAME:새끼 거대 사슴:새끼 거대 사슴들]"
 
 #: creature_large_temperate.txt:463
 msgctxt "CREATURE:GIANT_DEER"
 msgid "[DESCRIPTION:A huge monster in the form of a deer.]"
-msgstr ""
+msgstr "[DESCRIPTION:사슴의 모습을 한 거대한 괴수.]"
 
 #: creature_large_temperate.txt:472
 msgctxt "CREATURE:GIANT_DEER"
@@ -17554,7 +17554,7 @@ msgstr "[TLCM_NOUN:눈들:PLURAL]"
 #: creature_large_temperate.txt:575
 msgctxt "CREATURE:FOX_MAN"
 msgid "[CASTE_NAME:fox man:fox men:fox man]"
-msgstr ""
+msgstr "[CASTE_NAME:남성 여우인간:남성 여우인간들:남성 여우인간]"
 
 #: creature_large_temperate.txt:577
 msgctxt "CREATURE:FOX_MAN"
@@ -17569,7 +17569,7 @@ msgstr "[NAME:여우인간:여우인간들:여우인간]"
 #: creature_large_temperate.txt:589
 msgctxt "CREATURE:FOX_MAN"
 msgid "[DESCRIPTION:A person with the head and tail of a fox.]"
-msgstr ""
+msgstr "[DESCRIPTION:여우의 머리와 꼬리를 가진 인간.]"
 
 #: creature_large_temperate.txt:607
 msgctxt "CREATURE:GIANT_FOX"
@@ -17579,12 +17579,12 @@ msgstr "[NAME:거대 여우:거대 여우들:거대 여우]"
 #: creature_large_temperate.txt:608
 msgctxt "CREATURE:GIANT_FOX"
 msgid "[CASTE_NAME:giant fox:giant foxes:giant fox]"
-msgstr ""
+msgstr "[CASTE_NAME:거대 여우:거대 여우들:거대 여우]"
 
 #: creature_large_temperate.txt:609
 msgctxt "CREATURE:GIANT_FOX"
 msgid "[GENERAL_CHILD_NAME:giant fox pup:giant fox pups]"
-msgstr ""
+msgstr "[GENERAL_CHILD_NAME:새끼 거대여우:새끼 거대여우들]"
 
 #: creature_large_temperate.txt:610
 msgctxt "CREATURE:GIANT_FOX"
@@ -17624,7 +17624,7 @@ msgstr "[GENERAL_CHILD_NAME:새끼 너구리:새끼 너구리들]"
 #: creature_large_temperate.txt:642
 msgctxt "CREATURE:RACCOON"
 msgid "[PREFSTRING:mischief]"
-msgstr ""
+msgstr "[PREFSTRING:나쁜짓]"
 
 #: creature_large_temperate.txt:679
 msgctxt "CREATURE:RACCOON"
@@ -17709,17 +17709,17 @@ msgstr ""
 #: creature_large_temperate.txt:776
 msgctxt "CREATURE:MACAQUE_RHESUS"
 msgid "[NAME:rhesus macaque:rhesus macaques:rhesus macaque]"
-msgstr ""
+msgstr "[NAME:붉은털원숭이:붉은털원숭이들:붉은털원숭이]"
 
 #: creature_large_temperate.txt:777
 msgctxt "CREATURE:MACAQUE_RHESUS"
 msgid "[CASTE_NAME:rhesus macaque:rhesus macaques:rhesus macaque]"
-msgstr ""
+msgstr "[CASTE_NAME:붉은털원숭이:붉은털원숭이들:붉은털원숭이]"
 
 #: creature_large_temperate.txt:792
 msgctxt "CREATURE:MACAQUE_RHESUS"
 msgid "[PREFSTRING:mischief]"
-msgstr ""
+msgstr "[PREFSTRING:나쁜짓]"
 
 #: creature_large_temperate.txt:827
 msgctxt "CREATURE:MACAQUE_RHESUS"
@@ -17749,44 +17749,44 @@ msgstr "[TLCM_NOUN:눈들:PLURAL]"
 #: creature_large_temperate.txt:873
 msgctxt "CREATURE:MACAQUE_RHESUS_MAN"
 msgid "[CASTE_NAME:rhesus macaque man:rhesus macaque men:rhesus macaque man]"
-msgstr ""
+msgstr "[CASTE_NAME:남성 붉은털원숭이인간:남성 붉은털원숭이인간들:남성 붉은털원숭이인간]"
 
 #: creature_large_temperate.txt:875
 msgctxt "CREATURE:MACAQUE_RHESUS_MAN"
 msgid ""
 "[CASTE_NAME:rhesus macaque woman:rhesus macaque women:rhesus macaque woman]"
-msgstr ""
+msgstr "[CASTE_NAME:여성 붉은털원숭이인간:여성 붉은털원숭이인간들:여성 붉은털원숭이인간]"
 
 #: creature_large_temperate.txt:886
 msgctxt "CREATURE:MACAQUE_RHESUS_MAN"
 msgid "[NAME:rhesus macaque man:rhesus macaque men:rhesus macaque man]"
-msgstr ""
+msgstr "[NAME:붉은털원숭이인간:붉은털원숭이인간들:붉은털원숭이인간]"
 
 #: creature_large_temperate.txt:887
 msgctxt "CREATURE:MACAQUE_RHESUS_MAN"
 msgid "[DESCRIPTION:A person with the head and tail of a rhesus macaque.]"
-msgstr ""
+msgstr "[DESCRIPTION:붉은털원숭이의 머리와 꼬리를 가진 인간.]"
 
 #: creature_large_temperate.txt:905
 msgctxt "CREATURE:GIANT_MACAQUE_RHESUS"
 msgid "[NAME:giant rhesus macaque:giant rhesus macaques:giant rhesus macaque]"
-msgstr ""
+msgstr "[NAME:거대 붉은털원숭이:거대 붉은털원숭이들:거대 붉은털원숭이]"
 
 #: creature_large_temperate.txt:906
 msgctxt "CREATURE:GIANT_MACAQUE_RHESUS"
 msgid ""
 "[CASTE_NAME:giant rhesus macaque:giant rhesus macaques:giant rhesus macaque]"
-msgstr ""
+msgstr "[CASTE_NAME:거대 붉은털원숭이:거대 붉은털원숭이들:거대 붉은털원숭이]"
 
 #: creature_large_temperate.txt:907
 msgctxt "CREATURE:GIANT_MACAQUE_RHESUS"
 msgid "[DESCRIPTION:A large monster in the form of a rhesus macaque.]"
-msgstr ""
+msgstr "[DESCRIPTION:붉은털원숭이의 모습을 한 거대한 괴수.]"
 
 #: creature_large_temperate.txt:916
 msgctxt "CREATURE:GIANT_MACAQUE_RHESUS"
 msgid "[PREFSTRING:mischief]"
-msgstr ""
+msgstr "[PREFSTRING:장난질]"
 
 #: creature_large_temperate.txt:923
 msgctxt "CREATURE:COUGAR"
@@ -17803,12 +17803,12 @@ msgstr "[NAME:퓨마:퓨마들:퓨마]"
 #: creature_large_temperate.txt:925
 msgctxt "CREATURE:COUGAR"
 msgid "[CASTE_NAME:cougar:cougars:cougar]"
-msgstr ""
+msgstr "[CASTE_NAME:퓨마:퓨마들:퓨마]"
 
 #: creature_large_temperate.txt:926
 msgctxt "CREATURE:COUGAR"
 msgid "[GENERAL_CHILD_NAME:cougar cub:cougar cubs]"
-msgstr ""
+msgstr "[GENERAL_CHILD_NAME:새끼 퓨마:새끼 퓨마들]"
 
 #: creature_large_temperate.txt:941
 msgctxt "CREATURE:COUGAR"
@@ -17843,12 +17843,12 @@ msgstr "[TLCM_NOUN:눈들:PLURAL]"
 #: creature_large_temperate.txt:1023
 msgctxt "CREATURE:COUGAR_MAN"
 msgid "[CASTE_NAME:cougar man:cougar men:cougar man]"
-msgstr ""
+msgstr "[CASTE_NAME:남성 퓨마인간:남성 퓨마인간들:남성 퓨마인간]"
 
 #: creature_large_temperate.txt:1025
 msgctxt "CREATURE:COUGAR_MAN"
 msgid "[CASTE_NAME:cougar woman:cougar women:cougar woman]"
-msgstr ""
+msgstr "[CASTE_NAME:여성 퓨마인간:여성 퓨마인간들:여성 퓨마인간]"
 
 #: creature_large_temperate.txt:1036
 msgctxt "CREATURE:COUGAR_MAN"
@@ -17858,7 +17858,7 @@ msgstr "[NAME:퓨마인간:퓨마인간들:퓨마인간]"
 #: creature_large_temperate.txt:1037
 msgctxt "CREATURE:COUGAR_MAN"
 msgid "[DESCRIPTION:A person with the head and tail of a cougar.]"
-msgstr ""
+msgstr "[DESCRIPTION:퓨마의 머리와 꼬리를 가진 인간.]"
 
 #: creature_large_temperate.txt:1055
 msgctxt "CREATURE:GIANT_COUGAR"
@@ -17868,17 +17868,17 @@ msgstr "[NAME:거대 퓨마:거대 퓨마들:거대 퓨마]"
 #: creature_large_temperate.txt:1056
 msgctxt "CREATURE:GIANT_COUGAR"
 msgid "[CASTE_NAME:giant cougar:giant cougars:giant cougar]"
-msgstr ""
+msgstr "[CASTE_NAME:거대 퓨마:거대 퓨마들:거대 퓨마]"
 
 #: creature_large_temperate.txt:1057
 msgctxt "CREATURE:GIANT_COUGAR"
 msgid "[GENERAL_CHILD_NAME:giant cougar cub:giant cougar cubs]"
-msgstr ""
+msgstr "[GENERAL_CHILD_NAME:새끼 거대 퓨마:새끼 거대 퓨마들]"
 
 #: creature_large_temperate.txt:1058
 msgctxt "CREATURE:GIANT_COUGAR"
 msgid "[DESCRIPTION:A huge monster in the form of a cougar.]"
-msgstr ""
+msgstr "[DESCRIPTION:퓨마의 모습을 한 거대한 괴수.]"
 
 #: creature_large_temperate.txt:1067
 msgctxt "CREATURE:GIANT_COUGAR"
@@ -17992,22 +17992,22 @@ msgstr "[DESCRIPTION:크고 둥근 저지대 설치류. 땅속 굴에 살며, �
 #: creature_large_temperate.txt:1225
 msgctxt "CREATURE:GROUNDHOG"
 msgid "[NAME:groundhog:groundhogs:groundhog]"
-msgstr ""
+msgstr "[NAME:마멋:마멋들:마멋]"
 
 #: creature_large_temperate.txt:1226
 msgctxt "CREATURE:GROUNDHOG"
 msgid "[CASTE_NAME:groundhog:groundhogs:groundhog]"
-msgstr ""
+msgstr "[CASTE_NAME:마멋:마멋들:마멋]"
 
 #: creature_large_temperate.txt:1227
 msgctxt "CREATURE:GROUNDHOG"
 msgid "[GENERAL_CHILD_NAME:groundhog pup:groundhog pups]"
-msgstr ""
+msgstr "[GENERAL_CHILD_NAME:새끼 마멋:새끼 마멋들:새끼 마멋]"
 
 #: creature_large_temperate.txt:1242
 msgctxt "CREATURE:GROUNDHOG"
 msgid "[PREFSTRING:ability to burrow]"
-msgstr ""
+msgstr "[PREFSTRING:땅을 파는 능력]"
 
 #: creature_large_temperate.txt:1280
 msgctxt "CREATURE:GROUNDHOG"
@@ -18037,47 +18037,47 @@ msgstr "[TLCM_NOUN:눈들:PLURAL]"
 #: creature_large_temperate.txt:1324
 msgctxt "CREATURE:GROUNDHOG_MAN"
 msgid "[CASTE_NAME:groundhog man:groundhog men:groundhog man]"
-msgstr ""
+msgstr "[CASTE_NAME:남성 마멋인간:남성 마멋인간들:남성 마멋인간]"
 
 #: creature_large_temperate.txt:1326
 msgctxt "CREATURE:GROUNDHOG_MAN"
 msgid "[CASTE_NAME:groundhog woman:groundhog women:groundhog woman]"
-msgstr ""
+msgstr "[CASTE_NAME:여성 마멋인간:여성 마멋인간들:여성 마멋인간]"
 
 #: creature_large_temperate.txt:1337
 msgctxt "CREATURE:GROUNDHOG_MAN"
 msgid "[NAME:groundhog man:groundhog men:groundhog man]"
-msgstr ""
+msgstr "[NAME:마멋인간:마멋인간들:마멋인간]"
 
 #: creature_large_temperate.txt:1338
 msgctxt "CREATURE:GROUNDHOG_MAN"
 msgid "[DESCRIPTION:A person with the head and fur of a groundhog.]"
-msgstr ""
+msgstr "[DESCRIPTION:마멋의 머리와 털을 가진 인간.]"
 
 #: creature_large_temperate.txt:1356
 msgctxt "CREATURE:GIANT_GROUNDHOG"
 msgid "[NAME:giant groundhog:giant groundhogs:giant groundhog]"
-msgstr ""
+msgstr "[NAME:거대 마멋:거대 마멋들:거대 마멋]"
 
 #: creature_large_temperate.txt:1357
 msgctxt "CREATURE:GIANT_GROUNDHOG"
 msgid "[CASTE_NAME:giant groundhog:giant groundhogs:giant groundhog]"
-msgstr ""
+msgstr "[CASTE_NAME:거대 마멋:거대 마멋들:거대 마멋]"
 
 #: creature_large_temperate.txt:1358
 msgctxt "CREATURE:GIANT_GROUNDHOG"
 msgid "[GENERAL_CHILD_NAME:giant groundhog pup:giant groundhog pups]"
-msgstr ""
+msgstr "[GENERAL_CHILD_NAME:새끼 거대마멋:새끼 거대마멋들:새끼 거대마멋]"
 
 #: creature_large_temperate.txt:1359
 msgctxt "CREATURE:GIANT_GROUNDHOG"
 msgid "[DESCRIPTION:A large creature the shape of a groundhog.]"
-msgstr ""
+msgstr "[DESCRIPTION:마멋의 모습을 한 거대한 생물.]"
 
 #: creature_large_temperate.txt:1368
 msgctxt "CREATURE:GIANT_GROUNDHOG"
 msgid "[PREFSTRING:ability to burrow]"
-msgstr ""
+msgstr "[PREFSTRING:땅을 파는 능력]"
 
 #: creature_large_temperate.txt:1374
 msgctxt "CREATURE:ALLIGATOR"
@@ -18182,17 +18182,17 @@ msgstr "[NAME:말똥가리:말똥가리떼:말똥가리]"
 #: creature_large_temperate.txt:1534
 msgctxt "CREATURE:BIRD_BUZZARD"
 msgid "[CASTE_NAME:buzzard:buzzards:buzzard]"
-msgstr ""
+msgstr "[CASTE_NAME:말똥가리:말똥가리떼:말똥가리]"
 
 #: creature_large_temperate.txt:1535
 msgctxt "CREATURE:BIRD_BUZZARD"
 msgid "[GENERAL_CHILD_NAME:buzzard hatchling:buzzard hatchlings]"
-msgstr ""
+msgstr "[GENERAL_CHILD_NAME:새끼 말똥가리:새끼 말동가리떼]"
 
 #: creature_large_temperate.txt:1561
 msgctxt "CREATURE:BIRD_BUZZARD"
 msgid "[PREFSTRING:striking red face]"
-msgstr ""
+msgstr "[PREFSTRING:눈에띄는 홍조]"
 
 #: creature_large_temperate.txt:1599
 msgctxt "CREATURE:BIRD_BUZZARD"
@@ -18222,47 +18222,47 @@ msgstr "[TLCM_NOUN:눈들:PLURAL]"
 #: creature_large_temperate.txt:1642
 msgctxt "CREATURE:BUZZARD_MAN"
 msgid "[CASTE_NAME:buzzard man:buzzard men:buzzard man]"
-msgstr ""
+msgstr "[CASTE_NAME:남성 말똥가리인간:남성 말똥가리인간들:남성 말똥가리인간]"
 
 #: creature_large_temperate.txt:1644
 msgctxt "CREATURE:BUZZARD_MAN"
 msgid "[CASTE_NAME:buzzard woman:buzzard women:buzzard woman]"
-msgstr ""
+msgstr "[CASTE_NAME:여성 말똥가리인간:여성 말똥가리인간들:여성 말똥가리인간]"
 
 #: creature_large_temperate.txt:1656
 msgctxt "CREATURE:BUZZARD_MAN"
 msgid "[NAME:buzzard man:buzzard men:buzzard man]"
-msgstr ""
+msgstr "[NAME:말똥가리인간:말똥가리인간들:말똥가리인간]"
 
 #: creature_large_temperate.txt:1657
 msgctxt "CREATURE:BUZZARD_MAN"
 msgid "[DESCRIPTION:A person with the head and wings of a buzzard.]"
-msgstr ""
+msgstr "[DESCRIPTION:말똥가리의 머리와 날개를 가진 인간.]"
 
 #: creature_large_temperate.txt:1673
 msgctxt "CREATURE:GIANT_BUZZARD"
 msgid "[NAME:giant buzzard:giant buzzards:giant buzzard]"
-msgstr ""
+msgstr "[NAME:거대 말똥가리:거대 말똥가리떼:거대 말똥가리]"
 
 #: creature_large_temperate.txt:1674
 msgctxt "CREATURE:GIANT_BUZZARD"
 msgid "[CASTE_NAME:giant buzzard:giant buzzards:giant buzzard]"
-msgstr ""
+msgstr "[CASTE_NAME:거대 말똥가리:거대 말똥가리떼:거대 말똥가리]"
 
 #: creature_large_temperate.txt:1675
 msgctxt "CREATURE:GIANT_BUZZARD"
 msgid "[GENERAL_CHILD_NAME:giant buzzard hatchling:giant buzzard hatchlings]"
-msgstr ""
+msgstr "[GENERAL_CHILD_NAME:새끼 거대 말똥가리:새끼 거대 말똥가리떼]"
 
 #: creature_large_temperate.txt:1676
 msgctxt "CREATURE:GIANT_BUZZARD"
 msgid "[DESCRIPTION:A huge monster in the form of a buzzard.]"
-msgstr ""
+msgstr "[DESCRIPTION:말똥가리의 모습을 한 거대한 괴수.]"
 
 #: creature_large_temperate.txt:1685
 msgctxt "CREATURE:GIANT_BUZZARD"
 msgid "[PREFSTRING:striking red face]"
-msgstr ""
+msgstr "[PREFSTRING:눈에띄는 홍조]"
 
 #: creature_large_temperate.txt:1700
 msgctxt "CREATURE:PANDA"
@@ -18284,7 +18284,7 @@ msgstr "[CASTE_NAME:판다:판다들:판다]"
 #: creature_large_temperate.txt:1703
 msgctxt "CREATURE:PANDA"
 msgid "[GENERAL_CHILD_NAME:panda cub:panda cubs]"
-msgstr ""
+msgstr "[GENERAL_CHILD_NAME:새끼 판다:새끼 판다들]"
 
 #: creature_large_temperate.txt:1719
 msgctxt "CREATURE:PANDA"
@@ -18294,12 +18294,12 @@ msgstr "[PREFSTRING:강렬한 색감]"
 #: creature_large_temperate.txt:1720
 msgctxt "CREATURE:PANDA"
 msgid "[PREFSTRING:big fluffy heads and bellies]"
-msgstr ""
+msgstr "[PREFSTRING:크고 푹신한 머리와 배]"
 
 #: creature_large_temperate.txt:1721
 msgctxt "CREATURE:PANDA"
 msgid "[PREFSTRING:lazy nature]"
-msgstr ""
+msgstr "[PREFSTRING:바쁜 자연]"
 
 #: creature_large_temperate.txt:1758
 msgctxt "CREATURE:PANDA"
@@ -18314,7 +18314,7 @@ msgstr "[ATTACK_VERB:할큄:할큄]"
 #: creature_large_temperate.txt:1788
 msgctxt "CREATURE:PANDA"
 msgid "[TLCM_NOUN:hair around the eyes:SINGULAR]"
-msgstr ""
+msgstr "[TLCM_NOUN:눈 주위의 머리카락:SINGULAR]"
 
 #: creature_large_temperate.txt:1791
 msgctxt "CREATURE:PANDA"
@@ -18329,7 +18329,7 @@ msgstr "[TLCM_NOUN:다리:PLURAL]"
 #: creature_large_temperate.txt:1801
 msgctxt "CREATURE:PANDA"
 msgid "[TLCM_NOUN:upper body:SINGULAR]"
-msgstr ""
+msgstr "[TLCM_NOUN:상체:SINGULAR]"
 
 #: creature_large_temperate.txt:1806
 msgctxt "CREATURE:PANDA"
@@ -18371,7 +18371,7 @@ msgstr "[DESCRIPTION:세계의 가장 황량한 지역에서 발견되는 거대
 #: creature_large_temperate.txt:1836
 msgctxt "CREATURE:PANDA, GIGANTIC"
 msgid "[PREFSTRING:enormous size]"
-msgstr ""
+msgstr "[PREFSTRING:무지막지한 크기]"
 
 #: creature_large_temperate.txt:1837
 msgctxt "CREATURE:PANDA, GIGANTIC"
@@ -18381,12 +18381,12 @@ msgstr "[PREFSTRING:강렬한 색감]"
 #: creature_large_temperate.txt:1838
 msgctxt "CREATURE:PANDA, GIGANTIC"
 msgid "[PREFSTRING:gigantic fluffy heads and bellies]"
-msgstr ""
+msgstr "[PREFSTRING:거대하고 푹신한 머리와 배]"
 
 #: creature_large_temperate.txt:1839
 msgctxt "CREATURE:PANDA, GIGANTIC"
 msgid "[PREFSTRING:lazy nature]"
-msgstr ""
+msgstr "[PREFSTRING:게으른 자연]"
 
 #: creature_large_temperate.txt:1849
 msgctxt "CREATURE:PANDA MAN"
@@ -18406,12 +18406,12 @@ msgstr "[CASTE_NAME:남성 판다인간:남성 판다인간들:남성 판다인�
 #: creature_large_temperate.txt:1870
 msgctxt "CREATURE:PANDA MAN"
 msgid "[CASTE_NAME:panda woman:panda women:panda woman]"
-msgstr ""
+msgstr "[CASTE_NAME:여성 판다인간:여성 판다인간들:여성 판다인간]"
 
 #: creature_large_temperate.txt:1881
 msgctxt "CREATURE:PANDA MAN"
 msgid "[NAME:panda man:panda men:panda man]"
-msgstr ""
+msgstr "[NAME:판다인간:판다인간들:판다인간]"
 
 #: creature_large_temperate.txt:1882
 msgctxt "CREATURE:PANDA MAN"
@@ -18433,12 +18433,12 @@ msgstr "[NAME:카피바라:카피바라들:카피바라]"
 #: creature_large_temperate.txt:1901
 msgctxt "CREATURE:CAPYBARA"
 msgid "[CASTE_NAME:capybara:capybaras:capybara]"
-msgstr ""
+msgstr "[CASTE_NAME:카피바라:카피바라들:카피바라]"
 
 #: creature_large_temperate.txt:1902
 msgctxt "CREATURE:CAPYBARA"
 msgid "[GENERAL_CHILD_NAME:capybara pup:capybara pups]"
-msgstr ""
+msgstr "[GENERAL_CHILD_NAME:새끼 카피바라:새끼 카피바라들]"
 
 #: creature_large_temperate.txt:1917
 msgctxt "CREATURE:CAPYBARA"
@@ -18449,23 +18449,23 @@ msgstr "[SOUND:ALERT:100:1000:VOCALIZATION:울부짖는 소리:울부짖는 소�
 msgctxt "CREATURE:CAPYBARA"
 msgid ""
 "[SOUND:PEACEFUL_INTERMITTENT:100:10000:VOCALIZATION:whistle:whistles:whistling]"
-msgstr ""
+msgstr "[SOUND:PEACEFUL_INTERMITTENT:100:10000:VOCALIZATION:휘파람:휘파람:휘파람을 부는]"
 
 #: creature_large_temperate.txt:1919
 msgctxt "CREATURE:CAPYBARA"
 msgid ""
 "[SOUND:PEACEFUL_INTERMITTENT:25:10000:VOCALIZATION:grunt:grunts:a grunt]"
-msgstr ""
+msgstr "[SOUND:PEACEFUL_INTERMITTENT:25:10000:VOCALIZATION:꿀꿀:꿀꿀:꿀꿀]"
 
 #: creature_large_temperate.txt:1920
 msgctxt "CREATURE:CAPYBARA"
 msgid "[SOUND:PEACEFUL_INTERMITTENT:5:10000:VOCALIZATION:purr:purrs:a purr]"
-msgstr ""
+msgstr "[SOUND:PEACEFUL_INTERMITTENT:5:10000:VOCALIZATION:갸르릉:갸르릉:갸르릉]"
 
 #: creature_large_temperate.txt:1921
 msgctxt "CREATURE:CAPYBARA"
 msgid "[SOUND:PEACEFUL_INTERMITTENT:25:10000:NONE:click:clicks:a click]"
-msgstr ""
+msgstr "[SOUND:PEACEFUL_INTERMITTENT:25:10000:NONE:찰칵:찰칵:찰칵]"
 
 #: creature_large_temperate.txt:1922
 msgctxt "CREATURE:CAPYBARA"
@@ -18515,12 +18515,12 @@ msgstr "[NAME:거대 카피바라:거대 카피바라들:거대 카피바라]"
 #: creature_large_temperate.txt:2009
 msgctxt "CREATURE:CAPYBARA, GIANT"
 msgid "[CASTE_NAME:giant capybara:giant capybaras:giant capybara]"
-msgstr ""
+msgstr "[CASTE_NAME:거대 카피바라:거대 카피바라들:거대 카피바라]"
 
 #: creature_large_temperate.txt:2010
 msgctxt "CREATURE:CAPYBARA, GIANT"
 msgid "[GENERAL_CHILD_NAME:giant capybara pup:giant capybara pups]"
-msgstr ""
+msgstr "[GENERAL_CHILD_NAME:새끼 거대 카피바라:새끼 거대 카피바라들]"
 
 #: creature_large_temperate.txt:2011
 msgctxt "CREATURE:CAPYBARA, GIANT"
@@ -18539,25 +18539,25 @@ msgctxt "CREATURE:CAPYBARA, GIANT"
 msgid ""
 "[SOUND:PEACEFUL_INTERMITTENT:200:10000:VOCALIZATION:whistle:whistles:deep "
 "whistling]"
-msgstr ""
+msgstr "[SOUND:PEACEFUL_INTERMITTENT:200:10000:VOCALIZATION:휘파람:휘파람:큰 휘파람]"
 
 #: creature_large_temperate.txt:2021
 msgctxt "CREATURE:CAPYBARA, GIANT"
 msgid ""
 "[SOUND:PEACEFUL_INTERMITTENT:50:10000:VOCALIZATION:grunt:grunts:a loud "
 "grunt]"
-msgstr ""
+msgstr "[SOUND:PEACEFUL_INTERMITTENT:50:10000:VOCALIZATION:꿀꿀:꿀꿀:크게 꿀꿀]"
 
 #: creature_large_temperate.txt:2022
 msgctxt "CREATURE:CAPYBARA, GIANT"
 msgid ""
 "[SOUND:PEACEFUL_INTERMITTENT:5:10000:VOCALIZATION:purr:purrs:a deep purr]"
-msgstr ""
+msgstr "[SOUND:PEACEFUL_INTERMITTENT:5:10000:VOCALIZATION:갸르릉:갸르릉:깊게 갸르릉]"
 
 #: creature_large_temperate.txt:2023
 msgctxt "CREATURE:CAPYBARA, GIANT"
 msgid "[SOUND:PEACEFUL_INTERMITTENT:50:10000:NONE:click:clicks:a loud click]"
-msgstr ""
+msgstr "[SOUND:PEACEFUL_INTERMITTENT:50:10000:NONE:찰칵:찰칵:크게 찰칵]"
 
 #: creature_large_temperate.txt:2024
 msgctxt "CREATURE:CAPYBARA, GIANT"
@@ -18577,12 +18577,12 @@ msgstr "[PREFSTRING:뒤울리는 울부짖음]"
 #: creature_large_temperate.txt:2038
 msgctxt "CREATURE:CAPYBARA MAN"
 msgid "[CASTE_NAME:capybara man:capybara men:capybara man]"
-msgstr ""
+msgstr "[CASTE_NAME:남성 카피바라인간:남성 카피바라인간들:남성 카피바라인간]"
 
 #: creature_large_temperate.txt:2040
 msgctxt "CREATURE:CAPYBARA MAN"
 msgid "[CASTE_NAME:capybara woman:capybara women:capybara woman]"
-msgstr ""
+msgstr "[CASTE_NAME:여성 카피바라인간:여성 카피바라인간들:여성 카피바라인간]"
 
 #: creature_large_temperate.txt:2051
 msgctxt "CREATURE:CAPYBARA MAN"
@@ -18594,7 +18594,7 @@ msgctxt "CREATURE:CAPYBARA MAN"
 msgid ""
 "[DESCRIPTION:A humanoid with the head of a capybara.  It is fond of "
 "swimming.]"
-msgstr ""
+msgstr "[DESCRIPTION:카피바라의 머리를 가진 인간형태의 생물체, 수영을 좋아합니다.]"
 
 #: creature_large_temperate.txt:2066
 msgctxt "CREATURE:BADGER"
@@ -18611,12 +18611,12 @@ msgstr "[NAME:오소리:오소리들:오소리]"
 #: creature_large_temperate.txt:2068
 msgctxt "CREATURE:BADGER"
 msgid "[GENERAL_CHILD_NAME:badger cub:badger cubs]"
-msgstr ""
+msgstr "[GENERAL_CHILD_NAME:새끼 오소리:새끼 오소리들]"
 
 #: creature_large_temperate.txt:2085
 msgctxt "CREATURE:BADGER"
 msgid "[PREFSTRING:underground communities]"
-msgstr ""
+msgstr "[PREFSTRING:지하 커뮤니티]"
 
 #: creature_large_temperate.txt:2086
 msgctxt "CREATURE:BADGER"
@@ -18636,12 +18636,12 @@ msgstr "[ATTACK_VERB:할큄:할큄]"
 #: creature_large_temperate.txt:2149
 msgctxt "CREATURE:BADGER"
 msgid "[CASTE_NAME:badger sow:badger sows:badger sow]"
-msgstr ""
+msgstr "[CASTE_NAME:암컷 오소리:암컷 오소리들:암컷 오소리]"
 
 #: creature_large_temperate.txt:2153
 msgctxt "CREATURE:BADGER"
 msgid "[CASTE_NAME:badger boar:badger boars:badger boar]"
-msgstr ""
+msgstr "[CASTE_NAME:수컷 오소리:수컷 오소리들:수컷 오소리]"
 
 #: creature_large_temperate.txt:2160
 msgctxt "CREATURE:BADGER"
@@ -18671,12 +18671,12 @@ msgstr "[TLCM_NOUN:눈들:PLURAL]"
 #: creature_large_temperate.txt:2185
 msgctxt "CREATURE:BADGER MAN"
 msgid "[CASTE_NAME:badger man:badger men:badger man]"
-msgstr ""
+msgstr "[CASTE_NAME:남성 오소리인간:남성 오소리인간들:남성 오소리인간]"
 
 #: creature_large_temperate.txt:2187
 msgctxt "CREATURE:BADGER MAN"
 msgid "[CASTE_NAME:badger woman:badger women:badger woman]"
-msgstr ""
+msgstr "[CASTE_NAME:여성 오소리인간:여성 오소리인간들:여성 오소리인간]"
 
 #: creature_large_temperate.txt:2198
 msgctxt "CREATURE:BADGER MAN"
@@ -18686,7 +18686,7 @@ msgstr "[NAME:오소리인간:오소리인간들:오소리인간]"
 #: creature_large_temperate.txt:2199
 msgctxt "CREATURE:BADGER MAN"
 msgid "[DESCRIPTION:A humanoid with the head and stripes of a badger.]"
-msgstr ""
+msgstr "[DESCRIPTION:오소리의 머리와 줄무늬를 가진 인간형태의 생물체.]"
 
 #: creature_large_temperate.txt:2227
 msgctxt "CREATURE:BADGER, GIANT"
@@ -18696,7 +18696,7 @@ msgstr "[NAME:거대 오소리:거대 오소리들:거대 오소리]"
 #: creature_large_temperate.txt:2228
 msgctxt "CREATURE:BADGER, GIANT"
 msgid "[GENERAL_CHILD_NAME:giant badger cub:giant badger cubs]"
-msgstr ""
+msgstr "[GENERAL_CHILD_NAME:새끼 거대 오소리:새끼 거대 오소리들]"
 
 #: creature_large_temperate.txt:2229
 msgctxt "CREATURE:BADGER, GIANT"
@@ -18708,12 +18708,12 @@ msgstr "[DESCRIPTION:오소리 모양의 거대한 괴물. 그것은 전투에�
 #: creature_large_temperate.txt:2239
 msgctxt "CREATURE:BADGER, GIANT"
 msgid "[CASTE_NAME:giant badger boar:giant badger boars:giant badger boar]"
-msgstr ""
+msgstr "[CASTE_NAME:수컷 거대 오소리:수컷 거대 오소리들:수컷 거대 오소리]"
 
 #: creature_large_temperate.txt:2241
 msgctxt "CREATURE:BADGER, GIANT"
 msgid "[CASTE_NAME:giant badger sow:giant badger sows:giant badger sow]"
-msgstr ""
+msgstr "[CASTE_NAME:암컷 거대 오소리:암컷 거대 오소리들:암컷 거대 오소리]"
 
 #: creature_large_temperate.txt:2243
 msgctxt "CREATURE:BADGER, GIANT"
@@ -18723,7 +18723,7 @@ msgstr "[PREFSTRING:거대한 크기]"
 #: creature_large_temperate.txt:2244
 msgctxt "CREATURE:BADGER, GIANT"
 msgid "[PREFSTRING:underground communities]"
-msgstr ""
+msgstr "[PREFSTRING:지하 커뮤니티]"
 
 #: creature_large_temperate.txt:2245
 msgctxt "CREATURE:BADGER, GIANT"
@@ -18745,7 +18745,7 @@ msgstr "[NAME:말코손바닥사슴:말코손바닥사슴들:말코손바닥사�
 #: creature_large_temperate.txt:2259
 msgctxt "CREATURE:MOOSE"
 msgid "[GENERAL_CHILD_NAME:moose calf:moose calves]"
-msgstr ""
+msgstr "[GENERAL_CHILD_NAME:새끼 말코손바닥사슴:새끼 말코손바닥사슴들]"
 
 #: creature_large_temperate.txt:2263
 msgctxt "CREATURE:MOOSE"
@@ -18755,17 +18755,17 @@ msgstr "[PREFSTRING:큰 크기]"
 #: creature_large_temperate.txt:2264
 msgctxt "CREATURE:MOOSE"
 msgid "[PREFSTRING:broad antlers]"
-msgstr ""
+msgstr "[PREFSTRING:넓적한 뿔]"
 
 #: creature_large_temperate.txt:2282
 msgctxt "CREATURE:MOOSE"
 msgid "[CASTE_NAME:cow moose:cow moose:cow moose]"
-msgstr ""
+msgstr "[CASTE_NAME:암컷 말코손바닥사슴:암컷 말코손바닥사슴들:암컷 말코손바닥사슴]"
 
 #: creature_large_temperate.txt:2291
 msgctxt "CREATURE:MOOSE"
 msgid "[CASTE_NAME:bull moose:bull moose:bull moose]"
-msgstr ""
+msgstr "[CASTE_NAME:수컷 말코손바닥사슴:수컷 말코손바닥사슴들:수컷 말코손바닥사슴]"
 
 #: creature_large_temperate.txt:2296
 msgctxt "CREATURE:MOOSE"
@@ -18815,12 +18815,12 @@ msgstr "[TLCM_NOUN:눈들:PLURAL]"
 #: creature_large_temperate.txt:2381
 msgctxt "CREATURE:MOOSE MAN"
 msgid "[CASTE_NAME:moose man:moose men:moose man]"
-msgstr ""
+msgstr "[CASTE_NAME:남성 말코손바닥사슴인간:남성 말코손바닥사슴인간들:남성 말코손바닥사슴인간들]"
 
 #: creature_large_temperate.txt:2383
 msgctxt "CREATURE:MOOSE MAN"
 msgid "[CASTE_NAME:moose woman:moose women:moose woman]"
-msgstr ""
+msgstr "[CASTE_NAME:여성 말코손바닥사슴인간:여성 말코손바닥사슴인간들:여성 말코손바닥사슴인간]"
 
 #: creature_large_temperate.txt:2394
 msgctxt "CREATURE:MOOSE MAN"
@@ -18840,22 +18840,22 @@ msgstr "[NAME:거대 말코손바닥사슴:거대 말코손바닥사슴들:거�
 #: creature_large_temperate.txt:2411
 msgctxt "CREATURE:MOOSE, GIANT"
 msgid "[GENERAL_CHILD_NAME:giant moose calf:giant moose calves]"
-msgstr ""
+msgstr "[GENERAL_CHILD_NAME:새끼 거대 말코손바닥사슴:새끼 거대 말코손바닥사슴들]"
 
 #: creature_large_temperate.txt:2412
 msgctxt "CREATURE:MOOSE, GIANT"
 msgid "[DESCRIPTION:A huge monster the shape of a moose.]"
-msgstr ""
+msgstr "[DESCRIPTION:무스의 모습을 한 거대한 괴수.]"
 
 #: creature_large_temperate.txt:2422
 msgctxt "CREATURE:MOOSE, GIANT"
 msgid "[CASTE_NAME:giant moose cow:giant moose cows:giant moose cow]"
-msgstr ""
+msgstr "[CASTE_NAME:암컷 거대 말코손바닥사슴:암컷 거대 말코손바닥사슴들]"
 
 #: creature_large_temperate.txt:2424
 msgctxt "CREATURE:MOOSE, GIANT"
 msgid "[CASTE_NAME:giant moose bull:giant moose bulls:giant moose bull]"
-msgstr ""
+msgstr "[CASTE_NAME:수컷 거대 말코손바닥사슴:수컷 거대 말코손바닥사슴들]"
 
 #: creature_large_temperate.txt:2426
 msgctxt "CREATURE:MOOSE, GIANT"
@@ -18865,7 +18865,7 @@ msgstr "[PREFSTRING:거대한 크기]"
 #: creature_large_temperate.txt:2427
 msgctxt "CREATURE:MOOSE, GIANT"
 msgid "[PREFSTRING:broad antlers]"
-msgstr ""
+msgstr "[PREFSTRING:넓적한 뿔]"
 
 #: creature_large_temperate.txt:2440
 msgctxt "CREATURE:RED PANDA"
@@ -18884,12 +18884,12 @@ msgstr "[NAME:레서판다:레서판다들:레서판다]"
 #: creature_large_temperate.txt:2442
 msgctxt "CREATURE:RED PANDA"
 msgid "[GENERAL_CHILD_NAME:red panda cub:red panda cubs]"
-msgstr ""
+msgstr "[GENERAL_CHILD_NAME:새끼 레서판다:새끼 레서판다들]"
 
 #: creature_large_temperate.txt:2458
 msgctxt "CREATURE:RED PANDA"
 msgid "[PREFSTRING:large striped tails]"
-msgstr ""
+msgstr "[PREFSTRING:줄무늬 큰 꼬리]"
 
 #: creature_large_temperate.txt:2495
 msgctxt "CREATURE:RED PANDA"
@@ -18904,32 +18904,32 @@ msgstr "[ATTACK_VERB:할큄:할큄]"
 #: creature_large_temperate.txt:2511
 msgctxt "CREATURE:RED PANDA"
 msgid "[CDI:ADV_NAME:Clean]"
-msgstr ""
+msgstr "[CDI:ADV_NAME:지우기]"
 
 #: creature_large_temperate.txt:2515
 msgctxt "CREATURE:RED PANDA"
 msgid "[CDI:VERB:lick:licks:lick each other]"
-msgstr ""
+msgstr "[CDI:VERB:핥다:핥다:서로를 핥다]"
 
 #: creature_large_temperate.txt:2522
 msgctxt "CREATURE:RED PANDA"
 msgid "[CDI:ADV_NAME:Head bump]"
-msgstr ""
+msgstr "[CDI:ADV_NAME:머리를 부딪치다]"
 
 #: creature_large_temperate.txt:2525
 msgctxt "CREATURE:RED PANDA"
 msgid "[CDI:VERB:head-bump:head-bumps:bump heads]"
-msgstr ""
+msgstr "[CDI:VERB:머리를 부딪치다:머리를 부딪치다:머리를 부딪치다]"
 
 #: creature_large_temperate.txt:2544
 msgctxt "CREATURE:RED PANDA"
 msgid "[CASTE_NAME:red panda sow:red panda sows:red panda sow]"
-msgstr ""
+msgstr "[CASTE_NAME:암컷 레서판다:암컷 레서판다들:암컷 레서판다]"
 
 #: creature_large_temperate.txt:2548
 msgctxt "CREATURE:RED PANDA"
 msgid "[CASTE_NAME:red panda boar:red panda boars:red panda boar]"
-msgstr ""
+msgstr "[CASTE_NAME:수컷 레서판다:수컷 레서판다들:수컷 레서판다]"
 
 #: creature_large_temperate.txt:2553
 msgctxt "CREATURE:RED PANDA"
@@ -18959,12 +18959,12 @@ msgstr "[TLCM_NOUN:눈들:PLURAL]"
 #: creature_large_temperate.txt:2578
 msgctxt "CREATURE:RED PANDA MAN"
 msgid "[CASTE_NAME:red panda man:red panda men:red panda man]"
-msgstr ""
+msgstr "[CASTE_NAME:남성 레서판다인간:남성 레서판다인간들:남성 레서판다인간]"
 
 #: creature_large_temperate.txt:2580
 msgctxt "CREATURE:RED PANDA MAN"
 msgid "[CASTE_NAME:red panda woman:red panda women:red panda woman]"
-msgstr ""
+msgstr "[CASTE_NAME:여성 레서판다인간:여성 레서판다인간들:여성 레서판다인간]"
 
 #: creature_large_temperate.txt:2591
 msgctxt "CREATURE:RED PANDA MAN"
@@ -18986,29 +18986,29 @@ msgstr "[NAME:거대 레서판다:거대 레서판다들:거대 레서판다]"
 #: creature_large_temperate.txt:2622
 msgctxt "CREATURE:RED PANDA, GIANT"
 msgid "[GENERAL_CHILD_NAME:giant red panda cub:giant red panda cubs]"
-msgstr ""
+msgstr "[GENERAL_CHILD_NAME:새끼 거대 레서판다:새끼 거대 레서판다들]"
 
 #: creature_large_temperate.txt:2623
 msgctxt "CREATURE:RED PANDA, GIANT"
 msgid "[DESCRIPTION:A large monster with the shape of a red panda.]"
-msgstr ""
+msgstr "[DESCRIPTION:레서판다의 모습을 한 거대한 괴수.]"
 
 #: creature_large_temperate.txt:2633
 msgctxt "CREATURE:RED PANDA, GIANT"
 msgid ""
 "[CASTE_NAME:giant red panda boar:giant red panda boars:giant red panda boar]"
-msgstr ""
+msgstr "[CASTE_NAME:수컷 거대 레서판다:수컷 거대 레서판다들:수컷 거대 레서판다]"
 
 #: creature_large_temperate.txt:2635
 msgctxt "CREATURE:RED PANDA, GIANT"
 msgid ""
 "[CASTE_NAME:giant red panda sow:giant red panda sows:giant red panda sow]"
-msgstr ""
+msgstr "[CASTE_NAME:암컷 거대 레서판다:암컷 거대 레서판다들:암컷 거대 레서판다]"
 
 #: creature_large_temperate.txt:2637
 msgctxt "CREATURE:RED PANDA, GIANT"
 msgid "[PREFSTRING:large striped tails]"
-msgstr ""
+msgstr "[PREFSTRING:줄무늬 큰꼬리]"
 
 #: creature_large_tropical.txt:6
 msgctxt "CREATURE:ELEPHANT"
@@ -19043,27 +19043,27 @@ msgstr "[PREFSTRING:힘]"
 #: creature_large_tropical.txt:25
 msgctxt "CREATURE:ELEPHANT"
 msgid "[PREFSTRING:amazing trunks]"
-msgstr ""
+msgstr "[PREFSTRING:놀라운 트렁크들]"
 
 #: creature_large_tropical.txt:26
 msgctxt "CREATURE:ELEPHANT"
 msgid "[PREFSTRING:calves' spirited antics]"
-msgstr ""
+msgstr "[PREFSTRING:송아지들의 활기찬 장난]"
 
 #: creature_large_tropical.txt:27
 msgctxt "CREATURE:ELEPHANT"
 msgid "[PREFSTRING:tusks]"
-msgstr ""
+msgstr "[PREFSTRING:엄니]"
 
 #: creature_large_tropical.txt:28
 msgctxt "CREATURE:ELEPHANT"
 msgid "[PREFSTRING:great weight]"
-msgstr ""
+msgstr "[PREFSTRING:거대한 무게]"
 
 #: creature_large_tropical.txt:29
 msgctxt "CREATURE:ELEPHANT"
 msgid "[PREFSTRING:social behavior]"
-msgstr ""
+msgstr "[PREFSTRING:사회 활동]"
 
 #: creature_large_tropical.txt:30
 msgctxt "CREATURE:ELEPHANT"
@@ -19073,22 +19073,22 @@ msgstr "[PREFSTRING:펄럭이는 귀]"
 #: creature_large_tropical.txt:31
 msgctxt "CREATURE:ELEPHANT"
 msgid "[PREFSTRING:uprooting of trees]"
-msgstr ""
+msgstr "[PREFSTRING:나무 뿌리 뽑기]"
 
 #: creature_large_tropical.txt:32
 msgctxt "CREATURE:ELEPHANT"
 msgid "[PREFSTRING:aggressive sparring]"
-msgstr ""
+msgstr "[PREFSTRING:공격적인 스파링]"
 
 #: creature_large_tropical.txt:33
 msgctxt "CREATURE:ELEPHANT"
 msgid "[PREFSTRING:trumpeting]"
-msgstr ""
+msgstr "[PREFSTRING:트럼펫]"
 
 #: creature_large_tropical.txt:34
 msgctxt "CREATURE:ELEPHANT"
 msgid "[PREFSTRING:tool use]"
-msgstr ""
+msgstr "[PREFSTRING:도구 사용]"
 
 #: creature_large_tropical.txt:35
 msgctxt "CREATURE:ELEPHANT"
@@ -19178,22 +19178,22 @@ msgstr "[PREFSTRING:힘]"
 #: creature_large_tropical.txt:158
 msgctxt "CREATURE:GIANT_ELEPHANT"
 msgid "[PREFSTRING:amazing trunks]"
-msgstr ""
+msgstr "[PREFSTRING:놀라운 트렁크들]"
 
 #: creature_large_tropical.txt:159
 msgctxt "CREATURE:GIANT_ELEPHANT"
 msgid "[PREFSTRING:calves' spirited antics]"
-msgstr ""
+msgstr "[PREFSTRING:송아지들의 활기찬 장난]"
 
 #: creature_large_tropical.txt:160
 msgctxt "CREATURE:GIANT_ELEPHANT"
 msgid "[PREFSTRING:tusks]"
-msgstr ""
+msgstr "[PREFSTRING:엄니]"
 
 #: creature_large_tropical.txt:161
 msgctxt "CREATURE:GIANT_ELEPHANT"
 msgid "[PREFSTRING:great weight]"
-msgstr ""
+msgstr "[PREFSTRING:거대한 무게]"
 
 #: creature_large_tropical.txt:162
 msgctxt "CREATURE:GIANT_ELEPHANT"
@@ -19208,27 +19208,27 @@ msgstr "[PREFSTRING:펄럭이는 귀]"
 #: creature_large_tropical.txt:164
 msgctxt "CREATURE:GIANT_ELEPHANT"
 msgid "[PREFSTRING:uprooting of trees]"
-msgstr ""
+msgstr "[PREFSTRING:나무 뿌리 뽑기]"
 
 #: creature_large_tropical.txt:165
 msgctxt "CREATURE:GIANT_ELEPHANT"
 msgid "[PREFSTRING:aggressive sparring]"
-msgstr ""
+msgstr "[PREFSTRING:공격적인 스파링]"
 
 #: creature_large_tropical.txt:166
 msgctxt "CREATURE:GIANT_ELEPHANT"
 msgid "[PREFSTRING:trumpeting]"
-msgstr ""
+msgstr "[PREFSTRING:트럼펫]"
 
 #: creature_large_tropical.txt:167
 msgctxt "CREATURE:GIANT_ELEPHANT"
 msgid "[PREFSTRING:tool use]"
-msgstr ""
+msgstr "[PREFSTRING:도구 사용]"
 
 #: creature_large_tropical.txt:168
 msgctxt "CREATURE:GIANT_ELEPHANT"
 msgid "[PREFSTRING:self-awareness]"
-msgstr ""
+msgstr "[PREFSTRING:자기 인식]"
 
 #: creature_large_tropical.txt:174
 msgctxt "CREATURE:WARTHOG"
@@ -19247,27 +19247,27 @@ msgstr "[NAME:혹멧돼지:혹멧돼지들:혹멧돼지]"
 #: creature_large_tropical.txt:176
 msgctxt "CREATURE:WARTHOG"
 msgid "[CASTE_NAME:warthog:warthogs:warthog]"
-msgstr ""
+msgstr "[CASTE_NAME:혹멧돼지:혹멧돼지들:혹멧돼지]"
 
 #: creature_large_tropical.txt:177
 msgctxt "CREATURE:WARTHOG"
 msgid "[GENERAL_CHILD_NAME:warthog piglet:warthog piglets]"
-msgstr ""
+msgstr "[GENERAL_CHILD_NAME:새끼 혹멧돼지:새끼 혹멧돼지들]"
 
 #: creature_large_tropical.txt:184
 msgctxt "CREATURE:WARTHOG"
 msgid "[PREFSTRING:short tempers]"
-msgstr ""
+msgstr "[PREFSTRING:급한 성질]"
 
 #: creature_large_tropical.txt:197
 msgctxt "CREATURE:WARTHOG"
 msgid "[STATE_NAME:ALL_SOLID:ivory]"
-msgstr ""
+msgstr "[STATE_NAME:ALL_SOLID:상아]"
 
 #: creature_large_tropical.txt:198
 msgctxt "CREATURE:WARTHOG"
 msgid "[STATE_ADJ:ALL_SOLID:ivory]"
-msgstr ""
+msgstr "[STATE_ADJ:ALL_SOLID:상아]"
 
 #: creature_large_tropical.txt:202
 msgctxt "CREATURE:WARTHOG"
@@ -19302,12 +19302,12 @@ msgstr "[TLCM_NOUN:눈들:PLURAL]"
 #: creature_large_tropical.txt:283
 msgctxt "CREATURE:WARTHOG_MAN"
 msgid "[CASTE_NAME:warthog man:warthog men:warthog man]"
-msgstr ""
+msgstr "[CASTE_NAME:남성 혹멧돼지인간:남성 혹멧돼지인간들:남성 혹멧돼지인간]"
 
 #: creature_large_tropical.txt:285
 msgctxt "CREATURE:WARTHOG_MAN"
 msgid "[CASTE_NAME:warthog woman:warthog women:warthog woman]"
-msgstr ""
+msgstr "[CASTE_NAME:여성 혹멧돼지인간:여성 혹멧돼지인간들:여성 혹멧돼지인간]"
 
 #: creature_large_tropical.txt:297
 msgctxt "CREATURE:WARTHOG_MAN"
@@ -19317,7 +19317,7 @@ msgstr "[NAME:혹멧돼지인간:혹멧돼지인간들:혹멧돼지인간]"
 #: creature_large_tropical.txt:298
 msgctxt "CREATURE:WARTHOG_MAN"
 msgid "[DESCRIPTION:A person with the head of a warthog.]"
-msgstr ""
+msgstr "[DESCRIPTION:혹멧돼지의 머리를 가진 인간.]"
 
 #: creature_large_tropical.txt:318
 msgctxt "CREATURE:GIANT_WARTHOG"
@@ -19327,22 +19327,22 @@ msgstr "[NAME:거대 혹멧돼지:거대 혹멧돼지들:거대 혹멧돼지]"
 #: creature_large_tropical.txt:319
 msgctxt "CREATURE:GIANT_WARTHOG"
 msgid "[CASTE_NAME:giant warthog:giant warthogs:giant warthog]"
-msgstr ""
+msgstr "[CASTE_NAME:거대 혹멧돼지:거대 혹멧돼지들:거대 혹멧돼지]"
 
 #: creature_large_tropical.txt:320
 msgctxt "CREATURE:GIANT_WARTHOG"
 msgid "[GENERAL_CHILD_NAME:giant warthog piglet:giant warthog piglets]"
-msgstr ""
+msgstr "[GENERAL_CHILD_NAME:새끼 거대 혹멧돼지:새끼 거대 혹멧돼지들]"
 
 #: creature_large_tropical.txt:321
 msgctxt "CREATURE:GIANT_WARTHOG"
 msgid "[DESCRIPTION:A huge monster warthog with jagged tusks.]"
-msgstr ""
+msgstr "[DESCRIPTION:들쭉날쭉한 엄니를 가진 혹멧돼지의 모습을 한 거대한 괴수.]"
 
 #: creature_large_tropical.txt:330
 msgctxt "CREATURE:GIANT_WARTHOG"
 msgid "[PREFSTRING:short tempers]"
-msgstr ""
+msgstr "[PREFSTRING:급한 성질]"
 
 #: creature_large_tropical.txt:336
 msgctxt "CREATURE:LION"
@@ -19362,12 +19362,12 @@ msgstr "[NAME:사자:사자들:사자]"
 #: creature_large_tropical.txt:338
 msgctxt "CREATURE:LION"
 msgid "[CASTE_NAME:lion:lions:lion]"
-msgstr ""
+msgstr "[CASTE_NAME:사자:사자들:사자]"
 
 #: creature_large_tropical.txt:339
 msgctxt "CREATURE:LION"
 msgid "[GENERAL_CHILD_NAME:lion cub:lion cubs]"
-msgstr ""
+msgstr "[GENERAL_CHILD_NAME:새끼 사자:새끼 사자들]"
 
 #: creature_large_tropical.txt:355
 msgctxt "CREATURE:LION"
@@ -19402,12 +19402,12 @@ msgstr "[TLCM_NOUN:눈들:PLURAL]"
 #: creature_large_tropical.txt:435
 msgctxt "CREATURE:LION_MAN"
 msgid "[CASTE_NAME:lion man:lion men:lion man]"
-msgstr ""
+msgstr "[CASTE_NAME:남성 사자인간:남성 사자인간들:남성 사자인간]"
 
 #: creature_large_tropical.txt:437
 msgctxt "CREATURE:LION_MAN"
 msgid "[CASTE_NAME:lion woman:lion women:lion woman]"
-msgstr ""
+msgstr "[CASTE_NAME:여성 사자인간:여성 사자인간들:여성 사자인간]"
 
 #: creature_large_tropical.txt:448
 msgctxt "CREATURE:LION_MAN"
@@ -19417,7 +19417,7 @@ msgstr "[NAME:사자인간:사자인간들:사자인간]"
 #: creature_large_tropical.txt:449
 msgctxt "CREATURE:LION_MAN"
 msgid "[DESCRIPTION:A person with the head of a lion.]"
-msgstr ""
+msgstr "[DESCRIPTION:사자의 머리를 가진 인간.]"
 
 #: creature_large_tropical.txt:467
 msgctxt "CREATURE:GIANT_LION"
@@ -19427,12 +19427,12 @@ msgstr "[NAME:거대 사자:거대 사자들:거대 사자]"
 #: creature_large_tropical.txt:468
 msgctxt "CREATURE:GIANT_LION"
 msgid "[CASTE_NAME:giant lion:giant lions:giant lion]"
-msgstr ""
+msgstr "[CASTE_NAME:거대 사자:거대 사자들:거대 사자]"
 
 #: creature_large_tropical.txt:469
 msgctxt "CREATURE:GIANT_LION"
 msgid "[GENERAL_CHILD_NAME:giant lion cub:giant lion cubs]"
-msgstr ""
+msgstr "[GENERAL_CHILD_NAME:새끼 거대 사자:새끼 거대 사자들]"
 
 #: creature_large_tropical.txt:470
 msgctxt "CREATURE:GIANT_LION"
@@ -19467,7 +19467,7 @@ msgstr ""
 #: creature_large_tropical.txt:488
 msgctxt "CREATURE:LEOPARD"
 msgid "[GENERAL_CHILD_NAME:leopard cub:leopard cubs]"
-msgstr ""
+msgstr "[GENERAL_CHILD_NAME:새끼 표범:새끼 표범들]"
 
 #: creature_large_tropical.txt:504
 msgctxt "CREATURE:LEOPARD"
@@ -19502,12 +19502,12 @@ msgstr "[TLCM_NOUN:눈들:PLURAL]"
 #: creature_large_tropical.txt:584
 msgctxt "CREATURE:LEOPARD_MAN"
 msgid "[CASTE_NAME:leopard man:leopard men:leopard man]"
-msgstr ""
+msgstr "[CASTE_NAME:남성 표범인간:남성 표범인간들:남성 표범인간]"
 
 #: creature_large_tropical.txt:586
 msgctxt "CREATURE:LEOPARD_MAN"
 msgid "[CASTE_NAME:leopard woman:leopard women:leopard woman]"
-msgstr ""
+msgstr "[CASTE_NAME:여성 표범인간:여성 표범인간들:여성 표범인간]"
 
 #: creature_large_tropical.txt:597
 msgctxt "CREATURE:LEOPARD_MAN"
@@ -19517,7 +19517,7 @@ msgstr "[NAME:표범인간:표범인간들:표범인간]"
 #: creature_large_tropical.txt:598
 msgctxt "CREATURE:LEOPARD_MAN"
 msgid "[DESCRIPTION:A spotted person with the head and tail of a leopard.]"
-msgstr ""
+msgstr "[DESCRIPTION:표범의 머리와 꼬리를 가진 얼룩무늬 인간.]"
 
 #: creature_large_tropical.txt:616
 msgctxt "CREATURE:GIANT_LEOPARD"
@@ -19527,19 +19527,19 @@ msgstr "[NAME:거대 표범:거대 표범들:거대 표범]"
 #: creature_large_tropical.txt:617
 msgctxt "CREATURE:GIANT_LEOPARD"
 msgid "[CASTE_NAME:giant leopard:giant leopards:giant leopard]"
-msgstr ""
+msgstr "[CASTE_NAME:거대 표범:거대 표범들:거대 표범]"
 
 #: creature_large_tropical.txt:618
 msgctxt "CREATURE:GIANT_LEOPARD"
 msgid "[GENERAL_CHILD_NAME:giant leopard cub:giant leopard cubs]"
-msgstr ""
+msgstr "[GENERAL_CHILD_NAME:새끼 거대 표범:새끼 거대 표범들]"
 
 #: creature_large_tropical.txt:619
 msgctxt "CREATURE:GIANT_LEOPARD"
 msgid ""
 "[DESCRIPTION:A gigantic spotted predator, dwarfing its small cousins.  It is"
 " found in the wild lands.]"
-msgstr ""
+msgstr "[DESCRIPTION:작은 사촌들을 왜소하게 만드는 거대한 점박이 포식자입니다. 야생의 땅에서 발견됩니다.]"
 
 #: creature_large_tropical.txt:628
 msgctxt "CREATURE:GIANT_LEOPARD"
@@ -19551,7 +19551,7 @@ msgctxt "CREATURE:JAGUAR"
 msgid ""
 "[DESCRIPTION:A large, muscular, spotted feline found in tropical jungles.  "
 "It is solitary and stalks and ambushes its prey.]"
-msgstr ""
+msgstr "[DESCRIPTION:열대 정글에서 볼 수 있는 크고 근육질인 점박이 고양이, 홀로 조용히 사냥감을 추척하고 습격합니다.]"
 
 #: creature_large_tropical.txt:635
 msgctxt "CREATURE:JAGUAR"
@@ -19561,12 +19561,12 @@ msgstr "[NAME:재규어:재규어들:재규어]"
 #: creature_large_tropical.txt:636
 msgctxt "CREATURE:JAGUAR"
 msgid "[CASTE_NAME:jaguar:jaguars:jaguar]"
-msgstr ""
+msgstr "[CASTE_NAME:재규어:재규어들:재규어]"
 
 #: creature_large_tropical.txt:637
 msgctxt "CREATURE:JAGUAR"
 msgid "[GENERAL_CHILD_NAME:jaguar cub:jaguar cubs]"
-msgstr ""
+msgstr "[GENERAL_CHILD_NAME:새끼 재규어:새끼 재규어들]"
 
 #: creature_large_tropical.txt:653
 msgctxt "CREATURE:JAGUAR"
@@ -19601,12 +19601,12 @@ msgstr "[TLCM_NOUN:눈들:PLURAL]"
 #: creature_large_tropical.txt:733
 msgctxt "CREATURE:JAGUAR_MAN"
 msgid "[CASTE_NAME:jaguar man:jaguar men:jaguar man]"
-msgstr ""
+msgstr "[CASTE_NAME:남성 재규어인간:남성 재규어인간들:남성 재규어인간]"
 
 #: creature_large_tropical.txt:735
 msgctxt "CREATURE:JAGUAR_MAN"
 msgid "[CASTE_NAME:jaguar woman:jaguar women:jaguar woman]"
-msgstr ""
+msgstr "[CASTE_NAME:여성 재규어인간:여성 재규어인간들:여성 재규어인간]"
 
 #: creature_large_tropical.txt:746
 msgctxt "CREATURE:JAGUAR_MAN"
@@ -19616,7 +19616,7 @@ msgstr "[NAME:재규어인간:재규어인간들:재규어인간]"
 #: creature_large_tropical.txt:747
 msgctxt "CREATURE:JAGUAR_MAN"
 msgid "[DESCRIPTION:A spotted person with the head and tail of a jaguar.]"
-msgstr ""
+msgstr "[DESCRIPTION:재규어의 머리와 꼬리를 가진 호피무늬 사람.]"
 
 #: creature_large_tropical.txt:765
 msgctxt "CREATURE:GIANT_JAGUAR"
@@ -19626,12 +19626,12 @@ msgstr "[NAME:거대 재규어:거대 재규어들:거대 재규어]"
 #: creature_large_tropical.txt:766
 msgctxt "CREATURE:GIANT_JAGUAR"
 msgid "[CASTE_NAME:giant jaguar:giant jaguars:giant jaguar]"
-msgstr ""
+msgstr "[CASTE_NAME:거대 재규어:거대 재규어들:거대 재규어]"
 
 #: creature_large_tropical.txt:767
 msgctxt "CREATURE:GIANT_JAGUAR"
 msgid "[GENERAL_CHILD_NAME:giant jaguar cub:giant jaguar cubs]"
-msgstr ""
+msgstr "[GENERAL_CHILD_NAME:새끼 거대 재규어:새끼 거대 재규어들]"
 
 #: creature_large_tropical.txt:768
 msgctxt "CREATURE:GIANT_JAGUAR"
@@ -19660,12 +19660,12 @@ msgstr "[NAME:호랑이:호랑이들:호랑이]"
 #: creature_large_tropical.txt:785
 msgctxt "CREATURE:TIGER"
 msgid "[CASTE_NAME:tiger:tigers:tiger]"
-msgstr ""
+msgstr "[CASTE_NAME:호랑이:호랑이들:호랑이]"
 
 #: creature_large_tropical.txt:786
 msgctxt "CREATURE:TIGER"
 msgid "[GENERAL_CHILD_NAME:tiger cub:tiger cubs]"
-msgstr ""
+msgstr "[GENERAL_CHILD_NAME:새끼 호랑이:새끼 호랑이들]"
 
 #: creature_large_tropical.txt:804
 msgctxt "CREATURE:TIGER"
@@ -19700,22 +19700,22 @@ msgstr "[TLCM_NOUN:눈들:PLURAL]"
 #: creature_large_tropical.txt:884
 msgctxt "CREATURE:TIGER_MAN"
 msgid "[CASTE_NAME:tiger man:tiger men:tiger man]"
-msgstr ""
+msgstr "[CASTE_NAME:남성 호랑이인간:남성 호랑이인간들:남성 호랑이인간]"
 
 #: creature_large_tropical.txt:886
 msgctxt "CREATURE:TIGER_MAN"
 msgid "[CASTE_NAME:tiger woman:tiger women:tiger woman]"
-msgstr ""
+msgstr "[CASTE_NAME:여성 호랑이인간:여성 호랑이인간들:여성 호랑이인간]"
 
 #: creature_large_tropical.txt:897
 msgctxt "CREATURE:TIGER_MAN"
 msgid "[NAME:tiger man:tiger men:tiger man]"
-msgstr "[NAME:호랑이인간:호랑이인간들:호랑이]"
+msgstr "[NAME:호랑이인간:호랑이인간들:호랑이인간]"
 
 #: creature_large_tropical.txt:898
 msgctxt "CREATURE:TIGER_MAN"
 msgid "[DESCRIPTION:An orange striped person with the head of a tiger.]"
-msgstr ""
+msgstr "[DESCRIPTION:호랑이의 머리를 가진 주황색 줄무늬가 있는 인간.]"
 
 #: creature_large_tropical.txt:916
 msgctxt "CREATURE:GIANT_TIGER"
@@ -19725,12 +19725,12 @@ msgstr "[NAME:거대 호랑이:거대 호랑이들:거대 호랑이]"
 #: creature_large_tropical.txt:917
 msgctxt "CREATURE:GIANT_TIGER"
 msgid "[CASTE_NAME:giant tiger:giant tigers:giant tiger]"
-msgstr ""
+msgstr "[CASTE_NAME:거대 호랑이:거대 호랑이들:거대 호랑이]"
 
 #: creature_large_tropical.txt:918
 msgctxt "CREATURE:GIANT_TIGER"
 msgid "[GENERAL_CHILD_NAME:giant tiger cub:giant tiger cubs]"
-msgstr ""
+msgstr "[GENERAL_CHILD_NAME:새끼 거대 호랑이:새끼 거대 호랑이들]"
 
 #: creature_large_tropical.txt:919
 msgctxt "CREATURE:GIANT_TIGER"
@@ -19750,7 +19750,7 @@ msgctxt "CREATURE:CHEETAH"
 msgid ""
 "[DESCRIPTION:A large spotted feline predator.  It is capable of incredible "
 "speed when ambushing its prey.]"
-msgstr ""
+msgstr "[DESCRIPTION:커다란 얼룩무늬를 가진 고양이 포식자. 사냥감을 습격할 때 놀라운 속도를 낼 수 있다.]"
 
 #: creature_large_tropical.txt:935
 msgctxt "CREATURE:CHEETAH"
@@ -19760,17 +19760,17 @@ msgstr "[NAME:치타:치타들:치타]"
 #: creature_large_tropical.txt:936
 msgctxt "CREATURE:CHEETAH"
 msgid "[CASTE_NAME:cheetah:cheetahs:cheetah]"
-msgstr ""
+msgstr "[CASTE_NAME:치타:치타들:치타]"
 
 #: creature_large_tropical.txt:937
 msgctxt "CREATURE:CHEETAH"
 msgid "[GENERAL_CHILD_NAME:cheetah cub:cheetah cubs]"
-msgstr ""
+msgstr "[GENERAL_CHILD_NAME:새끼 치타:새끼 치타들]"
 
 #: creature_large_tropical.txt:952
 msgctxt "CREATURE:CHEETAH"
 msgid "[PREFSTRING:speed]"
-msgstr ""
+msgstr "[PREFSTRING:속도]"
 
 #: creature_large_tropical.txt:987
 msgctxt "CREATURE:CHEETAH"
@@ -19800,12 +19800,12 @@ msgstr "[TLCM_NOUN:눈들:PLURAL]"
 #: creature_large_tropical.txt:1032
 msgctxt "CREATURE:CHEETAH_MAN"
 msgid "[CASTE_NAME:cheetah man:cheetah men:cheetah man]"
-msgstr ""
+msgstr "[CASTE_NAME:남성 치타인간:남성 치타인간들:남성 치타인간]"
 
 #: creature_large_tropical.txt:1034
 msgctxt "CREATURE:CHEETAH_MAN"
 msgid "[CASTE_NAME:cheetah woman:cheetah women:cheetah woman]"
-msgstr ""
+msgstr "[CASTE_NAME:여성 치타인간:여성 치타인간들:여성 치타인간]"
 
 #: creature_large_tropical.txt:1045
 msgctxt "CREATURE:CHEETAH_MAN"
@@ -19815,7 +19815,7 @@ msgstr "[NAME:치타인간:치타인간들:치타인간]"
 #: creature_large_tropical.txt:1046
 msgctxt "CREATURE:CHEETAH_MAN"
 msgid "[DESCRIPTION:A spotted person with the head and tail of a cheetah.]"
-msgstr ""
+msgstr "[DESCRIPTION:치타의 머리와 꼬리를 가진 얼룩무늬 인간.]"
 
 #: creature_large_tropical.txt:1064
 msgctxt "CREATURE:GIANT_CHEETAH"
@@ -19825,24 +19825,24 @@ msgstr "[NAME:거대 치타:거대 치타들:거대 치타]"
 #: creature_large_tropical.txt:1065
 msgctxt "CREATURE:GIANT_CHEETAH"
 msgid "[CASTE_NAME:giant cheetah:giant cheetahs:giant cheetah]"
-msgstr ""
+msgstr "[CASTE_NAME:거대 치타:거대 치타들:거대 치타]"
 
 #: creature_large_tropical.txt:1066
 msgctxt "CREATURE:GIANT_CHEETAH"
 msgid "[GENERAL_CHILD_NAME:giant cheetah cub:giant cheetah cubs]"
-msgstr ""
+msgstr "[GENERAL_CHILD_NAME:새끼 거대 치타:새끼 거대 치타들]"
 
 #: creature_large_tropical.txt:1067
 msgctxt "CREATURE:GIANT_CHEETAH"
 msgid ""
 "[DESCRIPTION:A gigantic spotted cat.  It is possibly the fastest animal on "
 "land and is found in the savage wilds.]"
-msgstr ""
+msgstr "[DESCRIPTION:거대한 얼룩무늬 고양이. 육지에서 가장 빠른동물일 수 있으며, 야만적인 야생에서 발견된다.]"
 
 #: creature_large_tropical.txt:1076
 msgctxt "CREATURE:GIANT_CHEETAH"
 msgid "[PREFSTRING:speed]"
-msgstr ""
+msgstr "[PREFSTRING:속도]"
 
 #: creature_large_tropical.txt:1082
 msgctxt "CREATURE:GAZELLE"
@@ -19860,12 +19860,12 @@ msgstr "[NAME:가젤:가젤들:가젤]"
 #: creature_large_tropical.txt:1084
 msgctxt "CREATURE:GAZELLE"
 msgid "[CASTE_NAME:gazelle:gazelles:gazelle]"
-msgstr ""
+msgstr "[CASTE_NAME:가젤:가젤들:가젤]"
 
 #: creature_large_tropical.txt:1085
 msgctxt "CREATURE:GAZELLE"
 msgid "[GENERAL_CHILD_NAME:gazelle fawn:gazelle fawns]"
-msgstr ""
+msgstr "[GENERAL_CHILD_NAME:새끼 가젤:새끼 가젤들]"
 
 #: creature_large_tropical.txt:1092
 msgctxt "CREATURE:GAZELLE"
@@ -19900,12 +19900,12 @@ msgstr "[TLCM_NOUN:눈들:PLURAL]"
 #: creature_large_tropical.txt:1184
 msgctxt "CREATURE:GAZELLE_MAN"
 msgid "[CASTE_NAME:gazelle man:gazelle men:gazelle man]"
-msgstr ""
+msgstr "[CASTE_NAME:남성 가젤인간:남성 가젤인간들:남성 가젤인간]"
 
 #: creature_large_tropical.txt:1186
 msgctxt "CREATURE:GAZELLE_MAN"
 msgid "[CASTE_NAME:gazelle woman:gazelle women:gazelle woman]"
-msgstr ""
+msgstr "[CASTE_NAME:여성 가젤인간:여성 가젤인간들:여성 가젤인간]"
 
 #: creature_large_tropical.txt:1196
 msgctxt "CREATURE:GAZELLE_MAN"
@@ -19915,7 +19915,7 @@ msgstr "[NAME:가젤인간:가젤인간들:가젤인간]"
 #: creature_large_tropical.txt:1197
 msgctxt "CREATURE:GAZELLE_MAN"
 msgid "[DESCRIPTION:A horned person with the head of a gazelle.]"
-msgstr ""
+msgstr "[DESCRIPTION:가젤의 머리와 뿔을 가진 인간.]"
 
 #: creature_large_tropical.txt:1213
 msgctxt "CREATURE:GIANT_GAZELLE"
@@ -19925,17 +19925,17 @@ msgstr "[NAME:거대 가젤:거대 가젤들:거대 가젤]"
 #: creature_large_tropical.txt:1214
 msgctxt "CREATURE:GIANT_GAZELLE"
 msgid "[CASTE_NAME:giant gazelle:giant gazelles:giant gazelle]"
-msgstr ""
+msgstr "[CASTE_NAME:거대 가젤:거대 가젤들:거대 가젤]"
 
 #: creature_large_tropical.txt:1215
 msgctxt "CREATURE:GIANT_GAZELLE"
 msgid "[GENERAL_CHILD_NAME:giant gazelle fawn:giant gazelle fawns]"
-msgstr ""
+msgstr "[GENERAL_CHILD_NAME:새끼 거대 가젤:새끼 거대 가젤들]"
 
 #: creature_large_tropical.txt:1216
 msgctxt "CREATURE:GIANT_GAZELLE"
 msgid "[DESCRIPTION:A huge monster in the form of a gazelle.]"
-msgstr ""
+msgstr "[DESCRIPTION:가젤의 모습을 한 거대한 괴수.]"
 
 #: creature_large_tropical.txt:1225
 msgctxt "CREATURE:GIANT_GAZELLE"
@@ -19960,7 +19960,7 @@ msgstr "[NAME:맨드릴:맨드릴들:맨드릴]"
 #: creature_large_tropical.txt:1233
 msgctxt "CREATURE:MANDRILL"
 msgid "[CASTE_NAME:mandrill:mandrills:mandrill]"
-msgstr ""
+msgstr "[CASTE_NAME:맨드릴:맨드릴들:맨드릴]"
 
 #: creature_large_tropical.txt:1247
 msgctxt "CREATURE:MANDRILL"
@@ -19995,12 +19995,12 @@ msgstr "[TLCM_NOUN:눈들:PLURAL]"
 #: creature_large_tropical.txt:1328
 msgctxt "CREATURE:MANDRILL_MAN"
 msgid "[CASTE_NAME:mandrill man:mandrill men:mandrill man]"
-msgstr ""
+msgstr "[CASTE_NAME:남성 맨드릴인간:남성 맨드릴인간들:남성 맨드릴인간]"
 
 #: creature_large_tropical.txt:1330
 msgctxt "CREATURE:MANDRILL_MAN"
 msgid "[CASTE_NAME:mandrill woman:mandrill women:mandrill woman]"
-msgstr ""
+msgstr "[CASTE_NAME:여성 맨드릴인간:여성 맨드릴인간들:여성 맨드릴인간]"
 
 #: creature_large_tropical.txt:1341
 msgctxt "CREATURE:MANDRILL_MAN"
@@ -20011,7 +20011,7 @@ msgstr "[NAME:맨드릴인간:맨드릴인간들:맨드릴인간]"
 msgctxt "CREATURE:MANDRILL_MAN"
 msgid ""
 "[DESCRIPTION:A blue-rumped person with the head and tail of a mandrill.]"
-msgstr ""
+msgstr "[DESCRIPTION:맨드릴의 머리와 꼬리를 가진 푸른 혹을 가진 사람. ]"
 
 #: creature_large_tropical.txt:1360
 msgctxt "CREATURE:GIANT_MANDRILL"
@@ -20021,12 +20021,12 @@ msgstr "[NAME:거대 맨드릴:거대 맨드릴들:거대 맨드릴]"
 #: creature_large_tropical.txt:1361
 msgctxt "CREATURE:GIANT_MANDRILL"
 msgid "[CASTE_NAME:giant mandrill:giant mandrills:giant mandrill]"
-msgstr ""
+msgstr "[CASTE_NAME:거대 맨드릴:거대 맨드릴들:거대 맨드릴]"
 
 #: creature_large_tropical.txt:1362
 msgctxt "CREATURE:GIANT_MANDRILL"
 msgid "[DESCRIPTION:A large monster in the form of a mandrill.]"
-msgstr ""
+msgstr "[DESCRIPTION:맨드릴의 모습을 한 거대한 괴수.]"
 
 #: creature_large_tropical.txt:1371
 msgctxt "CREATURE:GIANT_MANDRILL"
@@ -20051,7 +20051,7 @@ msgstr "[NAME:침팬지:침팬지들:침팬지]"
 #: creature_large_tropical.txt:1380
 msgctxt "CREATURE:CHIMPANZEE"
 msgid "[CASTE_NAME:chimpanzee:chimpanzees:chimpanzee]"
-msgstr ""
+msgstr "[CASTE_NAME:침팬지:침팬지들:침팬지]"
 
 #: creature_large_tropical.txt:1393
 msgctxt "CREATURE:CHIMPANZEE"
@@ -20883,7 +20883,7 @@ msgctxt "CREATURE:GIANT_CAMEL_1_HUMP"
 msgid ""
 "[GENERAL_CHILD_NAME:giant one-humped camel calf:giant one-humped camel "
 "calves]"
-msgstr ""
+msgstr "[GENERAL_CHILD_NAME:새끼 거대 단봉낙타:새끼 거대 단봉낙타들]"
 
 #: creature_large_tropical.txt:2745
 msgctxt "CREATURE:GIANT_CAMEL_1_HUMP"
@@ -20910,12 +20910,12 @@ msgstr "[NAME:쌍봉낙타:쌍봉낙타들:쌍봉낙타]"
 #: creature_large_tropical.txt:2762
 msgctxt "CREATURE:CAMEL_2_HUMP"
 msgid "[CASTE_NAME:two-humped camel:two-humped camels:two-humped camel]"
-msgstr ""
+msgstr "[CASTE_NAME:쌍봉낙타:쌍봉낙타들:쌍봉낙타]"
 
 #: creature_large_tropical.txt:2763
 msgctxt "CREATURE:CAMEL_2_HUMP"
 msgid "[GENERAL_CHILD_NAME:two-humped camel calf:two-humped camel calves]"
-msgstr ""
+msgstr "[GENERAL_CHILD_NAME:새끼 쌍봉낙타:새끼 쌍봉낙타들]"
 
 #: creature_large_tropical.txt:2772
 msgctxt "CREATURE:CAMEL_2_HUMP"
@@ -20935,32 +20935,32 @@ msgstr "[ATTACK_VERB:깨물음:깨물음]"
 #: creature_large_tropical.txt:2844
 msgctxt "CREATURE:CAMEL_2_HUMP"
 msgid "[STATE_NAME:ALL_SOLID:frozen two-humped camel's milk]"
-msgstr ""
+msgstr "[STATE_NAME:ALL_SOLID:얼어붙은 쌍봉낙타 젖]"
 
 #: creature_large_tropical.txt:2845
 msgctxt "CREATURE:CAMEL_2_HUMP"
 msgid "[STATE_ADJ:ALL_SOLID:frozen two-humped camel's milk]"
-msgstr ""
+msgstr "[STATE_ADJ:ALL_SOLID:얼어붙은 쌍봉낙타 젖]"
 
 #: creature_large_tropical.txt:2846
 msgctxt "CREATURE:CAMEL_2_HUMP"
 msgid "[STATE_NAME:LIQUID:two-humped camel's milk]"
-msgstr ""
+msgstr "[STATE_NAME:LIQUID:쌍봉낙타 젖]"
 
 #: creature_large_tropical.txt:2847
 msgctxt "CREATURE:CAMEL_2_HUMP"
 msgid "[STATE_ADJ:LIQUID:two-humped camel's milk]"
-msgstr ""
+msgstr "[STATE_ADJ:LIQUID:쌍봉낙타 젖]"
 
 #: creature_large_tropical.txt:2848
 msgctxt "CREATURE:CAMEL_2_HUMP"
 msgid "[STATE_NAME:GAS:boiling two-humped camel's milk]"
-msgstr ""
+msgstr "[STATE_NAME:GAS:기화된 쌍봉낙타 젖]"
 
 #: creature_large_tropical.txt:2849
 msgctxt "CREATURE:CAMEL_2_HUMP"
 msgid "[STATE_ADJ:GAS:boiling two-humped camel's milk]"
-msgstr ""
+msgstr "[STATE_ADJ:GAS:기화된 쌍봉낙타 젖]"
 
 #: creature_large_tropical.txt:2853
 msgctxt "CREATURE:CAMEL_2_HUMP"
@@ -21031,14 +21031,14 @@ msgstr "[CVCT_REPLACEMENT:쌍봉낙타인간]"
 msgctxt "CREATURE:CAMEL_2_HUMP_MAN"
 msgid ""
 "[CASTE_NAME:two-humped camel man:two-humped camel men:two-humped camel man]"
-msgstr ""
+msgstr "[CASTE_NAME:남성 쌍봉낙타인간:남성 쌍봉낙타인간들:남성 쌍봉낙타인간]"
 
 #: creature_large_tropical.txt:2892
 msgctxt "CREATURE:CAMEL_2_HUMP_MAN"
 msgid ""
 "[CASTE_NAME:two-humped camel woman:two-humped camel women:two-humped camel "
 "woman]"
-msgstr ""
+msgstr "[CASTE_NAME:여성 쌍봉낙타인간:여성 쌍봉낙타인간들:여성 쌍봉낙타인간]"
 
 #: creature_large_tropical.txt:2903
 msgctxt "CREATURE:CAMEL_2_HUMP_MAN"
@@ -21048,7 +21048,7 @@ msgstr "[NAME:쌍봉낙타인간:쌍봉낙타인간들:쌍봉낙타인간]"
 #: creature_large_tropical.txt:2904
 msgctxt "CREATURE:CAMEL_2_HUMP_MAN"
 msgid "[DESCRIPTION:A person with the head and humps of a two-humped camel.]"
-msgstr ""
+msgstr "[DESCRIPTION:쌍봉낙타의 머리와 혹을 가진 인간.]"
 
 #: creature_large_tropical.txt:2919
 msgctxt "CREATURE:GIANT_CAMEL_2_HUMP"
@@ -21058,7 +21058,7 @@ msgstr "[CVCT_TARGET:쌍봉낙타]"
 #: creature_large_tropical.txt:2920
 msgctxt "CREATURE:GIANT_CAMEL_2_HUMP"
 msgid "[CVCT_REPLACEMENT:giant two-humped camel]"
-msgstr ""
+msgstr "[CVCT_REPLACEMENT:거대 쌍봉낙타]"
 
 #: creature_large_tropical.txt:2933
 msgctxt "CREATURE:GIANT_CAMEL_2_HUMP"
@@ -21071,19 +21071,19 @@ msgctxt "CREATURE:GIANT_CAMEL_2_HUMP"
 msgid ""
 "[CASTE_NAME:giant two-humped camel:giant two-humped camels:giant two-humped "
 "camel]"
-msgstr ""
+msgstr "[CASTE_NAME:거대 쌍봉낙타:거대 쌍봉낙타들:거대 쌍봉낙타]"
 
 #: creature_large_tropical.txt:2935
 msgctxt "CREATURE:GIANT_CAMEL_2_HUMP"
 msgid ""
 "[GENERAL_CHILD_NAME:giant two-humped camel calf:giant two-humped camel "
 "calves]"
-msgstr ""
+msgstr "[GENERAL_CHILD_NAME:새끼 거대 쌍봉낙타:새끼 거대 쌍봉낙타들]"
 
 #: creature_large_tropical.txt:2936
 msgctxt "CREATURE:GIANT_CAMEL_2_HUMP"
 msgid "[DESCRIPTION:A huge monster the shape of a two-humped camel.]"
-msgstr ""
+msgstr "[DESCRIPTION:쌍봉낙타의 모습을 한 거대한 괴수.]"
 
 #: creature_large_tropical.txt:2945
 msgctxt "CREATURE:GIANT_CAMEL_2_HUMP"
@@ -21211,17 +21211,17 @@ msgstr "[NAME:독수리:독수리떼:독수리]"
 #: creature_large_tropical.txt:3111
 msgctxt "CREATURE:BIRD_VULTURE"
 msgid "[CASTE_NAME:vulture:vultures:vulture]"
-msgstr ""
+msgstr "[CASTE_NAME:독수리:독수리떼:독수리]"
 
 #: creature_large_tropical.txt:3112
 msgctxt "CREATURE:BIRD_VULTURE"
 msgid "[GENERAL_CHILD_NAME:vulture hatchling:vulture hatchlings]"
-msgstr ""
+msgstr "[GENERAL_CHILD_NAME:새끼 독수리:새끼 독수리들]"
 
 #: creature_large_tropical.txt:3136
 msgctxt "CREATURE:BIRD_VULTURE"
 msgid "[PREFSTRING:patience]"
-msgstr ""
+msgstr "[PREFSTRING:인내심]"
 
 #: creature_large_tropical.txt:3174
 msgctxt "CREATURE:BIRD_VULTURE"
@@ -21251,12 +21251,12 @@ msgstr "[TLCM_NOUN:눈들:PLURAL]"
 #: creature_large_tropical.txt:3217
 msgctxt "CREATURE:VULTURE_MAN"
 msgid "[CASTE_NAME:vulture man:vulture men:vulture man]"
-msgstr ""
+msgstr "[CASTE_NAME:남성 독수리인간:남성 독수리인간들:남성 독수리인간]"
 
 #: creature_large_tropical.txt:3219
 msgctxt "CREATURE:VULTURE_MAN"
 msgid "[CASTE_NAME:vulture woman:vulture women:vulture woman]"
-msgstr ""
+msgstr "[CASTE_NAME:여성 독수리인간:여성 독수리인간들:여성 독수리인간]"
 
 #: creature_large_tropical.txt:3231
 msgctxt "CREATURE:VULTURE_MAN"
@@ -21266,7 +21266,7 @@ msgstr "[NAME:독수리인간:독수리인간들:독수리인간]"
 #: creature_large_tropical.txt:3232
 msgctxt "CREATURE:VULTURE_MAN"
 msgid "[DESCRIPTION:A person with the head and wings of a vulture.]"
-msgstr ""
+msgstr "[DESCRIPTION:독수리의 머리와 날개를 가진 인간.]"
 
 #: creature_large_tropical.txt:3248
 msgctxt "CREATURE:GIANT_VULTURE"
@@ -21276,17 +21276,17 @@ msgstr "[NAME:거대 독수리:거대 독수리들:거대 독수리]"
 #: creature_large_tropical.txt:3249
 msgctxt "CREATURE:GIANT_VULTURE"
 msgid "[CASTE_NAME:giant vulture:giant vultures:giant vulture]"
-msgstr ""
+msgstr "[CASTE_NAME:거대 독수리:거대 독수리떼:거대 독수리]"
 
 #: creature_large_tropical.txt:3250
 msgctxt "CREATURE:GIANT_VULTURE"
 msgid "[GENERAL_CHILD_NAME:giant vulture hatchling:giant vulture hatchlings]"
-msgstr ""
+msgstr "[GENERAL_CHILD_NAME:새끼 거대 독수리:새끼 거대 독수리들]"
 
 #: creature_large_tropical.txt:3251
 msgctxt "CREATURE:GIANT_VULTURE"
 msgid "[DESCRIPTION:A huge monster in the form of a vulture.]"
-msgstr ""
+msgstr "[DESCRIPTION:독수리의 모습을 한 거대한 괴수.]"
 
 #: creature_large_tropical.txt:3260
 msgctxt "CREATURE:GIANT_VULTURE"
@@ -21444,12 +21444,12 @@ msgstr "[TLCM_NOUN:눈들:PLURAL]"
 #: creature_large_tropical.txt:3504
 msgctxt "CREATURE:GIRAFFE_MAN"
 msgid "[CASTE_NAME:giraffe man:giraffe men:giraffe man]"
-msgstr ""
+msgstr "[CASTE_NAME:남성 기린인간:남성 기린인간들:남성 기린인간]"
 
 #: creature_large_tropical.txt:3506
 msgctxt "CREATURE:GIRAFFE_MAN"
 msgid "[CASTE_NAME:giraffe woman:giraffe women:giraffe woman]"
-msgstr ""
+msgstr "[CASTE_NAME:여성 기린인간:여성 기린인간들:여성 기린인간]"
 
 #: creature_large_tropical.txt:3516
 msgctxt "CREATURE:GIRAFFE_MAN"
@@ -21459,7 +21459,7 @@ msgstr "[NAME:기린인간:기린인간들:기린인간]"
 #: creature_large_tropical.txt:3517
 msgctxt "CREATURE:GIRAFFE_MAN"
 msgid "[DESCRIPTION:A person with the head and neck of a giraffe.]"
-msgstr ""
+msgstr "[DESCRIPTION:기린의 머리와 목을 가진 인간.] "
 
 #: creature_large_tropical.txt:3537
 msgctxt "CREATURE:GIANT_GIRAFFE"
@@ -21469,22 +21469,22 @@ msgstr "[NAME:거대 기린:거대 기린들:거대 기린]"
 #: creature_large_tropical.txt:3538
 msgctxt "CREATURE:GIANT_GIRAFFE"
 msgid "[CASTE_NAME:giant giraffe:giant giraffes:giant giraffe]"
-msgstr ""
+msgstr "[CASTE_NAME:거대 기린:거대 기린들:거대 기린]"
 
 #: creature_large_tropical.txt:3539
 msgctxt "CREATURE:GIANT_GIRAFFE"
 msgid "[GENERAL_CHILD_NAME:giant giraffe calf:giant giraffe calves]"
-msgstr ""
+msgstr "[GENERAL_CHILD_NAME:새끼 거대 기린:새끼 거대 기린들]"
 
 #: creature_large_tropical.txt:3540
 msgctxt "CREATURE:GIANT_GIRAFFE"
 msgid "[DESCRIPTION:A huge monster the shape of a giraffe.]"
-msgstr ""
+msgstr "[DESCRIPTION:기린의 모습을 한 거대한 괴수.]"
 
 #: creature_large_tropical.txt:3549
 msgctxt "CREATURE:GIANT_GIRAFFE"
 msgid "[PREFSTRING:hump]"
-msgstr ""
+msgstr "[PREFSTRING:혹]"
 
 #: creature_large_tropical.txt:3554
 msgctxt "CREATURE:HONEY BADGER"
@@ -21503,12 +21503,12 @@ msgstr "[NAME:벌꿀오소리:벌꿀오소리들:벌꿀오소리]"
 #: creature_large_tropical.txt:3556
 msgctxt "CREATURE:HONEY BADGER"
 msgid "[CASTE_NAME:honey badger:honey badgers:honey badger]"
-msgstr ""
+msgstr "[CASTE_NAME:벌꿀오소리:벌꿀오소리들:벌꿀오소리]"
 
 #: creature_large_tropical.txt:3557
 msgctxt "CREATURE:HONEY BADGER"
 msgid "[GENERAL_CHILD_NAME:honey badger cub:honey badger cubs]"
-msgstr ""
+msgstr "[GENERAL_CHILD_NAME:새끼 벌꿀오소리:새끼 벌꿀오소리들]"
 
 #: creature_large_tropical.txt:3576
 msgctxt "CREATURE:HONEY BADGER"
@@ -21518,7 +21518,7 @@ msgstr ""
 #: creature_large_tropical.txt:3577
 msgctxt "CREATURE:HONEY BADGER"
 msgid "[PREFSTRING:fearlessness]"
-msgstr ""
+msgstr "[PREFSTRING:겁없는]"
 
 #: creature_large_tropical.txt:3609
 msgctxt "CREATURE:HONEY BADGER"
@@ -21553,12 +21553,12 @@ msgstr "[TLCM_NOUN:눈들:PLURAL]"
 #: creature_large_tropical.txt:3671
 msgctxt "CREATURE:HONEY BADGER MAN"
 msgid "[CASTE_NAME:honey badger man:honey badger men:honey badger man]"
-msgstr ""
+msgstr "[CASTE_NAME:남성 벌꿀오소리인간:남성 벌꿀오소리인간들:남성 벌꿀오소리인간]"
 
 #: creature_large_tropical.txt:3673
 msgctxt "CREATURE:HONEY BADGER MAN"
 msgid "[CASTE_NAME:honey badger woman:honey badger women:honey badger woman]"
-msgstr ""
+msgstr "[CASTE_NAME:여성 벌꿀오소리인간:여성 벌꿀오소리인간들:여성 벌꿀오소리인간]"
 
 #: creature_large_tropical.txt:3684
 msgctxt "CREATURE:HONEY BADGER MAN"
@@ -21568,7 +21568,7 @@ msgstr "[NAME:벌꿀오소리인간:벌꿀오소리인간들:벌꿀오소리인�
 #: creature_large_tropical.txt:3685
 msgctxt "CREATURE:HONEY BADGER MAN"
 msgid "[DESCRIPTION:A humanoid with the head and stripes of a honey badger.]"
-msgstr ""
+msgstr "[DESCRIPTION:벌꿀오소리의 머리와 줄무늬를 가진 인간형태의 생물체.]"
 
 #: creature_large_tropical.txt:3713
 msgctxt "CREATURE:HONEY BADGER, GIANT"
@@ -21578,12 +21578,12 @@ msgstr "[NAME:거대 벌꿀오소리:거대 벌꿀오소리들:거대 벌꿀오�
 #: creature_large_tropical.txt:3714
 msgctxt "CREATURE:HONEY BADGER, GIANT"
 msgid "[CASTE_NAME:giant honey badger:giant honey badgers:giant honey badger]"
-msgstr ""
+msgstr "[CASTE_NAME:거대 벌꿀오소리:거대 벌꿀오소리들:거대 벌꿀오소리]"
 
 #: creature_large_tropical.txt:3715
 msgctxt "CREATURE:HONEY BADGER, GIANT"
 msgid "[GENERAL_CHILD_NAME:giant honey badger cub:giant honey badger cubs]"
-msgstr ""
+msgstr "[GENERAL_CHILD_NAME:새끼 거대 벌꿀오소리:새끼 거대 벌꿀오소리들]"
 
 #: creature_large_tropical.txt:3716
 msgctxt "CREATURE:HONEY BADGER, GIANT"
@@ -21600,7 +21600,7 @@ msgstr "[PREFSTRING:거대한 크기]"
 #: creature_large_tropical.txt:3727
 msgctxt "CREATURE:HONEY BADGER, GIANT"
 msgid "[PREFSTRING:underground communities]"
-msgstr ""
+msgstr "[PREFSTRING:지하 커뮤니티]"
 
 #: creature_large_tropical.txt:3728
 msgctxt "CREATURE:HONEY BADGER, GIANT"
@@ -21745,12 +21745,12 @@ msgstr ""
 #: creature_large_tropical.txt:3956
 msgctxt "CREATURE:ARMADILLO"
 msgid "[CASTE_NAME:armadillo sow:armadillo sows:armadillo sow]"
-msgstr ""
+msgstr "[CASTE_NAME:암컷 아르마딜로:암컷 아르마딜로들:암컷 아르마딜로]"
 
 #: creature_large_tropical.txt:3960
 msgctxt "CREATURE:ARMADILLO"
 msgid "[CASTE_NAME:armadillo boar:armadillo boars:armadillo boar]"
-msgstr ""
+msgstr "[CASTE_NAME:수컷 아르마딜로:수컷 아르마딜로들:수컷 아르마딜로]"
 
 #: creature_large_tropical.txt:3966
 msgctxt "CREATURE:ARMADILLO"
@@ -21770,12 +21770,12 @@ msgstr "[TLCM_NOUN:눈들:PLURAL]"
 #: creature_large_tropical.txt:3979
 msgctxt "CREATURE:ARMADILLO MAN"
 msgid "[CASTE_NAME:armadillo man:armadillo men:armadillo man]"
-msgstr ""
+msgstr "[CASTE_NAME:남성 아르마딜로인간:남성 아르마딜로인간들:남성 아르마딜로인간]"
 
 #: creature_large_tropical.txt:3981
 msgctxt "CREATURE:ARMADILLO MAN"
 msgid "[CASTE_NAME:armadillo woman:armadillo women:armadillo woman]"
-msgstr ""
+msgstr "[CASTE_NAME:여성 아르마딜로인간:여성 아르마딜로인간들:여성 아르마딜로인간]"
 
 #: creature_large_tropical.txt:3991
 msgctxt "CREATURE:ARMADILLO MAN"
@@ -21785,7 +21785,7 @@ msgstr "[NAME:아르마딜로인간:아르마딜로인간들:아르마딜로인�
 #: creature_large_tropical.txt:3992
 msgctxt "CREATURE:ARMADILLO MAN"
 msgid "[DESCRIPTION:A person with the hide and head of an armadillo.]"
-msgstr ""
+msgstr "[DESCRIPTION:아르마딜로의 머리와 가죽을 가진 인간.]"
 
 #: creature_large_tropical.txt:4007
 msgctxt "CREATURE:ARMADILLO, GIANT"
@@ -21795,7 +21795,7 @@ msgstr "[NAME:거대 아르마딜로:거대 아르마딜로들:거대 아르마�
 #: creature_large_tropical.txt:4008
 msgctxt "CREATURE:ARMADILLO, GIANT"
 msgid "[GENERAL_CHILD_NAME:giant armadillo pup:giant armadillo pups]"
-msgstr ""
+msgstr "[GENERAL_CHILD_NAME:새끼 거대 아르마딜로:새끼 거대 아르마딜로들]"
 
 #: creature_large_tropical.txt:4009
 msgctxt "CREATURE:ARMADILLO, GIANT"
@@ -21808,13 +21808,13 @@ msgstr "[DESCRIPTION:아르마딜로의 모습을 한 거대한 괴수. 피부�
 msgctxt "CREATURE:ARMADILLO, GIANT"
 msgid ""
 "[CASTE_NAME:giant armadillo boar:giant armadillo boars:giant armadillo boar]"
-msgstr ""
+msgstr "[CASTE_NAME:수컷 거대 아르마딜로:수컷 거대 아르마딜로들:수컷 거대 아르마딜로]"
 
 #: creature_large_tropical.txt:4020
 msgctxt "CREATURE:ARMADILLO, GIANT"
 msgid ""
 "[CASTE_NAME:giant armadillo sow:giant armadillo sows:giant armadillo sow]"
-msgstr ""
+msgstr "[CASTE_NAME:암컷 거대 아르마딜로:암컷 거대 아르마딜로들:암컷 거대 아르마딜로]"
 
 #: creature_large_tropical.txt:4022
 msgctxt "CREATURE:ARMADILLO, GIANT"
@@ -21831,17 +21831,17 @@ msgstr "[DESCRIPTION:굽은 뿔과 두꺼운 갈색 털을 가진 큰 발굽 동
 #: creature_large_tundra.txt:7
 msgctxt "CREATURE:MUSKOX"
 msgid "[NAME:muskox:muskoxen:muskox]"
-msgstr ""
+msgstr "[NAME:사향소:사향소떼:사향소]"
 
 #: creature_large_tundra.txt:8
 msgctxt "CREATURE:MUSKOX"
 msgid "[CASTE_NAME:muskox:muskoxen:muskox]"
-msgstr ""
+msgstr "[CASTE_NAME:사향소:사향소떼:사향소]"
 
 #: creature_large_tundra.txt:9
 msgctxt "CREATURE:MUSKOX"
 msgid "[GENERAL_CHILD_NAME:muskox calf:muskox calves]"
-msgstr ""
+msgstr "[GENERAL_CHILD_NAME:새끼 사향소:새끼 사향소들]"
 
 #: creature_large_tundra.txt:12
 msgctxt "CREATURE:MUSKOX"
@@ -21876,42 +21876,42 @@ msgstr "[TLCM_NOUN:눈들:PLURAL]"
 #: creature_large_tundra.txt:118
 msgctxt "CREATURE:MUSKOX_MAN"
 msgid "[CASTE_NAME:muskox man:muskox men:muskox man]"
-msgstr ""
+msgstr "[CASTE_NAME:남성 사향소인간:남성 사향소인간들:남성 사향소인간]"
 
 #: creature_large_tundra.txt:120
 msgctxt "CREATURE:MUSKOX_MAN"
 msgid "[CASTE_NAME:muskox woman:muskox women:muskox woman]"
-msgstr ""
+msgstr "[CASTE_NAME:여성 사향소인간:여성 사향소인간들:여성 사향소인간]"
 
 #: creature_large_tundra.txt:130
 msgctxt "CREATURE:MUSKOX_MAN"
 msgid "[NAME:muskox man:muskox men:muskox man]"
-msgstr ""
+msgstr "[NAME:사향소인간:사향소인간들:사향소인간]"
 
 #: creature_large_tundra.txt:131
 msgctxt "CREATURE:MUSKOX_MAN"
 msgid "[DESCRIPTION:A horned person with the head of a muskox.]"
-msgstr ""
+msgstr "[DESCRIPTION:사향소의 머리와 뿔을 가진 인간.]"
 
 #: creature_large_tundra.txt:147
 msgctxt "CREATURE:GIANT_MUSKOX"
 msgid "[NAME:giant muskox:giant muskoxen:giant muskox]"
-msgstr ""
+msgstr "[NAME:거대 사향소:거대 사향소떼:거대 사향소]"
 
 #: creature_large_tundra.txt:148
 msgctxt "CREATURE:GIANT_MUSKOX"
 msgid "[CASTE_NAME:giant muskox:giant muskoxen:giant muskox]"
-msgstr ""
+msgstr "[CASTE_NAME:거대 사향소:거대 사향소떼:거대 사향소]"
 
 #: creature_large_tundra.txt:149
 msgctxt "CREATURE:GIANT_MUSKOX"
 msgid "[GENERAL_CHILD_NAME:giant muskox calf:giant muskox calves]"
-msgstr ""
+msgstr "[GENERAL_CHILD_NAME:새끼 거대 사향소:새끼 거대 사향소들]"
 
 #: creature_large_tundra.txt:150
 msgctxt "CREATURE:GIANT_MUSKOX"
 msgid "[DESCRIPTION:A huge monster in the form of a muskox.]"
-msgstr ""
+msgstr "[DESCRIPTION:사향소의 모습을 한 거대한 괴수.]"
 
 #: creature_large_tundra.txt:159
 msgctxt "CREATURE:GIANT_MUSKOX"
@@ -23753,7 +23753,7 @@ msgctxt "CREATURE:CAVE_FLOATER"
 msgid ""
 "[CDI:VERB:spray a stream of steaming juice:sprays a stream of steaming "
 "juice:NA]"
-msgstr ""
+msgstr "[CDI:VERB:김이 모락모락 나는 즙을 뿌리다:김이 모락모락 나는 즙을 뿌리다:NA]"
 
 #: creature_next_underground.txt:2404
 msgctxt "CREATURE:CAVE_FLOATER"
@@ -23958,7 +23958,7 @@ msgstr "[NAME:문어:문어들:문어]"
 #: creature_ocean_new.txt:14
 msgctxt "CREATURE:OCTOPUS"
 msgid "[CASTE_NAME:octopus:octopuses:octopus]"
-msgstr ""
+msgstr "[CASTE_NAME:문어:문어들:문어]"
 
 #: creature_ocean_new.txt:25
 msgctxt "CREATURE:OCTOPUS"
@@ -24013,7 +24013,7 @@ msgstr ""
 #: creature_ocean_new.txt:79
 msgctxt "CREATURE:OCTOPUS"
 msgid "[CDI:VERB:squirt ink:squirts ink:NA]"
-msgstr ""
+msgstr "[CDI:VERB:먹물을 뿌리다:먹물을 뿌리다:NA]"
 
 #: creature_ocean_new.txt:95
 msgctxt "CREATURE:OCTOPUS"
@@ -24033,12 +24033,12 @@ msgstr "[CVCT_REPLACEMENT:문어인간]"
 #: creature_ocean_new.txt:111
 msgctxt "CREATURE:OCTOPUS_MAN"
 msgid "[CASTE_NAME:octopus man:octopus men:octopus man]"
-msgstr ""
+msgstr "[CASTE_NAME:남성 문어인간:남성 문어인간들:남성 문어인간]"
 
 #: creature_ocean_new.txt:113
 msgctxt "CREATURE:OCTOPUS_MAN"
 msgid "[CASTE_NAME:octopus woman:octopus women:octopus woman]"
-msgstr ""
+msgstr "[CASTE_NAME:여성 문어인간:여성 문어인간들:여성 문어인간]"
 
 #: creature_ocean_new.txt:123
 msgctxt "CREATURE:OCTOPUS_MAN"
@@ -24048,7 +24048,7 @@ msgstr "[NAME:문어인간:문어인간들:문어인간]"
 #: creature_ocean_new.txt:124
 msgctxt "CREATURE:OCTOPUS_MAN"
 msgid "[DESCRIPTION:A person with an octopus in place of a head.]"
-msgstr ""
+msgstr "[DESCRIPTION:머리위치에 문어가 있는 인간.]"
 
 #: creature_ocean_new.txt:135
 msgctxt "CREATURE:GIANT_OCTOPUS"
@@ -24218,7 +24218,7 @@ msgstr ""
 #: creature_ocean_new.txt:365
 msgctxt "CREATURE:LEOPARD_SEAL_MAN"
 msgid "[CASTE_NAME:leopard seal woman:leopard seal women:leopard seal woman]"
-msgstr ""
+msgstr "[CASTE_NAME:여성 얼룩무늬물범인간:여성 얼룩무늬물범인간들:여성 얼룩무늬물범인간]"
 
 #: creature_ocean_new.txt:374
 msgctxt "CREATURE:LEOPARD_SEAL_MAN"
@@ -24327,7 +24327,7 @@ msgstr "[CDI:ADV_NAME:오징어 잉크]"
 #: creature_ocean_new.txt:481
 msgctxt "CREATURE:CUTTLEFISH"
 msgid "[CDI:VERB:squirt ink:squirts ink:NA]"
-msgstr ""
+msgstr "[CDI:VERB:먹물을 뿌리다:먹물을 뿌리다:NA]"
 
 #: creature_ocean_new.txt:498
 msgctxt "CREATURE:CUTTLEFISH"
@@ -26786,12 +26786,12 @@ msgstr "[NAME:고슴도치:고슴도치들:고슴도치]"
 #: creature_small_mammal_new.txt:154
 msgctxt "CREATURE:HEDGEHOG"
 msgid "[CASTE_NAME:hedgehog:hedgehogs:hedgehog]"
-msgstr ""
+msgstr "[CASTE_NAME:고슴도치:고슴도치들:고슴도치]"
 
 #: creature_small_mammal_new.txt:166
 msgctxt "CREATURE:HEDGEHOG"
 msgid "[PREFSTRING:many spines]"
-msgstr ""
+msgstr "[PREFSTRING:많은 가시들]"
 
 #: creature_small_mammal_new.txt:171
 msgctxt "CREATURE:HEDGEHOG"
@@ -26823,7 +26823,7 @@ msgstr ""
 #: creature_small_mammal_new.txt:223
 msgctxt "CREATURE:HEDGEHOG"
 msgid "[ROOT_AROUND:BY_CATEGORY:NOSE:root around in:roots around in]"
-msgstr ""
+msgstr "[ROOT_AROUND:BY_CATEGORY:NOSE:주변을 헤집는다:주변을 헤집는다]"
 
 #: creature_small_mammal_new.txt:236
 msgctxt "CREATURE:HEDGEHOG"
@@ -26843,12 +26843,12 @@ msgstr "[TLCM_NOUN:눈들:PLURAL]"
 #: creature_small_mammal_new.txt:249
 msgctxt "CREATURE:HEDGEHOG_MAN"
 msgid "[CASTE_NAME:hedgehog man:hedgehog men:hedgehog man]"
-msgstr ""
+msgstr "[CASTE_NAME:남성 고슴도치인간:남성 고슴도치인간들:남성 고슴도치인간]"
 
 #: creature_small_mammal_new.txt:251
 msgctxt "CREATURE:HEDGEHOG_MAN"
 msgid "[CASTE_NAME:hedgehog woman:hedgehog women:hedgehog woman]"
-msgstr ""
+msgstr "[CASTE_NAME:여성 고슴도치인간:여성 고슴도치인간들:여성 고슴도치인간]"
 
 #: creature_small_mammal_new.txt:262
 msgctxt "CREATURE:HEDGEHOG_MAN"
@@ -26868,7 +26868,7 @@ msgstr "[NAME:거대 고슴도치:거대 고슴도치들:거대 고슴도치]"
 #: creature_small_mammal_new.txt:282
 msgctxt "CREATURE:GIANT_HEDGEHOG"
 msgid "[CASTE_NAME:giant hedgehog:giant hedgehogs:giant hedgehog]"
-msgstr ""
+msgstr "[CASTE_NAME:거대 고슴도치:거대 고슴도치들:거대 고슴도치]"
 
 #: creature_small_mammal_new.txt:283
 msgctxt "CREATURE:GIANT_HEDGEHOG"
@@ -27613,7 +27613,7 @@ msgstr "[CASTE_NAME:대서양홍어:대서양홍어들:대서양홍어]"
 #: creature_small_ocean.txt:478
 msgctxt "CREATURE:FISH_RAY_THORNBACK"
 msgid "[PREFSTRING:back spines]"
-msgstr "[PREFSTRING:등뼈]"
+msgstr "[PREFSTRING:등가시]"
 
 #: creature_small_ocean.txt:511
 msgctxt "CREATURE:FISH_RAY_THORNBACK"
@@ -27864,7 +27864,7 @@ msgstr ""
 #: creature_small_ocean.txt:979
 msgctxt "CREATURE:FISH_SEAHORSE"
 msgid "[PREFSTRING:unusual shape]"
-msgstr ""
+msgstr "[PREFSTRING:특이한 모양]"
 
 #: creature_small_ocean.txt:1010
 msgctxt "CREATURE:FISH_SEAHORSE"
@@ -27974,7 +27974,7 @@ msgstr ""
 #: creature_small_ocean.txt:1179
 msgctxt "CREATURE:FISH_SOLE"
 msgid "[PREFSTRING:flat bodies]"
-msgstr ""
+msgstr "[PREFSTRING:납작한 몸]"
 
 #: creature_small_ocean.txt:1216
 msgctxt "CREATURE:FISH_SOLE"
@@ -28011,7 +28011,7 @@ msgstr ""
 #: creature_small_ocean.txt:1249
 msgctxt "CREATURE:FISH_FLOUNDER"
 msgid "[PREFSTRING:strange eyes]"
-msgstr ""
+msgstr "[PREFSTRING:이상한 눈]"
 
 #: creature_small_ocean.txt:1286
 msgctxt "CREATURE:FISH_FLOUNDER"
@@ -28156,7 +28156,7 @@ msgstr "[CDI:ADV_NAME:오징어 잉크]"
 #: creature_small_ocean.txt:1496
 msgctxt "CREATURE:SQUID"
 msgid "[CDI:VERB:squirt ink:squirts ink:NA]"
-msgstr ""
+msgstr "[CDI:VERB:먹물을 뿌리다:먹물을 뿌리다:NA]"
 
 #: creature_small_ocean.txt:1512
 msgctxt "CREATURE:SQUID"
@@ -28191,7 +28191,7 @@ msgstr "[NAME:오징어인간:오징어인간들:오징어인간]"
 #: creature_small_ocean.txt:1541
 msgctxt "CREATURE:SQUID MAN"
 msgid "[DESCRIPTION:A small person with a head bearing ten tentacles.]"
-msgstr ""
+msgstr "[DESCRIPTION:10개의 촉수가 있는 머리를 가진 작은 사람.]"
 
 #: creature_small_ocean.txt:1552
 msgctxt "CREATURE:GIGANTIC SQUID"
@@ -28478,7 +28478,7 @@ msgctxt "CREATURE:FISH_TROUT_RAINBOW"
 msgid ""
 "[DESCRIPTION:A medium-sized spotted fish found in temperate rivers and "
 "lakes.]"
-msgstr ""
+msgstr "[DESCRIPTION:온대 강과 호수에서 발견되는 중간 크기의 점박이 물고기.]"
 
 #: creature_small_riverlake.txt:514
 msgctxt "CREATURE:FISH_TROUT_RAINBOW"
@@ -28488,7 +28488,7 @@ msgstr "[NAME:무지개송어:무지개송어떼:무지개송어]"
 #: creature_small_riverlake.txt:515
 msgctxt "CREATURE:FISH_TROUT_RAINBOW"
 msgid "[CASTE_NAME:rainbow trout:rainbow trout:rainbow trout]"
-msgstr ""
+msgstr "[CASTE_NAME:무지개송어:무지개송어떼:무지개송어]"
 
 #: creature_small_riverlake.txt:524
 msgctxt "CREATURE:FISH_TROUT_RAINBOW"
@@ -28530,7 +28530,7 @@ msgstr ""
 #: creature_small_riverlake.txt:599
 msgctxt "CREATURE:FISH_MOLLY_SAILFIN"
 msgid "[PREFSTRING:wide dorsal fins]"
-msgstr ""
+msgstr "[PREFSTRING:넓은 등지느러미]"
 
 #: creature_small_riverlake.txt:635
 msgctxt "CREATURE:FISH_MOLLY_SAILFIN"
@@ -28585,7 +28585,7 @@ msgstr "[TLCM_NOUN:눈들:PLURAL]"
 #: creature_small_riverlake.txt:734
 msgctxt "CREATURE:FISH_PERCH"
 msgid "[DESCRIPTION:A small striped fish found in fresh water.]"
-msgstr ""
+msgstr "[DESCRIPTION:민물에서 발견된 작은 줄무늬 물고기입니다.]"
 
 #: creature_small_riverlake.txt:735
 msgctxt "CREATURE:FISH_PERCH"
@@ -28630,12 +28630,12 @@ msgstr "[NAME:드워프:드워프들:드워븐]"
 #: creature_standard.txt:8
 msgctxt "CREATURE:DWARF"
 msgid "[CASTE_NAME:dwarf:dwarves:dwarven]"
-msgstr ""
+msgstr "[CASTE_NAME:드워프:드워프들:드워프]"
 
 #: creature_standard.txt:20
 msgctxt "CREATURE:DWARF"
 msgid "[PREFSTRING:beards]"
-msgstr ""
+msgstr "[PREFSTRING:수염]"
 
 #: creature_standard.txt:95
 msgctxt "CREATURE:DWARF"
@@ -28705,22 +28705,22 @@ msgstr "[ATTACK_VERB:깨물음:깨물음]"
 #: creature_standard.txt:261
 msgctxt "CREATURE:DWARF"
 msgid "[GENERAL_BABY_NAME:dwarven baby:dwarven babies]"
-msgstr ""
+msgstr "[GENERAL_BABY_NAME:드워프 아기:드워프 아기들]"
 
 #: creature_standard.txt:262
 msgctxt "CREATURE:DWARF"
 msgid "[BABYNAME:dwarven baby:dwarven babies]"
-msgstr ""
+msgstr "[BABYNAME:드워프 아기:드워프 아기들]"
 
 #: creature_standard.txt:264
 msgctxt "CREATURE:DWARF"
 msgid "[GENERAL_CHILD_NAME:dwarven child:dwarven children]"
-msgstr ""
+msgstr "[GENERAL_CHILD_NAME:드워프 아이:드워프 아이들]"
 
 #: creature_standard.txt:265
 msgctxt "CREATURE:DWARF"
 msgid "[CHILDNAME:dwarven child:dwarven children]"
-msgstr ""
+msgstr "[CHILDNAME:드워프 아이:드워프 아이들]"
 
 #: creature_standard.txt:274
 msgctxt "CREATURE:DWARF"
@@ -28786,42 +28786,42 @@ msgstr ""
 #: creature_standard.txt:300
 msgctxt "CREATURE:DWARF"
 msgid "[MANNERISM_FINGERS:finger:fingers]"
-msgstr ""
+msgstr "[MANNERISM_FINGERS:손가락:손가락들]"
 
 #: creature_standard.txt:301
 msgctxt "CREATURE:DWARF"
 msgid "[MANNERISM_NOSE:nose]"
-msgstr ""
+msgstr "[MANNERISM_NOSE:코]"
 
 #: creature_standard.txt:302
 msgctxt "CREATURE:DWARF"
 msgid "[MANNERISM_EAR:ear]"
-msgstr ""
+msgstr "[MANNERISM_EAR:귀]"
 
 #: creature_standard.txt:303
 msgctxt "CREATURE:DWARF"
 msgid "[MANNERISM_HEAD:head]"
-msgstr ""
+msgstr "[MANNERISM_HEAD:머리]"
 
 #: creature_standard.txt:304
 msgctxt "CREATURE:DWARF"
 msgid "[MANNERISM_EYES:eyes]"
-msgstr ""
+msgstr "[MANNERISM_EYES:양 눈]"
 
 #: creature_standard.txt:305
 msgctxt "CREATURE:DWARF"
 msgid "[MANNERISM_MOUTH:mouth]"
-msgstr ""
+msgstr "[MANNERISM_MOUTH:입]"
 
 #: creature_standard.txt:306
 msgctxt "CREATURE:DWARF"
 msgid "[MANNERISM_HAIR:hair]"
-msgstr ""
+msgstr "[MANNERISM_HAIR:머리카락]"
 
 #: creature_standard.txt:307
 msgctxt "CREATURE:DWARF"
 msgid "[MANNERISM_KNUCKLES:knuckles]"
-msgstr ""
+msgstr "[MANNERISM_KNUCKLES:손가락 관절]"
 
 #: creature_standard.txt:308
 msgctxt "CREATURE:DWARF"
@@ -28831,17 +28831,17 @@ msgstr "[MANNERISM_LIPS:입술]"
 #: creature_standard.txt:309
 msgctxt "CREATURE:DWARF"
 msgid "[MANNERISM_CHEEK:cheek]"
-msgstr ""
+msgstr "[MANNERISM_CHEEK:뺨]"
 
 #: creature_standard.txt:310
 msgctxt "CREATURE:DWARF"
 msgid "[MANNERISM_NAILS:nails]"
-msgstr ""
+msgstr "[MANNERISM_NAILS:손톱]"
 
 #: creature_standard.txt:311
 msgctxt "CREATURE:DWARF"
 msgid "[MANNERISM_FEET:feet]"
-msgstr ""
+msgstr "[MANNERISM_FEET:양 발]"
 
 #: creature_standard.txt:312
 msgctxt "CREATURE:DWARF"
@@ -28851,17 +28851,17 @@ msgstr "[MANNERISM_ARMS:팔]"
 #: creature_standard.txt:313
 msgctxt "CREATURE:DWARF"
 msgid "[MANNERISM_HANDS:hands]"
-msgstr ""
+msgstr "[MANNERISM_HANDS:양 손]"
 
 #: creature_standard.txt:314
 msgctxt "CREATURE:DWARF"
 msgid "[MANNERISM_TONGUE:tongue]"
-msgstr ""
+msgstr "[MANNERISM_TONGUE:혀]"
 
 #: creature_standard.txt:315
 msgctxt "CREATURE:DWARF"
 msgid "[MANNERISM_LEG:leg]"
-msgstr ""
+msgstr "[MANNERISM_LEG:다리]"
 
 #: creature_standard.txt:356
 msgctxt "CREATURE:DWARF"
@@ -28891,7 +28891,7 @@ msgstr "[TSU_NOUN:털:SINGULAR]"
 #: creature_standard.txt:414
 msgctxt "CREATURE:DWARF"
 msgid "[TSU_NOUN:beard:SINGULAR]"
-msgstr ""
+msgstr "[TSU_NOUN:수염:SINGULAR]"
 
 #: creature_standard.txt:418
 msgctxt "CREATURE:DWARF"
@@ -28931,7 +28931,7 @@ msgstr "[NAME:인간:인간들:인간]"
 #: creature_standard.txt:453
 msgctxt "CREATURE:HUMAN"
 msgid "[CASTE_NAME:human:humans:human]"
-msgstr ""
+msgstr "[CASTE_NAME:인간:인간들:인간]"
 
 #: creature_standard.txt:461
 msgctxt "CREATURE:HUMAN"
@@ -29006,42 +29006,42 @@ msgstr "[ATTACK_VERB:깨물음:깨물음]"
 #: creature_standard.txt:628
 msgctxt "CREATURE:HUMAN"
 msgid "[MANNERISM_FINGERS:finger:fingers]"
-msgstr ""
+msgstr "[MANNERISM_FINGERS:손가락:손가락들]"
 
 #: creature_standard.txt:629
 msgctxt "CREATURE:HUMAN"
 msgid "[MANNERISM_NOSE:nose]"
-msgstr ""
+msgstr "[MANNERISM_NOSE:코]"
 
 #: creature_standard.txt:630
 msgctxt "CREATURE:HUMAN"
 msgid "[MANNERISM_EAR:ear]"
-msgstr ""
+msgstr "[MANNERISM_EAR:귀]"
 
 #: creature_standard.txt:631
 msgctxt "CREATURE:HUMAN"
 msgid "[MANNERISM_HEAD:head]"
-msgstr ""
+msgstr "[MANNERISM_HEAD:머리]"
 
 #: creature_standard.txt:632
 msgctxt "CREATURE:HUMAN"
 msgid "[MANNERISM_EYES:eyes]"
-msgstr ""
+msgstr "[MANNERISM_EYES:양 눈]"
 
 #: creature_standard.txt:633
 msgctxt "CREATURE:HUMAN"
 msgid "[MANNERISM_MOUTH:mouth]"
-msgstr ""
+msgstr "[MANNERISM_MOUTH:입]"
 
 #: creature_standard.txt:634
 msgctxt "CREATURE:HUMAN"
 msgid "[MANNERISM_HAIR:hair]"
-msgstr ""
+msgstr "[MANNERISM_HAIR:머리카락]"
 
 #: creature_standard.txt:635
 msgctxt "CREATURE:HUMAN"
 msgid "[MANNERISM_KNUCKLES:knuckles]"
-msgstr ""
+msgstr "[MANNERISM_KNUCKLES:손가락 관절]"
 
 #: creature_standard.txt:636
 msgctxt "CREATURE:HUMAN"
@@ -29051,17 +29051,17 @@ msgstr "[MANNERISM_LIPS:입술]"
 #: creature_standard.txt:637
 msgctxt "CREATURE:HUMAN"
 msgid "[MANNERISM_CHEEK:cheek]"
-msgstr ""
+msgstr "[MANNERISM_CHEEK:뺨]"
 
 #: creature_standard.txt:638
 msgctxt "CREATURE:HUMAN"
 msgid "[MANNERISM_NAILS:nails]"
-msgstr ""
+msgstr "[MANNERISM_NAILS:손톱]"
 
 #: creature_standard.txt:639
 msgctxt "CREATURE:HUMAN"
 msgid "[MANNERISM_FEET:feet]"
-msgstr ""
+msgstr "[MANNERISM_FEET:양 발]"
 
 #: creature_standard.txt:640
 msgctxt "CREATURE:HUMAN"
@@ -29071,17 +29071,17 @@ msgstr "[MANNERISM_ARMS:팔]"
 #: creature_standard.txt:641
 msgctxt "CREATURE:HUMAN"
 msgid "[MANNERISM_HANDS:hands]"
-msgstr ""
+msgstr "[MANNERISM_HANDS:양 손]"
 
 #: creature_standard.txt:642
 msgctxt "CREATURE:HUMAN"
 msgid "[MANNERISM_TONGUE:tongue]"
-msgstr ""
+msgstr "[MANNERISM_TONGUE:혀]"
 
 #: creature_standard.txt:643
 msgctxt "CREATURE:HUMAN"
 msgid "[MANNERISM_LEG:leg]"
-msgstr ""
+msgstr "[MANNERISM_LEG:다리]"
 
 #: creature_standard.txt:670
 msgctxt "CREATURE:HUMAN"
@@ -29111,7 +29111,7 @@ msgstr "[TSU_NOUN:털:SINGULAR]"
 #: creature_standard.txt:712
 msgctxt "CREATURE:HUMAN"
 msgid "[TSU_NOUN:beard:SINGULAR]"
-msgstr ""
+msgstr "[TSU_NOUN:수염:SINGULAR]"
 
 #: creature_standard.txt:715
 msgctxt "CREATURE:HUMAN"
@@ -29153,7 +29153,7 @@ msgstr "[NAME:엘프:엘프들:엘븐]"
 #: creature_standard.txt:733
 msgctxt "CREATURE:ELF"
 msgid "[CASTE_NAME:elf:elves:elven]"
-msgstr ""
+msgstr "[CASTE_NAME:엘프:엘프들:엘프]"
 
 #: creature_standard.txt:740
 msgctxt "CREATURE:ELF"
@@ -29228,42 +29228,42 @@ msgstr "[ATTACK_VERB:깨물음:깨물음]"
 #: creature_standard.txt:929
 msgctxt "CREATURE:ELF"
 msgid "[MANNERISM_FINGERS:finger:fingers]"
-msgstr ""
+msgstr "[MANNERISM_FINGERS:손가락:손가락들]"
 
 #: creature_standard.txt:930
 msgctxt "CREATURE:ELF"
 msgid "[MANNERISM_NOSE:nose]"
-msgstr ""
+msgstr "[MANNERISM_NOSE:코]"
 
 #: creature_standard.txt:931
 msgctxt "CREATURE:ELF"
 msgid "[MANNERISM_EAR:ear]"
-msgstr ""
+msgstr "[MANNERISM_EAR:귀]"
 
 #: creature_standard.txt:932
 msgctxt "CREATURE:ELF"
 msgid "[MANNERISM_HEAD:head]"
-msgstr ""
+msgstr "[MANNERISM_HEAD:머리]"
 
 #: creature_standard.txt:933
 msgctxt "CREATURE:ELF"
 msgid "[MANNERISM_EYES:eyes]"
-msgstr ""
+msgstr "[MANNERISM_EYES:양 눈]"
 
 #: creature_standard.txt:934
 msgctxt "CREATURE:ELF"
 msgid "[MANNERISM_MOUTH:mouth]"
-msgstr ""
+msgstr "[MANNERISM_MOUTH:입]"
 
 #: creature_standard.txt:935
 msgctxt "CREATURE:ELF"
 msgid "[MANNERISM_HAIR:hair]"
-msgstr ""
+msgstr "[MANNERISM_HAIR:머리카락]"
 
 #: creature_standard.txt:936
 msgctxt "CREATURE:ELF"
 msgid "[MANNERISM_KNUCKLES:knuckles]"
-msgstr ""
+msgstr "[MANNERISM_KNUCKLES:손가락 관절]"
 
 #: creature_standard.txt:937
 msgctxt "CREATURE:ELF"
@@ -29273,17 +29273,17 @@ msgstr "[MANNERISM_LIPS:입술]"
 #: creature_standard.txt:938
 msgctxt "CREATURE:ELF"
 msgid "[MANNERISM_CHEEK:cheek]"
-msgstr ""
+msgstr "[MANNERISM_CHEEK:뺨]"
 
 #: creature_standard.txt:939
 msgctxt "CREATURE:ELF"
 msgid "[MANNERISM_NAILS:nails]"
-msgstr ""
+msgstr "[MANNERISM_NAILS:손톱]"
 
 #: creature_standard.txt:940
 msgctxt "CREATURE:ELF"
 msgid "[MANNERISM_FEET:feet]"
-msgstr ""
+msgstr "[MANNERISM_FEET:양 발]"
 
 #: creature_standard.txt:941
 msgctxt "CREATURE:ELF"
@@ -29293,17 +29293,17 @@ msgstr "[MANNERISM_ARMS:팔]"
 #: creature_standard.txt:942
 msgctxt "CREATURE:ELF"
 msgid "[MANNERISM_HANDS:hands]"
-msgstr ""
+msgstr "[MANNERISM_HANDS:양 손]"
 
 #: creature_standard.txt:943
 msgctxt "CREATURE:ELF"
 msgid "[MANNERISM_TONGUE:tongue]"
-msgstr ""
+msgstr "[MANNERISM_TONGUE:혀]"
 
 #: creature_standard.txt:944
 msgctxt "CREATURE:ELF"
 msgid "[MANNERISM_LEG:leg]"
-msgstr ""
+msgstr "[MANNERISM_LEG:다리]"
 
 #: creature_standard.txt:970
 msgctxt "CREATURE:ELF"
@@ -29333,7 +29333,7 @@ msgstr "[TSU_NOUN:털:SINGULAR]"
 #: creature_standard.txt:994
 msgctxt "CREATURE:ELF"
 msgid "[TSU_NOUN:beard:SINGULAR]"
-msgstr ""
+msgstr "[TSU_NOUN:수염:SINGULAR]"
 
 #: creature_standard.txt:997
 msgctxt "CREATURE:ELF"
@@ -29369,7 +29369,7 @@ msgstr "[NAME:고블린:고블린들:고블린]"
 #: creature_standard.txt:1011
 msgctxt "CREATURE:GOBLIN"
 msgid "[CASTE_NAME:goblin:goblins:goblin]"
-msgstr ""
+msgstr "[CASTE_NAME:고블린:고블린들:고블린]"
 
 #: creature_standard.txt:1019
 msgctxt "CREATURE:GOBLIN"
@@ -29444,42 +29444,42 @@ msgstr "[ATTACK_VERB:깨물음:깨물음]"
 #: creature_standard.txt:1204
 msgctxt "CREATURE:GOBLIN"
 msgid "[MANNERISM_FINGERS:finger:fingers]"
-msgstr ""
+msgstr "[MANNERISM_FINGERS:손가락:손가락들]"
 
 #: creature_standard.txt:1205
 msgctxt "CREATURE:GOBLIN"
 msgid "[MANNERISM_NOSE:nose]"
-msgstr ""
+msgstr "[MANNERISM_NOSE:코]"
 
 #: creature_standard.txt:1206
 msgctxt "CREATURE:GOBLIN"
 msgid "[MANNERISM_EAR:ear]"
-msgstr ""
+msgstr "[MANNERISM_EAR:귀]"
 
 #: creature_standard.txt:1207
 msgctxt "CREATURE:GOBLIN"
 msgid "[MANNERISM_HEAD:head]"
-msgstr ""
+msgstr "[MANNERISM_HEAD:머리]"
 
 #: creature_standard.txt:1208
 msgctxt "CREATURE:GOBLIN"
 msgid "[MANNERISM_EYES:eyes]"
-msgstr ""
+msgstr "[MANNERISM_EYES:양 눈]"
 
 #: creature_standard.txt:1209
 msgctxt "CREATURE:GOBLIN"
 msgid "[MANNERISM_MOUTH:mouth]"
-msgstr ""
+msgstr "[MANNERISM_MOUTH:입]"
 
 #: creature_standard.txt:1210
 msgctxt "CREATURE:GOBLIN"
 msgid "[MANNERISM_HAIR:hair]"
-msgstr ""
+msgstr "[MANNERISM_HAIR:머리카락]"
 
 #: creature_standard.txt:1211
 msgctxt "CREATURE:GOBLIN"
 msgid "[MANNERISM_KNUCKLES:knuckles]"
-msgstr ""
+msgstr "[MANNERISM_KNUCKLES:손가락 관절]"
 
 #: creature_standard.txt:1212
 msgctxt "CREATURE:GOBLIN"
@@ -29489,17 +29489,17 @@ msgstr "[MANNERISM_LIPS:입술]"
 #: creature_standard.txt:1213
 msgctxt "CREATURE:GOBLIN"
 msgid "[MANNERISM_CHEEK:cheek]"
-msgstr ""
+msgstr "[MANNERISM_CHEEK:뺨]"
 
 #: creature_standard.txt:1214
 msgctxt "CREATURE:GOBLIN"
 msgid "[MANNERISM_NAILS:nails]"
-msgstr ""
+msgstr "[MANNERISM_NAILS:손톱]"
 
 #: creature_standard.txt:1215
 msgctxt "CREATURE:GOBLIN"
 msgid "[MANNERISM_FEET:feet]"
-msgstr ""
+msgstr "[MANNERISM_FEET:양 발]"
 
 #: creature_standard.txt:1216
 msgctxt "CREATURE:GOBLIN"
@@ -29509,17 +29509,17 @@ msgstr "[MANNERISM_ARMS:팔]"
 #: creature_standard.txt:1217
 msgctxt "CREATURE:GOBLIN"
 msgid "[MANNERISM_HANDS:hands]"
-msgstr ""
+msgstr "[MANNERISM_HANDS:양 손]"
 
 #: creature_standard.txt:1218
 msgctxt "CREATURE:GOBLIN"
 msgid "[MANNERISM_TONGUE:tongue]"
-msgstr ""
+msgstr "[MANNERISM_TONGUE:혀]"
 
 #: creature_standard.txt:1219
 msgctxt "CREATURE:GOBLIN"
 msgid "[MANNERISM_LEG:leg]"
-msgstr ""
+msgstr "[MANNERISM_LEG:다리]"
 
 #: creature_standard.txt:1244
 msgctxt "CREATURE:GOBLIN"
@@ -29549,7 +29549,7 @@ msgstr "[TSU_NOUN:털:SINGULAR]"
 #: creature_standard.txt:1268
 msgctxt "CREATURE:GOBLIN"
 msgid "[TSU_NOUN:beard:SINGULAR]"
-msgstr ""
+msgstr "[TSU_NOUN:수염:SINGULAR]"
 
 #: creature_standard.txt:1271
 msgctxt "CREATURE:GOBLIN"
@@ -29586,7 +29586,7 @@ msgstr "[NAME:코볼트:코볼트들:코볼트]"
 #: creature_standard.txt:1285
 msgctxt "CREATURE:KOBOLD"
 msgid "[CASTE_NAME:kobold:kobolds:kobold]"
-msgstr ""
+msgstr "[CASTE_NAME:코볼트:코볼트들:코볼트]"
 
 #: creature_standard.txt:1293
 msgctxt "CREATURE:KOBOLD"
@@ -29864,7 +29864,7 @@ msgstr "[NAME:트롤:트롤들:트롤]"
 #: creature_standard.txt:1715
 msgctxt "CREATURE:TROLL"
 msgid "[CASTE_NAME:troll:trolls:troll]"
-msgstr ""
+msgstr "[CASTE_NAME:트롤:트롤들:트롤]"
 
 #: creature_standard.txt:1729
 msgctxt "CREATURE:TROLL"
@@ -29874,22 +29874,22 @@ msgstr ""
 #: creature_standard.txt:1734
 msgctxt "CREATURE:TROLL"
 msgid "[STATE_NAME:ALL_SOLID:ivory]"
-msgstr ""
+msgstr "[STATE_NAME:ALL_SOLID:상아]"
 
 #: creature_standard.txt:1735
 msgctxt "CREATURE:TROLL"
 msgid "[STATE_ADJ:ALL_SOLID:ivory]"
-msgstr ""
+msgstr "[STATE_ADJ:ALL_SOLID:상아]"
 
 #: creature_standard.txt:1737
 msgctxt "CREATURE:TROLL"
 msgid "[STATE_NAME:ALL_SOLID:fur]"
-msgstr ""
+msgstr "[STATE_NAME:ALL_SOLID:털가죽]"
 
 #: creature_standard.txt:1738
 msgctxt "CREATURE:TROLL"
 msgid "[STATE_ADJ:ALL_SOLID:fur]"
-msgstr ""
+msgstr "[STATE_ADJ:ALL_SOLID:털가죽]"
 
 #: creature_standard.txt:1777
 msgctxt "CREATURE:TROLL"
@@ -29944,12 +29944,12 @@ msgstr "[ATTACK_VERB:뿔로 들이받음:뿔로 들이받음]"
 #: creature_standard.txt:1898
 msgctxt "CREATURE:TROLL"
 msgid "[TLCM_NOUN:fur:SINGULAR]"
-msgstr ""
+msgstr "[TLCM_NOUN:털가죽:SINGULAR]"
 
 #: creature_standard.txt:1903
 msgctxt "CREATURE:TROLL"
 msgid "[APP_MOD_NOUN:fur:SINGULAR]"
-msgstr ""
+msgstr "[APP_MOD_NOUN:털가죽:SINGULAR]"
 
 #: creature_standard.txt:1909
 msgctxt "CREATURE:TROLL"
@@ -29976,7 +29976,7 @@ msgstr "[NAME:오우거:오우거들:오우거]"
 #: creature_standard.txt:1917
 msgctxt "CREATURE:OGRE"
 msgid "[CASTE_NAME:ogre:ogres:ogre]"
-msgstr ""
+msgstr "[CASTE_NAME:오우거:오우거들:오우거]"
 
 #: creature_standard.txt:1934
 msgctxt "CREATURE:OGRE"
@@ -30031,7 +30031,7 @@ msgstr "[ATTACK_VERB:깨물음:깨물음]"
 #: creature_standard.txt:2075
 msgctxt "CREATURE:OGRE"
 msgid "[CASTE_NAME:ogress:ogresses:ogress]"
-msgstr ""
+msgstr "[CASTE_NAME:오우거:오우거들:오우거]"
 
 #: creature_standard.txt:2083
 msgctxt "CREATURE:OGRE"
@@ -30058,12 +30058,12 @@ msgstr "[NAME:유니콘:유니콘들:유니콘]"
 #: creature_standard.txt:2091
 msgctxt "CREATURE:UNICORN"
 msgid "[CASTE_NAME:unicorn:unicorns:unicorn]"
-msgstr ""
+msgstr "[CASTE_NAME:유니콘:유니콘들:유니콘]"
 
 #: creature_standard.txt:2095
 msgctxt "CREATURE:UNICORN"
 msgid "[PREFSTRING:horns]"
-msgstr ""
+msgstr "[PREFSTRING:뿔]"
 
 #: creature_standard.txt:2147
 msgctxt "CREATURE:UNICORN"
@@ -30115,12 +30115,12 @@ msgstr "[NAME:드래곤:드래곤들:드라코닉]"
 #: creature_standard.txt:2207
 msgctxt "CREATURE:DRAGON"
 msgid "[CASTE_NAME:dragon:dragons:draconic]"
-msgstr ""
+msgstr "[CASTE_NAME:드래곤:드래곤들:드래곤]"
 
 #: creature_standard.txt:2216
 msgctxt "CREATURE:DRAGON"
 msgid "[CDI:ADV_NAME:Breathe fire]"
-msgstr ""
+msgstr "[CDI:ADV_NAME:파이어 브레스]"
 
 #: creature_standard.txt:2236
 msgctxt "CREATURE:DRAGON"
@@ -30135,7 +30135,7 @@ msgstr "[ATTACK_VERB:깨물음:깨물음]"
 #: creature_standard.txt:2285
 msgctxt "CREATURE:DRAGON"
 msgid "[ATTACK_VERB:claw:claws]"
-msgstr ""
+msgstr "[ATTACK_VERB:할퀴다:할퀴다]"
 
 #: creature_standard.txt:2320
 msgctxt "CREATURE:DRAGON"
@@ -30266,7 +30266,7 @@ msgstr "[TSU_NOUN:털:SINGULAR]"
 #: creature_standard.txt:2582
 msgctxt "CREATURE:SATYR"
 msgid "[TSU_NOUN:beard:SINGULAR]"
-msgstr ""
+msgstr "[TSU_NOUN:수염:SINGULAR]"
 
 #: creature_standard.txt:2585
 msgctxt "CREATURE:SATYR"
@@ -30444,7 +30444,7 @@ msgstr "[TSU_NOUN:털:SINGULAR]"
 #: creature_standard.txt:2902
 msgctxt "CREATURE:GIANT"
 msgid "[TSU_NOUN:beard:SINGULAR]"
-msgstr ""
+msgstr "[TSU_NOUN:수염:SINGULAR]"
 
 #: creature_standard.txt:2905
 msgctxt "CREATURE:GIANT"
@@ -30511,7 +30511,7 @@ msgstr "[CDI:VERB:침뱉다:침뱉다:NA]"
 #: creature_standard.txt:3004
 msgctxt "CREATURE:CYCLOPS"
 msgid "[APP_MOD_NOUN:eye:SINGULAR]"
-msgstr ""
+msgstr "[APP_MOD_NOUN:눈:SINGULAR]"
 
 #: creature_standard.txt:3009
 msgctxt "CREATURE:CYCLOPS"
@@ -30561,7 +30561,7 @@ msgstr "[TLCM_NOUN:털:SINGULAR]"
 #: creature_standard.txt:3116
 msgctxt "CREATURE:CYCLOPS"
 msgid "[APP_MOD_NOUN:eyebrow:SINGULAR]"
-msgstr ""
+msgstr "[APP_MOD_NOUN:눈썹:SINGULAR]"
 
 #: creature_standard.txt:3125
 msgctxt "CREATURE:CYCLOPS"
@@ -30601,7 +30601,7 @@ msgstr "[TLCM_NOUN:피부:SINGULAR]"
 #: creature_standard.txt:3161
 msgctxt "CREATURE:CYCLOPS"
 msgid "[TLCM_NOUN:eye:SINGULAR]"
-msgstr ""
+msgstr "[TLCM_NOUN:눈:SINGULAR]"
 
 #: creature_standard.txt:3164
 msgctxt "CREATURE:ETTIN"
@@ -30716,7 +30716,7 @@ msgstr "[TSU_NOUN:털:SINGULAR]"
 #: creature_standard.txt:3402
 msgctxt "CREATURE:ETTIN"
 msgid "[TSU_NOUN:beard:SINGULAR]"
-msgstr ""
+msgstr "[TSU_NOUN:수염:SINGULAR]"
 
 #: creature_standard.txt:3405
 msgctxt "CREATURE:ETTIN"
@@ -30833,12 +30833,12 @@ msgstr "[NAME:예티:예티들:예티]"
 #: creature_standard.txt:3604
 msgctxt "CREATURE:YETI"
 msgid "[CASTE_NAME:yeti:yetis:yeti]"
-msgstr ""
+msgstr "[CASTE_NAME:예티:예티들:예티]"
 
 #: creature_standard.txt:3619
 msgctxt "CREATURE:YETI"
 msgid "[PREFSTRING:white fur]"
-msgstr ""
+msgstr "[PREFSTRING:흰 털가죽]"
 
 #: creature_standard.txt:3657
 msgctxt "CREATURE:YETI"
@@ -30944,12 +30944,12 @@ msgstr ""
 #: creature_standard.txt:3830
 msgctxt "CREATURE:BLIZZARD_MAN"
 msgid "[NAME:blizzard man:blizzard men:blizzard man]"
-msgstr ""
+msgstr "[NAME:남성 도마뱀인간:남성 도마뱀 인간들:남성 도마뱀인간]"
 
 #: creature_standard.txt:3831
 msgctxt "CREATURE:BLIZZARD_MAN"
 msgid "[CASTE_NAME:blizzard man:blizzard men:blizzard man]"
-msgstr ""
+msgstr "[CASTE_NAME:남성 도마뱀인간:남성 도마뱀 인간들:남성 도마뱀인간]"
 
 #: creature_standard.txt:3843
 msgctxt "CREATURE:BLIZZARD_MAN"
@@ -31433,7 +31433,7 @@ msgstr ""
 #: creature_standard.txt:4704
 msgctxt "CREATURE:STRANGLER"
 msgid "[PREFSTRING:resounding hoots]"
-msgstr ""
+msgstr "[PREFSTRING:우렁찬 콧방귀]"
 
 #: creature_standard.txt:4705
 msgctxt "CREATURE:STRANGLER"
@@ -31846,22 +31846,22 @@ msgstr ""
 #: creature_standard.txt:5410
 msgctxt "CREATURE:SEA_SERPENT"
 msgid "[NAME:sea serpent:sea serpents:sea serpent]"
-msgstr ""
+msgstr "[NAME:해룡:해룡들:해룡]"
 
 #: creature_standard.txt:5411
 msgctxt "CREATURE:SEA_SERPENT"
 msgid "[CASTE_NAME:sea serpent:sea serpents:sea serpent]"
-msgstr ""
+msgstr "[CASTE_NAME:해룡:해룡들:해룡]"
 
 #: creature_standard.txt:5422
 msgctxt "CREATURE:SEA_SERPENT"
 msgid "[PREFSTRING:majesty]"
-msgstr ""
+msgstr "[PREFSTRING:패왕색]"
 
 #: creature_standard.txt:5424
 msgctxt "CREATURE:SEA_SERPENT"
 msgid "[CHILDNAME:sea serpent hatchling:sea serpent hatchlings]"
-msgstr ""
+msgstr "[CHILDNAME:새끼 해룡:새끼 해룡들]"
 
 #: creature_standard.txt:5461
 msgctxt "CREATURE:SEA_SERPENT"
@@ -31917,7 +31917,7 @@ msgstr "[ATTACK_VERB:깨물음:깨물음]"
 #: creature_standard.txt:5560
 msgctxt "CREATURE:SEA_MONSTER"
 msgid "[ATTACK_VERB:snatch:snatches]"
-msgstr ""
+msgstr "[ATTACK_VERB:잡아채다:잡아채다]"
 
 #: creature_standard.txt:5576
 msgctxt "CREATURE:SEA_MONSTER"
@@ -32072,12 +32072,12 @@ msgstr ""
 #: creature_subterranean.txt:181
 msgctxt "CREATURE:OLM_GIANT"
 msgid "[NAME:giant olm:giant olms:giant olm]"
-msgstr ""
+msgstr "[NAME:거대 옴:거대 옴들:거대 옴]"
 
 #: creature_subterranean.txt:182
 msgctxt "CREATURE:OLM_GIANT"
 msgid "[CASTE_NAME:giant olm:giant olms:giant olm]"
-msgstr ""
+msgstr "[CASTE_NAME:거대 옴:거대 옴들:거대 옴]"
 
 #: creature_subterranean.txt:197
 msgctxt "CREATURE:OLM_GIANT"
@@ -32641,7 +32641,7 @@ msgstr "[TLCM_NOUN:눈들:PLURAL]"
 msgctxt "CREATURE:FISH_CAVE"
 msgid ""
 "[DESCRIPTION:A small pale creature found in underground streams and ponds.]"
-msgstr ""
+msgstr "[DESCRIPTION:지하 개울과 연못에서 발견되는 작고 창백한 생물.]"
 
 #: creature_subterranean.txt:1183
 msgctxt "CREATURE:FISH_CAVE"
@@ -32689,6 +32689,7 @@ msgid ""
 "[DESCRIPTION:A humanoid creature with the head of a blind cave fish.  They "
 "live in colonies in watery regions far underground.]"
 msgstr ""
+"[DESCRIPTION:눈먼 동굴 물고기의 머리를 가진 인간형 생물. 지하 깊은 곳의 물이 많은 지역에서 군체를 이루어 삽니다.]"
 
 #: creature_subterranean.txt:1280
 msgctxt "CREATURE:LOBSTER_CAVE"
@@ -32772,12 +32773,12 @@ msgstr "[DESCRIPTION:지하 하천에서 발견되는 작은 양서류.]"
 #: creature_subterranean.txt:1380
 msgctxt "CREATURE:OLM"
 msgid "[NAME:olm:olms:olm]"
-msgstr ""
+msgstr "[NAME:옴:옴들:옴]"
 
 #: creature_subterranean.txt:1381
 msgctxt "CREATURE:OLM"
 msgid "[CASTE_NAME:olm:olms:olm]"
-msgstr ""
+msgstr "[CASTE_NAME:옴:옴들:옴]"
 
 #: creature_subterranean.txt:1393
 msgctxt "CREATURE:OLM"
@@ -32802,17 +32803,17 @@ msgstr "[TLCM_NOUN:눈들:PLURAL]"
 #: creature_subterranean.txt:1453
 msgctxt "CREATURE:OLM_MAN"
 msgid "[CASTE_NAME:olm man:olm men:olm man]"
-msgstr ""
+msgstr "[CASTE_NAME:남성 옴인간:남성 옴인간들:남성 옴인간]"
 
 #: creature_subterranean.txt:1455
 msgctxt "CREATURE:OLM_MAN"
 msgid "[CASTE_NAME:olm woman:olm women:olm woman]"
-msgstr ""
+msgstr "[CASTE_NAME:여성 옴인간:여성 옴인간들:여성 옴인간]"
 
 #: creature_subterranean.txt:1465
 msgctxt "CREATURE:OLM_MAN"
 msgid "[NAME:olm man:olm men:olm man]"
-msgstr ""
+msgstr "[NAME:옴인간:옴인간들:옴인간]"
 
 #: creature_subterranean.txt:1466
 msgctxt "CREATURE:OLM_MAN"
@@ -33055,7 +33056,7 @@ msgstr ""
 #: creature_subterranean.txt:1757
 msgctxt "CREATURE:ELEMENTMAN_MAGMA"
 msgid "[PREFSTRING:flowing movement]"
-msgstr ""
+msgstr "[PREFSTRING:유연한 움직임]"
 
 #: creature_subterranean.txt:1762
 msgctxt "CREATURE:ELEMENTMAN_MAGMA"
@@ -33181,7 +33182,7 @@ msgstr "[ODOR_STRING:진흙]"
 #: creature_subterranean.txt:1928
 msgctxt "CREATURE:ELEMENTMAN_MUD"
 msgid "[TISSUE_NAME:mud:NP]"
-msgstr ""
+msgstr "[TISSUE_NAME:진흙:NP]"
 
 #: creature_subterranean.txt:1942
 msgctxt "CREATURE:ELEMENTMAN_MUD"
@@ -33491,7 +33492,7 @@ msgstr "[ATTACK_VERB:주먹을 날림:주먹을 날림]"
 #: creature_subterranean.txt:2493
 msgctxt "CREATURE:SERPENT_MAN"
 msgid "[ATTACK_VERB:lash:lashes]"
-msgstr ""
+msgstr "[ATTACK_VERB:후려치다:후려치다]"
 
 #: creature_subterranean.txt:2501
 msgctxt "CREATURE:SERPENT_MAN"
@@ -33506,7 +33507,7 @@ msgstr "[ATTACK_VERB:깨물음:깨물음]"
 #: creature_subterranean.txt:2530
 msgctxt "CREATURE:SERPENT_MAN"
 msgid "[CASTE_NAME:serpent woman:serpent women:serpent woman]"
-msgstr ""
+msgstr "[CASTE_NAME:여성 독사인간:여성 독사인간들:여성 독사인간]"
 
 #: creature_subterranean.txt:2540
 msgctxt "CREATURE:SERPENT_MAN"
@@ -34269,7 +34270,7 @@ msgstr "[CVCT_TARGET:살무사]"
 #: creature_temperate_new.txt:844
 msgctxt "CREATURE:GIANT_ADDER"
 msgid "[CVCT_REPLACEMENT:giant adder]"
-msgstr ""
+msgstr "[CVCT_REPLACEMENT:거대 살무사]"
 
 #: creature_temperate_new.txt:865
 msgctxt "CREATURE:GIANT_ADDER"
@@ -34279,17 +34280,17 @@ msgstr "[NAME:거대 살무사:거대 살무사떼:거대 살무사]"
 #: creature_temperate_new.txt:866
 msgctxt "CREATURE:GIANT_ADDER"
 msgid "[CASTE_NAME:giant adder:giant adders:giant adder]"
-msgstr ""
+msgstr "[CASTE_NAME:거대 살무사:거대 살무사떼:거대 살무사]"
 
 #: creature_temperate_new.txt:867
 msgctxt "CREATURE:GIANT_ADDER"
 msgid "[DESCRIPTION:A large monster in the form of an adder.]"
-msgstr ""
+msgstr "[DESCRIPTION:살무사의 모습을 한 거대한 괴수.]"
 
 #: creature_temperate_new.txt:876
 msgctxt "CREATURE:GIANT_ADDER"
 msgid "[PREFSTRING:warning hisses]"
-msgstr ""
+msgstr "[PREFSTRING:쉭쉭 거리는 소리]"
 
 #: creature_temperate_new.txt:887
 msgctxt "CREATURE:ECHIDNA"
@@ -34316,7 +34317,7 @@ msgstr ""
 #: creature_temperate_new.txt:905
 msgctxt "CREATURE:ECHIDNA"
 msgid "[PREFSTRING:spines]"
-msgstr ""
+msgstr "[PREFSTRING:가시]"
 
 #: creature_temperate_new.txt:906
 msgctxt "CREATURE:ECHIDNA"
@@ -34403,7 +34404,7 @@ msgstr "[DESCRIPTION:가시두더지의 모습을 한 거대한 괴수.]"
 #: creature_temperate_new.txt:1035
 msgctxt "CREATURE:GIANT_ECHIDNA"
 msgid "[PREFSTRING:spines]"
-msgstr ""
+msgstr "[PREFSTRING:가시]"
 
 #: creature_temperate_new.txt:1036
 msgctxt "CREATURE:GIANT_ECHIDNA"
@@ -34724,7 +34725,7 @@ msgstr "[GENERAL_CHILD_NAME:새끼 붉은스라소니:새끼 붉은스라소니�
 #: creature_temperate_new.txt:1529
 msgctxt "CREATURE:BOBCAT"
 msgid "[PREFSTRING:short tails]"
-msgstr ""
+msgstr "[PREFSTRING:짧은 꼬리]"
 
 #: creature_temperate_new.txt:1564
 msgctxt "CREATURE:BOBCAT"
@@ -34794,7 +34795,7 @@ msgstr "[DESCRIPTION:붉은스라소니의 모습을 한 거대한 괴수.]"
 #: creature_temperate_new.txt:1653
 msgctxt "CREATURE:GIANT_BOBCAT"
 msgid "[PREFSTRING:short tails]"
-msgstr ""
+msgstr "[PREFSTRING:짧은 꼬리]"
 
 #: creature_temperate_new.txt:1661
 msgctxt "CREATURE:SKUNK"
@@ -34811,7 +34812,7 @@ msgstr "[NAME:스컹크:스컹크들:스컹크]"
 #: creature_temperate_new.txt:1663
 msgctxt "CREATURE:SKUNK"
 msgid "[CASTE_NAME:skunk:skunks:skunk]"
-msgstr ""
+msgstr "[CASTE_NAME:스컹크:스컹크들:스컹크]"
 
 #: creature_temperate_new.txt:1664
 msgctxt "CREATURE:SKUNK"
@@ -34856,12 +34857,12 @@ msgstr "[TLCM_NOUN:눈들:PLURAL]"
 #: creature_temperate_new.txt:1762
 msgctxt "CREATURE:SKUNK_MAN"
 msgid "[CASTE_NAME:skunk man:skunk men:skunk man]"
-msgstr ""
+msgstr "[CASTE_NAME:남성 스킹크인간:남성 스킹크인간들:남성 스킹크인간]"
 
 #: creature_temperate_new.txt:1764
 msgctxt "CREATURE:SKUNK_MAN"
 msgid "[CASTE_NAME:skunk woman:skunk women:skunk woman]"
-msgstr ""
+msgstr "[CASTE_NAME:여성 스킹크인간:여성 스킹크인간들:여성 스킹크인간]"
 
 #: creature_temperate_new.txt:1775
 msgctxt "CREATURE:SKUNK_MAN"
@@ -34871,7 +34872,7 @@ msgstr "[NAME:스컹크인간:스컹크인간들:스컹크인간]"
 #: creature_temperate_new.txt:1776
 msgctxt "CREATURE:SKUNK_MAN"
 msgid "[DESCRIPTION:A striped person with the head and tail of a skunk.]"
-msgstr ""
+msgstr "[DESCRIPTION:스컹크t의 머리와 꼬리를 가진 줄무늬 인간.]"
 
 #: creature_temperate_new.txt:1794
 msgctxt "CREATURE:GIANT_SKUNK"
@@ -34881,17 +34882,17 @@ msgstr "[NAME:거대 스컹크:거대 스컹크들:거대 스컹크]"
 #: creature_temperate_new.txt:1795
 msgctxt "CREATURE:GIANT_SKUNK"
 msgid "[CASTE_NAME:giant skunk:giant skunks:giant skunk]"
-msgstr ""
+msgstr "[CASTE_NAME:거대 스컹크:거대 스컹크들:거대 스컹크]"
 
 #: creature_temperate_new.txt:1796
 msgctxt "CREATURE:GIANT_SKUNK"
 msgid "[GENERAL_CHILD_NAME:giant skunk kit:giant skunk kits]"
-msgstr ""
+msgstr "[GENERAL_CHILD_NAME:새끼 거대 스컹크:새끼 거대 스컹크들:새끼 거대 스컹크]"
 
 #: creature_temperate_new.txt:1797
 msgctxt "CREATURE:GIANT_SKUNK"
 msgid "[DESCRIPTION:A large monster in the form of a skunk.]"
-msgstr ""
+msgstr "[DESCRIPTION:스컹크의 모습을 한 거대한 괴수.]"
 
 #: creature_temperate_new.txt:1806
 msgctxt "CREATURE:GIANT_SKUNK"
@@ -34921,7 +34922,7 @@ msgstr "[CASTE_NAME:청개구리:청개구리들:청개구리]"
 #: creature_temperate_new.txt:1829
 msgctxt "CREATURE:GREEN_TREE_FROG"
 msgid "[PREFSTRING:distinct mating call]"
-msgstr ""
+msgstr "[PREFSTRING:짝을 찾는 소리]"
 
 #: creature_temperate_new.txt:1859
 msgctxt "CREATURE:GREEN_TREE_FROG"
@@ -34982,7 +34983,7 @@ msgstr "[DESCRIPTION:청개구리의 모습을 한 거대한 괴수.]"
 #: creature_temperate_new.txt:1929
 msgctxt "CREATURE:GIANT_GREEN_TREE_FROG"
 msgid "[PREFSTRING:distinct mating call]"
-msgstr ""
+msgstr "[PREFSTRING:짝을 찾는 소리]"
 
 #: creature_temperate_new.txt:1940
 msgctxt "CREATURE:HARE"
@@ -35024,12 +35025,12 @@ msgstr "[ATTACK_VERB:할큄:할큄]"
 #: creature_temperate_new.txt:2021
 msgctxt "CREATURE:HARE"
 msgid "[CASTE_NAME:doe hare:doe hares:doe hare]"
-msgstr ""
+msgstr "[CASTE_NAME:암 산토끼:암 산토끼들:암 산토끼]"
 
 #: creature_temperate_new.txt:2025
 msgctxt "CREATURE:HARE"
 msgid "[CASTE_NAME:buck hare:buck hares:buck hare]"
-msgstr ""
+msgstr "[CASTE_NAME:수 산토끼:수 산토끼들:수 산토끼]"
 
 #: creature_temperate_new.txt:2029
 msgctxt "CREATURE:HARE"
@@ -35049,12 +35050,12 @@ msgstr "[TLCM_NOUN:눈들:PLURAL]"
 #: creature_temperate_new.txt:2042
 msgctxt "CREATURE:HARE_MAN"
 msgid "[CASTE_NAME:hare man:hare men:hare man]"
-msgstr ""
+msgstr "[CASTE_NAME:남성 산토끼인간:남성 산토끼인간들:남성 산토끼인간]"
 
 #: creature_temperate_new.txt:2044
 msgctxt "CREATURE:HARE_MAN"
 msgid "[CASTE_NAME:hare woman:hare women:hare woman]"
-msgstr ""
+msgstr "[CASTE_NAME:여성 산토끼인간:여성 산토끼인간들:여성 산토끼인간]"
 
 #: creature_temperate_new.txt:2055
 msgctxt "CREATURE:HARE_MAN"
@@ -36993,7 +36994,7 @@ msgstr ""
 #: creature_tropical_new.txt:1631
 msgctxt "CREATURE:PANGOLIN"
 msgid "[ROOT_AROUND:BY_CATEGORY:NOSE:root around in:roots around in]"
-msgstr ""
+msgstr "[ROOT_AROUND:BY_CATEGORY:NOSE:주변을 헤집는다:주변을 헤집는다]"
 
 #: creature_tropical_new.txt:1648
 msgctxt "CREATURE:PANGOLIN"
@@ -37992,7 +37993,7 @@ msgstr "[NAME:사자타마린:사자타마린들:사자타마린]"
 #: creature_tropical_new.txt:3044
 msgctxt "CREATURE:LION_TAMARIN"
 msgid "[CASTE_NAME:lion tamarin:lion tamarins:lion tamarin]"
-msgstr ""
+msgstr "[CASTE_NAME:사자타마린:사자타마린들:사자타마린]"
 
 #: creature_tropical_new.txt:3053
 msgctxt "CREATURE:LION_TAMARIN"
@@ -38032,12 +38033,12 @@ msgstr "[TLCM_NOUN:눈들:PLURAL]"
 #: creature_tropical_new.txt:3132
 msgctxt "CREATURE:LION_TAMARIN_MAN"
 msgid "[CASTE_NAME:lion tamarin man:lion tamarin men:lion tamarin man]"
-msgstr ""
+msgstr "[CASTE_NAME:남성 사자타마린인간:남성 사자타마린인간들:남성 사자타마린인간]"
 
 #: creature_tropical_new.txt:3134
 msgctxt "CREATURE:LION_TAMARIN_MAN"
 msgid "[CASTE_NAME:lion tamarin woman:lion tamarin women:lion tamarin woman]"
-msgstr ""
+msgstr "[CASTE_NAME:여성 사자타마린인간:여성 사자타마린인간들:여성 사자타마린인간]"
 
 #: creature_tropical_new.txt:3145
 msgctxt "CREATURE:LION_TAMARIN_MAN"
@@ -38048,7 +38049,7 @@ msgstr "[NAME:사자타마린인간:사자타마린인간들:사자타마린인�
 msgctxt "CREATURE:LION_TAMARIN_MAN"
 msgid ""
 "[DESCRIPTION:An orange person with the head and tail of a lion tamarin.]"
-msgstr ""
+msgstr "[DESCRIPTION:사자타마린의 머리와 꼬리를 가진 오렌지색 인간.]"
 
 #: creature_tropical_new.txt:3164
 msgctxt "CREATURE:GIANT_LION_TAMARIN"
@@ -38058,12 +38059,12 @@ msgstr "[NAME:거대 사자타마린:거대 사자타마린들:거대 사자타�
 #: creature_tropical_new.txt:3165
 msgctxt "CREATURE:GIANT_LION_TAMARIN"
 msgid "[CASTE_NAME:giant lion tamarin:giant lion tamarins:giant lion tamarin]"
-msgstr ""
+msgstr "[CASTE_NAME:거대 사자타마린:거대 사자타마린들:거대 사자타마린]"
 
 #: creature_tropical_new.txt:3166
 msgctxt "CREATURE:GIANT_LION_TAMARIN"
 msgid "[DESCRIPTION:A huge monster in the form of a lion tamarin.]"
-msgstr ""
+msgstr "[DESCRIPTION:사자타마린의 모습을 한 거대한 괴수.]"
 
 #: creature_tropical_new.txt:3175
 msgctxt "CREATURE:GIANT_LION_TAMARIN"
@@ -38517,7 +38518,7 @@ msgstr "[NAME:황금색]"
 #: descriptor_color_standard.txt:248
 msgctxt "COLOR:GOLDENROD"
 msgid "[NAME:goldenrod]"
-msgstr "[NAME:"
+msgstr "[NAME:선황색]"
 
 #: descriptor_color_standard.txt:253
 msgctxt "COLOR:GRAY"
@@ -40078,7 +40079,7 @@ msgstr ""
 #: item_tool.txt:281
 msgctxt "ITEM_TOOL:ITEM_TOOL_BOOKCASE"
 msgid "[NAME:bookcase:bookcases]"
-msgstr ""
+msgstr "[NAME:책장:책장들]"
 
 #: item_tool.txt:293
 msgctxt "ITEM_TOOL:ITEM_TOOL_HELVE"
@@ -40478,7 +40479,7 @@ msgstr "[NAME:단검:단검들]"
 #: item_weapon.txt:216
 msgctxt "ITEM_WEAPON:ITEM_WEAPON_DAGGER_LARGE"
 msgid "[ADJECTIVE:large]"
-msgstr ""
+msgstr "[ADJECTIVE:큰]"
 
 #: item_weapon.txt:222
 msgctxt "ITEM_WEAPON:ITEM_WEAPON_DAGGER_LARGE"
@@ -41738,7 +41739,7 @@ msgstr ""
 #: inorganic_stone_layer.txt:34
 msgctxt "INORGANIC:MUDSTONE"
 msgid "[STATE_NAME_ADJ:ALL_SOLID:mudstone]"
-msgstr ""
+msgstr "[STATE_NAME_ADJ:ALL_SOLID:머드스톤]"
 
 #: inorganic_stone_layer.txt:42
 msgctxt "INORGANIC:SHALE"
@@ -41903,7 +41904,7 @@ msgstr "[STONE_NAME:은 원석]"
 #: inorganic_stone_mineral.txt:95
 msgctxt "INORGANIC:NATIVE_SILVER"
 msgid "[STATE_NAME_ADJ:ALL_SOLID:native silver]"
-msgstr ""
+msgstr "[STATE_NAME_ADJ:ALL_SOLID:천연 은]"
 
 #: inorganic_stone_mineral.txt:96
 msgctxt "INORGANIC:NATIVE_SILVER"
@@ -41913,7 +41914,7 @@ msgstr "[STATE_NAME_ADJ:LIQUID:녹은 천연 은]"
 #: inorganic_stone_mineral.txt:97
 msgctxt "INORGANIC:NATIVE_SILVER"
 msgid "[STATE_NAME_ADJ:GAS:boiling native silver]"
-msgstr ""
+msgstr "[STATE_NAME_ADJ:GAS:기화된 천연 은]"
 
 #: inorganic_stone_mineral.txt:131
 msgctxt "INORGANIC:NATIVE_COPPER"
@@ -41923,17 +41924,17 @@ msgstr "[STONE_NAME:구리 원석]"
 #: inorganic_stone_mineral.txt:136
 msgctxt "INORGANIC:NATIVE_COPPER"
 msgid "[STATE_NAME_ADJ:ALL_SOLID:native copper]"
-msgstr ""
+msgstr "[STATE_NAME_ADJ:ALL_SOLID:천연 구리]"
 
 #: inorganic_stone_mineral.txt:137
 msgctxt "INORGANIC:NATIVE_COPPER"
 msgid "[STATE_NAME_ADJ:LIQUID:molten native copper]"
-msgstr ""
+msgstr "[STATE_NAME_ADJ:LIQUID:녹은 천연 구리]"
 
 #: inorganic_stone_mineral.txt:138
 msgctxt "INORGANIC:NATIVE_COPPER"
 msgid "[STATE_NAME_ADJ:GAS:boiling native copper]"
-msgstr ""
+msgstr "[STATE_NAME_ADJ:GAS:기화된 천연 구리]"
 
 #: inorganic_stone_mineral.txt:173
 msgctxt "INORGANIC:MALACHITE"
@@ -43728,12 +43729,12 @@ msgstr ""
 #: material_template_default.txt:2133
 msgctxt "MATERIAL_TEMPLATE:SEED_TEMPLATE"
 msgid "[STATE_NAME:ALL_SOLID:seed]"
-msgstr ""
+msgstr "[STATE_NAME:ALL_SOLID:씨]"
 
 #: material_template_default.txt:2134
 msgctxt "MATERIAL_TEMPLATE:SEED_TEMPLATE"
 msgid "[STATE_ADJ:ALL_SOLID:seed]"
-msgstr ""
+msgstr "[STATE_ADJ:ALL_SOLID:씨]"
 
 #: material_template_default.txt:2136
 msgctxt "MATERIAL_TEMPLATE:SEED_TEMPLATE"
@@ -44553,7 +44554,7 @@ msgstr ""
 #: plant_crops.txt:41
 msgctxt "PLANT:SINGLE-GRAIN_WHEAT"
 msgid "[SEED:single-grain wheat seed:single-grain wheat seeds:]"
-msgstr ""
+msgstr "[SEED:외떡잎 밀 씨:외떡잎 밀 씨들:]"
 
 #: plant_crops.txt:44
 msgctxt "PLANT:SINGLE-GRAIN_WHEAT"
@@ -44603,7 +44604,7 @@ msgstr ""
 #: plant_crops.txt:87
 msgctxt "PLANT:TWO-GRAIN_WHEAT"
 msgid "[SEED:two-grain wheat seed:two-grain wheat seeds:]"
-msgstr ""
+msgstr "[SEED:쌍떡잎 밀 씨:쌍떡잎 밀 씨들:]"
 
 #: plant_crops.txt:90
 msgctxt "PLANT:TWO-GRAIN_WHEAT"
@@ -44653,7 +44654,7 @@ msgstr ""
 #: plant_crops.txt:133
 msgctxt "PLANT:SOFT_WHEAT"
 msgid "[SEED:soft wheat seed:soft wheat seeds:]"
-msgstr ""
+msgstr "[SEED:부드러운 밀 씨:부드러운 밀 씨들:]"
 
 #: plant_crops.txt:136
 msgctxt "PLANT:SOFT_WHEAT"
@@ -44703,7 +44704,7 @@ msgstr ""
 #: plant_crops.txt:179
 msgctxt "PLANT:HARD_WHEAT"
 msgid "[SEED:hard wheat seed:hard wheat seeds:]"
-msgstr ""
+msgstr "[SEED:딱딱한 밀 씨:딱딱한 밀 씨들:]"
 
 #: plant_crops.txt:182
 msgctxt "PLANT:HARD_WHEAT"
@@ -44753,7 +44754,7 @@ msgstr ""
 #: plant_crops.txt:225
 msgctxt "PLANT:SPELT"
 msgid "[SEED:spelt seed:spelt seeds:]"
-msgstr ""
+msgstr "[SEED:스펠트 밀 씨:스펠트 밀 씨들:]"
 
 #: plant_crops.txt:228
 msgctxt "PLANT:SPELT"
@@ -44853,7 +44854,7 @@ msgstr ""
 #: plant_crops.txt:320
 msgctxt "PLANT:BUCKWHEAT"
 msgid "[SEED:buckwheat seed:buckwheat seeds:]"
-msgstr ""
+msgstr "[SEED:메밀 씨:메밀 씨들:]"
 
 #: plant_crops.txt:323
 msgctxt "PLANT:BUCKWHEAT"
@@ -44893,7 +44894,7 @@ msgstr ""
 #: plant_crops.txt:360
 msgctxt "PLANT:OATS"
 msgid "[SEED:oat seed:oat seeds:]"
-msgstr ""
+msgstr "[SEED:귀리 씨:귀리 씨들:]"
 
 #: plant_crops.txt:363
 msgctxt "PLANT:OATS"
@@ -44923,7 +44924,7 @@ msgstr ""
 #: plant_crops.txt:392
 msgctxt "PLANT:ALFALFA"
 msgid "[SEED:alfalfa seed:alfalfa seeds:]"
-msgstr ""
+msgstr "[SEED:자주개자리 씨:자주개자리 씨들:]"
 
 #: plant_crops.txt:395
 msgctxt "PLANT:ALFALFA"
@@ -44978,7 +44979,7 @@ msgstr ""
 #: plant_crops.txt:444
 msgctxt "PLANT:RYE"
 msgid "[SEED:rye seed:rye seeds:]"
-msgstr ""
+msgstr "[SEED:호밀 씨:호밀 씨들:]"
 
 #: plant_crops.txt:447
 msgctxt "PLANT:RYE"
@@ -45028,7 +45029,7 @@ msgstr ""
 #: plant_crops.txt:493
 msgctxt "PLANT:SORGHUM"
 msgid "[SEED:sorghum seed:sorghum seeds:]"
-msgstr ""
+msgstr "[SEED:사탕수수 씨:사탕수수 씨들:]"
 
 #: plant_crops.txt:497
 msgctxt "PLANT:SORGHUM"
@@ -45083,7 +45084,7 @@ msgstr "[STATE_NAME_ADJ:ALL_SOLID:쌀가루]"
 #: plant_crops.txt:546
 msgctxt "PLANT:RICE"
 msgid "[SEED:rice:rice:]"
-msgstr "[SEED:볍씨:볍씨]"
+msgstr "[SEED:볍 씨:볍 씨]"
 
 #: plant_crops.txt:549
 msgctxt "PLANT:RICE"
@@ -45183,7 +45184,7 @@ msgstr ""
 #: plant_crops.txt:643
 msgctxt "PLANT:QUINOA"
 msgid "[SEED:quinoa seed:quinoa seeds:]"
-msgstr ""
+msgstr "[SEED:퀴노아 씨:퀴노아 씨들:]"
 
 #: plant_crops.txt:646
 msgctxt "PLANT:QUINOA"
@@ -45238,7 +45239,7 @@ msgstr ""
 #: plant_crops.txt:698
 msgctxt "PLANT:KANIWA"
 msgid "[SEED:kaniwa seed:kaniwa seeds:]"
-msgstr ""
+msgstr "[SEED:카니와 씨:카니와 씨들:]"
 
 #: plant_crops.txt:701
 msgctxt "PLANT:KANIWA"
@@ -45273,7 +45274,7 @@ msgstr ""
 #: plant_crops.txt:737
 msgctxt "PLANT:BITTER_VETCH"
 msgid "[SEED:bitter vetch seed:bitter vetch seeds:]"
-msgstr ""
+msgstr "[SEED:쓴 녹말 씨:쓴 녹말 씨들:]"
 
 #: plant_crops.txt:740
 msgctxt "PLANT:BITTER_VETCH"
@@ -45333,7 +45334,7 @@ msgstr ""
 #: plant_crops.txt:801
 msgctxt "PLANT:PENDANT_AMARANTH"
 msgid "[SEED:pendant amaranth seed:pendant amaranth seeds:]"
-msgstr ""
+msgstr "[SEED:펜던트 아마란스 씨:펜던트 아마란스 씨들:]"
 
 #: plant_crops.txt:804
 msgctxt "PLANT:PENDANT_AMARANTH"
@@ -45443,7 +45444,7 @@ msgstr ""
 #: plant_crops.txt:914
 msgctxt "PLANT:PURPLE_AMARANTH"
 msgid "[SEED:purple amaranth seed:purple amaranth seeds:]"
-msgstr ""
+msgstr "[SEED:퍼플 아마란스 씨:퍼플 아마란스 씨들:]"
 
 #: plant_crops.txt:924
 msgctxt "PLANT:PURPLE_AMARANTH"
@@ -45453,12 +45454,12 @@ msgstr ""
 #: plant_crops.txt:926
 msgctxt "PLANT:PURPLE_AMARANTH"
 msgid "[GROWTH_NAME:purple amaranth leaf:purple amaranth leaves]"
-msgstr ""
+msgstr "[GROWTH_NAME:퍼플 아마란스 잎:퍼플 아마란스 잎들]"
 
 #: plant_crops.txt:931
 msgctxt "PLANT:PURPLE_AMARANTH"
 msgid "[GROWTH_NAME:purple amaranth inflorescence:STP]"
-msgstr ""
+msgstr "[GROWTH_NAME:퍼플 아마란스 꽃:STP]"
 
 #: plant_crops.txt:938
 msgctxt "PLANT:RED_SPINACH"
@@ -45699,7 +45700,7 @@ msgstr "[ADJ:조]"
 #: plant_crops.txt:1161
 msgctxt "PLANT:FOXTAIL_MILLET"
 msgid "[STATE_NAME_ADJ:ALL_SOLID:frozen foxtail millet beer]"
-msgstr ""
+msgstr "[STATE_NAME_ADJ:ALL_SOLID:얼어붙은 조 맥주]"
 
 #: plant_crops.txt:1162
 msgctxt "PLANT:FOXTAIL_MILLET"
@@ -45719,7 +45720,7 @@ msgstr "[STATE_NAME_ADJ:ALL_SOLID:좁쌀가루]"
 #: plant_crops.txt:1188
 msgctxt "PLANT:FOXTAIL_MILLET"
 msgid "[SEED:foxtail millet:foxtail millet:]"
-msgstr ""
+msgstr "[SEED:조:]"
 
 #: plant_crops.txt:1191
 msgctxt "PLANT:FOXTAIL_MILLET"
@@ -45729,7 +45730,7 @@ msgstr "[PREFSTRING:낱알]"
 #: plant_crops.txt:1193
 msgctxt "PLANT:FOXTAIL_MILLET"
 msgid "[GROWTH_NAME:foxtail millet leaf:foxtail millet leaves]"
-msgstr ""
+msgstr "[GROWTH_NAME:조 잎:조 잎들]"
 
 #: plant_crops.txt:1199
 msgctxt "PLANT:FONIO"
@@ -45884,22 +45885,22 @@ msgstr ""
 #: plant_crops.txt:1328
 msgctxt "PLANT:FLAX"
 msgid "[STATE_NAME_ADJ:ALL_SOLID:flax seed]"
-msgstr ""
+msgstr "[STATE_NAME_ADJ:ALL_SOLID:아마 씨]"
 
 #: plant_crops.txt:1329
 msgctxt "PLANT:FLAX"
 msgid "[STATE_NAME_ADJ:SOLID_PASTE:flax seed paste]"
-msgstr ""
+msgstr "[STATE_NAME_ADJ:SOLID_PASTE:아마 씨 반죽]"
 
 #: plant_crops.txt:1330
 msgctxt "PLANT:FLAX"
 msgid "[STATE_NAME_ADJ:SOLID_PRESSED:flax seed press cake]"
-msgstr ""
+msgstr "[STATE_NAME_ADJ:SOLID_PRESSED:아마 씨 찌꺼기]"
 
 #: plant_crops.txt:1339
 msgctxt "PLANT:FLAX"
 msgid "[SEED:flax seed:flax seeds:]"
-msgstr ""
+msgstr "[SEED:아마 씨:아마 씨들:]"
 
 #: plant_crops.txt:1342
 msgctxt "PLANT:FLAX"
@@ -45984,42 +45985,42 @@ msgstr ""
 #: plant_crops.txt:1406
 msgctxt "PLANT:HEMP"
 msgid "[NAME:hemp plant]"
-msgstr ""
+msgstr "[NAME:대마초]"
 
 #: plant_crops.txt:1406
 msgctxt "PLANT:HEMP"
 msgid "[NAME_PLURAL:hemp plants]"
-msgstr ""
+msgstr "[NAME_PLURAL:대마초들]"
 
 #: plant_crops.txt:1406
 msgctxt "PLANT:HEMP"
 msgid "[ADJ:hemp plant]"
-msgstr ""
+msgstr "[ADJ:대마초]"
 
 #: plant_crops.txt:1414
 msgctxt "PLANT:HEMP"
 msgid "[STATE_NAME_ADJ:ALL_SOLID:frozen hempseed oil]"
-msgstr ""
+msgstr "[STATE_NAME_ADJ:ALL_SOLID:얼어붙은 햄프씨 오일]"
 
 #: plant_crops.txt:1415
 msgctxt "PLANT:HEMP"
 msgid "[STATE_NAME_ADJ:LIQUID:hempseed oil]"
-msgstr ""
+msgstr "[STATE_NAME_ADJ:LIQUID:햄프 씨 오일]"
 
 #: plant_crops.txt:1416
 msgctxt "PLANT:HEMP"
 msgid "[STATE_NAME_ADJ:GAS:boiling hempseed oil]"
-msgstr ""
+msgstr "[STATE_NAME_ADJ:GAS:기화된 햄프 씨 오일]"
 
 #: plant_crops.txt:1421
 msgctxt "PLANT:HEMP"
 msgid "[STATE_NAME_ADJ:ALL_SOLID:hempseed oil soap]"
-msgstr ""
+msgstr "[STATE_NAME_ADJ:ALL_SOLID:햄프 씨 오일 비누]"
 
 #: plant_crops.txt:1422
 msgctxt "PLANT:HEMP"
 msgid "[STATE_NAME_ADJ:LIQUID:melted hempseed oil soap]"
-msgstr "[STATE_NAME_ADJ:LIQUID:녹은 대마씨 오일 비누]"
+msgstr "[STATE_NAME_ADJ:LIQUID:녹은 대마 씨 오일 비누]"
 
 #: plant_crops.txt:1423
 msgctxt "PLANT:HEMP"
@@ -46034,17 +46035,17 @@ msgstr "[STATE_NAME_ADJ:ALL_SOLID:대마 가루 ]"
 #: plant_crops.txt:1440
 msgctxt "PLANT:HEMP"
 msgid "[STATE_NAME_ADJ:ALL_SOLID:hemp seed]"
-msgstr ""
+msgstr "[STATE_NAME_ADJ:ALL_SOLID:햄프 씨]"
 
 #: plant_crops.txt:1441
 msgctxt "PLANT:HEMP"
 msgid "[STATE_NAME_ADJ:SOLID_PASTE:hemp seed paste]"
-msgstr ""
+msgstr "[STATE_NAME_ADJ:SOLID_PASTE:햄프 씨 반죽]"
 
 #: plant_crops.txt:1442
 msgctxt "PLANT:HEMP"
 msgid "[STATE_NAME_ADJ:SOLID_PRESSED:hemp seed press cake]"
-msgstr ""
+msgstr "[STATE_NAME_ADJ:SOLID_PRESSED:햄프 씨 찌꺼기]"
 
 #: plant_crops.txt:1451
 msgctxt "PLANT:HEMP"
@@ -46094,12 +46095,12 @@ msgstr "[ADJ:목화]"
 #: plant_crops.txt:1480
 msgctxt "PLANT:COTTON"
 msgid "[STATE_NAME_ADJ:ALL_SOLID:frozen cottonseed oil]"
-msgstr "[STATE_NAME_ADJ:ALL_SOLID:얼어붙은 목화씨 기름]"
+msgstr "[STATE_NAME_ADJ:ALL_SOLID:얼어붙은 목화 씨 기름]"
 
 #: plant_crops.txt:1481
 msgctxt "PLANT:COTTON"
 msgid "[STATE_NAME_ADJ:LIQUID:cottonseed oil]"
-msgstr "[STATE_NAME_ADJ:LIQUID:목화씨 기름]"
+msgstr "[STATE_NAME_ADJ:LIQUID:목화 씨 기름]"
 
 #: plant_crops.txt:1482
 msgctxt "PLANT:COTTON"
@@ -46114,7 +46115,7 @@ msgstr ""
 #: plant_crops.txt:1488
 msgctxt "PLANT:COTTON"
 msgid "[STATE_NAME_ADJ:LIQUID:melted cottonseed oil soap]"
-msgstr "[STATE_NAME_ADJ:LIQUID:녹은 목화씨 오일 비누]"
+msgstr "[STATE_NAME_ADJ:LIQUID:녹은 목화 씨 오일 비누]"
 
 #: plant_crops.txt:1489
 msgctxt "PLANT:COTTON"
@@ -46134,7 +46135,7 @@ msgstr ""
 #: plant_crops.txt:1501
 msgctxt "PLANT:COTTON"
 msgid "[STATE_NAME_ADJ:SOLID_PRESSED:cotton seed press cake]"
-msgstr ""
+msgstr "[STATE_NAME_ADJ:SOLID_PRESSED:목화 씨 찌꺼기]"
 
 #: plant_crops.txt:1510
 msgctxt "PLANT:COTTON"
@@ -46219,42 +46220,42 @@ msgstr ""
 #: plant_crops.txt:1568
 msgctxt "PLANT:KENAF"
 msgid "[NAME:kenaf plant]"
-msgstr ""
+msgstr "[NAME:케나프]"
 
 #: plant_crops.txt:1568
 msgctxt "PLANT:KENAF"
 msgid "[NAME_PLURAL:kenaf plants]"
-msgstr ""
+msgstr "[NAME_PLURAL:케나프들]"
 
 #: plant_crops.txt:1568
 msgctxt "PLANT:KENAF"
 msgid "[ADJ:kenaf plant]"
-msgstr ""
+msgstr "[ADJ:케나프]"
 
 #: plant_crops.txt:1577
 msgctxt "PLANT:KENAF"
 msgid "[STATE_NAME_ADJ:ALL_SOLID:frozen kenaf seed oil]"
-msgstr ""
+msgstr "[STATE_NAME_ADJ:ALL_SOLID:얼어붙은 케나프 씨 오일]"
 
 #: plant_crops.txt:1578
 msgctxt "PLANT:KENAF"
 msgid "[STATE_NAME_ADJ:LIQUID:kenaf seed oil]"
-msgstr ""
+msgstr "[STATE_NAME_ADJ:LIQUID:케나프 씨 오일]"
 
 #: plant_crops.txt:1579
 msgctxt "PLANT:KENAF"
 msgid "[STATE_NAME_ADJ:GAS:boiling kenaf seed oil]"
-msgstr ""
+msgstr "[STATE_NAME_ADJ:GAS:기화된 케나프 씨 오일]"
 
 #: plant_crops.txt:1584
 msgctxt "PLANT:KENAF"
 msgid "[STATE_NAME_ADJ:ALL_SOLID:kenaf seed oil soap]"
-msgstr ""
+msgstr "[STATE_NAME_ADJ:ALL_SOLID:케나프 씨 오일 비누]"
 
 #: plant_crops.txt:1585
 msgctxt "PLANT:KENAF"
 msgid "[STATE_NAME_ADJ:LIQUID:melted kenaf seed oil soap]"
-msgstr ""
+msgstr "[STATE_NAME_ADJ:LIQUID:녹은 케나프 씨 오일 비누]"
 
 #: plant_crops.txt:1586
 msgctxt "PLANT:KENAF"
@@ -46264,22 +46265,22 @@ msgstr "[STATE_NAME_ADJ:GAS:n/a]"
 #: plant_crops.txt:1596
 msgctxt "PLANT:KENAF"
 msgid "[STATE_NAME_ADJ:ALL_SOLID:kenaf seed]"
-msgstr ""
+msgstr "[STATE_NAME_ADJ:ALL_SOLID:케나프 씨]"
 
 #: plant_crops.txt:1597
 msgctxt "PLANT:KENAF"
 msgid "[STATE_NAME_ADJ:SOLID_PASTE:kenaf seed paste]"
-msgstr ""
+msgstr "[STATE_NAME_ADJ:SOLID_PASTE:케나프 씨 반죽]"
 
 #: plant_crops.txt:1598
 msgctxt "PLANT:KENAF"
 msgid "[STATE_NAME_ADJ:SOLID_PRESSED:kenaf seed press cake]"
-msgstr ""
+msgstr "[STATE_NAME_ADJ:SOLID_PRESSED:케나프 씨 찌꺼기]"
 
 #: plant_crops.txt:1607
 msgctxt "PLANT:KENAF"
 msgid "[SEED:kenaf seed:kenaf seeds:]"
-msgstr ""
+msgstr "[SEED:케나프 씨:케나프 씨들:]"
 
 #: plant_crops.txt:1610
 msgctxt "PLANT:KENAF"
@@ -46289,27 +46290,27 @@ msgstr "[PREFSTRING:꽃들]"
 #: plant_crops.txt:1612
 msgctxt "PLANT:KENAF"
 msgid "[STATE_NAME_ADJ:SOLID:kenaf]"
-msgstr ""
+msgstr "[STATE_NAME_ADJ:SOLID:케나프]"
 
 #: plant_crops.txt:1613
 msgctxt "PLANT:KENAF"
 msgid "[STATE_NAME_ADJ:SOLID_PASTE:kenaf slurry]"
-msgstr ""
+msgstr "[STATE_NAME_ADJ:SOLID_PASTE:케나프 곤죽]"
 
 #: plant_crops.txt:1614
 msgctxt "PLANT:KENAF"
 msgid "[STATE_NAME_ADJ:SOLID_PRESSED:kenaf paper]"
-msgstr ""
+msgstr "[STATE_NAME_ADJ:SOLID_PRESSED:케나프 종이]"
 
 #: plant_crops.txt:1621
 msgctxt "PLANT:KENAF"
 msgid "[GROWTH_NAME:kenaf leaf:kenaf leaves]"
-msgstr ""
+msgstr "[GROWTH_NAME:케나프 잎:케나프 잎들]"
 
 #: plant_crops.txt:1626
 msgctxt "PLANT:KENAF"
 msgid "[GROWTH_NAME:kenaf flower:STP]"
-msgstr ""
+msgstr "[GROWTH_NAME:케나프 꽃:STP]"
 
 #: plant_crops.txt:1633
 msgctxt "PLANT:PAPYRUS_SEDGE"
@@ -46809,27 +46810,27 @@ msgstr ""
 #: plant_garden.txt:489
 msgctxt "PLANT:CASSAVA"
 msgid "[STATE_NAME_ADJ:ALL_SOLID:frozen cassava beer]"
-msgstr ""
+msgstr "[STATE_NAME_ADJ:ALL_SOLID:얼어붙은 카사바 맥주]"
 
 #: plant_garden.txt:490
 msgctxt "PLANT:CASSAVA"
 msgid "[STATE_NAME_ADJ:LIQUID:cassava beer]"
-msgstr ""
+msgstr "[STATE_NAME_ADJ:LIQUID:카사바 맥주]"
 
 #: plant_garden.txt:491
 msgctxt "PLANT:CASSAVA"
 msgid "[STATE_NAME_ADJ:GAS:boiling cassava beer]"
-msgstr ""
+msgstr "[STATE_NAME_ADJ:GAS:기화된 카사바 맥주]"
 
 #: plant_garden.txt:507
 msgctxt "PLANT:CASSAVA"
 msgid "[SEED:cassava seed:cassava seeds:]"
-msgstr ""
+msgstr "[SEED:카사바 씨:카사바 씨들:]"
 
 #: plant_garden.txt:510
 msgctxt "PLANT:CASSAVA"
 msgid "[PREFSTRING:roots]"
-msgstr ""
+msgstr "[PREFSTRING:뿌리 ]"
 
 #: plant_garden.txt:512
 msgctxt "PLANT:CASSAVA"
@@ -47949,7 +47950,7 @@ msgstr ""
 #: plant_garden.txt:1698
 msgctxt "PLANT:TARO"
 msgid "[PREFSTRING:roots]"
-msgstr ""
+msgstr "[PREFSTRING:뿌리]"
 
 #: plant_garden.txt:1700
 msgctxt "PLANT:TARO"
@@ -49214,17 +49215,17 @@ msgstr ""
 #: plant_grasses.txt:609
 msgctxt "PLANT:BAMBOO, ARROW"
 msgid "[ALL_NAMES:arrow bamboo]"
-msgstr ""
+msgstr "[ALL_NAMES:화살 대나무]"
 
 #: plant_grasses.txt:620
 msgctxt "PLANT:BAMBOO, GOLDEN"
 msgid "[ALL_NAMES:golden bamboo]"
-msgstr ""
+msgstr "[ALL_NAMES:황금빛 대나무]"
 
 #: plant_grasses.txt:632
 msgctxt "PLANT:BAMBOO, HEDGE"
 msgid "[ALL_NAMES:hedge bamboo]"
-msgstr ""
+msgstr "[ALL_NAMES:울타리 대나무]"
 
 #: plant_new_trees.txt:15
 msgctxt "PLANT:ABACA"
@@ -50569,7 +50570,7 @@ msgstr "[SEED:마카다미아너트:마카다미아너트들:]"
 #: plant_new_trees.txt:1777
 msgctxt "PLANT:MACADAMIA"
 msgid "[PREFSTRING:nuts]"
-msgstr ""
+msgstr "[PREFSTRING:견과류]"
 
 #: plant_new_trees.txt:1782
 msgctxt "PLANT:MACADAMIA"
@@ -50774,7 +50775,7 @@ msgstr "[SEED:아몬드:아몬드들:]"
 #: plant_new_trees.txt:2013
 msgctxt "PLANT:ALMOND"
 msgid "[PREFSTRING:nuts]"
-msgstr ""
+msgstr "[PREFSTRING:견과류]"
 
 #: plant_new_trees.txt:2018
 msgctxt "PLANT:ALMOND"
@@ -51144,7 +51145,7 @@ msgstr "[SEED:헤이즐넛:헤이즐넛들:]"
 #: plant_new_trees.txt:2491
 msgctxt "PLANT:HAZEL"
 msgid "[PREFSTRING:nuts]"
-msgstr ""
+msgstr "[PREFSTRING:견과류]"
 
 #: plant_new_trees.txt:2496
 msgctxt "PLANT:HAZEL"
@@ -51869,17 +51870,17 @@ msgstr "[GROWTH_NAME:암석덤불 이파리:암석덤불 이파리들]"
 #: plant_standard.txt:276
 msgctxt "PLANT:ROOT_MUCK"
 msgid "[NAME:muck root]"
-msgstr ""
+msgstr "[NAME:진창뿌리]"
 
 #: plant_standard.txt:276
 msgctxt "PLANT:ROOT_MUCK"
 msgid "[NAME_PLURAL:muck roots]"
-msgstr ""
+msgstr "[NAME_PLURAL:진창뿌리들]"
 
 #: plant_standard.txt:276
 msgctxt "PLANT:ROOT_MUCK"
 msgid "[ADJ:muck root]"
-msgstr ""
+msgstr "[ADJ:진창뿌리]"
 
 #: plant_standard.txt:288
 msgctxt "PLANT:ROOT_MUCK"
@@ -51899,7 +51900,7 @@ msgstr ""
 #: plant_standard.txt:299
 msgctxt "PLANT:ROOT_MUCK"
 msgid "[SEED:muck root seed:muck root seeds:]"
-msgstr ""
+msgstr "[SEED:진창뿌리 씨:진창뿌리 씨들:]"
 
 #: plant_standard.txt:303
 msgctxt "PLANT:ROOT_MUCK"
@@ -52539,7 +52540,7 @@ msgstr ""
 #: plant_standard.txt:859
 msgctxt "PLANT:MANGROVE"
 msgid "[PREFSTRING:roots]"
-msgstr ""
+msgstr "[PREFSTRING:뿌리]"
 
 #: plant_standard.txt:865
 msgctxt "PLANT:MANGROVE"
@@ -53649,7 +53650,7 @@ msgstr ""
 #: plant_standard.txt:2222
 msgctxt "PLANT:CANDLENUT"
 msgid "[PREFSTRING:nuts]"
-msgstr ""
+msgstr "[PREFSTRING:견과류]"
 
 #: plant_standard.txt:2227
 msgctxt "PLANT:CANDLENUT"
@@ -53714,7 +53715,7 @@ msgstr "[SEED:망고 씨앗:망고 씨앗들:]"
 #: plant_standard.txt:2304
 msgctxt "PLANT:MANGO"
 msgid "[PREFSTRING:sweet-smelling flowers]"
-msgstr ""
+msgstr "[PREFSTRING:달콤한 향이 나는 꽃들]"
 
 #: plant_standard.txt:2309
 msgctxt "PLANT:MANGO"
@@ -54455,7 +54456,7 @@ msgstr "[NAME:수지로 비누 만들기]"
 #: reaction_other.txt:29
 msgctxt "REACTION:MAKE_SOAP_FROM_TALLOW"
 msgid "[REAGENT:lye:]"
-msgstr ""
+msgstr "[REAGENT:잿물:]"
 
 #: reaction_other.txt:30
 msgctxt "REACTION:MAKE_SOAP_FROM_TALLOW"
@@ -54671,7 +54672,7 @@ msgstr ""
 #: reaction_other.txt:162
 msgctxt "REACTION:GLAZE_STATUE"
 msgid "[REAGENT:statue:]"
-msgstr ""
+msgstr "[REAGENT:조각상:]"
 
 #: reaction_other.txt:167
 msgctxt "REACTION:GLAZE_STATUE"
@@ -55093,7 +55094,7 @@ msgstr ""
 #: reaction_other.txt:404
 msgctxt "REACTION:MAKE_SLURRY_FROM_PLANT"
 msgid "[REAGENT:plant:]"
-msgstr ""
+msgstr "[REAGENT:작물:]"
 
 #: reaction_other.txt:407
 msgctxt "REACTION:MAKE_SLURRY_FROM_PLANT"
@@ -55138,7 +55139,7 @@ msgstr ""
 #: reaction_other.txt:430
 msgctxt "REACTION:BIND_BOOK"
 msgid "[REAGENT:thread:]"
-msgstr ""
+msgstr "[REAGENT:실:]"
 
 #: reaction_other.txt:432
 msgctxt "REACTION:BIND_BOOK"
