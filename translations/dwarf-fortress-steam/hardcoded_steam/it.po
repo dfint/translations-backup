@@ -1571,7 +1571,7 @@ msgstr "è stato"
 
 #: stringdump_steam_0_50_05_sorted_by_xrefs.txt:442
 msgid "torn"
-msgstr "strappato"
+msgstr "lacerato"
 
 #: stringdump_steam_0_50_05_sorted_by_xrefs.txt:443
 msgid "sprained"
@@ -7999,7 +7999,7 @@ msgstr "Apri modalità Scorta"
 
 #: stringdump_steam_0_50_05_sorted_by_xrefs.txt:2096
 msgid "Place All stockpile"
-msgstr "Piazza scorta generica"
+msgstr "Piazza Scorta generica"
 
 #: stringdump_steam_0_50_05_sorted_by_xrefs.txt:2097
 msgid "Open tree-felling mode"
@@ -8458,9 +8458,9 @@ msgid ""
 "[C:6:0:0]All Stockpile[C:7:0:0] unless you turn it off in the "
 "[C:5:0:1]Custom Stockpile Menu[C:7:0:0]."
 msgstr ""
-"I [C:2:0:0]Haulers[C:7:0:0] continueranno a portare il "
-"[C:6:0:1]Wood[C:7:0:0] nei tuoi [C:6:0:0]All Stockpile[C:7:0:0] se non "
-"disattivi il deposito nel  [C:5:0:1]Custom Stockpile Menu[C:7:0:0]."
+"I [C:2:0:0]Trasportatori[C:7:0:0] lasceranno pure il [C:6:0:1]Legno[C:7:0:0]"
+" nelle [C:6:0:0]Scorte generiche[C:7:0:0], a meno che non lo disattivi dal "
+"[C:5:0:1]Menù Scorte personalizzate[C:7:0:0]."
 
 #: stringdump_steam_0_50_05_sorted_by_xrefs.txt:2174
 msgid ""
@@ -8483,8 +8483,8 @@ msgid ""
 "If the fallen logs are accessible, everyone will help store them in the "
 "[C:6:0:0]Stockpile[C:7:0:0].  "
 msgstr ""
-"Se i tronchi caduti sono accessibili, chiunque aiuterà a portarli "
-"nella[C:6:0:0]Scorta[C:7:0:0]."
+"Se i tronchi abbattuti sono accessibili, ognuno aiuterà a riporli nella "
+"[C:6:0:0]Scorta[C:7:0:0].  "
 
 #: stringdump_steam_0_50_05_sorted_by_xrefs.txt:2178
 msgid ""
@@ -8802,8 +8802,7 @@ msgstr "C'è molto altro da imparare!"
 
 #: stringdump_steam_0_50_05_sorted_by_xrefs.txt:2225
 msgid "As you enter new menus, there will be information and tips."
-msgstr ""
-"Quando entri in un nuovo menù, ci saranno informazioni e suggerimenti."
+msgstr "Accedendo a nuovi menù troverai informazioni e consigli."
 
 #: stringdump_steam_0_50_05_sorted_by_xrefs.txt:2226
 msgid ""
@@ -8926,9 +8925,9 @@ msgid ""
 "[C:5:0:1]Build[C:7:0:0] menu using [C:5:0:1]Workshops[C:7:0:0] -> "
 "[C:5:0:1]Farming[C:7:0:0] -> [C:5:0:1]Still[C:7:0:0]. "
 msgstr ""
-"Questo si fa costruendo una [C:6:0:0]Still[C:7:0:0] dal menù "
-"[C:5:0:1]Build[C:7:0:0] -> [C:5:0:1]Workshops[C:7:0:0] -> "
-"[C:5:0:1]Farming[C:7:0:0] -> [C:5:0:1]Still[C:7:0:0]. "
+"Ciò si fa costruendo un [C:6:0:0]Distillatore[C:7:0:0] dal menù "
+"[C:5:0:1]Costruisci[C:7:0:0] tramite [C:5:0:1]Botteghe[C:7:0:0] -> "
+"[C:5:0:1]Agricoltura[C:7:0:0] -> [C:5:0:1]Distillatore[C:7:0:0]. "
 
 #: stringdump_steam_0_50_05_sorted_by_xrefs.txt:2249
 msgid ""
@@ -18684,14 +18683,16 @@ msgid ""
 "Toggle whether the stockpile allows plant and animal-based objects, "
 "regardless of other settings."
 msgstr ""
-"Consente di modificare se la scorta consente oggetti a base vegetale e "
-"animale, indipendentemente dalle altre impostazioni."
+"Alterna se la scorta consente, o no, oggetti a base vegetale e animale, "
+"indipendentemente dalle altre impostazioni."
 
 #: stringdump_steam_0_50_05_sorted_by_xrefs.txt:4752
 msgid ""
 "Toggle whether the stockpile allows non-plant-and-animal-based objects, "
 "regardless of other settings."
 msgstr ""
+"Alterna se la scorta consente, o no, oggetti non a base vegetale e animale, "
+"indipendentemente dalle altre impostazioni."
 
 #: stringdump_steam_0_50_05_sorted_by_xrefs.txt:4753
 msgid "Toggle whether goods banned by export mandates are listed."
@@ -22778,7 +22779,7 @@ msgstr "[C:4:0:1].Distrutto"
 
 #: stringdump_steam_0_50_05_sorted_by_xrefs.txt:5653
 msgid "[C:4:0:1].Torn apart"
-msgstr "[C:4:0:1].Diviso in due"
+msgstr "[C:4:0:1].Lacerato in due"
 
 #: stringdump_steam_0_50_05_sorted_by_xrefs.txt:5654
 msgid "[C:4:0:1].Cut open"
@@ -22794,7 +22795,7 @@ msgstr "[C:4:0:1].Spaccato"
 
 #: stringdump_steam_0_50_05_sorted_by_xrefs.txt:5657
 msgid "[C:4:0:1].Torn open"
-msgstr "[C:4:0:1].Squartato"
+msgstr "[C:4:0:1].Squarciato"
 
 #: stringdump_steam_0_50_05_sorted_by_xrefs.txt:5658
 msgid "[C:6:0:0].Dented"
@@ -41779,7 +41780,7 @@ msgstr "spaccato"
 
 #: stringdump_steam_0_50_05_sorted_by_xrefs.txt:11021
 msgid "torn open"
-msgstr "squartato"
+msgstr "squarciato"
 
 #: stringdump_steam_0_50_05_sorted_by_xrefs.txt:11022
 msgid "gouting"
@@ -43735,11 +43736,11 @@ msgstr ""
 
 #: stringdump_steam_0_50_05_sorted_by_xrefs.txt:12828
 msgid "Seek Update Office"
-msgstr ""
+msgstr "Cerca Aggiornamento Ufficio"
 
 #: stringdump_steam_0_50_05_sorted_by_xrefs.txt:12829
 msgid "Seek Manage Office"
-msgstr ""
+msgstr "Cerca Gestisci Ufficio"
 
 #: stringdump_steam_0_50_05_sorted_by_xrefs.txt:12830
 msgid "Assigned Building Job"
@@ -43759,15 +43760,15 @@ msgstr ""
 
 #: stringdump_steam_0_50_05_sorted_by_xrefs.txt:12834
 msgid "Flee from Opponent"
-msgstr ""
+msgstr "Scappa da Avversario"
 
 #: stringdump_steam_0_50_05_sorted_by_xrefs.txt:12835
 msgid "Flee from Opponent (Climb)"
-msgstr ""
+msgstr "Fuggi dall'Avversario (Arrampicata)"
 
 #: stringdump_steam_0_50_05_sorted_by_xrefs.txt:12836
 msgid "Attack Building"
-msgstr ""
+msgstr "Attacca Edificio"
 
 #: stringdump_steam_0_50_05_sorted_by_xrefs.txt:12837
 msgid "Start Bed Carry"
@@ -43775,7 +43776,7 @@ msgstr ""
 
 #: stringdump_steam_0_50_05_sorted_by_xrefs.txt:12838
 msgid "Start Medical Aid"
-msgstr ""
+msgstr "Avvia Assistenza Medica"
 
 #: stringdump_steam_0_50_05_sorted_by_xrefs.txt:12839
 msgid "Seek Station Flood"
@@ -43879,7 +43880,7 @@ msgstr ""
 
 #: stringdump_steam_0_50_05_sorted_by_xrefs.txt:12864
 msgid "Army Walk"
-msgstr ""
+msgstr "Esercito Marcia"
 
 #: stringdump_steam_0_50_05_sorted_by_xrefs.txt:12865
 msgid "Reunion"
@@ -43887,11 +43888,11 @@ msgstr "Riunione"
 
 #: stringdump_steam_0_50_05_sorted_by_xrefs.txt:12866
 msgid "Seek Ladder to Climb"
-msgstr ""
+msgstr "Cerca Scala per Arrampicare"
 
 #: stringdump_steam_0_50_05_sorted_by_xrefs.txt:12867
 msgid "Seek Ladder to Move"
-msgstr ""
+msgstr "Cerca Scala per Muovere"
 
 #: stringdump_steam_0_50_05_sorted_by_xrefs.txt:12868
 msgid "Place Ladder"
@@ -43899,11 +43900,11 @@ msgstr "Piazza Scala"
 
 #: stringdump_steam_0_50_05_sorted_by_xrefs.txt:12869
 msgid "Prayer"
-msgstr ""
+msgstr "Preghiera"
 
 #: stringdump_steam_0_50_05_sorted_by_xrefs.txt:12870
 msgid "Make Believe"
-msgstr ""
+msgstr "Far finta"
 
 #: stringdump_steam_0_50_05_sorted_by_xrefs.txt:12871
 msgid "Play with Toy"
@@ -43971,15 +43972,15 @@ msgstr "Esegui comando"
 
 #: stringdump_steam_0_50_05_sorted_by_xrefs.txt:12887
 msgid "Seek Heist Item"
-msgstr ""
+msgstr "Cerca Oggetto Rapina"
 
 #: stringdump_steam_0_50_05_sorted_by_xrefs.txt:12888
 msgid "Seek Heist Master"
-msgstr ""
+msgstr "Cerca Maestro della Rapina"
 
 #: stringdump_steam_0_50_05_sorted_by_xrefs.txt:12889
 msgid "Seek Heist Handoff"
-msgstr ""
+msgstr "Cerca Rapina Passaggio di consegne"
 
 #: stringdump_steam_0_50_05_sorted_by_xrefs.txt:12916
 msgid "agricultural"
@@ -45127,15 +45128,15 @@ msgstr "Colline"
 
 #: stringdump_steam_0_50_05_sorted_by_xrefs.txt:13291
 msgid "Reveal All Historical Events"
-msgstr ""
+msgstr "Rivela Tutti gli Eventi Storici"
 
 #: stringdump_steam_0_50_05_sorted_by_xrefs.txt:13647
 msgid "pillar"
-msgstr ""
+msgstr "pilastro"
 
 #: stringdump_steam_0_50_05_sorted_by_xrefs.txt:13799
 msgid "pungent"
-msgstr ""
+msgstr "pungente"
 
 #: stringdump_steam_0_50_05_sorted_by_xrefs.txt:13800
 msgid "blob"
@@ -47167,7 +47168,7 @@ msgstr "rispetta profondamente gli oratori eloquenti"
 
 #: stringdump_steam_0_50_05_sorted_by_xrefs.txt:14311
 msgid "greatly respects the shrewd and guileful"
-msgstr ""
+msgstr "rispetta molto lo scaltro e l'approfittatore"
 
 #: stringdump_steam_0_50_05_sorted_by_xrefs.txt:14314
 msgid "ill-sized art actions (1): "
@@ -47515,11 +47516,11 @@ msgstr "intruso"
 
 #: stringdump_steam_0_50_05_sorted_by_xrefs.txt:14737
 msgid "haunts"
-msgstr ""
+msgstr "infesta"
 
 #: stringdump_steam_0_50_05_sorted_by_xrefs.txt:14739
 msgid "Examination of the Dead"
-msgstr ""
+msgstr "Esaminazione del Morto"
 
 #: stringdump_steam_0_50_05_sorted_by_xrefs.txt:14744
 msgid "Button"
@@ -48766,7 +48767,7 @@ msgstr "sommi sacerdoti"
 
 #: stringdump_steam_0_50_05_sorted_by_xrefs.txt:15447
 msgid "River Source"
-msgstr ""
+msgstr "Fonte Fiume"
 
 #: stringdump_steam_0_50_05_sorted_by_xrefs.txt:15449
 msgid "baron"
@@ -49272,7 +49273,7 @@ msgstr " formazione."
 
 #: stringdump_steam_0_50_05_sorted_by_xrefs.txt:15604
 msgid "Screws"
-msgstr ""
+msgstr "Viti"
 
 #: stringdump_steam_0_50_05_sorted_by_xrefs.txt:15605
 msgid "make weapon"
@@ -49302,7 +49303,7 @@ msgstr ""
 
 #: stringdump_steam_0_50_05_sorted_by_xrefs.txt:15611
 msgid "the fall of "
-msgstr ""
+msgstr "la caduta di "
 
 #: stringdump_steam_0_50_05_sorted_by_xrefs.txt:15612
 msgid "An animal"
@@ -49322,7 +49323,7 @@ msgstr "compagnia"
 
 #: stringdump_steam_0_50_05_sorted_by_xrefs.txt:15617
 msgid "tends not to be swayed by emotional appeals"
-msgstr ""
+msgstr "tende a non farsi influenzare dai richiami emotivi"
 
 #: stringdump_steam_0_50_05_sorted_by_xrefs.txt:15618
 msgid " in the Wilds"
@@ -53077,7 +53078,7 @@ msgstr ""
 
 #: stringdump_steam_0_50_05_sorted_by_xrefs.txt:16650
 msgid " family"
-msgstr ""
+msgstr " famiglia"
 
 #: stringdump_steam_0_50_05_sorted_by_xrefs.txt:16651
 msgid "as a symbol of authority within "
@@ -53085,27 +53086,27 @@ msgstr "come simbolo di autorità in "
 
 #: stringdump_steam_0_50_05_sorted_by_xrefs.txt:16652
 msgid "due to envy of those that live on"
-msgstr ""
+msgstr "a causa dell'invidia per chi ancora vive"
 
 #: stringdump_steam_0_50_05_sorted_by_xrefs.txt:16653
 msgid "due to panic about what happens after death"
-msgstr ""
+msgstr "a causa del panico per ciò che accade dopo la morte"
 
 #: stringdump_steam_0_50_05_sorted_by_xrefs.txt:16654
 msgid "due to fear of death"
-msgstr ""
+msgstr "a causa della paura della morte"
 
 #: stringdump_steam_0_50_05_sorted_by_xrefs.txt:16655
 msgid "unable to face any possible judgment and the afterlife"
-msgstr ""
+msgstr "incapace di affrontare ogni possibile giudizio e l'aldilà"
 
 #: stringdump_steam_0_50_05_sorted_by_xrefs.txt:16656
 msgid "being too proud to give in to death"
-msgstr ""
+msgstr "essere troppo orgogliosi per arrendersi alla morte"
 
 #: stringdump_steam_0_50_05_sorted_by_xrefs.txt:16657
 msgid "being too vain to give in to death"
-msgstr ""
+msgstr "essere troppo vanitosi per arrendersi alla morte"
 
 #: stringdump_steam_0_50_05_sorted_by_xrefs.txt:16658
 msgid "having ambitions for which death was only a small obstacle"
@@ -53181,87 +53182,87 @@ msgstr "ingegneria"
 
 #: stringdump_steam_0_50_05_sorted_by_xrefs.txt:16676
 msgid "due to a lack of funds"
-msgstr ""
+msgstr "per mancanza di fondi"
 
 #: stringdump_steam_0_50_05_sorted_by_xrefs.txt:16677
 msgid "after taking heavy losses in battle"
-msgstr ""
+msgstr "dopo aver subito pesanti perdite in battaglia"
 
 #: stringdump_steam_0_50_05_sorted_by_xrefs.txt:16678
 msgid "after the death of "
-msgstr ""
+msgstr "dopo la morte di "
 
 #: stringdump_steam_0_50_05_sorted_by_xrefs.txt:16679
 msgid "after praying to "
-msgstr ""
+msgstr "dopo aver pregato "
 
 #: stringdump_steam_0_50_05_sorted_by_xrefs.txt:16680
 msgid "after performing the rites of "
-msgstr ""
+msgstr "dopo aver eseguito i riti di "
 
 #: stringdump_steam_0_50_05_sorted_by_xrefs.txt:16681
 msgid " in a dedicated temple"
-msgstr ""
+msgstr " in un tempio dedicato"
 
 #: stringdump_steam_0_50_05_sorted_by_xrefs.txt:16682
 msgid "after incompletely performing the rites of "
-msgstr ""
+msgstr "dopo aver eseguito in modo incompleto i riti di "
 
 #: stringdump_steam_0_50_05_sorted_by_xrefs.txt:16683
 msgid " in an improperly dedicated temple"
-msgstr ""
+msgstr " in un tempio impropriamente dedicato"
 
 #: stringdump_steam_0_50_05_sorted_by_xrefs.txt:16684
 msgid " in an undedicated temple"
-msgstr ""
+msgstr " in un tempio non consacrato"
 
 #: stringdump_steam_0_50_05_sorted_by_xrefs.txt:16685
 msgid "after dreaming of "
-msgstr ""
+msgstr "dopo aver sognato "
 
 #: stringdump_steam_0_50_05_sorted_by_xrefs.txt:16686
 msgid "after a dream"
-msgstr ""
+msgstr "dopo un sogno"
 
 #: stringdump_steam_0_50_05_sorted_by_xrefs.txt:16687
 msgid "after a nightmare"
-msgstr ""
+msgstr "dopo un incubo"
 
 #: stringdump_steam_0_50_05_sorted_by_xrefs.txt:16688
 msgid "after defeating "
-msgstr ""
+msgstr "dopo aver sconfitto "
 
 #: stringdump_steam_0_50_05_sorted_by_xrefs.txt:16689
 msgid "as the item was a favorite possession"
-msgstr ""
+msgstr "poiché l'oggetto era uno dei beni preferiti"
 
 #: stringdump_steam_0_50_05_sorted_by_xrefs.txt:16690
 msgid "by preserving a part of the body"
-msgstr ""
+msgstr "preservando una parte del corpo"
 
 #: stringdump_steam_0_50_05_sorted_by_xrefs.txt:16691
 msgid "after abducting "
-msgstr ""
+msgstr "dopo aver sequestrato "
 
 #: stringdump_steam_0_50_05_sorted_by_xrefs.txt:16692
 msgid "after murdering "
-msgstr ""
+msgstr "dopo aver ucciso "
 
 #: stringdump_steam_0_50_05_sorted_by_xrefs.txt:16693
 msgid "during "
-msgstr ""
+msgstr "durante"
 
 #: stringdump_steam_0_50_05_sorted_by_xrefs.txt:16694
 msgid "after acquiring "
-msgstr ""
+msgstr "dopo aver acquisito "
 
 #: stringdump_steam_0_50_05_sorted_by_xrefs.txt:16695
 msgid "after "
-msgstr ""
+msgstr "dopo "
 
 #: stringdump_steam_0_50_05_sorted_by_xrefs.txt:16696
 msgid " was given away"
-msgstr ""
+msgstr " è stato dato via"
 
 #: stringdump_steam_0_50_05_sorted_by_xrefs.txt:16697
 msgid "after preying on the blood of civilized creatures"
@@ -53269,15 +53270,15 @@ msgstr "dopo aver predato il sangue di creature civilizzate"
 
 #: stringdump_steam_0_50_05_sorted_by_xrefs.txt:16698
 msgid "being unnaturally ageless"
-msgstr ""
+msgstr "essere innaturalmente senza età"
 
 #: stringdump_steam_0_50_05_sorted_by_xrefs.txt:16699
 msgid "after a scholarly lecture in "
-msgstr ""
+msgstr "dopo una conferenza accademica in "
 
 #: stringdump_steam_0_50_05_sorted_by_xrefs.txt:16700
 msgid "after a performance in "
-msgstr ""
+msgstr "dopo uno spettacolo in "
 
 #: stringdump_steam_0_50_05_sorted_by_xrefs.txt:16701
 msgid "after accepting bribes in exchange for leniency"
@@ -53285,11 +53286,11 @@ msgstr "dopo aver accettato tangenti in cambio di clemenza"
 
 #: stringdump_steam_0_50_05_sorted_by_xrefs.txt:16702
 msgid "after embezzling funds"
-msgstr ""
+msgstr "dopo aver sottratto fondi"
 
 #: stringdump_steam_0_50_05_sorted_by_xrefs.txt:16703
 msgid "after receiving a cut of corruptly-obtained funds"
-msgstr ""
+msgstr "dopo aver ricevuto una parte dei fondi ottenuti con la corruzione"
 
 #: stringdump_steam_0_50_05_sorted_by_xrefs.txt:16704
 msgid "a time before time"
@@ -53306,27 +53307,27 @@ msgstr ""
 
 #: stringdump_steam_0_50_05_sorted_by_xrefs.txt:16707
 msgid " became infatuated with "
-msgstr ""
+msgstr " si è infatuato di "
 
 #: stringdump_steam_0_50_05_sorted_by_xrefs.txt:16708
 msgid " was bent toward supernatural vengeance upon "
-msgstr ""
+msgstr " era orientato verso una vendetta sovrannaturale nei confronti di "
 
 #: stringdump_steam_0_50_05_sorted_by_xrefs.txt:16709
 msgid " held a deep hatred of "
-msgstr ""
+msgstr " aveva un odio profondo nei confronti di "
 
 #: stringdump_steam_0_50_05_sorted_by_xrefs.txt:16710
 msgid " due to persecution"
-msgstr ""
+msgstr " a causa della persecuzione"
 
 #: stringdump_steam_0_50_05_sorted_by_xrefs.txt:16711
 msgid " due to religious persecution"
-msgstr ""
+msgstr " a causa di persecuzioni religiose"
 
 #: stringdump_steam_0_50_05_sorted_by_xrefs.txt:16712
 msgid " formed a grudge against "
-msgstr ""
+msgstr " ha nutrito rancore nei confronti di "
 
 #: stringdump_steam_0_50_05_sorted_by_xrefs.txt:16713
 msgid " over the latter's romantic relationship"
@@ -53334,39 +53335,39 @@ msgstr ""
 
 #: stringdump_steam_0_50_05_sorted_by_xrefs.txt:16714
 msgid " became lovers"
-msgstr ""
+msgstr " sono diventati amanti"
 
 #: stringdump_steam_0_50_05_sorted_by_xrefs.txt:16715
 msgid " broke up"
-msgstr ""
+msgstr " si sono lasciati"
 
 #: stringdump_steam_0_50_05_sorted_by_xrefs.txt:16716
 msgid " became friends "
-msgstr ""
+msgstr " sono diventati amici"
 
 #: stringdump_steam_0_50_05_sorted_by_xrefs.txt:16717
 msgid "due to a shared scholarly interest"
-msgstr ""
+msgstr "per via di un interesse intellettuale condiviso"
 
 #: stringdump_steam_0_50_05_sorted_by_xrefs.txt:16718
 msgid "due to a shared artistic interest"
-msgstr ""
+msgstr "per via di un interesse artistico condiviso"
 
 #: stringdump_steam_0_50_05_sorted_by_xrefs.txt:16719
 msgid " become friends over a shared love of athletics"
-msgstr ""
+msgstr " diventano amici per l'amore comune per l'atletica"
 
 #: stringdump_steam_0_50_05_sorted_by_xrefs.txt:16720
 msgid " developed an athletic rivalry"
-msgstr ""
+msgstr " hanno sviluppato una rivalità atletica"
 
 #: stringdump_steam_0_50_05_sorted_by_xrefs.txt:16721
 msgid " developed a business rivalry"
-msgstr ""
+msgstr " hanno sviluppato una rivalità commerciale"
 
 #: stringdump_steam_0_50_05_sorted_by_xrefs.txt:16722
 msgid " recognized "
-msgstr ""
+msgstr " riconosciuto "
 
 #: stringdump_steam_0_50_05_sorted_by_xrefs.txt:16723
 msgid ""
@@ -53378,75 +53379,75 @@ msgstr ""
 
 #: stringdump_steam_0_50_05_sorted_by_xrefs.txt:16724
 msgid " constructed a masterful "
-msgstr ""
+msgstr " ha costruito una magistrale "
 
 #: stringdump_steam_0_50_05_sorted_by_xrefs.txt:16725
 msgid " created a masterful "
-msgstr ""
+msgstr " ha creato un magistrale "
 
 #: stringdump_steam_0_50_05_sorted_by_xrefs.txt:16726
 msgid " masterfully dyed a "
-msgstr ""
+msgstr " magistralmente tinto un "
 
 #: stringdump_steam_0_50_05_sorted_by_xrefs.txt:16727
 msgid "added a masterful image"
-msgstr ""
+msgstr "ha aggiunto un'immagine magistrale"
 
 #: stringdump_steam_0_50_05_sorted_by_xrefs.txt:16728
 msgid "added a masterful covering"
-msgstr ""
+msgstr "ha aggiunto una copertura magistrale"
 
 #: stringdump_steam_0_50_05_sorted_by_xrefs.txt:16729
 msgid "added masterful rings"
-msgstr ""
+msgstr "ha aggiunto anelli magistrali"
 
 #: stringdump_steam_0_50_05_sorted_by_xrefs.txt:16730
 msgid "added masterful bands"
-msgstr ""
+msgstr "ha aggiunto bande magistrali"
 
 #: stringdump_steam_0_50_05_sorted_by_xrefs.txt:16731
 msgid "added masterful spikes"
-msgstr ""
+msgstr "ha aggiunto spuntoni magistrali"
 
 #: stringdump_steam_0_50_05_sorted_by_xrefs.txt:16732
 msgid "added a masterful chain"
-msgstr ""
+msgstr "ha aggiunto una catena magistrale"
 
 #: stringdump_steam_0_50_05_sorted_by_xrefs.txt:16733
 msgid "added a masterful rope"
-msgstr ""
+msgstr "ha aggiunto una corda magistrale"
 
 #: stringdump_steam_0_50_05_sorted_by_xrefs.txt:16734
 msgid "added masterful rollers"
-msgstr ""
+msgstr "ha aggiunto dei rulli magistrali"
 
 #: stringdump_steam_0_50_05_sorted_by_xrefs.txt:16735
 msgid "added a masterful handle"
-msgstr ""
+msgstr "ha aggiunto un'impugnatura magistrale"
 
 #: stringdump_steam_0_50_05_sorted_by_xrefs.txt:16736
 msgid "added masterful thread"
-msgstr ""
+msgstr "ha aggiunto un filo magistrale"
 
 #: stringdump_steam_0_50_05_sorted_by_xrefs.txt:16737
 msgid "added masterful cloth"
-msgstr ""
+msgstr "ha aggiunto stoffa magistrale"
 
 #: stringdump_steam_0_50_05_sorted_by_xrefs.txt:16738
 msgid "wove a masterful sewn image"
-msgstr ""
+msgstr "ha tessuto un'immagine cucita magistralmente"
 
 #: stringdump_steam_0_50_05_sorted_by_xrefs.txt:16739
 msgid "created a masterful illustration"
-msgstr ""
+msgstr "ha creato un'illustrazione magistrale"
 
 #: stringdump_steam_0_50_05_sorted_by_xrefs.txt:16740
 msgid "attached a masterful instrument piece"
-msgstr ""
+msgstr "ha attaccato un pezzo di strumento magistrale"
 
 #: stringdump_steam_0_50_05_sorted_by_xrefs.txt:16741
 msgid "masterfully wrote"
-msgstr ""
+msgstr "scritto magistralmente"
 
 #: stringdump_steam_0_50_05_sorted_by_xrefs.txt:16742
 msgid "created a masterful image set"
@@ -53454,35 +53455,35 @@ msgstr "ha creato una serie d'immagini magistrale"
 
 #: stringdump_steam_0_50_05_sorted_by_xrefs.txt:16743
 msgid " to a "
-msgstr ""
+msgstr " a un "
 
 #: stringdump_steam_0_50_05_sorted_by_xrefs.txt:16744
 msgid " prepared a masterful "
-msgstr ""
+msgstr " ha preparato un magistrale "
 
 #: stringdump_steam_0_50_05_sorted_by_xrefs.txt:16745
 msgid " created a masterful engraving"
-msgstr ""
+msgstr " ha creato un'incisione magistrale"
 
 #: stringdump_steam_0_50_05_sorted_by_xrefs.txt:16746
 msgid " destroyed "
-msgstr ""
+msgstr " distrutto "
 
 #: stringdump_steam_0_50_05_sorted_by_xrefs.txt:16747
 msgid "a masterpiece"
-msgstr ""
+msgstr "un capolavoro"
 
 #: stringdump_steam_0_50_05_sorted_by_xrefs.txt:16748
 msgid " by melting"
-msgstr ""
+msgstr " per scioglimento"
 
 #: stringdump_steam_0_50_05_sorted_by_xrefs.txt:16749
 msgid " by magma"
-msgstr ""
+msgstr " da magma"
 
 #: stringdump_steam_0_50_05_sorted_by_xrefs.txt:16750
 msgid " during fortification carving"
-msgstr ""
+msgstr " durante l'intaglio della fortificazione"
 
 #: stringdump_steam_0_50_05_sorted_by_xrefs.txt:16751
 msgid " during mining"
@@ -53490,15 +53491,15 @@ msgstr " durante gli scavi"
 
 #: stringdump_steam_0_50_05_sorted_by_xrefs.txt:16752
 msgid " by falling debris"
-msgstr ""
+msgstr " dalla caduta di detriti"
 
 #: stringdump_steam_0_50_05_sorted_by_xrefs.txt:16753
 msgid " by growing vegetation"
-msgstr ""
+msgstr " dalla crescita della vegetazione"
 
 #: stringdump_steam_0_50_05_sorted_by_xrefs.txt:16754
 msgid " masterfully constructed by "
-msgstr ""
+msgstr " magistralmente costruito da "
 
 #: stringdump_steam_0_50_05_sorted_by_xrefs.txt:16755
 msgid "the masterful "
@@ -53534,7 +53535,7 @@ msgstr "aggiunta di punte magistrali"
 
 #: stringdump_steam_0_50_05_sorted_by_xrefs.txt:16763
 msgid "addition of masterful rollers"
-msgstr ""
+msgstr "aggiunta di rulli magistrali"
 
 #: stringdump_steam_0_50_05_sorted_by_xrefs.txt:16764
 msgid "addition of a masterful handle"
@@ -53842,7 +53843,7 @@ msgstr "la resa di "
 
 #: stringdump_steam_0_50_05_sorted_by_xrefs.txt:16840
 msgid " routed "
-msgstr ""
+msgstr " ha mandato in rotta "
 
 #: stringdump_steam_0_50_05_sorted_by_xrefs.txt:16841
 msgid " and destroyed "
@@ -53963,11 +53964,11 @@ msgstr " all'insediamento di "
 #: stringdump_steam_0_50_05_sorted_by_xrefs.txt:16870
 msgid ""
 " regained their senses after an initial period of questionable judgment."
-msgstr ""
+msgstr " sono rinsaviti dopo un primo periodo di giudizio discutibile."
 
 #: stringdump_steam_0_50_05_sorted_by_xrefs.txt:16871
 msgid " regained their senses after another period of questionable judgment."
-msgstr ""
+msgstr " sono rinsaviti dopo un altro periodo di giudizio discutibile."
 
 #: stringdump_steam_0_50_05_sorted_by_xrefs.txt:16872
 msgid "the formation of "
@@ -53999,15 +54000,15 @@ msgstr "il ritorno alla ragione in occasione dell'insediamento di "
 
 #: stringdump_steam_0_50_05_sorted_by_xrefs.txt:16879
 msgid " laid a series of oppressive edicts upon "
-msgstr ""
+msgstr " posto una serie di editti oppressivi su "
 
 #: stringdump_steam_0_50_05_sorted_by_xrefs.txt:16880
 msgid " lifted numerous oppressive laws from "
-msgstr ""
+msgstr " rilevato numerose leggi oppressive da "
 
 #: stringdump_steam_0_50_05_sorted_by_xrefs.txt:16881
 msgid " enacted a series of oppressive laws"
-msgstr ""
+msgstr " emanato una serie di leggi oppressive"
 
 #: stringdump_steam_0_50_05_sorted_by_xrefs.txt:16882
 msgid " repealed numerous oppressive laws"
@@ -54095,7 +54096,7 @@ msgstr "la fondazione di "
 
 #: stringdump_steam_0_50_05_sorted_by_xrefs.txt:16903
 msgid "the emergence of "
-msgstr ""
+msgstr "la comparsa di "
 
 #: stringdump_steam_0_50_05_sorted_by_xrefs.txt:16904
 msgid "the rebuilding of "
@@ -54103,7 +54104,7 @@ msgstr "la ricostruzione di "
 
 #: stringdump_steam_0_50_05_sorted_by_xrefs.txt:16905
 msgid " from the underworld through the power of "
-msgstr ""
+msgstr " dagli inferi grazie al potere di "
 
 #: stringdump_steam_0_50_05_sorted_by_xrefs.txt:16906
 msgid "the replacement of "
@@ -54115,7 +54116,7 @@ msgstr "la demolizione di "
 
 #: stringdump_steam_0_50_05_sorted_by_xrefs.txt:16908
 msgid "prayer inside"
-msgstr ""
+msgstr "preghiera all'interno"
 
 #: stringdump_steam_0_50_05_sorted_by_xrefs.txt:16909
 msgid "disturbing"
@@ -54143,27 +54144,27 @@ msgstr " contro"
 
 #: stringdump_steam_0_50_05_sorted_by_xrefs.txt:16915
 msgid "the insurrection"
-msgstr ""
+msgstr "l'insurrezione"
 
 #: stringdump_steam_0_50_05_sorted_by_xrefs.txt:16916
 msgid "the local government"
-msgstr ""
+msgstr "il governo locale"
 
 #: stringdump_steam_0_50_05_sorted_by_xrefs.txt:16917
 msgid " crushed the insurrection in "
-msgstr ""
+msgstr " schiacciò l'insurrezione in "
 
 #: stringdump_steam_0_50_05_sorted_by_xrefs.txt:16918
 msgid "the insurrection in "
-msgstr ""
+msgstr "l'insurrezione in "
 
 #: stringdump_steam_0_50_05_sorted_by_xrefs.txt:16919
 msgid " ended with the disappearance of the rebelling population"
-msgstr ""
+msgstr " si è conclusa con la scomparsa della popolazione in rivolta"
 
 #: stringdump_steam_0_50_05_sorted_by_xrefs.txt:16920
 msgid " concluded with "
-msgstr ""
+msgstr " si è concluso con "
 
 #: stringdump_steam_0_50_05_sorted_by_xrefs.txt:16921
 msgid " overthrown"
@@ -54171,19 +54172,21 @@ msgstr " rovesciato"
 
 #: stringdump_steam_0_50_05_sorted_by_xrefs.txt:16922
 msgid "the crushing of the insurrection against "
-msgstr ""
+msgstr "la repressione dell'insurrezione contro "
 
 #: stringdump_steam_0_50_05_sorted_by_xrefs.txt:16923
 msgid "the end of the insurrection in "
-msgstr ""
+msgstr "la fine dell'insurrezione in "
 
 #: stringdump_steam_0_50_05_sorted_by_xrefs.txt:16924
 msgid "the overthrow of "
-msgstr ""
+msgstr "il rovesciamento di "
 
 #: stringdump_steam_0_50_05_sorted_by_xrefs.txt:16925
 msgid " were taken by a mood to act against their better judgment at "
 msgstr ""
+" sono stati travolti da uno stato d'animo che li ha portati ad agire contro "
+"il loro miglior giudizio a "
 
 #: stringdump_steam_0_50_05_sorted_by_xrefs.txt:16926
 msgid " launched an expedition to reclaim "
@@ -54191,15 +54194,15 @@ msgstr " ha lanciato una spedizione per reclamare "
 
 #: stringdump_steam_0_50_05_sorted_by_xrefs.txt:16927
 msgid "the questionable judgment of "
-msgstr ""
+msgstr "il discutibile giudizio di "
 
 #: stringdump_steam_0_50_05_sorted_by_xrefs.txt:16928
 msgid "the reclamation of "
-msgstr ""
+msgstr "il recupero di "
 
 #: stringdump_steam_0_50_05_sorted_by_xrefs.txt:16929
 msgid " devoured "
-msgstr ""
+msgstr " divorato "
 
 #: stringdump_steam_0_50_05_sorted_by_xrefs.txt:16930
 msgid "the devouring of "
@@ -54207,15 +54210,15 @@ msgstr "il divoramento di "
 
 #: stringdump_steam_0_50_05_sorted_by_xrefs.txt:16931
 msgid "burned out"
-msgstr ""
+msgstr "bruciato"
 
 #: stringdump_steam_0_50_05_sorted_by_xrefs.txt:16932
 msgid "torn off"
-msgstr ""
+msgstr "lacerato"
 
 #: stringdump_steam_0_50_05_sorted_by_xrefs.txt:16933
 msgid "torn out"
-msgstr ""
+msgstr "stracciato"
 
 #: stringdump_steam_0_50_05_sorted_by_xrefs.txt:16934
 msgid "ripped off"
@@ -54223,19 +54226,19 @@ msgstr "strappato via"
 
 #: stringdump_steam_0_50_05_sorted_by_xrefs.txt:16935
 msgid "stabbed out"
-msgstr ""
+msgstr "pugnalato"
 
 #: stringdump_steam_0_50_05_sorted_by_xrefs.txt:16936
 msgid "slashed off"
-msgstr ""
+msgstr "squarciato di netto"
 
 #: stringdump_steam_0_50_05_sorted_by_xrefs.txt:16937
 msgid "slashed out"
-msgstr ""
+msgstr "squarciato"
 
 #: stringdump_steam_0_50_05_sorted_by_xrefs.txt:16938
 msgid "broken away"
-msgstr ""
+msgstr "spezzato"
 
 #: stringdump_steam_0_50_05_sorted_by_xrefs.txt:16939
 msgid "ripped"
@@ -54247,7 +54250,7 @@ msgstr "pugnalato"
 
 #: stringdump_steam_0_50_05_sorted_by_xrefs.txt:16941
 msgid "slashed"
-msgstr "tagliato"
+msgstr "squarciato"
 
 #: stringdump_steam_0_50_05_sorted_by_xrefs.txt:16942
 msgid "smashed"
@@ -54255,39 +54258,39 @@ msgstr "distrutto"
 
 #: stringdump_steam_0_50_05_sorted_by_xrefs.txt:16943
 msgid " as a means of torture"
-msgstr ""
+msgstr " come mezzo di tortura"
 
 #: stringdump_steam_0_50_05_sorted_by_xrefs.txt:16944
 msgid "burning out"
-msgstr ""
+msgstr "bruciato"
 
 #: stringdump_steam_0_50_05_sorted_by_xrefs.txt:16945
 msgid "burning away"
-msgstr ""
+msgstr "mandato in fiamme"
 
 #: stringdump_steam_0_50_05_sorted_by_xrefs.txt:16946
 msgid "tearing off"
-msgstr ""
+msgstr "lacerare di netto"
 
 #: stringdump_steam_0_50_05_sorted_by_xrefs.txt:16947
 msgid "tearing out"
-msgstr ""
+msgstr "lacerare"
 
 #: stringdump_steam_0_50_05_sorted_by_xrefs.txt:16948
 msgid "ripping off"
-msgstr ""
+msgstr "strappare"
 
 #: stringdump_steam_0_50_05_sorted_by_xrefs.txt:16949
 msgid "stabbing out"
-msgstr ""
+msgstr "accoltellato"
 
 #: stringdump_steam_0_50_05_sorted_by_xrefs.txt:16950
 msgid "slashing off"
-msgstr ""
+msgstr "squarciare di netto"
 
 #: stringdump_steam_0_50_05_sorted_by_xrefs.txt:16951
 msgid "slashing out"
-msgstr ""
+msgstr "squarciare"
 
 #: stringdump_steam_0_50_05_sorted_by_xrefs.txt:16952
 msgid "ripping"
@@ -54299,7 +54302,7 @@ msgstr "accoltellando"
 
 #: stringdump_steam_0_50_05_sorted_by_xrefs.txt:16954
 msgid "slashing"
-msgstr "tagliando"
+msgstr "squarciare"
 
 #: stringdump_steam_0_50_05_sorted_by_xrefs.txt:16955
 msgid "smashing"
@@ -54347,7 +54350,7 @@ msgstr "il viaggio di "
 
 #: stringdump_steam_0_50_05_sorted_by_xrefs.txt:16967
 msgid " outmatched "
-msgstr " sorpassato "
+msgstr " superato "
 
 #: stringdump_steam_0_50_05_sorted_by_xrefs.txt:16968
 msgid " with a cunning plan"
@@ -54359,11 +54362,11 @@ msgstr " pianificazione tattica era superiore a "
 
 #: stringdump_steam_0_50_05_sorted_by_xrefs.txt:16970
 msgid " entirely outwitted "
-msgstr " vinto interamente in astuzia "
+msgstr " superato in astuzia "
 
 #: stringdump_steam_0_50_05_sorted_by_xrefs.txt:16971
 msgid " outmanuevered "
-msgstr " superato in astuzia "
+msgstr " vinto in abilità "
 
 #: stringdump_steam_0_50_05_sorted_by_xrefs.txt:16972
 msgid "but"
@@ -54491,7 +54494,7 @@ msgstr "un singolo "
 
 #: stringdump_steam_0_50_05_sorted_by_xrefs.txt:17003
 msgid "medicine:theory:convalescence"
-msgstr ""
+msgstr "medicina:teoria:convalescenza"
 
 #: stringdump_steam_0_50_05_sorted_by_xrefs.txt:17004
 msgid "slaying "
@@ -54519,7 +54522,7 @@ msgstr "lo scontro tra "
 
 #: stringdump_steam_0_50_05_sorted_by_xrefs.txt:17010
 msgid "performed horrible experiments"
-msgstr ""
+msgstr "ha eseguito esperimenti orribili"
 
 #: stringdump_steam_0_50_05_sorted_by_xrefs.txt:17011
 msgid "caroused"
@@ -54555,19 +54558,19 @@ msgstr " equipaggiamento"
 
 #: stringdump_steam_0_50_05_sorted_by_xrefs.txt:17019
 msgid "the horrible experiments of"
-msgstr ""
+msgstr "gli orribili esperimenti di"
 
 #: stringdump_steam_0_50_05_sorted_by_xrefs.txt:17020
 msgid "the carousal of"
-msgstr ""
+msgstr "il carosello di"
 
 #: stringdump_steam_0_50_05_sorted_by_xrefs.txt:17021
 msgid "the purchased of "
-msgstr ""
+msgstr "l'acquisto di"
 
 #: stringdump_steam_0_50_05_sorted_by_xrefs.txt:17022
 msgid " equipment by"
-msgstr ""
+msgstr "attrezzature da"
 
 #: stringdump_steam_0_50_05_sorted_by_xrefs.txt:17023
 msgid " tamed the "
@@ -54583,11 +54586,11 @@ msgstr "l'addomesticamento del"
 
 #: stringdump_steam_0_50_05_sorted_by_xrefs.txt:17026
 msgid " surprised "
-msgstr ""
+msgstr "sorpreso"
 
 #: stringdump_steam_0_50_05_sorted_by_xrefs.txt:17027
 msgid " ambushed "
-msgstr ""
+msgstr "imboscata"
 
 #: stringdump_steam_0_50_05_sorted_by_xrefs.txt:17028
 msgid " happened upon "
@@ -54595,23 +54598,23 @@ msgstr ""
 
 #: stringdump_steam_0_50_05_sorted_by_xrefs.txt:17029
 msgid " cornered "
-msgstr ""
+msgstr " messo all'angolo "
 
 #: stringdump_steam_0_50_05_sorted_by_xrefs.txt:17030
 msgid " confronted "
-msgstr ""
+msgstr " affrontato "
 
 #: stringdump_steam_0_50_05_sorted_by_xrefs.txt:17031
 msgid " got into a brawl with "
-msgstr ""
+msgstr " ha scatenato una rissa con "
 
 #: stringdump_steam_0_50_05_sorted_by_xrefs.txt:17032
 msgid " fought with and subdued "
-msgstr ""
+msgstr " combattuto e sottomesso "
 
 #: stringdump_steam_0_50_05_sorted_by_xrefs.txt:17033
 msgid " eventually prevailed and "
-msgstr ""
+msgstr " alla fine ha prevalso e "
 
 #: stringdump_steam_0_50_05_sorted_by_xrefs.txt:17034
 msgid " was forced to make a hasty escape"
@@ -54619,7 +54622,7 @@ msgstr " è stato costretto a una fuga precipitosa"
 
 #: stringdump_steam_0_50_05_sorted_by_xrefs.txt:17035
 msgid " was forced to retreat from "
-msgstr ""
+msgstr " è stato costretto a ritirarsi da "
 
 #: stringdump_steam_0_50_05_sorted_by_xrefs.txt:17036
 msgid " despite the latter's wounds"
@@ -55025,7 +55028,7 @@ msgstr "ha ceduto all'infezione"
 
 #: stringdump_steam_0_50_05_sorted_by_xrefs.txt:17136
 msgid "was left out in the air"
-msgstr ""
+msgstr "è stato lasciato all'aria in una gabbia sospesa"
 
 #: stringdump_steam_0_50_05_sorted_by_xrefs.txt:17137
 msgid "was drowned"
@@ -60500,7 +60503,7 @@ msgstr "Mantieni il possesso del "
 
 #: stringdump_steam_0_50_05_sorted_by_xrefs.txt:19731
 msgid " is torn from your "
-msgstr " è strappato dal tuo"
+msgstr " è strappato dal tuo "
 
 #: stringdump_steam_0_50_05_sorted_by_xrefs.txt:19732
 msgid "You've lost possession of the "
@@ -60787,7 +60790,7 @@ msgstr "Sepolto vivo"
 
 #: stringdump_steam_0_50_05_sorted_by_xrefs.txt:19852
 msgid "Left out in the air"
-msgstr "Lasciato per aria"
+msgstr "Esposto in gabbia sospesa"
 
 #: stringdump_steam_0_50_05_sorted_by_xrefs.txt:19853
 msgid "Drowned"
@@ -70303,7 +70306,7 @@ msgstr "apprezza le opere d’arte e la loro creazione"
 
 #: stringdump_steam_0_50_05_sorted_by_xrefs.txt:24475
 msgid " is torn by this since "
-msgstr ""
+msgstr " è lacerato da questo da "
 
 #: stringdump_steam_0_50_05_sorted_by_xrefs.txt:24476
 msgid " sees the whole pursuit of art as a waste"
@@ -87820,7 +87823,7 @@ msgstr ""
 
 #: stringdump_steam_0_50_05_sorted_by_xrefs.txt:30713
 msgid " voice has a tendency to trail off when "
-msgstr " voce ha la tendenza a perdere colpi quando "
+msgstr " voce tende ad affievolirsi quando "
 
 #: stringdump_steam_0_50_05_sorted_by_xrefs.txt:30714
 msgid "'s speaking"
@@ -87828,7 +87831,7 @@ msgstr ""
 
 #: stringdump_steam_0_50_05_sorted_by_xrefs.txt:30715
 msgid " voice trails off when "
-msgstr ""
+msgstr " la voce si affievolisce quando "
 
 #: stringdump_steam_0_50_05_sorted_by_xrefs.txt:30716
 msgid " is thinking about something"
@@ -87836,7 +87839,7 @@ msgstr ""
 
 #: stringdump_steam_0_50_05_sorted_by_xrefs.txt:30717
 msgid " voice trails off whenever "
-msgstr "voce si interrompe ogni volta che "
+msgstr "voce si affievolisce ogni volta che "
 
 #: stringdump_steam_0_50_05_sorted_by_xrefs.txt:30718
 msgid " tries to remember something"
