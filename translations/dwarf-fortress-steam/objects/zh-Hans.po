@@ -14,7 +14,6 @@
 # Ikamu, 2022
 # 朗笑, 2022
 # k Auro, 2022
-# 铭齐 梁, 2022
 # Lisherex Lisherex, 2022
 # Chiang, 2022
 # Jingyuan Xie, 2022
@@ -44,10 +43,11 @@
 # 奥里给大菠萝, 2023
 # jason bourne, 2023
 # liang Celestian, 2023
+# 铭齐 梁, 2023
 # 
 msgid ""
 msgstr ""
-"Last-Translator: liang Celestian, 2023\n"
+"Last-Translator: 铭齐 梁, 2023\n"
 "Language-Team: Chinese Simplified (https://www.transifex.com/dwarf-fortress-translation/teams/22396/zh-Hans/)\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -10510,7 +10510,7 @@ msgstr "[CASTE_NAME:蚊:蚊:蚊]"
 #: creature_bug_slug_new.txt:1026
 msgctxt "CREATURE:MOSQUITO"
 msgid "[PREFSTRING:high-pitched buzz]"
-msgstr "[PREFSTRING:高频率]"
+msgstr "[PREFSTRING:高频率的嗡嗡声]"
 
 #: creature_bug_slug_new.txt:1027
 msgctxt "CREATURE:MOSQUITO"
@@ -10565,7 +10565,7 @@ msgstr "[DESCRIPTION:一只巨大的蚊子怪。]"
 #: creature_bug_slug_new.txt:1115
 msgctxt "CREATURE:GIANT_MOSQUITO"
 msgid "[PREFSTRING:high-pitched buzz]"
-msgstr "[PREFSTRING:高频率]"
+msgstr "[PREFSTRING:高频率的嗡嗡声]"
 
 #: creature_bug_slug_new.txt:1116
 msgctxt "CREATURE:GIANT_MOSQUITO"
@@ -24757,12 +24757,12 @@ msgstr "[GENERAL_CHILD_NAME:巨海象幼崽:巨海象幼崽]"
 #: creature_ocean_new.txt:1148
 msgctxt "CREATURE:GIANT_ELEPHANT_SEAL"
 msgid "[DESCRIPTION:A huge monster in the shape of an elephant seal.]"
-msgstr "[DESCRIPTION:一只巨大的象海豹怪。]"
+msgstr "[DESCRIPTION:一只巨大的海象怪。]"
 
 #: creature_ocean_new.txt:1157
 msgctxt "CREATURE:GIANT_ELEPHANT_SEAL"
 msgid "[PREFSTRING:large floppy noses]"
-msgstr ""
+msgstr "[PREFSTRING:巨大的松软的鼻子]"
 
 #: creature_ocean_new.txt:1158
 msgctxt "CREATURE:GIANT_ELEPHANT_SEAL"
@@ -24889,7 +24889,7 @@ msgstr "[ATTACK_VERB:咬:咬]"
 #: creature_ocean_new.txt:1363
 msgctxt "CREATURE:NAUTILUS"
 msgid "[TLCM_NOUN:shell:SINGULAR]"
-msgstr ""
+msgstr "[TLCM_NOUN:壳:SINGULAR]"
 
 #: creature_ocean_new.txt:1366
 msgctxt "CREATURE:NAUTILUS"
@@ -24976,7 +24976,7 @@ msgstr "[ATTACK_VERB:抓挠:抓挠]"
 #: creature_other.txt:81
 msgctxt "CREATURE:FOXSQUIRREL"
 msgid "[TLCM_NOUN:hair:SINGULAR]"
-msgstr ""
+msgstr "[TLCM_NOUN:毛发:SINGULAR]"
 
 #: creature_other.txt:84
 msgctxt "CREATURE:FOXSQUIRREL"
@@ -24996,47 +24996,47 @@ msgstr "[DESCRIPTION:一种小型泥栖两栖动物。]"
 #: creature_other.txt:91
 msgctxt "CREATURE:MOGHOPPER"
 msgid "[NAME:moghopper:moghoppers:moghopper]"
-msgstr ""
+msgstr "[NAME:泥跳虫:泥跳虫:泥跳虫]"
 
 #: creature_other.txt:92
 msgctxt "CREATURE:MOGHOPPER"
 msgid "[CASTE_NAME:moghopper:moghoppers:moghopper]"
-msgstr ""
+msgstr "[CASTE_NAME:泥跳虫:泥跳虫:泥跳虫]"
 
 #: creature_other.txt:101
 msgctxt "CREATURE:MOGHOPPER"
 msgid "[PREFSTRING:round tummies]"
-msgstr ""
+msgstr "[PREFSTRING:圆肚子]"
 
 #: creature_other.txt:118
 msgctxt "CREATURE:MOGHOPPER"
 msgid "[STATE_NAME:ALL_SOLID:frozen mog juice]"
-msgstr ""
+msgstr "[STATE_NAME:ALL_SOLID:冷冻的莫格汁]"
 
 #: creature_other.txt:119
 msgctxt "CREATURE:MOGHOPPER"
 msgid "[STATE_ADJ:ALL_SOLID:frozen mog juice]"
-msgstr ""
+msgstr "[STATE_ADJ:ALL_SOLID:冷冻的莫格汁的]"
 
 #: creature_other.txt:120
 msgctxt "CREATURE:MOGHOPPER"
 msgid "[STATE_NAME:LIQUID:mog juice]"
-msgstr ""
+msgstr "[STATE_NAME:LIQUID:莫格汁]"
 
 #: creature_other.txt:121
 msgctxt "CREATURE:MOGHOPPER"
 msgid "[STATE_ADJ:LIQUID:mog juice]"
-msgstr ""
+msgstr "[STATE_ADJ:LIQUID:莫格汁的]"
 
 #: creature_other.txt:122
 msgctxt "CREATURE:MOGHOPPER"
 msgid "[STATE_NAME:GAS:boiling mog juice]"
-msgstr ""
+msgstr "[STATE_NAME:GAS:沸腾的莫格汁]"
 
 #: creature_other.txt:123
 msgctxt "CREATURE:MOGHOPPER"
 msgid "[STATE_ADJ:GAS:boiling mog juice]"
-msgstr ""
+msgstr "[STATE_ADJ:GAS:沸腾的莫格汁的]"
 
 #: creature_other.txt:144
 msgctxt "CREATURE:MOGHOPPER"
@@ -25058,32 +25058,32 @@ msgctxt "CREATURE:RAT_DEMON"
 msgid ""
 "[DESCRIPTION:An insidious form of vermin.  It lives only to steal food from "
 "others.]"
-msgstr ""
+msgstr "[DESCRIPTION:一种阴险的害虫。它活着只是为了偷别人的食物。]"
 
 #: creature_other.txt:165
 msgctxt "CREATURE:RAT_DEMON"
 msgid "[NAME:demon rat:demon rats:demon rat]"
-msgstr ""
+msgstr "[NAME:恶魔鼠:恶魔鼠:恶魔鼠]"
 
 #: creature_other.txt:166
 msgctxt "CREATURE:RAT_DEMON"
 msgid "[CASTE_NAME:demon rat:demon rats:demon rat]"
-msgstr ""
+msgstr "[CASTE_NAME:恶魔鼠:恶魔鼠:恶魔鼠]"
 
 #: creature_other.txt:171
 msgctxt "CREATURE:RAT_DEMON"
 msgid "[GNAWER:gnawed]"
-msgstr ""
+msgstr "[GNAWER:啃]"
 
 #: creature_other.txt:177
 msgctxt "CREATURE:RAT_DEMON"
 msgid "[PREFSTRING:insidious nature]"
-msgstr ""
+msgstr "[PREFSTRING:阴险的天性]"
 
 #: creature_other.txt:178
 msgctxt "CREATURE:RAT_DEMON"
 msgid "[PREFSTRING:diabolical hunger for the food of others]"
-msgstr ""
+msgstr "[PREFSTRING:对他人食物的恶魔般的渴望]"
 
 #: creature_other.txt:209
 msgctxt "CREATURE:RAT_DEMON"
@@ -25098,7 +25098,7 @@ msgstr "[ATTACK_VERB:抓挠:抓挠]"
 #: creature_other.txt:234
 msgctxt "CREATURE:RAT_DEMON"
 msgid "[TLCM_NOUN:hair:SINGULAR]"
-msgstr ""
+msgstr "[TLCM_NOUN:毛发:SINGULAR]"
 
 #: creature_other.txt:237
 msgctxt "CREATURE:RAT_DEMON"
@@ -25115,22 +25115,22 @@ msgctxt "CREATURE:WAMBLER_FLUFFY"
 msgid ""
 "[DESCRIPTION:A fluffy, pudge-filled being, known for its warm heart and "
 "stumble bumblings.]"
-msgstr ""
+msgstr "[DESCRIPTION:一种毛茸茸的圆滚滚生物，因其热心肠和蠢萌而出名。]"
 
 #: creature_other.txt:244
 msgctxt "CREATURE:WAMBLER_FLUFFY"
 msgid "[NAME:fluffy wambler:fluffy wamblers:fluffy wambler]"
-msgstr ""
+msgstr "[NAME:蓬松毛球:蓬松毛球:蓬松毛球]"
 
 #: creature_other.txt:245
 msgctxt "CREATURE:WAMBLER_FLUFFY"
 msgid "[CASTE_NAME:fluffy wambler:fluffy wamblers:fluffy wambler]"
-msgstr ""
+msgstr "[CASTE_NAME:蓬松毛球:蓬松毛球:蓬松毛球]"
 
 #: creature_other.txt:254
 msgctxt "CREATURE:WAMBLER_FLUFFY"
 msgid "[PREFSTRING:warm heart]"
-msgstr ""
+msgstr "[PREFSTRING:热心肠]"
 
 #: creature_other.txt:255
 msgctxt "CREATURE:WAMBLER_FLUFFY"
@@ -25140,22 +25140,22 @@ msgstr "[PREFSTRING:温柔的天性]"
 #: creature_other.txt:256
 msgctxt "CREATURE:WAMBLER_FLUFFY"
 msgid "[PREFSTRING:stumble bumbling]"
-msgstr ""
+msgstr "[PREFSTRING:蠢萌]"
 
 #: creature_other.txt:259
 msgctxt "CREATURE:WAMBLER_FLUFFY"
 msgid "[STATE_NAME:ALL_SOLID:fluff]"
-msgstr ""
+msgstr "[STATE_NAME:ALL_SOLID:绒毛]"
 
 #: creature_other.txt:260
 msgctxt "CREATURE:WAMBLER_FLUFFY"
 msgid "[STATE_ADJ:ALL_SOLID:fluff]"
-msgstr ""
+msgstr "[STATE_ADJ:ALL_SOLID:毛绒的]"
 
 #: creature_other.txt:262
 msgctxt "CREATURE:WAMBLER_FLUFFY"
 msgid "[TISSUE_NAME:fluff:NP]"
-msgstr ""
+msgstr "[TISSUE_NAME:绒毛:NP]"
 
 #: creature_other.txt:272
 msgctxt "CREATURE:WAMBLER_FLUFFY"
@@ -25175,27 +25175,27 @@ msgstr ""
 #: creature_other.txt:287
 msgctxt "CREATURE:WAMBLER_FLUFFY"
 msgid "[GAIT:WALK:Stumble Bumble:]"
-msgstr ""
+msgstr "[GAIT:WALK:跌跌撞撞:]"
 
 #: creature_other.txt:288
 msgctxt "CREATURE:WAMBLER_FLUFFY"
 msgid "[GAIT:WALK:Wamble:]"
-msgstr ""
+msgstr "[GAIT:WALK:摇摇晃晃:]"
 
 #: creature_other.txt:289
 msgctxt "CREATURE:WAMBLER_FLUFFY"
 msgid "[GAIT:CRAWL:Crawl:]"
-msgstr ""
+msgstr "[GAIT:CRAWL:爬行:]"
 
 #: creature_other.txt:290
 msgctxt "CREATURE:WAMBLER_FLUFFY"
 msgid "[GAIT:CLIMB:Climb:]"
-msgstr ""
+msgstr "[GAIT:CLIMB:攀爬:]"
 
 #: creature_other.txt:306
 msgctxt "CREATURE:WAMBLER_FLUFFY"
 msgid "[TLCM_NOUN:fluff:SINGULAR]"
-msgstr ""
+msgstr "[TLCM_NOUN:绒毛:SINGULAR]"
 
 #: creature_other.txt:309
 msgctxt "CREATURE:WAMBLER_FLUFFY"
@@ -25219,24 +25219,24 @@ msgctxt "CREATURE:LIZARD_RHINO_TWO_LEGGED"
 msgid ""
 "[NAME:two-legged rhino lizard:two-legged rhino lizards:two-legged rhino "
 "lizard]"
-msgstr "[NAME:二足犀牛蜥:二足犀牛蜥群:二足犀牛蜥]"
+msgstr "[NAME:双足犀蜥蜴:双足犀蜥蜴:双足犀蜥蜴]"
 
 #: creature_other.txt:317
 msgctxt "CREATURE:LIZARD_RHINO_TWO_LEGGED"
 msgid ""
 "[CASTE_NAME:two-legged rhino lizard:two-legged rhino lizards:two-legged "
 "rhino lizard]"
-msgstr "[CASTE_NAME:二足犀牛蜥:二足犀牛蜥群:二足犀牛蜥]"
+msgstr "[CASTE_NAME:双足犀蜥蜴:双足犀蜥蜴:双足犀蜥蜴]"
 
 #: creature_other.txt:318
 msgctxt "CREATURE:LIZARD_RHINO_TWO_LEGGED"
 msgid "[GNAWER:gnawed]"
-msgstr ""
+msgstr "[GNAWER:啃]"
 
 #: creature_other.txt:326
 msgctxt "CREATURE:LIZARD_RHINO_TWO_LEGGED"
 msgid "[PREFSTRING:horn]"
-msgstr ""
+msgstr "[PREFSTRING:角]"
 
 #: creature_other.txt:369
 msgctxt "CREATURE:LIZARD_RHINO_TWO_LEGGED"
@@ -25258,17 +25258,17 @@ msgctxt "CREATURE:WORM_KNUCKLE"
 msgid ""
 "[DESCRIPTION:A tiny creature made up of a series of crackling knobs set at "
 "strange angles.]"
-msgstr ""
+msgstr "[DESCRIPTION:一种由一系列龟裂关节以奇怪角度组成的小生物。]"
 
 #: creature_other.txt:397
 msgctxt "CREATURE:WORM_KNUCKLE"
 msgid "[NAME:knuckle worm:knuckle worms:knuckle worm]"
-msgstr ""
+msgstr "[NAME:关节蠕虫:关节蠕虫:关节蠕虫]"
 
 #: creature_other.txt:398
 msgctxt "CREATURE:WORM_KNUCKLE"
 msgid "[CASTE_NAME:knuckle worm:knuckle worms:knuckle worm]"
-msgstr ""
+msgstr "[CASTE_NAME:关节蠕虫:关节蠕虫:关节蠕虫]"
 
 #: creature_other.txt:406
 msgctxt "CREATURE:WORM_KNUCKLE"
@@ -25293,12 +25293,12 @@ msgstr "[DESCRIPTION:一种微小的半透明生物，发现于邪恶的森林�
 #: creature_other.txt:440
 msgctxt "CREATURE:SPIDER_PHANTOM"
 msgid "[NAME:phantom spider:phantom spiders:phantom spider]"
-msgstr ""
+msgstr "[NAME:幻影蜘蛛:幻影蜘蛛:幻影蜘蛛]"
 
 #: creature_other.txt:441
 msgctxt "CREATURE:SPIDER_PHANTOM"
 msgid "[CASTE_NAME:phantom spider:phantom spiders:phantom spider]"
-msgstr ""
+msgstr "[CASTE_NAME:幻影蜘蛛:幻影蜘蛛:幻影蜘蛛]"
 
 #: creature_other.txt:454
 msgctxt "CREATURE:SPIDER_PHANTOM"
@@ -25313,42 +25313,42 @@ msgstr "[PREFSTRING:令人毛骨悚然]"
 #: creature_other.txt:468
 msgctxt "CREATURE:SPIDER_PHANTOM"
 msgid "[STATE_NAME:ALL_SOLID:frozen phantom spider venom]"
-msgstr ""
+msgstr "[STATE_NAME:ALL_SOLID:冷冻的幻影蜘蛛毒液]"
 
 #: creature_other.txt:469
 msgctxt "CREATURE:SPIDER_PHANTOM"
 msgid "[STATE_ADJ:ALL_SOLID:frozen phantom spider venom]"
-msgstr ""
+msgstr "[STATE_ADJ:ALL_SOLID:冷冻的幻影蜘蛛毒液的]"
 
 #: creature_other.txt:470
 msgctxt "CREATURE:SPIDER_PHANTOM"
 msgid "[STATE_NAME:LIQUID:phantom spider venom]"
-msgstr ""
+msgstr "[STATE_NAME:LIQUID:幻影蜘蛛毒液]"
 
 #: creature_other.txt:471
 msgctxt "CREATURE:SPIDER_PHANTOM"
 msgid "[STATE_ADJ:LIQUID:phantom spider venom]"
-msgstr ""
+msgstr "[STATE_ADJ:LIQUID:幻影蜘蛛毒液的]"
 
 #: creature_other.txt:472
 msgctxt "CREATURE:SPIDER_PHANTOM"
 msgid "[STATE_NAME:GAS:boiling phantom spider venom]"
-msgstr ""
+msgstr "[STATE_NAME:GAS:幻影蜘蛛毒液]"
 
 #: creature_other.txt:473
 msgctxt "CREATURE:SPIDER_PHANTOM"
 msgid "[STATE_ADJ:GAS:boiling phantom spider venom]"
-msgstr ""
+msgstr "[STATE_ADJ:GAS:幻影蜘蛛毒液]的"
 
 #: creature_other.txt:477
 msgctxt "CREATURE:SPIDER_PHANTOM"
 msgid "[SYN_NAME:phantom spider bite]"
-msgstr ""
+msgstr "[SYN_NAME:幻影蜘蛛咬]"
 
 #: creature_other.txt:485
 msgctxt "CREATURE:SPIDER_PHANTOM"
 msgid "[VERMIN_BITE:10:bitten:]"
-msgstr ""
+msgstr "[VERMIN_BITE:10:咬:]"
 
 #: creature_other.txt:509
 msgctxt "CREATURE:SPIDER_PHANTOM"
@@ -25358,34 +25358,34 @@ msgstr ""
 #: creature_other.txt:512
 msgctxt "CREATURE:SPIDER_PHANTOM"
 msgid "[TLCM_NOUN:eyes:PLURAL]"
-msgstr "[TLCM_NOUN:眼睛:PLURAL]"
+msgstr "[TLCM_NOUN:复眼:PLURAL]"
 
 #: creature_other.txt:515
 msgctxt "CREATURE:FLY_ACORN"
 msgid ""
 "[DESCRIPTION:An insect many times the size of its peers.  It is known for "
 "its deafening buzz.]"
-msgstr ""
+msgstr "[DESCRIPTION:一种是其他同类许多倍的昆虫。它因其喧闹的嗡嗡声而闻名。]"
 
 #: creature_other.txt:516
 msgctxt "CREATURE:FLY_ACORN"
 msgid "[NAME:acorn fly:acorn flies:acorn fly]"
-msgstr ""
+msgstr "[NAME:橡子蝇:橡子蝇:橡子蝇]"
 
 #: creature_other.txt:517
 msgctxt "CREATURE:FLY_ACORN"
 msgid "[CASTE_NAME:acorn fly:acorn flies:acorn fly]"
-msgstr ""
+msgstr "[CASTE_NAME:橡子蝇:橡子蝇:橡子蝇]"
 
 #: creature_other.txt:527
 msgctxt "CREATURE:FLY_ACORN"
 msgid "[PREFSTRING:deafening buzz]"
-msgstr ""
+msgstr "[PREFSTRING:喧闹的嗡嗡声]"
 
 #: creature_other.txt:564
 msgctxt "CREATURE:FLY_ACORN"
 msgid "[TLCM_NOUN:chitin:SINGULAR]"
-msgstr ""
+msgstr "[TLCM_NOUN:甲壳质:SINGULAR]"
 
 #: creature_other.txt:567
 msgctxt "CREATURE:FLY_ACORN"
@@ -25397,17 +25397,17 @@ msgctxt "CREATURE:GNAT_BLOOD"
 msgid ""
 "[DESCRIPTION:A tiny insect with a pulsating, lumpy body.  It is an evil bug "
 "that seeks blood.]"
-msgstr ""
+msgstr "[DESCRIPTION:一种微小的有着脉动、块状身体的小型昆虫。它是一种寻求血液的邪恶虫子。]"
 
 #: creature_other.txt:571
 msgctxt "CREATURE:GNAT_BLOOD"
 msgid "[NAME:blood gnat:blood gnats:blood gnat]"
-msgstr ""
+msgstr "[NAME:血飞虫:血飞虫:血飞虫]"
 
 #: creature_other.txt:572
 msgctxt "CREATURE:GNAT_BLOOD"
 msgid "[CASTE_NAME:blood gnat:blood gnats:blood gnat]"
-msgstr ""
+msgstr "[CASTE_NAME:血飞虫:血飞虫:血飞虫]"
 
 #: creature_other.txt:582
 msgctxt "CREATURE:GNAT_BLOOD"
@@ -25422,7 +25422,7 @@ msgstr ""
 #: creature_other.txt:620
 msgctxt "CREATURE:GNAT_BLOOD"
 msgid "[TLCM_NOUN:chitin:SINGULAR]"
-msgstr ""
+msgstr "[TLCM_NOUN:甲壳质:SINGULAR]"
 
 #: creature_other.txt:623
 msgctxt "CREATURE:GNAT_BLOOD"
@@ -25442,12 +25442,12 @@ msgstr "[NAME:蜥蜴:蜥蜴:蜥蜴]"
 #: creature_reptiles.txt:8
 msgctxt "CREATURE:LIZARD"
 msgid "[CASTE_NAME:lizard:lizards:lizard]"
-msgstr ""
+msgstr "[CASTE_NAME:蜥蜴:蜥蜴:蜥蜴]"
 
 #: creature_reptiles.txt:18
 msgctxt "CREATURE:LIZARD"
 msgid "[PREFSTRING:beauty]"
-msgstr ""
+msgstr "[PREFSTRING:貌美]"
 
 #: creature_reptiles.txt:63
 msgctxt "CREATURE:LIZARD"
@@ -25497,7 +25497,7 @@ msgstr "[CASTE_NAME:巨蜥蜴:巨蜥蜴:巨蜥蜴]"
 #: creature_reptiles.txt:121
 msgctxt "CREATURE:GIANT_LIZARD"
 msgid "[GENERAL_CHILD_NAME:giant lizard hatchling:giant lizard hatchlings]"
-msgstr ""
+msgstr "[GENERAL_CHILD_NAME:巨蜥幼崽:巨蜥幼崽]"
 
 #: creature_reptiles.txt:122
 msgctxt "CREATURE:GIANT_LIZARD"
@@ -25507,14 +25507,14 @@ msgstr "[DESCRIPTION:一只巨大的蜥蜴怪。]"
 #: creature_reptiles.txt:131
 msgctxt "CREATURE:GIANT_LIZARD"
 msgid "[PREFSTRING:beauty]"
-msgstr ""
+msgstr "[PREFSTRING:貌美]"
 
 #: creature_reptiles.txt:138
 msgctxt "CREATURE:SKINK"
 msgid ""
 "[DESCRIPTION:A relatively large lizard.  It can be found in most climates, "
 "foraging for bugs during daylight hours.]"
-msgstr ""
+msgstr "[DESCRIPTION:一种相对较大的蜥蜴。能在大部分天气下找到，在白天寻找虫子。]"
 
 #: creature_reptiles.txt:139
 msgctxt "CREATURE:SKINK"
@@ -25597,27 +25597,27 @@ msgstr "[DESCRIPTION:一种彩色蜥蜴，一生都在用它那长舌狩猎昆�
 #: creature_reptiles.txt:273
 msgctxt "CREATURE:CHAMELEON"
 msgid "[NAME:chameleon:chameleons:chameleon]"
-msgstr ""
+msgstr "[NAME:变色龙:变色龙:变色龙]"
 
 #: creature_reptiles.txt:274
 msgctxt "CREATURE:CHAMELEON"
 msgid "[CASTE_NAME:chameleon:chameleons:chameleon]"
-msgstr ""
+msgstr "[CASTE_NAME:变色龙:变色龙:变色龙]"
 
 #: creature_reptiles.txt:287
 msgctxt "CREATURE:CHAMELEON"
 msgid "[PREFSTRING:ability to change color]"
-msgstr ""
+msgstr "[PREFSTRING:可变色]"
 
 #: creature_reptiles.txt:288
 msgctxt "CREATURE:CHAMELEON"
 msgid "[PREFSTRING:eyes]"
-msgstr ""
+msgstr "[PREFSTRING:眼睛]"
 
 #: creature_reptiles.txt:331
 msgctxt "CREATURE:CHAMELEON"
 msgid "[ATTACK_VERB:bite:bites]"
-msgstr ""
+msgstr "[ATTACK_VERB:咬:咬]"
 
 #: creature_reptiles.txt:352
 msgctxt "CREATURE:CHAMELEON"
