@@ -9346,15 +9346,18 @@ msgid ""
 "[C:1:0:0]Burrow[C:7:0:0], but they will sometimes form paths which pass "
 "through other areas."
 msgstr ""
+"I lavoratori cercheranno di limitare i loro compiti ai confini del "
+"[C:1:0:0]Rifugio[C:7:0:0], ma a volte creeranno percorsi che attraversano "
+"altre aree."
 
 #: stringdump_steam_0_50_05_sorted_by_xrefs.txt:2304
 msgid ""
 "[C:1:0:0]Burrows[C:7:0:0] can be suspended and unsuspended freely.  When a "
 "[C:1:0:0]Burrow[C:7:0:0] is suspended, assigned citizens will ignore it."
 msgstr ""
-"Puoi sospendere e non sospendere i [C:1:0:0]Rifugi[C:7:0:0] liberamente.  "
-"Quando un [C:1:0:0]rifugio[C:7:0:0] è sospeso, i cittadini assegnati lo "
-"ignorano."
+"Puoi sospendere e reintegrare i [C:1:0:0]Rifugi[C:7:0:0] liberamente.  "
+"Quando un [C:1:0:0]Rifugio[C:7:0:0] è sospeso, i cittadini assegnati lo "
+"ignoreranno."
 
 #: stringdump_steam_0_50_05_sorted_by_xrefs.txt:2305
 msgid ""
@@ -9658,6 +9661,8 @@ msgid ""
 "These work orders are set to complete a certain number of "
 "[C:3:0:1]Tasks[C:7:0:0] and can be given start conditions."
 msgstr ""
+"Questi ordini di lavoro sono impostati per completare un certo numero di "
+"[C:3:0:1]Compiti[C:7:0:0] e possono essere dotati di condizioni di avvio."
 
 #: stringdump_steam_0_50_05_sorted_by_xrefs.txt:2353
 msgid ""
@@ -9791,6 +9796,8 @@ msgid ""
 "In order for some functions to be used, like work orders or bookkeeping, "
 "[C:5:0:0]Administrators[C:7:0:0] must be assigned. "
 msgstr ""
+"Per poter utilizzare alcune funzioni, come ordini di lavoro o contabilità, è"
+" necessario assegnare [C:5:0:0]Amministratori[C:7:0:0]."
 
 #: stringdump_steam_0_50_05_sorted_by_xrefs.txt:2371
 msgid ""
@@ -9864,12 +9871,17 @@ msgid ""
 "If you have found magma you can build a [C:6:0:0]Magma Smelter[C:7:0:0] "
 "directly over it, otherwise you need [C:6:0:1]Fuel[C:7:0:0]. "
 msgstr ""
+"Se trovi del magma puoi costruire una [C:6:0:0]Fonderia di Magma[C:7:0:0] "
+"direttamente su di esso, altrimenti è necessario "
+"[C:6:0:1]Combustibile[C:7:0:0]. "
 
 #: stringdump_steam_0_50_05_sorted_by_xrefs.txt:2382
 msgid ""
 "To get [C:6:0:1]Fuel[C:7:0:0] you need to make [C:6:0:1]Charcoal[C:7:0:0] "
 "with a [C:6:0:0]Wood Furnace[C:7:0:0], "
 msgstr ""
+"Per ottenere [C:6:0:1]Combustibile[C:7:0:0] è necessario produrre "
+"[C:6:0:1]Carbonella[C:7:0:0] con un [C:6:0:0]Forno a legna[C:7:0:0], "
 
 #: stringdump_steam_0_50_05_sorted_by_xrefs.txt:2383
 msgid ""
@@ -9882,6 +9894,9 @@ msgid ""
 "You may switch to other forms of [C:6:0:1]Fuel[C:7:0:0] later, such as "
 "[C:6:0:1]Coal[C:7:0:0], but you will usually "
 msgstr ""
+"È possibile passare in seguito ad altre forme di "
+"[C:6:0:1]Combustibile[C:7:0:0], come il [C:6:0:1]Carbone[C:7:0:0], ma di "
+"norma "
 
 #: stringdump_steam_0_50_05_sorted_by_xrefs.txt:2385
 msgid ""
@@ -16824,7 +16839,7 @@ msgstr "Scalpellino"
 
 #: stringdump_steam_0_50_05_sorted_by_xrefs.txt:4316
 msgid "Glass furnace"
-msgstr "Forno fusorio per vetro"
+msgstr "Forno per vetro"
 
 #: stringdump_steam_0_50_05_sorted_by_xrefs.txt:4317
 msgid "Kiln"
@@ -16832,7 +16847,7 @@ msgstr "Forno"
 
 #: stringdump_steam_0_50_05_sorted_by_xrefs.txt:4318
 msgid "Magma glass furnace"
-msgstr "Forno fusorio per vetro di Magma"
+msgstr "Forno di Magma per vetro"
 
 #: stringdump_steam_0_50_05_sorted_by_xrefs.txt:4319
 msgid "Magma kiln"
@@ -18382,12 +18397,17 @@ msgid ""
 "Designate this zone as the top of a pond.  Citizens will bring buckets of "
 "water if the pond below isn't filled."
 msgstr ""
+"Designa questa zona come parte superiore di uno stagno.  I cittadini "
+"porteranno secchi d'acqua se lo stagno sottostante non è pieno."
 
 #: stringdump_steam_0_50_05_sorted_by_xrefs.txt:4694
 msgid ""
 "Select animals to be dropped into the pit or pond below this zone.  Animals "
 "will not feel obligated to stay if they can find a way out."
 msgstr ""
+"Seleziona gli animali da far scendere nella fossa o nello stagno sotto "
+"questa zona.  Gli animali non si sentiranno obbligati a rimanere se possono "
+"trovare una via d'uscita."
 
 #: stringdump_steam_0_50_05_sorted_by_xrefs.txt:4695
 msgid ""
@@ -18445,6 +18465,8 @@ msgid ""
 "Citizens assigned to the fishing work detail will fish in this zone if it "
 "exists.  Otherwise, they will fish everywhere."
 msgstr ""
+"I cittadini assegnati al lavoro di pesca pescheranno in questa zona, se "
+"esiste.  Altrimenti pescheranno ovunque."
 
 #: stringdump_steam_0_50_05_sorted_by_xrefs.txt:4703
 msgid ""
@@ -18471,18 +18493,27 @@ msgid ""
 " zone afterward if possible.  If the pit is designated as a pond, your "
 "citizens will attempt to fill it with water using buckets."
 msgstr ""
+"Gli animali assegnati alle zone di fossa/stagno vengono gettati nella fossa,"
+" ma in seguito lasceranno la zona, se possibile.  Se la fossa è designata "
+"come stagno i cittadini cercheranno di riempirla d'acqua usando dei secchi."
 
 #: stringdump_steam_0_50_05_sorted_by_xrefs.txt:4707
 msgid ""
 "Your citizens will fill sand bags at this zone if a sandy floor or sandy "
 "wall is included.  This task is initiated manually at the glass furnace."
 msgstr ""
+"I cittadini riempiranno i sacchi di sabbia in questa zona se vi è un "
+"pavimento o una parete sabbiosa.  Questo compito va avviato manualmente "
+"presso il forno per vetro."
 
 #: stringdump_steam_0_50_05_sorted_by_xrefs.txt:4708
 msgid ""
 "Your citizens will collect clay at this zone if a clay floor or clay wall is"
 " included.  This task is initiated manually at the kiln."
 msgstr ""
+"I cittadini raccoglieranno l'argilla in questa zona se è presente un "
+"pavimento o muro in argilla.  Questo compito si avvia manualmente presso il "
+"forno."
 
 #: stringdump_steam_0_50_05_sorted_by_xrefs.txt:4709
 msgid ""
@@ -18513,6 +18544,9 @@ msgid ""
 " work orders and bookkeeping.  A chair or throne is required for these "
 "functions."
 msgstr ""
+"È necessario un ufficio o studio per alcuni compiti ufficiali, come "
+"l'approvazione degli ordini di lavoro e la contabilità.  Per queste funzioni"
+" è necessaria una sedia o un trono."
 
 #: stringdump_steam_0_50_05_sorted_by_xrefs.txt:4713
 msgid ""
@@ -18591,6 +18625,9 @@ msgid ""
 " while a burrow is suspended, but all tasks within the burrow will still "
 "function."
 msgstr ""
+"Sospendi questo rifugio.  I cittadini assegnati non rispetteranno le "
+"restrizioni del rifugio mentre questo è sospeso, ma tutte le attività "
+"all'interno del rifugio continueranno a funzionare."
 
 #: stringdump_steam_0_50_05_sorted_by_xrefs.txt:4727
 msgid "Set hauling routes for minecarts."
@@ -18665,7 +18702,7 @@ msgstr ""
 
 #: stringdump_steam_0_50_05_sorted_by_xrefs.txt:4742
 msgid "Open the task information menu."
-msgstr ""
+msgstr "Apri il menù delle informazioni sul compito."
 
 #: stringdump_steam_0_50_05_sorted_by_xrefs.txt:4743
 msgid "Open the place information menu."
@@ -18804,7 +18841,7 @@ msgstr ""
 
 #: stringdump_steam_0_50_05_sorted_by_xrefs.txt:4770
 msgid "Change the number of times the task will be performed."
-msgstr ""
+msgstr "Modifica il numero di volte in cui il compito verrà eseguito."
 
 #: stringdump_steam_0_50_05_sorted_by_xrefs.txt:4771
 msgid ""
@@ -18821,7 +18858,7 @@ msgstr ""
 
 #: stringdump_steam_0_50_05_sorted_by_xrefs.txt:4773
 msgid "Set the material used or other details of the task."
-msgstr ""
+msgstr "Imposta il materiale utilizzato o altri dettagli del compito."
 
 #: stringdump_steam_0_50_05_sorted_by_xrefs.txt:4774
 msgid "Remove this work order."
@@ -18908,6 +18945,8 @@ msgstr "Esci dal menù e ricentra sull'edificio del compito."
 #: stringdump_steam_0_50_05_sorted_by_xrefs.txt:4792
 msgid "Set the details of this task, such as the material used."
 msgstr ""
+"Imposta i dettagli di questo compito, come ad esempio il materiale "
+"utilizzato."
 
 #: stringdump_steam_0_50_05_sorted_by_xrefs.txt:4793
 msgid "View a detailed description of this activity."
@@ -18915,16 +18954,18 @@ msgstr ""
 
 #: stringdump_steam_0_50_05_sorted_by_xrefs.txt:4794
 msgid "Toggle whether the task will be repeated indefinitely."
-msgstr ""
+msgstr "Scegli se il compito dev'essere ripetuto all'infinito."
 
 #: stringdump_steam_0_50_05_sorted_by_xrefs.txt:4795
 msgid "Remove the current worker from the task."
-msgstr ""
+msgstr "Rimuovi l'attuale lavoratore dall'attività."
 
 #: stringdump_steam_0_50_05_sorted_by_xrefs.txt:4796
 msgid ""
 "Suspend this task.  This removes the worker.  The task can be unsuspended."
 msgstr ""
+"Sospendi questo compito.  Ciò rimuove il lavoratore.  Il compito può essere "
+"ripreso."
 
 #: stringdump_steam_0_50_05_sorted_by_xrefs.txt:4797
 msgid "Cancel this task."
@@ -19005,6 +19046,8 @@ msgid ""
 "This worker is not specialized and will do any free tasks that become "
 "available.  Click to toggle."
 msgstr ""
+"Questo lavoratore non è specializzato e svolgerà tutti i compiti liberi che "
+"saranno disponibili.  Clicca per alternare."
 
 #: stringdump_steam_0_50_05_sorted_by_xrefs.txt:4812
 msgid "This creature is a tavern keeper."
@@ -19118,6 +19161,8 @@ msgstr ""
 #: stringdump_steam_0_50_05_sorted_by_xrefs.txt:4836
 msgid "This item is tagged by a task and will not be used by other tasks."
 msgstr ""
+"Questo elemento è stato etichettato da un'attività e non sarà utilizzato da "
+"altre attività."
 
 #: stringdump_steam_0_50_05_sorted_by_xrefs.txt:4837
 msgid "Customize this creature's nickname and profession nickname."
@@ -19179,45 +19224,52 @@ msgstr ""
 
 #: stringdump_steam_0_50_05_sorted_by_xrefs.txt:4851
 msgid "This task has been assigned and is active."
-msgstr ""
+msgstr "Questo compito è stato assegnato ed è attivo."
 
 #: stringdump_steam_0_50_05_sorted_by_xrefs.txt:4852
 msgid "This task came from a work order."
-msgstr ""
+msgstr "Questo compito deriva da un ordine di lavoro."
 
 #: stringdump_steam_0_50_05_sorted_by_xrefs.txt:4853
 msgid "This task is set to repeat indefinitely."
-msgstr ""
+msgstr "Questo compito è impostato per ripetersi all'infinito."
 
 #: stringdump_steam_0_50_05_sorted_by_xrefs.txt:4854
 msgid "Click to set this task to repeat indefinitely."
 msgstr ""
+"Clicca per impostare la ripetizione del compito a tempo indeterminato."
 
 #: stringdump_steam_0_50_05_sorted_by_xrefs.txt:4855
 msgid "This task is highest priority among all tasks everywhere."
 msgstr ""
+"Questo compito ha la massima priorità tra tutti i compiti presenti ovunque."
 
 #: stringdump_steam_0_50_05_sorted_by_xrefs.txt:4856
 msgid "Click to set this task as highest priority among all tasks everywhere."
 msgstr ""
+"Clicca per impostare questo compito come massima priorità tra tutti i "
+"compiti presenti ovunque."
 
 #: stringdump_steam_0_50_05_sorted_by_xrefs.txt:4857
 msgid "Increase the priority of the task in this workshop."
-msgstr ""
+msgstr "Aumenta la priorità del compito in questa bottega."
 
 #: stringdump_steam_0_50_05_sorted_by_xrefs.txt:4858
 msgid "Set details for this task, such as the material to be used."
 msgstr ""
+"Imposta i dettagli di questo compito, ad esempio il materiale da utilizzare."
 
 #: stringdump_steam_0_50_05_sorted_by_xrefs.txt:4859
 msgid "This task has been suspended."
-msgstr ""
+msgstr "Questo compito è stato sospeso."
 
 #: stringdump_steam_0_50_05_sorted_by_xrefs.txt:4860
 msgid ""
 "Click to suspend the task.  Assigned workers are removed from suspended "
 "tasks."
 msgstr ""
+"Clicca per sospendere il compito.  I lavoratori assegnati vengono rimossi "
+"dai compiti sospesi."
 
 #: stringdump_steam_0_50_05_sorted_by_xrefs.txt:4861
 msgid ""
@@ -19225,6 +19277,9 @@ msgid ""
 "repeat specified numbers of times and which can be given start conditions.  "
 "This is useful for automation."
 msgstr ""
+"Crea un nuovo ordine di lavoro per questa bottega.  Gli ordini di lavoro "
+"sono compiti che possono essere ripetuti un numero specifico di volte e ai "
+"quali si possono dare condizioni di avvio.  Ciò è utile per l'automazione."
 
 #: stringdump_steam_0_50_05_sorted_by_xrefs.txt:4862
 msgid "Recenter on the linked building."
@@ -19273,6 +19328,9 @@ msgid ""
 "items or buildings.  If a permanent building item is forbidden, citizens "
 "will not perform tasks there!"
 msgstr ""
+"Cambia lo stato di proibizione dell'oggetto.  I cittadini non useranno "
+"oggetti o edifici proibiti.  Se un elemento di un edificio permanente è "
+"vietato, i cittadini non eseguiranno compiti lì!"
 
 #: stringdump_steam_0_50_05_sorted_by_xrefs.txt:4872
 msgid ""
@@ -19543,6 +19601,10 @@ msgid ""
 "fuel from wood or raw coal.  Furnaces require fuel to function, or they can "
 "be set above magma."
 msgstr ""
+"Le fornaci sono usate per fusione, lavorazione del vetro, della ceramica, "
+"della cenere o per creare combustibile dal legno o dal carbone grezzo.  Alle"
+" fornaci serve combustibile per funzionare, oppure puoi collocarle sul "
+"magma."
 
 #: stringdump_steam_0_50_05_sorted_by_xrefs.txt:4930
 msgid ""
@@ -19769,6 +19831,8 @@ msgid ""
 "Make sugar, flour, and various useful slurries here.  Tasks are completed "
 "very slowly compared to the powered millstone."
 msgstr ""
+"Qui si producono zucchero, farina e vari impasti utili.  I compiti vengono "
+"portati a termine molto lentamente rispetto alla macina alimentata."
 
 #: stringdump_steam_0_50_05_sorted_by_xrefs.txt:4961
 msgid "Capture and train small animals here.  Requires animal traps."
@@ -19789,6 +19853,10 @@ msgid ""
 " can also collect sand in bags from a task originating here, if you have a "
 "sand collection zone.  Glassmaking requires fuel."
 msgstr ""
+"È possibile creare svariati oggetti con tre diversi tipi di vetro.  È anche "
+"possibile raccogliere sabbia in sacchi da un compito creato qui, se si "
+"dispone di zona di raccolta della sabbia.  La lavorazione del vetro richiede"
+" combustibile."
 
 #: stringdump_steam_0_50_05_sorted_by_xrefs.txt:4964
 msgid ""
@@ -19796,6 +19864,10 @@ msgid ""
 "also be collected here if you have a clay collection zone.  All tasks "
 "require fuel aside from clay collection."
 msgstr ""
+"Qui si possono cuocere oggetti in argilla e altri materiali utili.  "
+"L'argilla può essere raccolta anche qui se presente una zona di raccolta "
+"dell'argilla.  Tutti i compiti richiedono combustibile, a parte la raccolta "
+"dell'argilla."
 
 #: stringdump_steam_0_50_05_sorted_by_xrefs.txt:4965
 msgid ""
@@ -19805,6 +19877,11 @@ msgid ""
 "responsible for placing the furnace above the magma, but no other fuel is "
 "required."
 msgstr ""
+"È possibile creare svariati oggetti con tre diversi tipi di vetro.  È anche "
+"possibile raccogliere sabbia in sacchi da un compito creato qui, se si "
+"dispone di una zona di raccolta della sabbia.  Il magma sotto la fornace "
+"alimenta i compiti.  È tua responsabilità collocare la fornace sul magma, "
+"non è necessario altro combustibile."
 
 #: stringdump_steam_0_50_05_sorted_by_xrefs.txt:4966
 msgid ""
@@ -19813,6 +19890,10 @@ msgid ""
 "kiln will power tasks.  You are responsible for placing the kiln above the "
 "magma, but no other fuel is required."
 msgstr ""
+"Qui puoi cuocere oggetti in argilla e altri materiali utili.  L'argilla può "
+"essere raccolta anche qui se presente una zona di raccolta dell'argilla.  Il"
+" magma sotto al forno alimenta i compiti.  È tua responsabilità collocare il"
+" forno sul magma, non serve altro combustibile."
 
 #: stringdump_steam_0_50_05_sorted_by_xrefs.txt:4967
 msgid ""
@@ -20042,6 +20123,9 @@ msgid ""
 "This ornamental construction can enhance the value of rooms.  A window "
 "object must be made at a glass furnace before it can be placed."
 msgstr ""
+"Questa costruzione ornamentale può aumentare il valore delle stanze.  "
+"L'oggetto finestra va realizzato in un forno per vetro prima di poterlo "
+"collocare."
 
 #: stringdump_steam_0_50_05_sorted_by_xrefs.txt:4996
 msgid ""
@@ -20776,6 +20860,8 @@ msgid ""
 "[C:VAR:MEETING:ACTOR][VAR:NATIVENAME:MEETING:ACTOR]: Peace is calling out to"
 " us.  How do you respond?"
 msgstr ""
+"[C:VAR:MEETING:ACTOR][VAR:NATIVENAME:MEETING:ACTOR]: La pace ci chiama.  "
+"Come rispondete?"
 
 #: stringdump_steam_0_50_05_sorted_by_xrefs.txt:5157
 msgid ""
@@ -21119,7 +21205,7 @@ msgstr "Tutti i conteggi sono accurati"
 
 #: stringdump_steam_0_50_05_sorted_by_xrefs.txt:5228
 msgid "Your bookkeeper has done enough work to attain "
-msgstr "Il tuo contabile ha svolto un lavoro sufficiente per ottenere "
+msgstr "Il tuo contabile ha svolto abbastanza lavoro per ottenere "
 
 #: stringdump_steam_0_50_05_sorted_by_xrefs.txt:5229
 msgid "highest precision"
@@ -21309,11 +21395,11 @@ msgstr "Automatizza conciatura"
 
 #: stringdump_steam_0_50_05_sorted_by_xrefs.txt:5275
 msgid "Automate kiln"
-msgstr ""
+msgstr "Automatizza il forno"
 
 #: stringdump_steam_0_50_05_sorted_by_xrefs.txt:5276
 msgid "Do not automate kiln"
-msgstr ""
+msgstr "Non automatizzare il forno"
 
 #: stringdump_steam_0_50_05_sorted_by_xrefs.txt:5277
 msgid "Automate smelter"
@@ -29156,7 +29242,7 @@ msgstr "Terreno agricolo"
 
 #: stringdump_steam_0_50_05_sorted_by_xrefs.txt:7254
 msgid "Glass Furnace"
-msgstr ""
+msgstr "Forno per Vetro"
 
 #: stringdump_steam_0_50_05_sorted_by_xrefs.txt:7255
 msgid "Wood Furnace"
@@ -29168,11 +29254,11 @@ msgstr ""
 
 #: stringdump_steam_0_50_05_sorted_by_xrefs.txt:7257
 msgid "Magma Glass Furnace"
-msgstr ""
+msgstr "Forno di Magma per Vetro"
 
 #: stringdump_steam_0_50_05_sorted_by_xrefs.txt:7258
 msgid "Magma Kiln"
-msgstr ""
+msgstr "Forno di Magma"
 
 #: stringdump_steam_0_50_05_sorted_by_xrefs.txt:7259
 msgid "Furnace"
@@ -32688,7 +32774,7 @@ msgstr ""
 #: stringdump_steam_0_50_05_sorted_by_xrefs.txt:8204
 msgid "An earnest effort at any required tasks.  That's all that's needed."
 msgstr ""
-"Un serio sforzo in tutti i compiti richiesti. Questo è tutto ciò che serve."
+"Un serio sforzo in tutti i compiti richiesti.  Questo è tutto ciò che serve."
 
 #: stringdump_steam_0_50_05_sorted_by_xrefs.txt:8205
 msgid "We must be ready to sacrifice when the time comes."
@@ -35357,31 +35443,31 @@ msgstr ""
 
 #: stringdump_steam_0_50_05_sorted_by_xrefs.txt:8863
 msgid "I don't feel relieved."
-msgstr ""
+msgstr "Non mi sento sollevato."
 
 #: stringdump_steam_0_50_05_sorted_by_xrefs.txt:8864
 msgid "I have no regrets."
-msgstr ""
+msgstr "Non ho rimpianti."
 
 #: stringdump_steam_0_50_05_sorted_by_xrefs.txt:8865
 msgid "I feel no remorse."
-msgstr ""
+msgstr "Non provo alcun rimorso."
 
 #: stringdump_steam_0_50_05_sorted_by_xrefs.txt:8866
 msgid "I am not repentant."
-msgstr ""
+msgstr "Non sono pentito."
 
 #: stringdump_steam_0_50_05_sorted_by_xrefs.txt:8867
 msgid "I do not resent this."
-msgstr ""
+msgstr "Non me la prendo per questo."
 
 #: stringdump_steam_0_50_05_sorted_by_xrefs.txt:8868
 msgid "I don't feel restless."
-msgstr ""
+msgstr "Non mi sento inquieto."
 
 #: stringdump_steam_0_50_05_sorted_by_xrefs.txt:8869
 msgid "There's nothing to be indignant about."
-msgstr ""
+msgstr "Non c'è nulla di cui indignarsi."
 
 #: stringdump_steam_0_50_05_sorted_by_xrefs.txt:8870
 msgid "I don't feel sorry for myself."
@@ -35397,7 +35483,7 @@ msgstr ""
 
 #: stringdump_steam_0_50_05_sorted_by_xrefs.txt:8873
 msgid "I have no shame."
-msgstr ""
+msgstr "Non ho vergogna."
 
 #: stringdump_steam_0_50_05_sorted_by_xrefs.txt:8874
 msgid "There will be no sympathy from me."
@@ -35405,7 +35491,7 @@ msgstr "Non ci sarà comprensione da parte mia."
 
 #: stringdump_steam_0_50_05_sorted_by_xrefs.txt:8875
 msgid "I don't feel tenderness."
-msgstr ""
+msgstr "Non provo tenerezza."
 
 #: stringdump_steam_0_50_05_sorted_by_xrefs.txt:8876
 msgid "There was no thrill in it."
@@ -35417,7 +35503,7 @@ msgstr "Non sono inquieto."
 
 #: stringdump_steam_0_50_05_sorted_by_xrefs.txt:8878
 msgid "That doesn't make me unhappy."
-msgstr ""
+msgstr "Questo non mi rende infelice."
 
 #: stringdump_steam_0_50_05_sorted_by_xrefs.txt:8879
 msgid "There is no sense of wonder."
@@ -35425,7 +35511,7 @@ msgstr ""
 
 #: stringdump_steam_0_50_05_sorted_by_xrefs.txt:8880
 msgid "I'm not worried."
-msgstr ""
+msgstr "Non sono preoccupato."
 
 #: stringdump_steam_0_50_05_sorted_by_xrefs.txt:8881
 msgid "Wrath has not risen within me."
@@ -38587,7 +38673,7 @@ msgstr "È il momento di fare musica?"
 
 #: stringdump_steam_0_50_05_sorted_by_xrefs.txt:9669
 msgid "Are you still dancing?"
-msgstr ""
+msgstr "Stai ancora ballando?"
 
 #: stringdump_steam_0_50_05_sorted_by_xrefs.txt:9670
 msgid "Are in a foul mood?"
@@ -48131,7 +48217,7 @@ msgstr "Un nuovo capitolo di storia nanica inizia qui, in questo luogo, "
 
 #: stringdump_steam_0_50_05_sorted_by_xrefs.txt:14964
 msgid "\".  [C:2:0:1]Strike the earth![C:7:0:0]"
-msgstr ""
+msgstr "\".  [C:2:0:1]Colpisci la terra![C:7:0:0]"
 
 #: stringdump_steam_0_50_05_sorted_by_xrefs.txt:14965
 msgid "autosave "
@@ -55001,7 +55087,7 @@ msgstr ""
 
 #: stringdump_steam_0_50_05_sorted_by_xrefs.txt:17124
 msgid "dragon fire"
-msgstr ""
+msgstr "fuoco di drago"
 
 #: stringdump_steam_0_50_05_sorted_by_xrefs.txt:17125
 msgid "was burned to death by "
@@ -55025,7 +55111,7 @@ msgstr "è stato schiacciato da un ponte levatoio"
 
 #: stringdump_steam_0_50_05_sorted_by_xrefs.txt:17130
 msgid "was crushed under a collapsing ceiling"
-msgstr ""
+msgstr "è stato schiacciato dal crollo di un soffitto"
 
 #: stringdump_steam_0_50_05_sorted_by_xrefs.txt:17131
 msgid "was killed by falling rocks"
@@ -55073,11 +55159,11 @@ msgstr ""
 
 #: stringdump_steam_0_50_05_sorted_by_xrefs.txt:17142
 msgid "was banished by "
-msgstr ""
+msgstr "è stato bandito da "
 
 #: stringdump_steam_0_50_05_sorted_by_xrefs.txt:17143
 msgid "was banished by a "
-msgstr ""
+msgstr "è stato bandito da un "
 
 #: stringdump_steam_0_50_05_sorted_by_xrefs.txt:17144
 msgid ", struck down by "
@@ -55093,55 +55179,55 @@ msgstr ", abbattuto "
 
 #: stringdump_steam_0_50_05_sorted_by_xrefs.txt:17147
 msgid "died after colliding with an obstacle"
-msgstr ""
+msgstr "è morto dopo essersi scontrato con un ostacolo"
 
 #: stringdump_steam_0_50_05_sorted_by_xrefs.txt:17148
 msgid "was impaled on spikes"
-msgstr ""
+msgstr "è stato impalato su spuntoni"
 
 #: stringdump_steam_0_50_05_sorted_by_xrefs.txt:17149
 msgid "independent discovery"
-msgstr ""
+msgstr "scoperta indipendente"
 
 #: stringdump_steam_0_50_05_sorted_by_xrefs.txt:17150
 msgid "initial discovery"
-msgstr ""
+msgstr "scoperta iniziale"
 
 #: stringdump_steam_0_50_05_sorted_by_xrefs.txt:17151
 msgid "the new desire of"
-msgstr ""
+msgstr "il nuovo desiderio di"
 
 #: stringdump_steam_0_50_05_sorted_by_xrefs.txt:17152
 msgid "the new dream of"
-msgstr ""
+msgstr "il nuovo sogno di"
 
 #: stringdump_steam_0_50_05_sorted_by_xrefs.txt:17153
 msgid "the new obsession of"
-msgstr ""
+msgstr "la nuova ossessione di"
 
 #: stringdump_steam_0_50_05_sorted_by_xrefs.txt:17154
 msgid "to rule the world"
-msgstr ""
+msgstr "per governare il mondo"
 
 #: stringdump_steam_0_50_05_sorted_by_xrefs.txt:17155
 msgid "to start a family"
-msgstr ""
+msgstr "per creare una famiglia"
 
 #: stringdump_steam_0_50_05_sorted_by_xrefs.txt:17156
 msgid "to make a great discovery"
-msgstr ""
+msgstr "per fare una grande scoperta"
 
 #: stringdump_steam_0_50_05_sorted_by_xrefs.txt:17157
 msgid "to create a great work of art"
-msgstr ""
+msgstr "per creare una grande opera d'arte"
 
 #: stringdump_steam_0_50_05_sorted_by_xrefs.txt:17158
 msgid "to craft a masterwork"
-msgstr ""
+msgstr "per realizzare un capolavoro"
 
 #: stringdump_steam_0_50_05_sorted_by_xrefs.txt:17159
 msgid "to bring peace to the world"
-msgstr ""
+msgstr "per portare la pace nel mondo"
 
 #: stringdump_steam_0_50_05_sorted_by_xrefs.txt:17160
 msgid "to become a legendary warrior"
@@ -55153,11 +55239,11 @@ msgstr "per padroneggiare un'abilità"
 
 #: stringdump_steam_0_50_05_sorted_by_xrefs.txt:17162
 msgid "to fall in love"
-msgstr ""
+msgstr "per innamorarsi"
 
 #: stringdump_steam_0_50_05_sorted_by_xrefs.txt:17163
 msgid "to see the great natural wonders of the world"
-msgstr ""
+msgstr "per vedere le grandi meraviglie naturali del mondo"
 
 #: stringdump_steam_0_50_05_sorted_by_xrefs.txt:17164
 msgid "with extending "
@@ -55169,7 +55255,7 @@ msgstr " propria vita"
 
 #: stringdump_steam_0_50_05_sorted_by_xrefs.txt:17166
 msgid "to attain rank in society"
-msgstr ""
+msgstr "per raggiungere il rango sociale"
 
 #: stringdump_steam_0_50_05_sorted_by_xrefs.txt:17167
 msgid "to bathe the world in chaos"
@@ -55181,19 +55267,19 @@ msgstr "con un obiettivo imperscrutabile"
 
 #: stringdump_steam_0_50_05_sorted_by_xrefs.txt:17169
 msgid " from the dead"
-msgstr ""
+msgstr "dai morti"
 
 #: stringdump_steam_0_50_05_sorted_by_xrefs.txt:17170
 msgid ", once more,"
-msgstr ""
+msgstr ", ancora una volta,"
 
 #: stringdump_steam_0_50_05_sorted_by_xrefs.txt:17171
 msgid "the death of "
-msgstr ""
+msgstr "la morte di "
 
 #: stringdump_steam_0_50_05_sorted_by_xrefs.txt:17172
 msgid " in a cage"
-msgstr ""
+msgstr " in gabbia"
 
 #: stringdump_steam_0_50_05_sorted_by_xrefs.txt:17173
 msgid " into a deep chasm"
@@ -55233,43 +55319,43 @@ msgstr "la fusione di "
 
 #: stringdump_steam_0_50_05_sorted_by_xrefs.txt:17182
 msgid "the condensation of "
-msgstr ""
+msgstr "la condensazione di "
 
 #: stringdump_steam_0_50_05_sorted_by_xrefs.txt:17183
 msgid "the freezing of "
-msgstr ""
+msgstr "il congelamento di "
 
 #: stringdump_steam_0_50_05_sorted_by_xrefs.txt:17184
 msgid "the heat-induced death of "
-msgstr ""
+msgstr "la morte indotta dal calore di "
 
 #: stringdump_steam_0_50_05_sorted_by_xrefs.txt:17185
 msgid "the encasement of "
-msgstr ""
+msgstr "l'intrappolamento di "
 
 #: stringdump_steam_0_50_05_sorted_by_xrefs.txt:17186
 msgid " in cooling lava"
-msgstr ""
+msgstr " nella lava in raffreddamento"
 
 #: stringdump_steam_0_50_05_sorted_by_xrefs.txt:17187
 msgid " in cooling magma"
-msgstr ""
+msgstr " nel magma in raffreddamento"
 
 #: stringdump_steam_0_50_05_sorted_by_xrefs.txt:17188
 msgid " in ice"
-msgstr ""
+msgstr " nel ghiaccio"
 
 #: stringdump_steam_0_50_05_sorted_by_xrefs.txt:17189
 msgid " in a "
-msgstr ""
+msgstr " in un "
 
 #: stringdump_steam_0_50_05_sorted_by_xrefs.txt:17190
 msgid "'s fire"
-msgstr ""
+msgstr "suo fuoco"
 
 #: stringdump_steam_0_50_05_sorted_by_xrefs.txt:17191
 msgid "the scalding of "
-msgstr ""
+msgstr "l'ustione di "
 
 #: stringdump_steam_0_50_05_sorted_by_xrefs.txt:17192
 msgid " in a magma mist"
@@ -55277,7 +55363,7 @@ msgstr " in una nebbia magmatica"
 
 #: stringdump_steam_0_50_05_sorted_by_xrefs.txt:17193
 msgid "the crushing of "
-msgstr ""
+msgstr "la frantumazione di "
 
 #: stringdump_steam_0_50_05_sorted_by_xrefs.txt:17194
 msgid " under a drawbridge"
@@ -55285,11 +55371,11 @@ msgstr "sotto un ponte levatoio"
 
 #: stringdump_steam_0_50_05_sorted_by_xrefs.txt:17195
 msgid " under a collapsing ceiling"
-msgstr ""
+msgstr " sotto un soffitto crollato"
 
 #: stringdump_steam_0_50_05_sorted_by_xrefs.txt:17196
 msgid " by falling rocks"
-msgstr ""
+msgstr " dalla caduta di massi"
 
 #: stringdump_steam_0_50_05_sorted_by_xrefs.txt:17197
 msgid "the shooting of "
@@ -55297,11 +55383,11 @@ msgstr ""
 
 #: stringdump_steam_0_50_05_sorted_by_xrefs.txt:17198
 msgid "the mortal wounding of "
-msgstr ""
+msgstr "la ferita mortale di "
 
 #: stringdump_steam_0_50_05_sorted_by_xrefs.txt:17199
 msgid "the fatal illness of "
-msgstr ""
+msgstr "la malattia mortale di "
 
 #: stringdump_steam_0_50_05_sorted_by_xrefs.txt:17200
 msgid "the hacking of "
@@ -55313,19 +55399,19 @@ msgstr "l'esecuzione di "
 
 #: stringdump_steam_0_50_05_sorted_by_xrefs.txt:17202
 msgid "the beheading of "
-msgstr ""
+msgstr "la decapitazione di "
 
 #: stringdump_steam_0_50_05_sorted_by_xrefs.txt:17203
 msgid "the crucifixion of "
-msgstr ""
+msgstr "la crocifissione di "
 
 #: stringdump_steam_0_50_05_sorted_by_xrefs.txt:17204
 msgid "the burial of "
-msgstr ""
+msgstr "la sepoltura di "
 
 #: stringdump_steam_0_50_05_sorted_by_xrefs.txt:17205
 msgid "the leaving of "
-msgstr ""
+msgstr "la partenza di "
 
 #: stringdump_steam_0_50_05_sorted_by_xrefs.txt:17206
 msgid "the drowning of "
@@ -55333,23 +55419,23 @@ msgstr "l'annegamento di"
 
 #: stringdump_steam_0_50_05_sorted_by_xrefs.txt:17207
 msgid "the feeding of "
-msgstr ""
+msgstr "l'alimentazione di"
 
 #: stringdump_steam_0_50_05_sorted_by_xrefs.txt:17208
 msgid "the killing of "
-msgstr ""
+msgstr "l'uccisione di "
 
 #: stringdump_steam_0_50_05_sorted_by_xrefs.txt:17209
 msgid "the slaughter of "
-msgstr ""
+msgstr "il massacro di "
 
 #: stringdump_steam_0_50_05_sorted_by_xrefs.txt:17210
 msgid "the scuttling of "
-msgstr ""
+msgstr "l'abbandono di "
 
 #: stringdump_steam_0_50_05_sorted_by_xrefs.txt:17211
 msgid "the draining of "
-msgstr ""
+msgstr "il prosciugamento di "
 
 #: stringdump_steam_0_50_05_sorted_by_xrefs.txt:17212
 msgid " blood"
@@ -55357,11 +55443,11 @@ msgstr " sangue"
 
 #: stringdump_steam_0_50_05_sorted_by_xrefs.txt:17213
 msgid "the murder of "
-msgstr ""
+msgstr "l'omicidio di "
 
 #: stringdump_steam_0_50_05_sorted_by_xrefs.txt:17214
 msgid " by a trap"
-msgstr ""
+msgstr " da una trappola"
 
 #: stringdump_steam_0_50_05_sorted_by_xrefs.txt:17215
 msgid " by a vehicle"
@@ -55369,31 +55455,31 @@ msgstr " da un veicolo"
 
 #: stringdump_steam_0_50_05_sorted_by_xrefs.txt:17216
 msgid " by a flying object"
-msgstr ""
+msgstr " da un oggetto volante"
 
 #: stringdump_steam_0_50_05_sorted_by_xrefs.txt:17217
 msgid "the collapse of "
-msgstr ""
+msgstr "il crollo di "
 
 #: stringdump_steam_0_50_05_sorted_by_xrefs.txt:17218
 msgid " after an attack by "
-msgstr ""
+msgstr " dopo un attacco di "
 
 #: stringdump_steam_0_50_05_sorted_by_xrefs.txt:17219
 msgid " after an attack by a "
-msgstr ""
+msgstr " dopo un attacco da parte di un "
 
 #: stringdump_steam_0_50_05_sorted_by_xrefs.txt:17220
 msgid " after an attack"
-msgstr ""
+msgstr " dopo un attacco"
 
 #: stringdump_steam_0_50_05_sorted_by_xrefs.txt:17221
 msgid " attack with "
-msgstr ""
+msgstr " attacco con "
 
 #: stringdump_steam_0_50_05_sorted_by_xrefs.txt:17222
 msgid "the vanishment of "
-msgstr ""
+msgstr "la scomparsa di "
 
 #: stringdump_steam_0_50_05_sorted_by_xrefs.txt:17223
 msgid "the putting to rest of "
@@ -55401,7 +55487,7 @@ msgstr ""
 
 #: stringdump_steam_0_50_05_sorted_by_xrefs.txt:17224
 msgid "the collision of "
-msgstr ""
+msgstr "la collisione di "
 
 #: stringdump_steam_0_50_05_sorted_by_xrefs.txt:17225
 msgid " with an obstacle"
@@ -63805,27 +63891,27 @@ msgstr "Impossibile trovare l'intestazione del testo vanilla."
 
 #: stringdump_steam_0_50_05_sorted_by_xrefs.txt:22546
 msgid "Failed to find vanilla languages header."
-msgstr ""
+msgstr "Impossibile trovare l'intestazione dei linguaggi vanilla."
 
 #: stringdump_steam_0_50_05_sorted_by_xrefs.txt:22549
 msgid "Failed to find vanilla descriptors header."
-msgstr ""
+msgstr "Impossibile trovare l'intestazione dei descrittori vanilla."
 
 #: stringdump_steam_0_50_05_sorted_by_xrefs.txt:22551
 msgid "Failed to find vanilla materials header."
-msgstr ""
+msgstr "Impossibile trovare l'intestazione dei materiali vanilla."
 
 #: stringdump_steam_0_50_05_sorted_by_xrefs.txt:22554
 msgid "Failed to find vanilla environment header."
-msgstr ""
+msgstr "Impossibile trovare l'intestazione ambiente vanilla."
 
 #: stringdump_steam_0_50_05_sorted_by_xrefs.txt:22557
 msgid "Failed to find vanilla plants header."
-msgstr ""
+msgstr "Impossibile trovare l'intestazione delle piante vanilla."
 
 #: stringdump_steam_0_50_05_sorted_by_xrefs.txt:22560
 msgid "Failed to find vanilla items header."
-msgstr ""
+msgstr "Impossibile trovare l'intestazione degli oggetti vanilla."
 
 #: stringdump_steam_0_50_05_sorted_by_xrefs.txt:22563
 msgid "Failed to find vanilla buildings header."
@@ -63953,11 +64039,11 @@ msgstr ""
 
 #: stringdump_steam_0_50_05_sorted_by_xrefs.txt:22625
 msgid "Item submission failed: timeout."
-msgstr ""
+msgstr "Invio oggetto non riuscito: timeout."
 
 #: stringdump_steam_0_50_05_sorted_by_xrefs.txt:22626
 msgid "Item submission failed: not logged on."
-msgstr ""
+msgstr "Invio oggetto non riuscito: non è stato effettuato l'accesso."
 
 #: stringdump_steam_0_50_05_sorted_by_xrefs.txt:22627
 msgid "Item submission failed: service unavailable."
@@ -63977,7 +64063,7 @@ msgstr ""
 
 #: stringdump_steam_0_50_05_sorted_by_xrefs.txt:22631
 msgid "Item submission failed: limit exceeded."
-msgstr ""
+msgstr "Invio oggetto non riuscito: limite superato."
 
 #: stringdump_steam_0_50_05_sorted_by_xrefs.txt:22632
 msgid "Item submission failed: locking failed."
@@ -63985,11 +64071,11 @@ msgstr "Invio dell'oggetto non riuscito: blocco non riuscito."
 
 #: stringdump_steam_0_50_05_sorted_by_xrefs.txt:22633
 msgid "Item submission failed: file not found."
-msgstr ""
+msgstr "Invio oggetto non riuscito: file non trovato."
 
 #: stringdump_steam_0_50_05_sorted_by_xrefs.txt:22634
 msgid "Item submission failed: access denied."
-msgstr ""
+msgstr "Invio oggetto non riuscito: accesso negato."
 
 #: stringdump_steam_0_50_05_sorted_by_xrefs.txt:22635
 msgid "Item submission failed: invalid parameter."
@@ -63997,11 +64083,11 @@ msgstr "Invio oggetto non riuscito: parametro non valido."
 
 #: stringdump_steam_0_50_05_sorted_by_xrefs.txt:22636
 msgid "Item submission failed: general failure."
-msgstr ""
+msgstr "Invio oggetto non riuscito: errore generale."
 
 #: stringdump_steam_0_50_05_sorted_by_xrefs.txt:22637
 msgid "Item submission failed. (code "
-msgstr ""
+msgstr "Invio oggetto non riuscito. (codice "
 
 #: stringdump_steam_0_50_05_sorted_by_xrefs.txt:22641
 msgid " has become entangled in a hidden web!"
@@ -64049,7 +64135,7 @@ msgstr " caduto"
 
 #: stringdump_steam_0_50_05_sorted_by_xrefs.txt:22652
 msgid "loop path fail: "
-msgstr ""
+msgstr "loop path fail: "
 
 #: stringdump_steam_0_50_05_sorted_by_xrefs.txt:22653
 msgid "<invalid goal> "
@@ -64218,11 +64304,11 @@ msgstr ""
 
 #: stringdump_steam_0_50_05_sorted_by_xrefs.txt:22779
 msgid "bring melody with harmony"
-msgstr ""
+msgstr "porta la melodia con armonia"
 
 #: stringdump_steam_0_50_05_sorted_by_xrefs.txt:22780
 msgid "are joined in melody"
-msgstr ""
+msgstr "si uniscono in melodia"
 
 #: stringdump_steam_0_50_05_sorted_by_xrefs.txt:22781
 msgid "The musical voices are purely rhythmic"
@@ -64270,7 +64356,7 @@ msgstr ""
 
 #: stringdump_steam_0_50_05_sorted_by_xrefs.txt:22792
 msgid "bring a sense of motion"
-msgstr ""
+msgstr "porta un senso di movimento"
 
 #: stringdump_steam_0_50_05_sorted_by_xrefs.txt:22793
 msgid "be fiery"
@@ -69324,11 +69410,11 @@ msgstr ""
 
 #: stringdump_steam_0_50_05_sorted_by_xrefs.txt:24243
 msgid "is absorbed in delusions of self-importance"
-msgstr ""
+msgstr "è assorbito da manie di protagonismo"
 
 #: stringdump_steam_0_50_05_sorted_by_xrefs.txt:24244
 msgid "has an overinflated sense of self-worth"
-msgstr ""
+msgstr "ha un senso di autostima eccessivo"
 
 #: stringdump_steam_0_50_05_sorted_by_xrefs.txt:24245
 msgid "thinks "
@@ -69340,7 +69426,7 @@ msgstr " è piuttosto importante nel grande schema delle cose"
 
 #: stringdump_steam_0_50_05_sorted_by_xrefs.txt:24247
 msgid "is very humble"
-msgstr ""
+msgstr "è molto umile"
 
 #: stringdump_steam_0_50_05_sorted_by_xrefs.txt:24248
 msgid "has a low sense of self-esteem"
@@ -69348,7 +69434,7 @@ msgstr ""
 
 #: stringdump_steam_0_50_05_sorted_by_xrefs.txt:24249
 msgid "is completely convinced of "
-msgstr ""
+msgstr "è completamente convinto di "
 
 #: stringdump_steam_0_50_05_sorted_by_xrefs.txt:24250
 msgid " own worthlessness"
@@ -69357,6 +69443,8 @@ msgstr " propria inutilità"
 #: stringdump_steam_0_50_05_sorted_by_xrefs.txt:24251
 msgid "is deliberately cruel to those unfortunate enough to be subject to "
 msgstr ""
+"è volutamente crudele nei confronti di coloro che sono abbastanza sfortunati"
+" da essere soggetti a"
 
 #: stringdump_steam_0_50_05_sorted_by_xrefs.txt:24252
 msgid " sadism"
@@ -69573,7 +69661,7 @@ msgstr " lavoro proprio"
 
 #: stringdump_steam_0_50_05_sorted_by_xrefs.txt:24301
 msgid "is frustratingly sloppy and careless with every task "
-msgstr ""
+msgstr "è fastidiosamente sciatto e negligente in ogni attività "
 
 #: stringdump_steam_0_50_05_sorted_by_xrefs.txt:24302
 msgid " sets to carry out"
@@ -77926,7 +78014,7 @@ msgstr ""
 
 #: stringdump_steam_0_50_05_sorted_by_xrefs.txt:27282
 msgid "it moves deliberately"
-msgstr ""
+msgstr "si muove volutamente"
 
 #: stringdump_steam_0_50_05_sorted_by_xrefs.txt:27283
 msgid "it has an austere look about it"
@@ -87928,11 +88016,11 @@ msgstr "inizia a parlare rapidamente quando "
 
 #: stringdump_steam_0_50_05_sorted_by_xrefs.txt:30734
 msgid "tends to speak very deliberately"
-msgstr "tende a parlare in modo molto cauto"
+msgstr "tende a parlare in molto cautamente"
 
 #: stringdump_steam_0_50_05_sorted_by_xrefs.txt:30735
 msgid "speaks very deliberately when "
-msgstr "parla in modo molto cauto quando "
+msgstr "parla molto cautamente quando "
 
 #: stringdump_steam_0_50_05_sorted_by_xrefs.txt:30736
 msgid "'s annoyed"
@@ -87944,7 +88032,7 @@ msgstr " viene esasperato, "
 
 #: stringdump_steam_0_50_05_sorted_by_xrefs.txt:30738
 msgid " begins to speak very deliberately"
-msgstr ""
+msgstr " inizia a parlare molto cautamente"
 
 #: stringdump_steam_0_50_05_sorted_by_xrefs.txt:30739
 msgid "mutters under "
@@ -88723,7 +88811,7 @@ msgstr ""
 
 #: stringdump_steam_0_50_05_sorted_by_xrefs.txt:30932
 msgid "exhales slowly and deliberately when "
-msgstr ""
+msgstr "espira lentamente e deliberatamente quando "
 
 #: stringdump_steam_0_50_05_sorted_by_xrefs.txt:30933
 msgid " starts getting bored"
