@@ -44,10 +44,11 @@
 # liang Celestian, 2023
 # 许威 <1975428296@qq.com>, 2023
 # asdas adada, 2023
+# VDC683 010, 2023
 # 
 msgid ""
 msgstr ""
-"Last-Translator: asdas adada, 2023\n"
+"Last-Translator: VDC683 010, 2023\n"
 "Language-Team: Chinese Simplified (https://www.transifex.com/dwarf-fortress-translation/teams/22396/zh-Hans/)\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -25635,7 +25636,7 @@ msgstr ""
 #: creature_reptiles.txt:364
 msgctxt "CREATURE:CHAMELEON_MAN"
 msgid "[CASTE_NAME:chameleon woman:chameleon women:chameleon woman]"
-msgstr ""
+msgstr "[CASTE_NAME:变色龙女:变色龙女:变色龙女]"
 
 #: creature_reptiles.txt:374
 msgctxt "CREATURE:CHAMELEON_MAN"
@@ -25655,7 +25656,7 @@ msgstr "[NAME:巨变色蜥:巨变色蜥:巨变色蜥]"
 #: creature_reptiles.txt:392
 msgctxt "CREATURE:GIANT_CHAMELEON"
 msgid "[CASTE_NAME:giant chameleon:giant chameleons:giant chameleon]"
-msgstr ""
+msgstr "[CASTE_NAME:巨变色蜥:巨变色蜥:巨变色蜥]"
 
 #: creature_reptiles.txt:393
 msgctxt "CREATURE:GIANT_CHAMELEON"
@@ -25811,12 +25812,12 @@ msgstr "[TLCM_NOUN:眼睛:PLURAL]"
 #: creature_reptiles.txt:639
 msgctxt "CREATURE:IGUANA_MAN"
 msgid "[CASTE_NAME:iguana man:iguana men:iguana man]"
-msgstr ""
+msgstr "[CASTE_NAME:鬣蜥男:鬣蜥男:鬣蜥男]"
 
 #: creature_reptiles.txt:641
 msgctxt "CREATURE:IGUANA_MAN"
 msgid "[CASTE_NAME:iguana woman:iguana women:iguana woman]"
-msgstr ""
+msgstr "[CASTE_NAME:鬣蜥女:鬣蜥女:鬣蜥女]"
 
 #: creature_reptiles.txt:652
 msgctxt "CREATURE:IGUANA_MAN"
@@ -26139,7 +26140,7 @@ msgstr "[NAME:鳄龟人:鳄龟人:鳄龟人]"
 #: creature_riverlakepool_new.txt:463
 msgctxt "CREATURE:SNAPPING_TURTLE_MAN"
 msgid "[DESCRIPTION:A person with the shell and head of a snapping turtle.]"
-msgstr ""
+msgstr "[DESCRIPTION:一个长着拟鳄龟头和甲壳的人。]"
 
 #: creature_riverlakepool_new.txt:479
 msgctxt "CREATURE:GIANT_SNAPPING_TURTLE"
@@ -26479,12 +26480,12 @@ msgstr "[TLCM_NOUN:眼睛:PLURAL]"
 #: creature_riverlakepool_new.txt:981
 msgctxt "CREATURE:MINK_MAN"
 msgid "[CASTE_NAME:mink man:mink men:mink man]"
-msgstr ""
+msgstr "[CASTE_NAME:水貂人:水貂人:水貂人]"
 
 #: creature_riverlakepool_new.txt:983
 msgctxt "CREATURE:MINK_MAN"
 msgid "[CASTE_NAME:mink woman:mink women:mink woman]"
-msgstr ""
+msgstr "[CASTE_NAME:水貂女:水貂女:水貂女]"
 
 #: creature_riverlakepool_new.txt:994
 msgctxt "CREATURE:MINK_MAN"
@@ -26494,12 +26495,12 @@ msgstr "[NAME:水貂人:水貂人:水貂人]"
 #: creature_riverlakepool_new.txt:995
 msgctxt "CREATURE:MINK_MAN"
 msgid "[DESCRIPTION:A person with the head and tail of a mink.]"
-msgstr ""
+msgstr "[DESCRIPTION:一个长着水貂头和尾巴的人。]"
 
 #: creature_riverlakepool_new.txt:1013
 msgctxt "CREATURE:GIANT_MINK"
 msgid "[NAME:giant mink:giant minks:giant mink]"
-msgstr ""
+msgstr "[NAME:巨水貂:巨水貂:巨水貂]"
 
 #: creature_riverlakepool_new.txt:1014
 msgctxt "CREATURE:GIANT_MINK"
@@ -26541,7 +26542,7 @@ msgstr "[CASTE_NAME:池龟:池龟:池龟]"
 #: creature_riverlakepool_new.txt:1047
 msgctxt "CREATURE:POND_TURTLE"
 msgid "[PREFSTRING:shells]"
-msgstr ""
+msgstr "[PREFSTRING:壳]"
 
 #: creature_riverlakepool_new.txt:1092
 msgctxt "CREATURE:POND_TURTLE"
@@ -26555,6 +26556,7 @@ msgid ""
 "into <pro_pos> shell:come out of <pro_pos> shell:comes out of <pro_pos> "
 "shell]"
 msgstr ""
+"[RETRACT_INTO_BP:BY_CATEGORY:SHELL:缩入<pro_pos>壳:缩入<pro_pos>壳:钻出<pro_pos>壳:钻出<pro_pos>壳]"
 
 #: creature_riverlakepool_new.txt:1115
 msgctxt "CREATURE:POND_TURTLE"
@@ -26589,7 +26591,7 @@ msgstr "[DESCRIPTION:一个长着池龟头和甲壳的人。]"
 #: creature_riverlakepool_new.txt:1154
 msgctxt "CREATURE:GIANT_POND_TURTLE"
 msgid "[NAME:giant pond turtle:giant pond turtles:giant pond turtle]"
-msgstr ""
+msgstr "[NAME:巨池龟:巨池龟:巨池龟]"
 
 #: creature_riverlakepool_new.txt:1155
 msgctxt "CREATURE:GIANT_POND_TURTLE"
