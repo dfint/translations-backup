@@ -9913,6 +9913,8 @@ msgid ""
 "You can also create work orders at specific [C:6:0:0]Workshops[C:7:0:0] from"
 " their building sheet. "
 msgstr ""
+"Puoi anche creare ordini di lavoro in specifiche [C:6:0:0]Botteghe[C:7:0:0] "
+"dalla loro scheda di costruzione. "
 
 #: stringdump_steam_0_50_06_sorted_by_xrefs.txt:2402
 msgid ""
@@ -11173,7 +11175,7 @@ msgstr " in posizione fetale"
 
 #: stringdump_steam_0_50_06_sorted_by_xrefs.txt:2590
 msgid " smeared out into a spiral"
-msgstr ""
+msgstr " sfociato in una spirale"
 
 #: stringdump_steam_0_50_06_sorted_by_xrefs.txt:2591
 msgid " falling"
@@ -11678,6 +11680,8 @@ msgstr "Il mio compagno."
 msgid ""
 "thought of as two disjoint chords spanning a tritone and a perfect fourth"
 msgstr ""
+"pensato come due accordi disgiunti che abbracciano un tritono e una quarta "
+"giusta"
 
 #: stringdump_steam_0_50_06_sorted_by_xrefs.txt:2718
 msgid "Setting type"
@@ -14483,7 +14487,7 @@ msgstr " via "
 
 #: stringdump_steam_0_50_06_sorted_by_xrefs.txt:3679
 msgid " plotted to abduct "
-msgstr " complottato per rapire "
+msgstr " complottato per sequestrare "
 
 #: stringdump_steam_0_50_06_sorted_by_xrefs.txt:3680
 msgid " plotted to assassinate "
@@ -14671,7 +14675,7 @@ msgstr " per sabotare le attività di "
 
 #: stringdump_steam_0_50_06_sorted_by_xrefs.txt:3726
 msgid " to abduct "
-msgstr " per rapire "
+msgstr " per sequestrare "
 
 #: stringdump_steam_0_50_06_sorted_by_xrefs.txt:3727
 msgid " to assassinate "
@@ -14767,7 +14771,7 @@ msgstr "Sabotaggio"
 
 #: stringdump_steam_0_50_06_sorted_by_xrefs.txt:3750
 msgid "Abduct"
-msgstr "Rapire"
+msgstr "Sequestra"
 
 #: stringdump_steam_0_50_06_sorted_by_xrefs.txt:3751
 msgid "Assassinate"
@@ -15163,7 +15167,7 @@ msgstr "x è un battito"
 
 #: stringdump_steam_0_50_06_sorted_by_xrefs.txt:3860
 msgid "thought of as two disjoint chords spanning two perfect fourths"
-msgstr ""
+msgstr "pensato come due accordi disgiunti che abbracciano due quarte giuste"
 
 #: stringdump_steam_0_50_06_sorted_by_xrefs.txt:3861
 msgid "Move keyboard cursor down and left"
@@ -19468,7 +19472,7 @@ msgid ""
 "Toggle whether the stockpile allows plant and animal-based objects, "
 "regardless of other settings."
 msgstr ""
-"Alterna se la scorta consente, o no, oggetti a base vegetale e animale, "
+"Scegli se la scorta consente, o no, oggetti a base vegetale e animale, "
 "indipendentemente dalle altre impostazioni."
 
 #: stringdump_steam_0_50_06_sorted_by_xrefs.txt:4914
@@ -19476,7 +19480,7 @@ msgid ""
 "Toggle whether the stockpile allows non-plant-and-animal-based objects, "
 "regardless of other settings."
 msgstr ""
-"Alterna se la scorta consente, o no, oggetti non a base vegetale e animale, "
+"Scegli se la scorta consente, o no, oggetti non a base vegetale e animale, "
 "indipendentemente dalle altre impostazioni."
 
 #: stringdump_steam_0_50_06_sorted_by_xrefs.txt:4915
@@ -19505,23 +19509,29 @@ msgid ""
 "Toggle the forbidden status of the item.  Citizens will not use forbidden "
 "items or buildings."
 msgstr ""
-"Alterna lo stato proibito dell'oggetto.  I cittadini non useranno oggetti o "
-"edifici proibiti."
+"Alterna lo stato di proibizione dell'oggetto.  I cittadini non useranno "
+"oggetti o edifici proibiti."
 
 #: stringdump_steam_0_50_06_sorted_by_xrefs.txt:4921
 msgid ""
 "Toggle the dump status of the item.  Items are dumped in dumping zones."
 msgstr ""
+"Scegli lo stato di scarico dell'elemento.  Gli articoli vengono scaricati "
+"nelle zone di scarico."
 
 #: stringdump_steam_0_50_06_sorted_by_xrefs.txt:4922
 msgid "Toggle the melt status of the item.  Items are melted at any smelter."
 msgstr ""
+"Scegli lo stato di fusione dell'oggetto.  Gli oggetti vengono fusi in "
+"qualsiasi fonderia."
 
 #: stringdump_steam_0_50_06_sorted_by_xrefs.txt:4923
 msgid ""
 "Toggle the visibility of the item.  Hidden items cannot be seen but citizens"
 " will still use them."
 msgstr ""
+"Scegli la visibilità dell'elemento.  Gli oggetti nascosti non possono essere"
+" visti ma i cittadini li useranno comunque."
 
 #: stringdump_steam_0_50_06_sorted_by_xrefs.txt:4924
 msgid ""
@@ -19588,6 +19598,9 @@ msgid ""
 "materials, the current stock of products, or the completion of other work "
 "orders."
 msgstr ""
+"Imposta le condizioni per l'attivazione dell'ordine di lavoro.  Ciò può "
+"coinvolgere i materiali necessari, l'attuale riserva di prodotti o il "
+"completamento di altri ordini di lavoro."
 
 #: stringdump_steam_0_50_06_sorted_by_xrefs.txt:4935
 msgid "Set the material used or other details of the task."
@@ -19612,6 +19625,8 @@ msgid ""
 "Make the activation of the work order depend on the status of another work "
 "order."
 msgstr ""
+"Fai dipendere l'attivazione dell'ordine di lavoro dallo stato di un altro "
+"ordine di lavoro."
 
 #: stringdump_steam_0_50_06_sorted_by_xrefs.txt:4940
 msgid "Change the amount of the item being checked."
@@ -19724,24 +19739,24 @@ msgid ""
 "Toggle whether this creature will receive war training.  War animals have "
 "more lethal attacks."
 msgstr ""
-"Alterna se questa creatura riceverà l'addestramento alla guerra. Gli animali"
-" da guerra attaccano più letalmente."
+"Scegli se questa creatura riceverà l'addestramento alla guerra. Gli animali "
+"da guerra attaccano più letalmente."
 
 #: stringdump_steam_0_50_06_sorted_by_xrefs.txt:4963
 msgid ""
 "Toggle whether this creature will receive hunting training.  Hunting animals"
 " can move stealthfully during hunts."
 msgstr ""
-"Alterna se questa creatura riceverà l'addestramento alla caccia.  Gli "
-"animali da caccia possono muoversi furtivamente durante la caccia."
+"Scegli se questa creatura riceverà l'addestramento alla caccia.  Gli animali"
+" da caccia possono muoversi furtivamente durante la caccia."
 
 #: stringdump_steam_0_50_06_sorted_by_xrefs.txt:4964
 msgid ""
 "Toggle whether this creature is available as a pet for any interested "
 "citizen or resident."
 msgstr ""
-"Alterna se questa creatura è disponibile come animale domestico per "
-"cittadini o residenti interessati."
+"Scegli se questa creatura è disponibile come animale domestico per cittadini"
+" o residenti interessati."
 
 #: stringdump_steam_0_50_06_sorted_by_xrefs.txt:4965
 msgid "This creature is ecstatic right now."
@@ -20455,6 +20470,10 @@ msgid ""
 "distant civilizations will need to access this building from the edge of the"
 " map.  Later, wagons will need a clear 3-wide path to the depot."
 msgstr ""
+"Quest'edificio cruciale è il luogo in cui si svolgerà ogni scambio.  Gli "
+"animali da soma di civiltà lontane dovranno poter accedere a questo edificio"
+" da bordo mappa.  In seguito ai carri servirà un chiaro percorso largo 3 per"
+" il deposito."
 
 #: stringdump_steam_0_50_06_sorted_by_xrefs.txt:5103
 msgid ""
@@ -20720,6 +20739,9 @@ msgid ""
 "after the hive is placed, or a colony can be split from an existing hive "
 "colony."
 msgstr ""
+"Mantieni una colonia d'insetti nei tuoi alveari.  Una colonia selvatica "
+"dev'essere raccolta dopo che l'alveare è stato posizionato, oppure una "
+"colonia può essere separata da una colonia di alveari esistente."
 
 #: stringdump_steam_0_50_06_sorted_by_xrefs.txt:5136
 msgid ""
@@ -20822,6 +20844,9 @@ msgid ""
 "These ornamental objects increase the value of rooms in which they are "
 "placed.  An offering place object must be made before it can be placed."
 msgstr ""
+"Questi oggetti ornamentali aumentano il valore degli ambienti in cui sono "
+"collocati.  Un oggetto per luogo di offerte deve essere realizzato prima che"
+" possa essere posizionato."
 
 #: stringdump_steam_0_50_06_sorted_by_xrefs.txt:5148
 msgid ""
@@ -20871,6 +20896,10 @@ msgid ""
 "on any floor.  Grates unlike bars have a quality and enhance the value of "
 "rooms.  Grates can be connected to levers."
 msgstr ""
+"Blocca le creature ma consente il passaggio di fluidi e oggetti.  Si può "
+"costruire a qualsiasi piano.  Le grate a differenza delle sbarre hanno una "
+"qualità e valorizzano gli ambienti.  Le grate si possono collegare alle "
+"leve."
 
 #: stringdump_steam_0_50_06_sorted_by_xrefs.txt:5155
 msgid ""
@@ -20879,6 +20908,10 @@ msgid ""
 " a quality and enhance the value of rooms.  Grates can be connected to "
 "levers."
 msgstr ""
+"Blocca le creature ma consente il passaggio di fluidi e oggetti. Si può "
+"costruire su spazi vuoti, scale, rampe o sopra liquidi. Le grate a "
+"differenza delle sbarre hanno una qualità e valorizzano gli ambienti.  Le "
+"griglie si possono collegare alle leve."
 
 #: stringdump_steam_0_50_06_sorted_by_xrefs.txt:5156
 msgid ""
@@ -20886,6 +20919,10 @@ msgid ""
 "on any floor.  Bars unlike grates do not have a quality and so do not "
 "enhance the value of rooms significantly.  Bars can be connected to levers."
 msgstr ""
+"Blocca le creature ma consente il passaggio di fluidi e oggetti.  Si può "
+"costruire a qualsiasi piano.  Le sbarre, a differenza delle grate, non hanno"
+" una qualità e quindi non aumentano in modo significativo il valore delle "
+"stanze.  Le sbarre si possono collegare alle leve."
 
 #: stringdump_steam_0_50_06_sorted_by_xrefs.txt:5157
 msgid ""
@@ -20894,6 +20931,11 @@ msgid ""
 "not have a quality and so do not enhance the value of rooms significantly.  "
 "Bars can be connected to levers."
 msgstr ""
+"Blocca le creature ma consente il passaggio di fluidi e oggetti.  Si può "
+"costruire su spazi vuoti, scale, rampe o sopra liquidi.  Le sbarre, a "
+"differenza delle grate, non hanno una qualità e quindi non aumentano in modo"
+" significativo il valore delle stanze.  Le sbarre si possono collegare alle "
+"leve."
 
 #: stringdump_steam_0_50_06_sorted_by_xrefs.txt:5158
 msgid ""
@@ -20909,12 +20951,17 @@ msgid ""
 "This ornamental construction can enhance the value of rooms.  Three cut gem "
 "objects must be made at a jeweler's shop before it can be placed."
 msgstr ""
+"Questa costruzione ornamentale può aumentare il valore delle stanze.  Tre "
+"oggetti Gemma Intagliata vanno realizzati in una gioielleria prima di poter "
+"essere collocati."
 
 #: stringdump_steam_0_50_06_sorted_by_xrefs.txt:5160
 msgid ""
 "Supports will stop cave-ins in the rare event you completely detach a piece "
 "of your fortress.  Otherwise, they are ornamental."
 msgstr ""
+"I sostegni impediscono i crolli nel raro caso in cui tu stacchi "
+"completamente un pezzo della fortezza.  Per il resto, sono ornamentali."
 
 #: stringdump_steam_0_50_06_sorted_by_xrefs.txt:5161
 msgid ""
@@ -20979,6 +21026,10 @@ msgid ""
 "fortress.  Must be attached to a lever or pressure plate to function.  "
 "Requires a floodgate object to be built before it can be placed."
 msgstr ""
+"Usa le paratoie per controllare il flusso dei fluidi tra gli spazi della tua"
+" fortezza.  Dev'essere collegata a una leva o a una piastra a pressione per "
+"funzionare.  Richiede la costruzione di un oggetto Paratoia prima che possa "
+"essere posizionata."
 
 #: stringdump_steam_0_50_06_sorted_by_xrefs.txt:5169
 msgid ""
@@ -21033,6 +21084,8 @@ msgid ""
 "A chain can be placed for use in the justice system or for the restraint of "
 "an animal."
 msgstr ""
+"Una catena può essere collocata per l'uso nel sistema giudiziario o per il "
+"contenimento di un animale."
 
 #: stringdump_steam_0_50_06_sorted_by_xrefs.txt:5177
 msgid ""
@@ -21441,6 +21494,8 @@ msgstr ""
 #: stringdump_steam_0_50_06_sorted_by_xrefs.txt:5271
 msgid "We cannot stop production just because of your quaint sensibilities."
 msgstr ""
+"Non possiamo fermare la produzione solo a causa della tua pittoresca "
+"sensibilità."
 
 #: stringdump_steam_0_50_06_sorted_by_xrefs.txt:5272
 msgid "You do not have an official capable of handling these matters."
@@ -21703,6 +21758,8 @@ msgid ""
 "[C:VAR:MEETING:ACTOR][VAR:NATIVENAME:MEETING:ACTOR]: Let's discuss the state"
 " of our current agreements..."
 msgstr ""
+"[C:VAR:MEETING:ACTOR][VAR:NATIVENAME:MEETING:ACTOR]: Parliamo dello stato "
+"dei nostri attuali accordi..."
 
 #: stringdump_steam_0_50_06_sorted_by_xrefs.txt:5331
 msgid ""
@@ -21725,6 +21782,8 @@ msgid ""
 " [C:VAR:MEETING:ACTOR]is expected, and if you are able to provide some, the "
 "caravan will offer "
 msgstr ""
+" [C:VAR:MEETING:ACTOR]è previsto e se sei in grado di fornirne alcuni, la "
+"carovana offrirà "
 
 #: stringdump_steam_0_50_06_sorted_by_xrefs.txt:5335
 msgid "% and "
@@ -24816,7 +24875,7 @@ msgstr "meno privato"
 
 #: stringdump_steam_0_50_06_sorted_by_xrefs.txt:6115
 msgid "more of a perfectionist"
-msgstr "più di un perfezionista"
+msgstr "più che perfezionista"
 
 #: stringdump_steam_0_50_06_sorted_by_xrefs.txt:6116
 msgid "less attentive to details"
@@ -28497,7 +28556,7 @@ msgstr " mi ha ingaggiato per assassinare "
 
 #: stringdump_steam_0_50_06_sorted_by_xrefs.txt:7029
 msgid " engaged me to abduct "
-msgstr " mi ha ingaggiato per rapire "
+msgstr " mi ha ingaggiato per sequestrare "
 
 #: stringdump_steam_0_50_06_sorted_by_xrefs.txt:7030
 msgid " engaged me to sabotage the activities of "
@@ -29149,7 +29208,7 @@ msgstr ", in movimento"
 
 #: stringdump_steam_0_50_06_sorted_by_xrefs.txt:7194
 msgid "the divergence of the harmonic series"
-msgstr ""
+msgstr "la divergenza della serie armonica"
 
 #: stringdump_steam_0_50_06_sorted_by_xrefs.txt:7195
 msgid "very slowly "
@@ -30109,7 +30168,7 @@ msgstr ""
 
 #: stringdump_steam_0_50_06_sorted_by_xrefs.txt:7440
 msgid "Pressure Plate"
-msgstr ""
+msgstr "Piastra a pressione"
 
 #: stringdump_steam_0_50_06_sorted_by_xrefs.txt:7441
 msgid "Cage Trap"
@@ -30665,7 +30724,7 @@ msgstr ""
 
 #: stringdump_steam_0_50_06_sorted_by_xrefs.txt:7580
 msgid "Your trap was robbed of the "
-msgstr ""
+msgstr "La tua trappola è stata derubata del "
 
 #: stringdump_steam_0_50_06_sorted_by_xrefs.txt:7582
 msgid " closes."
@@ -31069,7 +31128,7 @@ msgstr " sotto "
 
 #: stringdump_steam_0_50_06_sorted_by_xrefs.txt:7750
 msgid " from a period of no rule"
-msgstr ""
+msgstr " da un periodo privo di regole"
 
 #: stringdump_steam_0_50_06_sorted_by_xrefs.txt:7751
 msgid "gen"
@@ -31393,7 +31452,7 @@ msgstr " manca "
 
 #: stringdump_steam_0_50_06_sorted_by_xrefs.txt:7863
 msgid " has moved out of range!"
-msgstr ""
+msgstr " si è spostato fuori portata!"
 
 #: stringdump_steam_0_50_06_sorted_by_xrefs.txt:7864
 msgid "strikes"
@@ -33273,7 +33332,7 @@ msgstr "Ammiro i giri di parole intelligenti."
 
 #: stringdump_steam_0_50_06_sorted_by_xrefs.txt:8317
 msgid "They are so full of all those big words."
-msgstr ""
+msgstr "Sono così pieni di tutti quei paroloni."
 
 #: stringdump_steam_0_50_06_sorted_by_xrefs.txt:8318
 msgid "Who are these mealy-mouthed cowards trying to impress?"
@@ -33466,7 +33525,7 @@ msgstr ""
 
 #: stringdump_steam_0_50_06_sorted_by_xrefs.txt:8356
 msgid "I like a balance of tranquility and commotion myself."
-msgstr ""
+msgstr "Mi piace un equilibrio tra tranquillità e commozione."
 
 #: stringdump_steam_0_50_06_sorted_by_xrefs.txt:8357
 msgid "We should all be as one.  Why all the struggling?"
@@ -33481,6 +33540,8 @@ msgid ""
 "Some discord is a healthy part of society, but we must also try to live "
 "together."
 msgstr ""
+"Un po' di discordia è parte integrante della società ma dobbiamo anche "
+"cercare di vivere assieme."
 
 #: stringdump_steam_0_50_06_sorted_by_xrefs.txt:8360
 msgid "It's great when we all get a chance to be merry together."
@@ -33543,6 +33604,8 @@ msgstr ""
 msgid ""
 "The amount of practice that goes into mastering a skill is so impressive."
 msgstr ""
+"La quantità di pratica necessaria per padroneggiare un'abilità è così "
+"impressionante."
 
 #: stringdump_steam_0_50_06_sorted_by_xrefs.txt:8372
 msgid "We should all be so lucky as to truly master a skill."
@@ -33550,7 +33613,7 @@ msgstr ""
 
 #: stringdump_steam_0_50_06_sorted_by_xrefs.txt:8373
 msgid "All of that practice is misspent effort."
-msgstr ""
+msgstr "Tutta quella pratica è uno sforzo sprecato."
 
 #: stringdump_steam_0_50_06_sorted_by_xrefs.txt:8374
 msgid ""
@@ -33577,10 +33640,12 @@ msgstr ""
 #: stringdump_steam_0_50_06_sorted_by_xrefs.txt:8377
 msgid "The best way to get what you want out of life is to work for it."
 msgstr ""
+"Il modo migliore per ottenere ciò che vuoi dalla vita è lavorare per "
+"ottenerlo."
 
 #: stringdump_steam_0_50_06_sorted_by_xrefs.txt:8378
 msgid "Hard work is the true sign of character."
-msgstr ""
+msgstr "Il duro lavoro è vero segno di carattere."
 
 #: stringdump_steam_0_50_06_sorted_by_xrefs.txt:8379
 msgid "In life, you should work hard.  Then work harder."
@@ -33625,6 +33690,8 @@ msgid ""
 "Some self-sacrifice is worthy, but do not forget yourself in devotion to the"
 " well-being of others."
 msgstr ""
+"Qualche sacrificio di sé è rispettabile, ma non dimenticare te stesso nella "
+"devozione al benessere altrui."
 
 #: stringdump_steam_0_50_06_sorted_by_xrefs.txt:8389
 msgid "It's a competitive world, and you'd be a fool to think otherwise."
@@ -33718,12 +33785,15 @@ msgstr "È meraviglioso esplorare la natura selvaggia!"
 #: stringdump_steam_0_50_06_sorted_by_xrefs.txt:8406
 msgid "I could do without all of those creatures and that tangled greenery."
 msgstr ""
+"Potrei fare a meno di tutte quelle creature e di quel verde aggrovigliato."
 
 #: stringdump_steam_0_50_06_sorted_by_xrefs.txt:8407
 msgid ""
 "Nature can be enjoyed and used for myriad purposes, but there must always be"
 " respect and even fear of its power."
 msgstr ""
+"La natura può essere goduta e utilizzata per una miriade di scopi, ma ci "
+"deve sempre essere rispetto e persino paura del suo potere."
 
 #: stringdump_steam_0_50_06_sorted_by_xrefs.txt:8408
 msgid "Let there be peace throughout the world."
@@ -51452,7 +51522,7 @@ msgstr "Nessuno Studio"
 
 #: stringdump_steam_0_50_06_sorted_by_xrefs.txt:16132
 msgid "is offended by leisure time and leisurely living"
-msgstr ""
+msgstr "è offeso dal tempo libero e dalla vita tranquilla"
 
 #: stringdump_steam_0_50_06_sorted_by_xrefs.txt:16133
 msgid "group of "
@@ -53040,7 +53110,7 @@ msgstr "conservando una parte del corpo"
 
 #: stringdump_steam_0_50_06_sorted_by_xrefs.txt:16571
 msgid "abducted hf"
-msgstr "rapito hf"
+msgstr "sequestrato hf"
 
 #: stringdump_steam_0_50_06_sorted_by_xrefs.txt:16572
 msgid "murdered hf"
@@ -55608,7 +55678,7 @@ msgstr "la malattia mortale di "
 
 #: stringdump_steam_0_50_06_sorted_by_xrefs.txt:17214
 msgid "the hacking of "
-msgstr ""
+msgstr "il massacro di "
 
 #: stringdump_steam_0_50_06_sorted_by_xrefs.txt:17215
 msgid "the execution of "
@@ -55764,7 +55834,7 @@ msgstr " sequestrato "
 
 #: stringdump_steam_0_50_06_sorted_by_xrefs.txt:17253
 msgid " was abducted"
-msgstr " è stato rapito"
+msgstr " è stato sequestrato"
 
 #: stringdump_steam_0_50_06_sorted_by_xrefs.txt:17254
 msgid "the abduction of "
@@ -57528,7 +57598,7 @@ msgstr "un complotto di sabotaggio"
 
 #: stringdump_steam_0_50_06_sorted_by_xrefs.txt:17693
 msgid "an abduction plot"
-msgstr "una complotto per sequestrare"
+msgstr "un complotto per sequestrare"
 
 #: stringdump_steam_0_50_06_sorted_by_xrefs.txt:17694
 msgid "an assassination plot"
@@ -64736,7 +64806,7 @@ msgstr "sfumare nel silenzio"
 
 #: stringdump_steam_0_50_06_sorted_by_xrefs.txt:22823
 msgid "start loud then be immediately soft"
-msgstr ""
+msgstr "inizia forte e poi diventa subito leggero"
 
 #: stringdump_steam_0_50_06_sorted_by_xrefs.txt:22824
 msgid "The melody and counterpoint both have "
@@ -65479,7 +65549,7 @@ msgstr ""
 
 #: stringdump_steam_0_50_06_sorted_by_xrefs.txt:23006
 msgid "The tonic note is fixed only at the time of performance.  "
-msgstr ""
+msgstr "La nota tonica viene fissata solo al momento dell'esecuzione.  "
 
 #: stringdump_steam_0_50_06_sorted_by_xrefs.txt:23007
 msgid "The tonic note is a fixed tone passed from teacher to student.  "
@@ -65538,22 +65608,29 @@ msgid ""
 "thought of as two disjoint chords drawn from the fundamental division of the"
 " perfect fourth"
 msgstr ""
+"pensati come due accordi disgiunti tratti dalla divisione fondamentale della"
+" quarta giusta"
 
 #: stringdump_steam_0_50_06_sorted_by_xrefs.txt:23021
 msgid ""
 "thought of as two disjoint chords spanning a perfect fifth and a major third"
 msgstr ""
+"pensato come due accordi disgiunti che abbracciano una quinta giusta e una "
+"terza maggiore"
 
 #: stringdump_steam_0_50_06_sorted_by_xrefs.txt:23022
 msgid ""
 "thought of as joined chords spanning a perfect fifth and a perfect fourth"
 msgstr ""
+"pensato come accordi uniti che coprono una quinta giusta e una quarta giusta"
 
 #: stringdump_steam_0_50_06_sorted_by_xrefs.txt:23023
 msgid ""
 "constructed by selection of degrees from the fundamental scale.  The degrees"
 " selected are "
 msgstr ""
+"costruito mediante selezione di gradi dalla scala fondamentale.  I gradi "
+"selezionati sono "
 
 #: stringdump_steam_0_50_06_sorted_by_xrefs.txt:23024
 msgid "These chords are named "
@@ -65581,11 +65658,11 @@ msgstr " (completando l'ottava)"
 
 #: stringdump_steam_0_50_06_sorted_by_xrefs.txt:23030
 msgid "degrees of the fundamental perfect fourth division"
-msgstr ""
+msgstr "gradi della divisione fondamentale della quarta giusta"
 
 #: stringdump_steam_0_50_06_sorted_by_xrefs.txt:23031
 msgid "degrees of the octave scale"
-msgstr ""
+msgstr "gradi della scala di ottava"
 
 #: stringdump_steam_0_50_06_sorted_by_xrefs.txt:23032
 msgid "degrees of the semitone octave scale"
@@ -65955,19 +66032,19 @@ msgstr ""
 
 #: stringdump_steam_0_50_06_sorted_by_xrefs.txt:23124
 msgid "Number of Bogeyman Types"
-msgstr ""
+msgstr "Numero di tipi di Babau"
 
 #: stringdump_steam_0_50_06_sorted_by_xrefs.txt:23125
 msgid "Number of Nightmare Types"
-msgstr ""
+msgstr "Numero di tipi di Incubo"
 
 #: stringdump_steam_0_50_06_sorted_by_xrefs.txt:23126
 msgid "Number of Vampire Curse Types"
-msgstr ""
+msgstr "Numero di tipi di Maledizione Vampiriche"
 
 #: stringdump_steam_0_50_06_sorted_by_xrefs.txt:23127
 msgid "Number of Werebeast Curse Types"
-msgstr ""
+msgstr "Numero di tipi di Maledizione di Bestie Mannare"
 
 #: stringdump_steam_0_50_06_sorted_by_xrefs.txt:23128
 msgid "Werebeast Attack Population Rating"
@@ -65987,11 +66064,11 @@ msgstr ""
 
 #: stringdump_steam_0_50_06_sorted_by_xrefs.txt:23132
 msgid "Number of Regional Interaction Types"
-msgstr ""
+msgstr "Numero di tipi d'Interazioni regionali"
 
 #: stringdump_steam_0_50_06_sorted_by_xrefs.txt:23133
 msgid "Number of Disturbance Interaction Types"
-msgstr ""
+msgstr "Numero di tipi d'Interazione di Disturbo"
 
 #: stringdump_steam_0_50_06_sorted_by_xrefs.txt:23134
 msgid "Number of Evil Cloud Types"
@@ -65999,7 +66076,7 @@ msgstr ""
 
 #: stringdump_steam_0_50_06_sorted_by_xrefs.txt:23135
 msgid "Number of Evil Rain Types"
-msgstr ""
+msgstr "Numero di tipi di Pioggia Malvagia"
 
 #: stringdump_steam_0_50_06_sorted_by_xrefs.txt:23136
 msgid "Generate Divine Materials"
@@ -67948,6 +68025,8 @@ msgid ""
 "holds fairness as one of the highest ideals and despises cheating of any "
 "kind"
 msgstr ""
+"considera l'equità come uno dei più alti ideali e disprezza gli imbrogli di "
+"qualsiasi tipo"
 
 #: stringdump_steam_0_50_06_sorted_by_xrefs.txt:23870
 msgid "has great respect for fairness"
@@ -67967,7 +68046,7 @@ msgstr "vede la vita come ingiusta e non gl'importa di questo aspetto"
 
 #: stringdump_steam_0_50_06_sorted_by_xrefs.txt:23874
 msgid "finds the idea of fair-dealing foolish and cheats when "
-msgstr ""
+msgstr "trova sciocca l'idea delle trattative eque e imbroglia quando "
 
 #: stringdump_steam_0_50_06_sorted_by_xrefs.txt:23875
 msgid " finds it profitable"
@@ -68258,6 +68337,8 @@ msgid ""
 "finds the whole idea of introspection completely offensive and contrary to "
 "the ideals of a life well-lived"
 msgstr ""
+"trova l'intera idea d'introspezione completamente offensiva e contraria agli"
+" ideali di una vita ben vissuta"
 
 #: stringdump_steam_0_50_06_sorted_by_xrefs.txt:23933
 msgid ""
@@ -68351,7 +68432,7 @@ msgstr "apprezza un’esistenza armoniosa"
 
 #: stringdump_steam_0_50_06_sorted_by_xrefs.txt:23950
 msgid "sees equal parts of harmony and discord as part of life"
-msgstr ""
+msgstr "vede parti uguali di armonia e discordia come parte della vita"
 
 #: stringdump_steam_0_50_06_sorted_by_xrefs.txt:23951
 msgid ""
@@ -68373,6 +68454,8 @@ msgid ""
 "believes deeply that chaos and disorder are the truest expressions of life "
 "and would disrupt harmony wherever it is found"
 msgstr ""
+"crede profondamente che il caos e il disordine siano le espressioni più vere"
+" della vita e interromperebbero l'armonia ovunque si trovi"
 
 #: stringdump_steam_0_50_06_sorted_by_xrefs.txt:23954
 msgid "believes that little is better in life than a good party"
@@ -68641,7 +68724,7 @@ msgstr "non pensa molto sull'idea di perseveranza"
 
 #: stringdump_steam_0_50_06_sorted_by_xrefs.txt:24011
 msgid "sees perseverance in the face of adversity as bull-headed and foolish"
-msgstr ""
+msgstr "vede la perseveranza di fronte alle avversità come cocciuta e sciocca"
 
 #: stringdump_steam_0_50_06_sorted_by_xrefs.txt:24012
 msgid ""
@@ -68719,7 +68802,7 @@ msgstr "ritiene che il commercio sia una vile oscenità"
 
 #: stringdump_steam_0_50_06_sorted_by_xrefs.txt:24027
 msgid "sees romance as one of the highest ideals"
-msgstr ""
+msgstr "vede il romanticismo come uno dei più alti ideali"
 
 #: stringdump_steam_0_50_06_sorted_by_xrefs.txt:24028
 msgid "thinks romance is very important in life"
@@ -68778,6 +68861,8 @@ msgid ""
 "believes the idea of war is utterly repellent and would have peace at all "
 "costs"
 msgstr ""
+"crede che l'idea della guerra sia assolutamente repellente e vorrebbe la "
+"pace a ogni costo"
 
 #: stringdump_steam_0_50_06_sorted_by_xrefs.txt:24041
 msgid "believes that peace is always preferable to war"
@@ -68821,23 +68906,23 @@ msgstr ""
 
 #: stringdump_steam_0_50_06_sorted_by_xrefs.txt:24051
 msgid "dreams of raising a family"
-msgstr ""
+msgstr "sogna di mettere su famiglia"
 
 #: stringdump_steam_0_50_06_sorted_by_xrefs.txt:24052
 msgid "dreams of ruling the world"
-msgstr ""
+msgstr "sogna di dominare il mondo"
 
 #: stringdump_steam_0_50_06_sorted_by_xrefs.txt:24053
 msgid "dreams of creating a great work of art"
-msgstr ""
+msgstr "sogna di creare una grande opera d'arte"
 
 #: stringdump_steam_0_50_06_sorted_by_xrefs.txt:24054
 msgid "dreams of crafting a masterwork someday"
-msgstr ""
+msgstr "sogna, un giorno, di creare un capolavoro"
 
 #: stringdump_steam_0_50_06_sorted_by_xrefs.txt:24055
 msgid "dreams of bringing lasting peace to the world"
-msgstr ""
+msgstr "sogna di portare una pace duratura nel mondo"
 
 #: stringdump_steam_0_50_06_sorted_by_xrefs.txt:24056
 msgid "dreams of becoming a legendary warrior"
@@ -74271,11 +74356,15 @@ msgid ""
 "As a rule throughout the poem, the end rhymes don't generally match "
 "perfectly.  "
 msgstr ""
+"Di norma in tutta la poesia, le rime finali generalmente non corrispondono "
+"perfettamente.  "
 
 #: stringdump_steam_0_50_06_sorted_by_xrefs.txt:25346
 msgid ""
 "In this part of the poem, the end rhymes don't need to match perfectly.  "
 msgstr ""
+"In questa parte della poesia, non è necessario che le rime finali "
+"corrispondano perfettamente.  "
 
 #: stringdump_steam_0_50_06_sorted_by_xrefs.txt:25347
 msgid "The rhyme"
