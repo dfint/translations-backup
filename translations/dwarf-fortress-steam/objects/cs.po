@@ -2815,7 +2815,7 @@ msgstr "[BP:SKULL:lebka:STP]"
 #: body_default.txt:1292
 msgctxt "BODY:CASQUE"
 msgid "[BP:CASQUE:casque:STP]"
-msgstr ""
+msgstr "[BP:CASQUE:přilba:STP]"
 
 #: body_default.txt:1296
 msgctxt "BODY:HEAD_HORN"
@@ -3885,7 +3885,7 @@ msgstr "[BP:L_MAND:levá čelist:STP]"
 #: body_default.txt:1788
 msgctxt "BODY:BILL"
 msgid "[BP:BILL:bill:STP]"
-msgstr ""
+msgstr "[BP:BILL:účtovat:STP]"
 
 #: body_default.txt:1792
 msgctxt "BODY:HUMANOID_ARMLESS_NECK"
@@ -5000,7 +5000,7 @@ msgstr "[BODYGLOSS:RCP_GLOSS_PAW:chodidlo:tlapka:chodidla:tlapky]"
 #: body_rcp.txt:609
 msgctxt "BODY:RCP_BILL"
 msgid "[BP:BILL:bill:STP]"
-msgstr ""
+msgstr "[BP:BILL:účtovat:STP]"
 
 #: body_rcp.txt:613
 msgctxt "BODY:RCP_2_HEAD_ANTLERS"
@@ -5095,7 +5095,7 @@ msgstr "[TISSUE_NAME:peří:STP]"
 #: tissue_template_default.txt:168
 msgctxt "TISSUE_TEMPLATE:SCALE_TEMPLATE"
 msgid "[TISSUE_NAME:scale:STP]"
-msgstr ""
+msgstr "[TISSUE_NAME:měřítko:STP]"
 
 #: tissue_template_default.txt:179
 msgctxt "TISSUE_TEMPLATE:NAIL_TEMPLATE"
@@ -5110,7 +5110,7 @@ msgstr "[TISSUE_NAME:dráp:NP]"
 #: tissue_template_default.txt:195
 msgctxt "TISSUE_TEMPLATE:TALON_TEMPLATE"
 msgid "[TISSUE_NAME:talon:NP]"
-msgstr ""
+msgstr "[TISSUE_NAME:dráp:NP]"
 
 #: tissue_template_default.txt:203
 msgctxt "TISSUE_TEMPLATE:TOOTH_TEMPLATE"
@@ -5120,7 +5120,7 @@ msgstr "[TISSUE_NAME:zub:NP]"
 #: tissue_template_default.txt:211
 msgctxt "TISSUE_TEMPLATE:IVORY_TEMPLATE"
 msgid "[TISSUE_NAME:ivory:NP]"
-msgstr ""
+msgstr "1[TISSUE_NAME:slonovina:NP]"
 
 #: tissue_template_default.txt:219
 msgctxt "TISSUE_TEMPLATE:EYE_TEMPLATE"
@@ -5165,12 +5165,12 @@ msgstr "[TISSUE_NAME:žaludeční tkáň:NP]"
 #: tissue_template_default.txt:318
 msgctxt "TISSUE_TEMPLATE:GIZZARD_TEMPLATE"
 msgid "[TISSUE_NAME:gizzard tissue:NP]"
-msgstr ""
+msgstr "[TISSUE_NAME:žaduleční tkáň:NP]"
 
 #: tissue_template_default.txt:331
 msgctxt "TISSUE_TEMPLATE:PANCREAS_TEMPLATE"
 msgid "[TISSUE_NAME:pancreatic tissue:NP]"
-msgstr ""
+msgstr "[TISSUE_NAME:tkáň slinivky břišní:NP]"
 
 #: tissue_template_default.txt:344
 msgctxt "TISSUE_TEMPLATE:SPLEEN_TEMPLATE"
@@ -5180,7 +5180,7 @@ msgstr "[TISSUE_NAME:tkáň sleziny:NP]"
 #: tissue_template_default.txt:357
 msgctxt "TISSUE_TEMPLATE:KIDNEY_TEMPLATE"
 msgid "[TISSUE_NAME:kidney tissue:NP]"
-msgstr ""
+msgstr "[TISSUE_NAME:ledvinová tkáň:NP]"
 
 #: tissue_template_default.txt:370
 msgctxt "TISSUE_TEMPLATE:FLAME_TEMPLATE"
@@ -5211,11 +5211,12 @@ msgstr "[NAME:Dílna Výrobce Mýdla]"
 msgctxt "BUILDING_WORKSHOP:SOAP_MAKER"
 msgid "[TOOLTIP:Use tallow (rendered fat) or oil here with lye to make soap.]"
 msgstr ""
+"[TOOLTIP:K výrobě mýdla použijte lůj (škvařený tuk) nebo olej s louhem.]"
 
 #: building_custom.txt:44
 msgctxt "BUILDING_WORKSHOP:SCREW_PRESS"
 msgid "[NAME:Screw Press]"
-msgstr ""
+msgstr "[NAME:Šroubovací lis]"
 
 #: building_custom.txt:56
 msgctxt "BUILDING_WORKSHOP:SCREW_PRESS"
@@ -5231,17 +5232,17 @@ msgstr ""
 #: c_variation_default.txt:189
 msgctxt "CREATURE_VARIATION:ANIMAL_PERSON"
 msgid "[CV_NEW_TAG:CDI:ADV_NAME:Pet animal]"
-msgstr ""
+msgstr "[CV_NEW_TAG:CDI:ADV_NAME:domácí zvíře]"
 
 #: c_variation_default.txt:192
 msgctxt "CREATURE_VARIATION:ANIMAL_PERSON"
 msgid "[CV_NEW_TAG:CDI:VERB:pet:pets:pets]"
-msgstr ""
+msgstr "[CV_NEW_TAG:CDI:VERB:mazlíček:mazlíčci:domácí zvířátka]"
 
 #: c_variation_default.txt:354
 msgctxt "CREATURE_VARIATION:ANIMAL_PERSON_LEGLESS"
 msgid "[CV_NEW_TAG:CDI:ADV_NAME:Pet animal]"
-msgstr ""
+msgstr "[CV_NEW_TAG:CDI:ADV_NAME:Domácí zvíře]"
 
 #: c_variation_default.txt:357
 msgctxt "CREATURE_VARIATION:ANIMAL_PERSON_LEGLESS"
@@ -5266,7 +5267,7 @@ msgstr ""
 #: c_variation_default.txt:397
 msgctxt "CREATURE_VARIATION:TAIL_ATTACK"
 msgid "[CV_NEW_TAG:ATTACK_VERB:slap:slaps]"
-msgstr ""
+msgstr "[CV_NEW_TAG:ATTACK_VERB:facka:facky]"
 
 #: c_variation_default.txt:406
 msgctxt "CREATURE_VARIATION:HOOF_ATTACK"
@@ -5276,22 +5277,22 @@ msgstr ""
 #: c_variation_default.txt:421
 msgctxt "CREATURE_VARIATION:NAIL_SCRATCH_ATTACK"
 msgid "[CV_NEW_TAG:ATTACK_VERB:scratch:scratches]"
-msgstr ""
+msgstr "[CV_NEW_TAG:ATTACK_VERB:škrábat:škrábance]"
 
 #: c_variation_default.txt:431
 msgctxt "CREATURE_VARIATION:CLAW_SCRATCH_ATTACK"
 msgid "[CV_NEW_TAG:ATTACK_VERB:scratch:scratches]"
-msgstr ""
+msgstr "[CV_NEW_TAG:ATTACK_VERB:scratch:scratches]"
 
 #: c_variation_default.txt:441
 msgctxt "CREATURE_VARIATION:TOOTH_BITE_ATTACK"
 msgid "[CV_NEW_TAG:ATTACK_VERB:bite:bites]"
-msgstr ""
+msgstr "[CV_NEW_TAG:ATTACK_VERB:kousat:kousnutí]"
 
 #: c_variation_default.txt:452
 msgctxt "CREATURE_VARIATION:TOOTH_BITE_VENOM_ATTACK"
 msgid "[CV_NEW_TAG:ATTACK_VERB:bite:bites]"
-msgstr ""
+msgstr "[CV_NEW_TAG:ATTACK_VERB:kousat:kousnutí]"
 
 #: c_variation_default.txt:464
 msgctxt "CREATURE_VARIATION:TAIL_STING_VENOM_ATTACK"

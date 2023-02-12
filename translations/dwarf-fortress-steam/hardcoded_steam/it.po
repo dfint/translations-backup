@@ -7666,7 +7666,7 @@ msgstr "Altre fonti di cibo"
 
 #: stringdump_steam_0_50_06_sorted_by_xrefs.txt:2007
 msgid "Bins, bags, and barrels"
-msgstr "Cesti, borse e barili"
+msgstr "Cesti, borse e botti"
 
 #: stringdump_steam_0_50_06_sorted_by_xrefs.txt:2008
 msgid "Offices and administrative work"
@@ -8746,16 +8746,16 @@ msgid ""
 "If you have some [C:6:0:1]Wood[C:7:0:0] stockpiled, you'll be able to place "
 "a [C:6:0:0]Carpenter's Workshop[C:7:0:0].  "
 msgstr ""
-"Se hai del [C:6:0:1]Wood[C:7:0:0] immagazzinato, sarai in grado di creare "
-"una [C:6:0:0]Carpenter's Workshop[C:7:0:0]. "
+"Se hai [C:6:0:1]Legna[C:7:0:0] immagazzinata sarai in grado di collocare una"
+" [C:6:0:0]Bottega del Carpentiere[C:7:0:0].  "
 
 #: stringdump_steam_0_50_06_sorted_by_xrefs.txt:2231
 msgid ""
 "Click [C:5:0:1]Workshops[C:7:0:0] -> [C:5:0:1]Carpenter[C:7:0:0] and place "
 "the shop in an empty area on the surface or underground."
 msgstr ""
-"Premi [C:5:0:1]Botteghe[C:7:0:0] -> [C:5:0:1]Carpentiere[C:7:0:0] e colloca "
-"il negozio in un'area libera in superficie o sottoterra."
+"Clicca [C:5:0:1]Botteghe[C:7:0:0] -> [C:5:0:1]Carpentiere[C:7:0:0] e colloca"
+" il negozio in un'area libera in superficie o sottoterra."
 
 #: stringdump_steam_0_50_06_sorted_by_xrefs.txt:2232
 msgid ""
@@ -8795,8 +8795,8 @@ msgid ""
 "task and make a [C:6:0:1]Bed[C:7:0:0].  "
 msgstr ""
 "I [C:6:0:1]Mobili[C:7:0:0] creati nella [C:6:0:0]Bottega del "
-"carpentiere[C:7:0:0] di solito richiedono un [C:6:0:1]Legno[C:7:0:0] per "
-"essere costruiti. Aggiungi un compito e crea un [C:6:0:1]Letto[C:7:0:0].  "
+"Carpentiere[C:7:0:0] di solito richiedono un [C:6:0:1]Legno[C:7:0:0] per "
+"essere costruiti.  Aggiungi un compito e crea un [C:6:0:1]Letto[C:7:0:0].  "
 
 #: stringdump_steam_0_50_06_sorted_by_xrefs.txt:2237
 msgid ""
@@ -9160,7 +9160,7 @@ msgid ""
 "The task also requires a [C:6:0:1]Barrel[C:7:0:0] from the "
 "[C:6:0:0]Carpenter's Workshop[C:7:0:0]. "
 msgstr ""
-"Il compito richiede anche un [C:6:0:1]Barile[C:7:0:0] prodotto nella "
+"Il compito richiede anche una [C:6:0:1]Botte[C:7:0:0] prodotta nella "
 "[C:6:0:0]Bottega del Carpentiere[C:7:0:0]. "
 
 #: stringdump_steam_0_50_06_sorted_by_xrefs.txt:2298
@@ -9589,6 +9589,9 @@ msgid ""
 "way to move a lot of objects around the fortress quickly, though they take a"
 " little effort to prepare. "
 msgstr ""
+"[C:6:0:1]Carrelli da miniera[C:7:0:0] e [C:6:0:0]Binari[C:7:0:0] sono un "
+"modo conveniente per spostare rapidamente molti oggetti all'interno della "
+"fortezza, anche se richiedono un piccolo sforzo per prepararli. "
 
 #: stringdump_steam_0_50_06_sorted_by_xrefs.txt:2354
 msgid ""
@@ -9606,18 +9609,26 @@ msgid ""
 "[C:6:0:0]Stockpile[C:7:0:0] for [C:6:0:1]Items[C:7:0:0] to be put on or "
 "removed from the [C:6:0:1]Minecart[C:7:0:0]."
 msgstr ""
+"Ogni [C:6:0:0]Fermata dei binari[C:7:0:0] dev'essere collegata a una "
+"[C:6:0:0]Scorta[C:7:0:0] per [C:6:0:1]Oggetti[C:7:0:0] da inserire o "
+"rimuovere dal [C:6:0:1]Carrello da miniera[C:7:0:0]."
 
 #: stringdump_steam_0_50_06_sorted_by_xrefs.txt:2356
 msgid ""
 "Only one condition needs to be satisfied for the [C:6:0:1]Minecart[C:7:0:0] "
 "to move to the next [C:6:0:0]Track Stop[C:7:0:0]."
 msgstr ""
+"Basta soddisfare una sola condizione affinché il [C:6:0:1]Carrello da "
+"miniera[C:7:0:0] si sposti alla successivo [C:6:0:0]Fermata sui "
+"binari[C:7:0:0]."
 
 #: stringdump_steam_0_50_06_sorted_by_xrefs.txt:2357
 msgid ""
 "[C:6:0:1]Minecarts[C:7:0:0] that move too quickly around corners will spill "
 "their contents. "
 msgstr ""
+"I [C:6:0:1]Carrelli da miniera[C:7:0:0] che si muovono troppo velocemente in"
+" curva ne rovesciano il contenuto. "
 
 #: stringdump_steam_0_50_06_sorted_by_xrefs.txt:2358
 msgid ""
@@ -9767,6 +9778,9 @@ msgid ""
 "attention to them, and affected victims and family members get upset if "
 "crime is ignored."
 msgstr ""
+"Alcuni crimini sono indicativi di problemi maggiori, dovresti prestargli "
+"attenzione.  Le vittime colpite e i membri di famiglia si arrabbieranno se "
+"il crimine sarà ignorato."
 
 #: stringdump_steam_0_50_06_sorted_by_xrefs.txt:2379
 msgid "It's up to you to choose whom to convict. "
@@ -9794,6 +9808,9 @@ msgid ""
 "[C:6:0:0]Chains[C:7:0:0] and assign them to a [C:3:0:0]Dungeon[C:7:0:0] "
 "zone. "
 msgstr ""
+"Si consiglia di collocare un certo numero di [C:6:0:0]Gabbie[C:7:0:0] e "
+"[C:6:0:0]Catene[C:7:0:0] e assegnarle a una zona delle "
+"[C:3:0:0]Segrete[C:7:0:0 ]. "
 
 #: stringdump_steam_0_50_06_sorted_by_xrefs.txt:2384
 msgid ""
@@ -9938,6 +9955,9 @@ msgid ""
 "[C:6:0:1]Barrels[C:7:0:0] are used to store [C:6:0:1]Food[C:7:0:0].  "
 "[C:6:0:1]Bags[C:7:0:0] are used to store [C:6:0:1]Seeds[C:7:0:0] "
 msgstr ""
+"[C:6:0:1]Botti[C:7:0:0], e [C:6:0:1]Borse[C:7:0:0].  Le "
+"[C:6:0:1]Botti[C:7:0:0] sono usate per conservare [C:6:0:1]Cibo[C:7:0:0].  "
+"Le [C:6:0:1]Borse[C:7:0:0] sono usate per conservare [C:6:0:1]Semi[C:7:0:0] "
 
 #: stringdump_steam_0_50_06_sorted_by_xrefs.txt:2405
 msgid ""
@@ -9955,6 +9975,9 @@ msgid ""
 "lightweight [C:6:0:1]Bins[C:7:0:0] and [C:6:0:1]Barrels[C:7:0:0], but they "
 "can also be made at "
 msgstr ""
+"La [C:6:0:0]Bottega del Carpentiere[C:7:0:0] è il posto migliore per creare "
+"[C:6:0:1]Cesti[C:7:0:0] leggeri e [C:6:0:1]Botti[C:7:0:0], ma possono essere"
+" creati anche presso "
 
 #: stringdump_steam_0_50_06_sorted_by_xrefs.txt:2407
 msgid ""
@@ -17119,7 +17142,7 @@ msgstr "Scorta e strumenti"
 
 #: stringdump_steam_0_50_06_sorted_by_xrefs.txt:4347
 msgid "Max barrels"
-msgstr "Max barili"
+msgstr "Max botti"
 
 #: stringdump_steam_0_50_06_sorted_by_xrefs.txt:4348
 msgid "Max wheelbarrows"
@@ -18193,7 +18216,7 @@ msgstr "Rimuovendo ordine scavo/taglio/raccolta/levigazione"
 
 #: stringdump_steam_0_50_06_sorted_by_xrefs.txt:4624
 msgid "Horizontal axles can vary in length."
-msgstr ""
+msgstr "Gli assali orizzontali possono variare in lunghezza."
 
 #: stringdump_steam_0_50_06_sorted_by_xrefs.txt:4625
 msgid "Set the orientation below."
@@ -18771,7 +18794,7 @@ msgid ""
 "necessary.  The miner requires a pick."
 msgstr ""
 "Scava un normale corridoio o stanza.  Assegna un minatore al dettaglio di "
-"lavoro, se necessario.  Il minatore necessita di un piccone."
+"lavoro, se necessario.  Il minatore richiede un piccone."
 
 #: stringdump_steam_0_50_06_sorted_by_xrefs.txt:4771
 msgid ""
@@ -18888,7 +18911,7 @@ msgid ""
 msgstr ""
 "Imposta gli ordini di taglio degli alberi.  Seleziona la base dell'albero in"
 " modo che il taglialegna possa raggiungerlo.  Se necessario assegna un "
-"taglialegna al lavoro.  Il taglialegna ha bisogno di un'ascia."
+"taglialegna al lavoro.  Il taglialegna richiede un'ascia."
 
 #: stringdump_steam_0_50_06_sorted_by_xrefs.txt:4796
 msgid "Finish setting tree chopping orders."
@@ -19163,8 +19186,8 @@ msgstr "Rimuovi questa zona permanentemente."
 msgid ""
 "Gather fruit in trees in and just above this zone.  Requires a stepladder."
 msgstr ""
-"Raccogli frutti dagli alberi situati in questa zona o appena sopra.  "
-"Richiede una scaletta."
+"Raccogli frutta dagli alberi in questa zona o appena sopra.  Richiede una "
+"scaletta."
 
 #: stringdump_steam_0_50_06_sorted_by_xrefs.txt:4850
 msgid "Gather fruit and vegetables from shrubs in this zone."
@@ -20596,7 +20619,7 @@ msgid ""
 "barrel, and a bucket."
 msgstr ""
 "Usato per fare liscivia, potassa e acqua di calce.  La costruzione richiede "
-"blocchi, botte e un secchio."
+"blocchi, botte e secchio."
 
 #: stringdump_steam_0_50_06_sorted_by_xrefs.txt:5104
 msgid ""
@@ -20611,7 +20634,7 @@ msgstr ""
 #: stringdump_steam_0_50_06_sorted_by_xrefs.txt:5105
 msgid ""
 "Make beds and various furniture here, as well as bins, barrels, and more."
-msgstr "Crea letti e mobili vari qui, oltre a cesti, barili e altro ancora."
+msgstr "Crea letti e vari mobili qui, oltre a cesti, botti e altro ancora."
 
 #: stringdump_steam_0_50_06_sorted_by_xrefs.txt:5106
 msgid ""
@@ -20698,8 +20721,8 @@ msgid ""
 "Use dyes here to color thread and cloth.  Requires a barrel and bucket for "
 "construction."
 msgstr ""
-"Usa qui le tinte per colorare filo e stoffa.  Richiede un barile e un "
-"secchio per la costruzione."
+"Colora qui filo e stoffa con le tinte.  Richiede una botte e un secchio per "
+"la costruzione."
 
 #: stringdump_steam_0_50_06_sorted_by_xrefs.txt:5117
 msgid "Brew alcohol from plants, fruit, or honey."
@@ -21110,7 +21133,7 @@ msgid ""
 msgstr ""
 "È possibile costruire muri in superficie, nelle caverne o negli spazi "
 "scavati per bloccare il passaggio di creature, oggetti e fluidi.  Richiede "
-"massi, blocchi o legno."
+"massi, blocchi o legna."
 
 #: stringdump_steam_0_50_06_sorted_by_xrefs.txt:5162
 msgid ""
@@ -21136,7 +21159,7 @@ msgid ""
 "span at least two elevations.  Requires boulder, block, or wood."
 msgstr ""
 "Puoi costruire scalinate per collegare diverse quote.  Le scalinate devono "
-"coprire almeno due quote.  Richiede massi, blocchi o legno."
+"coprire almeno due quote.  Richiede massi, blocchi o legna."
 
 #: stringdump_steam_0_50_06_sorted_by_xrefs.txt:5165
 msgid ""
@@ -21146,7 +21169,7 @@ msgid ""
 msgstr ""
 "Le fortificazioni bloccano il movimento delle creature ma lasciano passare i"
 " proiettili.  I soldati vicino alle fortificazioni sono ragionevolmente al "
-"sicuro dai proiettili in arrivo.  Richiede massi, blocchi o legno."
+"sicuro dai proiettili in arrivo.  Richiede massi, blocchi o legna."
 
 #: stringdump_steam_0_50_06_sorted_by_xrefs.txt:5166
 msgid "Use minecart tracks in conjunction with the hauling menu."
@@ -21171,7 +21194,7 @@ msgstr ""
 "Usa le paratoie per controllare il flusso dei fluidi tra gli spazi della tua"
 " fortezza.  Dev'essere collegata a una leva o a una piastra a pressione per "
 "funzionare.  Richiede la costruzione di un oggetto Paratoia prima che possa "
-"essere posizionata."
+"essere collocata."
 
 #: stringdump_steam_0_50_06_sorted_by_xrefs.txt:5169
 msgid ""
@@ -21211,12 +21234,13 @@ msgid ""
 "Horizontal axles transfer power on the same elevation.  Horizontal axles can"
 " be east-west or north-south."
 msgstr ""
-"Gli assi orizzontali trasferiscono la potenza sulla stessa quota.  Gli assi "
-"orizzontali possono essere est-ovest o nord-sud."
+"Gli assali orizzontali trasferiscono la potenza sulla stessa quota.   Gli "
+"assali orizzontali possono essere est-ovest o nord-sud."
 
 #: stringdump_steam_0_50_06_sorted_by_xrefs.txt:5174
 msgid "Vertical axles transfer power between two adjacent elevations."
-msgstr "Gli assi verticali trasferiscono la potenza tra due quote adiacenti."
+msgstr ""
+"Gli assali verticali trasferiscono la potenza tra due quote adiacenti."
 
 #: stringdump_steam_0_50_06_sorted_by_xrefs.txt:5175
 msgid ""
@@ -22728,11 +22752,11 @@ msgstr "Preferisci le zone per bere acqua"
 
 #: stringdump_steam_0_50_06_sorted_by_xrefs.txt:5521
 msgid "Mix similar foods in barrels"
-msgstr "Mescola alimenti simili in barili"
+msgstr "Mescola alimenti simili in botti"
 
 #: stringdump_steam_0_50_06_sorted_by_xrefs.txt:5522
 msgid "Do not mix similar food in barrels"
-msgstr "Non mescolare alimenti simili in barili"
+msgstr "Non mescolare alimenti simili in botti"
 
 #: stringdump_steam_0_50_06_sorted_by_xrefs.txt:5523
 msgid "Everybody harvests"
@@ -43697,7 +43721,7 @@ msgstr "Corde (Gomitolo)"
 
 #: stringdump_steam_0_50_06_sorted_by_xrefs.txt:12674
 msgid "Barrels"
-msgstr "Barili"
+msgstr "Botti"
 
 #: stringdump_steam_0_50_06_sorted_by_xrefs.txt:12675
 msgid "Miscellaneous"
@@ -48685,7 +48709,7 @@ msgstr "sembra essere strettamente imparentato con ogni altro del suo genere"
 
 #: stringdump_steam_0_50_06_sorted_by_xrefs.txt:14954
 msgid "processable (to barrel) "
-msgstr "lavorabile (in barile) "
+msgstr "lavorabile (in botte) "
 
 #: stringdump_steam_0_50_06_sorted_by_xrefs.txt:14961
 msgid "after a joyous reunion"
@@ -51027,7 +51051,7 @@ msgstr "terrario"
 
 #: stringdump_steam_0_50_06_sorted_by_xrefs.txt:15956
 msgid "barrel"
-msgstr "barile"
+msgstr "botte"
 
 #: stringdump_steam_0_50_06_sorted_by_xrefs.txt:15957
 msgid "bucket"
@@ -53223,31 +53247,31 @@ msgstr "cambia valore della personalità"
 
 #: stringdump_steam_0_50_06_sorted_by_xrefs.txt:16552
 msgid "active performance preacher"
-msgstr ""
+msgstr "esibizione attiva predicatore"
 
 #: stringdump_steam_0_50_06_sorted_by_xrefs.txt:16553
 msgid "active performance storyteller"
-msgstr ""
+msgstr "esibizione attiva narratore"
 
 #: stringdump_steam_0_50_06_sorted_by_xrefs.txt:16554
 msgid "active performance poem reciter"
-msgstr ""
+msgstr "esibizione attiva recitatore di poesie"
 
 #: stringdump_steam_0_50_06_sorted_by_xrefs.txt:16555
 msgid "active performance simulated instrument"
-msgstr ""
+msgstr "esibizione attiva strumento simulato"
 
 #: stringdump_steam_0_50_06_sorted_by_xrefs.txt:16556
 msgid "active performance instrument"
-msgstr ""
+msgstr "esibizione attiva strumento"
 
 #: stringdump_steam_0_50_06_sorted_by_xrefs.txt:16557
 msgid "active performance singer"
-msgstr ""
+msgstr "esibizione attiva cantante"
 
 #: stringdump_steam_0_50_06_sorted_by_xrefs.txt:16558
 msgid "active performance chanter"
-msgstr ""
+msgstr "esibizione attiva cantore"
 
 #: stringdump_steam_0_50_06_sorted_by_xrefs.txt:16559
 msgid "active performance dancer"
@@ -54801,7 +54825,7 @@ msgstr "bruciato"
 
 #: stringdump_steam_0_50_06_sorted_by_xrefs.txt:16947
 msgid "burned away"
-msgstr ""
+msgstr "bruciato"
 
 #: stringdump_steam_0_50_06_sorted_by_xrefs.txt:16948
 msgid "torn off"
@@ -61099,7 +61123,7 @@ msgstr "Materiale pressato"
 
 #: stringdump_steam_0_50_06_sorted_by_xrefs.txt:19764
 msgid " Barrel"
-msgstr " Barile"
+msgstr " Botte"
 
 #: stringdump_steam_0_50_06_sorted_by_xrefs.txt:19765
 msgid "Coin"
@@ -62078,7 +62102,7 @@ msgstr "Lavora piante (fiala)"
 
 #: stringdump_steam_0_50_06_sorted_by_xrefs.txt:20124
 msgid "Process plants (barrel)"
-msgstr "Processare piante (barile)"
+msgstr "Processare piante (botte)"
 
 #: stringdump_steam_0_50_06_sorted_by_xrefs.txt:20125
 msgid "Make lye"
@@ -62550,7 +62574,7 @@ msgstr " trappola per animali"
 
 #: stringdump_steam_0_50_06_sorted_by_xrefs.txt:20243
 msgid " barrel"
-msgstr " barile"
+msgstr " botte"
 
 #: stringdump_steam_0_50_06_sorted_by_xrefs.txt:20244
 msgid " tube"
@@ -62906,7 +62930,7 @@ msgstr "Riponi oggetto in una borsa"
 
 #: stringdump_steam_0_50_06_sorted_by_xrefs.txt:20332
 msgid "Store item in barrel"
-msgstr "Riponi oggetto in un barile"
+msgstr "Riponi oggetto in una botte"
 
 #: stringdump_steam_0_50_06_sorted_by_xrefs.txt:20333
 msgid "Store item in bin"
@@ -65332,23 +65356,23 @@ msgstr ""
 
 #: stringdump_steam_0_50_06_sorted_by_xrefs.txt:22905
 msgid "locally improvises"
-msgstr ""
+msgstr "improvvisa localmente"
 
 #: stringdump_steam_0_50_06_sorted_by_xrefs.txt:22906
 msgid "modulates frequently"
-msgstr ""
+msgstr "modula frequentemente"
 
 #: stringdump_steam_0_50_06_sorted_by_xrefs.txt:22907
 msgid "adds fills"
-msgstr ""
+msgstr "aggiunge riempimenti"
 
 #: stringdump_steam_0_50_06_sorted_by_xrefs.txt:22908
 msgid "syncopates"
-msgstr ""
+msgstr "sincopati"
 
 #: stringdump_steam_0_50_06_sorted_by_xrefs.txt:22909
 msgid "plays arpeggios"
-msgstr ""
+msgstr "suona arpeggi"
 
 #: stringdump_steam_0_50_06_sorted_by_xrefs.txt:22910
 msgid "plays legato"
@@ -66249,7 +66273,7 @@ msgstr ""
 
 #: stringdump_steam_0_50_06_sorted_by_xrefs.txt:23131
 msgid "Number of Secret Types"
-msgstr ""
+msgstr "Numero di tipi di Segreti"
 
 #: stringdump_steam_0_50_06_sorted_by_xrefs.txt:23132
 msgid "Number of Regional Interaction Types"
@@ -66261,7 +66285,7 @@ msgstr "Numero di tipi d'Interazione di Disturbo"
 
 #: stringdump_steam_0_50_06_sorted_by_xrefs.txt:23134
 msgid "Number of Evil Cloud Types"
-msgstr ""
+msgstr "Numero di tipi di Nuvole Malvagie"
 
 #: stringdump_steam_0_50_06_sorted_by_xrefs.txt:23135
 msgid "Number of Evil Rain Types"
@@ -66317,7 +66341,7 @@ msgstr ""
 
 #: stringdump_steam_0_50_06_sorted_by_xrefs.txt:23148
 msgid "Desired Evil Square Count in Large Subregions"
-msgstr ""
+msgstr "Numero desiderato di Riquadri Malvagi in Grandi Sottoregioni"
 
 #: stringdump_steam_0_50_06_sorted_by_xrefs.txt:23149
 msgid "Minimum Initial "
@@ -66349,7 +66373,7 @@ msgstr "Punti di partenza del fiume desiderati (dopo l'erosione)"
 
 #: stringdump_steam_0_50_06_sorted_by_xrefs.txt:23156
 msgid "Periodically Erode Extreme Cliffs"
-msgstr ""
+msgstr "Erodi periodicamente Scogliere Estreme"
 
 #: stringdump_steam_0_50_06_sorted_by_xrefs.txt:23157
 msgid "Do Orographic Precipitation and Rain Shadows"
@@ -68652,7 +68676,7 @@ msgstr ""
 
 #: stringdump_steam_0_50_06_sorted_by_xrefs.txt:23954
 msgid "believes that little is better in life than a good party"
-msgstr ""
+msgstr "crede che ci sia poco i meglio nella vita rispetto a una bella festa"
 
 #: stringdump_steam_0_50_06_sorted_by_xrefs.txt:23955
 msgid "truly values merrymaking and parties"
@@ -68838,6 +68862,8 @@ msgstr "trova che il sacrificio sia uno degli ideali più elevati"
 msgid ""
 "believes that those who sacrifice for others should be deeply respected"
 msgstr ""
+"ritiene che coloro che si sacrificano per gli altri debbano essere "
+"profondamente rispettati"
 
 #: stringdump_steam_0_50_06_sorted_by_xrefs.txt:23995
 msgid "values sacrifice"
@@ -68955,17 +68981,19 @@ msgstr "non pensa né in un modo né nell'altro del tempo libero"
 
 #: stringdump_steam_0_50_06_sorted_by_xrefs.txt:24018
 msgid "finds leisure time wasteful"
-msgstr ""
+msgstr "trova il tempo libero uno spreco"
 
 #: stringdump_steam_0_50_06_sorted_by_xrefs.txt:24019
 msgid ""
 "believes that those that take leisure time are evil and finds the whole idea"
 " disgusting"
 msgstr ""
+"crede che coloro che si prendono del tempo libero siano malvagi e trova "
+"l'intera idea disgustosa"
 
 #: stringdump_steam_0_50_06_sorted_by_xrefs.txt:24020
 msgid "sees engaging in commerce as a high ideal in life"
-msgstr ""
+msgstr "vede impegnarsi nel commercio come un alto ideale nella vita"
 
 #: stringdump_steam_0_50_06_sorted_by_xrefs.txt:24021
 msgid "really respects commerce and those that engage in trade"
@@ -68977,7 +69005,7 @@ msgstr "rispetta il commercio"
 
 #: stringdump_steam_0_50_06_sorted_by_xrefs.txt:24023
 msgid "doesn't particularly respect commerce"
-msgstr ""
+msgstr "non rispetta particolarmente il commercio"
 
 #: stringdump_steam_0_50_06_sorted_by_xrefs.txt:24024
 msgid "is somewhat put off by trade and commerce"
@@ -69007,11 +69035,11 @@ msgstr "apprezza il romanticismo"
 
 #: stringdump_steam_0_50_06_sorted_by_xrefs.txt:24030
 msgid "doesn't care one way or the other about romance"
-msgstr ""
+msgstr "non gli importa, in un modo o nell'altro, del romanticismo"
 
 #: stringdump_steam_0_50_06_sorted_by_xrefs.txt:24031
 msgid "finds romance distasteful"
-msgstr ""
+msgstr "trova il romanticismo sgradevole"
 
 #: stringdump_steam_0_50_06_sorted_by_xrefs.txt:24032
 msgid "is somewhat disgusted by romance"
@@ -69030,6 +69058,7 @@ msgstr ""
 #: stringdump_steam_0_50_06_sorted_by_xrefs.txt:24035
 msgid "has a deep respect for animals, plants and the natural world"
 msgstr ""
+"ha un profondo rispetto per gli animali, le piante e il mondo naturale"
 
 #: stringdump_steam_0_50_06_sorted_by_xrefs.txt:24036
 msgid "values nature"
@@ -69059,7 +69088,7 @@ msgstr ""
 
 #: stringdump_steam_0_50_06_sorted_by_xrefs.txt:24041
 msgid "believes that peace is always preferable to war"
-msgstr ""
+msgstr "crede che la pace sia sempre preferibile alla guerra"
 
 #: stringdump_steam_0_50_06_sorted_by_xrefs.txt:24042
 msgid "values peace over war"
@@ -69067,15 +69096,15 @@ msgstr "apprezza la pace rispetto alla guerra"
 
 #: stringdump_steam_0_50_06_sorted_by_xrefs.txt:24043
 msgid "doesn't particularly care between war and peace"
-msgstr ""
+msgstr "non si preoccupa particolarmente di guerra e pace"
 
 #: stringdump_steam_0_50_06_sorted_by_xrefs.txt:24044
 msgid "sees war as a useful means to an end"
-msgstr ""
+msgstr "vede la guerra come un mezzo utile per un fine"
 
 #: stringdump_steam_0_50_06_sorted_by_xrefs.txt:24045
 msgid "believes war is preferable to peace in general"
-msgstr ""
+msgstr "ritiene che la guerra sia, in generale, preferibile alla pace"
 
 #: stringdump_steam_0_50_06_sorted_by_xrefs.txt:24046
 msgid "thinks that the world should be engaged in perpetual warfare"
@@ -69083,7 +69112,7 @@ msgstr "pensa che il mondo debba essere impegnato in una guerra perpetua"
 
 #: stringdump_steam_0_50_06_sorted_by_xrefs.txt:24047
 msgid "a turn-around after "
-msgstr ""
+msgstr "una svolta dopo "
 
 #: stringdump_steam_0_50_06_sorted_by_xrefs.txt:24048
 msgid "a strengthening after "
@@ -69091,11 +69120,11 @@ msgstr "un rafforzamento dopo "
 
 #: stringdump_steam_0_50_06_sorted_by_xrefs.txt:24049
 msgid "less extreme after "
-msgstr ""
+msgstr "meno estremo dopo "
 
 #: stringdump_steam_0_50_06_sorted_by_xrefs.txt:24050
 msgid "due to "
-msgstr ""
+msgstr "a causa di"
 
 #: stringdump_steam_0_50_06_sorted_by_xrefs.txt:24051
 msgid "dreams of raising a family"
@@ -69123,23 +69152,23 @@ msgstr "sogna di diventare un guerriero leggendario"
 
 #: stringdump_steam_0_50_06_sorted_by_xrefs.txt:24057
 msgid "dreams of mastering a skill"
-msgstr ""
+msgstr "sogna di padroneggiare un'abilità"
 
 #: stringdump_steam_0_50_06_sorted_by_xrefs.txt:24058
 msgid "dreams of falling in love"
-msgstr ""
+msgstr "sogna di innamorarsi"
 
 #: stringdump_steam_0_50_06_sorted_by_xrefs.txt:24059
 msgid "dreams of seeing the great natural places of the world"
-msgstr ""
+msgstr "sogna di vedere i grandi luoghi naturali del mondo"
 
 #: stringdump_steam_0_50_06_sorted_by_xrefs.txt:24060
 msgid "dreams of making a great discovery"
-msgstr ""
+msgstr "sogna di fare una grande scoperta"
 
 #: stringdump_steam_0_50_06_sorted_by_xrefs.txt:24061
 msgid "dreams of attaining rank in society"
-msgstr ""
+msgstr "sogna di raggiungere un rango nella società"
 
 #: stringdump_steam_0_50_06_sorted_by_xrefs.txt:24062
 msgid "dreams of bathing the world in chaos"
@@ -69147,11 +69176,12 @@ msgstr "sogna di sommergere il mondo nel caos"
 
 #: stringdump_steam_0_50_06_sorted_by_xrefs.txt:24063
 msgid ", and this dream was realized"
-msgstr ""
+msgstr ", e questo sogno è stato realizzato"
 
 #: stringdump_steam_0_50_06_sorted_by_xrefs.txt:24064
 msgid "is always in love with somebody and easily develops positive feelings"
 msgstr ""
+"è sempre innamorato di qualcuno e sviluppa facilmente sentimenti positivi"
 
 #: stringdump_steam_0_50_06_sorted_by_xrefs.txt:24065
 msgid "very easily falls into love and develops positive feelings"
@@ -69159,11 +69189,11 @@ msgstr "si innamora molto facilmente e sviluppa sentimenti positivi"
 
 #: stringdump_steam_0_50_06_sorted_by_xrefs.txt:24066
 msgid "can easily fall in love or develop positive sentiments"
-msgstr ""
+msgstr "può facilmente innamorarsi o sviluppare sentimenti positivi"
 
 #: stringdump_steam_0_50_06_sorted_by_xrefs.txt:24067
 msgid "does not easily fall in love and rarely develops positive sentiments"
-msgstr ""
+msgstr "non si innamora facilmente e raramente sviluppa sentimenti positivi"
 
 #: stringdump_steam_0_50_06_sorted_by_xrefs.txt:24068
 msgid "never falls in love or develops positive feelings toward anything"
@@ -69185,7 +69215,7 @@ msgstr "è veloce ad avere opinioni negative sulle cose"
 
 #: stringdump_steam_0_50_06_sorted_by_xrefs.txt:24072
 msgid "does not easily hate or develop negative feelings"
-msgstr ""
+msgstr "non odia facilmente né sviluppa sentimenti negativi"
 
 #: stringdump_steam_0_50_06_sorted_by_xrefs.txt:24073
 msgid "very rarely develops negative feelings toward things"
@@ -69229,7 +69259,7 @@ msgstr "è spesso felice"
 
 #: stringdump_steam_0_50_06_sorted_by_xrefs.txt:24083
 msgid "is rarely happy or enthusiastic"
-msgstr ""
+msgstr "è raramente felice o entusiasta"
 
 #: stringdump_steam_0_50_06_sorted_by_xrefs.txt:24084
 msgid "is dour as a rule"
@@ -69381,7 +69411,7 @@ msgstr ""
 
 #: stringdump_steam_0_50_06_sorted_by_xrefs.txt:24121
 msgid " in the way of possessions"
-msgstr ""
+msgstr " in termini di possesso"
 
 #: stringdump_steam_0_50_06_sorted_by_xrefs.txt:24122
 msgid "often neglects "
@@ -69895,7 +69925,7 @@ msgstr "presenta "
 
 #: stringdump_steam_0_50_06_sorted_by_xrefs.txt:24228
 msgid " modestly and frowns on any flashy accoutrements"
-msgstr ""
+msgstr " modestamente e biasima qualsiasi equipaggiamento vistoso"
 
 #: stringdump_steam_0_50_06_sorted_by_xrefs.txt:24229
 msgid ""
@@ -69919,7 +69949,7 @@ msgstr "trova l'umorismo nella maggior parte delle situazioni"
 
 #: stringdump_steam_0_50_06_sorted_by_xrefs.txt:24232
 msgid "has an active sense of humor"
-msgstr ""
+msgstr "ha un senso dell'umorismo attivo"
 
 #: stringdump_steam_0_50_06_sorted_by_xrefs.txt:24233
 msgid "has little interest in joking around"
@@ -69947,7 +69977,7 @@ msgstr "tende ad aggrapparsi alle lamentele"
 
 #: stringdump_steam_0_50_06_sorted_by_xrefs.txt:24239
 msgid "doesn't tend to hold on to grievances"
-msgstr ""
+msgstr "non tende a trattenere le lamentele"
 
 #: stringdump_steam_0_50_06_sorted_by_xrefs.txt:24240
 msgid "does not generally seek retribution for past wrongs"
@@ -73060,8 +73090,8 @@ msgid ""
 "And a true ruler requires seven symbols, symbols not of this world. Mere "
 "steel will not suffice. "
 msgstr ""
-"Un vero sovrano ha bisogno di sette simboli, simboli che non appartengono a "
-"questo mondo. Il semplice acciaio non è sufficiente."
+"Un vero sovrano necessita di sette simboli, simboli non appartenenti a "
+"questo mondo. Il mero acciaio non sarà sufficiente."
 
 #: stringdump_steam_0_50_06_sorted_by_xrefs.txt:24985
 msgid ""
@@ -83828,7 +83858,7 @@ msgstr "la Carrucola"
 
 #: stringdump_steam_0_50_06_sorted_by_xrefs.txt:29335
 msgid "the Wheel-and-Axles"
-msgstr "la Ruota-e-Asse"
+msgstr "la Ruota-e-Assi"
 
 #: stringdump_steam_0_50_06_sorted_by_xrefs.txt:29336
 msgid "Screws"
