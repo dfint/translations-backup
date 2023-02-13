@@ -16,6 +16,6 @@ updates:
       interval: "monthly"
 
   - package-ecosystem: "pip"
-    directory: "/automation/metadata"
+    directory: "/automation/progress"
     schedule:
-      interval: "progress"
+      interval: "monthly"
