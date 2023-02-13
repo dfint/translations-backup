@@ -26,7 +26,7 @@ jobs:
         ./tx pull -f -a
 
     - name: Push changes to the repository
-      uses: EndBug/add-and-commit@v7.0.0
+      uses: EndBug/add-and-commit@v9.1.1
       with:
         author_name: github-actions[bot]
         author_email: 41898282+github-actions[bot]@users.noreply.github.com
