@@ -565,12 +565,12 @@ msgstr "[BP:LLL:gamba superiore sinistra:STP]"
 #: body_default.txt:263
 msgctxt "BODY:HUMANOID_NECK_HOOF"
 msgid "[BP:RF:right hoof:right hooves]"
-msgstr ""
+msgstr "[BP:RF:zoccolo destro:zoccoli destri]"
 
 #: body_default.txt:265
 msgctxt "BODY:HUMANOID_NECK_HOOF"
 msgid "[BP:LF:left hoof:left hooves]"
-msgstr ""
+msgstr "[BP:LF:zoccolo sinistro:zoccoli sinistri]"
 
 #: body_default.txt:269
 msgctxt "BODY:HUMANOID_LEGLESS_NECK"
@@ -1900,12 +1900,12 @@ msgstr ""
 #: body_default.txt:835
 msgctxt "BODY:QUADRUPED_NECK_HOOF"
 msgid "[BP:RH:right front hoof:right front hooves]"
-msgstr ""
+msgstr "[BP:RH:zoccolo anteriore destro:zoccoli anteriori destri]"
 
 #: body_default.txt:837
 msgctxt "BODY:QUADRUPED_NECK_HOOF"
 msgid "[BP:LH:left front hoof:left front hooves]"
-msgstr ""
+msgstr "[BP:LH:zoccolo anteriore sinistro:zoccoli anteriori sinistri]"
 
 #: body_default.txt:839
 msgctxt "BODY:QUADRUPED_NECK_HOOF"
@@ -1920,12 +1920,12 @@ msgstr ""
 #: body_default.txt:843
 msgctxt "BODY:QUADRUPED_NECK_HOOF"
 msgid "[BP:RF:right rear hoof:right rear hooves]"
-msgstr ""
+msgstr "[BP:RF:zoccolo posteriore destro:zoccoli posteriori destri]"
 
 #: body_default.txt:845
 msgctxt "BODY:QUADRUPED_NECK_HOOF"
 msgid "[BP:LF:left rear hoof:left rear hooves]"
-msgstr ""
+msgstr "[BP:LF:zoccolo posteriore sinistro:zoccoli posteriori sinistri]"
 
 #: body_default.txt:849
 msgctxt "BODY:INSECT"
@@ -2525,7 +2525,7 @@ msgstr ""
 #: body_default.txt:1121
 msgctxt "BODY:UPPERBODY_PINCERS"
 msgid "[BODYGLOSS:HOOF:foot:hoof:feet:hooves]"
-msgstr ""
+msgstr "[BODYGLOSS:HOOF:piede:zoccolo:piedi:zoccoli]"
 
 #: body_default.txt:1123
 msgctxt "BODY:UPPERBODY_PINCERS"
@@ -2540,7 +2540,7 @@ msgstr ""
 #: body_default.txt:1127
 msgctxt "BODY:UPPERBODY_PINCERS"
 msgid "[BODYGLOSS:LEG_STUMP:leg:stump:legs:stumps]"
-msgstr ""
+msgstr "[BODYGLOSS:LEG_STUMP:gamba:moncherino:gambe:moncherini]"
 
 #: body_default.txt:1129
 msgctxt "BODY:UPPERBODY_PINCERS"
@@ -4985,7 +4985,7 @@ msgstr ""
 #: body_rcp.txt:604
 msgctxt "BODY:RCP_3_EYELIDS"
 msgid "[BODYGLOSS:RCP_GLOSS_HOOF:foot:hoof:feet:hooves]"
-msgstr ""
+msgstr "[BODYGLOSS:RCP_GLOSS_HOOF:piede:zoccolo:piedi:zoccoli]"
 
 #: body_rcp.txt:606
 msgctxt "BODY:RCP_3_EYELIDS"
@@ -6812,6 +6812,8 @@ msgstr ""
 msgctxt "CREATURE:BIRD_OSTRICH_GIANT"
 msgid "[DESCRIPTION:A huge bird monster with extremely long legs and neck.]"
 msgstr ""
+"[DESCRIPTION:Un enorme mostro uccello con gambe e collo estremamente "
+"lunghi.]"
 
 #: creature_birds.txt:1660
 msgctxt "CREATURE:BIRD_OSTRICH_GIANT"
@@ -7453,6 +7455,8 @@ msgid ""
 "[DESCRIPTION:A small bird with long legs and bill, and a extremely long "
 "wingspan.]"
 msgstr ""
+"[DESCRIPTION:Un piccolo uccello con gambe e becco lunghi e un'apertura alare"
+" estremamente lunga.]"
 
 #: creature_birds_new.txt:999
 msgctxt "CREATURE:BIRD_STORK_WHITE"
@@ -7477,7 +7481,7 @@ msgstr "[PREFSTRING:colli lunghi]"
 #: creature_birds_new.txt:1020
 msgctxt "CREATURE:BIRD_STORK_WHITE"
 msgid "[PREFSTRING:long legs]"
-msgstr ""
+msgstr "[PREFSTRING:gambe lunghe]"
 
 #: creature_birds_new.txt:1021
 msgctxt "CREATURE:BIRD_STORK_WHITE"
@@ -7558,7 +7562,7 @@ msgstr "[PREFSTRING:colli lunghi]"
 #: creature_birds_new.txt:1134
 msgctxt "CREATURE:GIANT_WHITE_STORK"
 msgid "[PREFSTRING:long legs]"
-msgstr ""
+msgstr "[PREFSTRING:gambe lunghe]"
 
 #: creature_birds_new.txt:1135
 msgctxt "CREATURE:GIANT_WHITE_STORK"
@@ -9948,7 +9952,7 @@ msgstr ""
 #: creature_bug_slug_new.txt:291
 msgctxt "CREATURE:GRASSHOPPER_MAN"
 msgid "[DESCRIPTION:A person with the head and legs of a grasshopper.]"
-msgstr ""
+msgstr "[DESCRIPTION:Una persona con la testa e le gambe di una cavalletta.]"
 
 #: creature_bug_slug_new.txt:307
 msgctxt "CREATURE:GIANT_GRASSHOPPER"
@@ -10250,7 +10254,7 @@ msgstr ""
 #: creature_bug_slug_new.txt:675
 msgctxt "CREATURE:TICK_MAN"
 msgid "[DESCRIPTION:A person with the head and legs of a tick.]"
-msgstr ""
+msgstr "[DESCRIPTION:Una persona con la testa e le gambe di una zecca.]"
 
 #: creature_bug_slug_new.txt:691
 msgctxt "CREATURE:GIANT_TICK"
@@ -10320,7 +10324,7 @@ msgstr ""
 #: creature_bug_slug_new.txt:782
 msgctxt "CREATURE:LOUSE_MAN"
 msgid "[DESCRIPTION:A person with the head and legs of a louse.]"
-msgstr ""
+msgstr "[DESCRIPTION:Una persona con la testa e le gambe di un pidocchio.]"
 
 #: creature_bug_slug_new.txt:798
 msgctxt "CREATURE:GIANT_LOUSE"
@@ -12505,6 +12509,8 @@ msgid ""
 "[DESCRIPTION:A small water bird.  It has a long neck and powerful legs meant"
 " for swimming and diving.]"
 msgstr ""
+"[DESCRIPTION:Un piccolo uccello acquatico.  Ha un collo lungo e gambe "
+"potenti pensate per nuotare e tuffarsi.]"
 
 #: creature_domestic.txt:1312
 msgctxt "CREATURE:BIRD_DUCK"
@@ -13545,6 +13551,9 @@ msgid ""
 "which it uses to swiftly avoid predators.  It can be found anywhere from "
 "forests to deserts.]"
 msgstr ""
+"[DESCRIPTION:Un piccolo lagomorfo con lunghe orecchie.  Ha potenti zampe "
+"posteriori che usa per evitare rapidamente i predatori.  Può essere trovato "
+"ovunque, dalle foreste ai deserti.]"
 
 #: creature_domestic.txt:2451
 msgctxt "CREATURE:RABBIT"
@@ -18305,7 +18314,7 @@ msgstr ""
 #: creature_large_temperate.txt:1798
 msgctxt "CREATURE:PANDA"
 msgid "[TLCM_NOUN:legs:PLURAL]"
-msgstr ""
+msgstr "[TLCM_NOUN:gambe:PLURAL]"
 
 #: creature_large_temperate.txt:1801
 msgctxt "CREATURE:PANDA"
@@ -18372,12 +18381,12 @@ msgstr ""
 #: creature_large_temperate.txt:1849
 msgctxt "CREATURE:PANDA MAN"
 msgid "[CVCT_TARGET:legs]"
-msgstr ""
+msgstr "[CVCT_TARGET:gambe]"
 
 #: creature_large_temperate.txt:1850
 msgctxt "CREATURE:PANDA MAN"
 msgid "[CVCT_REPLACEMENT:arms and legs]"
-msgstr ""
+msgstr "[CVCT_REPLACEMENT:braccia e gambe]"
 
 #: creature_large_temperate.txt:1868
 msgctxt "CREATURE:PANDA MAN"
@@ -24045,6 +24054,8 @@ msgid ""
 "[DESCRIPTION:A tiny shelled ocean creature with many long legs.  It has two "
 "large pincers on its front limbs.]"
 msgstr ""
+"[DESCRIPTION:Una piccola creatura oceanica, con guscio, con molte gambe "
+"lunghe.  Ha due grandi chele sugli arti anteriori.]"
 
 #: creature_ocean_new.txt:170
 msgctxt "CREATURE:CRAB"
@@ -24494,7 +24505,7 @@ msgstr ""
 #: creature_ocean_new.txt:760
 msgctxt "CREATURE:SPONGE_MAN"
 msgid "[DESCRIPTION:A person in the form of a sponge with arms and legs.]"
-msgstr ""
+msgstr "[DESCRIPTION:Una persona a forma di spugna con braccia e gambe.]"
 
 #: creature_ocean_new.txt:776
 msgctxt "CREATURE:GIANT_SPONGE"
@@ -24522,6 +24533,8 @@ msgid ""
 "[DESCRIPTION:A tiny sea animal that lives in the sand just offshore.  It has"
 " a flat body with legs underneath.]"
 msgstr ""
+"[DESCRIPTION:Un piccolo animale marino che vive nella sabbia appena al "
+"largo.  Ha un corpo piatto munito di gambe nascoste sotto.]"
 
 #: creature_ocean_new.txt:794
 msgctxt "CREATURE:HORSESHOE_CRAB"
@@ -25230,6 +25243,8 @@ msgid ""
 "[DESCRIPTION:A tiny reptile, running on two legs.  It has a horn on the end "
 "of its nose.]"
 msgstr ""
+"[DESCRIPTION:Un piccolo rettile, che corre su due zampe.  Ha un corno "
+"all'estremità del naso.]"
 
 #: creature_other.txt:316
 msgctxt "CREATURE:LIZARD_RHINO_TWO_LEGGED"
@@ -26834,6 +26849,9 @@ msgid ""
 "[DESCRIPTION:A tiny grey rodent that is only active at night.  It can sail "
 "between trees on wings stretching between its front and hind legs.]"
 msgstr ""
+"[DESCRIPTION:Un piccolo roditore grigio, attivo solo di notte.  Può navigare"
+" tra gli alberi grazie ad ali che si estendono tra le zampe anteriori e "
+"posteriori.]"
 
 #: creature_small_mammal_new.txt:303
 msgctxt "CREATURE:SQUIRREL_FLYING"
@@ -30000,12 +30018,12 @@ msgstr ""
 #: creature_standard.txt:2090
 msgctxt "CREATURE:UNICORN"
 msgid "[NAME:unicorn:unicorns:unicorn]"
-msgstr ""
+msgstr "[NAME:unicorno:unicorni:unicorno]"
 
 #: creature_standard.txt:2091
 msgctxt "CREATURE:UNICORN"
 msgid "[CASTE_NAME:unicorn:unicorns:unicorn]"
-msgstr ""
+msgstr "[CASTE_NAME:unicorno:unicorni:unicorno]"
 
 #: creature_standard.txt:2095
 msgctxt "CREATURE:UNICORN"
@@ -30030,7 +30048,7 @@ msgstr "[ATTACK_VERB:morso:morde]"
 #: creature_standard.txt:2178
 msgctxt "CREATURE:UNICORN"
 msgid "[GENERAL_CHILD_NAME:unicorn foal:unicorn foals]"
-msgstr ""
+msgstr "[GENERAL_CHILD_NAME:puledro di unicorno:puledri di unicorno]"
 
 #: creature_standard.txt:2187
 msgctxt "CREATURE:UNICORN"
@@ -30098,7 +30116,7 @@ msgstr "[TLCM_NOUN:occhi:PLURAL]"
 msgctxt "CREATURE:SATYR"
 msgid ""
 "[DESCRIPTION:A medium-sized humanoid with the horns and legs of a goat.]"
-msgstr ""
+msgstr "[DESCRIPTION:Un umanoide di taglia media con corna e zampe caprine.]"
 
 #: creature_standard.txt:2339
 msgctxt "CREATURE:SATYR"
@@ -30113,7 +30131,7 @@ msgstr ""
 #: creature_standard.txt:2354
 msgctxt "CREATURE:SATYR"
 msgid "[PREFSTRING:woolly legs]"
-msgstr ""
+msgstr "[PREFSTRING:gambe lanose]"
 
 #: creature_standard.txt:2399
 msgctxt "CREATURE:SATYR"
@@ -31201,6 +31219,9 @@ msgid ""
 "[DESCRIPTION:A creature from the evil swamp.  It resembles a squat, wingless"
 " bird with powerful beak and legs.  Its blotchy skin is brightly colored.]"
 msgstr ""
+"[DESCRIPTION:Una creatura della palude malvagia.  Assomiglia a un uccello "
+"tozzo e senza ali con becco e zampe possenti.  Il suo manto è macchiato di "
+"colori vivaci.]"
 
 #: creature_standard.txt:4404
 msgctxt "CREATURE:BEAK_DOG"
@@ -31295,6 +31316,8 @@ msgid ""
 "[DESCRIPTION:A man-shaped creature with the legs of a goat and the empty-"
 "eyed skull of a goat.]"
 msgstr ""
+"[DESCRIPTION:Una creatura a forma d'uomo con gambe caprine e il teschio di "
+"una capra con orbite vuote.]"
 
 #: creature_standard.txt:4574
 msgctxt "CREATURE:BLENDEC_FOUL"
@@ -31314,7 +31337,7 @@ msgstr ""
 #: creature_standard.txt:4590
 msgctxt "CREATURE:BLENDEC_FOUL"
 msgid "[PREFSTRING:goat legs]"
-msgstr ""
+msgstr "[PREFSTRING:zampe caprine]"
 
 #: creature_standard.txt:4591
 msgctxt "CREATURE:BLENDEC_FOUL"
@@ -31645,6 +31668,8 @@ msgctxt "CREATURE:MERPERSON"
 msgid ""
 "[DESCRIPTION:A man-like creature with the tail of a fish instead of legs.]"
 msgstr ""
+"[DESCRIPTION:Una creatura simile a un uomo con la coda di un pesce al posto "
+"delle gambe.]"
 
 #: creature_standard.txt:5159
 msgctxt "CREATURE:MERPERSON"
@@ -32439,6 +32464,8 @@ msgid ""
 "[DESCRIPTION:A large underground monster with eight legs and sharp, venomous"
 " fangs.]"
 msgstr ""
+"[DESCRIPTION:Un grande mostro sotterraneo con otto zampe e zanne affilate e "
+"velenose.]"
 
 #: creature_subterranean.txt:1001
 msgctxt "CREATURE:SPIDER_CAVE_GIANT"
@@ -33972,7 +33999,7 @@ msgstr ""
 #: creature_temperate_new.txt:489
 msgctxt "CREATURE:KANGAROO_MAN"
 msgid "[DESCRIPTION:A person with the head and powerful legs of a kangaroo.]"
-msgstr ""
+msgstr "[DESCRIPTION:Una persona con la testa e possenti gambe di canguro.]"
 
 #: creature_temperate_new.txt:500
 msgctxt "CREATURE:GIANT_KANGAROO"
@@ -34936,6 +34963,8 @@ msgid ""
 "[DESCRIPTION:A swift, long-eared rodent with long legs and a short fluffy "
 "tail.]"
 msgstr ""
+"[DESCRIPTION:Un veloce roditore dalle orecchie lunghe con gambe lunghe e una"
+" coda corta e soffice.]"
 
 #: creature_temperate_new.txt:1941
 msgctxt "CREATURE:HARE"
@@ -35205,7 +35234,7 @@ msgstr ""
 #: creature_temperate_new.txt:2300
 msgctxt "CREATURE:WEASEL"
 msgid "[PREFSTRING:short legs]"
-msgstr ""
+msgstr "[PREFSTRING:gambe corte]"
 
 #: creature_temperate_new.txt:2338
 msgctxt "CREATURE:WEASEL"
@@ -35280,7 +35309,7 @@ msgstr ""
 #: creature_temperate_new.txt:2427
 msgctxt "CREATURE:GIANT_WEASEL"
 msgid "[PREFSTRING:short legs]"
-msgstr ""
+msgstr "[PREFSTRING:gambe corte]"
 
 #: creature_temperate_new.txt:2437
 msgctxt "CREATURE:COPPERHEAD_SNAKE"
@@ -35905,6 +35934,8 @@ msgid ""
 "[DESCRIPTION:A very small mammal with short legs and a long tail.  It hunts "
 "small animals to eat.]"
 msgstr ""
+"[DESCRIPTION:Un mammifero molto piccolo con zampe corte e coda lunga.  "
+"Caccia e si nutre di piccoli animali.]"
 
 #: creature_tropical_new.txt:13
 msgctxt "CREATURE:MONGOOSE"
@@ -36795,6 +36826,8 @@ msgid ""
 "[DESCRIPTION:A small animal found in the canopy of the jungle.  They have "
 "extremely long arms and legs.]"
 msgstr ""
+"[DESCRIPTION:Un piccolo animale trovato nel fitto della giungla.  Hanno "
+"braccia e gambe estremamente lunghe.]"
 
 #: creature_tropical_new.txt:1406
 msgctxt "CREATURE:SPIDER_MONKEY"

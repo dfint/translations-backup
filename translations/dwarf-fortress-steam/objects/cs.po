@@ -5247,7 +5247,7 @@ msgstr "[CV_NEW_TAG:CDI:ADV_NAME:Domácí zvíře]"
 #: c_variation_default.txt:357
 msgctxt "CREATURE_VARIATION:ANIMAL_PERSON_LEGLESS"
 msgid "[CV_NEW_TAG:CDI:VERB:pet:pets:pets]"
-msgstr ""
+msgstr "[CV_NEW_TAG:CDI:VERB:mazlíček:mazlíčci:domácí zvíře]"
 
 #: c_variation_default.txt:367
 msgctxt "CREATURE_VARIATION:PUNCH_ATTACK"
@@ -55032,18 +55032,20 @@ msgstr ""
 #: reaction_other.txt:450
 msgctxt "REACTION:CARVE_BONE_FIGURINE"
 msgid "[CATEGORY_NAME:Carve bone]"
-msgstr ""
+msgstr "[CATEGORY_NAME:kostěnné naušnice]"
 
 #: reaction_other.txt:451
 msgctxt "REACTION:CARVE_BONE_FIGURINE"
 msgid ""
 "[CATEGORY_DESCRIPTION:Make crafts from bone using a sharp weapon or tool.]"
 msgstr ""
+"[CATEGORY_DESCRIPTION:Vyrobte produkty z kosti pomocí ostré zbraně nebo "
+"nástroje.]"
 
 #: reaction_other.txt:454
 msgctxt "REACTION:CARVE_BONE_RING"
 msgid "[NAME:carve bone ring]"
-msgstr ""
+msgstr "[NAME:vyřezat prsten z kosti"
 
 #: reaction_other.txt:456
 msgctxt "REACTION:CARVE_BONE_RING"
@@ -55063,12 +55065,12 @@ msgstr "[PRODUCT:100:1:RING:NONE:GET_MATERIAL_FROM_REAGENT:kost:]"
 #: reaction_other.txt:461
 msgctxt "REACTION:CARVE_BONE_RING"
 msgid "[PRODUCT_TOKEN:ring]"
-msgstr ""
+msgstr "[PRODUCT_TOKEN:prsten]"
 
 #: reaction_other.txt:466
 msgctxt "REACTION:CARVE_BONE_EARRING"
 msgid "[NAME:carve bone earring]"
-msgstr ""
+msgstr "[NAME:vyřezat naušnice z kosti]"
 
 #: reaction_other.txt:468
 msgctxt "REACTION:CARVE_BONE_EARRING"
@@ -55088,12 +55090,12 @@ msgstr "[PRODUCT:100:1:EARRING:NONE:GET_MATERIAL_FROM_REAGENT:kost:]"
 #: reaction_other.txt:473
 msgctxt "REACTION:CARVE_BONE_EARRING"
 msgid "[PRODUCT_TOKEN:earring]"
-msgstr ""
+msgstr "[PRODUCT_TOKEN:naušnice]"
 
 #: reaction_other.txt:478
 msgctxt "REACTION:CARVE_BONE_SCEPTER"
 msgid "[NAME:carve bone scepter]"
-msgstr ""
+msgstr "[NAME:vyřezat kostěnné žezlo]"
 
 #: reaction_other.txt:480
 msgctxt "REACTION:CARVE_BONE_SCEPTER"
@@ -55113,12 +55115,12 @@ msgstr "[PRODUCT:100:1:SCEPTER:NONE:GET_MATERIAL_FROM_REAGENT:kost:]"
 #: reaction_other.txt:485
 msgctxt "REACTION:CARVE_BONE_SCEPTER"
 msgid "[PRODUCT_TOKEN:scepter]"
-msgstr ""
+msgstr "[PRODUCT_TOKEN:žezlo]"
 
 #: reaction_other.txt:490
 msgctxt "REACTION:CARVE_BONE_AMULET"
 msgid "[NAME:carve bone amulet]"
-msgstr ""
+msgstr "[NAME:vyřezat kostěnný amulet]"
 
 #: reaction_other.txt:492
 msgctxt "REACTION:CARVE_BONE_AMULET"
@@ -55138,12 +55140,12 @@ msgstr "[PRODUCT:100:1:AMULET:NONE:GET_MATERIAL_FROM_REAGENT:kost:]"
 #: reaction_other.txt:497
 msgctxt "REACTION:CARVE_BONE_AMULET"
 msgid "[PRODUCT_TOKEN:amulet]"
-msgstr ""
+msgstr "[PRODUCT_TOKEN:amulet]"
 
 #: reaction_other.txt:502
 msgctxt "REACTION:CARVE_BONE_BRACELET"
 msgid "[NAME:carve bone bracelet]"
-msgstr ""
+msgstr "[NAME:vyřezat kostěnný náramek]"
 
 #: reaction_other.txt:504
 msgctxt "REACTION:CARVE_BONE_BRACELET"
@@ -55158,17 +55160,17 @@ msgstr "[REAGENT:nástroj:]"
 #: reaction_other.txt:508
 msgctxt "REACTION:CARVE_BONE_BRACELET"
 msgid "[PRODUCT:100:1:BRACELET:NONE:GET_MATERIAL_FROM_REAGENT:bone:]"
-msgstr ""
+msgstr "[PRODUCT:100:1:BRACELET:NONE:GET_MATERIAL_FROM_REAGENT:kost:]"
 
 #: reaction_other.txt:509
 msgctxt "REACTION:CARVE_BONE_BRACELET"
 msgid "[PRODUCT_TOKEN:bracelet]"
-msgstr ""
+msgstr "[PRODUCT_TOKEN:náramek]"
 
 #: reaction_other.txt:514
 msgctxt "REACTION:CARVE_BONE_CROWN"
 msgid "[NAME:carve bone crown]"
-msgstr ""
+msgstr "[NAME:vyřezat korunu z kosti]"
 
 #: reaction_other.txt:516
 msgctxt "REACTION:CARVE_BONE_CROWN"
@@ -55188,12 +55190,12 @@ msgstr "[PRODUCT:100:1:CROWN:NONE:GET_MATERIAL_FROM_REAGENT:kost:]"
 #: reaction_other.txt:521
 msgctxt "REACTION:CARVE_BONE_CROWN"
 msgid "[PRODUCT_TOKEN:crown]"
-msgstr ""
+msgstr "[PRODUCT_TOKEN:koruna]"
 
 #: reaction_other.txt:526
 msgctxt "REACTION:CARVE_BONE_GEM"
 msgid "[NAME:carve bone cabochon]"
-msgstr ""
+msgstr "[NAME:vybrousit kostěný kabošon]"
 
 #: reaction_other.txt:528
 msgctxt "REACTION:CARVE_BONE_GEM"
@@ -55213,17 +55215,17 @@ msgstr "[PRODUCT:100:1:GEM:NONE:GET_MATERIAL_FROM_REAGENT:kost:]"
 #: reaction_other.txt:533
 msgctxt "REACTION:CARVE_BONE_GEM"
 msgid "[PRODUCT_TOKEN:gem]"
-msgstr ""
+msgstr "[PRODUCT_TOKEN:klenot]"
 
 #: reaction_other.txt:538
 msgctxt "REACTION:CARVE_WOODEN_HELVE"
 msgid "[NAME:carve wooden helve from branch]"
-msgstr ""
+msgstr "[NAME:vyřezat dřevené topůrko z větve]"
 
 #: reaction_other.txt:540
 msgctxt "REACTION:CARVE_WOODEN_HELVE"
 msgid "[REAGENT:branch:]"
-msgstr ""
+msgstr "[REAGENT:větev:]"
 
 #: reaction_other.txt:542
 msgctxt "REACTION:CARVE_WOODEN_HELVE"
@@ -55233,22 +55235,22 @@ msgstr "[REAGENT:nástroj:]"
 #: reaction_other.txt:544
 msgctxt "REACTION:CARVE_WOODEN_HELVE"
 msgid "[PRODUCT:100:1:TOOL:ITEM_TOOL_HELVE:GET_MATERIAL_FROM_REAGENT:branch:]"
-msgstr ""
+msgstr "[PRODUCT:100:1:TOOL:ITEM_TOOL_HELVE:GET_MATERIAL_FROM_REAGENT:větev:]"
 
 #: reaction_other.txt:545
 msgctxt "REACTION:CARVE_WOODEN_HELVE"
 msgid "[PRODUCT_TOKEN:helve]"
-msgstr ""
+msgstr "[PRODUCT_TOKEN:násada]"
 
 #: reaction_other.txt:549
 msgctxt "REACTION:ASSEMBLE STONE AXE"
 msgid "[NAME:assemble stone axe]"
-msgstr ""
+msgstr "[NAME:sestavit kamennou sekeru]"
 
 #: reaction_other.txt:551
 msgctxt "REACTION:ASSEMBLE STONE AXE"
 msgid "[REAGENT:helve:]"
-msgstr ""
+msgstr "[REAGENT:topůrko:]"
 
 #: reaction_other.txt:552
 msgctxt "REACTION:ASSEMBLE STONE AXE"
@@ -55265,7 +55267,7 @@ msgstr ""
 #: reaction_other.txt:555
 msgctxt "REACTION:ASSEMBLE STONE AXE"
 msgid "[PRODUCT_TOKEN:axe]"
-msgstr ""
+msgstr "[PRODUCT_TOKEN:sekera]"
 
 #: reaction_other.txt:558
 msgctxt "REACTION:MAKE WOODEN DISPLAY CASE"
@@ -55280,7 +55282,7 @@ msgstr "[REAGENT:kláda:]"
 #: reaction_other.txt:562
 msgctxt "REACTION:MAKE WOODEN DISPLAY CASE"
 msgid "[REAGENT:window:]"
-msgstr ""
+msgstr "[REAGENT:okno:]"
 
 #: reaction_other.txt:563
 msgctxt "REACTION:MAKE WOODEN DISPLAY CASE"
@@ -55401,4 +55403,4 @@ msgstr "[NAME:vyrobte vizmutové bronzové tyče]"
 #: reaction_smelter.txt:209
 msgctxt "REACTION:ADAMANTINE_WAFERS"
 msgid "[NAME:make adamantine wafers]"
-msgstr ""
+msgstr "[NAME:vyrobit adamantinové oplatky]"
