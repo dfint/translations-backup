@@ -34,7 +34,7 @@ jobs:
 
   trigger-translation-artifacts-autobuild:
     runs-on: ubuntu-latest
-
+    needs: pull-translations
     steps:
     - name: Repository Dispatch
       uses: peter-evans/repository-dispatch@v2
