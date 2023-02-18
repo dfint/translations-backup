@@ -33,6 +33,7 @@ jobs:
         add: translations
 
   trigger-translation-artifacts-autobuild:
+    permissions: write-all
     runs-on: ubuntu-latest
     needs: pull-translations
     steps:
