@@ -52,12 +52,3 @@ jobs:
         author_name: github-actions[bot]
         author_email: 41898282+github-actions[bot]@users.noreply.github.com
         add: README.md
-
-  trigger-translation-artifacts-autobuild:
-    runs-on: ubuntu-latest
-    steps:
-    - name: Repository Dispatch
-    uses: peter-evans/repository-dispatch@v2
-    with:
-      repository: dfint/autobuild
-      event-type: update
