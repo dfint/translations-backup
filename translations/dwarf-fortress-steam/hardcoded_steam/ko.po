@@ -33,12 +33,12 @@
 # GIljae Lee, 2023
 # Jioh L. Jung, 2023
 # Transifex Bot <>, 2023
-# HeeMan Kwak, 2023
 # 미노타우르스 크레타, 2023
+# HeeMan Kwak, 2023
 # 
 msgid ""
 msgstr ""
-"Last-Translator: 미노타우르스 크레타, 2023\n"
+"Last-Translator: HeeMan Kwak, 2023\n"
 "Language-Team: Korean (https://www.transifex.com/dwarf-fortress-translation/teams/22396/ko/)\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -7842,11 +7842,11 @@ msgstr "정말 저장하지 않고 종료하시겠습니까?"
 
 #: stringdump_steam_0_50_06_sorted_by_xrefs.txt:2049
 msgid "All of your progress since the last"
-msgstr "마지막 이후의 모든 진행 상황"
+msgstr "마지막 저장 이후의 모든"
 
 #: stringdump_steam_0_50_06_sorted_by_xrefs.txt:2050
 msgid "save will be lost."
-msgstr "세이브가 사라집니다."
+msgstr "진행 상황이 사라집니다."
 
 #: stringdump_steam_0_50_06_sorted_by_xrefs.txt:2051
 msgid "Quit"
@@ -8330,7 +8330,7 @@ msgstr "발생하는 문제들을 대처하다 보면 언젠가 여러분의 초
 
 #: stringdump_steam_0_50_06_sorted_by_xrefs.txt:2167
 msgid "Quick start and short tutorial?"
-msgstr "빠른 시작 및 짧은 자습서?"
+msgstr "빠른 시작과 짧은 튜토리얼을 원하시나요?"
 
 #: stringdump_steam_0_50_06_sorted_by_xrefs.txt:2168
 msgid ""
@@ -9168,7 +9168,7 @@ msgid ""
 "[C:6:0:1]Plump Helmets[C:7:0:0] are edible and the default "
 "[C:6:0:0]Wagon[C:7:0:0] comes with [C:6:0:1]Plump Helmet Spawn[C:7:0:0], "
 "which are their \"seeds\"."
-msgstr ""
+msgstr "통통한 투구버섯은 먹을 수 있으며, 기본 마차에는 '씨앗'인 통통한 투구버섯 균사가 함께 제공됩니다."
 
 #: stringdump_steam_0_50_06_sorted_by_xrefs.txt:2315
 msgid ""
@@ -9218,6 +9218,8 @@ msgid ""
 "[C:3:0:0]Water Source[C:7:0:0] zone and a [C:6:0:1]Bucket[C:7:0:0] are also "
 "required. "
 msgstr ""
+"칼륨은 비료로 사용할 수 있으며, 장작 용광로에서 태운 나무의 재를 사용해 재처리장에서 만들 수 있습니다. 물 공급 구역과 양동이도 "
+"필요합니다. "
 
 #: stringdump_steam_0_50_06_sorted_by_xrefs.txt:2321
 msgid "[C:6:0:1]Fertilizer[C:7:0:0] is not needed to farm."
@@ -9242,6 +9244,7 @@ msgid ""
 "You can optionally choose to designate a [C:3:0:0]Fishing[C:7:0:0] zone if "
 "you don't want your workers going far afield."
 msgstr ""
+"일꾼이 먼 곳으로 이동하는 것을 원하지 않는 경우 선택적으로 [C:3:0:0]낚시[C:7:0:0] 구역을 지정할 수 있습니다."
 
 #: stringdump_steam_0_50_06_sorted_by_xrefs.txt:2326
 msgid ""
