@@ -9251,6 +9251,7 @@ msgid ""
 "Remember, your workers do not eat raw fish!  You must build a "
 "[C:6:0:0]Fishery[C:7:0:0] to prepare them. "
 msgstr ""
+"일꾼들은 날 생선을 먹지 않는다는 것을 기억하세요! 생선을 가공하려면 [C:6:0:0]수협[C:7:0:0]을 건설해야 합니다. "
 
 #: stringdump_steam_0_50_06_sorted_by_xrefs.txt:2327
 msgid ""
@@ -9283,25 +9284,29 @@ msgstr "[C:7:0:1]도살[C:7:0:0]"
 msgid ""
 "[C:6:0:1]Meat[C:7:0:0] from [C:2:0:0]Livestock[C:7:0:0] you slaughter is a "
 "source of food. "
-msgstr ""
+msgstr "[C:6:0:1]도축한 [C:2:0:0]가축[C:7:0:0]의 고기[C:7:0:0]는 식량의 원천이 됩니다. "
 
 #: stringdump_steam_0_50_06_sorted_by_xrefs.txt:2333
 msgid ""
 "To slaughter an [C:2:0:0]Animal[C:7:0:0] you must first build a "
 "[C:6:0:0]Butcher's Shop[C:7:0:0]. "
-msgstr ""
+msgstr "[C:2:0:0]동물[C:7:0:0]을 도축하려면 먼저 [C:6:0:0]도축장[C:7:0:0]을 건설해야 합니다. "
 
 #: stringdump_steam_0_50_06_sorted_by_xrefs.txt:2334
 msgid ""
 "Do this by selecting the building in [C:5:0:1]Workshops[C:7:0:0] -> "
 "[C:5:0:1]Farming[C:7:0:0] -> [C:5:0:1]Butcher[C:7:0:0]. "
 msgstr ""
+"[C:5:0:1]작업장[C:7:0:0] -> [C:5:0:1]농사[C:7:0:0] -> [C:5:0:]도축장[C:7:0:0]에서 건물을 "
+"선택해 이 작업을 수행합니다. "
 
 #: stringdump_steam_0_50_06_sorted_by_xrefs.txt:2335
 msgid ""
 "Once the shop is built, open the [C:5:0:1]Creatures[C:7:0:0] info menu.  "
 "From there select the [C:5:0:1]Pets/Livestock[C:7:0:0] tab. "
 msgstr ""
+"상점이 건설되면 [C:5:0:1]생물[C:7:0:0] 정보 메뉴를 엽니다. 거기서 [C:5:0:1]애완동물/가축[C:7:0:0] 탭을 "
+"선택합니다. "
 
 #: stringdump_steam_0_50_06_sorted_by_xrefs.txt:2336
 msgid ""
@@ -9309,17 +9314,19 @@ msgid ""
 "need to minimize the tutorial to see the [C:5:0:1]Slaughter[C:7:0:0] "
 "buttons."
 msgstr ""
+"거기서 도축할 [C:2:0:0]동물[C:7:0:0]을 선택할 수 있습니다. 튜토리얼 창을 최소화해야 [C:5:0:]도축[C:7:0:0] "
+"버튼이 보일 수 있습니다."
 
 #: stringdump_steam_0_50_06_sorted_by_xrefs.txt:2337
 msgid ""
 "Note that some [C:2:0:0]Livestock[C:7:0:0] must eat vegetation to survive. "
-msgstr ""
+msgstr "일부 [C:2:0:0]가축[C:7:0:0]은 생존을 위해 초목을 먹어야 합니다. "
 
 #: stringdump_steam_0_50_06_sorted_by_xrefs.txt:2338
 msgid ""
 "To keep them alive use the [C:3:0:0]Pen/Pasture[C:7:0:0] zone from the "
 "[C:5:0:1]Zones[C:7:0:0] menu to select a section of grass and click the "
-msgstr ""
+msgstr "구역 메뉴의 울타리/목장 구역을 사용하여 목초지 구역을 선택하고 추가 버튼을 클릭하여 동물을 할당할 수 있습니다."
 
 #: stringdump_steam_0_50_06_sorted_by_xrefs.txt:2339
 msgid "add button to assign the [C:2:0:0]Animals[C:7:0:0]."
@@ -9334,36 +9341,38 @@ msgid ""
 "[C:3:0:0]Zones[C:7:0:0] are areas you designate where your citizens will "
 "work, socialize, rest, or perform specific duties. "
 msgstr ""
+"[C:3:0:0]구역[C:7:0:0]은 시민이 일하고, 사교하고, 휴식을 취하거나 특정 업무를 수행할 수 있도록 지정하는 구역입니다. "
 
 #: stringdump_steam_0_50_06_sorted_by_xrefs.txt:2342
 msgid ""
 "There are several kinds of [C:3:0:0]Zones[C:7:0:0], which you can see in the"
 " panel on the left."
-msgstr ""
+msgstr "왼쪽 패널에서 볼 수 있는 여러 종류의 [C:3:0:0]구역[C:7:0:0]이 있습니다."
 
 #: stringdump_steam_0_50_06_sorted_by_xrefs.txt:2343
 msgid ""
 "[C:3:0:0]Zones[C:7:0:0] are placed much like [C:6:0:0]Stockpiles[C:7:0:0]. "
-msgstr ""
+msgstr "[C:3:0:0]구역[C:7:0:0]은 [C:6:0:]저장소[C:7:0:0]와 매우 유사하게 배치됩니다. "
 
 #: stringdump_steam_0_50_06_sorted_by_xrefs.txt:2344
 msgid ""
 "Unlike [C:6:0:0]Stockpiles[C:7:0:0], multiple [C:3:0:0]Zones[C:7:0:0] can "
 "overlap."
-msgstr ""
+msgstr "저장소와 달리, 여러 [C:3:0:0]구역[C:7:0:0]은 겹칠 수 있습니다."
 
 #: stringdump_steam_0_50_06_sorted_by_xrefs.txt:2345
 msgid ""
 "Certain [C:3:0:0]Zones[C:7:0:0] like [C:3:0:0]Bedrooms[C:7:0:0] can be "
 "placed several at a time. "
 msgstr ""
+"[C:3:0:0]침실[C:7:0:0]과 같은 특정 [C:3:0:0]구역[C:7:0:0]은 한 번에 여러 개를 배치할 수 있습니다. "
 
 #: stringdump_steam_0_50_06_sorted_by_xrefs.txt:2346
 msgid ""
 "Just make sure you have the correct [C:6:0:0]Furniture[C:7:0:0] placed in "
 "the rooms with [C:6:0:0]Doors[C:7:0:0] or vertical entries separating each "
 "room before you begin."
-msgstr ""
+msgstr "시작하기 전에 각 방을 구분하는 문이나 수직 출입구가 있는 방에 올바른 가구가 배치되어 있는지 확인하세요."
 
 #: stringdump_steam_0_50_06_sorted_by_xrefs.txt:2347
 msgid "Burrows"
@@ -9373,7 +9382,7 @@ msgstr "굴"
 msgid ""
 "[C:1:0:0]Burrows[C:7:0:0] are work and living areas where citizens can be "
 "assigned. "
-msgstr ""
+msgstr "[C:1:0:0]굴[C:7:0:0]은 시민이 배정받을 수 있는 작업 및 생활 구역입니다. "
 
 #: stringdump_steam_0_50_06_sorted_by_xrefs.txt:2349
 msgid ""
@@ -9381,22 +9390,25 @@ msgid ""
 "[C:1:0:0]Burrow[C:7:0:0], but they will sometimes form paths which pass "
 "through other areas."
 msgstr ""
+"일꾼은 [C:1:0:0]굴[C:7:0:0]의 범위 내에서만 작업을 수행하려고 하지만, 때때로 다른 영역을 통과하는 경로를 만들기도 "
+"합니다."
 
 #: stringdump_steam_0_50_06_sorted_by_xrefs.txt:2350
 msgid ""
 "[C:1:0:0]Burrows[C:7:0:0] can be suspended and unsuspended freely.  When a "
 "[C:1:0:0]Burrow[C:7:0:0] is suspended, assigned citizens will ignore it."
-msgstr ""
+msgstr "굴은 자유롭게 정지 및 해제할 수 있습니다. 굴이 일시 중단되면 할당된 시민은 굴을 무시합니다."
 
 #: stringdump_steam_0_50_06_sorted_by_xrefs.txt:2351
 msgid ""
 "It can be useful to assign all of your civilians to a safe emergency "
 "[C:1:0:0]Burrow[C:7:0:0] which you activate in case of intruders."
 msgstr ""
+"침입자가 있을 때 활성화하는 안전한 비상용 [C:1:0:0]굴[C:7:0:0]에 모든 민간인을 할당하는 것이 유용할 수 있습니다."
 
 #: stringdump_steam_0_50_06_sorted_by_xrefs.txt:2352
 msgid "Minecart routes"
-msgstr "마인카트 경로"
+msgstr "광산수레 경로"
 
 #: stringdump_steam_0_50_06_sorted_by_xrefs.txt:2353
 msgid ""
@@ -9404,6 +9416,8 @@ msgid ""
 "way to move a lot of objects around the fortress quickly, though they take a"
 " little effort to prepare. "
 msgstr ""
+"[C:6:0:1]광산 수레[C:7:0:0]와 [C:6:0:0]트랙[C:7:0:0]은 준비에 약간의 노력이 필요하지만 요새 주변에 많은 "
+"물건을 빠르게 옮길 수 있는 편리한 수단입니다. "
 
 #: stringdump_steam_0_50_06_sorted_by_xrefs.txt:2354
 msgid ""
@@ -9411,25 +9425,27 @@ msgid ""
 "will move the vehicle from [C:6:0:0]Track Stop[C:7:0:0] to [C:6:0:0]Track "
 "Stop[C:7:0:0] according to conditions you specify."
 msgstr ""
+"각 경로에 [C:6:0:1]광산수레[C:7:0:0] 1대를 할당할 수 있으며, 작업자는 지정한 조건에 따라 [C:6:0:0]트랙 "
+"정거장[C:7:0:0]에서 [C:6:0:0]트랙 정거장[C:7:0:0]으로 차량을 이동합니다."
 
 #: stringdump_steam_0_50_06_sorted_by_xrefs.txt:2355
 msgid ""
 "Each [C:6:0:0]Track Stop[C:7:0:0] must be linked to a "
 "[C:6:0:0]Stockpile[C:7:0:0] for [C:6:0:1]Items[C:7:0:0] to be put on or "
 "removed from the [C:6:0:1]Minecart[C:7:0:0]."
-msgstr ""
+msgstr "각 트랙 정거장은 광산 수레에 아이템을 넣거나 뺄 수 있는 아이템 창고에 연결되어 있어야 합니다."
 
 #: stringdump_steam_0_50_06_sorted_by_xrefs.txt:2356
 msgid ""
 "Only one condition needs to be satisfied for the [C:6:0:1]Minecart[C:7:0:0] "
 "to move to the next [C:6:0:0]Track Stop[C:7:0:0]."
-msgstr ""
+msgstr "광산 수레가 다음 트랙 정거장으로 이동하려면 한 가지 조건만 충족하면 됩니다."
 
 #: stringdump_steam_0_50_06_sorted_by_xrefs.txt:2357
 msgid ""
 "[C:6:0:1]Minecarts[C:7:0:0] that move too quickly around corners will spill "
 "their contents. "
-msgstr ""
+msgstr "[C:6:0:]광산 수레[C:7:0:]가 모퉁이를 너무 빨리 돌면 내용물이 쏟아집니다. "
 
 #: stringdump_steam_0_50_06_sorted_by_xrefs.txt:2358
 msgid ""
@@ -9438,6 +9454,8 @@ msgid ""
 "[C:6:0:0]Stops[C:7:0:0] with various friction settings, or a worker to guide"
 " the vehicle."
 msgstr ""
+"경로에 가파른 내리막길이 있는 경우 모터 롤러, 추가 커브, 다양한 마찰 설정이 있는 정거장 사이의 트랙 '정지' 또는 차량을 안내할 "
+"작업자를 사용하는 것이 좋습니다."
 
 #: stringdump_steam_0_50_06_sorted_by_xrefs.txt:2359
 msgid "Stocks"
@@ -9455,7 +9473,7 @@ msgstr "범주 제목을 클릭하여 접거나 펼칩니다."
 msgid ""
 "If you don't have a [C:5:0:0]Bookkeeper[C:7:0:0], or they don't have an "
 "[C:3:0:0]Office[C:7:0:0] to work in, numbers may be approximate."
-msgstr ""
+msgstr "담당 회계사가 없거나 근무할 사무실이 없는 경우에는 대략적인 수치를 사용할 수밖에 없습니다."
 
 #: stringdump_steam_0_50_06_sorted_by_xrefs.txt:2363
 msgid ""
@@ -9476,13 +9494,13 @@ msgstr "일반적으로 거의 모든 작업이 모든 시민에게 제공되지
 msgid ""
 "Citizens are restricted by using their [C:5:0:1]Specialization[C:7:0:0] "
 "button. "
-msgstr ""
+msgstr "시민은 [C:5:0:1]전문화[C:7:0:0] 버튼 조작으로 활동 제한을 받습니다. "
 
 #: stringdump_steam_0_50_06_sorted_by_xrefs.txt:2366
 msgid ""
 "Tasks are restricted by setting their work detail to [C:5:0:1]\"Only "
 "selected do this\"[C:7:0:0]."
-msgstr ""
+msgstr "작업 세부 정보를 [C:5:0:1]\"선택된 사람만 이 작업을 수행\"[C:7:0:0]으로 설정하여 작업을 제한할 수 있습니다."
 
 #: stringdump_steam_0_50_06_sorted_by_xrefs.txt:2367
 msgid ""
@@ -9490,6 +9508,8 @@ msgid ""
 "detail.  Once you assign citizens to the task, you can then set "
 "[C:5:0:1]\"Only selected do this\"[C:7:0:0] if you want to restrict it."
 msgstr ""
+"작업에 기본 작업 상세정보가 없는 경우 사용자 지정 작업 상세정보를 만들 수 있습니다. 시민을 작업에 할당하고 나면 "
+"[C:5:0:1]\"선택된 사람만 이 작업을 수행\"[C:7:0:0]을 설정하여 제한할 수 있습니다."
 
 #: stringdump_steam_0_50_06_sorted_by_xrefs.txt:2368
 msgid "Nobles and administrators"
@@ -9526,7 +9546,7 @@ msgstr "요새의 일부 중요한 기능은 관리자 및 회계 장부 담당�
 msgid ""
 "Once they are assigned, you can create work orders, run a "
 "[C:1:0:1]Hospital[C:7:0:0], and count and appraise your hoard."
-msgstr ""
+msgstr "할당된 후에는 작업 지시를 생성하고, 병원을 운영하고, 비축량을 계산하고 평가할 수 있습니다."
 
 #: stringdump_steam_0_50_06_sorted_by_xrefs.txt:2375
 msgid ""
@@ -9689,6 +9709,8 @@ msgid ""
 "If you find that your stockpiles are filling up too fast, you can create "
 "room by building [C:6:0:1]Bins[C:7:0:0], "
 msgstr ""
+"비축량이 너무 빨리 채워진다면 [C:6:0:]상자[C:7:0:0], [C:6:0:1]통[C:7:0:0], "
+"[C:6:0:1]가방[C:7:0:0]을 건설하여 공간을 만들면 됩니다. "
 
 #: stringdump_steam_0_50_06_sorted_by_xrefs.txt:2404
 msgid ""
@@ -9696,6 +9718,8 @@ msgid ""
 "[C:6:0:1]Barrels[C:7:0:0] are used to store [C:6:0:1]Food[C:7:0:0].  "
 "[C:6:0:1]Bags[C:7:0:0] are used to store [C:6:0:1]Seeds[C:7:0:0] "
 msgstr ""
+"[C:6:0:]통[C:7:0:0]은 [C:6:0:1]식량[C:7:0:0] 저장에 사용됩니다. [C:6:0:1]가방[C:7:0:0]은 "
+"[C:6:0:1]씨앗[C:7:0:0](및 [C:6:0:1]모래[C:7:0:0] 같은 다른 것들)을 저장하는 데 사용됩니다. "
 
 #: stringdump_steam_0_50_06_sorted_by_xrefs.txt:2405
 msgid ""
@@ -9703,6 +9727,8 @@ msgid ""
 " hold just about everything else except [C:6:0:1]Furniture[C:7:0:0], "
 "[C:6:0:1]Wood[C:7:0:0] and [C:6:0:1]Boulders[C:7:0:0]. "
 msgstr ""
+"[C:6:0:]상자[C:7:0:0]는 [C:6:0:1]가구[C:7:0:0], [C:6:0:1]나무[C:7:0:0], "
+"[C:6:0:1]바위[C:7:0:0]를 제외한 거의 모든 것을 담을 수 있습니다. "
 
 #: stringdump_steam_0_50_06_sorted_by_xrefs.txt:2406
 msgid ""
@@ -9710,6 +9736,8 @@ msgid ""
 "lightweight [C:6:0:1]Bins[C:7:0:0] and [C:6:0:1]Barrels[C:7:0:0], but they "
 "can also be made at "
 msgstr ""
+"[C:6:0:0]목공소[C:7:0:0]는 가벼운 [C:6:0:1]상자[C:7:0:0]와 [C:6:0:1]통[C: 7:0:0]을 만들 수 "
+"있지만, [C:6:0:0]석공의 상점[C:7:0:0]과 [C:6:0:0]대장장이의 대장간[C:7:0:0]에서도 제작할 수 있습니다. "
 
 #: stringdump_steam_0_50_06_sorted_by_xrefs.txt:2407
 msgid ""
@@ -9717,77 +9745,82 @@ msgid ""
 "Forge[C:7:0:0].  [C:6:0:1]Bags[C:7:0:0] are created at the "
 "[C:6:0:0]Clothier's Shop[C:7:0:0] or the [C:6:0:0]Leatherworks[C:7:0:0]."
 msgstr ""
+"[C:6:0:1]가방[C:7:0:0]은 [C:6:0:0]재봉사의 상점[C:7:0:0] 또는 [C:6:0:0]가죽공방[C:7:0:0]에서 "
+"제작할 수 있습니다."
 
 #: stringdump_steam_0_50_06_sorted_by_xrefs.txt:2408
 msgid ""
 "When the caravan arrives at the [C:6:0:0]Trade Depot[C:7:0:0], you must "
 "click on the depot and select [C:5:0:1]\"Bring Goods to Depot\"[C:7:0:0]. "
-msgstr ""
+msgstr "캐러밴이 무역 보관소에 도착하면, 보관소를 클릭하고 \"보관소로 상품 가져오기\"를 선택해야 합니다. "
 
 #: stringdump_steam_0_50_06_sorted_by_xrefs.txt:2409
 msgid ""
 "Here you can select which goods you wish to trade.  After everyone has "
 "brought their goods you can "
-msgstr "여기서 거래할 상품을 선택할 수 있습니다. 모든 사람들이 그들의 물건을 가져온 후에 당신은 거래할 수 있습니다."
+msgstr ""
+"여기에서 거래할 상품을 선택할 수 있습니다. \n"
+"모든 사람이 상품을 가져온 후 [C:5:0:1]\"거래\"[C:7:0:0]를 선택하면 됩니다. "
 
 #: stringdump_steam_0_50_06_sorted_by_xrefs.txt:2410
 msgid ""
 "select [C:5:0:1]\"Trade\"[C:7:0:0].  Don't worry if you have no "
 "[C:5:0:0]Broker[C:7:0:0], just select [C:5:0:1]\"Anyone can "
 "Trade\"[C:7:0:0].  You cannot trade "
-msgstr ""
+msgstr "중개인이 없더라도 걱정하지 마시고, [C:5:0:1]\"누구나 거래 가능\"[C:7:0:0]을 선택하면 됩니다. "
 
 #: stringdump_steam_0_50_06_sorted_by_xrefs.txt:2411
 msgid ""
 "until your [C:5:0:0]Broker[C:7:0:0] or another resident arrives at the "
 "depot."
-msgstr ""
+msgstr "당신의 [C:5:0:]중개인[C:7:0:0] 또는 다른 상주자가 보관소에 도착할 때까지 거래할 수 없습니다."
 
 #: stringdump_steam_0_50_06_sorted_by_xrefs.txt:2412
 msgid ""
 "When trading you select which goods you want from the list on the left, and "
 "which goods of yours to "
-msgstr "거래할 때 왼쪽 목록에서 원하는 상품과 원하는 상품을 선택합니다."
+msgstr "거래할 때는 왼쪽 목록에서 원하는 상품을 선택하고, 오른쪽 목록에서 거래할 내 상품을 선택합니다."
 
 #: stringdump_steam_0_50_06_sorted_by_xrefs.txt:2413
 msgid ""
 "trade from the list on the right.  Then hit [C:5:0:1]\"Trade\"[C:7:0:0].  "
 "The trader will accept if the deal is fair and "
-msgstr ""
+msgstr "그런 다음 [C:5:0:1]\"거래\"[C:7:0:0]를 누르세요."
 
 #: stringdump_steam_0_50_06_sorted_by_xrefs.txt:2414
 msgid "they can carry away the weight of the things you are selling."
-msgstr "그들은 당신이 파는 물건의 무게를 옮길 수 있습니다."
+msgstr "거래 조건이 공정하고 판매하려는 상품의 무게를 감당할 수 있다면 상인이 거래를 수락합니다."
 
 #: stringdump_steam_0_50_06_sorted_by_xrefs.txt:2415
 msgid ""
 "Note that if you have a [C:5:0:0]Broker[C:7:0:0] the value of each good with"
 " be shown if their skill is high enough."
-msgstr ""
+msgstr "[C:5:0:0]중개인[C:7:0:0]이 있는 경우, 해당 중개인의 스킬이 충분히 높으면 각 재화의 가치가 표시됩니다."
 
 #: stringdump_steam_0_50_06_sorted_by_xrefs.txt:2416
 msgid ""
 "In order for some functions to be used, like work orders or bookkeeping, "
 "[C:5:0:0]Administrators[C:7:0:0] must be assigned. "
-msgstr ""
+msgstr "작업 지시서나 장부 작성과 같은 일부 기능을 사용하려면 [C:5:0:0]관리자[C:7:0:0]를 할당해야 합니다. "
 
 #: stringdump_steam_0_50_06_sorted_by_xrefs.txt:2417
 msgid ""
 "To do this select the [C:5:0:1]Nobles and administrators[C:7:0:0] menu and "
 "click the add button to assign somebody. "
-msgstr ""
+msgstr "이렇게 하려면 [C:5:0:1]귀족 및 관리자[C:7:0:0] 메뉴를 선택하고 추가 버튼을 클릭하여 누군가를 할당합니다. "
 
 #: stringdump_steam_0_50_06_sorted_by_xrefs.txt:2418
 msgid ""
 "Some [C:5:0:0]Administrators[C:7:0:0] will require [C:3:0:0]Offices[C:7:0:0]"
 " to perform their work. "
 msgstr ""
+"일부 [C:5:0:0]관리자[C:7:0:0]는 업무를 수행하기 위해 [C:3:0:0]사무실[C:7:0:0]을 필요로 합니다. "
 
 #: stringdump_steam_0_50_06_sorted_by_xrefs.txt:2419
 msgid ""
 "You can create these with [C:5:0:1]Zones[C:7:0:0] -> "
 "[C:5:0:1]Office[C:7:0:0]. "
-msgstr ""
+msgstr "[C:5:0:1]구역[C:7:0:0] -> [C:5:0:1]사무실[C:7:0:0]을 사용하여 만들 수 있습니다. "
 
 #: stringdump_steam_0_50_06_sorted_by_xrefs.txt:2420
 msgid ""
@@ -9795,28 +9828,32 @@ msgid ""
 "[C:6:0:0]Chair[C:7:0:0], or you can paint a [C:3:0:0]Zone[C:7:0:0] and place"
 " a [C:6:0:0]Chair[C:7:0:0] later. "
 msgstr ""
+"선택한 [C:3:0:0]구역[C:7:0:0]에는 반드시 [C:6:0:0]의자[C:7:0:0]가 있어야 하며, "
+"[C:3:0:0]구역[C:7:0:0]을 지정하고 나중에 [C:6:0:0]의자[C:7:0:0]를 배치할 수도 있습니다. "
 
 #: stringdump_steam_0_50_06_sorted_by_xrefs.txt:2421
 msgid ""
 "Remember to assign the [C:5:0:0]Administrator[C:7:0:0] to the "
 "[C:3:0:0]Office[C:7:0:0]."
-msgstr ""
+msgstr "[C:5:0:0]관리자[C:7:0:0]를 [C:3:0:0]사무실[C:7:0:0]에 할당하는 것을 잊지 마세요."
 
 #: stringdump_steam_0_50_06_sorted_by_xrefs.txt:2422
 msgid "Other nobles may appear or be assigned as "
-msgstr "다른 귀족은 다음과 같이 나타나거나 지정될 수 있습니다."
+msgstr "게임을 진행하면서 다른 귀족이 등장하거나 할당될 수 있습니다."
 
 #: stringdump_steam_0_50_06_sorted_by_xrefs.txt:2423
 msgid ""
 "the game progresses.  Use the [C:5:0:1]Nobles and administrators[C:7:0:0] "
 "menu to check their wants and needs."
-msgstr ""
+msgstr "[C:5:0:1]귀족 및 관리자[C:7:0:0] 메뉴를 사용해 원하는 것과 필요한 것을 확인합니다."
 
 #: stringdump_steam_0_50_06_sorted_by_xrefs.txt:2424
 msgid ""
 "In order to make [C:6:0:1]Metal Bars[C:7:0:0] for the "
 "[C:2:0:0]Metalsmith[C:7:0:0], you must smelt [C:6:0:1]Ore[C:7:0:0]. "
 msgstr ""
+"[C:6:0:1]금속 주괴[C:7:0:0]를 [C:2:0:0]대장장이[C:7:0:]를 위해 만들려면, "
+"[C:6:0:1]광석[C:7:0:0]을 제련해야 합니다. "
 
 #: stringdump_steam_0_50_06_sorted_by_xrefs.txt:2425
 msgid ""
@@ -9824,6 +9861,8 @@ msgid ""
 "[C:5:0:1]Workshops[C:7:0:0] -> [C:5:0:1]Furnaces[C:7:0:0] -> "
 "[C:5:0:1]Smelter[C:7:0:0]. "
 msgstr ""
+"[C:6:0:0]제련소[C:7:0:]는 [C:5:0:1]작업장[C:7:0:0] -> [C:5:0:1]용광로[C:7:0:0] -> "
+"[C:5:0:1]제련소[C:7:0:0] 항목에서 찾아볼 수 있습니다. "
 
 #: stringdump_steam_0_50_06_sorted_by_xrefs.txt:2426
 msgid "[C:6:0:1]Ore[C:7:0:0] is mined underground, below the soil layers."
@@ -9842,18 +9881,22 @@ msgid ""
 "To get [C:6:0:1]Fuel[C:7:0:0] you need to make [C:6:0:1]Charcoal[C:7:0:0] "
 "with a [C:6:0:0]Wood Furnace[C:7:0:0], "
 msgstr ""
+"연료를 얻으려면 [C:5:0:1]작업장[C:7:0:0] -> [C:5:0:1]용광로[C:7:0:0] -> [C:5:0:]목재 "
+"용광로[C:7:0:0]에서 찾을 수 있는 목재 용광로를 사용하여 숯을 만들어야 합니다. "
 
 #: stringdump_steam_0_50_06_sorted_by_xrefs.txt:2429
 msgid ""
 "found at [C:5:0:1]Workshops[C:7:0:0] -> [C:5:0:1]Furnaces[C:7:0:0] -> "
 "[C:5:0:1]Wood Furnace[C:7:0:0]. "
-msgstr ""
+msgstr ".."
 
 #: stringdump_steam_0_50_06_sorted_by_xrefs.txt:2430
 msgid ""
 "You may switch to other forms of [C:6:0:1]Fuel[C:7:0:0] later, such as "
 "[C:6:0:1]Coal[C:7:0:0], but you will usually "
 msgstr ""
+"나중에 [C:6:0:1]석탄[C:7:0:0]과 같은 다른 형태의 연료로 전환할 수 있지만, 보통은 목재 용광로에서 숯이 있어야 공정을 "
+"시작할 수 있습니다."
 
 #: stringdump_steam_0_50_06_sorted_by_xrefs.txt:2431
 msgid ""
@@ -9886,7 +9929,7 @@ msgid ""
 "Most require [C:6:0:1]Mechanisms[C:7:0:0] made at the [C:6:0:0]Mechanic's "
 "Shop[C:7:0:0], using [C:5:0:1]Workshops[C:7:0:0] -> "
 "[C:5:0:1]Mechanic[C:7:0:0]. "
-msgstr ""
+msgstr "대부분 작업장 -> 기계공의 기계공 공방에서 제작한 기계장치가 필요합니다. "
 
 #: stringdump_steam_0_50_06_sorted_by_xrefs.txt:2437
 msgid ""
@@ -9894,6 +9937,8 @@ msgid ""
 " -> [C:5:0:1]Machines/fluids[C:7:0:0] -> [C:5:0:1]Lever[C:7:0:0] to build a "
 "[C:6:0:0]Lever[C:7:0:0]. "
 msgstr ""
+"적의 요새 진입을 막으려면 [C:5:0:1]건설[C:7:0:0] -> [C:5:0:1]기계/유체[C:7:0:0] -> "
+"[C:5:0:]레버[C:7:0:0]를 사용하여 [C:6:0:0]레버[C:7:0:0]를 건설하세요. "
 
 #: stringdump_steam_0_50_06_sorted_by_xrefs.txt:2438
 msgid ""
@@ -9901,32 +9946,37 @@ msgid ""
 "[C:6:0:0]Bridge[C:7:0:0] or [C:6:0:0]Door[C:7:0:0].  This will lock the "
 "[C:6:0:0]Door[C:7:0:0] "
 msgstr ""
+"그런 다음 [C:6:0:0]레버[C:7:0:0]를 클릭하고 [C:6:0:0]다리[C:7:0:0] 또는 "
+"[C:6:0:0]문[C:7:0:0]에 연결하도록 선택합니다. "
 
 #: stringdump_steam_0_50_06_sorted_by_xrefs.txt:2439
 msgid "or raise the [C:6:0:0]Bridge[C:7:0:0], locking you inside. "
-msgstr "또는 [C:6:0:0]다리[C:7:0:0]를 들어 당신을 안에 가둡니다."
+msgstr ""
+"그러면 [C:6:0:0]문[C:7:0:0]이 잠기거나 [C:6:0:0]다리[C:7:0:0]가 상승하여 내부에 갇히게 됩니다. "
 
 #: stringdump_steam_0_50_06_sorted_by_xrefs.txt:2440
 msgid ""
 "There are also predesigned traps, such as [C:6:0:0]Weapon[C:7:0:0], "
 "[C:6:0:0]Cage[C:7:0:0], and [C:6:0:0]Stone-Fall Traps[C:7:0:0]. "
-msgstr ""
+msgstr "무기, 우리, 낙석 함정과 같이 미리 설계된 함정도 있습니다. "
 
 #: stringdump_steam_0_50_06_sorted_by_xrefs.txt:2441
 msgid ""
 "These require a [C:6:0:1]Weapon[C:7:0:0], [C:6:0:1]Cage[C:7:0:0], or "
 "[C:6:0:1]Boulder[C:7:0:0] to function. "
 msgstr ""
+"이 기능을 사용하려면 [C:6:0:1]무기[C:7:0:0], [C:6:0:1]우리[C:7:0:0] 또는 "
+"[C:6:0:1]바위[C:7:0:0]가 있어야 합니다. "
 
 #: stringdump_steam_0_50_06_sorted_by_xrefs.txt:2442
 msgid ""
 "Non-alcoholic water is essential to a functioning fortress.  The most "
 "favored place to "
-msgstr "알코올이 들어가지 않은 물은 제 기능을 하는 요새에 필수적입니다. 이러한 물이 가장 선호되는 장소는"
+msgstr "알코올이 들어가지 않은 물은 제 기능을 하는 요새에 필수적입니다."
 
 #: stringdump_steam_0_50_06_sorted_by_xrefs.txt:2443
 msgid "get it is from a [C:6:0:0]Well[C:7:0:0]. "
-msgstr "[C:6:0:0]우물[C:7:0:0]에서 가져옵니다."
+msgstr "가장 선호되는 물 공급처는 [C:6:0:0]우물[C:7:0:0]입니다. "
 
 #: stringdump_steam_0_50_06_sorted_by_xrefs.txt:2444
 msgid ""
@@ -9935,12 +9985,14 @@ msgid ""
 "[C:6:0:1]Chain[C:7:0:0], and [C:6:0:1]Mechanisms[C:7:0:0].  They can be "
 "built over "
 msgstr ""
+"[C:6:0:0]우물[C:7:0:0]에는 [C:6:0:1]양동이[C:7:0:0], [C:6:0:1]벽돌[C:7:0:0], "
+"[C:6:0:1]로프[C:7:0:0], [C:6:0:1]사슬[C:7:0:0], [C:6:0: 1]기계장치[C:7:0:0]가 필요합니다. "
 
 #: stringdump_steam_0_50_06_sorted_by_xrefs.txt:2445
 msgid ""
 "any body of water.  It is possible to find water underground, or divert it "
 "from the surface."
-msgstr "어떤 수역이든 지하에서 물을 찾거나 지표면에서 물을 우회시키는 것이 가능하다."
+msgstr "모든 수역 위에 건설할 수 있습니다. 지하에서 물을 찾거나 지표에서 물을 우회할 수 있습니다."
 
 #: stringdump_steam_0_50_06_sorted_by_xrefs.txt:2446
 msgid ""
@@ -9958,7 +10010,7 @@ msgstr "계단 주변에 3x3 방을 짓기 위해 축축한 돌을 단순히 채
 msgid ""
 "You can then build [C:6:0:0]Walls[C:7:0:0] around the stairs until the "
 "leaking water is blocked off. "
-msgstr ""
+msgstr "그런 다음 새는 물이 차단될 때까지 계단 주위에 [C:6:0:0]벽[C:7:0:0]을 건설할 수 있습니다. "
 
 #: stringdump_steam_0_50_06_sorted_by_xrefs.txt:2449
 msgid "Repeat this pattern until you get below the aquifer."
@@ -9969,6 +10021,8 @@ msgid ""
 "Eventually the [C:6:0:1]Clothing[C:7:0:0] that your residents start with "
 "will rot away. "
 msgstr ""
+"Eventually the [C:6:0:1]Clothing[C:7:0:0] that your residents start with "
+"will rot away. "
 
 #: stringdump_steam_0_50_06_sorted_by_xrefs.txt:2451
 msgid ""
@@ -9976,36 +10030,49 @@ msgid ""
 "[C:6:0:1]Cloth[C:7:0:0], or [C:6:0:1]Leather[C:7:0:0], you can also farm "
 "[C:6:0:1]Pigtails[C:7:0:0], "
 msgstr ""
+"While it is possible to trade for [C:6:0:1]Clothing[C:7:0:0], "
+"[C:6:0:1]Cloth[C:7:0:0], or [C:6:0:1]Leather[C:7:0:0], you can also farm "
+"[C:6:0:1]Pigtails[C:7:0:0], "
 
 #: stringdump_steam_0_50_06_sorted_by_xrefs.txt:2452
 msgid ""
 "gather [C:6:0:1]Silk[C:7:0:0], or tan [C:6:0:1]Skins[C:7:0:0] for "
 "[C:6:0:1]Leather[C:7:0:0]. "
 msgstr ""
+"gather [C:6:0:1]Silk[C:7:0:0], or tan [C:6:0:1]Skins[C:7:0:0] for "
+"[C:6:0:1]Leather[C:7:0:0]. "
 
 #: stringdump_steam_0_50_06_sorted_by_xrefs.txt:2453
 msgid ""
 "After harvesting plants like the [C:6:0:1]Pigtail[C:7:0:0], first process "
 "them at the [C:6:0:0]Farmer's Workshop[C:7:0:0], then "
 msgstr ""
+"After harvesting plants like the [C:6:0:1]Pigtail[C:7:0:0], first process "
+"them at the [C:6:0:0]Farmer's Workshop[C:7:0:0], then "
 
 #: stringdump_steam_0_50_06_sorted_by_xrefs.txt:2454
 msgid ""
 "weave [C:6:0:1]Cloth[C:7:0:0] at the [C:6:0:0]Loom[C:7:0:0], then make "
 "[C:6:0:1]Clothing[C:7:0:0] at the [C:6:0:0]Clothier[C:7:0:0]. "
 msgstr ""
+"weave [C:6:0:1]Cloth[C:7:0:0] at the [C:6:0:0]Loom[C:7:0:0], then make "
+"[C:6:0:1]Clothing[C:7:0:0] at the [C:6:0:0]Clothier[C:7:0:0]. "
 
 #: stringdump_steam_0_50_06_sorted_by_xrefs.txt:2455
 msgid ""
 "Gathered [C:6:0:1]Silk[C:7:0:0] can go directly to the "
 "[C:6:0:0]Loom[C:7:0:0]."
 msgstr ""
+"Gathered [C:6:0:1]Silk[C:7:0:0] can go directly to the "
+"[C:6:0:0]Loom[C:7:0:0]."
 
 #: stringdump_steam_0_50_06_sorted_by_xrefs.txt:2456
 msgid ""
 "[C:6:0:1]Skins[C:7:0:0] can be obtained by butchering "
 "[C:2:0:0]Livestock[C:7:0:0] at the [C:6:0:0]Butcher's Shop[C:7:0:0]. "
 msgstr ""
+"[C:6:0:1]Skins[C:7:0:0] can be obtained by butchering "
+"[C:2:0:0]Livestock[C:7:0:0] at the [C:6:0:0]Butcher's Shop[C:7:0:0]. "
 
 #: stringdump_steam_0_50_06_sorted_by_xrefs.txt:2457
 msgid ""
@@ -10013,12 +10080,17 @@ msgid ""
 "and made into [C:6:0:1]Clothing[C:7:0:0] at the [C:6:0:0]Leather "
 "Works[C:7:0:0]."
 msgstr ""
+"[C:6:0:1]Skins[C:7:0:0] are tanned at the [C:6:0:0]Tanner's Shop[C:7:0:0], "
+"and made into [C:6:0:1]Clothing[C:7:0:0] at the [C:6:0:0]Leather "
+"Works[C:7:0:0]."
 
 #: stringdump_steam_0_50_06_sorted_by_xrefs.txt:2458
 msgid ""
 "[C:3:0:0]Meeting Areas[C:7:0:0] are [C:3:0:0]Zones[C:7:0:0] where your "
 "citizens gather when not working or taking care of their needs. "
 msgstr ""
+"[C:3:0:0]Meeting Areas[C:7:0:0] are [C:3:0:0]Zones[C:7:0:0] where your "
+"citizens gather when not working or taking care of their needs. "
 
 #: stringdump_steam_0_50_06_sorted_by_xrefs.txt:2459
 msgid ""
@@ -10027,12 +10099,18 @@ msgid ""
 "sufficient, but [C:1:0:1]Locations[C:7:0:0] can span several "
 "[C:3:0:0]Zones[C:7:0:0]. "
 msgstr ""
+"[C:3:0:0]Zones[C:7:0:0] can be assigned to special "
+"[C:1:0:1]Locations[C:7:0:0]. Usually one [C:3:0:0]Meeting Area[C:7:0:0] is "
+"sufficient, but [C:1:0:1]Locations[C:7:0:0] can span several "
+"[C:3:0:0]Zones[C:7:0:0]. "
 
 #: stringdump_steam_0_50_06_sorted_by_xrefs.txt:2460
 msgid ""
 "There are five types of [C:1:0:1]Locations[C:7:0:0], which we'll go over in "
 "turn."
 msgstr ""
+"There are five types of [C:1:0:1]Locations[C:7:0:0], which we'll go over in "
+"turn."
 
 #: stringdump_steam_0_50_06_sorted_by_xrefs.txt:2461
 msgid "[C:7:0:1]Taverns[C:7:0:0]"
@@ -10043,6 +10121,8 @@ msgid ""
 "[C:1:0:1]Taverns[C:7:0:0] are where your residents gather to drink, "
 "socialize, tell stories, and dance. "
 msgstr ""
+"[C:1:0:1]Taverns[C:7:0:0] are where your residents gather to drink, "
+"socialize, tell stories, and dance. "
 
 #: stringdump_steam_0_50_06_sorted_by_xrefs.txt:2463
 msgid ""
@@ -10050,6 +10130,9 @@ msgid ""
 "[C:6:0:0]Stockpile[C:7:0:0] with [C:6:0:1]Booze[C:7:0:0] in it, preferably "
 "close by. "
 msgstr ""
+"To have a fully functioning [C:1:0:1]Tavern[C:7:0:0] you must have a "
+"[C:6:0:0]Stockpile[C:7:0:0] with [C:6:0:1]Booze[C:7:0:0] in it, preferably "
+"close by. "
 
 #: stringdump_steam_0_50_06_sorted_by_xrefs.txt:2464
 msgid ""
@@ -10057,6 +10140,9 @@ msgid ""
 "[C:6:0:1]Cups[C:7:0:0], or [C:6:0:1]Mugs[C:7:0:0].  These must be stored in "
 "[C:6:0:0]Chests[C:7:0:0] or "
 msgstr ""
+"The inhabitants also like to drink from [C:6:0:1]Goblets[C:7:0:0], "
+"[C:6:0:1]Cups[C:7:0:0], or [C:6:0:1]Mugs[C:7:0:0].  These must be stored in "
+"[C:6:0:0]Chests[C:7:0:0] or "
 
 #: stringdump_steam_0_50_06_sorted_by_xrefs.txt:2465
 msgid ""
@@ -10064,12 +10150,17 @@ msgid ""
 "you can place [C:6:0:0]Tables[C:7:0:0] and [C:6:0:0]Chairs[C:7:0:0] where "
 "your residents can eat. "
 msgstr ""
+"[C:6:0:0]Coffers[C:7:0:0] inside the [C:1:0:1]Tavern[C:7:0:0].  Optionally "
+"you can place [C:6:0:0]Tables[C:7:0:0] and [C:6:0:0]Chairs[C:7:0:0] where "
+"your residents can eat. "
 
 #: stringdump_steam_0_50_06_sorted_by_xrefs.txt:2466
 msgid ""
 "You may also leave a cleared space your tavern-goers will use as a dance "
 "floor.  If you have any [C:6:0:1]Musical "
 msgstr ""
+"You may also leave a cleared space your tavern-goers will use as a dance "
+"floor.  If you have any [C:6:0:1]Musical "
 
 #: stringdump_steam_0_50_06_sorted_by_xrefs.txt:2467
 msgid ""
@@ -10083,12 +10174,17 @@ msgid ""
 "[C:5:0:0]Performers[C:7:0:0] or a [C:5:0:0]Tavern Keeper[C:7:0:0] who will "
 "serve the "
 msgstr ""
+"From the [C:5:0:1]Tavern Info Menu[C:7:0:0] you can choose to assign "
+"[C:5:0:0]Performers[C:7:0:0] or a [C:5:0:0]Tavern Keeper[C:7:0:0] who will "
+"serve the "
 
 #: stringdump_steam_0_50_06_sorted_by_xrefs.txt:2469
 msgid ""
 "visitors drinks. There is also an option to allow outsiders to come to your "
 "[C:1:0:1]Tavern[C:7:0:0]."
 msgstr ""
+"visitors drinks. There is also an option to allow outsiders to come to your "
+"[C:1:0:1]Tavern[C:7:0:0]."
 
 #: stringdump_steam_0_50_06_sorted_by_xrefs.txt:2470
 msgid "[C:7:0:1]Temples[C:7:0:0]"
@@ -10099,18 +10195,24 @@ msgid ""
 "[C:1:0:1]Temples[C:7:0:0] are places for faithful residents to commune with "
 "their chosen deity. "
 msgstr ""
+"[C:1:0:1]Temples[C:7:0:0] are places for faithful residents to commune with "
+"their chosen deity. "
 
 #: stringdump_steam_0_50_06_sorted_by_xrefs.txt:2472
 msgid ""
 "Upon creation of the [C:1:0:1]Location[C:7:0:0] you must choose which deity "
 "to dedicate the [C:1:0:1]Temple[C:7:0:0] to, if any. "
 msgstr ""
+"Upon creation of the [C:1:0:1]Location[C:7:0:0] you must choose which deity "
+"to dedicate the [C:1:0:1]Temple[C:7:0:0] to, if any. "
 
 #: stringdump_steam_0_50_06_sorted_by_xrefs.txt:2473
 msgid ""
 "Sometimes the adherents to a certain religion will demand that you build a "
 "[C:1:0:1]Temple[C:7:0:0] to their specific deity. "
 msgstr ""
+"Sometimes the adherents to a certain religion will demand that you build a "
+"[C:1:0:1]Temple[C:7:0:0] to their specific deity. "
 
 #: stringdump_steam_0_50_06_sorted_by_xrefs.txt:2474
 msgid ""
@@ -10123,12 +10225,16 @@ msgid ""
 "In the [C:6:0:1]Temple Info Menu[C:7:0:0] you can see the value of the "
 "[C:1:0:1]Temple[C:7:0:0].  Sometimes the worshipers will demand "
 msgstr ""
+"In the [C:6:0:1]Temple Info Menu[C:7:0:0] you can see the value of the "
+"[C:1:0:1]Temple[C:7:0:0].  Sometimes the worshipers will demand "
 
 #: stringdump_steam_0_50_06_sorted_by_xrefs.txt:2476
 msgid ""
 "that you increase the value of the temple by decorating or adding "
 "[C:6:0:0]Furniture[C:7:0:0] like [C:6:0:0]Statues[C:7:0:0]. "
 msgstr ""
+"that you increase the value of the temple by decorating or adding "
+"[C:6:0:0]Furniture[C:7:0:0] like [C:6:0:0]Statues[C:7:0:0]. "
 
 #: stringdump_steam_0_50_06_sorted_by_xrefs.txt:2477
 msgid ""
@@ -10144,6 +10250,9 @@ msgid ""
 "[C:1:0:1]Temple[C:7:0:0] and even [C:5:0:0]Priests[C:7:0:0] once the "
 "[C:1:0:1]Temple[C:7:0:0] becomes more established."
 msgstr ""
+"You can also assign [C:5:0:0]Performers[C:7:0:0] to the "
+"[C:1:0:1]Temple[C:7:0:0] and even [C:5:0:0]Priests[C:7:0:0] once the "
+"[C:1:0:1]Temple[C:7:0:0] becomes more established."
 
 #: stringdump_steam_0_50_06_sorted_by_xrefs.txt:2479
 msgid "[C:7:0:1]Hospitals[C:7:0:0]"
@@ -10154,6 +10263,8 @@ msgid ""
 "Your unfortunate citizens are taken to the [C:1:0:1]Hospital[C:7:0:0] when "
 "injured.  There they will rest and given water until "
 msgstr ""
+"Your unfortunate citizens are taken to the [C:1:0:1]Hospital[C:7:0:0] when "
+"injured.  There they will rest and given water until "
 
 #: stringdump_steam_0_50_06_sorted_by_xrefs.txt:2481
 msgid "they are seen by a [C:5:0:0]Doctor[C:7:0:0]. "
@@ -10164,18 +10275,24 @@ msgid ""
 "To fully function your [C:1:0:1]Hospital[C:7:0:0] needs to have "
 "[C:6:0:0]Beds[C:7:0:0], "
 msgstr ""
+"To fully function your [C:1:0:1]Hospital[C:7:0:0] needs to have "
+"[C:6:0:0]Beds[C:7:0:0], "
 
 #: stringdump_steam_0_50_06_sorted_by_xrefs.txt:2483
 msgid ""
 "[C:6:0:1]Buckets[C:7:0:0] (with a source of water), [C:6:0:1]Thread[C:7:0:0]"
 " for sutures, and [C:6:0:1]Cloth[C:7:0:0] for bandages. "
 msgstr ""
+"[C:6:0:1]Buckets[C:7:0:0] (with a source of water), [C:6:0:1]Thread[C:7:0:0]"
+" for sutures, and [C:6:0:1]Cloth[C:7:0:0] for bandages. "
 
 #: stringdump_steam_0_50_06_sorted_by_xrefs.txt:2484
 msgid ""
 "You must build [C:6:0:0]Chests[C:7:0:0] or [C:6:0:0]Coffers[C:7:0:0] inside "
 "the [C:1:0:1]Hospital[C:7:0:0] to store these items. "
 msgstr ""
+"You must build [C:6:0:0]Chests[C:7:0:0] or [C:6:0:0]Coffers[C:7:0:0] inside "
+"the [C:1:0:1]Hospital[C:7:0:0] to store these items. "
 
 #: stringdump_steam_0_50_06_sorted_by_xrefs.txt:2485
 msgid ""
@@ -10183,15 +10300,19 @@ msgid ""
 "Powder[C:7:0:0] for [C:6:0:1]Orthopedic Casts[C:7:0:0].  "
 "[C:6:0:1]Soap[C:7:0:0] is necessary to prevent infection. "
 msgstr ""
+"Some injuries require [C:6:0:1]Splints[C:7:0:0], or [C:6:0:1]Gypsum Plaster "
+"Powder[C:7:0:0] for [C:6:0:1]Orthopedic Casts[C:7:0:0].  "
+"[C:6:0:1]Soap[C:7:0:0] is necessary to prevent infection. "
 
 #: stringdump_steam_0_50_06_sorted_by_xrefs.txt:2486
 msgid ""
 "Some patients will need [C:6:0:1]Crutches[C:7:0:0] after they are treated. "
 msgstr ""
+"Some patients will need [C:6:0:1]Crutches[C:7:0:0] after they are treated. "
 
 #: stringdump_steam_0_50_06_sorted_by_xrefs.txt:2487
 msgid "You will need to appoint a [C:5:0:0]"
-msgstr ""
+msgstr "You will need to appoint a [C:5:0:0]"
 
 #: stringdump_steam_0_50_06_sorted_by_xrefs.txt:2488
 msgid "Chief Medical Dwarf"
@@ -10206,24 +10327,32 @@ msgid ""
 "You will need to assign a [C:5:0:0]Doctor[C:7:0:0] to the "
 "[C:1:0:1]Hospital[C:7:0:0] from the [C:5:0:1]Hospital Info Menu[C:7:0:0]. "
 msgstr ""
+"You will need to assign a [C:5:0:0]Doctor[C:7:0:0] to the "
+"[C:1:0:1]Hospital[C:7:0:0] from the [C:5:0:1]Hospital Info Menu[C:7:0:0]. "
 
 #: stringdump_steam_0_50_06_sorted_by_xrefs.txt:2491
 msgid ""
 "Later you can assign [C:5:0:0]Doctors[C:7:0:0] to specific roles such as the"
 " [C:5:0:0]Diagnostician[C:7:0:0]. "
 msgstr ""
+"Later you can assign [C:5:0:0]Doctors[C:7:0:0] to specific roles such as the"
+" [C:5:0:0]Diagnostician[C:7:0:0]. "
 
 #: stringdump_steam_0_50_06_sorted_by_xrefs.txt:2492
 msgid ""
 "The [C:5:0:0]Doctor[C:7:0:0] will need a [C:6:0:0]Table[C:7:0:0] to perform "
 "surgeries.  Some injuries will require "
 msgstr ""
+"The [C:5:0:0]Doctor[C:7:0:0] will need a [C:6:0:0]Table[C:7:0:0] to perform "
+"surgeries.  Some injuries will require "
 
 #: stringdump_steam_0_50_06_sorted_by_xrefs.txt:2493
 msgid ""
 "[C:6:0:0]Traction Benches[C:7:0:0] which can be built at the "
 "[C:6:0:0]Mechanic's Shop[C:7:0:0]."
 msgstr ""
+"[C:6:0:0]Traction Benches[C:7:0:0] which can be built at the "
+"[C:6:0:0]Mechanic's Shop[C:7:0:0]."
 
 #: stringdump_steam_0_50_06_sorted_by_xrefs.txt:2494
 msgid "[C:7:0:1]Libraries[C:7:0:0]"
@@ -10234,6 +10363,8 @@ msgid ""
 "The thirst for knowledge some residents have can be satisfied at the "
 "[C:1:0:1]Library[C:7:0:0]. "
 msgstr ""
+"The thirst for knowledge some residents have can be satisfied at the "
+"[C:1:0:1]Library[C:7:0:0]. "
 
 #: stringdump_steam_0_50_06_sorted_by_xrefs.txt:2496
 msgid ""
@@ -10241,18 +10372,25 @@ msgid ""
 "[C:5:0:0]Scholars[C:7:0:0] who discuss their interests with the inhabitants,"
 " "
 msgstr ""
+"From the [C:5:0:1]Library Info Menu[C:7:0:0] you can assign "
+"[C:5:0:0]Scholars[C:7:0:0] who discuss their interests with the inhabitants,"
+" "
 
 #: stringdump_steam_0_50_06_sorted_by_xrefs.txt:2497
 msgid ""
 "and [C:5:0:0]Scribes[C:7:0:0] to record them. Beware!  Some knowledge is "
 "dangerous."
 msgstr ""
+"and [C:5:0:0]Scribes[C:7:0:0] to record them. Beware!  Some knowledge is "
+"dangerous."
 
 #: stringdump_steam_0_50_06_sorted_by_xrefs.txt:2498
 msgid ""
 "In order to hold [C:6:0:1]Scrolls[C:7:0:0] and [C:6:0:1]Codices[C:7:0:0] you"
 " will need [C:6:0:0]Bookcases[C:7:0:0].  You will also need "
 msgstr ""
+"In order to hold [C:6:0:1]Scrolls[C:7:0:0] and [C:6:0:1]Codices[C:7:0:0] you"
+" will need [C:6:0:0]Bookcases[C:7:0:0].  You will also need "
 
 #: stringdump_steam_0_50_06_sorted_by_xrefs.txt:2499
 msgid ""
@@ -10260,12 +10398,17 @@ msgid ""
 "[C:6:0:0]Chests[C:7:0:0] or [C:6:0:0]Coffers[C:7:0:0] are needed to store "
 "the "
 msgstr ""
+"[C:6:0:0]Tables[C:7:0:0] for your [C:5:0:0]Scribes[C:7:0:0] to work on.  "
+"[C:6:0:0]Chests[C:7:0:0] or [C:6:0:0]Coffers[C:7:0:0] are needed to store "
+"the "
 
 #: stringdump_steam_0_50_06_sorted_by_xrefs.txt:2500
 msgid ""
 "[C:6:0:1]Writing Material[C:7:0:0] for the [C:5:0:0]Scribes[C:7:0:0] to "
 "write on. "
 msgstr ""
+"[C:6:0:1]Writing Material[C:7:0:0] for the [C:5:0:0]Scribes[C:7:0:0] to "
+"write on. "
 
 #: stringdump_steam_0_50_06_sorted_by_xrefs.txt:2501
 msgid "[C:7:0:1]Guildhalls[C:7:0:0]"
@@ -10276,12 +10419,16 @@ msgid ""
 "[C:1:0:1]Guildhalls[C:7:0:0] are where the workers of specific professions "
 "gather to socialize and share their knowledge. "
 msgstr ""
+"[C:1:0:1]Guildhalls[C:7:0:0] are where the workers of specific professions "
+"gather to socialize and share their knowledge. "
 
 #: stringdump_steam_0_50_06_sorted_by_xrefs.txt:2503
 msgid ""
 "When deciding which guild to dedicate the [C:1:0:1]Guildhall[C:7:0:0] to, "
 "you can scroll over the names of the guilds "
 msgstr ""
+"When deciding which guild to dedicate the [C:1:0:1]Guildhall[C:7:0:0] to, "
+"you can scroll over the names of the guilds "
 
 #: stringdump_steam_0_50_06_sorted_by_xrefs.txt:2504
 msgid ""
@@ -10294,18 +10441,24 @@ msgid ""
 "As the guild grows in power they may demand a [C:1:0:1]Guildhall[C:7:0:0] of"
 " greater value.  This can be increased by "
 msgstr ""
+"As the guild grows in power they may demand a [C:1:0:1]Guildhall[C:7:0:0] of"
+" greater value.  This can be increased by "
 
 #: stringdump_steam_0_50_06_sorted_by_xrefs.txt:2506
 msgid ""
 "decorating the hall and building [C:6:0:0]Furniture[C:7:0:0] like "
 "[C:6:0:0]Statues[C:7:0:0]."
 msgstr ""
+"decorating the hall and building [C:6:0:0]Furniture[C:7:0:0] like "
+"[C:6:0:0]Statues[C:7:0:0]."
 
 #: stringdump_steam_0_50_06_sorted_by_xrefs.txt:2507
 msgid ""
 "Before you can create a military, you must appoint a [C:5:0:0]Militia "
 "Commander[C:7:0:0] "
 msgstr ""
+"Before you can create a military, you must appoint a [C:5:0:0]Militia "
+"Commander[C:7:0:0] "
 
 #: stringdump_steam_0_50_06_sorted_by_xrefs.txt:2508
 msgid "from the [C:5:0:1]Nobles and administrators[C:7:0:0] menu. "
@@ -10316,6 +10469,8 @@ msgid ""
 "Then from the [C:5:0:1]Squad[C:7:0:0] menu you can assign your first squad, "
 "led by the [C:5:0:0]Commander[C:7:0:0].  First you must "
 msgstr ""
+"Then from the [C:5:0:1]Squad[C:7:0:0] menu you can assign your first squad, "
+"led by the [C:5:0:0]Commander[C:7:0:0].  First you must "
 
 #: stringdump_steam_0_50_06_sorted_by_xrefs.txt:2510
 msgid "assign the uniform.  A new uniform can be assigned later. "
@@ -10339,12 +10494,16 @@ msgid ""
 "are the checkmark to select the squad to give orders and the "
 "[C:5:0:1]Position[C:7:0:0] button to add more soldiers to the squad. "
 msgstr ""
+"are the checkmark to select the squad to give orders and the "
+"[C:5:0:1]Position[C:7:0:0] button to add more soldiers to the squad. "
 
 #: stringdump_steam_0_50_06_sorted_by_xrefs.txt:2515
 msgid ""
 "You can give individual orders to the soldiers by selecting them with the "
 "checkmark from the [C:5:0:1]Position[C:7:0:0] menu "
 msgstr ""
+"You can give individual orders to the soldiers by selecting them with the "
+"checkmark from the [C:5:0:1]Position[C:7:0:0] menu "
 
 #: stringdump_steam_0_50_06_sorted_by_xrefs.txt:2516
 msgid "or the whole squad from the [C:5:0:1]Squad[C:7:0:0] menu. "
@@ -10356,18 +10515,25 @@ msgid ""
 "when somebody is selected.  You can make a [C:3:0:1]Kill[C:7:0:0] order and "
 "confirm it. "
 msgstr ""
+"The orders can be found at the bottom of the [C:5:0:1]Squad[C:7:0:0] menu "
+"when somebody is selected.  You can make a [C:3:0:1]Kill[C:7:0:0] order and "
+"confirm it. "
 
 #: stringdump_steam_0_50_06_sorted_by_xrefs.txt:2518
 msgid ""
 "You can make a [C:3:0:1]Station[C:7:0:0] order to have your squad stand in "
 "that position.  You can create a [C:3:0:1]Patrol Route[C:7:0:0] "
 msgstr ""
+"You can make a [C:3:0:1]Station[C:7:0:0] order to have your squad stand in "
+"that position.  You can create a [C:3:0:1]Patrol Route[C:7:0:0] "
 
 #: stringdump_steam_0_50_06_sorted_by_xrefs.txt:2519
 msgid ""
 "and assign your squads to it.  The [C:3:0:1]Defend Burrow[C:7:0:0] order "
 "gives you a list of [C:1:0:0]Burrows[C:7:0:0] (created by pressing "
 msgstr ""
+"and assign your squads to it.  The [C:3:0:1]Defend Burrow[C:7:0:0] order "
+"gives you a list of [C:1:0:0]Burrows[C:7:0:0] (created by pressing "
 
 #: stringdump_steam_0_50_06_sorted_by_xrefs.txt:2520
 msgid ""
@@ -10375,18 +10541,25 @@ msgid ""
 "[C:3:0:1]Training[C:7:0:0] order allows your soldiers to train, but you must"
 " "
 msgstr ""
+"the [C:5:0:1]Burrow[C:7:0:0] menu) for your squad to defend.  The "
+"[C:3:0:1]Training[C:7:0:0] order allows your soldiers to train, but you must"
+" "
 
 #: stringdump_steam_0_50_06_sorted_by_xrefs.txt:2521
 msgid ""
 "first assign a [C:3:0:0]Barracks[C:7:0:0] created from the "
 "[C:5:0:1]Zones[C:7:0:0] menu."
 msgstr ""
+"first assign a [C:3:0:0]Barracks[C:7:0:0] created from the "
+"[C:5:0:1]Zones[C:7:0:0] menu."
 
 #: stringdump_steam_0_50_06_sorted_by_xrefs.txt:2522
 msgid ""
 "The [C:5:0:1]Equipment[C:7:0:0] menu allows you to customize the uniforms of"
 " the selected squads. "
 msgstr ""
+"The [C:5:0:1]Equipment[C:7:0:0] menu allows you to customize the uniforms of"
+" the selected squads. "
 
 #: stringdump_steam_0_50_06_sorted_by_xrefs.txt:2523
 msgid ""
@@ -10403,6 +10576,8 @@ msgid ""
 "The [C:5:0:1]Schedule menu[C:7:0:0] is a powerful tool to give automatic "
 "orders to the selected squad. "
 msgstr ""
+"The [C:5:0:1]Schedule menu[C:7:0:0] is a powerful tool to give automatic "
+"orders to the selected squad. "
 
 #: stringdump_steam_0_50_06_sorted_by_xrefs.txt:2526
 msgid ""
@@ -10498,30 +10673,40 @@ msgid ""
 "To easily see which ramps go up or down, click the [C:5:0:1]Ramp "
 "Vision[C:7:0:0] button by the minimap."
 msgstr ""
+"To easily see which ramps go up or down, click the [C:5:0:1]Ramp "
+"Vision[C:7:0:0] button by the minimap."
 
 #: stringdump_steam_0_50_06_sorted_by_xrefs.txt:2543
 msgid ""
 "As your dwarves live and work in your fortress they will generate "
 "[C:6:0:1]Refuse[C:7:0:0]. "
 msgstr ""
+"As your dwarves live and work in your fortress they will generate "
+"[C:6:0:1]Refuse[C:7:0:0]. "
 
 #: stringdump_steam_0_50_06_sorted_by_xrefs.txt:2544
 msgid ""
 "This includes everything from [C:6:0:1]Bones[C:7:0:0] and other "
 "[C:6:0:1]Remains[C:7:0:0] to worn-out [C:6:0:1]Clothing[C:7:0:0]. "
 msgstr ""
+"This includes everything from [C:6:0:1]Bones[C:7:0:0] and other "
+"[C:6:0:1]Remains[C:7:0:0] to worn-out [C:6:0:1]Clothing[C:7:0:0]. "
 
 #: stringdump_steam_0_50_06_sorted_by_xrefs.txt:2545
 msgid ""
 "You can gather the [C:6:0:1]Refuse[C:7:0:0] in a [C:6:0:0]Refuse "
 "Stockpile[C:7:0:0]. "
 msgstr ""
+"You can gather the [C:6:0:1]Refuse[C:7:0:0] in a [C:6:0:0]Refuse "
+"Stockpile[C:7:0:0]. "
 
 #: stringdump_steam_0_50_06_sorted_by_xrefs.txt:2546
 msgid ""
 "Some [C:6:0:1]Refuse[C:7:0:0] can be put to use, for instance "
 "[C:6:0:1]Shells[C:7:0:0] can be turned into [C:6:0:1]Crafts[C:7:0:0]. "
 msgstr ""
+"Some [C:6:0:1]Refuse[C:7:0:0] can be put to use, for instance "
+"[C:6:0:1]Shells[C:7:0:0] can be turned into [C:6:0:1]Crafts[C:7:0:0]. "
 
 #: stringdump_steam_0_50_06_sorted_by_xrefs.txt:2547
 msgid "Most of it will just generate foul smelling [C:0:0:1]Miasma[C:7:0:0]."
@@ -10532,12 +10717,16 @@ msgid ""
 "If your [C:6:0:0]Refuse Stockpile[C:7:0:0] starts to fill up you can create "
 "a [C:3:0:0]Dump Zone[C:7:0:0]. "
 msgstr ""
+"If your [C:6:0:0]Refuse Stockpile[C:7:0:0] starts to fill up you can create "
+"a [C:3:0:0]Dump Zone[C:7:0:0]. "
 
 #: stringdump_steam_0_50_06_sorted_by_xrefs.txt:2549
 msgid ""
 "Use the [C:5:0:1]Zones[C:7:0:0] menu to select [C:3:0:0]Garbage "
 "Dump[C:7:0:0] and draw a rectangle over a cliff or hole and "
 msgstr ""
+"Use the [C:5:0:1]Zones[C:7:0:0] menu to select [C:3:0:0]Garbage "
+"Dump[C:7:0:0] and draw a rectangle over a cliff or hole and "
 
 #: stringdump_steam_0_50_06_sorted_by_xrefs.txt:2550
 msgid "then designate [C:6:0:1]Items[C:7:0:0] for [C:3:0:1]Dumping[C:7:0:0]. "
@@ -10548,6 +10737,8 @@ msgid ""
 "This can be done either from the [C:5:0:1]Item's Info Sheet[C:7:0:0] or by "
 "dragging a rectangle over everything "
 msgstr ""
+"This can be done either from the [C:5:0:1]Item's Info Sheet[C:7:0:0] or by "
+"dragging a rectangle over everything "
 
 #: stringdump_steam_0_50_06_sorted_by_xrefs.txt:2552
 msgid "you want to dump using the [C:5:0:1]Dump Designation[C:7:0:0] tool."
@@ -10592,6 +10783,8 @@ msgid ""
 "Meet their needs by providing [C:3:0:0]Meeting Areas[C:7:0:0] and "
 "[C:1:0:1]Locations[C:7:0:0] for socializing, worship, and study. "
 msgstr ""
+"Meet their needs by providing [C:3:0:0]Meeting Areas[C:7:0:0] and "
+"[C:1:0:1]Locations[C:7:0:0] for socializing, worship, and study. "
 
 #: stringdump_steam_0_50_06_sorted_by_xrefs.txt:2562
 msgid "Monitor their thoughts to identify problems that you can solve."
