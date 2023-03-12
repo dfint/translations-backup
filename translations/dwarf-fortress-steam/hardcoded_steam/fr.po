@@ -6,15 +6,15 @@
 # LXE76 <etienne.laperdrix@free.fr>, 2022
 # Romain Lamour, 2022
 # Jérémi Duarte, 2022
-# J. Bat., 2023
 # Mamard, 2023
 # Tony Giraud, 2023
 # bret17, 2023
 # Transifex Bot <>, 2023
+# J. Bat., 2023
 # 
 msgid ""
 msgstr ""
-"Last-Translator: Transifex Bot <>, 2023\n"
+"Last-Translator: J. Bat., 2023\n"
 "Language-Team: French (https://www.transifex.com/dwarf-fortress-translation/teams/22396/fr/)\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -1771,7 +1771,7 @@ msgstr "Indépendant"
 
 #: stringdump_steam_0_50_06_sorted_by_xrefs.txt:490
 msgid "No team/side"
-msgstr ""
+msgstr "Pas d'équipe/de camp"
 
 #: stringdump_steam_0_50_06_sorted_by_xrefs.txt:491
 msgid "Side #"
@@ -1783,11 +1783,11 @@ msgstr "Créer"
 
 #: stringdump_steam_0_50_06_sorted_by_xrefs.txt:493
 msgid "Reset"
-msgstr ""
+msgstr "Réinitialiser"
 
 #: stringdump_steam_0_50_06_sorted_by_xrefs.txt:494
 msgid "Conditions"
-msgstr ""
+msgstr "Conditions"
 
 #: stringdump_steam_0_50_06_sorted_by_xrefs.txt:495
 msgid "Equipment"
@@ -1803,7 +1803,7 @@ msgstr "Créature"
 
 #: stringdump_steam_0_50_06_sorted_by_xrefs.txt:498
 msgid "Tame/mountable"
-msgstr ""
+msgstr "Apprivoisable/montable"
 
 #: stringdump_steam_0_50_06_sorted_by_xrefs.txt:499
 msgid "Not"
@@ -1819,47 +1819,47 @@ msgstr ""
 
 #: stringdump_steam_0_50_06_sorted_by_xrefs.txt:501
 msgid " year"
-msgstr ""
+msgstr "an"
 
 #: stringdump_steam_0_50_06_sorted_by_xrefs.txt:502
 msgid "Set the weather, temperature, and time."
-msgstr ""
+msgstr "Régler la météo, la température et l'heure."
 
 #: stringdump_steam_0_50_06_sorted_by_xrefs.txt:503
 msgid "No cumulus clouds"
-msgstr ""
+msgstr "Pas de nuages cumulus"
 
 #: stringdump_steam_0_50_06_sorted_by_xrefs.txt:504
 msgid "Scattered cumulus"
-msgstr ""
+msgstr "Cumulus épars"
 
 #: stringdump_steam_0_50_06_sorted_by_xrefs.txt:505
 msgid "Many cumulus (rain)"
-msgstr ""
+msgstr "Nombreux cumulus (pluie)"
 
 #: stringdump_steam_0_50_06_sorted_by_xrefs.txt:506
 msgid "Cumulonimbus (rain)"
-msgstr ""
+msgstr "Cumulonimbus (pluie)"
 
 #: stringdump_steam_0_50_06_sorted_by_xrefs.txt:507
 msgid "Cirrus"
-msgstr ""
+msgstr "Cirrus"
 
 #: stringdump_steam_0_50_06_sorted_by_xrefs.txt:508
 msgid "No stratus"
-msgstr ""
+msgstr "Pas de stratus"
 
 #: stringdump_steam_0_50_06_sorted_by_xrefs.txt:509
 msgid "Altostratus"
-msgstr ""
+msgstr "Altostratus"
 
 #: stringdump_steam_0_50_06_sorted_by_xrefs.txt:510
 msgid "Stratus (rain)"
-msgstr ""
+msgstr "Stratus (pluie)"
 
 #: stringdump_steam_0_50_06_sorted_by_xrefs.txt:511
 msgid "Nimbostratus (rain)"
-msgstr ""
+msgstr "Nimbostratus (pluie)"
 
 #: stringdump_steam_0_50_06_sorted_by_xrefs.txt:512
 msgid "No fog"
@@ -1867,7 +1867,7 @@ msgstr "Pas de brouillard"
 
 #: stringdump_steam_0_50_06_sorted_by_xrefs.txt:513
 msgid "Thin mist"
-msgstr ""
+msgstr "Brouillard fin"
 
 #: stringdump_steam_0_50_06_sorted_by_xrefs.txt:514
 msgid "Fog"
@@ -1875,7 +1875,7 @@ msgstr "Brouillard"
 
 #: stringdump_steam_0_50_06_sorted_by_xrefs.txt:515
 msgid "Thick fog"
-msgstr ""
+msgstr "Brouillard épais"
 
 #: stringdump_steam_0_50_06_sorted_by_xrefs.txt:516
 msgid "Dragonfire"
@@ -1895,7 +1895,7 @@ msgstr "Chaud"
 
 #: stringdump_steam_0_50_06_sorted_by_xrefs.txt:520
 msgid "Subterranean"
-msgstr ""
+msgstr "Sous-terre"
 
 #: stringdump_steam_0_50_06_sorted_by_xrefs.txt:521
 msgid "Below freezing"
@@ -10103,7 +10103,7 @@ msgid ""
 "Note that if you have a [C:5:0:0]Broker[C:7:0:0] the value of each good with"
 " be shown if their skill is high enough."
 msgstr ""
-"Notez que si vous avez un [C:5:0:0]Broker[C:7:0:0], la valeur de chaque "
+"Notez que si vous avez un [C:5:0:0]Courtier[C:7:0:0], la valeur de chaque "
 "marchandise sera affichée si sa compétence est suffisamment élevée."
 
 #: stringdump_steam_0_50_06_sorted_by_xrefs.txt:2416
