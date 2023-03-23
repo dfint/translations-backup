@@ -4,10 +4,11 @@
 # Kewar Cz, 2022
 # Zdenek Galus <zgalus@centrum.cz>, 2022
 # Lukáš Bednařík, 2023
+# Alexandr Richtr, 2023
 # 
 msgid ""
 msgstr ""
-"Last-Translator: Lukáš Bednařík, 2023\n"
+"Last-Translator: Alexandr Richtr, 2023\n"
 "Language-Team: Czech (https://www.transifex.com/dwarf-fortress-translation/teams/22396/cs/)\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -5342,12 +5343,12 @@ msgstr "[CV_NEW_TAG:ATTACK_VERB:bodout:bodne]"
 #: c_variation_default.txt:559
 msgctxt "CREATURE_VARIATION:PINCER_ATTACK"
 msgid "[CV_NEW_TAG:ATTACK_VERB:snatch:snatches]"
-msgstr ""
+msgstr "[CV_NEW_TAG:ATTACK_VERB:popadnout:popadat]"
 
 #: c_variation_default.txt:571
 msgctxt "CREATURE_VARIATION:ARM_LOWER_SNATCH_ATTACK"
 msgid "[CV_NEW_TAG:ATTACK_VERB:snatch:snatches]"
-msgstr ""
+msgstr "[CV_NEW_TAG:ATTACK_VERB:popadnout:popadat]"
 
 #: c_variation_default.txt:631
 msgctxt "CREATURE_VARIATION:STANDARD_BIPED_GAITS"
@@ -5407,57 +5408,57 @@ msgstr "[CV_NEW_TAG:GAIT:WALK:Procházka:]"
 #: c_variation_default.txt:644
 msgctxt "CREATURE_VARIATION:STANDARD_QUADRUPED_GAITS"
 msgid "[CV_NEW_TAG:GAIT:WALK:Creep:]"
-msgstr ""
+msgstr "[CV_NEW_TAG:GAIT:WALK:Plížení:]"
 
 #: c_variation_default.txt:647
 msgctxt "CREATURE_VARIATION:STANDARD_WALKING_GAITS"
 msgid "[CV_NEW_TAG:GAIT:WALK:Fastest Walk:]"
-msgstr ""
+msgstr "[CV_NEW_TAG:GAIT:WALK:Rychlá chůze:]"
 
 #: c_variation_default.txt:648
 msgctxt "CREATURE_VARIATION:STANDARD_WALKING_GAITS"
 msgid "[CV_NEW_TAG:GAIT:WALK:Faster Walk:]"
-msgstr ""
+msgstr "[CV_NEW_TAG:GAIT:WALK:Rychlá chůze:]"
 
 #: c_variation_default.txt:649
 msgctxt "CREATURE_VARIATION:STANDARD_WALKING_GAITS"
 msgid "[CV_NEW_TAG:GAIT:WALK:Fast Walk:]"
-msgstr ""
+msgstr "[CV_NEW_TAG:GAIT:WALK:Svižná chůze:]"
 
 #: c_variation_default.txt:650
 msgctxt "CREATURE_VARIATION:STANDARD_WALKING_GAITS"
 msgid "[CV_NEW_TAG:GAIT:WALK:Walk:]"
-msgstr ""
+msgstr "[CV_NEW_TAG:GAIT:WALK:Chůze:]"
 
 #: c_variation_default.txt:651
 msgctxt "CREATURE_VARIATION:STANDARD_WALKING_GAITS"
 msgid "[CV_NEW_TAG:GAIT:WALK:Slow Walk:]"
-msgstr ""
+msgstr "[CV_NEW_TAG:GAIT:WALK:Pomalá chůze:]"
 
 #: c_variation_default.txt:652
 msgctxt "CREATURE_VARIATION:STANDARD_WALKING_GAITS"
 msgid "[CV_NEW_TAG:GAIT:WALK:Slowest Walk:]"
-msgstr ""
+msgstr "[CV_NEW_TAG:GAIT:WALK:Pomalejší chůze:]"
 
 #: c_variation_default.txt:655
 msgctxt "CREATURE_VARIATION:STANDARD_CLIMBING_GAITS"
 msgid "[CV_NEW_TAG:GAIT:CLIMB:Scramble:]"
-msgstr ""
+msgstr "[CV_NEW_TAG:GAIT:CLIMB:Škrábat se:]"
 
 #: c_variation_default.txt:656
 msgctxt "CREATURE_VARIATION:STANDARD_CLIMBING_GAITS"
 msgid "[CV_NEW_TAG:GAIT:CLIMB:Faster Climb:]"
-msgstr ""
+msgstr "[CV_NEW_TAG:GAIT:CLIMB:Lést rychle:]"
 
 #: c_variation_default.txt:657
 msgctxt "CREATURE_VARIATION:STANDARD_CLIMBING_GAITS"
 msgid "[CV_NEW_TAG:GAIT:CLIMB:Fast Climb:]"
-msgstr ""
+msgstr "[CV_NEW_TAG:GAIT:CLIMB:Lést rychleji:]"
 
 #: c_variation_default.txt:658
 msgctxt "CREATURE_VARIATION:STANDARD_CLIMBING_GAITS"
 msgid "[CV_NEW_TAG:GAIT:CLIMB:Climb:]"
-msgstr ""
+msgstr "[CV_NEW_TAG:GAIT:CLIMB:Vylést:]"
 
 #: c_variation_default.txt:659
 msgctxt "CREATURE_VARIATION:STANDARD_CLIMBING_GAITS"
@@ -5487,7 +5488,7 @@ msgstr ""
 #: c_variation_default.txt:666
 msgctxt "CREATURE_VARIATION:STANDARD_SWIMMING_GAITS"
 msgid "[CV_NEW_TAG:GAIT:SWIM:Swim:]"
-msgstr ""
+msgstr "[CV_NEW_TAG:GAIT:SWIM:Plavat:]"
 
 #: c_variation_default.txt:667
 msgctxt "CREATURE_VARIATION:STANDARD_SWIMMING_GAITS"
@@ -5517,7 +5518,7 @@ msgstr ""
 #: c_variation_default.txt:674
 msgctxt "CREATURE_VARIATION:STANDARD_CRAWLING_GAITS"
 msgid "[CV_NEW_TAG:GAIT:CRAWL:Crawl:]"
-msgstr ""
+msgstr "[CV_NEW_TAG:GAIT:CRAWL:Plazení:]"
 
 #: c_variation_default.txt:675
 msgctxt "CREATURE_VARIATION:STANDARD_CRAWLING_GAITS"
@@ -5527,7 +5528,7 @@ msgstr ""
 #: c_variation_default.txt:676
 msgctxt "CREATURE_VARIATION:STANDARD_CRAWLING_GAITS"
 msgid "[CV_NEW_TAG:GAIT:CRAWL:Creep:]"
-msgstr ""
+msgstr "[CV_NEW_TAG:GAIT:CRAWL:Plížení:]"
 
 #: c_variation_default.txt:679
 msgctxt "CREATURE_VARIATION:STANDARD_FLYING_GAITS"
@@ -5595,21 +5596,23 @@ msgid ""
 "[DESCRIPTION:A squat amphibian with leathery skin, found in relatively dry "
 "areas.]"
 msgstr ""
+"[DESCRIPTION:Zavalitý obojživelník s kožovitou kůží, vyskytující se v "
+"relativně suchých oblastech.]"
 
 #: creature_amphibians.txt:7
 msgctxt "CREATURE:TOAD"
 msgid "[NAME:toad:toads:toad]"
-msgstr ""
+msgstr "[NAME:ropucha:ropuchy:ropucha]"
 
 #: creature_amphibians.txt:8
 msgctxt "CREATURE:TOAD"
 msgid "[CASTE_NAME:toad:toads:toad]"
-msgstr ""
+msgstr "[CASTE_NAME:ropucha:ropuchy:ropucha]"
 
 #: creature_amphibians.txt:17
 msgctxt "CREATURE:TOAD"
 msgid "[PREFSTRING:beauty]"
-msgstr ""
+msgstr "[PREFSTRING:krása]"
 
 #: creature_amphibians.txt:51
 msgctxt "CREATURE:TOAD"
@@ -5624,12 +5627,12 @@ msgstr ""
 #: creature_amphibians.txt:68
 msgctxt "CREATURE:TOAD"
 msgid "[TLCM_NOUN:eyes:PLURAL]"
-msgstr ""
+msgstr "[TLCM_NOUN:oči:PLURAL]"
 
 #: creature_amphibians.txt:75
 msgctxt "CREATURE:TOAD_MAN"
 msgid "[CASTE_NAME:toad man:toad men:toad man]"
-msgstr ""
+msgstr "[CASTE_NAME:ropušák:ropušáci:ropušák]"
 
 #: creature_amphibians.txt:77
 msgctxt "CREATURE:TOAD_MAN"
@@ -5639,12 +5642,12 @@ msgstr ""
 #: creature_amphibians.txt:87
 msgctxt "CREATURE:TOAD_MAN"
 msgid "[NAME:toad man:toad men:toad man]"
-msgstr ""
+msgstr "[NAME:ropušák:ropušáci:ropušák]"
 
 #: creature_amphibians.txt:88
 msgctxt "CREATURE:TOAD_MAN"
 msgid "[DESCRIPTION:A dark green man with the distinct head of a toad.]"
-msgstr ""
+msgstr "[DESCRIPTION:Tmavě zelený muž s hlavou ropuchy.]"
 
 #: creature_amphibians.txt:104
 msgctxt "CREATURE:GIANT_TOAD"
