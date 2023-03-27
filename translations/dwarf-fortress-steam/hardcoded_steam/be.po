@@ -2,13 +2,13 @@
 # Translators:
 # insolor, 2022
 # Dmitry Shashko, 2022
-# Mark HRY, 2023
 # Balasłaŭ Niekraševič <b.niekrashevich@gmail.com>, 2023
 # Transifex Bot <>, 2023
+# Mark, 2023
 # 
 msgid ""
 msgstr ""
-"Last-Translator: Transifex Bot <>, 2023\n"
+"Last-Translator: Mark, 2023\n"
 "Language-Team: Belarusian (https://www.transifex.com/dwarf-fortress-translation/teams/22396/be/)\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -8710,8 +8710,8 @@ msgid ""
 " highlighted [C:5:0:1]Build[C:7:0:0] button.  Click it now."
 msgstr ""
 "[C:6:0:0]Майстэрні[C:7:0:0] з'яўляюцца адным з многіх будынкаў, якія вы "
-"можаце размясціць з дапамогай вылучанай кнопкі [C:5:0:1]Пабудаваць[C:7:0:0]."
-" Націсніце яе."
+"можаце размясціць з дапамогай вылучанай кнопкі [C:5:0:1]Будаваць[C:7:0:0]. "
+"Націсніце яе."
 
 #: stringdump_steam_0_50_06_sorted_by_xrefs.txt:2229
 msgid ""
@@ -9735,7 +9735,7 @@ msgstr ""
 
 #: stringdump_steam_0_50_06_sorted_by_xrefs.txt:2376
 msgid "Justice"
-msgstr ""
+msgstr "Правасуддзе"
 
 #: stringdump_steam_0_50_06_sorted_by_xrefs.txt:2377
 msgid ""
@@ -9743,6 +9743,9 @@ msgid ""
 " or [C:5:0:0]Captain of the Guard[C:7:0:0], witnesses of crimes will make "
 "reports, which find their way here. "
 msgstr ""
+"Калі ў вас ёсць кіраўнік праваахоўных ворганаў, напрыклад "
+"[C:5:0:0]Шэрыф[C:7:0:0] або [C:5:0:0]Капітан гвардыі[C:7:0:0], сведкі "
+"злачынстваў будуць паведамляць каб дапамагчы."
 
 #: stringdump_steam_0_50_06_sorted_by_xrefs.txt:2378
 msgid ""
@@ -9760,17 +9763,19 @@ msgstr "Вам вырашаць, каго асудзіць."
 
 #: stringdump_steam_0_50_06_sorted_by_xrefs.txt:2380
 msgid "All available witness information is presented for each case. "
-msgstr ""
+msgstr "Па кожным выпадку прадстаўлена ўся наяўная інфармацыя сведак."
 
 #: stringdump_steam_0_50_06_sorted_by_xrefs.txt:2381
 msgid "You can also interrogate suspects. "
-msgstr ""
+msgstr "Вы можаце дапытваць падазроных."
 
 #: stringdump_steam_0_50_06_sorted_by_xrefs.txt:2382
 msgid ""
 "This is particularly important for schemes where the witnesses might not "
 "have the full story."
 msgstr ""
+"Гэта асабліва важна для справаў, калі сведкі могуць не ведаць поўнай "
+"гісторыі."
 
 #: stringdump_steam_0_50_06_sorted_by_xrefs.txt:2383
 msgid ""
@@ -9778,6 +9783,9 @@ msgid ""
 "[C:6:0:0]Chains[C:7:0:0] and assign them to a [C:3:0:0]Dungeon[C:7:0:0] "
 "zone. "
 msgstr ""
+"Рэкамендуецца размясціць пэўную колькасць [C:6:0:0]Клетак[C:7:0:0] і "
+"[C:6:0:0]Ланцугоў[C:7:0:0] і прызначыць іх у зону[C:3:0:0]Падзямелля[C:7:0:0"
+" ]."
 
 #: stringdump_steam_0_50_06_sorted_by_xrefs.txt:2384
 msgid ""
@@ -9829,41 +9837,52 @@ msgstr "Вы паняцця не маеце, хто там хаваецца."
 
 #: stringdump_steam_0_50_06_sorted_by_xrefs.txt:2392
 msgid "The World"
-msgstr ""
+msgstr "Свет"
 
 #: stringdump_steam_0_50_06_sorted_by_xrefs.txt:2393
 msgid ""
 "The world created at the beginning of the game is active, and others may "
 "take an interest in your outpost as it grows. "
 msgstr ""
+"Свет, створаны ў пачатку гульні - актыўны, і іншыя могуць зацікавіцца вашай "
+"заставай па меры яе росту."
 
 #: stringdump_steam_0_50_06_sorted_by_xrefs.txt:2394
 msgid ""
 "Stolen [C:6:0:1]Artifacts[C:7:0:0] and kidnapped citizens can be recovered "
 "by preparing missions from this screen. "
 msgstr ""
+"Выкрадзеныя [C:6:0:1]Артэфакты[C:7:0:0] і грамадзяне могуць быць вернутыя, "
+"рыхтуючы місіі з гэтага экрана."
 
 #: stringdump_steam_0_50_06_sorted_by_xrefs.txt:2395
 msgid "You can also cause trouble if you'd like to raid your neighbors. "
 msgstr ""
+"Вы можаце быць нагодай бяды, калі вырашыце здзейсніць напад на суседзяў."
 
 #: stringdump_steam_0_50_06_sorted_by_xrefs.txt:2396
 msgid ""
 "Raids are created by clicking on any site not belonging to your "
 "civilization."
 msgstr ""
+"Рэйды ствараюцца націскам на любое месца, якое не належыць вашай "
+"цывілізацыі."
 
 #: stringdump_steam_0_50_06_sorted_by_xrefs.txt:2397
 msgid ""
 "Work orders are used to automate [C:3:0:1]Tasks[C:7:0:0] in "
 "[C:6:0:0]Workshops[C:7:0:0]. "
 msgstr ""
+"Працоўныя замовы выкарыстоўваюцца для аўтаматызацыі "
+"[C:3:0:1]Загадаў[C:7:0:0] у [C:6:0:0]Майстэрнях[C:7:0:0]."
 
 #: stringdump_steam_0_50_06_sorted_by_xrefs.txt:2398
 msgid ""
 "These work orders are set to complete a certain number of "
 "[C:3:0:1]Tasks[C:7:0:0] and can be given start conditions."
 msgstr ""
+"Гэтыя працоўныя замовы накіраваныя на выкананне пэўнай колькасці "
+"[C:3:0:1]Загадаў[C:7:0:0]. Для іх магчыма вызначыць умовы старту працы."
 
 #: stringdump_steam_0_50_06_sorted_by_xrefs.txt:2399
 msgid ""
@@ -9871,28 +9890,39 @@ msgid ""
 "if you are out of empty ones, to [C:3:0:1]Brew Drinks[C:7:0:0] if you are "
 "running low, or to [C:3:0:1]Make Five Statues[C:7:0:0] every month."
 msgstr ""
+"Напрыклад, вы можаце замовіць [C:3:0:1]Стварыць драўляныя бочкі[C:7:0:0], "
+"калі ў вас скончыліся пустыя, [C:3:0:1]Варыць напоі[C:7:0:0] калі напояў "
+"вобмаль, або [C:3:0:1]Зрабіць пяць статуй[C:7:0:0] кожны месяц."
 
 #: stringdump_steam_0_50_06_sorted_by_xrefs.txt:2400
 msgid "You can limit work orders to a number of [C:6:0:0]Workshops[C:7:0:0]. "
 msgstr ""
+"Вы можаце абмежаваць працоўныя замовы колькасцю "
+"[C:6:0:0]Майстэрняў[C:7:0:0]."
 
 #: stringdump_steam_0_50_06_sorted_by_xrefs.txt:2401
 msgid ""
 "You can also create work orders at specific [C:6:0:0]Workshops[C:7:0:0] from"
 " their building sheet. "
 msgstr ""
+"Таксама можна ствараць працоўныя замовы ў пэўных "
+"[C:6:0:0]Майстэрнях[C:7:0:0] з іх будаўнічага ліста."
 
 #: stringdump_steam_0_50_06_sorted_by_xrefs.txt:2402
 msgid ""
 "The system is reasonably powerful and you can eventually automate almost all"
 " of your production if you wish."
 msgstr ""
+"Сістэма досыць магутная, і пры жаданні вы можаце аўтаматызаваць амаль усю "
+"сваю вытворчасць."
 
 #: stringdump_steam_0_50_06_sorted_by_xrefs.txt:2403
 msgid ""
 "If you find that your stockpiles are filling up too fast, you can create "
 "room by building [C:6:0:1]Bins[C:7:0:0], "
 msgstr ""
+"Калі вы выявіце, што вашы запасы запаўняюцца занадта хутка, вы можаце "
+"апаражніць месца, стварыўшы [C:6:0:1]Скрынкі[C:7:0:0],"
 
 #: stringdump_steam_0_50_06_sorted_by_xrefs.txt:2404
 msgid ""
@@ -9900,6 +9930,9 @@ msgid ""
 "[C:6:0:1]Barrels[C:7:0:0] are used to store [C:6:0:1]Food[C:7:0:0].  "
 "[C:6:0:1]Bags[C:7:0:0] are used to store [C:6:0:1]Seeds[C:7:0:0] "
 msgstr ""
+"[C:6:0:1]Бочкі[C:7:0:0] і [C:6:0:1]Мяшкі[C:7:0:0]. [C:6:0:1]Бочкі[C:7:0:0] "
+"выкарыстоўваюцца для захоўвання [C:6:0:1]Ежы[C:7:0:0]. "
+"[C:6:0:1]Мяшкі[C:7:0:0] - для захоўвання [C:6:0:1]Насення[C:7:0:0]"
 
 #: stringdump_steam_0_50_06_sorted_by_xrefs.txt:2405
 msgid ""
@@ -9907,6 +9940,10 @@ msgid ""
 " hold just about everything else except [C:6:0:1]Furniture[C:7:0:0], "
 "[C:6:0:1]Wood[C:7:0:0] and [C:6:0:1]Boulders[C:7:0:0]. "
 msgstr ""
+"(і некаторыя іншыя рэчы, такія як [C:6:0:1]Пясок[C:7:0:0]). "
+"[C:6:0:1]Скрынкі[C:7:0:0] змяшчаюць практычна ўсё астатняе, акрамя "
+"[C:6:0:1]Мэблі[C:7:0:0], [C:6:0:1]Дрэва[C:7:0:0] і "
+"[C:6:0:1]Валуноў[C:7:0:0]."
 
 #: stringdump_steam_0_50_06_sorted_by_xrefs.txt:2406
 msgid ""
@@ -9914,6 +9951,9 @@ msgid ""
 "lightweight [C:6:0:1]Bins[C:7:0:0] and [C:6:0:1]Barrels[C:7:0:0], but they "
 "can also be made at "
 msgstr ""
+"[C:6:0:0]Цеслярская майстэрня[C:7:0:0] з'яўляецца лепшым месцам для вырабу "
+"лёгкіх [C:6:0:1]Скрынак[C:7:0:0] і [C:6:0:1]Бочак[C:7:0:0], але яны могуць "
+"таксама быць выраблены ў"
 
 #: stringdump_steam_0_50_06_sorted_by_xrefs.txt:2407
 msgid ""
@@ -9921,18 +9961,25 @@ msgid ""
 "Forge[C:7:0:0].  [C:6:0:1]Bags[C:7:0:0] are created at the "
 "[C:6:0:0]Clothier's Shop[C:7:0:0] or the [C:6:0:0]Leatherworks[C:7:0:0]."
 msgstr ""
+"[C:6:0:0]Мулярнай майстэрні[C:7:0:0] і [C:6:0:0]Печы каваля[C:7:0:0]. "
+"[C:6:0:1]Мяшкі[C:7:0:0] ствараюцца ў [C:6:0:0]Лаўцы краўца[C:7:0:0] або "
+"[C:6:0:0]Гарбара[C:7:0:0]."
 
 #: stringdump_steam_0_50_06_sorted_by_xrefs.txt:2408
 msgid ""
 "When the caravan arrives at the [C:6:0:0]Trade Depot[C:7:0:0], you must "
 "click on the depot and select [C:5:0:1]\"Bring Goods to Depot\"[C:7:0:0]. "
 msgstr ""
+"Калі караван прыбывае ў [C:6:0:0]Гандлёвае дэпо[C:7:0:0], вы павінны "
+"націснуць на дэпо і выбраць [C:5:0:1]\"Перанесці тавары ў дэпо\"[C:7:0:0]."
 
 #: stringdump_steam_0_50_06_sorted_by_xrefs.txt:2409
 msgid ""
 "Here you can select which goods you wish to trade.  After everyone has "
 "brought their goods you can "
 msgstr ""
+"Тут вы можаце выбраць, якімі таварамі гандляваць. Пасля таго, як усе тавары "
+"перанесены, вы можаце"
 
 #: stringdump_steam_0_50_06_sorted_by_xrefs.txt:2410
 msgid ""
@@ -9940,58 +9987,77 @@ msgid ""
 "[C:5:0:0]Broker[C:7:0:0], just select [C:5:0:1]\"Anyone can "
 "Trade\"[C:7:0:0].  You cannot trade "
 msgstr ""
+"выбраць [C:5:0:1]\"Гандаль\"[C:7:0:0]. Не хвалюйцеся, калі ў вас няма "
+"[C:5:0:0]Брокера[C:7:0:0], проста выберыце [C:5:0:1]\"Можа гандляваць "
+"любы\"[C:7:0:0]. Вы не можаце гандляваць"
 
 #: stringdump_steam_0_50_06_sorted_by_xrefs.txt:2411
 msgid ""
 "until your [C:5:0:0]Broker[C:7:0:0] or another resident arrives at the "
 "depot."
 msgstr ""
+"пакуль ваш [C:5:0:0]Брокер[C:7:0:0] або іншы жыхар не прыбудзе ў дэпо."
 
 #: stringdump_steam_0_50_06_sorted_by_xrefs.txt:2412
 msgid ""
 "When trading you select which goods you want from the list on the left, and "
 "which goods of yours to "
 msgstr ""
+"Пры гандлі вы выбіраеце, якія тавары вы хочаце са спісу злева, і якія з "
+"вашых тавараў"
 
 #: stringdump_steam_0_50_06_sorted_by_xrefs.txt:2413
 msgid ""
 "trade from the list on the right.  Then hit [C:5:0:1]\"Trade\"[C:7:0:0].  "
 "The trader will accept if the deal is fair and "
 msgstr ""
+"прадаць - са спісу па правую руку. Потым націсніце "
+"[C:5:0:1]\"Гандаль\"[C:7:0:0]. Гандляр прыме ўгоду, калі яна будзе сумленнай"
+" і"
 
 #: stringdump_steam_0_50_06_sorted_by_xrefs.txt:2414
 msgid "they can carry away the weight of the things you are selling."
-msgstr ""
+msgstr "яны змогуць перанесці вагу рэчаў, якія вы прадаяце."
 
 #: stringdump_steam_0_50_06_sorted_by_xrefs.txt:2415
 msgid ""
 "Note that if you have a [C:5:0:0]Broker[C:7:0:0] the value of each good with"
 " be shown if their skill is high enough."
 msgstr ""
+"Звярніце ўвагу, што калі ў вас ёсць [C:5:0:0]Брокер[C:7:0:0], вартасць "
+"кожнага тавару паказваецца, калі яго навык дастаткова высокі."
 
 #: stringdump_steam_0_50_06_sorted_by_xrefs.txt:2416
 msgid ""
 "In order for some functions to be used, like work orders or bookkeeping, "
 "[C:5:0:0]Administrators[C:7:0:0] must be assigned. "
 msgstr ""
+"Для выкарыстання некаторых функцый, такіх як працоўныя замовы або "
+"бухгалтэрыя, неабходна прызначыць [C:5:0:0]Адміністратараў[C:7:0:0]."
 
 #: stringdump_steam_0_50_06_sorted_by_xrefs.txt:2417
 msgid ""
 "To do this select the [C:5:0:1]Nobles and administrators[C:7:0:0] menu and "
 "click the add button to assign somebody. "
 msgstr ""
+"Каб зрабіць гэта, адкрыйце меню [C:5:0:1]Шляхта і Адміністратары[C:7:0:0] і "
+"націсніце гузік \"Дадаць\", каб прызначыць каго-небудзь."
 
 #: stringdump_steam_0_50_06_sorted_by_xrefs.txt:2418
 msgid ""
 "Some [C:5:0:0]Administrators[C:7:0:0] will require [C:3:0:0]Offices[C:7:0:0]"
 " to perform their work. "
 msgstr ""
+"Некаторым [C:5:0:0]Адміністратарам[C:7:0:0] для выканання сваёй працы "
+"спатрэбіцца [C:3:0:0]Офіс[C:7:0:0]."
 
 #: stringdump_steam_0_50_06_sorted_by_xrefs.txt:2419
 msgid ""
 "You can create these with [C:5:0:1]Zones[C:7:0:0] -> "
 "[C:5:0:1]Office[C:7:0:0]. "
 msgstr ""
+"Вы можаце стварыць яго з дапамогай [C:5:0:1]Зоны[C:7:0:0] -> "
+"[C:5:0:1]Офіс[C:7:0:0]."
 
 #: stringdump_steam_0_50_06_sorted_by_xrefs.txt:2420
 msgid ""
@@ -9999,28 +10065,37 @@ msgid ""
 "[C:6:0:0]Chair[C:7:0:0], or you can paint a [C:3:0:0]Zone[C:7:0:0] and place"
 " a [C:6:0:0]Chair[C:7:0:0] later. "
 msgstr ""
+"[C:3:0:0]Зона[C:7:0:0], якую вы выбіраеце, павінна мець "
+"[C:6:0:0]Крэсла[C:7:0:0], або вы можаце намаляваць [C:3:0:0]Зону[C:7:0:0] і "
+"размясціць [C:6:0:0]Крэсла[C:7:0:0] пазней."
 
 #: stringdump_steam_0_50_06_sorted_by_xrefs.txt:2421
 msgid ""
 "Remember to assign the [C:5:0:0]Administrator[C:7:0:0] to the "
 "[C:3:0:0]Office[C:7:0:0]."
 msgstr ""
+"Не забудзьце прызначыць [C:5:0:0]Адміністратара[C:7:0:0] ў "
+"[C:3:0:0]Офіс[C:7:0:0]."
 
 #: stringdump_steam_0_50_06_sorted_by_xrefs.txt:2422
 msgid "Other nobles may appear or be assigned as "
-msgstr ""
+msgstr "Іншая шляхта можа з'явіцца або быць прызначана"
 
 #: stringdump_steam_0_50_06_sorted_by_xrefs.txt:2423
 msgid ""
 "the game progresses.  Use the [C:5:0:1]Nobles and administrators[C:7:0:0] "
 "menu to check their wants and needs."
 msgstr ""
+"цягам гульні. Выкарыстоўвайце меню [C:5:0:1]Шляхта і "
+"Адміністратары[C:7:0:0], каб праверыць іх пажаданні і патрэбы."
 
 #: stringdump_steam_0_50_06_sorted_by_xrefs.txt:2424
 msgid ""
 "In order to make [C:6:0:1]Metal Bars[C:7:0:0] for the "
 "[C:2:0:0]Metalsmith[C:7:0:0], you must smelt [C:6:0:1]Ore[C:7:0:0]. "
 msgstr ""
+"Каб зрабіць [C:6:0:1]Металічныя зліткі[C:7:0:0] для "
+"[C:2:0:0]Каваля[C:7:0:0], вы павінны выплавіць [C:6:0:1]Руду[C:7:0:0]."
 
 #: stringdump_steam_0_50_06_sorted_by_xrefs.txt:2425
 msgid ""
@@ -10028,60 +10103,76 @@ msgid ""
 "[C:5:0:1]Workshops[C:7:0:0] -> [C:5:0:1]Furnaces[C:7:0:0] -> "
 "[C:5:0:1]Smelter[C:7:0:0]. "
 msgstr ""
+"Гэта можна зрабіць у [C:6:0:0]Плавільні[C:7:0:0], якую можна знайсці ў "
+"[C:5:0:1]Майстэрні[C:7:0:0] -> [C:5:0:1]Печы[C:7:0:0] -> "
+"[C:5:0:1]Плавільня[C:7:0:0]."
 
 #: stringdump_steam_0_50_06_sorted_by_xrefs.txt:2426
 msgid "[C:6:0:1]Ore[C:7:0:0] is mined underground, below the soil layers."
-msgstr ""
+msgstr "[C:6:0:1]Руда[C:7:0:0] здабываецца пад зямлёй, ніжэй глебы."
 
 #: stringdump_steam_0_50_06_sorted_by_xrefs.txt:2427
 msgid ""
 "If you have found magma you can build a [C:6:0:0]Magma Smelter[C:7:0:0] "
 "directly over it, otherwise you need [C:6:0:1]Fuel[C:7:0:0]. "
 msgstr ""
+"Калі вы знайшлі магму, вы можаце пабудаваць [C:6:0:0]Магмаплавільню[C:7:0:0]"
+" непасрэдна над ёй, інакш вам спатрэбіцца [C:6:0:1]Паліва[C:7:0:0]."
 
 #: stringdump_steam_0_50_06_sorted_by_xrefs.txt:2428
 msgid ""
 "To get [C:6:0:1]Fuel[C:7:0:0] you need to make [C:6:0:1]Charcoal[C:7:0:0] "
 "with a [C:6:0:0]Wood Furnace[C:7:0:0], "
 msgstr ""
+"Каб атрымаць [C:6:0:1]Паліва[C:7:0:0], вам трэба зрабіць [C:6:0:1]Драўняны "
+"вугаль[C:7:0:0] з дапамогай [C:6:0:0]Дроўнай печы[C:7:0:0],"
 
 #: stringdump_steam_0_50_06_sorted_by_xrefs.txt:2429
 msgid ""
 "found at [C:5:0:1]Workshops[C:7:0:0] -> [C:5:0:1]Furnaces[C:7:0:0] -> "
 "[C:5:0:1]Wood Furnace[C:7:0:0]. "
 msgstr ""
+"якую можна знайсці ў [C:5:0:1]Майстэрні[C:7:0:0] -> [C:5:0:1]Печы[C:7:0:0] "
+"-> [C:5:0:1]Дроўная печ[C:7:0:0]."
 
 #: stringdump_steam_0_50_06_sorted_by_xrefs.txt:2430
 msgid ""
 "You may switch to other forms of [C:6:0:1]Fuel[C:7:0:0] later, such as "
 "[C:6:0:1]Coal[C:7:0:0], but you will usually "
 msgstr ""
+"Пазней вы можаце перайсці на іншыя формы [C:6:0:1]Паліва[C:7:0:0], напрыклад"
+" [C:6:0:1]Вугаль[C:7:0:0], але звычайна"
 
 #: stringdump_steam_0_50_06_sorted_by_xrefs.txt:2431
 msgid ""
 "need [C:6:0:1]Charcoal[C:7:0:0] from the [C:6:0:0]Wood Furnace[C:7:0:0] to "
 "start the process."
 msgstr ""
+"спатрэбіцца [C:6:0:1]Драўняны вугаль[C:7:0:0] з [C:6:0:0]Дроўнай "
+"печы[C:7:0:0], каб пачаць працэс."
 
 #: stringdump_steam_0_50_06_sorted_by_xrefs.txt:2432
 msgid ""
 "It is a dangerous world, and if the entrances of your fortress are left "
 "open, "
 msgstr ""
+"Гэта небяспечны свет, і калі ўваходы ў вашу крэпасць застануцца адчыненымі,"
 
 #: stringdump_steam_0_50_06_sorted_by_xrefs.txt:2433
 msgid "you can succumb to invasions. "
-msgstr ""
+msgstr "вы можаце зведаць ўварванні."
 
 #: stringdump_steam_0_50_06_sorted_by_xrefs.txt:2434
 msgid "The best way to avoid this fate is to build traps and "
-msgstr ""
+msgstr "Лепшы спосаб пазбегнуць гэтай долі - будаваць пасткі і"
 
 #: stringdump_steam_0_50_06_sorted_by_xrefs.txt:2435
 msgid ""
 "lock the ways into your fortress.  The ways to build traps are as wild as "
 "your imagination. "
 msgstr ""
+"зачыняць шляхі ў вашу крэпасць. Варыянты пабудовы пастак такія ж дзікія, як "
+"і ваша фантазія."
 
 #: stringdump_steam_0_50_06_sorted_by_xrefs.txt:2436
 msgid ""
@@ -10089,6 +10180,9 @@ msgid ""
 "Shop[C:7:0:0], using [C:5:0:1]Workshops[C:7:0:0] -> "
 "[C:5:0:1]Mechanic[C:7:0:0]. "
 msgstr ""
+"Шмат чаго патрабуе [C:6:0:1]Механізмаў[C:7:0:0], вырабленых у "
+"[C:6:0:0]Механічнай майстэрні[C:7:0:0] з выкарыстаннем "
+"[C:5:0:1]Майстэрні[C:7:0:0] -> [C:5:0: 1]Механік [C:7:0:0]."
 
 #: stringdump_steam_0_50_06_sorted_by_xrefs.txt:2437
 msgid ""
@@ -10096,6 +10190,9 @@ msgid ""
 " -> [C:5:0:1]Machines/fluids[C:7:0:0] -> [C:5:0:1]Lever[C:7:0:0] to build a "
 "[C:6:0:0]Lever[C:7:0:0]. "
 msgstr ""
+"Каб перашкодзіць ворагам увайсці ў вашу крэпасць, выкарыстоўвайце "
+"[C:5:0:1]Будаваць[C:7:0:0] -> [C:5:0:1]Машыны/Вадкасці[C:7:0:0] -> "
+"[C:5:0:1]Рычаг[C:7:0:0 ], каб пабудаваць [C:6:0:0]Рычаг[C:7:0:0]."
 
 #: stringdump_steam_0_50_06_sorted_by_xrefs.txt:2438
 msgid ""
@@ -10103,32 +10200,41 @@ msgid ""
 "[C:6:0:0]Bridge[C:7:0:0] or [C:6:0:0]Door[C:7:0:0].  This will lock the "
 "[C:6:0:0]Door[C:7:0:0] "
 msgstr ""
+"Потым націсніце на [C:6:0:0]Рычаг[C:7:0:0] і абярыце звязаць яго з "
+"[C:6:0:0]Мостам[C:7:0:0] або [C:6:0:0]Дзверамі[C:7:0:0]. Гэта заблакуе "
+"[C:6:0:0]Дзверы[C:7:0:0]"
 
 #: stringdump_steam_0_50_06_sorted_by_xrefs.txt:2439
 msgid "or raise the [C:6:0:0]Bridge[C:7:0:0], locking you inside. "
-msgstr ""
+msgstr "або узняць[C:6:0:0]Мост[C:7:0:0], замыкаючы вас унутры."
 
 #: stringdump_steam_0_50_06_sorted_by_xrefs.txt:2440
 msgid ""
 "There are also predesigned traps, such as [C:6:0:0]Weapon[C:7:0:0], "
 "[C:6:0:0]Cage[C:7:0:0], and [C:6:0:0]Stone-Fall Traps[C:7:0:0]. "
 msgstr ""
+"Ёсць таксама загадзя распрацаваныя пасткі, такія як [C:6:0:0]Узброеная "
+"пастка[C:7:0:0], [C:6:0:0]Пастка - клетка[C:7:0:0] і [C:6:0:0]Пастка - "
+"каменяпад[C:7:0:0]."
 
 #: stringdump_steam_0_50_06_sorted_by_xrefs.txt:2441
 msgid ""
 "These require a [C:6:0:1]Weapon[C:7:0:0], [C:6:0:1]Cage[C:7:0:0], or "
 "[C:6:0:1]Boulder[C:7:0:0] to function. "
 msgstr ""
+"Для йіх працы патрабуецца [C:6:0:1]Зброя[C:7:0:0], [C:6:0:1]Клетка[C:7:0:0] "
+"або [C:6:0:1]Валун[C:7:0:0]."
 
 #: stringdump_steam_0_50_06_sorted_by_xrefs.txt:2442
 msgid ""
 "Non-alcoholic water is essential to a functioning fortress.  The most "
 "favored place to "
 msgstr ""
+"Звычайная вада неабходная для функцыянавання крэпасці. Самае лепшае месца "
 
 #: stringdump_steam_0_50_06_sorted_by_xrefs.txt:2443
 msgid "get it is from a [C:6:0:0]Well[C:7:0:0]. "
-msgstr ""
+msgstr "атрымання вады - [C:6:0:0]Студзень[C:7:0:0]."
 
 #: stringdump_steam_0_50_06_sorted_by_xrefs.txt:2444
 msgid ""
@@ -10137,18 +10243,26 @@ msgid ""
 "[C:6:0:1]Chain[C:7:0:0], and [C:6:0:1]Mechanisms[C:7:0:0].  They can be "
 "built over "
 msgstr ""
+"[C:6:0:0]Студні[C:7:0:0] патрабуюць [C:6:0:1]Вядро[C:7:0:0], "
+"[C:6:0:1]Блокі[C:7:0:0], [C:6:0:1]Вяроўку[C:7:0 :0] або "
+"[C:6:0:1]Ланцуг[C:7:0:0] і [C:6:0:1]Механізмы[C:7:0:0]. Іх можна "
+"надбудоўваць па-над "
 
 #: stringdump_steam_0_50_06_sorted_by_xrefs.txt:2445
 msgid ""
 "any body of water.  It is possible to find water underground, or divert it "
 "from the surface."
 msgstr ""
+"любым вадаёмам. Ёсць магчымасць знайсці ваду пад зямлёй або перанакіраваць "
+"яе з паверхні."
 
 #: stringdump_steam_0_50_06_sorted_by_xrefs.txt:2446
 msgid ""
 "Aquifers can block the downward progress of your fortress, but it is "
 "possible to bypass them. "
 msgstr ""
+"Ваданосныя пласты могуць блакаваць рух пабудову крэпасці ўніз, але іх можна "
+"абысці."
 
 #: stringdump_steam_0_50_06_sorted_by_xrefs.txt:2447
 msgid ""
