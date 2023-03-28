@@ -5568,27 +5568,27 @@ msgstr "[CV_NEW_TAG:GAIT:WALK:Škrábání se:]"
 #: c_variation_default.txt:688
 msgctxt "CREATURE_VARIATION:STANDARD_WALK_CRAWL_GAITS"
 msgid "[CV_NEW_TAG:GAIT:WALK:Faster Crawl:]"
-msgstr ""
+msgstr "[CV_NEW_TAG:GAIT:WALK:Rychlé plazení:]"
 
 #: c_variation_default.txt:689
 msgctxt "CREATURE_VARIATION:STANDARD_WALK_CRAWL_GAITS"
 msgid "[CV_NEW_TAG:GAIT:WALK:Fast Crawl:]"
-msgstr ""
+msgstr "[CV_NEW_TAG:GAIT:WALK:Rychlejší plazení:]"
 
 #: c_variation_default.txt:690
 msgctxt "CREATURE_VARIATION:STANDARD_WALK_CRAWL_GAITS"
 msgid "[CV_NEW_TAG:GAIT:WALK:Crawl:]"
-msgstr ""
+msgstr "[CV_NEW_TAG:GAIT:WALK:Plazení:]"
 
 #: c_variation_default.txt:691
 msgctxt "CREATURE_VARIATION:STANDARD_WALK_CRAWL_GAITS"
 msgid "[CV_NEW_TAG:GAIT:WALK:Slow Crawl:]"
-msgstr ""
+msgstr "[CV_NEW_TAG:GAIT:WALK:Pomalé plazení:]"
 
 #: c_variation_default.txt:692
 msgctxt "CREATURE_VARIATION:STANDARD_WALK_CRAWL_GAITS"
 msgid "[CV_NEW_TAG:GAIT:WALK:Creep:]"
-msgstr ""
+msgstr "[CV_NEW_TAG:GAIT:WALK:Plížení:]"
 
 #: creature_amphibians.txt:6
 msgctxt "CREATURE:TOAD"
@@ -5617,12 +5617,12 @@ msgstr "[PREFSTRING:krása]"
 #: creature_amphibians.txt:51
 msgctxt "CREATURE:TOAD"
 msgid "[ATTACK_VERB:bite:bites]"
-msgstr ""
+msgstr "[ATTACK_VERB:pokousat:pokousatní]"
 
 #: creature_amphibians.txt:65
 msgctxt "CREATURE:TOAD"
 msgid "[TLCM_NOUN:skin:SINGULAR]"
-msgstr ""
+msgstr "[TLCM_NOUN:kůže:SINGULAR]"
 
 #: creature_amphibians.txt:68
 msgctxt "CREATURE:TOAD"
@@ -5637,7 +5637,7 @@ msgstr "[CASTE_NAME:ropušák:ropušáci:ropušák]"
 #: creature_amphibians.txt:77
 msgctxt "CREATURE:TOAD_MAN"
 msgid "[CASTE_NAME:toad woman:toad women:toad woman]"
-msgstr ""
+msgstr "[CASTE_NAME:ropušačka:ropušačky:ropušačka]"
 
 #: creature_amphibians.txt:87
 msgctxt "CREATURE:TOAD_MAN"
@@ -5711,17 +5711,17 @@ msgstr "[TLCM_NOUN:pokožka:SINGULAR]"
 #: creature_annelids.txt:59
 msgctxt "CREATURE:WORM_MAN"
 msgid "[NAME:worm man:worm men:worm man]"
-msgstr ""
+msgstr "[NAME:červák:červáci:červák]"
 
 #: creature_annelids.txt:60
 msgctxt "CREATURE:WORM_MAN"
 msgid "[CASTE_NAME:worm man:worm men:worm man]"
-msgstr ""
+msgstr "[CASTE_NAME:červák:červáci:červák]"
 
 #: creature_annelids.txt:61
 msgctxt "CREATURE:WORM_MAN"
 msgid "[DESCRIPTION:A worm-like creature with the torso of a man.]"
-msgstr ""
+msgstr "[DESCRIPTION:Červí příšera s tělem člověka.]"
 
 #: creature_birds.txt:6
 msgctxt "CREATURE:BIRD_BLUEJAY"
@@ -5729,96 +5729,101 @@ msgid ""
 "[DESCRIPTION:A small blue-crested bird living in temperate woodlands, known "
 "for its harsh chirps.]"
 msgstr ""
+"[DESCRIPTION:Malý modrý chocholatý pták žijící v lesích mírného pásma, známý"
+" svým charakteristickým cvrlikáním.]"
 
 #: creature_birds.txt:7
 msgctxt "CREATURE:BIRD_BLUEJAY"
 msgid "[NAME:blue jay:blue jays:blue jay]"
-msgstr ""
+msgstr "[NAME:sojka modrá:sojky modré:sojka modrá]"
 
 #: creature_birds.txt:8
 msgctxt "CREATURE:BIRD_BLUEJAY"
 msgid "[CASTE_NAME:blue jay:blue jays:blue jay]"
-msgstr ""
+msgstr "[CASTE_NAME:blue jay:blue jays:blue jay]"
 
 #: creature_birds.txt:9
 msgctxt "CREATURE:BIRD_BLUEJAY"
 msgid "[GENERAL_CHILD_NAME:blue jay hatchling:blue jay hatchlings]"
 msgstr ""
+"[GENERAL_CHILD_NAME:vylíhlé mládě sojky modré: vylíhnuté mláďata sojky "
+"modré]"
 
 #: creature_birds.txt:33
 msgctxt "CREATURE:BIRD_BLUEJAY"
 msgid "[PREFSTRING:coloration]"
-msgstr ""
+msgstr "[PREFSTRING:zbarvení]"
 
 #: creature_birds.txt:71
 msgctxt "CREATURE:BIRD_BLUEJAY"
 msgid "[ATTACK_VERB:bite:bites]"
-msgstr ""
+msgstr "[ATTACK_VERB:pokousat:pokousatní]"
 
 #: creature_birds.txt:80
 msgctxt "CREATURE:BIRD_BLUEJAY"
 msgid "[ATTACK_VERB:snatch at:snatches at]"
-msgstr ""
+msgstr "[ATTACK_VERB:chňapnout po:chňapne na]"
 
 #: creature_birds.txt:102
 msgctxt "CREATURE:BIRD_BLUEJAY"
 msgid "[TLCM_NOUN:feathers:PLURAL]"
-msgstr ""
+msgstr "[TLCM_NOUN:peří:PLURAL]"
 
 #: creature_birds.txt:105
 msgctxt "CREATURE:BIRD_BLUEJAY"
 msgid "[TLCM_NOUN:skin:SINGULAR]"
-msgstr ""
+msgstr "[TLCM_NOUN:kůže:SINGULAR]"
 
 #: creature_birds.txt:108
 msgctxt "CREATURE:BIRD_BLUEJAY"
 msgid "[TLCM_NOUN:eyes:PLURAL]"
-msgstr ""
+msgstr "[TLCM_NOUN:oči:PLURAL]"
 
 #: creature_birds.txt:115
 msgctxt "CREATURE:BLUEJAY_MAN"
 msgid "[CASTE_NAME:bluejay man:bluejay men:bluejay man]"
-msgstr ""
+msgstr "[CASTE_NAME:samec sojky modré:samci sojky modré:samec sojky modré]"
 
 #: creature_birds.txt:117
 msgctxt "CREATURE:BLUEJAY_MAN"
 msgid "[CASTE_NAME:bluejay woman:bluejay women:bluejay woman]"
-msgstr ""
+msgstr "[CASTE_NAME:samice sojky modré:samice sojky modré:samice sojky modré]"
 
 #: creature_birds.txt:129
 msgctxt "CREATURE:BLUEJAY_MAN"
 msgid "[NAME:bluejay man:bluejay men:bluejay man]"
-msgstr ""
+msgstr "[NAME:samec sojky modré:samci sojky modré:samec sojky modré]"
 
 #: creature_birds.txt:130
 msgctxt "CREATURE:BLUEJAY_MAN"
 msgid "[DESCRIPTION:A person with the head and wings of a bluejay.]"
-msgstr ""
+msgstr "[DESCRIPTION:Člověk s hlavou a křídly sojky modré.]"
 
 #: creature_birds.txt:146
 msgctxt "CREATURE:GIANT_BLUEJAY"
 msgid "[NAME:giant bluejay:giant bluejays:giant bluejay]"
-msgstr ""
+msgstr "[NAME:obrovská sojka modrá:obrovské sojky modré:obrovská sojka modrá]"
 
 #: creature_birds.txt:147
 msgctxt "CREATURE:GIANT_BLUEJAY"
 msgid "[CASTE_NAME:giant bluejay:giant bluejays:giant bluejay]"
 msgstr ""
+"[CASTE_NAME:obrovská sojka modrá:obrovské sojky modré:obrovská sojka modrá]"
 
 #: creature_birds.txt:148
 msgctxt "CREATURE:GIANT_BLUEJAY"
 msgid "[GENERAL_CHILD_NAME:giant bluejay hatchling:giant bluejay hatchlings]"
-msgstr ""
+msgstr "[GENERAL_CHILD_NAME:obří mládě sojky modré:obří mláďata sojky modré]"
 
 #: creature_birds.txt:149
 msgctxt "CREATURE:GIANT_BLUEJAY"
 msgid "[DESCRIPTION:A huge monster in the form of a bluejay.]"
-msgstr ""
+msgstr "[DESCRIPTION:Obrovské monstruv se vzhledem sojky modré.]"
 
 #: creature_birds.txt:158
 msgctxt "CREATURE:GIANT_BLUEJAY"
 msgid "[PREFSTRING:coloration]"
-msgstr ""
+msgstr "[PREFSTRING:zbarvení]"
 
 #: creature_birds.txt:166
 msgctxt "CREATURE:BIRD_CARDINAL"
@@ -5826,76 +5831,92 @@ msgid ""
 "[DESCRIPTION:A small bright red bird with a distinctive crest, found in "
 "temperate forests.]"
 msgstr ""
+"[DESCRIPTION:Malý jasně červený pták s výrazným hřebenem, který se vyskytuje"
+" v lesích mírného pásma.]"
 
 #: creature_birds.txt:167
 msgctxt "CREATURE:BIRD_CARDINAL"
 msgid "[NAME:cardinal:cardinals:cardinal]"
 msgstr ""
+"[NAME:severoamerický kardinál:severoameričtí kardináli:severoamerický "
+"kardinál]"
 
 #: creature_birds.txt:168
 msgctxt "CREATURE:BIRD_CARDINAL"
 msgid "[CASTE_NAME:cardinal:cardinals:cardinal]"
 msgstr ""
+"[CASTE_NAME:severoamerický kardinál:severoameričtí kardináli:severoamerický "
+"kardinál]"
 
 #: creature_birds.txt:169
 msgctxt "CREATURE:BIRD_CARDINAL"
 msgid "[GENERAL_CHILD_NAME:cardinal hatchling:cardinal hatchlings]"
 msgstr ""
+"[GENERAL_CHILD_NAME:vylíhnutý severoamerický kardinál:vylíhnutí "
+"severoameričtí kardináli]"
 
 #: creature_birds.txt:193
 msgctxt "CREATURE:BIRD_CARDINAL"
 msgid "[PREFSTRING:coloration]"
-msgstr ""
+msgstr "[PREFSTRING:zbarvení]"
 
 #: creature_birds.txt:231
 msgctxt "CREATURE:BIRD_CARDINAL"
 msgid "[ATTACK_VERB:bite:bites]"
-msgstr ""
+msgstr "[ATTACK_VERB:pokousat:pokousatní]"
 
 #: creature_birds.txt:240
 msgctxt "CREATURE:BIRD_CARDINAL"
 msgid "[ATTACK_VERB:snatch at:snatches at]"
-msgstr ""
+msgstr "[ATTACK_VERB:chňapnout po:chňapne na]"
 
 #: creature_birds.txt:261
 msgctxt "CREATURE:BIRD_CARDINAL"
 msgid "[TLCM_NOUN:feathers:PLURAL]"
-msgstr ""
+msgstr "[TLCM_NOUN:peří:PLURAL]"
 
 #: creature_birds.txt:264
 msgctxt "CREATURE:BIRD_CARDINAL"
 msgid "[TLCM_NOUN:skin:SINGULAR]"
-msgstr ""
+msgstr "[TLCM_NOUN:kůže:SINGULAR]"
 
 #: creature_birds.txt:267
 msgctxt "CREATURE:BIRD_CARDINAL"
 msgid "[TLCM_NOUN:eyes:PLURAL]"
-msgstr ""
+msgstr "[TLCM_NOUN:oči:PLURAL]"
 
 #: creature_birds.txt:274
 msgctxt "CREATURE:CARDINAL_MAN"
 msgid "[CASTE_NAME:cardinal man:cardinal men:cardinal man]"
 msgstr ""
+"[CASTE_NAME:samec kardinála severoamerického:samci kardinála "
+"severoamerického:samec kardinála severoamerického]"
 
 #: creature_birds.txt:276
 msgctxt "CREATURE:CARDINAL_MAN"
 msgid "[CASTE_NAME:cardinal woman:cardinal women:cardinal woman]"
 msgstr ""
+"[CASTE_NAME:samice kardinála severoamerického:samice kardinálů "
+"severoamerického:samice kardinála severoamerického]"
 
 #: creature_birds.txt:288
 msgctxt "CREATURE:CARDINAL_MAN"
 msgid "[NAME:cardinal man:cardinal men:cardinal man]"
 msgstr ""
+"[NAME:samec kardinála severoamerického:samci kardinála "
+"severoamerického:samec kardinála severoamerického]"
 
 #: creature_birds.txt:289
 msgctxt "CREATURE:CARDINAL_MAN"
 msgid "[DESCRIPTION:A person with the head and wings of a cardinal.]"
-msgstr ""
+msgstr "[DESCRIPTION:Člověk s hlavou a křídly kardinála severoamerického.]"
 
 #: creature_birds.txt:305
 msgctxt "CREATURE:GIANT_CARDINAL"
 msgid "[NAME:giant cardinal:giant cardinals:giant cardinal]"
 msgstr ""
+"[NAME:obrovský kardinál severoamerický:obrovští kardináli "
+"severoameričtí:obrovský kardinál severoamerickýl]"
 
 #: creature_birds.txt:306
 msgctxt "CREATURE:GIANT_CARDINAL"
