@@ -4,12 +4,12 @@
 # Kewar Cz, 2022
 # Lukáš Bednařík, 2023
 # Alexandr Richtr, 2023
-# Jiří Holeš, 2023
 # Zdenek Galus <zgalus@centrum.cz>, 2023
+# Jiří Holeš, 2023
 # 
 msgid ""
 msgstr ""
-"Last-Translator: Zdenek Galus <zgalus@centrum.cz>, 2023\n"
+"Last-Translator: Jiří Holeš, 2023\n"
 "Language-Team: Czech (https://app.transifex.com/dwarf-fortress-translation/teams/22396/cs/)\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -6557,7 +6557,7 @@ msgstr ""
 #: creature_birds.txt:1190
 msgctxt "CREATURE:BIRD_FALCON_PEREGRINE"
 msgid "[PREFSTRING:ability to dive through the air]"
-msgstr ""
+msgstr "[PREFSTRING:schopnost střemhlavého letu]"
 
 #: creature_birds.txt:1226
 msgctxt "CREATURE:BIRD_FALCON_PEREGRINE"
@@ -55071,17 +55071,17 @@ msgstr ""
 #: reaction_other.txt:433
 msgctxt "REACTION:BIND_BOOK"
 msgid "[PRODUCT_TOKEN:book]"
-msgstr ""
+msgstr "[PRODUCT_TOKEN:kniha]"
 
 #: reaction_other.txt:435
 msgctxt "REACTION:BIND_BOOK"
 msgid "[IMPROVEMENT:100:book:PAGES:GET_MATERIAL_FROM_REAGENT:quire:]"
-msgstr ""
+msgstr "[IMPROVEMENT:100:kniha:PAGES:GET_MATERIAL_FROM_REAGENT:požadováno:]"
 
 #: reaction_other.txt:440
 msgctxt "REACTION:CARVE_BONE_FIGURINE"
 msgid "[NAME:carve bone figurine]"
-msgstr ""
+msgstr "[NAME:vyřezaná kostěnná figurína]"
 
 #: reaction_other.txt:442
 msgctxt "REACTION:CARVE_BONE_FIGURINE"
@@ -55101,7 +55101,7 @@ msgstr "[PRODUCT:100:1:FIGURINE:NONE:GET_MATERIAL_FROM_REAGENT:kost:]"
 #: reaction_other.txt:447
 msgctxt "REACTION:CARVE_BONE_FIGURINE"
 msgid "[PRODUCT_TOKEN:figurine]"
-msgstr ""
+msgstr "[PRODUCT_TOKEN:figurína]"
 
 #: reaction_other.txt:450
 msgctxt "REACTION:CARVE_BONE_FIGURINE"
@@ -55363,6 +55363,7 @@ msgctxt "REACTION:MAKE WOODEN DISPLAY CASE"
 msgid ""
 "[PRODUCT:100:1:TOOL:ITEM_TOOL_DISPLAY_CASE:GET_MATERIAL_FROM_REAGENT:log:]"
 msgstr ""
+"[PRODUCT:100:1:TOOL:ITEM_TOOL_DISPLAY_CASE:GET_MATERIAL_FROM_REAGENT:špalek:]"
 
 #: reaction_smelter.txt:6
 msgctxt "REACTION:BITUMINOUS_COAL_TO_COKE"
