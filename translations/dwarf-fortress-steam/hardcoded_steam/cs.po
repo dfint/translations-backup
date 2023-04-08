@@ -7,12 +7,12 @@
 # Lukáš Bednařík, 2023
 # Alexandr Richtr, 2023
 # Transifex Bot <>, 2023
-# Zdenek Galus <zgalus@centrum.cz>, 2023
 # Jiří Holeš, 2023
+# Zdenek Galus <zgalus@centrum.cz>, 2023
 # 
 msgid ""
 msgstr ""
-"Last-Translator: Jiří Holeš, 2023\n"
+"Last-Translator: Zdenek Galus <zgalus@centrum.cz>, 2023\n"
 "Language-Team: Czech (https://app.transifex.com/dwarf-fortress-translation/teams/22396/cs/)\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -5925,7 +5925,7 @@ msgstr ""
 
 #: stringdump_steam_0_50_06_sorted_by_xrefs.txt:1564
 msgid "satisfied"
-msgstr ""
+msgstr "spokojený"
 
 #: stringdump_steam_0_50_06_sorted_by_xrefs.txt:1565
 msgid "grouchy"
@@ -6089,7 +6089,7 @@ msgstr ""
 
 #: stringdump_steam_0_50_06_sorted_by_xrefs.txt:1605
 msgid "bored"
-msgstr ""
+msgstr "znuděný"
 
 #: stringdump_steam_0_50_06_sorted_by_xrefs.txt:1606
 msgid "caring"
@@ -6397,7 +6397,7 @@ msgstr ""
 
 #: stringdump_steam_0_50_06_sorted_by_xrefs.txt:1682
 msgid "uneasy"
-msgstr ""
+msgstr "nepříjemný"
 
 #: stringdump_steam_0_50_06_sorted_by_xrefs.txt:1683
 msgid "unhappy"
@@ -9321,6 +9321,8 @@ msgid ""
 "Only one condition needs to be satisfied for the [C:6:0:1]Minecart[C:7:0:0] "
 "to move to the next [C:6:0:0]Track Stop[C:7:0:0]."
 msgstr ""
+"Pro [C:6:0:1]Důlní vozík[C:7:0:0] musí být splněna pouze jedna podmínka, aby"
+" se přesunul na další [C:6:0:0]Zastávku[C:7:0:0]."
 
 #: stringdump_steam_0_50_06_sorted_by_xrefs.txt:2357
 msgid ""
@@ -15860,11 +15862,11 @@ msgstr ""
 
 #: stringdump_steam_0_50_06_sorted_by_xrefs.txt:4198
 msgid "Satisfied for next check"
-msgstr ""
+msgstr "Spokojen na další kontrolu"
 
 #: stringdump_steam_0_50_06_sorted_by_xrefs.txt:4199
 msgid "Not satisfied for next check"
-msgstr ""
+msgstr "Nespokojen na další kontrolu"
 
 #: stringdump_steam_0_50_06_sorted_by_xrefs.txt:4200
 msgid "must first be completed"
@@ -18659,6 +18661,8 @@ msgid ""
 "Add a stop to this route.  Minecarts will move between stops when conditions"
 " are satisfied."
 msgstr ""
+"Přidejte zastavení této trasy. Důlní vozíky se přesunou mezi zastávkami, "
+"když jsou splněny podmínky."
 
 #: stringdump_steam_0_50_06_sorted_by_xrefs.txt:4892
 msgid ""
@@ -23151,15 +23155,15 @@ msgstr ""
 
 #: stringdump_steam_0_50_06_sorted_by_xrefs.txt:5935
 msgid "very focused with satisfied needs"
-msgstr ""
+msgstr "velmi soustředěný se spokojenými potřebami"
 
 #: stringdump_steam_0_50_06_sorted_by_xrefs.txt:5936
 msgid "quite focused with satisfied needs"
-msgstr ""
+msgstr "docela soustředěný se spokojenými potřebami"
 
 #: stringdump_steam_0_50_06_sorted_by_xrefs.txt:5937
 msgid "somewhat focused with satisfied needs"
-msgstr ""
+msgstr "poněkud soustředěný se spokojenými potřebami"
 
 #: stringdump_steam_0_50_06_sorted_by_xrefs.txt:5938
 msgid "badly distracted by unmet needs"
@@ -33701,7 +33705,7 @@ msgstr ""
 
 #: stringdump_steam_0_50_06_sorted_by_xrefs.txt:8674
 msgid "I feel so uneasy!"
-msgstr ""
+msgstr "Cítím se tak nepříjemný!"
 
 #: stringdump_steam_0_50_06_sorted_by_xrefs.txt:8675
 msgid "Such unhappiness!"
@@ -33801,7 +33805,7 @@ msgstr ""
 
 #: stringdump_steam_0_50_06_sorted_by_xrefs.txt:8699
 msgid "I am very satisfied."
-msgstr ""
+msgstr "Jsem velmi spokojen."
 
 #: stringdump_steam_0_50_06_sorted_by_xrefs.txt:8700
 msgid "This is a joyous time."
@@ -34217,7 +34221,7 @@ msgstr ""
 
 #: stringdump_steam_0_50_06_sorted_by_xrefs.txt:8803
 msgid "I feel very uneasy."
-msgstr ""
+msgstr "Cítím se velmi nepříjemný."
 
 #: stringdump_steam_0_50_06_sorted_by_xrefs.txt:8804
 msgid "I'm very unhappy."
@@ -34721,7 +34725,7 @@ msgstr ""
 
 #: stringdump_steam_0_50_06_sorted_by_xrefs.txt:8929
 msgid "I'm uneasy."
-msgstr ""
+msgstr "Jsem nepříjemný."
 
 #: stringdump_steam_0_50_06_sorted_by_xrefs.txt:8930
 msgid "I'm unhappy."
@@ -35221,7 +35225,7 @@ msgstr ""
 
 #: stringdump_steam_0_50_06_sorted_by_xrefs.txt:9054
 msgid "I'm not uneasy."
-msgstr ""
+msgstr "Nejsem nepříjemný."
 
 #: stringdump_steam_0_50_06_sorted_by_xrefs.txt:9055
 msgid "That doesn't make me unhappy."
@@ -39008,7 +39012,7 @@ msgstr ""
 #: stringdump_steam_0_50_06_sorted_by_xrefs.txt:10041
 msgid ""
 "I would give anything to be away from here.  I can't stand the boredom!"
-msgstr ""
+msgstr "Dal bych cokoli, abych byl pryč odtud. Nemohu vydržet nudu!"
 
 #: stringdump_steam_0_50_06_sorted_by_xrefs.txt:10042
 msgid "Can you lead me to battle and a warrior's death?"
@@ -67750,6 +67754,7 @@ msgstr ""
 #: stringdump_steam_0_50_06_sorted_by_xrefs.txt:24151
 msgid "finds a chaotic mess preferable to the boredom of harmonious living"
 msgstr ""
+"shledává chaotický nepořádek, který je lepší než nuda harmonického života"
 
 #: stringdump_steam_0_50_06_sorted_by_xrefs.txt:24152
 msgid "doesn't mind a little tumult and discord in day-to-day living"
@@ -67767,6 +67772,7 @@ msgstr ""
 msgid ""
 "would be deeply satisfied if everyone could live as one in complete harmony"
 msgstr ""
+"byl by hluboce spokojen, kdyby každý mohl žít jako jeden v úplné harmonii"
 
 #: stringdump_steam_0_50_06_sorted_by_xrefs.txt:24156
 msgid ""
@@ -68791,6 +68797,8 @@ msgid ""
 "is bored by reality and would rather disappear utterly and forever into a "
 "world of made-up fantasy"
 msgstr ""
+"se nudí realitou a raději by zmizel naprosto a navždy do světa vytvořené "
+"fantazie"
 
 #: stringdump_steam_0_50_06_sorted_by_xrefs.txt:24398
 msgid "is given to flights of fancy to the point of distraction"
@@ -71101,7 +71109,7 @@ msgstr ""
 
 #: stringdump_steam_0_50_06_sorted_by_xrefs.txt:24971
 msgid " has been satisfied."
-msgstr ""
+msgstr " byl spokojen."
 
 #: stringdump_steam_0_50_06_sorted_by_xrefs.txt:24972
 msgid "The priesthood of "
@@ -71145,7 +71153,7 @@ msgstr ""
 
 #: stringdump_steam_0_50_06_sorted_by_xrefs.txt:24981
 msgid " is satisfied with their position here. "
-msgstr ""
+msgstr " je zde spokojen s jejich pozicí. "
 
 #: stringdump_steam_0_50_06_sorted_by_xrefs.txt:24982
 msgid "Everything is properly royal, properly furnished.  And yet? "
@@ -86763,7 +86771,7 @@ msgstr ""
 
 #: stringdump_steam_0_50_06_sorted_by_xrefs.txt:30734
 msgid " is bored"
-msgstr ""
+msgstr " je nudný"
 
 #: stringdump_steam_0_50_06_sorted_by_xrefs.txt:30735
 msgid "starts to drone when "
@@ -86955,7 +86963,7 @@ msgstr ""
 
 #: stringdump_steam_0_50_06_sorted_by_xrefs.txt:30782
 msgid " gets bored, "
-msgstr ""
+msgstr " se nudí, "
 
 #: stringdump_steam_0_50_06_sorted_by_xrefs.txt:30783
 msgid " talks to inanimate objects when there is a lull in the conversation"
@@ -87003,7 +87011,7 @@ msgstr ""
 
 #: stringdump_steam_0_50_06_sorted_by_xrefs.txt:30794
 msgid " gets bored"
-msgstr ""
+msgstr " se nudí"
 
 #: stringdump_steam_0_50_06_sorted_by_xrefs.txt:30795
 msgid " all of the time"
@@ -87650,7 +87658,7 @@ msgstr ""
 
 #: stringdump_steam_0_50_06_sorted_by_xrefs.txt:30955
 msgid " starts getting bored"
-msgstr ""
+msgstr " se začne nudit"
 
 #: stringdump_steam_0_50_06_sorted_by_xrefs.txt:30956
 msgid "exhales sharply when "
