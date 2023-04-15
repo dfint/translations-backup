@@ -4,12 +4,12 @@
 # Kewar Cz, 2022
 # Lukáš Bednařík, 2023
 # Alexandr Richtr, 2023
-# Zdenek Galus <zgalus@centrum.cz>, 2023
 # Jiří Holeš, 2023
+# Zdenek Galus <zgalus@centrum.cz>, 2023
 # 
 msgid ""
 msgstr ""
-"Last-Translator: Jiří Holeš, 2023\n"
+"Last-Translator: Zdenek Galus <zgalus@centrum.cz>, 2023\n"
 "Language-Team: Czech (https://app.transifex.com/dwarf-fortress-translation/teams/22396/cs/)\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -6610,7 +6610,7 @@ msgstr ""
 #: creature_birds.txt:1293
 msgctxt "CREATURE:PEREGRINE FALCON MAN"
 msgid "[NAME:peregrine falcon man:peregrine falcon men:peregrine falcon man]"
-msgstr ""
+msgstr "[NAME:sokol stěhovavý muž:sokol stěhovavý muži:sokol stěhovavý muž]"
 
 #: creature_birds.txt:1294
 msgctxt "CREATURE:PEREGRINE FALCON MAN"
@@ -6622,6 +6622,7 @@ msgctxt "CREATURE:GIANT PEREGRINE FALCON"
 msgid ""
 "[NAME:giant peregrine falcon:giant peregrine falcons:giant peregrine falcon]"
 msgstr ""
+"[NAME:obří sokol stěhovavý:obří sokoli stěhovavý:obří sokol stěhovavý]"
 
 #: creature_birds.txt:1311
 msgctxt "CREATURE:GIANT PEREGRINE FALCON"
@@ -6666,7 +6667,7 @@ msgstr ""
 #: creature_birds.txt:1339
 msgctxt "CREATURE:BIRD_KIWI"
 msgid "[NAME:kiwi:kiwis:kiwi]"
-msgstr ""
+msgstr "[NAME:kiwi:kiwi:kiwi]"
 
 #: creature_birds.txt:1340
 msgctxt "CREATURE:BIRD_KIWI"
@@ -6676,7 +6677,7 @@ msgstr ""
 #: creature_birds.txt:1359
 msgctxt "CREATURE:BIRD_KIWI"
 msgid "[PREFSTRING:long beaks]"
-msgstr "[PREFSTRING:dlouhé sobáky]"
+msgstr "[PREFSTRING:dlouhé zobáky]"
 
 #: creature_birds.txt:1398
 msgctxt "CREATURE:BIRD_KIWI"
@@ -6726,7 +6727,7 @@ msgstr ""
 #: creature_birds.txt:1449
 msgctxt "CREATURE:KIWI MAN"
 msgid "[NAME:kiwi man:kiwi men:kiwi man]"
-msgstr ""
+msgstr "[NAME:kiwi muž:kiwi muži:kiwi muž]"
 
 #: creature_birds.txt:1450
 msgctxt "CREATURE:KIWI MAN"
@@ -6736,7 +6737,7 @@ msgstr ""
 #: creature_birds.txt:1465
 msgctxt "CREATURE:BIRD_KIWI_GIANT"
 msgid "[NAME:giant kiwi:giant kiwis:giant kiwi]"
-msgstr ""
+msgstr "[NAME:obří kiwi:obří kiwi:obří kiwi]"
 
 #: creature_birds.txt:1466
 msgctxt "CREATURE:BIRD_KIWI_GIANT"
@@ -6788,12 +6789,12 @@ msgstr "[GENERAL_CHILD_NAME:mládě pštrosa:mláďata pštrosa]"
 #: creature_birds.txt:1516
 msgctxt "CREATURE:BIRD_OSTRICH"
 msgid "[PREFSTRING:long necks]"
-msgstr ""
+msgstr "[PREFSTRING:dlouhé krky]"
 
 #: creature_birds.txt:1517
 msgctxt "CREATURE:BIRD_OSTRICH"
 msgid "[PREFSTRING:giant eggs]"
-msgstr ""
+msgstr "[PREFSTRING:obří vejce]"
 
 #: creature_birds.txt:1559
 msgctxt "CREATURE:BIRD_OSTRICH"
@@ -6838,7 +6839,7 @@ msgstr "[TLCM_NOUN:kůže:SINGULAR]"
 #: creature_birds.txt:1612
 msgctxt "CREATURE:BIRD_OSTRICH"
 msgid "[TLCM_NOUN:eyes:PLURAL]"
-msgstr ""
+msgstr "[TLCM_NOUN:oči:PLURAL]"
 
 #: creature_birds.txt:1619
 msgctxt "CREATURE:OSTRICH MAN"
@@ -6853,7 +6854,7 @@ msgstr ""
 #: creature_birds.txt:1632
 msgctxt "CREATURE:OSTRICH MAN"
 msgid "[NAME:ostrich man:ostrich men:ostrich man]"
-msgstr ""
+msgstr "[NAME:pštrosí muž:pštrosí muži:pštrosí muž]"
 
 #: creature_birds.txt:1633
 msgctxt "CREATURE:OSTRICH MAN"
@@ -6865,7 +6866,7 @@ msgstr ""
 #: creature_birds.txt:1648
 msgctxt "CREATURE:BIRD_OSTRICH_GIANT"
 msgid "[NAME:giant ostrich:giant ostriches:giant ostrich]"
-msgstr ""
+msgstr "[NAME:obří pštros:obří pštrosi:obří pštros]"
 
 #: creature_birds.txt:1649
 msgctxt "CREATURE:BIRD_OSTRICH_GIANT"
@@ -6890,12 +6891,12 @@ msgstr ""
 #: creature_birds.txt:1664
 msgctxt "CREATURE:BIRD_OSTRICH_GIANT"
 msgid "[PREFSTRING:long necks]"
-msgstr ""
+msgstr "[PREFSTRING:dlouhé krky]"
 
 #: creature_birds.txt:1665
 msgctxt "CREATURE:BIRD_OSTRICH_GIANT"
 msgid "[PREFSTRING:giant eggs]"
-msgstr ""
+msgstr "[PREFSTRING:obří vejce]"
 
 #: creature_birds_new.txt:12
 msgctxt "CREATURE:BIRD_CROW"
@@ -6907,7 +6908,7 @@ msgstr ""
 #: creature_birds_new.txt:13
 msgctxt "CREATURE:BIRD_CROW"
 msgid "[NAME:crow:crows:crow]"
-msgstr ""
+msgstr "[NAME:vrána:vrány:vrána]"
 
 #: creature_birds_new.txt:14
 msgctxt "CREATURE:BIRD_CROW"
@@ -6922,7 +6923,7 @@ msgstr ""
 #: creature_birds_new.txt:40
 msgctxt "CREATURE:BIRD_CROW"
 msgid "[PREFSTRING:intelligence]"
-msgstr ""
+msgstr "[PREFSTRING:inteligence]"
 
 #: creature_birds_new.txt:78
 msgctxt "CREATURE:BIRD_CROW"
@@ -6947,7 +6948,7 @@ msgstr "[TLCM_NOUN:kůže:SINGULAR]"
 #: creature_birds_new.txt:114
 msgctxt "CREATURE:BIRD_CROW"
 msgid "[TLCM_NOUN:eyes:PLURAL]"
-msgstr ""
+msgstr "[TLCM_NOUN:oči:PLURAL]"
 
 #: creature_birds_new.txt:121
 msgctxt "CREATURE:CROW_MAN"
@@ -6962,7 +6963,7 @@ msgstr ""
 #: creature_birds_new.txt:135
 msgctxt "CREATURE:CROW_MAN"
 msgid "[NAME:crow man:crow men:crow man]"
-msgstr ""
+msgstr "[NAME:vraní muž:vraní muži:vraní muž]"
 
 #: creature_birds_new.txt:136
 msgctxt "CREATURE:CROW_MAN"
@@ -6972,7 +6973,7 @@ msgstr ""
 #: creature_birds_new.txt:152
 msgctxt "CREATURE:GIANT_CROW"
 msgid "[NAME:giant crow:giant crows:giant crow]"
-msgstr ""
+msgstr "[NAME:obří vrána:obří vrány:obří vrána]"
 
 #: creature_birds_new.txt:153
 msgctxt "CREATURE:GIANT_CROW"
@@ -6994,7 +6995,7 @@ msgstr ""
 #: creature_birds_new.txt:164
 msgctxt "CREATURE:GIANT_CROW"
 msgid "[PREFSTRING:intelligence]"
-msgstr ""
+msgstr "[PREFSTRING:inteligence]"
 
 #: creature_birds_new.txt:178
 msgctxt "CREATURE:BIRD_RAVEN"
@@ -7006,12 +7007,12 @@ msgstr ""
 #: creature_birds_new.txt:179
 msgctxt "CREATURE:BIRD_RAVEN"
 msgid "[NAME:raven:ravens:raven]"
-msgstr ""
+msgstr "[NAME:havran:havrani:havran]"
 
 #: creature_birds_new.txt:180
 msgctxt "CREATURE:BIRD_RAVEN"
 msgid "[CASTE_NAME:raven:ravens:raven]"
-msgstr ""
+msgstr "[CASTE_NAME:havran:havrani:havran]"
 
 #: creature_birds_new.txt:181
 msgctxt "CREATURE:BIRD_RAVEN"
@@ -7021,7 +7022,7 @@ msgstr ""
 #: creature_birds_new.txt:209
 msgctxt "CREATURE:BIRD_RAVEN"
 msgid "[PREFSTRING:intelligence]"
-msgstr ""
+msgstr "[PREFSTRING:inteligence]"
 
 #: creature_birds_new.txt:247
 msgctxt "CREATURE:BIRD_RAVEN"
@@ -7046,22 +7047,22 @@ msgstr "[TLCM_NOUN:kůže:SINGULAR]"
 #: creature_birds_new.txt:283
 msgctxt "CREATURE:BIRD_RAVEN"
 msgid "[TLCM_NOUN:eyes:PLURAL]"
-msgstr ""
+msgstr "[TLCM_NOUN:oči:PLURAL]"
 
 #: creature_birds_new.txt:290
 msgctxt "CREATURE:RAVEN_MAN"
 msgid "[CASTE_NAME:raven man:raven men:raven man]"
-msgstr ""
+msgstr "[CASTE_NAME:havraní muž:havraní muži:havraní muž]"
 
 #: creature_birds_new.txt:292
 msgctxt "CREATURE:RAVEN_MAN"
 msgid "[CASTE_NAME:raven woman:raven women:raven woman]"
-msgstr ""
+msgstr "[CASTE_NAME:havraní žena:havraní ženy:havraní žena]"
 
 #: creature_birds_new.txt:304
 msgctxt "CREATURE:RAVEN_MAN"
 msgid "[NAME:raven man:raven men:raven man]"
-msgstr ""
+msgstr "[NAME:havraní muž:havraní muži:havraní muž]"
 
 #: creature_birds_new.txt:305
 msgctxt "CREATURE:RAVEN_MAN"
@@ -7071,7 +7072,7 @@ msgstr ""
 #: creature_birds_new.txt:321
 msgctxt "CREATURE:GIANT_RAVEN"
 msgid "[NAME:giant raven:giant ravens:giant raven]"
-msgstr ""
+msgstr "[NAME:obří havran:obří havrani:obří havran]"
 
 #: creature_birds_new.txt:322
 msgctxt "CREATURE:GIANT_RAVEN"
@@ -7093,7 +7094,7 @@ msgstr ""
 #: creature_birds_new.txt:333
 msgctxt "CREATURE:GIANT_RAVEN"
 msgid "[PREFSTRING:intelligence]"
-msgstr ""
+msgstr "[PREFSTRING:inteligence]"
 
 #: creature_birds_new.txt:346
 msgctxt "CREATURE:BIRD_CASSOWARY"
@@ -7103,7 +7104,7 @@ msgstr ""
 #: creature_birds_new.txt:347
 msgctxt "CREATURE:BIRD_CASSOWARY"
 msgid "[NAME:cassowary:cassowaries:cassowary]"
-msgstr ""
+msgstr "[NAME:kasuár:kasuáři:kasuár]"
 
 #: creature_birds_new.txt:348
 msgctxt "CREATURE:BIRD_CASSOWARY"
@@ -7158,7 +7159,7 @@ msgstr ""
 #: creature_birds_new.txt:458
 msgctxt "CREATURE:CASSOWARY_MAN"
 msgid "[NAME:cassowary man:cassowary men:cassowary man]"
-msgstr ""
+msgstr "[NAME:kasuáří muž:kasuáří muži:kasuáří muž]"
 
 #: creature_birds_new.txt:459
 msgctxt "CREATURE:CASSOWARY_MAN"
@@ -7168,7 +7169,7 @@ msgstr ""
 #: creature_birds_new.txt:475
 msgctxt "CREATURE:GIANT_CASSOWARY"
 msgid "[NAME:giant cassowary:giant cassowaries:giant cassowary]"
-msgstr ""
+msgstr "[NAME:obří kasuár:obří kasuáři:obří kasuár]"
 
 #: creature_birds_new.txt:476
 msgctxt "CREATURE:GIANT_CASSOWARY"
@@ -7218,7 +7219,7 @@ msgstr ""
 #: creature_birds_new.txt:524
 msgctxt "CREATURE:BIRD_KEA"
 msgid "[PREFSTRING:intelligence]"
-msgstr ""
+msgstr "[PREFSTRING:inteligence]"
 
 #: creature_birds_new.txt:563
 msgctxt "CREATURE:BIRD_KEA"
@@ -7293,7 +7294,7 @@ msgstr ""
 #: creature_birds_new.txt:651
 msgctxt "CREATURE:GIANT_KEA"
 msgid "[PREFSTRING:intelligence]"
-msgstr ""
+msgstr "[PREFSTRING:inteligence]"
 
 #: creature_birds_new.txt:664
 msgctxt "CREATURE:BIRD_OWL_SNOWY"
@@ -8081,7 +8082,7 @@ msgstr ""
 #: creature_birds_new.txt:1799
 msgctxt "CREATURE:BIRD_PARROT_GREY"
 msgid "[PREFSTRING:intelligence]"
-msgstr ""
+msgstr "[PREFSTRING:inteligence]"
 
 #: creature_birds_new.txt:1800
 msgctxt "CREATURE:BIRD_PARROT_GREY"
@@ -8151,7 +8152,7 @@ msgstr ""
 #: creature_birds_new.txt:1912
 msgctxt "CREATURE:GIANT_GREY_PARROT"
 msgid "[PREFSTRING:intelligence]"
-msgstr ""
+msgstr "[PREFSTRING:inteligence]"
 
 #: creature_birds_new.txt:1913
 msgctxt "CREATURE:GIANT_GREY_PARROT"
@@ -8990,7 +8991,7 @@ msgstr ""
 #: creature_birds_new.txt:3205
 msgctxt "CREATURE:BIRD_MAGPIE"
 msgid "[PREFSTRING:intelligence]"
-msgstr ""
+msgstr "[PREFSTRING:inteligence]"
 
 #: creature_birds_new.txt:3206
 msgctxt "CREATURE:BIRD_MAGPIE"
@@ -9065,7 +9066,7 @@ msgstr ""
 #: creature_birds_new.txt:3330
 msgctxt "CREATURE:GIANT_MAGPIE"
 msgid "[PREFSTRING:intelligence]"
-msgstr ""
+msgstr "[PREFSTRING:inteligence]"
 
 #: creature_birds_new.txt:3331
 msgctxt "CREATURE:GIANT_MAGPIE"
@@ -23914,7 +23915,7 @@ msgstr ""
 #: creature_ocean_new.txt:25
 msgctxt "CREATURE:OCTOPUS"
 msgid "[PREFSTRING:intelligence]"
-msgstr ""
+msgstr "[PREFSTRING:inteligence]"
 
 #: creature_ocean_new.txt:26
 msgctxt "CREATURE:OCTOPUS"
@@ -24030,7 +24031,7 @@ msgstr ""
 #: creature_ocean_new.txt:160
 msgctxt "CREATURE:GIANT_OCTOPUS"
 msgid "[PREFSTRING:intelligence]"
-msgstr ""
+msgstr "[PREFSTRING:inteligence]"
 
 #: creature_ocean_new.txt:161
 msgctxt "CREATURE:GIANT_OCTOPUS"
@@ -26966,7 +26967,7 @@ msgstr ""
 #: creature_small_mammals.txt:23
 msgctxt "CREATURE:RAT"
 msgid "[PREFSTRING:intelligence]"
-msgstr ""
+msgstr "[PREFSTRING:inteligence]"
 
 #: creature_small_mammals.txt:61
 msgctxt "CREATURE:RAT"
@@ -33255,6 +33256,8 @@ msgid ""
 "[DESCRIPTION:These evil creatures resemble walking frogs with arms and the "
 "intelligence to use them.  They live in the waters far under the earth.]"
 msgstr ""
+"[DESCRIPTION:Tato zlá stvoření se podobají chodícím žábám s pažemi a "
+"inteligencí jenž používají. Žijí ve vodách daleko pod zemí.]"
 
 #: creature_subterranean.txt:2196
 msgctxt "CREATURE:AMPHIBIAN_MAN"
@@ -33308,6 +33311,9 @@ msgid ""
 "  They have the head and tail of a lizard and possess a dark and evil "
 "intelligence.  They are found deep under the earth.]"
 msgstr ""
+"[DESCRIPTION:Tato stvoření jsou tvarována jako muži pokryté hrubými "
+"šupinami. Mají hlavu a ocas ještěra a mají temnou a zlou inteligenci. "
+"Nacházejí se hluboko pod zemí.]"
 
 #: creature_subterranean.txt:2291
 msgctxt "CREATURE:REPTILE_MAN"
@@ -36202,7 +36208,7 @@ msgstr ""
 #: creature_tropical_new.txt:471
 msgctxt "CREATURE:MONITOR_LIZARD"
 msgid "[PREFSTRING:intelligence]"
-msgstr ""
+msgstr "[PREFSTRING:inteligence]"
 
 #: creature_tropical_new.txt:513
 msgctxt "CREATURE:MONITOR_LIZARD"
@@ -36266,7 +36272,7 @@ msgstr ""
 #: creature_tropical_new.txt:596
 msgctxt "CREATURE:GIANT_MONITOR_LIZARD"
 msgid "[PREFSTRING:intelligence]"
-msgstr ""
+msgstr "[PREFSTRING:inteligence]"
 
 #: creature_tropical_new.txt:606
 msgctxt "CREATURE:KING_COBRA"
@@ -36612,7 +36618,7 @@ msgstr ""
 #: creature_tropical_new.txt:1122
 msgctxt "CREATURE:CAPUCHIN"
 msgid "[PREFSTRING:intelligence]"
-msgstr ""
+msgstr "[PREFSTRING:inteligence]"
 
 #: creature_tropical_new.txt:1123
 msgctxt "CREATURE:CAPUCHIN"
@@ -36682,7 +36688,7 @@ msgstr ""
 #: creature_tropical_new.txt:1247
 msgctxt "CREATURE:GIANT_CAPUCHIN"
 msgid "[PREFSTRING:intelligence]"
-msgstr ""
+msgstr "[PREFSTRING:inteligence]"
 
 #: creature_tropical_new.txt:1248
 msgctxt "CREATURE:GIANT_CAPUCHIN"
