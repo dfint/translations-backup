@@ -6,14 +6,14 @@
 # Alexandre B, 2022
 # Jérémi Duarte, 2022
 # samQC_CA_FR, 2023
-# J. Bat., 2023
 # Mamard, 2023
 # Tony Giraud, 2023
 # Claude Francis, 2023
+# J. Bat., 2023
 # 
 msgid ""
 msgstr ""
-"Last-Translator: Claude Francis, 2023\n"
+"Last-Translator: J. Bat., 2023\n"
 "Language-Team: French (https://app.transifex.com/dwarf-fortress-translation/teams/22396/fr/)\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -17341,7 +17341,7 @@ msgstr "[ATTACK_VERB:coup de pied:coups de pied]"
 #: creature_large_riverlake.txt:71
 msgctxt "CREATURE:HIPPO"
 msgid "[ATTACK_VERB:gore:gores]"
-msgstr "[ATTACK_VERB:encorne:encornes]"
+msgstr "[ATTACK_VERB:encorner:encorne]"
 
 #: creature_large_riverlake.txt:93
 msgctxt "CREATURE:HIPPO"
@@ -18833,7 +18833,7 @@ msgstr "[CASTE_NAME:buse:buses:buse]"
 #: creature_large_temperate.txt:1535
 msgctxt "CREATURE:BIRD_BUZZARD"
 msgid "[GENERAL_CHILD_NAME:buzzard hatchling:buzzard hatchlings]"
-msgstr "[GENERAL_CHILD_NAME:jeune buse:jeunes buses]"
+msgstr "[GENERAL_CHILD_NAME:oisillon buse:oisillons buses]"
 
 #: creature_large_temperate.txt:1561
 msgctxt "CREATURE:BIRD_BUZZARD"
@@ -18868,17 +18868,17 @@ msgstr "[TLCM_NOUN:yeux:PLURAL]"
 #: creature_large_temperate.txt:1642
 msgctxt "CREATURE:BUZZARD_MAN"
 msgid "[CASTE_NAME:buzzard man:buzzard men:buzzard man]"
-msgstr "[CASTE_NAME:buse mâle:buses mâles:buse mâle]"
+msgstr "[CASTE_NAME:homme-buse:hommes-buses:homme-buse]"
 
 #: creature_large_temperate.txt:1644
 msgctxt "CREATURE:BUZZARD_MAN"
 msgid "[CASTE_NAME:buzzard woman:buzzard women:buzzard woman]"
-msgstr "[CASTE_NAME:buse femelle:buses femelles:buse femelle]"
+msgstr "[CASTE_NAME:femme-buse:femmes-buses:femme-buse]"
 
 #: creature_large_temperate.txt:1656
 msgctxt "CREATURE:BUZZARD_MAN"
 msgid "[NAME:buzzard man:buzzard men:buzzard man]"
-msgstr "[NAME:buse mâle:buses mâles:buse mâle]"
+msgstr "[NAME:homme-buse:hommes-buses:homme-buse]"
 
 #: creature_large_temperate.txt:1657
 msgctxt "CREATURE:BUZZARD_MAN"
@@ -18898,7 +18898,7 @@ msgstr "[CASTE_NAME:buse géante:buses géantes:buse géante]"
 #: creature_large_temperate.txt:1675
 msgctxt "CREATURE:GIANT_BUZZARD"
 msgid "[GENERAL_CHILD_NAME:giant buzzard hatchling:giant buzzard hatchlings]"
-msgstr "[GENERAL_CHILD_NAME:jeune buse géante:jeunes buses géantes]"
+msgstr "[GENERAL_CHILD_NAME:oisillon buse géante:oisillons buses géantes]"
 
 #: creature_large_temperate.txt:1676
 msgctxt "CREATURE:GIANT_BUZZARD"
@@ -19805,7 +19805,7 @@ msgstr "[ATTACK_VERB:coup de pied:coups de pied]"
 #: creature_large_tropical.txt:78
 msgctxt "CREATURE:ELEPHANT"
 msgid "[ATTACK_VERB:gore:gores]"
-msgstr "[ATTACK_VERB:encorner:encorner]"
+msgstr "[ATTACK_VERB:encorner:encorne]"
 
 #: creature_large_tropical.txt:98
 msgctxt "CREATURE:ELEPHANT"
@@ -21298,12 +21298,12 @@ msgstr ""
 #: creature_large_tropical.txt:2297
 msgctxt "CREATURE:GIBBON_BILOU"
 msgid "[NAME:bilou:bilous:bilou]"
-msgstr ""
+msgstr "[NAME:bilou:bilous:bilou]"
 
 #: creature_large_tropical.txt:2298
 msgctxt "CREATURE:GIBBON_BILOU"
 msgid "[CASTE_NAME:bilou:bilous:bilou]"
-msgstr ""
+msgstr "[CASTE_NAME:bilou:bilous:bilou]"
 
 #: creature_large_tropical.txt:2310
 msgctxt "CREATURE:GIBBON_BILOU"
@@ -21358,16 +21358,18 @@ msgctxt "CREATURE:GIBBON_WHITE_BROWED"
 msgid ""
 "[CASTE_NAME:white-browed gibbon:white-browed gibbons:white-browed gibbon]"
 msgstr ""
+"[CASTE_NAME:gibbon à sourcils blancs:gibbons à sourcils blancs:gibbon à "
+"sourcils blancs]"
 
 #: creature_large_tropical.txt:2401
 msgctxt "CREATURE:GIBBON_WHITE_BROWED"
 msgid "[PREFSTRING:mask-like facial coloration]"
-msgstr ""
+msgstr "[PREFSTRING:coloration faciale en forme de masque]"
 
 #: creature_large_tropical.txt:2402
 msgctxt "CREATURE:GIBBON_WHITE_BROWED"
 msgid "[PREFSTRING:ability to swing through the trees]"
-msgstr ""
+msgstr "[PREFSTRING:capacité de se balancer à travers les arbres]"
 
 #: creature_large_tropical.txt:2436
 msgctxt "CREATURE:GIBBON_WHITE_BROWED"
@@ -21400,17 +21402,21 @@ msgid ""
 "[DESCRIPTION:A small ape from the tropical forest.  It can be found in the "
 "trees eating fruit.]"
 msgstr ""
+"[DESCRIPTION:Petit singe de la forêt tropicale. On le trouve dans les arbres"
+" en train de manger des fruits.]"
 
 #: creature_large_tropical.txt:2479
 msgctxt "CREATURE:GIBBON_BLACK_CRESTED"
 msgid "[NAME:black-crested gibbon:black-crested gibbons:black-crested gibbon]"
 msgstr ""
+"[NAME:gibbon à crête noire:gibbons à crête noire:gibbon à crête noire]"
 
 #: creature_large_tropical.txt:2480
 msgctxt "CREATURE:GIBBON_BLACK_CRESTED"
 msgid ""
 "[CASTE_NAME:black-crested gibbon:black-crested gibbons:black-crested gibbon]"
 msgstr ""
+"[CASTE_NAME:gibbon à crête noire:gibbons à crête noire:gibbon à crête noire]"
 
 #: creature_large_tropical.txt:2492
 msgctxt "CREATURE:GIBBON_BLACK_CRESTED"
@@ -21461,22 +21467,22 @@ msgstr ""
 #: creature_large_tropical.txt:2570
 msgctxt "CREATURE:CAMEL_1_HUMP"
 msgid "[NAME:one-humped camel:one-humped camels:one-humped camel]"
-msgstr "[NAME:chameau à une bosse:chameaux à une bosse:chameau à une bosse]"
+msgstr "[NAME:dromadaire:dromadaires:dromadaire]"
 
 #: creature_large_tropical.txt:2571
 msgctxt "CREATURE:CAMEL_1_HUMP"
 msgid "[CASTE_NAME:one-humped camel:one-humped camels:one-humped camel]"
-msgstr ""
+msgstr "[CASTE_NAME:dromadaire:dromadaires:dromadaire]"
 
 #: creature_large_tropical.txt:2572
 msgctxt "CREATURE:CAMEL_1_HUMP"
 msgid "[GENERAL_CHILD_NAME:one-humped camel calf:one-humped camel calves]"
-msgstr ""
+msgstr "[GENERAL_CHILD_NAME:jeune dromadaire:jeunes dromadaires]"
 
 #: creature_large_tropical.txt:2581
 msgctxt "CREATURE:CAMEL_1_HUMP"
 msgid "[PREFSTRING:hump]"
-msgstr ""
+msgstr "[PREFSTRING:bosse]"
 
 #: creature_large_tropical.txt:2619
 msgctxt "CREATURE:CAMEL_1_HUMP"
@@ -21491,72 +21497,72 @@ msgstr "[ATTACK_VERB:morsure:morsures]"
 #: creature_large_tropical.txt:2653
 msgctxt "CREATURE:CAMEL_1_HUMP"
 msgid "[STATE_NAME:ALL_SOLID:frozen one-humped camel's milk]"
-msgstr ""
+msgstr "[STATE_NAME:ALL_SOLID:lait de dromadaire congelé]"
 
 #: creature_large_tropical.txt:2654
 msgctxt "CREATURE:CAMEL_1_HUMP"
 msgid "[STATE_ADJ:ALL_SOLID:frozen one-humped camel's milk]"
-msgstr ""
+msgstr "[STATE_ADJ:ALL_SOLID:lait de dromadaire congelé]"
 
 #: creature_large_tropical.txt:2655
 msgctxt "CREATURE:CAMEL_1_HUMP"
 msgid "[STATE_NAME:LIQUID:one-humped camel's milk]"
-msgstr ""
+msgstr "[STATE_NAME:LIQUID:lait de dromadaire]"
 
 #: creature_large_tropical.txt:2656
 msgctxt "CREATURE:CAMEL_1_HUMP"
 msgid "[STATE_ADJ:LIQUID:one-humped camel's milk]"
-msgstr ""
+msgstr "[STATE_ADJ:LIQUID:lait de dromadaire]"
 
 #: creature_large_tropical.txt:2657
 msgctxt "CREATURE:CAMEL_1_HUMP"
 msgid "[STATE_NAME:GAS:boiling one-humped camel's milk]"
-msgstr ""
+msgstr "[STATE_NAME:GAS:vapeur de dromadaire]"
 
 #: creature_large_tropical.txt:2658
 msgctxt "CREATURE:CAMEL_1_HUMP"
 msgid "[STATE_ADJ:GAS:boiling one-humped camel's milk]"
-msgstr ""
+msgstr "[STATE_ADJ:GAS:vapeur de dromadaire]"
 
 #: creature_large_tropical.txt:2662
 msgctxt "CREATURE:CAMEL_1_HUMP"
 msgid "[STATE_NAME:SOLID:one-humped camel cheese]"
-msgstr ""
+msgstr "[STATE_NAME:SOLID:fromage de dromadaire]"
 
 #: creature_large_tropical.txt:2663
 msgctxt "CREATURE:CAMEL_1_HUMP"
 msgid "[STATE_ADJ:SOLID:one-humped camel cheese]"
-msgstr ""
+msgstr "[STATE_ADJ:SOLID:fromage de dromadaire]"
 
 #: creature_large_tropical.txt:2664
 msgctxt "CREATURE:CAMEL_1_HUMP"
 msgid "[STATE_NAME:SOLID_POWDER:one-humped camel cheese powder]"
-msgstr ""
+msgstr "[STATE_NAME:SOLID_POWDER:fromage de dromadaire en poudre]"
 
 #: creature_large_tropical.txt:2665
 msgctxt "CREATURE:CAMEL_1_HUMP"
 msgid "[STATE_ADJ:SOLID_POWDER:one-humped camel cheese powder]"
-msgstr ""
+msgstr "[STATE_ADJ:SOLID_POWDER:fromage de dromadaire en poudre]"
 
 #: creature_large_tropical.txt:2666
 msgctxt "CREATURE:CAMEL_1_HUMP"
 msgid "[STATE_NAME:LIQUID:melted one-humped camel cheese]"
-msgstr ""
+msgstr "[STATE_NAME:LIQUID:fromage de dromadaire fondu]"
 
 #: creature_large_tropical.txt:2667
 msgctxt "CREATURE:CAMEL_1_HUMP"
 msgid "[STATE_ADJ:LIQUID:melted one-humped camel cheese]"
-msgstr ""
+msgstr "[STATE_ADJ:LIQUID:fromage de dromadaire fondu]"
 
 #: creature_large_tropical.txt:2668
 msgctxt "CREATURE:CAMEL_1_HUMP"
 msgid "[STATE_NAME:GAS:boiling one-humped camel cheese]"
-msgstr ""
+msgstr "[STATE_NAME:GAS:vapeur de dromadaire]"
 
 #: creature_large_tropical.txt:2669
 msgctxt "CREATURE:CAMEL_1_HUMP"
 msgid "[STATE_ADJ:GAS:boiling one-humped camel cheese]"
-msgstr ""
+msgstr "[STATE_ADJ:GAS:vapeur de dromadaire]"
 
 #: creature_large_tropical.txt:2677
 msgctxt "CREATURE:CAMEL_1_HUMP"
@@ -21576,75 +21582,75 @@ msgstr "[TLCM_NOUN:yeux:PLURAL]"
 #: creature_large_tropical.txt:2689
 msgctxt "CREATURE:CAMEL_1_HUMP_MAN"
 msgid "[CVCT_TARGET:one-humped camel]"
-msgstr ""
+msgstr "[CVCT_TARGET:dromadaire]"
 
 #: creature_large_tropical.txt:2690
 msgctxt "CREATURE:CAMEL_1_HUMP_MAN"
 msgid "[CVCT_REPLACEMENT:one-humped camel man]"
-msgstr ""
+msgstr "[CVCT_REPLACEMENT:homme-dromadaire]"
 
 #: creature_large_tropical.txt:2699
 msgctxt "CREATURE:CAMEL_1_HUMP_MAN"
 msgid ""
 "[CASTE_NAME:one-humped camel man:one-humped camel men:one-humped camel man]"
-msgstr ""
+msgstr "[CASTE_NAME:homme-dromadaire:hommes-dromadaires:homme-dromadaire]"
 
 #: creature_large_tropical.txt:2701
 msgctxt "CREATURE:CAMEL_1_HUMP_MAN"
 msgid ""
 "[CASTE_NAME:one-humped camel woman:one-humped camel women:one-humped camel "
 "woman]"
-msgstr ""
+msgstr "[CASTE_NAME:femme-dromadaire:femmes-dromadaires:femme-dromadaire]"
 
 #: creature_large_tropical.txt:2712
 msgctxt "CREATURE:CAMEL_1_HUMP_MAN"
 msgid "[NAME:one-humped camel man:one-humped camel men:one-humped camel man]"
-msgstr ""
+msgstr "[NAME:homme-dromadaire:hommes-dromadaires:homme-dromadaire]"
 
 #: creature_large_tropical.txt:2713
 msgctxt "CREATURE:CAMEL_1_HUMP_MAN"
 msgid "[DESCRIPTION:A person with the head and hump of a one-humped camel.]"
-msgstr ""
+msgstr "[DESCRIPTION:Personne ayant la tête et la bosse d'un dromadaire.]"
 
 #: creature_large_tropical.txt:2728
 msgctxt "CREATURE:GIANT_CAMEL_1_HUMP"
 msgid "[CVCT_TARGET:one-humped camel]"
-msgstr ""
+msgstr "[CVCT_TARGET:dromadaire]"
 
 #: creature_large_tropical.txt:2729
 msgctxt "CREATURE:GIANT_CAMEL_1_HUMP"
 msgid "[CVCT_REPLACEMENT:giant one-humped camel]"
-msgstr ""
+msgstr "[CVCT_REPLACEMENT:dromadaire géant]"
 
 #: creature_large_tropical.txt:2742
 msgctxt "CREATURE:GIANT_CAMEL_1_HUMP"
 msgid ""
 "[NAME:giant one-humped camel:giant one-humped camels:giant one-humped camel]"
-msgstr ""
+msgstr "[NAME:dromadaire géant:dromadaires géants:dromadaire géant]"
 
 #: creature_large_tropical.txt:2743
 msgctxt "CREATURE:GIANT_CAMEL_1_HUMP"
 msgid ""
 "[CASTE_NAME:giant one-humped camel:giant one-humped camels:giant one-humped "
 "camel]"
-msgstr ""
+msgstr "[CASTE_NAME:dromadaire géant:dromadaires géants:dromadaire géant]"
 
 #: creature_large_tropical.txt:2744
 msgctxt "CREATURE:GIANT_CAMEL_1_HUMP"
 msgid ""
 "[GENERAL_CHILD_NAME:giant one-humped camel calf:giant one-humped camel "
 "calves]"
-msgstr ""
+msgstr "[GENERAL_CHILD_NAME:jeune dromadaire géant:jeunes dromadaires géants]"
 
 #: creature_large_tropical.txt:2745
 msgctxt "CREATURE:GIANT_CAMEL_1_HUMP"
 msgid "[DESCRIPTION:A huge monster the shape of a one-humped camel.]"
-msgstr ""
+msgstr "[DESCRIPTION:Un énorme monstre ayant la forme d'un dromadaire.]"
 
 #: creature_large_tropical.txt:2754
 msgctxt "CREATURE:GIANT_CAMEL_1_HUMP"
 msgid "[PREFSTRING:hump]"
-msgstr ""
+msgstr "[PREFSTRING:bosse]"
 
 #: creature_large_tropical.txt:2760
 msgctxt "CREATURE:CAMEL_2_HUMP"
@@ -21652,26 +21658,29 @@ msgid ""
 "[DESCRIPTION:A large, long-necked creature with two fleshy humps on its "
 "back.  It is domesticated to carry passengers and cargo.]"
 msgstr ""
+"[DESCRIPTION:Une grande créature au long cou avec deux bosses charnues sur "
+"le dos. Il est domestiqué pour transporter des passagers et des "
+"marchandises.]"
 
 #: creature_large_tropical.txt:2761
 msgctxt "CREATURE:CAMEL_2_HUMP"
 msgid "[NAME:two-humped camel:two-humped camels:two-humped camel]"
-msgstr ""
+msgstr "[NAME:chameau:chameaux:chameau]"
 
 #: creature_large_tropical.txt:2762
 msgctxt "CREATURE:CAMEL_2_HUMP"
 msgid "[CASTE_NAME:two-humped camel:two-humped camels:two-humped camel]"
-msgstr ""
+msgstr "[CASTE_NAME:chameau:chameaux:chameau]"
 
 #: creature_large_tropical.txt:2763
 msgctxt "CREATURE:CAMEL_2_HUMP"
 msgid "[GENERAL_CHILD_NAME:two-humped camel calf:two-humped camel calves]"
-msgstr ""
+msgstr "[GENERAL_CHILD_NAME:chamelon:chamelons]"
 
 #: creature_large_tropical.txt:2772
 msgctxt "CREATURE:CAMEL_2_HUMP"
 msgid "[PREFSTRING:humps]"
-msgstr ""
+msgstr "[PREFSTRING:bosse]"
 
 #: creature_large_tropical.txt:2810
 msgctxt "CREATURE:CAMEL_2_HUMP"
@@ -21686,72 +21695,72 @@ msgstr "[ATTACK_VERB:morsure:morsures]"
 #: creature_large_tropical.txt:2844
 msgctxt "CREATURE:CAMEL_2_HUMP"
 msgid "[STATE_NAME:ALL_SOLID:frozen two-humped camel's milk]"
-msgstr ""
+msgstr "[STATE_NAME:ALL_SOLID:lait de chameau congelé]"
 
 #: creature_large_tropical.txt:2845
 msgctxt "CREATURE:CAMEL_2_HUMP"
 msgid "[STATE_ADJ:ALL_SOLID:frozen two-humped camel's milk]"
-msgstr ""
+msgstr "[STATE_ADJ:ALL_SOLID:lait de chameau congelé]"
 
 #: creature_large_tropical.txt:2846
 msgctxt "CREATURE:CAMEL_2_HUMP"
 msgid "[STATE_NAME:LIQUID:two-humped camel's milk]"
-msgstr ""
+msgstr "[STATE_NAME:LIQUID:lait de chameau]"
 
 #: creature_large_tropical.txt:2847
 msgctxt "CREATURE:CAMEL_2_HUMP"
 msgid "[STATE_ADJ:LIQUID:two-humped camel's milk]"
-msgstr ""
+msgstr "[STATE_ADJ:LIQUID:lait de chameau]"
 
 #: creature_large_tropical.txt:2848
 msgctxt "CREATURE:CAMEL_2_HUMP"
 msgid "[STATE_NAME:GAS:boiling two-humped camel's milk]"
-msgstr ""
+msgstr "[STATE_NAME:GAS:vapeur de lait de chameau]"
 
 #: creature_large_tropical.txt:2849
 msgctxt "CREATURE:CAMEL_2_HUMP"
 msgid "[STATE_ADJ:GAS:boiling two-humped camel's milk]"
-msgstr ""
+msgstr "[STATE_ADJ:GAS:vapeur de lait de chameau]"
 
 #: creature_large_tropical.txt:2853
 msgctxt "CREATURE:CAMEL_2_HUMP"
 msgid "[STATE_NAME:SOLID:two-humped camel cheese]"
-msgstr ""
+msgstr "[STATE_NAME:SOLID:fromage de chameau]"
 
 #: creature_large_tropical.txt:2854
 msgctxt "CREATURE:CAMEL_2_HUMP"
 msgid "[STATE_ADJ:SOLID:two-humped camel cheese]"
-msgstr ""
+msgstr "[STATE_ADJ:SOLID:fromage de chameau]"
 
 #: creature_large_tropical.txt:2855
 msgctxt "CREATURE:CAMEL_2_HUMP"
 msgid "[STATE_NAME:SOLID_POWDER:two-humped camel cheese powder]"
-msgstr ""
+msgstr "[STATE_NAME:SOLID_POWDER:fromage de chameau en poudre]"
 
 #: creature_large_tropical.txt:2856
 msgctxt "CREATURE:CAMEL_2_HUMP"
 msgid "[STATE_ADJ:SOLID_POWDER:two-humped camel cheese powder]"
-msgstr ""
+msgstr "[STATE_ADJ:SOLID_POWDER:fromage de chameau en poudre]"
 
 #: creature_large_tropical.txt:2857
 msgctxt "CREATURE:CAMEL_2_HUMP"
 msgid "[STATE_NAME:LIQUID:melted two-humped camel cheese]"
-msgstr ""
+msgstr "[STATE_NAME:LIQUID:fromage de chameau fondu]"
 
 #: creature_large_tropical.txt:2858
 msgctxt "CREATURE:CAMEL_2_HUMP"
 msgid "[STATE_ADJ:LIQUID:melted two-humped camel cheese]"
-msgstr ""
+msgstr "[STATE_ADJ:LIQUID:fromage de chameau fondu]"
 
 #: creature_large_tropical.txt:2859
 msgctxt "CREATURE:CAMEL_2_HUMP"
 msgid "[STATE_NAME:GAS:boiling two-humped camel cheese]"
-msgstr ""
+msgstr "[STATE_NAME:GAS:vapeur de fromage de chameau]"
 
 #: creature_large_tropical.txt:2860
 msgctxt "CREATURE:CAMEL_2_HUMP"
 msgid "[STATE_ADJ:GAS:boiling two-humped camel cheese]"
-msgstr ""
+msgstr "[STATE_ADJ:GAS:vapeur de fromage de chameau]"
 
 #: creature_large_tropical.txt:2868
 msgctxt "CREATURE:CAMEL_2_HUMP"
@@ -21771,75 +21780,75 @@ msgstr "[TLCM_NOUN:yeux:PLURAL]"
 #: creature_large_tropical.txt:2880
 msgctxt "CREATURE:CAMEL_2_HUMP_MAN"
 msgid "[CVCT_TARGET:two-humped camel]"
-msgstr ""
+msgstr "[CVCT_TARGET:chameau]"
 
 #: creature_large_tropical.txt:2881
 msgctxt "CREATURE:CAMEL_2_HUMP_MAN"
 msgid "[CVCT_REPLACEMENT:two-humped camel man]"
-msgstr ""
+msgstr "[CVCT_REPLACEMENT:homme-chameau]"
 
 #: creature_large_tropical.txt:2890
 msgctxt "CREATURE:CAMEL_2_HUMP_MAN"
 msgid ""
 "[CASTE_NAME:two-humped camel man:two-humped camel men:two-humped camel man]"
-msgstr ""
+msgstr "[CASTE_NAME:homme-chameau:hommes-chameaux:homme-chameau]"
 
 #: creature_large_tropical.txt:2892
 msgctxt "CREATURE:CAMEL_2_HUMP_MAN"
 msgid ""
 "[CASTE_NAME:two-humped camel woman:two-humped camel women:two-humped camel "
 "woman]"
-msgstr ""
+msgstr "[CASTE_NAME:femme-chameau:femmes-chameaux:femme-chameau]"
 
 #: creature_large_tropical.txt:2903
 msgctxt "CREATURE:CAMEL_2_HUMP_MAN"
 msgid "[NAME:two-humped camel man:two-humped camel men:two-humped camel man]"
-msgstr ""
+msgstr "[NAME:homme-chameau:hommes-chameaux:homme-chameau]"
 
 #: creature_large_tropical.txt:2904
 msgctxt "CREATURE:CAMEL_2_HUMP_MAN"
 msgid "[DESCRIPTION:A person with the head and humps of a two-humped camel.]"
-msgstr ""
+msgstr "[DESCRIPTION:Personne ayant la tête et les bosses d'un chameau.]"
 
 #: creature_large_tropical.txt:2919
 msgctxt "CREATURE:GIANT_CAMEL_2_HUMP"
 msgid "[CVCT_TARGET:two-humped camel]"
-msgstr ""
+msgstr "[CVCT_TARGET:chameau]"
 
 #: creature_large_tropical.txt:2920
 msgctxt "CREATURE:GIANT_CAMEL_2_HUMP"
 msgid "[CVCT_REPLACEMENT:giant two-humped camel]"
-msgstr ""
+msgstr "[CVCT_REPLACEMENT:chameau géant]"
 
 #: creature_large_tropical.txt:2933
 msgctxt "CREATURE:GIANT_CAMEL_2_HUMP"
 msgid ""
 "[NAME:giant two-humped camel:giant two-humped camels:giant two-humped camel]"
-msgstr ""
+msgstr "[NAME:chameau géant:chameaux géants:chameau géant]"
 
 #: creature_large_tropical.txt:2934
 msgctxt "CREATURE:GIANT_CAMEL_2_HUMP"
 msgid ""
 "[CASTE_NAME:giant two-humped camel:giant two-humped camels:giant two-humped "
 "camel]"
-msgstr ""
+msgstr "[CASTE_NAME:chameau géant:chameaux géants:chameau géant]"
 
 #: creature_large_tropical.txt:2935
 msgctxt "CREATURE:GIANT_CAMEL_2_HUMP"
 msgid ""
 "[GENERAL_CHILD_NAME:giant two-humped camel calf:giant two-humped camel "
 "calves]"
-msgstr ""
+msgstr "[GENERAL_CHILD_NAME:chamelon géant:chamelons géants]"
 
 #: creature_large_tropical.txt:2936
 msgctxt "CREATURE:GIANT_CAMEL_2_HUMP"
 msgid "[DESCRIPTION:A huge monster the shape of a two-humped camel.]"
-msgstr ""
+msgstr "[DESCRIPTION:Un énorme monstre ayant la forme d'un chameau.]"
 
 #: creature_large_tropical.txt:2945
 msgctxt "CREATURE:GIANT_CAMEL_2_HUMP"
 msgid "[PREFSTRING:hump]"
-msgstr ""
+msgstr "[PREFSTRING:bosse]"
 
 #: creature_large_tropical.txt:2951
 msgctxt "CREATURE:CROCODILE_SALTWATER"
@@ -21848,24 +21857,28 @@ msgid ""
 "deltas.  It ambushes its prey at the shore and uses its great size to drag "
 "the victim under and drown them.]"
 msgstr ""
+"[DESCRIPTION:Un énorme reptile prédateur que l'on trouve dans les marais "
+"côtiers et les deltas des rivières. Il tend une embuscade à ses proies sur "
+"le rivage et utilise sa grande taille pour entraîner la victime sous l'eau "
+"et la noyer.]"
 
 #: creature_large_tropical.txt:2952
 msgctxt "CREATURE:CROCODILE_SALTWATER"
 msgid "[NAME:saltwater crocodile:saltwater crocodiles:saltwater crocodile]"
-msgstr ""
+msgstr "[NAME:crocodile de mer:crocodiles de mer:crocodile de mer]"
 
 #: creature_large_tropical.txt:2953
 msgctxt "CREATURE:CROCODILE_SALTWATER"
 msgid ""
 "[CASTE_NAME:saltwater crocodile:saltwater crocodiles:saltwater crocodile]"
-msgstr ""
+msgstr "[CASTE_NAME:crocodile de mer:crocodiles de mer:crocodile de mer]"
 
 #: creature_large_tropical.txt:2954
 msgctxt "CREATURE:CROCODILE_SALTWATER"
 msgid ""
 "[GENERAL_CHILD_NAME:saltwater crocodile hatchling:saltwater crocodile "
 "hatchlings]"
-msgstr ""
+msgstr "[GENERAL_CHILD_NAME:jeune crocodile de mer:jeunes crocodiles de mer]"
 
 #: creature_large_tropical.txt:2975
 msgctxt "CREATURE:CROCODILE_SALTWATER"
@@ -21893,6 +21906,8 @@ msgid ""
 "[CASTE_NAME:saltwater crocodile man:saltwater crocodile men:saltwater "
 "crocodile man]"
 msgstr ""
+"[CASTE_NAME:homme-crocodile de mer:hommes-crocodiles de mer:homme-crocodile "
+"de mer]"
 
 #: creature_large_tropical.txt:3061
 msgctxt "CREATURE:CROCODILE_SALTWATER_MAN"
@@ -21900,6 +21915,8 @@ msgid ""
 "[CASTE_NAME:saltwater crocodile woman:saltwater crocodile women:saltwater "
 "crocodile woman]"
 msgstr ""
+"[CASTE_NAME:femme-crocodile de mer:femmes-crocodiles de mer:femme-crocodile "
+"de mer]"
 
 #: creature_large_tropical.txt:3072
 msgctxt "CREATURE:CROCODILE_SALTWATER_MAN"
@@ -21907,12 +21924,16 @@ msgid ""
 "[NAME:saltwater crocodile man:saltwater crocodile men:saltwater crocodile "
 "man]"
 msgstr ""
+"[NAME:homme-crocodile de mer:hommes-crocodiles de mer:homme-crocodile de "
+"mer]"
 
 #: creature_large_tropical.txt:3073
 msgctxt "CREATURE:CROCODILE_SALTWATER_MAN"
 msgid ""
 "[DESCRIPTION:A person with the head and tail of a saltwater crocodile.]"
 msgstr ""
+"[DESCRIPTION:Personne ayant la tête et la queue d'un crocodile d'eau de "
+"mer.]"
 
 #: creature_large_tropical.txt:3091
 msgctxt "CREATURE:GIANT_CROCODILE_SALTWATER"
@@ -21920,6 +21941,8 @@ msgid ""
 "[NAME:giant saltwater crocodile:giant saltwater crocodiles:giant saltwater "
 "crocodile]"
 msgstr ""
+"[NAME:crocodile de mer géant:crocodiles de mer géants:crocodile de mer "
+"géant]"
 
 #: creature_large_tropical.txt:3092
 msgctxt "CREATURE:GIANT_CROCODILE_SALTWATER"
@@ -21927,6 +21950,8 @@ msgid ""
 "[CASTE_NAME:giant saltwater crocodile:giant saltwater crocodiles:giant "
 "saltwater crocodile]"
 msgstr ""
+"[CASTE_NAME:crocodile de mer géant:crocodiles de mer géants:crocodile de mer"
+" géant]"
 
 #: creature_large_tropical.txt:3093
 msgctxt "CREATURE:GIANT_CROCODILE_SALTWATER"
@@ -21934,11 +21959,13 @@ msgid ""
 "[GENERAL_CHILD_NAME:giant saltwater crocodile hatchling:giant saltwater "
 "crocodile hatchlings]"
 msgstr ""
+"[GENERAL_CHILD_NAME:jeune crocodile de mer géant:jeunes crocodiles de mer "
+"géants]"
 
 #: creature_large_tropical.txt:3094
 msgctxt "CREATURE:GIANT_CROCODILE_SALTWATER"
 msgid "[DESCRIPTION:A huge monster in the shape of a saltwater crocodile.]"
-msgstr ""
+msgstr "[DESCRIPTION:Un énorme monstre en forme de crocodile d'eau de mer.]"
 
 #: creature_large_tropical.txt:3103
 msgctxt "CREATURE:GIANT_CROCODILE_SALTWATER"
@@ -21967,12 +21994,12 @@ msgstr "[CASTE_NAME:vautour:vautours:vautour]"
 #: creature_large_tropical.txt:3112
 msgctxt "CREATURE:BIRD_VULTURE"
 msgid "[GENERAL_CHILD_NAME:vulture hatchling:vulture hatchlings]"
-msgstr ""
+msgstr "[GENERAL_CHILD_NAME:oisillon de vautour:oisillons de vautour]"
 
 #: creature_large_tropical.txt:3136
 msgctxt "CREATURE:BIRD_VULTURE"
 msgid "[PREFSTRING:patience]"
-msgstr ""
+msgstr "[PREFSTRING:patience]"
 
 #: creature_large_tropical.txt:3174
 msgctxt "CREATURE:BIRD_VULTURE"
@@ -22002,47 +22029,48 @@ msgstr "[TLCM_NOUN:yeux:PLURAL]"
 #: creature_large_tropical.txt:3217
 msgctxt "CREATURE:VULTURE_MAN"
 msgid "[CASTE_NAME:vulture man:vulture men:vulture man]"
-msgstr ""
+msgstr "[CASTE_NAME:homme-vatour:hommes-vautours:homme-vautour]"
 
 #: creature_large_tropical.txt:3219
 msgctxt "CREATURE:VULTURE_MAN"
 msgid "[CASTE_NAME:vulture woman:vulture women:vulture woman]"
-msgstr ""
+msgstr "[CASTE_NAME:femme-vatour:femmes-vautours:femme-vautour]"
 
 #: creature_large_tropical.txt:3231
 msgctxt "CREATURE:VULTURE_MAN"
 msgid "[NAME:vulture man:vulture men:vulture man]"
-msgstr ""
+msgstr "[NAME:homme-vatour:hommes-vautours:homme-vautour]"
 
 #: creature_large_tropical.txt:3232
 msgctxt "CREATURE:VULTURE_MAN"
 msgid "[DESCRIPTION:A person with the head and wings of a vulture.]"
-msgstr ""
+msgstr "[DESCRIPTION:Personne ayant la tête et les ailes d'un vautour.]"
 
 #: creature_large_tropical.txt:3248
 msgctxt "CREATURE:GIANT_VULTURE"
 msgid "[NAME:giant vulture:giant vultures:giant vulture]"
-msgstr ""
+msgstr "[NAME:vautour géant:vautours géants:vautour géant]"
 
 #: creature_large_tropical.txt:3249
 msgctxt "CREATURE:GIANT_VULTURE"
 msgid "[CASTE_NAME:giant vulture:giant vultures:giant vulture]"
-msgstr ""
+msgstr "[CASTE_NAME:vautour géant:vautours géants:vautour géant]"
 
 #: creature_large_tropical.txt:3250
 msgctxt "CREATURE:GIANT_VULTURE"
 msgid "[GENERAL_CHILD_NAME:giant vulture hatchling:giant vulture hatchlings]"
 msgstr ""
+"[GENERAL_CHILD_NAME:oisillon de vautour géant:oisillons de vautours géants]"
 
 #: creature_large_tropical.txt:3251
 msgctxt "CREATURE:GIANT_VULTURE"
 msgid "[DESCRIPTION:A huge monster in the form of a vulture.]"
-msgstr ""
+msgstr "[DESCRIPTION:Un énorme monstre en forme de vautour.]"
 
 #: creature_large_tropical.txt:3260
 msgctxt "CREATURE:GIANT_VULTURE"
 msgid "[PREFSTRING:patience]"
-msgstr ""
+msgstr "[PREFSTRING:patience]"
 
 #: creature_large_tropical.txt:3267
 msgctxt "CREATURE:RHINOCEROS"
@@ -22050,6 +22078,9 @@ msgid ""
 "[DESCRIPTION:A huge herbivore with thick plated skin and powerful build.  It"
 " is known for the thick horns on the end of its nose.]"
 msgstr ""
+"[DESCRIPTION:Un énorme herbivore à la peau épaisse et à la carrure "
+"puissante. Il est connu pour les cornes épaisses qu'il porte au bout de son "
+"nez.]"
 
 #: creature_large_tropical.txt:3268
 msgctxt "CREATURE:RHINOCEROS"
@@ -22059,17 +22090,17 @@ msgstr "[NAME:rhinocéros:rhinocéros:rhinocéros]"
 #: creature_large_tropical.txt:3269
 msgctxt "CREATURE:RHINOCEROS"
 msgid "[CASTE_NAME:rhinoceros:rhinoceroses:rhinoceros]"
-msgstr ""
+msgstr "[CASTE_NAME:rhinocéros:rhinocéros:rhinocéros]"
 
 #: creature_large_tropical.txt:3270
 msgctxt "CREATURE:RHINOCEROS"
 msgid "[GENERAL_CHILD_NAME:rhinoceros calf:rhinoceros calves]"
-msgstr ""
+msgstr "[GENERAL_CHILD_NAME:jeune rhinocéros:jeunes rhinocéros]"
 
 #: creature_large_tropical.txt:3286
 msgctxt "CREATURE:RHINOCEROS"
 msgid "[PREFSTRING:horns]"
-msgstr ""
+msgstr "[PREFSTRING:cornes]"
 
 #: creature_large_tropical.txt:3318
 msgctxt "CREATURE:RHINOCEROS"
@@ -22079,7 +22110,7 @@ msgstr "[ATTACK_VERB:coup de pied:coups de pied]"
 #: creature_large_tropical.txt:3326
 msgctxt "CREATURE:RHINOCEROS"
 msgid "[ATTACK_VERB:gore:gores]"
-msgstr ""
+msgstr "[ATTACK_VERB:encorner:encorne]"
 
 #: creature_large_tropical.txt:3346
 msgctxt "CREATURE:RHINOCEROS"
@@ -22094,47 +22125,47 @@ msgstr "[TLCM_NOUN:yeux:PLURAL]"
 #: creature_large_tropical.txt:3358
 msgctxt "CREATURE:RHINOCEROS_MAN"
 msgid "[CASTE_NAME:rhinoceros man:rhinoceros men:rhinoceros man]"
-msgstr ""
+msgstr "[CASTE_NAME:homme-rhinocéros:hommes-rhinocéros:homme-rhinocéros]"
 
 #: creature_large_tropical.txt:3360
 msgctxt "CREATURE:RHINOCEROS_MAN"
 msgid "[CASTE_NAME:rhinoceros woman:rhinoceros women:rhinoceros woman]"
-msgstr ""
+msgstr "[CASTE_NAME:femme-rhinocéros:femmes-rhinocéros:femme-rhinocéros]"
 
 #: creature_large_tropical.txt:3368
 msgctxt "CREATURE:RHINOCEROS_MAN"
 msgid "[ATTACK_VERB:gore:gores]"
-msgstr ""
+msgstr "[ATTACK_VERB:encorner:encorne]"
 
 #: creature_large_tropical.txt:3378
 msgctxt "CREATURE:RHINOCEROS_MAN"
 msgid "[NAME:rhinoceros man:rhinoceros men:rhinoceros man]"
-msgstr ""
+msgstr "[NAME:homme-rhinocéros:hommes-rhinocéros:homme-rhinocéros]"
 
 #: creature_large_tropical.txt:3379
 msgctxt "CREATURE:RHINOCEROS_MAN"
 msgid "[DESCRIPTION:A person with the head and horns of a rhinoceros.]"
-msgstr ""
+msgstr "[DESCRIPTION:Personne ayant la tête et les cornes d'un rhinocéros.]"
 
 #: creature_large_tropical.txt:3399
 msgctxt "CREATURE:GIANT_RHINOCEROS"
 msgid "[NAME:giant rhinoceros:giant rhinoceroses:giant rhinoceros]"
-msgstr ""
+msgstr "[NAME:rhinocéros géant:rhinocéros géants:rhinocéros géant]"
 
 #: creature_large_tropical.txt:3400
 msgctxt "CREATURE:GIANT_RHINOCEROS"
 msgid "[CASTE_NAME:giant rhinoceros:giant rhinoceroses:giant rhinoceros]"
-msgstr ""
+msgstr "[CASTE_NAME:rhinocéros géant:rhinocéros géants:rhinocéros géant]"
 
 #: creature_large_tropical.txt:3401
 msgctxt "CREATURE:GIANT_RHINOCEROS"
 msgid "[GENERAL_CHILD_NAME:giant rhinoceros calf:giant rhinoceros calves]"
-msgstr ""
+msgstr "[GENERAL_CHILD_NAME:jeune rhinocéros géant:jeunes rhinocéros géants]"
 
 #: creature_large_tropical.txt:3402
 msgctxt "CREATURE:GIANT_RHINOCEROS"
 msgid "[DESCRIPTION:A huge monster the shape of a rhinoceros.]"
-msgstr ""
+msgstr "[DESCRIPTION:Un énorme monstre ayant la forme d'un rhinocéros.]"
 
 #: creature_large_tropical.txt:3411
 msgctxt "CREATURE:GIANT_RHINOCEROS"
@@ -22147,21 +22178,24 @@ msgid ""
 "[DESCRIPTION:A huge leaf-eating mammal.  It has an extremely long neck.  Its"
 " skin has a distinctive brown and white pattern.]"
 msgstr ""
+"[DESCRIPTION:Un énorme mammifère mangeur de feuilles. Son cou est "
+"extrêmement long. Sa peau présente un motif marron et blanc "
+"caractéristique.]"
 
 #: creature_large_tropical.txt:3418
 msgctxt "CREATURE:GIRAFFE"
 msgid "[NAME:giraffe:giraffes:giraffe]"
-msgstr ""
+msgstr "[NAME:girafe:girafes:girafe]"
 
 #: creature_large_tropical.txt:3419
 msgctxt "CREATURE:GIRAFFE"
 msgid "[CASTE_NAME:giraffe:giraffes:giraffe]"
-msgstr ""
+msgstr "[CASTE_NAME:girafe:girafes:girafe]"
 
 #: creature_large_tropical.txt:3420
 msgctxt "CREATURE:GIRAFFE"
 msgid "[GENERAL_CHILD_NAME:giraffe calf:giraffe calves]"
-msgstr ""
+msgstr "[GENERAL_CHILD_NAME:girafon:girafons]"
 
 #: creature_large_tropical.txt:3434
 msgctxt "CREATURE:GIRAFFE"
@@ -22191,47 +22225,47 @@ msgstr "[TLCM_NOUN:yeux:PLURAL]"
 #: creature_large_tropical.txt:3504
 msgctxt "CREATURE:GIRAFFE_MAN"
 msgid "[CASTE_NAME:giraffe man:giraffe men:giraffe man]"
-msgstr ""
+msgstr "[CASTE_NAME:homme-girafe:homme-girafes:homme-girafe]"
 
 #: creature_large_tropical.txt:3506
 msgctxt "CREATURE:GIRAFFE_MAN"
 msgid "[CASTE_NAME:giraffe woman:giraffe women:giraffe woman]"
-msgstr ""
+msgstr "[CASTE_NAME:femme-girafe:femme-girafes:femme-girafe]"
 
 #: creature_large_tropical.txt:3516
 msgctxt "CREATURE:GIRAFFE_MAN"
 msgid "[NAME:giraffe man:giraffe men:giraffe man]"
-msgstr ""
+msgstr "[NAME:homme-girafe:homme-girafes:homme-girafe]"
 
 #: creature_large_tropical.txt:3517
 msgctxt "CREATURE:GIRAFFE_MAN"
 msgid "[DESCRIPTION:A person with the head and neck of a giraffe.]"
-msgstr ""
+msgstr "[DESCRIPTION:Personne ayant la tête et le cou d'une girafe.]"
 
 #: creature_large_tropical.txt:3537
 msgctxt "CREATURE:GIANT_GIRAFFE"
 msgid "[NAME:giant giraffe:giant giraffes:giant giraffe]"
-msgstr ""
+msgstr "[NAME:girafe géante:girafes géantes:girafe géante]"
 
 #: creature_large_tropical.txt:3538
 msgctxt "CREATURE:GIANT_GIRAFFE"
 msgid "[CASTE_NAME:giant giraffe:giant giraffes:giant giraffe]"
-msgstr ""
+msgstr "[CASTE_NAME:girafe géante:girafes géantes:girafe géante]"
 
 #: creature_large_tropical.txt:3539
 msgctxt "CREATURE:GIANT_GIRAFFE"
 msgid "[GENERAL_CHILD_NAME:giant giraffe calf:giant giraffe calves]"
-msgstr ""
+msgstr "[GENERAL_CHILD_NAME:girafon géant:girafons géants]"
 
 #: creature_large_tropical.txt:3540
 msgctxt "CREATURE:GIANT_GIRAFFE"
 msgid "[DESCRIPTION:A huge monster the shape of a giraffe.]"
-msgstr ""
+msgstr "[DESCRIPTION:Un énorme monstre en forme de girafe.]"
 
 #: creature_large_tropical.txt:3549
 msgctxt "CREATURE:GIANT_GIRAFFE"
 msgid "[PREFSTRING:hump]"
-msgstr ""
+msgstr "[PREFSTRING:bosse]"
 
 #: creature_large_tropical.txt:3554
 msgctxt "CREATURE:HONEY BADGER"
