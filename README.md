@@ -8,9 +8,9 @@ Automatically pulls translations from transifex site. If there are any changes t
 
 ### dwarf-fortress-steam
 
-![Chart](https://quickchart.io/chart/render/sf-c57c757e-0701-41bd-9081-4c63b0f60418)
+![Chart](https://quickchart.io/chart/render/sf-95d1ca18-24a2-49d4-b83a-cf06a2704516)
 <!--
 ### dwarf-fortress
 
-![Chart](https://quickchart.io/chart/render/sf-69568428-b96f-4c4a-af53-a8e6bbfbd65d)
+![Chart](https://quickchart.io/chart/render/sf-25e63fbd-60ec-42fd-bd60-011a0160fad6)
 -->
