@@ -1,4 +1,4 @@
-name: Update progress diagrams
+name: Update progress diagram
 
 on:
   workflow_dispatch:
@@ -41,7 +41,7 @@ jobs:
         cd automation/progress
         poetry install --no-interaction --no-dev
       
-    - name: Generate json file
+    - name: Generate diagram
       run: |
         cd automation/progress
         poetry run progress ../../translations/dwarf-fortress-steam ../../images/dwarf-fortress-steam.png
@@ -51,4 +51,4 @@ jobs:
       with:
         author_name: github-actions[bot]
         author_email: 41898282+github-actions[bot]@users.noreply.github.com
-        add: README.md
+        add: images/*
