@@ -1,5 +1,6 @@
 import json
 from pathlib import Path
+from pprint import pprint
 from typing import Any, Tuple
 
 import jinja2
@@ -61,7 +62,7 @@ def chart_struct(data: dict[str, dict[str, float]], labels: list[str], max_lines
     )
 
 
-def chart_url(chart_data: dict[str, Any]) -> str:
+def get_chart_url(chart_data: dict[str, Any]) -> str:
     url = "https://quickchart.io/chart/create"
     payload = dict(
         width=600,
@@ -72,54 +73,41 @@ def chart_url(chart_data: dict[str, Any]) -> str:
     )
 
     headers = {"Content-type": "application/json"}
-    response = requests.post(url, json=payload, headers=headers)
+    response = requests.get(url, json=payload, headers=headers)
+    response.raise_for_status()
     return response.json()["url"]
 
 
-def get_chart_url(path: Path) -> str:
+def prepare_dataset(path: Path):
     dataset: dict[str, dict[str, float]] = {}
     total_lines: int = 0
     labels: set[str] = set()
 
     for directory in sorted(filter(Path.is_dir, path.glob("*"))):
+        logger.info(f"processing directory: {directory}")
         resource_stats, resource_total_lines = resource_stat(directory)
         resource_name = directory.name
         dataset[resource_name] = resource_stats
         total_lines += resource_total_lines
         labels.update(resource_stats.keys())
 
-    print(json.dumps(dataset))
-    return chart_url(chart_struct(dataset, sorted(labels), total_lines))
+    return dataset, labels, total_lines
 
 
 app = typer.Typer()
 
 
 @app.command()
-def generate_readme_jinja(base_dir: Path, template_file: Path, result_path: Path):
-    logger.info(f"base_dir: {base_dir.resolve().absolute()}")
-    logger.info(f"template_file: {template_file.resolve().absolute()}")
-    logger.info(f"result_path: {result_path.resolve().absolute()}")
+def generate_chart(source_dir: Path, output: Path):
+    logger.info(f"source_dir: {source_dir}")
+    logger.info(f"output: {output}")
+    output.parent.mkdir(exist_ok=True)
 
-    template_loader = jinja2.FileSystemLoader(searchpath=template_file.parent)
-    template_env = jinja2.Environment(loader=template_loader)
-    template = template_env.get_template(template_file.name)
+    dataset, labels, total_lines = prepare_dataset(source_dir)
+    chart_url = get_chart_url(chart_struct(dataset, sorted(labels), total_lines))
+    logger.info(f"chart url: {chart_url}")
+    response = requests.get(chart_url)
+    response.raise_for_status()
 
-    dwarf_fortress_steam_chart_url = get_chart_url(base_dir / "translations/dwarf-fortress-steam")
-    dwarf_fortress_chart_url = get_chart_url(base_dir / "translations/dwarf-fortress")
-
-    output = template.render(
-        dwarf_fortress_steam_chart_url=dwarf_fortress_steam_chart_url,
-        dwarf_fortress_chart_url=dwarf_fortress_chart_url,
-    )
-
-    with open(result_path, "w") as result_file:
-        result_file.write(output)
-
-
-if __name__ == "__main__":
-    generate_readme_jinja(
-        Path("../../.."),
-        Path("../../../README.template.md"),
-        Path("../../../README.md"),
-    )
+    with open(output, "wb") as result_file:
+        result_file.write(response.content)

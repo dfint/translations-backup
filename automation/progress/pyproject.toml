@@ -30,5 +30,5 @@ profile = "black"
 line_length = 120
 
 [tool.poetry.scripts]
-# poetry run progress ../../ ../../README.template.md ../../README.md
+# poetry run progress ../../translations/dwarf-fortress-steam ../../images/dwarf-fortress-steam.png
 progress = "progress.main:app"

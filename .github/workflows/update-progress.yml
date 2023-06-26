@@ -44,7 +44,7 @@ jobs:
     - name: Generate json file
       run: |
         cd automation/progress
-        poetry run progress ../../ ../../README.template.md ../../README.md
+        poetry run progress ../../translations/dwarf-fortress-steam ../../images/dwarf-fortress-steam.png
 
     - name: Push changes to the repository
       uses: EndBug/add-and-commit@v9.1.3
