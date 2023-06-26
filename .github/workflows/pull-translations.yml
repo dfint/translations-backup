@@ -9,7 +9,7 @@ permissions:
   contents: write
 
 jobs:
-  pull-translations:
+  build:
     runs-on: ubuntu-latest
 
     steps:
