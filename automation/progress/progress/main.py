@@ -1,11 +1,11 @@
 import json
-import re
 from pathlib import Path
 from typing import Any, Tuple
 
 import jinja2
 import requests
 import typer
+from babel.messages.pofile import read_po
 from loguru import logger
 
 
@@ -14,10 +14,12 @@ def translated_lines(path: Path | str) -> Tuple[int, int]:
     translated_entries: int = 0
 
     with open(path, "r", encoding="utf-8") as file:
-        for match in re.finditer(r'^msgid\s"(.+)"\nmsgstr\s"(.*)"\n', file.read(), re.RegexFlag.MULTILINE):
-            entries += 1
-            if match.group(2) != "":
-                translated_entries += 1
+        catalog = read_po(file)
+        for message in catalog:
+            if message.id:
+                entries += 1
+                if message.string:
+                    translated_entries += 1
 
     return entries, translated_entries
 
