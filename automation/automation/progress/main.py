@@ -3,7 +3,6 @@ from pathlib import Path
 from pprint import pprint
 from typing import Any, Tuple
 
-import jinja2
 import requests
 import typer
 from babel.messages.pofile import read_po
