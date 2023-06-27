@@ -38,13 +38,13 @@ jobs:
 
     - name: Install library and dependencies
       run: |
-        cd automation/progress
+        cd automation
         poetry install --no-interaction --no-dev
       
     - name: Generate diagram
       run: |
-        cd automation/progress
-        poetry run progress ../../translations/dwarf-fortress-steam ../../images/dwarf-fortress-steam.png
+        cd automation
+        poetry run progress ../translations/dwarf-fortress-steam ../images/dwarf-fortress-steam.png
 
     - name: Push changes to the repository
       uses: EndBug/add-and-commit@v9.1.3
