@@ -30,6 +30,9 @@ def group_files_by_language(translations_directory: Path, result_directory: Path
         ...
     }
     """
+    assert translations_directory.exists()
+    assert result_directory.exists()
+
     metadata = defaultdict(dict)
     metadata_v2 = defaultdict(lambda: defaultdict(dict))
 
@@ -41,11 +44,11 @@ def group_files_by_language(translations_directory: Path, result_directory: Path
                 resource = resource_directory.name
                 metadata[resource][language] = str(file.relative_to(translations_directory))
                 metadata_v2[project][resource][language] = str(file.relative_to(translations_directory))
-    
+
     assert metadata, "Empty result"
 
-    with open(result_directory / "metadata.json", "wt") as file:
+    with open(result_directory / "metadata.json", "w", encoding="utf-8") as file:
         json.dump(metadata, file, indent=4, sort_keys=True)
 
-    with open(result_directory / "metadata-v2.json", "wt") as file:
+    with open(result_directory / "metadata-v2.json", "w", encoding="utf-8") as file:
         json.dump(metadata_v2, file, indent=4, sort_keys=True)

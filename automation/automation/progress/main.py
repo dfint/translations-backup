@@ -72,7 +72,7 @@ def get_chart_url(chart_data: dict[str, Any]) -> str:
     )
 
     headers = {"Content-type": "application/json"}
-    response = requests.get(url, json=payload, headers=headers)
+    response = requests.get(url, json=payload, headers=headers, timeout=60)
     response.raise_for_status()
     return response.json()["url"]
 
@@ -80,17 +80,17 @@ def get_chart_url(chart_data: dict[str, Any]) -> str:
 def prepare_dataset(path: Path):
     dataset: dict[str, dict[str, float]] = {}
     total_lines: int = 0
-    labels: set[str] = set()
+    languages: set[str] = set()
 
-    for directory in sorted(filter(Path.is_dir, path.glob("*"))):
-        logger.info(f"processing directory: {directory}")
-        resource_stats, resource_total_lines = resource_stat(directory)
-        resource_name = directory.name
-        dataset[resource_name] = resource_stats
+    for resource_directory in sorted(filter(Path.is_dir, path.glob("*"))):
+        logger.info(f"processing directory: {resource_directory}")
+        resource_stats, resource_total_lines = resource_stat(resource_directory)
+        dataset[resource_directory.name] = resource_stats
+        logger.info(f"{resource_total_lines=}")
         total_lines += resource_total_lines
-        labels.update(resource_stats.keys())
+        languages.update(resource_stats.keys())
 
-    return dataset, labels, total_lines
+    return dataset, languages, total_lines
 
 
 app = typer.Typer()
@@ -98,14 +98,20 @@ app = typer.Typer()
 
 @app.command()
 def generate_chart(source_dir: Path, output: Path):
-    logger.info(f"source_dir: {source_dir}")
-    logger.info(f"output: {output}")
-    output.parent.mkdir(exist_ok=True)
+    logger.info(f"source_dir: {source_dir.resolve().absolute()}")
+    logger.info(f"output: {output.resolve().absolute()}")
+    assert source_dir.exists()
+    output.parent.mkdir(exist_ok=True, parents=True)
 
-    dataset, labels, total_lines = prepare_dataset(source_dir)
-    chart_url = get_chart_url(chart_struct(dataset, sorted(labels), total_lines))
+    dataset, languages, total_lines = prepare_dataset(source_dir)
+    languages = sorted(languages)
+    logger.info(f"resources={list(dataset.keys())}")
+    logger.info(f"{languages=}")
+    logger.info(f"{total_lines=}")
+    assert total_lines, "Empty result"
+    chart_url = get_chart_url(chart_struct(dataset, languages, total_lines))
     logger.info(f"chart url: {chart_url}")
-    response = requests.get(chart_url)
+    response = requests.get(chart_url, timeout=60)
     response.raise_for_status()
 
     with open(output, "wb") as result_file:
