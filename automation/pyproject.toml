@@ -10,6 +10,7 @@ requests = "^2.31.0"
 loguru = "^0.7.0"
 typer = "^0.9.0"
 babel = "^2.12.1"
+langcodes = {extras = ["data"], version = "^3.3.0"}
 
 [tool.poetry.group.dev.dependencies]
 black = "^23.3.0"

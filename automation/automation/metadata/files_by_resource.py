@@ -17,7 +17,7 @@ def group_files_by_language(translations_directory: Path, result_directory: Path
             ...
         }
     }
-    
+
     # metadata-v2.json structure:
     {
         "dwarf-fortress": {
