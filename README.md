@@ -8,4 +8,4 @@ Automatically pulls translations from transifex site. If there are any changes t
 
 ### dwarf-fortress-steam
 
-![Chart](images/dwarf-fortress-steam.png)
+![Chart](images/dwarf-fortress-steam.svg)

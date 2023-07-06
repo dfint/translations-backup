@@ -64,20 +64,20 @@ def prepare_chart_data(data: dict[str, dict[str, float]], labels: list[str], max
     )
 
 
-def get_chart_url(chart_data: dict[str, Any]) -> str:
-    url = "https://quickchart.io/chart/create"
+def get_chart(chart_data: dict[str, Any], file_format: str = "png") -> bytes:
+    url = "https://quickchart.io/chart"
     payload = dict(
         width=600,
         height=600,
         backgroundColor="rgb(255, 255, 255)",
-        format="png",
+        format=file_format,
         chart=chart_data,
     )
 
     headers = {"Content-type": "application/json"}
-    response = requests.get(url, json=payload, headers=headers, timeout=60)
+    response = requests.post(url, json=payload, headers=headers, timeout=60)
     response.raise_for_status()
-    return response.json()["url"]
+    return response.content
 
 
 def prepare_dataset(path: Path):
@@ -113,10 +113,7 @@ def generate_chart(source_dir: Path, output: Path):
     logger.info(f"{total_lines=}")
     assert total_lines, "Empty result"
     chart_data = prepare_chart_data(dataset, languages, total_lines)
-    chart_url = get_chart_url(chart_data)
-    logger.info(f"chart url: {chart_url}")
-    response = requests.get(chart_url, timeout=60)
-    response.raise_for_status()
+    chart = get_chart(chart_data, file_format=output.suffix[1:])
 
     with open(output, "wb") as result_file:
-        result_file.write(response.content)
+        result_file.write(chart)
