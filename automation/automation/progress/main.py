@@ -41,26 +41,32 @@ def resource_stat(path: Path) -> Tuple[dict[str, int], int]:
 
 
 def prepare_chart_data(data: dict[str, dict[str, float]], labels: list[str], max_lines: int) -> dict[str, Any]:
-    datasets = [dict(label=resource, data=[lines[label] for label in labels]) for resource, lines in data.items()]
+    datasets = [
+        dict(
+            label=resource,
+            data=[lines[label] for label in labels],
+        )
+        for resource, lines in data.items()
+    ]
 
     return dict(
         type="horizontalBar",
-        data={"labels": labels, "datasets": datasets},
-        options={
-            "scales": {
-                "yAxes": [{"stacked": True}],
-                "xAxes": [
-                    {
-                        "stacked": True,
-                        "ticks": {
-                            "beginAtZero": True,
-                            "max": max_lines,
-                            "stepSize": 10000,
-                        },
-                    }
+        data=dict(labels=labels, datasets=datasets),
+        options=dict(
+            scales=dict(
+                yAxes=[dict(stacked=True)],
+                xAxes=[
+                    dict(
+                        stacked=True,
+                        ticks=dict(
+                            beginAtZero=True,
+                            max=max_lines,
+                            stepSize=10000,
+                        ),
+                    )
                 ],
-            },
-        },
+            ),
+        ),
     )
 
 
