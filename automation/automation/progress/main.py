@@ -1,4 +1,5 @@
 import json
+from operator import itemgetter
 from pathlib import Path
 from pprint import pprint
 from typing import Any, Tuple
@@ -6,6 +7,7 @@ from typing import Any, Tuple
 import requests
 import typer
 from babel.messages.pofile import read_po
+from langcodes import Language
 from loguru import logger
 
 
@@ -30,19 +32,20 @@ def resource_stat(path: Path) -> Tuple[dict[str, int], int]:
     total_lines: int = 0
 
     for file in sorted(filter(Path.is_file, path.glob("*.po"))):
-        language = file.stem
+        language = Language.get(file.stem).display_name()
         total_lines, translated = translated_lines(file)
         output[language] = translated
+        logger.debug(f"{language}: {translated}")
 
     return output, total_lines
 
 
-def chart_struct(data: dict[str, dict[str, float]], labels: list[str], max_lines: int) -> dict[str, Any]:
-    datasets = [dict(label=resource, data=list(lines.values())) for resource, lines in data.items()]
+def prepare_chart_data(data: dict[str, dict[str, float]], labels: list[str], max_lines: int) -> dict[str, Any]:
+    datasets = [dict(label=resource, data=[lines[label] for label in labels]) for resource, lines in data.items()]
 
     return dict(
         type="horizontalBar",
-        data={"labels": [elem.upper() for elem in labels], "datasets": datasets},
+        data={"labels": labels, "datasets": datasets},
         options={
             "scales": {
                 "yAxes": [{"stacked": True}],
@@ -109,7 +112,8 @@ def generate_chart(source_dir: Path, output: Path):
     logger.info(f"{languages=}")
     logger.info(f"{total_lines=}")
     assert total_lines, "Empty result"
-    chart_url = get_chart_url(chart_struct(dataset, languages, total_lines))
+    chart_data = prepare_chart_data(dataset, languages, total_lines)
+    chart_url = get_chart_url(chart_data)
     logger.info(f"chart url: {chart_url}")
     response = requests.get(chart_url, timeout=60)
     response.raise_for_status()
