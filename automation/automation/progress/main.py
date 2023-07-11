@@ -2,6 +2,7 @@ import json
 from operator import itemgetter
 from pathlib import Path
 from pprint import pprint
+from types import SimpleNamespace
 from typing import Any, Tuple
 
 import requests
@@ -9,6 +10,7 @@ import typer
 from babel.messages.pofile import read_po
 from langcodes import Language
 from loguru import logger
+from scour.scour import scourString as scour_string
 
 
 def translated_lines(path: Path | str) -> Tuple[int, int]:
@@ -102,6 +104,10 @@ def prepare_dataset(path: Path):
     return dataset, languages, total_lines
 
 
+def minify_svg(data: bytes) -> bytes:
+    return scour_string(data.decode("utf-8"), options=SimpleNamespace(strip_ids=True)).encode("utf-8")
+
+
 app = typer.Typer()
 
 
@@ -118,8 +124,13 @@ def generate_chart(source_dir: Path, output: Path):
     logger.info(f"{languages=}")
     logger.info(f"{total_lines=}")
     assert total_lines, "Empty result"
+
     chart_data = prepare_chart_data(dataset, languages, total_lines)
-    chart = get_chart(chart_data, file_format=output.suffix[1:])
+    file_format = output.suffix[1:]
+    chart = get_chart(chart_data, file_format=file_format)
+
+    if file_format == "svg":
+        chart = minify_svg(chart)
 
     with open(output, "wb") as result_file:
         result_file.write(chart)

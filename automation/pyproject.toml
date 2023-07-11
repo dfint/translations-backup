@@ -11,6 +11,7 @@ loguru = "^0.7.0"
 typer = "^0.9.0"
 babel = "^2.12.1"
 langcodes = {extras = ["data"], version = "^3.3.0"}
+scour = "^0.38.2"
 
 [tool.poetry.group.dev.dependencies]
 black = "^23.3.0"
@@ -28,7 +29,7 @@ profile = "black"
 line_length = 120
 
 [tool.poetry.scripts]
-# poetry run progress ../translations/dwarf-fortress-steam ../images/dwarf-fortress-steam.png
+# poetry run progress ../translations/dwarf-fortress-steam ../images/dwarf-fortress-steam.svg
 progress = "automation.progress.main:app"
 
 # poetry run files_by_resource ../translations ../
