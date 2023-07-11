@@ -46,5 +46,10 @@ jobs:
     - name: Dry run automation scripts
       run: |
         cd automation
-        poetry run progress ../translations/dwarf-fortress-steam ../images/dwarf-fortress-steam.png
+        
         poetry run files_by_resource ../translations ../
+        
+        poetry run progress ../translations/dwarf-fortress-steam ../images/dwarf-fortress-steam.png
+        cp images/dwarf-fortress-steam.svg images/temp.svg
+        poetry run scour -i images/temp.svg -o images/dwarf-fortress-steam.svg --enable-id-stripping
+        rm images/temp.svg

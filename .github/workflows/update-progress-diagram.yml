@@ -38,6 +38,12 @@ jobs:
         cd automation
         poetry run progress ../translations/dwarf-fortress-steam ../images/dwarf-fortress-steam.svg
 
+    - name: Minify svg
+      run: |
+        cp images/dwarf-fortress-steam.svg images/temp.svg
+        poetry run scour -i images/temp.svg -o images/dwarf-fortress-steam.svg --enable-id-stripping
+        rm images/temp.svg
+
     - name: Push changes to the repository
       uses: EndBug/add-and-commit@v9.1.3
       with:
