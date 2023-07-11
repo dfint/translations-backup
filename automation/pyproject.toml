@@ -29,7 +29,7 @@ profile = "black"
 line_length = 120
 
 [tool.poetry.scripts]
-# poetry run progress ../translations/dwarf-fortress-steam ../images/dwarf-fortress-steam.png
+# poetry run progress ../translations/dwarf-fortress-steam ../images/dwarf-fortress-steam.svg
 progress = "automation.progress.main:app"
 
 # poetry run files_by_resource ../translations ../
