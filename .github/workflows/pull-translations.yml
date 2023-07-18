@@ -37,7 +37,7 @@ jobs:
         message: |
           Pull translations from transifex
           Changed files (at most 10):
-          ${{outputs.output1}}
+          ${{jobs.build.outputs.output1}}
 
   # trigger-translation-artifacts-autobuild:
   #   runs-on: ubuntu-latest
