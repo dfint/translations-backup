@@ -26,7 +26,7 @@ jobs:
         ./tx pull -f -a
 
     - name: Get list of changed files
-      run: echo "changed=$(git status --porcelain | head -10)" >> "$GITHUB_ENV"
+      run: echo 'changed="$(git status --porcelain | head -10)"' >> "$GITHUB_ENV"
 
     - name: Push changes to the repository
       uses: EndBug/add-and-commit@v9.1.3
