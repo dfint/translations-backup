@@ -26,7 +26,11 @@ jobs:
         ./tx pull -f -a
 
     - name: Get list of changed files
-      run: echo "$(git status --porcelain | head -10)" >> "$GITHUB_OUTPUT"
+      run: |
+        EOF=$(dd if=/dev/urandom bs=15 count=1 status=none | base64)
+        echo "CHANGED<<$EOF" >> "$GITHUB_ENV"
+        git status --porcelain | head -10 >> "$GITHUB_ENV"
+        echo "$EOF" >> "$GITHUB_ENV"
 
     - name: Push changes to the repository
       uses: EndBug/add-and-commit@v9.1.3
@@ -37,7 +41,7 @@ jobs:
         message: |
           Pull translations from transifex
           Changed files (at most 10):
-          ${{jobs.build.outputs.output1}}
+          ${{ env.CHANGED }}
 
   # trigger-translation-artifacts-autobuild:
   #   runs-on: ubuntu-latest
