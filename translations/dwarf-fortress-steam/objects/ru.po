@@ -8,12 +8,12 @@
 # Віталій Негодюк, 2022
 # Иван Иванов, 2022
 # Jim Smith, 2023
-# insolor, 2023
 # Andrey Kit, 2023
+# insolor, 2023
 # 
 msgid ""
 msgstr ""
-"Last-Translator: Andrey Kit, 2023\n"
+"Last-Translator: insolor, 2023\n"
 "Language-Team: Russian (https://app.transifex.com/dwarf-fortress-translation/teams/22396/ru/)\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -268,7 +268,7 @@ msgstr "[BP:HD:голова:головы]"
 #: body_default.txt:133
 msgctxt "BODY:BODY_WITH_HEAD_FLAG"
 msgid "[BP:HD:body:bodies]"
-msgstr "[BP:HD:тело:STP]"
+msgstr "[BP:HD:тело:тела]"
 
 #: body_default.txt:137
 msgctxt "BODY:HUMANOID"
@@ -11268,7 +11268,7 @@ msgstr "[STATE_NAME:ALL_SOLID:замёрзший яд коричневого п�
 #: creature_bug_slug_new.txt:1434
 msgctxt "CREATURE:SPIDER_BROWN_RECLUSE"
 msgid "[STATE_ADJ:ALL_SOLID:frozen brown recluse spider venom]"
-msgstr "[STATE_ADJ:ALL_SOLID:из замёрзшего яда коричневого паука-отшельника]"
+msgstr "[STATE_ADJ:ALL_SOLID:замёрзший яд коричневого паука-отшельника]"
 
 #: creature_bug_slug_new.txt:1435
 msgctxt "CREATURE:SPIDER_BROWN_RECLUSE"
@@ -11717,7 +11717,7 @@ msgstr "[STATE_NAME:LIQUID:яд ядозуба]"
 #: creature_desert_new.txt:344
 msgctxt "CREATURE:GILA_MONSTER"
 msgid "[STATE_ADJ:LIQUID:gila monster venom]"
-msgstr "[STATE_ADJ:LIQUID:из яда ядозуба]"
+msgstr "[STATE_ADJ:LIQUID:яд ядозуба]"
 
 #: creature_desert_new.txt:345
 msgctxt "CREATURE:GILA_MONSTER"
@@ -11727,7 +11727,7 @@ msgstr "[STATE_NAME:GAS:пары яда ядозуба]"
 #: creature_desert_new.txt:346
 msgctxt "CREATURE:GILA_MONSTER"
 msgid "[STATE_ADJ:GAS:boiling gila monster venom]"
-msgstr "[STATE_ADJ:GAS:из паров яда ядозуба]"
+msgstr "[STATE_ADJ:GAS:пары яда ядозуба]"
 
 #: creature_desert_new.txt:350
 msgctxt "CREATURE:GILA_MONSTER"
@@ -12103,7 +12103,7 @@ msgstr "[STATE_NAME:ALL_SOLID:замёрзшее ослиное молоко]"
 #: creature_domestic.txt:448
 msgctxt "CREATURE:DONKEY"
 msgid "[STATE_ADJ:ALL_SOLID:frozen donkey's milk]"
-msgstr "[STATE_ADJ:ALL_SOLID:из замёрзшего ослиного молока]"
+msgstr "[STATE_ADJ:ALL_SOLID:замёрзшее ослиное молоко]"
 
 #: creature_domestic.txt:449
 msgctxt "CREATURE:DONKEY"
@@ -12113,7 +12113,7 @@ msgstr "[STATE_NAME:LIQUID:ослиное молоко]"
 #: creature_domestic.txt:450
 msgctxt "CREATURE:DONKEY"
 msgid "[STATE_ADJ:LIQUID:donkey's milk]"
-msgstr "[STATE_ADJ:LIQUID:из ослиного молока]"
+msgstr "[STATE_ADJ:LIQUID:ослиное молоко]"
 
 #: creature_domestic.txt:451
 msgctxt "CREATURE:DONKEY"
@@ -12123,7 +12123,7 @@ msgstr "[STATE_NAME:GAS:кипящее ослиное молоко]"
 #: creature_domestic.txt:452
 msgctxt "CREATURE:DONKEY"
 msgid "[STATE_ADJ:GAS:boiling donkey's milk]"
-msgstr "[STATE_ADJ:GAS:из кипящего ослиного молока]"
+msgstr "[STATE_ADJ:GAS:кипящее ослиное молоко]"
 
 #: creature_domestic.txt:456
 msgctxt "CREATURE:DONKEY"
@@ -12133,7 +12133,7 @@ msgstr "[STATE_NAME:SOLID:ослиный сыр]"
 #: creature_domestic.txt:457
 msgctxt "CREATURE:DONKEY"
 msgid "[STATE_ADJ:SOLID:donkey cheese]"
-msgstr "[STATE_ADJ:SOLID:из ослиного сыра]"
+msgstr "[STATE_ADJ:SOLID:ослиный сыр]"
 
 #: creature_domestic.txt:458
 msgctxt "CREATURE:DONKEY"
@@ -12143,7 +12143,7 @@ msgstr "[STATE_NAME:SOLID_POWDER:мука из ослиного сыра]"
 #: creature_domestic.txt:459
 msgctxt "CREATURE:DONKEY"
 msgid "[STATE_ADJ:SOLID_POWDER:donkey cheese powder]"
-msgstr "[STATE_ADJ:SOLID_POWDER:из муки из ослиного сыра]"
+msgstr "[STATE_ADJ:SOLID_POWDER:мука из ослиного сыра]"
 
 #: creature_domestic.txt:460
 msgctxt "CREATURE:DONKEY"
@@ -12153,7 +12153,7 @@ msgstr "[STATE_NAME:LIQUID:расплавленный ослиный сыр]"
 #: creature_domestic.txt:461
 msgctxt "CREATURE:DONKEY"
 msgid "[STATE_ADJ:LIQUID:melted donkey cheese]"
-msgstr "[STATE_ADJ:LIQUID:из расплавленного ослиного сыра]"
+msgstr "[STATE_ADJ:LIQUID:расплавленный ослиный сыр]"
 
 #: creature_domestic.txt:462
 msgctxt "CREATURE:DONKEY"
@@ -12163,7 +12163,7 @@ msgstr "[STATE_NAME:GAS:кипящий ослиный сыр]"
 #: creature_domestic.txt:463
 msgctxt "CREATURE:DONKEY"
 msgid "[STATE_ADJ:GAS:boiling donkey cheese]"
-msgstr "[STATE_ADJ:GAS:из кипящего ослиного сыра]"
+msgstr "[STATE_ADJ:GAS:кипящий ослиный сыр]"
 
 #: creature_domestic.txt:471
 msgctxt "CREATURE:DONKEY"
@@ -12227,7 +12227,7 @@ msgstr "[STATE_NAME:ALL_SOLID:замёрзшее лошадиное молоко
 #: creature_domestic.txt:566
 msgctxt "CREATURE:HORSE"
 msgid "[STATE_ADJ:ALL_SOLID:frozen horse's milk]"
-msgstr "[STATE_ADJ:ALL_SOLID:из замёрзшего лошадиного молока]"
+msgstr "[STATE_ADJ:ALL_SOLID:замёрзшее лошадиное молоко]"
 
 #: creature_domestic.txt:567
 msgctxt "CREATURE:HORSE"
@@ -12237,7 +12237,7 @@ msgstr "[STATE_NAME:LIQUID:лошадиное молоко]"
 #: creature_domestic.txt:568
 msgctxt "CREATURE:HORSE"
 msgid "[STATE_ADJ:LIQUID:horse's milk]"
-msgstr "[STATE_ADJ:LIQUID:из лошадиного молока]"
+msgstr "[STATE_ADJ:LIQUID:лошадиное молоко]"
 
 #: creature_domestic.txt:569
 msgctxt "CREATURE:HORSE"
@@ -12247,7 +12247,7 @@ msgstr "[STATE_NAME:GAS:кипящее лошадиное молоко]"
 #: creature_domestic.txt:570
 msgctxt "CREATURE:HORSE"
 msgid "[STATE_ADJ:GAS:boiling horse's milk]"
-msgstr "[STATE_ADJ:GAS:из кипящего лошадиного молока]"
+msgstr "[STATE_ADJ:GAS:кипящее лошадиное молоко]"
 
 #: creature_domestic.txt:574
 msgctxt "CREATURE:HORSE"
@@ -12257,7 +12257,7 @@ msgstr "[STATE_NAME:SOLID:лошадиный сыр]"
 #: creature_domestic.txt:575
 msgctxt "CREATURE:HORSE"
 msgid "[STATE_ADJ:SOLID:horse cheese]"
-msgstr "[STATE_ADJ:SOLID:из лошадиного сыра]"
+msgstr "[STATE_ADJ:SOLID:лошадиный сыр]"
 
 #: creature_domestic.txt:576
 msgctxt "CREATURE:HORSE"
@@ -12267,7 +12267,7 @@ msgstr "[STATE_NAME:SOLID_POWDER:растёртый лошадиный сыр]"
 #: creature_domestic.txt:577
 msgctxt "CREATURE:HORSE"
 msgid "[STATE_ADJ:SOLID_POWDER:horse cheese powder]"
-msgstr "[STATE_ADJ:SOLID_POWDER:из растёртого лошадиного сыра]"
+msgstr "[STATE_ADJ:SOLID_POWDER:растёртый лошадиный сыр]"
 
 #: creature_domestic.txt:578
 msgctxt "CREATURE:HORSE"
@@ -12277,7 +12277,7 @@ msgstr "[STATE_NAME:LIQUID:расплавленный лошадиный сыр]
 #: creature_domestic.txt:579
 msgctxt "CREATURE:HORSE"
 msgid "[STATE_ADJ:LIQUID:melted horse cheese]"
-msgstr "[STATE_ADJ:LIQUID:из расплавленного лошадиного сыра]"
+msgstr "[STATE_ADJ:LIQUID:расплавленный лошадиный сыр]"
 
 #: creature_domestic.txt:580
 msgctxt "CREATURE:HORSE"
@@ -12287,7 +12287,7 @@ msgstr "[STATE_NAME:GAS:кипящий лошадиный сыр]"
 #: creature_domestic.txt:581
 msgctxt "CREATURE:HORSE"
 msgid "[STATE_ADJ:GAS:boiling horse cheese]"
-msgstr "[STATE_ADJ:GAS:из кипящего лошадиного сыра]"
+msgstr "[STATE_ADJ:GAS:кипящий лошадиный сыр]"
 
 #: creature_domestic.txt:589
 msgctxt "CREATURE:HORSE"
@@ -12366,7 +12366,7 @@ msgstr "[STATE_NAME:ALL_SOLID:замёрзшее коровье молоко]"
 #: creature_domestic.txt:693
 msgctxt "CREATURE:COW"
 msgid "[STATE_ADJ:ALL_SOLID:frozen cow's milk]"
-msgstr "[STATE_ADJ:ALL_SOLID:из замёрзшего коровьего молока]"
+msgstr "[STATE_ADJ:ALL_SOLID:замёрзшее коровье молоко]"
 
 #: creature_domestic.txt:694
 msgctxt "CREATURE:COW"
@@ -12376,7 +12376,7 @@ msgstr "[STATE_NAME:LIQUID:коровье молоко]"
 #: creature_domestic.txt:695
 msgctxt "CREATURE:COW"
 msgid "[STATE_ADJ:LIQUID:cow's milk]"
-msgstr "[STATE_ADJ:LIQUID:из коровьего молока]"
+msgstr "[STATE_ADJ:LIQUID:коровье молоко]"
 
 #: creature_domestic.txt:696
 msgctxt "CREATURE:COW"
@@ -12386,7 +12386,7 @@ msgstr "[STATE_NAME:GAS:кипящее коровье молоко]"
 #: creature_domestic.txt:697
 msgctxt "CREATURE:COW"
 msgid "[STATE_ADJ:GAS:boiling cow's milk]"
-msgstr "[STATE_ADJ:GAS:из кипящего коровьего молока]"
+msgstr "[STATE_ADJ:GAS:кипящее коровье молок]"
 
 #: creature_domestic.txt:701
 msgctxt "CREATURE:COW"
@@ -12396,7 +12396,7 @@ msgstr "[STATE_NAME:SOLID:коровий сыр]"
 #: creature_domestic.txt:702
 msgctxt "CREATURE:COW"
 msgid "[STATE_ADJ:SOLID:cow cheese]"
-msgstr "[STATE_ADJ:SOLID:из коровьего сыра]"
+msgstr "[STATE_ADJ:SOLID:коровий сыр]"
 
 #: creature_domestic.txt:703
 msgctxt "CREATURE:COW"
@@ -12406,7 +12406,7 @@ msgstr "[STATE_NAME:SOLID_POWDER:порошок коровьего сыра]"
 #: creature_domestic.txt:704
 msgctxt "CREATURE:COW"
 msgid "[STATE_ADJ:SOLID_POWDER:cow cheese powder]"
-msgstr "[STATE_ADJ:SOLID_POWDER:из порошка коровьего сыра]"
+msgstr "[STATE_ADJ:SOLID_POWDER:порошок коровьего сыра]"
 
 #: creature_domestic.txt:705
 msgctxt "CREATURE:COW"
@@ -12416,7 +12416,7 @@ msgstr "[STATE_NAME:LIQUID:расплавленный коровий сыр]"
 #: creature_domestic.txt:706
 msgctxt "CREATURE:COW"
 msgid "[STATE_ADJ:LIQUID:melted cow cheese]"
-msgstr "[STATE_ADJ:LIQUID:из расплавленного коровьего сыра]"
+msgstr "[STATE_ADJ:LIQUID:расплавленный коровий сыр]"
 
 #: creature_domestic.txt:707
 msgctxt "CREATURE:COW"
@@ -12426,7 +12426,7 @@ msgstr "[STATE_NAME:GAS:пары коровьего сыра]"
 #: creature_domestic.txt:708
 msgctxt "CREATURE:COW"
 msgid "[STATE_ADJ:GAS:boiling cow cheese]"
-msgstr "[STATE_ADJ:GAS:из паров коровьего сыра]"
+msgstr "[STATE_ADJ:GAS:кипящий коровий сыр]"
 
 #: creature_domestic.txt:712
 msgctxt "CREATURE:COW"
@@ -12490,7 +12490,7 @@ msgstr "[STATE_NAME:ALL_SOLID:шерсть]"
 #: creature_domestic.txt:751
 msgctxt "CREATURE:SHEEP"
 msgid "[STATE_ADJ:ALL_SOLID:wool]"
-msgstr "[STATE_ADJ:ALL_SOLID:из шерсти]"
+msgstr "[STATE_ADJ:ALL_SOLID:шерсть]"
 
 #: creature_domestic.txt:757
 msgctxt "CREATURE:SHEEP"
@@ -52145,7 +52145,7 @@ msgstr "[NAME_PLURAL:деревья личи]"
 #: plant_new_trees.txt:1660
 msgctxt "PLANT:LYCHEE"
 msgid "[ADJ:lychee tree]"
-msgstr "[ADJ:из дерева личи]"
+msgstr "[ADJ:дерево личи]"
 
 #: plant_new_trees.txt:1664
 msgctxt "PLANT:LYCHEE"
@@ -52155,7 +52155,7 @@ msgstr "[STATE_NAME:ALL_SOLID:древесина личи]"
 #: plant_new_trees.txt:1665
 msgctxt "PLANT:LYCHEE"
 msgid "[STATE_ADJ:ALL_SOLID:lychee wood]"
-msgstr "[STATE_ADJ:ALL_SOLID:из древесины личи]"
+msgstr "[STATE_ADJ:ALL_SOLID:древесина личи]"
 
 #: plant_new_trees.txt:1670
 msgctxt "PLANT:LYCHEE"
@@ -52210,7 +52210,7 @@ msgstr "[NAME_PLURAL:деревья ореха макадамия]"
 #: plant_new_trees.txt:1741
 msgctxt "PLANT:MACADAMIA"
 msgid "[ADJ:macadamia tree]"
-msgstr "[ADJ:из дерева ореха макадамия]"
+msgstr "[ADJ:дерево ореха макадамия]"
 
 #: plant_new_trees.txt:1745
 msgctxt "PLANT:MACADAMIA"
@@ -52220,7 +52220,7 @@ msgstr "[STATE_NAME:ALL_SOLID:древесина ореха макадамия]"
 #: plant_new_trees.txt:1746
 msgctxt "PLANT:MACADAMIA"
 msgid "[STATE_ADJ:ALL_SOLID:macadamia wood]"
-msgstr "[STATE_ADJ:ALL_SOLID:из древесины ореха макадамия]"
+msgstr "[STATE_ADJ:ALL_SOLID:древесина ореха макадамия]"
 
 #: plant_new_trees.txt:1763
 msgctxt "PLANT:MACADAMIA"
@@ -52260,7 +52260,7 @@ msgstr "[NAME_PLURAL:оливковые деревья]"
 #: plant_new_trees.txt:1805
 msgctxt "PLANT:OLIVE"
 msgid "[ADJ:olive tree]"
-msgstr "[ADJ:из оливкового дерева]"
+msgstr "[ADJ:оливковое дерево]"
 
 #: plant_new_trees.txt:1809
 msgctxt "PLANT:OLIVE"
@@ -52300,7 +52300,7 @@ msgstr "[STATE_NAME:ALL_SOLID:оливковое дерево]"
 #: plant_new_trees.txt:1823
 msgctxt "PLANT:OLIVE"
 msgid "[STATE_ADJ:ALL_SOLID:olive wood]"
-msgstr "[STATE_ADJ:ALL_SOLID:из оливкового дерева]"
+msgstr "[STATE_ADJ:ALL_SOLID:оливковое дерево]"
 
 #: plant_new_trees.txt:1840
 msgctxt "PLANT:OLIVE"
@@ -52360,7 +52360,7 @@ msgstr "[STATE_NAME:ALL_SOLID:гранатовое дерево]"
 #: plant_new_trees.txt:1896
 msgctxt "PLANT:POMEGRANATE"
 msgid "[STATE_ADJ:ALL_SOLID:pomegranate wood]"
-msgstr "[STATE_ADJ:ALL_SOLID:из гранатового дерева]"
+msgstr "[STATE_ADJ:ALL_SOLID:гранатовое дерево]"
 
 #: plant_new_trees.txt:1901
 msgctxt "PLANT:POMEGRANATE"
@@ -52415,7 +52415,7 @@ msgstr "[NAME_PLURAL:миндальные деревья]"
 #: plant_new_trees.txt:1977
 msgctxt "PLANT:ALMOND"
 msgid "[ADJ:almond tree]"
-msgstr "[ADJ:из миндального дерева]"
+msgstr "[ADJ:миндальное дерево]"
 
 #: plant_new_trees.txt:1981
 msgctxt "PLANT:ALMOND"
@@ -52425,7 +52425,7 @@ msgstr "[STATE_NAME:ALL_SOLID:миндальное дерево]"
 #: plant_new_trees.txt:1982
 msgctxt "PLANT:ALMOND"
 msgid "[STATE_ADJ:ALL_SOLID:almond wood]"
-msgstr "[STATE_ADJ:ALL_SOLID:из миндального дерева]"
+msgstr "[STATE_ADJ:ALL_SOLID:миндальное дерево]"
 
 #: plant_new_trees.txt:1999
 msgctxt "PLANT:ALMOND"
@@ -52465,7 +52465,7 @@ msgstr "[NAME_PLURAL:яблони]"
 #: plant_new_trees.txt:2046
 msgctxt "PLANT:APPLE"
 msgid "[ADJ:apple tree]"
-msgstr "[ADJ:из яблони]"
+msgstr "[ADJ:яблоня]"
 
 #: plant_new_trees.txt:2050
 msgctxt "PLANT:APPLE"
@@ -52475,7 +52475,7 @@ msgstr "[STATE_NAME:ALL_SOLID:древесина яблони]"
 #: plant_new_trees.txt:2051
 msgctxt "PLANT:APPLE"
 msgid "[STATE_ADJ:ALL_SOLID:apple wood]"
-msgstr "[STATE_ADJ:ALL_SOLID:из древесины яблони]"
+msgstr "[STATE_ADJ:ALL_SOLID:древесина яблони]"
 
 #: plant_new_trees.txt:2056
 msgctxt "PLANT:APPLE"
@@ -52530,7 +52530,7 @@ msgstr "[NAME_PLURAL:абрикосовые деревья]"
 #: plant_new_trees.txt:2132
 msgctxt "PLANT:APRICOT"
 msgid "[ADJ:apricot tree]"
-msgstr "[ADJ:из абрикосового дерева]"
+msgstr "[ADJ:абрикосовое дерево]"
 
 #: plant_new_trees.txt:2136
 msgctxt "PLANT:APRICOT"
@@ -52540,7 +52540,7 @@ msgstr "[STATE_NAME:ALL_SOLID:абрикосовое дерево]"
 #: plant_new_trees.txt:2137
 msgctxt "PLANT:APRICOT"
 msgid "[STATE_ADJ:ALL_SOLID:apricot wood]"
-msgstr "[STATE_ADJ:ALL_SOLID:из абрикосового дерева]"
+msgstr "[STATE_ADJ:ALL_SOLID:абрикосовое дерево]"
 
 #: plant_new_trees.txt:2142
 msgctxt "PLANT:APRICOT"
@@ -52595,7 +52595,7 @@ msgstr "[NAME_PLURAL:деревья восковницы]"
 #: plant_new_trees.txt:2218
 msgctxt "PLANT:BAYBERRY"
 msgid "[ADJ:bayberry tree]"
-msgstr "[ADJ:из дерева восковница]"
+msgstr "[ADJ:восковница]"
 
 #: plant_new_trees.txt:2222
 msgctxt "PLANT:BAYBERRY"
@@ -55408,7 +55408,7 @@ msgstr "[NAME_PLURAL:гевеи]"
 #: plant_standard.txt:2333
 msgctxt "PLANT:RUBBER"
 msgid "[ADJ:rubber tree]"
-msgstr "[ADJ:из гевеи]"
+msgstr "[ADJ:гевея]"
 
 #: plant_standard.txt:2337
 msgctxt "PLANT:RUBBER"
@@ -55418,7 +55418,7 @@ msgstr "[STATE_NAME:ALL_SOLID:древесина гевеи]"
 #: plant_standard.txt:2338
 msgctxt "PLANT:RUBBER"
 msgid "[STATE_ADJ:ALL_SOLID:rubber wood]"
-msgstr "[STATE_ADJ:ALL_SOLID:из гевеи]"
+msgstr "[STATE_ADJ:ALL_SOLID:гевея]"
 
 #: plant_standard.txt:2360
 msgctxt "PLANT:RUBBER"
@@ -55443,7 +55443,7 @@ msgstr "[NAME_PLURAL:какао деревья]"
 #: plant_standard.txt:2374
 msgctxt "PLANT:CACAO"
 msgid "[ADJ:cacao tree]"
-msgstr "[ADJ:из какао дерева]"
+msgstr "[ADJ:какао дерево]"
 
 #: plant_standard.txt:2378
 msgctxt "PLANT:CACAO"
