@@ -4,10 +4,11 @@
 # Tot Elot, 2023
 # Mateusz D, 2023
 # insolor, 2023
+# Bartek Patelka, 2023
 # 
 msgid ""
 msgstr ""
-"Last-Translator: insolor, 2023\n"
+"Last-Translator: Bartek Patelka, 2023\n"
 "Language-Team: Polish (https://app.transifex.com/dwarf-fortress-translation/teams/22396/pl/)\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -66,7 +67,7 @@ msgstr "który zstąpił z drzewa-matki i został pożarty"
 msgid ""
 "who should have stayed in the trees when the real elves came down to fight"
 msgstr ""
-", który powinien zostać na drzewach kiedy prawdziwe elfy zeszły by walczyć"
+"który powinien zostać na drzewach kiedy prawdziwe elfy zeszły by walczyć"
 
 #: text_lair_hunter_minotaur.txt:2
 msgid "I want your bones for my bone mill!"
@@ -300,7 +301,7 @@ msgstr "Odkrywanie [NAME]"
 
 #: text_book_instruction.txt:33
 msgid "Explorations of [NAME]"
-msgstr "Odkrywanie  [NAME]"
+msgstr "Odkrycia  [NAME]"
 
 #: text_book_instruction.txt:34
 msgid "Factual [NO_ART_NAME]"
@@ -528,7 +529,7 @@ msgstr "Droga z [NAME]"
 
 #: text_book_instruction.txt:90
 msgid "The Wizard's Guide to [NAME]"
-msgstr "Wzkazówki Czarodzieja na temat [NAME]"
+msgstr "Wskazówki Czarodzieja na temat [NAME]"
 
 #: text_book_instruction.txt:91
 msgid "The World of [NAME]"
@@ -672,7 +673,7 @@ msgstr "Zakwestionowane [NAME]"
 
 #: text_book_instruction.txt:126
 msgid "[NAME] The Easy Way"
-msgstr "[NAME] Prosta Droga "
+msgstr "[NAME] w łatwy sposób"
 
 #: text_book_instruction.txt:127
 msgid "[NAME] Uncovered"
@@ -708,7 +709,7 @@ msgstr "[NAME], Moja Miłość"
 
 #: text_book_instruction.txt:135
 msgid "[NAME]: A Brief History"
-msgstr "Krótka Historia"
+msgstr "[NAME]: Krótka Historia"
 
 #: text_book_instruction.txt:136
 msgid "[NAME]: A Brief Introduction"
@@ -792,7 +793,7 @@ msgstr "Księga [NO_ART_NAME]"
 
 #: text_book_instruction.txt:156
 msgid "To [NAME] and Glory!"
-msgstr "Na [NAME] i Chwałę!"
+msgstr "Za [NAME] i Chwałę!"
 
 #: text_child_age_proclamation.txt:2
 msgid "I'm [CONTEXT:NUMBER]!"
@@ -800,7 +801,7 @@ msgstr "Jestem [CONTEXT:NUMBER]!"
 
 #: text_current_profession_no_year.txt:2
 msgid "I am a [CONTEXT:UNIT_NAME]."
-msgstr "Jestem [CONTEXT:NUMBER]."
+msgstr "Jestem [CONTEXT:UNIT_NAME]."
 
 #: text_current_profession_year.txt:2
 msgid "This is my [CONTEXT:ORDINAL] year as a [CONTEXT:UNIT_NAME]."
@@ -1151,7 +1152,7 @@ msgid ""
 "I seek fortune and glory by offering my skill at arms in "
 "[CONTEXT:PLACE:TRANS_NAME]."
 msgstr ""
-"Szukam szczęścia i chwały oferując swoje umiejętności w posługiwaniu się  "
+"Szukam szczęścia i chwały oferując swoje umiejętności we władaniu bronią w "
 "[CONTEXT:PLACE:TRANS_NAME]."
 
 #: text_mercenary_profession_year.txt:2
@@ -1159,8 +1160,8 @@ msgid ""
 "I have sought fortune and glory by offering my skill at arms in "
 "[CONTEXT:PLACE:TRANS_NAME] for [CONTEXT:NUMBER] of my years."
 msgstr ""
-"Szukałem szczęścia i chwały oferując swoje umiejętności w posługiwaniu się "
-"[CONTEXT:PLACE:TRANS_NAME] przez [CONTEXT:NUMBER] lat mojego życia."
+"Szukałem szczęścia i chwały oferując swoje umiejętności we władaniu bronią w"
+" [CONTEXT:PLACE:TRANS_NAME] przez [CONTEXT:NUMBER] lat mojego życia."
 
 #: text_no_family.txt:2
 msgid "I have no family to speak of"
@@ -1190,12 +1191,12 @@ msgstr ""
 
 #: text_past_profession_no_year.txt:2
 msgid "I was once a [CONTEXT:UNIT_NAME]."
-msgstr "Byłem kiedyś [CONTEXT:NUMBER]."
+msgstr "Byłem kiedyś [CONTEXT:UNIT_NAME]."
 
 #: text_past_profession_year.txt:2
 msgid ""
 "I was a [CONTEXT:UNIT_NAME] for [CONTEXT:NUMBER] of the years of my life."
-msgstr "Byłem [CONTEXT:NUMBER] przez [CONTEXT:NUMBER] lat mojego życia."
+msgstr "Byłem [CONTEXT:UNIT_NAME] przez [CONTEXT:NUMBER] lat mojego życia."
 
 #: text_past_snatcher_profession.txt:2
 msgid "Once it was my calling to rescue lost children."
@@ -1211,7 +1212,7 @@ msgstr "Kiedyś poszukiwałem skarbów."
 
 #: text_past_thief_profession.txt:3
 msgid "I sought great treasures for [CONTEXT:NUMBER] of my years."
-msgstr "Poszukiwałem skarbów przez[CONTEXT: Number] lat mego życia."
+msgstr "Poszukiwałem skarbów przez[CONTEXT:NUMBER] lat mego życia."
 
 #: text_past_wandering_profession.txt:2
 msgid "I once wandered the wilds."
@@ -1345,7 +1346,7 @@ msgstr "Zrujnowanie"
 
 #: text_secret_death.txt:19
 msgid "Sleep"
-msgstr "Spać"
+msgstr "Sen"
 
 #: text_secret_death.txt:20
 msgid "the Afterlife"
@@ -1448,7 +1449,7 @@ msgstr "prosto"
 
 #: text_temple_already_member.txt:3
 msgid "it is enough to"
-msgstr "dość"
+msgstr "wystarczy"
 
 #: text_temple_already_member.txt:4
 msgid "your task is simple;"
@@ -1476,7 +1477,7 @@ msgid ""
 "[CONTEXT:ENTITY:WORSHIP_HF:RANDOM_DEF_SPHERE]!"
 msgstr ""
 "Witaj w [CONTEXT:ENTITY:TRANS_NAME]. Niech będzie pochwalony "
-"[CONTEXT:ENTITY:WORSHIP_HF:TRANS_NAME]!"
+"[CONTEXT:ENTITY:WORSHIP_HF:RANDOM_DEF_SPHERE]!"
 
 #: text_temple_become_member.txt:4
 msgid ""
@@ -1497,7 +1498,7 @@ msgstr ""
 #: text_thief_profession.txt:2
 msgid "I seek treasures and bring them back to [CONTEXT:PLACE:TRANS_NAME]."
 msgstr ""
-"Poszukuję skarbów i przynoszę je spowrotem do [CONTEXT:PLACE:TRANS_NAME]."
+"Poszukuję skarbów i przynoszę je z powrotem do [CONTEXT:PLACE:TRANS_NAME]."
 
 #: text_thief_profession_year.txt:2
 msgid ""
