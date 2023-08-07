@@ -1,6 +1,5 @@
 # 
 # Translators:
-# laxentis <laxentis@gmail.com>, 2022
 # 00837b481c8e66ea5eb1b2d907ac3324_91154d1 <a1d8561c14cd218bfb5ada77e6e92e5e_907500>, 2022
 # Piotr Pawlik, 2022
 # Dioxide, 2022
@@ -16,10 +15,11 @@
 # Mateusz D, 2023
 # insolor, 2023
 # Transifex Bot <>, 2023
+# Bartek Patelka, 2023
 # 
 msgid ""
 msgstr ""
-"Last-Translator: Transifex Bot <>, 2023\n"
+"Last-Translator: Bartek Patelka, 2023\n"
 "Language-Team: Polish (https://app.transifex.com/dwarf-fortress-translation/teams/22396/pl/)\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -40,7 +40,7 @@ msgstr "się"
 
 #: stringdump_steam_50_09.txt:16
 msgid "dry"
-msgstr ""
+msgstr "suchy"
 
 #: stringdump_steam_50_09.txt:48
 msgid "Activity"
@@ -52,7 +52,7 @@ msgstr "Sesja treningowa"
 
 #: stringdump_steam_50_09.txt:50
 msgid "Activity Event"
-msgstr "Wydarzenie Aktywności"
+msgstr "Wydarzenie"
 
 #: stringdump_steam_50_09.txt:51
 msgid "Research"
@@ -64,7 +64,7 @@ msgstr "Graj"
 
 #: stringdump_steam_50_09.txt:53
 msgid "Worship"
-msgstr "Kult"
+msgstr "Oddawać cześć"
 
 #: stringdump_steam_50_09.txt:54
 msgid "Socialize"
@@ -72,7 +72,7 @@ msgstr "Udzielać się towarzysko "
 
 #: stringdump_steam_50_09.txt:55
 msgid " empty "
-msgstr "pusty"
+msgstr "opróżniasz"
 
 #: stringdump_steam_50_09.txt:56
 msgid " empties "
@@ -88,7 +88,7 @@ msgstr "podnosi"
 
 #: stringdump_steam_50_09.txt:59
 msgid "the theft"
-msgstr ""
+msgstr "kradzież"
 
 #: stringdump_steam_50_09.txt:60
 msgid " embraces "
@@ -99,10 +99,12 @@ msgid ""
 "Paved roads use less materials than constructed floors and can be used to "
 "stop plants from growing over wagon trails."
 msgstr ""
+"Utwardzone drogi wymagają mniej materiałów niż podłogi i mogą być użyte do "
+"powstrzymania wzrostu roślin na szlakach ruchu wozów."
 
 #: stringdump_steam_50_09.txt:62
 msgid " has shared many tales from beyond "
-msgstr " udostępnił wiele opowieści zza świata"
+msgstr " podzielił się wieloma historiami z zewnątrz"
 
 #: stringdump_steam_50_09.txt:63
 msgid " has shared a few rumors."
@@ -110,7 +112,7 @@ msgstr " podzielił się kilkoma plotkami."
 
 #: stringdump_steam_50_09.txt:64
 msgid " has shared a rumor from abroad."
-msgstr "  podzielił się plotką z zagranicy."
+msgstr " podzielił się plotką z zagranicy."
 
 #: stringdump_steam_50_09.txt:65
 msgid " gives you "
@@ -118,7 +120,7 @@ msgstr "daje ci"
 
 #: stringdump_steam_50_09.txt:66
 msgid "Injured."
-msgstr ""
+msgstr "Ranny."
 
 #: stringdump_steam_50_09.txt:67
 msgid " has discovered "
@@ -126,7 +128,7 @@ msgstr "odkrył"
 
 #: stringdump_steam_50_09.txt:68
 msgid "terror from the evil depths"
-msgstr ""
+msgstr "terror ze złych głębin"
 
 #: stringdump_steam_50_09.txt:70
 msgid " has become a student of "
@@ -138,15 +140,15 @@ msgstr ", wyobrażany jako"
 
 #: stringdump_steam_50_09.txt:73
 msgid "You'll have to talk to somebody older."
-msgstr ""
+msgstr "Będziesz musiał porozmawiać z kimś starszym."
 
 #: stringdump_steam_50_09.txt:74
 msgid "Ponder "
-msgstr "Rozmyślaj"
+msgstr "Rozważaj"
 
 #: stringdump_steam_50_09.txt:75
 msgid "Learn "
-msgstr "Ucz sie"
+msgstr "Ucz się"
 
 #: stringdump_steam_50_09.txt:76
 msgid "Teach "
@@ -154,11 +156,11 @@ msgstr "Nauczaj"
 
 #: stringdump_steam_50_09.txt:77
 msgid "Discuss "
-msgstr "Dyskutuj na temat"
+msgstr "Omów"
 
 #: stringdump_steam_50_09.txt:78
 msgid "Read"
-msgstr "Czytać"
+msgstr "Czytaj"
 
 #: stringdump_steam_50_09.txt:79
 msgid "Write"
@@ -210,11 +212,11 @@ msgstr "Zabawka"
 
 #: stringdump_steam_50_09.txt:91
 msgid "Inveigh Against "
-msgstr "Walcz przeciwko"
+msgstr "Chwyć za broń przeciwko"
 
 #: stringdump_steam_50_09.txt:92
 msgid "Promote "
-msgstr "Promować"
+msgstr "Promuj"
 
 #: stringdump_steam_50_09.txt:93
 msgid "Law"
@@ -242,7 +244,7 @@ msgstr "Prawda"
 
 #: stringdump_steam_50_09.txt:99
 msgid "Cunning"
-msgstr "Przebiegły"
+msgstr "Przebiegłość"
 
 #: stringdump_steam_50_09.txt:100
 msgid "Eloquence"
@@ -250,23 +252,23 @@ msgstr "Elokwencja"
 
 #: stringdump_steam_50_09.txt:101
 msgid "Fairness"
-msgstr "Uczciwość"
+msgstr "Sprawiedliwość"
 
 #: stringdump_steam_50_09.txt:102
 msgid "Decorum"
-msgstr "Stosowność"
+msgstr "Przyzwoitość"
 
 #: stringdump_steam_50_09.txt:103
 msgid "Tradition"
-msgstr "Tradycja"
+msgstr "Tradycyjność"
 
 #: stringdump_steam_50_09.txt:104
 msgid "Artwork"
-msgstr "Grafika"
+msgstr "Stosunek wobec sztuki"
 
 #: stringdump_steam_50_09.txt:105
 msgid "Cooperation"
-msgstr "Kooperacja"
+msgstr "Kooperacyjność"
 
 #: stringdump_steam_50_09.txt:106
 msgid "Independence"
@@ -274,11 +276,11 @@ msgstr "Niezależność"
 
 #: stringdump_steam_50_09.txt:107
 msgid "Stoicism"
-msgstr "Stoicyzm"
+msgstr "Stoickość"
 
 #: stringdump_steam_50_09.txt:108
 msgid "Introspection"
-msgstr "Introspekcja"
+msgstr "Introspektywność"
 
 #: stringdump_steam_50_09.txt:109
 msgid "Self-Control"
@@ -290,7 +292,7 @@ msgstr "Spokój"
 
 #: stringdump_steam_50_09.txt:111
 msgid "Harmony"
-msgstr "Harmonia"
+msgstr "Harmonijność"
 
 #: stringdump_steam_50_09.txt:112
 msgid "Merriment"
@@ -318,7 +320,7 @@ msgstr "Poświęcenie"
 
 #: stringdump_steam_50_09.txt:118
 msgid "Competition"
-msgstr "Konkurencja"
+msgstr "Konkurencyjność"
 
 #: stringdump_steam_50_09.txt:119
 msgid "Perseverance"
@@ -334,7 +336,7 @@ msgstr "Handel"
 
 #: stringdump_steam_50_09.txt:122
 msgid "Romance"
-msgstr "Romans"
+msgstr "Romantyczność"
 
 #: stringdump_steam_50_09.txt:123
 msgid "Nature"
@@ -354,59 +356,59 @@ msgstr "Głosić"
 
 #: stringdump_steam_50_09.txt:127
 msgid "Listen to Sermon"
-msgstr "Wysłuchaj kazania"
+msgstr "Wysłuchać kazania"
 
 #: stringdump_steam_50_09.txt:128
 msgid "Tell Story"
-msgstr "Opowiedz Historie"
+msgstr "Opowiedzieć Historię"
 
 #: stringdump_steam_50_09.txt:129
 msgid "Listen to Story"
-msgstr "Słuchaj Historii"
+msgstr "Wysłuchać Historii"
 
 #: stringdump_steam_50_09.txt:130
 msgid "Listen to Poetry"
-msgstr "Słuchaj Poezji"
+msgstr "Słuchać Poezji"
 
 #: stringdump_steam_50_09.txt:131
 msgid "Play "
-msgstr "Graj"
+msgstr "Grać"
 
 #: stringdump_steam_50_09.txt:132
 msgid "Simulate "
-msgstr "Symuluj"
+msgstr "Imitować"
 
 #: stringdump_steam_50_09.txt:133
 msgid "Sing"
-msgstr "Śpiewaj"
+msgstr "Śpiewać"
 
 #: stringdump_steam_50_09.txt:134
 msgid "Chant"
-msgstr "Skanduj"
+msgstr "Skandować"
 
 #: stringdump_steam_50_09.txt:135
 msgid "Recite Poetry"
-msgstr "Recytuj Poezje"
+msgstr "Recytować Poezję"
 
 #: stringdump_steam_50_09.txt:136
 msgid "Perform Music"
-msgstr "Graj Muzyke"
+msgstr "Grać Muzykę"
 
 #: stringdump_steam_50_09.txt:137
 msgid "Listen to Music"
-msgstr "Słuchaj Muzyki"
+msgstr "Słuchać Muzyki"
 
 #: stringdump_steam_50_09.txt:138
 msgid "Perform Dance"
-msgstr "Tańcz"
+msgstr "Wykonać taniec"
 
 #: stringdump_steam_50_09.txt:139
 msgid "Watch Dance"
-msgstr "Obserwuj Taniec"
+msgstr "Obserwować Taniec"
 
 #: stringdump_steam_50_09.txt:140
 msgid "Go to "
-msgstr "Idź do"
+msgstr "Iść do"
 
 #: stringdump_steam_50_09.txt:141
 msgid " Demonstration"
@@ -414,31 +416,31 @@ msgstr "Pokaz"
 
 #: stringdump_steam_50_09.txt:142
 msgid "Lead "
-msgstr "Prowadź"
+msgstr "Prowadzić"
 
 #: stringdump_steam_50_09.txt:143
 msgid "Organize "
-msgstr "Organizuj"
+msgstr "Organizować"
 
 #: stringdump_steam_50_09.txt:144
 msgid "Watch "
-msgstr "Oglądaj"
+msgstr "Oglądać"
 
 #: stringdump_steam_50_09.txt:145
 msgid "Wait for "
-msgstr "Zaczekaj na"
+msgstr "Zaczekać na"
 
 #: stringdump_steam_50_09.txt:146
 msgid "Serve Customer"
-msgstr "Obsłuż Klienta"
+msgstr "Obsłużyć Klienta"
 
 #: stringdump_steam_50_09.txt:147
 msgid "Serve "
-msgstr "Obsłuż "
+msgstr "Służyć"
 
 #: stringdump_steam_50_09.txt:148
 msgid "Go to Individual Combat Drill"
-msgstr "Idź na Indywidualną Musztre"
+msgstr "Iść na Indywidualną Musztrę"
 
 #: stringdump_steam_50_09.txt:149
 msgid "Individual Combat Drill"
@@ -446,27 +448,27 @@ msgstr "Indywidualna Musztra"
 
 #: stringdump_steam_50_09.txt:150
 msgid "/Resting"
-msgstr "/Odpoczywa"
+msgstr "/Odpoczynek"
 
 #: stringdump_steam_50_09.txt:151
 msgid "Go to Sparring Match"
-msgstr "Idź na Sparring "
+msgstr "Iść na Sparring "
 
 #: stringdump_steam_50_09.txt:152
 msgid "Spar"
-msgstr "Prowadź Sparing"
+msgstr "Prowadzić Sparring"
 
 #: stringdump_steam_50_09.txt:153
 msgid "Go to Sparring Practice"
-msgstr "Idź na Sparring"
+msgstr "Iść na Sparring"
 
 #: stringdump_steam_50_09.txt:154
 msgid "Watch Sparring Practice"
-msgstr "Obserwuj Sparring "
+msgstr "Obserwować Sparring "
 
 #: stringdump_steam_50_09.txt:155
 msgid "Archery Practice"
-msgstr "Praktyka Łucznicza"
+msgstr "Trening łuczniczy"
 
 #: stringdump_steam_50_09.txt:157
 msgid "You cannot perform here."
@@ -474,11 +476,11 @@ msgstr "Nie możesz tu występować. "
 
 #: stringdump_steam_50_09.txt:158
 msgid "You could not find a partner."
-msgstr "Nie można znaleźć partnera."
+msgstr "Nie możesz znaleźć partnera."
 
 #: stringdump_steam_50_09.txt:159
 msgid "There are not enough dancers."
-msgstr "Za mało tancerzy."
+msgstr "Tu jest za mało tancerzy."
 
 #: stringdump_steam_50_09.txt:160
 msgid "There is not enough room to perform here."
@@ -486,11 +488,11 @@ msgstr "Jest tu zbyt mało miejsca by występować."
 
 #: stringdump_steam_50_09.txt:161
 msgid "Desired Evil Square Count in Large Subregions"
-msgstr ""
+msgstr "Liczba Złych Kwadratów w Dużych Podregionach"
 
 #: stringdump_steam_50_09.txt:162
 msgid "[C:5:0:1].Minor rot"
-msgstr ""
+msgstr "[C:5:0:1].Drobna zgnilizna"
 
 #: stringdump_steam_50_09.txt:163
 msgid "You"
@@ -510,11 +512,11 @@ msgstr "są"
 
 #: stringdump_steam_50_09.txt:167
 msgid "begins"
-msgstr "rozpoczyna się"
+msgstr "zaczyna się"
 
 #: stringdump_steam_50_09.txt:168
 msgid "begin"
-msgstr "zacząć"
+msgstr "zaczynasz"
 
 #: stringdump_steam_50_09.txt:169
 msgid " playing make believe."
@@ -526,7 +528,7 @@ msgstr "bawić się z"
 
 #: stringdump_steam_50_09.txt:171
 msgid "a toy"
-msgstr "zabawka"
+msgstr "zabawką"
 
 #: stringdump_steam_50_09.txt:172
 msgid "The performers"
@@ -538,7 +540,7 @@ msgstr "kazanie na temat"
 
 #: stringdump_steam_50_09.txt:174
 msgid "the story of "
-msgstr "historia "
+msgstr "historia o"
 
 #: stringdump_steam_50_09.txt:175
 msgid "reciting the poem "
@@ -546,15 +548,15 @@ msgstr "rycytuje poezje"
 
 #: stringdump_steam_50_09.txt:176
 msgid "an improvised recital of "
-msgstr "zaimprowizowana recytacja "
+msgstr "zaimprowizowaną recytację "
 
 #: stringdump_steam_50_09.txt:177
 msgid "the musical composition "
-msgstr "muzyczna kompozycja"
+msgstr "muzyczną kompozycję"
 
 #: stringdump_steam_50_09.txt:178
 msgid "improvised music, "
-msgstr "zaimprowizowana muzyka"
+msgstr "zaimprowizowaną muzykę"
 
 #: stringdump_steam_50_09.txt:179
 msgid "dancing "
@@ -590,7 +592,7 @@ msgstr "Rozpoczynasz"
 
 #: stringdump_steam_50_09.txt:187
 msgid "The poetry enters"
-msgstr "Poezja wchodzi w"
+msgstr "Wiersz przechodzi w"
 
 #: stringdump_steam_50_09.txt:188
 msgid "the "
@@ -714,19 +716,19 @@ msgstr "motyw"
 
 #: stringdump_steam_50_09.txt:218
 msgid "a series of variations"
-msgstr "serie zmienności"
+msgstr "serie wariacji"
 
 #: stringdump_steam_50_09.txt:219
 msgid " on the theme"
-msgstr "w motywie"
+msgstr "na temat"
 
 #: stringdump_steam_50_09.txt:220
 msgid " on the first theme"
-msgstr "w pierwszym motywie"
+msgstr "na pierwszy temat"
 
 #: stringdump_steam_50_09.txt:221
 msgid " on the second theme"
-msgstr "w drugim motywie"
+msgstr "na drugi temat"
 
 #: stringdump_steam_50_09.txt:222
 msgid " and "
@@ -758,7 +760,7 @@ msgstr "Wykonawcy zakończyli wystąpienie."
 
 #: stringdump_steam_50_09.txt:229
 msgid "Some performers finish their act."
-msgstr "Część wykonawców zakończyła swoją porcje wystąpienia."
+msgstr "Część wykonawców zakończyła swoją część wystąpienia."
 
 #: stringdump_steam_50_09.txt:230
 msgid " has finished performing."
@@ -818,7 +820,7 @@ msgstr "nie potrafić dobrze wygłosić kazania."
 
 #: stringdump_steam_50_09.txt:245
 msgid " dance"
-msgstr "tańczy"
+msgstr "taniec"
 
 #: stringdump_steam_50_09.txt:246
 msgid " flawlessly, like someone out of a legend!"
@@ -834,7 +836,7 @@ msgstr "tańczy dobrze."
 
 #: stringdump_steam_50_09.txt:249
 msgid " get"
-msgstr "zdobyć"
+msgstr ""
 
 #: stringdump_steam_50_09.txt:250
 msgid " tangled up."
@@ -854,7 +856,7 @@ msgstr "instrument"
 
 #: stringdump_steam_50_09.txt:254
 msgid " delivering a virtuoso performance on the "
-msgstr "Pokazuje swą wirtuozerie na"
+msgstr "Daje wirtuozerski popis na"
 
 #: stringdump_steam_50_09.txt:255
 msgid " is absolutely flawless."
@@ -862,7 +864,7 @@ msgstr "jest absolutnie perfekcyjne"
 
 #: stringdump_steam_50_09.txt:256
 msgid "chant"
-msgstr "skand"
+msgstr "skandowanie"
 
 #: stringdump_steam_50_09.txt:257
 msgid "song"
@@ -910,11 +912,11 @@ msgstr "dobrze"
 
 #: stringdump_steam_50_09.txt:268
 msgid "chanting"
-msgstr "skanduje"
+msgstr "skandowanie"
 
 #: stringdump_steam_50_09.txt:269
 msgid "singing"
-msgstr "śpiewa"
+msgstr "śpiew"
 
 #: stringdump_steam_50_09.txt:270
 msgid " make"
@@ -926,7 +928,7 @@ msgstr "parodie z"
 
 #: stringdump_steam_50_09.txt:272
 msgid " with a shameworthy performance."
-msgstr "z wystąpieniem godnym wstydu"
+msgstr "z zawstydzającym wystąpieniem"
 
 #: stringdump_steam_50_09.txt:273
 msgid "doesn't"
@@ -938,7 +940,7 @@ msgstr "nie"
 
 #: stringdump_steam_50_09.txt:275
 msgid " seem to know how to play the "
-msgstr "wygląda jakby umiał grać na"
+msgstr "wydaje się wiedzieć, jak należy grać na"
 
 #: stringdump_steam_50_09.txt:276
 msgid " sloppily"
@@ -982,7 +984,7 @@ msgstr "wymawia"
 
 #: stringdump_steam_50_09.txt:286
 msgid " crisply."
-msgstr "rześko"
+msgstr "wyraźnie"
 
 #: stringdump_steam_50_09.txt:287
 msgid " speak"
@@ -994,7 +996,7 @@ msgstr "mamrocze"
 
 #: stringdump_steam_50_09.txt:289
 msgid ", having completely forgotten the words."
-msgstr "kompletnie zapominając tekst."
+msgstr "kompletnie zapominając słów."
 
 #: stringdump_steam_50_09.txt:290
 msgid " poorly."
@@ -1006,19 +1008,19 @@ msgstr "macha"
 
 #: stringdump_steam_50_09.txt:292
 msgid " a mesmerizing tale!"
-msgstr "fascynująca opowieść!"
+msgstr "hipnotyzującą opowieść!"
 
 #: stringdump_steam_50_09.txt:293
 msgid " tell"
-msgstr "powiedz"
+msgstr "opowiada"
 
 #: stringdump_steam_50_09.txt:294
 msgid " the story in vivid detail."
-msgstr "historie w bujnych. detalach"
+msgstr "historie w bujnych detalach"
 
 #: stringdump_steam_50_09.txt:295
 msgid " telling the tale quite well."
-msgstr "opowiada historie całkiem dobrze."
+msgstr "całkiem niezły w opowiadaniu historii."
 
 #: stringdump_steam_50_09.txt:296
 msgid " stumble"
@@ -1042,11 +1044,11 @@ msgstr "Nie ma stron."
 
 #: stringdump_steam_50_09.txt:301
 msgid "juxtaposition"
-msgstr ""
+msgstr "zestawienie"
 
 #: stringdump_steam_50_09.txt:303
 msgid "Alias: "
-msgstr "Psełdonim:"
+msgstr "Alias:"
 
 #: stringdump_steam_50_09.txt:304
 msgid "Highest known in organization"
@@ -1070,7 +1072,7 @@ msgstr "Powinniśmy robić większe postępy."
 
 #: stringdump_steam_50_09.txt:310
 msgid "We are going the wrong way."
-msgstr "Idziemy w złym kierunku."
+msgstr "Zmierzamy w złą stronę."
 
 #: stringdump_steam_50_09.txt:311
 msgid "We haven't performed for some time."
@@ -1078,7 +1080,7 @@ msgstr "Nie występowaliśmy już od jakiegoś czasu."
 
 #: stringdump_steam_50_09.txt:312
 msgid "We have arrived at our destination."
-msgstr "Jesteśmy na miejscu."
+msgstr "Dotarliśmy do celu."
 
 #: stringdump_steam_50_09.txt:313
 msgid "The oppressor has been overthrown!"
@@ -1086,7 +1088,7 @@ msgstr "Ciemiężca został obalony!"
 
 #: stringdump_steam_50_09.txt:314
 msgid "We must not abandon "
-msgstr "Nie możemy porzucić"
+msgstr "Nie wolno nam porzucić"
 
 #: stringdump_steam_50_09.txt:315
 msgid "We must go back."
@@ -1142,11 +1144,11 @@ msgstr ", lecz atak zostaje odbity przez"
 
 #: stringdump_steam_50_09.txt:328
 msgid ", lightly tapping the target!"
-msgstr ", lekko klepiąc cel!"
+msgstr ", lekko dotykając cel!"
 
 #: stringdump_steam_50_09.txt:329
 msgid ", but there is no force!"
-msgstr ", lecz nie ma tu impetu!"
+msgstr ", lecz nie ma impetu!"
 
 #: stringdump_steam_50_09.txt:330
 msgid ", but it passes right through!"
@@ -1154,7 +1156,7 @@ msgstr ", lecz przelatuje na wylot!"
 
 #: stringdump_steam_50_09.txt:331
 msgid ", but the attack passes right through!"
-msgstr ", lecz atak przelatuje na wylot!"
+msgstr ", lecz atak przechodzi na wylot!"
 
 #: stringdump_steam_50_09.txt:332
 msgid ", but it glances away!"
@@ -1178,7 +1180,7 @@ msgstr "jest wmiażdżona w resztę ciała, tworząc nierozpoznawalną masę ."
 
 #: stringdump_steam_50_09.txt:337
 msgid " splits in gore!"
-msgstr "rozdziela się na części!"
+msgstr "rozpada się na miazgę!"
 
 #: stringdump_steam_50_09.txt:338
 msgid " collapses!"
@@ -1194,15 +1196,15 @@ msgstr "jest rozerwana na kawałki!"
 
 #: stringdump_steam_50_09.txt:341
 msgid " is torn apart!"
-msgstr "jest rozerwana!"
+msgstr "jest oderwana!"
 
 #: stringdump_steam_50_09.txt:342
 msgid " and it is mostly cut away from the rest of the torso!"
-msgstr "jest w większości odcięta od reszty ciała!"
+msgstr "jest praktycznie odcięta od reszty ciała!"
 
 #: stringdump_steam_50_09.txt:343
 msgid " is cloven asunder!"
-msgstr "jest rozczepiony na kawałeczki!"
+msgstr "jest rozczepiony na pół!"
 
 #: stringdump_steam_50_09.txt:344
 msgid " explodes into gore!"
@@ -1222,19 +1224,19 @@ msgstr "Genitalia zostały wyrwane!"
 
 #: stringdump_steam_50_09.txt:348
 msgid "tearing"
-msgstr "rwąc"
+msgstr "rozrywając"
 
 #: stringdump_steam_50_09.txt:349
 msgid "tearing apart"
-msgstr "rozrywająć"
+msgstr "odrywając"
 
 #: stringdump_steam_50_09.txt:350
 msgid "shattering"
-msgstr "rozłupująć"
+msgstr "roztrzaskując"
 
 #: stringdump_steam_50_09.txt:351
 msgid "chipping"
-msgstr "odłupująć"
+msgstr "odłupując"
 
 #: stringdump_steam_50_09.txt:352
 msgid "fracturing"
@@ -1254,11 +1256,11 @@ msgstr ""
 
 #: stringdump_steam_50_09.txt:356
 msgid " it"
-msgstr "ją"
+msgstr "to"
 
 #: stringdump_steam_50_09.txt:357
 msgid " apart"
-msgstr "osobno"
+msgstr "w taki sposób, że stanowi oddzielną część"
 
 #: stringdump_steam_50_09.txt:358
 msgid " and"
@@ -1266,15 +1268,15 @@ msgstr "i"
 
 #: stringdump_steam_50_09.txt:359
 msgid " tearing apart"
-msgstr "rozrywająć"
+msgstr "odrywając"
 
 #: stringdump_steam_50_09.txt:360
 msgid " shattering"
-msgstr "rozłupująć"
+msgstr "roztrzaskując"
 
 #: stringdump_steam_50_09.txt:361
 msgid " tearing"
-msgstr "rwąc"
+msgstr "rozrywając"
 
 #: stringdump_steam_50_09.txt:362
 msgid " chipping"
@@ -1286,7 +1288,7 @@ msgstr "łamiąc"
 
 #: stringdump_steam_50_09.txt:364
 msgid " denting"
-msgstr "wgniatająć"
+msgstr "wgniatając"
 
 #: stringdump_steam_50_09.txt:365
 msgid " bruising"
@@ -1334,11 +1336,11 @@ msgstr "połowę"
 
 #: stringdump_steam_50_09.txt:376
 msgid " a piece of"
-msgstr "część "
+msgstr "kawałek"
 
 #: stringdump_steam_50_09.txt:377
 msgid " the rest of"
-msgstr "reszte"
+msgstr "resztę"
 
 #: stringdump_steam_50_09.txt:378
 msgid " through the "
@@ -1346,7 +1348,7 @@ msgstr "poprzez "
 
 #: stringdump_steam_50_09.txt:379
 msgid " and spilling "
-msgstr "i rozlewająć"
+msgstr "i rozlewając"
 
 #: stringdump_steam_50_09.txt:380
 msgid "your"
@@ -1446,7 +1448,7 @@ msgstr "zwichnięte"
 
 #: stringdump_steam_50_09.txt:404
 msgid "bruised"
-msgstr "posiniaczone"
+msgstr "stłuczone"
 
 #: stringdump_steam_50_09.txt:405
 msgid "a tendon"
@@ -1458,11 +1460,11 @@ msgstr "zwichnięte"
 
 #: stringdump_steam_50_09.txt:407
 msgid " is ripped to shreds!"
-msgstr "jest rozerwana na kawałki!"
+msgstr "jest rozerwane na strzępy!"
 
 #: stringdump_steam_50_09.txt:408
 msgid " breaks!"
-msgstr "przerwy!"
+msgstr "zrywa się!"
 
 #: stringdump_steam_50_09.txt:409
 msgid " attack is interrupted!"
@@ -1470,27 +1472,27 @@ msgstr "atak został przerwany!"
 
 #: stringdump_steam_50_09.txt:410
 msgid " have"
-msgstr " zostały"
+msgstr " został"
 
 #: stringdump_steam_50_09.txt:411
 msgid " has"
-msgstr " został"
+msgstr "został"
 
 #: stringdump_steam_50_09.txt:412
 msgid " become enraged!"
-msgstr "wprowadzony w szał!"
+msgstr "rozjuszony!"
 
 #: stringdump_steam_50_09.txt:413
 msgid " has lodged firmly in the wound!"
-msgstr "pewnie wbił się w ranę!"
+msgstr "utkwił mocno w ranie!"
 
 #: stringdump_steam_50_09.txt:414
 msgid " latch on firmly"
-msgstr "zacisnął się pewnie"
+msgstr "zaciska się mocno"
 
 #: stringdump_steam_50_09.txt:415
 msgid " latches on firmly"
-msgstr "zaciska się pewnie"
+msgstr "zaciska się mocno"
 
 #: stringdump_steam_50_09.txt:416
 msgid " to "
@@ -1498,31 +1500,31 @@ msgstr "na"
 
 #: stringdump_steam_50_09.txt:417
 msgid " latch on firmly!"
-msgstr "zacisnął się pewnie!"
+msgstr "zacisnął się mocno!"
 
 #: stringdump_steam_50_09.txt:418
 msgid " latches on firmly!"
-msgstr "zaciska się pewnie!"
+msgstr "zaciska się mocno!"
 
 #: stringdump_steam_50_09.txt:419
 msgid " are"
-msgstr "są"
+msgstr ""
 
 #: stringdump_steam_50_09.txt:420
 msgid " is"
-msgstr "jest"
+msgstr ""
 
 #: stringdump_steam_50_09.txt:421
 msgid " propelled away by the force of the blow!"
-msgstr "odrzucone przez siłę uderzenia!"
+msgstr "został odrzucony siłą uderzenia!"
 
 #: stringdump_steam_50_09.txt:422
 msgid " been knocked unconscious!"
-msgstr "doprowadzony do nieprzytomności!"
+msgstr "pozbawiony zmysłów!"
 
 #: stringdump_steam_50_09.txt:423
 msgid " been stunned again!"
-msgstr "ponownie ogłuszony"
+msgstr "ponownie ogłuszony!"
 
 #: stringdump_steam_50_09.txt:424
 msgid " been stunned!"
@@ -1566,11 +1568,11 @@ msgstr "przepływa nad"
 
 #: stringdump_steam_50_09.txt:434
 msgid " splatters over the "
-msgstr "rozpluskuję się na"
+msgstr "rozplaskuje się na"
 
 #: stringdump_steam_50_09.txt:435
 msgid " crumbles over the "
-msgstr "krouszy się na"
+msgstr "kruszy się na"
 
 #: stringdump_steam_50_09.txt:436
 msgid " is sucked out of the wound!"
@@ -1586,7 +1588,7 @@ msgstr "z"
 
 #: stringdump_steam_50_09.txt:439
 msgid " item"
-msgstr "rzecz"
+msgstr "przedmiot"
 
 #: stringdump_steam_50_09.txt:440
 msgid "Independent"
@@ -1622,11 +1624,11 @@ msgstr "Umiejętności"
 
 #: stringdump_steam_50_09.txt:448
 msgid "Creature"
-msgstr "Kreatura"
+msgstr "Istota"
 
 #: stringdump_steam_50_09.txt:449
 msgid "Tame/mountable"
-msgstr "Oswojony/transport"
+msgstr "Oswojony/do dosiadania"
 
 #: stringdump_steam_50_09.txt:450
 msgid "Not"
@@ -1714,15 +1716,15 @@ msgstr "Gorący"
 
 #: stringdump_steam_50_09.txt:472
 msgid "Warm"
-msgstr ""
+msgstr "Ciepły"
 
 #: stringdump_steam_50_09.txt:473
 msgid "Cool"
-msgstr ""
+msgstr "Chłodny"
 
 #: stringdump_steam_50_09.txt:474
 msgid "Cold"
-msgstr ""
+msgstr "Zimny"
 
 #: stringdump_steam_50_09.txt:475
 msgid "Subterranean"
@@ -1730,7 +1732,7 @@ msgstr "Podziemny"
 
 #: stringdump_steam_50_09.txt:476
 msgid "Freezing"
-msgstr ""
+msgstr "Mroźny"
 
 #: stringdump_steam_50_09.txt:477
 msgid "Below freezing"
@@ -1782,7 +1784,7 @@ msgstr "Wczesny poranek"
 
 #: stringdump_steam_50_09.txt:489
 msgid "Finish setting tree chopping orders."
-msgstr ""
+msgstr "Zakończ wydawanie poleceń ścinania drzew."
 
 #: stringdump_steam_50_09.txt:490
 msgid "item"
@@ -1790,7 +1792,7 @@ msgstr "przedmiot"
 
 #: stringdump_steam_50_09.txt:494
 msgid "Move keyboard cursor down and left, fast"
-msgstr ""
+msgstr "Szybko przemieść kursor klawiatury w lewo w dół."
 
 #: stringdump_steam_50_09.txt:495
 msgid " have returned."
@@ -1806,7 +1808,7 @@ msgstr "powrócił."
 
 #: stringdump_steam_50_09.txt:498
 msgid " has brought back many tales from beyond "
-msgstr "przyniósł wiele opowieści zza światów."
+msgstr "przyniósł wiele opowieści z daleka"
 
 #: stringdump_steam_50_09.txt:499
 msgid " has brought back a few rumors."
@@ -1822,19 +1824,19 @@ msgstr "przybył."
 
 #: stringdump_steam_50_09.txt:502
 msgid " is visiting."
-msgstr "odwiedza"
+msgstr "składa wizytę"
 
 #: stringdump_steam_50_09.txt:503
 msgid ", the performance troupe, has arrived."
-msgstr ", trupa artystów przybyła."
+msgstr ", trupa artystów, przybyła."
 
 #: stringdump_steam_50_09.txt:504
 msgid ", a performance troupe, is visiting."
-msgstr "trupa artystów, składa wizytę."
+msgstr ", trupa artystów, składa wizytę."
 
 #: stringdump_steam_50_09.txt:505
 msgid "Spoils Report: "
-msgstr "Raport z łupów:"
+msgstr "Raport o uszkodzeniach:"
 
 #: stringdump_steam_50_09.txt:506
 msgid " and others"
@@ -1858,12 +1860,13 @@ msgstr "Wiosna"
 
 #: stringdump_steam_50_09.txt:511
 msgid "The dead walk.  Hide while you still can!"
-msgstr "Umarli zaczęli chodzić. Chowaj się póki możesz!"
+msgstr "Umarli zaczęli chodzić. Ukryj się póki możesz!"
 
 #: stringdump_steam_50_09.txt:512
 msgid ""
 "Forms twisted from their nature, legion of the night.  What hope remains?"
-msgstr "Formy wykrzywione ze swej natury, legion nocy. Jaka jest nadzieja?"
+msgstr ""
+"Formy wykrzywione ze swej natury, legion nocy. Jaka nadzieja pozostała?"
 
 #: stringdump_steam_50_09.txt:513
 msgid "A vile force of darkness has arrived, seeking a parley!"
@@ -1884,23 +1887,23 @@ msgstr "Przybył nikczemny wysłannik sił ciemności!"
 
 #: stringdump_steam_50_09.txt:517
 msgid "The enemy have come and are laying siege to the fortress."
-msgstr "Przybył nieprzyjaciel, który zaczyna oblężenie twierdzy."
+msgstr "Przybył nieprzyjaciel i zaczyna oblegać twierdzę."
 
 #: stringdump_steam_50_09.txt:518
 msgid "An army is invading!"
-msgstr "Armia atakuje!"
+msgstr "Wroga armia nadchodzi!"
 
 #: stringdump_steam_50_09.txt:519
 msgid "Graphical FPS cap (default 50)"
-msgstr ""
+msgstr "Ograniczenie FPS (domyślnie 50)"
 
 #: stringdump_steam_50_09.txt:520
 msgid "admire owned building"
-msgstr ""
+msgstr "podziwia posiadany budynek"
 
 #: stringdump_steam_50_09.txt:522
 msgid "army is located out of bounds: teleporting"
-msgstr "Armia znajduje się poza granicami: teleportacja"
+msgstr "army is located out of bounds: teleporting"
 
 #: stringdump_steam_50_09.txt:527
 msgid "overlord"
@@ -1912,7 +1915,7 @@ msgstr "władcy"
 
 #: stringdump_steam_50_09.txt:529
 msgid "I must make a profit.  There is simply not enough value here."
-msgstr ""
+msgstr "Muszę osiągać zysk. Tu po prostu nic nie ma wystarczającej wartości."
 
 #: stringdump_steam_50_09.txt:531
 msgid " of "
@@ -1920,7 +1923,7 @@ msgstr "z"
 
 #: stringdump_steam_50_09.txt:532
 msgid " has been founded "
-msgstr "został odnaleziomy"
+msgstr "został założony"
 
 #: stringdump_steam_50_09.txt:533
 msgid ", has been conquered and"
@@ -1928,7 +1931,7 @@ msgstr ", został podbity i "
 
 #: stringdump_steam_50_09.txt:534
 msgid ", has been"
-msgstr "zostało"
+msgstr "został"
 
 #: stringdump_steam_50_09.txt:535
 msgid " incorporated into your holdings."
@@ -1936,15 +1939,16 @@ msgstr "włączone do Twych ziem."
 
 #: stringdump_steam_50_09.txt:536
 msgid " has been conquered and now"
-msgstr ", został podbity i "
+msgstr ", został podbity i obecnie"
 
 #: stringdump_steam_50_09.txt:537
 msgid " looks to your thriving economy for its future prosperity."
-msgstr "zwraca uwagę na kwitnącą gospodarkę pod kątem przyszłego dobrobytu."
+msgstr ""
+"zwraca uwagę na twoją kwitnącą gospodarkę z uwagi na przyszły dobrobyt."
 
 #: stringdump_steam_50_09.txt:538
 msgid "tends not to be swayed by emotional appeals"
-msgstr ""
+msgstr "zazwyczaj nie ulega wpływowi emocji"
 
 #: stringdump_steam_50_09.txt:545
 msgid "save"
@@ -1964,7 +1968,7 @@ msgstr "są"
 
 #: stringdump_steam_50_09.txt:554
 msgid "prostrating "
-msgstr "wyczerpać"
+msgstr "składając pokłony"
 
 #: stringdump_steam_50_09.txt:555
 msgid "themselves"
@@ -1984,7 +1988,7 @@ msgstr "dopuszcza się niemoralnego aktu na"
 
 #: stringdump_steam_50_09.txt:559
 msgid "devouring "
-msgstr "pochłaniać"
+msgstr "pochłania"
 
 #: stringdump_steam_50_09.txt:560
 msgid "admiring "
@@ -2024,7 +2028,7 @@ msgstr "rozmawia z"
 
 #: stringdump_steam_50_09.txt:569
 msgid "embracing "
-msgstr "ogarnięcie"
+msgstr "obejmuje"
 
 #: stringdump_steam_50_09.txt:570
 msgid "striking down "
@@ -2032,7 +2036,7 @@ msgstr "uderza"
 
 #: stringdump_steam_50_09.txt:571
 msgid "raising "
-msgstr "wychowanie"
+msgstr "wychowuje"
 
 #: stringdump_steam_50_09.txt:572
 msgid "hiding "
@@ -2060,7 +2064,7 @@ msgstr "nadziany na"
 
 #: stringdump_steam_50_09.txt:578
 msgid "being flayed by "
-msgstr "jest rozpruwany przez"
+msgstr "jest obdzierany ze skóry"
 
 #: stringdump_steam_50_09.txt:579
 msgid "hanging from "
@@ -2068,7 +2072,7 @@ msgstr "zwisa z"
 
 #: stringdump_steam_50_09.txt:580
 msgid "being mutilated by "
-msgstr "Okaleczone przez"
+msgstr "jest okaleczony przez"
 
 #: stringdump_steam_50_09.txt:581
 msgid "praying"
@@ -2092,7 +2096,7 @@ msgstr "jest torturowany"
 
 #: stringdump_steam_50_09.txt:586
 msgid "committing a depraved act"
-msgstr "dopuszcza się aktu niemoralnego aktu"
+msgstr "dopuszcza się niemoralnego aktu"
 
 #: stringdump_steam_50_09.txt:587
 msgid "making a submissive gesture"
@@ -2100,11 +2104,11 @@ msgstr "wykonuje uległy gest"
 
 #: stringdump_steam_50_09.txt:588
 msgid "in a fetal position"
-msgstr "w pozycji prenatalnej"
+msgstr "w pozycji płodowej"
 
 #: stringdump_steam_50_09.txt:589
 msgid "smeared out into a spiral"
-msgstr "rozmazany w spiralę"
+msgstr "zwinięty w spiralę"
 
 #: stringdump_steam_50_09.txt:590
 msgid "falling"
@@ -2132,11 +2136,11 @@ msgstr "roztapia"
 
 #: stringdump_steam_50_09.txt:596
 msgid "burning"
-msgstr "palenie"
+msgstr "pali"
 
 #: stringdump_steam_50_09.txt:597
 msgid "look"
-msgstr "wygląd"
+msgstr "wygląda"
 
 #: stringdump_steam_50_09.txt:598
 msgid "looks"
@@ -2176,7 +2180,7 @@ msgstr "stając w triumfalnej pozie"
 
 #: stringdump_steam_50_09.txt:607
 msgid "laboring"
-msgstr "pracujących"
+msgstr "pracuje"
 
 #: stringdump_steam_50_09.txt:608
 msgid "traveling"
@@ -2184,7 +2188,7 @@ msgstr "podróżuje"
 
 #: stringdump_steam_50_09.txt:609
 msgid "contemplating"
-msgstr "kontemplując"
+msgstr "kontempluje"
 
 #: stringdump_steam_50_09.txt:610
 msgid "cooking"
@@ -2204,7 +2208,7 @@ msgstr "jest rozpruwany "
 
 #: stringdump_steam_50_09.txt:614
 msgid "being mutilated"
-msgstr "będąc okaleczonym"
+msgstr "jest okaleczony"
 
 #: stringdump_steam_50_09.txt:618
 msgid "Untitled"
@@ -2240,7 +2244,7 @@ msgstr ", bóstwo "
 
 #: stringdump_steam_50_09.txt:627
 msgid "serene"
-msgstr ""
+msgstr "pogodny"
 
 #: stringdump_steam_50_09.txt:628
 msgid "Click a building to link to "
@@ -2248,15 +2252,15 @@ msgstr "Kliknij budynek, do którego chcesz utworzyć łącze"
 
 #: stringdump_steam_50_09.txt:629
 msgid " give"
-msgstr ""
+msgstr "ulec"
 
 #: stringdump_steam_50_09.txt:630
 msgid "northeastern"
-msgstr ""
+msgstr "północno-wschodni"
 
 #: stringdump_steam_50_09.txt:631
 msgid " is following "
-msgstr ""
+msgstr "podąża za"
 
 #: stringdump_steam_50_09.txt:632
 msgid "Link to "
@@ -2276,7 +2280,7 @@ msgstr "zostanie zainstalowany w miejscu docelowym"
 
 #: stringdump_steam_50_09.txt:636
 msgid "unit-"
-msgstr ""
+msgstr "unit-"
 
 #: stringdump_steam_50_09.txt:637
 msgid "Owner: "
@@ -2316,7 +2320,7 @@ msgstr "Użycia"
 
 #: stringdump_steam_50_09.txt:646
 msgid "Engraving "
-msgstr "Grawer"
+msgstr "Grawerunek"
 
 #: stringdump_steam_50_09.txt:647
 msgid "Specify image"
@@ -2332,7 +2336,7 @@ msgstr "W transie wojennym!"
 
 #: stringdump_steam_50_09.txt:650
 msgid "Throwing a tantrum!"
-msgstr "Rzucając kłótnię!"
+msgstr "Wpadając w furię!"
 
 #: stringdump_steam_50_09.txt:651
 msgid "Sunk into depression..."
@@ -2340,11 +2344,11 @@ msgstr "Pogrążony w depresji..."
 
 #: stringdump_steam_50_09.txt:652
 msgid "Stumbling obliviously!"
-msgstr "Potykając się niepostrzeżenie!"
+msgstr "Miotając się bezmyślnie!"
 
 #: stringdump_steam_50_09.txt:653
 msgid "Corrupt Soldier Mood: "
-msgstr "Nastrój skorumpowanego żołnierza:"
+msgstr "Utracone morale:"
 
 #: stringdump_steam_50_09.txt:654
 msgid "Has a horrible fell look!"
@@ -2356,11 +2360,11 @@ msgstr "Rozmyślając ponuro..."
 
 #: stringdump_steam_50_09.txt:656
 msgid "Has the aspect of one fey!"
-msgstr "Ma aspekt jednej z postaci!"
+msgstr "Wygląda na uduchowionego!"
 
 #: stringdump_steam_50_09.txt:657
 msgid "Peculiarly secretive..."
-msgstr "Osobliwa tajemnica..."
+msgstr "Osobliwie tajemniczy..."
 
 #: stringdump_steam_50_09.txt:658
 msgid "Possessed by unknown forces!"
@@ -2368,23 +2372,23 @@ msgstr "Opętany przez nieznane siły!"
 
 #: stringdump_steam_50_09.txt:659
 msgid "Stricken by melancholy..."
-msgstr "Uderzony przez melancholię..."
+msgstr "Melancholijny..."
 
 #: stringdump_steam_50_09.txt:660
 msgid "Crawling around babbling!"
-msgstr "Raczkuje gaworząc!"
+msgstr "Pełza bełkocząc!"
 
 #: stringdump_steam_50_09.txt:661
 msgid "Running around babbling!"
-msgstr "Bieganie dookoła gaworzy!"
+msgstr "Biega w kółko bełkocząc!"
 
 #: stringdump_steam_50_09.txt:662
 msgid "Crawling around crazed!"
-msgstr "Czołganie się dookoła, szalone!"
+msgstr "Oszalały pełza dookoła!"
 
 #: stringdump_steam_50_09.txt:663
 msgid "Running around crazed!"
-msgstr "Biegając w kółko, wariat!"
+msgstr "Oszalały, biega w kółko!"
 
 #: stringdump_steam_50_09.txt:664
 msgid "In a berserk rage!"
@@ -2396,11 +2400,11 @@ msgstr "Gapi się w przestrzeń..."
 
 #: stringdump_steam_50_09.txt:666
 msgid "Corrupt Strange Mood: "
-msgstr "Zepsuty dziwny nastrój:"
+msgstr "Przerwano dziwny nastrój:"
 
 #: stringdump_steam_50_09.txt:667
 msgid "Overcome by terror!"
-msgstr "Zwyciężyć terrorem!"
+msgstr "Opętany panicznym strachem!"
 
 #: stringdump_steam_50_09.txt:668
 msgid "In emotional shock!"
@@ -2408,35 +2412,35 @@ msgstr "W szoku emocjonalnym!"
 
 #: stringdump_steam_50_09.txt:669
 msgid "Overwhelmed by horror!"
-msgstr "Przytłoczony honorem!"
+msgstr "Przytłoczony horrorem!"
 
 #: stringdump_steam_50_09.txt:670
 msgid "Experiencing mortal fear!"
-msgstr "Doświadczając śmiertelnego lęku!"
+msgstr "Doświadcza śmiertelnego lęku!"
 
 #: stringdump_steam_50_09.txt:671
 msgid "Beside "
-msgstr "Obok"
+msgstr "Przygnębiony"
 
 #: stringdump_steam_50_09.txt:672
 msgid "herself"
-msgstr "jej"
+msgstr "siebie"
 
 #: stringdump_steam_50_09.txt:673
 msgid "himself"
-msgstr "jego"
+msgstr "siebie"
 
 #: stringdump_steam_50_09.txt:674
 msgid " with grief!"
-msgstr "z żałobą!"
+msgstr "z żalem!"
 
 #: stringdump_steam_50_09.txt:675
 msgid "Drowning in sadness!"
-msgstr "Tonąć w smutku!"
+msgstr "Tonie w smutku!"
 
 #: stringdump_steam_50_09.txt:676
 msgid "Writhing in agony!"
-msgstr "Wijąc się w agonii!"
+msgstr "Wije się w agonii!"
 
 #: stringdump_steam_50_09.txt:677
 msgid "Anguished!"
@@ -2452,7 +2456,7 @@ msgstr "Całkowicie przerażony!"
 
 #: stringdump_steam_50_09.txt:680
 msgid "Distressed!"
-msgstr "Zakłopotany!"
+msgstr "Strapiony!"
 
 #: stringdump_steam_50_09.txt:681
 msgid "Taken by a fright!"
@@ -2460,7 +2464,7 @@ msgstr "Ogarnięty strachem!"
 
 #: stringdump_steam_50_09.txt:682
 msgid "Wallowing in misery!"
-msgstr "Tarzanie się w nieszczęściu!"
+msgstr "Pogrążony w nieszczęściu!"
 
 #: stringdump_steam_50_09.txt:683
 msgid "Truly mortified!"
@@ -2492,11 +2496,11 @@ msgstr "Twórca"
 
 #: stringdump_steam_50_09.txt:690
 msgid "Cannot expel or send away:"
-msgstr "Nie można wydalić ani odesłać:"
+msgstr "Nie może wygnać ani odesłać:"
 
 #: stringdump_steam_50_09.txt:691
 msgid "Does the expelling"
-msgstr "Czy wydalenie"
+msgstr "Decyduje o wygnaniu"
 
 #: stringdump_steam_50_09.txt:692
 msgid "Nobility"
@@ -2508,7 +2512,7 @@ msgstr "Pełni wybrany urząd"
 
 #: stringdump_steam_50_09.txt:694
 msgid "Spouse does the expelling"
-msgstr "Współmałżonek wydalił"
+msgstr "Współmałżonek decyduje o wygnaniu"
 
 #: stringdump_steam_50_09.txt:695
 msgid "Spouse is not present"
@@ -2544,11 +2548,11 @@ msgstr "wygnać"
 
 #: stringdump_steam_50_09.txt:703
 msgid "Send to "
-msgstr "Wyślij do"
+msgstr "Wysłać do"
 
 #: stringdump_steam_50_09.txt:704
 msgid "Send away"
-msgstr "Odeślij"
+msgstr "Odesłać"
 
 #: stringdump_steam_50_09.txt:705
 msgid "Cancel"
@@ -2568,11 +2572,11 @@ msgstr "Zdrowie"
 
 #: stringdump_steam_50_09.txt:709
 msgid "Rooms"
-msgstr "Pokoi"
+msgstr "Pokoj"
 
 #: stringdump_steam_50_09.txt:710
 msgid "Labor"
-msgstr "praca"
+msgstr "Praca"
 
 #: stringdump_steam_50_09.txt:711
 msgid "Relations"
@@ -2604,7 +2608,7 @@ msgstr "Stary"
 
 #: stringdump_steam_50_09.txt:718
 msgid "Spouse: "
-msgstr "współmałżonek"
+msgstr "współmałżonek:"
 
 #: stringdump_steam_50_09.txt:719
 msgid " lovers"
@@ -2612,7 +2616,7 @@ msgstr "kochankowie"
 
 #: stringdump_steam_50_09.txt:720
 msgid "Population: ~5000"
-msgstr ""
+msgstr "Populacja: ~5000"
 
 #: stringdump_steam_50_09.txt:721
 msgid "Lover: "
@@ -2624,11 +2628,11 @@ msgstr "dzieci"
 
 #: stringdump_steam_50_09.txt:723
 msgid "Child: "
-msgstr "Potomek:"
+msgstr "Dziecko:"
 
 #: stringdump_steam_50_09.txt:724
 msgid " pets"
-msgstr "zwierzęta"
+msgstr "zwierzęta domowe"
 
 #: stringdump_steam_50_09.txt:725
 msgid "Strong"
@@ -2640,7 +2644,7 @@ msgstr "Zręczny"
 
 #: stringdump_steam_50_09.txt:727
 msgid "Tough"
-msgstr "Trudny"
+msgstr "Mocny"
 
 #: stringdump_steam_50_09.txt:728
 msgid "High stamina"
@@ -2664,7 +2668,7 @@ msgstr "Niezdarny"
 
 #: stringdump_steam_50_09.txt:733
 msgid "Frail"
-msgstr "wątły"
+msgstr "Wątły"
 
 #: stringdump_steam_50_09.txt:734
 msgid "Low stamina"
@@ -2700,7 +2704,7 @@ msgstr "Dobra intuicja"
 
 #: stringdump_steam_50_09.txt:742
 msgid "Patient"
-msgstr "Pacjent"
+msgstr "Cierpliwy"
 
 #: stringdump_steam_50_09.txt:743
 msgid "Good memory"
@@ -2708,7 +2712,7 @@ msgstr "Dobra pamięć"
 
 #: stringdump_steam_50_09.txt:744
 msgid "Good with language"
-msgstr "Dobra znajomość języków"
+msgstr "Talent do języków"
 
 #: stringdump_steam_50_09.txt:745
 msgid "Good spatial sense"
@@ -2744,7 +2748,7 @@ msgstr "Niska siła woli"
 
 #: stringdump_steam_50_09.txt:753
 msgid "Not creative"
-msgstr "Nie kreatywny"
+msgstr "Niekreatywny"
 
 #: stringdump_steam_50_09.txt:754
 msgid "Poor intuition"
@@ -2760,7 +2764,7 @@ msgstr "Zapominalski"
 
 #: stringdump_steam_50_09.txt:757
 msgid "Bad with words"
-msgstr "Przeklina"
+msgstr "Brak talentu do języków"
 
 #: stringdump_steam_50_09.txt:758
 msgid "Poor spatial sense"
@@ -2832,7 +2836,7 @@ msgstr "Awanturnik"
 
 #: stringdump_steam_50_09.txt:775
 msgid "Stubborn"
-msgstr "Uparty"
+msgstr "Wytrwały"
 
 #: stringdump_steam_50_09.txt:776
 msgid "Wasteful"
@@ -2844,7 +2848,7 @@ msgstr "Skłonny do niezgody"
 
 #: stringdump_steam_50_09.txt:778
 msgid "Flatterer"
-msgstr "komplemenciarz"
+msgstr "Pochlebca"
 
 #: stringdump_steam_50_09.txt:779
 msgid "Polite"
@@ -2860,7 +2864,7 @@ msgstr "Nieustraszony"
 
 #: stringdump_steam_50_09.txt:782
 msgid "Overconfident"
-msgstr "Buc"
+msgstr "Zbyt pewny siebie"
 
 #: stringdump_steam_50_09.txt:783
 msgid "Vain"
@@ -2896,7 +2900,7 @@ msgstr "Okrutny"
 
 #: stringdump_steam_50_09.txt:791
 msgid "Single-minded"
-msgstr "Jednomyślny"
+msgstr "Myślący jednotorowo"
 
 #: stringdump_steam_50_09.txt:792
 msgid "Hopeful"
@@ -2920,7 +2924,7 @@ msgstr "Perfekcjonista"
 
 #: stringdump_steam_50_09.txt:797
 msgid "Obstinate"
-msgstr "Uparty"
+msgstr "Zacięty"
 
 #: stringdump_steam_50_09.txt:798
 msgid "Tolerant"
@@ -2932,7 +2936,7 @@ msgstr "Obsesyjny emocjonalnie"
 
 #: stringdump_steam_50_09.txt:800
 msgid "Swayed by emotions"
-msgstr "Pod wpływem emocji"
+msgstr "Emocjonalny"
 
 #: stringdump_steam_50_09.txt:801
 msgid "Altruistic"
@@ -2940,7 +2944,7 @@ msgstr "Altruistyczny"
 
 #: stringdump_steam_50_09.txt:802
 msgid "Dutiful"
-msgstr "Dbający"
+msgstr "Obowiązkowy"
 
 #: stringdump_steam_50_09.txt:803
 msgid "Thoughtless"
@@ -2956,7 +2960,7 @@ msgstr "Ufający"
 
 #: stringdump_steam_50_09.txt:806
 msgid "Gregarious"
-msgstr "Towarzyski"
+msgstr "Dusza towarzystwa"
 
 #: stringdump_steam_50_09.txt:807
 msgid "Overbearing"
@@ -2964,15 +2968,15 @@ msgstr "Apodyktyczny"
 
 #: stringdump_steam_50_09.txt:808
 msgid "Frenetic"
-msgstr "Szalony"
+msgstr "Szalenie energetyczny"
 
 #: stringdump_steam_50_09.txt:809
 msgid "Thrill-seeker"
-msgstr "Poszukiwacz mocnych wrarzeń"
+msgstr "Ryzykant"
 
 #: stringdump_steam_50_09.txt:810
 msgid "Flights of fancy"
-msgstr "Lotna fantazja"
+msgstr "Fantasta"
 
 #: stringdump_steam_50_09.txt:811
 msgid "Inclined to abstract"
@@ -3028,7 +3032,7 @@ msgstr "Umiarkowany"
 
 #: stringdump_steam_50_09.txt:824
 msgid "Avoid fights"
-msgstr "Unika niepotrzebnych walek"
+msgstr "Unika niepotrzebnych walk"
 
 #: stringdump_steam_50_09.txt:825
 msgid "Quick to give up"
@@ -3064,7 +3068,7 @@ msgstr "Małoduszny"
 
 #: stringdump_steam_50_09.txt:833
 msgid "Not vain"
-msgstr "Niebezcelowy"
+msgstr "Niepróżny"
 
 #: stringdump_steam_50_09.txt:834
 msgid "Not ambitious"
@@ -3084,11 +3088,11 @@ msgstr "Ponurak"
 
 #: stringdump_steam_50_09.txt:838
 msgid "Not vengeful"
-msgstr ""
+msgstr "Niemściwy"
 
 #: stringdump_steam_50_09.txt:839
 msgid "Low self esteem"
-msgstr ""
+msgstr "O niskiej samoocenie"
 
 #: stringdump_steam_50_09.txt:840
 msgid "Merciful"
@@ -3096,7 +3100,7 @@ msgstr "Miłosierny"
 
 #: stringdump_steam_50_09.txt:841
 msgid "Scatterbrained"
-msgstr ""
+msgstr "Roztrzepany"
 
 #: stringdump_steam_50_09.txt:842
 msgid "Quick to despair"
@@ -3104,7 +3108,7 @@ msgstr "Desperat"
 
 #: stringdump_steam_50_09.txt:843
 msgid "Incurious"
-msgstr ""
+msgstr "Nieciekawski"
 
 #: stringdump_steam_50_09.txt:844
 msgid "Shameless"
@@ -3112,7 +3116,7 @@ msgstr "Bezwstydny"
 
 #: stringdump_steam_50_09.txt:845
 msgid "Overshares"
-msgstr ""
+msgstr "Nadmiernie udzielający"
 
 #: stringdump_steam_50_09.txt:846
 msgid "Inattentive"
@@ -3120,7 +3124,7 @@ msgstr "Nieuważny"
 
 #: stringdump_steam_50_09.txt:847
 msgid "Acquiescing"
-msgstr ""
+msgstr "Niestały w poglądach"
 
 #: stringdump_steam_50_09.txt:848
 msgid "Intolerant"
@@ -3128,7 +3132,7 @@ msgstr "nietolerancyjny "
 
 #: stringdump_steam_50_09.txt:849
 msgid "Emotionally distant"
-msgstr ""
+msgstr "Pozbawiony emocji"
 
 #: stringdump_steam_50_09.txt:850
 msgid "Unswayed by emotions"
@@ -3136,19 +3140,19 @@ msgstr "Niewzruszony emocjami"
 
 #: stringdump_steam_50_09.txt:851
 msgid "Not altruistic"
-msgstr "Nie altruistyczny"
+msgstr "Egoistyczny"
 
 #: stringdump_steam_50_09.txt:852
 msgid "Not dutiful"
-msgstr ""
+msgstr "Nieobowiązkowy"
 
 #: stringdump_steam_50_09.txt:853
 msgid "Overcautious"
-msgstr ""
+msgstr "Nazbyt ostrożny"
 
 #: stringdump_steam_50_09.txt:854
 msgid "Sloppy"
-msgstr ""
+msgstr "niechlujny"
 
 #: stringdump_steam_50_09.txt:855
 msgid "Distrustful"
@@ -3156,47 +3160,47 @@ msgstr "Nieufny"
 
 #: stringdump_steam_50_09.txt:856
 msgid "Loner"
-msgstr ""
+msgstr "Samotnik"
 
 #: stringdump_steam_50_09.txt:857
 msgid "Unassertive"
-msgstr ""
+msgstr "Uległy"
 
 #: stringdump_steam_50_09.txt:858
 msgid "Leisurely"
-msgstr ""
+msgstr "Nieśpieszny"
 
 #: stringdump_steam_50_09.txt:859
 msgid "Avoids excitement"
-msgstr ""
+msgstr "Unika wrażeń"
 
 #: stringdump_steam_50_09.txt:860
 msgid "Fact-oriented"
-msgstr ""
+msgstr "Racjonalista"
 
 #: stringdump_steam_50_09.txt:861
 msgid "Not inclined to abstract"
-msgstr ""
+msgstr "Praktyk"
 
 #: stringdump_steam_50_09.txt:862
 msgid "Not inclined to create art"
-msgstr ""
+msgstr "Niewzruszony wobec sztuki"
 
 #: stringdump_steam_50_09.txt:863
 msgid "Values law"
-msgstr ""
+msgstr "Ceni prawo"
 
 #: stringdump_steam_50_09.txt:864
 msgid "Values loyalty"
-msgstr ""
+msgstr "Ceni lojalność"
 
 #: stringdump_steam_50_09.txt:865
 msgid "Values family"
-msgstr ""
+msgstr "Ceni rodzinę"
 
 #: stringdump_steam_50_09.txt:866
 msgid "Values friendship"
-msgstr ""
+msgstr "Ceni przyjaźń"
 
 #: stringdump_steam_50_09.txt:867
 msgid "Values power"

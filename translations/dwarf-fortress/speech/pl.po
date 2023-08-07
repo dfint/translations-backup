@@ -1,5 +1,6 @@
 # 
 # Translators:
+# Bartek Patelka, 2023
 # Bart M <bartekhehe@interia.pl>, 2016
 # Buggi, 2016
 # go go <dariusz.polanski@gmail.com>, 2016
@@ -10,7 +11,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Dwarf Fortress 0.47.05\n"
 "PO-Revision-Date: 2015-09-19 23:35+0000\n"
-"Last-Translator: Buggi, 2016\n"
+"Last-Translator: Bartek Patelka, 2023\n"
 "Language-Team: Polish (http://app.transifex.com/dwarf-fortress-translation/dwarf-fortress/language/pl/)\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -38,11 +39,11 @@ msgstr "Powiadają, że [CONTEXT:ARCH_ELEMENT] z [CONTEXT:ABSTRACT_BUILDING:TRAN
 
 #: child_age_proclamation.txt:1
 msgid "I'm [CONTEXT:NUMBER]!"
-msgstr "Jestem [CONTEXT:NUMBER]!"
+msgstr "Mam [CONTEXT:NUMBER] lat!"
 
 #: current_profession_no_year.txt:1
 msgid "I am a [CONTEXT:UNIT_NAME]."
-msgstr "Jestem [CONTEXT:NUMBER]."
+msgstr "Jestem [CONTEXT:UNIT_NAME]."
 
 #: current_profession_year.txt:1
 msgid "This is my [CONTEXT:ORDINAL] year as a [CONTEXT:UNIT_NAME]."
@@ -54,15 +55,15 @@ msgstr "Kto ośmielił się wejść do mojego domu? Przeklinam cię!"
 
 #: dwarf.txt:1
 msgid "who was too short to live"
-msgstr "był za krótki by żyć"
+msgstr "który był za niski by żyć"
 
 #: dwarf.txt:2
 msgid "who tunneled away from me like a frightened mole"
-msgstr "przerył ode mnie jak przestraszony kret"
+msgstr "który uciekał ode mnie pod ziemią jak przerażony kret"
 
 #: dwarf.txt:3
 msgid "who sucked plump helmets like a purring maggot"
-msgstr ", który wciągał pulchne kapelusze jak mrucząca larwa"
+msgstr "który wciągał pulchne kapelusze jak mrucząca larwa"
 
 #: dwarf.txt:4
 msgid "whose hammer shattered on the anvil of my power"
@@ -70,7 +71,7 @@ msgstr "którego młot strzaskał się na kowadle mojej potęgi"
 
 #: dwarf.txt:5
 msgid "who forged [PRO_POS] own doom by challenging me"
-msgstr "który wykuł [PRO_POS] własną zagładę wyzywając mnie"
+msgstr "który wykuł swoją własną zagładę wyzywając mnie"
 
 #: dwarf.txt:6
 msgid "who was returned to the rock and muck from which it was spawned"
@@ -80,7 +81,7 @@ msgstr "który wrócił do postaci skały i paskudztwa z którego się wyłonił
 msgid ""
 "whose tall tales of bravery were all the more embarrassing because of "
 "[PRO_POS] height"
-msgstr "którego wielkie opowieści o odwadze były bardziej żenujące z powodu wzrostu [PRO_POS]"
+msgstr "którego wielkie opowieści o odwadze były nawet bardziej żenujące z powodu [PRO_POS] wzrostu"
 
 #: elf.txt:1
 msgid "who was felled like a slender sapling"
