@@ -6,10 +6,11 @@
 # Alexandr Richtr, 2023
 # Jiří Holeš, 2023
 # Zdenek Galus <zgalus@centrum.cz>, 2023
+# Libor Wojcs Vojáček, 2023
 # 
 msgid ""
 msgstr ""
-"Last-Translator: Zdenek Galus <zgalus@centrum.cz>, 2023\n"
+"Last-Translator: Libor Wojcs Vojáček, 2023\n"
 "Language-Team: Czech (https://app.transifex.com/dwarf-fortress-translation/teams/22396/cs/)\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -6757,7 +6758,7 @@ msgstr ""
 #: creature_birds.txt:1479
 msgctxt "CREATURE:BIRD_KIWI_GIANT"
 msgid "[CASTE_NAME:giant kiwi hen:giant kiwi hens:giant kiwi hen]"
-msgstr ""
+msgstr "[CASTE_NAME:obří kiwi slepice:obří kiwi slepice:obří kiwi slepice] "
 
 #: creature_birds.txt:1481
 msgctxt "CREATURE:BIRD_KIWI_GIANT"
@@ -6829,7 +6830,7 @@ msgstr "[TLCM_NOUN:ocasní peří:PLURAL]"
 #: creature_birds.txt:1606
 msgctxt "CREATURE:BIRD_OSTRICH"
 msgid "[TLCM_NOUN:head and neck down:SINGULAR]"
-msgstr ""
+msgstr "[TLCM_NOUN:zlomená hlava a krk:SINGULAR]"
 
 #: creature_birds.txt:1609
 msgctxt "CREATURE:BIRD_OSTRICH"
@@ -42339,7 +42340,7 @@ msgstr ""
 #: material_template_default.txt:112
 msgctxt "MATERIAL_TEMPLATE:WOOD_TEMPLATE"
 msgid "[STATE_NAME:LIQUID:n/a]"
-msgstr ""
+msgstr "[STATE_NAME:kapalina:n/a] "
 
 #: material_template_default.txt:113
 msgctxt "MATERIAL_TEMPLATE:WOOD_TEMPLATE"
@@ -42349,12 +42350,12 @@ msgstr ""
 #: material_template_default.txt:115
 msgctxt "MATERIAL_TEMPLATE:WOOD_TEMPLATE"
 msgid "[STATE_NAME:GAS:n/a]"
-msgstr ""
+msgstr "[STATE_NAME:plyn:n/a]"
 
 #: material_template_default.txt:116
 msgctxt "MATERIAL_TEMPLATE:WOOD_TEMPLATE"
 msgid "[STATE_ADJ:GAS:n/a]"
-msgstr ""
+msgstr "[STATE_ADJ:plyn:n/a]"
 
 #: material_template_default.txt:160
 msgctxt "MATERIAL_TEMPLATE:SKIN_TEMPLATE"
@@ -46505,7 +46506,7 @@ msgstr ""
 #: plant_garden.txt:235
 msgctxt "PLANT:BEET"
 msgid "[NAME:beet plant]"
-msgstr ""
+msgstr "[NAME:rostlina řepy]"
 
 #: plant_garden.txt:235
 msgctxt "PLANT:BEET"
@@ -46560,12 +46561,12 @@ msgstr ""
 #: plant_garden.txt:283
 msgctxt "PLANT:BITTER_MELON"
 msgid "[NAME_PLURAL:bitter melon vines]"
-msgstr ""
+msgstr "[NAME_PLURAL:rostliny hořké okurky]"
 
 #: plant_garden.txt:283
 msgctxt "PLANT:BITTER_MELON"
 msgid "[ADJ:bitter melon vine]"
-msgstr ""
+msgstr "[ADJ:rostlina hořké okurky]"
 
 #: plant_garden.txt:305
 msgctxt "PLANT:BITTER_MELON"
@@ -46595,7 +46596,7 @@ msgstr ""
 #: plant_garden.txt:330
 msgctxt "PLANT:CABBAGE"
 msgid "[NAME:cabbage]"
-msgstr ""
+msgstr "[NAME:zelí]"
 
 #: plant_garden.txt:330
 msgctxt "PLANT:CABBAGE"
@@ -46605,12 +46606,12 @@ msgstr ""
 #: plant_garden.txt:330
 msgctxt "PLANT:CABBAGE"
 msgid "[ADJ:cabbage]"
-msgstr ""
+msgstr "[ADJ:zelí]"
 
 #: plant_garden.txt:348
 msgctxt "PLANT:CABBAGE"
 msgid "[SEED:cabbage seed:cabbage seeds:]"
-msgstr ""
+msgstr "[SEED:zelí semínko:zelí semínka:]"
 
 #: plant_garden.txt:351
 msgctxt "PLANT:CABBAGE"
@@ -46630,17 +46631,17 @@ msgstr ""
 #: plant_garden.txt:365
 msgctxt "PLANT:CAPER"
 msgid "[NAME:caper bush]"
-msgstr ""
+msgstr "[NAME:keř kapary]"
 
 #: plant_garden.txt:365
 msgctxt "PLANT:CAPER"
 msgid "[NAME_PLURAL:caper bushes]"
-msgstr ""
+msgstr "[NAME_PLURAL:keře kapary]"
 
 #: plant_garden.txt:365
 msgctxt "PLANT:CAPER"
 msgid "[ADJ:caper bush]"
-msgstr ""
+msgstr "[ADJ:keř kapary]"
 
 #: plant_garden.txt:393
 msgctxt "PLANT:CAPER"
@@ -53470,17 +53471,17 @@ msgstr ""
 #: plant_standard.txt:2084
 msgctxt "PLANT:BIRCH"
 msgid "[PREFSTRING:catkins]"
-msgstr ""
+msgstr "[PREFSTRING:jehnědy]"
 
 #: plant_standard.txt:2085
 msgctxt "PLANT:BIRCH"
 msgid "[PREFSTRING:silver bark]"
-msgstr ""
+msgstr "[PREFSTRING:stříbrna kůra]"
 
 #: plant_standard.txt:2086
 msgctxt "PLANT:BIRCH"
 msgid "[PREFSTRING:autumn coloration]"
-msgstr ""
+msgstr "[PREFSTRING:podzimní zbarvení]"
 
 #: plant_standard.txt:2091
 msgctxt "PLANT:BIRCH"
@@ -53500,12 +53501,12 @@ msgstr ""
 #: plant_standard.txt:2119
 msgctxt "PLANT:ASH"
 msgid "[NAME:ash]"
-msgstr ""
+msgstr "[NAME:popel]"
 
 #: plant_standard.txt:2119
 msgctxt "PLANT:ASH"
 msgid "[NAME_PLURAL:ashes]"
-msgstr ""
+msgstr "[NAME_PLURAL:popely]"
 
 #: plant_standard.txt:2119
 msgctxt "PLANT:ASH"
@@ -53560,7 +53561,7 @@ msgstr ""
 #: plant_standard.txt:2184
 msgctxt "PLANT:CANDLENUT"
 msgid "[ADJ:candlenut]"
-msgstr ""
+msgstr "[ADJ:ořech tungovníku]"
 
 #: plant_standard.txt:2188
 msgctxt "PLANT:CANDLENUT"
@@ -53580,17 +53581,17 @@ msgstr ""
 #: plant_standard.txt:2222
 msgctxt "PLANT:CANDLENUT"
 msgid "[PREFSTRING:nuts]"
-msgstr ""
+msgstr "[PREFSTRING:ořechy]"
 
 #: plant_standard.txt:2227
 msgctxt "PLANT:CANDLENUT"
 msgid "[GROWTH_NAME:candlenut leaf:candlenut leaves]"
-msgstr ""
+msgstr "[GROWTH_NAME:list tungovníku:listy tungovníku]"
 
 #: plant_standard.txt:2234
 msgctxt "PLANT:CANDLENUT"
 msgid "[GROWTH_NAME:candlenut flower:STP]"
-msgstr ""
+msgstr "[GROWTH_NAME:květ tungovníku]"
 
 #: plant_standard.txt:2241
 msgctxt "PLANT:CANDLENUT"
@@ -53600,17 +53601,17 @@ msgstr ""
 #: plant_standard.txt:2250
 msgctxt "PLANT:MANGO"
 msgid "[NAME:mango tree]"
-msgstr ""
+msgstr "[NAME:mangovník]"
 
 #: plant_standard.txt:2250
 msgctxt "PLANT:MANGO"
 msgid "[NAME_PLURAL:mango trees]"
-msgstr ""
+msgstr "[NAME_PLURAL:mangovníky]"
 
 #: plant_standard.txt:2250
 msgctxt "PLANT:MANGO"
 msgid "[ADJ:mango tree]"
-msgstr ""
+msgstr "[ADJ:mangovník]"
 
 #: plant_standard.txt:2254
 msgctxt "PLANT:MANGO"
@@ -53645,12 +53646,12 @@ msgstr ""
 #: plant_standard.txt:2304
 msgctxt "PLANT:MANGO"
 msgid "[PREFSTRING:sweet-smelling flowers]"
-msgstr ""
+msgstr "[PREFSTRING:sladce vonící kytky]"
 
 #: plant_standard.txt:2309
 msgctxt "PLANT:MANGO"
 msgid "[GROWTH_NAME:mango leaf:mango leaves]"
-msgstr ""
+msgstr "[GROWTH_NAME:List mangovníku:listy mangovníku]"
 
 #: plant_standard.txt:2316
 msgctxt "PLANT:MANGO"
@@ -53700,17 +53701,17 @@ msgstr ""
 #: plant_standard.txt:2374
 msgctxt "PLANT:CACAO"
 msgid "[NAME:cacao tree]"
-msgstr ""
+msgstr "[NAME:kakaovník]"
 
 #: plant_standard.txt:2374
 msgctxt "PLANT:CACAO"
 msgid "[NAME_PLURAL:cacao trees]"
-msgstr ""
+msgstr "[NAME_PLURAL:kakaovníky]"
 
 #: plant_standard.txt:2374
 msgctxt "PLANT:CACAO"
 msgid "[ADJ:cacao tree]"
-msgstr ""
+msgstr "[ADJ:kakaovník]"
 
 #: plant_standard.txt:2378
 msgctxt "PLANT:CACAO"
@@ -53730,12 +53731,12 @@ msgstr "[SEED:kakaový bob:kakaové boby:]"
 #: plant_standard.txt:2410
 msgctxt "PLANT:CACAO"
 msgid "[PREFSTRING:flowers]"
-msgstr ""
+msgstr "[PREFSTRING:kytky]"
 
 #: plant_standard.txt:2415
 msgctxt "PLANT:CACAO"
 msgid "[GROWTH_NAME:cacao leaf:cacao leaves]"
-msgstr ""
+msgstr "[GROWTH_NAME:list kakaovníku:listy kakaovníku]"
 
 #: plant_standard.txt:2422
 msgctxt "PLANT:CACAO"
@@ -53750,17 +53751,17 @@ msgstr ""
 #: plant_standard.txt:2439
 msgctxt "PLANT:PALM"
 msgid "[NAME:coconut palm]"
-msgstr ""
+msgstr "[NAME:kokosová palma]"
 
 #: plant_standard.txt:2439
 msgctxt "PLANT:PALM"
 msgid "[NAME_PLURAL:coconut palms]"
-msgstr ""
+msgstr "[NAME_PLURAL:kokosové palmy]"
 
 #: plant_standard.txt:2439
 msgctxt "PLANT:PALM"
 msgid "[ADJ:coconut palm]"
-msgstr ""
+msgstr "[ADJ:kokosová palma]"
 
 #: plant_standard.txt:2443
 msgctxt "PLANT:PALM"
@@ -53828,6 +53829,8 @@ msgid ""
 "[CATEGORY_DESCRIPTION:Make furniture at a carpenter's workshop using logs "
 "and a sharp tool.]"
 msgstr ""
+"[CATEGORY_DESCRIPTION:vyrobte nábytek v truhlářské dílně pomocí špalků a "
+"ostrého nástroj.]"
 
 #: reaction_adv_carpenter.txt:21
 msgctxt "REACTION:MAKE WOODEN TABLE"
@@ -53852,7 +53855,7 @@ msgstr "[PRODUCT:100:1:TABLE:NONE:GET_MATERIAL_FROM_REAGENT:kláda:]"
 #: reaction_adv_carpenter.txt:29
 msgctxt "REACTION:MAKE WOODEN TABLE"
 msgid "[PRODUCT_TOKEN:table]"
-msgstr ""
+msgstr "[PRODUCT_TOKEN:stůl]"
 
 #: reaction_adv_carpenter.txt:34
 msgctxt "REACTION:MAKE WOODEN BED"
@@ -53877,7 +53880,7 @@ msgstr "[PRODUCT:100:1:BED:NONE:GET_MATERIAL_FROM_REAGENT:kláda:]"
 #: reaction_adv_carpenter.txt:42
 msgctxt "REACTION:MAKE WOODEN BED"
 msgid "[PRODUCT_TOKEN:bed]"
-msgstr ""
+msgstr "[PRODUCT_TOKEN:postel]"
 
 #: reaction_adv_carpenter.txt:47
 msgctxt "REACTION:MAKE WOODEN CHEST"
@@ -53902,7 +53905,7 @@ msgstr "[PRODUCT:100:1:BOX:NONE:GET_MATERIAL_FROM_REAGENT:kláda:]"
 #: reaction_adv_carpenter.txt:55
 msgctxt "REACTION:MAKE WOODEN CHEST"
 msgid "[PRODUCT_TOKEN:chest]"
-msgstr ""
+msgstr "[PRODUCT_TOKEN:truhla]"
 
 #: reaction_adv_carpenter.txt:60
 msgctxt "REACTION:MAKE WOODEN CABINET"
@@ -53927,7 +53930,7 @@ msgstr "[PRODUCT:100:1:CABINET:NONE:GET_MATERIAL_FROM_REAGENT:kláda:]"
 #: reaction_adv_carpenter.txt:68
 msgctxt "REACTION:MAKE WOODEN CABINET"
 msgid "[PRODUCT_TOKEN:cabinet]"
-msgstr ""
+msgstr "[PRODUCT_TOKEN:skříňka]"
 
 #: reaction_adv_carpenter.txt:73
 msgctxt "REACTION:MAKE WOODEN DOOR"
@@ -53952,7 +53955,7 @@ msgstr "[PRODUCT:100:1:DOOR:NONE:GET_MATERIAL_FROM_REAGENT:kláda:]"
 #: reaction_adv_carpenter.txt:81
 msgctxt "REACTION:MAKE WOODEN DOOR"
 msgid "[PRODUCT_TOKEN:door]"
-msgstr ""
+msgstr "[PRODUCT_TOKEN:dveře]"
 
 #: reaction_adv_carpenter.txt:86
 msgctxt "REACTION:MAKE WOODEN BARREL"
@@ -53977,7 +53980,7 @@ msgstr "[PRODUCT:100:1:BARREL:NONE:GET_MATERIAL_FROM_REAGENT:kláda:]"
 #: reaction_adv_carpenter.txt:94
 msgctxt "REACTION:MAKE WOODEN BARREL"
 msgid "[PRODUCT_TOKEN:barrel]"
-msgstr ""
+msgstr "[PRODUCT_TOKEN:sud]"
 
 #: reaction_adv_carpenter.txt:99
 msgctxt "REACTION:MAKE WOODEN BUCKET"
@@ -54002,7 +54005,7 @@ msgstr "[PRODUCT:100:1:BUCKET:NONE:GET_MATERIAL_FROM_REAGENT:kláda:]"
 #: reaction_adv_carpenter.txt:107
 msgctxt "REACTION:MAKE WOODEN BUCKET"
 msgid "[PRODUCT_TOKEN:bucket]"
-msgstr ""
+msgstr "[PRODUCT_TOKEN:kybl]"
 
 #: reaction_adv_carpenter.txt:112
 msgctxt "REACTION:MAKE WOODEN CASKET"
@@ -54077,7 +54080,7 @@ msgstr "[PRODUCT:100:1:GRATE:NONE:GET_MATERIAL_FROM_REAGENT:kláda:]"
 #: reaction_adv_carpenter.txt:146
 msgctxt "REACTION:MAKE WOODEN GRATE"
 msgid "[PRODUCT_TOKEN:grate]"
-msgstr ""
+msgstr "[PRODUCT_TOKEN:rošt]"
 
 #: reaction_adv_carpenter.txt:151
 msgctxt "REACTION:MAKE WOODEN BIN"
@@ -54102,7 +54105,7 @@ msgstr "[PRODUCT:100:1:BIN:NONE:GET_MATERIAL_FROM_REAGENT:kláda:]"
 #: reaction_adv_carpenter.txt:159
 msgctxt "REACTION:MAKE WOODEN BIN"
 msgid "[PRODUCT_TOKEN:bin]"
-msgstr ""
+msgstr "[PRODUCT_TOKEN:koš]"
 
 #: reaction_adv_carpenter.txt:164
 msgctxt "REACTION:MAKE WOODEN STEPLADDER"
@@ -54129,7 +54132,7 @@ msgstr ""
 #: reaction_adv_carpenter.txt:172
 msgctxt "REACTION:MAKE WOODEN STEPLADDER"
 msgid "[PRODUCT_TOKEN:stepladder]"
-msgstr ""
+msgstr "[PRODUCT_TOKEN:žebřík]"
 
 #: reaction_adv_carpenter.txt:177
 msgctxt "REACTION:MAKE WOODEN BOOKCASE"
@@ -54155,7 +54158,7 @@ msgstr ""
 #: reaction_adv_carpenter.txt:185
 msgctxt "REACTION:MAKE WOODEN BOOKCASE"
 msgid "[PRODUCT_TOKEN:bookcase]"
-msgstr ""
+msgstr "[PRODUCT_TOKEN:knihovna]"
 
 #: reaction_adv_carpenter.txt:190
 msgctxt "REACTION:MAKE WOODEN SPLINT"
@@ -54180,7 +54183,7 @@ msgstr "[PRODUCT:100:1:SPLINT:NONE:GET_MATERIAL_FROM_REAGENT:kláda:]"
 #: reaction_adv_carpenter.txt:198
 msgctxt "REACTION:MAKE WOODEN SPLINT"
 msgid "[PRODUCT_TOKEN:splint]"
-msgstr ""
+msgstr "[PRODUCT_TOKEN:dlaha]"
 
 #: reaction_adv_carpenter.txt:203
 msgctxt "REACTION:MAKE WOODEN CRUTCH"
@@ -54232,7 +54235,7 @@ msgstr ""
 #: reaction_adv_carpenter.txt:224
 msgctxt "REACTION:MAKE WOODEN SHIELD"
 msgid "[PRODUCT_TOKEN:shield]"
-msgstr ""
+msgstr "[PRODUCT_TOKEN:štít]"
 
 #: reaction_adv_carpenter.txt:229
 msgctxt "REACTION:MAKE WOODEN BUCKLER"
@@ -54259,7 +54262,7 @@ msgstr ""
 #: reaction_adv_carpenter.txt:237
 msgctxt "REACTION:MAKE WOODEN BUCKLER"
 msgid "[PRODUCT_TOKEN:buckler]"
-msgstr ""
+msgstr "[PRODUCT_TOKEN:kulatý štít]"
 
 #: reaction_adv_carpenter.txt:242
 msgctxt "REACTION:MAKE WOODEN TRAINING AXE"
@@ -54286,7 +54289,7 @@ msgstr ""
 #: reaction_adv_carpenter.txt:250
 msgctxt "REACTION:MAKE WOODEN TRAINING AXE"
 msgid "[PRODUCT_TOKEN:axe]"
-msgstr ""
+msgstr "[PRODUCT_TOKEN:sekyra]"
 
 #: reaction_adv_carpenter.txt:255
 msgctxt "REACTION:MAKE WOODEN TRAINING SHORT SWORD"
@@ -54313,7 +54316,7 @@ msgstr ""
 #: reaction_adv_carpenter.txt:263
 msgctxt "REACTION:MAKE WOODEN TRAINING SHORT SWORD"
 msgid "[PRODUCT_TOKEN:sword]"
-msgstr ""
+msgstr "[PRODUCT_TOKEN:meč]"
 
 #: reaction_adv_carpenter.txt:268
 msgctxt "REACTION:MAKE WOODEN TRAINING SPEAR"
@@ -54340,7 +54343,7 @@ msgstr ""
 #: reaction_adv_carpenter.txt:276
 msgctxt "REACTION:MAKE WOODEN TRAINING SPEAR"
 msgid "[PRODUCT_TOKEN:spear]"
-msgstr ""
+msgstr "[PRODUCT_TOKEN:kopí]"
 
 #: reaction_adv_carpenter.txt:281
 msgctxt "REACTION:MAKE WOODEN PEDESTAL"
@@ -54365,7 +54368,7 @@ msgstr ""
 #: reaction_adv_carpenter.txt:289
 msgctxt "REACTION:MAKE WOODEN PEDESTAL"
 msgid "[PRODUCT_TOKEN:pedestal]"
-msgstr ""
+msgstr "[PRODUCT_TOKEN:podstavec]"
 
 #: reaction_other.txt:6
 msgctxt "REACTION:TAN_A_HIDE"
@@ -54390,12 +54393,12 @@ msgstr "[REAGENT:louh:]"
 #: reaction_other.txt:30
 msgctxt "REACTION:MAKE_SOAP_FROM_TALLOW"
 msgid "[REAGENT:lye container:]"
-msgstr ""
+msgstr "[REAGENT:nádoba s louhem]"
 
 #: reaction_other.txt:31
 msgctxt "REACTION:MAKE_SOAP_FROM_TALLOW"
 msgid "[CONTAINS:lye]"
-msgstr ""
+msgstr "[CONTAINS:louh]"
 
 #: reaction_other.txt:34
 msgctxt "REACTION:MAKE_SOAP_FROM_TALLOW"
@@ -54420,22 +54423,22 @@ msgstr "[REAGENT:louh:]"
 #: reaction_other.txt:44
 msgctxt "REACTION:MAKE_SOAP_FROM_OIL"
 msgid "[REAGENT:lye container:]"
-msgstr ""
+msgstr "[REAGENT:nádoba s louhem]"
 
 #: reaction_other.txt:45
 msgctxt "REACTION:MAKE_SOAP_FROM_OIL"
 msgid "[CONTAINS:lye]"
-msgstr ""
+msgstr "[CONTAINS:louh]"
 
 #: reaction_other.txt:48
 msgctxt "REACTION:MAKE_SOAP_FROM_OIL"
 msgid "[REAGENT:oil:]"
-msgstr ""
+msgstr "[REAGENT:olej]"
 
 #: reaction_other.txt:51
 msgctxt "REACTION:MAKE_SOAP_FROM_OIL"
 msgid "[REAGENT:oil container:]"
-msgstr ""
+msgstr "[REAGENT:nádoba s olejem]"
 
 #: reaction_other.txt:52
 msgctxt "REACTION:MAKE_SOAP_FROM_OIL"
