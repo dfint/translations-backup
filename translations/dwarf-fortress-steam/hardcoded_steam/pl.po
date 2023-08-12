@@ -3600,7 +3600,7 @@ msgstr "Ciągnie:"
 
 #: stringdump_steam_50_09.txt:966
 msgid "Squad: "
-msgstr "Drużyna"
+msgstr "Oddział:"
 
 #: stringdump_steam_50_09.txt:967
 msgid "None"
@@ -4744,7 +4744,7 @@ msgstr "Były pracownik"
 
 #: stringdump_steam_50_09.txt:1252
 msgid "Squad"
-msgstr "Drużyna"
+msgstr "Oddział"
 
 #: stringdump_steam_50_09.txt:1253
 msgid "Uniform"
@@ -4756,7 +4756,7 @@ msgstr "Zabójstwa"
 
 #: stringdump_steam_50_09.txt:1255
 msgid "No squad assigned"
-msgstr "Brak przypisanej drużyny"
+msgstr "Brak przypisanego oddziału"
 
 #: stringdump_steam_50_09.txt:1256
 msgid "No orders"
@@ -4952,7 +4952,7 @@ msgstr "kamień... skała"
 
 #: stringdump_steam_50_09.txt:1304
 msgid "bars... metal"
-msgstr "pręty... metal"
+msgstr "sztaby... metal"
 
 #: stringdump_steam_50_09.txt:1305
 msgid "gems... shining"
@@ -5048,7 +5048,7 @@ msgstr "Pracownicy"
 
 #: stringdump_steam_50_09.txt:1328
 msgid "Work orders"
-msgstr "Polecenia"
+msgstr "Zlec. pracy"
 
 #: stringdump_steam_50_09.txt:1329
 msgid "Back"
@@ -5096,19 +5096,19 @@ msgstr "będzie wykonywać dostępne zadania gdziekolwiek"
 
 #: stringdump_steam_50_09.txt:1341
 msgid "Work orders cannot be assigned to this building."
-msgstr "Polecenia nie mogą zostać przypisane do tego budynku."
+msgstr "Zlecenia pracy nie mogą zostać przypisane do tego budynku."
 
 #: stringdump_steam_50_09.txt:1342
 msgid "A manager is required to add work orders to the shop."
-msgstr "Potrzebny kierownik aby dodać polecenia."
+msgstr "Potrzebny kierownik aby dodać zlecenia do stanowiska."
 
 #: stringdump_steam_50_09.txt:1343
 msgid "Work orders can be added specifically for this shop."
-msgstr "Polecenia mogą zostać dodane specjalnie do tego sklepu."
+msgstr "Zlecenia pracy mogą zostać dodane specjalnie do tego sklepu."
 
 #: stringdump_steam_50_09.txt:1344
 msgid "General work orders allowed: "
-msgstr "Generalne dozwolone polecenia pracy:"
+msgstr "Generalne dozwolone zlecenia pracy:"
 
 #: stringdump_steam_50_09.txt:1345
 msgid "There is no bucket."
@@ -6546,7 +6546,7 @@ msgstr "jest długi i smukły"
 
 #: stringdump_steam_50_09.txt:1723
 msgid "Squad Order"
-msgstr "Rozkazy dla Drużyny"
+msgstr "Rozkazy dla Oddziału"
 
 #: stringdump_steam_50_09.txt:1724
 msgid "being unable to take it easy for so long"
@@ -7636,7 +7636,7 @@ msgstr "Wyskakujące okno: Świat"
 
 #: stringdump_steam_50_09.txt:1996
 msgid "Popup: Work orders"
-msgstr "Wyskakujące okno: Polecenia pracy"
+msgstr "Wyskakujące okno: Zlecenia pracy"
 
 #: stringdump_steam_50_09.txt:1997
 msgid "[Viewed]"
@@ -9096,8 +9096,8 @@ msgid ""
 "Using [C:5:0:1]Mining[C:7:0:0] orders, you'll need to carve out a "
 "rectangular area underground for your [C:6:0:0]Farmplot[C:7:0:0]. "
 msgstr ""
-"Używając rozkazu [C:5:0:1]Kopania[C:7:0:0], potrzebujesz wykopać prostokątną"
-" podziemną przestrzeń na swoją[C:6:0:0]Działkę rolną[C:7:0:0]. "
+"Używając polecenia[C:5:0:1]Kopanie[C:7:0:0], potrzebujesz wykopać "
+"prostokątną podziemną przestrzeń na swoją[C:6:0:0]Działkę rolną[C:7:0:0]. "
 
 #: stringdump_steam_50_09.txt:2273
 msgid ""
@@ -9618,16 +9618,20 @@ msgid ""
 "Once they are assigned, you can create work orders, run a "
 "[C:1:0:1]Hospital[C:7:0:0], and count and appraise your hoard."
 msgstr ""
+"Po ich przypisaniu możesz tworzyć zlecenia pracy, prowadzić "
+"[C:1:0:1]Szpital[C:7:0:0] oraz liczyć i oceniać swoje zasoby."
 
 #: stringdump_steam_50_09.txt:2342
 msgid ""
 "Nobles and certain administrators require rooms, and some may also make "
 "demands."
 msgstr ""
+"Szlachcice i niektórzy administratorzy potrzebują pokoi, a część z nich może"
+" także wysuwać żądania."
 
 #: stringdump_steam_50_09.txt:2343
 msgid "Justice"
-msgstr ""
+msgstr "Prawo"
 
 #: stringdump_steam_50_09.txt:2344
 msgid ""
@@ -9635,6 +9639,9 @@ msgid ""
 " or [C:5:0:0]Captain of the Guard[C:7:0:0], witnesses of crimes will make "
 "reports, which find their way here. "
 msgstr ""
+"Jeśli masz administratora odpowiedzialnego za egzekwowanie prawa, takiego "
+"jak [C:5:0:0]Szeryf[C:7:0:0] czy[C:5:0:0]Kapitan Straży[C:7:0:0], świadkowie"
+" przestępstw będą składać swoje raporty, które będą trafiać tutaj. "
 
 #: stringdump_steam_50_09.txt:2345
 msgid ""
@@ -9642,24 +9649,30 @@ msgid ""
 "attention to them, and affected victims and family members get upset if "
 "crime is ignored."
 msgstr ""
+"Niektóre przestępstwa są objawami większych problemów, więc powinieneś "
+"zwracać na nie uwagę. Ofiara i jej członkowie rodziny będą niezadowoleni, "
+"jeśli przestępstwo będzie ignorowane."
 
 #: stringdump_steam_50_09.txt:2346
 msgid "It's up to you to choose whom to convict. "
-msgstr ""
+msgstr "Do ciebie należy wybór, kogo skazać."
 
 #: stringdump_steam_50_09.txt:2347
 msgid "All available witness information is presented for each case. "
 msgstr ""
+"Dla każdej sprawy przedstawiono wszystkie dostępne informacje o świadkach."
 
 #: stringdump_steam_50_09.txt:2348
 msgid "You can also interrogate suspects. "
-msgstr ""
+msgstr "Możesz także przesłuchać podejrzanych."
 
 #: stringdump_steam_50_09.txt:2349
 msgid ""
 "This is particularly important for schemes where the witnesses might not "
 "have the full story."
 msgstr ""
+"Jest to szczególnie ważne w przypadku spraw, w których świadkowie mogą nie "
+"znać pełnej historii."
 
 #: stringdump_steam_50_09.txt:2350
 msgid ""
@@ -9667,46 +9680,57 @@ msgid ""
 "[C:6:0:0]Chains[C:7:0:0] and assign them to a [C:3:0:0]Dungeon[C:7:0:0] "
 "zone. "
 msgstr ""
+"Zaleca się umieścić jakąś liczbę [C:6:0:0]Klatek[C:7:0:0] i "
+"[C:6:0:0]Łańcuchów[C:7:0:0] i przypisać je do strefy "
+"[C:3:0:0]Lochu[C:7:0:0]. "
 
 #: stringdump_steam_50_09.txt:2351
 msgid ""
 "Officers may opt for physical punishment if they cannot carry out custodial "
 "sentences."
 msgstr ""
+"Funkcjonariusze mogą zdecydować się na karę fizyczną, jeśli nie mogą wykonać"
+" kary pozbawienia wolności."
 
 #: stringdump_steam_50_09.txt:2352
 msgid "Squads"
-msgstr "Drużyna"
+msgstr "Oddziały"
 
 #: stringdump_steam_50_09.txt:2353
 msgid "This is the squad menu. "
-msgstr "To jest menu drużyny."
+msgstr "To jest menu oddziału."
 
 #: stringdump_steam_50_09.txt:2354
 msgid ""
 "Here you can create squads, fill their positions, assign equipment and "
 "schedules, and give specific orders."
 msgstr ""
+"Tutaj można tworzyć oddziały, obsadzać ich stanowiska, przydzielać "
+"wyposażenie i harmonogramy oraz wydawać konkretne rozkazy."
 
 #: stringdump_steam_50_09.txt:2355
 msgid ""
 "Although this location is relatively safe, it is recommended that you "
 "prepare a squad and get them training at some point. "
 msgstr ""
+"Chociaż lokalizacja ta jest względnie bezpieczna, zaleca się przygotowanie "
+"oddziału i przeprowadzenie w pewnym momencie szkolenia."
 
 #: stringdump_steam_50_09.txt:2356
 msgid "Wildlife and even your own citizens can still be dangerous at times."
-msgstr ""
+msgstr "Dzika przyroda, a nawet twoi obywatele mogą być czasem niebezpieczni."
 
 #: stringdump_steam_50_09.txt:2357
 msgid ""
 "It is recommended that you prepare a squad and get them training as soon as "
 "you can. "
 msgstr ""
+"Zaleca się przygotowanie oddziału i wytrenowanie go tak szybko jak to "
+"możliwe."
 
 #: stringdump_steam_50_09.txt:2358
 msgid "You have no idea what's lurking out there."
-msgstr ""
+msgstr "Nie masz pojęcia co krąży w pobliżu."
 
 #: stringdump_steam_50_09.txt:2359
 msgid "The World"
@@ -9717,34 +9741,45 @@ msgid ""
 "The world created at the beginning of the game is active, and others may "
 "take an interest in your outpost as it grows. "
 msgstr ""
+"Świat stworzony na początku gry jest aktywny, i razem ze wzrostem twojej "
+"placówki inni mogą się nią zainteresować."
 
 #: stringdump_steam_50_09.txt:2361
 msgid ""
 "Stolen [C:6:0:1]Artifacts[C:7:0:0] and kidnapped citizens can be recovered "
 "by preparing missions from this screen. "
 msgstr ""
+"Ukradzione [C:6:0:1]Artefakty[C:7:0:0] i uprowadzeni obywatele mogą być "
+"odzyskani za pomocą misji przygotowywanych z tego ekranu. "
 
 #: stringdump_steam_50_09.txt:2362
 msgid "You can also cause trouble if you'd like to raid your neighbors. "
 msgstr ""
+"Możesz także sprawiać kłopoty, jeśli chcesz najechać swoich sąsiadów. "
 
 #: stringdump_steam_50_09.txt:2363
 msgid ""
 "Raids are created by clicking on any site not belonging to your "
 "civilization."
 msgstr ""
+"Najazdy tworzysz klikając na jakiekolwiek miejsce nie należące do twojej "
+"cywilizacji."
 
 #: stringdump_steam_50_09.txt:2364
 msgid ""
 "Work orders are used to automate [C:3:0:1]Tasks[C:7:0:0] in "
 "[C:6:0:0]Workshops[C:7:0:0]. "
 msgstr ""
+"Zlecenia pracy są używane do automatyzowania [C:3:0:1]Zadań[C:7:0:0] w "
+"[C:6:0:0]Stanowiskach roboczych[C:7:0:0]. "
 
 #: stringdump_steam_50_09.txt:2365
 msgid ""
 "These work orders are set to complete a certain number of "
 "[C:3:0:1]Tasks[C:7:0:0] and can be given start conditions."
 msgstr ""
+"Te zlecenia pracy mają na celu wykonanie określonej liczby "
+"[C:3:0:1]Zadań[C:7:0:0] i mogą mieć określone warunki rozpoczęcia."
 
 #: stringdump_steam_50_09.txt:2366
 msgid ""
@@ -9752,28 +9787,40 @@ msgid ""
 "if you are out of empty ones, to [C:3:0:1]Brew Drinks[C:7:0:0] if you are "
 "running low, or to [C:3:0:1]Make Five Statues[C:7:0:0] every month."
 msgstr ""
+"Przykładowo, możesz stworzyć zlecenie na [C:3:0:1]Robienie Drewnianych "
+"Koszy[C:7:0:0] jeśli skończą ci się puste, na [C:3:0:1]Warzenie "
+"napojów[C:7:0:0] gdy zacznie ich brakować, czy na [C:3:0:1]Robienie pięciu "
+"Figur[C:7:0:0] każdego miesiąca."
 
 #: stringdump_steam_50_09.txt:2367
 msgid "You can limit work orders to a number of [C:6:0:0]Workshops[C:7:0:0]. "
 msgstr ""
+"Możesz ograniczyć zlecenia pracy do kilku [C:6:0:0]Stanowisk "
+"roboczych[C:7:0:0]. "
 
 #: stringdump_steam_50_09.txt:2368
 msgid ""
 "You can also create work orders at specific [C:6:0:0]Workshops[C:7:0:0] from"
 " their building sheet. "
 msgstr ""
+"Możesz także stworzyć zlecenie pracy dla konkretnego [C:6:0:0]Stanowiska "
+"pracy[C:7:0:0] z poziomu jego panelu budynku. "
 
 #: stringdump_steam_50_09.txt:2369
 msgid ""
 "The system is reasonably powerful and you can eventually automate almost all"
 " of your production if you wish."
 msgstr ""
+"System jest dość potężny i jeśli chcesz, możesz zautomatyzować praktycznie "
+"całą swoją produkcję."
 
 #: stringdump_steam_50_09.txt:2370
 msgid ""
 "If you find that your stockpiles are filling up too fast, you can create "
 "room by building [C:6:0:1]Bins[C:7:0:0], "
 msgstr ""
+"Jeśli okaże się, że twoje magazyny napełniają się zbyt szybko, możesz "
+"stworzyć miejsce tworząc [C:6:0:1]Kosze[C:7:0:0], "
 
 #: stringdump_steam_50_09.txt:2371
 msgid ""
@@ -9781,6 +9828,10 @@ msgid ""
 "[C:6:0:1]Barrels[C:7:0:0] are used to store [C:6:0:1]Food[C:7:0:0].  "
 "[C:6:0:1]Bags[C:7:0:0] are used to store [C:6:0:1]Seeds[C:7:0:0] "
 msgstr ""
+"[C:6:0:1]Beczki[C:7:0:0], i [C:6:0:1]Worki[C:7:0:0].  "
+"[C:6:0:1]Beczki[C:7:0:0] są używane do przechowywania "
+"[C:6:0:1]Jedzenia[C:7:0:0].  [C:6:0:1]Worki[C:7:0:0] są używane do "
+"[C:6:0:1]Nasion[C:7:0:0] "
 
 #: stringdump_steam_50_09.txt:2372
 msgid ""
@@ -9788,6 +9839,10 @@ msgid ""
 " hold just about everything else except [C:6:0:1]Furniture[C:7:0:0], "
 "[C:6:0:1]Wood[C:7:0:0] and [C:6:0:1]Boulders[C:7:0:0]. "
 msgstr ""
+"(i paru innych rzeczy, jak np. [C:6:0:1]Piasek[C:7:0:0]).  "
+"[C:6:0:1]Kosze[C:7:0:0] przechowują prawie wszystko, z wyjątkiem "
+"[C:6:0:1]Mebli[C:7:0:0], [C:6:0:1]Drewna[C:7:0:0] i "
+"[C:6:0:1]Głazów[C:7:0:0]. "
 
 #: stringdump_steam_50_09.txt:2373
 msgid ""
@@ -9795,6 +9850,9 @@ msgid ""
 "lightweight [C:6:0:1]Bins[C:7:0:0] and [C:6:0:1]Barrels[C:7:0:0], but they "
 "can also be made at "
 msgstr ""
+"[C:6:0:0]Warsztat stolarski[C:7:0:0] jest najlepszym miejscem do tworzenia "
+"lekkich [C:6:0:1]Koszy[C:7:0:0] i [C:6:0:1]Beczek[C:7:0:0], ale mogą być one"
+" robione także w  "
 
 #: stringdump_steam_50_09.txt:2374
 msgid ""
@@ -9802,18 +9860,25 @@ msgid ""
 "Forge[C:7:0:0].  [C:6:0:1]Bags[C:7:0:0] are created at the "
 "[C:6:0:0]Clothier's Shop[C:7:0:0] or the [C:6:0:0]Leatherworks[C:7:0:0]."
 msgstr ""
+"[C:6:0:0]Pracowni kamieniarza[C:7:0:0] i [C:6:0:0]Kuźni kowala[C:7:0:0].  "
+"[C:6:0:1]Kosze[C:7:0:0] są tworzone w [C:6:0:0]Warsztacie tkackim[C:7:0:0] "
+"albo [C:6:0:0]Zakłądzie kaletniczym[C:7:0:0]."
 
 #: stringdump_steam_50_09.txt:2375
 msgid ""
 "When the caravan arrives at the [C:6:0:0]Trade Depot[C:7:0:0], you must "
 "click on the depot and select [C:5:0:1]\"Bring Goods to Depot\"[C:7:0:0]. "
 msgstr ""
+"Kiedy karawana przybywa do [C:6:0:0]Składu Handlowego[C:7:0:0], musisz "
+"kliknąć na skład i wybrać [C:5:0:1]\"Przynieść towary do składu\"[C:7:0:0]. "
 
 #: stringdump_steam_50_09.txt:2376
 msgid ""
 "Here you can select which goods you wish to trade.  After everyone has "
 "brought their goods you can "
 msgstr ""
+"Tutaj możesz wybrać, które dobra zamierzasz wymienić. Kiedy wszyscy "
+"przyniosą swoje towary możesz"
 
 #: stringdump_steam_50_09.txt:2377
 msgid ""
@@ -9821,58 +9886,76 @@ msgid ""
 "[C:5:0:0]Broker[C:7:0:0], just select [C:5:0:1]\"Anyone can "
 "Trade\"[C:7:0:0].  You cannot trade "
 msgstr ""
+"wybrać [C:5:0:1]\"Handluj\"[C:7:0:0].  Nie martw się, jeśli nie masz "
+"[C:5:0:0]Brokera[C:7:0:0], po prostu wybierz [C:5:0:1]\"Każdy może "
+"handlować\"[C:7:0:0].  Nie możesz handlować "
 
 #: stringdump_steam_50_09.txt:2378
 msgid ""
 "until your [C:5:0:0]Broker[C:7:0:0] or another resident arrives at the "
 "depot."
 msgstr ""
+"aż twój [C:5:0:0]Broker[C:7:0:0] lub inny mieszkaniec przyjdzie do składu."
 
 #: stringdump_steam_50_09.txt:2379
 msgid ""
 "When trading you select which goods you want from the list on the left, and "
 "which goods of yours to "
 msgstr ""
+"Podczas handlu, towary które chcesz kupić wybierz z listy po lewej stronie, "
+"a twoje towary, które chcesz"
 
 #: stringdump_steam_50_09.txt:2380
 msgid ""
 "trade from the list on the right.  Then hit [C:5:0:1]\"Trade\"[C:7:0:0].  "
 "The trader will accept if the deal is fair and "
 msgstr ""
+"sprzedać z listy po prawej. Naciśnij potem [C:5:0:1]\"Handluj\"[C:7:0:0].  "
+"Handlarz zaakceptuje propozycję, jeśli jest uczciwa, "
 
 #: stringdump_steam_50_09.txt:2381
 msgid "they can carry away the weight of the things you are selling."
-msgstr ""
+msgstr "a następnie ugnie się pod ciężarem twoich sprzedanych rzeczy."
 
 #: stringdump_steam_50_09.txt:2382
 msgid ""
 "Note that if you have a [C:5:0:0]Broker[C:7:0:0] the value of each good with"
 " be shown if their skill is high enough."
 msgstr ""
+"Zauważ, że jeśli masz [C:5:0:0]Brokera[C:7:0:0] wartość każdego towaru "
+"będzie pokazana, pod warunkiem że ma on wystarczające umiejętności."
 
 #: stringdump_steam_50_09.txt:2383
 msgid ""
 "In order for some functions to be used, like work orders or bookkeeping, "
 "[C:5:0:0]Administrators[C:7:0:0] must be assigned. "
 msgstr ""
+"Aby można było korzystać z niektórych funkcji, takich jak zlecenia pracy czy"
+" księgowość, muszą być przypisani [C:5:0:0]Administratorzy[C:7:0:0]. "
 
 #: stringdump_steam_50_09.txt:2384
 msgid ""
 "To do this select the [C:5:0:1]Nobles and administrators[C:7:0:0] menu and "
 "click the add button to assign somebody. "
 msgstr ""
+"Aby to zrobić, wybierz menu [C:5:0:1]Szlachta i administratorzy[C:7:0:0] i "
+"kliknij przycisk dodawania by kogoś przypisać. "
 
 #: stringdump_steam_50_09.txt:2385
 msgid ""
 "Some [C:5:0:0]Administrators[C:7:0:0] will require [C:3:0:0]Offices[C:7:0:0]"
 " to perform their work. "
 msgstr ""
+"Niektórzy [C:5:0:0]Administratorzy[C:7:0:0] będą wymagać "
+"[C:3:0:0]Biur[C:7:0:0] aby wykonywać swoją pracę. "
 
 #: stringdump_steam_50_09.txt:2386
 msgid ""
 "You can create these with [C:5:0:1]Zones[C:7:0:0] -> "
 "[C:5:0:1]Office[C:7:0:0]. "
 msgstr ""
+"Możesz je stworzyć za pomocą [C:5:0:1]Strefy[C:7:0:0] -> "
+"[C:5:0:1]Biura[C:7:0:0]. "
 
 #: stringdump_steam_50_09.txt:2387
 msgid ""
@@ -9880,28 +9963,37 @@ msgid ""
 "[C:6:0:0]Chair[C:7:0:0], or you can paint a [C:3:0:0]Zone[C:7:0:0] and place"
 " a [C:6:0:0]Chair[C:7:0:0] later. "
 msgstr ""
+"[C:3:0:0]Strefa[C:7:0:0] którą zaznaczasz musi zawierać "
+"[C:6:0:0]Krzesło[C:7:0:0], albo możesz wyznaczyć [C:3:0:0]Strefę[C:7:0:0] i "
+"umieścić [C:6:0:0]Krzesło[C:7:0:0] później. "
 
 #: stringdump_steam_50_09.txt:2388
 msgid ""
 "Remember to assign the [C:5:0:0]Administrator[C:7:0:0] to the "
 "[C:3:0:0]Office[C:7:0:0]."
 msgstr ""
+"Pamiętaj aby przypisać [C:5:0:0]Administratora[C:7:0:0] do "
+"[C:3:0:0]Biura[C:7:0:0]."
 
 #: stringdump_steam_50_09.txt:2389
 msgid "Other nobles may appear or be assigned as "
-msgstr ""
+msgstr "Inni szlachcice mogą się pojawić lub zostać przypisani "
 
 #: stringdump_steam_50_09.txt:2390
 msgid ""
 "the game progresses.  Use the [C:5:0:1]Nobles and administrators[C:7:0:0] "
 "menu to check their wants and needs."
 msgstr ""
+"razem z postępem gry. Użyj menu [C:5:0:1]Szlachta i administratorzy[C:7:0:0]"
+" by sprawdzić ich żądania i potrzeby."
 
 #: stringdump_steam_50_09.txt:2391
 msgid ""
 "In order to make [C:6:0:1]Metal Bars[C:7:0:0] for the "
 "[C:2:0:0]Metalsmith[C:7:0:0], you must smelt [C:6:0:1]Ore[C:7:0:0]. "
 msgstr ""
+"Aby zrobić [C:6:0:1]Sztaby metalu[C:7:0:0] dla [C:2:0:0]Kowala[C:7:0:0], "
+"musisz wytapiać [C:6:0:1]Rudę[C:7:0:0]. "
 
 #: stringdump_steam_50_09.txt:2392
 msgid ""
@@ -9909,60 +10001,78 @@ msgid ""
 "[C:5:0:1]Workshops[C:7:0:0] -> [C:5:0:1]Furnaces[C:7:0:0] -> "
 "[C:5:0:1]Smelter[C:7:0:0]. "
 msgstr ""
+"Możesz to zrobić w [C:6:0:0]Hucie[C:7:0:0] która może być znaleziona pod "
+"[C:5:0:1]Stanowiska robocze[C:7:0:0] -> [C:5:0:1]Piece[C:7:0:0] -> "
+"[C:5:0:1]Huta[C:7:0:0]. "
 
 #: stringdump_steam_50_09.txt:2393
 msgid "[C:6:0:1]Ore[C:7:0:0] is mined underground, below the soil layers."
-msgstr ""
+msgstr "[C:6:0:1]Ruda[C:7:0:0] jest wykopywana pod ziemią, pod warstwą ziemi."
 
 #: stringdump_steam_50_09.txt:2394
 msgid ""
 "If you have found magma you can build a [C:6:0:0]Magma Smelter[C:7:0:0] "
 "directly over it, otherwise you need [C:6:0:1]Fuel[C:7:0:0]. "
 msgstr ""
+"Jeśli znalazłeś magmę, możesz zbudować [C:6:0:0]Hutę magmową[C:7:0:0] "
+"bezpośrednio nad nią, inaczej będziesz potrzebować [C:6:0:1]Paliwa[C:7:0:0]."
+" "
 
 #: stringdump_steam_50_09.txt:2395
 msgid ""
 "To get [C:6:0:1]Fuel[C:7:0:0] you need to make [C:6:0:1]Charcoal[C:7:0:0] "
 "with a [C:6:0:0]Wood Furnace[C:7:0:0], "
 msgstr ""
+"Aby otrzymać [C:6:0:1]Paliwo[C:7:0:0] potrzebujesz zrobić [C:6:0:1]Węgiel "
+"drzewny[C:7:0:0] za pomocą [C:6:0:0]Pieca na drewno[C:7:0:0], "
 
 #: stringdump_steam_50_09.txt:2396
 msgid ""
 "found at [C:5:0:1]Workshops[C:7:0:0] -> [C:5:0:1]Furnaces[C:7:0:0] -> "
 "[C:5:0:1]Wood Furnace[C:7:0:0]. "
 msgstr ""
+"znajdującego się w [C:5:0:1]Stanowiska robocze[C:7:0:0] -> "
+"[C:5:0:1]Piece[C:7:0:0] -> [C:5:0:1]Piec na drewno[C:7:0:0]. "
 
 #: stringdump_steam_50_09.txt:2397
 msgid ""
 "You may switch to other forms of [C:6:0:1]Fuel[C:7:0:0] later, such as "
 "[C:6:0:1]Coal[C:7:0:0], but you will usually "
 msgstr ""
+"Później możesz przestawić się na inne formy [C:6:0:1]Paliwa[C:7:0:0] "
+"później, takie jak [C:6:0:1]Węgiel[C:7:0:0], ale zazwyczaj będziesz  "
 
 #: stringdump_steam_50_09.txt:2398
 msgid ""
 "need [C:6:0:1]Charcoal[C:7:0:0] from the [C:6:0:0]Wood Furnace[C:7:0:0] to "
 "start the process."
 msgstr ""
+"potrzebował [C:6:0:1]Węgla drzewnego[C:7:0:0] z [C:6:0:0]Pieca na "
+"drewno[C:7:0:0] aby rozpocząć proces."
 
 #: stringdump_steam_50_09.txt:2399
 msgid ""
 "It is a dangerous world, and if the entrances of your fortress are left "
 "open, "
 msgstr ""
+"To jest niebezpieczny świat, i jeśli wejścia do twojej twierdzy pozostaną "
+"otwarte, "
 
 #: stringdump_steam_50_09.txt:2400
 msgid "you can succumb to invasions. "
-msgstr ""
+msgstr "możesz ulec inwazji."
 
 #: stringdump_steam_50_09.txt:2401
 msgid "The best way to avoid this fate is to build traps and "
-msgstr ""
+msgstr "Najlepszym sposobem na uniknięcie tego losu jest budowa pułapek i "
 
 #: stringdump_steam_50_09.txt:2402
 msgid ""
 "lock the ways into your fortress.  The ways to build traps are as wild as "
 "your imagination. "
 msgstr ""
+"zablokowanie dróg do twojej twierdzy. Sposoby budowy pułapek są równie "
+"dzikie jak twa wyobraźnia. "
 
 #: stringdump_steam_50_09.txt:2403
 msgid ""
@@ -9970,6 +10080,9 @@ msgid ""
 "Shop[C:7:0:0], using [C:5:0:1]Workshops[C:7:0:0] -> "
 "[C:5:0:1]Mechanic[C:7:0:0]. "
 msgstr ""
+"Większość wymaga [C:6:0:1]Mechanizmów[C:7:0:0] tworzonych w "
+"[C:6:0:0]Warsztacie mechanicznym[C:7:0:0], używając [C:5:0:1]Stanowiska "
+"robocze[C:7:0:0] -> [C:5:0:1]Mechanika[C:7:0:0]. "
 
 #: stringdump_steam_50_09.txt:2404
 msgid ""
@@ -9977,6 +10090,9 @@ msgid ""
 " -> [C:5:0:1]Machines/fluids[C:7:0:0] -> [C:5:0:1]Lever[C:7:0:0] to build a "
 "[C:6:0:0]Lever[C:7:0:0]. "
 msgstr ""
+"Aby powstrzymać niektórych wrogów przed wejściem do twierdzy, użyj "
+"[C:5:0:1]Buduj[C:7:0:0] -> [C:5:0:1]Maszyny/płyny[C:7:0:0] -> "
+"[C:5:0:1]Dźwignia[C:7:0:0] aby zbudować [C:6:0:0]Dźwignię[C:7:0:0]. "
 
 #: stringdump_steam_50_09.txt:2405
 msgid ""
@@ -9984,32 +10100,42 @@ msgid ""
 "[C:6:0:0]Bridge[C:7:0:0] or [C:6:0:0]Door[C:7:0:0].  This will lock the "
 "[C:6:0:0]Door[C:7:0:0] "
 msgstr ""
+"Następnie kliknij na [C:6:0:0]Dźwignię[C:7:0:0] i wybierz przypisanie do "
+"[C:6:0:0]Mostu[C:7:0:0] lub [C:6:0:0]Drzwi[C:7:0:0].  To zablokuje "
+"[C:6:0:0]Drzwi[C:7:0:0] "
 
 #: stringdump_steam_50_09.txt:2406
 msgid "or raise the [C:6:0:0]Bridge[C:7:0:0], locking you inside. "
-msgstr ""
+msgstr "albo podniesie [C:6:0:0]Most[C:7:0:0], zamykając cię w środku. "
 
 #: stringdump_steam_50_09.txt:2407
 msgid ""
 "There are also predesigned traps, such as [C:6:0:0]Weapon[C:7:0:0], "
 "[C:6:0:0]Cage[C:7:0:0], and [C:6:0:0]Stone-Fall Traps[C:7:0:0]. "
 msgstr ""
+"Istnieją również wstępnie zaprojektowane pułapki, takie jak [C:6:0:0]Pułapki"
+" z Bronią[C:7:0:0], [C:6:0:0]Klatkami[C:7:0:0], czy [C:6:0:0]Ze Spadającymi "
+"Kamieniami[C:7:0:0]. "
 
 #: stringdump_steam_50_09.txt:2408
 msgid ""
 "These require a [C:6:0:1]Weapon[C:7:0:0], [C:6:0:1]Cage[C:7:0:0], or "
 "[C:6:0:1]Boulder[C:7:0:0] to function. "
 msgstr ""
+"Wymagają one [C:6:0:1]Broni[C:7:0:0], [C:6:0:1]Klatek[C:7:0:0], lub "
+"[C:6:0:1]Głazów[C:7:0:0] aby działać. "
 
 #: stringdump_steam_50_09.txt:2409
 msgid ""
 "Non-alcoholic water is essential to a functioning fortress.  The most "
 "favored place to "
 msgstr ""
+"Woda bez alkoholu jest podstawową sprawa dla funkcjonowania twierdzy. "
+"Najbardziej preferowane miejsce "
 
 #: stringdump_steam_50_09.txt:2410
 msgid "get it is from a [C:6:0:0]Well[C:7:0:0]. "
-msgstr ""
+msgstr "do jej uzyskiwania to [C:6:0:0]Studnia[C:7:0:0]. "
 
 #: stringdump_steam_50_09.txt:2411
 msgid ""
@@ -10018,6 +10144,10 @@ msgid ""
 "[C:6:0:1]Chain[C:7:0:0], and [C:6:0:1]Mechanisms[C:7:0:0].  They can be "
 "built over "
 msgstr ""
+"[C:6:0:0]Studnie[C:7:0:0] wymagają [C:6:0:1]Wiadra[C:7:0:0], "
+"[C:6:0:1]Bloczków[C:7:0:0], [C:6:0:1]Liny[C:7:0:0] lub "
+"[C:6:0:1]Łańcucha[C:7:0:0], i [C:6:0:1]Mechanizmów[C:7:0:0].  Mogą być "
+"zbudowane nad "
 
 #: stringdump_steam_50_09.txt:2412
 msgid ""
