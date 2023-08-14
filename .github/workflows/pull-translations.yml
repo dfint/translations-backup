@@ -19,7 +19,8 @@ jobs:
     - name: Restore modification time
       run: |
         git clone https://github.com/MestreLion/git-tools.git
-        python git-tools/git-restore-mtime
+        cd translations
+        python ../git-tools/git-restore-mtime
 
     - name: Install transifex client
       run: |
