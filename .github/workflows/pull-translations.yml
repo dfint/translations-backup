@@ -43,7 +43,6 @@ jobs:
       with:
         author_name: github-actions[bot]
         author_email: 41898282+github-actions[bot]@users.noreply.github.com
-        add: translations
         message: |
           Pull translations from transifex
           Changed files (at most 10):
