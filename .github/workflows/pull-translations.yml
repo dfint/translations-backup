@@ -15,7 +15,9 @@ jobs:
 
     steps:
     - uses: actions/checkout@v3
-    
+      with:
+        fetch-depth: 0
+
     - name: Restore modification time
       run: |
         git clone https://github.com/MestreLion/git-tools.git
