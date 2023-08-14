@@ -15,6 +15,14 @@ jobs:
 
     steps:
     - uses: actions/checkout@v3
+      with:
+        fetch-depth: 0  # Max fetch depth (full history of files)
+
+    - name: Restore modification time-date
+      run: |
+        git clone https://github.com/MestreLion/git-tools.git
+        cd translations
+        python ../git-tools/git-restore-mtime --verbose --no-directories
 
     - name: Install transifex client
       run: |
@@ -24,7 +32,7 @@ jobs:
       env:
         TX_TOKEN: ${{ secrets.TX_TOKEN }}
       run: |
-        ./tx pull -f -a
+        ./tx pull -a
 
     - name: Get list of changed files
       run: |
@@ -38,7 +46,6 @@ jobs:
       with:
         author_name: github-actions[bot]
         author_email: 41898282+github-actions[bot]@users.noreply.github.com
-        add: translations
         message: |
           Pull translations from transifex
           Changed files (at most 10):
