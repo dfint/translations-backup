@@ -18,12 +18,6 @@ jobs:
       with:
         fetch-depth: 0  # Max fetch depth (full history of files)
 
-    - name: Restore modification time-date
-      run: |
-        git clone https://github.com/MestreLion/git-tools.git
-        cd translations
-        python ../git-tools/git-restore-mtime --verbose --no-directories
-
     - name: Install transifex client
       run: |
         curl -o- https://raw.githubusercontent.com/transifex/cli/master/install.sh | bash
@@ -32,7 +26,7 @@ jobs:
       env:
         TX_TOKEN: ${{ secrets.TX_TOKEN }}
       run: |
-        ./tx pull -a
+        ./tx pull --all --use-git-timestamps
 
     - name: Get list of changed files
       run: |
