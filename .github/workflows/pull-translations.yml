@@ -20,7 +20,7 @@ jobs:
       run: |
         git clone https://github.com/MestreLion/git-tools.git
         cd translations
-        python ../git-tools/git-restore-mtime
+        python ../git-tools/git-restore-mtime --verbose
 
     - name: Install transifex client
       run: |
