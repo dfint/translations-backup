@@ -18,11 +18,11 @@ jobs:
       with:
         fetch-depth: 0
 
-    - name: Restore modification time
+    - name: Restore modification time-date
       run: |
         git clone https://github.com/MestreLion/git-tools.git
         cd translations
-        python ../git-tools/git-restore-mtime --verbose --no-directories --commit-time
+        python ../git-tools/git-restore-mtime --verbose --no-directories
 
     - name: Install transifex client
       run: |
