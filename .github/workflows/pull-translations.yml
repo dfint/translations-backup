@@ -15,6 +15,11 @@ jobs:
 
     steps:
     - uses: actions/checkout@v3
+    
+    - name: Clone git-tools
+      run: |
+        git clone https://github.com/MestreLion/git-tools.git
+        python git-tools/git-restore-mtime
 
     - name: Install transifex client
       run: |
@@ -24,7 +29,7 @@ jobs:
       env:
         TX_TOKEN: ${{ secrets.TX_TOKEN }}
       run: |
-        ./tx pull -f -a
+        ./tx pull -a
 
     - name: Get list of changed files
       run: |
