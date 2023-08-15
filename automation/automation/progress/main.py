@@ -134,3 +134,4 @@ def generate_chart(source_dir: Path, output: Path):
 
     with open(output, "wb") as result_file:
         result_file.write(chart)
+        logger.info(f"{output.name} chart file is saved")
