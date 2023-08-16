@@ -1,7 +1,5 @@
-import json
-from operator import itemgetter
+import asyncio
 from pathlib import Path
-from pprint import pprint
 from types import SimpleNamespace
 from typing import Any, Tuple
 
@@ -88,7 +86,7 @@ def get_chart(chart_data: dict[str, Any], file_format: str = "png") -> bytes:
     return response.content
 
 
-def prepare_dataset(path: Path):
+async def prepare_dataset(path: Path):
     dataset: dict[str, dict[str, float]] = {}
     total_lines: int = 0
     languages: set[str] = set()
@@ -108,17 +106,13 @@ def minify_svg(data: bytes) -> bytes:
     return scour_string(data.decode("utf-8"), options=SimpleNamespace(strip_ids=True)).encode("utf-8")
 
 
-app = typer.Typer()
-
-
-@app.command()
-def generate_chart(source_dir: Path, output: Path):
+async def main(source_dir: Path, output: Path):
     logger.info(f"source_dir: {source_dir.resolve().absolute()}")
     logger.info(f"output: {output.resolve().absolute()}")
     assert source_dir.exists()
     output.parent.mkdir(exist_ok=True, parents=True)
 
-    dataset, languages, total_lines = prepare_dataset(source_dir)
+    dataset, languages, total_lines = await prepare_dataset(source_dir)
     languages = sorted(languages)
     logger.info(f"resources={list(dataset.keys())}")
     logger.info(f"{languages=}")
@@ -135,3 +129,10 @@ def generate_chart(source_dir: Path, output: Path):
     with open(output, "wb") as result_file:
         result_file.write(chart)
         logger.info(f"{output.name} chart file is saved")
+
+app = typer.Typer()
+
+
+@app.command()
+def generate_chart(source_dir: Path, output: Path):
+    asyncio.run(main(source_dir, output))
