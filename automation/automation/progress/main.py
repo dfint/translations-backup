@@ -3,7 +3,7 @@ from pathlib import Path
 from types import SimpleNamespace
 from typing import Any, Tuple
 
-import requests
+import httpx
 import typer
 from babel.messages.pofile import read_po
 from langcodes import Language
@@ -70,7 +70,7 @@ def prepare_chart_data(data: dict[str, dict[str, float]], labels: list[str], max
     )
 
 
-def get_chart(chart_data: dict[str, Any], file_format: str = "png") -> bytes:
+async def get_chart(chart_data: dict[str, Any], file_format: str = "png") -> bytes:
     url = "https://quickchart.io/chart"
     payload = dict(
         width=600,
@@ -81,8 +81,11 @@ def get_chart(chart_data: dict[str, Any], file_format: str = "png") -> bytes:
     )
 
     headers = {"Content-type": "application/json"}
-    response = requests.post(url, json=payload, headers=headers, timeout=60)
-    response.raise_for_status()
+
+    async with httpx.AsyncClient() as client:
+        response = await client.post(url, json=payload, headers=headers, timeout=60)
+        response.raise_for_status()
+
     return response.content
 
 
@@ -121,7 +124,7 @@ async def main(source_dir: Path, output: Path):
 
     chart_data = prepare_chart_data(dataset, languages, total_lines)
     file_format = output.suffix[1:]
-    chart = get_chart(chart_data, file_format=file_format)
+    chart = await get_chart(chart_data, file_format=file_format)
 
     if file_format == "svg":
         chart = minify_svg(chart)
