@@ -3,7 +3,7 @@ from operator import itemgetter
 from pathlib import Path
 from pprint import pprint
 from types import SimpleNamespace
-from typing import Any, Tuple
+from typing import Any
 
 import requests
 import typer
@@ -13,7 +13,7 @@ from loguru import logger
 from scour.scour import scourString as scour_string
 
 
-def translated_lines(path: Path | str) -> Tuple[int, int]:
+def translated_lines(path: Path | str) -> tuple[int, int]:
     entries: int = 0
     translated_entries: int = 0
 
@@ -28,7 +28,7 @@ def translated_lines(path: Path | str) -> Tuple[int, int]:
     return entries, translated_entries
 
 
-def resource_stat(path: Path) -> Tuple[dict[str, int], int]:
+def resource_stat(path: Path) -> tuple[dict[str, int], int]:
     path = Path(path)
     output: dict[str, int] = {}
     total_lines: int = 0
