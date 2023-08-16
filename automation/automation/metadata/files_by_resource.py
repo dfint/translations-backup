@@ -47,8 +47,10 @@ def group_files_by_language(translations_directory: Path, result_directory: Path
 
     assert metadata, "Empty result"
 
-    with open(result_directory / "metadata.json", "w", encoding="utf-8") as file:
+    metadata_path = result_directory / "metadata.json"
+    with metadata_path.open("w", encoding="utf-8") as file:
         json.dump(metadata, file, indent=4, sort_keys=True)
 
-    with open(result_directory / "metadata-v2.json", "w", encoding="utf-8") as file:
+    metadata_v2_path = result_directory / "metadata-v2.json"
+    with metadata_v2_path.open("w", encoding="utf-8") as file:
         json.dump(metadata_v2, file, indent=4, sort_keys=True)
