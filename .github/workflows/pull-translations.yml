@@ -48,17 +48,21 @@ jobs:
     - name: Install Poetry
       run: pipx install poetry
 
-    - name: Set up Python ${{ matrix.python-version }}
+    - name: Set up Python
       uses: actions/setup-python@v4
       with:
-        python-version: ${{ matrix.python-version }}
+        python-version: "3.10"
         cache: "poetry"
         cache-dependency-path: automation/poetry.lock
+
+    - name: Install library and dependencies
+      run: |
+        cd automation
+        poetry install --no-interaction --no-dev
 
     - name: Generate metadata files
       run: |
         cd automation
-        poetry install --no-interaction --no-dev
         poetry run files_by_resource ../translations ../
 
     - name: Push changes to the repository
