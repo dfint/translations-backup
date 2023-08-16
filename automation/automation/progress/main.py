@@ -11,12 +11,12 @@ from loguru import logger
 from scour.scour import scourString as scour_string
 
 
-def translated_lines(path: Path) -> tuple[int, int]:
+async def translated_lines(path: Path) -> tuple[int, int]:
     entries: int = 0
     translated_entries: int = 0
 
     with path.open(encoding="utf-8") as file:
-        catalog = read_po(file)
+        catalog = await asyncio.to_thread(read_po, file)
         for message in catalog:
             if message.id:
                 entries += 1
@@ -26,18 +26,20 @@ def translated_lines(path: Path) -> tuple[int, int]:
     return entries, translated_entries
 
 
-def resource_stat(path: Path) -> tuple[dict[str, int], int]:
+async def resource_stat(path: Path) -> tuple[Path, dict[str, int], int]:
+    logger.info(f"processing directory: {path}")
+
     path = Path(path)
     output: dict[str, int] = {}
     total_lines: int = 0
 
     for file in sorted(filter(Path.is_file, path.glob("*.po"))):
         language = Language.get(file.stem).display_name()
-        total_lines, translated = translated_lines(file)
+        total_lines, translated = await translated_lines(file)
         output[language] = translated
         logger.debug(f"{language}: {translated}")
 
-    return output, total_lines
+    return path, output, total_lines
 
 
 def prepare_chart_data(data: dict[str, dict[str, float]], labels: list[str], max_lines: int) -> dict[str, Any]:
@@ -94,9 +96,10 @@ async def prepare_dataset(path: Path):
     total_lines: int = 0
     languages: set[str] = set()
 
-    for resource_directory in sorted(filter(Path.is_dir, path.glob("*"))):
-        logger.info(f"processing directory: {resource_directory}")
-        resource_stats, resource_total_lines = resource_stat(resource_directory)
+    directory_list = sorted(filter(Path.is_dir, path.glob("*")))
+    coroutines = [resource_stat(resource_directory) for resource_directory in directory_list]
+    results = await asyncio.gather(*coroutines)
+    for resource_directory, resource_stats, resource_total_lines in results:
         dataset[resource_directory.name] = resource_stats
         logger.info(f"{resource_total_lines=}")
         total_lines += resource_total_lines
