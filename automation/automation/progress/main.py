@@ -11,19 +11,24 @@ from loguru import logger
 from scour.scour import scourString as scour_string
 
 
-async def translated_lines(path: Path) -> tuple[int, int]:
+async def translated_lines(language_name: str, path: Path) -> tuple[str, int, int]:
     entries: int = 0
     translated_entries: int = 0
 
     with path.open(encoding="utf-8") as file:
-        catalog = await asyncio.to_thread(read_po, file)
+        catalog = await asyncio.to_thread(read_po, fileobj=file)
         for message in catalog:
             if message.id:
                 entries += 1
                 if message.string:
                     translated_entries += 1
 
-    return entries, translated_entries
+    logger.debug(f"{language_name}: {translated_entries}")
+    return language_name, entries, translated_entries
+
+
+def file_to_language(file: Path):
+    return Language.get(file.stem).display_name()
 
 
 async def resource_stat(path: Path) -> tuple[Path, dict[str, int], int]:
@@ -33,11 +38,11 @@ async def resource_stat(path: Path) -> tuple[Path, dict[str, int], int]:
     output: dict[str, int] = {}
     total_lines: int = 0
 
-    for file in sorted(filter(Path.is_file, path.glob("*.po"))):
-        language = Language.get(file.stem).display_name()
-        total_lines, translated = await translated_lines(file)
+    files = sorted(filter(Path.is_file, path.glob("*.po")))
+    coroutines = [translated_lines(file_to_language(file), file) for file in files]
+    results = await asyncio.gather(*coroutines)
+    for language, total_lines, translated in results:
         output[language] = translated
-        logger.debug(f"{language}: {translated}")
 
     return path, output, total_lines
 
