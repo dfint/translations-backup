@@ -9,7 +9,7 @@ permissions:
   contents: write
 
 jobs:
-  build:
+  pull_translations:
     runs-on: ubuntu-latest
     timeout-minutes: 60
 
@@ -45,6 +45,24 @@ jobs:
           Changed files (at most 10):
           ${{ env.CHANGED }}
 
+  # trigger-translation-artifacts-autobuild:
+  #   runs-on: ubuntu-latest
+  #   needs: pull_translations
+  #   steps:
+  #   - name: Repository Dispatch
+  #     uses: peter-evans/repository-dispatch@v2
+  #     with:
+  #       token: ${{ secrets.PAT }}
+  #       repository: dfint/autobuild
+  #       event-type: update
+
+  update_metadata:
+    runs-on: ubuntu-latest
+    needs: pull_translations
+
+    steps:
+    - uses: actions/checkout@v3
+
     - name: Install Poetry
       run: pipx install poetry
 
@@ -72,14 +90,3 @@ jobs:
         author_email: 41898282+github-actions[bot]@users.noreply.github.com
         add: metadata*.json
         message: Update metadata
-
-  # trigger-translation-artifacts-autobuild:
-  #   runs-on: ubuntu-latest
-  #   needs: pull-translations
-  #   steps:
-  #   - name: Repository Dispatch
-  #     uses: peter-evans/repository-dispatch@v2
-  #     with:
-  #       token: ${{ secrets.PAT }}
-  #       repository: dfint/autobuild
-  #       event-type: update
