@@ -13,11 +13,11 @@ from loguru import logger
 from scour.scour import scourString as scour_string
 
 
-def translated_lines(path: Path | str) -> tuple[int, int]:
+def translated_lines(path: Path) -> tuple[int, int]:
     entries: int = 0
     translated_entries: int = 0
 
-    with open(path, "r", encoding="utf-8") as file:
+    with path.open(encoding="utf-8") as file:
         catalog = read_po(file)
         for message in catalog:
             if message.id:
@@ -132,6 +132,5 @@ def generate_chart(source_dir: Path, output: Path):
     if file_format == "svg":
         chart = minify_svg(chart)
 
-    with open(output, "wb") as result_file:
-        result_file.write(chart)
-        logger.info(f"{output.name} chart file is saved")
+    output.write_bytes(chart)
+    logger.info(f"{output.name} chart file is saved")
