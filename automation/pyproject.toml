@@ -16,6 +16,8 @@ httpx = "^0.24.1"
 [tool.poetry.group.dev.dependencies]
 black = "^23.7.0"
 isort = "^5.12.0"
+ruff = "^0.0.284"
+refurb = "^1.20.0"
 
 [build-system]
 requires = ["poetry-core>=1.0.0"]
@@ -27,6 +29,12 @@ line-length = 120
 [tool.isort]
 profile = "black"
 line_length = 120
+
+[tool.ruff]
+line-length = 120
+select = ["E", "F", "UP"]
+ignore = ["F401", "UP015"]
+target-version = "py310"
 
 [tool.poetry.scripts]
 # poetry run progress ../translations/dwarf-fortress-steam ../images/dwarf-fortress-steam.svg
