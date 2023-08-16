@@ -58,6 +58,7 @@ jobs:
     - name: Generate metadata files
       run: |
         cd automation
+        poetry install --no-interaction --no-dev
         poetry run files_by_resource ../translations ../
 
     - name: Push changes to the repository
