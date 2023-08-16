@@ -45,6 +45,16 @@ jobs:
           Changed files (at most 10):
           ${{ env.CHANGED }}
 
+    - name: Install Poetry
+      run: pipx install poetry
+
+    - name: Set up Python ${{ matrix.python-version }}
+      uses: actions/setup-python@v4
+      with:
+        python-version: ${{ matrix.python-version }}
+        cache: "poetry"
+        cache-dependency-path: automation/poetry.lock
+
     - name: Generate metadata files
       run: |
         cd automation
