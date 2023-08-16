@@ -5,18 +5,20 @@ from typing import Any
 
 import httpx
 import typer
-from babel.messages.pofile import read_po
+from aiofile import async_open
 from langcodes import Language
 from loguru import logger
 from scour.scour import scourString as scour_string
+
+from automation.progress.read_po_async import read_po_async
 
 
 async def translated_lines(language_name: str, path: Path) -> tuple[str, int, int]:
     entries: int = 0
     translated_entries: int = 0
 
-    with path.open(encoding="utf-8") as file:
-        catalog = await asyncio.to_thread(read_po, fileobj=file)
+    async with async_open(path, encoding="utf-8") as file:
+        catalog = await read_po_async(file)
         for message in catalog:
             if message.id:
                 entries += 1
