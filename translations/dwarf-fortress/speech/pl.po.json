@@ -1,0 +1,968 @@
+{
+    "seek out [CONTEXT:HIST_FIG:TRANS_NAME] at [CONTEXT:ABSTRACT_BUILDING:TRANS_NAME] over in [CONTEXT:SITE:TRANS_NAME]": {
+        "string": "odszukaj [CONTEXT:HIST_FIG:TRANS_NAME] na [CONTEXT:ABSTRACT_BUILDING:TRANS_NAME] w [CONTEXT:SITE:TRANS_NAME]",
+        "context": "None",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "I have taken down [CONTEXT:NUMBER] [CONTEXT:RACE:NUMBERED_NAME] while stalking [CONTEXT:PLACE:TRANS_NAME].": {
+        "string": "Zgładziłem [CONTEXT:NUMBER] [CONTEXT:RACE:NUMBERED_NAME] grasując w [CONTEXT:PLACE:TRANS_NAME].",
+        "context": "None",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "It is said that the [CONTEXT:ARCH_ELEMENT] of [CONTEXT:ABSTRACT_BUILDING:TRANS_NAME] [CONTEXT:JUSTIFICATION] [CONTEXT:DEF_SPHERE] for the glory of [CONTEXT:HIST_FIG:TRANS_NAME].": {
+        "string": "Powiadają, że [CONTEXT:ARCH_ELEMENT] z [CONTEXT:ABSTRACT_BUILDING:TRANS_NAME] [CONTEXT:JUSTIFICATION] [CONTEXT:DEF_SPHERE] ku chwale [CONTEXT:HIST_FIG:TRANS_NAME].",
+        "context": "None",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "I'm [CONTEXT:NUMBER]!": {
+        "string": "Mam [CONTEXT:NUMBER] lat!",
+        "context": "None",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "I am a [CONTEXT:UNIT_NAME].": {
+        "string": "Jestem [CONTEXT:UNIT_NAME].",
+        "context": "None",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "This is my [CONTEXT:ORDINAL] year as a [CONTEXT:UNIT_NAME].": {
+        "string": "To mój [CONTEXT:ORDINAL] rok jako [CONTEXT:UNIT_NAME].",
+        "context": "None",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "Who dares to enter my house?  I curse you!": {
+        "string": "Kto ośmielił się wejść do mojego domu? Przeklinam cię!",
+        "context": "None",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "who was too short to live": {
+        "string": "który był za niski by żyć",
+        "context": "None",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "who tunneled away from me like a frightened mole": {
+        "string": "który uciekał ode mnie pod ziemią jak przerażony kret",
+        "context": "None",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "who sucked plump helmets like a purring maggot": {
+        "string": "który wciągał pulchne kapelusze jak mrucząca larwa",
+        "context": "None",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "whose hammer shattered on the anvil of my power": {
+        "string": "którego młot strzaskał się na kowadle mojej potęgi",
+        "context": "None",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "who forged [PRO_POS] own doom by challenging me": {
+        "string": "który wykuł swoją własną zagładę wyzywając mnie",
+        "context": "None",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "who was returned to the rock and muck from which it was spawned": {
+        "string": "który wrócił do postaci skały i paskudztwa z którego się wyłonił",
+        "context": "None",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "whose tall tales of bravery were all the more embarrassing because of [PRO_POS] height": {
+        "string": "którego wielkie opowieści o odwadze były nawet bardziej żenujące z powodu [PRO_POS] wzrostu",
+        "context": "None",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "who was felled like a slender sapling": {
+        "string": "który został ścięty, niczym wątła sadzonka",
+        "context": "None",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "whom I sent back to the home-tree as fertilizer": {
+        "string": "którego wysłałem do drzewa-matki jako nawóz",
+        "context": "None",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "whose fragile bones shattered before the power of my contempt": {
+        "string": "którego delikatne kości strzaskały się pod ogromem mojej pogardy",
+        "context": "None",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "who came down from the home-tree and was devoured": {
+        "string": "który zstąpił z drzewa-matki i został pożarty",
+        "context": "None",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "who should have stayed in the trees when the real elves came down to fight": {
+        "string": ", który powinien zostać na drzewach kiedy prawdziwe elfy zeszły by walczyć",
+        "context": "None",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "[CONTEXT:HIST_FIG:PRO_SUB] is also my [CONTEXT:FAMILY_RELATIONSHIP]": {
+        "string": "[CONTEXT:HIST_FIG:PRO_SUB] jest też moim  [CONTEXT:FAMILY_RELATIONSHIP]",
+        "context": "None",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "[CONTEXT:HIST_FIG:PRO_SUB] was also my [CONTEXT:FAMILY_RELATIONSHIP]": {
+        "string": "[CONTEXT:HIST_FIG:PRO_SUB] był także moim [CONTEXT:FAMILY_RELATIONSHIP]",
+        "context": "None",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "I have [CONTEXT:INDEF_FAMILY_RELATIONSHIP] named [CONTEXT:HIST_FIG:TRANS_NAME]": {
+        "string": "Mam [CONTEXT:INDEF_FAMILY_RELATIONSHIP] zwanego [CONTEXT:HIST_FIG:TRANS_NAME]",
+        "context": "None",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "I had [CONTEXT:INDEF_FAMILY_RELATIONSHIP] named [CONTEXT:HIST_FIG:TRANS_NAME]": {
+        "string": "Miałem [CONTEXT:INDEF_FAMILY_RELATIONSHIP] zwanego [CONTEXT:HIST_FIG:TRANS_NAME]",
+        "context": "None",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "my [CONTEXT:FAMILY_RELATIONSHIP] is named [CONTEXT:HIST_FIG:TRANS_NAME]": {
+        "string": "mój [CONTEXT:FAMILY_RELATIONSHIP] zwie się [CONTEXT:HIST_FIG:TRANS_NAME]",
+        "context": "None",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "my [CONTEXT:FAMILY_RELATIONSHIP] was named [CONTEXT:HIST_FIG:TRANS_NAME]": {
+        "string": "mój [CONTEXT:FAMILY_RELATIONSHIP] nazywał się [CONTEXT:HIST_FIG:TRANS_NAME]",
+        "context": "None",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "whose cries for mercy went unheeded by my wrath": {
+        "string": "którego płacz o litość był zlekceważony przez mój gniew",
+        "context": "None",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "whose insignificant name I struggle to recall": {
+        "string": "którego nieistotnego imienia nie mogę sobię przypomnieć",
+        "context": "None",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "a spineless slug who was crushed under my might": {
+        "string": "był mięczakiem zmiażdżonym przez moją potęgę",
+        "context": "None",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "whom I buried alive under a mountain of hatred": {
+        "string": "którego zakopałem żywcem pod górą nienawiści",
+        "context": "None",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "who lies dead, now only an embarrassing memory": {
+        "string": "który leży martwy, będąc tylko wstydliwym wspomnieniem",
+        "context": "None",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "who sought my praise, only to be rejected in death": {
+        "string": "który szukał mego poklasku, jedynie by otrzymać w zamian śmierć",
+        "context": "None",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "once revered by those who didn't know any better": {
+        "string": "kiedyś czczony przez tych, którym nikt lepszy do głowy nie przychodził",
+        "context": "None",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "upon arising in the mornings,": {
+        "string": "przy wzroście o poranku,",
+        "context": "None",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "when going on a long journey,": {
+        "string": "Kiedy idąc na daleką wędrówkę",
+        "context": "None",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "before retiring in the evening,": {
+        "string": "przed odłożeniem wieczorem,",
+        "context": "None",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "as sure as I am here now,": {
+        "string": "tak pewne, jak to, że tutaj teraz stoję",
+        "context": "None",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "and lo,": {
+        "string": "a oto",
+        "context": "None",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "it cannot be said enough;": {
+        "string": "nie można było tego lepiej ująć;",
+        "context": "None",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "these are dangerous times, so": {
+        "string": "czasy są niebezpieczne, więc",
+        "context": "None",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "I say again": {
+        "string": "Powtarzam",
+        "context": "None",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "yes,": {
+        "string": "tak,",
+        "context": "None",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "before every meal,": {
+        "string": "przed każdym posiłkiem, ",
+        "context": "None",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "whenever the tide turns,": {
+        "string": "kiedy szczęście się odwróci",
+        "context": "None",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "when you return to this place,": {
+        "string": "kiedy tu wrócisz,",
+        "context": "None",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "when you arrive at your destination,": {
+        "string": "kiedy dojdziesz do swego celu,",
+        "context": "None",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "at this juncture in your life,": {
+        "string": "na rozdrożach życia",
+        "context": "None",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "don't forget to": {
+        "string": "nie zapomnij o ",
+        "context": "None",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "always remember to": {
+        "string": "zawsze pamiętaj o",
+        "context": "None",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "it would be wise to": {
+        "string": "mądrym by było",
+        "context": "None",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "you should": {
+        "string": "powinieneś",
+        "context": "None",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "you must": {
+        "string": "musisz",
+        "context": "None",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "prudence demands that you": {
+        "string": "roztropność nakazuje ci",
+        "context": "None",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "even for a moment": {
+        "string": "nawet na chwilę",
+        "context": "None",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "follow my advice and": {
+        "string": "weź moją radę do serca i",
+        "context": "None",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "heed my words and": {
+        "string": "bacz na me słowa i",
+        "context": "None",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "remember to": {
+        "string": "pamiętaj, żeby",
+        "context": "None",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "show devotion and": {
+        "string": "pokaż swoje oddanie i",
+        "context": "None",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "speak the praises of [SPEAKER:HF_LINK:DEITY:TRANS_NAME]": {
+        "string": "odmawia modlitwę do [SPEAKER:HF_LINK:DEITY:TRANS_NAME]",
+        "context": "None",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "speak the praises of [SPEAKER:HF_LINK:DEITY:RANDOM_DEF_SPHERE]": {
+        "string": "odmawia modlitwę do [SPEAKER:HF_LINK:DEITY:RANDOM_DEF_SPHERE]",
+        "context": "None",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "go with [SPEAKER:HF_LINK:DEITY:TRANS_NAME]": {
+        "string": "idź z [SPEAKER:HF_LINK:DEITY:TRANS_NAME]",
+        "context": "None",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "go with [SPEAKER:HF_LINK:DEITY:RANDOM_DEF_SPHERE]": {
+        "string": "idź z [SPEAKER:HF_LINK:DEITY:RANDOM_DEF_SPHERE]",
+        "context": "None",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "put your faith in [SPEAKER:HF_LINK:DEITY:TRANS_NAME]": {
+        "string": "pokładaj swą wiarę w [SPEAKER:HF_LINK:DEITY:TRANS_NAME]",
+        "context": "None",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "put your faith in [SPEAKER:HF_LINK:DEITY:RANDOM_DEF_SPHERE]": {
+        "string": "pokładaj swą wiarę w [SPEAKER:HF_LINK:DEITY:RANDOM_DEF_SPHERE]",
+        "context": "None",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "experience [SPEAKER:HF_LINK:DEITY:TRANS_NAME]": {
+        "string": "doświadcz [SPEAKER:HF_LINK:DEITY:TRANS_NAME]",
+        "context": "None",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "experience [SPEAKER:HF_LINK:DEITY:RANDOM_DEF_SPHERE]": {
+        "string": "doświadcz [SPEAKER:HF_LINK:DEITY:RANDOM_DEF_SPHERE]",
+        "context": "None",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "consider [SPEAKER:HF_LINK:DEITY:TRANS_NAME]": {
+        "string": "rozważ [SPEAKER:HF_LINK:DEITY:TRANS_NAME]",
+        "context": "None",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "consider [SPEAKER:HF_LINK:DEITY:RANDOM_DEF_SPHERE]": {
+        "string": "rozważ [SPEAKER:HF_LINK:DEITY:RANDOM_DEF_SPHERE]",
+        "context": "None",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "give yourself to [SPEAKER:HF_LINK:DEITY:TRANS_NAME]": {
+        "string": "oddaj siebie [SPEAKER:HF_LINK:DEITY:TRANS_NAME]",
+        "context": "None",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "give yourself to [SPEAKER:HF_LINK:DEITY:RANDOM_DEF_SPHERE]": {
+        "string": "oddaj siebie [SPEAKER:HF_LINK:DEITY:RANDOM_DEF_SPHERE]",
+        "context": "None",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "Greetings.  My name is [SPEAKER:TRANS_NAME].": {
+        "string": "Witaj. Na imię mi [SPEAKER:TRANS_NAME].",
+        "context": "None",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "Hellooo!": {
+        "string": "Hej!",
+        "context": "None",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "Look at you!": {
+        "string": "Popatrz na siebie!",
+        "context": "None",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "A baby!  How adorable!": {
+        "string": "O jakie słodkie niemowle!",
+        "context": "None",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "Ah, hello.  I'm [SPEAKER:TRANS_NAME].": {
+        "string": "Ah, witaj. Jestem [SPEAKER:TRANS_NAME].",
+        "context": "None",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "I am [SPEAKER:TRANS_NAME].  Can I be of some help?": {
+        "string": "Jestem [SPEAKER:TRANS_NAME].  W czym mogę pomóc?",
+        "context": "None",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "I am [SPEAKER:TRANS_NAME].  How can I be of service?": {
+        "string": "Jestem [SPEAKER:TRANS_NAME].  W czym mogę służyć?",
+        "context": "None",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "Hello, [AUDIENCE:RACE].  I am [SPEAKER:TRANS_NAME].": {
+        "string": "Witaj, [AUDIENCE:RACE].  Na imię mi [SPEAKER:TRANS_NAME].",
+        "context": "None",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "[AUDIENCE:FIRST_NAME]...  your parents must have been interesting!": {
+        "string": "[AUDIENCE:FIRST_NAME]...  twoi rodzice musieli być interesujący!",
+        "context": "None",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "You know, you don't meet many people with the name [AUDIENCE:FIRST_NAME].": {
+        "string": "Wiesz, że nie nie spotyka się wielu ludzi o imieniu [AUDIENCE:FIRST_NAME].",
+        "context": "None",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "So, [AUDIENCE:FIRST_NAME]...   [AUDIENCE:FIRST_NAME], was it?": {
+        "string": "A więc, [AUDIENCE:FIRST_NAME]... [AUDIENCE:FIRST_NAME], prawda?",
+        "context": "None",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "[AUDIENCE:FIRST_NAME].  Does that mean something?": {
+        "string": "[AUDIENCE:FIRST_NAME].  Czy twoje imię coś oznacza?",
+        "context": "None",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "[AUDIENCE:FIRST_NAME].  I can't say I've heard that before.": {
+        "string": "[AUDIENCE:FIRST_NAME]. Nie mogę powiedzieć, że kiedyś już to słyszałem.",
+        "context": "None",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "Praise be to [SPEAKER:HF_LINK:DEITY:TRANS_NAME].": {
+        "string": "Chwała [SPEAKER:HF_LINK:DEITY:TRANS_NAME].",
+        "context": "None",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "Praise [SPEAKER:HF_LINK:DEITY:RANDOM_DEF_SPHERE].": {
+        "string": "Chwała [SPEAKER:HF_LINK:DEITY:RANDOM_DEF_SPHERE].",
+        "context": "None",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "Life is, in a word, [SPEAKER:HF_LINK:DEITY:RANDOM_DEF_SPHERE].": {
+        "string": "Życie jest, w słowach [SPEAKER:HF_LINK:DEITY:RANDOM_DEF_SPHERE].",
+        "context": "None",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "This servant of [SPEAKER:HF_LINK:DEITY:TRANS_NAME] greets you.": {
+        "string": "Sługa [SPEAKER:HF_LINK:DEITY:TRANS_NAME] pozdrawia cię.",
+        "context": "None",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "This servant of [SPEAKER:HF_LINK:DEITY:RANDOM_DEF_SPHERE] greets you.": {
+        "string": "Sługa [SPEAKER:HF_LINK:DEITY:RANDOM_DEF_SPHERE] pozdrawia cię.",
+        "context": "None",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "I am a guard.": {
+        "string": "Jestem strażnikiem.",
+        "context": "None",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "Don't start any trouble.": {
+        "string": "Nie sprawiaj kłopotów.",
+        "context": "None",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "It is I that felled [CONTEXT:HIST_FIG:TRANS_NAME] the [CONTEXT:HIST_FIG:RACE].": {
+        "string": "To ja powaliłem [CONTEXT:HIST_FIG:TRANS_NAME] [CONTEXT:HIST_FIG:RACE].",
+        "context": "None",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "I hunt great beasts in [CONTEXT:PLACE:TRANS_NAME].": {
+        "string": "Poluję na olbrzymie potwory w [CONTEXT:PLACE:TRANS_NAME].",
+        "context": "None",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "I have hunted great beasts in [CONTEXT:PLACE:TRANS_NAME] for [CONTEXT:NUMBER] of my years.": {
+        "string": "Polowałem na ogromne bestie [CONTEXT:PLACE:TRANS_NAME] przez [CONTEXT:NUMBER] lat mego żywota.",
+        "context": "None",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "can be thought of as the antithesis of": {
+        "string": "może być uznane jako antyteza ",
+        "context": "None",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "can allow one to experience": {
+        "string": "pozwala doświadczyć",
+        "context": "None",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "can bring one near to": {
+        "string": "może doprowadzić do",
+        "context": "None",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "can remind one of": {
+        "string": "przypomina mi",
+        "context": "None",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "can be thought of as a representation of": {
+        "string": "może być uznane za przykład",
+        "context": "None",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "I want your bones for my bone mill!": {
+        "string": "Twoje kości udekorują mój kościany młyn!",
+        "context": "None",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "I'll grind you into porridge!": {
+        "string": "Zrobię z ciebię owsiankę!",
+        "context": "None",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "I'll eat you whole!": {
+        "string": "Pożrę cię!",
+        "context": "None",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "I seek fortune and glory by offering my skill at arms in [CONTEXT:PLACE:TRANS_NAME].": {
+        "string": "Szukam szczęścia i chwały oferując swoje umiejętności pod bronią w [CONTEXT:PLACE:TRANS_NAME].",
+        "context": "None",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "I have sought fortune and glory by offering my skill at arms in [CONTEXT:PLACE:TRANS_NAME] for [CONTEXT:NUMBER] of my years.": {
+        "string": "Szukałem szczęścia i chwały oferując swoje umiejętności pod bronią w [CONTEXT:PLACE:TRANS_NAME] przez [CONTEXT:NUMBER] lat mojego życia.",
+        "context": "None",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "I have no family to speak of": {
+        "string": "Nie mam rodziny aby mówić o",
+        "context": "None",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "In the past, I hunted great beasts.": {
+        "string": "W przeszłości polowałem na wielkie bestie.",
+        "context": "None",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "I was a hunter of mighty beasts for [CONTEXT:NUMBER] of my years.": {
+        "string": "Byłem łowcą potężnych bestii przez [CONTEXT:NUMBER] lat mojego życia.",
+        "context": "None",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "In the past, I sought fortune and glory by offering my skill at arms.": {
+        "string": "W przeszłości, szukałem szczęścia i chwały oferując swoje umiejętności pod bronią.",
+        "context": "None",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "I sought fortune and glory by offering my skill at arms for [CONTEXT:NUMBER] of my years.": {
+        "string": "Szukałem szczęścia i chwały przez oferowanie moich umiejętności bitewnych przez [CONTEXT:NUMBER] lat mojego życia.",
+        "context": "None",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "I was once a [CONTEXT:UNIT_NAME].": {
+        "string": "Byłem kiedyś [CONTEXT:NUMBER].",
+        "context": "None",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "I was a [CONTEXT:UNIT_NAME] for [CONTEXT:NUMBER] of the years of my life.": {
+        "string": "Byłem [CONTEXT:NUMBER] przez [CONTEXT:NUMBER] lat mojego życia.",
+        "context": "None",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "Once it was my calling to rescue lost children.": {
+        "string": "Kiedyś moim powołaniem było ratowanie zagubionych dzieci.",
+        "context": "None",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "For [CONTEXT:NUMBER] of my years, I rescued lost children.": {
+        "string": "Przez [CONTEXT:NUMBER] lat ratowałem zagubione dzieci.",
+        "context": "None",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "I once sought great treasures.": {
+        "string": "Kiedyś poszukiwałem skarbów.",
+        "context": "None",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "I sought great treasures for [CONTEXT:NUMBER] of my years.": {
+        "string": "Przez [CONTEXT:NUMBER] lat poszukiwałem skarbów.",
+        "context": "None",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "I once wandered the wilds.": {
+        "string": "Kiedyś przemierzałem dzikie ostępy.",
+        "context": "None",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "For [CONTEXT:NUMBER] of my years, I wandered the wilds.": {
+        "string": "Przez [CONTEXT:NUMBER] lat przemierzałem dzikie krainy.",
+        "context": "None",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "fantastic!": {
+        "string": "wspaniale!",
+        "context": "None",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "wonderful!": {
+        "string": "świetnie!",
+        "context": "None",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "I'm thrilled to hear that.": {
+        "string": "Bardzo chciałbym to usłyszeć.",
+        "context": "None",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "I'm pleased to hear that.": {
+        "string": "Rad mi to słyszeć.",
+        "context": "None",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "that is good news.": {
+        "string": "to dobre wieści.",
+        "context": "None",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "that is wonderful news.": {
+        "string": "to wspaniałe wieści.",
+        "context": "None",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "this is encouraging.": {
+        "string": "to zachęcające.",
+        "context": "None",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "very good.": {
+        "string": "bardzo dobrze.",
+        "context": "None",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "I'm proud of you.": {
+        "string": "Jestem z ciebie dumny.",
+        "context": "None",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "that is a good turn of affairs.": {
+        "string": "co jest dobrym obrotem spraw.",
+        "context": "None",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "seek out [CONTEXT:HIST_FIG:TRANS_NAME] here in [CONTEXT:SITE:TRANS_NAME] at [CONTEXT:ABSTRACT_BUILDING:TRANS_NAME]": {
+        "string": "odszukaj [CONTEXT:HIST_FIG:TRANS_NAME] tu w [CONTEXT:SITE:TRANS_NAME] na [CONTEXT:ABSTRACT_BUILDING:TRANS_NAME]",
+        "context": "None",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "seek out [CONTEXT:HIST_FIG:TRANS_NAME] here in [CONTEXT:SITE:TRANS_NAME]": {
+        "string": "szukaj [CONTEXT:HIST_FIG:TRANS_NAME] tu, w [CONTEXT:SITE:TRANS_NAME]",
+        "context": "None",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "seek out [CONTEXT:HIST_FIG:TRANS_NAME] over in [CONTEXT:SITE:TRANS_NAME]": {
+        "string": "znajdź [CONTEXT:HIST_FIG:TRANS_NAME] w [CONTEXT:SITE:TRANS_NAME]",
+        "context": "None",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "bane": {
+        "string": "zakała",
+        "context": "None",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "conqueror": {
+        "string": "pogromca",
+        "context": "None",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "death": {
+        "string": "śmierć",
+        "context": "None",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "foe": {
+        "string": "wróg",
+        "context": "None",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "killer": {
+        "string": "morderca",
+        "context": "None",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "lord": {
+        "string": "pan",
+        "context": "None",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "master": {
+        "string": "mistrz",
+        "context": "None",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "nemesis": {
+        "string": "nemezis",
+        "context": "None",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "slayer": {
+        "string": "pogromca",
+        "context": "None",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "vanquisher": {
+        "string": "niszczyciel",
+        "context": "None",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "murderer": {
+        "string": "morderca",
+        "context": "None",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "crusher": {
+        "string": "miażdżyciel",
+        "context": "None",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "extinguisher": {
+        "string": "gaśnica",
+        "context": "None",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "strangler": {
+        "string": "dusiciel",
+        "context": "None",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "I rescue lost children and bring them back to [CONTEXT:PLACE:TRANS_NAME].": {
+        "string": "Ratowałem zagubione dzieci i przyprowadzałem je do [CONTEXT:PLACE:TRANS_NAME].",
+        "context": "None",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "For [CONTEXT:NUMBER] of my years, I have been rescuing lost children and bringing them back to [CONTEXT:PLACE:TRANS_NAME].": {
+        "string": "Przez [CONTEXT:NUMBER] lat mojego życia ratowałem zagubione dzieci i przyprowadzałem je do [CONTEXT:PLACE:TRANS_NAME].",
+        "context": "None",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "I am a soldier.": {
+        "string": "Jestem żołnierzem.",
+        "context": "None",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "[CONTEXT:ANY:TRANS_NAME] might have a task for you": {
+        "string": "[CONTEXT:ANY:TRANS_NAME] może mieć dla Ciebie zadanie",
+        "context": "None",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "simply": {
+        "string": "po prostu",
+        "context": "None",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "it is enough to": {
+        "string": "dość jest",
+        "context": "None",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "your task is simple;": {
+        "string": "twoje zadanie jest proste;",
+        "context": "None",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "just": {
+        "string": "po prostu",
+        "context": "None",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "all you need is to": {
+        "string": "wszystko czego potrzebujesz to",
+        "context": "None",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "Welcome to [CONTEXT:ENTITY:TRANS_NAME].  Praise be to [CONTEXT:ENTITY:WORSHIP_HF:TRANS_NAME]!": {
+        "string": "Witaj w [CONTEXT:ENTITY:TRANS_NAME]. Niech chwała będzie [CONTEXT:ENTITY:WORSHIP_HF:TRANS_NAME]!",
+        "context": "None",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "Welcome to [CONTEXT:ENTITY:TRANS_NAME].  Praise be to [CONTEXT:ENTITY:WORSHIP_HF:RANDOM_DEF_SPHERE]!": {
+        "string": "Witaj w [CONTEXT:ENTITY:TRANS_NAME]. Niech chwała będzie [CONTEXT:ENTITY:WORSHIP_HF:TRANS_NAME]!",
+        "context": "None",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "As a member of [CONTEXT:ENTITY:TRANS_NAME], you can now seek the higher mysteries of [CONTEXT:ENTITY:WORSHIP_HF:TRANS_NAME].": {
+        "string": "Jako członek [CONTEXT:ENTITY:TRANS_NAME], możesz poszukiwać wyższych tajemnic [CONTEXT:ENTITY:WORSHIP_HF:TRANS_NAME].",
+        "context": "None",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "As a member of [CONTEXT:ENTITY:TRANS_NAME], you can now seek the higher mysteries of [CONTEXT:ENTITY:WORSHIP_HF:RANDOM_DEF_SPHERE].": {
+        "string": "Jako członek [CONTEXT:ENTITY:TRANS_NAME], możesz poszukiwać wyższych tajemnic [CONTEXT:ENTITY:WORSHIP_HF:RANDOM_DEF_SPHERE].",
+        "context": "None",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "I seek treasures and bring them back to [CONTEXT:PLACE:TRANS_NAME].": {
+        "string": "Poszukuję skarbów i przynoszę je spowrotem do [CONTEXT:PLACE:TRANS_NAME].",
+        "context": "None",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "I seek treasures and bring them back to [CONTEXT:PLACE:TRANS_NAME] and have done so for [CONTEXT:NUMBER] of the years of my life.": {
+        "string": "Poszukuję skarbów i przynoszę je do [CONTEXT:PLACE:TRANS_NAME], przez  [CONTEXT:NUMBER] lat mojego życia.",
+        "context": "None",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "Prepare to die!": {
+        "string": "Przygotuj się na śmierć!",
+        "context": "None",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "seek out [CONTEXT:HIST_FIG:TRANS_NAME], wherever [CONTEXT:HIST_FIG:PRO_SUB] might be": {
+        "string": "rozglądaj się  [CONTEXT:HIST_FIG:TRANS_NAME], gdzie [CONTEXT:HIST_FIG:PRO_SUB] może być",
+        "context": "None",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "I wander [CONTEXT:PLACE:TRANS_NAME].": {
+        "string": "Przemierzam [CONTEXT:PLACE:TRANS_NAME].",
+        "context": "None",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "I have wandered [CONTEXT:PLACE:TRANS_NAME] for [CONTEXT:NUMBER] of my years.": {
+        "string": "Przemierzałem [CONTEXT:PLACE:TRANS_NAME] przez [CONTEXT:NUMBER] lat mojego życia.",
+        "context": "None",
+        "developer_comment": "",
+        "character_limit": null
+    }
+}

@@ -27,6 +27,7 @@ jobs:
         TX_TOKEN: ${{ secrets.TX_TOKEN }}
       run: |
         ./tx pull --all --use-git-timestamps
+        ./tx pull --all --use-git-timestamps --json
 
     - name: Get list of changed files
       run: |

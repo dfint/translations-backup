@@ -1,0 +1,968 @@
+{
+    "seek out [CONTEXT:HIST_FIG:TRANS_NAME] at [CONTEXT:ABSTRACT_BUILDING:TRANS_NAME] over in [CONTEXT:SITE:TRANS_NAME]": {
+        "string": "在位于 [CONTEXT:SITE:TRANS_NAME]的[CONTEXT:ABSTRACT_BUILDING:TRANS_NAME]里寻找[CONTEXT:HIST_FIG:TRANS_NAME]",
+        "context": "None",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "I have taken down [CONTEXT:NUMBER] [CONTEXT:RACE:NUMBERED_NAME] while stalking [CONTEXT:PLACE:TRANS_NAME].": {
+        "string": "我在跟踪[CONTEXT:PLACE:TRANS_NAME]的时候记录下了[CONTEXT:NUMBER] [CONTEXT:RACE:NUMBERED_NAME]。",
+        "context": "None",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "It is said that the [CONTEXT:ARCH_ELEMENT] of [CONTEXT:ABSTRACT_BUILDING:TRANS_NAME] [CONTEXT:JUSTIFICATION] [CONTEXT:DEF_SPHERE] for the glory of [CONTEXT:HIST_FIG:TRANS_NAME].": {
+        "string": "据说[CONTEXT:ABSTRACT_BUILDING:TRANS_NAME][CONTEXT:JUSTIFICATION][CONTEXT:DEF_SPHERE] 的[CONTEXT:ARCH_ELEMENT]为了[CONTEXT:HIST_FIG:TRANS_NAME]的荣耀。",
+        "context": "None",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "I'm [CONTEXT:NUMBER]!": {
+        "string": "我是 [CONTEXT:NUMBER]！",
+        "context": "None",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "I am a [CONTEXT:UNIT_NAME].": {
+        "string": "我是一个[CONTEXT:UNIT_NAME]。",
+        "context": "None",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "This is my [CONTEXT:ORDINAL] year as a [CONTEXT:UNIT_NAME].": {
+        "string": "这是我作为[CONTEXT:UNIT_NAME]的第[CONTEXT:ORDINAL]年。",
+        "context": "None",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "Who dares to enter my house?  I curse you!": {
+        "string": "谁敢闯入我的家？我诅咒你！",
+        "context": "None",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "who was too short to live": {
+        "string": "短人活不长",
+        "context": "None",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "who tunneled away from me like a frightened mole": {
+        "string": "像个吓破胆的鼹鼠从我眼前消失",
+        "context": "None",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "who sucked plump helmets like a purring maggot": {
+        "string": "蛆虫一样哼哧哼哧地猛吃肉盔菇",
+        "context": "None",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "whose hammer shattered on the anvil of my power": {
+        "string": "手里的锤子被我铁砧一样的气力碾碎",
+        "context": "None",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "who forged [PRO_POS] own doom by challenging me": {
+        "string": "who forged [PRO_POS] own doom by challenging me",
+        "context": "None",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "who was returned to the rock and muck from which it was spawned": {
+        "string": "尘归尘土归土",
+        "context": "None",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "whose tall tales of bravery were all the more embarrassing because of [PRO_POS] height": {
+        "string": "whose tall tales of bravery were all the more embarrassing because of [PRO_POS] height",
+        "context": "None",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "who was felled like a slender sapling": {
+        "string": "像幼芽一样被人轻松拿下",
+        "context": "None",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "whom I sent back to the home-tree as fertilizer": {
+        "string": "whom I sent back to the home-tree as fertilizer",
+        "context": "None",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "whose fragile bones shattered before the power of my contempt": {
+        "string": "软骨头在我的蔑视下碎裂了",
+        "context": "None",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "who came down from the home-tree and was devoured": {
+        "string": "who came down from the home-tree and was devoured",
+        "context": "None",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "who should have stayed in the trees when the real elves came down to fight": {
+        "string": "正牌精灵都下来打架了，还有谁会猫在树上",
+        "context": "None",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "[CONTEXT:HIST_FIG:PRO_SUB] is also my [CONTEXT:FAMILY_RELATIONSHIP]": {
+        "string": "[CONTEXT: HIST_FIG:PRO_SUB]也是我[CONTEXT: FAMILY_RELATIONSHIP]",
+        "context": "None",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "[CONTEXT:HIST_FIG:PRO_SUB] was also my [CONTEXT:FAMILY_RELATIONSHIP]": {
+        "string": "[CONTEXT: HIST_FIG:PRO_SUB]也是我[CONTEXT: FAMILY_RELATIONSHIP]",
+        "context": "None",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "I have [CONTEXT:INDEF_FAMILY_RELATIONSHIP] named [CONTEXT:HIST_FIG:TRANS_NAME]": {
+        "string": "我有一个[CONTEXT: INDEF_FAMILY_RELATIONSHIP]，名字是[CONTEXT: HIST_FIG:TRANS_NAME]",
+        "context": "None",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "I had [CONTEXT:INDEF_FAMILY_RELATIONSHIP] named [CONTEXT:HIST_FIG:TRANS_NAME]": {
+        "string": "我过去有一个[CONTEXT: INDEF_FAMILY_RELATIONSHIP]，叫[CONTEXT: HIST_FIG:TRANS_NAME]",
+        "context": "None",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "my [CONTEXT:FAMILY_RELATIONSHIP] is named [CONTEXT:HIST_FIG:TRANS_NAME]": {
+        "string": "我[CONTEXT: FAMILY_RELATIONSHIP]叫[CONTEXT: HIST_FIG:TRANS_NAME]",
+        "context": "None",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "my [CONTEXT:FAMILY_RELATIONSHIP] was named [CONTEXT:HIST_FIG:TRANS_NAME]": {
+        "string": "我[CONTEXT: FAMILY_RELATIONSHIP]的名字是[CONTEXT: HIST_FIG:TRANS_NAME]",
+        "context": "None",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "whose cries for mercy went unheeded by my wrath": {
+        "string": "愤怒之下，何存怜悯",
+        "context": "None",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "whose insignificant name I struggle to recall": {
+        "string": "它微不足道的名字被我遗忘",
+        "context": "None",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "a spineless slug who was crushed under my might": {
+        "string": "a spineless slug who was crushed under my might",
+        "context": "None",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "whom I buried alive under a mountain of hatred": {
+        "string": "我将其活埋在仇恨之山下",
+        "context": "None",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "who lies dead, now only an embarrassing memory": {
+        "string": "有人死了，现在只剩下一段尴尬的回忆",
+        "context": "None",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "who sought my praise, only to be rejected in death": {
+        "string": "寻求我宽恕者，只能得到死亡",
+        "context": "None",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "once revered by those who didn't know any better": {
+        "string": "once revered by those who didn't know any better",
+        "context": "None",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "upon arising in the mornings,": {
+        "string": "upon arising in the mornings,",
+        "context": "None",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "when going on a long journey,": {
+        "string": "长途旅行时，",
+        "context": "None",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "before retiring in the evening,": {
+        "string": "在晚上休息之前,",
+        "context": "None",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "as sure as I am here now,": {
+        "string": "就像此处的我一样确信,",
+        "context": "None",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "and lo,": {
+        "string": "瞧,",
+        "context": "None",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "it cannot be said enough;": {
+        "string": "无需多言;",
+        "context": "None",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "these are dangerous times, so": {
+        "string": "这是危险时期，所以",
+        "context": "None",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "I say again": {
+        "string": "我再说一遍",
+        "context": "None",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "yes,": {
+        "string": "是的,",
+        "context": "None",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "before every meal,": {
+        "string": "每顿饭之前,",
+        "context": "None",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "whenever the tide turns,": {
+        "string": "whenever the tide turns,",
+        "context": "None",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "when you return to this place,": {
+        "string": "当你重返此处时,",
+        "context": "None",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "when you arrive at your destination,": {
+        "string": "当你抵达目的地时,",
+        "context": "None",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "at this juncture in your life,": {
+        "string": "在你人生的这个关头",
+        "context": "None",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "don't forget to": {
+        "string": "别忘",
+        "context": "None",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "always remember to": {
+        "string": "记得",
+        "context": "None",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "it would be wise to": {
+        "string": "你应该",
+        "context": "None",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "you should": {
+        "string": "你得",
+        "context": "None",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "you must": {
+        "string": "你必须",
+        "context": "None",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "prudence demands that you": {
+        "string": "prudence demands that you",
+        "context": "None",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "even for a moment": {
+        "string": "哪怕只是须臾",
+        "context": "None",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "follow my advice and": {
+        "string": "听从我的忠告,",
+        "context": "None",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "heed my words and": {
+        "string": "留意我的话然后",
+        "context": "None",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "remember to": {
+        "string": "切记",
+        "context": "None",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "show devotion and": {
+        "string": "展示你的忠诚和",
+        "context": "None",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "speak the praises of [SPEAKER:HF_LINK:DEITY:TRANS_NAME]": {
+        "string": "赞美[SPEAKER:HF_LINK:DEITY:TRANS_NAME]",
+        "context": "None",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "speak the praises of [SPEAKER:HF_LINK:DEITY:RANDOM_DEF_SPHERE]": {
+        "string": "赞美[SPEAKER:HF_LINK:DEITY:RANDOM_DEF_SPHERE]",
+        "context": "None",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "go with [SPEAKER:HF_LINK:DEITY:TRANS_NAME]": {
+        "string": "和 [SPEAKER:HF_LINK:DEITY:TRANS_NAME]一起去",
+        "context": "None",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "go with [SPEAKER:HF_LINK:DEITY:RANDOM_DEF_SPHERE]": {
+        "string": "和 [SPEAKER:HF_LINK:DEITY:RANDOM_DEF_SPHERE]一起去",
+        "context": "None",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "put your faith in [SPEAKER:HF_LINK:DEITY:TRANS_NAME]": {
+        "string": "相信[SPEAKER:HF_LINK:DEITY:TRANS_NAME]",
+        "context": "None",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "put your faith in [SPEAKER:HF_LINK:DEITY:RANDOM_DEF_SPHERE]": {
+        "string": "相信[SPEAKER:HF_LINK:DEITY:RANDOM_DEF_SPHERE]",
+        "context": "None",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "experience [SPEAKER:HF_LINK:DEITY:TRANS_NAME]": {
+        "string": "经历了[SPEAKER:HF_LINK:DEITY:TRANS_NAME]",
+        "context": "None",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "experience [SPEAKER:HF_LINK:DEITY:RANDOM_DEF_SPHERE]": {
+        "string": "经历了[SPEAKER:HF_LINK:DEITY:RANDOM_DEF_SPHERE]",
+        "context": "None",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "consider [SPEAKER:HF_LINK:DEITY:TRANS_NAME]": {
+        "string": "考虑[SPEAKER:HF_LINK:DEITY:TRANS_NAME]",
+        "context": "None",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "consider [SPEAKER:HF_LINK:DEITY:RANDOM_DEF_SPHERE]": {
+        "string": "考虑[SPEAKER:HF_LINK:DEITY:RANDOM_DEF_SPHERE]",
+        "context": "None",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "give yourself to [SPEAKER:HF_LINK:DEITY:TRANS_NAME]": {
+        "string": "give yourself to [SPEAKER:HF_LINK:DEITY:TRANS_NAME]",
+        "context": "None",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "give yourself to [SPEAKER:HF_LINK:DEITY:RANDOM_DEF_SPHERE]": {
+        "string": "give yourself to [SPEAKER:HF_LINK:DEITY:RANDOM_DEF_SPHERE]",
+        "context": "None",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "Greetings.  My name is [SPEAKER:TRANS_NAME].": {
+        "string": "你好。我的名字是[SPEAKER:TRANS_NAME].",
+        "context": "None",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "Hellooo!": {
+        "string": "哈喽！",
+        "context": "None",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "Look at you!": {
+        "string": "看看你！",
+        "context": "None",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "A baby!  How adorable!": {
+        "string": "多么可爱的宝宝!",
+        "context": "None",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "Ah, hello.  I'm [SPEAKER:TRANS_NAME].": {
+        "string": "啊，你好，我叫[SPEAKER: TRANS_NAME]。",
+        "context": "None",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "I am [SPEAKER:TRANS_NAME].  Can I be of some help?": {
+        "string": "我是[SPEAKER: TRANS_NAME]。我可以帮你忙吗？",
+        "context": "None",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "I am [SPEAKER:TRANS_NAME].  How can I be of service?": {
+        "string": "我是[SPEAKER:TRANS_NAME]。我该如何帮你？",
+        "context": "None",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "Hello, [AUDIENCE:RACE].  I am [SPEAKER:TRANS_NAME].": {
+        "string": "你好，[AUDIENCE: RACE]。我的名字是[SPEAKER: TRANS_NAME]。",
+        "context": "None",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "[AUDIENCE:FIRST_NAME]...  your parents must have been interesting!": {
+        "string": "[AUDIENCE: FIRST_NAME]。。。你爸妈一定很有意思呢！",
+        "context": "None",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "You know, you don't meet many people with the name [AUDIENCE:FIRST_NAME].": {
+        "string": "你知道的，你不会遇见许多有[AUDIENCE:FIRST_NAME]名字的人。",
+        "context": "None",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "So, [AUDIENCE:FIRST_NAME]...   [AUDIENCE:FIRST_NAME], was it?": {
+        "string": "那，[AUDIENCE: FIRST_NAME]。。。是[AUDIENCE: FIRST_NAME]，对不对？",
+        "context": "None",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "[AUDIENCE:FIRST_NAME].  Does that mean something?": {
+        "string": "[AUDIENCE: FIRST_NAME]。有特殊的意义吗？",
+        "context": "None",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "[AUDIENCE:FIRST_NAME].  I can't say I've heard that before.": {
+        "string": "[AUDIENCE: FIRST_NAME]。我没听过这个名字。",
+        "context": "None",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "Praise be to [SPEAKER:HF_LINK:DEITY:TRANS_NAME].": {
+        "string": "Praise be to [SPEAKER:HF_LINK:DEITY:TRANS_NAME].",
+        "context": "None",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "Praise [SPEAKER:HF_LINK:DEITY:RANDOM_DEF_SPHERE].": {
+        "string": "赞美[SPEAKER:HF_LINK:DEITY:RANDOM_DEF_SPHERE]。",
+        "context": "None",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "Life is, in a word, [SPEAKER:HF_LINK:DEITY:RANDOM_DEF_SPHERE].": {
+        "string": "生活，说白了就是[SPEAKER:HF_LINK:DEITY:RANDOM_DEF_SPHERE]。",
+        "context": "None",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "This servant of [SPEAKER:HF_LINK:DEITY:TRANS_NAME] greets you.": {
+        "string": "[SPEAKER:HF_LINK:DEITY:TRANS_NAME]的仆人在向你打招呼。",
+        "context": "None",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "This servant of [SPEAKER:HF_LINK:DEITY:RANDOM_DEF_SPHERE] greets you.": {
+        "string": "[SPEAKER:HF_LINK:DEITY:RANDOM_DEF_SPHERE]在向你打招呼",
+        "context": "None",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "I am a guard.": {
+        "string": "我是一名卫兵。",
+        "context": "None",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "Don't start any trouble.": {
+        "string": "不要惹任何麻烦。",
+        "context": "None",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "It is I that felled [CONTEXT:HIST_FIG:TRANS_NAME] the [CONTEXT:HIST_FIG:RACE].": {
+        "string": "It is I that felled [CONTEXT:HIST_FIG:TRANS_NAME] the [CONTEXT:HIST_FIG:RACE].",
+        "context": "None",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "I hunt great beasts in [CONTEXT:PLACE:TRANS_NAME].": {
+        "string": "我在[CONTEXT: PLACE:TRANS_NAME]狩猎大兽。",
+        "context": "None",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "I have hunted great beasts in [CONTEXT:PLACE:TRANS_NAME] for [CONTEXT:NUMBER] of my years.": {
+        "string": "我在[CONTEXT: PLACE:TRANS_NAME]狩猎了大兽[CONTEXT: NUMBER]年。",
+        "context": "None",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "can be thought of as the antithesis of": {
+        "string": "可以认为是",
+        "context": "None",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "can allow one to experience": {
+        "string": "可以让人体验",
+        "context": "None",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "can bring one near to": {
+        "string": "可以让人接近",
+        "context": "None",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "can remind one of": {
+        "string": "可以让人想起",
+        "context": "None",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "can be thought of as a representation of": {
+        "string": "可以被认为代表",
+        "context": "None",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "I want your bones for my bone mill!": {
+        "string": "我要把你的骨头磨成灰！",
+        "context": "None",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "I'll grind you into porridge!": {
+        "string": "我会把你碾成烂泥！",
+        "context": "None",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "I'll eat you whole!": {
+        "string": "我要把你生吞活剥！",
+        "context": "None",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "I seek fortune and glory by offering my skill at arms in [CONTEXT:PLACE:TRANS_NAME].": {
+        "string": "我为[CONTEXT:PLACE:TRANS_NAME]提供我的技巧来获取财富和荣耀。",
+        "context": "None",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "I have sought fortune and glory by offering my skill at arms in [CONTEXT:PLACE:TRANS_NAME] for [CONTEXT:NUMBER] of my years.": {
+        "string": "为了获取财富和荣耀，我已经为[CONTEXT:PLACE:TRANS_NAME]提供我的能力[CONTEXT:NUMBER]年了。",
+        "context": "None",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "I have no family to speak of": {
+        "string": "我没有家人可言",
+        "context": "None",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "In the past, I hunted great beasts.": {
+        "string": "过去我曾狩猎了大兽。",
+        "context": "None",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "I was a hunter of mighty beasts for [CONTEXT:NUMBER] of my years.": {
+        "string": "我花了[CONTEXT: NUMBER]年来狩猎猛兽。",
+        "context": "None",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "In the past, I sought fortune and glory by offering my skill at arms.": {
+        "string": "过去我通过提供我的武艺来获取财富和荣耀。",
+        "context": "None",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "I sought fortune and glory by offering my skill at arms for [CONTEXT:NUMBER] of my years.": {
+        "string": "我通过提供我的武艺来获取财富与荣耀[CONTEXT:NUMBER]年了。",
+        "context": "None",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "I was once a [CONTEXT:UNIT_NAME].": {
+        "string": "我曾是一个[CONTEXT: UNIT_NAME]。",
+        "context": "None",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "I was a [CONTEXT:UNIT_NAME] for [CONTEXT:NUMBER] of the years of my life.": {
+        "string": "我过去当[CONTEXT: UNIT_NAME]当[CONTEXT: NUMBER]年。",
+        "context": "None",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "Once it was my calling to rescue lost children.": {
+        "string": "我曾经负责拯救迷路的孩子。",
+        "context": "None",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "For [CONTEXT:NUMBER] of my years, I rescued lost children.": {
+        "string": "[CONTEXT:NUMBER]年来我寻找走丢的孩子。",
+        "context": "None",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "I once sought great treasures.": {
+        "string": "我曾追寻过无价之宝。",
+        "context": "None",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "I sought great treasures for [CONTEXT:NUMBER] of my years.": {
+        "string": "我花了[CONTEXT:NUMBER]年来寻找宝藏。",
+        "context": "None",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "I once wandered the wilds.": {
+        "string": "我曾在荒野流浪。",
+        "context": "None",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "For [CONTEXT:NUMBER] of my years, I wandered the wilds.": {
+        "string": "我在荒野流浪流了[CONTEXT: NUMBER]年。",
+        "context": "None",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "fantastic!": {
+        "string": "好极了！",
+        "context": "None",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "wonderful!": {
+        "string": "精彩！",
+        "context": "None",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "I'm thrilled to hear that.": {
+        "string": "我很高兴听到。",
+        "context": "None",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "I'm pleased to hear that.": {
+        "string": "高兴听到。",
+        "context": "None",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "that is good news.": {
+        "string": "那是好消息。",
+        "context": "None",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "that is wonderful news.": {
+        "string": "那是非常好的消息呀。",
+        "context": "None",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "this is encouraging.": {
+        "string": "这很振奋人心。",
+        "context": "None",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "very good.": {
+        "string": "很好。",
+        "context": "None",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "I'm proud of you.": {
+        "string": "我为你感到骄傲。",
+        "context": "None",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "that is a good turn of affairs.": {
+        "string": "真是称心如意啊。",
+        "context": "None",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "seek out [CONTEXT:HIST_FIG:TRANS_NAME] here in [CONTEXT:SITE:TRANS_NAME] at [CONTEXT:ABSTRACT_BUILDING:TRANS_NAME]": {
+        "string": "seek out [CONTEXT:HIST_FIG:TRANS_NAME] here in [CONTEXT:SITE:TRANS_NAME] at [CONTEXT:ABSTRACT_BUILDING:TRANS_NAME]",
+        "context": "None",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "seek out [CONTEXT:HIST_FIG:TRANS_NAME] here in [CONTEXT:SITE:TRANS_NAME]": {
+        "string": "在[CONTEXT:SITE:TRANS_NAME]这儿寻找[CONTEXT:HIST_FIG:TRANS_NAME]",
+        "context": "None",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "seek out [CONTEXT:HIST_FIG:TRANS_NAME] over in [CONTEXT:SITE:TRANS_NAME]": {
+        "string": "在[CONTEXT:SITE:TRANS_NAME]里寻找[CONTEXT:HIST_FIG:TRANS_NAME] ",
+        "context": "None",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "bane": {
+        "string": "克星",
+        "context": "None",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "conqueror": {
+        "string": "征服者",
+        "context": "None",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "death": {
+        "string": "死亡",
+        "context": "None",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "foe": {
+        "string": "仇敌",
+        "context": "None",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "killer": {
+        "string": "杀手",
+        "context": "None",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "lord": {
+        "string": "贵族",
+        "context": "None",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "master": {
+        "string": "主人",
+        "context": "None",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "nemesis": {
+        "string": "死敌",
+        "context": "None",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "slayer": {
+        "string": "屠宰者",
+        "context": "None",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "vanquisher": {
+        "string": "征服者",
+        "context": "None",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "murderer": {
+        "string": "凶手",
+        "context": "None",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "crusher": {
+        "string": "压死者",
+        "context": "None",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "extinguisher": {
+        "string": "熄灭者",
+        "context": "None",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "strangler": {
+        "string": "扼杀者",
+        "context": "None",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "I rescue lost children and bring them back to [CONTEXT:PLACE:TRANS_NAME].": {
+        "string": "我寻找丢失的孩子，然后带他们回[CONTEXT: PLACE:TRANS_NAME]。",
+        "context": "None",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "For [CONTEXT:NUMBER] of my years, I have been rescuing lost children and bringing them back to [CONTEXT:PLACE:TRANS_NAME].": {
+        "string": "我寻找丢失的孩子然后带他们回[CONTEXT: PLACE:TRANS_NAME]。寻了[CONTEXT: NUMBER]年了。",
+        "context": "None",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "I am a soldier.": {
+        "string": "我是个士兵。",
+        "context": "None",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "[CONTEXT:ANY:TRANS_NAME] might have a task for you": {
+        "string": "[CONTEXT:ANY:TRANS_NAME]可能有一个任务给你。",
+        "context": "None",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "simply": {
+        "string": "简直",
+        "context": "None",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "it is enough to": {
+        "string": "已经足够去",
+        "context": "None",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "your task is simple;": {
+        "string": "你的任务很简单。",
+        "context": "None",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "just": {
+        "string": "就",
+        "context": "None",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "all you need is to": {
+        "string": "你只需",
+        "context": "None",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "Welcome to [CONTEXT:ENTITY:TRANS_NAME].  Praise be to [CONTEXT:ENTITY:WORSHIP_HF:TRANS_NAME]!": {
+        "string": "欢迎来到[CONTEXT:ENTITY:TRANS_NAME]。赞美[CONTEXT:ENTITY:WORSHIP_HF:TRANS_NAME]！",
+        "context": "None",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "Welcome to [CONTEXT:ENTITY:TRANS_NAME].  Praise be to [CONTEXT:ENTITY:WORSHIP_HF:RANDOM_DEF_SPHERE]!": {
+        "string": "欢饮来到[CONTEXT:ENTITY:TRANS_NAME]。赞美[CONTEXT:ENTITY:WORSHIP_HF:RANDOM_DEF_SPHERE]！",
+        "context": "None",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "As a member of [CONTEXT:ENTITY:TRANS_NAME], you can now seek the higher mysteries of [CONTEXT:ENTITY:WORSHIP_HF:TRANS_NAME].": {
+        "string": "作为[CONTEXT:ENTITY:TRANS_NAME]的一员，你现在可以去寻找关于[CONTEXT:ENTITY:WORSHIP_HF:TRANS_NAME]更深的秘密。",
+        "context": "None",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "As a member of [CONTEXT:ENTITY:TRANS_NAME], you can now seek the higher mysteries of [CONTEXT:ENTITY:WORSHIP_HF:RANDOM_DEF_SPHERE].": {
+        "string": "作为[CONTEXT:ENTITY:TRANS_NAME]的一员，你现在可以去探寻[CONTEXT:ENTITY:WORSHIP_HF:RANDOM_DEF_SPHERE]更深层的秘密。",
+        "context": "None",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "I seek treasures and bring them back to [CONTEXT:PLACE:TRANS_NAME].": {
+        "string": "我找到并将宝藏带回了[CONTEXT:PLACE:TRANS_NAME]。",
+        "context": "None",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "I seek treasures and bring them back to [CONTEXT:PLACE:TRANS_NAME] and have done so for [CONTEXT:NUMBER] of the years of my life.": {
+        "string": "我用了一生中的[CONTEXT:NUMBER]年去寻找并将宝藏带回[CONTEXT:PLACE:TRANS_NAME]。",
+        "context": "None",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "Prepare to die!": {
+        "string": "准备受死吧！",
+        "context": "None",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "seek out [CONTEXT:HIST_FIG:TRANS_NAME], wherever [CONTEXT:HIST_FIG:PRO_SUB] might be": {
+        "string": "寻找[CONTEXT:HIST_FIG:TRANS_NAME]，不论[CONTEXT:HIST_FIG:PRO_SUB]在哪里",
+        "context": "None",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "I wander [CONTEXT:PLACE:TRANS_NAME].": {
+        "string": "我在[CONTEXT: PLACE:TRANS_NAME]流浪。",
+        "context": "None",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "I have wandered [CONTEXT:PLACE:TRANS_NAME] for [CONTEXT:NUMBER] of my years.": {
+        "string": "我在[CONTEXT: PLACE:TRANS_NAME]流浪流了[CONTEXT: NUMBER]年了。",
+        "context": "None",
+        "developer_comment": "",
+        "character_limit": null
+    }
+}

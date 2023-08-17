@@ -1,0 +1,968 @@
+{
+    "seek out [CONTEXT:HIST_FIG:TRANS_NAME] at [CONTEXT:ABSTRACT_BUILDING:TRANS_NAME] over in [CONTEXT:SITE:TRANS_NAME]": {
+        "string": "busca a [CONTEXT:HIST_FIG:TRANS_NAME] a [CONTEXT:ABSTRACT_BUILDING:TRANS_NAME], per [CONTEXT:SITE:TRANS_NAME]",
+        "context": "None",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "I have taken down [CONTEXT:NUMBER] [CONTEXT:RACE:NUMBERED_NAME] while stalking [CONTEXT:PLACE:TRANS_NAME].": {
+        "string": "He abatut a [CONTEXT:NUMBER] [CONTEXT:RACE:NUMBERED_NAME] mentre guaitava [CONTEXT:PLACE:TRANS_NAME].",
+        "context": "None",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "It is said that the [CONTEXT:ARCH_ELEMENT] of [CONTEXT:ABSTRACT_BUILDING:TRANS_NAME] [CONTEXT:JUSTIFICATION] [CONTEXT:DEF_SPHERE] for the glory of [CONTEXT:HIST_FIG:TRANS_NAME].": {
+        "string": "Es diu que [CONTEXT:ARCH_ELEMENT] de [CONTEXT:ABSTRACT_BUILDING:TRANS_NAME] [CONTEXT:JUSTIFICATION] [CONTEXT:DEF_SPHERE] per la glòria de [CONTEXT:HIST_FIG:TRANS_NAME].",
+        "context": "None",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "I'm [CONTEXT:NUMBER]!": {
+        "string": "Tinc [CONTEXT:NUMBER] anys!",
+        "context": "None",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "I am a [CONTEXT:UNIT_NAME].": {
+        "string": "Sóc un [CONTEXT:UNIT_NAME].",
+        "context": "None",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "This is my [CONTEXT:ORDINAL] year as a [CONTEXT:UNIT_NAME].": {
+        "string": "Aquest és el meu [CONTEXT:ORDINAL] any com a [CONTEXT:UNIT_NAME].",
+        "context": "None",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "Who dares to enter my house?  I curse you!": {
+        "string": "Qui s'atreveix a entrar a la meva casa? Jo et maleeixo!",
+        "context": "None",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "who was too short to live": {
+        "string": "qui era massa baixet per a viure",
+        "context": "None",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "who tunneled away from me like a frightened mole": {
+        "string": "qui va fugir com un talp espantat cavant un túnel",
+        "context": "None",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "who sucked plump helmets like a purring maggot": {
+        "string": "qui s'afartava de cascos grossos com un cuc roncador",
+        "context": "None",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "whose hammer shattered on the anvil of my power": {
+        "string": "el martell del qual fou destruït davant l'enclusa del meu poder",
+        "context": "None",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "who forged [PRO_POS] own doom by challenging me": {
+        "string": "qui es forjà la seua pròpia condemna en desafiar-me",
+        "context": "None",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "who was returned to the rock and muck from which it was spawned": {
+        "string": "qui va tornar a la pedra i el fang dels quals va sortir",
+        "context": "None",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "whose tall tales of bravery were all the more embarrassing because of [PRO_POS] height": {
+        "string": "les històries de bravesa del qual eren més ridícules encara a causa de la seua altura",
+        "context": "None",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "who was felled like a slender sapling": {
+        "string": "who was felled like a slender sapling",
+        "context": "None",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "whom I sent back to the home-tree as fertilizer": {
+        "string": "a qui vaig enviar de tornada a la casa de l'arbre com a fertilitzant",
+        "context": "None",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "whose fragile bones shattered before the power of my contempt": {
+        "string": "els fràgils ossos del qual van ser destrossats davant el poder del meu menyspreu",
+        "context": "None",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "who came down from the home-tree and was devoured": {
+        "string": "qui va baixar de la casa de l'arbre i fou devorat",
+        "context": "None",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "who should have stayed in the trees when the real elves came down to fight": {
+        "string": "qui hauria d'haver-se quedat en els arbres quan els veritables elfs baixaren a lluitar",
+        "context": "None",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "[CONTEXT:HIST_FIG:PRO_SUB] is also my [CONTEXT:FAMILY_RELATIONSHIP]": {
+        "string": "De mi, [CONTEXT:HIST_FIG:PRO_SUB] és també [CONTEXT:FAMILY_RELATIONSHIP]",
+        "context": "None",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "[CONTEXT:HIST_FIG:PRO_SUB] was also my [CONTEXT:FAMILY_RELATIONSHIP]": {
+        "string": "De mi, [CONTEXT:HIST_FIG:PRO_SUB] fou també [CONTEXT:FAMILY_RELATIONSHIP]",
+        "context": "None",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "I have [CONTEXT:INDEF_FAMILY_RELATIONSHIP] named [CONTEXT:HIST_FIG:TRANS_NAME]": {
+        "string": "Tinc [CONTEXT:INDEF_FAMILY_RELATIONSHIP] anomenat [CONTEXT:HIST_FIG:TRANS_NAME]",
+        "context": "None",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "I had [CONTEXT:INDEF_FAMILY_RELATIONSHIP] named [CONTEXT:HIST_FIG:TRANS_NAME]": {
+        "string": "Tinguí [CONTEXT:INDEF_FAMILY_RELATIONSHIP] anomenat [CONTEXT:HIST_FIG:TRANS_NAME]",
+        "context": "None",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "my [CONTEXT:FAMILY_RELATIONSHIP] is named [CONTEXT:HIST_FIG:TRANS_NAME]": {
+        "string": "[CONTEXT:FAMILY_RELATIONSHIP] es diu [CONTEXT:HIST_FIG:TRANS_NAME]",
+        "context": "None",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "my [CONTEXT:FAMILY_RELATIONSHIP] was named [CONTEXT:HIST_FIG:TRANS_NAME]": {
+        "string": "[CONTEXT:FAMILY_RELATIONSHIP] es deia [CONTEXT:HIST_FIG:TRANS_NAME]",
+        "context": "None",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "whose cries for mercy went unheeded by my wrath": {
+        "string": "les súpliques de pietat del qual foren ignorades per la meva ràbia",
+        "context": "None",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "whose insignificant name I struggle to recall": {
+        "string": "l'insignificant nom del qual m'esforço per recordar",
+        "context": "None",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "a spineless slug who was crushed under my might": {
+        "string": "un llimac invertebrat que va ser aixafat per la meua gran força",
+        "context": "None",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "whom I buried alive under a mountain of hatred": {
+        "string": "a qui vaig enterrar viu baix una muntanya d'odi",
+        "context": "None",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "who lies dead, now only an embarrassing memory": {
+        "string": "qui resta mort, ara tan sols una memòria incòmoda",
+        "context": "None",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "who sought my praise, only to be rejected in death": {
+        "string": "qui buscà la meva lloança, sols per a ser rebutjat en la mort",
+        "context": "None",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "once revered by those who didn't know any better": {
+        "string": "solament venerat per aquells qui no coneixien res millor",
+        "context": "None",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "upon arising in the mornings,": {
+        "string": "en aixecar-te als matins,",
+        "context": "None",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "when going on a long journey,": {
+        "string": "en emprendre un llarg viatge,",
+        "context": "None",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "before retiring in the evening,": {
+        "string": "abans de ficar-te al llit a la nit,",
+        "context": "None",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "as sure as I am here now,": {
+        "string": "tan cert com que estic ara ací,",
+        "context": "None",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "and lo,": {
+        "string": "heus aquí,",
+        "context": "None",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "it cannot be said enough;": {
+        "string": "no pot ser dit suficients vegades;",
+        "context": "None",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "these are dangerous times, so": {
+        "string": "són temps difícils, així que",
+        "context": "None",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "I say again": {
+        "string": "Dic de nou",
+        "context": "None",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "yes,": {
+        "string": "sí,",
+        "context": "None",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "before every meal,": {
+        "string": "abans de cada àpat,",
+        "context": "None",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "whenever the tide turns,": {
+        "string": "quan sigui que canvien les tornes,",
+        "context": "None",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "when you return to this place,": {
+        "string": "quan tornis a aquest lloc,",
+        "context": "None",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "when you arrive at your destination,": {
+        "string": "quan arribis al teu destí,",
+        "context": "None",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "at this juncture in your life,": {
+        "string": "a hores d'ara en la teva vida,",
+        "context": "None",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "don't forget to": {
+        "string": "no oblidis",
+        "context": "None",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "always remember to": {
+        "string": "recorda sempre",
+        "context": "None",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "it would be wise to": {
+        "string": "seria assenyat",
+        "context": "None",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "you should": {
+        "string": "deuries",
+        "context": "None",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "you must": {
+        "string": "deus",
+        "context": "None",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "prudence demands that you": {
+        "string": "la prudència t'exigeix",
+        "context": "None",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "even for a moment": {
+        "string": "fins i tot durant un moment",
+        "context": "None",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "follow my advice and": {
+        "string": "segueix el meu consell i",
+        "context": "None",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "heed my words and": {
+        "string": "fes cas a les meves paraules i",
+        "context": "None",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "remember to": {
+        "string": "recorda",
+        "context": "None",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "show devotion and": {
+        "string": "mostra devoció i",
+        "context": "None",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "speak the praises of [SPEAKER:HF_LINK:DEITY:TRANS_NAME]": {
+        "string": "conta les lloances de [SPEAKER:HF_LINK:DEITY:TRANS_NAME]",
+        "context": "None",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "speak the praises of [SPEAKER:HF_LINK:DEITY:RANDOM_DEF_SPHERE]": {
+        "string": "conta les lloances de [SPEAKER:HF_LINK:DEITY:RANDOM_DEF_SPHERE]",
+        "context": "None",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "go with [SPEAKER:HF_LINK:DEITY:TRANS_NAME]": {
+        "string": "vés amb [SPEAKER:HF_LINK:DEITY:TRANS_NAME]",
+        "context": "None",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "go with [SPEAKER:HF_LINK:DEITY:RANDOM_DEF_SPHERE]": {
+        "string": "vés amb [SPEAKER:HF_LINK:DEITY:RANDOM_DEF_SPHERE]",
+        "context": "None",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "put your faith in [SPEAKER:HF_LINK:DEITY:TRANS_NAME]": {
+        "string": "diposita la teva fe en [SPEAKER:HF_LINK:DEITY:TRANS_NAME]",
+        "context": "None",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "put your faith in [SPEAKER:HF_LINK:DEITY:RANDOM_DEF_SPHERE]": {
+        "string": "diposita la teva fe en [SPEAKER:HF_LINK:DEITY:RANDOM_DEF_SPHERE]",
+        "context": "None",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "experience [SPEAKER:HF_LINK:DEITY:TRANS_NAME]": {
+        "string": "sent a [SPEAKER:HF_LINK:DEITY:TRANS_NAME]",
+        "context": "None",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "experience [SPEAKER:HF_LINK:DEITY:RANDOM_DEF_SPHERE]": {
+        "string": "sent a [SPEAKER:HF_LINK:DEITY:RANDOM_DEF_SPHERE]",
+        "context": "None",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "consider [SPEAKER:HF_LINK:DEITY:TRANS_NAME]": {
+        "string": "tingues en compte a [SPEAKER:HF_LINK:DEITY:TRANS_NAME]",
+        "context": "None",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "consider [SPEAKER:HF_LINK:DEITY:RANDOM_DEF_SPHERE]": {
+        "string": "tingues en compte a [SPEAKER:HF_LINK:DEITY:RANDOM_DEF_SPHERE]",
+        "context": "None",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "give yourself to [SPEAKER:HF_LINK:DEITY:TRANS_NAME]": {
+        "string": "entrega't a [SPEAKER:HF_LINK:DEITY:TRANS_NAME]",
+        "context": "None",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "give yourself to [SPEAKER:HF_LINK:DEITY:RANDOM_DEF_SPHERE]": {
+        "string": "entrega't a [SPEAKER:HF_LINK:DEITY:RANDOM_DEF_SPHERE]",
+        "context": "None",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "Greetings.  My name is [SPEAKER:TRANS_NAME].": {
+        "string": "Hola. Em diuen [SPEAKER:TRANS_NAME].",
+        "context": "None",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "Hellooo!": {
+        "string": "Hooola!",
+        "context": "None",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "Look at you!": {
+        "string": "Però mira't!",
+        "context": "None",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "A baby!  How adorable!": {
+        "string": "Un bebè! Què maco!",
+        "context": "None",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "Ah, hello.  I'm [SPEAKER:TRANS_NAME].": {
+        "string": "Ah, hola. Sóc [SPEAKER:TRANS_NAME].",
+        "context": "None",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "I am [SPEAKER:TRANS_NAME].  Can I be of some help?": {
+        "string": "Sóc [SPEAKER:TRANS_NAME]. Puc ajudar-te?",
+        "context": "None",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "I am [SPEAKER:TRANS_NAME].  How can I be of service?": {
+        "string": "Sóc [SPEAKER:TRANS_NAME]. Com puc ajudar-te?",
+        "context": "None",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "Hello, [AUDIENCE:RACE].  I am [SPEAKER:TRANS_NAME].": {
+        "string": "Hola, [AUDIENCE:RACE].  Sóc [SPEAKER:TRANS_NAME].",
+        "context": "None",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "[AUDIENCE:FIRST_NAME]...  your parents must have been interesting!": {
+        "string": "[AUDIENCE:FIRST_NAME]... els teus pares hagueren de ser curiosos!",
+        "context": "None",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "You know, you don't meet many people with the name [AUDIENCE:FIRST_NAME].": {
+        "string": "Saps, no coneixes a molta gent anomenada [AUDIENCE:FIRST_NAME].",
+        "context": "None",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "So, [AUDIENCE:FIRST_NAME]...   [AUDIENCE:FIRST_NAME], was it?": {
+        "string": "Bé, [AUDIENCE:FIRST_NAME]... [AUDIENCE:FIRST_NAME], no era això?",
+        "context": "None",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "[AUDIENCE:FIRST_NAME].  Does that mean something?": {
+        "string": "[AUDIENCE:FIRST_NAME]. Vol dir alguna cosa?",
+        "context": "None",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "[AUDIENCE:FIRST_NAME].  I can't say I've heard that before.": {
+        "string": "[AUDIENCE:FIRST_NAME]. Diria que no ho he escoltat mai.",
+        "context": "None",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "Praise be to [SPEAKER:HF_LINK:DEITY:TRANS_NAME].": {
+        "string": "Lloem a [SPEAKER:HF_LINK:DEITY:TRANS_NAME].",
+        "context": "None",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "Praise [SPEAKER:HF_LINK:DEITY:RANDOM_DEF_SPHERE].": {
+        "string": "Lloem a [SPEAKER:HF_LINK:DEITY:RANDOM_DEF_SPHERE].",
+        "context": "None",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "Life is, in a word, [SPEAKER:HF_LINK:DEITY:RANDOM_DEF_SPHERE].": {
+        "string": "La vida és, en una paraula, [SPEAKER:HF_LINK:DEITY:RANDOM_DEF_SPHERE].",
+        "context": "None",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "This servant of [SPEAKER:HF_LINK:DEITY:TRANS_NAME] greets you.": {
+        "string": "Aquest servent de [SPEAKER:HF_LINK:DEITY:TRANS_NAME] et saluda.",
+        "context": "None",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "This servant of [SPEAKER:HF_LINK:DEITY:RANDOM_DEF_SPHERE] greets you.": {
+        "string": "Aquest servent de [SPEAKER:HF_LINK:DEITY:RANDOM_DEF_SPHERE] et saluda.",
+        "context": "None",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "I am a guard.": {
+        "string": "Sóc un guarda.",
+        "context": "None",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "Don't start any trouble.": {
+        "string": "No facis la ma.",
+        "context": "None",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "It is I that felled [CONTEXT:HIST_FIG:TRANS_NAME] the [CONTEXT:HIST_FIG:RACE].": {
+        "string": "Sóc jo qui va vèncer a [CONTEXT:HIST_FIG:TRANS_NAME] el [CONTEXT:HIST_FIG:RACE].",
+        "context": "None",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "I hunt great beasts in [CONTEXT:PLACE:TRANS_NAME].": {
+        "string": "Caço grans bèsties a [CONTEXT:PLACE:TRANS_NAME].",
+        "context": "None",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "I have hunted great beasts in [CONTEXT:PLACE:TRANS_NAME] for [CONTEXT:NUMBER] of my years.": {
+        "string": "He caçat grans bèsties a [CONTEXT:PLACE:TRANS_NAME] durant [CONTEXT:NUMBER] dels meus anys.",
+        "context": "None",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "can be thought of as the antithesis of": {
+        "string": "pot veure's com l'antítesi de",
+        "context": "None",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "can allow one to experience": {
+        "string": "pot deixar-li a un sentir",
+        "context": "None",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "can bring one near to": {
+        "string": "pot dur-li a un cap a",
+        "context": "None",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "can remind one of": {
+        "string": "pot recordar-li a un",
+        "context": "None",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "can be thought of as a representation of": {
+        "string": "pot veure's com una representació de",
+        "context": "None",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "I want your bones for my bone mill!": {
+        "string": "Vull els teus ossos per al meu triturador d'ossos!",
+        "context": "None",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "I'll grind you into porridge!": {
+        "string": "Et faré xixina!",
+        "context": "None",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "I'll eat you whole!": {
+        "string": "Et menjaré sencer!",
+        "context": "None",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "I seek fortune and glory by offering my skill at arms in [CONTEXT:PLACE:TRANS_NAME].": {
+        "string": "Busco fortuna i glòria oferint els meus dots amb les armes a [CONTEXT:PLACE:TRANS_NAME].",
+        "context": "None",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "I have sought fortune and glory by offering my skill at arms in [CONTEXT:PLACE:TRANS_NAME] for [CONTEXT:NUMBER] of my years.": {
+        "string": "He buscat fortuna i glòria oferint els meus dots amb les armes a [CONTEXT:PLACE:TRANS_NAME] durant [CONTEXT:NUMBER] dels meus anys.",
+        "context": "None",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "I have no family to speak of": {
+        "string": "no tinc família de la qual parlar",
+        "context": "None",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "In the past, I hunted great beasts.": {
+        "string": "Antigament, vaig caçar grans bèsties.",
+        "context": "None",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "I was a hunter of mighty beasts for [CONTEXT:NUMBER] of my years.": {
+        "string": "Jo vaig caçar grans bèsties durant [CONTEXT:NUMBER] dels meus anys.",
+        "context": "None",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "In the past, I sought fortune and glory by offering my skill at arms.": {
+        "string": "Antigament, vaig buscar fortuna i glòria oferint els meus dots amb les armes.",
+        "context": "None",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "I sought fortune and glory by offering my skill at arms for [CONTEXT:NUMBER] of my years.": {
+        "string": "Vaig buscar fortuna i glòria oferint els meus dots amb les armes durant [CONTEXT:NUMBER] dels meus anys.",
+        "context": "None",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "I was once a [CONTEXT:UNIT_NAME].": {
+        "string": "Una vegada vaig ser [CONTEXT:UNIT_NAME].",
+        "context": "None",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "I was a [CONTEXT:UNIT_NAME] for [CONTEXT:NUMBER] of the years of my life.": {
+        "string": "Vaig ser [CONTEXT:UNIT_NAME] durant [CONTEXT:NUMBER] dels meus anys.",
+        "context": "None",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "Once it was my calling to rescue lost children.": {
+        "string": "Hi hagué un temps en què rescatava nens perduts.",
+        "context": "None",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "For [CONTEXT:NUMBER] of my years, I rescued lost children.": {
+        "string": "Durant [CONTEXT:NUMBER] dels meus anys, vaig rescatar nens perduts.",
+        "context": "None",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "I once sought great treasures.": {
+        "string": "Una vegada vaig buscar grans tresors.",
+        "context": "None",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "I sought great treasures for [CONTEXT:NUMBER] of my years.": {
+        "string": "Vaig buscar grans tresors durant [CONTEXT:NUMBER] dels meus anys.",
+        "context": "None",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "I once wandered the wilds.": {
+        "string": "Fa temps vagava per terres salvatges.",
+        "context": "None",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "For [CONTEXT:NUMBER] of my years, I wandered the wilds.": {
+        "string": "Durant [CONTEXT:NUMBER] dels meus anys, vaig errar per terres salvatges.",
+        "context": "None",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "fantastic!": {
+        "string": "fantàstic!",
+        "context": "None",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "wonderful!": {
+        "string": "meravellós!",
+        "context": "None",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "I'm thrilled to hear that.": {
+        "string": "M'emociona sentir això.",
+        "context": "None",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "I'm pleased to hear that.": {
+        "string": "Em complau sentir això.",
+        "context": "None",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "that is good news.": {
+        "string": "això són bones notícies.",
+        "context": "None",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "that is wonderful news.": {
+        "string": "això són notícies meravelloses.",
+        "context": "None",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "this is encouraging.": {
+        "string": "açò és encoratjador.",
+        "context": "None",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "very good.": {
+        "string": "molt bé.",
+        "context": "None",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "I'm proud of you.": {
+        "string": "Estic orgullós de tu.",
+        "context": "None",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "that is a good turn of affairs.": {
+        "string": "aquest és un bon gir dels esdeveniments.",
+        "context": "None",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "seek out [CONTEXT:HIST_FIG:TRANS_NAME] here in [CONTEXT:SITE:TRANS_NAME] at [CONTEXT:ABSTRACT_BUILDING:TRANS_NAME]": {
+        "string": "busca a [CONTEXT:HIST_FIG:TRANS_NAME] a [CONTEXT:SITE:TRANS_NAME] en [CONTEXT:ABSTRACT_BUILDING:TRANS_NAME]",
+        "context": "None",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "seek out [CONTEXT:HIST_FIG:TRANS_NAME] here in [CONTEXT:SITE:TRANS_NAME]": {
+        "string": "busca a [CONTEXT:HIST_FIG:TRANS_NAME] a [CONTEXT:SITE:TRANS_NAME]",
+        "context": "None",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "seek out [CONTEXT:HIST_FIG:TRANS_NAME] over in [CONTEXT:SITE:TRANS_NAME]": {
+        "string": "busca a [CONTEXT:HIST_FIG:TRANS_NAME] per [CONTEXT:SITE:TRANS_NAME]",
+        "context": "None",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "bane": {
+        "string": "maledicció",
+        "context": "None",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "conqueror": {
+        "string": "conqueridor",
+        "context": "None",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "death": {
+        "string": "mort",
+        "context": "None",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "foe": {
+        "string": "enemic",
+        "context": "None",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "killer": {
+        "string": "assassí",
+        "context": "None",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "lord": {
+        "string": "senyor",
+        "context": "None",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "master": {
+        "string": "mestre",
+        "context": "None",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "nemesis": {
+        "string": "arxienemic",
+        "context": "None",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "slayer": {
+        "string": "matador",
+        "context": "None",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "vanquisher": {
+        "string": "campió",
+        "context": "None",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "murderer": {
+        "string": "assassí",
+        "context": "None",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "crusher": {
+        "string": "aixafador",
+        "context": "None",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "extinguisher": {
+        "string": "fulminador",
+        "context": "None",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "strangler": {
+        "string": "escanyador",
+        "context": "None",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "I rescue lost children and bring them back to [CONTEXT:PLACE:TRANS_NAME].": {
+        "string": "Rescate nens perduts i els porto de tornada a [CONTEXT:PLACE:TRANS_NAME].",
+        "context": "None",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "For [CONTEXT:NUMBER] of my years, I have been rescuing lost children and bringing them back to [CONTEXT:PLACE:TRANS_NAME].": {
+        "string": "Durant [CONTEXT:NUMBER] dels meus anys, he rescatat nens perduts i els he portat de tornada a [CONTEXT:PLACE:TRANS_NAME].",
+        "context": "None",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "I am a soldier.": {
+        "string": "Sóc un soldat.",
+        "context": "None",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "[CONTEXT:ANY:TRANS_NAME] might have a task for you": {
+        "string": "[CONTEXT:ANY:TRANS_NAME] podria tenir feina per a tu.",
+        "context": "None",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "simply": {
+        "string": "simplement",
+        "context": "None",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "it is enough to": {
+        "string": "és suficient",
+        "context": "None",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "your task is simple;": {
+        "string": "la teva tasca és simple;",
+        "context": "None",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "just": {
+        "string": "tan sols",
+        "context": "None",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "all you need is to": {
+        "string": "tot el que necessites és",
+        "context": "None",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "Welcome to [CONTEXT:ENTITY:TRANS_NAME].  Praise be to [CONTEXT:ENTITY:WORSHIP_HF:TRANS_NAME]!": {
+        "string": "Benvingut a [CONTEXT:ENTITY:TRANS_NAME].  Lloem a [CONTEXT:ENTITY:WORSHIP_HF:TRANS_NAME]!",
+        "context": "None",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "Welcome to [CONTEXT:ENTITY:TRANS_NAME].  Praise be to [CONTEXT:ENTITY:WORSHIP_HF:RANDOM_DEF_SPHERE]!": {
+        "string": "Benvingut a [CONTEXT:ENTITY:TRANS_NAME].  Lloem a [CONTEXT:ENTITY:WORSHIP_HF:RANDOM_DEF_SPHERE]!",
+        "context": "None",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "As a member of [CONTEXT:ENTITY:TRANS_NAME], you can now seek the higher mysteries of [CONTEXT:ENTITY:WORSHIP_HF:TRANS_NAME].": {
+        "string": "Com a membre de [CONTEXT:ENTITY:TRANS_NAME], ara pots investigar els misteris de [CONTEXT:ENTITY:WORSHIP_HF:TRANS_NAME].",
+        "context": "None",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "As a member of [CONTEXT:ENTITY:TRANS_NAME], you can now seek the higher mysteries of [CONTEXT:ENTITY:WORSHIP_HF:RANDOM_DEF_SPHERE].": {
+        "string": "Com a membre de [CONTEXT:ENTITY:TRANS_NAME], ara pots investigar els misteris de [CONTEXT:ENTITY:WORSHIP_HF:RANDOM_DEF_SPHERE].",
+        "context": "None",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "I seek treasures and bring them back to [CONTEXT:PLACE:TRANS_NAME].": {
+        "string": "Vaig en busca de tresors i els porto de tornada a [CONTEXT:PLACE:TRANS_NAME].",
+        "context": "None",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "I seek treasures and bring them back to [CONTEXT:PLACE:TRANS_NAME] and have done so for [CONTEXT:NUMBER] of the years of my life.": {
+        "string": "Vaig en busca de tresors i els porto de tornada a [CONTEXT:PLACE:TRANS_NAME], i així ho he fet durant [CONTEXT:NUMBER] dels anys de la meva vida.",
+        "context": "None",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "Prepare to die!": {
+        "string": "Prepara't a morir!",
+        "context": "None",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "seek out [CONTEXT:HIST_FIG:TRANS_NAME], wherever [CONTEXT:HIST_FIG:PRO_SUB] might be": {
+        "string": "busca a [CONTEXT:HIST_FIG:TRANS_NAME], on sigui [CONTEXT:HIST_FIG:PRO_SUB] que estigui",
+        "context": "None",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "I wander [CONTEXT:PLACE:TRANS_NAME].": {
+        "string": "Vago per [CONTEXT:PLACE:TRANS_NAME].",
+        "context": "None",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "I have wandered [CONTEXT:PLACE:TRANS_NAME] for [CONTEXT:NUMBER] of my years.": {
+        "string": "He vagat per [CONTEXT:PLACE:TRANS_NAME] durant [CONTEXT:NUMBER] dels meus anys.",
+        "context": "None",
+        "developer_comment": "",
+        "character_limit": null
+    }
+}
