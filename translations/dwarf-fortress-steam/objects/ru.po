@@ -5845,7 +5845,7 @@ msgstr "[TLCM_NOUN:кожа:SINGULAR]"
 #: creature_annelids.txt:59
 msgctxt "CREATURE:WORM_MAN"
 msgid "[NAME:worm man:worm men:worm man]"
-msgstr "[CASTE_NAME:человек-червь:люди-черви:людей-червей]"
+msgstr "[NAME:человек-червь:люди-черви:людей-червей]"
 
 #: creature_annelids.txt:60
 msgctxt "CREATURE:WORM_MAN"
@@ -10353,7 +10353,7 @@ msgstr "[CASTE_NAME:женщина-кузнечик:женщины-кузнеч�
 #: creature_bug_slug_new.txt:290
 msgctxt "CREATURE:GRASSHOPPER_MAN"
 msgid "[NAME:grasshopper man:grasshopper men:grasshopper man]"
-msgstr "[CASTE_NAME:человек-кузнечик:люди-кузнечики:человека-кузнечика]"
+msgstr "[NAME:человек-кузнечик:люди-кузнечики:человека-кузнечика]"
 
 #: creature_bug_slug_new.txt:291
 msgctxt "CREATURE:GRASSHOPPER_MAN"
@@ -22473,7 +22473,8 @@ msgstr ""
 msgctxt "CREATURE:HONEY BADGER MAN"
 msgid "[CASTE_NAME:honey badger woman:honey badger women:honey badger woman]"
 msgstr ""
-"[NAME:женщина-барсук медоед:женщины-барсуки медоеды:женщины-барсука медоеда]"
+"[CASTE_NAME:женщина-барсук медоед:женщины-барсуки медоеды:женщины-барсука "
+"медоеда]"
 
 #: creature_large_tropical.txt:3684
 msgctxt "CREATURE:HONEY BADGER MAN"
@@ -40494,22 +40495,22 @@ msgstr "[NAME:звезда:звёзды]"
 #: descriptor_shape_standard.txt:8
 msgctxt "SHAPE:STAR"
 msgid "[ADJ:three-pointed]"
-msgstr "[ADJ:трёхконечная:трёхконечные]"
+msgstr "[ADJ:трёхконечная]"
 
 #: descriptor_shape_standard.txt:9
 msgctxt "SHAPE:STAR"
 msgid "[ADJ:four-pointed]"
-msgstr "[ADJ:четырёхконечная:четырёхконечные]"
+msgstr "[ADJ:четырёхконечная]"
 
 #: descriptor_shape_standard.txt:10
 msgctxt "SHAPE:STAR"
 msgid "[ADJ:five-pointed]"
-msgstr "[ADJ:пятиконечная:пятиконечные]"
+msgstr "[ADJ:пятиконечная]"
 
 #: descriptor_shape_standard.txt:11
 msgctxt "SHAPE:STAR"
 msgid "[ADJ:many-pointed]"
-msgstr "[ADJ:многоконечная:многоконечные]"
+msgstr "[ADJ:многоконечная]"
 
 #: descriptor_shape_standard.txt:16
 msgctxt "SHAPE:CRESCENT"
@@ -40519,12 +40520,12 @@ msgstr "[NAME:полумесяц:полумесяцы]"
 #: descriptor_shape_standard.txt:18
 msgctxt "SHAPE:CRESCENT"
 msgid "[ADJ:narrow]"
-msgstr "[ADJ:тонкий:тонкие]"
+msgstr "[ADJ:тонкий]"
 
 #: descriptor_shape_standard.txt:19
 msgctxt "SHAPE:CRESCENT"
 msgid "[ADJ:thick]"
-msgstr "[ADJ:толстый:толстые]"
+msgstr "[ADJ:толстый]"
 
 #: descriptor_shape_standard.txt:24
 msgctxt "SHAPE:CROSS"
@@ -40534,17 +40535,17 @@ msgstr "[NAME:крест:кресты]"
 #: descriptor_shape_standard.txt:26
 msgctxt "SHAPE:CROSS"
 msgid "[ADJ:broad]"
-msgstr "[ADJ:широкий:широкие]"
+msgstr "[ADJ:широкий]"
 
 #: descriptor_shape_standard.txt:27
 msgctxt "SHAPE:CROSS"
 msgid "[ADJ:tall]"
-msgstr "[ADJ:высокий:высокие]"
+msgstr "[ADJ:высокий]"
 
 #: descriptor_shape_standard.txt:28
 msgctxt "SHAPE:CROSS"
 msgid "[ADJ:thin]"
-msgstr "[ADJ:узкий:узкие]"
+msgstr "[ADJ:узкий]"
 
 #: descriptor_shape_standard.txt:33
 msgctxt "SHAPE:SQUARE"
@@ -40569,12 +40570,12 @@ msgstr "[NAME:солнце:солнца]"
 #: descriptor_shape_standard.txt:50
 msgctxt "SHAPE:SUN"
 msgid "[ADJ:shining]"
-msgstr "[ADJ:сияющее:сияющие]"
+msgstr "[ADJ:сияющее]"
 
 #: descriptor_shape_standard.txt:51
 msgctxt "SHAPE:SUN"
 msgid "[ADJ:blazing]"
-msgstr "[ADJ:пылающее:пылающие]"
+msgstr "[ADJ:пылающее]"
 
 #: descriptor_shape_standard.txt:56
 msgctxt "SHAPE:MOON"
@@ -40584,12 +40585,12 @@ msgstr "[NAME:луна:луны]"
 #: descriptor_shape_standard.txt:58
 msgctxt "SHAPE:MOON"
 msgid "[ADJ:hidden]"
-msgstr "[ADJ:скрытая:скрытые]"
+msgstr "[ADJ:скрытый]"
 
 #: descriptor_shape_standard.txt:59
 msgctxt "SHAPE:MOON"
 msgid "[ADJ:full]"
-msgstr "[ADJ:полная:полные]"
+msgstr "[ADJ:полный]"
 
 #: descriptor_shape_standard.txt:60
 msgctxt "SHAPE:MOON"
@@ -40599,7 +40600,7 @@ msgstr "[ADJ:полумесяц]"
 #: descriptor_shape_standard.txt:61
 msgctxt "SHAPE:MOON"
 msgid "[ADJ:half]"
-msgstr "[ADJ:половина:половины]"
+msgstr "[ADJ:половина]"
 
 #: descriptor_shape_standard.txt:66
 msgctxt "SHAPE:WAVE"
@@ -41219,7 +41220,7 @@ msgstr "[NAME:капитан егерей:капитан егерей]"
 #: entity_default.txt:1186
 msgctxt "ENTITY:FOREST"
 msgid "[SQUAD:10:ranger:rangers]"
-msgstr "[SQUAD:10:егерь:егеря]ы"
+msgstr "[SQUAD:10:егерь:егеря]"
 
 #: interaction_standard.txt:9
 msgctxt "INTERACTION:CLEANING"
@@ -41454,7 +41455,7 @@ msgstr "[NAME:длинная юбка:длинные юбки]"
 #: item_pants.txt:87
 msgctxt "ITEM_PANTS:ITEM_PANTS_SKIRT_SHORT"
 msgid "[ADJECTIVE:short]"
-msgstr "[ADJECTIVE:короткая:короткие]"
+msgstr "[ADJECTIVE:короткие]"
 
 #: item_pants.txt:98
 msgctxt "ITEM_PANTS:ITEM_PANTS_SKIRT_LONG"
@@ -41464,7 +41465,7 @@ msgstr "[NAME:длинная юбка:длинные юбки]"
 #: item_pants.txt:99
 msgctxt "ITEM_PANTS:ITEM_PANTS_SKIRT_LONG"
 msgid "[ADJECTIVE:long]"
-msgstr "[ADJECTIVE:длинная:длинные]"
+msgstr "[ADJECTIVE:длинные]"
 
 #: item_pants.txt:111
 msgctxt "ITEM_PANTS:ITEM_PANTS_BRAIES"
@@ -44004,7 +44005,7 @@ msgstr "[STATE_ADJ:GAS:кипящая магма]"
 #: material_template_default.txt:65
 msgctxt "MATERIAL_TEMPLATE:METAL_TEMPLATE"
 msgid "[STATE_NAME:ALL_SOLID:metal]"
-msgstr "[STATE_NAME:ALL_SOLID:металл:металлы]"
+msgstr "[STATE_NAME:ALL_SOLID:металл]"
 
 #: material_template_default.txt:66
 msgctxt "MATERIAL_TEMPLATE:METAL_TEMPLATE"
@@ -44014,7 +44015,7 @@ msgstr "[STATE_ADJ:ALL_SOLID:металл]"
 #: material_template_default.txt:68
 msgctxt "MATERIAL_TEMPLATE:METAL_TEMPLATE"
 msgid "[STATE_NAME:LIQUID:molten metal]"
-msgstr "[STATE_NAME:LIQUID:расплавленный металл:расплавленные металлы]"
+msgstr "[STATE_NAME:LIQUID:расплавленный металл]"
 
 #: material_template_default.txt:69
 msgctxt "MATERIAL_TEMPLATE:METAL_TEMPLATE"
@@ -44024,7 +44025,7 @@ msgstr "[STATE_ADJ:LIQUID:расплавленный металл]"
 #: material_template_default.txt:71
 msgctxt "MATERIAL_TEMPLATE:METAL_TEMPLATE"
 msgid "[STATE_NAME:GAS:boiling metal]"
-msgstr "[STATE_NAME:GAS:кипящий металл:кипящие металлы]"
+msgstr "[STATE_NAME:GAS:кипящий металл]"
 
 #: material_template_default.txt:72
 msgctxt "MATERIAL_TEMPLATE:METAL_TEMPLATE"
@@ -44094,7 +44095,7 @@ msgstr "[STATE_ADJ:GAS:n/a]"
 #: material_template_default.txt:209
 msgctxt "MATERIAL_TEMPLATE:FAT_TEMPLATE"
 msgid "[STATE_NAME:ALL_SOLID:fat]"
-msgstr "[STATE_NAME:ALL_SOLID:жир:жиры]"
+msgstr "[STATE_NAME:ALL_SOLID:жир]"
 
 #: material_template_default.txt:210
 msgctxt "MATERIAL_TEMPLATE:FAT_TEMPLATE"
@@ -44104,7 +44105,7 @@ msgstr "[STATE_ADJ:ALL_SOLID:жир]"
 #: material_template_default.txt:212
 msgctxt "MATERIAL_TEMPLATE:FAT_TEMPLATE"
 msgid "[STATE_NAME:LIQUID:grease]"
-msgstr "[STATE_NAME:LIQUID:смазка:смазки]"
+msgstr "[STATE_NAME:LIQUID:смазка]"
 
 #: material_template_default.txt:213
 msgctxt "MATERIAL_TEMPLATE:FAT_TEMPLATE"
@@ -44124,7 +44125,7 @@ msgstr "[STATE_ADJ:GAS:n/a]"
 #: material_template_default.txt:260
 msgctxt "MATERIAL_TEMPLATE:MUSCLE_TEMPLATE"
 msgid "[STATE_NAME:ALL_SOLID:muscle]"
-msgstr "[STATE_NAME:ALL_SOLID:мышца:мышцы]"
+msgstr "[STATE_NAME:ALL_SOLID:мышца]"
 
 #: material_template_default.txt:261
 msgctxt "MATERIAL_TEMPLATE:MUSCLE_TEMPLATE"
@@ -44159,7 +44160,7 @@ msgstr "[MEAT_NAME:NONE:мясо:мясо]"
 #: material_template_default.txt:313
 msgctxt "MATERIAL_TEMPLATE:SINEW_TEMPLATE"
 msgid "[STATE_NAME:ALL_SOLID:sinew]"
-msgstr "[STATE_NAME:ALL_SOLID:сухожилие:сухожилия]"
+msgstr "[STATE_NAME:ALL_SOLID:сухожилие]"
 
 #: material_template_default.txt:314
 msgctxt "MATERIAL_TEMPLATE:SINEW_TEMPLATE"
@@ -44189,7 +44190,7 @@ msgstr "[STATE_ADJ:GAS:n/a]"
 #: material_template_default.txt:358
 msgctxt "MATERIAL_TEMPLATE:BONE_TEMPLATE"
 msgid "[STATE_NAME:SOLID:bone]"
-msgstr "[STATE_NAME:SOLID:кость:кости]"
+msgstr "[STATE_NAME:SOLID:кость]"
 
 #: material_template_default.txt:359
 msgctxt "MATERIAL_TEMPLATE:BONE_TEMPLATE"
@@ -44199,7 +44200,7 @@ msgstr "[STATE_ADJ:SOLID:костяной]"
 #: material_template_default.txt:360
 msgctxt "MATERIAL_TEMPLATE:BONE_TEMPLATE"
 msgid "[STATE_NAME:POWDER:bone meal]"
-msgstr "[STATE_NAME:POWDER:костная мука:костная мука]"
+msgstr "[STATE_NAME:POWDER:костная мука]"
 
 #: material_template_default.txt:361
 msgctxt "MATERIAL_TEMPLATE:BONE_TEMPLATE"
@@ -44229,7 +44230,7 @@ msgstr "[STATE_ADJ:GAS:n/a]"
 #: material_template_default.txt:407
 msgctxt "MATERIAL_TEMPLATE:CARTILAGE_TEMPLATE"
 msgid "[STATE_NAME:ALL_SOLID:cartilage]"
-msgstr "[STATE_NAME:ALL_SOLID:хрящ:хрящи]"
+msgstr "[STATE_NAME:ALL_SOLID:хрящ]"
 
 #: material_template_default.txt:408
 msgctxt "MATERIAL_TEMPLATE:CARTILAGE_TEMPLATE"
@@ -44409,7 +44410,7 @@ msgstr "[STATE_ADJ:GAS:n/a]"
 #: material_template_default.txt:679
 msgctxt "MATERIAL_TEMPLATE:EYE_TEMPLATE"
 msgid "[STATE_NAME:ALL_SOLID:eye tissue]"
-msgstr "[STATE_NAME:ALL_SOLID:глазная ткань:глазные ткани]"
+msgstr "[STATE_NAME:ALL_SOLID:глазная ткань]"
 
 #: material_template_default.txt:680
 msgctxt "MATERIAL_TEMPLATE:EYE_TEMPLATE"
@@ -44719,8 +44720,7 @@ msgstr "[MEAT_NAME:разделанные:потроха:потроха]"
 #: material_template_default.txt:1140
 msgctxt "MATERIAL_TEMPLATE:PANCREAS_TEMPLATE"
 msgid "[STATE_NAME:ALL_SOLID:pancreatic tissue]"
-msgstr ""
-"[STATE_NAME:ALL_SOLID:ткань поджелудочной железы:ткани поджелудочной железы]"
+msgstr "[STATE_NAME:ALL_SOLID:ткань поджелудочной железы]"
 
 #: material_template_default.txt:1141
 msgctxt "MATERIAL_TEMPLATE:PANCREAS_TEMPLATE"
@@ -44755,7 +44755,7 @@ msgstr "[MEAT_NAME:NONE:железа:железы]"
 #: material_template_default.txt:1192
 msgctxt "MATERIAL_TEMPLATE:SPLEEN_TEMPLATE"
 msgid "[STATE_NAME:ALL_SOLID:spleen tissue]"
-msgstr "[STATE_NAME:ALL_SOLID:ткань селезёнки:ткани селезёнки]"
+msgstr "[STATE_NAME:ALL_SOLID:ткань селезёнки]"
 
 #: material_template_default.txt:1193
 msgctxt "MATERIAL_TEMPLATE:SPLEEN_TEMPLATE"
@@ -45075,7 +45075,7 @@ msgstr "[STATE_ADJ:ALL_SOLID:замёрзшая слизь]"
 #: material_template_default.txt:1665
 msgctxt "MATERIAL_TEMPLATE:GOO_TEMPLATE"
 msgid "[STATE_NAME:LIQUID:goo]"
-msgstr "[STATE_NAME:LIQUID:слизь:слизь]"
+msgstr "[STATE_NAME:LIQUID:слизь]"
 
 #: material_template_default.txt:1666
 msgctxt "MATERIAL_TEMPLATE:GOO_TEMPLATE"
@@ -45820,7 +45820,7 @@ msgstr "[STATE_ADJ:ALL_SOLID:замороженный яичный желток]
 #: material_template_default.txt:2793
 msgctxt "MATERIAL_TEMPLATE:EGG_YOLK_TEMPLATE"
 msgid "[STATE_NAME:LIQUID:egg yolk]"
-msgstr "[STATE_NAME:LIQUID:яичный желток:яичные желтки]"
+msgstr "[STATE_NAME:LIQUID:яичный желток]"
 
 #: material_template_default.txt:2794
 msgctxt "MATERIAL_TEMPLATE:EGG_YOLK_TEMPLATE"
@@ -45850,7 +45850,7 @@ msgstr "[STATE_ADJ:ALL_SOLID:замороженное растительное �
 #: material_template_default.txt:2840
 msgctxt "MATERIAL_TEMPLATE:PLANT_OIL_TEMPLATE"
 msgid "[STATE_NAME:LIQUID:vegetable oil]"
-msgstr "[STATE_NAME:LIQUID:растительное масло:растительные масла]"
+msgstr "[STATE_NAME:LIQUID:растительное масло]"
 
 #: material_template_default.txt:2841
 msgctxt "MATERIAL_TEMPLATE:PLANT_OIL_TEMPLATE"
