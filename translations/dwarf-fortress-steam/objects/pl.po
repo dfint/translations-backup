@@ -11,6 +11,7 @@
 # Maciej Chorobiński <Sokmund1@gmail.com>, 2023
 # insolor, 2023
 # Michał Długosz <michal.d.dlugosz@gmail.com>, 2023
+# Longin Komar, 2023
 # Bartek Patelka, 2023
 # 
 msgid ""
@@ -115,27 +116,27 @@ msgstr "[BP:RA:prawa przednia noga:prawe przednie nogi]"
 #: body_default.txt:57
 msgctxt "BODY:BASIC_FRONTLEGS"
 msgid "[BP:LA:left front leg:STP]"
-msgstr "[BP:RA:lewa przednia noga:lewe przednie nogi]"
+msgstr "[BP:LA:lewa przednia noga:lewe przednie nogi]"
 
 #: body_default.txt:59
 msgctxt "BODY:BASIC_FRONTLEGS"
 msgid "[BP:RH:right front foot:right front feet]"
-msgstr "[BP:RA:prawa przednia stopa:prawe przednie stopy]"
+msgstr "[BP:RH:prawa przednia stopa:prawe przednie stopy]"
 
 #: body_default.txt:61
 msgctxt "BODY:BASIC_FRONTLEGS"
 msgid "[BP:LH:left front foot:left front feet]"
-msgstr "[BP:RA:lewa przednia stopa:lewe przednie stopy]"
+msgstr "[BP:LH:lewa przednia stopa:lewe przednie stopy]"
 
 #: body_default.txt:65
 msgctxt "BODY:BASIC_REARLEGS"
 msgid "[BP:RL:right rear leg:STP]"
-msgstr "[BP:RA:prawa tylna noga:prawe tylne nogi]"
+msgstr "[BP:RL:prawa tylna noga:prawe tylne nogi]"
 
 #: body_default.txt:67
 msgctxt "BODY:BASIC_REARLEGS"
 msgid "[BP:LL:left rear leg:STP]"
-msgstr "[BP:RA:lewa tylna noga:lewe tylne nogi]"
+msgstr "[BP:LL:lewa tylna noga:lewe tylne nogi]"
 
 #: body_default.txt:69
 msgctxt "BODY:BASIC_REARLEGS"
@@ -145,7 +146,7 @@ msgstr "[BP:RF:prawa tylna stopa:prawe tylne stopy]"
 #: body_default.txt:71
 msgctxt "BODY:BASIC_REARLEGS"
 msgid "[BP:LF:left rear foot:left rear feet]"
-msgstr "[BP:RF:lewa tylna stopa:lewe tylne stopy]"
+msgstr "[BP:LF:lewa tylna stopa:lewe tylne stopy]"
 
 #: body_default.txt:75
 msgctxt "BODY:ARMS_STANCE"
@@ -420,7 +421,7 @@ msgstr "[BP:RF:prawe kopyto:prawe kopyta]"
 #: body_default.txt:197
 msgctxt "BODY:HUMANOID_HOOF"
 msgid "[BP:LF:left hoof:left hooves]"
-msgstr "[BP:RF:lewe kopyto:lewe kopyta]"
+msgstr "[BP:LF:lewe kopyto:lewe kopyta]"
 
 #: body_default.txt:201
 msgctxt "BODY:HUMANOID_NECK"
@@ -500,7 +501,7 @@ msgstr "[BP:RF:prawa stopa:prawe stopy]"
 #: body_default.txt:231
 msgctxt "BODY:HUMANOID_NECK"
 msgid "[BP:LF:left foot:left feet]"
-msgstr "[BP:RF:lewa stopa:lewe stopy]"
+msgstr "[BP:LF:lewa stopa:lewe stopy]"
 
 #: body_default.txt:235
 msgctxt "BODY:HUMANOID_NECK_HOOF"
@@ -580,7 +581,7 @@ msgstr "[BP:RF:prawe kopyto:prawe kopyta]"
 #: body_default.txt:265
 msgctxt "BODY:HUMANOID_NECK_HOOF"
 msgid "[BP:LF:left hoof:left hooves]"
-msgstr "[BP:RF:lewe kopyto:lewe kopyta]"
+msgstr "[BP:LF:lewe kopyto:lewe kopyta]"
 
 #: body_default.txt:269
 msgctxt "BODY:HUMANOID_LEGLESS_NECK"
@@ -705,7 +706,7 @@ msgstr "[BP:RF:prawa stopa:prawe stopy]"
 #: body_default.txt:319
 msgctxt "BODY:HUMANOID_FLIER"
 msgid "[BP:LF:left foot:left feet]"
-msgstr "[BP:RF:lewa stopa:lewe stopy]"
+msgstr "[BP:LF:lewa stopa:lewe stopy]"
 
 #: body_default.txt:323
 msgctxt "BODY:HUMANOID_NECK_FLIER"
@@ -785,7 +786,7 @@ msgstr "[BP:RF:prawa stopa:prawe stopy]"
 #: body_default.txt:353
 msgctxt "BODY:HUMANOID_NECK_FLIER"
 msgid "[BP:LF:left foot:left feet]"
-msgstr "[BP:RF:lewa stopa:lewe stopy]"
+msgstr "[BP:LF:lewa stopa:lewe stopy]"
 
 #: body_default.txt:357
 msgctxt "BODY:2WINGS"
@@ -840,7 +841,7 @@ msgstr "[BP:RF:prawa stopa:prawe stopy]"
 #: body_default.txt:379
 msgctxt "BODY:HUMANOID_ARMLESS"
 msgid "[BP:LF:left foot:left feet]"
-msgstr "[BP:RF:lewa stopa:lewe stopy]"
+msgstr "[BP:LF:lewa stopa:lewe stopy]"
 
 #: body_default.txt:383
 msgctxt "BODY:HUMANOID_LEGLESS"
@@ -990,7 +991,7 @@ msgstr "[BP:RF:prawa stopa:prawe stopy]"
 #: body_default.txt:443
 msgctxt "BODY:HUMANOID_4ARMS"
 msgid "[BP:LF:left foot:left feet]"
-msgstr "[BP:RF:lewa stopa:lewe stopy]"
+msgstr "[BP:LF:lewa stopa:lewe stopy]"
 
 #: body_default.txt:447
 msgctxt "BODY:HUMANOID_6ARMS"
@@ -1125,7 +1126,7 @@ msgstr "[BP:RF:prawa stopa:prawe stopy]"
 #: body_default.txt:499
 msgctxt "BODY:HUMANOID_6ARMS"
 msgid "[BP:LF:left foot:left feet]"
-msgstr "[BP:RF:lewa stopa:lewe stopy]"
+msgstr "[BP:LF:lewa stopa:lewe stopy]"
 
 #: body_default.txt:503
 msgctxt "BODY:HUMANOID_LEGLESS_4ARMS"
@@ -1285,12 +1286,12 @@ msgstr "[BP:RUA3:trzecie prawe ramię:trzecie prawe ramiona]"
 #: body_default.txt:567
 msgctxt "BODY:HUMANOID_LEGLESS_6ARMS"
 msgid "[BP:LUA3:third left upper arm:STP]"
-msgstr "[BP:LLA3:trzecie lewe przedramię:lewe przedramiona]"
+msgstr "[BP:LUA3:trzecie lewe przedramię:lewe przedramiona]"
 
 #: body_default.txt:569
 msgctxt "BODY:HUMANOID_LEGLESS_6ARMS"
 msgid "[BP:RLA3:third right lower arm:STP]"
-msgstr "[BP:RUA3:trzecie prawe ramię:trzecie prawe ramiona]"
+msgstr "[BP:RLA3:trzecie prawe ramię:trzecie prawe ramiona]"
 
 #: body_default.txt:571
 msgctxt "BODY:HUMANOID_LEGLESS_6ARMS"
@@ -1415,7 +1416,7 @@ msgstr "[BP:RF:prawa stopa:prawe stopy]"
 #: body_default.txt:621
 msgctxt "BODY:HUMANOID_NECK_4ARMS"
 msgid "[BP:LF:left foot:left feet]"
-msgstr "[BP:RF:lewa stopa:lewe stopy]"
+msgstr "[BP:LF:lewa stopa:lewe stopy]"
 
 #: body_default.txt:625
 msgctxt "BODY:4ARMS_STANCE"
@@ -1555,7 +1556,7 @@ msgstr "[BP:RF:prawa stopa:prawe stopy]"
 #: body_default.txt:681
 msgctxt "BODY:HUMANOID_2HEAD"
 msgid "[BP:LF:left foot:left feet]"
-msgstr "[BP:RF:lewa stopa:lewe stopy]"
+msgstr "[BP:LF:lewa stopa:lewe stopy]"
 
 #: body_default.txt:685
 msgctxt "BODY:HUMANOID_NECK_2HEAD"
@@ -1645,7 +1646,7 @@ msgstr "[BP:RF:prawa stopa:prawe stopy]"
 #: body_default.txt:719
 msgctxt "BODY:HUMANOID_NECK_2HEAD"
 msgid "[BP:LF:left foot:left feet]"
-msgstr "[BP:RF:lewa stopa:lewe stopy]"
+msgstr "[BP:LF:lewa stopa:lewe stopy]"
 
 #: body_default.txt:723
 msgctxt "BODY:HUMANOID_SIMPLE"
@@ -1700,7 +1701,7 @@ msgstr "[BP:RF:prawa stopa:prawe stopy]"
 #: body_default.txt:743
 msgctxt "BODY:HUMANOID_SIMPLE"
 msgid "[BP:LF:left foot:left feet]"
-msgstr "[BP:RF:lewa stopa:lewe stopy]"
+msgstr "[BP:LF:lewa stopa:lewe stopy]"
 
 #: body_default.txt:747
 msgctxt "BODY:QUADRUPED"
@@ -1725,27 +1726,27 @@ msgstr "[BP:RA:prawa przednia noga:prawe przednie nogi]"
 #: body_default.txt:755
 msgctxt "BODY:QUADRUPED"
 msgid "[BP:LA:left front leg:STP]"
-msgstr "[BP:RA:lewa przednia noga:lewe przednie nogi]"
+msgstr "[BP:LA:lewa przednia noga:lewe przednie nogi]"
 
 #: body_default.txt:757
 msgctxt "BODY:QUADRUPED"
 msgid "[BP:RH:right front foot:right front feet]"
-msgstr "[BP:RA:prawa przednia stopa:prawe przednie stopy]"
+msgstr "[BP:RH:prawa przednia stopa:prawe przednie stopy]"
 
 #: body_default.txt:759
 msgctxt "BODY:QUADRUPED"
 msgid "[BP:LH:left front foot:left front feet]"
-msgstr "[BP:RA:lewa przednia stopa:lewe przednie stopy]"
+msgstr "[BP:LH:lewa przednia stopa:lewe przednie stopy]"
 
 #: body_default.txt:761
 msgctxt "BODY:QUADRUPED"
 msgid "[BP:RL:right rear leg:STP]"
-msgstr "[BP:RA:prawa tylna noga:prawe tylne nogi]"
+msgstr "[BP:RL:prawa tylna noga:prawe tylne nogi]"
 
 #: body_default.txt:763
 msgctxt "BODY:QUADRUPED"
 msgid "[BP:LL:left rear leg:STP]"
-msgstr "[BP:RA:lewa tylna noga:lewe tylne nogi]"
+msgstr "[BP:LL:lewa tylna noga:lewe tylne nogi]"
 
 #: body_default.txt:765
 msgctxt "BODY:QUADRUPED"
@@ -1755,7 +1756,7 @@ msgstr "[BP:RF:tylnia prawa stopa:tylnie prawe stopy]"
 #: body_default.txt:767
 msgctxt "BODY:QUADRUPED"
 msgid "[BP:LF:left rear foot:left rear feet]"
-msgstr "[BP:RF:tylnia lewa stopa:tylnie lewe stopy]"
+msgstr "[BP:LF:tylnia lewa stopa:tylnie lewe stopy]"
 
 #: body_default.txt:771
 msgctxt "BODY:QUADRUPED_NECK_FRONT_GRASP"
@@ -1785,27 +1786,27 @@ msgstr "[BP:RA:prawa przednia noga:prawe przednie nogi]"
 #: body_default.txt:781
 msgctxt "BODY:QUADRUPED_NECK_FRONT_GRASP"
 msgid "[BP:LA:left front leg:STP]"
-msgstr "[BP:RA:lewa przednia noga:lewe przednie nogi]"
+msgstr "[BP:LA:lewa przednia noga:lewe przednie nogi]"
 
 #: body_default.txt:783
 msgctxt "BODY:QUADRUPED_NECK_FRONT_GRASP"
 msgid "[BP:RH:right front foot:right front feet]"
-msgstr "[BP:RA:prawa przednia stopa:prawe przednie stopy]"
+msgstr "[BP:RH:prawa przednia stopa:prawe przednie stopy]"
 
 #: body_default.txt:785
 msgctxt "BODY:QUADRUPED_NECK_FRONT_GRASP"
 msgid "[BP:LH:left front foot:left front feet]"
-msgstr "[BP:RA:lewa przednia stopa:lewe przednie stopy]"
+msgstr "[BP:LH:lewa przednia stopa:lewe przednie stopy]"
 
 #: body_default.txt:787
 msgctxt "BODY:QUADRUPED_NECK_FRONT_GRASP"
 msgid "[BP:RL:right rear leg:STP]"
-msgstr "[BP:RA:prawa tylna noga:prawe tylne nogi]"
+msgstr "[BP:RL:prawa tylna noga:prawe tylne nogi]"
 
 #: body_default.txt:789
 msgctxt "BODY:QUADRUPED_NECK_FRONT_GRASP"
 msgid "[BP:LL:left rear leg:STP]"
-msgstr "[BP:RA:lewa tylna noga:lewe tylne nogi]"
+msgstr "[BP:LL:lewa tylna noga:lewe tylne nogi]"
 
 #: body_default.txt:791
 msgctxt "BODY:QUADRUPED_NECK_FRONT_GRASP"
@@ -1815,7 +1816,7 @@ msgstr "[BP:RF:prawa tylna stopa:prawe tylne stopy]"
 #: body_default.txt:793
 msgctxt "BODY:QUADRUPED_NECK_FRONT_GRASP"
 msgid "[BP:LF:left rear foot:left rear feet]"
-msgstr "[BP:RF:lewa tylna stopa:lewe tylne stopy]"
+msgstr "[BP:LF:lewa tylna stopa:lewe tylne stopy]"
 
 #: body_default.txt:797
 msgctxt "BODY:QUADRUPED_NECK"
@@ -1845,27 +1846,27 @@ msgstr "[BP:RA:prawa przednia noga:prawe przednie nogi]"
 #: body_default.txt:807
 msgctxt "BODY:QUADRUPED_NECK"
 msgid "[BP:LA:left front leg:STP]"
-msgstr "[BP:RA:lewa przednia noga:lewe przednie nogi]"
+msgstr "[BP:LA:lewa przednia noga:lewe przednie nogi]"
 
 #: body_default.txt:809
 msgctxt "BODY:QUADRUPED_NECK"
 msgid "[BP:RH:right front foot:right front feet]"
-msgstr "[BP:RA:prawa przednia stopa:prawe przednie stopy]"
+msgstr "[BP:RH:prawa przednia stopa:prawe przednie stopy]"
 
 #: body_default.txt:811
 msgctxt "BODY:QUADRUPED_NECK"
 msgid "[BP:LH:left front foot:left front feet]"
-msgstr "[BP:RA:lewa przednia stopa:lewe przednie stopy]"
+msgstr "[BP:LH:lewa przednia stopa:lewe przednie stopy]"
 
 #: body_default.txt:813
 msgctxt "BODY:QUADRUPED_NECK"
 msgid "[BP:RL:right rear leg:STP]"
-msgstr "[BP:RA:prawa tylna noga:prawe tylne nogi]"
+msgstr "[BP:RL:prawa tylna noga:prawe tylne nogi]"
 
 #: body_default.txt:815
 msgctxt "BODY:QUADRUPED_NECK"
 msgid "[BP:LL:left rear leg:STP]"
-msgstr "[BP:RA:lewa tylna noga:lewe tylne nogi]"
+msgstr "[BP:LL:lewa tylna noga:lewe tylne nogi]"
 
 #: body_default.txt:817
 msgctxt "BODY:QUADRUPED_NECK"
@@ -1875,7 +1876,7 @@ msgstr "[BP:RF:prawa tylna stopa:prawe tylne stopy]"
 #: body_default.txt:819
 msgctxt "BODY:QUADRUPED_NECK"
 msgid "[BP:LF:left rear foot:left rear feet]"
-msgstr "[BP:RF:lewa tylna stopa:lewe tylne stopy]"
+msgstr "[BP:LF:lewa tylna stopa:lewe tylne stopy]"
 
 #: body_default.txt:823
 msgctxt "BODY:QUADRUPED_NECK_HOOF"
@@ -1905,7 +1906,7 @@ msgstr "[BP:RA:prawa przednia noga:prawe przednie nogi]"
 #: body_default.txt:833
 msgctxt "BODY:QUADRUPED_NECK_HOOF"
 msgid "[BP:LA:left front leg:STP]"
-msgstr "[BP:RA:lewa przednia noga:lewe przednie nogi]"
+msgstr "[BP:LA:lewa przednia noga:lewe przednie nogi]"
 
 #: body_default.txt:835
 msgctxt "BODY:QUADRUPED_NECK_HOOF"
@@ -1920,12 +1921,12 @@ msgstr "[BP:LH:lewe przednie kopyto:lewe przednie kopyta]"
 #: body_default.txt:839
 msgctxt "BODY:QUADRUPED_NECK_HOOF"
 msgid "[BP:RL:right rear leg:STP]"
-msgstr "[BP:RA:prawa tylnia noga:prawe tylnie nogi]"
+msgstr "[BP:RL:prawa tylnia noga:prawe tylnie nogi]"
 
 #: body_default.txt:841
 msgctxt "BODY:QUADRUPED_NECK_HOOF"
 msgid "[BP:LL:left rear leg:STP]"
-msgstr "[BP:RA:lewa tylnia noga:lewe tylnie nogi]"
+msgstr "[BP:LL:lewa tylnia noga:lewe tylnie nogi]"
 
 #: body_default.txt:843
 msgctxt "BODY:QUADRUPED_NECK_HOOF"
@@ -2030,72 +2031,72 @@ msgstr "[BP:LB:odwłok:odwłoki]"
 #: body_default.txt:887
 msgctxt "BODY:INSECT_4LEGS_2ARMS"
 msgid "[BP:RUA:right upper foreleg:STP]"
-msgstr "[BP:RUA:prawe udo:STP]"
+msgstr "[BP:RUA:przednia prawa górna noga:przednie prawe górne nogi]"
 
 #: body_default.txt:889
 msgctxt "BODY:INSECT_4LEGS_2ARMS"
 msgid "[BP:LUA:left upper foreleg:STP]"
-msgstr "[BP:LUA:lewe udo:STP]"
+msgstr "[BP:LUA:przednia lewa górna noga:przednie lewe górne nogi]"
 
 #: body_default.txt:891
 msgctxt "BODY:INSECT_4LEGS_2ARMS"
 msgid "[BP:RLA:right lower foreleg:STP]"
-msgstr "[BP:RLA:prawe podudzie:STP]"
+msgstr "[BP:RLA:przednia prawa dolna noga:przednie prawe górne nogi]"
 
 #: body_default.txt:893
 msgctxt "BODY:INSECT_4LEGS_2ARMS"
 msgid "[BP:LLA:left lower foreleg:STP]"
-msgstr "[BP:LLA:lewe podudzie:STP]"
+msgstr "[BP:LLA:przednia lewa dolna noga:przednie lewe górne nogi]"
 
 #: body_default.txt:895
 msgctxt "BODY:INSECT_4LEGS_2ARMS"
 msgid "[BP:RF1:right forefoot:right forefeet]"
-msgstr "[BP:RF1:prawe paliczki:prawych paliczków]"
+msgstr "[BP:RF1:przednia prawa stopa:przednie prawe stopy]"
 
 #: body_default.txt:897
 msgctxt "BODY:INSECT_4LEGS_2ARMS"
 msgid "[BP:LF1:left forefoot:left forefeet]"
-msgstr "[BP:LF1:lewe paliczki:lewych paliczków]"
+msgstr "[BP:LF1:lewa przednia stopa:lewe przednie stopy]"
 
 #: body_default.txt:899
 msgctxt "BODY:INSECT_4LEGS_2ARMS"
 msgid "[BP:RA2:right second leg:STP]"
-msgstr "[BP:RA2:prawa druga noga: STP]"
+msgstr "[BP:RA2:druga prawa noga:drugie prawe nogi]"
 
 #: body_default.txt:901
 msgctxt "BODY:INSECT_4LEGS_2ARMS"
 msgid "[BP:LA2:left second leg:STP]"
-msgstr "[BP:LA2:lewa druga noga:STP]"
+msgstr "[BP:LA2:druga lewa noga:drugie lewe nogi]"
 
 #: body_default.txt:903
 msgctxt "BODY:INSECT_4LEGS_2ARMS"
 msgid "[BP:RF2:right second foot:right second feet]"
-msgstr "[BP:RF2:druga prawa stopa:drugiej prawej stopy]"
+msgstr "[BP:RF2:druga prawa stopa:drugie prawe stopy]"
 
 #: body_default.txt:905
 msgctxt "BODY:INSECT_4LEGS_2ARMS"
 msgid "[BP:LF2:left second foot:left second feet]"
-msgstr "[BP:LF2:drugiej lewej stopy:drugiej lewej stopy]"
+msgstr "[BP:LF2:druga lewa stopa:drugie lewe stopy]"
 
 #: body_default.txt:907
 msgctxt "BODY:INSECT_4LEGS_2ARMS"
 msgid "[BP:RA3:right third leg:STP]"
-msgstr "[BP:RA3:trzecia prawa noga:STP]"
+msgstr "[BP:RA3:trzecia prawa noga:trzecie prawe nogi]"
 
 #: body_default.txt:909
 msgctxt "BODY:INSECT_4LEGS_2ARMS"
 msgid "[BP:LA3:left third leg:STP]"
-msgstr "[BP:LA3:trzecia lewa noga:STP]"
+msgstr "[BP:LA3:trzecia lewa noga:trzecie lewe nogi]"
 
 #: body_default.txt:911
 msgctxt "BODY:INSECT_4LEGS_2ARMS"
 msgid "[BP:RF3:right third foot:right third feet]"
-msgstr "[BP:RF3:trzecia prawa stopa:trzeciej prawej stopy]"
+msgstr "[BP:RF3:trzecia prawa stopa:trzecie prawe stopy]"
 
 #: body_default.txt:913
 msgctxt "BODY:INSECT_4LEGS_2ARMS"
 msgid "[BP:LF3:left third foot:left third feet]"
-msgstr "[BP:LF3:trzecia lewa stopa:trzeciej lewej stopy]"
+msgstr "[BP:LF3:trzecia lewa stopa:trzecie lewe stopy]"
 
 #: body_default.txt:917
 msgctxt "BODY:SPIDER"
@@ -2105,87 +2106,87 @@ msgstr "[BP:UB:głowotułów:głowotułowia]"
 #: body_default.txt:919
 msgctxt "BODY:SPIDER"
 msgid "[BP:LB:abdomen:STP]"
-msgstr "[BP:LB:odwłok:STP]"
+msgstr "[BP:LB:odwłok:odwłoki]"
 
 #: body_default.txt:921
 msgctxt "BODY:SPIDER"
 msgid "[BP:RA1:right first leg:STP]"
-msgstr "[BP:RA1:przednia prawa noga:STP]"
+msgstr "[BP:RA1:pierwsza prawa noga:pierwsze prawe nogi]"
 
 #: body_default.txt:923
 msgctxt "BODY:SPIDER"
 msgid "[BP:LA1:left first leg:STP]"
-msgstr "[BP:LA1:lewa przednia noga: STP]"
+msgstr "[BP:LA1:pierwsza lewa noga:pierwsze lewe nogi]"
 
 #: body_default.txt:925
 msgctxt "BODY:SPIDER"
 msgid "[BP:RF1:right first foot:right first feet]"
-msgstr "[BP:RF1:prawa pierwsza stopa:prawej pierwszej stopy]"
+msgstr "[BP:RF1:pierwsza prawa stopa:pierwsze prawe stopy]"
 
 #: body_default.txt:927
 msgctxt "BODY:SPIDER"
 msgid "[BP:LF1:left first foot:left first feet]"
-msgstr "[BP:LF1:lewa pierwsza stopa:lewej pierwszej stopy]"
+msgstr "[BP:LF1:pierwsza lewa stopa:pierwsze lewe stopy]"
 
 #: body_default.txt:929
 msgctxt "BODY:SPIDER"
 msgid "[BP:RA2:right second leg:STP]"
-msgstr "[BP:RA2:prawa druga noga: STP]"
+msgstr "[BP:RA2:druga prawa noga:drugie prawe nogi]"
 
 #: body_default.txt:931
 msgctxt "BODY:SPIDER"
 msgid "[BP:LA2:left second leg:STP]"
-msgstr "[BP:LA2:lewa druga noga:STP]"
+msgstr "[BP:LA2:druga lewa noga:drugie lewe nogi]"
 
 #: body_default.txt:933
 msgctxt "BODY:SPIDER"
 msgid "[BP:RF2:right second foot:right second feet]"
-msgstr "[BP:RF2:druga prawa stopa:drugiej prawej stopy]"
+msgstr "[BP:RF2:druga prawa stopa:drugie prawe stopy]"
 
 #: body_default.txt:935
 msgctxt "BODY:SPIDER"
 msgid "[BP:LF2:left second foot:left second feet]"
-msgstr "[BP:LF2:drugiej lewej stopy:drugiej lewej stopy]"
+msgstr "[BP:LF2:druga lewa stopa:drugie lewe stopy]"
 
 #: body_default.txt:937
 msgctxt "BODY:SPIDER"
 msgid "[BP:RA3:right third leg:STP]"
-msgstr "[BP:RA3:trzecia prawa noga:STP]"
+msgstr "[BP:RA3:trzecia prawa noga:trzecie prawe nogi]"
 
 #: body_default.txt:939
 msgctxt "BODY:SPIDER"
 msgid "[BP:LA3:left third leg:STP]"
-msgstr "[BP:LA3:trzecia lewa noga:STP]"
+msgstr "[BP:LA3:trzecia lewa noga:trzecie lewe nogi]"
 
 #: body_default.txt:941
 msgctxt "BODY:SPIDER"
 msgid "[BP:RF3:right third foot:right third feet]"
-msgstr "[BP:RF3:trzecia prawa stopa:trzeciej prawej stopy]"
+msgstr "[BP:RF3:trzecia prawa stopa:trzecie prawe stopy]"
 
 #: body_default.txt:943
 msgctxt "BODY:SPIDER"
 msgid "[BP:LF3:left third foot:left third feet]"
-msgstr "[BP:LF3:trzecia lewa stopa:trzeciej lewej stopy]"
+msgstr "[BP:LF3:trzecia lewa stopa:trzecie lewe stopy]"
 
 #: body_default.txt:945
 msgctxt "BODY:SPIDER"
 msgid "[BP:RA4:right fourth leg:STP]"
-msgstr "[BP:RA4:czwarta prawa noga:STP]"
+msgstr "[BP:RA4:czwarta prawa noga:czwarte prawe nogi]"
 
 #: body_default.txt:947
 msgctxt "BODY:SPIDER"
 msgid "[BP:LA4:left fourth leg:STP]"
-msgstr "[BP:LA4:czwarta lewa noga:STP]"
+msgstr "[BP:LA4:czwarta lewa noga:czwarte lewe nogi]"
 
 #: body_default.txt:949
 msgctxt "BODY:SPIDER"
 msgid "[BP:RF4:right fourth foot:right fourth feet]"
-msgstr "[BP:RF4:czwarta prawa stopa:czwartej prawej stopy]"
+msgstr "[BP:RF4:czwarta prawa stopa:czwarte prawe stopy]"
 
 #: body_default.txt:951
 msgctxt "BODY:SPIDER"
 msgid "[BP:LF4:left fourth foot:left fourth feet]"
-msgstr "[BP:LF4:czwarta lewa stopa:czwartej lewej stopy]"
+msgstr "[BP:LF4:czwarta lewa stopa:czwarte lewe stopy]"
 
 #: body_default.txt:955
 msgctxt "BODY:CRAB_BODY"
@@ -2195,97 +2196,97 @@ msgstr "[BP:UB:głowotułów:głowotułowia]"
 #: body_default.txt:957
 msgctxt "BODY:CRAB_BODY"
 msgid "[BP:RA1:right first leg:STP]"
-msgstr "[BP:RA1:przednia prawa noga:STP]"
+msgstr "[BP:RA1:pierwsza prawa noga:pierwsze prawe nogi]"
 
 #: body_default.txt:959
 msgctxt "BODY:CRAB_BODY"
 msgid "[BP:LA1:left first leg:STP]"
-msgstr "[BP:LA1:lewa przednia noga: STP]"
+msgstr "[BP:LA1:pierwsza lewa noga:pierwsze lewe nogi]"
 
 #: body_default.txt:961
 msgctxt "BODY:CRAB_BODY"
 msgid "[BP:RF1:right first foot:right first feet]"
-msgstr "[BP:RF1:prawa pierwsza stopa:prawej pierwszej stopy]"
+msgstr "[BP:RF1:pierwsza prawa stopa:pierwsze prawe stopy]"
 
 #: body_default.txt:963
 msgctxt "BODY:CRAB_BODY"
 msgid "[BP:LF1:left first foot:left first feet]"
-msgstr "[BP:LF1:lewa pierwsza stopa:lewej pierwszej stopy]"
+msgstr "[BP:LF1:pierwsza lewa stopa:pierwsze lewe stopy]"
 
 #: body_default.txt:965
 msgctxt "BODY:CRAB_BODY"
 msgid "[BP:RA2:right second leg:STP]"
-msgstr "[BP:RA2:prawa druga noga: STP]"
+msgstr "[BP:RA2:druga prawa noga:drugie prawe nogi]"
 
 #: body_default.txt:967
 msgctxt "BODY:CRAB_BODY"
 msgid "[BP:LA2:left second leg:STP]"
-msgstr "[BP:LA2:lewa druga noga:STP]"
+msgstr "[BP:LA2:druga lewa noga:drugie lewe nogi]"
 
 #: body_default.txt:969
 msgctxt "BODY:CRAB_BODY"
 msgid "[BP:RF2:right second foot:right second feet]"
-msgstr "[BP:RF2:druga prawa stopa:drugiej prawej stopy]"
+msgstr "[BP:RF2:druga prawa stopa:drugie prawe stopy]"
 
 #: body_default.txt:971
 msgctxt "BODY:CRAB_BODY"
 msgid "[BP:LF2:left second foot:left second feet]"
-msgstr "[BP:LF2:drugiej lewej stopy:drugiej lewej stopy]"
+msgstr "[BP:LF2:druga lewa stopa:drugie lewe stopy]"
 
 #: body_default.txt:973
 msgctxt "BODY:CRAB_BODY"
 msgid "[BP:RA3:right third leg:STP]"
-msgstr "[BP:RA3:trzecia prawa noga:STP]"
+msgstr "[BP:RA3:trzecia prawa noga:trzecie prawe nogi]"
 
 #: body_default.txt:975
 msgctxt "BODY:CRAB_BODY"
 msgid "[BP:LA3:left third leg:STP]"
-msgstr "[BP:LA3:trzecia lewa noga:STP]"
+msgstr "[BP:LA3:trzecia lewa noga:trzecie lewe nogi]"
 
 #: body_default.txt:977
 msgctxt "BODY:CRAB_BODY"
 msgid "[BP:RF3:right third foot:right third feet]"
-msgstr "[BP:RF3:trzecia prawa stopa:trzeciej prawej stopy]"
+msgstr "[BP:RF3:trzecia prawa stopa:trzecie prawe stopy]"
 
 #: body_default.txt:979
 msgctxt "BODY:CRAB_BODY"
 msgid "[BP:LF3:left third foot:left third feet]"
-msgstr "[BP:LF3:trzecia lewa stopa:trzeciej lewej stopy]"
+msgstr "[BP:LF3:trzecia lewa stopa:trzecie lewe stopy]"
 
 #: body_default.txt:981
 msgctxt "BODY:CRAB_BODY"
 msgid "[BP:RA4:right fourth leg:STP]"
-msgstr "[BP:RA4:czwarta prawa noga:STP]"
+msgstr "[BP:RA4:czwarta prawa noga:czwarte prawe nogi]"
 
 #: body_default.txt:983
 msgctxt "BODY:CRAB_BODY"
 msgid "[BP:LA4:left fourth leg:STP]"
-msgstr "[BP:LA4:czwarta lewa noga:STP]"
+msgstr "[BP:LA4:czwarta lewa noga:czwarte lewe nogi]"
 
 #: body_default.txt:985
 msgctxt "BODY:CRAB_BODY"
 msgid "[BP:RF4:right fourth foot:right fourth feet]"
-msgstr "[BP:RF4:czwarta prawa stopa:czwartej prawej stopy]"
+msgstr "[BP:RF4:czwarta prawa stopa:czwarte prawe stopy]"
 
 #: body_default.txt:987
 msgctxt "BODY:CRAB_BODY"
 msgid "[BP:LF4:left fourth foot:left fourth feet]"
-msgstr "[BP:LF4:czwarta lewa stopa:czwartej lewej stopy]"
+msgstr "[BP:LF4:czwarta lewa stopa:czwarte lewe stopy]"
 
 #: body_default.txt:991
 msgctxt "BODY:TWO_NO_CLAW_TENTACLES"
 msgid "[BP:RUT:right tentacle:STP]"
-msgstr "[BP:RUT:prawa macka:STP]"
+msgstr "[BP:RUT:prawa macka:prawe macki]"
 
 #: body_default.txt:993
 msgctxt "BODY:TWO_NO_CLAW_TENTACLES"
 msgid "[BP:LUT:left tentacle:STP]"
-msgstr "[BP:LUT:lewa macka:STP]"
+msgstr "[BP:LUT:lewa macka:lewe macki]"
 
 #: body_default.txt:997
 msgctxt "BODY:TENTACLE_MOUTH"
 msgid "[BP:MOUTH:mouth:STP]"
-msgstr "[BP:MOUTH:żuchwa:STP]"
+msgstr "[BP:MOUTH:żuchwa:żuchwy]"
 
 #: body_default.txt:1001
 msgctxt "BODY:TENTACLE_TEETH"
@@ -2295,222 +2296,222 @@ msgstr "[BP:TOOTH:ząb:zęby]"
 #: body_default.txt:1005
 msgctxt "BODY:8_SIMPLE_HEAD_ARMS"
 msgid "[BP:ARM1:first arm:STP]"
-msgstr "[BP:ARM1:pierwsza kończyna górna:STP]"
+msgstr "[BP:ARM1:pierwsza kończyna górna:pierwsze kończyny górne]"
 
 #: body_default.txt:1007
 msgctxt "BODY:8_SIMPLE_HEAD_ARMS"
 msgid "[BP:ARM2:second arm:STP]"
-msgstr "[BP:ARM2:druga kończyna górna:STP]"
+msgstr "[BP:ARM2:druga kończyna górna:drugie kończyny górne]"
 
 #: body_default.txt:1009
 msgctxt "BODY:8_SIMPLE_HEAD_ARMS"
 msgid "[BP:ARM3:third arm:STP]"
-msgstr "[BP:ARM3:trzecia kończyna górna:STP]"
+msgstr "[BP:ARM3:trzecia kończyna górna:trzecie kończyny górne]"
 
 #: body_default.txt:1011
 msgctxt "BODY:8_SIMPLE_HEAD_ARMS"
 msgid "[BP:ARM4:fourth arm:STP]"
-msgstr "[BP:ARM4:czwarta kończyna górna:STP]"
+msgstr "[BP:ARM4:czwarta kończyna górna:czwarte kończyny górne]"
 
 #: body_default.txt:1013
 msgctxt "BODY:8_SIMPLE_HEAD_ARMS"
 msgid "[BP:ARM5:fifth arm:STP]"
-msgstr "[BP:ARM5:piąta kończyna górna:STP]"
+msgstr "[BP:ARM5:piąta kończyna górna:piąte kończyny górne]"
 
 #: body_default.txt:1015
 msgctxt "BODY:8_SIMPLE_HEAD_ARMS"
 msgid "[BP:ARM6:sixth arm:STP]"
-msgstr "[BP:ARM6:szósta kończyna górna:STP]"
+msgstr "[BP:ARM6:szósta kończyna górna:szóste kończyny górne]"
 
 #: body_default.txt:1017
 msgctxt "BODY:8_SIMPLE_HEAD_ARMS"
 msgid "[BP:ARM7:seventh arm:STP]"
-msgstr "[BP:ARM7:siódma kończyna górna:STP]"
+msgstr "[BP:ARM7:siódma kończyna górna:siódme kończyny górne]"
 
 #: body_default.txt:1019
 msgctxt "BODY:8_SIMPLE_HEAD_ARMS"
 msgid "[BP:ARM8:eighth arm:STP]"
-msgstr "[BP:ARM8:ósma kończyna górna:STP]"
+msgstr "[BP:ARM8:ósma kończyna górna:ósme kończyny górne]"
 
 #: body_default.txt:1023
 msgctxt "BODY:2_HEAD_CLUBBED_TENTACLES"
 msgid "[BP:RT:right tentacle:STP]"
-msgstr "[BP:RT:prawa macka:STP]"
+msgstr "[BP:RT:prawa macka:prawe macki]"
 
 #: body_default.txt:1025
 msgctxt "BODY:2_HEAD_CLUBBED_TENTACLES"
 msgid "[BP:LT:left tentacle:STP]"
-msgstr "[BP:LT:lewa macka:STP]"
+msgstr "[BP:LT:lewa macka:lewe macki]"
 
 #: body_default.txt:1027
 msgctxt "BODY:2_HEAD_CLUBBED_TENTACLES"
 msgid "[BP:RTC:right tentacle club:STP]"
-msgstr "[BP:RTC:prawa przyssawka:STP]"
+msgstr "[BP:RTC:prawa przyssawka:prawe przyssawki]"
 
 #: body_default.txt:1029
 msgctxt "BODY:2_HEAD_CLUBBED_TENTACLES"
 msgid "[BP:LTC:left tentacle club:STP]"
-msgstr "[BP:LTC:lewa przyssawka:STP]"
+msgstr "[BP:LTC:lewa przyssawka:lewe przyssawki]"
 
 #: body_default.txt:1033
 msgctxt "BODY:FOUR_TENTACLES"
 msgid "[BP:RUT:right upper tentacle:STP]"
-msgstr "[BP:RUT:prawa górna macka:STP]"
+msgstr "[BP:RUT:prawa górna macka:prawe górne macki]"
 
 #: body_default.txt:1035
 msgctxt "BODY:FOUR_TENTACLES"
 msgid "[BP:LUT:left upper tentacle:STP]"
-msgstr "[BP:LUT:lewa górna macka:STP]"
+msgstr "[BP:LUT:lewa górna macka:lewe górne macki]"
 
 #: body_default.txt:1037
 msgctxt "BODY:FOUR_TENTACLES"
 msgid "[BP:RUTC:right upper claw:STP]"
-msgstr "[BP:RUTC:prawy górny pazur:STP]"
+msgstr "[BP:RUTC:prawy górny pazur:prawe górne pazury]"
 
 #: body_default.txt:1039
 msgctxt "BODY:FOUR_TENTACLES"
 msgid "[BP:LUTC:left upper claw:STP]"
-msgstr "[BP:LUTC:lewy górny pazur:STP]"
+msgstr "[BP:LUTC:lewy górny pazur:lewe górne pazury]"
 
 #: body_default.txt:1041
 msgctxt "BODY:FOUR_TENTACLES"
 msgid "[BP:RLT:right lower tentacle:STP]"
-msgstr "[BP:RLT:prawa dolna macka:STP]"
+msgstr "[BP:RLT:prawa dolna macka:prawe dolne macki]"
 
 #: body_default.txt:1043
 msgctxt "BODY:FOUR_TENTACLES"
 msgid "[BP:LLT:left lower tentacle:STP]"
-msgstr "[BP:LLT:lewa dolna macka:STP]"
+msgstr "[BP:LLT:lewa dolna macka:lewe dolne macki]"
 
 #: body_default.txt:1045
 msgctxt "BODY:FOUR_TENTACLES"
 msgid "[BP:RLTC:right lower claw:STP]"
-msgstr "[BP:RLTC:prawy dolny pazur:STP]"
+msgstr "[BP:RLTC:prawy dolny pazur:prawe dolne pazury]"
 
 #: body_default.txt:1047
 msgctxt "BODY:FOUR_TENTACLES"
 msgid "[BP:LLTC:left lower claw:STP]"
-msgstr "[BP:LLTC:lewy dolny pazur:STP]"
+msgstr "[BP:LLTC:lewy dolny pazur:lewe dolne pazury]"
 
 #: body_default.txt:1051
 msgctxt "BODY:SIX_TENTACLES"
 msgid "[BP:RUT:right upper tentacle:STP]"
-msgstr "[BP:RUT:prawa górna macka:STP]"
+msgstr "[BP:RUT:prawa górna macka:prawe górne macki]"
 
 #: body_default.txt:1053
 msgctxt "BODY:SIX_TENTACLES"
 msgid "[BP:LUT:left upper tentacle:STP]"
-msgstr "[BP:LUT:lewa górna macka:STP]"
+msgstr "[BP:LUT:lewa górna macka:lewe górne macki]"
 
 #: body_default.txt:1055
 msgctxt "BODY:SIX_TENTACLES"
 msgid "[BP:RUTC:right upper claw:STP]"
-msgstr "[BP:RUTC:prawy górny pazur:STP]"
+msgstr "[BP:RUTC:prawy górny pazur:prawe górne pazury]"
 
 #: body_default.txt:1057
 msgctxt "BODY:SIX_TENTACLES"
 msgid "[BP:LUTC:left upper claw:STP]"
-msgstr "[BP:LUTC:lewy górny pazur:STP]"
+msgstr "[BP:LUTC:lewy górny pazur:lewe górne pazury]"
 
 #: body_default.txt:1059
 msgctxt "BODY:SIX_TENTACLES"
 msgid "[BP:RMT:right middle tentacle:STP]"
-msgstr "[BP:RMT:prawa środkowa macka:STP]"
+msgstr "[BP:RMT:prawa środkowa macka:prawe środkowe macki]"
 
 #: body_default.txt:1061
 msgctxt "BODY:SIX_TENTACLES"
 msgid "[BP:LMT:left middle tentacle:STP]"
-msgstr "[BP:LMT:lewa środkowa macka:STP]"
+msgstr "[BP:LMT:lewa środkowa macka:lewe środkowe macki]"
 
 #: body_default.txt:1063
 msgctxt "BODY:SIX_TENTACLES"
 msgid "[BP:RMTC:right middle claw:STP]"
-msgstr "[BP:RMTC:prawy środkowy pazur:STP]"
+msgstr "[BP:RMTC:prawy środkowy pazur:prawe środkowe pazury]"
 
 #: body_default.txt:1065
 msgctxt "BODY:SIX_TENTACLES"
 msgid "[BP:LMTC:left middle claw:STP]"
-msgstr "[BP:LMTC:lewy środkowy pazur:STP]"
+msgstr "[BP:LMTC:lewy środkowy pazur:lewe środkowe pazury]"
 
 #: body_default.txt:1067
 msgctxt "BODY:SIX_TENTACLES"
 msgid "[BP:RLT:right lower tentacle:STP]"
-msgstr "[BP:RLT:prawa dolna macka:STP]"
+msgstr "[BP:RLT:prawa dolna macka:prawe dolne macki]"
 
 #: body_default.txt:1069
 msgctxt "BODY:SIX_TENTACLES"
 msgid "[BP:LLT:left lower tentacle:STP]"
-msgstr "[BP:LLT:lewa dolna macka:STP]"
+msgstr "[BP:LLT:lewa dolna macka:lewe dolne macki]"
 
 #: body_default.txt:1071
 msgctxt "BODY:SIX_TENTACLES"
 msgid "[BP:RLTC:right lower claw:STP]"
-msgstr "[BP:RLTC:prawy dolny pazur:STP]"
+msgstr "[BP:RLTC:prawy dolny pazur:prawe dolne pazury]"
 
 #: body_default.txt:1073
 msgctxt "BODY:SIX_TENTACLES"
 msgid "[BP:LLTC:left lower claw:STP]"
-msgstr "[BP:LLTC:lewy dolny pazur:STP]"
+msgstr "[BP:LLTC:lewy dolny pazur:lewe dolne pazury]"
 
 #: body_default.txt:1077
 msgctxt "BODY:WAGON"
 msgid "[BP:FRONT:front:STP]"
-msgstr "[BP:FRONT:front:STP]"
+msgstr "[BP:FRONT:przód:przody]"
 
 #: body_default.txt:1079
 msgctxt "BODY:WAGON"
 msgid "[BP:BACK:back:STP]"
-msgstr "[BP:BACK:plecy:STP]"
+msgstr "[BP:BACK:tył:tyły]"
 
 #: body_default.txt:1081
 msgctxt "BODY:WAGON"
 msgid "[BP:RFW:right front wheel:STP]"
-msgstr "[BP:RFW:prawe przednie koło:STP]"
+msgstr "[BP:RFW:prawe przednie koło:prawe przednie koła]"
 
 #: body_default.txt:1083
 msgctxt "BODY:WAGON"
 msgid "[BP:LFW:left front wheel:STP]"
-msgstr "[BP:LFW:lewe przednie koło:STP]"
+msgstr "[BP:LFW:lewe przednie koło:lewe przednie koła]"
 
 #: body_default.txt:1085
 msgctxt "BODY:WAGON"
 msgid "[BP:RRW:right rear wheel:STP]"
-msgstr "[BP:RRW:prawe tylne koło:STP]"
+msgstr "[BP:RRW:prawe tylnie koło:prawe tylnie koła]"
 
 #: body_default.txt:1087
 msgctxt "BODY:WAGON"
 msgid "[BP:LRW:left rear wheel:STP]"
-msgstr "[BP:LRW:lewe tylne koło:STP]"
+msgstr "[BP:LRW:lewe tylnie koło:lewe tylnie koła]"
 
 #: body_default.txt:1091
 msgctxt "BODY:TAIL"
 msgid "[BP:TAIL:tail:STP]"
-msgstr "[BP:TAIL:ogon:STP]"
+msgstr "[BP:TAIL:ogon:ogony]"
 
 #: body_default.txt:1095
 msgctxt "BODY:SHELL"
 msgid "[BP:SHELL:shell:STP]"
-msgstr "[BP:SHELL:skorupa:STP]"
+msgstr "[BP:SHELL:muszla:muszle]"
 
 #: body_default.txt:1100
 msgctxt "BODY:TAIL_STANCE"
 msgid "[BP:TAIL:tail:STP]"
-msgstr "[BP:TAIL:ogon:STP]"
+msgstr "[BP:TAIL:ogon:ogony]"
 
 #: body_default.txt:1104
 msgctxt "BODY:TAIL_STINGER"
 msgid "[BP:TAIL_STINGER:stinger:STP]"
-msgstr "[BP:TAIL_STINGER:żądło:STP]"
+msgstr "[BP:TAIL_STINGER:żądło:żądła]"
 
 #: body_default.txt:1108
 msgctxt "BODY:UPPERBODY_PINCERS"
 msgid "[BP:R_UB_PINCER:right pincer:STP]"
-msgstr "[BP:R_UB_PINCER:lewe szczypce:STP]"
+msgstr "[BP:R_UB_PINCER:prawe szczypce:prawe szczypce]"
 
 #: body_default.txt:1110
 msgctxt "BODY:UPPERBODY_PINCERS"
 msgid "[BP:L_UB_PINCER:left pincer:STP]"
-msgstr "[BP:L_UB_PINCER:lewe szczypce:STP]"
+msgstr "[BP:L_UB_PINCER:lewe szczypce:lewe szczypce]"
 
 #: body_default.txt:1113
 msgctxt "BODY:UPPERBODY_PINCERS"
@@ -2520,7 +2521,7 @@ msgstr "[BODYGLOSS:PAW:stopa:łapa:stopy:łapy]"
 #: body_default.txt:1115
 msgctxt "BODY:UPPERBODY_PINCERS"
 msgid "[BODYGLOSS:MAW:mouth:maw:mouths:maws]"
-msgstr "[BODYGLOSS:MAW:usta:paszcza:ust:paszcze]"
+msgstr "[BODYGLOSS:MAW:usta:paszcza:usta:paszcze]"
 
 #: body_default.txt:1117
 msgctxt "BODY:UPPERBODY_PINCERS"
@@ -2540,7 +2541,7 @@ msgstr "[BODYGLOSS:HOOF:stopa:kopyto:stopy:kopyta]"
 #: body_default.txt:1123
 msgctxt "BODY:UPPERBODY_PINCERS"
 msgid "[BODYGLOSS:TRUNK:body:trunk:bodies:trunks]"
-msgstr "[BODYGLOSS:TRUNK:ciało:pień:ciała:pienie]"
+msgstr "[BODYGLOSS:TRUNK:ciało:pień:ciała:pnie]"
 
 #: body_default.txt:1125
 msgctxt "BODY:UPPERBODY_PINCERS"
@@ -2550,7 +2551,7 @@ msgstr "[BODYGLOSS:BRANCH_ARM:kończyna górna:gałąź:kończyny górne:gałęz
 #: body_default.txt:1127
 msgctxt "BODY:UPPERBODY_PINCERS"
 msgid "[BODYGLOSS:LEG_STUMP:leg:stump:legs:stumps]"
-msgstr "[BODYGLOSS:LEG_STUMP:noga:pień:nogi:pienie]"
+msgstr "[BODYGLOSS:LEG_STUMP:noga:pniak:nogi:pniaki]"
 
 #: body_default.txt:1129
 msgctxt "BODY:UPPERBODY_PINCERS"
@@ -2574,107 +2575,107 @@ msgstr ""
 #: body_default.txt:1135
 msgctxt "BODY:2EYES"
 msgid "[BP:REYE:right eye:STP]"
-msgstr "[BP:REYE:prawe oko:STP]"
+msgstr "[BP:REYE:prawe oko:prawe oczy]"
 
 #: body_default.txt:1137
 msgctxt "BODY:2EYES"
 msgid "[BP:LEYE:left eye:STP]"
-msgstr "[BP:LEYE:lewe oko:STP]"
+msgstr "[BP:LEYE:lewe oko:lewe oczy]"
 
 #: body_default.txt:1141
 msgctxt "BODY:3EYES"
 msgid "[BP:REYE:right eye:STP]"
-msgstr "[BP:REYE:prawe oko:STP]"
+msgstr "[BP:REYE:prawe oko:prawe oczy]"
 
 #: body_default.txt:1143
 msgctxt "BODY:3EYES"
 msgid "[BP:LEYE:left eye:STP]"
-msgstr "[BP:LEYE:lewe oko:STP]"
+msgstr "[BP:LEYE:lewe oko:lewe oczy]"
 
 #: body_default.txt:1145
 msgctxt "BODY:3EYES"
 msgid "[BP:EYE:center eye:STP]"
-msgstr "[BP:EYE:środkowe oko:STP]"
+msgstr "[BP:EYE:środkowe oko:środkowe oczy]"
 
 #: body_default.txt:1149
 msgctxt "BODY:4EYES"
 msgid "[BP:EYE1:first eye:STP]"
-msgstr "[BP:EYE1:pierwsze oko:STP]"
+msgstr "[BP:EYE1:pierwsze oko:pierwsze oczy]"
 
 #: body_default.txt:1151
 msgctxt "BODY:4EYES"
 msgid "[BP:EYE2:second eye:STP]"
-msgstr "[BP:EYE2:drugie oko:STP]"
+msgstr "[BP:EYE2:drugie oko:drugie oczy]"
 
 #: body_default.txt:1153
 msgctxt "BODY:4EYES"
 msgid "[BP:EYE3:third eye:STP]"
-msgstr "[BP:EYE3:trzecie oko:STP]"
+msgstr "[BP:EYE3:trzecie oko:trzecie oczy]"
 
 #: body_default.txt:1155
 msgctxt "BODY:4EYES"
 msgid "[BP:EYE4:fourth eye:STP]"
-msgstr "[BP:EYE4:czwarte oko:STP]"
+msgstr "[BP:EYE4:czwarte oko:czwarte oczy]"
 
 #: body_default.txt:1159
 msgctxt "BODY:2EYESTALKS"
 msgid "[BP:REYE:right eyestalk:STP]"
-msgstr "[BP:REYE:prawy czułek:STP]"
+msgstr "[BP:REYE:prawy czułek:prawe czułki]"
 
 #: body_default.txt:1161
 msgctxt "BODY:2EYESTALKS"
 msgid "[BP:LEYE:left eyestalk:STP]"
-msgstr "[BP:LEYE:lewy czułek:STP]"
+msgstr "[BP:LEYE:lewy czułek:lewe czułki]"
 
 #: body_default.txt:1165
 msgctxt "BODY:2TUSKS"
 msgid "[BP:RTUSK:right tusk:STP]"
-msgstr "[BP:RTUSK:prawy kieł:STP]"
+msgstr "[BP:RTUSK:prawy kieł:prawe kły]"
 
 #: body_default.txt:1167
 msgctxt "BODY:2TUSKS"
 msgid "[BP:LTUSK:left tusk:STP]"
-msgstr "[BP:LTUSK:lewy kieł:STP]"
+msgstr "[BP:LTUSK:lewy kieł:lewe kły]"
 
 #: body_default.txt:1171
 msgctxt "BODY:NOSE"
 msgid "[BP:NOSE:nose:STP]"
-msgstr "[BP:NOSE:nos:STP]"
+msgstr "[BP:NOSE:nos:nosy]"
 
 #: body_default.txt:1175
 msgctxt "BODY:SNOUT_NOSMELL"
 msgid "[BP:SNOUT:snout:STP]"
-msgstr "[BP:SNOUT:trąba:STP]"
+msgstr "[BP:SNOUT:pysk:pyski]"
 
 #: body_default.txt:1179
 msgctxt "BODY:TRUNK"
 msgid "[BP:TRUNK:trunk:STP]"
-msgstr "[BP:TRUNK:trąba:STP]"
+msgstr "[BP:TRUNK:trąba:trąby]"
 
 #: body_default.txt:1183
 msgctxt "BODY:2EARS"
 msgid "[BP:R_EAR:right ear:STP]"
-msgstr "[BP:R_EAR:prawe ucho:STP]"
+msgstr "[BP:R_EAR:prawe ucho:prawe uszy]"
 
 #: body_default.txt:1185
 msgctxt "BODY:2EARS"
 msgid "[BP:L_EAR:left ear:STP]"
-msgstr "[BP:L_EAR:lewe ucho:STP]"
+msgstr "[BP:L_EAR:lewe ucho:lewe uszy]"
 
 #: body_default.txt:1189
 msgctxt "BODY:2LUNGS"
 msgid "[BP:RLUNG:right lung:STP]"
-msgstr "[BP:RLUNG:prawe płuco:STP]"
+msgstr "[BP:RLUNG:prawe płuco:prawe płuca]"
 
 #: body_default.txt:1191
 msgctxt "BODY:2LUNGS"
 msgid "[BP:LLUNG:left lung:STP]"
-msgstr "[BP:LLUNG:lewe płuco:STP]"
+msgstr "[BP:LLUNG:lewe płuco:lewe płuca]"
 
 #: body_default.txt:1195
 msgctxt "BODY:MOUTH"
 msgid "[BP:MOUTH:mouth:STP]"
-msgstr "[BP:MOUTH:żuchwa:STP]"
+msgstr "[BP:MOUTH:żuchwa:żuchwy]"
 
 #: body_default.txt:1199
 msgctxt "BODY:PROBOSCIS"
@@ -2684,32 +2685,32 @@ msgstr "[BP:PROBOSCIS:trąba:trąby]"
 #: body_default.txt:1203
 msgctxt "BODY:BEAK"
 msgid "[BP:BEAK:beak:STP]"
-msgstr "[BP:BEAK:dziób:STP]"
+msgstr "[BP:BEAK:dziób:dzioby]"
 
 #: body_default.txt:1207
 msgctxt "BODY:HEART"
 msgid "[BP:HEART:heart:STP]"
-msgstr "[BP:HEART:serce:STP]"
+msgstr "[BP:HEART:serce:serca]"
 
 #: body_default.txt:1211
 msgctxt "BODY:GUTS"
 msgid "[BP:GUTS:guts:guts]"
-msgstr "[BP:GUTS:wnętrzności:jelita]"
+msgstr "[BP:GUTS:jelito:jelita]"
 
 #: body_default.txt:1216
 msgctxt "BODY:GIZZARD"
 msgid "[BP:GIZZARD:gizzard:STP]"
-msgstr "[BP:GIZZARD:drugi żołądek:STP]"
+msgstr "[BP:GIZZARD:żołądek mięśniowy:żołądki mięśniowe]"
 
 #: body_default.txt:1220
 msgctxt "BODY:ORGANS"
 msgid "[BP:LIVER:liver:STP]"
-msgstr "[BP:LIVER:wątroba:STP]"
+msgstr "[BP:LIVER:wątroba:wątroby]"
 
 #: body_default.txt:1222
 msgctxt "BODY:ORGANS"
 msgid "[BP:STOMACH:stomach:STP]"
-msgstr "[BP:STOMACH:żołądek:STP]"
+msgstr "[BP:STOMACH:żołądek:żołądki]"
 
 #: body_default.txt:1224
 msgctxt "BODY:ORGANS"
@@ -2719,297 +2720,298 @@ msgstr "[BP:PANCREAS:trzustka:trzustki]"
 #: body_default.txt:1226
 msgctxt "BODY:ORGANS"
 msgid "[BP:SPLEEN:spleen:STP]"
-msgstr "[BP:SPLEEN:śledziona:STP]"
+msgstr "[BP:SPLEEN:śledziona:śledziony]"
 
 #: body_default.txt:1228
 msgctxt "BODY:ORGANS"
 msgid "[BP:RKIDNEY:right kidney:STP]"
-msgstr "[BP:RKIDNEY:prawa nerka:STP]"
+msgstr "[BP:RKIDNEY:prawa nerka:prawe nerki]"
 
 #: body_default.txt:1230
 msgctxt "BODY:ORGANS"
 msgid "[BP:LKIDNEY:left kidney:STP]"
-msgstr "[BP:LKIDNEY:lewa nerka:STP]"
+msgstr "[BP:LKIDNEY:lewa nerka:lewe nerki]"
 
 #: body_default.txt:1234
 msgctxt "BODY:HUMANOID_JOINTS"
 msgid "[BP:RUA_J:right shoulder:STP]"
-msgstr "[BP:RUA_J:prawe ramię:STP]"
+msgstr "[BP:RUA_J:prawy bark:prawe barki]"
 
 #: body_default.txt:1236
 msgctxt "BODY:HUMANOID_JOINTS"
 msgid "[BP:LUA_J:left shoulder:STP]"
-msgstr "[BP:LUA_J:lewe ramię:STP]"
+msgstr "[BP:LUA_J:lewy bark:lewe barki]"
 
 #: body_default.txt:1238
 msgctxt "BODY:HUMANOID_JOINTS"
 msgid "[BP:RLA_J:right elbow:STP]"
-msgstr "[BP:RLA_J:prawy łokiećSTP]"
+msgstr "[BP:RLA_J:prawy łokieć:prawe łokcie]"
 
 #: body_default.txt:1240
 msgctxt "BODY:HUMANOID_JOINTS"
 msgid "[BP:LLA_J:left elbow:STP]"
-msgstr "[BP:LLA_J:lewy łokieć:STP]"
+msgstr "[BP:LLA_J:lewy łokieć:lewe łokcie]"
 
 #: body_default.txt:1242
 msgctxt "BODY:HUMANOID_JOINTS"
 msgid "[BP:RH_J:right wrist:STP]"
-msgstr "[BP:RH_J:prawy nadgarstek:STP]"
+msgstr "[BP:RH_J:prawy nadgarstek:prawe nadgarstki]"
 
 #: body_default.txt:1244
 msgctxt "BODY:HUMANOID_JOINTS"
 msgid "[BP:LH_J:left wrist:STP]"
-msgstr "[BP:LH_J:lewy nadgarstek:STP]"
+msgstr "[BP:LH_J:lewy nadgarstek:lewe nadgarstki]"
 
 #: body_default.txt:1246
 msgctxt "BODY:HUMANOID_JOINTS"
 msgid "[BP:RUL_J:right hip:STP]"
-msgstr "[BP:RUL_J:prawe biodro:STP]"
+msgstr "[BP:RUL_J:prawe biodro:prawe biodra]"
 
 #: body_default.txt:1248
 msgctxt "BODY:HUMANOID_JOINTS"
 msgid "[BP:LUL_J:left hip:STP]"
-msgstr "[BP:LUL_J:lewe biodro:STP]"
+msgstr "[BP:LUL_J:lewe biodro:lewe biodra]"
 
 #: body_default.txt:1250
 msgctxt "BODY:HUMANOID_JOINTS"
 msgid "[BP:RLL_J:right knee:STP]"
-msgstr "[BP:RLL_J:prawe kolano:STP]"
+msgstr "[BP:RLL_J:prawe kolano:prawe kolana]"
 
 #: body_default.txt:1252
 msgctxt "BODY:HUMANOID_JOINTS"
 msgid "[BP:LLL_J:left knee:STP]"
-msgstr "[BP:LLL_J:lewe kolano:STP]"
+msgstr "[BP:LLL_J:lewe kolano:lewe kolana]"
 
 #: body_default.txt:1254
 msgctxt "BODY:HUMANOID_JOINTS"
 msgid "[BP:RF_J:right ankle:STP]"
-msgstr "[BP:RF_J:prawa kostka:STP]"
+msgstr "[BP:RF_J:prawa kostka:prawe kostki]"
 
 #: body_default.txt:1256
 msgctxt "BODY:HUMANOID_JOINTS"
 msgid "[BP:LF_J:left ankle:STP]"
-msgstr "[BP:LF_J:lewa kostka:STP]"
+msgstr "[BP:LF_J:lewa kostka:lewe kostki]"
 
 #: body_default.txt:1260
 msgctxt "BODY:THROAT"
 msgid "[BP:THROAT:throat:STP]"
-msgstr "[BP:THROAT:gardło:STP]"
+msgstr "[BP:THROAT:gardło:gardła]"
 
 #: body_default.txt:1264
 msgctxt "BODY:NECK"
 msgid "[BP:NECK:upper spine:STP]"
-msgstr "[BP:NECK:górna część kręgosłupa:STP]"
+msgstr "[BP:NECK:szyjny odcinek kręgosłupa:szyjne odcinki kręgosłupa]"
 
 #: body_default.txt:1269
 msgctxt "BODY:SPINE"
 msgid "[BP:UPPERSPINE:middle spine:STP]"
-msgstr "[BP:UPPERSPINE:środkowa część kręgosłupa:STP]"
+msgstr ""
+"[BP:UPPERSPINE:piersiowy odcinek kręgosłupa:piersiowe odcinki kręgosłupa]"
 
 #: body_default.txt:1272
 msgctxt "BODY:SPINE"
 msgid "[BP:LOWERSPINE:lower spine:STP]"
-msgstr "[BP:LOWERSPINE:dolna część kręgosłupa:STP]"
+msgstr "[BP:LOWERSPINE:dolna część kręgosłupa:dolne części kręgosłupa]"
 
 #: body_default.txt:1277
 msgctxt "BODY:BRAIN"
 msgid "[BP:BRAIN:brain:STP]"
-msgstr "[BP:BRAIN:mózg:STP]"
+msgstr "[BP:BRAIN:mózg:mózgi]"
 
 #: body_default.txt:1281
 msgctxt "BODY:SKULL"
 msgid "[BP:SKULL:skull:STP]"
-msgstr "[BP:SKULL:czaszka:STP]"
+msgstr "[BP:SKULL:czaszka:czaszki]"
 
 #: body_default.txt:1292
 msgctxt "BODY:CASQUE"
 msgid "[BP:CASQUE:casque:STP]"
-msgstr "[BP:CASQUE:kość hełmowa:STP]"
+msgstr "[BP:CASQUE:kość hełmowa:kości hełmowe]"
 
 #: body_default.txt:1296
 msgctxt "BODY:HEAD_HORN"
 msgid "[BP:HEAD_HORN:horn:STP]"
-msgstr "[BP:HEAD_HORN:róg:STP]"
+msgstr "[BP:HEAD_HORN:róg:rogi]"
 
 #: body_default.txt:1300
 msgctxt "BODY:2HEAD_HORN"
 msgid "[BP:RHORN:right horn:STP]"
-msgstr "[BP:RHORN:prawy róg:STP]"
+msgstr "[BP:RHORN:prawy róg:prawe rogi]"
 
 #: body_default.txt:1302
 msgctxt "BODY:2HEAD_HORN"
 msgid "[BP:LHORN:left horn:STP]"
-msgstr "[BP:LHORN:lewy róg:STP]"
+msgstr "[BP:LHORN:lewy róg:lewe rogi]"
 
 #: body_default.txt:1306
 msgctxt "BODY:2HEAD_HORN_NUMBERED"
 msgid "[BP:RHORN:first horn:STP]"
-msgstr "[BP:RHORN:pierwszy róg:STP]"
+msgstr "[BP:RHORN:pierwszy róg:pierwsze rogi]"
 
 #: body_default.txt:1308
 msgctxt "BODY:2HEAD_HORN_NUMBERED"
 msgid "[BP:LHORN:second horn:STP]"
-msgstr "[BP:LHORN:drugi róg:STP]"
+msgstr "[BP:LHORN:drugi róg:drugie rogi]"
 
 #: body_default.txt:1312
 msgctxt "BODY:2HEAD_ANTLER"
 msgid "[BP:RHORN:right antler:STP]"
-msgstr "[BP:RHORN:prawy jeleni róg:STP]"
+msgstr "[BP:RHORN:prawa rosocha:prawe rosochy]"
 
 #: body_default.txt:1314
 msgctxt "BODY:2HEAD_ANTLER"
 msgid "[BP:LHORN:left antler:STP]"
-msgstr "[BP:RHORN:lewy jeleni róg:STP]"
+msgstr "[BP:RHORN:lewa rosocha:lewe rosochy]"
 
 #: body_default.txt:1318
 msgctxt "BODY:1EYE"
 msgid "[BP:EYE:eye:STP]"
-msgstr "[BP:EYE:oko:STP]"
+msgstr "[BP:EYE:oko:oczy]"
 
 #: body_default.txt:1322
 msgctxt "BODY:BODY_EYE"
 msgid "[BP:EYE:eye:STP]"
-msgstr "[BP:EYE:oko:STP]"
+msgstr "[BP:EYE:oko:oczy]"
 
 #: body_default.txt:1326
 msgctxt "BODY:BODY_EYELID"
 msgid "[BP:EYELID:eyelid:STP]"
-msgstr "[BP:EYELID:powieka:STP]"
+msgstr "[BP:EYELID:powieka:powieki]"
 
 #: body_default.txt:1330
 msgctxt "BODY:5FINGERS"
 msgid "[BP:FINGER1:thumb:STP]"
-msgstr "[BP:FINGER1:kciuk:STP]"
+msgstr "[BP:FINGER1:kciuk:kciuki]"
 
 #: body_default.txt:1332
 msgctxt "BODY:5FINGERS"
 msgid "[BP:FINGER2:first finger:STP]"
-msgstr "[BP:FINGER2:palec wskazujący:STP]"
+msgstr "[BP:FINGER2:palec wskazujący:palce wskazujące]"
 
 #: body_default.txt:1334
 msgctxt "BODY:5FINGERS"
 msgid "[BP:FINGER3:second finger:STP]"
-msgstr "[BP:FINGER3:środkowy palec:STP]"
+msgstr "[BP:FINGER3:środkowy palec:środkowe palce]"
 
 #: body_default.txt:1336
 msgctxt "BODY:5FINGERS"
 msgid "[BP:FINGER4:third finger:STP]"
-msgstr "[BP:FINGER4:palec serdeczny:STP]"
+msgstr "[BP:FINGER4:palec serdeczny:palce serdeczne]"
 
 #: body_default.txt:1338
 msgctxt "BODY:5FINGERS"
 msgid "[BP:FINGER5:fourth finger:STP]"
-msgstr "[BP:FINGER5:mały palec:STP]"
+msgstr "[BP:FINGER5:mały palec:małe palce]"
 
 #: body_default.txt:1342
 msgctxt "BODY:4FINGERS"
 msgid "[BP:FINGER1:thumb:STP]"
-msgstr "[BP:FINGER1:kciuk:STP]"
+msgstr "[BP:FINGER1:kciuk:kciuki]"
 
 #: body_default.txt:1344
 msgctxt "BODY:4FINGERS"
 msgid "[BP:FINGER2:first finger:STP]"
-msgstr "[BP:FINGER2:palec wskazujący:STP]"
+msgstr "[BP:FINGER2:palec wskazujący:palce wskazujące]"
 
 #: body_default.txt:1346
 msgctxt "BODY:4FINGERS"
 msgid "[BP:FINGER3:second finger:STP]"
-msgstr "[BP:FINGER3:środkowy palec:STP]"
+msgstr "[BP:FINGER3:palec serdeczny:palce serdeczne]"
 
 #: body_default.txt:1348
 msgctxt "BODY:4FINGERS"
 msgid "[BP:FINGER4:third finger:STP]"
-msgstr "[BP:FINGER4:palec serdeczny:STP]"
+msgstr "[BP:FINGER4:mały palec:małe palce]"
 
 #: body_default.txt:1352
 msgctxt "BODY:3FINGERS"
 msgid "[BP:FINGER1:thumb:STP]"
-msgstr "[BP:FINGER1:kciuk:STP]"
+msgstr "[BP:FINGER1:kciuk:kciuki]"
 
 #: body_default.txt:1354
 msgctxt "BODY:3FINGERS"
 msgid "[BP:FINGER2:first finger:STP]"
-msgstr "[BP:FINGER2:palec wskazujący:STP]"
+msgstr "[BP:FINGER2:pierwszy palec:pierwsze palce]"
 
 #: body_default.txt:1356
 msgctxt "BODY:3FINGERS"
 msgid "[BP:FINGER3:second finger:STP]"
-msgstr "[BP:FINGER3:środkowy palec:STP]"
+msgstr "[BP:FINGER3:drugi palec:drugie palce]"
 
 #: body_default.txt:1360
 msgctxt "BODY:2FINGERS"
 msgid "[BP:FINGER1:first finger:STP]"
-msgstr "[BP:FINGER1:pierwszy palec:STP]"
+msgstr "[BP:FINGER1:pierwszy palec:pierwsze palce]"
 
 #: body_default.txt:1362
 msgctxt "BODY:2FINGERS"
 msgid "[BP:FINGER2:second finger:STP]"
-msgstr "[BP:FINGER2drugi palec:STP]"
+msgstr "[BP:FINGER2:drugi palec:drugie palce]"
 
 #: body_default.txt:1366
 msgctxt "BODY:5TOES"
 msgid "[BP:TOE1:first toe:STP]"
-msgstr "[BP:TOE1:pierwszy palec u stopy:STP]"
+msgstr "[BP:TOE1:pierwszy palec u stopy:pierwsze palce u stopy]"
 
 #: body_default.txt:1368
 msgctxt "BODY:5TOES"
 msgid "[BP:TOE2:second toe:STP]"
-msgstr "[BP:TOE2:drugi palec u stopy:STP]"
+msgstr "[BP:TOE2:drugi palec u stopy:drugie palce u stopy]"
 
 #: body_default.txt:1370
 msgctxt "BODY:5TOES"
 msgid "[BP:TOE3:third toe:STP]"
-msgstr "[BP:TOE3:trzeci palec u stopySTP]"
+msgstr "[BP:TOE3:trzeci palec u stopy:trzecie palce u stopy]"
 
 #: body_default.txt:1372
 msgctxt "BODY:5TOES"
 msgid "[BP:TOE4:fourth toe:STP]"
-msgstr "[BP:TOE4:czwarty palec u stopy:STP]"
+msgstr "[BP:TOE4:czwarty palec u stopy:czwarte palce u stopy]"
 
 #: body_default.txt:1374
 msgctxt "BODY:5TOES"
 msgid "[BP:TOE5:fifth toe:STP]"
-msgstr "[BP:TOE5:piąty palec u stopy:STP]"
+msgstr "[BP:TOE5:piąty palec u stopy:piąte palce u stopy]"
 
 #: body_default.txt:1378
 msgctxt "BODY:4TOES"
 msgid "[BP:TOE1:first toe:STP]"
-msgstr "[BP:TOE1:pierwszy palec u stopy:STP]"
+msgstr "[BP:TOE1:pierwszy palec u stopy:pierwsze palce u stopy]"
 
 #: body_default.txt:1380
 msgctxt "BODY:4TOES"
 msgid "[BP:TOE2:second toe:STP]"
-msgstr "[BP:TOE2:drugi palec u stopy:STP]"
+msgstr "[BP:TOE2:drugi palec u stopy:drugie palce u stopy]"
 
 #: body_default.txt:1382
 msgctxt "BODY:4TOES"
 msgid "[BP:TOE3:third toe:STP]"
-msgstr "[BP:TOE3:trzeci palec u stopySTP]"
+msgstr "[BP:TOE3:trzeci palec u stopy:trzecie palce u stopy]"
 
 #: body_default.txt:1384
 msgctxt "BODY:4TOES"
 msgid "[BP:TOE4:fourth toe:STP]"
-msgstr "[BP:TOE4:czwarty palec u stopy:STP]"
+msgstr "[BP:TOE4:czwarty palec u stopy:czwarte palce u stopy]"
 
 #: body_default.txt:1388
 msgctxt "BODY:3TOES"
 msgid "[BP:TOE1:first toe:STP]"
-msgstr "[BP:TOE1:pierwszy palec u stopy:STP]"
+msgstr "[BP:TOE1:pierwszy palec u stopy:pierwsze palce u stopy]"
 
 #: body_default.txt:1390
 msgctxt "BODY:3TOES"
 msgid "[BP:TOE2:second toe:STP]"
-msgstr "[BP:TOE2:drugi palec u stopy:STP]"
+msgstr "[BP:TOE2:drugi palec u stopy:drugie palce u stopy]"
 
 #: body_default.txt:1392
 msgctxt "BODY:3TOES"
 msgid "[BP:TOE3:third toe:STP]"
-msgstr "[BP:TOE3:trzeci palec u stopySTP]"
+msgstr "[BP:TOE3:trzeci palec u stopy:trzecie palce u stopy]"
 
 #: body_default.txt:1396
 msgctxt "BODY:2TOES"
 msgid "[BP:TOE1:first toe:STP]"
-msgstr "[BP:TOE1:pierwszy palec u stopy:STP]"
+msgstr "[BP:TOE1:pierwszy palec u stopy:pierwsze palce u stopy]"
 
 #: body_default.txt:1398
 msgctxt "BODY:2TOES"
@@ -3019,547 +3021,636 @@ msgstr "[BP:TOE2:drugi palec u stopy:STP]"
 #: body_default.txt:1402
 msgctxt "BODY:5TOES_FQ_REG"
 msgid "[BP:RFTOE1:first right front toe:STP]"
-msgstr "[BP:RFTOE1:pierwszy prawy przedni palec u nogi:STP]"
+msgstr ""
+"[BP:RFTOE1:pierwszy prawy przedni palec u stopy:pierwsze prawe przednie "
+"palce u stopy]"
 
 #: body_default.txt:1404
 msgctxt "BODY:5TOES_FQ_REG"
 msgid "[BP:RFTOE2:second right front toe:STP]"
-msgstr "[BP:RFTOE2:drugi prawy przedni palec u nogi:STP]"
+msgstr ""
+"[BP:RFTOE2:drugi prawy przedni palec u stopy:drugie prawe przednie palce u "
+"stopy]"
 
 #: body_default.txt:1406
 msgctxt "BODY:5TOES_FQ_REG"
 msgid "[BP:RFTOE3:third right front toe:STP]"
-msgstr "[BP:RFTOE3:trzeci prawy przedni palec u nogi:STP]"
+msgstr ""
+"[BP:RFTOE3:trzeci prawy przedni palec u stopy:trzecie prawe przednie palce u"
+" stopy]"
 
 #: body_default.txt:1408
 msgctxt "BODY:5TOES_FQ_REG"
 msgid "[BP:RFTOE4:fourth right front toe:STP]"
-msgstr "[BP:RFTOE4:czwarty prawy przedni palec u nogi:STP]"
+msgstr ""
+"[BP:RFTOE4:czwarty prawy przedni palec u stopy:czwarte prawe przednie palce "
+"u stopy]"
 
 #: body_default.txt:1410
 msgctxt "BODY:5TOES_FQ_REG"
 msgid "[BP:RFTOE5:fifth right front toe:STP]"
-msgstr "[BP:RFTOE5:piąty prawy przedni palec u nogi:STP]"
+msgstr ""
+"[BP:RFTOE5:piąty prawy przedni palec u stopy:piąte prawe przednie palce u "
+"stopy]"
 
 #: body_default.txt:1412
 msgctxt "BODY:5TOES_FQ_REG"
 msgid "[BP:LFTOE1:first left front toe:STP]"
-msgstr "[BP:LFTOE1:pierwszy lewy przedni palec u nogi:STP]"
+msgstr ""
+"[BP:LFTOE1:pierwszy lewy przedni palec u stopy:pierwsze lewe przednie palce "
+"u stopy]"
 
 #: body_default.txt:1414
 msgctxt "BODY:5TOES_FQ_REG"
 msgid "[BP:LFTOE2:second left front toe:STP]"
-msgstr "[BP:LFTOE2:drugi lewy przedni palec u nogi:STP]"
+msgstr ""
+"[BP:LFTOE2:drugi lewy przedni palec u stopy:drugie lewe przednie palce u "
+"stopy]"
 
 #: body_default.txt:1416
 msgctxt "BODY:5TOES_FQ_REG"
 msgid "[BP:LFTOE3:third left front toe:STP]"
-msgstr "[BP:LFTOE3:trzeci prawy przedni palec u nogi:STP]"
+msgstr ""
+"[BP:LFTOE3:trzeci prawy przedni palec u stopy:trzecie lewe przednie palce u "
+"stopy]"
 
 #: body_default.txt:1418
 msgctxt "BODY:5TOES_FQ_REG"
 msgid "[BP:LFTOE4:fourth left front toe:STP]"
-msgstr "[BP:LFTOE4:czwarty lewy przedni palec u nogi:STP]"
+msgstr ""
+"[BP:LFTOE4:czwarty lewy przedni palec u stopy:czwarte lewe przednie palce u "
+"stopy]"
 
 #: body_default.txt:1420
 msgctxt "BODY:5TOES_FQ_REG"
 msgid "[BP:LFTOE5:fifth left front toe:STP]"
-msgstr "[BP:LFTOE5:piąty lewy przedni palec u nogi:STP]"
+msgstr ""
+"[BP:LFTOE5:piąty lewy przedni palec u stopy:piąte lewe przednie palce u "
+"stopy]"
 
 #: body_default.txt:1424
 msgctxt "BODY:4TOES_FQ_REG"
 msgid "[BP:RFTOE1:first right front toe:STP]"
-msgstr "[BP:RFTOE1:pierwszy prawy przedni palec u nogi:STP]"
+msgstr ""
+"[BP:RFTOE1:pierwszy prawy przedni palec u stopy:pierwsze prawe przednie "
+"palce u stopy]"
 
 #: body_default.txt:1426
 msgctxt "BODY:4TOES_FQ_REG"
 msgid "[BP:RFTOE2:second right front toe:STP]"
-msgstr "[BP:RFTOE2:drugi prawy przedni palec u nogi:STP]"
+msgstr ""
+"[BP:RFTOE2:drugi prawy przedni palec u stopy:drugie prawe przednie palce u "
+"stopy]"
 
 #: body_default.txt:1428
 msgctxt "BODY:4TOES_FQ_REG"
 msgid "[BP:RFTOE3:third right front toe:STP]"
-msgstr "[BP:RFTOE3:trzeci prawy przedni palec u nogi:STP]"
+msgstr ""
+"[BP:RFTOE3:trzeci prawy przedni palec u stopy:trzecie prawe przednie palce u"
+" stopy]"
 
 #: body_default.txt:1430
 msgctxt "BODY:4TOES_FQ_REG"
 msgid "[BP:RFTOE4:fourth right front toe:STP]"
-msgstr "[BP:RFTOE4:czwarty prawy przedni palec u nogi:STP]"
+msgstr ""
+"[BP:RFTOE4:czwarty prawy przedni palec u stopy:czwarte prawe przednie palce "
+"u stopy]"
 
 #: body_default.txt:1432
 msgctxt "BODY:4TOES_FQ_REG"
 msgid "[BP:LFTOE1:first left front toe:STP]"
-msgstr "[BP:LFTOE1:pierwszy lewy przedni palec u nogi:STP]"
+msgstr ""
+"[BP:LFTOE1:pierwszy lewy przedni palec u stopy:pierwsze lewe przednie palce "
+"u stopy]"
 
 #: body_default.txt:1434
 msgctxt "BODY:4TOES_FQ_REG"
 msgid "[BP:LFTOE2:second left front toe:STP]"
-msgstr "[BP:LFTOE2:drugi lewy przedni palec u nogi:STP]"
+msgstr ""
+"[BP:LFTOE2:drugi lewy przedni palec u stopy:drugie lewe przednie palce u "
+"stopy]"
 
 #: body_default.txt:1436
 msgctxt "BODY:4TOES_FQ_REG"
 msgid "[BP:LFTOE3:third left front toe:STP]"
-msgstr "[BP:LFTOE3:trzeci prawy przedni palec u nogi:STP]"
+msgstr ""
+"[BP:LFTOE3:trzeci prawy przedni palec u stopy:trzecie lewe przednie palce u "
+"stopy]"
 
 #: body_default.txt:1438
 msgctxt "BODY:4TOES_FQ_REG"
 msgid "[BP:LFTOE4:fourth left front toe:STP]"
-msgstr "[BP:LFTOE4:czwarty lewy przedni palec u nogi:STP]"
+msgstr ""
+"[BP:LFTOE4:czwarty lewy przedni palec u stopy:czwarte lewe przednie palce u "
+"stopy]"
 
 #: body_default.txt:1442
 msgctxt "BODY:3TOES_FQ_REG"
 msgid "[BP:RFTOE1:first right front toe:STP]"
-msgstr "[BP:RFTOE1:pierwszy prawy przedni palec u nogi:STP]"
+msgstr ""
+"[BP:RFTOE1:pierwszy prawy przedni palec u stopy:pierwsze prawe przednie "
+"palce u stopy]"
 
 #: body_default.txt:1444
 msgctxt "BODY:3TOES_FQ_REG"
 msgid "[BP:RFTOE2:second right front toe:STP]"
-msgstr "[BP:RFTOE2:drugi prawy przedni palec u nogi:STP]"
+msgstr ""
+"[BP:RFTOE2:drugi prawy przedni palec u stopy:drugie prawe przednie palce u "
+"stopy]"
 
 #: body_default.txt:1446
 msgctxt "BODY:3TOES_FQ_REG"
 msgid "[BP:RFTOE3:third right front toe:STP]"
-msgstr "[BP:RFTOE3:trzeci prawy przedni palec u nogi:STP]"
+msgstr ""
+"[BP:RFTOE3:trzeci prawy przedni palec u stopy:trzecie prawe przednie palce u"
+" stopy]"
 
 #: body_default.txt:1448
 msgctxt "BODY:3TOES_FQ_REG"
 msgid "[BP:LFTOE1:first left front toe:STP]"
-msgstr "[BP:LFTOE1:pierwszy lewy przedni palec u nogi:STP]"
+msgstr "[BP:LFTOE1:pierwszy lewy przedni palec u stopy:STP]"
 
 #: body_default.txt:1450
 msgctxt "BODY:3TOES_FQ_REG"
 msgid "[BP:LFTOE2:second left front toe:STP]"
-msgstr "[BP:LFTOE2:drugi lewy przedni palec u nogi:STP]"
+msgstr ""
+"[BP:LFTOE2:drugi lewy przedni palec u stopy:drugie lewe przednie palce u "
+"stopy]"
 
 #: body_default.txt:1452
 msgctxt "BODY:3TOES_FQ_REG"
 msgid "[BP:LFTOE3:third left front toe:STP]"
-msgstr "[BP:LFTOE3:trzeci prawy przedni palec u nogi:STP]"
+msgstr ""
+"[BP:LFTOE3:trzeci prawy przedni palec u stopy:trzecie lewe przednie palce u "
+"stopy]"
 
 #: body_default.txt:1456
 msgctxt "BODY:5TOES_RQ_REG"
 msgid "[BP:RRTOE1:first right rear toe:STP]"
-msgstr "[BP:RRTOE1:pierwszy prawy tylni palec u nogi:STP]"
+msgstr ""
+"[BP:RRTOE1:pierwszy prawy tylni palec u stopy:pierwsze prawe tylnie palce u "
+"stopy]"
 
 #: body_default.txt:1458
 msgctxt "BODY:5TOES_RQ_REG"
 msgid "[BP:RRTOE2:second right rear toe:STP]"
-msgstr "[BP:RRTOE2:drugi prawy tylni palec u nogi:STP]"
+msgstr ""
+"[BP:RRTOE2:drugi prawy tylni palec u stopy:drugie prawe tylnie palce u "
+"stopy]"
 
 #: body_default.txt:1460
 msgctxt "BODY:5TOES_RQ_REG"
 msgid "[BP:RRTOE3:third right rear toe:STP]"
-msgstr "[BP:RRTOE3:trzeci prawy tylni palec u nogi:STP]"
+msgstr ""
+"[BP:RRTOE3:trzeci prawy tylni palec u stopy:trzecie prawe tylnie palce u "
+"stopy]"
 
 #: body_default.txt:1462
 msgctxt "BODY:5TOES_RQ_REG"
 msgid "[BP:RRTOE4:fourth right rear toe:STP]"
-msgstr "[BP:RRTOE4:czwarty prawy tylni palec u nogi:STP]"
+msgstr ""
+"[BP:RRTOE4:czwarty prawy tylni palec u stopy:czwarte prawe tylnie palce u "
+"stopy]"
 
 #: body_default.txt:1464
 msgctxt "BODY:5TOES_RQ_REG"
 msgid "[BP:RRTOE5:fifth right rear toe:STP]"
-msgstr "[BP:RRTOE5:piąty prawy tylni palec u nogi:STP]"
+msgstr ""
+"[BP:RRTOE5:piąty prawy tylni palec u stopy:piąte prawe tylnie palce u stopy]"
 
 #: body_default.txt:1466
 msgctxt "BODY:5TOES_RQ_REG"
 msgid "[BP:LRTOE1:first left rear toe:STP]"
-msgstr "[BP:LRTOE1:pierwszy lewy tylni palec u nogi:STP]"
+msgstr ""
+"[BP:LRTOE1:pierwszy lewy tylni palec u stopy:pierwsze lewe tylnie palce u "
+"stopy]"
 
 #: body_default.txt:1468
 msgctxt "BODY:5TOES_RQ_REG"
 msgid "[BP:LRTOE2:second left rear toe:STP]"
-msgstr "[BP:LRTOE2:drugi lewy tylni palec u nogi:STP]"
+msgstr ""
+"[BP:LRTOE2:drugi lewy tylni palec u stopy:drugie lewe tylnie palce u stopy]"
 
 #: body_default.txt:1470
 msgctxt "BODY:5TOES_RQ_REG"
 msgid "[BP:LRTOE3:third left rear toe:STP]"
-msgstr "[BP:LRTOE3:trzeci lewy tylni palec u nogi:STP]"
+msgstr ""
+"[BP:LRTOE3:trzeci lewy tylni palec u stopy:trzecie lewe tylnie palce u "
+"stopy]"
 
 #: body_default.txt:1472
 msgctxt "BODY:5TOES_RQ_REG"
 msgid "[BP:LRTOE4:fourth left rear toe:STP]"
-msgstr "[BP:LRTOE4:czwarty lewy tylni palec u nogi:STP]"
+msgstr ""
+"[BP:LRTOE4:czwarty lewy tylni palec u stopy:czwarte lewe tylnie palce u "
+"stopy]"
 
 #: body_default.txt:1474
 msgctxt "BODY:5TOES_RQ_REG"
 msgid "[BP:LRTOE5:fifth left rear toe:STP]"
-msgstr "[BP:LRTOE5:piąty lewy tylni palec u nogi:STP]"
+msgstr ""
+"[BP:LRTOE5:piąty lewy tylni palec u stopy:piąte lewe tylnie palce u stopy]"
 
 #: body_default.txt:1478
 msgctxt "BODY:4TOES_RQ_REG"
 msgid "[BP:RRTOE1:first right rear toe:STP]"
-msgstr "[BP:RRTOE1:pierwszy prawy tylni palec u nogi:STP]"
+msgstr ""
+"[BP:RRTOE1:pierwszy prawy tylni palec u stopy:pierwsze prawe tylnie palce u "
+"stopy]"
 
 #: body_default.txt:1480
 msgctxt "BODY:4TOES_RQ_REG"
 msgid "[BP:RRTOE2:second right rear toe:STP]"
-msgstr "[BP:RRTOE2:drugi prawy tylni palec u nogi:STP]"
+msgstr ""
+"[BP:RRTOE2:drugi prawy tylni palec u stopy:drugie prawe tylnie palce u "
+"stopy]"
 
 #: body_default.txt:1482
 msgctxt "BODY:4TOES_RQ_REG"
 msgid "[BP:RRTOE3:third right rear toe:STP]"
-msgstr "[BP:RRTOE3:trzeci prawy tylni palec u nogi:STP]"
+msgstr ""
+"[BP:RRTOE3:trzeci prawy tylni palec u stopy:trzecie prawe tylnie palce u "
+"stopy]"
 
 #: body_default.txt:1484
 msgctxt "BODY:4TOES_RQ_REG"
 msgid "[BP:RRTOE4:fourth right rear toe:STP]"
-msgstr "[BP:RRTOE4:czwarty prawy tylni palec u nogi:STP]"
+msgstr ""
+"[BP:RRTOE4:czwarty prawy tylni palec u stopy:czwarte prawe tylnie palce u "
+"stopy]"
 
 #: body_default.txt:1486
 msgctxt "BODY:4TOES_RQ_REG"
 msgid "[BP:LRTOE1:first left rear toe:STP]"
-msgstr "[BP:LRTOE1:pierwszy lewy tylni palec u nogi:STP]"
+msgstr ""
+"[BP:LRTOE1:pierwszy lewy tylni palec u stopy:pierwsze lewe tylnie palce u "
+"stopy]"
 
 #: body_default.txt:1488
 msgctxt "BODY:4TOES_RQ_REG"
 msgid "[BP:LRTOE2:second left rear toe:STP]"
-msgstr "[BP:LRTOE2:drugi lewy tylni palec u nogi:STP]"
+msgstr ""
+"[BP:LRTOE2:drugi lewy tylni palec u stopy:drugie lewe tylnie palce u stopy]"
 
 #: body_default.txt:1490
 msgctxt "BODY:4TOES_RQ_REG"
 msgid "[BP:LRTOE3:third left rear toe:STP]"
-msgstr "[BP:LRTOE3:trzeci lewy tylni palec u nogi:STP]"
+msgstr ""
+"[BP:LRTOE3:trzeci lewy tylni palec u stopy:trzecie lewe tylnie palce u "
+"stopy]"
 
 #: body_default.txt:1492
 msgctxt "BODY:4TOES_RQ_REG"
 msgid "[BP:LRTOE4:fourth left rear toe:STP]"
-msgstr "[BP:LRTOE4:czwarty lewy tylni palec u nogi:STP]"
+msgstr ""
+"[BP:LRTOE4:czwarty lewy tylni palec u stopy:czwarte lewe tylnie palce u "
+"stopy]"
 
 #: body_default.txt:1496
 msgctxt "BODY:3TOES_RQ_REG"
 msgid "[BP:RRTOE1:first right rear toe:STP]"
-msgstr "[BP:RRTOE1:pierwszy prawy tylni palec u nogi:STP]"
+msgstr ""
+"[BP:RRTOE1:pierwszy prawy tylni palec u stopy:pierwsze prawe tylnie palce u "
+"stopy]"
 
 #: body_default.txt:1498
 msgctxt "BODY:3TOES_RQ_REG"
 msgid "[BP:RRTOE2:second right rear toe:STP]"
-msgstr "[BP:RRTOE2:drugi prawy tylni palec u nogi:STP]"
+msgstr ""
+"[BP:RRTOE2:drugi prawy tylni palec u stopy:drugie prawe tylnie palce u "
+"stopy]"
 
 #: body_default.txt:1500
 msgctxt "BODY:3TOES_RQ_REG"
 msgid "[BP:RRTOE3:third right rear toe:STP]"
-msgstr "[BP:RRTOE3:trzeci prawy tylni palec u nogi:STP]"
+msgstr ""
+"[BP:RRTOE3:trzeci prawy tylni palec u stopy:trzecie prawe tylnie palce u "
+"stopy]"
 
 #: body_default.txt:1502
 msgctxt "BODY:3TOES_RQ_REG"
 msgid "[BP:LRTOE1:first left rear toe:STP]"
-msgstr "[BP:LRTOE1:pierwszy lewy tylni palec u nogi:STP]"
+msgstr ""
+"[BP:LRTOE1:pierwszy lewy tylni palec u stopy:pierwsze lewe tylnie palce u "
+"stopy]"
 
 #: body_default.txt:1504
 msgctxt "BODY:3TOES_RQ_REG"
 msgid "[BP:LRTOE2:second left rear toe:STP]"
-msgstr "[BP:LRTOE2:drugi lewy tylni palec u nogi:STP]"
+msgstr ""
+"[BP:LRTOE2:drugi lewy tylni palec u stopy:drugie lewe tylnie palce u stopy]"
 
 #: body_default.txt:1506
 msgctxt "BODY:3TOES_RQ_REG"
 msgid "[BP:LRTOE3:third left rear toe:STP]"
-msgstr "[BP:LRTOE3:trzeci lewy tylni palec u nogi:STP]"
+msgstr ""
+"[BP:LRTOE3:trzeci lewy tylni palec u stopy:trzecie lewe tylnie palce u "
+"stopy]"
 
 #: body_default.txt:1510
 msgctxt "BODY:5TOES_RQ_ANON"
 msgid "[BP:RRTOE1:first right toe:STP]"
-msgstr "[BP:RRTOE1:pierwszy prawy palec u nogi:STP]"
+msgstr "[BP:RRTOE1:pierwszy prawy palec u stopy:pierwsze prawe palce u stopy]"
 
 #: body_default.txt:1512
 msgctxt "BODY:5TOES_RQ_ANON"
 msgid "[BP:RRTOE2:second right toe:STP]"
-msgstr "[BP:RRTOE2:drugi prawy palec u nogi:STP]"
+msgstr "[BP:RRTOE2:drugi prawy palec u stopy:drugie prawe palce u stopy]"
 
 #: body_default.txt:1514
 msgctxt "BODY:5TOES_RQ_ANON"
 msgid "[BP:RRTOE3:third right toe:STP]"
-msgstr "[BP:RRTOE3:trzeci prawy palec u nogi:STP]"
+msgstr "[BP:RRTOE3:trzeci prawy palec u stopy:trzecie prawe palce u stopy]"
 
 #: body_default.txt:1516
 msgctxt "BODY:5TOES_RQ_ANON"
 msgid "[BP:RRTOE4:fourth right toe:STP]"
-msgstr "[BP:RRTOE4:czwarty prawy palec u nogi:STP]"
+msgstr "[BP:RRTOE4:czwarty prawy palec u stopy:czwarte prawe palce u stopy]"
 
 #: body_default.txt:1518
 msgctxt "BODY:5TOES_RQ_ANON"
 msgid "[BP:RRTOE5:fifth right toe:STP]"
-msgstr "[BP:RRTOE5:piąty prawy palec u nogi:STP]"
+msgstr "[BP:RRTOE5:piąty prawy palec u stopy:piąte prawe palce u stopy]"
 
 #: body_default.txt:1520
 msgctxt "BODY:5TOES_RQ_ANON"
 msgid "[BP:LRTOE1:first left toe:STP]"
-msgstr "[BP:LRTOE1:pierwszy lewy palec u nogi:STP]"
+msgstr "[BP:LRTOE1:pierwszy lewy palec u stopy:pierwsze lewe palce u stopy]"
 
 #: body_default.txt:1522
 msgctxt "BODY:5TOES_RQ_ANON"
 msgid "[BP:LRTOE2:second left toe:STP]"
-msgstr "[BP:LRTOE2:drugi lewy palec u nogi:STP]"
+msgstr "[BP:LRTOE2:drugi lewy palec u stopy:drugie lewe palce u stopy]"
 
 #: body_default.txt:1524
 msgctxt "BODY:5TOES_RQ_ANON"
 msgid "[BP:LRTOE3:third left toe:STP]"
-msgstr "[BP:LRTOE3:trzeci lewy palec u nogi:STP]"
+msgstr "[BP:LRTOE3:trzeci lewy palec u stopy:trzecie lewe palce u stopy]"
 
 #: body_default.txt:1526
 msgctxt "BODY:5TOES_RQ_ANON"
 msgid "[BP:LRTOE4:fourth left toe:STP]"
-msgstr "[BP:LRTOE4:czwarty lewy palec u nogi:STP]"
+msgstr "[BP:LRTOE4:czwarty lewy palec u stopy:czwarte lewe palce u stopy]"
 
 #: body_default.txt:1528
 msgctxt "BODY:5TOES_RQ_ANON"
 msgid "[BP:LRTOE5:fifth left toe:STP]"
-msgstr "[BP:LRTOE5:piąty lewy palec u nogi:STP]"
+msgstr "[BP:LRTOE5:piąty lewy palec u stopy:piąte lewe palce u stopy]"
 
 #: body_default.txt:1532
 msgctxt "BODY:5TOES_FQ_FINGERS"
 msgid "[BP:RFTOE1:first right finger:STP]"
-msgstr "[BP:RFTOE1:pierwszy prawy palec:STP]"
+msgstr "[BP:RFTOE1:pierwszy prawy palec:pierwsze prawe palce]"
 
 #: body_default.txt:1534
 msgctxt "BODY:5TOES_FQ_FINGERS"
 msgid "[BP:RFTOE2:second right finger:STP]"
-msgstr "[BP:RFTOE2:drugi prawy palec:STP]"
+msgstr "[BP:RFTOE2:drugi prawy palec:drugie prawe palce]"
 
 #: body_default.txt:1536
 msgctxt "BODY:5TOES_FQ_FINGERS"
 msgid "[BP:RFTOE3:third right finger:STP]"
-msgstr "[BP:RFTOE3:trzeci prawy palec:STP]"
+msgstr "[BP:RFTOE3:trzeci prawy palec:trzecie prawe palce]"
 
 #: body_default.txt:1538
 msgctxt "BODY:5TOES_FQ_FINGERS"
 msgid "[BP:RFTOE4:fourth right finger:STP]"
-msgstr "[BP:RFTOE4:czwarty prawy palec:STP]"
+msgstr "[BP:RFTOE4:czwarty prawy palec:czwarte prawe palce]"
 
 #: body_default.txt:1540
 msgctxt "BODY:5TOES_FQ_FINGERS"
 msgid "[BP:RFTOE5:fifth right finger:STP]"
-msgstr "[BP:RFTOE5:piąty prawy palec:STP]"
+msgstr "[BP:RFTOE5:piąty prawy palec:piąte prawe palce]"
 
 #: body_default.txt:1542
 msgctxt "BODY:5TOES_FQ_FINGERS"
 msgid "[BP:LFTOE1:first left finger:STP]"
-msgstr "[BP:LFTOE1:pierwszy lewy palec:STP]"
+msgstr "[BP:LFTOE1:pierwszy lewy palec:pierwsze lewe palce]"
 
 #: body_default.txt:1544
 msgctxt "BODY:5TOES_FQ_FINGERS"
 msgid "[BP:LFTOE2:second left finger:STP]"
-msgstr "[BP:LFTOE2:drugi lewy palec:STP]"
+msgstr "[BP:LFTOE2:drugi lewy palec:drugie lewe palce]"
 
 #: body_default.txt:1546
 msgctxt "BODY:5TOES_FQ_FINGERS"
 msgid "[BP:LFTOE3:third left finger:STP]"
-msgstr "[BP:LFTOE3:trzeci lewy palec:STP]"
+msgstr "[BP:LFTOE3:trzeci lewy palec:trzecie lewe palce]"
 
 #: body_default.txt:1548
 msgctxt "BODY:5TOES_FQ_FINGERS"
 msgid "[BP:LFTOE4:fourth left finger:STP]"
-msgstr "[BP:LFTOE4:czwarty lewy palec:STP]"
+msgstr "[BP:LFTOE4:czwarty lewy palec:czwarte lewe palce]"
 
 #: body_default.txt:1550
 msgctxt "BODY:5TOES_FQ_FINGERS"
 msgid "[BP:LFTOE5:fifth left finger:STP]"
-msgstr "[BP:LFTOE5:piąty lewy palec:STP]"
+msgstr "[BP:LFTOE5:piąty lewy palec:piąte lewe palce]"
 
 #: body_default.txt:1554
 msgctxt "BODY:4TOES_FQ_FINGERS"
 msgid "[BP:RFTOE1:first right finger:STP]"
-msgstr "[BP:RFTOE1:pierwszy prawy palec:STP]"
+msgstr "[BP:RFTOE1:pierwszy prawy palec:pierwsze prawe palce]"
 
 #: body_default.txt:1556
 msgctxt "BODY:4TOES_FQ_FINGERS"
 msgid "[BP:RFTOE2:second right finger:STP]"
-msgstr "[BP:RFTOE2:drugi prawy palec:STP]"
+msgstr "[BP:RFTOE2:drugi prawy palec:drugie prawe palce]"
 
 #: body_default.txt:1558
 msgctxt "BODY:4TOES_FQ_FINGERS"
 msgid "[BP:RFTOE3:third right finger:STP]"
-msgstr "[BP:RFTOE3:trzeci prawy palec:STP]"
+msgstr "[BP:RFTOE3:trzeci prawy palec:trzecie prawe palce]"
 
 #: body_default.txt:1560
 msgctxt "BODY:4TOES_FQ_FINGERS"
 msgid "[BP:RFTOE4:fourth right finger:STP]"
-msgstr "[BP:RFTOE4:czwarty prawy palec:STP]"
+msgstr "[BP:RFTOE4:czwarty prawy palec:czwarte prawe palce]"
 
 #: body_default.txt:1562
 msgctxt "BODY:4TOES_FQ_FINGERS"
 msgid "[BP:LFTOE1:first left finger:STP]"
-msgstr "[BP:LFTOE1:pierwszy lewy palec:STP]"
+msgstr "[BP:LFTOE1:pierwszy lewy palec:pierwsze lewe palce]"
 
 #: body_default.txt:1564
 msgctxt "BODY:4TOES_FQ_FINGERS"
 msgid "[BP:LFTOE2:second left finger:STP]"
-msgstr "[BP:LFTOE2:drugi lewy palec:STP]"
+msgstr "[BP:LFTOE2:drugi lewy palec:drugie lewe palce]"
 
 #: body_default.txt:1566
 msgctxt "BODY:4TOES_FQ_FINGERS"
 msgid "[BP:LFTOE3:third left finger:STP]"
-msgstr "[BP:LFTOE3:trzeci lewy palec:STP]"
+msgstr "[BP:LFTOE3:trzeci lewy palec:trzecie lewe palce]"
 
 #: body_default.txt:1568
 msgctxt "BODY:4TOES_FQ_FINGERS"
 msgid "[BP:LFTOE4:fourth left finger:STP]"
-msgstr "[BP:LFTOE4:czwarty lewy palec:STP]"
+msgstr "[BP:LFTOE4:czwarty lewy palec:czwarte lewe palce]"
 
 #: body_default.txt:1572
 msgctxt "BODY:SIDE_FINS"
 msgid "[BP:R_FIN:right fin:STP]"
-msgstr "[BP:R_FIN:prawa płetwa:STP]"
+msgstr "[BP:R_FIN:prawa płetwa:prawe płetwy]"
 
 #: body_default.txt:1574
 msgctxt "BODY:SIDE_FINS"
 msgid "[BP:L_FIN:left fin:STP]"
-msgstr "[BP:L_FIN:lewa płetwa:STP]"
+msgstr "[BP:L_FIN:lewa płetwa:lewe płetwy]"
 
 #: body_default.txt:1578
 msgctxt "BODY:DORSAL_FIN"
 msgid "[BP:DORSAL_FIN:dorsal fin:STP]"
-msgstr "[BP:DORSAL_FIN:płetwa grzbietowa:STP]"
+msgstr "[BP:DORSAL_FIN:płetwa grzbietowa:płetwy grzbietowe]"
 
 #: body_default.txt:1582
 msgctxt "BODY:SIDE_FLIPPERS"
 msgid "[BP:R_FLIP:right flipper:STP]"
-msgstr "[BP:R_FLIP:prawa płetwa:STP]"
+msgstr "[BP:R_FLIP:prawa płetwa:prawe płetwy]"
 
 #: body_default.txt:1584
 msgctxt "BODY:SIDE_FLIPPERS"
 msgid "[BP:L_FLIP:left flipper:STP]"
-msgstr "[BP:L_FLIP:lewa płetwa:STP]"
+msgstr "[BP:L_FLIP:lewa płetwa:lewe płetwy]"
 
 #: body_default.txt:1588
 msgctxt "BODY:FRONT_BODY_FLIPPERS"
 msgid "[BP:RFFLIP:right front flipper:STP]"
-msgstr "[BP:RFFLIP:prawa przednia płetwa:STP]"
+msgstr "[BP:RFFLIP:prawa przednia płetwa:prawe przednie płetwy]"
 
 #: body_default.txt:1590
 msgctxt "BODY:FRONT_BODY_FLIPPERS"
 msgid "[BP:LFFLIP:left front flipper:STP]"
-msgstr "[BP:LFFLIP:lewa przednia płetwa:STP]"
+msgstr "[BP:LFFLIP:lewa przednia płetwa:lewe przednie płetwy]"
 
 #: body_default.txt:1594
 msgctxt "BODY:REAR_BODY_FLIPPERS"
 msgid "[BP:RRFLIP:right rear flipper:STP]"
-msgstr "[BP:RRFLIP:prawa tylna płetwa:STP]"
+msgstr "[BP:RRFLIP:prawa tylna płetwa:prawe tylnie płetwy]"
 
 #: body_default.txt:1596
 msgctxt "BODY:REAR_BODY_FLIPPERS"
 msgid "[BP:LRFLIP:left rear flipper:STP]"
-msgstr "[BP:LRFLIP:lewa tylna płetwa:STP]"
+msgstr "[BP:LRFLIP:lewa tylna płetwa:lewe tylnie płetwy]"
 
 #: body_default.txt:1600
 msgctxt "BODY:1HUMP"
 msgid "[BP:HUMP1:hump:STP]"
-msgstr "[BP:HUMP1:garb:STP]"
+msgstr "[BP:HUMP1:garb:garby]"
 
 #: body_default.txt:1604
 msgctxt "BODY:2HUMPS"
 msgid "[BP:HUMP1:front hump:STP]"
-msgstr "[BP:HUMP1:przedni garb:STP]"
+msgstr "[BP:HUMP1:przedni garb:przednie garby]"
 
 #: body_default.txt:1606
 msgctxt "BODY:2HUMPS"
 msgid "[BP:HUMP2:rear hump:STP]"
-msgstr "[BP:HUMP2:tylni garb:STP]"
+msgstr "[BP:HUMP2:tylni garb:tylnie garby]"
 
 #: body_default.txt:1610
 msgctxt "BODY:CHEEKS"
 msgid "[BP:L_CHEEK:left cheek:STP]"
-msgstr "[BP:L_CHEEK:lewy policzek:STP]"
+msgstr "[BP:L_CHEEK:lewy policzek:lewe policzki]"
 
 #: body_default.txt:1612
 msgctxt "BODY:CHEEKS"
 msgid "[BP:R_CHEEK:right cheek:STP]"
-msgstr "[BP:R_CHEEKprawy policzek:STP]"
+msgstr "[BP:R_CHEEK:prawy policzek:prawe policzki]"
 
 #: body_default.txt:1616
 msgctxt "BODY:EYELIDS"
 msgid "[BP:L_EYELID:left eyelid:STP]"
-msgstr "[BP:L_EYELID:lewa powieka:STP]"
+msgstr "[BP:L_EYELID:lewa powieka:lewe powieki]"
 
 #: body_default.txt:1618
 msgctxt "BODY:EYELIDS"
 msgid "[BP:R_EYELID:right eyelid:STP]"
-msgstr "[BP:R_EYELID:prawa powieka:STP]"
+msgstr "[BP:R_EYELID:prawa powieka:prawe powieki]"
 
 #: body_default.txt:1622
 msgctxt "BODY:TONGUE"
 msgid "[BP:TONGUE:tongue:STP]"
-msgstr "[BP:TONGUE:język:STP]"
+msgstr "[BP:TONGUE:język:języki]"
 
 #: body_default.txt:1626
 msgctxt "BODY:FORKED_TONGUE"
 msgid "[BP:TONGUE:forked tongue:STP]"
-msgstr "[BP:TONGUE:rozdwojony język:STP]"
+msgstr "[BP:TONGUE:rozdwojony język:rozdwojone języki]"
 
 #: body_default.txt:1630
 msgctxt "BODY:LIPS"
 msgid "[BP:L_LIP:lower lip:STP]"
-msgstr "[BP:L_LIP:dolna warga:STP]"
+msgstr "[BP:L_LIP:dolna warga:dolne wargi]"
 
 #: body_default.txt:1632
 msgctxt "BODY:LIPS"
 msgid "[BP:U_LIP:upper lip:STP]"
-msgstr "[BP:U_LIP:górna warga:STP]"
+msgstr "[BP:U_LIP:górna warga:górne wargi]"
 
 #: body_default.txt:1636
 msgctxt "BODY:FACIAL_FEATURES"
 msgid "[BP:L_CHEEK:left cheek:STP]"
-msgstr "[BP:L_CHEEK:lewy policzek:STP]"
+msgstr "[BP:L_CHEEK:lewy policzek:lewe policzki]"
 
 #: body_default.txt:1638
 msgctxt "BODY:FACIAL_FEATURES"
 msgid "[BP:R_CHEEK:right cheek:STP]"
-msgstr "[BP:R_CHEEKprawy policzek:STP]"
+msgstr "[BP:R_CHEEK:prawy policzek:prawe policzki]"
 
 #: body_default.txt:1640
 msgctxt "BODY:FACIAL_FEATURES"
 msgid "[BP:L_EYELID:left eyelid:STP]"
-msgstr "[BP:L_EYELID:lewa powieka:STP]"
+msgstr "[BP:L_EYELID:lewa powieka:lewe powieki]"
 
 #: body_default.txt:1642
 msgctxt "BODY:FACIAL_FEATURES"
 msgid "[BP:R_EYELID:right eyelid:STP]"
-msgstr "[BP:R_EYELID:prawa powieka:STP]"
+msgstr "[BP:R_EYELID:prawa powieka:prawe powieki]"
 
 #: body_default.txt:1644
 msgctxt "BODY:FACIAL_FEATURES"
 msgid "[BP:L_LIP:lower lip:STP]"
-msgstr "[BP:L_LIP:dolna warga:STP]"
+msgstr "[BP:L_LIP:dolna warga:dolne wargi]"
 
 #: body_default.txt:1646
 msgctxt "BODY:FACIAL_FEATURES"
 msgid "[BP:U_LIP:upper lip:STP]"
-msgstr "[BP:U_LIP:górna warga:STP]"
+msgstr "[BP:U_LIP:górna warga:górne wargi]"
 
 #: body_default.txt:1650
 msgctxt "BODY:ONE_EYELID"
 msgid "[BP:EYELID:eyelid:STP]"
-msgstr "[BP:EYELID:powieka:STP]"
+msgstr "[BP:EYELID:powieka:powieki]"
 
 #: body_default.txt:1655
 msgctxt "BODY:RIBCAGE"
 msgid "[BP:L_TRUE_RIB:left true rib:STP]"
-msgstr "[BP:L_TRUE_RIB:lewe żebro prawdziwe:STP]"
+msgstr "[BP:L_TRUE_RIB:lewe żebro prawdziwe:lewe żebra prawdziwe]"
 
 #: body_default.txt:1657
 msgctxt "BODY:RIBCAGE"
 msgid "[BP:R_TRUE_RIB:right true rib:STP]"
-msgstr "[BP:R_TRUE_RIB:prawe żebro prawdziwe:STP]"
+msgstr "[BP:R_TRUE_RIB:prawe żebro prawdziwe:prawe żebra prawdziwe]"
 
 #: body_default.txt:1659
 msgctxt "BODY:RIBCAGE"
 msgid "[BP:L_FALSE_RIB:left false rib:STP]"
-msgstr "[BP:L_FALSE_RIB:lewe żebro rzekome:STP]"
+msgstr "[BP:L_FALSE_RIB:lewe żebro rzekome:lewe żebra rzekome]"
 
 #: body_default.txt:1661
 msgctxt "BODY:RIBCAGE"
 msgid "[BP:R_FALSE_RIB:right false rib:STP]"
-msgstr "[BP:R_FALSE_RIB:prawe żebro rzekome:STP]"
+msgstr "[BP:R_FALSE_RIB:prawe żebro rzekome:prawe żebra rzekome]"
 
 #: body_default.txt:1663
 msgctxt "BODY:RIBCAGE"
 msgid "[BP:L_FLOATING_RIB:left floating rib:STP]"
-msgstr "[BP:L_FLOATING_RIB:lewe wolne żebro:STP]"
+msgstr "[BP:L_FLOATING_RIB:lewe wolne żebro:lewe wolne żebra]"
 
 #: body_default.txt:1665
 msgctxt "BODY:RIBCAGE"
 msgid "[BP:R_FLOATING_RIB:right floating rib:STP]"
-msgstr "[BP:R_FLOATING_RIB:prawe wolne żebro:STP]"
+msgstr "[BP:R_FLOATING_RIB:prawe wolne żebro:prawe wolne żebra]"
 
 #: body_default.txt:1669
 msgctxt "BODY:GENERIC_TEETH_WITH_LARGE_EYE_TEETH"
@@ -3569,12 +3660,12 @@ msgstr "[BP:TOOTH:ząb:zęby]"
 #: body_default.txt:1671
 msgctxt "BODY:GENERIC_TEETH_WITH_LARGE_EYE_TEETH"
 msgid "[BP:R_EYE_TOOTH:right eye tooth:right eye teeth]"
-msgstr "[BP:R_EYE_TOOTH:ząb prawego oka:zęby prawego oka]"
+msgstr "[BP:R_EYE_TOOTH:prawy górny kieł:prawe górne kły]"
 
 #: body_default.txt:1673
 msgctxt "BODY:GENERIC_TEETH_WITH_LARGE_EYE_TEETH"
 msgid "[BP:L_EYE_TOOTH:left eye tooth:left eye teeth]"
-msgstr "[BP:L_EYE_TOOTH:ząb lewego oka:zęby lewego oka]"
+msgstr "[BP:L_EYE_TOOTH:lewy górny kieł:lewe górne kły]"
 
 #: body_default.txt:1677
 msgctxt "BODY:GENERIC_TEETH_WITH_FANGS"
@@ -3599,22 +3690,22 @@ msgstr "[BP:TOOTH:ząb:zęby]"
 #: body_default.txt:1687
 msgctxt "BODY:RODENT_TEETH"
 msgid "[BP:RU_INCISOR:right upper incisor:STP]"
-msgstr "[BP:RU_INCISOR:prawy górny siekacz:STP]"
+msgstr "[BP:RU_INCISOR:prawy górny siekacz:prawe górne siekacze]"
 
 #: body_default.txt:1689
 msgctxt "BODY:RODENT_TEETH"
 msgid "[BP:LU_INCISOR:left upper incisor:STP]"
-msgstr "[BP:LU_INCISOR:lewy górny siekacz:STP]"
+msgstr "[BP:LU_INCISOR:lewy górny siekacz:lewe górne siekacze]"
 
 #: body_default.txt:1691
 msgctxt "BODY:RODENT_TEETH"
 msgid "[BP:RL_INCISOR:right lower incisor:STP]"
-msgstr "[BP:RL_INCISOR:prawy dolny siekacz:STP]"
+msgstr "[BP:RL_INCISOR:prawy dolny siekacz:prawe dolne siekacze]"
 
 #: body_default.txt:1693
 msgctxt "BODY:RODENT_TEETH"
 msgid "[BP:LL_INCISOR:left lower incisor:STP]"
-msgstr "[BP:LL_INCISOR:lewy dolny siekacz:STP]"
+msgstr "[BP:LL_INCISOR:lewy dolny siekacz:lewe dolne siekacze]"
 
 #: body_default.txt:1697
 msgctxt "BODY:GENERIC_TEETH"
@@ -3629,167 +3720,201 @@ msgstr "[BP:U_F_TOOTH:górny przedni ząb:górne przednie zęby]"
 #: body_default.txt:1704
 msgctxt "BODY:TEETH"
 msgid "[INDIVIDUAL_NAME:first upper right incisor:STP]"
-msgstr "[INDIVIDUAL_NAME:pierwszy górny prawy siekacz:STP]"
+msgstr ""
+"[INDIVIDUAL_NAME:pierwszy prawy górny siekacz:pierwsze prawe górne siekacze]"
 
 #: body_default.txt:1705
 msgctxt "BODY:TEETH"
 msgid "[INDIVIDUAL_NAME:first upper left incisor:STP]"
-msgstr "[INDIVIDUAL_NAME:pierwszy górny lewy siekacz:STP]"
+msgstr ""
+"[INDIVIDUAL_NAME:pierwszy lewy górny siekacz:pierwsze lewe górne siekacze]"
 
 #: body_default.txt:1706
 msgctxt "BODY:TEETH"
 msgid "[INDIVIDUAL_NAME:second upper right incisor:STP]"
-msgstr "[INDIVIDUAL_NAME:drugi górny prawy siekacz:STP]"
+msgstr ""
+"[INDIVIDUAL_NAME:drugi prawy górny siekacz:drugie prawe górne siekacze]"
 
 #: body_default.txt:1707
 msgctxt "BODY:TEETH"
 msgid "[INDIVIDUAL_NAME:second upper left incisor:STP]"
-msgstr "[INDIVIDUAL_NAME:drugi górny lewy siekacz:STP]"
+msgstr "[INDIVIDUAL_NAME:drugi lewy górny siekacz:drugie lewe górne siekacze]"
 
 #: body_default.txt:1708
 msgctxt "BODY:TEETH"
 msgid "[INDIVIDUAL_NAME:right eye tooth:right eye teeth]"
-msgstr "[INDIVIDUAL_NAME:ząb prawego oka:zęby prawego oka]"
+msgstr "[INDIVIDUAL_NAME:prawy górny kieł:prawe górne kły]"
 
 #: body_default.txt:1709
 msgctxt "BODY:TEETH"
 msgid "[INDIVIDUAL_NAME:left eye tooth:left eye teeth]"
-msgstr "[INDIVIDUAL_NAME:ząb lewego oka:zęby lewego oka]"
+msgstr "[INDIVIDUAL_NAME:lewy górny kieł:lewe górne kły]"
 
 #: body_default.txt:1710
 msgctxt "BODY:TEETH"
 msgid "[BP:L_F_TOOTH:lower front tooth:lower front teeth]"
-msgstr "[BP:L_F_TOOTH:dolny przedni ząb:dolne przednie zęby]"
+msgstr "[BP:L_F_TOOTH:przedni dolny ząb:przednie dolne zęby]"
 
 #: body_default.txt:1712
 msgctxt "BODY:TEETH"
 msgid "[INDIVIDUAL_NAME:first lower right incisor:STP]"
-msgstr "[INDIVIDUAL_NAME:pierwszy dolny prawy siekacz:STP]"
+msgstr ""
+"[INDIVIDUAL_NAME:pierwszy prawy dolny siekacz:pierwsze prawe dolne siekacze]"
 
 #: body_default.txt:1713
 msgctxt "BODY:TEETH"
 msgid "[INDIVIDUAL_NAME:first lower left incisor:STP]"
-msgstr "[INDIVIDUAL_NAME:pierwszy dolny lewy siekacz:STP]"
+msgstr ""
+"[INDIVIDUAL_NAME:pierwszy lewy dolny siekacz:pierwsze lewe dolne siekacze]"
 
 #: body_default.txt:1714
 msgctxt "BODY:TEETH"
 msgid "[INDIVIDUAL_NAME:second lower right incisor:STP]"
-msgstr "[INDIVIDUAL_NAME:drugi dolny prawy siekacz:STP]"
+msgstr ""
+"[INDIVIDUAL_NAME:drugi prawy dolny siekacz:drugie prawe dolne siekacze]"
 
 #: body_default.txt:1715
 msgctxt "BODY:TEETH"
 msgid "[INDIVIDUAL_NAME:second lower left incisor:STP]"
-msgstr "[INDIVIDUAL_NAME:drugi dolny lewy siekacz:STP]"
+msgstr "[INDIVIDUAL_NAME:drugi lewy dolny siekacz:drugie lewe dolne siekacze]"
 
 #: body_default.txt:1716
 msgctxt "BODY:TEETH"
 msgid "[INDIVIDUAL_NAME:lower right canine:STP]"
-msgstr "[INDIVIDUAL_NAME:dolny prawy kieł:STP]"
+msgstr "[INDIVIDUAL_NAME:prawy dolny kieł:prawe dolne kły]"
 
 #: body_default.txt:1717
 msgctxt "BODY:TEETH"
 msgid "[INDIVIDUAL_NAME:lower left canine:STP]"
-msgstr "[INDIVIDUAL_NAME:dolny lewy kieł:STP]"
+msgstr "[INDIVIDUAL_NAME:lewy dolny kieł:lewe dolne kły]"
 
 #: body_default.txt:1718
 msgctxt "BODY:TEETH"
 msgid "[BP:U_R_B_TOOTH:upper right back tooth:upper right back teeth]"
-msgstr "[BP:U_R_B_TOOTH:górny prawy tylni ząb:górne prawe tylne zęby]"
+msgstr "[BP:U_R_B_TOOTH:prawy górny tylni ząb:prawe górne tylne zęby]"
 
 #: body_default.txt:1720
 msgctxt "BODY:TEETH"
 msgid "[INDIVIDUAL_NAME:first upper right premolar:STP]"
-msgstr "[INDIVIDUAL_NAME:pierwszy górny prawy przedtrzonowiec:STP]"
+msgstr ""
+"[INDIVIDUAL_NAME:pierwszy prawy górny przedtrzonowiec:pierwsze prawe górne "
+"przedtrzonowce]"
 
 #: body_default.txt:1721
 msgctxt "BODY:TEETH"
 msgid "[INDIVIDUAL_NAME:second upper right premolar:STP]"
-msgstr "[INDIVIDUAL_NAME:drugi górny prawy przedtrzonowiec:STP]"
+msgstr ""
+"[INDIVIDUAL_NAME:drugi prawy górny przedtrzonowiec:drugie prawe górne "
+"przedtrzonowce]"
 
 #: body_default.txt:1722
 msgctxt "BODY:TEETH"
 msgid "[INDIVIDUAL_NAME:first upper right molar:STP]"
-msgstr "[INDIVIDUAL_NAME:pierwszy górny prawy trzonowiec:STP]"
+msgstr ""
+"[INDIVIDUAL_NAME:pierwszy prawy górny trzonowiec:pierwsze prawe górne "
+"trzonowce]"
 
 #: body_default.txt:1723
 msgctxt "BODY:TEETH"
 msgid "[INDIVIDUAL_NAME:second upper right molar:STP]"
-msgstr "[INDIVIDUAL_NAME:drugi górny prawy trzonowiec:STP]"
+msgstr ""
+"[INDIVIDUAL_NAME:drugi prawy górny trzonowiec:drugie prawe górne trzonowce]"
 
 #: body_default.txt:1724
 msgctxt "BODY:TEETH"
 msgid "[BP:L_R_B_TOOTH:lower right back tooth:lower right back teeth]"
-msgstr "[BP:L_R_B_TOOTH:dolny prawy tylni ząb:dolne prawe tylne zęby]"
+msgstr "[BP:L_R_B_TOOTH:prawy dolny tylni ząb:prawe dolne tylne zęby]"
 
 #: body_default.txt:1726
 msgctxt "BODY:TEETH"
 msgid "[INDIVIDUAL_NAME:first lower right premolar:STP]"
-msgstr "[INDIVIDUAL_NAME:pierwszy dolny prawy przedtrzonowiec:STP]"
+msgstr ""
+"[INDIVIDUAL_NAME:pierwszy prawy dolny przedtrzonowiec:pierwsze prawe dolne "
+"przedtrzonowce]"
 
 #: body_default.txt:1727
 msgctxt "BODY:TEETH"
 msgid "[INDIVIDUAL_NAME:second lower right premolar:STP]"
-msgstr "[INDIVIDUAL_NAME:drugi dolny prawy przedtrzonowiec:STP]"
+msgstr ""
+"[INDIVIDUAL_NAME:drugi prawy dolny przedtrzonowiec:drugie prawe dolne "
+"przedtrzonowce]"
 
 #: body_default.txt:1728
 msgctxt "BODY:TEETH"
 msgid "[INDIVIDUAL_NAME:first lower right molar:STP]"
-msgstr "[INDIVIDUAL_NAME:pierwszy dolny prawy trzonowiec:STP]"
+msgstr ""
+"[INDIVIDUAL_NAME:pierwszy prawy dolny trzonowiec:pierwsze prawe dolne "
+"trzonowce]"
 
 #: body_default.txt:1729
 msgctxt "BODY:TEETH"
 msgid "[INDIVIDUAL_NAME:second lower right molar:STP]"
-msgstr "[INDIVIDUAL_NAME:drugi dolny prawy trzonowiec:STP]"
+msgstr ""
+"[INDIVIDUAL_NAME:drugi prawy dolny trzonowiec:drugie prawe dolne trzonowce]"
 
 #: body_default.txt:1730
 msgctxt "BODY:TEETH"
 msgid "[BP:U_L_B_TOOTH:upper left back tooth:upper left back teeth]"
-msgstr "[BP:U_L_B_TOOTH:górny lewy tylni ząb:górne lewe tylne zęby]"
+msgstr "[BP:U_L_B_TOOTH:lewy górny tylni ząb:lewe górne tylne zęby]"
 
 #: body_default.txt:1732
 msgctxt "BODY:TEETH"
 msgid "[INDIVIDUAL_NAME:first upper left premolar:STP]"
-msgstr "[INDIVIDUAL_NAME:pierwszy górny lewy przedtrzonowiec:STP]"
+msgstr ""
+"[INDIVIDUAL_NAME:pierwszy lewy górny przedtrzonowiec:pierwsze lewe górne "
+"przedtrzonowce]"
 
 #: body_default.txt:1733
 msgctxt "BODY:TEETH"
 msgid "[INDIVIDUAL_NAME:second upper left premolar:STP]"
-msgstr "[INDIVIDUAL_NAME:drugi górny lewy przedtrzonowiec:STP]"
+msgstr ""
+"[INDIVIDUAL_NAME:drugi lewy górny przedtrzonowiec:drugie lewe górne "
+"przedtrzonowce]"
 
 #: body_default.txt:1734
 msgctxt "BODY:TEETH"
 msgid "[INDIVIDUAL_NAME:first upper left molar:STP]"
-msgstr "[INDIVIDUAL_NAME:pierwszy górny lewy trzonowiec:STP]"
+msgstr ""
+"[INDIVIDUAL_NAME:pierwszy lewy górny trzonowiec:pierwsze lewe górne "
+"trzonowce]"
 
 #: body_default.txt:1735
 msgctxt "BODY:TEETH"
 msgid "[INDIVIDUAL_NAME:second upper left molar:STP]"
-msgstr "[INDIVIDUAL_NAME:drugi górny lewy trzonowiec:STP]"
+msgstr ""
+"[INDIVIDUAL_NAME:drugi lewy górny trzonowiec:drugie lewe górne trzonowce]"
 
 #: body_default.txt:1736
 msgctxt "BODY:TEETH"
 msgid "[BP:L_L_B_TOOTH:lower left back tooth:lower left back teeth]"
-msgstr "[BP:U_L_B_TOOTH:dolny lewy tylni ząb:dolne lewe tylne zęby]"
+msgstr "[BP:L_L_B_TOOTH:lewy dolny tylni ząb:lewe dolne tylne zęby]"
 
 #: body_default.txt:1738
 msgctxt "BODY:TEETH"
 msgid "[INDIVIDUAL_NAME:first lower left premolar:STP]"
-msgstr "[INDIVIDUAL_NAME:pierwszy dolny lewy przedtrzonowiec:STP]"
+msgstr ""
+"[INDIVIDUAL_NAME:pierwszy lewy dolny przedtrzonowiec:pierwszy lewe dolne "
+"przedtrzonowce]"
 
 #: body_default.txt:1739
 msgctxt "BODY:TEETH"
 msgid "[INDIVIDUAL_NAME:second lower left premolar:STP]"
-msgstr "[INDIVIDUAL_NAME:drugi dolny lewy przedtrzonowiec:STP]"
+msgstr ""
+"[INDIVIDUAL_NAME:drugi lewy dolny przedtrzonowiec:drugie lewe dolne "
+"przedtrzonowce]"
 
 #: body_default.txt:1740
 msgctxt "BODY:TEETH"
 msgid "[INDIVIDUAL_NAME:first lower left molar:STP]"
-msgstr "[INDIVIDUAL_NAME:pierwszy dolny lewy trzonowiec:STP]"
+msgstr ""
+"[INDIVIDUAL_NAME:pierwszy lewy dolny trzonowiec:pierwsze lewe dolne "
+"trzonowce]"
 
 #: body_default.txt:1741
 msgctxt "BODY:TEETH"
 msgid "[INDIVIDUAL_NAME:second lower left molar:STP]"
-msgstr "[INDIVIDUAL_NAME:drugi dolny lewy trzonowiec:STP]"
+msgstr ""
+"[INDIVIDUAL_NAME:drugi lewy dolny trzonowiec:drugie lewe dolne trzonowce]"
 
 #: body_default.txt:1744
 msgctxt "BODY:HAND_FOOT_CENTAUR_NECK"
@@ -3804,7 +3929,7 @@ msgstr "[BP:LB:dolna część ciała:dolne części ciała]"
 #: body_default.txt:1748
 msgctxt "BODY:HAND_FOOT_CENTAUR_NECK"
 msgid "[BP:NK:neck:STP]"
-msgstr "[BP:NK:kark:STP]"
+msgstr "[BP:NK:szyja:szyje]"
 
 #: body_default.txt:1750
 msgctxt "BODY:HAND_FOOT_CENTAUR_NECK"
@@ -3834,67 +3959,67 @@ msgstr "[BP:LLA:lewe przedramię:lewe przedramiona]"
 #: body_default.txt:1760
 msgctxt "BODY:HAND_FOOT_CENTAUR_NECK"
 msgid "[BP:RH:right hand:STP]"
-msgstr "[BP:RH:prawa dłoń:STP]"
+msgstr "[BP:RH:prawa dłoń:prawe dłonie]"
 
 #: body_default.txt:1762
 msgctxt "BODY:HAND_FOOT_CENTAUR_NECK"
 msgid "[BP:LH:left hand:STP]"
-msgstr "[BP:LH:lewa dłoń:STP]"
+msgstr "[BP:LH:lewa dłoń:lewe dłonie]"
 
 #: body_default.txt:1764
 msgctxt "BODY:HAND_FOOT_CENTAUR_NECK"
 msgid "[BP:RA:right front leg:STP]"
-msgstr "[BP:RA:przednia prawa noga:STP]"
+msgstr "[BP:RA:prawa przednia noga:prawe przednie nogi]"
 
 #: body_default.txt:1766
 msgctxt "BODY:HAND_FOOT_CENTAUR_NECK"
 msgid "[BP:LA:left front leg:STP]"
-msgstr "[BP:RA:przednia lewa noga:STP]"
+msgstr "[BP:LA:lewa przednia noga:lewe przednie nogi]"
 
 #: body_default.txt:1768
 msgctxt "BODY:HAND_FOOT_CENTAUR_NECK"
 msgid "[BP:RFF:right front foot:right front feet]"
-msgstr "[BP:RFF:przednia prawa stopa:przednie prawe stopy]"
+msgstr "[BP:RFF:prawa przednia stopa:prawe przednie stopy]"
 
 #: body_default.txt:1770
 msgctxt "BODY:HAND_FOOT_CENTAUR_NECK"
 msgid "[BP:LFF:left front foot:left front feet]"
-msgstr "[BP:LFF:przednia lewa stopa:przednie lewe stopy]"
+msgstr "[BP:LFF:lewa przednia stopa:lewe przednie stopy]"
 
 #: body_default.txt:1772
 msgctxt "BODY:HAND_FOOT_CENTAUR_NECK"
 msgid "[BP:RL:right rear leg:STP]"
-msgstr "[BP:RA:tylnia prawa noga:STP]"
+msgstr "[BP:RL:prawa tylnia noga:prawe tylnie nogi]"
 
 #: body_default.txt:1774
 msgctxt "BODY:HAND_FOOT_CENTAUR_NECK"
 msgid "[BP:LL:left rear leg:STP]"
-msgstr "[BP:RA:tylnia lewa noga:STP]"
+msgstr "[BP:LL:lewa tylnia noga:lewe tylnie nogi]"
 
 #: body_default.txt:1776
 msgctxt "BODY:HAND_FOOT_CENTAUR_NECK"
 msgid "[BP:RRF:right rear foot:right rear feet]"
-msgstr "[BP:RRF:tylnia prawa stopa:tylnie prawe stopy]"
+msgstr "[BP:RRF:prawa tylna stopa:prawe tylne stopy]"
 
 #: body_default.txt:1778
 msgctxt "BODY:HAND_FOOT_CENTAUR_NECK"
 msgid "[BP:LRF:left rear foot:left rear feet]"
-msgstr "[BP:LRF:tylnia lewa stopa:tylnie lewe stopy]"
+msgstr "[BP:LRF:lewa tylna stopa:lewe tylne stopy]"
 
 #: body_default.txt:1782
 msgctxt "BODY:LARGE_MANDIBLES"
 msgid "[BP:R_MAND:right mandible:STP]"
-msgstr "[BP:R_MAND:prawa żuchwa:STP]"
+msgstr "[BP:R_MAND:prawa żuchwa:prawe żuchwy]"
 
 #: body_default.txt:1784
 msgctxt "BODY:LARGE_MANDIBLES"
 msgid "[BP:L_MAND:left mandible:STP]"
-msgstr "[BP:L_MAND:lewa żuchwa:STP]"
+msgstr "[BP:L_MAND:lewa żuchwa:lewe żuchwy]"
 
 #: body_default.txt:1788
 msgctxt "BODY:BILL"
 msgid "[BP:BILL:bill:STP]"
-msgstr "[BP:BILL:dziób:STP]"
+msgstr "[BP:BILL:dziób:dzioby]"
 
 #: body_default.txt:1792
 msgctxt "BODY:HUMANOID_ARMLESS_NECK"
@@ -3919,22 +4044,22 @@ msgstr "[BP:HD:głowa:głowy]"
 #: body_default.txt:1800
 msgctxt "BODY:HUMANOID_ARMLESS_NECK"
 msgid "[BP:RUL:right upper leg:STP]"
-msgstr "[BP:RUL:prawe udo:STP]"
+msgstr "[BP:RUL:prawe udo:prawe uda]"
 
 #: body_default.txt:1802
 msgctxt "BODY:HUMANOID_ARMLESS_NECK"
 msgid "[BP:LUL:left upper leg:STP]"
-msgstr "[BP:LUL:lewe udo:STP]"
+msgstr "[BP:LUL:lewe udo:lewe uda]"
 
 #: body_default.txt:1804
 msgctxt "BODY:HUMANOID_ARMLESS_NECK"
 msgid "[BP:RLL:right lower leg:STP]"
-msgstr "[BP:RLL:prawa łydka:STP]"
+msgstr "[BP:RLL:prawa goleń:prawe golenie]"
 
 #: body_default.txt:1806
 msgctxt "BODY:HUMANOID_ARMLESS_NECK"
 msgid "[BP:LLL:left lower leg:STP]"
-msgstr "[BP:LLL:lewa łydka:STP]"
+msgstr "[BP:LLL:lewa goleń:lewe golenie]"
 
 #: body_default.txt:1808
 msgctxt "BODY:HUMANOID_ARMLESS_NECK"
@@ -3944,7 +4069,7 @@ msgstr "[BP:RF:prawa stopa:prawe stopy]"
 #: body_default.txt:1810
 msgctxt "BODY:HUMANOID_ARMLESS_NECK"
 msgid "[BP:LF:left foot:left feet]"
-msgstr "[BP:RF:lewa stopa:lewe stopy]"
+msgstr "[BP:LF:lewa stopa:lewe stopy]"
 
 #: body_default.txt:1814
 msgctxt "BODY:TUSK"
@@ -3984,7 +4109,7 @@ msgstr "[BP:UB:tułów:tułowia]"
 #: body_rcp.txt:30
 msgctxt "BODY:RCP_ABDOMEN"
 msgid "[BP:LB:abdomen:STP]"
-msgstr "[BP:LB:odwłok:STP]"
+msgstr "[BP:LB:odwłok:odwłoki]"
 
 #: body_rcp.txt:34
 msgctxt "BODY:RCP_CEPHALOTHORAX"
@@ -4019,22 +4144,22 @@ msgstr "[BP:LLA:lewe przedramię:lewe przedramiona]"
 #: body_rcp.txt:50
 msgctxt "BODY:RCP_TWO_PART_ARMS"
 msgid "[BP:RH:right hand:STP]"
-msgstr "[BP:RH:prawa dłoń:STP]"
+msgstr "[BP:RH:prawa dłoń:prawe dłonie]"
 
 #: body_rcp.txt:52
 msgctxt "BODY:RCP_TWO_PART_ARMS"
 msgid "[BP:LH:left hand:STP]"
-msgstr "[BP:LH:lewa dłoń:STP]"
+msgstr "[BP:LH:lewa dłoń:lewe dłonie]"
 
 #: body_rcp.txt:56
 msgctxt "BODY:RCP_PINCERS"
 msgid "[BP:R_UB_PINCER:right pincer:STP]"
-msgstr "[BP:R_UB_PINCER:lewe szczypce:STP]"
+msgstr "[BP:R_UB_PINCER:prawe szczypce:prawe szczypce]"
 
 #: body_rcp.txt:58
 msgctxt "BODY:RCP_PINCERS"
 msgid "[BP:L_UB_PINCER:left pincer:STP]"
-msgstr "[BP:L_UB_PINCER:lewe szczypce:STP]"
+msgstr "[BP:L_UB_PINCER:lewe szczypce:lewe szczypce]"
 
 #: body_rcp.txt:62
 msgctxt "BODY:RCP_CLAW_ARMS"
@@ -4049,202 +4174,202 @@ msgstr "[BP:L_UB_PINCER:lewy szpon:lewe szpony]"
 #: body_rcp.txt:68
 msgctxt "BODY:RCP_FIRST_SIMPLE_LEGS"
 msgid "[BP:RA1:right first leg:STP]"
-msgstr "[BP:RA1:przednia prawa noga:STP]"
+msgstr "[BP:RA1:pierwsza prawa noga:pierwsze prawe nogi]"
 
 #: body_rcp.txt:70
 msgctxt "BODY:RCP_FIRST_SIMPLE_LEGS"
 msgid "[BP:LA1:left first leg:STP]"
-msgstr "[BP:LA1:lewa przednia noga: STP]"
+msgstr "[BP:LA1:pierwsza lewa noga:pierwsze lewe nogi]"
 
 #: body_rcp.txt:72
 msgctxt "BODY:RCP_FIRST_SIMPLE_LEGS"
 msgid "[BP:RF1:right first foot:right first feet]"
-msgstr "[BP:RF1:prawa pierwsza stopa:prawej pierwszej stopy]"
+msgstr "[BP:RF1:pierwsza prawa stopa:pierwsze prawe stopy]"
 
 #: body_rcp.txt:74
 msgctxt "BODY:RCP_FIRST_SIMPLE_LEGS"
 msgid "[BP:LF1:left first foot:left first feet]"
-msgstr "[BP:LF1:lewa pierwsza stopa:lewej pierwszej stopy]"
+msgstr "[BP:LF1:pierwsza lewa stopa:pierwsze lewe stopy]"
 
 #: body_rcp.txt:78
 msgctxt "BODY:RCP_FIRST_SIMPLE_LEGS_GRASP"
 msgid "[BP:RA1:right first leg:STP]"
-msgstr "[BP:RA1:przednia prawa noga:STP]"
+msgstr "[BP:RA1:pierwsza prawa noga:pierwsze prawe nogi]"
 
 #: body_rcp.txt:80
 msgctxt "BODY:RCP_FIRST_SIMPLE_LEGS_GRASP"
 msgid "[BP:LA1:left first leg:STP]"
-msgstr "[BP:LA1:lewa przednia noga: STP]"
+msgstr "[BP:LA1:pierwsza lewa noga:pierwsze lewe nogi]"
 
 #: body_rcp.txt:82
 msgctxt "BODY:RCP_FIRST_SIMPLE_LEGS_GRASP"
 msgid "[BP:RF1:right first foot:right first feet]"
-msgstr "[BP:RF1:prawa pierwsza stopa:prawej pierwszej stopy]"
+msgstr "[BP:RF1:pierwsza prawa stopa:pierwsze prawe stopy]"
 
 #: body_rcp.txt:84
 msgctxt "BODY:RCP_FIRST_SIMPLE_LEGS_GRASP"
 msgid "[BP:LF1:left first foot:left first feet]"
-msgstr "[BP:LF1:lewa pierwsza stopa:lewej pierwszej stopy]"
+msgstr "[BP:LF1:pierwsza lewa stopa:pierwsze lewe stopy]"
 
 #: body_rcp.txt:88
 msgctxt "BODY:RCP_SECOND_SIMPLE_LEGS"
 msgid "[BP:RA2:right second leg:STP]"
-msgstr "[BP:RA2:prawa druga noga: STP]"
+msgstr "[BP:RA2:druga prawa noga:drugie prawe nogi]"
 
 #: body_rcp.txt:90
 msgctxt "BODY:RCP_SECOND_SIMPLE_LEGS"
 msgid "[BP:LA2:left second leg:STP]"
-msgstr "[BP:LA2:lewa druga noga:STP]"
+msgstr "[BP:LA2:druga lewa noga:drugie lewe nogi]"
 
 #: body_rcp.txt:92
 msgctxt "BODY:RCP_SECOND_SIMPLE_LEGS"
 msgid "[BP:RF2:right second foot:right second feet]"
-msgstr "[BP:RF2:druga prawa stopa:drugiej prawej stopy]"
+msgstr "[BP:RF2:druga prawa stopa:drugie prawe stopy]"
 
 #: body_rcp.txt:94
 msgctxt "BODY:RCP_SECOND_SIMPLE_LEGS"
 msgid "[BP:LF2:left second foot:left second feet]"
-msgstr "[BP:LF2:drugiej lewej stopy:drugiej lewej stopy]"
+msgstr "[BP:LF2:druga lewa stopa:drugie lewe stopy]"
 
 #: body_rcp.txt:98
 msgctxt "BODY:RCP_THIRD_SIMPLE_LEGS"
 msgid "[BP:RA3:right third leg:STP]"
-msgstr "[BP:RA3:trzecia prawa noga:STP]"
+msgstr "[BP:RA3:trzecia prawa noga:trzecie prawe nogi]"
 
 #: body_rcp.txt:100
 msgctxt "BODY:RCP_THIRD_SIMPLE_LEGS"
 msgid "[BP:LA3:left third leg:STP]"
-msgstr "[BP:LA3:trzecia lewa noga:STP]"
+msgstr "[BP:LA3:trzecia lewa noga:trzecie lewe nogi]"
 
 #: body_rcp.txt:102
 msgctxt "BODY:RCP_THIRD_SIMPLE_LEGS"
 msgid "[BP:RF3:right third foot:right third feet]"
-msgstr "[BP:RF3:trzecia prawa stopa:trzeciej prawej stopy]"
+msgstr "[BP:RF3:trzecia prawa stopa:trzecie prawe stopy]"
 
 #: body_rcp.txt:104
 msgctxt "BODY:RCP_THIRD_SIMPLE_LEGS"
 msgid "[BP:LF3:left third foot:left third feet]"
-msgstr "[BP:LF3:trzecia lewa stopa:trzeciej lewej stopy]"
+msgstr "[BP:LF3:trzecia lewa stopa:trzecie lewe stopy]"
 
 #: body_rcp.txt:108
 msgctxt "BODY:RCP_FOURTH_SIMPLE_LEGS"
 msgid "[BP:RA4:right fourth leg:STP]"
-msgstr "[BP:RA4:czwarta prawa noga:STP]"
+msgstr "[BP:RA4:czwarta prawa noga:czwarte prawe nogi]"
 
 #: body_rcp.txt:110
 msgctxt "BODY:RCP_FOURTH_SIMPLE_LEGS"
 msgid "[BP:LA4:left fourth leg:STP]"
-msgstr "[BP:LA4:czwarta lewa noga:STP]"
+msgstr "[BP:LA4:czwarta lewa noga:czwarte lewe nogi]"
 
 #: body_rcp.txt:112
 msgctxt "BODY:RCP_FOURTH_SIMPLE_LEGS"
 msgid "[BP:RF4:right fourth foot:right fourth feet]"
-msgstr "[BP:RF4:czwarta prawa stopa:czwartej prawej stopy]"
+msgstr "[BP:RF4:czwarta prawa stopa:czwarte prawe stopy]"
 
 #: body_rcp.txt:114
 msgctxt "BODY:RCP_FOURTH_SIMPLE_LEGS"
 msgid "[BP:LF4:left fourth foot:left fourth feet]"
-msgstr "[BP:LF4:czwarta lewa stopa:czwartej lewej stopy]"
+msgstr "[BP:LF4:czwarta lewa stopa:czwarte lewe stopy]"
 
 #: body_rcp.txt:118
 msgctxt "BODY:RCP_FIFTH_SIMPLE_LEGS"
 msgid "[BP:RA5:right fifth leg:STP]"
-msgstr "[BP:RA5:prawa piąta noga:STP]"
+msgstr "[BP:RA5:piąta prawa noga:piąte prawe nogi]"
 
 #: body_rcp.txt:120
 msgctxt "BODY:RCP_FIFTH_SIMPLE_LEGS"
 msgid "[BP:LA5:left fifth leg:STP]"
-msgstr "[BP:LA5:lewa piąta noga:STP]"
+msgstr "[BP:LA5:piąta lewa noga:piąte lewe nogi]"
 
 #: body_rcp.txt:122
 msgctxt "BODY:RCP_FIFTH_SIMPLE_LEGS"
 msgid "[BP:RF5:right fifth foot:right fifth feet]"
-msgstr "[BP:RF5:prawa piąta stopa:prawe piąte stopy]"
+msgstr "[BP:RF5:piąta prawa stopa:piąte prawe stopy]"
 
 #: body_rcp.txt:124
 msgctxt "BODY:RCP_FIFTH_SIMPLE_LEGS"
 msgid "[BP:LF5:left fifth foot:left fifth feet]"
-msgstr "[BP:LF5:lewa piąta stopa:lewe piąte stopy]"
+msgstr "[BP:LF5:piąta lewa stopa:piąte lewe stopy]"
 
 #: body_rcp.txt:128
 msgctxt "BODY:RCP_SIMPLE_FRONT_LEGS"
 msgid "[BP:RA:right front leg:STP]"
-msgstr "[BP:RA:przednia prawa noga:STP]"
+msgstr "[BP:RA:prawa przednia noga:prawe przednie nogi]"
 
 #: body_rcp.txt:130
 msgctxt "BODY:RCP_SIMPLE_FRONT_LEGS"
 msgid "[BP:LA:left front leg:STP]"
-msgstr "[BP:RA:przednia lewa noga:STP]"
+msgstr "[BP:LA:lewa przednia noga:lewe przednie nogi]"
 
 #: body_rcp.txt:132
 msgctxt "BODY:RCP_SIMPLE_FRONT_LEGS"
 msgid "[BP:RH:right front foot:right front feet]"
-msgstr "[BP:RA:przednia prawa stopa:STP]"
+msgstr "[BP:RH:prawa przednia stopa:prawe przednie stopy]"
 
 #: body_rcp.txt:134
 msgctxt "BODY:RCP_SIMPLE_FRONT_LEGS"
 msgid "[BP:LH:left front foot:left front feet]"
-msgstr "[BP:RA:przednia lewa stopa:STP]"
+msgstr "[BP:LH:lewa przednia stopa:lewe przednie stopy]"
 
 #: body_rcp.txt:138
 msgctxt "BODY:RCP_SIMPLE_FRONT_LEGS_GRASP"
 msgid "[BP:RA:right front leg:STP]"
-msgstr "[BP:RA:przednia prawa noga:STP]"
+msgstr "[BP:RA:prawa przednia noga:prawe przednie nogi]"
 
 #: body_rcp.txt:140
 msgctxt "BODY:RCP_SIMPLE_FRONT_LEGS_GRASP"
 msgid "[BP:LA:left front leg:STP]"
-msgstr "[BP:RA:przednia lewa noga:STP]"
+msgstr "[BP:LA:lewa przednia noga:lewe przednie nogi]"
 
 #: body_rcp.txt:142
 msgctxt "BODY:RCP_SIMPLE_FRONT_LEGS_GRASP"
 msgid "[BP:RH:right front foot:right front feet]"
-msgstr "[BP:RA:przednia prawa stopa:STP]"
+msgstr "[BP:RH:prawa przednia stopa:prawe przednie stopy]"
 
 #: body_rcp.txt:144
 msgctxt "BODY:RCP_SIMPLE_FRONT_LEGS_GRASP"
 msgid "[BP:LH:left front foot:left front feet]"
-msgstr "[BP:RA:przednia lewa stopa:STP]"
+msgstr "[BP:LH:lewa przednia stopa:lewe przednie stopy]"
 
 #: body_rcp.txt:148
 msgctxt "BODY:RCP_SIMPLE_REAR_LEGS"
 msgid "[BP:RL:right rear leg:STP]"
-msgstr "[BP:RA:tylnia prawa noga:STP]"
+msgstr "[BP:RL:prawa tylnia noga:prawe tylnie nogi]"
 
 #: body_rcp.txt:150
 msgctxt "BODY:RCP_SIMPLE_REAR_LEGS"
 msgid "[BP:LL:left rear leg:STP]"
-msgstr "[BP:RA:tylnia lewa noga:STP]"
+msgstr "[BP:LL:lewa tylnia noga:lewe tylnie nogi]"
 
 #: body_rcp.txt:152
 msgctxt "BODY:RCP_SIMPLE_REAR_LEGS"
 msgid "[BP:RF:right rear foot:right rear feet]"
-msgstr "[BP:RF:tylnia prawa stopa:tylnie prawe stopy]"
+msgstr "[BP:RF:prawa tylna stopa:prawe tylne stopy]"
 
 #: body_rcp.txt:154
 msgctxt "BODY:RCP_SIMPLE_REAR_LEGS"
 msgid "[BP:LF:left rear foot:left rear feet]"
-msgstr "[BP:RF:tylnia lewa stopa:tylnie lewe stopy]"
+msgstr "[BP:LF:lewa tylna stopa:lewe tylne stopy]"
 
 #: body_rcp.txt:158
 msgctxt "BODY:RCP_TWO_PART_LEGS"
 msgid "[BP:RUL:right upper leg:STP]"
-msgstr "[BP:RUL:prawe udo:STP]"
+msgstr "[BP:RUL:prawe udo:prawe uda]"
 
 #: body_rcp.txt:160
 msgctxt "BODY:RCP_TWO_PART_LEGS"
 msgid "[BP:LUL:left upper leg:STP]"
-msgstr "[BP:LUL:lewe udo:STP]"
+msgstr "[BP:LUL:lewe udo:lewe uda]"
 
 #: body_rcp.txt:162
 msgctxt "BODY:RCP_TWO_PART_LEGS"
 msgid "[BP:RLL:right lower leg:STP]"
-msgstr "[BP:RLL:prawa łydka:STP]"
+msgstr "[BP:RLL:prawa goleń:prawe golenie]"
 
 #: body_rcp.txt:164
 msgctxt "BODY:RCP_TWO_PART_LEGS"
 msgid "[BP:LLL:left lower leg:STP]"
-msgstr "[BP:LLL:lewa łydka:STP]"
+msgstr "[BP:LLL:lewa goleń:lewe golenie]"
 
 #: body_rcp.txt:166
 msgctxt "BODY:RCP_TWO_PART_LEGS"
@@ -4254,632 +4379,633 @@ msgstr "[BP:RF:prawa stopa:prawe stopy]"
 #: body_rcp.txt:168
 msgctxt "BODY:RCP_TWO_PART_LEGS"
 msgid "[BP:LF:left foot:left feet]"
-msgstr "[BP:RF:lewa stopa:lewe stopy]"
+msgstr "[BP:LF:lewa stopa:lewe stopy]"
 
 #: body_rcp.txt:172
 msgctxt "BODY:RCP_FRONT_FLIPPER"
 msgid "[BP:RFFLIP:right front flipper:STP]"
-msgstr "[BP:RFFLIP:prawa przednia płetwa:STP]"
+msgstr "[BP:RFFLIP:prawa przednia płetwa:prawe przednie płetwy]"
 
 #: body_rcp.txt:174
 msgctxt "BODY:RCP_FRONT_FLIPPER"
 msgid "[BP:LFFLIP:left front flipper:STP]"
-msgstr "[BP:LFFLIP:lewa przednia płetwa:STP]"
+msgstr "[BP:LFFLIP:lewa przednia płetwa:lewe przednie płetwy]"
 
 #: body_rcp.txt:178
 msgctxt "BODY:RCP_REAR_FLIPPER"
 msgid "[BP:RRFLIP:right rear flipper:STP]"
-msgstr "[BP:RRFLIP:prawa tylna płetwa:STP]"
+msgstr "[BP:RRFLIP:prawa tylna płetwa:prawe tylnie płetwy]"
 
 #: body_rcp.txt:180
 msgctxt "BODY:RCP_REAR_FLIPPER"
 msgid "[BP:LRFLIP:left rear flipper:STP]"
-msgstr "[BP:LRFLIP:lewa tylna płetwa:STP]"
+msgstr "[BP:LRFLIP:lewa tylna płetwa:lewe tylnie płetwy]"
 
 #: body_rcp.txt:184
 msgctxt "BODY:RCP_TWO_FLIGHTLESS_WINGS"
 msgid "[BP:RWING:right wing:STP]"
-msgstr "[BP:RWING:prawe skrzydło:STP]"
+msgstr "[BP:RWING:prawe skrzydło:prawe skrzydła]"
 
 #: body_rcp.txt:186
 msgctxt "BODY:RCP_TWO_FLIGHTLESS_WINGS"
 msgid "[BP:LWING:left wing:STP]"
-msgstr "[BP:LWING:lewe skrzydło:STP]"
+msgstr "[BP:LWING:lewe skrzydło:lewe skrzydła]"
 
 #: body_rcp.txt:190
 msgctxt "BODY:RCP_TWO_WINGS"
 msgid "[BP:RWING:right wing:STP]"
-msgstr "[BP:RWING:prawe skrzydło:STP]"
+msgstr "[BP:RWING:prawe skrzydło:prawe skrzydła]"
 
 #: body_rcp.txt:192
 msgctxt "BODY:RCP_TWO_WINGS"
 msgid "[BP:LWING:left wing:STP]"
-msgstr "[BP:LWING:lewe skrzydło:STP]"
+msgstr "[BP:LWING:lewe skrzydło:lewe skrzydła]"
 
 #: body_rcp.txt:196
 msgctxt "BODY:RCP_TAIL"
 msgid "[BP:TAIL:tail:STP]"
-msgstr "[BP:TAIL:ogon:STP]"
+msgstr "[BP:TAIL:ogon:ogony]"
 
 #: body_rcp.txt:200
 msgctxt "BODY:RCP_2_TAILS"
 msgid "[BP:TAIL_1:left tail:STP]"
-msgstr "[BP:TAIL_1:lewy ogon:STP]"
+msgstr "[BP:TAIL_1:lewy ogon:lewe ogony]"
 
 #: body_rcp.txt:202
 msgctxt "BODY:RCP_2_TAILS"
 msgid "[BP:TAIL_2:right tail:STP]"
-msgstr "[BP:TAIL_2:prawy ogon:STP]"
+msgstr "[BP:TAIL_2:prawy ogon:prawe ogony]"
 
 #: body_rcp.txt:206
 msgctxt "BODY:RCP_3_TAILS"
 msgid "[BP:TAIL_1:left tail:STP]"
-msgstr "[BP:TAIL_1:lewy ogon:STP]"
+msgstr "[BP:TAIL_1:lewy ogon:lewe ogony]"
 
 #: body_rcp.txt:208
 msgctxt "BODY:RCP_3_TAILS"
 msgid "[BP:TAIL_2:center tail:STP]"
-msgstr "[BP:TAIL_2:środkowy ogon:STP]"
+msgstr "[BP:TAIL_2:środkowy ogon:środkowe ogony]"
 
 #: body_rcp.txt:210
 msgctxt "BODY:RCP_3_TAILS"
 msgid "[BP:TAIL_3:right tail:STP]"
-msgstr "[BP:TAIL_3:prawy ogon:STP]"
+msgstr "[BP:TAIL_3:prawy ogon:prawe ogony]"
 
 #: body_rcp.txt:214
 msgctxt "BODY:RCP_TAIL_STINGER"
 msgid "[BP:TAIL_STINGER:stinger:STP]"
-msgstr "[BP:TAIL_STINGER:żądło:STP]"
+msgstr "[BP:TAIL_STINGER:żądło:żądła]"
 
 #: body_rcp.txt:218
 msgctxt "BODY:RCP_LOWER_BODY_STINGER"
 msgid "[BP:LOWER_BODY_STINGER:stinger:STP]"
-msgstr "[BP:LOWER_BODY_STINGER:żądło:STP]"
+msgstr "[BP:LOWER_BODY_STINGER:żądło:żądła]"
 
 #: body_rcp.txt:222
 msgctxt "BODY:RCP_PROBOSCIS"
 msgid "[BP:PROBOSCIS:trunk:STP]"
-msgstr "[BP:PROBOSCIS:trąba:STP]"
+msgstr "[BP:PROBOSCIS:trąba:trąby]"
 
 #: body_rcp.txt:226
 msgctxt "BODY:RCP_TRUNK"
 msgid "[BP:TRUNK:trunk:STP]"
-msgstr "[BP:TRUNK:trąba:STP]"
+msgstr "[BP:TRUNK:trąba:trąby]"
 
 #: body_rcp.txt:230
 msgctxt "BODY:RCP_SHELL"
 msgid "[BP:SHELL:shell:STP]"
-msgstr "[BP:SHELL:skorupa:STP]"
+msgstr "[BP:SHELL:skorupa:skorupy]"
 
 #: body_rcp.txt:235
 msgctxt "BODY:RCP_ANTENNAE"
 msgid "[BP:R_ANT:right antenna:STP]"
-msgstr "[BP:R_ANT:prawy czułek:STP]"
+msgstr "[BP:R_ANT:prawy czułek:prawe czułki]"
 
 #: body_rcp.txt:237
 msgctxt "BODY:RCP_ANTENNAE"
 msgid "[BP:L_ANT:left antenna:STP]"
-msgstr "[BP:R_ANT:lewy czułek:STP]"
+msgstr "[BP:L_ANT:lewy czułek:lewe czułki]"
 
 #: body_rcp.txt:241
 msgctxt "BODY:RCP_1_HEAD_HORN"
 msgid "[BP:HEAD_HORN:horn:STP]"
-msgstr "[BP:HEAD_HORN:róg:STP]"
+msgstr "[BP:HEAD_HORN:róg:rogi]"
 
 #: body_rcp.txt:245
 msgctxt "BODY:RCP_2_HEAD_HORNS"
 msgid "[BP:HEAD_HORN_1:left horn:STP]"
-msgstr "[BP:HEAD_HORN_1:lewy róg:STP]"
+msgstr "[BP:HEAD_HORN_1:lewy róg:lewe rogi]"
 
 #: body_rcp.txt:247
 msgctxt "BODY:RCP_2_HEAD_HORNS"
 msgid "[BP:HEAD_HORN_2:right horn:STP]"
-msgstr "[BP:HEAD_HORN_2:prawy róg:STP]"
+msgstr "[BP:HEAD_HORN_2:prawy róg:prawe rogi]"
 
 #: body_rcp.txt:251
 msgctxt "BODY:RCP_3_HEAD_HORNS"
 msgid "[BP:HEAD_HORN_1:first horn:STP]"
-msgstr "[BP:HEAD_HORN_1:pierwszy róg:STP]"
+msgstr "[BP:HEAD_HORN_1:pierwszy róg:pierwsze rogi]"
 
 #: body_rcp.txt:253
 msgctxt "BODY:RCP_3_HEAD_HORNS"
 msgid "[BP:HEAD_HORN_2:second horn:STP]"
-msgstr "[BP:HEAD_HORN_2:drugi róg:STP]"
+msgstr "[BP:HEAD_HORN_2:drugi róg:drugie rogi]"
 
 #: body_rcp.txt:255
 msgctxt "BODY:RCP_3_HEAD_HORNS"
 msgid "[BP:HEAD_HORN_3:third horn:STP]"
-msgstr "[BP:HEAD_HORN_3:trzeci róg:STP]"
+msgstr "[BP:HEAD_HORN_3:trzeci róg:trzecie rogi]"
 
 #: body_rcp.txt:259
 msgctxt "BODY:RCP_4_HEAD_HORNS"
 msgid "[BP:HEAD_HORN_1:first horn:STP]"
-msgstr "[BP:HEAD_HORN_1:pierwszy róg:STP]"
+msgstr "[BP:HEAD_HORN_1:pierwszy róg:pierwsze rogi]"
 
 #: body_rcp.txt:261
 msgctxt "BODY:RCP_4_HEAD_HORNS"
 msgid "[BP:HEAD_HORN_2:second horn:STP]"
-msgstr "[BP:HEAD_HORN_2:drugi róg:STP]"
+msgstr "[BP:HEAD_HORN_2:drugi róg:drugie rogi]"
 
 #: body_rcp.txt:263
 msgctxt "BODY:RCP_4_HEAD_HORNS"
 msgid "[BP:HEAD_HORN_3:third horn:STP]"
-msgstr "[BP:HEAD_HORN_3:trzeci róg:STP]"
+msgstr "[BP:HEAD_HORN_3:trzeci róg:trzecie rogi]"
 
 #: body_rcp.txt:265
 msgctxt "BODY:RCP_4_HEAD_HORNS"
 msgid "[BP:HEAD_HORN_4:fourth horn:STP]"
-msgstr "[BP:HEAD_HORN_4:czwarty róg:STP]"
+msgstr "[BP:HEAD_HORN_4:czwarty róg:czwarte rogi]"
 
 #: body_rcp.txt:269
 msgctxt "BODY:RCP_LARGE_MANDIBLES"
 msgid "[BP:R_MAND:right mandible:STP]"
-msgstr "[BP:R_MAND:prawa żuchwa:STP]"
+msgstr "[BP:R_MAND:prawa żuchwa:prawe żuchwy]"
 
 #: body_rcp.txt:271
 msgctxt "BODY:RCP_LARGE_MANDIBLES"
 msgid "[BP:L_MAND:left mandible:STP]"
-msgstr "[BP:L_MAND:lewa żuchwa:STP]"
+msgstr "[BP:L_MAND:lewa żuchwa:lewe żuchwy]"
 
 #: body_rcp.txt:275
 msgctxt "BODY:RCP_5_FINGERS"
 msgid "[BP:FINGER1:thumb:STP]"
-msgstr "[BP:FINGER1:kciuk:STP]"
+msgstr "[BP:FINGER1:kciuk:kciuki]"
 
 #: body_rcp.txt:277
 msgctxt "BODY:RCP_5_FINGERS"
 msgid "[BP:FINGER2:first finger:STP]"
-msgstr "[BP:FINGER2:palec wskazujący:STP]"
+msgstr "[BP:FINGER2:palec wskazujący:palce wskazujące]"
 
 #: body_rcp.txt:279
 msgctxt "BODY:RCP_5_FINGERS"
 msgid "[BP:FINGER3:second finger:STP]"
-msgstr "[BP:FINGER3:środkowy palec:STP]"
+msgstr "[BP:FINGER3:środkowy palec:środkowe palce]"
 
 #: body_rcp.txt:281
 msgctxt "BODY:RCP_5_FINGERS"
 msgid "[BP:FINGER4:third finger:STP]"
-msgstr "[BP:FINGER4:palec serdeczny:STP]"
+msgstr "[BP:FINGER4:palec serdeczny:palce serdeczne]"
 
 #: body_rcp.txt:283
 msgctxt "BODY:RCP_5_FINGERS"
 msgid "[BP:FINGER5:fourth finger:STP]"
-msgstr "[BP:FINGER5:mały palec:STP]"
+msgstr "[BP:FINGER5:mały palec:małe palce]"
 
 #: body_rcp.txt:287
 msgctxt "BODY:RCP_4_FINGERS"
 msgid "[BP:FINGER1:thumb:STP]"
-msgstr "[BP:FINGER1:kciuk:STP]"
+msgstr "[BP:FINGER1:kciuk:kciuki]"
 
 #: body_rcp.txt:289
 msgctxt "BODY:RCP_4_FINGERS"
 msgid "[BP:FINGER2:first finger:STP]"
-msgstr "[BP:FINGER2:palec wskazujący:STP]"
+msgstr "[BP:FINGER2:palec wskazujący:palce wskazujące]"
 
 #: body_rcp.txt:291
 msgctxt "BODY:RCP_4_FINGERS"
 msgid "[BP:FINGER3:second finger:STP]"
-msgstr "[BP:FINGER3:środkowy palec:STP]"
+msgstr "[BP:FINGER3:palec serdeczny:palce serdeczne]"
 
 #: body_rcp.txt:293
 msgctxt "BODY:RCP_4_FINGERS"
 msgid "[BP:FINGER4:third finger:STP]"
-msgstr "[BP:FINGER4:palec serdeczny:STP]"
+msgstr "[BP:FINGER4:mały palec:małe palce]"
 
 #: body_rcp.txt:297
 msgctxt "BODY:RCP_3_FINGERS"
 msgid "[BP:FINGER1:thumb:STP]"
-msgstr "[BP:FINGER1:kciuk:STP]"
+msgstr "[BP:FINGER1:kciuk:kciuki]"
 
 #: body_rcp.txt:299
 msgctxt "BODY:RCP_3_FINGERS"
 msgid "[BP:FINGER2:first finger:STP]"
-msgstr "[BP:FINGER2:palec wskazujący:STP]"
+msgstr "[BP:FINGER2:pierwszy palec:pierwsze palce]"
 
 #: body_rcp.txt:301
 msgctxt "BODY:RCP_3_FINGERS"
 msgid "[BP:FINGER3:second finger:STP]"
-msgstr "[BP:FINGER3:środkowy palec:STP]"
+msgstr "[BP:FINGER3:drugi palec:drugie palce]"
 
 #: body_rcp.txt:305
 msgctxt "BODY:RCP_2_FINGERS"
 msgid "[BP:FINGER2:first finger:STP]"
-msgstr "[BP:FINGER2:palec wskazujący:STP]"
+msgstr "[BP:FINGER2:pierwszy palec:pierwsze palce]"
 
 #: body_rcp.txt:307
 msgctxt "BODY:RCP_2_FINGERS"
 msgid "[BP:FINGER3:second finger:STP]"
-msgstr "[BP:FINGER3:środkowy palec:STP]"
+msgstr "[BP:FINGER3:drugi palec:drugie palce]"
 
 #: body_rcp.txt:311
 msgctxt "BODY:RCP_5_TOES"
 msgid "[BP:TOE1:first toe:STP]"
-msgstr "[BP:TOE1:pierwszy palec u stopy:STP]"
+msgstr "[BP:TOE1:pierwszy palec u stopy:pierwsze palce u stopy]"
 
 #: body_rcp.txt:313
 msgctxt "BODY:RCP_5_TOES"
 msgid "[BP:TOE2:second toe:STP]"
-msgstr "[BP:TOE2:drugi palec u stopy:STP]"
+msgstr "[BP:TOE2:drugi palec u stopy:drugie palce u stopy]"
 
 #: body_rcp.txt:315
 msgctxt "BODY:RCP_5_TOES"
 msgid "[BP:TOE3:third toe:STP]"
-msgstr "[BP:TOE3:trzeci palec u stopySTP]"
+msgstr "[BP:TOE3:trzeci palec u stopy:trzecie palce u stopy]"
 
 #: body_rcp.txt:317
 msgctxt "BODY:RCP_5_TOES"
 msgid "[BP:TOE4:fourth toe:STP]"
-msgstr "[BP:TOE4:czwarty palec u stopy:STP]"
+msgstr "[BP:TOE4:czwarty palec u stopy:czwarte palce u stopy]"
 
 #: body_rcp.txt:319
 msgctxt "BODY:RCP_5_TOES"
 msgid "[BP:TOE5:fifth toe:STP]"
-msgstr "[BP:TOE5:piąty palec u stopy:STP]"
+msgstr "[BP:TOE5:piąty palec u stopy:piąte palce u stopy]"
 
 #: body_rcp.txt:323
 msgctxt "BODY:RCP_4_TOES"
 msgid "[BP:TOE1:first toe:STP]"
-msgstr "[BP:TOE1:pierwszy palec u stopy:STP]"
+msgstr "[BP:TOE1:pierwszy palec u stopy:pierwsze palce u stopy]"
 
 #: body_rcp.txt:325
 msgctxt "BODY:RCP_4_TOES"
 msgid "[BP:TOE2:second toe:STP]"
-msgstr "[BP:TOE2:drugi palec u stopy:STP]"
+msgstr "[BP:TOE2:drugi palec u stopy:drugie palce u stopy]"
 
 #: body_rcp.txt:327
 msgctxt "BODY:RCP_4_TOES"
 msgid "[BP:TOE3:third toe:STP]"
-msgstr "[BP:TOE3:trzeci palec u stopySTP]"
+msgstr "[BP:TOE3:trzeci palec u stopy:trzecie palce u stopy]"
 
 #: body_rcp.txt:329
 msgctxt "BODY:RCP_4_TOES"
 msgid "[BP:TOE4:fourth toe:STP]"
-msgstr "[BP:TOE4:czwarty palec u stopy:STP]"
+msgstr "[BP:TOE4:czwarty palec u stopy:czwarte palce u stopy]"
 
 #: body_rcp.txt:333
 msgctxt "BODY:RCP_3_TOES"
 msgid "[BP:TOE1:first toe:STP]"
-msgstr "[BP:TOE1:pierwszy palec u stopy:STP]"
+msgstr "[BP:TOE1:pierwszy palec u stopy:pierwsze palce u stopy]"
 
 #: body_rcp.txt:335
 msgctxt "BODY:RCP_3_TOES"
 msgid "[BP:TOE2:second toe:STP]"
-msgstr "[BP:TOE2:drugi palec u stopy:STP]"
+msgstr "[BP:TOE2:drugi palec u stopy:drugie palce u stopy]"
 
 #: body_rcp.txt:337
 msgctxt "BODY:RCP_3_TOES"
 msgid "[BP:TOE3:third toe:STP]"
-msgstr "[BP:TOE3:trzeci palec u stopySTP]"
+msgstr "[BP:TOE3:trzeci palec u stopy:trzecie palce u stopy]"
 
 #: body_rcp.txt:341
 msgctxt "BODY:RCP_2_TOES"
 msgid "[BP:TOE1:first toe:STP]"
-msgstr "[BP:TOE1:pierwszy palec u stopy:STP]"
+msgstr "[BP:TOE1:pierwszy palec u stopy:pierwsze palce u stopy]"
 
 #: body_rcp.txt:343
 msgctxt "BODY:RCP_2_TOES"
 msgid "[BP:TOE2:second toe:STP]"
-msgstr "[BP:TOE2:drugi palec u stopy:STP]"
+msgstr "[BP:TOE2:drugi palec u stopy:drugie palce u stopy]"
 
 #: body_rcp.txt:347
 msgctxt "BODY:RCP_5_FRONT_TOES"
 msgid "[BP:TOE1:first toe:STP]"
-msgstr "[BP:TOE1:pierwszy palec u stopy:STP]"
+msgstr "[BP:TOE1:pierwszy palec u stopy:pierwsze palce u stopy]"
 
 #: body_rcp.txt:349
 msgctxt "BODY:RCP_5_FRONT_TOES"
 msgid "[BP:TOE2:second toe:STP]"
-msgstr "[BP:TOE2:drugi palec u stopy:STP]"
+msgstr "[BP:TOE2:drugi palec u stopy:drugie palce u stopy]"
 
 #: body_rcp.txt:351
 msgctxt "BODY:RCP_5_FRONT_TOES"
 msgid "[BP:TOE3:third toe:STP]"
-msgstr "[BP:TOE3:trzeci palec u stopySTP]"
+msgstr "[BP:TOE3:trzeci palec u stopy:trzecie palce u stopy]"
 
 #: body_rcp.txt:353
 msgctxt "BODY:RCP_5_FRONT_TOES"
 msgid "[BP:TOE4:fourth toe:STP]"
-msgstr "[BP:TOE4:czwarty palec u stopy:STP]"
+msgstr "[BP:TOE4:czwarty palec u stopy:czwarte palce u stopy]"
 
 #: body_rcp.txt:355
 msgctxt "BODY:RCP_5_FRONT_TOES"
 msgid "[BP:TOE5:fifth toe:STP]"
-msgstr "[BP:TOE5:piąty palec u stopy:STP]"
+msgstr "[BP:TOE5:piąty palec u stopy:piąte palce u stopy]"
 
 #: body_rcp.txt:359
 msgctxt "BODY:RCP_4_FRONT_TOES"
 msgid "[BP:TOE1:first toe:STP]"
-msgstr "[BP:TOE1:pierwszy palec u stopy:STP]"
+msgstr "[BP:TOE1:pierwszy palec u stopy:pierwsze palce u stopy]"
 
 #: body_rcp.txt:361
 msgctxt "BODY:RCP_4_FRONT_TOES"
 msgid "[BP:TOE2:second toe:STP]"
-msgstr "[BP:TOE2:drugi palec u stopy:STP]"
+msgstr "[BP:TOE2:drugi palec u stopy:drugie palce u stopy]"
 
 #: body_rcp.txt:363
 msgctxt "BODY:RCP_4_FRONT_TOES"
 msgid "[BP:TOE3:third toe:STP]"
-msgstr "[BP:TOE3:trzeci palec u stopySTP]"
+msgstr "[BP:TOE3:trzeci palec u stopy:trzecie palce u stopy]"
 
 #: body_rcp.txt:365
 msgctxt "BODY:RCP_4_FRONT_TOES"
 msgid "[BP:TOE4:fourth toe:STP]"
-msgstr "[BP:TOE4:czwarty palec u stopy:STP]"
+msgstr "[BP:TOE4:czwarty palec u stopy:czwarte palce u stopy]"
 
 #: body_rcp.txt:369
 msgctxt "BODY:RCP_3_FRONT_TOES"
 msgid "[BP:TOE1:first toe:STP]"
-msgstr "[BP:TOE1:pierwszy palec u stopy:STP]"
+msgstr "[BP:TOE1:pierwszy palec u stopy:pierwsze palce u stopy]"
 
 #: body_rcp.txt:371
 msgctxt "BODY:RCP_3_FRONT_TOES"
 msgid "[BP:TOE2:second toe:STP]"
-msgstr "[BP:TOE2:drugi palec u stopy:STP]"
+msgstr "[BP:TOE2:drugi palec u stopy:drugie palce u stopy]"
 
 #: body_rcp.txt:373
 msgctxt "BODY:RCP_3_FRONT_TOES"
 msgid "[BP:TOE3:third toe:STP]"
-msgstr "[BP:TOE3:trzeci palec u stopySTP]"
+msgstr "[BP:TOE3:trzeci palec u stopy:trzecie palce u stopy]"
 
 #: body_rcp.txt:377
 msgctxt "BODY:RCP_2_FRONT_TOES"
 msgid "[BP:TOE1:first toe:STP]"
-msgstr "[BP:TOE1:pierwszy palec u stopy:STP]"
+msgstr "[BP:TOE1:pierwszy palec u stopy:pierwsze palce u stopy]"
 
 #: body_rcp.txt:379
 msgctxt "BODY:RCP_2_FRONT_TOES"
 msgid "[BP:TOE2:second toe:STP]"
-msgstr "[BP:TOE2:drugi palec u stopy:STP]"
+msgstr "[BP:TOE2:drugi palec u stopy:drugie palce u stopy]"
 
 #: body_rcp.txt:383
 msgctxt "BODY:RCP_5_REAR_TOES"
 msgid "[BP:TOE1:first toe:STP]"
-msgstr "[BP:TOE1:pierwszy palec u stopy:STP]"
+msgstr "[BP:TOE1:pierwszy palec u stopy:pierwsze palce u stopy]"
 
 #: body_rcp.txt:385
 msgctxt "BODY:RCP_5_REAR_TOES"
 msgid "[BP:TOE2:second toe:STP]"
-msgstr "[BP:TOE2:drugi palec u stopy:STP]"
+msgstr "[BP:TOE2:drugi palec u stopy:drugie palce u stopy]"
 
 #: body_rcp.txt:387
 msgctxt "BODY:RCP_5_REAR_TOES"
 msgid "[BP:TOE3:third toe:STP]"
-msgstr "[BP:TOE3:trzeci palec u stopySTP]"
+msgstr "[BP:TOE3:trzeci palec u stopy:trzecie palce u stopy]"
 
 #: body_rcp.txt:389
 msgctxt "BODY:RCP_5_REAR_TOES"
 msgid "[BP:TOE4:fourth toe:STP]"
-msgstr "[BP:TOE4:czwarty palec u stopy:STP]"
+msgstr "[BP:TOE4:czwarty palec u stopy:czwarte palce u stopy]"
 
 #: body_rcp.txt:391
 msgctxt "BODY:RCP_5_REAR_TOES"
 msgid "[BP:TOE5:fifth toe:STP]"
-msgstr "[BP:TOE5:piąty palec u stopy:STP]"
+msgstr "[BP:TOE5:piąty palec u stopy:piąte palce u stopy]"
 
 #: body_rcp.txt:395
 msgctxt "BODY:RCP_4_REAR_TOES"
 msgid "[BP:TOE1:first toe:STP]"
-msgstr "[BP:TOE1:pierwszy palec u stopy:STP]"
+msgstr "[BP:TOE1:pierwszy palec u stopy:pierwsze palce u stopy]"
 
 #: body_rcp.txt:397
 msgctxt "BODY:RCP_4_REAR_TOES"
 msgid "[BP:TOE2:second toe:STP]"
-msgstr "[BP:TOE2:drugi palec u stopy:STP]"
+msgstr "[BP:TOE2:drugi palec u stopy:drugie palce u stopy]"
 
 #: body_rcp.txt:399
 msgctxt "BODY:RCP_4_REAR_TOES"
 msgid "[BP:TOE3:third toe:STP]"
-msgstr "[BP:TOE3:trzeci palec u stopySTP]"
+msgstr "[BP:TOE3:trzeci palec u stopy:trzecie palce u stopy]"
 
 #: body_rcp.txt:401
 msgctxt "BODY:RCP_4_REAR_TOES"
 msgid "[BP:TOE4:fourth toe:STP]"
-msgstr "[BP:TOE4:czwarty palec u stopy:STP]"
+msgstr "[BP:TOE4:czwarty palec u stopy:czwarte palce u stopy]"
 
 #: body_rcp.txt:405
 msgctxt "BODY:RCP_3_REAR_TOES"
 msgid "[BP:TOE1:first toe:STP]"
-msgstr "[BP:TOE1:pierwszy palec u stopy:STP]"
+msgstr "[BP:TOE1:pierwszy palec u stopy:pierwsze palce u stopy]"
 
 #: body_rcp.txt:407
 msgctxt "BODY:RCP_3_REAR_TOES"
 msgid "[BP:TOE2:second toe:STP]"
-msgstr "[BP:TOE2:drugi palec u stopy:STP]"
+msgstr "[BP:TOE2:drugi palec u stopy:drugie palce u stopy]"
 
 #: body_rcp.txt:409
 msgctxt "BODY:RCP_3_REAR_TOES"
 msgid "[BP:TOE3:third toe:STP]"
-msgstr "[BP:TOE3:trzeci palec u stopySTP]"
+msgstr "[BP:TOE3:trzeci palec u stopy:trzecie palce u stopy]"
 
 #: body_rcp.txt:413
 msgctxt "BODY:RCP_2_REAR_TOES"
 msgid "[BP:TOE1:first toe:STP]"
-msgstr "[BP:TOE1:pierwszy palec u stopy:STP]"
+msgstr "[BP:TOE1:pierwszy palec u stopy:pierwsze palce u stopy]"
 
 #: body_rcp.txt:415
 msgctxt "BODY:RCP_2_REAR_TOES"
 msgid "[BP:TOE2:second toe:STP]"
-msgstr "[BP:TOE2:drugi palec u stopy:STP]"
+msgstr "[BP:TOE2:drugi palec u stopy:drugie palce u stopy]"
 
 #: body_rcp.txt:419
 msgctxt "BODY:RCP_5_FRONT_FINGERS"
 msgid "[BP:FINGER1:first finger:STP]"
-msgstr "[BP:FINGER1:pierwszy palec:STP]"
+msgstr "[BP:FINGER1:pierwszy palec:pierwsze palce]"
 
 #: body_rcp.txt:421
 msgctxt "BODY:RCP_5_FRONT_FINGERS"
 msgid "[BP:FINGER2:second finger:STP]"
-msgstr "[BP:FINGER2drugi palec:STP]"
+msgstr "[BP:FINGER2:drugi palec:drugie palce]"
 
 #: body_rcp.txt:423
 msgctxt "BODY:RCP_5_FRONT_FINGERS"
 msgid "[BP:FINGER3:third finger:STP]"
-msgstr "[BP:FINGER3:trzeci palec:STP]"
+msgstr "[BP:FINGER3:trzeci palec:trzecie palce]"
 
 #: body_rcp.txt:425
 msgctxt "BODY:RCP_5_FRONT_FINGERS"
 msgid "[BP:FINGER4:fourth finger:STP]"
-msgstr "[BP:FINGER4:czwarty palec:STP]"
+msgstr "[BP:FINGER4:czwarty palec:czwarte palce]"
 
 #: body_rcp.txt:427
 msgctxt "BODY:RCP_5_FRONT_FINGERS"
 msgid "[BP:FINGER5:fifth finger:STP]"
-msgstr "[BP:FINGER5:piąty palec:STP]"
+msgstr "[BP:FINGER5:piąty palec:piąte palce]"
 
 #: body_rcp.txt:431
 msgctxt "BODY:RCP_4_FRONT_FINGERS"
 msgid "[BP:FINGER1:first finger:STP]"
-msgstr "[BP:FINGER1:pierwszy palec:STP]"
+msgstr "[BP:FINGER1:pierwszy palec:pierwsze palce]"
 
 #: body_rcp.txt:433
 msgctxt "BODY:RCP_4_FRONT_FINGERS"
 msgid "[BP:FINGER2:second finger:STP]"
-msgstr "[BP:FINGER2drugi palec:STP]"
+msgstr "[BP:FINGER2:drugi palec:drugie palce]"
 
 #: body_rcp.txt:435
 msgctxt "BODY:RCP_4_FRONT_FINGERS"
 msgid "[BP:FINGER3:third finger:STP]"
-msgstr "[BP:FINGER3:trzeci palec:STP]"
+msgstr "[BP:FINGER3:trzeci palec:trzecie palce]"
 
 #: body_rcp.txt:437
 msgctxt "BODY:RCP_4_FRONT_FINGERS"
 msgid "[BP:FINGER4:fourth finger:STP]"
-msgstr "[BP:FINGER4:czwarty palec:STP]"
+msgstr "[BP:FINGER4:czwarty palec:czwarte palce]"
 
 #: body_rcp.txt:441
 msgctxt "BODY:RCP_3_FRONT_FINGERS"
 msgid "[BP:FINGER1:first finger:STP]"
-msgstr "[BP:FINGER1:pierwszy palec:STP]"
+msgstr "[BP:FINGER1:pierwszy palec:pierwsze palce]"
 
 #: body_rcp.txt:443
 msgctxt "BODY:RCP_3_FRONT_FINGERS"
 msgid "[BP:FINGER2:second finger:STP]"
-msgstr "[BP:FINGER2drugi palec:STP]"
+msgstr "[BP:FINGER2:drugi palec:drugie palce]"
 
 #: body_rcp.txt:445
 msgctxt "BODY:RCP_3_FRONT_FINGERS"
 msgid "[BP:FINGER3:third finger:STP]"
-msgstr "[BP:FINGER3:trzeci palec:STP]"
+msgstr "[BP:FINGER3:trzeci palec:trzecie palce]"
 
 #: body_rcp.txt:449
 msgctxt "BODY:RCP_2_FRONT_FINGERS"
 msgid "[BP:FINGER1:first finger:STP]"
-msgstr "[BP:FINGER1:pierwszy palec:STP]"
+msgstr "[BP:FINGER1:pierwszy palec:pierwsze palce]"
 
 #: body_rcp.txt:451
 msgctxt "BODY:RCP_2_FRONT_FINGERS"
 msgid "[BP:FINGER2:second finger:STP]"
-msgstr "[BP:FINGER2drugi palec:STP]"
+msgstr "[BP:FINGER2:drugi palec:drugie palce]"
 
 #: body_rcp.txt:455
 msgctxt "BODY:RCP_1_EYE"
 msgid "[BP:EYE:eye:STP]"
-msgstr "[BP:EYE:oko:STP]"
+msgstr "[BP:EYE:oko:oczy]"
 
 #: body_rcp.txt:459
 msgctxt "BODY:RCP_2_EYES"
 msgid "[BP:REYE:right eye:STP]"
-msgstr "[BP:REYE:prawe oko:STP]"
+msgstr "[BP:REYE:prawe oko:prawe oczy]"
 
 #: body_rcp.txt:461
 msgctxt "BODY:RCP_2_EYES"
 msgid "[BP:LEYE:left eye:STP]"
-msgstr "[BP:LEYE:lewe oko:STP]"
+msgstr "[BP:LEYE:lewe oko:lewe oczy]"
 
 #: body_rcp.txt:465
 msgctxt "BODY:RCP_3_EYES"
 msgid "[BP:REYE:right eye:STP]"
-msgstr "[BP:REYE:prawe oko:STP]"
+msgstr "[BP:REYE:prawe oko:prawe oczy]"
 
 #: body_rcp.txt:467
 msgctxt "BODY:RCP_3_EYES"
 msgid "[BP:LEYE:left eye:STP]"
-msgstr "[BP:LEYE:lewe oko:STP]"
+msgstr "[BP:LEYE:lewe oko:lewe oczy]"
 
 #: body_rcp.txt:469
 msgctxt "BODY:RCP_3_EYES"
 msgid "[BP:EYE:center eye:STP]"
-msgstr "[BP:EYE:środkowe oko:STP]"
+msgstr "[BP:EYE:środkowe oko:środkowe oczy]"
 
 #: body_rcp.txt:473
 msgctxt "BODY:RCP_BEAK"
 msgid "[BP:BEAK:beak:STP]"
-msgstr "[BP:BEAK:dziób:STP]"
+msgstr "[BP:BEAK:dziób:dzioby]"
 
 #: body_rcp.txt:477
 msgctxt "BODY:RCP_NOSE"
 msgid "[BP:NOSE:nose:STP]"
-msgstr "[BP:NOSE:nos:STP]"
+msgstr "[BP:NOSE:nos:nosy]"
 
 #: body_rcp.txt:481
 msgctxt "BODY:RCP_CHEEKS"
 msgid "[BP:L_CHEEK:left cheek:STP]"
-msgstr "[BP:L_CHEEK:lewy policzek:STP]"
+msgstr "[BP:L_CHEEK:lewy policzek:lewe policzki]"
 
 #: body_rcp.txt:483
 msgctxt "BODY:RCP_CHEEKS"
 msgid "[BP:R_CHEEK:right cheek:STP]"
-msgstr "[BP:R_CHEEKprawy policzek:STP]"
+msgstr "[BP:R_CHEEK:prawy policzek:prawe policzki]"
 
 #: body_rcp.txt:487
 msgctxt "BODY:RCP_LUNGS"
 msgid "[BP:RLUNG:right lung:STP]"
-msgstr "[BP:RLUNG:prawe płuco:STP]"
+msgstr "[BP:RLUNG:prawe płuco:prawe płuca]"
 
 #: body_rcp.txt:489
 msgctxt "BODY:RCP_LUNGS"
 msgid "[BP:LLUNG:left lung:STP]"
-msgstr "[BP:LLUNG:lewe płuco:STP]"
+msgstr "[BP:LLUNG:lewe płuco:lewe płuca]"
 
 #: body_rcp.txt:493
 msgctxt "BODY:RCP_HEART"
 msgid "[BP:HEART:heart:STP]"
-msgstr "[BP:HEART:serce:STP]"
+msgstr "[BP:HEART:serce:serca]"
 
 #: body_rcp.txt:497
 msgctxt "BODY:RCP_GUTS"
 msgid "[BP:GUTS:guts:guts]"
-msgstr "[BP:GUTS:wnętrzności:jelita]"
+msgstr "[BP:GUTS:jelito:jelita]"
 
 #: body_rcp.txt:502
 msgctxt "BODY:RCP_THROAT"
 msgid "[BP:THROAT:throat:STP]"
-msgstr "[BP:THROAT:gardło:STP]"
+msgstr "[BP:THROAT:gardło:gardła]"
 
 #: body_rcp.txt:506
 msgctxt "BODY:RCP_SPINE"
 msgid "[BP:UPPERSPINE:middle spine:STP]"
-msgstr "[BP:UPPERSPINE:środkowa część kręgosłupa:STP]"
+msgstr ""
+"[BP:UPPERSPINE:piersiowy odcinek kręgosłupa:piersiowe odcinki kręgosłupa]"
 
 #: body_rcp.txt:509
 msgctxt "BODY:RCP_SPINE"
 msgid "[BP:LOWERSPINE:lower spine:STP]"
-msgstr "[BP:LOWERSPINE:dolna część kręgosłupa:STP]"
+msgstr "[BP:LOWERSPINE:dolna część kręgosłupa:dolne części kręgosłupa]"
 
 #: body_rcp.txt:514
 msgctxt "BODY:RCP_NECK"
 msgid "[BP:NK:neck:STP]"
-msgstr "[BP:NK:kark:STP]"
+msgstr "[BP:NK:szyja:szyje]"
 
 #: body_rcp.txt:518
 msgctxt "BODY:RCP_UPPER_SPINE"
 msgid "[BP:NECK:upper spine:STP]"
-msgstr "[BP:NECK:górna część kręgosłupa:STP]"
+msgstr "[BP:NECK:szyjny odcinek kręgosłupa:szyjne odcinki kręgosłupa]"
 
 #: body_rcp.txt:523
 msgctxt "BODY:RCP_BRAIN"
 msgid "[BP:BRAIN:brain:STP]"
-msgstr "[BP:BRAIN:mózg:STP]"
+msgstr "[BP:BRAIN:mózg:mózgi]"
 
 #: body_rcp.txt:527
 msgctxt "BODY:RCP_SKULL"
 msgid "[BP:SKULL:skull:STP]"
-msgstr "[BP:SKULL:czaszka:STP]"
+msgstr "[BP:SKULL:czaszka:czaszki]"
 
 #: body_rcp.txt:537
 msgctxt "BODY:RCP_MOUTH"
 msgid "[BP:MOUTH:mouth:STP]"
-msgstr "[BP:MOUTH:żuchwa:STP]"
+msgstr "[BP:MOUTH:usta:usta]"
 
 #: body_rcp.txt:541
 msgctxt "BODY:RCP_TEETH"
@@ -4889,112 +5015,112 @@ msgstr "[BP:TOOTH:ząb:zęby]"
 #: body_rcp.txt:545
 msgctxt "BODY:RCP_RIBS"
 msgid "[BP:L_TRUE_RIB:left true rib:STP]"
-msgstr "[BP:L_TRUE_RIB:lewe żebro prawdziwe:STP]"
+msgstr "[BP:L_TRUE_RIB:lewe żebro prawdziwe:lewe żebra prawdziwe]"
 
 #: body_rcp.txt:547
 msgctxt "BODY:RCP_RIBS"
 msgid "[BP:R_TRUE_RIB:right true rib:STP]"
-msgstr "[BP:R_TRUE_RIB:prawe żebro prawdziwe:STP]"
+msgstr "[BP:R_TRUE_RIB:prawe żebro prawdziwe:prawe żebra prawdziwe]"
 
 #: body_rcp.txt:549
 msgctxt "BODY:RCP_RIBS"
 msgid "[BP:L_FALSE_RIB:left false rib:STP]"
-msgstr "[BP:L_FALSE_RIB:lewe żebro rzekome:STP]"
+msgstr "[BP:L_FALSE_RIB:lewe żebro rzekome:lewe żebra rzekome]"
 
 #: body_rcp.txt:551
 msgctxt "BODY:RCP_RIBS"
 msgid "[BP:R_FALSE_RIB:right false rib:STP]"
-msgstr "[BP:R_FALSE_RIB:prawe żebro rzekome:STP]"
+msgstr "[BP:R_FALSE_RIB:prawe żebro rzekome:prawe żebra rzekome]"
 
 #: body_rcp.txt:553
 msgctxt "BODY:RCP_RIBS"
 msgid "[BP:L_FLOATING_RIB:left floating rib:STP]"
-msgstr "[BP:L_FLOATING_RIB:lewe wolne żebro:STP]"
+msgstr "[BP:L_FLOATING_RIB:lewe wolne żebro:lewe wolne żebra]"
 
 #: body_rcp.txt:555
 msgctxt "BODY:RCP_RIBS"
 msgid "[BP:R_FLOATING_RIB:right floating rib:STP]"
-msgstr "[BP:R_FLOATING_RIB:prawe wolne żebro:STP]"
+msgstr "[BP:R_FLOATING_RIB:prawe wolne żebro:prawe wolne żebra]"
 
 #: body_rcp.txt:559
 msgctxt "BODY:RCP_RIBS_EXTERNAL"
 msgid "[BP:L_TRUE_RIB:left true rib:STP]"
-msgstr "[BP:L_TRUE_RIB:lewe żebro prawdziwe:STP]"
+msgstr "[BP:L_TRUE_RIB:lewe żebro prawdziwe:lewe żebra prawdziwe]"
 
 #: body_rcp.txt:561
 msgctxt "BODY:RCP_RIBS_EXTERNAL"
 msgid "[BP:R_TRUE_RIB:right true rib:STP]"
-msgstr "[BP:R_TRUE_RIB:prawe żebro prawdziwe:STP]"
+msgstr "[BP:R_TRUE_RIB:prawe żebro prawdziwe:prawe żebra prawdziwe]"
 
 #: body_rcp.txt:563
 msgctxt "BODY:RCP_RIBS_EXTERNAL"
 msgid "[BP:L_FALSE_RIB:left false rib:STP]"
-msgstr "[BP:L_FALSE_RIB:lewe żebro rzekome:STP]"
+msgstr "[BP:L_FALSE_RIB:lewe żebro rzekome:lewe żebra rzekome]"
 
 #: body_rcp.txt:565
 msgctxt "BODY:RCP_RIBS_EXTERNAL"
 msgid "[BP:R_FALSE_RIB:right false rib:STP]"
-msgstr "[BP:R_FALSE_RIB:prawe żebro rzekome:STP]"
+msgstr "[BP:R_FALSE_RIB:prawe żebro rzekome:prawe żebra rzekome]"
 
 #: body_rcp.txt:567
 msgctxt "BODY:RCP_RIBS_EXTERNAL"
 msgid "[BP:L_FLOATING_RIB:left floating rib:STP]"
-msgstr "[BP:L_FLOATING_RIB:lewe wolne żebro:STP]"
+msgstr "[BP:L_FLOATING_RIB:lewe wolne żebro:lewe wolne żebra]"
 
 #: body_rcp.txt:569
 msgctxt "BODY:RCP_RIBS_EXTERNAL"
 msgid "[BP:R_FLOATING_RIB:right floating rib:STP]"
-msgstr "[BP:R_FLOATING_RIB:prawe wolne żebro:STP]"
+msgstr "[BP:R_FLOATING_RIB:prawe wolne żebro:prawe wolne żebra]"
 
 #: body_rcp.txt:573
 msgctxt "BODY:RCP_LIPS"
 msgid "[BP:L_LIP:lower lip:STP]"
-msgstr "[BP:L_LIP:dolna warga:STP]"
+msgstr "[BP:L_LIP:dolna warga:dolne wargi]"
 
 #: body_rcp.txt:575
 msgctxt "BODY:RCP_LIPS"
 msgid "[BP:U_LIP:upper lip:STP]"
-msgstr "[BP:U_LIP:górna warga:STP]"
+msgstr "[BP:U_LIP:górna warga:górne wargi]"
 
 #: body_rcp.txt:579
 msgctxt "BODY:RCP_TONGUE"
 msgid "[BP:TONGUE:tongue:STP]"
-msgstr "[BP:TONGUE:język:STP]"
+msgstr "[BP:TONGUE:język:języki]"
 
 #: body_rcp.txt:583
 msgctxt "BODY:RCP_FORKED_TONGUE"
 msgid "[BP:TONGUE:forked tongue:STP]"
-msgstr "[BP:TONGUE:rozdwojony język:STP]"
+msgstr "[BP:TONGUE:rozdwojony język:rozdwojone języki]"
 
 #: body_rcp.txt:587
 msgctxt "BODY:RCP_1_EYELID"
 msgid "[BP:EYELID:eyelid:STP]"
-msgstr "[BP:EYELID:powieka:STP]"
+msgstr "[BP:EYELID:powieka:powieki]"
 
 #: body_rcp.txt:591
 msgctxt "BODY:RCP_2_EYELIDS"
 msgid "[BP:L_EYELID:left eyelid:STP]"
-msgstr "[BP:L_EYELID:lewa powieka:STP]"
+msgstr "[BP:L_EYELID:lewa powieka:lewe powieki]"
 
 #: body_rcp.txt:593
 msgctxt "BODY:RCP_2_EYELIDS"
 msgid "[BP:R_EYELID:right eyelid:STP]"
-msgstr "[BP:R_EYELID:prawa powieka:STP]"
+msgstr "[BP:R_EYELID:prawa powieka:prawe powieki]"
 
 #: body_rcp.txt:597
 msgctxt "BODY:RCP_3_EYELIDS"
 msgid "[BP:L_EYELID:left eyelid:STP]"
-msgstr "[BP:L_EYELID:lewa powieka:STP]"
+msgstr "[BP:L_EYELID:lewa powieka:lewe powieki]"
 
 #: body_rcp.txt:599
 msgctxt "BODY:RCP_3_EYELIDS"
 msgid "[BP:R_EYELID:right eyelid:STP]"
-msgstr "[BP:R_EYELID:prawa powieka:STP]"
+msgstr "[BP:R_EYELID:prawa powieka:prawe powieki]"
 
 #: body_rcp.txt:601
 msgctxt "BODY:RCP_3_EYELIDS"
 msgid "[BP:EYELID:center eyelid:STP]"
-msgstr "[BP:EYELID:środkowa powieka:STP]"
+msgstr "[BP:EYELID:środkowa powieka:środkowe powieki]"
 
 #: body_rcp.txt:604
 msgctxt "BODY:RCP_3_EYELIDS"
@@ -5009,17 +5135,17 @@ msgstr "[BODYGLOSS:RCP_GLOSS_PAW:stopa:łapa:stopy:łapy]"
 #: body_rcp.txt:609
 msgctxt "BODY:RCP_BILL"
 msgid "[BP:BILL:bill:STP]"
-msgstr "[BP:BILL:dziób:STP]"
+msgstr "[BP:BILL:dziób:dzioby]"
 
 #: body_rcp.txt:613
 msgctxt "BODY:RCP_2_HEAD_ANTLERS"
 msgid "[BP:HEAD_ANTLER_1:left antler:STP]"
-msgstr "[BP:HEAD_ANTLER_1:lewy jeleni róg:STP]"
+msgstr "[BP:HEAD_ANTLER_1:lewa rosocha:lewe rosochy]"
 
 #: body_rcp.txt:615
 msgctxt "BODY:RCP_2_HEAD_ANTLERS"
 msgid "[BP:HEAD_ANTLER_2:right antler:STP]"
-msgstr "[BP:HEAD_ANTLER_2:prawy jeleni róg:STP]"
+msgstr "[BP:HEAD_ANTLER_2:prawa rosocha:prawe rosochy]"
 
 #: tissue_template_default.txt:6
 msgctxt "TISSUE_TEMPLATE:SKIN_TEMPLATE"
@@ -5039,47 +5165,47 @@ msgstr "[TISSUE_NAME:mięsień:mięśnie]"
 #: tissue_template_default.txt:47
 msgctxt "TISSUE_TEMPLATE:BONE_TEMPLATE"
 msgid "[TISSUE_NAME:bone:NP]"
-msgstr "[TISSUE_NAME:kość:NP]"
+msgstr "[TISSUE_NAME:kość:kości]"
 
 #: tissue_template_default.txt:61
 msgctxt "TISSUE_TEMPLATE:SHELL_TEMPLATE"
 msgid "[TISSUE_NAME:shell:NP]"
-msgstr "[TISSUE_NAME:muszla:NP]"
+msgstr "[TISSUE_NAME:muszla:muszle]"
 
 #: tissue_template_default.txt:72
 msgctxt "TISSUE_TEMPLATE:HORN_TEMPLATE"
 msgid "[TISSUE_NAME:horn:NP]"
-msgstr "[TISSUE_NAME:róg:NP]"
+msgstr "[TISSUE_NAME:róg:rogi]"
 
 #: tissue_template_default.txt:80
 msgctxt "TISSUE_TEMPLATE:HOOF_TEMPLATE"
 msgid "[TISSUE_NAME:hoof:NP]"
-msgstr "[TISSUE_NAME:kopyto:NP]"
+msgstr "[TISSUE_NAME:kopyto:kopyta]"
 
 #: tissue_template_default.txt:88
 msgctxt "TISSUE_TEMPLATE:CARTILAGE_TEMPLATE"
 msgid "[TISSUE_NAME:cartilage:NP]"
-msgstr "[TISSUE_NAME:chrząstka:NP]"
+msgstr "[TISSUE_NAME:chrząstka:chrząstki]"
 
 #: tissue_template_default.txt:96
 msgctxt "TISSUE_TEMPLATE:HAIR_TEMPLATE"
 msgid "[TISSUE_NAME:hair:NP]"
-msgstr "[TISSUE_NAME:włosy:NP]"
+msgstr "[TISSUE_NAME:włos:włosy]"
 
 #: tissue_template_default.txt:106
 msgctxt "TISSUE_TEMPLATE:CHEEK_WHISKERS_TEMPLATE"
 msgid "[TISSUE_NAME:cheek whisker:STP]"
-msgstr "[TISSUE_NAME:wąsy policzkowe:STP]"
+msgstr "[TISSUE_NAME:wibrys:wibrysy]"
 
 #: tissue_template_default.txt:115
 msgctxt "TISSUE_TEMPLATE:CHIN_WHISKERS_TEMPLATE"
 msgid "[TISSUE_NAME:chin whisker:STP]"
-msgstr "[TISSUE_NAME:wąs podbrutkowy:STP]"
+msgstr "[TISSUE_NAME:wąs podbródkowy:wąsy podbródkowe]"
 
 #: tissue_template_default.txt:124
 msgctxt "TISSUE_TEMPLATE:MOUSTACHE_TEMPLATE"
 msgid "[TISSUE_NAME:moustache:NP]"
-msgstr "[TISSUE_NAME:wąsy:NP]"
+msgstr "[TISSUE_NAME:wąs:wąsy]"
 
 #: tissue_template_default.txt:133
 msgctxt "TISSUE_TEMPLATE:SIDEBURNS_TEMPLATE"
@@ -5089,7 +5215,7 @@ msgstr "[TISSUE_NAME:bokobrody:NP]"
 #: tissue_template_default.txt:142
 msgctxt "TISSUE_TEMPLATE:EYEBROW_TEMPLATE"
 msgid "[TISSUE_NAME:eyebrow:NP]"
-msgstr "[TISSUE_NAME:brew:NP]"
+msgstr "[TISSUE_NAME:brew:brwi]"
 
 #: tissue_template_default.txt:151
 msgctxt "TISSUE_TEMPLATE:EYELASH_TEMPLATE"
@@ -5099,37 +5225,37 @@ msgstr "[TISSUE_NAME:rzęsa:rzęsy]"
 #: tissue_template_default.txt:160
 msgctxt "TISSUE_TEMPLATE:FEATHER_TEMPLATE"
 msgid "[TISSUE_NAME:feather:STP]"
-msgstr "[TISSUE_NAME:pierze:STP]"
+msgstr "[TISSUE_NAME:pióro:pióra]"
 
 #: tissue_template_default.txt:168
 msgctxt "TISSUE_TEMPLATE:SCALE_TEMPLATE"
 msgid "[TISSUE_NAME:scale:STP]"
-msgstr "[TISSUE_NAME:łuska:STP]"
+msgstr "[TISSUE_NAME:łuska:łuski]"
 
 #: tissue_template_default.txt:179
 msgctxt "TISSUE_TEMPLATE:NAIL_TEMPLATE"
 msgid "[TISSUE_NAME:nail:NP]"
-msgstr "[TISSUE_NAME:paznokieć:NP]"
+msgstr "[TISSUE_NAME:paznokieć:paznokcie]"
 
 #: tissue_template_default.txt:187
 msgctxt "TISSUE_TEMPLATE:CLAW_TEMPLATE"
 msgid "[TISSUE_NAME:claw:NP]"
-msgstr "[TISSUE_NAME:pazur:NP]"
+msgstr "[TISSUE_NAME:pazur:pazury]"
 
 #: tissue_template_default.txt:195
 msgctxt "TISSUE_TEMPLATE:TALON_TEMPLATE"
 msgid "[TISSUE_NAME:talon:NP]"
-msgstr "[TISSUE_NAME:szpon:NP]"
+msgstr "[TISSUE_NAME:szpon:szpony]"
 
 #: tissue_template_default.txt:203
 msgctxt "TISSUE_TEMPLATE:TOOTH_TEMPLATE"
 msgid "[TISSUE_NAME:tooth:NP]"
-msgstr "[TISSUE_NAME:ząb:NP]"
+msgstr "[TISSUE_NAME:ząb:zęby]"
 
 #: tissue_template_default.txt:211
 msgctxt "TISSUE_TEMPLATE:IVORY_TEMPLATE"
 msgid "[TISSUE_NAME:ivory:NP]"
-msgstr "[TISSUE_NAME:kość słoniowa:]"
+msgstr "[TISSUE_NAME:kość słoniowa:NP]"
 
 #: tissue_template_default.txt:219
 msgctxt "TISSUE_TEMPLATE:EYE_TEMPLATE"
@@ -5164,7 +5290,7 @@ msgstr "[TISSUE_NAME:tkanka wątroby:NP]"
 #: tissue_template_default.txt:292
 msgctxt "TISSUE_TEMPLATE:GUT_TEMPLATE"
 msgid "[TISSUE_NAME:gut:NP]"
-msgstr "[TISSUE_NAME:kiszka:NP]"
+msgstr "[TISSUE_NAME:kiszka:kiszki]"
 
 #: tissue_template_default.txt:305
 msgctxt "TISSUE_TEMPLATE:STOMACH_TEMPLATE"
@@ -5174,7 +5300,7 @@ msgstr "[TISSUE_NAME:tkanka żołądka:NP]"
 #: tissue_template_default.txt:318
 msgctxt "TISSUE_TEMPLATE:GIZZARD_TEMPLATE"
 msgid "[TISSUE_NAME:gizzard tissue:NP]"
-msgstr "[TISSUE_NAME:tkanka gardła:NP]"
+msgstr "[TISSUE_NAME:tkanka żołądka mięśniowego:NP]"
 
 #: tissue_template_default.txt:331
 msgctxt "TISSUE_TEMPLATE:PANCREAS_TEMPLATE"
@@ -5194,12 +5320,12 @@ msgstr "[TISSUE_NAME:tkanka nerki:NP]"
 #: tissue_template_default.txt:370
 msgctxt "TISSUE_TEMPLATE:FLAME_TEMPLATE"
 msgid "[TISSUE_NAME:flames:NP]"
-msgstr "[TISSUE_NAME:płomienny:NP]"
+msgstr "[TISSUE_NAME:płomień:płomienie]"
 
 #: tissue_template_default.txt:381
 msgctxt "TISSUE_TEMPLATE:CHITIN_TEMPLATE"
 msgid "[TISSUE_NAME:chitin:NP]"
-msgstr "[TISSUE_NAME:chitynowy:NP]"
+msgstr "[TISSUE_NAME:chityna:NP]"
 
 #: tissue_template_default.txt:396
 msgctxt "TISSUE_TEMPLATE:SPINE_TEMPLATE"
@@ -5209,7 +5335,7 @@ msgstr "[TISSUE_NAME:kręgosłup:NP]"
 #: tissue_template_default.txt:404
 msgctxt "TISSUE_TEMPLATE:SPONGE_TEMPLATE"
 msgid "[TISSUE_NAME:sponge:NP]"
-msgstr "[TISSUE_NAME:gąbczasty:NP]"
+msgstr "[TISSUE_NAME:gąbka:NP]"
 
 #: building_custom.txt:6
 msgctxt "BUILDING_WORKSHOP:SOAP_MAKER"
@@ -5248,7 +5374,7 @@ msgstr "[CV_NEW_TAG:CDI:ADV_NAME:Pupil]"
 #: c_variation_default.txt:192
 msgctxt "CREATURE_VARIATION:ANIMAL_PERSON"
 msgid "[CV_NEW_TAG:CDI:VERB:pet:pets:pets]"
-msgstr "[CV_NEW_TAG: CDI:VERB:ulubieniec:ulubieńce:ulubieńce]"
+msgstr "[CV_NEW_TAG: CDI:VERB:ulubieniec:ulubieńcy:ulubieńcze]"
 
 #: c_variation_default.txt:354
 msgctxt "CREATURE_VARIATION:ANIMAL_PERSON_LEGLESS"
@@ -5258,7 +5384,7 @@ msgstr "[CV_NEW_TAG:CDI:ADV_NAME:Pupil]"
 #: c_variation_default.txt:357
 msgctxt "CREATURE_VARIATION:ANIMAL_PERSON_LEGLESS"
 msgid "[CV_NEW_TAG:CDI:VERB:pet:pets:pets]"
-msgstr "[CV_NEW_TAG:CDI:VERB:pet:pets:pets]"
+msgstr "[CV_NEW_TAG: CDI:VERB:ulubieniec:ulubieńcy:ulubieńcze]"
 
 #: c_variation_default.txt:367
 msgctxt "CREATURE_VARIATION:PUNCH_ATTACK"
@@ -5308,7 +5434,7 @@ msgstr "[CV_NEW_TAG:ATTACK_VERB:gryziesz:gryzie]"
 #: c_variation_default.txt:464
 msgctxt "CREATURE_VARIATION:TAIL_STING_VENOM_ATTACK"
 msgid "[CV_NEW_TAG:ATTACK_VERB:sting:stings]"
-msgstr "[CV_NEW_TAG:ATTACK_VERB:kłujesz:kłuje]"
+msgstr "[CV_NEW_TAG:ATTACK_VERB:żądlisz:żądli]"
 
 #: c_variation_default.txt:475
 msgctxt "CREATURE_VARIATION:MOUTH_BITE_ATTACK"
@@ -5333,7 +5459,7 @@ msgstr "[CV_NEW_TAG:ATTACK_VERB:gryziesz:gryzie]"
 #: c_variation_default.txt:515
 msgctxt "CREATURE_VARIATION:MOUTH_BITE_VENOM_ATTACK"
 msgid "[CV_NEW_TAG:ATTACK_VERB:bite:bites]"
-msgstr "[CV_NEW_TAG:ATTACK_VERB:gryziesz:gryzie]"
+msgstr "[CV_NEW_TAG:ATTACK_VERB:kąsasz:kąsa]"
 
 #: c_variation_default.txt:526
 msgctxt "CREATURE_VARIATION:BEAK_BITE_ATTACK"
@@ -10408,7 +10534,7 @@ msgstr "[CVCT_TARGET:skorpion korowy]"
 #: creature_bug_slug_new.txt:452
 msgctxt "CREATURE:GIANT_BARK_SCORPION"
 msgid "[CVCT_REPLACEMENT:giant bark scorpion]"
-msgstr ""
+msgstr "[CVCT_REPLACEMENT:gigantyczny skorpion korowy]"
 
 #: creature_bug_slug_new.txt:473
 msgctxt "CREATURE:GIANT_BARK_SCORPION"
@@ -25323,7 +25449,7 @@ msgstr "[STATE_NAME:LIQUID:tusz mątwy]"
 #: creature_ocean_new.txt:463
 msgctxt "CREATURE:CUTTLEFISH"
 msgid "[STATE_ADJ:LIQUID:cuttlefish ink]"
-msgstr ""
+msgstr "[STATE_ADJ:LIQUID:tusz mątwy]"
 
 #: creature_ocean_new.txt:464
 msgctxt "CREATURE:CUTTLEFISH"
@@ -25333,7 +25459,7 @@ msgstr "[STATE_NAME:GAS:gotujący się tusz mątwy]"
 #: creature_ocean_new.txt:465
 msgctxt "CREATURE:CUTTLEFISH"
 msgid "[STATE_ADJ:GAS:boiling cuttlefish ink]"
-msgstr ""
+msgstr "[STATE_ADJ:GAS:gotujący się tusz mątwy]"
 
 #: creature_ocean_new.txt:476
 msgctxt "CREATURE:CUTTLEFISH"
@@ -25358,7 +25484,7 @@ msgstr "[CVCT_TARGET:mątwa]"
 #: creature_ocean_new.txt:505
 msgctxt "CREATURE:CUTTLEFISH_MAN"
 msgid "[CVCT_REPLACEMENT:cuttlefish man]"
-msgstr ""
+msgstr "[CVCT_REPLACEMENT:człowiek mątwa]"
 
 #: creature_ocean_new.txt:514
 msgctxt "CREATURE:CUTTLEFISH_MAN"
@@ -25388,7 +25514,7 @@ msgstr "[CVCT_TARGET:mątwa]"
 #: creature_ocean_new.txt:539
 msgctxt "CREATURE:GIANT_CUTTLEFISH"
 msgid "[CVCT_REPLACEMENT:giant cuttlefish]"
-msgstr ""
+msgstr "[CVCT_REPLACEMENT:gigantyczna mątwa]"
 
 #: creature_ocean_new.txt:552
 msgctxt "CREATURE:GIANT_CUTTLEFISH"
@@ -29343,7 +29469,7 @@ msgstr "[STATE_NAME:ALL_SOLID:zamrożony atrament ośmiornicy]"
 #: creature_small_ocean.txt:1470
 msgctxt "CREATURE:SQUID"
 msgid "[STATE_ADJ:ALL_SOLID:frozen squid ink]"
-msgstr ""
+msgstr "[STATE_ADJ:ALL_SOLID:zamrożony atrament kałamarnicy]"
 
 #: creature_small_ocean.txt:1471
 msgctxt "CREATURE:SQUID"
@@ -29353,7 +29479,7 @@ msgstr "[STATE_NAME:ciecz:atrament kałamarnicy]"
 #: creature_small_ocean.txt:1472
 msgctxt "CREATURE:SQUID"
 msgid "[STATE_ADJ:LIQUID:squid ink]"
-msgstr ""
+msgstr "[STATE_ADJ:CIECZ:atrament kałamarnicy]"
 
 #: creature_small_ocean.txt:1473
 msgctxt "CREATURE:SQUID"
@@ -29363,7 +29489,7 @@ msgstr "[STATE_NAME:GAS:gotujący się atrament ośmiornicy]"
 #: creature_small_ocean.txt:1474
 msgctxt "CREATURE:SQUID"
 msgid "[STATE_ADJ:GAS:boiling squid ink]"
-msgstr ""
+msgstr "[STATE_ADJ:GAS:gotujący się atrament kałamarnicy]"
 
 #: creature_small_ocean.txt:1491
 msgctxt "CREATURE:SQUID"
@@ -29383,12 +29509,12 @@ msgstr "[TLCM_NOUN:skóra:SINGULAR]"
 #: creature_small_ocean.txt:1518
 msgctxt "CREATURE:SQUID MAN"
 msgid "[CVCT_TARGET:squid]"
-msgstr ""
+msgstr "[CVCT_TARGET:kałamarnica]"
 
 #: creature_small_ocean.txt:1519
 msgctxt "CREATURE:SQUID MAN"
 msgid "[CVCT_REPLACEMENT:squid man]"
-msgstr ""
+msgstr "[CVCT_REPLACEMENT:człowiek kałamarnica]"
 
 #: creature_small_ocean.txt:1528
 msgctxt "CREATURE:SQUID MAN"
@@ -29414,12 +29540,12 @@ msgstr "[DESCRIPTION:Mały osobnik z głową prezentującą dziesięć macek.]"
 #: creature_small_ocean.txt:1552
 msgctxt "CREATURE:GIGANTIC SQUID"
 msgid "[CVCT_TARGET:squid]"
-msgstr ""
+msgstr "[CVCT_TARGET:kałamarnica]"
 
 #: creature_small_ocean.txt:1553
 msgctxt "CREATURE:GIGANTIC SQUID"
 msgid "[CVCT_REPLACEMENT:giant squid]"
-msgstr ""
+msgstr "[CVCT_REPLACEMENT:ogromna kałamarnica]"
 
 #: creature_small_ocean.txt:1566
 msgctxt "CREATURE:GIGANTIC SQUID"
@@ -30580,22 +30706,22 @@ msgstr "[APP_MOD_NOUN:włosy:SINGULAR]"
 #: creature_standard.txt:990
 msgctxt "CREATURE:ELF"
 msgid "[TSU_NOUN:hair:SINGULAR]"
-msgstr ""
+msgstr "[TSU_NOUN:włosy:SINGULAR]"
 
 #: creature_standard.txt:994
 msgctxt "CREATURE:ELF"
 msgid "[TSU_NOUN:beard:SINGULAR]"
-msgstr ""
+msgstr "[TSU_NOUN:broda:SINGULAR]"
 
 #: creature_standard.txt:997
 msgctxt "CREATURE:ELF"
 msgid "[TSU_NOUN:moustache:SINGULAR]"
-msgstr ""
+msgstr "[TSU_NOUN:wąs:SINGULAR]"
 
 #: creature_standard.txt:1000
 msgctxt "CREATURE:ELF"
 msgid "[TSU_NOUN:sideburns:PLURAL]"
-msgstr ""
+msgstr "[TSU_NOUN:bokobrody:PLURAL]"
 
 #: creature_standard.txt:1003
 msgctxt "CREATURE:ELF"
@@ -30798,22 +30924,22 @@ msgstr "[APP_MOD_NOUN:włosy:SINGULAR]"
 #: creature_standard.txt:1264
 msgctxt "CREATURE:GOBLIN"
 msgid "[TSU_NOUN:hair:SINGULAR]"
-msgstr ""
+msgstr "[TSU_NOUN:włosy:SINGULAR]"
 
 #: creature_standard.txt:1268
 msgctxt "CREATURE:GOBLIN"
 msgid "[TSU_NOUN:beard:SINGULAR]"
-msgstr ""
+msgstr "[TSU_NOUN:broda:SINGULAR]"
 
 #: creature_standard.txt:1271
 msgctxt "CREATURE:GOBLIN"
 msgid "[TSU_NOUN:moustache:SINGULAR]"
-msgstr ""
+msgstr "[TSU_NOUN:wąs:SINGULAR]"
 
 #: creature_standard.txt:1274
 msgctxt "CREATURE:GOBLIN"
 msgid "[TSU_NOUN:sideburns:PLURAL]"
-msgstr ""
+msgstr "[TSU_NOUN:bokobrody:PLURAL]"
 
 #: creature_standard.txt:1277
 msgctxt "CREATURE:GOBLIN"
@@ -31128,7 +31254,7 @@ msgstr "troll:trolle:trolle]"
 #: creature_standard.txt:1729
 msgctxt "CREATURE:TROLL"
 msgid "[PREFSTRING:terrifying features]"
-msgstr ""
+msgstr "[PREFSTRING:przerażające cechy]"
 
 #: creature_standard.txt:1734
 msgctxt "CREATURE:TROLL"
@@ -31138,7 +31264,7 @@ msgstr "[STATE_NAME:ALL_SOLID:kość słoniowa]"
 #: creature_standard.txt:1735
 msgctxt "CREATURE:TROLL"
 msgid "[STATE_ADJ:ALL_SOLID:ivory]"
-msgstr ""
+msgstr "[STATE_ADJ:ALL_SOLID:kość słoniowa]"
 
 #: creature_standard.txt:1737
 msgctxt "CREATURE:TROLL"
@@ -31148,47 +31274,47 @@ msgstr "[STATE_NAME:ALL_SOLID:futro]"
 #: creature_standard.txt:1738
 msgctxt "CREATURE:TROLL"
 msgid "[STATE_ADJ:ALL_SOLID:fur]"
-msgstr ""
+msgstr "[STATE_ADJ:ALL_SOLID:futro]"
 
 #: creature_standard.txt:1777
 msgctxt "CREATURE:TROLL"
 msgid "[APP_MOD_NOUN:eyes:PLURAL]"
-msgstr ""
+msgstr "[APP_MOD_NOUN:oczy:PLURAL]"
 
 #: creature_standard.txt:1787
 msgctxt "CREATURE:TROLL"
 msgid "[APP_MOD_NOUN:lips:PLURAL]"
-msgstr ""
+msgstr "[APP_MOD_NOUN:wargi:PLURAL]"
 
 #: creature_standard.txt:1796
 msgctxt "CREATURE:TROLL"
 msgid "[APP_MOD_NOUN:nose bridge:SINGULAR]"
-msgstr ""
+msgstr "[APP_MOD_NOUN:nasada nosowa:SINGULAR]"
 
 #: creature_standard.txt:1799
 msgctxt "CREATURE:TROLL"
 msgid "[APP_MOD_NOUN:ears:PLURAL]"
-msgstr ""
+msgstr "[APP_MOD_NOUN:uszy:PLURAL]"
 
 #: creature_standard.txt:1812
 msgctxt "CREATURE:TROLL"
 msgid "[APP_MOD_NOUN:teeth:PLURAL]"
-msgstr ""
+msgstr "[APP_MOD_NOUN:zęby:PLURAL]"
 
 #: creature_standard.txt:1835
 msgctxt "CREATURE:TROLL"
 msgid "[ATTACK_VERB:punch:punches]"
-msgstr ""
+msgstr "[ATTACK_VERB:uderzasz:uderza]"
 
 #: creature_standard.txt:1842
 msgctxt "CREATURE:TROLL"
 msgid "[ATTACK_VERB:kick:kicks]"
-msgstr ""
+msgstr "[ATTACK_VERB:kopiesz:kopie]"
 
 #: creature_standard.txt:1850
 msgctxt "CREATURE:TROLL"
 msgid "[ATTACK_VERB:scratch:scratches]"
-msgstr ""
+msgstr "[ATTACK_VERB:drapiesz:drapie]"
 
 #: creature_standard.txt:1858
 msgctxt "CREATURE:TROLL"
@@ -31198,17 +31324,17 @@ msgstr "[ATTACK_VERB:gryziesz:gryzie]"
 #: creature_standard.txt:1867
 msgctxt "CREATURE:TROLL"
 msgid "[ATTACK_VERB:gore:gores]"
-msgstr ""
+msgstr "[ATTACK_VERB:rozpruwasz:rozpruwa]"
 
 #: creature_standard.txt:1898
 msgctxt "CREATURE:TROLL"
 msgid "[TLCM_NOUN:fur:SINGULAR]"
-msgstr ""
+msgstr "[TLCM_NOUN:futro:SINGULAR]"
 
 #: creature_standard.txt:1903
 msgctxt "CREATURE:TROLL"
 msgid "[APP_MOD_NOUN:fur:SINGULAR]"
-msgstr ""
+msgstr "[APP_MOD_NOUN:futro:SINGULAR]"
 
 #: creature_standard.txt:1909
 msgctxt "CREATURE:TROLL"
@@ -31226,6 +31352,9 @@ msgid ""
 "[DESCRIPTION:A giant humanoid monster found stomping about in the evil "
 "plains.  Their low howls can be heard long before they are seen.]"
 msgstr ""
+"[DESCRIPTION:Gigantyczny humanoidalny potwór znaleziony na złowrogich "
+"równinach. Ich niskie wycie można usłyszeć na długo przed tym, zanim zostaną"
+" zauważone.]"
 
 #: creature_standard.txt:1916
 msgctxt "CREATURE:OGRE"
@@ -31240,47 +31369,47 @@ msgstr "[CASTE_NAME:ogr:ogry:ogrzy]"
 #: creature_standard.txt:1934
 msgctxt "CREATURE:OGRE"
 msgid "[PREFSTRING:low howls]"
-msgstr ""
+msgstr "[PREFSTRING:niskie wycie]"
 
 #: creature_standard.txt:1974
 msgctxt "CREATURE:OGRE"
 msgid "[APP_MOD_NOUN:eyes:PLURAL]"
-msgstr ""
+msgstr "[APP_MOD_NOUN:oczy:PLURAL]"
 
 #: creature_standard.txt:1984
 msgctxt "CREATURE:OGRE"
 msgid "[APP_MOD_NOUN:lips:PLURAL]"
-msgstr ""
+msgstr "[APP_MOD_NOUN:usta:PLURAL]"
 
 #: creature_standard.txt:1993
 msgctxt "CREATURE:OGRE"
 msgid "[APP_MOD_NOUN:nose bridge:SINGULAR]"
-msgstr ""
+msgstr "[APP_MOD_NOUN:nasada nosowa:SINGULAR]"
 
 #: creature_standard.txt:1996
 msgctxt "CREATURE:OGRE"
 msgid "[APP_MOD_NOUN:ears:PLURAL]"
-msgstr ""
+msgstr "[APP_MOD_NOUN:uszy:PLURAL]"
 
 #: creature_standard.txt:2009
 msgctxt "CREATURE:OGRE"
 msgid "[APP_MOD_NOUN:teeth:PLURAL]"
-msgstr ""
+msgstr "[APP_MOD_NOUN:zęby:PLURAL]"
 
 #: creature_standard.txt:2033
 msgctxt "CREATURE:OGRE"
 msgid "[ATTACK_VERB:punch:punches]"
-msgstr ""
+msgstr "[ATTACK_VERB:uderzasz:uderza]"
 
 #: creature_standard.txt:2040
 msgctxt "CREATURE:OGRE"
 msgid "[ATTACK_VERB:kick:kicks]"
-msgstr ""
+msgstr "[ATTACK_VERB:kopiesz:kopie]"
 
 #: creature_standard.txt:2048
 msgctxt "CREATURE:OGRE"
 msgid "[ATTACK_VERB:scratch:scratches]"
-msgstr ""
+msgstr "[ATTACK_VERB:drapiesz:drapie]"
 
 #: creature_standard.txt:2056
 msgctxt "CREATURE:OGRE"
@@ -31329,12 +31458,12 @@ msgstr "[PREFSTRING:rogi]"
 #: creature_standard.txt:2147
 msgctxt "CREATURE:UNICORN"
 msgid "[ATTACK_VERB:stab:stabs]"
-msgstr ""
+msgstr "[ATTACK_VERB:dźgasz:dźga]"
 
 #: creature_standard.txt:2155
 msgctxt "CREATURE:UNICORN"
 msgid "[ATTACK_VERB:kick:kicks]"
-msgstr ""
+msgstr "[ATTACK_VERB:kopiesz:kopie]"
 
 #: creature_standard.txt:2171
 msgctxt "CREATURE:UNICORN"
@@ -31349,7 +31478,7 @@ msgstr "[GENERAL_CHILD_NAME:źrebię jednorożca:źrebięta jednorożca]"
 #: creature_standard.txt:2187
 msgctxt "CREATURE:UNICORN"
 msgid "[TLCM_NOUN:hair:SINGULAR]"
-msgstr ""
+msgstr "[TLCM_NOUN:włosy:SINGULAR]"
 
 #: creature_standard.txt:2190
 msgctxt "CREATURE:UNICORN"
@@ -31367,6 +31496,8 @@ msgid ""
 "[DESCRIPTION:A gigantic reptilian creature.  It is magical and can breathe "
 "fire.  These monsters can live for thousands of years.]"
 msgstr ""
+"[DESCRIPTION:Gigantyczna jaszczuro-podobna istota. Jest magiczna i może ziać ogniem. Te potwory mogą żyć tysiące lat.]\n"
+" "
 
 #: creature_standard.txt:2206
 msgctxt "CREATURE:DRAGON"
@@ -31381,12 +31512,12 @@ msgstr "[CASTE_NAME:smok:smoki:smoczy]"
 #: creature_standard.txt:2216
 msgctxt "CREATURE:DRAGON"
 msgid "[CDI:ADV_NAME:Breathe fire]"
-msgstr ""
+msgstr "[CDI:ADV_NAME:Płonący oddech]"
 
 #: creature_standard.txt:2236
 msgctxt "CREATURE:DRAGON"
 msgid "[PREFSTRING:terrible majesty]"
-msgstr ""
+msgstr "[PREFSTRING:przerażający majestat]"
 
 #: creature_standard.txt:2276
 msgctxt "CREATURE:DRAGON"
@@ -31396,12 +31527,12 @@ msgstr "[ATTACK_VERB:gryziesz:gryzie]"
 #: creature_standard.txt:2285
 msgctxt "CREATURE:DRAGON"
 msgid "[ATTACK_VERB:claw:claws]"
-msgstr ""
+msgstr "[ATTACK_VERB:szarpiesz pazurami:szarpie pazurami]"
 
 #: creature_standard.txt:2320
 msgctxt "CREATURE:DRAGON"
 msgid "[TLCM_NOUN:scales:PLURAL]"
-msgstr ""
+msgstr "[TLCM_NOUN:łuski:PLURAL]"
 
 #: creature_standard.txt:2323
 msgctxt "CREATURE:DRAGON"
@@ -31437,62 +31568,62 @@ msgstr "[CDI:ADV_NAME:Pupil]"
 #: creature_standard.txt:2402
 msgctxt "CREATURE:SATYR"
 msgid "[CDI:VERB:pet:pets:pets]"
-msgstr ""
+msgstr "[CDI:VERB:pupil:pupile:pupilski]"
 
 #: creature_standard.txt:2409
 msgctxt "CREATURE:SATYR"
 msgid "[CDI:ADV_NAME:Spit]"
-msgstr ""
+msgstr "[CDI:ADV_NAME:Pluć]"
 
 #: creature_standard.txt:2414
 msgctxt "CREATURE:SATYR"
 msgid "[CDI:VERB:spit:spits:NA]"
-msgstr ""
+msgstr "[CDI:VERB:pluć:pluje:NA]"
 
 #: creature_standard.txt:2428
 msgctxt "CREATURE:SATYR"
 msgid "[APP_MOD_NOUN:eyes:PLURAL]"
-msgstr ""
+msgstr "[APP_MOD_NOUN:oczy:PLURAL]"
 
 #: creature_standard.txt:2438
 msgctxt "CREATURE:SATYR"
 msgid "[APP_MOD_NOUN:lips:PLURAL]"
-msgstr ""
+msgstr "[APP_MOD_NOUN:usta:PLURAL]"
 
 #: creature_standard.txt:2447
 msgctxt "CREATURE:SATYR"
 msgid "[APP_MOD_NOUN:nose bridge:SINGULAR]"
-msgstr ""
+msgstr "[APP_MOD_NOUN:nasada nosowa:SINGULAR]"
 
 #: creature_standard.txt:2450
 msgctxt "CREATURE:SATYR"
 msgid "[APP_MOD_NOUN:ears:PLURAL]"
-msgstr ""
+msgstr "[APP_MOD_NOUN:uszy:PLURAL]"
 
 #: creature_standard.txt:2463
 msgctxt "CREATURE:SATYR"
 msgid "[APP_MOD_NOUN:teeth:PLURAL]"
-msgstr ""
+msgstr "[APP_MOD_NOUN:zęby:PLURAL]"
 
 #: creature_standard.txt:2485
 msgctxt "CREATURE:SATYR"
 msgid "[ATTACK_VERB:punch:punches]"
-msgstr ""
+msgstr "[ATTACK_VERB:uderzasz:uderza]"
 
 #: creature_standard.txt:2492
 msgctxt "CREATURE:SATYR"
 msgid "[ATTACK_VERB:kick:kicks]"
-msgstr ""
+msgstr "[ATTACK_VERB:kopiesz:kopie]"
 
 #: creature_standard.txt:2500
 msgctxt "CREATURE:SATYR"
 msgid "[ATTACK_VERB:gore:gores]"
-msgstr ""
+msgstr "[ATTACK_VERB:rozpruwasz:rozpruwa]"
 
 #: creature_standard.txt:2507
 msgctxt "CREATURE:SATYR"
 msgid "[ATTACK_VERB:scratch:scratches]"
-msgstr ""
+msgstr "[ATTACK_VERB:drapiesz:drapie]"
 
 #: creature_standard.txt:2515
 msgctxt "CREATURE:SATYR"
@@ -31502,42 +31633,42 @@ msgstr "[ATTACK_VERB:gryziesz:gryzie]"
 #: creature_standard.txt:2546
 msgctxt "CREATURE:SATYR"
 msgid "[TLCM_NOUN:hair:SINGULAR]"
-msgstr ""
+msgstr "[TLCM_NOUN:włosy:SINGULAR]"
 
 #: creature_standard.txt:2549
 msgctxt "CREATURE:SATYR"
 msgid "[APP_MOD_NOUN:eyebrows:PLURAL]"
-msgstr ""
+msgstr "[APP_MOD_NOUN:brwi:PLURAL]"
 
 #: creature_standard.txt:2558
 msgctxt "CREATURE:SATYR"
 msgid "[APP_MOD_NOUN:eyelashes:PLURAL]"
-msgstr ""
+msgstr "[APP_MOD_NOUN:rzęsy:PLURAL]"
 
 #: creature_standard.txt:2566
 msgctxt "CREATURE:SATYR"
 msgid "[APP_MOD_NOUN:hair:SINGULAR]"
-msgstr ""
+msgstr "[APP_MOD_NOUN:włosy:SINGULAR]"
 
 #: creature_standard.txt:2578
 msgctxt "CREATURE:SATYR"
 msgid "[TSU_NOUN:hair:SINGULAR]"
-msgstr ""
+msgstr "[TSU_NOUN:włosy:SINGULAR]"
 
 #: creature_standard.txt:2582
 msgctxt "CREATURE:SATYR"
 msgid "[TSU_NOUN:beard:SINGULAR]"
-msgstr ""
+msgstr "[TSU_NOUN:broda:SINGULAR]"
 
 #: creature_standard.txt:2585
 msgctxt "CREATURE:SATYR"
 msgid "[TSU_NOUN:moustache:SINGULAR]"
-msgstr ""
+msgstr "[TSU_NOUN:wąs:SINGULAR]"
 
 #: creature_standard.txt:2588
 msgctxt "CREATURE:SATYR"
 msgid "[TSU_NOUN:sideburns:PLURAL]"
-msgstr ""
+msgstr "[TSU_NOUN:bokobrody:PLURAL]"
 
 #: creature_standard.txt:2591
 msgctxt "CREATURE:SATYR"
@@ -31554,6 +31685,8 @@ msgctxt "CREATURE:COLOSSUS_BRONZE"
 msgid ""
 "[DESCRIPTION:A gigantic magic statue made of bronze and bent on mayhem.]"
 msgstr ""
+"[DESCRIPTION:Gigantyczna magiczna statua wykonana z brązu i nastawiona na "
+"zamęt.]"
 
 #: creature_standard.txt:2598
 msgctxt "CREATURE:COLOSSUS_BRONZE"
@@ -31568,22 +31701,22 @@ msgstr "[CASTE_NAME:kolos z brązu:kolosy z brązu:kolos z brązu]"
 #: creature_standard.txt:2620
 msgctxt "CREATURE:COLOSSUS_BRONZE"
 msgid "[PREFSTRING:height]"
-msgstr ""
+msgstr "[PREFSTRING:wzrost]"
 
 #: creature_standard.txt:2627
 msgctxt "CREATURE:COLOSSUS_BRONZE"
 msgid "[TISSUE_NAME:bronze:bronze]"
-msgstr ""
+msgstr "[TISSUE_NAME:brąz:z brązu]"
 
 #: creature_standard.txt:2641
 msgctxt "CREATURE:COLOSSUS_BRONZE"
 msgid "[ATTACK_VERB:punch:punches]"
-msgstr ""
+msgstr "[ATTACK_VERB:uderzasz:uderza]"
 
 #: creature_standard.txt:2648
 msgctxt "CREATURE:COLOSSUS_BRONZE"
 msgid "[ATTACK_VERB:kick:kicks]"
-msgstr ""
+msgstr "[ATTACK_VERB:kopiesz:kopie]"
 
 #: creature_standard.txt:2665
 msgctxt "CREATURE:GIANT"
@@ -31591,6 +31724,8 @@ msgid ""
 "[DESCRIPTION:A gigantic creature resembling a human, almost unparalleled in "
 "size.]"
 msgstr ""
+"[DESCRIPTION:Gigantyczna istota przypominająca człowieka, prawie "
+"niespotykanych rozmiarów.]"
 
 #: creature_standard.txt:2666
 msgctxt "CREATURE:GIANT"
@@ -31600,67 +31735,67 @@ msgstr "[NAME:gigant:giganci:gigant]"
 #: creature_standard.txt:2676
 msgctxt "CREATURE:GIANT"
 msgid "[PREFSTRING:height]"
-msgstr ""
+msgstr "[PREFSTRING:wzrost]"
 
 #: creature_standard.txt:2721
 msgctxt "CREATURE:GIANT"
 msgid "[CDI:ADV_NAME:Pet animal]"
-msgstr ""
+msgstr "[CDI:ADV_NAME:Pupil]"
 
 #: creature_standard.txt:2724
 msgctxt "CREATURE:GIANT"
 msgid "[CDI:VERB:pet:pets:pets]"
-msgstr ""
+msgstr "[CDI:VERB:pupil:pupile:pupilski]"
 
 #: creature_standard.txt:2731
 msgctxt "CREATURE:GIANT"
 msgid "[CDI:ADV_NAME:Spit]"
-msgstr ""
+msgstr "[CDI:ADV_NAME:Pluć]"
 
 #: creature_standard.txt:2736
 msgctxt "CREATURE:GIANT"
 msgid "[CDI:VERB:spit:spits:NA]"
-msgstr ""
+msgstr "[CDI:VERB:pluć:pluje:NA]"
 
 #: creature_standard.txt:2750
 msgctxt "CREATURE:GIANT"
 msgid "[APP_MOD_NOUN:eyes:PLURAL]"
-msgstr ""
+msgstr "[APP_MOD_NOUN:oczy:PLURAL]"
 
 #: creature_standard.txt:2760
 msgctxt "CREATURE:GIANT"
 msgid "[APP_MOD_NOUN:lips:PLURAL]"
-msgstr ""
+msgstr "[APP_MOD_NOUN:usta:PLURAL]"
 
 #: creature_standard.txt:2769
 msgctxt "CREATURE:GIANT"
 msgid "[APP_MOD_NOUN:nose bridge:SINGULAR]"
-msgstr ""
+msgstr "[APP_MOD_NOUN:nasada nosowa:SINGULAR]"
 
 #: creature_standard.txt:2772
 msgctxt "CREATURE:GIANT"
 msgid "[APP_MOD_NOUN:ears:PLURAL]"
-msgstr ""
+msgstr "[APP_MOD_NOUN:uszy:PLURAL]"
 
 #: creature_standard.txt:2785
 msgctxt "CREATURE:GIANT"
 msgid "[APP_MOD_NOUN:teeth:PLURAL]"
-msgstr ""
+msgstr "[APP_MOD_NOUN:zęby:PLURAL]"
 
 #: creature_standard.txt:2807
 msgctxt "CREATURE:GIANT"
 msgid "[ATTACK_VERB:punch:punches]"
-msgstr ""
+msgstr "[ATTACK_VERB:uderzasz:uderza]"
 
 #: creature_standard.txt:2814
 msgctxt "CREATURE:GIANT"
 msgid "[ATTACK_VERB:kick:kicks]"
-msgstr ""
+msgstr "[ATTACK_VERB:kopiesz:kopie]"
 
 #: creature_standard.txt:2822
 msgctxt "CREATURE:GIANT"
 msgid "[ATTACK_VERB:scratch:scratches]"
-msgstr ""
+msgstr "[ATTACK_VERB:drapiesz:drapie]"
 
 #: creature_standard.txt:2830
 msgctxt "CREATURE:GIANT"
@@ -31675,47 +31810,47 @@ msgstr "[CASTE_NAME:gigantka:gigantki:gigantka]"
 #: creature_standard.txt:2856
 msgctxt "CREATURE:GIANT"
 msgid "[CASTE_NAME:giant:giants:giant]"
-msgstr ""
+msgstr "[CASTE_NAME:olbrzym:olbrzymy:olbrzymie]"
 
 #: creature_standard.txt:2866
 msgctxt "CREATURE:GIANT"
 msgid "[TLCM_NOUN:hair:SINGULAR]"
-msgstr ""
+msgstr "[TLCM_NOUN:włosy:SINGULAR]"
 
 #: creature_standard.txt:2869
 msgctxt "CREATURE:GIANT"
 msgid "[APP_MOD_NOUN:eyebrows:PLURAL]"
-msgstr ""
+msgstr "[APP_MOD_NOUN:brwi:PLURAL]"
 
 #: creature_standard.txt:2878
 msgctxt "CREATURE:GIANT"
 msgid "[APP_MOD_NOUN:eyelashes:PLURAL]"
-msgstr ""
+msgstr "[APP_MOD_NOUN:rzęsy:PLURAL]"
 
 #: creature_standard.txt:2886
 msgctxt "CREATURE:GIANT"
 msgid "[APP_MOD_NOUN:hair:SINGULAR]"
-msgstr ""
+msgstr "[APP_MOD_NOUN:włosy:SINGULAR]"
 
 #: creature_standard.txt:2898
 msgctxt "CREATURE:GIANT"
 msgid "[TSU_NOUN:hair:SINGULAR]"
-msgstr ""
+msgstr "[TSU_NOUN:włosy:SINGULAR]"
 
 #: creature_standard.txt:2902
 msgctxt "CREATURE:GIANT"
 msgid "[TSU_NOUN:beard:SINGULAR]"
-msgstr ""
+msgstr "[TSU_NOUN:broda:SINGULAR]"
 
 #: creature_standard.txt:2905
 msgctxt "CREATURE:GIANT"
 msgid "[TSU_NOUN:moustache:SINGULAR]"
-msgstr ""
+msgstr "[TSU_NOUN:wąs:SINGULAR]"
 
 #: creature_standard.txt:2908
 msgctxt "CREATURE:GIANT"
 msgid "[TSU_NOUN:sideburns:PLURAL]"
-msgstr ""
+msgstr "[TSU_NOUN:bokobrody:PLURAL]"
 
 #: creature_standard.txt:2911
 msgctxt "CREATURE:GIANT"
@@ -31739,12 +31874,12 @@ msgstr ""
 #: creature_standard.txt:2918
 msgctxt "CREATURE:CYCLOPS"
 msgid "[NAME:cyclops:cyclopes:cyclops]"
-msgstr ""
+msgstr "[NAME:cyklop:cyklopi:cyklopowy]"
 
 #: creature_standard.txt:2919
 msgctxt "CREATURE:CYCLOPS"
 msgid "[CASTE_NAME:cyclops:cyclopes:cyclops]"
-msgstr ""
+msgstr "[CASTE_NAME:cyklop:cyklopi:cyklopowy]"
 
 #: creature_standard.txt:2929
 msgctxt "CREATURE:CYCLOPS"
@@ -31754,62 +31889,62 @@ msgstr "[PREFSTRING:pojedyncze oko]"
 #: creature_standard.txt:2975
 msgctxt "CREATURE:CYCLOPS"
 msgid "[CDI:ADV_NAME:Pet animal]"
-msgstr ""
+msgstr "[CDI:ADV_NAME:Pupil]"
 
 #: creature_standard.txt:2978
 msgctxt "CREATURE:CYCLOPS"
 msgid "[CDI:VERB:pet:pets:pets]"
-msgstr ""
+msgstr "[CDI:VERB:pupil:pupile:pupilski]"
 
 #: creature_standard.txt:2985
 msgctxt "CREATURE:CYCLOPS"
 msgid "[CDI:ADV_NAME:Spit]"
-msgstr ""
+msgstr "[CDI:ADV_NAME:Pluć]"
 
 #: creature_standard.txt:2990
 msgctxt "CREATURE:CYCLOPS"
 msgid "[CDI:VERB:spit:spits:NA]"
-msgstr ""
+msgstr "[CDI:VERB:pluć:pluje:NA]"
 
 #: creature_standard.txt:3004
 msgctxt "CREATURE:CYCLOPS"
 msgid "[APP_MOD_NOUN:eye:SINGULAR]"
-msgstr ""
+msgstr "[APP_MOD_NOUN:oko:SINGULAR]"
 
 #: creature_standard.txt:3009
 msgctxt "CREATURE:CYCLOPS"
 msgid "[APP_MOD_NOUN:lips:PLURAL]"
-msgstr ""
+msgstr "[APP_MOD_NOUN:usta:PLURAL]"
 
 #: creature_standard.txt:3018
 msgctxt "CREATURE:CYCLOPS"
 msgid "[APP_MOD_NOUN:nose bridge:SINGULAR]"
-msgstr ""
+msgstr "[APP_MOD_NOUN:nasada nosowa:SINGULAR]"
 
 #: creature_standard.txt:3021
 msgctxt "CREATURE:CYCLOPS"
 msgid "[APP_MOD_NOUN:ears:PLURAL]"
-msgstr ""
+msgstr "[APP_MOD_NOUN:uszy:PLURAL]"
 
 #: creature_standard.txt:3034
 msgctxt "CREATURE:CYCLOPS"
 msgid "[APP_MOD_NOUN:teeth:PLURAL]"
-msgstr ""
+msgstr "[APP_MOD_NOUN:zęby:PLURAL]"
 
 #: creature_standard.txt:3056
 msgctxt "CREATURE:CYCLOPS"
 msgid "[ATTACK_VERB:punch:punches]"
-msgstr ""
+msgstr "[ATTACK_VERB:uderzasz:uderza]"
 
 #: creature_standard.txt:3063
 msgctxt "CREATURE:CYCLOPS"
 msgid "[ATTACK_VERB:kick:kicks]"
-msgstr ""
+msgstr "[ATTACK_VERB:kopiesz:kopie]"
 
 #: creature_standard.txt:3071
 msgctxt "CREATURE:CYCLOPS"
 msgid "[ATTACK_VERB:scratch:scratches]"
-msgstr ""
+msgstr "[ATTACK_VERB:drapiesz:drapie]"
 
 #: creature_standard.txt:3079
 msgctxt "CREATURE:CYCLOPS"
@@ -31819,42 +31954,42 @@ msgstr "[ATTACK_VERB:gryziesz:gryzie]"
 #: creature_standard.txt:3113
 msgctxt "CREATURE:CYCLOPS"
 msgid "[TLCM_NOUN:hair:SINGULAR]"
-msgstr ""
+msgstr "[TLCM_NOUN:włosy:SINGULAR]"
 
 #: creature_standard.txt:3116
 msgctxt "CREATURE:CYCLOPS"
 msgid "[APP_MOD_NOUN:eyebrow:SINGULAR]"
-msgstr ""
+msgstr "[APP_MOD_NOUN:brew:SINGULAR]"
 
 #: creature_standard.txt:3125
 msgctxt "CREATURE:CYCLOPS"
 msgid "[APP_MOD_NOUN:eyelashes:PLURAL]"
-msgstr ""
+msgstr "[APP_MOD_NOUN:rzęsy:PLURAL]"
 
 #: creature_standard.txt:3133
 msgctxt "CREATURE:CYCLOPS"
 msgid "[APP_MOD_NOUN:hair:SINGULAR]"
-msgstr ""
+msgstr "[APP_MOD_NOUN:włosy:SINGULAR]"
 
 #: creature_standard.txt:3145
 msgctxt "CREATURE:CYCLOPS"
 msgid "[TSU_NOUN:hair:SINGULAR]"
-msgstr ""
+msgstr "[TSU_NOUN:włosy:SINGULAR]"
 
 #: creature_standard.txt:3149
 msgctxt "CREATURE:CYCLOPS"
 msgid "[TSU_NOUN:beard:SINGULAR]"
-msgstr ""
+msgstr "[TSU_NOUN:broda:SINGULAR]"
 
 #: creature_standard.txt:3152
 msgctxt "CREATURE:CYCLOPS"
 msgid "[TSU_NOUN:moustache:SINGULAR]"
-msgstr ""
+msgstr "[TSU_NOUN:wąs:SINGULAR]"
 
 #: creature_standard.txt:3155
 msgctxt "CREATURE:CYCLOPS"
 msgid "[TSU_NOUN:sideburns:PLURAL]"
-msgstr ""
+msgstr "[TSU_NOUN:bokobrody:PLURAL]"
 
 #: creature_standard.txt:3158
 msgctxt "CREATURE:CYCLOPS"
@@ -31864,7 +31999,7 @@ msgstr "[TLCM_NOUN:skóra:SINGULAR]"
 #: creature_standard.txt:3161
 msgctxt "CREATURE:CYCLOPS"
 msgid "[TLCM_NOUN:eye:SINGULAR]"
-msgstr ""
+msgstr "[TLCM_NOUN:oko:SINGULAR]"
 
 #: creature_standard.txt:3164
 msgctxt "CREATURE:ETTIN"
@@ -31874,77 +32009,77 @@ msgstr "[DESCRIPTION:Olbrzymi humanoidalny potwór z dwiema głowami.]"
 #: creature_standard.txt:3165
 msgctxt "CREATURE:ETTIN"
 msgid "[NAME:ettin:ettins:ettin]"
-msgstr ""
+msgstr "[NAME:ettin:ettiny:ettinowe]"
 
 #: creature_standard.txt:3166
 msgctxt "CREATURE:ETTIN"
 msgid "[CASTE_NAME:ettin:ettins:ettin]"
-msgstr ""
+msgstr "[CASTE_NAME:ettin:ettiny:ettinowe]"
 
 #: creature_standard.txt:3176
 msgctxt "CREATURE:ETTIN"
 msgid "[PREFSTRING:arguing heads]"
-msgstr ""
+msgstr "[PREFSTRING:kłócące się głowy]"
 
 #: creature_standard.txt:3221
 msgctxt "CREATURE:ETTIN"
 msgid "[CDI:ADV_NAME:Pet animal]"
-msgstr ""
+msgstr "[CDI:ADV_NAME:Pupil]"
 
 #: creature_standard.txt:3224
 msgctxt "CREATURE:ETTIN"
 msgid "[CDI:VERB:pet:pets:pets]"
-msgstr ""
+msgstr "[CDI:VERB:pupil:pupile:pupilski]"
 
 #: creature_standard.txt:3231
 msgctxt "CREATURE:ETTIN"
 msgid "[CDI:ADV_NAME:Spit]"
-msgstr ""
+msgstr "[CDI:ADV_NAME:Pluć]"
 
 #: creature_standard.txt:3236
 msgctxt "CREATURE:ETTIN"
 msgid "[CDI:VERB:spit:spits:NA]"
-msgstr ""
+msgstr "[CDI:VERB:pluć:pluje:NA]"
 
 #: creature_standard.txt:3251
 msgctxt "CREATURE:ETTIN"
 msgid "[APP_MOD_NOUN:eyes:PLURAL]"
-msgstr ""
+msgstr "[APP_MOD_NOUN:oczy:PLURAL]"
 
 #: creature_standard.txt:3261
 msgctxt "CREATURE:ETTIN"
 msgid "[APP_MOD_NOUN:lips:PLURAL]"
-msgstr ""
+msgstr "[APP_MOD_NOUN:usta:PLURAL]"
 
 #: creature_standard.txt:3270
 msgctxt "CREATURE:ETTIN"
 msgid "[APP_MOD_NOUN:nose bridge:SINGULAR]"
-msgstr ""
+msgstr "[APP_MOD_NOUN:nasada nosowa:SINGULAR]"
 
 #: creature_standard.txt:3273
 msgctxt "CREATURE:ETTIN"
 msgid "[APP_MOD_NOUN:ears:PLURAL]"
-msgstr ""
+msgstr "[APP_MOD_NOUN:uszy:PLURAL]"
 
 #: creature_standard.txt:3286
 msgctxt "CREATURE:ETTIN"
 msgid "[APP_MOD_NOUN:teeth:PLURAL]"
-msgstr ""
+msgstr "[APP_MOD_NOUN:zęby:PLURAL]"
 
 #: creature_standard.txt:3308
 msgctxt "CREATURE:ETTIN"
 msgid "[ATTACK_VERB:punch:punches]"
-msgstr ""
+msgstr "[ATTACK_VERB:uderzasz:uderza]"
 
 #: creature_standard.txt:3315
 msgctxt "CREATURE:ETTIN"
 msgid "[ATTACK_VERB:kick:kicks]"
-msgstr ""
+msgstr "[ATTACK_VERB:kopiesz:kopie]"
 
 #: creature_standard.txt:3323
 msgctxt "CREATURE:ETTIN"
 msgid "[ATTACK_VERB:scratch:scratches]"
-msgstr ""
+msgstr "[ATTACK_VERB:drapiesz:drapie]"
 
 #: creature_standard.txt:3331
 msgctxt "CREATURE:ETTIN"
@@ -31954,42 +32089,42 @@ msgstr "[ATTACK_VERB:gryziesz:gryzie]"
 #: creature_standard.txt:3366
 msgctxt "CREATURE:ETTIN"
 msgid "[TLCM_NOUN:hair:SINGULAR]"
-msgstr ""
+msgstr "[TLCM_NOUN:włosy:SINGULAR]"
 
 #: creature_standard.txt:3369
 msgctxt "CREATURE:ETTIN"
 msgid "[APP_MOD_NOUN:eyebrows:PLURAL]"
-msgstr ""
+msgstr "[APP_MOD_NOUN:brwi:PLURAL]"
 
 #: creature_standard.txt:3378
 msgctxt "CREATURE:ETTIN"
 msgid "[APP_MOD_NOUN:eyelashes:PLURAL]"
-msgstr ""
+msgstr "[APP_MOD_NOUN:rzęsy:PLURAL]"
 
 #: creature_standard.txt:3386
 msgctxt "CREATURE:ETTIN"
 msgid "[APP_MOD_NOUN:hair:SINGULAR]"
-msgstr ""
+msgstr "[APP_MOD_NOUN:włosy:SINGULAR]"
 
 #: creature_standard.txt:3398
 msgctxt "CREATURE:ETTIN"
 msgid "[TSU_NOUN:hair:SINGULAR]"
-msgstr ""
+msgstr "[TSU_NOUN:włosy:SINGULAR]"
 
 #: creature_standard.txt:3402
 msgctxt "CREATURE:ETTIN"
 msgid "[TSU_NOUN:beard:SINGULAR]"
-msgstr ""
+msgstr "[TSU_NOUN:broda:SINGULAR]"
 
 #: creature_standard.txt:3405
 msgctxt "CREATURE:ETTIN"
 msgid "[TSU_NOUN:moustache:SINGULAR]"
-msgstr ""
+msgstr "[TSU_NOUN:wąs:SINGULAR]"
 
 #: creature_standard.txt:3408
 msgctxt "CREATURE:ETTIN"
 msgid "[TSU_NOUN:sideburns:PLURAL]"
-msgstr ""
+msgstr "[TSU_NOUN:bokobrody:PLURAL]"
 
 #: creature_standard.txt:3411
 msgctxt "CREATURE:ETTIN"
@@ -32009,57 +32144,57 @@ msgstr "[DESCRIPTION:Olbrzymi humanoidalny potwór z głową byka.]"
 #: creature_standard.txt:3418
 msgctxt "CREATURE:MINOTAUR"
 msgid "[NAME:minotaur:minotaurs:minotaur]"
-msgstr ""
+msgstr "[NAME:minotaur:minotaury:minotaurzy]"
 
 #: creature_standard.txt:3419
 msgctxt "CREATURE:MINOTAUR"
 msgid "[CASTE_NAME:minotaur:minotaurs:minotaur]"
-msgstr ""
+msgstr "[CASTE_NAME:minotaur:minotaury:minotaurzy]"
 
 #: creature_standard.txt:3429
 msgctxt "CREATURE:MINOTAUR"
 msgid "[PREFSTRING:horns]"
-msgstr ""
+msgstr "[PREFSTRING:rogi]"
 
 #: creature_standard.txt:3476
 msgctxt "CREATURE:MINOTAUR"
 msgid "[CDI:ADV_NAME:Pet animal]"
-msgstr ""
+msgstr "[CDI:ADV_NAME:Pupil]"
 
 #: creature_standard.txt:3479
 msgctxt "CREATURE:MINOTAUR"
 msgid "[CDI:VERB:pet:pets:pets]"
-msgstr ""
+msgstr "[CDI:VERB:pupil:pupile:pupilski]"
 
 #: creature_standard.txt:3486
 msgctxt "CREATURE:MINOTAUR"
 msgid "[CDI:ADV_NAME:Spit]"
-msgstr ""
+msgstr "[CDI:ADV_NAME:Pluć]"
 
 #: creature_standard.txt:3491
 msgctxt "CREATURE:MINOTAUR"
 msgid "[CDI:VERB:spit:spits:NA]"
-msgstr ""
+msgstr "[CDI:VERB:pluć:pluje:NA]"
 
 #: creature_standard.txt:3503
 msgctxt "CREATURE:MINOTAUR"
 msgid "[ATTACK_VERB:punch:punches]"
-msgstr ""
+msgstr "[ATTACK_VERB:uderzasz:uderza]"
 
 #: creature_standard.txt:3510
 msgctxt "CREATURE:MINOTAUR"
 msgid "[ATTACK_VERB:gore:gores]"
-msgstr ""
+msgstr "[ATTACK_VERB:rozpruwasz:rozpruwa]"
 
 #: creature_standard.txt:3517
 msgctxt "CREATURE:MINOTAUR"
 msgid "[ATTACK_VERB:kick:kicks]"
-msgstr ""
+msgstr "[ATTACK_VERB:kopiesz:kopie]"
 
 #: creature_standard.txt:3525
 msgctxt "CREATURE:MINOTAUR"
 msgid "[ATTACK_VERB:scratch:scratches]"
-msgstr ""
+msgstr "[ATTACK_VERB:drapiesz:drapie]"
 
 #: creature_standard.txt:3533
 msgctxt "CREATURE:MINOTAUR"
@@ -32069,7 +32204,7 @@ msgstr "[ATTACK_VERB:gryziesz:gryzie]"
 #: creature_standard.txt:3593
 msgctxt "CREATURE:MINOTAUR"
 msgid "[TLCM_NOUN:hair:SINGULAR]"
-msgstr ""
+msgstr "[TLCM_NOUN:futro:SINGULAR]"
 
 #: creature_standard.txt:3596
 msgctxt "CREATURE:MINOTAUR"
@@ -32093,32 +32228,32 @@ msgstr ""
 #: creature_standard.txt:3603
 msgctxt "CREATURE:YETI"
 msgid "[NAME:yeti:yetis:yeti]"
-msgstr ""
+msgstr "[NAME:yei:yeti:yeti]"
 
 #: creature_standard.txt:3604
 msgctxt "CREATURE:YETI"
 msgid "[CASTE_NAME:yeti:yetis:yeti]"
-msgstr ""
+msgstr "[CASTE_NAME:yeti:yetis:yeti]"
 
 #: creature_standard.txt:3619
 msgctxt "CREATURE:YETI"
 msgid "[PREFSTRING:white fur]"
-msgstr ""
+msgstr "[PREFSTRING:białe futro]"
 
 #: creature_standard.txt:3657
 msgctxt "CREATURE:YETI"
 msgid "[ATTACK_VERB:punch:punches]"
-msgstr ""
+msgstr "[ATTACK_VERB:uderzasz:uderza]"
 
 #: creature_standard.txt:3664
 msgctxt "CREATURE:YETI"
 msgid "[ATTACK_VERB:kick:kicks]"
-msgstr ""
+msgstr "[ATTACK_VERB:kopiesz:kopie]"
 
 #: creature_standard.txt:3672
 msgctxt "CREATURE:YETI"
 msgid "[ATTACK_VERB:scratch:scratches]"
-msgstr ""
+msgstr "[ATTACK_VERB:drapiesz:drapie]"
 
 #: creature_standard.txt:3680
 msgctxt "CREATURE:YETI"
@@ -32128,7 +32263,7 @@ msgstr "[ATTACK_VERB:gryziesz:gryzie]"
 #: creature_standard.txt:3705
 msgctxt "CREATURE:YETI"
 msgid "[TLCM_NOUN:hair:SINGULAR]"
-msgstr ""
+msgstr "[TLCM_NOUN:futro:SINGULAR]"
 
 #: creature_standard.txt:3708
 msgctxt "CREATURE:YETI"
@@ -32152,32 +32287,32 @@ msgstr ""
 #: creature_standard.txt:3717
 msgctxt "CREATURE:SASQUATCH"
 msgid "[NAME:sasquatch:sasquatches:sasquatch]"
-msgstr ""
+msgstr "[NAME:wielka stopa:wielkie stopy:wielkich stóp]"
 
 #: creature_standard.txt:3718
 msgctxt "CREATURE:SASQUATCH"
 msgid "[CASTE_NAME:sasquatch:sasquatches:sasquatch]"
-msgstr ""
+msgstr "[CASTE_NAME:wielka stopa:wielkie stopy:wielkich stóp]"
 
 #: creature_standard.txt:3732
 msgctxt "CREATURE:SASQUATCH"
 msgid "[PREFSTRING:reclusive nature]"
-msgstr ""
+msgstr "[PREFSTRING:samotniczy charakter]"
 
 #: creature_standard.txt:3770
 msgctxt "CREATURE:SASQUATCH"
 msgid "[ATTACK_VERB:punch:punches]"
-msgstr ""
+msgstr "[ATTACK_VERB:uderzasz:uderza]"
 
 #: creature_standard.txt:3777
 msgctxt "CREATURE:SASQUATCH"
 msgid "[ATTACK_VERB:kick:kicks]"
-msgstr ""
+msgstr "[ATTACK_VERB:kopiesz:kopie]"
 
 #: creature_standard.txt:3785
 msgctxt "CREATURE:SASQUATCH"
 msgid "[ATTACK_VERB:scratch:scratches]"
-msgstr ""
+msgstr "[ATTACK_VERB:drapiesz:drapie]"
 
 #: creature_standard.txt:3793
 msgctxt "CREATURE:SASQUATCH"
@@ -32187,7 +32322,7 @@ msgstr "[ATTACK_VERB:gryziesz:gryzie]"
 #: creature_standard.txt:3818
 msgctxt "CREATURE:SASQUATCH"
 msgid "[TLCM_NOUN:hair:SINGULAR]"
-msgstr ""
+msgstr "[TLCM_NOUN:futro:SINGULAR]"
 
 #: creature_standard.txt:3821
 msgctxt "CREATURE:SASQUATCH"
@@ -32205,6 +32340,8 @@ msgid ""
 "[DESCRIPTION:A large humanoid monster from the wild tundra.  It has "
 "translucent skin, icicles for teeth, red glowing eyes and pointed ears.]"
 msgstr ""
+"[DESCRIPTION:Duży humanoidalny potwór z dzikiej tundry. Ma przezroczystą "
+"skórę, sople zamiast zębów, czerwone świecące oczy i spiczaste uszy.]"
 
 #: creature_standard.txt:3830
 msgctxt "CREATURE:BLIZZARD_MAN"
@@ -37955,7 +38092,7 @@ msgstr "[ATTACK_VERB:gryziesz:gryzie]"
 #: creature_tropical_new.txt:1167
 msgctxt "CREATURE:CAPUCHIN"
 msgid "[ATTACK_VERB:scratch:scratches]"
-msgstr ""
+msgstr "[ATTACK_VERB:drapiesz:drapie]"
 
 #: creature_tropical_new.txt:1191
 msgctxt "CREATURE:CAPUCHIN"
