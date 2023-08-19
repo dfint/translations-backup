@@ -10,12 +10,12 @@
 # Mateusz D, 2023
 # Maciej Chorobiński <Sokmund1@gmail.com>, 2023
 # insolor, 2023
-# Bartek Patelka, 2023
 # Michał Długosz <michal.d.dlugosz@gmail.com>, 2023
+# Bartek Patelka, 2023
 # 
 msgid ""
 msgstr ""
-"Last-Translator: Michał Długosz <michal.d.dlugosz@gmail.com>, 2023\n"
+"Last-Translator: Bartek Patelka, 2023\n"
 "Language-Team: Polish (https://app.transifex.com/dwarf-fortress-translation/teams/22396/pl/)\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -130,7 +130,7 @@ msgstr "[BP:RA:lewa przednia stopa:lewe przednie stopy]"
 #: body_default.txt:65
 msgctxt "BODY:BASIC_REARLEGS"
 msgid "[BP:RL:right rear leg:STP]"
-msgstr "[BP:RA:prawa tylna noga:prawe tylne stopy]"
+msgstr "[BP:RA:prawa tylna noga:prawe tylne nogi]"
 
 #: body_default.txt:67
 msgctxt "BODY:BASIC_REARLEGS"
@@ -720,7 +720,7 @@ msgstr "[BP:LB:dolna część ciała:dolne części ciała]"
 #: body_default.txt:327
 msgctxt "BODY:HUMANOID_NECK_FLIER"
 msgid "[BP:NK:neck:STP]"
-msgstr "[BP:NK:kark:STP]"
+msgstr "[BP:NK:szyja:szyje]"
 
 #: body_default.txt:329
 msgctxt "BODY:HUMANOID_NECK_FLIER"
@@ -750,32 +750,32 @@ msgstr "[BP:LLA:lewe przedramię:lewe przedramiona]"
 #: body_default.txt:339
 msgctxt "BODY:HUMANOID_NECK_FLIER"
 msgid "[BP:RH:right hand:STP]"
-msgstr "[BP:RH:prawa dłoń:STP]"
+msgstr "[BP:RH:prawa dłoń:prawe dłonie]"
 
 #: body_default.txt:341
 msgctxt "BODY:HUMANOID_NECK_FLIER"
 msgid "[BP:LH:left hand:STP]"
-msgstr "[BP:LH:lewa dłoń:STP]"
+msgstr "[BP:LH:lewa dłoń:lewe dłonie]"
 
 #: body_default.txt:343
 msgctxt "BODY:HUMANOID_NECK_FLIER"
 msgid "[BP:RUL:right upper leg:STP]"
-msgstr "[BP:RUL:prawe udo:STP]"
+msgstr "[BP:RUL:prawe udo:prawe uda]"
 
 #: body_default.txt:345
 msgctxt "BODY:HUMANOID_NECK_FLIER"
 msgid "[BP:LUL:left upper leg:STP]"
-msgstr "[BP:LUL:lewe udo:STP]"
+msgstr "[BP:LUL:lewe udo:lewe uda]"
 
 #: body_default.txt:347
 msgctxt "BODY:HUMANOID_NECK_FLIER"
 msgid "[BP:RLL:right lower leg:STP]"
-msgstr "[BP:RLL:prawa łydka:STP]"
+msgstr "[BP:RLL:prawa goleń:prawe golenie]"
 
 #: body_default.txt:349
 msgctxt "BODY:HUMANOID_NECK_FLIER"
 msgid "[BP:LLL:left lower leg:STP]"
-msgstr "[BP:LLL:lewa łydka:STP]"
+msgstr "[BP:LLL:lewa goleń:lewe golenie]"
 
 #: body_default.txt:351
 msgctxt "BODY:HUMANOID_NECK_FLIER"
@@ -790,12 +790,12 @@ msgstr "[BP:RF:lewa stopa:lewe stopy]"
 #: body_default.txt:357
 msgctxt "BODY:2WINGS"
 msgid "[BP:RWING:right wing:STP]"
-msgstr "[BP:RWING:prawe skrzydło:STP]"
+msgstr "[BP:RWING:prawe skrzydło:prawe skrzydła]"
 
 #: body_default.txt:359
 msgctxt "BODY:2WINGS"
 msgid "[BP:LWING:left wing:STP]"
-msgstr "[BP:LWING:lewe skrzydło:STP]"
+msgstr "[BP:LWING:lewe skrzydło:lewe skrzydła]"
 
 #: body_default.txt:363
 msgctxt "BODY:HUMANOID_ARMLESS"
@@ -815,22 +815,22 @@ msgstr "[BP:HD:głowa:głowy]"
 #: body_default.txt:369
 msgctxt "BODY:HUMANOID_ARMLESS"
 msgid "[BP:RUL:right upper leg:STP]"
-msgstr "[BP:RUL:prawe udo:STP]"
+msgstr "[BP:RUL:prawe udo:prawe uda]"
 
 #: body_default.txt:371
 msgctxt "BODY:HUMANOID_ARMLESS"
 msgid "[BP:LUL:left upper leg:STP]"
-msgstr "[BP:LUL:lewe udo:STP]"
+msgstr "[BP:LUL:lewe udo:lewe uda]"
 
 #: body_default.txt:373
 msgctxt "BODY:HUMANOID_ARMLESS"
 msgid "[BP:RLL:right lower leg:STP]"
-msgstr "[BP:RLL:prawa łydka:STP]"
+msgstr "[BP:RLL:prawa goleń:prawe golenie]"
 
 #: body_default.txt:375
 msgctxt "BODY:HUMANOID_ARMLESS"
 msgid "[BP:LLL:left lower leg:STP]"
-msgstr "[BP:LLL:lewa łydka:STP]"
+msgstr "[BP:LLL:lewa goleń:lewe golenie]"
 
 #: body_default.txt:377
 msgctxt "BODY:HUMANOID_ARMLESS"
@@ -880,12 +880,12 @@ msgstr "[BP:LLA:lewe przedramię:lewe przedramiona]"
 #: body_default.txt:397
 msgctxt "BODY:HUMANOID_LEGLESS"
 msgid "[BP:RH:right hand:STP]"
-msgstr "[BP:RH:prawa dłoń:STP]"
+msgstr "[BP:RH:prawa dłoń:prawe dłonie]"
 
 #: body_default.txt:399
 msgctxt "BODY:HUMANOID_LEGLESS"
 msgid "[BP:LH:left hand:STP]"
-msgstr "[BP:LH:lewa dłoń:STP]"
+msgstr "[BP:LH:lewa dłoń:lewe dłonie]"
 
 #: body_default.txt:403
 msgctxt "BODY:HUMANOID_4ARMS"
@@ -905,82 +905,82 @@ msgstr "[BP:HD:głowa:głowy]"
 #: body_default.txt:409
 msgctxt "BODY:HUMANOID_4ARMS"
 msgid "[BP:RUA1:first right upper arm:STP]"
-msgstr "[BP:RUA1:górna część pierwszego prawego ramienia:STP]"
+msgstr "[BP:RUA1:pierwsze prawe ramię:pierwsze prawe ramiona]"
 
 #: body_default.txt:411
 msgctxt "BODY:HUMANOID_4ARMS"
 msgid "[BP:LUA1:first left upper arm:STP]"
-msgstr "[BP:LUA1:pierwsze lewe górne ramię:STP]"
+msgstr "[BP:LUA1:pierwsze lewe ramię:pierwsze lewe ramiona]"
 
 #: body_default.txt:413
 msgctxt "BODY:HUMANOID_4ARMS"
 msgid "[BP:RLA1:first right lower arm:STP]"
-msgstr "[BP:RLA1:pierwsze prawe przedramię:prawe przedramiona]"
+msgstr "[BP:RLA1:pierwsze prawe przedramię:pierwsze prawe przedramiona]"
 
 #: body_default.txt:415
 msgctxt "BODY:HUMANOID_4ARMS"
 msgid "[BP:LLA1:first left lower arm:STP]"
-msgstr "[BP:LLA1:pierwsze lewe przedramię:lewe przedramiona]"
+msgstr "[BP:LLA1:pierwsze lewe przedramię:pierwsze lewe przedramiona]"
 
 #: body_default.txt:417
 msgctxt "BODY:HUMANOID_4ARMS"
 msgid "[BP:RH1:first right hand:STP]"
-msgstr "[BP:RH1:pierwsza prawa dłoń:STP]"
+msgstr "[BP:RH1:pierwsza prawa dłoń:pierwsze prawe dłonie]"
 
 #: body_default.txt:419
 msgctxt "BODY:HUMANOID_4ARMS"
 msgid "[BP:LH1:first left hand:STP]"
-msgstr "[BP:LH1:pierwsza lewa dłoń:STP]"
+msgstr "[BP:LH1:pierwsza lewa dłoń:pierwsze lewe dłonie]"
 
 #: body_default.txt:421
 msgctxt "BODY:HUMANOID_4ARMS"
 msgid "[BP:RUA2:second right upper arm:STP]"
-msgstr "[BP:RUA2:drugie prawe górne ramię:STP]"
+msgstr "[BP:RUA2:drugie prawe ramię:drugie prawe ramiona]"
 
 #: body_default.txt:423
 msgctxt "BODY:HUMANOID_4ARMS"
 msgid "[BP:LUA2:second left upper arm:STP]"
-msgstr "[BP:LUA2:drugie lewe górne ramię:STP]"
+msgstr "[BP:LUA2:drugie lewe ramię:drugie lewe ramiona]"
 
 #: body_default.txt:425
 msgctxt "BODY:HUMANOID_4ARMS"
 msgid "[BP:RLA2:second right lower arm:STP]"
-msgstr "[BP:RLA2:drugie prawe przedramię:prawe przedramiona]"
+msgstr "[BP:RLA2:drugie prawe przedramię:drugie prawe przedramiona]"
 
 #: body_default.txt:427
 msgctxt "BODY:HUMANOID_4ARMS"
 msgid "[BP:LLA2:second left lower arm:STP]"
-msgstr "[BP:LLA2:drugie lewe przedramię:lewe przedramiona]"
+msgstr "[BP:LLA2:drugie lewe przedramię:drugie lewe przedramiona]"
 
 #: body_default.txt:429
 msgctxt "BODY:HUMANOID_4ARMS"
 msgid "[BP:RH2:second right hand:STP]"
-msgstr "[BP:RH2:druga prawa dłoń:STP]"
+msgstr "[BP:RH2:druga prawa dłoń:drugie prawe dłonie]"
 
 #: body_default.txt:431
 msgctxt "BODY:HUMANOID_4ARMS"
 msgid "[BP:LH2:second left hand:STP]"
-msgstr "[BP:LH2:druga lewa dłoń:STP]"
+msgstr "[BP:LH2:druga lewa dłoń:drugie lewe dłonie]"
 
 #: body_default.txt:433
 msgctxt "BODY:HUMANOID_4ARMS"
 msgid "[BP:RUL:right upper leg:STP]"
-msgstr "[BP:RUL:prawe udo:STP]"
+msgstr "[BP:RUL:prawe udo:prawe uda]"
 
 #: body_default.txt:435
 msgctxt "BODY:HUMANOID_4ARMS"
 msgid "[BP:LUL:left upper leg:STP]"
-msgstr "[BP:LUL:lewe udo:STP]"
+msgstr "[BP:LUL:lewe udo:lewe uda]"
 
 #: body_default.txt:437
 msgctxt "BODY:HUMANOID_4ARMS"
 msgid "[BP:RLL:right lower leg:STP]"
-msgstr "[BP:RLL:prawa łydka:STP]"
+msgstr "[BP:RLL:prawa goleń:prawe golenie]"
 
 #: body_default.txt:439
 msgctxt "BODY:HUMANOID_4ARMS"
 msgid "[BP:LLL:left lower leg:STP]"
-msgstr "[BP:LLL:lewa łydka:STP]"
+msgstr "[BP:LLL:lewa goleń:lewe golenie]"
 
 #: body_default.txt:441
 msgctxt "BODY:HUMANOID_4ARMS"
@@ -1010,112 +1010,112 @@ msgstr "[BP:HD:głowa:głowy]"
 #: body_default.txt:453
 msgctxt "BODY:HUMANOID_6ARMS"
 msgid "[BP:RUA1:first right upper arm:STP]"
-msgstr "[BP:RUA1:górna część pierwszego prawego ramienia:STP]"
+msgstr "[BP:RUA1:pierwsze prawe ramię:pierwsze prawe ramiona]"
 
 #: body_default.txt:455
 msgctxt "BODY:HUMANOID_6ARMS"
 msgid "[BP:LUA1:first left upper arm:STP]"
-msgstr "[BP:LUA1:pierwsze lewe górne ramię:STP]"
+msgstr "[BP:LUA1:pierwsze lewe ramię:pierwsze lewe ramiona]"
 
 #: body_default.txt:457
 msgctxt "BODY:HUMANOID_6ARMS"
 msgid "[BP:RLA1:first right lower arm:STP]"
-msgstr "[BP:RLA1:pierwsze prawe przedramię:prawe przedramiona]"
+msgstr "[BP:RLA1:pierwsze prawe przedramię:pierwsze prawe przedramiona]"
 
 #: body_default.txt:459
 msgctxt "BODY:HUMANOID_6ARMS"
 msgid "[BP:LLA1:first left lower arm:STP]"
-msgstr "[BP:LLA1:pierwsze lewe przedramię:lewe przedramiona]"
+msgstr "[BP:LLA1:pierwsze lewe przedramię:pierwsze lewe przedramiona]"
 
 #: body_default.txt:461
 msgctxt "BODY:HUMANOID_6ARMS"
 msgid "[BP:RH1:first right hand:STP]"
-msgstr "[BP:RH1:pierwsza prawa dłoń:STP]"
+msgstr "[BP:RH1:pierwsza prawa dłoń:pierwsze prawe dłonie]"
 
 #: body_default.txt:463
 msgctxt "BODY:HUMANOID_6ARMS"
 msgid "[BP:LH1:first left hand:STP]"
-msgstr "[BP:LH1:pierwsza lewa dłoń:STP]"
+msgstr "[BP:LH1:pierwsza lewa dłoń:pierwsze lewe dłonie]"
 
 #: body_default.txt:465
 msgctxt "BODY:HUMANOID_6ARMS"
 msgid "[BP:RUA2:second right upper arm:STP]"
-msgstr "[BP:RUA2:drugie prawe górne ramię:STP]"
+msgstr "[BP:RUA2:drugie prawe ramię:drugie prawe ramiona]"
 
 #: body_default.txt:467
 msgctxt "BODY:HUMANOID_6ARMS"
 msgid "[BP:LUA2:second left upper arm:STP]"
-msgstr "[BP:LUA2:drugie lewe górne ramię:STP]"
+msgstr "[BP:LUA2:drugie lewe ramię:drugie lewe ramiona]"
 
 #: body_default.txt:469
 msgctxt "BODY:HUMANOID_6ARMS"
 msgid "[BP:RLA2:second right lower arm:STP]"
-msgstr "[BP:RLA2:drugie prawe przedramię:prawe przedramiona]"
+msgstr "[BP:RLA2:drugie prawe przedramię:drugie prawe przedramiona]"
 
 #: body_default.txt:471
 msgctxt "BODY:HUMANOID_6ARMS"
 msgid "[BP:LLA2:second left lower arm:STP]"
-msgstr "[BP:LLA2:drugie lewe przedramię:lewe przedramiona]"
+msgstr "[BP:LLA2:drugie lewe przedramię:drugie lewe przedramiona]"
 
 #: body_default.txt:473
 msgctxt "BODY:HUMANOID_6ARMS"
 msgid "[BP:RH2:second right hand:STP]"
-msgstr "[BP:RH2:druga prawa dłoń:STP]"
+msgstr "[BP:RH2:druga prawa dłoń:drugie prawe dłonie]"
 
 #: body_default.txt:475
 msgctxt "BODY:HUMANOID_6ARMS"
 msgid "[BP:LH2:second left hand:STP]"
-msgstr "[BP:LH2:druga lewa dłoń:STP]"
+msgstr "[BP:LH2:druga lewa dłoń:drugie lewe dłonie]"
 
 #: body_default.txt:477
 msgctxt "BODY:HUMANOID_6ARMS"
 msgid "[BP:RUA3:third right upper arm:STP]"
-msgstr "[BP:RUA3:trzecie prawe ramię:prawe ramiona]"
+msgstr "[BP:RUA3:trzecie prawe ramię:trzecie prawe ramiona]"
 
 #: body_default.txt:479
 msgctxt "BODY:HUMANOID_6ARMS"
 msgid "[BP:LUA3:third left upper arm:STP]"
-msgstr "[BP:LUA3:trzecie lewe ramię:lewe ramiona]"
+msgstr "[BP:LUA3:trzecie lewe ramię:trzecie lewe ramiona]"
 
 #: body_default.txt:481
 msgctxt "BODY:HUMANOID_6ARMS"
 msgid "[BP:RLA3:third right lower arm:STP]"
-msgstr "[BP:RLA3:trzecie prawe przedramię:prawe przedramiona]"
+msgstr "[BP:RLA3:trzecie prawe przedramię:trzecie prawe przedramiona]"
 
 #: body_default.txt:483
 msgctxt "BODY:HUMANOID_6ARMS"
 msgid "[BP:LLA3:third left lower arm:STP]"
-msgstr "[BP:LLA3:trzecie lewe przedramię:lewe przedramiona]"
+msgstr "[BP:LLA3:trzecie lewe przedramię:trzecie lewe przedramiona]"
 
 #: body_default.txt:485
 msgctxt "BODY:HUMANOID_6ARMS"
 msgid "[BP:RH3:third right hand:STP]"
-msgstr "[BP:RH3:trzecia prawa dłoń:STP]"
+msgstr "[BP:RH3:trzecia prawa dłoń:trzecie prawe dłonie]"
 
 #: body_default.txt:487
 msgctxt "BODY:HUMANOID_6ARMS"
 msgid "[BP:LH3:third left hand:STP]"
-msgstr "[BP:LH3:trzecia lewa dłoń:STP]"
+msgstr "[BP:LH3:trzecia lewa dłoń:trzecie lewe dłonie]"
 
 #: body_default.txt:489
 msgctxt "BODY:HUMANOID_6ARMS"
 msgid "[BP:RUL:right upper leg:STP]"
-msgstr "[BP:RUL:prawe udo:STP]"
+msgstr "[BP:RUL:prawe udo:prawe uda]"
 
 #: body_default.txt:491
 msgctxt "BODY:HUMANOID_6ARMS"
 msgid "[BP:LUL:left upper leg:STP]"
-msgstr "[BP:LUL:lewe udo:STP]"
+msgstr "[BP:LUL:lewe udo:lewe uda]"
 
 #: body_default.txt:493
 msgctxt "BODY:HUMANOID_6ARMS"
 msgid "[BP:RLL:right lower leg:STP]"
-msgstr "[BP:RLL:prawa łydka:STP]"
+msgstr "[BP:RLL:prawa goleń:prawe golenie]"
 
 #: body_default.txt:495
 msgctxt "BODY:HUMANOID_6ARMS"
 msgid "[BP:LLL:left lower leg:STP]"
-msgstr "[BP:LLL:lewa łydka:STP]"
+msgstr "[BP:LLL:lewa goleń:lewe golenie]"
 
 #: body_default.txt:497
 msgctxt "BODY:HUMANOID_6ARMS"
@@ -1145,62 +1145,62 @@ msgstr "[BP:HD:głowa:głowy]"
 #: body_default.txt:509
 msgctxt "BODY:HUMANOID_LEGLESS_4ARMS"
 msgid "[BP:RUA1:first right upper arm:STP]"
-msgstr "[BP:RUA1:górna część pierwszego prawego ramienia:STP]"
+msgstr "[BP:RUA1:pierwsze prawe ramię:pierwsze prawe ramiona]"
 
 #: body_default.txt:511
 msgctxt "BODY:HUMANOID_LEGLESS_4ARMS"
 msgid "[BP:LUA1:first left upper arm:STP]"
-msgstr "[BP:LUA1:pierwsze lewe górne ramię:STP]"
+msgstr "[BP:LUA1:pierwsze lewe ramię:pierwsze lewe ramiona]"
 
 #: body_default.txt:513
 msgctxt "BODY:HUMANOID_LEGLESS_4ARMS"
 msgid "[BP:RLA1:first right lower arm:STP]"
-msgstr "[BP:RLA1:pierwsze prawe przedramię:prawe przedramiona]"
+msgstr "[BP:RLA1:pierwsze prawe przedramię:pierwsze prawe przedramiona]"
 
 #: body_default.txt:515
 msgctxt "BODY:HUMANOID_LEGLESS_4ARMS"
 msgid "[BP:LLA1:first left lower arm:STP]"
-msgstr "[BP:LLA1:pierwsze lewe przedramię:lewe przedramiona]"
+msgstr "[BP:LLA1:pierwsze lewe przedramię:pierwsze lewe przedramiona]"
 
 #: body_default.txt:517
 msgctxt "BODY:HUMANOID_LEGLESS_4ARMS"
 msgid "[BP:RH1:first right hand:STP]"
-msgstr "[BP:RH1:pierwsza prawa dłoń:STP]"
+msgstr "[BP:RH1:pierwsza prawa dłoń:pierwsze prawe dłonie]"
 
 #: body_default.txt:519
 msgctxt "BODY:HUMANOID_LEGLESS_4ARMS"
 msgid "[BP:LH1:first left hand:STP]"
-msgstr "[BP:LH1:pierwsza lewa dłoń:STP]"
+msgstr "[BP:LH1:pierwsza lewa dłoń:pierwsze lewe dłonie]"
 
 #: body_default.txt:521
 msgctxt "BODY:HUMANOID_LEGLESS_4ARMS"
 msgid "[BP:RUA2:second right upper arm:STP]"
-msgstr "[BP:RUA2:drugie prawe górne ramię:STP]"
+msgstr "[BP:RUA2:drugie prawe ramię:drugie prawe ramiona]"
 
 #: body_default.txt:523
 msgctxt "BODY:HUMANOID_LEGLESS_4ARMS"
 msgid "[BP:LUA2:second left upper arm:STP]"
-msgstr "[BP:LUA2:drugie lewe górne ramię:STP]"
+msgstr "[BP:LUA2:drugie lewe ramię:drugie lewe ramiona]"
 
 #: body_default.txt:525
 msgctxt "BODY:HUMANOID_LEGLESS_4ARMS"
 msgid "[BP:RLA2:second right lower arm:STP]"
-msgstr "[BP:RLA2:drugie prawe przedramię:prawe przedramiona]"
+msgstr "[BP:RLA2:drugie prawe przedramię:drugie prawe przedramiona]"
 
 #: body_default.txt:527
 msgctxt "BODY:HUMANOID_LEGLESS_4ARMS"
 msgid "[BP:LLA2:second left lower arm:STP]"
-msgstr "[BP:LLA2:drugie lewe przedramię:lewe przedramiona]"
+msgstr "[BP:LLA2:drugie lewe przedramię:drugie lewe przedramiona]"
 
 #: body_default.txt:529
 msgctxt "BODY:HUMANOID_LEGLESS_4ARMS"
 msgid "[BP:RH2:second right hand:STP]"
-msgstr "[BP:RH2:druga prawa dłoń:STP]"
+msgstr "[BP:RH2:druga prawa dłoń:drugie prawe dłonie]"
 
 #: body_default.txt:531
 msgctxt "BODY:HUMANOID_LEGLESS_4ARMS"
 msgid "[BP:LH2:second left hand:STP]"
-msgstr "[BP:LH2:druga lewa dłoń:STP]"
+msgstr "[BP:LH2:druga lewa dłoń:drugie lewe dłonie]"
 
 #: body_default.txt:535
 msgctxt "BODY:HUMANOID_LEGLESS_6ARMS"
@@ -1220,17 +1220,17 @@ msgstr "[BP:HD:głowa:głowy]"
 #: body_default.txt:541
 msgctxt "BODY:HUMANOID_LEGLESS_6ARMS"
 msgid "[BP:RUA1:first right upper arm:STP]"
-msgstr "[BP:RUA1:górna część pierwszego prawego ramienia:STP]"
+msgstr "[BP:RUA1:pierwsze prawe ramię:pierwsze prawe ramiona]"
 
 #: body_default.txt:543
 msgctxt "BODY:HUMANOID_LEGLESS_6ARMS"
 msgid "[BP:LUA1:first left upper arm:STP]"
-msgstr "[BP:LUA1:pierwsze lewe górne ramię:STP]"
+msgstr "[BP:LUA1:pierwsze lewe ramię:pierwsze lewe ramiona]"
 
 #: body_default.txt:545
 msgctxt "BODY:HUMANOID_LEGLESS_6ARMS"
 msgid "[BP:RLA1:first right lower arm:STP]"
-msgstr "[BP:RLA1:pierwsze prawe przedramię:prawe przedramiona]"
+msgstr "[BP:RLA1:pierwsze prawe przedramię:pierwsze prawe przedramiona]"
 
 #: body_default.txt:547
 msgctxt "BODY:HUMANOID_LEGLESS_6ARMS"
@@ -1240,72 +1240,72 @@ msgstr "[BP:LLA1:pierwsze lewe przedramię:lewe przedramiona]"
 #: body_default.txt:549
 msgctxt "BODY:HUMANOID_LEGLESS_6ARMS"
 msgid "[BP:RH1:first right hand:STP]"
-msgstr "[BP:RH1:pierwsza prawa dłoń:STP]"
+msgstr "[BP:RH1:pierwsza prawa dłoń:pierwsze prawe dłonie]"
 
 #: body_default.txt:551
 msgctxt "BODY:HUMANOID_LEGLESS_6ARMS"
 msgid "[BP:LH1:first left hand:STP]"
-msgstr "[BP:LH1:pierwsza lewa dłoń:STP]"
+msgstr "[BP:LH1:pierwsza lewa dłoń:pierwsze lewe dłonie]"
 
 #: body_default.txt:553
 msgctxt "BODY:HUMANOID_LEGLESS_6ARMS"
 msgid "[BP:RUA2:second right upper arm:STP]"
-msgstr "[BP:RUA2:drugie prawe górne ramię:STP]"
+msgstr "[BP:RUA2:drugie prawe ramię:drugie prawe ramiona]"
 
 #: body_default.txt:555
 msgctxt "BODY:HUMANOID_LEGLESS_6ARMS"
 msgid "[BP:LUA2:second left upper arm:STP]"
-msgstr "[BP:LUA2:drugie lewe górne ramię:STP]"
+msgstr "[BP:LUA2:drugie lewe ramię:drugie lewe ramiona]"
 
 #: body_default.txt:557
 msgctxt "BODY:HUMANOID_LEGLESS_6ARMS"
 msgid "[BP:RLA2:second right lower arm:STP]"
-msgstr "[BP:RLA2:drugie prawe przedramię:prawe przedramiona]"
+msgstr "[BP:RLA2:drugie prawe przedramię:drugie prawe przedramiona]"
 
 #: body_default.txt:559
 msgctxt "BODY:HUMANOID_LEGLESS_6ARMS"
 msgid "[BP:LLA2:second left lower arm:STP]"
-msgstr "[BP:LLA2:drugie lewe przedramię:lewe przedramiona]"
+msgstr "[BP:LLA2:drugie lewe przedramię:drugie lewe przedramiona]"
 
 #: body_default.txt:561
 msgctxt "BODY:HUMANOID_LEGLESS_6ARMS"
 msgid "[BP:RH2:second right hand:STP]"
-msgstr "[BP:RH2:druga prawa dłoń:STP]"
+msgstr "[BP:RH2:druga prawa dłoń:drugie prawe dłonie]"
 
 #: body_default.txt:563
 msgctxt "BODY:HUMANOID_LEGLESS_6ARMS"
 msgid "[BP:LH2:second left hand:STP]"
-msgstr "[BP:LH2:druga lewa dłoń:STP]"
+msgstr "[BP:LH2:druga lewa dłoń:drugie lewe dłonie]"
 
 #: body_default.txt:565
 msgctxt "BODY:HUMANOID_LEGLESS_6ARMS"
 msgid "[BP:RUA3:third right upper arm:STP]"
-msgstr "[BP:RUA3:trzecie prawe ramię:prawe ramiona]"
+msgstr "[BP:RUA3:trzecie prawe ramię:trzecie prawe ramiona]"
 
 #: body_default.txt:567
 msgctxt "BODY:HUMANOID_LEGLESS_6ARMS"
 msgid "[BP:LUA3:third left upper arm:STP]"
-msgstr "[BP:LUA3:trzecie lewe ramię:lewe ramiona]"
+msgstr "[BP:LLA3:trzecie lewe przedramię:lewe przedramiona]"
 
 #: body_default.txt:569
 msgctxt "BODY:HUMANOID_LEGLESS_6ARMS"
 msgid "[BP:RLA3:third right lower arm:STP]"
-msgstr "[BP:RLA3:trzecie prawe przedramię:prawe przedramiona]"
+msgstr "[BP:RUA3:trzecie prawe ramię:trzecie prawe ramiona]"
 
 #: body_default.txt:571
 msgctxt "BODY:HUMANOID_LEGLESS_6ARMS"
 msgid "[BP:LLA3:third left lower arm:STP]"
-msgstr "[BP:LLA3:trzecie lewe przedramię:lewe przedramiona]"
+msgstr "[BP:LLA3:trzecie lewe przedramię:trzecie lewe przedramiona]"
 
 #: body_default.txt:573
 msgctxt "BODY:HUMANOID_LEGLESS_6ARMS"
 msgid "[BP:RH3:third right hand:STP]"
-msgstr "[BP:RH3:trzecia prawa dłoń:STP]"
+msgstr "[BP:RH3:trzecia prawa dłoń:trzecie prawe dłonie]"
 
 #: body_default.txt:575
 msgctxt "BODY:HUMANOID_LEGLESS_6ARMS"
 msgid "[BP:LH3:third left hand:STP]"
-msgstr "[BP:LH3:trzecia lewa dłoń:STP]"
+msgstr "[BP:LH3:trzecia lewa dłoń:trzecie lewe dłonie]"
 
 #: body_default.txt:579
 msgctxt "BODY:HUMANOID_NECK_4ARMS"
@@ -1320,7 +1320,7 @@ msgstr "[BP:LB:dolna część ciała:dolne części ciała]"
 #: body_default.txt:583
 msgctxt "BODY:HUMANOID_NECK_4ARMS"
 msgid "[BP:NK:neck:STP]"
-msgstr "[BP:NK:kark:STP]"
+msgstr "[BP:NK:szyja:szyje]"
 
 #: body_default.txt:585
 msgctxt "BODY:HUMANOID_NECK_4ARMS"
@@ -1330,82 +1330,82 @@ msgstr "[BP:HD:głowa:głowy]"
 #: body_default.txt:587
 msgctxt "BODY:HUMANOID_NECK_4ARMS"
 msgid "[BP:RUA1:first right upper arm:STP]"
-msgstr "[BP:RUA1:górna część pierwszego prawego ramienia:STP]"
+msgstr "[BP:RUA1:pierwsze prawe ramię:pierwsze prawe ramiona]"
 
 #: body_default.txt:589
 msgctxt "BODY:HUMANOID_NECK_4ARMS"
 msgid "[BP:LUA1:first left upper arm:STP]"
-msgstr "[BP:LUA1:pierwsze lewe górne ramię:STP]"
+msgstr "[BP:LUA1:pierwsze lewe ramię:pierwsze lewe ramiona]"
 
 #: body_default.txt:591
 msgctxt "BODY:HUMANOID_NECK_4ARMS"
 msgid "[BP:RLA1:first right lower arm:STP]"
-msgstr "[BP:RLA1:pierwsze prawe przedramię:prawe przedramiona]"
+msgstr "[BP:RLA1:pierwsze prawe przedramię:pierwsze prawe przedramiona]"
 
 #: body_default.txt:593
 msgctxt "BODY:HUMANOID_NECK_4ARMS"
 msgid "[BP:LLA1:first left lower arm:STP]"
-msgstr "[BP:LLA1:pierwsze lewe przedramię:lewe przedramiona]"
+msgstr "[BP:LLA1:pierwsze lewe przedramię:pierwsze lewe przedramiona]"
 
 #: body_default.txt:595
 msgctxt "BODY:HUMANOID_NECK_4ARMS"
 msgid "[BP:RH1:first right hand:STP]"
-msgstr "[BP:RH1:pierwsza prawa dłoń:STP]"
+msgstr "[BP:RH1:pierwsza prawa dłoń:pierwsze prawe dłonie]"
 
 #: body_default.txt:597
 msgctxt "BODY:HUMANOID_NECK_4ARMS"
 msgid "[BP:LH1:first left hand:STP]"
-msgstr "[BP:LH1:pierwsza lewa dłoń:STP]"
+msgstr "[BP:LH1:pierwsza lewa dłoń:pierwsze lewe dłonie]"
 
 #: body_default.txt:599
 msgctxt "BODY:HUMANOID_NECK_4ARMS"
 msgid "[BP:RUA2:second right upper arm:STP]"
-msgstr "[BP:RUA2:drugie prawe górne ramię:STP]"
+msgstr "[BP:RUA2:drugie prawe ramię:drugie prawe ramiona]"
 
 #: body_default.txt:601
 msgctxt "BODY:HUMANOID_NECK_4ARMS"
 msgid "[BP:LUA2:second left upper arm:STP]"
-msgstr "[BP:LUA2:drugie lewe górne ramię:STP]"
+msgstr "[BP:LUA2:drugie lewe ramię:drugie lewe ramiona]"
 
 #: body_default.txt:603
 msgctxt "BODY:HUMANOID_NECK_4ARMS"
 msgid "[BP:RLA2:second right lower arm:STP]"
-msgstr "[BP:RLA2:drugie prawe przedramię:prawe przedramiona]"
+msgstr "[BP:RLA2:drugie prawe przedramię:drugie prawe przedramiona]"
 
 #: body_default.txt:605
 msgctxt "BODY:HUMANOID_NECK_4ARMS"
 msgid "[BP:LLA2:second left lower arm:STP]"
-msgstr "[BP:LLA2:drugie lewe przedramię:lewe przedramiona]"
+msgstr "[BP:LLA2:drugie lewe przedramię:drugie lewe przedramiona]"
 
 #: body_default.txt:607
 msgctxt "BODY:HUMANOID_NECK_4ARMS"
 msgid "[BP:RH2:second right hand:STP]"
-msgstr "[BP:RH2:druga prawa dłoń:STP]"
+msgstr "[BP:RH2:druga prawa dłoń:drugie prawe dłonie]"
 
 #: body_default.txt:609
 msgctxt "BODY:HUMANOID_NECK_4ARMS"
 msgid "[BP:LH2:second left hand:STP]"
-msgstr "[BP:LH2:druga lewa dłoń:STP]"
+msgstr "[BP:LH2:druga lewa dłoń:drugie lewe dłonie]"
 
 #: body_default.txt:611
 msgctxt "BODY:HUMANOID_NECK_4ARMS"
 msgid "[BP:RUL:right upper leg:STP]"
-msgstr "[BP:RUL:prawe udo:STP]"
+msgstr "[BP:RUL:prawe udo:prawe uda]"
 
 #: body_default.txt:613
 msgctxt "BODY:HUMANOID_NECK_4ARMS"
 msgid "[BP:LUL:left upper leg:STP]"
-msgstr "[BP:LUL:lewe udo:STP]"
+msgstr "[BP:LUL:lewe udo:lewe uda]"
 
 #: body_default.txt:615
 msgctxt "BODY:HUMANOID_NECK_4ARMS"
 msgid "[BP:RLL:right lower leg:STP]"
-msgstr "[BP:RLL:prawa łydka:STP]"
+msgstr "[BP:RLL:prawa goleń:prawe golenie]"
 
 #: body_default.txt:617
 msgctxt "BODY:HUMANOID_NECK_4ARMS"
 msgid "[BP:LLL:left lower leg:STP]"
-msgstr "[BP:LLL:lewa łydka:STP]"
+msgstr "[BP:LLL:lewa goleń:lewe golenie]"
 
 #: body_default.txt:619
 msgctxt "BODY:HUMANOID_NECK_4ARMS"
@@ -1420,62 +1420,62 @@ msgstr "[BP:RF:lewa stopa:lewe stopy]"
 #: body_default.txt:625
 msgctxt "BODY:4ARMS_STANCE"
 msgid "[BP:RUA1:first right upper arm:STP]"
-msgstr "[BP:RUA1:górna część pierwszego prawego ramienia:STP]"
+msgstr "[BP:RUA1:pierwsze prawe ramię:pierwsze prawe ramiona]"
 
 #: body_default.txt:627
 msgctxt "BODY:4ARMS_STANCE"
 msgid "[BP:LUA1:first left upper arm:STP]"
-msgstr "[BP:LUA1:pierwsze lewe górne ramię:STP]"
+msgstr "[BP:LUA1:pierwsze lewe ramię:pierwsze lewe ramiona]"
 
 #: body_default.txt:629
 msgctxt "BODY:4ARMS_STANCE"
 msgid "[BP:RLA1:first right lower arm:STP]"
-msgstr "[BP:RLA1:pierwsze prawe przedramię:prawe przedramiona]"
+msgstr "[BP:RLA1:pierwsze prawe przedramię:pierwsze prawe przedramiona]"
 
 #: body_default.txt:631
 msgctxt "BODY:4ARMS_STANCE"
 msgid "[BP:LLA1:first left lower arm:STP]"
-msgstr "[BP:LLA1:pierwsze lewe przedramię:lewe przedramiona]"
+msgstr "[BP:LLA1:pierwsze lewe przedramię:pierwsze lewe przedramiona]"
 
 #: body_default.txt:633
 msgctxt "BODY:4ARMS_STANCE"
 msgid "[BP:RH1:first right hand:STP]"
-msgstr "[BP:RH1:pierwsza prawa dłoń:STP]"
+msgstr "[BP:RH1:pierwsza prawa dłoń:pierwsze prawe dłonie]"
 
 #: body_default.txt:635
 msgctxt "BODY:4ARMS_STANCE"
 msgid "[BP:LH1:first left hand:STP]"
-msgstr "[BP:LH1:pierwsza lewa dłoń:STP]"
+msgstr "[BP:LH1:pierwsza lewa dłoń:pierwsze lewe dłonie]"
 
 #: body_default.txt:637
 msgctxt "BODY:4ARMS_STANCE"
 msgid "[BP:RUA2:second right upper arm:STP]"
-msgstr "[BP:RUA2:drugie prawe górne ramię:STP]"
+msgstr "[BP:RUA2:drugie prawe ramię:drugie prawe ramiona]"
 
 #: body_default.txt:639
 msgctxt "BODY:4ARMS_STANCE"
 msgid "[BP:LUA2:second left upper arm:STP]"
-msgstr "[BP:LUA2:drugie lewe górne ramię:STP]"
+msgstr "[BP:LUA2:drugie lewe ramię:drugie lewe ramiona]"
 
 #: body_default.txt:641
 msgctxt "BODY:4ARMS_STANCE"
 msgid "[BP:RLA2:second right lower arm:STP]"
-msgstr "[BP:RLA2:drugie prawe przedramię:prawe przedramiona]"
+msgstr "[BP:RLA2:drugie prawe przedramię:drugie prawe przedramiona]"
 
 #: body_default.txt:643
 msgctxt "BODY:4ARMS_STANCE"
 msgid "[BP:LLA2:second left lower arm:STP]"
-msgstr "[BP:LLA2:drugie lewe przedramię:lewe przedramiona]"
+msgstr "[BP:LLA2:drugie lewe przedramię:drugie lewe przedramiona]"
 
 #: body_default.txt:645
 msgctxt "BODY:4ARMS_STANCE"
 msgid "[BP:RH2:second right hand:STP]"
-msgstr "[BP:RH2:druga prawa dłoń:STP]"
+msgstr "[BP:RH2:druga prawa dłoń:drugie prawe dłonie]"
 
 #: body_default.txt:647
 msgctxt "BODY:4ARMS_STANCE"
 msgid "[BP:LH2:second left hand:STP]"
-msgstr "[BP:LH2:druga lewa dłoń:STP]"
+msgstr "[BP:LH2:druga lewa dłoń:drugie lewe dłonie]"
 
 #: body_default.txt:651
 msgctxt "BODY:HUMANOID_2HEAD"
@@ -1490,12 +1490,12 @@ msgstr "[BP:LB:dolna część ciała:dolne części ciała]"
 #: body_default.txt:655
 msgctxt "BODY:HUMANOID_2HEAD"
 msgid "[BP:RHD:right head:STP]"
-msgstr "[BP:RHD:prawa głowa:STP]"
+msgstr "[BP:RHD:prawa głowa:prawe głowy]"
 
 #: body_default.txt:657
 msgctxt "BODY:HUMANOID_2HEAD"
 msgid "[BP:LHD:left head:STP]"
-msgstr "[BP:LHD:lewa głowa:STP]"
+msgstr "[BP:LHD:lewa głowa:lewe głowy]"
 
 #: body_default.txt:659
 msgctxt "BODY:HUMANOID_2HEAD"
@@ -1520,32 +1520,32 @@ msgstr "[BP:LLA:lewe przedramię:lewe przedramiona]"
 #: body_default.txt:667
 msgctxt "BODY:HUMANOID_2HEAD"
 msgid "[BP:RH:right hand:STP]"
-msgstr "[BP:RH:prawa dłoń:STP]"
+msgstr "[BP:RH:prawa dłoń:prawe dłonie]"
 
 #: body_default.txt:669
 msgctxt "BODY:HUMANOID_2HEAD"
 msgid "[BP:LH:left hand:STP]"
-msgstr "[BP:LH:lewa dłoń:STP]"
+msgstr "[BP:LH:lewa dłoń:lewe dłonie]"
 
 #: body_default.txt:671
 msgctxt "BODY:HUMANOID_2HEAD"
 msgid "[BP:RUL:right upper leg:STP]"
-msgstr "[BP:RUL:prawe udo:STP]"
+msgstr "[BP:RUL:prawe udo:prawe uda]"
 
 #: body_default.txt:673
 msgctxt "BODY:HUMANOID_2HEAD"
 msgid "[BP:LUL:left upper leg:STP]"
-msgstr "[BP:LUL:lewe udo:STP]"
+msgstr "[BP:LUL:lewe udo:lewe uda]"
 
 #: body_default.txt:675
 msgctxt "BODY:HUMANOID_2HEAD"
 msgid "[BP:RLL:right lower leg:STP]"
-msgstr "[BP:RLL:prawa łydka:STP]"
+msgstr "[BP:RLL:prawa goleń:prawe golenie]"
 
 #: body_default.txt:677
 msgctxt "BODY:HUMANOID_2HEAD"
 msgid "[BP:LLL:left lower leg:STP]"
-msgstr "[BP:LLL:lewa łydka:STP]"
+msgstr "[BP:LLL:lewa goleń:lewe golenie]"
 
 #: body_default.txt:679
 msgctxt "BODY:HUMANOID_2HEAD"
@@ -1570,22 +1570,22 @@ msgstr "[BP:LB:dolna część ciała:dolne części ciała]"
 #: body_default.txt:689
 msgctxt "BODY:HUMANOID_NECK_2HEAD"
 msgid "[BP:RNK:right neck:STP]"
-msgstr "[BP:RNK:prawa szyja:STP]"
+msgstr "[BP:RNK:prawa szyja:prawe szyje]"
 
 #: body_default.txt:691
 msgctxt "BODY:HUMANOID_NECK_2HEAD"
 msgid "[BP:LNK:left neck:STP]"
-msgstr "[BP:LNK:lewa szyja:STP]"
+msgstr "[BP:LNK:lewa szyja:lewe szyje]"
 
 #: body_default.txt:693
 msgctxt "BODY:HUMANOID_NECK_2HEAD"
 msgid "[BP:RHD:right head:STP]"
-msgstr "[BP:RHD:prawa głowa:STP]"
+msgstr "[BP:RHD:prawa głowa:prawe głowy]"
 
 #: body_default.txt:695
 msgctxt "BODY:HUMANOID_NECK_2HEAD"
 msgid "[BP:LHD:left head:STP]"
-msgstr "[BP:LHD:lewa głowa:STP]"
+msgstr "[BP:LHD:lewa głowa:lewe głowy]"
 
 #: body_default.txt:697
 msgctxt "BODY:HUMANOID_NECK_2HEAD"
@@ -1610,32 +1610,32 @@ msgstr "[BP:LLA:lewe przedramię:lewe przedramiona]"
 #: body_default.txt:705
 msgctxt "BODY:HUMANOID_NECK_2HEAD"
 msgid "[BP:RH:right hand:STP]"
-msgstr "[BP:RH:prawa dłoń:STP]"
+msgstr "[BP:RH:prawa dłoń:prawe dłonie]"
 
 #: body_default.txt:707
 msgctxt "BODY:HUMANOID_NECK_2HEAD"
 msgid "[BP:LH:left hand:STP]"
-msgstr "[BP:LH:lewa dłoń:STP]"
+msgstr "[BP:LH:lewa dłoń:lewe dłonie]"
 
 #: body_default.txt:709
 msgctxt "BODY:HUMANOID_NECK_2HEAD"
 msgid "[BP:RUL:right upper leg:STP]"
-msgstr "[BP:RUL:prawe udo:STP]"
+msgstr "[BP:RUL:prawe udo:prawe uda]"
 
 #: body_default.txt:711
 msgctxt "BODY:HUMANOID_NECK_2HEAD"
 msgid "[BP:LUL:left upper leg:STP]"
-msgstr "[BP:LUL:lewe udo:STP]"
+msgstr "[BP:LUL:lewe udo:lewe uda]"
 
 #: body_default.txt:713
 msgctxt "BODY:HUMANOID_NECK_2HEAD"
 msgid "[BP:RLL:right lower leg:STP]"
-msgstr "[BP:RLL:prawa łydka:STP]"
+msgstr "[BP:RLL:prawa goleń:prawe golenie]"
 
 #: body_default.txt:715
 msgctxt "BODY:HUMANOID_NECK_2HEAD"
 msgid "[BP:LLL:left lower leg:STP]"
-msgstr "[BP:LLL:lewa łydka:STP]"
+msgstr "[BP:LLL:lewa goleń:lewe golenie]"
 
 #: body_default.txt:717
 msgctxt "BODY:HUMANOID_NECK_2HEAD"
@@ -1665,32 +1665,32 @@ msgstr "[BP:HD:głowa:głowy]"
 #: body_default.txt:729
 msgctxt "BODY:HUMANOID_SIMPLE"
 msgid "[BP:RA:right arm:STP]"
-msgstr "[BP:RA:prawa kończyna górna:STP]"
+msgstr "[BP:RA:prawa ręka:prawe ręce]"
 
 #: body_default.txt:731
 msgctxt "BODY:HUMANOID_SIMPLE"
 msgid "[BP:LA:left arm:STP]"
-msgstr "[BP:LA:lewa kończyna górna:STP]"
+msgstr "[BP:LA:lewa ręka:lewe ręce]"
 
 #: body_default.txt:733
 msgctxt "BODY:HUMANOID_SIMPLE"
 msgid "[BP:RH:right hand:STP]"
-msgstr "[BP:RH:prawa dłoń:STP]"
+msgstr "[BP:RH:prawa dłoń:prawe dłonie]"
 
 #: body_default.txt:735
 msgctxt "BODY:HUMANOID_SIMPLE"
 msgid "[BP:LH:left hand:STP]"
-msgstr "[BP:LH:lewa dłoń:STP]"
+msgstr "[BP:LH:lewa dłoń:lewe dłonie]"
 
 #: body_default.txt:737
 msgctxt "BODY:HUMANOID_SIMPLE"
 msgid "[BP:RL:right leg:STP]"
-msgstr "[BP:RL:prawa noga:STP]"
+msgstr "[BP:RL:prawa noga:prawe nogi]"
 
 #: body_default.txt:739
 msgctxt "BODY:HUMANOID_SIMPLE"
 msgid "[BP:LL:left leg:STP]"
-msgstr "[BP:LL:lewa noga:STP]"
+msgstr "[BP:LL:lewa noga:lewe nogi]"
 
 #: body_default.txt:741
 msgctxt "BODY:HUMANOID_SIMPLE"
@@ -1720,32 +1720,32 @@ msgstr "[BP:HD:głowa:głowy]"
 #: body_default.txt:753
 msgctxt "BODY:QUADRUPED"
 msgid "[BP:RA:right front leg:STP]"
-msgstr "[BP:RA:przednia prawa noga:STP]"
+msgstr "[BP:RA:prawa przednia noga:prawe przednie nogi]"
 
 #: body_default.txt:755
 msgctxt "BODY:QUADRUPED"
 msgid "[BP:LA:left front leg:STP]"
-msgstr "[BP:RA:przednia lewa noga:STP]"
+msgstr "[BP:RA:lewa przednia noga:lewe przednie nogi]"
 
 #: body_default.txt:757
 msgctxt "BODY:QUADRUPED"
 msgid "[BP:RH:right front foot:right front feet]"
-msgstr "[BP:RA:przednia prawa stopa:STP]"
+msgstr "[BP:RA:prawa przednia stopa:prawe przednie stopy]"
 
 #: body_default.txt:759
 msgctxt "BODY:QUADRUPED"
 msgid "[BP:LH:left front foot:left front feet]"
-msgstr "[BP:RA:przednia lewa stopa:STP]"
+msgstr "[BP:RA:lewa przednia stopa:lewe przednie stopy]"
 
 #: body_default.txt:761
 msgctxt "BODY:QUADRUPED"
 msgid "[BP:RL:right rear leg:STP]"
-msgstr "[BP:RA:tylnia prawa noga:STP]"
+msgstr "[BP:RA:prawa tylna noga:prawe tylne nogi]"
 
 #: body_default.txt:763
 msgctxt "BODY:QUADRUPED"
 msgid "[BP:LL:left rear leg:STP]"
-msgstr "[BP:RA:tylnia lewa noga:STP]"
+msgstr "[BP:RA:lewa tylna noga:lewe tylne nogi]"
 
 #: body_default.txt:765
 msgctxt "BODY:QUADRUPED"
@@ -1770,7 +1770,7 @@ msgstr "[BP:LB:dolna część ciała:dolne części ciała]"
 #: body_default.txt:775
 msgctxt "BODY:QUADRUPED_NECK_FRONT_GRASP"
 msgid "[BP:NK:neck:STP]"
-msgstr "[BP:NK:kark:STP]"
+msgstr "[BP:NK:szyja:szyje]"
 
 #: body_default.txt:777
 msgctxt "BODY:QUADRUPED_NECK_FRONT_GRASP"
@@ -1780,42 +1780,42 @@ msgstr "[BP:HD:głowa:głowy]"
 #: body_default.txt:779
 msgctxt "BODY:QUADRUPED_NECK_FRONT_GRASP"
 msgid "[BP:RA:right front leg:STP]"
-msgstr "[BP:RA:przednia prawa noga:STP]"
+msgstr "[BP:RA:prawa przednia noga:prawe przednie nogi]"
 
 #: body_default.txt:781
 msgctxt "BODY:QUADRUPED_NECK_FRONT_GRASP"
 msgid "[BP:LA:left front leg:STP]"
-msgstr "[BP:RA:przednia lewa noga:STP]"
+msgstr "[BP:RA:lewa przednia noga:lewe przednie nogi]"
 
 #: body_default.txt:783
 msgctxt "BODY:QUADRUPED_NECK_FRONT_GRASP"
 msgid "[BP:RH:right front foot:right front feet]"
-msgstr "[BP:RA:przednia prawa stopa:STP]"
+msgstr "[BP:RA:prawa przednia stopa:prawe przednie stopy]"
 
 #: body_default.txt:785
 msgctxt "BODY:QUADRUPED_NECK_FRONT_GRASP"
 msgid "[BP:LH:left front foot:left front feet]"
-msgstr "[BP:RA:przednia lewa stopa:STP]"
+msgstr "[BP:RA:lewa przednia stopa:lewe przednie stopy]"
 
 #: body_default.txt:787
 msgctxt "BODY:QUADRUPED_NECK_FRONT_GRASP"
 msgid "[BP:RL:right rear leg:STP]"
-msgstr "[BP:RA:tylnia prawa noga:STP]"
+msgstr "[BP:RA:prawa tylna noga:prawe tylne nogi]"
 
 #: body_default.txt:789
 msgctxt "BODY:QUADRUPED_NECK_FRONT_GRASP"
 msgid "[BP:LL:left rear leg:STP]"
-msgstr "[BP:RA:tylnia lewa noga:STP]"
+msgstr "[BP:RA:lewa tylna noga:lewe tylne nogi]"
 
 #: body_default.txt:791
 msgctxt "BODY:QUADRUPED_NECK_FRONT_GRASP"
 msgid "[BP:RF:right rear foot:right rear feet]"
-msgstr "[BP:RF:tylnia prawa stopa:tylnie prawe stopy]"
+msgstr "[BP:RF:prawa tylna stopa:prawe tylne stopy]"
 
 #: body_default.txt:793
 msgctxt "BODY:QUADRUPED_NECK_FRONT_GRASP"
 msgid "[BP:LF:left rear foot:left rear feet]"
-msgstr "[BP:RF:tylnia lewa stopa:tylnie lewe stopy]"
+msgstr "[BP:RF:lewa tylna stopa:lewe tylne stopy]"
 
 #: body_default.txt:797
 msgctxt "BODY:QUADRUPED_NECK"
@@ -1830,7 +1830,7 @@ msgstr "[BP:LB:dolna część ciała:dolne części ciała]"
 #: body_default.txt:801
 msgctxt "BODY:QUADRUPED_NECK"
 msgid "[BP:NK:neck:STP]"
-msgstr "[BP:NK:kark:STP]"
+msgstr "[BP:NK:szyja:szyje]"
 
 #: body_default.txt:803
 msgctxt "BODY:QUADRUPED_NECK"
@@ -1840,42 +1840,42 @@ msgstr "[BP:HD:głowa:głowy]"
 #: body_default.txt:805
 msgctxt "BODY:QUADRUPED_NECK"
 msgid "[BP:RA:right front leg:STP]"
-msgstr "[BP:RA:przednia prawa noga:STP]"
+msgstr "[BP:RA:prawa przednia noga:prawe przednie nogi]"
 
 #: body_default.txt:807
 msgctxt "BODY:QUADRUPED_NECK"
 msgid "[BP:LA:left front leg:STP]"
-msgstr "[BP:RA:przednia lewa noga:STP]"
+msgstr "[BP:RA:lewa przednia noga:lewe przednie nogi]"
 
 #: body_default.txt:809
 msgctxt "BODY:QUADRUPED_NECK"
 msgid "[BP:RH:right front foot:right front feet]"
-msgstr "[BP:RA:przednia prawa stopa:STP]"
+msgstr "[BP:RA:prawa przednia stopa:prawe przednie stopy]"
 
 #: body_default.txt:811
 msgctxt "BODY:QUADRUPED_NECK"
 msgid "[BP:LH:left front foot:left front feet]"
-msgstr "[BP:RA:przednia lewa stopa:STP]"
+msgstr "[BP:RA:lewa przednia stopa:lewe przednie stopy]"
 
 #: body_default.txt:813
 msgctxt "BODY:QUADRUPED_NECK"
 msgid "[BP:RL:right rear leg:STP]"
-msgstr "[BP:RA:tylnia prawa noga:STP]"
+msgstr "[BP:RA:prawa tylna noga:prawe tylne nogi]"
 
 #: body_default.txt:815
 msgctxt "BODY:QUADRUPED_NECK"
 msgid "[BP:LL:left rear leg:STP]"
-msgstr "[BP:RA:tylnia lewa noga:STP]"
+msgstr "[BP:RA:lewa tylna noga:lewe tylne nogi]"
 
 #: body_default.txt:817
 msgctxt "BODY:QUADRUPED_NECK"
 msgid "[BP:RF:right rear foot:right rear feet]"
-msgstr "[BP:RF:tylnia prawa stopa:tylnie prawe stopy]"
+msgstr "[BP:RF:prawa tylna stopa:prawe tylne stopy]"
 
 #: body_default.txt:819
 msgctxt "BODY:QUADRUPED_NECK"
 msgid "[BP:LF:left rear foot:left rear feet]"
-msgstr "[BP:RF:tylnia lewa stopa:tylnie lewe stopy]"
+msgstr "[BP:RF:lewa tylna stopa:lewe tylne stopy]"
 
 #: body_default.txt:823
 msgctxt "BODY:QUADRUPED_NECK_HOOF"
@@ -1890,7 +1890,7 @@ msgstr "[BP:LB:dolna część ciała:dolne części ciała]"
 #: body_default.txt:827
 msgctxt "BODY:QUADRUPED_NECK_HOOF"
 msgid "[BP:NK:neck:STP]"
-msgstr "[BP:NK:kark:STP]"
+msgstr "[BP:NK:szyja:szyje]"
 
 #: body_default.txt:829
 msgctxt "BODY:QUADRUPED_NECK_HOOF"
@@ -1900,42 +1900,42 @@ msgstr "[BP:HD:głowa:głowy]"
 #: body_default.txt:831
 msgctxt "BODY:QUADRUPED_NECK_HOOF"
 msgid "[BP:RA:right front leg:STP]"
-msgstr "[BP:RA:przednia prawa noga:STP]"
+msgstr "[BP:RA:prawa przednia noga:prawe przednie nogi]"
 
 #: body_default.txt:833
 msgctxt "BODY:QUADRUPED_NECK_HOOF"
 msgid "[BP:LA:left front leg:STP]"
-msgstr "[BP:RA:przednia lewa noga:STP]"
+msgstr "[BP:RA:lewa przednia noga:lewe przednie nogi]"
 
 #: body_default.txt:835
 msgctxt "BODY:QUADRUPED_NECK_HOOF"
 msgid "[BP:RH:right front hoof:right front hooves]"
-msgstr "[BP:RH:przednie prawe kopyto:przednie prawe kopyta]"
+msgstr "[BP:RH:prawe przednie kopyto:prawe przednie kopyta]"
 
 #: body_default.txt:837
 msgctxt "BODY:QUADRUPED_NECK_HOOF"
 msgid "[BP:LH:left front hoof:left front hooves]"
-msgstr "[BP:LH:przednie lewe kopyto:przednie lewe kopyta]"
+msgstr "[BP:LH:lewe przednie kopyto:lewe przednie kopyta]"
 
 #: body_default.txt:839
 msgctxt "BODY:QUADRUPED_NECK_HOOF"
 msgid "[BP:RL:right rear leg:STP]"
-msgstr "[BP:RA:tylnia prawa noga:STP]"
+msgstr "[BP:RA:prawa tylnia noga:prawe tylnie nogi]"
 
 #: body_default.txt:841
 msgctxt "BODY:QUADRUPED_NECK_HOOF"
 msgid "[BP:LL:left rear leg:STP]"
-msgstr "[BP:RA:tylnia lewa noga:STP]"
+msgstr "[BP:RA:lewa tylnia noga:lewe tylnie nogi]"
 
 #: body_default.txt:843
 msgctxt "BODY:QUADRUPED_NECK_HOOF"
 msgid "[BP:RF:right rear hoof:right rear hooves]"
-msgstr "[BP:RF:tylne prawe kopyto:tylne prawe kopyta]"
+msgstr "[BP:RF:prawe tylnie kopyto:prawe tylnie kopyta]"
 
 #: body_default.txt:845
 msgctxt "BODY:QUADRUPED_NECK_HOOF"
 msgid "[BP:LF:left rear hoof:left rear hooves]"
-msgstr "[BP:LF:tylne lewe kopyto:tylne lewe kopyta]"
+msgstr "[BP:LF:lewe tylnie kopyto:lewe tylnie kopyta]"
 
 #: body_default.txt:849
 msgctxt "BODY:INSECT"
@@ -1950,67 +1950,67 @@ msgstr "[BP:HD:głowa:głowy]"
 #: body_default.txt:853
 msgctxt "BODY:INSECT"
 msgid "[BP:LB:abdomen:STP]"
-msgstr "[BP:LB:odwłok:STP]"
+msgstr "[BP:LB:odwłok:odwłoki]"
 
 #: body_default.txt:855
 msgctxt "BODY:INSECT"
 msgid "[BP:RA1:right first leg:STP]"
-msgstr "[BP:RA1:przednia prawa noga:STP]"
+msgstr "[BP:RA1:pierwsza prawa noga:pierwsze prawe nogi]"
 
 #: body_default.txt:857
 msgctxt "BODY:INSECT"
 msgid "[BP:LA1:left first leg:STP]"
-msgstr "[BP:LA1:lewa przednia noga: STP]"
+msgstr "[BP:LA1:pierwsza lewa noga:pierwsze lewe nogi]"
 
 #: body_default.txt:859
 msgctxt "BODY:INSECT"
 msgid "[BP:RF1:right first foot:right first feet]"
-msgstr "[BP:RF1:prawa pierwsza stopa:prawej pierwszej stopy]"
+msgstr "[BP:RF1:pierwsza prawa stopa:pierwsze prawe stopy]"
 
 #: body_default.txt:861
 msgctxt "BODY:INSECT"
 msgid "[BP:LF1:left first foot:left first feet]"
-msgstr "[BP:LF1:lewa pierwsza stopa:lewej pierwszej stopy]"
+msgstr "[BP:LF1:pierwsza lewa stopa:pierwsze lewe stopy]"
 
 #: body_default.txt:863
 msgctxt "BODY:INSECT"
 msgid "[BP:RA2:right second leg:STP]"
-msgstr "[BP:RA2:prawa druga noga: STP]"
+msgstr "[BP:RA2:druga prawa noga:drugie prawe nogi]"
 
 #: body_default.txt:865
 msgctxt "BODY:INSECT"
 msgid "[BP:LA2:left second leg:STP]"
-msgstr "[BP:LA2:lewa druga noga:STP]"
+msgstr "[BP:LA2:druga lewa noga:drugie lewe nogi]"
 
 #: body_default.txt:867
 msgctxt "BODY:INSECT"
 msgid "[BP:RF2:right second foot:right second feet]"
-msgstr "[BP:RF2:druga prawa stopa:drugiej prawej stopy]"
+msgstr "[BP:RF2:druga prawa stopa:drugie prawe stopy]"
 
 #: body_default.txt:869
 msgctxt "BODY:INSECT"
 msgid "[BP:LF2:left second foot:left second feet]"
-msgstr "[BP:LF2:drugiej lewej stopy:drugiej lewej stopy]"
+msgstr "[BP:LF2:druga lewa stopa:drugie lewe stopy]"
 
 #: body_default.txt:871
 msgctxt "BODY:INSECT"
 msgid "[BP:RA3:right third leg:STP]"
-msgstr "[BP:RA3:trzecia prawa noga:STP]"
+msgstr "[BP:RA3:trzecia prawa noga:trzecie prawe nogi]"
 
 #: body_default.txt:873
 msgctxt "BODY:INSECT"
 msgid "[BP:LA3:left third leg:STP]"
-msgstr "[BP:LA3:trzecia lewa noga:STP]"
+msgstr "[BP:LA3:trzecia lewa noga:trzecie lewe nogi]"
 
 #: body_default.txt:875
 msgctxt "BODY:INSECT"
 msgid "[BP:RF3:right third foot:right third feet]"
-msgstr "[BP:RF3:trzecia prawa stopa:trzeciej prawej stopy]"
+msgstr "[BP:RF3:trzecia prawa stopa:trzecie prawe stopy]"
 
 #: body_default.txt:877
 msgctxt "BODY:INSECT"
 msgid "[BP:LF3:left third foot:left third feet]"
-msgstr "[BP:LF3:trzecia lewa stopa:trzeciej lewej stopy]"
+msgstr "[BP:LF3:trzecia lewa stopa:trzecie lewe stopy]"
 
 #: body_default.txt:881
 msgctxt "BODY:INSECT_4LEGS_2ARMS"
@@ -2025,7 +2025,7 @@ msgstr "[BP:HD:głowa:głowy]"
 #: body_default.txt:885
 msgctxt "BODY:INSECT_4LEGS_2ARMS"
 msgid "[BP:LB:abdomen:STP]"
-msgstr "[BP:LB:odwłok:STP]"
+msgstr "[BP:LB:odwłok:odwłoki]"
 
 #: body_default.txt:887
 msgctxt "BODY:INSECT_4LEGS_2ARMS"
