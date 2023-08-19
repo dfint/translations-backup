@@ -11,12 +11,12 @@
 # Maciej Chorobiński <Sokmund1@gmail.com>, 2023
 # insolor, 2023
 # Michał Długosz <michal.d.dlugosz@gmail.com>, 2023
-# Longin Komar, 2023
 # Bartek Patelka, 2023
+# Longin Komar, 2023
 # 
 msgid ""
 msgstr ""
-"Last-Translator: Bartek Patelka, 2023\n"
+"Last-Translator: Longin Komar, 2023\n"
 "Language-Team: Polish (https://app.transifex.com/dwarf-fortress-translation/teams/22396/pl/)\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -5639,7 +5639,7 @@ msgstr "[CV_NEW_TAG:GAIT:SWIM:Pływanie pełzające:]"
 #: c_variation_default.txt:671
 msgctxt "CREATURE_VARIATION:STANDARD_CRAWLING_GAITS"
 msgid "[CV_NEW_TAG:GAIT:CRAWL:Scramble:]"
-msgstr "[CV_NEW_TAG:GAIT:CRAWL:Wdrapywanie się:]"
+msgstr "[CV_NEW_TAG:GAIT:CRAWL:Czołganie z maksymalną prędkością:]"
 
 #: c_variation_default.txt:672
 msgctxt "CREATURE_VARIATION:STANDARD_CRAWLING_GAITS"
@@ -5654,7 +5654,7 @@ msgstr "[CV_NEW_TAG:GAIT:CRAWL:Szybkie czołganie:]"
 #: c_variation_default.txt:674
 msgctxt "CREATURE_VARIATION:STANDARD_CRAWLING_GAITS"
 msgid "[CV_NEW_TAG:GAIT:CRAWL:Crawl:]"
-msgstr "[CV_NEW_TAG:GAIT:CRAWL:Włażenie:]"
+msgstr "[CV_NEW_TAG:GAIT:CRAWL:Czołganie:]"
 
 #: c_variation_default.txt:675
 msgctxt "CREATURE_VARIATION:STANDARD_CRAWLING_GAITS"
@@ -5664,7 +5664,7 @@ msgstr "[CV_NEW_TAG:GAIT:CRAWL:Wolne czołganie:]"
 #: c_variation_default.txt:676
 msgctxt "CREATURE_VARIATION:STANDARD_CRAWLING_GAITS"
 msgid "[CV_NEW_TAG:GAIT:CRAWL:Creep:]"
-msgstr "[CV_NEW_TAG:GAIT:CRAWL:Creep:]"
+msgstr "[CV_NEW_TAG:GAIT:CRAWL:Pełźnięcie:]"
 
 #: c_variation_default.txt:679
 msgctxt "CREATURE_VARIATION:STANDARD_FLYING_GAITS"
@@ -5694,12 +5694,12 @@ msgstr "[CV_NEW_TAG:GAIT:FLY:Powolny Lot:]"
 #: c_variation_default.txt:684
 msgctxt "CREATURE_VARIATION:STANDARD_FLYING_GAITS"
 msgid "[CV_NEW_TAG:GAIT:FLY:Hover:]"
-msgstr "[CV_NEW_TAG:GAIT:FLY:Hover:]"
+msgstr "[CV_NEW_TAG:GAIT:FLY:Unoszenie się:]"
 
 #: c_variation_default.txt:687
 msgctxt "CREATURE_VARIATION:STANDARD_WALK_CRAWL_GAITS"
 msgid "[CV_NEW_TAG:GAIT:WALK:Scramble:]"
-msgstr "[CV_NEW_TAG:GAIT:WALK:Scramble:]"
+msgstr "[CV_NEW_TAG:GAIT:WALK:Czołganie z największą szybkością:]"
 
 #: c_variation_default.txt:688
 msgctxt "CREATURE_VARIATION:STANDARD_WALK_CRAWL_GAITS"
@@ -5719,12 +5719,12 @@ msgstr "[CV_NEW_TAG:GAIT:WALK:Czołganie:]"
 #: c_variation_default.txt:691
 msgctxt "CREATURE_VARIATION:STANDARD_WALK_CRAWL_GAITS"
 msgid "[CV_NEW_TAG:GAIT:WALK:Slow Crawl:]"
-msgstr "[CV_NEW_TAG:GAIT:WALK:Slow Crawl:]"
+msgstr "[CV_NEW_TAG:GAIT:WALK:Wolne czołganie:]"
 
 #: c_variation_default.txt:692
 msgctxt "CREATURE_VARIATION:STANDARD_WALK_CRAWL_GAITS"
 msgid "[CV_NEW_TAG:GAIT:WALK:Creep:]"
-msgstr "[CV_NEW_TAG:GAIT:WALK:Creep:]"
+msgstr "[CV_NEW_TAG:GAIT:WALK:Pełźnięcie:]"
 
 #: creature_amphibians.txt:6
 msgctxt "CREATURE:TOAD"
@@ -5732,23 +5732,23 @@ msgid ""
 "[DESCRIPTION:A squat amphibian with leathery skin, found in relatively dry "
 "areas.]"
 msgstr ""
-"[DESCRIPTION:Pękaty płaz o zwierzęcej skórze, spotykany najczęściej w "
-"suchych okolicach.]"
+"[DESCRIPTION:Pękaty płaz o skórzastej skórze, spotykany we względnie suchych"
+" okolicach.]"
 
 #: creature_amphibians.txt:7
 msgctxt "CREATURE:TOAD"
 msgid "[NAME:toad:toads:toad]"
-msgstr "[NAME:ropucha:ropuchy:ropucha]"
+msgstr "[NAME:ropucha:ropuchy:ropuszy]"
 
 #: creature_amphibians.txt:8
 msgctxt "CREATURE:TOAD"
 msgid "[CASTE_NAME:toad:toads:toad]"
-msgstr "[CASTE_NAME:ropucha:ropuchy:ropucha]"
+msgstr "[CASTE_NAME:ropucha:ropuchy:ropuszy]"
 
 #: creature_amphibians.txt:17
 msgctxt "CREATURE:TOAD"
 msgid "[PREFSTRING:beauty]"
-msgstr "[PREFSTRING:urodzie]"
+msgstr "[PREFSTRING:piękna]"
 
 #: creature_amphibians.txt:51
 msgctxt "CREATURE:TOAD"
@@ -5768,43 +5768,43 @@ msgstr "[TLCM_NOUN:oczy:PLURAL]"
 #: creature_amphibians.txt:75
 msgctxt "CREATURE:TOAD_MAN"
 msgid "[CASTE_NAME:toad man:toad men:toad man]"
-msgstr "[CASTE_NAME:żabomężczyzna:żabomężczyźni:żabomęski]"
+msgstr "[CASTE_NAME:ropuchomężczyzna:ropuchomężczyźni:ropuchomęski]"
 
 #: creature_amphibians.txt:77
 msgctxt "CREATURE:TOAD_MAN"
 msgid "[CASTE_NAME:toad woman:toad women:toad woman]"
-msgstr "[CASTE_NAME:żabokobieta:żabokobiety:żabokobieta]"
+msgstr "[CASTE_NAME:ropuchokobieta:ropuchokobiety:ropuchokobiecy]"
 
 #: creature_amphibians.txt:87
 msgctxt "CREATURE:TOAD_MAN"
 msgid "[NAME:toad man:toad men:toad man]"
-msgstr "[NAME:żaboczłek:żaboczłeki:żaboczłecki]"
+msgstr "[NAME:ropuchoczłowiek:ropucholudzie:ropucholudzki]"
 
 #: creature_amphibians.txt:88
 msgctxt "CREATURE:TOAD_MAN"
 msgid "[DESCRIPTION:A dark green man with the distinct head of a toad.]"
-msgstr "[DESCRIPTION:Ciemnozielony człowiek z głową żaby.]"
+msgstr "[DESCRIPTION:Ciemnozielony człowiek z wyraźną głową ropuchy.]"
 
 #: creature_amphibians.txt:104
 msgctxt "CREATURE:GIANT_TOAD"
 msgid "[NAME:giant toad:giant toads:giant toad]"
-msgstr "[NAME:gigantyczna ropucha:gigantyczne ropuchy:gigantyczna ropucha]"
+msgstr "[NAME:gigantyczna ropucha:gigantyczne ropuchy:gigantycznoropuszy]"
 
 #: creature_amphibians.txt:105
 msgctxt "CREATURE:GIANT_TOAD"
 msgid "[CASTE_NAME:giant toad:giant toads:giant toad]"
 msgstr ""
-"[CASTE_NAME:gigantyczna ropucha:gigantyczne ropuchy:gigantyczna ropucha]"
+"[CASTE_NAME:gigantyczna ropucha:gigantyczne ropuchy:gigantyczoropuszy]"
 
 #: creature_amphibians.txt:106
 msgctxt "CREATURE:GIANT_TOAD"
 msgid "[DESCRIPTION:A huge monster in the shape of a toad.]"
-msgstr "[DESCRIPTION:Ogromny potwór o kształcie żaby.]"
+msgstr "[DESCRIPTION:Ogromny potwór w kształcie ropuchy.]"
 
 #: creature_amphibians.txt:115
 msgctxt "CREATURE:GIANT_TOAD"
 msgid "[PREFSTRING:beauty]"
-msgstr "[PREFSTRING:urodzie]"
+msgstr "[PREFSTRING:piękna]"
 
 #: creature_annelids.txt:6
 msgctxt "CREATURE:WORM"
@@ -5812,18 +5812,18 @@ msgid ""
 "[DESCRIPTION:A tiny burrowing creature, found in moist soil.  It is legless,"
 " long and thin.]"
 msgstr ""
-"[DESCRIPTION:Malutkie ryjówkowate zwierze, spotykane w wilgotnej glebie. Nie"
+"[DESCRIPTION:Malutkie ryjące nory zwierzę, spotykane w wilgotnej glebie. Nie"
 " ma kończyn, jest długie i cienkie.]"
 
 #: creature_annelids.txt:7
 msgctxt "CREATURE:WORM"
 msgid "[NAME:worm:worms:worm]"
-msgstr "[NAME:robak:robaki:robak]"
+msgstr "[NAME:robak:robaki:robaczy]"
 
 #: creature_annelids.txt:8
 msgctxt "CREATURE:WORM"
 msgid "[CASTE_NAME:worm:worms:worm]"
-msgstr "[CASTE_NAME:robak:robaki:robak]"
+msgstr "[CASTE_NAME:robak:robaki:robaczy]"
 
 #: creature_annelids.txt:19
 msgctxt "CREATURE:WORM"
@@ -5833,7 +5833,7 @@ msgstr "[PREFSTRING:wijący się]"
 #: creature_annelids.txt:30
 msgctxt "CREATURE:WORM"
 msgid "[GAIT:WALK:Crawl:]"
-msgstr "[GAIT:WALK:Pełza:]"
+msgstr "[GAIT:WALK:Pełźnie:]"
 
 #: creature_annelids.txt:31
 msgctxt "CREATURE:WORM"
@@ -5848,17 +5848,17 @@ msgstr "[TLCM_NOUN:skóra:SINGULAR]"
 #: creature_annelids.txt:59
 msgctxt "CREATURE:WORM_MAN"
 msgid "[NAME:worm man:worm men:worm man]"
-msgstr "[NAME:robako-człowiek:robako-ludzie:robako-ludzki]"
+msgstr "[NAME:robakoczłowiek:robakoludzie:robakoludzki]"
 
 #: creature_annelids.txt:60
 msgctxt "CREATURE:WORM_MAN"
 msgid "[CASTE_NAME:worm man:worm men:worm man]"
-msgstr "[CASTE_NAME:Człowiek robak: robaczy mężczyzna: Człowiek robak]"
+msgstr "[CASTE_NAME:robakomężczyzna:robakomężczyźni:robakomęski]"
 
 #: creature_annelids.txt:61
 msgctxt "CREATURE:WORM_MAN"
 msgid "[DESCRIPTION:A worm-like creature with the torso of a man.]"
-msgstr "[DESCRIPTION:stworzenie przypominające robaka z tułowiem człowieka.]"
+msgstr "[DESCRIPTION:Przypominające robaka stworzenie z tułowiem człowieka.]"
 
 #: creature_birds.txt:6
 msgctxt "CREATURE:BIRD_BLUEJAY"
@@ -5872,17 +5872,17 @@ msgstr ""
 #: creature_birds.txt:7
 msgctxt "CREATURE:BIRD_BLUEJAY"
 msgid "[NAME:blue jay:blue jays:blue jay]"
-msgstr "[NAME:błękitna sójka:błekitne sójki:błekitna sójka]"
+msgstr "[NAME:modrosójka:modrosójki:modrosójczy]"
 
 #: creature_birds.txt:8
 msgctxt "CREATURE:BIRD_BLUEJAY"
 msgid "[CASTE_NAME:blue jay:blue jays:blue jay]"
-msgstr "[CASTE_NAME:błękitna sójka:błekitne sójki:błekitna sójka]"
+msgstr "[CASTE_NAME:modrosójka:modrosójki:modrosójczy]"
 
 #: creature_birds.txt:9
 msgctxt "CREATURE:BIRD_BLUEJAY"
 msgid "[GENERAL_CHILD_NAME:blue jay hatchling:blue jay hatchlings]"
-msgstr "[GENERAL_CHILD_NAME:pisklę błękitnej sójki:pisklęta błękitnej sójki]"
+msgstr "[GENERAL_CHILD_NAME:pisklę modrosójki:pisklęta modrosójki]"
 
 #: creature_birds.txt:33
 msgctxt "CREATURE:BIRD_BLUEJAY"
@@ -5917,54 +5917,47 @@ msgstr "[TLCM_NOUN:oczy:PLURAL]"
 #: creature_birds.txt:115
 msgctxt "CREATURE:BLUEJAY_MAN"
 msgid "[CASTE_NAME:bluejay man:bluejay men:bluejay man]"
-msgstr ""
-"[CASTE_NAME:sójko-mężczyzna błękitny:sójko-mężczyzna błękitny:sójko-"
-"mężczyzna błękitny] "
+msgstr "[CASTE_NAME:modrosójkomężczyzna:modrosójkomężczyzni:modrosójkomęski] "
 
 #: creature_birds.txt:117
 msgctxt "CREATURE:BLUEJAY_MAN"
 msgid "[CASTE_NAME:bluejay woman:bluejay women:bluejay woman]"
-msgstr ""
-"[CASTE_NAME:sójko-kobieta błękitna:sójko-kobiety błękitne:sójko-kobieta "
-"błękitna] "
+msgstr "[CASTE_NAME:modrosójkokobieta:modrosójkokobiety:modrosójkokobiecy] "
 
 #: creature_birds.txt:129
 msgctxt "CREATURE:BLUEJAY_MAN"
 msgid "[NAME:bluejay man:bluejay men:bluejay man]"
-msgstr ""
-"[NAME:sójko-człowiek błękitny:sójko-ludzie błękitni:sójko-człowiek błękitny]"
-" "
+msgstr "[NAME:modrosójkoczłowiek:modrosójkoludzie:modrosójkoludzki]"
 
 #: creature_birds.txt:130
 msgctxt "CREATURE:BLUEJAY_MAN"
 msgid "[DESCRIPTION:A person with the head and wings of a bluejay.]"
-msgstr "[DESCRIPTION:Osobnik z głową i skrzydłami błękitnej sójki.]"
+msgstr "[DESCRIPTION:Osobnik z głową i skrzydłami modrosójki.]"
 
 #: creature_birds.txt:146
 msgctxt "CREATURE:GIANT_BLUEJAY"
 msgid "[NAME:giant bluejay:giant bluejays:giant bluejay]"
 msgstr ""
-"[NAME:gigantyczna błękitna sójka;gigantyczne błękitne sójki;gigantyczna "
-"błękitna sójka]"
+"[NAME:gigantyczna modrosójka:gigantyczne modrosójki:gigantycznomodrosójczy]"
 
 #: creature_birds.txt:147
 msgctxt "CREATURE:GIANT_BLUEJAY"
 msgid "[CASTE_NAME:giant bluejay:giant bluejays:giant bluejay]"
 msgstr ""
-"[CASTE_NAME:gigantyczna błękitna jaskółka;gigantyczne błękitne "
-"jaskółki;gigantyczna błękitna jaskółka]"
+"[CASTE_NAME:gigantyczna modrosójka:gigantyczne "
+"modrosójki:gigantycznomodrosójczy]"
 
 #: creature_birds.txt:148
 msgctxt "CREATURE:GIANT_BLUEJAY"
 msgid "[GENERAL_CHILD_NAME:giant bluejay hatchling:giant bluejay hatchlings]"
 msgstr ""
-"[GENERAL_CHILD_NAME:pisklę gigantycznej błękitnej sójki:pisklęta "
-"gigantycznej błękitnej sójki]"
+"[GENERAL_CHILD_NAME:pisklę gigantycznej modrosójki:pisklęta gigantycznej "
+"modrosójki]"
 
 #: creature_birds.txt:149
 msgctxt "CREATURE:GIANT_BLUEJAY"
 msgid "[DESCRIPTION:A huge monster in the form of a bluejay.]"
-msgstr "[DESCRIPTION:Ogromny potwór w postaci błękitnej sójki.]"
+msgstr "[DESCRIPTION:Ogromny potwór w postaci modrosójki.]"
 
 #: creature_birds.txt:158
 msgctxt "CREATURE:GIANT_BLUEJAY"
@@ -32346,47 +32339,47 @@ msgstr ""
 #: creature_standard.txt:3830
 msgctxt "CREATURE:BLIZZARD_MAN"
 msgid "[NAME:blizzard man:blizzard men:blizzard man]"
-msgstr ""
+msgstr "[NAME:zamiecioczłowiek: zamiecioludzie: zamiecioludzki]"
 
 #: creature_standard.txt:3831
 msgctxt "CREATURE:BLIZZARD_MAN"
 msgid "[CASTE_NAME:blizzard man:blizzard men:blizzard man]"
-msgstr ""
+msgstr "[CASTE_NAME:zamiecioczłowiek: zamiecioludzie: zamiecioludzki]"
 
 #: creature_standard.txt:3843
 msgctxt "CREATURE:BLIZZARD_MAN"
 msgid "[PREFSTRING:translucent skin]"
-msgstr ""
+msgstr "[PREFSTRING:przeźroczysta skóra]"
 
 #: creature_standard.txt:3844
 msgctxt "CREATURE:BLIZZARD_MAN"
 msgid "[PREFSTRING:icicle teeth]"
-msgstr ""
+msgstr "[PREFSTRING:zęby z sopli]"
 
 #: creature_standard.txt:3845
 msgctxt "CREATURE:BLIZZARD_MAN"
 msgid "[PREFSTRING:glowing red eyes]"
-msgstr ""
+msgstr "[PREFSTRING:świecące czerwone oczy]"
 
 #: creature_standard.txt:3846
 msgctxt "CREATURE:BLIZZARD_MAN"
 msgid "[PREFSTRING:pointy ears]"
-msgstr ""
+msgstr "[PREFSTRING:szpiczaste uszy]"
 
 #: creature_standard.txt:3866
 msgctxt "CREATURE:BLIZZARD_MAN"
 msgid "[ATTACK_VERB:punch:punches]"
-msgstr ""
+msgstr "[ATTACK_VERB:uderzasz:uderza]"
 
 #: creature_standard.txt:3873
 msgctxt "CREATURE:BLIZZARD_MAN"
 msgid "[ATTACK_VERB:kick:kicks]"
-msgstr ""
+msgstr "[ATTACK_VERB:kopiesz:kopie]"
 
 #: creature_standard.txt:3881
 msgctxt "CREATURE:BLIZZARD_MAN"
 msgid "[ATTACK_VERB:scratch:scratches]"
-msgstr ""
+msgstr "[ATTACK_VERB:drapiesz:drapie]"
 
 #: creature_standard.txt:3889
 msgctxt "CREATURE:BLIZZARD_MAN"
@@ -32404,26 +32397,29 @@ msgid ""
 "[DESCRIPTION:A fierce creature from the evil snowy wilds.  It has white fur "
 "and a piercing howl.]"
 msgstr ""
+"[DESCRIPTION:Zaciekła istota ze złowrogich śnieżnych dziczy. Ma białe futro "
+"i przeszywająco wyje.]"
 
 #: creature_standard.txt:3913
 msgctxt "CREATURE:WOLF_ICE"
 msgid "[NAME:ice wolf:ice wolves:ice wolf]"
-msgstr ""
+msgstr "[NAME:lodowy wilk:lodowe wilki:lodowo wilczy]"
 
 #: creature_standard.txt:3914
 msgctxt "CREATURE:WOLF_ICE"
 msgid "[CASTE_NAME:ice wolf:ice wolves:ice wolf]"
-msgstr ""
+msgstr "[CASTE_NAME:lodowy wilk:lodowe wilki:lodowo wilczy]"
 
 #: creature_standard.txt:3915
 msgctxt "CREATURE:WOLF_ICE"
 msgid "[GENERAL_CHILD_NAME:ice wolf pup:ice wolf pups]"
 msgstr ""
+"[GENERAL_CHILD_NAME:szczenię lodowego wilka: szczenięta lodowego wilka]"
 
 #: creature_standard.txt:3927
 msgctxt "CREATURE:WOLF_ICE"
 msgid "[PREFSTRING:piercing howls]"
-msgstr ""
+msgstr "[PREFSTRING:przenikliwe wycie]"
 
 #: creature_standard.txt:3964
 msgctxt "CREATURE:WOLF_ICE"
@@ -32433,12 +32429,12 @@ msgstr "[ATTACK_VERB:gryziesz:gryzie]"
 #: creature_standard.txt:3973
 msgctxt "CREATURE:WOLF_ICE"
 msgid "[ATTACK_VERB:scratch:scratches]"
-msgstr ""
+msgstr "[ATTACK_VERB:drapiesz:drapie]"
 
 #: creature_standard.txt:3993
 msgctxt "CREATURE:WOLF_ICE"
 msgid "[TLCM_NOUN:hair:SINGULAR]"
-msgstr ""
+msgstr "[TLCM_NOUN:sierść:SINGULAR]"
 
 #: creature_standard.txt:3996
 msgctxt "CREATURE:WOLF_ICE"
@@ -32453,67 +32449,67 @@ msgstr "[TLCM_NOUN:oczy:PLURAL]"
 #: creature_standard.txt:4004
 msgctxt "CREATURE:FAIRY"
 msgid "[DESCRIPTION:A tiny, giggling humanoid with lacy wings.]"
-msgstr ""
+msgstr "[DESCRIPTION:Mały, chichoczący humanoid z koronkowymi skrzydłami.]"
 
 #: creature_standard.txt:4005
 msgctxt "CREATURE:FAIRY"
 msgid "[NAME:fairy:fairies:fairy]"
-msgstr ""
+msgstr "[NAME:wróżka;wróżki:wróżkowy]"
 
 #: creature_standard.txt:4006
 msgctxt "CREATURE:FAIRY"
 msgid "[CASTE_NAME:fairy:fairies:fairy]"
-msgstr ""
+msgstr "[CASTE_NAME:wróżka;wróżki:wróżkowy]"
 
 #: creature_standard.txt:4019
 msgctxt "CREATURE:FAIRY"
 msgid "[PREFSTRING:babylike giggles]"
-msgstr ""
+msgstr "[PREFSTRING:dziecinne chichoty]"
 
 #: creature_standard.txt:4020
 msgctxt "CREATURE:FAIRY"
 msgid "[PREFSTRING:lacy wings]"
-msgstr ""
+msgstr "[PREFSTRING:koronkowe skrzydła]"
 
 #: creature_standard.txt:4063
 msgctxt "CREATURE:FAIRY"
 msgid "[APP_MOD_NOUN:eyes:PLURAL]"
-msgstr ""
+msgstr "[APP_MOD_NOUN:oczy:PLURAL]"
 
 #: creature_standard.txt:4073
 msgctxt "CREATURE:FAIRY"
 msgid "[APP_MOD_NOUN:lips:PLURAL]"
-msgstr ""
+msgstr "[APP_MOD_NOUN:usta:PLURAL]"
 
 #: creature_standard.txt:4082
 msgctxt "CREATURE:FAIRY"
 msgid "[APP_MOD_NOUN:nose bridge:SINGULAR]"
-msgstr ""
+msgstr "[APP_MOD_NOUN:nasada nosowa:SINGULAR]"
 
 #: creature_standard.txt:4085
 msgctxt "CREATURE:FAIRY"
 msgid "[APP_MOD_NOUN:ears:PLURAL]"
-msgstr ""
+msgstr "[APP_MOD_NOUN:uszy:PLURAL]"
 
 #: creature_standard.txt:4098
 msgctxt "CREATURE:FAIRY"
 msgid "[APP_MOD_NOUN:teeth:PLURAL]"
-msgstr ""
+msgstr "[APP_MOD_NOUN:zęby:PLURAL]"
 
 #: creature_standard.txt:4120
 msgctxt "CREATURE:FAIRY"
 msgid "[ATTACK_VERB:punch:punches]"
-msgstr ""
+msgstr "[ATTACK_VERB:uderzasz:uderza]"
 
 #: creature_standard.txt:4127
 msgctxt "CREATURE:FAIRY"
 msgid "[ATTACK_VERB:kick:kicks]"
-msgstr ""
+msgstr "[ATTACK_VERB:kopiesz:kopie]"
 
 #: creature_standard.txt:4135
 msgctxt "CREATURE:FAIRY"
 msgid "[ATTACK_VERB:scratch:scratches]"
-msgstr ""
+msgstr "[ATTACK_VERB:drapiesz:drapie]"
 
 #: creature_standard.txt:4143
 msgctxt "CREATURE:FAIRY"
@@ -32523,22 +32519,22 @@ msgstr "[ATTACK_VERB:gryziesz:gryzie]"
 #: creature_standard.txt:4178
 msgctxt "CREATURE:FAIRY"
 msgid "[TLCM_NOUN:hair:SINGULAR]"
-msgstr ""
+msgstr "[TLCM_NOUN:włosy:SINGULAR]"
 
 #: creature_standard.txt:4181
 msgctxt "CREATURE:FAIRY"
 msgid "[APP_MOD_NOUN:eyebrows:PLURAL]"
-msgstr ""
+msgstr "[APP_MOD_NOUN:brwi:PLURAL]"
 
 #: creature_standard.txt:4185
 msgctxt "CREATURE:FAIRY"
 msgid "[APP_MOD_NOUN:eyelashes:PLURAL]"
-msgstr ""
+msgstr "[APP_MOD_NOUN:rzęsy:PLURAL]"
 
 #: creature_standard.txt:4194
 msgctxt "CREATURE:FAIRY"
 msgid "[APP_MOD_NOUN:hair:SINGULAR]"
-msgstr ""
+msgstr "[APP_MOD_NOUN:włosy:SINGULAR]"
 
 #: creature_standard.txt:4198
 msgctxt "CREATURE:FAIRY"
@@ -32556,66 +32552,68 @@ msgid ""
 "[DESCRIPTION:A tiny winged humanoid with shifting colors which performs "
 "intricate aerial dances in large groups.]"
 msgstr ""
+"[DESCRIPTION:Malutki skrzydlaty humanoid o zmieniających się kolorach, który"
+" wykonuje zawiłe powietrzne tańce w dużych grupach.]"
 
 #: creature_standard.txt:4205
 msgctxt "CREATURE:PIXIE"
 msgid "[NAME:pixie:pixies:pixie]"
-msgstr ""
+msgstr "[NAME:chochlik:chochliki:chochliczy]"
 
 #: creature_standard.txt:4206
 msgctxt "CREATURE:PIXIE"
 msgid "[CASTE_NAME:pixie:pixies:pixie]"
-msgstr ""
+msgstr "[CASTE_NAME:chochlik:chochliki:chochliczy]"
 
 #: creature_standard.txt:4220
 msgctxt "CREATURE:PIXIE"
 msgid "[PREFSTRING:shifting colors]"
-msgstr ""
+msgstr "[PREFSTRING:wielobarwny]"
 
 #: creature_standard.txt:4221
 msgctxt "CREATURE:PIXIE"
 msgid "[PREFSTRING:intricate aerial dances]"
-msgstr ""
+msgstr "[PREFSTRING:zawiłe powietrzne tańce]"
 
 #: creature_standard.txt:4262
 msgctxt "CREATURE:PIXIE"
 msgid "[APP_MOD_NOUN:eyes:PLURAL]"
-msgstr ""
+msgstr "[APP_MOD_NOUN:oczy:PLURAL]"
 
 #: creature_standard.txt:4272
 msgctxt "CREATURE:PIXIE"
 msgid "[APP_MOD_NOUN:lips:PLURAL]"
-msgstr ""
+msgstr "[APP_MOD_NOUN:usta:PLURAL]"
 
 #: creature_standard.txt:4281
 msgctxt "CREATURE:PIXIE"
 msgid "[APP_MOD_NOUN:nose bridge:SINGULAR]"
-msgstr ""
+msgstr "[APP_MOD_NOUN:nasada nosowa:SINGULAR]"
 
 #: creature_standard.txt:4284
 msgctxt "CREATURE:PIXIE"
 msgid "[APP_MOD_NOUN:ears:PLURAL]"
-msgstr ""
+msgstr "[APP_MOD_NOUN:uszy:PLURAL]"
 
 #: creature_standard.txt:4297
 msgctxt "CREATURE:PIXIE"
 msgid "[APP_MOD_NOUN:teeth:PLURAL]"
-msgstr ""
+msgstr "[APP_MOD_NOUN:zęby:PLURAL]"
 
 #: creature_standard.txt:4319
 msgctxt "CREATURE:PIXIE"
 msgid "[ATTACK_VERB:punch:punches]"
-msgstr ""
+msgstr "[ATTACK_VERB:uderzasz:uderza]"
 
 #: creature_standard.txt:4326
 msgctxt "CREATURE:PIXIE"
 msgid "[ATTACK_VERB:kick:kicks]"
-msgstr ""
+msgstr "[ATTACK_VERB:kopiesz:kopie]"
 
 #: creature_standard.txt:4334
 msgctxt "CREATURE:PIXIE"
 msgid "[ATTACK_VERB:scratch:scratches]"
-msgstr ""
+msgstr "[ATTACK_VERB:drapiesz:drapie]"
 
 #: creature_standard.txt:4342
 msgctxt "CREATURE:PIXIE"
@@ -32625,22 +32623,22 @@ msgstr "[ATTACK_VERB:gryziesz:gryzie]"
 #: creature_standard.txt:4377
 msgctxt "CREATURE:PIXIE"
 msgid "[TLCM_NOUN:hair:SINGULAR]"
-msgstr ""
+msgstr "[TLCM_NOUN:włosy:SINGULAR]"
 
 #: creature_standard.txt:4380
 msgctxt "CREATURE:PIXIE"
 msgid "[APP_MOD_NOUN:eyebrows:PLURAL]"
-msgstr ""
+msgstr "[APP_MOD_NOUN:brwi:PLURAL]"
 
 #: creature_standard.txt:4384
 msgctxt "CREATURE:PIXIE"
 msgid "[APP_MOD_NOUN:eyelashes:PLURAL]"
-msgstr ""
+msgstr "[APP_MOD_NOUN:rzęsy:PLURAL]"
 
 #: creature_standard.txt:4393
 msgctxt "CREATURE:PIXIE"
 msgid "[APP_MOD_NOUN:hair:SINGULAR]"
-msgstr ""
+msgstr "[APP_MOD_NOUN:włosy:SINGULAR]"
 
 #: creature_standard.txt:4397
 msgctxt "CREATURE:PIXIE"
@@ -32658,36 +32656,40 @@ msgid ""
 "[DESCRIPTION:A creature from the evil swamp.  It resembles a squat, wingless"
 " bird with powerful beak and legs.  Its blotchy skin is brightly colored.]"
 msgstr ""
+"[DESCRIPTION:Stwór ze złego bagna. Przypomina przysadzistego, bezskrzydłego "
+"ptaka z potężnym dziobem i nogami. Jego poplamiona skóra jest jaskrawo "
+"zabarwiona.]"
 
 #: creature_standard.txt:4404
 msgctxt "CREATURE:BEAK_DOG"
 msgid "[NAME:beak dog:beak dogs:beak dog]"
-msgstr ""
+msgstr "[NAME:bagienny gryf:bagienne gryfy: bagienno gryfi]"
 
 #: creature_standard.txt:4405
 msgctxt "CREATURE:BEAK_DOG"
 msgid "[CASTE_NAME:beak dog:beak dogs:beak dog]"
-msgstr ""
+msgstr "[CASTE_NAME:bagienny gryf:bagienne gryfy: bagienno gryfi]"
 
 #: creature_standard.txt:4406
 msgctxt "CREATURE:BEAK_DOG"
 msgid "[GENERAL_CHILD_NAME:beak dog pup:beak dog pups]"
 msgstr ""
+"[GENERAL_CHILD_NAME:szczenię bagiennego gryfa: szczenięta bagiennego gryfa]"
 
 #: creature_standard.txt:4422
 msgctxt "CREATURE:BEAK_DOG"
 msgid "[PREFSTRING:chatters and clicks]"
-msgstr ""
+msgstr "[PREFSTRING:szczebiotania i kłapnięcia]"
 
 #: creature_standard.txt:4423
 msgctxt "CREATURE:BEAK_DOG"
 msgid "[PREFSTRING:hunched backs]"
-msgstr ""
+msgstr "[PREFSTRING:zgarbione plecy]"
 
 #: creature_standard.txt:4424
 msgctxt "CREATURE:BEAK_DOG"
 msgid "[PREFSTRING:large beaks]"
-msgstr ""
+msgstr "[PREFSTRING:duże dzioby]"
 
 #: creature_standard.txt:4464
 msgctxt "CREATURE:BEAK_DOG"
@@ -32697,7 +32699,7 @@ msgstr "[ATTACK_VERB:gryziesz:gryzie]"
 #: creature_standard.txt:4473
 msgctxt "CREATURE:BEAK_DOG"
 msgid "[ATTACK_VERB:scratch:scratches]"
-msgstr ""
+msgstr "[ATTACK_VERB:drapiesz:drapie]"
 
 #: creature_standard.txt:4498
 msgctxt "CREATURE:BEAK_DOG"
@@ -32715,36 +32717,38 @@ msgid ""
 "[DESCRIPTION:An evil monster from the swamp.  It resembles a knot of "
 "waterlogged weeds but will strike the unaware victim.]"
 msgstr ""
+"[DESCRIPTION:Zły potwór z bagien. Przypomina kępę nasiąkniętych wodą "
+"chwastów, ale uderza w nieświadomą ofiarę.]"
 
 #: creature_standard.txt:4507
 msgctxt "CREATURE:GRIMELING"
 msgid "[NAME:grimeling:grimelings:grimeling]"
-msgstr ""
+msgstr "[NAME:grimeling:grimelingi:grimelingowe]"
 
 #: creature_standard.txt:4508
 msgctxt "CREATURE:GRIMELING"
 msgid "[CASTE_NAME:grimeling:grimelings:grimeling]"
-msgstr ""
+msgstr "[CASTE_NAME:grimeling:grimelingi:grimelingowe]"
 
 #: creature_standard.txt:4526
 msgctxt "CREATURE:GRIMELING"
 msgid "[PREFSTRING:slithering nature]"
-msgstr ""
+msgstr "[PREFSTRING:pełzająca natura]"
 
 #: creature_standard.txt:4527
 msgctxt "CREATURE:GRIMELING"
 msgid "[PREFSTRING:weedy bodies]"
-msgstr ""
+msgstr "[PREFSTRING:ciało z chwastów]"
 
 #: creature_standard.txt:4548
 msgctxt "CREATURE:GRIMELING"
 msgid "[ATTACK_VERB:punch:punches]"
-msgstr ""
+msgstr "[ATTACK_VERB:uderzasz:uderza]"
 
 #: creature_standard.txt:4555
 msgctxt "CREATURE:GRIMELING"
 msgid "[ATTACK_VERB:kick:kicks]"
-msgstr ""
+msgstr "[ATTACK_VERB:kopiesz:kopie]"
 
 #: creature_standard.txt:4573
 msgctxt "CREATURE:BLENDEC_FOUL"
@@ -32752,51 +32756,53 @@ msgid ""
 "[DESCRIPTION:A man-shaped creature with the legs of a goat and the empty-"
 "eyed skull of a goat.]"
 msgstr ""
+"[DESCRIPTION:Stwór w kształcie człowieka z nogami kozy i czaszką kozła z "
+"pustymi oczami.]"
 
 #: creature_standard.txt:4574
 msgctxt "CREATURE:BLENDEC_FOUL"
 msgid "[NAME:foul blendec:foul blendecs:foul blendec]"
-msgstr ""
+msgstr "[NAME:plugawy blendek:plugawe blendeki:plugawo blędekowy]"
 
 #: creature_standard.txt:4575
 msgctxt "CREATURE:BLENDEC_FOUL"
 msgid "[CASTE_NAME:foul blendec:foul blendecs:foul blendec]"
-msgstr ""
+msgstr "[CASTE_NAME:plugawy blendek:plugawe blendeki:plugawo blędekowy]"
 
 #: creature_standard.txt:4589
 msgctxt "CREATURE:BLENDEC_FOUL"
 msgid "[PREFSTRING:goat heads]"
-msgstr ""
+msgstr "[PREFSTRING:kozia głowa]"
 
 #: creature_standard.txt:4590
 msgctxt "CREATURE:BLENDEC_FOUL"
 msgid "[PREFSTRING:goat legs]"
-msgstr ""
+msgstr "[PREFSTRING:kozie nogi]"
 
 #: creature_standard.txt:4591
 msgctxt "CREATURE:BLENDEC_FOUL"
 msgid "[PREFSTRING:rotten eye sockets]"
-msgstr ""
+msgstr "[PREFSTRING:zgniłe oczodoły]"
 
 #: creature_standard.txt:4632
 msgctxt "CREATURE:BLENDEC_FOUL"
 msgid "[ATTACK_VERB:punch:punches]"
-msgstr ""
+msgstr "[ATTACK_VERB:uderzasz:uderza]"
 
 #: creature_standard.txt:4639
 msgctxt "CREATURE:BLENDEC_FOUL"
 msgid "[ATTACK_VERB:kick:kicks]"
-msgstr ""
+msgstr "[ATTACK_VERB:kopiesz:kopie]"
 
 #: creature_standard.txt:4647
 msgctxt "CREATURE:BLENDEC_FOUL"
 msgid "[ATTACK_VERB:gore:gores]"
-msgstr ""
+msgstr "[ATTACK_VERB:rozpruwasz:rozpruwa]"
 
 #: creature_standard.txt:4654
 msgctxt "CREATURE:BLENDEC_FOUL"
 msgid "[ATTACK_VERB:scratch:scratches]"
-msgstr ""
+msgstr "[ATTACK_VERB:drapiesz:drapie]"
 
 #: creature_standard.txt:4662
 msgctxt "CREATURE:BLENDEC_FOUL"
@@ -32806,7 +32812,7 @@ msgstr "[ATTACK_VERB:gryziesz:gryzie]"
 #: creature_standard.txt:4685
 msgctxt "CREATURE:BLENDEC_FOUL"
 msgid "[TLCM_NOUN:hair:SINGULAR]"
-msgstr ""
+msgstr "[TLCM_NOUN:futro:SINGULAR]"
 
 #: creature_standard.txt:4688
 msgctxt "CREATURE:BLENDEC_FOUL"
@@ -32819,36 +32825,38 @@ msgid ""
 "[DESCRIPTION:A large, four-armed ape creature with three eyes and razor-"
 "sharp teeth.]"
 msgstr ""
+"[DESCRIPTION:Wielka, czteroręka małpa z trojgiem oczu i ostrymi jak brzytwa "
+"zębami.]"
 
 #: creature_standard.txt:4692
 msgctxt "CREATURE:STRANGLER"
 msgid "[NAME:strangler:stranglers:strangler]"
-msgstr ""
+msgstr "[NAME:dusiciel:dusiciele:dusicielski]"
 
 #: creature_standard.txt:4693
 msgctxt "CREATURE:STRANGLER"
 msgid "[CASTE_NAME:strangler:stranglers:strangler]"
-msgstr ""
+msgstr "[CASTE_NAME:dusiciel:dusiciele:dusicielski]"
 
 #: creature_standard.txt:4704
 msgctxt "CREATURE:STRANGLER"
 msgid "[PREFSTRING:resounding hoots]"
-msgstr ""
+msgstr "[PREFSTRING:głośne pohukiwania]"
 
 #: creature_standard.txt:4705
 msgctxt "CREATURE:STRANGLER"
 msgid "[PREFSTRING:graceful leaps]"
-msgstr ""
+msgstr "[PREFSTRING:pełne wdzięku skoki]"
 
 #: creature_standard.txt:4706
 msgctxt "CREATURE:STRANGLER"
 msgid "[PREFSTRING:three eyes]"
-msgstr ""
+msgstr "[PREFSTRING:troje oczu]"
 
 #: creature_standard.txt:4707
 msgctxt "CREATURE:STRANGLER"
 msgid "[PREFSTRING:toothy maw]"
-msgstr ""
+msgstr "[PREFSTRING:zębata paszcza]"
 
 #: creature_standard.txt:4740
 msgctxt "CREATURE:STRANGLER"
@@ -32858,12 +32866,12 @@ msgstr "[ATTACK_VERB:gryziesz:gryzie]"
 #: creature_standard.txt:4749
 msgctxt "CREATURE:STRANGLER"
 msgid "[ATTACK_VERB:scratch:scratches]"
-msgstr ""
+msgstr "[ATTACK_VERB:drapiesz:drapie]"
 
 #: creature_standard.txt:4772
 msgctxt "CREATURE:STRANGLER"
 msgid "[TLCM_NOUN:hair:SINGULAR]"
-msgstr ""
+msgstr "[TLCM_NOUN:futro:SINGULAR]"
 
 #: creature_standard.txt:4775
 msgctxt "CREATURE:STRANGLER"
@@ -32882,56 +32890,58 @@ msgid ""
 "It has the head of a jackal with needle-like horns protruding through its "
 "mane.]"
 msgstr ""
+"[DESCRIPTION:Latający potwór z rozciągniętą skórą na wychudzonym ciele. Ma "
+"głowę szakala z rogami przypominającymi igły wystającymi z grzywy.]"
 
 #: creature_standard.txt:4784
 msgctxt "CREATURE:NIGHTWING"
 msgid "[NAME:nightwing:nightwings:nightwing]"
-msgstr ""
+msgstr "[NAME:nocnoskrzydły:nocnoskrzydli:nocnoskrzydłe]"
 
 #: creature_standard.txt:4785
 msgctxt "CREATURE:NIGHTWING"
 msgid "[CASTE_NAME:nightwing:nightwings:nightwing]"
-msgstr ""
+msgstr "[CASTE_NAME:nocnoskrzydły:nocnoskrzydli:nocnoskrzydłe]"
 
 #: creature_standard.txt:4797
 msgctxt "CREATURE:NIGHTWING"
 msgid "[PREFSTRING:jackal heads]"
-msgstr ""
+msgstr "[PREFSTRING:głowa szakala]"
 
 #: creature_standard.txt:4798
 msgctxt "CREATURE:NIGHTWING"
 msgid "[PREFSTRING:bat wings]"
-msgstr ""
+msgstr "[PREFSTRING:nietoperze skrzydła]"
 
 #: creature_standard.txt:4799
 msgctxt "CREATURE:NIGHTWING"
 msgid "[PREFSTRING:long tails]"
-msgstr ""
+msgstr "[PREFSTRING:długie ogony]"
 
 #: creature_standard.txt:4800
 msgctxt "CREATURE:NIGHTWING"
 msgid "[PREFSTRING:manes]"
-msgstr ""
+msgstr "[PREFSTRING:grzywa]"
 
 #: creature_standard.txt:4801
 msgctxt "CREATURE:NIGHTWING"
 msgid "[PREFSTRING:fangs]"
-msgstr ""
+msgstr "[PREFSTRING:kły]"
 
 #: creature_standard.txt:4802
 msgctxt "CREATURE:NIGHTWING"
 msgid "[PREFSTRING:ability to suck blood]"
-msgstr ""
+msgstr "[PREFSTRING:zdolność do ssania krwi]"
 
 #: creature_standard.txt:4803
 msgctxt "CREATURE:NIGHTWING"
 msgid "[PREFSTRING:tightly-stretched skin]"
-msgstr ""
+msgstr "[PREFSTRING:mocno naciągnięta skóra]"
 
 #: creature_standard.txt:4804
 msgctxt "CREATURE:NIGHTWING"
 msgid "[PREFSTRING:needle-like horns]"
-msgstr ""
+msgstr "[PREFSTRING:rogi przypominające igły]"
 
 #: creature_standard.txt:4836
 msgctxt "CREATURE:NIGHTWING"
@@ -32941,12 +32951,12 @@ msgstr "[ATTACK_VERB:gryziesz:gryzie]"
 #: creature_standard.txt:4846
 msgctxt "CREATURE:NIGHTWING"
 msgid "[ATTACK_VERB:scratch:scratches]"
-msgstr ""
+msgstr "[ATTACK_VERB:drapiesz:drapie]"
 
 #: creature_standard.txt:4862
 msgctxt "CREATURE:NIGHTWING"
 msgid "[TLCM_NOUN:hair:SINGULAR]"
-msgstr ""
+msgstr "[TLCM_NOUN:futro:SINGULAR]"
 
 #: creature_standard.txt:4865
 msgctxt "CREATURE:NIGHTWING"
@@ -32964,76 +32974,78 @@ msgid ""
 "[DESCRIPTION:A monster in the shape of a woman with a bird's wings in place "
 "of arms and talons for feet.]"
 msgstr ""
+"[DESCRIPTION:Potwór w kształcie kobiety z ptasimi skrzydłami zamiast ramion "
+"i szponami zamiast nóg.]"
 
 #: creature_standard.txt:4872
 msgctxt "CREATURE:HARPY"
 msgid "[NAME:harpy:harpies:harpy]"
-msgstr ""
+msgstr "[NAME:harpia:harpie:harpii]"
 
 #: creature_standard.txt:4873
 msgctxt "CREATURE:HARPY"
 msgid "[CASTE_NAME:harpy:harpies:harpy]"
-msgstr ""
+msgstr "[CASTE_NAME:harpia:harpie:harpii]"
 
 #: creature_standard.txt:4903
 msgctxt "CREATURE:HARPY"
 msgid "[PREFSTRING:feathery wings]"
-msgstr ""
+msgstr "[PREFSTRING:pierzaste skrzydła]"
 
 #: creature_standard.txt:4904
 msgctxt "CREATURE:HARPY"
 msgid "[PREFSTRING:fearsome talons]"
-msgstr ""
+msgstr "[PREFSTRING:przerażające szpony]"
 
 #: creature_standard.txt:4939
 msgctxt "CREATURE:HARPY"
 msgid "[CDI:ADV_NAME:Pet animal]"
-msgstr ""
+msgstr "[CDI:ADV_NAME:Pupil]"
 
 #: creature_standard.txt:4942
 msgctxt "CREATURE:HARPY"
 msgid "[CDI:VERB:pet:pets:pets]"
-msgstr ""
+msgstr "[CDI:VERB:pupil:pupile:pupilski]"
 
 #: creature_standard.txt:4949
 msgctxt "CREATURE:HARPY"
 msgid "[CDI:ADV_NAME:Spit]"
-msgstr ""
+msgstr "[CDI:ADV_NAME:Pluć]"
 
 #: creature_standard.txt:4954
 msgctxt "CREATURE:HARPY"
 msgid "[CDI:VERB:spit:spits:NA]"
-msgstr ""
+msgstr "[CDI:VERB:pluć:pluje:NA]"
 
 #: creature_standard.txt:4966
 msgctxt "CREATURE:HARPY"
 msgid "[APP_MOD_NOUN:eyes:PLURAL]"
-msgstr ""
+msgstr "[APP_MOD_NOUN:oczy:PLURAL]"
 
 #: creature_standard.txt:4976
 msgctxt "CREATURE:HARPY"
 msgid "[APP_MOD_NOUN:lips:PLURAL]"
-msgstr ""
+msgstr "[APP_MOD_NOUN:usta:PLURAL]"
 
 #: creature_standard.txt:4985
 msgctxt "CREATURE:HARPY"
 msgid "[APP_MOD_NOUN:nose bridge:SINGULAR]"
-msgstr ""
+msgstr "[APP_MOD_NOUN:nasada nosowa:SINGULAR]"
 
 #: creature_standard.txt:4988
 msgctxt "CREATURE:HARPY"
 msgid "[APP_MOD_NOUN:ears:PLURAL]"
-msgstr ""
+msgstr "[APP_MOD_NOUN:uszy:PLURAL]"
 
 #: creature_standard.txt:5001
 msgctxt "CREATURE:HARPY"
 msgid "[APP_MOD_NOUN:teeth:PLURAL]"
-msgstr ""
+msgstr "[APP_MOD_NOUN:zęby:PLURAL]"
 
 #: creature_standard.txt:5023
 msgctxt "CREATURE:HARPY"
 msgid "[ATTACK_VERB:snatch at:snatches at]"
-msgstr ""
+msgstr "[ATTACK_VERB:chwytasz za:chwyta za]"
 
 #: creature_standard.txt:5032
 msgctxt "CREATURE:HARPY"
@@ -33059,21 +33071,22 @@ msgstr "[TLCM_NOUN:oczy:PLURAL]"
 msgctxt "CREATURE:HYDRA"
 msgid "[DESCRIPTION:A giant dragon-like monster with seven biting heads.]"
 msgstr ""
+"[DESCRIPTION:Gigantyczny smokopodobny potwór z siedmioma gryzącymi głowami.]"
 
 #: creature_standard.txt:5052
 msgctxt "CREATURE:HYDRA"
 msgid "[NAME:hydra:hydras:hydra]"
-msgstr ""
+msgstr "[NAME:hydra:hydry:hydrzy]"
 
 #: creature_standard.txt:5053
 msgctxt "CREATURE:HYDRA"
 msgid "[CASTE_NAME:hydra:hydras:hydra]"
-msgstr ""
+msgstr "[CASTE_NAME:hydra:hydry:hydrzy]"
 
 #: creature_standard.txt:5072
 msgctxt "CREATURE:HYDRA"
 msgid "[PREFSTRING:seven heads]"
-msgstr ""
+msgstr "[PREFSTRING:siedem głów]"
 
 #: creature_standard.txt:5110
 msgctxt "CREATURE:HYDRA"
@@ -33083,12 +33096,12 @@ msgstr "[ATTACK_VERB:gryziesz:gryzie]"
 #: creature_standard.txt:5120
 msgctxt "CREATURE:HYDRA"
 msgid "[ATTACK_VERB:claw:claws]"
-msgstr ""
+msgstr "[ATTACK_VERB:szarpiesz pazurami:szarpie pazurami]"
 
 #: creature_standard.txt:5148
 msgctxt "CREATURE:HYDRA"
 msgid "[TLCM_NOUN:scales:PLURAL]"
-msgstr ""
+msgstr "[TLCM_NOUN:łuski:PLURAL]"
 
 #: creature_standard.txt:5151
 msgctxt "CREATURE:HYDRA"
@@ -33099,72 +33112,72 @@ msgstr "[TLCM_NOUN:oczy:PLURAL]"
 msgctxt "CREATURE:MERPERSON"
 msgid ""
 "[DESCRIPTION:A man-like creature with the tail of a fish instead of legs.]"
-msgstr ""
+msgstr "[DESCRIPTION:Istota podobna do człowieka z rybim ogonem zamiast nóg.]"
 
 #: creature_standard.txt:5159
 msgctxt "CREATURE:MERPERSON"
 msgid "[NAME:merperson:merpeople:merperson]"
-msgstr ""
+msgstr "[NAME:syrena:syreny:syreni]"
 
 #: creature_standard.txt:5173
 msgctxt "CREATURE:MERPERSON"
 msgid "[PREFSTRING:tails]"
-msgstr ""
+msgstr "[PREFSTRING:ogony]"
 
 #: creature_standard.txt:5210
 msgctxt "CREATURE:MERPERSON"
 msgid "[CDI:ADV_NAME:Pet animal]"
-msgstr ""
+msgstr "[CDI:ADV_NAME:Pupil]"
 
 #: creature_standard.txt:5213
 msgctxt "CREATURE:MERPERSON"
 msgid "[CDI:VERB:pet:pets:pets]"
-msgstr ""
+msgstr "[CDI:VERB:pupil:pupile:pupilski]"
 
 #: creature_standard.txt:5220
 msgctxt "CREATURE:MERPERSON"
 msgid "[CDI:ADV_NAME:Spit]"
-msgstr ""
+msgstr "[CDI:ADV_NAME:Pluć]"
 
 #: creature_standard.txt:5225
 msgctxt "CREATURE:MERPERSON"
 msgid "[CDI:VERB:spit:spits:NA]"
-msgstr ""
+msgstr "[CDI:VERB:pluć:pluje:NA]"
 
 #: creature_standard.txt:5239
 msgctxt "CREATURE:MERPERSON"
 msgid "[APP_MOD_NOUN:eyes:PLURAL]"
-msgstr ""
+msgstr "[APP_MOD_NOUN:oczy:PLURAL]"
 
 #: creature_standard.txt:5249
 msgctxt "CREATURE:MERPERSON"
 msgid "[APP_MOD_NOUN:lips:PLURAL]"
-msgstr ""
+msgstr "[APP_MOD_NOUN:usta:PLURAL]"
 
 #: creature_standard.txt:5258
 msgctxt "CREATURE:MERPERSON"
 msgid "[APP_MOD_NOUN:nose bridge:SINGULAR]"
-msgstr ""
+msgstr "[APP_MOD_NOUN:nasada nosowa:SINGULAR]"
 
 #: creature_standard.txt:5261
 msgctxt "CREATURE:MERPERSON"
 msgid "[APP_MOD_NOUN:ears:PLURAL]"
-msgstr ""
+msgstr "[APP_MOD_NOUN:uszy:PLURAL]"
 
 #: creature_standard.txt:5274
 msgctxt "CREATURE:MERPERSON"
 msgid "[APP_MOD_NOUN:teeth:PLURAL]"
-msgstr ""
+msgstr "[APP_MOD_NOUN:zęby:PLURAL]"
 
 #: creature_standard.txt:5297
 msgctxt "CREATURE:MERPERSON"
 msgid "[ATTACK_VERB:punch:punches]"
-msgstr ""
+msgstr "[ATTACK_VERB:uderzasz:uderza]"
 
 #: creature_standard.txt:5304
 msgctxt "CREATURE:MERPERSON"
 msgid "[ATTACK_VERB:scratch:scratches]"
-msgstr ""
+msgstr "[ATTACK_VERB:drapiesz:drapie]"
 
 #: creature_standard.txt:5312
 msgctxt "CREATURE:MERPERSON"
@@ -33174,52 +33187,52 @@ msgstr "[ATTACK_VERB:gryziesz:gryzie]"
 #: creature_standard.txt:5333
 msgctxt "CREATURE:MERPERSON"
 msgid "[CASTE_NAME:mermaid:mermaids:mermaid]"
-msgstr ""
+msgstr "[CASTE_NAME:syrena:syreny:syreni]"
 
 #: creature_standard.txt:5337
 msgctxt "CREATURE:MERPERSON"
 msgid "[CASTE_NAME:merman:mermen:merman]"
-msgstr ""
+msgstr "[CASTE_NAME:syrena:syreny:syreni]"
 
 #: creature_standard.txt:5348
 msgctxt "CREATURE:MERPERSON"
 msgid "[TLCM_NOUN:hair:SINGULAR]"
-msgstr ""
+msgstr "[TLCM_NOUN:włosy:SINGULAR]"
 
 #: creature_standard.txt:5357
 msgctxt "CREATURE:MERPERSON"
 msgid "[APP_MOD_NOUN:eyebrows:PLURAL]"
-msgstr ""
+msgstr "[APP_MOD_NOUN:brwi:PLURAL]"
 
 #: creature_standard.txt:5366
 msgctxt "CREATURE:MERPERSON"
 msgid "[APP_MOD_NOUN:eyelashes:PLURAL]"
-msgstr ""
+msgstr "[APP_MOD_NOUN:rzęsy:PLURAL]"
 
 #: creature_standard.txt:5374
 msgctxt "CREATURE:MERPERSON"
 msgid "[APP_MOD_NOUN:hair:SINGULAR]"
-msgstr ""
+msgstr "[APP_MOD_NOUN:włosy:SINGULAR]"
 
 #: creature_standard.txt:5386
 msgctxt "CREATURE:MERPERSON"
 msgid "[TSU_NOUN:hair:SINGULAR]"
-msgstr ""
+msgstr "[TSU_NOUN:włosy:SINGULAR]"
 
 #: creature_standard.txt:5390
 msgctxt "CREATURE:MERPERSON"
 msgid "[TSU_NOUN:beard:SINGULAR]"
-msgstr ""
+msgstr "[TSU_NOUN:broda:SINGULAR]"
 
 #: creature_standard.txt:5393
 msgctxt "CREATURE:MERPERSON"
 msgid "[TSU_NOUN:moustache:SINGULAR]"
-msgstr ""
+msgstr "[TSU_NOUN:wąs:SINGULAR]"
 
 #: creature_standard.txt:5396
 msgctxt "CREATURE:MERPERSON"
 msgid "[TSU_NOUN:sideburns:PLURAL]"
-msgstr ""
+msgstr "[TSU_NOUN:bokobrody:PLURAL]"
 
 #: creature_standard.txt:5399
 msgctxt "CREATURE:MERPERSON"
@@ -33229,7 +33242,7 @@ msgstr "[TLCM_NOUN:skóra:SINGULAR]"
 #: creature_standard.txt:5402
 msgctxt "CREATURE:MERPERSON"
 msgid "[APP_MOD_NOUN:skin:SINGULAR]"
-msgstr ""
+msgstr "[APP_MOD_NOUN:skóra:SINGULAR]"
 
 #: creature_standard.txt:5406
 msgctxt "CREATURE:MERPERSON"
@@ -33239,27 +33252,27 @@ msgstr "[TLCM_NOUN:oczy:PLURAL]"
 #: creature_standard.txt:5409
 msgctxt "CREATURE:SEA_SERPENT"
 msgid "[DESCRIPTION:A giant limbless dragon that lives in the sea.]"
-msgstr ""
+msgstr "[DESCRIPTION:Gigantyczny smok bez kończyn, który żyje w morzu.]"
 
 #: creature_standard.txt:5410
 msgctxt "CREATURE:SEA_SERPENT"
 msgid "[NAME:sea serpent:sea serpents:sea serpent]"
-msgstr ""
+msgstr "[NAME:wąż morski:węże morskie:wężo morski]"
 
 #: creature_standard.txt:5411
 msgctxt "CREATURE:SEA_SERPENT"
 msgid "[CASTE_NAME:sea serpent:sea serpents:sea serpent]"
-msgstr ""
+msgstr "[CASTE_NAME:wąż morski:węże morskie:wężo morski]"
 
 #: creature_standard.txt:5422
 msgctxt "CREATURE:SEA_SERPENT"
 msgid "[PREFSTRING:majesty]"
-msgstr ""
+msgstr "[PREFSTRING:dostojność]"
 
 #: creature_standard.txt:5424
 msgctxt "CREATURE:SEA_SERPENT"
 msgid "[CHILDNAME:sea serpent hatchling:sea serpent hatchlings]"
-msgstr ""
+msgstr "[CHILDNAME:pisklęta węża morskiego: pisklęta węża morskiego]"
 
 #: creature_standard.txt:5461
 msgctxt "CREATURE:SEA_SERPENT"
@@ -33269,12 +33282,12 @@ msgstr "[ATTACK_VERB:gryziesz:gryzie]"
 #: creature_standard.txt:5470
 msgctxt "CREATURE:SEA_SERPENT"
 msgid "[ATTACK_VERB:slap:slaps]"
-msgstr ""
+msgstr "[ATTACK_VERB:uderzasz:uderza]"
 
 #: creature_standard.txt:5494
 msgctxt "CREATURE:SEA_SERPENT"
 msgid "[TLCM_NOUN:scales:PLURAL]"
-msgstr ""
+msgstr "[TLCM_NOUN:łuski:PLURAL]"
 
 #: creature_standard.txt:5497
 msgctxt "CREATURE:SEA_SERPENT"
@@ -33286,21 +33299,23 @@ msgctxt "CREATURE:SEA_MONSTER"
 msgid ""
 "[DESCRIPTION:A giant creature with many eyes and arms to terrify the sea.]"
 msgstr ""
+"[DESCRIPTION:Olbrzymie stworzenie z wieloma oczami i ramionami, które budzi "
+"grozę na morzu.]"
 
 #: creature_standard.txt:5503
 msgctxt "CREATURE:SEA_MONSTER"
 msgid "[NAME:sea monster:sea monsters:sea monster]"
-msgstr ""
+msgstr "[NAME:potwór morski:potwory morskie:potworno morski]"
 
 #: creature_standard.txt:5504
 msgctxt "CREATURE:SEA_MONSTER"
 msgid "[CASTE_NAME:sea monster:sea monsters:sea monster]"
-msgstr ""
+msgstr "[CASTE_NAME:potwór morski:potwory morskie:potworno morski]"
 
 #: creature_standard.txt:5514
 msgctxt "CREATURE:SEA_MONSTER"
 msgid "[PREFSTRING:horrifying freakish appearance]"
-msgstr ""
+msgstr "[PREFSTRING:przerażający dziwaczny wygląd]"
 
 #: creature_standard.txt:5515
 msgctxt "CREATURE:SEA_MONSTER"
