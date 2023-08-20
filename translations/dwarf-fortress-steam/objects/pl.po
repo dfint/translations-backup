@@ -9,9 +9,9 @@
 # Łukasz O, 2023
 # Mateusz D, 2023
 # Maciej Chorobiński <Sokmund1@gmail.com>, 2023
-# insolor, 2023
 # Michał Długosz <michal.d.dlugosz@gmail.com>, 2023
 # Bartek Patelka, 2023
+# insolor, 2023
 # Longin Komar, 2023
 # 
 msgid ""
@@ -106,7 +106,7 @@ msgstr "[BP:RF:prawa stopa:prawe stopy]"
 #: body_default.txt:51
 msgctxt "BODY:BASIC_3PARTLEGS"
 msgid "[BP:LF:left foot:left feet]"
-msgstr "[BP:RF:lewa stopa:lewe stopy]"
+msgstr "[BP:LF:lewa stopa:lewe stopy]"
 
 #: body_default.txt:55
 msgctxt "BODY:BASIC_FRONTLEGS"
@@ -346,7 +346,7 @@ msgstr "[BP:RF:prawa stopa:prawe stopy]"
 #: body_default.txt:165
 msgctxt "BODY:HUMANOID"
 msgid "[BP:LF:left foot:left feet]"
-msgstr "[BP:RF:lewa stopa:lewe stopy]"
+msgstr "[BP:LF:lewa stopa:lewe stopy]"
 
 #: body_default.txt:169
 msgctxt "BODY:HUMANOID_HOOF"
@@ -2861,7 +2861,7 @@ msgstr "[BP:RHORN:prawa rosocha:prawe rosochy]"
 #: body_default.txt:1314
 msgctxt "BODY:2HEAD_ANTLER"
 msgid "[BP:LHORN:left antler:STP]"
-msgstr "[BP:RHORN:lewa rosocha:lewe rosochy]"
+msgstr "[BP:LHORN:lewa rosocha:lewe rosochy]"
 
 #: body_default.txt:1318
 msgctxt "BODY:1EYE"
@@ -5374,7 +5374,7 @@ msgstr "[CV_NEW_TAG:CDI:ADV_NAME:Pupil]"
 #: c_variation_default.txt:192
 msgctxt "CREATURE_VARIATION:ANIMAL_PERSON"
 msgid "[CV_NEW_TAG:CDI:VERB:pet:pets:pets]"
-msgstr "[CV_NEW_TAG: CDI:VERB:ulubieniec:ulubieńcy:ulubieńcze]"
+msgstr "[CV_NEW_TAG:CDI:VERB:ulubieniec:ulubieńcy:ulubieńcze]"
 
 #: c_variation_default.txt:354
 msgctxt "CREATURE_VARIATION:ANIMAL_PERSON_LEGLESS"
@@ -5384,7 +5384,7 @@ msgstr "[CV_NEW_TAG:CDI:ADV_NAME:Pupil]"
 #: c_variation_default.txt:357
 msgctxt "CREATURE_VARIATION:ANIMAL_PERSON_LEGLESS"
 msgid "[CV_NEW_TAG:CDI:VERB:pet:pets:pets]"
-msgstr "[CV_NEW_TAG: CDI:VERB:ulubieniec:ulubieńcy:ulubieńcze]"
+msgstr "[CV_NEW_TAG:CDI:VERB:ulubieniec:ulubieńcy:ulubieńcze]"
 
 #: c_variation_default.txt:367
 msgctxt "CREATURE_VARIATION:PUNCH_ATTACK"
@@ -5917,12 +5917,12 @@ msgstr "[TLCM_NOUN:oczy:PLURAL]"
 #: creature_birds.txt:115
 msgctxt "CREATURE:BLUEJAY_MAN"
 msgid "[CASTE_NAME:bluejay man:bluejay men:bluejay man]"
-msgstr "[CASTE_NAME:modrosójkomężczyzna:modrosójkomężczyzni:modrosójkomęski] "
+msgstr "[CASTE_NAME:modrosójkomężczyzna:modrosójkomężczyzni:modrosójkomęski]"
 
 #: creature_birds.txt:117
 msgctxt "CREATURE:BLUEJAY_MAN"
 msgid "[CASTE_NAME:bluejay woman:bluejay women:bluejay woman]"
-msgstr "[CASTE_NAME:modrosójkokobieta:modrosójkokobiety:modrosójkokobiecy] "
+msgstr "[CASTE_NAME:modrosójkokobieta:modrosójkokobiety:modrosójkokobiecy]"
 
 #: creature_birds.txt:129
 msgctxt "CREATURE:BLUEJAY_MAN"
@@ -9736,7 +9736,7 @@ msgstr "[CASTE_NAME:orzeł:orły:orzeł]"
 #: creature_birds_new.txt:3826
 msgctxt "CREATURE:BIRD_EAGLE"
 msgid "[GENERAL_CHILD_NAME:eaglet:eaglets]"
-msgstr "1[GENERAL_CHILD_NAME:orlik:orlęta]"
+msgstr "[GENERAL_CHILD_NAME:orlik:orlęta]"
 
 #: creature_birds_new.txt:3854
 msgctxt "CREATURE:BIRD_EAGLE"
@@ -11314,7 +11314,7 @@ msgstr "[SYN_NAME:ukąszenie pustelnika brunatnego]"
 #: creature_bug_slug_new.txt:1452
 msgctxt "CREATURE:SPIDER_BROWN_RECLUSE"
 msgid "[VERMIN_BITE:1:bitten:]"
-msgstr "[VERMIN_BITE:10:ukąszony:]"
+msgstr "[VERMIN_BITE:1:ukąszony:]"
 
 #: creature_bug_slug_new.txt:1476
 msgctxt "CREATURE:SPIDER_BROWN_RECLUSE"
@@ -12842,12 +12842,12 @@ msgstr "[STATE_ADJ:LIQUID:kozie mleczny]"
 #: creature_domestic.txt:1082
 msgctxt "CREATURE:GOAT"
 msgid "[STATE_NAME:GAS:boiling goat's milk]"
-msgstr "[STATE_NAME:GAS:gotujące się kozie mleko:]"
+msgstr "[STATE_NAME:GAS:gotujące się kozie mleko]"
 
 #: creature_domestic.txt:1083
 msgctxt "CREATURE:GOAT"
 msgid "[STATE_ADJ:GAS:boiling goat's milk]"
-msgstr "[STATE_ADJ:GAS:gotujące się kozie mleczny:]"
+msgstr "[STATE_ADJ:GAS:gotujące się kozie mleczny]"
 
 #: creature_domestic.txt:1087
 msgctxt "CREATURE:GOAT"
@@ -16627,7 +16627,7 @@ msgstr "[NAME:celekant:celekanty:celekancki]"
 #: creature_large_ocean.txt:1688
 msgctxt "CREATURE:FISH_COELACANTH"
 msgid "[CASTE_NAME:coelacanth:coelacanths:coelacanth]"
-msgstr "[CASTE_NAME:celekant:celekanty:celekancki] "
+msgstr "[CASTE_NAME:celekant:celekanty:celekancki]"
 
 #: creature_large_ocean.txt:1689
 msgctxt "CREATURE:FISH_COELACANTH"
@@ -20506,7 +20506,7 @@ msgid ""
 "size.  It can be found in the savage wilderness.]"
 msgstr ""
 "[DESCRIPTION:Gigantyczny, koci drapieżnik, podobny do jego kuzynów we "
-"wszystki poza rozmiarem. Można go znaleźć w głębokiej dziczy.] "
+"wszystki poza rozmiarem. Można go znaleźć w głębokiej dziczy.]"
 
 #: creature_large_tropical.txt:777
 msgctxt "CREATURE:GIANT_JAGUAR"
@@ -21689,7 +21689,7 @@ msgstr "[STATE_NAME:SOLID:ser wielbłąda jednogarbnego]"
 #: creature_large_tropical.txt:2663
 msgctxt "CREATURE:CAMEL_1_HUMP"
 msgid "[STATE_ADJ:SOLID:one-humped camel cheese]"
-msgstr "[STATE_ADJ:SOLID:SOLID:serowy wielbłąda jednogarbnego]"
+msgstr "[STATE_ADJ:SOLID:serowy wielbłąda jednogarbnego]"
 
 #: creature_large_tropical.txt:2664
 msgctxt "CREATURE:CAMEL_1_HUMP"
@@ -29467,12 +29467,12 @@ msgstr "[STATE_ADJ:ALL_SOLID:zamrożony atrament kałamarnicy]"
 #: creature_small_ocean.txt:1471
 msgctxt "CREATURE:SQUID"
 msgid "[STATE_NAME:LIQUID:squid ink]"
-msgstr "[STATE_NAME:ciecz:atrament kałamarnicy]"
+msgstr "[STATE_NAME:LIQUID:atrament kałamarnicy]"
 
 #: creature_small_ocean.txt:1472
 msgctxt "CREATURE:SQUID"
 msgid "[STATE_ADJ:LIQUID:squid ink]"
-msgstr "[STATE_ADJ:CIECZ:atrament kałamarnicy]"
+msgstr "[STATE_ADJ:LIQUID:atrament kałamarnicy]"
 
 #: creature_small_ocean.txt:1473
 msgctxt "CREATURE:SQUID"
@@ -31237,12 +31237,12 @@ msgstr ""
 #: creature_standard.txt:1714
 msgctxt "CREATURE:TROLL"
 msgid "[NAME:troll:trolls:troll]"
-msgstr "troll:trole:troll"
+msgstr "[NAME:troll:trole:troll]"
 
 #: creature_standard.txt:1715
 msgctxt "CREATURE:TROLL"
 msgid "[CASTE_NAME:troll:trolls:troll]"
-msgstr "troll:trolle:trolle]"
+msgstr "[CASTE_NAME:troll:trolle:trolle]"
 
 #: creature_standard.txt:1729
 msgctxt "CREATURE:TROLL"
@@ -32454,12 +32454,12 @@ msgstr "[DESCRIPTION:Mały, chichoczący humanoid z koronkowymi skrzydłami.]"
 #: creature_standard.txt:4005
 msgctxt "CREATURE:FAIRY"
 msgid "[NAME:fairy:fairies:fairy]"
-msgstr "[NAME:wróżka;wróżki:wróżkowy]"
+msgstr "[NAME:wróżka:wróżki:wróżkowy]"
 
 #: creature_standard.txt:4006
 msgctxt "CREATURE:FAIRY"
 msgid "[CASTE_NAME:fairy:fairies:fairy]"
-msgstr "[CASTE_NAME:wróżka;wróżki:wróżkowy]"
+msgstr "[CASTE_NAME:wróżka:wróżki:wróżkowy]"
 
 #: creature_standard.txt:4019
 msgctxt "CREATURE:FAIRY"
@@ -33320,7 +33320,7 @@ msgstr "[PREFSTRING:przerażający dziwaczny wygląd]"
 #: creature_standard.txt:5515
 msgctxt "CREATURE:SEA_MONSTER"
 msgid "[CHILDNAME:sea monster hatchling:sea monster hatchlings]"
-msgstr ""
+msgstr "[CHILDNAME:pisklę potwora morskiego: pisklęta potwora morskiego]"
 
 #: creature_standard.txt:5553
 msgctxt "CREATURE:SEA_MONSTER"
@@ -33330,12 +33330,12 @@ msgstr "[ATTACK_VERB:gryziesz:gryzie]"
 #: creature_standard.txt:5560
 msgctxt "CREATURE:SEA_MONSTER"
 msgid "[ATTACK_VERB:snatch:snatches]"
-msgstr ""
+msgstr "[ATTACK_VERB:wyrwać: wyrwanie]"
 
 #: creature_standard.txt:5576
 msgctxt "CREATURE:SEA_MONSTER"
 msgid "[TLCM_NOUN:scales:PLURAL]"
-msgstr ""
+msgstr "[TLCM_NOUN:łuski:PLURAL]"
 
 #: creature_standard.txt:5579
 msgctxt "CREATURE:SEA_MONSTER"
@@ -33427,7 +33427,7 @@ msgstr ""
 #: creature_subterranean.txt:22
 msgctxt "CREATURE:CROCODILE_CAVE"
 msgid "[PREFSTRING:strength]"
-msgstr ""
+msgstr "[PREFSTRING:siła]"
 
 #: creature_subterranean.txt:68
 msgctxt "CREATURE:CROCODILE_CAVE"
@@ -33437,7 +33437,7 @@ msgstr "[ATTACK_VERB:gryziesz:gryzie]"
 #: creature_subterranean.txt:96
 msgctxt "CREATURE:CROCODILE_CAVE"
 msgid "[TLCM_NOUN:scales:PLURAL]"
-msgstr ""
+msgstr "[TLCM_NOUN:łuski:PLURAL]"
 
 #: creature_subterranean.txt:99
 msgctxt "CREATURE:CROCODILE_CAVE"
@@ -33462,7 +33462,7 @@ msgstr ""
 #: creature_subterranean.txt:121
 msgctxt "CREATURE:TOAD_GIANT_CAVE"
 msgid "[PREFSTRING:strength]"
-msgstr ""
+msgstr "[PREFSTRING:siła]"
 
 #: creature_subterranean.txt:153
 msgctxt "CREATURE:TOAD_GIANT_CAVE"
@@ -33497,7 +33497,7 @@ msgstr ""
 #: creature_subterranean.txt:197
 msgctxt "CREATURE:OLM_GIANT"
 msgid "[PREFSTRING:gills]"
-msgstr ""
+msgstr "[PREFSTRING:skrzela]"
 
 #: creature_subterranean.txt:229
 msgctxt "CREATURE:OLM_GIANT"
