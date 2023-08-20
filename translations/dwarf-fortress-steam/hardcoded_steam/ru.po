@@ -8180,7 +8180,7 @@ msgstr "Нажмите на кнопку \"Помощь\""
 
 #: stringdump_steam_50_09.txt:2125
 msgid "Don't show again"
-msgstr "Не показывать снова"
+msgstr "Больше не показывать"
 
 #: stringdump_steam_50_09.txt:2126
 msgid "Okay"
@@ -8586,8 +8586,8 @@ msgid ""
 "When you are ready, open the [C:5:0:1]Woodcutting[C:7:0:0] menu and "
 "designate the trunk of a tree on the surface.  "
 msgstr ""
-"Когда вы будете готовы, откройте меню [C:5:0:1]Приказать рубить "
-"деревья[C:7:0:0] и пометьте ствол дерева на поверхности."
+"Как только будете готовы, откройте экран [C:5:0:1]Рубить деревья[C:7:0:0] и "
+"пометьте ствол дерева на поверхности."
 
 #: stringdump_steam_50_09.txt:2188
 msgid "Make sure your woodcutter can walk to the designated location."
@@ -9482,9 +9482,9 @@ msgid ""
 "[C:1:0:0]Burrows[C:7:0:0] can be suspended and unsuspended freely.  When a "
 "[C:1:0:0]Burrow[C:7:0:0] is suspended, assigned citizens will ignore it."
 msgstr ""
-"[C:1:0:0]Норы[C:7:0:0] могут быть приостановлены и вновь быть активированы."
-"  Если [C:1:0:0]Нора[C:7:0:0] приостановлена, назначенные жители будут "
-"игнорировать ее."
+"[C:1:0:0]Норы[C:7:0:0] могут быть выключены и снова включены.  Если "
+"[C:1:0:0]Нора[C:7:0:0] выключена, приписанные к ней жители будут её "
+"игнорировать."
 
 #: stringdump_steam_50_09.txt:2318
 msgid ""
@@ -9576,8 +9576,8 @@ msgid ""
 "If you don't have a [C:5:0:0]Bookkeeper[C:7:0:0], or they don't have an "
 "[C:3:0:0]Office[C:7:0:0] to work in, numbers may be approximate."
 msgstr ""
-"Если у вас нет [C:5:0:0]счетовода[C:7:0:0], или у него нету "
-"[C:3:0:0]кабинета[C:7:0:0] для работы, цифры могут быть приблизительными."
+"Если у вас нет [C:5:0:0]счетовода[C:7:0:0], или у него нет рабочего "
+"[C:3:0:0]кабинета[C:7:0:0], цифры будут приблизительными."
 
 #: stringdump_steam_50_09.txt:2330
 msgid ""
@@ -18401,11 +18401,11 @@ msgstr "способностью к оценке."
 
 #: stringdump_steam_50_09.txt:4716
 msgid "A bookkeeper helps"
-msgstr "Счетовод помогает"
+msgstr "Счетовод улучшает"
 
 #: stringdump_steam_50_09.txt:4717
 msgid "with accuracy."
-msgstr "с точностью."
+msgstr "точность."
 
 #: stringdump_steam_50_09.txt:4718
 msgid "Trade Information:"
@@ -18479,16 +18479,16 @@ msgid ""
 "Dig only ore and gems selected, and automine any ore and gems of the same "
 "type which are uncovered."
 msgstr ""
-"Добыть только выбранную руду и драгоценные камни; автоматически добыть "
-"обнаруженную руду и драгоценные камни того же типа."
+"Добывать только руду и драгоценные камни; автоматически добывать "
+"обнаруженную руду и драгоценные камни того же типа, что и обнаруженная."
 
 #: stringdump_steam_50_09.txt:4733
 msgid "Dig only ore and gems selected."
-msgstr "Добыть только выбранную руду и драгоценные камни."
+msgstr "Добывать только руду и драгоценные камни."
 
 #: stringdump_steam_50_09.txt:4734
 msgid "Dig only gems selected."
-msgstr "Добыть только выбранные драгоценные камни."
+msgstr "Добывать только драгоценные камни."
 
 #: stringdump_steam_50_09.txt:4735
 msgid "Selected tiles are very high priority."
@@ -18670,7 +18670,7 @@ msgstr ""
 
 #: stringdump_steam_50_09.txt:4772
 msgid "Set high and low traffic areas."
-msgstr "Настройка зон движения с высоким и низким приоритетом"
+msgstr "Настройка приоритета движения"
 
 #: stringdump_steam_50_09.txt:4773
 msgid "Finish setting traffic areas."
@@ -18705,8 +18705,7 @@ msgstr "Настроить точный вес в шагах для типа т�
 
 #: stringdump_steam_50_09.txt:4779
 msgid "Remove mining, woodcutting, plant gathering, and smoothing orders."
-msgstr ""
-"Отмена приказов на раскопку, вырубку леса, сбор растений и сглаживание"
+msgstr "Отмена приказов"
 
 #: stringdump_steam_50_09.txt:4780
 msgid "Finish removing mining etc. orders."
@@ -18715,15 +18714,15 @@ msgstr "Завершить удаление приказов на раскопк
 #: stringdump_steam_50_09.txt:4781
 msgid "Place structures and work areas that require construction materials."
 msgstr ""
-"Размещение конструкций и рабочих мест, требующих строительных материалов"
+"Установка конструкций и рабочих мест, требующих строительных материалов"
 
 #: stringdump_steam_50_09.txt:4782
 msgid "Finish placing structures."
-msgstr "Закончить размещение конструкций"
+msgstr "Закончить установку конструкции"
 
 #: stringdump_steam_50_09.txt:4783
 msgid "Place stockpiles for item storage."
-msgstr "Размещение складов"
+msgstr "Создание складов"
 
 #: stringdump_steam_50_09.txt:4784
 msgid "Finish placing stockpiles."
@@ -19065,9 +19064,7 @@ msgstr ""
 #: stringdump_steam_50_09.txt:4833
 msgid ""
 "Establish burrows to organize work and living spaces in larger fortresses."
-msgstr ""
-"Создайте норы, чтобы разделять рабочие и жилые пространства в больших "
-"крепостях"
+msgstr "Разделение рабочих и жилых пространств при помощи нор"
 
 #: stringdump_steam_50_09.txt:4834
 msgid "Finish establishing burrows."
@@ -19110,7 +19107,7 @@ msgstr ""
 
 #: stringdump_steam_50_09.txt:4842
 msgid "Set hauling routes for minecarts."
-msgstr "Задать маршруты вагонеток"
+msgstr "Маршруты вагонеток"
 
 #: stringdump_steam_50_09.txt:4843
 msgid "Finish setting hauling routes."
@@ -23128,7 +23125,7 @@ msgstr "Вы пока не назначили ни одного стражник
 
 #: stringdump_steam_50_09.txt:5668
 msgid " case"
-msgstr "футляр"
+msgstr " дело"
 
 #: stringdump_steam_50_09.txt:5669
 msgid " assigned."
@@ -23156,7 +23153,7 @@ msgstr "В клетке."
 
 #: stringdump_steam_50_09.txt:5675
 msgid "Chained."
-msgstr "Прикован."
+msgstr "На цепи."
 
 #: stringdump_steam_50_09.txt:5676
 msgid "No working grasps."
@@ -23168,19 +23165,19 @@ msgstr "В бою."
 
 #: stringdump_steam_50_09.txt:5678
 msgid "Exhausted."
-msgstr "Исчерпан."
+msgstr "Обессилен."
 
 #: stringdump_steam_50_09.txt:5679
 msgid "Nobody has been convicted so far."
-msgstr "Пока никто не осуждён"
+msgstr "Пока никто не осуждён."
 
 #: stringdump_steam_50_09.txt:5680
 msgid "No sentence pending."
-msgstr "Приговор не вынесен."
+msgstr "Пока нет вынесенных приговоров."
 
 #: stringdump_steam_50_09.txt:5681
 msgid " hammerstrike"
-msgstr "удар молотом"
+msgstr " удар молотом"
 
 #: stringdump_steam_50_09.txt:5682
 msgid "Beating."
@@ -23212,7 +23209,7 @@ msgstr "Нарушение запрета на экспорт."
 
 #: stringdump_steam_50_09.txt:5689
 msgid "Violation of job order."
-msgstr "Нарушение должностной инструкции."
+msgstr "Нарушение порядка работ."
 
 #: stringdump_steam_50_09.txt:5690
 msgid "Conspiracy to slow labor."
@@ -23256,7 +23253,7 @@ msgstr "Шпионаж."
 
 #: stringdump_steam_50_09.txt:5700
 msgid "Treason."
-msgstr "Измена."
+msgstr "Государственная измена."
 
 #: stringdump_steam_50_09.txt:5701
 msgid "Blood-drinking."
@@ -23369,7 +23366,7 @@ msgstr "Гнилая ткань удалена из "
 
 #: stringdump_steam_50_09.txt:5728
 msgid "[C:4:0:1]Compound fracture of "
-msgstr "[C:4:0:1]Перелом соединения"
+msgstr "[C:4:0:1]Сложный перелом "
 
 #: stringdump_steam_50_09.txt:5729
 msgid " repaired"
@@ -23397,7 +23394,7 @@ msgstr "[C:7:0:1]Оценено"
 
 #: stringdump_steam_50_09.txt:5735
 msgid "[C:7:0:1]Brought to rest"
-msgstr "[C:7:0:1]Приведенный к покою"
+msgstr "[C:7:0:1]Оставлен отдыхать"
 
 #: stringdump_steam_50_09.txt:5736
 msgid "[C:3:0:1]Cleaned"
@@ -23413,7 +23410,7 @@ msgstr "[C:7:0:0]История болезни отсутствует"
 
 #: stringdump_steam_50_09.txt:5741
 msgid "[C:7:0:1]Diagnosis required"
-msgstr "[C:7:0:1]Требуется диагноз"
+msgstr "[C:7:0:1]Требуется диагностика"
 
 #: stringdump_steam_50_09.txt:5742
 msgid "[C:7:0:1]Crutch required"
@@ -23421,7 +23418,7 @@ msgstr "[C:7:0:1]Требуется костыль"
 
 #: stringdump_steam_50_09.txt:5743
 msgid ".[C:5:0:1]Rotten -- inoperable"
-msgstr ".[C:5:0:1]Гнилой - неработоспособный"
+msgstr ".[C:5:0:1]Гниль - неоперабельно"
 
 #: stringdump_steam_50_09.txt:5744
 msgid ".[C:3:0:1]Needs cleaning"
@@ -23437,7 +23434,7 @@ msgstr ".[C:2:0:1]Нужны швы"
 
 #: stringdump_steam_50_09.txt:5747
 msgid ".[C:6:0:1]Needs setting"
-msgstr ".[C:6:0:1]Требуется настройка"
+msgstr ".[C:6:0:1]Требуется вправление"
 
 #: stringdump_steam_50_09.txt:5748
 msgid ".[C:7:0:0]Needs dressing"
@@ -23457,7 +23454,7 @@ msgstr "[C:7:0:0]Лечение не назначено"
 
 #: stringdump_steam_50_09.txt:5753
 msgid "[C:5:0:1].Gelded"
-msgstr "[C:5:0:1].Кастрированный"
+msgstr "[C:5:0:1].Кастрирован"
 
 #: stringdump_steam_50_09.txt:5754
 msgid "[C:2:0:1].Spilled"
@@ -23469,7 +23466,7 @@ msgstr "[C:5:0:1].Зарезанный"
 
 #: stringdump_steam_50_09.txt:5756
 msgid "[C:4:0:1].Major artery torn"
-msgstr "[C:4:0:1].Основная артерия разорвана"
+msgstr "[C:4:0:1].Разрыв основной артерии"
 
 #: stringdump_steam_50_09.txt:5757
 msgid "[C:4:0:1].Artery torn"
@@ -23561,7 +23558,7 @@ msgstr "[C:4:0:1].Открытый перелом"
 
 #: stringdump_steam_50_09.txt:5779
 msgid "[C:4:0:1].Torn open"
-msgstr "[C:4:0:1].Разорванный"
+msgstr "[C:4:0:1].Открытый разрыв"
 
 #: stringdump_steam_50_09.txt:5780
 msgid "[C:6:0:0].Dented"
@@ -23569,23 +23566,23 @@ msgstr "[C:6:0:0].Вмятина"
 
 #: stringdump_steam_50_09.txt:5781
 msgid "[C:6:0:0].Heavy bruising"
-msgstr "[C:6:0:0].Тяжёлая гематома"
+msgstr "[C:6:0:0].Сильный ушиб"
 
 #: stringdump_steam_50_09.txt:5782
 msgid "[C:6:0:0].Moderate bruising"
-msgstr "[C:6:0:0].Умеренная гематома"
+msgstr "[C:6:0:0].Средний ушиб"
 
 #: stringdump_steam_50_09.txt:5783
 msgid "[C:6:0:0].Light bruising"
-msgstr "[C:6:0:0].Лёгкая гематома"
+msgstr "[C:6:0:0].Легкий ушиб"
 
 #: stringdump_steam_50_09.txt:5784
 msgid "[C:6:0:0].Serious burn"
-msgstr "[C:6:0:0].Серьёзный ожог"
+msgstr "[C:6:0:0].Сильный ожог"
 
 #: stringdump_steam_50_09.txt:5785
 msgid "[C:6:0:0].Moderate burn"
-msgstr "[C:6:0:0].Умеренный ожог"
+msgstr "[C:6:0:0].Средний ожог"
 
 #: stringdump_steam_50_09.txt:5786
 msgid "[C:6:0:0].Minor burn"
@@ -23593,11 +23590,11 @@ msgstr "[C:6:0:0].Незначительный ожог"
 
 #: stringdump_steam_50_09.txt:5787
 msgid "[C:6:0:0].Serious frost-bite"
-msgstr "[C:6:0:0].Серьёзное обморожение"
+msgstr "[C:6:0:0].Сильное обморожение"
 
 #: stringdump_steam_50_09.txt:5788
 msgid "[C:6:0:0].Moderate frost-bite"
-msgstr "[C:6:0:0].Умеренное обморожение"
+msgstr "[C:6:0:0].Среднее обморожение"
 
 #: stringdump_steam_50_09.txt:5789
 msgid "[C:6:0:0].Minor frost-bite"
@@ -23617,15 +23614,15 @@ msgstr "[C:6:0:0].Незначительное плавление"
 
 #: stringdump_steam_50_09.txt:5793
 msgid "[C:6:0:0].Serious boiling"
-msgstr "[C:6:0:0].Серьезный кипяток"
+msgstr "[C:6:0:0].Серьезное закипание"
 
 #: stringdump_steam_50_09.txt:5794
 msgid "[C:6:0:0].Moderate boiling"
-msgstr "[C:6:0:0].Умеренное кипение"
+msgstr "[C:6:0:0].Среднее закипание"
 
 #: stringdump_steam_50_09.txt:5795
 msgid "[C:6:0:0].Minor boiling"
-msgstr "[C:6:0:0].Незначительное кипение"
+msgstr "[C:6:0:0].Незначительное закипание"
 
 #: stringdump_steam_50_09.txt:5796
 msgid "[C:6:0:0].Serious freezing"
@@ -23733,11 +23730,11 @@ msgstr "[C:7:0:1].Функция полностью нарушена"
 
 #: stringdump_steam_50_09.txt:5822
 msgid "[C:7:0:1].Partially impaired function"
-msgstr "[C:7:0:1].Частично нарушенная функция"
+msgstr "[C:7:0:1].Частично нарушена функция"
 
 #: stringdump_steam_50_09.txt:5823
 msgid "[C:7:0:1].Slightly impaired function"
-msgstr "[C:7:0:1].Незначительно нарушенная функция"
+msgstr "[C:7:0:1].Незначительно нарушена функция"
 
 #: stringdump_steam_50_09.txt:5824
 msgid "[C:7:0:1]Has been sutured"
@@ -23749,7 +23746,7 @@ msgstr "[C:5:0:1]Инфекция"
 
 #: stringdump_steam_50_09.txt:5826
 msgid "[C:7:0:0]No evaluated wounds"
-msgstr "[C:7:0:0]Выявленных ран нет"
+msgstr "[C:7:0:0]Нет осмотренных ран"
 
 #: stringdump_steam_50_09.txt:5827
 msgid "[C:6:0:0]In traction"
@@ -23769,7 +23766,7 @@ msgstr "[C:5:0:1]Сильная кровопотеря"
 
 #: stringdump_steam_50_09.txt:5831
 msgid "[C:5:0:1]Pale"
-msgstr "[C:5:0:1]Бледный"
+msgstr "[C:5:0:1]Бледность"
 
 #: stringdump_steam_50_09.txt:5832
 msgid "[C:5:0:1]Moderate blood loss"
@@ -23777,27 +23774,27 @@ msgstr "[C:5:0:1]Умеренная кровопотеря"
 
 #: stringdump_steam_50_09.txt:5833
 msgid "[C:5:0:1]Faint"
-msgstr "[C:5:0:1]Слабый"
+msgstr "[C:5:0:1]Слабость"
 
 #: stringdump_steam_50_09.txt:5834
 msgid "[C:3:0:1]Paralyzed"
-msgstr "[C:3:0:1]Парализован"
+msgstr "[C:3:0:1]Паралич"
 
 #: stringdump_steam_50_09.txt:5835
 msgid "[C:3:0:1]Partially paralyzed"
-msgstr "[C:3:0:1]Частично парализованный"
+msgstr "[C:3:0:1]Частичный паралич"
 
 #: stringdump_steam_50_09.txt:5836
 msgid "[C:3:0:1]Sluggish"
-msgstr "[C:3:0:1]Вялый"
+msgstr "[C:3:0:1]Вялость"
 
 #: stringdump_steam_50_09.txt:5837
 msgid "[C:3:0:1]Completely numb"
-msgstr "[C:3:0:1]Полностью онемел"
+msgstr "[C:3:0:1]Полное онемение"
 
 #: stringdump_steam_50_09.txt:5838
 msgid "[C:3:0:1]Partially numb"
-msgstr "[C:3:0:1]Частично числится"
+msgstr "[C:3:0:1]Частичное онемение"
 
 #: stringdump_steam_50_09.txt:5839
 msgid "[C:3:0:1]Slightly numb"
@@ -23829,7 +23826,7 @@ msgstr "[C:6:0:1]Незначительная боль"
 
 #: stringdump_steam_50_09.txt:5846
 msgid "[C:6:0:1]Exhausted"
-msgstr "[C:6:0:1]Истощён"
+msgstr "[C:6:0:1]Бессилие"
 
 #: stringdump_steam_50_09.txt:5847
 msgid "[C:6:0:1]Over-exerted"
@@ -23841,7 +23838,7 @@ msgstr "[C:6:0:1]Усталость"
 
 #: stringdump_steam_50_09.txt:5849
 msgid "[C:3:0:1]Stunned"
-msgstr "[C:3:0:1]Оглушён"
+msgstr "[C:3:0:1]Оглушение"
 
 #: stringdump_steam_50_09.txt:5850
 msgid "[C:3:0:1]Dizzy"
@@ -23853,7 +23850,7 @@ msgstr "[C:1:0:1]Утопление"
 
 #: stringdump_steam_50_09.txt:5852
 msgid "[C:7:0:0]Winded"
-msgstr "[C:7:0:0]Ветреная"
+msgstr "[C:7:0:0]Одышка"
 
 #: stringdump_steam_50_09.txt:5853
 msgid "[C:2:0:1]Nauseous"
@@ -23861,7 +23858,7 @@ msgstr "[C:2:0:1]Тошнота"
 
 #: stringdump_steam_50_09.txt:5854
 msgid "[C:4:0:1]Very drowsy"
-msgstr "[C:4:0:1]Очень сонный"
+msgstr "[C:4:0:1]Сильная сонливость"
 
 #: stringdump_steam_50_09.txt:5855
 msgid "[C:1:0:1]Drowsy"
@@ -23869,7 +23866,7 @@ msgstr "[C:1:0:1]Сонливость"
 
 #: stringdump_steam_50_09.txt:5856
 msgid "[C:5:0:1]Dehydrated"
-msgstr "[C:5:0:1]обезвоженный"
+msgstr "[C:5:0:1]Обезвожение"
 
 #: stringdump_steam_50_09.txt:5857
 msgid "[C:1:0:1]Thirsty"
@@ -23885,7 +23882,7 @@ msgstr "[C:6:0:0]Голод"
 
 #: stringdump_steam_50_09.txt:5860
 msgid "[C:4:0:1]Slumberous"
-msgstr "[C:4:0:1]Дремучий"
+msgstr "[C:4:0:1]Сонливость"
 
 #: stringdump_steam_50_09.txt:5861
 msgid "[C:6:0:1]Drowsy"
@@ -23913,11 +23910,11 @@ msgstr "[C:6:0:1]Жажда"
 
 #: stringdump_steam_50_09.txt:5867
 msgid "[C:4:0:1]Very hungry"
-msgstr "[C:4:0:1]Очень голоден"
+msgstr "[C:4:0:1]Сильный голод"
 
 #: stringdump_steam_50_09.txt:5868
 msgid "[C:6:0:1]Hungry"
-msgstr "[C:6:0:1]Голоден"
+msgstr "[C:6:0:1]Голод"
 
 #: stringdump_steam_50_09.txt:5869
 msgid "[C:4:0:1]Cannot breathe"
@@ -23937,15 +23934,15 @@ msgstr "[C:6:0:1]Нарушение зрения"
 
 #: stringdump_steam_50_09.txt:5873
 msgid "[C:7:0:0]Vision somewhat impaired"
-msgstr "[C:7:0:0]Зрение несколько ухудшено"
+msgstr "[C:7:0:0]Ухудшение зрения"
 
 #: stringdump_steam_50_09.txt:5874
 msgid "[C:6:0:1]Ability to stand lost"
-msgstr "[C:6:0:1]Способность стоять потерянным"
+msgstr "[C:6:0:1]Не может стоять"
 
 #: stringdump_steam_50_09.txt:5875
 msgid "[C:6:0:1]Ability to stand somewhat impaired"
-msgstr "[C:6:0:1]Способность стоять несколько нарушена"
+msgstr "[C:6:0:1]С трудом может держаться на ногах"
 
 #: stringdump_steam_50_09.txt:5876
 msgid "[C:6:0:1]Ability to grasp lost"
@@ -23953,7 +23950,7 @@ msgstr "[C:6:0:1]Способность хватать потеряна"
 
 #: stringdump_steam_50_09.txt:5877
 msgid "[C:6:0:1]Ability to grasp somewhat impaired"
-msgstr "[C:6:0:1]Способность к пониманию несколько нарушена"
+msgstr "[C:6:0:1]Способность хватать несколько нарушена"
 
 #: stringdump_steam_50_09.txt:5878
 msgid "[C:6:0:1]Ability to fly lost"
@@ -23965,7 +23962,7 @@ msgstr "[C:6:0:1]Способность летать несколько нару
 
 #: stringdump_steam_50_09.txt:5880
 msgid "[C:7:0:1]Motor nerve damage"
-msgstr "[C:7:0:1]Повреждение двигательного нерва"
+msgstr "[C:7:0:1]Повреждение двигательных нервов"
 
 #: stringdump_steam_50_09.txt:5881
 msgid "[C:7:0:1]Sensory nerve damage"
@@ -40183,14 +40180,13 @@ msgid ""
 " : Numbered body parts cannot have children -- number set to 1 (make "
 "individual parts if possible)"
 msgstr ""
-": Нумерованные части тела не могут иметь детей - число установлено на 1 "
-"(делайте отдельные части, если это возможно)"
+" : Нумерованные части тела не могут иметь детей - число установлено на 1 "
+"(делать отдельные части, если это возможно)"
 
 #: stringdump_steam_50_09.txt:10122
 msgid " : Special attack material missing state -- set to liquid"
 msgstr ""
-": Отсутствует  специальне состояние материала для атаки -- установлено "
-"жидкое состояние"
+" : У материала атаки отсутствует состояние -- установлено жидкое состояние"
 
 #: stringdump_steam_50_09.txt:10124
 msgid ""
@@ -44111,7 +44107,7 @@ msgstr "Схватить Колчан"
 
 #: stringdump_steam_50_09.txt:12846
 msgid "Grab Backpack"
-msgstr "Схватить Рюкзак"
+msgstr "Взять рюкзак"
 
 #: stringdump_steam_50_09.txt:12847
 msgid "Grab Waterskin"
@@ -58099,7 +58095,7 @@ msgstr "колчаны"
 
 #: stringdump_steam_50_09.txt:17887
 msgid " backpacks"
-msgstr "рюкзаки"
+msgstr " рюкзаки"
 
 #: stringdump_steam_50_09.txt:17888
 msgid " flasks"
@@ -79974,7 +79970,7 @@ msgstr " похоронен "
 
 #: stringdump_steam_50_09.txt:28365
 msgid "once-resting"
-msgstr "некогда отдыхать"
+msgstr "некогда спящий"
 
 #: stringdump_steam_50_09.txt:28366
 msgid "sanctified"
@@ -80084,11 +80080,12 @@ msgstr "-подобного монстра каждое полнолуние]"
 
 #: stringdump_steam_50_09.txt:28471
 msgid "[IS_TRIGGER_STRING:been cursed to assume the form of a "
-msgstr "[IS_TRIGGER_STRING:проклятие, и принял форму"
+msgstr ""
+"[IS_TRIGGER_STRING:проклятие, заставляющее принимать форму похожего на "
 
 #: stringdump_steam_50_09.txt:28472
 msgid "-like monster every full moon!]"
-msgstr "-подобного монстра каждое полнолуние!]"
+msgstr " монстра каждое полнолуние!]"
 
 #: stringdump_steam_50_09.txt:28475
 msgid "[IE_ARENA_NAME:Werebeast]"
@@ -80203,7 +80200,7 @@ msgstr "[NAME:жилет:жилеты]"
 
 #: stringdump_steam_50_09.txt:28564
 msgid "[NAME:dress:dresses]"
-msgstr "[NAME:одежда:одежды]"
+msgstr "[NAME:платье:платья]"
 
 #: stringdump_steam_50_09.txt:28565
 msgid "[NAME:robe:robes]"
@@ -80922,7 +80919,7 @@ msgstr "методы решения систем уравнений"
 
 #: stringdump_steam_50_09.txt:28868
 msgid "the techniques of balancing and completion for solving equations"
-msgstr "приемы балансировки и дополнения при решении уравнений"
+msgstr "приемы восполнения и противопоставления при решении уравнений"
 
 #: stringdump_steam_50_09.txt:28869
 msgid "the solving of quadratic equations by completion of the square"
@@ -82771,7 +82768,7 @@ msgstr "Бесконечность"
 
 #: stringdump_steam_50_09.txt:29320
 msgid "the Incommensurable"
-msgstr "Иррациональность"
+msgstr "Несоизмеримое"
 
 #: stringdump_steam_50_09.txt:29321
 msgid "the Sphere"
@@ -82795,7 +82792,7 @@ msgstr "Линейные уравнения"
 
 #: stringdump_steam_50_09.txt:29326
 msgid "Simultaneous Solutions"
-msgstr "Решение системы уравнений"
+msgstr "Решение систем уравнений"
 
 #: stringdump_steam_50_09.txt:29327
 msgid "the Solution"
@@ -82851,7 +82848,7 @@ msgstr "Соотношения"
 
 #: stringdump_steam_50_09.txt:29340
 msgid "Chord and Diameter"
-msgstr "Хорды и диаметр"
+msgstr "Хорда и диаметр"
 
 #: stringdump_steam_50_09.txt:29341
 msgid "Chords and Sides"
