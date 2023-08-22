@@ -132,7 +132,3 @@ def generate_chart(source_dir: Path, output: Path):
 
     output.write_bytes(chart)
     logger.info(f"{output.name} chart file is saved")
-
-
-if __name__ == "__main__":
-    generate_chart(Path("../../../translations/dwarf-fortress-steam"), Path("../../../images/dwarf-fortress-steam.svg"))
