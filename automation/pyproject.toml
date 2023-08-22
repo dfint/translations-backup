@@ -38,7 +38,7 @@ target-version = "py310"
 
 [tool.poetry.scripts]
 # poetry run progress ../translations/dwarf-fortress-steam ../images/dwarf-fortress-steam.svg
-progress = "automation.progress.main:app"
+progress_diagram = "automation.progress.progress_diagram:app"
 
 # poetry run files_by_resource ../translations ../
 files_by_resource = "automation.metadata.files_by_resource:app"
