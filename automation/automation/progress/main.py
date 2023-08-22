@@ -1,7 +1,4 @@
-import json
-from operator import itemgetter
 from pathlib import Path
-from pprint import pprint
 from types import SimpleNamespace
 from typing import Any
 
@@ -119,7 +116,8 @@ def generate_chart(source_dir: Path, output: Path):
     output.parent.mkdir(exist_ok=True, parents=True)
 
     dataset, languages, total_lines = prepare_dataset(source_dir)
-    languages = sorted(languages)
+    count_by_language = {language: sum(item[language] for item in dataset.values()) for language in languages}
+    languages = sorted(languages, key=lambda language: (-count_by_language[language], language))
     logger.info(f"resources={list(dataset.keys())}")
     logger.info(f"{languages=}")
     logger.info(f"{total_lines=}")
@@ -134,3 +132,7 @@ def generate_chart(source_dir: Path, output: Path):
 
     output.write_bytes(chart)
     logger.info(f"{output.name} chart file is saved")
+
+
+if __name__ == "__main__":
+    generate_chart(Path("../../../translations/dwarf-fortress-steam"), Path("../../../images/dwarf-fortress-steam.svg"))
