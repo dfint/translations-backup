@@ -47,4 +47,4 @@ jobs:
       run: |
         cd automation
         poetry run files_by_resource ../translations ../
-        poetry run progress ../translations/dwarf-fortress-steam ../images/dwarf-fortress-steam.png
+        poetry run progress_diagram ../translations/dwarf-fortress-steam ../images/dwarf-fortress-steam.png
