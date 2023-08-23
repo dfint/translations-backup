@@ -10,8 +10,6 @@ requests = "^2.31.0"
 loguru = "^0.7.0"
 typer = "^0.9.0"
 babel = "^2.12.1"
-langcodes = {extras = ["data"], version = "^3.3.0"}
-scour = "^0.38.2"
 
 [tool.poetry.group.dev.dependencies]
 black = "^23.7.0"
@@ -37,8 +35,5 @@ ignore = ["F401", "UP015"]
 target-version = "py310"
 
 [tool.poetry.scripts]
-# poetry run progress ../translations/dwarf-fortress-steam ../images/dwarf-fortress-steam.svg
-progress_diagram = "automation.progress.progress_diagram:app"
-
 # poetry run files_by_resource ../translations ../
 files_by_resource = "automation.metadata.files_by_resource:app"
