@@ -21,10 +21,6 @@ jobs:
   process-translations:
     runs-on: ubuntu-latest
 
-    strategy:
-      matrix:
-        python-version: ["3.10"]
-
     steps:
     - uses: actions/checkout@v3
 
@@ -34,7 +30,7 @@ jobs:
     - name: Set up Python ${{ matrix.python-version }}
       uses: actions/setup-python@v4
       with:
-        python-version: ${{ matrix.python-version }}
+        python-version: 3.*
         cache: "poetry"
         cache-dependency-path: automation/poetry.lock
 
