@@ -9,7 +9,7 @@
 # Łukasz O, 2023
 # Mateusz D, 2023
 # Maciej Chorobiński <Sokmund1@gmail.com>, 2023
-# Michał Długosz <michal.d.dlugosz@gmail.com>, 2023
+# Michal Dlugosz <michal.d.dlugosz@gmail.com>, 2023
 # insolor, 2023
 # Transifex Bot <>, 2023
 # Bartek Patelka, 2023
@@ -33984,7 +33984,7 @@ msgstr "[STATE_ADJ:GAS:wrzący jad gigantycznego pająka jaskiniowego]"
 #: creature_subterranean.txt:1072
 msgctxt "CREATURE:SPIDER_CAVE_GIANT"
 msgid "[SYN_NAME:giant cave spider bite]"
-msgstr ""
+msgstr "[SYN_NAME:ugryzienie gigantycznego pająka jaskiniowego]"
 
 #: creature_subterranean.txt:1079
 msgctxt "CREATURE:SPIDER_CAVE_GIANT"
@@ -33994,7 +33994,7 @@ msgstr "[ATTACK_VERB:gryziesz:gryzie]"
 #: creature_subterranean.txt:1095
 msgctxt "CREATURE:SPIDER_CAVE_GIANT"
 msgid "[TLCM_NOUN:chitin:SINGULAR]"
-msgstr ""
+msgstr "[TLCM_NOUN:chityna:POJEDYNCZA]"
 
 #: creature_subterranean.txt:1098
 msgctxt "CREATURE:SPIDER_CAVE_GIANT"
@@ -34005,66 +34005,67 @@ msgstr "[TLCM_NOUN:oczy:PLURAL]"
 msgctxt "CREATURE:SPIDER_CAVE"
 msgid "[DESCRIPTION:A tiny underground bug, sought after for its thread.]"
 msgstr ""
+"[DESCRIPTION:Mały podziemny robak, poszukiwany ze względu na swoją nić.]"
 
 #: creature_subterranean.txt:1104
 msgctxt "CREATURE:SPIDER_CAVE"
 msgid "[NAME:cave spider:cave spiders:cave spider]"
-msgstr ""
+msgstr "[NAME:pająk jaskiniowy:pająki jaskiniowe:pająków jaskiniowych]"
 
 #: creature_subterranean.txt:1105
 msgctxt "CREATURE:SPIDER_CAVE"
 msgid "[CASTE_NAME:cave spider:cave spiders:cave spider]"
-msgstr ""
+msgstr "[CASTE_NAME:pająk jaskiniowy:pająki jaskiniowe:pająków jaskiniowych]"
 
 #: creature_subterranean.txt:1123
 msgctxt "CREATURE:SPIDER_CAVE"
 msgid "[PREFSTRING:mystery]"
-msgstr ""
+msgstr "[PREFSTRING:tajemnica]"
 
 #: creature_subterranean.txt:1135
 msgctxt "CREATURE:SPIDER_CAVE"
 msgid "[STATE_NAME:ALL_SOLID:frozen cave spider venom]"
-msgstr ""
+msgstr "[STATE_NAME:ALL_SOLID: zamrożony jad pająka jaskiniowego]"
 
 #: creature_subterranean.txt:1136
 msgctxt "CREATURE:SPIDER_CAVE"
 msgid "[STATE_ADJ:ALL_SOLID:frozen cave spider venom]"
-msgstr ""
+msgstr "[STATE_ADJ:ALL_SOLID: zamrożony jad pająka jaskiniowego]"
 
 #: creature_subterranean.txt:1137
 msgctxt "CREATURE:SPIDER_CAVE"
 msgid "[STATE_NAME:LIQUID:cave spider venom]"
-msgstr ""
+msgstr "[STATE_NAME:PŁYN:jad pająka jaskiniowego]"
 
 #: creature_subterranean.txt:1138
 msgctxt "CREATURE:SPIDER_CAVE"
 msgid "[STATE_ADJ:LIQUID:cave spider venom]"
-msgstr ""
+msgstr "[STATE_ADJ:PŁYN:jad pająka jaskiniowego]"
 
 #: creature_subterranean.txt:1139
 msgctxt "CREATURE:SPIDER_CAVE"
 msgid "[STATE_NAME:GAS:boiling cave spider venom]"
-msgstr ""
+msgstr "[STATE_NAME:GAS:wrzący jad pająka jaskiniowego]"
 
 #: creature_subterranean.txt:1140
 msgctxt "CREATURE:SPIDER_CAVE"
 msgid "[STATE_ADJ:GAS:boiling cave spider venom]"
-msgstr ""
+msgstr "[STATE_ADJ:GAS:wrzący jad pająka jaskiniowego]"
 
 #: creature_subterranean.txt:1144
 msgctxt "CREATURE:SPIDER_CAVE"
 msgid "[SYN_NAME:cave spider bite]"
-msgstr ""
+msgstr "[SYN_NAME:ugryzienie pająka jaskiniowego]"
 
 #: creature_subterranean.txt:1151
 msgctxt "CREATURE:SPIDER_CAVE"
 msgid "[VERMIN_BITE:10:bitten:]"
-msgstr ""
+msgstr "[VERMIN_BITE:10:ukąszony:]"
 
 #: creature_subterranean.txt:1176
 msgctxt "CREATURE:SPIDER_CAVE"
 msgid "[TLCM_NOUN:chitin:SINGULAR]"
-msgstr ""
+msgstr "[TLCM_NOUN:chityna:POJEDYNCZA]"
 
 #: creature_subterranean.txt:1179
 msgctxt "CREATURE:SPIDER_CAVE"
@@ -34076,16 +34077,18 @@ msgctxt "CREATURE:FISH_CAVE"
 msgid ""
 "[DESCRIPTION:A small pale creature found in underground streams and ponds.]"
 msgstr ""
+"[DESCRIPTION:Małe blade stworzenie znalezione w podziemnych strumieniach i "
+"stawach.]"
 
 #: creature_subterranean.txt:1183
 msgctxt "CREATURE:FISH_CAVE"
 msgid "[NAME:cave fish:cave fish:cave fish]"
-msgstr ""
+msgstr "[NAME:ryba jaskiniowa:ryby jaskiniowe:ryb jaskiniowych]"
 
 #: creature_subterranean.txt:1184
 msgctxt "CREATURE:FISH_CAVE"
 msgid "[CASTE_NAME:cave fish:cave fish:cave fish]"
-msgstr ""
+msgstr "[CASTE_NAME:ryba jaskiniowa:ryby jaskiniowe:ryb jaskiniowych]"
 
 #: creature_subterranean.txt:1193
 msgctxt "CREATURE:FISH_CAVE"
@@ -34106,16 +34109,22 @@ msgstr "[TLCM_NOUN:skóra:SINGULAR]"
 msgctxt "CREATURE:CAVE_FISH_MAN"
 msgid "[CASTE_NAME:cave fish man:cave fish men:cave fish man]"
 msgstr ""
+"[CASTE_NAME:mężczyzna-ryba jaskiniowa:mężczyźni-ryby jaskiniowi:mężczyzn-ryb"
+" jaskiniowych]"
 
 #: creature_subterranean.txt:1260
 msgctxt "CREATURE:CAVE_FISH_MAN"
 msgid "[CASTE_NAME:cave fish woman:cave fish women:cave fish woman]"
 msgstr ""
+"[CASTE_NAME:kobieta-ryba jaskiniowa:kobiety-ryby jaskiniowe:ludzi-ryb "
+"jaskiniowych]"
 
 #: creature_subterranean.txt:1270
 msgctxt "CREATURE:CAVE_FISH_MAN"
 msgid "[NAME:cave fish man:cave fish men:cave fish man]"
 msgstr ""
+"[NAME:człowiek-ryba jaskiniowa:ludzie-ryby jaskiniowi:ludzi-ryb "
+"jaskiniowych]"
 
 #: creature_subterranean.txt:1271
 msgctxt "CREATURE:CAVE_FISH_MAN"
@@ -34123,6 +34132,8 @@ msgid ""
 "[DESCRIPTION:A humanoid creature with the head of a blind cave fish.  They "
 "live in colonies in watery regions far underground.]"
 msgstr ""
+"[DESCRIPTION:Humanoidalne stworzenie z głową ślepej ryby jaskiniowej. Żyją w"
+" koloniach w obszarach wodnych głęboko pod ziemią.]"
 
 #: creature_subterranean.txt:1280
 msgctxt "CREATURE:LOBSTER_CAVE"
@@ -34130,16 +34141,18 @@ msgid ""
 "[DESCRIPTION:A small, pale arthropod found in underground streams and "
 "ponds.]"
 msgstr ""
+"[DESCRIPTION:Mały, blady stawonog występujący w podziemnych strumieniach i "
+"stawach.]"
 
 #: creature_subterranean.txt:1281
 msgctxt "CREATURE:LOBSTER_CAVE"
 msgid "[NAME:cave lobster:cave lobsters:cave lobster]"
-msgstr ""
+msgstr "[NAME:homar jaskiniowy:homary jaskiniowe:homarów jaskiniowych]"
 
 #: creature_subterranean.txt:1282
 msgctxt "CREATURE:LOBSTER_CAVE"
 msgid "[CASTE_NAME:cave lobster:cave lobsters:cave lobster]"
-msgstr ""
+msgstr "[CASTE_NAME:homar jaskiniowy:homary jaskiniowe:homarów jaskiniowych]"
 
 #: creature_subterranean.txt:1294
 msgctxt "CREATURE:LOBSTER_CAVE"
@@ -34149,7 +34162,7 @@ msgstr "[PREFSTRING:urodzie]"
 #: creature_subterranean.txt:1327
 msgctxt "CREATURE:LOBSTER_CAVE"
 msgid "[TLCM_NOUN:chitin:SINGULAR]"
-msgstr ""
+msgstr "[TLCM_NOUN:chityna:POJEDYNCZA]"
 
 #: creature_subterranean.txt:1330
 msgctxt "CREATURE:LOBSTER_CAVE"
@@ -34162,61 +34175,63 @@ msgid ""
 "[DESCRIPTION:A serpent made of pure fire which can inject liquid fire as "
 "venom.]"
 msgstr ""
+"[DESCRIPTION:Wąż stworzony z czystego ognia, który może wstrzyknąć płynny "
+"ogień jako jad.]"
 
 #: creature_subterranean.txt:1334
 msgctxt "CREATURE:SNAKE_FIRE"
 msgid "[NAME:fire snake:fire snakes:fire snake]"
-msgstr ""
+msgstr "[NAME:ognisty wąż:ogniste węże:ognistych węży]"
 
 #: creature_subterranean.txt:1335
 msgctxt "CREATURE:SNAKE_FIRE"
 msgid "[CASTE_NAME:fire snake:fire snakes:fire snake]"
-msgstr ""
+msgstr "[CASTE_NAME:ognisty wąż:ogniste węże:ognistych węży]"
 
 #: creature_subterranean.txt:1348
 msgctxt "CREATURE:SNAKE_FIRE"
 msgid "[PREFSTRING:mystery]"
-msgstr ""
+msgstr "[PREFSTRING:tajemnica]"
 
 #: creature_subterranean.txt:1357
 msgctxt "CREATURE:SNAKE_FIRE"
 msgid "[STATE_NAME:ALL:liquid fire]"
-msgstr ""
+msgstr "[STATE_NAME:ALL:płynny ogień]"
 
 #: creature_subterranean.txt:1358
 msgctxt "CREATURE:SNAKE_FIRE"
 msgid "[STATE_ADJ:ALL:liquid fire]"
-msgstr ""
+msgstr "[STATE_ADJ:ALL:płynny ogień]"
 
 #: creature_subterranean.txt:1361
 msgctxt "CREATURE:SNAKE_FIRE"
 msgid "[VERMIN_BITE:10:bitten:]"
-msgstr ""
+msgstr "[VERMIN_BITE:10:ukąszony:]"
 
 #: creature_subterranean.txt:1374
 msgctxt "CREATURE:SNAKE_FIRE"
 msgid "[ODOR_STRING:smoke]"
-msgstr ""
+msgstr "[ODOR_STRING:palić]"
 
 #: creature_subterranean.txt:1379
 msgctxt "CREATURE:OLM"
 msgid "[DESCRIPTION:A tiny amphibian, found in underground streams.]"
-msgstr ""
+msgstr "[DESCRIPTION:Mały płaz znaleziony w podziemnych strumieniach.]"
 
 #: creature_subterranean.txt:1380
 msgctxt "CREATURE:OLM"
 msgid "[NAME:olm:olms:olm]"
-msgstr ""
+msgstr "[NAME:olm:olmy:olmów]"
 
 #: creature_subterranean.txt:1381
 msgctxt "CREATURE:OLM"
 msgid "[CASTE_NAME:olm:olms:olm]"
-msgstr ""
+msgstr "[CASTE_NAME:olm:olmy:olmów]"
 
 #: creature_subterranean.txt:1393
 msgctxt "CREATURE:OLM"
 msgid "[PREFSTRING:gills]"
-msgstr ""
+msgstr "[PREFSTRING:skrzela]"
 
 #: creature_subterranean.txt:1423
 msgctxt "CREATURE:OLM"
@@ -34236,17 +34251,17 @@ msgstr "[TLCM_NOUN:oczy:PLURAL]"
 #: creature_subterranean.txt:1453
 msgctxt "CREATURE:OLM_MAN"
 msgid "[CASTE_NAME:olm man:olm men:olm man]"
-msgstr ""
+msgstr "[CASTE_NAME:olm mężczyzna:olmy mężczyźni:olmo męski]"
 
 #: creature_subterranean.txt:1455
 msgctxt "CREATURE:OLM_MAN"
 msgid "[CASTE_NAME:olm woman:olm women:olm woman]"
-msgstr ""
+msgstr "[CASTE_NAME:olm kobieta:olmowe kobiety:olmowo kobiecy]"
 
 #: creature_subterranean.txt:1465
 msgctxt "CREATURE:OLM_MAN"
 msgid "[NAME:olm man:olm men:olm man]"
-msgstr ""
+msgstr "[NAME:człowiek olm:ludzie olmy:olmowo ludzki]"
 
 #: creature_subterranean.txt:1466
 msgctxt "CREATURE:OLM_MAN"
@@ -34265,7 +34280,7 @@ msgstr ""
 #: creature_subterranean.txt:1476
 msgctxt "CREATURE:BAT"
 msgid "[NAME:bat:bats:bat]"
-msgstr ""
+msgstr "[NAME:nietoperz:nietoperze:nietoperzy]"
 
 #: creature_subterranean.txt:1477
 msgctxt "CREATURE:BAT"
@@ -55163,7 +55178,7 @@ msgstr ""
 #: plant_standard.txt:2333
 msgctxt "PLANT:RUBBER"
 msgid "[NAME:rubber tree]"
-msgstr ""
+msgstr "[NAME:Kauczukowiec]"
 
 #: plant_standard.txt:2333
 msgctxt "PLANT:RUBBER"
@@ -56759,7 +56774,7 @@ msgstr "[REAGENT:narzędzie:]"
 #: reaction_other.txt:520
 msgctxt "REACTION:CARVE_BONE_CROWN"
 msgid "[PRODUCT:100:1:CROWN:NONE:GET_MATERIAL_FROM_REAGENT:bone:]"
-msgstr ""
+msgstr "[PRODUCT:100:1:CROWN:NONE:GET_MATERIAL_FROM_REAGENT:kość:]"
 
 #: reaction_other.txt:521
 msgctxt "REACTION:CARVE_BONE_CROWN"
@@ -56863,6 +56878,7 @@ msgctxt "REACTION:MAKE WOODEN DISPLAY CASE"
 msgid ""
 "[PRODUCT:100:1:TOOL:ITEM_TOOL_DISPLAY_CASE:GET_MATERIAL_FROM_REAGENT:log:]"
 msgstr ""
+"[PRODUCT:100:1:TOOL:ITEM_TOOL_DISPLAY_CASE:GET_MATERIAL_FROM_REAGENT:dziennik:]"
 
 #: reaction_smelter.txt:6
 msgctxt "REACTION:BITUMINOUS_COAL_TO_COKE"
