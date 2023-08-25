@@ -34269,6 +34269,8 @@ msgid ""
 "[DESCRIPTION:An animal person with the head of the amphibious olm.  It lives"
 " underground near water.]"
 msgstr ""
+"[DESCRIPTION:zwierzoczłowiek z głową amfibii - olma. Żyje pod ziemią w "
+"pobliżu wody.]"
 
 #: creature_subterranean.txt:1475
 msgctxt "CREATURE:BAT"
@@ -34276,6 +34278,8 @@ msgid ""
 "[DESCRIPTION:A tiny winged creature that hunts at night and rests in caves "
 "during the day.]"
 msgstr ""
+"[DESCRIPTION:Maleńkie skrzydlate stworzenie, które poluje nocą, a w ciągu "
+"dnia odpoczywa w jaskiniach.]"
 
 #: creature_subterranean.txt:1476
 msgctxt "CREATURE:BAT"
@@ -34285,17 +34289,17 @@ msgstr "[NAME:nietoperz:nietoperze:nietoperzy]"
 #: creature_subterranean.txt:1477
 msgctxt "CREATURE:BAT"
 msgid "[CASTE_NAME:bat:bats:bat]"
-msgstr ""
+msgstr "[CASTE_NAME:nietoperz:nietoperze:nietoperzy]"
 
 #: creature_subterranean.txt:1484
 msgctxt "CREATURE:BAT"
 msgid "[GNAWER:gnawed]"
-msgstr ""
+msgstr "[GNAWER:podgryziony]"
 
 #: creature_subterranean.txt:1493
 msgctxt "CREATURE:BAT"
 msgid "[PREFSTRING:haunting cries]"
-msgstr ""
+msgstr "[PREFSTRING:prześladujące płacze]"
 
 #: creature_subterranean.txt:1527
 msgctxt "CREATURE:BAT"
@@ -34305,7 +34309,7 @@ msgstr "[ATTACK_VERB:gryziesz:gryzie]"
 #: creature_subterranean.txt:1536
 msgctxt "CREATURE:BAT"
 msgid "[ATTACK_VERB:scratch:scratches]"
-msgstr ""
+msgstr "[ATTACK_VERB:drapiesz:drapie]"
 
 #: creature_subterranean.txt:1561
 msgctxt "CREATURE:BAT"
@@ -34326,16 +34330,17 @@ msgstr "[TLCM_NOUN:oczy:PLURAL]"
 msgctxt "CREATURE:BAT_MAN"
 msgid "[CASTE_NAME:bat man:bat men:bat man]"
 msgstr ""
+"[CASTE_NAME:mężczyzna nietoperz:mężczyźni nietoperze:męsko nietoperzy]"
 
 #: creature_subterranean.txt:1579
 msgctxt "CREATURE:BAT_MAN"
 msgid "[CASTE_NAME:bat woman:bat women:bat woman]"
-msgstr ""
+msgstr "[CASTE_NAME:kobieta nietoperz:kobiety nietoperze:kobieco nietoperzy]"
 
 #: creature_subterranean.txt:1591
 msgctxt "CREATURE:BAT_MAN"
 msgid "[NAME:bat man:bat men:bat man]"
-msgstr ""
+msgstr "[NAME:człowiek nietoperz:ludzie nietoperze:ludzko nietoperzy]"
 
 #: creature_subterranean.txt:1592
 msgctxt "CREATURE:BAT_MAN"
@@ -34343,26 +34348,28 @@ msgid ""
 "[DESCRIPTION:A humanoid with the head of a bat and wings stretching from "
 "wrist to ankle.]"
 msgstr ""
+"[DESCRIPTION:Humanoid z głową nietoperza i skrzydłami rozciągającymi się od "
+"nadgarstka do kostki. Cały czas powtarza \"jestem batman\".]"
 
 #: creature_subterranean.txt:1600
 msgctxt "CREATURE:MAGGOT_PURRING"
 msgid "[DESCRIPTION:A tiny larva which is prized for its milk.]"
-msgstr ""
+msgstr "[DESCRIPTION:Mała larwa ceniona ze względu na mleko.]"
 
 #: creature_subterranean.txt:1601
 msgctxt "CREATURE:MAGGOT_PURRING"
 msgid "[NAME:purring maggot:purring maggots:purring maggot]"
-msgstr ""
+msgstr "[NAME:mruczący robak: mruczące robaki: mrucząco robaczy]"
 
 #: creature_subterranean.txt:1602
 msgctxt "CREATURE:MAGGOT_PURRING"
 msgid "[CASTE_NAME:purring maggot:purring maggots:purring maggot]"
-msgstr ""
+msgstr "[CASTE_NAME:mruczący robak: mruczące robaki: mrucząco robaczy]"
 
 #: creature_subterranean.txt:1612
 msgctxt "CREATURE:MAGGOT_PURRING"
 msgid "[PREFSTRING:comforting whirs]"
-msgstr ""
+msgstr "[PREFSTRING:kojące szumy]"
 
 #: creature_subterranean.txt:1635
 msgctxt "CREATURE:MAGGOT_PURRING"
@@ -34372,117 +34379,118 @@ msgstr "[TLCM_NOUN:skóra:SINGULAR]"
 #: creature_subterranean.txt:1637
 msgctxt "CREATURE:MAGGOT_PURRING"
 msgid "[STATE_NAME:ALL_SOLID:frozen dwarven milk]"
-msgstr ""
+msgstr "[STATE_NAME:ALL_SOLID:mrożone mleko krasnoludów]"
 
 #: creature_subterranean.txt:1638
 msgctxt "CREATURE:MAGGOT_PURRING"
 msgid "[STATE_ADJ:ALL_SOLID:frozen dwarven milk]"
-msgstr ""
+msgstr "[STATE_ADJ:ALL_SOLID:mrożone mleko krasnoludów]"
 
 #: creature_subterranean.txt:1639
 msgctxt "CREATURE:MAGGOT_PURRING"
 msgid "[STATE_NAME:LIQUID:dwarven milk]"
-msgstr ""
+msgstr "[STATE_NAME: LIQUID:mleko krasnoludów]"
 
 #: creature_subterranean.txt:1640
 msgctxt "CREATURE:MAGGOT_PURRING"
 msgid "[STATE_ADJ:LIQUID:dwarven milk]"
-msgstr ""
+msgstr "[STATE_ADJ:LIQUID:mleko krasnoludów]"
 
 #: creature_subterranean.txt:1641
 msgctxt "CREATURE:MAGGOT_PURRING"
 msgid "[STATE_NAME:GAS:boiling dwarven milk]"
-msgstr ""
+msgstr "[STATE_NAME:GAS:gotujące się mleko krasnoludów]"
 
 #: creature_subterranean.txt:1642
 msgctxt "CREATURE:MAGGOT_PURRING"
 msgid "[STATE_ADJ:GAS:boiling dwarven milk]"
-msgstr ""
+msgstr "[STATE_ADJ:GAS:gotujące się mleko krasnoludów]"
 
 #: creature_subterranean.txt:1647
 msgctxt "CREATURE:MAGGOT_PURRING"
 msgid "[STATE_NAME:SOLID:dwarven cheese]"
-msgstr ""
+msgstr "[STATE_NAME:SOLID:krasnoludzki ser]"
 
 #: creature_subterranean.txt:1648
 msgctxt "CREATURE:MAGGOT_PURRING"
 msgid "[STATE_ADJ:SOLID:dwarven cheese]"
-msgstr ""
+msgstr "[STATE_ADJ:SOLID:krasnoludzki ser]"
 
 #: creature_subterranean.txt:1649
 msgctxt "CREATURE:MAGGOT_PURRING"
 msgid "[STATE_NAME:SOLID_POWDER:dwarven cheese powder]"
-msgstr ""
+msgstr "[STATE_NAME:SOLID_POWDER:sproszkowany krasnoludzki ser]"
 
 #: creature_subterranean.txt:1650
 msgctxt "CREATURE:MAGGOT_PURRING"
 msgid "[STATE_ADJ:SOLID_POWDER:dwarven cheese powder]"
-msgstr ""
+msgstr "[STATE_ADJ:SOLID_POWDER:sproszkowany krasnoludzki ser]"
 
 #: creature_subterranean.txt:1651
 msgctxt "CREATURE:MAGGOT_PURRING"
 msgid "[STATE_NAME:LIQUID:melted dwarven cheese]"
-msgstr ""
+msgstr "[STATE_NAME:LIQUID:roztopiony krasnoludzki ser]"
 
 #: creature_subterranean.txt:1652
 msgctxt "CREATURE:MAGGOT_PURRING"
 msgid "[STATE_ADJ:LIQUID:melted dwarven cheese]"
-msgstr ""
+msgstr "[STATE_ADJ:LIQUID:roztopiony krasnoludzki ser]"
 
 #: creature_subterranean.txt:1653
 msgctxt "CREATURE:MAGGOT_PURRING"
 msgid "[STATE_NAME:GAS:boiling dwarven cheese]"
-msgstr ""
+msgstr "[STATE_NAME:GAS:gotujący się krasnoludzki ser]"
 
 #: creature_subterranean.txt:1654
 msgctxt "CREATURE:MAGGOT_PURRING"
 msgid "[STATE_ADJ:GAS:boiling dwarven cheese]"
-msgstr ""
+msgstr "[STATE_ADJ:GAS:gotujący się krasnoludzki ser]"
 
 #: creature_subterranean.txt:1659
 msgctxt "CREATURE:ELEMENTMAN_FIRE"
 msgid "[DESCRIPTION:Fire in the shape of a human that can hurl fireballs.]"
 msgstr ""
+"[DESCRIPTION:Ogień w kształcie człowieka, który może miotać kule ognia.]"
 
 #: creature_subterranean.txt:1660
 msgctxt "CREATURE:ELEMENTMAN_FIRE"
 msgid "[NAME:fire man:fire men:fire man]"
-msgstr ""
+msgstr "[NAME:człowiek ogień:ludzie ogień:ludzi ognia]"
 
 #: creature_subterranean.txt:1661
 msgctxt "CREATURE:ELEMENTMAN_FIRE"
 msgid "[CASTE_NAME:fire man:fire men:fire man]"
-msgstr ""
+msgstr "[CASTE_NAME:człowiek ogień:ludzie ogień:ludzi ognia]"
 
 #: creature_subterranean.txt:1664
 msgctxt "CREATURE:ELEMENTMAN_FIRE"
 msgid "[CDI:ADV_NAME:Hurl fireball]"
-msgstr ""
+msgstr "[CDI:ADV_NAME:Rzuć kulę ognia]"
 
 #: creature_subterranean.txt:1672
 msgctxt "CREATURE:ELEMENTMAN_FIRE"
 msgid "[CDI:ADV_NAME:Spray jet of fire]"
-msgstr ""
+msgstr "[CDI:ADV_NAME: Rozpylony strumień ognia]"
 
 #: creature_subterranean.txt:1697
 msgctxt "CREATURE:ELEMENTMAN_FIRE"
 msgid "[PREFSTRING:licks of fire]"
-msgstr ""
+msgstr "[PREFSTRING:liźnięcia ognia]"
 
 #: creature_subterranean.txt:1699
 msgctxt "CREATURE:ELEMENTMAN_FIRE"
 msgid "[ODOR_STRING:smoke]"
-msgstr ""
+msgstr "[ODOR_STRING:palić]"
 
 #: creature_subterranean.txt:1713
 msgctxt "CREATURE:ELEMENTMAN_FIRE"
 msgid "[ATTACK_VERB:punch:punches]"
-msgstr ""
+msgstr "[ATTACK_VERB:uderzasz:uderza]"
 
 #: creature_subterranean.txt:1720
 msgctxt "CREATURE:ELEMENTMAN_FIRE"
 msgid "[ATTACK_VERB:kick:kicks]"
-msgstr ""
+msgstr "[ATTACK_VERB:kopiesz:kopie]"
 
 #: creature_subterranean.txt:1735
 msgctxt "CREATURE:ELEMENTMAN_MAGMA"
@@ -34490,182 +34498,188 @@ msgid ""
 "[DESCRIPTION:Magma moving in the shape of a man.  It has a cracked black "
 "crust.]"
 msgstr ""
+"[DESCRIPTION:Magma poruszająca się w kształcie człowieka. Ma popękaną czarną skórę.]\n"
+" "
 
 #: creature_subterranean.txt:1736
 msgctxt "CREATURE:ELEMENTMAN_MAGMA"
 msgid "[NAME:magma man:magma men:magma man]"
-msgstr ""
+msgstr "[NAME:człowiek magma:ludzie magma:ludzko magmowy]"
 
 #: creature_subterranean.txt:1737
 msgctxt "CREATURE:ELEMENTMAN_MAGMA"
 msgid "[CASTE_NAME:magma man:magma men:magma man]"
-msgstr ""
+msgstr "[CASTE_NAME:człowiek magma:ludzie magma:ludzko magmowy]"
 
 #: creature_subterranean.txt:1757
 msgctxt "CREATURE:ELEMENTMAN_MAGMA"
 msgid "[PREFSTRING:flowing movement]"
-msgstr ""
+msgstr "[PREFSTRING:płynny ruch]"
 
 #: creature_subterranean.txt:1762
 msgctxt "CREATURE:ELEMENTMAN_MAGMA"
 msgid "[TISSUE_NAME:magma:NP]"
-msgstr ""
+msgstr "[TISSUE_NAME:magma:NP]"
 
 #: creature_subterranean.txt:1773
 msgctxt "CREATURE:ELEMENTMAN_MAGMA"
 msgid "[TISSUE_NAME:crust:NP]"
-msgstr ""
+msgstr "[TISSUE_NAME:skorupa:NP]"
 
 #: creature_subterranean.txt:1788
 msgctxt "CREATURE:ELEMENTMAN_MAGMA"
 msgid "[ATTACK_VERB:punch:punches]"
-msgstr ""
+msgstr "[ATTACK_VERB:uderzasz:uderza]"
 
 #: creature_subterranean.txt:1795
 msgctxt "CREATURE:ELEMENTMAN_MAGMA"
 msgid "[ATTACK_VERB:kick:kicks]"
-msgstr ""
+msgstr "[ATTACK_VERB:kopiesz:kopie]"
 
 #: creature_subterranean.txt:1812
 msgctxt "CREATURE:ELEMENTMAN_IRON"
 msgid "[DESCRIPTION:A man-shaped creature made of iron.]"
-msgstr ""
+msgstr "[DESCRIPTION:Stworzenie w kształcie człowieka wykonane z żelaza.]"
 
 #: creature_subterranean.txt:1813
 msgctxt "CREATURE:ELEMENTMAN_IRON"
 msgid "[NAME:iron man:iron men:iron man]"
-msgstr ""
+msgstr "[NAME:człowiek z żelaza:ludzie z żelaza:ludzi z żelaza]"
 
 #: creature_subterranean.txt:1814
 msgctxt "CREATURE:ELEMENTMAN_IRON"
 msgid "[CASTE_NAME:iron man:iron men:iron man]"
-msgstr ""
+msgstr "[CASTE_NAME:człowiek z żelaza:ludzie z żelaza:ludzi z żelaza]"
 
 #: creature_subterranean.txt:1832
 msgctxt "CREATURE:ELEMENTMAN_IRON"
 msgid "[PREFSTRING:stern appearance]"
-msgstr ""
+msgstr "[PREFSTRING:surowy wygląd]"
 
 #: creature_subterranean.txt:1839
 msgctxt "CREATURE:ELEMENTMAN_IRON"
 msgid "[STATE_NAME:ALL_SOLID:frozen iron man gas]"
-msgstr ""
+msgstr "[STATE_NAME:ALL_SOLID:zamrożony gaz człowieka z żelaza]"
 
 #: creature_subterranean.txt:1840
 msgctxt "CREATURE:ELEMENTMAN_IRON"
 msgid "[STATE_NAME_ADJ:ALL_SOLID:frozen iron man gas]"
-msgstr ""
+msgstr "[STATE_NAME_ADJ:ALL_SOLID:zamrożony gaz człowieka z żelaza]"
 
 #: creature_subterranean.txt:1841
 msgctxt "CREATURE:ELEMENTMAN_IRON"
 msgid "[STATE_NAME:LIQUID:condensed iron man gas]"
-msgstr ""
+msgstr "[STATE_NAME:LIQUID: skondensowany gaz człowieka z żelaza]"
 
 #: creature_subterranean.txt:1842
 msgctxt "CREATURE:ELEMENTMAN_IRON"
 msgid "[STATE_NAME_ADJ:LIQUID:condensed iron man gas]"
-msgstr ""
+msgstr "[STATE_NAME_ADJ:LIQUID: skondensowany gaz człowieka z żelaza]"
 
 #: creature_subterranean.txt:1843
 msgctxt "CREATURE:ELEMENTMAN_IRON"
 msgid "[STATE_NAME:GAS:iron man gas]"
-msgstr ""
+msgstr "[STATE_NAME:GAS:gaz człowieka z żelaza]"
 
 #: creature_subterranean.txt:1844
 msgctxt "CREATURE:ELEMENTMAN_IRON"
 msgid "[STATE_NAME_ADJ:GAS:iron man gas]"
-msgstr ""
+msgstr "[STATE_NAME_ADJ:GAS:gaz człowieka z żelaza]"
 
 #: creature_subterranean.txt:1850
 msgctxt "CREATURE:ELEMENTMAN_IRON"
 msgid "[SYN_NAME:iron man cough]"
-msgstr ""
+msgstr "[SYN_NAME:kaszel człowieka z żelaza]"
 
 #: creature_subterranean.txt:1855
 msgctxt "CREATURE:ELEMENTMAN_IRON"
 msgid "[TISSUE_NAME:iron:NP]"
-msgstr ""
+msgstr "[TISSUE_NAME:żelazo:NP]"
 
 #: creature_subterranean.txt:1864
 msgctxt "CREATURE:ELEMENTMAN_IRON"
 msgid "[TISSUE_NAME:gas:NP]"
-msgstr ""
+msgstr "[TISSUE_NAME:gaz:NP]"
 
 #: creature_subterranean.txt:1877
 msgctxt "CREATURE:ELEMENTMAN_IRON"
 msgid "[ATTACK_VERB:punch:punches]"
-msgstr ""
+msgstr "[ATTACK_VERB:uderzasz:uderza]"
 
 #: creature_subterranean.txt:1884
 msgctxt "CREATURE:ELEMENTMAN_IRON"
 msgid "[ATTACK_VERB:kick:kicks]"
-msgstr ""
+msgstr "[ATTACK_VERB:kopiesz:kopie]"
 
 #: creature_subterranean.txt:1900
 msgctxt "CREATURE:ELEMENTMAN_MUD"
 msgid ""
 "[DESCRIPTION:A humanoid made of mud which lives near water underground.]"
 msgstr ""
+"[DESCRIPTION:Humanoid zbudowany z błota, żyjący w pobliżu wody pod ziemią.]"
 
 #: creature_subterranean.txt:1901
 msgctxt "CREATURE:ELEMENTMAN_MUD"
 msgid "[NAME:mud man:mud men:mud man]"
-msgstr ""
+msgstr "[NAME:błotny człowiek:błotni ludzie:błotno ludzki]"
 
 #: creature_subterranean.txt:1902
 msgctxt "CREATURE:ELEMENTMAN_MUD"
 msgid "[CASTE_NAME:mud man:mud men:mud man]"
-msgstr ""
+msgstr "[CASTE_NAME:błotny człowiek:błotni ludzie:błotno ludzki]"
 
 #: creature_subterranean.txt:1920
 msgctxt "CREATURE:ELEMENTMAN_MUD"
 msgid "[PREFSTRING:peculiar smell]"
-msgstr ""
+msgstr "[PREFSTRING:specyficzny zapach]"
 
 #: creature_subterranean.txt:1921
 msgctxt "CREATURE:ELEMENTMAN_MUD"
 msgid "[ODOR_STRING:mud]"
-msgstr ""
+msgstr "[ODOR_STRING:błoto]"
 
 #: creature_subterranean.txt:1928
 msgctxt "CREATURE:ELEMENTMAN_MUD"
 msgid "[TISSUE_NAME:mud:NP]"
-msgstr ""
+msgstr "[TISSUE_NAME:błoto:NP]"
 
 #: creature_subterranean.txt:1942
 msgctxt "CREATURE:ELEMENTMAN_MUD"
 msgid "[ATTACK_VERB:punch:punches]"
-msgstr ""
+msgstr "[ATTACK_VERB:uderzasz:uderza]"
 
 #: creature_subterranean.txt:1949
 msgctxt "CREATURE:ELEMENTMAN_MUD"
 msgid "[ATTACK_VERB:kick:kicks]"
-msgstr ""
+msgstr "[ATTACK_VERB:kopiesz:kopie]"
 
 #: creature_subterranean.txt:1964
 msgctxt "CREATURE:BIRD_SWALLOW_CAVE"
 msgid "[DESCRIPTION:A small blue and orange bird.]"
-msgstr ""
+msgstr "[DESCRIPTION:Mały niebiesko-pomarańczowy ptaszek.]"
 
 #: creature_subterranean.txt:1965
 msgctxt "CREATURE:BIRD_SWALLOW_CAVE"
 msgid "[NAME:cave swallow:cave swallows:cave swallow]"
-msgstr ""
+msgstr "[NAME:jaskółka jaskiniowa:jaskółki jaskiniowe:jaskółczo jaskiniowy]"
 
 #: creature_subterranean.txt:1966
 msgctxt "CREATURE:BIRD_SWALLOW_CAVE"
 msgid "[CASTE_NAME:cave swallow:cave swallows:cave swallow]"
 msgstr ""
+"[CASTE_NAME:jaskółka jaskiniowa:jaskółki jaskiniowe:jaskółczo jaskiniowy]"
 
 #: creature_subterranean.txt:1967
 msgctxt "CREATURE:BIRD_SWALLOW_CAVE"
 msgid "[GENERAL_CHILD_NAME:cave swallow hatchling:cave swallow hatchlings]"
 msgstr ""
+"[GENERAL_CHILD_NAME:pisklę jaskółki jaskiniowej:pisklęta jaskółki "
+"jaskiniowej]"
 
 #: creature_subterranean.txt:1988
 msgctxt "CREATURE:BIRD_SWALLOW_CAVE"
 msgid "[PREFSTRING:coloration]"
-msgstr ""
+msgstr "[PREFSTRING:ubarwienie]"
 
 #: creature_subterranean.txt:2026
 msgctxt "CREATURE:BIRD_SWALLOW_CAVE"
@@ -34675,7 +34689,7 @@ msgstr "[ATTACK_VERB:gryziesz:gryzie]"
 #: creature_subterranean.txt:2035
 msgctxt "CREATURE:BIRD_SWALLOW_CAVE"
 msgid "[ATTACK_VERB:snatch at:snatches at]"
-msgstr ""
+msgstr "[ATTACK_VERB:chwytasz za:chwyta za]"
 
 #: creature_subterranean.txt:2055
 msgctxt "CREATURE:BIRD_SWALLOW_CAVE"
@@ -34696,16 +34710,22 @@ msgstr "[TLCM_NOUN:oczy:PLURAL]"
 msgctxt "CREATURE:CAVE_SWALLOW_MAN"
 msgid "[CASTE_NAME:cave swallow man:cave swallow men:cave swallow man]"
 msgstr ""
+"[CASTE_NAME:mężczyzna jaskółka jaskiniowa:mężczyźni jaskółek "
+"jaskiniowych:męsko jaskółko jaskiniowy]"
 
 #: creature_subterranean.txt:2070
 msgctxt "CREATURE:CAVE_SWALLOW_MAN"
 msgid "[CASTE_NAME:cave swallow woman:cave swallow women:cave swallow woman]"
 msgstr ""
+"[CASTE_NAME:kobieta jaskółka jaskiniowa:kobiety jaskółki jaskiniowej:kobieco"
+" jaskółko jaskiniowy]"
 
 #: creature_subterranean.txt:2082
 msgctxt "CREATURE:CAVE_SWALLOW_MAN"
 msgid "[NAME:cave swallow man:cave swallow men:cave swallow man]"
 msgstr ""
+"[NAME:człowiek jaskółka jaskiniowa:ludzie jaskółki jaskiniowe:ludzko "
+"jaskółczy jaskinowy]"
 
 #: creature_subterranean.txt:2083
 msgctxt "CREATURE:CAVE_SWALLOW_MAN"
@@ -34713,21 +34733,27 @@ msgid ""
 "[DESCRIPTION:A feathered man with the wings and head of a bird.  It lives "
 "underground.]"
 msgstr ""
+"[DESCRIPTION:Pierzasty człowiek ze skrzydłami i głową ptaka. Żyje pod "
+"ziemią.]"
 
 #: creature_subterranean.txt:2092
 msgctxt "CREATURE:BIRD_SWALLOW_CAVE_GIANT"
 msgid "[DESCRIPTION:A gigantic blue and orange bird.]"
-msgstr ""
+msgstr "[DESCRIPTION:Gigantyczny niebiesko-pomarańczowy ptak.]"
 
 #: creature_subterranean.txt:2093
 msgctxt "CREATURE:BIRD_SWALLOW_CAVE_GIANT"
 msgid "[NAME:giant cave swallow:giant cave swallows:giant cave swallow]"
 msgstr ""
+"[NAME:gigantyczna jaskółka jaskiniowa:gigantyczna jaskółki "
+"jaskiniowe:gigantyczno jaskółczo jaskiniowy]"
 
 #: creature_subterranean.txt:2094
 msgctxt "CREATURE:BIRD_SWALLOW_CAVE_GIANT"
 msgid "[CASTE_NAME:giant cave swallow:giant cave swallows:giant cave swallow]"
 msgstr ""
+"[CASTE_NAME:gigantyczna jaskółka jaskiniowa:gigantyczna jaskółki "
+"jaskiniowe:gigantyczno jaskółczo jaskiniowy]"
 
 #: creature_subterranean.txt:2095
 msgctxt "CREATURE:BIRD_SWALLOW_CAVE_GIANT"
@@ -34735,11 +34761,13 @@ msgid ""
 "[GENERAL_CHILD_NAME:giant cave swallow hatchling:giant cave swallow "
 "hatchlings]"
 msgstr ""
+"[GENERAL_CHILD_NAME:pisklę gigantycznej jaskółki jaskiniowej:pisklęta "
+"gigantycznej jaskółki jaskiniowej]"
 
 #: creature_subterranean.txt:2116
 msgctxt "CREATURE:BIRD_SWALLOW_CAVE_GIANT"
 msgid "[PREFSTRING:coloration]"
-msgstr ""
+msgstr "[PREFSTRING:ubarwienie]"
 
 #: creature_subterranean.txt:2155
 msgctxt "CREATURE:BIRD_SWALLOW_CAVE_GIANT"
@@ -34749,7 +34777,7 @@ msgstr "[ATTACK_VERB:gryziesz:gryzie]"
 #: creature_subterranean.txt:2164
 msgctxt "CREATURE:BIRD_SWALLOW_CAVE_GIANT"
 msgid "[ATTACK_VERB:snatch at:snatches at]"
-msgstr ""
+msgstr "[ATTACK_VERB:chwytasz za:chwyta za]"
 
 #: creature_subterranean.txt:2184
 msgctxt "CREATURE:BIRD_SWALLOW_CAVE_GIANT"
@@ -34772,26 +34800,29 @@ msgid ""
 "[DESCRIPTION:These evil creatures resemble walking frogs with arms and the "
 "intelligence to use them.  They live in the waters far under the earth.]"
 msgstr ""
+"[DESCRIPTION:Te złe stworzenia przypominają chodzące żaby z rękami i "
+"inteligencją, która pozwala im się posługiwać. Żyją w wodach głęboko pod "
+"ziemią.]"
 
 #: creature_subterranean.txt:2196
 msgctxt "CREATURE:AMPHIBIAN_MAN"
 msgid "[NAME:amphibian man:amphibian men:amphibian man]"
-msgstr ""
+msgstr "[NAME:człowiek płaz: ludzie płazy: ludzko płazi]"
 
 #: creature_subterranean.txt:2210
 msgctxt "CREATURE:AMPHIBIAN_MAN"
 msgid "[PREFSTRING:terrifying features]"
-msgstr ""
+msgstr "[PREFSTRING:przerażające cechy]"
 
 #: creature_subterranean.txt:2243
 msgctxt "CREATURE:AMPHIBIAN_MAN"
 msgid "[ATTACK_VERB:punch:punches]"
-msgstr ""
+msgstr "[ATTACK_VERB:uderzasz:uderza]"
 
 #: creature_subterranean.txt:2250
 msgctxt "CREATURE:AMPHIBIAN_MAN"
 msgid "[ATTACK_VERB:kick:kicks]"
-msgstr ""
+msgstr "[ATTACK_VERB:kopiesz:kopie]"
 
 #: creature_subterranean.txt:2258
 msgctxt "CREATURE:AMPHIBIAN_MAN"
@@ -34801,12 +34832,12 @@ msgstr "[ATTACK_VERB:gryziesz:gryzie]"
 #: creature_subterranean.txt:2275
 msgctxt "CREATURE:AMPHIBIAN_MAN"
 msgid "[CASTE_NAME:amphibian woman:amphibian women:amphibian woman]"
-msgstr ""
+msgstr "[CASTE_NAME:kobieta płaz:kobiety płazy:kobieco płazi]"
 
 #: creature_subterranean.txt:2279
 msgctxt "CREATURE:AMPHIBIAN_MAN"
 msgid "[CASTE_NAME:amphibian man:amphibian men:amphibian man]"
-msgstr ""
+msgstr "[CASTE_NAME:mężczyzna płaz:mężczyźni płazy:męsko płazi]"
 
 #: creature_subterranean.txt:2284
 msgctxt "CREATURE:AMPHIBIAN_MAN"
@@ -34825,31 +34856,34 @@ msgid ""
 "  They have the head and tail of a lizard and possess a dark and evil "
 "intelligence.  They are found deep under the earth.]"
 msgstr ""
+"[DESCRIPTION:Istoty te mają kształt ludzi pokrytych szorstkimi łuskami. Mają"
+" głowę i ogon jaszczurki oraz posiadają mroczną i złą inteligencję. Można je"
+" znaleźć głęboko pod ziemią.]"
 
 #: creature_subterranean.txt:2291
 msgctxt "CREATURE:REPTILE_MAN"
 msgid "[NAME:reptile man:reptile men:reptile man]"
-msgstr ""
+msgstr "[NAME:jaszczuroczłek:jaszczuroludzie:jaszczuroludzki]"
 
 #: creature_subterranean.txt:2305
 msgctxt "CREATURE:REPTILE_MAN"
 msgid "[PREFSTRING:terrifying features]"
-msgstr ""
+msgstr "[PREFSTRING:przerażające cechy]"
 
 #: creature_subterranean.txt:2349
 msgctxt "CREATURE:REPTILE_MAN"
 msgid "[ATTACK_VERB:punch:punches]"
-msgstr ""
+msgstr "[ATTACK_VERB:uderzasz:uderza]"
 
 #: creature_subterranean.txt:2356
 msgctxt "CREATURE:REPTILE_MAN"
 msgid "[ATTACK_VERB:kick:kicks]"
-msgstr ""
+msgstr "[ATTACK_VERB:kopiesz:kopie]"
 
 #: creature_subterranean.txt:2364
 msgctxt "CREATURE:REPTILE_MAN"
 msgid "[ATTACK_VERB:scratch:scratches]"
-msgstr ""
+msgstr "[ATTACK_VERB:drapiesz:drapie]"
 
 #: creature_subterranean.txt:2372
 msgctxt "CREATURE:REPTILE_MAN"
@@ -34860,16 +34894,20 @@ msgstr "[ATTACK_VERB:gryziesz:gryzie]"
 msgctxt "CREATURE:REPTILE_MAN"
 msgid "[CASTE_NAME:reptile woman:reptile women:reptile woman]"
 msgstr ""
+"[CASTE_NAME:jaszczuroczłek kobieta:kobiety jaszczuroczłeki:kobieco "
+"jaszczuroludzki]"
 
 #: creature_subterranean.txt:2400
 msgctxt "CREATURE:REPTILE_MAN"
 msgid "[CASTE_NAME:reptile man:reptile men:reptile man]"
 msgstr ""
+"[CASTE_NAME:jaszczuroczłek mężczyzna:mężczyźni jaszczroludzie:męsko "
+"jaszczuroludzki]"
 
 #: creature_subterranean.txt:2405
 msgctxt "CREATURE:REPTILE_MAN"
 msgid "[TLCM_NOUN:scales:PLURAL]"
-msgstr ""
+msgstr "[TLCM_NOUN:łuski:PLURAL]"
 
 #: creature_subterranean.txt:2408
 msgctxt "CREATURE:REPTILE_MAN"
@@ -34882,66 +34920,68 @@ msgid ""
 "[DESCRIPTION:A large white snake with the arms and torso of a man.  These "
 "creatures are evil and live far underground.]"
 msgstr ""
+"[DESCRIPTION:Duży biały wąż z rękami i torsem mężczyzny. Te stworzenia są złe i żyją głęboko pod ziemią.]\n"
+" "
 
 #: creature_subterranean.txt:2412
 msgctxt "CREATURE:SERPENT_MAN"
 msgid "[NAME:serpent man:serpent men:serpent man]"
-msgstr ""
+msgstr "[NAME:wężoczłowiek:wężoludzi:wężoludzki]"
 
 #: creature_subterranean.txt:2428
 msgctxt "CREATURE:SERPENT_MAN"
 msgid "[PREFSTRING:impressive tails]"
-msgstr ""
+msgstr "[PREFSTRING:imponujące ogony]"
 
 #: creature_subterranean.txt:2464
 msgctxt "CREATURE:SERPENT_MAN"
 msgid "[STATE_NAME:ALL_SOLID:frozen serpent man venom]"
-msgstr ""
+msgstr "[STATE_NAME:ALL_SOLID:zamrożony jad człowieka węża]"
 
 #: creature_subterranean.txt:2465
 msgctxt "CREATURE:SERPENT_MAN"
 msgid "[STATE_ADJ:ALL_SOLID:frozen serpent man venom]"
-msgstr ""
+msgstr "[STATE_ADJ:ALL_SOLID:zamrożony jad człowieka węża]"
 
 #: creature_subterranean.txt:2466
 msgctxt "CREATURE:SERPENT_MAN"
 msgid "[STATE_NAME:LIQUID:serpent man venom]"
-msgstr ""
+msgstr "[STATE_NAME:LIQUID:jad człowieka-węża]"
 
 #: creature_subterranean.txt:2467
 msgctxt "CREATURE:SERPENT_MAN"
 msgid "[STATE_ADJ:LIQUID:serpent man venom]"
-msgstr ""
+msgstr "[STATE_ADJ:LIQUID:jad człowieka-węża]"
 
 #: creature_subterranean.txt:2468
 msgctxt "CREATURE:SERPENT_MAN"
 msgid "[STATE_NAME:GAS:boiling serpent man venom]"
-msgstr ""
+msgstr "[STATE_NAME:GAS:wrzący jad człowieka węża]"
 
 #: creature_subterranean.txt:2469
 msgctxt "CREATURE:SERPENT_MAN"
 msgid "[STATE_ADJ:GAS:boiling serpent man venom]"
-msgstr ""
+msgstr "[STATE_ADJ:GAS:wrzący jad człowieka węża]"
 
 #: creature_subterranean.txt:2473
 msgctxt "CREATURE:SERPENT_MAN"
 msgid "[SYN_NAME:serpent man bite]"
-msgstr ""
+msgstr "[SYN_NAME:ukąszenie człowieka węża]"
 
 #: creature_subterranean.txt:2486
 msgctxt "CREATURE:SERPENT_MAN"
 msgid "[ATTACK_VERB:punch:punches]"
-msgstr ""
+msgstr "[ATTACK_VERB:uderzasz:uderza]"
 
 #: creature_subterranean.txt:2493
 msgctxt "CREATURE:SERPENT_MAN"
 msgid "[ATTACK_VERB:lash:lashes]"
-msgstr ""
+msgstr "[ATTACK_VERB:bicz:bicze]"
 
 #: creature_subterranean.txt:2501
 msgctxt "CREATURE:SERPENT_MAN"
 msgid "[ATTACK_VERB:scratch:scratches]"
-msgstr ""
+msgstr "[ATTACK_VERB:drapiesz:drapie]"
 
 #: creature_subterranean.txt:2509
 msgctxt "CREATURE:SERPENT_MAN"
@@ -34951,17 +34991,17 @@ msgstr "[ATTACK_VERB:gryziesz:gryzie]"
 #: creature_subterranean.txt:2530
 msgctxt "CREATURE:SERPENT_MAN"
 msgid "[CASTE_NAME:serpent woman:serpent women:serpent woman]"
-msgstr ""
+msgstr "[CASTE_NAME:kobieta wąż:kobiety węże:kobieco wężowy]"
 
 #: creature_subterranean.txt:2540
 msgctxt "CREATURE:SERPENT_MAN"
 msgid "[CASTE_NAME:serpent man:serpent men:serpent man]"
-msgstr ""
+msgstr "[CASTE_NAME:mężczyzna wąż:mężczyźni węże:męsko wężowy]"
 
 #: creature_subterranean.txt:2545
 msgctxt "CREATURE:SERPENT_MAN"
 msgid "[TLCM_NOUN:scales:PLURAL]"
-msgstr ""
+msgstr "[TLCM_NOUN:łuski:PLURAL]"
 
 #: creature_subterranean.txt:2548
 msgctxt "CREATURE:SERPENT_MAN"
@@ -34971,47 +35011,53 @@ msgstr "[TLCM_NOUN:oczy:PLURAL]"
 #: creature_subterranean.txt:2551
 msgctxt "CREATURE:ANT_MAN"
 msgid "[DESCRIPTION:A humanoid with the head and body of an ant.]"
-msgstr ""
+msgstr "[DESCRIPTION:Humanoid z głową i ciałem mrówki.]"
 
 #: creature_subterranean.txt:2552
 msgctxt "CREATURE:ANT_MAN"
 msgid "[NAME:antman:antmen:antman]"
-msgstr ""
+msgstr "[NAME:człowiek mrówka:ludzie mrówki:ludzko mrówczy]"
 
 #: creature_subterranean.txt:2562
 msgctxt "CREATURE:ANT_MAN"
 msgid "[PREFSTRING:mystery]"
-msgstr ""
+msgstr "[PREFSTRING:tajemnica]"
 
 #: creature_subterranean.txt:2584
 msgctxt "CREATURE:ANT_MAN"
 msgid "[CASTE_NAME:worker ant woman:worker ant women:worker ant woman]"
 msgstr ""
+"[CASTE_NAME:kobieta mrówka robotnik:kobiety mrówki robotnice:kobieco mrówczy"
+" robotniczy]"
 
 #: creature_subterranean.txt:2588
 msgctxt "CREATURE:ANT_MAN"
 msgid "[CASTE_NAME:soldier ant woman:soldier ant women:soldier ant woman]"
 msgstr ""
+"[CASTE_NAME:kobieta mrówka żołnierz:kobiety mrówki żołnierze:kobieco mrówczy"
+" żołnierski]"
 
 #: creature_subterranean.txt:2593
 msgctxt "CREATURE:ANT_MAN"
 msgid "[CASTE_NAME:drone ant man:drone ant men:drone ant man]"
 msgstr ""
+"[CASTE_NAME:mężczyzna mrówka zapładniacz:mężczyźni mrówki zapładniacze:męsko"
+" mrówczy zapładniacz]"
 
 #: creature_subterranean.txt:2597
 msgctxt "CREATURE:ANT_MAN"
 msgid "[CASTE_NAME:queen ant woman:queen ant women:queen ant woman]"
-msgstr ""
+msgstr "[CASTE_NAME:królowa mrówka:królowe mrówki:królewsko mrówczy]"
 
 #: creature_subterranean.txt:2622
 msgctxt "CREATURE:ANT_MAN"
 msgid "[ATTACK_VERB:punch:punches]"
-msgstr ""
+msgstr "[ATTACK_VERB:uderzasz:uderza]"
 
 #: creature_subterranean.txt:2629
 msgctxt "CREATURE:ANT_MAN"
 msgid "[ATTACK_VERB:kick:kicks]"
-msgstr ""
+msgstr "[ATTACK_VERB:kopiesz:kopie]"
 
 #: creature_subterranean.txt:2637
 msgctxt "CREATURE:ANT_MAN"
@@ -35021,7 +35067,7 @@ msgstr "[ATTACK_VERB:gryziesz:gryzie]"
 #: creature_subterranean.txt:2646
 msgctxt "CREATURE:ANT_MAN"
 msgid "[TLCM_NOUN:chitin:SINGULAR]"
-msgstr ""
+msgstr "[TLCM_NOUN:chityna:SINGULAR]"
 
 #: creature_subterranean.txt:2649
 msgctxt "CREATURE:ANT_MAN"
@@ -35034,31 +35080,33 @@ msgid ""
 "[DESCRIPTION:An evil humanoid with a long tail, black spiky fur and a "
 "twitching nose.  It lives far underground.]"
 msgstr ""
+"[DESCRIPTION:Zły humanoid z długim ogonem, czarnym, kolczastym futrem i "
+"drgającym nosem. Żyje głęboko pod ziemią.]"
 
 #: creature_subterranean.txt:2669
 msgctxt "CREATURE:RODENT MAN"
 msgid "[NAME:rodent man:rodent men:rodent man]"
-msgstr ""
+msgstr "[NAME:człowiek gryzoń:ludzie gryzonie:ludzko gryzoni]"
 
 #: creature_subterranean.txt:2683
 msgctxt "CREATURE:RODENT MAN"
 msgid "[PREFSTRING:terrifying features]"
-msgstr ""
+msgstr "[PREFSTRING:przerażające cechy]"
 
 #: creature_subterranean.txt:2719
 msgctxt "CREATURE:RODENT MAN"
 msgid "[ATTACK_VERB:punch:punches]"
-msgstr ""
+msgstr "[ATTACK_VERB:uderzasz:uderza]"
 
 #: creature_subterranean.txt:2726
 msgctxt "CREATURE:RODENT MAN"
 msgid "[ATTACK_VERB:kick:kicks]"
-msgstr ""
+msgstr "[ATTACK_VERB:kopiesz:kopie]"
 
 #: creature_subterranean.txt:2734
 msgctxt "CREATURE:RODENT MAN"
 msgid "[ATTACK_VERB:scratch:scratches]"
-msgstr ""
+msgstr "[ATTACK_VERB:drapiesz:drapie]"
 
 #: creature_subterranean.txt:2742
 msgctxt "CREATURE:RODENT MAN"
@@ -35068,17 +35116,17 @@ msgstr "[ATTACK_VERB:gryziesz:gryzie]"
 #: creature_subterranean.txt:2761
 msgctxt "CREATURE:RODENT MAN"
 msgid "[CASTE_NAME:rodent woman:rodent women:rodent woman]"
-msgstr ""
+msgstr "[CASTE_NAME:kobieta gryzoń:kobiety gryzonie:kobieco gryzoni]"
 
 #: creature_subterranean.txt:2764
 msgctxt "CREATURE:RODENT MAN"
 msgid "[CASTE_NAME:rodent man:rodent men:rodent man]"
-msgstr ""
+msgstr "[CASTE_NAME:mężczyzna gryzoń:mężczyźni gryzonie:męsko gryzoni]"
 
 #: creature_subterranean.txt:2770
 msgctxt "CREATURE:RODENT MAN"
 msgid "[TLCM_NOUN:hair:SINGULAR]"
-msgstr ""
+msgstr "[TLCM_NOUN:sierść:SINGULAR]"
 
 #: creature_subterranean.txt:2773
 msgctxt "CREATURE:RODENT MAN"
@@ -35090,46 +35138,48 @@ msgctxt "CREATURE:WILD_BOAR"
 msgid ""
 "[DESCRIPTION:A medium-sized beast, known for its tusks and powerful build.]"
 msgstr ""
+"[DESCRIPTION:Średniej wielkości bestia, znana ze swoich kłów i potężnej "
+"budowy.]"
 
 #: creature_temperate_new.txt:13
 msgctxt "CREATURE:WILD_BOAR"
 msgid "[NAME:wild boar:wild boars:wild boar]"
-msgstr ""
+msgstr "[NAME:dzik:dziki:dzikie]"
 
 #: creature_temperate_new.txt:14
 msgctxt "CREATURE:WILD_BOAR"
 msgid "[GENERAL_CHILD_NAME:wild boar piglet:wild boar piglets]"
-msgstr ""
+msgstr "[GENERAL_CHILD_NAME:prosię dzika: prosięta dzika]"
 
 #: creature_temperate_new.txt:20
 msgctxt "CREATURE:WILD_BOAR"
 msgid "[PREFSTRING:tusks]"
-msgstr ""
+msgstr "[PREFSTRING:kły]"
 
 #: creature_temperate_new.txt:21
 msgctxt "CREATURE:WILD_BOAR"
 msgid "[PREFSTRING:ferocious charges]"
-msgstr ""
+msgstr "[PREFSTRING:okrutne oskarżenia]"
 
 #: creature_temperate_new.txt:36
 msgctxt "CREATURE:WILD_BOAR"
 msgid "[STATE_NAME:ALL_SOLID:ivory]"
-msgstr ""
+msgstr "[STATE_NAME:ALL_SOLID:kość słoniowa]"
 
 #: creature_temperate_new.txt:37
 msgctxt "CREATURE:WILD_BOAR"
 msgid "[STATE_ADJ:ALL_SOLID:ivory]"
-msgstr ""
+msgstr "[STATE_ADJ:ALL_SOLID:kość słoniowa]"
 
 #: creature_temperate_new.txt:41
 msgctxt "CREATURE:WILD_BOAR"
 msgid "[TISSUE_NAME:ivory:NP]"
-msgstr ""
+msgstr "[TISSUE_NAME:kość słoniowa:NP]"
 
 #: creature_temperate_new.txt:69
 msgctxt "CREATURE:WILD_BOAR"
 msgid "[ATTACK_VERB:kick:kicks]"
-msgstr ""
+msgstr "[ATTACK_VERB:kopiesz:kopie]"
 
 #: creature_temperate_new.txt:85
 msgctxt "CREATURE:WILD_BOAR"
@@ -35139,17 +35189,17 @@ msgstr "[ATTACK_VERB:gryziesz:gryzie]"
 #: creature_temperate_new.txt:103
 msgctxt "CREATURE:WILD_BOAR"
 msgid "[CASTE_NAME:wild boar sow:wild boar sows:wild boar sow]"
-msgstr ""
+msgstr "[CASTE_NAME:locha dzika: locha dzika: locha dzika]"
 
 #: creature_temperate_new.txt:107
 msgctxt "CREATURE:WILD_BOAR"
 msgid "[CASTE_NAME:wild boar:wild boars:wild boar]"
-msgstr ""
+msgstr "[CASTE_NAME:dzik:dziki:dzikie]"
 
 #: creature_temperate_new.txt:111
 msgctxt "CREATURE:WILD_BOAR"
 msgid "[TLCM_NOUN:hair:SINGULAR]"
-msgstr ""
+msgstr "[TLCM_NOUN:futro:SINGULAR]"
 
 #: creature_temperate_new.txt:114
 msgctxt "CREATURE:WILD_BOAR"
@@ -35164,52 +35214,54 @@ msgstr "[TLCM_NOUN:oczy:PLURAL]"
 #: creature_temperate_new.txt:124
 msgctxt "CREATURE:WILD_BOAR_MAN"
 msgid "[CASTE_NAME:wild boar man:wild boar men:wild boar man]"
-msgstr ""
+msgstr "[CASTE_NAME:dzikomężczyzna:dzikomężczyźni:dzikomęscy]"
 
 #: creature_temperate_new.txt:126
 msgctxt "CREATURE:WILD_BOAR_MAN"
 msgid "[CASTE_NAME:wild boar woman:wild boar women:wild boar woman]"
-msgstr ""
+msgstr "[CASTE_NAME:kobietodzik:kobietodziki:kobietodziki]"
 
 #: creature_temperate_new.txt:138
 msgctxt "CREATURE:WILD_BOAR_MAN"
 msgid "[NAME:wild boar man:wild boar men:wild boar man]"
-msgstr ""
+msgstr "[NAME:dzikoczłowiek:dzikoludzie:dzikoludzki]"
 
 #: creature_temperate_new.txt:139
 msgctxt "CREATURE:WILD_BOAR_MAN"
 msgid "[DESCRIPTION:A person with the head of a wild boar.]"
-msgstr ""
+msgstr "[DESCRIPTION:Osoba z głową dzika.]"
 
 #: creature_temperate_new.txt:159
 msgctxt "CREATURE:GIANT_WILD_BOAR"
 msgid "[NAME:giant wild boar:giant wild boars:giant wild boar]"
-msgstr ""
+msgstr "[NAME:gigantyczny dzik:gigantyczne dziki:gigantyczno dziki]"
 
 #: creature_temperate_new.txt:160
 msgctxt "CREATURE:GIANT_WILD_BOAR"
 msgid "[CASTE_NAME:giant wild boar:giant wild boars:giant wild boar]"
-msgstr ""
+msgstr "[CASTE_NAME:gigantyczny dzik:gigantyczne dziki:gigantyczno dziki]"
 
 #: creature_temperate_new.txt:161
 msgctxt "CREATURE:GIANT_WILD_BOAR"
 msgid "[GENERAL_CHILD_NAME:giant wild boar piglet:giant wild boar piglets]"
 msgstr ""
+"[GENERAL_CHILD_NAME:prosię gigantycznego dzika: prosięta gigantycznego "
+"dzika]"
 
 #: creature_temperate_new.txt:162
 msgctxt "CREATURE:GIANT_WILD_BOAR"
 msgid "[DESCRIPTION:A huge monster boar with jagged tusks.]"
-msgstr ""
+msgstr "[DESCRIPTION:Ogromny dzik-potwor z postrzępionymi kłami.]"
 
 #: creature_temperate_new.txt:171
 msgctxt "CREATURE:GIANT_WILD_BOAR"
 msgid "[PREFSTRING:tusks]"
-msgstr ""
+msgstr "[PREFSTRING:kły]"
 
 #: creature_temperate_new.txt:172
 msgctxt "CREATURE:GIANT_WILD_BOAR"
 msgid "[PREFSTRING:ferocious charges]"
-msgstr ""
+msgstr "[PREFSTRING:okrutne oskarżenia]"
 
 #: creature_temperate_new.txt:183
 msgctxt "CREATURE:COYOTE"
@@ -35217,26 +35269,28 @@ msgid ""
 "[DESCRIPTION:A medium-sized dog-like creature.  It is sly, and groups can be"
 " heard howling in the night.]"
 msgstr ""
+"[DESCRIPTION:Stworzenie średniej wielkości, przypominające psa. Jest "
+"przebiegłe, w nocy słychać wycie grup.]"
 
 #: creature_temperate_new.txt:184
 msgctxt "CREATURE:COYOTE"
 msgid "[NAME:coyote:coyotes:coyote]"
-msgstr ""
+msgstr "[NAME:kojot:kojoty:kojoci]"
 
 #: creature_temperate_new.txt:185
 msgctxt "CREATURE:COYOTE"
 msgid "[CASTE_NAME:coyote:coyotes:coyote]"
-msgstr ""
+msgstr "[CASTE_NAME:kojot:kojoty:kojoci]"
 
 #: creature_temperate_new.txt:186
 msgctxt "CREATURE:COYOTE"
 msgid "[GENERAL_CHILD_NAME:coyote pup:coyote pups]"
-msgstr ""
+msgstr "[GENERAL_CHILD_NAME:szczenię kojota:szczenięta kojota]"
 
 #: creature_temperate_new.txt:206
 msgctxt "CREATURE:COYOTE"
 msgid "[PREFSTRING:howling]"
-msgstr ""
+msgstr "[PREFSTRING:wycie]"
 
 #: creature_temperate_new.txt:243
 msgctxt "CREATURE:COYOTE"
@@ -35246,12 +35300,12 @@ msgstr "[ATTACK_VERB:gryziesz:gryzie]"
 #: creature_temperate_new.txt:252
 msgctxt "CREATURE:COYOTE"
 msgid "[ATTACK_VERB:scratch:scratches]"
-msgstr ""
+msgstr "[ATTACK_VERB:drapiesz:drapie]"
 
 #: creature_temperate_new.txt:273
 msgctxt "CREATURE:COYOTE"
 msgid "[TLCM_NOUN:hair:SINGULAR]"
-msgstr ""
+msgstr "[TLCM_NOUN:sierść:SINGULAR]"
 
 #: creature_temperate_new.txt:276
 msgctxt "CREATURE:COYOTE"
@@ -35266,47 +35320,49 @@ msgstr "[TLCM_NOUN:oczy:PLURAL]"
 #: creature_temperate_new.txt:288
 msgctxt "CREATURE:COYOTE_MAN"
 msgid "[CASTE_NAME:coyote man:coyote men:coyote man]"
-msgstr ""
+msgstr "[CASTE_NAME:mężczyzna-kojot:mężczyźni-kojoty:męsko kojoci]"
 
 #: creature_temperate_new.txt:290
 msgctxt "CREATURE:COYOTE_MAN"
 msgid "[CASTE_NAME:coyote woman:coyote women:coyote woman]"
-msgstr ""
+msgstr "[CASTE_NAME:kobieta kojot:kobiety kojoty:kobieco kojoci]"
 
 #: creature_temperate_new.txt:301
 msgctxt "CREATURE:COYOTE_MAN"
 msgid "[NAME:coyote man:coyote men:coyote man]"
-msgstr ""
+msgstr "[NAME:kojotoczłowiek:kojotoludzie:kojotoludzki]"
 
 #: creature_temperate_new.txt:302
 msgctxt "CREATURE:COYOTE_MAN"
 msgid "[DESCRIPTION:A person with the head and tail of a coyote.]"
-msgstr ""
+msgstr "[DESCRIPTION:Osoba z głową i ogonem kojota.]"
 
 #: creature_temperate_new.txt:320
 msgctxt "CREATURE:GIANT_COYOTE"
 msgid "[NAME:giant coyote:giant coyotes:giant coyote]"
-msgstr ""
+msgstr "[NAME:gigantyczny kojot:gigantyczne kojoty:gigantyczno kojoci]"
 
 #: creature_temperate_new.txt:321
 msgctxt "CREATURE:GIANT_COYOTE"
 msgid "[CASTE_NAME:giant coyote:giant coyotes:giant coyote]"
-msgstr ""
+msgstr "[CASTE_NAME:gigantyczny kojot:gigantyczne kojoty:gigantyczno kojoci]"
 
 #: creature_temperate_new.txt:322
 msgctxt "CREATURE:GIANT_COYOTE"
 msgid "[GENERAL_CHILD_NAME:giant coyote pup:giant coyote pups]"
 msgstr ""
+"[GENERAL_CHILD_NAME:szczenię gigantycznego kojota:szczenięta gigantycznego "
+"kojota]"
 
 #: creature_temperate_new.txt:323
 msgctxt "CREATURE:GIANT_COYOTE"
 msgid "[DESCRIPTION:A large dog-like monster with a haunting howl.]"
-msgstr ""
+msgstr "[DESCRIPTION:Duży, podobny do psa potwór z prześladującym wyciem.]"
 
 #: creature_temperate_new.txt:332
 msgctxt "CREATURE:GIANT_COYOTE"
 msgid "[PREFSTRING:howling]"
-msgstr ""
+msgstr "[PREFSTRING:wycie]"
 
 #: creature_temperate_new.txt:343
 msgctxt "CREATURE:KANGAROO"
@@ -35314,36 +35370,38 @@ msgid ""
 "[DESCRIPTION:A medium-sized creature that can be found hopping through the "
 "grassland.]"
 msgstr ""
+"[DESCRIPTION:Średniej wielkości stworzenie, które można spotkać skaczące po "
+"łąkach.]"
 
 #: creature_temperate_new.txt:344
 msgctxt "CREATURE:KANGAROO"
 msgid "[NAME:kangaroo:kangaroos:kangaroo]"
-msgstr ""
+msgstr "[NAME:kangur:kangury:kangurzy]"
 
 #: creature_temperate_new.txt:345
 msgctxt "CREATURE:KANGAROO"
 msgid "[GENERAL_CHILD_NAME:kangaroo joey:kangaroo joeys]"
-msgstr ""
+msgstr "[GENERAL_CHILD_NAME:młode kangura:wiele młodych kangura]"
 
 #: creature_temperate_new.txt:356
 msgctxt "CREATURE:KANGAROO"
 msgid "[PREFSTRING:pouches]"
-msgstr ""
+msgstr "[PREFSTRING:woreczki]"
 
 #: creature_temperate_new.txt:357
 msgctxt "CREATURE:KANGAROO"
 msgid "[PREFSTRING:great leaps]"
-msgstr ""
+msgstr "[PREFSTRING:wielkie skoki]"
 
 #: creature_temperate_new.txt:392
 msgctxt "CREATURE:KANGAROO"
 msgid "[ATTACK_VERB:punch:punches]"
-msgstr ""
+msgstr "[ATTACK_VERB:uderzasz:uderza]"
 
 #: creature_temperate_new.txt:399
 msgctxt "CREATURE:KANGAROO"
 msgid "[ATTACK_VERB:kick:kicks]"
-msgstr ""
+msgstr "[ATTACK_VERB:kopiesz:kopie]"
 
 #: creature_temperate_new.txt:408
 msgctxt "CREATURE:KANGAROO"
@@ -35353,27 +35411,27 @@ msgstr "[ATTACK_VERB:gryziesz:gryzie]"
 #: creature_temperate_new.txt:425
 msgctxt "CREATURE:KANGAROO"
 msgid "[CASTE_NAME:kangaroo doe:kangaroo does:kangaroo doe]"
-msgstr ""
+msgstr "[CASTE_NAME:samica kangura:samice kangura:kangurze samice]"
 
 #: creature_temperate_new.txt:429
 msgctxt "CREATURE:KANGAROO"
 msgid "[STATE_NAME:ALL_SOLID:frozen kangaroo's milk]"
-msgstr ""
+msgstr "[STATE_NAME:ALL_SOLID:zamrożone kangurze mleko]"
 
 #: creature_temperate_new.txt:430
 msgctxt "CREATURE:KANGAROO"
 msgid "[STATE_ADJ:ALL_SOLID:frozen kangaroo's milk]"
-msgstr ""
+msgstr "[STATE_ADJ:ALL_SOLID:zamrożone kangurze mleko]"
 
 #: creature_temperate_new.txt:431
 msgctxt "CREATURE:KANGAROO"
 msgid "[STATE_NAME:LIQUID:kangaroo's milk]"
-msgstr ""
+msgstr "[STATE_NAME:LIQUID:kangurze mleko]"
 
 #: creature_temperate_new.txt:432
 msgctxt "CREATURE:KANGAROO"
 msgid "[STATE_ADJ:LIQUID:kangaroo's milk]"
-msgstr ""
+msgstr "[STATE_ADJ:LIQUID:kangurze mleko]"
 
 #: creature_temperate_new.txt:433
 msgctxt "CREATURE:KANGAROO"
