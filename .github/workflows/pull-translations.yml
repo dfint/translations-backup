@@ -83,6 +83,9 @@ jobs:
         cd automation
         poetry run files_by_resource ../translations ../
 
+    - name: Pull changes
+      run: git pull
+
     - name: Push changes to the repository
       uses: EndBug/add-and-commit@v9.1.3
       with:
