@@ -318,13 +318,13 @@ test = ["appdirs (==1.4.4)", "covdefaults (>=2.3)", "pytest (>=7.4)", "pytest-co
 
 [[package]]
 name = "refurb"
-version = "1.20.0"
+version = "1.21.0"
 description = "A tool for refurbish and modernize Python codebases"
 optional = false
 python-versions = ">=3.10"
 files = [
-    {file = "refurb-1.20.0-py3-none-any.whl", hash = "sha256:df30e9922ea2d18853694dc055dcf7df4cdd40a7c63a95d9a9c6efa2c66bef34"},
-    {file = "refurb-1.20.0.tar.gz", hash = "sha256:7ebf4557f0bc2c1c3469c5d3d2e091540fb2493ed5d82b74c3c3678f825f1295"},
+    {file = "refurb-1.21.0-py3-none-any.whl", hash = "sha256:b2e346d48f4d18062d247495aef07087b1392e6a8db529550bfbeae89971f57d"},
+    {file = "refurb-1.21.0.tar.gz", hash = "sha256:3f94957429283a3c83a36c5213ff340ea86709f32ccef66da0447442704ec0ce"},
 ]
 
 [package.dependencies]
@@ -455,4 +455,4 @@ dev = ["black (>=19.3b0)", "pytest (>=4.6.2)"]
 [metadata]
 lock-version = "2.0"
 python-versions = "^3.10"
-content-hash = "ce4ded058f580becd9c2a23a3aa44a8f34306fcab7ef0211b8a769b697ff1beb"
+content-hash = "35a529f80216145072bb882322823853bb3f8750a8a48fd9d7e5a7612b97b355"
