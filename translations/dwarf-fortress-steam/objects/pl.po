@@ -1,6 +1,5 @@
 # 
 # Translators:
-# moinen, 2022
 # Krzysztof Bienias <krzysztof.bienias.kb@gmail.com>, 2022
 # Kuba M <nowasinho@gmail.com>, 2023
 # Adam Stępień, 2023
@@ -6443,7 +6442,7 @@ msgstr "[TLCM_NOUN:pióra:PLURAL]"
 #: creature_birds.txt:888
 msgctxt "CREATURE:BIRD_PENGUIN"
 msgid "[TLCM_NOUN:belly:SINGULAR]"
-msgstr "[TLCM_NOUN:brzuch: SINGULAR]"
+msgstr "[TLCM_NOUN:brzuch:SINGULAR]"
 
 #: creature_birds.txt:891
 msgctxt "CREATURE:BIRD_PENGUIN"
@@ -10725,12 +10724,12 @@ msgstr "[PREFSTRING:zdolność do rojenia się]"
 #: creature_bug_slug_new.txt:760
 msgctxt "CREATURE:LOUSE"
 msgid "[TLCM_NOUN:chitin:SINGULAR]"
-msgstr "[TLCM_NOUN:chityna:POJEDYNCZA]"
+msgstr "[TLCM_NOUN:chityna:SINGULAR]"
 
 #: creature_bug_slug_new.txt:763
 msgctxt "CREATURE:LOUSE"
 msgid "[TLCM_NOUN:eyes:PLURAL]"
-msgstr "[TLCM_NOUN:oczy:WIELE]"
+msgstr "[TLCM_NOUN:oczy:PLURAL]"
 
 #: creature_bug_slug_new.txt:770
 msgctxt "CREATURE:LOUSE_MAN"
@@ -22608,7 +22607,7 @@ msgid ""
 "shell]"
 msgstr ""
 "[RETRACT_INTO_BP:BY_CATEGORY:SHELL:chowasz się do <pro_pos> muszli:chowa się"
-" do <pro_pos> muszli:wychodzisz z<pro_pos> wychodzi z <pro_pos> muszli]"
+" do <pro_pos> muszli:wychodzisz z <pro_pos> wychodzi z <pro_pos> muszli]"
 
 #: creature_large_tropical.txt:3824
 msgctxt "CREATURE:GIANT TORTOISE"
@@ -27854,8 +27853,8 @@ msgid ""
 "into <pro_pos> shell:come out of <pro_pos> shell:comes out of <pro_pos> "
 "shell]"
 msgstr ""
-"[RETRACT_INTO_BP:BY_CATEGORY:SHELL:chowasz się do<pro_pos> muszli:chowa się "
-"do <pro_pos> muszli:wychodzisz z <pro_pos> muszli:wychodzi z<pro_pos> "
+"[RETRACT_INTO_BP:BY_CATEGORY:SHELL:chowasz się do <pro_pos> muszli:chowa się"
+" do <pro_pos> muszli:wychodzisz z <pro_pos> muszli:wychodzi z <pro_pos> "
 "muszli]"
 
 #: creature_riverlakepool_new.txt:1115
@@ -31474,8 +31473,8 @@ msgid ""
 "[DESCRIPTION:A gigantic reptilian creature.  It is magical and can breathe "
 "fire.  These monsters can live for thousands of years.]"
 msgstr ""
-"[DESCRIPTION:Gigantyczna jaszczuro-podobna istota. Jest magiczna i może ziać ogniem. Te potwory mogą żyć tysiące lat.]\n"
-" "
+"[DESCRIPTION:Gigantyczna jaszczuro-podobna istota. Jest magiczna i może ziać"
+" ogniem. Te potwory mogą żyć tysiące lat.]"
 
 #: creature_standard.txt:2206
 msgctxt "CREATURE:DRAGON"
@@ -33449,7 +33448,9 @@ msgstr "[DESCRIPTION:Gigantyczny drapieżnik-płaz znaleziony pod ziemią.]"
 #: creature_subterranean.txt:105
 msgctxt "CREATURE:TOAD_GIANT_CAVE"
 msgid "[NAME:giant cave toad:giant cave toads:giant cave toad]"
-msgstr "[NAME:Gigantyczny drapieżnik-płaz znaleziony pod ziemią.]"
+msgstr ""
+"[NAME:gigantyczna ropucha jaskiniowa:gigantyczne ropuchy "
+"jaskiniowe:gigantycznych ropuch jaskiniowych]"
 
 #: creature_subterranean.txt:106
 msgctxt "CREATURE:TOAD_GIANT_CAVE"
@@ -33964,12 +33965,12 @@ msgstr ""
 #: creature_subterranean.txt:1065
 msgctxt "CREATURE:SPIDER_CAVE_GIANT"
 msgid "[STATE_NAME:LIQUID:giant cave spider venom]"
-msgstr "[STATE_NAME:PŁYN:jad gigantycznego pająka jaskiniowego]"
+msgstr "[STATE_NAME:LIQUID:jad gigantycznego pająka jaskiniowego]"
 
 #: creature_subterranean.txt:1066
 msgctxt "CREATURE:SPIDER_CAVE_GIANT"
 msgid "[STATE_ADJ:LIQUID:giant cave spider venom]"
-msgstr "[STATE_ADJ:PŁYN:jad gigantycznego pająka jaskiniowego]"
+msgstr "[STATE_ADJ:LIQUID:jad gigantycznego pająka jaskiniowego]"
 
 #: creature_subterranean.txt:1067
 msgctxt "CREATURE:SPIDER_CAVE_GIANT"
@@ -33994,7 +33995,7 @@ msgstr "[ATTACK_VERB:gryziesz:gryzie]"
 #: creature_subterranean.txt:1095
 msgctxt "CREATURE:SPIDER_CAVE_GIANT"
 msgid "[TLCM_NOUN:chitin:SINGULAR]"
-msgstr "[TLCM_NOUN:chityna:POJEDYNCZA]"
+msgstr "[TLCM_NOUN:chityna:SINGULAR]"
 
 #: creature_subterranean.txt:1098
 msgctxt "CREATURE:SPIDER_CAVE_GIANT"
@@ -34035,12 +34036,12 @@ msgstr "[STATE_ADJ:ALL_SOLID: zamrożony jad pająka jaskiniowego]"
 #: creature_subterranean.txt:1137
 msgctxt "CREATURE:SPIDER_CAVE"
 msgid "[STATE_NAME:LIQUID:cave spider venom]"
-msgstr "[STATE_NAME:PŁYN:jad pająka jaskiniowego]"
+msgstr "[STATE_NAME:LIQUID:jad pająka jaskiniowego]"
 
 #: creature_subterranean.txt:1138
 msgctxt "CREATURE:SPIDER_CAVE"
 msgid "[STATE_ADJ:LIQUID:cave spider venom]"
-msgstr "[STATE_ADJ:PŁYN:jad pająka jaskiniowego]"
+msgstr "[STATE_ADJ:LIQUID:jad pająka jaskiniowego]"
 
 #: creature_subterranean.txt:1139
 msgctxt "CREATURE:SPIDER_CAVE"
@@ -34065,7 +34066,7 @@ msgstr "[VERMIN_BITE:10:ukąszony:]"
 #: creature_subterranean.txt:1176
 msgctxt "CREATURE:SPIDER_CAVE"
 msgid "[TLCM_NOUN:chitin:SINGULAR]"
-msgstr "[TLCM_NOUN:chityna:POJEDYNCZA]"
+msgstr "[TLCM_NOUN:chityna:SINGULAR]"
 
 #: creature_subterranean.txt:1179
 msgctxt "CREATURE:SPIDER_CAVE"
@@ -34162,7 +34163,7 @@ msgstr "[PREFSTRING:urodzie]"
 #: creature_subterranean.txt:1327
 msgctxt "CREATURE:LOBSTER_CAVE"
 msgid "[TLCM_NOUN:chitin:SINGULAR]"
-msgstr "[TLCM_NOUN:chityna:POJEDYNCZA]"
+msgstr "[TLCM_NOUN:chityna:SINGULAR]"
 
 #: creature_subterranean.txt:1330
 msgctxt "CREATURE:LOBSTER_CAVE"
@@ -34389,7 +34390,7 @@ msgstr "[STATE_ADJ:ALL_SOLID:mrożone mleko krasnoludów]"
 #: creature_subterranean.txt:1639
 msgctxt "CREATURE:MAGGOT_PURRING"
 msgid "[STATE_NAME:LIQUID:dwarven milk]"
-msgstr "[STATE_NAME: LIQUID:mleko krasnoludów]"
+msgstr "[STATE_NAME:LIQUID:mleko krasnoludów]"
 
 #: creature_subterranean.txt:1640
 msgctxt "CREATURE:MAGGOT_PURRING"
@@ -34498,8 +34499,8 @@ msgid ""
 "[DESCRIPTION:Magma moving in the shape of a man.  It has a cracked black "
 "crust.]"
 msgstr ""
-"[DESCRIPTION:Magma poruszająca się w kształcie człowieka. Ma popękaną czarną skórę.]\n"
-" "
+"[DESCRIPTION:Magma poruszająca się w kształcie człowieka. Ma popękaną czarną"
+" skórę.]"
 
 #: creature_subterranean.txt:1736
 msgctxt "CREATURE:ELEMENTMAN_MAGMA"
@@ -34920,8 +34921,8 @@ msgid ""
 "[DESCRIPTION:A large white snake with the arms and torso of a man.  These "
 "creatures are evil and live far underground.]"
 msgstr ""
-"[DESCRIPTION:Duży biały wąż z rękami i torsem mężczyzny. Te stworzenia są złe i żyją głęboko pod ziemią.]\n"
-" "
+"[DESCRIPTION:Duży biały wąż z rękami i torsem mężczyzny. Te stworzenia są "
+"złe i żyją głęboko pod ziemią.]"
 
 #: creature_subterranean.txt:2412
 msgctxt "CREATURE:SERPENT_MAN"
@@ -36271,7 +36272,7 @@ msgstr "[ATTACK_VERB:drapiesz:drapie]"
 #: creature_temperate_new.txt:1594
 msgctxt "CREATURE:BOBCAT"
 msgid "[TLCM_NOUN:hair:SINGULAR]"
-msgstr "[TLCM_NOUN:włosy:SINGULAR] "
+msgstr "[TLCM_NOUN:włosy:SINGULAR]"
 
 #: creature_temperate_new.txt:1597
 msgctxt "CREATURE:BOBCAT"
@@ -37757,8 +37758,8 @@ msgid ""
 "[DESCRIPTION:A medium-sized snake that lives in the trees.  It eats prey "
 "much larger than itself and slays them by crushing them to death.]"
 msgstr ""
-"[DESCRIPTION:Średniej wielkości wąż żyjący na drzewach. Zjada ofiarę znacznie większą od siebie i zabija ją, miażdżąc ją na śmierć.]\n"
-" "
+"[DESCRIPTION:Średniej wielkości wąż żyjący na drzewach. Zjada ofiarę "
+"znacznie większą od siebie i zabija ją, miażdżąc ją na śmierć.]"
 
 #: creature_tropical_new.txt:322
 msgctxt "CREATURE:ANACONDA"
@@ -37837,8 +37838,9 @@ msgid ""
 "such as eggs or worms.  They are said to be the most intelligent of their "
 "kind.]"
 msgstr ""
-"[DESCRIPTION:Gad średniej wielkości. Można je znaleźć w poszukiwaniu pożywienia, takiego jak jaja lub robaki. Mówi się, że są najinteligentniejszymi w swoim rodzaju.]\n"
-" "
+"[DESCRIPTION:Gad średniej wielkości. Można je znaleźć w poszukiwaniu "
+"pożywienia, takiego jak jaja lub robaki. Mówi się, że są "
+"najinteligentniejszymi w swoim rodzaju.]"
 
 #: creature_tropical_new.txt:455
 msgctxt "CREATURE:MONITOR_LIZARD"
@@ -37953,32 +37955,32 @@ msgstr "[PREFSTRING: czarujący kaptur]"
 #: creature_tropical_new.txt:651
 msgctxt "CREATURE:KING_COBRA"
 msgid "[STATE_NAME:ALL_SOLID:frozen king cobra venom]"
-msgstr "[STATE_NAME: BRYŁA:zamrożony jad kobry królewskiej]"
+msgstr "[STATE_NAME:ALL_SOLID:zamrożony jad kobry królewskiej]"
 
 #: creature_tropical_new.txt:652
 msgctxt "CREATURE:KING_COBRA"
 msgid "[STATE_ADJ:ALL_SOLID:frozen king cobra venom]"
-msgstr "[STATE_ADJ: BRYŁA:zamrożony jad kobry królewskiej]"
+msgstr "[STATE_ADJ:ALL_SOLID:zamrożony jad kobry królewskiej]"
 
 #: creature_tropical_new.txt:653
 msgctxt "CREATURE:KING_COBRA"
 msgid "[STATE_NAME:LIQUID:king cobra venom]"
-msgstr "[STATE_NAME: PŁYNNE:jad kobry królewskiej]"
+msgstr "[STATE_NAME:LIQUID:jad kobry królewskiej]"
 
 #: creature_tropical_new.txt:654
 msgctxt "CREATURE:KING_COBRA"
 msgid "[STATE_ADJ:LIQUID:king cobra venom]"
-msgstr "[STATE_ADJ: PŁYNNE:jad kobry królewskiej]"
+msgstr "[STATE_ADJ:LIQUID:jad kobry królewskiej]"
 
 #: creature_tropical_new.txt:655
 msgctxt "CREATURE:KING_COBRA"
 msgid "[STATE_NAME:GAS:boiling king cobra venom]"
-msgstr "[STATE_NAME: GAZOWE:wrzący jad kobry królewskiej]"
+msgstr "[STATE_NAME:GAS:wrzący jad kobry królewskiej]"
 
 #: creature_tropical_new.txt:656
 msgctxt "CREATURE:KING_COBRA"
 msgid "[STATE_ADJ:GAS:boiling king cobra venom]"
-msgstr "[STATE_ADJ: GAZOWE:wrzący jad kobry królewskiej]"
+msgstr "[STATE_ADJ:GAS:wrzący jad kobry królewskiej]"
 
 #: creature_tropical_new.txt:660
 msgctxt "CREATURE:KING_COBRA"
@@ -37993,7 +37995,7 @@ msgstr "[ATTACK_VERB:gryziesz:gryzie]"
 #: creature_tropical_new.txt:703
 msgctxt "CREATURE:KING_COBRA"
 msgid "[TLCM_NOUN:scales:PLURAL]"
-msgstr "[TLCM_NOUN: skala:MNOGIE]"
+msgstr "[TLCM_NOUN:skala:PLURAL]"
 
 #: creature_tropical_new.txt:706
 msgctxt "CREATURE:KING_COBRA"
@@ -38302,7 +38304,7 @@ msgstr "[ATTACK_VERB:drapiesz:drapie]"
 #: creature_tropical_new.txt:1191
 msgctxt "CREATURE:CAPUCHIN"
 msgid "[TLCM_NOUN:hair:SINGULAR]"
-msgstr "[TLCM_NOUN:włosy:SINGULAR] "
+msgstr "[TLCM_NOUN:włosy:SINGULAR]"
 
 #: creature_tropical_new.txt:1194
 msgctxt "CREATURE:CAPUCHIN"
@@ -39826,12 +39828,12 @@ msgstr ""
 #: creature_tundra_taiga_new.txt:249
 msgctxt "CREATURE:LYNX"
 msgid "[TLCM_NOUN:skin:SINGULAR]"
-msgstr "[TLCM_NOUN:skóra:POJEDYNCZY]"
+msgstr "[TLCM_NOUN:skóra:SINGULAR]"
 
 #: creature_tundra_taiga_new.txt:252
 msgctxt "CREATURE:LYNX"
 msgid "[TLCM_NOUN:eyes:PLURAL]"
-msgstr "[TLCM_NOUN:oczy:WIELE]"
+msgstr "[TLCM_NOUN:oczy:PLURAL]"
 
 #: creature_tundra_taiga_new.txt:261
 msgctxt "CREATURE:LYNX_MAN"
@@ -43586,7 +43588,7 @@ msgstr ""
 #: inorganic_stone_mineral.txt:300
 msgctxt "INORGANIC:CINNABAR"
 msgid "[STATE_NAME_ADJ:ALL_SOLID:cinnabar]"
-msgstr "ALL_SOLID: cynober]"
+msgstr "[STATE_NAME_ADJ:ALL_SOLID:cynober]"
 
 #: inorganic_stone_mineral.txt:312
 msgctxt "INORGANIC:COBALTITE"
@@ -49667,12 +49669,12 @@ msgstr ""
 #: plant_grasses.txt:23
 msgctxt "PLANT:HAIR GRASS"
 msgid "[ALL_NAMES:hair grass]"
-msgstr "trawa do włosów]"
+msgstr ""
 
 #: plant_grasses.txt:40
 msgctxt "PLANT:BENTGRASS"
 msgid "[ALL_NAMES:bentgrass]"
-msgstr "miotła]"
+msgstr "[ALL_NAMES:mietlica]"
 
 #: plant_grasses.txt:57
 msgctxt "PLANT:RYEGRASS"
@@ -52272,7 +52274,7 @@ msgstr ""
 #: plant_new_trees.txt:2884
 msgctxt "PLANT:PLUM"
 msgid "[SEED:plum pit:plum pits:]"
-msgstr "[SEED:nasionko śliwy:nasiona śliwy]"
+msgstr "[SEED:nasionko śliwy:nasiona śliwy:]"
 
 #: plant_new_trees.txt:2898
 msgctxt "PLANT:PLUM"
@@ -52567,7 +52569,7 @@ msgstr "[NAME_PLURAL:strongowce cukrowe]"
 #: plant_standard.txt:160
 msgctxt "PLANT:POD_SWEET"
 msgid "[ADJ:sweet pod]"
-msgstr "[ADJ:strongowiec cukrowy"
+msgstr "[ADJ:strongowiec cukrowy]"
 
 #: plant_standard.txt:170
 msgctxt "PLANT:POD_SWEET"
@@ -55608,7 +55610,7 @@ msgstr ""
 #: reaction_other.txt:242
 msgctxt "REACTION:PRESS_HONEYCOMB"
 msgid "[NAME:press honey from honeycomb]"
-msgstr "[NAME:wyciśnij miód z plastra miodu] "
+msgstr "[NAME:wyciśnij miód z plastra miodu]"
 
 #: reaction_other.txt:244
 msgctxt "REACTION:PRESS_HONEYCOMB"
@@ -55818,7 +55820,7 @@ msgstr "[NAME:zrób pergamin]"
 #: reaction_other.txt:364
 msgctxt "REACTION:MAKE_PARCHMENT"
 msgid "[REAGENT:milk of lime:]"
-msgstr "[REAGENT:mleko wapienne]"
+msgstr "[REAGENT:mleko wapienne:]"
 
 #: reaction_other.txt:365
 msgctxt "REACTION:MAKE_PARCHMENT"
@@ -55865,7 +55867,7 @@ msgstr ""
 #: reaction_other.txt:383
 msgctxt "REACTION:MAKE_QUIRE"
 msgid "[NAME:make quire]"
-msgstr "[NAME:zrób libre:]"
+msgstr "[NAME:zrób libre]"
 
 #: reaction_other.txt:385
 msgctxt "REACTION:MAKE_QUIRE"
@@ -56158,7 +56160,7 @@ msgstr "[PRODUCT_TOKEN:korona]"
 #: reaction_other.txt:526
 msgctxt "REACTION:CARVE_BONE_GEM"
 msgid "[NAME:carve bone cabochon]"
-msgstr "[NAME:wyrzęźbiony z kości kaboszon] "
+msgstr "[NAME:wyrzęźbiony z kości kaboszon]"
 
 #: reaction_other.txt:528
 msgctxt "REACTION:CARVE_BONE_GEM"
@@ -56183,7 +56185,7 @@ msgstr "[PRODUCT_TOKEN:kamień szlachetny]"
 #: reaction_other.txt:538
 msgctxt "REACTION:CARVE_WOODEN_HELVE"
 msgid "[NAME:carve wooden helve from branch]"
-msgstr "[NAME: wyrzeźbiony drewniany trzonek z gałęzi] "
+msgstr "[NAME: wyrzeźbiony drewniany trzonek z gałęzi]"
 
 #: reaction_other.txt:540
 msgctxt "REACTION:CARVE_WOODEN_HELVE"
