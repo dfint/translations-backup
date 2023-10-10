@@ -8,7 +8,6 @@
 # Szymon Łuczak, 2022
 # Krzysztof Bienias <krzysztof.bienias.kb@gmail.com>, 2022
 # Paronskaft, 2023
-# Maciej Dembiński, 2023
 # error Studio <maselko21u@gmail.com>, 2023
 # Art S, 2023
 # Mateusz D, 2023
@@ -18,10 +17,11 @@
 # insolor, 2023
 # Transifex Bot <>, 2023
 # Imię aa <desi123@op.pl>, 2023
+# Maciej Dembiński, 2023
 # 
 msgid ""
 msgstr ""
-"Last-Translator: Imię aa <desi123@op.pl>, 2023\n"
+"Last-Translator: Maciej Dembiński, 2023\n"
 "Language-Team: Polish (https://app.transifex.com/dwarf-fortress-translation/teams/22396/pl/)\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -174,7 +174,7 @@ msgstr "Pisz na temat"
 
 #: stringdump_steam_50_11.txt:81
 msgid "Copy"
-msgstr "Copy"
+msgstr "Kopiuj"
 
 #: stringdump_steam_50_11.txt:82
 msgid "Meditate on "
@@ -1678,7 +1678,7 @@ msgstr ""
 
 #: stringdump_steam_50_11.txt:458
 msgid "Tabs"
-msgstr ""
+msgstr "Zakładki"
 
 #: stringdump_steam_50_11.txt:459
 msgid "All"
@@ -8743,7 +8743,7 @@ msgid ""
 "Click [C:5:0:1]Workshops[C:7:0:0] -> [C:5:0:1]Carpenter[C:7:0:0] and place "
 "the shop in an empty area on the surface or underground."
 msgstr ""
-"Kliknij [C:5:0:1]Warsztaty[C:7:0:0] -> [C:5:0:1]Cieśla[C:7:0:0] i umieść "
+"Kliknij [C:5:0:1]Warsztaty[C:7:0:0] -> [C:5:0:1]Stolarz[C:7:0:0] i umieść "
 "warsztat w pustej przestrzeni na powierzchni lub pod ziemią."
 
 #: stringdump_steam_50_11.txt:2230
@@ -16284,7 +16284,7 @@ msgstr "co najwyżej"
 
 #: stringdump_steam_50_11.txt:4114
 msgid "greater than"
-msgstr "lepszy niż"
+msgstr "więcej niż"
 
 #: stringdump_steam_50_11.txt:4115
 msgid "less than"
@@ -17311,7 +17311,7 @@ msgstr "Łuczarz"
 
 #: stringdump_steam_50_11.txt:4409
 msgid "Carpenter"
-msgstr "Cieśla"
+msgstr "Stolarz"
 
 #: stringdump_steam_50_11.txt:4410
 msgid "Crafts"
@@ -38638,7 +38638,7 @@ msgstr ""
 
 #: stringdump_steam_50_11.txt:9606
 msgid " is okay."
-msgstr ""
+msgstr "Jest ok."
 
 #: stringdump_steam_50_11.txt:9607
 msgid " is fine."
@@ -39988,11 +39988,11 @@ msgstr ""
 
 #: stringdump_steam_50_11.txt:9985
 msgid "I am a prisoner of "
-msgstr ""
+msgstr "Jestem więźniem "
 
 #: stringdump_steam_50_11.txt:9986
 msgid "I am a slave of "
-msgstr ""
+msgstr "Jestem niewolnikiem "
 
 #: stringdump_steam_50_11.txt:9987
 msgid "Please help me to escape from this place."
@@ -40065,7 +40065,7 @@ msgstr ""
 
 #: stringdump_steam_50_11.txt:10004
 msgid "There is a temple"
-msgstr ""
+msgstr "Tam jest świątynia"
 
 #: stringdump_steam_50_11.txt:10005
 msgid "There is a great keep there"
@@ -40093,7 +40093,7 @@ msgstr ""
 
 #: stringdump_steam_50_11.txt:10011
 msgid "!  It's terrifying."
-msgstr ""
+msgstr "! To przerażające."
 
 #: stringdump_steam_50_11.txt:10012
 msgid " have been known to hunt out there."
@@ -40109,7 +40109,7 @@ msgstr ""
 
 #: stringdump_steam_50_11.txt:10015
 msgid "I am the "
-msgstr ""
+msgstr "Jestem "
 
 #: stringdump_steam_50_11.txt:10016
 msgid " STORKIS "
@@ -49918,12 +49918,18 @@ msgid ""
 "finally ended.  Your party of seven is to make an outpost for the glory of "
 "all of "
 msgstr ""
+" Posterunek:[C:7:0:0]  Dotarliście. Po podróży z górskich domów do groźnej "
+"dziczy, Twoja trudna wędrówka wreszcie się zakończyła. Twoja siedmioosobowa "
+"grupa ma stworzyć placówkę na chwałę całego "
 
 #: stringdump_steam_50_11.txt:15340
 msgid ""
 "There are almost no supplies left, but with stout labor comes sustenance.  "
 "Whether by bolt, plow or hook, provide for your "
 msgstr ""
+"Nie macie już prawie żadnych zapasów, ale dzięki ciężkiej pracy możecie "
+"zapewnić sobie utrzymanie. Czy to za pomocą śruby, pługa, czy haka, zapewnij"
+" swoim "
 
 #: stringdump_steam_50_11.txt:15341
 msgid "charges"
@@ -49934,14 +49940,17 @@ msgid ""
 ".  You are expecting a supply caravan just before winter entombs you, but it"
 " is Spring now.  Enough time to delve secure lodgings, ere the "
 msgstr ""
+". Spodziewasz się karawany z zaopatrzeniem tuż przed tym, zanim zima cię "
+"pogrzebie, ale teraz jest wiosna. Wystarczająco dużo czasu, aby znaleźć "
+"bezpieczne kwatery, bo"
 
 #: stringdump_steam_50_11.txt:15343
 msgid " get hungry. "
-msgstr ""
+msgstr " zgłodniały."
 
 #: stringdump_steam_50_11.txt:15344
 msgid "A new chapter of dwarven history begins here at this place, "
-msgstr ""
+msgstr "W tym miejscu rozpoczyna się nowy rozdział historii krasnoludów, "
 
 #: stringdump_steam_50_11.txt:15345
 msgid "\".  [C:2:0:1]Strike the earth![C:7:0:0]"
@@ -50307,11 +50316,11 @@ msgstr ""
 
 #: stringdump_steam_50_11.txt:15760
 msgid "commander"
-msgstr ""
+msgstr " dowódca"
 
 #: stringdump_steam_50_11.txt:15761
 msgid "commanders"
-msgstr ""
+msgstr "dowódcy"
 
 #: stringdump_steam_50_11.txt:15762
 msgid "ringleader"
@@ -52422,7 +52431,7 @@ msgstr ""
 
 #: stringdump_steam_50_11.txt:16399
 msgid "carpenter's shop sign"
-msgstr ""
+msgstr "szyld sklepu stolarskiego"
 
 #: stringdump_steam_50_11.txt:16400
 msgid "stone furniture shop sign"
@@ -52522,7 +52531,7 @@ msgstr ""
 
 #: stringdump_steam_50_11.txt:16424
 msgid "prepared meal"
-msgstr ""
+msgstr "przygotowany posiłek"
 
 #: stringdump_steam_50_11.txt:16425
 msgid "preserved "
@@ -55358,7 +55367,7 @@ msgstr ""
 
 #: stringdump_steam_50_11.txt:17249
 msgid " prepared by "
-msgstr ""
+msgstr "przygotowane przez "
 
 #: stringdump_steam_50_11.txt:17250
 msgid "the masterful engraving"
@@ -55582,7 +55591,7 @@ msgstr ""
 
 #: stringdump_steam_50_11.txt:17305
 msgid " Winter"
-msgstr ""
+msgstr "Zima"
 
 #: stringdump_steam_50_11.txt:17306
 msgid " Autumn"
@@ -60802,7 +60811,7 @@ msgstr ""
 
 #: stringdump_steam_50_11.txt:18622
 msgid "Golden Age"
-msgstr ""
+msgstr "Złoty Wiek"
 
 #: stringdump_steam_50_11.txt:18623
 msgid "Age of Death"
@@ -62060,7 +62069,7 @@ msgstr ""
 
 #: stringdump_steam_50_11.txt:20265
 msgid " masterfully prepared"
-msgstr ""
+msgstr "mistrzowsko przygotowany"
 
 #: stringdump_steam_50_11.txt:20266
 msgid " exceptional prepared"
@@ -67480,7 +67489,7 @@ msgstr ""
 
 #: stringdump_steam_50_11.txt:23754
 msgid "Use Name Seed"
-msgstr ""
+msgstr "Użyj ziarna:"
 
 #: stringdump_steam_50_11.txt:23755
 msgid "Use Creature Seed"
@@ -67496,7 +67505,7 @@ msgstr ""
 
 #: stringdump_steam_50_11.txt:23758
 msgid "End Year"
-msgstr ""
+msgstr "Koniec roku"
 
 #: stringdump_steam_50_11.txt:23759
 msgid "Population Cap After Civ Creation"
@@ -67532,7 +67541,7 @@ msgstr ""
 
 #: stringdump_steam_50_11.txt:23767
 msgid "Elevation"
-msgstr ""
+msgstr "Poziom "
 
 #: stringdump_steam_50_11.txt:23768
 msgid "Rainfall"
@@ -68016,43 +68025,43 @@ msgstr "Minimalna Liczba Pól o Niskiej Aktywności Wulkanicznej"
 
 #: stringdump_steam_50_11.txt:23890
 msgid "LARGE ISLAND"
-msgstr ""
+msgstr "DUŻA WYSPA"
 
 #: stringdump_steam_50_11.txt:23891
 msgid "LARGE REGION"
-msgstr ""
+msgstr "DUŻY REGION"
 
 #: stringdump_steam_50_11.txt:23892
 msgid "MEDIUM ISLAND"
-msgstr ""
+msgstr "ŚREDNIA WYSPA"
 
 #: stringdump_steam_50_11.txt:23894
 msgid "MEDIUM REGION"
-msgstr ""
+msgstr "ŚREDNI REGION"
 
 #: stringdump_steam_50_11.txt:23895
 msgid "SMALL ISLAND"
-msgstr ""
+msgstr "MAŁA WYSPA"
 
 #: stringdump_steam_50_11.txt:23896
 msgid "SMALL REGION"
-msgstr ""
+msgstr "MAŁY REGION"
 
 #: stringdump_steam_50_11.txt:23897
 msgid "SMALLER ISLAND"
-msgstr ""
+msgstr "MNIEJSZA WYSPA"
 
 #: stringdump_steam_50_11.txt:23898
 msgid "SMALLER REGION"
-msgstr ""
+msgstr "MNIEJSZY REGION"
 
 #: stringdump_steam_50_11.txt:23899
 msgid "POCKET ISLAND"
-msgstr ""
+msgstr "KIESZENIOWA WYSPA"
 
 #: stringdump_steam_50_11.txt:23900
 msgid "POCKET REGION"
-msgstr ""
+msgstr "KIESZENIOWY REGION "
 
 #: stringdump_steam_50_11.txt:23935
 msgid "Attempted to set world gen presets prior to dimensions"
@@ -68532,7 +68541,7 @@ msgstr ""
 
 #: stringdump_steam_50_11.txt:24095
 msgid "Loading data needed to create new world"
-msgstr ""
+msgstr "Ładowanie danych potrzebnych do stworzenia nowego świata"
 
 #: stringdump_steam_50_11.txt:24096
 msgid "Initializing music load..."
@@ -68552,7 +68561,7 @@ msgstr ""
 
 #: stringdump_steam_50_11.txt:24100
 msgid "Back to main menu"
-msgstr ""
+msgstr "Powrót do menu głównego"
 
 #: stringdump_steam_50_11.txt:24101
 msgid "Welcome to the arena!  Here you can test mods or just play around."
@@ -68560,11 +68569,11 @@ msgstr ""
 
 #: stringdump_steam_50_11.txt:24102
 msgid "Creating "
-msgstr ""
+msgstr "Tworzenie "
 
 #: stringdump_steam_50_11.txt:24103
 msgid "Creating the world"
-msgstr ""
+msgstr "Tworzenie nowego świata"
 
 #: stringdump_steam_50_11.txt:24104
 msgid " rejected)"
@@ -68572,35 +68581,35 @@ msgstr ""
 
 #: stringdump_steam_50_11.txt:24105
 msgid "Preparing elevation..."
-msgstr ""
+msgstr "Przygotowywanie poziomów..."
 
 #: stringdump_steam_50_11.txt:24106
 msgid "Setting temperature..."
-msgstr ""
+msgstr "Ustawianie temperatury..."
 
 #: stringdump_steam_50_11.txt:24107
 msgid "Running rivers..."
-msgstr ""
+msgstr "Wytyczanie rzek..."
 
 #: stringdump_steam_50_11.txt:24108
 msgid "Forming lakes"
-msgstr ""
+msgstr "Tworzenie jezior"
 
 #: stringdump_steam_50_11.txt:24109
 msgid " and minerals..."
-msgstr ""
+msgstr " i minerałów..."
 
 #: stringdump_steam_50_11.txt:24110
 msgid "Growing vegetation..."
-msgstr ""
+msgstr "Wzrost roślin..."
 
 #: stringdump_steam_50_11.txt:24111
 msgid "Verifying terrain..."
-msgstr ""
+msgstr "Weryfikacja terenu..."
 
 #: stringdump_steam_50_11.txt:24112
 msgid "Importing wildlife..."
-msgstr ""
+msgstr "Importowanie dzikiej przyrody..."
 
 #: stringdump_steam_50_11.txt:24113
 msgid "Finished prehistory..."
@@ -68652,7 +68661,7 @@ msgstr ""
 
 #: stringdump_steam_50_11.txt:24125
 msgid ", year "
-msgstr ""
+msgstr ", rok"
 
 #: stringdump_steam_50_11.txt:24126
 msgid "Historical figures: "
@@ -69293,6 +69302,7 @@ msgstr ""
 #: stringdump_steam_50_11.txt:24285
 msgid "Choose or create a parameter set to make a custom world."
 msgstr ""
+"Wybierz lub utwórz zestaw parametrów, aby stworzyć niestandardowy świat."
 
 #: stringdump_steam_50_11.txt:24286
 msgid "New parameter set"
@@ -69304,7 +69314,7 @@ msgstr ""
 
 #: stringdump_steam_50_11.txt:24288
 msgid "Width"
-msgstr ""
+msgstr "szerokość"
 
 #: stringdump_steam_50_11.txt:24289
 msgid "bane"
@@ -69312,7 +69322,7 @@ msgstr "zakała"
 
 #: stringdump_steam_50_11.txt:24290
 msgid "Height"
-msgstr ""
+msgstr "wysokość"
 
 #: stringdump_steam_50_11.txt:24291
 msgid "Random seed"
@@ -83302,7 +83312,7 @@ msgstr ""
 
 #: stringdump_steam_50_11.txt:29639
 msgid "Government"
-msgstr ""
+msgstr "Rząd"
 
 #: stringdump_steam_50_11.txt:29640
 msgid "Beauty"
@@ -89087,7 +89097,7 @@ msgstr ""
 
 #: stringdump_steam_50_11.txt:31220
 msgid "Preparing map..."
-msgstr ""
+msgstr "Przygotowywanie mapy..."
 
 #: stringdump_steam_50_11.txt:31221
 msgid "Could not give dwarf "
@@ -91422,7 +91432,7 @@ msgstr ""
 
 #: stringdump_steam_50_11.txt:37674
 msgid "carpenter"
-msgstr ""
+msgstr "stolarz"
 
 #: stringdump_steam_50_11.txt:37675
 msgid "bowyer"
@@ -93876,7 +93886,7 @@ msgstr "Ziarno historii:"
 
 #: stringdump_steam_50_11.txt:38298
 msgid " Name Seed: "
-msgstr "Nazwa Nasiona:"
+msgstr "Nazwa Ziarna:"
 
 #: stringdump_steam_50_11.txt:38299
 msgid " Creature Seed: "
