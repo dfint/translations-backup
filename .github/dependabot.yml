@@ -1,20 +1,5 @@
 version: 2
 updates:
-  - package-ecosystem: "pip"
-    directory: "/automation"
-    schedule:
-      interval: "monthly"
-    groups:
-      dev-dependencies:
-        patterns:
-          - "pytest*"
-          - "flake8*"
-          - "black"
-          - "isort"
-          - "coverage"
-          - "ruff"
-          - "refurb"
-
   - package-ecosystem: "github-actions"
     directory: "/"
     schedule:
