@@ -2851,12 +2851,12 @@ msgstr ""
 #: body_default.txt:1318
 msgctxt "BODY:1EYE"
 msgid "[BP:EYE:eye:STP]"
-msgstr " [BP:EYE:occhio:STP] "
+msgstr "[BP:EYE:occhio:occhi]"
 
 #: body_default.txt:1322
 msgctxt "BODY:BODY_EYE"
 msgid "[BP:EYE:eye:STP]"
-msgstr " [BP:EYE:occhio:STP] "
+msgstr "[BP:EYE:occhio:occhi]"
 
 #: body_default.txt:1326
 msgctxt "BODY:BODY_EYELID"
@@ -10723,7 +10723,7 @@ msgstr ""
 #: creature_bug_slug_new.txt:1315
 msgctxt "CREATURE:MOON_SNAIL"
 msgid "[PREFSTRING:striking coloration]"
-msgstr ""
+msgstr "[PREFSTRING:colorazione sorprendente]"
 
 #: creature_bug_slug_new.txt:1350
 msgctxt "CREATURE:MOON_SNAIL"
@@ -10779,7 +10779,7 @@ msgstr ""
 #: creature_bug_slug_new.txt:1399
 msgctxt "CREATURE:GIANT_MOON_SNAIL"
 msgid "[PREFSTRING:striking coloration]"
-msgstr ""
+msgstr "[PREFSTRING:colorazione sorprendente]"
 
 #: creature_bug_slug_new.txt:1408
 msgctxt "CREATURE:SPIDER_BROWN_RECLUSE"
@@ -16697,6 +16697,9 @@ msgid ""
 "[DESCRIPTION:A huge, round, hairless river creature.  It is a plant-eating "
 "animal but has long tusks and can be aggressive and deadly if disturbed.]"
 msgstr ""
+"[DESCRIPTION:Una creatura fluviale enorme, tondeggiante e senza peli.  È un "
+"animale che si nutre di piante, ma ha lunghe zanne e può essere aggressivo e"
+" letale se disturbato.]"
 
 #: creature_large_riverlake.txt:7
 msgctxt "CREATURE:HIPPO"
@@ -18282,7 +18285,7 @@ msgstr ""
 #: creature_large_temperate.txt:1719
 msgctxt "CREATURE:PANDA"
 msgid "[PREFSTRING:striking coloration]"
-msgstr ""
+msgstr "[PREFSTRING:colorazione sorprendente]"
 
 #: creature_large_temperate.txt:1720
 msgctxt "CREATURE:PANDA"
@@ -18369,7 +18372,7 @@ msgstr ""
 #: creature_large_temperate.txt:1837
 msgctxt "CREATURE:PANDA, GIGANTIC"
 msgid "[PREFSTRING:striking coloration]"
-msgstr ""
+msgstr "[PREFSTRING:colorazione sorprendente]"
 
 #: creature_large_temperate.txt:1838
 msgctxt "CREATURE:PANDA, GIGANTIC"
@@ -19012,6 +19015,9 @@ msgid ""
 "  It eats plants which it lifts up with its long trunk.  When angered, it "
 "will attack with its long tusks.]"
 msgstr ""
+"[DESCRIPTION:Un mammifero enorme, privo di peli, solito pascolare in gruppo "
+"nelle praterie.  Si nutre di piante che solleva con la lunga proboscide.  "
+"Quando si arrabbia, attacca con le sue lunghe zanne.]"
 
 #: creature_large_tropical.txt:7
 msgctxt "CREATURE:ELEPHANT"
@@ -20597,7 +20603,7 @@ msgstr ""
 #: creature_large_tropical.txt:2401
 msgctxt "CREATURE:GIBBON_WHITE_BROWED"
 msgid "[PREFSTRING:mask-like facial coloration]"
-msgstr ""
+msgstr "[PREFSTRING:colorazione del viso simile a una maschera]"
 
 #: creature_large_tropical.txt:2402
 msgctxt "CREATURE:GIBBON_WHITE_BROWED"
@@ -22286,6 +22292,7 @@ msgstr ""
 msgctxt "CREATURE:CHINCHILLA_MAN"
 msgid "[DESCRIPTION:A hairy person with the head and tail of a chinchilla.]"
 msgstr ""
+"[DESCRIPTION:Una persona pelosa con la testa e la coda di un cincillà.]"
 
 #: creature_mountain_new.txt:297
 msgctxt "CREATURE:GIANT_CHINCHILLA"
@@ -28855,12 +28862,12 @@ msgstr "[APP_MOD_NOUN:ciglia:PLURAL]"
 #: creature_standard.txt:392
 msgctxt "CREATURE:DWARF"
 msgid "[APP_MOD_NOUN:hair:SINGULAR]"
-msgstr ""
+msgstr "[APP_MOD_NOUN:capelli:capello]"
 
 #: creature_standard.txt:409
 msgctxt "CREATURE:DWARF"
 msgid "[TSU_NOUN:hair:SINGULAR]"
-msgstr ""
+msgstr "[TSU_NOUN:capelli:capello]"
 
 #: creature_standard.txt:414
 msgctxt "CREATURE:DWARF"
@@ -29075,12 +29082,12 @@ msgstr "[APP_MOD_NOUN:ciglia:PLURAL]"
 #: creature_standard.txt:696
 msgctxt "CREATURE:HUMAN"
 msgid "[APP_MOD_NOUN:hair:SINGULAR]"
-msgstr ""
+msgstr "[APP_MOD_NOUN:capelli:capello]"
 
 #: creature_standard.txt:708
 msgctxt "CREATURE:HUMAN"
 msgid "[TSU_NOUN:hair:SINGULAR]"
-msgstr ""
+msgstr "[TSU_NOUN:capelli:capello]"
 
 #: creature_standard.txt:712
 msgctxt "CREATURE:HUMAN"
@@ -29297,12 +29304,12 @@ msgstr "[APP_MOD_NOUN:ciglia:PLURAL]"
 #: creature_standard.txt:986
 msgctxt "CREATURE:ELF"
 msgid "[APP_MOD_NOUN:hair:SINGULAR]"
-msgstr ""
+msgstr "[APP_MOD_NOUN:capelli:capello]"
 
 #: creature_standard.txt:990
 msgctxt "CREATURE:ELF"
 msgid "[TSU_NOUN:hair:SINGULAR]"
-msgstr ""
+msgstr "[TSU_NOUN:capelli:capello]"
 
 #: creature_standard.txt:994
 msgctxt "CREATURE:ELF"
@@ -29448,7 +29455,7 @@ msgstr ""
 #: creature_standard.txt:1210
 msgctxt "CREATURE:GOBLIN"
 msgid "[MANNERISM_HAIR:hair]"
-msgstr ""
+msgstr "[MANNERISM_HAIR:capelli]"
 
 #: creature_standard.txt:1211
 msgctxt "CREATURE:GOBLIN"
@@ -29513,12 +29520,12 @@ msgstr "[APP_MOD_NOUN:ciglia:PLURAL]"
 #: creature_standard.txt:1260
 msgctxt "CREATURE:GOBLIN"
 msgid "[APP_MOD_NOUN:hair:SINGULAR]"
-msgstr ""
+msgstr "[APP_MOD_NOUN:capelli:capello]"
 
 #: creature_standard.txt:1264
 msgctxt "CREATURE:GOBLIN"
 msgid "[TSU_NOUN:hair:SINGULAR]"
-msgstr ""
+msgstr "[TSU_NOUN:capelli:capello]"
 
 #: creature_standard.txt:1268
 msgctxt "CREATURE:GOBLIN"
@@ -29665,7 +29672,7 @@ msgstr ""
 #: creature_standard.txt:1479
 msgctxt "CREATURE:KOBOLD"
 msgid "[MANNERISM_HAIR:hair]"
-msgstr ""
+msgstr "[MANNERISM_HAIR:capelli]"
 
 #: creature_standard.txt:1480
 msgctxt "CREATURE:KOBOLD"
@@ -30413,12 +30420,12 @@ msgstr "[APP_MOD_NOUN:ciglia:PLURAL]"
 #: creature_standard.txt:2888
 msgctxt "CREATURE:GIANT"
 msgid "[APP_MOD_NOUN:hair:SINGULAR]"
-msgstr ""
+msgstr "[APP_MOD_NOUN:capelli:capello]"
 
 #: creature_standard.txt:2900
 msgctxt "CREATURE:GIANT"
 msgid "[TSU_NOUN:hair:SINGULAR]"
-msgstr ""
+msgstr "[TSU_NOUN:capelli:capello]"
 
 #: creature_standard.txt:2904
 msgctxt "CREATURE:GIANT"
@@ -30550,12 +30557,12 @@ msgstr "[APP_MOD_NOUN:ciglia:PLURAL]"
 #: creature_standard.txt:3135
 msgctxt "CREATURE:CYCLOPS"
 msgid "[APP_MOD_NOUN:hair:SINGULAR]"
-msgstr ""
+msgstr "[APP_MOD_NOUN:capelli:capello]"
 
 #: creature_standard.txt:3147
 msgctxt "CREATURE:CYCLOPS"
 msgid "[TSU_NOUN:hair:SINGULAR]"
-msgstr ""
+msgstr "[TSU_NOUN:capelli:capello]"
 
 #: creature_standard.txt:3151
 msgctxt "CREATURE:CYCLOPS"
@@ -30685,12 +30692,12 @@ msgstr "[APP_MOD_NOUN:ciglia:PLURAL]"
 #: creature_standard.txt:3388
 msgctxt "CREATURE:ETTIN"
 msgid "[APP_MOD_NOUN:hair:SINGULAR]"
-msgstr ""
+msgstr "[APP_MOD_NOUN:capelli:capello]"
 
 #: creature_standard.txt:3400
 msgctxt "CREATURE:ETTIN"
 msgid "[TSU_NOUN:hair:SINGULAR]"
-msgstr ""
+msgstr "[TSU_NOUN:capelli:capello]"
 
 #: creature_standard.txt:3404
 msgctxt "CREATURE:ETTIN"
@@ -31113,7 +31120,7 @@ msgstr "[APP_MOD_NOUN:ciglia:PLURAL]"
 #: creature_standard.txt:4196
 msgctxt "CREATURE:FAIRY"
 msgid "[APP_MOD_NOUN:hair:SINGULAR]"
-msgstr ""
+msgstr "[APP_MOD_NOUN:capelli:capello]"
 
 #: creature_standard.txt:4200
 msgctxt "CREATURE:FAIRY"
@@ -31215,7 +31222,7 @@ msgstr "[APP_MOD_NOUN:ciglia:PLURAL]"
 #: creature_standard.txt:4395
 msgctxt "CREATURE:PIXIE"
 msgid "[APP_MOD_NOUN:hair:SINGULAR]"
-msgstr ""
+msgstr "[APP_MOD_NOUN:capelli:capello]"
 
 #: creature_standard.txt:4399
 msgctxt "CREATURE:PIXIE"
@@ -31783,12 +31790,12 @@ msgstr "[APP_MOD_NOUN:ciglia:PLURAL]"
 #: creature_standard.txt:5376
 msgctxt "CREATURE:MERPERSON"
 msgid "[APP_MOD_NOUN:hair:SINGULAR]"
-msgstr ""
+msgstr "[APP_MOD_NOUN:capelli:capello]"
 
 #: creature_standard.txt:5388
 msgctxt "CREATURE:MERPERSON"
 msgid "[TSU_NOUN:hair:SINGULAR]"
-msgstr ""
+msgstr "[TSU_NOUN:capelli:capello]"
 
 #: creature_standard.txt:5392
 msgctxt "CREATURE:MERPERSON"
@@ -38182,6 +38189,8 @@ msgid ""
 "[DESCRIPTION:A medium-sized mammalian predator.  It is known by the tell-"
 "tale tufts of hair on the tips of its ears.]"
 msgstr ""
+"[DESCRIPTION:Un mammifero predatore di medie dimensioni. È noto per i ciuffi"
+" di peli sulla punta delle orecchie.]"
 
 #: creature_tundra_taiga_new.txt:164
 msgctxt "CREATURE:LYNX"
@@ -44536,7 +44545,7 @@ msgstr ""
 #: plant_crops.txt:747
 msgctxt "PLANT:BITTER_VETCH"
 msgid "[GROWTH_NAME:bitter vetch flower:STP]"
-msgstr "[GROWTH_NAME:fiore di vecciola:STP]"
+msgstr "[GROWTH_NAME:fiore di vecciola:fiori di vecciola]"
 
 #: plant_crops.txt:753
 msgctxt "PLANT:BITTER_VETCH"
@@ -44711,22 +44720,22 @@ msgstr ""
 #: plant_crops.txt:938
 msgctxt "PLANT:RED_SPINACH"
 msgid "[NAME:red spinach]"
-msgstr ""
+msgstr "[NAME:spinacio rosso]"
 
 #: plant_crops.txt:938
 msgctxt "PLANT:RED_SPINACH"
 msgid "[NAME_PLURAL:red spinach]"
-msgstr ""
+msgstr "[NAME_PLURAL:spinaci rossi]"
 
 #: plant_crops.txt:938
 msgctxt "PLANT:RED_SPINACH"
 msgid "[ADJ:red spinach]"
-msgstr ""
+msgstr "[ADJ:spinaci rossi]"
 
 #: plant_crops.txt:952
 msgctxt "PLANT:RED_SPINACH"
 msgid "[SEED:red spinach seed:red spinach seeds:]"
-msgstr ""
+msgstr "[SEED:seme di spinacio rosso:semi di spinacio rosso:]"
 
 #: plant_crops.txt:962
 msgctxt "PLANT:RED_SPINACH"
@@ -44736,12 +44745,14 @@ msgstr ""
 #: plant_crops.txt:964
 msgctxt "PLANT:RED_SPINACH"
 msgid "[GROWTH_NAME:red spinach leaf:red spinach leaves]"
-msgstr ""
+msgstr "[GROWTH_NAME:foglia di spinacio rosso:foglie di spinacio rosso]"
 
 #: plant_crops.txt:969
 msgctxt "PLANT:RED_SPINACH"
 msgid "[GROWTH_NAME:red spinach inflorescence:STP]"
 msgstr ""
+"[GROWTH_NAME:infiorescenza di spinacio rosso:infiorescenze di spinacio "
+"rosso]"
 
 #: plant_crops.txt:976
 msgctxt "PLANT:ELEPHANT-HEAD_AMARANTH"
@@ -44766,7 +44777,7 @@ msgstr ""
 #: plant_crops.txt:1001
 msgctxt "PLANT:ELEPHANT-HEAD_AMARANTH"
 msgid "[PREFSTRING:leaf coloration]"
-msgstr ""
+msgstr "[PREFSTRING:colorazione delle foglie]"
 
 #: plant_crops.txt:1003
 msgctxt "PLANT:ELEPHANT-HEAD_AMARANTH"
@@ -47032,22 +47043,22 @@ msgstr ""
 #: plant_garden.txt:1550
 msgctxt "PLANT:SPINACH"
 msgid "[NAME:spinach]"
-msgstr ""
+msgstr "[NAME:spinacio]"
 
 #: plant_garden.txt:1550
 msgctxt "PLANT:SPINACH"
 msgid "[NAME_PLURAL:spinach]"
-msgstr ""
+msgstr "[NAME_PLURAL:spinaci]"
 
 #: plant_garden.txt:1550
 msgctxt "PLANT:SPINACH"
 msgid "[ADJ:spinach]"
-msgstr ""
+msgstr "[ADJ:spinacio]"
 
 #: plant_garden.txt:1568
 msgctxt "PLANT:SPINACH"
 msgid "[SEED:spinach seed:spinach seeds:]"
-msgstr ""
+msgstr "[SEED:seme di spinacio:semi di spinacio:]"
 
 #: plant_garden.txt:1571
 msgctxt "PLANT:SPINACH"
@@ -47057,12 +47068,12 @@ msgstr ""
 #: plant_garden.txt:1573
 msgctxt "PLANT:SPINACH"
 msgid "[GROWTH_NAME:spinach leaf:spinach leaves]"
-msgstr ""
+msgstr "[GROWTH_NAME:foglia di spinacio:foglie di spinacio]"
 
 #: plant_garden.txt:1578
 msgctxt "PLANT:SPINACH"
 msgid "[GROWTH_NAME:spinach flower:STP]"
-msgstr "[GROWTH_NAME:spinach fiore di:STP]"
+msgstr "[GROWTH_NAME:fiore di spinacio:fiori di spinacio]"
 
 #: plant_garden.txt:1585
 msgctxt "PLANT:SQUASH"
@@ -47347,7 +47358,7 @@ msgstr ""
 #: plant_garden.txt:1877
 msgctxt "PLANT:TURNIP"
 msgid "[GROWTH_NAME:turnip flower:STP]"
-msgstr "[GROWTH_NAME:turnip fiore di:STP]"
+msgstr "[GROWTH_NAME:fiore di rapa:STP]"
 
 #: plant_garden.txt:1884
 msgctxt "PLANT:URAD_BEAN"
@@ -47382,7 +47393,7 @@ msgstr ""
 #: plant_garden.txt:1911
 msgctxt "PLANT:URAD_BEAN"
 msgid "[GROWTH_NAME:urad bean flower:STP]"
-msgstr "[GROWTH_NAME:urad bean fiore di:STP]"
+msgstr "[GROWTH_NAME:fiore di fagiolo mungo nero:STP]"
 
 #: plant_garden.txt:1917
 msgctxt "PLANT:URAD_BEAN"
@@ -47422,12 +47433,12 @@ msgstr ""
 #: plant_garden.txt:1956
 msgctxt "PLANT:WATERMELON"
 msgid "[GROWTH_NAME:watermelon flower:STP]"
-msgstr "[GROWTH_NAME:watermelon fiore di:STP]"
+msgstr "[GROWTH_NAME:fiore di anguria:STP]"
 
 #: plant_garden.txt:1962
 msgctxt "PLANT:WATERMELON"
 msgid "[GROWTH_NAME:watermelon:STP]"
-msgstr ""
+msgstr "[GROWTH_NAME:anguria:STP]"
 
 #: plant_garden.txt:1967
 msgctxt "PLANT:WATERMELON"
@@ -50007,12 +50018,12 @@ msgstr ""
 #: plant_new_trees.txt:2030
 msgctxt "PLANT:ALMOND"
 msgid "[GROWTH_NAME:almond flower:STP]"
-msgstr "[GROWTH_NAME:almond fiore di:STP]"
+msgstr "[GROWTH_NAME:fiore di mandorlo:STP]"
 
 #: plant_new_trees.txt:2037
 msgctxt "PLANT:ALMOND"
 msgid "[GROWTH_NAME:almond:STP]"
-msgstr ""
+msgstr "[GROWTH_NAME:mandorla:STP]"
 
 #: plant_new_trees.txt:2046
 msgctxt "PLANT:APPLE"
@@ -50072,12 +50083,12 @@ msgstr ""
 #: plant_new_trees.txt:2115
 msgctxt "PLANT:APPLE"
 msgid "[GROWTH_NAME:apple flower:STP]"
-msgstr "[GROWTH_NAME:apple fiore di:STP]"
+msgstr "[GROWTH_NAME:fiore di melo:STP]"
 
 #: plant_new_trees.txt:2122
 msgctxt "PLANT:APPLE"
 msgid "[GROWTH_NAME:apple:STP]"
-msgstr ""
+msgstr "[GROWTH_NAME:mela:STP]"
 
 #: plant_new_trees.txt:2132
 msgctxt "PLANT:APRICOT"
@@ -50137,12 +50148,12 @@ msgstr ""
 #: plant_new_trees.txt:2201
 msgctxt "PLANT:APRICOT"
 msgid "[GROWTH_NAME:apricot flower:STP]"
-msgstr "[GROWTH_NAME:apricot fiore di:STP]"
+msgstr "[GROWTH_NAME:fiore di albicocco:STP]"
 
 #: plant_new_trees.txt:2208
 msgctxt "PLANT:APRICOT"
 msgid "[GROWTH_NAME:apricot:STP]"
-msgstr ""
+msgstr "[GROWTH_NAME:albicocca:STP]"
 
 #: plant_new_trees.txt:2218
 msgctxt "PLANT:BAYBERRY"
@@ -50277,7 +50288,7 @@ msgstr ""
 #: plant_new_trees.txt:2375
 msgctxt "PLANT:CHERRY"
 msgid "[GROWTH_NAME:cherry flower:STP]"
-msgstr "[GROWTH_NAME:cherry fiore di:STP]"
+msgstr "[GROWTH_NAME:fiore di ciliegio:STP]"
 
 #: plant_new_trees.txt:2383
 msgctxt "PLANT:CHERRY"
@@ -50442,7 +50453,7 @@ msgstr ""
 #: plant_new_trees.txt:2591
 msgctxt "PLANT:PEACH"
 msgid "[GROWTH_NAME:peach flower:STP]"
-msgstr "[GROWTH_NAME:peach fiore di:STP]"
+msgstr "[GROWTH_NAME:fiore di pesca:STP]"
 
 #: plant_new_trees.txt:2598
 msgctxt "PLANT:PEACH"
@@ -50507,12 +50518,12 @@ msgstr ""
 #: plant_new_trees.txt:2677
 msgctxt "PLANT:PEAR"
 msgid "[GROWTH_NAME:pear flower:STP]"
-msgstr "[GROWTH_NAME:pear fiore di:STP]"
+msgstr "[GROWTH_NAME:fiore di pero:STP]"
 
 #: plant_new_trees.txt:2684
 msgctxt "PLANT:PEAR"
 msgid "[GROWTH_NAME:pear:STP]"
-msgstr ""
+msgstr "[GROWTH_NAME:pera:STP]"
 
 #: plant_new_trees.txt:2694
 msgctxt "PLANT:PECAN"
@@ -50622,12 +50633,12 @@ msgstr ""
 #: plant_new_trees.txt:2829
 msgctxt "PLANT:PERSIMMON"
 msgid "[GROWTH_NAME:persimmon flower:STP]"
-msgstr "[GROWTH_NAME:persimmon fiore di:STP]"
+msgstr "[GROWTH_NAME:fiore di caco:STP]"
 
 #: plant_new_trees.txt:2836
 msgctxt "PLANT:PERSIMMON"
 msgid "[GROWTH_NAME:persimmon:STP]"
-msgstr ""
+msgstr "[GROWTH_NAME:cachi:STP]"
 
 #: plant_new_trees.txt:2846
 msgctxt "PLANT:PLUM"
@@ -50687,12 +50698,12 @@ msgstr ""
 #: plant_new_trees.txt:2915
 msgctxt "PLANT:PLUM"
 msgid "[GROWTH_NAME:plum flower:STP]"
-msgstr "[GROWTH_NAME:plum fiore di:STP]"
+msgstr "[GROWTH_NAME:fiore di prugno:STP]"
 
 #: plant_new_trees.txt:2922
 msgctxt "PLANT:PLUM"
 msgid "[GROWTH_NAME:plum:STP]"
-msgstr ""
+msgstr "[GROWTH_NAME:prugna:STP]"
 
 #: plant_new_trees.txt:2932
 msgctxt "PLANT:SAND_PEAR"
@@ -50752,12 +50763,12 @@ msgstr ""
 #: plant_new_trees.txt:3001
 msgctxt "PLANT:SAND_PEAR"
 msgid "[GROWTH_NAME:sand pear flower:STP]"
-msgstr "[GROWTH_NAME:sand pear fiore di:STP]"
+msgstr "[GROWTH_NAME:fiore di nashi:STP]"
 
 #: plant_new_trees.txt:3008
 msgctxt "PLANT:SAND_PEAR"
 msgid "[GROWTH_NAME:sand pear:STP]"
-msgstr ""
+msgstr "[GROWTH_NAME:pera-mela:STP]"
 
 #: plant_new_trees.txt:3018
 msgctxt "PLANT:WALNUT"
@@ -50807,12 +50818,12 @@ msgstr ""
 #: plant_new_trees.txt:3076
 msgctxt "PLANT:WALNUT"
 msgid "[GROWTH_NAME:walnut flower cluster:STP]"
-msgstr "[GROWTH_NAME:walnut fiore di cluster:STP]"
+msgstr "[GROWTH_NAME:grappolo di fiori di noce:STP]"
 
 #: plant_new_trees.txt:3083
 msgctxt "PLANT:WALNUT"
 msgid "[GROWTH_NAME:walnut:STP]"
-msgstr ""
+msgstr "[GROWTH_NAME:noce:STP]"
 
 #: plant_standard.txt:6
 msgctxt "PLANT:MUSHROOM_HELMET_PLUMP"
@@ -51767,7 +51778,7 @@ msgstr ""
 #: plant_standard.txt:872
 msgctxt "PLANT:MANGROVE"
 msgid "[GROWTH_NAME:mangrove flower:STP]"
-msgstr "[GROWTH_NAME:mangrove fiore di:STP]"
+msgstr "[GROWTH_NAME:fiore di mangrovia:STP]"
 
 #: plant_standard.txt:879
 msgctxt "PLANT:MANGROVE"
@@ -51807,7 +51818,7 @@ msgstr ""
 #: plant_standard.txt:929
 msgctxt "PLANT:SAGUARO"
 msgid "[GROWTH_NAME:saguaro flower:STP]"
-msgstr "[GROWTH_NAME:saguaro fiore di:STP]"
+msgstr "[GROWTH_NAME:fiore di saguaro:STP]"
 
 #: plant_standard.txt:936
 msgctxt "PLANT:SAGUARO"
@@ -51852,7 +51863,7 @@ msgstr ""
 #: plant_standard.txt:981
 msgctxt "PLANT:PINE"
 msgid "[GROWTH_NAME:pine needle:STP]"
-msgstr ""
+msgstr "[GROWTH_NAME:ago di pino:STP]"
 
 #: plant_standard.txt:990
 msgctxt "PLANT:PINE"
@@ -51947,7 +51958,7 @@ msgstr ""
 #: plant_standard.txt:1101
 msgctxt "PLANT:OAK"
 msgid "[PREFSTRING:autumn coloration]"
-msgstr ""
+msgstr "[PREFSTRING:colorazione autunnale]"
 
 #: plant_standard.txt:1106
 msgctxt "PLANT:OAK"
@@ -51957,7 +51968,7 @@ msgstr ""
 #: plant_standard.txt:1118
 msgctxt "PLANT:OAK"
 msgid "[GROWTH_NAME:oak flower cluster:STP]"
-msgstr "[GROWTH_NAME:oak fiore di cluster:STP]"
+msgstr "[GROWTH_NAME:grappolo di fiori di quercia:STP]"
 
 #: plant_standard.txt:1125
 msgctxt "PLANT:OAK"
@@ -52002,7 +52013,7 @@ msgstr ""
 #: plant_standard.txt:1179
 msgctxt "PLANT:MAHOGANY"
 msgid "[GROWTH_NAME:mahogany flower:STP]"
-msgstr "[GROWTH_NAME:mahogany fiore di:STP]"
+msgstr "[GROWTH_NAME:fiore di mogano:STP]"
 
 #: plant_standard.txt:1186
 msgctxt "PLANT:MAHOGANY"
@@ -52132,7 +52143,7 @@ msgstr ""
 #: plant_standard.txt:1355
 msgctxt "PLANT:MAPLE"
 msgid "[PREFSTRING:autumn coloration]"
-msgstr ""
+msgstr "[PREFSTRING:colorazione autunnale]"
 
 #: plant_standard.txt:1363
 msgctxt "PLANT:MAPLE"
@@ -52652,7 +52663,7 @@ msgstr ""
 #: plant_standard.txt:1947
 msgctxt "PLANT:CHESTNUT"
 msgid "[PREFSTRING:autumn coloration]"
-msgstr ""
+msgstr "[PREFSTRING:colorazione autunnale]"
 
 #: plant_standard.txt:1952
 msgctxt "PLANT:CHESTNUT"
@@ -52707,7 +52718,7 @@ msgstr ""
 #: plant_standard.txt:2015
 msgctxt "PLANT:ALDER"
 msgid "[PREFSTRING:autumn coloration]"
-msgstr ""
+msgstr "[PREFSTRING:colorazione autunnale]"
 
 #: plant_standard.txt:2020
 msgctxt "PLANT:ALDER"
@@ -52767,7 +52778,7 @@ msgstr ""
 #: plant_standard.txt:2084
 msgctxt "PLANT:BIRCH"
 msgid "[PREFSTRING:autumn coloration]"
-msgstr ""
+msgstr "[PREFSTRING:colorazione autunnale]"
 
 #: plant_standard.txt:2089
 msgctxt "PLANT:BIRCH"
@@ -52817,7 +52828,7 @@ msgstr ""
 #: plant_standard.txt:2148
 msgctxt "PLANT:ASH"
 msgid "[PREFSTRING:autumn coloration]"
-msgstr ""
+msgstr "[PREFSTRING:colorazione autunnale]"
 
 #: plant_standard.txt:2153
 msgctxt "PLANT:ASH"
@@ -52942,12 +52953,12 @@ msgstr ""
 #: plant_standard.txt:2314
 msgctxt "PLANT:MANGO"
 msgid "[GROWTH_NAME:mango flower:STP]"
-msgstr "[GROWTH_NAME:mango fiore di:STP]"
+msgstr "[GROWTH_NAME:fiore di mango:STP]"
 
 #: plant_standard.txt:2321
 msgctxt "PLANT:MANGO"
 msgid "[GROWTH_NAME:mango:STP]"
-msgstr ""
+msgstr "[GROWTH_NAME:mango:STP]"
 
 #: plant_standard.txt:2331
 msgctxt "PLANT:RUBBER"
@@ -53027,7 +53038,7 @@ msgstr ""
 #: plant_standard.txt:2420
 msgctxt "PLANT:CACAO"
 msgid "[GROWTH_NAME:cacao flower:STP]"
-msgstr "[GROWTH_NAME:cacao fiore di:STP]"
+msgstr "[GROWTH_NAME:fiore di cacao:STP]"
 
 #: plant_standard.txt:2427
 msgctxt "PLANT:CACAO"
@@ -53082,7 +53093,7 @@ msgstr ""
 #: reaction_adv_carpenter.txt:6
 msgctxt "REACTION:MAKE WOODEN CHAIR"
 msgid "[NAME:make wooden chair]"
-msgstr ""
+msgstr "[NAME:crea sedia di legno]"
 
 #: reaction_adv_carpenter.txt:9
 msgctxt "REACTION:MAKE WOODEN CHAIR"
@@ -53097,7 +53108,7 @@ msgstr ""
 #: reaction_adv_carpenter.txt:13
 msgctxt "REACTION:MAKE WOODEN CHAIR"
 msgid "[PRODUCT:100:1:CHAIR:NONE:GET_MATERIAL_FROM_REAGENT:log:]"
-msgstr ""
+msgstr "[PRODUCT:100:1:CHAIR:NONE:GET_MATERIAL_FROM_REAGENT:log:]"
 
 #: reaction_adv_carpenter.txt:14
 msgctxt "REACTION:MAKE WOODEN CHAIR"
