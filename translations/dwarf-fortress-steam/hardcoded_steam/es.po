@@ -29,7 +29,6 @@
 # Transifex Bot <>, 2023
 # Matías “Mato” González <viorelnicolas@gmail.com>, 2023
 # Fernando Moya Ramírez, 2023
-# jaime Dominguez, 2023
 # Na No, 2023
 # José Mouriño, 2023
 # Pedro Jesus Rios Palazon, 2023
@@ -38,10 +37,11 @@
 # Eduardo Gonzalez, 2023
 # BB D, 2023
 # Andres Budde, 2024
+# jaime Dominguez, 2024
 # 
 msgid ""
 msgstr ""
-"Last-Translator: Andres Budde, 2024\n"
+"Last-Translator: jaime Dominguez, 2024\n"
 "Language-Team: Spanish (https://app.transifex.com/dwarf-fortress-translation/teams/22396/es/)\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -11680,7 +11680,7 @@ msgstr "Símbolo del grupo"
 
 #: stringdump_steam_50_11.txt:2677
 msgid "Civ commission"
-msgstr ""
+msgstr "Comisión de Civ"
 
 #: stringdump_steam_50_11.txt:2678
 msgid "Civilization symbol"
@@ -11712,7 +11712,7 @@ msgstr "Objeto"
 
 #: stringdump_steam_50_11.txt:2685
 msgid "Artifact"
-msgstr ""
+msgstr "Artefacto"
 
 #: stringdump_steam_50_11.txt:2686
 msgid "Action or relationship"
@@ -12189,19 +12189,19 @@ msgstr "Activar Modo ASCII Clásico"
 
 #: stringdump_steam_50_11.txt:2810
 msgid "Scaling mode"
-msgstr ""
+msgstr "modo de escalado"
 
 #: stringdump_steam_50_11.txt:2811
 msgid "Automatic"
-msgstr ""
+msgstr "Automatico"
 
 #: stringdump_steam_50_11.txt:2812
 msgid "Nearest-neighbor"
-msgstr ""
+msgstr "vecino más cercano"
 
 #: stringdump_steam_50_11.txt:2813
 msgid "Lanczos"
-msgstr ""
+msgstr "Lanczos"
 
 #: stringdump_steam_50_11.txt:2814
 msgid "NO BINDING"
@@ -12217,139 +12217,142 @@ msgstr ""
 
 #: stringdump_steam_50_11.txt:2821
 msgid "Mouse: "
-msgstr ""
+msgstr "Ratón:"
 
 #: stringdump_steam_50_11.txt:2822
 msgid "Autosave frequency"
-msgstr ""
+msgstr "Frecuencia de guardado automático"
 
 #: stringdump_steam_50_11.txt:2823
 msgid "Yearly"
-msgstr ""
+msgstr "Anual"
 
 #: stringdump_steam_50_11.txt:2824
 msgid "Semiannual"
-msgstr ""
+msgstr "Semi anual"
 
 #: stringdump_steam_50_11.txt:2825
 msgid "Seasonal"
-msgstr ""
+msgstr "Estacional"
 
 #: stringdump_steam_50_11.txt:2826
 msgid "Autosave the game after embark"
-msgstr ""
+msgstr "Autoguardar el juego después de embarcar"
 
 #: stringdump_steam_50_11.txt:2827
 msgid "Pause after every autosave"
-msgstr ""
+msgstr "Pausa después de cada guardado automático"
 
 #: stringdump_steam_50_11.txt:2828
 msgid "Pause after loading"
-msgstr ""
+msgstr "Pausa después de cargar"
 
 #: stringdump_steam_50_11.txt:2829
 msgid "Confirmation window for all embarks"
-msgstr ""
+msgstr "Ventana de confirmación para todos los embarques"
 
 #: stringdump_steam_50_11.txt:2830
 msgid "Prepare carefully embark confirmation"
-msgstr ""
+msgstr "Prepare cuidadosamente la confirmación de embarque"
 
 #: stringdump_steam_50_11.txt:2831
 msgid "Never"
-msgstr ""
+msgstr "Nunca"
 
 #: stringdump_steam_50_11.txt:2832
 msgid "If points remain"
-msgstr ""
+msgstr "Si quedan puntos"
 
 #: stringdump_steam_50_11.txt:2833
 msgid "Always"
-msgstr ""
+msgstr "Siempre"
 
 #: stringdump_steam_50_11.txt:2834
 msgid "Show tunnels on world map"
-msgstr ""
+msgstr "Mostrar túneles en el mapa mundial"
 
 #: stringdump_steam_50_11.txt:2835
 msgid "In site finder"
-msgstr ""
+msgstr "En el buscador de sitios"
 
 #: stringdump_steam_50_11.txt:2836
 msgid "Enable temperature"
-msgstr ""
+msgstr "Habilitar temperatura"
 
 #: stringdump_steam_50_11.txt:2837
 msgid "Enable weather"
-msgstr ""
+msgstr "Habilitar clima"
 
 #: stringdump_steam_50_11.txt:2838
 msgid "Enable caveins"
-msgstr ""
+msgstr "Habilitar cavernas"
 
 #: stringdump_steam_50_11.txt:2839
 msgid "Enable artifact moods"
-msgstr ""
+msgstr "Habilitar estados de artefactos"
 
 #: stringdump_steam_50_11.txt:2840
 msgid "Enable testing arena (on next title)"
-msgstr ""
+msgstr "Habilitar área de pruebas (en el próximo título)"
 
 #: stringdump_steam_50_11.txt:2841
 msgid "Walking spreads spatter"
-msgstr ""
+msgstr "Caminar esparce salpicaduras"
 
 #: stringdump_steam_50_11.txt:2842
 msgid "Keyboard cursor enabled"
-msgstr ""
+msgstr "Cursor de teclado habilitado"
 
 #: stringdump_steam_50_11.txt:2843
 msgid "Log world generation map rejects"
-msgstr ""
+msgstr "Registrar rechazos del mapa de generación mundial"
 
 #: stringdump_steam_50_11.txt:2844
 msgid "Enable multithreading (experimental!)"
-msgstr ""
+msgstr "Habilitar multithreading (¡experimental!)"
 
 #: stringdump_steam_50_11.txt:2845
 msgid "Default embark width"
-msgstr ""
+msgstr "Anchura de embarque predeterminada"
 
 #: stringdump_steam_50_11.txt:2846
 msgid "Default embark height"
-msgstr ""
+msgstr "Altura de embarque predeterminada"
 
 #: stringdump_steam_50_11.txt:2847
 msgid "Default high traffic path cost"
-msgstr ""
+msgstr "Establecer coste de ruta de tráfico alto"
 
 #: stringdump_steam_50_11.txt:2848
 msgid "Default normal traffic path cost"
-msgstr ""
+msgstr "Establecer coste de ruta de tráfico normal"
 
 #: stringdump_steam_50_11.txt:2849
 msgid "Default low traffic path cost"
-msgstr ""
+msgstr "costo predeterminado de ruta con poco tráfico"
 
 #: stringdump_steam_50_11.txt:2850
 msgid "Default restricted traffic path cost"
-msgstr ""
+msgstr "costo predeterminado de ruta con tráfico restringido"
 
 #: stringdump_steam_50_11.txt:2851
 msgid "Storage path decrease (# of contained item cap)"
 msgstr ""
+"Disminución de la ruta de almacenamiento (# de límite de elementos "
+"contenidos)"
 
 #: stringdump_steam_50_11.txt:2852
 msgid "Storage path decrease (seed bag combine)"
 msgstr ""
+"Disminución de la ruta de almacenamiento (cosechadora de bolsas de semillas)"
 
 #: stringdump_steam_50_11.txt:2853
 msgid "Storage path decrease (bucket combine)"
-msgstr ""
+msgstr "Disminución de la ruta de almacenamiento (combinación de cubos)"
 
 #: stringdump_steam_50_11.txt:2854
 msgid "Storage path decrease (barrel combine)"
-msgstr ""
+msgstr "Disminución de la ruta de almacenamiento (combinación de barriles)"
 
 #: stringdump_steam_50_11.txt:2855
 msgid "Storage path decrease (bin combine)"
