@@ -36,12 +36,13 @@
 # Eduardo Gonzalez, 2023
 # BB D, 2023
 # Andres Budde, 2024
-# jaime Dominguez, 2024
 # Pedro Jesus Rios Palazon, 2024
+# jaime Dominguez, 2024
+# Polak, 2024
 # 
 msgid ""
 msgstr ""
-"Last-Translator: Pedro Jesus Rios Palazon, 2024\n"
+"Last-Translator: Polak, 2024\n"
 "Language-Team: Spanish (https://app.transifex.com/dwarf-fortress-translation/teams/22396/es/)\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -7260,7 +7261,7 @@ msgstr "marchó en"
 
 #: stringdump_steam_50_11.txt:1894
 msgid "exec hacked to pieces"
-msgstr "ejec cortado en pedazos"
+msgstr "ejecutado cortado en pedazos"
 
 #: stringdump_steam_50_11.txt:1895
 msgid " claimed "
@@ -9128,7 +9129,7 @@ msgstr "[C:7:0:0], y [C:2:0:0]"
 
 #: stringdump_steam_50_11.txt:2285
 msgid "Fisherdwarf"
-msgstr "Pescador"
+msgstr "Pescador enano"
 
 #: stringdump_steam_50_11.txt:2287
 msgid ""
@@ -16022,6 +16023,8 @@ msgid ""
 "A hairy drunkard has come hither to once more disrespect the sanctity of "
 "life, I see."
 msgstr ""
+"Un borracho peludo ha llegado hasta aquí para volver a faltarle el respeto a"
+" la santidad de la vida, ya veo."
 
 #: stringdump_steam_50_11.txt:4040
 msgid "What do you want?"
@@ -16577,7 +16580,7 @@ msgstr "Desinteresado en un dueño"
 
 #: stringdump_steam_50_11.txt:4185
 msgid "Tame at the vermin catcher's shop"
-msgstr ""
+msgstr "Domar en la tienda de cazador de alimañas"
 
 #: stringdump_steam_50_11.txt:4186
 msgid "Train (to make a pet) or slaughter"
@@ -16642,7 +16645,7 @@ msgstr "plantado"
 
 #: stringdump_steam_50_11.txt:4201
 msgid " to harvest"
-msgstr ""
+msgstr "cosechar"
 
 #: stringdump_steam_50_11.txt:4202
 msgid " task"
@@ -16651,7 +16654,7 @@ msgstr "tarea"
 #: stringdump_steam_50_11.txt:4204
 #, python-format
 msgid "% occupied"
-msgstr ""
+msgstr "% ocupado"
 
 #: stringdump_steam_50_11.txt:4205
 msgid "Unnamed location"
@@ -16711,7 +16714,7 @@ msgstr "Corral/Pastoreo"
 
 #: stringdump_steam_50_11.txt:4219
 msgid "Pit/pond"
-msgstr ""
+msgstr "Pozo/estanque"
 
 #: stringdump_steam_50_11.txt:4220
 msgid "Sand"
@@ -16792,50 +16795,52 @@ msgstr "no hay contenido escrito aqui"
 #: stringdump_steam_50_11.txt:4239
 msgid "Prepare writing material and assign scholars to a library."
 msgstr ""
+"Prepare material de escritura y asigne a los estudiantes a una biblioteca."
 
 #: stringdump_steam_50_11.txt:4240
 msgid "Writing materials include paper and parchment sheets."
-msgstr ""
+msgstr "Los materiales de escritura incluyen hojas de papel y pergamino."
 
 #: stringdump_steam_50_11.txt:4241
 msgid "Use these to make scrolls and quires."
-msgstr ""
+msgstr "Úsalos para hacer pergaminos y cuadernillos."
 
 #: stringdump_steam_50_11.txt:4242
 msgid "Libraries are a location that can be created at a zone."
-msgstr ""
+msgstr "Las bibliotecas son una ubicación que se puede crear en una zona."
 
 #: stringdump_steam_50_11.txt:4243
 msgid "There are no named objects here."
-msgstr ""
+msgstr "No hay objetos con nombre aquí."
 
 #: stringdump_steam_50_11.txt:4244
 msgid "Citizens, especially soldiers, will rarely name items."
 msgstr ""
+"Los ciudadanos, especialmente los soldados, rara vez nombrarán objetos."
 
 #: stringdump_steam_50_11.txt:4245
 msgid "You haven't named any position symbols yet."
-msgstr ""
+msgstr "Aún no has nombrado ningún símbolo de posición."
 
 #: stringdump_steam_50_11.txt:4246
 msgid "You can do this from the Nobles and Administrators menu."
-msgstr ""
+msgstr "Puede hacerlo desde el menú Nobles y Administradores."
 
 #: stringdump_steam_50_11.txt:4247
 msgid "There aren't any crafted artifacts here."
-msgstr ""
+msgstr "Aquí no hay artefactos hechos a mano."
 
 #: stringdump_steam_50_11.txt:4248
 msgid "Your workers will rarely make them on their own."
-msgstr ""
+msgstr "Sus trabajadores rara vez los harán solos."
 
 #: stringdump_steam_50_11.txt:4249
 msgid "You may also send a squad to obtain one."
-msgstr ""
+msgstr "También puede enviar un escuadrón para obtener uno."
 
 #: stringdump_steam_50_11.txt:4252
 msgid "Sacred to "
-msgstr ""
+msgstr "Sagrado para"
 
 #: stringdump_steam_50_11.txt:4253
 msgid "Treasure of "
@@ -16843,7 +16848,7 @@ msgstr "Tesoro de"
 
 #: stringdump_steam_50_11.txt:4254
 msgid "Heirloom of "
-msgstr ""
+msgstr "Reliquia de"
 
 #: stringdump_steam_50_11.txt:4255
 msgid "Symbol of "
@@ -16855,11 +16860,11 @@ msgstr "tesoro familiar"
 
 #: stringdump_steam_50_11.txt:4257
 msgid " family heirloom"
-msgstr ""
+msgstr "reliquia familiar"
 
 #: stringdump_steam_50_11.txt:4271
 msgid "Click the map to add points."
-msgstr ""
+msgstr "Haga clic en el mapa para agregar puntos."
 
 #: stringdump_steam_50_11.txt:4272
 msgid "Point "
@@ -16903,15 +16908,15 @@ msgstr "Haz click en una criatura para asignarla."
 
 #: stringdump_steam_50_11.txt:4283
 msgid "Click somebody to assign them."
-msgstr ""
+msgstr "Haga clic en alguien para asignarlos."
 
 #: stringdump_steam_50_11.txt:4284
 msgid "Click somebody to assign them to position "
-msgstr ""
+msgstr "Haga clic en alguien para asignarle una posición"
 
 #: stringdump_steam_50_11.txt:4285
 msgid "Possible targets in this area:"
-msgstr ""
+msgstr "Posibles objetivos en esta área:"
 
 #: stringdump_steam_50_11.txt:4286
 msgid "Civilians:"
@@ -16923,15 +16928,15 @@ msgstr "Soldados:"
 
 #: stringdump_steam_50_11.txt:4289
 msgid "Remove assignment"
-msgstr ""
+msgstr "Remover asignación"
 
 #: stringdump_steam_50_11.txt:4290
 msgid "Deceased: "
-msgstr ""
+msgstr "Fallecido:"
 
 #: stringdump_steam_50_11.txt:4292
 msgid "Has "
-msgstr ""
+msgstr "Tiene"
 
 #: stringdump_steam_50_11.txt:4295
 msgid ", commander"
@@ -16955,7 +16960,7 @@ msgstr "hábil"
 
 #: stringdump_steam_50_11.txt:4301
 msgid "Targeted by "
-msgstr ""
+msgstr "Dirigido por"
 
 #: stringdump_steam_50_11.txt:4302
 msgid " squad"
@@ -16963,11 +16968,11 @@ msgstr "escuadron"
 
 #: stringdump_steam_50_11.txt:4303
 msgid " burrow assignments"
-msgstr ""
+msgstr "tareas de madriguera"
 
 #: stringdump_steam_50_11.txt:4304
 msgid "Storage and tools"
-msgstr ""
+msgstr "Almacenamiento y herramientas"
 
 #: stringdump_steam_50_11.txt:4305
 msgid "Max barrels"
@@ -16975,11 +16980,11 @@ msgstr "máximo de barriles"
 
 #: stringdump_steam_50_11.txt:4307
 msgid "Max wheelbarrows"
-msgstr ""
+msgstr "Max carretillas"
 
 #: stringdump_steam_50_11.txt:4308
 msgid "Select a stockpile to"
-msgstr ""
+msgstr "Seleccione un almacén para"
 
 #: stringdump_steam_50_11.txt:4309
 msgid "take from"
@@ -17003,7 +17008,7 @@ msgstr "taller para"
 
 #: stringdump_steam_50_11.txt:4314
 msgid " Guildhall"
-msgstr ""
+msgstr "Sede del gremio"
 
 #: stringdump_steam_50_11.txt:4315
 msgid " member"
@@ -17015,7 +17020,7 @@ msgstr ", sin miembros"
 
 #: stringdump_steam_50_11.txt:4317
 msgid "No established guild"
-msgstr ""
+msgstr "No hay ningún gremio establecido"
 
 #: stringdump_steam_50_11.txt:4318
 msgid " worker"
@@ -17031,7 +17036,7 @@ msgstr "dedicado para"
 
 #: stringdump_steam_50_11.txt:4321
 msgid "No particular deity"
-msgstr ""
+msgstr "Ninguna deidad en particular"
 
 #: stringdump_steam_50_11.txt:4322
 msgid "You need a "
@@ -17039,27 +17044,27 @@ msgstr "Tu necesitas un"
 
 #: stringdump_steam_50_11.txt:4323
 msgid "You need to assign a "
-msgstr ""
+msgstr "Tienes que asignar un"
 
 #: stringdump_steam_50_11.txt:4324
 msgid " to utilize a hospital."
-msgstr ""
+msgstr "para utilizar un hospital."
 
 #: stringdump_steam_50_11.txt:4325
 msgid "Only members can visit (if guild established)"
-msgstr ""
+msgstr "solo los miembros pueden visitar (si hay guild establecida)"
 
 #: stringdump_steam_50_11.txt:4326
 msgid "Only members can visit"
-msgstr ""
+msgstr "Solo los miembros pueden visitar"
 
 #: stringdump_steam_50_11.txt:4327
 msgid "All visitors welcome"
-msgstr ""
+msgstr "Todos los visitantes son bienvenidos"
 
 #: stringdump_steam_50_11.txt:4328
 msgid "Citizens and long-term residents only"
-msgstr ""
+msgstr "Solo ciudadanos y residentes de largo plazo"
 
 #: stringdump_steam_50_11.txt:4329
 msgid "Citizens only"
@@ -17067,83 +17072,83 @@ msgstr "Solo ciudadanos"
 
 #: stringdump_steam_50_11.txt:4330
 msgid "Beds in common area: "
-msgstr ""
+msgstr "Camas en zona común:"
 
 #: stringdump_steam_50_11.txt:4331
 msgid "Tables in common area: "
-msgstr ""
+msgstr "Mesas en zona común:"
 
 #: stringdump_steam_50_11.txt:4332
 msgid "Traction benches in common area: "
-msgstr ""
+msgstr "Bancos de tracción en área común:"
 
 #: stringdump_steam_50_11.txt:4333
 msgid "Chests in common area: "
-msgstr ""
+msgstr "Cofres en área común:"
 
 #: stringdump_steam_50_11.txt:4334
 msgid "Thread (Desired): "
-msgstr ""
+msgstr "Hilo (Deseado):"
 
 #: stringdump_steam_50_11.txt:4335
 msgid "Cloth (Desired): "
-msgstr ""
+msgstr "Tela (Deseada):"
 
 #: stringdump_steam_50_11.txt:4336
 msgid "Splints (Desired): "
-msgstr ""
+msgstr "Férulas (deseadas):"
 
 #: stringdump_steam_50_11.txt:4337
 msgid "Crutches (Desired): "
-msgstr ""
+msgstr "Muletas (Deseadas):"
 
 #: stringdump_steam_50_11.txt:4338
 msgid "straight walks"
-msgstr ""
+msgstr "camina recto"
 
 #: stringdump_steam_50_11.txt:4339
 msgid "Powder for casts (Desired): "
-msgstr ""
+msgstr "Polvo para yesos (Deseado):"
 
 #: stringdump_steam_50_11.txt:4340
 msgid "Buckets (Desired): "
-msgstr ""
+msgstr "Cubos (Deseados):"
 
 #: stringdump_steam_50_11.txt:4341
 msgid "Soap (Desired): "
-msgstr ""
+msgstr "Jabón (Deseado):"
 
 #: stringdump_steam_50_11.txt:4342
 msgid "Grand Guildhall, "
-msgstr ""
+msgstr "Gran sede del gremio"
 
 #: stringdump_steam_50_11.txt:4343
 msgid "Guildhall, "
-msgstr ""
+msgstr "sede del gremio,"
 
 #: stringdump_steam_50_11.txt:4344
 msgid " (next at "
-msgstr ""
+msgstr "(próximo a "
 
 #: stringdump_steam_50_11.txt:4345
 msgid "Meeting place, "
-msgstr ""
+msgstr "lugar de encuentro,"
 
 #: stringdump_steam_50_11.txt:4346
 msgid "Agreed to build guildhall"
-msgstr ""
+msgstr "Accedió a construir sede del gremio"
 
 #: stringdump_steam_50_11.txt:4347
 msgid "Agreed to build grand guildhall"
-msgstr ""
+msgstr "Accedió a construir gran sede del gremio"
 
 #: stringdump_steam_50_11.txt:4348
 msgid "Bookcases: "
-msgstr ""
+msgstr "Librerías:"
 
 #: stringdump_steam_50_11.txt:4349
 msgid "Tables: "
-msgstr ""
+msgstr "Mesas:"
 
 #: stringdump_steam_50_11.txt:4350
 msgid "Chairs: "
@@ -17151,51 +17156,51 @@ msgstr "Sillas:"
 
 #: stringdump_steam_50_11.txt:4351
 msgid "Written objects (incl. copies): "
-msgstr ""
+msgstr "Objetos escritos (incl. copias):"
 
 #: stringdump_steam_50_11.txt:4352
 msgid "Total number of each to scribe: "
-msgstr ""
+msgstr "Número total de cada uno para escribir:"
 
 #: stringdump_steam_50_11.txt:4353
 msgid "Writing Material (Desired): "
-msgstr ""
+msgstr "Material de Escritura (Deseado):"
 
 #: stringdump_steam_50_11.txt:4354
 msgid "Goblets (Desired): "
-msgstr ""
+msgstr "Cubiletes (Deseados)"
 
 #: stringdump_steam_50_11.txt:4355
 msgid "Stored Instruments (Desired): "
-msgstr ""
+msgstr "Instrumentos Almacenados (Deseados):"
 
 #: stringdump_steam_50_11.txt:4356
 msgid "Dance floor in common area: "
-msgstr ""
+msgstr "Pista de baile en aréa común"
 
 #: stringdump_steam_50_11.txt:4357
 msgid "Rented rooms (Total): "
-msgstr ""
+msgstr "Habitaciones Alquiladas (Total):"
 
 #: stringdump_steam_50_11.txt:4358
 msgid "Temple Complex, "
-msgstr ""
+msgstr "Complejo del templo,"
 
 #: stringdump_steam_50_11.txt:4359
 msgid "Temple, "
-msgstr ""
+msgstr "Templo,"
 
 #: stringdump_steam_50_11.txt:4360
 msgid "Shrine, "
-msgstr ""
+msgstr "Santuario,"
 
 #: stringdump_steam_50_11.txt:4361
 msgid "worshippers"
-msgstr ""
+msgstr " devotos"
 
 #: stringdump_steam_50_11.txt:4362
 msgid "worshipper"
-msgstr ""
+msgstr " devoto"
 
 #: stringdump_steam_50_11.txt:4363
 msgid "Recognize priesthood"
@@ -17207,19 +17212,19 @@ msgstr ""
 
 #: stringdump_steam_50_11.txt:4365
 msgid "Priest: "
-msgstr ""
+msgstr "Sacerdote:"
 
 #: stringdump_steam_50_11.txt:4366
 msgid "High priest: "
-msgstr ""
+msgstr "sumo sacerdote:"
 
 #: stringdump_steam_50_11.txt:4367
 msgid " worshipper"
-msgstr ""
+msgstr " devoto"
 
 #: stringdump_steam_50_11.txt:4368
 msgid " needed"
-msgstr ""
+msgstr "necesario"
 
 #: stringdump_steam_50_11.txt:4369
 msgid "You can recognize a priesthood once this is a temple."
@@ -17228,22 +17233,23 @@ msgstr ""
 #: stringdump_steam_50_11.txt:4370
 msgid "You can recognize a high priest when this is a temple complex."
 msgstr ""
+"Puedes crear a un sumo sacerdote cuando se trata de un complejo de templos."
 
 #: stringdump_steam_50_11.txt:4371
 msgid "Agreed to build temple"
-msgstr ""
+msgstr "accedió a construir un templo"
 
 #: stringdump_steam_50_11.txt:4372
 msgid "Agreed to build temple complex"
-msgstr ""
+msgstr "Accedió a construir el complicado templo"
 
 #: stringdump_steam_50_11.txt:4373
 msgid "Only organized religions can have recognized priesthoods."
-msgstr ""
+msgstr "Sólo las religiones organizadas pueden tener sacerdocios reconocidos."
 
 #: stringdump_steam_50_11.txt:4374
 msgid "Tavern Keeper"
-msgstr ""
+msgstr "Tabernero"
 
 #: stringdump_steam_50_11.txt:4375
 msgid "Monster Slayer"
@@ -17251,43 +17257,43 @@ msgstr "Cazador de monstruos"
 
 #: stringdump_steam_50_11.txt:4376
 msgid "Bone Doctor"
-msgstr ""
+msgstr "Doctor de huesos"
 
 #: stringdump_steam_50_11.txt:4377
 msgid " hall"
-msgstr ""
+msgstr "salón"
 
 #: stringdump_steam_50_11.txt:4378
 msgid "No workers"
-msgstr ""
+msgstr "No hay trabajadores"
 
 #: stringdump_steam_50_11.txt:4379
 msgid "Guild:"
-msgstr ""
+msgstr "Gremio:"
 
 #: stringdump_steam_50_11.txt:4380
 msgid "No members"
-msgstr ""
+msgstr "No hay miembros"
 
 #: stringdump_steam_50_11.txt:4381
 msgid "(No Specific Deity)"
-msgstr ""
+msgstr "(Sin Deidad Específica)"
 
 #: stringdump_steam_50_11.txt:4382
 msgid "No worshippers"
-msgstr ""
+msgstr "Sin devotos"
 
 #: stringdump_steam_50_11.txt:4383
 msgid "Locations such as taverns, temples"
-msgstr ""
+msgstr "Lugares como tabernas, templos"
 
 #: stringdump_steam_50_11.txt:4384
 msgid "and libraries can be created from"
-msgstr ""
+msgstr "y las bibliotecas se pueden crear a partir de"
 
 #: stringdump_steam_50_11.txt:4385
 msgid "meeting area zones, dining rooms and"
-msgstr ""
+msgstr "zonas de reunión, comedores y"
 
 #: stringdump_steam_50_11.txt:4386
 msgid "bedrooms.  These larger associations"
@@ -17295,19 +17301,19 @@ msgstr "dormitorios. Estas grandes asociaciones "
 
 #: stringdump_steam_50_11.txt:4387
 msgid "of rooms can attract visitors from"
-msgstr ""
+msgstr "de habitaciones puede atraer a visitantes de"
 
 #: stringdump_steam_50_11.txt:4388
 msgid "outside the fortress."
-msgstr ""
+msgstr "fuera de la fortaleza."
 
 #: stringdump_steam_50_11.txt:4389
 msgid "Add or choose a location."
-msgstr ""
+msgstr "Agrega o elige una ubicación."
 
 #: stringdump_steam_50_11.txt:4390
 msgid "Remove current location assignment"
-msgstr ""
+msgstr "Eliminar asignación de ubicación actual"
 
 #: stringdump_steam_50_11.txt:4391
 msgid "New guildhall"
@@ -17315,19 +17321,19 @@ msgstr ""
 
 #: stringdump_steam_50_11.txt:4392
 msgid "New library"
-msgstr ""
+msgstr "Nueva biblioteca"
 
 #: stringdump_steam_50_11.txt:4393
 msgid "New temple"
-msgstr ""
+msgstr "Templo nuevo"
 
 #: stringdump_steam_50_11.txt:4394
 msgid "New inn/tavern"
-msgstr ""
+msgstr "Nueva posada/taberna"
 
 #: stringdump_steam_50_11.txt:4395
 msgid "New hospital"
-msgstr ""
+msgstr "Nuevo hospital"
 
 #: stringdump_steam_50_11.txt:4397
 msgid "Furniture"
@@ -17359,7 +17365,7 @@ msgstr "zona de comercio"
 
 #: stringdump_steam_50_11.txt:4404
 msgid "Clothing and leather"
-msgstr ""
+msgstr "Ropa y cuero"
 
 #: stringdump_steam_50_11.txt:4405
 msgid "Farming"
@@ -17371,7 +17377,7 @@ msgstr "Hornos"
 
 #: stringdump_steam_50_11.txt:4407
 msgid "Ashery"
-msgstr ""
+msgstr "Ashery"
 
 #: stringdump_steam_50_11.txt:4408
 msgid "Bowyer"
@@ -17415,11 +17421,11 @@ msgstr "Horno de vidrio"
 
 #: stringdump_steam_50_11.txt:4419
 msgid "Kiln"
-msgstr ""
+msgstr "Horno"
 
 #: stringdump_steam_50_11.txt:4420
 msgid "Magma glass furnace"
-msgstr ""
+msgstr "Horno de Magma para Vidrio "
 
 #: stringdump_steam_50_11.txt:4421
 msgid "Magma kiln"
@@ -17447,15 +17453,15 @@ msgstr "Ropas"
 
 #: stringdump_steam_50_11.txt:4427
 msgid "Dyer"
-msgstr ""
+msgstr "Pintor"
 
 #: stringdump_steam_50_11.txt:4428
 msgid "Farm plot"
-msgstr ""
+msgstr "Plantación"
 
 #: stringdump_steam_50_11.txt:4429
 msgid "Still"
-msgstr ""
+msgstr "Aún"
 
 #: stringdump_steam_50_11.txt:4430
 msgid "Butcher"
@@ -17475,23 +17481,23 @@ msgstr "Cocina"
 
 #: stringdump_steam_50_11.txt:4434
 msgid "Farmer"
-msgstr ""
+msgstr "Agricultor"
 
 #: stringdump_steam_50_11.txt:4435
 msgid "Quern"
-msgstr ""
+msgstr "Mortero"
 
 #: stringdump_steam_50_11.txt:4436
 msgid "Vermin Catcher's Shop"
-msgstr ""
+msgstr "Tienda del cazador de alimañas"
 
 #: stringdump_steam_50_11.txt:4437
 msgid "Nest box"
-msgstr ""
+msgstr "Caja de nido"
 
 #: stringdump_steam_50_11.txt:4438
 msgid "Hive"
-msgstr ""
+msgstr "Colmena"
 
 #: stringdump_steam_50_11.txt:4439
 msgid "Bed"
@@ -17507,7 +17513,7 @@ msgstr "Mesa"
 
 #: stringdump_steam_50_11.txt:4442
 msgid "Chest"
-msgstr ""
+msgstr "Cofre"
 
 #: stringdump_steam_50_11.txt:4443
 msgid "Cabinet"
@@ -17515,11 +17521,11 @@ msgstr "Gabinete"
 
 #: stringdump_steam_50_11.txt:4444
 msgid "Burial"
-msgstr ""
+msgstr "Entierro"
 
 #: stringdump_steam_50_11.txt:4445
 msgid "Slab"
-msgstr ""
+msgstr "Losa"
 
 #: stringdump_steam_50_11.txt:4446
 msgid "Statue"
@@ -17527,15 +17533,15 @@ msgstr ""
 
 #: stringdump_steam_50_11.txt:4447
 msgid "Traction bench"
-msgstr ""
+msgstr "Banco de tracción"
 
 #: stringdump_steam_50_11.txt:4448
 msgid "Bookcase"
-msgstr ""
+msgstr "Librero"
 
 #: stringdump_steam_50_11.txt:4449
 msgid "Display"
-msgstr ""
+msgstr "Monitor"
 
 #: stringdump_steam_50_11.txt:4450
 msgid "Offering place"
@@ -17543,15 +17549,15 @@ msgstr ""
 
 #: stringdump_steam_50_11.txt:4451
 msgid "Instrument"
-msgstr ""
+msgstr "Instrumento"
 
 #: stringdump_steam_50_11.txt:4452
 msgid "Door"
-msgstr ""
+msgstr "Puerta"
 
 #: stringdump_steam_50_11.txt:4453
 msgid "Hatch"
-msgstr ""
+msgstr "Escotilla"
 
 #: stringdump_steam_50_11.txt:4454
 msgid "Wall"
@@ -17563,35 +17569,35 @@ msgstr "Suelo/piso"
 
 #: stringdump_steam_50_11.txt:4456
 msgid "Ramp"
-msgstr ""
+msgstr "Rampa"
 
 #: stringdump_steam_50_11.txt:4457
 msgid "Stairs"
-msgstr ""
+msgstr "Escalera"
 
 #: stringdump_steam_50_11.txt:4458
 msgid "Bridge"
-msgstr ""
+msgstr "Puente"
 
 #: stringdump_steam_50_11.txt:4459
 msgid "Paved road"
-msgstr ""
+msgstr "Camino pavimentado"
 
 #: stringdump_steam_50_11.txt:4460
 msgid "Dirt road"
-msgstr ""
+msgstr "Camino de tierra"
 
 #: stringdump_steam_50_11.txt:4461
 msgid "Fortification"
-msgstr ""
+msgstr "Fortificación"
 
 #: stringdump_steam_50_11.txt:4462
 msgid "Wall grate"
-msgstr ""
+msgstr "Rejas"
 
 #: stringdump_steam_50_11.txt:4463
 msgid "Floor grate"
-msgstr ""
+msgstr "Rejillas"
 
 #: stringdump_steam_50_11.txt:4464
 msgid "Vertical bars"
@@ -17599,11 +17605,11 @@ msgstr "Barrotes"
 
 #: stringdump_steam_50_11.txt:4465
 msgid "Floor bars"
-msgstr ""
+msgstr "Barrotes"
 
 #: stringdump_steam_50_11.txt:4466
 msgid "Glass window"
-msgstr ""
+msgstr "Ventana de Vidrio"
 
 #: stringdump_steam_50_11.txt:4467
 msgid "Gem window"
@@ -17611,59 +17617,59 @@ msgstr ""
 
 #: stringdump_steam_50_11.txt:4468
 msgid "Support"
-msgstr ""
+msgstr "Soporte"
 
 #: stringdump_steam_50_11.txt:4469
 msgid "Track"
-msgstr ""
+msgstr "Vía"
 
 #: stringdump_steam_50_11.txt:4470
 msgid "Track stop"
-msgstr ""
+msgstr "Parada de Vía"
 
 #: stringdump_steam_50_11.txt:4471
 msgid "Lever"
-msgstr ""
+msgstr "Palanca"
 
 #: stringdump_steam_50_11.txt:4472
 msgid "Well"
-msgstr ""
+msgstr "Pozo"
 
 #: stringdump_steam_50_11.txt:4473
 msgid "Floodgate"
-msgstr ""
+msgstr "Compuerta"
 
 #: stringdump_steam_50_11.txt:4474
 msgid "Screw pump"
-msgstr ""
+msgstr "Bomba de tornillo"
 
 #: stringdump_steam_50_11.txt:4475
 msgid "Windmill"
-msgstr ""
+msgstr "Molino de viento"
 
 #: stringdump_steam_50_11.txt:4476
 msgid "Gear assembly"
-msgstr ""
+msgstr "Ensamblaje de engranajes"
 
 #: stringdump_steam_50_11.txt:4477
 msgid "Horizontal axle"
-msgstr ""
+msgstr "Eje horizontal"
 
 #: stringdump_steam_50_11.txt:4478
 msgid "Vertical axle"
-msgstr ""
+msgstr "Eje vertical"
 
 #: stringdump_steam_50_11.txt:4479
 msgid "Millstone"
-msgstr ""
+msgstr "Piedra de Molino"
 
 #: stringdump_steam_50_11.txt:4480
 msgid "Rollers"
-msgstr ""
+msgstr "Rodillos"
 
 #: stringdump_steam_50_11.txt:4481
 msgid "Rope/chain"
-msgstr ""
+msgstr "Cuerda/cadena"
 
 #: stringdump_steam_50_11.txt:4482
 msgid "Cage"
@@ -17671,39 +17677,39 @@ msgstr "Jaula"
 
 #: stringdump_steam_50_11.txt:4483
 msgid "Animal trap"
-msgstr ""
+msgstr "Trampa para animales"
 
 #: stringdump_steam_50_11.txt:4484
 msgid "Pressure plate"
-msgstr ""
+msgstr "Placa de presión"
 
 #: stringdump_steam_50_11.txt:4485
 msgid "Stone-fall"
-msgstr ""
+msgstr "Caída de rocas"
 
 #: stringdump_steam_50_11.txt:4486
 msgid "Weapon"
-msgstr ""
+msgstr "Arma"
 
 #: stringdump_steam_50_11.txt:4487
 msgid "Upright weapon/spike"
-msgstr ""
+msgstr "Subir lanza/pincho"
 
 #: stringdump_steam_50_11.txt:4488
 msgid "Archery target"
-msgstr ""
+msgstr "Objetivo de tiro al arco"
 
 #: stringdump_steam_50_11.txt:4489
 msgid "Weapon rack"
-msgstr ""
+msgstr "Estante de armas"
 
 #: stringdump_steam_50_11.txt:4490
 msgid "Armor stand"
-msgstr ""
+msgstr "Soporte de armadura"
 
 #: stringdump_steam_50_11.txt:4491
 msgid "Ballista"
-msgstr ""
+msgstr "Balista"
 
 #: stringdump_steam_50_11.txt:4492
 msgid "Catapult"
@@ -17711,35 +17717,35 @@ msgstr "catapulta"
 
 #: stringdump_steam_50_11.txt:4493
 msgid "Disconnected"
-msgstr ""
+msgstr "Desconectado"
 
 #: stringdump_steam_50_11.txt:4494
 msgid "Need trigger type"
-msgstr ""
+msgstr "Se necesita tipo de activador"
 
 #: stringdump_steam_50_11.txt:4495
 msgid "Needs walkable perimeter"
-msgstr ""
+msgstr "Necesita perímetro transitable"
 
 #: stringdump_steam_50_11.txt:4496
 msgid "Hidden, cannot build at this location"
-msgstr ""
+msgstr "Oculto, no se puede construir en esta ubicación"
 
 #: stringdump_steam_50_11.txt:4497
 msgid "Needs to be anchored on edge"
-msgstr ""
+msgstr "Necesita ser anclado en el borde"
 
 #: stringdump_steam_50_11.txt:4498
 msgid "Blocked at this location"
-msgstr ""
+msgstr "Bloqueado en esta ubicación"
 
 #: stringdump_steam_50_11.txt:4499
 msgid "Surrounded by empty space"
-msgstr ""
+msgstr "rodeado de un espacio vacío"
 
 #: stringdump_steam_50_11.txt:4500
 msgid "Needs adjacent wall"
-msgstr ""
+msgstr "Necesita una pared adyacente"
 
 #: stringdump_steam_50_11.txt:4501
 msgid "Needs open space"
@@ -17747,47 +17753,47 @@ msgstr "Necesita un espacio abierto"
 
 #: stringdump_steam_50_11.txt:4502
 msgid "Lava/Magma at this location"
-msgstr ""
+msgstr "Lava/Magma en esta ubicación"
 
 #: stringdump_steam_50_11.txt:4503
 msgid "Building present"
-msgstr ""
+msgstr "construyendo el presente"
 
 #: stringdump_steam_50_11.txt:4504
 msgid "Must remove construction"
-msgstr ""
+msgstr "Debe eliminar la construcción"
 
 #: stringdump_steam_50_11.txt:4505
 msgid "Must be inside"
-msgstr ""
+msgstr "Debe estar dentro"
 
 #: stringdump_steam_50_11.txt:4506
 msgid "Too close to edge"
-msgstr ""
+msgstr "Muy cerca del borde"
 
 #: stringdump_steam_50_11.txt:4507
 msgid "Must be outside"
-msgstr ""
+msgstr "Debe estar fuera"
 
 #: stringdump_steam_50_11.txt:4508
 msgid "Cannot build at highest level"
-msgstr ""
+msgstr "No se puede construir en el nivel más alto"
 
 #: stringdump_steam_50_11.txt:4509
 msgid "Need soil or mud at location"
-msgstr ""
+msgstr "Necesita tierra o lodo en el lugar"
 
 #: stringdump_steam_50_11.txt:4510
 msgid "Need soil at location"
-msgstr ""
+msgstr "Necesita suelo en el lugar"
 
 #: stringdump_steam_50_11.txt:4511
 msgid "Needs ground or near machine"
-msgstr ""
+msgstr "Necesita suelo o cerca de la máquina"
 
 #: stringdump_steam_50_11.txt:4512
 msgid "No mud/soil for farm"
-msgstr ""
+msgstr "No hay tierra/barro para cultivar"
 
 #: stringdump_steam_50_11.txt:4513
 msgid "Mud is left by water"
@@ -17831,31 +17837,31 @@ msgstr ""
 
 #: stringdump_steam_50_11.txt:4529
 msgid "Vein and gem mining blueprint"
-msgstr ""
+msgstr "Plano de minería de vetas y gemas"
 
 #: stringdump_steam_50_11.txt:4530
 msgid "Gem mining blueprint"
-msgstr ""
+msgstr "Plano de minería de gemas"
 
 #: stringdump_steam_50_11.txt:4531
 msgid "Regular mining blueprint"
-msgstr ""
+msgstr "Plano de minería regular"
 
 #: stringdump_steam_50_11.txt:4532
 msgid "Automated vein and gem mining"
-msgstr ""
+msgstr "Minería automatizada de vetas y gemas"
 
 #: stringdump_steam_50_11.txt:4533
 msgid "Vein and gem mining"
-msgstr ""
+msgstr "Minería de vetas y gemas"
 
 #: stringdump_steam_50_11.txt:4534
 msgid "Gem mining"
-msgstr ""
+msgstr "Minería de gemas"
 
 #: stringdump_steam_50_11.txt:4535
 msgid "Regular mining"
-msgstr ""
+msgstr "Minería regular"
 
 #: stringdump_steam_50_11.txt:4536
 msgid "Removing stairs/ramp/constructions"
@@ -17863,7 +17869,7 @@ msgstr "Eliminación de escaleras/rampa/construcciones"
 
 #: stringdump_steam_50_11.txt:4537
 msgid "Stair mining blueprint"
-msgstr ""
+msgstr "Plano de minería de escaleras"
 
 #: stringdump_steam_50_11.txt:4538
 msgid "Stair mining"
@@ -17875,31 +17881,31 @@ msgstr ""
 
 #: stringdump_steam_50_11.txt:4540
 msgid "Ramp mining"
-msgstr ""
+msgstr "Minería de rampas"
 
 #: stringdump_steam_50_11.txt:4541
 msgid "Channel mining blueprint"
-msgstr ""
+msgstr "Plano de minería de canales"
 
 #: stringdump_steam_50_11.txt:4542
 msgid "Channel mining"
-msgstr ""
+msgstr "Canales de minería"
 
 #: stringdump_steam_50_11.txt:4543
 msgid "Converting mining blueprint to regular"
-msgstr ""
+msgstr "Convertir el plano de minería a regular"
 
 #: stringdump_steam_50_11.txt:4544
 msgid "Converting mining to blueprint"
-msgstr ""
+msgstr "Convertir la minería en plano"
 
 #: stringdump_steam_50_11.txt:4545
 msgid "Must span multiple elevations"
-msgstr ""
+msgstr "Debe abarcar varias elevaciones"
 
 #: stringdump_steam_50_11.txt:4546
 msgid "Converting to chopping blueprint"
-msgstr ""
+msgstr "Convertir en plano de cortar madera"
 
 #: stringdump_steam_50_11.txt:4547
 msgid "Converting chopping blueprint to regular"
@@ -17907,7 +17913,7 @@ msgstr ""
 
 #: stringdump_steam_50_11.txt:4548
 msgid "Chopping trees blueprint"
-msgstr ""
+msgstr "Plano de tala de árboles"
 
 #: stringdump_steam_50_11.txt:4549
 msgid "Chopping trees"
@@ -17915,39 +17921,39 @@ msgstr ""
 
 #: stringdump_steam_50_11.txt:4550
 msgid "Converting to gathering blueprint"
-msgstr ""
+msgstr "Conversión a plano de recolección"
 
 #: stringdump_steam_50_11.txt:4551
 msgid "Converting gathering blueprint to regular"
-msgstr ""
+msgstr "Transformando el plano de encuentro en un plano normal"
 
 #: stringdump_steam_50_11.txt:4552
 msgid "Gathering fruit and leaves blueprint"
-msgstr ""
+msgstr "Recolección de planos de frutas y hojas"
 
 #: stringdump_steam_50_11.txt:4553
 msgid "Gathering fruit and leaves"
-msgstr ""
+msgstr "Recolectar frutos y hojas."
 
 #: stringdump_steam_50_11.txt:4554
 msgid "Smoothing blueprint"
-msgstr ""
+msgstr "Alisando plano"
 
 #: stringdump_steam_50_11.txt:4555
 msgid "Smoothing rough floors and walls"
-msgstr ""
+msgstr "Alisado de suelos y paredes irregulares"
 
 #: stringdump_steam_50_11.txt:4556
 msgid "Engraving blueprint"
-msgstr ""
+msgstr "Plano de grabado"
 
 #: stringdump_steam_50_11.txt:4557
 msgid "Engraving smoothed floors and walls"
-msgstr ""
+msgstr "Grabado de suelos y paredes alisados"
 
 #: stringdump_steam_50_11.txt:4558
 msgid "Track carving blueprint"
-msgstr ""
+msgstr "Plano de talla de vía"
 
 #: stringdump_steam_50_11.txt:4559
 msgid "Carving tracks in floor"
@@ -17955,35 +17961,35 @@ msgstr ""
 
 #: stringdump_steam_50_11.txt:4560
 msgid "Fortification carving blueprint"
-msgstr ""
+msgstr "Plano de talla de fortificación"
 
 #: stringdump_steam_50_11.txt:4561
 msgid "Carving fortifications through walls"
-msgstr ""
+msgstr "Tallando fortificaciones a través de las paredes."
 
 #: stringdump_steam_50_11.txt:4562
 msgid "Converting smoothing blueprint to regular"
-msgstr ""
+msgstr "Convirtiendo plano de suavizado a regular"
 
 #: stringdump_steam_50_11.txt:4563
 msgid "Converting to smoothing blueprint"
-msgstr ""
+msgstr "Convirtiendo a plano de suavizado"
 
 #: stringdump_steam_50_11.txt:4564
 msgid "Claiming forbidden items and buildings"
-msgstr ""
+msgstr "Reclamación de objetos y edificios prohibidos"
 
 #: stringdump_steam_50_11.txt:4565
 msgid "Forbidding items and buildings"
-msgstr ""
+msgstr "Prohibición de artículos y edificios."
 
 #: stringdump_steam_50_11.txt:4566
 msgid "Designating items for melting"
-msgstr ""
+msgstr "Designación de artículos para fundir"
 
 #: stringdump_steam_50_11.txt:4567
 msgid "Removing melting designations"
-msgstr ""
+msgstr "Quitando designaciones de fundido"
 
 #: stringdump_steam_50_11.txt:4568
 msgid "Designating items for dumping"
@@ -17995,11 +18001,11 @@ msgstr ""
 
 #: stringdump_steam_50_11.txt:4570
 msgid "Hiding items from view"
-msgstr ""
+msgstr "Ocultar elementos de la vista"
 
 #: stringdump_steam_50_11.txt:4571
 msgid "Revealing hidden items"
-msgstr ""
+msgstr "Revelando elementos ocultos"
 
 #: stringdump_steam_50_11.txt:4572
 msgid "Designating restricted traffic area"
@@ -18007,63 +18013,63 @@ msgstr ""
 
 #: stringdump_steam_50_11.txt:4573
 msgid "Designating low traffic area"
-msgstr ""
+msgstr "Designando área de tráfico bajo"
 
 #: stringdump_steam_50_11.txt:4574
 msgid "Removing traffic designations"
-msgstr ""
+msgstr "Eliminando designaciones de tráfico"
 
 #: stringdump_steam_50_11.txt:4575
 msgid "Designating high traffic area"
-msgstr ""
+msgstr "Designando área de tráfico alto"
 
 #: stringdump_steam_50_11.txt:4576
 msgid "Removing mining/chopping/gathering/smoothing orders"
-msgstr ""
+msgstr "Eliminación de órdenes de minería/corte/recolección/suavizado"
 
 #: stringdump_steam_50_11.txt:4577
 msgid "Horizontal axles can vary in length."
-msgstr ""
+msgstr "Los ejes horizontales pueden variar en longitud."
 
 #: stringdump_steam_50_11.txt:4578
 msgid "Set the orientation below."
-msgstr ""
+msgstr "Establezca la orientación a continuación."
 
 #: stringdump_steam_50_11.txt:4579
 msgid "Water wheels are 1x3 or 3x1."
-msgstr ""
+msgstr "Las ruedas hidráulicas son 1x3 o 3x1."
 
 #: stringdump_steam_50_11.txt:4580
 msgid "The long side should align"
-msgstr ""
+msgstr "El lado largo debe alinearse"
 
 #: stringdump_steam_50_11.txt:4581
 msgid "with the water's flow."
-msgstr ""
+msgstr "con el fluir del agua."
 
 #: stringdump_steam_50_11.txt:4582
 msgid "Set the liquid flow direction below."
-msgstr ""
+msgstr "Establezca la dirección del flujo de líquido a continuación."
 
 #: stringdump_steam_50_11.txt:4583
 msgid "Water flows from the adjacent input tile"
-msgstr ""
+msgstr "El agua fluye desde el mosaico de entrada adyacente"
 
 #: stringdump_steam_50_11.txt:4584
 msgid "and from the tile below the input tile."
-msgstr ""
+msgstr "y desde la baldosa de abajo la baldosa de entrada."
 
 #: stringdump_steam_50_11.txt:4585
 msgid "Minecart rollers can vary in length."
-msgstr ""
+msgstr "Las ruedas de los vagones pueden variar en longitud."
 
 #: stringdump_steam_50_11.txt:4586
 msgid "Set the orientation and speed below."
-msgstr ""
+msgstr "Establezca la orientación y la velocidad a continuación."
 
 #: stringdump_steam_50_11.txt:4587
 msgid "Resets"
-msgstr ""
+msgstr "Reinicios"
 
 #: stringdump_steam_50_11.txt:4588
 msgid "One use only"
@@ -18071,11 +18077,11 @@ msgstr ""
 
 #: stringdump_steam_50_11.txt:4589
 msgid "Water"
-msgstr ""
+msgstr "Agua"
 
 #: stringdump_steam_50_11.txt:4590
 msgid "Depth"
-msgstr ""
+msgstr "Profundidad"
 
 #: stringdump_steam_50_11.txt:4591
 msgid "Water does not trigger"
@@ -18087,15 +18093,15 @@ msgstr "más que"
 
 #: stringdump_steam_50_11.txt:4593
 msgid "Magma does not trigger"
-msgstr ""
+msgstr "El magma no activa"
 
 #: stringdump_steam_50_11.txt:4594
 msgid "Cart"
-msgstr ""
+msgstr "Carro"
 
 #: stringdump_steam_50_11.txt:4595
 msgid "Weight"
-msgstr ""
+msgstr "Peso"
 
 #: stringdump_steam_50_11.txt:4596
 msgid "to"
@@ -18103,11 +18109,11 @@ msgstr "hasta"
 
 #: stringdump_steam_50_11.txt:4597
 msgid "Any"
-msgstr ""
+msgstr "Ningún"
 
 #: stringdump_steam_50_11.txt:4598
 msgid "Minecarts do not trigger"
-msgstr ""
+msgstr "Los vagones no activan"
 
 #: stringdump_steam_50_11.txt:4599
 msgid "Creature trigger settings"
@@ -18115,47 +18121,47 @@ msgstr "Ajustes de activación de criaturas"
 
 #: stringdump_steam_50_11.txt:4600
 msgid "Citizens trigger"
-msgstr ""
+msgstr "Umbral de los ciudadanos"
 
 #: stringdump_steam_50_11.txt:4601
 msgid "Citizens do not trigger"
-msgstr ""
+msgstr "Los ciudadanos no se activan"
 
 #: stringdump_steam_50_11.txt:4602
 msgid "Creatures do not trigger"
-msgstr ""
+msgstr "Las criaturas no disparan"
 
 #: stringdump_steam_50_11.txt:4603
 msgid "Set the friction and auto-dump direction."
-msgstr ""
+msgstr "Configure la fricción y la dirección de descarga automática."
 
 #: stringdump_steam_50_11.txt:4604
 msgid "Auto-dumping is not required."
-msgstr ""
+msgstr "No se requiere volcado automático."
 
 #: stringdump_steam_50_11.txt:4605
 msgid "Set the draw direction below."
-msgstr ""
+msgstr "Establezca la dirección de dibujo a continuación."
 
 #: stringdump_steam_50_11.txt:4606
 msgid "Then select the corners of the bridge."
-msgstr ""
+msgstr "Luego seleccione las esquinas del puente."
 
 #: stringdump_steam_50_11.txt:4607
 msgid "Click a tile to place the "
-msgstr ""
+msgstr "Haga clic en un mosaico para colocar el"
 
 #: stringdump_steam_50_11.txt:4608
 msgid "Click a tile to be one end of the "
-msgstr ""
+msgstr "Haga clic en una ficha para ser un extremo de la"
 
 #: stringdump_steam_50_11.txt:4609
 msgid "Click a tile to be a corner of the "
-msgstr ""
+msgstr "Haga clic en un mosaico para ser una esquina de la"
 
 #: stringdump_steam_50_11.txt:4610
 msgid "(spans "
-msgstr ""
+msgstr "(tramos"
 
 #: stringdump_steam_50_11.txt:4611
 msgid " levels)"
@@ -18171,27 +18177,27 @@ msgstr "Usar el material mas cercano"
 
 #: stringdump_steam_50_11.txt:4614
 msgid "Keep building after placement"
-msgstr ""
+msgstr "Seguir construyendo después de la colocación"
 
 #: stringdump_steam_50_11.txt:4615
 msgid "Bars and"
-msgstr ""
+msgstr "Barras y"
 
 #: stringdump_steam_50_11.txt:4616
 msgid "Blocks"
-msgstr ""
+msgstr "Bloques"
 
 #: stringdump_steam_50_11.txt:4617
 msgid "Finished"
-msgstr ""
+msgstr "Acabado"
 
 #: stringdump_steam_50_11.txt:4618
 msgid "Goods"
-msgstr ""
+msgstr "Bienes"
 
 #: stringdump_steam_50_11.txt:4619
 msgid "Sheets"
-msgstr ""
+msgstr "Hojas"
 
 #: stringdump_steam_50_11.txt:4620
 msgid "Custom"
@@ -18199,23 +18205,23 @@ msgstr "Personalizado"
 
 #: stringdump_steam_50_11.txt:4621
 msgid "Click an icon to set stockpile type."
-msgstr ""
+msgstr "Haga clic en un icono para establecer el tipo de Almacén."
 
 #: stringdump_steam_50_11.txt:4622
 msgid "Warning: stockpile has no type."
-msgstr ""
+msgstr "Advertencia: Almacén no tiene tipo."
 
 #: stringdump_steam_50_11.txt:4623
 msgid "Click an existing stockpile to select it."
-msgstr ""
+msgstr "Haga clic en un almacén existente para seleccionarlo."
 
 #: stringdump_steam_50_11.txt:4624
 msgid "Click in the play area"
-msgstr ""
+msgstr "Haga clic en el área de juego"
 
 #: stringdump_steam_50_11.txt:4625
 msgid "to paint the stockpile."
-msgstr ""
+msgstr "para pintar el almacén."
 
 #: stringdump_steam_50_11.txt:4626
 msgid "Accept"
@@ -18227,7 +18233,7 @@ msgstr "hacerse ciudadano"
 
 #: stringdump_steam_50_11.txt:4628
 msgid "Overlapping"
-msgstr ""
+msgstr "Dobreponiendo"
 
 #: stringdump_steam_50_11.txt:4629
 msgid "Water Source"
@@ -18239,7 +18245,7 @@ msgstr "Cosecha de fruta"
 
 #: stringdump_steam_50_11.txt:4631
 msgid "Garbage Dump"
-msgstr ""
+msgstr "Basurero"
 
 #: stringdump_steam_50_11.txt:4632
 msgid "Pen/Pasture"
@@ -18247,7 +18253,7 @@ msgstr "Corral/Pastoreo"
 
 #: stringdump_steam_50_11.txt:4633
 msgid "Pit/Pond"
-msgstr ""
+msgstr "Pozo/estanque"
 
 #: stringdump_steam_50_11.txt:4634
 msgid "Meeting Area"
@@ -18271,11 +18277,11 @@ msgstr ""
 
 #: stringdump_steam_50_11.txt:4639
 msgid "Select a type below to add a zone."
-msgstr ""
+msgstr "Seleccione un tipo a continuación para agregar una zona."
 
 #: stringdump_steam_50_11.txt:4640
 msgid "Click an icon to add a new zone."
-msgstr ""
+msgstr "Haga clic en un icono para agregar una nueva zona."
 
 #: stringdump_steam_50_11.txt:4641
 msgid "Select a rectangle"
@@ -18283,11 +18289,11 @@ msgstr "Selecciona un rectangulo"
 
 #: stringdump_steam_50_11.txt:4642
 msgid "which contains "
-msgstr ""
+msgstr "que contiene"
 
 #: stringdump_steam_50_11.txt:4643
 msgid "coffins"
-msgstr ""
+msgstr "ataúdes"
 
 #: stringdump_steam_50_11.txt:4644
 msgid "chairs"
@@ -18303,7 +18309,7 @@ msgstr "mesas"
 
 #: stringdump_steam_50_11.txt:4647
 msgid "in order to form"
-msgstr ""
+msgstr "para formar"
 
 #: stringdump_steam_50_11.txt:4648
 msgid "tombs."
@@ -18311,7 +18317,7 @@ msgstr "tumbas"
 
 #: stringdump_steam_50_11.txt:4649
 msgid "throne rooms/studies."
-msgstr ""
+msgstr "salas del trono/estudios."
 
 #: stringdump_steam_50_11.txt:4650
 msgid "bedrooms."
@@ -18327,7 +18333,7 @@ msgstr "Cuartos con múltiples camas "
 
 #: stringdump_steam_50_11.txt:4653
 msgid "will be made into"
-msgstr ""
+msgstr "se convertirá en"
 
 #: stringdump_steam_50_11.txt:4654
 msgid "Multi"
@@ -18367,7 +18373,7 @@ msgstr "creado."
 
 #: stringdump_steam_50_11.txt:4664
 msgid "dormitor"
-msgstr ""
+msgstr "dormitorio"
 
 #: stringdump_steam_50_11.txt:4665
 msgid "ies"
@@ -18375,7 +18381,7 @@ msgstr ""
 
 #: stringdump_steam_50_11.txt:4667
 msgid "coffin"
-msgstr ""
+msgstr "ataúd"
 
 #: stringdump_steam_50_11.txt:4668
 msgid "chair"
@@ -18391,27 +18397,27 @@ msgstr "mesa"
 
 #: stringdump_steam_50_11.txt:4671
 msgid " rejected (already in use.)"
-msgstr ""
+msgstr "rechazado (ya en uso)."
 
 #: stringdump_steam_50_11.txt:4672
 msgid " rejected (not enclosed.)"
-msgstr ""
+msgstr "Rechazado (no incluido)"
 
 #: stringdump_steam_50_11.txt:4673
 msgid "to paint the zone."
-msgstr ""
+msgstr "para pintar la zona."
 
 #: stringdump_steam_50_11.txt:4674
 msgid "Add new burrow"
-msgstr ""
+msgstr "Agregar nueva madriguera"
 
 #: stringdump_steam_50_11.txt:4675
 msgid "Nobody assigned"
-msgstr ""
+msgstr "Nadie asignado"
 
 #: stringdump_steam_50_11.txt:4676
 msgid "to paint the burrow."
-msgstr ""
+msgstr "para pintar la madriguera."
 
 #: stringdump_steam_50_11.txt:4677
 msgid "Click a tile to position the stop."
@@ -18419,15 +18425,15 @@ msgstr ""
 
 #: stringdump_steam_50_11.txt:4678
 msgid "Building track stops is recommended!"
-msgstr ""
+msgstr "¡Se recomienda construir paradas de vía!"
 
 #: stringdump_steam_50_11.txt:4679
 msgid "Add new route"
-msgstr ""
+msgstr "Añadir nueva ruta"
 
 #: stringdump_steam_50_11.txt:4680
 msgid "Stop "
-msgstr ""
+msgstr ": Detener"
 
 #: stringdump_steam_50_11.txt:4681
 msgid "Indep"
@@ -18439,7 +18445,7 @@ msgstr ""
 
 #: stringdump_steam_50_11.txt:4683
 msgid "Pop"
-msgstr ""
+msgstr "Pop"
 
 #: stringdump_steam_50_11.txt:4684
 msgid "Drink"
@@ -18463,7 +18469,7 @@ msgstr "Año"
 
 #: stringdump_steam_50_11.txt:4689
 msgid "Elevation "
-msgstr ""
+msgstr "Elevación"
 
 #: stringdump_steam_50_11.txt:4690
 msgid "Conflict Level"
@@ -18471,7 +18477,7 @@ msgstr ""
 
 #: stringdump_steam_50_11.txt:4691
 msgid "Encounter"
-msgstr ""
+msgstr "encuentro"
 
 #: stringdump_steam_50_11.txt:4692
 msgid "Horseplay"
@@ -18507,15 +18513,15 @@ msgstr ""
 
 #: stringdump_steam_50_11.txt:4700
 msgid "Created Wealth:"
-msgstr ""
+msgstr "Riqueza Creada:"
 
 #: stringdump_steam_50_11.txt:4701
 msgid "Weapons:"
-msgstr ""
+msgstr "Armas:"
 
 #: stringdump_steam_50_11.txt:4702
 msgid "Armor and Garb:"
-msgstr ""
+msgstr "Armadura y Ropa:"
 
 #: stringdump_steam_50_11.txt:4703
 msgid "Furniture:"
@@ -18523,31 +18529,31 @@ msgstr "Muebles:"
 
 #: stringdump_steam_50_11.txt:4704
 msgid "Other Objects:"
-msgstr ""
+msgstr "Otros Objetos:"
 
 #: stringdump_steam_50_11.txt:4705
 msgid "Architecture:"
-msgstr ""
+msgstr "Arquitectura:"
 
 #: stringdump_steam_50_11.txt:4706
 msgid "Displayed:"
-msgstr ""
+msgstr "Desplegado"
 
 #: stringdump_steam_50_11.txt:4707
 msgid "Held/Worn:"
-msgstr ""
+msgstr "Guardado/Desgastado:"
 
 #: stringdump_steam_50_11.txt:4708
 msgid "Imported Wealth:"
-msgstr ""
+msgstr "Riqueza Importada:"
 
 #: stringdump_steam_50_11.txt:4709
 msgid "Exported Wealth:"
-msgstr ""
+msgstr "Riqueza Exportada:"
 
 #: stringdump_steam_50_11.txt:4710
 msgid "You need a broker with"
-msgstr ""
+msgstr "Necesitas un agente comercial con"
 
 #: stringdump_steam_50_11.txt:4711
 msgid "the appraisal skill."
@@ -18559,11 +18565,11 @@ msgstr "Un contador ayuda "
 
 #: stringdump_steam_50_11.txt:4713
 msgid "with accuracy."
-msgstr ""
+msgstr "con precisión."
 
 #: stringdump_steam_50_11.txt:4714
 msgid "Trade Information:"
-msgstr ""
+msgstr "Información Comercial:"
 
 #: stringdump_steam_50_11.txt:4715
 msgid "Left click for recenter and expand options.  Right click to dismiss."
@@ -18571,15 +18577,15 @@ msgstr ""
 
 #: stringdump_steam_50_11.txt:4717
 msgid "Following "
-msgstr ""
+msgstr "Siguiendo"
 
 #: stringdump_steam_50_11.txt:4718
 msgid "Set digging orders."
-msgstr ""
+msgstr "Establecer órdenes de excavación."
 
 #: stringdump_steam_50_11.txt:4719
 msgid "Finish setting dig orders."
-msgstr ""
+msgstr "Termine de configurar las órdenes de excavación."
 
 #: stringdump_steam_50_11.txt:4720
 msgid ""
@@ -18601,23 +18607,23 @@ msgstr ""
 
 #: stringdump_steam_50_11.txt:4723
 msgid "Dig a ramp on this level, going up."
-msgstr ""
+msgstr "Cava una rampa en este nivel, subiendo."
 
 #: stringdump_steam_50_11.txt:4724
 msgid "Dig a channel, making a ramp on the level below."
-msgstr ""
+msgstr "Cava un canal, haciendo una rampa en el nivel inferior."
 
 #: stringdump_steam_50_11.txt:4725
 msgid "Hold left button to draw."
-msgstr ""
+msgstr "Mantenga presionado el botón izquierdo para dibujar."
 
 #: stringdump_steam_50_11.txt:4726
 msgid "Left click to choose corners of a rectangle."
-msgstr ""
+msgstr "Haga clic izquierdo para elegir las esquinas de un rectángulo."
 
 #: stringdump_steam_50_11.txt:4727
 msgid "Dig every tile selected."
-msgstr ""
+msgstr "Cava cada cuadrado seleccionado."
 
 #: stringdump_steam_50_11.txt:4728
 msgid ""
@@ -18629,55 +18635,55 @@ msgstr ""
 
 #: stringdump_steam_50_11.txt:4729
 msgid "Dig only ore and gems selected."
-msgstr ""
+msgstr "Excava solo el mineral y las gemas seleccionadas."
 
 #: stringdump_steam_50_11.txt:4730
 msgid "Dig only gems selected."
-msgstr ""
+msgstr "Excava solo las gemas seleccionadas."
 
 #: stringdump_steam_50_11.txt:4731
 msgid "Selected tiles are very high priority."
-msgstr ""
+msgstr "Los cuadrados seleccionados tienen una prioridad muy alta."
 
 #: stringdump_steam_50_11.txt:4732
 msgid "Selected tiles are high priority."
-msgstr ""
+msgstr "Los cuadrados seleccionados son prioridad alta."
 
 #: stringdump_steam_50_11.txt:4733
 msgid "Selected tiles are high-medium priority."
-msgstr ""
+msgstr "Los cuadrados seleccionados son prioridad media-alta."
 
 #: stringdump_steam_50_11.txt:4734
 msgid "Selected tiles are medium priority. [DEFAULT]"
-msgstr ""
+msgstr "Los cuadrados seleccionados son prioridad media [PREDEFINIDO]"
 
 #: stringdump_steam_50_11.txt:4735
 msgid "Selected tiles are medium-low priority."
-msgstr ""
+msgstr "Los cuadrados seleccionados son prioridad media-baja."
 
 #: stringdump_steam_50_11.txt:4736
 msgid "Selected tiles are low priority."
-msgstr ""
+msgstr "Los cuadrados seleccionados son prioridad baja."
 
 #: stringdump_steam_50_11.txt:4737
 msgid "Selected tiles are very low priority."
-msgstr ""
+msgstr "Los cuadrados seleccionados son prioridad muy baja."
 
 #: stringdump_steam_50_11.txt:4738
 msgid "Change to standard dig mode."
-msgstr ""
+msgstr "Cambiar a modo \"excavación estándar\"."
 
 #: stringdump_steam_50_11.txt:4739
 msgid "Change to blueprint-only mode."
-msgstr ""
+msgstr "Cambiar a modo \"solo planos\"."
 
 #: stringdump_steam_50_11.txt:4740
 msgid "Change blueprints to standard selections."
-msgstr ""
+msgstr "Cambie los planos a selecciones estándar."
 
 #: stringdump_steam_50_11.txt:4741
 msgid "Change standard selections to blueprints."
-msgstr ""
+msgstr "Cambie las selecciones estándar a planos."
 
 #: stringdump_steam_50_11.txt:4742
 msgid "Show advanced options."
@@ -18689,7 +18695,7 @@ msgstr "Oculta opciones avanzadas."
 
 #: stringdump_steam_50_11.txt:4744
 msgid "Set tree chopping orders."
-msgstr ""
+msgstr "Establecer la orden de corte de árboles."
 
 #: stringdump_steam_50_11.txt:4745
 msgid ""
@@ -18711,7 +18717,7 @@ msgstr ""
 
 #: stringdump_steam_50_11.txt:4748
 msgid "Set plant gathering orders."
-msgstr ""
+msgstr "Establecer órdenes de recolección de plantas."
 
 #: stringdump_steam_50_11.txt:4749
 msgid ""
@@ -18721,16 +18727,18 @@ msgstr ""
 
 #: stringdump_steam_50_11.txt:4750
 msgid "Finish setting plant gathering orders."
-msgstr ""
+msgstr "Termine de configurar las órdenes de recolección de la planta."
 
 #: stringdump_steam_50_11.txt:4751
 msgid "Change to standard gather mode."
-msgstr ""
+msgstr "Cambie al modo de recopilación estándar."
 
 #: stringdump_steam_50_11.txt:4752
 msgid ""
 "Set wall smoothing, engraving, track carving, and fortification orders."
 msgstr ""
+"Establezca órdenes de alisado de muros, grabado, tallado de vías y "
+"fortificación."
 
 #: stringdump_steam_50_11.txt:4753
 msgid ""
@@ -18740,7 +18748,7 @@ msgstr ""
 
 #: stringdump_steam_50_11.txt:4754
 msgid "Engrave artwork into a smooth wall."
-msgstr ""
+msgstr "Grabe obras de arte en una pared lisa."
 
 #: stringdump_steam_50_11.txt:4755
 msgid ""
@@ -18755,11 +18763,11 @@ msgstr ""
 
 #: stringdump_steam_50_11.txt:4757
 msgid "Finish setting wall orders."
-msgstr ""
+msgstr "Termine de establecer órdenes de pared."
 
 #: stringdump_steam_50_11.txt:4758
 msgid "Change to standard orders mode."
-msgstr ""
+msgstr "Cambiar al modo de pedidos estándar."
 
 #: stringdump_steam_50_11.txt:4759
 msgid ""
@@ -18769,24 +18777,25 @@ msgstr ""
 
 #: stringdump_steam_50_11.txt:4760
 msgid "Finish setting item/building designations."
-msgstr ""
+msgstr "Termine de configurar las designaciones de elementos/edificios."
 
 #: stringdump_steam_50_11.txt:4761
 msgid ""
 "Claim a forbidden item or building so it will be used by your citizens."
 msgstr ""
+"Reclama un objeto o edificio prohibido para que lo utilicen tus ciudadanos."
 
 #: stringdump_steam_50_11.txt:4762
 msgid "Forbid your citizens from using an item or building."
-msgstr ""
+msgstr "Prohíbe a tus ciudadanos usar un objeto o edificio."
 
 #: stringdump_steam_50_11.txt:4763
 msgid "Designate an item for dumping in a dumping zone."
-msgstr ""
+msgstr "Designe un artículo para descargar en una zona de descarga."
 
 #: stringdump_steam_50_11.txt:4764
 msgid "Remove dumping designations."
-msgstr ""
+msgstr "Eliminando designaciones de deshechos"
 
 #: stringdump_steam_50_11.txt:4765
 msgid "Designate an item for melting at any smelter."
@@ -18798,7 +18807,7 @@ msgstr ""
 
 #: stringdump_steam_50_11.txt:4767
 msgid "Remove hidden designations."
-msgstr ""
+msgstr "Eliminar designaciones ocultas."
 
 #: stringdump_steam_50_11.txt:4768
 msgid "Hide an item or building from your view.  Citizens will still use it."
@@ -18806,23 +18815,25 @@ msgstr ""
 
 #: stringdump_steam_50_11.txt:4769
 msgid "Set high and low traffic areas."
-msgstr ""
+msgstr "Establecer áreas de tráfico alto y bajo."
 
 #: stringdump_steam_50_11.txt:4770
 msgid "Finish setting traffic areas."
-msgstr ""
+msgstr "Termine de configurar las áreas de tráfico."
 
 #: stringdump_steam_50_11.txt:4771
 msgid "Set a high traffic area.  Use this in wide central passages."
 msgstr ""
+"Establecer un área de alto tráfico. Use esto en pasajes centrales amplios."
 
 #: stringdump_steam_50_11.txt:4772
 msgid "Set a normal traffic area, the default state."
-msgstr ""
+msgstr "Establezca un área de tráfico normal, el estado predeterminado."
 
 #: stringdump_steam_50_11.txt:4773
 msgid "Set a low traffic area.  Citizens will look for better routes."
 msgstr ""
+"Establecer un área de poco tráfico. Los ciudadanos buscarán mejores rutas."
 
 #: stringdump_steam_50_11.txt:4774
 msgid ""
@@ -18832,31 +18843,35 @@ msgstr ""
 
 #: stringdump_steam_50_11.txt:4775
 msgid "Set the exact weight in steps of a traffic type."
-msgstr ""
+msgstr "Establezca el peso exacto en pasos de un tipo de tráfico."
 
 #: stringdump_steam_50_11.txt:4776
 msgid "Remove mining, woodcutting, plant gathering, and smoothing orders."
 msgstr ""
+"Elimine las órdenes de minería, tala de árboles, recolección de plantas y "
+"suavizado."
 
 #: stringdump_steam_50_11.txt:4777
 msgid "Finish removing mining etc. orders."
-msgstr ""
+msgstr "Termine de eliminar las órdenes de minería, etc."
 
 #: stringdump_steam_50_11.txt:4778
 msgid "Place structures and work areas that require construction materials."
 msgstr ""
+"Ubicar estructuras y áreas de trabajo que requieran materiales de "
+"construcción."
 
 #: stringdump_steam_50_11.txt:4779
 msgid "Finish placing structures."
-msgstr ""
+msgstr "Terminar de colocar estructuras."
 
 #: stringdump_steam_50_11.txt:4780
 msgid "Place stockpiles for item storage."
-msgstr ""
+msgstr "Coloque almacenes para el almacenamiento de artículos."
 
 #: stringdump_steam_50_11.txt:4781
 msgid "Finish placing stockpiles."
-msgstr ""
+msgstr "Terminar de colocar los almacenes."
 
 #: stringdump_steam_50_11.txt:4782
 msgid ""
@@ -18872,15 +18887,15 @@ msgstr ""
 
 #: stringdump_steam_50_11.txt:4784
 msgid "Repaint this stockpile."
-msgstr ""
+msgstr "Vuelva a pintar este almacén."
 
 #: stringdump_steam_50_11.txt:4785
 msgid "Erase a portion of this stockpile."
-msgstr ""
+msgstr "Borra una parte de este almacén."
 
 #: stringdump_steam_50_11.txt:4786
 msgid "Remove this stockpile permanently."
-msgstr ""
+msgstr "Eliminar este almacén de forma permanente."
 
 #: stringdump_steam_50_11.txt:4787
 msgid ""
@@ -18893,18 +18908,21 @@ msgid ""
 "Set from which workshops and stockpiles this stockpile gives and takes "
 "items."
 msgstr ""
+"Elige desde que talleres y almacenes este almacen da y recibe objetos."
 
 #: stringdump_steam_50_11.txt:4789
 msgid "Set how many barrerls, bins, and wheelbarrows this stockpile can use."
 msgstr ""
+"Establezca cuántos barriles, contenedores y carretillas puede usar este "
+"almacén."
 
 #: stringdump_steam_50_11.txt:4790
 msgid "Place zones to establish meeting areas, pastures, and more."
-msgstr ""
+msgstr "Coloque zonas para establecer áreas de reunión, pastos y más."
 
 #: stringdump_steam_50_11.txt:4791
 msgid "Finish placing zones."
-msgstr ""
+msgstr "Terminar de colocar zonas."
 
 #: stringdump_steam_50_11.txt:4792
 msgid ""
@@ -18914,11 +18932,11 @@ msgstr ""
 
 #: stringdump_steam_50_11.txt:4793
 msgid "Go to the previous zone overlapping the tile you clicked."
-msgstr ""
+msgstr "Vaya a la zona anterior superpuesta al mosaico en el que hizo clic."
 
 #: stringdump_steam_50_11.txt:4794
 msgid "Go to the next zone overlapping the tile you clicked."
-msgstr ""
+msgstr "Vaya a la siguiente zona superpuesta al mosaico en el que hizo clic."
 
 #: stringdump_steam_50_11.txt:4795
 msgid "Repaint this zone."
@@ -18930,11 +18948,11 @@ msgstr "Elimina una porción de esta zona."
 
 #: stringdump_steam_50_11.txt:4797
 msgid "Suspend activities in this zone.  Does not remove the zone."
-msgstr ""
+msgstr "Suspender actividades en esta zona. No elimina la zona."
 
 #: stringdump_steam_50_11.txt:4798
 msgid "Remove this zone permanently."
-msgstr ""
+msgstr "Eliminar esta zona de forma permanente."
 
 #: stringdump_steam_50_11.txt:4799
 msgid ""
@@ -18943,11 +18961,11 @@ msgstr ""
 
 #: stringdump_steam_50_11.txt:4800
 msgid "Gather fruit and vegetables from shrubs in this zone."
-msgstr ""
+msgstr "Recoge frutas y verduras de los arbustos de esta zona."
 
 #: stringdump_steam_50_11.txt:4801
 msgid "Gather fallen fruit in this zone."
-msgstr ""
+msgstr "Recoge la fruta caída en esta zona."
 
 #: stringdump_steam_50_11.txt:4802
 msgid ""
@@ -18982,7 +19000,7 @@ msgstr ""
 
 #: stringdump_steam_50_11.txt:4807
 msgid "Set details for the assigned location."
-msgstr ""
+msgstr "Establecer detalles para la ubicación asignada."
 
 #: stringdump_steam_50_11.txt:4808
 msgid ""
@@ -18995,6 +19013,8 @@ msgid ""
 "Select this option and any unassigned deceased pets will be buried here "
 "automatically."
 msgstr ""
+"Seleccione esta opción y cualquier mascota fallecida no asignada será "
+"enterrada aquí automáticamente."
 
 #: stringdump_steam_50_11.txt:4810
 msgid "Choose which squads will use this barracks."
@@ -19023,12 +19043,17 @@ msgid ""
 "Plant gathering zones are used in locations where plants will be gathered "
 "frequently.  Use the gather designation otherwise."
 msgstr ""
+"Las zonas de recolección de plantas se utilizan en lugares donde las plantas"
+" se recolectarán con frecuencia. Use la designación de recopilación de lo "
+"contrario."
 
 #: stringdump_steam_50_11.txt:4815
 msgid ""
 "Certain livestock need to graze on grass.  Assign these animals to a pasture"
 " zone.  No fencing is needed."
 msgstr ""
+"Ciertos animales necesitan pastar en pasto. Asigne estos animales a una zona"
+" de pasto. No se necesita vallado."
 
 #: stringdump_steam_50_11.txt:4816
 msgid ""
@@ -19048,6 +19073,8 @@ msgid ""
 "Your citizens will collect clay at this zone if a clay floor or clay wall is"
 " included.  This task is initiated manually at the kiln."
 msgstr ""
+"Tus ciudadanos recogerán arcilla en esta zona si se incluye un suelo o una "
+"pared de arcilla. Esta tarea se inicia manualmente en el horno."
 
 #: stringdump_steam_50_11.txt:4819
 msgid ""
@@ -19092,17 +19119,23 @@ msgid ""
 "Prisoners convicted in the Justice menu can be incarcerated at a chain or "
 "metal cage in the dungeon zone."
 msgstr ""
+"Los presos condenados en el menú Justicia pueden ser encarcelados en una "
+"cadena o jaula de metal en la zona de mazmorras."
 
 #: stringdump_steam_50_11.txt:4825
 msgid ""
 "Deceased citizens and pets can be laid to rest in a tomb.  It should include"
 " a coffin, casket, or sarcophagus."
 msgstr ""
+"Los ciudadanos fallecidos y las mascotas pueden descansar en una tumba. Debe"
+" incluir un ataúd, ataúd o sarcófago."
 
 #: stringdump_steam_50_11.txt:4826
 msgid ""
 "Establish burrows to organize work and living spaces in larger fortresses."
 msgstr ""
+"Establece madrigueras para organizar espacios de trabajo y vivienda en "
+"fortalezas más grandes."
 
 #: stringdump_steam_50_11.txt:4827
 msgid "Finish establishing burrows."
@@ -19115,15 +19148,15 @@ msgstr ""
 
 #: stringdump_steam_50_11.txt:4829
 msgid "Repaint this burrow."
-msgstr ""
+msgstr "Vuelve a pintar esta madriguera."
 
 #: stringdump_steam_50_11.txt:4830
 msgid "Erase a portion of this burrow."
-msgstr ""
+msgstr "Borra una parte de esta madriguera."
 
 #: stringdump_steam_50_11.txt:4831
 msgid "Remove this burrow permanently."
-msgstr ""
+msgstr "Elimina esta madriguera de forma permanente."
 
 #: stringdump_steam_50_11.txt:4832
 msgid "Recenter on this burrow."
@@ -19132,6 +19165,7 @@ msgstr ""
 #: stringdump_steam_50_11.txt:4833
 msgid "Toggle whether workshops can source materials from outside the burrow."
 msgstr ""
+"Alterne si los talleres pueden obtener materiales de fuera de la madriguera."
 
 #: stringdump_steam_50_11.txt:4834
 msgid ""
@@ -19146,7 +19180,7 @@ msgstr ""
 
 #: stringdump_steam_50_11.txt:4836
 msgid "Finish setting hauling routes."
-msgstr ""
+msgstr "Termine de configurar las rutas de transporte."
 
 #: stringdump_steam_50_11.txt:4837
 msgid ""
@@ -19162,7 +19196,7 @@ msgstr ""
 
 #: stringdump_steam_50_11.txt:4839
 msgid "Name this route."
-msgstr ""
+msgstr "Nombra esta ruta."
 
 #: stringdump_steam_50_11.txt:4840
 msgid "Remove this route."
@@ -19184,22 +19218,23 @@ msgstr ""
 #: stringdump_steam_50_11.txt:4843
 msgid "Set conditions for the minecart to move on to the next stop."
 msgstr ""
+"Establezca las condiciones para que el vagón avance a la siguiente parada."
 
 #: stringdump_steam_50_11.txt:4844
 msgid "Name this stop."
-msgstr ""
+msgstr "Nombra esta parada."
 
 #: stringdump_steam_50_11.txt:4845
 msgid "Remove this stop."
-msgstr ""
+msgstr "Eliminar esta parada."
 
 #: stringdump_steam_50_11.txt:4846
 msgid "The assigned vehicle is at this stop."
-msgstr ""
+msgstr "El vehículo asignado se encuentra en esta parada."
 
 #: stringdump_steam_50_11.txt:4847
 msgid "The assigned vehicle is moving toward this stop."
-msgstr ""
+msgstr "El vehículo asignado se está moviendo hacia esta parada."
 
 #: stringdump_steam_50_11.txt:4848
 msgid ""
@@ -19209,43 +19244,43 @@ msgstr ""
 
 #: stringdump_steam_50_11.txt:4849
 msgid "Open the citizen information menu."
-msgstr ""
+msgstr "Abre el menú de información al ciudadano."
 
 #: stringdump_steam_50_11.txt:4850
 msgid "Open the task information menu."
-msgstr ""
+msgstr "Abra el menú de información de la tarea."
 
 #: stringdump_steam_50_11.txt:4851
 msgid "Open the place information menu."
-msgstr ""
+msgstr "Abre el menú de información del lugar."
 
 #: stringdump_steam_50_11.txt:4852
 msgid "Open the labor menu."
-msgstr ""
+msgstr "Abre el menú de mano de obra."
 
 #: stringdump_steam_50_11.txt:4853
 msgid "Open the work orders menu."
-msgstr ""
+msgstr "Abra el menú de órdenes de trabajo."
 
 #: stringdump_steam_50_11.txt:4854
 msgid "Open the nobles and administrators menu."
-msgstr ""
+msgstr "Abre el menú de nobles y administradores."
 
 #: stringdump_steam_50_11.txt:4855
 msgid "Open the objects menu."
-msgstr ""
+msgstr "Abre el menú de objetos."
 
 #: stringdump_steam_50_11.txt:4856
 msgid "Open the squad sidebar."
-msgstr ""
+msgstr "Abre la barra lateral del escuadrón."
 
 #: stringdump_steam_50_11.txt:4857
 msgid "Open the world screen."
-msgstr ""
+msgstr "Abre la pantalla de mundo"
 
 #: stringdump_steam_50_11.txt:4858
 msgid "Open the justice menu."
-msgstr ""
+msgstr "Abre el menú de Justicia"
 
 #: stringdump_steam_50_11.txt:4859
 msgid ""
@@ -19266,22 +19301,24 @@ msgstr ""
 #: stringdump_steam_50_11.txt:4861
 msgid "Toggle whether goods banned by export mandates are listed."
 msgstr ""
+"Alterne si se enumeran los bienes prohibidos por los mandatos de "
+"exportación."
 
 #: stringdump_steam_50_11.txt:4862
 msgid "Sort by distance from the depot."
-msgstr ""
+msgstr "Ordenar por distancia desde el depósito."
 
 #: stringdump_steam_50_11.txt:4863
 msgid "Sort by value."
-msgstr ""
+msgstr "Ordenar por valor."
 
 #: stringdump_steam_50_11.txt:4864
 msgid "Leave menu and recenter the view on the time."
-msgstr ""
+msgstr "Salga del menú y vuelva a centrar la vista en el tiempo."
 
 #: stringdump_steam_50_11.txt:4865
 msgid "Leave menu and open the item's sheet."
-msgstr ""
+msgstr "Salga del menú y abra la hoja del artículo."
 
 #: stringdump_steam_50_11.txt:4866
 msgid ""
@@ -19313,28 +19350,31 @@ msgstr ""
 
 #: stringdump_steam_50_11.txt:4871
 msgid "This work order is active."
-msgstr ""
+msgstr "Esta orden de trabajo está activa."
 
 #: stringdump_steam_50_11.txt:4872
 msgid "This work order is waiting for its next scheduled check."
-msgstr ""
+msgstr "Esta orden de trabajo está esperando su próxima revisión programada."
 
 #: stringdump_steam_50_11.txt:4873
 msgid "This work order is checking its conditions for activation."
 msgstr ""
+"Esta orden de trabajo está comprobando sus condiciones para la activación."
 
 #: stringdump_steam_50_11.txt:4874
 msgid "This work order is ready to activate."
-msgstr ""
+msgstr "Esta orden de trabajo está lista para activarse."
 
 #: stringdump_steam_50_11.txt:4875
 msgid ""
 "Set the maximum number of workshops that can be used by the work order."
 msgstr ""
+"Establezca el número máximo de talleres que puede utilizar la orden de "
+"trabajo."
 
 #: stringdump_steam_50_11.txt:4876
 msgid "This work order has been validated by the manager."
-msgstr ""
+msgstr "Esta orden de trabajo ha sido validad por el gerente."
 
 #: stringdump_steam_50_11.txt:4877
 msgid ""
@@ -19348,7 +19388,7 @@ msgstr ""
 
 #: stringdump_steam_50_11.txt:4878
 msgid "Change the number of times the task will be performed."
-msgstr ""
+msgstr "Cambie el número de veces que se realizará la tarea."
 
 #: stringdump_steam_50_11.txt:4879
 msgid ""
@@ -19365,11 +19405,11 @@ msgstr ""
 
 #: stringdump_steam_50_11.txt:4881
 msgid "Set the material used or other details of the task."
-msgstr ""
+msgstr "Establecer el material utilizado u otros detalles de la tarea."
 
 #: stringdump_steam_50_11.txt:4882
 msgid "Remove this work order."
-msgstr ""
+msgstr "Eliminar esta orden de trabajo."
 
 #: stringdump_steam_50_11.txt:4883
 msgid "Change the frequency that the conditions are checked."
@@ -19387,11 +19427,11 @@ msgstr ""
 
 #: stringdump_steam_50_11.txt:4886
 msgid "Change the amount of the item being checked."
-msgstr ""
+msgstr "Cambie la cantidad del artículo que se está revisando."
 
 #: stringdump_steam_50_11.txt:4887
 msgid "Change the inequality of the condition."
-msgstr ""
+msgstr "Cambia la desigualdad de la condición."
 
 #: stringdump_steam_50_11.txt:4888
 msgid "Change the type of the item being checked."
@@ -19399,7 +19439,7 @@ msgstr ""
 
 #: stringdump_steam_50_11.txt:4889
 msgid "Change the material of the item being checked."
-msgstr ""
+msgstr "Cambie el material del artículo que se está comprobando."
 
 #: stringdump_steam_50_11.txt:4890
 msgid ""
@@ -19416,64 +19456,66 @@ msgstr ""
 
 #: stringdump_steam_50_11.txt:4892
 msgid "Remove this condition."
-msgstr ""
+msgstr "Eliminar esta condición."
 
 #: stringdump_steam_50_11.txt:4893
 msgid "Leave this menu and recenter on this creature."
-msgstr ""
+msgstr "Deja este menú y vuelve a centrarte en esta criatura."
 
 #: stringdump_steam_50_11.txt:4894
 msgid "Leave this menu and view this creature's sheet."
-msgstr ""
+msgstr "Sal de este menú y mira la ficha de esta criatura."
 
 #: stringdump_steam_50_11.txt:4895
 msgid "Leave this menu and recenter on this object."
-msgstr ""
+msgstr "Deje este menú y vuelva a centrar en este objeto."
 
 #: stringdump_steam_50_11.txt:4896
 msgid "Leave this menu and view this object's sheet."
-msgstr ""
+msgstr "Salga de este menú y vea la hoja de este objeto."
 
 #: stringdump_steam_50_11.txt:4897
 msgid "Leave this menu and recenter on this place."
-msgstr ""
+msgstr "Deja este menú y vuelve a centrarte en este lugar."
 
 #: stringdump_steam_50_11.txt:4898
 msgid "Leave this menu and view this place's sheet or menu."
-msgstr ""
+msgstr "Sal de este menú y visualiza la ficha o el menú de este lugar."
 
 #: stringdump_steam_50_11.txt:4899
 msgid "Leave this menu and recenter on the task's building."
-msgstr ""
+msgstr "Deje este menú y vuelva a centrar en el edificio de la tarea."
 
 #: stringdump_steam_50_11.txt:4900
 msgid "Set the details of this task, such as the material used."
-msgstr ""
+msgstr "Establezca los detalles de esta tarea, como el material utilizado."
 
 #: stringdump_steam_50_11.txt:4901
 msgid "View a detailed description of this activity."
-msgstr ""
+msgstr "Ver una descripción detallada de esta actividad."
 
 #: stringdump_steam_50_11.txt:4902
 msgid "Toggle whether the task will be repeated indefinitely."
-msgstr ""
+msgstr "Alterne si la tarea se repetirá indefinidamente."
 
 #: stringdump_steam_50_11.txt:4903
 msgid "Remove the current worker from the task."
-msgstr ""
+msgstr "Quitar al trabajador actual de la tarea."
 
 #: stringdump_steam_50_11.txt:4904
 msgid ""
 "Suspend this task.  This removes the worker.  The task can be unsuspended."
 msgstr ""
+"Suspender esta tarea. Esto elimina al trabajador. La tarea se puede "
+"suspender."
 
 #: stringdump_steam_50_11.txt:4905
 msgid "Cancel this task."
-msgstr ""
+msgstr "Cancele esta tarea."
 
 #: stringdump_steam_50_11.txt:4906
 msgid "Assign a trainer to this creature."
-msgstr ""
+msgstr "Asigna un entrenador a esta criatura."
 
 #: stringdump_steam_50_11.txt:4907
 msgid ""
@@ -19500,31 +19542,31 @@ msgstr ""
 
 #: stringdump_steam_50_11.txt:4911
 msgid "This creature is ecstatic right now."
-msgstr ""
+msgstr "Esta criatura está extasiada en este momento."
 
 #: stringdump_steam_50_11.txt:4912
 msgid "This creature is happy right now."
-msgstr ""
+msgstr "Esta criatura es feliz en este momento."
 
 #: stringdump_steam_50_11.txt:4913
 msgid "This creature is pleased right now."
-msgstr ""
+msgstr "Esta criatura está contenta ahora mismo."
 
 #: stringdump_steam_50_11.txt:4914
 msgid "This creature is content right now."
-msgstr ""
+msgstr "Esta criatura está contenta en este momento."
 
 #: stringdump_steam_50_11.txt:4915
 msgid "This creature is displeased right now."
-msgstr ""
+msgstr "Esta criatura está disgustada en este momento."
 
 #: stringdump_steam_50_11.txt:4916
 msgid "This creature is unhappy right now."
-msgstr ""
+msgstr "Esta criatura es miserable en este momento."
 
 #: stringdump_steam_50_11.txt:4917
 msgid "This creature is miserable right now."
-msgstr ""
+msgstr "Esta criatura es miserable en este momento."
 
 #: stringdump_steam_50_11.txt:4918
 msgid ""
@@ -19540,7 +19582,7 @@ msgstr ""
 
 #: stringdump_steam_50_11.txt:4920
 msgid "This creature is a tavern keeper."
-msgstr ""
+msgstr "Esta criatura es un tabernero."
 
 #: stringdump_steam_50_11.txt:4921
 msgid "This creature is a performer."
@@ -19548,11 +19590,11 @@ msgstr "Esta criatura es una artista."
 
 #: stringdump_steam_50_11.txt:4922
 msgid "This creature is a scholar."
-msgstr ""
+msgstr "Esta criatura es un erudito."
 
 #: stringdump_steam_50_11.txt:4923
 msgid "This creature is a scribe."
-msgstr ""
+msgstr "Esta criatura es un escriba."
 
 #: stringdump_steam_50_11.txt:4924
 msgid "This creature is a mercenary."
@@ -19564,15 +19606,15 @@ msgstr "Esta criatura es un cazador de monstruos."
 
 #: stringdump_steam_50_11.txt:4926
 msgid "This creature is a doctor."
-msgstr ""
+msgstr "Esta criatura es un médico."
 
 #: stringdump_steam_50_11.txt:4927
 msgid "This creature is assigned to a specific workshop."
-msgstr ""
+msgstr "Esta criatura está asignada a un taller específico."
 
 #: stringdump_steam_50_11.txt:4928
 msgid "This creature is assigned to a work detail."
-msgstr ""
+msgstr "Esta criatura está asignada a un destacamento de trabajo."
 
 #: stringdump_steam_50_11.txt:4929
 msgid ""
@@ -19588,27 +19630,27 @@ msgstr ""
 
 #: stringdump_steam_50_11.txt:4931
 msgid "This type is not relevant to brewing."
-msgstr ""
+msgstr "Este tipo no es relevante para la elaboración de cerveza."
 
 #: stringdump_steam_50_11.txt:4932
 msgid "This type is restricted from brewing."
-msgstr ""
+msgstr "Este tipo está restringido de la elaboración de cerveza."
 
 #: stringdump_steam_50_11.txt:4933
 msgid "This type is allowed to be brewed."
-msgstr ""
+msgstr "Este tipo está permitido para ser elaborado."
 
 #: stringdump_steam_50_11.txt:4934
 msgid "This type is not relevant to cooking."
-msgstr ""
+msgstr "Este tipo no es relevante para cocinar."
 
 #: stringdump_steam_50_11.txt:4935
 msgid "This type is restricted from cooking."
-msgstr ""
+msgstr "Este tipo está restringido de cocinar."
 
 #: stringdump_steam_50_11.txt:4936
 msgid "This type is allowed to be cooked."
-msgstr ""
+msgstr "Este tipo se puede cocinar"
 
 #: stringdump_steam_50_11.txt:4937
 msgid "Open the announcements screen."
@@ -19616,7 +19658,7 @@ msgstr ""
 
 #: stringdump_steam_50_11.txt:4938
 msgid "Rename this location."
-msgstr ""
+msgstr "Cambia el nombre de esta ubicación."
 
 #: stringdump_steam_50_11.txt:4939
 msgid ""
@@ -19637,19 +19679,21 @@ msgstr ""
 
 #: stringdump_steam_50_11.txt:4942
 msgid "This option indicates that the location is only open to members."
-msgstr ""
+msgstr "Esta opción indica que la ubicación solo está abierta para miembros."
 
 #: stringdump_steam_50_11.txt:4943
 msgid "Remove this worker from this occupation."
-msgstr ""
+msgstr "Retire a este trabajador de esta ocupación."
 
 #: stringdump_steam_50_11.txt:4944
 msgid "Set the camera to follow this item."
-msgstr ""
+msgstr "Configure la cámara para seguir este elemento."
 
 #: stringdump_steam_50_11.txt:4945
 msgid "This item is tagged by a task and will not be used by other tasks."
 msgstr ""
+"Este elemento está etiquetado por una tarea y no será utilizado por otras "
+"tareas."
 
 #: stringdump_steam_50_11.txt:4946
 msgid "See this creature's combat history."
@@ -19666,26 +19710,28 @@ msgstr ""
 #: stringdump_steam_50_11.txt:4949
 msgid "Send this creature to a linked site, or expel this creature entirely."
 msgstr ""
+"Envía esta criatura a un sitio enlazado, o expulsa esta criatura por "
+"completo."
 
 #: stringdump_steam_50_11.txt:4950
 msgid "This item is part of the assigned squad equipment."
-msgstr ""
+msgstr "Este artículo es parte del equipo de escuadrón asignado."
 
 #: stringdump_steam_50_11.txt:4951
 msgid "This item is a tool assigned by a work detail."
-msgstr ""
+msgstr "Este artículo es una herramienta asignada por un detalle de trabajo."
 
 #: stringdump_steam_50_11.txt:4952
 msgid "This item is a symbol of a noble or administrator."
-msgstr ""
+msgstr "Este artículo es un símbolo de un noble o administrador."
 
 #: stringdump_steam_50_11.txt:4953
 msgid "This item is part of the creature's regular clothing."
-msgstr ""
+msgstr "Este artículo es parte de la ropa normal de la criatura."
 
 #: stringdump_steam_50_11.txt:4954
 msgid "View this item's sheet."
-msgstr ""
+msgstr "Ver la ficha de este artículo."
 
 #: stringdump_steam_50_11.txt:4955
 msgid "View this creature's sheet."
@@ -19693,19 +19739,19 @@ msgstr ""
 
 #: stringdump_steam_50_11.txt:4956
 msgid "View details about this knowledge."
-msgstr ""
+msgstr "Ver detalles sobre este conocimiento."
 
 #: stringdump_steam_50_11.txt:4957
 msgid "Recenter on this creature."
-msgstr ""
+msgstr "Centrar en esta criatura"
 
 #: stringdump_steam_50_11.txt:4958
 msgid "Recenter on this item."
-msgstr ""
+msgstr "Centrar en este objeto"
 
 #: stringdump_steam_50_11.txt:4959
 msgid "Name this building."
-msgstr ""
+msgstr "Nombra este edificio."
 
 #: stringdump_steam_50_11.txt:4960
 msgid "Remove this building."
@@ -19713,23 +19759,26 @@ msgstr ""
 
 #: stringdump_steam_50_11.txt:4961
 msgid "This task has been assigned and is active."
-msgstr ""
+msgstr "Esta tarea ha sido asignada y está activa."
 
 #: stringdump_steam_50_11.txt:4962
 msgid "This task came from a work order."
-msgstr ""
+msgstr "Esta tarea vino de una orden de trabajo."
 
 #: stringdump_steam_50_11.txt:4963
 msgid "This task is set to repeat indefinitely."
-msgstr ""
+msgstr "Esta tarea está configurada para repetirse indefinidamente."
 
 #: stringdump_steam_50_11.txt:4964
 msgid "Click to set this task to repeat indefinitely."
 msgstr ""
+"Haga clic para configurar esta tarea para que se repita indefinidamente."
 
 #: stringdump_steam_50_11.txt:4965
 msgid "This task is highest priority among all tasks everywhere."
 msgstr ""
+"Esta tarea tiene la más alta prioridad entre todas las tareas en todas "
+"partes."
 
 #: stringdump_steam_50_11.txt:4966
 msgid "Click to set this task as highest priority among all tasks everywhere."
@@ -19737,15 +19786,16 @@ msgstr ""
 
 #: stringdump_steam_50_11.txt:4967
 msgid "Increase the priority of the task in this workshop."
-msgstr ""
+msgstr "Aumentar la prioridad de la tarea en este taller."
 
 #: stringdump_steam_50_11.txt:4968
 msgid "Set details for this task, such as the material to be used."
 msgstr ""
+"Establezca detalles para esta tarea, como el material que se utilizará."
 
 #: stringdump_steam_50_11.txt:4969
 msgid "This task has been suspended."
-msgstr ""
+msgstr "Esta tarea ha sido suspendida."
 
 #: stringdump_steam_50_11.txt:4970
 msgid ""
@@ -19762,11 +19812,11 @@ msgstr ""
 
 #: stringdump_steam_50_11.txt:4972
 msgid "Recenter on the linked building."
-msgstr ""
+msgstr "Recentrar en el edificio vinculado."
 
 #: stringdump_steam_50_11.txt:4973
 msgid "Add stockpile links for this workshop."
-msgstr ""
+msgstr "Agregue enlaces de almacenes para este taller."
 
 #: stringdump_steam_50_11.txt:4974
 msgid ""
@@ -19780,7 +19830,7 @@ msgstr ""
 
 #: stringdump_steam_50_11.txt:4976
 msgid "This is a small creature within the trap."
-msgstr ""
+msgstr "Esta es una pequeña criatura dentro de la trampa."
 
 #: stringdump_steam_50_11.txt:4977
 msgid "This item is bait."
@@ -19788,7 +19838,7 @@ msgstr ""
 
 #: stringdump_steam_50_11.txt:4978
 msgid "This item has been loaded."
-msgstr ""
+msgstr "Este artículo ha sido cargado."
 
 #: stringdump_steam_50_11.txt:4979
 msgid "This item is resting within the building."
@@ -19798,6 +19848,8 @@ msgstr ""
 msgid ""
 "This item is a semi-permanent part of the building, like an item on display."
 msgstr ""
+"Este objeto es una parte semipermanente del edificio, como un objeto en "
+"exhibición."
 
 #: stringdump_steam_50_11.txt:4981
 msgid ""
@@ -19827,31 +19879,31 @@ msgstr ""
 
 #: stringdump_steam_50_11.txt:4985
 msgid "Cancel this scheduled order."
-msgstr ""
+msgstr "Cancele este pedido programado."
 
 #: stringdump_steam_50_11.txt:4986
 msgid "Cancel this position's scheduled orders."
-msgstr ""
+msgstr "Cancele los pedidos programados de esta posición."
 
 #: stringdump_steam_50_11.txt:4987
 msgid "Change the squad's symbol."
-msgstr ""
+msgstr "Cambia el símbolo de la escuadra."
 
 #: stringdump_steam_50_11.txt:4988
 msgid "View the leader's sheet."
-msgstr ""
+msgstr "Ver la ficha del líder."
 
 #: stringdump_steam_50_11.txt:4989
 msgid "The squad leader is traveling or otherwise occupied off-site."
-msgstr ""
+msgstr "El líder del escuadrón está de viaje o ocupado fuera del sitio."
 
 #: stringdump_steam_50_11.txt:4990
 msgid "View the positions in this squad."
-msgstr ""
+msgstr "Consulta las posiciones en esta escuadra."
 
 #: stringdump_steam_50_11.txt:4991
 msgid "Customize the squad's name."
-msgstr ""
+msgstr "Personaliza el nombre del escuadrón."
 
 #: stringdump_steam_50_11.txt:4992
 msgid ""
@@ -19863,6 +19915,8 @@ msgstr ""
 msgid ""
 "Assign a kill order.  The soldiers will attempt to kill a targeted creature."
 msgstr ""
+"Asignar una orden de matar. Los soldados intentarán matar a una criatura "
+"objetivo."
 
 #: stringdump_steam_50_11.txt:4994
 msgid ""
@@ -19883,15 +19937,15 @@ msgstr ""
 
 #: stringdump_steam_50_11.txt:4997
 msgid "Cancel an order.  Does not affect scheduled orders."
-msgstr ""
+msgstr "Cancelar un pedido. No afecta a los pedidos programados."
 
 #: stringdump_steam_50_11.txt:4998
 msgid "Disband the squad."
-msgstr ""
+msgstr "Disolver el escuadrón."
 
 #: stringdump_steam_50_11.txt:4999
 msgid "Inspect the route."
-msgstr ""
+msgstr "Inspeccionar la ruta."
 
 #: stringdump_steam_50_11.txt:5000
 msgid "Recenter on the announcement's location."
@@ -19899,19 +19953,19 @@ msgstr ""
 
 #: stringdump_steam_50_11.txt:5001
 msgid "Recenter on the creature (at the time of the announcement.)"
-msgstr ""
+msgstr "Centrar en la criatura (al momento del anuncio)"
 
 #: stringdump_steam_50_11.txt:5002
 msgid "Recenter on the item (at the time of the announcement.)"
-msgstr ""
+msgstr "Centrar en el objeto (al tiempo del anuncio)"
 
 #: stringdump_steam_50_11.txt:5003
 msgid "Toggle whether the squad will sleep here."
-msgstr ""
+msgstr "Cambia si el escuadrón dormirá aquí."
 
 #: stringdump_steam_50_11.txt:5004
 msgid "Toggle whether the squad will train here."
-msgstr ""
+msgstr "Cambia si el equipo entrenará aquí."
 
 #: stringdump_steam_50_11.txt:5005
 msgid ""
@@ -19928,11 +19982,15 @@ msgstr ""
 #: stringdump_steam_50_11.txt:5007
 msgid "Choose a stockpile to which the track stop's vehicle will give items."
 msgstr ""
+"Elija un almacén en la que el vehículo de la parada de pista le dará "
+"artículos."
 
 #: stringdump_steam_50_11.txt:5008
 msgid ""
 "Choose a stockpile from which the track stop's vehicle will take items."
 msgstr ""
+"Elija un almacén de la que el vehículo de la parada de pista tomará "
+"artículos."
 
 #: stringdump_steam_50_11.txt:5009
 msgid ""
@@ -19942,19 +20000,19 @@ msgstr ""
 
 #: stringdump_steam_50_11.txt:5010
 msgid "Choose a stockpile to which the workshop will give items."
-msgstr ""
+msgstr "Elija un almacén a la que el taller le dará artículos."
 
 #: stringdump_steam_50_11.txt:5011
 msgid "Choose a stockpile from which the workshop will take items."
-msgstr ""
+msgstr "Elija un almacén de la que el taller tomará artículos."
 
 #: stringdump_steam_50_11.txt:5012
 msgid "Choose a stockpile to which the selected stockpile will give items."
-msgstr ""
+msgstr "Elige un almacen al que dar objetos."
 
 #: stringdump_steam_50_11.txt:5013
 msgid "Choose a stockpile from which the selected stockpile will take items."
-msgstr ""
+msgstr "Elige desde que almacen quieres coger objetos."
 
 #: stringdump_steam_50_11.txt:5014
 msgid ""
@@ -19964,51 +20022,51 @@ msgstr ""
 
 #: stringdump_steam_50_11.txt:5015
 msgid "The track stop's vehicle will take items from this stockpile."
-msgstr ""
+msgstr "El vehículo de la parada de pista tomará artículos de este almacén."
 
 #: stringdump_steam_50_11.txt:5016
 msgid "The track stop's vehicle will give items to this stockpile."
-msgstr ""
+msgstr "El vehículo de la parada de pista entregará artículos a este almacén."
 
 #: stringdump_steam_50_11.txt:5017
 msgid "The selected workshop will take items from here."
-msgstr ""
+msgstr "El taller seleccionado tomará artículos de aquí."
 
 #: stringdump_steam_50_11.txt:5018
 msgid "The selected workshop will give items to here."
-msgstr ""
+msgstr "El taller seleccionado entregará artículos aquí."
 
 #: stringdump_steam_50_11.txt:5019
 msgid "The selected stockpile will take items from here."
-msgstr ""
+msgstr "El almacén seleccionado tomará artículos de aquí."
 
 #: stringdump_steam_50_11.txt:5020
 msgid "The selected stockpile will give items to here."
-msgstr ""
+msgstr "El almacén seleccionado dará artículos aquí."
 
 #: stringdump_steam_50_11.txt:5021
 msgid "The creature is chained."
-msgstr ""
+msgstr "La criatura está encadenada."
 
 #: stringdump_steam_50_11.txt:5022
 msgid "The creature is caged."
-msgstr ""
+msgstr "La criatura está enjaulada."
 
 #: stringdump_steam_50_11.txt:5023
 msgid "The creature is set to be chained."
-msgstr ""
+msgstr "La criatura está lista para ser encadenada."
 
 #: stringdump_steam_50_11.txt:5024
 msgid "The creature is set to be caged."
-msgstr ""
+msgstr "La criatura está lista para ser enjaulada."
 
 #: stringdump_steam_50_11.txt:5025
 msgid "The creature is assigned to a pasture."
-msgstr ""
+msgstr "La criatura es asignada a un pasto."
 
 #: stringdump_steam_50_11.txt:5026
 msgid "The creature is assigned to a pond."
-msgstr ""
+msgstr "La criatura está asignada a un estanque."
 
 #: stringdump_steam_50_11.txt:5027
 msgid "The creature is assigned to a pit."
@@ -20016,11 +20074,11 @@ msgstr ""
 
 #: stringdump_steam_50_11.txt:5028
 msgid "Edit the recenter hotkey locations."
-msgstr ""
+msgstr "Edite las ubicaciones de las teclas de acceso rápido más recientes."
 
 #: stringdump_steam_50_11.txt:5029
 msgid "Recenter on the surface at this location."
-msgstr ""
+msgstr "Recentrar en la superficie en esta ubicación."
 
 #: stringdump_steam_50_11.txt:5030
 msgid "Recenter on the deepest discovered area at this location."
@@ -20032,36 +20090,40 @@ msgstr ""
 
 #: stringdump_steam_50_11.txt:5032
 msgid "Set this entry to recenter on the current view."
-msgstr ""
+msgstr "Configure esta entrada para volver a centrar en la vista actual."
 
 #: stringdump_steam_50_11.txt:5033
 msgid "Clear this recenter hotkey location."
-msgstr ""
+msgstr "Borre esta ubicación de tecla de acceso directo más reciente."
 
 #: stringdump_steam_50_11.txt:5034
 msgid "Delete this recenter location."
-msgstr ""
+msgstr "Eliminar esta ubicación más reciente."
 
 #: stringdump_steam_50_11.txt:5035
 msgid "Display water and magma depth numerically (1 to 7.)"
-msgstr ""
+msgstr "Muestra la profundidad del agua y el magma numéricamente (1 a 7)."
 
 #: stringdump_steam_50_11.txt:5036
 msgid "Show up and down arrows over ramps at the current elevation."
 msgstr ""
+"Muestra flechas hacia arriba y hacia abajo sobre las rampas en la elevación "
+"actual."
 
 #: stringdump_steam_50_11.txt:5037
 msgid "Zoom in on the play area."
-msgstr ""
+msgstr "Haz zoom en el área de juego."
 
 #: stringdump_steam_50_11.txt:5038
 msgid "Zoom out from the play area."
-msgstr ""
+msgstr "Aléjate del área de juego."
 
 #: stringdump_steam_50_11.txt:5039
 msgid ""
 "Open the stocks window, where you can see all of your fortress's items."
 msgstr ""
+"Abre la ventana de existencias, donde puedes ver todos los artículos de tu "
+"fortaleza."
 
 #: stringdump_steam_50_11.txt:5040
 msgid "View all alerts."
@@ -20175,6 +20237,7 @@ msgstr ""
 msgid ""
 "Make beds and various furniture here, as well as bins, barrels, and more."
 msgstr ""
+"Haz camas y varios muebles aquí, así como contenedores, barriles y más."
 
 #: stringdump_steam_50_11.txt:5056
 msgid ""
@@ -20241,7 +20304,7 @@ msgstr ""
 
 #: stringdump_steam_50_11.txt:5065
 msgid "Make cloth into clothing and tools here, such as bags and ropes."
-msgstr ""
+msgstr "Convierta tela en ropa y herramientas aquí, como bolsas y cuerdas."
 
 #: stringdump_steam_50_11.txt:5066
 msgid ""
@@ -20251,7 +20314,7 @@ msgstr ""
 
 #: stringdump_steam_50_11.txt:5067
 msgid "Brew alcohol from plants, fruit, or honey."
-msgstr ""
+msgstr "Prepara alcohol a partir de plantas, frutas o miel."
 
 #: stringdump_steam_50_11.txt:5068
 msgid ""
@@ -20275,7 +20338,7 @@ msgstr ""
 
 #: stringdump_steam_50_11.txt:5071
 msgid "Cook meals here.  You can also render fat into tallow."
-msgstr ""
+msgstr "Cocina comidas aquí. También puede convertir la grasa en sebo."
 
 #: stringdump_steam_50_11.txt:5072
 msgid ""
@@ -20322,6 +20385,11 @@ msgid ""
 "responsible for placing the furnace above the magma, but no other fuel is "
 "required."
 msgstr ""
+"Puedes hacer una variedad de objetos usando tres tipos diferentes de "
+"cristal. También puedes recolectar arena en bolsas de una tarea que se "
+"origine aquí, si tienes una zona de recolección de arena. El magma debajo "
+"del horno impulsará las tareas. Tu eres el responsable de colocar el horno "
+"sobre el magma, pero no se requiere ningún otro combustible."
 
 #: stringdump_steam_50_11.txt:5079
 msgid ""
@@ -20330,6 +20398,11 @@ msgid ""
 "kiln will power tasks.  You are responsible for placing the kiln above the "
 "magma, but no other fuel is required."
 msgstr ""
+" Hornea objetos de arcilla aquí, así como algunos otros materiales útiles. "
+"La arcilla también se puede recolectar aquí si tienes una zona de "
+"recolección de arcilla. El magma debajo del horno impulsará las tareas. Tu "
+"eres el responsable de colocar el horno sobre el magma, pero no se requiere "
+"ningún otro combustible."
 
 #: stringdump_steam_50_11.txt:5080
 msgid ""
@@ -20337,6 +20410,11 @@ msgid ""
 "make alloys.  Magma below the smelter will power tasks.  You are responsible"
 " for placing the smelter above the magma, but no other fuel is required."
 msgstr ""
+"Haz barras de metal a partir de minerales aquí. También puede refinar el "
+"carbón para convertirlo en combustible utilizable o fabricar aleaciones. El "
+"magma debajo de la fundición impulsará las tareas. Tu eres el responsable de"
+" colocar la fundición sobre el magma, pero no se requiere ningún otro "
+"combustible."
 
 #: stringdump_steam_50_11.txt:5081
 msgid ""
@@ -20346,7 +20424,7 @@ msgstr ""
 
 #: stringdump_steam_50_11.txt:5082
 msgid "Make charcoal and ash from wood here.  Does not require fuel."
-msgstr ""
+msgstr "Haz carbón y cenizas de madera aquí. No requiere combustible."
 
 #: stringdump_steam_50_11.txt:5083
 msgid ""
@@ -20519,6 +20597,10 @@ msgid ""
 "on any floor.  Bars unlike grates do not have a quality and so do not "
 "enhance the value of rooms significantly.  Bars can be connected to levers."
 msgstr ""
+"Bloquea criaturas pero permite el paso de fluidos y objetos. Se puede "
+"construir en cualquier piso. Las barras, a diferencia de las rejillas, no "
+"tienen calidad y, por lo tanto, no aumentan significativamente el valor de "
+"las habitaciones. Las barras se pueden conectar a palancas."
 
 #: stringdump_steam_50_11.txt:5107
 msgid ""
@@ -20527,12 +20609,20 @@ msgid ""
 "not have a quality and so do not enhance the value of rooms significantly.  "
 "Bars can be connected to levers."
 msgstr ""
+"Bloquea criaturas pero permite el paso de fluidos y objetos. Se puede "
+"construir sobre espacios vacíos, escaleras, rampas o sobre líquidos. Las "
+"barras, a diferencia de las rejillas, no tienen calidad y, por lo tanto, no "
+"aumentan significativamente el valor de las habitaciones. Las barras se "
+"pueden conectar a palancas."
 
 #: stringdump_steam_50_11.txt:5108
 msgid ""
 "This ornamental construction can enhance the value of rooms.  A window "
 "object must be made at a glass furnace before it can be placed."
 msgstr ""
+"Esta construcción ornamental puede realzar el valor de las habitaciones. Un "
+"objeto de ventana debe fabricarse en un horno de vidrio antes de que pueda "
+"colocarse."
 
 #: stringdump_steam_50_11.txt:5109
 msgid ""
@@ -20623,6 +20713,7 @@ msgstr ""
 #: stringdump_steam_50_11.txt:5123
 msgid "Vertical axles transfer power between two adjacent elevations."
 msgstr ""
+"Los ejes verticales transfieren potencia entre dos elevaciones adyacentes."
 
 #: stringdump_steam_50_11.txt:5124
 msgid ""
@@ -20704,10 +20795,11 @@ msgstr ""
 #: stringdump_steam_50_11.txt:5135
 msgid "Archery targets are used in archery range zones for training archers."
 msgstr ""
+"Objetivos de arqueria son usados en zonas de entrenamiento de arqueros."
 
 #: stringdump_steam_50_11.txt:5136
 msgid "Ornamental.  Demanded by some nobles."
-msgstr ""
+msgstr "Ornamental. Exigido por algunos nobles."
 
 #: stringdump_steam_50_11.txt:5137
 msgid ""
@@ -20763,7 +20855,7 @@ msgstr ""
 
 #: stringdump_steam_50_11.txt:5149
 msgid " - mine rock or chop trees"
-msgstr ""
+msgstr "- mina rocas o tala árboles"
 
 #: stringdump_steam_50_11.txt:5150
 msgid " - chop down trees"
@@ -20771,63 +20863,63 @@ msgstr ""
 
 #: stringdump_steam_50_11.txt:5151
 msgid " - mine rock underground"
-msgstr ""
+msgstr "- mina roca bajo tierra"
 
 #: stringdump_steam_50_11.txt:5152
 msgid "a colony of "
-msgstr ""
+msgstr "una colonia de"
 
 #: stringdump_steam_50_11.txt:5153
 msgid "many "
-msgstr ""
+msgstr "muchos"
 
 #: stringdump_steam_50_11.txt:5154
 msgid "a swarm of "
-msgstr ""
+msgstr "un enjambre de"
 
 #: stringdump_steam_50_11.txt:5155
 msgid "Miasma"
-msgstr ""
+msgstr "Miasma"
 
 #: stringdump_steam_50_11.txt:5156
 msgid "Mist"
-msgstr ""
+msgstr "Neblina"
 
 #: stringdump_steam_50_11.txt:5157
 msgid "Steam"
-msgstr ""
+msgstr "Vapor"
 
 #: stringdump_steam_50_11.txt:5158
 msgid "Item Cloud"
-msgstr ""
+msgstr "Nube de objetos"
 
 #: stringdump_steam_50_11.txt:5159
 msgid "An Ocean Wave"
-msgstr ""
+msgstr "Una Ola del Oceano"
 
 #: stringdump_steam_50_11.txt:5160
 msgid "Sea Foam"
-msgstr ""
+msgstr "Espuma de Mar"
 
 #: stringdump_steam_50_11.txt:5161
 msgid "Lava Mist"
-msgstr ""
+msgstr "Nube de Lava"
 
 #: stringdump_steam_50_11.txt:5162
 msgid "Magma Mist"
-msgstr ""
+msgstr "Nube de Magma"
 
 #: stringdump_steam_50_11.txt:5163
 msgid " vapor"
-msgstr ""
+msgstr "vapor"
 
 #: stringdump_steam_50_11.txt:5164
 msgid "Smoke"
-msgstr ""
+msgstr "Humo"
 
 #: stringdump_steam_50_11.txt:5165
 msgid "A Web"
-msgstr ""
+msgstr "Una Red"
 
 #: stringdump_steam_50_11.txt:5166
 msgid "A Campfire"
@@ -20835,131 +20927,132 @@ msgstr ""
 
 #: stringdump_steam_50_11.txt:5167
 msgid "A pile of "
-msgstr ""
+msgstr "Una pila de"
 
 #: stringdump_steam_50_11.txt:5168
 msgid "A small pile of "
-msgstr ""
+msgstr "Una pequeña pila de"
 
 #: stringdump_steam_50_11.txt:5169
 msgid "A dusting of "
-msgstr ""
+msgstr "Un polvo de"
 
 #: stringdump_steam_50_11.txt:5170
 msgid "A pool of "
-msgstr ""
+msgstr "Una piscina de"
 
 #: stringdump_steam_50_11.txt:5171
 msgid "A smear of "
-msgstr ""
+msgstr "Una mancha de"
 
 #: stringdump_steam_50_11.txt:5172
 msgid "A spattering of "
-msgstr ""
+msgstr "Una salpicadura de"
 
 #: stringdump_steam_50_11.txt:5173
 msgid "A Fire"
-msgstr ""
+msgstr "Un Fuego"
 
 #: stringdump_steam_50_11.txt:5174
 msgid "Stagnant salt water ["
-msgstr ""
+msgstr "Agua salada estancada ["
 
 #: stringdump_steam_50_11.txt:5175
 msgid "Stagnant water ["
-msgstr ""
+msgstr "Agua estancada ["
 
 #: stringdump_steam_50_11.txt:5176
 msgid "Salt water ["
-msgstr ""
+msgstr "Agua salada ["
 
 #: stringdump_steam_50_11.txt:5177
 msgid "Water ["
-msgstr ""
+msgstr "Agua ["
 
 #: stringdump_steam_50_11.txt:5178
 msgid "Lava ["
-msgstr ""
+msgstr "Lava ["
 
 #: stringdump_steam_50_11.txt:5179
 msgid "Magma ["
-msgstr ""
+msgstr "Magma ["
 
 #: stringdump_steam_50_11.txt:5180
 msgid "Track/Spoor"
-msgstr ""
+msgstr "Track/Spoor"
 
 #: stringdump_steam_50_11.txt:5181
 msgid "Track/Spoor: "
-msgstr ""
+msgstr "Vía/Camino:"
 
 #: stringdump_steam_50_11.txt:5182
 msgid "unintelligible"
-msgstr ""
+msgstr "ininteligible"
 
 #: stringdump_steam_50_11.txt:5183
 msgid "right "
-msgstr ""
+msgstr "derecha"
 
 #: stringdump_steam_50_11.txt:5184
 msgid "left "
-msgstr ""
+msgstr "izquierda"
 
 #: stringdump_steam_50_11.txt:5185
 msgid " print"
-msgstr ""
+msgstr "impresión"
 
 #: stringdump_steam_50_11.txt:5186
 msgid " imprint"
-msgstr ""
+msgstr "Imprimir"
 
 #: stringdump_steam_50_11.txt:5187
 msgid "broken vegetation"
-msgstr ""
+msgstr "vegetación rota"
 
 #: stringdump_steam_50_11.txt:5192
 msgid "/NE"
-msgstr ""
+msgstr "/NE"
 
 #: stringdump_steam_50_11.txt:5193
 msgid "/NW"
-msgstr ""
+msgstr "/NO"
 
 #: stringdump_steam_50_11.txt:5194
 msgid "/SE"
-msgstr ""
+msgstr "/SE"
 
 #: stringdump_steam_50_11.txt:5195
 msgid "/SW"
-msgstr ""
+msgstr "/SO"
 
 #: stringdump_steam_50_11.txt:5196
 msgid "/yours or companion's"
-msgstr ""
+msgstr "/tu o tus compañeros"
 
 #: stringdump_steam_50_11.txt:5197
 msgid "You can recenter on certain announcements.  Right click to close."
-msgstr ""
+msgstr "Puedes centrar sobre ciertos anuncios. Click derecho para cerrar."
 
 #: stringdump_steam_50_11.txt:5198
 msgid "Select a report to view the full text.  Right click to close."
 msgstr ""
+"Elige un informe para ver el texto completo. Click derecho para cerrar."
 
 #: stringdump_steam_50_11.txt:5199
 msgid "Elevate whom?"
-msgstr ""
+msgstr "¿Elevar a quién?"
 
 #: stringdump_steam_50_11.txt:5200
 msgid "No recommendations available"
-msgstr ""
+msgstr "No recomendaciones disponibles"
 
 #: stringdump_steam_50_11.txt:5201
 msgid "No positions available"
-msgstr ""
+msgstr "No posiciones disponibles"
 
 #: stringdump_steam_50_11.txt:5202
 msgid "Abort"
-msgstr ""
+msgstr "Abortar"
 
 #: stringdump_steam_50_11.txt:5203
 msgid ""
@@ -20973,63 +21066,73 @@ msgstr ""
 #: stringdump_steam_50_11.txt:5205
 msgid "Sadly, we do not possess this object.  Best of luck in your search."
 msgstr ""
+"Tristemente, no poseemos ese objeto. La mejor de las suertes en tu busqueda."
 
 #: stringdump_steam_50_11.txt:5206
 msgid ""
 "Give up this childish errand.  We do not part with our treasures lightly."
 msgstr ""
+"Abandona esa mision infantil. No nos deshacemos de nuestros tesoros "
+"facilmente."
 
 #: stringdump_steam_50_11.txt:5207
 msgid "Your claim is worthless here.  Trade your lives if you must."
 msgstr ""
+"Vuestra peticion no tiene poder aqui. Comerciad con vuestras vidas si "
+"debeis."
 
 #: stringdump_steam_50_11.txt:5208
 msgid "I hear the call.  Let us stop this war."
-msgstr ""
+msgstr "Oigo la llamada. Vamos a parar esta guerra."
 
 #: stringdump_steam_50_11.txt:5209
 msgid "We will drown out the call with the screams of your dying.  Begone."
-msgstr ""
+msgstr "Ahogaremos la llamada con tus alaridos al morir. Begone."
 
 #: stringdump_steam_50_11.txt:5210
 msgid "I can scarcely believe this good news!  I have some recommendations."
-msgstr ""
+msgstr "Apenas puedo creer estas buenas noticias! Tengo algunas sugerencias."
 
 #: stringdump_steam_50_11.txt:5211
 msgid "Flattering, but we'd rather maintain our distance from the homeland."
 msgstr ""
+"Gracias por los halagos, pero preferimos mantener nuestra distancia con la "
+"patria."
 
 #: stringdump_steam_50_11.txt:5212
 msgid "We can abide by this.  Let us work toward mutual co-existence."
-msgstr ""
+msgstr "Podemos cumplir con esto. Trabajemos hacia una coexistencia."
 
 #: stringdump_steam_50_11.txt:5213
 msgid "Our needs exceed your allowances.  Relax.  They're only trees."
 msgstr ""
+"Nuestras necesidades superan tus concesiones. Relajate. Son solo arboles."
 
 #: stringdump_steam_50_11.txt:5214
 msgid "We can grant this request.  Let's discuss the specifics, though..."
 msgstr ""
+"Podemos conceder esta peticion. Pero debemos discutir los terminos "
+"primero..."
 
 #: stringdump_steam_50_11.txt:5215
 msgid "We cannot stop production just because of your quaint sensibilities."
-msgstr ""
+msgstr "No podemos parar de producir solo por tus pintorescas sensibilidades."
 
 #: stringdump_steam_50_11.txt:5216
 msgid "You do not have an official capable of handling these matters."
-msgstr ""
+msgstr "No tienes un oficial capaz de manejar estos asuntos."
 
 #: stringdump_steam_50_11.txt:5217
 msgid "There are no petitions that need your attention."
-msgstr ""
+msgstr "No hay pedidos que necesiten de tu atención."
 
 #: stringdump_steam_50_11.txt:5218
 msgid "A Priest for "
-msgstr ""
+msgstr "Un Sacerdote para"
 
 #: stringdump_steam_50_11.txt:5219
 msgid "A Guildhall for "
-msgstr ""
+msgstr "Una Sede del gremio para"
 
 #: stringdump_steam_50_11.txt:5220
 msgid "A High Priest for "
@@ -21037,127 +21140,127 @@ msgstr ""
 
 #: stringdump_steam_50_11.txt:5221
 msgid "A Grand Guildhall for "
-msgstr ""
+msgstr "Una Gran Sede del gremio para"
 
 #: stringdump_steam_50_11.txt:5222
 msgid "Parley with "
-msgstr ""
+msgstr "Parlamentar con"
 
 #: stringdump_steam_50_11.txt:5223
 msgid "Citizenship of "
-msgstr ""
+msgstr "Ciudadanía de"
 
 #: stringdump_steam_50_11.txt:5224
 msgid "Status of "
-msgstr ""
+msgstr "Estatus de"
 
 #: stringdump_steam_50_11.txt:5225
 msgid "Some corrupt data"
-msgstr ""
+msgstr "Algunos datos corruptos"
 
 #: stringdump_steam_50_11.txt:5226
 msgid "has many worshippers in"
-msgstr ""
+msgstr "tiene muchos adoradores en"
 
 #: stringdump_steam_50_11.txt:5227
 msgid "has many worshippers here"
-msgstr ""
+msgstr "tiene muchos adoradores aquí"
 
 #: stringdump_steam_50_11.txt:5228
 msgid "and now requires"
-msgstr ""
+msgstr "y ahora requiere"
 
 #: stringdump_steam_50_11.txt:5229
 msgid "a temple complex and high priest"
-msgstr ""
+msgstr "un complejo de templos y sumo sacerdote"
 
 #: stringdump_steam_50_11.txt:5230
 msgid "a temple and priest"
-msgstr ""
+msgstr "un templo y sacerdote"
 
 #: stringdump_steam_50_11.txt:5231
 msgid "The location must be built and furnished,"
-msgstr ""
+msgstr "El lugar debe estar construido y amueblado,"
 
 #: stringdump_steam_50_11.txt:5232
 msgid "with the new position appointed by you."
-msgstr ""
+msgstr "con la nueva posicion senalada por ti."
 
 #: stringdump_steam_50_11.txt:5233
 msgid "Do you approve this request?"
-msgstr ""
+msgstr "¿Apruebas esta solicitud?"
 
 #: stringdump_steam_50_11.txt:5234
 msgid "Approve"
-msgstr ""
+msgstr "Aprobar"
 
 #: stringdump_steam_50_11.txt:5235
 msgid "has many members in"
-msgstr ""
+msgstr "tiene muchos miembros en"
 
 #: stringdump_steam_50_11.txt:5236
 msgid "has many members here"
-msgstr ""
+msgstr "tiene muchos miembros aqui"
 
 #: stringdump_steam_50_11.txt:5237
 msgid "with the hall designated for a"
-msgstr ""
+msgstr "con la sala designada para un"
 
 #: stringdump_steam_50_11.txt:5238
 msgid " guild."
-msgstr ""
+msgstr "gremio."
 
 #: stringdump_steam_50_11.txt:5239
 msgid "wishes to parley"
-msgstr ""
+msgstr "desea charlar"
 
 #: stringdump_steam_50_11.txt:5240
 msgid "in order to avert"
-msgstr ""
+msgstr "con el fin de evitar"
 
 #: stringdump_steam_50_11.txt:5241
 msgid "loss of life."
-msgstr ""
+msgstr "pérdida de vida"
 
 #: stringdump_steam_50_11.txt:5242
 msgid "wishes to join"
-msgstr ""
+msgstr "deseos de unirse"
 
 #: stringdump_steam_50_11.txt:5243
 msgid "as a citizen of"
-msgstr ""
+msgstr "como un ciudadano de"
 
 #: stringdump_steam_50_11.txt:5244
 msgid "desires citizenship."
-msgstr ""
+msgstr "desea la ciudadanía."
 
 #: stringdump_steam_50_11.txt:5245
 msgid "wishes to reside in"
-msgstr ""
+msgstr "desea residir en "
 
 #: stringdump_steam_50_11.txt:5246
 msgid "wishes to reside here"
-msgstr ""
+msgstr "desea residir aquí"
 
 #: stringdump_steam_50_11.txt:5247
 msgid "for the purpose of"
-msgstr ""
+msgstr "con el propósito de"
 
 #: stringdump_steam_50_11.txt:5248
 msgid "sanctuary."
-msgstr ""
+msgstr "santuario."
 
 #: stringdump_steam_50_11.txt:5249
 msgid "study."
-msgstr ""
+msgstr "estudiar."
 
 #: stringdump_steam_50_11.txt:5250
 msgid "soldiering."
-msgstr ""
+msgstr "soldadesca."
 
 #: stringdump_steam_50_11.txt:5251
 msgid "entertaining citizens and visitors."
-msgstr ""
+msgstr "entreteniendo ciudadanos y visitantes."
 
 #: stringdump_steam_50_11.txt:5252
 msgid "eradicating monsters."
@@ -21165,39 +21268,39 @@ msgstr "erradicando monstruos."
 
 #: stringdump_steam_50_11.txt:5253
 msgid " meets with "
-msgstr ""
+msgstr "juntarse con"
 
 #: stringdump_steam_50_11.txt:5254
 msgid " is sought by "
-msgstr ""
+msgstr "es buscado por"
 
 #: stringdump_steam_50_11.txt:5256
 msgid ", and I aim to return it home."
-msgstr ""
+msgstr ", y pretendo regresarlo a casa."
 
 #: stringdump_steam_50_11.txt:5257
 msgid "  My epic journey began "
-msgstr ""
+msgstr "Mi viaje épico comenzó"
 
 #: stringdump_steam_50_11.txt:5258
 msgid "  I've searched nearly the whole world over."
-msgstr ""
+msgstr "He buscado en casi todo el mundo."
 
 #: stringdump_steam_50_11.txt:5259
 msgid "  I've boldly searched "
-msgstr ""
+msgstr "he buscado audazmente"
 
 #: stringdump_steam_50_11.txt:5260
 msgid "  I've already searched in "
-msgstr ""
+msgstr "ya he buscado en"
 
 #: stringdump_steam_50_11.txt:5261
 msgid "  I can only rest when I've brought the prize safely to "
-msgstr ""
+msgstr "Sólo puedo descansar cuando he traído el premio a salvo a"
 
 #: stringdump_steam_50_11.txt:5262
 msgid "[B]Play your role in this noble quest and become legendary!"
-msgstr ""
+msgstr "[B]¡Juega tu papel en esta noble misión y conviértete en legendario!"
 
 #: stringdump_steam_50_11.txt:5263
 msgid " is the property of our people."
@@ -21206,23 +21309,23 @@ msgstr "Es propiedad de nuestro pueblo."
 #: stringdump_steam_50_11.txt:5264
 msgid ""
 "[B]Pass this treasure into our possession, and we shall depart in peace."
-msgstr ""
+msgstr "[B] Pasa este tesoro a nuestra posesión, y partiremos en paz."
 
 #: stringdump_steam_50_11.txt:5265
 msgid " is a sacred relic of our people."
-msgstr ""
+msgstr "es una reliquia sagrada de nuestro pueblo."
 
 #: stringdump_steam_50_11.txt:5266
 msgid " is an heirloom of our people."
-msgstr ""
+msgstr "es una reliquia de nuestro pueblo."
 
 #: stringdump_steam_50_11.txt:5267
 msgid " is the symbol of "
-msgstr ""
+msgstr "es el símbolo de"
 
 #: stringdump_steam_50_11.txt:5268
 msgid "our people"
-msgstr ""
+msgstr "nuestra gente"
 
 #: stringdump_steam_50_11.txt:5269
 msgid ""
@@ -21268,11 +21371,11 @@ msgstr ""
 
 #: stringdump_steam_50_11.txt:5276
 msgid "ship."
-msgstr ""
+msgstr "barco."
 
 #: stringdump_steam_50_11.txt:5277
 msgid "  A need for [C:6:0:1]"
-msgstr ""
+msgstr "Una necesidad de [C:6:0:1]"
 
 #: stringdump_steam_50_11.txt:5278
 msgid ""
@@ -21282,7 +21385,7 @@ msgstr ""
 
 #: stringdump_steam_50_11.txt:5279
 msgid "% and "
-msgstr ""
+msgstr "% y "
 
 #: stringdump_steam_50_11.txt:5280
 #, python-format
@@ -21312,7 +21415,7 @@ msgstr ""
 
 #: stringdump_steam_50_11.txt:5284
 msgid " requested, priced at "
-msgstr ""
+msgstr "solicitado, con un precio de"
 
 #: stringdump_steam_50_11.txt:5286
 msgid ""
@@ -21334,7 +21437,7 @@ msgstr ""
 
 #: stringdump_steam_50_11.txt:5290
 msgid "Do you have anyone suitable to recommend for elevation?"
-msgstr ""
+msgstr "¿Tienes a alguien adecuado que recomendar para la elevación?"
 
 #: stringdump_steam_50_11.txt:5291
 msgid ""
@@ -21351,7 +21454,7 @@ msgstr ""
 
 #: stringdump_steam_50_11.txt:5293
 msgid " trees, butcher."
-msgstr ""
+msgstr "arbol, carnicero."
 
 #: stringdump_steam_50_11.txt:5294
 msgid ""
@@ -21371,114 +21474,118 @@ msgid ""
 "  Although we are loath to spare a single branch to your senseless "
 "slaughter, "
 msgstr ""
+"Aunque somos reacios a dedicar una sola rama a su masacre sin sentido,"
 
 #: stringdump_steam_50_11.txt:5297
 msgid "we are willing to ask that you cap your tree-fells at "
-msgstr ""
+msgstr "estamos dispuestos a pedirle que cubra sus talas de árboles en"
 
 #: stringdump_steam_50_11.txt:5298
 msgid " until we next meet.  "
-msgstr ""
+msgstr "hasta la próxima vez que nos encontremos."
 
 #: stringdump_steam_50_11.txt:5299
 msgid "I will try to return next year as I am able."
-msgstr ""
+msgstr "intentaré volver el próximo año, como ya dije"
 
 #: stringdump_steam_50_11.txt:5300
 msgid "  And beware."
-msgstr ""
+msgstr "Y ten cuidado"
 
 #: stringdump_steam_50_11.txt:5301
 msgid "Set conditions for "
-msgstr ""
+msgstr "Establecer condiciones para"
 
 #: stringdump_steam_50_11.txt:5302
 msgid "(Vehicle moved to next stop if any condition triggered.)"
 msgstr ""
+"(El vehículo se desplaza a la siguiente parada si se activa alguna "
+"condición)."
 
 #: stringdump_steam_50_11.txt:5303
 msgid "west"
-msgstr ""
+msgstr "Oeste"
 
 #: stringdump_steam_50_11.txt:5304
 msgid "east"
-msgstr ""
+msgstr "este"
 
 #: stringdump_steam_50_11.txt:5305
 msgid "south"
-msgstr ""
+msgstr "sur"
 
 #: stringdump_steam_50_11.txt:5306
 msgid "north"
-msgstr ""
+msgstr "norte"
 
 #: stringdump_steam_50_11.txt:5307
 msgid "immediately"
-msgstr ""
+msgstr "inmediatamente"
 
 #: stringdump_steam_50_11.txt:5308
 msgid "in 1 day"
-msgstr ""
+msgstr "in 1 day"
 
 #: stringdump_steam_50_11.txt:5309
 msgid "in "
-msgstr ""
+msgstr "en"
 
 #: stringdump_steam_50_11.txt:5311
 msgid " days"
-msgstr ""
+msgstr " dias"
 
 #: stringdump_steam_50_11.txt:5312
 msgid "when full"
-msgstr ""
+msgstr "cuando este lleno"
 
 #: stringdump_steam_50_11.txt:5313
 msgid "always (at most 100%)"
-msgstr ""
+msgstr "siempre (al menos 100%)"
 
 #: stringdump_steam_50_11.txt:5314
 msgid "when "
-msgstr ""
+msgstr "cuando"
 
 #: stringdump_steam_50_11.txt:5315
 msgid "always (at least 0%)"
-msgstr ""
+msgstr "always (at least 0%)"
 
 #: stringdump_steam_50_11.txt:5316
 msgid "when empty"
-msgstr ""
+msgstr "cuando este vacio"
 
 #: stringdump_steam_50_11.txt:5317
 msgid "desired items"
-msgstr ""
+msgstr "artículos deseados"
 
 #: stringdump_steam_50_11.txt:5318
 msgid "any items"
-msgstr ""
+msgstr "algún objeto"
 
 #: stringdump_steam_50_11.txt:5319
 msgid "1 day"
-msgstr ""
+msgstr "1 día"
 
 #: stringdump_steam_50_11.txt:5321
 msgid "You have no vehicles."
-msgstr ""
+msgstr "Tu no tienes vehículos."
 
 #: stringdump_steam_50_11.txt:5322
 msgid "Choose a vehicle for "
-msgstr ""
+msgstr "Elige un vehículo para"
 
 #: stringdump_steam_50_11.txt:5323
 msgid "Inaccessible from first stop"
-msgstr ""
+msgstr "Inaccesible desde la primera parada."
 
 #: stringdump_steam_50_11.txt:5324
 msgid "Choose symbols for the position holder to carry or wear."
 msgstr ""
+"Elija símbolos para que el titular de la posición los lleve o los use."
 
 #: stringdump_steam_50_11.txt:5325
 msgid "Leave Vacant"
-msgstr ""
+msgstr "Dejar vacante"
 
 #: stringdump_steam_50_11.txt:5326
 msgid " main"
@@ -21486,31 +21593,31 @@ msgstr "principal"
 
 #: stringdump_steam_50_11.txt:5327
 msgid " (traveling)"
-msgstr ""
+msgstr "(viajando)"
 
 #: stringdump_steam_50_11.txt:5330
 msgid "chest"
-msgstr ""
+msgstr "baúl"
 
 #: stringdump_steam_50_11.txt:5331
 msgid "Needs: "
-msgstr ""
+msgstr "Necesidades:"
 
 #: stringdump_steam_50_11.txt:5332
 msgid "cabinet"
-msgstr ""
+msgstr "armario"
 
 #: stringdump_steam_50_11.txt:5333
 msgid "weapon rack"
-msgstr ""
+msgstr "estante de armas"
 
 #: stringdump_steam_50_11.txt:5334
 msgid "armor stand"
-msgstr ""
+msgstr "Soporte de armadura"
 
 #: stringdump_steam_50_11.txt:5335
 msgid "Dining Room"
-msgstr ""
+msgstr "Comedor"
 
 #: stringdump_steam_50_11.txt:5336
 msgid "Throne Room/Office"
@@ -21518,43 +21625,43 @@ msgstr "Habitación del Trono/Oficina"
 
 #: stringdump_steam_50_11.txt:5337
 msgid "Make "
-msgstr ""
+msgstr "Hacer"
 
 #: stringdump_steam_50_11.txt:5338
 msgid "Export of "
-msgstr ""
+msgstr "Exportar de"
 
 #: stringdump_steam_50_11.txt:5339
 msgid " Prohibited"
-msgstr ""
+msgstr "Prohibido"
 
 #: stringdump_steam_50_11.txt:5340
 msgid "Highest Precision"
-msgstr ""
+msgstr "La más alta precisión posible"
 
 #: stringdump_steam_50_11.txt:5341
 msgid "High Precision"
-msgstr ""
+msgstr "Alta Precisión"
 
 #: stringdump_steam_50_11.txt:5342
 msgid "Medium Precision"
-msgstr ""
+msgstr "Media Precisión"
 
 #: stringdump_steam_50_11.txt:5343
 msgid "Low Precision"
-msgstr ""
+msgstr "Baja Precisión"
 
 #: stringdump_steam_50_11.txt:5344
 msgid "Lowest Precision"
-msgstr ""
+msgstr "La más baja precisión posible"
 
 #: stringdump_steam_50_11.txt:5345
 msgid "Stocks amount display: "
-msgstr ""
+msgstr "Visualización de la cantidad de existencias:"
 
 #: stringdump_steam_50_11.txt:5346
 msgid "All counts accurate"
-msgstr ""
+msgstr "Todos los recuentos exactos"
 
 #: stringdump_steam_50_11.txt:5347
 msgid "Your bookkeeper has done enough work to attain "
@@ -21562,15 +21669,15 @@ msgstr "Su contador ha trabajado lo suficiente para lograrlo"
 
 #: stringdump_steam_50_11.txt:5348
 msgid "highest precision"
-msgstr ""
+msgstr "la más alta precisión posible"
 
 #: stringdump_steam_50_11.txt:5349
 msgid "high precision"
-msgstr ""
+msgstr "alta precisión"
 
 #: stringdump_steam_50_11.txt:5350
 msgid "medium precision"
-msgstr ""
+msgstr "media precisión"
 
 #: stringdump_steam_50_11.txt:5351
 msgid "low precision"
@@ -21583,12 +21690,12 @@ msgstr ""
 
 #: stringdump_steam_50_11.txt:5353
 msgid "The stockpile records are "
-msgstr ""
+msgstr "Los registros del almacén son"
 
 #: stringdump_steam_50_11.txt:5354
 #, python-format
 msgid "% updated toward the next precision level."
-msgstr ""
+msgstr "% de actualización hasta el siguiente nivel de precisión."
 
 #: stringdump_steam_50_11.txt:5355
 msgid ""
@@ -21604,107 +21711,107 @@ msgstr ""
 
 #: stringdump_steam_50_11.txt:5358
 msgid "How I long for some excitement in my life..."
-msgstr ""
+msgstr "Cómo anhelo un poco de emoción en mi vida..."
 
 #: stringdump_steam_50_11.txt:5359
 msgid "Custom Detail "
-msgstr ""
+msgstr "Detalle personalizado"
 
 #: stringdump_steam_50_11.txt:5360
 msgid "Custom Detail"
-msgstr ""
+msgstr "Detalle personalizado"
 
 #: stringdump_steam_50_11.txt:5361
 msgid "Add new work detail"
-msgstr ""
+msgstr "Agregar nuevo detalle de trabajo"
 
 #: stringdump_steam_50_11.txt:5362
 msgid "You have no work details."
-msgstr ""
+msgstr "No tienes detalles de trabajo."
 
 #: stringdump_steam_50_11.txt:5363
 msgid "Everybody does this"
-msgstr ""
+msgstr "Todos hacen esto"
 
 #: stringdump_steam_50_11.txt:5364
 msgid "Only selected do this"
-msgstr ""
+msgstr "Solo los seleccionados hacen esto"
 
 #: stringdump_steam_50_11.txt:5365
 msgid "Nobody does this"
-msgstr ""
+msgstr "nadie hace esto"
 
 #: stringdump_steam_50_11.txt:5366
 msgid "Nobody can be assigned."
-msgstr ""
+msgstr "Nadie puede ser asignado."
 
 #: stringdump_steam_50_11.txt:5367
 msgid "assign schedules."
-msgstr ""
+msgstr "asignar horarios."
 
 #: stringdump_steam_50_11.txt:5368
 msgid "Automated workshops"
-msgstr ""
+msgstr "Talleres automatizados"
 
 #: stringdump_steam_50_11.txt:5369
 msgid "Hauling"
-msgstr ""
+msgstr "Transportar"
 
 #: stringdump_steam_50_11.txt:5370
 msgid "Sieges and forbidding"
-msgstr ""
+msgstr "Asedios y prohibiciones"
 
 #: stringdump_steam_50_11.txt:5371
 msgid "Chores"
-msgstr ""
+msgstr "Quehaceres"
 
 #: stringdump_steam_50_11.txt:5372
 msgid "No automatic weaving"
-msgstr ""
+msgstr "Sin tejido automático"
 
 #: stringdump_steam_50_11.txt:5373
 msgid "Do not automate kitchen"
-msgstr ""
+msgstr "No automatices la cocina"
 
 #: stringdump_steam_50_11.txt:5374
 msgid "Do not automate tannery"
-msgstr ""
+msgstr "No automatice la curtiduría"
 
 #: stringdump_steam_50_11.txt:5375
 msgid "Do not automate kiln"
-msgstr ""
+msgstr "No automatice el horno"
 
 #: stringdump_steam_50_11.txt:5376
 msgid "Automatically weave all thread"
-msgstr ""
+msgstr "Tejer automáticamente todos los hilos"
 
 #: stringdump_steam_50_11.txt:5377
 msgid "Automatically weave dyed thread"
-msgstr ""
+msgstr "Tejer automáticamente hilo teñido"
 
 #: stringdump_steam_50_11.txt:5378
 msgid "Use only dyed cloth"
-msgstr ""
+msgstr "Usa solo tela teñida"
 
 #: stringdump_steam_50_11.txt:5379
 msgid "Use any cloth"
-msgstr ""
+msgstr "Usa cualquier tela"
 
 #: stringdump_steam_50_11.txt:5380
 msgid "Automatically collect webs"
-msgstr ""
+msgstr "Recolectar redes automáticamente"
 
 #: stringdump_steam_50_11.txt:5381
 msgid "No automatic web collection"
-msgstr ""
+msgstr "No automatic web collection"
 
 #: stringdump_steam_50_11.txt:5382
 msgid "Slaughter any marked animal"
-msgstr ""
+msgstr "Matar cualquier animal marcado"
 
 #: stringdump_steam_50_11.txt:5383
 msgid "No automatic slaughter"
-msgstr ""
+msgstr "Sin sacrificio automático"
 
 #: stringdump_steam_50_11.txt:5384
 msgid "Automatically butcher carcasses"
@@ -21712,23 +21819,23 @@ msgstr ""
 
 #: stringdump_steam_50_11.txt:5385
 msgid "No automatic butchery"
-msgstr ""
+msgstr "Sin carnicería automática"
 
 #: stringdump_steam_50_11.txt:5386
 msgid "Automatically clean fish"
-msgstr ""
+msgstr "Limpia automáticamente el pescado"
 
 #: stringdump_steam_50_11.txt:5387
 msgid "No automatic fish cleaning"
-msgstr ""
+msgstr "Sin limpieza automática de pescado"
 
 #: stringdump_steam_50_11.txt:5388
 msgid "Automate kitchen"
-msgstr ""
+msgstr "automatizar la cocina"
 
 #: stringdump_steam_50_11.txt:5389
 msgid "Automate tannery"
-msgstr ""
+msgstr "Curtiduría automatizada"
 
 #: stringdump_steam_50_11.txt:5390
 msgid "Automate kiln"
@@ -21736,31 +21843,31 @@ msgstr ""
 
 #: stringdump_steam_50_11.txt:5391
 msgid "Automate smelter"
-msgstr ""
+msgstr "Automatizar fundición"
 
 #: stringdump_steam_50_11.txt:5392
 msgid "Do not automate smelter"
-msgstr ""
+msgstr "No automatice la fundición"
 
 #: stringdump_steam_50_11.txt:5393
 msgid "Automate other shops"
-msgstr ""
+msgstr "Automatizar otras tiendas"
 
 #: stringdump_steam_50_11.txt:5394
 msgid "Do not automate other shops"
-msgstr ""
+msgstr "No automatices otras tiendas"
 
 #: stringdump_steam_50_11.txt:5395
 msgid "Workers ignore minerals"
-msgstr ""
+msgstr "Los trabajadores ignoran los minerales"
 
 #: stringdump_steam_50_11.txt:5396
 msgid "Workers ignore bodies"
-msgstr ""
+msgstr "Los trabajadores ignoran los cuerpos"
 
 #: stringdump_steam_50_11.txt:5397
 msgid "Workers ignore furniture"
-msgstr ""
+msgstr "Los trabajadores ignoran los muebles"
 
 #: stringdump_steam_50_11.txt:5398
 msgid "Workers ignore food"
@@ -21768,11 +21875,11 @@ msgstr "Los trabajadores ignoran la comida"
 
 #: stringdump_steam_50_11.txt:5399
 msgid "Workers ignore animals"
-msgstr ""
+msgstr "Los trabajadores ignoran a los animales"
 
 #: stringdump_steam_50_11.txt:5400
 msgid "Workers gather animals"
-msgstr ""
+msgstr "Los trabajadores recogen animales"
 
 #: stringdump_steam_50_11.txt:5401
 msgid "Workers gather food"
@@ -21780,15 +21887,15 @@ msgstr "Los trabajadores recogen comida"
 
 #: stringdump_steam_50_11.txt:5402
 msgid "Workers gather furniture"
-msgstr ""
+msgstr "Los trabajadores recogen muebles"
 
 #: stringdump_steam_50_11.txt:5403
 msgid "Workers gather bodies"
-msgstr ""
+msgstr "Los trabajadores recogen cuerpos"
 
 #: stringdump_steam_50_11.txt:5404
 msgid "Workers gather minerals"
-msgstr ""
+msgstr "Los trabajadores recogen minerales"
 
 #: stringdump_steam_50_11.txt:5405
 msgid "Workers gather wood"
@@ -21796,7 +21903,7 @@ msgstr ""
 
 #: stringdump_steam_50_11.txt:5406
 msgid "Workers ignore wood"
-msgstr ""
+msgstr "Los trabajadores ignoran la madera"
 
 #: stringdump_steam_50_11.txt:5407
 msgid "Workers ignore outdoor refuse"
@@ -21804,51 +21911,51 @@ msgstr "Los trabajadores ignoran los desechos que estan al aire libre"
 
 #: stringdump_steam_50_11.txt:5408
 msgid "Workers ignore outdoor vermin remains"
-msgstr ""
+msgstr "Los trabajadores ignoran los restos de alimañas."
 
 #: stringdump_steam_50_11.txt:5409
 msgid "Workers save corpses"
-msgstr ""
+msgstr "Los trabajadores guardan a los cadáveres"
 
 #: stringdump_steam_50_11.txt:5410
 msgid "Workers save skulls"
-msgstr ""
+msgstr "Los trabajadores guardan los cráneos"
 
 #: stringdump_steam_50_11.txt:5411
 msgid "Workers gather refuse"
-msgstr ""
+msgstr "Los trabajadores reúnen basura"
 
 #: stringdump_steam_50_11.txt:5412
 msgid "Workers ignore refuse"
-msgstr ""
+msgstr "Los trabajadores ignoran la basura"
 
 #: stringdump_steam_50_11.txt:5413
 msgid "Workers gather outdoor refuse"
-msgstr ""
+msgstr "Los trabajadores recolectan basura al aire libre"
 
 #: stringdump_steam_50_11.txt:5414
 msgid "Workers gather outdoor vermin remains"
-msgstr ""
+msgstr "Los trabajadores recogen restos de alimañas."
 
 #: stringdump_steam_50_11.txt:5415
 msgid "Workers dump corpses"
-msgstr ""
+msgstr "Trabajadores arrojan cadáveres"
 
 #: stringdump_steam_50_11.txt:5416
 msgid "Workers dump skulls"
-msgstr ""
+msgstr "Los trabajadores arrojan cráneos"
 
 #: stringdump_steam_50_11.txt:5417
 msgid "Workers dump bones"
-msgstr ""
+msgstr "Los trabajadores arrojan huesos"
 
 #: stringdump_steam_50_11.txt:5418
 msgid "Workers save bones"
-msgstr ""
+msgstr "Los trabajadores guardan los huesos"
 
 #: stringdump_steam_50_11.txt:5419
 msgid "Workers dump shells"
-msgstr ""
+msgstr "Los trabajadores arrojan conchas"
 
 #: stringdump_steam_50_11.txt:5420
 msgid "Workers save shells"
@@ -21856,39 +21963,39 @@ msgstr ""
 
 #: stringdump_steam_50_11.txt:5421
 msgid "Workers dump skins"
-msgstr ""
+msgstr "Los trabajadores arrojan pieles"
 
 #: stringdump_steam_50_11.txt:5422
 msgid "Workers save skins"
-msgstr ""
+msgstr "Los trabajadores guardan pieles"
 
 #: stringdump_steam_50_11.txt:5423
 msgid "Workers dump hair and wool"
-msgstr ""
+msgstr "Los trabajadores arrojan pelo y lana"
 
 #: stringdump_steam_50_11.txt:5424
 msgid "Workers save hair and wool"
-msgstr ""
+msgstr "Los trabajadores ahorran pelo y lana"
 
 #: stringdump_steam_50_11.txt:5425
 msgid "Workers dump other objects"
-msgstr ""
+msgstr "Los trabajadores vierten otros objetos"
 
 #: stringdump_steam_50_11.txt:5426
 msgid "Workers save other objects"
-msgstr ""
+msgstr "Los trabajadores guardan otros objetos"
 
 #: stringdump_steam_50_11.txt:5427
 msgid "Claim used ammunition"
-msgstr ""
+msgstr "Reclamar municiones usadas"
 
 #: stringdump_steam_50_11.txt:5428
 msgid "Claim your dead"
-msgstr ""
+msgstr "Reclama a tus muertos"
 
 #: stringdump_steam_50_11.txt:5429
 msgid "Claim your death items"
-msgstr ""
+msgstr "Reclama tus artículos de muerte"
 
 #: stringdump_steam_50_11.txt:5430
 msgid "Claim other dead"
@@ -21896,83 +22003,83 @@ msgstr ""
 
 #: stringdump_steam_50_11.txt:5431
 msgid "Claim other death items"
-msgstr ""
+msgstr "Reclama otros artículos de muerte"
 
 #: stringdump_steam_50_11.txt:5432
 msgid "Forbid used ammunition"
-msgstr ""
+msgstr "Prohibir municiones usadas"
 
 #: stringdump_steam_50_11.txt:5433
 msgid "Forbid used ammunition during sieges"
-msgstr ""
+msgstr "Prohibir las municiones usadas durante los asedios"
 
 #: stringdump_steam_50_11.txt:5434
 msgid "Forbid your dead"
-msgstr ""
+msgstr "Prohibir a tus muertos"
 
 #: stringdump_steam_50_11.txt:5435
 msgid "Forbid your dead during sieges"
-msgstr ""
+msgstr "Prohíbe a tus muertos durante los asedios"
 
 #: stringdump_steam_50_11.txt:5436
 msgid "Forbid your death items"
-msgstr ""
+msgstr "Prohibir tus artículos de muerte"
 
 #: stringdump_steam_50_11.txt:5437
 msgid "Forbid your death items during sieges"
-msgstr ""
+msgstr "Prohíba sus artículos de muerte durante los asedios"
 
 #: stringdump_steam_50_11.txt:5438
 msgid "Forbid other non-hunted dead"
-msgstr ""
+msgstr "Prohibir otros muertos no cazados"
 
 #: stringdump_steam_50_11.txt:5439
 msgid "Forbid other non-hunted dead during sieges"
-msgstr ""
+msgstr "Prohibir otros muertos no cazados durante los asedios"
 
 #: stringdump_steam_50_11.txt:5440
 msgid "Forbid other death items"
-msgstr ""
+msgstr "Prohibir otros artículos de muerte"
 
 #: stringdump_steam_50_11.txt:5441
 msgid "Forbid other death items during sieges"
-msgstr ""
+msgstr "Prohibir otros artículos de muerte durante los asedios."
 
 #: stringdump_steam_50_11.txt:5442
 msgid "Forbid floor/wall cleaning"
-msgstr ""
+msgstr "Prohibir la limpieza de suelos/paredes"
 
 #: stringdump_steam_50_11.txt:5443
 msgid "Forbid floor/wall cleaning during sieges"
-msgstr ""
+msgstr "Prohibir la limpieza de suelos y paredes durante los asedios."
 
 #: stringdump_steam_50_11.txt:5444
 msgid "Allow floor/wall cleaning"
-msgstr ""
+msgstr "Permitir limpieza de piso/pared"
 
 #: stringdump_steam_50_11.txt:5445
 msgid "Forbid trap cleaning"
-msgstr ""
+msgstr "Prohibir limpieza de trampas"
 
 #: stringdump_steam_50_11.txt:5446
 msgid "Forbid trap cleaning during sieges"
-msgstr ""
+msgstr "Prohibir la limpieza de trampas durante los asedios."
 
 #: stringdump_steam_50_11.txt:5447
 msgid "Allow trap cleaning"
-msgstr ""
+msgstr "Permitir limpieza de trampas"
 
 #: stringdump_steam_50_11.txt:5448
 msgid "Forbid trap rearming"
-msgstr ""
+msgstr "Prohibir rearmar trampas"
 
 #: stringdump_steam_50_11.txt:5449
 msgid "Forbid trap rearming during sieges"
-msgstr ""
+msgstr "Prohibir el rearme de trampas durante los asedios"
 
 #: stringdump_steam_50_11.txt:5450
 msgid "Allow trap rearming"
-msgstr ""
+msgstr "Permitir el rearme de trampas"
 
 #: stringdump_steam_50_11.txt:5451
 msgid "Forbid cages from sprung traps"
@@ -21988,51 +22095,52 @@ msgstr "Reclamar jaulas de trampas con resortes"
 
 #: stringdump_steam_50_11.txt:5454
 msgid "Forbid toppled building items"
-msgstr ""
+msgstr "Prohibir elementos de construcción derribados"
 
 #: stringdump_steam_50_11.txt:5455
 msgid "Forbid toppled building items during sieges"
-msgstr ""
+msgstr "Prohibir elementos de construcción derribados durante los asedios"
 
 #: stringdump_steam_50_11.txt:5456
 msgid "Claim toppled building items"
-msgstr ""
+msgstr "Reclamar elementos de construcción derribados"
 
 #: stringdump_steam_50_11.txt:5457
 msgid "Forbidding of death objects occurs at time of death."
 msgstr ""
+"La prohibición de objetos de muerte ocurre en el momento de la muerte."
 
 #: stringdump_steam_50_11.txt:5458
 msgid "Children do chores"
-msgstr ""
+msgstr "Los niños hacen tareas"
 
 #: stringdump_steam_50_11.txt:5459
 msgid "Children don't do chores"
-msgstr ""
+msgstr "Los niños no hacen tareas"
 
 #: stringdump_steam_50_11.txt:5460
 msgid "There are no children"
-msgstr ""
+msgstr "No hay niños"
 
 #: stringdump_steam_50_11.txt:5461
 msgid "to do your chores."
-msgstr ""
+msgstr "para hacer tus tareas."
 
 #: stringdump_steam_50_11.txt:5462
 msgid "Fish only in designated zones"
-msgstr ""
+msgstr "Pesque solo en las zonas designadas"
 
 #: stringdump_steam_50_11.txt:5463
 msgid "Prefer zones for fishing"
-msgstr ""
+msgstr "Zonas preferidas para la pesca"
 
 #: stringdump_steam_50_11.txt:5464
 msgid "Drink water only from designed zones"
-msgstr ""
+msgstr "Bebe agua solo de las zonas designadas"
 
 #: stringdump_steam_50_11.txt:5465
 msgid "Prefer zones for water drinking"
-msgstr ""
+msgstr "Zonas preferidas para beber agua"
 
 #: stringdump_steam_50_11.txt:5466
 msgid "Mix similar foods in barrels"
@@ -22044,19 +22152,19 @@ msgstr "No mezcle alimentos similares en barriles"
 
 #: stringdump_steam_50_11.txt:5468
 msgid "Everybody harvests"
-msgstr ""
+msgstr "Todos cosechan"
 
 #: stringdump_steam_50_11.txt:5469
 msgid "Only farmers harvest"
-msgstr ""
+msgstr "Sólo los agricultores cosechan"
 
 #: stringdump_steam_50_11.txt:5470
 msgid "Announce all job cancellations"
-msgstr ""
+msgstr "Anunciar todas las cancelaciones de trabajos"
 
 #: stringdump_steam_50_11.txt:5471
 msgid "Announce most job cancellations"
-msgstr ""
+msgstr "Anunciar la mayoría de las cancelaciones de trabajos"
 
 #: stringdump_steam_50_11.txt:5472
 msgid "Announce some job cancellations"
@@ -22064,31 +22172,31 @@ msgstr ""
 
 #: stringdump_steam_50_11.txt:5473
 msgid "Announce no job cancellations"
-msgstr ""
+msgstr "No anunciar cancelaciones de trabajo"
 
 #: stringdump_steam_50_11.txt:5474
 msgid "Economic stone"
-msgstr ""
+msgstr "Piedra económica"
 
 #: stringdump_steam_50_11.txt:5475
 msgid "Stone type"
-msgstr ""
+msgstr "Tipo de piedra"
 
 #: stringdump_steam_50_11.txt:5476
 msgid "Magma-safe"
-msgstr ""
+msgstr "Libre-Magma"
 
 #: stringdump_steam_50_11.txt:5477
 msgid "Economic uses"
-msgstr ""
+msgstr "Usos económicos"
 
 #: stringdump_steam_50_11.txt:5478
 msgid "Select to use in non-economic jobs."
-msgstr ""
+msgstr "Seleccione para usar en trabajos no económicos."
 
 #: stringdump_steam_50_11.txt:5479
 msgid "You know of no appropriate stones."
-msgstr ""
+msgstr "No conoces piedras apropiadas."
 
 #: stringdump_steam_50_11.txt:5480
 msgid "Meat, fish, and others"
@@ -22100,31 +22208,31 @@ msgstr "Bebidas"
 
 #: stringdump_steam_50_11.txt:5482
 msgid "Vegetables, fruit, and leaves"
-msgstr ""
+msgstr "Verduras, frutas y hojas"
 
 #: stringdump_steam_50_11.txt:5483
 msgid "Ingredient type"
-msgstr ""
+msgstr "Tipo de ingrediente"
 
 #: stringdump_steam_50_11.txt:5484
 msgid "Number"
-msgstr ""
+msgstr "Número"
 
 #: stringdump_steam_50_11.txt:5485
 msgid "Permissions"
-msgstr ""
+msgstr "Permisos"
 
 #: stringdump_steam_50_11.txt:5488
 msgid "You have no appropriate ingredients."
-msgstr ""
+msgstr "No tienes los ingredientes apropiados."
 
 #: stringdump_steam_50_11.txt:5489
 msgid "Stone use"
-msgstr ""
+msgstr "Uso de piedra"
 
 #: stringdump_steam_50_11.txt:5490
 msgid "Standing orders"
-msgstr ""
+msgstr "Órdenes permanentes"
 
 #: stringdump_steam_50_11.txt:5492
 msgid "Choose a symbol for the squad."
@@ -22140,11 +22248,11 @@ msgstr ""
 
 #: stringdump_steam_50_11.txt:5495
 msgid "Symbol"
-msgstr ""
+msgstr "Símbolo"
 
 #: stringdump_steam_50_11.txt:5496
 msgid "Background"
-msgstr ""
+msgstr "Fondo"
 
 #: stringdump_steam_50_11.txt:5497
 msgid "Foreground"
@@ -22156,27 +22264,27 @@ msgstr "Edicion realizada"
 
 #: stringdump_steam_50_11.txt:5499
 msgid "(unnamed orders)"
-msgstr ""
+msgstr "(órdenes sin nombre)"
 
 #: stringdump_steam_50_11.txt:5500
 msgid "Editing routine "
-msgstr ""
+msgstr "Editando rutina"
 
 #: stringdump_steam_50_11.txt:5501
 msgid "Equip/orders only"
-msgstr ""
+msgstr "Equipo/pedidos solamente"
 
 #: stringdump_steam_50_11.txt:5502
 msgid "Equip/always"
-msgstr ""
+msgstr "Equip/always"
 
 #: stringdump_steam_50_11.txt:5503
 msgid "Sleep/barracks at need"
-msgstr ""
+msgstr "dormir/barracas cuando sea necesario"
 
 #: stringdump_steam_50_11.txt:5504
 msgid "Sleep/barracks at will"
-msgstr ""
+msgstr "dormir/barracas a su antojo"
 
 #: stringdump_steam_50_11.txt:5505
 msgid "Sleep/room at will"
@@ -22188,127 +22296,127 @@ msgstr "Número mínimo de"
 
 #: stringdump_steam_50_11.txt:5507
 msgid "soldiers to follow"
-msgstr ""
+msgstr "soldados a seguir"
 
 #: stringdump_steam_50_11.txt:5508
 msgid "new order"
-msgstr ""
+msgstr "nueva orden"
 
 #: stringdump_steam_50_11.txt:5509
 msgid "At least "
-msgstr ""
+msgstr "Al menos"
 
 #: stringdump_steam_50_11.txt:5510
 msgid "Vacant position"
-msgstr ""
+msgstr "Posición vacante"
 
 #: stringdump_steam_50_11.txt:5511
 msgid "Back to squads"
-msgstr ""
+msgstr "Volver a los escuadrones"
 
 #: stringdump_steam_50_11.txt:5512
 msgid "Assign leader"
-msgstr ""
+msgstr "Asignar líder "
 
 #: stringdump_steam_50_11.txt:5513
 msgid "Assign position "
-msgstr ""
+msgstr "Asignar posición"
 
 #: stringdump_steam_50_11.txt:5514
 msgid "Cannot appoint"
-msgstr ""
+msgstr "No puede nombrar"
 
 #: stringdump_steam_50_11.txt:5515
 msgid "until commander"
-msgstr ""
+msgstr "Hasta el comandante"
 
 #: stringdump_steam_50_11.txt:5516
 msgid "is selected"
-msgstr ""
+msgstr "Seleccionado"
 
 #: stringdump_steam_50_11.txt:5517
 msgid "You must appoint"
-msgstr ""
+msgstr "Debes nombrar"
 
 #: stringdump_steam_50_11.txt:5518
 msgid "somebody first"
-msgstr ""
+msgstr "alguien primero"
 
 #: stringdump_steam_50_11.txt:5519
 msgid "You must appoint a"
-msgstr ""
+msgstr "Debe designar un"
 
 #: stringdump_steam_50_11.txt:5520
 msgid "to create a squad."
-msgstr ""
+msgstr "para crear un escuadrón."
 
 #: stringdump_steam_50_11.txt:5521
 msgid "Create new squad"
-msgstr ""
+msgstr "Crear nuevo escuadrón"
 
 #: stringdump_steam_50_11.txt:5523
 msgid "Multiple orders"
-msgstr ""
+msgstr "Múltiples pedidos"
 
 #: stringdump_steam_50_11.txt:5524
 msgid "No special orders"
-msgstr ""
+msgstr "Sin pedidos especiales"
 
 #: stringdump_steam_50_11.txt:5525
 msgid "Routine:"
-msgstr ""
+msgstr "Rutina:"
 
 #: stringdump_steam_50_11.txt:5526
 msgid " target"
-msgstr ""
+msgstr "Objetivo"
 
 #: stringdump_steam_50_11.txt:5527
 msgid "No target"
-msgstr ""
+msgstr "Sin objetivo"
 
 #: stringdump_steam_50_11.txt:5528
 msgid "Move: click on the map."
-msgstr ""
+msgstr "Mover: haga clic en el mapa."
 
 #: stringdump_steam_50_11.txt:5529
 msgid "Select a squad or squad"
-msgstr ""
+msgstr "Selecciona una escuadra o escuadrón"
 
 #: stringdump_steam_50_11.txt:5530
 msgid "member to give orders,"
-msgstr ""
+msgstr "miembro para dar órdenes,"
 
 #: stringdump_steam_50_11.txt:5531
 msgid "change equipment, and"
-msgstr ""
+msgstr "cambio de equipo y"
 
 #: stringdump_steam_50_11.txt:5532
 msgid "Equip"
-msgstr ""
+msgstr "Equipar"
 
 #: stringdump_steam_50_11.txt:5533
 msgid "Schedule"
-msgstr ""
+msgstr "Horario"
 
 #: stringdump_steam_50_11.txt:5534
 msgid "Choose a uniform for the"
-msgstr ""
+msgstr "Elige un uniforme para el"
 
 #: stringdump_steam_50_11.txt:5535
 msgid "seleced positions."
-msgstr ""
+msgstr "posiciones seleccionadas"
 
 #: stringdump_steam_50_11.txt:5536
 msgid "seleced squads."
-msgstr ""
+msgstr "escuadrones seleccionados."
 
 #: stringdump_steam_50_11.txt:5537
 msgid "squad."
-msgstr ""
+msgstr "Escuadra"
 
 #: stringdump_steam_50_11.txt:5538
 msgid "No uniform"
-msgstr ""
+msgstr "No uniforme"
 
 #: stringdump_steam_50_11.txt:5539
 msgid "Recounting legends..."
@@ -22328,39 +22436,39 @@ msgstr "Formación constante"
 
 #: stringdump_steam_50_11.txt:5543
 msgid "Create which squad?"
-msgstr ""
+msgstr "¿Crear qué escuadrón?"
 
 #: stringdump_steam_50_11.txt:5544
 msgid "'s squad"
-msgstr ""
+msgstr "escuadrón"
 
 #: stringdump_steam_50_11.txt:5545
 msgid "appointed by "
-msgstr ""
+msgstr "designado por"
 
 #: stringdump_steam_50_11.txt:5546
 msgid "Military routines"
-msgstr ""
+msgstr "Rutinas militares"
 
 #: stringdump_steam_50_11.txt:5547
 msgid "Routine #"
-msgstr ""
+msgstr "Rutina #"
 
 #: stringdump_steam_50_11.txt:5548
 msgid "Add new routine"
-msgstr ""
+msgstr "Añadir nueva rutina"
 
 #: stringdump_steam_50_11.txt:5549
 msgid "Really delete this routine?"
-msgstr ""
+msgstr "Eliminar realmente esta rutina?"
 
 #: stringdump_steam_50_11.txt:5550
 msgid "Current month"
-msgstr ""
+msgstr "Mes actual"
 
 #: stringdump_steam_50_11.txt:5551
 msgid "by pushing together"
-msgstr ""
+msgstr "empujando juntos"
 
 #: stringdump_steam_50_11.txt:5552
 msgid "Add/edit routines (columns)"
@@ -22372,143 +22480,143 @@ msgstr "Ver el calendario mensual"
 
 #: stringdump_steam_50_11.txt:5554
 msgid "Monthly orders"
-msgstr ""
+msgstr "Ordenes mensuales"
 
 #: stringdump_steam_50_11.txt:5556
 msgid "specific armor"
-msgstr ""
+msgstr "armadura específica"
 
 #: stringdump_steam_50_11.txt:5557
 msgid "specific helm"
-msgstr ""
+msgstr "yelmo específico"
 
 #: stringdump_steam_50_11.txt:5558
 msgid "specific pants"
-msgstr ""
+msgstr "pantalones específicos"
 
 #: stringdump_steam_50_11.txt:5559
 msgid "specific gloves"
-msgstr ""
+msgstr "guantes específicos"
 
 #: stringdump_steam_50_11.txt:5560
 msgid "specific shoes"
-msgstr ""
+msgstr "zapatos específicos"
 
 #: stringdump_steam_50_11.txt:5561
 msgid "specific shield"
-msgstr ""
+msgstr "escudo determinado"
 
 #: stringdump_steam_50_11.txt:5562
 msgid "specific weapon"
-msgstr ""
+msgstr "arma determinada"
 
 #: stringdump_steam_50_11.txt:5563
 msgid "individual choice"
-msgstr ""
+msgstr "elección individual"
 
 #: stringdump_steam_50_11.txt:5564
 msgid ", weapon"
-msgstr ""
+msgstr ", arma"
 
 #: stringdump_steam_50_11.txt:5565
 msgid "indiv choice, melee"
-msgstr ""
+msgstr "elección individual, melee"
 
 #: stringdump_steam_50_11.txt:5566
 msgid "indiv choice, ranged"
-msgstr ""
+msgstr "elección individual, a distancia"
 
 #: stringdump_steam_50_11.txt:5567
 msgid " (foreign)"
-msgstr ""
+msgstr "(Extranjero)"
 
 #: stringdump_steam_50_11.txt:5568
 msgid "plant fiber"
-msgstr ""
+msgstr "fibra vegetal"
 
 #: stringdump_steam_50_11.txt:5569
 msgid "metal"
-msgstr ""
+msgstr "Metal"
 
 #: stringdump_steam_50_11.txt:5571
 msgid "any material"
-msgstr ""
+msgstr "cualquier material"
 
 #: stringdump_steam_50_11.txt:5572
 msgid "any color"
-msgstr ""
+msgstr "cualquier color"
 
 #: stringdump_steam_50_11.txt:5573
 msgid " (Dye)"
-msgstr ""
+msgstr "(Teñir)"
 
 #: stringdump_steam_50_11.txt:5574
 msgid "missing item"
-msgstr ""
+msgstr "objeto perdido"
 
 #: stringdump_steam_50_11.txt:5575
 msgid "Position "
-msgstr ""
+msgstr "Posición"
 
 #: stringdump_steam_50_11.txt:5576
 msgid "Adding uniform"
-msgstr ""
+msgstr "Agregando uniforme"
 
 #: stringdump_steam_50_11.txt:5577
 msgid "(enter name here)"
-msgstr ""
+msgstr "(introducir nombre aquí)"
 
 #: stringdump_steam_50_11.txt:5578
 msgid "Confirm and save uniform"
-msgstr ""
+msgstr "Confirmar y guardar uniforme"
 
 #: stringdump_steam_50_11.txt:5579
 msgid "New bodywear"
-msgstr ""
+msgstr "Nueva ropa interior"
 
 #: stringdump_steam_50_11.txt:5580
 msgid "New headwear"
-msgstr ""
+msgstr "Gorros nuevos"
 
 #: stringdump_steam_50_11.txt:5581
 msgid "New legwear"
-msgstr ""
+msgstr "Mallas nuevas"
 
 #: stringdump_steam_50_11.txt:5582
 msgid "New handwear"
-msgstr ""
+msgstr "Nuevo guante"
 
 #: stringdump_steam_50_11.txt:5583
 msgid "New footwear"
-msgstr ""
+msgstr "Calzado nuevo"
 
 #: stringdump_steam_50_11.txt:5584
 msgid "New shield"
-msgstr ""
+msgstr "Nuevo escudo"
 
 #: stringdump_steam_50_11.txt:5585
 msgid "New weapon"
-msgstr ""
+msgstr "Nueva arma"
 
 #: stringdump_steam_50_11.txt:5586
 msgid "Uniform replaces clothing"
-msgstr ""
+msgstr "El uniforme reemplaza la ropa"
 
 #: stringdump_steam_50_11.txt:5587
 msgid "Uniform worn over clothing"
-msgstr ""
+msgstr "Uniforme usado sobre la ropa"
 
 #: stringdump_steam_50_11.txt:5588
 msgid "Exact matches only"
-msgstr ""
+msgstr "Solo coincidencias exactas"
 
 #: stringdump_steam_50_11.txt:5589
 msgid "Partial matches okay"
-msgstr ""
+msgstr "Se admiten coincidencias parciales"
 
 #: stringdump_steam_50_11.txt:5590
 msgid " individual choice"
-msgstr ""
+msgstr "elección individual"
 
 #: stringdump_steam_50_11.txt:5591
 msgid " indiv choice, melee"
@@ -22516,47 +22624,47 @@ msgstr ""
 
 #: stringdump_steam_50_11.txt:5592
 msgid " indiv choice, ranged"
-msgstr ""
+msgstr "elección individual, a distancia"
 
 #: stringdump_steam_50_11.txt:5593
 msgid " assigned items"
-msgstr ""
+msgstr "artículos asignados"
 
 #: stringdump_steam_50_11.txt:5594
 msgid "Not yet assigned"
-msgstr ""
+msgstr "Aún no asignado"
 
 #: stringdump_steam_50_11.txt:5595
 msgid "No assigned items"
-msgstr ""
+msgstr "Sin elementos asignados"
 
 #: stringdump_steam_50_11.txt:5596
 msgid "Mat"
-msgstr ""
+msgstr "Junto con"
 
 #: stringdump_steam_50_11.txt:5597
 msgid "Color"
-msgstr ""
+msgstr "Color"
 
 #: stringdump_steam_50_11.txt:5598
 msgid "Assign uniform"
-msgstr ""
+msgstr "Asignar uniforme"
 
 #: stringdump_steam_50_11.txt:5599
 msgid "Add uniform"
-msgstr ""
+msgstr "Añadir uniforme"
 
 #: stringdump_steam_50_11.txt:5600
 msgid "Update equipment"
-msgstr ""
+msgstr "Mejorar equipamiento"
 
 #: stringdump_steam_50_11.txt:5601
 msgid "Custom uniform"
-msgstr ""
+msgstr "Personalizar uniforme"
 
 #: stringdump_steam_50_11.txt:5602
 msgid "Details"
-msgstr ""
+msgstr "Detalles"
 
 #: stringdump_steam_50_11.txt:5603
 msgid "Crankshafts"
@@ -22568,111 +22676,111 @@ msgstr "Sala de hidromiel"
 
 #: stringdump_steam_50_11.txt:5605
 msgid "I cannot just stand by."
-msgstr ""
+msgstr "No puedo sencillamente esperar."
 
 #: stringdump_steam_50_11.txt:5607
 msgid "Open cases"
-msgstr ""
+msgstr "Casos abiertos"
 
 #: stringdump_steam_50_11.txt:5608
 msgid "Closed cases"
-msgstr ""
+msgstr "Casos cerrados"
 
 #: stringdump_steam_50_11.txt:5609
 msgid "Cold cases"
-msgstr ""
+msgstr "Casos sin resolver"
 
 #: stringdump_steam_50_11.txt:5610
 msgid "Fortress guard"
-msgstr ""
+msgstr "Guardia de la fortaleza"
 
 #: stringdump_steam_50_11.txt:5611
 msgid "Convicts"
-msgstr ""
+msgstr "Convictos"
 
 #: stringdump_steam_50_11.txt:5612
 msgid "Intelligence"
-msgstr ""
+msgstr "Inteligencia"
 
 #: stringdump_steam_50_11.txt:5613
 msgid "There are no cold cases."
-msgstr ""
+msgstr "No hay casos sin resolver."
 
 #: stringdump_steam_50_11.txt:5614
 msgid "Open cases become cold after one year."
-msgstr ""
+msgstr "Los casos abiertos pasan a ser casos sin resolver después de un año."
 
 #: stringdump_steam_50_11.txt:5615
 msgid "There are no closed cases."
-msgstr ""
+msgstr "No hay casos cerrados."
 
 #: stringdump_steam_50_11.txt:5616
 msgid "There are no open cases."
-msgstr ""
+msgstr "No hay casos abiertos."
 
 #: stringdump_steam_50_11.txt:5617
 msgid "Violation of production order"
-msgstr ""
+msgstr "Violación de la orden de producción"
 
 #: stringdump_steam_50_11.txt:5618
 msgid "Violation of export prohibition"
-msgstr ""
+msgstr "Violación de la prohibición de exportar"
 
 #: stringdump_steam_50_11.txt:5619
 msgid "Violation of job order"
-msgstr ""
+msgstr "Violación de la orden de trabajo"
 
 #: stringdump_steam_50_11.txt:5620
 msgid "Conspiracy to alow labor"
-msgstr ""
+msgstr "Conspiración para permitir el trabajo"
 
 #: stringdump_steam_50_11.txt:5621
 msgid "Murder"
-msgstr ""
+msgstr "Asesinato"
 
 #: stringdump_steam_50_11.txt:5622
 msgid "Disorderly conduct"
-msgstr ""
+msgstr "Conducta desordenada"
 
 #: stringdump_steam_50_11.txt:5623
 msgid "Building destruction"
-msgstr ""
+msgstr "Destrucción de edificios"
 
 #: stringdump_steam_50_11.txt:5624
 msgid "Bribery"
-msgstr ""
+msgstr "Soborno"
 
 #: stringdump_steam_50_11.txt:5625
 msgid "Embezzlement"
-msgstr ""
+msgstr "Malversación"
 
 #: stringdump_steam_50_11.txt:5626
 msgid "Vandalism"
-msgstr ""
+msgstr "Vandalismo"
 
 #: stringdump_steam_50_11.txt:5627
 msgid "Theft"
-msgstr ""
+msgstr "Hurto"
 
 #: stringdump_steam_50_11.txt:5628
 msgid "Robbery"
-msgstr ""
+msgstr "Robo"
 
 #: stringdump_steam_50_11.txt:5629
 msgid "Espionage"
-msgstr ""
+msgstr "Espionaje"
 
 #: stringdump_steam_50_11.txt:5630
 msgid " against "
-msgstr ""
+msgstr "Contra"
 
 #: stringdump_steam_50_11.txt:5631
 msgid "Treason"
-msgstr ""
+msgstr "Traición"
 
 #: stringdump_steam_50_11.txt:5632
 msgid "Blood-drinking"
-msgstr ""
+msgstr "Beber-sangre"
 
 #: stringdump_steam_50_11.txt:5633
 msgid "Attempted theft"
@@ -22684,7 +22792,7 @@ msgstr ""
 
 #: stringdump_steam_50_11.txt:5635
 msgid "Kidnapping"
-msgstr ""
+msgstr "Secuestro"
 
 #: stringdump_steam_50_11.txt:5636
 msgid "Attempted kidnapping"
@@ -22696,7 +22804,7 @@ msgstr ""
 
 #: stringdump_steam_50_11.txt:5638
 msgid " witnesses"
-msgstr ""
+msgstr "Testigos"
 
 #: stringdump_steam_50_11.txt:5639
 msgid "No witnesses"
@@ -22712,7 +22820,7 @@ msgstr ""
 
 #: stringdump_steam_50_11.txt:5642
 msgid "Convict"
-msgstr ""
+msgstr "Condenar"
 
 #: stringdump_steam_50_11.txt:5643
 msgid "Injured party: "
@@ -22720,7 +22828,7 @@ msgstr ""
 
 #: stringdump_steam_50_11.txt:5644
 msgid "Convicted: "
-msgstr ""
+msgstr "Convicto"
 
 #: stringdump_steam_50_11.txt:5645
 msgid "Unknown convict."
@@ -22728,31 +22836,31 @@ msgstr ""
 
 #: stringdump_steam_50_11.txt:5646
 msgid "Unsolved."
-msgstr ""
+msgstr "Sin resolver."
 
 #: stringdump_steam_50_11.txt:5647
 msgid "Interrogate"
-msgstr ""
+msgstr "Interrogar"
 
 #: stringdump_steam_50_11.txt:5648
 msgid "Witness: "
-msgstr ""
+msgstr "Testigo:"
 
 #: stringdump_steam_50_11.txt:5650
 msgid "Confessed."
-msgstr ""
+msgstr "Confesado:"
 
 #: stringdump_steam_50_11.txt:5651
 msgid "Implicates: "
-msgstr ""
+msgstr "Implica:"
 
 #: stringdump_steam_50_11.txt:5652
 msgid "Accuses: "
-msgstr ""
+msgstr "Acusados:"
 
 #: stringdump_steam_50_11.txt:5653
 msgid "somebody"
-msgstr ""
+msgstr "Alguien"
 
 #: stringdump_steam_50_11.txt:5654
 msgid "Found the body."
@@ -22768,7 +22876,7 @@ msgstr ""
 
 #: stringdump_steam_50_11.txt:5657
 msgid "Saw "
-msgstr ""
+msgstr "Sierra"
 
 #: stringdump_steam_50_11.txt:5658
 msgid " admire the object."
@@ -22852,7 +22960,7 @@ msgstr ""
 
 #: stringdump_steam_50_11.txt:5678
 msgid " day"
-msgstr ""
+msgstr "Día"
 
 #: stringdump_steam_50_11.txt:5679
 msgid " in prison."
@@ -24438,111 +24546,111 @@ msgstr ""
 
 #: stringdump_steam_50_11.txt:6089
 msgid "more artistically inclined"
-msgstr ""
+msgstr "Más inclinado hacia lo artístico"
 
 #: stringdump_steam_50_11.txt:6090
 msgid "less artistically inclined"
-msgstr ""
+msgstr "Menos inclinado hacia lo artístico "
 
 #: stringdump_steam_50_11.txt:6091
 msgid " and learned to "
-msgstr ""
+msgstr "y aprendio a"
 
 #: stringdump_steam_50_11.txt:6092
 msgid "value "
-msgstr ""
+msgstr "valor"
 
 #: stringdump_steam_50_11.txt:6093
 msgid "Learned to "
-msgstr ""
+msgstr "Aprendío a"
 
 #: stringdump_steam_50_11.txt:6094
 msgid "disdain "
-msgstr ""
+msgstr "desdén"
 
 #: stringdump_steam_50_11.txt:6095
 msgid "law"
-msgstr ""
+msgstr "ley"
 
 #: stringdump_steam_50_11.txt:6096
 msgid "loyalty"
-msgstr ""
+msgstr "lealtad"
 
 #: stringdump_steam_50_11.txt:6097
 msgid "family"
-msgstr ""
+msgstr "familia"
 
 #: stringdump_steam_50_11.txt:6098
 msgid "friendship"
-msgstr ""
+msgstr "amistad"
 
 #: stringdump_steam_50_11.txt:6099
 msgid "power"
-msgstr ""
+msgstr "poder"
 
 #: stringdump_steam_50_11.txt:6100
 msgid "truth"
-msgstr ""
+msgstr "verdad"
 
 #: stringdump_steam_50_11.txt:6101
 msgid "cunning"
-msgstr ""
+msgstr "astuto"
 
 #: stringdump_steam_50_11.txt:6102
 msgid "eloquence"
-msgstr ""
+msgstr "elocuencia"
 
 #: stringdump_steam_50_11.txt:6103
 msgid "fairness"
-msgstr ""
+msgstr "justicia"
 
 #: stringdump_steam_50_11.txt:6104
 msgid "decorum"
-msgstr ""
+msgstr "decoro"
 
 #: stringdump_steam_50_11.txt:6105
 msgid "tradition"
-msgstr ""
+msgstr "tradición"
 
 #: stringdump_steam_50_11.txt:6106
 msgid "artwork"
-msgstr ""
+msgstr "obra de arte"
 
 #: stringdump_steam_50_11.txt:6107
 msgid "cooperation"
-msgstr ""
+msgstr "cooperación"
 
 #: stringdump_steam_50_11.txt:6108
 msgid "independence"
-msgstr ""
+msgstr "independencia"
 
 #: stringdump_steam_50_11.txt:6109
 msgid "stoicism"
-msgstr ""
+msgstr "estoicismo"
 
 #: stringdump_steam_50_11.txt:6110
 msgid "introspection"
-msgstr ""
+msgstr "introspección"
 
 #: stringdump_steam_50_11.txt:6111
 msgid "self-control"
-msgstr ""
+msgstr "autocontrol"
 
 #: stringdump_steam_50_11.txt:6112
 msgid "tranquility"
-msgstr ""
+msgstr "tranquilidad"
 
 #: stringdump_steam_50_11.txt:6113
 msgid "harmony"
-msgstr ""
+msgstr "harmonía"
 
 #: stringdump_steam_50_11.txt:6114
 msgid "merriment"
-msgstr ""
+msgstr "alegría"
 
 #: stringdump_steam_50_11.txt:6115
 msgid "craftsmanship"
-msgstr ""
+msgstr "artesanía"
 
 #: stringdump_steam_50_11.txt:6116
 msgid "martial prowess"
@@ -24550,7 +24658,7 @@ msgstr ""
 
 #: stringdump_steam_50_11.txt:6117
 msgid "skill"
-msgstr ""
+msgstr "Habilidad"
 
 #: stringdump_steam_50_11.txt:6118
 msgid "hard work"
@@ -48922,7 +49030,7 @@ msgstr "** Cargando Fortaleza **"
 
 #: stringdump_steam_50_11.txt:15194
 msgid "Ready"
-msgstr ""
+msgstr "Listo"
 
 #: stringdump_steam_50_11.txt:15195
 msgid ""
