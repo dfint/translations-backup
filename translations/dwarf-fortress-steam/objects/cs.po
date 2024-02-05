@@ -5,12 +5,12 @@
 # Lukáš Bednařík, 2023
 # Alexandr Richtr, 2023
 # Jiří Holeš, 2023
-# Zdenek Galus <zgalus@centrum.cz>, 2023
 # Libor Wojcs Vojáček, 2023
+# Zdenek Galus <zgalus@centrum.cz>, 2024
 # 
 msgid ""
 msgstr ""
-"Last-Translator: Libor Wojcs Vojáček, 2023\n"
+"Last-Translator: Zdenek Galus <zgalus@centrum.cz>, 2024\n"
 "Language-Team: Czech (https://app.transifex.com/dwarf-fortress-translation/teams/22396/cs/)\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -5208,7 +5208,7 @@ msgstr "[TISSUE_NAME:houba:NP]"
 #: building_custom.txt:6
 msgctxt "BUILDING_WORKSHOP:SOAP_MAKER"
 msgid "[NAME:Soap Maker's Workshop]"
-msgstr "[NAME:Dílna Výrobce Mýdla]"
+msgstr "[NAME:Mýdlářská Dílna]"
 
 #: building_custom.txt:41
 msgctxt "BUILDING_WORKSHOP:SOAP_MAKER"
@@ -5219,7 +5219,7 @@ msgstr ""
 #: building_custom.txt:44
 msgctxt "BUILDING_WORKSHOP:SCREW_PRESS"
 msgid "[NAME:Screw Press]"
-msgstr "[NAME:Šroubovací lis]"
+msgstr "[NAME:Šroubovací Lis]"
 
 #: building_custom.txt:56
 msgctxt "BUILDING_WORKSHOP:SCREW_PRESS"
@@ -5604,7 +5604,7 @@ msgstr ""
 #: creature_amphibians.txt:7
 msgctxt "CREATURE:TOAD"
 msgid "[NAME:toad:toads:toad]"
-msgstr "[NAME:ropucha:ropuchy:ropucha]"
+msgstr "[NAME:ropucha:ropuchy:ropuchy]"
 
 #: creature_amphibians.txt:8
 msgctxt "CREATURE:TOAD"
@@ -5644,7 +5644,7 @@ msgstr "[CASTE_NAME:ropušačka:ropušačky:ropušačka]"
 #: creature_amphibians.txt:87
 msgctxt "CREATURE:TOAD_MAN"
 msgid "[NAME:toad man:toad men:toad man]"
-msgstr "[NAME:ropušák:ropušáci:ropušák]"
+msgstr "[NAME:ropušák:ropušáci:ropušáka]"
 
 #: creature_amphibians.txt:88
 msgctxt "CREATURE:TOAD_MAN"
@@ -5654,7 +5654,7 @@ msgstr "[DESCRIPTION:Tmavě zelený muž s hlavou ropuchy.]"
 #: creature_amphibians.txt:104
 msgctxt "CREATURE:GIANT_TOAD"
 msgid "[NAME:giant toad:giant toads:giant toad]"
-msgstr "[NAME:ropucha obrovská: ropuchy obrovské: ropucha obrovská]"
+msgstr "[NAME:obří ropucha:obří ropuchy:obří ropuchy]"
 
 #: creature_amphibians.txt:105
 msgctxt "CREATURE:GIANT_TOAD"
@@ -5683,7 +5683,7 @@ msgstr ""
 #: creature_annelids.txt:7
 msgctxt "CREATURE:WORM"
 msgid "[NAME:worm:worms:worm]"
-msgstr "[NAME:červ:červy:červ]"
+msgstr "[NAME:červ:červy:červí]"
 
 #: creature_annelids.txt:8
 msgctxt "CREATURE:WORM"
@@ -5713,7 +5713,7 @@ msgstr "[TLCM_NOUN:pokožka:SINGULAR]"
 #: creature_annelids.txt:59
 msgctxt "CREATURE:WORM_MAN"
 msgid "[NAME:worm man:worm men:worm man]"
-msgstr "[NAME:červák:červáci:červák]"
+msgstr "[NAME:červák:červáci:červáčí]"
 
 #: creature_annelids.txt:60
 msgctxt "CREATURE:WORM_MAN"
@@ -5737,7 +5737,7 @@ msgstr ""
 #: creature_birds.txt:7
 msgctxt "CREATURE:BIRD_BLUEJAY"
 msgid "[NAME:blue jay:blue jays:blue jay]"
-msgstr "[NAME:sojka modrá:sojky modré:sojka modrá]"
+msgstr "[NAME:sojka modrá:sojky modré:sojky modré]"
 
 #: creature_birds.txt:8
 msgctxt "CREATURE:BIRD_BLUEJAY"
@@ -5794,7 +5794,7 @@ msgstr "[CASTE_NAME:samice sojky modré:samice sojky modré:samice sojky modré]
 #: creature_birds.txt:129
 msgctxt "CREATURE:BLUEJAY_MAN"
 msgid "[NAME:bluejay man:bluejay men:bluejay man]"
-msgstr "[NAME:samec sojky modré:samci sojky modré:samec sojky modré]"
+msgstr "[NAME:mužská sojka modrá:mužské sojky modré:mužské sojky modré]"
 
 #: creature_birds.txt:130
 msgctxt "CREATURE:BLUEJAY_MAN"
@@ -5804,7 +5804,7 @@ msgstr "[DESCRIPTION:Člověk s hlavou a křídly sojky modré.]"
 #: creature_birds.txt:146
 msgctxt "CREATURE:GIANT_BLUEJAY"
 msgid "[NAME:giant bluejay:giant bluejays:giant bluejay]"
-msgstr "[NAME:obrovská sojka modrá:obrovské sojky modré:obrovská sojka modrá]"
+msgstr "[NAME:obří sojka modrá:obří sojky modré:obří sojky modré]"
 
 #: creature_birds.txt:147
 msgctxt "CREATURE:GIANT_BLUEJAY"
@@ -5840,8 +5840,8 @@ msgstr ""
 msgctxt "CREATURE:BIRD_CARDINAL"
 msgid "[NAME:cardinal:cardinals:cardinal]"
 msgstr ""
-"[NAME:severoamerický kardinál:severoameričtí kardináli:severoamerický "
-"kardinál]"
+"[NAME:severoamerický kardinál:severoameričtí kardináli:severoamerického "
+"kardinála]"
 
 #: creature_birds.txt:168
 msgctxt "CREATURE:BIRD_CARDINAL"
@@ -5905,8 +5905,8 @@ msgstr ""
 msgctxt "CREATURE:CARDINAL_MAN"
 msgid "[NAME:cardinal man:cardinal men:cardinal man]"
 msgstr ""
-"[NAME:samec kardinála severoamerického:samci kardinála "
-"severoamerického:samec kardinála severoamerického]"
+"[NAME:mužský kardinál severoamerický:mužští kardinála "
+"severoamerického:mužského kardinála severoamerického]"
 
 #: creature_birds.txt:289
 msgctxt "CREATURE:CARDINAL_MAN"
@@ -5917,8 +5917,8 @@ msgstr "[DESCRIPTION:Člověk s hlavou a křídly kardinála severoamerického.]
 msgctxt "CREATURE:GIANT_CARDINAL"
 msgid "[NAME:giant cardinal:giant cardinals:giant cardinal]"
 msgstr ""
-"[NAME:obrovský kardinál severoamerický:obrovští kardináli "
-"severoameričtí:obrovský kardinál severoamerickýl]"
+"[NAME:obří kardinál severoamerický:obří kardináli severoameričtí:obřího "
+"kardinála severoamerického]"
 
 #: creature_birds.txt:306
 msgctxt "CREATURE:GIANT_CARDINAL"
@@ -5958,7 +5958,7 @@ msgstr ""
 #: creature_birds.txt:326
 msgctxt "CREATURE:BIRD_GRACKLE"
 msgid "[NAME:grackle:grackles:grackle]"
-msgstr "[NAME:grackl:grackové:grackl]"
+msgstr "[NAME:grackl:grackové:grackla]"
 
 #: creature_birds.txt:327
 msgctxt "CREATURE:BIRD_GRACKLE"
@@ -6013,7 +6013,7 @@ msgstr "[CASTE_NAME:samice grackla: samice grackla:samice grackla]"
 #: creature_birds.txt:444
 msgctxt "CREATURE:GRACKLE_MAN"
 msgid "[NAME:grackle man:grackle men:grackle man]"
-msgstr "[NAME:samec grackla:samci grackla:samec grackla]"
+msgstr "[NAME:mužský grackl:mužští gracklové:mužského grackla]"
 
 #: creature_birds.txt:445
 msgctxt "CREATURE:GRACKLE_MAN"
@@ -6023,7 +6023,7 @@ msgstr "[DESCRIPTION:Člověk s hlavou a křídly grackla.]"
 #: creature_birds.txt:461
 msgctxt "CREATURE:GIANT_GRACKLE"
 msgid "[NAME:giant grackle:giant grackles:giant grackle]"
-msgstr "[NAME:obrovský grackl:obrovští gracklové:obrovský grackl]"
+msgstr "[NAME:obří grackl:obří gracklové:obřího grackla]"
 
 #: creature_birds.txt:462
 msgctxt "CREATURE:GIANT_GRACKLE"
@@ -6056,7 +6056,7 @@ msgstr "[DESCRIPTION:Malý žluto černý pták žijící v korunách stromů.]"
 #: creature_birds.txt:482
 msgctxt "CREATURE:BIRD_ORIOLE"
 msgid "[NAME:oriole:orioles:oriole]"
-msgstr "[NAME:žluva:žluvy:žluva]"
+msgstr "[NAME:žluva:žluvy:žluví]"
 
 #: creature_birds.txt:483
 msgctxt "CREATURE:BIRD_ORIOLE"
@@ -6111,7 +6111,7 @@ msgstr "[CASTE_NAME:samička žluvy:samičky žluvy:samička žluvy]"
 #: creature_birds.txt:599
 msgctxt "CREATURE:ORIOLE_MAN"
 msgid "[NAME:oriole man:oriole men:oriole man]"
-msgstr "[NAME:samec žluvy:samci žluvy:samec žluvy]"
+msgstr "[NAME:myžská žluva:mužské žluvy:myžské žluvy]"
 
 #: creature_birds.txt:600
 msgctxt "CREATURE:ORIOLE_MAN"
@@ -6121,7 +6121,7 @@ msgstr "[DESCRIPTION:Osoba s hlavou a křídly ze žluvy.]"
 #: creature_birds.txt:616
 msgctxt "CREATURE:GIANT_ORIOLE"
 msgid "[NAME:giant oriole:giant orioles:giant oriole]"
-msgstr "[NAME:obří žluva:obří žluvy:obří žluva]"
+msgstr "[NAME:obří žluva:obří žluvy:obří žluvy]"
 
 #: creature_birds.txt:617
 msgctxt "CREATURE:GIANT_ORIOLE"
@@ -6155,7 +6155,7 @@ msgstr ""
 #: creature_birds.txt:637
 msgctxt "CREATURE:BIRD_RW_BLACKBIRD"
 msgid "[NAME:red-winged blackbird:red-winged blackbirds:red-winged blackbird]"
-msgstr "[NAME:kos rudokřídlý:kosi rudokřídlí:kos rudokřídlý]"
+msgstr "[NAME:kos rudokřídlý:kosi rudokřídlí:kosa rudokřídlého]"
 
 #: creature_birds.txt:638
 msgctxt "CREATURE:BIRD_RW_BLACKBIRD"
@@ -6226,7 +6226,7 @@ msgid ""
 "[NAME:red-winged blackbird man:red-winged blackbird men:red-winged blackbird"
 " man]"
 msgstr ""
-"[NAME:samec kosa rudokřídlého:samci kosa rudokřídlého:samec kosa "
+"[NAME:mužský kos rudokřídlý:mužští kosi rudokřídlý:mužského kosa "
 "rudokřídlého]"
 
 #: creature_birds.txt:756
@@ -6241,8 +6241,7 @@ msgid ""
 "[NAME:giant red-winged blackbird:giant red-winged blackbirds:giant red-"
 "winged blackbird]"
 msgstr ""
-"[NAME:obrovský kos rudokřídlý:obrovští kosi rudokřídlí:obrovský kos "
-"rudokřídlý]"
+"[NAME:obří kos rudokřídlý:obří kosi rudokřídlí:obřího kosa rudokřídlého]"
 
 #: creature_birds.txt:773
 msgctxt "CREATURE:GIANT_RW_BLACKBIRD"
@@ -6280,7 +6279,7 @@ msgstr "[DESCRIPTION:Malý nelétavý pták, který žije na arktických pobře�
 #: creature_birds.txt:803
 msgctxt "CREATURE:BIRD_PENGUIN"
 msgid "[NAME:penguin:penguins:penguin]"
-msgstr "[NAME:tučňák:tučňáci:tučňák]"
+msgstr "[NAME:tučňák:tučňáci:tučňáka]"
 
 #: creature_birds.txt:804
 msgctxt "CREATURE:BIRD_PENGUIN"
@@ -6344,7 +6343,7 @@ msgstr ""
 #: creature_birds.txt:898
 msgctxt "CREATURE:BIRD_PENGUIN_LITTLE"
 msgid "[NAME:little penguin:little penguins:little penguin]"
-msgstr "[NAME:malý tučňák:malí tučňáci:malý tučňák]"
+msgstr "[NAME:malý tučňák:malí tučňáci:malého tučňáka]"
 
 #: creature_birds.txt:899
 msgctxt "CREATURE:BIRD_PENGUIN_LITTLE"
@@ -6415,7 +6414,7 @@ msgstr ""
 #: creature_birds.txt:994
 msgctxt "CREATURE:BIRD_PENGUIN_EMPEROR"
 msgid "[NAME:emperor penguin:emperor penguins:emperor penguin]"
-msgstr "[NAME:tučňák císařský:tučňáci císařští:tučňák císařský]"
+msgstr "[NAME:tučňák císařský:tučňáci císařští:tučňáka císařského]"
 
 #: creature_birds.txt:995
 msgctxt "CREATURE:BIRD_PENGUIN_EMPEROR"
@@ -6486,7 +6485,7 @@ msgstr "[CASTE_NAME:samička tučňáka:samičky tučňáka:samička tučňáka]
 #: creature_birds.txt:1110
 msgctxt "CREATURE:PENGUIN MAN"
 msgid "[NAME:penguin man:penguin men:penguin man]"
-msgstr "[NAME:samec tučňáka:samci tučňáka:samec tučňáka]"
+msgstr "[NAME:mužský tučňák:mužští tučňáci:mužského tučňáka]"
 
 #: creature_birds.txt:1111
 msgctxt "CREATURE:PENGUIN MAN"
@@ -6497,7 +6496,7 @@ msgstr "[DESCRIPTION:Humanoid s hlavou, nohama a peřím tučňáka.]"
 #: creature_birds.txt:1126
 msgctxt "CREATURE:BIRD_PENGUIN_GIANT"
 msgid "[NAME:giant penguin:giant penguins:giant penguin]"
-msgstr "[NAME:obří tučňák:obří tučňáci:obří tučňák]"
+msgstr "[NAME:obří tučňák:obří tučňáci:obřího tučňáka]"
 
 #: creature_birds.txt:1127
 msgctxt "CREATURE:BIRD_PENGUIN_GIANT"
@@ -6546,7 +6545,7 @@ msgstr ""
 #: creature_birds.txt:1154
 msgctxt "CREATURE:BIRD_FALCON_PEREGRINE"
 msgid "[NAME:peregrine falcon:peregrine falcons:peregrine falcon]"
-msgstr "[NAME:sokol stěhovavý:sokoli stěhovaví:sokol stěhovavý]"
+msgstr "[NAME:sokol stěhovavý:sokoli stěhovaví:sokola stěhovavého]"
 
 #: creature_birds.txt:1155
 msgctxt "CREATURE:BIRD_FALCON_PEREGRINE"
@@ -6578,7 +6577,7 @@ msgstr "[CASTE_NAME:sokol stěhovavý:sokoli stěhovaví:sokol stěhovavý]"
 #: creature_birds.txt:1256
 msgctxt "CREATURE:BIRD_FALCON_PEREGRINE"
 msgid "[CASTE_NAME:tiercel peregrine:tiercel peregrines:tiercel peregrine]"
-msgstr ""
+msgstr "[CASTE_NAME:sokol stěhovavý:sokoli stěhovavý:sokol stěhovavý]"
 
 #: creature_birds.txt:1264
 msgctxt "CREATURE:BIRD_FALCON_PEREGRINE"
@@ -6600,6 +6599,8 @@ msgctxt "CREATURE:PEREGRINE FALCON MAN"
 msgid ""
 "[CASTE_NAME:peregrine falcon man:peregrine falcon men:peregrine falcon man]"
 msgstr ""
+"[CASTE_NAME:mužský sokol stěhovavý:mužský sokoli stěhovavý:mužský sokol "
+"stěhovavý]"
 
 #: creature_birds.txt:1281
 msgctxt "CREATURE:PEREGRINE FALCON MAN"
@@ -6607,11 +6608,15 @@ msgid ""
 "[CASTE_NAME:peregrine falcon woman:peregrine falcon women:peregrine falcon "
 "woman]"
 msgstr ""
+"[CASTE_NAME:ženský sokol stěhovavý:ženský sokoli stěhovavý:ženský sokol "
+"stěhovavý]"
 
 #: creature_birds.txt:1293
 msgctxt "CREATURE:PEREGRINE FALCON MAN"
 msgid "[NAME:peregrine falcon man:peregrine falcon men:peregrine falcon man]"
-msgstr "[NAME:sokol stěhovavý muž:sokol stěhovavý muži:sokol stěhovavý muž]"
+msgstr ""
+"[NAME:mužský sokol stěhovavý:mužští sokoli stěhovavý:mužského sokola "
+"stěhovavého]"
 
 #: creature_birds.txt:1294
 msgctxt "CREATURE:PEREGRINE FALCON MAN"
@@ -6623,7 +6628,7 @@ msgctxt "CREATURE:GIANT PEREGRINE FALCON"
 msgid ""
 "[NAME:giant peregrine falcon:giant peregrine falcons:giant peregrine falcon]"
 msgstr ""
-"[NAME:obří sokol stěhovavý:obří sokoli stěhovavý:obří sokol stěhovavý]"
+"[NAME:obří sokol stěhovavý:obří sokoli stěhovavý:obřího sokola stěhovavého]"
 
 #: creature_birds.txt:1311
 msgctxt "CREATURE:GIANT PEREGRINE FALCON"
@@ -6645,6 +6650,7 @@ msgid ""
 "[CASTE_NAME:giant tiercel peregrine:giant tiercel peregrines:giant tiercel "
 "peregrine]"
 msgstr ""
+"[CASTE_NAME:obří sokol stěhovavý:obří sokoli stěhovavý:obří sokol stěhovavý]"
 
 #: creature_birds.txt:1322
 msgctxt "CREATURE:GIANT PEREGRINE FALCON"
@@ -6652,6 +6658,7 @@ msgid ""
 "[CASTE_NAME:giant peregrine falcon:giant peregrine falcons:giant peregrine "
 "falcon]"
 msgstr ""
+"[CASTE_NAME:obří sokol stěhovavý:obří sokoli stěhovavý:obří sokol stěhovavý]"
 
 #: creature_birds.txt:1324
 msgctxt "CREATURE:GIANT PEREGRINE FALCON"
@@ -6668,7 +6675,7 @@ msgstr ""
 #: creature_birds.txt:1339
 msgctxt "CREATURE:BIRD_KIWI"
 msgid "[NAME:kiwi:kiwis:kiwi]"
-msgstr "[NAME:kiwi:kiwi:kiwi]"
+msgstr "[NAME:kiwi:kiwi:kiwiho]"
 
 #: creature_birds.txt:1340
 msgctxt "CREATURE:BIRD_KIWI"
@@ -6728,7 +6735,7 @@ msgstr ""
 #: creature_birds.txt:1449
 msgctxt "CREATURE:KIWI MAN"
 msgid "[NAME:kiwi man:kiwi men:kiwi man]"
-msgstr "[NAME:kiwi muž:kiwi muži:kiwi muž]"
+msgstr "[NAME:mužský kiwi:mužští kiwi:mužského kiwi]"
 
 #: creature_birds.txt:1450
 msgctxt "CREATURE:KIWI MAN"
@@ -6738,7 +6745,7 @@ msgstr ""
 #: creature_birds.txt:1465
 msgctxt "CREATURE:BIRD_KIWI_GIANT"
 msgid "[NAME:giant kiwi:giant kiwis:giant kiwi]"
-msgstr "[NAME:obří kiwi:obří kiwi:obří kiwi]"
+msgstr "[NAME:obří kiwi:obří kiwi:obřího kiwi]"
 
 #: creature_birds.txt:1466
 msgctxt "CREATURE:BIRD_KIWI_GIANT"
@@ -6780,7 +6787,7 @@ msgstr ""
 #: creature_birds.txt:1497
 msgctxt "CREATURE:BIRD_OSTRICH"
 msgid "[NAME:ostrich:ostriches:ostrich]"
-msgstr "[NAME:pštros:pštrosy:pštros]"
+msgstr "[NAME:pštros:pštrosi:pštrosí]"
 
 #: creature_birds.txt:1498
 msgctxt "CREATURE:BIRD_OSTRICH"
@@ -6855,7 +6862,7 @@ msgstr ""
 #: creature_birds.txt:1632
 msgctxt "CREATURE:OSTRICH MAN"
 msgid "[NAME:ostrich man:ostrich men:ostrich man]"
-msgstr "[NAME:pštrosí muž:pštrosí muži:pštrosí muž]"
+msgstr "[NAME:mužský pštros:mužští pštrosi:mužského pštrosa]"
 
 #: creature_birds.txt:1633
 msgctxt "CREATURE:OSTRICH MAN"
@@ -6867,7 +6874,7 @@ msgstr ""
 #: creature_birds.txt:1648
 msgctxt "CREATURE:BIRD_OSTRICH_GIANT"
 msgid "[NAME:giant ostrich:giant ostriches:giant ostrich]"
-msgstr "[NAME:obří pštros:obří pštrosi:obří pštros]"
+msgstr "[NAME:obří pštros:obří pštrosi:obřího pštrosa]"
 
 #: creature_birds.txt:1649
 msgctxt "CREATURE:BIRD_OSTRICH_GIANT"
@@ -6909,7 +6916,7 @@ msgstr ""
 #: creature_birds_new.txt:13
 msgctxt "CREATURE:BIRD_CROW"
 msgid "[NAME:crow:crows:crow]"
-msgstr "[NAME:vrána:vrány:vrána]"
+msgstr "[NAME:vrána:vrány:vrány]"
 
 #: creature_birds_new.txt:14
 msgctxt "CREATURE:BIRD_CROW"
@@ -6964,7 +6971,7 @@ msgstr ""
 #: creature_birds_new.txt:135
 msgctxt "CREATURE:CROW_MAN"
 msgid "[NAME:crow man:crow men:crow man]"
-msgstr "[NAME:vraní muž:vraní muži:vraní muž]"
+msgstr "[NAME:mužská vrána:mžské vrány:mužské vrány]"
 
 #: creature_birds_new.txt:136
 msgctxt "CREATURE:CROW_MAN"
@@ -6974,7 +6981,7 @@ msgstr ""
 #: creature_birds_new.txt:152
 msgctxt "CREATURE:GIANT_CROW"
 msgid "[NAME:giant crow:giant crows:giant crow]"
-msgstr "[NAME:obří vrána:obří vrány:obří vrána]"
+msgstr "[NAME:obří vrána:obří vrány:obří vrány]"
 
 #: creature_birds_new.txt:153
 msgctxt "CREATURE:GIANT_CROW"
@@ -7008,7 +7015,7 @@ msgstr ""
 #: creature_birds_new.txt:179
 msgctxt "CREATURE:BIRD_RAVEN"
 msgid "[NAME:raven:ravens:raven]"
-msgstr "[NAME:havran:havrani:havran]"
+msgstr "[NAME:havran:havrani:havraní]"
 
 #: creature_birds_new.txt:180
 msgctxt "CREATURE:BIRD_RAVEN"
@@ -7063,7 +7070,7 @@ msgstr "[CASTE_NAME:havraní žena:havraní ženy:havraní žena]"
 #: creature_birds_new.txt:304
 msgctxt "CREATURE:RAVEN_MAN"
 msgid "[NAME:raven man:raven men:raven man]"
-msgstr "[NAME:havraní muž:havraní muži:havraní muž]"
+msgstr "[NAME:mužský havran:myžští havrani:mužského havrana]"
 
 #: creature_birds_new.txt:305
 msgctxt "CREATURE:RAVEN_MAN"
@@ -7073,7 +7080,7 @@ msgstr ""
 #: creature_birds_new.txt:321
 msgctxt "CREATURE:GIANT_RAVEN"
 msgid "[NAME:giant raven:giant ravens:giant raven]"
-msgstr "[NAME:obří havran:obří havrani:obří havran]"
+msgstr "[NAME:obří havran:obří havrani:obřího havrana]"
 
 #: creature_birds_new.txt:322
 msgctxt "CREATURE:GIANT_RAVEN"
@@ -7105,7 +7112,7 @@ msgstr ""
 #: creature_birds_new.txt:347
 msgctxt "CREATURE:BIRD_CASSOWARY"
 msgid "[NAME:cassowary:cassowaries:cassowary]"
-msgstr "[NAME:kasuár:kasuáři:kasuár]"
+msgstr "[NAME:kasuár:kasuáři:kasuáří]"
 
 #: creature_birds_new.txt:348
 msgctxt "CREATURE:BIRD_CASSOWARY"
@@ -7160,7 +7167,7 @@ msgstr ""
 #: creature_birds_new.txt:458
 msgctxt "CREATURE:CASSOWARY_MAN"
 msgid "[NAME:cassowary man:cassowary men:cassowary man]"
-msgstr "[NAME:kasuáří muž:kasuáří muži:kasuáří muž]"
+msgstr "[NAME:mužský kasuár:mužští kasuáři:mužského kasuára]"
 
 #: creature_birds_new.txt:459
 msgctxt "CREATURE:CASSOWARY_MAN"
@@ -7170,7 +7177,7 @@ msgstr ""
 #: creature_birds_new.txt:475
 msgctxt "CREATURE:GIANT_CASSOWARY"
 msgid "[NAME:giant cassowary:giant cassowaries:giant cassowary]"
-msgstr "[NAME:obří kasuár:obří kasuáři:obří kasuár]"
+msgstr "[NAME:obří kasuár:obří kasuáři:obřího kasuára]"
 
 #: creature_birds_new.txt:476
 msgctxt "CREATURE:GIANT_CASSOWARY"
@@ -7260,7 +7267,7 @@ msgstr ""
 #: creature_birds_new.txt:621
 msgctxt "CREATURE:KEA_MAN"
 msgid "[NAME:kea man:kea men:kea man]"
-msgstr "[NAME:kea muž:kea muži:kea muž]"
+msgstr "[NAME:mužský kea:mužští kea:mužského kea]"
 
 #: creature_birds_new.txt:622
 msgctxt "CREATURE:KEA_MAN"
@@ -7270,7 +7277,7 @@ msgstr ""
 #: creature_birds_new.txt:638
 msgctxt "CREATURE:GIANT_KEA"
 msgid "[NAME:giant kea:giant kea:giant kea]"
-msgstr "[NAME:obří kea:obří kea:obří kea]"
+msgstr "[NAME:obří kea:obří kea:obřího kea]"
 
 #: creature_birds_new.txt:639
 msgctxt "CREATURE:GIANT_KEA"
@@ -7307,7 +7314,7 @@ msgstr ""
 #: creature_birds_new.txt:665
 msgctxt "CREATURE:BIRD_OWL_SNOWY"
 msgid "[NAME:snowy owl:snowy owls:snowy owl]"
-msgstr "[NAME:sněžná sova:sněžné sovy:sněžná sova]"
+msgstr "[NAME:sněžná sova:sněžné sovy:sněžné sovy]"
 
 #: creature_birds_new.txt:666
 msgctxt "CREATURE:BIRD_OWL_SNOWY"
@@ -7367,7 +7374,7 @@ msgstr ""
 #: creature_birds_new.txt:788
 msgctxt "CREATURE:SNOWY_OWL_MAN"
 msgid "[NAME:snowy owl man:snowy owl men:snowy owl man]"
-msgstr "[NAME:sněžná sova muž:sněžné sovy muži:sněžná sova muž]"
+msgstr "[NAME:mužská sněžná sova:mužské sněžné sovy:mužské sněžné sovy]"
 
 #: creature_birds_new.txt:789
 msgctxt "CREATURE:SNOWY_OWL_MAN"
@@ -7377,7 +7384,7 @@ msgstr ""
 #: creature_birds_new.txt:805
 msgctxt "CREATURE:GIANT_SNOWY_OWL"
 msgid "[NAME:giant snowy owl:giant snowy owls:giant snowy owl]"
-msgstr "[NAME:obří sněžná sova:obří sněžné sovy:obří sněžná sova]"
+msgstr "[NAME:obří sněžná sova:obří sněžné sovy:obří sněžné sovy]"
 
 #: creature_birds_new.txt:806
 msgctxt "CREATURE:GIANT_SNOWY_OWL"
@@ -7413,7 +7420,7 @@ msgstr ""
 #: creature_birds_new.txt:831
 msgctxt "CREATURE:SPARROW"
 msgid "[NAME:sparrow:sparrows:sparrow]"
-msgstr "[NAME:vrabec:vrabci:vrabec]"
+msgstr "[NAME:vrabec:vrabci:vrabčí]"
 
 #: creature_birds_new.txt:832
 msgctxt "CREATURE:SPARROW"
@@ -7473,7 +7480,7 @@ msgstr ""
 #: creature_birds_new.txt:955
 msgctxt "CREATURE:SPARROW_MAN"
 msgid "[NAME:sparrow man:sparrow men:sparrow man]"
-msgstr "[NAME:vrabčí muž:vrabčí muži:vrabčí muž]"
+msgstr "[NAME:mužský vrabec:mužští vrabci:mužského vrabce]"
 
 #: creature_birds_new.txt:956
 msgctxt "CREATURE:SPARROW_MAN"
@@ -7483,7 +7490,7 @@ msgstr ""
 #: creature_birds_new.txt:972
 msgctxt "CREATURE:GIANT_SPARROW"
 msgid "[NAME:giant sparrow:giant sparrows:giant sparrow]"
-msgstr "[NAME:obří vrabec:obří vrabci:obří vrabec]"
+msgstr "[NAME:obří vrabec:obří vrabci:obřího vrabce]"
 
 #: creature_birds_new.txt:973
 msgctxt "CREATURE:GIANT_SPARROW"
@@ -7520,7 +7527,7 @@ msgstr ""
 #: creature_birds_new.txt:999
 msgctxt "CREATURE:BIRD_STORK_WHITE"
 msgid "[NAME:white stork:white storks:white stork]"
-msgstr "[NAME:čáp bílý:čápi bílý:čáp bílý]"
+msgstr "[NAME:čáp bílý:čápi bílý:čápa bílého]"
 
 #: creature_birds_new.txt:1000
 msgctxt "CREATURE:BIRD_STORK_WHITE"
@@ -7580,7 +7587,7 @@ msgstr ""
 #: creature_birds_new.txt:1104
 msgctxt "CREATURE:WHITE_STORK_MAN"
 msgid "[NAME:white stork man:white stork men:white stork man]"
-msgstr "[NAME:čáp bílý muž:čápi bílý muži:čáp bílý muž]"
+msgstr "[NAME:mužský čáp bílý:mužští čápi bílý:mužského čápa bílého]"
 
 #: creature_birds_new.txt:1105
 msgctxt "CREATURE:WHITE_STORK_MAN"
@@ -7592,7 +7599,7 @@ msgstr ""
 #: creature_birds_new.txt:1121
 msgctxt "CREATURE:GIANT_WHITE_STORK"
 msgid "[NAME:giant white stork:giant white storks:giant white stork]"
-msgstr "[NAME:obří čáp bílý:obří čápi bílý:obří čáp bílý]"
+msgstr "[NAME:obří čáp bílý:obří čápi bílý:obřího čápa bílého]"
 
 #: creature_birds_new.txt:1122
 msgctxt "CREATURE:GIANT_WHITE_STORK"
@@ -7691,7 +7698,7 @@ msgstr ""
 #: creature_birds_new.txt:1254
 msgctxt "CREATURE:LOON_MAN"
 msgid "[NAME:loon man:loon men:loon man]"
-msgstr "[NAME:potáplice muž:potáplice muži:potáplice muž]"
+msgstr "[NAME:mužská potáplice:mužské potáplice:mužské potáplice]"
 
 #: creature_birds_new.txt:1255
 msgctxt "CREATURE:LOON_MAN"
@@ -7738,7 +7745,7 @@ msgstr ""
 #: creature_birds_new.txt:1297
 msgctxt "CREATURE:BIRD_OWL_BARN"
 msgid "[NAME:barn owl:barn owls:barn owl]"
-msgstr "[NAME:sova pálená:sovy pálené:sova pálená]"
+msgstr "[NAME:sova pálená:sovy pálené:sovy pálené]"
 
 #: creature_birds_new.txt:1298
 msgctxt "CREATURE:BIRD_OWL_BARN"
@@ -7793,7 +7800,7 @@ msgstr ""
 #: creature_birds_new.txt:1423
 msgctxt "CREATURE:BARN_OWL_MAN"
 msgid "[NAME:barn owl man:barn owl men:barn owl man]"
-msgstr "[NAME:sova pálená muž:sovy pálené muži:sova pálená muž]"
+msgstr "[NAME:mužská sova pálená:mužské sovy pálené:mužské sovy pálené]"
 
 #: creature_birds_new.txt:1424
 msgctxt "CREATURE:BARN_OWL_MAN"
@@ -7803,7 +7810,7 @@ msgstr ""
 #: creature_birds_new.txt:1440
 msgctxt "CREATURE:GIANT_BARN_OWL"
 msgid "[NAME:giant barn owl:giant barn owls:giant barn owl]"
-msgstr "[NAME:obří sova pálená:obří sovy pálené:obří sova pálená]"
+msgstr "[NAME:obří sova pálená:obří sovy pálené:obří sovy pálené]"
 
 #: creature_birds_new.txt:1441
 msgctxt "CREATURE:GIANT_BARN_OWL"
@@ -7835,7 +7842,7 @@ msgstr ""
 #: creature_birds_new.txt:1465
 msgctxt "CREATURE:BIRD_PARAKEET"
 msgid "[NAME:parakeet:parakeets:parakeet]"
-msgstr "[NAME:andulka:andulky:andulka]"
+msgstr "[NAME:andulka:andulky:andulky]"
 
 #: creature_birds_new.txt:1466
 msgctxt "CREATURE:BIRD_PARAKEET"
@@ -7895,7 +7902,7 @@ msgstr ""
 #: creature_birds_new.txt:1586
 msgctxt "CREATURE:PARAKEET_MAN"
 msgid "[NAME:parakeet man:parakeet men:parakeet man]"
-msgstr "[NAME:andulka muž:andulka muži:andulka muž]"
+msgstr "[NAME:mužská andulka:mužské andulky:mužské andulky]"
 
 #: creature_birds_new.txt:1587
 msgctxt "CREATURE:PARAKEET_MAN"
@@ -7905,7 +7912,7 @@ msgstr ""
 #: creature_birds_new.txt:1603
 msgctxt "CREATURE:GIANT_PARAKEET"
 msgid "[NAME:giant parakeet:giant parakeets:giant parakeet]"
-msgstr "[NAME:obří andulka:obří andulky:obří andulka]"
+msgstr "[NAME:obří andulka:obří andulky:obří andulky]"
 
 #: creature_birds_new.txt:1604
 msgctxt "CREATURE:GIANT_PARAKEET"
@@ -7943,7 +7950,7 @@ msgstr ""
 #: creature_birds_new.txt:1629
 msgctxt "CREATURE:BIRD_KAKAPO"
 msgid "[NAME:kakapo:kakapo:kakapo]"
-msgstr "[NAME:kakapo:kakapo:kakapo]"
+msgstr "[NAME:kakapo:kakapové:kakapoa]"
 
 #: creature_birds_new.txt:1630
 msgctxt "CREATURE:BIRD_KAKAPO"
@@ -8016,7 +8023,7 @@ msgstr ""
 #: creature_birds_new.txt:1735
 msgctxt "CREATURE:KAKAPO_MAN"
 msgid "[NAME:kakapo man:kakapo men:kakapo man]"
-msgstr "[NAME:kakapo muž:kakapo muži:kakapo muž]"
+msgstr "[NAME:mužský kakapo:mužští kakapové:mužského kakapa]"
 
 #: creature_birds_new.txt:1736
 msgctxt "CREATURE:KAKAPO_MAN"
@@ -8026,7 +8033,7 @@ msgstr ""
 #: creature_birds_new.txt:1752
 msgctxt "CREATURE:GIANT_KAKAPO"
 msgid "[NAME:giant kakapo:giant kakapo:giant kakapo]"
-msgstr "[NAME:obří kakapo:obří kakapo:obří kakapo]"
+msgstr "[NAME:obří kakapo:obří kakapové:obřího kakapa]"
 
 #: creature_birds_new.txt:1753
 msgctxt "CREATURE:GIANT_KAKAPO"
@@ -8068,7 +8075,7 @@ msgstr ""
 #: creature_birds_new.txt:1778
 msgctxt "CREATURE:BIRD_PARROT_GREY"
 msgid "[NAME:grey parrot:grey parrots:grey parrot]"
-msgstr "[NAME:žako šedý:žako šedí:žako šedý]"
+msgstr "[NAME:žako šedý:žako šedí:žaka šedého]"
 
 #: creature_birds_new.txt:1779
 msgctxt "CREATURE:BIRD_PARROT_GREY"
@@ -8123,7 +8130,7 @@ msgstr ""
 #: creature_birds_new.txt:1883
 msgctxt "CREATURE:GREY_PARROT_MAN"
 msgid "[NAME:grey parrot man:grey parrot men:grey parrot man]"
-msgstr "[NAME:žako šedý muž:žako šedí muži:žako šedý muž]"
+msgstr "[NAME:mužský žako šedý:myžští žako šedí:mužského žaka šedého]"
 
 #: creature_birds_new.txt:1884
 msgctxt "CREATURE:GREY_PARROT_MAN"
@@ -8133,7 +8140,7 @@ msgstr ""
 #: creature_birds_new.txt:1900
 msgctxt "CREATURE:GIANT_GREY_PARROT"
 msgid "[NAME:giant grey parrot:giant grey parrots:giant grey parrot]"
-msgstr "[NAME:obří žako šedý:obří žako šedí:obří žako šedý]"
+msgstr "[NAME:obří žako šedý:obří žako šedí:obřího žaka šedého]"
 
 #: creature_birds_new.txt:1901
 msgctxt "CREATURE:GIANT_GREY_PARROT"
@@ -8170,7 +8177,7 @@ msgstr ""
 #: creature_birds_new.txt:1926
 msgctxt "CREATURE:BIRD_PUFFIN"
 msgid "[NAME:puffin:puffins:puffin]"
-msgstr "[NAME:papuchalk:papuchalci:papuchalk]"
+msgstr "[NAME:papuchalk:papuchalkové:papuchalka]"
 
 #: creature_birds_new.txt:1927
 msgctxt "CREATURE:BIRD_PUFFIN"
@@ -8220,7 +8227,7 @@ msgstr ""
 #: creature_birds_new.txt:2028
 msgctxt "CREATURE:PUFFIN_MAN"
 msgid "[NAME:puffin man:puffin men:puffin man]"
-msgstr ""
+msgstr "[NAME:mužské papuchalek:mužští papuchalkové:mužského papuchalka]"
 
 #: creature_birds_new.txt:2029
 msgctxt "CREATURE:PUFFIN_MAN"
@@ -8230,7 +8237,7 @@ msgstr ""
 #: creature_birds_new.txt:2045
 msgctxt "CREATURE:GIANT_PUFFIN"
 msgid "[NAME:giant puffin:giant puffins:giant puffin]"
-msgstr "[NAME:obří papuchalk:obří papuchalci:obří papuchalk]"
+msgstr "[NAME:obří papuchalk:obří papuchalkové:obřího papuchalka]"
 
 #: creature_birds_new.txt:2046
 msgctxt "CREATURE:GIANT_PUFFIN"
@@ -8260,7 +8267,7 @@ msgstr ""
 #: creature_birds_new.txt:2069
 msgctxt "CREATURE:BIRD_SWAN"
 msgid "[NAME:swan:swans:swan]"
-msgstr "[NAME:labuť:labutě:labuť]"
+msgstr "[NAME:labuť:labutě:labutí]"
 
 #: creature_birds_new.txt:2070
 msgctxt "CREATURE:BIRD_SWAN"
@@ -8315,7 +8322,7 @@ msgstr ""
 #: creature_birds_new.txt:2173
 msgctxt "CREATURE:SWAN_MAN"
 msgid "[NAME:swan man:swan men:swan man]"
-msgstr ""
+msgstr "[NAME:mužská labuť:mužské labutě:mužské labutě]"
 
 #: creature_birds_new.txt:2174
 msgctxt "CREATURE:SWAN_MAN"
@@ -8325,7 +8332,7 @@ msgstr ""
 #: creature_birds_new.txt:2190
 msgctxt "CREATURE:GIANT_SWAN"
 msgid "[NAME:giant swan:giant swans:giant swan]"
-msgstr "[NAME:obří labuť:obří labutě:obří labuť]"
+msgstr "[NAME:obří labuť:obří labutě:obří labutě]"
 
 #: creature_birds_new.txt:2191
 msgctxt "CREATURE:GIANT_SWAN"
@@ -8357,7 +8364,7 @@ msgstr ""
 #: creature_birds_new.txt:2214
 msgctxt "CREATURE:BIRD_LORIKEET"
 msgid "[NAME:lorikeet:lorikeets:lorikeet]"
-msgstr "[NAME:lori:lori:lori]"
+msgstr "[NAME:loriket:loriketi:loriketa]"
 
 #: creature_birds_new.txt:2215
 msgctxt "CREATURE:BIRD_LORIKEET"
@@ -8417,7 +8424,7 @@ msgstr ""
 #: creature_birds_new.txt:2333
 msgctxt "CREATURE:LORIKEET_MAN"
 msgid "[NAME:lorikeet man:lorikeet men:lorikeet man]"
-msgstr ""
+msgstr "[NAME:mužský loriket:mužští loriketi:mužského loriketa]"
 
 #: creature_birds_new.txt:2334
 msgctxt "CREATURE:LORIKEET_MAN"
@@ -8427,7 +8434,7 @@ msgstr ""
 #: creature_birds_new.txt:2350
 msgctxt "CREATURE:GIANT_LORIKEET"
 msgid "[NAME:giant lorikeet:giant lorikeets:giant lorikeet]"
-msgstr "[NAME:obří lori:obří lori:obří lori]"
+msgstr "[NAME:obří loriket:obří loriketi:obřího loriketa]"
 
 #: creature_birds_new.txt:2351
 msgctxt "CREATURE:GIANT_LORIKEET"
@@ -8463,7 +8470,7 @@ msgstr ""
 #: creature_birds_new.txt:2376
 msgctxt "CREATURE:BIRD_WREN"
 msgid "[NAME:wren:wrens:wren]"
-msgstr "[NAME:střízlík:střízlíci:střízlík]"
+msgstr "[NAME:střízlík:střízlíci:střízlíka]"
 
 #: creature_birds_new.txt:2377
 msgctxt "CREATURE:BIRD_WREN"
@@ -8518,7 +8525,7 @@ msgstr ""
 #: creature_birds_new.txt:2498
 msgctxt "CREATURE:WREN_MAN"
 msgid "[NAME:wren man:wren men:wren man]"
-msgstr ""
+msgstr "[NAME:mužský střízlík:myžští střízlíci:mužského střízlíka]"
 
 #: creature_birds_new.txt:2499
 msgctxt "CREATURE:WREN_MAN"
@@ -8528,7 +8535,7 @@ msgstr ""
 #: creature_birds_new.txt:2515
 msgctxt "CREATURE:GIANT_WREN"
 msgid "[NAME:giant wren:giant wrens:giant wren]"
-msgstr "[NAME:obří střízlík:obří střízlíci:obří střízlík]"
+msgstr "[NAME:obří střízlík:obří střízlíci:obřího střízlíka]"
 
 #: creature_birds_new.txt:2516
 msgctxt "CREATURE:GIANT_WREN"
@@ -8560,7 +8567,7 @@ msgstr ""
 #: creature_birds_new.txt:2540
 msgctxt "CREATURE:BIRD_OSPREY"
 msgid "[NAME:osprey:ospreys:osprey]"
-msgstr "[NAME:orlovec:orlovci:orlovec]"
+msgstr "[NAME:orlovec:orlovci:orlovce]"
 
 #: creature_birds_new.txt:2541
 msgctxt "CREATURE:BIRD_OSPREY"
@@ -8615,7 +8622,7 @@ msgstr ""
 #: creature_birds_new.txt:2665
 msgctxt "CREATURE:OSPREY_MAN"
 msgid "[NAME:osprey man:osprey men:osprey man]"
-msgstr ""
+msgstr "[NAME:mužský orel mořský:mužští orli mořští:mužského orla mořského]"
 
 #: creature_birds_new.txt:2666
 msgctxt "CREATURE:OSPREY_MAN"
@@ -8625,7 +8632,7 @@ msgstr ""
 #: creature_birds_new.txt:2682
 msgctxt "CREATURE:GIANT_OSPREY"
 msgid "[NAME:giant osprey:giant ospreys:giant osprey]"
-msgstr "[NAME:obří orlovec:obří orlovci:obří orlovec]"
+msgstr "[NAME:obří orlovec:obří orlovci:obřího orlovce]"
 
 #: creature_birds_new.txt:2683
 msgctxt "CREATURE:GIANT_OSPREY"
@@ -8717,7 +8724,7 @@ msgstr ""
 #: creature_birds_new.txt:2820
 msgctxt "CREATURE:EMU_MAN"
 msgid "[NAME:emu man:emu men:emu man]"
-msgstr ""
+msgstr "[NAME:mužský emu:mužští emu:mužského emu]"
 
 #: creature_birds_new.txt:2821
 msgctxt "CREATURE:EMU_MAN"
@@ -8764,7 +8771,7 @@ msgstr ""
 #: creature_birds_new.txt:2861
 msgctxt "CREATURE:BIRD_COCKATIEL"
 msgid "[NAME:cockatiel:cockatiels:cockatiel]"
-msgstr "[NAME:korela:korely:korela]"
+msgstr "[NAME:korela:korely:korely]"
 
 #: creature_birds_new.txt:2862
 msgctxt "CREATURE:BIRD_COCKATIEL"
@@ -8819,7 +8826,7 @@ msgstr ""
 #: creature_birds_new.txt:2979
 msgctxt "CREATURE:COCKATIEL_MAN"
 msgid "[NAME:cockatiel man:cockatiel men:cockatiel man]"
-msgstr ""
+msgstr "[NAME:mužská korela:mužské korely:mužské korely]"
 
 #: creature_birds_new.txt:2980
 msgctxt "CREATURE:COCKATIEL_MAN"
@@ -8829,7 +8836,7 @@ msgstr ""
 #: creature_birds_new.txt:2996
 msgctxt "CREATURE:GIANT_COCKATIEL"
 msgid "[NAME:giant cockatiel:giant cockatiels:giant cockatiel]"
-msgstr "[NAME:obří korela:obří korely:obří korela]"
+msgstr "[NAME:obří korela:obří korely:obří korely]"
 
 #: creature_birds_new.txt:2997
 msgctxt "CREATURE:GIANT_COCKATIEL"
@@ -8862,7 +8869,7 @@ msgstr ""
 #: creature_birds_new.txt:3019
 msgctxt "CREATURE:BIRD_LOVEBIRD_PEACH-FACED"
 msgid "[NAME:peach-faced lovebird:peach-faced lovebirds:peach-faced lovebird]"
-msgstr "[NAME:papoušík růžohrdlý:papoušíci růžohrdlý:papoušík růžohrdlý]"
+msgstr "[NAME:papoušek růžohrdlý:papoušci růžohrdlý:papouška růžohrdlého]"
 
 #: creature_birds_new.txt:3020
 msgctxt "CREATURE:BIRD_LOVEBIRD_PEACH-FACED"
@@ -8927,6 +8934,8 @@ msgid ""
 "[NAME:peach-faced lovebird man:peach-faced lovebird men:peach-faced lovebird"
 " man]"
 msgstr ""
+"[NAME:mužský papoušek růžohrdlý:mužští papoušci růžohrdlý:mužského papouška "
+"růžohrdlého]"
 
 #: creature_birds_new.txt:3140
 msgctxt "CREATURE:PEACH-FACED_LOVEBIRD_MAN"
@@ -8941,8 +8950,8 @@ msgid ""
 "[NAME:giant peach-faced lovebird:giant peach-faced lovebirds:giant peach-"
 "faced lovebird]"
 msgstr ""
-"[NAME:obří papoušík růžohrdlý:obří papoušíci růžohrdlý:obří papoušík "
-"růžohrdlý]"
+"[NAME:obří papoušek růžohrdlý:obří papoušci růžohrdlý:obřího papouška "
+"růžohrdlého]"
 
 #: creature_birds_new.txt:3157
 msgctxt "CREATURE:GIANT_PEACH-FACED_LOVEBIRD"
@@ -8979,7 +8988,7 @@ msgstr ""
 #: creature_birds_new.txt:3181
 msgctxt "CREATURE:BIRD_MAGPIE"
 msgid "[NAME:magpie:magpies:magpie]"
-msgstr "[NAME:straka:straky:straka]"
+msgstr "[NAME:straka:straky:straky]"
 
 #: creature_birds_new.txt:3182
 msgctxt "CREATURE:BIRD_MAGPIE"
@@ -9039,7 +9048,7 @@ msgstr ""
 #: creature_birds_new.txt:3301
 msgctxt "CREATURE:MAGPIE_MAN"
 msgid "[NAME:magpie man:magpie men:magpie man]"
-msgstr ""
+msgstr "[NAME:mužská straka:mužské straky:mužské straky]"
 
 #: creature_birds_new.txt:3302
 msgctxt "CREATURE:MAGPIE_MAN"
@@ -9049,7 +9058,7 @@ msgstr ""
 #: creature_birds_new.txt:3318
 msgctxt "CREATURE:GIANT_MAGPIE"
 msgid "[NAME:giant magpie:giant magpies:giant magpie]"
-msgstr "[NAME:obří straka:obří straky:obří straka]"
+msgstr "[NAME:obří straka:obří straky:obří straky]"
 
 #: creature_birds_new.txt:3319
 msgctxt "CREATURE:GIANT_MAGPIE"
@@ -9086,7 +9095,7 @@ msgstr ""
 #: creature_birds_new.txt:3342
 msgctxt "CREATURE:BIRD_KESTREL"
 msgid "[NAME:kestrel:kestrels:kestrel]"
-msgstr ""
+msgstr "[NAME:poštolka:poštolky:poštolky]"
 
 #: creature_birds_new.txt:3343
 msgctxt "CREATURE:BIRD_KESTREL"
@@ -9146,7 +9155,7 @@ msgstr ""
 #: creature_birds_new.txt:3468
 msgctxt "CREATURE:KESTREL_MAN"
 msgid "[NAME:kestrel man:kestrel men:kestrel man]"
-msgstr ""
+msgstr "[NAME:mužská poštolka:mužské poštolky:mužské poštolky]"
 
 #: creature_birds_new.txt:3469
 msgctxt "CREATURE:KESTREL_MAN"
@@ -9156,7 +9165,7 @@ msgstr ""
 #: creature_birds_new.txt:3485
 msgctxt "CREATURE:GIANT_KESTREL"
 msgid "[NAME:giant kestrel:giant kestrels:giant kestrel]"
-msgstr ""
+msgstr "[NAME:obří poštolka:obří poštolky:obří poštolky]"
 
 #: creature_birds_new.txt:3486
 msgctxt "CREATURE:GIANT_KESTREL"
@@ -9193,7 +9202,7 @@ msgstr ""
 #: creature_birds_new.txt:3508
 msgctxt "CREATURE:BIRD_ALBATROSS"
 msgid "[NAME:albatross:albatrosses:albatross]"
-msgstr ""
+msgstr "[NAME:albatros:albatrosi:albatrosí]"
 
 #: creature_birds_new.txt:3509
 msgctxt "CREATURE:BIRD_ALBATROSS"
@@ -9243,7 +9252,7 @@ msgstr ""
 #: creature_birds_new.txt:3612
 msgctxt "CREATURE:ALBATROSS_MAN"
 msgid "[NAME:albatross man:albatross men:albatross man]"
-msgstr ""
+msgstr "[NAME:mužský albatros:mužští albatrosi:mužského albatrosa]"
 
 #: creature_birds_new.txt:3613
 msgctxt "CREATURE:ALBATROSS_MAN"
@@ -9253,7 +9262,7 @@ msgstr ""
 #: creature_birds_new.txt:3629
 msgctxt "CREATURE:GIANT_ALBATROSS"
 msgid "[NAME:giant albatross:giant albatrosses:giant albatross]"
-msgstr ""
+msgstr "[NAME:obří albatros:obří albatrosi:obřího albatrosa]"
 
 #: creature_birds_new.txt:3630
 msgctxt "CREATURE:GIANT_ALBATROSS"
@@ -9286,7 +9295,7 @@ msgstr ""
 #: creature_birds_new.txt:3654
 msgctxt "CREATURE:BIRD_OWL_GREAT_HORNED"
 msgid "[NAME:great horned owl:great horned owls:great horned owl]"
-msgstr ""
+msgstr "[NAME:výr virginský:výři virginští:výra virginského]"
 
 #: creature_birds_new.txt:3655
 msgctxt "CREATURE:BIRD_OWL_GREAT_HORNED"
@@ -9350,6 +9359,7 @@ msgstr ""
 msgctxt "CREATURE:GREAT_HORNED_OWL_MAN"
 msgid "[NAME:great horned owl man:great horned owl men:great horned owl man]"
 msgstr ""
+"[NAME:mužský výr virginský:mužští výři virginští:mužského výra virginského]"
 
 #: creature_birds_new.txt:3783
 msgctxt "CREATURE:GREAT_HORNED_OWL_MAN"
@@ -9362,7 +9372,7 @@ msgstr ""
 msgctxt "CREATURE:GIANT_GREAT_HORNED_OWL"
 msgid ""
 "[NAME:giant great horned owl:giant great horned owls:giant great horned owl]"
-msgstr ""
+msgstr "[NAME:obří výr virginský:obří vyři virginští:obřího výra virginského]"
 
 #: creature_birds_new.txt:3800
 msgctxt "CREATURE:GIANT_GREAT_HORNED_OWL"
@@ -9401,7 +9411,7 @@ msgstr ""
 #: creature_birds_new.txt:3824
 msgctxt "CREATURE:BIRD_EAGLE"
 msgid "[NAME:eagle:eagles:eagle]"
-msgstr ""
+msgstr "[NAME:orel:orlové:orla]"
 
 #: creature_birds_new.txt:3825
 msgctxt "CREATURE:BIRD_EAGLE"
@@ -9456,7 +9466,7 @@ msgstr ""
 #: creature_birds_new.txt:3950
 msgctxt "CREATURE:EAGLE_MAN"
 msgid "[NAME:eagle man:eagle men:eagle man]"
-msgstr ""
+msgstr "[NAME:mužský orel:mužští orlové:mužského orla]"
 
 #: creature_birds_new.txt:3951
 msgctxt "CREATURE:EAGLE_MAN"
@@ -9466,7 +9476,7 @@ msgstr ""
 #: creature_birds_new.txt:3967
 msgctxt "CREATURE:GIANT_EAGLE"
 msgid "[NAME:giant eagle:giant eagles:giant eagle]"
-msgstr ""
+msgstr "[NAME:obří orel:obří orlové:obřího orla]"
 
 #: creature_birds_new.txt:3968
 msgctxt "CREATURE:GIANT_EAGLE"
@@ -11374,12 +11384,12 @@ msgstr ""
 #: creature_domestic.txt:7
 msgctxt "CREATURE:DOG"
 msgid "[NAME:dog:dogs:canine]"
-msgstr ""
+msgstr "[NAME:pes:psi:psí]"
 
 #: creature_domestic.txt:8
 msgctxt "CREATURE:DOG"
 msgid "[CASTE_NAME:dog:dogs:canine]"
-msgstr ""
+msgstr "[CASTE_NAME:pes:psi:psí]"
 
 #: creature_domestic.txt:15
 msgctxt "CREATURE:DOG"
@@ -11451,12 +11461,12 @@ msgstr ""
 #: creature_domestic.txt:127
 msgctxt "CREATURE:CAT"
 msgid "[NAME:cat:cats:feline]"
-msgstr ""
+msgstr "[NAME:kočka:kočky:kočičí]"
 
 #: creature_domestic.txt:128
 msgctxt "CREATURE:CAT"
 msgid "[CASTE_NAME:cat:cats:feline]"
-msgstr ""
+msgstr "[CASTE_NAME:kočka:kočky:kočičí]"
 
 #: creature_domestic.txt:139
 msgctxt "CREATURE:CAT"
@@ -11630,72 +11640,72 @@ msgstr "[ATTACK_VERB:kousnutí:kousnutí]"
 #: creature_domestic.txt:447
 msgctxt "CREATURE:DONKEY"
 msgid "[STATE_NAME:ALL_SOLID:frozen donkey's milk]"
-msgstr ""
+msgstr "[STATE_NAME:ALL_SOLID:mražené oslí mléko]"
 
 #: creature_domestic.txt:448
 msgctxt "CREATURE:DONKEY"
 msgid "[STATE_ADJ:ALL_SOLID:frozen donkey's milk]"
-msgstr ""
+msgstr "[STATE_ADJ:ALL_SOLID:mražené oslí mléko]"
 
 #: creature_domestic.txt:449
 msgctxt "CREATURE:DONKEY"
 msgid "[STATE_NAME:LIQUID:donkey's milk]"
-msgstr ""
+msgstr "[STATE_NAME:LIQUID:oslí mléko]"
 
 #: creature_domestic.txt:450
 msgctxt "CREATURE:DONKEY"
 msgid "[STATE_ADJ:LIQUID:donkey's milk]"
-msgstr ""
+msgstr "[STATE_ADJ:LIQUID:oslí mléko]"
 
 #: creature_domestic.txt:451
 msgctxt "CREATURE:DONKEY"
 msgid "[STATE_NAME:GAS:boiling donkey's milk]"
-msgstr ""
+msgstr "[STATE_NAME:GAS:vařící oslí mléko]"
 
 #: creature_domestic.txt:452
 msgctxt "CREATURE:DONKEY"
 msgid "[STATE_ADJ:GAS:boiling donkey's milk]"
-msgstr ""
+msgstr "[STATE_ADJ:GAS:vařící oslí mléko]"
 
 #: creature_domestic.txt:456
 msgctxt "CREATURE:DONKEY"
 msgid "[STATE_NAME:SOLID:donkey cheese]"
-msgstr ""
+msgstr "[STATE_NAME:SOLID:oslí sýr]"
 
 #: creature_domestic.txt:457
 msgctxt "CREATURE:DONKEY"
 msgid "[STATE_ADJ:SOLID:donkey cheese]"
-msgstr ""
+msgstr "[STATE_ADJ:SOLID:oslí sýr]"
 
 #: creature_domestic.txt:458
 msgctxt "CREATURE:DONKEY"
 msgid "[STATE_NAME:SOLID_POWDER:donkey cheese powder]"
-msgstr ""
+msgstr "[STATE_NAME:SOLID_POWDER:sušený oslí sýr]"
 
 #: creature_domestic.txt:459
 msgctxt "CREATURE:DONKEY"
 msgid "[STATE_ADJ:SOLID_POWDER:donkey cheese powder]"
-msgstr ""
+msgstr "[STATE_ADJ:SOLID_POWDER:sušený oslí sýr]"
 
 #: creature_domestic.txt:460
 msgctxt "CREATURE:DONKEY"
 msgid "[STATE_NAME:LIQUID:melted donkey cheese]"
-msgstr ""
+msgstr "[STATE_NAME:LIQUID:tavený oslí sýr]"
 
 #: creature_domestic.txt:461
 msgctxt "CREATURE:DONKEY"
 msgid "[STATE_ADJ:LIQUID:melted donkey cheese]"
-msgstr ""
+msgstr "[STATE_ADJ:LIQUID:tavený oslí sýr]"
 
 #: creature_domestic.txt:462
 msgctxt "CREATURE:DONKEY"
 msgid "[STATE_NAME:GAS:boiling donkey cheese]"
-msgstr ""
+msgstr "[STATE_NAME:GAS:vařící oslí sýr]"
 
 #: creature_domestic.txt:463
 msgctxt "CREATURE:DONKEY"
 msgid "[STATE_ADJ:GAS:boiling donkey cheese]"
-msgstr ""
+msgstr "[STATE_ADJ:GAS:vařící oslí sýr]"
 
 #: creature_domestic.txt:471
 msgctxt "CREATURE:DONKEY"
@@ -11722,12 +11732,12 @@ msgstr ""
 #: creature_domestic.txt:481
 msgctxt "CREATURE:HORSE"
 msgid "[NAME:horse:horses:equine]"
-msgstr ""
+msgstr "[NAME:kůň:koně:koňské]"
 
 #: creature_domestic.txt:482
 msgctxt "CREATURE:HORSE"
 msgid "[CASTE_NAME:horse:horses:equine]"
-msgstr ""
+msgstr "[CASTE_NAME:kůň:koně:koňské]"
 
 #: creature_domestic.txt:486
 msgctxt "CREATURE:HORSE"
@@ -11752,72 +11762,72 @@ msgstr ""
 #: creature_domestic.txt:565
 msgctxt "CREATURE:HORSE"
 msgid "[STATE_NAME:ALL_SOLID:frozen horse's milk]"
-msgstr ""
+msgstr "[STATE_NAME:ALL_SOLID:mražené koňské mléko]"
 
 #: creature_domestic.txt:566
 msgctxt "CREATURE:HORSE"
 msgid "[STATE_ADJ:ALL_SOLID:frozen horse's milk]"
-msgstr ""
+msgstr "[STATE_ADJ:ALL_SOLID:mražené koňské mléko]"
 
 #: creature_domestic.txt:567
 msgctxt "CREATURE:HORSE"
 msgid "[STATE_NAME:LIQUID:horse's milk]"
-msgstr ""
+msgstr "[STATE_NAME:LIQUID:koňské mléko]"
 
 #: creature_domestic.txt:568
 msgctxt "CREATURE:HORSE"
 msgid "[STATE_ADJ:LIQUID:horse's milk]"
-msgstr ""
+msgstr "[STATE_ADJ:LIQUID:koňské mléko]"
 
 #: creature_domestic.txt:569
 msgctxt "CREATURE:HORSE"
 msgid "[STATE_NAME:GAS:boiling horse's milk]"
-msgstr ""
+msgstr "[STATE_NAME:GAS:vařící koňské mléko]"
 
 #: creature_domestic.txt:570
 msgctxt "CREATURE:HORSE"
 msgid "[STATE_ADJ:GAS:boiling horse's milk]"
-msgstr ""
+msgstr "[STATE_ADJ:GAS:vařící koňské mléko]"
 
 #: creature_domestic.txt:574
 msgctxt "CREATURE:HORSE"
 msgid "[STATE_NAME:SOLID:horse cheese]"
-msgstr ""
+msgstr "[STATE_NAME:SOLID:koňský sýr]"
 
 #: creature_domestic.txt:575
 msgctxt "CREATURE:HORSE"
 msgid "[STATE_ADJ:SOLID:horse cheese]"
-msgstr ""
+msgstr "[STATE_ADJ:SOLID:koňský sýr]"
 
 #: creature_domestic.txt:576
 msgctxt "CREATURE:HORSE"
 msgid "[STATE_NAME:SOLID_POWDER:horse cheese powder]"
-msgstr ""
+msgstr "[STATE_NAME:SOLID_POWDER:sušený koňský sýr]"
 
 #: creature_domestic.txt:577
 msgctxt "CREATURE:HORSE"
 msgid "[STATE_ADJ:SOLID_POWDER:horse cheese powder]"
-msgstr ""
+msgstr "[STATE_ADJ:SOLID_POWDER:sušený koňský sýr]"
 
 #: creature_domestic.txt:578
 msgctxt "CREATURE:HORSE"
 msgid "[STATE_NAME:LIQUID:melted horse cheese]"
-msgstr ""
+msgstr "[STATE_NAME:LIQUID:tavený koňský sýr]"
 
 #: creature_domestic.txt:579
 msgctxt "CREATURE:HORSE"
 msgid "[STATE_ADJ:LIQUID:melted horse cheese]"
-msgstr ""
+msgstr "[STATE_ADJ:LIQUID:tavený koňský sýr]"
 
 #: creature_domestic.txt:580
 msgctxt "CREATURE:HORSE"
 msgid "[STATE_NAME:GAS:boiling horse cheese]"
-msgstr ""
+msgstr "[STATE_NAME:GAS:vařící koňský sýr]"
 
 #: creature_domestic.txt:581
 msgctxt "CREATURE:HORSE"
 msgid "[STATE_ADJ:GAS:boiling horse cheese]"
-msgstr ""
+msgstr "[STATE_ADJ:GAS:vařící koňský sýr]"
 
 #: creature_domestic.txt:589
 msgctxt "CREATURE:HORSE"
@@ -11840,6 +11850,8 @@ msgid ""
 "[DESCRIPTION:A large mammalian herbivore.  They often bear large horns and "
 "the males are ill-tempered.  They are domesticated for milk and meat.]"
 msgstr ""
+"[DESCRIPTION:Velký býložravý savec. Často mají velké rohy a samci jsou "
+"vznětliví. Jsou domestikováni pro mléko a maso.]"
 
 #: creature_domestic.txt:599
 msgctxt "CREATURE:COW"
@@ -11889,72 +11901,72 @@ msgstr ""
 #: creature_domestic.txt:692
 msgctxt "CREATURE:COW"
 msgid "[STATE_NAME:ALL_SOLID:frozen cow's milk]"
-msgstr ""
+msgstr "[STATE_NAME:ALL_SOLID:mražené kravské mléko]"
 
 #: creature_domestic.txt:693
 msgctxt "CREATURE:COW"
 msgid "[STATE_ADJ:ALL_SOLID:frozen cow's milk]"
-msgstr ""
+msgstr "[STATE_ADJ:ALL_SOLID:mražené kravské mléko]"
 
 #: creature_domestic.txt:694
 msgctxt "CREATURE:COW"
 msgid "[STATE_NAME:LIQUID:cow's milk]"
-msgstr ""
+msgstr "[STATE_NAME:LIQUID:kravské mléko]"
 
 #: creature_domestic.txt:695
 msgctxt "CREATURE:COW"
 msgid "[STATE_ADJ:LIQUID:cow's milk]"
-msgstr ""
+msgstr "[STATE_ADJ:LIQUID:kravské mléko]"
 
 #: creature_domestic.txt:696
 msgctxt "CREATURE:COW"
 msgid "[STATE_NAME:GAS:boiling cow's milk]"
-msgstr ""
+msgstr "[STATE_NAME:GAS:vařící kravské mléko]"
 
 #: creature_domestic.txt:697
 msgctxt "CREATURE:COW"
 msgid "[STATE_ADJ:GAS:boiling cow's milk]"
-msgstr ""
+msgstr "[STATE_ADJ:GAS:vařící kravské mléko]"
 
 #: creature_domestic.txt:701
 msgctxt "CREATURE:COW"
 msgid "[STATE_NAME:SOLID:cow cheese]"
-msgstr ""
+msgstr "[STATE_NAME:SOLID:kravský sýr]"
 
 #: creature_domestic.txt:702
 msgctxt "CREATURE:COW"
 msgid "[STATE_ADJ:SOLID:cow cheese]"
-msgstr ""
+msgstr "[STATE_ADJ:SOLID:kravský sýr]"
 
 #: creature_domestic.txt:703
 msgctxt "CREATURE:COW"
 msgid "[STATE_NAME:SOLID_POWDER:cow cheese powder]"
-msgstr ""
+msgstr "[STATE_NAME:SOLID_POWDER:sušený kravský sýr]"
 
 #: creature_domestic.txt:704
 msgctxt "CREATURE:COW"
 msgid "[STATE_ADJ:SOLID_POWDER:cow cheese powder]"
-msgstr ""
+msgstr "[STATE_ADJ:SOLID_POWDER:sušený kravský sýr]"
 
 #: creature_domestic.txt:705
 msgctxt "CREATURE:COW"
 msgid "[STATE_NAME:LIQUID:melted cow cheese]"
-msgstr ""
+msgstr "[STATE_NAME:LIQUID:tavený kravský sýr]"
 
 #: creature_domestic.txt:706
 msgctxt "CREATURE:COW"
 msgid "[STATE_ADJ:LIQUID:melted cow cheese]"
-msgstr ""
+msgstr "[STATE_ADJ:LIQUID:tavený kravský sýr]"
 
 #: creature_domestic.txt:707
 msgctxt "CREATURE:COW"
 msgid "[STATE_NAME:GAS:boiling cow cheese]"
-msgstr ""
+msgstr "[STATE_NAME:GAS:vařící kravský sýr]"
 
 #: creature_domestic.txt:708
 msgctxt "CREATURE:COW"
 msgid "[STATE_ADJ:GAS:boiling cow cheese]"
-msgstr ""
+msgstr "[STATE_ADJ:GAS:vařící kravský sýr]"
 
 #: creature_domestic.txt:712
 msgctxt "CREATURE:COW"
@@ -11991,7 +12003,7 @@ msgstr ""
 #: creature_domestic.txt:728
 msgctxt "CREATURE:SHEEP"
 msgid "[NAME:sheep:sheep:ovine]"
-msgstr ""
+msgstr "[NAME:ovce:ovce:ovčí]"
 
 #: creature_domestic.txt:729
 msgctxt "CREATURE:SHEEP"
@@ -12046,72 +12058,72 @@ msgstr ""
 #: creature_domestic.txt:831
 msgctxt "CREATURE:SHEEP"
 msgid "[STATE_NAME:ALL_SOLID:frozen sheep's milk]"
-msgstr ""
+msgstr "[STATE_NAME:ALL_SOLID:mražené ovčí mléko]"
 
 #: creature_domestic.txt:832
 msgctxt "CREATURE:SHEEP"
 msgid "[STATE_ADJ:ALL_SOLID:frozen sheep's milk]"
-msgstr ""
+msgstr "[STATE_ADJ:ALL_SOLID:mražené ovčí mléko]"
 
 #: creature_domestic.txt:833
 msgctxt "CREATURE:SHEEP"
 msgid "[STATE_NAME:LIQUID:sheep's milk]"
-msgstr ""
+msgstr "[STATE_NAME:LIQUID:ovčí mléko]"
 
 #: creature_domestic.txt:834
 msgctxt "CREATURE:SHEEP"
 msgid "[STATE_ADJ:LIQUID:sheep's milk]"
-msgstr ""
+msgstr "[STATE_ADJ:LIQUID:ovčí mléko]"
 
 #: creature_domestic.txt:835
 msgctxt "CREATURE:SHEEP"
 msgid "[STATE_NAME:GAS:boiling sheep's milk]"
-msgstr ""
+msgstr "[STATE_NAME:GAS:vařící ovčí mléko]"
 
 #: creature_domestic.txt:836
 msgctxt "CREATURE:SHEEP"
 msgid "[STATE_ADJ:GAS:boiling sheep's milk]"
-msgstr ""
+msgstr "[STATE_ADJ:GAS:vařící ovčí mléko]"
 
 #: creature_domestic.txt:840
 msgctxt "CREATURE:SHEEP"
 msgid "[STATE_NAME:SOLID:sheep cheese]"
-msgstr ""
+msgstr "[STATE_NAME:SOLID:ovčí sýr]"
 
 #: creature_domestic.txt:841
 msgctxt "CREATURE:SHEEP"
 msgid "[STATE_ADJ:SOLID:sheep cheese]"
-msgstr ""
+msgstr "[STATE_ADJ:SOLID:ovčí sýr]"
 
 #: creature_domestic.txt:842
 msgctxt "CREATURE:SHEEP"
 msgid "[STATE_NAME:SOLID_POWDER:sheep cheese powder]"
-msgstr ""
+msgstr "[STATE_NAME:SOLID_POWDER:sušený ovčí sýr]"
 
 #: creature_domestic.txt:843
 msgctxt "CREATURE:SHEEP"
 msgid "[STATE_ADJ:SOLID_POWDER:sheep cheese powder]"
-msgstr ""
+msgstr "[STATE_ADJ:SOLID_POWDER:sušený ovčí sýr]"
 
 #: creature_domestic.txt:844
 msgctxt "CREATURE:SHEEP"
 msgid "[STATE_NAME:LIQUID:melted sheep cheese]"
-msgstr ""
+msgstr "[STATE_NAME:LIQUID:tavený ovčí sýr]"
 
 #: creature_domestic.txt:845
 msgctxt "CREATURE:SHEEP"
 msgid "[STATE_ADJ:LIQUID:melted sheep cheese]"
-msgstr ""
+msgstr "[STATE_ADJ:LIQUID:tavený ovčí sýr]"
 
 #: creature_domestic.txt:846
 msgctxt "CREATURE:SHEEP"
 msgid "[STATE_NAME:GAS:boiling sheep cheese]"
-msgstr ""
+msgstr "[STATE_NAME:GAS:vařící ovčí sýr]"
 
 #: creature_domestic.txt:847
 msgctxt "CREATURE:SHEEP"
 msgid "[STATE_ADJ:GAS:boiling sheep cheese]"
-msgstr ""
+msgstr "[STATE_ADJ:GAS:vařící ovčí sýr]"
 
 #: creature_domestic.txt:850
 msgctxt "CREATURE:SHEEP"
@@ -12188,72 +12200,72 @@ msgstr ""
 #: creature_domestic.txt:951
 msgctxt "CREATURE:PIG"
 msgid "[STATE_NAME:ALL_SOLID:frozen pig's milk]"
-msgstr ""
+msgstr "[STATE_NAME:ALL_SOLID:mražené vepřové mléko]"
 
 #: creature_domestic.txt:952
 msgctxt "CREATURE:PIG"
 msgid "[STATE_ADJ:ALL_SOLID:frozen pig's milk]"
-msgstr ""
+msgstr "[STATE_ADJ:ALL_SOLID:mražené vepřové mléko]"
 
 #: creature_domestic.txt:953
 msgctxt "CREATURE:PIG"
 msgid "[STATE_NAME:LIQUID:pig's milk]"
-msgstr ""
+msgstr "[STATE_NAME:LIQUID:vepřové mléko]"
 
 #: creature_domestic.txt:954
 msgctxt "CREATURE:PIG"
 msgid "[STATE_ADJ:LIQUID:pig's milk]"
-msgstr ""
+msgstr "[STATE_ADJ:LIQUID:vepřové mléko]"
 
 #: creature_domestic.txt:955
 msgctxt "CREATURE:PIG"
 msgid "[STATE_NAME:GAS:boiling pig's milk]"
-msgstr ""
+msgstr "[STATE_NAME:GAS:vařící vepřové mléko]"
 
 #: creature_domestic.txt:956
 msgctxt "CREATURE:PIG"
 msgid "[STATE_ADJ:GAS:boiling pig's milk]"
-msgstr ""
+msgstr "[STATE_ADJ:GAS:vařící vepřové mléko]"
 
 #: creature_domestic.txt:960
 msgctxt "CREATURE:PIG"
 msgid "[STATE_NAME:SOLID:pig cheese]"
-msgstr ""
+msgstr "[STATE_NAME:SOLID:vepřový sýr]"
 
 #: creature_domestic.txt:961
 msgctxt "CREATURE:PIG"
 msgid "[STATE_ADJ:SOLID:pig cheese]"
-msgstr ""
+msgstr "[STATE_ADJ:SOLID:vepřový sýr]"
 
 #: creature_domestic.txt:962
 msgctxt "CREATURE:PIG"
 msgid "[STATE_NAME:SOLID_POWDER:pig cheese powder]"
-msgstr ""
+msgstr "[STATE_NAME:SOLID_POWDER:sušený vepřový sýr]"
 
 #: creature_domestic.txt:963
 msgctxt "CREATURE:PIG"
 msgid "[STATE_ADJ:SOLID_POWDER:pig cheese powder]"
-msgstr ""
+msgstr "[STATE_ADJ:SOLID_POWDER:sušený vepřový sýr]"
 
 #: creature_domestic.txt:964
 msgctxt "CREATURE:PIG"
 msgid "[STATE_NAME:LIQUID:melted pig cheese]"
-msgstr ""
+msgstr "[STATE_NAME:LIQUID:tavený vepřový sýr]"
 
 #: creature_domestic.txt:965
 msgctxt "CREATURE:PIG"
 msgid "[STATE_ADJ:LIQUID:melted pig cheese]"
-msgstr ""
+msgstr "[STATE_ADJ:LIQUID:tavený vepřový sýr]"
 
 #: creature_domestic.txt:966
 msgctxt "CREATURE:PIG"
 msgid "[STATE_NAME:GAS:boiling pig cheese]"
-msgstr ""
+msgstr "[STATE_NAME:GAS:vařící vepřový sýr]"
 
 #: creature_domestic.txt:967
 msgctxt "CREATURE:PIG"
 msgid "[STATE_ADJ:GAS:boiling pig cheese]"
-msgstr ""
+msgstr "[STATE_ADJ:GAS:vařící vepřový sýr]"
 
 #: creature_domestic.txt:970
 msgctxt "CREATURE:PIG"
@@ -12285,7 +12297,7 @@ msgstr ""
 #: creature_domestic.txt:986
 msgctxt "CREATURE:GOAT"
 msgid "[NAME:goat:goats:hircine]"
-msgstr ""
+msgstr "[NAME:koza:kozy:kozí]"
 
 #: creature_domestic.txt:987
 msgctxt "CREATURE:GOAT"
@@ -12320,72 +12332,72 @@ msgstr ""
 #: creature_domestic.txt:1078
 msgctxt "CREATURE:GOAT"
 msgid "[STATE_NAME:ALL_SOLID:frozen goat's milk]"
-msgstr ""
+msgstr "[STATE_NAME:ALL_SOLID:mražené kozí mléko]"
 
 #: creature_domestic.txt:1079
 msgctxt "CREATURE:GOAT"
 msgid "[STATE_ADJ:ALL_SOLID:frozen goat's milk]"
-msgstr ""
+msgstr "[STATE_ADJ:ALL_SOLID:mražené kozí mléko]"
 
 #: creature_domestic.txt:1080
 msgctxt "CREATURE:GOAT"
 msgid "[STATE_NAME:LIQUID:goat's milk]"
-msgstr ""
+msgstr "[STATE_NAME:LIQUID:kozí mléko]"
 
 #: creature_domestic.txt:1081
 msgctxt "CREATURE:GOAT"
 msgid "[STATE_ADJ:LIQUID:goat's milk]"
-msgstr ""
+msgstr "[STATE_ADJ:LIQUID:kozí mléko]"
 
 #: creature_domestic.txt:1082
 msgctxt "CREATURE:GOAT"
 msgid "[STATE_NAME:GAS:boiling goat's milk]"
-msgstr ""
+msgstr "[STATE_NAME:GAS:vařící kozí mléko]"
 
 #: creature_domestic.txt:1083
 msgctxt "CREATURE:GOAT"
 msgid "[STATE_ADJ:GAS:boiling goat's milk]"
-msgstr ""
+msgstr "[STATE_ADJ:GAS:vařící kozí mléko]"
 
 #: creature_domestic.txt:1087
 msgctxt "CREATURE:GOAT"
 msgid "[STATE_NAME:SOLID:goat cheese]"
-msgstr ""
+msgstr "[STATE_NAME:SOLID:kozí sýr]"
 
 #: creature_domestic.txt:1088
 msgctxt "CREATURE:GOAT"
 msgid "[STATE_ADJ:SOLID:goat cheese]"
-msgstr ""
+msgstr "[STATE_ADJ:SOLID:kozí sýr]"
 
 #: creature_domestic.txt:1089
 msgctxt "CREATURE:GOAT"
 msgid "[STATE_NAME:SOLID_POWDER:goat cheese powder]"
-msgstr ""
+msgstr "[STATE_NAME:SOLID_POWDER:sušený kozí sýr]"
 
 #: creature_domestic.txt:1090
 msgctxt "CREATURE:GOAT"
 msgid "[STATE_ADJ:SOLID_POWDER:goat cheese powder]"
-msgstr ""
+msgstr "[STATE_ADJ:SOLID_POWDER:sušený kozí sýr]"
 
 #: creature_domestic.txt:1091
 msgctxt "CREATURE:GOAT"
 msgid "[STATE_NAME:LIQUID:melted goat cheese]"
-msgstr ""
+msgstr "[STATE_NAME:LIQUID:tavený kozí sýr]"
 
 #: creature_domestic.txt:1092
 msgctxt "CREATURE:GOAT"
 msgid "[STATE_ADJ:LIQUID:melted goat cheese]"
-msgstr ""
+msgstr "[STATE_ADJ:LIQUID:tavený kozí sýr]"
 
 #: creature_domestic.txt:1093
 msgctxt "CREATURE:GOAT"
 msgid "[STATE_NAME:GAS:boiling goat cheese]"
-msgstr ""
+msgstr "[STATE_NAME:GAS:vařící kozí sýr]"
 
 #: creature_domestic.txt:1094
 msgctxt "CREATURE:GOAT"
 msgid "[STATE_ADJ:GAS:boiling goat cheese]"
-msgstr ""
+msgstr "[STATE_ADJ:GAS:vařící kozí sýr]"
 
 #: creature_domestic.txt:1097
 msgctxt "CREATURE:GOAT"
@@ -12643,72 +12655,72 @@ msgstr ""
 #: creature_domestic.txt:1496
 msgctxt "CREATURE:WATER_BUFFALO"
 msgid "[STATE_NAME:ALL_SOLID:frozen water buffalo's milk]"
-msgstr ""
+msgstr "[STATE_NAME:ALL_SOLID:mražené mléko vodního buvola]"
 
 #: creature_domestic.txt:1497
 msgctxt "CREATURE:WATER_BUFFALO"
 msgid "[STATE_ADJ:ALL_SOLID:frozen water buffalo's milk]"
-msgstr ""
+msgstr "[STATE_ADJ:ALL_SOLID:mražené mléko vodního buvola]"
 
 #: creature_domestic.txt:1498
 msgctxt "CREATURE:WATER_BUFFALO"
 msgid "[STATE_NAME:LIQUID:water buffalo's milk]"
-msgstr ""
+msgstr "[STATE_NAME:LIQUID:mléko vodního buvola]"
 
 #: creature_domestic.txt:1499
 msgctxt "CREATURE:WATER_BUFFALO"
 msgid "[STATE_ADJ:LIQUID:water buffalo's milk]"
-msgstr ""
+msgstr "[STATE_ADJ:LIQUID:mléko vodního buvola]"
 
 #: creature_domestic.txt:1500
 msgctxt "CREATURE:WATER_BUFFALO"
 msgid "[STATE_NAME:GAS:boiling water buffalo's milk]"
-msgstr ""
+msgstr "[STATE_NAME:GAS:vařící mléko vodního buvola]"
 
 #: creature_domestic.txt:1501
 msgctxt "CREATURE:WATER_BUFFALO"
 msgid "[STATE_ADJ:GAS:boiling water buffalo's milk]"
-msgstr ""
+msgstr "[STATE_ADJ:GAS:vařící mléko vodního buvola]"
 
 #: creature_domestic.txt:1505
 msgctxt "CREATURE:WATER_BUFFALO"
 msgid "[STATE_NAME:SOLID:water buffalo cheese]"
-msgstr ""
+msgstr "[STATE_NAME:SOLID:sýr vodního buvola]"
 
 #: creature_domestic.txt:1506
 msgctxt "CREATURE:WATER_BUFFALO"
 msgid "[STATE_ADJ:SOLID:water buffalo cheese]"
-msgstr ""
+msgstr "[STATE_ADJ:SOLID:sýr vodního buvola]"
 
 #: creature_domestic.txt:1507
 msgctxt "CREATURE:WATER_BUFFALO"
 msgid "[STATE_NAME:SOLID_POWDER:water buffalo cheese powder]"
-msgstr ""
+msgstr "[STATE_NAME:SOLID_POWDER:sušený sýr vodního buvola]"
 
 #: creature_domestic.txt:1508
 msgctxt "CREATURE:WATER_BUFFALO"
 msgid "[STATE_ADJ:SOLID_POWDER:water buffalo cheese powder]"
-msgstr ""
+msgstr "[STATE_ADJ:SOLID_POWDER:sušený sýr vodního buvola]"
 
 #: creature_domestic.txt:1509
 msgctxt "CREATURE:WATER_BUFFALO"
 msgid "[STATE_NAME:LIQUID:melted water buffalo cheese]"
-msgstr ""
+msgstr "[STATE_NAME:LIQUID:tavený sýr vodního buvola]"
 
 #: creature_domestic.txt:1510
 msgctxt "CREATURE:WATER_BUFFALO"
 msgid "[STATE_ADJ:LIQUID:melted water buffalo cheese]"
-msgstr ""
+msgstr "[STATE_ADJ:LIQUID:tavený sýr vodního buvola]"
 
 #: creature_domestic.txt:1511
 msgctxt "CREATURE:WATER_BUFFALO"
 msgid "[STATE_NAME:GAS:boiling water buffalo cheese]"
-msgstr ""
+msgstr "[STATE_NAME:GAS:vařící sýr vodního buvola]"
 
 #: creature_domestic.txt:1512
 msgctxt "CREATURE:WATER_BUFFALO"
 msgid "[STATE_ADJ:GAS:boiling water buffalo cheese]"
-msgstr ""
+msgstr "[STATE_ADJ:GAS:vařící sýr vodního buvola]"
 
 #: creature_domestic.txt:1515
 msgctxt "CREATURE:WATER_BUFFALO"
@@ -12790,72 +12802,72 @@ msgstr ""
 #: creature_domestic.txt:1627
 msgctxt "CREATURE:REINDEER"
 msgid "[STATE_NAME:ALL_SOLID:frozen reindeer's milk]"
-msgstr ""
+msgstr "[STATE_NAME:ALL_SOLID:mražené sobí mléko]"
 
 #: creature_domestic.txt:1628
 msgctxt "CREATURE:REINDEER"
 msgid "[STATE_ADJ:ALL_SOLID:frozen reindeer's milk]"
-msgstr ""
+msgstr "[STATE_ADJ:ALL_SOLID:mražené sobí mléko]"
 
 #: creature_domestic.txt:1629
 msgctxt "CREATURE:REINDEER"
 msgid "[STATE_NAME:LIQUID:reindeer's milk]"
-msgstr ""
+msgstr "[STATE_NAME:LIQUID:sobí mléko]"
 
 #: creature_domestic.txt:1630
 msgctxt "CREATURE:REINDEER"
 msgid "[STATE_ADJ:LIQUID:reindeer's milk]"
-msgstr ""
+msgstr "[STATE_ADJ:LIQUID:sobí mléko]"
 
 #: creature_domestic.txt:1631
 msgctxt "CREATURE:REINDEER"
 msgid "[STATE_NAME:GAS:boiling reindeer's milk]"
-msgstr ""
+msgstr "[STATE_NAME:GAS:vařící sobí mléko]"
 
 #: creature_domestic.txt:1632
 msgctxt "CREATURE:REINDEER"
 msgid "[STATE_ADJ:GAS:boiling reindeer's milk]"
-msgstr ""
+msgstr "[STATE_ADJ:GAS:vařící sobí mléko]"
 
 #: creature_domestic.txt:1636
 msgctxt "CREATURE:REINDEER"
 msgid "[STATE_NAME:SOLID:reindeer cheese]"
-msgstr ""
+msgstr "[STATE_NAME:SOLID:sobí sýr]"
 
 #: creature_domestic.txt:1637
 msgctxt "CREATURE:REINDEER"
 msgid "[STATE_ADJ:SOLID:reindeer cheese]"
-msgstr ""
+msgstr "[STATE_ADJ:SOLID:sobí sýr]"
 
 #: creature_domestic.txt:1638
 msgctxt "CREATURE:REINDEER"
 msgid "[STATE_NAME:SOLID_POWDER:reindeer cheese powder]"
-msgstr ""
+msgstr "[STATE_NAME:SOLID_POWDER:sušený sobí sýr]"
 
 #: creature_domestic.txt:1639
 msgctxt "CREATURE:REINDEER"
 msgid "[STATE_ADJ:SOLID_POWDER:reindeer cheese powder]"
-msgstr ""
+msgstr "[STATE_ADJ:SOLID_POWDER:sušený sobí sýr]"
 
 #: creature_domestic.txt:1640
 msgctxt "CREATURE:REINDEER"
 msgid "[STATE_NAME:LIQUID:melted reindeer cheese]"
-msgstr ""
+msgstr "[STATE_NAME:LIQUID:tavený sobí sýr]"
 
 #: creature_domestic.txt:1641
 msgctxt "CREATURE:REINDEER"
 msgid "[STATE_ADJ:LIQUID:melted reindeer cheese]"
-msgstr ""
+msgstr "[STATE_ADJ:LIQUID:tavený sobí sýr]"
 
 #: creature_domestic.txt:1642
 msgctxt "CREATURE:REINDEER"
 msgid "[STATE_NAME:GAS:boiling reindeer cheese]"
-msgstr ""
+msgstr "[STATE_NAME:GAS:vařící sobí sýr]"
 
 #: creature_domestic.txt:1643
 msgctxt "CREATURE:REINDEER"
 msgid "[STATE_ADJ:GAS:boiling reindeer cheese]"
-msgstr ""
+msgstr "[STATE_ADJ:GAS:vařící sobí sýr]"
 
 #: creature_domestic.txt:1646
 msgctxt "CREATURE:REINDEER"
@@ -12979,72 +12991,72 @@ msgstr ""
 #: creature_domestic.txt:1846
 msgctxt "CREATURE:YAK"
 msgid "[STATE_NAME:ALL_SOLID:frozen yak's milk]"
-msgstr ""
+msgstr "[STATE_NAME:ALL_SOLID:mražené mléko jaka]"
 
 #: creature_domestic.txt:1847
 msgctxt "CREATURE:YAK"
 msgid "[STATE_ADJ:ALL_SOLID:frozen yak's milk]"
-msgstr ""
+msgstr "[STATE_ADJ:ALL_SOLID:mražené mléko jaka]"
 
 #: creature_domestic.txt:1848
 msgctxt "CREATURE:YAK"
 msgid "[STATE_NAME:LIQUID:yak's milk]"
-msgstr ""
+msgstr "[STATE_NAME:LIQUID:mléko jaka]"
 
 #: creature_domestic.txt:1849
 msgctxt "CREATURE:YAK"
 msgid "[STATE_ADJ:LIQUID:yak's milk]"
-msgstr ""
+msgstr "[STATE_ADJ:LIQUID:mléko jaka]"
 
 #: creature_domestic.txt:1850
 msgctxt "CREATURE:YAK"
 msgid "[STATE_NAME:GAS:boiling yak's milk]"
-msgstr ""
+msgstr "[STATE_NAME:GAS:vařící mléko jaka]"
 
 #: creature_domestic.txt:1851
 msgctxt "CREATURE:YAK"
 msgid "[STATE_ADJ:GAS:boiling yak's milk]"
-msgstr ""
+msgstr "[STATE_ADJ:GAS:vařící mléko jaka]"
 
 #: creature_domestic.txt:1855
 msgctxt "CREATURE:YAK"
 msgid "[STATE_NAME:SOLID:yak cheese]"
-msgstr ""
+msgstr "[STATE_NAME:SOLID:sýr jaka]"
 
 #: creature_domestic.txt:1856
 msgctxt "CREATURE:YAK"
 msgid "[STATE_ADJ:SOLID:yak cheese]"
-msgstr ""
+msgstr "[STATE_ADJ:SOLID:sýr jaka]"
 
 #: creature_domestic.txt:1857
 msgctxt "CREATURE:YAK"
 msgid "[STATE_NAME:SOLID_POWDER:yak cheese powder]"
-msgstr ""
+msgstr "[STATE_NAME:SOLID_POWDER:sušený sýr jaka]"
 
 #: creature_domestic.txt:1858
 msgctxt "CREATURE:YAK"
 msgid "[STATE_ADJ:SOLID_POWDER:yak cheese powder]"
-msgstr ""
+msgstr "[STATE_ADJ:SOLID_POWDER:sušený sýr jaka]"
 
 #: creature_domestic.txt:1859
 msgctxt "CREATURE:YAK"
 msgid "[STATE_NAME:LIQUID:melted yak cheese]"
-msgstr ""
+msgstr "[STATE_NAME:LIQUID:tavený sýr jaka]"
 
 #: creature_domestic.txt:1860
 msgctxt "CREATURE:YAK"
 msgid "[STATE_ADJ:LIQUID:melted yak cheese]"
-msgstr ""
+msgstr "[STATE_ADJ:LIQUID:tavený sýr jaka]"
 
 #: creature_domestic.txt:1861
 msgctxt "CREATURE:YAK"
 msgid "[STATE_NAME:GAS:boiling yak cheese]"
-msgstr ""
+msgstr "[STATE_NAME:GAS:vařící sýr jaka]"
 
 #: creature_domestic.txt:1862
 msgctxt "CREATURE:YAK"
 msgid "[STATE_ADJ:GAS:boiling yak cheese]"
-msgstr ""
+msgstr "[STATE_ADJ:GAS:vařící sýr jaka]"
 
 #: creature_domestic.txt:1865
 msgctxt "CREATURE:YAK"
@@ -13131,72 +13143,72 @@ msgstr "[ATTACK_VERB:kousnutí:kousnutí]"
 #: creature_domestic.txt:1970
 msgctxt "CREATURE:LLAMA"
 msgid "[STATE_NAME:ALL_SOLID:frozen llama's milk]"
-msgstr ""
+msgstr "[STATE_NAME:ALL_SOLID:mražené lamí mléko]"
 
 #: creature_domestic.txt:1971
 msgctxt "CREATURE:LLAMA"
 msgid "[STATE_ADJ:ALL_SOLID:frozen llama's milk]"
-msgstr ""
+msgstr "[STATE_ADJ:ALL_SOLID:mražené lamí mléko]"
 
 #: creature_domestic.txt:1972
 msgctxt "CREATURE:LLAMA"
 msgid "[STATE_NAME:LIQUID:llama's milk]"
-msgstr ""
+msgstr "[STATE_NAME:LIQUID:lamí mléko]"
 
 #: creature_domestic.txt:1973
 msgctxt "CREATURE:LLAMA"
 msgid "[STATE_ADJ:LIQUID:llama's milk]"
-msgstr ""
+msgstr "[STATE_ADJ:LIQUID:lamí mléko]"
 
 #: creature_domestic.txt:1974
 msgctxt "CREATURE:LLAMA"
 msgid "[STATE_NAME:GAS:boiling llama's milk]"
-msgstr ""
+msgstr "[STATE_NAME:GAS:vařící lamí mléko]"
 
 #: creature_domestic.txt:1975
 msgctxt "CREATURE:LLAMA"
 msgid "[STATE_ADJ:GAS:boiling llama's milk]"
-msgstr ""
+msgstr "[STATE_ADJ:GAS:vařící lamí mléko]"
 
 #: creature_domestic.txt:1979
 msgctxt "CREATURE:LLAMA"
 msgid "[STATE_NAME:SOLID:llama cheese]"
-msgstr ""
+msgstr "[STATE_NAME:SOLID:lamí sýr]"
 
 #: creature_domestic.txt:1980
 msgctxt "CREATURE:LLAMA"
 msgid "[STATE_ADJ:SOLID:llama cheese]"
-msgstr ""
+msgstr "[STATE_ADJ:SOLID:lamí sýr]"
 
 #: creature_domestic.txt:1981
 msgctxt "CREATURE:LLAMA"
 msgid "[STATE_NAME:SOLID_POWDER:llama cheese powder]"
-msgstr ""
+msgstr "[STATE_NAME:SOLID_POWDER:sušený lamí sýr]"
 
 #: creature_domestic.txt:1982
 msgctxt "CREATURE:LLAMA"
 msgid "[STATE_ADJ:SOLID_POWDER:llama cheese powder]"
-msgstr ""
+msgstr "[STATE_ADJ:SOLID_POWDER:sušený lamí sýr]"
 
 #: creature_domestic.txt:1983
 msgctxt "CREATURE:LLAMA"
 msgid "[STATE_NAME:LIQUID:melted llama cheese]"
-msgstr ""
+msgstr "[STATE_NAME:LIQUID:tavený lamí sýr]"
 
 #: creature_domestic.txt:1984
 msgctxt "CREATURE:LLAMA"
 msgid "[STATE_ADJ:LIQUID:melted llama cheese]"
-msgstr ""
+msgstr "[STATE_ADJ:LIQUID:tavený lamí sýr]"
 
 #: creature_domestic.txt:1985
 msgctxt "CREATURE:LLAMA"
 msgid "[STATE_NAME:GAS:boiling llama cheese]"
-msgstr ""
+msgstr "[STATE_NAME:GAS:vařící lamí sýr]"
 
 #: creature_domestic.txt:1986
 msgctxt "CREATURE:LLAMA"
 msgid "[STATE_ADJ:GAS:boiling llama cheese]"
-msgstr ""
+msgstr "[STATE_ADJ:GAS:vařící lamí sýr]"
 
 #: creature_domestic.txt:1995
 msgctxt "CREATURE:LLAMA"
@@ -13290,72 +13302,72 @@ msgstr "[ATTACK_VERB:kousnutí:kousnutí]"
 #: creature_domestic.txt:2098
 msgctxt "CREATURE:ALPACA"
 msgid "[STATE_NAME:ALL_SOLID:frozen alpaca's milk]"
-msgstr ""
+msgstr "[STATE_NAME:ALL_SOLID:mražené mléko alpaky]"
 
 #: creature_domestic.txt:2099
 msgctxt "CREATURE:ALPACA"
 msgid "[STATE_ADJ:ALL_SOLID:frozen alpaca's milk]"
-msgstr ""
+msgstr "[STATE_ADJ:ALL_SOLID:mražené mléko alpaky]"
 
 #: creature_domestic.txt:2100
 msgctxt "CREATURE:ALPACA"
 msgid "[STATE_NAME:LIQUID:alpaca's milk]"
-msgstr ""
+msgstr "[STATE_NAME:LIQUID:mléko alpaky]"
 
 #: creature_domestic.txt:2101
 msgctxt "CREATURE:ALPACA"
 msgid "[STATE_ADJ:LIQUID:alpaca's milk]"
-msgstr ""
+msgstr "[STATE_ADJ:LIQUID:mléko alpaky]"
 
 #: creature_domestic.txt:2102
 msgctxt "CREATURE:ALPACA"
 msgid "[STATE_NAME:GAS:boiling alpaca's milk]"
-msgstr ""
+msgstr "[STATE_NAME:GAS:vařící mléko alpaky]"
 
 #: creature_domestic.txt:2103
 msgctxt "CREATURE:ALPACA"
 msgid "[STATE_ADJ:GAS:boiling alpaca's milk]"
-msgstr ""
+msgstr "[STATE_ADJ:GAS:vařící mléko alpaky]"
 
 #: creature_domestic.txt:2107
 msgctxt "CREATURE:ALPACA"
 msgid "[STATE_NAME:SOLID:alpaca cheese]"
-msgstr ""
+msgstr "[STATE_NAME:SOLID:sýr alpaky]"
 
 #: creature_domestic.txt:2108
 msgctxt "CREATURE:ALPACA"
 msgid "[STATE_ADJ:SOLID:alpaca cheese]"
-msgstr ""
+msgstr "[STATE_ADJ:SOLID:sýr alpaky]"
 
 #: creature_domestic.txt:2109
 msgctxt "CREATURE:ALPACA"
 msgid "[STATE_NAME:SOLID_POWDER:alpaca cheese powder]"
-msgstr ""
+msgstr "[STATE_NAME:SOLID_POWDER:sušený sýr alpaky]"
 
 #: creature_domestic.txt:2110
 msgctxt "CREATURE:ALPACA"
 msgid "[STATE_ADJ:SOLID_POWDER:alpaca cheese powder]"
-msgstr ""
+msgstr "[STATE_ADJ:SOLID_POWDER:sušený sýr alpaky]"
 
 #: creature_domestic.txt:2111
 msgctxt "CREATURE:ALPACA"
 msgid "[STATE_NAME:LIQUID:melted alpaca cheese]"
-msgstr ""
+msgstr "[STATE_NAME:LIQUID:tavený sýr alpaky]"
 
 #: creature_domestic.txt:2112
 msgctxt "CREATURE:ALPACA"
 msgid "[STATE_ADJ:LIQUID:melted alpaca cheese]"
-msgstr ""
+msgstr "[STATE_ADJ:LIQUID:tavený sýr alpaky]"
 
 #: creature_domestic.txt:2113
 msgctxt "CREATURE:ALPACA"
 msgid "[STATE_NAME:GAS:boiling alpaca cheese]"
-msgstr ""
+msgstr "[STATE_NAME:GAS:vařící sýr alpaky]"
 
 #: creature_domestic.txt:2114
 msgctxt "CREATURE:ALPACA"
 msgid "[STATE_ADJ:GAS:boiling alpaca cheese]"
-msgstr ""
+msgstr "[STATE_ADJ:GAS:vařící sýr alpaky]"
 
 #: creature_domestic.txt:2122
 msgctxt "CREATURE:ALPACA"
@@ -16098,17 +16110,17 @@ msgstr ""
 #: creature_large_ocean.txt:1924
 msgctxt "CREATURE:FISH_MILKFISH"
 msgid "[NAME:milkfish:milkfish:milkfish]"
-msgstr ""
+msgstr "[NAME:mléčná ryba:mléčné ryby:mléčné ryby]"
 
 #: creature_large_ocean.txt:1925
 msgctxt "CREATURE:FISH_MILKFISH"
 msgid "[CASTE_NAME:milkfish:milkfish:milkfish]"
-msgstr ""
+msgstr "[CASTE_NAME:mléčná ryba:mléčné ryby:mléčné ryby]"
 
 #: creature_large_ocean.txt:1926
 msgctxt "CREATURE:FISH_MILKFISH"
 msgid "[GENERAL_CHILD_NAME:milkfish fry:milkfish fry]"
-msgstr ""
+msgstr "[GENERAL_CHILD_NAME:smažená mléčná ryba:smažené mléčné ryby]"
 
 #: creature_large_ocean.txt:1941
 msgctxt "CREATURE:FISH_MILKFISH"
@@ -20734,72 +20746,72 @@ msgstr "[ATTACK_VERB:kousnutí:kousnutí]"
 #: creature_large_tropical.txt:2653
 msgctxt "CREATURE:CAMEL_1_HUMP"
 msgid "[STATE_NAME:ALL_SOLID:frozen one-humped camel's milk]"
-msgstr ""
+msgstr "[STATE_NAME:ALL_SOLID:mražené mléko jednohrbého velblouda]"
 
 #: creature_large_tropical.txt:2654
 msgctxt "CREATURE:CAMEL_1_HUMP"
 msgid "[STATE_ADJ:ALL_SOLID:frozen one-humped camel's milk]"
-msgstr ""
+msgstr "[STATE_ADJ:ALL_SOLID:mražené mléko jednohrbého velblouda]"
 
 #: creature_large_tropical.txt:2655
 msgctxt "CREATURE:CAMEL_1_HUMP"
 msgid "[STATE_NAME:LIQUID:one-humped camel's milk]"
-msgstr ""
+msgstr "[STATE_NAME:LIQUID:mléko jednohrbého velblouda]"
 
 #: creature_large_tropical.txt:2656
 msgctxt "CREATURE:CAMEL_1_HUMP"
 msgid "[STATE_ADJ:LIQUID:one-humped camel's milk]"
-msgstr ""
+msgstr "[STATE_ADJ:LIQUID:mléko jednohrbého velblouda]"
 
 #: creature_large_tropical.txt:2657
 msgctxt "CREATURE:CAMEL_1_HUMP"
 msgid "[STATE_NAME:GAS:boiling one-humped camel's milk]"
-msgstr ""
+msgstr "[STATE_NAME:GAS:vařící mléko jednohrbého velblouda]"
 
 #: creature_large_tropical.txt:2658
 msgctxt "CREATURE:CAMEL_1_HUMP"
 msgid "[STATE_ADJ:GAS:boiling one-humped camel's milk]"
-msgstr ""
+msgstr "[STATE_ADJ:GAS:vařící mléko jednohrbého velblouda]"
 
 #: creature_large_tropical.txt:2662
 msgctxt "CREATURE:CAMEL_1_HUMP"
 msgid "[STATE_NAME:SOLID:one-humped camel cheese]"
-msgstr ""
+msgstr "[STATE_NAME:SOLID:sýr jednohrbého velblouda]"
 
 #: creature_large_tropical.txt:2663
 msgctxt "CREATURE:CAMEL_1_HUMP"
 msgid "[STATE_ADJ:SOLID:one-humped camel cheese]"
-msgstr ""
+msgstr "[STATE_ADJ:SOLID:sýr jednohrbého velblouda]"
 
 #: creature_large_tropical.txt:2664
 msgctxt "CREATURE:CAMEL_1_HUMP"
 msgid "[STATE_NAME:SOLID_POWDER:one-humped camel cheese powder]"
-msgstr ""
+msgstr "[STATE_NAME:SOLID_POWDER:sušený sýr jednohrbého velblouda]"
 
 #: creature_large_tropical.txt:2665
 msgctxt "CREATURE:CAMEL_1_HUMP"
 msgid "[STATE_ADJ:SOLID_POWDER:one-humped camel cheese powder]"
-msgstr ""
+msgstr "[STATE_ADJ:SOLID_POWDER:sušený sýr jednohrbého velblouda]"
 
 #: creature_large_tropical.txt:2666
 msgctxt "CREATURE:CAMEL_1_HUMP"
 msgid "[STATE_NAME:LIQUID:melted one-humped camel cheese]"
-msgstr ""
+msgstr "[STATE_NAME:LIQUID:tavený sýr jednohrbého velblouda]"
 
 #: creature_large_tropical.txt:2667
 msgctxt "CREATURE:CAMEL_1_HUMP"
 msgid "[STATE_ADJ:LIQUID:melted one-humped camel cheese]"
-msgstr ""
+msgstr "[STATE_ADJ:LIQUID:tavený sýr jednohrbého velblouda]"
 
 #: creature_large_tropical.txt:2668
 msgctxt "CREATURE:CAMEL_1_HUMP"
 msgid "[STATE_NAME:GAS:boiling one-humped camel cheese]"
-msgstr ""
+msgstr "[STATE_NAME:GAS:vařící sýr jednohrbého velblouda]"
 
 #: creature_large_tropical.txt:2669
 msgctxt "CREATURE:CAMEL_1_HUMP"
 msgid "[STATE_ADJ:GAS:boiling one-humped camel cheese]"
-msgstr ""
+msgstr "[STATE_ADJ:GAS:vařící sýr jednohrbého velblouda]"
 
 #: creature_large_tropical.txt:2677
 msgctxt "CREATURE:CAMEL_1_HUMP"
@@ -20929,72 +20941,72 @@ msgstr "[ATTACK_VERB:kousnutí:kousnutí]"
 #: creature_large_tropical.txt:2844
 msgctxt "CREATURE:CAMEL_2_HUMP"
 msgid "[STATE_NAME:ALL_SOLID:frozen two-humped camel's milk]"
-msgstr ""
+msgstr "[STATE_NAME:ALL_SOLID:mražené mléko dvouhrbého velblouda]"
 
 #: creature_large_tropical.txt:2845
 msgctxt "CREATURE:CAMEL_2_HUMP"
 msgid "[STATE_ADJ:ALL_SOLID:frozen two-humped camel's milk]"
-msgstr ""
+msgstr "[STATE_ADJ:ALL_SOLID:mražené mléko dvouhrbého velblouda]"
 
 #: creature_large_tropical.txt:2846
 msgctxt "CREATURE:CAMEL_2_HUMP"
 msgid "[STATE_NAME:LIQUID:two-humped camel's milk]"
-msgstr ""
+msgstr "[STATE_NAME:LIQUID:mléko dvouhrbého velblouda]"
 
 #: creature_large_tropical.txt:2847
 msgctxt "CREATURE:CAMEL_2_HUMP"
 msgid "[STATE_ADJ:LIQUID:two-humped camel's milk]"
-msgstr ""
+msgstr "[STATE_ADJ:LIQUID:mléko dvouhrbého velblouda]"
 
 #: creature_large_tropical.txt:2848
 msgctxt "CREATURE:CAMEL_2_HUMP"
 msgid "[STATE_NAME:GAS:boiling two-humped camel's milk]"
-msgstr ""
+msgstr "[STATE_NAME:GAS:vařící mléko dvouhrbého velblouda]"
 
 #: creature_large_tropical.txt:2849
 msgctxt "CREATURE:CAMEL_2_HUMP"
 msgid "[STATE_ADJ:GAS:boiling two-humped camel's milk]"
-msgstr ""
+msgstr "[STATE_ADJ:GAS:vařící mléko dvouhrbého velblouda]"
 
 #: creature_large_tropical.txt:2853
 msgctxt "CREATURE:CAMEL_2_HUMP"
 msgid "[STATE_NAME:SOLID:two-humped camel cheese]"
-msgstr ""
+msgstr "[STATE_NAME:SOLID:sýr dvouhrbého velblouda]"
 
 #: creature_large_tropical.txt:2854
 msgctxt "CREATURE:CAMEL_2_HUMP"
 msgid "[STATE_ADJ:SOLID:two-humped camel cheese]"
-msgstr ""
+msgstr "[STATE_ADJ:SOLID:sýr dvouhrbého velblouda]"
 
 #: creature_large_tropical.txt:2855
 msgctxt "CREATURE:CAMEL_2_HUMP"
 msgid "[STATE_NAME:SOLID_POWDER:two-humped camel cheese powder]"
-msgstr ""
+msgstr "[STATE_NAME:SOLID_POWDER:sušený sýr dvouhrbého velblouda]"
 
 #: creature_large_tropical.txt:2856
 msgctxt "CREATURE:CAMEL_2_HUMP"
 msgid "[STATE_ADJ:SOLID_POWDER:two-humped camel cheese powder]"
-msgstr ""
+msgstr "[STATE_ADJ:SOLID_POWDER:sušený sýr dvouhrbého velblouda]"
 
 #: creature_large_tropical.txt:2857
 msgctxt "CREATURE:CAMEL_2_HUMP"
 msgid "[STATE_NAME:LIQUID:melted two-humped camel cheese]"
-msgstr ""
+msgstr "[STATE_NAME:LIQUID:tavený sýr dvouhrbého velblouda]"
 
 #: creature_large_tropical.txt:2858
 msgctxt "CREATURE:CAMEL_2_HUMP"
 msgid "[STATE_ADJ:LIQUID:melted two-humped camel cheese]"
-msgstr ""
+msgstr "[STATE_ADJ:LIQUID:tavený sýr dvouhrbého velblouda]"
 
 #: creature_large_tropical.txt:2859
 msgctxt "CREATURE:CAMEL_2_HUMP"
 msgid "[STATE_NAME:GAS:boiling two-humped camel cheese]"
-msgstr ""
+msgstr "[STATE_NAME:GAS:vařící sýr dvouhrbého velblouda]"
 
 #: creature_large_tropical.txt:2860
 msgctxt "CREATURE:CAMEL_2_HUMP"
 msgid "[STATE_ADJ:GAS:boiling two-humped camel cheese]"
-msgstr ""
+msgstr "[STATE_ADJ:GAS:vařící sýr dvouhrbého velblouda]"
 
 #: creature_large_tropical.txt:2868
 msgctxt "CREATURE:CAMEL_2_HUMP"
@@ -32839,7 +32851,7 @@ msgstr ""
 #: creature_subterranean.txt:1600
 msgctxt "CREATURE:MAGGOT_PURRING"
 msgid "[DESCRIPTION:A tiny larva which is prized for its milk.]"
-msgstr ""
+msgstr "[DESCRIPTION:Drobná larva, která je ceněna pro své mléko.]"
 
 #: creature_subterranean.txt:1601
 msgctxt "CREATURE:MAGGOT_PURRING"
@@ -32864,72 +32876,72 @@ msgstr "[TLCM_NOUN:kůže:SINGULAR]"
 #: creature_subterranean.txt:1637
 msgctxt "CREATURE:MAGGOT_PURRING"
 msgid "[STATE_NAME:ALL_SOLID:frozen dwarven milk]"
-msgstr ""
+msgstr "[STATE_NAME:ALL_SOLID:mražené trpasličí mléko]"
 
 #: creature_subterranean.txt:1638
 msgctxt "CREATURE:MAGGOT_PURRING"
 msgid "[STATE_ADJ:ALL_SOLID:frozen dwarven milk]"
-msgstr ""
+msgstr "[STATE_ADJ:ALL_SOLID:mražené trpasličí mléko]"
 
 #: creature_subterranean.txt:1639
 msgctxt "CREATURE:MAGGOT_PURRING"
 msgid "[STATE_NAME:LIQUID:dwarven milk]"
-msgstr ""
+msgstr "[STATE_NAME:LIQUID:trpasličí mléko]"
 
 #: creature_subterranean.txt:1640
 msgctxt "CREATURE:MAGGOT_PURRING"
 msgid "[STATE_ADJ:LIQUID:dwarven milk]"
-msgstr ""
+msgstr "[STATE_ADJ:LIQUID:trpasličí mléko]"
 
 #: creature_subterranean.txt:1641
 msgctxt "CREATURE:MAGGOT_PURRING"
 msgid "[STATE_NAME:GAS:boiling dwarven milk]"
-msgstr ""
+msgstr "[STATE_NAME:GAS:vařící trpasličí mléko]"
 
 #: creature_subterranean.txt:1642
 msgctxt "CREATURE:MAGGOT_PURRING"
 msgid "[STATE_ADJ:GAS:boiling dwarven milk]"
-msgstr ""
+msgstr "[STATE_ADJ:GAS:vařící trpasličí mléko]"
 
 #: creature_subterranean.txt:1647
 msgctxt "CREATURE:MAGGOT_PURRING"
 msgid "[STATE_NAME:SOLID:dwarven cheese]"
-msgstr ""
+msgstr "[STATE_NAME:SOLID:trpasličí sýr]"
 
 #: creature_subterranean.txt:1648
 msgctxt "CREATURE:MAGGOT_PURRING"
 msgid "[STATE_ADJ:SOLID:dwarven cheese]"
-msgstr ""
+msgstr "[STATE_ADJ:SOLID:trpasličí sýr]"
 
 #: creature_subterranean.txt:1649
 msgctxt "CREATURE:MAGGOT_PURRING"
 msgid "[STATE_NAME:SOLID_POWDER:dwarven cheese powder]"
-msgstr ""
+msgstr "[STATE_NAME:SOLID_POWDER:sušený trpasličí sýr]"
 
 #: creature_subterranean.txt:1650
 msgctxt "CREATURE:MAGGOT_PURRING"
 msgid "[STATE_ADJ:SOLID_POWDER:dwarven cheese powder]"
-msgstr ""
+msgstr "[STATE_ADJ:SOLID_POWDER:sušený trpasličí sýr]"
 
 #: creature_subterranean.txt:1651
 msgctxt "CREATURE:MAGGOT_PURRING"
 msgid "[STATE_NAME:LIQUID:melted dwarven cheese]"
-msgstr ""
+msgstr "[STATE_NAME:LIQUID:tavený trpasličí sýr]"
 
 #: creature_subterranean.txt:1652
 msgctxt "CREATURE:MAGGOT_PURRING"
 msgid "[STATE_ADJ:LIQUID:melted dwarven cheese]"
-msgstr ""
+msgstr "[STATE_ADJ:LIQUID:tavený trpasličí sýr]"
 
 #: creature_subterranean.txt:1653
 msgctxt "CREATURE:MAGGOT_PURRING"
 msgid "[STATE_NAME:GAS:boiling dwarven cheese]"
-msgstr ""
+msgstr "[STATE_NAME:GAS:vařící trpasličí sýr]"
 
 #: creature_subterranean.txt:1654
 msgctxt "CREATURE:MAGGOT_PURRING"
 msgid "[STATE_ADJ:GAS:boiling dwarven cheese]"
-msgstr ""
+msgstr "[STATE_ADJ:GAS:vařící trpasličí sýr]"
 
 #: creature_subterranean.txt:1659
 msgctxt "CREATURE:ELEMENTMAN_FIRE"
@@ -33855,72 +33867,72 @@ msgstr ""
 #: creature_temperate_new.txt:429
 msgctxt "CREATURE:KANGAROO"
 msgid "[STATE_NAME:ALL_SOLID:frozen kangaroo's milk]"
-msgstr ""
+msgstr "[STATE_NAME:ALL_SOLID:mražené klokaní mléko]"
 
 #: creature_temperate_new.txt:430
 msgctxt "CREATURE:KANGAROO"
 msgid "[STATE_ADJ:ALL_SOLID:frozen kangaroo's milk]"
-msgstr ""
+msgstr "[STATE_ADJ:ALL_SOLID:mražené klokaní mléko]"
 
 #: creature_temperate_new.txt:431
 msgctxt "CREATURE:KANGAROO"
 msgid "[STATE_NAME:LIQUID:kangaroo's milk]"
-msgstr ""
+msgstr "[STATE_NAME:LIQUID:klokaní mléko]"
 
 #: creature_temperate_new.txt:432
 msgctxt "CREATURE:KANGAROO"
 msgid "[STATE_ADJ:LIQUID:kangaroo's milk]"
-msgstr ""
+msgstr "[STATE_ADJ:LIQUID:klokaní mléko]"
 
 #: creature_temperate_new.txt:433
 msgctxt "CREATURE:KANGAROO"
 msgid "[STATE_NAME:GAS:boiling kangaroo's milk]"
-msgstr ""
+msgstr "[STATE_NAME:GAS:vařící klokaní mléko]"
 
 #: creature_temperate_new.txt:434
 msgctxt "CREATURE:KANGAROO"
 msgid "[STATE_ADJ:GAS:boiling kangaroo's milk]"
-msgstr ""
+msgstr "[STATE_ADJ:GAS:vařící klokaní mléko]"
 
 #: creature_temperate_new.txt:438
 msgctxt "CREATURE:KANGAROO"
 msgid "[STATE_NAME:SOLID:kangaroo cheese]"
-msgstr ""
+msgstr "[STATE_NAME:SOLID:klokaní sýr]"
 
 #: creature_temperate_new.txt:439
 msgctxt "CREATURE:KANGAROO"
 msgid "[STATE_ADJ:SOLID:kangaroo cheese]"
-msgstr ""
+msgstr "[STATE_ADJ:SOLID:klokaní sýr]"
 
 #: creature_temperate_new.txt:440
 msgctxt "CREATURE:KANGAROO"
 msgid "[STATE_NAME:SOLID_POWDER:kangaroo cheese powder]"
-msgstr ""
+msgstr "[STATE_NAME:SOLID_POWDER:sušený klokaní sýr]"
 
 #: creature_temperate_new.txt:441
 msgctxt "CREATURE:KANGAROO"
 msgid "[STATE_ADJ:SOLID_POWDER:kangaroo cheese powder]"
-msgstr ""
+msgstr "[STATE_ADJ:SOLID_POWDER:sušený klokaní sýr]"
 
 #: creature_temperate_new.txt:442
 msgctxt "CREATURE:KANGAROO"
 msgid "[STATE_NAME:LIQUID:melted kangaroo cheese]"
-msgstr ""
+msgstr "[STATE_NAME:LIQUID:tavený klokaní sýr]"
 
 #: creature_temperate_new.txt:443
 msgctxt "CREATURE:KANGAROO"
 msgid "[STATE_ADJ:LIQUID:melted kangaroo cheese]"
-msgstr ""
+msgstr "[STATE_ADJ:LIQUID:tavený klokaní sýr]"
 
 #: creature_temperate_new.txt:444
 msgctxt "CREATURE:KANGAROO"
 msgid "[STATE_NAME:GAS:boiling kangaroo cheese]"
-msgstr ""
+msgstr "[STATE_NAME:GAS:vařící klokaní sýr]"
 
 #: creature_temperate_new.txt:445
 msgctxt "CREATURE:KANGAROO"
 msgid "[STATE_ADJ:GAS:boiling kangaroo cheese]"
-msgstr ""
+msgstr "[STATE_ADJ:GAS:vařící klokaní sýr]"
 
 #: creature_temperate_new.txt:448
 msgctxt "CREATURE:KANGAROO"
@@ -37542,17 +37554,17 @@ msgstr ""
 #: creature_tropical_new.txt:2550
 msgctxt "CREATURE:TAPIR"
 msgid "[NAME:tapir:tapirs:tapir]"
-msgstr ""
+msgstr "[NAME:tapír:tapíři:tapíří]"
 
 #: creature_tropical_new.txt:2551
 msgctxt "CREATURE:TAPIR"
 msgid "[CASTE_NAME:tapir:tapirs:tapir]"
-msgstr ""
+msgstr "[CASTE_NAME:tapír:tapíri:tapíří]"
 
 #: creature_tropical_new.txt:2552
 msgctxt "CREATURE:TAPIR"
 msgid "[GENERAL_CHILD_NAME:tapir calf:tapir calves]"
-msgstr ""
+msgstr "[GENERAL_CHILD_NAME:tele tapíra:telata tapírů]"
 
 #: creature_tropical_new.txt:2560
 msgctxt "CREATURE:TAPIR"
@@ -37572,72 +37584,72 @@ msgstr "[ATTACK_VERB:kousnutí:kousnutí]"
 #: creature_tropical_new.txt:2631
 msgctxt "CREATURE:TAPIR"
 msgid "[STATE_NAME:ALL_SOLID:frozen tapir's milk]"
-msgstr ""
+msgstr "[STATE_NAME:ALL_SOLID:mražené tapíří mléko]"
 
 #: creature_tropical_new.txt:2632
 msgctxt "CREATURE:TAPIR"
 msgid "[STATE_ADJ:ALL_SOLID:frozen tapir's milk]"
-msgstr ""
+msgstr "[STATE_ADJ:ALL_SOLID:mražené tapíří mléko]"
 
 #: creature_tropical_new.txt:2633
 msgctxt "CREATURE:TAPIR"
 msgid "[STATE_NAME:LIQUID:tapir's milk]"
-msgstr ""
+msgstr "[STATE_NAME:LIQUID:tapíří mléko]"
 
 #: creature_tropical_new.txt:2634
 msgctxt "CREATURE:TAPIR"
 msgid "[STATE_ADJ:LIQUID:tapir's milk]"
-msgstr ""
+msgstr "[STATE_ADJ:LIQUID:tapíří mléko]"
 
 #: creature_tropical_new.txt:2635
 msgctxt "CREATURE:TAPIR"
 msgid "[STATE_NAME:GAS:boiling tapir's milk]"
-msgstr ""
+msgstr "[STATE_NAME:GAS:vařící tapíří mléko]"
 
 #: creature_tropical_new.txt:2636
 msgctxt "CREATURE:TAPIR"
 msgid "[STATE_ADJ:GAS:boiling tapir's milk]"
-msgstr ""
+msgstr "[STATE_ADJ:GAS:vařící tapíří mléko]"
 
 #: creature_tropical_new.txt:2640
 msgctxt "CREATURE:TAPIR"
 msgid "[STATE_NAME:SOLID:tapir cheese]"
-msgstr ""
+msgstr "[STATE_NAME:SOLID:tapíří sýr]"
 
 #: creature_tropical_new.txt:2641
 msgctxt "CREATURE:TAPIR"
 msgid "[STATE_ADJ:SOLID:tapir cheese]"
-msgstr ""
+msgstr "[STATE_ADJ:SOLID:tapíří sýr]"
 
 #: creature_tropical_new.txt:2642
 msgctxt "CREATURE:TAPIR"
 msgid "[STATE_NAME:SOLID_POWDER:tapir cheese powder]"
-msgstr ""
+msgstr "[STATE_NAME:SOLID_POWDER:sušený tapíří sýr]"
 
 #: creature_tropical_new.txt:2643
 msgctxt "CREATURE:TAPIR"
 msgid "[STATE_ADJ:SOLID_POWDER:tapir cheese powder]"
-msgstr ""
+msgstr "[STATE_ADJ:SOLID_POWDER:sušený tapíří sýr]"
 
 #: creature_tropical_new.txt:2644
 msgctxt "CREATURE:TAPIR"
 msgid "[STATE_NAME:LIQUID:melted tapir cheese]"
-msgstr ""
+msgstr "[STATE_NAME:LIQUID:tavený tapíří sýr]"
 
 #: creature_tropical_new.txt:2645
 msgctxt "CREATURE:TAPIR"
 msgid "[STATE_ADJ:LIQUID:melted tapir cheese]"
-msgstr ""
+msgstr "[STATE_ADJ:LIQUID:tavený tapíří sýr]"
 
 #: creature_tropical_new.txt:2646
 msgctxt "CREATURE:TAPIR"
 msgid "[STATE_NAME:GAS:boiling tapir cheese]"
-msgstr ""
+msgstr "[STATE_NAME:GAS:vařící tapíří sýr]"
 
 #: creature_tropical_new.txt:2647
 msgctxt "CREATURE:TAPIR"
 msgid "[STATE_ADJ:GAS:boiling tapir cheese]"
-msgstr ""
+msgstr "[STATE_ADJ:GAS:vařící tapíří sýr]"
 
 #: creature_tropical_new.txt:2655
 msgctxt "CREATURE:TAPIR"
@@ -37657,62 +37669,62 @@ msgstr ""
 #: creature_tropical_new.txt:2667
 msgctxt "CREATURE:TAPIR_MAN"
 msgid "[CVCT_TARGET:tapir]"
-msgstr ""
+msgstr "[CVCT_TARGET:tapír]"
 
 #: creature_tropical_new.txt:2668
 msgctxt "CREATURE:TAPIR_MAN"
 msgid "[CVCT_REPLACEMENT:tapir man]"
-msgstr ""
+msgstr "[CVCT_REPLACEMENT:mužský tapír]"
 
 #: creature_tropical_new.txt:2677
 msgctxt "CREATURE:TAPIR_MAN"
 msgid "[CASTE_NAME:tapir man:tapir men:tapir man]"
-msgstr ""
+msgstr "[CASTE_NAME:mužský tapír:mužští tapíři:mužského tapíra]"
 
 #: creature_tropical_new.txt:2679
 msgctxt "CREATURE:TAPIR_MAN"
 msgid "[CASTE_NAME:tapir woman:tapir women:tapir woman]"
-msgstr ""
+msgstr "[CASTE_NAME:ženský tapír:ženští tapíři:ženského tapíra]"
 
 #: creature_tropical_new.txt:2689
 msgctxt "CREATURE:TAPIR_MAN"
 msgid "[NAME:tapir man:tapir men:tapir man]"
-msgstr ""
+msgstr "[NAME:mužský tapír:mužští tapíři:mužského tapíra]"
 
 #: creature_tropical_new.txt:2690
 msgctxt "CREATURE:TAPIR_MAN"
 msgid "[DESCRIPTION:A person with the head of a tapir.]"
-msgstr ""
+msgstr "[DESCRIPTION:Osoba s hlavou tapíra.]"
 
 #: creature_tropical_new.txt:2701
 msgctxt "CREATURE:GIANT_TAPIR"
 msgid "[CVCT_TARGET:tapir]"
-msgstr ""
+msgstr "[CVCT_TARGET:tapír]"
 
 #: creature_tropical_new.txt:2702
 msgctxt "CREATURE:GIANT_TAPIR"
 msgid "[CVCT_REPLACEMENT:giant tapir]"
-msgstr ""
+msgstr "[CVCT_REPLACEMENT:obří tapír]"
 
 #: creature_tropical_new.txt:2715
 msgctxt "CREATURE:GIANT_TAPIR"
 msgid "[NAME:giant tapir:giant tapirs:giant tapir]"
-msgstr ""
+msgstr "[NAME:obří tapír:obří tapíri:obřího tapíra]"
 
 #: creature_tropical_new.txt:2716
 msgctxt "CREATURE:GIANT_TAPIR"
 msgid "[CASTE_NAME:giant tapir:giant tapirs:giant tapir]"
-msgstr ""
+msgstr "[CASTE_NAME:obří tapír:obří tapíři:obřího tapíra]"
 
 #: creature_tropical_new.txt:2717
 msgctxt "CREATURE:GIANT_TAPIR"
 msgid "[GENERAL_CHILD_NAME:giant tapir calf:giant tapir calves]"
-msgstr ""
+msgstr "[GENERAL_CHILD_NAME:tele obřího tapíra:telata obřích tapírů]"
 
 #: creature_tropical_new.txt:2718
 msgctxt "CREATURE:GIANT_TAPIR"
 msgid "[DESCRIPTION:A huge monster in the form of a tapir.]"
-msgstr ""
+msgstr "[DESCRIPTION:Obrovské monstrum v podobě tapíra.]"
 
 #: creature_tropical_new.txt:2727
 msgctxt "CREATURE:GIANT_TAPIR"
@@ -41020,12 +41032,12 @@ msgstr ""
 #: inorganic_other.txt:87
 msgctxt "INORGANIC:MILK_OF_LIME"
 msgid "[STATE_NAME:ALL:milk of lime]"
-msgstr ""
+msgstr "[STATE_NAME:ALL:hašené vápno]"
 
 #: inorganic_other.txt:88
 msgctxt "INORGANIC:MILK_OF_LIME"
 msgid "[STATE_NAME_ADJ:ALL:milk of lime]"
-msgstr ""
+msgstr "[STATE_NAME_ADJ:ALL:hašené vápno]"
 
 #: inorganic_stone_gem.txt:34
 msgctxt "INORGANIC:ONYX"
@@ -41255,7 +41267,7 @@ msgstr ""
 #: inorganic_stone_gem.txt:360
 msgctxt "INORGANIC:MILK QUARTZ"
 msgid "[IS_GEM:milk quartz:milk quartzes:]"
-msgstr ""
+msgstr "[IS_GEM:mléčný křemen:mléčné křemeny:]"
 
 #: inorganic_stone_gem.txt:367
 msgctxt "INORGANIC:MOONSTONE"
@@ -41285,7 +41297,7 @@ msgstr ""
 #: inorganic_stone_gem.txt:402
 msgctxt "INORGANIC:MILK OPAL"
 msgid "[IS_GEM:milk opal:STP:]"
-msgstr ""
+msgstr "[IS_GEM:mléčný opál:mléčné opály:]"
 
 #: inorganic_stone_gem.txt:409
 msgctxt "INORGANIC:PIPE OPAL"
@@ -42925,27 +42937,27 @@ msgstr ""
 #: material_template_default.txt:1987
 msgctxt "MATERIAL_TEMPLATE:MILK_TEMPLATE"
 msgid "[STATE_NAME:ALL_SOLID:frozen milk]"
-msgstr ""
+msgstr "[STATE_NAME:ALL_SOLID:mražené mléko]"
 
 #: material_template_default.txt:1988
 msgctxt "MATERIAL_TEMPLATE:MILK_TEMPLATE"
 msgid "[STATE_ADJ:ALL_SOLID:frozen milky]"
-msgstr ""
+msgstr "[STATE_ADJ:ALL_SOLID:mražené mléčné]"
 
 #: material_template_default.txt:1990
 msgctxt "MATERIAL_TEMPLATE:MILK_TEMPLATE"
 msgid "[STATE_NAME:LIQUID:milk]"
-msgstr ""
+msgstr "[STATE_NAME:LIQUID:mléko]"
 
 #: material_template_default.txt:1991
 msgctxt "MATERIAL_TEMPLATE:MILK_TEMPLATE"
 msgid "[STATE_ADJ:LIQUID:milky]"
-msgstr ""
+msgstr "[STATE_ADJ:LIQUID:mléčné]"
 
 #: material_template_default.txt:2038
 msgctxt "MATERIAL_TEMPLATE:CREATURE_CHEESE_TEMPLATE"
 msgid "[STATE_NAME:ALL_SOLID:cheese]"
-msgstr ""
+msgstr "[STATE_NAME:ALL_SOLID:sýr]"
 
 #: material_template_default.txt:2039
 msgctxt "MATERIAL_TEMPLATE:CREATURE_CHEESE_TEMPLATE"
@@ -42955,7 +42967,7 @@ msgstr ""
 #: material_template_default.txt:2041
 msgctxt "MATERIAL_TEMPLATE:CREATURE_CHEESE_TEMPLATE"
 msgid "[STATE_NAME:LIQUID:melted cheese]"
-msgstr ""
+msgstr "[STATE_NAME:LIQUID:tavený sýr]"
 
 #: material_template_default.txt:2042
 msgctxt "MATERIAL_TEMPLATE:CREATURE_CHEESE_TEMPLATE"
@@ -46951,7 +46963,7 @@ msgstr ""
 #: plant_garden.txt:1529
 msgctxt "PLANT:SOYBEAN"
 msgid "[PREFSTRING:milk]"
-msgstr ""
+msgstr "[PREFSTRING:mléko]"
 
 #: plant_garden.txt:1531
 msgctxt "PLANT:SOYBEAN"
@@ -54130,7 +54142,7 @@ msgstr "[NAME:vyrobte nehašené vápno]"
 #: reaction_other.txt:343
 msgctxt "REACTION:MAKE_MILK_OF_LIME"
 msgid "[NAME:make milk of lime]"
-msgstr "[NAME:vyrobte limetkové mléko]"
+msgstr "[NAME:vyrobte hašené vápno]"
 
 #: reaction_other.txt:345
 msgctxt "REACTION:MAKE_MILK_OF_LIME"
@@ -54165,7 +54177,7 @@ msgstr "[NAME:vyrobte pergamen]"
 #: reaction_other.txt:364
 msgctxt "REACTION:MAKE_PARCHMENT"
 msgid "[REAGENT:milk of lime:]"
-msgstr ""
+msgstr "[REAGENT:hašené vápno:]"
 
 #: reaction_other.txt:365
 msgctxt "REACTION:MAKE_PARCHMENT"
@@ -54175,7 +54187,7 @@ msgstr ""
 #: reaction_other.txt:366
 msgctxt "REACTION:MAKE_PARCHMENT"
 msgid "[CONTAINS:milk of lime]"
-msgstr ""
+msgstr "[CONTAINS:hašené vápno]"
 
 #: reaction_other.txt:373
 msgctxt "REACTION:MAKE_SCROLL"
