@@ -5634,12 +5634,12 @@ msgstr "[TLCM_NOUN:oči:PLURAL]"
 #: creature_amphibians.txt:75
 msgctxt "CREATURE:TOAD_MAN"
 msgid "[CASTE_NAME:toad man:toad men:toad man]"
-msgstr "[CASTE_NAME:ropušák:ropušáci:ropušák]"
+msgstr "[CASTE_NAME:ropušák:ropušáci:ropušáka]"
 
 #: creature_amphibians.txt:77
 msgctxt "CREATURE:TOAD_MAN"
 msgid "[CASTE_NAME:toad woman:toad women:toad woman]"
-msgstr "[CASTE_NAME:ropušačka:ropušačky:ropušačka]"
+msgstr "[CASTE_NAME:ropušačka:ropušačky:ropušačky]"
 
 #: creature_amphibians.txt:87
 msgctxt "CREATURE:TOAD_MAN"
@@ -5718,7 +5718,7 @@ msgstr "[NAME:červák:červáci:červáčí]"
 #: creature_annelids.txt:60
 msgctxt "CREATURE:WORM_MAN"
 msgid "[CASTE_NAME:worm man:worm men:worm man]"
-msgstr "[CASTE_NAME:červák:červáci:červák]"
+msgstr "[CASTE_NAME:červák:červáci:červáčí]"
 
 #: creature_annelids.txt:61
 msgctxt "CREATURE:WORM_MAN"
@@ -5784,12 +5784,13 @@ msgstr "[TLCM_NOUN:oči:PLURAL]"
 #: creature_birds.txt:115
 msgctxt "CREATURE:BLUEJAY_MAN"
 msgid "[CASTE_NAME:bluejay man:bluejay men:bluejay man]"
-msgstr "[CASTE_NAME:samec sojky modré:samci sojky modré:samec sojky modré]"
+msgstr ""
+"[CASTE_NAME:mužský sojky modré:mužští sojky modré:mužského sojky modré]"
 
 #: creature_birds.txt:117
 msgctxt "CREATURE:BLUEJAY_MAN"
 msgid "[CASTE_NAME:bluejay woman:bluejay women:bluejay woman]"
-msgstr "[CASTE_NAME:samice sojky modré:samice sojky modré:samice sojky modré]"
+msgstr "[CASTE_NAME:ženská sojky modré:ženské sojky modré:ženské sojky modré]"
 
 #: creature_birds.txt:129
 msgctxt "CREATURE:BLUEJAY_MAN"
@@ -5891,15 +5892,15 @@ msgstr "[TLCM_NOUN:oči:PLURAL]"
 msgctxt "CREATURE:CARDINAL_MAN"
 msgid "[CASTE_NAME:cardinal man:cardinal men:cardinal man]"
 msgstr ""
-"[CASTE_NAME:samec kardinála severoamerického:samci kardinála "
-"severoamerického:samec kardinála severoamerického]"
+"[CASTE_NAME:mužský kardinála severoamerického:mužští kardinála "
+"severoamerického:mužského kardinála severoamerického]"
 
 #: creature_birds.txt:276
 msgctxt "CREATURE:CARDINAL_MAN"
 msgid "[CASTE_NAME:cardinal woman:cardinal women:cardinal woman]"
 msgstr ""
-"[CASTE_NAME:samice kardinála severoamerického:samice kardinálů "
-"severoamerického:samice kardinála severoamerického]"
+"[CASTE_NAME:ženská kardinála severoamerického:ženské kardinála "
+"severoamerického:ženské kardinála severoamerického]"
 
 #: creature_birds.txt:288
 msgctxt "CREATURE:CARDINAL_MAN"
@@ -6003,17 +6004,17 @@ msgstr "[TLCM_NOUN:oči:PLURAL]"
 #: creature_birds.txt:430
 msgctxt "CREATURE:GRACKLE_MAN"
 msgid "[CASTE_NAME:grackle man:grackle men:grackle man]"
-msgstr "[CASTE_NAME:samec grackla:samci grackla:samec grackla]"
+msgstr "[CASTE_NAME:mužský vlhovec:mužští vlhovci:mužského vlhovce]"
 
 #: creature_birds.txt:432
 msgctxt "CREATURE:GRACKLE_MAN"
 msgid "[CASTE_NAME:grackle woman:grackle women:grackle woman]"
-msgstr "[CASTE_NAME:samice grackla: samice grackla:samice grackla]"
+msgstr "[CASTE_NAME:ženský vlhovec:ženské vlhovce:ženského vlhovce]"
 
 #: creature_birds.txt:444
 msgctxt "CREATURE:GRACKLE_MAN"
 msgid "[NAME:grackle man:grackle men:grackle man]"
-msgstr "[NAME:mužský grackl:mužští gracklové:mužského grackla]"
+msgstr "[NAME:mužský vlhovec:mužští vlhovci:mužského vlhovce]"
 
 #: creature_birds.txt:445
 msgctxt "CREATURE:GRACKLE_MAN"
@@ -6101,17 +6102,17 @@ msgstr "[TLCM_NOUN:oči:PLURAL]"
 #: creature_birds.txt:585
 msgctxt "CREATURE:ORIOLE_MAN"
 msgid "[CASTE_NAME:oriole man:oriole men:oriole man]"
-msgstr "[CASTE_NAME:samec žluvy:samci žluvy:samec žluvy]"
+msgstr "[CASTE_NAME:mužská žluva:mužšké žluvy:mužské žluvy]"
 
 #: creature_birds.txt:587
 msgctxt "CREATURE:ORIOLE_MAN"
 msgid "[CASTE_NAME:oriole woman:oriole women:oriole woman]"
-msgstr "[CASTE_NAME:samička žluvy:samičky žluvy:samička žluvy]"
+msgstr "[CASTE_NAME:ženská žluva:ženské žluvy:ženské žluvy]"
 
 #: creature_birds.txt:599
 msgctxt "CREATURE:ORIOLE_MAN"
 msgid "[NAME:oriole man:oriole men:oriole man]"
-msgstr "[NAME:myžská žluva:mužské žluvy:myžské žluvy]"
+msgstr "[NAME:mužská žluva:mužské žluvy:mužské žluvy]"
 
 #: creature_birds.txt:600
 msgctxt "CREATURE:ORIOLE_MAN"
@@ -6208,7 +6209,7 @@ msgid ""
 "[CASTE_NAME:red-winged blackbird man:red-winged blackbird men:red-winged "
 "blackbird man]"
 msgstr ""
-"[CASTE_NAME:samec kosa rudokřídlého:samci kosa rudokřídlého:samec kosa "
+"[CASTE_NAME:mužský kos rudokřídlého:mužští kosa rudokřídlého:mužského kosa "
 "rudokřídlého]"
 
 #: creature_birds.txt:743
@@ -6217,8 +6218,8 @@ msgid ""
 "[CASTE_NAME:red-winged blackbird woman:red-winged blackbird women:red-winged"
 " blackbird woman]"
 msgstr ""
-"[CASTE_NAME:samička kosa rudokřídlého:samičky kosa rudokřídlého:samička kosa"
-" rudokřídlého]"
+"[CASTE_NAME:ženská kosa rudokřídlého:ženské kosa rudokřídlého:ženské kosa "
+"rudokřídlého]"
 
 #: creature_birds.txt:755
 msgctxt "CREATURE:RW_BLACKBIRD_MAN"
@@ -6475,12 +6476,12 @@ msgstr "[TLCM_NOUN:oči:PLURAL]"
 #: creature_birds.txt:1097
 msgctxt "CREATURE:PENGUIN MAN"
 msgid "[CASTE_NAME:penguin man:penguin men:penguin man]"
-msgstr "[CASTE_NAME:samec tučňáka:samci tučňáka:samec tučňáka]"
+msgstr "[CASTE_NAME:mužský tučňák:mužští tučňáci:mužského tučňáka]"
 
 #: creature_birds.txt:1099
 msgctxt "CREATURE:PENGUIN MAN"
 msgid "[CASTE_NAME:penguin woman:penguin women:penguin woman]"
-msgstr "[CASTE_NAME:samička tučňáka:samičky tučňáka:samička tučňáka]"
+msgstr "[CASTE_NAME:ženský tučňák:ženští tučňáci:ženského tučňáka]"
 
 #: creature_birds.txt:1110
 msgctxt "CREATURE:PENGUIN MAN"
@@ -6599,8 +6600,8 @@ msgctxt "CREATURE:PEREGRINE FALCON MAN"
 msgid ""
 "[CASTE_NAME:peregrine falcon man:peregrine falcon men:peregrine falcon man]"
 msgstr ""
-"[CASTE_NAME:mužský sokol stěhovavý:mužský sokoli stěhovavý:mužský sokol "
-"stěhovavý]"
+"[CASTE_NAME:mužský sokol stěhovavý:mužský sokoli stěhovavý:mužského sokola "
+"stěhovavého]"
 
 #: creature_birds.txt:1281
 msgctxt "CREATURE:PEREGRINE FALCON MAN"
@@ -6608,8 +6609,8 @@ msgid ""
 "[CASTE_NAME:peregrine falcon woman:peregrine falcon women:peregrine falcon "
 "woman]"
 msgstr ""
-"[CASTE_NAME:ženský sokol stěhovavý:ženský sokoli stěhovavý:ženský sokol "
-"stěhovavý]"
+"[CASTE_NAME:ženský sokol stěhovavý:ženský sokoli stěhovavý:ženského sokola "
+"stěhovavého]"
 
 #: creature_birds.txt:1293
 msgctxt "CREATURE:PEREGRINE FALCON MAN"
@@ -6725,12 +6726,12 @@ msgstr "[TLCM_NOUN:oči:PLURAL]"
 #: creature_birds.txt:1436
 msgctxt "CREATURE:KIWI MAN"
 msgid "[CASTE_NAME:kiwi man:kiwi men:kiwi man]"
-msgstr ""
+msgstr "[CASTE_NAME:mužský kiwi:mužští kiwi:mužského kiwi]"
 
 #: creature_birds.txt:1438
 msgctxt "CREATURE:KIWI MAN"
 msgid "[CASTE_NAME:kiwi woman:kiwi women:kiwi woman]"
-msgstr ""
+msgstr "[CASTE_NAME:ženský kiwi:ženští kiwi:ženského kiwi]"
 
 #: creature_birds.txt:1449
 msgctxt "CREATURE:KIWI MAN"
@@ -6852,12 +6853,12 @@ msgstr "[TLCM_NOUN:oči:PLURAL]"
 #: creature_birds.txt:1619
 msgctxt "CREATURE:OSTRICH MAN"
 msgid "[CASTE_NAME:ostrich man:ostrich men:ostrich man]"
-msgstr ""
+msgstr "[CASTE_NAME:mužský pštos:mužští pštrosi:mužského pštrosa]"
 
 #: creature_birds.txt:1621
 msgctxt "CREATURE:OSTRICH MAN"
 msgid "[CASTE_NAME:ostrich woman:ostrich women:ostrich woman]"
-msgstr ""
+msgstr "[CASTE_NAME:ženský pštros:ženští pštrosi:ženského pštrosa]"
 
 #: creature_birds.txt:1632
 msgctxt "CREATURE:OSTRICH MAN"
@@ -6961,12 +6962,12 @@ msgstr "[TLCM_NOUN:oči:PLURAL]"
 #: creature_birds_new.txt:121
 msgctxt "CREATURE:CROW_MAN"
 msgid "[CASTE_NAME:crow man:crow men:crow man]"
-msgstr ""
+msgstr "[CASTE_NAME:mužská vrána:mužšké vrány:mužské vrány]"
 
 #: creature_birds_new.txt:123
 msgctxt "CREATURE:CROW_MAN"
 msgid "[CASTE_NAME:crow woman:crow women:crow woman]"
-msgstr ""
+msgstr "[CASTE_NAME:ženská vrána:ženské vrány:ženské vrány]"
 
 #: creature_birds_new.txt:135
 msgctxt "CREATURE:CROW_MAN"
@@ -8869,13 +8870,14 @@ msgstr ""
 #: creature_birds_new.txt:3019
 msgctxt "CREATURE:BIRD_LOVEBIRD_PEACH-FACED"
 msgid "[NAME:peach-faced lovebird:peach-faced lovebirds:peach-faced lovebird]"
-msgstr "[NAME:papoušek růžohrdlý:papoušci růžohrdlý:papouška růžohrdlého]"
+msgstr "[NAME:papoušík růžohrdlý:papoušíci růžohrdlý:papoušíka růžohrdlého]"
 
 #: creature_birds_new.txt:3020
 msgctxt "CREATURE:BIRD_LOVEBIRD_PEACH-FACED"
 msgid ""
 "[CASTE_NAME:peach-faced lovebird:peach-faced lovebirds:peach-faced lovebird]"
 msgstr ""
+"[CASTE_NAME:papoušík růžohrdlý:papoušíci růžohrdlý:papoušíka růžohrdlého]"
 
 #: creature_birds_new.txt:3021
 msgctxt "CREATURE:BIRD_LOVEBIRD_PEACH-FACED"
@@ -8883,6 +8885,8 @@ msgid ""
 "[GENERAL_CHILD_NAME:peach-faced lovebird hatchling:peach-faced lovebird "
 "hatchlings]"
 msgstr ""
+"[GENERAL_CHILD_NAME:mládě papoušíka růžohrdlého:mláďata papoušíka "
+"růžohrdlého]"
 
 #: creature_birds_new.txt:3044
 msgctxt "CREATURE:BIRD_LOVEBIRD_PEACH-FACED"
@@ -8920,6 +8924,8 @@ msgid ""
 "[CASTE_NAME:peach-faced lovebird man:peach-faced lovebird men:peach-faced "
 "lovebird man]"
 msgstr ""
+"[CASTE_NAME:mužský papoušík růžohrdlý:mužští papoušíci růžohrdlý:mužského "
+"papoušíka růžohrdlého]"
 
 #: creature_birds_new.txt:3127
 msgctxt "CREATURE:PEACH-FACED_LOVEBIRD_MAN"
@@ -8927,6 +8933,8 @@ msgid ""
 "[CASTE_NAME:peach-faced lovebird woman:peach-faced lovebird women:peach-"
 "faced lovebird woman]"
 msgstr ""
+"[CASTE_NAME:ženský papoušík růžohrdlý:ženští papoušíci růžohrdlý:ženského "
+"papoušíka růžohrdlého]"
 
 #: creature_birds_new.txt:3139
 msgctxt "CREATURE:PEACH-FACED_LOVEBIRD_MAN"
@@ -8934,15 +8942,15 @@ msgid ""
 "[NAME:peach-faced lovebird man:peach-faced lovebird men:peach-faced lovebird"
 " man]"
 msgstr ""
-"[NAME:mužský papoušek růžohrdlý:mužští papoušci růžohrdlý:mužského papouška "
-"růžohrdlého]"
+"[NAME:mužský papoušík růžohrdlý:mužští papoušíci růžohrdlý:mužského "
+"papoušíka růžohrdlého]"
 
 #: creature_birds_new.txt:3140
 msgctxt "CREATURE:PEACH-FACED_LOVEBIRD_MAN"
 msgid ""
 "[DESCRIPTION:A colorful person with the head and wings of a peach-faced "
 "lovebird.]"
-msgstr ""
+msgstr "[DESCRIPTION:Barevný člověk s hlavou a křídly papoušíka růžohrdlého.]"
 
 #: creature_birds_new.txt:3156
 msgctxt "CREATURE:GIANT_PEACH-FACED_LOVEBIRD"
@@ -8950,7 +8958,7 @@ msgid ""
 "[NAME:giant peach-faced lovebird:giant peach-faced lovebirds:giant peach-"
 "faced lovebird]"
 msgstr ""
-"[NAME:obří papoušek růžohrdlý:obří papoušci růžohrdlý:obřího papouška "
+"[NAME:obří papoušík růžohrdlý:obří papoušíci růžohrdlý:obřího papoušíka "
 "růžohrdlého]"
 
 #: creature_birds_new.txt:3157
@@ -8959,6 +8967,8 @@ msgid ""
 "[CASTE_NAME:giant peach-faced lovebird:giant peach-faced lovebirds:giant "
 "peach-faced lovebird]"
 msgstr ""
+"[CASTE_NAME:obří papoušík růžohrdlý:obří papoušíci růžohrdlý:obřího "
+"papoušíka růžohrdlého]"
 
 #: creature_birds_new.txt:3158
 msgctxt "CREATURE:GIANT_PEACH-FACED_LOVEBIRD"
@@ -8966,12 +8976,15 @@ msgid ""
 "[GENERAL_CHILD_NAME:giant peach-faced lovebird hatchling:giant peach-faced "
 "lovebird hatchlings]"
 msgstr ""
+"[GENERAL_CHILD_NAME:mládě obřího papoušíka růžohrdlého:mláďata obřího "
+"papoušíka růžohrdlého]"
 
 #: creature_birds_new.txt:3159
 msgctxt "CREATURE:GIANT_PEACH-FACED_LOVEBIRD"
 msgid ""
 "[DESCRIPTION:A huge monster taking the shape of a peach-faced lovebird.]"
 msgstr ""
+"[DESCRIPTION:Obrovské monstrum, které má podobu papoušíka růžohrdlého.]"
 
 #: creature_birds_new.txt:3168
 msgctxt "CREATURE:GIANT_PEACH-FACED_LOVEBIRD"
@@ -9506,7 +9519,7 @@ msgstr ""
 #: creature_birds_new.txt:3991
 msgctxt "CREATURE:BIRD_HORNBILL"
 msgid "[NAME:hornbill:hornbills:hornbill]"
-msgstr ""
+msgstr "[NAME:zoborožec:zoborožci:zoborožčí]"
 
 #: creature_birds_new.txt:3992
 msgctxt "CREATURE:BIRD_HORNBILL"
@@ -9561,7 +9574,7 @@ msgstr ""
 #: creature_birds_new.txt:4109
 msgctxt "CREATURE:HORNBILL_MAN"
 msgid "[NAME:hornbill man:hornbill men:hornbill man]"
-msgstr ""
+msgstr "[NAME:mužský zoborožec:mužští zoborožci:mužského zoborožce]"
 
 #: creature_birds_new.txt:4110
 msgctxt "CREATURE:HORNBILL_MAN"
@@ -9571,7 +9584,7 @@ msgstr ""
 #: creature_birds_new.txt:4126
 msgctxt "CREATURE:GIANT_HORNBILL"
 msgid "[NAME:giant hornbill:giant hornbills:giant hornbill]"
-msgstr ""
+msgstr "[NAME:obří zoborožec:obří zoborožci:obřího zoborožce]"
 
 #: creature_birds_new.txt:4127
 msgctxt "CREATURE:GIANT_HORNBILL"
@@ -9604,17 +9617,22 @@ msgstr ""
 msgctxt "CREATURE:BIRD_LOVEBIRD_MASKED"
 msgid "[NAME:masked lovebird:masked lovebirds:masked lovebird]"
 msgstr ""
+"[NAME:papoušík škraboškový:papoušíci škraboškový:papoušíka škraboškového]"
 
 #: creature_birds_new.txt:4151
 msgctxt "CREATURE:BIRD_LOVEBIRD_MASKED"
 msgid "[CASTE_NAME:masked lovebird:masked lovebirds:masked lovebird]"
 msgstr ""
+"[CASTE_NAME:papoušík škraboškový:papoušíci škraboškový:papoušíka "
+"škraboškového]"
 
 #: creature_birds_new.txt:4152
 msgctxt "CREATURE:BIRD_LOVEBIRD_MASKED"
 msgid ""
 "[GENERAL_CHILD_NAME:masked lovebird hatchling:masked lovebird hatchlings]"
 msgstr ""
+"[GENERAL_CHILD_NAME:mládě papoušíka škraboškového:mláďata papoušíka "
+"škraboškového]"
 
 #: creature_birds_new.txt:4172
 msgctxt "CREATURE:BIRD_LOVEBIRD_MASKED"
@@ -9651,6 +9669,8 @@ msgctxt "CREATURE:MASKED_LOVEBIRD_MAN"
 msgid ""
 "[CASTE_NAME:masked lovebird man:masked lovebird men:masked lovebird man]"
 msgstr ""
+"[CASTE_NAME:mužský papoušík škraboškový:mužští papoušíci "
+"škraboškový:mužského papoušíka škraboškového]"
 
 #: creature_birds_new.txt:4255
 msgctxt "CREATURE:MASKED_LOVEBIRD_MAN"
@@ -9658,11 +9678,15 @@ msgid ""
 "[CASTE_NAME:masked lovebird woman:masked lovebird women:masked lovebird "
 "woman]"
 msgstr ""
+"[CASTE_NAME:ženský papoušík škraboškový:ženští papoušíci "
+"škraboškový:ženského papoušíka škraboškového]"
 
 #: creature_birds_new.txt:4267
 msgctxt "CREATURE:MASKED_LOVEBIRD_MAN"
 msgid "[NAME:masked lovebird man:masked lovebird men:masked lovebird man]"
 msgstr ""
+"[NAME:mužský papoušík škraboškový:mužští papoušíci škraboškový:mužského "
+"papoušíka škraboškového]"
 
 #: creature_birds_new.txt:4268
 msgctxt "CREATURE:MASKED_LOVEBIRD_MAN"
@@ -9670,12 +9694,15 @@ msgid ""
 "[DESCRIPTION:A colorful person with the head and wings of a masked "
 "lovebird.]"
 msgstr ""
+"[DESCRIPTION:Barevná osoba s hlavou a křídly papoušíka škraboškového.]"
 
 #: creature_birds_new.txt:4284
 msgctxt "CREATURE:GIANT_MASKED_LOVEBIRD"
 msgid ""
 "[NAME:giant masked lovebird:giant masked lovebirds:giant masked lovebird]"
 msgstr ""
+"[NAME:obří papoušík škraboškový:obří papoušíci škraboškový:obřího papoušíka "
+"škraboškového]"
 
 #: creature_birds_new.txt:4285
 msgctxt "CREATURE:GIANT_MASKED_LOVEBIRD"
@@ -9683,6 +9710,8 @@ msgid ""
 "[CASTE_NAME:giant masked lovebird:giant masked lovebirds:giant masked "
 "lovebird]"
 msgstr ""
+"[CASTE_NAME:obří papoušík škraboškový:obří papoušíci škraboškový:obřího "
+"papoušíka škraboškového]"
 
 #: creature_birds_new.txt:4286
 msgctxt "CREATURE:GIANT_MASKED_LOVEBIRD"
@@ -9690,11 +9719,13 @@ msgid ""
 "[GENERAL_CHILD_NAME:giant masked lovebird hatchling:giant masked lovebird "
 "hatchlings]"
 msgstr ""
+"[GENERAL_CHILD_NAME:mládě obřího papoušíka škraboškového:mláďata obřího "
+"papoušíka škraboškového]"
 
 #: creature_birds_new.txt:4287
 msgctxt "CREATURE:GIANT_MASKED_LOVEBIRD"
 msgid "[DESCRIPTION:A huge monster in the form of a masked lovebird.]"
-msgstr ""
+msgstr "[DESCRIPTION:Obrovské monstrum v podobě papoušíka škraboškového.]"
 
 #: creature_birds_new.txt:4296
 msgctxt "CREATURE:GIANT_MASKED_LOVEBIRD"
