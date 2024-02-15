@@ -7757,6 +7757,8 @@ msgid ""
 "[DESCRIPTION:A small, nocturnal bird of prey found in woodland regions.  Its"
 " hunger for rodents drives it to take residence in buildings.]"
 msgstr ""
+"[DESCRIPTION:Malý noční dravý pták vyskytující se v lesnatých oblastech. "
+"Jeho hlad po hlodavcích ho nutí usídlit se v budovách.]"
 
 #: creature_birds_new.txt:1297
 msgctxt "CREATURE:BIRD_OWL_BARN"
@@ -9756,7 +9758,7 @@ msgstr ""
 #: creature_birds_new.txt:4306
 msgctxt "CREATURE:BIRD_BUSHTIT"
 msgid "[DESCRIPTION:A tiny brown bird found in open woodlands.]"
-msgstr ""
+msgstr "[DESCRIPTION:Drobný hnědý pták vyskytující se v otevřených lesích.]"
 
 #: creature_birds_new.txt:4307
 msgctxt "CREATURE:BIRD_BUSHTIT"
@@ -10312,6 +10314,8 @@ msgstr "[PREFSTRING:hrabavé nohy]"
 msgctxt "CREATURE:TICK"
 msgid "[DESCRIPTION:A tiny, blood-sucking bug found in wooded areas.]"
 msgstr ""
+"[DESCRIPTION:Drobný krev sající brouk, který se vyskytuje v zalesněných "
+"oblastech.]"
 
 #: creature_bug_slug_new.txt:606
 msgctxt "CREATURE:TICK"
@@ -10755,6 +10759,8 @@ msgid ""
 "[DESCRIPTION:A tiny insect capable of destroying large wooden structures "
 "when in large numbers.]"
 msgstr ""
+"[DESCRIPTION:Drobný hmyz, který je ve velkém množství schopen ničit velké "
+"dřevěné konstrukce.]"
 
 #: creature_bug_slug_new.txt:1234
 msgctxt "CREATURE:TERMITE"
@@ -10769,7 +10775,7 @@ msgstr ""
 #: creature_bug_slug_new.txt:1247
 msgctxt "CREATURE:TERMITE"
 msgid "[PREFSTRING:ability to devour wood]"
-msgstr ""
+msgstr "[PREFSTRING:schopnost požírat dřevo]"
 
 #: creature_bug_slug_new.txt:1268
 msgctxt "CREATURE:TERMITE"
@@ -13723,7 +13729,7 @@ msgstr ""
 #: creature_equipment.txt:18
 msgctxt "CREATURE:EQUIPMENT_WAGON"
 msgid "[TISSUE_NAME:wood:wooden]"
-msgstr ""
+msgstr "[TISSUE_NAME:dřevo:dřevěný]"
 
 #: creature_fanciful.txt:6
 msgctxt "CREATURE:CHIMERA"
@@ -14296,7 +14302,7 @@ msgstr ""
 #: creature_insects.txt:744
 msgctxt "CREATURE:HONEY_BEE"
 msgid "[STATE_NAME_ADJ:LIQUID:melted honey bee wax]"
-msgstr ""
+msgstr "[STATE_NAME_ADJ:LIQUID:roztavený včelí vosk]"
 
 #: creature_insects.txt:745
 msgctxt "CREATURE:HONEY_BEE"
@@ -14311,7 +14317,7 @@ msgstr ""
 #: creature_insects.txt:753
 msgctxt "CREATURE:HONEY_BEE"
 msgid "[STATE_NAME_ADJ:LIQUID:honey bee royal jelly]"
-msgstr ""
+msgstr "[STATE_NAME_ADJ:LIQUID:včelí mateří kašička]"
 
 #: creature_insects.txt:754
 msgctxt "CREATURE:HONEY_BEE"
@@ -14326,7 +14332,7 @@ msgstr ""
 #: creature_insects.txt:763
 msgctxt "CREATURE:HONEY_BEE"
 msgid "[STATE_NAME_ADJ:LIQUID:honey bee honey]"
-msgstr ""
+msgstr "[STATE_NAME_ADJ:LIQUID:včelí med]"
 
 #: creature_insects.txt:764
 msgctxt "CREATURE:HONEY_BEE"
@@ -14341,7 +14347,7 @@ msgstr ""
 #: creature_insects.txt:774
 msgctxt "CREATURE:HONEY_BEE"
 msgid "[STATE_NAME_ADJ:LIQUID:mead]"
-msgstr ""
+msgstr "[STATE_NAME_ADJ:LIQUID:medovina]"
 
 #: creature_insects.txt:775
 msgctxt "CREATURE:HONEY_BEE"
@@ -14361,12 +14367,12 @@ msgstr ""
 #: creature_insects.txt:780
 msgctxt "CREATURE:HONEY_BEE"
 msgid "[STATE_NAME:LIQUID:honey bee venom]"
-msgstr ""
+msgstr "[STATE_NAME:LIQUID:včelí jed]"
 
 #: creature_insects.txt:781
 msgctxt "CREATURE:HONEY_BEE"
 msgid "[STATE_ADJ:LIQUID:honey bee venom]"
-msgstr ""
+msgstr "[STATE_ADJ:LIQUID:včelí jed]"
 
 #: creature_insects.txt:782
 msgctxt "CREATURE:HONEY_BEE"
@@ -14443,7 +14449,7 @@ msgstr ""
 #: creature_insects.txt:864
 msgctxt "CREATURE:BUMBLEBEE"
 msgid "[STATE_NAME_ADJ:LIQUID:melted bumblebee wax]"
-msgstr ""
+msgstr "[STATE_NAME_ADJ:LIQUID:roztavený čmeláčí vosk]"
 
 #: creature_insects.txt:865
 msgctxt "CREATURE:BUMBLEBEE"
@@ -14458,7 +14464,7 @@ msgstr ""
 #: creature_insects.txt:872
 msgctxt "CREATURE:BUMBLEBEE"
 msgid "[STATE_NAME_ADJ:LIQUID:bumblebee royal jelly]"
-msgstr ""
+msgstr "[STATE_NAME_ADJ:LIQUID:čmeláčí mateří kašička]"
 
 #: creature_insects.txt:873
 msgctxt "CREATURE:BUMBLEBEE"
@@ -14473,7 +14479,7 @@ msgstr ""
 #: creature_insects.txt:882
 msgctxt "CREATURE:BUMBLEBEE"
 msgid "[STATE_NAME_ADJ:LIQUID:bumblebee honey]"
-msgstr ""
+msgstr "[STATE_NAME_ADJ:LIQUID:čmeláčí med]"
 
 #: creature_insects.txt:883
 msgctxt "CREATURE:BUMBLEBEE"
@@ -14488,7 +14494,7 @@ msgstr ""
 #: creature_insects.txt:893
 msgctxt "CREATURE:BUMBLEBEE"
 msgid "[STATE_NAME_ADJ:LIQUID:bumblebee mead]"
-msgstr ""
+msgstr "[STATE_NAME_ADJ:LIQUID:čmeláčí medovina]"
 
 #: creature_insects.txt:894
 msgctxt "CREATURE:BUMBLEBEE"
@@ -14508,12 +14514,12 @@ msgstr ""
 #: creature_insects.txt:899
 msgctxt "CREATURE:BUMBLEBEE"
 msgid "[STATE_NAME:LIQUID:bumblebee venom]"
-msgstr ""
+msgstr "[STATE_NAME:LIQUID:čmeláčí jed]"
 
 #: creature_insects.txt:900
 msgctxt "CREATURE:BUMBLEBEE"
 msgid "[STATE_ADJ:LIQUID:bumblebee venom]"
-msgstr ""
+msgstr "[STATE_ADJ:LIQUID:čmeláčí jed]"
 
 #: creature_insects.txt:901
 msgctxt "CREATURE:BUMBLEBEE"
@@ -17272,6 +17278,9 @@ msgid ""
 "[DESCRIPTION:A huge brown creature found in temperate woodland.  It is known"
 " for its ferocious attack, usually when it or its young are threatened.]"
 msgstr ""
+"[DESCRIPTION:Obrovský hnědý tvor, který se vyskytuje v lesích mírného pásma."
+" Je známý svým zuřivým útokem, obvykle když je ohrožen on nebo jeho "
+"mláďata.]"
 
 #: creature_large_temperate.txt:7
 msgctxt "CREATURE:BEAR_GRIZZLY"
@@ -17371,6 +17380,9 @@ msgid ""
 "Though normally a docile animal, it has been known to kill in a predatory "
 "attack.]"
 msgstr ""
+"[DESCRIPTION:Velký všežravý dravec vyskytující se v lesích mírného pásma. "
+"Živí se převážně bobulemi, ale krade i mršiny jiných lovců. Ačkoli je to "
+"obvykle učenlivé zvíře, je známo, že při dravém útoku zabíjí.]"
 
 #: creature_large_temperate.txt:163
 msgctxt "CREATURE:BEAR_BLACK"
@@ -22613,6 +22625,9 @@ msgid ""
 "scurries on little feet and swims through liquid rock with sharp wings.  It "
 "uses magma to digest rock and spits out burning globs.]"
 msgstr ""
+"[DESCRIPTION:Malý kamenožravý tvor, který žije v roztavené hornině. Plouží "
+"se na malých nožkách a plave v tekuté hornině pomocí ostrých křídel. K "
+"trávení horniny používá magma a vyplivuje hořící kuličky.]"
 
 #: creature_next_underground.txt:445
 msgctxt "CREATURE:MAGMA_CRAB"
@@ -28731,7 +28746,7 @@ msgstr ""
 #: creature_standard.txt:274
 msgctxt "CREATURE:DWARF"
 msgid "[PROFESSION_NAME:CRAFTSMAN:craftsdwarf:craftsdwarves]"
-msgstr ""
+msgstr "[PROFESSION_NAME:CRAFTSMAN:řemeslník:řemeslníci]"
 
 #: creature_standard.txt:275
 msgctxt "CREATURE:DWARF"
@@ -32733,6 +32748,8 @@ msgid ""
 "[DESCRIPTION:A serpent made of pure fire which can inject liquid fire as "
 "venom.]"
 msgstr ""
+"[DESCRIPTION:Had z čistého ohně, který dokáže vystřikovat tekutý oheň jako "
+"jed.]"
 
 #: creature_subterranean.txt:1334
 msgctxt "CREATURE:SNAKE_FIRE"
@@ -40649,7 +40666,7 @@ msgstr ""
 #: inorganic_metal.txt:53
 msgctxt "INORGANIC:GOLD"
 msgid "[STATE_NAME_ADJ:LIQUID:molten gold]"
-msgstr ""
+msgstr "[STATE_NAME_ADJ:LIQUID:roztavené zlato]"
 
 #: inorganic_metal.txt:54
 msgctxt "INORGANIC:GOLD"
@@ -40664,7 +40681,7 @@ msgstr ""
 #: inorganic_metal.txt:92
 msgctxt "INORGANIC:SILVER"
 msgid "[STATE_NAME_ADJ:LIQUID:molten silver]"
-msgstr ""
+msgstr "[STATE_NAME_ADJ:LIQUID:roztavené stříbro]"
 
 #: inorganic_metal.txt:93
 msgctxt "INORGANIC:SILVER"
@@ -40679,7 +40696,7 @@ msgstr ""
 #: inorganic_metal.txt:132
 msgctxt "INORGANIC:COPPER"
 msgid "[STATE_NAME_ADJ:LIQUID:molten copper]"
-msgstr ""
+msgstr "[STATE_NAME_ADJ:LIQUID:roztavená měď]"
 
 #: inorganic_metal.txt:133
 msgctxt "INORGANIC:COPPER"
@@ -40694,7 +40711,7 @@ msgstr ""
 #: inorganic_metal.txt:172
 msgctxt "INORGANIC:NICKEL"
 msgid "[STATE_NAME_ADJ:LIQUID:molten nickel]"
-msgstr ""
+msgstr "[STATE_NAME_ADJ:LIQUID:roztavený nikl]"
 
 #: inorganic_metal.txt:173
 msgctxt "INORGANIC:NICKEL"
@@ -40709,7 +40726,7 @@ msgstr ""
 #: inorganic_metal.txt:211
 msgctxt "INORGANIC:ZINC"
 msgid "[STATE_NAME_ADJ:LIQUID:molten zinc]"
-msgstr ""
+msgstr "[STATE_NAME_ADJ:LIQUID:roztavený zinek]"
 
 #: inorganic_metal.txt:212
 msgctxt "INORGANIC:ZINC"
@@ -40739,7 +40756,7 @@ msgstr ""
 #: inorganic_metal.txt:290
 msgctxt "INORGANIC:BRASS"
 msgid "[STATE_NAME_ADJ:LIQUID:molten brass]"
-msgstr ""
+msgstr "[STATE_NAME_ADJ:LIQUID:roztavená mosaz]"
 
 #: inorganic_metal.txt:291
 msgctxt "INORGANIC:BRASS"
@@ -40754,7 +40771,7 @@ msgstr ""
 #: inorganic_metal.txt:329
 msgctxt "INORGANIC:STEEL"
 msgid "[STATE_NAME_ADJ:LIQUID:molten steel]"
-msgstr ""
+msgstr "[STATE_NAME_ADJ:LIQUID:roztavená ocel]"
 
 #: inorganic_metal.txt:330
 msgctxt "INORGANIC:STEEL"
@@ -40769,7 +40786,7 @@ msgstr ""
 #: inorganic_metal.txt:369
 msgctxt "INORGANIC:PIG_IRON"
 msgid "[STATE_NAME_ADJ:LIQUID:molten pig iron]"
-msgstr ""
+msgstr "[STATE_NAME_ADJ:LIQUID:roztavené surové železo]"
 
 #: inorganic_metal.txt:370
 msgctxt "INORGANIC:PIG_IRON"
@@ -40784,7 +40801,7 @@ msgstr ""
 #: inorganic_metal.txt:404
 msgctxt "INORGANIC:PLATINUM"
 msgid "[STATE_NAME_ADJ:LIQUID:molten platinum]"
-msgstr ""
+msgstr "[STATE_NAME_ADJ:LIQUID:roztavená platina]"
 
 #: inorganic_metal.txt:405
 msgctxt "INORGANIC:PLATINUM"
@@ -40799,7 +40816,7 @@ msgstr ""
 #: inorganic_metal.txt:443
 msgctxt "INORGANIC:ELECTRUM"
 msgid "[STATE_NAME_ADJ:LIQUID:molten electrum]"
-msgstr ""
+msgstr "[STATE_NAME_ADJ:LIQUID:roztavené elektrum]"
 
 #: inorganic_metal.txt:444
 msgctxt "INORGANIC:ELECTRUM"
@@ -40814,7 +40831,7 @@ msgstr ""
 #: inorganic_metal.txt:485
 msgctxt "INORGANIC:TIN"
 msgid "[STATE_NAME_ADJ:LIQUID:molten tin]"
-msgstr ""
+msgstr "[STATE_NAME_ADJ:LIQUID:roztavený cín]"
 
 #: inorganic_metal.txt:486
 msgctxt "INORGANIC:TIN"
@@ -40874,7 +40891,7 @@ msgstr ""
 #: inorganic_metal.txt:641
 msgctxt "INORGANIC:LEAD"
 msgid "[STATE_NAME_ADJ:LIQUID:molten lead]"
-msgstr ""
+msgstr "[STATE_NAME_ADJ:LIQUID:roztavené olovo]"
 
 #: inorganic_metal.txt:642
 msgctxt "INORGANIC:LEAD"
@@ -40889,7 +40906,7 @@ msgstr ""
 #: inorganic_metal.txt:680
 msgctxt "INORGANIC:ALUMINUM"
 msgid "[STATE_NAME_ADJ:LIQUID:molten aluminum]"
-msgstr ""
+msgstr "[STATE_NAME_ADJ:LIQUID:roztavený hliník]"
 
 #: inorganic_metal.txt:681
 msgctxt "INORGANIC:ALUMINUM"
@@ -41869,7 +41886,7 @@ msgstr ""
 #: inorganic_stone_mineral.txt:51
 msgctxt "INORGANIC:NATIVE_GOLD"
 msgid "[STONE_NAME:gold nuggets]"
-msgstr ""
+msgstr "[STONE_NAME:zlaté nugety]"
 
 #: inorganic_stone_mineral.txt:52
 msgctxt "INORGANIC:NATIVE_GOLD"
@@ -41899,7 +41916,7 @@ msgstr ""
 #: inorganic_stone_mineral.txt:94
 msgctxt "INORGANIC:NATIVE_SILVER"
 msgid "[STONE_NAME:silver nuggets]"
-msgstr ""
+msgstr "[STONE_NAME:stříbrné nugety]"
 
 #: inorganic_stone_mineral.txt:95
 msgctxt "INORGANIC:NATIVE_SILVER"
@@ -41919,7 +41936,7 @@ msgstr ""
 #: inorganic_stone_mineral.txt:131
 msgctxt "INORGANIC:NATIVE_COPPER"
 msgid "[STONE_NAME:copper nuggets]"
-msgstr ""
+msgstr "[STONE_NAME:měděné nugety]"
 
 #: inorganic_stone_mineral.txt:136
 msgctxt "INORGANIC:NATIVE_COPPER"
@@ -41969,7 +41986,7 @@ msgstr "[STATE_NAME_ADJ:ALL_SOLID:hnědé uhlí]"
 #: inorganic_stone_mineral.txt:255
 msgctxt "INORGANIC:NATIVE_PLATINUM"
 msgid "[STONE_NAME:platinum nuggets]"
-msgstr ""
+msgstr "[STONE_NAME:platinové nugety]"
 
 #: inorganic_stone_mineral.txt:262
 msgctxt "INORGANIC:NATIVE_PLATINUM"
@@ -42379,12 +42396,12 @@ msgstr ""
 #: material_template_default.txt:68
 msgctxt "MATERIAL_TEMPLATE:METAL_TEMPLATE"
 msgid "[STATE_NAME:LIQUID:molten metal]"
-msgstr ""
+msgstr "[STATE_NAME:LIQUID:roztavený kov]"
 
 #: material_template_default.txt:69
 msgctxt "MATERIAL_TEMPLATE:METAL_TEMPLATE"
 msgid "[STATE_ADJ:LIQUID:molten metal]"
-msgstr ""
+msgstr "[STATE_ADJ:LIQUID:roztavený kov]"
 
 #: material_template_default.txt:71
 msgctxt "MATERIAL_TEMPLATE:METAL_TEMPLATE"
@@ -42789,12 +42806,12 @@ msgstr ""
 #: material_template_default.txt:1573
 msgctxt "MATERIAL_TEMPLATE:BLOOD_TEMPLATE"
 msgid "[STATE_NAME:LIQUID:blood]"
-msgstr ""
+msgstr "[STATE_NAME:LIQUID:krev]"
 
 #: material_template_default.txt:1574
 msgctxt "MATERIAL_TEMPLATE:BLOOD_TEMPLATE"
 msgid "[STATE_ADJ:LIQUID:blood]"
-msgstr ""
+msgstr "[STATE_ADJ:LIQUID:krev]"
 
 #: material_template_default.txt:1576
 msgctxt "MATERIAL_TEMPLATE:BLOOD_TEMPLATE"
@@ -43279,12 +43296,12 @@ msgstr ""
 #: material_template_default.txt:2446
 msgctxt "MATERIAL_TEMPLATE:PLANT_ALCOHOL_TEMPLATE"
 msgid "[STATE_NAME:LIQUID:alcohol]"
-msgstr ""
+msgstr "[STATE_NAME:LIQUID:alkohol]"
 
 #: material_template_default.txt:2447
 msgctxt "MATERIAL_TEMPLATE:PLANT_ALCOHOL_TEMPLATE"
 msgid "[STATE_ADJ:LIQUID:alcohol]"
-msgstr ""
+msgstr "[STATE_ADJ:LIQUID:alkohol]"
 
 #: material_template_default.txt:2449
 msgctxt "MATERIAL_TEMPLATE:PLANT_ALCOHOL_TEMPLATE"
@@ -43524,12 +43541,12 @@ msgstr ""
 #: material_template_default.txt:2840
 msgctxt "MATERIAL_TEMPLATE:PLANT_OIL_TEMPLATE"
 msgid "[STATE_NAME:LIQUID:vegetable oil]"
-msgstr ""
+msgstr "[STATE_NAME:LIQUID:rostlinný olej]"
 
 #: material_template_default.txt:2841
 msgctxt "MATERIAL_TEMPLATE:PLANT_OIL_TEMPLATE"
 msgid "[STATE_ADJ:LIQUID:vegetable oil]"
-msgstr ""
+msgstr "[STATE_ADJ:LIQUID:roslinný olej]"
 
 #: material_template_default.txt:2843
 msgctxt "MATERIAL_TEMPLATE:PLANT_OIL_TEMPLATE"
@@ -43554,12 +43571,12 @@ msgstr ""
 #: material_template_default.txt:2885
 msgctxt "MATERIAL_TEMPLATE:PLANT_SOAP_TEMPLATE"
 msgid "[STATE_NAME:LIQUID:melted soap]"
-msgstr ""
+msgstr "[STATE_NAME:LIQUID:roztavené mýdlo]"
 
 #: material_template_default.txt:2886
 msgctxt "MATERIAL_TEMPLATE:PLANT_SOAP_TEMPLATE"
 msgid "[STATE_ADJ:LIQUID:melted soap]"
-msgstr ""
+msgstr "[STATE_ADJ:LIQUID:roztavené mýdlo]"
 
 #: material_template_default.txt:2927
 msgctxt "MATERIAL_TEMPLATE:WAX_TEMPLATE"
@@ -43574,12 +43591,12 @@ msgstr ""
 #: material_template_default.txt:2930
 msgctxt "MATERIAL_TEMPLATE:WAX_TEMPLATE"
 msgid "[STATE_NAME:LIQUID:melted wax]"
-msgstr ""
+msgstr "[STATE_NAME:LIQUID:roztavený vosk]"
 
 #: material_template_default.txt:2931
 msgctxt "MATERIAL_TEMPLATE:WAX_TEMPLATE"
 msgid "[STATE_ADJ:LIQUID:melted wax]"
-msgstr ""
+msgstr "[STATE_ADJ:LIQUID:roztavený vosk]"
 
 #: material_template_default.txt:2973
 msgctxt "MATERIAL_TEMPLATE:CREATURE_ALCOHOL_TEMPLATE"
@@ -43594,12 +43611,12 @@ msgstr ""
 #: material_template_default.txt:2976
 msgctxt "MATERIAL_TEMPLATE:CREATURE_ALCOHOL_TEMPLATE"
 msgid "[STATE_NAME:LIQUID:alcohol]"
-msgstr ""
+msgstr "[STATE_NAME:LIQUID:alkohol]"
 
 #: material_template_default.txt:2977
 msgctxt "MATERIAL_TEMPLATE:CREATURE_ALCOHOL_TEMPLATE"
 msgid "[STATE_ADJ:LIQUID:alcohol]"
-msgstr ""
+msgstr "[STATE_ADJ:LIQUID:alkohol]"
 
 #: material_template_default.txt:2979
 msgctxt "MATERIAL_TEMPLATE:CREATURE_ALCOHOL_TEMPLATE"
@@ -43649,12 +43666,12 @@ msgstr ""
 #: material_template_default.txt:3082
 msgctxt "MATERIAL_TEMPLATE:INK_TEMPLATE"
 msgid "[STATE_NAME:LIQUID:ink]"
-msgstr ""
+msgstr "[STATE_NAME:LIQUID:inkoust]"
 
 #: material_template_default.txt:3083
 msgctxt "MATERIAL_TEMPLATE:INK_TEMPLATE"
 msgid "[STATE_ADJ:LIQUID:ink]"
-msgstr ""
+msgstr "[STATE_ADJ:LIQUID:inkoust]"
 
 #: material_template_default.txt:3085
 msgctxt "MATERIAL_TEMPLATE:INK_TEMPLATE"
@@ -43689,12 +43706,12 @@ msgstr ""
 #: material_template_default.txt:3170
 msgctxt "MATERIAL_TEMPLATE:TEARS_TEMPLATE"
 msgid "[STATE_NAME:LIQUID:tears]"
-msgstr ""
+msgstr "[STATE_NAME:LIQUID:slzy]"
 
 #: material_template_default.txt:3171
 msgctxt "MATERIAL_TEMPLATE:TEARS_TEMPLATE"
 msgid "[STATE_ADJ:LIQUID:tears]"
-msgstr ""
+msgstr "[STATE_ADJ:LIQUID:slzy]"
 
 #: material_template_default.txt:3173
 msgctxt "MATERIAL_TEMPLATE:TEARS_TEMPLATE"
@@ -43719,12 +43736,12 @@ msgstr ""
 #: material_template_default.txt:3215
 msgctxt "MATERIAL_TEMPLATE:SPIT_TEMPLATE"
 msgid "[STATE_NAME:LIQUID:spit]"
-msgstr ""
+msgstr "[STATE_NAME:LIQUID:plivanec]"
 
 #: material_template_default.txt:3216
 msgctxt "MATERIAL_TEMPLATE:SPIT_TEMPLATE"
 msgid "[STATE_ADJ:LIQUID:spit]"
-msgstr ""
+msgstr "[STATE_ADJ:LIQUID:plivanec]"
 
 #: material_template_default.txt:3218
 msgctxt "MATERIAL_TEMPLATE:SPIT_TEMPLATE"
@@ -43749,12 +43766,12 @@ msgstr ""
 #: material_template_default.txt:3260
 msgctxt "MATERIAL_TEMPLATE:SWEAT_TEMPLATE"
 msgid "[STATE_NAME:LIQUID:sweat]"
-msgstr ""
+msgstr "[STATE_NAME:LIQUID:pot]"
 
 #: material_template_default.txt:3261
 msgctxt "MATERIAL_TEMPLATE:SWEAT_TEMPLATE"
 msgid "[STATE_ADJ:LIQUID:sweat]"
-msgstr ""
+msgstr "[STATE_ADJ:LIQUID:pot]"
 
 #: material_template_default.txt:3263
 msgctxt "MATERIAL_TEMPLATE:SWEAT_TEMPLATE"
@@ -43789,7 +43806,7 @@ msgstr ""
 #: plant_crops.txt:15
 msgctxt "PLANT:SINGLE-GRAIN_WHEAT"
 msgid "[STATE_NAME_ADJ:LIQUID:single-grain wheat beer]"
-msgstr ""
+msgstr "[STATE_NAME_ADJ:LIQUID:pivo z jednozrné přenice]"
 
 #: plant_crops.txt:16
 msgctxt "PLANT:SINGLE-GRAIN_WHEAT"
@@ -43839,7 +43856,7 @@ msgstr ""
 #: plant_crops.txt:61
 msgctxt "PLANT:TWO-GRAIN_WHEAT"
 msgid "[STATE_NAME_ADJ:LIQUID:two-grain wheat beer]"
-msgstr ""
+msgstr "[STATE_NAME_ADJ:LIQUID:pivo z tvouzrné pšenice]"
 
 #: plant_crops.txt:62
 msgctxt "PLANT:TWO-GRAIN_WHEAT"
@@ -53924,7 +53941,7 @@ msgstr ""
 #: reaction_other.txt:186
 msgctxt "REACTION:GLAZE_CRAFT"
 msgid "[NAME:glaze clay/stone craft]"
-msgstr ""
+msgstr "[NAME:glazování jílových/kamenných výrobků]"
 
 #: reaction_other.txt:188
 msgctxt "REACTION:GLAZE_CRAFT"
