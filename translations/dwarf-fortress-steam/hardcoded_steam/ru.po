@@ -10752,15 +10752,15 @@ msgid ""
 "[C:1:0:1]Guildhalls[C:7:0:0] are where the workers of specific professions "
 "gather to socialize and share their knowledge. "
 msgstr ""
-"[C:1:0:1]Гильдии[C:7:0:0] - это места, где работники определенных профессий "
-"собираются, чтобы пообщаться и поделиться своими знаниями."
+"[C:1:0:1]Залы гильдий[C:7:0:0] - это места, где работники определенных "
+"профессий собираются, чтобы пообщаться и поделиться своими знаниями."
 
 #: stringdump_steam_50_11.txt:2501
 msgid ""
 "When deciding which guild to dedicate the [C:1:0:1]Guildhall[C:7:0:0] to, "
 "you can scroll over the names of the guilds "
 msgstr ""
-"Решая, какой гильдии посвятить [C:1:0:1]Гильдхолл[C:7:0:0], вы можете "
+"Решая, какой гильдии посвятить [C:1:0:1]Зал гильдии[C:7:0:0], вы можете "
 "пролистать названия гильдий"
 
 #: stringdump_steam_50_11.txt:2502
@@ -10775,9 +10775,8 @@ msgid ""
 "As the guild grows in power they may demand a [C:1:0:1]Guildhall[C:7:0:0] of"
 " greater value.  This can be increased by "
 msgstr ""
-"По мере роста могущества гильдии они могут потребовать "
-"[C:1:0:1]Гильдхолл[C:7:0:0] большей стоимости.  Это может быть увеличено "
-"путем"
+"По мере роста могущества гильдии они могут потребовать [C:1:0:1]Зал "
+"гильдии[C:7:0:0] большей стоимости.  Это может быть увеличено путем"
 
 #: stringdump_steam_50_11.txt:2504
 msgid ""
@@ -12273,11 +12272,11 @@ msgstr "Включить погоду"
 
 #: stringdump_steam_50_11.txt:2838
 msgid "Enable caveins"
-msgstr "Включить пещеры"
+msgstr "Включить обвалы"
 
 #: stringdump_steam_50_11.txt:2839
 msgid "Enable artifact moods"
-msgstr "Включение настроек артефактов"
+msgstr "Включение странных настроений"
 
 #: stringdump_steam_50_11.txt:2840
 msgid "Enable testing arena (on next title)"
@@ -12285,7 +12284,7 @@ msgstr "Включить арену тестирования (в следующ�
 
 #: stringdump_steam_50_11.txt:2841
 msgid "Walking spreads spatter"
-msgstr "При ходьбе разбрызгиваются брызги"
+msgstr "Ходьба создаёт брызги"
 
 #: stringdump_steam_50_11.txt:2842
 msgid "Keyboard cursor enabled"
@@ -12293,11 +12292,11 @@ msgstr "Курсор клавиатуры включен"
 
 #: stringdump_steam_50_11.txt:2843
 msgid "Log world generation map rejects"
-msgstr "Отключить журнал генерации мира"
+msgstr "Журналировать неудачные генерации мира"
 
 #: stringdump_steam_50_11.txt:2844
 msgid "Enable multithreading (experimental!)"
-msgstr "Включить многопоточность (экспериментально)"
+msgstr "Включить многопоточность (экспериментально!)"
 
 #: stringdump_steam_50_11.txt:2845
 msgid "Default embark width"
@@ -12365,7 +12364,7 @@ msgstr "Предел посетителей крепости"
 
 #: stringdump_steam_50_11.txt:2861
 msgid "Cull dead units at"
-msgstr "Ограничить количество мертвых юнитов на"
+msgstr "Забывать покойников после  "
 
 #: stringdump_steam_50_11.txt:2862
 msgid "Seed cap (per species)"
@@ -12377,7 +12376,7 @@ msgstr "Общий предел количества семян"
 
 #: stringdump_steam_50_11.txt:2864
 msgid "Engravings start obscured"
-msgstr "Гравюры начинают темнеть"
+msgstr "Гравюры непонятны до осмотра"
 
 #: stringdump_steam_50_11.txt:2865
 msgid "Show improvement quality in item names"
@@ -12433,15 +12432,15 @@ msgstr "Максимальное количество игровых кадро�
 
 #: stringdump_steam_50_11.txt:2878
 msgid "Key hold milliseconds before repeat"
-msgstr "Удерживайте клавишу миллисекунду перед повторением"
+msgstr "Миллисекунд удержания клавиши перед повторением"
 
 #: stringdump_steam_50_11.txt:2879
 msgid "Milliseconds for each key repeat"
-msgstr "Миллисекунды для каждого повтора клавиши"
+msgstr "Миллисекунд между каждым повтором клавиши"
 
 #: stringdump_steam_50_11.txt:2880
 msgid "Number of key repeats before accelerating"
-msgstr "Количество повторений клавиш перед ускорением"
+msgstr "Количество повторений клавиши перед ускорением"
 
 #: stringdump_steam_50_11.txt:2881
 msgid "Disabled"
@@ -12469,7 +12468,7 @@ msgstr "Цивилизации могут атаковать"
 
 #: stringdump_steam_50_11.txt:2887
 msgid "Megabeasts can attack"
-msgstr "Мегабисты могут атаковать"
+msgstr "Чудовища могут атаковать"
 
 #: stringdump_steam_50_11.txt:2888
 msgid "Werebeasts can attack"
@@ -12541,39 +12540,39 @@ msgstr "Триггер 5 прихода врагов при достижении
 
 #: stringdump_steam_50_11.txt:2905
 msgid "Megabeast attack period (seasons)"
-msgstr "Период атаки мегабистов (сезонов)"
+msgstr "Период атаки чудовищ (сезонов)"
 
 #: stringdump_steam_50_11.txt:2906
 msgid "Forgotten beast sensitivity (less = sooner)"
-msgstr "Чувствительность забытого зверя (меньше = быстрее)"
+msgstr "Чувствительность забытой твари (меньше = раньше)"
 
 #: stringdump_steam_50_11.txt:2907
 msgid "Forgotten beast irritation minimum (less = sooner)"
-msgstr "Забытая тварь раздражение минимум (меньше = быстрее)"
+msgstr "Минимум раздражения забытой твари (меньше = раньше)"
 
 #: stringdump_steam_50_11.txt:2908
 msgid "Forgotten beast wealth divisor (more = safer)"
-msgstr "Забытый зверь делитель богатства (больше = безопаснее)"
+msgstr "Делитель богатства для забытой твари (больше = безопаснее)"
 
 #: stringdump_steam_50_11.txt:2909
 msgid "Wilderness sensitivity (less = sooner)"
-msgstr "Чувствительность к дикой природе (меньше = быстрее)"
+msgstr "Чувствительность диких зверей (меньше = раньше)"
 
 #: stringdump_steam_50_11.txt:2910
 msgid "Wilderness irritation minimum (less = sooner)"
-msgstr "Минимум раздражения дикой природы (меньше = быстрее)"
+msgstr "Минимум раздражения диких зверей (меньше = раньше)"
 
 #: stringdump_steam_50_11.txt:2911
 msgid "Wilderness irritation decay (more = safer)"
-msgstr "Уменьшение раздражения дикой природы (больше = безопаснее)"
+msgstr "Снижение раздражения диких зверей (больше = безопаснее)"
 
 #: stringdump_steam_50_11.txt:2912
 msgid "Werebeast attack period (seasons)"
-msgstr "Период нападения чудовищ (сезоны)"
+msgstr "Период нападения оборотней (сезоны)"
 
 #: stringdump_steam_50_11.txt:2913
 msgid "Vampire migrant fraction (more = safer)"
-msgstr "Фракция мигрантов-вампиров (больше = безопаснее)"
+msgstr "Доля мигрирующих вампиров (больше = безопаснее)"
 
 #: stringdump_steam_50_11.txt:2914
 msgid "Invasion cap (regulars, attack one)"
@@ -12609,23 +12608,23 @@ msgstr "Минимальное количество рейдов между ос
 
 #: stringdump_steam_50_11.txt:2922
 msgid "Siege frequency (percentage, otherwise raid)"
-msgstr "Частота осады (в процентах, иначе набег)"
+msgstr "Частота осад (в процентах, иначе набег)"
 
 #: stringdump_steam_50_11.txt:2923
 msgid "Cavern dweller scale (increase per attack)"
-msgstr "Шкала пещерного жителя (увеличение за атаку)"
+msgstr "Шкала пещерных жителей (увеличение за атаку)"
 
 #: stringdump_steam_50_11.txt:2924
 msgid "Cavern dweller maximum attackers"
-msgstr "Максимальное количество атакующих жителей пещер"
+msgstr "Максимальное количество атакующих пещерных жителей"
 
 #: stringdump_steam_50_11.txt:2925
 msgid "Diplomacy tree-fell count"
-msgstr "Дипломатия количество упавших деревьев"
+msgstr "Дипломатия по объёмам вырубки"
 
 #: stringdump_steam_50_11.txt:2926
 msgid "Diplomacy tree-fell count (untamed wilds)"
-msgstr "Дипломатия граф деревьев (нетронутые дикие земли)"
+msgstr "Дипломатия по объёмам вырубки (дикие дебри)"
 
 #: stringdump_steam_50_11.txt:2927
 msgid "Economy population trigger 1"
@@ -12705,27 +12704,27 @@ msgstr "Триггер землевладения от торговли"
 
 #: stringdump_steam_50_11.txt:2946
 msgid "Value of temple"
-msgstr "Значение храма"
+msgstr "Стоимость храма"
 
 #: stringdump_steam_50_11.txt:2947
 msgid "Value of temple complex"
-msgstr "Значение храмового комплекса"
+msgstr "Стоимость храмового комплекса"
 
 #: stringdump_steam_50_11.txt:2948
 msgid "Priesthood unit count"
-msgstr "Количество единиц священства"
+msgstr "Количество священнослужителей"
 
 #: stringdump_steam_50_11.txt:2949
 msgid "High priesthood unit count"
-msgstr "Количество единиц высшего священства"
+msgstr "Количество высших священнослужителей"
 
 #: stringdump_steam_50_11.txt:2950
 msgid "Value of guildhall"
-msgstr "Значение гильдхолла"
+msgstr "Стоимость зала гильдии"
 
 #: stringdump_steam_50_11.txt:2951
 msgid "Value of grand guildhall"
-msgstr "Значение великого гильдхолла"
+msgstr "Значение великого зала гильдии"
 
 #: stringdump_steam_50_11.txt:2952
 msgid "Guild unit count"
@@ -12737,11 +12736,11 @@ msgstr "Количество подразделений большой гиль�
 
 #: stringdump_steam_50_11.txt:2954
 msgid "Mandate period (more = fewer)"
-msgstr "Мандатный период (больше = меньше)"
+msgstr "Периодичность поручений (больше = реже)"
 
 #: stringdump_steam_50_11.txt:2955
 msgid "Demand period (more = fewer)"
-msgstr "Период спроса (больше = меньше)"
+msgstr "Периодичность требований (больше = реже)"
 
 #: stringdump_steam_50_11.txt:2957
 msgid "Failed to open "
@@ -12765,7 +12764,7 @@ msgstr "пожирал наш скот"
 
 #: stringdump_steam_50_11.txt:3061
 msgid "an underworld spire"
-msgstr "подземный пик"
+msgstr "шпиль преисподней"
 
 #: stringdump_steam_50_11.txt:3063
 msgid "Eek!"
@@ -13229,11 +13228,11 @@ msgstr "Временная шкала:"
 
 #: stringdump_steam_50_11.txt:3187
 msgid " saves"
-msgstr "Сохранения"
+msgstr "сохранения"
 
 #: stringdump_steam_50_11.txt:3188
 msgid " save"
-msgstr "Сохранить"
+msgstr "сохранить"
 
 #: stringdump_steam_50_11.txt:3189
 msgid "Folder: "
@@ -13313,7 +13312,7 @@ msgstr "строке"
 
 #: stringdump_steam_50_11.txt:3336
 msgid "There is no specific information for this activity."
-msgstr "Нет никакой конкретной информации об этой деятельности."
+msgstr "Нет подробной информации об этой деятельности."
 
 #: stringdump_steam_50_11.txt:3337
 msgid "The topic being considered is "
@@ -13329,25 +13328,25 @@ msgstr "Ведётся обучение по теме"
 
 #: stringdump_steam_50_11.txt:3340
 msgid "The topic being written about is "
-msgstr "Эта тема записывается о том,"
+msgstr "Пишется работа по теме "
 
 #: stringdump_steam_50_11.txt:3341
 msgid "This organizational activity will branch into specific social events."
 msgstr ""
-"Эта организационная деятельность будет разветвляться в определенных "
-"социальных событиях"
+"Эта организационная деятельность будет разделяться на определенные "
+"социальные события."
 
 #: stringdump_steam_50_11.txt:3342
 msgid "This organizational activity will branch into specific worship events."
 msgstr ""
-"Эта организационная деятельность будет разветвляться в определенных событиях"
-" поклонения."
+"Эта организационная деятельность будет разделяться на определенные "
+"религиозные события."
 
 #: stringdump_steam_50_11.txt:3343
 msgid "This organizational activity will branch into specific play events."
 msgstr ""
-"Эта организационная деятельность будет разветвляться в определенных игровых "
-"событиях"
+"Эта организационная деятельность будет разделяться на определенные игровые "
+"события."
 
 #: stringdump_steam_50_11.txt:3344
 msgid ""
@@ -13498,7 +13497,7 @@ msgstr "сыграв на симпатии"
 
 #: stringdump_steam_50_11.txt:3386
 msgid " by appealing to a shared worship of "
-msgstr "призывая к коллективному поклонению"
+msgstr "апеллируя к общим верованиям"
 
 #: stringdump_steam_50_11.txt:3387
 msgid "offered revenge upon "
@@ -13506,23 +13505,23 @@ msgstr "предложил месть против"
 
 #: stringdump_steam_50_11.txt:3388
 msgid "a jealous grudge, "
-msgstr "завистник, "
+msgstr "завистника, "
 
 #: stringdump_steam_50_11.txt:3389
 msgid "a business rival,"
-msgstr "конкурент,"
+msgstr "конкурента,"
 
 #: stringdump_steam_50_11.txt:3390
 msgid "the tormentor "
-msgstr "мучитель"
+msgstr "мучителя"
 
 #: stringdump_steam_50_11.txt:3391
 msgid "the persecutor "
-msgstr "преследователь"
+msgstr "преследователя"
 
 #: stringdump_steam_50_11.txt:3392
 msgid "a grudge, "
-msgstr "недруг,"
+msgstr "недруга,"
 
 #: stringdump_steam_50_11.txt:3393
 msgid "the sacrilegious"
@@ -13586,11 +13585,11 @@ msgstr ", несмотря на"
 
 #: stringdump_steam_50_11.txt:3408
 msgid "loathing the powerful"
-msgstr "ненавидя мощных"
+msgstr "ненавидя власть имущих"
 
 #: stringdump_steam_50_11.txt:3409
 msgid "valuing the law"
-msgstr "ценя закон"
+msgstr "уважая закон"
 
 #: stringdump_steam_50_11.txt:3410
 msgid "lack of respect of"
@@ -13626,11 +13625,11 @@ msgstr "отверг закон и охотно согласился"
 
 #: stringdump_steam_50_11.txt:3418
 msgid "being unafraid in the moment"
-msgstr "сейчас не боится "
+msgstr "не боясь на данный момент "
 
 #: stringdump_steam_50_11.txt:3419
 msgid "being unafraid of death"
-msgstr "не боится смерти"
+msgstr "не убоясь смерти"
 
 #: stringdump_steam_50_11.txt:3420
 msgid "being unafraid"
@@ -13658,7 +13657,7 @@ msgstr "быть готовым принять смерть"
 
 #: stringdump_steam_50_11.txt:3426
 msgid "respected"
-msgstr "уважаемый"
+msgstr "отнёсся с уважением"
 
 #: stringdump_steam_50_11.txt:3427
 msgid "complied out of fear of"
@@ -13674,20 +13673,20 @@ msgstr "согласился будучи верным"
 
 #: stringdump_steam_50_11.txt:3430
 msgid "trusted"
-msgstr "доверенный"
+msgstr "доверился"
 
 #: stringdump_steam_50_11.txt:3431
 msgid " and agreed"
-msgstr "и согласились"
+msgstr "и согласился"
 
 #: stringdump_steam_50_11.txt:3432
 msgid "  Effective pressure to comply came from co-conspirators surrounding "
 msgstr ""
-"Эффективное давление для соблюдения со стороны соучастников, окружающих"
+" Эффективное давление для соблюдения со стороны соучастников, окружающих"
 
 #: stringdump_steam_50_11.txt:3433
 msgid "  The plan worked."
-msgstr "План сработал."
+msgstr " План сработал."
 
 #: stringdump_steam_50_11.txt:3434
 msgid "was unafraid in the moment"
@@ -13723,7 +13722,7 @@ msgstr "смирился с возможной смертью и отказал�
 
 #: stringdump_steam_50_11.txt:3442
 msgid "admiration of power"
-msgstr "восхищение силой"
+msgstr "восхищение властью"
 
 #: stringdump_steam_50_11.txt:3443
 msgid "disdaining the law"
@@ -13755,11 +13754,11 @@ msgstr "усилия сообщников по дальнейшему разви
 
 #: stringdump_steam_50_11.txt:3450
 msgid "loathed abuses of power and refused"
-msgstr "ненавидел злоупотреблять властью и отказался"
+msgstr "ненавидел злоупотребления властью и отказался"
 
 #: stringdump_steam_50_11.txt:3451
 msgid "valued the law and refused"
-msgstr "оценил закон и отклонил"
+msgstr "уважал закон и отказался"
 
 #: stringdump_steam_50_11.txt:3452
 msgid "fearing of death"
@@ -13791,7 +13790,7 @@ msgstr "нежелание принять смерть"
 
 #: stringdump_steam_50_11.txt:3459
 msgid "had no respect for"
-msgstr "не имеет уважения"
+msgstr "не уважал"
 
 #: stringdump_steam_50_11.txt:3460
 msgid "was unafraid of"
@@ -13799,11 +13798,11 @@ msgstr "не боялся"
 
 #: stringdump_steam_50_11.txt:3461
 msgid "hated"
-msgstr "ненавидимый"
+msgstr "ненавидел"
 
 #: stringdump_steam_50_11.txt:3462
 msgid "felt no loyalty to"
-msgstr "не чувствует преданность к"
+msgstr "не был предан"
 
 #: stringdump_steam_50_11.txt:3463
 msgid "distrusted"
@@ -13811,7 +13810,7 @@ msgstr "доверяли"
 
 #: stringdump_steam_50_11.txt:3464
 msgid "and refused"
-msgstr "и отказались"
+msgstr "и отказался"
 
 #: stringdump_steam_50_11.txt:3465
 msgid "  Allies surrounding "
@@ -13835,15 +13834,15 @@ msgstr ", как "
 
 #: stringdump_steam_50_11.txt:3470
 msgid " attempted to corrupt "
-msgstr "попытался испортить"
+msgstr "пытался коррумпировать"
 
 #: stringdump_steam_50_11.txt:3471
 msgid " subordinated "
-msgstr "подчиняется"
+msgstr "подчинялся"
 
 #: stringdump_steam_50_11.txt:3472
 msgid " corrupted "
-msgstr "искажён"
+msgstr "коррумпирован"
 
 #: stringdump_steam_50_11.txt:3473
 msgid "spouse "
@@ -13883,7 +13882,7 @@ msgstr "отец"
 
 #: stringdump_steam_50_11.txt:3482
 msgid "master "
-msgstr "хозяин"
+msgstr "наставник"
 
 #: stringdump_steam_50_11.txt:3483
 msgid "apprentice "
@@ -13927,7 +13926,7 @@ msgstr "в целях обеспечения сохранности растра
 
 #: stringdump_steam_50_11.txt:3493
 msgid " in order to have someone to act on plots and schemes in "
-msgstr "для того чтобы было кому действовать по заговорам и схемам в"
+msgstr "для того, чтобы найти исполнителей своих планов в"
 
 #: stringdump_steam_50_11.txt:3494
 msgid " in order to have law enforcement look the other way in "
@@ -13939,7 +13938,7 @@ msgstr "в качестве члена "
 
 #: stringdump_steam_50_11.txt:3496
 msgid " toward the fulfillment of plots and schemes in "
-msgstr "к выполнению целей и схем в"
+msgstr "к выполнению замышляемых планов в"
 
 #: stringdump_steam_50_11.txt:3497
 msgid " in order to have an agent in "
@@ -13951,7 +13950,7 @@ msgstr "дебрях"
 
 #: stringdump_steam_50_11.txt:3499
 msgid "the corruption of "
-msgstr "порча"
+msgstr "коррумпирование"
 
 #: stringdump_steam_50_11.txt:3500
 msgid "the failed attempt by "
@@ -13959,7 +13958,7 @@ msgstr "неудачная попытка"
 
 #: stringdump_steam_50_11.txt:3501
 msgid " to corrupt "
-msgstr "испортить"
+msgstr "коррумпировать"
 
 #: stringdump_steam_50_11.txt:3502
 msgid "Subject revealed that in "
@@ -13967,7 +13966,7 @@ msgstr "Субъект сообщил, что в"
 
 #: stringdump_steam_50_11.txt:3503
 msgid "a corrupt agreement was formed"
-msgstr "сформировано испорченное соглашение"
+msgstr "сформировано коррупционное соглашение"
 
 #: stringdump_steam_50_11.txt:3504
 msgid "an unknown party"
@@ -13995,7 +13994,7 @@ msgstr "скрытие подкупа"
 
 #: stringdump_steam_50_11.txt:3510
 msgid " plotted to infiltrate "
-msgstr "отмечен как цель проникновения"
+msgstr "планировал внедриться"
 
 #: stringdump_steam_50_11.txt:3511
 msgid " in order to "
@@ -14023,7 +14022,7 @@ msgstr "подошел"
 
 #: stringdump_steam_50_11.txt:3517
 msgid " to handle the matter directly or through another party"
-msgstr "решать вопрос напрямую или через другую сторону"
+msgstr "решать вопрос напрямую или через посредника"
 
 #: stringdump_steam_50_11.txt:3518
 msgid " under the influence of "
@@ -14031,7 +14030,7 @@ msgstr "под влиянием"
 
 #: stringdump_steam_50_11.txt:3519
 msgid " plotted to frame "
-msgstr "заговор, чтобы подставить"
+msgstr "планировал подставить"
 
 #: stringdump_steam_50_11.txt:3520
 msgid " for "
@@ -14051,7 +14050,7 @@ msgstr "нарушение приказа о работе"
 
 #: stringdump_steam_50_11.txt:3524
 msgid "a conspiracy to slow labor"
-msgstr "сокрытие медленной работы"
+msgstr "заговор для замедления работ"
 
 #: stringdump_steam_50_11.txt:3525
 msgid "murder"
@@ -14119,7 +14118,7 @@ msgstr "обманом"
 
 #: stringdump_steam_50_11.txt:3541
 msgid " plotted to induce a war of "
-msgstr "заговор, чтобы объявить войну"
+msgstr "заговор, чтобы вызвать войну"
 
 #: stringdump_steam_50_11.txt:3542
 msgid " upon "
@@ -14127,7 +14126,7 @@ msgstr "на"
 
 #: stringdump_steam_50_11.txt:3543
 msgid " plotted to sabotage the activities of "
-msgstr "отмечен как цель саботажа деятельности"
+msgstr "планировал подрывать деятельность "
 
 #: stringdump_steam_50_11.txt:3544
 msgid " via "
@@ -14135,19 +14134,19 @@ msgstr "с помощью"
 
 #: stringdump_steam_50_11.txt:3545
 msgid " plotted to abduct "
-msgstr "отмечен как цель похищения"
+msgstr "планировал похитить "
 
 #: stringdump_steam_50_11.txt:3546
 msgid " plotted to assassinate "
-msgstr "отмечен как цель убийства"
+msgstr "планировал убить "
 
 #: stringdump_steam_50_11.txt:3547
 msgid " plotted to steal "
-msgstr "отмечен как цель кражи"
+msgstr "планировал украсть "
 
 #: stringdump_steam_50_11.txt:3548
 msgid " promised "
-msgstr "обещан"
+msgstr "обещал"
 
 #: stringdump_steam_50_11.txt:3549
 msgid " to give "
@@ -14179,7 +14178,7 @@ msgstr " способствовал "
 
 #: stringdump_steam_50_11.txt:3556
 msgid " in becoming a permanent part of the living world"
-msgstr ", становясь постоянной частью мира,"
+msgstr ", становясь постоянной мира смертных,"
 
 #: stringdump_steam_50_11.txt:3557
 msgid ".  The ritual took place in "
@@ -14187,11 +14186,11 @@ msgstr ". Ритуал был выполнен в "
 
 #: stringdump_steam_50_11.txt:3558
 msgid " using "
-msgstr " использование "
+msgstr " используя "
 
 #: stringdump_steam_50_11.txt:3559
 msgid ".  The ritual involved "
-msgstr ". Ритуал включает"
+msgstr ". Ритуал включал"
 
 #: stringdump_steam_50_11.txt:3560
 msgid " agreed to a parley with "
@@ -14247,7 +14246,7 @@ msgstr ", чтобы жить жизнью полной приключений"
 
 #: stringdump_steam_50_11.txt:3573
 msgid " after being compelled to serve"
-msgstr " после был заставлен служить"
+msgstr " после того как был заставлен служить"
 
 #: stringdump_steam_50_11.txt:3574
 msgid " as a guide"
@@ -14267,7 +14266,7 @@ msgstr "согласились основать"
 
 #: stringdump_steam_50_11.txt:3578
 msgid "a grand guildhall"
-msgstr "большой зал гильдии"
+msgstr "великий зал гильдии"
 
 #: stringdump_steam_50_11.txt:3579
 msgid "a guildhall"
@@ -14283,7 +14282,7 @@ msgstr "храм"
 
 #: stringdump_steam_50_11.txt:3582
 msgid "the formation of a corrupt agreement"
-msgstr "создание испорченного соглашения"
+msgstr "заключения коррупционного соглашения"
 
 #: stringdump_steam_50_11.txt:3583
 msgid "the embezzlement conspiracy"
@@ -14363,7 +14362,7 @@ msgstr "постоянное присоединение"
 
 #: stringdump_steam_50_11.txt:3602
 msgid " to the living world"
-msgstr " в дикий мир"
+msgstr " в мир смертных"
 
 #: stringdump_steam_50_11.txt:3603
 msgid "the parley between "
@@ -14419,31 +14418,31 @@ msgstr "Неопознанный"
 
 #: stringdump_steam_50_11.txt:3617
 msgid "A plot"
-msgstr "Место"
+msgstr "Заговор"
 
 #: stringdump_steam_50_11.txt:3618
 msgid "Sabotage"
-msgstr "Саботировать"
+msgstr "Саботаж"
 
 #: stringdump_steam_50_11.txt:3619
 msgid "Abduct"
-msgstr "Поихитить"
+msgstr "Поихищение"
 
 #: stringdump_steam_50_11.txt:3620
 msgid "Assassinate"
-msgstr "Убить"
+msgstr "Убийство"
 
 #: stringdump_steam_50_11.txt:3621
 msgid "Steal"
-msgstr "Украсть"
+msgstr "Кража"
 
 #: stringdump_steam_50_11.txt:3622
 msgid "Corrupt"
-msgstr "Испортить"
+msgstr "Коррупция"
 
 #: stringdump_steam_50_11.txt:3623
 msgid "Provide Position"
-msgstr "Предоставить должность"
+msgstr "Предоставление должности"
 
 #: stringdump_steam_50_11.txt:3624
 msgid "Attempted Embezzlement"
@@ -14459,7 +14458,7 @@ msgstr "Попытка подкупа"
 
 #: stringdump_steam_50_11.txt:3627
 msgid "Infiltrate"
-msgstr "Проникнуть"
+msgstr "Проникновение"
 
 #: stringdump_steam_50_11.txt:3628
 msgid "Frame"
@@ -14499,11 +14498,11 @@ msgstr "Похит"
 
 #: stringdump_steam_50_11.txt:3638
 msgid "Sabtr"
-msgstr "Диверс"
+msgstr "Дврснт"
 
 #: stringdump_steam_50_11.txt:3639
 msgid "Framr"
-msgstr "Подстав"
+msgstr "Пдстав"
 
 #: stringdump_steam_50_11.txt:3640
 msgid "Asset"
@@ -14579,7 +14578,7 @@ msgstr "будучи безымянным"
 
 #: stringdump_steam_50_11.txt:3659
 msgid " is in fact an assumed identity.  Subject's true name is "
-msgstr "в факте скрытия своей личности. Настоящее имя субъекта - "
+msgstr "на самом деле выдуманное имя. Настоящее имя субъекта - "
 
 #: stringdump_steam_50_11.txt:3660
 msgid "Subject has used "
@@ -14707,7 +14706,7 @@ msgstr "оспаривая ценность честности"
 
 #: stringdump_steam_50_11.txt:3691
 msgid "spurning the law"
-msgstr "сомнение в законе"
+msgstr "усомнившись в законе"
 
 #: stringdump_steam_50_11.txt:3692
 msgid " interrogator"
@@ -14727,7 +14726,7 @@ msgstr "ценил честность"
 
 #: stringdump_steam_50_11.txt:3696
 msgid "value the law"
-msgstr "ценил закон"
+msgstr "уважал закон"
 
 #: stringdump_steam_50_11.txt:3697
 msgid "being intellectually stubborn"
@@ -14814,7 +14813,7 @@ msgid ""
 "  In retrospect, interrogator may have completely misjudged subject's "
 "character."
 msgstr ""
-" В ретроспективе, следователь мог полностью ошибиться в оценке характера "
+" Если подумать, возможно следователь глубоко ошибся в оценке характера "
 "субъекта."
 
 #: stringdump_steam_50_11.txt:3718
@@ -14827,11 +14826,12 @@ msgstr "Я чувствую душевный подъём!"
 
 #: stringdump_steam_50_11.txt:3720
 msgid "has a long, thin frame, frail with very little fat"
-msgstr "имеет длинное, тонкое и хилое тело с очень малым количеством жира"
+msgstr "имеет вытянутое, хрупкое, утончённое телосложение почти без жира"
 
 #: stringdump_steam_50_11.txt:3721
 msgid "has a long, thin body that is somewhat weak with little fat"
-msgstr "имеет длинное, тонкое и довольно слабое тело с малым количеством жира"
+msgstr ""
+"имеет вытянутое, утончённое тело почти без жира и со слабой мускулатурой"
 
 #: stringdump_steam_50_11.txt:3722
 msgid "is broad and fat"
@@ -14843,11 +14843,11 @@ msgstr "невероятно высокий и тощий"
 
 #: stringdump_steam_50_11.txt:3724
 msgid "is very skinny and even more tall"
-msgstr "очень худой и ещё более высокий"
+msgstr "очень худой и в ещё большей степени - высокий"
 
 #: stringdump_steam_50_11.txt:3725
 msgid "is very frail with an extremely tall and skinny body"
-msgstr "очень хрупкий с очень высоким и худым телом"
+msgstr "очень хрупкий, с крайне вытянутым, худощавым телом"
 
 #: stringdump_steam_50_11.txt:3726
 msgid "is very tall with a hanging apron of lard"
@@ -14867,27 +14867,27 @@ msgstr "мускулистый и очень высокий"
 
 #: stringdump_steam_50_11.txt:3730
 msgid "has much fat on a very thin frame"
-msgstr "имеет тонкое тело, покрытое большим количеством жира"
+msgstr "под большим количеством жира имеет изящное телосложение"
 
 #: stringdump_steam_50_11.txt:3731
 msgid "has a very thin frame with a bit of fat on it"
-msgstr "имеет очень тонкое тело с небольшим количеством жира"
+msgstr "имеет утончённое телосложение с небольшим количеством жира"
 
 #: stringdump_steam_50_11.txt:3732
 msgid "is very thin"
-msgstr "очень тонкий"
+msgstr "имеет утончённое телосложение"
 
 #: stringdump_steam_50_11.txt:3733
 msgid "has a thin frame but it is loaded with muscles and great layers of fat"
-msgstr "имеет тонкое сложение, но покрыт мышцами и большим слои жира"
+msgstr "имеет утончённое телосложение, но очень мускулист и жирен"
 
 #: stringdump_steam_50_11.txt:3734
 msgid "is muscular and very thin"
-msgstr "мускулистый и очень тонкий"
+msgstr "мускулистый и имеет утончённое телосложение"
 
 #: stringdump_steam_50_11.txt:3735
 msgid "is very thin and weak"
-msgstr "очень тонкий и слабый"
+msgstr "слабый и имеет утончённое телосложение"
 
 #: stringdump_steam_50_11.txt:3736
 msgid "is weak and very thin"
@@ -19328,8 +19328,7 @@ msgstr ""
 
 #: stringdump_steam_50_11.txt:4861
 msgid "Toggle whether goods banned by export mandates are listed."
-msgstr ""
-"Переключите, перечислены ли товары, запрещенные экспортными мандатами."
+msgstr "Переключает, показывать ли товары, запрещенные для экспорта."
 
 #: stringdump_steam_50_11.txt:4862
 msgid "Sort by distance from the depot."
@@ -21411,7 +21410,7 @@ msgstr "Первосвященник для"
 
 #: stringdump_steam_50_11.txt:5221
 msgid "A Grand Guildhall for "
-msgstr "Большой зал гильдии для"
+msgstr "Великий зал гильдии для"
 
 #: stringdump_steam_50_11.txt:5222
 msgid "Parley with "
@@ -30695,11 +30694,11 @@ msgstr "Счетная Палата"
 
 #: stringdump_steam_50_11.txt:7548
 msgid "Guildhall Offices"
-msgstr "Зал гильдии"
+msgstr "Кабинеты зала гильдии"
 
 #: stringdump_steam_50_11.txt:7549
 msgid "Guildhall Storage"
-msgstr "Хранилище ратуши"
+msgstr "Хранилище зала гильдии"
 
 #: stringdump_steam_50_11.txt:7550
 msgid "Market Stall"
@@ -37571,11 +37570,11 @@ msgstr "Не хватает клеток и цепей."
 
 #: stringdump_steam_50_11.txt:9327
 msgid "My mandate was ignored."
-msgstr "Мой мандат был проигнорирован."
+msgstr "Моё поручение было проигнорировано."
 
 #: stringdump_steam_50_11.txt:9328
 msgid "A mandate deadline was missed."
-msgstr "Крайний срок мандата был пропущен."
+msgstr "Крайний срок поручения был пропущен."
 
 #: stringdump_steam_50_11.txt:9329
 msgid "There wasn't enough work last season."
@@ -44479,7 +44478,7 @@ msgstr "Шедевральная еда"
 
 #: stringdump_steam_50_11.txt:12901
 msgid "Mandate ends"
-msgstr "Мандат завершился"
+msgstr "Поручение окончено"
 
 #: stringdump_steam_50_11.txt:12902
 msgid "Diplomat bids farewell"
@@ -44519,7 +44518,7 @@ msgstr "Новое требование"
 
 #: stringdump_steam_50_11.txt:12911
 msgid "New mandate"
-msgstr "Новый мандат"
+msgstr "Новое поручение"
 
 #: stringdump_steam_50_11.txt:12912
 msgid "Local resident creature named"
@@ -53931,7 +53930,7 @@ msgstr "запрос проигнорирован"
 
 #: stringdump_steam_50_11.txt:16792
 msgid "nobody to punish for failed mandate"
-msgstr "никто не накажет за проваленное поручение"
+msgstr "некого наказать за проваленное поручение"
 
 #: stringdump_steam_50_11.txt:16793
 msgid "personal punishment delayed"
@@ -53947,11 +53946,11 @@ msgstr "недостаточно зданий суда"
 
 #: stringdump_steam_50_11.txt:16796
 msgid "mandate ignored"
-msgstr "поручение проигнорирован"
+msgstr "поручение проигнорировано"
 
 #: stringdump_steam_50_11.txt:16797
 msgid "mandate only partially completed"
-msgstr "поручение завершено лишь частично"
+msgstr "поручение выполнено лишь частично"
 
 #: stringdump_steam_50_11.txt:16798
 msgid "destroyed building"
@@ -54719,15 +54718,15 @@ msgstr "признание храма сущности"
 
 #: stringdump_steam_50_11.txt:16989
 msgid "guildhall petition rejected"
-msgstr "петиция о постройке здания гильдии отклонено"
+msgstr "петиция о постройке зала гильдии отклонена"
 
 #: stringdump_steam_50_11.txt:16990
 msgid "guildhall petition ignored"
-msgstr "петиция о постройке здания гильдии проигнорировано"
+msgstr "петиция о постройке зала гильдии проигнорирована"
 
 #: stringdump_steam_50_11.txt:16991
 msgid "guildhall agreement abandoned"
-msgstr "соглашение о постройке здания гильдии не выполнено"
+msgstr "соглашение о постройке зала гильдии не выполнено"
 
 #: stringdump_steam_50_11.txt:16992
 msgid "is entity subordinate"
@@ -58550,7 +58549,7 @@ msgstr "пытался подставить"
 
 #: stringdump_steam_50_11.txt:18009
 msgid "conspiracy to slow labor"
-msgstr "сокрытие медленной работы"
+msgstr "заговор для замедления работ"
 
 #: stringdump_steam_50_11.txt:18010
 msgid " at the behest of "
@@ -67726,7 +67725,7 @@ msgstr "Игнорировать"
 
 #: stringdump_steam_50_11.txt:23764
 msgid "Year to Begin Checking Megabeast Percentage"
-msgstr "Год начала проверки процента мегачудовищ"
+msgstr "Год начала проверки процента чудовищ"
 
 #: stringdump_steam_50_11.txt:23765
 msgid "Cull Unimportant Historical Figures"
@@ -67890,7 +67889,7 @@ msgstr "Редкость минералов (чем число меньше, т�
 
 #: stringdump_steam_50_11.txt:23805
 msgid "Max Megabeast Caves"
-msgstr "Максимум пещер мегачудовищ"
+msgstr "Максимум пещер чудовищ"
 
 #: stringdump_steam_50_11.txt:23806
 msgid "No Beasts"
@@ -67898,7 +67897,7 @@ msgstr "Без чудовищ"
 
 #: stringdump_steam_50_11.txt:23807
 msgid "Max Semimegabeast Caves"
-msgstr "Максимум пещер чудовищ"
+msgstr "Максимум пещер полу-чудовищ"
 
 #: stringdump_steam_50_11.txt:23808
 msgid "Titan Number"
@@ -73428,7 +73427,7 @@ msgstr "принятие ходатайства о храме для"
 
 #: stringdump_steam_50_11.txt:25355
 msgid "the establishment of a guildhall for "
-msgstr "создание ратуши для"
+msgstr "создание зала гильдии для"
 
 #: stringdump_steam_50_11.txt:25356
 msgid "the acceptance of a petition for a guildhall for "
@@ -73476,15 +73475,15 @@ msgstr " был не выполнен "
 
 #: stringdump_steam_50_11.txt:25367
 msgid "the rejection of a petition for a guildhall for "
-msgstr "отклонение петиции о создании гильдии для "
+msgstr "отклонение петиции о создании зала гильдии для "
 
 #: stringdump_steam_50_11.txt:25368
 msgid "a petition for a guildhall for "
-msgstr "петиция о создании гильдии для "
+msgstr "петиция о создании зала гильдии для "
 
 #: stringdump_steam_50_11.txt:25369
 msgid "an agreement to construct a guildhall for "
-msgstr "соглашение о строительстве здания гильдии для "
+msgstr "соглашение о строительстве зала гильдии для "
 
 #: stringdump_steam_50_11.txt:25370
 msgid "being denied citizenship"
@@ -73552,7 +73551,7 @@ msgstr "был сбит во время обвала"
 
 #: stringdump_steam_50_11.txt:25386
 msgid "a mandate deadline met"
-msgstr "срок выполнения мандата соблюден"
+msgstr "срок выполнения поручения соблюден"
 
 #: stringdump_steam_50_11.txt:25387
 msgid "uncovered"
@@ -74747,7 +74746,7 @@ msgstr " завершил поручение."
 
 #: stringdump_steam_50_11.txt:25678
 msgid "A mandate has ended."
-msgstr "Поручение закончилось."
+msgstr "Поручение окончено."
 
 #: stringdump_steam_50_11.txt:25679
 msgid "Wagon Pathing Catastrophe"
@@ -92704,7 +92703,7 @@ msgstr " забыл о требовании."
 
 #: stringdump_steam_50_11.txt:37842
 msgid " has a new demand."
-msgstr " придумал новое требование."
+msgstr " выдвинул новое требование."
 
 #: stringdump_steam_50_11.txt:37843
 msgid " has mandated the construction of certain goods."
@@ -93016,7 +93015,7 @@ msgstr "Захватчики!  Прогоним их!"
 
 #: stringdump_steam_50_11.txt:37920
 msgid "Cavern dwellers!  Send them back to the darkness!"
-msgstr "Пещерное отродье! Гони их обратно во тьму!"
+msgstr "Пещерные жители! Гоните их обратно во тьму!"
 
 #: stringdump_steam_50_11.txt:37921
 msgid "An ambush!  Skulking vermin!"
@@ -93948,7 +93947,7 @@ msgstr " волочется по земле"
 
 #: stringdump_steam_50_11.txt:38158
 msgid "'s mandate has ended."
-msgstr " поручение закончилось."
+msgstr " поручение окончено."
 
 #: stringdump_steam_50_11.txt:38159
 msgid "'s mandates have ended."
