@@ -2,11 +2,11 @@
 # Translators:
 # insolor, 2022
 # Luca Murra, 2023
-# Dario, 2023
+# Dario, 2024
 # 
 msgid ""
 msgstr ""
-"Last-Translator: Dario, 2023\n"
+"Last-Translator: Dario, 2024\n"
 "Language-Team: Italian (https://app.transifex.com/dwarf-fortress-translation/teams/22396/it/)\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -2281,7 +2281,7 @@ msgstr ""
 #: body_default.txt:1001
 msgctxt "BODY:TENTACLE_TEETH"
 msgid "[BP:TOOTH:tooth:teeth]"
-msgstr ""
+msgstr "[BP:TOOTH:dente:denti]"
 
 #: body_default.txt:1005
 msgctxt "BODY:8_SIMPLE_HEAD_ARMS"
@@ -3551,7 +3551,7 @@ msgstr ""
 #: body_default.txt:1669
 msgctxt "BODY:GENERIC_TEETH_WITH_LARGE_EYE_TEETH"
 msgid "[BP:TOOTH:tooth:teeth]"
-msgstr ""
+msgstr "[BP:TOOTH:dente:denti]"
 
 #: body_default.txt:1671
 msgctxt "BODY:GENERIC_TEETH_WITH_LARGE_EYE_TEETH"
@@ -3566,7 +3566,7 @@ msgstr ""
 #: body_default.txt:1677
 msgctxt "BODY:GENERIC_TEETH_WITH_FANGS"
 msgid "[BP:TOOTH:tooth:teeth]"
-msgstr ""
+msgstr "[BP:TOOTH:dente:denti]"
 
 #: body_default.txt:1679
 msgctxt "BODY:GENERIC_TEETH_WITH_FANGS"
@@ -3581,7 +3581,7 @@ msgstr ""
 #: body_default.txt:1685
 msgctxt "BODY:RODENT_TEETH"
 msgid "[BP:TOOTH:tooth:teeth]"
-msgstr ""
+msgstr "[BP:TOOTH:dente:denti]"
 
 #: body_default.txt:1687
 msgctxt "BODY:RODENT_TEETH"
@@ -3606,7 +3606,7 @@ msgstr ""
 #: body_default.txt:1697
 msgctxt "BODY:GENERIC_TEETH"
 msgid "[BP:TOOTH:tooth:teeth]"
-msgstr ""
+msgstr "[BP:TOOTH:dente:denti]"
 
 #: body_default.txt:1701
 msgctxt "BODY:TEETH"
@@ -4871,7 +4871,7 @@ msgstr ""
 #: body_rcp.txt:541
 msgctxt "BODY:RCP_TEETH"
 msgid "[BP:TOOTH:tooth:teeth]"
-msgstr ""
+msgstr "[BP:TOOTH:dente:denti]"
 
 #: body_rcp.txt:545
 msgctxt "BODY:RCP_RIBS"
@@ -11385,12 +11385,12 @@ msgstr "[TLCM_NOUN:testa:SINGULAR]"
 #: creature_domestic.txt:106
 msgctxt "CREATURE:DOG"
 msgid "[TLCM_NOUN:front paws:PLURAL]"
-msgstr ""
+msgstr "[TLCM_NOUN:zampe anteriori:PLURAL]"
 
 #: creature_domestic.txt:117
 msgctxt "CREATURE:DOG"
 msgid "[TLCM_NOUN:rear paws:PLURAL]"
-msgstr ""
+msgstr "[TLCM_NOUN:zampe posteriori:PLURAL]"
 
 #: creature_domestic.txt:120
 msgctxt "CREATURE:DOG"
@@ -11462,12 +11462,12 @@ msgstr "[TLCM_NOUN:testa:SINGULAR]"
 #: creature_domestic.txt:234
 msgctxt "CREATURE:CAT"
 msgid "[TLCM_NOUN:front paws:PLURAL]"
-msgstr ""
+msgstr "[TLCM_NOUN:zampe anteriori:PLURAL]"
 
 #: creature_domestic.txt:245
 msgctxt "CREATURE:CAT"
 msgid "[TLCM_NOUN:rear paws:PLURAL]"
-msgstr ""
+msgstr "[TLCM_NOUN:zampe posteriori:PLURAL]"
 
 #: creature_domestic.txt:248
 msgctxt "CREATURE:CAT"
@@ -13219,7 +13219,7 @@ msgstr "[PREFSTRING:colli lunghi]"
 #: creature_domestic.txt:2017
 msgctxt "CREATURE:ALPACA"
 msgid "[PREFSTRING:jutting teeth]"
-msgstr ""
+msgstr "[PREFSTRING:denti sporgenti]"
 
 #: creature_domestic.txt:2018
 msgctxt "CREATURE:ALPACA"
@@ -14728,12 +14728,12 @@ msgstr ""
 #: creature_large_mountain.txt:392
 msgctxt "CREATURE:GNOME_MOUNTAIN"
 msgid "[APP_MOD_NOUN:eyes:PLURAL]"
-msgstr ""
+msgstr "[APP_MOD_NOUN:occhi:PLURAL]"
 
 #: creature_large_mountain.txt:403
 msgctxt "CREATURE:GNOME_MOUNTAIN"
 msgid "[APP_MOD_NOUN:lips:PLURAL]"
-msgstr ""
+msgstr "[APP_MOD_NOUN:labbra:PLURAL]"
 
 #: creature_large_mountain.txt:413
 msgctxt "CREATURE:GNOME_MOUNTAIN"
@@ -14748,7 +14748,7 @@ msgstr "[APP_MOD_NOUN:orecchie:PLURAL]"
 #: creature_large_mountain.txt:431
 msgctxt "CREATURE:GNOME_MOUNTAIN"
 msgid "[APP_MOD_NOUN:teeth:PLURAL]"
-msgstr ""
+msgstr "[APP_MOD_NOUN:denti:PLURAL]"
 
 #: creature_large_mountain.txt:458
 msgctxt "CREATURE:GNOME_MOUNTAIN"
@@ -14841,12 +14841,12 @@ msgstr ""
 #: creature_large_mountain.txt:637
 msgctxt "CREATURE:GNOME_DARK"
 msgid "[APP_MOD_NOUN:eyes:PLURAL]"
-msgstr ""
+msgstr "[APP_MOD_NOUN:occhi:PLURAL]"
 
 #: creature_large_mountain.txt:648
 msgctxt "CREATURE:GNOME_DARK"
 msgid "[APP_MOD_NOUN:lips:PLURAL]"
-msgstr ""
+msgstr "[APP_MOD_NOUN:labbra:PLURAL]"
 
 #: creature_large_mountain.txt:658
 msgctxt "CREATURE:GNOME_DARK"
@@ -14861,7 +14861,7 @@ msgstr "[APP_MOD_NOUN:orecchie:PLURAL]"
 #: creature_large_mountain.txt:676
 msgctxt "CREATURE:GNOME_DARK"
 msgid "[APP_MOD_NOUN:teeth:PLURAL]"
-msgstr ""
+msgstr "[APP_MOD_NOUN:denti:PLURAL]"
 
 #: creature_large_mountain.txt:703
 msgctxt "CREATURE:GNOME_DARK"
@@ -15143,7 +15143,7 @@ msgstr ""
 #: creature_large_ocean.txt:344
 msgctxt "CREATURE:SHARK_FRILL"
 msgid "[ATTACK_VERB:bite:bites]"
-msgstr "[ATTACK_VERB:morso:morde]"
+msgstr "[ATTACK_VERB:mordi:morde]"
 
 #: creature_large_ocean.txt:353
 msgctxt "CREATURE:SHARK_FRILL"
@@ -15164,31 +15164,33 @@ msgstr "[TLCM_NOUN:occhi:PLURAL]"
 msgctxt "CREATURE:SHARK_SPINY_DOGFISH"
 msgid "[DESCRIPTION:A large fish found in coastal temperate waters.]"
 msgstr ""
+"[DESCRIPTION:Un pesce di grandi dimensioni presente nelle acque costiere "
+"temperate.]"
 
 #: creature_large_ocean.txt:380
 msgctxt "CREATURE:SHARK_SPINY_DOGFISH"
 msgid "[NAME:spiny dogfish:spiny dogfish:spiny dogfish]"
-msgstr ""
+msgstr "[NAME:spinarolo:spinarolo:spinarolo]"
 
 #: creature_large_ocean.txt:381
 msgctxt "CREATURE:SHARK_SPINY_DOGFISH"
 msgid "[CASTE_NAME:spiny dogfish:spiny dogfish:spiny dogfish]"
-msgstr ""
+msgstr "[CASTE_NAME:spinarolo:spinarolo:spinarolo]"
 
 #: creature_large_ocean.txt:382
 msgctxt "CREATURE:SHARK_SPINY_DOGFISH"
 msgid "[GENERAL_CHILD_NAME:spiny dogfish pup:spiny dogfish pups]"
-msgstr ""
+msgstr "[GENERAL_CHILD_NAME:cucciolo spinarolo:cuccioli spinarolo]"
 
 #: creature_large_ocean.txt:391
 msgctxt "CREATURE:SHARK_SPINY_DOGFISH"
 msgid "[PREFSTRING:dorsal spines]"
-msgstr ""
+msgstr "[PREFSTRING:spine dorsali]"
 
 #: creature_large_ocean.txt:424
 msgctxt "CREATURE:SHARK_SPINY_DOGFISH"
 msgid "[ATTACK_VERB:bite:bites]"
-msgstr "[ATTACK_VERB:morso:morde]"
+msgstr "[ATTACK_VERB:mordi:morde]"
 
 #: creature_large_ocean.txt:433
 msgctxt "CREATURE:SHARK_SPINY_DOGFISH"
@@ -16221,7 +16223,7 @@ msgstr ""
 #: creature_large_ocean.txt:2190
 msgctxt "CREATURE:FISH_GROUPER_GIANT"
 msgid "[PREFSTRING:lips]"
-msgstr ""
+msgstr "[PREFSTRING:labbra]"
 
 #: creature_large_ocean.txt:2228
 msgctxt "CREATURE:FISH_GROUPER_GIANT"
@@ -18649,7 +18651,7 @@ msgstr "[TLCM_NOUN:capigliatura:SINGULAR]"
 #: creature_large_temperate.txt:2167
 msgctxt "CREATURE:BADGER"
 msgid "[TLCM_NOUN:legs:PLURAL]"
-msgstr ""
+msgstr "[TLCM_NOUN:gambe:PLURAL]"
 
 #: creature_large_temperate.txt:2170
 msgctxt "CREATURE:BADGER"
@@ -18937,12 +18939,12 @@ msgstr "[TLCM_NOUN:capigliatura:SINGULAR]"
 #: creature_large_temperate.txt:2560
 msgctxt "CREATURE:RED PANDA"
 msgid "[TLCM_NOUN:legs:PLURAL]"
-msgstr ""
+msgstr "[TLCM_NOUN:gambe:PLURAL]"
 
 #: creature_large_temperate.txt:2565
 msgctxt "CREATURE:RED PANDA"
 msgid "[TLCM_NOUN:head and tail:PLURAL]"
-msgstr ""
+msgstr "[TLCM_NOUN:testa e coda:PLURAL]"
 
 #: creature_large_temperate.txt:2568
 msgctxt "CREATURE:RED PANDA"
@@ -21520,7 +21522,7 @@ msgstr "[TLCM_NOUN:capigliatura:SINGULAR]"
 #: creature_large_tropical.txt:3656
 msgctxt "CREATURE:HONEY BADGER"
 msgid "[TLCM_NOUN:legs:PLURAL]"
-msgstr ""
+msgstr "[TLCM_NOUN:gambe:PLURAL]"
 
 #: creature_large_tropical.txt:3659
 msgctxt "CREATURE:HONEY BADGER"
@@ -22164,7 +22166,7 @@ msgstr "[TLCM_NOUN:capigliatura:SINGULAR]"
 #: creature_mountain_new.txt:106
 msgctxt "CREATURE:WOLVERINE"
 msgid "[TLCM_NOUN:legs:PLURAL]"
-msgstr ""
+msgstr "[TLCM_NOUN:gambe:PLURAL]"
 
 #: creature_mountain_new.txt:109
 msgctxt "CREATURE:WOLVERINE"
@@ -24636,7 +24638,7 @@ msgstr ""
 #: creature_ocean_new.txt:908
 msgctxt "CREATURE:SPERM_WHALE"
 msgid "[PREFSTRING:teeth]"
-msgstr ""
+msgstr "[PREFSTRING:denti]"
 
 #: creature_ocean_new.txt:909
 msgctxt "CREATURE:SPERM_WHALE"
@@ -24707,7 +24709,7 @@ msgstr "[DESCRIPTION:A gigantic monster in the shape of a sperm whale.]"
 #: creature_ocean_new.txt:1022
 msgctxt "CREATURE:GIANT_SPERM_WHALE"
 msgid "[PREFSTRING:teeth]"
-msgstr ""
+msgstr "[PREFSTRING:denti]"
 
 #: creature_ocean_new.txt:1023
 msgctxt "CREATURE:GIANT_SPERM_WHALE"
@@ -28646,7 +28648,7 @@ msgstr "[APP_MOD_NOUN:occhi:PLURAL]"
 #: creature_standard.txt:157
 msgctxt "CREATURE:DWARF"
 msgid "[APP_MOD_NOUN:lips:PLURAL]"
-msgstr ""
+msgstr "[APP_MOD_NOUN:labbra:PLURAL]"
 
 #: creature_standard.txt:167
 msgctxt "CREATURE:DWARF"
@@ -28661,7 +28663,7 @@ msgstr "[APP_MOD_NOUN:orecchie:PLURAL]"
 #: creature_standard.txt:185
 msgctxt "CREATURE:DWARF"
 msgid "[APP_MOD_NOUN:teeth:PLURAL]"
-msgstr ""
+msgstr "[APP_MOD_NOUN:denti:PLURAL]"
 
 #: creature_standard.txt:217
 msgctxt "CREATURE:DWARF"
@@ -28807,7 +28809,7 @@ msgstr ""
 #: creature_standard.txt:308
 msgctxt "CREATURE:DWARF"
 msgid "[MANNERISM_LIPS:lips]"
-msgstr ""
+msgstr "[MANNERISM_LIPS:labbra]"
 
 #: creature_standard.txt:309
 msgctxt "CREATURE:DWARF"
@@ -28947,7 +28949,7 @@ msgstr "[APP_MOD_NOUN:occhi:PLURAL]"
 #: creature_standard.txt:539
 msgctxt "CREATURE:HUMAN"
 msgid "[APP_MOD_NOUN:lips:PLURAL]"
-msgstr ""
+msgstr "[APP_MOD_NOUN:labbra:PLURAL]"
 
 #: creature_standard.txt:548
 msgctxt "CREATURE:HUMAN"
@@ -28962,7 +28964,7 @@ msgstr "[APP_MOD_NOUN:orecchie:PLURAL]"
 #: creature_standard.txt:564
 msgctxt "CREATURE:HUMAN"
 msgid "[APP_MOD_NOUN:teeth:PLURAL]"
-msgstr ""
+msgstr "[APP_MOD_NOUN:denti:PLURAL]"
 
 #: creature_standard.txt:587
 msgctxt "CREATURE:HUMAN"
@@ -29027,7 +29029,7 @@ msgstr ""
 #: creature_standard.txt:636
 msgctxt "CREATURE:HUMAN"
 msgid "[MANNERISM_LIPS:lips]"
-msgstr ""
+msgstr "[MANNERISM_LIPS:labbra]"
 
 #: creature_standard.txt:637
 msgctxt "CREATURE:HUMAN"
@@ -29169,7 +29171,7 @@ msgstr "[APP_MOD_NOUN:occhi:PLURAL]"
 #: creature_standard.txt:839
 msgctxt "CREATURE:ELF"
 msgid "[APP_MOD_NOUN:lips:PLURAL]"
-msgstr ""
+msgstr "[APP_MOD_NOUN:labbra:PLURAL]"
 
 #: creature_standard.txt:848
 msgctxt "CREATURE:ELF"
@@ -29184,7 +29186,7 @@ msgstr "[APP_MOD_NOUN:orecchie:PLURAL]"
 #: creature_standard.txt:864
 msgctxt "CREATURE:ELF"
 msgid "[APP_MOD_NOUN:teeth:PLURAL]"
-msgstr ""
+msgstr "[APP_MOD_NOUN:denti:PLURAL]"
 
 #: creature_standard.txt:886
 msgctxt "CREATURE:ELF"
@@ -29249,7 +29251,7 @@ msgstr ""
 #: creature_standard.txt:937
 msgctxt "CREATURE:ELF"
 msgid "[MANNERISM_LIPS:lips]"
-msgstr ""
+msgstr "[MANNERISM_LIPS:labbra]"
 
 #: creature_standard.txt:938
 msgctxt "CREATURE:ELF"
@@ -29385,7 +29387,7 @@ msgstr "[APP_MOD_NOUN:occhi:PLURAL]"
 #: creature_standard.txt:1116
 msgctxt "CREATURE:GOBLIN"
 msgid "[APP_MOD_NOUN:lips:PLURAL]"
-msgstr ""
+msgstr "[APP_MOD_NOUN:labbra:PLURAL]"
 
 #: creature_standard.txt:1125
 msgctxt "CREATURE:GOBLIN"
@@ -29400,7 +29402,7 @@ msgstr "[APP_MOD_NOUN:orecchie:PLURAL]"
 #: creature_standard.txt:1141
 msgctxt "CREATURE:GOBLIN"
 msgid "[APP_MOD_NOUN:teeth:PLURAL]"
-msgstr ""
+msgstr "[APP_MOD_NOUN:denti:PLURAL]"
 
 #: creature_standard.txt:1163
 msgctxt "CREATURE:GOBLIN"
@@ -29465,7 +29467,7 @@ msgstr ""
 #: creature_standard.txt:1212
 msgctxt "CREATURE:GOBLIN"
 msgid "[MANNERISM_LIPS:lips]"
-msgstr ""
+msgstr "[MANNERISM_LIPS:labbra]"
 
 #: creature_standard.txt:1213
 msgctxt "CREATURE:GOBLIN"
@@ -29602,7 +29604,7 @@ msgstr "[APP_MOD_NOUN:occhi:PLURAL]"
 #: creature_standard.txt:1383
 msgctxt "CREATURE:KOBOLD"
 msgid "[APP_MOD_NOUN:lips:PLURAL]"
-msgstr ""
+msgstr "[APP_MOD_NOUN:labbra:PLURAL]"
 
 #: creature_standard.txt:1392
 msgctxt "CREATURE:KOBOLD"
@@ -29617,7 +29619,7 @@ msgstr "[APP_MOD_NOUN:orecchie:PLURAL]"
 #: creature_standard.txt:1408
 msgctxt "CREATURE:KOBOLD"
 msgid "[APP_MOD_NOUN:teeth:PLURAL]"
-msgstr ""
+msgstr "[APP_MOD_NOUN:denti:PLURAL]"
 
 #: creature_standard.txt:1431
 msgctxt "CREATURE:KOBOLD"
@@ -29682,7 +29684,7 @@ msgstr ""
 #: creature_standard.txt:1481
 msgctxt "CREATURE:KOBOLD"
 msgid "[MANNERISM_LIPS:lips]"
-msgstr ""
+msgstr "[MANNERISM_LIPS:labbra]"
 
 #: creature_standard.txt:1482
 msgctxt "CREATURE:KOBOLD"
@@ -29783,7 +29785,7 @@ msgstr ""
 #: creature_standard.txt:1608
 msgctxt "CREATURE:GREMLIN"
 msgid "[APP_MOD_NOUN:lips:PLURAL]"
-msgstr ""
+msgstr "[APP_MOD_NOUN:labbra:PLURAL]"
 
 #: creature_standard.txt:1617
 msgctxt "CREATURE:GREMLIN"
@@ -29798,7 +29800,7 @@ msgstr "[APP_MOD_NOUN:orecchie:PLURAL]"
 #: creature_standard.txt:1633
 msgctxt "CREATURE:GREMLIN"
 msgid "[APP_MOD_NOUN:teeth:PLURAL]"
-msgstr ""
+msgstr "[APP_MOD_NOUN:denti:PLURAL]"
 
 #: creature_standard.txt:1656
 msgctxt "CREATURE:GREMLIN"
@@ -29836,56 +29838,58 @@ msgid ""
 "[DESCRIPTION:A huge humanoid monster with coarse fur, large tusks and "
 "horns.]"
 msgstr ""
+"[DESCRIPTION:Un enorme mostro umanoide con pelliccia ruvida, grandi zanne e "
+"corna.]"
 
 #: creature_standard.txt:1714
 msgctxt "CREATURE:TROLL"
 msgid "[NAME:troll:trolls:troll]"
-msgstr ""
+msgstr "[NAME:troll:troll:troll]"
 
 #: creature_standard.txt:1715
 msgctxt "CREATURE:TROLL"
 msgid "[CASTE_NAME:troll:trolls:troll]"
-msgstr ""
+msgstr "[CASTE_NAME:troll:troll:troll]"
 
 #: creature_standard.txt:1729
 msgctxt "CREATURE:TROLL"
 msgid "[PREFSTRING:terrifying features]"
-msgstr ""
+msgstr "[PREFSTRING:caratteristiche terrificanti]"
 
 #: creature_standard.txt:1734
 msgctxt "CREATURE:TROLL"
 msgid "[STATE_NAME:ALL_SOLID:ivory]"
-msgstr ""
+msgstr "[STATE_NAME:ALL_SOLID:avorio]"
 
 #: creature_standard.txt:1735
 msgctxt "CREATURE:TROLL"
 msgid "[STATE_ADJ:ALL_SOLID:ivory]"
-msgstr ""
+msgstr "[STATE_ADJ:ALL_SOLID:avorio]"
 
 #: creature_standard.txt:1737
 msgctxt "CREATURE:TROLL"
 msgid "[STATE_NAME:ALL_SOLID:fur]"
-msgstr ""
+msgstr "[STATE_NAME:ALL_SOLID:pelliccia]"
 
 #: creature_standard.txt:1738
 msgctxt "CREATURE:TROLL"
 msgid "[STATE_ADJ:ALL_SOLID:fur]"
-msgstr ""
+msgstr "[STATE_ADJ:ALL_SOLID:pelliccia]"
 
 #: creature_standard.txt:1777
 msgctxt "CREATURE:TROLL"
 msgid "[APP_MOD_NOUN:eyes:PLURAL]"
-msgstr ""
+msgstr "[APP_MOD_NOUN:occhi:PLURAL]"
 
 #: creature_standard.txt:1787
 msgctxt "CREATURE:TROLL"
 msgid "[APP_MOD_NOUN:lips:PLURAL]"
-msgstr ""
+msgstr "[APP_MOD_NOUN:labbra:PLURAL]"
 
 #: creature_standard.txt:1796
 msgctxt "CREATURE:TROLL"
 msgid "[APP_MOD_NOUN:nose bridge:SINGULAR]"
-msgstr ""
+msgstr "[APP_MOD_NOUN:ponte nasale:SINGULAR]"
 
 #: creature_standard.txt:1799
 msgctxt "CREATURE:TROLL"
@@ -29895,7 +29899,7 @@ msgstr "[APP_MOD_NOUN:orecchie:PLURAL]"
 #: creature_standard.txt:1812
 msgctxt "CREATURE:TROLL"
 msgid "[APP_MOD_NOUN:teeth:PLURAL]"
-msgstr ""
+msgstr "[APP_MOD_NOUN:denti:PLURAL]"
 
 #: creature_standard.txt:1835
 msgctxt "CREATURE:TROLL"
@@ -29915,7 +29919,7 @@ msgstr "[ATTACK_VERB:sgraffi:sgraffia]"
 #: creature_standard.txt:1858
 msgctxt "CREATURE:TROLL"
 msgid "[ATTACK_VERB:bite:bites]"
-msgstr "[ATTACK_VERB:morso:morde]"
+msgstr "[ATTACK_VERB:mordi:morde]"
 
 #: creature_standard.txt:1867
 msgctxt "CREATURE:TROLL"
@@ -29925,12 +29929,12 @@ msgstr "[ATTACK_VERB:incorni:incorna]"
 #: creature_standard.txt:1898
 msgctxt "CREATURE:TROLL"
 msgid "[TLCM_NOUN:fur:SINGULAR]"
-msgstr ""
+msgstr "[TLCM_NOUN:pelliccia:SINGULAR]"
 
 #: creature_standard.txt:1903
 msgctxt "CREATURE:TROLL"
 msgid "[APP_MOD_NOUN:fur:SINGULAR]"
-msgstr ""
+msgstr "[APP_MOD_NOUN:pelliccia:SINGULAR]"
 
 #: creature_standard.txt:1909
 msgctxt "CREATURE:TROLL"
@@ -29972,7 +29976,7 @@ msgstr ""
 #: creature_standard.txt:1984
 msgctxt "CREATURE:OGRE"
 msgid "[APP_MOD_NOUN:lips:PLURAL]"
-msgstr ""
+msgstr "[APP_MOD_NOUN:labbra:PLURAL]"
 
 #: creature_standard.txt:1993
 msgctxt "CREATURE:OGRE"
@@ -29987,7 +29991,7 @@ msgstr "[APP_MOD_NOUN:orecchie:PLURAL]"
 #: creature_standard.txt:2009
 msgctxt "CREATURE:OGRE"
 msgid "[APP_MOD_NOUN:teeth:PLURAL]"
-msgstr ""
+msgstr "[APP_MOD_NOUN:denti:PLURAL]"
 
 #: creature_standard.txt:2033
 msgctxt "CREATURE:OGRE"
@@ -30182,7 +30186,7 @@ msgstr ""
 #: creature_standard.txt:2440
 msgctxt "CREATURE:SATYR"
 msgid "[APP_MOD_NOUN:lips:PLURAL]"
-msgstr ""
+msgstr "[APP_MOD_NOUN:labbra:PLURAL]"
 
 #: creature_standard.txt:2449
 msgctxt "CREATURE:SATYR"
@@ -30197,7 +30201,7 @@ msgstr "[APP_MOD_NOUN:orecchie:PLURAL]"
 #: creature_standard.txt:2465
 msgctxt "CREATURE:SATYR"
 msgid "[APP_MOD_NOUN:teeth:PLURAL]"
-msgstr ""
+msgstr "[APP_MOD_NOUN:denti:PLURAL]"
 
 #: creature_standard.txt:2487
 msgctxt "CREATURE:SATYR"
@@ -30355,7 +30359,7 @@ msgstr ""
 #: creature_standard.txt:2762
 msgctxt "CREATURE:GIANT"
 msgid "[APP_MOD_NOUN:lips:PLURAL]"
-msgstr ""
+msgstr "[APP_MOD_NOUN:labbra:PLURAL]"
 
 #: creature_standard.txt:2771
 msgctxt "CREATURE:GIANT"
@@ -30370,7 +30374,7 @@ msgstr "[APP_MOD_NOUN:orecchie:PLURAL]"
 #: creature_standard.txt:2787
 msgctxt "CREATURE:GIANT"
 msgid "[APP_MOD_NOUN:teeth:PLURAL]"
-msgstr ""
+msgstr "[APP_MOD_NOUN:denti:PLURAL]"
 
 #: creature_standard.txt:2809
 msgctxt "CREATURE:GIANT"
@@ -30502,7 +30506,7 @@ msgstr ""
 #: creature_standard.txt:3011
 msgctxt "CREATURE:CYCLOPS"
 msgid "[APP_MOD_NOUN:lips:PLURAL]"
-msgstr ""
+msgstr "[APP_MOD_NOUN:labbra:PLURAL]"
 
 #: creature_standard.txt:3020
 msgctxt "CREATURE:CYCLOPS"
@@ -30517,7 +30521,7 @@ msgstr "[APP_MOD_NOUN:orecchie:PLURAL]"
 #: creature_standard.txt:3036
 msgctxt "CREATURE:CYCLOPS"
 msgid "[APP_MOD_NOUN:teeth:PLURAL]"
-msgstr ""
+msgstr "[APP_MOD_NOUN:denti:PLURAL]"
 
 #: creature_standard.txt:3058
 msgctxt "CREATURE:CYCLOPS"
@@ -30637,7 +30641,7 @@ msgstr ""
 #: creature_standard.txt:3263
 msgctxt "CREATURE:ETTIN"
 msgid "[APP_MOD_NOUN:lips:PLURAL]"
-msgstr ""
+msgstr "[APP_MOD_NOUN:labbra:PLURAL]"
 
 #: creature_standard.txt:3272
 msgctxt "CREATURE:ETTIN"
@@ -30652,7 +30656,7 @@ msgstr "[APP_MOD_NOUN:orecchie:PLURAL]"
 #: creature_standard.txt:3288
 msgctxt "CREATURE:ETTIN"
 msgid "[APP_MOD_NOUN:teeth:PLURAL]"
-msgstr ""
+msgstr "[APP_MOD_NOUN:denti:PLURAL]"
 
 #: creature_standard.txt:3310
 msgctxt "CREATURE:ETTIN"
@@ -30943,7 +30947,7 @@ msgstr ""
 #: creature_standard.txt:3846
 msgctxt "CREATURE:BLIZZARD_MAN"
 msgid "[PREFSTRING:icicle teeth]"
-msgstr ""
+msgstr "[PREFSTRING:denti a ghiacciolo]"
 
 #: creature_standard.txt:3847
 msgctxt "CREATURE:BLIZZARD_MAN"
@@ -31065,7 +31069,7 @@ msgstr ""
 #: creature_standard.txt:4075
 msgctxt "CREATURE:FAIRY"
 msgid "[APP_MOD_NOUN:lips:PLURAL]"
-msgstr ""
+msgstr "[APP_MOD_NOUN:labbra:PLURAL]"
 
 #: creature_standard.txt:4084
 msgctxt "CREATURE:FAIRY"
@@ -31080,7 +31084,7 @@ msgstr "[APP_MOD_NOUN:orecchie:PLURAL]"
 #: creature_standard.txt:4100
 msgctxt "CREATURE:FAIRY"
 msgid "[APP_MOD_NOUN:teeth:PLURAL]"
-msgstr ""
+msgstr "[APP_MOD_NOUN:denti:PLURAL]"
 
 #: creature_standard.txt:4122
 msgctxt "CREATURE:FAIRY"
@@ -31167,7 +31171,7 @@ msgstr ""
 #: creature_standard.txt:4274
 msgctxt "CREATURE:PIXIE"
 msgid "[APP_MOD_NOUN:lips:PLURAL]"
-msgstr ""
+msgstr "[APP_MOD_NOUN:labbra:PLURAL]"
 
 #: creature_standard.txt:4283
 msgctxt "CREATURE:PIXIE"
@@ -31182,7 +31186,7 @@ msgstr "[APP_MOD_NOUN:orecchie:PLURAL]"
 #: creature_standard.txt:4299
 msgctxt "CREATURE:PIXIE"
 msgid "[APP_MOD_NOUN:teeth:PLURAL]"
-msgstr ""
+msgstr "[APP_MOD_NOUN:denti:PLURAL]"
 
 #: creature_standard.txt:4321
 msgctxt "CREATURE:PIXIE"
@@ -31602,7 +31606,7 @@ msgstr ""
 #: creature_standard.txt:4978
 msgctxt "CREATURE:HARPY"
 msgid "[APP_MOD_NOUN:lips:PLURAL]"
-msgstr ""
+msgstr "[APP_MOD_NOUN:labbra:PLURAL]"
 
 #: creature_standard.txt:4987
 msgctxt "CREATURE:HARPY"
@@ -31617,7 +31621,7 @@ msgstr "[APP_MOD_NOUN:orecchie:PLURAL]"
 #: creature_standard.txt:5003
 msgctxt "CREATURE:HARPY"
 msgid "[APP_MOD_NOUN:teeth:PLURAL]"
-msgstr ""
+msgstr "[APP_MOD_NOUN:denti:PLURAL]"
 
 #: creature_standard.txt:5025
 msgctxt "CREATURE:HARPY"
@@ -31730,7 +31734,7 @@ msgstr ""
 #: creature_standard.txt:5251
 msgctxt "CREATURE:MERPERSON"
 msgid "[APP_MOD_NOUN:lips:PLURAL]"
-msgstr ""
+msgstr "[APP_MOD_NOUN:labbra:PLURAL]"
 
 #: creature_standard.txt:5260
 msgctxt "CREATURE:MERPERSON"
@@ -31745,7 +31749,7 @@ msgstr "[APP_MOD_NOUN:orecchie:PLURAL]"
 #: creature_standard.txt:5276
 msgctxt "CREATURE:MERPERSON"
 msgid "[APP_MOD_NOUN:teeth:PLURAL]"
-msgstr ""
+msgstr "[APP_MOD_NOUN:denti:PLURAL]"
 
 #: creature_standard.txt:5299
 msgctxt "CREATURE:MERPERSON"
@@ -32310,7 +32314,7 @@ msgstr ""
 #: creature_subterranean.txt:682
 msgctxt "CREATURE:TROGLODYTE"
 msgid "[APP_MOD_NOUN:lips:PLURAL]"
-msgstr ""
+msgstr "[APP_MOD_NOUN:labbra:PLURAL]"
 
 #: creature_subterranean.txt:691
 msgctxt "CREATURE:TROGLODYTE"
@@ -32325,7 +32329,7 @@ msgstr "[APP_MOD_NOUN:orecchie:PLURAL]"
 #: creature_subterranean.txt:707
 msgctxt "CREATURE:TROGLODYTE"
 msgid "[APP_MOD_NOUN:teeth:PLURAL]"
-msgstr ""
+msgstr "[APP_MOD_NOUN:denti:PLURAL]"
 
 #: creature_subterranean.txt:730
 msgctxt "CREATURE:TROGLODYTE"
