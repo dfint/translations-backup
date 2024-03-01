@@ -2416,12 +2416,12 @@ msgstr "[BP:LMT:tentacolo medio sinistro:STP]"
 #: body_default.txt:1063
 msgctxt "BODY:SIX_TENTACLES"
 msgid "[BP:RMTC:right middle claw:STP]"
-msgstr ""
+msgstr "[BP:RMTC:artiglio medio destro:STP]"
 
 #: body_default.txt:1065
 msgctxt "BODY:SIX_TENTACLES"
 msgid "[BP:LMTC:left middle claw:STP]"
-msgstr ""
+msgstr "[BP:LMTC:artiglio medio sinistro:STP]"
 
 #: body_default.txt:1067
 msgctxt "BODY:SIX_TENTACLES"
@@ -2456,22 +2456,22 @@ msgstr "[BP:BACK:retro:STP]"
 #: body_default.txt:1081
 msgctxt "BODY:WAGON"
 msgid "[BP:RFW:right front wheel:STP]"
-msgstr ""
+msgstr "[BP:RFW:ruota anteriore destra:STP]"
 
 #: body_default.txt:1083
 msgctxt "BODY:WAGON"
 msgid "[BP:LFW:left front wheel:STP]"
-msgstr ""
+msgstr "[BP:LFW:ruota anteriore sinistra:STP]"
 
 #: body_default.txt:1085
 msgctxt "BODY:WAGON"
 msgid "[BP:RRW:right rear wheel:STP]"
-msgstr ""
+msgstr "[BP:RRW:ruota posteriore destra:STP]"
 
 #: body_default.txt:1087
 msgctxt "BODY:WAGON"
 msgid "[BP:LRW:left rear wheel:STP]"
-msgstr ""
+msgstr "[BP:LRW:ruota posteriore sinistra:STP]"
 
 #: body_default.txt:1091
 msgctxt "BODY:TAIL"
@@ -2552,11 +2552,15 @@ msgstr "[BODYGLOSS:ROOTS_FOOT:piede:radici:piedi:radici]"
 msgctxt "BODY:UPPERBODY_PINCERS"
 msgid "[BODYGLOSS:INSECT_UPPERBODY:upper body:thorax:upper bodies:thoraxes]"
 msgstr ""
+"[BODYGLOSS:INSECT_UPPERBODY:parte superiore del corpo:torace:parti superiori"
+" del corpo:toraci]"
 
 #: body_default.txt:1132
 msgctxt "BODY:UPPERBODY_PINCERS"
 msgid "[BODYGLOSS:INSECT_LOWERBODY:lower body:abdomen:lower bodies:abdomens]"
 msgstr ""
+"[BODYGLOSS:INSECT_LOWERBODY:parte inferiore del corpo:addome:parti inferiore"
+" del corpo:addome]"
 
 #: body_default.txt:1135
 msgctxt "BODY:2EYES"
@@ -2586,22 +2590,22 @@ msgstr "[BP:EYE:occhio centrale:STP]"
 #: body_default.txt:1149
 msgctxt "BODY:4EYES"
 msgid "[BP:EYE1:first eye:STP]"
-msgstr ""
+msgstr "[BP:EYE1:primo occhio:STP]"
 
 #: body_default.txt:1151
 msgctxt "BODY:4EYES"
 msgid "[BP:EYE2:second eye:STP]"
-msgstr ""
+msgstr "[BP:EYE2:secondo occhio:STP]"
 
 #: body_default.txt:1153
 msgctxt "BODY:4EYES"
 msgid "[BP:EYE3:third eye:STP]"
-msgstr ""
+msgstr "[BP:EYE3:terzo occhio:STP]"
 
 #: body_default.txt:1155
 msgctxt "BODY:4EYES"
 msgid "[BP:EYE4:fourth eye:STP]"
-msgstr ""
+msgstr "[BP:EYE4:quarto occhio:STP]"
 
 #: body_default.txt:1159
 msgctxt "BODY:2EYESTALKS"
@@ -2616,12 +2620,12 @@ msgstr "[BP:LEYE:tentacolo oculare sinistro:STP]"
 #: body_default.txt:1165
 msgctxt "BODY:2TUSKS"
 msgid "[BP:RTUSK:right tusk:STP]"
-msgstr ""
+msgstr "[BP:RTUSK:zanna destra:STP]"
 
 #: body_default.txt:1167
 msgctxt "BODY:2TUSKS"
 msgid "[BP:LTUSK:left tusk:STP]"
-msgstr ""
+msgstr "[BP:LTUSK:zanna sinistra:STP]"
 
 #: body_default.txt:1171
 msgctxt "BODY:NOSE"
@@ -2641,12 +2645,12 @@ msgstr "[BP:TRUNK:tronco:STP]"
 #: body_default.txt:1183
 msgctxt "BODY:2EARS"
 msgid "[BP:R_EAR:right ear:STP]"
-msgstr ""
+msgstr "[BP:R_EAR:orecchio destro:STP]"
 
 #: body_default.txt:1185
 msgctxt "BODY:2EARS"
 msgid "[BP:L_EAR:left ear:STP]"
-msgstr ""
+msgstr "[BP:L_EAR:orecchio sinistro:STP]"
 
 #: body_default.txt:1189
 msgctxt "BODY:2LUNGS"
@@ -2711,72 +2715,72 @@ msgstr "[BP:SPLEEN:milza:STP]"
 #: body_default.txt:1228
 msgctxt "BODY:ORGANS"
 msgid "[BP:RKIDNEY:right kidney:STP]"
-msgstr ""
+msgstr "[BP:RKIDNEY:rene destro:STP]"
 
 #: body_default.txt:1230
 msgctxt "BODY:ORGANS"
 msgid "[BP:LKIDNEY:left kidney:STP]"
-msgstr ""
+msgstr "[BP:LKIDNEY:rene sinistro:STP]"
 
 #: body_default.txt:1234
 msgctxt "BODY:HUMANOID_JOINTS"
 msgid "[BP:RUA_J:right shoulder:STP]"
-msgstr ""
+msgstr "[BP:RUA_J:spalla destra:STP]"
 
 #: body_default.txt:1236
 msgctxt "BODY:HUMANOID_JOINTS"
 msgid "[BP:LUA_J:left shoulder:STP]"
-msgstr ""
+msgstr "[BP:LUA_J:spalla sinistra:STP]"
 
 #: body_default.txt:1238
 msgctxt "BODY:HUMANOID_JOINTS"
 msgid "[BP:RLA_J:right elbow:STP]"
-msgstr ""
+msgstr "[BP:RLA_J:gomito destro:STP]"
 
 #: body_default.txt:1240
 msgctxt "BODY:HUMANOID_JOINTS"
 msgid "[BP:LLA_J:left elbow:STP]"
-msgstr ""
+msgstr "[BP:LLA_J:gomito sinistro:STP]"
 
 #: body_default.txt:1242
 msgctxt "BODY:HUMANOID_JOINTS"
 msgid "[BP:RH_J:right wrist:STP]"
-msgstr ""
+msgstr "[BP:RH_J:polso destro:STP]"
 
 #: body_default.txt:1244
 msgctxt "BODY:HUMANOID_JOINTS"
 msgid "[BP:LH_J:left wrist:STP]"
-msgstr ""
+msgstr "[BP:LH_J:polso sinistro:STP]"
 
 #: body_default.txt:1246
 msgctxt "BODY:HUMANOID_JOINTS"
 msgid "[BP:RUL_J:right hip:STP]"
-msgstr ""
+msgstr "[BP:RUL_J:anca destra:STP]"
 
 #: body_default.txt:1248
 msgctxt "BODY:HUMANOID_JOINTS"
 msgid "[BP:LUL_J:left hip:STP]"
-msgstr ""
+msgstr "[BP:LUL_J:anca sinistra:STP]"
 
 #: body_default.txt:1250
 msgctxt "BODY:HUMANOID_JOINTS"
 msgid "[BP:RLL_J:right knee:STP]"
-msgstr ""
+msgstr "[BP:RLL_J:ginocchio destro:STP]"
 
 #: body_default.txt:1252
 msgctxt "BODY:HUMANOID_JOINTS"
 msgid "[BP:LLL_J:left knee:STP]"
-msgstr ""
+msgstr "[BP:LLL_J:ginocchio sinistro:STP]"
 
 #: body_default.txt:1254
 msgctxt "BODY:HUMANOID_JOINTS"
 msgid "[BP:RF_J:right ankle:STP]"
-msgstr ""
+msgstr "[BP:RF_J:caviglia destra:STP]"
 
 #: body_default.txt:1256
 msgctxt "BODY:HUMANOID_JOINTS"
 msgid "[BP:LF_J:left ankle:STP]"
-msgstr ""
+msgstr "[BP:LF_J:caviglia sinistra:STP]"
 
 #: body_default.txt:1260
 msgctxt "BODY:THROAT"
@@ -2821,32 +2825,32 @@ msgstr "[BP:HEAD_HORN:corno:STP]"
 #: body_default.txt:1300
 msgctxt "BODY:2HEAD_HORN"
 msgid "[BP:RHORN:right horn:STP]"
-msgstr ""
+msgstr "[BP:RHORN:corno destro:STP]"
 
 #: body_default.txt:1302
 msgctxt "BODY:2HEAD_HORN"
 msgid "[BP:LHORN:left horn:STP]"
-msgstr ""
+msgstr "[BP:LHORN:corno sinistro:STP]"
 
 #: body_default.txt:1306
 msgctxt "BODY:2HEAD_HORN_NUMBERED"
 msgid "[BP:RHORN:first horn:STP]"
-msgstr ""
+msgstr "[BP:RHORN:primo corno:STP]"
 
 #: body_default.txt:1308
 msgctxt "BODY:2HEAD_HORN_NUMBERED"
 msgid "[BP:LHORN:second horn:STP]"
-msgstr ""
+msgstr "[BP:LHORN:secondo corno:STP]"
 
 #: body_default.txt:1312
 msgctxt "BODY:2HEAD_ANTLER"
 msgid "[BP:RHORN:right antler:STP]"
-msgstr ""
+msgstr "[BP:RHORN:palco destro:STP]"
 
 #: body_default.txt:1314
 msgctxt "BODY:2HEAD_ANTLER"
 msgid "[BP:LHORN:left antler:STP]"
-msgstr ""
+msgstr "[BP:LHORN:palco sinistro:STP]"
 
 #: body_default.txt:1318
 msgctxt "BODY:1EYE"
@@ -3026,7 +3030,7 @@ msgstr "[BP:RFTOE4:quarto dito anteriore destro:STP]"
 #: body_default.txt:1410
 msgctxt "BODY:5TOES_FQ_REG"
 msgid "[BP:RFTOE5:fifth right front toe:STP]"
-msgstr ""
+msgstr "[BP:RFTOE5:quinto dito anteriore destro:STP]"
 
 #: body_default.txt:1412
 msgctxt "BODY:5TOES_FQ_REG"
@@ -3051,7 +3055,7 @@ msgstr "[BP:LFTOE4:quarto dito anteriore sinistro:STP]"
 #: body_default.txt:1420
 msgctxt "BODY:5TOES_FQ_REG"
 msgid "[BP:LFTOE5:fifth left front toe:STP]"
-msgstr ""
+msgstr "[BP:LFTOE5:quinto dito anteriore sinistro:STP]"
 
 #: body_default.txt:1424
 msgctxt "BODY:4TOES_FQ_REG"
@@ -3146,7 +3150,7 @@ msgstr "[BP:RRTOE4:quarto dito posteriore destro:STP]"
 #: body_default.txt:1464
 msgctxt "BODY:5TOES_RQ_REG"
 msgid "[BP:RRTOE5:fifth right rear toe:STP]"
-msgstr ""
+msgstr "[BP:RRTOE5:quinto dito posteriore destro:STP]"
 
 #: body_default.txt:1466
 msgctxt "BODY:5TOES_RQ_REG"
@@ -3171,7 +3175,7 @@ msgstr "[BP:LRTOE4:quarto dito posteriore sinistro:STP]"
 #: body_default.txt:1474
 msgctxt "BODY:5TOES_RQ_REG"
 msgid "[BP:LRTOE5:fifth left rear toe:STP]"
-msgstr ""
+msgstr "[BP:LRTOE5:quinto dito posteriore sinistro:STP]"
 
 #: body_default.txt:1478
 msgctxt "BODY:4TOES_RQ_REG"
@@ -3266,7 +3270,7 @@ msgstr ""
 #: body_default.txt:1518
 msgctxt "BODY:5TOES_RQ_ANON"
 msgid "[BP:RRTOE5:fifth right toe:STP]"
-msgstr ""
+msgstr "[BP:RRTOE5:quinto dito destro:STP]"
 
 #: body_default.txt:1520
 msgctxt "BODY:5TOES_RQ_ANON"
@@ -3291,7 +3295,7 @@ msgstr ""
 #: body_default.txt:1528
 msgctxt "BODY:5TOES_RQ_ANON"
 msgid "[BP:LRTOE5:fifth left toe:STP]"
-msgstr ""
+msgstr "[BP:LRTOE5:quinto dito sinistro:STP]"
 
 #: body_default.txt:1532
 msgctxt "BODY:5TOES_FQ_FINGERS"
@@ -3316,7 +3320,7 @@ msgstr "[BP:RFTOE4:quarto dito destro:STP]"
 #: body_default.txt:1540
 msgctxt "BODY:5TOES_FQ_FINGERS"
 msgid "[BP:RFTOE5:fifth right finger:STP]"
-msgstr ""
+msgstr "[BP:RFTOE5:quinto dito destro:STP]"
 
 #: body_default.txt:1542
 msgctxt "BODY:5TOES_FQ_FINGERS"
@@ -3341,7 +3345,7 @@ msgstr "[BP:LFTOE4:quarto dito sinistro:STP]"
 #: body_default.txt:1550
 msgctxt "BODY:5TOES_FQ_FINGERS"
 msgid "[BP:LFTOE5:fifth left finger:STP]"
-msgstr ""
+msgstr "[BP:LFTOE5:quinto dito sinistro:STP]"
 
 #: body_default.txt:1554
 msgctxt "BODY:4TOES_FQ_FINGERS"
@@ -3386,27 +3390,27 @@ msgstr "[BP:LFTOE4:quarto dito sinistro:STP]"
 #: body_default.txt:1572
 msgctxt "BODY:SIDE_FINS"
 msgid "[BP:R_FIN:right fin:STP]"
-msgstr ""
+msgstr "[BP:R_FIN:pinna destra:STP]"
 
 #: body_default.txt:1574
 msgctxt "BODY:SIDE_FINS"
 msgid "[BP:L_FIN:left fin:STP]"
-msgstr ""
+msgstr "[BP:L_FIN:pinna sinistra:STP]"
 
 #: body_default.txt:1578
 msgctxt "BODY:DORSAL_FIN"
 msgid "[BP:DORSAL_FIN:dorsal fin:STP]"
-msgstr ""
+msgstr "[BP:DORSAL_FIN:pinna dorsale:STP]"
 
 #: body_default.txt:1582
 msgctxt "BODY:SIDE_FLIPPERS"
 msgid "[BP:R_FLIP:right flipper:STP]"
-msgstr ""
+msgstr "[BP:R_FLIP:pinna destra:STP]"
 
 #: body_default.txt:1584
 msgctxt "BODY:SIDE_FLIPPERS"
 msgid "[BP:L_FLIP:left flipper:STP]"
-msgstr ""
+msgstr "[BP:L_FLIP:pinna sinistra:STP]"
 
 #: body_default.txt:1588
 msgctxt "BODY:FRONT_BODY_FLIPPERS"
@@ -3571,12 +3575,12 @@ msgstr "[BP:TOOTH:dente:denti]"
 #: body_default.txt:1679
 msgctxt "BODY:GENERIC_TEETH_WITH_FANGS"
 msgid "[BP:R_FANG:right fang:right fangs]"
-msgstr ""
+msgstr "[BP:R_FANG:zanna destra:zanne destre]"
 
 #: body_default.txt:1681
 msgctxt "BODY:GENERIC_TEETH_WITH_FANGS"
 msgid "[BP:L_FANG:left fang:left fangs]"
-msgstr ""
+msgstr "[BP:L_FANG:zanna sinistra:zanne sinistre]"
 
 #: body_default.txt:1685
 msgctxt "BODY:RODENT_TEETH"
@@ -3586,22 +3590,22 @@ msgstr "[BP:TOOTH:dente:denti]"
 #: body_default.txt:1687
 msgctxt "BODY:RODENT_TEETH"
 msgid "[BP:RU_INCISOR:right upper incisor:STP]"
-msgstr ""
+msgstr "[BP:RU_INCISOR:incisivo superiore destro:STP]"
 
 #: body_default.txt:1689
 msgctxt "BODY:RODENT_TEETH"
 msgid "[BP:LU_INCISOR:left upper incisor:STP]"
-msgstr ""
+msgstr "[BP:LU_INCISOR:incisivo superiore sinistro:STP]"
 
 #: body_default.txt:1691
 msgctxt "BODY:RODENT_TEETH"
 msgid "[BP:RL_INCISOR:right lower incisor:STP]"
-msgstr ""
+msgstr "[BP:RL_INCISOR:incisivo inferiore destro:STP]"
 
 #: body_default.txt:1693
 msgctxt "BODY:RODENT_TEETH"
 msgid "[BP:LL_INCISOR:left lower incisor:STP]"
-msgstr ""
+msgstr "[BP:LL_INCISOR:incisivo inferiore sinistro:STP]"
 
 #: body_default.txt:1697
 msgctxt "BODY:GENERIC_TEETH"
@@ -3841,12 +3845,12 @@ msgstr "[BP:LA:gamba anteriore sinistra:STP]"
 #: body_default.txt:1768
 msgctxt "BODY:HAND_FOOT_CENTAUR_NECK"
 msgid "[BP:RFF:right front foot:right front feet]"
-msgstr ""
+msgstr "[BP:RFF:piede anteriore destro:piedi anteriori destri]"
 
 #: body_default.txt:1770
 msgctxt "BODY:HAND_FOOT_CENTAUR_NECK"
 msgid "[BP:LFF:left front foot:left front feet]"
-msgstr ""
+msgstr "[BP:LFF:piede anteriore sinistro:piedi anteriori sinistri]"
 
 #: body_default.txt:1772
 msgctxt "BODY:HAND_FOOT_CENTAUR_NECK"
@@ -3861,12 +3865,12 @@ msgstr "[BP:LL:gamba posteriore sinistra:STP]"
 #: body_default.txt:1776
 msgctxt "BODY:HAND_FOOT_CENTAUR_NECK"
 msgid "[BP:RRF:right rear foot:right rear feet]"
-msgstr ""
+msgstr "[BP:RRF:piede posteriore destro:piedi posteriori destri]"
 
 #: body_default.txt:1778
 msgctxt "BODY:HAND_FOOT_CENTAUR_NECK"
 msgid "[BP:LRF:left rear foot:left rear feet]"
-msgstr ""
+msgstr "[BP:LRF:piede posteriore sinistro:piedi posteriori sinistri]"
 
 #: body_default.txt:1782
 msgctxt "BODY:LARGE_MANDIBLES"
@@ -4026,12 +4030,12 @@ msgstr "[BP:L_UB_PINCER:chela sinistra:STP]"
 #: body_rcp.txt:62
 msgctxt "BODY:RCP_CLAW_ARMS"
 msgid "[BP:R_UB_PINCER:right claw:STP]"
-msgstr ""
+msgstr "[BP:R_UB_PINCER:artiglio destro:STP]"
 
 #: body_rcp.txt:64
 msgctxt "BODY:RCP_CLAW_ARMS"
 msgid "[BP:L_UB_PINCER:left claw:STP]"
-msgstr ""
+msgstr "[BP:L_UB_PINCER:artiglio sinistro:STP]"
 
 #: body_rcp.txt:68
 msgctxt "BODY:RCP_FIRST_SIMPLE_LEGS"
@@ -4136,22 +4140,22 @@ msgstr "[BP:LF4:quarto piede sinistro:quarti piede sinistri]"
 #: body_rcp.txt:118
 msgctxt "BODY:RCP_FIFTH_SIMPLE_LEGS"
 msgid "[BP:RA5:right fifth leg:STP]"
-msgstr ""
+msgstr "[BP:RA5:quinta gamba destra:STP]"
 
 #: body_rcp.txt:120
 msgctxt "BODY:RCP_FIFTH_SIMPLE_LEGS"
 msgid "[BP:LA5:left fifth leg:STP]"
-msgstr ""
+msgstr "[BP:LA5:quinta gamba sinistra:STP]"
 
 #: body_rcp.txt:122
 msgctxt "BODY:RCP_FIFTH_SIMPLE_LEGS"
 msgid "[BP:RF5:right fifth foot:right fifth feet]"
-msgstr ""
+msgstr "[BP:RF5:quinto piede destro:quinti piedi destri]"
 
 #: body_rcp.txt:124
 msgctxt "BODY:RCP_FIFTH_SIMPLE_LEGS"
 msgid "[BP:LF5:left fifth foot:left fifth feet]"
-msgstr ""
+msgstr "[BP:LF5:quinto piede sinistro:quinti piedi sinistri]"
 
 #: body_rcp.txt:128
 msgctxt "BODY:RCP_SIMPLE_FRONT_LEGS"
@@ -4296,7 +4300,7 @@ msgstr "[BP:TAIL_1:coda sinistra:STP]"
 #: body_rcp.txt:202
 msgctxt "BODY:RCP_2_TAILS"
 msgid "[BP:TAIL_2:right tail:STP]"
-msgstr ""
+msgstr "[BP:TAIL_2:coda destra:STP]"
 
 #: body_rcp.txt:206
 msgctxt "BODY:RCP_3_TAILS"
@@ -4306,12 +4310,12 @@ msgstr "[BP:TAIL_1:coda sinistra:STP]"
 #: body_rcp.txt:208
 msgctxt "BODY:RCP_3_TAILS"
 msgid "[BP:TAIL_2:center tail:STP]"
-msgstr ""
+msgstr "[BP:TAIL_2:coda centrale:STP]"
 
 #: body_rcp.txt:210
 msgctxt "BODY:RCP_3_TAILS"
 msgid "[BP:TAIL_3:right tail:STP]"
-msgstr ""
+msgstr "[BP:TAIL_3:coda destra:STP]"
 
 #: body_rcp.txt:214
 msgctxt "BODY:RCP_TAIL_STINGER"
@@ -4341,12 +4345,12 @@ msgstr "[BP:SHELL:guscio:STP]"
 #: body_rcp.txt:235
 msgctxt "BODY:RCP_ANTENNAE"
 msgid "[BP:R_ANT:right antenna:STP]"
-msgstr ""
+msgstr "[BP:R_ANT:antenna destra:STP]"
 
 #: body_rcp.txt:237
 msgctxt "BODY:RCP_ANTENNAE"
 msgid "[BP:L_ANT:left antenna:STP]"
-msgstr ""
+msgstr "[BP:L_ANT:antenna sinistra:STP]"
 
 #: body_rcp.txt:241
 msgctxt "BODY:RCP_1_HEAD_HORN"
@@ -4356,12 +4360,12 @@ msgstr "[BP:HEAD_HORN:corno:STP]"
 #: body_rcp.txt:245
 msgctxt "BODY:RCP_2_HEAD_HORNS"
 msgid "[BP:HEAD_HORN_1:left horn:STP]"
-msgstr ""
+msgstr "[BP:HEAD_HORN_1:corno sinistro:STP]"
 
 #: body_rcp.txt:247
 msgctxt "BODY:RCP_2_HEAD_HORNS"
 msgid "[BP:HEAD_HORN_2:right horn:STP]"
-msgstr ""
+msgstr "[BP:HEAD_HORN_2:corno destro:STP]"
 
 #: body_rcp.txt:251
 msgctxt "BODY:RCP_3_HEAD_HORNS"
@@ -4396,7 +4400,7 @@ msgstr "[BP:HEAD_HORN_3:terzo corno:STP]"
 #: body_rcp.txt:265
 msgctxt "BODY:RCP_4_HEAD_HORNS"
 msgid "[BP:HEAD_HORN_4:fourth horn:STP]"
-msgstr ""
+msgstr "[BP:HEAD_HORN_4:quarto corno:STP]"
 
 #: body_rcp.txt:269
 msgctxt "BODY:RCP_LARGE_MANDIBLES"
@@ -4711,7 +4715,7 @@ msgstr "[BP:FINGER4:quarto dito:STP]"
 #: body_rcp.txt:427
 msgctxt "BODY:RCP_5_FRONT_FINGERS"
 msgid "[BP:FINGER5:fifth finger:STP]"
-msgstr ""
+msgstr "[BP:FINGER5:quinto dito:STP]"
 
 #: body_rcp.txt:431
 msgctxt "BODY:RCP_4_FRONT_FINGERS"
@@ -4981,7 +4985,7 @@ msgstr "[BP:R_EYELID:palpebra destra:STP]"
 #: body_rcp.txt:601
 msgctxt "BODY:RCP_3_EYELIDS"
 msgid "[BP:EYELID:center eyelid:STP]"
-msgstr ""
+msgstr "[BP:EYELID:palpebra centrale:STP]"
 
 #: body_rcp.txt:604
 msgctxt "BODY:RCP_3_EYELIDS"
@@ -4991,7 +4995,7 @@ msgstr "[BODYGLOSS:RCP_GLOSS_HOOF:piede:zoccolo:piedi:zoccoli]"
 #: body_rcp.txt:606
 msgctxt "BODY:RCP_3_EYELIDS"
 msgid "[BODYGLOSS:RCP_GLOSS_PAW:foot:paw:feet:paws]"
-msgstr ""
+msgstr "[BODYGLOSS:RCP_GLOSS_PAW:piede:zampa:piedi:zampe]"
 
 #: body_rcp.txt:609
 msgctxt "BODY:RCP_BILL"
@@ -5001,12 +5005,12 @@ msgstr "[BP:BILL:becco:STP]"
 #: body_rcp.txt:613
 msgctxt "BODY:RCP_2_HEAD_ANTLERS"
 msgid "[BP:HEAD_ANTLER_1:left antler:STP]"
-msgstr ""
+msgstr "[BP:HEAD_ANTLER_1:palco sinistro:STP]"
 
 #: body_rcp.txt:615
 msgctxt "BODY:RCP_2_HEAD_ANTLERS"
 msgid "[BP:HEAD_ANTLER_2:right antler:STP]"
-msgstr ""
+msgstr "[BP:HEAD_ANTLER_2:palco destro:STP]"
 
 #: tissue_template_default.txt:6
 msgctxt "TISSUE_TEMPLATE:SKIN_TEMPLATE"
@@ -5056,12 +5060,12 @@ msgstr "[TISSUE_NAME:capelli:NP]"
 #: tissue_template_default.txt:106
 msgctxt "TISSUE_TEMPLATE:CHEEK_WHISKERS_TEMPLATE"
 msgid "[TISSUE_NAME:cheek whisker:STP]"
-msgstr ""
+msgstr "[TISSUE_NAME:vibrissa:STP]"
 
 #: tissue_template_default.txt:115
 msgctxt "TISSUE_TEMPLATE:CHIN_WHISKERS_TEMPLATE"
 msgid "[TISSUE_NAME:chin whisker:STP]"
-msgstr ""
+msgstr "[TISSUE_NAME:pelo del mento:STP]"
 
 #: tissue_template_default.txt:124
 msgctxt "TISSUE_TEMPLATE:MOUSTACHE_TEMPLATE"
@@ -5146,32 +5150,32 @@ msgstr "[TISSUE_NAME:tessuto cardiaco:NP]"
 #: tissue_template_default.txt:279
 msgctxt "TISSUE_TEMPLATE:LIVER_TEMPLATE"
 msgid "[TISSUE_NAME:liver tissue:NP]"
-msgstr ""
+msgstr "[TISSUE_NAME:tessuto epatico:NP]"
 
 #: tissue_template_default.txt:292
 msgctxt "TISSUE_TEMPLATE:GUT_TEMPLATE"
 msgid "[TISSUE_NAME:gut:NP]"
-msgstr ""
+msgstr "[TISSUE_NAME:budello:NP]"
 
 #: tissue_template_default.txt:305
 msgctxt "TISSUE_TEMPLATE:STOMACH_TEMPLATE"
 msgid "[TISSUE_NAME:stomach tissue:NP]"
-msgstr ""
+msgstr "[TISSUE_NAME:tessuto dello stomaco:NP]"
 
 #: tissue_template_default.txt:318
 msgctxt "TISSUE_TEMPLATE:GIZZARD_TEMPLATE"
 msgid "[TISSUE_NAME:gizzard tissue:NP]"
-msgstr ""
+msgstr "[TISSUE_NAME:tessuto del ventriglio:NP]"
 
 #: tissue_template_default.txt:331
 msgctxt "TISSUE_TEMPLATE:PANCREAS_TEMPLATE"
 msgid "[TISSUE_NAME:pancreatic tissue:NP]"
-msgstr ""
+msgstr "[TISSUE_NAME:tessuto pancreatico:NP]"
 
 #: tissue_template_default.txt:344
 msgctxt "TISSUE_TEMPLATE:SPLEEN_TEMPLATE"
 msgid "[TISSUE_NAME:spleen tissue:NP]"
-msgstr ""
+msgstr "[TISSUE_NAME:tessuto della milza:NP]"
 
 #: tissue_template_default.txt:357
 msgctxt "TISSUE_TEMPLATE:KIDNEY_TEMPLATE"
@@ -5782,8 +5786,7 @@ msgstr ""
 #: creature_birds.txt:130
 msgctxt "CREATURE:BLUEJAY_MAN"
 msgid "[DESCRIPTION:A person with the head and wings of a bluejay.]"
-msgstr ""
-"[DESCRIPTION:Una persona con la testa e le ali di una ghiandaia azzurra.]"
+msgstr "[DESCRIPTION:Una persona con la testa e le ali da ghiandaia azzurra.]"
 
 #: creature_birds.txt:146
 msgctxt "CREATURE:GIANT_BLUEJAY"
@@ -5880,7 +5883,7 @@ msgstr ""
 #: creature_birds.txt:289
 msgctxt "CREATURE:CARDINAL_MAN"
 msgid "[DESCRIPTION:A person with the head and wings of a cardinal.]"
-msgstr "[DESCRIPTION:Una persona con la testa e le ali di un cardinale.]"
+msgstr "[DESCRIPTION:Una persona con la testa e le ali da cardinale.]"
 
 #: creature_birds.txt:305
 msgctxt "CREATURE:GIANT_CARDINAL"
@@ -5978,7 +5981,7 @@ msgstr ""
 #: creature_birds.txt:445
 msgctxt "CREATURE:GRACKLE_MAN"
 msgid "[DESCRIPTION:A person with the head and wings of a grackle.]"
-msgstr "[DESCRIPTION:Una persona con la testa e le ali di una gracola.]"
+msgstr "[DESCRIPTION:Una persona con la testa e le ali da gracola.]"
 
 #: creature_birds.txt:461
 msgctxt "CREATURE:GIANT_GRACKLE"
@@ -6075,7 +6078,7 @@ msgstr ""
 #: creature_birds.txt:600
 msgctxt "CREATURE:ORIOLE_MAN"
 msgid "[DESCRIPTION:A person with the head and wings of an oriole.]"
-msgstr "[DESCRIPTION:Una persona con la testa e le ali di un oriolo.]"
+msgstr "[DESCRIPTION:Una persona con la testa e le ali da oriolo.]"
 
 #: creature_birds.txt:616
 msgctxt "CREATURE:GIANT_ORIOLE"
@@ -6183,7 +6186,7 @@ msgctxt "CREATURE:RW_BLACKBIRD_MAN"
 msgid ""
 "[DESCRIPTION:A person with the head and wings of a red-winged blackbird.]"
 msgstr ""
-"[DESCRIPTION:Una persona con la testa e le ali di un merlo dalle ali rosse.]"
+"[DESCRIPTION:Una persona con la testa e le ali da merlo dalle ali rosse.]"
 
 #: creature_birds.txt:772
 msgctxt "CREATURE:GIANT_RW_BLACKBIRD"
@@ -6549,8 +6552,7 @@ msgstr ""
 #: creature_birds.txt:1294
 msgctxt "CREATURE:PEREGRINE FALCON MAN"
 msgid "[DESCRIPTION:A person with the head and wings of a peregrine falcon.]"
-msgstr ""
-"[DESCRIPTION:Una persona con la testa e le ali di un falco pellegrino.]"
+msgstr "[DESCRIPTION:Una persona con la testa e le ali da falco pellegrino.]"
 
 #: creature_birds.txt:1310
 msgctxt "CREATURE:GIANT PEREGRINE FALCON"
@@ -6908,7 +6910,7 @@ msgstr ""
 #: creature_birds_new.txt:136
 msgctxt "CREATURE:CROW_MAN"
 msgid "[DESCRIPTION:A small person with the head and wings of a crow.]"
-msgstr "[DESCRIPTION:Una piccola persona con la testa e le ali di un corvo.]"
+msgstr "[DESCRIPTION:Una piccola persona con la testa e le ali da corvo.]"
 
 #: creature_birds_new.txt:152
 msgctxt "CREATURE:GIANT_CROW"
@@ -7007,7 +7009,7 @@ msgstr ""
 #: creature_birds_new.txt:305
 msgctxt "CREATURE:RAVEN_MAN"
 msgid "[DESCRIPTION:A person with the head and wings of a raven.]"
-msgstr "[DESCRIPTION:Una persona con la testa e le ali di un corvo maggiore.]"
+msgstr "[DESCRIPTION:Una persona con la testa e le ali da corvo maggiore.]"
 
 #: creature_birds_new.txt:321
 msgctxt "CREATURE:GIANT_RAVEN"
@@ -7312,8 +7314,7 @@ msgstr ""
 #: creature_birds_new.txt:789
 msgctxt "CREATURE:SNOWY_OWL_MAN"
 msgid "[DESCRIPTION:A person with the wings and head of a snowy owl.]"
-msgstr ""
-"[DESCRIPTION:Una persona con la testa e le ali di un gufo delle nevi.]"
+msgstr "[DESCRIPTION:Una persona con la testa e le ali da gufo delle nevi.]"
 
 #: creature_birds_new.txt:805
 msgctxt "CREATURE:GIANT_SNOWY_OWL"
@@ -7420,7 +7421,7 @@ msgstr ""
 #: creature_birds_new.txt:956
 msgctxt "CREATURE:SPARROW_MAN"
 msgid "[DESCRIPTION:A person with the head and wings of a sparrow.]"
-msgstr "[DESCRIPTION:Una persona con la testa e le ali di un passero.]"
+msgstr "[DESCRIPTION:Una persona con la testa e le ali da passero.]"
 
 #: creature_birds_new.txt:972
 msgctxt "CREATURE:GIANT_SPARROW"
@@ -7532,7 +7533,7 @@ msgid ""
 "[DESCRIPTION:A person with the head and wings of a stork, also standing on "
 "long legs.]"
 msgstr ""
-"[DESCRIPTION:Una persona con la testa e le ali di una cicogna, che si regge "
+"[DESCRIPTION:Una persona con la testa e le ali da cicogna, che si regge "
 "anche su lunghe gambe.]"
 
 #: creature_birds_new.txt:1121
@@ -7642,7 +7643,7 @@ msgstr ""
 #: creature_birds_new.txt:1255
 msgctxt "CREATURE:LOON_MAN"
 msgid "[DESCRIPTION:A person with the head and wings of a loon.]"
-msgstr "[DESCRIPTION:Una persona con la testa e le ali di una strolaga.]"
+msgstr "[DESCRIPTION:Una persona con la testa e le ali da strolaga.]"
 
 #: creature_birds_new.txt:1271
 msgctxt "CREATURE:GIANT_LOON"
@@ -7741,32 +7742,35 @@ msgstr "[CASTE_NAME:donna barbagianni:donne barbagianni:donna barbagianni]"
 #: creature_birds_new.txt:1423
 msgctxt "CREATURE:BARN_OWL_MAN"
 msgid "[NAME:barn owl man:barn owl men:barn owl man]"
-msgstr ""
+msgstr "[NAME:uomo barbagianni:uomini barbagianni:uomo barbagianni]"
 
 #: creature_birds_new.txt:1424
 msgctxt "CREATURE:BARN_OWL_MAN"
 msgid "[DESCRIPTION:A person with the arms and wings of a barn owl.]"
-msgstr "[DESCRIPTION:Una persona con le braccia e le ali di un barbagianni.]"
+msgstr "[DESCRIPTION:Una persona con le braccia e le ali da barbagianni.]"
 
 #: creature_birds_new.txt:1440
 msgctxt "CREATURE:GIANT_BARN_OWL"
 msgid "[NAME:giant barn owl:giant barn owls:giant barn owl]"
-msgstr ""
+msgstr "[NAME:barbagianni gigante:barbagianni giganti:barbagianni gigante]"
 
 #: creature_birds_new.txt:1441
 msgctxt "CREATURE:GIANT_BARN_OWL"
 msgid "[CASTE_NAME:giant barn owl:giant barn owls:giant barn owl]"
 msgstr ""
+"[CASTE_NAME:barbagianni gigante:barbagianni giganti:barbagianni gigante]"
 
 #: creature_birds_new.txt:1442
 msgctxt "CREATURE:GIANT_BARN_OWL"
 msgid "[GENERAL_CHILD_NAME:giant barn owl chick:giant barn owl chicks]"
 msgstr ""
+"[GENERAL_CHILD_NAME:pulcino di barbagianni gigante:pulcini di barbagianni "
+"gigante]"
 
 #: creature_birds_new.txt:1443
 msgctxt "CREATURE:GIANT_BARN_OWL"
 msgid "[DESCRIPTION:A large monster in the form of a barn owl.]"
-msgstr ""
+msgstr "[DESCRIPTION:Un grande mostro sotto forma di barbagianni.]"
 
 #: creature_birds_new.txt:1451
 msgctxt "CREATURE:GIANT_BARN_OWL"
@@ -7779,21 +7783,23 @@ msgid ""
 "[DESCRIPTION:A tiny parrot found in flocks of many hundreds.  Exceptional "
 "birds can be taught to speak.]"
 msgstr ""
+"[DESCRIPTION:Un piccolo pappagallo che si trova in stormi di molte centinaia"
+" di esemplari.  È possibile insegnare a parlare questi eccezionali uccelli.]"
 
 #: creature_birds_new.txt:1465
 msgctxt "CREATURE:BIRD_PARAKEET"
 msgid "[NAME:parakeet:parakeets:parakeet]"
-msgstr ""
+msgstr "[NAME:parrocchetto:parrocchetti:parrocchetto]"
 
 #: creature_birds_new.txt:1466
 msgctxt "CREATURE:BIRD_PARAKEET"
 msgid "[CASTE_NAME:parakeet:parakeets:parakeet]"
-msgstr ""
+msgstr "[CASTE_NAME:parrocchetto:parrocchetti:parrocchetto]"
 
 #: creature_birds_new.txt:1467
 msgctxt "CREATURE:BIRD_PARAKEET"
 msgid "[GENERAL_CHILD_NAME:parakeet hatchling:parakeet hatchlings]"
-msgstr ""
+msgstr "[GENERAL_CHILD_NAME:pulcino di parrocchetto:pulcini di parrocchetto]"
 
 #: creature_birds_new.txt:1490
 msgctxt "CREATURE:BIRD_PARAKEET"
@@ -7833,7 +7839,7 @@ msgstr "[TLCM_NOUN:occhi:PLURAL]"
 #: creature_birds_new.txt:1572
 msgctxt "CREATURE:PARAKEET_MAN"
 msgid "[CASTE_NAME:parakeet man:parakeet men:parakeet man]"
-msgstr ""
+msgstr "[CASTE_NAME:uomo parrocchetto:uomini parrochetto:uomo parrocchetto]"
 
 #: creature_birds_new.txt:1574
 msgctxt "CREATURE:PARAKEET_MAN"
@@ -7848,7 +7854,7 @@ msgstr ""
 #: creature_birds_new.txt:1587
 msgctxt "CREATURE:PARAKEET_MAN"
 msgid "[DESCRIPTION:A person with the head and wings of a parakeet.]"
-msgstr "[DESCRIPTION:Una persona con la testa e le ali di un parrocchetto.]"
+msgstr "[DESCRIPTION:Una persona con la testa e le ali da parrocchetto.]"
 
 #: creature_birds_new.txt:1603
 msgctxt "CREATURE:GIANT_PARAKEET"
@@ -7969,7 +7975,7 @@ msgstr ""
 #: creature_birds_new.txt:1736
 msgctxt "CREATURE:KAKAPO_MAN"
 msgid "[DESCRIPTION:A person with the head and wings of a kakapo.]"
-msgstr "[DESCRIPTION:Una persona con la testa e le ali di un cacapò.]"
+msgstr "[DESCRIPTION:Una persona con la testa e le ali da cacapò.]"
 
 #: creature_birds_new.txt:1752
 msgctxt "CREATURE:GIANT_KAKAPO"
@@ -8076,8 +8082,7 @@ msgstr ""
 #: creature_birds_new.txt:1884
 msgctxt "CREATURE:GREY_PARROT_MAN"
 msgid "[DESCRIPTION:A person with the head and wings of a grey parrot.]"
-msgstr ""
-"[DESCRIPTION:Una persona con la testa e le ali di un pappagallo grigio.]"
+msgstr "[DESCRIPTION:Una persona con la testa e le ali da pappagallo grigio.]"
 
 #: creature_birds_new.txt:1900
 msgctxt "CREATURE:GIANT_GREY_PARROT"
@@ -8254,32 +8259,32 @@ msgstr "[TLCM_NOUN:occhi:PLURAL]"
 #: creature_birds_new.txt:2160
 msgctxt "CREATURE:SWAN_MAN"
 msgid "[CASTE_NAME:swan man:swan men:swan man]"
-msgstr ""
+msgstr "[CASTE_NAME:uomo cigno:uomini cigno:uomo cigno]"
 
 #: creature_birds_new.txt:2162
 msgctxt "CREATURE:SWAN_MAN"
 msgid "[CASTE_NAME:swan woman:swan women:swan woman]"
-msgstr ""
+msgstr "[CASTE_NAME:donna cigno:donne cigno:donna cigno]"
 
 #: creature_birds_new.txt:2173
 msgctxt "CREATURE:SWAN_MAN"
 msgid "[NAME:swan man:swan men:swan man]"
-msgstr ""
+msgstr "[NAME:uomo cigno:uomini cigno:uomo cigno]"
 
 #: creature_birds_new.txt:2174
 msgctxt "CREATURE:SWAN_MAN"
 msgid "[DESCRIPTION:A person with the head and wings of a swan.]"
-msgstr "[DESCRIPTION:Una persona con la testa e le ali di un cigno.]"
+msgstr "[DESCRIPTION:Una persona con la testa e le ali da cigno.]"
 
 #: creature_birds_new.txt:2190
 msgctxt "CREATURE:GIANT_SWAN"
 msgid "[NAME:giant swan:giant swans:giant swan]"
-msgstr ""
+msgstr "[NAME:cigno gigante:cigni giganti:cigno gigante]"
 
 #: creature_birds_new.txt:2191
 msgctxt "CREATURE:GIANT_SWAN"
 msgid "[CASTE_NAME:giant swan:giant swans:giant swan]"
-msgstr ""
+msgstr "[CASTE_NAME:cigno gigante:cigni giganti:cigno gigante]"
 
 #: creature_birds_new.txt:2192
 msgctxt "CREATURE:GIANT_SWAN"
@@ -8472,7 +8477,7 @@ msgstr ""
 #: creature_birds_new.txt:2499
 msgctxt "CREATURE:WREN_MAN"
 msgid "[DESCRIPTION:A person with the head and wings of a wren.]"
-msgstr "[DESCRIPTION:Una persona con la testa e le ali di uno scricciolo.]"
+msgstr "[DESCRIPTION:Una persona con la testa e le ali da scricciolo.]"
 
 #: creature_birds_new.txt:2515
 msgctxt "CREATURE:GIANT_WREN"
@@ -8571,8 +8576,7 @@ msgstr ""
 #: creature_birds_new.txt:2666
 msgctxt "CREATURE:OSPREY_MAN"
 msgid "[DESCRIPTION:A person with the head and wings of an osprey.]"
-msgstr ""
-"[DESCRIPTION:Una persona con la testa e le ali di un falco pescatore.]"
+msgstr "[DESCRIPTION:Una persona con la testa e le ali da falco pescatore.]"
 
 #: creature_birds_new.txt:2682
 msgctxt "CREATURE:GIANT_OSPREY"
@@ -8779,7 +8783,7 @@ msgstr ""
 msgctxt "CREATURE:COCKATIEL_MAN"
 msgid "[DESCRIPTION:A crested person with the head and wings of a cockatiel.]"
 msgstr ""
-"[DESCRIPTION:Una persona crestata con la testa e le ali di una calopsitta.]"
+"[DESCRIPTION:Una persona crestata con la testa e le ali da calopsitta.]"
 
 #: creature_birds_new.txt:2996
 msgctxt "CREATURE:GIANT_COCKATIEL"
@@ -8956,7 +8960,7 @@ msgstr "[PREFSTRING:intelligenza]"
 #: creature_birds_new.txt:3206
 msgctxt "CREATURE:BIRD_MAGPIE"
 msgid "[PREFSTRING:fondness of shiny objects]"
-msgstr ""
+msgstr "[PREFSTRING:passione per gli oggetti luccicanti]"
 
 #: creature_birds_new.txt:3244
 msgctxt "CREATURE:BIRD_MAGPIE"
@@ -9001,7 +9005,7 @@ msgstr ""
 #: creature_birds_new.txt:3302
 msgctxt "CREATURE:MAGPIE_MAN"
 msgid "[DESCRIPTION:A person with the head and wings of a magpie.]"
-msgstr "[DESCRIPTION:Una persona con la testa e le ali di un gazza.]"
+msgstr "[DESCRIPTION:Una persona con la testa e le ali da gazza.]"
 
 #: creature_birds_new.txt:3318
 msgctxt "CREATURE:GIANT_MAGPIE"
@@ -9031,7 +9035,7 @@ msgstr "[PREFSTRING:intelligenza]"
 #: creature_birds_new.txt:3331
 msgctxt "CREATURE:GIANT_MAGPIE"
 msgid "[PREFSTRING:fondness of shiny objects]"
-msgstr ""
+msgstr "[PREFSTRING:passione per gli oggetti luccicanti]"
 
 #: creature_birds_new.txt:3341
 msgctxt "CREATURE:BIRD_KESTREL"
@@ -9108,7 +9112,7 @@ msgstr ""
 #: creature_birds_new.txt:3469
 msgctxt "CREATURE:KESTREL_MAN"
 msgid "[DESCRIPTION:A person with the head and wings of a kestrel.]"
-msgstr "[DESCRIPTION:Una persona con la testa e le ali di un gheppio.]"
+msgstr "[DESCRIPTION:Una persona con la testa e le ali da gheppio.]"
 
 #: creature_birds_new.txt:3485
 msgctxt "CREATURE:GIANT_KESTREL"
@@ -9205,7 +9209,7 @@ msgstr ""
 #: creature_birds_new.txt:3613
 msgctxt "CREATURE:ALBATROSS_MAN"
 msgid "[DESCRIPTION:A person with the head and wings of an albatross.]"
-msgstr "[DESCRIPTION:Una persona con la testa e le ali di un albatros.]"
+msgstr "[DESCRIPTION:Una persona con la testa e le ali da albatros.]"
 
 #: creature_birds_new.txt:3629
 msgctxt "CREATURE:GIANT_ALBATROSS"
@@ -9315,7 +9319,7 @@ msgid ""
 "[DESCRIPTION:A feathered person with the head and wings of a great horned "
 "owl.]"
 msgstr ""
-"[DESCRIPTION:Una persona piumata con la testa e le ali di un grande gufo "
+"[DESCRIPTION:Una persona piumata con la testa e le ali da grande gufo "
 "cornuto.]"
 
 #: creature_birds_new.txt:3799
@@ -9421,7 +9425,7 @@ msgstr ""
 #: creature_birds_new.txt:3951
 msgctxt "CREATURE:EAGLE_MAN"
 msgid "[DESCRIPTION:A feathered person with the head and wings of an eagle.]"
-msgstr "[DESCRIPTION:Una persona piumata con la testa e le ali di un'aquila.]"
+msgstr "[DESCRIPTION:Una persona piumata con la testa e le ali da'aquila.]"
 
 #: creature_birds_new.txt:3967
 msgctxt "CREATURE:GIANT_EAGLE"
@@ -9728,7 +9732,7 @@ msgstr ""
 #: creature_birds_new.txt:4426
 msgctxt "CREATURE:BUSHTIT_MAN"
 msgid "[DESCRIPTION:A person with the head and wings of a bushtit.]"
-msgstr "[DESCRIPTION:Una persona con la testa e le ali di un egitalide.]"
+msgstr "[DESCRIPTION:Una persona con la testa e le ali da egitalide.]"
 
 #: creature_birds_new.txt:4442
 msgctxt "CREATURE:GIANT_BUSHTIT"
@@ -9808,7 +9812,7 @@ msgstr ""
 #: creature_bug_slug_new.txt:79
 msgctxt "CREATURE:DAMSELFLY_MAN"
 msgid "[DESCRIPTION:A person with the wings and head of a damselfly.]"
-msgstr "[DESCRIPTION:Una persona con la testa e le ali di una damigella.]"
+msgstr "[DESCRIPTION:Una persona con la testa e le ali da damigella.]"
 
 #: creature_bug_slug_new.txt:95
 msgctxt "CREATURE:GIANT_DAMSELFLY"
@@ -9879,7 +9883,7 @@ msgstr ""
 #: creature_bug_slug_new.txt:187
 msgctxt "CREATURE:MOTH_MAN"
 msgid "[DESCRIPTION:A person with the head and wings of a moth.]"
-msgstr "[DESCRIPTION:Una persona con la testa e le ali di una falena.]"
+msgstr "[DESCRIPTION:Una persona con la testa e le ali da falena.]"
 
 #: creature_bug_slug_new.txt:203
 msgctxt "CREATURE:GIANT_MOTH"
@@ -10401,7 +10405,7 @@ msgstr ""
 #: creature_bug_slug_new.txt:890
 msgctxt "CREATURE:THRIPS_MAN"
 msgid "[DESCRIPTION:A person with the head and wings of a thrips.]"
-msgstr "[DESCRIPTION:Una persona con la testa e le ali di un tisanottero.]"
+msgstr "[DESCRIPTION:Una persona con la testa e le ali da tisanottero.]"
 
 #: creature_bug_slug_new.txt:906
 msgctxt "CREATURE:GIANT_THRIPS"
@@ -11813,12 +11817,12 @@ msgstr ""
 #: creature_domestic.txt:599
 msgctxt "CREATURE:COW"
 msgid "[NAME:cow:cows:bovine]"
-msgstr ""
+msgstr "[NAME:mucca:mucche:bovino]"
 
 #: creature_domestic.txt:600
 msgctxt "CREATURE:COW"
 msgid "[CASTE_NAME:cow:cows:bovine]"
-msgstr ""
+msgstr "[CASTE_NAME:mucca:mucche:bovino]"
 
 #: creature_domestic.txt:604
 msgctxt "CREATURE:COW"
@@ -11962,7 +11966,7 @@ msgstr ""
 #: creature_domestic.txt:728
 msgctxt "CREATURE:SHEEP"
 msgid "[NAME:sheep:sheep:ovine]"
-msgstr ""
+msgstr "[NAME:pecora:pecora:ovino]"
 
 #: creature_domestic.txt:729
 msgctxt "CREATURE:SHEEP"
@@ -12728,17 +12732,17 @@ msgstr "[PREFSTRING:grandi mandrie]"
 #: creature_domestic.txt:1551
 msgctxt "CREATURE:REINDEER"
 msgid "[STATE_NAME:ALL_SOLID:antler]"
-msgstr "[STATE_NAME:ALL_SOLID:corno]"
+msgstr "[STATE_NAME:ALL_SOLID:palco]"
 
 #: creature_domestic.txt:1552
 msgctxt "CREATURE:REINDEER"
 msgid "[STATE_ADJ:ALL_SOLID:antler]"
-msgstr "[STATE_ADJ:ALL_SOLID:corno]"
+msgstr "[STATE_ADJ:ALL_SOLID:palco]"
 
 #: creature_domestic.txt:1556
 msgctxt "CREATURE:REINDEER"
 msgid "[TISSUE_NAME:antler:NP]"
-msgstr "[TISSUE_NAME:corno:NP]"
+msgstr "[TISSUE_NAME:palco:NP]"
 
 #: creature_domestic.txt:1584
 msgctxt "CREATURE:REINDEER"
@@ -13651,7 +13655,7 @@ msgstr ""
 #: creature_fanciful.txt:10
 msgctxt "CREATURE:CHIMERA"
 msgid "[PREFSTRING:terrifying features]"
-msgstr ""
+msgstr "[PREFSTRING:tratti terrificanti]"
 
 #: creature_fanciful.txt:14
 msgctxt "CREATURE:CENTAUR"
@@ -13738,7 +13742,7 @@ msgstr ""
 #: creature_insects.txt:78
 msgctxt "CREATURE:FLY_MAN"
 msgid "[DESCRIPTION:A person with the wings and head of a fly.]"
-msgstr "[DESCRIPTION:Una persona con la testa e le ali di una mosca.]"
+msgstr "[DESCRIPTION:Una persona con la testa e le ali da mosca.]"
 
 #: creature_insects.txt:94
 msgctxt "CREATURE:GIANT_FLY"
@@ -13810,7 +13814,7 @@ msgstr "[NAME:uomo blatta:uomini blatta:uomo blatta]"
 #: creature_insects.txt:184
 msgctxt "CREATURE:ROACH_MAN"
 msgid "[DESCRIPTION:A person with the wings and head of a roach.]"
-msgstr "[DESCRIPTION:Una persona con la testa e le ali di una blatta.]"
+msgstr "[DESCRIPTION:Una persona con la testa e le ali da blatta.]"
 
 #: creature_insects.txt:200
 msgctxt "CREATURE:GIANT_ROACH"
@@ -14004,8 +14008,7 @@ msgstr ""
 #: creature_insects.txt:468
 msgctxt "CREATURE:BUTTERFLY_MONARCH_MAN"
 msgid "[DESCRIPTION:A person with the wings and head of a monarch butterfly.]"
-msgstr ""
-"[DESCRIPTION:Una persona con la testa e le ali di una farfalla monarca.]"
+msgstr "[DESCRIPTION:Una persona con la testa e le ali da farfalla monarca.]"
 
 #: creature_insects.txt:484
 msgctxt "CREATURE:GIANT_BUTTERFLY_MONARCH"
@@ -14081,7 +14084,7 @@ msgstr ""
 #: creature_insects.txt:573
 msgctxt "CREATURE:FIREFLY_MAN"
 msgid "[DESCRIPTION:A person with the wings and head of a firefly.]"
-msgstr "[DESCRIPTION:Una persona con la testa e le ali di una lucciola.]"
+msgstr "[DESCRIPTION:Una persona con la testa e le ali da lucciola.]"
 
 #: creature_insects.txt:589
 msgctxt "CREATURE:GIANT_FIREFLY"
@@ -14151,7 +14154,7 @@ msgstr ""
 #: creature_insects.txt:676
 msgctxt "CREATURE:DRAGONFLY_MAN"
 msgid "[DESCRIPTION:A person with the wings and head of a dragonfly.]"
-msgstr "[DESCRIPTION:Una persona con la testa e le ali di una libellula.]"
+msgstr "[DESCRIPTION:Una persona con la testa e le ali da libellula.]"
 
 #: creature_insects.txt:692
 msgctxt "CREATURE:GIANT_DRAGONFLY"
@@ -17435,17 +17438,17 @@ msgstr "[ATTACK_VERB:mordi:morde]"
 #: creature_large_temperate.txt:385
 msgctxt "CREATURE:DEER"
 msgid "[STATE_NAME:ALL_SOLID:antler]"
-msgstr "[STATE_NAME:ALL_SOLID:corno]"
+msgstr "[STATE_NAME:ALL_SOLID:palco]"
 
 #: creature_large_temperate.txt:386
 msgctxt "CREATURE:DEER"
 msgid "[STATE_ADJ:ALL_SOLID:antler]"
-msgstr "[STATE_ADJ:ALL_SOLID:corno]"
+msgstr "[STATE_ADJ:ALL_SOLID:palco]"
 
 #: creature_large_temperate.txt:391
 msgctxt "CREATURE:DEER"
 msgid "[TISSUE_NAME:antler:NP]"
-msgstr "[TISSUE_NAME:corno:NP]"
+msgstr "[TISSUE_NAME:palco:NP]"
 
 #: creature_large_temperate.txt:418
 msgctxt "CREATURE:DEER"
@@ -18243,7 +18246,7 @@ msgstr ""
 #: creature_large_temperate.txt:1657
 msgctxt "CREATURE:BUZZARD_MAN"
 msgid "[DESCRIPTION:A person with the head and wings of a buzzard.]"
-msgstr "[DESCRIPTION:Una persona con la testa e le ali di una poiana.]"
+msgstr "[DESCRIPTION:Una persona con la testa e le ali da poiana.]"
 
 #: creature_large_temperate.txt:1673
 msgctxt "CREATURE:GIANT_BUZZARD"
@@ -18752,12 +18755,12 @@ msgstr ""
 #: creature_large_temperate.txt:2258
 msgctxt "CREATURE:MOOSE"
 msgid "[NAME:moose:moose:moose]"
-msgstr ""
+msgstr "[NAME:alce:alci:alce]"
 
 #: creature_large_temperate.txt:2259
 msgctxt "CREATURE:MOOSE"
 msgid "[GENERAL_CHILD_NAME:moose calf:moose calves]"
-msgstr ""
+msgstr "[GENERAL_CHILD_NAME:vitello d'alce:vitelli d'alce]"
 
 #: creature_large_temperate.txt:2263
 msgctxt "CREATURE:MOOSE"
@@ -18767,17 +18770,17 @@ msgstr "[PREFSTRING:taglia grande]"
 #: creature_large_temperate.txt:2264
 msgctxt "CREATURE:MOOSE"
 msgid "[PREFSTRING:broad antlers]"
-msgstr "[PREFSTRING:ampie corna]"
+msgstr "[PREFSTRING:ampio palco]"
 
 #: creature_large_temperate.txt:2282
 msgctxt "CREATURE:MOOSE"
 msgid "[CASTE_NAME:cow moose:cow moose:cow moose]"
-msgstr ""
+msgstr "[CASTE_NAME:mucca alce:mucche alci:mucca alce]"
 
 #: creature_large_temperate.txt:2291
 msgctxt "CREATURE:MOOSE"
 msgid "[CASTE_NAME:bull moose:bull moose:bull moose]"
-msgstr ""
+msgstr "[CASTE_NAME:toro alce:tori alci:toro alce]"
 
 #: creature_large_temperate.txt:2296
 msgctxt "CREATURE:MOOSE"
@@ -18797,17 +18800,17 @@ msgstr "[ATTACK_VERB:mordi:morde]"
 #: creature_large_temperate.txt:2334
 msgctxt "CREATURE:MOOSE"
 msgid "[STATE_NAME:ALL_SOLID:antler]"
-msgstr "[STATE_NAME:ALL_SOLID:corno]"
+msgstr "[STATE_NAME:ALL_SOLID:palco]"
 
 #: creature_large_temperate.txt:2335
 msgctxt "CREATURE:MOOSE"
 msgid "[STATE_ADJ:ALL_SOLID:antler]"
-msgstr "[STATE_ADJ:ALL_SOLID:corno]"
+msgstr "[STATE_ADJ:ALL_SOLID:palco]"
 
 #: creature_large_temperate.txt:2340
 msgctxt "CREATURE:MOOSE"
 msgid "[TISSUE_NAME:antler:NP]"
-msgstr "[TISSUE_NAME:corno:NP]"
+msgstr "[TISSUE_NAME:palco:NP]"
 
 #: creature_large_temperate.txt:2364
 msgctxt "CREATURE:MOOSE"
@@ -18827,47 +18830,48 @@ msgstr "[TLCM_NOUN:occhi:PLURAL]"
 #: creature_large_temperate.txt:2381
 msgctxt "CREATURE:MOOSE MAN"
 msgid "[CASTE_NAME:moose man:moose men:moose man]"
-msgstr ""
+msgstr "[CASTE_NAME:uomo alce:uomini alci:uomo alce]"
 
 #: creature_large_temperate.txt:2383
 msgctxt "CREATURE:MOOSE MAN"
 msgid "[CASTE_NAME:moose woman:moose women:moose woman]"
-msgstr ""
+msgstr "[CASTE_NAME:donna alce:donne alci:donne alce]"
 
 #: creature_large_temperate.txt:2394
 msgctxt "CREATURE:MOOSE MAN"
 msgid "[NAME:moose man:moose men:moose man]"
-msgstr ""
+msgstr "[NAME:uomo alce:uomini alci:uomo alce]"
 
 #: creature_large_temperate.txt:2395
 msgctxt "CREATURE:MOOSE MAN"
 msgid "[DESCRIPTION:A humanoid with the head and antlers of a moose.]"
-msgstr ""
+msgstr "[DESCRIPTION:Un umanoide con testa e palco da alce.]"
 
 #: creature_large_temperate.txt:2410
 msgctxt "CREATURE:MOOSE, GIANT"
 msgid "[NAME:giant moose:giant moose:giant moose]"
-msgstr ""
+msgstr "[NAME:alce gigante:alci giganti:alce gigante]"
 
 #: creature_large_temperate.txt:2411
 msgctxt "CREATURE:MOOSE, GIANT"
 msgid "[GENERAL_CHILD_NAME:giant moose calf:giant moose calves]"
-msgstr ""
+msgstr "[GENERAL_CHILD_NAME:vitello d'alce gigante:vitelli d'alce gigante]"
 
 #: creature_large_temperate.txt:2412
 msgctxt "CREATURE:MOOSE, GIANT"
 msgid "[DESCRIPTION:A huge monster the shape of a moose.]"
-msgstr ""
+msgstr "[DESCRIPTION:Un enorme mostro sotto forma di alce.]"
 
 #: creature_large_temperate.txt:2422
 msgctxt "CREATURE:MOOSE, GIANT"
 msgid "[CASTE_NAME:giant moose cow:giant moose cows:giant moose cow]"
 msgstr ""
+"[CASTE_NAME:mucca alce gigante:mucche alci giganti:mucca alce gigante]"
 
 #: creature_large_temperate.txt:2424
 msgctxt "CREATURE:MOOSE, GIANT"
 msgid "[CASTE_NAME:giant moose bull:giant moose bulls:giant moose bull]"
-msgstr ""
+msgstr "[CASTE_NAME:toro alce gigante:tori alci giganti:toro alce gigante]"
 
 #: creature_large_temperate.txt:2426
 msgctxt "CREATURE:MOOSE, GIANT"
@@ -18877,7 +18881,7 @@ msgstr "[PREFSTRING:grossa taglia]"
 #: creature_large_temperate.txt:2427
 msgctxt "CREATURE:MOOSE, GIANT"
 msgid "[PREFSTRING:broad antlers]"
-msgstr "[PREFSTRING:ampie corna]"
+msgstr "[PREFSTRING:ampio palco]"
 
 #: creature_large_temperate.txt:2440
 msgctxt "CREATURE:RED PANDA"
@@ -19094,7 +19098,7 @@ msgstr ""
 #: creature_large_tropical.txt:33
 msgctxt "CREATURE:ELEPHANT"
 msgid "[PREFSTRING:trumpeting]"
-msgstr ""
+msgstr "[PREFSTRING:barrisce]"
 
 #: creature_large_tropical.txt:34
 msgctxt "CREATURE:ELEPHANT"
@@ -19231,7 +19235,7 @@ msgstr ""
 #: creature_large_tropical.txt:166
 msgctxt "CREATURE:GIANT_ELEPHANT"
 msgid "[PREFSTRING:trumpeting]"
-msgstr ""
+msgstr "[PREFSTRING:barrisce]"
 
 #: creature_large_tropical.txt:167
 msgctxt "CREATURE:GIANT_ELEPHANT"
@@ -21270,7 +21274,7 @@ msgstr ""
 #: creature_large_tropical.txt:3232
 msgctxt "CREATURE:VULTURE_MAN"
 msgid "[DESCRIPTION:A person with the head and wings of a vulture.]"
-msgstr "[DESCRIPTION:Una persona con la testa e le ali di un avvoltoio.]"
+msgstr "[DESCRIPTION:Una persona con la testa e le ali da avvoltoio.]"
 
 #: creature_large_tropical.txt:3248
 msgctxt "CREATURE:GIANT_VULTURE"
@@ -21929,16 +21933,18 @@ msgid ""
 "[DESCRIPTION:A large hooved animal found roaming wild in temperate forests."
 "  The males have long antlers.]"
 msgstr ""
+"[DESCRIPTION:Un grande animale ungulato che si aggira nelle foreste "
+"temperate.  I maschi hanno lunghe corna.]"
 
 #: creature_large_tundra.txt:166
 msgctxt "CREATURE:ELK"
 msgid "[NAME:elk:elk:elk]"
-msgstr ""
+msgstr "[NAME:wapiti:wapiti:wapiti]"
 
 #: creature_large_tundra.txt:167
 msgctxt "CREATURE:ELK"
 msgid "[CASTE_NAME:elk:elk:elk]"
-msgstr ""
+msgstr "[CASTE_NAME:wapiti:wapiti:wapiti]"
 
 #: creature_large_tundra.txt:174
 msgctxt "CREATURE:ELK"
@@ -21948,17 +21954,17 @@ msgstr "[PREFSTRING:grazia]"
 #: creature_large_tundra.txt:195
 msgctxt "CREATURE:ELK"
 msgid "[STATE_NAME:ALL_SOLID:antler]"
-msgstr "[STATE_NAME:ALL_SOLID:corno]"
+msgstr "[STATE_NAME:ALL_SOLID:palco]"
 
 #: creature_large_tundra.txt:196
 msgctxt "CREATURE:ELK"
 msgid "[STATE_ADJ:ALL_SOLID:antler]"
-msgstr "[STATE_ADJ:ALL_SOLID:corno]"
+msgstr "[STATE_ADJ:ALL_SOLID:palco]"
 
 #: creature_large_tundra.txt:203
 msgctxt "CREATURE:ELK"
 msgid "[TISSUE_NAME:antler:NP]"
-msgstr "[TISSUE_NAME:corno:NP]"
+msgstr "[TISSUE_NAME:palco:NP]"
 
 #: creature_large_tundra.txt:231
 msgctxt "CREATURE:ELK"
@@ -21973,7 +21979,7 @@ msgstr "[ATTACK_VERB:mordi:morde]"
 #: creature_large_tundra.txt:254
 msgctxt "CREATURE:ELK"
 msgid "[GENERAL_CHILD_NAME:elk fawn:elk fawns]"
-msgstr ""
+msgstr "[GENERAL_CHILD_NAME:cerbiatto di wapiti:cerbiatto di wapiti]"
 
 #: creature_large_tundra.txt:264
 msgctxt "CREATURE:ELK"
@@ -21993,42 +21999,43 @@ msgstr "[TLCM_NOUN:occhi:PLURAL]"
 #: creature_large_tundra.txt:279
 msgctxt "CREATURE:ELK_MAN"
 msgid "[CASTE_NAME:elk man:elk men:elk man]"
-msgstr ""
+msgstr "[CASTE_NAME:uomo wapiti:uomini wapiti:uomo wapiti]"
 
 #: creature_large_tundra.txt:281
 msgctxt "CREATURE:ELK_MAN"
 msgid "[CASTE_NAME:elk woman:elk women:elk woman]"
-msgstr ""
+msgstr "[CASTE_NAME:donna wapiti:donne wapiti:donna wapiti]"
 
 #: creature_large_tundra.txt:291
 msgctxt "CREATURE:ELK_MAN"
 msgid "[NAME:elk man:elk men:elk man]"
-msgstr ""
+msgstr "[NAME:uomo wapiti:uomini wapiti:uomo wapiti]"
 
 #: creature_large_tundra.txt:292
 msgctxt "CREATURE:ELK_MAN"
 msgid "[DESCRIPTION:A person with the head of an elk.]"
-msgstr ""
+msgstr "[DESCRIPTION:Una persona con la testa da wapiti.]"
 
 #: creature_large_tundra.txt:308
 msgctxt "CREATURE:GIANT_ELK"
 msgid "[NAME:giant elk:giant elk:giant elk]"
-msgstr ""
+msgstr "[NAME:wapiti gigante:wapiti giganti:wapiti gigante]"
 
 #: creature_large_tundra.txt:309
 msgctxt "CREATURE:GIANT_ELK"
 msgid "[CASTE_NAME:giant elk:giant elk:giant elk]"
-msgstr ""
+msgstr "[CASTE_NAME:wapiti gigante:wapiti giganti:wapiti gigante]"
 
 #: creature_large_tundra.txt:310
 msgctxt "CREATURE:GIANT_ELK"
 msgid "[GENERAL_CHILD_NAME:giant elk fawn:giant elk fawns]"
 msgstr ""
+"[GENERAL_CHILD_NAME:cerbiatto di wapiti gigante:cerbiatto di wapiti giganti]"
 
 #: creature_large_tundra.txt:311
 msgctxt "CREATURE:GIANT_ELK"
 msgid "[DESCRIPTION:A huge monster in the form of an elk.]"
-msgstr ""
+msgstr "[DESCRIPTION:Un enorme mostro sotto forma di wapiti.]"
 
 #: creature_large_tundra.txt:320
 msgctxt "CREATURE:GIANT_ELK"
@@ -22704,7 +22711,7 @@ msgstr ""
 #: creature_next_underground.txt:645
 msgctxt "CREATURE:HUNGRY_HEAD"
 msgid "[PREFSTRING:terrifying features]"
-msgstr ""
+msgstr "[PREFSTRING:tratti terrificanti]"
 
 #: creature_next_underground.txt:679
 msgctxt "CREATURE:HUNGRY_HEAD"
@@ -22785,21 +22792,25 @@ msgid ""
 "It walks on two legs and has the head of a bird with the antlers of a great "
 "elk.]"
 msgstr ""
+"[DESCRIPTION:Una grande creatura che si nutre di funghi nelle profondità del"
+" sottosuolo.  Cammina su due zampe e ha la testa da uccello con le corna di "
+"un grande wapiti.]"
 
 #: creature_next_underground.txt:747
 msgctxt "CREATURE:ELK_BIRD"
 msgid "[NAME:elk bird:elk birds:elk bird]"
-msgstr ""
+msgstr "[NAME:uccello wapiti:uccelli wapiti:uccello wapiti]"
 
 #: creature_next_underground.txt:748
 msgctxt "CREATURE:ELK_BIRD"
 msgid "[CASTE_NAME:elk bird:elk birds:elk bird]"
-msgstr ""
+msgstr "[CASTE_NAME:uccello wapiti:uccelli wapiti:uccello wapiti]"
 
 #: creature_next_underground.txt:749
 msgctxt "CREATURE:ELK_BIRD"
 msgid "[GENERAL_CHILD_NAME:elk bird hatchling:elk bird hatchlings]"
 msgstr ""
+"[GENERAL_CHILD_NAME:pulcino di uccello wapiti:pulcini di uccello wapiti]"
 
 #: creature_next_underground.txt:770
 msgctxt "CREATURE:ELK_BIRD"
@@ -22809,17 +22820,17 @@ msgstr ""
 #: creature_next_underground.txt:775
 msgctxt "CREATURE:ELK_BIRD"
 msgid "[STATE_NAME:ALL_SOLID:antler]"
-msgstr "[STATE_NAME:ALL_SOLID:corno]"
+msgstr "[STATE_NAME:ALL_SOLID:palco]"
 
 #: creature_next_underground.txt:776
 msgctxt "CREATURE:ELK_BIRD"
 msgid "[STATE_ADJ:ALL_SOLID:antler]"
-msgstr "[STATE_ADJ:ALL_SOLID:corno]"
+msgstr "[STATE_ADJ:ALL_SOLID:palco]"
 
 #: creature_next_underground.txt:782
 msgctxt "CREATURE:ELK_BIRD"
 msgid "[TISSUE_NAME:antler:NP]"
-msgstr "[TISSUE_NAME:corno:NP]"
+msgstr "[TISSUE_NAME:palco:NP]"
 
 #: creature_next_underground.txt:817
 msgctxt "CREATURE:ELK_BIRD"
@@ -26980,7 +26991,7 @@ msgstr ""
 msgctxt "CREATURE:FLYING_SQUIRREL_MAN"
 msgid "[DESCRIPTION:A person with the head and wings of a flying squirrel.]"
 msgstr ""
-"[DESCRIPTION:Una persona con la testa e le ali di uno scoiattolo volante.]"
+"[DESCRIPTION:Una persona con la testa e le ali da scoiattolo volante.]"
 
 #: creature_small_mammal_new.txt:425
 msgctxt "CREATURE:GIANT_FLYING_SQUIRREL"
@@ -28953,21 +28964,22 @@ msgstr "[TLCM_NOUN:occhi:PLURAL]"
 msgctxt "CREATURE:HUMAN"
 msgid "[DESCRIPTION:A medium-sized creature prone to great ambition.]"
 msgstr ""
+"[DESCRIPTION:Una creatura di medie dimensioni incline a grandi ambizioni.]"
 
 #: creature_standard.txt:452
 msgctxt "CREATURE:HUMAN"
 msgid "[NAME:human:humans:human]"
-msgstr ""
+msgstr "[NAME:umano:umani:umano]"
 
 #: creature_standard.txt:453
 msgctxt "CREATURE:HUMAN"
 msgid "[CASTE_NAME:human:humans:human]"
-msgstr ""
+msgstr "[CASTE_NAME:umano:umani:umano]"
 
 #: creature_standard.txt:461
 msgctxt "CREATURE:HUMAN"
 msgid "[PREFSTRING:stature]"
-msgstr ""
+msgstr "[PREFSTRING:statura]"
 
 #: creature_standard.txt:500
 msgctxt "CREATURE:HUMAN"
@@ -29391,6 +29403,8 @@ msgctxt "CREATURE:GOBLIN"
 msgid ""
 "[DESCRIPTION:A medium-sized humanoid driven to cruelty by its evil nature.]"
 msgstr ""
+"[DESCRIPTION:Un umanoide di medie dimensioni volto alla crudeltà dalla sua "
+"natura malvagia.]"
 
 #: creature_standard.txt:1010
 msgctxt "CREATURE:GOBLIN"
@@ -29405,7 +29419,7 @@ msgstr "[CASTE_NAME:goblin:goblin:goblin]"
 #: creature_standard.txt:1019
 msgctxt "CREATURE:GOBLIN"
 msgid "[PREFSTRING:terrifying features]"
-msgstr ""
+msgstr "[PREFSTRING:tratti terrificanti]"
 
 #: creature_standard.txt:1070
 msgctxt "CREATURE:GOBLIN"
@@ -29608,16 +29622,18 @@ msgid ""
 "[DESCRIPTION:A small, squat humanoid with large pointy ears and yellow "
 "glowing eyes.]"
 msgstr ""
+"[DESCRIPTION:Un umanoide piccolo e tozzo con grandi orecchie a punta e occhi"
+" gialli e luminosi.]"
 
 #: creature_standard.txt:1284
 msgctxt "CREATURE:KOBOLD"
 msgid "[NAME:kobold:kobolds:kobold]"
-msgstr ""
+msgstr "[NAME:coboldo:coboldi:coboldo]"
 
 #: creature_standard.txt:1285
 msgctxt "CREATURE:KOBOLD"
 msgid "[CASTE_NAME:kobold:kobolds:kobold]"
-msgstr ""
+msgstr "[CASTE_NAME:coboldo:coboldi:coboldo]"
 
 #: creature_standard.txt:1293
 msgctxt "CREATURE:KOBOLD"
@@ -29789,16 +29805,18 @@ msgctxt "CREATURE:GREMLIN"
 msgid ""
 "[DESCRIPTION:A small humanoid creature with a mischievous, toothy grin.]"
 msgstr ""
+"[DESCRIPTION:Una piccola creatura umanoide con un sorriso malizioso a 32 "
+"denti.]"
 
 #: creature_standard.txt:1520
 msgctxt "CREATURE:GREMLIN"
 msgid "[NAME:gremlin:gremlins:gremlin]"
-msgstr ""
+msgstr "[NAME:gremlin:gremlin:gremlin]"
 
 #: creature_standard.txt:1521
 msgctxt "CREATURE:GREMLIN"
 msgid "[CASTE_NAME:gremlin:gremlins:gremlin]"
-msgstr ""
+msgstr "[CASTE_NAME:gremlin:gremlin:gremlin]"
 
 #: creature_standard.txt:1532
 msgctxt "CREATURE:GREMLIN"
@@ -29902,7 +29920,7 @@ msgstr "[CASTE_NAME:troll:troll:troll]"
 #: creature_standard.txt:1729
 msgctxt "CREATURE:TROLL"
 msgid "[PREFSTRING:terrifying features]"
-msgstr "[PREFSTRING:caratteristiche terrificanti]"
+msgstr "[PREFSTRING:tratti terrificanti]"
 
 #: creature_standard.txt:1734
 msgctxt "CREATURE:TROLL"
@@ -30000,21 +30018,24 @@ msgid ""
 "[DESCRIPTION:A giant humanoid monster found stomping about in the evil "
 "plains.  Their low howls can be heard long before they are seen.]"
 msgstr ""
+"[DESCRIPTION:Un gigantesco mostro umanoide che si aggira nelle pianure del "
+"male.  I loro bassi ululati possono essere uditi molto prima che siano "
+"visti.]"
 
 #: creature_standard.txt:1916
 msgctxt "CREATURE:OGRE"
 msgid "[NAME:ogre:ogres:ogre]"
-msgstr ""
+msgstr "[NAME:orco:orchi:orco]"
 
 #: creature_standard.txt:1917
 msgctxt "CREATURE:OGRE"
 msgid "[CASTE_NAME:ogre:ogres:ogre]"
-msgstr ""
+msgstr "[CASTE_NAME:orco:orchi:orco]"
 
 #: creature_standard.txt:1934
 msgctxt "CREATURE:OGRE"
 msgid "[PREFSTRING:low howls]"
-msgstr ""
+msgstr "[PREFSTRING:bassi ululati]"
 
 #: creature_standard.txt:1974
 msgctxt "CREATURE:OGRE"
@@ -30064,7 +30085,7 @@ msgstr "[ATTACK_VERB:mordi:morde]"
 #: creature_standard.txt:2075
 msgctxt "CREATURE:OGRE"
 msgid "[CASTE_NAME:ogress:ogresses:ogress]"
-msgstr ""
+msgstr "[CASTE_NAME:orchessa:orchesse:orchessa]"
 
 #: creature_standard.txt:2083
 msgctxt "CREATURE:OGRE"
@@ -30082,6 +30103,8 @@ msgid ""
 "[DESCRIPTION:A horse-like creature with a spiral horn growing from its "
 "forehead.]"
 msgstr ""
+"[DESCRIPTION:Una creatura simile a un cavallo con un corno a spirale che "
+"spunta dalla fronte.]"
 
 #: creature_standard.txt:2090
 msgctxt "CREATURE:UNICORN"
@@ -30139,31 +30162,33 @@ msgid ""
 "[DESCRIPTION:A gigantic reptilian creature.  It is magical and can breathe "
 "fire.  These monsters can live for thousands of years.]"
 msgstr ""
+"[DESCRIPTION:Una gigantesca creatura rettile.  È magica e può sputare fuoco."
+"  Questi mostri possono vivere per migliaia di anni.]"
 
 #: creature_standard.txt:2206
 msgctxt "CREATURE:DRAGON"
 msgid "[NAME:dragon:dragons:draconic]"
-msgstr ""
+msgstr "[NAME:drago:draghi:draconico]"
 
 #: creature_standard.txt:2207
 msgctxt "CREATURE:DRAGON"
 msgid "[CASTE_NAME:dragon:dragons:draconic]"
-msgstr ""
+msgstr "[CASTE_NAME:drago:draghi:draconico]"
 
 #: creature_standard.txt:2209
 msgctxt "CREATURE:DRAGON"
 msgid "[CHILDNAME:dragon hatchling:dragon hatchlings]"
-msgstr ""
+msgstr "[CHILDNAME:cucciolo di drago:cuccioli di drago]"
 
 #: creature_standard.txt:2217
 msgctxt "CREATURE:DRAGON"
 msgid "[CDI:ADV_NAME:Breathe fire]"
-msgstr ""
+msgstr "[CDI:ADV_NAME:Sputa fuoco]"
 
 #: creature_standard.txt:2237
 msgctxt "CREATURE:DRAGON"
 msgid "[PREFSTRING:terrible majesty]"
-msgstr ""
+msgstr "[PREFSTRING:terribile maestosità]"
 
 #: creature_standard.txt:2278
 msgctxt "CREATURE:DRAGON"
@@ -30194,12 +30219,12 @@ msgstr "[DESCRIPTION:Un umanoide di taglia media con corna e zampe caprine.]"
 #: creature_standard.txt:2341
 msgctxt "CREATURE:SATYR"
 msgid "[NAME:satyr:satyrs:satyr]"
-msgstr ""
+msgstr "[NAME:satiro:satiri:satiro]"
 
 #: creature_standard.txt:2342
 msgctxt "CREATURE:SATYR"
 msgid "[CASTE_NAME:satyr:satyrs:satyr]"
-msgstr ""
+msgstr "[CASTE_NAME:satiro:satiri:satiro]"
 
 #: creature_standard.txt:2356
 msgctxt "CREATURE:SATYR"
@@ -30331,16 +30356,17 @@ msgctxt "CREATURE:COLOSSUS_BRONZE"
 msgid ""
 "[DESCRIPTION:A gigantic magic statue made of bronze and bent on mayhem.]"
 msgstr ""
+"[DESCRIPTION:Una gigantesca statua magica fatta di bronzo e votata al caos.]"
 
 #: creature_standard.txt:2600
 msgctxt "CREATURE:COLOSSUS_BRONZE"
 msgid "[NAME:bronze colossus:bronze colossuses:bronze colossus]"
-msgstr ""
+msgstr "[NAME:colosso di bronzo:colossi di bronzo:colosso di bronzo]"
 
 #: creature_standard.txt:2601
 msgctxt "CREATURE:COLOSSUS_BRONZE"
 msgid "[CASTE_NAME:bronze colossus:bronze colossuses:bronze colossus]"
-msgstr ""
+msgstr "[CASTE_NAME:colosso di bronzo:colossi di bronzo:colosso di bronzo]"
 
 #: creature_standard.txt:2622
 msgctxt "CREATURE:COLOSSUS_BRONZE"
@@ -30350,7 +30376,7 @@ msgstr "[PREFSTRING:altezza]"
 #: creature_standard.txt:2629
 msgctxt "CREATURE:COLOSSUS_BRONZE"
 msgid "[TISSUE_NAME:bronze:bronze]"
-msgstr ""
+msgstr "[TISSUE_NAME:bronzo:bronzo]"
 
 #: creature_standard.txt:2643
 msgctxt "CREATURE:COLOSSUS_BRONZE"
@@ -30368,11 +30394,13 @@ msgid ""
 "[DESCRIPTION:A gigantic creature resembling a human, almost unparalleled in "
 "size.]"
 msgstr ""
+"[DESCRIPTION:Una creatura gigantesca che assomiglia a un essere umano, di "
+"dimensioni quasi ineguagliabili.]"
 
 #: creature_standard.txt:2668
 msgctxt "CREATURE:GIANT"
 msgid "[NAME:giant:giants:giant]"
-msgstr ""
+msgstr "[NAME:gigante:giganti:gigante]"
 
 #: creature_standard.txt:2678
 msgctxt "CREATURE:GIANT"
@@ -30447,12 +30475,12 @@ msgstr "[ATTACK_VERB:mordi:morde]"
 #: creature_standard.txt:2853
 msgctxt "CREATURE:GIANT"
 msgid "[CASTE_NAME:giantess:giantesses:giantess]"
-msgstr ""
+msgstr "[CASTE_NAME:gigantessa:gigantesse:gigantessa]"
 
 #: creature_standard.txt:2858
 msgctxt "CREATURE:GIANT"
 msgid "[CASTE_NAME:giant:giants:giant]"
-msgstr ""
+msgstr "[CASTE_NAME:gigante:giganti:gigante]"
 
 #: creature_standard.txt:2868
 msgctxt "CREATURE:GIANT"
@@ -30514,17 +30542,17 @@ msgstr ""
 #: creature_standard.txt:2920
 msgctxt "CREATURE:CYCLOPS"
 msgid "[NAME:cyclops:cyclopes:cyclops]"
-msgstr ""
+msgstr "[NAME:ciclope:ciclopi:ciclope]"
 
 #: creature_standard.txt:2921
 msgctxt "CREATURE:CYCLOPS"
 msgid "[CASTE_NAME:cyclops:cyclopes:cyclops]"
-msgstr ""
+msgstr "[CASTE_NAME:ciclope:ciclopi:ciclope]"
 
 #: creature_standard.txt:2931
 msgctxt "CREATURE:CYCLOPS"
 msgid "[PREFSTRING:single eye]"
-msgstr ""
+msgstr "[PREFSTRING:occhio singolo]"
 
 #: creature_standard.txt:2977
 msgctxt "CREATURE:CYCLOPS"
@@ -30549,7 +30577,7 @@ msgstr "[CDI:VERB:sputi:sputa:]"
 #: creature_standard.txt:3006
 msgctxt "CREATURE:CYCLOPS"
 msgid "[APP_MOD_NOUN:eye:SINGULAR]"
-msgstr ""
+msgstr "[APP_MOD_NOUN:occhio:SINGULAR]"
 
 #: creature_standard.txt:3011
 msgctxt "CREATURE:CYCLOPS"
@@ -30644,22 +30672,22 @@ msgstr "[TLCM_NOUN:occhio:SINGULAR]"
 #: creature_standard.txt:3166
 msgctxt "CREATURE:ETTIN"
 msgid "[DESCRIPTION:A giant humanoid monster with two heads.]"
-msgstr ""
+msgstr "[DESCRIPTION:Un gigantesco mostro umanoide con due teste.]"
 
 #: creature_standard.txt:3167
 msgctxt "CREATURE:ETTIN"
 msgid "[NAME:ettin:ettins:ettin]"
-msgstr ""
+msgstr "[NAME:ettin:ettin:ettin]"
 
 #: creature_standard.txt:3168
 msgctxt "CREATURE:ETTIN"
 msgid "[CASTE_NAME:ettin:ettins:ettin]"
-msgstr ""
+msgstr "[CASTE_NAME:ettin:ettin:ettin]"
 
 #: creature_standard.txt:3178
 msgctxt "CREATURE:ETTIN"
 msgid "[PREFSTRING:arguing heads]"
-msgstr ""
+msgstr "[PREFSTRING:teste che litigano]"
 
 #: creature_standard.txt:3223
 msgctxt "CREATURE:ETTIN"
@@ -30779,17 +30807,17 @@ msgstr "[TLCM_NOUN:occhi:PLURAL]"
 #: creature_standard.txt:3419
 msgctxt "CREATURE:MINOTAUR"
 msgid "[DESCRIPTION:A giant humanoid monster with the head of a bull.]"
-msgstr ""
+msgstr "[DESCRIPTION:Un gigantesco mostro umanoide con la testa di toro.]"
 
 #: creature_standard.txt:3420
 msgctxt "CREATURE:MINOTAUR"
 msgid "[NAME:minotaur:minotaurs:minotaur]"
-msgstr ""
+msgstr "[NAME:minotauro:minotauri:minotauro]"
 
 #: creature_standard.txt:3421
 msgctxt "CREATURE:MINOTAUR"
 msgid "[CASTE_NAME:minotaur:minotaurs:minotaur]"
-msgstr ""
+msgstr "[CASTE_NAME:minotauro:minotauri:minotauro]"
 
 #: creature_standard.txt:3431
 msgctxt "CREATURE:MINOTAUR"
@@ -30862,21 +30890,23 @@ msgid ""
 "[DESCRIPTION:A large ape-like creature with white fur, found in the snowy "
 "wilds.]"
 msgstr ""
+"[DESCRIPTION:Una grande creatura scimmiesca dalla pelliccia bianca, che si "
+"trova nelle foreste innevate.]"
 
 #: creature_standard.txt:3605
 msgctxt "CREATURE:YETI"
 msgid "[NAME:yeti:yetis:yeti]"
-msgstr ""
+msgstr "[NAME:yeti:yeti:yeti]"
 
 #: creature_standard.txt:3606
 msgctxt "CREATURE:YETI"
 msgid "[CASTE_NAME:yeti:yetis:yeti]"
-msgstr ""
+msgstr "[CASTE_NAME:yeti:yeti:yeti]"
 
 #: creature_standard.txt:3621
 msgctxt "CREATURE:YETI"
 msgid "[PREFSTRING:white fur]"
-msgstr ""
+msgstr "[PREFSTRING:pelliccia bianca]"
 
 #: creature_standard.txt:3659
 msgctxt "CREATURE:YETI"
@@ -30919,21 +30949,23 @@ msgid ""
 "[DESCRIPTION:A large and mysterious ape-like creature found in temperate "
 "forests.]"
 msgstr ""
+"[DESCRIPTION:Una grande e misteriosa creatura scimmiesca presente nelle "
+"foreste temperate.]"
 
 #: creature_standard.txt:3719
 msgctxt "CREATURE:SASQUATCH"
 msgid "[NAME:sasquatch:sasquatches:sasquatch]"
-msgstr ""
+msgstr "[NAME:sasquatch:sasquatch:sasquatch]"
 
 #: creature_standard.txt:3720
 msgctxt "CREATURE:SASQUATCH"
 msgid "[CASTE_NAME:sasquatch:sasquatches:sasquatch]"
-msgstr ""
+msgstr "[CASTE_NAME:sasquatch:sasquatch:sasquatch]"
 
 #: creature_standard.txt:3734
 msgctxt "CREATURE:SASQUATCH"
 msgid "[PREFSTRING:reclusive nature]"
-msgstr ""
+msgstr "[PREFSTRING:natura solitaria]"
 
 #: creature_standard.txt:3772
 msgctxt "CREATURE:SASQUATCH"
@@ -30976,21 +31008,24 @@ msgid ""
 "[DESCRIPTION:A large humanoid monster from the wild tundra.  It has "
 "translucent skin, icicles for teeth, red glowing eyes and pointed ears.]"
 msgstr ""
+"[DESCRIPTION:Un grande mostro umanoide della tundra selvaggia.  Ha la pelle "
+"traslucida, ghiaccioli al posto dei denti, occhi rossi e luminosi e orecchie"
+" appuntite.]"
 
 #: creature_standard.txt:3832
 msgctxt "CREATURE:BLIZZARD_MAN"
 msgid "[NAME:blizzard man:blizzard men:blizzard man]"
-msgstr ""
+msgstr "[NAME:uomo tormenta:uomini tormenta:uomo tormenta]"
 
 #: creature_standard.txt:3833
 msgctxt "CREATURE:BLIZZARD_MAN"
 msgid "[CASTE_NAME:blizzard man:blizzard men:blizzard man]"
-msgstr ""
+msgstr "[CASTE_NAME:uomo tormenta:uomini tormenta:uomo tormenta]"
 
 #: creature_standard.txt:3845
 msgctxt "CREATURE:BLIZZARD_MAN"
 msgid "[PREFSTRING:translucent skin]"
-msgstr ""
+msgstr "[PREFSTRING:pelle traslucida]"
 
 #: creature_standard.txt:3846
 msgctxt "CREATURE:BLIZZARD_MAN"
@@ -31000,12 +31035,12 @@ msgstr "[PREFSTRING:denti a ghiacciolo]"
 #: creature_standard.txt:3847
 msgctxt "CREATURE:BLIZZARD_MAN"
 msgid "[PREFSTRING:glowing red eyes]"
-msgstr ""
+msgstr "[PREFSTRING:occhi rossi e luminosi]"
 
 #: creature_standard.txt:3848
 msgctxt "CREATURE:BLIZZARD_MAN"
 msgid "[PREFSTRING:pointy ears]"
-msgstr ""
+msgstr "[PREFSTRING:orecchie a punta]"
 
 #: creature_standard.txt:3868
 msgctxt "CREATURE:BLIZZARD_MAN"
@@ -32169,7 +32204,7 @@ msgstr ""
 #: creature_subterranean.txt:274
 msgctxt "CREATURE:BAT_GIANT"
 msgid "[PREFSTRING:terrifying features]"
-msgstr ""
+msgstr "[PREFSTRING:tratti terrificanti]"
 
 #: creature_subterranean.txt:310
 msgctxt "CREATURE:BAT_GIANT"
@@ -32500,7 +32535,7 @@ msgstr ""
 #: creature_subterranean.txt:912
 msgctxt "CREATURE:IMP_FIRE"
 msgid "[PREFSTRING:terrifying features]"
-msgstr ""
+msgstr "[PREFSTRING:tratti terrificanti]"
 
 #: creature_subterranean.txt:913
 msgctxt "CREATURE:IMP_FIRE"
@@ -32994,12 +33029,12 @@ msgstr ""
 #: creature_subterranean.txt:1641
 msgctxt "CREATURE:MAGGOT_PURRING"
 msgid "[STATE_NAME:GAS:boiling dwarven milk]"
-msgstr "[STATE_NAME:GAS:in ebollizione dwarven milk]"
+msgstr "[STATE_NAME:GAS:latte nanico in ebollizione ]"
 
 #: creature_subterranean.txt:1642
 msgctxt "CREATURE:MAGGOT_PURRING"
 msgid "[STATE_ADJ:GAS:boiling dwarven milk]"
-msgstr "[STATE_ADJ:GAS:in ebollizione dwarven milk]"
+msgstr "[STATE_ADJ:GAS:latte nanico in ebollizione]"
 
 #: creature_subterranean.txt:1647
 msgctxt "CREATURE:MAGGOT_PURRING"
@@ -33387,7 +33422,7 @@ msgstr ""
 #: creature_subterranean.txt:2210
 msgctxt "CREATURE:AMPHIBIAN_MAN"
 msgid "[PREFSTRING:terrifying features]"
-msgstr ""
+msgstr "[PREFSTRING:tratti terrificanti]"
 
 #: creature_subterranean.txt:2243
 msgctxt "CREATURE:AMPHIBIAN_MAN"
@@ -33443,7 +33478,7 @@ msgstr "[NAME:uomo rettile:uomini rettile:uomo rettile]"
 #: creature_subterranean.txt:2305
 msgctxt "CREATURE:REPTILE_MAN"
 msgid "[PREFSTRING:terrifying features]"
-msgstr ""
+msgstr "[PREFSTRING:tratti terrificanti]"
 
 #: creature_subterranean.txt:2349
 msgctxt "CREATURE:REPTILE_MAN"
@@ -33652,7 +33687,7 @@ msgstr ""
 #: creature_subterranean.txt:2683
 msgctxt "CREATURE:RODENT MAN"
 msgid "[PREFSTRING:terrifying features]"
-msgstr ""
+msgstr "[PREFSTRING:tratti terrificanti]"
 
 #: creature_subterranean.txt:2719
 msgctxt "CREATURE:RODENT MAN"
@@ -33988,12 +34023,12 @@ msgstr ""
 #: creature_temperate_new.txt:433
 msgctxt "CREATURE:KANGAROO"
 msgid "[STATE_NAME:GAS:boiling kangaroo's milk]"
-msgstr "[STATE_NAME:GAS:in ebollizione kangaroo's milk]"
+msgstr "[STATE_NAME:GAS:latte di canguro in ebollizione]"
 
 #: creature_temperate_new.txt:434
 msgctxt "CREATURE:KANGAROO"
 msgid "[STATE_ADJ:GAS:boiling kangaroo's milk]"
-msgstr "[STATE_ADJ:GAS:in ebollizione kangaroo's milk]"
+msgstr "[STATE_ADJ:GAS:latte di canguro in ebollizione]"
 
 #: creature_temperate_new.txt:438
 msgctxt "CREATURE:KANGAROO"
@@ -40784,7 +40819,7 @@ msgstr ""
 #: inorganic_metal.txt:173
 msgctxt "INORGANIC:NICKEL"
 msgid "[STATE_NAME_ADJ:GAS:boiling nickel]"
-msgstr "[STATE_NAME_ADJ:GAS:nickel in ebollizione]"
+msgstr "[STATE_NAME_ADJ:GAS:nichel in ebollizione]"
 
 #: inorganic_metal.txt:210
 msgctxt "INORGANIC:ZINC"
@@ -40814,7 +40849,7 @@ msgstr ""
 #: inorganic_metal.txt:251
 msgctxt "INORGANIC:BRONZE"
 msgid "[STATE_NAME_ADJ:GAS:boiling bronze]"
-msgstr "[STATE_NAME_ADJ:GAS:in ebollizione bronze]"
+msgstr "[STATE_NAME_ADJ:GAS:bronzo in ebollizione]"
 
 #: inorganic_metal.txt:289
 msgctxt "INORGANIC:BRASS"
@@ -40829,7 +40864,7 @@ msgstr ""
 #: inorganic_metal.txt:291
 msgctxt "INORGANIC:BRASS"
 msgid "[STATE_NAME_ADJ:GAS:boiling brass]"
-msgstr "[STATE_NAME_ADJ:GAS:in ebollizione brass]"
+msgstr "[STATE_NAME_ADJ:GAS:ottone in ebollizione]"
 
 #: inorganic_metal.txt:328
 msgctxt "INORGANIC:STEEL"
@@ -40844,7 +40879,7 @@ msgstr ""
 #: inorganic_metal.txt:330
 msgctxt "INORGANIC:STEEL"
 msgid "[STATE_NAME_ADJ:GAS:boiling steel]"
-msgstr "[STATE_NAME_ADJ:GAS:in ebollizione steel]"
+msgstr "[STATE_NAME_ADJ:GAS:acciaio in ebollizione]"
 
 #: inorganic_metal.txt:368
 msgctxt "INORGANIC:PIG_IRON"
@@ -40964,7 +40999,7 @@ msgstr ""
 #: inorganic_metal.txt:642
 msgctxt "INORGANIC:LEAD"
 msgid "[STATE_NAME_ADJ:GAS:boiling lead]"
-msgstr "[STATE_NAME_ADJ:GAS:in ebollizione lead]"
+msgstr "[STATE_NAME_ADJ:GAS:piombo in ebollizione]"
 
 #: inorganic_metal.txt:679
 msgctxt "INORGANIC:ALUMINUM"
@@ -40979,7 +41014,7 @@ msgstr ""
 #: inorganic_metal.txt:681
 msgctxt "INORGANIC:ALUMINUM"
 msgid "[STATE_NAME_ADJ:GAS:boiling aluminum]"
-msgstr "[STATE_NAME_ADJ:GAS:in ebollizione aluminum]"
+msgstr "[STATE_NAME_ADJ:GAS:alluminio in ebollizione]"
 
 #: inorganic_metal.txt:719
 msgctxt "INORGANIC:NICKEL_SILVER"
@@ -40994,7 +41029,7 @@ msgstr ""
 #: inorganic_metal.txt:721
 msgctxt "INORGANIC:NICKEL_SILVER"
 msgid "[STATE_NAME_ADJ:GAS:boiling nickel silver]"
-msgstr "[STATE_NAME_ADJ:GAS:in ebollizione nickel silver]"
+msgstr "[STATE_NAME_ADJ:GAS:alpacca in ebollizione]"
 
 #: inorganic_metal.txt:759
 msgctxt "INORGANIC:BILLON"
@@ -41009,7 +41044,7 @@ msgstr ""
 #: inorganic_metal.txt:761
 msgctxt "INORGANIC:BILLON"
 msgid "[STATE_NAME_ADJ:GAS:boiling billon]"
-msgstr "[STATE_NAME_ADJ:GAS:in ebollizione billon]"
+msgstr "[STATE_NAME_ADJ:GAS:biglione in ebollizione]"
 
 #: inorganic_metal.txt:800
 msgctxt "INORGANIC:STERLING_SILVER"
@@ -41024,7 +41059,7 @@ msgstr ""
 #: inorganic_metal.txt:802
 msgctxt "INORGANIC:STERLING_SILVER"
 msgid "[STATE_NAME_ADJ:GAS:boiling sterling silver]"
-msgstr "[STATE_NAME_ADJ:GAS:in ebollizione sterling silver]"
+msgstr "[STATE_NAME_ADJ:GAS:argento sterling in ebollizione]"
 
 #: inorganic_metal.txt:844
 msgctxt "INORGANIC:BLACK_BRONZE"
@@ -41039,7 +41074,7 @@ msgstr ""
 #: inorganic_metal.txt:846
 msgctxt "INORGANIC:BLACK_BRONZE"
 msgid "[STATE_NAME_ADJ:GAS:boiling black bronze]"
-msgstr "[STATE_NAME_ADJ:GAS:in ebollizione black bronze]"
+msgstr "[STATE_NAME_ADJ:GAS:bronzo nero in ebollizione]"
 
 #: inorganic_metal.txt:885
 msgctxt "INORGANIC:ROSE_GOLD"
@@ -41054,7 +41089,7 @@ msgstr ""
 #: inorganic_metal.txt:887
 msgctxt "INORGANIC:ROSE_GOLD"
 msgid "[STATE_NAME_ADJ:GAS:boiling rose gold]"
-msgstr "[STATE_NAME_ADJ:GAS:in ebollizione rose gold]"
+msgstr "[STATE_NAME_ADJ:GAS:oro rosa in ebollizione]"
 
 #: inorganic_metal.txt:925
 msgctxt "INORGANIC:BISMUTH"
@@ -41069,7 +41104,7 @@ msgstr ""
 #: inorganic_metal.txt:927
 msgctxt "INORGANIC:BISMUTH"
 msgid "[STATE_NAME_ADJ:GAS:boiling bismuth]"
-msgstr "[STATE_NAME_ADJ:GAS:in ebollizione bismuth]"
+msgstr "[STATE_NAME_ADJ:GAS:bismuto in ebollizione]"
 
 #: inorganic_metal.txt:961
 msgctxt "INORGANIC:BISMUTH_BRONZE"
@@ -41084,7 +41119,7 @@ msgstr ""
 #: inorganic_metal.txt:963
 msgctxt "INORGANIC:BISMUTH_BRONZE"
 msgid "[STATE_NAME_ADJ:GAS:boiling bismuth bronze]"
-msgstr "[STATE_NAME_ADJ:GAS:in ebollizione bismuth bronze]"
+msgstr "[STATE_NAME_ADJ:GAS:bronzo al bismuto in ebollizione]"
 
 #: inorganic_metal.txt:1001
 msgctxt "INORGANIC:ADAMANTINE"
@@ -41099,7 +41134,7 @@ msgstr ""
 #: inorganic_metal.txt:1003
 msgctxt "INORGANIC:ADAMANTINE"
 msgid "[STATE_NAME_ADJ:GAS:boiling adamantine]"
-msgstr "[STATE_NAME_ADJ:GAS:in ebollizione adamantine]"
+msgstr "[STATE_NAME_ADJ:GAS:adamantino in ebollizione]"
 
 #: inorganic_other.txt:7
 msgctxt "INORGANIC:PLASTER"
@@ -41979,7 +42014,7 @@ msgstr ""
 #: inorganic_stone_mineral.txt:56
 msgctxt "INORGANIC:NATIVE_GOLD"
 msgid "[STATE_NAME_ADJ:GAS:boiling native gold]"
-msgstr "[STATE_NAME_ADJ:GAS:in ebollizione native gold]"
+msgstr "[STATE_NAME_ADJ:GAS:oro nativo in ebollizione]"
 
 #: inorganic_stone_mineral.txt:94
 msgctxt "INORGANIC:NATIVE_SILVER"
@@ -41999,7 +42034,7 @@ msgstr ""
 #: inorganic_stone_mineral.txt:97
 msgctxt "INORGANIC:NATIVE_SILVER"
 msgid "[STATE_NAME_ADJ:GAS:boiling native silver]"
-msgstr "[STATE_NAME_ADJ:GAS:in ebollizione native silver]"
+msgstr "[STATE_NAME_ADJ:GAS:argento nativo in ebollizione]"
 
 #: inorganic_stone_mineral.txt:131
 msgctxt "INORGANIC:NATIVE_COPPER"
@@ -42069,7 +42104,7 @@ msgstr ""
 #: inorganic_stone_mineral.txt:264
 msgctxt "INORGANIC:NATIVE_PLATINUM"
 msgid "[STATE_NAME_ADJ:GAS:boiling native platinum]"
-msgstr "[STATE_NAME_ADJ:GAS:in ebollizione native platinum]"
+msgstr "[STATE_NAME_ADJ:GAS:platino nativo in ebollizione]"
 
 #: inorganic_stone_mineral.txt:300
 msgctxt "INORGANIC:CINNABAR"
@@ -42114,7 +42149,7 @@ msgstr "[STATE_NAME_ADJ:ALL_SOLID:pudinga]"
 #: inorganic_stone_mineral.txt:383
 msgctxt "INORGANIC:PETRIFIED_WOOD"
 msgid "[STATE_NAME_ADJ:ALL_SOLID:petrified wood]"
-msgstr ""
+msgstr "[STATE_NAME_ADJ:ALL_SOLID:legno pietrificato]"
 
 #: inorganic_stone_mineral.txt:393
 msgctxt "INORGANIC:GRAPHITE"
@@ -42309,7 +42344,7 @@ msgstr ""
 #: inorganic_stone_mineral.txt:801
 msgctxt "INORGANIC:RAW_ADAMANTINE"
 msgid "[STATE_NAME_ADJ:GAS:boiling raw adamantine]"
-msgstr "[STATE_NAME_ADJ:GAS:in ebollizione raw adamantine]"
+msgstr "[STATE_NAME_ADJ:GAS:adamantino crudo in ebollizione]"
 
 #: inorganic_stone_mineral.txt:836
 msgctxt "INORGANIC:SLADE"
@@ -42474,12 +42509,12 @@ msgstr ""
 #: material_template_default.txt:71
 msgctxt "MATERIAL_TEMPLATE:METAL_TEMPLATE"
 msgid "[STATE_NAME:GAS:boiling metal]"
-msgstr "[STATE_NAME:GAS:in ebollizione metal]"
+msgstr "[STATE_NAME:GAS:metallo in ebollizione]"
 
 #: material_template_default.txt:72
 msgctxt "MATERIAL_TEMPLATE:METAL_TEMPLATE"
 msgid "[STATE_ADJ:GAS:boiling metal]"
-msgstr "[STATE_ADJ:GAS:in ebollizione metal]"
+msgstr "[STATE_ADJ:GAS:metallo in ebollizione]"
 
 #: material_template_default.txt:109
 msgctxt "MATERIAL_TEMPLATE:WOOD_TEMPLATE"
@@ -42744,17 +42779,17 @@ msgstr ""
 #: material_template_default.txt:1088
 msgctxt "MATERIAL_TEMPLATE:GIZZARD_TEMPLATE"
 msgid "[STATE_NAME:ALL_SOLID:gizzard tissue]"
-msgstr ""
+msgstr "[STATE_NAME:ALL_SOLID:tessuto del ventriglio]"
 
 #: material_template_default.txt:1089
 msgctxt "MATERIAL_TEMPLATE:GIZZARD_TEMPLATE"
 msgid "[STATE_ADJ:ALL_SOLID:gizzard tissue]"
-msgstr ""
+msgstr "[STATE_ADJ:ALL_SOLID:tessuto del ventriglio]"
 
 #: material_template_default.txt:1134
 msgctxt "MATERIAL_TEMPLATE:GIZZARD_TEMPLATE"
 msgid "[MEAT_NAME:prepared:gizzard:gizzard]"
-msgstr ""
+msgstr "[MEAT_NAME:preparato:ventriglio:ventriglio]"
 
 #: material_template_default.txt:1140
 msgctxt "MATERIAL_TEMPLATE:PANCREAS_TEMPLATE"
@@ -42884,12 +42919,12 @@ msgstr ""
 #: material_template_default.txt:1576
 msgctxt "MATERIAL_TEMPLATE:BLOOD_TEMPLATE"
 msgid "[STATE_NAME:GAS:boiling blood]"
-msgstr "[STATE_NAME:GAS:in ebollizione blood]"
+msgstr "[STATE_NAME:GAS:sangue in ebollizione]"
 
 #: material_template_default.txt:1577
 msgctxt "MATERIAL_TEMPLATE:BLOOD_TEMPLATE"
 msgid "[STATE_ADJ:GAS:boiling blood]"
-msgstr "[STATE_ADJ:GAS:in ebollizione blood]"
+msgstr "[STATE_ADJ:GAS:sangue in ebollizione]"
 
 #: material_template_default.txt:1616
 msgctxt "MATERIAL_TEMPLATE:ICHOR_TEMPLATE"
@@ -42914,12 +42949,12 @@ msgstr ""
 #: material_template_default.txt:1622
 msgctxt "MATERIAL_TEMPLATE:ICHOR_TEMPLATE"
 msgid "[STATE_NAME:GAS:boiling ichor]"
-msgstr "[STATE_NAME:GAS:in ebollizione ichor]"
+msgstr "[STATE_NAME:GAS:icore in ebollizione]"
 
 #: material_template_default.txt:1623
 msgctxt "MATERIAL_TEMPLATE:ICHOR_TEMPLATE"
 msgid "[STATE_ADJ:GAS:boiling ichor]"
-msgstr "[STATE_ADJ:GAS:in ebollizione ichor]"
+msgstr "[STATE_ADJ:GAS:icore in ebollizione]"
 
 #: material_template_default.txt:1662
 msgctxt "MATERIAL_TEMPLATE:GOO_TEMPLATE"
@@ -42944,12 +42979,12 @@ msgstr ""
 #: material_template_default.txt:1668
 msgctxt "MATERIAL_TEMPLATE:GOO_TEMPLATE"
 msgid "[STATE_NAME:GAS:boiling goo]"
-msgstr "[STATE_NAME:GAS:in ebollizione goo]"
+msgstr "[STATE_NAME:GAS:fanghiglia in ebollizione]"
 
 #: material_template_default.txt:1669
 msgctxt "MATERIAL_TEMPLATE:GOO_TEMPLATE"
 msgid "[STATE_ADJ:GAS:boiling goo]"
-msgstr "[STATE_ADJ:GAS:in ebollizione goo]"
+msgstr "[STATE_ADJ:GAS:fanghiglia in ebollizione]"
 
 #: material_template_default.txt:1708
 msgctxt "MATERIAL_TEMPLATE:SLIME_TEMPLATE"
@@ -42974,12 +43009,12 @@ msgstr ""
 #: material_template_default.txt:1714
 msgctxt "MATERIAL_TEMPLATE:SLIME_TEMPLATE"
 msgid "[STATE_NAME:GAS:boiling slime]"
-msgstr "[STATE_NAME:GAS:in ebollizione slime]"
+msgstr "[STATE_NAME:GAS:melma in ebollizione]"
 
 #: material_template_default.txt:1715
 msgctxt "MATERIAL_TEMPLATE:SLIME_TEMPLATE"
 msgid "[STATE_ADJ:GAS:boiling slime]"
-msgstr "[STATE_ADJ:GAS:in ebollizione slime]"
+msgstr "[STATE_ADJ:GAS:melma in ebollizione]"
 
 #: material_template_default.txt:1753
 msgctxt "MATERIAL_TEMPLATE:PUS_TEMPLATE"
@@ -43004,12 +43039,12 @@ msgstr ""
 #: material_template_default.txt:1759
 msgctxt "MATERIAL_TEMPLATE:PUS_TEMPLATE"
 msgid "[STATE_NAME:GAS:boiling pus]"
-msgstr "[STATE_NAME:GAS:in ebollizione pus]"
+msgstr "[STATE_NAME:GAS:pus in ebollizione]"
 
 #: material_template_default.txt:1760
 msgctxt "MATERIAL_TEMPLATE:PUS_TEMPLATE"
 msgid "[STATE_ADJ:GAS:boiling pus]"
-msgstr "[STATE_ADJ:GAS:in ebollizione pus]"
+msgstr "[STATE_ADJ:GAS:pus in ebollizione]"
 
 #: material_template_default.txt:1799
 msgctxt "MATERIAL_TEMPLATE:SHELL_TEMPLATE"
@@ -43374,12 +43409,12 @@ msgstr ""
 #: material_template_default.txt:2449
 msgctxt "MATERIAL_TEMPLATE:PLANT_ALCOHOL_TEMPLATE"
 msgid "[STATE_NAME:GAS:boiling alcohol]"
-msgstr "[STATE_NAME:GAS:in ebollizione alcohol]"
+msgstr "[STATE_NAME:GAS:alcol in ebollizione]"
 
 #: material_template_default.txt:2450
 msgctxt "MATERIAL_TEMPLATE:PLANT_ALCOHOL_TEMPLATE"
 msgid "[STATE_ADJ:GAS:boiling alcohol]"
-msgstr "[STATE_ADJ:GAS:in ebollizione alcohol]"
+msgstr "[STATE_ADJ:GAS:alcol in ebollizione]"
 
 #: material_template_default.txt:2485
 msgctxt "MATERIAL_TEMPLATE:PLANT_ALCOHOL_TEMPLATE"
@@ -43439,7 +43474,7 @@ msgstr ""
 #: material_template_default.txt:2552
 msgctxt "MATERIAL_TEMPLATE:PLANT_EXTRACT_TEMPLATE"
 msgid "[STATE_NAME:GAS:boiling extract]"
-msgstr "[STATE_NAME:GAS:in ebollizione extract]"
+msgstr "[STATE_NAME:GAS:estratto in ebollizione]"
 
 #: material_template_default.txt:2553
 msgctxt "MATERIAL_TEMPLATE:PLANT_EXTRACT_TEMPLATE"
@@ -43474,7 +43509,7 @@ msgstr "[STATE_NAME:GAS:estratto in ebollizione]"
 #: material_template_default.txt:2598
 msgctxt "MATERIAL_TEMPLATE:CREATURE_EXTRACT_TEMPLATE"
 msgid "[STATE_ADJ:GAS:boiling extract]"
-msgstr "[STATE_ADJ:GAS:in ebollizione extract]"
+msgstr "[STATE_ADJ:GAS:estratto in ebollizione]"
 
 #: material_template_default.txt:2637
 msgctxt "MATERIAL_TEMPLATE:FLAME_TEMPLATE"
@@ -43619,7 +43654,7 @@ msgstr ""
 #: material_template_default.txt:2843
 msgctxt "MATERIAL_TEMPLATE:PLANT_OIL_TEMPLATE"
 msgid "[STATE_NAME:GAS:boiling vegetable oil]"
-msgstr "[STATE_NAME:GAS:in ebollizione vegetable oil]"
+msgstr "[STATE_NAME:GAS:olio vegetale in ebollizione]"
 
 #: material_template_default.txt:2844
 msgctxt "MATERIAL_TEMPLATE:PLANT_OIL_TEMPLATE"
@@ -43879,7 +43914,7 @@ msgstr ""
 #: plant_crops.txt:16
 msgctxt "PLANT:SINGLE-GRAIN_WHEAT"
 msgid "[STATE_NAME_ADJ:GAS:boiling single-grain wheat beer]"
-msgstr "[STATE_NAME_ADJ:GAS:in ebollizione single-grain wheat beer]"
+msgstr "[STATE_NAME_ADJ:GAS:birra di farro monococco in ebollizione]"
 
 #: plant_crops.txt:25
 msgctxt "PLANT:SINGLE-GRAIN_WHEAT"
@@ -43929,7 +43964,7 @@ msgstr ""
 #: plant_crops.txt:62
 msgctxt "PLANT:TWO-GRAIN_WHEAT"
 msgid "[STATE_NAME_ADJ:GAS:boiling two-grain wheat beer]"
-msgstr "[STATE_NAME_ADJ:GAS:birra di grano a due cereali in ebollizione]"
+msgstr "[STATE_NAME_ADJ:GAS:birra di farro dicocco in ebollizione]"
 
 #: plant_crops.txt:71
 msgctxt "PLANT:TWO-GRAIN_WHEAT"
@@ -44119,12 +44154,12 @@ msgstr ""
 #: plant_crops.txt:244
 msgctxt "PLANT:BARLEY"
 msgid "[STATE_NAME_ADJ:ALL_SOLID:frozen barley wine]"
-msgstr ""
+msgstr "[STATE_NAME_ADJ:ALL_SOLID:vino d'orzo ghiacciato]"
 
 #: plant_crops.txt:245
 msgctxt "PLANT:BARLEY"
 msgid "[STATE_NAME_ADJ:LIQUID:barley wine]"
-msgstr ""
+msgstr "[STATE_NAME_ADJ:LIQUID:vino d'orzo]"
 
 #: plant_crops.txt:246
 msgctxt "PLANT:BARLEY"
@@ -44144,7 +44179,7 @@ msgstr ""
 #: plant_crops.txt:274
 msgctxt "PLANT:BARLEY"
 msgid "[PREFSTRING:wine]"
-msgstr ""
+msgstr "[PREFSTRING:vino]"
 
 #: plant_crops.txt:276
 msgctxt "PLANT:BARLEY"
@@ -44409,7 +44444,7 @@ msgstr ""
 #: plant_crops.txt:521
 msgctxt "PLANT:RICE"
 msgid "[STATE_NAME_ADJ:GAS:boiling rice beer]"
-msgstr "[STATE_NAME_ADJ:GAS:in ebollizione rice beer]"
+msgstr "[STATE_NAME_ADJ:GAS:birra di riso in ebollizione]"
 
 #: plant_crops.txt:530
 msgctxt "PLANT:RICE"
@@ -44459,7 +44494,7 @@ msgstr ""
 #: plant_crops.txt:567
 msgctxt "PLANT:MAIZE"
 msgid "[STATE_NAME_ADJ:GAS:boiling maize beer]"
-msgstr "[STATE_NAME_ADJ:GAS:in ebollizione maize beer]"
+msgstr "[STATE_NAME_ADJ:GAS:birra di mais in ebollizione]"
 
 #: plant_crops.txt:576
 msgctxt "PLANT:MAIZE"
@@ -44539,42 +44574,42 @@ msgstr "[GROWTH_NAME:fiore di quinoa:STP]"
 #: plant_crops.txt:660
 msgctxt "PLANT:KANIWA"
 msgid "[NAME:kaniwa]"
-msgstr ""
+msgstr "[NAME:canihua]"
 
 #: plant_crops.txt:660
 msgctxt "PLANT:KANIWA"
 msgid "[NAME_PLURAL:kaniwa]"
-msgstr ""
+msgstr "[NAME_PLURAL:canihua]"
 
 #: plant_crops.txt:660
 msgctxt "PLANT:KANIWA"
 msgid "[ADJ:kaniwa]"
-msgstr ""
+msgstr "[ADJ:canihua]"
 
 #: plant_crops.txt:668
 msgctxt "PLANT:KANIWA"
 msgid "[STATE_NAME_ADJ:ALL_SOLID:frozen kaniwa beer]"
-msgstr ""
+msgstr "[STATE_NAME_ADJ:ALL_SOLID:birra di canihua ghiacciata]"
 
 #: plant_crops.txt:669
 msgctxt "PLANT:KANIWA"
 msgid "[STATE_NAME_ADJ:LIQUID:kaniwa beer]"
-msgstr ""
+msgstr "[STATE_NAME_ADJ:LIQUID:birra di canihua]"
 
 #: plant_crops.txt:670
 msgctxt "PLANT:KANIWA"
 msgid "[STATE_NAME_ADJ:GAS:boiling kaniwa beer]"
-msgstr "[STATE_NAME_ADJ:GAS:in ebollizione kaniwa beer]"
+msgstr "[STATE_NAME_ADJ:GAS:birra di canihua in ebollizione]"
 
 #: plant_crops.txt:679
 msgctxt "PLANT:KANIWA"
 msgid "[STATE_NAME_ADJ:ALL_SOLID:kaniwa flour]"
-msgstr ""
+msgstr "[STATE_NAME_ADJ:ALL_SOLID:farina di canihua]"
 
 #: plant_crops.txt:698
 msgctxt "PLANT:KANIWA"
 msgid "[SEED:kaniwa seed:kaniwa seeds:]"
-msgstr ""
+msgstr "[SEED:seme di canihua:semi di canihua:]"
 
 #: plant_crops.txt:701
 msgctxt "PLANT:KANIWA"
@@ -44584,12 +44619,12 @@ msgstr "[PREFSTRING:birra]"
 #: plant_crops.txt:703
 msgctxt "PLANT:KANIWA"
 msgid "[GROWTH_NAME:kaniwa leaf:kaniwa leaves]"
-msgstr ""
+msgstr "[GROWTH_NAME:foglia di canihua:foglie di canihua]"
 
 #: plant_crops.txt:708
 msgctxt "PLANT:KANIWA"
 msgid "[GROWTH_NAME:kaniwa flower:STP]"
-msgstr "[GROWTH_NAME:fiore di cañahua:STP]"
+msgstr "[GROWTH_NAME:fiore di canihua:STP]"
 
 #: plant_crops.txt:715
 msgctxt "PLANT:BITTER_VETCH"
@@ -44659,7 +44694,7 @@ msgstr ""
 #: plant_crops.txt:771
 msgctxt "PLANT:PENDANT_AMARANTH"
 msgid "[STATE_NAME_ADJ:GAS:boiling pendant amaranth beer]"
-msgstr "[STATE_NAME_ADJ:GAS:in ebollizione pendant amaranth beer]"
+msgstr "[STATE_NAME_ADJ:GAS:birra di amaranto in ebollizione]"
 
 #: plant_crops.txt:780
 msgctxt "PLANT:PENDANT_AMARANTH"
@@ -44714,7 +44749,7 @@ msgstr ""
 #: plant_crops.txt:828
 msgctxt "PLANT:BLOOD_AMARANTH"
 msgid "[STATE_NAME_ADJ:GAS:boiling blood amaranth beer]"
-msgstr "[STATE_NAME_ADJ:GAS:in ebollizione blood amaranth beer]"
+msgstr "[STATE_NAME_ADJ:GAS:birra di amaranto cruentus in ebollizione]"
 
 #: plant_crops.txt:837
 msgctxt "PLANT:BLOOD_AMARANTH"
@@ -44769,7 +44804,7 @@ msgstr ""
 #: plant_crops.txt:888
 msgctxt "PLANT:PURPLE_AMARANTH"
 msgid "[STATE_NAME_ADJ:GAS:boiling purple amaranth beer]"
-msgstr "[STATE_NAME_ADJ:GAS:in ebollizione purple amaranth beer]"
+msgstr "[STATE_NAME_ADJ:GAS:birra di amaranto livido in ebollizione]"
 
 #: plant_crops.txt:897
 msgctxt "PLANT:PURPLE_AMARANTH"
@@ -44897,7 +44932,7 @@ msgstr ""
 #: plant_crops.txt:1025
 msgctxt "PLANT:PEARL_MILLET"
 msgid "[STATE_NAME_ADJ:GAS:boiling pearl millet beer]"
-msgstr "[STATE_NAME_ADJ:GAS:in ebollizione pearl millet beer]"
+msgstr "[STATE_NAME_ADJ:GAS:birra di miglio perlato in ebollizione]"
 
 #: plant_crops.txt:1034
 msgctxt "PLANT:PEARL_MILLET"
@@ -44947,7 +44982,7 @@ msgstr ""
 #: plant_crops.txt:1071
 msgctxt "PLANT:WHITE_MILLET"
 msgid "[STATE_NAME_ADJ:GAS:boiling white millet beer]"
-msgstr "[STATE_NAME_ADJ:GAS:in ebollizione white millet beer]"
+msgstr "[STATE_NAME_ADJ:GAS:birra di miglio bianco in ebollizione]"
 
 #: plant_crops.txt:1080
 msgctxt "PLANT:WHITE_MILLET"
@@ -44997,7 +45032,7 @@ msgstr ""
 #: plant_crops.txt:1117
 msgctxt "PLANT:FINGER_MILLET"
 msgid "[STATE_NAME_ADJ:GAS:boiling finger millet beer]"
-msgstr "[STATE_NAME_ADJ:GAS:in ebollizione finger millet beer]"
+msgstr "[STATE_NAME_ADJ:GAS:birra di miglio coracana in ebollizione]"
 
 #: plant_crops.txt:1126
 msgctxt "PLANT:FINGER_MILLET"
@@ -45047,7 +45082,7 @@ msgstr ""
 #: plant_crops.txt:1163
 msgctxt "PLANT:FOXTAIL_MILLET"
 msgid "[STATE_NAME_ADJ:GAS:boiling foxtail millet beer]"
-msgstr "[STATE_NAME_ADJ:GAS:in ebollizione foxtail millet beer]"
+msgstr "[STATE_NAME_ADJ:GAS:birra di in panìco ebollizione]"
 
 #: plant_crops.txt:1172
 msgctxt "PLANT:FOXTAIL_MILLET"
@@ -45097,7 +45132,7 @@ msgstr ""
 #: plant_crops.txt:1209
 msgctxt "PLANT:FONIO"
 msgid "[STATE_NAME_ADJ:GAS:boiling fonio beer]"
-msgstr "[STATE_NAME_ADJ:GAS:in ebollizione fonio beer]"
+msgstr "[STATE_NAME_ADJ:GAS:birra di fonio in ebollizione]"
 
 #: plant_crops.txt:1218
 msgctxt "PLANT:FONIO"
@@ -45147,7 +45182,7 @@ msgstr ""
 #: plant_crops.txt:1255
 msgctxt "PLANT:TEFF"
 msgid "[STATE_NAME_ADJ:GAS:boiling teff beer]"
-msgstr "[STATE_NAME_ADJ:GAS:in ebollizione teff beer]"
+msgstr "[STATE_NAME_ADJ:GAS:birra di teff in ebollizione]"
 
 #: plant_crops.txt:1264
 msgctxt "PLANT:TEFF"
@@ -45197,7 +45232,7 @@ msgstr ""
 #: plant_crops.txt:1301
 msgctxt "PLANT:FLAX"
 msgid "[STATE_NAME_ADJ:GAS:boiling linseed oil]"
-msgstr "[STATE_NAME_ADJ:GAS:in ebollizione linseed oil]"
+msgstr "[STATE_NAME_ADJ:GAS:olio di semi di lino in ebollizione]"
 
 #: plant_crops.txt:1306
 msgctxt "PLANT:FLAX"
@@ -45342,7 +45377,7 @@ msgstr ""
 #: plant_crops.txt:1416
 msgctxt "PLANT:HEMP"
 msgid "[STATE_NAME_ADJ:GAS:boiling hempseed oil]"
-msgstr "[STATE_NAME_ADJ:GAS:in ebollizione hempseed oil]"
+msgstr "[STATE_NAME_ADJ:GAS:olio di semi di canapa in ebollizione]"
 
 #: plant_crops.txt:1421
 msgctxt "PLANT:HEMP"
@@ -45432,7 +45467,7 @@ msgstr ""
 #: plant_crops.txt:1482
 msgctxt "PLANT:COTTON"
 msgid "[STATE_NAME_ADJ:GAS:boiling cottonseed oil]"
-msgstr "[STATE_NAME_ADJ:GAS:in ebollizione cottonseed oil]"
+msgstr "[STATE_NAME_ADJ:GAS:olio di semi di cotone in ebollizione]"
 
 #: plant_crops.txt:1487
 msgctxt "PLANT:COTTON"
@@ -45567,7 +45602,7 @@ msgstr ""
 #: plant_crops.txt:1579
 msgctxt "PLANT:KENAF"
 msgid "[STATE_NAME_ADJ:GAS:boiling kenaf seed oil]"
-msgstr "[STATE_NAME_ADJ:GAS:in ebollizione kenaf seed oil]"
+msgstr "[STATE_NAME_ADJ:GAS:olio di semi di kenaf in ebollizione]"
 
 #: plant_crops.txt:1584
 msgctxt "PLANT:KENAF"
@@ -45692,17 +45727,17 @@ msgstr ""
 #: plant_garden.txt:13
 msgctxt "PLANT:ARTICHOKE"
 msgid "[STATE_NAME_ADJ:ALL_SOLID:frozen artichoke wine]"
-msgstr ""
+msgstr "[STATE_NAME_ADJ:ALL_SOLID:vino di carciofo ghiacciato]"
 
 #: plant_garden.txt:14
 msgctxt "PLANT:ARTICHOKE"
 msgid "[STATE_NAME_ADJ:LIQUID:artichoke wine]"
-msgstr ""
+msgstr "[STATE_NAME_ADJ:LIQUID:vino di carciofo]"
 
 #: plant_garden.txt:15
 msgctxt "PLANT:ARTICHOKE"
 msgid "[STATE_NAME_ADJ:GAS:boiling artichoke wine]"
-msgstr "[STATE_NAME_ADJ:GAS:in ebollizione artichoke wine]"
+msgstr "[STATE_NAME_ADJ:GAS:vino di carciofo in ebollizione]"
 
 #: plant_garden.txt:40
 msgctxt "PLANT:ARTICHOKE"
@@ -45907,17 +45942,17 @@ msgstr ""
 #: plant_garden.txt:248
 msgctxt "PLANT:BEET"
 msgid "[STATE_NAME_ADJ:ALL_SOLID:frozen beetroot wine]"
-msgstr ""
+msgstr "[STATE_NAME_ADJ:ALL_SOLID:vino di barbabietola ghiacciato]"
 
 #: plant_garden.txt:249
 msgctxt "PLANT:BEET"
 msgid "[STATE_NAME_ADJ:LIQUID:beetroot wine]"
-msgstr ""
+msgstr "[STATE_NAME_ADJ:LIQUID:vino di barbabietola]"
 
 #: plant_garden.txt:250
 msgctxt "PLANT:BEET"
 msgid "[STATE_NAME_ADJ:GAS:boiling beetroot wine]"
-msgstr "[STATE_NAME_ADJ:GAS:in ebollizione beetroot wine]"
+msgstr "[STATE_NAME_ADJ:GAS:vino di barbabietola in ebollizione]"
 
 #: plant_garden.txt:266
 msgctxt "PLANT:BEET"
@@ -45942,22 +45977,22 @@ msgstr "[GROWTH_NAME:spiga di fiore di barbabietola:STP]"
 #: plant_garden.txt:283
 msgctxt "PLANT:BITTER_MELON"
 msgid "[NAME:bitter melon vine]"
-msgstr ""
+msgstr "[NAME:vite di ampalaya]"
 
 #: plant_garden.txt:283
 msgctxt "PLANT:BITTER_MELON"
 msgid "[NAME_PLURAL:bitter melon vines]"
-msgstr ""
+msgstr "[NAME_PLURAL:viti di ampalaya]"
 
 #: plant_garden.txt:283
 msgctxt "PLANT:BITTER_MELON"
 msgid "[ADJ:bitter melon vine]"
-msgstr ""
+msgstr "[ADJ:vite di ampalaya]"
 
 #: plant_garden.txt:305
 msgctxt "PLANT:BITTER_MELON"
 msgid "[SEED:bitter melon seed:bitter melon seeds:]"
-msgstr ""
+msgstr "[SEED:seme di ampalaya:semi di ampalaya:]"
 
 #: plant_garden.txt:308
 msgctxt "PLANT:BITTER_MELON"
@@ -45967,17 +46002,17 @@ msgstr "[PREFSTRING:gusto]"
 #: plant_garden.txt:310
 msgctxt "PLANT:BITTER_MELON"
 msgid "[GROWTH_NAME:bitter melon leaf:bitter melon leaves]"
-msgstr ""
+msgstr "[GROWTH_NAME:foglia di ampalaya:foglie di ampalaya]"
 
 #: plant_garden.txt:315
 msgctxt "PLANT:BITTER_MELON"
 msgid "[GROWTH_NAME:bitter melon flower:STP]"
-msgstr "[GROWTH_NAME:fiore di zucca amara:STP]"
+msgstr "[GROWTH_NAME:fiore di ampalaya:STP]"
 
 #: plant_garden.txt:321
 msgctxt "PLANT:BITTER_MELON"
 msgid "[GROWTH_NAME:bitter melon:STP]"
-msgstr ""
+msgstr "[GROWTH_NAME:ampalaya:STP]"
 
 #: plant_garden.txt:330
 msgctxt "PLANT:CABBAGE"
@@ -46077,17 +46112,17 @@ msgstr ""
 #: plant_garden.txt:437
 msgctxt "PLANT:WILD_CARROT"
 msgid "[STATE_NAME_ADJ:ALL_SOLID:frozen carrot wine]"
-msgstr ""
+msgstr "[STATE_NAME_ADJ:ALL_SOLID:vino di carota ghiacciato]"
 
 #: plant_garden.txt:438
 msgctxt "PLANT:WILD_CARROT"
 msgid "[STATE_NAME_ADJ:LIQUID:carrot wine]"
-msgstr ""
+msgstr "[STATE_NAME_ADJ:LIQUID:vino di carota]"
 
 #: plant_garden.txt:439
 msgctxt "PLANT:WILD_CARROT"
 msgid "[STATE_NAME_ADJ:GAS:boiling carrot wine]"
-msgstr "[STATE_NAME_ADJ:GAS:in ebollizione carrot wine]"
+msgstr "[STATE_NAME_ADJ:GAS:vino di carota in ebollizione]"
 
 #: plant_garden.txt:458
 msgctxt "PLANT:WILD_CARROT"
@@ -46137,7 +46172,7 @@ msgstr ""
 #: plant_garden.txt:491
 msgctxt "PLANT:CASSAVA"
 msgid "[STATE_NAME_ADJ:GAS:boiling cassava beer]"
-msgstr "[STATE_NAME_ADJ:GAS:in ebollizione cassava beer]"
+msgstr "[STATE_NAME_ADJ:GAS:birra di manioca in ebollizione]"
 
 #: plant_garden.txt:507
 msgctxt "PLANT:CASSAVA"
@@ -46312,17 +46347,17 @@ msgstr "[GROWTH_NAME:baccello di fagiolo dall'occhio:STP]"
 #: plant_garden.txt:680
 msgctxt "PLANT:CUCUMBER"
 msgid "[NAME:cucumber vine]"
-msgstr ""
+msgstr "[NAME:vite di cetriolo]"
 
 #: plant_garden.txt:680
 msgctxt "PLANT:CUCUMBER"
 msgid "[NAME_PLURAL:cucumber vines]"
-msgstr ""
+msgstr "[NAME_PLURAL:viti di cetriolo]"
 
 #: plant_garden.txt:680
 msgctxt "PLANT:CUCUMBER"
 msgid "[ADJ:cucumber vine]"
-msgstr ""
+msgstr "[ADJ:vite di cetriolo]"
 
 #: plant_garden.txt:701
 msgctxt "PLANT:CUCUMBER"
@@ -46467,22 +46502,22 @@ msgstr ""
 #: plant_garden.txt:860
 msgctxt "PLANT:HORNED_MELON"
 msgid "[NAME:horned melon vine]"
-msgstr ""
+msgstr "[NAME:vite di kiwano]"
 
 #: plant_garden.txt:860
 msgctxt "PLANT:HORNED_MELON"
 msgid "[NAME_PLURAL:horned melon vines]"
-msgstr ""
+msgstr "[NAME_PLURAL:viti di kiwano]"
 
 #: plant_garden.txt:860
 msgctxt "PLANT:HORNED_MELON"
 msgid "[ADJ:horned melon vine]"
-msgstr ""
+msgstr "[ADJ:vite di kiwano]"
 
 #: plant_garden.txt:881
 msgctxt "PLANT:HORNED_MELON"
 msgid "[SEED:horned melon seed:horned melon seeds:]"
-msgstr ""
+msgstr "[SEED:seme di kiwano:semi di kiwano:]"
 
 #: plant_garden.txt:884
 msgctxt "PLANT:HORNED_MELON"
@@ -46492,7 +46527,7 @@ msgstr "[PREFSTRING:frutto]"
 #: plant_garden.txt:886
 msgctxt "PLANT:HORNED_MELON"
 msgid "[GROWTH_NAME:horned melon leaf:horned melon leaves]"
-msgstr ""
+msgstr "[GROWTH_NAME:foglia di kiwano:foglie di kiwano]"
 
 #: plant_garden.txt:891
 msgctxt "PLANT:HORNED_MELON"
@@ -46502,7 +46537,7 @@ msgstr "[GROWTH_NAME:fiore di kiwano:STP]"
 #: plant_garden.txt:897
 msgctxt "PLANT:HORNED_MELON"
 msgid "[GROWTH_NAME:horned melon:STP]"
-msgstr ""
+msgstr "[GROWTH_NAME:kiwano:STP]"
 
 #: plant_garden.txt:906
 msgctxt "PLANT:LEEK"
@@ -46657,22 +46692,22 @@ msgstr "[GROWTH_NAME:baccello di fagiolo mungo verde:STP]"
 #: plant_garden.txt:1064
 msgctxt "PLANT:MUSKMELON"
 msgid "[NAME:muskmelon vine]"
-msgstr ""
+msgstr "[NAME:vite di melone]"
 
 #: plant_garden.txt:1064
 msgctxt "PLANT:MUSKMELON"
 msgid "[NAME_PLURAL:muskmelon vines]"
-msgstr ""
+msgstr "[NAME_PLURAL:viti di melone]"
 
 #: plant_garden.txt:1064
 msgctxt "PLANT:MUSKMELON"
 msgid "[ADJ:muskmelon vine]"
-msgstr ""
+msgstr "[ADJ:vite di melone]"
 
 #: plant_garden.txt:1085
 msgctxt "PLANT:MUSKMELON"
 msgid "[SEED:muskmelon seed:muskmelon seeds:]"
-msgstr ""
+msgstr "[SEED:seme di melone:semi di melone:]"
 
 #: plant_garden.txt:1088
 msgctxt "PLANT:MUSKMELON"
@@ -46682,17 +46717,17 @@ msgstr "[PREFSTRING:frutto]"
 #: plant_garden.txt:1090
 msgctxt "PLANT:MUSKMELON"
 msgid "[GROWTH_NAME:muskmelon leaf:muskmelon leaves]"
-msgstr ""
+msgstr "[GROWTH_NAME:foglia di melone:foglie di melone]"
 
 #: plant_garden.txt:1095
 msgctxt "PLANT:MUSKMELON"
 msgid "[GROWTH_NAME:muskmelon flower:STP]"
-msgstr "[GROWTH_NAME:fiore di melone verde:STP]"
+msgstr "[GROWTH_NAME:fiore di melone:STP]"
 
 #: plant_garden.txt:1101
 msgctxt "PLANT:MUSKMELON"
 msgid "[GROWTH_NAME:muskmelon:STP]"
-msgstr ""
+msgstr "[GROWTH_NAME:melone:STP]"
 
 #: plant_garden.txt:1110
 msgctxt "PLANT:ONION"
@@ -46752,17 +46787,17 @@ msgstr ""
 #: plant_garden.txt:1165
 msgctxt "PLANT:PARSNIP"
 msgid "[STATE_NAME_ADJ:ALL_SOLID:frozen parsnip wine]"
-msgstr ""
+msgstr "[STATE_NAME_ADJ:ALL_SOLID:vino di pastinaca ghiacciato]"
 
 #: plant_garden.txt:1166
 msgctxt "PLANT:PARSNIP"
 msgid "[STATE_NAME_ADJ:LIQUID:parsnip wine]"
-msgstr ""
+msgstr "[STATE_NAME_ADJ:LIQUID:vino di pastinaca]"
 
 #: plant_garden.txt:1167
 msgctxt "PLANT:PARSNIP"
 msgid "[STATE_NAME_ADJ:GAS:boiling parsnip wine]"
-msgstr "[STATE_NAME_ADJ:GAS:in ebollizione parsnip wine]"
+msgstr "[STATE_NAME_ADJ:GAS:vino di pastinaca in ebollizione]"
 
 #: plant_garden.txt:1186
 msgctxt "PLANT:PARSNIP"
@@ -46922,17 +46957,17 @@ msgstr ""
 #: plant_garden.txt:1348
 msgctxt "PLANT:POTATO"
 msgid "[STATE_NAME_ADJ:ALL_SOLID:frozen potato wine]"
-msgstr ""
+msgstr "[STATE_NAME_ADJ:ALL_SOLID:vino di patata ghiacciato]"
 
 #: plant_garden.txt:1349
 msgctxt "PLANT:POTATO"
 msgid "[STATE_NAME_ADJ:LIQUID:potato wine]"
-msgstr ""
+msgstr "[STATE_NAME_ADJ:LIQUID:vino di patata]"
 
 #: plant_garden.txt:1350
 msgctxt "PLANT:POTATO"
 msgid "[STATE_NAME_ADJ:GAS:boiling potato wine]"
-msgstr "[STATE_NAME_ADJ:GAS:in ebollizione potato wine]"
+msgstr "[STATE_NAME_ADJ:GAS:vino di patata in ebollizione]"
 
 #: plant_garden.txt:1366
 msgctxt "PLANT:POTATO"
@@ -46972,17 +47007,17 @@ msgstr ""
 #: plant_garden.txt:1396
 msgctxt "PLANT:RADISH"
 msgid "[STATE_NAME_ADJ:ALL_SOLID:frozen radish wine]"
-msgstr ""
+msgstr "[STATE_NAME_ADJ:ALL_SOLID:vino di radicchio ghiacciato]"
 
 #: plant_garden.txt:1397
 msgctxt "PLANT:RADISH"
 msgid "[STATE_NAME_ADJ:LIQUID:radish wine]"
-msgstr ""
+msgstr "[STATE_NAME_ADJ:LIQUID:vino di radicchio]"
 
 #: plant_garden.txt:1398
 msgctxt "PLANT:RADISH"
 msgid "[STATE_NAME_ADJ:GAS:boiling radish wine]"
-msgstr "[STATE_NAME_ADJ:GAS:in ebollizione radish wine]"
+msgstr "[STATE_NAME_ADJ:GAS:vino di radicchio in ebollizione]"
 
 #: plant_garden.txt:1414
 msgctxt "PLANT:RADISH"
@@ -47212,17 +47247,17 @@ msgstr ""
 #: plant_garden.txt:1644
 msgctxt "PLANT:SWEET_POTATO"
 msgid "[STATE_NAME_ADJ:ALL_SOLID:frozen sweet potato wine]"
-msgstr ""
+msgstr "[STATE_NAME_ADJ:ALL_SOLID:vino di patata dolce ghiacciato]"
 
 #: plant_garden.txt:1645
 msgctxt "PLANT:SWEET_POTATO"
 msgid "[STATE_NAME_ADJ:LIQUID:sweet potato wine]"
-msgstr ""
+msgstr "[STATE_NAME_ADJ:LIQUID:vino di patata dolce]"
 
 #: plant_garden.txt:1646
 msgctxt "PLANT:SWEET_POTATO"
 msgid "[STATE_NAME_ADJ:GAS:boiling sweet potato wine]"
-msgstr "[STATE_NAME_ADJ:GAS:in ebollizione sweet potato wine]"
+msgstr "[STATE_NAME_ADJ:GAS:vino di patata dolce in ebollizione]"
 
 #: plant_garden.txt:1662
 msgctxt "PLANT:SWEET_POTATO"
@@ -47297,17 +47332,17 @@ msgstr ""
 #: plant_garden.txt:1719
 msgctxt "PLANT:TOMATO"
 msgid "[STATE_NAME_ADJ:ALL_SOLID:frozen tomato wine]"
-msgstr ""
+msgstr "[STATE_NAME_ADJ:ALL_SOLID:vino di pomodoro ghiacciato]"
 
 #: plant_garden.txt:1720
 msgctxt "PLANT:TOMATO"
 msgid "[STATE_NAME_ADJ:LIQUID:tomato wine]"
-msgstr ""
+msgstr "[STATE_NAME_ADJ:LIQUID:vino di pomodoro]"
 
 #: plant_garden.txt:1721
 msgctxt "PLANT:TOMATO"
 msgid "[STATE_NAME_ADJ:GAS:boiling tomato wine]"
-msgstr "[STATE_NAME_ADJ:GAS:in ebollizione tomato wine]"
+msgstr "[STATE_NAME_ADJ:GAS:vino di pomodoro in ebollizione]"
 
 #: plant_garden.txt:1749
 msgctxt "PLANT:TOMATO"
@@ -47352,17 +47387,17 @@ msgstr ""
 #: plant_garden.txt:1781
 msgctxt "PLANT:TOMATILLO"
 msgid "[STATE_NAME_ADJ:ALL_SOLID:frozen tomatillo wine]"
-msgstr ""
+msgstr "[STATE_NAME_ADJ:ALL_SOLID:vino di tomatillo ghiacciato]"
 
 #: plant_garden.txt:1782
 msgctxt "PLANT:TOMATILLO"
 msgid "[STATE_NAME_ADJ:LIQUID:tomatillo wine]"
-msgstr ""
+msgstr "[STATE_NAME_ADJ:LIQUID:vino di tomatillo]"
 
 #: plant_garden.txt:1783
 msgctxt "PLANT:TOMATILLO"
 msgid "[STATE_NAME_ADJ:GAS:boiling tomatillo wine]"
-msgstr "[STATE_NAME_ADJ:GAS:in ebollizione tomatillo wine]"
+msgstr "[STATE_NAME_ADJ:GAS:vino di tomatillo in ebollizione]"
 
 #: plant_garden.txt:1811
 msgctxt "PLANT:TOMATILLO"
@@ -47407,17 +47442,17 @@ msgstr ""
 #: plant_garden.txt:1849
 msgctxt "PLANT:TURNIP"
 msgid "[STATE_NAME_ADJ:ALL_SOLID:frozen turnip wine]"
-msgstr ""
+msgstr "[STATE_NAME_ADJ:ALL_SOLID:vino di rapa ghiacciato]"
 
 #: plant_garden.txt:1850
 msgctxt "PLANT:TURNIP"
 msgid "[STATE_NAME_ADJ:LIQUID:turnip wine]"
-msgstr ""
+msgstr "[STATE_NAME_ADJ:LIQUID:vino di rapa]"
 
 #: plant_garden.txt:1851
 msgctxt "PLANT:TURNIP"
 msgid "[STATE_NAME_ADJ:GAS:boiling turnip wine]"
-msgstr "[STATE_NAME_ADJ:GAS:in ebollizione turnip wine]"
+msgstr "[STATE_NAME_ADJ:GAS:vino di rapa in ebollizione]"
 
 #: plant_garden.txt:1867
 msgctxt "PLANT:TURNIP"
@@ -47482,22 +47517,22 @@ msgstr "[GROWTH_NAME:baccello di mungo nero:STP]"
 #: plant_garden.txt:1925
 msgctxt "PLANT:WATERMELON"
 msgid "[NAME:watermelon vine]"
-msgstr ""
+msgstr "[NAME:vite di cocomero]"
 
 #: plant_garden.txt:1925
 msgctxt "PLANT:WATERMELON"
 msgid "[NAME_PLURAL:watermelon vines]"
-msgstr ""
+msgstr "[NAME_PLURAL:viti di cocomero]"
 
 #: plant_garden.txt:1925
 msgctxt "PLANT:WATERMELON"
 msgid "[ADJ:watermelon vine]"
-msgstr ""
+msgstr "[ADJ:vite di cocomero]"
 
 #: plant_garden.txt:1946
 msgctxt "PLANT:WATERMELON"
 msgid "[SEED:watermelon seed:watermelon seeds:]"
-msgstr ""
+msgstr "[SEED:seme di cocomero:semi di cocomero:]"
 
 #: plant_garden.txt:1949
 msgctxt "PLANT:WATERMELON"
@@ -47507,17 +47542,17 @@ msgstr "[PREFSTRING:frutto]"
 #: plant_garden.txt:1951
 msgctxt "PLANT:WATERMELON"
 msgid "[GROWTH_NAME:watermelon leaf:watermelon leaves]"
-msgstr ""
+msgstr "[GROWTH_NAME:foglia di cocomero:foglie di cocomero]"
 
 #: plant_garden.txt:1956
 msgctxt "PLANT:WATERMELON"
 msgid "[GROWTH_NAME:watermelon flower:STP]"
-msgstr "[GROWTH_NAME:fiore di anguria:STP]"
+msgstr "[GROWTH_NAME:fiore di cocomero:STP]"
 
 #: plant_garden.txt:1962
 msgctxt "PLANT:WATERMELON"
 msgid "[GROWTH_NAME:watermelon:STP]"
-msgstr "[GROWTH_NAME:anguria:STP]"
+msgstr "[GROWTH_NAME:cocomero:STP]"
 
 #: plant_garden.txt:1967
 msgctxt "PLANT:WATERMELON"
@@ -47527,22 +47562,22 @@ msgstr ""
 #: plant_garden.txt:1971
 msgctxt "PLANT:WINTER_MELON"
 msgid "[NAME:winter melon vine]"
-msgstr ""
+msgstr "[NAME:vite di zucca di cenere]"
 
 #: plant_garden.txt:1971
 msgctxt "PLANT:WINTER_MELON"
 msgid "[NAME_PLURAL:winter melon vines]"
-msgstr ""
+msgstr "[NAME_PLURAL:viti di zucca di cenere]"
 
 #: plant_garden.txt:1971
 msgctxt "PLANT:WINTER_MELON"
 msgid "[ADJ:winter melon vine]"
-msgstr ""
+msgstr "[ADJ:vite di zucca di cenere]"
 
 #: plant_garden.txt:1992
 msgctxt "PLANT:WINTER_MELON"
 msgid "[SEED:winter melon seed:winter melon seeds:]"
-msgstr ""
+msgstr "[SEED:seme di zucca amara:semi di zucca amara:]"
 
 #: plant_garden.txt:1995
 msgctxt "PLANT:WINTER_MELON"
@@ -47552,7 +47587,7 @@ msgstr "[PREFSTRING:frutto]"
 #: plant_garden.txt:1997
 msgctxt "PLANT:WINTER_MELON"
 msgid "[GROWTH_NAME:winter melon leaf:winter melon leaves]"
-msgstr ""
+msgstr "[GROWTH_NAME:foglia di zucca di cenere:foglie di zucca di cenere]"
 
 #: plant_garden.txt:2002
 msgctxt "PLANT:WINTER_MELON"
@@ -47562,7 +47597,7 @@ msgstr "[GROWTH_NAME:fiore di zucca di cenere:STP]"
 #: plant_garden.txt:2008
 msgctxt "PLANT:WINTER_MELON"
 msgid "[GROWTH_NAME:winter melon:STP]"
-msgstr ""
+msgstr "[GROWTH_NAME:zucca di cenere:STP]"
 
 #: plant_garden.txt:2013
 msgctxt "PLANT:WINTER_MELON"
@@ -47727,17 +47762,17 @@ msgstr ""
 #: plant_garden.txt:2162
 msgctxt "PLANT:PASSION_FRUIT"
 msgid "[STATE_NAME_ADJ:ALL_SOLID:frozen passion fruit wine]"
-msgstr ""
+msgstr "[STATE_NAME_ADJ:ALL_SOLID:vino di frutto della passione ghiacciato]"
 
 #: plant_garden.txt:2163
 msgctxt "PLANT:PASSION_FRUIT"
 msgid "[STATE_NAME_ADJ:LIQUID:passion fruit wine]"
-msgstr ""
+msgstr "[STATE_NAME_ADJ:LIQUID:vino di frutto della passione]"
 
 #: plant_garden.txt:2164
 msgctxt "PLANT:PASSION_FRUIT"
 msgid "[STATE_NAME_ADJ:GAS:boiling passion fruit wine]"
-msgstr "[STATE_NAME_ADJ:GAS:in ebollizione passion fruit wine]"
+msgstr "[STATE_NAME_ADJ:GAS:vino di frutto della passione in ebollizione]"
 
 #: plant_garden.txt:2188
 msgctxt "PLANT:PASSION_FRUIT"
@@ -47782,17 +47817,17 @@ msgstr ""
 #: plant_garden.txt:2221
 msgctxt "PLANT:GRAPE"
 msgid "[STATE_NAME_ADJ:ALL_SOLID:frozen wine]"
-msgstr ""
+msgstr "[STATE_NAME_ADJ:ALL_SOLID:vino ghiacciato]"
 
 #: plant_garden.txt:2222
 msgctxt "PLANT:GRAPE"
 msgid "[STATE_NAME_ADJ:LIQUID:wine]"
-msgstr ""
+msgstr "[STATE_NAME_ADJ:LIQUID:vino]"
 
 #: plant_garden.txt:2223
 msgctxt "PLANT:GRAPE"
 msgid "[STATE_NAME_ADJ:GAS:boiling wine]"
-msgstr "[STATE_NAME_ADJ:GAS:in ebollizione wine]"
+msgstr "[STATE_NAME_ADJ:GAS:vino in ebollizione]"
 
 #: plant_garden.txt:2247
 msgctxt "PLANT:GRAPE"
@@ -47837,17 +47872,17 @@ msgstr ""
 #: plant_garden.txt:2280
 msgctxt "PLANT:CRANBERRY"
 msgid "[STATE_NAME_ADJ:ALL_SOLID:frozen cranberry wine]"
-msgstr ""
+msgstr "[STATE_NAME_ADJ:ALL_SOLID:vino di mirtillo rosso ghiacciato]"
 
 #: plant_garden.txt:2281
 msgctxt "PLANT:CRANBERRY"
 msgid "[STATE_NAME_ADJ:LIQUID:cranberry wine]"
-msgstr ""
+msgstr "[STATE_NAME_ADJ:LIQUID:vino di mirtillo rosso]"
 
 #: plant_garden.txt:2282
 msgctxt "PLANT:CRANBERRY"
 msgid "[STATE_NAME_ADJ:GAS:boiling cranberry wine]"
-msgstr "[STATE_NAME_ADJ:GAS:in ebollizione cranberry wine]"
+msgstr "[STATE_NAME_ADJ:GAS:vino di mirtillo rosso in ebollizione]"
 
 #: plant_garden.txt:2306
 msgctxt "PLANT:CRANBERRY"
@@ -47877,37 +47912,37 @@ msgstr ""
 #: plant_garden.txt:2331
 msgctxt "PLANT:BILBERRY"
 msgid "[NAME:bilberry bush]"
-msgstr ""
+msgstr "[NAME:cespuglio di mirtillo nero]"
 
 #: plant_garden.txt:2331
 msgctxt "PLANT:BILBERRY"
 msgid "[NAME_PLURAL:bilberry bushes]"
-msgstr ""
+msgstr "[NAME_PLURAL:cespugli di mirtillo nero]"
 
 #: plant_garden.txt:2331
 msgctxt "PLANT:BILBERRY"
 msgid "[ADJ:bilberry bush]"
-msgstr ""
+msgstr "[ADJ:cespuglio di mirtillo nero]"
 
 #: plant_garden.txt:2339
 msgctxt "PLANT:BILBERRY"
 msgid "[STATE_NAME_ADJ:ALL_SOLID:frozen bilberry wine]"
-msgstr ""
+msgstr "[STATE_NAME_ADJ:ALL_SOLID:vino di mirtillo nero ghiacciato]"
 
 #: plant_garden.txt:2340
 msgctxt "PLANT:BILBERRY"
 msgid "[STATE_NAME_ADJ:LIQUID:bilberry wine]"
-msgstr ""
+msgstr "[STATE_NAME_ADJ:LIQUID:mirtillo nero]"
 
 #: plant_garden.txt:2341
 msgctxt "PLANT:BILBERRY"
 msgid "[STATE_NAME_ADJ:GAS:boiling bilberry wine]"
-msgstr "[STATE_NAME_ADJ:GAS:in ebollizione bilberry wine]"
+msgstr "[STATE_NAME_ADJ:GAS:vino di mirtillo nero in ebollizione]"
 
 #: plant_garden.txt:2365
 msgctxt "PLANT:BILBERRY"
 msgid "[SEED:bilberry seed:bilberry seeds:]"
-msgstr ""
+msgstr "[SEED:seme di mirtillo nero:semi di mirtillo nero:]"
 
 #: plant_garden.txt:2368
 msgctxt "PLANT:BILBERRY"
@@ -47917,7 +47952,7 @@ msgstr "[PREFSTRING:frutto]"
 #: plant_garden.txt:2370
 msgctxt "PLANT:BILBERRY"
 msgid "[GROWTH_NAME:bilberry leaf:bilberry leaves]"
-msgstr ""
+msgstr "[GROWTH_NAME:foglia di mirtillo nero:foglie di mirtillo nero]"
 
 #: plant_garden.txt:2375
 msgctxt "PLANT:BILBERRY"
@@ -47927,7 +47962,7 @@ msgstr "[GROWTH_NAME:fiore di mirtillo nero:STP]"
 #: plant_garden.txt:2381
 msgctxt "PLANT:BILBERRY"
 msgid "[GROWTH_NAME:bilberry:bilberries]"
-msgstr ""
+msgstr "[GROWTH_NAME:mirtillo nero:mirtilli neri]"
 
 #: plant_garden.txt:2390
 msgctxt "PLANT:BLUEBERRY"
@@ -47947,17 +47982,17 @@ msgstr ""
 #: plant_garden.txt:2398
 msgctxt "PLANT:BLUEBERRY"
 msgid "[STATE_NAME_ADJ:ALL_SOLID:frozen blueberry wine]"
-msgstr ""
+msgstr "[STATE_NAME_ADJ:ALL_SOLID:vino di mora ghiacciato]"
 
 #: plant_garden.txt:2399
 msgctxt "PLANT:BLUEBERRY"
 msgid "[STATE_NAME_ADJ:LIQUID:blueberry wine]"
-msgstr ""
+msgstr "[STATE_NAME_ADJ:LIQUID:vino di mora]"
 
 #: plant_garden.txt:2400
 msgctxt "PLANT:BLUEBERRY"
 msgid "[STATE_NAME_ADJ:GAS:boiling blueberry wine]"
-msgstr "[STATE_NAME_ADJ:GAS:in ebollizione blueberry wine]"
+msgstr "[STATE_NAME_ADJ:GAS:vino di mora in ebollizione]"
 
 #: plant_garden.txt:2424
 msgctxt "PLANT:BLUEBERRY"
@@ -48002,17 +48037,17 @@ msgstr ""
 #: plant_garden.txt:2457
 msgctxt "PLANT:BLACKBERRY"
 msgid "[STATE_NAME_ADJ:ALL_SOLID:frozen blackberry wine]"
-msgstr ""
+msgstr "[STATE_NAME_ADJ:ALL_SOLID:vino di mora ghiacciato]"
 
 #: plant_garden.txt:2458
 msgctxt "PLANT:BLACKBERRY"
 msgid "[STATE_NAME_ADJ:LIQUID:blackberry wine]"
-msgstr ""
+msgstr "[STATE_NAME_ADJ:LIQUID:vino di mora]"
 
 #: plant_garden.txt:2459
 msgctxt "PLANT:BLACKBERRY"
 msgid "[STATE_NAME_ADJ:GAS:boiling blackberry wine]"
-msgstr "[STATE_NAME_ADJ:GAS:in ebollizione blackberry wine]"
+msgstr "[STATE_NAME_ADJ:GAS:vino di mora in ebollizione]"
 
 #: plant_garden.txt:2483
 msgctxt "PLANT:BLACKBERRY"
@@ -48057,17 +48092,17 @@ msgstr ""
 #: plant_garden.txt:2516
 msgctxt "PLANT:RASPBERRY"
 msgid "[STATE_NAME_ADJ:ALL_SOLID:frozen raspberry wine]"
-msgstr ""
+msgstr "[STATE_NAME_ADJ:ALL_SOLID:vino di lampone ghiacciato]"
 
 #: plant_garden.txt:2517
 msgctxt "PLANT:RASPBERRY"
 msgid "[STATE_NAME_ADJ:LIQUID:raspberry wine]"
-msgstr ""
+msgstr "[STATE_NAME_ADJ:LIQUID:vino di lampone]"
 
 #: plant_garden.txt:2518
 msgctxt "PLANT:RASPBERRY"
 msgid "[STATE_NAME_ADJ:GAS:boiling raspberry wine]"
-msgstr "[STATE_NAME_ADJ:GAS:in ebollizione raspberry wine]"
+msgstr "[STATE_NAME_ADJ:GAS:vino di lampone in ebollizione]"
 
 #: plant_garden.txt:2542
 msgctxt "PLANT:RASPBERRY"
@@ -48112,17 +48147,17 @@ msgstr ""
 #: plant_garden.txt:2575
 msgctxt "PLANT:PINEAPPLE"
 msgid "[STATE_NAME_ADJ:ALL_SOLID:frozen pineapple wine]"
-msgstr ""
+msgstr "[STATE_NAME_ADJ:ALL_SOLID:vino di ananas ghiacciato]"
 
 #: plant_garden.txt:2576
 msgctxt "PLANT:PINEAPPLE"
 msgid "[STATE_NAME_ADJ:LIQUID:pineapple wine]"
-msgstr ""
+msgstr "[STATE_NAME_ADJ:LIQUID:vino di ananas]"
 
 #: plant_garden.txt:2577
 msgctxt "PLANT:PINEAPPLE"
 msgid "[STATE_NAME_ADJ:GAS:boiling pineapple wine]"
-msgstr "[STATE_NAME_ADJ:GAS:in ebollizione pineapple wine]"
+msgstr "[STATE_NAME_ADJ:GAS:vino di ananas in ebollizione]"
 
 #: plant_garden.txt:2603
 msgctxt "PLANT:PINEAPPLE"
@@ -48162,7 +48197,7 @@ msgstr "[ALL_NAMES:erba a cespuglio]"
 #: plant_grasses.txt:40
 msgctxt "PLANT:BENTGRASS"
 msgid "[ALL_NAMES:bentgrass]"
-msgstr ""
+msgstr "[ALL_NAMES:agrostide]"
 
 #: plant_grasses.txt:57
 msgctxt "PLANT:RYEGRASS"
@@ -48197,12 +48232,12 @@ msgstr ""
 #: plant_grasses.txt:144
 msgctxt "PLANT:DALLISGRASS"
 msgid "[ALL_NAMES:dallisgrass]"
-msgstr ""
+msgstr "[ALL_NAMES:paspalo dilatato]"
 
 #: plant_grasses.txt:158
 msgctxt "PLANT:CARPETGRASS"
 msgid "[ALL_NAMES:carpetgrass]"
-msgstr ""
+msgstr "[ALL_NAMES:tappeto erboso]"
 
 #: plant_grasses.txt:172
 msgctxt "PLANT:SATINTAIL"
@@ -48217,12 +48252,12 @@ msgstr ""
 #: plant_grasses.txt:200
 msgctxt "PLANT:DROPSEED GRASS"
 msgid "[ALL_NAMES:dropseed grass]"
-msgstr ""
+msgstr "[ALL_NAMES:sporobolo tenacissimo]"
 
 #: plant_grasses.txt:214
 msgctxt "PLANT:NEEDLE GRASS"
 msgid "[ALL_NAMES:needle grass]"
-msgstr ""
+msgstr "[ALL_NAMES:lino delle fate]"
 
 #: plant_grasses.txt:228
 msgctxt "PLANT:BABY TOES SUCCULENT"
@@ -48287,12 +48322,12 @@ msgstr ""
 #: plant_grasses.txt:299
 msgctxt "PLANT:PURPLE MOOR GRASS"
 msgid "[ALL_NAMES:purple moor grass]"
-msgstr ""
+msgstr "[ALL_NAMES:gramigna altissima]"
 
 #: plant_grasses.txt:311
 msgctxt "PLANT:VELVET GRASS"
 msgid "[ALL_NAMES:velvet grass]"
-msgstr ""
+msgstr "[ALL_NAMES:holcus]"
 
 #: plant_grasses.txt:323
 msgctxt "PLANT:MEADOWSWEET"
@@ -48392,22 +48427,22 @@ msgstr ""
 #: plant_grasses.txt:415
 msgctxt "PLANT:SAWGRASS"
 msgid "[ALL_NAMES:sawgrass]"
-msgstr ""
+msgstr "[ALL_NAMES:marisco]"
 
 #: plant_grasses.txt:426
 msgctxt "PLANT:COTTONGRASS"
 msgid "[ALL_NAMES:cottongrass]"
-msgstr ""
+msgstr "[ALL_NAMES:erioforo]"
 
 #: plant_grasses.txt:437
 msgctxt "PLANT:COTTONGRASS"
 msgid "[GROWTH_NAME:cottongrass bud:STP]"
-msgstr ""
+msgstr "[GROWTH_NAME:germoglio di erioforo:STP]"
 
 #: plant_grasses.txt:443
 msgctxt "PLANT:COTTONGRASS"
 msgid "[GROWTH_NAME:cottongrass tuft:STP]"
-msgstr ""
+msgstr "[GROWTH_NAME:ciuffo di erioforo:STP]"
 
 #: plant_grasses.txt:450
 msgctxt "PLANT:WHITE MOUNTAIN HEATHER"
@@ -48607,7 +48642,7 @@ msgstr ""
 #: plant_new_trees.txt:68
 msgctxt "PLANT:BANANA"
 msgid "[STATE_NAME_ADJ:GAS:boiling banana beer]"
-msgstr "[STATE_NAME_ADJ:GAS:in ebollizione banana beer]"
+msgstr "[STATE_NAME_ADJ:GAS:birra di banana in ebollizione]"
 
 #: plant_new_trees.txt:94
 msgctxt "PLANT:BANANA"
@@ -48662,17 +48697,17 @@ msgstr ""
 #: plant_new_trees.txt:145
 msgctxt "PLANT:CARAMBOLA"
 msgid "[STATE_NAME_ADJ:ALL_SOLID:frozen carambola wine]"
-msgstr ""
+msgstr "[STATE_NAME_ADJ:ALL_SOLID:vino di carambola ghiacciato]"
 
 #: plant_new_trees.txt:146
 msgctxt "PLANT:CARAMBOLA"
 msgid "[STATE_NAME_ADJ:LIQUID:carambola wine]"
-msgstr ""
+msgstr "[STATE_NAME_ADJ:LIQUID:vino di carambola]"
 
 #: plant_new_trees.txt:147
 msgctxt "PLANT:CARAMBOLA"
 msgid "[STATE_NAME_ADJ:GAS:boiling carambola wine]"
-msgstr "[STATE_NAME_ADJ:GAS:in ebollizione carambola wine]"
+msgstr "[STATE_NAME_ADJ:GAS:vino di carambola in ebollizione]"
 
 #: plant_new_trees.txt:173
 msgctxt "PLANT:CARAMBOLA"
@@ -48827,17 +48862,17 @@ msgstr ""
 #: plant_new_trees.txt:363
 msgctxt "PLANT:DURIAN"
 msgid "[STATE_NAME_ADJ:ALL_SOLID:frozen durian wine]"
-msgstr ""
+msgstr "[STATE_NAME_ADJ:ALL_SOLID:vino di durian ghiacciato]"
 
 #: plant_new_trees.txt:364
 msgctxt "PLANT:DURIAN"
 msgid "[STATE_NAME_ADJ:LIQUID:durian wine]"
-msgstr ""
+msgstr "[STATE_NAME_ADJ:LIQUID:vino di durian]"
 
 #: plant_new_trees.txt:365
 msgctxt "PLANT:DURIAN"
 msgid "[STATE_NAME_ADJ:GAS:boiling durian wine]"
-msgstr "[STATE_NAME_ADJ:GAS:in ebollizione durian wine]"
+msgstr "[STATE_NAME_ADJ:GAS:vino di durian in ebollizione]"
 
 #: plant_new_trees.txt:392
 msgctxt "PLANT:DURIAN"
@@ -48892,17 +48927,17 @@ msgstr ""
 #: plant_new_trees.txt:445
 msgctxt "PLANT:GUAVA"
 msgid "[STATE_NAME_ADJ:ALL_SOLID:frozen guava wine]"
-msgstr ""
+msgstr "[STATE_NAME_ADJ:ALL_SOLID:vino di guava ghiacciato]"
 
 #: plant_new_trees.txt:446
 msgctxt "PLANT:GUAVA"
 msgid "[STATE_NAME_ADJ:LIQUID:guava wine]"
-msgstr ""
+msgstr "[STATE_NAME_ADJ:LIQUID:vino di guava]"
 
 #: plant_new_trees.txt:447
 msgctxt "PLANT:GUAVA"
 msgid "[STATE_NAME_ADJ:GAS:boiling guava wine]"
-msgstr "[STATE_NAME_ADJ:GAS:in ebollizione guava wine]"
+msgstr "[STATE_NAME_ADJ:GAS:vino di guava in ebollizione]"
 
 #: plant_new_trees.txt:473
 msgctxt "PLANT:GUAVA"
@@ -48957,17 +48992,17 @@ msgstr ""
 #: plant_new_trees.txt:526
 msgctxt "PLANT:PAPAYA"
 msgid "[STATE_NAME_ADJ:ALL_SOLID:frozen papaya wine]"
-msgstr ""
+msgstr "[STATE_NAME_ADJ:ALL_SOLID:vino di papaia]"
 
 #: plant_new_trees.txt:527
 msgctxt "PLANT:PAPAYA"
 msgid "[STATE_NAME_ADJ:LIQUID:papaya wine]"
-msgstr ""
+msgstr "[STATE_NAME_ADJ:LIQUID:vino di papaia]"
 
 #: plant_new_trees.txt:528
 msgctxt "PLANT:PAPAYA"
 msgid "[STATE_NAME_ADJ:GAS:boiling papaya wine]"
-msgstr "[STATE_NAME_ADJ:GAS:in ebollizione papaya wine]"
+msgstr "[STATE_NAME_ADJ:GAS:vino di papaia in ebollizione]"
 
 #: plant_new_trees.txt:554
 msgctxt "PLANT:PAPAYA"
@@ -49072,17 +49107,17 @@ msgstr ""
 #: plant_new_trees.txt:674
 msgctxt "PLANT:RAMBUTAN"
 msgid "[STATE_NAME_ADJ:ALL_SOLID:frozen rambutan wine]"
-msgstr ""
+msgstr "[STATE_NAME_ADJ:ALL_SOLID:vino di rambutan ghiacciato]"
 
 #: plant_new_trees.txt:675
 msgctxt "PLANT:RAMBUTAN"
 msgid "[STATE_NAME_ADJ:LIQUID:rambutan wine]"
-msgstr ""
+msgstr "[STATE_NAME_ADJ:LIQUID:vino di rambutan]"
 
 #: plant_new_trees.txt:676
 msgctxt "PLANT:RAMBUTAN"
 msgid "[STATE_NAME_ADJ:GAS:boiling rambutan wine]"
-msgstr "[STATE_NAME_ADJ:GAS:in ebollizione rambutan wine]"
+msgstr "[STATE_NAME_ADJ:GAS:vino di rambutan in ebollizione]"
 
 #: plant_new_trees.txt:703
 msgctxt "PLANT:RAMBUTAN"
@@ -49752,17 +49787,17 @@ msgstr ""
 #: plant_new_trees.txt:1584
 msgctxt "PLANT:DATE_PALM"
 msgid "[STATE_NAME_ADJ:ALL_SOLID:frozen date wine]"
-msgstr ""
+msgstr "[STATE_NAME_ADJ:ALL_SOLID:vino di dattero ghiacciato]"
 
 #: plant_new_trees.txt:1585
 msgctxt "PLANT:DATE_PALM"
 msgid "[STATE_NAME_ADJ:LIQUID:date wine]"
-msgstr ""
+msgstr "[STATE_NAME_ADJ:LIQUID:vino di dattero]"
 
 #: plant_new_trees.txt:1586
 msgctxt "PLANT:DATE_PALM"
 msgid "[STATE_NAME_ADJ:GAS:boiling date wine]"
-msgstr "[STATE_NAME_ADJ:GAS:in ebollizione date wine]"
+msgstr "[STATE_NAME_ADJ:GAS:vino di dattero in ebollizione]"
 
 #: plant_new_trees.txt:1616
 msgctxt "PLANT:DATE_PALM"
@@ -49817,17 +49852,17 @@ msgstr ""
 #: plant_new_trees.txt:1670
 msgctxt "PLANT:LYCHEE"
 msgid "[STATE_NAME_ADJ:ALL_SOLID:frozen lychee wine]"
-msgstr ""
+msgstr "[STATE_NAME_ADJ:ALL_SOLID:vino di litchi ghiacciato]"
 
 #: plant_new_trees.txt:1671
 msgctxt "PLANT:LYCHEE"
 msgid "[STATE_NAME_ADJ:LIQUID:lychee wine]"
-msgstr ""
+msgstr "[STATE_NAME_ADJ:LIQUID:vino di litchi]"
 
 #: plant_new_trees.txt:1672
 msgctxt "PLANT:LYCHEE"
 msgid "[STATE_NAME_ADJ:GAS:boiling lychee wine]"
-msgstr "[STATE_NAME_ADJ:GAS:in ebollizione lychee wine]"
+msgstr "[STATE_NAME_ADJ:GAS:vino di litchi in ebollizione]"
 
 #: plant_new_trees.txt:1698
 msgctxt "PLANT:LYCHEE"
@@ -49932,7 +49967,7 @@ msgstr ""
 #: plant_new_trees.txt:1811
 msgctxt "PLANT:OLIVE"
 msgid "[STATE_NAME_ADJ:GAS:boiling olive oil]"
-msgstr "[STATE_NAME_ADJ:GAS:in ebollizione olive oil]"
+msgstr "[STATE_NAME_ADJ:GAS:olio d'oliva in ebollizione]"
 
 #: plant_new_trees.txt:1816
 msgctxt "PLANT:OLIVE"
@@ -50017,17 +50052,17 @@ msgstr ""
 #: plant_new_trees.txt:1901
 msgctxt "PLANT:POMEGRANATE"
 msgid "[STATE_NAME_ADJ:ALL_SOLID:frozen pomegranate wine]"
-msgstr ""
+msgstr "[STATE_NAME_ADJ:ALL_SOLID:vino di melograno ghiacciato]"
 
 #: plant_new_trees.txt:1902
 msgctxt "PLANT:POMEGRANATE"
 msgid "[STATE_NAME_ADJ:LIQUID:pomegranate wine]"
-msgstr ""
+msgstr "[STATE_NAME_ADJ:LIQUID:vino di melograno]"
 
 #: plant_new_trees.txt:1903
 msgctxt "PLANT:POMEGRANATE"
 msgid "[STATE_NAME_ADJ:GAS:boiling pomegranate wine]"
-msgstr "[STATE_NAME_ADJ:GAS:in ebollizione pomegranate wine]"
+msgstr "[STATE_NAME_ADJ:GAS:vino di melograno in ebollizione]"
 
 #: plant_new_trees.txt:1929
 msgctxt "PLANT:POMEGRANATE"
@@ -50197,17 +50232,17 @@ msgstr ""
 #: plant_new_trees.txt:2142
 msgctxt "PLANT:APRICOT"
 msgid "[STATE_NAME_ADJ:ALL_SOLID:frozen apricot wine]"
-msgstr ""
+msgstr "[STATE_NAME_ADJ:ALL_SOLID:vino di albicocca ghiacciato]"
 
 #: plant_new_trees.txt:2143
 msgctxt "PLANT:APRICOT"
 msgid "[STATE_NAME_ADJ:LIQUID:apricot wine]"
-msgstr ""
+msgstr "[STATE_NAME_ADJ:LIQUID:vino di albicocca]"
 
 #: plant_new_trees.txt:2144
 msgctxt "PLANT:APRICOT"
 msgid "[STATE_NAME_ADJ:GAS:boiling apricot wine]"
-msgstr "[STATE_NAME_ADJ:GAS:in ebollizione apricot wine]"
+msgstr "[STATE_NAME_ADJ:GAS:vino di albicocca in ebollizione]"
 
 #: plant_new_trees.txt:2170
 msgctxt "PLANT:APRICOT"
@@ -50262,17 +50297,17 @@ msgstr ""
 #: plant_new_trees.txt:2228
 msgctxt "PLANT:BAYBERRY"
 msgid "[STATE_NAME_ADJ:ALL_SOLID:frozen bayberry wine]"
-msgstr ""
+msgstr "[STATE_NAME_ADJ:ALL_SOLID:vino di myrica ghiacciato]"
 
 #: plant_new_trees.txt:2229
 msgctxt "PLANT:BAYBERRY"
 msgid "[STATE_NAME_ADJ:LIQUID:bayberry wine]"
-msgstr ""
+msgstr "[STATE_NAME_ADJ:LIQUID:vino di myrica]"
 
 #: plant_new_trees.txt:2230
 msgctxt "PLANT:BAYBERRY"
 msgid "[STATE_NAME_ADJ:GAS:boiling bayberry wine]"
-msgstr "[STATE_NAME_ADJ:GAS:in ebollizione bayberry wine]"
+msgstr "[STATE_NAME_ADJ:GAS:vino di myrica in ebollizione]"
 
 #: plant_new_trees.txt:2254
 msgctxt "PLANT:BAYBERRY"
@@ -50332,17 +50367,17 @@ msgstr ""
 #: plant_new_trees.txt:2315
 msgctxt "PLANT:CHERRY"
 msgid "[STATE_NAME_ADJ:ALL_SOLID:frozen cherry wine]"
-msgstr ""
+msgstr "[STATE_NAME_ADJ:ALL_SOLID:vino di ciliegia ghiacciato]"
 
 #: plant_new_trees.txt:2316
 msgctxt "PLANT:CHERRY"
 msgid "[STATE_NAME_ADJ:LIQUID:cherry wine]"
-msgstr ""
+msgstr "[STATE_NAME_ADJ:LIQUID:vino di ciliegia]"
 
 #: plant_new_trees.txt:2317
 msgctxt "PLANT:CHERRY"
 msgid "[STATE_NAME_ADJ:GAS:boiling cherry wine]"
-msgstr "[STATE_NAME_ADJ:GAS:in ebollizione cherry wine]"
+msgstr "[STATE_NAME_ADJ:GAS:vino di ciliegia in ebollizione]"
 
 #: plant_new_trees.txt:2343
 msgctxt "PLANT:CHERRY"
@@ -50682,17 +50717,17 @@ msgstr ""
 #: plant_new_trees.txt:2770
 msgctxt "PLANT:PERSIMMON"
 msgid "[STATE_NAME_ADJ:ALL_SOLID:frozen persimmon wine]"
-msgstr ""
+msgstr "[STATE_NAME_ADJ:ALL_SOLID:vino di cachi ghiacciato]"
 
 #: plant_new_trees.txt:2771
 msgctxt "PLANT:PERSIMMON"
 msgid "[STATE_NAME_ADJ:LIQUID:persimmon wine]"
-msgstr ""
+msgstr "[STATE_NAME_ADJ:LIQUID:vino di cachi]"
 
 #: plant_new_trees.txt:2772
 msgctxt "PLANT:PERSIMMON"
 msgid "[STATE_NAME_ADJ:GAS:boiling persimmon wine]"
-msgstr "[STATE_NAME_ADJ:GAS:in ebollizione persimmon wine]"
+msgstr "[STATE_NAME_ADJ:GAS:vino di cachi in ebollizione]"
 
 #: plant_new_trees.txt:2798
 msgctxt "PLANT:PERSIMMON"
@@ -50747,17 +50782,17 @@ msgstr ""
 #: plant_new_trees.txt:2856
 msgctxt "PLANT:PLUM"
 msgid "[STATE_NAME_ADJ:ALL_SOLID:frozen plum wine]"
-msgstr ""
+msgstr "[STATE_NAME_ADJ:ALL_SOLID:vino di prugna ghiacciato]"
 
 #: plant_new_trees.txt:2857
 msgctxt "PLANT:PLUM"
 msgid "[STATE_NAME_ADJ:LIQUID:plum wine]"
-msgstr ""
+msgstr "[STATE_NAME_ADJ:LIQUID:vino di prugna]"
 
 #: plant_new_trees.txt:2858
 msgctxt "PLANT:PLUM"
 msgid "[STATE_NAME_ADJ:GAS:boiling plum wine]"
-msgstr "[STATE_NAME_ADJ:GAS:in ebollizione plum wine]"
+msgstr "[STATE_NAME_ADJ:GAS:vino di prugna in ebollizione]"
 
 #: plant_new_trees.txt:2884
 msgctxt "PLANT:PLUM"
@@ -50922,17 +50957,17 @@ msgstr "[ADJ:casco paffuto]"
 #: plant_standard.txt:34
 msgctxt "PLANT:MUSHROOM_HELMET_PLUMP"
 msgid "[STATE_NAME_ADJ:ALL_SOLID:frozen dwarven wine]"
-msgstr ""
+msgstr "[STATE_NAME_ADJ:ALL_SOLID:vino nanico ghiacciato]"
 
 #: plant_standard.txt:35
 msgctxt "PLANT:MUSHROOM_HELMET_PLUMP"
 msgid "[STATE_NAME_ADJ:LIQUID:dwarven wine]"
-msgstr ""
+msgstr "[STATE_NAME_ADJ:LIQUID:vino nanico]"
 
 #: plant_standard.txt:36
 msgctxt "PLANT:MUSHROOM_HELMET_PLUMP"
 msgid "[STATE_NAME_ADJ:GAS:boiling dwarven wine]"
-msgstr "[STATE_NAME_ADJ:GAS:in ebollizione dwarven wine]"
+msgstr "[STATE_NAME_ADJ:GAS:vino nanico in ebollizione]"
 
 #: plant_standard.txt:52
 msgctxt "PLANT:MUSHROOM_HELMET_PLUMP"
@@ -51027,7 +51062,7 @@ msgstr ""
 #: plant_standard.txt:125
 msgctxt "PLANT:GRASS_WHEAT_CAVE"
 msgid "[STATE_NAME_ADJ:GAS:boiling dwarven beer]"
-msgstr "[STATE_NAME_ADJ:GAS:in ebollizione dwarven beer]"
+msgstr "[STATE_NAME_ADJ:GAS:birra nanica in ebollizione]"
 
 #: plant_standard.txt:134
 msgctxt "PLANT:GRASS_WHEAT_CAVE"
@@ -51132,7 +51167,7 @@ msgstr ""
 #: plant_standard.txt:231
 msgctxt "PLANT:BUSH_QUARRY"
 msgid "[STATE_NAME_ADJ:GAS:boiling rock nut oil]"
-msgstr "[STATE_NAME_ADJ:GAS:in ebollizione rock nut oil]"
+msgstr "[STATE_NAME_ADJ:GAS:olio di noce di roccia in ebollizione]"
 
 #: plant_standard.txt:236
 msgctxt "PLANT:BUSH_QUARRY"
@@ -51242,7 +51277,7 @@ msgstr ""
 #: plant_standard.txt:321
 msgctxt "PLANT:TUBER_BLOATED"
 msgid "[STATE_NAME_ADJ:GAS:boiling tuber beer]"
-msgstr "[STATE_NAME_ADJ:GAS:in ebollizione tuber beer]"
+msgstr "[STATE_NAME_ADJ:GAS:birra di tubero in ebollizione]"
 
 #: plant_standard.txt:330
 msgctxt "PLANT:TUBER_BLOATED"
@@ -51312,17 +51347,17 @@ msgstr ""
 #: plant_standard.txt:381
 msgctxt "PLANT:BERRIES_PRICKLE"
 msgid "[STATE_NAME_ADJ:ALL_SOLID:frozen prickle berry wine]"
-msgstr ""
+msgstr "[STATE_NAME_ADJ:ALL_SOLID:vino di bacca spinosa ghiacciato]"
 
 #: plant_standard.txt:382
 msgctxt "PLANT:BERRIES_PRICKLE"
 msgid "[STATE_NAME_ADJ:LIQUID:prickle berry wine]"
-msgstr ""
+msgstr "[STATE_NAME_ADJ:LIQUID:vino di bacca spinosa]"
 
 #: plant_standard.txt:383
 msgctxt "PLANT:BERRIES_PRICKLE"
 msgid "[STATE_NAME_ADJ:GAS:boiling prickle berry wine]"
-msgstr "[STATE_NAME_ADJ:GAS:in ebollizione prickle berry wine]"
+msgstr "[STATE_NAME_ADJ:GAS:vino di bacca spinosa in ebollizione]"
 
 #: plant_standard.txt:396
 msgctxt "PLANT:BERRIES_PRICKLE"
@@ -51352,17 +51387,17 @@ msgstr ""
 #: plant_standard.txt:420
 msgctxt "PLANT:BERRIES_STRAW"
 msgid "[STATE_NAME_ADJ:ALL_SOLID:frozen strawberry wine]"
-msgstr ""
+msgstr "[STATE_NAME_ADJ:ALL_SOLID:vino di fragola ghiacciato]"
 
 #: plant_standard.txt:421
 msgctxt "PLANT:BERRIES_STRAW"
 msgid "[STATE_NAME_ADJ:LIQUID:strawberry wine]"
-msgstr ""
+msgstr "[STATE_NAME_ADJ:LIQUID:vino di fragola]"
 
 #: plant_standard.txt:422
 msgctxt "PLANT:BERRIES_STRAW"
 msgid "[STATE_NAME_ADJ:GAS:boiling strawberry wine]"
-msgstr "[STATE_NAME_ADJ:GAS:in ebollizione strawberry wine]"
+msgstr "[STATE_NAME_ADJ:GAS:vino di fragola in ebollizione]"
 
 #: plant_standard.txt:435
 msgctxt "PLANT:BERRIES_STRAW"
@@ -51407,7 +51442,7 @@ msgstr ""
 #: plant_standard.txt:462
 msgctxt "PLANT:GRASS_LONGLAND"
 msgid "[STATE_NAME_ADJ:GAS:boiling Longland beer]"
-msgstr "[STATE_NAME_ADJ:GAS:in ebollizione Longland beer]"
+msgstr "[STATE_NAME_ADJ:GAS:birra di Lungaterra in ebollizione]"
 
 #: plant_standard.txt:471
 msgctxt "PLANT:GRASS_LONGLAND"
@@ -51522,17 +51557,17 @@ msgstr ""
 #: plant_standard.txt:559
 msgctxt "PLANT:BERRIES_FISHER"
 msgid "[STATE_NAME_ADJ:ALL_SOLID:frozen fisher berry wine]"
-msgstr ""
+msgstr "[STATE_NAME_ADJ:ALL_SOLID:vino di bacca di pescatore ghiacciato]"
 
 #: plant_standard.txt:560
 msgctxt "PLANT:BERRIES_FISHER"
 msgid "[STATE_NAME_ADJ:LIQUID:fisher berry wine]"
-msgstr ""
+msgstr "[STATE_NAME_ADJ:LIQUID:vino di bacca di pescatore]"
 
 #: plant_standard.txt:561
 msgctxt "PLANT:BERRIES_FISHER"
 msgid "[STATE_NAME_ADJ:GAS:boiling fisher berry wine]"
-msgstr "[STATE_NAME_ADJ:GAS:in ebollizione fisher berry wine]"
+msgstr "[STATE_NAME_ADJ:GAS:vino di bacca di pescatore in ebollizione]"
 
 #: plant_standard.txt:572
 msgctxt "PLANT:BERRIES_FISHER"
@@ -51602,27 +51637,27 @@ msgstr ""
 #: plant_standard.txt:619
 msgctxt "PLANT:MUSHROOM_CUP_DIMPLE"
 msgid "[NAME:dimple cup]"
-msgstr ""
+msgstr "[NAME:coppa-fossetta]"
 
 #: plant_standard.txt:619
 msgctxt "PLANT:MUSHROOM_CUP_DIMPLE"
 msgid "[NAME_PLURAL:dimple cups]"
-msgstr ""
+msgstr "[NAME_PLURAL:coppa-fossetta]"
 
 #: plant_standard.txt:619
 msgctxt "PLANT:MUSHROOM_CUP_DIMPLE"
 msgid "[ADJ:dimple cup]"
-msgstr ""
+msgstr "[ADJ:coppa-fossetta]"
 
 #: plant_standard.txt:626
 msgctxt "PLANT:MUSHROOM_CUP_DIMPLE"
 msgid "[STATE_NAME_ADJ:ALL_SOLID:dimple dye]"
-msgstr ""
+msgstr "[STATE_NAME_ADJ:ALL_SOLID:tintura fossetta]"
 
 #: plant_standard.txt:637
 msgctxt "PLANT:MUSHROOM_CUP_DIMPLE"
 msgid "[SEED:dimple cup spawn:dimple cup spawn:]"
-msgstr ""
+msgstr "[SEED:spora di coppa-fossetta:spore di coppa-fossetta:]"
 
 #: plant_standard.txt:641
 msgctxt "PLANT:MUSHROOM_CUP_DIMPLE"
@@ -51647,7 +51682,7 @@ msgstr ""
 #: plant_standard.txt:659
 msgctxt "PLANT:WEED_BLADE"
 msgid "[STATE_NAME_ADJ:ALL_SOLID:emerald dye]"
-msgstr ""
+msgstr "[STATE_NAME_ADJ:ALL_SOLID:tintura smeraldo]"
 
 #: plant_standard.txt:669
 msgctxt "PLANT:WEED_BLADE"
@@ -51662,22 +51697,22 @@ msgstr ""
 #: plant_standard.txt:676
 msgctxt "PLANT:ROOT_HIDE"
 msgid "[NAME:hide root]"
-msgstr ""
+msgstr "[NAME:radice celata]"
 
 #: plant_standard.txt:676
 msgctxt "PLANT:ROOT_HIDE"
 msgid "[NAME_PLURAL:hide root]"
-msgstr ""
+msgstr "[NAME_PLURAL:radice celata]"
 
 #: plant_standard.txt:676
 msgctxt "PLANT:ROOT_HIDE"
 msgid "[ADJ:hide root]"
-msgstr ""
+msgstr "[ADJ:radice celata]"
 
 #: plant_standard.txt:684
 msgctxt "PLANT:ROOT_HIDE"
 msgid "[STATE_NAME_ADJ:ALL_SOLID:redroot dye]"
-msgstr ""
+msgstr "[STATE_NAME_ADJ:ALL_SOLID:tintura radicerossa]"
 
 #: plant_standard.txt:694
 msgctxt "PLANT:ROOT_HIDE"
@@ -51687,22 +51722,22 @@ msgstr ""
 #: plant_standard.txt:698
 msgctxt "PLANT:ROOT_HIDE"
 msgid "[SEED:hide root seed:hide root seeds:]"
-msgstr ""
+msgstr "[SEED:seme di radice celata:semi di radice celata:]"
 
 #: plant_standard.txt:701
 msgctxt "PLANT:SLIVER_BARB"
 msgid "[NAME:sliver barb]"
-msgstr ""
+msgstr "[NAME:scheggia barbiglio]"
 
 #: plant_standard.txt:701
 msgctxt "PLANT:SLIVER_BARB"
 msgid "[NAME_PLURAL:sliver barbs]"
-msgstr ""
+msgstr "[NAME_PLURAL:schegge barbiglio]"
 
 #: plant_standard.txt:701
 msgctxt "PLANT:SLIVER_BARB"
 msgid "[ADJ:sliver barb]"
-msgstr ""
+msgstr "[ADJ:scheggia barbiglio]"
 
 #: plant_standard.txt:710
 msgctxt "PLANT:SLIVER_BARB"
@@ -51722,7 +51757,7 @@ msgstr "[STATE_NAME_ADJ:GAS:in ebollizione gutter cruor]"
 #: plant_standard.txt:721
 msgctxt "PLANT:SLIVER_BARB"
 msgid "[STATE_NAME_ADJ:ALL_SOLID:sliver dye]"
-msgstr ""
+msgstr "[STATE_NAME_ADJ:ALL_SOLID:tintura di scheggia barbiglio]"
 
 #: plant_standard.txt:731
 msgctxt "PLANT:SLIVER_BARB"
@@ -51732,7 +51767,7 @@ msgstr "[PREFSTRING:spine maligne]"
 #: plant_standard.txt:735
 msgctxt "PLANT:SLIVER_BARB"
 msgid "[SEED:sliver barb seed:sliver barb seeds:]"
-msgstr ""
+msgstr "[SEED:seme di scheggia barbiglio:semi di scheggia barbiglio:]"
 
 #: plant_standard.txt:738
 msgctxt "PLANT:BERRY_SUN"
@@ -51792,17 +51827,17 @@ msgstr ""
 #: plant_standard.txt:780
 msgctxt "PLANT:VINE_WHIP"
 msgid "[STATE_NAME_ADJ:ALL_SOLID:frozen whip wine]"
-msgstr ""
+msgstr "[STATE_NAME_ADJ:ALL_SOLID:vino di flagellaria indica ghiacciato]"
 
 #: plant_standard.txt:781
 msgctxt "PLANT:VINE_WHIP"
 msgid "[STATE_NAME_ADJ:LIQUID:whip wine]"
-msgstr ""
+msgstr "[STATE_NAME_ADJ:LIQUID:vino di flagellaria indica]"
 
 #: plant_standard.txt:782
 msgctxt "PLANT:VINE_WHIP"
 msgid "[STATE_NAME_ADJ:GAS:boiling whip wine]"
-msgstr "[STATE_NAME_ADJ:GAS:birra di flagellaria indica in ebollizione]"
+msgstr "[STATE_NAME_ADJ:GAS:vino di flagellaria indica in ebollizione]"
 
 #: plant_standard.txt:791
 msgctxt "PLANT:VINE_WHIP"
@@ -53002,12 +53037,12 @@ msgstr ""
 #: plant_standard.txt:2275
 msgctxt "PLANT:MANGO"
 msgid "[STATE_NAME_ADJ:ALL_SOLID:frozen mango wine]"
-msgstr ""
+msgstr "[STATE_NAME_ADJ:ALL_SOLID:vino di mango ghiacciato]"
 
 #: plant_standard.txt:2276
 msgctxt "PLANT:MANGO"
 msgid "[STATE_NAME_ADJ:LIQUID:mango wine]"
-msgstr ""
+msgstr "[STATE_NAME_ADJ:LIQUID:vino di mango]"
 
 #: plant_standard.txt:2277
 msgctxt "PLANT:MANGO"
@@ -54738,7 +54773,7 @@ msgstr ""
 #: reaction_other.txt:562
 msgctxt "REACTION:MAKE WOODEN DISPLAY CASE"
 msgid "[REAGENT:window:]"
-msgstr ""
+msgstr "[REAGENT:finestra:]"
 
 #: reaction_other.txt:563
 msgctxt "REACTION:MAKE WOODEN DISPLAY CASE"
