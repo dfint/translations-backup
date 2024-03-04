@@ -5442,22 +5442,22 @@ msgstr "[CV_NEW_TAG:GAIT:WALK:Cammino lentissimo:]"
 #: c_variation_default.txt:655
 msgctxt "CREATURE_VARIATION:STANDARD_CLIMBING_GAITS"
 msgid "[CV_NEW_TAG:GAIT:CLIMB:Scramble:]"
-msgstr ""
+msgstr "[CV_NEW_TAG:GAIT:CLIMB:Inerpicarsi:]"
 
 #: c_variation_default.txt:656
 msgctxt "CREATURE_VARIATION:STANDARD_CLIMBING_GAITS"
 msgid "[CV_NEW_TAG:GAIT:CLIMB:Faster Climb:]"
-msgstr ""
+msgstr "[CV_NEW_TAG:GAIT:CLIMB:Arrampicata più veloce:]"
 
 #: c_variation_default.txt:657
 msgctxt "CREATURE_VARIATION:STANDARD_CLIMBING_GAITS"
 msgid "[CV_NEW_TAG:GAIT:CLIMB:Fast Climb:]"
-msgstr ""
+msgstr "[CV_NEW_TAG:GAIT:CLIMB:Arrampicata veloce:]"
 
 #: c_variation_default.txt:658
 msgctxt "CREATURE_VARIATION:STANDARD_CLIMBING_GAITS"
 msgid "[CV_NEW_TAG:GAIT:CLIMB:Climb:]"
-msgstr ""
+msgstr "[CV_NEW_TAG:GAIT:CLIMB:Arrampicata:]"
 
 #: c_variation_default.txt:659
 msgctxt "CREATURE_VARIATION:STANDARD_CLIMBING_GAITS"
@@ -5467,7 +5467,7 @@ msgstr "[CV_NEW_TAG:GAIT:CLIMB:Arrampicata lenta:]"
 #: c_variation_default.txt:660
 msgctxt "CREATURE_VARIATION:STANDARD_CLIMBING_GAITS"
 msgid "[CV_NEW_TAG:GAIT:CLIMB:Creep:]"
-msgstr ""
+msgstr "[CV_NEW_TAG:GAIT:CLIMB:Strisciata:]"
 
 #: c_variation_default.txt:663
 msgctxt "CREATURE_VARIATION:STANDARD_SWIMMING_GAITS"
@@ -17858,6 +17858,9 @@ msgid ""
 "nocturnal and found in temperate forests.  It is a curious animal and has "
 "been known to steal from civilized areas.]"
 msgstr ""
+"[DESCRIPTION:Un piccolo animale onnivoro con una brillante maschera di pelo."
+"  È notturno e si trova nelle foreste temperate.  È un animale curioso ed è "
+"noto per rubare nelle aree civilizzate.]"
 
 #: creature_large_temperate.txt:626
 msgctxt "CREATURE:RACCOON"
@@ -19645,6 +19648,9 @@ msgid ""
 "groups of females and one male with a large mane.  They hunt together and "
 "are capable of felling extremely large prey.]"
 msgstr ""
+"[DESCRIPTION:Un grande predatore feroce trovato nelle praterie.  Vive in "
+"gruppi composti da femmine e un maschio con una grande criniera.  Cacciano "
+"in gruppo e sono capaci di abbattere prede estremamente grandi.]"
 
 #: creature_large_tropical.txt:337
 msgctxt "CREATURE:LION"
@@ -20430,12 +20436,12 @@ msgstr ""
 #: creature_large_tropical.txt:1561
 msgctxt "CREATURE:GORILLA"
 msgid "[NAME:gorilla:gorillas:gorilla]"
-msgstr ""
+msgstr "[NAME:gorilla:gorilla:gorilla]"
 
 #: creature_large_tropical.txt:1562
 msgctxt "CREATURE:GORILLA"
 msgid "[CASTE_NAME:gorilla:gorillas:gorilla]"
-msgstr ""
+msgstr "[CASTE_NAME:gorilla:gorilla:gorilla]"
 
 #: creature_large_tropical.txt:1578
 msgctxt "CREATURE:GORILLA"
@@ -20477,12 +20483,12 @@ msgstr ""
 #: creature_large_tropical.txt:1655
 msgctxt "CREATURE:ORANGUTAN"
 msgid "[NAME:orangutan:orangutans:orangutan]"
-msgstr ""
+msgstr "[NAME:orango:oranghi:orango]"
 
 #: creature_large_tropical.txt:1656
 msgctxt "CREATURE:ORANGUTAN"
 msgid "[CASTE_NAME:orangutan:orangutans:orangutan]"
-msgstr ""
+msgstr "[CASTE_NAME:orango:oranghi:orango]"
 
 #: creature_large_tropical.txt:1667
 msgctxt "CREATURE:ORANGUTAN"
@@ -20530,21 +20536,23 @@ msgid ""
 "[DESCRIPTION:A medium-sized ape found in the trees.  It is known for its "
 "loud calls.]"
 msgstr ""
+"[DESCRIPTION:Scimmia di medie dimensioni che vive sugli alberi.  È nota per "
+"i suoi forti richiami.]"
 
 #: creature_large_tropical.txt:1746
 msgctxt "CREATURE:GIBBON_SIAMANG"
 msgid "[NAME:siamang:siamangs:siamang]"
-msgstr ""
+msgstr "[NAME:siamango:siamanghi:siamango]"
 
 #: creature_large_tropical.txt:1747
 msgctxt "CREATURE:GIBBON_SIAMANG"
 msgid "[CASTE_NAME:siamang:siamangs:siamang]"
-msgstr ""
+msgstr "[CASTE_NAME:siamango:siamanghi:siamango]"
 
 #: creature_large_tropical.txt:1759
 msgctxt "CREATURE:GIBBON_SIAMANG"
 msgid "[PREFSTRING:loud calls]"
-msgstr ""
+msgstr "[PREFSTRING:forti richiami]"
 
 #: creature_large_tropical.txt:1760
 msgctxt "CREATURE:GIBBON_SIAMANG"
@@ -20581,17 +20589,23 @@ msgctxt "CREATURE:GIBBON_WHITE_HANDED"
 msgid ""
 "[DESCRIPTION:A small, long-armed ape.  It lives in trees and eats fruit.]"
 msgstr ""
+"[DESCRIPTION:Una scimmia piccola e dalle braccia lunghe.  Vive sugli alberi "
+"e si nutre di frutta.]"
 
 #: creature_large_tropical.txt:1837
 msgctxt "CREATURE:GIBBON_WHITE_HANDED"
 msgid "[NAME:white-handed gibbon:white-handed gibbons:white-handed gibbon]"
 msgstr ""
+"[NAME:gibbone dalle mani bianche:gibboni dalle mani bianche:gibbone dalle "
+"mani bianche]"
 
 #: creature_large_tropical.txt:1838
 msgctxt "CREATURE:GIBBON_WHITE_HANDED"
 msgid ""
 "[CASTE_NAME:white-handed gibbon:white-handed gibbons:white-handed gibbon]"
 msgstr ""
+"[CASTE_NAME:gibbone dalle mani bianche:gibboni dalle mani bianche:gibbone "
+"dalle mani bianche]"
 
 #: creature_large_tropical.txt:1850
 msgctxt "CREATURE:GIBBON_WHITE_HANDED"
@@ -20685,16 +20699,18 @@ msgid ""
 "[DESCRIPTION:A small ape found in the trees of the tropical forest.  It is "
 "known for its calls.]"
 msgstr ""
+"[DESCRIPTION:Una piccola scimmia che vive tra gli alberi della foresta "
+"tropicale.  È nota per i suoi richiami.]"
 
 #: creature_large_tropical.txt:2021
 msgctxt "CREATURE:GIBBON_GRAY"
 msgid "[NAME:gray gibbon:gray gibbons:gray gibbon]"
-msgstr ""
+msgstr "[NAME:gibbone grigio:gibboni grigi:gibbone grigio]"
 
 #: creature_large_tropical.txt:2022
 msgctxt "CREATURE:GIBBON_GRAY"
 msgid "[CASTE_NAME:gray gibbon:gray gibbons:gray gibbon]"
-msgstr ""
+msgstr "[CASTE_NAME:gibbone grigio:gibboni grigi:gibbone grigio]"
 
 #: creature_large_tropical.txt:2034
 msgctxt "CREATURE:GIBBON_GRAY"
@@ -20735,16 +20751,18 @@ msgstr "[TLCM_NOUN:occhi:PLURAL]"
 msgctxt "CREATURE:GIBBON_SILVERY"
 msgid "[DESCRIPTION:A small ape found in the trees eating fruit.]"
 msgstr ""
+"[DESCRIPTION:Una piccola scimmia che si trova sugli alberi a mangiare "
+"frutta.]"
 
 #: creature_large_tropical.txt:2112
 msgctxt "CREATURE:GIBBON_SILVERY"
 msgid "[NAME:silvery gibbon:silvery gibbons:silvery gibbon]"
-msgstr ""
+msgstr "[NAME:gibbone cenerino:gibboni cenerini:gibbone cenerino]"
 
 #: creature_large_tropical.txt:2113
 msgctxt "CREATURE:GIBBON_SILVERY"
 msgid "[CASTE_NAME:silvery gibbon:silvery gibbons:silvery gibbon]"
-msgstr ""
+msgstr "[CASTE_NAME:gibbone cenerino:gibboni cenerini:gibbone cenerino]"
 
 #: creature_large_tropical.txt:2125
 msgctxt "CREATURE:GIBBON_SILVERY"
@@ -20785,21 +20803,24 @@ msgstr "[TLCM_NOUN:occhi:PLURAL]"
 msgctxt "CREATURE:GIBBON_PILEATED"
 msgid "[DESCRIPTION:A small ape found in pairs, swinging from the trees.]"
 msgstr ""
+"[DESCRIPTION:Una piccola scimmia che vive in coppia, capace di dondolare tra"
+" gli alberi.]"
 
 #: creature_large_tropical.txt:2203
 msgctxt "CREATURE:GIBBON_PILEATED"
 msgid "[NAME:pileated gibbon:pileated gibbons:pileated gibbon]"
-msgstr ""
+msgstr "[NAME:gibbone dal berretto:gibboni dal berretto:gibbone dal berretto]"
 
 #: creature_large_tropical.txt:2204
 msgctxt "CREATURE:GIBBON_PILEATED"
 msgid "[CASTE_NAME:pileated gibbon:pileated gibbons:pileated gibbon]"
 msgstr ""
+"[CASTE_NAME:gibbone dal berretto:gibboni dal berretto:gibbone dal berretto]"
 
 #: creature_large_tropical.txt:2216
 msgctxt "CREATURE:GIBBON_PILEATED"
 msgid "[PREFSTRING:white head rings]"
-msgstr ""
+msgstr "[PREFSTRING:collare bianco sulla testa]"
 
 #: creature_large_tropical.txt:2217
 msgctxt "CREATURE:GIBBON_PILEATED"
@@ -20839,17 +20860,17 @@ msgstr ""
 #: creature_large_tropical.txt:2297
 msgctxt "CREATURE:GIBBON_BILOU"
 msgid "[NAME:bilou:bilous:bilou]"
-msgstr ""
+msgstr "[NAME:bilou:bilou:bilou]"
 
 #: creature_large_tropical.txt:2298
 msgctxt "CREATURE:GIBBON_BILOU"
 msgid "[CASTE_NAME:bilou:bilous:bilou]"
-msgstr ""
+msgstr "[CASTE_NAME:bilou:bilou:bilou]"
 
 #: creature_large_tropical.txt:2310
 msgctxt "CREATURE:GIBBON_BILOU"
 msgid "[PREFSTRING:beautiful songs]"
-msgstr ""
+msgstr "[PREFSTRING:canti magnifici]"
 
 #: creature_large_tropical.txt:2311
 msgctxt "CREATURE:GIBBON_BILOU"
@@ -20885,17 +20906,19 @@ msgstr "[TLCM_NOUN:occhi:PLURAL]"
 msgctxt "CREATURE:GIBBON_WHITE_BROWED"
 msgid "[DESCRIPTION:A small fruit-eating ape, found in the trees.]"
 msgstr ""
+"[DESCRIPTION:Una piccola scimmia mangiatrice di frutta, che vive sugli "
+"alberi.]"
 
 #: creature_large_tropical.txt:2388
 msgctxt "CREATURE:GIBBON_WHITE_BROWED"
 msgid "[NAME:white-browed gibbon:white-browed gibbons:white-browed gibbon]"
-msgstr ""
+msgstr "[NAME:ulok:ulok:ulok]"
 
 #: creature_large_tropical.txt:2389
 msgctxt "CREATURE:GIBBON_WHITE_BROWED"
 msgid ""
 "[CASTE_NAME:white-browed gibbon:white-browed gibbons:white-browed gibbon]"
-msgstr ""
+msgstr "[CASTE_NAME:ulok:ulok:ulok]"
 
 #: creature_large_tropical.txt:2401
 msgctxt "CREATURE:GIBBON_WHITE_BROWED"
@@ -20938,17 +20961,19 @@ msgid ""
 "[DESCRIPTION:A small ape from the tropical forest.  It can be found in the "
 "trees eating fruit.]"
 msgstr ""
+"[DESCRIPTION:Una piccola scimmia della foresta tropicale.  Può essere "
+"trovata sugli alberi a mangiare frutta.]"
 
 #: creature_large_tropical.txt:2479
 msgctxt "CREATURE:GIBBON_BLACK_CRESTED"
 msgid "[NAME:black-crested gibbon:black-crested gibbons:black-crested gibbon]"
-msgstr ""
+msgstr "[NAME:gibbone dal ciuffo:gibboni dal ciuffo:gibbone dal ciuffo]"
 
 #: creature_large_tropical.txt:2480
 msgctxt "CREATURE:GIBBON_BLACK_CRESTED"
 msgid ""
 "[CASTE_NAME:black-crested gibbon:black-crested gibbons:black-crested gibbon]"
-msgstr ""
+msgstr "[CASTE_NAME:gibbone dal ciuffo:gibboni dal ciuffo:gibbone dal ciuffo]"
 
 #: creature_large_tropical.txt:2492
 msgctxt "CREATURE:GIBBON_BLACK_CRESTED"
@@ -21182,7 +21207,7 @@ msgstr ""
 #: creature_large_tropical.txt:2754
 msgctxt "CREATURE:GIANT_CAMEL_1_HUMP"
 msgid "[PREFSTRING:hump]"
-msgstr "[PREFSTRING:hump]"
+msgstr "[PREFSTRING:gobba]"
 
 #: creature_large_tropical.txt:2760
 msgctxt "CREATURE:CAMEL_2_HUMP"
@@ -21378,7 +21403,7 @@ msgstr "[DESCRIPTION:Un enorme mostro sotto forma di cammello.]"
 #: creature_large_tropical.txt:2945
 msgctxt "CREATURE:GIANT_CAMEL_2_HUMP"
 msgid "[PREFSTRING:hump]"
-msgstr "[PREFSTRING:hump]"
+msgstr "[PREFSTRING:gobba]"
 
 #: creature_large_tropical.txt:2951
 msgctxt "CREATURE:CROCODILE_SALTWATER"
@@ -21387,6 +21412,9 @@ msgid ""
 "deltas.  It ambushes its prey at the shore and uses its great size to drag "
 "the victim under and drown them.]"
 msgstr ""
+"[DESCRIPTION:Un enorme rettile predatore trovato nelle paludi costiere e nei"
+" delta dei fiumi.  Si apposta sulla riva e usa la sua grande stazza per "
+"trascinare la vittima sott'acqua e annegarla.]"
 
 #: creature_large_tropical.txt:2952
 msgctxt "CREATURE:CROCODILE_SALTWATER"
@@ -21601,17 +21629,17 @@ msgstr ""
 #: creature_large_tropical.txt:3268
 msgctxt "CREATURE:RHINOCEROS"
 msgid "[NAME:rhinoceros:rhinoceroses:rhinoceros]"
-msgstr ""
+msgstr "[NAME:rinoceronte:rinoceronti:rinoceronti]"
 
 #: creature_large_tropical.txt:3269
 msgctxt "CREATURE:RHINOCEROS"
 msgid "[CASTE_NAME:rhinoceros:rhinoceroses:rhinoceros]"
-msgstr ""
+msgstr "[CASTE_NAME:rinoceronte:rinoceronti:rinoceronti]"
 
 #: creature_large_tropical.txt:3270
 msgctxt "CREATURE:RHINOCEROS"
 msgid "[GENERAL_CHILD_NAME:rhinoceros calf:rhinoceros calves]"
-msgstr ""
+msgstr "[GENERAL_CHILD_NAME:vitello di rinoceronte:vitelli di rinoceronte]"
 
 #: creature_large_tropical.txt:3286
 msgctxt "CREATURE:RHINOCEROS"
@@ -21641,12 +21669,12 @@ msgstr "[TLCM_NOUN:occhi:PLURAL]"
 #: creature_large_tropical.txt:3358
 msgctxt "CREATURE:RHINOCEROS_MAN"
 msgid "[CASTE_NAME:rhinoceros man:rhinoceros men:rhinoceros man]"
-msgstr ""
+msgstr "[CASTE_NAME:uomo rinoceronte:uomini rinoceronte:uomo rinoceronte]"
 
 #: creature_large_tropical.txt:3360
 msgctxt "CREATURE:RHINOCEROS_MAN"
 msgid "[CASTE_NAME:rhinoceros woman:rhinoceros women:rhinoceros woman]"
-msgstr ""
+msgstr "[CASTE_NAME:donna rinoceronte:donne rinoceronte:donna rinoceronte]"
 
 #: creature_large_tropical.txt:3368
 msgctxt "CREATURE:RHINOCEROS_MAN"
@@ -21656,7 +21684,7 @@ msgstr "[ATTACK_VERB:incorni:incorna]"
 #: creature_large_tropical.txt:3378
 msgctxt "CREATURE:RHINOCEROS_MAN"
 msgid "[NAME:rhinoceros man:rhinoceros men:rhinoceros man]"
-msgstr ""
+msgstr "[NAME:uomo rinoceronte:uomini rinoceronte:uomo rinoceronte]"
 
 #: creature_large_tropical.txt:3379
 msgctxt "CREATURE:RHINOCEROS_MAN"
@@ -21666,17 +21694,20 @@ msgstr ""
 #: creature_large_tropical.txt:3399
 msgctxt "CREATURE:GIANT_RHINOCEROS"
 msgid "[NAME:giant rhinoceros:giant rhinoceroses:giant rhinoceros]"
-msgstr ""
+msgstr "[NAME:rinoceronte gigante:rinoceronti giganti:rinoceronte gigante]"
 
 #: creature_large_tropical.txt:3400
 msgctxt "CREATURE:GIANT_RHINOCEROS"
 msgid "[CASTE_NAME:giant rhinoceros:giant rhinoceroses:giant rhinoceros]"
 msgstr ""
+"[CASTE_NAME:rinoceronte gigante:rinoceronti giganti:rinoceronte gigante]"
 
 #: creature_large_tropical.txt:3401
 msgctxt "CREATURE:GIANT_RHINOCEROS"
 msgid "[GENERAL_CHILD_NAME:giant rhinoceros calf:giant rhinoceros calves]"
 msgstr ""
+"[GENERAL_CHILD_NAME:vitello di rinoceronte gigante:vitelli di rinoceronte "
+"gigante]"
 
 #: creature_large_tropical.txt:3402
 msgctxt "CREATURE:GIANT_RHINOCEROS"
@@ -21694,21 +21725,24 @@ msgid ""
 "[DESCRIPTION:A huge leaf-eating mammal.  It has an extremely long neck.  Its"
 " skin has a distinctive brown and white pattern.]"
 msgstr ""
+"[DESCRIPTION:Un enorme mammifero mangiatore di foglie.  Ha un collo "
+"estremamente lungo.  La sua pelle ha un caratteristico motivo marrone e "
+"bianco.]"
 
 #: creature_large_tropical.txt:3418
 msgctxt "CREATURE:GIRAFFE"
 msgid "[NAME:giraffe:giraffes:giraffe]"
-msgstr ""
+msgstr "[NAME:giraffa:giraffe:giraffa]"
 
 #: creature_large_tropical.txt:3419
 msgctxt "CREATURE:GIRAFFE"
 msgid "[CASTE_NAME:giraffe:giraffes:giraffe]"
-msgstr ""
+msgstr "[CASTE_NAME:giraffa:giraffe:giraffa]"
 
 #: creature_large_tropical.txt:3420
 msgctxt "CREATURE:GIRAFFE"
 msgid "[GENERAL_CHILD_NAME:giraffe calf:giraffe calves]"
-msgstr ""
+msgstr "[GENERAL_CHILD_NAME:vitello di giraffa:vitelli di giraffa]"
 
 #: creature_large_tropical.txt:3434
 msgctxt "CREATURE:GIRAFFE"
@@ -21738,47 +21772,48 @@ msgstr "[TLCM_NOUN:occhi:PLURAL]"
 #: creature_large_tropical.txt:3504
 msgctxt "CREATURE:GIRAFFE_MAN"
 msgid "[CASTE_NAME:giraffe man:giraffe men:giraffe man]"
-msgstr ""
+msgstr "[CASTE_NAME:uomo giraffa:uomini giraffa:uomo giraffa]"
 
 #: creature_large_tropical.txt:3506
 msgctxt "CREATURE:GIRAFFE_MAN"
 msgid "[CASTE_NAME:giraffe woman:giraffe women:giraffe woman]"
-msgstr ""
+msgstr "[CASTE_NAME:donna giraffa:donne giraffa:donna giraffa]"
 
 #: creature_large_tropical.txt:3516
 msgctxt "CREATURE:GIRAFFE_MAN"
 msgid "[NAME:giraffe man:giraffe men:giraffe man]"
-msgstr ""
+msgstr "[NAME:uomo giraffa:uomini giraffa:uomo giraffa]"
 
 #: creature_large_tropical.txt:3517
 msgctxt "CREATURE:GIRAFFE_MAN"
 msgid "[DESCRIPTION:A person with the head and neck of a giraffe.]"
-msgstr ""
+msgstr "[DESCRIPTION:Una persona con testa e collo da giraffa.]"
 
 #: creature_large_tropical.txt:3537
 msgctxt "CREATURE:GIANT_GIRAFFE"
 msgid "[NAME:giant giraffe:giant giraffes:giant giraffe]"
-msgstr ""
+msgstr "[NAME:giraffa gigante:giraffe giganti:giraffa gigante]"
 
 #: creature_large_tropical.txt:3538
 msgctxt "CREATURE:GIANT_GIRAFFE"
 msgid "[CASTE_NAME:giant giraffe:giant giraffes:giant giraffe]"
-msgstr ""
+msgstr "[CASTE_NAME:giraffa gigante:giraffe giganti:giraffa gigante]"
 
 #: creature_large_tropical.txt:3539
 msgctxt "CREATURE:GIANT_GIRAFFE"
 msgid "[GENERAL_CHILD_NAME:giant giraffe calf:giant giraffe calves]"
 msgstr ""
+"[GENERAL_CHILD_NAME:vitello di giraffa gigante:vitelli di giraffa gigante]"
 
 #: creature_large_tropical.txt:3540
 msgctxt "CREATURE:GIANT_GIRAFFE"
 msgid "[DESCRIPTION:A huge monster the shape of a giraffe.]"
-msgstr ""
+msgstr "[DESCRIPTION:Un enorme mostro sotto forma di giraffa.]"
 
 #: creature_large_tropical.txt:3549
 msgctxt "CREATURE:GIANT_GIRAFFE"
 msgid "[PREFSTRING:hump]"
-msgstr "[PREFSTRING:hump]"
+msgstr "[PREFSTRING:gobba]"
 
 #: creature_large_tropical.txt:3554
 msgctxt "CREATURE:HONEY BADGER"
@@ -23236,6 +23271,9 @@ msgid ""
 "mouths on the ends of a pair of tentacles.  It uses its mouths to digest its"
 " victims with acid and rows of razor-like teeth.]"
 msgstr ""
+"[DESCRIPTION:Un mostro di medie dimensioni che cammina su due zampe "
+"artigliate.  Ha due bocche alle estremità di un paio di tentacoli.  Usa le "
+"bocche per digerire le vittime con acido e file di denti simili a rasoi.]"
 
 #: creature_next_underground.txt:973
 msgctxt "CREATURE:GREEN_DEVOURER"
@@ -23318,7 +23356,7 @@ msgid ""
 msgstr ""
 "[DESCRIPTION:Una minuscola creatura sotterranea costituita da una massa di "
 "appendici simili a dita umane.  Striscia sul terreno come una stella marina "
-"e si nutre con una bocca situata nella parte inferiore del corpo.]"
+"e si nutre con la bocca situata nella parte inferiore del corpo.]"
 
 #: creature_next_underground.txt:1131
 msgctxt "CREATURE:CREEPY_CRAWLER"
@@ -23778,6 +23816,10 @@ msgid ""
 "by the underground.  Its wings fall limp at its side.  Its face is full of "
 "incredibly long teeth.  Its eyes are large to penetrate the darkness.]"
 msgstr ""
+"[DESCRIPTION:Un mostro gigantesco, un tempo un drago, ora adattato e "
+"corrotto dal sottosuolo.  Le sue ali cadono molli ai suoi lati.  Ha il volto"
+" pieno di denti incredibilmente lunghi.  I suoi occhi sono grandi per "
+"penetrare l'oscurità.]"
 
 #: creature_next_underground.txt:1909
 msgctxt "CREATURE:CAVE_DRAGON"
@@ -23826,6 +23868,10 @@ msgid ""
 "death, usually near water, until a victim passes by.  It then uses its long "
 "arms to drag its prey into the water to drown or strangle them.]"
 msgstr ""
+"[DESCRIPTION:Un mostro umanoide che sta in agguato molto in profondità sotto"
+" terra.  Si finge morto, di solito vicino all'acqua, fino a quando passa una"
+" vittima.  Dopodiché usa le sue lunghe braccia per trascinare la preda, "
+"annegarla o strangolarla.]"
 
 #: creature_next_underground.txt:2018
 msgctxt "CREATURE:REACHER"
@@ -25600,7 +25646,7 @@ msgstr "[GAIT:CRAWL:Striscia:]"
 #: creature_other.txt:290
 msgctxt "CREATURE:WAMBLER_FLUFFY"
 msgid "[GAIT:CLIMB:Climb:]"
-msgstr ""
+msgstr "[GAIT:CLIMB:Arrampicati:]"
 
 #: creature_other.txt:306
 msgctxt "CREATURE:WAMBLER_FLUFFY"
@@ -25722,7 +25768,7 @@ msgstr ""
 #: creature_other.txt:455
 msgctxt "CREATURE:SPIDER_PHANTOM"
 msgid "[PREFSTRING:creepiness]"
-msgstr ""
+msgstr "[PREFSTRING:inquietudine]"
 
 #: creature_other.txt:468
 msgctxt "CREATURE:SPIDER_PHANTOM"
@@ -26099,6 +26145,9 @@ msgid ""
 "[DESCRIPTION:A small lizard with adhesive feet for climbing.  It can change "
 "color from brown to green to fit its surroundings.]"
 msgstr ""
+"[DESCRIPTION:Una piccola lucertola con zampe appiccicose per arrampicarsi.  "
+"Può variare colore dal marrone al verde per adattarsi all'ambiente "
+"circostante.]"
 
 #: creature_reptiles.txt:411
 msgctxt "CREATURE:ANOLE"
@@ -34918,6 +34967,8 @@ msgid ""
 "[DESCRIPTION:A small rodent covered with sharp quills.  They eat grass and "
 "leaves and can even climb trees.]"
 msgstr ""
+"[DESCRIPTION:Un piccolo roditore ricoperto di aculei affilati.  Si nutrono "
+"di erba e foglie e possono anche arrampicarsi sugli alberi.]"
 
 #: creature_temperate_new.txt:1047
 msgctxt "CREATURE:PORCUPINE"
@@ -45354,27 +45405,27 @@ msgstr ""
 #: plant_crops.txt:1015
 msgctxt "PLANT:PEARL_MILLET"
 msgid "[NAME:pearl millet plant]"
-msgstr ""
+msgstr "[NAME:pianta di miglio perlato]"
 
 #: plant_crops.txt:1015
 msgctxt "PLANT:PEARL_MILLET"
 msgid "[NAME_PLURAL:pearl millet plants]"
-msgstr ""
+msgstr "[NAME_PLURAL:piante di miglio perlato]"
 
 #: plant_crops.txt:1015
 msgctxt "PLANT:PEARL_MILLET"
 msgid "[ADJ:pearl millet plant]"
-msgstr ""
+msgstr "[ADJ:pianta di miglio perlato]"
 
 #: plant_crops.txt:1023
 msgctxt "PLANT:PEARL_MILLET"
 msgid "[STATE_NAME_ADJ:ALL_SOLID:frozen pearl millet beer]"
-msgstr ""
+msgstr "[STATE_NAME_ADJ:ALL_SOLID:birra di miglio perlato ghiacciata]"
 
 #: plant_crops.txt:1024
 msgctxt "PLANT:PEARL_MILLET"
 msgid "[STATE_NAME_ADJ:LIQUID:pearl millet beer]"
-msgstr ""
+msgstr "[STATE_NAME_ADJ:LIQUID:birra di miglio perlato]"
 
 #: plant_crops.txt:1025
 msgctxt "PLANT:PEARL_MILLET"
@@ -45384,12 +45435,12 @@ msgstr "[STATE_NAME_ADJ:GAS:birra di miglio perlato in ebollizione]"
 #: plant_crops.txt:1034
 msgctxt "PLANT:PEARL_MILLET"
 msgid "[STATE_NAME_ADJ:ALL_SOLID:pearl millet flour]"
-msgstr ""
+msgstr "[STATE_NAME_ADJ:ALL_SOLID:farina di miglio perlato]"
 
 #: plant_crops.txt:1050
 msgctxt "PLANT:PEARL_MILLET"
 msgid "[SEED:pearl millet:pearl millet:]"
-msgstr ""
+msgstr "[SEED:miglio perlato:miglio perlato:]"
 
 #: plant_crops.txt:1053
 msgctxt "PLANT:PEARL_MILLET"
@@ -45399,22 +45450,22 @@ msgstr "[PREFSTRING:cereale]"
 #: plant_crops.txt:1055
 msgctxt "PLANT:PEARL_MILLET"
 msgid "[GROWTH_NAME:pearl millet leaf:pearl millet leaves]"
-msgstr ""
+msgstr "[GROWTH_NAME:foglia di miglio perlato:foglia di miglio perlato]"
 
 #: plant_crops.txt:1061
 msgctxt "PLANT:WHITE_MILLET"
 msgid "[NAME:white millet plant]"
-msgstr ""
+msgstr "[NAME:pianta di coda di volpe]"
 
 #: plant_crops.txt:1061
 msgctxt "PLANT:WHITE_MILLET"
 msgid "[NAME_PLURAL:white millet plants]"
-msgstr ""
+msgstr "[NAME_PLURAL:piante di coda di volpe]"
 
 #: plant_crops.txt:1061
 msgctxt "PLANT:WHITE_MILLET"
 msgid "[ADJ:white millet plant]"
-msgstr ""
+msgstr "[ADJ:pianta di coda di volpe]"
 
 #: plant_crops.txt:1069
 msgctxt "PLANT:WHITE_MILLET"
@@ -45454,17 +45505,17 @@ msgstr ""
 #: plant_crops.txt:1107
 msgctxt "PLANT:FINGER_MILLET"
 msgid "[NAME:finger millet plant]"
-msgstr ""
+msgstr "[NAME:pianta di eleusine]"
 
 #: plant_crops.txt:1107
 msgctxt "PLANT:FINGER_MILLET"
 msgid "[NAME_PLURAL:finger millet plants]"
-msgstr ""
+msgstr "[NAME_PLURAL:piante di eleusine]"
 
 #: plant_crops.txt:1107
 msgctxt "PLANT:FINGER_MILLET"
 msgid "[ADJ:finger millet plant]"
-msgstr ""
+msgstr "[ADJ:pianta di eleusine]"
 
 #: plant_crops.txt:1115
 msgctxt "PLANT:FINGER_MILLET"
@@ -46839,12 +46890,12 @@ msgstr "[NAME:melanzana]"
 #: plant_garden.txt:726
 msgctxt "PLANT:EGGPLANT"
 msgid "[NAME_PLURAL:eggplants]"
-msgstr ""
+msgstr "[NAME_PLURAL:melanzane]"
 
 #: plant_garden.txt:726
 msgctxt "PLANT:EGGPLANT"
 msgid "[ADJ:eggplant]"
-msgstr ""
+msgstr "[ADJ:melanzana]"
 
 #: plant_garden.txt:750
 msgctxt "PLANT:EGGPLANT"
@@ -46869,7 +46920,7 @@ msgstr "[GROWTH_NAME:fiore di melanzana:STP]"
 #: plant_garden.txt:766
 msgctxt "PLANT:EGGPLANT"
 msgid "[GROWTH_NAME:eggplant:STP]"
-msgstr ""
+msgstr "[GROWTH_NAME:melanzana:STP]"
 
 #: plant_garden.txt:775
 msgctxt "PLANT:GARDEN_CRESS"
@@ -51829,7 +51880,7 @@ msgstr ""
 #: plant_standard.txt:402
 msgctxt "PLANT:BERRIES_STRAW"
 msgid "[ADJ:strawberry plant]"
-msgstr ""
+msgstr "[ADJ:pianta di fragola]"
 
 #: plant_standard.txt:420
 msgctxt "PLANT:BERRIES_STRAW"
@@ -54635,7 +54686,7 @@ msgstr "[PRODUCT:100:1:CRAFTS:NONE:GET_MATERIAL_FROM_REAGENT:cera:]"
 #: reaction_other.txt:266
 msgctxt "REACTION:BREW_DRINK_FROM_PLANT"
 msgid "[NAME:brew drink from plant]"
-msgstr ""
+msgstr "[NAME:prepara bevanda da pianta]"
 
 #: reaction_other.txt:268
 msgctxt "REACTION:BREW_DRINK_FROM_PLANT"
@@ -54862,7 +54913,7 @@ msgstr ""
 #: reaction_other.txt:390
 msgctxt "REACTION:MAKE_SHEET_FROM_PLANT"
 msgid "[NAME:make sheet from plant]"
-msgstr ""
+msgstr "[NAME:crea foglio dalla pianta]"
 
 #: reaction_other.txt:392
 msgctxt "REACTION:MAKE_SHEET_FROM_PLANT"
