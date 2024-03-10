@@ -5155,7 +5155,7 @@ msgstr "[TISSUE_NAME:tessuto epatico:NP]"
 #: tissue_template_default.txt:292
 msgctxt "TISSUE_TEMPLATE:GUT_TEMPLATE"
 msgid "[TISSUE_NAME:gut:NP]"
-msgstr "[TISSUE_NAME:budello:NP]"
+msgstr "[TISSUE_NAME:budella:NP]"
 
 #: tissue_template_default.txt:305
 msgctxt "TISSUE_TEMPLATE:STOMACH_TEMPLATE"
@@ -5211,6 +5211,8 @@ msgstr "[NAME:Bottega del saponaio]"
 msgctxt "BUILDING_WORKSHOP:SOAP_MAKER"
 msgid "[TOOLTIP:Use tallow (rendered fat) or oil here with lye to make soap.]"
 msgstr ""
+"[TOOLTIP:Usa qui il sego (grasso fuso) o l'olio con la liscivia per fare il "
+"sapone.]"
 
 #: building_custom.txt:44
 msgctxt "BUILDING_WORKSHOP:SCREW_PRESS"
@@ -5417,7 +5419,7 @@ msgstr "[CV_NEW_TAG:GAIT:WALK:Cammino velocissimo:]"
 #: c_variation_default.txt:648
 msgctxt "CREATURE_VARIATION:STANDARD_WALKING_GAITS"
 msgid "[CV_NEW_TAG:GAIT:WALK:Faster Walk:]"
-msgstr "[CV_NEW_TAG:GAIT:WALK:Cammino più veloce:]"
+msgstr "[CV_NEW_TAG:GAIT:WALK:Camminata rapida:]"
 
 #: c_variation_default.txt:649
 msgctxt "CREATURE_VARIATION:STANDARD_WALKING_GAITS"
@@ -5447,7 +5449,7 @@ msgstr "[CV_NEW_TAG:GAIT:CLIMB:Inerpicarsi:]"
 #: c_variation_default.txt:656
 msgctxt "CREATURE_VARIATION:STANDARD_CLIMBING_GAITS"
 msgid "[CV_NEW_TAG:GAIT:CLIMB:Faster Climb:]"
-msgstr "[CV_NEW_TAG:GAIT:CLIMB:Arrampicata più veloce:]"
+msgstr "[CV_NEW_TAG:GAIT:CLIMB:Arrampicata rapida:]"
 
 #: c_variation_default.txt:657
 msgctxt "CREATURE_VARIATION:STANDARD_CLIMBING_GAITS"
@@ -5472,22 +5474,22 @@ msgstr "[CV_NEW_TAG:GAIT:CLIMB:Strisciata:]"
 #: c_variation_default.txt:663
 msgctxt "CREATURE_VARIATION:STANDARD_SWIMMING_GAITS"
 msgid "[CV_NEW_TAG:GAIT:SWIM:Maximum Swim Speed:]"
-msgstr ""
+msgstr "[CV_NEW_TAG:GAIT:SWIM:Velocità massima di nuoto:]"
 
 #: c_variation_default.txt:664
 msgctxt "CREATURE_VARIATION:STANDARD_SWIMMING_GAITS"
 msgid "[CV_NEW_TAG:GAIT:SWIM:Faster Swim:]"
-msgstr ""
+msgstr "[CV_NEW_TAG:GAIT:SWIM:Nuotata rapida:]"
 
 #: c_variation_default.txt:665
 msgctxt "CREATURE_VARIATION:STANDARD_SWIMMING_GAITS"
 msgid "[CV_NEW_TAG:GAIT:SWIM:Fast Swim:]"
-msgstr ""
+msgstr "[CV_NEW_TAG:GAIT:SWIM:Nuotata veloce:]"
 
 #: c_variation_default.txt:666
 msgctxt "CREATURE_VARIATION:STANDARD_SWIMMING_GAITS"
 msgid "[CV_NEW_TAG:GAIT:SWIM:Swim:]"
-msgstr ""
+msgstr "[CV_NEW_TAG:GAIT:SWIM:Nuotata:]"
 
 #: c_variation_default.txt:667
 msgctxt "CREATURE_VARIATION:STANDARD_SWIMMING_GAITS"
@@ -5507,7 +5509,7 @@ msgstr "[CV_NEW_TAG:GAIT:CRAWL:Inerpica:]"
 #: c_variation_default.txt:672
 msgctxt "CREATURE_VARIATION:STANDARD_CRAWLING_GAITS"
 msgid "[CV_NEW_TAG:GAIT:CRAWL:Faster Crawl:]"
-msgstr "[CV_NEW_TAG:GAIT:CRAWL:Striscia più velocemente:]"
+msgstr "[CV_NEW_TAG:GAIT:CRAWL:Strisciamento rapido:]"
 
 #: c_variation_default.txt:673
 msgctxt "CREATURE_VARIATION:STANDARD_CRAWLING_GAITS"
@@ -5532,22 +5534,22 @@ msgstr "[CV_NEW_TAG:GAIT:CRAWL:Striscia:]"
 #: c_variation_default.txt:679
 msgctxt "CREATURE_VARIATION:STANDARD_FLYING_GAITS"
 msgid "[CV_NEW_TAG:GAIT:FLY:Maximum Flight Speed:]"
-msgstr ""
+msgstr "[CV_NEW_TAG:GAIT:FLY:Velocità massima di volo:]"
 
 #: c_variation_default.txt:680
 msgctxt "CREATURE_VARIATION:STANDARD_FLYING_GAITS"
 msgid "[CV_NEW_TAG:GAIT:FLY:Faster Flight:]"
-msgstr ""
+msgstr "[CV_NEW_TAG:GAIT:FLY:Volo rapido:]"
 
 #: c_variation_default.txt:681
 msgctxt "CREATURE_VARIATION:STANDARD_FLYING_GAITS"
 msgid "[CV_NEW_TAG:GAIT:FLY:Fast Flight:]"
-msgstr ""
+msgstr "[CV_NEW_TAG:GAIT:FLY:Volo veloce:]"
 
 #: c_variation_default.txt:682
 msgctxt "CREATURE_VARIATION:STANDARD_FLYING_GAITS"
 msgid "[CV_NEW_TAG:GAIT:FLY:Fly:]"
-msgstr ""
+msgstr "[CV_NEW_TAG:GAIT:FLY:Volo:]"
 
 #: c_variation_default.txt:683
 msgctxt "CREATURE_VARIATION:STANDARD_FLYING_GAITS"
@@ -5557,7 +5559,7 @@ msgstr "[CV_NEW_TAG:GAIT:FLY:Volo lento:]"
 #: c_variation_default.txt:684
 msgctxt "CREATURE_VARIATION:STANDARD_FLYING_GAITS"
 msgid "[CV_NEW_TAG:GAIT:FLY:Hover:]"
-msgstr ""
+msgstr "[CV_NEW_TAG:GAIT:FLY:Librarsi:]"
 
 #: c_variation_default.txt:687
 msgctxt "CREATURE_VARIATION:STANDARD_WALK_CRAWL_GAITS"
@@ -5567,12 +5569,12 @@ msgstr "[CV_NEW_TAG:GAIT:WALK:Inerpicata:]"
 #: c_variation_default.txt:688
 msgctxt "CREATURE_VARIATION:STANDARD_WALK_CRAWL_GAITS"
 msgid "[CV_NEW_TAG:GAIT:WALK:Faster Crawl:]"
-msgstr "[CV_NEW_TAG:GAIT:WALK:Striscia più velocemente:]"
+msgstr "[CV_NEW_TAG:GAIT:WALK:Strisciamento rapido:]"
 
 #: c_variation_default.txt:689
 msgctxt "CREATURE_VARIATION:STANDARD_WALK_CRAWL_GAITS"
 msgid "[CV_NEW_TAG:GAIT:WALK:Fast Crawl:]"
-msgstr "[CV_NEW_TAG:GAIT:WALK:Striscia velocemente:]"
+msgstr "[CV_NEW_TAG:GAIT:WALK:Strisciamento veloce:]"
 
 #: c_variation_default.txt:690
 msgctxt "CREATURE_VARIATION:STANDARD_WALK_CRAWL_GAITS"
@@ -5601,7 +5603,7 @@ msgstr ""
 #: creature_amphibians.txt:7
 msgctxt "CREATURE:TOAD"
 msgid "[NAME:toad:toads:toad]"
-msgstr ""
+msgstr "[NAME:rospo:rospi:rospo]"
 
 #: creature_amphibians.txt:8
 msgctxt "CREATURE:TOAD"
@@ -5641,7 +5643,7 @@ msgstr "[CASTE_NAME:donna rospo:donne rospo:donna rospo]"
 #: creature_amphibians.txt:87
 msgctxt "CREATURE:TOAD_MAN"
 msgid "[NAME:toad man:toad men:toad man]"
-msgstr ""
+msgstr "[NAME:uomo rospo:uomini rospo:uomo rospo]"
 
 #: creature_amphibians.txt:88
 msgctxt "CREATURE:TOAD_MAN"
@@ -5680,7 +5682,7 @@ msgstr ""
 #: creature_annelids.txt:7
 msgctxt "CREATURE:WORM"
 msgid "[NAME:worm:worms:worm]"
-msgstr ""
+msgstr "[NAME:verme:vermi:verme]"
 
 #: creature_annelids.txt:8
 msgctxt "CREATURE:WORM"
@@ -5690,7 +5692,7 @@ msgstr "[CASTE_NAME:verme:vermi:verme]"
 #: creature_annelids.txt:19
 msgctxt "CREATURE:WORM"
 msgid "[PREFSTRING:wriggling]"
-msgstr ""
+msgstr "[PREFSTRING:si dimena]"
 
 #: creature_annelids.txt:30
 msgctxt "CREATURE:WORM"
@@ -5710,7 +5712,7 @@ msgstr "[TLCM_NOUN:pelle:SINGULAR]"
 #: creature_annelids.txt:59
 msgctxt "CREATURE:WORM_MAN"
 msgid "[NAME:worm man:worm men:worm man]"
-msgstr ""
+msgstr "[NAME:uomo verme:uomini verme:uomo verme]"
 
 #: creature_annelids.txt:60
 msgctxt "CREATURE:WORM_MAN"
@@ -5734,12 +5736,12 @@ msgstr ""
 #: creature_birds.txt:7
 msgctxt "CREATURE:BIRD_BLUEJAY"
 msgid "[NAME:blue jay:blue jays:blue jay]"
-msgstr ""
+msgstr "[NAME:ghiandaia azzurra:ghiandaie azzurre:ghiandaia azzurra]"
 
 #: creature_birds.txt:8
 msgctxt "CREATURE:BIRD_BLUEJAY"
 msgid "[CASTE_NAME:blue jay:blue jays:blue jay]"
-msgstr ""
+msgstr "[CASTE_NAME:ghiandaia azzurra:ghiandaie azzurre:ghiandaia azzurra]"
 
 #: creature_birds.txt:9
 msgctxt "CREATURE:BIRD_BLUEJAY"
@@ -6043,12 +6045,12 @@ msgstr ""
 #: creature_birds.txt:482
 msgctxt "CREATURE:BIRD_ORIOLE"
 msgid "[NAME:oriole:orioles:oriole]"
-msgstr ""
+msgstr "[NAME:rigogolo:rigogoli:rigogolo]"
 
 #: creature_birds.txt:483
 msgctxt "CREATURE:BIRD_ORIOLE"
 msgid "[CASTE_NAME:oriole:orioles:oriole]"
-msgstr ""
+msgstr "[CASTE_NAME:rigogolo:rigogoli:rigogolo]"
 
 #: creature_birds.txt:484
 msgctxt "CREATURE:BIRD_ORIOLE"
@@ -6088,7 +6090,7 @@ msgstr "[TLCM_NOUN:occhi:PLURAL]"
 #: creature_birds.txt:585
 msgctxt "CREATURE:ORIOLE_MAN"
 msgid "[CASTE_NAME:oriole man:oriole men:oriole man]"
-msgstr ""
+msgstr "[CASTE_NAME:uomo rigogolo:uomini rigogolo:uomo rigogolo]"
 
 #: creature_birds.txt:587
 msgctxt "CREATURE:ORIOLE_MAN"
@@ -6098,7 +6100,7 @@ msgstr ""
 #: creature_birds.txt:599
 msgctxt "CREATURE:ORIOLE_MAN"
 msgid "[NAME:oriole man:oriole men:oriole man]"
-msgstr ""
+msgstr "[NAME:uomo rigogolo:uomini rigogolo:uomo rigogolo]"
 
 #: creature_birds.txt:600
 msgctxt "CREATURE:ORIOLE_MAN"
@@ -6530,12 +6532,13 @@ msgstr ""
 #: creature_birds.txt:1154
 msgctxt "CREATURE:BIRD_FALCON_PEREGRINE"
 msgid "[NAME:peregrine falcon:peregrine falcons:peregrine falcon]"
-msgstr ""
+msgstr "[NAME:falco pellegrino:falchi pellegrini:falco pellegrino]"
 
 #: creature_birds.txt:1155
 msgctxt "CREATURE:BIRD_FALCON_PEREGRINE"
 msgid "[GENERAL_CHILD_NAME:peregrine falcon chick:peregrine falcon chicks]"
 msgstr ""
+"[GENERAL_CHILD_NAME:pulcino di falco pellegrino:pulcini di falco pellegrino]"
 
 #: creature_birds.txt:1190
 msgctxt "CREATURE:BIRD_FALCON_PEREGRINE"
@@ -6555,7 +6558,7 @@ msgstr "[ATTACK_VERB:agguanti:agguanta]"
 #: creature_birds.txt:1244
 msgctxt "CREATURE:BIRD_FALCON_PEREGRINE"
 msgid "[CASTE_NAME:peregrine falcon:peregrine falcons:peregrine falcon]"
-msgstr ""
+msgstr "[CASTE_NAME:falco pellegrino:falchi pellegrini:falco pellegrino]"
 
 #: creature_birds.txt:1256
 msgctxt "CREATURE:BIRD_FALCON_PEREGRINE"
@@ -6610,7 +6613,7 @@ msgctxt "CREATURE:GIANT PEREGRINE FALCON"
 msgid ""
 "[NAME:giant peregrine falcon:giant peregrine falcons:giant peregrine falcon]"
 msgstr ""
-"[NAME:falco pellegrino gigante:falchi pellegrino giganti:falco pellegrino "
+"[NAME:falco pellegrino gigante:falchi pellegrini giganti:falco pellegrino "
 "gigante]"
 
 #: creature_birds.txt:1311
@@ -6646,7 +6649,7 @@ msgid ""
 "[CASTE_NAME:giant peregrine falcon:giant peregrine falcons:giant peregrine "
 "falcon]"
 msgstr ""
-"[CASTE_NAME:falco pellegrino gigante:falchi pellegrino giganti:falco "
+"[CASTE_NAME:falco pellegrino gigante:falchi pellegrini giganti:falco "
 "pellegrino gigante]"
 
 #: creature_birds.txt:1324
@@ -6716,17 +6719,17 @@ msgstr "[TLCM_NOUN:occhi:PLURAL]"
 #: creature_birds.txt:1436
 msgctxt "CREATURE:KIWI MAN"
 msgid "[CASTE_NAME:kiwi man:kiwi men:kiwi man]"
-msgstr ""
+msgstr "[CASTE_NAME:uomo kiwi:uomini kiwi:uomo kiwi]"
 
 #: creature_birds.txt:1438
 msgctxt "CREATURE:KIWI MAN"
 msgid "[CASTE_NAME:kiwi woman:kiwi women:kiwi woman]"
-msgstr ""
+msgstr "[CASTE_NAME:donna kiwi:donne kiwi:donna kiwi]"
 
 #: creature_birds.txt:1449
 msgctxt "CREATURE:KIWI MAN"
 msgid "[NAME:kiwi man:kiwi men:kiwi man]"
-msgstr ""
+msgstr "[NAME:uomo kiwi:uomini kiwi:uomo kiwi]"
 
 #: creature_birds.txt:1450
 msgctxt "CREATURE:KIWI MAN"
@@ -11740,8 +11743,8 @@ msgid ""
 "[DESCRIPTION:A medium-sized, hooved herbivore.  Some are domesticated as "
 "beasts of burden.]"
 msgstr ""
-"[DESCRIPTION:Un erbivoro di medie dimensioni, dotato di zoccoli.  Alcuni "
-"sono addomesticati come bestie da soma.]"
+"[DESCRIPTION:Un erbivoro ungulato di medie dimensioni.  Alcuni vengono "
+"addomesticati come bestie da soma.]"
 
 #: creature_domestic.txt:367
 msgctxt "CREATURE:DONKEY"
@@ -11864,6 +11867,8 @@ msgid ""
 "[DESCRIPTION:A large hooved, maned herbivore.  They can run swiftly and many"
 " are domesticated as steeds.]"
 msgstr ""
+"[DESCRIPTION:Un grande erbivoro con gli zoccoli e la criniera.  Possono "
+"correre velocemente e molti vengono addomesticati come destrieri.]"
 
 #: creature_domestic.txt:481
 msgctxt "CREATURE:HORSE"
@@ -14662,6 +14667,8 @@ msgid ""
 "[DESCRIPTION:A medium-sized herbivore that lives in the high mountains, able"
 " to navigate the slopes despite its hooved feet.]"
 msgstr ""
+"[DESCRIPTION:Un erbivoro di medie dimensioni che vive in alta montagna, è in"
+" grado di arrampicarsi sui pendii nonostante i piedi ungulati.]"
 
 #: creature_large_mountain.txt:7
 msgctxt "CREATURE:GOAT_MOUNTAIN"
@@ -20138,6 +20145,8 @@ msgid ""
 "[DESCRIPTION:A gigantic spotted cat.  It is possibly the fastest animal on "
 "land and is found in the savage wilds.]"
 msgstr ""
+"[DESCRIPTION:Un gigantesco gatto maculato.  È forse l'animale più veloce "
+"della terraferma e si trova nelle terre selvagge.]"
 
 #: creature_large_tropical.txt:1076
 msgctxt "CREATURE:GIANT_CHEETAH"
@@ -20150,21 +20159,23 @@ msgid ""
 "[DESCRIPTION:A small hooved creature found in large groups in the "
 "grasslands.  It has short horns and moves by leaps and bounds.]"
 msgstr ""
+"[DESCRIPTION:Una piccola creatura ungulata che vive in grandi gruppi nelle "
+"praterie.  Ha corna corte e si muove a passi da gigante.]"
 
 #: creature_large_tropical.txt:1083
 msgctxt "CREATURE:GAZELLE"
 msgid "[NAME:gazelle:gazelles:gazelle]"
-msgstr ""
+msgstr "[NAME:gazzella:gazzelle:gazzella]"
 
 #: creature_large_tropical.txt:1084
 msgctxt "CREATURE:GAZELLE"
 msgid "[CASTE_NAME:gazelle:gazelles:gazelle]"
-msgstr ""
+msgstr "[CASTE_NAME:gazzella:gazzelle:gazzella]"
 
 #: creature_large_tropical.txt:1085
 msgctxt "CREATURE:GAZELLE"
 msgid "[GENERAL_CHILD_NAME:gazelle fawn:gazelle fawns]"
-msgstr ""
+msgstr "[GENERAL_CHILD_NAME:cerbiatto di gazzella:cerbiatti di gazzella]"
 
 #: creature_large_tropical.txt:1092
 msgctxt "CREATURE:GAZELLE"
@@ -22190,21 +22201,24 @@ msgid ""
 "[DESCRIPTION:A large hooved animal with curved horns and a thick brown coat."
 "  It is known for its strong odor.]"
 msgstr ""
+"[DESCRIPTION:È un grande animale dotato di zoccoli, corna ricurve e un folto"
+" mantello marrone.  È noto per il suo forte odore.]"
 
 #: creature_large_tundra.txt:7
 msgctxt "CREATURE:MUSKOX"
 msgid "[NAME:muskox:muskoxen:muskox]"
-msgstr ""
+msgstr "[NAME:bue muschiato:buoi muschiati:bue muschiato]"
 
 #: creature_large_tundra.txt:8
 msgctxt "CREATURE:MUSKOX"
 msgid "[CASTE_NAME:muskox:muskoxen:muskox]"
-msgstr ""
+msgstr "[CASTE_NAME:bue muschiato:buoi muschiati:bue muschiato]"
 
 #: creature_large_tundra.txt:9
 msgctxt "CREATURE:MUSKOX"
 msgid "[GENERAL_CHILD_NAME:muskox calf:muskox calves]"
 msgstr ""
+"[GENERAL_CHILD_NAME:vitello di bue muschiato:vitelli di bue muschiato]"
 
 #: creature_large_tundra.txt:12
 msgctxt "CREATURE:MUSKOX"
@@ -22240,41 +22254,48 @@ msgstr "[TLCM_NOUN:occhi:PLURAL]"
 msgctxt "CREATURE:MUSKOX_MAN"
 msgid "[CASTE_NAME:muskox man:muskox men:muskox man]"
 msgstr ""
+"[CASTE_NAME:uomo bue muschiato:uomini bue muschiato:uomo bue muschiato]"
 
 #: creature_large_tundra.txt:120
 msgctxt "CREATURE:MUSKOX_MAN"
 msgid "[CASTE_NAME:muskox woman:muskox women:muskox woman]"
 msgstr ""
+"[CASTE_NAME:donna bue muschiato:donne bue muschiato:donna bue muschiato]"
 
 #: creature_large_tundra.txt:130
 msgctxt "CREATURE:MUSKOX_MAN"
 msgid "[NAME:muskox man:muskox men:muskox man]"
-msgstr ""
+msgstr "[NAME:uomo bue muschiato:uomini bue muschiato:uomo bue muschiato]"
 
 #: creature_large_tundra.txt:131
 msgctxt "CREATURE:MUSKOX_MAN"
 msgid "[DESCRIPTION:A horned person with the head of a muskox.]"
-msgstr ""
+msgstr "[DESCRIPTION:Una persona cornuta con la testa da bue muschiato.]"
 
 #: creature_large_tundra.txt:147
 msgctxt "CREATURE:GIANT_MUSKOX"
 msgid "[NAME:giant muskox:giant muskoxen:giant muskox]"
 msgstr ""
+"[NAME:bue muschiato gigante:buoi muschiati giganti:bue muschiato gigante]"
 
 #: creature_large_tundra.txt:148
 msgctxt "CREATURE:GIANT_MUSKOX"
 msgid "[CASTE_NAME:giant muskox:giant muskoxen:giant muskox]"
 msgstr ""
+"[CASTE_NAME:bue muschiato gigante:buoi muschiati giganti:bue muschiato "
+"gigante]"
 
 #: creature_large_tundra.txt:149
 msgctxt "CREATURE:GIANT_MUSKOX"
 msgid "[GENERAL_CHILD_NAME:giant muskox calf:giant muskox calves]"
 msgstr ""
+"[GENERAL_CHILD_NAME:vitello di bue muschiato gigante: vitelli di bue "
+"muschiato giganti:]"
 
 #: creature_large_tundra.txt:150
 msgctxt "CREATURE:GIANT_MUSKOX"
 msgid "[DESCRIPTION:A huge monster in the form of a muskox.]"
-msgstr ""
+msgstr "[DESCRIPTION:Un enorme mostro sotto forma di bue muschiato.]"
 
 #: creature_large_tundra.txt:159
 msgctxt "CREATURE:GIANT_MUSKOX"
@@ -23125,7 +23146,7 @@ msgstr ""
 #: creature_next_underground.txt:723
 msgctxt "CREATURE:FLESH_BALL"
 msgid "[TISSUE_NAME:flesh:NP]"
-msgstr ""
+msgstr "[TISSUE_NAME:carne:NP]"
 
 #: creature_next_underground.txt:725
 msgctxt "CREATURE:FLESH_BALL"
@@ -23540,7 +23561,7 @@ msgstr "[STATE_ADJ:GAS:sangue corrotto in ebollizione]"
 #: creature_next_underground.txt:1353
 msgctxt "CREATURE:BLOOD_MAN"
 msgid "[TISSUE_NAME:blood:NP]"
-msgstr ""
+msgstr "[TISSUE_NAME:sangue:NP]"
 
 #: creature_next_underground.txt:1368
 msgctxt "CREATURE:BLOOD_MAN"
@@ -24131,7 +24152,7 @@ msgstr ""
 #: creature_next_underground.txt:2361
 msgctxt "CREATURE:CAVE_FLOATER"
 msgid "[TISSUE_NAME:interior gas:NP]"
-msgstr ""
+msgstr "[TISSUE_NAME:gas interno:NP]"
 
 #: creature_next_underground.txt:2373
 msgctxt "CREATURE:CAVE_FLOATER"
@@ -24295,7 +24316,7 @@ msgstr "[TISSUE_NAME:pelle:NP]"
 #: creature_next_underground.txt:2544
 msgctxt "CREATURE:CAVE_BLOB"
 msgid "[TISSUE_NAME:fluid:NP]"
-msgstr ""
+msgstr "[TISSUE_NAME:fluido:NP]"
 
 #: creature_next_underground.txt:2567
 msgctxt "CREATURE:CAVE_BLOB"
@@ -24327,7 +24348,7 @@ msgstr ""
 #: creature_next_underground.txt:2601
 msgctxt "CREATURE:ELEMENTMAN_AMETHYST"
 msgid "[TISSUE_NAME:amethyst:NP]"
-msgstr ""
+msgstr "[TISSUE_NAME:ametista:NP]"
 
 #: creature_next_underground.txt:2615
 msgctxt "CREATURE:ELEMENTMAN_AMETHYST"
@@ -25633,7 +25654,7 @@ msgstr ""
 #: creature_other.txt:262
 msgctxt "CREATURE:WAMBLER_FLUFFY"
 msgid "[TISSUE_NAME:fluff:NP]"
-msgstr ""
+msgstr "[TISSUE_NAME:lanugine:NP]"
 
 #: creature_other.txt:272
 msgctxt "CREATURE:WAMBLER_FLUFFY"
@@ -25648,7 +25669,7 @@ msgstr ""
 #: creature_other.txt:276
 msgctxt "CREATURE:WAMBLER_FLUFFY"
 msgid "[TISSUE_NAME:pudge:NP]"
-msgstr ""
+msgstr "[TISSUE_NAME:ciccia:NP]"
 
 #: creature_other.txt:287
 msgctxt "CREATURE:WAMBLER_FLUFFY"
@@ -33627,12 +33648,12 @@ msgstr ""
 #: creature_subterranean.txt:1762
 msgctxt "CREATURE:ELEMENTMAN_MAGMA"
 msgid "[TISSUE_NAME:magma:NP]"
-msgstr ""
+msgstr "[TISSUE_NAME:magma:NP]"
 
 #: creature_subterranean.txt:1773
 msgctxt "CREATURE:ELEMENTMAN_MAGMA"
 msgid "[TISSUE_NAME:crust:NP]"
-msgstr ""
+msgstr "[TISSUE_NAME:crosta:NP]"
 
 #: creature_subterranean.txt:1788
 msgctxt "CREATURE:ELEMENTMAN_MAGMA"
@@ -33702,12 +33723,12 @@ msgstr ""
 #: creature_subterranean.txt:1855
 msgctxt "CREATURE:ELEMENTMAN_IRON"
 msgid "[TISSUE_NAME:iron:NP]"
-msgstr ""
+msgstr "[TISSUE_NAME:ferro:NP]"
 
 #: creature_subterranean.txt:1864
 msgctxt "CREATURE:ELEMENTMAN_IRON"
 msgid "[TISSUE_NAME:gas:NP]"
-msgstr ""
+msgstr "[TISSUE_NAME:gas:NP]"
 
 #: creature_subterranean.txt:1877
 msgctxt "CREATURE:ELEMENTMAN_IRON"
@@ -43197,27 +43218,27 @@ msgstr "[STATE_ADJ:ALL_SOLID:dente]"
 #: material_template_default.txt:679
 msgctxt "MATERIAL_TEMPLATE:EYE_TEMPLATE"
 msgid "[STATE_NAME:ALL_SOLID:eye tissue]"
-msgstr ""
+msgstr "[STATE_NAME:ALL_SOLID:tessuto oculare]"
 
 #: material_template_default.txt:680
 msgctxt "MATERIAL_TEMPLATE:EYE_TEMPLATE"
 msgid "[STATE_ADJ:ALL_SOLID:eye tissue]"
-msgstr ""
+msgstr "[STATE_ADJ:ALL_SOLID:tessuto oculare]"
 
 #: material_template_default.txt:724
 msgctxt "MATERIAL_TEMPLATE:EYE_TEMPLATE"
 msgid "[MEAT_NAME:prepared:eye:eye]"
-msgstr ""
+msgstr "[MEAT_NAME:preparato:occhio:occhio]"
 
 #: material_template_default.txt:730
 msgctxt "MATERIAL_TEMPLATE:NERVE_TEMPLATE"
 msgid "[STATE_NAME:ALL_SOLID:nervous tissue]"
-msgstr ""
+msgstr "[STATE_NAME:ALL_SOLID:tessuto nervoso]"
 
 #: material_template_default.txt:731
 msgctxt "MATERIAL_TEMPLATE:NERVE_TEMPLATE"
 msgid "[STATE_ADJ:ALL_SOLID:nervous tissue]"
-msgstr ""
+msgstr "[STATE_ADJ:ALL_SOLID:tessuto nervoso]"
 
 #: material_template_default.txt:776
 msgctxt "MATERIAL_TEMPLATE:BRAIN_TEMPLATE"
@@ -43232,77 +43253,77 @@ msgstr ""
 #: material_template_default.txt:822
 msgctxt "MATERIAL_TEMPLATE:BRAIN_TEMPLATE"
 msgid "[MEAT_NAME:prepared:brain:brain]"
-msgstr ""
+msgstr "[MEAT_NAME:preparato:cervello:cervello]"
 
 #: material_template_default.txt:828
 msgctxt "MATERIAL_TEMPLATE:LUNG_TEMPLATE"
 msgid "[STATE_NAME:ALL_SOLID:lung tissue]"
-msgstr ""
+msgstr "[STATE_NAME:ALL_SOLID:tessuto polmonare]"
 
 #: material_template_default.txt:829
 msgctxt "MATERIAL_TEMPLATE:LUNG_TEMPLATE"
 msgid "[STATE_ADJ:ALL_SOLID:lung tissue]"
-msgstr ""
+msgstr "[STATE_ADJ:ALL_SOLID:tessuto polmonare]"
 
 #: material_template_default.txt:874
 msgctxt "MATERIAL_TEMPLATE:LUNG_TEMPLATE"
 msgid "[MEAT_NAME:prepared:lung:lung]"
-msgstr ""
+msgstr "[MEAT_NAME:preparato:polmone:polmone]"
 
 #: material_template_default.txt:880
 msgctxt "MATERIAL_TEMPLATE:HEART_TEMPLATE"
 msgid "[STATE_NAME:ALL_SOLID:heart tissue]"
-msgstr ""
+msgstr "[STATE_NAME:ALL_SOLID:tessuto cardiaco]"
 
 #: material_template_default.txt:881
 msgctxt "MATERIAL_TEMPLATE:HEART_TEMPLATE"
 msgid "[STATE_ADJ:ALL_SOLID:heart tissue]"
-msgstr ""
+msgstr "[STATE_ADJ:ALL_SOLID:tessuto cardiaco]"
 
 #: material_template_default.txt:926
 msgctxt "MATERIAL_TEMPLATE:HEART_TEMPLATE"
 msgid "[MEAT_NAME:prepared:heart:heart]"
-msgstr ""
+msgstr "[MEAT_NAME:preparato:cuore:cuore]"
 
 #: material_template_default.txt:932
 msgctxt "MATERIAL_TEMPLATE:LIVER_TEMPLATE"
 msgid "[STATE_NAME:ALL_SOLID:liver tissue]"
-msgstr ""
+msgstr "[STATE_NAME:ALL_SOLID:tessuto epatico]"
 
 #: material_template_default.txt:933
 msgctxt "MATERIAL_TEMPLATE:LIVER_TEMPLATE"
 msgid "[STATE_ADJ:ALL_SOLID:liver tissue]"
-msgstr ""
+msgstr "[STATE_ADJ:ALL_SOLID:tessuto epatico]"
 
 #: material_template_default.txt:978
 msgctxt "MATERIAL_TEMPLATE:LIVER_TEMPLATE"
 msgid "[MEAT_NAME:chopped:liver:liver]"
-msgstr ""
+msgstr "[MEAT_NAME:tritato:fegato:fegato]"
 
 #: material_template_default.txt:984
 msgctxt "MATERIAL_TEMPLATE:GUT_TEMPLATE"
 msgid "[STATE_NAME:ALL_SOLID:gut]"
-msgstr ""
+msgstr "[STATE_NAME:ALL_SOLID:budella]"
 
 #: material_template_default.txt:985
 msgctxt "MATERIAL_TEMPLATE:GUT_TEMPLATE"
 msgid "[STATE_ADJ:ALL_SOLID:gut]"
-msgstr ""
+msgstr "[STATE_ADJ:ALL_SOLID:budella]"
 
 #: material_template_default.txt:1030
 msgctxt "MATERIAL_TEMPLATE:GUT_TEMPLATE"
 msgid "[MEAT_NAME:prepared:intestines:intestines]"
-msgstr ""
+msgstr "[MEAT_NAME:preparato:intestino:intestino]"
 
 #: material_template_default.txt:1036
 msgctxt "MATERIAL_TEMPLATE:STOMACH_TEMPLATE"
 msgid "[STATE_NAME:ALL_SOLID:stomach tissue]"
-msgstr ""
+msgstr "[STATE_NAME:ALL_SOLID:tessuto dello stomaco]"
 
 #: material_template_default.txt:1037
 msgctxt "MATERIAL_TEMPLATE:STOMACH_TEMPLATE"
 msgid "[STATE_ADJ:ALL_SOLID:stomach tissue]"
-msgstr ""
+msgstr "[STATE_ADJ:ALL_SOLID:tessuto dello stomaco]"
 
 #: material_template_default.txt:1082
 msgctxt "MATERIAL_TEMPLATE:STOMACH_TEMPLATE"
@@ -43327,12 +43348,12 @@ msgstr "[MEAT_NAME:preparato:ventriglio:ventriglio]"
 #: material_template_default.txt:1140
 msgctxt "MATERIAL_TEMPLATE:PANCREAS_TEMPLATE"
 msgid "[STATE_NAME:ALL_SOLID:pancreatic tissue]"
-msgstr ""
+msgstr "[STATE_NAME:ALL_SOLID:tessuto pancreatico]"
 
 #: material_template_default.txt:1141
 msgctxt "MATERIAL_TEMPLATE:PANCREAS_TEMPLATE"
 msgid "[STATE_ADJ:ALL_SOLID:pancreatic tissue]"
-msgstr ""
+msgstr "[STATE_ADJ:ALL_SOLID:tessuto pancreatico]"
 
 #: material_template_default.txt:1186
 msgctxt "MATERIAL_TEMPLATE:PANCREAS_TEMPLATE"
@@ -43342,32 +43363,32 @@ msgstr ""
 #: material_template_default.txt:1192
 msgctxt "MATERIAL_TEMPLATE:SPLEEN_TEMPLATE"
 msgid "[STATE_NAME:ALL_SOLID:spleen tissue]"
-msgstr ""
+msgstr "[STATE_NAME:ALL_SOLID:tessuto della milza]"
 
 #: material_template_default.txt:1193
 msgctxt "MATERIAL_TEMPLATE:SPLEEN_TEMPLATE"
 msgid "[STATE_ADJ:ALL_SOLID:spleen tissue]"
-msgstr ""
+msgstr "[STATE_ADJ:ALL_SOLID:tessuto della milza]"
 
 #: material_template_default.txt:1238
 msgctxt "MATERIAL_TEMPLATE:SPLEEN_TEMPLATE"
 msgid "[MEAT_NAME:prepared:spleen:spleen]"
-msgstr ""
+msgstr "[MEAT_NAME:preparato:milza:milza]"
 
 #: material_template_default.txt:1244
 msgctxt "MATERIAL_TEMPLATE:KIDNEY_TEMPLATE"
 msgid "[STATE_NAME:ALL_SOLID:kidney tissue]"
-msgstr ""
+msgstr "[STATE_NAME:ALL_SOLID:tessuto renale]"
 
 #: material_template_default.txt:1245
 msgctxt "MATERIAL_TEMPLATE:KIDNEY_TEMPLATE"
 msgid "[STATE_ADJ:ALL_SOLID:kidney tissue]"
-msgstr ""
+msgstr "[STATE_ADJ:ALL_SOLID:tessuto renale]"
 
 #: material_template_default.txt:1290
 msgctxt "MATERIAL_TEMPLATE:KIDNEY_TEMPLATE"
 msgid "[MEAT_NAME:prepared:kidney:kidney]"
-msgstr ""
+msgstr "[MEAT_NAME:preparato:rene:rene]"
 
 #: material_template_default.txt:1296
 msgctxt "MATERIAL_TEMPLATE:LEATHER_TEMPLATE"
