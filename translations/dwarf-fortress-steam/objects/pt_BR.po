@@ -10,10 +10,11 @@
 # Alexandre Hernandes, 2023
 # Matheus Ignácio, 2023
 # Victor Silva, 2024
+# CoringaK <silaspinheiro252@gmail.com>, 2024
 # 
 msgid ""
 msgstr ""
-"Last-Translator: Victor Silva, 2024\n"
+"Last-Translator: CoringaK <silaspinheiro252@gmail.com>, 2024\n"
 "Language-Team: Portuguese (Brazil) (https://app.transifex.com/dwarf-fortress-translation/teams/22396/pt_BR/)\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -15178,7 +15179,7 @@ msgstr "[CDI:ADV_NAME:Cuspir]"
 #: creature_large_mountain.txt:379
 msgctxt "CREATURE:GNOME_MOUNTAIN"
 msgid "[CDI:VERB:spit:spits:]"
-msgstr ""
+msgstr "[CDI:VERB:cuspir:cospe:]"
 
 #: creature_large_mountain.txt:392
 msgctxt "CREATURE:GNOME_MOUNTAIN"
@@ -15294,7 +15295,7 @@ msgstr "[CDI:ADV_NAME:Cuspir]"
 #: creature_large_mountain.txt:622
 msgctxt "CREATURE:GNOME_DARK"
 msgid "[CDI:VERB:spit:spits:]"
-msgstr ""
+msgstr "[CDI:VERB:cuspir:cospe:]"
 
 #: creature_large_mountain.txt:637
 msgctxt "CREATURE:GNOME_DARK"
@@ -23461,6 +23462,8 @@ msgstr "[CDI:ADV_NAME:Cuspir rocha derretida]"
 msgctxt "CREATURE:MAGMA_CRAB"
 msgid "[CDI:VERB:spit a glob of molten rock:spits a glob of molten rock:]"
 msgstr ""
+"[CDI:VERB:cuspir uma bola de rocha derretida:cospe uma bola de rocha "
+"derretida:]"
 
 #: creature_next_underground.txt:498
 msgctxt "CREATURE:MAGMA_CRAB"
@@ -24559,7 +24562,7 @@ msgstr "[CDI:ADV_NAME:Cuspir]"
 #: creature_next_underground.txt:2256
 msgctxt "CREATURE:GORLAK"
 msgid "[CDI:VERB:spit:spits:]"
-msgstr ""
+msgstr "[CDI:VERB:cuspir:cospe:]"
 
 #: creature_next_underground.txt:2269
 msgctxt "CREATURE:GORLAK"
@@ -24666,6 +24669,8 @@ msgid ""
 "[CDI:VERB:spray a stream of steaming juice:sprays a stream of steaming "
 "juice:]"
 msgstr ""
+"[CDI:VERB:borrifar um jato de suco de vapor:borrifa um jato de suco de "
+"vapor:]"
 
 #: creature_next_underground.txt:2404
 msgctxt "CREATURE:CAVE_FLOATER"
@@ -24932,7 +24937,7 @@ msgstr "[CDI:ADV_NAME:tinta Squirt]"
 #: creature_ocean_new.txt:79
 msgctxt "CREATURE:OCTOPUS"
 msgid "[CDI:VERB:squirt ink:squirts ink:]"
-msgstr ""
+msgstr "[CDI:VERB:esguichar tinta:esguicha tinta:]"
 
 #: creature_ocean_new.txt:95
 msgctxt "CREATURE:OCTOPUS"
@@ -25266,7 +25271,7 @@ msgstr "[CDI:ADV_NAME:tinta Squirt]"
 #: creature_ocean_new.txt:481
 msgctxt "CREATURE:CUTTLEFISH"
 msgid "[CDI:VERB:squirt ink:squirts ink:]"
-msgstr ""
+msgstr "[CDI:VERB:esguichar tinta:esguicha tinta:]"
 
 #: creature_ocean_new.txt:498
 msgctxt "CREATURE:CUTTLEFISH"
@@ -29316,7 +29321,7 @@ msgstr "[CDI:ADV_NAME:tinta Squirt]"
 #: creature_small_ocean.txt:1496
 msgctxt "CREATURE:SQUID"
 msgid "[CDI:VERB:squirt ink:squirts ink:]"
-msgstr ""
+msgstr "[CDI:VERB:esguichar tinta:esguicha tinta:]"
 
 #: creature_small_ocean.txt:1512
 msgctxt "CREATURE:SQUID"
@@ -29837,7 +29842,7 @@ msgstr "[CDI:ADV_NAME:Cuspir]"
 #: creature_standard.txt:111
 msgctxt "CREATURE:DWARF"
 msgid "[CDI:VERB:spit:spits:]"
-msgstr ""
+msgstr "[CDI:VERB:cuspir:cospe:]"
 
 #: creature_standard.txt:146
 msgctxt "CREATURE:DWARF"
@@ -30364,7 +30369,7 @@ msgstr "[CDI:ADV_NAME:Cuspir]"
 #: creature_standard.txt:803
 msgctxt "CREATURE:ELF"
 msgid "[CDI:VERB:spit:spits:]"
-msgstr ""
+msgstr "[CDI:VERB:cuspir:cospe:]"
 
 #: creature_standard.txt:829
 msgctxt "CREATURE:ELF"
@@ -30582,7 +30587,7 @@ msgstr "[CDI:ADV_NAME:Cuspir]"
 #: creature_standard.txt:1085
 msgctxt "CREATURE:GOBLIN"
 msgid "[CDI:VERB:spit:spits:]"
-msgstr ""
+msgstr "[CDI:VERB:cuspir:cospe:]"
 
 #: creature_standard.txt:1109
 msgctxt "CREATURE:GOBLIN"
@@ -30801,7 +30806,7 @@ msgstr "[CDI:ADV_NAME:Cuspir]"
 #: creature_standard.txt:1346
 msgctxt "CREATURE:KOBOLD"
 msgid "[CDI:VERB:spit:spits:]"
-msgstr ""
+msgstr "[CDI:VERB:cuspir:cospe:]"
 
 #: creature_standard.txt:1376
 msgctxt "CREATURE:KOBOLD"
@@ -30984,7 +30989,7 @@ msgstr "[CDI:ADV_NAME:Cuspir]"
 #: creature_standard.txt:1587
 msgctxt "CREATURE:GREMLIN"
 msgid "[CDI:VERB:spit:spits:]"
-msgstr ""
+msgstr "[CDI:VERB:cuspir:cospe:]"
 
 #: creature_standard.txt:1601
 msgctxt "CREATURE:GREMLIN"
@@ -31316,12 +31321,12 @@ msgstr "[NAME:dragão:dragões:draconic]"
 #: creature_standard.txt:2207
 msgctxt "CREATURE:DRAGON"
 msgid "[CASTE_NAME:dragon:dragons:draconic]"
-msgstr "[CASTE_NAME:dragão:dragões:draconic]"
+msgstr "[CASTE_NAME:dragão:dragões:dracônico]"
 
 #: creature_standard.txt:2209
 msgctxt "CREATURE:DRAGON"
 msgid "[CHILDNAME:dragon hatchling:dragon hatchlings]"
-msgstr ""
+msgstr "[CHILDNAME:filhote de dragão:filhotes de dragão]"
 
 #: creature_standard.txt:2217
 msgctxt "CREATURE:DRAGON"
@@ -31394,7 +31399,7 @@ msgstr "[CDI:ADV_NAME:Cuspir]"
 #: creature_standard.txt:2416
 msgctxt "CREATURE:SATYR"
 msgid "[CDI:VERB:spit:spits:]"
-msgstr ""
+msgstr "[CDI:VERB:cuspir:cospe:]"
 
 #: creature_standard.txt:2430
 msgctxt "CREATURE:SATYR"
@@ -31571,7 +31576,7 @@ msgstr "[CDI:ADV_NAME:Cuspir]"
 #: creature_standard.txt:2738
 msgctxt "CREATURE:GIANT"
 msgid "[CDI:VERB:spit:spits:]"
-msgstr ""
+msgstr "[CDI:VERB:cuspir:cospe:]"
 
 #: creature_standard.txt:2752
 msgctxt "CREATURE:GIANT"
@@ -31720,7 +31725,7 @@ msgstr "[CDI:ADV_NAME:Cuspir]"
 #: creature_standard.txt:2992
 msgctxt "CREATURE:CYCLOPS"
 msgid "[CDI:VERB:spit:spits:]"
-msgstr ""
+msgstr "[CDI:VERB:cuspir:cospe:]"
 
 #: creature_standard.txt:3006
 msgctxt "CREATURE:CYCLOPS"
@@ -31855,7 +31860,7 @@ msgstr "[CDI:ADV_NAME:Cuspir]"
 #: creature_standard.txt:3238
 msgctxt "CREATURE:ETTIN"
 msgid "[CDI:VERB:spit:spits:]"
-msgstr ""
+msgstr "[CDI:VERB:cuspir:cospe:]"
 
 #: creature_standard.txt:3253
 msgctxt "CREATURE:ETTIN"
@@ -31990,7 +31995,7 @@ msgstr "[CDI:ADV_NAME:Cuspir]"
 #: creature_standard.txt:3493
 msgctxt "CREATURE:MINOTAUR"
 msgid "[CDI:VERB:spit:spits:]"
-msgstr ""
+msgstr "[CDI:VERB:cuspir:cospe:]"
 
 #: creature_standard.txt:3505
 msgctxt "CREATURE:MINOTAUR"
@@ -32837,7 +32842,7 @@ msgstr "[CDI:ADV_NAME:Cuspir]"
 #: creature_standard.txt:4956
 msgctxt "CREATURE:HARPY"
 msgid "[CDI:VERB:spit:spits:]"
-msgstr ""
+msgstr "[CDI:VERB:cuspir:cospe:]"
 
 #: creature_standard.txt:4968
 msgctxt "CREATURE:HARPY"
@@ -32965,7 +32970,7 @@ msgstr "[CDI:ADV_NAME:Cuspir]"
 #: creature_standard.txt:5227
 msgctxt "CREATURE:MERPERSON"
 msgid "[CDI:VERB:spit:spits:]"
-msgstr ""
+msgstr "[CDI:VERB:cuspir:cospe:]"
 
 #: creature_standard.txt:5241
 msgctxt "CREATURE:MERPERSON"
