@@ -5210,7 +5210,7 @@ msgstr "Привязать нажимную плиту"
 
 #: stringdump_steam_50_12.txt:1371
 msgid "Add new task"
-msgstr "Изготовить"
+msgstr "Задание"
 
 #: stringdump_steam_50_12.txt:1372
 msgid "Workers cannot be assigned to this building."
@@ -6383,7 +6383,7 @@ msgstr "потрясённо"
 
 #: stringdump_steam_50_12.txt:1675
 msgid "ashamed"
-msgstr "пристыженно"
+msgstr "стыд"
 
 #: stringdump_steam_50_12.txt:1676
 msgid "sympathy"
@@ -6399,7 +6399,7 @@ msgstr "ужас"
 
 #: stringdump_steam_50_12.txt:1679
 msgid "thrilled"
-msgstr "взволнованность"
+msgstr "волнение"
 
 #: stringdump_steam_50_12.txt:1680
 msgid "uneasy"
@@ -6407,7 +6407,7 @@ msgstr "беспокойство"
 
 #: stringdump_steam_50_12.txt:1681
 msgid "unhappy"
-msgstr "себя несчастным"
+msgstr "грусть"
 
 #: stringdump_steam_50_12.txt:1682
 msgid "wonder"
@@ -6431,7 +6431,7 @@ msgstr "экзистенциальный кризис"
 
 #: stringdump_steam_50_12.txt:1687
 msgid "defeated"
-msgstr "себя побежденным"
+msgstr "поражение"
 
 #: stringdump_steam_50_12.txt:1688
 msgid "expectant"
@@ -6455,7 +6455,7 @@ msgstr "эйфорию"
 
 #: stringdump_steam_50_12.txt:1693
 msgid "anything"
-msgstr "что-либо"
+msgstr "ничего"
 
 #: stringdump_steam_50_12.txt:1696
 msgid "reliving "
@@ -8219,7 +8219,7 @@ msgstr "Положить на склад"
 
 #: stringdump_steam_50_12.txt:2145
 msgid "Open building mode"
-msgstr "Откройте окно строительства"
+msgstr "Открыть строительство"
 
 #: stringdump_steam_50_12.txt:2146
 msgid "Place carpenter's workshop"
@@ -8235,11 +8235,11 @@ msgstr "Нажмите на нее"
 
 #: stringdump_steam_50_12.txt:2149
 msgid "Add a \"Make bed\" task"
-msgstr "Добавьте задание \"Создать кровать\""
+msgstr "Задание \"Создать кровать\""
 
 #: stringdump_steam_50_12.txt:2150
 msgid "Make the bed"
-msgstr "Изготовить кровать"
+msgstr "Сделать кровать"
 
 #: stringdump_steam_50_12.txt:2151
 msgid "Place a bed"
@@ -8251,7 +8251,7 @@ msgstr "Выберете жителя или существо"
 
 #: stringdump_steam_50_12.txt:2153
 msgid "Close the information sheet"
-msgstr "Закрыть панель информации"
+msgstr "Закрыть окно информации"
 
 #: stringdump_steam_50_12.txt:2154
 msgid "Dismiss the large red alert"
@@ -8406,8 +8406,8 @@ msgid ""
 "camera to the surface with the surface button (highlighted.)  The "
 msgstr ""
 "Пока вы не начнете добычу полезных ископаемых, вид под землей будет "
-"затемнен. Вы можете переместить камеру на поверхность с помощью кнопки "
-"\"поверхность\" (выделена). "
+"затемнен.  Вы можете переместить камеру на поверхность с помощью кнопки "
+"\"поверхность\" (выделена).  "
 
 #: stringdump_steam_50_12.txt:2181
 msgid "] hotkey will recenter on your wagon."
@@ -8542,19 +8542,20 @@ msgid ""
 "It's time to build a [C:6:0:0]Stockpile[C:7:0:0] underground to unload them."
 "  [C:6:0:0]Stockpiles[C:7:0:0] are crucial to moving "
 msgstr ""
-"Пришло время построить [C:6:0:0]Склады[C:7:0:0] под землей, чтобы разгрузить"
-" повозку.  [C:6:0:0]Склады[C:7:0:0] имеют решающее значение для перемещения"
+"Пришло время построить [C:6:0:0]Склад[C:7:0:0] под землей, чтобы разгрузить "
+"повозку.  [C:6:0:0]Склады[C:7:0:0] имеют решающее значение для "
+"перераспределения"
 
 #: stringdump_steam_50_12.txt:2202
 msgid "supplies around your fortress where they are needed."
-msgstr "припасы в крепости, везде, где они необходимы."
+msgstr "припасов в крепости."
 
 #: stringdump_steam_50_12.txt:2203
 msgid ""
 "[C:6:0:0]Stockpiles[C:7:0:0] are placed with the [C:5:0:1]Stockpile[C:7:0:0]"
 " button (highlighted.)  Click it now."
 msgstr ""
-"[C:6:0:0]Склады[C:7:0:0] создаются с помощью кнопки [C:5:0:1]Склад[C:7:0:0] "
+"[C:6:0:0]Склад[C:7:0:0] создается с помощью кнопки [C:5:0:1]Склад[C:7:0:0] "
 "(подсвечена).  Нажмите ее сейчас."
 
 #: stringdump_steam_50_12.txt:2204
@@ -8586,14 +8587,14 @@ msgid ""
 "[C:6:0:0]Stockpile[C:7:0:0].  "
 msgstr ""
 "Если игра не на паузе, рабочие начнут разгружать вещи из повозки на "
-"[C:6:0:0]склад[C:7:0:0]."
+"[C:6:0:0]Склад[C:7:0:0]."
 
 #: stringdump_steam_50_12.txt:2208
 msgid ""
 "Later you may want to customize your [C:6:0:0]Stockpiles[C:7:0:0] by "
 "clicking on them and pressing the [C:5:0:1]Custom[C:7:0:0] "
 msgstr ""
-"Позже вы можете настроить свои [C:6:0:0]Склады[C:7:0:0], щелкнув на них и "
+"Позже вы можете настроить свой [C:6:0:0]Склад[C:7:0:0], щелкнув по нему и "
 "нажав кнопку [C:5:0:1]Пользовательский[C:7:0:0] "
 
 #: stringdump_steam_50_12.txt:2209
@@ -8613,7 +8614,7 @@ msgid ""
 "If the [C:5:0:1]Stockpile[C:7:0:0] menu is still open, you can close it now "
 "by right-clicking.  Right-clicking can "
 msgstr ""
-"Если окно [C:5:0:1]Склады[C:7:0:0] все еще открыто, вы можете закрыть его, "
+"Если окно [C:5:0:1]Склада[C:7:0:0] все еще открыто, вы можете закрыть его, "
 "щелкнув правой кнопкой мыши.  Щелчок правой кнопкой мыши можно"
 
 #: stringdump_steam_50_12.txt:2212
@@ -8711,9 +8712,9 @@ msgid ""
 "[C:6:0:0]Workshops[C:7:0:0] are one of many buildings you can place with the"
 " highlighted [C:5:0:1]Build[C:7:0:0] button.  Click it now."
 msgstr ""
-"[C:6:0:0]Мастерские[C:7:0:0] - одни из многих построек, которые вы можете "
-"разместить с помощью подсвеченной кнопки [C:5:0:1]Постройки[C:7:0:0].  "
-"Давайте нажмем на нее."
+"[C:6:0:0]Мастерские[C:7:0:0] - одни из многих построек, которые можете "
+"разместить с помощью подсвеченной кнопки [C:5:0:1]Строительство[C:7:0:0].  "
+"Нажмите на нее."
 
 #: stringdump_steam_50_12.txt:2227
 msgid ""
@@ -13098,7 +13099,7 @@ msgstr ""
 
 #: stringdump_steam_50_12.txt:3161
 msgid "World name"
-msgstr "Название мира"
+msgstr "Название"
 
 #: stringdump_steam_50_12.txt:3162
 msgid "Folder"
@@ -63286,7 +63287,7 @@ msgstr "Плести нить"
 
 #: stringdump_steam_50_12.txt:20531
 msgid "Make cheese"
-msgstr "Делать сыр"
+msgstr "Варить сыр"
 
 #: stringdump_steam_50_12.txt:20532
 msgid "Process plants (vial)"
@@ -63298,15 +63299,15 @@ msgstr "Обработать растение (бочка)"
 
 #: stringdump_steam_50_12.txt:20534
 msgid "Make lye"
-msgstr "Делать щёлок"
+msgstr "Варить щёлок"
 
 #: stringdump_steam_50_12.txt:20535
 msgid "Make potash from lye"
-msgstr "Делать поташ из щёлока"
+msgstr "Варить поташ из щёлока"
 
 #: stringdump_steam_50_12.txt:20536
 msgid "Make potash from ash"
-msgstr "Делать поташ из золы"
+msgstr "Варить поташ из золы"
 
 #: stringdump_steam_50_12.txt:20537
 msgid "Prepare lavish meal"
@@ -63518,7 +63519,7 @@ msgstr " браслет"
 
 #: stringdump_steam_50_12.txt:20589
 msgid "Make large "
-msgstr "Сделать большой "
+msgstr "Делать большой "
 
 #: stringdump_steam_50_12.txt:20590
 msgid "Mint "
@@ -63634,7 +63635,7 @@ msgstr "стол"
 
 #: stringdump_steam_50_12.txt:20618
 msgid "Make traction bench"
-msgstr "Сделать тракционный стол"
+msgstr "Делать тракционный стол"
 
 #: stringdump_steam_50_12.txt:20619
 msgid " splint"
