@@ -10293,7 +10293,7 @@ msgstr "[STATE_NAME:ALL_SOLID:veleno di scorpione corteccia ghiacciata]"
 #: creature_bug_slug_new.txt:362
 msgctxt "CREATURE:BARK_SCORPION"
 msgid "[STATE_ADJ:ALL_SOLID:frozen bark scorpion venom]"
-msgstr "[STATO_ADJ:ALL_SOLID:veleno di scorpione corteccia ghiacciata]"
+msgstr "[STATE_ADJ:ALL_SOLID:veleno di scorpione corteccia ghiacciata]"
 
 #: creature_bug_slug_new.txt:363
 msgctxt "CREATURE:BARK_SCORPION"
@@ -10303,7 +10303,7 @@ msgstr "[STATE_NAME:LIQUID:veleno di scorpione della corteccia]"
 #: creature_bug_slug_new.txt:364
 msgctxt "CREATURE:BARK_SCORPION"
 msgid "[STATE_ADJ:LIQUID:bark scorpion venom]"
-msgstr "[STATO_ADJ:LIQUID:veleno di scorpione della corteccia]"
+msgstr "[STATE_ADJ:LIQUID:veleno di scorpione della corteccia]"
 
 #: creature_bug_slug_new.txt:365
 msgctxt "CREATURE:BARK_SCORPION"
@@ -11133,7 +11133,7 @@ msgstr "[STATE_NAME:ALL_SOLID:veleno di ragno recluso marrone ghiacciato]"
 #: creature_bug_slug_new.txt:1434
 msgctxt "CREATURE:SPIDER_BROWN_RECLUSE"
 msgid "[STATE_ADJ:ALL_SOLID:frozen brown recluse spider venom]"
-msgstr "[STATO_ADJ:ALL_SOLID:veleno di ragno recluso marrone ghiacciato]"
+msgstr "[STATE_ADJ:ALL_SOLID:veleno di ragno recluso marrone ghiacciato]"
 
 #: creature_bug_slug_new.txt:1435
 msgctxt "CREATURE:SPIDER_BROWN_RECLUSE"
@@ -11143,7 +11143,7 @@ msgstr "[STATE_NAME:LIQUID: veleno di ragno recluso marrone]"
 #: creature_bug_slug_new.txt:1436
 msgctxt "CREATURE:SPIDER_BROWN_RECLUSE"
 msgid "[STATE_ADJ:LIQUID:brown recluse spider venom]"
-msgstr "[STATO_ADJ:LIQUID: veleno di ragno recluso marrone]"
+msgstr "[STATE_ADJ:LIQUID: veleno di ragno recluso marrone]"
 
 #: creature_bug_slug_new.txt:1437
 msgctxt "CREATURE:SPIDER_BROWN_RECLUSE"
@@ -11542,12 +11542,12 @@ msgstr "[DESCRIPTION:Una piccola lucertola velenosa.]"
 #: creature_desert_new.txt:283
 msgctxt "CREATURE:GILA_MONSTER"
 msgid "[NAME:gila monster:gila monsters:gila monster]"
-msgstr "[NAME:mostro di gila:mostri di gila:mostro di gila]"
+msgstr "[NAME:lucertola perlinata:mostri di gila:lucertola perlinata]"
 
 #: creature_desert_new.txt:284
 msgctxt "CREATURE:GILA_MONSTER"
 msgid "[CASTE_NAME:gila monster:gila monsters:gila monster]"
-msgstr "[CASTE_NAME:mostro di gila:mostri di gila:mostro di gila]"
+msgstr "[CASTE_NAME:lucertola perlinata:mostri di gila:lucertola perlinata]"
 
 #: creature_desert_new.txt:285
 msgctxt "CREATURE:GILA_MONSTER"
@@ -11569,22 +11569,22 @@ msgstr "[PREFSTRING:colorazione]"
 #: creature_desert_new.txt:341
 msgctxt "CREATURE:GILA_MONSTER"
 msgid "[STATE_NAME:ALL_SOLID:frozen gila monster venom]"
-msgstr "[STATE_NAME:ALL_SOLID:veleno di mostro Gila ghiacciato]"
+msgstr "[STATE_NAME:ALL_SOLID:veleno di lucertola perlinata ghiacciato]"
 
 #: creature_desert_new.txt:342
 msgctxt "CREATURE:GILA_MONSTER"
 msgid "[STATE_ADJ:ALL_SOLID:frozen gila monster venom]"
-msgstr "[STATO_ADJ:ALL_SOLID:veleno di mostro Gila ghiacciato]"
+msgstr "[STATE_ADJ:ALL_SOLID:veleno di lucertola perlinata ghiacciato]"
 
 #: creature_desert_new.txt:343
 msgctxt "CREATURE:GILA_MONSTER"
 msgid "[STATE_NAME:LIQUID:gila monster venom]"
-msgstr "[STATE_NAME:LIQUID: veleno del mostro Gila]"
+msgstr "[STATE_NAME:LIQUID:veleno di lucertola perlinata]"
 
 #: creature_desert_new.txt:344
 msgctxt "CREATURE:GILA_MONSTER"
 msgid "[STATE_ADJ:LIQUID:gila monster venom]"
-msgstr "[STATO_ADJ:LIQUID: veleno del mostro Gila]"
+msgstr "[STATE_ADJ:LIQUID:veleno di lucertola perlinata]"
 
 #: creature_desert_new.txt:345
 msgctxt "CREATURE:GILA_MONSTER"
@@ -11637,21 +11637,22 @@ msgstr ""
 msgctxt "CREATURE:GILA_MONSTER_MAN"
 msgid "[CASTE_NAME:gila monster woman:gila monster women:gila monster woman]"
 msgstr ""
-"[CASTE_NAME:donna mostro di Gila: donna mostro di Gila: donna mostro di "
-"Gila]"
+"[CASTE_NAME:donna lucertola perlinata: donna lucertola perlinata: donna "
+"lucertola perlinata]"
 
 #: creature_desert_new.txt:426
 msgctxt "CREATURE:GILA_MONSTER_MAN"
 msgid "[NAME:gila monster man:gila monster men:gila monster man]"
-msgstr "[NAME:gila monster man:gila monster men:gila monster man]"
+msgstr ""
+"[NAME:uomo lucertola perlinata:uomini lucertola perlinata:uomo lucertola "
+"perlinata]"
 
 #: creature_desert_new.txt:427
 msgctxt "CREATURE:GILA_MONSTER_MAN"
 msgid ""
 "[DESCRIPTION:A venomous person with the head and tail of a gila monster.]"
 msgstr ""
-"[DESCRIPTION:Una persona velenosa con la testa e la coda di un mostro di "
-"Gila.]"
+"[DESCRIPTION:Una persona velenosa con testa e coda da lucertola perlinata.]"
 
 #: creature_desert_new.txt:438
 msgctxt "CREATURE:GIANT_GILA_MONSTER"
@@ -11667,14 +11668,15 @@ msgstr "[CVCT_REPLACEMENT:lucertola perlinata gigante]"
 msgctxt "CREATURE:GIANT_GILA_MONSTER"
 msgid "[NAME:giant gila monster:giant gila monsters:giant gila monster]"
 msgstr ""
-"[NAME:mostro gigante di Gila:mostro gigante di Gila:mostro gigante di Gila]"
+"[NAME:lucertola perlinata gigante:lucertole perlinate giganti:lucertola "
+"perlinata gigante]"
 
 #: creature_desert_new.txt:461
 msgctxt "CREATURE:GIANT_GILA_MONSTER"
 msgid "[CASTE_NAME:giant gila monster:giant gila monsters:giant gila monster]"
 msgstr ""
-"[CASTE_NAME:mostro gigante di Gila:mostro gigante di Gila:mostro gigante di "
-"Gila]"
+"[CASTE_NAME:lucertola perlinata gigante:lucertole perlinate "
+"giganti:lucertola perlinata gigante]"
 
 #: creature_desert_new.txt:462
 msgctxt "CREATURE:GIANT_GILA_MONSTER"
@@ -11688,7 +11690,7 @@ msgstr ""
 #: creature_desert_new.txt:463
 msgctxt "CREATURE:GIANT_GILA_MONSTER"
 msgid "[DESCRIPTION:A huge beast in the form of a gila monster.]"
-msgstr "[DESCRIPTION:Un'enorme bestia sotto forma di mostro di Gila.]"
+msgstr "[DESCRIPTION:Un'enorme bestia sotto forma di lucertola perlinata.]"
 
 #: creature_desert_new.txt:472
 msgctxt "CREATURE:GIANT_GILA_MONSTER"
@@ -12314,7 +12316,7 @@ msgstr "[CASTE_NAME:toro:tori:toro]"
 #: creature_domestic.txt:713
 msgctxt "CREATURE:COW"
 msgid "[CHILDNAME:bull calf:bull calves]"
-msgstr "[NAME BAMBINO:vitello toro: vitelli toro]"
+msgstr "[CHILDNAME:vitello di toro:vitelli di toro]"
 
 #: creature_domestic.txt:718
 msgctxt "CREATURE:COW"
@@ -12393,7 +12395,7 @@ msgstr "[ATTACK_VERB:incorni:incorna]"
 #: creature_domestic.txt:827
 msgctxt "CREATURE:SHEEP"
 msgid "[CASTE_NAME:ewe:ewes:ewe]"
-msgstr "[CASTE_NAME:pecora:pecora:pecora]"
+msgstr "[CASTE_NAME:pecora:pecore:pecora]"
 
 #: creature_domestic.txt:831
 msgctxt "CREATURE:SHEEP"
@@ -12468,7 +12470,7 @@ msgstr "[STATE_ADJ:GAS:formaggio di pecora in ebollizione]"
 #: creature_domestic.txt:850
 msgctxt "CREATURE:SHEEP"
 msgid "[CASTE_NAME:ram:rams:ram]"
-msgstr "[CASTE_NAME:ariete:ariete:ariete]"
+msgstr "[CASTE_NAME:sbatti:sbatte:sbatti]"
 
 #: creature_domestic.txt:856
 msgctxt "CREATURE:SHEEP"
@@ -14708,7 +14710,7 @@ msgstr "[STATE_NAME:ALL_SOLID:veleno d'api ghiacciato]"
 #: creature_insects.txt:779
 msgctxt "CREATURE:HONEY_BEE"
 msgid "[STATE_ADJ:ALL_SOLID:frozen honey bee venom]"
-msgstr "[STATO_ADJ:ALL_SOLID:veleno d'api ghiacciato]"
+msgstr "[STATE_ADJ:ALL_SOLID:veleno d'api ghiacciato]"
 
 #: creature_insects.txt:780
 msgctxt "CREATURE:HONEY_BEE"
@@ -14718,7 +14720,7 @@ msgstr "[STATE_NAME:LIQUID:veleno d'api]"
 #: creature_insects.txt:781
 msgctxt "CREATURE:HONEY_BEE"
 msgid "[STATE_ADJ:LIQUID:honey bee venom]"
-msgstr "[STATO_ADJ:LIQUID:veleno d'api]"
+msgstr "[STATE_ADJ:LIQUID:veleno d'api]"
 
 #: creature_insects.txt:782
 msgctxt "CREATURE:HONEY_BEE"
@@ -14779,7 +14781,7 @@ msgstr ""
 #: creature_insects.txt:842
 msgctxt "CREATURE:BUMBLEBEE"
 msgid "[NAME:bumblebee:bumblebees:bumblebee]"
-msgstr "[NAME:calabrone:bombi:calabrone]"
+msgstr "[NAME:bombo:bombi:bombo]"
 
 #: creature_insects.txt:851
 msgctxt "CREATURE:BUMBLEBEE"
@@ -14799,7 +14801,7 @@ msgstr "[STATE_NAME_ADJ:SOLID_PRESSED:torta di cera di bombo]"
 #: creature_insects.txt:864
 msgctxt "CREATURE:BUMBLEBEE"
 msgid "[STATE_NAME_ADJ:LIQUID:melted bumblebee wax]"
-msgstr "[STATE_NAME_ADJ:LIQUID: cera di calabrone fusa]"
+msgstr "[STATE_NAME_ADJ:LIQUID:cera di bombo fusa]"
 
 #: creature_insects.txt:865
 msgctxt "CREATURE:BUMBLEBEE"
@@ -14809,12 +14811,12 @@ msgstr "[STATE_NAME_ADJ:GAS:cera di bombo in ebollizione]"
 #: creature_insects.txt:871
 msgctxt "CREATURE:BUMBLEBEE"
 msgid "[STATE_NAME_ADJ:ALL_SOLID:frozen bumblebee royal jelly]"
-msgstr "[STATE_NAME_ADJ:ALL_SOLID: pappa reale di calabrone ghiacciata]"
+msgstr "[STATE_NAME_ADJ:ALL_SOLID:pappa reale di bombo ghiacciata]"
 
 #: creature_insects.txt:872
 msgctxt "CREATURE:BUMBLEBEE"
 msgid "[STATE_NAME_ADJ:LIQUID:bumblebee royal jelly]"
-msgstr "[STATE_NAME_ADJ:LIQUID: pappa reale di calabrone]"
+msgstr "[STATE_NAME_ADJ:LIQUID:pappa reale di bombo]"
 
 #: creature_insects.txt:873
 msgctxt "CREATURE:BUMBLEBEE"
@@ -14824,12 +14826,12 @@ msgstr "[STATE_NAME_ADJ:GAS:pappa reale di bombo in ebollizione]"
 #: creature_insects.txt:881
 msgctxt "CREATURE:BUMBLEBEE"
 msgid "[STATE_NAME_ADJ:ALL_SOLID:frozen bumblebee honey]"
-msgstr "[STATE_NAME_ADJ:ALL_SOLID:miele di calabrone ghiacciato]"
+msgstr "[STATE_NAME_ADJ:ALL_SOLID:miele di bombo ghiacciato]"
 
 #: creature_insects.txt:882
 msgctxt "CREATURE:BUMBLEBEE"
 msgid "[STATE_NAME_ADJ:LIQUID:bumblebee honey]"
-msgstr "[STATE_NAME_ADJ:LIQUID:miele di calabrone]"
+msgstr "[STATE_NAME_ADJ:LIQUID:miele di bombo]"
 
 #: creature_insects.txt:883
 msgctxt "CREATURE:BUMBLEBEE"
@@ -14854,22 +14856,22 @@ msgstr "[STATE_NAME_ADJ:GAS:idromele di bombo in ebollizione]"
 #: creature_insects.txt:897
 msgctxt "CREATURE:BUMBLEBEE"
 msgid "[STATE_NAME:ALL_SOLID:frozen bumblebee venom]"
-msgstr "[STATE_NAME:ALL_SOLID:veleno di calabrone ghiacciato]"
+msgstr "[STATE_NAME:ALL_SOLID:veleno di bombo ghiacciato]"
 
 #: creature_insects.txt:898
 msgctxt "CREATURE:BUMBLEBEE"
 msgid "[STATE_ADJ:ALL_SOLID:frozen bumblebee venom]"
-msgstr "[STATO_ADJ:ALL_SOLID:veleno di calabrone ghiacciato]"
+msgstr "[STATE_ADJ:ALL_SOLID:veleno di bombo ghiacciato]"
 
 #: creature_insects.txt:899
 msgctxt "CREATURE:BUMBLEBEE"
 msgid "[STATE_NAME:LIQUID:bumblebee venom]"
-msgstr "[STATE_NAME:LIQUID:veleno di calabrone]"
+msgstr "[STATE_NAME:LIQUID:veleno di bombo]"
 
 #: creature_insects.txt:900
 msgctxt "CREATURE:BUMBLEBEE"
 msgid "[STATE_ADJ:LIQUID:bumblebee venom]"
-msgstr "[STATO_ADJ:LIQUID:veleno di calabrone]"
+msgstr "[STATE_ADJ:LIQUID:veleno di bombo]"
 
 #: creature_insects.txt:901
 msgctxt "CREATURE:BUMBLEBEE"
@@ -14889,7 +14891,7 @@ msgstr "[SYN_NAME:puntura di bombo]"
 #: creature_insects.txt:928
 msgctxt "CREATURE:BUMBLEBEE"
 msgid "[CASTE_NAME:bumblebee worker:bumblebee workers:bumblebee worker]"
-msgstr "[CASTE_NAME:operaio calabrone:operaio calabrone:operaio calabrone]"
+msgstr "[CASTE_NAME:bombo operaio:bombi operai:bombo operaio]"
 
 #: creature_insects.txt:932
 msgctxt "CREATURE:BUMBLEBEE"
@@ -14899,13 +14901,12 @@ msgstr "[VERMIN_BITE:10:punto:]"
 #: creature_insects.txt:935
 msgctxt "CREATURE:BUMBLEBEE"
 msgid "[CASTE_NAME:bumblebee drone:bumblebee drones:bumblebee drone]"
-msgstr "[CASTE_NAME:drone calabrone:droni calabrone:drone calabrone]"
+msgstr "[CASTE_NAME:drone bombo:droni bombo:drone bombo]"
 
 #: creature_insects.txt:939
 msgctxt "CREATURE:BUMBLEBEE"
 msgid "[CASTE_NAME:bumblebee queen:bumblebee queens:bumblebee queen]"
-msgstr ""
-"[CASTE_NAME:regina dei calabroni:regina dei calabroni:regina dei calabroni]"
+msgstr "[CASTE_NAME:regina dei bombi:regine dei bombi:regina dei bombi]"
 
 #: creature_insects.txt:951
 msgctxt "CREATURE:BUMBLEBEE"
@@ -23771,7 +23772,7 @@ msgstr "[STATE_NAME:ALL_SOLID:veleno di serpente con elmo ghiacciato]"
 #: creature_next_underground.txt:908
 msgctxt "CREATURE:HELMET_SNAKE"
 msgid "[STATE_ADJ:ALL_SOLID:frozen helmet snake venom]"
-msgstr "[STATO_ADJ:ALL_SOLID:veleno di serpente con elmo ghiacciato]"
+msgstr "[STATE_ADJ:ALL_SOLID:veleno di serpente con elmo ghiacciato]"
 
 #: creature_next_underground.txt:909
 msgctxt "CREATURE:HELMET_SNAKE"
@@ -23781,7 +23782,7 @@ msgstr "[STATE_NAME:LIQUID:veleno di serpente con elmo]"
 #: creature_next_underground.txt:910
 msgctxt "CREATURE:HELMET_SNAKE"
 msgid "[STATE_ADJ:LIQUID:helmet snake venom]"
-msgstr "[STATO_ADJ:LIQUID:veleno di serpente con elmo]"
+msgstr "[STATE_ADJ:LIQUID:veleno di serpente con elmo]"
 
 #: creature_next_underground.txt:911
 msgctxt "CREATURE:HELMET_SNAKE"
@@ -24050,7 +24051,7 @@ msgstr "[STATE_NAME:ALL_SOLID:sangue corrotto ghiacciato]"
 #: creature_next_underground.txt:1346
 msgctxt "CREATURE:BLOOD_MAN"
 msgid "[STATE_ADJ:ALL_SOLID:frozen corrupted blood]"
-msgstr "[STATO_ADJ:ALL_SOLID:sangue corrotto ghiacciato]"
+msgstr "[STATE_ADJ:ALL_SOLID:sangue corrotto ghiacciato]"
 
 #: creature_next_underground.txt:1347
 msgctxt "CREATURE:BLOOD_MAN"
@@ -24060,7 +24061,7 @@ msgstr "[STATE_NAME:LIQUID:sangue corrotto]"
 #: creature_next_underground.txt:1348
 msgctxt "CREATURE:BLOOD_MAN"
 msgid "[STATE_ADJ:LIQUID:corrupted blood]"
-msgstr "[STATO_ADJ:LIQUID:sangue corrotto]"
+msgstr "[STATE_ADJ:LIQUID:sangue corrotto]"
 
 #: creature_next_underground.txt:1349
 msgctxt "CREATURE:BLOOD_MAN"
@@ -24669,7 +24670,7 @@ msgstr "[STATE_NAME:ALL_SOLID:succo galleggiante di grotta ghiacciato]"
 #: creature_next_underground.txt:2340
 msgctxt "CREATURE:CAVE_FLOATER"
 msgid "[STATE_ADJ:ALL_SOLID:frozen cave floater juice]"
-msgstr "[STATO_ADJ:ALL_SOLID:succo galleggiante di grotta ghiacciato]"
+msgstr "[STATE_ADJ:ALL_SOLID:succo galleggiante di grotta ghiacciato]"
 
 #: creature_next_underground.txt:2341
 msgctxt "CREATURE:CAVE_FLOATER"
@@ -24679,7 +24680,7 @@ msgstr "[STATE_NAME:LIQUID:succo galleggiante di grotta]"
 #: creature_next_underground.txt:2342
 msgctxt "CREATURE:CAVE_FLOATER"
 msgid "[STATE_ADJ:LIQUID:cave floater juice]"
-msgstr "[STATO_ADJ:LIQUID:succo galleggiante di grotta]"
+msgstr "[STATE_ADJ:LIQUID:succo galleggiante di grotta]"
 
 #: creature_next_underground.txt:2343
 msgctxt "CREATURE:CAVE_FLOATER"
@@ -24956,7 +24957,7 @@ msgstr "[STATE_NAME:ALL_SOLID: inchiostro di polpo ghiacciato]"
 #: creature_ocean_new.txt:54
 msgctxt "CREATURE:OCTOPUS"
 msgid "[STATE_ADJ:ALL_SOLID:frozen octopus ink]"
-msgstr "[STATO_ADJ:ALL_SOLID: inchiostro di polpo ghiacciato]"
+msgstr "[STATE_ADJ:ALL_SOLID: inchiostro di polpo ghiacciato]"
 
 #: creature_ocean_new.txt:55
 msgctxt "CREATURE:OCTOPUS"
@@ -24966,7 +24967,7 @@ msgstr "[STATE_NAME:LIQUID: inchiostro di polpo]"
 #: creature_ocean_new.txt:56
 msgctxt "CREATURE:OCTOPUS"
 msgid "[STATE_ADJ:LIQUID:octopus ink]"
-msgstr "[STATO_ADJ:LIQUID: inchiostro di polpo]"
+msgstr "[STATE_ADJ:LIQUID: inchiostro di polpo]"
 
 #: creature_ocean_new.txt:57
 msgctxt "CREATURE:OCTOPUS"
@@ -25288,7 +25289,7 @@ msgstr "[STATE_NAME:ALL_SOLID:inchiostro di seppia ghiacciato]"
 #: creature_ocean_new.txt:461
 msgctxt "CREATURE:CUTTLEFISH"
 msgid "[STATE_ADJ:ALL_SOLID:frozen cuttlefish ink]"
-msgstr "[STATO_ADJ:ALL_SOLID:inchiostro di seppia ghiacciato]"
+msgstr "[STATE_ADJ:ALL_SOLID:inchiostro di seppia ghiacciato]"
 
 #: creature_ocean_new.txt:462
 msgctxt "CREATURE:CUTTLEFISH"
@@ -25298,7 +25299,7 @@ msgstr "[STATE_NAME:LIQUID:inchiostro di seppia]"
 #: creature_ocean_new.txt:463
 msgctxt "CREATURE:CUTTLEFISH"
 msgid "[STATE_ADJ:LIQUID:cuttlefish ink]"
-msgstr "[STATO_ADJ:LIQUID:inchiostro di seppia]"
+msgstr "[STATE_ADJ:LIQUID:inchiostro di seppia]"
 
 #: creature_ocean_new.txt:464
 msgctxt "CREATURE:CUTTLEFISH"
@@ -26122,7 +26123,7 @@ msgstr "[STATE_NAME:ALL_SOLID:succo di mog ghiacciato]"
 #: creature_other.txt:119
 msgctxt "CREATURE:MOGHOPPER"
 msgid "[STATE_ADJ:ALL_SOLID:frozen mog juice]"
-msgstr "[STATO_ADJ:ALL_SOLID:succo di mog ghiacciato]"
+msgstr "[STATE_ADJ:ALL_SOLID:succo di mog ghiacciato]"
 
 #: creature_other.txt:120
 msgctxt "CREATURE:MOGHOPPER"
@@ -26132,7 +26133,7 @@ msgstr "[STATE_NAME:LIQUID: succo di mog]"
 #: creature_other.txt:121
 msgctxt "CREATURE:MOGHOPPER"
 msgid "[STATE_ADJ:LIQUID:mog juice]"
-msgstr "[STATO_ADJ:LIQUID: succo di mog]"
+msgstr "[STATE_ADJ:LIQUID: succo di mog]"
 
 #: creature_other.txt:122
 msgctxt "CREATURE:MOGHOPPER"
@@ -29372,7 +29373,7 @@ msgstr "[STATE_NAME:ALL_SOLID: nero di seppia ghiacciato]"
 #: creature_small_ocean.txt:1470
 msgctxt "CREATURE:SQUID"
 msgid "[STATE_ADJ:ALL_SOLID:frozen squid ink]"
-msgstr "[STATO_ADJ:ALL_SOLID: nero di seppia ghiacciato]"
+msgstr "[STATE_ADJ:ALL_SOLID: nero di seppia ghiacciato]"
 
 #: creature_small_ocean.txt:1471
 msgctxt "CREATURE:SQUID"
@@ -29382,7 +29383,7 @@ msgstr "[STATE_NAME:LIQUID: nero di seppia]"
 #: creature_small_ocean.txt:1472
 msgctxt "CREATURE:SQUID"
 msgid "[STATE_ADJ:LIQUID:squid ink]"
-msgstr "[STATO_ADJ:LIQUID: nero di seppia]"
+msgstr "[STATE_ADJ:LIQUID: nero di seppia]"
 
 #: creature_small_ocean.txt:1473
 msgctxt "CREATURE:SQUID"
@@ -29990,7 +29991,7 @@ msgstr "[GENERAL_CHILD_NAME:bambino nano:bambini nani]"
 #: creature_standard.txt:265
 msgctxt "CREATURE:DWARF"
 msgid "[CHILDNAME:dwarven child:dwarven children]"
-msgstr "[NAME BAMBINO:bambino nano:bambini nani]"
+msgstr "[CHILDNAME:bambino nanico:bambini nanici]"
 
 #: creature_standard.txt:274
 msgctxt "CREATURE:DWARF"
@@ -33889,7 +33890,7 @@ msgstr ""
 msgctxt "CREATURE:SPIDER_CAVE_GIANT"
 msgid "[STATE_ADJ:ALL_SOLID:frozen giant cave spider venom]"
 msgstr ""
-"[STATO_ADJ:ALL_SOLID:veleno di ragno gigante delle caverne ghiacciato]"
+"[STATE_ADJ:ALL_SOLID:veleno di ragno gigante delle caverne ghiacciato]"
 
 #: creature_subterranean.txt:1065
 msgctxt "CREATURE:SPIDER_CAVE_GIANT"
@@ -33899,7 +33900,7 @@ msgstr "[STATE_NAME:LIQUID:veleno di ragno gigante delle caverne]"
 #: creature_subterranean.txt:1066
 msgctxt "CREATURE:SPIDER_CAVE_GIANT"
 msgid "[STATE_ADJ:LIQUID:giant cave spider venom]"
-msgstr "[STATO_ADJ:LIQUID:veleno di ragno gigante delle caverne]"
+msgstr "[STATE_ADJ:LIQUID:veleno di ragno gigante delle caverne]"
 
 #: creature_subterranean.txt:1067
 msgctxt "CREATURE:SPIDER_CAVE_GIANT"
@@ -33961,7 +33962,7 @@ msgstr "[STATE_NAME:ALL_SOLID:veleno di ragno delle caverne ghiacciato]"
 #: creature_subterranean.txt:1136
 msgctxt "CREATURE:SPIDER_CAVE"
 msgid "[STATE_ADJ:ALL_SOLID:frozen cave spider venom]"
-msgstr "[STATO_ADJ:ALL_SOLID:veleno di ragno delle caverne ghiacciato]"
+msgstr "[STATE_ADJ:ALL_SOLID:veleno di ragno delle caverne ghiacciato]"
 
 #: creature_subterranean.txt:1137
 msgctxt "CREATURE:SPIDER_CAVE"
@@ -33971,7 +33972,7 @@ msgstr "[STATE_NAME:LIQUID:veleno di ragno delle caverne]"
 #: creature_subterranean.txt:1138
 msgctxt "CREATURE:SPIDER_CAVE"
 msgid "[STATE_ADJ:LIQUID:cave spider venom]"
-msgstr "[STATO_ADJ:LIQUID:veleno di ragno delle caverne]"
+msgstr "[STATE_ADJ:LIQUID:veleno di ragno delle caverne]"
 
 #: creature_subterranean.txt:1139
 msgctxt "CREATURE:SPIDER_CAVE"
@@ -34871,7 +34872,7 @@ msgstr "[STATE_NAME:ALL_SOLID:veleno di uomo serpente ghiacciato]"
 #: creature_subterranean.txt:2465
 msgctxt "CREATURE:SERPENT_MAN"
 msgid "[STATE_ADJ:ALL_SOLID:frozen serpent man venom]"
-msgstr "[STATO_ADJ:ALL_SOLID:veleno di uomo serpente ghiacciato]"
+msgstr "[STATE_ADJ:ALL_SOLID:veleno di uomo serpente ghiacciato]"
 
 #: creature_subterranean.txt:2466
 msgctxt "CREATURE:SERPENT_MAN"
@@ -34881,7 +34882,7 @@ msgstr "[STATE_NAME:LIQUID:veleno dell'uomo serpente]"
 #: creature_subterranean.txt:2467
 msgctxt "CREATURE:SERPENT_MAN"
 msgid "[STATE_ADJ:LIQUID:serpent man venom]"
-msgstr "[STATO_ADJ:LIQUID:veleno dell'uomo serpente]"
+msgstr "[STATE_ADJ:LIQUID:veleno dell'uomo serpente]"
 
 #: creature_subterranean.txt:2468
 msgctxt "CREATURE:SERPENT_MAN"
@@ -35603,12 +35604,12 @@ msgstr ""
 #: creature_temperate_new.txt:691
 msgctxt "CREATURE:ADDER"
 msgid "[NAME:adder:adders:adder]"
-msgstr "[NAME:adder:adders:adder]"
+msgstr "[NAME:marasso:marassi:marasso]"
 
 #: creature_temperate_new.txt:692
 msgctxt "CREATURE:ADDER"
 msgid "[CASTE_NAME:adder:adders:adder]"
-msgstr "[CASTE_NAME:adder:adders:adder]"
+msgstr "[CASTE_NAME:marasso:marassi:marasso]"
 
 #: creature_temperate_new.txt:708
 msgctxt "CREATURE:ADDER"
@@ -35618,22 +35619,22 @@ msgstr "[PREFSTRING:sibili di avvertimento]"
 #: creature_temperate_new.txt:739
 msgctxt "CREATURE:ADDER"
 msgid "[STATE_NAME:ALL_SOLID:frozen adder venom]"
-msgstr "[STATE_NAME:ALL_SOLID:veleno di vipera ghiacciato]"
+msgstr "[STATE_NAME:ALL_SOLID:veleno di marasso ghiacciato]"
 
 #: creature_temperate_new.txt:740
 msgctxt "CREATURE:ADDER"
 msgid "[STATE_ADJ:ALL_SOLID:frozen adder venom]"
-msgstr "[STATO_ADJ:ALL_SOLID:veleno di vipera ghiacciato]"
+msgstr "[STATE_ADJ:ALL_SOLID:veleno di marasso ghiacciato]"
 
 #: creature_temperate_new.txt:741
 msgctxt "CREATURE:ADDER"
 msgid "[STATE_NAME:LIQUID:adder venom]"
-msgstr "[STATE_NAME:LIQUID:veleno di vipera]"
+msgstr "[STATE_NAME:LIQUID:veleno di marasso]"
 
 #: creature_temperate_new.txt:742
 msgctxt "CREATURE:ADDER"
 msgid "[STATE_ADJ:LIQUID:adder venom]"
-msgstr "[STATO_ADJ:LIQUID:veleno di vipera]"
+msgstr "[STATE_ADJ:LIQUID:veleno di marasso]"
 
 #: creature_temperate_new.txt:743
 msgctxt "CREATURE:ADDER"
@@ -35648,7 +35649,7 @@ msgstr "[STATE_ADJ:GAS:veleno di marasso in ebollizione]"
 #: creature_temperate_new.txt:748
 msgctxt "CREATURE:ADDER"
 msgid "[SYN_NAME:adder bite]"
-msgstr "[SYN_NAME:morso di vipera]"
+msgstr "[SYN_NAME:morso di marasso]"
 
 #: creature_temperate_new.txt:763
 msgctxt "CREATURE:ADDER"
@@ -35668,57 +35669,57 @@ msgstr "[TLCM_NOUN:occhi:PLURAL]"
 #: creature_temperate_new.txt:802
 msgctxt "CREATURE:ADDER_MAN"
 msgid "[CVCT_TARGET:adder]"
-msgstr "[CVCT_TARGET:sommatore]"
+msgstr "[CVCT_TARGET:marasso]"
 
 #: creature_temperate_new.txt:803
 msgctxt "CREATURE:ADDER_MAN"
 msgid "[CVCT_REPLACEMENT:adder man]"
-msgstr "[CVCT_REPLACEMENT:vipera]"
+msgstr "[CVCT_REPLACEMENT:uomo marasso]"
 
 #: creature_temperate_new.txt:820
 msgctxt "CREATURE:ADDER_MAN"
 msgid "[CASTE_NAME:adder man:adder men:adder man]"
-msgstr "[CASTE_NAME:uomo vipera:uomo vipera:uomo vipera]"
+msgstr "[CASTE_NAME:uomo marasso:uomo marasso:uomo marasso]"
 
 #: creature_temperate_new.txt:822
 msgctxt "CREATURE:ADDER_MAN"
 msgid "[CASTE_NAME:adder woman:adder women:adder woman]"
-msgstr "[NOME_CASTE:donna vipera:donne vipera:donna vipera]"
+msgstr "[NOME_CASTE:donna marasso:donne marasso:donna marasso]"
 
 #: creature_temperate_new.txt:831
 msgctxt "CREATURE:ADDER_MAN"
 msgid "[NAME:adder man:adder men:adder man]"
-msgstr "[NOME:uomo vipera:uomini vipera:uomo vipera]"
+msgstr "[NOME:uomo marasso:uomini marasso:uomo marasso]"
 
 #: creature_temperate_new.txt:832
 msgctxt "CREATURE:ADDER_MAN"
 msgid "[DESCRIPTION:A large adder with the torso and arms of a man.]"
-msgstr "[DESCRIPTION:Una grande vipera con il torso e le braccia di un uomo.]"
+msgstr "[DESCRIPTION:Una grande marasso con torso e braccia da uomo.]"
 
 #: creature_temperate_new.txt:843
 msgctxt "CREATURE:GIANT_ADDER"
 msgid "[CVCT_TARGET:adder]"
-msgstr "[CVCT_TARGET:sommatore]"
+msgstr "[CVCT_TARGET:marasso]"
 
 #: creature_temperate_new.txt:844
 msgctxt "CREATURE:GIANT_ADDER"
 msgid "[CVCT_REPLACEMENT:giant adder]"
-msgstr "[CVCT_REPLACEMENT:vipera gigante]"
+msgstr "[CVCT_REPLACEMENT:marasso gigante]"
 
 #: creature_temperate_new.txt:865
 msgctxt "CREATURE:GIANT_ADDER"
 msgid "[NAME:giant adder:giant adders:giant adder]"
-msgstr "[NAME:vipera gigante:vipera gigante:vipera gigante]"
+msgstr "[NAME:marasso gigante:marassi giganti:marasso gigante]"
 
 #: creature_temperate_new.txt:866
 msgctxt "CREATURE:GIANT_ADDER"
 msgid "[CASTE_NAME:giant adder:giant adders:giant adder]"
-msgstr "[CASTE_NAME:vipera gigante:vipera gigante:vipera gigante]"
+msgstr "[CASTE_NAME:marasso gigante:marassi giganti:marasso gigante]"
 
 #: creature_temperate_new.txt:867
 msgctxt "CREATURE:GIANT_ADDER"
 msgid "[DESCRIPTION:A large monster in the form of an adder.]"
-msgstr "[DESCRIZIONE:Un grande mostro sotto forma di vipera.]"
+msgstr "[DESCRIZIONE:Un grande mostro sotto forma di marasso.]"
 
 #: creature_temperate_new.txt:876
 msgctxt "CREATURE:GIANT_ADDER"
@@ -36600,7 +36601,7 @@ msgstr "[STATE_NAME:ALL_SOLID:veleno di serpente a sonagli ghiacciato]"
 #: creature_temperate_new.txt:2140
 msgctxt "CREATURE:RATTLESNAKE"
 msgid "[STATE_ADJ:ALL_SOLID:frozen rattlesnake venom]"
-msgstr "[STATO_ADJ:ALL_SOLID:veleno di serpente a sonagli ghiacciato]"
+msgstr "[STATE_ADJ:ALL_SOLID:veleno di serpente a sonagli ghiacciato]"
 
 #: creature_temperate_new.txt:2141
 msgctxt "CREATURE:RATTLESNAKE"
@@ -36610,7 +36611,7 @@ msgstr "[STATE_NAME:LIQUID:veleno di serpente a sonagli]"
 #: creature_temperate_new.txt:2142
 msgctxt "CREATURE:RATTLESNAKE"
 msgid "[STATE_ADJ:LIQUID:rattlesnake venom]"
-msgstr "[STATO_ADJ:LIQUID:veleno di serpente a sonagli]"
+msgstr "[STATE_ADJ:LIQUID:veleno di serpente a sonagli]"
 
 #: creature_temperate_new.txt:2143
 msgctxt "CREATURE:RATTLESNAKE"
@@ -36858,7 +36859,7 @@ msgstr "[STATE_NAME:ALL_SOLID:veleno di serpente testa di rame ghiacciato]"
 #: creature_temperate_new.txt:2483
 msgctxt "CREATURE:COPPERHEAD_SNAKE"
 msgid "[STATE_ADJ:ALL_SOLID:frozen copperhead snake venom]"
-msgstr "[STATO_ADJ:ALL_SOLID:veleno di serpente testa di rame ghiacciato]"
+msgstr "[STATE_ADJ:ALL_SOLID:veleno di serpente testa di rame ghiacciato]"
 
 #: creature_temperate_new.txt:2484
 msgctxt "CREATURE:COPPERHEAD_SNAKE"
@@ -36868,7 +36869,7 @@ msgstr "[STATE_NAME:LIQUID:veleno di serpente ramato]"
 #: creature_temperate_new.txt:2485
 msgctxt "CREATURE:COPPERHEAD_SNAKE"
 msgid "[STATE_ADJ:LIQUID:copperhead snake venom]"
-msgstr "[STATO_ADJ:LIQUID:veleno di serpente ramato]"
+msgstr "[STATE_ADJ:LIQUID:veleno di serpente ramato]"
 
 #: creature_temperate_new.txt:2486
 msgctxt "CREATURE:COPPERHEAD_SNAKE"
@@ -37906,7 +37907,7 @@ msgstr "[STATE_NAME:ALL_SOLID: veleno di cobra reale ghiacciato]"
 #: creature_tropical_new.txt:652
 msgctxt "CREATURE:KING_COBRA"
 msgid "[STATE_ADJ:ALL_SOLID:frozen king cobra venom]"
-msgstr "[STATO_ADJ:ALL_SOLID: veleno di cobra reale ghiacciato]"
+msgstr "[STATE_ADJ:ALL_SOLID: veleno di cobra reale ghiacciato]"
 
 #: creature_tropical_new.txt:653
 msgctxt "CREATURE:KING_COBRA"
@@ -37916,7 +37917,7 @@ msgstr "[STATE_NAME:LIQUID: veleno del cobra reale]"
 #: creature_tropical_new.txt:654
 msgctxt "CREATURE:KING_COBRA"
 msgid "[STATE_ADJ:LIQUID:king cobra venom]"
-msgstr "[STATO_ADJ:LIQUID: veleno del cobra reale]"
+msgstr "[STATE_ADJ:LIQUID: veleno del cobra reale]"
 
 #: creature_tropical_new.txt:655
 msgctxt "CREATURE:KING_COBRA"
@@ -38660,7 +38661,7 @@ msgstr "[STATE_NAME:ALL_SOLID:veleno di mamba nero ghiacciato]"
 #: creature_tropical_new.txt:1764
 msgctxt "CREATURE:BLACK_MAMBA"
 msgid "[STATE_ADJ:ALL_SOLID:frozen black mamba venom]"
-msgstr "[STATO_ADJ:ALL_SOLID:veleno di mamba nero ghiacciato]"
+msgstr "[STATE_ADJ:ALL_SOLID:veleno di mamba nero ghiacciato]"
 
 #: creature_tropical_new.txt:1765
 msgctxt "CREATURE:BLACK_MAMBA"
@@ -38670,7 +38671,7 @@ msgstr "[STATE_NAME:LIQUID:veleno di mamba nero]"
 #: creature_tropical_new.txt:1766
 msgctxt "CREATURE:BLACK_MAMBA"
 msgid "[STATE_ADJ:LIQUID:black mamba venom]"
-msgstr "[STATO_ADJ:LIQUID:veleno di mamba nero]"
+msgstr "[STATE_ADJ:LIQUID:veleno di mamba nero]"
 
 #: creature_tropical_new.txt:1767
 msgctxt "CREATURE:BLACK_MAMBA"
@@ -41678,7 +41679,7 @@ msgstr "[NAME:wheelbarrow:wheelbarrows]"
 #: item_tool.txt:226
 msgctxt "ITEM_TOOL:ITEM_TOOL_STEPLADDER"
 msgid "[NAME:stepladder:stepladders]"
-msgstr "[NAME:stepladder:stepladders]"
+msgstr "[NAME:scaletta:scalette]"
 
 #: item_tool.txt:237
 msgctxt "ITEM_TOOL:ITEM_TOOL_SCROLL_ROLLERS"
@@ -44008,7 +44009,7 @@ msgstr "[STATE_NAME:LIQUID: metallo fuso]"
 #: material_template_default.txt:69
 msgctxt "MATERIAL_TEMPLATE:METAL_TEMPLATE"
 msgid "[STATE_ADJ:LIQUID:molten metal]"
-msgstr "[STATO_ADJ:LIQUID: metallo fuso]"
+msgstr "[STATE_ADJ:LIQUID: metallo fuso]"
 
 #: material_template_default.txt:71
 msgctxt "MATERIAL_TEMPLATE:METAL_TEMPLATE"
@@ -44058,7 +44059,7 @@ msgstr "[STATE_NAME:LIQUID:grasso]"
 #: material_template_default.txt:213
 msgctxt "MATERIAL_TEMPLATE:FAT_TEMPLATE"
 msgid "[STATE_ADJ:LIQUID:greasy]"
-msgstr "[STATO_ADJ:LIQUID:grasso]"
+msgstr "[STATE_ADJ:LIQUID:grasso]"
 
 #: material_template_default.txt:260
 msgctxt "MATERIAL_TEMPLATE:MUSCLE_TEMPLATE"
@@ -44408,7 +44409,7 @@ msgstr "[STATE_NAME:ALL_SOLID:sangue ghiacciato]"
 #: material_template_default.txt:1571
 msgctxt "MATERIAL_TEMPLATE:BLOOD_TEMPLATE"
 msgid "[STATE_ADJ:ALL_SOLID:frozen blood]"
-msgstr "[STATO_ADJ:ALL_SOLID:sangue ghiacciato]"
+msgstr "[STATE_ADJ:ALL_SOLID:sangue ghiacciato]"
 
 #: material_template_default.txt:1573
 msgctxt "MATERIAL_TEMPLATE:BLOOD_TEMPLATE"
@@ -44418,7 +44419,7 @@ msgstr "[STATE_NAME:LIQUID:sangue]"
 #: material_template_default.txt:1574
 msgctxt "MATERIAL_TEMPLATE:BLOOD_TEMPLATE"
 msgid "[STATE_ADJ:LIQUID:blood]"
-msgstr "[STATO_ADJ:LIQUID:sangue]"
+msgstr "[STATE_ADJ:LIQUID:sangue]"
 
 #: material_template_default.txt:1576
 msgctxt "MATERIAL_TEMPLATE:BLOOD_TEMPLATE"
@@ -44448,7 +44449,7 @@ msgstr "[STATE_NAME:LIQUID:icore]"
 #: material_template_default.txt:1620
 msgctxt "MATERIAL_TEMPLATE:ICHOR_TEMPLATE"
 msgid "[STATE_ADJ:LIQUID:ichor]"
-msgstr "[STATO_ADJ:LIQUID:icore]"
+msgstr "[STATE_ADJ:LIQUID:icore]"
 
 #: material_template_default.txt:1622
 msgctxt "MATERIAL_TEMPLATE:ICHOR_TEMPLATE"
@@ -44468,7 +44469,7 @@ msgstr "[STATE_NAME:ALL_SOLID: sostanza ghiacciata]"
 #: material_template_default.txt:1663
 msgctxt "MATERIAL_TEMPLATE:GOO_TEMPLATE"
 msgid "[STATE_ADJ:ALL_SOLID:frozen goo]"
-msgstr "[STATO_ADJ:ALL_SOLID: sostanza ghiacciata]"
+msgstr "[STATE_ADJ:ALL_SOLID:viscidume ghiacciato]"
 
 #: material_template_default.txt:1665
 msgctxt "MATERIAL_TEMPLATE:GOO_TEMPLATE"
@@ -44478,7 +44479,7 @@ msgstr "[STATE_NAME:LIQUID:va bene]"
 #: material_template_default.txt:1666
 msgctxt "MATERIAL_TEMPLATE:GOO_TEMPLATE"
 msgid "[STATE_ADJ:LIQUID:goo]"
-msgstr "[STATO_ADJ:LIQUID:va bene]"
+msgstr "[STATE_ADJ:LIQUID:viscidume]"
 
 #: material_template_default.txt:1668
 msgctxt "MATERIAL_TEMPLATE:GOO_TEMPLATE"
@@ -44498,7 +44499,7 @@ msgstr "[STATE_NAME:ALL_SOLID:melma ghiacciata]"
 #: material_template_default.txt:1709
 msgctxt "MATERIAL_TEMPLATE:SLIME_TEMPLATE"
 msgid "[STATE_ADJ:ALL_SOLID:frozen slime]"
-msgstr "[STATO_ADJ:ALL_SOLID:melma ghiacciata]"
+msgstr "[STATE_ADJ:ALL_SOLID:melma ghiacciata]"
 
 #: material_template_default.txt:1711
 msgctxt "MATERIAL_TEMPLATE:SLIME_TEMPLATE"
@@ -44508,7 +44509,7 @@ msgstr "[STATE_NAME:LIQUID:melma]"
 #: material_template_default.txt:1712
 msgctxt "MATERIAL_TEMPLATE:SLIME_TEMPLATE"
 msgid "[STATE_ADJ:LIQUID:slime]"
-msgstr "[STATO_ADJ:LIQUID:melma]"
+msgstr "[STATE_ADJ:LIQUID:melma]"
 
 #: material_template_default.txt:1714
 msgctxt "MATERIAL_TEMPLATE:SLIME_TEMPLATE"
@@ -44528,7 +44529,7 @@ msgstr "[STATE_NAME:ALL_SOLID:pus ghiacciato]"
 #: material_template_default.txt:1754
 msgctxt "MATERIAL_TEMPLATE:PUS_TEMPLATE"
 msgid "[STATE_ADJ:ALL_SOLID:frozen pus]"
-msgstr "[STATO_ADJ:ALL_SOLID:pus ghiacciato]"
+msgstr "[STATE_ADJ:ALL_SOLID:pus ghiacciato]"
 
 #: material_template_default.txt:1756
 msgctxt "MATERIAL_TEMPLATE:PUS_TEMPLATE"
@@ -44538,7 +44539,7 @@ msgstr "[STATE_NAME:LIQUID:pus]"
 #: material_template_default.txt:1757
 msgctxt "MATERIAL_TEMPLATE:PUS_TEMPLATE"
 msgid "[STATE_ADJ:LIQUID:pus]"
-msgstr "[STATO_ADJ:LIQUID:pus]"
+msgstr "[STATE_ADJ:LIQUID:pus]"
 
 #: material_template_default.txt:1759
 msgctxt "MATERIAL_TEMPLATE:PUS_TEMPLATE"
@@ -44593,12 +44594,12 @@ msgstr "[STATE_ADJ:ALL_SOLID:sego]"
 #: material_template_default.txt:1895
 msgctxt "MATERIAL_TEMPLATE:TALLOW_TEMPLATE"
 msgid "[STATE_NAME:LIQUID:melted tallow]"
-msgstr "[STATE_NAME:LIQUID: sego fuso]"
+msgstr "[STATE_NAME:LIQUID:sego fuso]"
 
 #: material_template_default.txt:1896
 msgctxt "MATERIAL_TEMPLATE:TALLOW_TEMPLATE"
 msgid "[STATE_ADJ:LIQUID:melted tallow]"
-msgstr "[STATO_ADJ:LIQUID: sego fuso]"
+msgstr "[STATE_ADJ:LIQUID:sego fuso]"
 
 #: material_template_default.txt:1942
 msgctxt "MATERIAL_TEMPLATE:CHITIN_TEMPLATE"
@@ -44648,7 +44649,7 @@ msgstr "[STATE_NAME:LIQUID:formaggio fuso]"
 #: material_template_default.txt:2042
 msgctxt "MATERIAL_TEMPLATE:CREATURE_CHEESE_TEMPLATE"
 msgid "[STATE_ADJ:LIQUID:melted cheesy]"
-msgstr "[STATO_ADJ:LIQUID: formaggio fuso]"
+msgstr "[STATE_ADJ:LIQUID:formaggio fuso]"
 
 #: material_template_default.txt:2088
 msgctxt "MATERIAL_TEMPLATE:STRUCTURAL_PLANT_TEMPLATE"
@@ -45083,7 +45084,7 @@ msgstr "[STATE_NAME:ALL_SOLID:albume d'uovo ghiacciato]"
 #: material_template_default.txt:2744
 msgctxt "MATERIAL_TEMPLATE:EGG_WHITE_TEMPLATE"
 msgid "[STATE_ADJ:ALL_SOLID:frozen egg white]"
-msgstr "[STATO_ADJ:ALL_SOLID:albume d'uovo ghiacciato]"
+msgstr "[STATE_ADJ:ALL_SOLID:albume d'uovo ghiacciato]"
 
 #: material_template_default.txt:2746
 msgctxt "MATERIAL_TEMPLATE:EGG_WHITE_TEMPLATE"
@@ -45093,7 +45094,7 @@ msgstr "[STATE_NAME:LIQUID:albume]"
 #: material_template_default.txt:2747
 msgctxt "MATERIAL_TEMPLATE:EGG_WHITE_TEMPLATE"
 msgid "[STATE_ADJ:LIQUID:egg white]"
-msgstr "[STATO_ADJ:LIQUID:albume]"
+msgstr "[STATE_ADJ:LIQUID:albume]"
 
 #: material_template_default.txt:2749
 msgctxt "MATERIAL_TEMPLATE:EGG_WHITE_TEMPLATE"
@@ -45113,7 +45114,7 @@ msgstr "[STATE_NAME:ALL_SOLID: tuorlo d'uovo ghiacciato]"
 #: material_template_default.txt:2791
 msgctxt "MATERIAL_TEMPLATE:EGG_YOLK_TEMPLATE"
 msgid "[STATE_ADJ:ALL_SOLID:frozen egg yolk]"
-msgstr "[STATO_ADJ:ALL_SOLID:tuorlo d'uovo ghiacciato]"
+msgstr "[STATE_ADJ:ALL_SOLID:tuorlo d'uovo ghiacciato]"
 
 #: material_template_default.txt:2793
 msgctxt "MATERIAL_TEMPLATE:EGG_YOLK_TEMPLATE"
@@ -45123,7 +45124,7 @@ msgstr "[STATE_NAME:LIQUID:tuorlo d'uovo]"
 #: material_template_default.txt:2794
 msgctxt "MATERIAL_TEMPLATE:EGG_YOLK_TEMPLATE"
 msgid "[STATE_ADJ:LIQUID:egg yolk]"
-msgstr "[STATO_ADJ:LIQUID:tuorlo d'uovo]"
+msgstr "[STATE_ADJ:LIQUID:tuorlo d'uovo]"
 
 #: material_template_default.txt:2796
 msgctxt "MATERIAL_TEMPLATE:EGG_YOLK_TEMPLATE"
@@ -45143,7 +45144,7 @@ msgstr "[STATE_NAME:ALL_SOLID:frozen vegetable oil]"
 #: material_template_default.txt:2838
 msgctxt "MATERIAL_TEMPLATE:PLANT_OIL_TEMPLATE"
 msgid "[STATE_ADJ:ALL_SOLID:frozen vegetable oil]"
-msgstr "[STATO_ADJ:ALL_SOLID:olio vegetale ghiacciato]"
+msgstr "[STATE_ADJ:ALL_SOLID:olio vegetale ghiacciato]"
 
 #: material_template_default.txt:2840
 msgctxt "MATERIAL_TEMPLATE:PLANT_OIL_TEMPLATE"
@@ -45153,7 +45154,7 @@ msgstr "[STATE_NAME:LIQUID:olio vegetale]"
 #: material_template_default.txt:2841
 msgctxt "MATERIAL_TEMPLATE:PLANT_OIL_TEMPLATE"
 msgid "[STATE_ADJ:LIQUID:vegetable oil]"
-msgstr "[STATO_ADJ:LIQUID:olio vegetale]"
+msgstr "[STATE_ADJ:LIQUID:olio vegetale]"
 
 #: material_template_default.txt:2843
 msgctxt "MATERIAL_TEMPLATE:PLANT_OIL_TEMPLATE"
@@ -45203,7 +45204,7 @@ msgstr "[STATE_NAME:LIQUID: cera fusa]"
 #: material_template_default.txt:2931
 msgctxt "MATERIAL_TEMPLATE:WAX_TEMPLATE"
 msgid "[STATE_ADJ:LIQUID:melted wax]"
-msgstr "[STATO_ADJ:LIQUID: cera fusa]"
+msgstr "[STATE_ADJ:LIQUID:cera fusa]"
 
 #: material_template_default.txt:2973
 msgctxt "MATERIAL_TEMPLATE:CREATURE_ALCOHOL_TEMPLATE"
@@ -45268,7 +45269,7 @@ msgstr "[STATE_NAME:ALL_SOLID:inchiostro ghiacciato]"
 #: material_template_default.txt:3080
 msgctxt "MATERIAL_TEMPLATE:INK_TEMPLATE"
 msgid "[STATE_ADJ:ALL_SOLID:frozen ink]"
-msgstr "[STATO_ADJ:ALL_SOLID:inchiostro ghiacciato]"
+msgstr "[STATE_ADJ:ALL_SOLID:inchiostro ghiacciato]"
 
 #: material_template_default.txt:3082
 msgctxt "MATERIAL_TEMPLATE:INK_TEMPLATE"
@@ -45278,7 +45279,7 @@ msgstr "[STATE_NAME:LIQUID:inchiostro]"
 #: material_template_default.txt:3083
 msgctxt "MATERIAL_TEMPLATE:INK_TEMPLATE"
 msgid "[STATE_ADJ:LIQUID:ink]"
-msgstr "[STATO_ADJ:LIQUID:inchiostro]"
+msgstr "[STATE_ADJ:LIQUID:inchiostro]"
 
 #: material_template_default.txt:3085
 msgctxt "MATERIAL_TEMPLATE:INK_TEMPLATE"
@@ -45318,7 +45319,7 @@ msgstr "[STATE_NAME:LIQUID: lacrime]"
 #: material_template_default.txt:3171
 msgctxt "MATERIAL_TEMPLATE:TEARS_TEMPLATE"
 msgid "[STATE_ADJ:LIQUID:tears]"
-msgstr "[STATO_ADJ:LIQUID: lacrime]"
+msgstr "[STATE_ADJ:LIQUID:lacrime]"
 
 #: material_template_default.txt:3173
 msgctxt "MATERIAL_TEMPLATE:TEARS_TEMPLATE"
@@ -45338,7 +45339,7 @@ msgstr "[STATE_NAME:ALL_SOLID:spiedo ghiacciato]"
 #: material_template_default.txt:3213
 msgctxt "MATERIAL_TEMPLATE:SPIT_TEMPLATE"
 msgid "[STATE_ADJ:ALL_SOLID:frozen spit]"
-msgstr "[STATO_ADJ:ALL_SOLID:spiedo ghiacciato]"
+msgstr "[STATE_ADJ:ALL_SOLID:sputo ghiacciato]"
 
 #: material_template_default.txt:3215
 msgctxt "MATERIAL_TEMPLATE:SPIT_TEMPLATE"
@@ -45348,7 +45349,7 @@ msgstr "[STATE_NAME:LIQUID: sputo]"
 #: material_template_default.txt:3216
 msgctxt "MATERIAL_TEMPLATE:SPIT_TEMPLATE"
 msgid "[STATE_ADJ:LIQUID:spit]"
-msgstr "[STATO_ADJ:LIQUID: sputo]"
+msgstr "[STATE_ADJ:LIQUID:sputo]"
 
 #: material_template_default.txt:3218
 msgctxt "MATERIAL_TEMPLATE:SPIT_TEMPLATE"
@@ -54476,7 +54477,7 @@ msgstr "[GROWTH_NAME:fiore di frassino:STP]"
 #: plant_standard.txt:2172
 msgctxt "PLANT:ASH"
 msgid "[GROWTH_NAME:ash samara:STP]"
-msgstr "[GROWTH_NAME:cenere samara:STP]"
+msgstr "[GROWTH_NAME:sàmara di frassino:STP]"
 
 #: plant_standard.txt:2182
 msgctxt "PLANT:CANDLENUT"
@@ -54611,12 +54612,12 @@ msgstr "[ADJ:albero della gomma]"
 #: plant_standard.txt:2335
 msgctxt "PLANT:RUBBER"
 msgid "[STATE_NAME:ALL_SOLID:rubber wood]"
-msgstr "[STATE_NAME:ALL_SOLID:legno di gomma]"
+msgstr "[STATE_NAME:ALL_SOLID:legno d'albero della gomma]"
 
 #: plant_standard.txt:2336
 msgctxt "PLANT:RUBBER"
 msgid "[STATE_ADJ:ALL_SOLID:rubber wood]"
-msgstr "[STATE_ADJ:ALL_SOLID:rubber wood]"
+msgstr "legno[STATE_ADJ:ALL_SOLID:legno d'albero della gomma]"
 
 #: plant_standard.txt:2358
 msgctxt "PLANT:RUBBER"
@@ -54626,7 +54627,7 @@ msgstr "[PREFSTRING:branch shedding]"
 #: plant_standard.txt:2363
 msgctxt "PLANT:RUBBER"
 msgid "[GROWTH_NAME:rubber leaf:rubber leaves]"
-msgstr "[GROWTH_NAME:rubber leaf:rubber leaves]"
+msgstr "[GROWTH_NAME:foglia d'albero della gomma:foglie d'albero della gomma]"
 
 #: plant_standard.txt:2372
 msgctxt "PLANT:CACAO"
@@ -55042,7 +55043,7 @@ msgstr "[PRODUCT_TOKEN:cesto]"
 #: reaction_adv_carpenter.txt:164
 msgctxt "REACTION:MAKE WOODEN STEPLADDER"
 msgid "[NAME:make wooden stepladder]"
-msgstr "[NAME:realizzare una scala a pioli in legno]"
+msgstr "[NAME:realizzare una scaletta di legno]"
 
 #: reaction_adv_carpenter.txt:167
 msgctxt "REACTION:MAKE WOODEN STEPLADDER"
@@ -55336,7 +55337,7 @@ msgstr "[CONTAINS:liscivia]"
 #: reaction_other.txt:34
 msgctxt "REACTION:MAKE_SOAP_FROM_TALLOW"
 msgid "[REAGENT:tallow:]"
-msgstr "[REAGENT:tallow:]"
+msgstr "[REAGENT:sego:]"
 
 #: reaction_other.txt:36
 msgctxt "REACTION:MAKE_SOAP_FROM_TALLOW"
@@ -55671,7 +55672,7 @@ msgstr "[NAME:spremere il miele dal favo]"
 #: reaction_other.txt:244
 msgctxt "REACTION:PRESS_HONEYCOMB"
 msgid "[REAGENT:honeycomb:]"
-msgstr "[REAGENT:honeycomb:]"
+msgstr "[REAGENT:favo:]"
 
 #: reaction_other.txt:247
 msgctxt "REACTION:PRESS_HONEYCOMB"
