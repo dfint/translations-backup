@@ -5500,7 +5500,7 @@ msgstr "[CV_NEW_TAG:GAIT:SWIM:Nuotata lenta:]"
 #: c_variation_default.txt:668
 msgctxt "CREATURE_VARIATION:STANDARD_SWIMMING_GAITS"
 msgid "[CV_NEW_TAG:GAIT:SWIM:Creeping Swim:]"
-msgstr "[CV_NEW_TAG:ANDATURA:NUOTO:Nuoto strisciante:]"
+msgstr "[CV_NEW_TAG:GAIT:SWIM:Nuoto strisciante:]"
 
 #: c_variation_default.txt:671
 msgctxt "CREATURE_VARIATION:STANDARD_CRAWLING_GAITS"
@@ -17370,13 +17370,13 @@ msgstr "[NAME:ippopotamo gigante:ippopotami giganti:ippopotamo gigante]"
 #: creature_large_riverlake.txt:133
 msgctxt "CREATURE:GIANT_HIPPO"
 msgid "[CASTE_NAME:giant hippo:giant hippos:giant hippo]"
-msgstr "[NOME_CASTA:ippopotamo gigante:ippopotami giganti:ippopotamo gigante]"
+msgstr "[CASTE_NAME:ippopotamo gigante:ippopotami giganti:ippopotamo gigante]"
 
 #: creature_large_riverlake.txt:134
 msgctxt "CREATURE:GIANT_HIPPO"
 msgid "[GENERAL_CHILD_NAME:giant hippo calf:giant hippo calves]"
 msgstr ""
-"[GENERAL_CHILD_NAME:vitello di ippopotamo gigante: vitelli di ippopotamo "
+"[GENERAL_CHILD_NAME:vitello di ippopotamo gigante:vitelli di ippopotamo "
 "giganti]"
 
 #: creature_large_riverlake.txt:135
@@ -18021,7 +18021,7 @@ msgstr "[CASTE_NAME:cervo:cervo:cervo]"
 #: creature_large_temperate.txt:319
 msgctxt "CREATURE:DEER"
 msgid "[GENERAL_CHILD_NAME:deer fawn:deer fawns]"
-msgstr "[GENERAL_CHILD_NAME:cerbiatto: cerbiatto]"
+msgstr "[GENERAL_CHILD_NAME:cerbiatto:cerbiatti]"
 
 #: creature_large_temperate.txt:324
 msgctxt "CREATURE:DEER"
@@ -18106,7 +18106,7 @@ msgstr "[CASTE_NAME:cervo gigante:cervo gigante:cervo gigante]"
 #: creature_large_temperate.txt:462
 msgctxt "CREATURE:GIANT_DEER"
 msgid "[GENERAL_CHILD_NAME:giant deer fawn:giant deer fawns]"
-msgstr "[GENERAL_CHILD_NAME:cerbiatto gigante:cerbiatto gigante]"
+msgstr "[GENERAL_CHILD_NAME:cerbiatto gigante:cerbiatti giganti]"
 
 #: creature_large_temperate.txt:463
 msgctxt "CREATURE:GIANT_DEER"
@@ -19240,7 +19240,7 @@ msgstr ""
 #: creature_large_temperate.txt:2024
 msgctxt "CREATURE:CAPYBARA, GIANT"
 msgid "[PREFSTRING:beyond enormous rodentness]"
-msgstr "[PREFSTRING:oltre l'enorme roditori]"
+msgstr "[PREFSTRING:roditorietà smisuratamente enorme]"
 
 #: creature_large_temperate.txt:2025
 msgctxt "CREATURE:CAPYBARA, GIANT"
@@ -19250,7 +19250,7 @@ msgstr "[PREFSTRING:nuoto aggraziato]"
 #: creature_large_temperate.txt:2026
 msgctxt "CREATURE:CAPYBARA, GIANT"
 msgid "[PREFSTRING:resonant barking]"
-msgstr "[PREFSTRING:abbaiare sonoro]"
+msgstr "[PREFSTRING:abbaio sonoro]"
 
 #: creature_large_temperate.txt:2038
 msgctxt "CREATURE:CAPYBARA MAN"
@@ -19601,7 +19601,7 @@ msgstr "[CDI:ADV_NAME:Clean]"
 #: creature_large_temperate.txt:2515
 msgctxt "CREATURE:RED PANDA"
 msgid "[CDI:VERB:lick:licks:lick each other]"
-msgstr "[CDI:VERBO:leccare:leccarsi:leccarsi a vicenda]"
+msgstr "[CDI:VERB:leccare:leccarsi:leccarsi a vicenda]"
 
 #: creature_large_temperate.txt:2522
 msgctxt "CREATURE:RED PANDA"
@@ -19611,7 +19611,7 @@ msgstr "[CDI:ADV_NAME:Colpo di testa]"
 #: creature_large_temperate.txt:2525
 msgctxt "CREATURE:RED PANDA"
 msgid "[CDI:VERB:head-bump:head-bumps:bump heads]"
-msgstr "[CDI:VERBO:testa-urto:testa-urto:urto testa]"
+msgstr "[CDI:VERB:testata:testate:testata]"
 
 #: creature_large_temperate.txt:2544
 msgctxt "CREATURE:RED PANDA"
@@ -23498,7 +23498,7 @@ msgstr "[CDI:ADV_NAME:Sputa roccia fusa]"
 msgctxt "CREATURE:MAGMA_CRAB"
 msgid "[CDI:VERB:spit a glob of molten rock:spits a glob of molten rock:]"
 msgstr ""
-"[CDI:VERBO:sputare un globo di roccia fusa:sputa un globo di roccia fusa:]"
+"[CDI:VERB:sputare un globo di roccia fusa:sputa un globo di roccia fusa:]"
 
 #: creature_next_underground.txt:498
 msgctxt "CREATURE:MAGMA_CRAB"
@@ -24036,7 +24036,7 @@ msgstr "[CASTE_NAME:uomo insanguinato:uomo insanguinato:uomo insanguinato]"
 #: creature_next_underground.txt:1335
 msgctxt "CREATURE:BLOOD_MAN"
 msgid "[ODOR_STRING:blood]"
-msgstr "[ODORE_STRING:sangue]"
+msgstr "[ODOR_STRING:sangue]"
 
 #: creature_next_underground.txt:1341
 msgctxt "CREATURE:BLOOD_MAN"
@@ -24718,7 +24718,7 @@ msgid ""
 "[CDI:VERB:spray a stream of steaming juice:sprays a stream of steaming "
 "juice:]"
 msgstr ""
-"[CDI:VERBO:spruzzare un getto di succo fumante:spruzzare un getto di succo "
+"[CDI:VERB:spruzzare un getto di succo fumante:spruzzare un getto di succo "
 "fumante:]"
 
 #: creature_next_underground.txt:2404
@@ -24987,7 +24987,7 @@ msgstr "[CDI:ADV_NAME:Spruzza inchiostro]"
 #: creature_ocean_new.txt:79
 msgctxt "CREATURE:OCTOPUS"
 msgid "[CDI:VERB:squirt ink:squirts ink:]"
-msgstr "[CDI:VERBO:schizza inchiostro:schizza inchiostro:]"
+msgstr "[CDI:VERB:schizza inchiostro:schizza inchiostro:]"
 
 #: creature_ocean_new.txt:95
 msgctxt "CREATURE:OCTOPUS"
@@ -25319,7 +25319,7 @@ msgstr "[CDI:ADV_NAME:Spruzza inchiostro]"
 #: creature_ocean_new.txt:481
 msgctxt "CREATURE:CUTTLEFISH"
 msgid "[CDI:VERB:squirt ink:squirts ink:]"
-msgstr "[CDI:VERBO:schizza inchiostro:schizza inchiostro:]"
+msgstr "[CDI:VERB:schizza inchiostro:schizza inchiostro:]"
 
 #: creature_ocean_new.txt:498
 msgctxt "CREATURE:CUTTLEFISH"
@@ -26342,7 +26342,7 @@ msgid ""
 "[CASTE_NAME:two-legged rhino lizard:two-legged rhino lizards:two-legged "
 "rhino lizard]"
 msgstr ""
-"[NOME_CASTA:lucertola rinoceronte a due zampe: lucertola rinoceronte a due "
+"[CASTE_NAME:lucertola rinoceronte a due zampe: lucertola rinoceronte a due "
 "zampe: lucertola rinoceronte a due zampe]"
 
 #: creature_other.txt:318
@@ -29403,7 +29403,7 @@ msgstr "[CDI:ADV_NAME:Spruzza inchiostro]"
 #: creature_small_ocean.txt:1496
 msgctxt "CREATURE:SQUID"
 msgid "[CDI:VERB:squirt ink:squirts ink:]"
-msgstr "[CDI:VERBO:schizza inchiostro:schizza inchiostro:]"
+msgstr "[CDI:VERB:schizza inchiostro:schizza inchiostro:]"
 
 #: creature_small_ocean.txt:1512
 msgctxt "CREATURE:SQUID"
@@ -33815,7 +33815,7 @@ msgstr "[PREFSTRING:tratti terrificanti]"
 #: creature_subterranean.txt:913
 msgctxt "CREATURE:IMP_FIRE"
 msgid "[ODOR_STRING:smoke]"
-msgstr "[ODORE_STRING:Fumo]"
+msgstr "[ODOR_STRING:fumo]"
 
 #: creature_subterranean.txt:942
 msgctxt "CREATURE:IMP_FIRE"
@@ -34142,7 +34142,7 @@ msgstr "[VERMIN_BITE:10:morso:]"
 #: creature_subterranean.txt:1374
 msgctxt "CREATURE:SNAKE_FIRE"
 msgid "[ODOR_STRING:smoke]"
-msgstr "[ODORE_STRING:Fumo]"
+msgstr "[ODOR_STRING:fumo]"
 
 #: creature_subterranean.txt:1379
 msgctxt "CREATURE:OLM"
@@ -34413,7 +34413,7 @@ msgstr "[PREFSTRING:leccate di fuoco]"
 #: creature_subterranean.txt:1699
 msgctxt "CREATURE:ELEMENTMAN_FIRE"
 msgid "[ODOR_STRING:smoke]"
-msgstr "[ODORE_STRING:Fumo]"
+msgstr "[ODOR_STRING:fumo]"
 
 #: creature_subterranean.txt:1713
 msgctxt "CREATURE:ELEMENTMAN_FIRE"
