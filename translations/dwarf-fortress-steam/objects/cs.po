@@ -2361,12 +2361,12 @@ msgstr "[BP:LUT:levé horní chapadlo:STP]"
 #: body_default.txt:1037
 msgctxt "BODY:FOUR_TENTACLES"
 msgid "[BP:RUTC:right upper claw:STP]"
-msgstr "[BP:RULC:pravý horní dráp:STP]"
+msgstr "[BP:RUTC:pravý horní dráp:STP]"
 
 #: body_default.txt:1039
 msgctxt "BODY:FOUR_TENTACLES"
 msgid "[BP:LUTC:left upper claw:STP]"
-msgstr "[BP:LULC:levý horní dráp:STP]"
+msgstr "[BP:LUTC:levý horní dráp:STP]"
 
 #: body_default.txt:1041
 msgctxt "BODY:FOUR_TENTACLES"
@@ -2859,12 +2859,12 @@ msgstr "[BP:LHORN:levý paroh:STP]"
 #: body_default.txt:1318
 msgctxt "BODY:1EYE"
 msgid "[BP:EYE:eye:STP]"
-msgstr "[BP:EYE:okoSTP]"
+msgstr "[BP:EYE:oko:STP]"
 
 #: body_default.txt:1322
 msgctxt "BODY:BODY_EYE"
 msgid "[BP:EYE:eye:STP]"
-msgstr "[BP:EYE:okoSTP]"
+msgstr "[BP:EYE:oko:STP]"
 
 #: body_default.txt:1326
 msgctxt "BODY:BODY_EYELID"
@@ -3854,7 +3854,7 @@ msgstr "[BP:RFF:pravé přední chodidlo:pravá přední chodidla]"
 #: body_default.txt:1770
 msgctxt "BODY:HAND_FOOT_CENTAUR_NECK"
 msgid "[BP:LFF:left front foot:left front feet]"
-msgstr "[BP:LH:levé přední chodidlo:levá přední chodidla]"
+msgstr "[BP:LFF:levé přední chodidlo:levá přední chodidla]"
 
 #: body_default.txt:1772
 msgctxt "BODY:HAND_FOOT_CENTAUR_NECK"
@@ -4769,7 +4769,7 @@ msgstr "[BP:FINGER2:druhý prst:STP]"
 #: body_rcp.txt:455
 msgctxt "BODY:RCP_1_EYE"
 msgid "[BP:EYE:eye:STP]"
-msgstr "[BP:EYE:okoSTP]"
+msgstr "[BP:EYE:oko:STP]"
 
 #: body_rcp.txt:459
 msgctxt "BODY:RCP_2_EYES"
@@ -5124,7 +5124,7 @@ msgstr "[TISSUE_NAME:zub:NP]"
 #: tissue_template_default.txt:211
 msgctxt "TISSUE_TEMPLATE:IVORY_TEMPLATE"
 msgid "[TISSUE_NAME:ivory:NP]"
-msgstr "1[TISSUE_NAME:slonovina:NP]"
+msgstr "[TISSUE_NAME:slonovina:NP]"
 
 #: tissue_template_default.txt:219
 msgctxt "TISSUE_TEMPLATE:EYE_TEMPLATE"
@@ -5276,7 +5276,7 @@ msgstr "[CV_NEW_TAG:ATTACK_VERB:facka:facky]"
 #: c_variation_default.txt:406
 msgctxt "CREATURE_VARIATION:HOOF_ATTACK"
 msgid "[CV_NEW_TAG:ATTACK_VERB:kick:kicks]"
-msgstr "[CV_NEW_TAG:kopanec:kopance]"
+msgstr "[CV_NEW_TAG:ATTACK_VERB:kopanec:kopance]"
 
 #: c_variation_default.txt:421
 msgctxt "CREATURE_VARIATION:NAIL_SCRATCH_ATTACK"
@@ -5306,32 +5306,32 @@ msgstr "[CV_NEW_TAG:ATTACK_VERB:bodnutí:bodance]"
 #: c_variation_default.txt:475
 msgctxt "CREATURE_VARIATION:MOUTH_BITE_ATTACK"
 msgid "[CV_NEW_TAG:ATTACK_VERB:bite:bites]"
-msgstr "[CV_NEW_TAG:ATTACK_VER:kousat:kousnutí]"
+msgstr "[CV_NEW_TAG:ATTACK_VERB:kousat:kousnutí]"
 
 #: c_variation_default.txt:484
 msgctxt "CREATURE_VARIATION:MOUTH_SUCK_ATTACK"
 msgid "[CV_NEW_TAG:ATTACK_VERB:bite:bites]"
-msgstr "[CV_NEW_TAG:ATTACK_VER:kousat:kousnutí]"
+msgstr "[CV_NEW_TAG:ATTACK_VERB:kousat:kousnutí]"
 
 #: c_variation_default.txt:494
 msgctxt "CREATURE_VARIATION:PROBOSCIS_SUCK_ATTACK"
 msgid "[CV_NEW_TAG:ATTACK_VERB:bite:bites]"
-msgstr "[CV_NEW_TAG:ATTACK_VER:kousat:kousnutí]"
+msgstr "[CV_NEW_TAG:ATTACK_VERB:kousat:kousnutí]"
 
 #: c_variation_default.txt:505
 msgctxt "CREATURE_VARIATION:MOUTH_BITE_EDGE_ATTACK"
 msgid "[CV_NEW_TAG:ATTACK_VERB:bite:bites]"
-msgstr "[CV_NEW_TAG:ATTACK_VER:kousat:kousnutí]"
+msgstr "[CV_NEW_TAG:ATTACK_VERB:kousat:kousnutí]"
 
 #: c_variation_default.txt:515
 msgctxt "CREATURE_VARIATION:MOUTH_BITE_VENOM_ATTACK"
 msgid "[CV_NEW_TAG:ATTACK_VERB:bite:bites]"
-msgstr "[CV_NEW_TAG:ATTACK_VER:kousat:kousnutí]"
+msgstr "[CV_NEW_TAG:ATTACK_VERB:kousat:kousnutí]"
 
 #: c_variation_default.txt:526
 msgctxt "CREATURE_VARIATION:BEAK_BITE_ATTACK"
 msgid "[CV_NEW_TAG:ATTACK_VERB:bite:bites]"
-msgstr "[CV_NEW_TAG:ATTACK_VER:kousat:kousnutí]"
+msgstr "[CV_NEW_TAG:ATTACK_VERB:kousat:kousnutí]"
 
 #: c_variation_default.txt:537
 msgctxt "CREATURE_VARIATION:TALON_SCRATCH_ATTACK"
@@ -5381,7 +5381,7 @@ msgstr "[CV_NEW_TAG:GAIT:WALK:Procházka:]"
 #: c_variation_default.txt:636
 msgctxt "CREATURE_VARIATION:STANDARD_BIPED_GAITS"
 msgid "[CV_NEW_TAG:GAIT:WALK:Creep:]"
-msgstr "[CV_NEW_TAG:GAIT:WALK:plížit:]"
+msgstr "[CV_NEW_TAG:GAIT:WALK:Plížit:]"
 
 #: c_variation_default.txt:639
 msgctxt "CREATURE_VARIATION:STANDARD_QUADRUPED_GAITS"
@@ -5451,27 +5451,27 @@ msgstr "[CV_NEW_TAG:GAIT:CLIMB:Škrábat se:]"
 #: c_variation_default.txt:656
 msgctxt "CREATURE_VARIATION:STANDARD_CLIMBING_GAITS"
 msgid "[CV_NEW_TAG:GAIT:CLIMB:Faster Climb:]"
-msgstr "[CV_NEW_TAG:GAIT:CLIMB:Lést rychle:]"
+msgstr "[CV_NEW_TAG:GAIT:CLIMB:Rychlejší Lezení:]"
 
 #: c_variation_default.txt:657
 msgctxt "CREATURE_VARIATION:STANDARD_CLIMBING_GAITS"
 msgid "[CV_NEW_TAG:GAIT:CLIMB:Fast Climb:]"
-msgstr "[CV_NEW_TAG:GAIT:CLIMB:Lést rychleji:]"
+msgstr "[CV_NEW_TAG:GAIT:CLIMB:Rychlé Lezení:]"
 
 #: c_variation_default.txt:658
 msgctxt "CREATURE_VARIATION:STANDARD_CLIMBING_GAITS"
 msgid "[CV_NEW_TAG:GAIT:CLIMB:Climb:]"
-msgstr "[CV_NEW_TAG:GAIT:CLIMB:Vylést:]"
+msgstr "[CV_NEW_TAG:GAIT:CLIMB:Lezení:]"
 
 #: c_variation_default.txt:659
 msgctxt "CREATURE_VARIATION:STANDARD_CLIMBING_GAITS"
 msgid "[CV_NEW_TAG:GAIT:CLIMB:Slow Climb:]"
-msgstr "[CV_NEW_TAG:GAIT:CLIMB:pomalé lezení:]"
+msgstr "[CV_NEW_TAG:GAIT:CLIMB:Pomalé Lezení:]"
 
 #: c_variation_default.txt:660
 msgctxt "CREATURE_VARIATION:STANDARD_CLIMBING_GAITS"
 msgid "[CV_NEW_TAG:GAIT:CLIMB:Creep:]"
-msgstr "[CV_NEW_TAG:GAIT:CLIMB:Plížení]"
+msgstr "[CV_NEW_TAG:GAIT:CLIMB:Plížení:]"
 
 #: c_variation_default.txt:663
 msgctxt "CREATURE_VARIATION:STANDARD_SWIMMING_GAITS"
@@ -5481,27 +5481,27 @@ msgstr "[CV_NEW_TAG:GAIT:SWIM:Plavání ze všech sil:]"
 #: c_variation_default.txt:664
 msgctxt "CREATURE_VARIATION:STANDARD_SWIMMING_GAITS"
 msgid "[CV_NEW_TAG:GAIT:SWIM:Faster Swim:]"
-msgstr "[CV_NEW_TAG:GAIT:SWIM:Rychlé plavání:]"
+msgstr "[CV_NEW_TAG:GAIT:SWIM:Rychlé Plavání:]"
 
 #: c_variation_default.txt:665
 msgctxt "CREATURE_VARIATION:STANDARD_SWIMMING_GAITS"
 msgid "[CV_NEW_TAG:GAIT:SWIM:Fast Swim:]"
-msgstr "[CV_NEW_TAG:GAIT:SWIM:Svižnější plavání:]"
+msgstr "[CV_NEW_TAG:GAIT:SWIM:Svižnější Plavání:]"
 
 #: c_variation_default.txt:666
 msgctxt "CREATURE_VARIATION:STANDARD_SWIMMING_GAITS"
 msgid "[CV_NEW_TAG:GAIT:SWIM:Swim:]"
-msgstr "[CV_NEW_TAG:GAIT:SWIM:Plavat:]"
+msgstr "[CV_NEW_TAG:GAIT:SWIM:Plavání:]"
 
 #: c_variation_default.txt:667
 msgctxt "CREATURE_VARIATION:STANDARD_SWIMMING_GAITS"
 msgid "[CV_NEW_TAG:GAIT:SWIM:Slow Swim:]"
-msgstr "[CV_NEW_TAG:GAIT:SWIM:Pomalejší plavání:]"
+msgstr "[CV_NEW_TAG:GAIT:SWIM:Pomalejší Plavání:]"
 
 #: c_variation_default.txt:668
 msgctxt "CREATURE_VARIATION:STANDARD_SWIMMING_GAITS"
 msgid "[CV_NEW_TAG:GAIT:SWIM:Creeping Swim:]"
-msgstr "[CV_NEW_TAG:IT:SWIM:Pomalé plavání:]"
+msgstr "[CV_NEW_TAG:GAIT:SWIM:Pomalé Plavání:]"
 
 #: c_variation_default.txt:671
 msgctxt "CREATURE_VARIATION:STANDARD_CRAWLING_GAITS"
@@ -5526,7 +5526,7 @@ msgstr "[CV_NEW_TAG:GAIT:CRAWL:Plazení:]"
 #: c_variation_default.txt:675
 msgctxt "CREATURE_VARIATION:STANDARD_CRAWLING_GAITS"
 msgid "[CV_NEW_TAG:GAIT:CRAWL:Slow Crawl:]"
-msgstr "[CV_NEW_TAG:GAIT:CRAWL:Pomalé lezení:]"
+msgstr "[CV_NEW_TAG:GAIT:CRAWL:Pomalé Lezení:]"
 
 #: c_variation_default.txt:676
 msgctxt "CREATURE_VARIATION:STANDARD_CRAWLING_GAITS"
@@ -5536,27 +5536,27 @@ msgstr "[CV_NEW_TAG:GAIT:CRAWL:Plížení:]"
 #: c_variation_default.txt:679
 msgctxt "CREATURE_VARIATION:STANDARD_FLYING_GAITS"
 msgid "[CV_NEW_TAG:GAIT:FLY:Maximum Flight Speed:]"
-msgstr "[CV_NEW_TAG:GAIT:FLY:Let maximální rychlostí:]"
+msgstr "[CV_NEW_TAG:GAIT:FLY:Let Maximální Rychlostí:]"
 
 #: c_variation_default.txt:680
 msgctxt "CREATURE_VARIATION:STANDARD_FLYING_GAITS"
 msgid "[CV_NEW_TAG:GAIT:FLY:Faster Flight:]"
-msgstr "[CV_NEW_TAG:GAIT:FLY:Rychlý let:]"
+msgstr "[CV_NEW_TAG:GAIT:FLY:Rychlejší Let:]"
 
 #: c_variation_default.txt:681
 msgctxt "CREATURE_VARIATION:STANDARD_FLYING_GAITS"
 msgid "[CV_NEW_TAG:GAIT:FLY:Fast Flight:]"
-msgstr "[CV_NEW_TAG:GAIT:FLY:Rychlejší let:]"
+msgstr "[CV_NEW_TAG:GAIT:FLY:Rychlý Let:]"
 
 #: c_variation_default.txt:682
 msgctxt "CREATURE_VARIATION:STANDARD_FLYING_GAITS"
 msgid "[CV_NEW_TAG:GAIT:FLY:Fly:]"
-msgstr "[CV_NEW_TAG:GAIT:FLY:let:]"
+msgstr "[CV_NEW_TAG:GAIT:FLY:Let:]"
 
 #: c_variation_default.txt:683
 msgctxt "CREATURE_VARIATION:STANDARD_FLYING_GAITS"
 msgid "[CV_NEW_TAG:GAIT:FLY:Slow Flight:]"
-msgstr "[CV_NEW_TAG:GAIT:FLY:Pomalý let:]"
+msgstr "[CV_NEW_TAG:GAIT:FLY:Pomalý Let:]"
 
 #: c_variation_default.txt:684
 msgctxt "CREATURE_VARIATION:STANDARD_FLYING_GAITS"
@@ -5571,12 +5571,12 @@ msgstr "[CV_NEW_TAG:GAIT:WALK:Škrábání se:]"
 #: c_variation_default.txt:688
 msgctxt "CREATURE_VARIATION:STANDARD_WALK_CRAWL_GAITS"
 msgid "[CV_NEW_TAG:GAIT:WALK:Faster Crawl:]"
-msgstr "[CV_NEW_TAG:GAIT:WALK:Rychlé plazení:]"
+msgstr "[CV_NEW_TAG:GAIT:WALK:Rychlejší Plazení:]"
 
 #: c_variation_default.txt:689
 msgctxt "CREATURE_VARIATION:STANDARD_WALK_CRAWL_GAITS"
 msgid "[CV_NEW_TAG:GAIT:WALK:Fast Crawl:]"
-msgstr "[CV_NEW_TAG:GAIT:WALK:Rychlejší plazení:]"
+msgstr "[CV_NEW_TAG:GAIT:WALK:Rychlé Plazení:]"
 
 #: c_variation_default.txt:690
 msgctxt "CREATURE_VARIATION:STANDARD_WALK_CRAWL_GAITS"
@@ -5586,7 +5586,7 @@ msgstr "[CV_NEW_TAG:GAIT:WALK:Plazení:]"
 #: c_variation_default.txt:691
 msgctxt "CREATURE_VARIATION:STANDARD_WALK_CRAWL_GAITS"
 msgid "[CV_NEW_TAG:GAIT:WALK:Slow Crawl:]"
-msgstr "[CV_NEW_TAG:GAIT:WALK:Pomalé plazení:]"
+msgstr "[CV_NEW_TAG:GAIT:WALK:Pomalé Plazení:]"
 
 #: c_variation_default.txt:692
 msgctxt "CREATURE_VARIATION:STANDARD_WALK_CRAWL_GAITS"
@@ -5704,7 +5704,7 @@ msgstr "[GAIT:WALK:Plazení:]"
 #: creature_annelids.txt:31
 msgctxt "CREATURE:WORM"
 msgid "[GAIT:CRAWL:Crawl:]"
-msgstr "[GAIT:WALK:Plazení:]"
+msgstr "[GAIT:CRAWL:Plazení:]"
 
 #: creature_annelids.txt:48
 msgctxt "CREATURE:WORM"
@@ -6170,9 +6170,7 @@ msgctxt "CREATURE:BIRD_RW_BLACKBIRD"
 msgid ""
 "[GENERAL_CHILD_NAME:red-winged blackbird hatchling:red-winged blackbird "
 "hatchlings]"
-msgstr ""
-"[GENERAL_CHILD_NAME:vylíhlý kos rudokřídlý:vilíhlí kosi rudokřídlí:vylíhlý "
-"kos rudokřídlý]"
+msgstr "[GENERAL_CHILD_NAME:vylíhlý kos rudokřídlý:vilíhlí kosi rudokřídlí]"
 
 #: creature_birds.txt:660
 msgctxt "CREATURE:BIRD_RW_BLACKBIRD"
@@ -6261,7 +6259,7 @@ msgid ""
 "blackbird hatchlings]"
 msgstr ""
 "[GENERAL_CHILD_NAME:mládě obrovského kosa rudokřídlého:mláďata obrovských "
-"kosů rudokřídlích:mládě obrovského kosa rudokřídlého]"
+"kosů rudokřídlích]"
 
 #: creature_birds.txt:775
 msgctxt "CREATURE:GIANT_RW_BLACKBIRD"
@@ -6355,9 +6353,7 @@ msgstr "[CASTE_NAME:malý tučňák:malí tučňáci:malý tučňák]"
 #: creature_birds.txt:900
 msgctxt "CREATURE:BIRD_PENGUIN_LITTLE"
 msgid "[GENERAL_CHILD_NAME:little penguin chick:little penguin chicks]"
-msgstr ""
-"[GENERAL_CHILD_NAME:malé mládě tučňáka:malé mláďata tučňáků:malé mládě "
-"tučňáka]"
+msgstr "[GENERAL_CHILD_NAME:malé mládě tučňáka:malé mláďata tučňáků]"
 
 #: creature_birds.txt:915
 msgctxt "CREATURE:BIRD_PENGUIN_LITTLE"
@@ -6541,8 +6537,8 @@ msgid ""
 "[DESCRIPTION:A small bird of prey that is capable of great speed.  They dive"
 " on unsuspecting vermin.]"
 msgstr ""
-"Malý dravec, který je schopen velké rychlosti. Potápí se na nic netušící "
-"kořist."
+"[DESCRIPTION:Malý dravec, který je schopen velké rychlosti. Potápí se na nic"
+" netušící kořist.]"
 
 #: creature_birds.txt:1154
 msgctxt "CREATURE:BIRD_FALCON_PEREGRINE"
@@ -6553,8 +6549,7 @@ msgstr "[NAME:sokol stěhovavý:sokoli stěhovaví:sokola stěhovavého]"
 msgctxt "CREATURE:BIRD_FALCON_PEREGRINE"
 msgid "[GENERAL_CHILD_NAME:peregrine falcon chick:peregrine falcon chicks]"
 msgstr ""
-"[GENERAL_CHILD_NAME:mládě sokola stěhovavého:mláďata sokolů "
-"stěhovavích:mládě sokola stěhovavého]"
+"[GENERAL_CHILD_NAME:mládě sokola stěhovavého:mláďata sokolů stěhovavích]"
 
 #: creature_birds.txt:1190
 msgctxt "CREATURE:BIRD_FALCON_PEREGRINE"
@@ -6638,6 +6633,8 @@ msgid ""
 "[GENERAL_CHILD_NAME:giant peregrine falcon chick:giant peregrine falcon "
 "chicks]"
 msgstr ""
+"[GENERAL_CHILD_NAME:mládě obřího sokola stěhovavého:mláďata obřích sokolů "
+"stěhovavích]"
 
 #: creature_birds.txt:1312
 msgctxt "CREATURE:GIANT PEREGRINE FALCON"
@@ -6771,7 +6768,7 @@ msgstr ""
 #: creature_birds.txt:1479
 msgctxt "CREATURE:BIRD_KIWI_GIANT"
 msgid "[CASTE_NAME:giant kiwi hen:giant kiwi hens:giant kiwi hen]"
-msgstr "[CASTE_NAME:obří kiwi slepice:obří kiwi slepice:obří kiwi slepice] "
+msgstr "[CASTE_NAME:obří kiwi slepice:obří kiwi slepice:obří kiwi slepice]"
 
 #: creature_birds.txt:1481
 msgctxt "CREATURE:BIRD_KIWI_GIANT"
@@ -15053,7 +15050,7 @@ msgstr ""
 #: creature_large_ocean.txt:29
 msgctxt "CREATURE:WALRUS"
 msgid "[TISSUE_NAME:ivory:NP]"
-msgstr ""
+msgstr "[TISSUE_NAME:slonovina:NP]"
 
 #: creature_large_ocean.txt:71
 msgctxt "CREATURE:WALRUS"
@@ -16713,7 +16710,7 @@ msgstr ""
 #: creature_large_ocean.txt:2882
 msgctxt "CREATURE:NARWHAL"
 msgid "[TISSUE_NAME:ivory:NP]"
-msgstr ""
+msgstr "[TISSUE_NAME:slonovina:NP]"
 
 #: creature_large_ocean.txt:2909
 msgctxt "CREATURE:NARWHAL"
@@ -16827,7 +16824,7 @@ msgstr ""
 #: creature_large_riverlake.txt:33
 msgctxt "CREATURE:HIPPO"
 msgid "[TISSUE_NAME:ivory:NP]"
-msgstr ""
+msgstr "[TISSUE_NAME:slonovina:NP]"
 
 #: creature_large_riverlake.txt:63
 msgctxt "CREATURE:HIPPO"
@@ -19193,7 +19190,7 @@ msgstr ""
 #: creature_large_tropical.txt:43
 msgctxt "CREATURE:ELEPHANT"
 msgid "[TISSUE_NAME:ivory:NP]"
-msgstr ""
+msgstr "[TISSUE_NAME:slonovina:NP]"
 
 #: creature_large_tropical.txt:70
 msgctxt "CREATURE:ELEPHANT"
@@ -19355,7 +19352,7 @@ msgstr ""
 #: creature_large_tropical.txt:202
 msgctxt "CREATURE:WARTHOG"
 msgid "[TISSUE_NAME:ivory:NP]"
-msgstr ""
+msgstr "[TISSUE_NAME:slonovina:NP]"
 
 #: creature_large_tropical.txt:230
 msgctxt "CREATURE:WARTHOG"
@@ -22809,7 +22806,7 @@ msgstr ""
 #: creature_next_underground.txt:726
 msgctxt "CREATURE:FLESH_BALL"
 msgid "[GAIT:CRAWL:Creep:]"
-msgstr ""
+msgstr "[GAIT:CRAWL:Plížení:]"
 
 #: creature_next_underground.txt:742
 msgctxt "CREATURE:FLESH_BALL"
@@ -23666,7 +23663,7 @@ msgstr ""
 #: creature_next_underground.txt:2207
 msgctxt "CREATURE:GORLAK"
 msgid "[TISSUE_NAME:ivory:NP]"
-msgstr ""
+msgstr "[TISSUE_NAME:slonovina:NP]"
 
 #: creature_next_underground.txt:2241
 msgctxt "CREATURE:GORLAK"
@@ -25282,7 +25279,7 @@ msgstr ""
 #: creature_other.txt:289
 msgctxt "CREATURE:WAMBLER_FLUFFY"
 msgid "[GAIT:CRAWL:Crawl:]"
-msgstr ""
+msgstr "[GAIT:CRAWL:Plazení:]"
 
 #: creature_other.txt:290
 msgctxt "CREATURE:WAMBLER_FLUFFY"
@@ -33703,7 +33700,7 @@ msgstr ""
 #: creature_temperate_new.txt:41
 msgctxt "CREATURE:WILD_BOAR"
 msgid "[TISSUE_NAME:ivory:NP]"
-msgstr ""
+msgstr "[TISSUE_NAME:slonovina:NP]"
 
 #: creature_temperate_new.txt:69
 msgctxt "CREATURE:WILD_BOAR"
@@ -52858,12 +52855,12 @@ msgstr ""
 #: plant_standard.txt:2182
 msgctxt "PLANT:CANDLENUT"
 msgid "[NAME:candlenut]"
-msgstr ""
+msgstr "[NAME:tungovník]"
 
 #: plant_standard.txt:2182
 msgctxt "PLANT:CANDLENUT"
 msgid "[NAME_PLURAL:candlenuts]"
-msgstr ""
+msgstr "[NAME_PLURAL:tungovníky]"
 
 #: plant_standard.txt:2182
 msgctxt "PLANT:CANDLENUT"
@@ -52873,17 +52870,17 @@ msgstr "[ADJ:ořech tungovníku]"
 #: plant_standard.txt:2186
 msgctxt "PLANT:CANDLENUT"
 msgid "[STATE_NAME:ALL_SOLID:candlenut]"
-msgstr ""
+msgstr "[STATE_NAME:ALL_SOLID:tungovník]"
 
 #: plant_standard.txt:2187
 msgctxt "PLANT:CANDLENUT"
 msgid "[STATE_ADJ:ALL_SOLID:candlenut]"
-msgstr ""
+msgstr "[STATE_ADJ:ALL_SOLID:tungovník]"
 
 #: plant_standard.txt:2206
 msgctxt "PLANT:CANDLENUT"
 msgid "[SEED:candlenut:candlenuts:]"
-msgstr ""
+msgstr "[SEED:tungovník:tungovníky:]"
 
 #: plant_standard.txt:2220
 msgctxt "PLANT:CANDLENUT"
@@ -52898,12 +52895,12 @@ msgstr "[GROWTH_NAME:list tungovníku:listy tungovníku]"
 #: plant_standard.txt:2232
 msgctxt "PLANT:CANDLENUT"
 msgid "[GROWTH_NAME:candlenut flower:STP]"
-msgstr "[GROWTH_NAME:květ tungovníku]"
+msgstr "[GROWTH_NAME:květ tungovníku:STP]"
 
 #: plant_standard.txt:2239
 msgctxt "PLANT:CANDLENUT"
 msgid "[GROWTH_NAME:candlenut:STP]"
-msgstr ""
+msgstr "[GROWTH_NAME:tungovník:STP]"
 
 #: plant_standard.txt:2248
 msgctxt "PLANT:MANGO"
@@ -53700,7 +53697,7 @@ msgstr "[REAGENT:louh:]"
 #: reaction_other.txt:30
 msgctxt "REACTION:MAKE_SOAP_FROM_TALLOW"
 msgid "[REAGENT:lye container:]"
-msgstr "[REAGENT:nádoba s louhem]"
+msgstr "[REAGENT:nádoba s louhem:]"
 
 #: reaction_other.txt:31
 msgctxt "REACTION:MAKE_SOAP_FROM_TALLOW"
@@ -53730,7 +53727,7 @@ msgstr "[REAGENT:louh:]"
 #: reaction_other.txt:44
 msgctxt "REACTION:MAKE_SOAP_FROM_OIL"
 msgid "[REAGENT:lye container:]"
-msgstr "[REAGENT:nádoba s louhem]"
+msgstr "[REAGENT:nádoba s louhem:]"
 
 #: reaction_other.txt:45
 msgctxt "REACTION:MAKE_SOAP_FROM_OIL"
@@ -53740,12 +53737,12 @@ msgstr "[CONTAINS:louh]"
 #: reaction_other.txt:48
 msgctxt "REACTION:MAKE_SOAP_FROM_OIL"
 msgid "[REAGENT:oil:]"
-msgstr "[REAGENT:olej]"
+msgstr "[REAGENT:olej:]"
 
 #: reaction_other.txt:51
 msgctxt "REACTION:MAKE_SOAP_FROM_OIL"
 msgid "[REAGENT:oil container:]"
-msgstr "[REAGENT:nádoba s olejem]"
+msgstr "[REAGENT:nádoba s olejem:]"
 
 #: reaction_other.txt:52
 msgctxt "REACTION:MAKE_SOAP_FROM_OIL"
@@ -53755,7 +53752,7 @@ msgstr ""
 #: reaction_other.txt:55
 msgctxt "REACTION:MAKE_SOAP_FROM_OIL"
 msgid "[PRODUCT:100:1:BAR:NONE:GET_MATERIAL_FROM_REAGENT:oil:]"
-msgstr ""
+msgstr "[PRODUCT:100:1:BAR:NONE:GET_MATERIAL_FROM_REAGENT:olej:]"
 
 #: reaction_other.txt:60
 msgctxt "REACTION:MAKE_PEARLASH"
@@ -54437,7 +54434,7 @@ msgstr ""
 #: reaction_other.txt:454
 msgctxt "REACTION:CARVE_BONE_RING"
 msgid "[NAME:carve bone ring]"
-msgstr "[NAME:vyřezat prsten z kosti"
+msgstr "[NAME:vyřezaný kostěnný prsten]"
 
 #: reaction_other.txt:456
 msgctxt "REACTION:CARVE_BONE_RING"
@@ -54462,7 +54459,7 @@ msgstr "[PRODUCT_TOKEN:prsten]"
 #: reaction_other.txt:466
 msgctxt "REACTION:CARVE_BONE_EARRING"
 msgid "[NAME:carve bone earring]"
-msgstr "[NAME:vyřezat naušnice z kosti]"
+msgstr "[NAME:vyřezané kostěnné náušnice]"
 
 #: reaction_other.txt:468
 msgctxt "REACTION:CARVE_BONE_EARRING"
