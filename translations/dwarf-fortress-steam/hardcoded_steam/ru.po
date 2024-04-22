@@ -33,12 +33,13 @@
 # Алексей Кувшинов, 2023
 # Николай «Swamp_Dog» Ковалев, 2024
 # Максим Андрющенко, 2024
-# insolor, 2024
 # Transifex Bot <>, 2024
+# insolor, 2024
+# Artyom, 2024
 # 
 msgid ""
 msgstr ""
-"Last-Translator: Transifex Bot <>, 2024\n"
+"Last-Translator: Artyom, 2024\n"
 "Language-Team: Russian (https://app.transifex.com/dwarf-fortress-translation/teams/22396/ru/)\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -6352,7 +6353,7 @@ msgstr "сожаление"
 
 #: combined.txt:1667
 msgid "remorseful"
-msgstr "угрызения совести"
+msgstr "раскаяние"
 
 #: combined.txt:1668
 msgid "repentant"
@@ -31793,7 +31794,7 @@ msgstr "мои бывший ученик."
 
 #: combined.txt:7836
 msgid " my traveling companion."
-msgstr "мой спутник."
+msgstr " мой спутник."
 
 #: combined.txt:7837
 msgid " my lover."
@@ -85732,7 +85733,7 @@ msgstr "Путешественник"
 
 #: combined.txt:29934
 msgid "the Companion"
-msgstr "Компаньон"
+msgstr "спутник"
 
 #: combined.txt:29935
 msgid "the Pet"
@@ -96579,294 +96580,306 @@ msgstr ""
 
 #: combined.txt:39274
 msgid "Default attack is a strike without charging or wrestling."
-msgstr ""
+msgstr "Атака по умолчанию - удар без натиска или борьбы"
 
 #: combined.txt:39275
 msgid "Default attack is a charging strike."
-msgstr ""
+msgstr "Атака по умолчанию - удар с натиском."
 
 #: combined.txt:39276
 msgid "Default attack is a wrestling move."
-msgstr ""
+msgstr "Атака по умолчанию - борцовский прием."
 
 #: combined.txt:39277
 msgid "Choose default attack according to opponent."
-msgstr ""
+msgstr "Выберите атаку по умолчанию для соответствующего врага."
 
 #: combined.txt:39278
 msgid "Freely move between tiles when dodging if necessary"
 msgstr ""
+"Свободно перемещаться между плитками при уклонении, когда это необходимо"
 
 #: combined.txt:39279
 msgid ""
 "Do not move from current tile when dodging even if it means being struck."
 msgstr ""
+"Не смещаться с выбранной плитки при уклонении, даже если это означает, что "
+"вас ударят."
 
 #: combined.txt:39280
 msgid "Dodge away from charging opponents to avoid being knocked over."
-msgstr ""
+msgstr "Уклоняйтесь от наступающих противников, чтобы не быть сбитым с ног."
 
 #: combined.txt:39281
 msgid "Attempt to stop charging opponents, standing your ground."
-msgstr ""
+msgstr "Попытайтесь остановить наступающих противников, стоя на ногах."
 
 #: combined.txt:39282
 msgid "Handle charging attacks according to the opponent."
-msgstr ""
+msgstr "Выполняйте атаки с натиском в зависимости от противника."
 
 #: combined.txt:39283
 msgid "View all announcements."
-msgstr ""
+msgstr "Просмотреть все объявления"
 
 #: combined.txt:39284
 msgid "Recenter on yourself."
-msgstr ""
+msgstr "Перейти к персонажу."
 
 #: combined.txt:39285
 msgid "Move upward."
-msgstr ""
+msgstr "Двигаться вверх."
 
 #: combined.txt:39286
 msgid "Move downward."
-msgstr ""
+msgstr "Двигаться вниз."
 
 #: combined.txt:39287
 msgid "Travel."
-msgstr ""
+msgstr "Путешествие."
 
 #: combined.txt:39288
 msgid "Sleep or wait a while."
-msgstr ""
+msgstr "Спать или ждать."
 
 #: combined.txt:39289
 msgid "Build. (coming soon)"
-msgstr ""
+msgstr "Строить. (пока недоступно)"
 
 #: combined.txt:39290
 msgid "View your status."
-msgstr ""
+msgstr "Просмотреть свой статус."
 
 #: combined.txt:39291
 msgid "View your log. (coming soon)"
-msgstr ""
+msgstr "Просмотреть журнал. (пока недоступно)"
 
 #: combined.txt:39292
 msgid "Open your inventory."
-msgstr ""
+msgstr "Открыть инвентарь."
 
 #: combined.txt:39293
 msgid "Set movement options."
-msgstr ""
+msgstr "Настройки движения."
 
 #: combined.txt:39294
 msgid "Set combat options."
-msgstr ""
+msgstr "Настройки битвы."
 
 #: combined.txt:39295
 msgid "Interact with nearby objects."
-msgstr ""
+msgstr "Взаимодействовать с объектами."
 
 #: combined.txt:39296
 msgid "Search for bugs."
-msgstr ""
+msgstr "Искать жуков."
 
 #: combined.txt:39297
 msgid "Climb or hold terrain."
-msgstr ""
+msgstr "Карабкаться или держаться за поверхность."
 
 #: combined.txt:39298
 msgid "Jump where."
-msgstr ""
+msgstr "Прыгнуть сюда."
 
 #: combined.txt:39299
 msgid "Talk to somebody."
-msgstr ""
+msgstr "Говорить с кем-то."
 
 #: combined.txt:39300
 msgid "Start a performance.  This can take several turns to complete."
-msgstr ""
+msgstr "Начать представление.  Оно продлится несколько ходов."
 
 #: combined.txt:39301
 msgid "Craft or butcher. (coming soon)"
-msgstr ""
+msgstr "Изготовить или разделать. (пока недоступно)"
 
 #: combined.txt:39302
 msgid "Use ability. (coming soon)"
-msgstr ""
+msgstr "Использовать способность. (пока недоступно)"
 
 #: combined.txt:39303
 msgid "Strike or wrestle somebody adjacent with a melee attack."
-msgstr ""
+msgstr "Ударить или бороться с кем-то рядом."
 
 #: combined.txt:39304
 msgid ""
 "Continue active wrestling. (coming soon - use regular combat to continue "
 "wrestling)"
 msgstr ""
+"Продолжить борьбу. (пока недоступно - используйте обычный бой, чтобы "
+"продолжить борьбу)"
 
 #: combined.txt:39305
 msgid "Shoot.  Requires a ranged weapon and ammunition."
-msgstr ""
+msgstr "Стрелять.  Требуется дальнобойное оружие и снаряды."
 
 #: combined.txt:39306
 msgid ""
 "Tactical mode is on.  You control everybody manually.  Click to control only"
 " this character (others will follow you.)"
 msgstr ""
+"Включен тактический режим.  Вы управляете каждым персонажем вручную.  "
+"Кликните, чтобы управлять только этим персонажем (другие последуют за вами)."
 
 #: combined.txt:39307
 msgid ""
 "Tactical mode is off.  Companions are following you.  Click to control "
 "everybody."
 msgstr ""
+"Тактический режим выключен.  Спутники будут следовать за вами.  Кликните, "
+"чтобы управлять всеми."
 
 #: combined.txt:39308
 msgid "View your companions and tactical settings, or switch party members."
 msgstr ""
+"Проверьте своих компаньонов и тактические настройки или измените состав "
+"группы."
 
 #: combined.txt:39309
 msgid "You are currently yielded.  Click to stop yielding."
-msgstr ""
+msgstr "В данный момент вы сдаетесь. Нажмите, чтобы прекратить процесс сдачи."
 
 #: combined.txt:39310
 msgid "You are not yielded.  Click to yield to opponents."
-msgstr ""
+msgstr "Вы не сдаётесь. Нажмите, чтобы сдаться противнику."
 
 #: combined.txt:39311
 msgid "You have a weapon drawn.  Click to strap it."
-msgstr ""
+msgstr "Ваше оружие обнажено. Нажмите, чтобы повесить его на пояс."
 
 #: combined.txt:39312
 msgid "You have a weapon available to draw.  Click to draw it."
 msgstr ""
+"У вас есть оружие, которое может быть вытащено. Нажмите, чтобы вытащить его."
 
 #: combined.txt:39313
 msgid "You do not have a weapon."
-msgstr ""
+msgstr "У вас нет оружия."
 
 #: combined.txt:39314
 msgid "You are a projectile."
-msgstr ""
+msgstr "Вы - снаряд."
 
 #: combined.txt:39315
 msgid "You are a rider."
-msgstr ""
+msgstr "Вы - наездник."
 
 #: combined.txt:39316
 msgid "You are prone.  Click to stand."
-msgstr ""
+msgstr "Вы пригинаетесь.  Кликните, чтобы выпрямиться."
 
 #: combined.txt:39317
 msgid "You are not prone.  Click to go prone."
-msgstr ""
+msgstr "Вы не пригинаетесь.  Кликните, чтобы пригнуться."
 
 #: combined.txt:39318
 msgid "Close the map."
-msgstr ""
+msgstr "Закрыть карту."
 
 #: combined.txt:39319
 msgid "Go upward."
-msgstr ""
+msgstr "Двигаться вверх."
 
 #: combined.txt:39320
 msgid "Go downward."
-msgstr ""
+msgstr "Двигаться вниз."
 
 #: combined.txt:39321
 msgid "End travel."
-msgstr ""
+msgstr "Завершить путешествие."
 
 #: combined.txt:39322
 msgid "Toggle sneaking."
-msgstr ""
+msgstr "Переключить скрытность."
 
 #: combined.txt:39323
 msgid "View the map."
-msgstr ""
+msgstr "Просмотреть карту."
 
 #: combined.txt:39324
 msgid "Toggle cloud view."
-msgstr ""
+msgstr "Переключить вид облаков."
 
 #: combined.txt:39325
 msgid "Toggle track view. (coming soon)"
-msgstr ""
+msgstr "Переключить видимость следа. (пока недоступно)"
 
 #: combined.txt:39326
 msgid "Drop an item."
-msgstr ""
+msgstr "Уронить предмет."
 
 #: combined.txt:39327
 msgid "Wear an item."
-msgstr ""
+msgstr "Надеть предмет."
 
 #: combined.txt:39328
 msgid "Remove an item."
-msgstr ""
+msgstr "Снять предмет."
 
 #: combined.txt:39329
 msgid "Put an item into a container."
-msgstr ""
+msgstr "Положить предмет в контейнер."
 
 #: combined.txt:39330
 msgid "Eat or drink an item."
-msgstr ""
+msgstr "Съесть или выпить."
 
 #: combined.txt:39331
 msgid "Interact with an item in a different way."
-msgstr ""
+msgstr "Взаимодействовать другим способом."
 
 #: combined.txt:39332
 msgid "View this item."
-msgstr ""
+msgstr "Посмотреть на предмет."
 
 #: combined.txt:39333
 msgid "Drop this item."
-msgstr ""
+msgstr "Уронить предмет."
 
 #: combined.txt:39334
 msgid "Wear this item."
-msgstr ""
+msgstr "Надеть предмет."
 
 #: combined.txt:39335
 msgid "Remove this item."
-msgstr ""
+msgstr "Снять предмет."
 
 #: combined.txt:39336
 msgid "Put this item into a container."
-msgstr ""
+msgstr "Положить предмет в контейнер."
 
 #: combined.txt:39337
 msgid "Eat or drink this item."
-msgstr ""
+msgstr "Съесть или выпить."
 
 #: combined.txt:39338
 msgid "Interact with this item in a different way (opens menu.)"
-msgstr ""
+msgstr "Взаимодействовать другим способом (новое меню)."
 
 #: combined.txt:39339
 msgid "This party member is currently automated in tactical mode."
-msgstr ""
+msgstr "Этот персонаж сейчас управляется автоматически в тактическом режиме."
 
 #: combined.txt:39340
 msgid "This party member is manually controlled in tactical mode."
-msgstr ""
+msgstr "Этот персонаж управляется вручную в тактическом режиме."
 
 #: combined.txt:39341
 msgid "Assume control of this party member."
-msgstr ""
+msgstr "Управлять этим персонажем."
 
 #: combined.txt:39342
 msgid "No food to cook or brew (are you in trouble?)"
-msgstr ""
+msgstr "Нет еды для готовки или варки (похоже, вы в беде?)"
 
 #: combined.txt:39343
 msgid "Acknowledge lack of mortification"
-msgstr ""
+msgstr "Сообщить о недостатке отчаяния"
 
 #: combined.txt:39346
 msgid "[C:7:0:0]No wounds"
-msgstr ""
+msgstr "[C:7:0:0]Нет ран"
 
 #: combined.txt:39347
 msgid "Channel at "
@@ -97772,169 +97785,173 @@ msgstr ""
 
 #: combined.txt:39621
 msgid "Nevermind"
-msgstr ""
+msgstr "Неважно"
 
 #: combined.txt:39622
 msgid "kill "
-msgstr ""
+msgstr "убить "
 
 #: combined.txt:39624
 msgid "Welcome to this early version of Adventure mode."
-msgstr ""
+msgstr "Добро пожаловать в раннюю версию режима приключения."
 
 #: combined.txt:39625
 msgid ""
 "Please be patient with some strangeness, unavailable menus, and other "
 "inconveniences."
 msgstr ""
+"Пожалуйста, будьте терпеливы к некоторым странностям, отсутствующим меню и "
+"другим неудобствам."
 
 #: combined.txt:39626
 msgid "As we push toward the full release, missing features will come in."
 msgstr ""
+"По мере продвижения к релизу отсутствующие возможности постепенно будут "
+"добавлены."
 
 #: combined.txt:39627
 msgid "Have fun!  We're working on it."
-msgstr ""
+msgstr "Веселитесь!"
 
 #: combined.txt:39628
 msgid "Adventurer, choose your destiny!"
-msgstr ""
+msgstr "Искатель приключений, выбери свою судьбу!"
 
 #: combined.txt:39629
 msgid "Chosen"
-msgstr ""
+msgstr "Избранный"
 
 #: combined.txt:39630
 msgid "(coming soon)"
-msgstr ""
+msgstr "(пока недоступно)"
 
 #: combined.txt:39631
 msgid "(in progress)"
-msgstr ""
+msgstr "(в разработке)"
 
 #: combined.txt:39632
 msgid "Ordinary"
-msgstr ""
+msgstr "Обычный"
 
 #: combined.txt:39633
 msgid "Easy difficulty"
-msgstr ""
+msgstr "Легко"
 
 #: combined.txt:39634
 msgid "Normal difficulty"
-msgstr ""
+msgstr "Нормально"
 
 #: combined.txt:39635
 msgid "Hard difficulty"
-msgstr ""
+msgstr "Сложно"
 
 #: combined.txt:39636
 msgid "(Any unretired characters in your party will be unaffected.)"
-msgstr ""
+msgstr "(не повлияет на вернувшихся с пенсии персонажей)"
 
 #: combined.txt:39637
 msgid "Onward to character creation"
-msgstr ""
+msgstr "Перейти к созданию персонажа"
 
 #: combined.txt:39638
 msgid "Create Your Character"
-msgstr ""
+msgstr "Создайте персонажа"
 
 #: combined.txt:39639
 msgid "Specific person"
-msgstr ""
+msgstr "Конкретное существо"
 
 #: combined.txt:39640
 msgid "Intelligent wilderness creature"
-msgstr ""
+msgstr "Разумное дикое существо"
 
 #: combined.txt:39641
 msgid "Select "
-msgstr ""
+msgstr "Выберите "
 
 #: combined.txt:39642
 msgid "specific person"
-msgstr ""
+msgstr "конкретное существо"
 
 #: combined.txt:39643
 msgid "intelligent wilderness creature"
-msgstr ""
+msgstr "разумное дикое существо"
 
 #: combined.txt:39644
 msgid "There are no creatures available."
-msgstr ""
+msgstr "Нет доступных существ"
 
 #: combined.txt:39645
 msgid "Outsider"
-msgstr ""
+msgstr "Изгой"
 
 #: combined.txt:39646
 msgid "From "
-msgstr ""
+msgstr "Из "
 
 #: combined.txt:39647
 msgid "outsider"
-msgstr ""
+msgstr "изгой"
 
 #: combined.txt:39648
 msgid "Name: "
-msgstr ""
+msgstr "Имя: "
 
 #: combined.txt:39649
 msgid "This character is ready to adventure!"
-msgstr ""
+msgstr "Персонаж готов к приключениям!"
 
 #: combined.txt:39650
 msgid "Go!"
-msgstr ""
+msgstr "Вперед!"
 
 #: combined.txt:39651
 msgid "Appearance"
-msgstr ""
+msgstr "Внешний вид"
 
 #: combined.txt:39652
 msgid "Mount and pets"
-msgstr ""
+msgstr "Верховые животные и питомцы"
 
 #: combined.txt:39653
 msgid "Accept attributes and skills"
-msgstr ""
+msgstr "Принять атрибуты и умения"
 
 #: combined.txt:39654
 msgid "Attributes remaining: "
-msgstr ""
+msgstr "Осталось атрибутов: "
 
 #: combined.txt:39655
 msgid "Skill remaining: "
-msgstr ""
+msgstr "Осталось умений: "
 
 #: combined.txt:39656
 msgid "Very Low"
-msgstr ""
+msgstr "Очень низко"
 
 #: combined.txt:39657
 msgid "Below Average"
-msgstr ""
+msgstr "Ниже среднего"
 
 #: combined.txt:39658
 msgid "Average"
-msgstr ""
+msgstr "Средне"
 
 #: combined.txt:39659
 msgid "Above Average"
-msgstr ""
+msgstr "Выше среднего"
 
 #: combined.txt:39660
 msgid "Superior"
-msgstr ""
+msgstr "Превосходно"
 
 #: combined.txt:39661
 msgid "Strength"
-msgstr ""
+msgstr "Сила"
 
 #: combined.txt:39662
 msgid "Agility"
-msgstr ""
+msgstr "Ловкость"
 
 #: combined.txt:39663
 msgid "Toughness"
@@ -97942,587 +97959,596 @@ msgstr ""
 
 #: combined.txt:39664
 msgid "Endurance"
-msgstr ""
+msgstr "Выносливость"
 
 #: combined.txt:39665
 msgid "Recuperation"
-msgstr ""
+msgstr "Восстановление"
 
 #: combined.txt:39666
 msgid "Disease Resistance"
-msgstr ""
+msgstr "Иммунитет"
 
 #: combined.txt:39667
 msgid "Analytical Ability"
-msgstr ""
+msgstr "Аналитика"
 
 #: combined.txt:39668
 msgid "Focus"
-msgstr ""
+msgstr "Фокус"
 
 #: combined.txt:39669
 msgid "Intuition"
-msgstr ""
+msgstr "Интуиция"
 
 #: combined.txt:39670
 msgid "Patience"
-msgstr ""
+msgstr "Терпение"
 
 #: combined.txt:39671
 msgid "Memory"
-msgstr ""
+msgstr "Память"
 
 #: combined.txt:39672
 msgid "Linguistic Ability"
-msgstr ""
+msgstr "Лингвистика"
 
 #: combined.txt:39673
 msgid "Spatial Sense"
-msgstr ""
+msgstr "Чувство пространства"
 
 #: combined.txt:39674
 msgid "Musicality"
-msgstr ""
+msgstr "Музыкальность"
 
 #: combined.txt:39675
 msgid "Kinesthetic Sense"
-msgstr ""
+msgstr "Кинестетика"
 
 #: combined.txt:39676
 msgid "Empathy"
-msgstr ""
+msgstr "Эмпатия"
 
 #: combined.txt:39677
 msgid "Social Awareness"
-msgstr ""
+msgstr "Социальный интеллект"
 
 #: combined.txt:39678
 msgid " pt"
-msgstr ""
+msgstr " п."
 
 #: combined.txt:39679
 msgid "Accept background"
-msgstr ""
+msgstr "Принять биографию"
 
 #: combined.txt:39680
 msgid "Randomize background"
-msgstr ""
+msgstr "Случайная биография"
 
 #: combined.txt:39681
 msgid "Occupation"
-msgstr ""
+msgstr "Занятия"
 
 #: combined.txt:39682
 msgid "Squad member"
-msgstr ""
+msgstr "Член отряда"
 
 #: combined.txt:39683
 msgid "Believe"
-msgstr ""
+msgstr "Верить"
 
 #: combined.txt:39684
 msgid "Doubt"
-msgstr ""
+msgstr "Сомневаться"
 
 #: combined.txt:39685
 msgid ""
 "Note: This character's appearance is governed by local population "
 "information."
-msgstr ""
+msgstr "Вид персонажа соответствует виду местного населения."
 
 #: combined.txt:39686
 msgid "Certain shapes and colors might not occur without full randomization."
-msgstr ""
+msgstr "Некоторые формы и цвета могут не появиться без полной рандомизации."
 
 #: combined.txt:39687
 msgid "Fully randomize appearance, without respecting population information"
 msgstr ""
+"Полностью случайный внешний вид, без соответствия виду местного населения."
 
 #: combined.txt:39688
 msgid "Randomize appearance, respecting local populations"
-msgstr ""
+msgstr "Случайный внешний вид, в соответствии с видом местного населения."
 
 #: combined.txt:39689
 msgid "Randomize appearance"
-msgstr ""
+msgstr "Случайный внешний вид"
 
 #: combined.txt:39690
 msgid "Accept appearance"
-msgstr ""
+msgstr "Принять внешний вид"
 
 #: combined.txt:39691
 msgid "Pray/Meditate"
-msgstr ""
+msgstr "Молиться/медитировать"
 
 #: combined.txt:39692
 msgid "Intense Need"
-msgstr ""
+msgstr "Крайняя нужда"
 
 #: combined.txt:39693
 msgid "Strong Need"
-msgstr ""
+msgstr "Сильная нужда"
 
 #: combined.txt:39694
 msgid "Moderate Need"
-msgstr ""
+msgstr "Средняя нужда"
 
 #: combined.txt:39695
 msgid "Slight Need"
-msgstr ""
+msgstr "Небольшая нужда"
 
 #: combined.txt:39696
 msgid "Full customization"
-msgstr ""
+msgstr "Полная настройка"
 
 #: combined.txt:39697
 msgid "Change dream/goal (if possible)"
-msgstr ""
+msgstr "Изменить мечту/цель (если возможно)"
 
 #: combined.txt:39698
 msgid "Randomize personality"
-msgstr ""
+msgstr "Случайные черты характера"
 
 #: combined.txt:39699
 msgid "Accept personality"
-msgstr ""
+msgstr "Принять черты характера"
 
 #: combined.txt:39700
 msgid "Equipment and pet points remaining: "
-msgstr ""
+msgstr "Осталось очков снаряжения и животных: "
 
 #: combined.txt:39701
 msgid "Accept equipment"
-msgstr ""
+msgstr "Принять снаряжение"
 
 #: combined.txt:39702
 msgid "Ready to adventure!"
-msgstr ""
+msgstr "Готов к приключениям!"
 
 #: combined.txt:39703
 msgid "Add a party member"
-msgstr ""
+msgstr "Добавить участника"
 
 #: combined.txt:39704
 msgid "Adventure awaits!  The party:"
-msgstr ""
+msgstr "Приключения зовут!  Группа:"
 
 #: combined.txt:39705
 msgid "Adventure awaits"
-msgstr ""
+msgstr "Приключения зовут"
 
 #: combined.txt:39706
 msgid ""
 "For the most direction.  You'll have a supernatural parent or patron who is "
 "always involved."
 msgstr ""
+"Максимум указаний.  У вас есть сверхъестественный родитель или покровитель, "
+"который за вами присматривает."
 
 #: combined.txt:39707
 msgid "For an adventure.  There will be some initial and ongoing direction."
 msgstr ""
+"Приключение.  Вам будут даны некоторые начальные указания и указания в "
+"процессе."
 
 #: combined.txt:39708
 msgid ""
 "For the most freedom.  All features are accessible but you'll receive no "
 "direction."
 msgstr ""
+"Максимум свободы.  Все возможности будут доступны, но вы не получите никаких"
+" указаний или пояснений."
 
 #: combined.txt:39709
 msgid "Difficulty only affects starting skills and equipment."
-msgstr ""
+msgstr "Сложность влияет только на начальные умения и снаряжение."
 
 #: combined.txt:39710
 msgid "You are a wanderer of the wilderness."
-msgstr ""
+msgstr "Вы странник в глуши."
 
 #: combined.txt:39711
 msgid "Your wanderings have led you to "
-msgstr ""
+msgstr "Ваши странствия привели вас к "
 
 #: combined.txt:39712
 msgid ".  You are a stranger here."
-msgstr ""
+msgstr ".  Вы здесь чужак."
 
 #: combined.txt:39713
 msgid "You are a newly-minted "
-msgstr ""
+msgstr "Вы - новоиспеченный "
 
 #: combined.txt:39714
 msgid ""
 "You emerged from the wilds and managed to prove yourself to the locals.  Now"
 " you are finally a "
 msgstr ""
+"Вы вышли из глуши и сумели проявить себя положительно перед местными.  "
+"Наконец, вы стали "
 
 #: combined.txt:39715
 msgid " of the great "
-msgstr ""
+msgstr " великого "
 
 #: combined.txt:39716
 msgid ".  Destiny is calling!"
-msgstr ""
+msgstr ".  Судьба зовет!"
 
 #: combined.txt:39717
 msgid "You emerged from the wilds and came to be a "
-msgstr ""
+msgstr "Вы пришли сюда из глуши, чтобы стать "
 
 #: combined.txt:39718
 msgid "You are a "
-msgstr ""
+msgstr "Вы - "
 
 #: combined.txt:39719
 msgid ", and you have never strayed far from home."
-msgstr ""
+msgstr ", и никогда не бывали вдалеке от дома."
 
 #: combined.txt:39720
 msgid "  You are a"
-msgstr ""
+msgstr "  Вы - "
 
 #: combined.txt:39721
 msgid "n ardent"
-msgstr ""
+msgstr " горячий"
 
 #: combined.txt:39722
 msgid " faithful"
-msgstr ""
+msgstr " верный"
 
 #: combined.txt:39723
 msgid " casual"
-msgstr ""
+msgstr " обыкновенный"
 
 #: combined.txt:39724
 msgid " dubious"
-msgstr ""
+msgstr " сомневающийся"
 
 #: combined.txt:39725
 msgid " worshipper of "
-msgstr ""
+msgstr " поклонник "
 
 #: combined.txt:39726
 msgid ", the force"
-msgstr ""
+msgstr ", силы"
 
 #: combined.txt:39727
 msgid ", and you belong to "
-msgstr ""
+msgstr ", и принадлежите к "
 
 #: combined.txt:39728
 msgid " sermon on "
-msgstr ""
+msgstr " проповедь о "
 
 #: combined.txt:39729
 msgid " telling of the story of "
-msgstr ""
+msgstr " рассказывая историю о "
 
 #: combined.txt:39730
 msgid " recitation of "
-msgstr ""
+msgstr " исполнение "
 
 #: combined.txt:39731
 msgid "playing"
-msgstr ""
+msgstr "молитва"
 
 #: combined.txt:39732
 msgid " performance of "
-msgstr ""
+msgstr " выступление "
 
 #: combined.txt:39734
 msgid "worthlessness"
-msgstr ""
+msgstr "бесполезность"
 
 #: combined.txt:39735
 msgid "value"
-msgstr ""
+msgstr "ценность"
 
 #: combined.txt:39736
 msgid "martial"
-msgstr ""
+msgstr "военные"
 
 #: combined.txt:39737
 msgid "prowess"
-msgstr ""
+msgstr "умения"
 
 #: combined.txt:39738
 msgid "leisure"
-msgstr ""
+msgstr "свободное время"
 
 #: combined.txt:39739
 msgid "suspicion"
-msgstr ""
+msgstr "подозрение"
 
 #: combined.txt:39740
 msgid "alarm"
-msgstr ""
+msgstr "тревога"
 
 #: combined.txt:39741
 msgid "shock"
-msgstr ""
+msgstr "шок"
 
 #: combined.txt:39742
 msgid "grief"
-msgstr ""
+msgstr "горе"
 
 #: combined.txt:39743
 msgid "satisfaction"
-msgstr ""
+msgstr "удовлетворение"
 
 #: combined.txt:39744
 msgid "sadness"
-msgstr ""
+msgstr "грусть"
 
 #: combined.txt:39745
 msgid "bliss"
-msgstr ""
+msgstr "блаженство"
 
 #: combined.txt:39746
 msgid "vengefulness"
-msgstr ""
+msgstr "мстительность"
 
 #: combined.txt:39747
 msgid "terror"
-msgstr ""
+msgstr "ужас"
 
 #: combined.txt:39748
 msgid "acceptance"
-msgstr ""
+msgstr "принятие"
 
 #: combined.txt:39749
 msgid "agitation"
-msgstr ""
+msgstr "волнение"
 
 #: combined.txt:39750
 msgid "aggravation"
-msgstr ""
+msgstr "раздражение"
 
 #: combined.txt:39751
 msgid "alienation"
-msgstr ""
+msgstr "отчуждение"
 
 #: combined.txt:39752
 msgid "amazement"
-msgstr ""
+msgstr "изумление"
 
 #: combined.txt:39753
 msgid "ambivalence"
-msgstr ""
+msgstr "противоречивость"
 
 #: combined.txt:39754
 msgid "amusement"
-msgstr ""
+msgstr "восхищени"
 
 #: combined.txt:39755
 msgid "anger"
-msgstr ""
+msgstr "гнев"
 
 #: combined.txt:39756
 msgid "annoyance"
-msgstr ""
+msgstr "раздражение"
 
 #: combined.txt:39757
 msgid "anxiety"
-msgstr ""
+msgstr "тревожность"
 
 #: combined.txt:39758
 msgid "apathy"
-msgstr ""
+msgstr "апатия"
 
 #: combined.txt:39759
 msgid "arousal"
-msgstr ""
+msgstr "возбуждение"
 
 #: combined.txt:39760
 msgid "astonishment"
-msgstr ""
+msgstr "изумление"
 
 #: combined.txt:39761
 msgid "bitterness"
-msgstr ""
+msgstr "горечь"
 
 #: combined.txt:39762
 msgid "boredom"
-msgstr ""
+msgstr "скука"
 
 #: combined.txt:39763
 msgid "confusion"
-msgstr ""
+msgstr "смущение"
 
 #: combined.txt:39764
 msgid "contempt"
-msgstr ""
+msgstr "презрение"
 
 #: combined.txt:39765
 msgid "contentment"
-msgstr ""
+msgstr "довольство"
 
 #: combined.txt:39766
 msgid "dejection"
-msgstr ""
+msgstr "уныние"
 
 #: combined.txt:39767
 msgid "delight"
-msgstr ""
+msgstr "восторг"
 
 #: combined.txt:39768
 msgid "disappointment"
-msgstr ""
+msgstr "разочарование"
 
 #: combined.txt:39769
 msgid "disgust"
-msgstr ""
+msgstr "отвращение"
 
 #: combined.txt:39770
 msgid "dismay"
-msgstr ""
+msgstr "смятение"
 
 #: combined.txt:39771
 msgid "distress"
-msgstr ""
+msgstr "бедствие"
 
 #: combined.txt:39772
 msgid "eagerness"
-msgstr ""
+msgstr "рвение"
 
 #: combined.txt:39773
 msgid "elation"
-msgstr ""
+msgstr "восторг"
 
 #: combined.txt:39774
 msgid "embarrassment"
-msgstr ""
+msgstr "смущение"
 
 #: combined.txt:39775
 msgid "emptiness"
-msgstr ""
+msgstr "пустота"
 
 #: combined.txt:39776
 msgid "exasperation"
-msgstr ""
+msgstr "раздражение"
 
 #: combined.txt:39777
 msgid "exhilaration"
-msgstr ""
+msgstr "веселье"
 
 #: combined.txt:39778
 msgid "fright"
-msgstr ""
+msgstr "страх"
 
 #: combined.txt:39779
 msgid "frustration"
-msgstr ""
+msgstr "фрустрация"
 
 #: combined.txt:39780
 msgid "glee"
-msgstr ""
+msgstr "веселье"
 
 #: combined.txt:39781
 msgid "glumness"
-msgstr ""
+msgstr "угрюмость"
 
 #: combined.txt:39782
 msgid "grouchiness"
-msgstr ""
+msgstr "брюзгливость"
 
 #: combined.txt:39783
 msgid "grumpiness"
-msgstr ""
+msgstr "ворчливость"
 
 #: combined.txt:39784
 msgid "guilt"
-msgstr ""
+msgstr "вина"
 
 #: combined.txt:39785
 msgid "hatred"
-msgstr ""
+msgstr "ненависть"
 
 #: combined.txt:39786
 msgid "hopelessness"
-msgstr ""
+msgstr "безнадёжность"
 
 #: combined.txt:39787
 msgid "humiliation"
-msgstr ""
+msgstr "унижение"
 
 #: combined.txt:39788
 msgid "insult"
-msgstr ""
+msgstr "оскорбление"
 
 #: combined.txt:39789
 msgid "interest"
-msgstr ""
+msgstr "интерес"
 
 #: combined.txt:39790
 msgid "irritation"
-msgstr ""
+msgstr "раздражение"
 
 #: combined.txt:39791
 msgid "isolation"
-msgstr ""
+msgstr "отчуждение"
 
 #: combined.txt:39792
 msgid "jolliness"
-msgstr ""
+msgstr "веселье"
 
 #: combined.txt:39793
 msgid "joviality"
-msgstr ""
+msgstr "веселье"
 
 #: combined.txt:39794
 msgid "jubilation"
-msgstr ""
+msgstr "ликование"
 
 #: combined.txt:39795
 msgid "loneliness"
-msgstr ""
+msgstr "одиночество"
 
 #: combined.txt:39796
 msgid "mortification"
-msgstr ""
+msgstr "унижение"
 
 #: combined.txt:39797
 msgid "nervousness"
-msgstr ""
+msgstr "нервозность"
 
 #: combined.txt:39798
 msgid "nostalgia"
-msgstr ""
+msgstr "ностальгия"
 
 #: combined.txt:39799
 msgid "optimism"
-msgstr ""
+msgstr "оптимизм"
 
 #: combined.txt:39800
 msgid "outrage"
-msgstr ""
+msgstr "возмущение"
 
 #: combined.txt:39801
 msgid "panic"
-msgstr ""
+msgstr "паника"
 
 #: combined.txt:39802
 msgid "patience"
-msgstr ""
+msgstr "терпение"
 
 #: combined.txt:39803
 msgid "passion"
-msgstr ""
+msgstr "страсть"
 
 #: combined.txt:39804
 msgid "rapture"
-msgstr ""
+msgstr "восторг"
 
 #: combined.txt:39805
 msgid "rejection"
-msgstr ""
+msgstr "отвержение"
 
 #: combined.txt:39806
 msgid "relief"
-msgstr ""
+msgstr "обрегчение"
 
 #: combined.txt:39807
 msgid "regret"
-msgstr ""
+msgstr "сожаление"
 
 #: combined.txt:39808
 msgid "remorse"
-msgstr ""
+msgstr "раскаяние"
 
 #: combined.txt:39809
 msgid "repentance"
@@ -98634,79 +98660,81 @@ msgstr ""
 
 #: combined.txt:39836
 msgid "Express your emotions (new menu)"
-msgstr ""
+msgstr "Выразите свои эмоции (новое меню)"
 
 #: combined.txt:39837
 msgid "express"
-msgstr ""
+msgstr "выражать"
 
 #: combined.txt:39838
 msgid "feeling"
-msgstr ""
+msgstr "чувства"
 
 #: combined.txt:39839
 msgid "emotion"
-msgstr ""
+msgstr "эмоции"
 
 #: combined.txt:39840
 msgid "State your values (new menu)"
-msgstr ""
+msgstr "Укажите свои ценности (новое меню)"
 
 #: combined.txt:39841
 msgid "state"
-msgstr ""
+msgstr "указывать"
 
 #: combined.txt:39842
 msgid "values"
-msgstr ""
+msgstr "ценности"
 
 #: combined.txt:39843
 msgid "Investigate or interrogate (new menu)"
-msgstr ""
+msgstr "Расследовать или допрашивать (новое меню)"
 
 #: combined.txt:39844
 msgid "investigate"
-msgstr ""
+msgstr "расследовать"
 
 #: combined.txt:39845
 msgid "interrogate"
-msgstr ""
+msgstr "допрашивать"
 
 #: combined.txt:39846
 msgid "Ask favor, place request, make demand or issue order (new menu)"
 msgstr ""
+"Просить об услуге, обратиться с просьбой, выдвинуть требования или отдать "
+"приказ (новое меню)"
 
 #: combined.txt:39847
 msgid "favor"
-msgstr ""
+msgstr "услуга"
 
 #: combined.txt:39848
 msgid "request"
-msgstr ""
+msgstr "просьба"
 
 #: combined.txt:39849
 msgid "Create a performance troupe together (group naming menu)"
-msgstr ""
+msgstr "Создайте исполнительную труппу вместе (меню названия группы)"
 
 #: combined.txt:39850
 msgid "troupe"
-msgstr ""
+msgstr "труппа"
 
 #: combined.txt:39851
 msgid "Claim this site for yourself and "
-msgstr ""
+msgstr "Претензия на этот участок для себя и "
 
 #: combined.txt:39852
 msgid "Claim this site for yourself (group naming menu)"
-msgstr ""
+msgstr "Претензия на этот участок для себя (меню названия группы)"
 
 #: combined.txt:39853
 msgid "Name pet (new menu)"
-msgstr ""
+msgstr "Имя питомца (новое меню)"
 
 #: combined.txt:39854
 msgid "Gift a (large) pet or mount (new menu)"
-msgstr ""
+msgstr "Подарить (большого) питомца или скакуна (новое меню)"
 
 #: combined.txt:39855
 msgid "give"
@@ -98718,51 +98746,51 @@ msgstr ""
 
 #: combined.txt:39857
 msgid "Express horror at the gift"
-msgstr ""
+msgstr "Выразить ужас от подарка "
 
 #: combined.txt:39858
 msgid "Express thanks for the gift"
-msgstr ""
+msgstr "Выразить благодарность за подарок"
 
 #: combined.txt:39859
 msgid "thanks"
-msgstr ""
+msgstr "благодарность"
 
 #: combined.txt:39860
 msgid "yes"
-msgstr ""
+msgstr "да"
 
 #: combined.txt:39861
 msgid "Give "
-msgstr ""
+msgstr "Дать "
 
 #: combined.txt:39862
 msgid "Ask about somebody (new menu)"
-msgstr ""
+msgstr "Спросить о ком-то (новое меню)"
 
 #: combined.txt:39863
 msgid "reputation"
-msgstr ""
+msgstr "репутация"
 
 #: combined.txt:39864
 msgid "who"
-msgstr ""
+msgstr "кто"
 
 #: combined.txt:39865
 msgid "Ask for directions (new menu)"
-msgstr ""
+msgstr "Узнать направление (новое меню)"
 
 #: combined.txt:39866
 msgid "directions"
-msgstr ""
+msgstr "направление"
 
 #: combined.txt:39867
 msgid "where"
-msgstr ""
+msgstr "где"
 
 #: combined.txt:39868
 msgid "Bring up specific incident or rumor (new menu)"
-msgstr ""
+msgstr "Обсудите конкретный инцидент или слух (новое меню)"
 
 #: combined.txt:39869
 msgid "tell"
@@ -98770,35 +98798,35 @@ msgstr ""
 
 #: combined.txt:39870
 msgid "Ask about "
-msgstr ""
+msgstr "Спросить о "
 
 #: combined.txt:39871
 msgid "army"
-msgstr ""
+msgstr "восках"
 
 #: combined.txt:39872
 msgid "bandit"
-msgstr ""
+msgstr "разбойниках"
 
 #: combined.txt:39873
 msgid "skulking"
-msgstr ""
+msgstr "скрывающихся"
 
 #: combined.txt:39874
 msgid "vermin"
-msgstr ""
+msgstr "вредителях"
 
 #: combined.txt:39875
 msgid "ruffian"
-msgstr ""
+msgstr "хулиганах"
 
 #: combined.txt:39876
 msgid "Inquire about any troubles"
-msgstr ""
+msgstr "Спросить о неприятностях"
 
 #: combined.txt:39877
 msgid "troubles"
-msgstr ""
+msgstr "неприятности"
 
 #: combined.txt:39878
 msgid "Request a guide to "
@@ -106077,7 +106105,7 @@ msgstr ""
 
 #: combined.txt:41859
 msgid "Companions"
-msgstr ""
+msgstr "Спутники"
 
 #: combined.txt:41860
 msgid "Nearby"
