@@ -12316,7 +12316,7 @@ msgstr "Уменьшение пути при складировании (ком�
 
 #: combined.txt:2848
 msgid "Population cap"
-msgstr "Предел численности населения"
+msgstr "Лимит населения"
 
 #: combined.txt:2849
 msgid "Strict population cap (includes births)"
@@ -12332,11 +12332,11 @@ msgstr "Предел численности детей (процент от на
 
 #: combined.txt:2852
 msgid "Visitor cap"
-msgstr "Предел посетителей крепости"
+msgstr "Лимит посетителей"
 
 #: combined.txt:2853
 msgid "Cull dead units at"
-msgstr "Забывать покойников после  "
+msgstr "Забывать покойников после "
 
 #: combined.txt:2854
 msgid "Seed cap (per species)"
@@ -12344,19 +12344,19 @@ msgstr "Предел количества семян (каждого вида)"
 
 #: combined.txt:2855
 msgid "Total seed cap"
-msgstr "Общий предел количества семян"
+msgstr "Общий лимит семян"
 
 #: combined.txt:2856
 msgid "Engravings start obscured"
-msgstr "Гравюры непонятны до осмотра"
+msgstr "Гравюры изначально скрыты"
 
 #: combined.txt:2857
 msgid "Show improvement quality in item names"
-msgstr "Показывать качество улучшения в названиях товаров"
+msgstr "Показывать качество в названиях предметов"
 
 #: combined.txt:2858
 msgid "Show numeric liquid levels"
-msgstr "Показывать числовые уровни жидкости"
+msgstr "Показывать уровень жидкости числами"
 
 #: combined.txt:2859
 msgid "Show up/down arrows on ramps at current elevation"
@@ -12396,11 +12396,11 @@ msgstr "Коэффициент выпаса (выше = меньше травы)
 
 #: combined.txt:2868
 msgid "Show frames-per-second"
-msgstr "Показывать кадры в секунду"
+msgstr "Показывать FPS"
 
 #: combined.txt:2869
 msgid "Game frames-per-second cap (default 100)"
-msgstr "Максимальное количество игровых кадров в секунду (по умолчанию 100)"
+msgstr "Максимум FPS (по умолчанию 100)"
 
 #: combined.txt:2870
 msgid "Key hold milliseconds before repeat"
@@ -12452,59 +12452,59 @@ msgstr "Оборотни могут атаковать"
 
 #: combined.txt:2882
 msgid "Curious wilderness creatures can come to cause trouble"
-msgstr "Любопытные дикие звери могут прийти и причинить неприятности"
+msgstr "Любопытные дикие животные могут причинить неприятности"
 
 #: combined.txt:2883
 msgid "Enemy population trigger 1"
-msgstr "Триггер 1 прихода врагов при достижении населения"
+msgstr "Enemy population trigger 1"
 
 #: combined.txt:2884
 msgid "Enemy population trigger 2"
-msgstr "Триггер 2 прихода врагов при достижении населения"
+msgstr "Enemy population trigger 2"
 
 #: combined.txt:2885
 msgid "Enemy population trigger 3"
-msgstr "Триггер 3 прихода врагов при достижении населения"
+msgstr "Enemy population trigger 3"
 
 #: combined.txt:2886
 msgid "Enemy population trigger 4"
-msgstr "Триггер 4 прихода врагов при достижении населения"
+msgstr "Enemy population trigger 4"
 
 #: combined.txt:2887
 msgid "Enemy population trigger 5"
-msgstr "Триггер 5 прихода врагов при достижении населения"
+msgstr "Enemy population trigger 5"
 
 #: combined.txt:2888
 msgid "Enemy production trigger 1"
-msgstr "Триггер 1 прихода врагов при достижении производства"
+msgstr "Enemy production trigger 1"
 
 #: combined.txt:2889
 msgid "Enemy production trigger 2"
-msgstr "Триггер 2 прихода врагов при достижении производства"
+msgstr "Enemy production trigger 2"
 
 #: combined.txt:2890
 msgid "Enemy production trigger 3"
-msgstr "Триггер 3 прихода врагов при достижении производства"
+msgstr "Enemy production trigger 3"
 
 #: combined.txt:2891
 msgid "Enemy production trigger 4"
-msgstr "Триггер 4 прихода врагов при достижении производства"
+msgstr "Enemy production trigger 4"
 
 #: combined.txt:2892
 msgid "Enemy production trigger 5"
-msgstr "Триггер 5 прихода врагов при достижении производства"
+msgstr "Enemy production trigger 5"
 
 #: combined.txt:2893
 msgid "Enemy trade trigger 1"
-msgstr "Триггер 1 прихода врагов при достижении торговли"
+msgstr "Enemy trade trigger 1"
 
 #: combined.txt:2894
 msgid "Enemy trade trigger 2"
-msgstr "Триггер 2 прихода врагов при достижении торговли"
+msgstr "Enemy trade trigger 2"
 
 #: combined.txt:2895
 msgid "Enemy trade trigger 3"
-msgstr "Триггер 3 прихода врагов при достижении торговли"
+msgstr "Enemy trade trigger 3"
 
 #: combined.txt:2896
 msgid "Enemy trade trigger 4"
@@ -12512,7 +12512,7 @@ msgstr "Enemy trade trigger 4"
 
 #: combined.txt:2897
 msgid "Enemy trade trigger 5"
-msgstr "Триггер 5 прихода врагов при достижении торговли"
+msgstr "Enemy trade trigger 5"
 
 #: combined.txt:2898
 msgid "Megabeast attack period (seasons)"
@@ -12864,11 +12864,11 @@ msgstr "Версия:"
 
 #: combined.txt:3088
 msgid "Steam title: "
-msgstr "Steam заголовок: "
+msgstr "Заголовок в Steam: "
 
 #: combined.txt:3089
 msgid "Steam file id: "
-msgstr "Идентификатор файла Steam:"
+msgstr "Идентификатор файла в Steam:"
 
 #: combined.txt:3090
 msgid "None yet"
@@ -12880,31 +12880,31 @@ msgstr "Журнал изменений в Steam:"
 
 #: combined.txt:3092
 msgid "Steam metadata: "
-msgstr "Метаданные Steam:"
+msgstr "Метаданные в Steam: "
 
 #: combined.txt:3093
 msgid "Earliest compatible version: "
-msgstr "Самая ранняя совместимая версия:"
+msgstr "Самая ранняя совместимая версия: "
 
 #: combined.txt:3094
 msgid "Steam description:"
-msgstr "Steam описание:"
+msgstr "Описание в Steam:"
 
 #: combined.txt:3095
 msgid "Must be after "
-msgstr "Должен быть после "
+msgstr "Должно быть после "
 
 #: combined.txt:3096
 msgid "Must be before "
-msgstr "Должен быть до "
+msgstr "Должно быть до "
 
 #: combined.txt:3097
 msgid "Requires "
-msgstr "Требуется"
+msgstr "Требует "
 
 #: combined.txt:3098
 msgid "Conflicts with "
-msgstr "Конфликты с"
+msgstr "Конфликтует с "
 
 #: combined.txt:3099
 msgid "Uploading mod"
@@ -12928,7 +12928,7 @@ msgstr "Описание:"
 
 #: combined.txt:3104
 msgid "  Dwarf Fortress: Arena  "
-msgstr " Dwarf Fortress: Арена "
+msgstr "  Dwarf Fortress: Арена  "
 
 #: combined.txt:3105
 msgid "Loading object files..."
@@ -12984,7 +12984,7 @@ msgstr "Предметы..."
 
 #: combined.txt:3118
 msgid "Buildings..."
-msgstr "Строения..."
+msgstr "Постройки..."
 
 #: combined.txt:3119
 msgid "Body detail plans..."
