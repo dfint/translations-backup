@@ -53667,7 +53667,7 @@ msgstr ""
 #: reaction_other.txt:27
 msgctxt "REACTION:MAKE_SOAP_FROM_TALLOW"
 msgid "[NAME:make soap from tallow]"
-msgstr "[NAME:vyrobte mýdlo z loje]"
+msgstr "[NAME:vyrobit mýdlo z loje]"
 
 #: reaction_other.txt:29
 msgctxt "REACTION:MAKE_SOAP_FROM_TALLOW"
@@ -53697,7 +53697,7 @@ msgstr "[PRODUCT:100:1:BAR:NONE:GET_MATERIAL_FROM_REAGENT:lůj:]"
 #: reaction_other.txt:41
 msgctxt "REACTION:MAKE_SOAP_FROM_OIL"
 msgid "[NAME:make soap from oil]"
-msgstr "[NAME:vyrobte mýdlo z oleje]"
+msgstr "[NAME:vyrobit mýdlo z oleje]"
 
 #: reaction_other.txt:43
 msgctxt "REACTION:MAKE_SOAP_FROM_OIL"
@@ -53827,7 +53827,7 @@ msgstr "[PRODUCT:100:1:STATUE:NONE:GET_MATERIAL_FROM_REAGENT:jíl:]"
 #: reaction_other.txt:121
 msgctxt "REACTION:MAKE_LARGE_CLAY_POT"
 msgid "[NAME:make large clay pot]"
-msgstr "[NAME:vyrobte velký hliněný hrnec]"
+msgstr "[NAME:vyrobit velký hliněný hrnec]"
 
 #: reaction_other.txt:123
 msgctxt "REACTION:MAKE_LARGE_CLAY_POT"
@@ -53899,77 +53899,78 @@ msgstr ""
 #: reaction_other.txt:172
 msgctxt "REACTION:GLAZE_LARGE_POT"
 msgid "[NAME:glaze large clay/stone pot]"
-msgstr ""
+msgstr "[NAME:glazovat velký jílový/kamenný hrnec]"
 
 #: reaction_other.txt:174
 msgctxt "REACTION:GLAZE_LARGE_POT"
 msgid "[REAGENT:glaze:]"
-msgstr ""
+msgstr "[REAGENT:glazura:]"
 
 #: reaction_other.txt:176
 msgctxt "REACTION:GLAZE_LARGE_POT"
 msgid "[REAGENT:large pot:]"
-msgstr ""
+msgstr "[REAGENT:velký hrnec:]"
 
 #: reaction_other.txt:181
 msgctxt "REACTION:GLAZE_LARGE_POT"
 msgid "[IMPROVEMENT:100:large pot:GLAZED:GET_MATERIAL_FROM_REAGENT:glaze:]"
 msgstr ""
+"[IMPROVEMENT:100:velký hrnec:GLAZED:GET_MATERIAL_FROM_REAGENT:glazura:]"
 
 #: reaction_other.txt:186
 msgctxt "REACTION:GLAZE_CRAFT"
 msgid "[NAME:glaze clay/stone craft]"
-msgstr "[NAME:glazování jílových/kamenných výrobků]"
+msgstr "[NAME:glazovat jílový/kamenný výrobek]"
 
 #: reaction_other.txt:188
 msgctxt "REACTION:GLAZE_CRAFT"
 msgid "[REAGENT:glaze:]"
-msgstr ""
+msgstr "[REAGENT:glazura:]"
 
 #: reaction_other.txt:190
 msgctxt "REACTION:GLAZE_CRAFT"
 msgid "[REAGENT:craft:]"
-msgstr ""
+msgstr "[REAGENT:výrobek:]"
 
 #: reaction_other.txt:195
 msgctxt "REACTION:GLAZE_CRAFT"
 msgid "[IMPROVEMENT:100:craft:GLAZED:GET_MATERIAL_FROM_REAGENT:glaze:]"
-msgstr ""
+msgstr "[IMPROVEMENT:100:výrobek:GLAZED:GET_MATERIAL_FROM_REAGENT:glazura:]"
 
 #: reaction_other.txt:200
 msgctxt "REACTION:PRESS_OIL"
 msgid "[NAME:press liquid from paste]"
-msgstr ""
+msgstr "[NAME:vylisovat tekutinu z pasty]"
 
 #: reaction_other.txt:202
 msgctxt "REACTION:PRESS_OIL"
 msgid "[REAGENT:paste:]"
-msgstr ""
+msgstr "[REAGENT:pasta:]"
 
 #: reaction_other.txt:205
 msgctxt "REACTION:PRESS_OIL"
 msgid "[REAGENT:liquid container:]"
-msgstr ""
+msgstr "[REAGENT:nádoba na kapalinu:]"
 
 #: reaction_other.txt:211
 msgctxt "REACTION:PRESS_OIL"
 msgid "[PRODUCT:100:1:LIQUID_MISC:NONE:GET_MATERIAL_FROM_REAGENT:paste:]"
-msgstr ""
+msgstr "[PRODUCT:100:1:LIQUID_MISC:NONE:GET_MATERIAL_FROM_REAGENT:pasta:]"
 
 #: reaction_other.txt:211
 msgctxt "REACTION:PRESS_OIL"
 msgid "[PRODUCT_TO_CONTAINER:liquid container]"
-msgstr ""
+msgstr "[PRODUCT_TO_CONTAINER:nádoba na kapalinu]"
 
 #: reaction_other.txt:212
 msgctxt "REACTION:PRESS_OIL"
 msgid "[PRODUCT:100:1:GLOB:NONE:GET_MATERIAL_FROM_REAGENT:paste:]"
-msgstr ""
+msgstr "[PRODUCT:100:1:GLOB:NONE:GET_MATERIAL_FROM_REAGENT:pasta:]"
 
 #: reaction_other.txt:216
 msgctxt "REACTION:PRESS_OIL_FRUIT"
 msgid "[NAME:press liquid from fruit]"
-msgstr ""
+msgstr "[NAME:vylisovat tekutinu z ovoce]"
 
 #: reaction_other.txt:218
 msgctxt "REACTION:PRESS_OIL_FRUIT"
@@ -53979,7 +53980,7 @@ msgstr "[REAGENT:rostlina:]"
 #: reaction_other.txt:222
 msgctxt "REACTION:PRESS_OIL_FRUIT"
 msgid "[REAGENT:liquid container:]"
-msgstr ""
+msgstr "[REAGENT:nádoba na kapalinu:]"
 
 #: reaction_other.txt:228
 msgctxt "REACTION:PRESS_OIL_FRUIT"
@@ -53989,7 +53990,7 @@ msgstr "[PRODUCT:100:1:LIQUID_MISC:NONE:GET_MATERIAL_FROM_REAGENT:rostlina:]"
 #: reaction_other.txt:228
 msgctxt "REACTION:PRESS_OIL_FRUIT"
 msgid "[PRODUCT_TO_CONTAINER:liquid container]"
-msgstr ""
+msgstr "[PRODUCT_TO_CONTAINER:nádoba na kapalinu]"
 
 #: reaction_other.txt:229
 msgctxt "REACTION:PRESS_OIL_FRUIT"
@@ -53999,7 +54000,7 @@ msgstr "[PRODUCT:100:1:GLOB:NONE:GET_MATERIAL_FROM_REAGENT:rostlina:]"
 #: reaction_other.txt:233
 msgctxt "REACTION:MAKE_CLAY_HIVE"
 msgid "[NAME:make clay hive]"
-msgstr "[NAME:vyrobte hliněný úl]"
+msgstr "[NAME:vyrobit hliněný úl]"
 
 #: reaction_other.txt:235
 msgctxt "REACTION:MAKE_CLAY_HIVE"
@@ -54014,17 +54015,17 @@ msgstr "[PRODUCT:100:1:TOOL:ITEM_TOOL_HIVE:GET_MATERIAL_FROM_REAGENT:jíl:]"
 #: reaction_other.txt:242
 msgctxt "REACTION:PRESS_HONEYCOMB"
 msgid "[NAME:press honey from honeycomb]"
-msgstr ""
+msgstr "[NAME:vylisovat med z včelí plástve]"
 
 #: reaction_other.txt:244
 msgctxt "REACTION:PRESS_HONEYCOMB"
 msgid "[REAGENT:honeycomb:]"
-msgstr ""
+msgstr "[REAGENT:plástev:]"
 
 #: reaction_other.txt:247
 msgctxt "REACTION:PRESS_HONEYCOMB"
 msgid "[REAGENT:liquid container:]"
-msgstr ""
+msgstr "[REAGENT:nádoba na kapalinu:]"
 
 #: reaction_other.txt:253
 msgctxt "REACTION:PRESS_HONEYCOMB"
@@ -54034,7 +54035,7 @@ msgstr "[PRODUCT:100:1:LIQUID_MISC:NONE:GET_MATERIAL_FROM_REAGENT:plástev:]"
 #: reaction_other.txt:253
 msgctxt "REACTION:PRESS_HONEYCOMB"
 msgid "[PRODUCT_TO_CONTAINER:liquid container]"
-msgstr ""
+msgstr "[PRODUCT_TO_CONTAINER:nádoba na kapalinu]"
 
 #: reaction_other.txt:254
 msgctxt "REACTION:PRESS_HONEYCOMB"
@@ -54044,7 +54045,7 @@ msgstr "[PRODUCT:100:1:GLOB:NONE:GET_MATERIAL_FROM_REAGENT:plástev:]"
 #: reaction_other.txt:258
 msgctxt "REACTION:MAKE_WAX_CRAFTS"
 msgid "[NAME:make wax crafts]"
-msgstr "[NAME:vyrobte vosková řemesla]"
+msgstr "[NAME:vyrobit voskové výrobky]"
 
 #: reaction_other.txt:260
 msgctxt "REACTION:MAKE_WAX_CRAFTS"
@@ -54059,7 +54060,7 @@ msgstr "[PRODUCT:100:1:CRAFTS:NONE:GET_MATERIAL_FROM_REAGENT:vosk:]"
 #: reaction_other.txt:266
 msgctxt "REACTION:BREW_DRINK_FROM_PLANT"
 msgid "[NAME:brew drink from plant]"
-msgstr ""
+msgstr "[NAME:uvařit nápoj z rostliny]"
 
 #: reaction_other.txt:268
 msgctxt "REACTION:BREW_DRINK_FROM_PLANT"
@@ -54079,7 +54080,7 @@ msgstr "[PRODUCT:100:5:DRINK:NONE:GET_MATERIAL_FROM_REAGENT:rostlina:]"
 #: reaction_other.txt:277
 msgctxt "REACTION:BREW_DRINK_FROM_PLANT"
 msgid "[PRODUCT_TO_CONTAINER:barrel/pot]"
-msgstr ""
+msgstr "[PRODUCT_TO_CONTAINER:sud/hrnec]"
 
 #: reaction_other.txt:279
 msgctxt "REACTION:BREW_DRINK_FROM_PLANT"
@@ -54089,7 +54090,7 @@ msgstr "[PRODUCT:100:1:SEEDS:NONE:GET_MATERIAL_FROM_REAGENT:rostlina:]"
 #: reaction_other.txt:283
 msgctxt "REACTION:BREW_DRINK_FROM_PLANT_GROWTH"
 msgid "[NAME:brew drink from fruit]"
-msgstr ""
+msgstr "[NAME:uvařit nápoj z ovoce]"
 
 #: reaction_other.txt:285
 msgctxt "REACTION:BREW_DRINK_FROM_PLANT_GROWTH"
@@ -54109,7 +54110,7 @@ msgstr "[PRODUCT:100:5:DRINK:NONE:GET_MATERIAL_FROM_REAGENT:rostlina:]"
 #: reaction_other.txt:294
 msgctxt "REACTION:BREW_DRINK_FROM_PLANT_GROWTH"
 msgid "[PRODUCT_TO_CONTAINER:barrel/pot]"
-msgstr ""
+msgstr "[PRODUCT_TO_CONTAINER:sud/hrnec]"
 
 #: reaction_other.txt:296
 msgctxt "REACTION:BREW_DRINK_FROM_PLANT_GROWTH"
@@ -54119,7 +54120,7 @@ msgstr "[PRODUCT:100:1:SEEDS:NONE:GET_MATERIAL_FROM_REAGENT:rostlina:]"
 #: reaction_other.txt:300
 msgctxt "REACTION:MAKE_MEAD"
 msgid "[NAME:make mead]"
-msgstr "[NAME:vyrobte medovinu]"
+msgstr "[NAME:vyrobit medovinu]"
 
 #: reaction_other.txt:302
 msgctxt "REACTION:MAKE_MEAD"
@@ -54149,12 +54150,12 @@ msgstr "[PRODUCT:100:5:DRINK:NONE:GET_MATERIAL_FROM_REAGENT:med:]"
 #: reaction_other.txt:314
 msgctxt "REACTION:MAKE_MEAD"
 msgid "[PRODUCT_TO_CONTAINER:barrel/pot]"
-msgstr ""
+msgstr "[PRODUCT_TO_CONTAINER:sud/hrnec]"
 
 #: reaction_other.txt:319
 msgctxt "REACTION:PROCESS_PLANT_TO_BAG"
 msgid "[NAME:process plant to bag]"
-msgstr ""
+msgstr "[NAME:zpracuj rostlinu do pytle]"
 
 #: reaction_other.txt:321
 msgctxt "REACTION:PROCESS_PLANT_TO_BAG"
@@ -54164,7 +54165,7 @@ msgstr "[REAGENT:rostlina:]"
 #: reaction_other.txt:324
 msgctxt "REACTION:PROCESS_PLANT_TO_BAG"
 msgid "[REAGENT:bag:]"
-msgstr ""
+msgstr "[REAGENT:pytel:]"
 
 #: reaction_other.txt:328
 msgctxt "REACTION:PROCESS_PLANT_TO_BAG"
@@ -54174,7 +54175,7 @@ msgstr "[PRODUCT:100:5:GET_ITEM_DATA_FROM_REAGENT:rostlina:]"
 #: reaction_other.txt:329
 msgctxt "REACTION:PROCESS_PLANT_TO_BAG"
 msgid "[PRODUCT_TO_CONTAINER:bag]"
-msgstr ""
+msgstr "[PRODUCT_TO_CONTAINER:pytel]"
 
 #: reaction_other.txt:330
 msgctxt "REACTION:PROCESS_PLANT_TO_BAG"
