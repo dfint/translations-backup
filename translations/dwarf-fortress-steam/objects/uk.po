@@ -2,10 +2,11 @@
 # Translators:
 # Kostia BabiCh, 2024
 # insolor, 2024
+# Артем Артем, 2024
 # 
 msgid ""
 msgstr ""
-"Last-Translator: insolor, 2024\n"
+"Last-Translator: Артем Артем, 2024\n"
 "Language-Team: Ukrainian (https://app.transifex.com/dwarf-fortress-translation/teams/22396/uk/)\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -2842,12 +2843,12 @@ msgstr "[BP:LHORN:другий ріг:другі роги]"
 #: body_default.txt:1312
 msgctxt "BODY:2HEAD_ANTLER"
 msgid "[BP:RHORN:right antler:STP]"
-msgstr ""
+msgstr "[BP:RHORN: Правий ріг:STP]"
 
 #: body_default.txt:1314
 msgctxt "BODY:2HEAD_ANTLER"
 msgid "[BP:LHORN:left antler:STP]"
-msgstr ""
+msgstr "[BP:RHORN: лівий ріг:STP]"
 
 #: body_default.txt:1318
 msgctxt "BODY:1EYE"
@@ -3598,32 +3599,32 @@ msgstr "[BP:EYELID:повіка:повіки]"
 #: body_default.txt:1655
 msgctxt "BODY:RIBCAGE"
 msgid "[BP:L_TRUE_RIB:left true rib:STP]"
-msgstr ""
+msgstr "[BP:L_TRUE_RIB:справжні ребра зліва:STP]"
 
 #: body_default.txt:1657
 msgctxt "BODY:RIBCAGE"
 msgid "[BP:R_TRUE_RIB:right true rib:STP]"
-msgstr ""
+msgstr "[BP:L_TRUE_RIB:справжні ребра справа:STP]"
 
 #: body_default.txt:1659
 msgctxt "BODY:RIBCAGE"
 msgid "[BP:L_FALSE_RIB:left false rib:STP]"
-msgstr ""
+msgstr "[BP:L_TRUE_RIB:несправжні ребра зліва:STP]"
 
 #: body_default.txt:1661
 msgctxt "BODY:RIBCAGE"
 msgid "[BP:R_FALSE_RIB:right false rib:STP]"
-msgstr ""
+msgstr "[BP:L_TRUE_RIB:несправжні ребра справа:STP]"
 
 #: body_default.txt:1663
 msgctxt "BODY:RIBCAGE"
 msgid "[BP:L_FLOATING_RIB:left floating rib:STP]"
-msgstr ""
+msgstr "[BP:L_TRUE_RIB:нижнє ребро зліва:STP]"
 
 #: body_default.txt:1665
 msgctxt "BODY:RIBCAGE"
 msgid "[BP:R_FLOATING_RIB:right floating rib:STP]"
-msgstr ""
+msgstr "[BP:L_TRUE_RIB:нижнє ребро справа:STP]"
 
 #: body_default.txt:1669
 msgctxt "BODY:GENERIC_TEETH_WITH_LARGE_EYE_TEETH"
