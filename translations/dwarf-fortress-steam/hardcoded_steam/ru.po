@@ -39,13 +39,13 @@
 # Алексей Припадчев, 2024
 # Матвей Пономарёв, 2024
 # Transifex Bot <>, 2024
-# insolor, 2024
 # Николай «Swamp_Dog» Ковалев, 2024
 # Юрий Техтелев, 2024
+# insolor, 2024
 # 
 msgid ""
 msgstr ""
-"Last-Translator: Юрий Техтелев, 2024\n"
+"Last-Translator: insolor, 2024\n"
 "Language-Team: Russian (https://app.transifex.com/dwarf-fortress-translation/teams/22396/ru/)\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -3923,7 +3923,7 @@ msgid "Back"
 msgstr "Назад"
 
 msgid "Need accessible mechanisms."
-msgstr "Нужны доступные механизмы."
+msgstr "Нужны механизмы."
 
 msgid "Link lever"
 msgstr "Связать рычаг"
@@ -3938,7 +3938,7 @@ msgid "Add new task"
 msgstr "Задание"
 
 msgid "Workers cannot be assigned to this building."
-msgstr "Рабочие не могут быть назначены в это строение."
+msgstr "В эту постройку нельзя назначить рабочих."
 
 msgid "This workshop is free for anybody to use."
 msgstr "Эта мастерская доступна всем."
@@ -3971,7 +3971,7 @@ msgid "The bucket is full."
 msgstr "Ведро полное."
 
 msgid "The well is operational."
-msgstr "Колодец находится в рабочем состоянии."
+msgstr "Колодец в рабочем состоянии."
 
 msgid "The well is dry."
 msgstr "Колодец высох."
@@ -5850,7 +5850,7 @@ msgid "Save"
 msgstr "Сохранить"
 
 msgid "What would you like to name this timeline?"
-msgstr "Как назвать эту временную линию?"
+msgstr "Как назвать эту линию времени?"
 
 msgid "Saves starting here will be grouped on the"
 msgstr "Сохранения, начинающиеся здесь, будут сгруппированы на"
@@ -5943,16 +5943,16 @@ msgid "Continue"
 msgstr "Продолжить"
 
 msgid "Save to this timeline"
-msgstr "Сохранить в эту временную линию"
+msgstr "Сохранить в эту линию времени"
 
 msgid "Save to timeline folder: "
-msgstr "Сохранить временную линию в папку: "
+msgstr "Сохранить линию времени в папку: "
 
 msgid "Save to new timeline"
-msgstr "Сохранить в новую временную линию"
+msgstr "Сохранить в новую линию времени"
 
 msgid "Save to new folder (same timeline)"
-msgstr "В новую папку (та же временная линия)"
+msgstr "В новую папку (та же линия времени)"
 
 msgid "May interfere with existing saves."
 msgstr "Возможны конфликты."
@@ -5964,7 +5964,7 @@ msgid "Recommended!"
 msgstr "Рекомендуется!"
 
 msgid "Multiple copies of the timeline found."
-msgstr "Обнаружено несколько копий временной линии."
+msgstr "Обнаружено несколько копий линии времени."
 
 msgid "Dwarf Fortress"
 msgstr "Dwarf Fortress"
@@ -8127,16 +8127,16 @@ msgid ""
 "[C:5:0:0]Performers[C:7:0:0] or a [C:5:0:0]Tavern Keeper[C:7:0:0] who will "
 "serve the "
 msgstr ""
-"В меню [C:5:0:1]Информация о таверне[C:7:0:0] вы можете назначить "
-"[C:5:0:0]Исполнителей[C:7:0:0] или [C:5:0:0]Хозяина Таверны[C:7:0:0], "
-"который будет подавать "
+"В меню [C:5:0:1]Информация о таверне[C:7:0:0] можно назначить "
+"[C:5:0:0]Исполнителей[C:7:0:0] или [C:5:0:0]Трактирщика[C:7:0:0], который "
+"будет подавать "
 
 msgid ""
 "visitors drinks. There is also an option to allow outsiders to come to your "
 "[C:1:0:1]Tavern[C:7:0:0]."
 msgstr ""
-"посетителям напитки. Также есть возможность разрешить посторонним приходить "
-"в вашу [C:1:0:1]Таверну[C:7:0:0]."
+"посетителям напитки. Также можно разрешить посторонним приходить в вашу "
+"[C:1:0:1]Таверну[C:7:0:0]."
 
 msgid "[C:7:0:1]Temples[C:7:0:0]"
 msgstr "[C:7:0:1]Храмы[C:7:0:0]"
@@ -10240,7 +10240,7 @@ msgid "Folder"
 msgstr "Папка"
 
 msgid "Timeline: "
-msgstr "Временная шкала:"
+msgstr "Линия времени:"
 
 msgid " saves"
 msgstr "сохранения"
@@ -13049,7 +13049,7 @@ msgid "Only organized religions can have recognized priesthoods."
 msgstr "Только организованные религии могут иметь признанное духовенство."
 
 msgid "Tavern Keeper"
-msgstr "Хозяин таверны"
+msgstr "Трактирщик"
 
 msgid "Monster Slayer"
 msgstr "Охотник на монстров"
@@ -13094,7 +13094,7 @@ msgid "outside the fortress."
 msgstr "из других земель."
 
 msgid "Add or choose a location."
-msgstr "Добавьте или выберите место."
+msgstr "Добавить или выбрать место."
 
 msgid "Remove current location assignment"
 msgstr "Удалить назначение местоположения"
@@ -17466,13 +17466,13 @@ msgid "Choose a uniform for the"
 msgstr "Выберите форму для"
 
 msgid "seleced positions."
-msgstr "выбранные позиции."
+msgstr "выбранных позиций."
 
 msgid "seleced squads."
-msgstr "выбранные отряды. "
+msgstr "выбранных отрядов."
 
 msgid "squad."
-msgstr "отряд."
+msgstr "отряда."
 
 msgid "No uniform"
 msgstr "Нет формы"
@@ -17481,7 +17481,7 @@ msgid "Off duty"
 msgstr "Не на службе"
 
 msgid "Staggered training"
-msgstr "Чередующаяся тренировка "
+msgstr "Посменная тренировка"
 
 msgid "Constant training"
 msgstr "Постоянная трен."
@@ -17490,7 +17490,7 @@ msgid "Create which squad?"
 msgstr "Какой создать отряд?"
 
 msgid "'s squad"
-msgstr "отряд"
+msgstr " отряд"
 
 msgid "Military routines"
 msgstr "Воинские процедуры"
@@ -17505,7 +17505,7 @@ msgid "Really delete this routine?"
 msgstr "Действительно удалить эту процедуру?"
 
 msgid "Current month"
-msgstr "Текущий месяц"
+msgstr "Этот месяц"
 
 msgid "Add/edit routines (columns)"
 msgstr "Изменить процедуры (колонки)"
@@ -48247,7 +48247,7 @@ msgid "The instrument has a"
 msgstr "Инструмент может издавать звуки в диапазоне "
 
 msgid "Shear "
-msgstr "Стричь  "
+msgstr "Стричь "
 
 msgid "Spin thread"
 msgstr "Плести нить"
