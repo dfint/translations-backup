@@ -4,12 +4,12 @@
 # Balasłaŭ Niekraševič <b.niekrashevich@gmail.com>, 2023
 # Mark, 2023
 # insolor, 2024
-# Juryj Jeŭkovič, 2024
 # Transifex Bot <>, 2024
+# Juryj Jeŭkovič, 2024
 # 
 msgid ""
 msgstr ""
-"Last-Translator: Transifex Bot <>, 2024\n"
+"Last-Translator: Juryj Jeŭkovič, 2024\n"
 "Language-Team: Belarusian (https://app.transifex.com/dwarf-fortress-translation/teams/22396/be/)\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -14507,7 +14507,7 @@ msgid "Open the work orders menu."
 msgstr "Адкрыць меню загадаў."
 
 msgid "Open the nobles and administrators menu."
-msgstr ""
+msgstr "Адкрыйце меню \"шляхта і адміністрацыя\"."
 
 msgid "Open the objects menu."
 msgstr "Адкрыць меню рэчаў."
@@ -14590,26 +14590,31 @@ msgid "This work order is active."
 msgstr "Працоўны загад актыўны."
 
 msgid "This work order is waiting for its next scheduled check."
-msgstr "Працоўны загад чакае наступнай запланаванай актывацыі."
+msgstr "Працоўны загад чакае наступнай запланаванай праверкі."
 
 msgid "This work order is checking its conditions for activation."
-msgstr ""
+msgstr "Для гэтага працоўнага загада правяраюцца ўмовы актывацыі."
 
 msgid "This work order is ready to activate."
-msgstr ""
+msgstr "Працоўны загад гатовы для актывацыі"
 
 msgid ""
 "Set the maximum number of workshops that can be used by the work order."
 msgstr ""
+"Прызначце максімальную колькасць майстэрняў, якія могуць быць скарыстаны для"
+" выканання працоўнага загада. "
 
 msgid "This work order has been validated by the manager."
-msgstr ""
+msgstr "Гэты працоўны загад быў падцверджаны мэнэджарам. "
 
 msgid ""
 "This work order has not been validated by the manager.  A manager can be "
 "employed in the nobles and administrators menu, and they must have an "
 "assigned office where they will work to validate orders."
 msgstr ""
+"Гэты працоўны загад не быў сцверджаны мэнэджарам. Апошняга можна прызначыць "
+"у меню \"шляхта і адміністрацыя\". Ён павеінен мець свой офіс, дзе ён будзе "
+"правяраць і сцвярджаць загады."
 
 msgid "Change the number of times the task will be performed."
 msgstr ""
@@ -14618,41 +14623,51 @@ msgid ""
 "Change the work order priority.  Work orders at the top of the list will use"
 " workshops first."
 msgstr ""
+"Змяніць прыарытэт працоўнага загада. Працоўныя загады з верхніх радкоў спіса"
+" будуць выконвацца майстэрнямі ў першую чаргу."
 
 msgid ""
 "Set the conditions for work order activation.  This can involve needed "
 "materials, the current stock of products, or the completion of other work "
 "orders."
 msgstr ""
+"Прызначце ўмовы актывацыі загада. Умовы могуць складацца з наяўнасці "
+"неабходных матэрыялаў, колькасці матэрыялаў на складах, альбо выкананне "
+"іншых працоўных загадаў."
 
 msgid "Set the material used or other details of the task."
 msgstr ""
+"Прызначце матэрыял для выканання задання ці некаторыя іншыя падрабязнасці."
 
 msgid "Remove this work order."
-msgstr ""
+msgstr "Скасуйце працоўны загад."
 
 msgid "Change the frequency that the conditions are checked."
 msgstr ""
 
 msgid "Add a condition to the work order that checks the amount of some item."
 msgstr ""
+"Дадайце ўмовы выканання працоўнага загада, якія будуць правяраць колькасць "
+"якіх-небудзь рэчаў ці матэрыялаў."
 
 msgid ""
 "Make the activation of the work order depend on the status of another work "
 "order."
 msgstr ""
+"Зрабіць актывацыю працоўнага загада залежнай ад статусу выканання іншага "
+"працоўнага загада."
 
 msgid "Change the amount of the item being checked."
-msgstr ""
+msgstr "Змяніць колькасць правяраемых рэчаў ці матэрыялаў."
 
 msgid "Change the inequality of the condition."
 msgstr ""
 
 msgid "Change the type of the item being checked."
-msgstr ""
+msgstr "Змяніць тып правяраемай рэчы альбо матэрыяла."
 
 msgid "Change the material of the item being checked."
-msgstr ""
+msgstr "Змяніць матэрыял правяраемай рэчы."
 
 msgid ""
 "Change the properties of the item being checked.  Many of these are obscure "
@@ -14664,39 +14679,42 @@ msgid ""
 "Change whether the work order must be activated or completed to satisfy this"
 " condition."
 msgstr ""
+"Прызначце, ці павінен працоўны загад быць выкананы ці актывізаваны , каб "
+"выканаць гэтую ўмову."
 
 msgid "Remove this condition."
-msgstr ""
+msgstr "Скасаваць умовы."
 
 msgid "Leave this menu and recenter on this creature."
-msgstr ""
+msgstr "Закрыйце меню ды ізноў звярніце ўвагу на гэтае стварэнне."
 
 msgid "Leave this menu and view this creature's sheet."
-msgstr ""
+msgstr "Закрыйце меню ды паглядзіце характарыстыкі гэтай істоты."
 
 msgid "Leave this menu and recenter on this object."
-msgstr ""
+msgstr "Закрыйце меню ды ізноў звярніце ўвагу на гэты аб'ект."
 
 msgid "Leave this menu and view this object's sheet."
-msgstr ""
+msgstr "Закрыйце меню ды паглядзіце характарыстыкі гэтага аб'екту.."
 
 msgid "Leave this menu and recenter on this place."
-msgstr ""
+msgstr "Закрыйце меню ды ізноў звярніце ўвагу на гэтую прастору."
 
 msgid "Leave this menu and view this place's sheet or menu."
-msgstr ""
+msgstr "Закрыйце меню ды паглядзіце характарыстыкі гэтай прасторы."
 
 msgid "Leave this menu and recenter on the task's building."
-msgstr ""
+msgstr "Закрыйце меню ды ізноў звярніце ўвагу на кампанаванні задання."
 
 msgid "Set the details of this task, such as the material used."
 msgstr ""
+"Прызначце ўмовы гэтага задання, напрыклад, матэрыял, які будзе скарыстовыны."
 
 msgid "View a detailed description of this activity."
-msgstr ""
+msgstr "Глядзець падрабязнае апісанне гэтай падзеі."
 
 msgid "Toggle whether the task will be repeated indefinitely."
-msgstr ""
+msgstr "Прызначце, ці будзе заданне бясконца паўторвацца."
 
 msgid "Remove the current worker from the task."
 msgstr "Скасаваць бягучага працаўніка з загаду."
@@ -14704,83 +14722,97 @@ msgstr "Скасаваць бягучага працаўніка з загаду
 msgid ""
 "Suspend this task.  This removes the worker.  The task can be unsuspended."
 msgstr ""
+"Прыпыніць гэтае заданне, гэта вызваляе працоўнага. Некаторыя заданні "
+"немагчыма прыпыніць."
 
 msgid "Cancel this task."
-msgstr ""
+msgstr "Скасаваць гэтае заданне."
 
 msgid "Assign a trainer to this creature."
-msgstr ""
+msgstr "Прызначце дрэсіроўшчыка гэтаму стварэнню."
 
 msgid ""
 "Assign this creature as a work animal for a specific citizen or resident."
 msgstr ""
+"Прызначце гэтую жывёлу як працоўную дапамогу да якога-небудзь тутэйшага."
 
 msgid ""
 "Toggle whether this creature will receive war training.  War animals have "
 "more lethal attacks."
 msgstr ""
+"Прызначце, ці будзе гэтая жывёла праходзіць вайсковую падрыхтоўку. "
+"Падрыхтаваныя да бою жывёлы больш небяспечныя для вашых ворагаў."
 
 msgid ""
 "Toggle whether this creature will receive hunting training.  Hunting animals"
 " can move stealthfully during hunts."
 msgstr ""
+"Прызначце, ці будзе жывёла дэсіравацца для палявання. Паляўнічыя жывёлы "
+"здольныя перасоўвацца бясшумна і нябачна пад час палявання."
 
 msgid ""
 "Toggle whether this creature is available as a pet for any interested "
 "citizen or resident."
 msgstr ""
+"Прызначце, ці дазваляецца тутэйшым браць сабе гэтую жывёлу як хатняга "
+"гадаванца."
 
 msgid "This creature is ecstatic right now."
-msgstr ""
+msgstr "Гэтая істота зараз ў сапраўдным экстазе."
 
 msgid "This creature is happy right now."
-msgstr ""
+msgstr "Гэтая істота зараз шчаслівая."
 
 msgid "This creature is pleased right now."
-msgstr ""
+msgstr "Гэтая істота зараз узрадваная."
 
 msgid "This creature is content right now."
-msgstr ""
+msgstr "Гэтая істота зараз задаволеная."
 
 msgid "This creature is displeased right now."
-msgstr ""
+msgstr "Гэтая істота зараз незадаволеная."
 
 msgid "This creature is unhappy right now."
-msgstr ""
+msgstr "Гэтая істота сумуе зараз."
 
 msgid "This creature is miserable right now."
-msgstr ""
+msgstr "Гэта істота адчувае смутак ды журбу."
 
 msgid ""
 "This worker is specialized and will only do tasks that match their workshop "
 "assignments, work details, and occupations.  Click to toggle."
 msgstr ""
+"Гэты працоўны мае спецыялізацыю і будзе выконваць толькі тыя заданні, якія "
+"адпавядаюць яго прафесійным магчамасцям у дакладных майстэрнях ці без іх. "
+"Націсніце, каб прызначыць."
 
 msgid ""
 "This worker is not specialized and will do any free tasks that become "
 "available.  Click to toggle."
 msgstr ""
+"Гэты працоўны не мае спецыялізаці і будзе выконваць усе актуальныя заданні. "
+"Націсніце, каб прызначыць."
 
 msgid "This creature is a tavern keeper."
-msgstr ""
+msgstr "Гэтая істота - карчмар."
 
 msgid "This creature is a performer."
-msgstr ""
+msgstr "Гэтая істота - артыст."
 
 msgid "This creature is a scholar."
-msgstr ""
+msgstr "Гэтая істота - вучоны."
 
 msgid "This creature is a scribe."
-msgstr ""
+msgstr "Гэтая істота - пішчы."
 
 msgid "This creature is a mercenary."
-msgstr ""
+msgstr "Гэтая істота - найміт."
 
 msgid "This creature is a monster slayer."
-msgstr ""
+msgstr "Гэтая істота - вядьмар, паляўнічы на пачварын."
 
 msgid "This creature is a doctor."
-msgstr ""
+msgstr "Гэтая істота - лекар."
 
 msgid "This creature is assigned to a specific workshop."
 msgstr ""
