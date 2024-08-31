@@ -70067,6 +70067,9 @@ msgstr ""
 msgid "angel-vault"
 msgstr ""
 
+msgid "normal"
+msgstr ""
+
 msgid "kobold"
 msgstr ""
 
@@ -70121,6 +70124,30 @@ msgstr ""
 msgid "wetland"
 msgstr ""
 
+msgid "combat-intro"
+msgstr ""
+
+msgid "combat-intro-drum-low"
+msgstr ""
+
+msgid "combat-intro-drum-mid"
+msgstr ""
+
+msgid "combat-intro-drum-high"
+msgstr ""
+
+msgid "combat-stinger"
+msgstr ""
+
+msgid "combat-stinger-low"
+msgstr ""
+
+msgid "combat-loop-low"
+msgstr ""
+
+msgid "combat-outro-stinger"
+msgstr ""
+
 msgid "strike-the-earth"
 msgstr ""
 
@@ -70130,16 +70157,22 @@ msgstr ""
 msgid "acc-gtr"
 msgstr ""
 
-msgid "acc-main-gtr"
+msgid "lead"
 msgstr ""
 
-msgid "clap-drop"
+msgid "drop-gtr"
 msgstr ""
 
 msgid "main-gtr"
 msgstr ""
 
+msgid "acc-main-gtr"
+msgstr ""
+
 msgid "pads"
+msgstr ""
+
+msgid "clap-drop"
 msgstr ""
 
 msgid "acc-gtr-2"
@@ -70184,7 +70217,25 @@ msgstr ""
 msgid "stia"
 msgstr ""
 
+msgid "rcab"
+msgstr ""
+
 msgid "main-rtm"
+msgstr ""
+
+msgid "am-card-1"
+msgstr ""
+
+msgid "am-card-2"
+msgstr ""
+
+msgid "am-card-3"
+msgstr ""
+
+msgid "am-card-5"
+msgstr ""
+
+msgid "ste-card"
 msgstr ""
 
 msgid "ascend-stairs"
@@ -70286,6 +70337,9 @@ msgstr ""
 msgid "quest-log"
 msgstr ""
 
+msgid "sheath"
+msgstr ""
+
 msgid "sneak-off"
 msgstr ""
 
@@ -70307,22 +70361,30 @@ msgstr ""
 msgid "tracks-on"
 msgstr ""
 
+msgid "view-map"
+msgstr ""
+
 msgid "generic-small"
 msgstr ""
 
 msgid "whoosh"
 msgstr ""
 
-msgid "Yell out service order"
+msgid "repentance"
 msgstr ""
 
-msgid "Beware doubt."
+msgid ""
+"  Perhaps some of the people here will be worth talking to before you "
+"continue on your way."
 msgstr ""
 
-msgid "(etc.)"
+msgid " worshipper of "
 msgstr ""
 
-msgid "Drop an item."
+msgid "It will not be fair."
+msgstr ""
+
+msgid "Push Object"
 msgstr ""
 
 msgid "Done: "
@@ -71127,13 +71189,7 @@ msgstr ""
 msgid "No Artifact/"
 msgstr ""
 
-msgid "Menu Confirm"
-msgstr ""
-
 msgid "Assume Control"
-msgstr ""
-
-msgid "prowess"
 msgstr ""
 
 msgid "you will need to unretire or recruit"
@@ -71205,13 +71261,7 @@ msgstr ""
 msgid "Nickname position (adv mode)"
 msgstr ""
 
-msgid "Self-pity"
-msgstr ""
-
-msgid "-beta20"
-msgstr ""
-
-msgid "Refuse to have "
+msgid "-beta21"
 msgstr ""
 
 msgid " (Owes you "
@@ -71402,22 +71452,10 @@ msgstr ""
 msgid "You make nothing."
 msgstr ""
 
-msgid "a word but you cannot read"
+msgid "  Let some days pass."
 msgstr ""
 
-msgid "keeper"
-msgstr ""
-
-msgid "State feelings of gratitude"
-msgstr ""
-
-msgid "A sudden upheaval is in store."
-msgstr ""
-
-msgid "No quick attack: enraged"
-msgstr ""
-
-msgid "Fail the struggle against great dismay"
+msgid "State feelings of embarassment"
 msgstr ""
 
 msgid "Default attack is a strike without charging or wrestling."
@@ -71585,6 +71623,9 @@ msgstr ""
 msgid "Toggle track view. (coming soon)"
 msgstr ""
 
+msgid "Drop an item."
+msgstr ""
+
 msgid "Wear an item."
 msgstr ""
 
@@ -71630,19 +71671,19 @@ msgstr ""
 msgid "Assume control of this party member."
 msgstr ""
 
-msgid "State feelings of disgust"
+msgid "Visual Stealth Factors"
 msgstr ""
 
-msgid "Verbally struggle against rage"
+msgid "You emerged from the wilds and came to be a "
 msgstr ""
 
 msgid "Sort units by how involved they are in the crime."
 msgstr ""
 
-msgid "State feelings of great excitement"
+msgid "[C:7:0:0]No wounds"
 msgstr ""
 
-msgid "[C:7:0:0]No wounds"
+msgid " level"
 msgstr ""
 
 msgid "Channel at "
@@ -71667,6 +71708,9 @@ msgid "Found DSPs for channel "
 msgstr ""
 
 msgid "Removed DSPs for channel "
+msgstr ""
+
+msgid " marked as ready to release."
 msgstr ""
 
 msgid "Callback has ended for channel "
@@ -71747,7 +71791,13 @@ msgstr ""
 msgid "stof argument out of range"
 msgstr ""
 
+msgid "initializing DFAS"
+msgstr ""
+
 msgid "FMOD: Failed to initialise system object"
+msgstr ""
+
+msgid "resetting all 'current' DFAS variables"
 msgstr ""
 
 msgid "setting channel group for "
@@ -71783,10 +71833,49 @@ msgstr ""
 msgid "New channel created for "
 msgstr ""
 
-msgid "All threads and stopping threads have exited."
+msgid " Volume: "
 msgstr ""
 
-msgid " Volume: "
+msgid "audio-utils: showing DSP information for the channel "
+msgstr ""
+
+msgid "audio-utils: DSPs: "
+msgstr ""
+
+msgid "        Name: "
+msgstr ""
+
+msgid "        Version: "
+msgstr ""
+
+msgid "        Active Status: "
+msgstr ""
+
+msgid "        Channels: "
+msgstr ""
+
+msgid "        Inputs: "
+msgstr ""
+
+msgid "        Outputs: "
+msgstr ""
+
+msgid "        Config Width: "
+msgstr ""
+
+msgid "        Config Height: "
+msgstr ""
+
+msgid "        Wet-Dry Mix"
+msgstr ""
+
+msgid "            [pre-wet]  : "
+msgstr ""
+
+msgid "            [post-wet] : "
+msgstr ""
+
+msgid "            [dry]      : "
 msgstr ""
 
 msgid "Composer generated a chord progression for "
@@ -71804,10 +71893,22 @@ msgstr ""
 msgid " from the regional variants for "
 msgstr ""
 
+msgid "Passed a region variant that does not exist for the "
+msgstr ""
+
+msgid " region ("
+msgstr ""
+
+msgid "looking for a main starting loop..."
+msgstr ""
+
+msgid "found a main starting loop, using that channel to get position..."
+msgstr ""
+
 msgid "no ambiance layer found by name"
 msgstr ""
 
-msgid "normal"
+msgid "no ambiance layer found by ambiance"
 msgstr ""
 
 msgid "Alignment Ambiance"
@@ -71840,13 +71941,18 @@ msgstr ""
 msgid "spawning safe thread"
 msgstr ""
 
-msgid "no ambiance layer found by ambiance"
+msgid " ambiance layer is about to start looping."
 msgstr ""
 
 msgid "Found a currently playing ambiance layer with the same name ("
 msgstr ""
 
 msgid "), stopping it."
+msgstr ""
+
+msgid ""
+"song has been stopped, so abandoning ambiance watcher to adjust volume after"
+" song stops."
 msgstr ""
 
 msgid "locked mutex "
@@ -72117,23 +72223,83 @@ msgstr ""
 msgid "The length provided exceeds the allowable limit."
 msgstr ""
 
-msgid ""
-"all new songs have been played at least once, so picking from all songs, "
-"even older ones."
-msgstr ""
-
-msgid ""
-"all new songs have not been played at least once, so picking from all new "
-"songs."
-msgstr ""
-
-msgid "Picking a song by the "
+msgid "Picking a combat song by the "
 msgstr ""
 
 msgid " name..."
 msgstr ""
 
-msgid "song selected: "
+msgid ""
+"all new combat songs have been played at least once, so picking from all "
+"songs, even older ones."
+msgstr ""
+
+msgid ""
+"all new combat songs have not been played at least once, so picking from all"
+" new songs."
+msgstr ""
+
+msgid "combat song selected: "
+msgstr ""
+
+msgid "attempted to play a new combat song, but it was not set."
+msgstr ""
+
+msgid " until next measure start."
+msgstr ""
+
+msgid " in after one measure"
+msgstr ""
+
+msgid "choosing the "
+msgstr ""
+
+msgid " layer to add on the combat song."
+msgstr ""
+
+msgid "no more loop layers to add to this group"
+msgstr ""
+
+msgid "stopping the \""
+msgstr ""
+
+msgid "\" combat song."
+msgstr ""
+
+msgid "starting group #"
+msgstr ""
+
+msgid " with the main loop..."
+msgstr ""
+
+msgid " 'starting loop' layer to play."
+msgstr ""
+
+msgid "no more groups of loops to play, combat song is done, stopping..."
+msgstr ""
+
+msgid " of stingers..."
+msgstr ""
+
+msgid "picking the "
+msgstr ""
+
+msgid " 'stinger' layer to bridge to the next group of the combat song."
+msgstr ""
+
+msgid "stopping combat song after stingers for group #"
+msgstr ""
+
+msgid ", as there are no more groups of loops."
+msgstr ""
+
+msgid "stopping group #"
+msgstr ""
+
+msgid " layers over one measure"
+msgstr ""
+
+msgid " 'loop' layer to stop."
 msgstr ""
 
 msgid "playing all layers."
@@ -72142,7 +72308,7 @@ msgstr ""
 msgid "no dynamic moments for this playthrough."
 msgstr ""
 
-msgid "choosing the "
+msgid " 'always play' layer to start the song."
 msgstr ""
 
 msgid " layer to start the song."
@@ -72159,7 +72325,38 @@ msgstr ""
 msgid "created starting layer configuration."
 msgstr ""
 
-msgid "no more playing layers, so abandoning moments from song."
+msgid "curated moment happening."
+msgstr ""
+
+msgid "inflection moment happening."
+msgstr ""
+
+msgid "song has been stopped, so abandoning moments from song."
+msgstr ""
+
+msgid ""
+"no curated moment present for the defined measure, so no curated layers "
+"selected."
+msgstr ""
+
+msgid ""
+"searching curated layer configurations for the layer configuration with the "
+"least amount of different layers."
+msgstr ""
+
+msgid ""
+"curated layers match the previous curated layers, attempting new curated "
+"layer configuration."
+msgstr ""
+
+msgid ""
+"picked a unique new list of curated layers that hasn't been played yet."
+msgstr ""
+
+msgid "all curated configurations exhausted, so playing all layers."
+msgstr ""
+
+msgid " selected."
 msgstr ""
 
 msgid ""
@@ -72173,16 +72370,13 @@ msgstr ""
 msgid " layer because it's not in the new layer configuration."
 msgstr ""
 
-msgid "FMOD: Failed to get number of channels"
-msgstr ""
-
 msgid "not removing the "
 msgstr ""
 
 msgid " layer because it's in the layer configuration."
 msgstr ""
 
-msgid "adding the "
+msgid "force-adding the "
 msgstr ""
 
 msgid " layer because it's not in the currently playing layers."
@@ -72210,6 +72404,9 @@ msgid "waiting to fade song layer "
 msgstr ""
 
 msgid "no layers to add"
+msgstr ""
+
+msgid "adding the "
 msgstr ""
 
 msgid "fading song layer in over "
@@ -72248,13 +72445,37 @@ msgstr ""
 msgid "), not altering panning or volume."
 msgstr ""
 
+msgid "region bits sent from region polling did not map to a region."
+msgstr ""
+
+msgid "positioning "
+msgstr ""
+
+msgid " region ambiance at (x: "
+msgstr ""
+
+msgid ", y: "
+msgstr ""
+
+msgid ") tiles away."
+msgstr ""
+
+msgid " alignment ambiance at (x: "
+msgstr ""
+
+msgid "found non-polled ambiance ("
+msgstr ""
+
+msgid ") playing, so stopping it."
+msgstr ""
+
+msgid "found non-polled alignment ambiance ("
+msgstr ""
+
 msgid "set a region variant ("
 msgstr ""
 
 msgid ") for "
-msgstr ""
-
-msgid "set an alignment ("
 msgstr ""
 
 msgid "attempted to set a region variant ("
@@ -72266,6 +72487,9 @@ msgstr ""
 msgid "no region variant provided for "
 msgstr ""
 
+msgid "set an alignment ("
+msgstr ""
+
 msgid "attempted to set an alignment ("
 msgstr ""
 
@@ -72273,6 +72497,9 @@ msgid ") but it didn't exist."
 msgstr ""
 
 msgid "no alignment provided for "
+msgstr ""
+
+msgid "no valid poll data sent, so can't set new region information."
 msgstr ""
 
 msgid " position"
@@ -72287,25 +72514,27 @@ msgstr ""
 msgid "starting new ambiance for "
 msgstr ""
 
+msgid "already have "
+msgstr ""
+
+msgid ""
+" ambiance playing, but need to start one shots because it's the center "
+"region."
+msgstr ""
+
 msgid "found "
 msgstr ""
 
+msgid " ambiance playing, doing nothing."
+msgstr ""
+
+msgid "alignment for "
+msgstr ""
+
+msgid " has no ambiances, so not playing anything."
+msgstr ""
+
 msgid " ambiance playing."
-msgstr ""
-
-msgid "positioning all regional ambiances at (x: "
-msgstr ""
-
-msgid ", y: "
-msgstr ""
-
-msgid ") tiles away."
-msgstr ""
-
-msgid "found non-polled ambiance ("
-msgstr ""
-
-msgid ") playing, so stopping it."
 msgstr ""
 
 msgid "no river layers to update."
@@ -72330,6 +72559,9 @@ msgid "found a walla layer playing, ignoring request to start a new one."
 msgstr ""
 
 msgid "no walla layer found, so playing one."
+msgstr ""
+
+msgid "  [C:7:0:0]This is common knowledge where you are from."
 msgstr ""
 
 msgid "** Starting Adventure **"
@@ -72537,6 +72769,178 @@ msgstr ""
 msgid "Accept appearance"
 msgstr ""
 
+msgid "Set your "
+msgstr ""
+
+msgid "values"
+msgstr ""
+
+msgid "personality"
+msgstr ""
+
+msgid " here.  "
+msgstr ""
+
+msgid " denotes the default cultural value."
+msgstr ""
+
+msgid ""
+"Your personality facets might be restricted based on your creature type."
+msgstr ""
+
+msgid "Self-control"
+msgstr ""
+
+msgid "No love   <->    Loves easily"
+msgstr ""
+
+msgid "No hate   <->    Hates easily"
+msgstr ""
+
+msgid "No envy   <->   Envies easily"
+msgstr ""
+
+msgid "Cheerless <-> Easily cheerful"
+msgstr ""
+
+msgid "No sadness   <->   Easily sad"
+msgstr ""
+
+msgid "No anger  <->  Easily angered"
+msgstr ""
+
+msgid "No anxiety  <->  Very anxious"
+msgstr ""
+
+msgid "No lust      <->      Lustful"
+msgstr ""
+
+msgid "     --> Vulnerable to stress"
+msgstr ""
+
+msgid "                   --> Greedy"
+msgstr ""
+
+msgid "              --> Intemperate"
+msgstr ""
+
+msgid "Avoid fights <->  Like brawls"
+msgstr ""
+
+msgid "Quits easily <-> Too stubborn"
+msgstr ""
+
+msgid "Meanness   <->   Wastefulness"
+msgstr ""
+
+msgid "Harmony      <->      Discord"
+msgstr ""
+
+msgid "Quarreler    <->    Flatterer"
+msgstr ""
+
+msgid "Rude        <->        Polite"
+msgstr ""
+
+msgid "Overreliant <> Disdain advice"
+msgstr ""
+
+msgid "Fearful     <->      Fearless"
+msgstr ""
+
+msgid "Pusillanimous - Overconfident"
+msgstr ""
+
+msgid "                     --> Vain"
+msgstr ""
+
+msgid "                --> Ambitious"
+msgstr ""
+
+msgid "       --> Sense of gratitude"
+msgstr ""
+
+msgid "Austere    <->    Extravagant"
+msgstr ""
+
+msgid "Humorless      <->       Zany"
+msgstr ""
+
+msgid "                 --> Vengeful"
+msgstr ""
+
+msgid "No self-esteem   <->    Proud"
+msgstr ""
+
+msgid "Merciful - Impartial -  Cruel"
+msgstr ""
+
+msgid "Scatterbrained - Singleminded"
+msgstr ""
+
+msgid "Despairs - Hopeful - Presumes"
+msgstr ""
+
+msgid "Incurious     <->     Curious"
+msgstr ""
+
+msgid "Shameless     <->     Bashful"
+msgstr ""
+
+msgid "Overshares    <->     Private"
+msgstr ""
+
+msgid "Inattentive <-> Perfectionist"
+msgstr ""
+
+msgid "Acquiescing <-> Resists ideas"
+msgstr ""
+
+msgid "    --> Tolerates differences"
+msgstr ""
+
+msgid "    --> Emotionally obsessive"
+msgstr ""
+
+msgid "       --> Swayed by emotions"
+msgstr ""
+
+msgid "               --> Altruistic"
+msgstr ""
+
+msgid "                  --> Dutiful"
+msgstr ""
+
+msgid "Too deliberate <> Thoughtless"
+msgstr ""
+
+msgid "Sloppy      <->       Orderly"
+msgstr ""
+
+msgid "Distrustful <->  Too trusting"
+msgstr ""
+
+msgid "Loner     <->      Gregarious"
+msgstr ""
+
+msgid "Non-assertive <-> Overbearing"
+msgstr ""
+
+msgid "Leisurely    <->     Frenetic"
+msgstr ""
+
+msgid "       --> Excitement-seeking"
+msgstr ""
+
+msgid "Just facts - Flights of fancy"
+msgstr ""
+
+msgid "     --> Inclined to abstract"
+msgstr ""
+
+msgid "   --> Inclined to create art"
+msgstr ""
+
 msgid "Pray/Meditate"
 msgstr ""
 
@@ -72550,6 +72954,9 @@ msgid "Moderate Need"
 msgstr ""
 
 msgid "Slight Need"
+msgstr ""
+
+msgid "Done customizing"
 msgstr ""
 
 msgid "Full customization"
@@ -72624,9 +73031,6 @@ msgstr ""
 msgid ".  Destiny is calling!"
 msgstr ""
 
-msgid "You emerged from the wilds and came to be a "
-msgstr ""
-
 msgid "You are a "
 msgstr ""
 
@@ -72646,9 +73050,6 @@ msgid " casual"
 msgstr ""
 
 msgid " dubious"
-msgstr ""
-
-msgid " worshipper of "
 msgstr ""
 
 msgid ", the force"
@@ -72679,6 +73080,9 @@ msgid "value"
 msgstr ""
 
 msgid "martial"
+msgstr ""
+
+msgid "prowess"
 msgstr ""
 
 msgid "leisure"
@@ -72894,9 +73298,6 @@ msgstr ""
 msgid "remorse"
 msgstr ""
 
-msgid "repentance"
-msgstr ""
-
 msgid "resentment"
 msgstr ""
 
@@ -72951,9 +73352,6 @@ msgstr ""
 msgid "excitement"
 msgstr ""
 
-msgid "Enraged"
-msgstr ""
-
 msgid "Greet listener"
 msgstr ""
 
@@ -72997,9 +73395,6 @@ msgid "State your values (new menu)"
 msgstr ""
 
 msgid "state"
-msgstr ""
-
-msgid "values"
 msgstr ""
 
 msgid "Investigate or interrogate (new menu)"
@@ -73347,6 +73742,9 @@ msgstr ""
 msgid "list"
 msgstr ""
 
+msgid "Yell out service order"
+msgstr ""
+
 msgid "Order "
 msgstr ""
 
@@ -73501,6 +73899,9 @@ msgid " accept homage from "
 msgstr ""
 
 msgid "agree"
+msgstr ""
+
+msgid "Refuse to have "
 msgstr ""
 
 msgid "Agree to make peace between "
@@ -73753,6 +74154,9 @@ msgid "advice"
 msgstr ""
 
 msgid "Ask to be made a "
+msgstr ""
+
+msgid "keeper"
 msgstr ""
 
 msgid "Ask for "
@@ -74541,10 +74945,6 @@ msgstr ""
 msgid "incredulity"
 msgstr ""
 
-msgid ""
-"Your most trusted companions have made the journey to meet you here today."
-msgstr ""
-
 msgid "Fail the struggle against great alarm"
 msgstr ""
 
@@ -74579,6 +74979,9 @@ msgid "Fail the struggle against great anguish"
 msgstr ""
 
 msgid "Fail the struggle against great despair"
+msgstr ""
+
+msgid "Fail the struggle against great dismay"
 msgstr ""
 
 msgid "Fail the struggle against great distress"
@@ -74636,6 +75039,9 @@ msgid "State feelings of great love"
 msgstr ""
 
 msgid "State feelings of great bliss"
+msgstr ""
+
+msgid "State feelings of great excitement"
 msgstr ""
 
 msgid "State feelings of great gaiety"
@@ -75001,6 +75407,9 @@ msgstr ""
 msgid "State feelings of triumph"
 msgstr ""
 
+msgid "Verbally struggle against rage"
+msgstr ""
+
 msgid "State feelings of grim satisfaction"
 msgstr ""
 
@@ -75127,6 +75536,9 @@ msgstr ""
 msgid "State feelings of disappointment"
 msgstr ""
 
+msgid "State feelings of disgust"
+msgstr ""
+
 msgid "State feelings of disillusionment"
 msgstr ""
 
@@ -75137,9 +75549,6 @@ msgid "State feelings of displeasure"
 msgstr ""
 
 msgid "State feelings of eagerness"
-msgstr ""
-
-msgid "State feelings of embarassment"
 msgstr ""
 
 msgid "State feelings of empathy"
@@ -75161,6 +75570,9 @@ msgid "State feelings of gloom"
 msgstr ""
 
 msgid "State feelings of glumness"
+msgstr ""
+
+msgid "State feelings of gratitude"
 msgstr ""
 
 msgid "State feelings of grouchiness"
@@ -76153,6 +76565,9 @@ msgstr ""
 msgid "Assume an identity (coming soon)"
 msgstr ""
 
+msgid " with your "
+msgstr ""
+
 msgid "Put on item"
 msgstr ""
 
@@ -76181,9 +76596,6 @@ msgid "Adventure automove"
 msgstr ""
 
 msgid "Adventure automove (acrobatic)"
-msgstr ""
-
-msgid "sqrtf"
 msgstr ""
 
 msgid "Vanilla Interactions Graphics"
@@ -76216,6 +76628,21 @@ msgstr ""
 msgid "medium"
 msgstr ""
 
+msgid "FMOD: Failed to get number of channels"
+msgstr ""
+
+msgid "poll result #"
+msgstr ""
+
+msgid "region is: "
+msgstr ""
+
+msgid "variant is: "
+msgstr ""
+
+msgid "alignment is: "
+msgstr ""
+
 msgid "flying loop already playing"
 msgstr ""
 
@@ -76223,6 +76650,9 @@ msgid "flying loop not playing"
 msgstr ""
 
 msgid "Composer generated a chord: "
+msgstr ""
+
+msgid " removed."
 msgstr ""
 
 msgid "Ally: "
@@ -76303,6 +76733,10 @@ msgid "Your most trusted local companions are meeting you here today."
 msgstr ""
 
 msgid ""
+"Your most trusted companions have made the journey to meet you here today."
+msgstr ""
+
+msgid ""
 "After a long journey, you are here to meet your most trusted companion."
 msgstr ""
 
@@ -76340,11 +76774,6 @@ msgstr ""
 msgid "  Perhaps some of your friends here can remind you."
 msgstr ""
 
-msgid ""
-"  Perhaps some of the people here will be worth talking to before you "
-"continue on your way."
-msgstr ""
-
 msgid "You must "
 msgstr ""
 
@@ -76355,12 +76784,6 @@ msgid "You awaken from your slumber."
 msgstr ""
 
 msgid "Your sleep has been interrupted!"
-msgstr ""
-
-msgid "What would you like to do?"
-msgstr ""
-
-msgid " to view other pages)"
 msgstr ""
 
 msgid " to view other pages"
@@ -76484,9 +76907,6 @@ msgstr ""
 msgid "You draw "
 msgstr ""
 
-msgid " with your "
-msgstr ""
-
 msgid "You do not have a free grasp for "
 msgstr ""
 
@@ -76533,84 +76953,6 @@ msgid "You are too injured to climb."
 msgstr ""
 
 msgid "You need a free grasp to climb."
-msgstr ""
-
-msgid " to return to arena."
-msgstr ""
-
-msgid " (still)"
-msgstr ""
-
-msgid " (moving "
-msgstr ""
-
-msgid "Performing"
-msgstr ""
-
-msgid " (free to act, "
-msgstr ""
-
-msgid " to continue)"
-msgstr ""
-
-msgid " (occupied)"
-msgstr ""
-
-msgid " (move to X)"
-msgstr ""
-
-msgid "You have reached the summit of "
-msgstr ""
-
-msgid "You are deceased.  "
-msgstr ""
-
-msgid " to become somebody else."
-msgstr ""
-
-msgid "You are deceased.  Press "
-msgstr ""
-
-msgid " to finish."
-msgstr ""
-
-msgid "Sleep!"
-msgstr ""
-
-msgid "Over-Exert"
-msgstr ""
-
-msgid "V Drowsy"
-msgstr ""
-
-msgid "Flying"
-msgstr ""
-
-msgid "In Air"
-msgstr ""
-
-msgid "Dhyd"
-msgstr ""
-
-msgid "Thir"
-msgstr ""
-
-msgid "Stvg"
-msgstr ""
-
-msgid "Hung"
-msgstr ""
-
-msgid "Mortal Wound"
-msgstr ""
-
-msgid "In Flight"
-msgstr ""
-
-msgid "On Ground"
-msgstr ""
-
-msgid "Bleeding!"
 msgstr ""
 
 msgid " pull off"
@@ -76674,9 +77016,6 @@ msgid "  You should report the task as complete."
 msgstr ""
 
 msgid " is rumored to be in "
-msgstr ""
-
-msgid "  [C:7:0:0]This is common knowledge where you are from."
 msgstr ""
 
 msgid "  [C:5:0:1]This creature is known to be dead."
@@ -76889,45 +77228,6 @@ msgstr ""
 msgid "You cannot travel through the "
 msgstr ""
 
-msgid " here."
-msgstr ""
-
-msgid " - Pull it"
-msgstr ""
-
-msgid "You pull the lever."
-msgstr ""
-
-msgid "There is a locked "
-msgstr ""
-
-msgid " - Break it in"
-msgstr ""
-
-msgid " - Pick the lock"
-msgstr ""
-
-msgid "You break the hatch in!"
-msgstr ""
-
-msgid "The hatch is operated by a remote mechanism.  You cannot proceed."
-msgstr ""
-
-msgid "You pick the lock!"
-msgstr ""
-
-msgid " - Topple it"
-msgstr ""
-
-msgid " - Bash it down"
-msgstr ""
-
-msgid "You topple the statue!"
-msgstr ""
-
-msgid "You bash the door down!"
-msgstr ""
-
 msgid "Dawn is breaking."
 msgstr ""
 
@@ -76961,6 +77261,9 @@ msgstr ""
 msgid " lands on "
 msgstr ""
 
+msgid "a word but you cannot read"
+msgstr ""
+
 msgid "Your fate is sealed."
 msgstr ""
 
@@ -76971,9 +77274,6 @@ msgid " is a jealous deity?  Why consult another?"
 msgstr ""
 
 msgid "  Let a week pass."
-msgstr ""
-
-msgid "  Let some days pass."
 msgstr ""
 
 msgid "  Let another day pass."
@@ -77066,10 +77366,16 @@ msgstr ""
 msgid "You must reflect on your actions."
 msgstr ""
 
+msgid "Beware doubt."
+msgstr ""
+
 msgid "Joy is on the horizon."
 msgstr ""
 
 msgid "A great sadness is coming."
+msgstr ""
+
+msgid "A sudden upheaval is in store."
 msgstr ""
 
 msgid "A coming disaster can be delayed, but not avoided."
@@ -77330,9 +77636,6 @@ msgstr ""
 msgid "Think on what came before and what follows."
 msgstr ""
 
-msgid "It will not be fair."
-msgstr ""
-
 msgid "Believe no one today."
 msgstr ""
 
@@ -77525,6 +77828,45 @@ msgstr ""
 msgid "Combat "
 msgstr ""
 
+msgid "Push "
+msgstr ""
+
+msgid "Ride "
+msgstr ""
+
+msgid ", push off toward "
+msgstr ""
+
+msgid "Guide "
+msgstr ""
+
+msgid "Raise "
+msgstr ""
+
+msgid " bucket ("
+msgstr ""
+
+msgid "Lower "
+msgstr ""
+
+msgid "Pull "
+msgstr ""
+
+msgid "Break in "
+msgstr ""
+
+msgid "Pick "
+msgstr ""
+
+msgid " lock ("
+msgstr ""
+
+msgid "Bash down "
+msgstr ""
+
+msgid "Topple "
+msgstr ""
+
 msgid "Move to "
 msgstr ""
 
@@ -77582,13 +77924,37 @@ msgstr ""
 msgid " (no climbing/jumping)"
 msgstr ""
 
-msgid " level"
-msgstr ""
-
 msgid " up)"
 msgstr ""
 
 msgid " down)"
+msgstr ""
+
+msgid "You raise the bucket."
+msgstr ""
+
+msgid "You lower the bucket."
+msgstr ""
+
+msgid "You pull the lever."
+msgstr ""
+
+msgid "You break the hatch in!"
+msgstr ""
+
+msgid "The hatch is operated by a remote mechanism.  You cannot proceed."
+msgstr ""
+
+msgid "You pick the lock!"
+msgstr ""
+
+msgid "You bash the door down!"
+msgstr ""
+
+msgid "The door is operated by a remote mechanism.  You cannot proceed."
+msgstr ""
+
+msgid "You topple the statue!"
 msgstr ""
 
 msgid "The cackling fades away."
@@ -77854,6 +78220,9 @@ msgstr ""
 msgid "You have nothing to examine."
 msgstr ""
 
+msgid "There is no furniture, building, or vehicle to interact with here."
+msgstr ""
+
 msgid "You cannot climb or mount while prone."
 msgstr ""
 
@@ -77981,6 +78350,9 @@ msgid "Grimly Satisfied"
 msgstr ""
 
 msgid "Triumphant"
+msgstr ""
+
+msgid "Enraged"
 msgstr ""
 
 msgid "Eexcited"
@@ -78218,6 +78590,9 @@ msgid "Restless"
 msgstr ""
 
 msgid "Indignant"
+msgstr ""
+
+msgid "Self-pity"
 msgstr ""
 
 msgid "Servile"
@@ -78535,6 +78910,9 @@ msgstr ""
 msgid "Select memorized content or a form of prose."
 msgstr ""
 
+msgid "What would you like to do?"
+msgstr ""
+
 msgid "You don't believe anything relevant, unfortunately."
 msgstr ""
 
@@ -78545,6 +78923,9 @@ msgid "You don't know anything specific about this, unfortunately."
 msgstr ""
 
 msgid "You must compose a piece first (or learn an improvisational form)."
+msgstr ""
+
+msgid "(etc.)"
 msgstr ""
 
 msgid "Would like to sleep or wait a while?"
@@ -78590,9 +78971,6 @@ msgid "Climb "
 msgstr ""
 
 msgid "Speed: "
-msgstr ""
-
-msgid "Visual Stealth Factors"
 msgstr ""
 
 msgid "Light"
@@ -78866,6 +79244,9 @@ msgstr ""
 msgid "Precise attack: very slow to strike, improved accuracy"
 msgstr ""
 
+msgid "No quick attack: enraged"
+msgstr ""
+
 msgid "No heavy attack: enraged"
 msgstr ""
 
@@ -79028,25 +79409,19 @@ msgstr ""
 msgid "Pick up how many? (0-"
 msgstr ""
 
+msgid "What do you want to do?"
+msgstr ""
+
+msgid "Where would you like to move?"
+msgstr ""
+
 msgid "Who or what would you like to shoot?"
 msgstr ""
 
 msgid "At whom or what would you like to throw?"
 msgstr ""
 
-msgid "Where would you like to move?"
-msgstr ""
-
-msgid "What do you want to do?"
-msgstr ""
-
 msgid "Get "
-msgstr ""
-
-msgid "Pull "
-msgstr ""
-
-msgid "Pick "
 msgstr ""
 
 msgid "View engraving"
@@ -79238,9 +79613,6 @@ msgstr ""
 msgid "Jump"
 msgstr ""
 
-msgid "Push Object"
-msgstr ""
-
 msgid "Hold"
 msgstr ""
 
@@ -79295,7 +79667,13 @@ msgstr ""
 msgid "Page secondary selector down"
 msgstr ""
 
+msgid "Menu Confirm"
+msgstr ""
+
 msgid "Failed to find vanilla interactions graphics header."
+msgstr ""
+
+msgid "_set_new_mode"
 msgstr ""
 
 msgid "Failed to find INTERACTION_GRAPHICS interaction "
@@ -79335,6 +79713,9 @@ msgid "You are now in control of "
 msgstr ""
 
 msgid ", ruling "
+msgstr ""
+
+msgid "tvbuf"
 msgstr ""
 
 msgid "tried to lock the mutex, but failed."
