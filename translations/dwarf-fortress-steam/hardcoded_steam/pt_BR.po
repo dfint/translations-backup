@@ -72305,9 +72305,6 @@ msgstr "shrubland"
 msgid "temperate"
 msgstr "temperate"
 
-msgid "tropical"
-msgstr "tropical"
-
 msgid "human-hamlet"
 msgstr "human-hamlet"
 
@@ -72361,9 +72358,6 @@ msgstr "drops-gtr"
 
 msgid "acc-gtr"
 msgstr "acc-gtr"
-
-msgid "lead"
-msgstr ""
 
 msgid "drop-gtr"
 msgstr ""
@@ -72566,33 +72560,14 @@ msgstr "tracks-off"
 msgid "tracks-on"
 msgstr "tracks-on"
 
-msgid "view-map"
-msgstr ""
-
 msgid "generic-small"
 msgstr "generic-small"
 
 msgid "whoosh"
 msgstr "whoosh"
 
-msgid "repentance"
-msgstr "arrependimento"
-
-msgid ""
-"  Perhaps some of the people here will be worth talking to before you "
-"continue on your way."
+msgid "medium"
 msgstr ""
-"Talvez algumas das pessoas aqui será vale a pena conversar antes de você "
-"continuar seu caminho."
-
-msgid " worshipper of "
-msgstr "adorador de"
-
-msgid "It will not be fair."
-msgstr ""
-
-msgid "Push Object"
-msgstr "Empurre o objeto"
 
 msgid "Done: "
 msgstr "Feito:"
@@ -73355,9 +73330,6 @@ msgstr "regenerar"
 msgid "Reclaimed/"
 msgstr "Aterramento marítimo"
 
-msgid "founding"
-msgstr "Fundaçao"
-
 msgid "Founded/"
 msgstr "fundada"
 
@@ -73397,8 +73369,17 @@ msgstr "Artefato/"
 msgid "No Artifact/"
 msgstr "Nenhum artefato/"
 
+msgid "self"
+msgstr "Acho que o autocontrole é importante."
+
+msgid " is too hot."
+msgstr "está muito quente."
+
 msgid "Assume Control"
 msgstr "Assumir o controle"
+
+msgid "Your adventure has come to an end."
+msgstr "Sua aventura chegou ao fim."
 
 msgid "you will need to unretire or recruit"
 msgstr "você precisa cancelar a aposentadoria ou recrutar"
@@ -73436,11 +73417,11 @@ msgstr "Dwarf Fortress Adventure"
 msgid "Dead"
 msgstr "Morto"
 
-msgid "Your adventure has come to an end."
-msgstr "Sua aventura chegou ao fim."
-
 msgid "You settle in this location..."
 msgstr "Você se estabelece neste local..."
+
+msgid "right"
+msgstr "direita"
 
 msgid "Name yourself"
 msgstr "Escolha seu nome"
@@ -73453,6 +73434,15 @@ msgstr "Nome "
 
 msgid "Name your performance troupe"
 msgstr "Dê um nome ao seu grupo de atuação"
+
+msgid "Name the identity"
+msgstr ""
+
+msgid "Of X"
+msgstr ""
+
+msgid "Refuse the interrogation"
+msgstr ""
 
 msgid "You have bestowed the name "
 msgstr "Você concedeu o nome "
@@ -73469,7 +73459,7 @@ msgstr "Caminhar espalha respingos (modo aventura)"
 msgid "Nickname position (adv mode)"
 msgstr "Posição do apelido (modo aventura)"
 
-msgid "-beta21"
+msgid "-beta22"
 msgstr ""
 
 msgid " (Owes you "
@@ -73570,9 +73560,6 @@ msgstr "Demanda"
 msgid "Give"
 msgstr "Dar"
 
-msgid "Show"
-msgstr "Mostrar"
-
 msgid "Ask for currency"
 msgstr "Pedir moeda"
 
@@ -73611,6 +73598,60 @@ msgid ""
 msgstr ""
 "  Não é o original, mas podemos esperar que a escrita tenha sido copiada "
 "fielmente."
+
+msgid "Where is your identity from?"
+msgstr ""
+
+msgid "Whom does your identity worship?"
+msgstr ""
+
+msgid "What is your identity's profession?"
+msgstr ""
+
+msgid "Your new identity:"
+msgstr ""
+
+msgid "Select an identity."
+msgstr ""
+
+msgid "No name"
+msgstr ""
+
+msgid "Name: \""
+msgstr ""
+
+msgid "No origin"
+msgstr ""
+
+msgid "Origin: "
+msgstr ""
+
+msgid "Profession: "
+msgstr ""
+
+msgid "No object of worship"
+msgstr ""
+
+msgid "Object of worship: "
+msgstr ""
+
+msgid "Set origin"
+msgstr ""
+
+msgid "Set profession"
+msgstr ""
+
+msgid "Set worship"
+msgstr ""
+
+msgid "Assume identity"
+msgstr ""
+
+msgid "New Identity"
+msgstr ""
+
+msgid "Be Yourself"
+msgstr ""
 
 msgid ": select "
 msgstr ": selecionar "
@@ -73674,11 +73715,20 @@ msgstr "mas não faça nada digno de nota."
 msgid "You make nothing."
 msgstr "Você não ganha nada."
 
-msgid "  Let some days pass."
+msgid "pending"
 msgstr ""
 
-msgid "State feelings of embarassment"
+msgid "Gain possession"
+msgstr "Ganhar a posse"
+
+msgid "etpos"
 msgstr ""
+
+msgid ".  Do not tempt fate."
+msgstr ""
+
+msgid "exhilaration"
+msgstr "alegria"
 
 msgid "Default attack is a strike without charging or wrestling."
 msgstr "O ataque padrão é um golpe sem investida ou luta livre."
@@ -73905,19 +73955,13 @@ msgstr ""
 msgid "Assume control of this party member."
 msgstr ""
 
-msgid "Visual Stealth Factors"
-msgstr "Fatores visuais Discriçao"
-
-msgid "You emerged from the wilds and came to be a "
-msgstr ""
+msgid "Difficult strike"
+msgstr "Greve de difícil"
 
 msgid "Sort units by how involved they are in the crime."
 msgstr ""
 
 msgid "[C:7:0:0]No wounds"
-msgstr ""
-
-msgid " level"
 msgstr ""
 
 msgid "Channel at "
@@ -74142,9 +74186,6 @@ msgstr ""
 msgid "no ambiance layer found by name"
 msgstr "no ambiance layer found by name"
 
-msgid "no ambiance layer found by ambiance"
-msgstr "no ambiance layer found by ambiance"
-
 msgid "Alignment Ambiance"
 msgstr "Alignment Ambiance"
 
@@ -74178,6 +74219,9 @@ msgstr "spawning safe thread"
 msgid " ambiance layer is about to start looping."
 msgstr ""
 
+msgid "no ambiance layer found by ambiance"
+msgstr "no ambiance layer found by ambiance"
+
 msgid "Found a currently playing ambiance layer with the same name ("
 msgstr "Found a currently playing ambiance layer with the same name ("
 
@@ -74197,6 +74241,9 @@ msgstr "unlocked mutex "
 
 msgid "released mutex "
 msgstr "released mutex "
+
+msgid "starting the one shots thread."
+msgstr ""
 
 msgid "attempting to play next one shot in "
 msgstr "attempting to play next one shot in "
@@ -74522,9 +74569,6 @@ msgstr ""
 msgid "combat song selected: "
 msgstr ""
 
-msgid "attempted to play a new combat song, but it was not set."
-msgstr ""
-
 msgid " until next measure start."
 msgstr ""
 
@@ -74567,12 +74611,6 @@ msgstr ""
 msgid " 'stinger' layer to bridge to the next group of the combat song."
 msgstr ""
 
-msgid "stopping combat song after stingers for group #"
-msgstr ""
-
-msgid ", as there are no more groups of loops."
-msgstr ""
-
 msgid "stopping group #"
 msgstr ""
 
@@ -74580,6 +74618,15 @@ msgid " layers over one measure"
 msgstr ""
 
 msgid " 'loop' layer to stop."
+msgstr ""
+
+msgid "stopping combat song after stingers for group #"
+msgstr ""
+
+msgid ", as there are no more groups of loops."
+msgstr ""
+
+msgid "attempted to play a new combat song, but it was not set."
 msgstr ""
 
 msgid "playing all layers."
@@ -74684,9 +74731,6 @@ msgstr "fading song layer out over "
 msgid " milliseconds"
 msgstr " milliseconds"
 
-msgid "waiting to fade song layer "
-msgstr "waiting to fade song layer "
-
 msgid "no layers to add"
 msgstr "no layers to add"
 
@@ -74704,6 +74748,9 @@ msgstr "current song layers size: "
 
 msgid "percentage of tracks playing: "
 msgstr "percentage of tracks playing: "
+
+msgid "waiting to fade song layer "
+msgstr "waiting to fade song layer "
 
 msgid "drowning riser not playing."
 msgstr "drowning riser not playing."
@@ -74802,8 +74849,8 @@ msgid "already have "
 msgstr ""
 
 msgid ""
-" ambiance playing, but need to start one shots because it's the center "
-"region."
+" ambiance playing, but need to start one shots because it's the first center"
+" region that has played as a result of polling."
 msgstr ""
 
 msgid "found "
@@ -74845,11 +74892,23 @@ msgstr "found a walla layer playing, ignoring request to start a new one."
 msgid "no walla layer found, so playing one."
 msgstr "no walla layer found, so playing one."
 
-msgid "  [C:7:0:0]This is common knowledge where you are from."
+msgid "Put on item"
+msgstr ""
+
+msgid "Take off item"
+msgstr ""
+
+msgid "Disillusioned"
+msgstr ""
+
+msgid "Embarrassed"
 msgstr ""
 
 msgid "** Starting Adventure **"
 msgstr "** Starting Adventure **"
+
+msgid "Acknowledge lack of resentment"
+msgstr "Reconhecer a falta de ressentimento"
 
 msgid "Welcome to this early version of Adventure mode."
 msgstr ""
@@ -75315,6 +75374,9 @@ msgstr "Isto é esplêndido."
 msgid ".  Destiny is calling!"
 msgstr ".  O destino está chamando!"
 
+msgid "You emerged from the wilds and came to be a "
+msgstr ""
+
 msgid "You are a "
 msgstr ""
 
@@ -75336,6 +75398,9 @@ msgstr "INFORMAIS"
 msgid " dubious"
 msgstr "Dúvida"
 
+msgid " worshipper of "
+msgstr "adorador de"
+
 msgid ", the force"
 msgstr ", a força"
 
@@ -75356,6 +75421,9 @@ msgstr "tocando"
 
 msgid " performance of "
 msgstr "perfomance de"
+
+msgid "State minor feeling of love"
+msgstr "Estado o menor sentimento de amor"
 
 msgid "worthlessness"
 msgstr "inutilidade"
@@ -75486,9 +75554,6 @@ msgstr "vazio"
 msgid "exasperation"
 msgstr "exasperaçao"
 
-msgid "exhilaration"
-msgstr "alegria"
-
 msgid "fright"
 msgstr "medo"
 
@@ -75582,6 +75647,9 @@ msgstr "lástima"
 msgid "remorse"
 msgstr "Remorso"
 
+msgid "repentance"
+msgstr "arrependimento"
+
 msgid "resentment"
 msgstr "Ressentimentos"
 
@@ -75590,9 +75658,6 @@ msgstr "Sentimentos de grande indignaçao do estado"
 
 msgid "indignation"
 msgstr "Sentimentos de grande indignaçao do estado"
-
-msgid "self"
-msgstr "Acho que o autocontrole é importante."
 
 msgid "pity"
 msgstr "Sentimentos de auto-piedade grande do estado"
@@ -75706,11 +75771,11 @@ msgstr ""
 msgid "troupe"
 msgstr ""
 
-msgid "Claim this site for yourself and "
-msgstr "Reivindicam este site por si mesmo e"
-
 msgid "Claim this site for yourself (group naming menu)"
 msgstr "Reivindicam este local para si mesmo (menu de nomes de grupo)"
+
+msgid "Claim this site for yourself and "
+msgstr "Reivindicam este site por si mesmo e"
 
 msgid "Name pet (new menu)"
 msgstr ""
@@ -75957,6 +76022,9 @@ msgstr "Espalhar o boato da insurreiçao"
 
 msgid "Spread rumor of the "
 msgstr "Espalhar boato do"
+
+msgid "founding"
+msgstr "Fundaçao"
 
 msgid "Spread rumor of the occupation of "
 msgstr "Espalhar o boato da ocupaçao do"
@@ -76690,9 +76758,6 @@ msgstr ""
 msgid "State that you are right in all matters"
 msgstr "Que você tem razao em todos os assuntos de estado"
 
-msgid "right"
-msgstr "direita"
-
 msgid "State that you are conflicted"
 msgstr ""
 
@@ -76951,9 +77016,6 @@ msgstr "Ouvinte para vir ao mercado depois de perguntar"
 msgid "Remind listener of pending service"
 msgstr ""
 
-msgid "pending"
-msgstr ""
-
 msgid "Tell listener that no services are available"
 msgstr "Diga ao ouvinte que nenhum serviço está disponível"
 
@@ -77203,9 +77265,6 @@ msgstr ""
 msgid "Say something about your schemes"
 msgstr ""
 
-msgid "Refuse the interrogation"
-msgstr ""
-
 msgid "Mock the repeated failure of the interrogator"
 msgstr ""
 
@@ -77251,11 +77310,11 @@ msgstr "Falhar a luta contra o grande medo"
 msgid "Fail the struggle against great sadness"
 msgstr "Falhar na luta contra a grande tristeza"
 
-msgid "fail"
-msgstr "reprovado"
-
 msgid "Fail the struggle against great terror"
 msgstr "Falhar a luta contra o terror grande"
+
+msgid "fail"
+msgstr "reprovado"
 
 msgid "Fail the struggle against great agony"
 msgstr "Falhar na luta contra a grande agonia"
@@ -77836,6 +77895,9 @@ msgstr "Sentimentos de descontentamento do estado"
 msgid "State feelings of eagerness"
 msgstr "Sentimentos de ansiedade de estado"
 
+msgid "State feelings of embarassment"
+msgstr ""
+
 msgid "State feelings of empathy"
 msgstr "Sentimentos de empatia do estado"
 
@@ -78090,9 +78152,6 @@ msgstr "Descartar o menor sentimento de tristeza"
 
 msgid "State minor feeling of satisfaction"
 msgstr "Menor sentimento de satisfaçao do estado"
-
-msgid "State minor feeling of love"
-msgstr "Estado o menor sentimento de amor"
 
 msgid "State minor feeling of bliss"
 msgstr "Declara sentimentos pequenos de êxtase"
@@ -78712,9 +78771,6 @@ msgstr "Reconhecer a falta de remorso"
 msgid "Acknowledge lack of repentance"
 msgstr "Reconhecer a falta de arrependimento"
 
-msgid "Acknowledge lack of resentment"
-msgstr "Reconhecer a falta de ressentimento"
-
 msgid "Acknowledge lack of restlessness"
 msgstr "Reconhecer a falta de inquietaçao"
 
@@ -78847,16 +78903,7 @@ msgstr ""
 msgid "Shout out to everybody"
 msgstr "Gritar para todo mundo"
 
-msgid "Assume an identity (coming soon)"
-msgstr ""
-
-msgid " with your "
-msgstr "com seu"
-
-msgid "Put on item"
-msgstr ""
-
-msgid "Take off item"
+msgid "Assume an identity"
 msgstr ""
 
 msgid "West"
@@ -78889,9 +78936,6 @@ msgstr ""
 msgid "** Loading Adventurer **"
 msgstr ""
 
-msgid "Gain possession"
-msgstr "Ganhar a posse"
-
 msgid "Pull it out"
 msgstr "Retirá-lo"
 
@@ -78909,9 +78953,6 @@ msgstr "attempted to play a footstep too quickly."
 
 msgid "attempted to play a sweetened footstep too quickly."
 msgstr "attempted to play a sweetened footstep too quickly."
-
-msgid "medium"
-msgstr ""
 
 msgid "FMOD: Failed to get number of channels"
 msgstr "FMOD: Failed to get number of channels"
@@ -79067,6 +79108,13 @@ msgstr "  Talvez alguns de seus amigos aqui tenham idéias."
 msgid "  Perhaps some of your friends here can remind you."
 msgstr "  Talvez alguns de seus amigos aqui podem lembrá-lo."
 
+msgid ""
+"  Perhaps some of the people here will be worth talking to before you "
+"continue on your way."
+msgstr ""
+"Talvez algumas das pessoas aqui será vale a pena conversar antes de você "
+"continuar seu caminho."
+
 msgid "You must "
 msgstr "Você tem"
 
@@ -79200,6 +79248,9 @@ msgstr "para seu"
 msgid "You draw "
 msgstr "Desenhas"
 
+msgid " with your "
+msgstr "com seu"
+
 msgid "You do not have a free grasp for "
 msgstr "Você nao tem um alcance livre para"
 
@@ -79269,11 +79320,23 @@ msgstr " e colocá-lo em "
 msgid " and puts it in "
 msgstr "e coloca-los em"
 
+msgid "You do not have a free grasp and your quiver and packs are full."
+msgstr ""
+
+msgid "You do not have a free grasp and your quiver and pack are full."
+msgstr ""
+
+msgid "You do not have a free grasp and your quivers and pack are full."
+msgstr ""
+
 msgid "You do not have a free grasp and your quivers are full."
 msgstr "Você nao tem um alcance livre e suas aljavas estao cheios."
 
 msgid "You do not have a free grasp and your quiver is full."
 msgstr "Você nao tem um alcance livre e sua aljava está cheia."
+
+msgid "You do not have a free grasp and your pack is full."
+msgstr ""
 
 msgid "You do not have a free grasp."
 msgstr "Você nao tem um alcance livre."
@@ -79309,6 +79372,9 @@ msgid "  You should report the task as complete."
 msgstr ""
 
 msgid " is rumored to be in "
+msgstr ""
+
+msgid "  [C:7:0:0]This is common knowledge where you are from."
 msgstr ""
 
 msgid "  [C:5:0:1]This creature is known to be dead."
@@ -79569,6 +79635,9 @@ msgstr ""
 msgid "  Let a week pass."
 msgstr ""
 
+msgid "  Let some days pass."
+msgstr ""
+
 msgid "  Let another day pass."
 msgstr ""
 
@@ -79581,13 +79650,13 @@ msgstr ""
 msgid ", a jealous deity, consulted first?"
 msgstr ""
 
-msgid ".  Do not tempt fate."
-msgstr ""
-
 msgid "Praise "
 msgstr ""
 
 msgid " for ignoring your hubris.  "
+msgstr ""
+
+msgid "Freedom is allowed even in this."
 msgstr ""
 
 msgid " without bound"
@@ -79597,9 +79666,6 @@ msgid "You are forgiven."
 msgstr ""
 
 msgid "You are free to do as you choose."
-msgstr ""
-
-msgid "Freedom is allowed even in this."
 msgstr ""
 
 msgid "Your happiness is still desired."
@@ -79929,6 +79995,9 @@ msgstr ""
 msgid "Think on what came before and what follows."
 msgstr ""
 
+msgid "It will not be fair."
+msgstr ""
+
 msgid "Believe no one today."
 msgstr ""
 
@@ -80076,11 +80145,11 @@ msgstr ""
 msgid "Suck "
 msgstr "Suck"
 
-msgid "Drink "
-msgstr "Beber"
-
 msgid "Eat "
 msgstr "Comer"
+
+msgid "Drink "
+msgstr "Beber"
 
 msgid "Ignite "
 msgstr "Inflamar"
@@ -80215,6 +80284,9 @@ msgid "Path to here"
 msgstr ""
 
 msgid " (no climbing/jumping)"
+msgstr ""
+
+msgid " level"
 msgstr ""
 
 msgid " up)"
@@ -80576,6 +80648,9 @@ msgstr ""
 msgid "Loves you"
 msgstr "Ama você"
 
+msgid "Terrified of you"
+msgstr ""
+
 msgid "Likes you"
 msgstr "Gosta de você"
 
@@ -80584,9 +80659,6 @@ msgstr "Odeia você"
 
 msgid "Dislikes you"
 msgstr "Não gota de você"
-
-msgid "Terrified of you"
-msgstr ""
 
 msgid "Scared of you"
 msgstr ""
@@ -80747,9 +80819,6 @@ msgstr ""
 msgid "Disgusted"
 msgstr ""
 
-msgid "Disillusioned"
-msgstr ""
-
 msgid "Dislike"
 msgstr ""
 
@@ -80761,9 +80830,6 @@ msgstr ""
 
 msgid "Elated"
 msgstr "exaltado"
-
-msgid "Embarrassed"
-msgstr ""
 
 msgid "Empathetic"
 msgstr ""
@@ -81236,11 +81302,11 @@ msgstr ""
 msgid "Cannot see dawn."
 msgstr ""
 
-msgid "You will sleep as necessary until dawn."
-msgstr "Você vai dormir, se necessário, até o amanhecer."
-
 msgid " Until dawn"
 msgstr ""
+
+msgid "You will sleep as necessary until dawn."
+msgstr "Você vai dormir, se necessário, até o amanhecer."
 
 msgid "You will sleep as necessary for "
 msgstr "Você vai dormir o necessário para o"
@@ -81268,6 +81334,9 @@ msgstr "Escalar"
 
 msgid "Speed: "
 msgstr ""
+
+msgid "Visual Stealth Factors"
+msgstr "Fatores visuais Discriçao"
 
 msgid "Light"
 msgstr "Claro"
@@ -81427,9 +81496,6 @@ msgstr "Greve"
 
 msgid "Impossible strike"
 msgstr "Greve impossível"
-
-msgid "Difficult strike"
-msgstr "Greve de difícil"
 
 msgid "Tricky strike"
 msgstr "Greve complicado"
@@ -81764,9 +81830,6 @@ msgstr "Você bebe o"
 msgid " is too salty."
 msgstr "é muito salgado."
 
-msgid " is too hot."
-msgstr "está muito quente."
-
 msgid " is too cold."
 msgstr "está muito frio."
 
@@ -81911,6 +81974,9 @@ msgstr "Atacar"
 msgid "Jump"
 msgstr "Saltar"
 
+msgid "Push Object"
+msgstr "Empurre o objeto"
+
 msgid "Hold"
 msgstr "Segurar"
 
@@ -81971,9 +82037,6 @@ msgstr "Menu Confirm"
 msgid "Failed to find vanilla interactions graphics header."
 msgstr ""
 
-msgid "_set_new_mode"
-msgstr ""
-
 msgid "Failed to find INTERACTION_GRAPHICS interaction "
 msgstr ""
 
@@ -82012,9 +82075,6 @@ msgstr "Você está agora no controle de"
 
 msgid ", ruling "
 msgstr ", governando"
-
-msgid "tvbuf"
-msgstr ""
 
 msgid "tried to lock the mutex, but failed."
 msgstr "tried to lock the mutex, but failed."

@@ -8975,10 +8975,10 @@ msgid "Warning!"
 msgstr "Внимание!"
 
 msgid "You won't perform your action if you leave."
-msgstr "Если вы выйдете, то данное действие не будет выполнено."
+msgstr "Если вы выйдете, то действие не будет выполнено."
 
 msgid "Don't perform action"
-msgstr "Не выполняйте никаких действий"
+msgstr "Не выполнять действие"
 
 msgid "Keep working"
 msgstr "Продолжить"
@@ -9134,7 +9134,7 @@ msgid "Specify type"
 msgstr "Указать тип"
 
 msgid "Specify size"
-msgstr "Выбрать размер"
+msgstr "Указать размер"
 
 msgid "stone"
 msgstr "камень"
@@ -9182,10 +9182,10 @@ msgid "material"
 msgstr "материал"
 
 msgid " straps "
-msgstr " пристёгивает "
+msgstr " убирает "
 
 msgid " draws "
-msgstr " берёт "
+msgstr " достает "
 
 msgid " drinks "
 msgstr " пьёт "
@@ -9242,10 +9242,10 @@ msgid "Use "
 msgstr "Используйте "
 
 msgid " to record/stop recording a macro."
-msgstr " для записи/остановки макроса."
+msgstr " для записи/остановки записи макроса."
 
 msgid " to play back a recorded macro."
-msgstr " для запуска сохраненного макроса."
+msgstr " для запуска записанного макроса."
 
 msgid " to save a macro to a file."
 msgstr " для сохранения макроса в файл."
@@ -9254,7 +9254,7 @@ msgid " to load a macro."
 msgstr " для загрузки макроса."
 
 msgid "No macros created."
-msgstr "Макрос не создан."
+msgstr "Нет макросов."
 
 msgid "Restore defaults"
 msgstr "По умолчанию"
@@ -9263,7 +9263,7 @@ msgid "Audio has been manually disabled."
 msgstr "Звук был отключен вручную."
 
 msgid "Change it to [SOUND:YES] for audio."
-msgstr "Измените его на [SOUND:YES] для звука."
+msgstr "Измените на [SOUND:YES] для включения звука."
 
 msgid "Master Volume: "
 msgstr "Общая громкость: "
@@ -9272,7 +9272,7 @@ msgid "Music Volume: "
 msgstr "Громкость музыки:"
 
 msgid "Ambience Volume: "
-msgstr "Громкость среды: "
+msgstr "Громкость окружения: "
 
 msgid "Sound Effects Volume: "
 msgstr "Громкость эффектов:"
@@ -72034,9 +72034,6 @@ msgstr "shrubland"
 msgid "temperate"
 msgstr "temperate"
 
-msgid "tropical"
-msgstr "tropical"
-
 msgid "human-hamlet"
 msgstr "human-hamlet"
 
@@ -72090,9 +72087,6 @@ msgstr "drops-gtr"
 
 msgid "acc-gtr"
 msgstr "acc-gtr"
-
-msgid "lead"
-msgstr ""
 
 msgid "drop-gtr"
 msgstr ""
@@ -72295,31 +72289,14 @@ msgstr "tracks-off"
 msgid "tracks-on"
 msgstr "tracks-on"
 
-msgid "view-map"
-msgstr ""
-
 msgid "generic-small"
 msgstr "generic-small"
 
 msgid "whoosh"
 msgstr "whoosh"
 
-msgid "repentance"
-msgstr "покаяние"
-
-msgid ""
-"  Perhaps some of the people here will be worth talking to before you "
-"continue on your way."
-msgstr "  Попробуйте поговорить с местными, прежде чем отправиться в путь."
-
-msgid " worshipper of "
-msgstr " поклонник "
-
-msgid "It will not be fair."
-msgstr "Это не будет честно."
-
-msgid "Push Object"
-msgstr "Толкнуть объект"
+msgid "medium"
+msgstr "среднее"
 
 msgid "Done: "
 msgstr "Готово: "
@@ -73081,9 +73058,6 @@ msgstr "восстановление"
 msgid "Reclaimed/"
 msgstr "Восстановлено/"
 
-msgid "founding"
-msgstr "основание"
-
 msgid "Founded/"
 msgstr "Основано/"
 
@@ -73123,8 +73097,17 @@ msgstr "Артефакт"
 msgid "No Artifact/"
 msgstr "Нет артефакта/"
 
+msgid "self"
+msgstr "себя"
+
+msgid " is too hot."
+msgstr " слишком горячо."
+
 msgid "Assume Control"
 msgstr "Захватить контроль"
+
+msgid "Your adventure has come to an end."
+msgstr "Ваше приключение подошло к концу."
 
 msgid "you will need to unretire or recruit"
 msgstr "вам нужно вернуть с пенсии или нанять"
@@ -73162,11 +73145,11 @@ msgstr "Приключение"
 msgid "Dead"
 msgstr "Смерть"
 
-msgid "Your adventure has come to an end."
-msgstr "Ваше приключение подошло к концу."
-
 msgid "You settle in this location..."
 msgstr "Вы поселились в этом месте..."
+
+msgid "right"
+msgstr "прав"
 
 msgid "Name yourself"
 msgstr "Назовите себя"
@@ -73179,6 +73162,15 @@ msgstr "Назовите "
 
 msgid "Name your performance troupe"
 msgstr "Назовите свою труппу"
+
+msgid "Name the identity"
+msgstr "Название ложной личности"
+
+msgid "Of X"
+msgstr "Из X"
+
+msgid "Refuse the interrogation"
+msgstr "Отказаться сотрудничать"
 
 msgid "You have bestowed the name "
 msgstr "Вы даровели имя "
@@ -73195,7 +73187,7 @@ msgstr "Ходьба создает брызги (приключение)"
 msgid "Nickname position (adv mode)"
 msgstr "Положение прозвища (приключение)"
 
-msgid "-beta21"
+msgid "-beta22"
 msgstr ""
 
 msgid " (Owes you "
@@ -73295,9 +73287,6 @@ msgstr "Потребовать"
 msgid "Give"
 msgstr "Дать"
 
-msgid "Show"
-msgstr "Показать"
-
 msgid "Ask for currency"
 msgstr "Запросить валюту"
 
@@ -73335,6 +73324,60 @@ msgid ""
 "  It's not the original, but we can hope the writing was copied faithfully."
 msgstr ""
 "  Это не оригинал, но мы можем надеяться, что копия близка к оригиналу."
+
+msgid "Where is your identity from?"
+msgstr "Откуда ваша ложная личность?"
+
+msgid "Whom does your identity worship?"
+msgstr "Кому поклоняется ваша ложная личность?"
+
+msgid "What is your identity's profession?"
+msgstr "Какова профессия вашей ложной личности?"
+
+msgid "Your new identity:"
+msgstr "Ваша новая личность:"
+
+msgid "Select an identity."
+msgstr "Выберите личность"
+
+msgid "No name"
+msgstr "Нет имени"
+
+msgid "Name: \""
+msgstr "Имя: \""
+
+msgid "No origin"
+msgstr "Нет происхождения"
+
+msgid "Origin: "
+msgstr "Происхождение: "
+
+msgid "Profession: "
+msgstr "Профессия: "
+
+msgid "No object of worship"
+msgstr "Нет объекта поклонения"
+
+msgid "Object of worship: "
+msgstr "Объект поклонения: "
+
+msgid "Set origin"
+msgstr "Выбрать происхождение"
+
+msgid "Set profession"
+msgstr "Выбрать профессию"
+
+msgid "Set worship"
+msgstr "Выбрать божество"
+
+msgid "Assume identity"
+msgstr "Притвориться"
+
+msgid "New Identity"
+msgstr "Новая личность"
+
+msgid "Be Yourself"
+msgstr "Быть собой"
 
 msgid ": select "
 msgstr ": выберите "
@@ -73397,11 +73440,20 @@ msgstr ", но ничего не получается."
 msgid "You make nothing."
 msgstr "Вы ничего не сделали."
 
-msgid "  Let some days pass."
-msgstr "Пусть пройдет несколько дней."
+msgid "pending"
+msgstr "ожидающая"
 
-msgid "State feelings of embarassment"
-msgstr "Выразить чувство неловкости"
+msgid "Gain possession"
+msgstr "Охвачен"
+
+msgid "etpos"
+msgstr ""
+
+msgid ".  Do not tempt fate."
+msgstr ".  Не искушайте судьбу."
+
+msgid "exhilaration"
+msgstr "веселье"
 
 msgid "Default attack is a strike without charging or wrestling."
 msgstr "Атака по умолчанию - удар без натиска или борьбы"
@@ -73631,20 +73683,14 @@ msgstr "Этот персонаж управляется вручную в та�
 msgid "Assume control of this party member."
 msgstr "Управлять этим персонажем."
 
-msgid "Visual Stealth Factors"
-msgstr "Факторы скрытности"
-
-msgid "You emerged from the wilds and came to be a "
-msgstr "Вы вышли из глуши, чтобы стать "
+msgid "Difficult strike"
+msgstr "Сложный удар"
 
 msgid "Sort units by how involved they are in the crime."
 msgstr "Сортировать существ по их участию в преступлении."
 
 msgid "[C:7:0:0]No wounds"
 msgstr "[C:7:0:0]Нет ран"
-
-msgid " level"
-msgstr " уровень"
 
 msgid "Channel at "
 msgstr "Channel at "
@@ -73868,9 +73914,6 @@ msgstr ""
 msgid "no ambiance layer found by name"
 msgstr "no ambiance layer found by name"
 
-msgid "no ambiance layer found by ambiance"
-msgstr "no ambiance layer found by ambiance"
-
 msgid "Alignment Ambiance"
 msgstr "Alignment Ambiance"
 
@@ -73904,6 +73947,9 @@ msgstr "spawning safe thread"
 msgid " ambiance layer is about to start looping."
 msgstr ""
 
+msgid "no ambiance layer found by ambiance"
+msgstr "no ambiance layer found by ambiance"
+
 msgid "Found a currently playing ambiance layer with the same name ("
 msgstr "Found a currently playing ambiance layer with the same name ("
 
@@ -73923,6 +73969,9 @@ msgstr "unlocked mutex "
 
 msgid "released mutex "
 msgstr "released mutex "
+
+msgid "starting the one shots thread."
+msgstr ""
 
 msgid "attempting to play next one shot in "
 msgstr "attempting to play next one shot in "
@@ -74248,9 +74297,6 @@ msgstr ""
 msgid "combat song selected: "
 msgstr ""
 
-msgid "attempted to play a new combat song, but it was not set."
-msgstr ""
-
 msgid " until next measure start."
 msgstr ""
 
@@ -74293,12 +74339,6 @@ msgstr ""
 msgid " 'stinger' layer to bridge to the next group of the combat song."
 msgstr ""
 
-msgid "stopping combat song after stingers for group #"
-msgstr ""
-
-msgid ", as there are no more groups of loops."
-msgstr ""
-
 msgid "stopping group #"
 msgstr ""
 
@@ -74306,6 +74346,15 @@ msgid " layers over one measure"
 msgstr ""
 
 msgid " 'loop' layer to stop."
+msgstr ""
+
+msgid "stopping combat song after stingers for group #"
+msgstr ""
+
+msgid ", as there are no more groups of loops."
+msgstr ""
+
+msgid "attempted to play a new combat song, but it was not set."
 msgstr ""
 
 msgid "playing all layers."
@@ -74410,9 +74459,6 @@ msgstr "fading song layer out over "
 msgid " milliseconds"
 msgstr " milliseconds"
 
-msgid "waiting to fade song layer "
-msgstr "waiting to fade song layer "
-
 msgid "no layers to add"
 msgstr "no layers to add"
 
@@ -74430,6 +74476,9 @@ msgstr "current song layers size: "
 
 msgid "percentage of tracks playing: "
 msgstr "percentage of tracks playing: "
+
+msgid "waiting to fade song layer "
+msgstr "waiting to fade song layer "
 
 msgid "drowning riser not playing."
 msgstr "drowning riser not playing."
@@ -74528,8 +74577,8 @@ msgid "already have "
 msgstr ""
 
 msgid ""
-" ambiance playing, but need to start one shots because it's the center "
-"region."
+" ambiance playing, but need to start one shots because it's the first center"
+" region that has played as a result of polling."
 msgstr ""
 
 msgid "found "
@@ -74571,11 +74620,23 @@ msgstr "found a walla layer playing, ignoring request to start a new one."
 msgid "no walla layer found, so playing one."
 msgstr "no walla layer found, so playing one."
 
-msgid "  [C:7:0:0]This is common knowledge where you are from."
-msgstr "  [C:7:0:0]Это общее знание, откуда вы."
+msgid "Put on item"
+msgstr "Надеть"
+
+msgid "Take off item"
+msgstr "Снять"
+
+msgid "Disillusioned"
+msgstr "Разочарованный"
+
+msgid "Embarrassed"
+msgstr "Смущённый "
 
 msgid "** Starting Adventure **"
 msgstr "** Starting Adventure **"
+
+msgid "Acknowledge lack of resentment"
+msgstr "Признать недостаток возмущения"
 
 msgid "Welcome to this early version of Adventure mode."
 msgstr "Добро пожаловать в раннюю версию режима приключения."
@@ -75052,6 +75113,9 @@ msgstr " великого "
 msgid ".  Destiny is calling!"
 msgstr ".  Судьба зовет!"
 
+msgid "You emerged from the wilds and came to be a "
+msgstr "Вы вышли из глуши, чтобы стать "
+
 msgid "You are a "
 msgstr "Вы - "
 
@@ -75073,6 +75137,9 @@ msgstr " обыкновенный"
 msgid " dubious"
 msgstr " сомневающийся"
 
+msgid " worshipper of "
+msgstr " поклонник "
+
 msgid ", the force"
 msgstr ", силы"
 
@@ -75093,6 +75160,9 @@ msgstr "молитва"
 
 msgid " performance of "
 msgstr " выступление "
+
+msgid "State minor feeling of love"
+msgstr "Состояние легкого чувства любви"
 
 msgid "worthlessness"
 msgstr "бесполезность"
@@ -75223,9 +75293,6 @@ msgstr "пустота"
 msgid "exasperation"
 msgstr "раздражение"
 
-msgid "exhilaration"
-msgstr "веселье"
-
 msgid "fright"
 msgstr "страх"
 
@@ -75319,6 +75386,9 @@ msgstr "сожаление"
 msgid "remorse"
 msgstr "раскаяние"
 
+msgid "repentance"
+msgstr "покаяние"
+
 msgid "resentment"
 msgstr "обида"
 
@@ -75327,9 +75397,6 @@ msgstr "праведный"
 
 msgid "indignation"
 msgstr "негодование"
-
-msgid "self"
-msgstr "себя"
 
 msgid "pity"
 msgstr "жалость"
@@ -75444,11 +75511,11 @@ msgstr "Создать труппу вместе (меню названия гр
 msgid "troupe"
 msgstr "труппа"
 
-msgid "Claim this site for yourself and "
-msgstr "Претензия на этот участок для себя и "
-
 msgid "Claim this site for yourself (group naming menu)"
 msgstr "Претензия на этот участок для себя (меню названия группы)"
+
+msgid "Claim this site for yourself and "
+msgstr "Претензия на этот участок для себя и "
 
 msgid "Name pet (new menu)"
 msgstr "Назвать питомца (новое меню)"
@@ -75695,6 +75762,9 @@ msgstr "Распространить слухи о восстании"
 
 msgid "Spread rumor of the "
 msgstr "Распространить слухи о "
+
+msgid "founding"
+msgstr "основание"
 
 msgid "Spread rumor of the occupation of "
 msgstr "Распространить слухи об оккупации "
@@ -76429,9 +76499,6 @@ msgstr "преступники"
 msgid "State that you are right in all matters"
 msgstr "Сказать, что вы во всем правы"
 
-msgid "right"
-msgstr "прав"
-
 msgid "State that you are conflicted"
 msgstr "Сказать, что вы в конфликте"
 
@@ -76690,9 +76757,6 @@ msgstr "Попросить прийти на рынок позже"
 msgid "Remind listener of pending service"
 msgstr "Напомнить об ожидающей службе"
 
-msgid "pending"
-msgstr "ожидающая"
-
 msgid "Tell listener that no services are available"
 msgstr "Сказать, что здесь никто не может оказать услуги"
 
@@ -76942,9 +77006,6 @@ msgstr "разговор"
 msgid "Say something about your schemes"
 msgstr "Сказать что-то о своих планах"
 
-msgid "Refuse the interrogation"
-msgstr "Отказаться сотрудничать"
-
 msgid "Mock the repeated failure of the interrogator"
 msgstr "Высмеять неудачи допрашивающего"
 
@@ -76990,11 +77051,11 @@ msgstr "Не справился с сильным страхом"
 msgid "Fail the struggle against great sadness"
 msgstr "Не справился с сильной грустью"
 
-msgid "fail"
-msgstr "неудача"
-
 msgid "Fail the struggle against great terror"
 msgstr "Не справился с сильным ужасом"
+
+msgid "fail"
+msgstr "неудача"
 
 msgid "Fail the struggle against great agony"
 msgstr "Не справился с невероятной агонией"
@@ -77575,6 +77636,9 @@ msgstr "Выразить чувство неудовольствия"
 msgid "State feelings of eagerness"
 msgstr "Выразить чувство рвения"
 
+msgid "State feelings of embarassment"
+msgstr "Выразить чувство неловкости"
+
 msgid "State feelings of empathy"
 msgstr "Выразить сочувствие"
 
@@ -77829,9 +77893,6 @@ msgstr "Пропажа чувства легкой грусти"
 
 msgid "State minor feeling of satisfaction"
 msgstr "Состояние чувства легкого удовлетворения"
-
-msgid "State minor feeling of love"
-msgstr "Состояние легкого чувства любви"
 
 msgid "State minor feeling of bliss"
 msgstr "Выразить лёгкое чувство блаженства"
@@ -78451,9 +78512,6 @@ msgstr "Признать недостаток сожаления"
 msgid "Acknowledge lack of repentance"
 msgstr "Признать недостаточное раскаяние"
 
-msgid "Acknowledge lack of resentment"
-msgstr "Признать недостаток возмущения"
-
 msgid "Acknowledge lack of restlessness"
 msgstr "Признать недостаток нетерпеливости"
 
@@ -78586,17 +78644,8 @@ msgstr "Начать разговор с "
 msgid "Shout out to everybody"
 msgstr "Обратиться ко всем"
 
-msgid "Assume an identity (coming soon)"
-msgstr "Притвориться (пока недоступно)"
-
-msgid " with your "
-msgstr " вашим "
-
-msgid "Put on item"
-msgstr "Надеть предмет"
-
-msgid "Take off item"
-msgstr "Снять предмет"
+msgid "Assume an identity"
+msgstr "Притвориться"
 
 msgid "West"
 msgstr "Запад"
@@ -78628,9 +78677,6 @@ msgstr ""
 msgid "** Loading Adventurer **"
 msgstr "** Загрузка приключения **"
 
-msgid "Gain possession"
-msgstr "Охвачен"
-
 msgid "Pull it out"
 msgstr "Вытянуть"
 
@@ -78648,9 +78694,6 @@ msgstr "attempted to play a footstep too quickly."
 
 msgid "attempted to play a sweetened footstep too quickly."
 msgstr "attempted to play a sweetened footstep too quickly."
-
-msgid "medium"
-msgstr "среднее"
 
 msgid "FMOD: Failed to get number of channels"
 msgstr "FMOD: Failed to get number of channels"
@@ -78814,6 +78857,11 @@ msgstr "  Возможно, у кого-то из ваших друзей ест
 msgid "  Perhaps some of your friends here can remind you."
 msgstr "  Возможно, кто-то из ваших друзей сможет вам напомнить."
 
+msgid ""
+"  Perhaps some of the people here will be worth talking to before you "
+"continue on your way."
+msgstr "  Попробуйте поговорить с местными, прежде чем отправиться в путь."
+
 msgid "You must "
 msgstr "Вы должны "
 
@@ -78948,6 +78996,9 @@ msgstr " на ваш "
 msgid "You draw "
 msgstr "Вы вооружаетесь "
 
+msgid " with your "
+msgstr " вашим "
+
 msgid "You do not have a free grasp for "
 msgstr "У вас нет свободных рук, чтобы "
 
@@ -79017,11 +79068,23 @@ msgstr " и кладете в "
 msgid " and puts it in "
 msgstr " и кладет в "
 
+msgid "You do not have a free grasp and your quiver and packs are full."
+msgstr "Ваши руки заняты, а колчан и мешки полны."
+
+msgid "You do not have a free grasp and your quiver and pack are full."
+msgstr "Ваши руки заняты, а колчан и мешок полны."
+
+msgid "You do not have a free grasp and your quivers and pack are full."
+msgstr "Ваши руки заняты, а колчаны и мешок полны."
+
 msgid "You do not have a free grasp and your quivers are full."
-msgstr "Ваши руки занаты, а колчаны полны."
+msgstr "Ваши руки заняты, а колчаны полны."
 
 msgid "You do not have a free grasp and your quiver is full."
-msgstr "Ваши руки занаты, а колчан полон."
+msgstr "Ваши руки заняты, а колчан полон."
+
+msgid "You do not have a free grasp and your pack is full."
+msgstr "Ваши руки заняты, а мешок полон."
 
 msgid "You do not have a free grasp."
 msgstr "Ваши руки заняты."
@@ -79058,6 +79121,9 @@ msgstr "  Нужно доложить о завершении задания."
 
 msgid " is rumored to be in "
 msgstr " по слухам находится в "
+
+msgid "  [C:7:0:0]This is common knowledge where you are from."
+msgstr "  [C:7:0:0]Это общее знание, откуда вы."
 
 msgid "  [C:5:0:1]This creature is known to be dead."
 msgstr "  [C:5:0:1]Известно, что это существо мертво."
@@ -79317,6 +79383,9 @@ msgstr "жадное божество? Зачем связываться с ещ
 msgid "  Let a week pass."
 msgstr "Пусть пройдет неделя."
 
+msgid "  Let some days pass."
+msgstr "Пусть пройдет несколько дней."
+
 msgid "  Let another day pass."
 msgstr "Пусть пройдет еще день."
 
@@ -79329,14 +79398,14 @@ msgstr "Почему не было"
 msgid ", a jealous deity, consulted first?"
 msgstr ", жадное божество, у него просите совета?"
 
-msgid ".  Do not tempt fate."
-msgstr ".  Не искушайте судьбу."
-
 msgid "Praise "
 msgstr "Хвала"
 
 msgid " for ignoring your hubris.  "
 msgstr "за игнорирование вашего высокомерия."
+
+msgid "Freedom is allowed even in this."
+msgstr "Свобода разрешена даже в этом."
 
 msgid " without bound"
 msgstr "без связи"
@@ -79346,9 +79415,6 @@ msgstr "Вы прощены."
 
 msgid "You are free to do as you choose."
 msgstr "Вы свободны действовать как пожелаете."
-
-msgid "Freedom is allowed even in this."
-msgstr "Свобода разрешена даже в этом."
 
 msgid "Your happiness is still desired."
 msgstr "Вашему счастью многие позавидуют."
@@ -79677,6 +79743,9 @@ msgstr "Смотрите на простые удобства"
 msgid "Think on what came before and what follows."
 msgstr "Подумайте о том, что было до и после."
 
+msgid "It will not be fair."
+msgstr "Это не будет честно."
+
 msgid "Believe no one today."
 msgstr "Не верьте никому сегодня."
 
@@ -79824,11 +79893,11 @@ msgstr "Класть внутрь"
 msgid "Suck "
 msgstr "Обсасывать "
 
-msgid "Drink "
-msgstr "Пить "
-
 msgid "Eat "
 msgstr "Есть "
+
+msgid "Drink "
+msgstr "Пить "
 
 msgid "Ignite "
 msgstr "Поджечь "
@@ -79964,6 +80033,9 @@ msgstr "Путь сюда"
 
 msgid " (no climbing/jumping)"
 msgstr " (нет карабкания/прыжка)"
+
+msgid " level"
+msgstr " уровень"
 
 msgid " up)"
 msgstr " вверх)"
@@ -80323,6 +80395,9 @@ msgstr "Отношение: "
 msgid "Loves you"
 msgstr "Любит вас"
 
+msgid "Terrified of you"
+msgstr "В ужасе от вас"
+
 msgid "Likes you"
 msgstr "Вы нравитесь"
 
@@ -80331,9 +80406,6 @@ msgstr "Ненавидит вас"
 
 msgid "Dislikes you"
 msgstr "Не любит вас"
-
-msgid "Terrified of you"
-msgstr "В ужасе от вас"
 
 msgid "Scared of you"
 msgstr "Напуган вами"
@@ -80494,9 +80566,6 @@ msgstr "Разочарованный"
 msgid "Disgusted"
 msgstr "Недовольный"
 
-msgid "Disillusioned"
-msgstr "Разочарованный"
-
 msgid "Dislike"
 msgstr "Неприязнь"
 
@@ -80508,9 +80577,6 @@ msgstr "Нетерпеливый"
 
 msgid "Elated"
 msgstr "Ликующий"
-
-msgid "Embarrassed"
-msgstr "Смущённый "
 
 msgid "Empathetic"
 msgstr "Чуткий"
@@ -80983,11 +81049,11 @@ msgstr " Ожидание"
 msgid "Cannot see dawn."
 msgstr "Нельзя увидеть рассвет."
 
-msgid "You will sleep as necessary until dawn."
-msgstr "Вы будете спать сколько необходимо до рассвета."
-
 msgid " Until dawn"
 msgstr " до рассвета"
+
+msgid "You will sleep as necessary until dawn."
+msgstr "Вы будете спать сколько необходимо до рассвета."
 
 msgid "You will sleep as necessary for "
 msgstr "Вы будете спать сколько необходимо в течение "
@@ -81015,6 +81081,9 @@ msgstr "Карабкаться "
 
 msgid "Speed: "
 msgstr "Скорость: "
+
+msgid "Visual Stealth Factors"
+msgstr "Факторы скрытности"
 
 msgid "Light"
 msgstr "Светло"
@@ -81174,9 +81243,6 @@ msgstr "Удар"
 
 msgid "Impossible strike"
 msgstr "Невозможный удар"
-
-msgid "Difficult strike"
-msgstr "Сложный удар"
 
 msgid "Tricky strike"
 msgstr "Сложноватый удар"
@@ -81511,9 +81577,6 @@ msgstr "Вы пьёте "
 msgid " is too salty."
 msgstr " слишком солёно."
 
-msgid " is too hot."
-msgstr " слишком горячо."
-
 msgid " is too cold."
 msgstr " слишком холодное."
 
@@ -81658,6 +81721,9 @@ msgstr "Атака"
 msgid "Jump"
 msgstr "Прыжок"
 
+msgid "Push Object"
+msgstr "Толкнуть объект"
+
 msgid "Hold"
 msgstr "Держать"
 
@@ -81718,9 +81784,6 @@ msgstr "Menu Confirm"
 msgid "Failed to find vanilla interactions graphics header."
 msgstr ""
 
-msgid "_set_new_mode"
-msgstr ""
-
 msgid "Failed to find INTERACTION_GRAPHICS interaction "
 msgstr ""
 
@@ -81759,9 +81822,6 @@ msgstr "Сейчас вы контроллируете "
 
 msgid ", ruling "
 msgstr ", управляя"
-
-msgid "tvbuf"
-msgstr ""
 
 msgid "tried to lock the mutex, but failed."
 msgstr "tried to lock the mutex, but failed."
