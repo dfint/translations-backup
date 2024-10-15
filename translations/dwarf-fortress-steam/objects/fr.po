@@ -15229,7 +15229,7 @@ msgstr "[CDI:ADV_NAME:crachat]"
 #: creature_large_mountain.txt:379
 msgctxt "CREATURE:GNOME_MOUNTAIN"
 msgid "[CDI:VERB:spit:spits:]"
-msgstr ""
+msgstr "[CDI:VERB:crachat:crachats:]"
 
 #: creature_large_mountain.txt:392
 msgctxt "CREATURE:GNOME_MOUNTAIN"
@@ -15346,7 +15346,7 @@ msgstr "[CDI:ADV_NAME:crachat]"
 #: creature_large_mountain.txt:622
 msgctxt "CREATURE:GNOME_DARK"
 msgid "[CDI:VERB:spit:spits:]"
-msgstr ""
+msgstr "[CDI:VERB:crachat:crachats:]"
 
 #: creature_large_mountain.txt:637
 msgctxt "CREATURE:GNOME_DARK"
@@ -22543,16 +22543,18 @@ msgid ""
 "[RETRACT_INTO_BP:BY_CATEGORY:SHELL:roll into a ball:rolls into a "
 "ball:unroll:unrolls]"
 msgstr ""
+"[RETRACT_INTO_BP:BY_CATEGORY:SHELL:rouler en boule:rouler en "
+"boule:dérouler:dérouler]"
 
 #: creature_large_tropical.txt:3956
 msgctxt "CREATURE:ARMADILLO"
 msgid "[CASTE_NAME:armadillo sow:armadillo sows:armadillo sow]"
-msgstr ""
+msgstr "[CASTE_NAME:femelle tatou;femelles tatou:femelle tatou]"
 
 #: creature_large_tropical.txt:3960
 msgctxt "CREATURE:ARMADILLO"
 msgid "[CASTE_NAME:armadillo boar:armadillo boars:armadillo boar]"
-msgstr ""
+msgstr "[CASTE_NAME:tatou male:tatou males:tatou male]"
 
 #: creature_large_tropical.txt:3966
 msgctxt "CREATURE:ARMADILLO"
@@ -22572,7 +22574,7 @@ msgstr "[TLCM_NOUN:yeux:PLURAL]"
 #: creature_large_tropical.txt:3979
 msgctxt "CREATURE:ARMADILLO MAN"
 msgid "[CASTE_NAME:armadillo man:armadillo men:armadillo man]"
-msgstr ""
+msgstr "[CASTE_NAME:homme-tatou:hommes-tatou:homme-tatou]"
 
 #: creature_large_tropical.txt:3981
 msgctxt "CREATURE:ARMADILLO MAN"
@@ -22582,7 +22584,7 @@ msgstr "[CASTE_NAME:tatou femelle:tatous femelles:tatou femelle]"
 #: creature_large_tropical.txt:3991
 msgctxt "CREATURE:ARMADILLO MAN"
 msgid "[NAME:armadillo man:armadillo men:armadillo man]"
-msgstr ""
+msgstr "[NAME:homme-tatou:hommes-tatou:homme-tatou]"
 
 #: creature_large_tropical.txt:3992
 msgctxt "CREATURE:ARMADILLO MAN"
@@ -22592,12 +22594,12 @@ msgstr "[DESCRIPTION:Une personne avec la fourrure et la tête d'un tatou.]"
 #: creature_large_tropical.txt:4007
 msgctxt "CREATURE:ARMADILLO, GIANT"
 msgid "[NAME:giant armadillo:giant armadillos:giant armadillo]"
-msgstr ""
+msgstr "[NAME:tatou géant:tatous géants:tatou géant]"
 
 #: creature_large_tropical.txt:4008
 msgctxt "CREATURE:ARMADILLO, GIANT"
 msgid "[GENERAL_CHILD_NAME:giant armadillo pup:giant armadillo pups]"
-msgstr ""
+msgstr "[GENERAL_CHILD_NAME:jeune tatou géant:jeunes tatous géants]"
 
 #: creature_large_tropical.txt:4009
 msgctxt "CREATURE:ARMADILLO, GIANT"
@@ -22605,18 +22607,22 @@ msgid ""
 "[DESCRIPTION:A large monster the shape of an armadillo.  It has thick armor "
 "for skin.]"
 msgstr ""
+"[DESCRIPTION:Un énorme monstre en forme de tatou.  Il a une épaisse armure "
+"en guise de peau.]"
 
 #: creature_large_tropical.txt:4018
 msgctxt "CREATURE:ARMADILLO, GIANT"
 msgid ""
 "[CASTE_NAME:giant armadillo boar:giant armadillo boars:giant armadillo boar]"
-msgstr ""
+msgstr "[CASTE_NAME:tatou géant mâle:tatous géants mâles:tatou géant mâle]"
 
 #: creature_large_tropical.txt:4020
 msgctxt "CREATURE:ARMADILLO, GIANT"
 msgid ""
 "[CASTE_NAME:giant armadillo sow:giant armadillo sows:giant armadillo sow]"
 msgstr ""
+"[CASTE_NAME:femelle tatou géante:femelles tatous géantes:femelle tatou "
+"géante]"
 
 #: creature_large_tropical.txt:4022
 msgctxt "CREATURE:ARMADILLO, GIANT"
@@ -22635,7 +22641,7 @@ msgstr ""
 #: creature_large_tundra.txt:7
 msgctxt "CREATURE:MUSKOX"
 msgid "[NAME:muskox:muskoxen:muskox]"
-msgstr ""
+msgstr "[NAME:bœuf musqué:bœufs musqués:bœuf musqué]"
 
 #: creature_large_tundra.txt:8
 msgctxt "CREATURE:MUSKOX"
