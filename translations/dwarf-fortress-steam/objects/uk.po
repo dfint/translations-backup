@@ -28587,7 +28587,7 @@ msgstr "[NAME:дварф:дварфи:дварфійський]"
 #: creature_standard.txt:8
 msgctxt "CREATURE:DWARF"
 msgid "[CASTE_NAME:dwarf:dwarves:dwarven]"
-msgstr ""
+msgstr "[CASTE_NAME:дварф:дварфи:дварфійський]"
 
 #: creature_standard.txt:20
 msgctxt "CREATURE:DWARF"
@@ -28677,12 +28677,12 @@ msgstr "[GENERAL_CHILD_NAME:дитинча дварфу:діти-дварфи]"
 #: creature_standard.txt:265
 msgctxt "CREATURE:DWARF"
 msgid "[CHILDNAME:dwarven child:dwarven children]"
-msgstr "[CHILDNAME:дитинча гномів:діти гномів]"
+msgstr "[CHILDNAME:дварф-дитинча:дварфи-діти]"
 
 #: creature_standard.txt:274
 msgctxt "CREATURE:DWARF"
 msgid "[PROFESSION_NAME:CRAFTSMAN:craftsdwarf:craftsdwarves]"
-msgstr "[PROFESSION_NAME:CRAFTSMAN:гном-ремісник:гноми-ремісники]"
+msgstr "[PROFESSION_NAME:CRAFTSMAN:дварф-ремісник:дварфи-ремісники]"
 
 #: creature_standard.txt:275
 msgctxt "CREATURE:DWARF"
@@ -28697,52 +28697,52 @@ msgstr ""
 #: creature_standard.txt:277
 msgctxt "CREATURE:DWARF"
 msgid "[PROFESSION_NAME:SPEARMAN:speardwarf:speardwarves]"
-msgstr "[PROFESSION_NAME:SPEARMAN:гном зі списом:гноми зі списами]"
+msgstr "[PROFESSION_NAME:SPEARMAN:дварф зі списом:дварфи зі списами]"
 
 #: creature_standard.txt:278
 msgctxt "CREATURE:DWARF"
 msgid "[PROFESSION_NAME:CROSSBOWMAN:marksdwarf:marksdwarves]"
-msgstr "[PROFESSION_NAME:CROSSBOWMAN:гном-арбалетник:гноми-арбалетники]"
+msgstr "[PROFESSION_NAME:CROSSBOWMAN:дварф-арбалетник:дварф-арбалетники]"
 
 #: creature_standard.txt:279
 msgctxt "CREATURE:DWARF"
 msgid "[PROFESSION_NAME:AXEMAN:axedwarf:axedwarves]"
 msgstr ""
-"[PROFESSION_NAME:AXEMAN:гном з бойовою сокирою:гноми з бойовими сокирами]"
+"[PROFESSION_NAME:AXEMAN:дварф з бойовою сокирою:дварф з бойовими сокирами]"
 
 #: creature_standard.txt:280
 msgctxt "CREATURE:DWARF"
 msgid "[PROFESSION_NAME:SWORDSMAN:swordsdwarf:swordsdwarves]"
-msgstr "[PROFESSION_NAME:SWORDSMAN:гном з мечем:гноми з мечами]"
+msgstr "[PROFESSION_NAME:SWORDSMAN:дварф з мечем:дварфи з мечами]"
 
 #: creature_standard.txt:281
 msgctxt "CREATURE:DWARF"
 msgid "[PROFESSION_NAME:MACEMAN:macedwarf:macedwarves]"
-msgstr "[PROFESSION_NAME:MACEMAN:гном з булавою:Гноми з булавами]"
+msgstr "[PROFESSION_NAME:MACEMAN:дварф з булавою:дварфи з булавами]"
 
 #: creature_standard.txt:282
 msgctxt "CREATURE:DWARF"
 msgid "[PROFESSION_NAME:PIKEMAN:pikedwarf:pikedwarves]"
-msgstr "[PROFESSION_NAME:PIKEMAN:гном з пікою:гноми з піками]"
+msgstr "[PROFESSION_NAME:PIKEMAN:дварф з пікою:дварфи з піками]"
 
 #: creature_standard.txt:283
 msgctxt "CREATURE:DWARF"
 msgid "[PROFESSION_NAME:BOWMAN:bowdwarf:bowdwarves]"
-msgstr "[PROFESSION_NAME:BOWMAN:гном-лучник:гноми-лучники]"
+msgstr "[PROFESSION_NAME:BOWMAN:дварф-лучник:дварфи-лучники]"
 
 #: creature_standard.txt:284
 msgctxt "CREATURE:DWARF"
 msgid ""
 "[PROFESSION_NAME:MASTER_CROSSBOWMAN:Elite Marksdwarf:Elite Marksdwarves]"
 msgstr ""
-"[PROFESSION_NAME:MASTER_CROSSBOWMAN:Елітний гном-арбалетник:Елітні гноми-"
+"[PROFESSION_NAME:MASTER_CROSSBOWMAN:Елітний дварф-арбалетник:Елітні дварфи-"
 "арбалетники]"
 
 #: creature_standard.txt:285
 msgctxt "CREATURE:DWARF"
 msgid "[PROFESSION_NAME:MASTER_BOWMAN:Elite Bowdwarf:Elite Bowdwarves]"
 msgstr ""
-"[PROFESSION_NAME:MASTER_BOWMAN:Елітний гном-лучник:Елітні гноми-лучники]"
+"[PROFESSION_NAME:MASTER_BOWMAN:Елітний дварф-лучник:Елітні дварфи-лучники]"
 
 #: creature_standard.txt:300
 msgctxt "CREATURE:DWARF"
@@ -31900,6 +31900,8 @@ msgid ""
 "[DESCRIPTION:A bird of prey so large and ferocious it dwarfs many dragons.  "
 "All beneath its mighty wings should fear the sky.]"
 msgstr ""
+"[DESCRIPTION:Хижий птах, настільки великий і лютий, що перевершує багатьох "
+"драконів.  Все під його могутніми крилами повинно боятися неба.]"
 
 #: creature_standard.txt:5587
 msgctxt "CREATURE:BIRD_ROC"
@@ -39315,7 +39317,7 @@ msgstr ""
 #: entity_default.txt:466
 msgctxt "ENTITY:MOUNTAIN"
 msgid "[SQUAD:10:militia-dwarf:militia-dwarves]"
-msgstr ""
+msgstr "[SQUAD:10:ополченець-дварф:ополченці-дварфи]"
 
 #: entity_default.txt:475
 msgctxt "ENTITY:MOUNTAIN"
@@ -39363,7 +39365,7 @@ msgstr ""
 #: entity_default.txt:582
 msgctxt "ENTITY:MOUNTAIN"
 msgid "[NAME:chief medical dwarf:chief medical dwarves]"
-msgstr ""
+msgstr "[NAME:головний лікар:головні лікарі]"
 
 #: entity_default.txt:583
 msgctxt "ENTITY:MOUNTAIN"
@@ -39371,6 +39373,8 @@ msgid ""
 "[DESCRIPTION:The chief medical dwarf allows you to see the overall health of"
 " dwarves in your fortress.]"
 msgstr ""
+"[DESCRIPTION:Головний лікар дозволяє вам побачити загальний стан здоров'я "
+"гномів у вашій фортеці.]"
 
 #: entity_default.txt:595
 msgctxt "ENTITY:MOUNTAIN"
