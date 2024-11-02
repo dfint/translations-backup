@@ -22451,8 +22451,8 @@ msgid ""
 "into <pro_pos> shell:come out of <pro_pos> shell:comes out of <pro_pos> "
 "shell]"
 msgstr ""
-"[RETRACT_INTO_BP:BY_CATEGORY:SHELL:se rétracter dans <pro_pos> carapace:se "
-"rétracte dans <pro_pos> carapace:sortir de <pro_pos> carapace:sort de "
+"[RETRACT_INTO_BP:BY_CATEGORY:SHELL:vous rétractez dans <pro_pos> carapace:se"
+" rétracte dans <pro_pos> carapace:sortez de <pro_pos> carapace:sort de "
 "<pro_pos> carapace]"
 
 #: creature_large_tropical.txt:3824
@@ -22555,8 +22555,8 @@ msgid ""
 "[RETRACT_INTO_BP:BY_CATEGORY:SHELL:roll into a ball:rolls into a "
 "ball:unroll:unrolls]"
 msgstr ""
-"[RETRACT_INTO_BP:BY_CATEGORY:SHELL:rouler en boule:rouler en "
-"boule:dérouler:dérouler]"
+"[RETRACT_INTO_BP:BY_CATEGORY:SHELL:vous roulez en boule:se roule en "
+"boule:vous déroulez:déroule]"
 
 #: creature_large_tropical.txt:3956
 msgctxt "CREATURE:ARMADILLO"
@@ -27874,8 +27874,8 @@ msgid ""
 "[RETRACT_INTO_BP:BY_CATEGORY:BODY_UPPER:roll into a ball:rolls into a "
 "ball:unroll:unrolls]"
 msgstr ""
-"[RETRACT_INTO_BP:BY_CATEGORY:BODY_UPPER:se rouler en boule:se roule en "
-"boule:dérouler:déroule]"
+"[RETRACT_INTO_BP:BY_CATEGORY:BODY_UPPER:vous roulez en boule:se roule en "
+"boule:déroulez:déroule]"
 
 #: creature_small_mammal_new.txt:223
 msgctxt "CREATURE:HEDGEHOG"
@@ -35200,7 +35200,7 @@ msgstr "[NAME:kangourou:kangourous:kangourou]"
 #: creature_temperate_new.txt:345
 msgctxt "CREATURE:KANGAROO"
 msgid "[GENERAL_CHILD_NAME:kangaroo joey:kangaroo joeys]"
-msgstr "[GENERAL_CHILD_NAME:joey kangourou:joeys kangourous]"
+msgstr "[GENERAL_CHILD_NAME:jeune kangourou:jeunes kangourous]"
 
 #: creature_temperate_new.txt:356
 msgctxt "CREATURE:KANGAROO"
@@ -35412,7 +35412,7 @@ msgstr "[CASTE_NAME:koala:koalas:koala]"
 #: creature_temperate_new.txt:542
 msgctxt "CREATURE:KOALA"
 msgid "[GENERAL_CHILD_NAME:koala joey:koala joeys]"
-msgstr ""
+msgstr "[GENERAL_CHILD_NAME:jeune koala:jeunes koalas]"
 
 #: creature_temperate_new.txt:552
 msgctxt "CREATURE:KOALA"
@@ -35447,17 +35447,17 @@ msgstr "[TLCM_NOUN:yeux:PLURAL]"
 #: creature_temperate_new.txt:636
 msgctxt "CREATURE:KOALA_MAN"
 msgid "[CASTE_NAME:koala man:koala men:koala man]"
-msgstr ""
+msgstr "[CASTE_NAME:homme-koala:hommes-koalas-homme-koala]"
 
 #: creature_temperate_new.txt:638
 msgctxt "CREATURE:KOALA_MAN"
 msgid "[CASTE_NAME:koala woman:koala women:koala woman]"
-msgstr ""
+msgstr "[CASTE_NAME:femme-koala:femmes-koalas-femme-koala]"
 
 #: creature_temperate_new.txt:649
 msgctxt "CREATURE:KOALA_MAN"
 msgid "[NAME:koala man:koala men:koala man]"
-msgstr ""
+msgstr "[NAME:homme-koala:hommes-koalas-homme-koala]"
 
 #: creature_temperate_new.txt:650
 msgctxt "CREATURE:KOALA_MAN"
@@ -35467,12 +35467,12 @@ msgstr "[DESCRIPTION:Une personne grise avec la tête d'un koala.]"
 #: creature_temperate_new.txt:668
 msgctxt "CREATURE:GIANT_KOALA"
 msgid "[NAME:giant koala:giant koalas:giant koala]"
-msgstr ""
+msgstr "[NAME:koala géant:koalas géants]"
 
 #: creature_temperate_new.txt:669
 msgctxt "CREATURE:GIANT_KOALA"
 msgid "[CASTE_NAME:giant koala:giant koalas:giant koala]"
-msgstr ""
+msgstr "[CASTE_NAME:koala géant:koalas géants]"
 
 #: creature_temperate_new.txt:671
 msgctxt "CREATURE:GIANT_KOALA"
@@ -35495,52 +35495,52 @@ msgstr ""
 #: creature_temperate_new.txt:691
 msgctxt "CREATURE:ADDER"
 msgid "[NAME:adder:adders:adder]"
-msgstr ""
+msgstr "[NAME:vipère:vipères:vipère]"
 
 #: creature_temperate_new.txt:692
 msgctxt "CREATURE:ADDER"
 msgid "[CASTE_NAME:adder:adders:adder]"
-msgstr ""
+msgstr "[CASTE_NAME:vipère:vipères:vipère]"
 
 #: creature_temperate_new.txt:708
 msgctxt "CREATURE:ADDER"
 msgid "[PREFSTRING:warning hisses]"
-msgstr ""
+msgstr "[PREFSTRING:sifflements d'avertissement]"
 
 #: creature_temperate_new.txt:739
 msgctxt "CREATURE:ADDER"
 msgid "[STATE_NAME:ALL_SOLID:frozen adder venom]"
-msgstr ""
+msgstr "[STATE_NAME:ALL_SOLID:venin de vipère congelé]"
 
 #: creature_temperate_new.txt:740
 msgctxt "CREATURE:ADDER"
 msgid "[STATE_ADJ:ALL_SOLID:frozen adder venom]"
-msgstr ""
+msgstr "[STATE_ADJ:ALL_SOLID:venin de vipère congelé]"
 
 #: creature_temperate_new.txt:741
 msgctxt "CREATURE:ADDER"
 msgid "[STATE_NAME:LIQUID:adder venom]"
-msgstr ""
+msgstr "[STATE_NAME:LIQUID:venin de vipère]"
 
 #: creature_temperate_new.txt:742
 msgctxt "CREATURE:ADDER"
 msgid "[STATE_ADJ:LIQUID:adder venom]"
-msgstr ""
+msgstr "[STATE_ADJ:LIQUID:venin de vipère]"
 
 #: creature_temperate_new.txt:743
 msgctxt "CREATURE:ADDER"
 msgid "[STATE_NAME:GAS:boiling adder venom]"
-msgstr ""
+msgstr "[STATE_NAME:GAS:vapeur de venin de vipère]"
 
 #: creature_temperate_new.txt:744
 msgctxt "CREATURE:ADDER"
 msgid "[STATE_ADJ:GAS:boiling adder venom]"
-msgstr ""
+msgstr "[STATE_ADJ:GAS:vapeur de venin de vipère]"
 
 #: creature_temperate_new.txt:748
 msgctxt "CREATURE:ADDER"
 msgid "[SYN_NAME:adder bite]"
-msgstr ""
+msgstr "[SYN_NAME:morsure de vipère]"
 
 #: creature_temperate_new.txt:763
 msgctxt "CREATURE:ADDER"
@@ -35560,27 +35560,27 @@ msgstr "[TLCM_NOUN:yeux:PLURAL]"
 #: creature_temperate_new.txt:802
 msgctxt "CREATURE:ADDER_MAN"
 msgid "[CVCT_TARGET:adder]"
-msgstr ""
+msgstr "[CVCT_TARGET:vipère]"
 
 #: creature_temperate_new.txt:803
 msgctxt "CREATURE:ADDER_MAN"
 msgid "[CVCT_REPLACEMENT:adder man]"
-msgstr ""
+msgstr "[CVCT_REPLACEMENT:homme-vipère]"
 
 #: creature_temperate_new.txt:820
 msgctxt "CREATURE:ADDER_MAN"
 msgid "[CASTE_NAME:adder man:adder men:adder man]"
-msgstr ""
+msgstr "[CASTE_NAME:homme-vipère:hommes-vipères:homme-vipère]"
 
 #: creature_temperate_new.txt:822
 msgctxt "CREATURE:ADDER_MAN"
 msgid "[CASTE_NAME:adder woman:adder women:adder woman]"
-msgstr ""
+msgstr "[CASTE_NAME:femme-vipère:femmes-vipères:femme-vipère]"
 
 #: creature_temperate_new.txt:831
 msgctxt "CREATURE:ADDER_MAN"
 msgid "[NAME:adder man:adder men:adder man]"
-msgstr ""
+msgstr "[NAME:homme-vipère:hommes-vipères:homme-vipère]"
 
 #: creature_temperate_new.txt:832
 msgctxt "CREATURE:ADDER_MAN"
@@ -35590,22 +35590,22 @@ msgstr "[DESCRIPTION:Une grande vipère avec le torse et les bras d'un homme.]"
 #: creature_temperate_new.txt:843
 msgctxt "CREATURE:GIANT_ADDER"
 msgid "[CVCT_TARGET:adder]"
-msgstr ""
+msgstr "[CVCT_TARGET:vipère]"
 
 #: creature_temperate_new.txt:844
 msgctxt "CREATURE:GIANT_ADDER"
 msgid "[CVCT_REPLACEMENT:giant adder]"
-msgstr ""
+msgstr "[CVCT_REPLACEMENT:vipère géante]"
 
 #: creature_temperate_new.txt:865
 msgctxt "CREATURE:GIANT_ADDER"
 msgid "[NAME:giant adder:giant adders:giant adder]"
-msgstr ""
+msgstr "[NAME:vipère géante:vipères géantes:vipère géante]"
 
 #: creature_temperate_new.txt:866
 msgctxt "CREATURE:GIANT_ADDER"
 msgid "[CASTE_NAME:giant adder:giant adders:giant adder]"
-msgstr ""
+msgstr "[CASTE_NAME:vipère géante:vipères géantes:vipère géante]"
 
 #: creature_temperate_new.txt:867
 msgctxt "CREATURE:GIANT_ADDER"
@@ -35615,7 +35615,7 @@ msgstr "[DESCRIPTION:Un grand monstre en forme de vipère.]"
 #: creature_temperate_new.txt:876
 msgctxt "CREATURE:GIANT_ADDER"
 msgid "[PREFSTRING:warning hisses]"
-msgstr ""
+msgstr "[PREFSTRING:sifflements d'avertissement]"
 
 #: creature_temperate_new.txt:887
 msgctxt "CREATURE:ECHIDNA"
@@ -35629,17 +35629,17 @@ msgstr ""
 #: creature_temperate_new.txt:888
 msgctxt "CREATURE:ECHIDNA"
 msgid "[NAME:echidna:echidnas:echidna]"
-msgstr ""
+msgstr "[NAME:échidné:échidnés:échidné]"
 
 #: creature_temperate_new.txt:889
 msgctxt "CREATURE:ECHIDNA"
 msgid "[CASTE_NAME:echidna:echidnas:echidna]"
-msgstr ""
+msgstr "[CASTE_NAME:échidné:échidnés:échidné]"
 
 #: creature_temperate_new.txt:890
 msgctxt "CREATURE:ECHIDNA"
 msgid "[GENERAL_CHILD_NAME:puggle:puggles]"
-msgstr ""
+msgstr "[GENERAL_CHILD_NAME:jeune échidné:jeunes échidnés]"
 
 #: creature_temperate_new.txt:905
 msgctxt "CREATURE:ECHIDNA"
@@ -35649,17 +35649,17 @@ msgstr "[PREFSTRING:épines]"
 #: creature_temperate_new.txt:906
 msgctxt "CREATURE:ECHIDNA"
 msgid "[PREFSTRING:egg-laying]"
-msgstr ""
+msgstr "[PREFSTRING:ponte]"
 
 #: creature_temperate_new.txt:912
 msgctxt "CREATURE:ECHIDNA"
 msgid "[STATE_NAME:ALL_SOLID:spine]"
-msgstr ""
+msgstr "[STATE_NAME:ALL_SOLID:épine]"
 
 #: creature_temperate_new.txt:913
 msgctxt "CREATURE:ECHIDNA"
 msgid "[STATE_ADJ:ALL_SOLID:spine]"
-msgstr ""
+msgstr "[STATE_ADJ:ALL_SOLID:épine]"
 
 #: creature_temperate_new.txt:950
 msgctxt "CREATURE:ECHIDNA"
@@ -35672,6 +35672,8 @@ msgid ""
 "[RETRACT_INTO_BP:BY_CATEGORY:BODY_UPPER:roll into a ball:rolls into a "
 "ball:unroll:unrolls]"
 msgstr ""
+"[RETRACT_INTO_BP:BY_CATEGORY:BODY_UPPER:vous roulez en boule:se roule en "
+"boule:déroulez:déroule]"
 
 #: creature_temperate_new.txt:979
 msgctxt "CREATURE:ECHIDNA"
@@ -35691,17 +35693,17 @@ msgstr "[TLCM_NOUN:yeux:PLURAL]"
 #: creature_temperate_new.txt:992
 msgctxt "CREATURE:ECHIDNA_MAN"
 msgid "[CASTE_NAME:echidna man:echidna men:echidna man]"
-msgstr ""
+msgstr "[CASTE_NAME:homme-échidné:hommes-échidnés:homme-échidné]"
 
 #: creature_temperate_new.txt:994
 msgctxt "CREATURE:ECHIDNA_MAN"
 msgid "[CASTE_NAME:echidna woman:echidna women:echidna woman]"
-msgstr ""
+msgstr "[CASTE_NAME:femme-échidné:femmes-échidnés:femme-échidné]"
 
 #: creature_temperate_new.txt:1004
 msgctxt "CREATURE:ECHIDNA_MAN"
 msgid "[NAME:echidna man:echidna men:echidna man]"
-msgstr ""
+msgstr "[NAME:homme-échidné:hommes-échidnés:homme-échidné]"
 
 #: creature_temperate_new.txt:1005
 msgctxt "CREATURE:ECHIDNA_MAN"
@@ -35711,17 +35713,17 @@ msgstr "[DESCRIPTION:Une personne épineuse avec la tête d'un échidné.]"
 #: creature_temperate_new.txt:1023
 msgctxt "CREATURE:GIANT_ECHIDNA"
 msgid "[NAME:giant echidna:giant echidnas:giant echidna]"
-msgstr ""
+msgstr "[NAME:échidné géant:échidnés géants:échidné géant]"
 
 #: creature_temperate_new.txt:1024
 msgctxt "CREATURE:GIANT_ECHIDNA"
 msgid "[CASTE_NAME:giant echidna:giant echidnas:giant echidna]"
-msgstr ""
+msgstr "[CASTE_NAME:échidné géant:échidnés géants:échidné géant]"
 
 #: creature_temperate_new.txt:1025
 msgctxt "CREATURE:GIANT_ECHIDNA"
 msgid "[GENERAL_CHILD_NAME:giant echidna puggle:giant echidna puggles]"
-msgstr ""
+msgstr "[GENERAL_CHILD_NAME:jeune échidné géant:jeunes échidnés géants]"
 
 #: creature_temperate_new.txt:1026
 msgctxt "CREATURE:GIANT_ECHIDNA"
@@ -35736,7 +35738,7 @@ msgstr "[PREFSTRING:épines]"
 #: creature_temperate_new.txt:1036
 msgctxt "CREATURE:GIANT_ECHIDNA"
 msgid "[PREFSTRING:egg-laying]"
-msgstr ""
+msgstr "[PREFSTRING:ponte]"
 
 #: creature_temperate_new.txt:1046
 msgctxt "CREATURE:PORCUPINE"
@@ -35750,32 +35752,32 @@ msgstr ""
 #: creature_temperate_new.txt:1047
 msgctxt "CREATURE:PORCUPINE"
 msgid "[NAME:porcupine:porcupines:porcupine]"
-msgstr ""
+msgstr "[NAME:porc-épic​:porcs-épic​s:porc-épic​]"
 
 #: creature_temperate_new.txt:1048
 msgctxt "CREATURE:PORCUPINE"
 msgid "[CASTE_NAME:porcupine:porcupines:porcupine]"
-msgstr ""
+msgstr "[CASTE_NAME:porc-épic​:porcs-épic​s:porc-épic​]"
 
 #: creature_temperate_new.txt:1049
 msgctxt "CREATURE:PORCUPINE"
 msgid "[GENERAL_CHILD_NAME:porcupine pup:porcupine pups]"
-msgstr ""
+msgstr "[GENERAL_CHILD_NAME:jeune porc-épic:jeunes porcs-épics]"
 
 #: creature_temperate_new.txt:1067
 msgctxt "CREATURE:PORCUPINE"
 msgid "[PREFSTRING:quills]"
-msgstr ""
+msgstr "[PREFSTRING:piquants]"
 
 #: creature_temperate_new.txt:1073
 msgctxt "CREATURE:PORCUPINE"
 msgid "[STATE_NAME:ALL_SOLID:spine]"
-msgstr ""
+msgstr "[STATE_NAME:ALL_SOLID:épine]"
 
 #: creature_temperate_new.txt:1074
 msgctxt "CREATURE:PORCUPINE"
 msgid "[STATE_ADJ:ALL_SOLID:spine]"
-msgstr ""
+msgstr "[STATE_ADJ:ALL_SOLID:épine]"
 
 #: creature_temperate_new.txt:1110
 msgctxt "CREATURE:PORCUPINE"
@@ -35805,17 +35807,17 @@ msgstr "[TLCM_NOUN:yeux:PLURAL]"
 #: creature_temperate_new.txt:1154
 msgctxt "CREATURE:PORCUPINE_MAN"
 msgid "[CASTE_NAME:porcupine man:porcupine men:porcupine man]"
-msgstr ""
+msgstr "[CASTE_NAME:homme-porc-épic​:hommes-porcs-épic​s:homme-porc-épic​]"
 
 #: creature_temperate_new.txt:1156
 msgctxt "CREATURE:PORCUPINE_MAN"
 msgid "[CASTE_NAME:porcupine woman:porcupine women:porcupine woman]"
-msgstr ""
+msgstr "[CASTE_NAME:femme-porc-épic​:femmes-porcs-épic​s:femme-porc-épic​]"
 
 #: creature_temperate_new.txt:1167
 msgctxt "CREATURE:PORCUPINE_MAN"
 msgid "[NAME:porcupine man:porcupine men:porcupine man]"
-msgstr ""
+msgstr "[NAME:homme-porc-épic​:hommes-porcs-épic​s:homme-porc-épic​]"
 
 #: creature_temperate_new.txt:1168
 msgctxt "CREATURE:PORCUPINE_MAN"
@@ -35826,17 +35828,17 @@ msgstr ""
 #: creature_temperate_new.txt:1186
 msgctxt "CREATURE:GIANT_PORCUPINE"
 msgid "[NAME:giant porcupine:giant porcupines:giant porcupine]"
-msgstr ""
+msgstr "[NAME:porc-épic géant:porcs-épics géants:porc-épic géant]"
 
 #: creature_temperate_new.txt:1187
 msgctxt "CREATURE:GIANT_PORCUPINE"
 msgid "[CASTE_NAME:giant porcupine:giant porcupines:giant porcupine]"
-msgstr ""
+msgstr "[CASTE_NAME:porc-épic géant:porcs-épics géants:porc-épic géant]"
 
 #: creature_temperate_new.txt:1188
 msgctxt "CREATURE:GIANT_PORCUPINE"
 msgid "[GENERAL_CHILD_NAME:giant porcupine pup:giant porcupine pups]"
-msgstr ""
+msgstr "[GENERAL_CHILD_NAME:jeune porc-épic géant:jeunes porcs-épics géants]"
 
 #: creature_temperate_new.txt:1189
 msgctxt "CREATURE:GIANT_PORCUPINE"
@@ -35846,7 +35848,7 @@ msgstr "[DESCRIPTION:Un grand monstre sous la forme d'un porc-épic.]"
 #: creature_temperate_new.txt:1198
 msgctxt "CREATURE:GIANT_PORCUPINE"
 msgid "[PREFSTRING:quills]"
-msgstr ""
+msgstr "[PREFSTRING:piquants]"
 
 #: creature_temperate_new.txt:1209
 msgctxt "CREATURE:KINGSNAKE"
@@ -35860,17 +35862,17 @@ msgstr ""
 #: creature_temperate_new.txt:1210
 msgctxt "CREATURE:KINGSNAKE"
 msgid "[NAME:kingsnake:kingsnakes:kingsnake]"
-msgstr ""
+msgstr "[NAME:serpent royal:serpents rois:serpent royal]"
 
 #: creature_temperate_new.txt:1211
 msgctxt "CREATURE:KINGSNAKE"
 msgid "[CASTE_NAME:kingsnake:kingsnakes:kingsnake]"
-msgstr ""
+msgstr "[CASTE_NAME:serpent royal:serpents rois:serpent royal]"
 
 #: creature_temperate_new.txt:1225
 msgctxt "CREATURE:KINGSNAKE"
 msgid "[PREFSTRING:habit of eating other snakes]"
-msgstr ""
+msgstr "[PREFSTRING:se nourrit d'autres serpents]"
 
 #: creature_temperate_new.txt:1226
 msgctxt "CREATURE:KINGSNAKE"
@@ -35896,16 +35898,18 @@ msgstr "[TLCM_NOUN:yeux:PLURAL]"
 msgctxt "CREATURE:KINGSNAKE_MAN"
 msgid "[CASTE_NAME:kingsnake man:kingsnake men:kingsnake man]"
 msgstr ""
+"[CASTE_NAME:homme-serpent royal:hommes-serpents rois:homme-serpent royal]"
 
 #: creature_temperate_new.txt:1302
 msgctxt "CREATURE:KINGSNAKE_MAN"
 msgid "[CASTE_NAME:kingsnake woman:kingsnake women:kingsnake woman]"
 msgstr ""
+"[CASTE_NAME:femme-serpent royal:femmes-serpents rois:femme-serpent royal]"
 
 #: creature_temperate_new.txt:1311
 msgctxt "CREATURE:KINGSNAKE_MAN"
 msgid "[NAME:kingsnake man:kingsnake men:kingsnake man]"
-msgstr ""
+msgstr "[NAME:homme-serpent royal:hommes-serpents rois:homme-serpent royal]"
 
 #: creature_temperate_new.txt:1312
 msgctxt "CREATURE:KINGSNAKE_MAN"
@@ -35917,12 +35921,12 @@ msgstr ""
 #: creature_temperate_new.txt:1328
 msgctxt "CREATURE:GIANT_KINGSNAKE"
 msgid "[NAME:giant kingsnake:giant kingsnakes:giant kingsnake]"
-msgstr ""
+msgstr "[NAME:serpent royal géant:serpents rois géants]"
 
 #: creature_temperate_new.txt:1329
 msgctxt "CREATURE:GIANT_KINGSNAKE"
 msgid "[CASTE_NAME:giant kingsnake:giant kingsnakes:giant kingsnake]"
-msgstr ""
+msgstr "[CASTE_NAME:serpent royal géant:serpents rois géants]"
 
 #: creature_temperate_new.txt:1330
 msgctxt "CREATURE:GIANT_KINGSNAKE"
@@ -35932,7 +35936,7 @@ msgstr "[DESCRIPTION:Un grand monstre sous la forme d'un serpent royal.]"
 #: creature_temperate_new.txt:1339
 msgctxt "CREATURE:GIANT_KINGSNAKE"
 msgid "[PREFSTRING:habit of eating other snakes]"
-msgstr ""
+msgstr "[PREFSTRING:se nourrit d'autres serpents]"
 
 #: creature_temperate_new.txt:1340
 msgctxt "CREATURE:GIANT_KINGSNAKE"
@@ -38405,6 +38409,8 @@ msgid ""
 "[RETRACT_INTO_BP:BY_CATEGORY:BODY_UPPER:roll into a ball:rolls into a "
 "ball:unroll:unrolls]"
 msgstr ""
+"[RETRACT_INTO_BP:BY_CATEGORY:BODY_UPPER:vous roulez en boule:se roule en "
+"boule:déroulez:déroule]"
 
 #: creature_tropical_new.txt:1631
 msgctxt "CREATURE:PANGOLIN"
