@@ -109,7 +109,7 @@ msgid " gives you "
 msgstr " vous donne "
 
 msgid " has discovered "
-msgstr "a découvert "
+msgstr " a découvert "
 
 msgid "profaned our homes"
 msgstr "profané nos maisons"
@@ -1402,7 +1402,7 @@ msgid "Hot"
 msgstr "Chaud"
 
 msgid "Warm"
-msgstr "Chaleureuse"
+msgstr "Très Chaud"
 
 msgid "Cool"
 msgstr "Frais"
@@ -1545,7 +1545,7 @@ msgid "An army is invading!"
 msgstr "Une armée est en train d'envahir!"
 
 msgid "the Dissolution"
-msgstr "la dissolution"
+msgstr "la Dissolution"
 
 msgid "I was yelled at by an unhappy citizen."
 msgstr "Je me suis fait crier dessus par un citoyen mécontent."
@@ -9416,7 +9416,7 @@ msgid "Average Seconds Between Tracks/Interludes: "
 msgstr "Durée moyenne en secondes entre les Morceaux/Interludes : "
 
 msgid "Windowed"
-msgstr "Vitre"
+msgstr "Fenêtré"
 
 msgid "Fullscreen"
 msgstr "Plein écran"
@@ -9485,7 +9485,7 @@ msgid "Difficulty"
 msgstr "Difficulté"
 
 msgid "Scale interface to fit grid height/width"
-msgstr "Interface d'échelle pour s'adapter à la hauteur/largeur de la grille"
+msgstr "Adapter l'interface à la hauteur/largeur de la grille"
 
 msgid "No"
 msgstr "Non"
@@ -9494,17 +9494,13 @@ msgid "Yes"
 msgstr "Oui"
 
 msgid " Desired grid width for scaling (default = 170)"
-msgstr ""
-"Largeur de grille souhaitée pour la mise à l'échelle (par défaut = 170)"
+msgstr "Redimension selon quelle largeur (défaut = 170):"
 
 msgid " Desired grid height for scaling (default = 64)"
-msgstr ""
-"Hauteur de grille souhaitée pour la mise à l'échelle (par défaut = 64)"
+msgstr "Redimension selon quelle hauteur (défaut = 64):"
 
 msgid " Interface scaling percentage if not fitting width"
-msgstr ""
-"Pourcentage de mise à l'échelle de l'interface si la largeur ne correspond "
-"pas"
+msgstr "Si l'interface ne s'adapte pas, l'étendre de (en %):"
 
 msgid "Initial window width (if windowed)"
 msgstr "Largeur de fenêtre initiale (si fenêtré)"
@@ -9588,7 +9584,7 @@ msgid "Show tunnels on world map"
 msgstr "Afficher les tunnels sur la carte du monde"
 
 msgid "In site finder"
-msgstr "Dans l'outil de recherche de site"
+msgstr "Dans la recherche de site"
 
 msgid "Enable temperature"
 msgstr "Activer la température"
@@ -9597,10 +9593,10 @@ msgid "Enable weather"
 msgstr "Activer la météo"
 
 msgid "Enable caveins"
-msgstr "Activer les caveins"
+msgstr "Activer les effondrements"
 
 msgid "Enable artifact moods"
-msgstr "Activer les ambiances d'artefact"
+msgstr "Activer les humeurs d'artefact"
 
 msgid "Enable testing arena (on next title)"
 msgstr "Activer l'arène de test (sur le titre suivant)"
@@ -9636,19 +9632,19 @@ msgid "Default restricted traffic path cost"
 msgstr "Coût du chemin de trafic restreint par défaut"
 
 msgid "Storage path decrease (# of contained item cap)"
-msgstr "Diminution du chemin de stockage (nombre d'objets contenus)"
+msgstr "Aggressivité du stockage (nombre d'objets contenus)"
 
 msgid "Storage path decrease (seed bag combine)"
-msgstr "Diminution du chemin de stockage (sac de semences combiné)"
+msgstr "Aggressivité du stockage (sac de semences)"
 
 msgid "Storage path decrease (bucket combine)"
-msgstr "Diminution du chemin de stockage (combinaison de godet)"
+msgstr "Aggressivité du stockage (seau)"
 
 msgid "Storage path decrease (barrel combine)"
-msgstr "Diminution du chemin de stockage (combinaison de tonneau)"
+msgstr "Aggressivité du stockage (tonneau)"
 
 msgid "Storage path decrease (bin combine)"
-msgstr "Diminution du chemin de stockage (bin combine)"
+msgstr "Aggressivité du stockage (bac)"
 
 msgid "Population cap"
 msgstr "Plafond démographique"
@@ -9657,7 +9653,7 @@ msgid "Strict population cap (includes births)"
 msgstr "Limite de population stricte (y compris les naissances)"
 
 msgid "Baby+child cap"
-msgstr "Casquette bébé + enfant"
+msgstr "Nbre max bébé + enfant"
 
 msgid "Baby+child cap (percentage of total)"
 msgstr "Plafond bébé+enfant (pourcentage du total)"
@@ -9666,31 +9662,31 @@ msgid "Visitor cap"
 msgstr "Plafond visiteur"
 
 msgid "Cull dead units at"
-msgstr "abattre les unités mortes à"
+msgstr "Virer les unités mortes à"
 
 msgid "Seed cap (per species)"
-msgstr "Capuchon de semences (par espèce)"
+msgstr "Nbre max de semences (par espèce)"
 
 msgid "Total seed cap"
-msgstr "Capuchon total de graines"
+msgstr "Nbre max total de graines"
 
 msgid "Engravings start obscured"
-msgstr "Les gravures commencent à s'obscurcir"
+msgstr "Les gravures se désagrègent"
 
 msgid "Show improvement quality in item names"
-msgstr "Afficher la qualité de l'amélioration dans les noms des objets"
+msgstr "Afficher la qualité dans les noms des objets"
 
 msgid "Show numeric liquid levels"
-msgstr "Afficher les niveaux de liquide numériques"
+msgstr "Afficher les niveaux de liquide (nbre)"
 
 msgid "Show up/down arrows on ramps at current elevation"
-msgstr "Afficher les flèches haut/bas sur les rampes à l'altitude actuelle"
+msgstr "Afficher des flèches sur les rampes à l'altitude actuelle"
 
 msgid "Number of lower elevation layers to show"
 msgstr "Nombre de couches d'altitude inférieure à afficher"
 
 msgid "Show all historical events in engravings etc."
-msgstr "Afficher tous les événements historiques dans les gravures, etc."
+msgstr "Afficher tous les moments historiques dans les gravures, etc."
 
 msgid "Nickname position (fort mode)"
 msgstr "Position du surnom (mode fort)"
@@ -9726,7 +9722,7 @@ msgid "Number of key repeats before accelerating"
 msgstr "Nombre de répétitions de touches avant d'accélérer"
 
 msgid "Disabled"
-msgstr "Handicapé"
+msgstr "Désactivé"
 
 msgid "Maximum key repeat acceleration multiplier"
 msgstr "Multiplicateur d'accélération de répétition de clé maximum"
@@ -10271,7 +10267,7 @@ msgid "early "
 msgstr " début de/d' "
 
 msgid "mid"
-msgstr "milieu"
+msgstr "mi-"
 
 msgid "winter"
 msgstr "l'hiver"
@@ -10535,7 +10531,7 @@ msgid "was overcome by greed"
 msgstr "a été vaincu par la cupidité"
 
 msgid "was swayed by the emotional appeal"
-msgstr "a été influencé par l'appel émotionnel"
+msgstr "a été influencé par l'attrait émotionnel"
 
 msgid "desired vengeance and willingly complied"
 msgstr "désirait vengeance et s'exécuta volontairement"
@@ -10604,7 +10600,7 @@ msgid "feeling no avarice"
 msgstr "ne ressentant aucune avarice"
 
 msgid "being unswayed by the emotional appeal"
-msgstr "ne pas être influencé par l'appel émotionnel"
+msgstr "ne pas être influencé par l'attrait émotionnel"
 
 msgid "a lack of desire for vengeance"
 msgstr "un manque de désir de vengeance"
@@ -10654,7 +10650,7 @@ msgid "felt no avarice and refused"
 msgstr "n'a ressenti aucune avarice et a refusé"
 
 msgid "was unswayed by the emotional appeal and refused"
-msgstr "n'a pas été influencé par l'appel émotionnel et a refusé"
+msgstr "n'a pas été influencé par l'attrait émotionnel et a refusé"
 
 msgid "lacked a desire for vengeance and refused"
 msgstr "manquait de désir de vengeance et refusait"
@@ -10705,7 +10701,7 @@ msgid "feelings of greed"
 msgstr "sentiments de cupidité"
 
 msgid "being swayed by the emotional appeal"
-msgstr "être influencé par l'appel émotionnel"
+msgstr "être influencé par l'attrait émotionnel"
 
 msgid "a desire for vengeance"
 msgstr "un désir de vengeance"
@@ -11246,13 +11242,13 @@ msgid "Maps and the World"
 msgstr "Les cartes et le monde"
 
 msgid "the Caravan"
-msgstr "la caravane"
+msgstr "la Caravane"
 
 msgid "Squabbling"
 msgstr "Se chamailler"
 
 msgid "the Agreement"
-msgstr "l'accord"
+msgstr "l'Accord"
 
 msgid "Tragedy"
 msgstr "La tragédie"
@@ -16644,7 +16640,7 @@ msgid "with the new position appointed by you."
 msgstr "avec le nouveau poste nommé par vous."
 
 msgid "Do you approve this request?"
-msgstr "Approuvez-vous cette demande ?"
+msgstr "Approuvez-vous cette demande?"
 
 msgid "Approve"
 msgstr "Approuver"
@@ -18196,7 +18192,7 @@ msgid "[C:6:0:1].Bruised ligament"
 msgstr "[C:6:0:1].Ligament meurtri"
 
 msgid "[C:6:0:0].Overlapping fracture (in traction)"
-msgstr "[C:6:0:0]. Fracture avec recouvrement (en traction)"
+msgstr "[C:6:0:0]. Fracture avec chevauchement (en traction)"
 
 msgid "[C:4:0:1].Overlapping fracture"
 msgstr "[C:4:0:1].Fracture avec chevauchement"
@@ -19467,7 +19463,7 @@ msgid "I must obey the master!"
 msgstr "Je dois obéir au maître !"
 
 msgid "Gwargh!"
-msgstr "Gwargh !"
+msgstr "Gwargh!"
 
 msgid "Ahhh..."
 msgstr "Ahhh..."
@@ -19869,7 +19865,7 @@ msgid "  Their tribute is not enough."
 msgstr "Leur hommage ne suffit pas."
 
 msgid "  This war must end with our victory."
-msgstr "Cette guerre doit se terminer par notre victoire."
+msgstr "  Cette guerre doit se terminer par notre victoire."
 
 msgid "  The alliance has outlived its usefulness."
 msgstr "L'alliance a perdu son utilité."
@@ -19957,7 +19953,7 @@ msgid "a dispute over the ownership of "
 msgstr "un différend sur la propriété de"
 
 msgid "a previous war"
-msgstr "une guerre précédente"
+msgstr "une précédente guerre"
 
 msgid "a previous battle"
 msgstr "une bataille précédente"
@@ -21377,7 +21373,7 @@ msgid "my friend"
 msgstr "mon ami"
 
 msgid "Stop!  This isn't happening!"
-msgstr "Arrêt! Ce n'est pas le cas !"
+msgstr "Arrêtez! Cela n'arrivera pas!"
 
 msgid "We yield!  We yield!"
 msgstr "Nous cédons ! Nous cédons !"
@@ -21395,7 +21391,7 @@ msgid "Never!"
 msgstr "Jamais!"
 
 msgid "You first, coward!"
-msgstr "Toi d'abord, lâche !"
+msgstr "Toi d'abord, lâche!"
 
 msgid "Okay!  I'll do it."
 msgstr "D'accord! Je vais le faire."
@@ -21839,7 +21835,7 @@ msgid " engaged me to frame "
 msgstr "m'a engagé à encadrer"
 
 msgid " engaged to induce a war of "
-msgstr "engagés pour provoquer une guerre de"
+msgstr "engagés pour provoquer une guerre de "
 
 msgid "I do not scheme."
 msgstr "Je ne planifie pas."
@@ -21857,19 +21853,19 @@ msgid "You are unperturbed."
 msgstr "Vous êtes imperturbable."
 
 msgid " appears unperturbed."
-msgstr "apparaît imperturbable."
+msgstr " semble imperturbable."
 
 msgid "That was compelling!"
 msgstr "C'était convaincant !"
 
 msgid " appears to acquiesce."
-msgstr "semble acquiescer."
+msgstr " semble acquiescer."
 
 msgid "It is not convincing."
 msgstr "Ce n'est pas convaincant."
 
 msgid " appears unconvinced."
-msgstr "semble peu convaincu."
+msgstr " semble peu convaincu."
 
 msgid "Flattery"
 msgstr "Flatterie"
@@ -22223,7 +22219,7 @@ msgid " partner"
 msgstr "partenaire"
 
 msgid "war"
-msgstr "guerrier"
+msgstr "de combat"
 
 msgid " for a single pair"
 msgstr "pour une seule paire"
@@ -22938,7 +22934,7 @@ msgid " sculpture has melted!"
 msgstr "la sculpture a fondu !"
 
 msgid "Digging designation cancelled: warm stone located."
-msgstr "Désignation de creusement annulée : pierre chaude localisée."
+msgstr "Désignation de minage annulée : pierre chaude localisée."
 
 msgid "Digging designation cancelled: damp stone located."
 msgstr "Désignation de creusement annulée : pierre humide localisée."
@@ -24150,10 +24146,10 @@ msgid " bounces"
 msgstr "rebondit"
 
 msgid "You tangle together and tumble forward!"
-msgstr "Vous vous emmêlez et dégringolez en avant !"
+msgstr "Vous vous emmêlez et dégringolez en avant!"
 
 msgid "They tangle together and tumble forward!"
-msgstr "Ils s'emmêlent et dégringolent en avant !"
+msgstr "Ils s'emmêlent et dégringolent en avant!"
 
 msgid "You tangle together and fall over!"
 msgstr "Vous vous emmêlez et tombez !"
@@ -24603,7 +24599,7 @@ msgid "traitor"
 msgstr "traitre"
 
 msgid "  Beware!  It it said that only "
-msgstr "Il faut se méfier! Il a dit que seulement"
+msgstr " Attention! Il a dit que seulement "
 
 msgid "  It is said that "
 msgstr "Il est dit que"
@@ -25164,7 +25160,7 @@ msgid "a loyal soldier"
 msgstr "un soldat loyal"
 
 msgid ".  What happened to bring us to this?"
-msgstr ". Que s'est-il passé pour nous amener là ?"
+msgstr ". Que s'est-il passé pour en arrivé là ?"
 
 msgid " my neighbor."
 msgstr "mon voisin."
@@ -25724,7 +25720,7 @@ msgid ""
 "It's good to keep pushing forward, but sometimes you just have to know when "
 "it's time to stop."
 msgstr ""
-"Il est bon de presser en avant, mais parfois vous devez simplement savoir "
+"Il est bon d'aller de l'avant, mais parfois vous devez simplement savoir "
 "quand il est temps d'arrêter."
 
 msgid "It's best to slow down and just relax."
@@ -26584,7 +26580,7 @@ msgid "I have been so wronged!"
 msgstr "J'ai été tellement lésé !"
 
 msgid "Why does it keep happening to me?  Why me?!"
-msgstr "Pourquoi ça continue à m'arriver ? Pourquoi moi?!"
+msgstr "Pourquoi ça continue à m'arriver? Pourquoi moi?!"
 
 msgid "I live to serve...  my dear master..."
 msgstr "Je vis pour servir... mon cher maître..."
@@ -26608,7 +26604,7 @@ msgid "I feel so uneasy!"
 msgstr "Je me sens si mal à l'aise !"
 
 msgid "Such unhappiness!"
-msgstr "Quel malheur !"
+msgstr "Quel malheur!"
 
 msgid "The wonder!"
 msgstr "L'émerveillement!"
@@ -30259,7 +30255,7 @@ msgid "  I hear "
 msgstr "j'entends"
 
 msgid " has a real mean streak."
-msgstr "a une vraie tendance moyenne."
+msgstr " a une vraie tendance à la violence."
 
 msgid "  Best keep your head down."
 msgstr "Mieux vaut garder la tête baissée."
@@ -30659,7 +30655,7 @@ msgid "forgetful guard"
 msgstr "garde oublieux"
 
 msgid "I am a prisoner of "
-msgstr "je suis prisonnier de"
+msgstr "je suis prisonnier de "
 
 msgid "I am a slave of "
 msgstr "je suis esclave de"
@@ -30771,13 +30767,13 @@ msgid "him"
 msgstr "lui"
 
 msgid "I've defeated many fearsome opponents!"
-msgstr "J'ai vaincu de nombreux adversaires redoutables !"
+msgstr "J'ai vaincu de nombreux adversaires redoutables!"
 
 msgid "We are in "
 msgstr "Nous sommes dans"
 
 msgid "  [You receive a detailed description.]"
-msgstr "[Vous recevez une description détaillée.]"
+msgstr "  [Vous recevez une description détaillée.]"
 
 msgid "I've heard of a place called "
 msgstr "J'ai entendu parler d'un endroit appelé"
@@ -33243,7 +33239,7 @@ msgid " the marks of old wounds, including"
 msgstr "les marques d'anciennes blessures, y compris"
 
 msgid " a "
-msgstr " un "
+msgstr " un/une "
 
 msgid "very long "
 msgstr "très long"
@@ -33528,7 +33524,7 @@ msgid "(Combat) Nauseated"
 msgstr "(Combat) Nausée"
 
 msgid "Dig canceled (warm)"
-msgstr "Creusage annulé (chaleur)"
+msgstr "Minage annulé (chaleur)"
 
 msgid "Dig canceled (wet)"
 msgstr "Creusage annulé (humide)"
@@ -37707,7 +37703,7 @@ msgid "rough"
 msgstr "rugueux"
 
 msgid "warm"
-msgstr "chaleureuse"
+msgstr "très chaud"
 
 msgid "rugged"
 msgstr "robuste"
@@ -38714,7 +38710,7 @@ msgid "kick"
 msgstr "donne un coup"
 
 msgid "grappling"
-msgstr "Lutter Avec"
+msgstr "lutter avec"
 
 msgid "Bearer"
 msgstr "Porteur"
@@ -41224,7 +41220,7 @@ msgid "established as land holder"
 msgstr "établi en tant que propriétaire foncier"
 
 msgid "knocked out by cavein"
-msgstr "assommé par cavein"
+msgstr "assommé par un effondrement"
 
 msgid "mandate was obeyed"
 msgstr "le mandat a été respecté"
@@ -42015,7 +42011,7 @@ msgid "due to envy of those that live on"
 msgstr "en raison de l'envie de ceux qui vivent sur"
 
 msgid "due to panic about what happens after death"
-msgstr "en raison de la panique à propos de ce qui se passe après la mort"
+msgstr "en raison de sa panique à propos de ce qui se passe après la mort"
 
 msgid "due to fear of death"
 msgstr "par peur de la mort"
@@ -44113,7 +44109,7 @@ msgid "became the master of"
 msgstr "est devenu le maître de"
 
 msgid "began an apprenticeship under"
-msgstr "commencé un apprentissage auprès de"
+msgstr "a commencé un apprentissage auprès de"
 
 msgid "began traveling with"
 msgstr "a commencé à voyager avec"
@@ -44833,7 +44829,7 @@ msgid "was brought to the justice of"
 msgstr "a été traduit devant la justice de"
 
 msgid "left"
-msgstr "la gauche"
+msgstr "gauche"
 
 msgid "escaped from the slavery of"
 msgstr "échappé à l'esclavage de"
@@ -44899,7 +44895,7 @@ msgid "under"
 msgstr "en dessous de"
 
 msgid "over"
-msgstr "plus de"
+msgstr "au dessus de"
 
 msgid "the termination of"
 msgstr "la résiliation de"
@@ -47735,7 +47731,7 @@ msgid "You've lost possession of the "
 msgstr "Vous avez perdu la possession du "
 
 msgid "Animal Survival"
-msgstr "Survie animale"
+msgstr "Survie Animale"
 
 msgid "Gears"
 msgstr "Engrenages"
@@ -49246,10 +49242,10 @@ msgid "Main menu"
 msgstr "Menu principal"
 
 msgid "Change tab or highlight selection"
-msgstr "Changer d'étiquette ou surligner la sélection"
+msgstr "Changer d'onglet ou surligner la sélection"
 
 msgid "Change tab or highlight selection, secondary"
-msgstr "Modifier l'onglet ou la sélection en surbrillance, secondaire"
+msgstr "Changer l'onglet/la sélection en surbrillance(second)"
 
 msgid "Move selector up"
 msgstr "Déplacer le sélecteur vers le haut"
@@ -49441,7 +49437,7 @@ msgid "Animals, Trainer"
 msgstr "Animaux, Dresseur"
 
 msgid "Animals, War Training"
-msgstr "Animaux, Entrainement de combat"
+msgstr "Animaux, Entrainement au Combat"
 
 msgid "Animals, Hunting Training"
 msgstr "Animaux, Entrainement de chasse"
@@ -53160,10 +53156,10 @@ msgid "Like others in "
 msgstr "Comme d'autres dans "
 
 msgid " culture, "
-msgstr "Culture,"
+msgstr "culture,"
 
 msgid "personally "
-msgstr "personnellement"
+msgstr "personnellement "
 
 msgid "is an absolute believer in the rule of law"
 msgstr "est un partisan absolu de l'état de droit"
@@ -53342,7 +53338,7 @@ msgid "finds eloquence and artful speech off-putting"
 msgstr "trouve l'éloquence et le discours astucieux rebutants"
 
 msgid "finds "
-msgstr "trouve"
+msgstr "trouve "
 
 msgid " somewhat disgusted with eloquent speakers"
 msgstr "un peu dégoûté des orateurs éloquents"
@@ -53789,8 +53785,8 @@ msgid ""
 "thinks that the pursuit of the skills of warfare and fighting is a low "
 "pursuit indeed"
 msgstr ""
-"pense que la poursuite des compétences de guerre et de combat est une faible"
-" poursuite en effet"
+"pense que la quête des compétences de guerre et de combat est en effet "
+"médiocre"
 
 msgid ""
 "abhors those that pursue the mastery of weapons and skill with fighting"
@@ -54040,7 +54036,7 @@ msgid "values peace over war"
 msgstr "valorise la paix plutôt que la guerre"
 
 msgid "doesn't particularly care between war and peace"
-msgstr "ne se soucie pas particulièrement entre la guerre et la paix"
+msgstr "ne se soucie pas particulièrement d'être en guerre ou en paix"
 
 msgid "sees war as a useful means to an end"
 msgstr "voit la guerre comme un moyen utile pour arriver à ses fins"
@@ -54143,7 +54139,7 @@ msgid "very rarely develops negative feelings toward things"
 msgstr "développe très rarement des sentiments négatifs envers les choses"
 
 msgid "never feels hatred toward anyone or anything"
-msgstr "ne ressent jamais de haine envers qui que ce soit ou quoi que ce soit"
+msgstr "ne ressent jamais de haine envers qui ou quoi que ce soit"
 
 msgid "is consumed by overpowering feelings of jealousy"
 msgstr "est rongé par des sentiments accablants de jalousie"
@@ -54886,7 +54882,7 @@ msgid "is generally unhindered by the thoughts of others concerning "
 msgstr "n'est généralement pas gêné par les pensées des autres concernant"
 
 msgid " actions"
-msgstr "Actions"
+msgstr " actions"
 
 msgid "is shameless, absolutely unfazed by the thoughts of others"
 msgstr "est éhonté, absolument indifférent aux pensées des autres"
@@ -55051,16 +55047,16 @@ msgstr ""
 "est bousculé par les émotions des autres et ne peut s'empêcher d'y répondre"
 
 msgid "is swayed by emotional appeals"
-msgstr "est influencé par des appels émotionnels"
+msgstr "est influencé par les attraits émotionnels"
 
 msgid "tends to be swayed by the emotions of others"
 msgstr "a tendance à être influencé par les émotions des autres"
 
 msgid "tends not to be swayed by emotional appeals"
-msgstr "a tendance à ne pas être influencé par les appels émotionnels"
+msgstr "a tendance à ne pas être influencé par les attraits émotionnels"
 
 msgid "does not generally respond to emotional appeals"
-msgstr "ne répond généralement pas aux appels émotionnels"
+msgstr "ne répond généralement pas aux attraits émotionnels"
 
 msgid "is never moved by the emotions of others"
 msgstr "n'est jamais ému(e) par les émotions des autres"
@@ -55069,7 +55065,7 @@ msgid "is truly fulfilled by assisting those in need"
 msgstr "est vraiment comblé en aidant ceux qui en ont besoin"
 
 msgid "finds helping others very emotionally rewarding"
-msgstr "trouve qu'aider les autres est très gratifiant sur le plan émotionnel"
+msgstr "trouve qu'aider les autres est émotionnellement très gratifiant"
 
 msgid "finds helping others emotionally rewarding"
 msgstr "trouve qu'aider les autres est émotionnellement gratifiant"
@@ -55726,7 +55722,7 @@ msgid "seeing "
 msgstr "de voir "
 
 msgid " die"
-msgstr "mourir"
+msgstr " mourir"
 
 msgid " dead body"
 msgstr "cadavre"
@@ -55735,7 +55731,7 @@ msgid "somebody's"
 msgstr "quelqu'un"
 
 msgid "at "
-msgstr "à"
+msgstr "à "
 
 msgid "the unexpected death of somebody"
 msgstr "la mort inattendue de quelqu'un"
@@ -55744,7 +55740,7 @@ msgid "somebody's death"
 msgstr "la mort de quelqu'un"
 
 msgid "while "
-msgstr "tandis que"
+msgstr "tandis que "
 
 msgid "killing somebody"
 msgstr "tuer quelqu'un"
@@ -57888,7 +57884,7 @@ msgid "long-long-long"
 msgstr "long-long-long"
 
 msgid " (quantitative "
-msgstr "(quantitatif"
+msgstr " (quantitatif "
 
 msgid "iambic"
 msgstr "iambique"
@@ -57921,7 +57917,7 @@ msgid "bacchic"
 msgstr "bachique"
 
 msgid "antibacchic"
-msgstr "antibactérien"
+msgstr "antibacchique"
 
 msgid "molossic"
 msgstr "molossique"
@@ -57972,7 +57968,7 @@ msgid "unstressed-unstressed-unstressed"
 msgstr "non stressé-non stressé-non stressé"
 
 msgid "unstressed-stressed-stressed"
-msgstr "stressé-stressé-stressé"
+msgstr "non stressé-stressé-stressé"
 
 msgid "stressed-stressed-unstressed"
 msgstr "stressé-stressé-non stressé"
@@ -58080,7 +58076,7 @@ msgid " the subject of the poem"
 msgstr "le sujet du poème"
 
 msgid "concerns "
-msgstr "préoccupations"
+msgstr "préoccupations "
 
 msgid " is written from the perspective of "
 msgstr "est écrit du point de vue de"
@@ -58104,7 +58100,7 @@ msgid " line of "
 msgstr "ligne de"
 
 msgid "each "
-msgstr "chaque"
+msgstr "chaque "
 
 msgid "stanza"
 msgstr "strophe"
@@ -58137,10 +58133,10 @@ msgid "must expand the idea of"
 msgstr "doit élargir l'idée de"
 
 msgid " line.  "
-msgstr "ligne."
+msgstr " ligne.  "
 
 msgid " includes "
-msgstr "comprend"
+msgstr " comprend "
 
 msgid "lines which emerge when reading along certain prescribed paths"
 msgstr ""
@@ -58241,7 +58237,7 @@ msgid "Mossy "
 msgstr "Moussu"
 
 msgid "Dead "
-msgstr "Morte"
+msgstr "Mort(e) "
 
 msgid "Dense "
 msgstr "Dense"
@@ -58367,7 +58363,7 @@ msgid "Driftwood"
 msgstr "Bois flotté"
 
 msgid " Pebbles"
-msgstr "Galets"
+msgstr " Galets"
 
 msgid " Cavern Floor"
 msgstr "Sol de la caverne"
@@ -58436,10 +58432,10 @@ msgid "Brook"
 msgstr "Ruisseau"
 
 msgid " Upward Stairway"
-msgstr "Escalier montant"
+msgstr "Escalier ascendant"
 
 msgid "Grassy Upward Stairway"
-msgstr "Escalier ascendant herbeux"
+msgstr "Escalier herbeux ascendant"
 
 msgid " Up/Down Stairway"
 msgstr "Escalier haut/bas"
@@ -58451,7 +58447,7 @@ msgid " Downward Stairway"
 msgstr "Escalier descendant"
 
 msgid "Grassy Downward Stairway"
-msgstr "Escalier herbeux vers le bas"
+msgstr "Escalier herbeux descendant"
 
 msgid "Underworld Gate"
 msgstr "Porte du monde souterrain"
@@ -58460,22 +58456,22 @@ msgid "Ice Up/Down Stairway"
 msgstr "Glace vers le haut/vers le bas de l'escalier"
 
 msgid "Ice Downward Stairway"
-msgstr "Escalier de glace vers le bas"
+msgstr "Escalier de glace descendant"
 
 msgid "Ice Upward Stairway"
-msgstr "Escalier de glace vers le haut"
+msgstr "Escalier de glace ascendant"
 
 msgid " Upward Slope"
 msgstr "Pente ascendante"
 
 msgid "Grassy Upward Slope"
-msgstr "Pente ascendante herbeuse"
+msgstr "Pente herbeuse ascendante"
 
 msgid "Dry Grass Upward Slope"
-msgstr "Pente ascendante d'herbe sèche"
+msgstr "Pente d'herbe sèche ascendante"
 
 msgid "Dead Grass Upward Slope"
-msgstr "Pente ascendante d'herbe morte"
+msgstr "Pente d'herbe morte ascendante"
 
 msgid " Upward Track (N)"
 msgstr "Voie ascendante (N)"
@@ -58511,19 +58507,19 @@ msgid " Upward Track (NE)"
 msgstr "Voie ascendante (NE)"
 
 msgid "Ice Upward Track (NE)"
-msgstr "Voie de glace vers le haut (NE)"
+msgstr "Voie de glace ascendante (NE)"
 
 msgid " Upward Track (NW)"
 msgstr "Voie ascendante (NO)"
 
 msgid "Ice Upward Track (NW)"
-msgstr "Voie ascendante de glace (NO)"
+msgstr "Voie de glace ascendante (NO)"
 
 msgid " Upward Track (SE)"
 msgstr "Voie ascendante (SE)"
 
 msgid "Ice Upward Track (SE)"
-msgstr "Voie ascendante de glace (SE)"
+msgstr "Voie de glace ascendante (SE)"
 
 msgid " Upward Track (SW)"
 msgstr "Voie ascendante (SO)"
@@ -58535,40 +58531,40 @@ msgid " Upward Track (EW)"
 msgstr "Voie ascendante (EO)"
 
 msgid "Ice Upward Track (EW)"
-msgstr "Voie ascendante de glace (EO)"
+msgstr "Voie de glace ascendante (EO)"
 
 msgid " Upward Track (NSE)"
 msgstr "Voie ascendante (NSE)"
 
 msgid "Ice Upward Track (NSE)"
-msgstr "Voie ascendante de glace (NSE)"
+msgstr "Voie de glace ascendante (NSE)"
 
 msgid " Upward Track (NSW)"
 msgstr "Voie ascendante (NSO)"
 
 msgid "Ice Upward Track (NSW)"
-msgstr "Voie ascendante de glace (NSO)"
+msgstr "Voie de glace ascendante (NSO)"
 
 msgid " Upward Track (NEW)"
 msgstr "Voie ascendante (NEO)"
 
 msgid "Ice Upward Track (NEW)"
-msgstr "Voie ascendante de glace (NEO)"
+msgstr "Voie de glace ascendante (NEO)"
 
 msgid " Upward Track (SEW)"
 msgstr "Voie ascendante (SEO)"
 
 msgid "Ice Upward Track (SEW)"
-msgstr "Voie ascendante de glace (SEO)"
+msgstr "Voie de glace ascendante (SEO)"
 
 msgid " Upward Track (NSEW)"
 msgstr "Voie ascendante (NSEO)"
 
 msgid "Ice Upward Track (NSEW)"
-msgstr "Voie ascendante de glace (NSEO)"
+msgstr "Voie de glace ascendante (NSEO)"
 
 msgid "Glacial Upward Slope"
-msgstr "Pente ascendante glaciaire"
+msgstr "Pente de glace ascendante"
 
 msgid " Downward Slope"
 msgstr "Pente descendante"
@@ -58577,13 +58573,13 @@ msgid "Grassy Downward Slope"
 msgstr "Pente herbeuse descendante"
 
 msgid "Dry Grass Downward Slope"
-msgstr "Pente descendante d'herbe sèche"
+msgstr "Pente d'herbe sèche descendante"
 
 msgid "Dead Grass Downward Slope"
-msgstr "Pente descendante d'herbe morte"
+msgstr "Pente d'herbe morte descendante"
 
 msgid "Glacial Downward Slope"
-msgstr "Pente glaciaire descendante"
+msgstr "Pente de glace descendante"
 
 msgid " Downward Track (N)"
 msgstr "Voie descendante (N)"
@@ -58595,7 +58591,7 @@ msgid " Downward Track (S)"
 msgstr "Voie descendante (S)"
 
 msgid "Ice Downward Track (S)"
-msgstr "Voie descendante de glace (S)"
+msgstr "Voie descendante de descendante (S)"
 
 msgid " Downward Track (E)"
 msgstr "Voie descendante (E)"
@@ -58625,49 +58621,49 @@ msgid " Downward Track (SE)"
 msgstr "Voie descendante (SE)"
 
 msgid "Ice Downward Track (SE)"
-msgstr "Voie descendante de glace (SE)"
+msgstr "Voie de glace descendante (SE)"
 
 msgid " Downward Track (SW)"
 msgstr "Voie descendante (SO)"
 
 msgid "Ice Downward Track (SW)"
-msgstr "Voie descendante de glace (SO)"
+msgstr "Voie de glace descendante (SO)"
 
 msgid " Downward Track (EW)"
 msgstr "Voie descendante (EO)"
 
 msgid "Ice Downward Track (EW)"
-msgstr "Voie descendante de glace (EO)"
+msgstr "Voie de glace descendante (EO)"
 
 msgid " Downward Track (NSE)"
 msgstr "Voie descendante (NSE)"
 
 msgid "Ice Downward Track (NSE)"
-msgstr "Voie descendante de glace (NSE)"
+msgstr "Voie de glace descendante (NSE)"
 
 msgid " Downward Track (NSW)"
 msgstr "Voie descendante (NSO)"
 
 msgid "Ice Downward Track (NSW)"
-msgstr "Voie descendante de glace (NSO)"
+msgstr "Voie de glace descendante (NSO)"
 
 msgid " Downward Track (NEW)"
 msgstr "Voie descendante (NEO)"
 
 msgid "Ice Downward Track (NEW)"
-msgstr "Voie descendante de glace (NEO)"
+msgstr "Voie de glace descendante (NEO)"
 
 msgid " Downward Track (SEW)"
 msgstr "Voie descendante (SEO)"
 
 msgid "Ice Downward Track (SEW)"
-msgstr "Voie descendante de glace (SEO)"
+msgstr "Voie de glace descendante (SEO)"
 
 msgid " Downward Track (NSEW)"
 msgstr "Voie descendante (NSEO)"
 
 msgid "Ice Downward Track (NSEW)"
-msgstr "Voie descendante de glace (NSEO)"
+msgstr "Voie de glace descendante (NSEO)"
 
 msgid "Downward Slope"
 msgstr "Pente descendante"
@@ -58679,10 +58675,10 @@ msgid "Unknown"
 msgstr "Inconnue"
 
 msgid "Warm "
-msgstr "Chaleureuse"
+msgstr "Très Chaud"
 
 msgid "Damp "
-msgstr "Humide"
+msgstr "Humide "
 
 msgid "Straight "
 msgstr "Droit"
@@ -58703,7 +58699,7 @@ msgid "Here we have "
 msgstr "Ici nous avons"
 
 msgid " lying"
-msgstr "mensonge"
+msgstr " couché"
 
 msgid " standing"
 msgstr "debout"
@@ -58727,7 +58723,7 @@ msgid " ghostly"
 msgstr "fantomatique"
 
 msgid " guts"
-msgstr "entrailles"
+msgstr " entrailles"
 
 msgid "many corpses"
 msgstr "beaucoup de cadavres"
@@ -58739,10 +58735,10 @@ msgid "a few corpses"
 msgstr "quelques cadavres"
 
 msgid "much gore"
-msgstr "beaucoup de gore"
+msgstr "beaucoup de sang"
 
 msgid "some gore"
-msgstr "du gore"
+msgstr "du sang"
 
 msgid "a few corpse chunks"
 msgstr "quelques morceaux de cadavre"
@@ -58838,7 +58834,7 @@ msgid " stuck to "
 msgstr "collé à"
 
 msgid "warm "
-msgstr "chaleureuse"
+msgstr "très chaud "
 
 msgid "damp "
 msgstr "humide"
@@ -58856,34 +58852,34 @@ msgid "ichor-drenched "
 msgstr "imbibé d'ichor"
 
 msgid "mossy "
-msgstr "moussu"
+msgstr "moussu "
 
 msgid "sweat-drenched "
-msgstr "trempé de sueur"
+msgstr "trempé de sueur "
 
 msgid "tear-stained "
 msgstr "taché de larmes"
 
 msgid "spit-covered "
-msgstr "couvert de crachats"
+msgstr "couvert de crachats "
 
 msgid "sculpted "
-msgstr "sculpté"
+msgstr "sculpté "
 
 msgid "detailed "
-msgstr "détaillé"
+msgstr "détaillé "
 
 msgid "smooth "
 msgstr "lisse"
 
 msgid "straight "
-msgstr "droit"
+msgstr "droit "
 
 msgid "exposed "
 msgstr "exposé"
 
 msgid "rough-hewn "
-msgstr "dégrossi"
+msgstr "dégrossi "
 
 msgid "cluster"
 msgstr "groupe"
@@ -59044,7 +59040,7 @@ msgid "mid-low"
 msgstr "mi-bas"
 
 msgid "mid-high"
-msgstr "Mi-hauteur"
+msgstr "mi-haut"
 
 msgid "very high"
 msgstr "très haut"
@@ -59600,7 +59596,7 @@ msgid " keyboard.  "
 msgstr "clavier."
 
 msgid " which houses "
-msgstr "qui abrite"
+msgstr " maisons de sorcières "
 
 msgid " strings.  "
 msgstr "cordes."
@@ -59732,10 +59728,10 @@ msgid " of the instrument.]"
 msgstr "de l'appareil.]"
 
 msgid " neck bowl"
-msgstr "cou bol"
+msgstr " col en U"
 
 msgid " neck bowls"
-msgstr "bols de cou"
+msgstr " cols en U"
 
 msgid " neck bowl vibrates with the rest of the instrument, producing sound.]"
 msgstr ""
@@ -59915,10 +59911,10 @@ msgstr ""
 "l'instrument.]"
 
 msgid " drone pipe"
-msgstr "tuyau de drone"
+msgstr " tuyau bourdonnant"
 
 msgid " drone pipes"
-msgstr "tuyaux de drone"
+msgstr " tuyaux bourdonnant"
 
 msgid " drone pipes produce"
 msgstr "les tuyaux de drone produisent"
@@ -60571,7 +60567,7 @@ msgid " huge"
 msgstr "énorme"
 
 msgid "n enormous"
-msgstr "n énorme"
+msgstr " énorme"
 
 msgid " towering"
 msgstr "imposant"
@@ -60634,7 +60630,7 @@ msgid " with external ribs"
 msgstr "avec nervures extérieures"
 
 msgid "  It has "
-msgstr "Il a"
+msgstr "  Il a "
 
 msgid "thin wings of stretched skin"
 msgstr "fines ailes de peau tendue"
@@ -61341,16 +61337,16 @@ msgid "[ODOR_STRING:brimstone]"
 msgstr "[ODOR_STRING:soufre]"
 
 msgid ".  Its "
-msgstr ". Son"
+msgstr ". Son/Sa "
 
 msgid "eyes glow"
 msgstr "les yeux brillent"
 
 msgid "eye glows"
-msgstr "l'œil brille"
+msgstr " œil brillant"
 
 msgid " hair is "
-msgstr "les cheveux sont"
+msgstr " cheveux sont"
 
 msgid "very curly"
 msgstr "très bouclé"
@@ -61386,7 +61382,7 @@ msgid "long and narrow"
 msgstr "long et étroit"
 
 msgid " scales are "
-msgstr "les échelles sont"
+msgstr " échelles sont"
 
 msgid "blocky"
 msgstr "en bloc"
@@ -61401,7 +61397,7 @@ msgid "overlapping"
 msgstr "chevauchement"
 
 msgid " exoskeleton is "
-msgstr "l'exosquelette est"
+msgstr " exosquelette est"
 
 msgid "leathery"
 msgstr "coriace"
@@ -61416,7 +61412,7 @@ msgid "rough and cracked"
 msgstr "rugueux et craquelé"
 
 msgid " skin is "
-msgstr "la peau est"
+msgstr " peau est "
 
 msgid "waxy"
 msgstr "cireux"
@@ -61461,37 +61457,37 @@ msgid "Now you will know why you fear the night."
 msgstr "Maintenant, vous saurez pourquoi vous craignez la nuit."
 
 msgid "  Beware its poisonous sting!"
-msgstr "Attention à sa piqûre venimeuse !"
+msgstr "Attention à sa piqûre venimeuse!"
 
 msgid "  Beware its poisonous bite!"
-msgstr "Attention à sa morsure venimeuse !"
+msgstr "Attention à sa morsure venimeuse!"
 
 msgid "  Beware its hunger for warm blood!"
-msgstr "Méfiez-vous de sa soif de sang chaud !"
+msgstr "Méfiez-vous de sa soif de sang chaud!"
 
 msgid "  Beware its fire!"
-msgstr "Attention à son feu !"
+msgstr "Attention à son feu!"
 
 msgid "  Beware its webs!"
-msgstr "Méfiez-vous de ses toiles !"
+msgstr "Méfiez-vous de ses toiles!"
 
 msgid "  Beware its poisonous vapors!"
-msgstr "Attention à ses vapeurs toxiques !"
+msgstr "Attention à ses vapeurs toxiques!"
 
 msgid "  Beware its poisonous gas!"
-msgstr "Attention à son gaz toxique !"
+msgstr "Attention à son gaz toxique!"
 
 msgid "  Beware its deadly dust!"
-msgstr "Attention à sa poussière mortelle !"
+msgstr "Attention à sa poussière mortelle!"
 
 msgid "  Beware its deadly spittle!"
-msgstr "Attention à son crachat mortel !"
+msgstr "Attention à son crachat mortel!"
 
 msgid "  Beware its noxious secretions!"
-msgstr "Attention à ses sécrétions nocives !"
+msgstr "Attention à ses sécrétions nocives!"
 
 msgid "  Beware its deadly blood!"
-msgstr "Méfiez-vous de son sang mortel !"
+msgstr "Méfiez-vous de son sang mortel!"
 
 msgid "horrifying features"
 msgstr "caractéristiques horribles"
@@ -61668,7 +61664,7 @@ msgid "fists"
 msgstr "poings"
 
 msgid "eye"
-msgstr "œil "
+msgstr "œil"
 
 msgid "eyes"
 msgstr "les yeux"
@@ -63707,7 +63703,7 @@ msgid "the construction and use of the spherical astrolabe"
 msgstr "la construction et l'utilisation de l'astrolabe sphérique"
 
 msgid "the construction and use of the water-powered trip hammer"
-msgstr "la construction et l'utilisation du marteau-piqueur à eau"
+msgstr "la construction et l'utilisation du martinet fonctionnant à l'eau"
 
 msgid "the construction and use of the orrery"
 msgstr "la construction et l'utilisation de l'orrery"
@@ -63751,7 +63747,7 @@ msgid "the construction and use of the water-powered piston bellows"
 msgstr "la construction et l'utilisation du soufflet de piston hydraulique"
 
 msgid "the construction and use of the trip hammer"
-msgstr "la construction et l'utilisation du marteau-piqueur"
+msgstr "la construction et l'utilisation du martinet"
 
 msgid "the construction and use of the water wheel"
 msgstr "la construction et l'utilisation de la roue hydraulique"
@@ -63760,7 +63756,7 @@ msgid "She"
 msgstr "Elle"
 
 msgid "the Age"
-msgstr "l'âge"
+msgstr "l'Âge"
 
 msgid "Slowly"
 msgstr "Tout doucement"
@@ -63781,37 +63777,37 @@ msgid "Time"
 msgstr "Temps"
 
 msgid "The Day"
-msgstr "Le jour"
+msgstr "Le Jour"
 
 msgid "The Night"
-msgstr "La nuit"
+msgstr "La Nuit"
 
 msgid "The Wind"
-msgstr "Le vent"
+msgstr "Le Vent"
 
 msgid "The Sea"
-msgstr "La mer"
+msgstr "La Mer"
 
 msgid "The Sands"
 msgstr "Les Sables"
 
 msgid "The Wise"
-msgstr "Le sage"
+msgstr "Le Sage"
 
 msgid "The Dirt"
-msgstr "La saleté"
+msgstr "La Saleté"
 
 msgid "The Fool"
-msgstr "L'idiot"
+msgstr "L'Idiot"
 
 msgid "Nobody"
 msgstr "Personne"
 
 msgid "The Future"
-msgstr "L'avenir"
+msgstr "L'Avenir"
 
 msgid "The Past"
-msgstr "Le passé"
+msgstr "Le Passé"
 
 msgid "Will Tell"
 msgstr "Dira"
@@ -63820,7 +63816,7 @@ msgid "Foretell"
 msgstr "Prédire"
 
 msgid "Can Say"
-msgstr "Peut dire"
+msgstr "Peut Dire"
 
 msgid "Know"
 msgstr "Connaître"
@@ -63847,34 +63843,34 @@ msgid "In The End"
 msgstr "À la fin"
 
 msgid "the Poetry"
-msgstr "la poesie"
+msgstr "la Poesie"
 
 msgid "the Verse"
-msgstr "le verset"
+msgstr "le Vers"
 
 msgid "the Words"
-msgstr "les mots"
+msgstr "les Mots"
 
 msgid "the Voice"
-msgstr "la voix"
+msgstr "la Voix"
 
 msgid "the Rhythm"
-msgstr "le rythme"
+msgstr "le Rythme"
 
 msgid "the Notes"
-msgstr "les notes"
+msgstr "les Notes"
 
 msgid "the Music"
-msgstr "la musique"
+msgstr "la Musique"
 
 msgid "the Moves"
-msgstr "les mouvements"
+msgstr "les Mouvements"
 
 msgid "the Steps"
-msgstr "les marches"
+msgstr "les Marches"
 
 msgid "the Dance"
-msgstr "la danse"
+msgstr "la Danse"
 
 msgid " Language"
 msgstr "Langue"
@@ -63910,7 +63906,7 @@ msgid "Might"
 msgstr "Force"
 
 msgid "the Lie"
-msgstr "le mensonge"
+msgstr "le Mensonge"
 
 msgid "Lies"
 msgstr "Mensonges"
@@ -63919,7 +63915,7 @@ msgid "Honesty"
 msgstr "Honnêteté"
 
 msgid "the Truth"
-msgstr "la vérité"
+msgstr "la Vérité"
 
 msgid "Schemes"
 msgstr "Régimes"
@@ -63931,7 +63927,7 @@ msgid "Strategems"
 msgstr "Stratégies"
 
 msgid "the Word"
-msgstr "le mot"
+msgstr "le Mot"
 
 msgid "Words"
 msgstr "Mots"
@@ -63955,7 +63951,7 @@ msgid "Union"
 msgstr "syndicat"
 
 msgid "the Individual"
-msgstr "l'individu"
+msgstr "l'Individu"
 
 msgid "Complaints"
 msgstr "Plaintes"
@@ -63973,7 +63969,7 @@ msgid "Quiet"
 msgstr "Calme"
 
 msgid "the Festival"
-msgstr "le festival"
+msgstr "le Festival"
 
 msgid "Joy"
 msgstr "Joie"
@@ -64003,7 +63999,7 @@ msgid "Leisure"
 msgstr "Loisirs"
 
 msgid "the Economy"
-msgstr "l'économie"
+msgstr "l'Économie"
 
 msgid "Caravans"
 msgstr "Caravanes"
@@ -64036,7 +64032,7 @@ msgid "Harm"
 msgstr "Préjudice"
 
 msgid "Medical Ethics"
-msgstr "Ethique médicale"
+msgstr "Ethique Médicale"
 
 msgid "Happiness"
 msgstr "Bonheur"
@@ -64045,7 +64041,7 @@ msgid "Perception"
 msgstr "Perception"
 
 msgid "the Facts"
-msgstr "les faits"
+msgstr "les Faits"
 
 msgid "Stability"
 msgstr "La stabilité"
@@ -64072,19 +64068,19 @@ msgid "Belief"
 msgstr "Croyance"
 
 msgid "the Believer"
-msgstr "Le croyant"
+msgstr "Le Croyant"
 
 msgid "Thought"
 msgstr "Pensée"
 
 msgid "the Soul"
-msgstr "l'âme"
+msgstr "l'Âme"
 
 msgid "the Body"
-msgstr "le corps"
+msgstr "le Corps"
 
 msgid "the Mind"
-msgstr "l'esprit"
+msgstr "l'Esprit"
 
 msgid "Occurrences"
 msgstr "Occurrences"
@@ -64096,25 +64092,25 @@ msgid "Events"
 msgstr "Événements"
 
 msgid "the Event"
-msgstr "l'événement"
+msgstr "l'Événement"
 
 msgid "Parts"
 msgstr "les pièces"
 
 msgid "the Whole"
-msgstr "la totalité"
+msgstr "le Tout"
 
 msgid "Properties"
 msgstr "Propriétés"
 
 msgid "the Object"
-msgstr "L'object"
+msgstr "L'Object"
 
 msgid "Processes"
 msgstr "Processus"
 
 msgid "the Process"
-msgstr "le processus"
+msgstr "le Processus"
 
 msgid "Dealings"
 msgstr "Relations"
@@ -64123,31 +64119,31 @@ msgid "Transactions"
 msgstr "Transactions"
 
 msgid "Interpersonal Conduct"
-msgstr "Conduite interpersonnelle"
+msgstr "Conduite Interpersonnelle"
 
 msgid "the Relationship"
-msgstr "la relation"
+msgstr "la Relation"
 
 msgid "Relationships"
 msgstr "Des relations"
 
 msgid "the War"
-msgstr "la guerre"
+msgstr "la Guerre"
 
 msgid "the Warrior"
-msgstr "le guerrier"
+msgstr "le Guerrier"
 
 msgid "the Soldier"
-msgstr "le soldat"
+msgstr "le Soldat"
 
 msgid "the Military"
-msgstr "les militaires"
+msgstr "les Militaires"
 
 msgid "the Cause"
-msgstr "la cause"
+msgstr "la Cause"
 
 msgid "the Effect"
-msgstr "l'effet"
+msgstr "l'Effet"
 
 msgid "Causes"
 msgstr "causes"
@@ -64165,16 +64161,16 @@ msgid "Laws"
 msgstr "Lois"
 
 msgid "the Rule"
-msgstr "la règle"
+msgstr "la Règle"
 
 msgid "the Law"
-msgstr "la loi"
+msgstr "la Loi"
 
 msgid "Etymology"
 msgstr "Étymologie"
 
 msgid "the Meaning"
-msgstr "le sens"
+msgstr "le Sens"
 
 msgid "Grammar"
 msgstr "Grammaire"
@@ -64183,10 +64179,10 @@ msgid "Education"
 msgstr "Éducation"
 
 msgid "the Student"
-msgstr "l'étudiant"
+msgstr "l'Étudiant"
 
 msgid "the Teacher"
-msgstr "l'enseignant"
+msgstr "l'Enseignant"
 
 msgid "Diplomacy"
 msgstr "Diplomatie"
@@ -64195,19 +64191,19 @@ msgid "Those in Need"
 msgstr "Ceux dans le besoin"
 
 msgid "the Poor"
-msgstr "les pauvres"
+msgstr "le Pauvre"
 
 msgid "Social Welfare"
-msgstr "Bien-être social"
+msgstr "Bien-être Social"
 
 msgid "Economic Policy"
-msgstr "Politique économique"
+msgstr "Politique Économique"
 
 msgid "Economics"
 msgstr "Économie"
 
 msgid "the State"
-msgstr "l'état"
+msgstr "l'État"
 
 msgid "Government"
 msgstr "Gouvernement"
@@ -64222,13 +64218,13 @@ msgid "the Assumption"
 msgstr "l'Assomption"
 
 msgid "the Negation"
-msgstr "la négation"
+msgstr "la Négation"
 
 msgid "the Proof"
-msgstr "la preuve"
+msgstr "la Preuve"
 
 msgid "the Contradiction"
-msgstr "la contradiction"
+msgstr "la Contradiction"
 
 msgid "Absence"
 msgstr "Absence"
@@ -64240,7 +64236,7 @@ msgid "Opposites"
 msgstr "Opposés"
 
 msgid "the Numbers"
-msgstr "les nombres"
+msgstr "les Nombres"
 
 msgid "Negativity"
 msgstr "Négativité"
@@ -64249,13 +64245,13 @@ msgid "Grains of Sand"
 msgstr "Grains de sable"
 
 msgid "Vast Amounts"
-msgstr "De grandes quantités"
+msgstr "Grandes Quantités"
 
 msgid "Large Numbers"
-msgstr "Grands nombres"
+msgstr "Grands Nombres"
 
 msgid "Place Holders"
-msgstr "Marque-places"
+msgstr "Marque-Places"
 
 msgid "Position"
 msgstr "Position"
@@ -64264,16 +64260,16 @@ msgid "Shapes"
 msgstr "Formes"
 
 msgid "the Point"
-msgstr "le point"
+msgstr "le Point"
 
 msgid "the Shape"
-msgstr "la forme"
+msgstr "la Forme"
 
 msgid "the Line"
-msgstr "la ligne"
+msgstr "la Ligne"
 
 msgid "the Method"
-msgstr "la méthode"
+msgstr "la Méthode"
 
 msgid "Approximation"
 msgstr "Approximation"
@@ -64282,13 +64278,13 @@ msgid "Exhaustion"
 msgstr "Épuisement"
 
 msgid "the Triangles"
-msgstr "les triangles"
+msgstr "les Triangles"
 
 msgid "Congruence"
 msgstr "Congruence"
 
 msgid "Similar Triangles"
-msgstr "Triangles similaires"
+msgstr "Triangles Similaires"
 
 msgid "Similarity"
 msgstr "Similarité"
@@ -64297,10 +64293,10 @@ msgid "Perpendicularity"
 msgstr "Perpendicularité"
 
 msgid "Right Triangles"
-msgstr "Triangles rectangles"
+msgstr "Triangles Rectangles"
 
 msgid "the Altitude"
-msgstr "l'altitude"
+msgstr "l'Altitude"
 
 msgid "the Sum of Squares"
 msgstr "la somme des carrés"
@@ -64318,7 +64314,7 @@ msgid "the Angles"
 msgstr "les Angles"
 
 msgid "Incommensurable Ratios"
-msgstr "Des ratios incommensurables"
+msgstr "Ratios Incommensurables"
 
 msgid "Sides and Hypotenuse"
 msgstr "Côtés et hypoténuse"
@@ -64327,28 +64323,28 @@ msgid "the Right Triangle"
 msgstr "le triangle rectangle"
 
 msgid "the Hypotenuse"
-msgstr "l'hypoténuse"
+msgstr "l'Hypoténuse"
 
 msgid "the Postulates"
-msgstr "les postulats"
+msgstr "les Postulats"
 
 msgid "Assumptions"
 msgstr "Hypothèses"
 
 msgid "the Axioms"
-msgstr "les axiomes"
+msgstr "les Axiomes"
 
 msgid "the Volume"
-msgstr "le volume"
+msgstr "le Volume"
 
 msgid "the Pyramid"
-msgstr "La pyramide"
+msgstr "La Pyramide"
 
 msgid "the Greatest Common Divisor"
 msgstr "le plus grand diviseur commun"
 
 msgid "the Algorithm"
-msgstr "l'algorithme"
+msgstr "l'Algorithme"
 
 msgid "Uniqueness"
 msgstr "Unicité"
@@ -64357,7 +64353,7 @@ msgid "the Prime Divisors"
 msgstr "les premiers diviseurs"
 
 msgid "the Cone"
-msgstr "le cône"
+msgstr "le Cône"
 
 msgid "Division"
 msgstr "Division"
@@ -64366,22 +64362,22 @@ msgid "Chords"
 msgstr "Accords"
 
 msgid "the Table"
-msgstr "la table"
+msgstr "la Table"
 
 msgid "Circles"
 msgstr "Cercles"
 
 msgid "the Ratio"
-msgstr "le rapport"
+msgstr "le Rapport"
 
 msgid "the Circumference"
-msgstr "la circonférence"
+msgstr "la Circonférence"
 
 msgid "Area and Circumference"
 msgstr "Aire et circonférence"
 
 msgid "the Circle"
-msgstr "le cercle"
+msgstr "le Cercle"
 
 msgid "the Area of Circles"
 msgstr "la zone des cercles"
@@ -64390,19 +64386,19 @@ msgid "Area and Sides"
 msgstr "Zone et Côtés"
 
 msgid "the Triangle"
-msgstr "le triangle"
+msgstr "le Triangle"
 
 msgid "Conic Sections"
-msgstr "Sections coniques"
+msgstr "Sections Coniques"
 
 msgid "the Primes"
-msgstr "les premiers"
+msgstr "les Premiers"
 
 msgid "the Area"
-msgstr "la zone"
+msgstr "la Zone"
 
 msgid "the Parabola"
-msgstr "la parabole"
+msgstr "la Parabole"
 
 msgid "Remainders"
 msgstr "restes"
@@ -64411,31 +64407,31 @@ msgid "the Diagonal"
 msgstr "la Diagonale"
 
 msgid "the Infinite"
-msgstr "l'infini"
+msgstr "l'Infini"
 
 msgid "the Incommensurable"
-msgstr "l'incommensurable"
+msgstr "l'Incommensurable"
 
 msgid "the Sphere"
-msgstr "la sphère"
+msgstr "la Sphère"
 
 msgid "Surface Area"
 msgstr "Superficie"
 
 msgid "the Sums"
-msgstr "les sommes"
+msgstr "les Sommes"
 
 msgid "the Formula"
-msgstr "la formule"
+msgstr "la Formule"
 
 msgid "Linear Equations"
-msgstr "Équations linéaires"
+msgstr "Équations Linéaires"
 
 msgid "Simultaneous Solutions"
-msgstr "Solutions simultanées"
+msgstr "Solutions Simultanées"
 
 msgid "the Solution"
-msgstr "la solution"
+msgstr "la Solution"
 
 msgid "Balancing and Completion"
 msgstr "Équilibrage et achèvement"
@@ -64465,13 +64461,13 @@ msgid "Powers of Sums"
 msgstr "Puissances des sommes"
 
 msgid "the Chords"
-msgstr "les accords"
+msgstr "les Accords"
 
 msgid "Sums and Differences"
 msgstr "Sommes et différences"
 
 msgid "Angle Sums"
-msgstr "Sommes angulaires"
+msgstr "Sommes Angulaires"
 
 msgid "Ratios"
 msgstr "Rapports"
@@ -64483,22 +64479,22 @@ msgid "Chords and Sides"
 msgstr "Accords et Côtés"
 
 msgid "the Equation"
-msgstr "l'équation"
+msgstr "l'Équation"
 
 msgid "Notation"
 msgstr "Notation"
 
 msgid "the Powers"
-msgstr "les puissances"
+msgstr "les Puissances"
 
 msgid "Circle and Angle"
 msgstr "Cercle et angle"
 
 msgid "the Chord"
-msgstr "l'accord"
+msgstr "l'Accord"
 
 msgid "the Sum"
-msgstr "la somme"
+msgstr "la Somme"
 
 msgid "Causation"
 msgstr "Causalité"
@@ -64516,7 +64512,7 @@ msgid "Bias"
 msgstr "Biais"
 
 msgid "Systemic Bias"
-msgstr "Biais systémique"
+msgstr "Biais Systémique"
 
 msgid "Reliability"
 msgstr "Fiabilité"
@@ -64525,7 +64521,7 @@ msgid "Sources"
 msgstr "Sources"
 
 msgid "Historical Cycles"
-msgstr "Cycles historiques"
+msgstr "Cycles Historiques"
 
 msgid "Repetition"
 msgstr "Répétition"
@@ -64540,7 +64536,7 @@ msgid "Biographies"
 msgstr "Biographies"
 
 msgid "Personal History"
-msgstr "Histoire personnelle"
+msgstr "Histoire Personnelle"
 
 msgid "Conflict"
 msgstr "Conflit"
@@ -64549,7 +64545,7 @@ msgid "Disputes"
 msgstr "Des disputes"
 
 msgid "the Bond"
-msgstr "le lien"
+msgstr "le Lien"
 
 msgid "Bonds"
 msgstr "Obligations"
@@ -64561,7 +64557,7 @@ msgid "Cultures"
 msgstr "Des cultures"
 
 msgid "the Collection"
-msgstr "la collection"
+msgstr "la Collection"
 
 msgid "Lineage"
 msgstr "Lignée"
@@ -64570,7 +64566,7 @@ msgid "Your Own Story"
 msgstr "Votre propre histoire"
 
 msgid "Cultural Differences"
-msgstr "Les différences culturelles"
+msgstr "Différences Culturelles"
 
 msgid "Technology"
 msgstr "Technologie"
@@ -64594,7 +64590,7 @@ msgid "Outcomes"
 msgstr "Résultats"
 
 msgid "Another History"
-msgstr "Une autre histoire"
+msgstr "Autre Histoire"
 
 msgid "Alternatives"
 msgstr "Alternatives"
@@ -64612,7 +64608,7 @@ msgid "the Moon and Tides"
 msgstr "la lune et les marées"
 
 msgid "the Tides"
-msgstr "Les marées"
+msgstr "Les Marées"
 
 msgid "the Path of the Moon"
 msgstr "le chemin de la lune"
@@ -64630,10 +64626,10 @@ msgid "Waxing and Waning"
 msgstr "Croissant et décroissant"
 
 msgid "Lunar Phases"
-msgstr "Phases lunaires"
+msgstr "Phases Lunaires"
 
 msgid "the Moon"
-msgstr "la lune"
+msgstr "la Lune"
 
 msgid "the Phases"
 msgstr "les Phases"
@@ -64651,7 +64647,7 @@ msgid "the Moving World"
 msgstr "le monde en mouvement"
 
 msgid "the Center"
-msgstr "le centre"
+msgstr "le Centre"
 
 msgid "the Moving Sun"
 msgstr "le soleil mouvant"
@@ -64663,7 +64659,7 @@ msgid "the Light of Day"
 msgstr "la lumière du jour"
 
 msgid "the Year"
-msgstr "l'année"
+msgstr "l'Année"
 
 msgid "the Sun and Moon"
 msgstr "le soleil et la lune"
@@ -64672,25 +64668,25 @@ msgid "Eclipses"
 msgstr "Eclipses"
 
 msgid "the Eclipse"
-msgstr "l'éclipse"
+msgstr "l'Éclipse"
 
 msgid "Star Color"
-msgstr "Couleur étoile"
+msgstr "Couleur d'Étoile"
 
 msgid "the Color of Stars"
 msgstr "la couleur des étoiles"
 
 msgid "the Stars"
-msgstr "les étoiles"
+msgstr "les Étoiles"
 
 msgid "Star Catalogues"
-msgstr "Catalogues d'étoiles"
+msgstr "Catalogues d'Étoiles"
 
 msgid "Star Charts"
-msgstr "Cartes du ciel"
+msgstr "Cartes des Étoiles"
 
 msgid "Star Brightness"
-msgstr "Luminosité des étoiles"
+msgstr "Luminosité des Étoiles"
 
 msgid "the Brightness of Stars"
 msgstr "la luminosité des étoiles"
@@ -64699,13 +64695,13 @@ msgid "Paths"
 msgstr "Chemins"
 
 msgid "the Path"
-msgstr "le chemin"
+msgstr "le Chemin"
 
 msgid "Precession"
 msgstr "Précession"
 
 msgid "the Equinoxes"
-msgstr "les équinoxes"
+msgstr "les Équinoxes"
 
 msgid "the Shape of the World"
 msgstr "la forme du monde"
@@ -64726,10 +64722,10 @@ msgid "Classification"
 msgstr "Classification"
 
 msgid "the Animals"
-msgstr "les animaux"
+msgstr "les Animaux"
 
 msgid "the Creatures"
-msgstr "les créatures"
+msgstr "les Créatures"
 
 msgid "the Movement of Animals"
 msgstr "le mouvement des animaux"
@@ -64738,7 +64734,7 @@ msgid "Migration"
 msgstr "Migration"
 
 msgid "Animal Courtship"
-msgstr "Cour des animaux"
+msgstr "Parade nuptiale des animaux"
 
 msgid "Reproduction"
 msgstr "la reproduction"
@@ -64747,22 +64743,22 @@ msgid "Mating"
 msgstr "Accouplement"
 
 msgid "Animal Diets"
-msgstr "Régimes pour animaux"
+msgstr "Régimes des Animaux"
 
 msgid "Foraging Behavior"
-msgstr "Comportement de recherche de nourriture"
+msgstr "Comportement Alimentaire"
 
 msgid "the Diseases of Animals"
 msgstr "les maladies des animaux"
 
 msgid "Animal Diseases"
-msgstr "Maladies animales"
+msgstr "Maladies Animales"
 
 msgid "Animal Societies"
-msgstr "Sociétés animales"
+msgstr "Sociétés Animales"
 
 msgid "Social Animals"
-msgstr "Animaux sociaux"
+msgstr "Animaux Sociaux"
 
 msgid "Predator and Prey"
 msgstr "Prédateur et proie"
@@ -64780,10 +64776,10 @@ msgid "the Struggle of Animals"
 msgstr "la lutte des animaux"
 
 msgid "Animal Development"
-msgstr "Développement animal"
+msgstr "Développement Animal"
 
 msgid "Animal Embryos"
-msgstr "Embryons d'animaux"
+msgstr "Embryons d'Animaux"
 
 msgid "Combustion"
 msgstr "La combustion"
@@ -64810,7 +64806,7 @@ msgid "Composition"
 msgstr "Composition"
 
 msgid "the Elements"
-msgstr "les éléments"
+msgstr "les Éléments"
 
 msgid "Glue"
 msgstr "Colle"
@@ -64843,10 +64839,10 @@ msgid "Alembics"
 msgstr "Alambics"
 
 msgid "the Alembic"
-msgstr "l'alambic"
+msgstr "l'Alambic"
 
 msgid "the Laboratory"
-msgstr "le laboratoire"
+msgstr "le Laboratoire"
 
 msgid "Experiments"
 msgstr "Expériences"
@@ -64861,19 +64857,19 @@ msgid "Funnels"
 msgstr "Entonnoirs"
 
 msgid "the Funnel"
-msgstr "l'entonnoir"
+msgstr "l'Entonnoir"
 
 msgid "Vials"
 msgstr "Flacons"
 
 msgid "the Vial"
-msgstr "le flacon"
+msgstr "le Flacon"
 
 msgid "Beakers"
 msgstr "Béchers"
 
 msgid "the Beaker"
-msgstr "le gobelet"
+msgstr "le Becher"
 
 msgid "Flasks"
 msgstr "Flacons"
@@ -64885,7 +64881,7 @@ msgid "Spirit of Niter"
 msgstr "Esprit de Nitre"
 
 msgid "Laboratory Ovens"
-msgstr "Fours de laboratoire"
+msgstr "Fours de Laboratoire"
 
 msgid "the Laboratory Oven"
 msgstr "le four de laboratoire"
@@ -64894,7 +64890,7 @@ msgid "Retorts"
 msgstr "répliques"
 
 msgid "the Retort"
-msgstr "la réplique"
+msgstr "la Réplique"
 
 msgid "Ampoules"
 msgstr "Ampoules"
@@ -64903,7 +64899,7 @@ msgid "the Ampoule"
 msgstr "l'Ampoule"
 
 msgid "Aqua Regia"
-msgstr "Eau régale"
+msgstr "Eau du Roi"
 
 msgid "Oil of Vitriol"
 msgstr "Huile de vitriol"
@@ -64912,10 +64908,10 @@ msgid "Mapmaking"
 msgstr "Création de carte"
 
 msgid "Making Maps"
-msgstr "Créer des cartes"
+msgstr "Cartographier"
 
 msgid "the Map"
-msgstr "la carte"
+msgstr "la Carte"
 
 msgid "Surveying"
 msgstr "Arpentage"
@@ -64924,7 +64920,7 @@ msgid "Triangulation"
 msgstr "Triangulation"
 
 msgid "the Staff"
-msgstr "le personnel"
+msgstr "le Personnel"
 
 msgid "the Surveying Staff"
 msgstr "le personnel d'arpentage"
@@ -64939,10 +64935,10 @@ msgid "the Distance Scale"
 msgstr "l'échelle des distances"
 
 msgid "Map Grids"
-msgstr "Grilles de carte"
+msgstr "Grilles Cartographique"
 
 msgid "the Grid"
-msgstr "la grille"
+msgstr "la Grille"
 
 msgid "Ores"
 msgstr "Minerais"
@@ -64960,19 +64956,19 @@ msgid "Mountains and Valleys"
 msgstr "Montagnes et vallées"
 
 msgid "Height Measurement"
-msgstr "Mesure de la hauteur"
+msgstr "Mesure de la Hauteur"
 
 msgid "Wind Direction"
-msgstr "Direction du vent"
+msgstr "Direction du Vent"
 
 msgid "Wind Patterns"
-msgstr "Modèles de vent"
+msgstr "Mouvement des vents"
 
 msgid "the Wind"
-msgstr "le vent"
+msgstr "le Vent"
 
 msgid "the Delta"
-msgstr "le delta"
+msgstr "le Delta"
 
 msgid "the River Mouth"
 msgstr "l'embouchure de la rivière"
@@ -64984,7 +64980,7 @@ msgid "the Atlas"
 msgstr "l'Atlas"
 
 msgid "Trade Maps"
-msgstr "Cartes commerciales"
+msgstr "Cartes Commerciales"
 
 msgid "Maps and the Economy"
 msgstr "Les cartes et l'économie"
@@ -64996,10 +64992,10 @@ msgid "the Origin of Rainfall"
 msgstr "l'origine des précipitations"
 
 msgid "Adjusting Maps"
-msgstr "Ajustement des cartes"
+msgstr "Ajustement des Cartes"
 
 msgid "Climate Zones"
-msgstr "Zones climatiques"
+msgstr "Zones Climatiques"
 
 msgid "Climate"
 msgstr "Climat"
@@ -65014,10 +65010,10 @@ msgid "Disease and Water"
 msgstr "La maladie et l'eau"
 
 msgid "Fouled Water"
-msgstr "Eau polluée"
+msgstr "Eau Polluée"
 
 msgid "the Examination"
-msgstr "l'examen"
+msgstr "l'Examen"
 
 msgid "Examination of the Patient"
 msgstr "Examen du patient"
@@ -65038,22 +65034,22 @@ msgid "the Healing Plants"
 msgstr "les plantes médicinales"
 
 msgid "Herbal Remedies"
-msgstr "Remèdes à base de plantes"
+msgstr "phytothérapie"
 
 msgid "Animal Remedies"
-msgstr "Remèdes pour animaux"
+msgstr "Remèdes pour Animaux"
 
 msgid "Mineral Remedies"
-msgstr "Remèdes minéraux"
+msgstr "Lithothérapie"
 
 msgid "Wound Wrapping"
-msgstr "Enveloppement des plaies"
+msgstr "Bandage des Plaies"
 
 msgid "Bandages"
 msgstr "Des pansements"
 
 msgid "Disease Classification"
-msgstr "Classement des maladies"
+msgstr "Classification des maladies"
 
 msgid "Types of Diseases"
 msgstr "Types de maladies"
@@ -65062,7 +65058,7 @@ msgid "Diseases"
 msgstr "Maladies"
 
 msgid "Endemic Diseases"
-msgstr "Maladies endémiques"
+msgstr "Maladies Endémiques"
 
 msgid "Acute and Chronic Diseases"
 msgstr "Maladies aiguës et chroniques"
@@ -65071,7 +65067,7 @@ msgid "Poisons"
 msgstr "Poisons"
 
 msgid "Toxic Substances"
-msgstr "Substances toxiques"
+msgstr "Substances Toxiques"
 
 msgid "Contagion"
 msgstr "Contagion"
@@ -65080,16 +65076,16 @@ msgid "Plagues"
 msgstr "Fléaux"
 
 msgid "the Plague"
-msgstr "la peste"
+msgstr "la Peste"
 
 msgid "Epidemic Diseases"
-msgstr "Maladies épidémiques"
+msgstr "Maladies Épidémiques"
 
 msgid "Relapse"
 msgstr "Rechute"
 
 msgid "Sudden Attacks"
-msgstr "Attaques soudaines"
+msgstr "Attaques Soudaines"
 
 msgid "Paroxysm"
 msgstr "Paroxysme"
@@ -65101,13 +65097,13 @@ msgid "Convalescence"
 msgstr "Convalescence"
 
 msgid "Different Fractures"
-msgstr "Différentes fractures"
+msgstr "Différentes Fractures"
 
 msgid "the Fractures"
-msgstr "les fractures"
+msgstr "les Fractures"
 
 msgid "Fracture Treatment"
-msgstr "Traitement des fractures"
+msgstr "Traitement des Fractures"
 
 msgid "Breaks"
 msgstr "Pauses"
@@ -65116,10 +65112,10 @@ msgid "Fractures"
 msgstr "fractures"
 
 msgid "Treating Injuries"
-msgstr "Traiter les blessures"
+msgstr "Traiter les Blessures"
 
 msgid "the Injury"
-msgstr "la blessure"
+msgstr "la Blessure"
 
 msgid "Injuries"
 msgstr "Blessures"
@@ -65137,7 +65133,7 @@ msgid "Excision"
 msgstr "Excision"
 
 msgid "the Cast"
-msgstr "le casting"
+msgstr "le Casting"
 
 msgid "Immobilization"
 msgstr "Immobilisation"
@@ -65146,7 +65142,7 @@ msgid "Incision"
 msgstr "Incision"
 
 msgid "Removing Stones"
-msgstr "Enlever des pierres"
+msgstr "Enlever des Pierres"
 
 msgid "Tracheotomy"
 msgstr "Trachéotomie"
@@ -65170,16 +65166,16 @@ msgid "Ligature"
 msgstr "Ligature"
 
 msgid "Surgery Models"
-msgstr "Modèles de chirurgie"
+msgstr "Modèles de Chirurgie"
 
 msgid "Practicing Surgery"
-msgstr "Pratiquer la chirurgie"
+msgstr "Pratiquer la Chirurgie"
 
 msgid "Surgical Instruments"
-msgstr "Instruments chirurgicaux"
+msgstr "Instruments Chirurgicaux"
 
 msgid "Surgical Tools"
-msgstr "Outils chirurgicaux"
+msgstr "Outils Chirurgicaux"
 
 msgid "Forceps"
 msgstr "Forceps"
@@ -65188,16 +65184,16 @@ msgid "Scalpels"
 msgstr "Scalpels"
 
 msgid "the Scalpel"
-msgstr "le bistouri"
+msgstr "le Scalpel"
 
 msgid "Surgical Scissors"
-msgstr "Ciseaux chirurgicaux"
+msgstr "Ciseaux Chirurgicaux"
 
 msgid "Cauterization"
 msgstr "Cautérisation"
 
 msgid "Cataract Surgery"
-msgstr "Opération de la cataracte"
+msgstr "Opération de la Cataracte"
 
 msgid "Cataracts"
 msgstr "Cataractes"
@@ -65224,22 +65220,22 @@ msgid "the Eye"
 msgstr "l'Œil"
 
 msgid "Reaction Time"
-msgstr "Temps de réaction"
+msgstr "Temps de Réaction"
 
 msgid "the Nerves"
-msgstr "les nerfs"
+msgstr "les Nerfs"
 
 msgid "Types of Nerves"
 msgstr "Types de nerfs"
 
 msgid "Blood Vessels"
-msgstr "Vaisseaux sanguins"
+msgstr "Vaisseaux Sanguins"
 
 msgid "Veins and Arteries"
 msgstr "Veines et artères"
 
 msgid "Comparative Anatomy"
-msgstr "Anatomie comparée"
+msgstr "Anatomie Comparée"
 
 msgid "Blood and Breath"
 msgstr "Sang et souffle"
@@ -65251,19 +65247,19 @@ msgid "Types of Muscles"
 msgstr "Types de muscles"
 
 msgid "the Muscles"
-msgstr "les muscles"
+msgstr "les Muscles"
 
 msgid "the Hospital"
-msgstr "l'hôpital"
+msgstr "l'Hôpital"
 
 msgid "Mental Illness"
-msgstr "Maladie mentale"
+msgstr "Maladie Mentale"
 
 msgid "the School of Medicine"
 msgstr "l'école de médecine"
 
 msgid "Medical School"
-msgstr "École de médecine"
+msgstr "École de Médecine"
 
 msgid "Hospitals"
 msgstr "Hôpitaux"
@@ -65272,7 +65268,7 @@ msgid "Asylum"
 msgstr "Asile"
 
 msgid "Shadow Clocks"
-msgstr "Horloges de l'ombre"
+msgstr "Gnomons"
 
 msgid "Sundials"
 msgstr "Cadrans solaires"
@@ -65281,10 +65277,10 @@ msgid "the Shadow Clock"
 msgstr "l'horloge de l'ombre"
 
 msgid "the Sundial"
-msgstr "le cadran solaire"
+msgstr "le Cadran Solaire"
 
 msgid "Water Clocks"
-msgstr "Horloges à eau"
+msgstr "Clepsydres"
 
 msgid "the Water Clock"
 msgstr "l'horloge à eau"
@@ -65299,10 +65295,10 @@ msgid "Hourglasses"
 msgstr "Sabliers"
 
 msgid "the Hourglass"
-msgstr "le sablier"
+msgstr "le Sablier"
 
 msgid "Mechanical Clocks"
-msgstr "Horloges mécaniques"
+msgstr "Horloges Mécaniques"
 
 msgid "the Mechanical Clock"
 msgstr "l'horloge mécanique"
@@ -65311,34 +65307,34 @@ msgid "Pulleys"
 msgstr "Poulies"
 
 msgid "the Pulley"
-msgstr "la poulie"
+msgstr "la Poulie"
 
 msgid "the Wheel-and-Axles"
-msgstr "les roues et essieux"
+msgstr "les Roues et Essieux"
 
 msgid "Screws"
 msgstr "Des vis"
 
 msgid "the Screw"
-msgstr "la vis"
+msgstr "la Vis"
 
 msgid "the Windlass"
-msgstr "le guindeau"
+msgstr "le Guindeau"
 
 msgid "Levers"
 msgstr "Leviers"
 
 msgid "the Lever"
-msgstr "le levier"
+msgstr "le Levier"
 
 msgid "Wedges"
 msgstr "Coins"
 
 msgid "the Wedge"
-msgstr "le coin"
+msgstr "le Taquet"
 
 msgid "Straight-Beam Balances"
-msgstr "Balances à poutre droite"
+msgstr "Balances à Poutre Droite"
 
 msgid "the Straight-Beam Balance"
 msgstr "la balance à poutre droite"
@@ -65350,49 +65346,49 @@ msgid "Sawmills"
 msgstr "Scieries"
 
 msgid "the Sawmill"
-msgstr "la scierie"
+msgstr "la Scierie"
 
 msgid "Crankshafts"
 msgstr "Vilebrequins"
 
 msgid "the Crankshaft"
-msgstr "le vilebrequin"
+msgstr "le Vilebrequin"
 
 msgid "Camshafts"
 msgstr "Arbres à cames"
 
 msgid "the Camshaft"
-msgstr "l'arbre à cames"
+msgstr "l'Arbre à Cames"
 
 msgid "Odometers"
 msgstr "Odomètres"
 
 msgid "the Odometer"
-msgstr "l'odomètre"
+msgstr "l'Odomètre"
 
 msgid "the Gear"
-msgstr "l'équipement"
+msgstr "l'Engrenage"
 
 msgid "Mechanical Compasses"
-msgstr "Compas mécaniques"
+msgstr "Compas Mécaniques"
 
 msgid "the Mechanical Compass"
 msgstr "la boussole mécanique"
 
 msgid "Chain Drives"
-msgstr "Entraînements par chaîne"
+msgstr "Entraînements par Chaîne"
 
 msgid "the Chain Drive"
 msgstr "la transmission par chaîne"
 
 msgid "the Lock"
-msgstr "le verrou"
+msgstr "le Verrou"
 
 msgid "Siphons"
 msgstr "Siphons"
 
 msgid "the Siphon"
-msgstr "le siphon"
+msgstr "le Siphon"
 
 msgid "Balance Wheels"
 msgstr "Balanciers"
@@ -65401,7 +65397,7 @@ msgid "the Balance Wheel"
 msgstr "le balancier"
 
 msgid "Verge Escapements"
-msgstr "Echappements Verge"
+msgstr "Montres à gousset"
 
 msgid "the Verge Escapement"
 msgstr "l'échappement Verge"
@@ -65410,10 +65406,10 @@ msgid "Valves"
 msgstr "Vannes"
 
 msgid "the Valve"
-msgstr "la vanne"
+msgstr "la Vanne"
 
 msgid "Force Pumps"
-msgstr "Pompes de force"
+msgstr "Pompes de Force"
 
 msgid "the Force Pump"
 msgstr "la pompe à force"
@@ -65422,7 +65418,7 @@ msgid "Lenses"
 msgstr "Lentilles"
 
 msgid "the Lens"
-msgstr "la lentille"
+msgstr "la Lentille"
 
 msgid "the Camera Obscura"
 msgstr "la caméra obscure"
@@ -65434,16 +65430,16 @@ msgid "the Burning Glass"
 msgstr "le verre brûlant"
 
 msgid "Parabolic Mirror"
-msgstr "Miroir parabolique"
+msgstr "Miroir Parabolique"
 
 msgid "Light and Color"
 msgstr "Lumière et couleur"
 
 msgid "the Template"
-msgstr "le gabarit"
+msgstr "le Gabarit"
 
 msgid "the Model"
-msgstr "le modèle"
+msgstr "le Modèle"
 
 msgid "Models and Templates"
 msgstr "Modèles et modèles"
@@ -65467,7 +65463,7 @@ msgid "Lamination"
 msgstr "Laminage"
 
 msgid "Armillary Spheres"
-msgstr "Sphères armillaires"
+msgstr "Sphères Armillaires"
 
 msgid "the Armillary Sphere"
 msgstr "la sphère armillaire"
@@ -65482,10 +65478,10 @@ msgid "Dioptras"
 msgstr "Dioptries"
 
 msgid "the Dioptra"
-msgstr "la dioptre"
+msgstr "la Dioptre"
 
 msgid "Spherical Astrolabes"
-msgstr "Astrolabes sphériques"
+msgstr "Astrolabes Sphériques"
 
 msgid "the Spherical Astrolabe"
 msgstr "l'Astrolabe Sphérique"
@@ -65497,7 +65493,7 @@ msgid "the Orrery"
 msgstr "l'Orrery"
 
 msgid "Mural Instruments"
-msgstr "Instruments muraux"
+msgstr "Instruments Muraux"
 
 msgid "the Mural Instrument"
 msgstr "l'instrument mural"
@@ -65518,46 +65514,46 @@ msgid "Flotation"
 msgstr "Flottation"
 
 msgid "Water Displacement"
-msgstr "Déplacement d'eau"
+msgstr "Déplacement d'Eau"
 
 msgid "Buoyancy"
 msgstr "Flottabilité"
 
 msgid "Floating Bodies"
-msgstr "Corps flottants"
+msgstr "Corps Flottants"
 
 msgid "the Height of the Sky"
 msgstr "la hauteur du ciel"
 
 msgid "the Bellows"
-msgstr "le soufflet"
+msgstr "le Soufflet"
 
 msgid "Cranks"
 msgstr "Manivelles"
 
 msgid "the Crank"
-msgstr "la manivelle"
+msgstr "la Manivelle"
 
 msgid "Pistons"
 msgstr "Pistons"
 
 msgid "the Piston"
-msgstr "le piston"
+msgstr "le Piston"
 
 msgid "Trip Hammers"
-msgstr "Marteaux de voyage"
+msgstr "Martinet"
 
 msgid "the Trip Hammer"
-msgstr "le marteau de voyage"
+msgstr "le Martinet"
 
 msgid "Water Wheels"
-msgstr "Moulin à eau"
+msgstr "Moulin à Eau"
 
 msgid "the Water Wheel"
 msgstr "la roue à eau"
 
 msgid "the Artifact"
-msgstr "l'artefact"
+msgstr "l'Artefact"
 
 msgid "the Treasure"
 msgstr "le Trésor"
@@ -65569,73 +65565,73 @@ msgid "the Counting House"
 msgstr "la Maison des Comptes"
 
 msgid "the Guildhall"
-msgstr "la salle des guildes"
+msgstr "la Salle de Guilde"
 
 msgid "the Mead Hall"
 msgstr "la salle de l'hydromel"
 
 msgid "the Temple"
-msgstr "le temple"
+msgstr "le Temple"
 
 msgid "the Library"
-msgstr "la bibliothèque"
+msgstr "la Bibliothèque"
 
 msgid "the Tavern"
 msgstr "la Taverne"
 
 msgid "the Spire"
-msgstr "la flèche"
+msgstr "la Flèche"
 
 msgid "the Market"
-msgstr "le marché"
+msgstr "le Marché"
 
 msgid "the Catacombs"
 msgstr "les Catacombes"
 
 msgid "the Sewers"
-msgstr "les égouts"
+msgstr "les Égouts"
 
 msgid "the Dungeon"
-msgstr "le donjon"
+msgstr "le Donjon"
 
 msgid "the Tower"
-msgstr "la tour"
+msgstr "la Tour"
 
 msgid "the Rescue"
-msgstr "la rescousse"
+msgstr "la Rescousse"
 
 msgid "Freedom"
 msgstr "Liberté"
 
 msgid "the Flight"
-msgstr "le vol"
+msgstr "le Vol"
 
 msgid "the Seekers"
-msgstr "les chercheurs"
+msgstr "les Chercheurs"
 
 msgid "the Search"
-msgstr "la recherche"
+msgstr "la Recherche"
 
 msgid "the Infiltration"
-msgstr "l'infiltration"
+msgstr "l'Infiltration"
 
 msgid "the Raid"
-msgstr "la descente"
+msgstr "la Descente"
 
 msgid "the Invasion"
-msgstr "l'invasion"
+msgstr "l'Invasion"
 
 msgid "the Attack"
-msgstr "l'attaque"
+msgstr "l'Attaque"
 
 msgid "the Rampage"
-msgstr "le saccage"
+msgstr "le Saccage"
 
 msgid "the Razing"
-msgstr "le rasage"
+msgstr "le Rasage"
 
 msgid "the Founders"
-msgstr "les fondateurs"
+msgstr "les Fondateurs"
 
 msgid "Loss"
 msgstr "Perte"
@@ -65653,49 +65649,49 @@ msgid "Expulsion"
 msgstr "Expulsion"
 
 msgid "the Betrayal"
-msgstr "la trahison"
+msgstr "la Trahison"
 
 msgid "the Coup"
-msgstr "le coup d'Etat"
+msgstr "le Coup d'État"
 
 msgid "First Contact"
-msgstr "Premier contact"
+msgstr "Premier Contact"
 
 msgid "Neighbors"
 msgstr "Voisins"
 
 msgid "the Dispute"
-msgstr "le conflit"
+msgstr "le Conflit"
 
 msgid "the Diplomat"
-msgstr "le diplomate"
+msgstr "le Diplomate"
 
 msgid "Chance"
 msgstr "Chance"
 
 msgid "the Gamble"
-msgstr "le pari"
+msgstr "le Pari"
 
 msgid "Gambling"
 msgstr "Jeux d'argent"
 
 msgid "the Merchants"
-msgstr "les marchands"
+msgstr "les Marchands"
 
 msgid "the Secret"
-msgstr "le secret"
+msgstr "le Secret"
 
 msgid "Concealment"
 msgstr "Dissimulation"
 
 msgid "the Gift"
-msgstr "le cadeau"
+msgstr "le Cadeau"
 
 msgid "the Offering"
-msgstr "l'offrande"
+msgstr "l'Offrande"
 
 msgid "the Claim"
-msgstr "la demande"
+msgstr "la Demande"
 
 msgid "Treasure"
 msgstr "Trésor"
@@ -65710,52 +65706,52 @@ msgid "Duplicate"
 msgstr "Dupliquer"
 
 msgid "the Discovery"
-msgstr "la découverte"
+msgstr "la Découverte"
 
 msgid "the Performance"
-msgstr "la performance"
+msgstr "la Performance"
 
 msgid "the Competition"
-msgstr "la compétition"
+msgstr "la Compétition"
 
 msgid "the Procession"
-msgstr "la procession"
+msgstr "la Procession"
 
 msgid "the Ceremony"
-msgstr "la cérémonie"
+msgstr "la Cérémonie"
 
 msgid "the Uprising"
-msgstr "le soulèvement"
+msgstr "le Soulèvement"
 
 msgid "the Rebellion"
-msgstr "La rébellion"
+msgstr "La Rébellion"
 
 msgid "the Revolt"
-msgstr "la révolte"
+msgstr "la Révolte"
 
 msgid "the Revolution"
-msgstr "la révolution"
+msgstr "la Révolution"
 
 msgid "the Insurrection"
-msgstr "l'insurrection"
+msgstr "l'Insurrection"
 
 msgid "the Punishment"
-msgstr "la punition"
+msgstr "la Punition"
 
 msgid "the Overthrow"
-msgstr "le renversement"
+msgstr "le Renversement"
 
 msgid "the Resettlement"
-msgstr "la réinstallation"
+msgstr "la Réinstallation"
 
 msgid "the Reclamation"
 msgstr "la Réclamation"
 
 msgid "the Enlightenment"
-msgstr "l'illumination"
+msgstr "l'Illumination"
 
 msgid "the Joining"
-msgstr "l'adhésion"
+msgstr "l'Adhésion"
 
 msgid "Masterpiece"
 msgstr "Chef-d'oeuvre"
@@ -65782,10 +65778,10 @@ msgid "Rage"
 msgstr "Rage"
 
 msgid "the Clash"
-msgstr "le choc"
+msgstr "le Choc"
 
 msgid "the Battle"
-msgstr "la bataille"
+msgstr "la Bataille"
 
 msgid "Plunder"
 msgstr "Pillage"
@@ -65794,61 +65790,61 @@ msgid "Pillage"
 msgstr "Pillage"
 
 msgid "the Tribute"
-msgstr "l'hommage"
+msgstr "l'Hommage"
 
 msgid "the Holy City"
 msgstr "la ville sainte"
 
 msgid "the Surrender"
-msgstr "la capitulation"
+msgstr "la Capitulation"
 
 msgid "the Desecration"
-msgstr "la profanation"
+msgstr "la Profanation"
 
 msgid "the Kidnapping"
-msgstr "l'enlèvement"
-
-msgid "the Abduction"
 msgstr "l'Enlèvement"
 
+msgid "the Abduction"
+msgstr "le Rapt"
+
 msgid "the Thief"
-msgstr "le voleur"
+msgstr "le Voleur"
 
 msgid "the Theft"
-msgstr "le vol"
+msgstr "le Vol"
 
 msgid "Hunger"
 msgstr "Faim"
 
 msgid "the Devouring"
-msgstr "le dévorant"
+msgstr "le Dévoreur"
 
 msgid "the Maiming"
-msgstr "la mutilation"
+msgstr "la Mutilation"
 
 msgid "the Wounding"
-msgstr "la blessure"
+msgstr "les Blessés"
 
 msgid "the Wound"
-msgstr "la blessure"
+msgstr "la Blessure"
 
 msgid "the Struggle"
-msgstr "la lutte"
+msgstr "la Lutte"
 
 msgid "the Duel"
-msgstr "le duel"
+msgstr "le Duel"
 
 msgid "the Construction"
-msgstr "la construction"
+msgstr "la Construction"
 
 msgid "the Reunion"
-msgstr "la réunion"
+msgstr "la Réunion"
 
 msgid "the Explorer"
-msgstr "l'explorateur"
+msgstr "l'Explorateur"
 
 msgid "the Summit"
-msgstr "le sommet"
+msgstr "le Sommet"
 
 msgid "Tactics"
 msgstr "Tactique"
@@ -65857,22 +65853,22 @@ msgid "Debauchery"
 msgstr "Débauche"
 
 msgid "the Party"
-msgstr "la fête"
+msgstr "la Fête"
 
 msgid "Horror"
 msgstr "Horreur"
 
 msgid "the Journey"
-msgstr "le voyage"
+msgstr "le Voyage"
 
 msgid "the Traveler"
-msgstr "le voyageur"
+msgstr "le Voyageur"
 
 msgid "the Companion"
 msgstr "le Compagnon"
 
 msgid "the Pet"
-msgstr "l'animal de compagnie"
+msgstr "l'Animal de Compagnie"
 
 msgid "Deceit"
 msgstr "Tromperie"
@@ -65881,25 +65877,25 @@ msgid "Trickery"
 msgstr "Tromperie"
 
 msgid "the Impersonation"
-msgstr "l'emprunt d'identité"
+msgstr "l'Emprunt d'Identité"
 
 msgid "Rebirth"
 msgstr "Renaissance"
 
 msgid "the Resurrection"
-msgstr "La résurrection"
+msgstr "La Résurrection"
 
 msgid "the Mystery"
-msgstr "le mystère"
+msgstr "le Mystère"
 
 msgid "the Denial"
-msgstr "le déni"
+msgstr "le Déni"
 
 msgid "the Confrontation"
-msgstr "l'affrontement"
+msgstr "l'Affrontement"
 
 msgid "the Knowledge"
-msgstr "la connaissance"
+msgstr "la Connaissance"
 
 msgid "the Obsession"
 msgstr "l'Obsession"
@@ -65908,67 +65904,67 @@ msgid "Storage"
 msgstr "Stockage"
 
 msgid "the Author"
-msgstr "l'auteur"
+msgstr "l'Auteur"
 
 msgid "the Composition"
-msgstr "la composition"
+msgstr "la Composition"
 
 msgid "the Rank"
-msgstr "le grade"
+msgstr "le Grade"
 
 msgid "the Prestige"
-msgstr "le prestige"
+msgstr "le Prestige"
 
 msgid "the Honor"
-msgstr "l'honneur"
+msgstr "l'Honneur"
 
 msgid "the Failure"
-msgstr "l'échec"
+msgstr "l'Échec"
 
 msgid "Ruin"
 msgstr "Ruine"
 
 msgid "the Fall"
-msgstr "la chute"
+msgstr "la Chute"
 
 msgid "the Equipment"
-msgstr "l'équipement"
+msgstr "l'Équipement"
 
 msgid "the Improvements"
 msgstr "les Améliorations"
 
 msgid "the Building"
-msgstr "le bâtiment"
+msgstr "le Bâtiment"
 
 msgid "the Purchase"
-msgstr "l'achat"
+msgstr "l'Achat"
 
 msgid "Preaching"
 msgstr "Prédication"
 
 msgid "the Sermon"
-msgstr "le sermon"
+msgstr "le Sermon"
 
 msgid "Persecution"
 msgstr "Persécution"
 
 msgid "the Depths"
-msgstr "les profondeurs"
+msgstr "les Profondeurs"
 
 msgid "the Breach"
-msgstr "la violation"
+msgstr "la Brèche"
 
 msgid "the Treaty"
-msgstr "le traité"
+msgstr "le Traité"
 
 msgid "the Alliance"
 msgstr "l'Alliance"
 
 msgid "the Price"
-msgstr "le prix"
+msgstr "le Prix"
 
 msgid "the Ransom"
-msgstr "la rançon"
+msgstr "la Rançon"
 
 msgid "Bondage"
 msgstr "Esclavage"
@@ -65977,31 +65973,31 @@ msgid "the Enslavement"
 msgstr "l'Esclavage"
 
 msgid "the Crime"
-msgstr "le crime"
+msgstr "le Crime"
 
 msgid "the Conviction"
-msgstr "la condamnation"
+msgstr "la Condamnation"
 
 msgid "the Interrogation"
-msgstr "l'interrogatoire"
+msgstr "l'Interrogatoire"
 
 msgid "the Questioning"
-msgstr "le questionnement"
+msgstr "le Questionnement"
 
 msgid "force"
 msgstr "Obliger"
 
 msgid "the Ghost"
-msgstr "le fantôme"
+msgstr "le Fantôme"
 
 msgid "the Spirit"
-msgstr "l'esprit"
+msgstr "l'Esprit"
 
 msgid "the Corpse"
-msgstr "le cadavre"
+msgstr "le Cadavre"
 
 msgid "the Mountainhome"
-msgstr "la cité-montagne"
+msgstr "la Cité-Montagne"
 
 msgid "the Mountain Halls"
 msgstr "les Halles de la Montagne"
@@ -66010,28 +66006,28 @@ msgid "the Dark Fortress"
 msgstr "la forteresse sombre"
 
 msgid "the Fortress"
-msgstr "la forteresse"
+msgstr "la Forteresse"
 
 msgid "the Gutter"
-msgstr "la gouttière"
+msgstr "la Gouttière"
 
 msgid "the Trenches"
-msgstr "les tranchées"
+msgstr "les Tranchées"
 
 msgid "the Cave"
 msgstr "la Cave"
 
 msgid "the Pit"
-msgstr "la fosse"
+msgstr "la Fosse"
 
 msgid "the Dark"
 msgstr "les Ténèbres"
 
 msgid "the Darkness"
-msgstr "l'obscurité"
+msgstr "l'Obscurité"
 
 msgid "the Hole"
-msgstr "Le trou"
+msgstr "Le Trou"
 
 msgid "the Cavern"
 msgstr "la Caverne"
@@ -66040,10 +66036,10 @@ msgid "the Forest Retreat"
 msgstr "la retraite forestière"
 
 msgid "the Forest"
-msgstr "la forêt"
+msgstr "la Forêt"
 
 msgid "the Trees"
-msgstr "les arbres"
+msgstr "les Arbres"
 
 msgid "the Town"
 msgstr "la Ville"
@@ -66052,16 +66048,16 @@ msgid "the Hamlet"
 msgstr "le Hameau"
 
 msgid "the Village"
-msgstr "le village"
+msgstr "le Village"
 
 msgid "the Shrine"
-msgstr "le sanctuaire"
+msgstr "le Sanctuaire"
 
 msgid "the Tunnels"
-msgstr "les tunnels"
+msgstr "les Tunnels"
 
 msgid "the Maze"
-msgstr "le labyrinthe"
+msgstr "le Labyrinthe"
 
 msgid "the Labyrinth"
 msgstr "le Labyrinthe"
@@ -66073,130 +66069,130 @@ msgid "the Keep"
 msgstr "La Garde"
 
 msgid "the Castle"
-msgstr "le château"
+msgstr "le Château"
 
 msgid "the Fort"
-msgstr "le fort"
+msgstr "le Fort"
 
 msgid "the Monastery"
 msgstr "le Monastère"
 
 msgid "the Monument"
-msgstr "le monument"
+msgstr "le Monument"
 
 msgid "the Vault"
-msgstr "la voûte"
+msgstr "la Voûte"
 
 msgid "the Mausoleum"
-msgstr "le mausolée"
+msgstr "le Mausolée"
 
 msgid "the Burial"
-msgstr "l'enterrement"
+msgstr "l'Enterrement"
 
 msgid "the Tomb"
-msgstr "la tombe"
+msgstr "la Tombe"
 
 msgid "the Place"
-msgstr "le lieu"
+msgstr "le Lieu"
 
 msgid "the Horror"
-msgstr "l'horreur"
+msgstr "l'Horreur"
 
 msgid "the Joy"
-msgstr "la joie"
+msgstr "la Joie"
 
 msgid "the Universe"
-msgstr "l'univers"
+msgstr "l'Univers"
 
 msgid "the Region"
-msgstr "la région"
+msgstr "la Région"
 
 msgid "the World"
-msgstr "le monde"
+msgstr "le Monde"
 
 msgid "the Wetland"
-msgstr "la zone humide"
+msgstr "la Zone Humide"
 
 msgid "the Marsh"
-msgstr "le marécage"
+msgstr "le Marécage"
 
 msgid "the Swamp"
-msgstr "le marais"
+msgstr "le Marais"
 
 msgid "the Bog"
-msgstr "la tourbière"
+msgstr "la Tourbière"
 
 msgid "the Mire"
-msgstr "la boue"
+msgstr "la Boue"
 
 msgid "the Murk"
-msgstr "l'Ombre"
+msgstr "l'Obscurité"
 
 msgid "the Rocks"
-msgstr "les rochers"
+msgstr "les Rochers"
 
 msgid "the Sand"
 msgstr "le Sable"
 
 msgid "the Desert"
-msgstr "le désert"
+msgstr "le Désert"
 
 msgid "the Undergrowth"
-msgstr "le sous-bois"
+msgstr "le Sous-Bois"
 
 msgid "the Canopy"
 msgstr "la Canopée"
 
 msgid "the Mountain"
-msgstr "la montagne"
+msgstr "la Montagne"
 
 msgid "the Peaks"
-msgstr "les sommets"
+msgstr "les Sommets"
 
 msgid "the Mountains"
-msgstr "les montagnes"
+msgstr "les Montagnes"
 
 msgid "the Sea"
-msgstr "la mer"
+msgstr "la Mer"
 
 msgid "the Deep"
 msgstr "les Profondeurs"
 
 msgid "the Waves"
-msgstr "les vagues"
+msgstr "les Vagues"
 
 msgid "the Ocean"
-msgstr "l'océan"
+msgstr "l'Océan"
 
 msgid "the Waters"
-msgstr "les eaux"
+msgstr "les Eaux"
 
 msgid "the Ice"
-msgstr "la glace"
+msgstr "la Glace"
 
 msgid "the Glacier"
-msgstr "le glacier"
+msgstr "le Glacier"
 
 msgid "the Frozen Wastes"
 msgstr "les déchets gelés"
 
 msgid "the Tundra"
-msgstr "la toundra"
+msgstr "la Toundra"
 
 msgid "the Shrubland"
-msgstr "le maquis"
+msgstr "le Maquis"
 
 msgid "the Savanna"
-msgstr "la savane"
+msgstr "la Savane"
 
 msgid "the Plains"
-msgstr "les plaines"
+msgstr "les Plaines"
 
 msgid "the Grassland"
 msgstr "la Prairie"
 
 msgid "the Hills"
-msgstr "les collines"
+msgstr "les Collines"
 
 msgid "the fiery bowels of the earth"
 msgstr "les entrailles ardentes de la terre"
@@ -66205,16 +66201,16 @@ msgid "the Fiery Depths"
 msgstr "les profondeurs ardentes"
 
 msgid "the Magma"
-msgstr "le magma"
+msgstr "le Magma"
 
 msgid "the Flames"
-msgstr "les flammes"
+msgstr "les Flammes"
 
 msgid "the Caverns"
 msgstr "les Cavernes"
 
 msgid "the Underground"
-msgstr "le métro"
+msgstr "le Sous-Sol"
 
 msgid "a population of "
 msgstr "une population de"
@@ -66226,46 +66222,46 @@ msgid " corpse"
 msgstr "corps"
 
 msgid "the Creature"
-msgstr "la créature"
+msgstr "la Créature"
 
 msgid "the Coins"
-msgstr "les monnaies"
+msgstr "les Monnaies"
 
 msgid "the Art"
-msgstr "L'art"
+msgstr "L'Art"
 
 msgid "an unnamed group"
 msgstr "un groupe sans nom"
 
 msgid "the People"
-msgstr "les personnes"
+msgstr "les Personnes"
 
 msgid "the Settlement"
-msgstr "le règlement"
+msgstr "le Règlement"
 
 msgid "the Group"
-msgstr "le groupe"
+msgstr "le Groupe"
 
 msgid "the Traders"
-msgstr "les commerçants"
+msgstr "les Commerçants"
 
 msgid "the Company"
-msgstr "l'entreprise"
+msgstr "l'Entreprise"
 
 msgid "the Artisans"
-msgstr "les artisans"
+msgstr "les Artisans"
 
 msgid "the Guild"
-msgstr "la guilde"
+msgstr "la Guilde"
 
 msgid "the Vessel"
-msgstr "le navire"
+msgstr "le Navire"
 
 msgid "the Migration"
-msgstr "la migration"
+msgstr "la Migration"
 
 msgid "the Troupe"
-msgstr "la troupe"
+msgstr "la Troupe"
 
 msgid "Entertainment"
 msgstr "Divertissement"
@@ -66274,16 +66270,16 @@ msgid "the Show"
 msgstr "le Show"
 
 msgid "the Faith"
-msgstr "la foi"
+msgstr "la Foi"
 
 msgid "the Religion"
-msgstr "la religion"
+msgstr "la Religion"
 
 msgid "the Fighters"
-msgstr "Les combattants"
+msgstr "Les Combattants"
 
 msgid "the Criminals"
-msgstr "les criminels"
+msgstr "les Criminels"
 
 msgid "the Outcasts"
 msgstr "les Parias"
@@ -66636,7 +66632,7 @@ msgid "astronomy:star catalogues 100"
 msgstr "astronomie:catalogues d'étoiles 100"
 
 msgid "astronomy:star charts"
-msgstr "astronomie:cartes du ciel"
+msgstr "astronomie:cartes stellaire"
 
 msgid "astronomy:star magnitude classification"
 msgstr "astronomie:classification de la magnitude des étoiles"
@@ -67162,7 +67158,7 @@ msgid "engineering:astronomy:dioptra"
 msgstr "ingénierie:astronomie:dioptries"
 
 msgid "engineering:machine:water-powered trip hammer"
-msgstr "ingénierie:machine:marteau de déclenchement à eau"
+msgstr "ingénierie:machine:martinet fonctionnant à l'eau"
 
 msgid "engineering:astronomy:orrery"
 msgstr "ingénierie:astronomie:orrery"
@@ -67198,7 +67194,7 @@ msgid "engineering:machine:water-powered piston bellows"
 msgstr "ingénierie:machine:soufflet de piston hydraulique"
 
 msgid "engineering:machine:trip hammer"
-msgstr "ingénierie:machine:marteau de déclenchement"
+msgstr "ingénierie:machine:martinet"
 
 msgid "engineering:machine:water wheel"
 msgstr "ingénierie:machine:roue hydraulique"
@@ -67915,7 +67911,7 @@ msgid "the spherical astrolabe"
 msgstr "l'astrolabe sphérique"
 
 msgid "the water-powered trip hammer"
-msgstr "le marteau-piqueur à eau"
+msgstr "le martinet fonctionnant à l'eau"
 
 msgid "the orrery"
 msgstr "le planétaire"
@@ -67945,7 +67941,7 @@ msgid "the water-powered piston bellows"
 msgstr "le soufflet de piston hydraulique"
 
 msgid "the trip hammer"
-msgstr "le marteau piqueur"
+msgstr "le martinet"
 
 msgid "the water wheel"
 msgstr "la roue à eau"
@@ -78422,7 +78418,7 @@ msgid "hunt"
 msgstr "chasse"
 
 msgid "saved"
-msgstr "sauvegardé"
+msgstr "sauvé"
 
 msgid "State that listener had a good hunt"
 msgstr "Dire que l'interlocuteur à fait une bonne chasse"
@@ -78452,7 +78448,7 @@ msgid "Comply with order"
 msgstr "Se soulettre aux ordres"
 
 msgid "comply"
-msgstr "Se soumettre"
+msgstr "se soumettre"
 
 msgid "Agree to follow"
 msgstr "Accepter de suivre"
@@ -78724,7 +78720,7 @@ msgid "Press the argument"
 msgstr "Appuyer l'argument"
 
 msgid "press"
-msgstr "appuyer"
+msgstr "appuie"
 
 msgid "argue"
 msgstr "argumente"
@@ -78739,7 +78735,7 @@ msgid "Dismiss the listener's argument"
 msgstr "Rejeter l'argument de l'interlocuteur"
 
 msgid "dismiss"
-msgstr "congédier"
+msgstr "congédie"
 
 msgid "Respond passively"
 msgstr "Répondre passivement"
@@ -78748,7 +78744,7 @@ msgid "Make terrified outburst regarding fleeing conflict"
 msgstr "S'emporter à l'idée de fuir le conflit"
 
 msgid "outburst"
-msgstr "Emporter"
+msgstr "emporter"
 
 msgid "State intention to flee conflict"
 msgstr "Dire que vous allez fuir le conflit"
@@ -80506,7 +80502,7 @@ msgid " removed."
 msgstr " enlevé."
 
 msgid "Ally: "
-msgstr "Allié"
+msgstr "Allié: "
 
 msgid "Could not locate adventure start square"
 msgstr ""
@@ -81211,7 +81207,7 @@ msgid "Such care for your happiness!"
 msgstr "Autant de soin pour votre bonheur!"
 
 msgid "Such "
-msgstr "Tel"
+msgstr "Tel "
 
 msgid "Such is the spirit of "
 msgstr "Tel est l'esprit de "
@@ -81592,10 +81588,10 @@ msgid "You pull out "
 msgstr "Vous vous retirez "
 
 msgid "Fill "
-msgstr "Remplir"
+msgstr "Remplir "
 
 msgid "salt "
-msgstr "salé"
+msgstr "salé "
 
 msgid "Name the "
 msgstr "Nomme le "
@@ -81772,7 +81768,7 @@ msgid "Climb to "
 msgstr "Escalader jusqu'à "
 
 msgid " holding "
-msgstr "maintenir "
+msgstr " maintenir "
 
 msgid " releasing hold"
 msgstr " relâcher"
@@ -81926,7 +81922,7 @@ msgid "Releasing hold on terrain"
 msgstr "relachant sa prise sur le terrain"
 
 msgid "Dismounting"
-msgstr "Descendre de sa monture"
+msgstr "Descendant de sa monture"
 
 msgid "Leading animal"
 msgstr "Mener les animaux"
@@ -82163,7 +82159,7 @@ msgid "Unassuming"
 msgstr "Discret"
 
 msgid "Relationship: "
-msgstr "Relations"
+msgstr "Relations: "
 
 msgid "Loves you"
 msgstr "Vous aimes"
@@ -82223,7 +82219,7 @@ msgid "Grumpy"
 msgstr "Grincheux"
 
 msgid "Fondness"
-msgstr "affection"
+msgstr "Affection"
 
 msgid "Suspicious"
 msgstr "Méfiant"
@@ -82376,7 +82372,7 @@ msgid "Exhilarated"
 msgstr "Euphorique"
 
 msgid "Afraid"
-msgstr "Avoir peur"
+msgstr "A peur"
 
 msgid "Ferocious"
 msgstr "Féroce"
@@ -82433,7 +82429,7 @@ msgid "Jubilant"
 msgstr "Radieux"
 
 msgid "Loathing"
-msgstr "répugnance"
+msgstr "Répugnance"
 
 msgid "Lonely"
 msgstr "Solitaire"
@@ -82508,7 +82504,7 @@ msgid "Wonder"
 msgstr "Émerveillement"
 
 msgid "Worried"
-msgstr "Inquiet"
+msgstr "Inquiet(te)"
 
 msgid "Wrathful"
 msgstr "Courroucé"
@@ -82817,10 +82813,10 @@ msgid "Would like to sleep or wait a while?"
 msgstr "Voulez-vous dormir ou attendre un peu ?"
 
 msgid " Sleep"
-msgstr "Dormir"
+msgstr " Dormir"
 
 msgid " Wait"
-msgstr "Attendre"
+msgstr " Attendre"
 
 msgid "Cannot see dawn."
 msgstr "Impossible de voir l'aube."
@@ -82943,7 +82939,7 @@ msgid "Poor"
 msgstr "Pauvre"
 
 msgid "Awful"
-msgstr "Terrible"
+msgstr "Affreux"
 
 msgid "Terrible"
 msgstr "Terrible"
