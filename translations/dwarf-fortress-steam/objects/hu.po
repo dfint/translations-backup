@@ -2,10 +2,11 @@
 # Translators:
 # insolor, 2022
 # Márton Próba, 2022
+# Ready Brown, 2024
 # 
 msgid ""
 msgstr ""
-"Last-Translator: Márton Próba, 2022\n"
+"Last-Translator: Ready Brown, 2024\n"
 "Language-Team: Hungarian (https://app.transifex.com/dwarf-fortress-translation/teams/22396/hu/)\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -30,7 +31,7 @@ msgstr "[BP:UB:test:testek]"
 #: body_default.txt:21
 msgctxt "BODY:BASIC_2PARTBODY"
 msgid "[BP:UB:upper body:upper bodies]"
-msgstr "[BP:UB:felső test:felső testek]"
+msgstr "[BP:UB:felső test:felsőtestek]"
 
 #: body_default.txt:23
 msgctxt "BODY:BASIC_2PARTBODY"
@@ -40,17 +41,17 @@ msgstr "[BP:LB:alsó test:alsó testek]"
 #: body_default.txt:27
 msgctxt "BODY:BASIC_3PARTARMS"
 msgid "[BP:RUA:right upper arm:STP]"
-msgstr "[BP:RUA:jobb felső kéz:jobb felső kezek]"
+msgstr "[BP:RUA:jobb felső kéz:jobb felső kar]"
 
 #: body_default.txt:29
 msgctxt "BODY:BASIC_3PARTARMS"
 msgid "[BP:LUA:left upper arm:STP]"
-msgstr "[BP:LUA:bal alsó kéz:bal alsó kezek]"
+msgstr "[BP:LUA:bal alsó kéz:bal alsó kar]"
 
 #: body_default.txt:31
 msgctxt "BODY:BASIC_3PARTARMS"
 msgid "[BP:RLA:right lower arm:STP]"
-msgstr "[BP:RLA:jobb alsó kéz:jobb alsó kezek]"
+msgstr "[BP:RLA:jobb alsó kéz:jobb alsó kar]"
 
 #: body_default.txt:33
 msgctxt "BODY:BASIC_3PARTARMS"
@@ -8247,17 +8248,17 @@ msgstr ""
 #: creature_birds_new.txt:2174
 msgctxt "CREATURE:SWAN_MAN"
 msgid "[DESCRIPTION:A person with the head and wings of a swan.]"
-msgstr ""
+msgstr "[DESCRIPTION:Menyétfejjel és menyétfarokkal rendelkező személy.]"
 
 #: creature_birds_new.txt:2190
 msgctxt "CREATURE:GIANT_SWAN"
 msgid "[NAME:giant swan:giant swans:giant swan]"
-msgstr ""
+msgstr "[NAME:óriáshattyú:óriáshattyúk:óriáshattyú]"
 
 #: creature_birds_new.txt:2191
 msgctxt "CREATURE:GIANT_SWAN"
 msgid "[CASTE_NAME:giant swan:giant swans:giant swan]"
-msgstr ""
+msgstr "[CASTE_NAME:óriáshattyú:óriáshattyúk:óriáshattyú]"
 
 #: creature_birds_new.txt:2192
 msgctxt "CREATURE:GIANT_SWAN"
@@ -8267,12 +8268,12 @@ msgstr ""
 #: creature_birds_new.txt:2193
 msgctxt "CREATURE:GIANT_SWAN"
 msgid "[DESCRIPTION:A large monster in the form of a swan.]"
-msgstr ""
+msgstr "[DESCRIPTION:Óriási, hiúz alakú szörnyeteg.]"
 
 #: creature_birds_new.txt:2202
 msgctxt "CREATURE:GIANT_SWAN"
 msgid "[PREFSTRING:beauty]"
-msgstr ""
+msgstr "[PREFSTRING:szépség]"
 
 #: creature_birds_new.txt:2213
 msgctxt "CREATURE:BIRD_LORIKEET"
@@ -8280,6 +8281,8 @@ msgid ""
 "[DESCRIPTION:A tiny, brightly-colored tree parrot.  It uses its tongue to "
 "feed on plants.]"
 msgstr ""
+"[DESCRIPTION:Egy fákon élő apró, élénk színű papagáj. Nyelvével táplálkozik "
+"a növényekből.]"
 
 #: creature_birds_new.txt:2214
 msgctxt "CREATURE:BIRD_LORIKEET"
@@ -29085,22 +29088,22 @@ msgstr ""
 #: creature_standard.txt:909
 msgctxt "CREATURE:ELF"
 msgid "[ATTACK_VERB:bite:bites]"
-msgstr ""
+msgstr "[ATTACK_VERB:harapás:harapások]"
 
 #: creature_standard.txt:929
 msgctxt "CREATURE:ELF"
 msgid "[MANNERISM_FINGERS:finger:fingers]"
-msgstr ""
+msgstr "[MANNERISM_FINGERS:ujj:ujjak]"
 
 #: creature_standard.txt:930
 msgctxt "CREATURE:ELF"
 msgid "[MANNERISM_NOSE:nose]"
-msgstr ""
+msgstr "[MANNERISM_NOSE:orr]"
 
 #: creature_standard.txt:931
 msgctxt "CREATURE:ELF"
 msgid "[MANNERISM_EAR:ear]"
-msgstr ""
+msgstr "[MANNERISM_EAR:fül]"
 
 #: creature_standard.txt:932
 msgctxt "CREATURE:ELF"
