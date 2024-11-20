@@ -5415,13 +5415,13 @@ msgid "Click to recover (creates new mission)"
 msgstr "Cliquez pour récupérer (crée une nouvelle mission)"
 
 msgid "Center on fort"
-msgstr "Centre sur le fort"
+msgstr "Votre fort"
 
 msgid "Missions"
 msgstr "Missions"
 
 msgid "News and rumors"
-msgstr "Nouvelles et rumeurs"
+msgstr "Nouv./Rumeurs"
 
 msgid "Civilizations"
 msgstr "Civilisations"
@@ -6314,7 +6314,7 @@ msgid ""
 "right corner, including all of the tutorials."
 msgstr ""
 "Après votre embarquement, une aide est disponible en appuyant sur le bouton "
-"d'aide dans le coin supérieur droit, y compris tous les tutoriels."
+"d'aide en haut à droite, y compris tous les tutoriels."
 
 msgid " (1 of 8)"
 msgstr "(1 sur 8)"
@@ -7174,7 +7174,7 @@ msgid ""
 msgstr ""
 "[C:6:0:1]La Potasse[C:7:0:0] est l'engrais de choix, et elle est créée dans "
 "la [C:6:0:0]Cendrerie[C:7:0:0 ], en utilisant des [C:6:0:1]Cendres[C:7:0:0] "
-"de [C:6:0:1]Bois[C:7:0:0] brûlé dans un [C:6:0:0]Four à bois[C:7:0:0]. Une "
+"de [C:6:0:1]Bois[C:7:0:0] brûlé dans un [C:6:0:0]Four à Bois[C:7:0:0]. Une "
 "[C:3:0:0]Source d'eau[C:7:0:0] et un [C:6:0:1]Seau[C:7:0:0] sont également "
 "requis."
 
@@ -7877,8 +7877,8 @@ msgid ""
 "If you have found magma you can build a [C:6:0:0]Magma Smelter[C:7:0:0] "
 "directly over it, otherwise you need [C:6:0:1]Fuel[C:7:0:0]. "
 msgstr ""
-"Si vous avez trouvé du magma, vous pouvez construire une [C:6:0:0]Fonderie "
-"de magma[C:7:0:0] directement dessus, sinon vous aurez besoin de "
+"Si vous avez trouvé du magma, vous pouvez construire une [C:6:0:0]Fonderie à"
+" magma[C:7:0:0] directement dessus, sinon vous aurez besoin de "
 "[C:6:0:1]Carburant[C:7 :0:0]."
 
 msgid ""
@@ -7886,14 +7886,14 @@ msgid ""
 "with a [C:6:0:0]Wood Furnace[C:7:0:0], "
 msgstr ""
 "Pour obtenir du [C:6:0:1]Carburant[C:7:0:0], vous devez fabriquer du "
-"[C:6:0:1]Charbon[C:7:0:0] avec un [C:6 :0:0]Four à bois[C:7:0:0],"
+"[C:6:0:1]Charbon[C:7:0:0] avec un [C:6 :0:0]Four à Bois[C:7:0:0],"
 
 msgid ""
 "found at [C:5:0:1]Workshops[C:7:0:0] -> [C:5:0:1]Furnaces[C:7:0:0] -> "
 "[C:5:0:1]Wood Furnace[C:7:0:0]. "
 msgstr ""
 "trouvé à [C:5:0:1]Ateliers[C:7:0:0] -> [C:5:0:1]Fours[C:7:0:0] -> [C:5:0 "
-":1]Four à bois[C:7:0:0]."
+":1]Four à Bois[C:7:0:0]."
 
 msgid ""
 "You may switch to other forms of [C:6:0:1]Fuel[C:7:0:0] later, such as "
@@ -7907,8 +7907,8 @@ msgid ""
 "need [C:6:0:1]Charcoal[C:7:0:0] from the [C:6:0:0]Wood Furnace[C:7:0:0] to "
 "start the process."
 msgstr ""
-"besoin de [C:6:0:1]charbon de bois[C:7:0:0] provenant de la "
-"[C:6:0:0]fournaise à bois[C:7:0:0] pour démarrer le processus."
+"besoin de [C:6:0:1]charbon de bois[C:7:0:0] provenant du [C:6:0:0]Four à "
+"Bois[C:7:0:0] pour démarrer le processus."
 
 msgid ""
 "It is a dangerous world, and if the entrances of your fortress are left "
@@ -9512,7 +9512,7 @@ msgid "Window is resizable (takes effect on restart)"
 msgstr "La fenêtre est redimensionnable (prend effet au redémarrage)"
 
 msgid "Maximum interface percentage (not counting minimap/elevation)"
-msgstr "Pourcentage max d'interface (sans compter la minimap/élévation)"
+msgstr "Pourcent. max d'interface (sans compter minimap/élévation)"
 
 msgid "Graphical FPS cap (default 50)"
 msgstr "Plafond FPS (défaut 50)"
@@ -9860,7 +9860,7 @@ msgid "Diplomacy tree-fell count"
 msgstr "Nombre d'arbres abattus par la diplomatie"
 
 msgid "Diplomacy tree-fell count (untamed wilds)"
-msgstr "Nombre d'arbres abattus par la diplomatie (sauvages sauvages)"
+msgstr "Nombre d'arbres abattus par la diplomatie (sauvages indomptables)"
 
 msgid "Economy population trigger 1"
 msgstr "Déclencheur de population économique 1"
@@ -13266,19 +13266,19 @@ msgid "Stoneworker"
 msgstr "Tailleur de pierre"
 
 msgid "Glass furnace"
-msgstr "Four à verre"
+msgstr "Four de verrier"
 
 msgid "Kiln"
-msgstr "Four"
+msgstr "Four de potier"
 
 msgid "Magma glass furnace"
-msgstr "Four à verre Magma"
+msgstr "Four de verrier à magma"
 
 msgid "Magma kiln"
-msgstr "Four à magma"
+msgstr "Four de potier à magma"
 
 msgid "Magma smelter"
-msgstr "Fonderie de magma"
+msgstr "Fonderie à magma"
 
 msgid "Smelter"
 msgstr "Fonderie"
@@ -13320,10 +13320,10 @@ msgid "Quern"
 msgstr "Moulin à bras"
 
 msgid "Vermin Catcher's Shop"
-msgstr "Boutique du chasseur de vermine"
+msgstr "Chasseur de vermine"
 
 msgid "Nest box"
-msgstr "Boîte de nidification"
+msgstr "Poulailler"
 
 msgid "Hive"
 msgstr "Ruche"
@@ -13344,10 +13344,10 @@ msgid "Cabinet"
 msgstr "Armoire"
 
 msgid "Burial"
-msgstr "Enterrement"
+msgstr "Cerceuil"
 
 msgid "Slab"
-msgstr "Dalle"
+msgstr "Stèle"
 
 msgid "Statue"
 msgstr "Statue"
@@ -13359,10 +13359,10 @@ msgid "Bookcase"
 msgstr "Bibliothèque"
 
 msgid "Display"
-msgstr "Affichage"
+msgstr "Piédestal"
 
 msgid "Offering place"
-msgstr "Lieu d'offrande"
+msgstr "Autel"
 
 msgid "Instrument"
 msgstr "Instrument"
@@ -13443,7 +13443,7 @@ msgid "Windmill"
 msgstr "Moulin à vent"
 
 msgid "Gear assembly"
-msgstr "Assemblage des engrenages"
+msgstr "Assembleur d'engrenages"
 
 msgid "Horizontal axle"
 msgstr "Essieu horizontal"
@@ -13653,7 +13653,7 @@ msgid "Converting gathering blueprint to regular"
 msgstr "Conversion du plan de collecte en standard"
 
 msgid "Gathering fruit and leaves"
-msgstr "Cueillir des fruits et des feuilles"
+msgstr "Cueillette de fruits et de feuilles"
 
 msgid "Smoothing blueprint"
 msgstr "Plan de lissage"
@@ -13875,19 +13875,19 @@ msgid "Water Source"
 msgstr "Source d'eau"
 
 msgid "Gather Fruit"
-msgstr "Cueillir des fruits"
+msgstr "Cueillette"
 
 msgid "Garbage Dump"
 msgstr "Décharge"
 
 msgid "Pen/Pasture"
-msgstr "Enclos/Pâturage"
+msgstr "Enclos/Pâtur."
 
 msgid "Pit/Pond"
 msgstr "Fosse/Étang"
 
 msgid "Meeting Area"
-msgstr "Zone de réunion"
+msgstr "Zone de Réu."
 
 msgid "Animal Training"
 msgstr "Dressage"
@@ -13902,7 +13902,7 @@ msgid "Click an existing zone to select it."
 msgstr "Cliquez sur une zone existante pour la sélectionner."
 
 msgid "Select a type below to add a zone."
-msgstr "Sélectionnez un type ci-dessous pour ajouter une zone."
+msgstr "Sélectionnez un type de zone à ajouter"
 
 msgid "Click an icon to add a new zone."
 msgstr "Cliquez sur une icône ajoute une zone."
@@ -14229,10 +14229,10 @@ msgid "Change standard selections to blueprints."
 msgstr "Remplacez les sélections standard par des plans."
 
 msgid "Show advanced options."
-msgstr "Montrer les options avancées."
+msgstr "Options avancées."
 
 msgid "Hide advanced options."
-msgstr "Cachez les options avancées."
+msgstr "Terminer."
 
 msgid "Set tree chopping orders."
 msgstr "Pour la coupe d'arbres."
@@ -14575,7 +14575,7 @@ msgid ""
 "the floor."
 msgstr ""
 "Les objets destinés à être jetés le seront dans des espaces en plein air "
-"inclus dans cette zone. Si aucune dalle en plein air n'est incluse, ils "
+"inclus dans cette zone. Si aucune tuile en plein air n'est incluse, ils "
 "videront les objets sur le sol."
 
 msgid ""
@@ -14599,8 +14599,8 @@ msgid ""
 "wall is included.  This task is initiated manually at the glass furnace."
 msgstr ""
 "Vos citoyens rempliront des sacs de sable ici s'il y a un sol sablonneux ou "
-"un mur sablonneux. Cette tâche est initiée manuellement au niveau du four à "
-"verre."
+"un mur sablonneux. Cette tâche est initiée manuellement au niveau du four de"
+" verrier."
 
 msgid ""
 "Your citizens will collect clay at this zone if a clay floor or clay wall is"
@@ -15962,7 +15962,7 @@ msgid ""
 "  Slabs are created and engraved at the stoneworker's shop."
 msgstr ""
 "Les citoyens qui ne peuvent pas être enterrés correctement peuvent toujours "
-"être commémorés sur des dalles. Les dalles sont créées et gravées à "
+"être commémorés sur des stèles. Les stèles sont créées et gravées à "
 "l'atelier du tailleur de pierre."
 
 msgid ""
@@ -15995,8 +15995,7 @@ msgid ""
 "placed.  An offering place object must be made before it can be placed."
 msgstr ""
 "Ces objets ornementaux augmentent la valeur des pièces dans lesquelles ils "
-"sont placés. Un objet de lieu d'offrande doit être fabriqué avant de pouvoir"
-" être placé."
+"sont placés. Un autel doit être fabriqué avant de pouvoir être placé."
 
 msgid ""
 "Large instruments must be placed in taverns or temples before they will be "
@@ -16096,7 +16095,7 @@ msgid ""
 "object must be made at a glass furnace before it can be placed."
 msgstr ""
 "Cette construction ornementale peut valoriser les pièces. Un objet de vitre "
-"doit être fabriqué dans un four à verre avant de pouvoir être placé."
+"doit être fabriqué dans un four de verrier avant de pouvoir être placé."
 
 msgid ""
 "This ornamental construction can enhance the value of rooms.  Three cut gem "
@@ -17170,7 +17169,7 @@ msgid "Do not automate tannery"
 msgstr "Ne pas automatiser la tannerie"
 
 msgid "Do not automate kiln"
-msgstr "Ne pas automatiser le four"
+msgstr "Ne pas automatiser le four de potier"
 
 msgid "Automatically weave all thread"
 msgstr "Tisser automatiquement tous les fils"
@@ -17215,7 +17214,7 @@ msgid "Automate tannery"
 msgstr "Automatiser la tannerie"
 
 msgid "Automate kiln"
-msgstr "Automatiser les fours"
+msgstr "Automatiser le four de potier"
 
 msgid "Automate smelter"
 msgstr "Automatiser la fonderie"
@@ -17332,13 +17331,13 @@ msgid "Claim your dead"
 msgstr "Récup. vos défunts"
 
 msgid "Claim your death items"
-msgstr "Récup.  les objets de vos défunts"
+msgstr "Récup. les objets de vos défunts"
 
 msgid "Claim other dead"
-msgstr "Récup les autres défunts"
+msgstr "Récup. les autres défunts"
 
 msgid "Claim other death items"
-msgstr "Récup les objets des autres défunts"
+msgstr "Récup. les objets des autres défunts"
 
 msgid "Forbid used ammunition"
 msgstr "Laisser les munitions usagées"
@@ -17435,7 +17434,7 @@ msgid "Fish only in designated zones"
 msgstr "Pêcher uniquement dans les zones désignées"
 
 msgid "Prefer zones for fishing"
-msgstr "Préférer n'importe où"
+msgstr "Pêcher n'importe où"
 
 msgid "Drink water only from designed zones"
 msgstr "Ne boire que l'eau provenant de zones désignées"
@@ -17513,13 +17512,13 @@ msgid "Editing routine "
 msgstr "Édition routine"
 
 msgid "Equip/orders only"
-msgstr "Équipmnt/Sur ordres"
+msgstr "Éqpmnt/Sur ordres"
 
 msgid "Equip/always"
 msgstr "Équipmnt/toujours"
 
 msgid "Sleep/barracks at need"
-msgstr "Dormir/caserne qd appelé"
+msgstr "Dormir/caser. qd appelé"
 
 msgid "Sleep/barracks at will"
 msgstr "Dormir/caserne"
@@ -21902,7 +21901,7 @@ msgid " serene"
 msgstr "serein"
 
 msgid " calm"
-msgstr "calmes"
+msgstr "calme"
 
 msgid " grotesque"
 msgstr "grotesque"
@@ -22413,7 +22412,7 @@ msgid "serene"
 msgstr "serein"
 
 msgid "calm"
-msgstr "calmes"
+msgstr "calme"
 
 msgid "grotesque"
 msgstr "grotesque"
@@ -22944,10 +22943,10 @@ msgid "Nest"
 msgstr "Nid"
 
 msgid "Nest Box"
-msgstr "Boîte de nidification"
+msgstr "Poulailler"
 
 msgid "Offering Place"
-msgstr "Lieu d'offrande"
+msgstr "Autel"
 
 msgid "Wagon"
 msgstr "Wagon"
@@ -22995,19 +22994,19 @@ msgid "Farm Plot"
 msgstr "Terrain agricole"
 
 msgid "Glass Furnace"
-msgstr "Four à verre"
+msgstr "Four de Verrier"
 
 msgid "Wood Furnace"
-msgstr "Four à bois"
+msgstr "Four à Bois"
 
 msgid "Magma Smelter"
-msgstr "Fonderie de magma"
+msgstr "Fonderie à Magma"
 
 msgid "Magma Glass Furnace"
-msgstr "Four à verre Magma"
+msgstr "Four de Verrier à Magma"
 
 msgid "Magma Kiln"
-msgstr "Four à magma"
+msgstr "Four de Potier à Magma"
 
 msgid "Furnace"
 msgstr "four"
@@ -23358,7 +23357,7 @@ msgid " Statue"
 msgstr "Statue"
 
 msgid " Slab"
-msgstr "Dalle"
+msgstr "Stèle"
 
 msgid "Glass"
 msgstr "Verre"
@@ -32470,7 +32469,7 @@ msgid "is small"
 msgstr "est petite"
 
 msgid "is very small yet with huge slabs of lard and muscle"
-msgstr "est très petit mais avec d'énormes dalles de saindoux et de muscle"
+msgstr "est très petit mais avec d'énormes plaques de gras et de muscle"
 
 msgid "is muscular and fat yet has a very small overall build"
 msgstr "est musclé et gros mais a une très petite corpulence globale"
@@ -34341,7 +34340,7 @@ msgid "Diplomat left unhappy"
 msgstr "Le diplomate est parti mécontent"
 
 msgid "Embark"
-msgstr "Embarquer"
+msgstr "Embarq."
 
 msgid "First caravan"
 msgstr "Première caravane"
@@ -35859,7 +35858,7 @@ msgid "treachery"
 msgstr "traîtrise"
 
 msgid "trees"
-msgstr "des arbres"
+msgstr "arbres"
 
 msgid "trickery"
 msgstr "tromperie"
@@ -38339,16 +38338,16 @@ msgid "  Offloading units...  "
 msgstr "  Déchargement des unités..."
 
 msgid "No slabs engraved"
-msgstr "Pas de dalles gravées"
+msgstr "Pas de stèles gravées"
 
 msgid "Ghost"
 msgstr "Fantôme"
 
 msgid " slabs engraved"
-msgstr "dalles gravées"
+msgstr "stèles gravées"
 
 msgid "Slab engraved"
-msgstr "Dalle gravée"
+msgstr "Stèle gravée"
 
 msgid "Not memorialized"
 msgstr "Non commémoré"
@@ -38375,7 +38374,7 @@ msgid "Metal Clothing"
 msgstr "Vêtements en métal"
 
 msgid "Engrave Memorial Slab"
-msgstr "Graver la dalle commémorative"
+msgstr "Graver la stèle commémorative"
 
 msgid "[Requires fuel]"
 msgstr "[Nécessite du carburant]"
@@ -38393,10 +38392,10 @@ msgid "Entombed"
 msgstr "Enterré"
 
 msgid "slab engraved"
-msgstr "dalle gravée"
+msgstr "stèle gravée"
 
 msgid "no slabs engraved"
-msgstr "pas de dalles gravées"
+msgstr "pas de stèles gravées"
 
 msgid "Unable to create texture!"
 msgstr ""
@@ -39499,7 +39498,7 @@ msgid "hive"
 msgstr "ruche"
 
 msgid "nest box"
-msgstr "Boîte de nidification"
+msgstr "poulailler"
 
 msgid "small object container"
 msgstr "conteneur pour petits objets"
@@ -40182,7 +40181,7 @@ msgid "tavern sign"
 msgstr "enseigne de taverne"
 
 msgid "slab"
-msgstr "dalle"
+msgstr "stèle"
 
 msgid "corpse"
 msgstr "corps"
@@ -40374,7 +40373,7 @@ msgid "Village"
 msgstr "Village"
 
 msgid "Hamlet"
-msgstr "Hamlet"
+msgstr "Hammeau"
 
 msgid "Outpost"
 msgstr "Avant-poste"
@@ -47615,10 +47614,10 @@ msgid "colored"
 msgstr "coloré"
 
 msgid "There is writing on the slab, but you cannot read."
-msgstr "Il y a des écrits sur la dalle, mais vous ne pouvez pas lire."
+msgstr "Il y a des écrits sur la stèle, mais vous ne pouvez pas lire."
 
 msgid "The slab reads \""
-msgstr "La dalle indique \""
+msgstr "La stèle indique \""
 
 msgid "This object is in tatters.  "
 msgstr "Cet objet est en lambeaux.  "
@@ -48723,7 +48722,7 @@ msgid "Polish stones"
 msgstr "Pierres polies"
 
 msgid "Engrave memorial slab"
-msgstr "Grave une dalle commémorative"
+msgstr "Grave une stèle commémorative"
 
 msgid " (engrave memorial)"
 msgstr " (grave le mémorial)"
@@ -48927,7 +48926,7 @@ msgid " statue"
 msgstr " statue"
 
 msgid " slab"
-msgstr " dalle"
+msgstr " stèle"
 
 msgid " quern"
 msgstr " moulin à bras"
@@ -52882,7 +52881,7 @@ msgid "Temperature: "
 msgstr "Température:"
 
 msgid "Trees: "
-msgstr "Des arbres:"
+msgstr "Arbres:"
 
 msgid "Scarce"
 msgstr "Rare"
@@ -52891,7 +52890,7 @@ msgid "Sparse"
 msgstr "Clairsemé"
 
 msgid "Woodland"
-msgstr "Des bois"
+msgstr "Petite forêt"
 
 msgid "Heavily Forested"
 msgstr "Très boisé"
@@ -52912,7 +52911,7 @@ msgid "Serene"
 msgstr "Serein"
 
 msgid "Calm"
-msgstr "Calmes"
+msgstr "Calme"
 
 msgid "Mirthful"
 msgstr "Joyeux(se)"
@@ -52924,7 +52923,7 @@ msgid "Joyous Wilds"
 msgstr "Sauvages joyeux"
 
 msgid "Untamed Wilds"
-msgstr "Sauvages sauvages"
+msgstr "Sauvages Indomptables"
 
 msgid "Terrifying"
 msgstr "Terrifiant"
@@ -68436,10 +68435,10 @@ msgid "Find embark location"
 msgstr "Recherche spécifique"
 
 msgid "Reclaim/unretire"
-msgstr "Récupérer/annuler sa retraite"
+msgstr "Ruines"
 
 msgid "Choose origin civilization"
-msgstr "Choisissez la civilisation d'origine"
+msgstr "Civilisation d'origine"
 
 msgid "Click the map to zoom in and choose your embark location."
 msgstr ""
@@ -68501,7 +68500,7 @@ msgid "Soil"
 msgstr "Sol"
 
 msgid "Untamed wilds"
-msgstr "Sauvages sauvages"
+msgstr "Sauvages indomptables"
 
 msgid "Evil"
 msgstr "Mauvais"
@@ -68546,7 +68545,7 @@ msgid "Unretire"
 msgstr "Annuler sa retraite"
 
 msgid "Reclaim!"
-msgstr "Récupérez !"
+msgstr "Réclamer!"
 
 msgid "Population: "
 msgstr "Population:"
@@ -68924,10 +68923,10 @@ msgid "fortress"
 msgstr "forteresse"
 
 msgid "mountain halls"
-msgstr "salles de montagne"
+msgstr "halls montagneux"
 
 msgid "hillocks"
-msgstr "buttes"
+msgstr "tertres"
 
 msgid "pits"
 msgstr "fosses"
@@ -68939,7 +68938,7 @@ msgid "forest retreat"
 msgstr "retraite forestière"
 
 msgid "hamlet"
-msgstr "Hamlet"
+msgstr "Hammeau"
 
 msgid "castle"
 msgstr "Château"
@@ -71045,7 +71044,7 @@ msgid "Horrors!  Demons in the deep!"
 msgstr "Horreurs ! Démons dans les profondeurs !"
 
 msgid "The wilds are turning on us!  Curse these lands!"
-msgstr "Les sauvages se retournent contre nous ! Maudissez ces terres !"
+msgstr "Les sauvages se retournent contre nous! Maudissez ces terres !"
 
 msgid " was spotted sneaking around!"
 msgstr "a été aperçu en train de se faufiler !"
@@ -81006,7 +81005,7 @@ msgid "Underground Stair"
 msgstr "Escalier souterrain"
 
 msgid "Hillocks"
-msgstr "Buttes"
+msgstr "Tertres"
 
 msgid "Houses"
 msgstr "Maisons"
@@ -81018,7 +81017,7 @@ msgid "House"
 msgstr "Maison"
 
 msgid "Abandoned hillocks"
-msgstr "Buttes abandonnées"
+msgstr "Tertres abandonnées"
 
 msgid "Abandoned houses"
 msgstr "Maisons abandonnées"
@@ -81030,7 +81029,7 @@ msgid "Abandoned house"
 msgstr "Maison abandonnée"
 
 msgid "Ruined hillocks"
-msgstr "Buttes en ruines"
+msgstr "Tertres en ruines"
 
 msgid "Ruined houses"
 msgstr "Maison en ruines"
