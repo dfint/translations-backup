@@ -20,15 +20,16 @@
 # Michael Kobert, 2023
 # Jas L, 2024
 # Alan Köhler <alankoehler@online.de>, 2024
-# insolor, 2024
+# Mikhail M (insolor), 2024
 # Stefan Heider, 2024
 # Transifex Bot <>, 2024
 # Taro, 2024
 # Ramon Stohr, 2024
+# Kiez Krieger, 2024
 # 
 msgid ""
 msgstr ""
-"Last-Translator: Ramon Stohr, 2024\n"
+"Last-Translator: Kiez Krieger, 2024\n"
 "Language-Team: German (https://app.transifex.com/dwarf-fortress-translation/teams/22396/de/)\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -39,7 +40,7 @@ msgid "Unit report sheet popup"
 msgstr "Unit report sheet popup"
 
 msgid "its"
-msgstr ""
+msgstr "sein/seine/dessen"
 
 msgid "it"
 msgstr "es"
@@ -165,7 +166,7 @@ msgid "Toy"
 msgstr "Spielzeug"
 
 msgid "Inveigh Against "
-msgstr "Schmaeht"
+msgstr "Anprangern gegen"
 
 msgid "Promote "
 msgstr "Befördern"
@@ -372,7 +373,7 @@ msgid "There is not enough room to perform here."
 msgstr "Es ist nicht genug Platz vorhanden fuer die Vorfuehrung."
 
 msgid "You"
-msgstr ""
+msgstr "Du"
 
 msgid "Some children"
 msgstr "Einige Kinder"
@@ -1857,7 +1858,7 @@ msgid "View"
 msgstr "Ansicht"
 
 msgid "View stockpile"
-msgstr "Stapel ansehen"
+msgstr "Vorratslager ansehen"
 
 msgid "Uses"
 msgstr "Benutzen"
@@ -6480,8 +6481,8 @@ msgid ""
 "[C:6:0:0]Stockpiles[C:7:0:0] are placed with the [C:5:0:1]Stockpile[C:7:0:0]"
 " button (highlighted.)  Click it now."
 msgstr ""
-"[C:6:0:0]Stockpiles[C:7:0:0] are placed with the [C:5:0:1]Stockpile[C:7:0:0]"
-" button (highlighted.)  Click it now."
+"[C:6:0:0]Vorratslager[C:7:0:0]  werden mit der Schaltfläche (highlighted) "
+"[C:5:0:1]Vorratslager[C:7:0:0] platziert. Klicke jetzt darauf."
 
 msgid ""
 "Click the add button, and click two corners of a rectangle somewhere safe "
@@ -6583,8 +6584,8 @@ msgid ""
 "If the fallen logs are accessible, everyone will help store them in the "
 "[C:6:0:0]Stockpile[C:7:0:0].  "
 msgstr ""
-"If the fallen logs are accessible, everyone will help store them in the "
-"[C:6:0:0]Stockpile[C:7:0:0].  "
+"Wenn die gefallenen Baumstämme zugänglich sind, wird jeder dabei helfen, sie"
+" auf dem [C:6:0:0]Vorratslager[C:7:0:0] zu lagern.  "
 
 msgid ""
 "You can right click to close [C:5:0:1]Woodcutting[C:7:0:0] mode.  Right "
@@ -12574,14 +12575,14 @@ msgid "You do not have any workshops."
 msgstr "Sie haben keine Werkstätten."
 
 msgid "You do not have any stockpiles"
-msgstr "Sie haben keine stockpiles"
+msgstr "Sie haben keine Vorratslager"
 
 msgid ""
 "Stockpiles can be placed using the stockpile menu at the bottom of the "
 "screen."
 msgstr ""
-"Stockpiles können über das Stockpile-Menü am unteren Rand des Bildschirms "
-"platziert werden."
+"Vorratslager können über das Vorratslager-Menü am unteren Rand des "
+"Bildschirms platziert werden."
 
 msgid "You do not have any locations."
 msgstr "You do not have any locations."
@@ -12870,7 +12871,7 @@ msgid "Max wheelbarrows"
 msgstr "Max Schubkarren"
 
 msgid "Select a stockpile to"
-msgstr "Wählen Sie ein stockpile aus, um"
+msgstr "Wählen Sie ein Vorratslager aus, um"
 
 msgid "take from"
 msgstr "nehmen von"
@@ -12882,7 +12883,7 @@ msgid "exchange with"
 msgstr "Austausch mit"
 
 msgid "Select a stockpile or"
-msgstr "Wählen Sie ein stockpile oder"
+msgstr "Wählen Sie ein Vorratslager oder"
 
 msgid "workshop to "
 msgstr "Werkstatt zu "
@@ -13782,7 +13783,7 @@ msgid "Warning: stockpile has no type."
 msgstr "Warning: stockpile has no type."
 
 msgid "Click an existing stockpile to select it."
-msgstr "Klicken Sie auf ein vorhandenes Stockpile, um es auszuwählen."
+msgstr "Klicken Sie auf ein vorhandenes Vorratslager, um es auszuwählen."
 
 msgid "Click in the play area"
 msgstr "Klicken Sie in den Spielbereich"
@@ -14313,7 +14314,7 @@ msgid "Finish placing structures."
 msgstr "Finish placing structures."
 
 msgid "Place stockpiles for item storage."
-msgstr "Legen Sie Stockpiles für die Lagerung von items an."
+msgstr "Platziere Vorratslager zur Objekt Lagerung. "
 
 msgid "Finish placing stockpiles."
 msgstr "Finish placing stockpiles."
@@ -14322,14 +14323,14 @@ msgid ""
 "Start painting a new stockpile.  Once the tiles are chosen, you'll be able "
 "to set the details."
 msgstr ""
-"Beginnen Sie mit der Markierung eines Stockpiles. Sobald die Fläche "
+"Beginnen Sie mit der Markierung eines Vorratslager. Sobald die Fläche "
 "ausgewählt ist, können Sie die Details festlegen."
 
 msgid ""
 "Remove the stockpile being painted permanently.  Also removes existing "
 "zones!"
 msgstr ""
-"Entfernt das Stockpile, das permanent bearbeitet wurde. Entfernt auch "
+"Entfernt das Vorratslager, das permanent bearbeitet wurde. Entfernt auch "
 "bestehende Zonen!"
 
 msgid "Repaint this stockpile."
@@ -14339,26 +14340,26 @@ msgid "Erase a portion of this stockpile."
 msgstr "Erase a portion of this stockpile."
 
 msgid "Remove this stockpile permanently."
-msgstr "Entfernen Sie dieses Stockpile endgültig."
+msgstr "Entfernen Sie dieses Vorratslager endgültig."
 
 msgid ""
 "Toggle whether the stockpile can take items from anywhere or only from "
 "specific workshops and stockpiles."
 msgstr ""
-"Schalten Sie um, ob das Stockpile von überall oder nur von bestimmten "
-"Werkstätten und Stockpiles Items aufnehmen kann."
+"Schalten Sie um, ob das Vorratslager Objekte von überall oder nur von "
+"bestimmten Werkstätten und Vorratslager aufnehmen kann."
 
 msgid ""
 "Set from which workshops and stockpiles this stockpile gives and takes "
 "items."
 msgstr ""
-"Legen Sie fest, aus welchen Werkstätten und Stockpiles dieses Stockpile "
-"Items gibt und nimmt."
+"Legen Sie fest, aus welchen Werkstätten und Vorratslager dieses Vorratslager"
+" Objekte gibt und nimmt."
 
 msgid "Set how many barrerls, bins, and wheelbarrows this stockpile can use."
 msgstr ""
-"Legen Sie fest, wie viele Fässer, Tonnen und Schubkarren dieses Stockpile "
-"verwenden kann."
+"Legen Sie fest, wie viele Fässer, Tonnen und Schubkarren dieses Vorratslager"
+" verwenden kann."
 
 msgid "Place zones to establish meeting areas, pastures, and more."
 msgstr ""
@@ -14751,15 +14752,15 @@ msgid ""
 "Toggle whether the stockpile allows plant and animal-based objects, "
 "regardless of other settings."
 msgstr ""
-"Schaltet um, ob das Stockpile pflanzliche und tierische Objekte zulässt, "
+"Schaltet um, ob das Vorratslager pflanzliche und tierische Objekte zulässt, "
 "unabhängig von anderen Einstellungen."
 
 msgid ""
 "Toggle whether the stockpile allows non-plant-and-animal-based objects, "
 "regardless of other settings."
 msgstr ""
-"Schaltet um, ob der Stockpile Objekte zulässt, die nicht auf Pflanzen und "
-"Tieren basieren, unabhängig von anderen Einstellungen."
+"Schaltet um, ob der Vorratslager Objekte zulässt, die nicht auf Pflanzen und"
+" Tieren basieren, unabhängig von anderen Einstellungen."
 
 msgid "Toggle whether goods banned by export mandates are listed."
 msgstr ""
@@ -15217,7 +15218,7 @@ msgid "Recenter on the linked building."
 msgstr "Richten Sie den Blick auf das verbundene Gebäude."
 
 msgid "Add stockpile links for this workshop."
-msgstr "Fügen sie Stockpiles Links zu dieser Werkstatt hinzu."
+msgstr "Fügen sie Vorratslager Links zu dieser Werkstatt hinzu."
 
 msgid ""
 "This item is a permanent part of the building.  Forbid and visibility tags "
@@ -15375,46 +15376,49 @@ msgstr "Schaltet um, ob der Trupp hier Ausrüstung lagert, z. B. Munition."
 
 msgid "Choose a stockpile to which the track stop's vehicle will give items."
 msgstr ""
-"Wählen Sie ein Stockpile aus, an die das Fahrzeug des Streckenstopps "
+"Wählen Sie ein Vorratslager aus, an die das Fahrzeug des Streckenstopps "
 "Gegenstände abgeben soll."
 
 msgid ""
 "Choose a stockpile from which the track stop's vehicle will take items."
 msgstr ""
-"Wählen Sie ein Stockpile aus, aus der das Fahrzeug des Streckenstopps "
+"Wählen Sie ein Vorratslager aus, aus der das Fahrzeug des Streckenstopps "
 "Gegenstände entnehmen soll."
 
 msgid ""
 "Choose a stockpile with which the track stop's vehicle will exchange items."
 "  The vehicle will take desired items and offload any others."
 msgstr ""
-"Wählen Sie ein Stockpile aus, mit der das Fahrzeug des Streckenstopps "
+"Wählen Sie ein Vorratslager aus, mit der das Fahrzeug des Streckenstopps "
 "Gegenstände austauschen soll. Das Fahrzeug nimmt die gewünschten Gegenstände"
 " mit und lädt alle anderen ab."
 
 msgid "Choose a stockpile to which the workshop will give items."
 msgstr ""
-"Wählen Sie ein Stockpile aus, an das die Werkstatt Gegenstände abgeben soll."
+"Wählen Sie ein Vorratslager aus, an das die Werkstatt Gegenstände abgeben "
+"soll."
 
 msgid "Choose a stockpile from which the workshop will take items."
 msgstr ""
-"Wählen Sie ein Stockpile aus, aus dem die Werkstatt Gegenstände entnehmen "
-"soll."
+"Wählen Sie ein Vorratslager aus, aus dem die Werkstatt Gegenstände entnehmen"
+" soll."
 
 msgid "Choose a stockpile to which the selected stockpile will give items."
 msgstr ""
-"Wähle ein Stockpile das dem ausgewählten Stockpile Gegenstände geben soll"
+"Wähle ein Vorratslager, an den das ausgewählte Vorratslager Gegenstände "
+"abgeben soll."
 
 msgid "Choose a stockpile from which the selected stockpile will take items."
 msgstr ""
-"Wähle ein Stockpile das vom ausgewählten Stockpile Gegenstände nehmen soll"
+"Wähle ein Vorratslager das vom ausgewählten Vorratslager Gegenstände nehmen "
+"soll"
 
 msgid ""
 "The track stop's vehicle will exchange items with this stockpile.  The "
 "vehicle will take desired items and offload any others."
 msgstr ""
-"Das Fahrzeug des Streckenstopps tauscht Items mit diesen Stockpile aus. Das "
-"Fahrzeug nimmt die gewünschten Items mit und lädt alle anderen ab."
+"Das Fahrzeug des Streckenstopps tauscht Objekte mit diesen Vorratslager aus."
+" Das Fahrzeug nimmt die gewünschten Objekte mit und lädt alle anderen ab."
 
 msgid "The track stop's vehicle will take items from this stockpile."
 msgstr "The track stop's vehicle will take items from this stockpile."
@@ -15430,10 +15434,10 @@ msgid "The selected workshop will give items to here."
 msgstr "Die ausgewählte Werkstatt wird hier Items zur Verfügung stellen."
 
 msgid "The selected stockpile will take items from here."
-msgstr "Das ausgewählte Stockpile nimmt Items von hier."
+msgstr "Das ausgewählte Vorratslager nimmt Objekte von hier."
 
 msgid "The selected stockpile will give items to here."
-msgstr "Das ausgewählte Stockpile wird hier Items abgeben."
+msgstr "Das ausgewählte Vorratslager wird hier Objekte abgeben."
 
 msgid "The creature is chained."
 msgstr "Die Kreatur ist angekettet."
@@ -16985,7 +16989,7 @@ msgstr ""
 "Ihr Buchhalter muss in einem Büro arbeiten, um die Genauigkeit zu verbessern"
 
 msgid "The stockpile records are "
-msgstr "Die Aufzeichnungen über die Lagerbestände sind "
+msgstr "Die Aufzeichnungen über die Vorratslager sind "
 
 #, python-format
 msgid "% updated toward the next precision level."
@@ -30850,7 +30854,7 @@ msgid "Caste Selection Fails: "
 msgstr "Caste Selection Fails: "
 
 msgid "logs"
-msgstr "protokolle (logs)"
+msgstr "Staemme"
 
 msgid "--- Logging Creature "
 msgstr "--- Logging Creature "
@@ -38464,7 +38468,7 @@ msgid " Crafts"
 msgstr " Kunsthandwerk"
 
 msgid " Logs"
-msgstr " Logs"
+msgstr "Staemme"
 
 msgid "Prepared Food"
 msgstr "Vorbereitetes Essen"
@@ -49104,7 +49108,7 @@ msgid "Place item in tomb"
 msgstr "Place item in tomb"
 
 msgid "Store item in stockpile"
-msgstr "Gegenstand im Lager ablegen"
+msgstr "Objekt im Vorratslager ablegen"
 
 msgid "Store item in bag"
 msgstr "Gegenstand in der Tasche aufbewahren"
