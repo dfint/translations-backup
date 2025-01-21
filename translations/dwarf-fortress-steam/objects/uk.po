@@ -3,7 +3,6 @@
 # Kostia BabiCh, 2024
 # Daniel Lotsman, 2024
 # Issilvar, 2024
-# Son_Odina, 2024
 # Mikhail M (insolor), 2025
 # 
 msgid ""
@@ -2858,7 +2857,7 @@ msgstr "[BP:RHORN:правий гіллястий ріг:праві гілляс
 #: body_default.txt:1314
 msgctxt "BODY:2HEAD_ANTLER"
 msgid "[BP:LHORN:left antler:STP]"
-msgstr "[BP:RHORN:лівий гіллястий ріг:ліві гіллясті роги]"
+msgstr "[BP:LHORN:лівий гіллястий ріг:ліві гіллясті роги]"
 
 #: body_default.txt:1318
 msgctxt "BODY:1EYE"
@@ -3614,12 +3613,12 @@ msgstr "[BP:L_TRUE_RIB:ліве справжнє ребро:ліві справ�
 #: body_default.txt:1657
 msgctxt "BODY:RIBCAGE"
 msgid "[BP:R_TRUE_RIB:right true rib:STP]"
-msgstr "[BP:L_TRUE_RIB:праве справжнє ребро:праві справжні ребра]"
+msgstr "[BP:R_TRUE_RIB:праве справжнє ребро:праві справжні ребра]"
 
 #: body_default.txt:1659
 msgctxt "BODY:RIBCAGE"
 msgid "[BP:L_FALSE_RIB:left false rib:STP]"
-msgstr "[BP:L_TRUE_RIB:ліве несправжнє ребро:ліві несправжні ребра]"
+msgstr "[BP:L_FALSE_RIB:ліве несправжнє ребро:ліві несправжні ребра]"
 
 #: body_default.txt:1661
 msgctxt "BODY:RIBCAGE"
@@ -3629,7 +3628,7 @@ msgstr "[BP:R_FALSE_RIB:праве несправжнє ребро:праві н
 #: body_default.txt:1663
 msgctxt "BODY:RIBCAGE"
 msgid "[BP:L_FLOATING_RIB:left floating rib:STP]"
-msgstr "[BP:L_TRUE_RIB:ліве вільне ребро:левые свободные рёбра]"
+msgstr "[BP:L_FLOATING_RIB:ліве вільне ребро:ліві вільні ребра]"
 
 #: body_default.txt:1665
 msgctxt "BODY:RIBCAGE"
@@ -3699,7 +3698,7 @@ msgstr "[BP:TOOTH:зуб:зуби]"
 #: body_default.txt:1701
 msgctxt "BODY:TEETH"
 msgid "[BP:U_F_TOOTH:upper front tooth:upper front teeth]"
-msgstr "U_F_TOOTH:верхній передній зуб:верхні передні зуби]"
+msgstr "[BP:U_F_TOOTH:верхній передній зуб:верхні передні зуби]"
 
 #: body_default.txt:1704
 msgctxt "BODY:TEETH"
@@ -3726,17 +3725,17 @@ msgstr "[INDIVIDUAL_NAME:верхній лівий другий різець:в�
 #: body_default.txt:1708
 msgctxt "BODY:TEETH"
 msgid "[INDIVIDUAL_NAME:right eye tooth:right eye teeth]"
-msgstr "зуб правого ока:зуби правого ока]"
+msgstr "[INDIVIDUAL_NAME:зуб правого ока:зуби правого ока]"
 
 #: body_default.txt:1709
 msgctxt "BODY:TEETH"
 msgid "[INDIVIDUAL_NAME:left eye tooth:left eye teeth]"
-msgstr "лівий очний зуб:ліві очні зуби]"
+msgstr "[INDIVIDUAL_NAME:лівий очний зуб:ліві очні зуби]"
 
 #: body_default.txt:1710
 msgctxt "BODY:TEETH"
 msgid "[BP:L_F_TOOTH:lower front tooth:lower front teeth]"
-msgstr "L_F_TOOTH:нижній передній зуб:нижні передні зуби]"
+msgstr "[BP:L_F_TOOTH:нижній передній зуб:нижні передні зуби]"
 
 #: body_default.txt:1712
 msgctxt "BODY:TEETH"
@@ -3771,54 +3770,61 @@ msgstr "[INDIVIDUAL_NAME:нижнє ліве ікло:нижні ліві ікл
 #: body_default.txt:1718
 msgctxt "BODY:TEETH"
 msgid "[BP:U_R_B_TOOTH:upper right back tooth:upper right back teeth]"
-msgstr "U_R_B_TOOTH:верхній правий задній зуб:верхні праві задні зуби]"
+msgstr "[BP:U_R_B_TOOTH:верхній правий задній зуб:верхні праві задні зуби]"
 
 #: body_default.txt:1720
 msgctxt "BODY:TEETH"
 msgid "[INDIVIDUAL_NAME:first upper right premolar:STP]"
 msgstr ""
-"[INDIVIDUAL_NAME:верхній правий перший малий корінний зуб:верхні праві перші"
-" малі корінні зуби]"
+"[INDIVIDUAL_NAME:верхній правий перший премоляр:верхні праві перші "
+"премоляри]"
 
 #: body_default.txt:1721
 msgctxt "BODY:TEETH"
 msgid "[INDIVIDUAL_NAME:second upper right premolar:STP]"
-msgstr "[INDIVIDUAL_NAME:другий верхній правий премоляр:STP]"
+msgstr ""
+"[INDIVIDUAL_NAME:верхній правий другий премоляр:верхні праві другі "
+"премоляри]"
 
 #: body_default.txt:1722
 msgctxt "BODY:TEETH"
 msgid "[INDIVIDUAL_NAME:first upper right molar:STP]"
-msgstr "[INDIVIDUAL_NAME:перший верхній правий моляр:STP]"
+msgstr ""
+"[INDIVIDUAL_NAME:верхній правий перший моляр:верхні праві перші моляри]"
 
 #: body_default.txt:1723
 msgctxt "BODY:TEETH"
 msgid "[INDIVIDUAL_NAME:second upper right molar:STP]"
-msgstr "[INDIVIDUAL_NAME:другий верхній правий моляр:STP]"
+msgstr ""
+"[INDIVIDUAL_NAME:верхній правий другий моляр:верхні праві другі моляри]"
 
 #: body_default.txt:1724
 msgctxt "BODY:TEETH"
 msgid "[BP:L_R_B_TOOTH:lower right back tooth:lower right back teeth]"
-msgstr "L_R_B_TOOTH:нижній правий задній зуб:нижні праві задні зуби]"
+msgstr "[BP:L_R_B_TOOTH:нижній правий задній зуб:нижні праві задні зуби]"
 
 #: body_default.txt:1726
 msgctxt "BODY:TEETH"
 msgid "[INDIVIDUAL_NAME:first lower right premolar:STP]"
-msgstr "[INDIVIDUAL_NAME:перший нижній правий премоляр:STP]"
+msgstr ""
+"[INDIVIDUAL_NAME:нижній правий перший премоляр:нижні праві перші премоляри]"
 
 #: body_default.txt:1727
 msgctxt "BODY:TEETH"
 msgid "[INDIVIDUAL_NAME:second lower right premolar:STP]"
-msgstr "[INDIVIDUAL_NAME:другий нижній правий премоляр:STP]"
+msgstr ""
+"[INDIVIDUAL_NAME:нижній правий другий премоляр:нижні праві другі премоляри]"
 
 #: body_default.txt:1728
 msgctxt "BODY:TEETH"
 msgid "[INDIVIDUAL_NAME:first lower right molar:STP]"
-msgstr "[INDIVIDUAL_NAME:перший нижній правий моляр:STP]"
+msgstr "[INDIVIDUAL_NAME:нижній правий перший моляр:нижні праві перші моляри]"
 
 #: body_default.txt:1729
 msgctxt "BODY:TEETH"
 msgid "[INDIVIDUAL_NAME:second lower right molar:STP]"
-msgstr "[INDIVIDUAL_NAME:перший нижній правий моляр:STP]"
+msgstr ""
+"[INDIVIDUAL_NAME:нижній правий другий моляр:нижние правые вторые моляры]"
 
 #: body_default.txt:1730
 msgctxt "BODY:TEETH"
@@ -3828,32 +3834,35 @@ msgstr "[BP:U_L_B_TOOTH:верхній лівий корінний зуб:вер
 #: body_default.txt:1732
 msgctxt "BODY:TEETH"
 msgid "[INDIVIDUAL_NAME:first upper left premolar:STP]"
-msgstr "[INDIVIDUAL_NAME:перший верхній лівий премоляр:STP]"
+msgstr ""
+"[INDIVIDUAL_NAME:верхній лівий перший премоляр:верхні ліві перші премоляри]"
 
 #: body_default.txt:1733
 msgctxt "BODY:TEETH"
 msgid "[INDIVIDUAL_NAME:second upper left premolar:STP]"
-msgstr "[INDIVIDUAL_NAME:другий верхній лівий премоляр:STP]"
+msgstr ""
+"[INDIVIDUAL_NAME:верхній лівий другий премоляр:верхні ліві другі премоляри]"
 
 #: body_default.txt:1734
 msgctxt "BODY:TEETH"
 msgid "[INDIVIDUAL_NAME:first upper left molar:STP]"
-msgstr "[INDIVIDUAL_NAME:перший верхній лівий моляр:STP]"
+msgstr "[INDIVIDUAL_NAME:верхній лівий перший моляр:верхні ліві перші моляри]"
 
 #: body_default.txt:1735
 msgctxt "BODY:TEETH"
 msgid "[INDIVIDUAL_NAME:second upper left molar:STP]"
-msgstr "[INDIVIDUAL_NAME:другий верхній лівий моляр:STP]"
+msgstr "[INDIVIDUAL_NAME:верхній лівий другий моляр:верхні ліві другі моляри]"
 
 #: body_default.txt:1736
 msgctxt "BODY:TEETH"
 msgid "[BP:L_L_B_TOOTH:lower left back tooth:lower left back teeth]"
-msgstr "L_L_B_TOOTH:нижній лівий задній зуб:нижні ліві задні зуби]"
+msgstr "[BP:L_L_B_TOOTH:нижній лівий задній зуб:нижні ліві задні зуби]"
 
 #: body_default.txt:1738
 msgctxt "BODY:TEETH"
 msgid "[INDIVIDUAL_NAME:first lower left premolar:STP]"
-msgstr "[INDIVIDUAL_NAME:перший нижній лівий премоляр:STP]"
+msgstr ""
+"[INDIVIDUAL_NAME:нижній лівий перший премоляр:нижні ліві перші премоляри]"
 
 #: body_default.txt:1739
 msgctxt "BODY:TEETH"
@@ -3863,7 +3872,7 @@ msgstr "[INDIVIDUAL_NAME:другий нижній лівий премоляр:S
 #: body_default.txt:1740
 msgctxt "BODY:TEETH"
 msgid "[INDIVIDUAL_NAME:first lower left molar:STP]"
-msgstr "[INDIVIDUAL_NAME:перший нижній лівий моляр:STP]"
+msgstr "[INDIVIDUAL_NAME:нижній лівий перший моляр:нижні ліві перші моляри]"
 
 #: body_default.txt:1741
 msgctxt "BODY:TEETH"
@@ -4968,62 +4977,62 @@ msgstr "[BP:TOOTH:зуб:зуби]"
 #: body_rcp.txt:545
 msgctxt "BODY:RCP_RIBS"
 msgid "[BP:L_TRUE_RIB:left true rib:STP]"
-msgstr ""
+msgstr "[BP:L_TRUE_RIB:ліве справжнє ребро:ліві справжні ребра]"
 
 #: body_rcp.txt:547
 msgctxt "BODY:RCP_RIBS"
 msgid "[BP:R_TRUE_RIB:right true rib:STP]"
-msgstr ""
+msgstr "[BP:R_TRUE_RIB:праве справжнє ребро:праві справжні ребра]"
 
 #: body_rcp.txt:549
 msgctxt "BODY:RCP_RIBS"
 msgid "[BP:L_FALSE_RIB:left false rib:STP]"
-msgstr ""
+msgstr "[BP:L_FALSE_RIB:ліве несправжнє ребро:ліві несправжні ребра]"
 
 #: body_rcp.txt:551
 msgctxt "BODY:RCP_RIBS"
 msgid "[BP:R_FALSE_RIB:right false rib:STP]"
-msgstr ""
+msgstr "[BP:R_FALSE_RIB:праве несправжнє ребро:праві несправжні ребра]"
 
 #: body_rcp.txt:553
 msgctxt "BODY:RCP_RIBS"
 msgid "[BP:L_FLOATING_RIB:left floating rib:STP]"
-msgstr ""
+msgstr "[BP:L_FLOATING_RIB:ліве вільне ребро:ліві вільні ребра]"
 
 #: body_rcp.txt:555
 msgctxt "BODY:RCP_RIBS"
 msgid "[BP:R_FLOATING_RIB:right floating rib:STP]"
-msgstr ""
+msgstr "[BP:R_FLOATING_RIB:праве вільне ребро:праві вільні ребра]"
 
 #: body_rcp.txt:559
 msgctxt "BODY:RCP_RIBS_EXTERNAL"
 msgid "[BP:L_TRUE_RIB:left true rib:STP]"
-msgstr ""
+msgstr "[BP:L_TRUE_RIB:ліве справжнє ребро:ліві справжні ребра]"
 
 #: body_rcp.txt:561
 msgctxt "BODY:RCP_RIBS_EXTERNAL"
 msgid "[BP:R_TRUE_RIB:right true rib:STP]"
-msgstr ""
+msgstr "[BP:R_TRUE_RIB:праве справжнє ребро:праві справжні ребра]"
 
 #: body_rcp.txt:563
 msgctxt "BODY:RCP_RIBS_EXTERNAL"
 msgid "[BP:L_FALSE_RIB:left false rib:STP]"
-msgstr ""
+msgstr "[BP:L_FALSE_RIB:ліве несправжнє ребро:ліві несправжні ребра]"
 
 #: body_rcp.txt:565
 msgctxt "BODY:RCP_RIBS_EXTERNAL"
 msgid "[BP:R_FALSE_RIB:right false rib:STP]"
-msgstr ""
+msgstr "[BP:R_FALSE_RIB:праве несправжнє ребро:праві несправжні ребра]"
 
 #: body_rcp.txt:567
 msgctxt "BODY:RCP_RIBS_EXTERNAL"
 msgid "[BP:L_FLOATING_RIB:left floating rib:STP]"
-msgstr ""
+msgstr "[BP:L_FLOATING_RIB:ліве вільне ребро:ліві вільні ребра]"
 
 #: body_rcp.txt:569
 msgctxt "BODY:RCP_RIBS_EXTERNAL"
 msgid "[BP:R_FLOATING_RIB:right floating rib:STP]"
-msgstr ""
+msgstr "[BP:R_FLOATING_RIB:праве вільне ребро:праві вільні ребра]"
 
 #: body_rcp.txt:573
 msgctxt "BODY:RCP_LIPS"
@@ -5093,12 +5102,12 @@ msgstr "[BP:BILL:дзьоб:дзьоби]"
 #: body_rcp.txt:613
 msgctxt "BODY:RCP_2_HEAD_ANTLERS"
 msgid "[BP:HEAD_ANTLER_1:left antler:STP]"
-msgstr ""
+msgstr "[BP:HEAD_ANTLER_1:лівий гіллястий ріг:ліві гіллясті роги]"
 
 #: body_rcp.txt:615
 msgctxt "BODY:RCP_2_HEAD_ANTLERS"
 msgid "[BP:HEAD_ANTLER_2:right antler:STP]"
-msgstr ""
+msgstr "[BP:HEAD_ANTLER_2:правий гіллястий ріг:праві гіллясті роги]"
 
 #: tissue_template_default.txt:6
 msgctxt "TISSUE_TEMPLATE:SKIN_TEMPLATE"
@@ -5118,7 +5127,7 @@ msgstr "[TISSUE_NAME:м'яз:м'язи]"
 #: tissue_template_default.txt:47
 msgctxt "TISSUE_TEMPLATE:BONE_TEMPLATE"
 msgid "[TISSUE_NAME:bone:NP]"
-msgstr "[TISSUE_NAME:кістка:NP]"
+msgstr "[TISSUE_NAME:кістка:кістки]"
 
 #: tissue_template_default.txt:61
 msgctxt "TISSUE_TEMPLATE:SHELL_TEMPLATE"
@@ -5128,12 +5137,12 @@ msgstr "[TISSUE_NAME:панцир:NP]"
 #: tissue_template_default.txt:72
 msgctxt "TISSUE_TEMPLATE:HORN_TEMPLATE"
 msgid "[TISSUE_NAME:horn:NP]"
-msgstr "[TISSUE_NAME:ріг:NP]"
+msgstr "[TISSUE_NAME:ріг:роги]"
 
 #: tissue_template_default.txt:80
 msgctxt "TISSUE_TEMPLATE:HOOF_TEMPLATE"
 msgid "[TISSUE_NAME:hoof:NP]"
-msgstr "[TISSUE_NAME:копито:NP]"
+msgstr "[TISSUE_NAME:копито:копита]"
 
 #: tissue_template_default.txt:88
 msgctxt "TISSUE_TEMPLATE:CARTILAGE_TEMPLATE"
@@ -5148,12 +5157,12 @@ msgstr "[TISSUE_NAME:волосся:NP]"
 #: tissue_template_default.txt:106
 msgctxt "TISSUE_TEMPLATE:CHEEK_WHISKERS_TEMPLATE"
 msgid "[TISSUE_NAME:cheek whisker:STP]"
-msgstr "[TISSUE_NAME:вібриси на щоках:STP]"
+msgstr "[TISSUE_NAME:вібрис на щоках:вібриси на щоках]"
 
 #: tissue_template_default.txt:115
 msgctxt "TISSUE_TEMPLATE:CHIN_WHISKERS_TEMPLATE"
 msgid "[TISSUE_NAME:chin whisker:STP]"
-msgstr "[TISSUE_NAME:вібриси на підборідді:STP]"
+msgstr "[TISSUE_NAME:вібрис на підборідді:вібриси на підборідді]"
 
 #: tissue_template_default.txt:124
 msgctxt "TISSUE_TEMPLATE:MOUSTACHE_TEMPLATE"
@@ -51405,7 +51414,7 @@ msgstr "[NAME_PLURAL:рибальські ягоди]"
 #: plant_standard.txt:546
 msgctxt "PLANT:BERRIES_FISHER"
 msgid "[ADJ:fisher berry]"
-msgstr "[NAME:рибальська ягода]"
+msgstr "[ADJ:рибальська ягода]"
 
 #: plant_standard.txt:559
 msgctxt "PLANT:BERRIES_FISHER"
