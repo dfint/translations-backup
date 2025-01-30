@@ -5334,7 +5334,8 @@ msgstr "[NAME:Мастерская мыловара]"
 msgctxt "BUILDING_WORKSHOP:SOAP_MAKER"
 msgid "[TOOLTIP:Use tallow (rendered fat) or oil here with lye to make soap.]"
 msgstr ""
-"[TOOLTIP:Используйте жир (топленый жир) или масло с щелоком для варки мыла.]"
+"[TOOLTIP:Используйте смалец (топленый жир) или масло с щелоком для варки "
+"мыла.]"
 
 #: building_custom.txt:44
 msgctxt "BUILDING_WORKSHOP:SCREW_PRESS"
@@ -44602,22 +44603,22 @@ msgstr "[STATE_ADJ:LIQUID:расплавленное мыло]"
 #: material_template_default.txt:1892
 msgctxt "MATERIAL_TEMPLATE:TALLOW_TEMPLATE"
 msgid "[STATE_NAME:ALL_SOLID:tallow]"
-msgstr "[STATE_NAME:ALL_SOLID:топлёный жир]"
+msgstr "[STATE_NAME:ALL_SOLID:смалец]"
 
 #: material_template_default.txt:1893
 msgctxt "MATERIAL_TEMPLATE:TALLOW_TEMPLATE"
 msgid "[STATE_ADJ:ALL_SOLID:tallow]"
-msgstr "[STATE_ADJ:ALL_SOLID:топлёный жир]"
+msgstr "[STATE_ADJ:ALL_SOLID:смалец]"
 
 #: material_template_default.txt:1895
 msgctxt "MATERIAL_TEMPLATE:TALLOW_TEMPLATE"
 msgid "[STATE_NAME:LIQUID:melted tallow]"
-msgstr "[STATE_NAME:LIQUID:расплавленный жир]"
+msgstr "[STATE_NAME:LIQUID:расплавленный смалец]"
 
 #: material_template_default.txt:1896
 msgctxt "MATERIAL_TEMPLATE:TALLOW_TEMPLATE"
 msgid "[STATE_ADJ:LIQUID:melted tallow]"
-msgstr "[STATE_ADJ:LIQUID:расплавленный жир]"
+msgstr "[STATE_ADJ:LIQUID:расплавленный смалец]"
 
 #: material_template_default.txt:1942
 msgctxt "MATERIAL_TEMPLATE:CHITIN_TEMPLATE"
@@ -55337,7 +55338,7 @@ msgstr "[NAME:топить жир]"
 #: reaction_other.txt:27
 msgctxt "REACTION:MAKE_SOAP_FROM_TALLOW"
 msgid "[NAME:make soap from tallow]"
-msgstr "[NAME:варить мыло из топлёного жира]"
+msgstr "[NAME:варить мыло из смальца]"
 
 #: reaction_other.txt:29
 msgctxt "REACTION:MAKE_SOAP_FROM_TALLOW"
@@ -55357,12 +55358,12 @@ msgstr "[CONTAINS:щёлок]"
 #: reaction_other.txt:34
 msgctxt "REACTION:MAKE_SOAP_FROM_TALLOW"
 msgid "[REAGENT:tallow:]"
-msgstr "[REAGENT:топлёный жир:]"
+msgstr "[REAGENT:смалец:]"
 
 #: reaction_other.txt:36
 msgctxt "REACTION:MAKE_SOAP_FROM_TALLOW"
 msgid "[PRODUCT:100:1:BAR:NONE:GET_MATERIAL_FROM_REAGENT:tallow:]"
-msgstr "[PRODUCT:100:1:BAR:NONE:GET_MATERIAL_FROM_REAGENT:топлёный жир:]"
+msgstr "[PRODUCT:100:1:BAR:NONE:GET_MATERIAL_FROM_REAGENT:смалец:]"
 
 #: reaction_other.txt:41
 msgctxt "REACTION:MAKE_SOAP_FROM_OIL"
