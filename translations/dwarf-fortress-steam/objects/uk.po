@@ -4,10 +4,11 @@
 # Daniel Lotsman, 2024
 # Issilvar, 2024
 # Mikhail M (insolor), 2025
+# Oleksii Zaichenko, 2025
 # 
 msgid ""
 msgstr ""
-"Last-Translator: Mikhail M (insolor), 2025\n"
+"Last-Translator: Oleksii Zaichenko, 2025\n"
 "Language-Team: Ukrainian (https://app.transifex.com/dwarf-fortress-translation/teams/22396/uk/)\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -5310,6 +5311,8 @@ msgstr "[NAME:Майстерня миловара]"
 msgctxt "BUILDING_WORKSHOP:SOAP_MAKER"
 msgid "[TOOLTIP:Use tallow (rendered fat) or oil here with lye to make soap.]"
 msgstr ""
+"[TOOLTIP:Використовуйте сало (витоплений жир) або олію з лугом, щоб зробити "
+"мило]."
 
 #: building_custom.txt:44
 msgctxt "BUILDING_WORKSHOP:SCREW_PRESS"
@@ -5323,6 +5326,9 @@ msgid ""
 "plants might need to be milled first before they can be used.  Empty jugs "
 "are required to store the liquid products.]"
 msgstr ""
+"[TOOLTIP:Корисна майстерня для пресування рідин з різних джерел. Деякі "
+"рослини, можливо, доведеться спочатку подрібнити, перш ніж їх можна буде "
+"використовувати. Порожні глечики потрібні для зберігання рідких продуктів]."
 
 #: c_variation_default.txt:189
 msgctxt "CREATURE_VARIATION:ANIMAL_PERSON"
@@ -5690,6 +5696,8 @@ msgid ""
 "[DESCRIPTION:A squat amphibian with leathery skin, found in relatively dry "
 "areas.]"
 msgstr ""
+"[DESCRIPTION:Земноводна зі згрубілою шкірою, що мешкають у відносно сухих "
+"районах]."
 
 #: creature_amphibians.txt:7
 msgctxt "CREATURE:TOAD"
@@ -5739,7 +5747,7 @@ msgstr ""
 #: creature_amphibians.txt:88
 msgctxt "CREATURE:TOAD_MAN"
 msgid "[DESCRIPTION:A dark green man with the distinct head of a toad.]"
-msgstr ""
+msgstr "[DESCRIPTION:Темно-зелений чоловік з чітко вираженою головою жаби]."
 
 #: creature_amphibians.txt:104
 msgctxt "CREATURE:GIANT_TOAD"
@@ -5754,7 +5762,7 @@ msgstr ""
 #: creature_amphibians.txt:106
 msgctxt "CREATURE:GIANT_TOAD"
 msgid "[DESCRIPTION:A huge monster in the shape of a toad.]"
-msgstr ""
+msgstr "[DESCRIPTION:Величезне чудовисько у формі жаби]."
 
 #: creature_amphibians.txt:115
 msgctxt "CREATURE:GIANT_TOAD"
@@ -5767,6 +5775,8 @@ msgid ""
 "[DESCRIPTION:A tiny burrowing creature, found in moist soil.  It is legless,"
 " long and thin.]"
 msgstr ""
+"[DESCRIPTION:Крихітна риюча істота, що мешкає у вологому ґрунті. Вона "
+"безнога, довга і тонка]."
 
 #: creature_annelids.txt:7
 msgctxt "CREATURE:WORM"
@@ -5781,7 +5791,7 @@ msgstr "[CASTE_NAME:черв'як:черв'яки:черв'яка]"
 #: creature_annelids.txt:19
 msgctxt "CREATURE:WORM"
 msgid "[PREFSTRING:wriggling]"
-msgstr ""
+msgstr "[PREFSTRING:звиваючись]"
 
 #: creature_annelids.txt:30
 msgctxt "CREATURE:WORM"
@@ -5819,6 +5829,8 @@ msgid ""
 "[DESCRIPTION:A small blue-crested bird living in temperate woodlands, known "
 "for its harsh chirps.]"
 msgstr ""
+"[DESCRIPTION:Невеликий синьошийний птах, що мешкає в лісах помірного поясу, "
+"знаний своїм різким щебетанням]."
 
 #: creature_birds.txt:7
 msgctxt "CREATURE:BIRD_BLUEJAY"
@@ -5883,7 +5895,7 @@ msgstr ""
 #: creature_birds.txt:130
 msgctxt "CREATURE:BLUEJAY_MAN"
 msgid "[DESCRIPTION:A person with the head and wings of a bluejay.]"
-msgstr ""
+msgstr "[DESCRIPTION:Людина з головою і крилами сойки]."
 
 #: creature_birds.txt:146
 msgctxt "CREATURE:GIANT_BLUEJAY"
@@ -5980,7 +5992,7 @@ msgstr ""
 #: creature_birds.txt:289
 msgctxt "CREATURE:CARDINAL_MAN"
 msgid "[DESCRIPTION:A person with the head and wings of a cardinal.]"
-msgstr ""
+msgstr "[DESCRIPTION:Людина з головою і крилами кардинала]."
 
 #: creature_birds.txt:305
 msgctxt "CREATURE:GIANT_CARDINAL"
@@ -6001,7 +6013,7 @@ msgstr ""
 #: creature_birds.txt:308
 msgctxt "CREATURE:GIANT_CARDINAL"
 msgid "[DESCRIPTION:A huge monster in the form of a cardinal.]"
-msgstr ""
+msgstr "[DESCRIPTION:Величезне чудовисько в образі кардинала]."
 
 #: creature_birds.txt:317
 msgctxt "CREATURE:GIANT_CARDINAL"
@@ -8384,6 +8396,8 @@ msgid ""
 "[DESCRIPTION:A tiny, brightly-colored tree parrot.  It uses its tongue to "
 "feed on plants.]"
 msgstr ""
+"[DESCRIPTION:Крихітний, яскраво забарвлений деревний папуга. Він "
+"використовує язик, щоб харчуватися рослинами]."
 
 #: creature_birds_new.txt:2214
 msgctxt "CREATURE:BIRD_LORIKEET"
@@ -10342,7 +10356,7 @@ msgstr "[CASTE_NAME:гігантський кліщ:гігантські клі�
 #: creature_bug_slug_new.txt:693
 msgctxt "CREATURE:GIANT_TICK"
 msgid "[DESCRIPTION:A large monster taking the shape of a tick.]"
-msgstr ""
+msgstr "[DESCRIPTION:Велике чудовисько у формі кліща]."
 
 #: creature_bug_slug_new.txt:702
 msgctxt "CREATURE:GIANT_TICK"
@@ -54607,7 +54621,7 @@ msgstr ""
 #: reaction_other.txt:549
 msgctxt "REACTION:ASSEMBLE STONE AXE"
 msgid "[NAME:assemble stone axe]"
-msgstr ""
+msgstr "[NAME:змайструвати кам'яну сокиру]"
 
 #: reaction_other.txt:551
 msgctxt "REACTION:ASSEMBLE STONE AXE"
