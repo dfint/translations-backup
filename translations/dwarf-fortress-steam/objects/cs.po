@@ -6678,7 +6678,7 @@ msgstr "[ATTACK_VERB:chňapnout po:chňapat po]"
 #: creature_birds.txt:1406
 msgctxt "CREATURE:BIRD_KIWI"
 msgid "[ROOT_AROUND:BY_CATEGORY:BEAK:root around in:roots around in]"
-msgstr ""
+msgstr "[ROOT_AROUND:BY_CATEGORY:BEAK:kořen v okolí:kořeny v okolí]"
 
 #: creature_birds.txt:1409
 msgctxt "CREATURE:BIRD_KIWI"
@@ -6934,7 +6934,7 @@ msgstr "[ATTACK_VERB:kousnutí:kousnutí]"
 #: creature_birds_new.txt:87
 msgctxt "CREATURE:BIRD_CROW"
 msgid "[ATTACK_VERB:snatch at:snatches at]"
-msgstr ""
+msgstr "[ATTACK_VERB:utrhnout:utrhat]"
 
 #: creature_birds_new.txt:108
 msgctxt "CREATURE:BIRD_CROW"
@@ -7036,7 +7036,7 @@ msgstr "[ATTACK_VERB:kousnutí:kousnutí]"
 #: creature_birds_new.txt:256
 msgctxt "CREATURE:BIRD_RAVEN"
 msgid "[ATTACK_VERB:snatch at:snatches at]"
-msgstr ""
+msgstr "[ATTACK_VERB:utrhnout:utrhat]"
 
 #: creature_birds_new.txt:277
 msgctxt "CREATURE:BIRD_RAVEN"
@@ -7119,12 +7119,12 @@ msgstr "[CASTE_NAME:kasuár:kasuáři:kasuáří]"
 #: creature_birds_new.txt:349
 msgctxt "CREATURE:BIRD_CASSOWARY"
 msgid "[GENERAL_CHILD_NAME:cassowary chick:cassowary chicks]"
-msgstr ""
+msgstr "[GENERAL_CHILD_NAME:kuřátko kasuára:kazuáří kuřátka]"
 
 #: creature_birds_new.txt:362
 msgctxt "CREATURE:BIRD_CASSOWARY"
 msgid "[PREFSTRING:casques]"
-msgstr ""
+msgstr "[PREFSTRING:ptát se]"
 
 #: creature_birds_new.txt:404
 msgctxt "CREATURE:BIRD_CASSOWARY"
@@ -7184,7 +7184,7 @@ msgstr "[CASTE_NAME:obří kasuár:obří kasuáři:obřího kasuára]"
 #: creature_birds_new.txt:477
 msgctxt "CREATURE:GIANT_CASSOWARY"
 msgid "[GENERAL_CHILD_NAME:giant cassowary chick:giant cassowary chicks]"
-msgstr ""
+msgstr "[GENERAL_CHILD_NAME:obří kuřátko kasuára:obří kuřata kasuára]"
 
 #: creature_birds_new.txt:478
 msgctxt "CREATURE:GIANT_CASSOWARY"
@@ -7194,12 +7194,12 @@ msgstr "[DESCRIPTION:Obrovská příšera ve tvaru kasuára.]"
 #: creature_birds_new.txt:486
 msgctxt "CREATURE:GIANT_CASSOWARY"
 msgid "[PREFSTRING:casques]"
-msgstr ""
+msgstr "[PREFSTRING:přilby]"
 
 #: creature_birds_new.txt:494
 msgctxt "CREATURE:BIRD_KEA"
 msgid "[DESCRIPTION:A small, green, intelligent mountain parrot.]"
-msgstr ""
+msgstr "[DESCRIPTION:Malý, zelený, inteligentní horský papoušek.]"
 
 #: creature_birds_new.txt:495
 msgctxt "CREATURE:BIRD_KEA"
@@ -7214,12 +7214,12 @@ msgstr "[CASTE_NAME:kea:kea:kea]"
 #: creature_birds_new.txt:497
 msgctxt "CREATURE:BIRD_KEA"
 msgid "[GENERAL_CHILD_NAME:kea chick:kea chicks]"
-msgstr ""
+msgstr "[GENERAL_CHILD_NAME:kuře keya:kea kuřátka]"
 
 #: creature_birds_new.txt:523
 msgctxt "CREATURE:BIRD_KEA"
 msgid "[PREFSTRING:curiosity]"
-msgstr ""
+msgstr "[PREFSTRING:kuriozita]"
 
 #: creature_birds_new.txt:524
 msgctxt "CREATURE:BIRD_KEA"
@@ -7234,7 +7234,7 @@ msgstr "[ATTACK_VERB:kousnutí:kousnutí]"
 #: creature_birds_new.txt:572
 msgctxt "CREATURE:BIRD_KEA"
 msgid "[ATTACK_VERB:snatch at:snatches at]"
-msgstr ""
+msgstr "[ATTACK_VERB:utrhnout:utrhat]"
 
 #: creature_birds_new.txt:593
 msgctxt "CREATURE:BIRD_KEA"
@@ -7269,7 +7269,7 @@ msgstr "[NAME:mužský kea:mužští kea:mužského kea]"
 #: creature_birds_new.txt:622
 msgctxt "CREATURE:KEA_MAN"
 msgid "[DESCRIPTION:A green person with the head of a kea.]"
-msgstr ""
+msgstr "[DESCRIPTION:Zelený tvor s hlavou kea.]"
 
 #: creature_birds_new.txt:638
 msgctxt "CREATURE:GIANT_KEA"
@@ -7284,12 +7284,12 @@ msgstr "[CASTE_NAME:obří kea:obří kea:obřího kea]"
 #: creature_birds_new.txt:640
 msgctxt "CREATURE:GIANT_KEA"
 msgid "[GENERAL_CHILD_NAME:giant kea chick:giant kea chicks]"
-msgstr ""
+msgstr "[GENERAL_CHILD_NAME:obří kuře kea:obří kea kuřata]"
 
 #: creature_birds_new.txt:641
 msgctxt "CREATURE:GIANT_KEA"
 msgid "[DESCRIPTION:A monster many times the size of an ordinary kea.]"
-msgstr ""
+msgstr "[DESCRIPTION:Monstrum mnohokrát větší než obyčejný kea.]"
 
 #: creature_birds_new.txt:650
 msgctxt "CREATURE:GIANT_KEA"
@@ -7307,6 +7307,7 @@ msgid ""
 "[DESCRIPTION:A small white bird that hunts in the coldest reaches of the "
 "world.]"
 msgstr ""
+"[DESCRIPTION:Malý bílý pták, který loví v nejchladnějších končinách světa.]"
 
 #: creature_birds_new.txt:665
 msgctxt "CREATURE:BIRD_OWL_SNOWY"
@@ -7341,7 +7342,7 @@ msgstr "[ATTACK_VERB:kousnutí:kousnutí]"
 #: creature_birds_new.txt:737
 msgctxt "CREATURE:BIRD_OWL_SNOWY"
 msgid "[ATTACK_VERB:snatch at:snatches at]"
-msgstr ""
+msgstr "[ATTACK_VERB:utrhnout:utrhat]"
 
 #: creature_birds_new.txt:755
 msgctxt "CREATURE:BIRD_OWL_SNOWY"
@@ -7413,6 +7414,8 @@ msgctxt "CREATURE:SPARROW"
 msgid ""
 "[DESCRIPTION:A tiny brown bird that can be found in most temperate regions.]"
 msgstr ""
+"[DESCRIPTION:Drobný hnědý ptáček, kterého lze nalézt ve většině mírných "
+"oblastí.]"
 
 #: creature_birds_new.txt:831
 msgctxt "CREATURE:SPARROW"
@@ -7427,7 +7430,7 @@ msgstr "[CASTE_NAME:vrabec:vrabci:vrabčí]"
 #: creature_birds_new.txt:833
 msgctxt "CREATURE:SPARROW"
 msgid "[GENERAL_CHILD_NAME:sparrow hatchling:sparrow hatchlings]"
-msgstr ""
+msgstr "[GENERAL_CHILD_NAME:mládě vrabce:mláďata vrabce]"
 
 #: creature_birds_new.txt:859
 msgctxt "CREATURE:SPARROW"
@@ -7447,7 +7450,7 @@ msgstr "[ATTACK_VERB:kousnutí:kousnutí]"
 #: creature_birds_new.txt:907
 msgctxt "CREATURE:SPARROW"
 msgid "[ATTACK_VERB:snatch at:snatches at]"
-msgstr ""
+msgstr "[ATTACK_VERB:utrhnout:utrhat]"
 
 #: creature_birds_new.txt:928
 msgctxt "CREATURE:SPARROW"
@@ -7482,7 +7485,7 @@ msgstr "[NAME:mužský vrabec:mužští vrabci:mužského vrabce]"
 #: creature_birds_new.txt:956
 msgctxt "CREATURE:SPARROW_MAN"
 msgid "[DESCRIPTION:A person with the head and wings of a sparrow.]"
-msgstr ""
+msgstr "[DESCRIPTION:Osoba s hlavou a křídly vrabce.]"
 
 #: creature_birds_new.txt:972
 msgctxt "CREATURE:GIANT_SPARROW"
@@ -7492,12 +7495,12 @@ msgstr "[NAME:obří vrabec:obří vrabci:obřího vrabce]"
 #: creature_birds_new.txt:973
 msgctxt "CREATURE:GIANT_SPARROW"
 msgid "[CASTE_NAME:giant sparrow:giant sparrows:giant sparrow]"
-msgstr ""
+msgstr "[CASTE_NAME:obří vrabec:obří vrabci:obří vrabec]"
 
 #: creature_birds_new.txt:974
 msgctxt "CREATURE:GIANT_SPARROW"
 msgid "[GENERAL_CHILD_NAME:giant sparrow hatchling:giant sparrow hatchlings]"
-msgstr ""
+msgstr "[GENERAL_CHILD_NAME:obří mládě vrabce:obří mláďata vrabce]"
 
 #: creature_birds_new.txt:975
 msgctxt "CREATURE:GIANT_SPARROW"
@@ -7507,12 +7510,12 @@ msgstr "[DESCRIPTION:Velká ptačí příšera ve tvaru vrabce.]"
 #: creature_birds_new.txt:984
 msgctxt "CREATURE:GIANT_SPARROW"
 msgid "[PREFSTRING:lovely songs]"
-msgstr ""
+msgstr "[PREFSTRING:oblíbená píseň]"
 
 #: creature_birds_new.txt:985
 msgctxt "CREATURE:GIANT_SPARROW"
 msgid "[PREFSTRING:dust baths]"
-msgstr ""
+msgstr "[PREFSTRING:prachové lázně]"
 
 #: creature_birds_new.txt:998
 msgctxt "CREATURE:BIRD_STORK_WHITE"
@@ -7520,6 +7523,8 @@ msgid ""
 "[DESCRIPTION:A small bird with long legs and bill, and a extremely long "
 "wingspan.]"
 msgstr ""
+"[DESCRIPTION:Malý pták s dlouhýma nohama a zobákem a extrémně dlouhým "
+"rozpětím křídel.]"
 
 #: creature_birds_new.txt:999
 msgctxt "CREATURE:BIRD_STORK_WHITE"
@@ -7529,12 +7534,12 @@ msgstr "[NAME:čáp bílý:čápi bílý:čápa bílého]"
 #: creature_birds_new.txt:1000
 msgctxt "CREATURE:BIRD_STORK_WHITE"
 msgid "[CASTE_NAME:white stork:white storks:white stork]"
-msgstr ""
+msgstr "[CASTE_NAME:čáp bílý:čápy bílý:čáp bílý]"
 
 #: creature_birds_new.txt:1001
 msgctxt "CREATURE:BIRD_STORK_WHITE"
 msgid "[GENERAL_CHILD_NAME:white stork hatchling:white stork hatchlings]"
-msgstr ""
+msgstr "[GENERAL_CHILD_NAME:mládě čápa bílého:mláďata čápa bílého]"
 
 #: creature_birds_new.txt:1019
 msgctxt "CREATURE:BIRD_STORK_WHITE"
@@ -7549,7 +7554,7 @@ msgstr "[PREFSTRING:dlouhé nohy]"
 #: creature_birds_new.txt:1021
 msgctxt "CREATURE:BIRD_STORK_WHITE"
 msgid "[PREFSTRING:long bills]"
-msgstr ""
+msgstr "[PREFSTRING:dlouhé polibky]"
 
 #: creature_birds_new.txt:1057
 msgctxt "CREATURE:BIRD_STORK_WHITE"
@@ -7592,6 +7597,7 @@ msgid ""
 "[DESCRIPTION:A person with the head and wings of a stork, also standing on "
 "long legs.]"
 msgstr ""
+"[DESCRIPTION:Člověk s hlavou a křídly čápa, který stojí na dlouhých nohách.]"
 
 #: creature_birds_new.txt:1121
 msgctxt "CREATURE:GIANT_WHITE_STORK"
@@ -7628,7 +7634,7 @@ msgstr "[PREFSTRING:dlouhé nohy]"
 #: creature_birds_new.txt:1135
 msgctxt "CREATURE:GIANT_WHITE_STORK"
 msgid "[PREFSTRING:long bills]"
-msgstr ""
+msgstr "[PREFSTRING:dlouhé polibky]"
 
 #: creature_birds_new.txt:1148
 msgctxt "CREATURE:BIRD_LOON"
@@ -7636,6 +7642,8 @@ msgid ""
 "[DESCRIPTION:A small water bird found in remote lakes.  It is known for its "
 "haunting call.]"
 msgstr ""
+"[DESCRIPTION:Malý vodní pták nalezený v odlehlých jezerech. Je známý svým "
+"strašidelným zpěvěm.]"
 
 #: creature_birds_new.txt:1149
 msgctxt "CREATURE:BIRD_LOON"
@@ -7650,17 +7658,17 @@ msgstr "[CASTE_NAME:potáplice:potáplice:potáplice]"
 #: creature_birds_new.txt:1151
 msgctxt "CREATURE:BIRD_LOON"
 msgid "[GENERAL_CHILD_NAME:loon chick:loon chicks]"
-msgstr ""
+msgstr "[GENERAL_CHILD_NAME:kuře potápky:kuřátka potápek]"
 
 #: creature_birds_new.txt:1170
 msgctxt "CREATURE:BIRD_LOON"
 msgid "[PREFSTRING:haunting call]"
-msgstr ""
+msgstr "[PREFSTRING:strašidelný zpěv]"
 
 #: creature_birds_new.txt:1171
 msgctxt "CREATURE:BIRD_LOON"
 msgid "[PREFSTRING:coloration]"
-msgstr ""
+msgstr "[PREFSTRING:zbarvení]"
 
 #: creature_birds_new.txt:1207
 msgctxt "CREATURE:BIRD_LOON"
@@ -7700,7 +7708,7 @@ msgstr "[NAME:mužská potáplice:mužské potáplice:mužské potáplice]"
 #: creature_birds_new.txt:1255
 msgctxt "CREATURE:LOON_MAN"
 msgid "[DESCRIPTION:A person with the head and wings of a loon.]"
-msgstr ""
+msgstr "[DESCRIPTION:Osoba s hlavou a křídly potápky.]"
 
 #: creature_birds_new.txt:1271
 msgctxt "CREATURE:GIANT_LOON"
@@ -7725,12 +7733,12 @@ msgstr "[DESCRIPTION:Velká příšera ve tvaru potáplice.]"
 #: creature_birds_new.txt:1283
 msgctxt "CREATURE:GIANT_LOON"
 msgid "[PREFSTRING:haunting call]"
-msgstr ""
+msgstr "[PREFSTRING:strašidelný zpěv]"
 
 #: creature_birds_new.txt:1284
 msgctxt "CREATURE:GIANT_LOON"
 msgid "[PREFSTRING:coloration]"
-msgstr ""
+msgstr "[PREFSTRING:zbarvení]"
 
 #: creature_birds_new.txt:1296
 msgctxt "CREATURE:BIRD_OWL_BARN"
@@ -7759,7 +7767,7 @@ msgstr "[GENERAL_CHILD_NAME:kuře sovy pálené:kuřata sovy pálené]"
 #: creature_birds_new.txt:1326
 msgctxt "CREATURE:BIRD_OWL_BARN"
 msgid "[PREFSTRING:coloration]"
-msgstr ""
+msgstr "[PREFSTRING:zbarvení]"
 
 #: creature_birds_new.txt:1366
 msgctxt "CREATURE:BIRD_OWL_BARN"
@@ -7769,7 +7777,7 @@ msgstr "[ATTACK_VERB:kousnutí:kousnutí]"
 #: creature_birds_new.txt:1375
 msgctxt "CREATURE:BIRD_OWL_BARN"
 msgid "[ATTACK_VERB:snatch at:snatches at]"
-msgstr ""
+msgstr "[ATTACK_VERB:utrhnout:utrhat]"
 
 #: creature_birds_new.txt:1396
 msgctxt "CREATURE:BIRD_OWL_BARN"
@@ -7829,7 +7837,7 @@ msgstr "[DESCRIPTION:Velká příšera v podobě sovy pálené.]"
 #: creature_birds_new.txt:1451
 msgctxt "CREATURE:GIANT_BARN_OWL"
 msgid "[PREFSTRING:coloration]"
-msgstr ""
+msgstr "[PREFSTRING:zbarvení]"
 
 #: creature_birds_new.txt:1464
 msgctxt "CREATURE:BIRD_PARAKEET"
@@ -7856,12 +7864,12 @@ msgstr ""
 #: creature_birds_new.txt:1490
 msgctxt "CREATURE:BIRD_PARAKEET"
 msgid "[PREFSTRING:coloration]"
-msgstr ""
+msgstr "[PREFSTRING:zbarvení]"
 
 #: creature_birds_new.txt:1491
 msgctxt "CREATURE:BIRD_PARAKEET"
 msgid "[PREFSTRING:ability to speak]"
-msgstr ""
+msgstr "[PREFSTRING:schopnost mluvit]"
 
 #: creature_birds_new.txt:1529
 msgctxt "CREATURE:BIRD_PARAKEET"
@@ -7871,7 +7879,7 @@ msgstr "[ATTACK_VERB:kousnutí:kousnutí]"
 #: creature_birds_new.txt:1538
 msgctxt "CREATURE:BIRD_PARAKEET"
 msgid "[ATTACK_VERB:snatch at:snatches at]"
-msgstr ""
+msgstr "[ATTACK_VERB:utrhnout:utrhat]"
 
 #: creature_birds_new.txt:1559
 msgctxt "CREATURE:BIRD_PARAKEET"
@@ -7932,12 +7940,12 @@ msgstr "[DESCRIPTION:Velká příšera ve tvaru andulky.]"
 #: creature_birds_new.txt:1615
 msgctxt "CREATURE:GIANT_PARAKEET"
 msgid "[PREFSTRING:coloration]"
-msgstr ""
+msgstr "[PREFSTRING:zbarvení]"
 
 #: creature_birds_new.txt:1616
 msgctxt "CREATURE:GIANT_PARAKEET"
 msgid "[PREFSTRING:ability to speak]"
-msgstr ""
+msgstr "[PREFSTRING:schopnost mluvit]"
 
 #: creature_birds_new.txt:1628
 msgctxt "CREATURE:BIRD_KAKAPO"
@@ -7969,12 +7977,12 @@ msgstr "[PREFSTRING:dlouhověkost]"
 #: creature_birds_new.txt:1650
 msgctxt "CREATURE:BIRD_KAKAPO"
 msgid "[PREFSTRING:flightlessness]"
-msgstr ""
+msgstr "[PREFSTRING:nelétavý]"
 
 #: creature_birds_new.txt:1651
 msgctxt "CREATURE:BIRD_KAKAPO"
 msgid "[PREFSTRING:booming calls]"
-msgstr ""
+msgstr "[PREFSTRING:dunivý zpěv]"
 
 #: creature_birds_new.txt:1687
 msgctxt "CREATURE:BIRD_KAKAPO"
@@ -8057,12 +8065,12 @@ msgstr "[PREFSTRING:dlouhověkost]"
 #: creature_birds_new.txt:1765
 msgctxt "CREATURE:GIANT_KAKAPO"
 msgid "[PREFSTRING:flightlessness]"
-msgstr ""
+msgstr "[PREFSTRING:nelétavý]"
 
 #: creature_birds_new.txt:1766
 msgctxt "CREATURE:GIANT_KAKAPO"
 msgid "[PREFSTRING:booming calls]"
-msgstr ""
+msgstr "[PREFSTRING:dunivý zpěv]"
 
 #: creature_birds_new.txt:1777
 msgctxt "CREATURE:BIRD_PARROT_GREY"
@@ -8094,7 +8102,7 @@ msgstr "[PREFSTRING:inteligence]"
 #: creature_birds_new.txt:1800
 msgctxt "CREATURE:BIRD_PARROT_GREY"
 msgid "[PREFSTRING:social nature]"
-msgstr ""
+msgstr "[PREFSTRING:společenský druh]"
 
 #: creature_birds_new.txt:1836
 msgctxt "CREATURE:BIRD_PARROT_GREY"
@@ -8164,7 +8172,7 @@ msgstr "[PREFSTRING:inteligence]"
 #: creature_birds_new.txt:1913
 msgctxt "CREATURE:GIANT_GREY_PARROT"
 msgid "[PREFSTRING:social nature]"
-msgstr ""
+msgstr "[PREFSTRING:společenský druh]"
 
 #: creature_birds_new.txt:1925
 msgctxt "CREATURE:BIRD_PUFFIN"
@@ -8277,7 +8285,7 @@ msgstr ""
 #: creature_birds_new.txt:2088
 msgctxt "CREATURE:BIRD_SWAN"
 msgid "[PREFSTRING:beauty]"
-msgstr ""
+msgstr "[PREFSTRING:pěkný]"
 
 #: creature_birds_new.txt:2124
 msgctxt "CREATURE:BIRD_SWAN"
@@ -8352,7 +8360,7 @@ msgstr "[DESCRIPTION:Velká příšera v podobě labutě.]"
 #: creature_birds_new.txt:2202
 msgctxt "CREATURE:GIANT_SWAN"
 msgid "[PREFSTRING:beauty]"
-msgstr ""
+msgstr "[PREFSTRING:pěkný]"
 
 #: creature_birds_new.txt:2213
 msgctxt "CREATURE:BIRD_LORIKEET"
@@ -8379,12 +8387,12 @@ msgstr ""
 #: creature_birds_new.txt:2237
 msgctxt "CREATURE:BIRD_LORIKEET"
 msgid "[PREFSTRING:bright coloration]"
-msgstr ""
+msgstr "[PREFSTRING:světlé zbarvení]"
 
 #: creature_birds_new.txt:2238
 msgctxt "CREATURE:BIRD_LORIKEET"
 msgid "[PREFSTRING:playful personalities]"
-msgstr ""
+msgstr "[PREFSTRING:hravá povaha]"
 
 #: creature_birds_new.txt:2276
 msgctxt "CREATURE:BIRD_LORIKEET"
@@ -8394,7 +8402,7 @@ msgstr "[ATTACK_VERB:kousnutí:kousnutí]"
 #: creature_birds_new.txt:2285
 msgctxt "CREATURE:BIRD_LORIKEET"
 msgid "[ATTACK_VERB:snatch at:snatches at]"
-msgstr ""
+msgstr "[ATTACK_VERB:utrhnout:utrhat]"
 
 #: creature_birds_new.txt:2306
 msgctxt "CREATURE:BIRD_LORIKEET"
@@ -8455,12 +8463,12 @@ msgstr "[DESCRIPTION:Velká příšera ve tvaru loriketa.]"
 #: creature_birds_new.txt:2362
 msgctxt "CREATURE:GIANT_LORIKEET"
 msgid "[PREFSTRING:bright coloration]"
-msgstr ""
+msgstr "[PREFSTRING:světlé zbarvení]"
 
 #: creature_birds_new.txt:2363
 msgctxt "CREATURE:GIANT_LORIKEET"
 msgid "[PREFSTRING:playful personalities]"
-msgstr ""
+msgstr "[PREFSTRING:hravá povaha]"
 
 #: creature_birds_new.txt:2375
 msgctxt "CREATURE:BIRD_WREN"
@@ -8495,7 +8503,7 @@ msgstr "[ATTACK_VERB:kousnutí:kousnutí]"
 #: creature_birds_new.txt:2450
 msgctxt "CREATURE:BIRD_WREN"
 msgid "[ATTACK_VERB:snatch at:snatches at]"
-msgstr ""
+msgstr "[ATTACK_VERB:utrhnout:utrhat]"
 
 #: creature_birds_new.txt:2471
 msgctxt "CREATURE:BIRD_WREN"
@@ -8582,7 +8590,7 @@ msgstr ""
 #: creature_birds_new.txt:2568
 msgctxt "CREATURE:BIRD_OSPREY"
 msgid "[PREFSTRING:fishing ability]"
-msgstr ""
+msgstr "[PREFSTRING:schopnost rybařit]"
 
 #: creature_birds_new.txt:2608
 msgctxt "CREATURE:BIRD_OSPREY"
@@ -8592,7 +8600,7 @@ msgstr "[ATTACK_VERB:kousnutí:kousnutí]"
 #: creature_birds_new.txt:2617
 msgctxt "CREATURE:BIRD_OSPREY"
 msgid "[ATTACK_VERB:snatch at:snatches at]"
-msgstr ""
+msgstr "[ATTACK_VERB:utrhnout:utrhat]"
 
 #: creature_birds_new.txt:2638
 msgctxt "CREATURE:BIRD_OSPREY"
@@ -8653,7 +8661,7 @@ msgstr "[DESCRIPTION:Velká příšera v podobě orlovce.]"
 #: creature_birds_new.txt:2693
 msgctxt "CREATURE:GIANT_OSPREY"
 msgid "[PREFSTRING:fishing ability]"
-msgstr ""
+msgstr "[PREFSTRING:schopnost rybařit]"
 
 #: creature_birds_new.txt:2705
 msgctxt "CREATURE:BIRD_EMU"
@@ -8680,7 +8688,7 @@ msgstr ""
 #: creature_birds_new.txt:2725
 msgctxt "CREATURE:BIRD_EMU"
 msgid "[PREFSTRING:size]"
-msgstr ""
+msgstr "[PREFSTRING:velikost]"
 
 #: creature_birds_new.txt:2726
 msgctxt "CREATURE:BIRD_EMU"
@@ -8755,12 +8763,12 @@ msgstr "[DESCRIPTION:Obrovská příšera v podobě emu.]"
 #: creature_birds_new.txt:2849
 msgctxt "CREATURE:GIANT_EMU"
 msgid "[PREFSTRING:size]"
-msgstr ""
+msgstr "[PREFSTRING:velikost]"
 
 #: creature_birds_new.txt:2850
 msgctxt "CREATURE:GIANT_EMU"
 msgid "[PREFSTRING:inquisitive nature]"
-msgstr ""
+msgstr "[PREFSTRING:zvídavá povaha]"
 
 #: creature_birds_new.txt:2860
 msgctxt "CREATURE:BIRD_COCKATIEL"
@@ -8787,7 +8795,7 @@ msgstr "[GENERAL_CHILD_NAME:mládě korely:mláďata korely]"
 #: creature_birds_new.txt:2884
 msgctxt "CREATURE:BIRD_COCKATIEL"
 msgid "[PREFSTRING:crests]"
-msgstr ""
+msgstr "[PREFSTRING:chochol]"
 
 #: creature_birds_new.txt:2922
 msgctxt "CREATURE:BIRD_COCKATIEL"
@@ -8797,7 +8805,7 @@ msgstr "[ATTACK_VERB:kousnutí:kousnutí]"
 #: creature_birds_new.txt:2931
 msgctxt "CREATURE:BIRD_COCKATIEL"
 msgid "[ATTACK_VERB:snatch at:snatches at]"
-msgstr ""
+msgstr "[ATTACK_VERB:utrhnout:utrhat]"
 
 #: creature_birds_new.txt:2952
 msgctxt "CREATURE:BIRD_COCKATIEL"
@@ -8858,7 +8866,7 @@ msgstr "[DESCRIPTION:Velká příšera v podobě korely.]"
 #: creature_birds_new.txt:3008
 msgctxt "CREATURE:GIANT_COCKATIEL"
 msgid "[PREFSTRING:crests]"
-msgstr ""
+msgstr "[PREFSTRING:chochol]"
 
 #: creature_birds_new.txt:3018
 msgctxt "CREATURE:BIRD_LOVEBIRD_PEACH-FACED"
@@ -8891,7 +8899,7 @@ msgstr ""
 #: creature_birds_new.txt:3044
 msgctxt "CREATURE:BIRD_LOVEBIRD_PEACH-FACED"
 msgid "[PREFSTRING:loving nature]"
-msgstr ""
+msgstr "[PREFSTRING:přívětivá povaha]"
 
 #: creature_birds_new.txt:3082
 msgctxt "CREATURE:BIRD_LOVEBIRD_PEACH-FACED"
@@ -8901,7 +8909,7 @@ msgstr "[ATTACK_VERB:kousnutí:kousnutí]"
 #: creature_birds_new.txt:3091
 msgctxt "CREATURE:BIRD_LOVEBIRD_PEACH-FACED"
 msgid "[ATTACK_VERB:snatch at:snatches at]"
-msgstr ""
+msgstr "[ATTACK_VERB:utrhnout:utrhat]"
 
 #: creature_birds_new.txt:3112
 msgctxt "CREATURE:BIRD_LOVEBIRD_PEACH-FACED"
@@ -8989,7 +8997,7 @@ msgstr ""
 #: creature_birds_new.txt:3168
 msgctxt "CREATURE:GIANT_PEACH-FACED_LOVEBIRD"
 msgid "[PREFSTRING:loving nature]"
-msgstr ""
+msgstr "[PREFSTRING:přívětivá povaha]"
 
 #: creature_birds_new.txt:3180
 msgctxt "CREATURE:BIRD_MAGPIE"
@@ -9031,7 +9039,7 @@ msgstr "[ATTACK_VERB:kousnutí:kousnutí]"
 #: creature_birds_new.txt:3253
 msgctxt "CREATURE:BIRD_MAGPIE"
 msgid "[ATTACK_VERB:snatch at:snatches at]"
-msgstr ""
+msgstr "[ATTACK_VERB:utrhnout:utrhat]"
 
 #: creature_birds_new.txt:3274
 msgctxt "CREATURE:BIRD_MAGPIE"
@@ -9123,7 +9131,7 @@ msgstr ""
 #: creature_birds_new.txt:3371
 msgctxt "CREATURE:BIRD_KESTREL"
 msgid "[PREFSTRING:coloration]"
-msgstr ""
+msgstr "[PREFSTRING:zbarvení]"
 
 #: creature_birds_new.txt:3372
 msgctxt "CREATURE:BIRD_KESTREL"
@@ -9138,7 +9146,7 @@ msgstr "[ATTACK_VERB:kousnutí:kousnutí]"
 #: creature_birds_new.txt:3417
 msgctxt "CREATURE:BIRD_KESTREL"
 msgid "[ATTACK_VERB:snatch at:snatches at]"
-msgstr ""
+msgstr "[ATTACK_VERB:utrhnout:utrhat]"
 
 #: creature_birds_new.txt:3441
 msgctxt "CREATURE:BIRD_KESTREL"
@@ -9198,7 +9206,7 @@ msgstr "[DESCRIPTION:Obrovská příšera ve tvaru poštolky.]"
 #: creature_birds_new.txt:3496
 msgctxt "CREATURE:GIANT_KESTREL"
 msgid "[PREFSTRING:coloration]"
-msgstr ""
+msgstr "[PREFSTRING:zbarvení]"
 
 #: creature_birds_new.txt:3497
 msgctxt "CREATURE:GIANT_KESTREL"
@@ -9338,7 +9346,7 @@ msgstr "[ATTACK_VERB:kousnutí:kousnutí]"
 #: creature_birds_new.txt:3731
 msgctxt "CREATURE:BIRD_OWL_GREAT_HORNED"
 msgid "[ATTACK_VERB:snatch at:snatches at]"
-msgstr ""
+msgstr "[ATTACK_VERB:utrhnout:utrhat]"
 
 #: creature_birds_new.txt:3755
 msgctxt "CREATURE:BIRD_OWL_GREAT_HORNED"
@@ -9456,7 +9464,7 @@ msgstr "[ATTACK_VERB:kousnutí:kousnutí]"
 #: creature_birds_new.txt:3899
 msgctxt "CREATURE:BIRD_EAGLE"
 msgid "[ATTACK_VERB:snatch at:snatches at]"
-msgstr ""
+msgstr "[ATTACK_VERB:utrhnout:utrhat]"
 
 #: creature_birds_new.txt:3923
 msgctxt "CREATURE:BIRD_EAGLE"
@@ -9551,7 +9559,7 @@ msgstr "[ATTACK_VERB:kousnutí:kousnutí]"
 #: creature_birds_new.txt:4058
 msgctxt "CREATURE:BIRD_HORNBILL"
 msgid "[ATTACK_VERB:snatch at:snatches at]"
-msgstr ""
+msgstr "[ATTACK_VERB:utrhnout:utrhat]"
 
 #: creature_birds_new.txt:4082
 msgctxt "CREATURE:BIRD_HORNBILL"
@@ -9654,7 +9662,7 @@ msgstr "[ATTACK_VERB:kousnutí:kousnutí]"
 #: creature_birds_new.txt:4219
 msgctxt "CREATURE:BIRD_LOVEBIRD_MASKED"
 msgid "[ATTACK_VERB:snatch at:snatches at]"
-msgstr ""
+msgstr "[ATTACK_VERB:utrhnout:utrhat]"
 
 #: creature_birds_new.txt:4240
 msgctxt "CREATURE:BIRD_LOVEBIRD_MASKED"
@@ -9777,7 +9785,7 @@ msgstr "[ATTACK_VERB:kousnutí:kousnutí]"
 #: creature_birds_new.txt:4377
 msgctxt "CREATURE:BIRD_BUSHTIT"
 msgid "[ATTACK_VERB:snatch at:snatches at]"
-msgstr ""
+msgstr "[ATTACK_VERB:utrhnout:utrhat]"
 
 #: creature_birds_new.txt:4398
 msgctxt "CREATURE:BIRD_BUSHTIT"
@@ -22089,7 +22097,7 @@ msgstr "[DESCRIPTION:Obrovská příšera v podobě losa.]"
 #: creature_large_tundra.txt:320
 msgctxt "CREATURE:GIANT_ELK"
 msgid "[PREFSTRING:grace]"
-msgstr ""
+msgstr "[PREFSTRING:laskavost]"
 
 #: creature_large_tundra.txt:326
 msgctxt "CREATURE:BEAR_POLAR"
@@ -22126,7 +22134,7 @@ msgstr "[ATTACK_VERB:kousnutí:kousnutí]"
 #: creature_large_tundra.txt:395
 msgctxt "CREATURE:BEAR_POLAR"
 msgid "[ATTACK_VERB:scratch:scratches]"
-msgstr ""
+msgstr "[ATTACK_VERB:škrábnutí:škrabání]"
 
 #: creature_large_tundra.txt:417
 msgctxt "CREATURE:BEAR_POLAR"
@@ -22213,7 +22221,7 @@ msgstr ""
 #: creature_mountain_new.txt:28
 msgctxt "CREATURE:WOLVERINE"
 msgid "[PREFSTRING:tenacity]"
-msgstr ""
+msgstr "[PREFSTRING:houževnatost]"
 
 #: creature_mountain_new.txt:65
 msgctxt "CREATURE:WOLVERINE"
@@ -22223,7 +22231,7 @@ msgstr "[ATTACK_VERB:kousnutí:kousnutí]"
 #: creature_mountain_new.txt:74
 msgctxt "CREATURE:WOLVERINE"
 msgid "[ATTACK_VERB:scratch:scratches]"
-msgstr ""
+msgstr "[ATTACK_VERB:škrábnutí:škrabání]"
 
 #: creature_mountain_new.txt:99
 msgctxt "CREATURE:WOLVERINE"
@@ -22233,7 +22241,7 @@ msgstr "[TLCM_NOUN:vlasy:SINGULAR]"
 #: creature_mountain_new.txt:106
 msgctxt "CREATURE:WOLVERINE"
 msgid "[TLCM_NOUN:legs:PLURAL]"
-msgstr ""
+msgstr "[TLCM_NOUN:nohy:PLURAL]"
 
 #: creature_mountain_new.txt:109
 msgctxt "CREATURE:WOLVERINE"
@@ -22288,7 +22296,7 @@ msgstr ""
 #: creature_mountain_new.txt:163
 msgctxt "CREATURE:GIANT_WOLVERINE"
 msgid "[PREFSTRING:tenacity]"
-msgstr ""
+msgstr "[PREFSTRING:houževnatost]"
 
 #: creature_mountain_new.txt:171
 msgctxt "CREATURE:CHINCHILLA"
@@ -22315,7 +22323,7 @@ msgstr ""
 #: creature_mountain_new.txt:186
 msgctxt "CREATURE:CHINCHILLA"
 msgid "[PREFSTRING:fur]"
-msgstr ""
+msgstr "[PREFSTRING:srst]"
 
 #: creature_mountain_new.txt:222
 msgctxt "CREATURE:CHINCHILLA"
@@ -22385,7 +22393,7 @@ msgstr ""
 #: creature_mountain_new.txt:309
 msgctxt "CREATURE:GIANT_CHINCHILLA"
 msgid "[PREFSTRING:fur]"
-msgstr ""
+msgstr "[PREFSTRING:srst]"
 
 #: creature_next_underground.txt:7
 msgctxt "CREATURE:FLOATING_GUTS"
@@ -22451,7 +22459,7 @@ msgstr "[ATTACK_VERB:kousnutí:kousnutí]"
 #: creature_next_underground.txt:119
 msgctxt "CREATURE:DRUNIAN"
 msgid "[ATTACK_VERB:scratch:scratches]"
-msgstr ""
+msgstr "[ATTACK_VERB:škrábnutí:škrabání]"
 
 #: creature_next_underground.txt:143
 msgctxt "CREATURE:DRUNIAN"
@@ -24002,7 +24010,7 @@ msgstr "[PREFSTRING:inteligence]"
 #: creature_ocean_new.txt:26
 msgctxt "CREATURE:OCTOPUS"
 msgid "[PREFSTRING:many arms]"
-msgstr ""
+msgstr "[PREFSTRING:mnoho chapadel]"
 
 #: creature_ocean_new.txt:40
 msgctxt "CREATURE:OCTOPUS"
@@ -38738,7 +38746,7 @@ msgstr ""
 #: descriptor_color_standard.txt:446
 msgctxt "COLOR:RED"
 msgid "[NAME:red]"
-msgstr ""
+msgstr "[NAME:červená]"
 
 #: descriptor_color_standard.txt:451
 msgctxt "COLOR:RED_PURPLE"
@@ -38748,7 +38756,7 @@ msgstr ""
 #: descriptor_color_standard.txt:457
 msgctxt "COLOR:ROSE"
 msgid "[NAME:rose]"
-msgstr ""
+msgstr "[NAME:růžová]"
 
 #: descriptor_color_standard.txt:462
 msgctxt "COLOR:RUSSET"
@@ -38758,7 +38766,7 @@ msgstr ""
 #: descriptor_color_standard.txt:467
 msgctxt "COLOR:RUST"
 msgid "[NAME:rust]"
-msgstr ""
+msgstr "[NAME:rez]"
 
 #: descriptor_color_standard.txt:472
 msgctxt "COLOR:SAFFRON"
