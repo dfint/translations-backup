@@ -4609,7 +4609,7 @@ msgid "Values loyalty"
 msgstr ""
 
 msgid "Values family"
-msgstr ""
+msgstr "Hodnoty rodina"
 
 msgid "Values friendship"
 msgstr ""
@@ -4708,7 +4708,7 @@ msgid "Disdains loyalty"
 msgstr ""
 
 msgid "Disdains family"
-msgstr ""
+msgstr "Pohrdá rodinou"
 
 msgid "Disdains friendship"
 msgstr ""
@@ -4978,7 +4978,7 @@ msgid "Learn something"
 msgstr ""
 
 msgid "Be with family"
-msgstr ""
+msgstr "Být s rodinou"
 
 msgid "Be with friends"
 msgstr ""
@@ -5209,7 +5209,7 @@ msgid "No work details"
 msgstr ""
 
 msgid "No dedicated workshop assignments"
-msgstr ""
+msgstr "Dílna bez přiřazeného úkolu"
 
 msgid "No location assignments"
 msgstr ""
@@ -6004,10 +6004,10 @@ msgid "Workers cannot be assigned to this building."
 msgstr ""
 
 msgid "This workshop is free for anybody to use."
-msgstr ""
+msgstr "Tuto dílnu může používat kdokoli"
 
 msgid "Only one master may be assigned to each workshop."
-msgstr ""
+msgstr "Ke každé dílně může být přiřazen pouze jeden mistr."
 
 msgid "will only do assigned tasks"
 msgstr "bude plnit pouze zadané úkoly"
@@ -7471,7 +7471,7 @@ msgid "Claimed by local "
 msgstr ""
 
 msgid "Claimed by local family"
-msgstr ""
+msgstr "Nárokované místní rodinou"
 
 msgid "Click to recover (creates new mission)"
 msgstr ""
@@ -9423,6 +9423,9 @@ msgid ""
 "attention to them, and affected victims and family members get upset if "
 "crime is ignored."
 msgstr ""
+"Některé trestné činy svědčí o větších problémech, takže byste jim měli "
+"věnovat pozornost, a postižené oběti a rodinní příslušníci se rozčilují, "
+"pokud je trestná činnost ignorována."
 
 msgid "It's up to you to choose whom to convict. "
 msgstr ""
@@ -12347,6 +12350,7 @@ msgstr ""
 
 msgid "Click Publish to upload a mod to Steam Workshop."
 msgstr ""
+"Kliknutím na tlačítko Publikovat nahrajete mod do služby Steam Workshop."
 
 msgid "Publish"
 msgstr ""
@@ -12823,7 +12827,7 @@ msgid " is a personal treasure, and I will not part with it."
 msgstr ""
 
 msgid " is a family heirloom, and I will not part with it."
-msgstr ""
+msgstr " je rodinné dědictví a já se s ním nechci rozloučit."
 
 msgid " is a treasure of "
 msgstr ""
@@ -12844,7 +12848,7 @@ msgid "Thank you for returning my treasure."
 msgstr ""
 
 msgid "Thank you for returning my family's treasure."
-msgstr ""
+msgstr "Děkuji vám za vrácení rodinného pokladu."
 
 msgid "Thank you for returning this treasure to "
 msgstr ""
@@ -13223,7 +13227,7 @@ msgid "was unaffected by the comments and refused"
 msgstr ""
 
 msgid "felt no avarice and refused"
-msgstr ""
+msgstr "necítil žádnou chamtivost a odmítl"
 
 msgid "was unswayed by the emotional appeal and refused"
 msgstr ""
@@ -13295,7 +13299,7 @@ msgid "hated"
 msgstr ""
 
 msgid "felt no loyalty to"
-msgstr ""
+msgstr "necítil žádnou loajalitu k"
 
 msgid "distrusted"
 msgstr ""
@@ -14951,7 +14955,7 @@ msgstr ""
 
 msgid ""
 "Workshops are placed using the building menu at the bottom of the screen."
-msgstr ""
+msgstr "Dílny se umisťují pomocí nabídky budov v dolní části obrazovky."
 
 msgid "You do not have any workshops."
 msgstr "Nemáš žádné dílny."
@@ -15137,10 +15141,10 @@ msgid "Symbol of "
 msgstr ""
 
 msgid " family treasure"
-msgstr ""
+msgstr "rodinný poklad"
 
 msgid " family heirloom"
-msgstr ""
+msgstr "rodinné dědictví"
 
 msgid "(De)select all currently-displayed creatures."
 msgstr ""
@@ -15230,7 +15234,7 @@ msgid "Select a stockpile or"
 msgstr "Vyberte skladiště nebo"
 
 msgid "workshop to "
-msgstr ""
+msgstr "dílna na"
 
 msgid " Guildhall"
 msgstr ""
@@ -16655,11 +16659,14 @@ msgid ""
 "Toggle whether the stockpile can take items from anywhere or only from "
 "specific workshops and stockpiles."
 msgstr ""
+"Přepněte, zda může sklad brát položky odkudkoli nebo pouze z určitých dílen "
+"a skladů."
 
 msgid ""
 "Set from which workshops and stockpiles this stockpile gives and takes "
 "items."
 msgstr ""
+"Nastavení, ze kterých dílen a skladů tento sklad vydává a přijímá položky."
 
 msgid "Set how many barrerls, bins, and wheelbarrows this stockpile can use."
 msgstr "Nastavte, kolik sudů, košů a koleček může tato zásoba použít."
@@ -16889,7 +16896,7 @@ msgid "Recenter on this burrow."
 msgstr ""
 
 msgid "Toggle whether workshops can source materials from outside the burrow."
-msgstr ""
+msgstr "Přepněte, zda mohou dílny získávat materiály zvenčí."
 
 msgid ""
 "Suspend this burrow.  Assigned citizens will not respect burrow restrictions"
@@ -17029,6 +17036,9 @@ msgid ""
 "assigned to shops automatically and can be activated with various "
 "conditions."
 msgstr ""
+"Vytvořit nový pracovní příkaz. Pracovní příkazy jsou podobné dílenským "
+"zakázkám, ale jsou automaticky přiřazeny dílnám a mohou být aktivovány s "
+"různými podmínkami."
 
 msgid "This work order is active."
 msgstr ""
@@ -17045,6 +17055,8 @@ msgstr ""
 msgid ""
 "Set the maximum number of workshops that can be used by the work order."
 msgstr ""
+"Nastavení maximálního počtu dílen, které mohou být použity v rámci "
+"pracovního příkazu."
 
 msgid "This work order has been validated by the manager."
 msgstr ""
@@ -17065,6 +17077,8 @@ msgid ""
 "Change the work order priority.  Work orders at the top of the list will use"
 " workshops first."
 msgstr ""
+"Změňte prioritu pracovní zakázky. Pracovní příkazy na začátku seznamu budou "
+"dílny odbavovat jako první."
 
 msgid ""
 "Set the conditions for work order activation.  This can involve needed "
@@ -17202,6 +17216,9 @@ msgid ""
 "This worker is specialized and will only do tasks that match their workshop "
 "assignments, work details, and occupations.  Click to toggle."
 msgstr ""
+"Tento pracovník je specializovaný a vykonává pouze úkoly, které odpovídají "
+"jeho dílenskému přižazení pracovním detailům a profesi. Klikněte pro "
+"přepnutí."
 
 msgid ""
 "This worker is not specialized and will do any free tasks that become "
@@ -17364,7 +17381,7 @@ msgid "Click to set this task as highest priority among all tasks everywhere."
 msgstr ""
 
 msgid "Increase the priority of the task in this workshop."
-msgstr ""
+msgstr "Zvyšte prioritu úkolu v této dílně."
 
 msgid "Set details for this task, such as the material to be used."
 msgstr ""
@@ -17382,12 +17399,15 @@ msgid ""
 "repeat specified numbers of times and which can be given start conditions.  "
 "This is useful for automation."
 msgstr ""
+"Vytvořte novou zakázku pro tuto dílnu. Zakázky jsou úkoly, které se mohou "
+"opakovat určitý početkrát a kterým lze zadat podmínky spuštění. To je "
+"užitečné pro automatizaci."
 
 msgid "Recenter on the linked building."
 msgstr ""
 
 msgid "Add stockpile links for this workshop."
-msgstr ""
+msgstr "Přižaďte této dílně sklad."
 
 msgid ""
 "This item is a permanent part of the building.  Forbid and visibility tags "
@@ -17530,10 +17550,10 @@ msgid ""
 msgstr ""
 
 msgid "Choose a stockpile to which the workshop will give items."
-msgstr ""
+msgstr "Vyberte sklad, do které bude dílna dávat položky."
 
 msgid "Choose a stockpile from which the workshop will take items."
-msgstr ""
+msgstr "Vyberte sklad, ze které bude dílna odebírat položky."
 
 msgid "Choose a stockpile to which the selected stockpile will give items."
 msgstr ""
@@ -17553,10 +17573,10 @@ msgid "The track stop's vehicle will give items to this stockpile."
 msgstr ""
 
 msgid "The selected workshop will take items from here."
-msgstr ""
+msgstr "Vybraná dílna si bude odtud odebírat položky."
 
 msgid "The selected workshop will give items to here."
-msgstr ""
+msgstr "Vybraná dílna sem bude odkládat položky."
 
 msgid "The selected stockpile will take items from here."
 msgstr ""
@@ -17630,6 +17650,8 @@ msgid ""
 "generally require raw materials and most workshops are constructed from "
 "boulders, blocks, or wood."
 msgstr ""
+"Většina úkolů v pevnosti se začíná a dokončuje v dílnách. Úkoly obvykle "
+"vyžadují suroviny a většina dílen je postavena z balvanů, kvádrů nebo dřeva."
 
 msgid ""
 "Furnaces are used for smelting, glassmaking, pottery, ashmaking, or to make "
@@ -17651,16 +17673,19 @@ msgid ""
 "A wide variety of food-and-drink-related workshops can be found in this "
 "category."
 msgstr ""
+"V této kategorii naleznete širokou škálu dílen týkajících se jídla a "
+"stolování."
 
 msgid ""
 "Use options in this category to place furniture that has already been "
 "constructed in a workshop."
-msgstr ""
+msgstr "Tato možnost slouží k umisťování, již v dílně, vyrobeného nábytku."
 
 msgid ""
 "Place doors and hatches here after you have constructed them in an "
 "appropriate workshop."
 msgstr ""
+"Zde umístěte dveře a poklopy poté, co jste je zkonstruovali ve vhodné dílně."
 
 msgid ""
 "Most terrain-altering constructions can be found here, from walls and floors"
@@ -17758,6 +17783,8 @@ msgid ""
 "Here you can make parts for ballistae and catapults.  This workshop is also "
 "the place where ballista ammo is assembled."
 msgstr ""
+"Zde si můžete vyrobit díly pro balisty a katapulty. V této dílně se také "
+"sestavuje munice do balist."
 
 msgid ""
 "Make stone furniture here, as well as blocks which are used in "
@@ -17961,6 +17988,8 @@ msgid ""
 "Statues can be used to decorate your fortress and add value to your rooms.  "
 "A statue object must be made at an appropriate workshop first."
 msgstr ""
+"Sochy mohou být použity k výzdobě pevnosti a přidávají tak hodnotu vašim "
+"místnostem. Socha musí být nejprve vyroben v příslušné dílně."
 
 msgid ""
 "Certain injuries such as overlapping fractures require advanced medical "
@@ -17988,6 +18017,8 @@ msgid ""
 "Large instruments must be placed in taverns or temples before they will be "
 "used.  These instruments must be assembled at a workshop first."
 msgstr ""
+"Velké nástroje musí být před tím, než začnou být používány, umístěny v "
+"tavernách nebo chrámech. Tyto nástroje musí být nejprve v dílně sestaveny."
 
 msgid ""
 "Doors can be used along with walls to enclose rooms, which is especially "
@@ -20849,10 +20880,10 @@ msgid "after not learning anything"
 msgstr ""
 
 msgid "after being with family"
-msgstr ""
+msgstr "po pobytu s rodinou"
 
 msgid "after being away from family"
-msgstr ""
+msgstr "po odloučení od rodiny"
 
 msgid "after being with friends"
 msgstr ""
@@ -21387,7 +21418,7 @@ msgid "loyalty"
 msgstr ""
 
 msgid "family"
-msgstr ""
+msgstr "rodina"
 
 msgid "friendship"
 msgstr ""
@@ -22263,7 +22294,7 @@ msgid "There is also "
 msgstr ""
 
 msgid "a family matter"
-msgstr ""
+msgstr "rodinná záležitost"
 
 msgid "the issue of their godlessness"
 msgstr ""
@@ -22833,7 +22864,7 @@ msgid "I will accept the child into my home."
 msgstr ""
 
 msgid "It has always been my dream to start a family."
-msgstr ""
+msgstr "Založit rodinu byl vždycky můj sen."
 
 msgid "This must be the will of "
 msgstr ""
@@ -23034,7 +23065,7 @@ msgid " saw the sun and vomited on the spot!"
 msgstr ""
 
 msgid "Tell me about your family."
-msgstr ""
+msgstr "Povězte mi o své rodině."
 
 msgid "Of course."
 msgstr ""
@@ -25948,7 +25979,7 @@ msgid "Magma Forge"
 msgstr "Magmatická kovárna"
 
 msgid "'s Workshop"
-msgstr ""
+msgstr "Dílna"
 
 msgid "Siege Workshop"
 msgstr "Obléhací dílna"
@@ -26653,13 +26684,13 @@ msgid "Fighting Pit"
 msgstr ""
 
 msgid "Animal Workshop"
-msgstr ""
+msgstr "Zvířecí dílna"
 
 msgid "Cloth Workshop"
 msgstr "Textilní dílna"
 
 msgid "Tanning Workshop"
-msgstr ""
+msgstr "Koželužská dílna"
 
 msgid "Cloth Clothing Workshop"
 msgstr "Dílna látkových oděvů"
@@ -26668,37 +26699,37 @@ msgid "Leather Clothing Workshop"
 msgstr "Kožená oděvní dílna"
 
 msgid "Bone Carving Workshop"
-msgstr ""
+msgstr "Řezbářská dílna (kostí)"
 
 msgid "Gem Cutting Workshop"
-msgstr ""
+msgstr "Klenotnická dílna"
 
 msgid "Weaponsmithing Workshop"
-msgstr ""
+msgstr "Výroba zbraní"
 
 msgid "Bowmaking Workshop"
-msgstr ""
+msgstr "Lukostřelecká dílna"
 
 msgid "Blacksmithing Workshop"
-msgstr ""
+msgstr "Kovářská dílna"
 
 msgid "Armorsmithing Workshop"
-msgstr ""
+msgstr "Výroba zbrojí"
 
 msgid "Metal Crafting Workshop"
-msgstr ""
+msgstr "Dílna pro zpracování kovů"
 
 msgid "Leatherworking Shop"
 msgstr ""
 
 msgid "Carpentry Workshop"
-msgstr ""
+msgstr "Tesařská dílna"
 
 msgid "Stoneworking Workshop"
 msgstr "Kamenická Dílna"
 
 msgid "Forging Workshop"
-msgstr ""
+msgstr "Dílna na kování"
 
 msgid "Depot"
 msgstr "Sklad"
@@ -28457,7 +28488,7 @@ msgid " be returned to me."
 msgstr ""
 
 msgid " be returned to my family."
-msgstr ""
+msgstr " se vrátí mé rodině."
 
 msgid " believes that primordial remnants such as "
 msgstr ""
@@ -29288,13 +29319,13 @@ msgid ""
 msgstr ""
 
 msgid "Family is the true bond that keeps society thriving."
-msgstr ""
+msgstr "Rodina je skutečným poutem, které udržuje společnost v rozkvětu."
 
 msgid "You can always rely on your family when everything else falls away."
-msgstr ""
+msgstr "Na rodinu se můžete vždy spolehnout, když všechno ostatní selže."
 
 msgid "How great it is to be surrounded by family!"
-msgstr ""
+msgstr "Je skvělé být obklopen rodinou!"
 
 msgid ""
 "I hold the relationships I've forged myself over family ties I had no part "
@@ -29307,17 +29338,20 @@ msgid "We cannot choose our families, but we can choose to avoid them."
 msgstr ""
 
 msgid "I was always irritated by family."
-msgstr ""
+msgstr "Rodina mě vždycky rozčilovala."
 
 msgid ""
 "You can't always rely on your family, but it's good to know somebody is "
 "there."
 msgstr ""
+"Na rodinu se nelze vždy spolehnout, ale je dobré vědět, že tu někdo je."
 
 msgid ""
 "Family is complicated and those ties be both a boon and a curse.  Sometimes "
 "both at once!"
 msgstr ""
+"Rodina je složitá a tyto vazby jsou přínosem i prokletím. Někdy obojí "
+"najednou!"
 
 msgid "When all other bonds wither, friendship will remain."
 msgstr ""
@@ -32475,7 +32509,7 @@ msgid "I need to learn something new."
 msgstr ""
 
 msgid "I want to spend some time with family."
-msgstr ""
+msgstr "Chci strávit nějaký čas s rodinou."
 
 msgid "I want to see my friends."
 msgstr ""
@@ -42455,7 +42489,7 @@ msgid "Drop Kill out Front"
 msgstr ""
 
 msgid "Go to Beating Target"
-msgstr ""
+msgstr "Přejít na cíl výprasku"
 
 msgid "Go to Interrogation Target"
 msgstr ""
@@ -65112,6 +65146,7 @@ msgid ""
 "does not have feelings of emotional attachment and has never felt even a "
 "moment's connection with another being"
 msgstr ""
+"necítí citovou vazbu a nikdy nepocítil ani chvilku spojení s jinou bytostí."
 
 msgid "is buffeted by others' emotions and can't help but to respond to them"
 msgstr ""
