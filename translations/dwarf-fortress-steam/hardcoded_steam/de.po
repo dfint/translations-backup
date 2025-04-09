@@ -27,10 +27,11 @@
 # Kiez Krieger, 2024
 # Matthias Nagel, 2025
 # Transifex Bot <>, 2025
+# descherxx1, 2025
 # 
 msgid ""
 msgstr ""
-"Last-Translator: Transifex Bot <>, 2025\n"
+"Last-Translator: descherxx1, 2025\n"
 "Language-Team: German (https://app.transifex.com/dwarf-fortress-translation/teams/22396/de/)\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -434,6 +435,8 @@ msgid ""
 "You may create multiple characters during character creation.  These are "
 "your party.  You may select one party leader freely "
 msgstr ""
+"Du kannst bei der Charaktererstellung mehrere Charaktere erstellen. Diese "
+"sind deine Gruppe. Sie können einen Gruppenleiter frei wählen"
 
 msgid "Research"
 msgstr "Forschung"
@@ -1156,7 +1159,7 @@ msgid "What do you want to throw?"
 msgstr "Was möchtest du werfen?"
 
 msgid "Charge attack: move toward your opponent"
-msgstr ""
+msgstr "Angriff: Bewege dich auf deinen Gegner zu"
 
 msgid "Reputation:"
 msgstr "Ansehen"
@@ -3697,7 +3700,7 @@ msgstr ""
 "blickt für seinen künftigen Wohlstand auf Ihre florierende Wirtschaft."
 
 msgid "Stop leading "
-msgstr ""
+msgstr "Nicht mehr führen"
 
 msgid " to a "
 msgstr " zu einer "
@@ -3709,7 +3712,7 @@ msgid "gave up being a "
 msgstr "aufgegeben hat, ein"
 
 msgid "You are hereby charged to retrieve "
-msgstr ""
+msgstr "Sie werden hiermit beauftragt, Folgendes abzurufen"
 
 msgid " Door"
 msgstr " Tür"
@@ -5880,7 +5883,7 @@ msgid "works with menacing fury!"
 msgstr "works with menacing fury!"
 
 msgid "Recenter on yourself."
-msgstr ""
+msgstr "Konzentriere dich auf dich selbst."
 
 msgid "broods"
 msgstr "grübelt"
@@ -8434,7 +8437,7 @@ msgid "Place All stockpile"
 msgstr "Platziere alle Vorraete"
 
 msgid "Open tree-felling mode"
-msgstr "Oeffne Holzfäller Modus"
+msgstr "Modus „Baumfällung“ öffnen"
 
 msgid "Designate tree"
 msgstr "Baum festlegen"
@@ -8817,8 +8820,8 @@ msgid ""
 "Before you start chopping down trees you may want to create a dedicated "
 "[C:6:0:0]Wood Stockpile[C:7:0:0].  "
 msgstr ""
-"Before you start chopping down trees you may want to create a dedicated "
-"[C:6:0:0]Wood Stockpile[C:7:0:0].  "
+"Bevor Sie mit dem Fällen von Bäumen beginnen, sollten Sie einen speziellen "
+"[C:6:0:0]Holzdepot[C:7:0:0].  "
 
 msgid ""
 "[C:2:0:0]Haulers[C:7:0:0] will also drop [C:6:0:1]Wood[C:7:0:0] in your "
@@ -8840,7 +8843,9 @@ msgid "Make sure your woodcutter can walk to the designated location."
 msgstr "Make sure your woodcutter can walk to the designated location."
 
 msgid "Now we just need to wait for the woodcutter to chop down the tree.  "
-msgstr "Now we just need to wait for the woodcutter to chop down the tree.  "
+msgstr ""
+"Jetzt müssen wir nur noch darauf warten, dass der Holzfäller den Baum fällen"
+" kann."
 
 msgid ""
 "If the fallen logs are accessible, everyone will help store them in the "
@@ -8938,8 +8943,8 @@ msgid ""
 "Chop down more trees if necessary.  Unpause and wait for the "
 "[C:6:0:1]Bed[C:7:0:0] to be completed."
 msgstr ""
-"Chop down more trees if necessary.  Unpause and wait for the "
-"[C:6:0:1]Bed[C:7:0:0] to be completed."
+"Fallen Sie gegebenenfalls weitere Bäume.  Beenden Sie die Pause und warten "
+"Sie auf die [C:6:0:1]Bed[C:7:0:0] abgeschlossen werden."
 
 msgid ""
 "Now that you have a [C:6:0:1]Bed[C:7:0:0] you can place in it the fortress."
@@ -11090,49 +11095,76 @@ msgid ""
 "The three main methods of attacking are striking, wrestling, and shooting.  "
 "Items can also be thrown, and there are creatures "
 msgstr ""
+"Die drei wichtigsten Angriffsmethoden sind Schlagen, Ringen und Schießen. "
+"Gegenstände können auch geworfen werden, und es gibt Kreaturen"
 
 msgid "with special abilities like spraying webs or breathing fire.  "
 msgstr ""
+"mit besonderen Fähigkeiten wie dem Versprühen von Spinnweben oder dem speien"
+" von Feuer."
 
 msgid ""
 "The three main methods of defending are dodging, parrying, and blocking.  If"
 " a strike is barely dodged, the defender may have no "
 msgstr ""
+"Die drei Hauptmethoden der Verteidigung sind Ausweichen, Parieren und "
+"Blocken. Wenn einem Schlag nur knapp ausgewichen wird, kann der Verteidiger "
+"keine"
 
 msgid ""
 "choice but to jump or scramble to another tile (or else be hit.)  Parrying "
 "is by weapon skill and only works on other weapons.  "
 msgstr ""
+"Sie haben keine andere Wahl, als auf ein anderes Feld zu springen oder zu "
+"klettern (oder getroffen zu werden). Das Parieren ist eine Waffenfertigkeit "
+"und funktioniert nur gegen anderen Waffen."
 
 msgid ""
 "Blocking is done with a shield and works on any attack, including fire and "
 "natural attacks.  "
 msgstr ""
+"Das Blocken erfolgt mit einem Schild und funktioniert bei jedem Angriff, "
+"auch bei Feuer- und natürlichen Angriffen."
 
 msgid ""
 "and control them while the others follow, or control each party member "
 "tactically.  The game ends when the entire party is deceased or retired.  "
 msgstr ""
+"und sie kontrollieren, während die anderen folgen, oder jedes "
+"Gruppenmitglied taktisch kontrollieren. Das Spiel endet, wenn die gesamte "
+"Gruppe verstorben oder im Ruhestand ist."
 
 msgid ""
 "For simplicity, only the party leader needs to eat and drink, though all "
 "party members will sleep aside from whoever is on watch.  "
 msgstr ""
+"Der Einfachheit halber muss nur der Anführer der Gruppe essen und trinken, "
+"während alle anderen Mitglieder der Gruppe schlafen, außer demjenigen, der "
+"Wache hält."
 
 msgid ""
 "You can also obtain other followers through conversation, such as a guide or"
 " a mercenary.  These followers may help or run away in combat, "
 msgstr ""
+"Sie können auch andere Gefolgsleute durch Gespräche erhalten, wie zum "
+"Beispiel einen Führer oder einen Söldner. Diese Gefolgsleute können im Kampf"
+" helfen oder weglaufen,"
 
 msgid ""
 "and they cannot be controlled directly.  Some followers leave when their "
 "task is completed, while others will stay until they are asked to leave.  "
 msgstr ""
+"und sie können nicht direkt kontrolliert werden. Einige Anhänger gehen, wenn"
+" ihre Aufgabe erfüllt ist, während andere bleiben, bis sie aufgefordert "
+"werden zu gehen."
 
 msgid ""
 "Followers will join according to your heroic reputation, relevant skill, "
 "destiny type, and total follower amount.  The total follower amount is "
 msgstr ""
+"Die Anzahl der Gefolgsleute richtet sich nach Ihrem heroischen Ruf, der "
+"entsprechenden Fähigkeit, der Schicksalsart und der Gesamtzahl der "
+"Gefolgsleute. Die Gesamtzahl der Follower beträgt"
 
 msgid ""
 "based on the [C:3:0:1]Leadership[C:7:0:0] skill and the [C:2:0:1]Social "
@@ -11143,6 +11175,9 @@ msgid ""
 "Along with combat, conversations are where most of the events in play "
 "happen.  You can obtain quests, followers, information, "
 msgstr ""
+"Neben den Kämpfen sind es die Gespräche, in denen die meisten Ereignisse im "
+"Spiel stattfinden. Du kannst Quests, Gefolgsleute und Informationen "
+"erhalten,"
 
 msgid "and more by talking to the other inhabitants you find in the world.  "
 msgstr ""
@@ -12148,7 +12183,7 @@ msgid "Plant"
 msgstr "Pflanze"
 
 msgid "Tree"
-msgstr "Tree"
+msgstr "Baum"
 
 msgid "Shape"
 msgstr "Shape"
@@ -12871,10 +12906,10 @@ msgid "Cavern dweller maximum attackers"
 msgstr "Cavern dweller maximum attackers"
 
 msgid "Diplomacy tree-fell count"
-msgstr "Diplomacy tree-fell count"
+msgstr "Diplomatie Baumfällung zählen"
 
 msgid "Diplomacy tree-fell count (untamed wilds)"
-msgstr "Diplomacy tree-fell count (untamed wilds)"
+msgstr "Diplomatie Baum-Fell-Zählung (Ungezähmte Wildnis)"
 
 msgid "Economy population trigger 1"
 msgstr "Economy population trigger 1"
@@ -13436,6 +13471,8 @@ msgid ""
 "Once a beautiful tree, and now?  It is a rude bauble, fit only for your "
 "kind."
 msgstr ""
+"Einst ein schöner Baum, und jetzt? Er ist ein grober Klotz, nur für "
+"deinesgleichen geeignet."
 
 msgid ""
 "I see your low race still revels in death.  That poor, gentle creature..."
@@ -13459,49 +13496,49 @@ msgid "Contains "
 msgstr "Enthält "
 
 msgid "You are asking for "
-msgstr ""
+msgstr "Sie fragen nach"
 
 msgid "You are offering "
-msgstr ""
+msgstr "Sie bieten"
 
 msgid "Cannot trade currency"
-msgstr ""
+msgstr "Kann nicht mit Währung handeln"
 
 msgid "Unmark all"
 msgstr "Unmark all"
 
 msgid "Demand"
-msgstr ""
+msgstr "Nachfrage"
 
 msgid "Give"
-msgstr ""
+msgstr "Gib"
 
 msgid "Ask for currency"
-msgstr ""
+msgstr "Fragen Sie nach der Währung"
 
 msgid "Offer currency"
-msgstr ""
+msgstr "Währung anbieten"
 
 msgid " is a personal treasure, and I will not part with it."
-msgstr ""
+msgstr " ist ein persönlicher Schatz, und ich werde mich nicht davon trennen."
 
 msgid " is a family heirloom, and I will not part with it."
-msgstr ""
+msgstr " ist ein Familienerbstück, und ich werde mich nicht davon trennen."
 
 msgid " is a treasure of "
-msgstr ""
+msgstr "ist ein Schatz von"
 
 msgid ", and we will not part with it."
-msgstr ""
+msgstr "und wir werden uns nicht von ihm trennen."
 
 msgid "You receive "
-msgstr ""
+msgstr "Sie erhalten"
 
 msgid " to conclude the transaction."
-msgstr ""
+msgstr "um das Geschäft abzuschließen."
 
 msgid "Thank you for returning this primordial remnant to "
-msgstr ""
+msgstr "Danke für die Rückgabe dieses ursprünglichen Überbleibsels an"
 
 msgid "Thank you for returning my treasure."
 msgstr "Ich danke Euch, mir meinen Schatz wiederzugeben."
@@ -13534,80 +13571,82 @@ msgid "Your new identity:"
 msgstr ""
 
 msgid "Select an identity."
-msgstr ""
+msgstr "Wählen Sie eine Identität."
 
 msgid "No name"
-msgstr ""
+msgstr "Kein Name"
 
 msgid "Name: \""
-msgstr ""
+msgstr "Name: \""
 
 msgid "No origin"
-msgstr ""
+msgstr "Keine Herkunft"
 
 msgid "Profession: "
 msgstr "Beruf:"
 
 msgid "No object of worship"
-msgstr ""
+msgstr "Kein Objekt der Verehrung"
 
 msgid "Object of worship: "
-msgstr ""
+msgstr "Objekt der Verehrung:"
 
 msgid "Set origin"
-msgstr ""
+msgstr "Ursprung festlegen"
 
 msgid "Set profession"
-msgstr ""
+msgstr "Beruf festlegen"
 
 msgid "Set worship"
-msgstr ""
+msgstr "Anbetung festlegen"
 
 msgid "Assume identity"
-msgstr ""
+msgstr "Identität annehmen"
 
 msgid "New Identity"
-msgstr ""
+msgstr "Neue Identität"
 
 msgid "Be Yourself"
-msgstr ""
+msgstr "Sei du selbst"
 
 msgid ": select "
-msgstr ""
+msgstr ": auswählen"
 
 msgid " left"
-msgstr ""
+msgstr "links"
 
 msgid ", consumed"
-msgstr ""
+msgstr ", verbraucht"
 
 msgid ", not consumed"
-msgstr ""
+msgstr ", nicht verbraucht"
 
 msgid "Select a butchery tool."
-msgstr ""
+msgstr "Wählen Sie ein Schlachtwerkzeug."
 
 msgid "What do you want to butcher?"
-msgstr ""
+msgstr "Was wollen Sie schlachten?"
 
 msgid ""
 "What do you want to do?  Items must be in a grasp or on the ground here."
 msgstr ""
+"Was möchten Sie tun? Die Gegenstände müssen sich hier in einem Griff oder "
+"auf dem Boden befinden."
 
 msgid "No available item."
-msgstr ""
+msgstr "Kein verfügbarer Gegenstand."
 
 msgid "No butchery tool available."
-msgstr ""
+msgstr "Kein Schlachtwerkzeug vorhanden."
 
 msgid "No carcass available."
-msgstr ""
+msgstr "Kein Kadaver vorhanden."
 
 msgid "Butcher"
 msgstr "Metzger"
 
 msgid "You are not that hungry."
-msgstr ""
+msgstr "Sie sind nicht so hungrig."
 
 msgid "Needs: "
 msgstr "benötigt: "
@@ -13616,34 +13655,34 @@ msgid "nothing."
 msgstr "nichts."
 
 msgid "not consumed"
-msgstr ""
+msgstr "nicht verbraucht"
 
 msgid "consumed"
-msgstr ""
+msgstr "verbraucht"
 
 msgid "You butcher "
-msgstr ""
+msgstr "Du schlachtest"
 
 msgid "Store item in barrel"
 msgstr "Gegenstand im Fass aufbewahren"
 
 msgid "You make "
-msgstr ""
+msgstr "Du machst"
 
 msgid " and more"
-msgstr ""
+msgstr " und mehr"
 
 msgid "You have finished working on "
-msgstr ""
+msgstr "Abschluss der Arbeit an"
 
 msgid "You practice your "
-msgstr ""
+msgstr "Sie üben Ihre"
 
 msgid " but make nothing of note."
-msgstr ""
+msgstr " machen aber nichts Bemerkenswertes."
 
 msgid "You make nothing."
-msgstr ""
+msgstr "Sie machen nichts."
 
 msgid "Seed text"
 msgstr "Seed-Text"
@@ -14285,16 +14324,16 @@ msgid "a temple"
 msgstr "ein Tempel"
 
 msgid " requested that "
-msgstr ""
+msgstr " beantragt, dass"
 
 msgid " make an offer of service"
-msgstr ""
+msgstr "ein Dienstangebot unterbreiten"
 
 msgid " asked that "
-msgstr ""
+msgstr "darum gebeten, dass"
 
 msgid " retrieve "
-msgstr ""
+msgstr " abrufen"
 
 msgid "the formation of a corrupt agreement"
 msgstr "das Zustandekommen einer korrupten Vereinbarung"
@@ -14381,10 +14420,10 @@ msgid " to establish "
 msgstr " zu etablieren "
 
 msgid "the request by "
-msgstr ""
+msgstr "die Anfrage von"
 
 msgid " that "
-msgstr ""
+msgstr "dass"
 
 msgid " has revealed the presence of "
 msgstr " hat das Vorkommen von "
@@ -14721,7 +14760,7 @@ msgid "tanager"
 msgstr "Tanagare"
 
 msgid "of oceans"
-msgstr ""
+msgstr "der Ozeane"
 
 msgid "chemistry:classification:combustibles"
 msgstr "chemistry:classification:combustibles"
@@ -15572,7 +15611,7 @@ msgid "exactly"
 msgstr "Exakt"
 
 msgid "not"
-msgstr ""
+msgstr "nicht"
 
 msgid "Restarts if completed, checked yearly"
 msgstr "Neustart, wenn abgeschlossen, jährlich überprüfen"
@@ -16648,7 +16687,7 @@ msgid "Chopping trees blueprint"
 msgstr "Chopping trees blueprint"
 
 msgid "Chopping trees"
-msgstr "Chopping trees"
+msgstr "Bäume fällen"
 
 msgid "Converting to gathering blueprint"
 msgstr "Converting to gathering blueprint"
@@ -19714,7 +19753,7 @@ msgid " - mine rock or chop trees"
 msgstr " - mine rock or chop trees"
 
 msgid " - chop down trees"
-msgstr " - chop down trees"
+msgstr " - Bäume fällen"
 
 msgid " - mine rock underground"
 msgstr " - mine rock underground"
@@ -47909,7 +47948,7 @@ msgid "The Home Tree"
 msgstr "Der Heimatbaum"
 
 msgid "Shaping Tree"
-msgstr ""
+msgstr "Baum formen"
 
 msgid "Market Tree"
 msgstr ""
