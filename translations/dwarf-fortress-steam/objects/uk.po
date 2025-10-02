@@ -4373,7 +4373,7 @@ msgstr "[CV_NEW_TAG:ATTACK_VERB:кусаєте:кусає]"
 
 msgctxt "CREATURE_VARIATION:TALON_SCRATCH_ATTACK"
 msgid "[CV_NEW_TAG:ATTACK_VERB:snatch at:snatches at]"
-msgstr ""
+msgstr "[CV_NEW_TAG:ATTACK_VERB:хапати кігтями : хапає кігтями]"
 
 msgctxt "CREATURE_VARIATION:TUSK_STAB_ATTACK"
 msgid "[CV_NEW_TAG:ATTACK_VERB:stab:stabs]"
@@ -4381,11 +4381,11 @@ msgstr "[CV_NEW_TAG:ATTACK_VERB:протинаєте:протинає]"
 
 msgctxt "CREATURE_VARIATION:PINCER_ATTACK"
 msgid "[CV_NEW_TAG:ATTACK_VERB:snatch:snatches]"
-msgstr ""
+msgstr "[CV_NEW_TAG:ATTACK_VERB:схопити клешнями : хапає клешнями]"
 
 msgctxt "CREATURE_VARIATION:ARM_LOWER_SNATCH_ATTACK"
 msgid "[CV_NEW_TAG:ATTACK_VERB:snatch:snatches]"
-msgstr ""
+msgstr "[CV_NEW_TAG:ATTACK_VERB:схопити рукою:хапає рукою]"
 
 msgctxt "CREATURE_VARIATION:STANDARD_BIPED_GAITS"
 msgid "[CV_NEW_TAG:GAIT:WALK:Sprint:]"
@@ -4613,15 +4613,15 @@ msgstr "[TLCM_NOUN:очі:PLURAL]"
 
 msgctxt "CREATURE:TOAD_MAN"
 msgid "[CASTE_NAME:toad man:toad men:toad man]"
-msgstr ""
+msgstr "[CASTE_NAME:жабо-чоловік:жабо-чоловіки:жабо-чоловіка]"
 
 msgctxt "CREATURE:TOAD_MAN"
 msgid "[CASTE_NAME:toad woman:toad women:toad woman]"
-msgstr ""
+msgstr "[CASTE_NAME:жабо-жінка:жабо-жінки:жобо-жінки]"
 
 msgctxt "CREATURE:TOAD_MAN"
 msgid "[NAME:toad man:toad men:toad man]"
-msgstr ""
+msgstr "[NAME:жаболюд:жаболюди:жаболюду]"
 
 msgctxt "CREATURE:TOAD_MAN"
 msgid "[DESCRIPTION:A dark green man with the distinct head of a toad.]"
@@ -4629,11 +4629,11 @@ msgstr "[DESCRIPTION:Темно-зелений чоловік з чітко ви
 
 msgctxt "CREATURE:GIANT_TOAD"
 msgid "[NAME:giant toad:giant toads:giant toad]"
-msgstr ""
+msgstr "[NAME:гігантська жаба:гігантські жаби:гігантської жаби]"
 
 msgctxt "CREATURE:GIANT_TOAD"
 msgid "[CASTE_NAME:giant toad:giant toads:giant toad]"
-msgstr ""
+msgstr "[CASTE_NAME:гігантська жаба:гігантські жаби:гігантської жаби]"
 
 msgctxt "CREATURE:GIANT_TOAD"
 msgid "[DESCRIPTION:A huge monster in the shape of a toad.]"
@@ -4677,11 +4677,11 @@ msgstr "[TLCM_NOUN:шкіра:SINGULAR]"
 
 msgctxt "CREATURE:WORM_MAN"
 msgid "[NAME:worm man:worm men:worm man]"
-msgstr ""
+msgstr "[NAME:хробаколюд:хробаколюди:хробаколюда]"
 
 msgctxt "CREATURE:WORM_MAN"
 msgid "[CASTE_NAME:worm man:worm men:worm man]"
-msgstr ""
+msgstr "[CASTE_NAME:хробако-чоловік:хробако-чоловіки:хробако-чоловіка]"
 
 msgctxt "CREATURE:WORM_MAN"
 msgid "[DESCRIPTION:A worm-like creature with the torso of a man.]"
@@ -4697,15 +4697,15 @@ msgstr ""
 
 msgctxt "CREATURE:BIRD_BLUEJAY"
 msgid "[NAME:blue jay:blue jays:blue jay]"
-msgstr ""
+msgstr "[NAME:синя сойка:сині сойки:синьої сойки]"
 
 msgctxt "CREATURE:BIRD_BLUEJAY"
 msgid "[CASTE_NAME:blue jay:blue jays:blue jay]"
-msgstr ""
+msgstr "[CASTE_NAME:синя сойка:сині сойки:синьої сойки]"
 
 msgctxt "CREATURE:BIRD_BLUEJAY"
 msgid "[GENERAL_CHILD_NAME:blue jay hatchling:blue jay hatchlings]"
-msgstr ""
+msgstr "[GENERAL_CHILD_NAME:пташеня синьої сойки:пташенята синьої сойки]"
 
 msgctxt "CREATURE:BIRD_BLUEJAY"
 msgid "[PREFSTRING:coloration]"
@@ -4717,7 +4717,7 @@ msgstr "[ATTACK_VERB:кусаєте:кусає]"
 
 msgctxt "CREATURE:BIRD_BLUEJAY"
 msgid "[ATTACK_VERB:snatch at:snatches at]"
-msgstr ""
+msgstr "[ATTACK_VERB:хапати кігтиками:хапає кігтиками]"
 
 msgctxt "CREATURE:BIRD_BLUEJAY"
 msgid "[TLCM_NOUN:feathers:PLURAL]"
@@ -4734,14 +4734,17 @@ msgstr "[TLCM_NOUN:очі:PLURAL]"
 msgctxt "CREATURE:BLUEJAY_MAN"
 msgid "[CASTE_NAME:bluejay man:bluejay men:bluejay man]"
 msgstr ""
+"[CASTE_NAME:синьосойколюду чоловік:синьосойколюду чоловіки:синьосойколюду "
+"чоловіка]"
 
 msgctxt "CREATURE:BLUEJAY_MAN"
 msgid "[CASTE_NAME:bluejay woman:bluejay women:bluejay woman]"
 msgstr ""
+"[CASTE_NAME:синьосойколюду жінка:синьосойколюду жінки:синьосойколюду жінки]"
 
 msgctxt "CREATURE:BLUEJAY_MAN"
 msgid "[NAME:bluejay man:bluejay men:bluejay man]"
-msgstr ""
+msgstr "[NAME:синьосойколюд:синьосойколюди:синьосойколюду]"
 
 msgctxt "CREATURE:BLUEJAY_MAN"
 msgid "[DESCRIPTION:A person with the head and wings of a bluejay.]"
@@ -4750,18 +4753,23 @@ msgstr "[DESCRIPTION:Людина з головою і крилами сойки
 msgctxt "CREATURE:GIANT_BLUEJAY"
 msgid "[NAME:giant bluejay:giant bluejays:giant bluejay]"
 msgstr ""
+"[NAME:гігантська синя сойка:гігантські сині сойки:гігантської синьої сойки]"
 
 msgctxt "CREATURE:GIANT_BLUEJAY"
 msgid "[CASTE_NAME:giant bluejay:giant bluejays:giant bluejay]"
 msgstr ""
+"[CASTE_NAME:гігантська синя сойка:гігантські сині сойки:гігантської синьої "
+"сойки]"
 
 msgctxt "CREATURE:GIANT_BLUEJAY"
 msgid "[GENERAL_CHILD_NAME:giant bluejay hatchling:giant bluejay hatchlings]"
 msgstr ""
+"[GENERAL_CHILD_NAME:пташеня гігантської синьої сойки:пташенята гіганстької "
+"синьої сойки]"
 
 msgctxt "CREATURE:GIANT_BLUEJAY"
 msgid "[DESCRIPTION:A huge monster in the form of a bluejay.]"
-msgstr ""
+msgstr "[DESCRIPTION:Гігантський монстр у вигляді синьої сойки.]"
 
 msgctxt "CREATURE:GIANT_BLUEJAY"
 msgid "[PREFSTRING:coloration]"
@@ -4772,6 +4780,8 @@ msgid ""
 "[DESCRIPTION:A small bright red bird with a distinctive crest, found in "
 "temperate forests.]"
 msgstr ""
+"[DESCRIPTION:Невелика яскраво-червона пташка з характерним гребенем, що "
+"мешкає в лісах помірного клімату.]"
 
 msgctxt "CREATURE:BIRD_CARDINAL"
 msgid "[NAME:cardinal:cardinals:cardinal]"
@@ -4783,7 +4793,7 @@ msgstr "[CASTE_NAME:кардинал:кардинали:кардинал]"
 
 msgctxt "CREATURE:BIRD_CARDINAL"
 msgid "[GENERAL_CHILD_NAME:cardinal hatchling:cardinal hatchlings]"
-msgstr ""
+msgstr "[GENERAL_CHILD_NAME:пташеня кардинала:пташенята кардинала]"
 
 msgctxt "CREATURE:BIRD_CARDINAL"
 msgid "[PREFSTRING:coloration]"
@@ -4795,7 +4805,7 @@ msgstr "[ATTACK_VERB:кусаєте:кусає]"
 
 msgctxt "CREATURE:BIRD_CARDINAL"
 msgid "[ATTACK_VERB:snatch at:snatches at]"
-msgstr ""
+msgstr "[ATTACK_VERB:хапати кігтиками:хапає кігтиками]"
 
 msgctxt "CREATURE:BIRD_CARDINAL"
 msgid "[TLCM_NOUN:feathers:PLURAL]"
@@ -4812,10 +4822,13 @@ msgstr "[TLCM_NOUN:очі:PLURAL]"
 msgctxt "CREATURE:CARDINAL_MAN"
 msgid "[CASTE_NAME:cardinal man:cardinal men:cardinal man]"
 msgstr ""
+"[CASTE_NAME:кардиналолюду чоловік:кардиналолюду чоловіки:кардиналолюдського "
+"чоловіка]"
 
 msgctxt "CREATURE:CARDINAL_MAN"
 msgid "[CASTE_NAME:cardinal woman:cardinal women:cardinal woman]"
 msgstr ""
+"[CASTE_NAME:кардиналолюду жінка:кардиналолюду жінки:кардиналолюдської жінки]"
 
 msgctxt "CREATURE:CARDINAL_MAN"
 msgid "[NAME:cardinal man:cardinal men:cardinal man]"
