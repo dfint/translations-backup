@@ -42,6 +42,7 @@
 # Евгений Егоров, 2024
 # Максим Леонов, 2024
 # Alexander Tychinin, 2025
+# Dmitry Shvetsov, 2025
 # Transifex Bot <>, 2025
 # Mikhail M (insolor), 2025
 # 
@@ -6390,13 +6391,13 @@ msgid "Fire at enemies"
 msgstr "Стрелять по врагам"
 
 msgid "Practice fire (uses many bolts!)"
-msgstr ""
+msgstr "Практиковать стрельбу (тратит много болтов!)"
 
 msgid "Stand ready but do not fire"
-msgstr ""
+msgstr "Быть наготове, но не стрелять"
 
 msgid "Keep loaded but do not stand ready"
-msgstr ""
+msgstr "Держать заряженной, но быть наготове"
 
 msgid "Not in use"
 msgstr "Не используется"
@@ -6408,7 +6409,7 @@ msgid "* Place archery targets for better training"
 msgstr "* Установите мишени для более качественной тренировки"
 
 msgid "Resting orientation"
-msgstr "Направление в незаряженном состоянии"
+msgstr "Исходное направление"
 
 msgid "Bolts loaded: "
 msgstr "Болтов заряжено: "
@@ -13347,61 +13348,63 @@ msgid "Invaders can build floors and stairs"
 msgstr "Захватчики могут строить полы и лестницы"
 
 msgid "Invaders can free creatures from cages"
-msgstr "Захватчики могут освобождать существ из клеток"
+msgstr "Захватчики могут открывать клетки"
 
 msgid "Invader deconstruction speed (smaller = slower)"
-msgstr ""
+msgstr "Захватчики: скорость разборки (меньше = медленнее)"
 
 msgid "Invader deconstruction aversion (smaller = more deconstruct)"
-msgstr ""
+msgstr "Захватчики: избегание разборки (меньше = больше разборки)"
 
 msgid "Invader digging speed (smaller = slower)"
-msgstr ""
+msgstr "Захватчики: скорость копания (меньше = медленнее)"
 
 msgid "Invader horizontal digging aversion (smaller = more digging)"
 msgstr ""
+"Захватчики: избегание горизонтального копания (меньше = больше копания)"
 
 msgid "Invader vertical digging aversion (smaller = more digging)"
 msgstr ""
+"Захватчики: избегание вертикальной раскопки (меньше = больше раскопки)"
 
 msgid "Invader days to delay vertical natural wall digging"
-msgstr ""
+msgstr "Захватчики: дней между раскопкой вертикальных естественных стен"
 
 msgid "Invader construction speed (smaller = slower)"
-msgstr ""
+msgstr "Захватчики: скорость строительства (меньше = медленнее)"
 
 msgid "Invader construction aversion (smaller = more construction)"
-msgstr ""
+msgstr "Захватчики: избегание строительства (меньше = больше строительства)"
 
 msgid "Invader death aversion (one death)"
-msgstr ""
+msgstr "Захватчики: избегание смерти (1 смерть)"
 
 msgid "Invader death aversion (two deaths)"
-msgstr ""
+msgstr "Захватчики: избегание смерти (2 смерти)"
 
 msgid "Invader death aversion (three deaths)"
-msgstr ""
+msgstr "Захватчики: избегание смерти (3 смерти)"
 
 msgid "Invader death aversion (four deaths)"
-msgstr ""
+msgstr "Захватчики: избегание смерти (4 смерти)"
 
 msgid "Invader death aversion (five deaths)"
-msgstr ""
+msgstr "Захватчики: избегание смерти (5 смертей)"
 
 msgid "Invader death aversion (six deaths)"
-msgstr ""
+msgstr "Захватчики: избегание смерти (6 смертей)"
 
 msgid "Invader death aversion (seven deaths)"
-msgstr ""
+msgstr "Захватчики: избегание смерти (7 смертей)"
 
 msgid "Invader death aversion (eight deaths)"
-msgstr ""
+msgstr "Захватчики: избегание смерти (8 смертей)"
 
 msgid "Invader death aversion (nine deaths)"
-msgstr ""
+msgstr "Захватчики: избегание смерти (9 смертей)"
 
 msgid "Invader death aversion (ten+ deaths)"
-msgstr ""
+msgstr "Захватчики: избегание смерти (10+ смертей)"
 
 msgid "Economy population trigger 1"
 msgstr "Триггер экономики от населения 1"
@@ -14242,7 +14245,7 @@ msgid "Making a nemesis from spec"
 msgstr ""
 
 msgid "Updating a historical figure's unit"
-msgstr ""
+msgstr "Обновление юнита исторической фигуры"
 
 msgid "Handling job applications"
 msgstr "Рассмотрение резюме"
@@ -14257,64 +14260,64 @@ msgid "Creating a unit for a nemesis"
 msgstr ""
 
 msgid "Performing social actions"
-msgstr ""
+msgstr "Выполнение социальных взаимодействий"
 
 msgid "Loading a unit chunk"
-msgstr ""
+msgstr "Загрузка блока юнитов"
 
 msgid "Advancing vegetation"
-msgstr ""
+msgstr "Продвижение растительности"
 
 msgid "Advancing interactions"
-msgstr ""
+msgstr "Продвижение взаимодействий"
 
 msgid "Aging items"
-msgstr ""
+msgstr "Старение предметов"
 
 msgid "Advancing map blocks"
-msgstr ""
+msgstr "Продвижение блоков карты"
 
 msgid "Advancing sites"
-msgstr ""
+msgstr "Продвижение мест"
 
 msgid "Advancing entities"
-msgstr ""
+msgstr "Продвижение существ"
 
 msgid "Fort mode weather check"
-msgstr ""
+msgstr "Проверка погоды для режима крепости"
 
 msgid "Advancing unit moves"
-msgstr ""
+msgstr "Перемещение юнитов"
 
 msgid "Historical figure deaths"
-msgstr ""
+msgstr "Смерти исторических фигур"
 
 msgid "Historical figure conceptions"
-msgstr ""
+msgstr "Концепции исторических фигур"
 
 msgid "Wilderness population changes"
-msgstr ""
+msgstr "Изменения популяций в дикой природе"
 
 msgid "Entity population changes"
-msgstr ""
+msgstr "Изменения популяций существ"
 
 msgid "Historical figure births"
-msgstr ""
+msgstr "Рождения исторических фигур"
 
 msgid "Historical figure growing up"
-msgstr ""
+msgstr "Историческая фигура вырастает"
 
 msgid "Historical figure marriages"
 msgstr "Браки исторических фигур"
 
 msgid "Periodic cleanup"
-msgstr ""
+msgstr "Периодическая чистка"
 
 msgid "Verifying squad orders"
-msgstr ""
+msgstr "Проверка приказов отрядов"
 
 msgid "Scheduling squads"
-msgstr ""
+msgstr "Расписание отрядов"
 
 msgid "Rendering a widget"
 msgstr "Rendering a widget"
@@ -15769,7 +15772,7 @@ msgid "Unusable armor"
 msgstr "Непригодные доспехи"
 
 msgid "Undyed"
-msgstr ""
+msgstr "Неокрашено"
 
 msgid "Unprepared fish"
 msgstr "Сырая рыба"
@@ -16295,7 +16298,7 @@ msgid "0 = Can use any shop"
 msgstr "0 = Можно использовать любую мастерскую"
 
 msgid "Must set colors"
-msgstr ""
+msgstr "Нужно выбрать цвета"
 
 msgid "There are no active work orders."
 msgstr "Нет активных заказов."
@@ -17020,7 +17023,7 @@ msgid "Wall"
 msgstr "Стена"
 
 msgid "Reinforced Wall"
-msgstr ""
+msgstr "Усиленная стена"
 
 msgid "Floor"
 msgstr "Пол"
@@ -17140,7 +17143,7 @@ msgid "Catapult"
 msgstr "Катапульта"
 
 msgid "Bolt thrower"
-msgstr ""
+msgstr "Болтомёт"
 
 msgid "Disconnected"
 msgstr "Отключён"
@@ -17380,16 +17383,16 @@ msgid "Removing mining/chopping/gathering/smoothing orders"
 msgstr "Отмена приказов на добычу/рубку/сбор/сглаживание"
 
 msgid "once it is placed."
-msgstr ""
+msgstr "после установки."
 
 msgid "A ballista's orientation cannot be changed"
-msgstr ""
+msgstr "Направление баллисты нельзя изменить"
 
 msgid "A bolt thrower can be freely turned by the"
-msgstr ""
+msgstr "Оператор может свободно поворачивать"
 
 msgid "operator.  Choose a resting orientation."
-msgstr ""
+msgstr "болтомёт.  Выберите исходное направление."
 
 msgid "Horizontal axles can vary in length."
 msgstr "Горизонтальные оси могут быть разной длины."
@@ -19150,7 +19153,7 @@ msgid "Edit the recenter hotkey locations."
 msgstr "Привязать клавиши к точкам центрирования камеры."
 
 msgid "Recenter on the surface at this location."
-msgstr "Перейти к поверхности в этой области."
+msgstr "Перейти к поверхности в этой точке."
 
 msgid "Recenter on the deepest discovered area at this location."
 msgstr "Перейти к глубочайшей достигнутой точке в этой области."
@@ -19753,6 +19756,10 @@ msgid ""
 "fluids.  Requires two boulder, block, or wood, and metal bars.  Provides "
 "some resistance to invaders."
 msgstr ""
+"Вы можете строить укреплённые стены над землёй, в пещерах или в вырытых "
+"пространствах, чтобы блокировать проход существ, предметов и жидкостей.  "
+"Требуются два валуна, блока или дерева, а также металлические прутья.  Это "
+"обеспечит некоторую защиту от захватчиков."
 
 msgid ""
 "You can place floors for functional reasons or to enhance the appearance of "
@@ -19954,6 +19961,8 @@ msgid ""
 "A bolt thrower fires a regular bolts rapidly.  The operator swivels the "
 "machine from any available adjacent tiles."
 msgstr ""
+"Болтомёт выстреливает болты очередями.  Оператор может управлять им с любой "
+"соседней клетки."
 
 msgid "Create a creature to place in the arena."
 msgstr "Создать существо на арене"
@@ -27870,7 +27879,7 @@ msgid "Siege Engine"
 msgstr "Осадная машина"
 
 msgid "Bolt Thrower"
-msgstr ""
+msgstr "Болтомёт"
 
 msgid "Floor Hatch"
 msgstr "Люк"
@@ -40652,31 +40661,31 @@ msgid "Tissue Template "
 msgstr "Шаблон Ткани"
 
 msgid "vascular"
-msgstr ""
+msgstr "сосудистый"
 
 msgid "shape"
 msgstr "форма"
 
 msgid "insulation"
-msgstr ""
+msgstr "изоляция"
 
 msgid " maintains possession of the "
 msgstr "сохранить контроль над"
 
 msgid " needs 2 tokens: "
-msgstr " needs 2 tokens: "
+msgstr ""
 
 msgid " needs 3 tokens: "
-msgstr " needs 3 tokens: "
+msgstr ""
 
 msgid " needs 6 tokens: "
-msgstr " needs 6 tokens: "
+msgstr ""
 
 msgid "gnaw"
 msgstr ""
 
 msgid "baby"
-msgstr "младенец"
+msgstr ""
 
 msgid "description"
 msgstr ""
@@ -40760,10 +40769,10 @@ msgid "orientation"
 msgstr ""
 
 msgid "chunk"
-msgstr "кусок"
+msgstr ""
 
 msgid "chunks"
-msgstr "куски"
+msgstr ""
 
 msgid "after being reunited with a loved one"
 msgstr "после воссоединения со своей любовью"
@@ -44157,10 +44166,10 @@ msgid "Undead Hunt"
 msgstr "Охотник Нежить"
 
 msgid "Maraude Target"
-msgstr ""
+msgstr "Цель марадеров"
 
 msgid "Maraude Waypoint"
-msgstr ""
+msgstr "Точка пути марадеров"
 
 msgid "Sieger Basepoint"
 msgstr "Базовая точка Осады"
@@ -44868,7 +44877,7 @@ msgid "Seek Heist Handoff"
 msgstr "Искать передачу ограбления"
 
 msgid "Battering Ram Position"
-msgstr ""
+msgstr "Позиция тарана"
 
 msgid "agriculture"
 msgstr "земледелие"
@@ -46626,10 +46635,12 @@ msgid "Duplicate Object: "
 msgstr "Копировать объект:"
 
 msgid " Offending mods are "
-msgstr ""
+msgstr " Конфликтующие моды: "
 
 msgid ". Further duplicates will be printed to errorlog; worldgen will abort."
 msgstr ""
+". В дальнейшем дубликаты будут записаны в errorlog, генерация мира будет "
+"прервана."
 
 msgid "Vanilla Descriptors Graphics"
 msgstr "Vanilla Descriptors Graphics"
@@ -51782,7 +51793,7 @@ msgid "-containing "
 msgstr "-содержащий "
 
 msgid "color "
-msgstr ""
+msgstr "цвет "
 
 msgid "liquid cooking"
 msgstr "приготавливаемая жидкость"
@@ -51875,7 +51886,7 @@ msgid "rough "
 msgstr "грубый "
 
 msgid "Reinforced "
-msgstr ""
+msgstr "Усиленная "
 
 msgid " log"
 msgstr " журнал"
@@ -51914,7 +51925,7 @@ msgid "Bay 12 Games"
 msgstr "Bay 12 Games"
 
 msgid "Could not copy file "
-msgstr ""
+msgstr "Не удалось копировать файл "
 
 msgid "File not found: "
 msgstr "Файл не найден: "
@@ -52367,7 +52378,7 @@ msgid " laced with "
 msgstr " с примесью "
 
 msgid " dye mix"
-msgstr ""
+msgstr " смесь красок"
 
 msgid "powder"
 msgstr "порошок"
@@ -52379,7 +52390,7 @@ msgid "catapult parts"
 msgstr "части катапульты"
 
 msgid "bolt thrower parts"
-msgstr ""
+msgstr "части болтомёта"
 
 msgid "mechanisms"
 msgstr "механизмы"
@@ -52662,12 +52673,18 @@ msgid ""
 " your outpost through its history.  Design the shape and purpose of the "
 "fortress by issuing orders for the residents to follow."
 msgstr ""
+"Ваши жители будут строить, добывать ресурсы, мастерить, торговать, сражаться"
+" и управлять, пока вы управляете своим форпостом на протяжении всей его "
+"истории.  Определите вид и назначение крепости, отдавая приказы жителям."
 
 msgid ""
 "You can play a sequence of fortresses and adventurers in the same world.  "
 "Migrants from retired and abandoned fortresses may come to visit, along with"
 " any surviving adventurers."
 msgstr ""
+"Вы можете играть по очереди в режиме крепости и режиме искателя приключений "
+"в одном и том же мире.  Вас могут посещать переселенцы из заброшенных "
+"крепостей и выжившие искатели приключений."
 
 msgid "no material"
 msgstr "нет материалов"
@@ -62297,7 +62314,7 @@ msgid " ballista parts"
 msgstr " части баллисты"
 
 msgid " bolt thrower parts"
-msgstr ""
+msgstr " части болтомёта"
 
 msgid " anvil"
 msgstr " наковальню"
@@ -62579,7 +62596,7 @@ msgid "Load ballista"
 msgstr "Зарядить баллисту"
 
 msgid "Load bolt thrower"
-msgstr ""
+msgstr "Загрузить болтомёт"
 
 msgid "Fire catapult"
 msgstr "Стрелять из катапульты"
@@ -62588,7 +62605,7 @@ msgid "Fire ballista"
 msgstr "Стрелять из баллисты"
 
 msgid "Fire bolt thrower"
-msgstr ""
+msgstr "Стрелять из болтомёта"
 
 msgid "Operate pump"
 msgstr "Управлять насосом"
@@ -72799,7 +72816,7 @@ msgid "image set to"
 msgstr "изображение установлено на"
 
 msgid "coloration to"
-msgstr ""
+msgstr "цвет на"
 
 msgid ", Crafts"
 msgstr ", изделия"
@@ -78918,7 +78935,7 @@ msgid "Orderlies"
 msgstr "Санитары"
 
 msgid "Siege operators"
-msgstr ""
+msgstr "Осадные операторы"
 
 msgid "No alert"
 msgstr "Нет предупреждений"
@@ -78942,85 +78959,85 @@ msgid "few dozen"
 msgstr ""
 
 msgid "some dozens"
-msgstr ""
+msgstr "несколько десятков"
 
 msgid "a hundred"
-msgstr ""
+msgstr "сотня"
 
 msgid "over a hundred"
-msgstr ""
+msgstr "больше сотни"
 
 msgid "a few hundred"
-msgstr ""
+msgstr "несколько сотен"
 
 msgid "a thousand"
-msgstr ""
+msgstr "тысяча"
 
 msgid "three thousand"
-msgstr ""
+msgstr "три тысячи"
 
 msgid "four thousand"
-msgstr ""
+msgstr "четыре тысячи"
 
 msgid "five thousand"
-msgstr ""
+msgstr "пять тысяч"
 
 msgid "six thousand"
-msgstr ""
+msgstr "шесть тысяч"
 
 msgid "seven thousand"
-msgstr ""
+msgstr "семь тысяч"
 
 msgid "eight thousand"
-msgstr ""
+msgstr "восемь тысяч"
 
 msgid "nine thousand"
-msgstr ""
+msgstr "девять тысяч"
 
 msgid "ten thousand"
-msgstr ""
+msgstr "десять тысяч"
 
 msgid "twenty thousand"
-msgstr ""
+msgstr "двадцать тысяч"
 
 msgid "thirty thousand"
-msgstr ""
+msgstr "тридцать тысяч"
 
 msgid "forty thousand"
-msgstr ""
+msgstr "сорок тысяч"
 
 msgid "fifty thousand"
-msgstr ""
+msgstr "пятьдесят тысяч"
 
 msgid "sixty thousand"
-msgstr ""
+msgstr "шестьдесят тысяч"
 
 msgid "eighty thousand"
-msgstr ""
+msgstr "восемьдесят тысяч"
 
 msgid "ninety thousand"
-msgstr ""
+msgstr "девяносто тысяч"
 
 msgid "hundred thousand"
-msgstr ""
+msgstr "сто тысяч"
 
 msgid "hundred thousands"
-msgstr ""
+msgstr "сто тысяч"
 
 msgid "one million"
-msgstr ""
+msgstr "миллион"
 
 msgid "millions"
-msgstr ""
+msgstr "миллионы"
 
 msgid "thousands"
-msgstr ""
+msgstr "тысячи"
 
 msgid "dozens"
-msgstr ""
+msgstr "десятки"
 
 msgid "few"
-msgstr ""
+msgstr "несколько"
 
 msgid "Nearest site: "
 msgstr "Поселение:"
@@ -80724,7 +80741,7 @@ msgid "fisherman"
 msgstr "рыбак"
 
 msgid "fishermen"
-msgstr ""
+msgstr "рыбак"
 
 msgid "fish dissector"
 msgstr "потрошитель рыбы"
@@ -80847,7 +80864,7 @@ msgid "crossbowmen"
 msgstr ""
 
 msgid "Elite Crossbowmen"
-msgstr ""
+msgstr "Элитный арбалетчик"
 
 msgid "Elite Crossbowman"
 msgstr "Элитный арбалетчик"
@@ -80898,7 +80915,7 @@ msgid "bowman"
 msgstr "лучник"
 
 msgid "bowmen"
-msgstr ""
+msgstr "лучник"
 
 msgid "Elite Bowman"
 msgstr "Элитный лучник"
