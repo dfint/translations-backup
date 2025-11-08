@@ -7,7 +7,6 @@
 # Szymon Łuczak, 2022
 # Krzysztof Bienias <krzysztof.bienias.kb@gmail.com>, 2022
 # Paronskaft, 2023
-# error Studio <maselko21u@gmail.com>, 2023
 # Art S, 2023
 # Fuze, 2023
 # Maciej Dembiński, 2023
@@ -28,10 +27,11 @@
 # musznik <bymucha@gmail.com>, 2025
 # Darek S <ds.nowe1@gmail.com>, 2025
 # Transifex Bot <>, 2025
+# Max_It_Hunter <maselko21u@gmail.com>, 2025
 # 
 msgid ""
 msgstr ""
-"Last-Translator: Transifex Bot <>, 2025\n"
+"Last-Translator: Max_It_Hunter <maselko21u@gmail.com>, 2025\n"
 "Language-Team: Polish (https://app.transifex.com/dwarf-fortress-translation/teams/22396/pl/)\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -432,7 +432,7 @@ msgid "Tarn Adams"
 msgstr "Tarn Adams"
 
 msgid "West"
-msgstr ""
+msgstr "Zachód"
 
 msgid "Poet"
 msgstr "Poeta"
@@ -3744,66 +3744,68 @@ msgid "An army is invading!"
 msgstr "Wroga armia nadchodzi!"
 
 msgid "The army is commanded by "
-msgstr ""
+msgstr "Armią dowodzi"
 
 msgid ""
 ", an ancient and horrible demon escaped from the underworld before the dawn "
 "of time"
 msgstr ""
+", starożytny i straszny demon uciekł z podziemnego świata przed zaraniem "
+"dziejów"
 
 msgid ", a talented commander"
-msgstr ""
+msgstr ", utalentowany dowódca"
 
 msgid ", a seasoned commander"
-msgstr ""
+msgstr ", doświadczony dowódca"
 
 msgid ", a competent commander"
-msgstr ""
+msgstr ", kompetentny dowódca"
 
 msgid ", a "
 msgstr ", "
 
 msgid "true warrior"
-msgstr ""
+msgstr "prawdziwy wojownik"
 
 msgid "skilled warrior"
-msgstr ""
+msgstr "wykwalifikowany wojownik"
 
 msgid "middling warrior"
-msgstr ""
+msgstr "przeciętny wojownik"
 
 msgid "Beware their "
-msgstr ""
+msgstr "Strzeż się ich"
 
 msgid "heavily-armored "
-msgstr ""
+msgstr "ciężko opancerzony"
 
 msgid "armored "
-msgstr ""
+msgstr "opancerzony"
 
 msgid "elite "
-msgstr ""
+msgstr "elitarny"
 
 msgid "skilled "
-msgstr ""
+msgstr "wykwalifikowany"
 
 msgid "mounted "
 msgstr "zamontowany"
 
 msgid "With them "
-msgstr ""
+msgstr "z nimi"
 
 msgid "come monstrous siege engineers"
-msgstr ""
+msgstr "nadchodzą inżynierowie oblężniczy potworów "
 
 msgid "comes a "
-msgstr ""
+msgstr "poszedł na"
 
 msgid "come "
-msgstr ""
+msgstr "przyjść"
 
 msgid " from the "
-msgstr ""
+msgstr "z"
 
 msgid "army is located out of bounds: teleporting"
 msgstr "army is located out of bounds: teleporting"
@@ -4090,7 +4092,7 @@ msgid "On "
 msgstr "Na"
 
 msgid "In "
-msgstr ""
+msgstr "W"
 
 msgid "With "
 msgstr "Z"
@@ -4102,10 +4104,10 @@ msgid "View stockpile"
 msgstr "Przeglądaj zapasy"
 
 msgid "Assigned to hunters"
-msgstr ""
+msgstr "Przypisany do łowców "
 
 msgid "Assigned to "
-msgstr ""
+msgstr "Przypisany do"
 
 msgid "Uses"
 msgstr "Użycia"
@@ -5188,7 +5190,7 @@ msgid "Think abstractly"
 msgstr "Myśleć abstrakcyjnie"
 
 msgid "Assume Control"
-msgstr ""
+msgstr "Przejmij kontrolę"
 
 msgid "Status"
 msgstr "Status"
@@ -5621,7 +5623,7 @@ msgid "Legendary hero"
 msgstr "Legendarny bohater"
 
 msgid "Famous hero"
-msgstr ""
+msgstr "Słynny bohater"
 
 msgid "Greatly respected for heroic acts"
 msgstr "Wielce szanowany za swe bohaterstwo"
@@ -6374,43 +6376,43 @@ msgid "Chained"
 msgstr "Przykuty"
 
 msgid "Fire at enemies"
-msgstr ""
+msgstr "Strzelać do wrogów"
 
 msgid "Practice fire (uses many bolts!)"
-msgstr ""
+msgstr "Strzelanie ćwiczebne (wykorzystuje wiele bełtów!)"
 
 msgid "Stand ready but do not fire"
-msgstr ""
+msgstr "Bądź w gotowości, ale nie strzelaj "
 
 msgid "Keep loaded but do not stand ready"
-msgstr ""
+msgstr "Trzymaj załadowany, ale nie bądź w gotowości"
 
 msgid "Not in use"
-msgstr ""
+msgstr "Nie w użyciu"
 
 msgid "* Will also target enemies"
-msgstr ""
+msgstr "* Będzie także namierzać wrogów"
 
 msgid "* Place archery targets for better training"
-msgstr ""
+msgstr "* Umieść tarcze łucznicze, aby lepiej wyszkolić łuczników"
 
 msgid "Resting orientation"
-msgstr ""
+msgstr "Orientacja spoczynkowa"
 
 msgid "Bolts loaded: "
-msgstr ""
+msgstr "Załadowane bełty:"
 
 msgid "Bolts nearby and available: "
-msgstr ""
+msgstr "Bełty w pobliżu i dostępne:"
 
 msgid "Bolts nearby but assigned to squads: "
-msgstr ""
+msgstr "Bełty w pobliżu, ale przydzielone do oddziałów:"
 
 msgid "Bolts nearby but assigned to hunters: "
-msgstr ""
+msgstr "Bełty w pobliżu, ale przypisane łowcom:"
 
 msgid "Practice fire"
-msgstr ""
+msgstr "Ćwiczyć strzelanie"
 
 msgid "Operated by Mechanisms"
 msgstr "Obsługiwane przez mechanizm"
@@ -6485,7 +6487,7 @@ msgid "Anyone requested at depot"
 msgstr "Ktokolwiek potrzebny w składzie"
 
 msgid "A catapult's orientation cannot be changed"
-msgstr ""
+msgstr "Orientacji katapulty nie może być zmieniona "
 
 msgid "No trader needed at depot"
 msgstr "Nie potrzeba handlarzy w składzie"
@@ -6524,7 +6526,7 @@ msgid "(now)"
 msgstr "(teraz)"
 
 msgid "day"
-msgstr ""
+msgstr "dzień"
 
 msgid "Leave fallow"
 msgstr "Zostaw odłogiem"
@@ -6673,7 +6675,7 @@ msgid "he"
 msgstr "on"
 
 msgid "she"
-msgstr ""
+msgstr "ona"
 
 msgid "didn't feel "
 msgstr "nie czuje "
@@ -6757,10 +6759,10 @@ msgid "gaiety"
 msgstr "wesoły"
 
 msgid "sad"
-msgstr ""
+msgstr "smutny"
 
 msgid "joy"
-msgstr ""
+msgstr "radosny"
 
 msgid "blissful"
 msgstr "błogi"
@@ -6826,7 +6828,7 @@ msgid "aversion"
 msgstr "awersję"
 
 msgid "awe"
-msgstr ""
+msgstr "groza"
 
 msgid "bitter"
 msgstr "gorycz"
@@ -7688,10 +7690,10 @@ msgid ", replacing "
 msgstr ", zastępując "
 
 msgid "his"
-msgstr ""
+msgstr "jego"
 
 msgid "her"
-msgstr ""
+msgstr "jej"
 
 msgid " was known to be"
 msgstr " był znany z tego, że"
@@ -7968,10 +7970,10 @@ msgid "Camera controls"
 msgstr "Ustawienia kamery"
 
 msgid "Movement"
-msgstr ""
+msgstr "Ruch "
 
 msgid "Menu overview"
-msgstr ""
+msgstr "Menu podglądu"
 
 msgid "[Completed]"
 msgstr "[Ukończone]"
@@ -8052,67 +8054,67 @@ msgid "Popup: Work orders"
 msgstr "Wyskakujące okno: Zlecenia pracy"
 
 msgid "Popup: Companions"
-msgstr ""
+msgstr "Podgląd: Towarzysze"
 
 msgid "Popup: Adventurer's log"
-msgstr ""
+msgstr "Podgląd: Dziennik podróżnika "
 
 msgid "Popup: Inventory"
-msgstr ""
+msgstr "Podgląd: Ekwipunek"
 
 msgid "Popup: Movement options"
-msgstr ""
+msgstr "Podgląd: Opcje ruchu "
 
 msgid "Popup: Hold and climb"
-msgstr ""
+msgstr "Podgląd: Przytrzymaj się i wespnij "
 
 msgid "Popup: Talk"
-msgstr ""
+msgstr "Podgląd: Mowa"
 
 msgid "Popup: Perform"
-msgstr ""
+msgstr "Podgląd: Wykonaj"
 
 msgid "Popup: Butcher and craft"
-msgstr ""
+msgstr "Podgląd: obrób i stwórz"
 
 msgid "Popup: Abilities"
-msgstr ""
+msgstr "Podgląd: Zdolności"
 
 msgid "Popup: Strike"
-msgstr ""
+msgstr "Podgląd: Uderz "
 
 msgid "Popup: Wrestle"
-msgstr ""
+msgstr "Podgląd: Siłuj się"
 
 msgid "Popup: Shoot and throw"
-msgstr ""
+msgstr "Podgląd: Strzelaj i rzucaj"
 
 msgid "Popup: Travel"
-msgstr ""
+msgstr "Podgląd: Podróż "
 
 msgid "Popup: Sleep and rest"
-msgstr ""
+msgstr "Podgląd: Śpij i odpoczywaj"
 
 msgid "Survival"
 msgstr "Przetrwanie"
 
 msgid "The party and followers"
-msgstr ""
+msgstr "Partia i zwolennicy"
 
 msgid "Conversations"
 msgstr "Rozmowy"
 
 msgid "Trading"
-msgstr ""
+msgstr "handel"
 
 msgid "Quests and reputation"
-msgstr ""
+msgstr "Zadania i reputacja"
 
 msgid "Fortress mode"
-msgstr ""
+msgstr "Tryb fortecy"
 
 msgid "Retirement"
-msgstr ""
+msgstr "Emerytura"
 
 msgid "[Viewed]"
 msgstr "[Oglądane]"
@@ -8166,10 +8168,10 @@ msgid "Retire"
 msgstr "Pozostaw"
 
 msgid "you will need to unretire or recruit"
-msgstr ""
+msgstr "musisz powrócić albo zrezygnować"
 
 msgid "this character to play them again."
-msgstr ""
+msgstr "tę postać, aby zagrać nimi ponownie."
 
 msgid "Really quit?  The fort will be saved but"
 msgstr "Naprawdę odejść? Fort zostanie zapisany, ale"
@@ -8181,13 +8183,13 @@ msgid "Abandon"
 msgstr "Porzuć"
 
 msgid "Really quit?  The character will live on"
-msgstr ""
+msgstr "Naprawdę wychodzisz? Postać będzie żyć dalej"
 
 msgid "through their legend but will not be"
-msgstr ""
+msgstr "przez ich legendę, ale nie będzie"
 
 msgid "available to play."
-msgstr ""
+msgstr "dostępne do gry."
 
 msgid "Save and return to title menu"
 msgstr "Zapisz i przejdź do menu głównego"
@@ -8208,10 +8210,10 @@ msgid "Succumb to the invasion"
 msgstr "Ulegnij inwazji"
 
 msgid "Retire at this location (or rest a while)"
-msgstr ""
+msgstr "Pożuć tę lokacje (lub odpocznij chwilę)"
 
 msgid "Give in to the Night"
-msgstr ""
+msgstr "Poddaj się nocy"
 
 msgid "Finish Game"
 msgstr "Zakończenie gry"
@@ -8364,7 +8366,7 @@ msgid "Losing is Fun"
 msgstr "Losing is Fun"
 
 msgid "Danger Room"
-msgstr ""
+msgstr "Niebezpieczny Pokój"
 
 msgid "Track playing: "
 msgstr "Odtwarzanie utworu:"
@@ -8427,7 +8429,7 @@ msgid "Last interlude: "
 msgstr "Ostatni przerywnik: "
 
 msgid "Combat music: "
-msgstr ""
+msgstr "Muzyka bitewna:"
 
 msgid "Really quit without saving?"
 msgstr "Wyjść z gry bez zapisania?"
@@ -8448,12 +8450,14 @@ msgid ""
 "The game is open-ended and you can do whatever you choose.  If you'd like a "
 "goal, try to join a village hearth and improve your reputation. "
 msgstr ""
+"Gra jest otwarta i możesz robić, co chcesz. Jeśli chcesz osiągnąć jakiś cel,"
+" spróbuj dołączyć do wiejskiego ogniska i poprawić swoją reputację."
 
 msgid "The guides here will suggest other possible avenues of play. "
-msgstr ""
+msgstr "Przewodnik zasugeruje inne możliwe sposoby gry."
 
 msgid "And remember: [C:2:0:1]Losing is fun, and now it's personal![C:7:0:0]"
-msgstr ""
+msgstr "I pamiętaj: [C:2:0:1]Przegrywanie jest fajne i osobiste![C:7:0:0]"
 
 msgid ""
 "The game is open-ended and you can do whatever you choose.  If you'd like a "
@@ -8606,10 +8610,10 @@ msgid "Don't show again"
 msgstr "Nie pokazuj więcej"
 
 msgid "Left click to move"
-msgstr ""
+msgstr "Kliknij lewy by poruszyć"
 
 msgid "Right click to move"
-msgstr ""
+msgstr "Kliknij prawy by poruszyć"
 
 msgid "Okay"
 msgstr "Ok"
@@ -10525,11 +10529,15 @@ msgid ""
 "You can see how many worshippers of each deity live in your fortress by "
 "scrolling over their names. "
 msgstr ""
+"Możesz zobaczyć ilu wyznawców poszczególnych bóstw żyje w twojej twierdzy, "
+"przewijając nad ich imionami. "
 
 msgid ""
 "In the [C:6:0:1]Temple Info Menu[C:7:0:0] you can see the value of the "
 "[C:1:0:1]Temple[C:7:0:0].  Sometimes the worshippers will demand "
 msgstr ""
+"W [C:6:0:1]Menu Informacji Świątyni[C:7:0:0] możesz zobaczyć wartość "
+"[C:1:0:1]Świątyni[C:7:0:0]. Czasem, wyznawcy będą domagać się "
 
 msgid ""
 "that you increase the value of the temple by decorating or adding "
@@ -11141,11 +11149,15 @@ msgstr ""
 
 msgid "Most adventurers have three principle needs: food, water, and sleep.  "
 msgstr ""
+"Większość poszukiwaczy przygód ma trzy główne potrzeby: jedzenie, wodę i "
+"sen."
 
 msgid ""
 "Food can be obtained in towns, from the environment, or by butchering "
 "corpses with a sharp object.  "
 msgstr ""
+"Pożywienie można zdobyć w miastach, ze środowiska naturalnego lub poprzez "
+"rozcinanie zwłok ostrym przedmiotem."
 
 msgid ""
 "You can find water in wells in towns, or in rivers.  Salt and brackish "
