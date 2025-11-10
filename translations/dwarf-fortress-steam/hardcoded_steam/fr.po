@@ -31,10 +31,12 @@
 # xaor xin, 2025
 # Alexandre M. Pape, 2025
 # Transifex Bot <>, 2025
+# Maud Ypsilik, 2025
+# Ash JeanJean, 2025
 # 
 msgid ""
 msgstr ""
-"Last-Translator: Transifex Bot <>, 2025\n"
+"Last-Translator: Ash JeanJean, 2025\n"
 "Language-Team: French (https://app.transifex.com/dwarf-fortress-translation/teams/22396/fr/)\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -3749,54 +3751,56 @@ msgid "An army is invading!"
 msgstr "Une armée est en train d'envahir!"
 
 msgid "The army is commanded by "
-msgstr ""
+msgstr "L'armée est commandée par "
 
 msgid ""
 ", an ancient and horrible demon escaped from the underworld before the dawn "
 "of time"
 msgstr ""
+", un ancien et terrifiant démon s’est échappé des entrailles de la terre "
+"avant l'aube des temps"
 
 msgid ", a talented commander"
-msgstr ""
+msgstr ", un chef talentueux"
 
 msgid ", a seasoned commander"
-msgstr ""
+msgstr ", un chef expérimenté"
 
 msgid ", a competent commander"
-msgstr ""
+msgstr ", un chef compétent"
 
 msgid ", a "
 msgstr ", un"
 
 msgid "true warrior"
-msgstr ""
+msgstr "un véritable guerrier"
 
 msgid "skilled warrior"
-msgstr ""
+msgstr "un guerrier habile"
 
 msgid "middling warrior"
-msgstr ""
+msgstr "un guerrier moyen"
 
 msgid "Beware their "
-msgstr ""
+msgstr "Méfiez-vous de leur "
 
 msgid "heavily-armored "
-msgstr ""
+msgstr "fortement blindé "
 
 msgid "armored "
-msgstr ""
+msgstr "blindé "
 
 msgid "elite "
-msgstr ""
+msgstr "élite "
 
 msgid "skilled "
-msgstr ""
+msgstr "qualifié "
 
 msgid "mounted "
 msgstr "monté "
 
 msgid "With them "
-msgstr ""
+msgstr "Avec eux "
 
 msgid "come monstrous siege engineers"
 msgstr ""
@@ -6378,43 +6382,43 @@ msgid "Chained"
 msgstr "Enchaîné"
 
 msgid "Fire at enemies"
-msgstr ""
+msgstr "Tirer sur les ennemis"
 
 msgid "Practice fire (uses many bolts!)"
-msgstr ""
+msgstr "Tir d'entraînement (consomme beaucoup de boulons !)"
 
 msgid "Stand ready but do not fire"
-msgstr ""
+msgstr "Tenez-vous prêt, mais ne tirez pas"
 
 msgid "Keep loaded but do not stand ready"
 msgstr ""
 
 msgid "Not in use"
-msgstr ""
+msgstr "Inutilisé"
 
 msgid "* Will also target enemies"
-msgstr ""
+msgstr "* Cible également les ennemis"
 
 msgid "* Place archery targets for better training"
-msgstr ""
+msgstr "* Placez des cibles pour un meilleur entraînement"
 
 msgid "Resting orientation"
 msgstr ""
 
 msgid "Bolts loaded: "
-msgstr ""
+msgstr "Boulons chargés : "
 
 msgid "Bolts nearby and available: "
-msgstr ""
+msgstr "Boulons disponibles à proximité : "
 
 msgid "Bolts nearby but assigned to squads: "
-msgstr ""
+msgstr "Boulons à proximité mais associés à des escouades : "
 
 msgid "Bolts nearby but assigned to hunters: "
-msgstr ""
+msgstr "Boulons à proximité mais associés à des chasseurs : "
 
 msgid "Practice fire"
-msgstr ""
+msgstr "Entraînement au tir"
 
 msgid "Operated by Mechanisms"
 msgstr "Actionné par des mécanismes"
@@ -6489,7 +6493,7 @@ msgid "Anyone requested at depot"
 msgstr "Quelqu'un demandé au dépôt"
 
 msgid "A catapult's orientation cannot be changed"
-msgstr ""
+msgstr "L’orientation d’une catapulte ne peut pas être modifiée"
 
 msgid "No trader needed at depot"
 msgstr "Aucun besoin de commerçant"
@@ -12805,10 +12809,10 @@ msgid "Setting material"
 msgstr "Matériel de réglage"
 
 msgid "Choosing colors to mix"
-msgstr ""
+msgstr "Choisir les couleurs à mélanger"
 
 msgid "Tint "
-msgstr ""
+msgstr "Teinte"
 
 msgid "scratches "
 msgstr "rayures"
@@ -12817,13 +12821,13 @@ msgid " using "
 msgstr "utilisant"
 
 msgid " dye"
-msgstr ""
+msgstr "teinture"
 
 msgid " available"
 msgstr "disponible"
 
 msgid "Choose dye color"
-msgstr ""
+msgstr "Choisir la couleur de teinture"
 
 msgid " (opens menu)"
 msgstr "(ouvre le menu)"
@@ -12841,7 +12845,7 @@ msgid " dye (opens menu)"
 msgstr ""
 
 msgid "For "
-msgstr ""
+msgstr "Pour"
 
 msgid "Setting plant"
 msgstr ""
@@ -13096,7 +13100,7 @@ msgid "list too long"
 msgstr "list too long"
 
 msgid "Portable mode"
-msgstr ""
+msgstr "Mode portable"
 
 msgid "Autosave frequency"
 msgstr "Fréquence de sauvegarde automatique"
@@ -13447,70 +13451,80 @@ msgid "Diplomacy tree-fell count (untamed wilds)"
 msgstr "Nombre d'arbres abattus par la diplomatie (sauvages indomptables)"
 
 msgid "Invaders can break constructed walls"
-msgstr ""
+msgstr "Les envahisseurs peuvent détruire les murs construits"
 
 msgid "Invaders can dig natural walls"
-msgstr ""
+msgstr "Les envahisseurs peuvent creuser des murs naturels"
 
 msgid "Invaders can build floors and stairs"
-msgstr ""
+msgstr "Les envahisseurs peuvent construire des étages et des escaliers"
 
 msgid "Invaders can free creatures from cages"
-msgstr ""
+msgstr "Les envahisseurs peuvent libérer les créatures de leurs cages"
 
 msgid "Invader deconstruction speed (smaller = slower)"
 msgstr ""
 
 msgid "Invader deconstruction aversion (smaller = more deconstruct)"
 msgstr ""
+"Propension des envahisseurs à démonter les constructions (valeur faible = "
+"démontent davantage)"
 
 msgid "Invader digging speed (smaller = slower)"
-msgstr ""
+msgstr "Vitesse de creusement des envahisseurs (plus petite = plus lente)"
 
 msgid "Invader horizontal digging aversion (smaller = more digging)"
 msgstr ""
+"Propension des envahisseurs à creuser horizontalement (plus petite = "
+"creusent davantage)"
 
 msgid "Invader vertical digging aversion (smaller = more digging)"
 msgstr ""
+"Propension des envahisseurs à creuser verticalement (plus petite = creusent "
+"davantage)"
 
 msgid "Invader days to delay vertical natural wall digging"
 msgstr ""
+"Jours avant que les envahisseurs commencent à creuser les murs naturels "
+"verticaux"
 
 msgid "Invader construction speed (smaller = slower)"
-msgstr ""
+msgstr "Vitesse de construction des envahisseurs (plus petite = plus lente)"
 
 msgid "Invader construction aversion (smaller = more construction)"
 msgstr ""
+"Propension des envahisseurs à construire (valeur faible = construisent "
+"davantage)"
 
 msgid "Invader death aversion (one death)"
-msgstr ""
+msgstr "Propension à la mort des envahisseurs (1 mort)"
 
 msgid "Invader death aversion (two deaths)"
-msgstr ""
+msgstr "Propension à la mort des envahisseurs (2 morts)"
 
 msgid "Invader death aversion (three deaths)"
-msgstr ""
+msgstr "Propension à la mort des envahisseurs (3 morts)"
 
 msgid "Invader death aversion (four deaths)"
-msgstr ""
+msgstr "Propension à la mort des envahisseurs (4 morts)"
 
 msgid "Invader death aversion (five deaths)"
-msgstr ""
+msgstr "Propension à la mort des envahisseurs (5 morts)"
 
 msgid "Invader death aversion (six deaths)"
-msgstr ""
+msgstr "Propension à la mort des envahisseurs (6 morts)"
 
 msgid "Invader death aversion (seven deaths)"
-msgstr ""
+msgstr "Propension à la mort des envahisseurs (7 morts)"
 
 msgid "Invader death aversion (eight deaths)"
-msgstr ""
+msgstr "Propension à la mort des envahisseurs (8 morts)"
 
 msgid "Invader death aversion (nine deaths)"
-msgstr ""
+msgstr "Aversion à la mort des envahisseurs (9 morts)"
 
 msgid "Invader death aversion (ten+ deaths)"
-msgstr ""
+msgstr "Propension à la mort des envahisseurs (10+ morts)"
 
 msgid "Economy population trigger 1"
 msgstr "Déclencheur de population économique 1"
@@ -13609,10 +13623,10 @@ msgid " for writing"
 msgstr "pour écrire"
 
 msgid "Switching to portable mode."
-msgstr ""
+msgstr "Passage au mode portable"
 
 msgid "Switching from portable mode."
-msgstr ""
+msgstr "Sortie du mode portable"
 
 msgid ""
 "This file's presence indicates that this is a portable copy of Dwarf "
@@ -14406,34 +14420,34 @@ msgid "Advancing unit moves"
 msgstr ""
 
 msgid "Historical figure deaths"
-msgstr ""
+msgstr "Décès de personnages historiques"
 
 msgid "Historical figure conceptions"
-msgstr ""
+msgstr "Conception de personnages historiques"
 
 msgid "Wilderness population changes"
-msgstr ""
+msgstr "Évolution de la population sauvage"
 
 msgid "Entity population changes"
-msgstr ""
+msgstr "Évolution de la population des entités"
 
 msgid "Historical figure births"
-msgstr ""
+msgstr "Naissances de personnages historiques"
 
 msgid "Historical figure growing up"
-msgstr ""
+msgstr "Jeunesse d’un personnage historique"
 
 msgid "Historical figure marriages"
-msgstr ""
+msgstr "Mariages de personnages historiques"
 
 msgid "Periodic cleanup"
-msgstr ""
+msgstr "Nettoyage périodique"
 
 msgid "Verifying squad orders"
-msgstr ""
+msgstr "Vérification des ordres de l’escouade"
 
 msgid "Scheduling squads"
-msgstr ""
+msgstr "Planification des escouades"
 
 msgid "Rendering a widget"
 msgstr "Rendering a widget"
@@ -15893,7 +15907,7 @@ msgid "Unusable armor"
 msgstr "Armure inutilisable"
 
 msgid "Undyed"
-msgstr ""
+msgstr "Non teint"
 
 msgid "Unprepared fish"
 msgstr "Poisson non préparé"
@@ -16429,7 +16443,7 @@ msgid "0 = Can use any shop"
 msgstr "0 = Peut utiliser n'importe quel magasin"
 
 msgid "Must set colors"
-msgstr ""
+msgstr "Couleurs à définir"
 
 msgid "There are no active work orders."
 msgstr "Il n'y a pas d'ordres de travail actifs."
@@ -17165,7 +17179,7 @@ msgid "Wall"
 msgstr "Mur"
 
 msgid "Reinforced Wall"
-msgstr ""
+msgstr "Mur renforcé"
 
 msgid "Floor"
 msgstr "Sol"
@@ -17285,7 +17299,7 @@ msgid "Catapult"
 msgstr "Catapulte"
 
 msgid "Bolt thrower"
-msgstr ""
+msgstr "Lance-boulons"
 
 msgid "Disconnected"
 msgstr "Débranché"
@@ -17525,16 +17539,16 @@ msgid "Removing mining/chopping/gathering/smoothing orders"
 msgstr "Suppression des ordres de minage/hachage/cueillette/lissage"
 
 msgid "once it is placed."
-msgstr ""
+msgstr "une fois qu’il est placé."
 
 msgid "A ballista's orientation cannot be changed"
-msgstr ""
+msgstr "L’orientation d’une baliste ne peut pas être modifiée"
 
 msgid "A bolt thrower can be freely turned by the"
-msgstr ""
+msgstr "Le lance-boulons peut être pivoté librement par le"
 
 msgid "operator.  Choose a resting orientation."
-msgstr ""
+msgstr "opérateur. Choisissez une orientation de repos."
 
 msgid "Horizontal axles can vary in length."
 msgstr "Les essieux horizontaux peuvent varier en longueur."
@@ -19945,6 +19959,11 @@ msgid ""
 "fluids.  Requires two boulder, block, or wood, and metal bars.  Provides "
 "some resistance to invaders."
 msgstr ""
+"Vous pouvez construire des murs renforcés en surface, dans les cavernes ou "
+"dans des espaces que vous avez excavés afin de bloquer le passage des "
+"créatures, des objets et des fluides. Nécessite deux rochers, blocs ou "
+"morceaux de bois, et des barres de métal. Offre une certaine résistance aux "
+"envahisseurs."
 
 msgid ""
 "You can place floors for functional reasons or to enhance the appearance of "
@@ -20153,6 +20172,8 @@ msgid ""
 "A bolt thrower fires a regular bolts rapidly.  The operator swivels the "
 "machine from any available adjacent tiles."
 msgstr ""
+"Le lance-boulons tire rapidement des boulons ordinaires. L’opérateur peut "
+"faire pivoter la machine depuis n’importe quelle tuile adjacente."
 
 msgid "Create a creature to place in the arena."
 msgstr "créer une créature pour la mettre dans l'arène"
@@ -27813,7 +27834,7 @@ msgid "no walla layer found, so playing one."
 msgstr "no walla layer found, so playing one."
 
 msgid "Other objects"
-msgstr ""
+msgstr "Autres objets"
 
 msgid "negative "
 msgstr "négatif "
@@ -28089,7 +28110,7 @@ msgid "Siege Engine"
 msgstr "Engin de siège"
 
 msgid "Bolt Thrower"
-msgstr ""
+msgstr "Lance-boulons"
 
 msgid "Floor Hatch"
 msgstr "Trappe de plancher"
@@ -40959,13 +40980,13 @@ msgid "Tissue Template "
 msgstr "Modèle de tissu"
 
 msgid "vascular"
-msgstr ""
+msgstr "vasculaire"
 
 msgid "shape"
 msgstr "forme"
 
 msgid "insulation"
-msgstr ""
+msgstr "isolation"
 
 msgid " maintains possession of the "
 msgstr " conserve la possession du "
@@ -44494,10 +44515,10 @@ msgid "Undead Hunt"
 msgstr "Chasse aux morts-vivants"
 
 msgid "Maraude Target"
-msgstr ""
+msgstr "Objectif de maraude"
 
 msgid "Maraude Waypoint"
-msgstr ""
+msgstr "Point de passage de maraude"
 
 msgid "Sieger Basepoint"
 msgstr "Point de base de Sieger"
@@ -45205,7 +45226,7 @@ msgid "Seek Heist Handoff"
 msgstr "Rechercher le transfert de braquage"
 
 msgid "Battering Ram Position"
-msgstr ""
+msgstr "Position du bélier"
 
 msgid "agriculture"
 msgstr "agriculture"
@@ -49195,7 +49216,7 @@ msgid "Loading"
 msgstr "Charger"
 
 msgid " ammo"
-msgstr ""
+msgstr "munitions"
 
 msgid "Shooting weapon"
 msgstr ""
@@ -51733,16 +51754,16 @@ msgid "ammo"
 msgstr "munitions"
 
 msgid "helm"
-msgstr ""
+msgstr "heaume"
 
 msgid "gloves"
-msgstr ""
+msgstr "gantelets"
 
 msgid "shoes"
-msgstr ""
+msgstr "souliers"
 
 msgid "pants"
-msgstr ""
+msgstr "pantalons"
 
 msgid "shield"
 msgstr "bouclier"
@@ -52149,7 +52170,7 @@ msgid "-containing "
 msgstr "-contenant"
 
 msgid "color "
-msgstr ""
+msgstr "couleur "
 
 msgid "liquid cooking"
 msgstr "cuisson liquide"
@@ -52242,7 +52263,7 @@ msgid "rough "
 msgstr "rugueux"
 
 msgid "Reinforced "
-msgstr ""
+msgstr "Renforcé "
 
 msgid " log"
 msgstr "rondin"
@@ -52748,7 +52769,7 @@ msgid "catapult parts"
 msgstr "pièces de catapulte"
 
 msgid "bolt thrower parts"
-msgstr ""
+msgstr "pièces de lance-boulons"
 
 msgid "mechanisms"
 msgstr "mécanismes"
@@ -53031,12 +53052,19 @@ msgid ""
 " your outpost through its history.  Design the shape and purpose of the "
 "fortress by issuing orders for the residents to follow."
 msgstr ""
+"Vos citoyens construiront, mineront, fabriqueront, commerceront, se battront"
+" et géreront leur quotidien tandis que vous guidez votre avant-poste à "
+"travers son histoire. Fabriquez la forme et la fonction de la forteresse en "
+"donnant des ordres que les habitants devront suivre."
 
 msgid ""
 "You can play a sequence of fortresses and adventurers in the same world.  "
 "Migrants from retired and abandoned fortresses may come to visit, along with"
 " any surviving adventurers."
 msgstr ""
+"Vous pouvez jouer une série de forteresses et d’aventuriers dans le même "
+"monde. Des migrants issus de forteresses abandonnées ou retirées peuvent "
+"venir vous rendre visite, ainsi que les aventuriers survivants."
 
 msgid "no material"
 msgstr "pas de matériel"
@@ -53333,29 +53361,37 @@ msgid "Other Jobs"
 msgstr "Autres emplois"
 
 msgid "graphics"
-msgstr ""
+msgstr "graphiques"
 
 msgid "Failed to create save directory; game will not continue with saving: "
 msgstr ""
+"Échec de la création du répertoire de sauvegarde ; le jeu ne continuera pas "
+"avec la sauvegarde : "
 
 msgid ""
 "Failed to create temporary save dir; game will not continue with saving: "
 msgstr ""
+"Échec de la création du répertoire de sauvegarde temporaire ; le jeu ne "
+"continuera pas avec la sauvegarde : "
 
 msgid "Failed to copy a file during saving: "
-msgstr ""
+msgstr "Échec de la copie d'un fichier lors de l'enregistrement : "
 
 msgid "Could not remove destination directory when synchronizing save!"
 msgstr ""
+"Impossible de supprimer le répertoire de destination lors de la "
+"synchronisation de la sauvegarde !"
 
 msgid "Could not rename temp folder when synchronizing save!"
 msgstr ""
+"Impossible de renommer le dossier temporaire lors de la synchronisation de "
+"l'enregistrement !"
 
 msgid "Save failed: "
-msgstr ""
+msgstr "Échec de l'enregistrement : "
 
 msgid "exists"
-msgstr ""
+msgstr "existe"
 
 msgid "You have"
 msgstr "Tu as"
@@ -53787,7 +53823,7 @@ msgid "Shoot weapon"
 msgstr ""
 
 msgid "Throw item"
-msgstr ""
+msgstr "Lancer un objet"
 
 msgid "and more"
 msgstr "et plus"
@@ -54297,7 +54333,7 @@ msgid "config"
 msgstr "config"
 
 msgid "loaded"
-msgstr ""
+msgstr "chargé"
 
 msgid "preload"
 msgstr "preload"
@@ -60955,10 +60991,10 @@ msgid "attacker won"
 msgstr "l'attaquant a gagné"
 
 msgid "missing"
-msgstr ""
+msgstr "disparu"
 
 msgid "skills"
-msgstr ""
+msgstr "compétences"
 
 msgid "account"
 msgstr ""
@@ -61072,10 +61108,10 @@ msgid "infiltrate society"
 msgstr "infiltrer la société"
 
 msgid "race"
-msgstr ""
+msgstr "race"
 
 msgid "profile"
-msgstr ""
+msgstr "profile"
 
 msgid "world view filter not set (adjust ci ps)"
 msgstr "world view filter not set (adjust ci ps)"
@@ -61365,7 +61401,7 @@ msgid "There is writing on this item, but you cannot read."
 msgstr "Il y a de l'écriture sur cet objet, mais vous ne pouvez pas lire."
 
 msgid "The material is "
-msgstr ""
+msgstr "Le matériau est "
 
 msgid "You have not read this book."
 msgstr "Vous n'avez pas lu ce livre."
@@ -61386,13 +61422,13 @@ msgid "colored"
 msgstr "coloré"
 
 msgid "a mixture of "
-msgstr ""
+msgstr "un mélange de "
 
 msgid "and "
-msgstr ""
+msgstr "et "
 
 msgid "When used as a dye, it produces "
-msgstr ""
+msgstr "Utilisé comme colorant, il produit "
 
 msgid "There is writing on the slab, but you cannot read."
 msgstr "Il y a des écrits sur la stèle, mais vous ne pouvez pas lire."
@@ -61512,7 +61548,7 @@ msgid " woven by "
 msgstr " tissé par "
 
 msgid "The object is "
-msgstr ""
+msgstr "L'objet est "
 
 msgid "Slayer"
 msgstr "Tueur"
@@ -62157,10 +62193,10 @@ msgid "Unscheduled"
 msgstr "Non planifié"
 
 msgid "generated"
-msgstr ""
+msgstr "généré"
 
 msgid "size"
-msgstr ""
+msgstr "taille"
 
 msgid "twohandsize"
 msgstr "twohandsize"
@@ -62169,7 +62205,7 @@ msgid "training"
 msgstr ""
 
 msgid "hits"
-msgstr ""
+msgstr "coups"
 
 msgid "spectype"
 msgstr "spectype"
@@ -62178,10 +62214,10 @@ msgid "piece"
 msgstr ""
 
 msgid "tuning"
-msgstr ""
+msgstr "réglage"
 
 msgid "layer"
-msgstr ""
+msgstr "couche"
 
 msgid "coverage"
 msgstr ""
@@ -62208,7 +62244,7 @@ msgid "blockchance"
 msgstr ""
 
 msgid "level"
-msgstr ""
+msgstr "niveau"
 
 msgid "--- Logging Item "
 msgstr "--- Logging Item "
@@ -62238,7 +62274,7 @@ msgid " for instrument piece "
 msgstr " pour la pièce d'instrument "
 
 msgid "edge"
-msgstr ""
+msgstr "bord"
 
 msgid "perform expressively"
 msgstr "jouer de manière expressive"
@@ -62700,7 +62736,7 @@ msgid " ballista parts"
 msgstr " pièces de baliste"
 
 msgid " bolt thrower parts"
-msgstr ""
+msgstr " pièces de lance-boulons"
 
 msgid " anvil"
 msgstr " enclume"
@@ -62763,7 +62799,7 @@ msgid "Dye thread"
 msgstr "Fil teint"
 
 msgid " cloth "
-msgstr ""
+msgstr " tissu "
 
 msgid "Dye cloth "
 msgstr ""
@@ -62772,7 +62808,7 @@ msgid "Dye cloth"
 msgstr "Teindre tissu"
 
 msgid " leather "
-msgstr ""
+msgstr " en cuir "
 
 msgid "Dye leather "
 msgstr ""
@@ -62982,7 +63018,7 @@ msgid "Load ballista"
 msgstr "Charger la baliste"
 
 msgid "Load bolt thrower"
-msgstr ""
+msgstr "Charger le lance-boulons"
 
 msgid "Fire catapult"
 msgstr "Tire à la catapulte"
@@ -62991,7 +63027,7 @@ msgid "Fire ballista"
 msgstr "Tire à la baliste"
 
 msgid "Fire bolt thrower"
-msgstr ""
+msgstr "Tirer avec le lance-boulons"
 
 msgid "Operate pump"
 msgstr "Fait fonctionner la pompe"
@@ -63303,10 +63339,10 @@ msgid "Impoverished Word Selector"
 msgstr "Impoverished Word Selector"
 
 msgid "firstname"
-msgstr ""
+msgstr "prénom"
 
 msgid "nickname"
-msgstr ""
+msgstr "surnom"
 
 msgid "type"
 msgstr ""
@@ -63315,13 +63351,13 @@ msgid "native"
 msgstr ""
 
 msgid "translated"
-msgstr ""
+msgstr "traduit"
 
 msgid "aspect"
-msgstr ""
+msgstr "aspect"
 
 msgid "words"
-msgstr ""
+msgstr "mots"
 
 msgid "--- Logging Word "
 msgstr "--- Logging Word "
@@ -63742,7 +63778,7 @@ msgid "Unknown artwork"
 msgstr "Oeuvre inconnue"
 
 msgid "This artwork has been lost."
-msgstr ""
+msgstr "Cette œuvre d'art a été perdue."
 
 msgid "Unknown artifact"
 msgstr "Artefact inconnu"
@@ -64081,16 +64117,16 @@ msgid "chime"
 msgstr "carillon"
 
 msgid "absorption"
-msgstr ""
+msgstr "absorption"
 
 msgid "fracture"
-msgstr ""
+msgstr "fracture"
 
 msgid "elasticity"
-msgstr ""
+msgstr "élasticité"
 
 msgid "prefix"
-msgstr ""
+msgstr "préfixe"
 
 msgid "the Phases"
 msgstr "les Phases"
@@ -64120,13 +64156,13 @@ msgid "--- Logging Plant "
 msgstr "--- Usine d'exploitation forestière"
 
 msgid "chance"
-msgstr ""
+msgstr "chance"
 
 msgid "inclusion"
-msgstr ""
+msgstr "inclusion"
 
 msgid "environment"
-msgstr ""
+msgstr "environnement"
 
 msgid "Sharp blades"
 msgstr "Lames tranchantes"
@@ -66371,7 +66407,7 @@ msgid "Back to main menu"
 msgstr "Menu principal"
 
 msgid "Click now to open to this mod folder."
-msgstr ""
+msgstr "Cliquez maintenant pour ouvrir ce dossier mod."
 
 msgid "Welcome to the arena!  Here you can test mods or just play around."
 msgstr ""
@@ -70553,28 +70589,28 @@ msgid "an infiltration mission"
 msgstr "une mission d'infiltration"
 
 msgid "ethic"
-msgstr ""
+msgstr "éthique"
 
 msgid "realized"
-msgstr ""
+msgstr "réalisé"
 
 msgid "goal"
-msgstr ""
+msgstr "but"
 
 msgid "facet"
-msgstr ""
+msgstr "facette"
 
 msgid "situation"
-msgstr ""
+msgstr "situation"
 
 msgid "mannerism"
-msgstr ""
+msgstr "maniérisme"
 
 msgid "habit"
-msgstr ""
+msgstr "habitude"
 
 msgid "stress"
-msgstr ""
+msgstr "Stress"
 
 msgid "mountain"
 msgstr "Montagne"
@@ -70583,10 +70619,10 @@ msgid "hardness"
 msgstr "dureté"
 
 msgid "severity"
-msgstr ""
+msgstr "gravité"
 
 msgid "need"
-msgstr ""
+msgstr "besoins"
 
 msgid "The temple petition by "
 msgstr "La pétition du temple par"
@@ -71791,7 +71827,7 @@ msgid " Ice Floor"
 msgstr "Plancher de glace"
 
 msgid "Shoddy "
-msgstr ""
+msgstr "Médiocre"
 
 msgid " Floor"
 msgstr "Sol"
@@ -73265,13 +73301,13 @@ msgstr ""
 "construire des instruments d'une seule pièce.]"
 
 msgid "seed"
-msgstr ""
+msgstr "graine"
 
 msgid "raws"
-msgstr ""
+msgstr "bruts"
 
 msgid "generate"
-msgstr ""
+msgstr "générer"
 
 msgid "--- Logging Reaction "
 msgstr "--- Réaction de journalisation"
@@ -73325,7 +73361,7 @@ msgid "image set to"
 msgstr "image définie sur"
 
 msgid "coloration to"
-msgstr ""
+msgstr "coloration à"
 
 msgid ", Crafts"
 msgstr ", Artisanat"
@@ -78652,10 +78688,10 @@ msgid "Inappropriate Waterlevel Biome Choice (2)"
 msgstr "Choix de biome de niveau d'eau inapproprié (2)"
 
 msgid "two thousand"
-msgstr ""
+msgstr "deux mille"
 
 msgid "seventy thousand"
-msgstr ""
+msgstr "soixante-dix mille"
 
 msgid "likes to stretch "
 msgstr "aime étirer"
@@ -79502,7 +79538,7 @@ msgid "Orderlies"
 msgstr "Aides-soignants"
 
 msgid "Siege operators"
-msgstr ""
+msgstr "Opérateurs de siège"
 
 msgid "No alert"
 msgstr "Pas d'alerte"
@@ -79520,91 +79556,91 @@ msgid "Neighbors:"
 msgstr "Voisins:"
 
 msgid "hostile"
-msgstr ""
+msgstr "hostile"
 
 msgid "few dozen"
-msgstr ""
+msgstr "quelques dizaines"
 
 msgid "some dozens"
-msgstr ""
+msgstr "plusieurs dizaines"
 
 msgid "a hundred"
-msgstr ""
+msgstr "une centaine"
 
 msgid "over a hundred"
-msgstr ""
+msgstr "plus d'une centaine"
 
 msgid "a few hundred"
-msgstr ""
+msgstr "quelques centaines de"
 
 msgid "a thousand"
-msgstr ""
+msgstr "mille"
 
 msgid "three thousand"
-msgstr ""
+msgstr "trois mille"
 
 msgid "four thousand"
-msgstr ""
+msgstr "quatre mille"
 
 msgid "five thousand"
-msgstr ""
+msgstr "cinq mille"
 
 msgid "six thousand"
-msgstr ""
+msgstr "six mille"
 
 msgid "seven thousand"
-msgstr ""
+msgstr "sept mille"
 
 msgid "eight thousand"
-msgstr ""
+msgstr "huit mille"
 
 msgid "nine thousand"
-msgstr ""
+msgstr "neuf mille"
 
 msgid "ten thousand"
-msgstr ""
+msgstr "dix mille"
 
 msgid "twenty thousand"
-msgstr ""
+msgstr "vingt mille"
 
 msgid "thirty thousand"
-msgstr ""
+msgstr "trente mille"
 
 msgid "forty thousand"
-msgstr ""
+msgstr "quarante mille"
 
 msgid "fifty thousand"
-msgstr ""
+msgstr "cinquante mille"
 
 msgid "sixty thousand"
-msgstr ""
+msgstr "soixante mille"
 
 msgid "eighty thousand"
-msgstr ""
+msgstr "quatre-vingt mille"
 
 msgid "ninety thousand"
-msgstr ""
+msgstr "quatre-vingt-dix mille"
 
 msgid "hundred thousand"
-msgstr ""
+msgstr "cent mille"
 
 msgid "hundred thousands"
-msgstr ""
+msgstr "centaines de milliers"
 
 msgid "one million"
-msgstr ""
+msgstr "un million"
 
 msgid "millions"
-msgstr ""
+msgstr "millions"
 
 msgid "thousands"
-msgstr ""
+msgstr "centaines"
 
 msgid "dozens"
-msgstr ""
+msgstr "dizaines"
 
 msgid "few"
-msgstr ""
+msgstr "peu"
 
 msgid "Nearest site: "
 msgstr "Site le plus proche :"
@@ -81315,7 +81351,7 @@ msgid "fisherman"
 msgstr "pêcheur"
 
 msgid "fishermen"
-msgstr ""
+msgstr "pêcheurs"
 
 msgid "fish dissector"
 msgstr "dissecteur de poisson"
@@ -81417,7 +81453,7 @@ msgid "hammerman"
 msgstr "marteleur"
 
 msgid "hammermen"
-msgstr ""
+msgstr "marteleurs"
 
 msgid "Hammer Lord"
 msgstr "Marteau Seigneur"
@@ -81426,7 +81462,7 @@ msgid "spearman"
 msgstr "lancier"
 
 msgid "spearmen"
-msgstr ""
+msgstr "lanciers"
 
 msgid "Spearmaster"
 msgstr "Maître de lance"
@@ -81435,10 +81471,10 @@ msgid "crossbowman"
 msgstr "arbalétrier"
 
 msgid "crossbowmen"
-msgstr ""
+msgstr "arbalétriers"
 
 msgid "Elite Crossbowmen"
-msgstr ""
+msgstr "Arbalétriers d'élite"
 
 msgid "Elite Crossbowman"
 msgstr "Arbalétrier d'élite"
@@ -81453,7 +81489,7 @@ msgid "axeman"
 msgstr "homme à la hache"
 
 msgid "axemen"
-msgstr ""
+msgstr "hacheurs"
 
 msgid "Axe Lord"
 msgstr "Seigneur de la hache"
@@ -81462,7 +81498,7 @@ msgid "swordsman"
 msgstr "épéiste"
 
 msgid "swordsmen"
-msgstr ""
+msgstr "épéistes"
 
 msgid "Swordmaster"
 msgstr "Maître de l'épée"
@@ -81471,7 +81507,7 @@ msgid "maceman"
 msgstr "homme de masse"
 
 msgid "macemen"
-msgstr ""
+msgstr "massiers"
 
 msgid "Mace Lord"
 msgstr "Seigneur de la masse"
@@ -81480,7 +81516,7 @@ msgid "pikeman"
 msgstr "piquier"
 
 msgid "pikemen"
-msgstr ""
+msgstr "piquiers"
 
 msgid "Pikemaster"
 msgstr "Pikemaster"
@@ -81489,13 +81525,13 @@ msgid "bowman"
 msgstr "archer"
 
 msgid "bowmen"
-msgstr ""
+msgstr "archers"
 
 msgid "Elite Bowman"
 msgstr "Archer d'élite"
 
 msgid "Elite Bowmen"
-msgstr ""
+msgstr "Archers d'élite"
 
 msgid "blowgunner"
 msgstr "sarbacane"
@@ -81951,7 +81987,7 @@ msgid " has given birth to "
 msgstr "a donné naissance à"
 
 msgid "You shoot "
-msgstr ""
+msgstr "Vous tirez "
 
 msgid " are unable to break"
 msgstr "sont incapables de casser"
@@ -82650,7 +82686,7 @@ msgid "Sewn into "
 msgstr "Cousu dans"
 
 msgid "Nocked"
-msgstr ""
+msgstr "Encoché"
 
 msgid " pulls out and "
 msgstr "se retire et"
@@ -83073,7 +83109,7 @@ msgid "Toggle auto-pause on new report."
 msgstr "Switcher la pause automatique pour un nouveau rapport."
 
 msgid "Grazer: requires pasture"
-msgstr ""
+msgstr "Herbivore : nécessite un pâturage"
 
 msgid "Filter the unit list by name or job."
 msgstr "Filtrer la liste d'unité par nom ou job."
@@ -83634,7 +83670,7 @@ msgid " has guzzled some "
 msgstr "a englouti certains"
 
 msgid " by battering ram."
-msgstr ""
+msgstr " par le bélier."
 
 msgid ": site walker could not find walkable area"
 msgstr ": site walker could not find walkable area"
@@ -83706,16 +83742,16 @@ msgid " lies on the ground."
 msgstr "repose sur le sol."
 
 msgid " is already "
-msgstr ""
+msgstr " est déjà "
 
 msgid "nocked"
-msgstr ""
+msgstr "encoché"
 
 msgid " and you prepared to shoot."
-msgstr ""
+msgstr " et vous vous êtes préparé à tirer."
 
 msgid "You finish "
-msgstr ""
+msgstr "Vous terminez "
 
 msgid " and prepare to shoot."
 msgstr ""
