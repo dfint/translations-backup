@@ -11,6 +11,1582 @@ msgstr ""
 "Language: yue\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 
+#. rop.demons_to_gen[#rop.demons_to_gen+1]={demon_type="beast",difficulty=10}
+#. rop.demons_to_gen[#rop.demons_to_gen+1]={demon_type="beast",difficulty=6}
+#: data/init/generators.lua:50 data/init/generators.lua:53
+msgctxt "preprocess"
+msgid "beast"
+msgstr ""
+
+#. rop.demons_to_gen[#rop.demons_to_gen+1]={demon_type="whatever",difficulty=10}
+#. rop.demons_to_gen[#rop.demons_to_gen+1]={demon_type="whatever",difficulty=6}
+#: data/init/generators.lua:62 data/init/generators.lua:65
+msgctxt "preprocess"
+msgid "whatever"
+msgstr ""
+
+#. local m_type=(i%2 == 1) and "metal" or "silk"
+#: data/init/generators.lua:319
+msgid "metal"
+msgstr ""
+
+#. local m_type=(i%2 == 1) and "metal" or "silk"
+#: data/init/generators.lua:319
+msgid "silk"
+msgstr ""
+
+#. AGRICULTURE={"agricultural"}
+#: data/init/globals.lua:324
+msgctxt "random_sphere_adjective"
+msgid "agricultural"
+msgstr ""
+
+#. ANIMALS={"animal"}
+#: data/init/globals.lua:325
+msgctxt "random_sphere_adjective"
+msgid "animal"
+msgstr ""
+
+#. ART={"artistic"}
+#: data/init/globals.lua:326
+msgctxt "random_sphere_adjective"
+msgid "artistic"
+msgstr ""
+
+#. BALANCE={"balanced"}
+#: data/init/globals.lua:327
+msgctxt "random_sphere_adjective"
+msgid "balanced"
+msgstr ""
+
+#. BEAUTY={"beautiful"}
+#: data/init/globals.lua:328
+msgctxt "random_sphere_adjective"
+msgid "beautiful"
+msgstr ""
+
+#. BIRTH={"birthing"}
+#: data/init/globals.lua:329
+msgctxt "random_sphere_adjective"
+msgid "birthing"
+msgstr ""
+
+#. BLIGHT={"blighted"}
+#: data/init/globals.lua:330
+msgctxt "random_sphere_adjective"
+msgid "blighted"
+msgstr ""
+
+#. BOUNDARIES={"delineated"}
+#: data/init/globals.lua:331
+msgctxt "random_sphere_adjective"
+msgid "delineated"
+msgstr ""
+
+#. CAVERNS={"cavernous"}
+#: data/init/globals.lua:332
+msgctxt "random_sphere_adjective"
+msgid "cavernous"
+msgstr ""
+
+#. CHAOS={"chaotic"}
+#: data/init/globals.lua:333
+msgctxt "random_sphere_adjective"
+msgid "chaotic"
+msgstr ""
+
+#. CHARITY={"charitable"}
+#: data/init/globals.lua:334
+msgctxt "random_sphere_adjective"
+msgid "charitable"
+msgstr ""
+
+#. CHILDREN={"child-like"}
+#: data/init/globals.lua:335
+msgctxt "random_sphere_adjective"
+msgid "child-like"
+msgstr ""
+
+#. COASTS={"coastal"}
+#: data/init/globals.lua:336
+msgctxt "random_sphere_adjective"
+msgid "coastal"
+msgstr ""
+
+#. CONSOLATION={"consoling"}
+#: data/init/globals.lua:337
+msgctxt "random_sphere_adjective"
+msgid "consoling"
+msgstr ""
+
+#. COURAGE={"courageous"}
+#: data/init/globals.lua:338
+msgctxt "random_sphere_adjective"
+msgid "courageous"
+msgstr ""
+
+#. CRAFTS={"crafted"}
+#: data/init/globals.lua:339
+msgctxt "random_sphere_adjective"
+msgid "crafted"
+msgstr ""
+
+#. CREATION={"created"}
+#: data/init/globals.lua:340
+msgctxt "random_sphere_adjective"
+msgid "created"
+msgstr ""
+
+#. DANCE={"dancing"}
+#: data/init/globals.lua:341
+msgctxt "random_sphere_adjective"
+msgid "dancing"
+msgstr ""
+
+#. DARKNESS={"dark"}
+#. NIGHT={"dark"}
+#: data/init/globals.lua:342 data/init/globals.lua:400
+msgctxt "random_sphere_adjective"
+msgid "dark"
+msgstr ""
+
+#. DAWN={"dawning"}
+#: data/init/globals.lua:343
+msgctxt "random_sphere_adjective"
+msgid "dawning"
+msgstr ""
+
+#. DAY={"noon-time"}
+#: data/init/globals.lua:344
+msgctxt "random_sphere_adjective"
+msgid "noon-time"
+msgstr ""
+
+#. DEATH={"dead"}
+#: data/init/globals.lua:345
+msgctxt "random_sphere_adjective"
+msgid "dead"
+msgstr ""
+
+#. DEFORMITY={"deformed"}
+#: data/init/globals.lua:346
+msgctxt "random_sphere_adjective"
+msgid "deformed"
+msgstr ""
+
+#. DEPRAVITY={"depraved"}
+#: data/init/globals.lua:347
+msgctxt "random_sphere_adjective"
+msgid "depraved"
+msgstr ""
+
+#. DISCIPLINE={"disciplined"}
+#: data/init/globals.lua:348
+msgctxt "random_sphere_adjective"
+msgid "disciplined"
+msgstr ""
+
+#. DISEASE={"diseased"}
+#: data/init/globals.lua:349
+msgctxt "random_sphere_adjective"
+msgid "diseased"
+msgstr ""
+
+#. DREAMS={"dreaming"}
+#: data/init/globals.lua:350
+msgctxt "random_sphere_adjective"
+msgid "dreaming"
+msgstr ""
+
+#. DUSK={"dusklight"}
+#: data/init/globals.lua:351
+msgctxt "random_sphere_adjective"
+msgid "dusklight"
+msgstr ""
+
+#. DUTY={"dutiful"}
+#: data/init/globals.lua:352
+msgctxt "random_sphere_adjective"
+msgid "dutiful"
+msgstr ""
+
+#. EARTH={"earthen"}
+#: data/init/globals.lua:353
+msgctxt "random_sphere_adjective"
+msgid "earthen"
+msgstr ""
+
+#. FAMILY={"familial"}
+#: data/init/globals.lua:354
+msgctxt "random_sphere_adjective"
+msgid "familial"
+msgstr ""
+
+#. FAME={"famous"}
+#: data/init/globals.lua:355
+msgctxt "random_sphere_adjective"
+msgid "famous"
+msgstr ""
+
+#. FATE={"fated"}
+#: data/init/globals.lua:356
+msgctxt "random_sphere_adjective"
+msgid "fated"
+msgstr ""
+
+#. FERTILITY={"fertile"}
+#: data/init/globals.lua:357
+msgctxt "random_sphere_adjective"
+msgid "fertile"
+msgstr ""
+
+#. FESTIVALS={"festive"}
+#: data/init/globals.lua:358
+msgctxt "random_sphere_adjective"
+msgid "festive"
+msgstr ""
+
+#. FIRE={"fiery"}
+#: data/init/globals.lua:359
+msgctxt "random_sphere_adjective"
+msgid "fiery"
+msgstr ""
+
+#. FISH={"fish"}
+#. FISHING={"fish"}
+#: data/init/globals.lua:360 data/init/globals.lua:361
+msgctxt "random_sphere_adjective"
+msgid "fish"
+msgstr ""
+
+#. FOOD={"baked"}
+#: data/init/globals.lua:362
+msgctxt "random_sphere_adjective"
+msgid "baked"
+msgstr ""
+
+#. FORGIVENESS={"forgiving"}
+#: data/init/globals.lua:363
+msgctxt "random_sphere_adjective"
+msgid "forgiving"
+msgstr ""
+
+#. FORTRESSES={"protected"}
+#: data/init/globals.lua:364
+msgctxt "random_sphere_adjective"
+msgid "protected"
+msgstr ""
+
+#. FREEDOM={"free"}
+#: data/init/globals.lua:365
+msgctxt "random_sphere_adjective"
+msgid "free"
+msgstr ""
+
+#. GAMBLING={"gambling"}
+#: data/init/globals.lua:366
+msgctxt "random_sphere_adjective"
+msgid "gambling"
+msgstr ""
+
+#. GAMES={"playful"}
+#: data/init/globals.lua:367
+msgctxt "random_sphere_adjective"
+msgid "playful"
+msgstr ""
+
+#. GENEROSITY={"generous"}
+#: data/init/globals.lua:368
+msgctxt "random_sphere_adjective"
+msgid "generous"
+msgstr ""
+
+#. HAPPINESS={"happy"}
+#: data/init/globals.lua:369
+msgctxt "random_sphere_adjective"
+msgid "happy"
+msgstr ""
+
+#. HEALING={"healing"}
+#: data/init/globals.lua:370
+msgctxt "random_sphere_adjective"
+msgid "healing"
+msgstr ""
+
+#. HOSPITALITY={"hospitable"}
+#: data/init/globals.lua:371
+msgctxt "random_sphere_adjective"
+msgid "hospitable"
+msgstr ""
+
+#. HUNTING={"hunting"}
+#: data/init/globals.lua:372
+msgctxt "random_sphere_adjective"
+msgid "hunting"
+msgstr ""
+
+#. INSPIRATION={"inspired"}
+#: data/init/globals.lua:373
+msgctxt "random_sphere_adjective"
+msgid "inspired"
+msgstr ""
+
+#. JEALOUSY={"jealous"}
+#: data/init/globals.lua:374
+msgctxt "random_sphere_adjective"
+msgid "jealous"
+msgstr ""
+
+#. JEWELS={"jeweled"}
+#: data/init/globals.lua:375
+msgctxt "random_sphere_adjective"
+msgid "jeweled"
+msgstr ""
+
+#. JUSTICE={"just"}
+#: data/init/globals.lua:376
+msgctxt "random_sphere_adjective"
+msgid "just"
+msgstr ""
+
+#. LABOR={"laboring"}
+#: data/init/globals.lua:377
+msgctxt "random_sphere_adjective"
+msgid "laboring"
+msgstr ""
+
+#. LAKES={"wet"}
+#: data/init/globals.lua:378
+msgctxt "random_sphere_adjective"
+msgid "wet"
+msgstr ""
+
+#. LAWS={"rigid"}
+#: data/init/globals.lua:379
+msgctxt "random_sphere_adjective"
+msgid "rigid"
+msgstr ""
+
+#. LIES={"deceitful"}
+#: data/init/globals.lua:380
+msgctxt "random_sphere_adjective"
+msgid "deceitful"
+msgstr ""
+
+#. LIGHT={"shining"}
+#: data/init/globals.lua:381
+msgctxt "random_sphere_adjective"
+msgid "shining"
+msgstr ""
+
+#. LIGHTNING={"electrical"}
+#: data/init/globals.lua:382
+msgctxt "random_sphere_adjective"
+msgid "electrical"
+msgstr ""
+
+#. LONGEVITY={"long-lived"}
+#: data/init/globals.lua:383
+msgctxt "random_sphere_adjective"
+msgid "long-lived"
+msgstr ""
+
+#. LOVE={"loving"}
+#: data/init/globals.lua:384
+msgctxt "random_sphere_adjective"
+msgid "loving"
+msgstr ""
+
+#. LOYALTY={"loyal"}
+#: data/init/globals.lua:385
+msgctxt "random_sphere_adjective"
+msgid "loyal"
+msgstr ""
+
+#. LUCK={"lucky"}
+#: data/init/globals.lua:386
+msgctxt "random_sphere_adjective"
+msgid "lucky"
+msgstr ""
+
+#. LUST={"lustful"}
+#: data/init/globals.lua:387
+msgctxt "random_sphere_adjective"
+msgid "lustful"
+msgstr ""
+
+#. MARRIAGE={"married"}
+#: data/init/globals.lua:388
+msgctxt "random_sphere_adjective"
+msgid "married"
+msgstr ""
+
+#. MERCY={"merciful"}
+#: data/init/globals.lua:389
+msgctxt "random_sphere_adjective"
+msgid "merciful"
+msgstr ""
+
+#. METALS={"metal"}
+#: data/init/globals.lua:390
+msgctxt "random_sphere_adjective"
+msgid "metal"
+msgstr ""
+
+#. MINERALS={"crystal"}
+#: data/init/globals.lua:391
+msgctxt "random_sphere_adjective"
+msgid "crystal"
+msgstr ""
+
+#. MISERY={"miserable"}
+#: data/init/globals.lua:392
+msgctxt "random_sphere_adjective"
+msgid "miserable"
+msgstr ""
+
+#. MIST={"misty"}
+#: data/init/globals.lua:393
+msgctxt "random_sphere_adjective"
+msgid "misty"
+msgstr ""
+
+#. MOON={"moonlit"}
+#: data/init/globals.lua:394
+msgctxt "random_sphere_adjective"
+msgid "moonlit"
+msgstr ""
+
+#. MOUNTAINS={"mountainous"}
+#: data/init/globals.lua:395
+msgctxt "random_sphere_adjective"
+msgid "mountainous"
+msgstr ""
+
+#. MUCK={"muddy"}
+#: data/init/globals.lua:396
+msgctxt "random_sphere_adjective"
+msgid "muddy"
+msgstr ""
+
+#. MURDER={"murderous"}
+#: data/init/globals.lua:397
+msgctxt "random_sphere_adjective"
+msgid "murderous"
+msgstr ""
+
+#. MUSIC={"lyrical"}
+#: data/init/globals.lua:398
+msgctxt "random_sphere_adjective"
+msgid "lyrical"
+msgstr ""
+
+#. NATURE={"natural"}
+#: data/init/globals.lua:399
+msgctxt "random_sphere_adjective"
+msgid "natural"
+msgstr ""
+
+#. NIGHTMARES={"nightmarish"}
+#: data/init/globals.lua:401
+msgctxt "random_sphere_adjective"
+msgid "nightmarish"
+msgstr ""
+
+#. OATHS={"sworn"}
+#: data/init/globals.lua:402
+msgctxt "random_sphere_adjective"
+msgid "sworn"
+msgstr ""
+
+#. OCEANS={"oceanic"}
+#: data/init/globals.lua:403
+msgctxt "random_sphere_adjective"
+msgid "oceanic"
+msgstr ""
+
+#. ORDER={"ordered"}
+#: data/init/globals.lua:404
+msgctxt "random_sphere_adjective"
+msgid "ordered"
+msgstr ""
+
+#. PAINTING={"painted"}
+#: data/init/globals.lua:405
+msgctxt "random_sphere_adjective"
+msgid "painted"
+msgstr ""
+
+#. PEACE={"peaceful"}
+#: data/init/globals.lua:406
+msgctxt "random_sphere_adjective"
+msgid "peaceful"
+msgstr ""
+
+#. PERSUASION={"persuasive"}
+#: data/init/globals.lua:407
+msgctxt "random_sphere_adjective"
+msgid "persuasive"
+msgstr ""
+
+#. PLANTS={"leafy"}
+#: data/init/globals.lua:408
+msgctxt "random_sphere_adjective"
+msgid "leafy"
+msgstr ""
+
+#. POETRY={"poetic"}
+#: data/init/globals.lua:409
+msgctxt "random_sphere_adjective"
+msgid "poetic"
+msgstr ""
+
+#. PREGNANCY={"pregnant"}
+#: data/init/globals.lua:410
+msgctxt "random_sphere_adjective"
+msgid "pregnant"
+msgstr ""
+
+#. RAIN={"rainy"}
+#: data/init/globals.lua:411
+msgctxt "random_sphere_adjective"
+msgid "rainy"
+msgstr ""
+
+#. RAINBOWS={"colorful"}
+#: data/init/globals.lua:412
+msgctxt "random_sphere_adjective"
+msgid "colorful"
+msgstr ""
+
+#. REBIRTH={"reborn"}
+#: data/init/globals.lua:413
+msgctxt "random_sphere_adjective"
+msgid "reborn"
+msgstr ""
+
+#. REVELRY={"joyous"}
+#: data/init/globals.lua:414
+msgctxt "random_sphere_adjective"
+msgid "joyous"
+msgstr ""
+
+#. REVENGE={"vengeful"}
+#: data/init/globals.lua:415
+msgctxt "random_sphere_adjective"
+msgid "vengeful"
+msgstr ""
+
+#. RIVERS={"flowing"}
+#: data/init/globals.lua:416
+msgctxt "random_sphere_adjective"
+msgid "flowing"
+msgstr ""
+
+#. RULERSHIP={"lordly"}
+#: data/init/globals.lua:417
+msgctxt "random_sphere_adjective"
+msgid "lordly"
+msgstr ""
+
+#. RUMORS={"whispering"}
+#: data/init/globals.lua:418
+msgctxt "random_sphere_adjective"
+msgid "whispering"
+msgstr ""
+
+#. SACRIFICE={"sacrificial"}
+#: data/init/globals.lua:419
+msgctxt "random_sphere_adjective"
+msgid "sacrificial"
+msgstr ""
+
+#. SALT={"salty"}
+#: data/init/globals.lua:420
+msgctxt "random_sphere_adjective"
+msgid "salty"
+msgstr ""
+
+#. SCHOLARSHIP={"scholarly"}
+#: data/init/globals.lua:421
+msgctxt "random_sphere_adjective"
+msgid "scholarly"
+msgstr ""
+
+#. SEASONS={"seasonal"}
+#: data/init/globals.lua:422
+msgctxt "random_sphere_adjective"
+msgid "seasonal"
+msgstr ""
+
+#. SILENCE={"silent"}
+#: data/init/globals.lua:423
+msgctxt "random_sphere_adjective"
+msgid "silent"
+msgstr ""
+
+#. SKY={"cloudy"}
+#: data/init/globals.lua:424
+msgctxt "random_sphere_adjective"
+msgid "cloudy"
+msgstr ""
+
+#. SONG={"singing"}
+#: data/init/globals.lua:425
+msgctxt "random_sphere_adjective"
+msgid "singing"
+msgstr ""
+
+#. SPEECH={"wordy"}
+#: data/init/globals.lua:426
+msgctxt "random_sphere_adjective"
+msgid "wordy"
+msgstr ""
+
+#. STARS={"starry"}
+#: data/init/globals.lua:427
+msgctxt "random_sphere_adjective"
+msgid "starry"
+msgstr ""
+
+#. STORMS={"stormy"}
+#. WEATHER={"stormy"}
+#: data/init/globals.lua:428 data/init/globals.lua:449
+msgctxt "random_sphere_adjective"
+msgid "stormy"
+msgstr ""
+
+#. STRENGTH={"strong"}
+#: data/init/globals.lua:429
+msgctxt "random_sphere_adjective"
+msgid "strong"
+msgstr ""
+
+#. SUICIDE={"hopeless"}
+#: data/init/globals.lua:430
+msgctxt "random_sphere_adjective"
+msgid "hopeless"
+msgstr ""
+
+#. SUN={"sunny"}
+#: data/init/globals.lua:431
+msgctxt "random_sphere_adjective"
+msgid "sunny"
+msgstr ""
+
+#. THEFT={"thieving"}
+#: data/init/globals.lua:432
+msgctxt "random_sphere_adjective"
+msgid "thieving"
+msgstr ""
+
+#. THRALLDOM={"enslaved"}
+#: data/init/globals.lua:433
+msgctxt "random_sphere_adjective"
+msgid "enslaved"
+msgstr ""
+
+#. THUNDER={"thunderous"}
+#: data/init/globals.lua:434
+msgctxt "random_sphere_adjective"
+msgid "thunderous"
+msgstr ""
+
+#. TORTURE={"wicked"}
+#: data/init/globals.lua:435
+msgctxt "random_sphere_adjective"
+msgid "wicked"
+msgstr ""
+
+#. TRADE={"enterprising"}
+#: data/init/globals.lua:436
+msgctxt "random_sphere_adjective"
+msgid "enterprising"
+msgstr ""
+
+#. TRAVELERS={"traveling"}
+#: data/init/globals.lua:437
+msgctxt "random_sphere_adjective"
+msgid "traveling"
+msgstr ""
+
+#. TREACHERY={"treacherous"}
+#: data/init/globals.lua:438
+msgctxt "random_sphere_adjective"
+msgid "treacherous"
+msgstr ""
+
+#. TREES={"wooden"}
+#: data/init/globals.lua:439
+msgctxt "random_sphere_adjective"
+msgid "wooden"
+msgstr ""
+
+#. TRICKERY={"tricky"}
+#: data/init/globals.lua:440
+msgctxt "random_sphere_adjective"
+msgid "tricky"
+msgstr ""
+
+#. TRUTH={"true"}
+#: data/init/globals.lua:441
+msgctxt "random_sphere_adjective"
+msgid "true"
+msgstr ""
+
+#. TWILIGHT={"twilight"}
+#: data/init/globals.lua:442
+msgctxt "random_sphere_adjective"
+msgid "twilight"
+msgstr ""
+
+#. VALOR={"valorous"}
+#: data/init/globals.lua:443
+msgctxt "random_sphere_adjective"
+msgid "valorous"
+msgstr ""
+
+#. VICTORY={"victorious"}
+#: data/init/globals.lua:444
+msgctxt "random_sphere_adjective"
+msgid "victorious"
+msgstr ""
+
+#. VOLCANOS={"volcanic"}
+#: data/init/globals.lua:445
+msgctxt "random_sphere_adjective"
+msgid "volcanic"
+msgstr ""
+
+#. WAR={"warring"}
+#: data/init/globals.lua:446
+msgctxt "random_sphere_adjective"
+msgid "warring"
+msgstr ""
+
+#. WATER={"watery"}
+#: data/init/globals.lua:447
+msgctxt "random_sphere_adjective"
+msgid "watery"
+msgstr ""
+
+#. WEALTH={"wealthy"}
+#: data/init/globals.lua:448
+msgctxt "random_sphere_adjective"
+msgid "wealthy"
+msgstr ""
+
+#. WIND={"windy"}
+#: data/init/globals.lua:450
+msgctxt "random_sphere_adjective"
+msgid "windy"
+msgstr ""
+
+#. WISDOM={"wise"}
+#: data/init/globals.lua:451
+msgctxt "random_sphere_adjective"
+msgid "wise"
+msgstr ""
+
+#. WRITING={"lettered"}
+#: data/init/globals.lua:452
+msgctxt "random_sphere_adjective"
+msgid "lettered"
+msgstr ""
+
+#. YOUTH={"young"}
+#: data/init/globals.lua:453
+msgctxt "random_sphere_adjective"
+msgid "young"
+msgstr ""
+
+#. return sph and pick_random(random_sphere_adjective[sph]) or "no sphere"
+#. local tbl = sph and pick_random(random_sphere_nouns[sph]) or {str="no
+#. sphere"}
+#: data/init/globals.lua:457 data/init/globals.lua:597
+msgid "no sphere"
+msgstr ""
+
+#. AGRICULTURE={{str="farming"}}
+#: data/init/globals.lua:464
+msgctxt "random_sphere_nouns"
+msgid "farming"
+msgstr ""
+
+#. ANIMALS={{str="animals",flags={OF=true}}}
+#: data/init/globals.lua:465
+msgctxt "random_sphere_nouns"
+msgid "animals"
+msgstr ""
+
+#. ART={{str="art"}}
+#: data/init/globals.lua:466
+msgctxt "random_sphere_nouns"
+msgid "art"
+msgstr ""
+
+#. BALANCE={{str="balance"}}
+#: data/init/globals.lua:467
+msgctxt "random_sphere_nouns"
+msgid "balance"
+msgstr ""
+
+#. BEAUTY={{str="beauty"}}
+#: data/init/globals.lua:468
+msgctxt "random_sphere_nouns"
+msgid "beauty"
+msgstr ""
+
+#. BIRTH={{str="birth"}}
+#: data/init/globals.lua:469
+msgctxt "random_sphere_nouns"
+msgid "birth"
+msgstr ""
+
+#. BLIGHT={{str="blight"}}
+#: data/init/globals.lua:470
+msgctxt "random_sphere_nouns"
+msgid "blight"
+msgstr ""
+
+#. BOUNDARIES={{str="boundaries",flags={OF=true}}}
+#: data/init/globals.lua:471
+msgctxt "random_sphere_nouns"
+msgid "boundaries"
+msgstr ""
+
+#. CAVERNS={{str="caverns",flags={OF=true}}}
+#: data/init/globals.lua:472
+msgctxt "random_sphere_nouns"
+msgid "caverns"
+msgstr ""
+
+#. CHAOS={{str="chaos"}}
+#: data/init/globals.lua:473
+msgctxt "random_sphere_nouns"
+msgid "chaos"
+msgstr ""
+
+#. CHARITY={{str="charity"}}
+#: data/init/globals.lua:474
+msgctxt "random_sphere_nouns"
+msgid "charity"
+msgstr ""
+
+#. CHILDREN={{str="children",flags={OF=true}}}
+#: data/init/globals.lua:475
+msgctxt "random_sphere_nouns"
+msgid "children"
+msgstr ""
+
+#. COASTS={{str="coasts",flags={OF=true}}}
+#: data/init/globals.lua:476
+msgctxt "random_sphere_nouns"
+msgid "coasts"
+msgstr ""
+
+#. CONSOLATION={{str="consolation",flags={OF=true}}}
+#: data/init/globals.lua:477
+msgctxt "random_sphere_nouns"
+msgid "consolation"
+msgstr ""
+
+#. COURAGE={{str="courage"}}
+#: data/init/globals.lua:478
+msgctxt "random_sphere_nouns"
+msgid "courage"
+msgstr ""
+
+#. CRAFTS={{str="crafts",flags={OF=true}}}
+#: data/init/globals.lua:479
+msgctxt "random_sphere_nouns"
+msgid "crafts"
+msgstr ""
+
+#. CREATION={{str="creation"}}
+#: data/init/globals.lua:480
+msgctxt "random_sphere_nouns"
+msgid "creation"
+msgstr ""
+
+#. DANCE={{str="dance"}}
+#: data/init/globals.lua:481
+msgctxt "random_sphere_nouns"
+msgid "dance"
+msgstr ""
+
+#. DARKNESS={{str="darkness"}}
+#: data/init/globals.lua:482
+msgctxt "random_sphere_nouns"
+msgid "darkness"
+msgstr ""
+
+#. DAWN={{str="dawn"}}
+#: data/init/globals.lua:483
+msgctxt "random_sphere_nouns"
+msgid "dawn"
+msgstr ""
+
+#. DAY={{str="day"}}
+#: data/init/globals.lua:484
+msgctxt "random_sphere_nouns"
+msgid "day"
+msgstr ""
+
+#. DEATH={{str="death"}}
+#: data/init/globals.lua:485
+msgctxt "random_sphere_nouns"
+msgid "death"
+msgstr ""
+
+#. DEFORMITY={{str="deformity",flags={OF=true}}}
+#: data/init/globals.lua:486
+msgctxt "random_sphere_nouns"
+msgid "deformity"
+msgstr ""
+
+#. DEPRAVITY={{str="depravity",flags={OF=true}}}
+#: data/init/globals.lua:487
+msgctxt "random_sphere_nouns"
+msgid "depravity"
+msgstr ""
+
+#. DISCIPLINE={{str="discipline",flags={OF=true}}}
+#: data/init/globals.lua:488
+msgctxt "random_sphere_nouns"
+msgid "discipline"
+msgstr ""
+
+#. DISEASE={{str="disease"}}
+#: data/init/globals.lua:489
+msgctxt "random_sphere_nouns"
+msgid "disease"
+msgstr ""
+
+#. DREAMS={{str="dreams",flags={OF=true}}}
+#: data/init/globals.lua:490
+msgctxt "random_sphere_nouns"
+msgid "dreams"
+msgstr ""
+
+#. DUSK={{str="dusk"}}
+#: data/init/globals.lua:491
+msgctxt "random_sphere_nouns"
+msgid "dusk"
+msgstr ""
+
+#. DUTY={{str="duty"}}
+#: data/init/globals.lua:492
+msgctxt "random_sphere_nouns"
+msgid "duty"
+msgstr ""
+
+#. EARTH={{str="earth"}}
+#: data/init/globals.lua:493
+msgctxt "random_sphere_nouns"
+msgid "earth"
+msgstr ""
+
+#. FAMILY={{str="family"}}
+#: data/init/globals.lua:494
+msgctxt "random_sphere_nouns"
+msgid "family"
+msgstr ""
+
+#. FAME={{str="fame"}}
+#: data/init/globals.lua:495
+msgctxt "random_sphere_nouns"
+msgid "fame"
+msgstr ""
+
+#. FATE={{str="fate"}}
+#: data/init/globals.lua:496
+msgctxt "random_sphere_nouns"
+msgid "fate"
+msgstr ""
+
+#. FERTILITY={{str="fertility",flags={OF=true}}}
+#: data/init/globals.lua:497
+msgctxt "random_sphere_nouns"
+msgid "fertility"
+msgstr ""
+
+#. FESTIVALS={{str="festivals",flags={OF=true}}}
+#: data/init/globals.lua:498
+msgctxt "random_sphere_nouns"
+msgid "festivals"
+msgstr ""
+
+#. FIRE={{str="fire"}}
+#: data/init/globals.lua:499
+msgctxt "random_sphere_nouns"
+msgid "fire"
+msgstr ""
+
+#. FISH={{str="fish",flags={OF=true}}}
+#: data/init/globals.lua:500
+msgctxt "random_sphere_nouns"
+msgid "fish"
+msgstr ""
+
+#. FISHING={{str="fishing"}}
+#: data/init/globals.lua:501
+msgctxt "random_sphere_nouns"
+msgid "fishing"
+msgstr ""
+
+#. FOOD={{str="food"}}
+#: data/init/globals.lua:502
+msgctxt "random_sphere_nouns"
+msgid "food"
+msgstr ""
+
+#. FORGIVENESS={{str="forgiveness",flags={OF=true}}}
+#: data/init/globals.lua:503
+msgctxt "random_sphere_nouns"
+msgid "forgiveness"
+msgstr ""
+
+#. FORTRESSES={{str="fortresses",flags={OF=true}}}
+#: data/init/globals.lua:504
+msgctxt "random_sphere_nouns"
+msgid "fortresses"
+msgstr ""
+
+#. FREEDOM={{str="freedom"}}
+#: data/init/globals.lua:505
+msgctxt "random_sphere_nouns"
+msgid "freedom"
+msgstr ""
+
+#. GAMBLING={{str="gambling"}}
+#: data/init/globals.lua:506
+msgctxt "random_sphere_nouns"
+msgid "gambling"
+msgstr ""
+
+#. GAMES={{str="games",flags={OF=true}}}
+#: data/init/globals.lua:507
+msgctxt "random_sphere_nouns"
+msgid "games"
+msgstr ""
+
+#. GENEROSITY={{str="generosity",flags={OF=true}}}
+#: data/init/globals.lua:508
+msgctxt "random_sphere_nouns"
+msgid "generosity"
+msgstr ""
+
+#. HAPPINESS={{str="happiness",flags={PRE=true,OF=true}}}
+#: data/init/globals.lua:509
+msgctxt "random_sphere_nouns"
+msgid "happiness"
+msgstr ""
+
+#. HEALING={{str="healing"}}
+#: data/init/globals.lua:510
+msgctxt "random_sphere_nouns"
+msgid "healing"
+msgstr ""
+
+#. HOSPITALITY={{str="hospitality",flags={OF=true}}}
+#: data/init/globals.lua:511
+msgctxt "random_sphere_nouns"
+msgid "hospitality"
+msgstr ""
+
+#. HUNTING={{str="hunting"}}
+#: data/init/globals.lua:512
+msgctxt "random_sphere_nouns"
+msgid "hunting"
+msgstr ""
+
+#. INSPIRATION={{str="inspiration",flags={OF=true}}}
+#: data/init/globals.lua:513
+msgctxt "random_sphere_nouns"
+msgid "inspiration"
+msgstr ""
+
+#. JEALOUSY={{str="jealousy",flags={OF=true}}}
+#: data/init/globals.lua:514
+msgctxt "random_sphere_nouns"
+msgid "jealousy"
+msgstr ""
+
+#. JEWELS={{str="jewels",flags={OF=true}}}
+#: data/init/globals.lua:515
+msgctxt "random_sphere_nouns"
+msgid "jewels"
+msgstr ""
+
+#. JUSTICE={{str="justice"}}
+#: data/init/globals.lua:516
+msgctxt "random_sphere_nouns"
+msgid "justice"
+msgstr ""
+
+#. LABOR={{str="labor"}}
+#: data/init/globals.lua:517
+msgctxt "random_sphere_nouns"
+msgid "labor"
+msgstr ""
+
+#. LAKES={{str="lakes",flags={OF=true}}}
+#: data/init/globals.lua:518
+msgctxt "random_sphere_nouns"
+msgid "lakes"
+msgstr ""
+
+#. LAWS={{str="laws",flags={OF=true}}}
+#: data/init/globals.lua:519
+msgctxt "random_sphere_nouns"
+msgid "laws"
+msgstr ""
+
+#. LIES={{str="lies",flags={OF=true}}}
+#: data/init/globals.lua:520
+msgctxt "random_sphere_nouns"
+msgid "lies"
+msgstr ""
+
+#. LIGHT={{str="light"}}
+#: data/init/globals.lua:521
+msgctxt "random_sphere_nouns"
+msgid "light"
+msgstr ""
+
+#. LIGHTNING={{str="lightning"}}
+#: data/init/globals.lua:522
+msgctxt "random_sphere_nouns"
+msgid "lightning"
+msgstr ""
+
+#. LONGEVITY={{str="longevity",flags={OF=true}}}
+#: data/init/globals.lua:523
+msgctxt "random_sphere_nouns"
+msgid "longevity"
+msgstr ""
+
+#. LOVE={{str="love"}}
+#: data/init/globals.lua:524
+msgctxt "random_sphere_nouns"
+msgid "love"
+msgstr ""
+
+#. LOYALTY={{str="loyalty",flags={OF=true}}}
+#: data/init/globals.lua:525
+msgctxt "random_sphere_nouns"
+msgid "loyalty"
+msgstr ""
+
+#. LUCK={{str="luck"}}
+#: data/init/globals.lua:526
+msgctxt "random_sphere_nouns"
+msgid "luck"
+msgstr ""
+
+#. LUST={{str="lust"}}
+#: data/init/globals.lua:527
+msgctxt "random_sphere_nouns"
+msgid "lust"
+msgstr ""
+
+#. MARRIAGE={{str="marriage"}}
+#: data/init/globals.lua:528
+msgctxt "random_sphere_nouns"
+msgid "marriage"
+msgstr ""
+
+#. MERCY={{str="mercy"}}
+#: data/init/globals.lua:529
+msgctxt "random_sphere_nouns"
+msgid "mercy"
+msgstr ""
+
+#. METALS={{str="metals",flags={OF=true}}}
+#: data/init/globals.lua:530
+msgctxt "random_sphere_nouns"
+msgid "metals"
+msgstr ""
+
+#. MINERALS={{str="minerals",flags={OF=true}}}
+#: data/init/globals.lua:531
+msgctxt "random_sphere_nouns"
+msgid "minerals"
+msgstr ""
+
+#. MISERY={{str="misery"}}
+#: data/init/globals.lua:532
+msgctxt "random_sphere_nouns"
+msgid "misery"
+msgstr ""
+
+#. MIST={{str="mist"}}
+#: data/init/globals.lua:533
+msgctxt "random_sphere_nouns"
+msgid "mist"
+msgstr ""
+
+#. MOON={{str="moon"}}
+#: data/init/globals.lua:534
+msgctxt "random_sphere_nouns"
+msgid "moon"
+msgstr ""
+
+#. MOUNTAINS={{str="mountains",flags={OF=true}}}
+#: data/init/globals.lua:535
+msgctxt "random_sphere_nouns"
+msgid "mountains"
+msgstr ""
+
+#. MUCK={{str="muck"}}
+#: data/init/globals.lua:536
+msgctxt "random_sphere_nouns"
+msgid "muck"
+msgstr ""
+
+#. MURDER={{str="murder"}}
+#: data/init/globals.lua:537
+msgctxt "random_sphere_nouns"
+msgid "murder"
+msgstr ""
+
+#. MUSIC={{str="music"}}
+#: data/init/globals.lua:538
+msgctxt "random_sphere_nouns"
+msgid "music"
+msgstr ""
+
+#. NATURE={{str="nature"}}
+#: data/init/globals.lua:539
+msgctxt "random_sphere_nouns"
+msgid "nature"
+msgstr ""
+
+#. NIGHT={{str="night"}}
+#: data/init/globals.lua:540
+msgctxt "random_sphere_nouns"
+msgid "night"
+msgstr ""
+
+#. NIGHTMARES={{str="nightmares",flags={OF=true}}}
+#: data/init/globals.lua:541
+msgctxt "random_sphere_nouns"
+msgid "nightmares"
+msgstr ""
+
+#. OATHS={{str="oaths",flags={OF=true}}}
+#: data/init/globals.lua:542
+msgctxt "random_sphere_nouns"
+msgid "oaths"
+msgstr ""
+
+#. OCEANS={{str="oceans",flags={OF=true}}}
+#: data/init/globals.lua:543
+msgctxt "random_sphere_nouns"
+msgid "oceans"
+msgstr ""
+
+#. ORDER={{str="order"}}
+#: data/init/globals.lua:544
+msgctxt "random_sphere_nouns"
+msgid "order"
+msgstr ""
+
+#. PAINTING={{str="painting"}}
+#: data/init/globals.lua:545
+msgctxt "random_sphere_nouns"
+msgid "painting"
+msgstr ""
+
+#. PEACE={{str="peace"}}
+#: data/init/globals.lua:546
+msgctxt "random_sphere_nouns"
+msgid "peace"
+msgstr ""
+
+#. PERSUASION={{str="persuasion",flags={OF=true}}}
+#: data/init/globals.lua:547
+msgctxt "random_sphere_nouns"
+msgid "persuasion"
+msgstr ""
+
+#. PLANTS={{str="plants",flags={OF=true}}}
+#: data/init/globals.lua:548
+msgctxt "random_sphere_nouns"
+msgid "plants"
+msgstr ""
+
+#. POETRY={{str="poetry"}}
+#: data/init/globals.lua:549
+msgctxt "random_sphere_nouns"
+msgid "poetry"
+msgstr ""
+
+#. PREGNANCY={{str="pregnancy"}}
+#: data/init/globals.lua:550
+msgctxt "random_sphere_nouns"
+msgid "pregnancy"
+msgstr ""
+
+#. RAIN={{str="rain"}}
+#: data/init/globals.lua:551
+msgctxt "random_sphere_nouns"
+msgid "rain"
+msgstr ""
+
+#. RAINBOWS={{str="rainbows",flags={OF=true}}}
+#: data/init/globals.lua:552
+msgctxt "random_sphere_nouns"
+msgid "rainbows"
+msgstr ""
+
+#. REBIRTH={{str="rebirth"}}
+#: data/init/globals.lua:553
+msgctxt "random_sphere_nouns"
+msgid "rebirth"
+msgstr ""
+
+#. REVELRY={{str="revelry"}}
+#: data/init/globals.lua:554
+msgctxt "random_sphere_nouns"
+msgid "revelry"
+msgstr ""
+
+#. REVENGE={{str="revenge"}}
+#: data/init/globals.lua:555
+msgctxt "random_sphere_nouns"
+msgid "revenge"
+msgstr ""
+
+#. RIVERS={{str="rivers",flags={OF=true}}}
+#: data/init/globals.lua:556
+msgctxt "random_sphere_nouns"
+msgid "rivers"
+msgstr ""
+
+#. RULERSHIP={{str="rulership"}}
+#: data/init/globals.lua:557
+msgctxt "random_sphere_nouns"
+msgid "rulership"
+msgstr ""
+
+#. RUMORS={{str="rumors",flags={OF=true}}}
+#: data/init/globals.lua:558
+msgctxt "random_sphere_nouns"
+msgid "rumors"
+msgstr ""
+
+#. SACRIFICE={{str="sacrifice"}}
+#: data/init/globals.lua:559
+msgctxt "random_sphere_nouns"
+msgid "sacrifice"
+msgstr ""
+
+#. SALT={{str="salt"}}
+#: data/init/globals.lua:560
+msgctxt "random_sphere_nouns"
+msgid "salt"
+msgstr ""
+
+#. SCHOLARSHIP={{str="scholarship",flags={OF=true}}}
+#: data/init/globals.lua:561
+msgctxt "random_sphere_nouns"
+msgid "scholarship"
+msgstr ""
+
+#. SEASONS={{str="seasons",flags={OF=true}}}
+#: data/init/globals.lua:562
+msgctxt "random_sphere_nouns"
+msgid "seasons"
+msgstr ""
+
+#. SILENCE={{str="silence"}}
+#: data/init/globals.lua:563
+msgctxt "random_sphere_nouns"
+msgid "silence"
+msgstr ""
+
+#. SKY={{str="sky"}}
+#: data/init/globals.lua:564
+msgctxt "random_sphere_nouns"
+msgid "sky"
+msgstr ""
+
+#. SONG={{str="song"}}
+#: data/init/globals.lua:565
+msgctxt "random_sphere_nouns"
+msgid "song"
+msgstr ""
+
+#. SPEECH={{str="speech"}}
+#: data/init/globals.lua:566
+msgctxt "random_sphere_nouns"
+msgid "speech"
+msgstr ""
+
+#. STARS={{str="stars",flags={OF=true}}}
+#: data/init/globals.lua:567
+msgctxt "random_sphere_nouns"
+msgid "stars"
+msgstr ""
+
+#. STORMS={{str="storms",flags={OF=true}}}
+#: data/init/globals.lua:568
+msgctxt "random_sphere_nouns"
+msgid "storms"
+msgstr ""
+
+#. STRENGTH={{str="strength"}}
+#: data/init/globals.lua:569
+msgctxt "random_sphere_nouns"
+msgid "strength"
+msgstr ""
+
+#. SUICIDE={{str="suicide"}}
+#: data/init/globals.lua:570
+msgctxt "random_sphere_nouns"
+msgid "suicide"
+msgstr ""
+
+#. SUN={{str="sun"}}
+#: data/init/globals.lua:571
+msgctxt "random_sphere_nouns"
+msgid "sun"
+msgstr ""
+
+#. THEFT={{str="theft"}}
+#: data/init/globals.lua:572
+msgctxt "random_sphere_nouns"
+msgid "theft"
+msgstr ""
+
+#. THRALLDOM={{str="thralldom",flags={OF=true}}}
+#: data/init/globals.lua:573
+msgctxt "random_sphere_nouns"
+msgid "thralldom"
+msgstr ""
+
+#. THUNDER={{str="thunder"}}
+#: data/init/globals.lua:574
+msgctxt "random_sphere_nouns"
+msgid "thunder"
+msgstr ""
+
+#. TORTURE={{str="torture"}}
+#: data/init/globals.lua:575
+msgctxt "random_sphere_nouns"
+msgid "torture"
+msgstr ""
+
+#. TRADE={{str="trade"}}
+#: data/init/globals.lua:576
+msgctxt "random_sphere_nouns"
+msgid "trade"
+msgstr ""
+
+#. TRAVELERS={{str="travelers",flags={OF=true}}}
+#: data/init/globals.lua:577
+msgctxt "random_sphere_nouns"
+msgid "travelers"
+msgstr ""
+
+#. TREACHERY={{str="treachery"}}
+#: data/init/globals.lua:578
+msgctxt "random_sphere_nouns"
+msgid "treachery"
+msgstr ""
+
+#. TREES={{str="trees",flags={OF=true}}}
+#: data/init/globals.lua:579
+msgctxt "random_sphere_nouns"
+msgid "trees"
+msgstr ""
+
+#. TRICKERY={{str="trickery"}}
+#: data/init/globals.lua:580
+msgctxt "random_sphere_nouns"
+msgid "trickery"
+msgstr ""
+
+#. TRUTH={{str="truth"}}
+#: data/init/globals.lua:581
+msgctxt "random_sphere_nouns"
+msgid "truth"
+msgstr ""
+
+#. TWILIGHT={{str="twilight"}}
+#: data/init/globals.lua:582
+msgctxt "random_sphere_nouns"
+msgid "twilight"
+msgstr ""
+
+#. VALOR={{str="valor"}}
+#: data/init/globals.lua:583
+msgctxt "random_sphere_nouns"
+msgid "valor"
+msgstr ""
+
+#. VICTORY={{str="victory"}}
+#: data/init/globals.lua:584
+msgctxt "random_sphere_nouns"
+msgid "victory"
+msgstr ""
+
+#. VOLCANOS={{str="volcanos",flags={OF=true}}}
+#: data/init/globals.lua:585
+msgctxt "random_sphere_nouns"
+msgid "volcanos"
+msgstr ""
+
+#. WAR={{str="war"}}
+#: data/init/globals.lua:586
+msgctxt "random_sphere_nouns"
+msgid "war"
+msgstr ""
+
+#. WATER={{str="water"}}
+#: data/init/globals.lua:587
+msgctxt "random_sphere_nouns"
+msgid "water"
+msgstr ""
+
+#. WEALTH={{str="wealth"}}
+#: data/init/globals.lua:588
+msgctxt "random_sphere_nouns"
+msgid "wealth"
+msgstr ""
+
+#. WEATHER={{str="weather"}}
+#: data/init/globals.lua:589
+msgctxt "random_sphere_nouns"
+msgid "weather"
+msgstr ""
+
+#. WIND={{str="wind"}}
+#: data/init/globals.lua:590
+msgctxt "random_sphere_nouns"
+msgid "wind"
+msgstr ""
+
+#. WISDOM={{str="wisdom"}}
+#: data/init/globals.lua:591
+msgctxt "random_sphere_nouns"
+msgid "wisdom"
+msgstr ""
+
+#. WRITING={{str="writing"}}
+#: data/init/globals.lua:592
+msgctxt "random_sphere_nouns"
+msgid "writing"
+msgstr ""
+
+#. YOUTH={{str="youth"}}
+#: data/init/globals.lua:593
+msgctxt "random_sphere_nouns"
+msgid "youth"
+msgstr ""
+
 #. name_string="blob"
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures/rcp.lua:405
 msgctxt "GENERAL_BLOB"
@@ -1674,7 +3250,6 @@ msgstr ""
 #. BEAST_ORGANIC_WALRUS_EYE_ONE="glowing"
 #. BEAST_ORGANIC_WALRUS_EYE_TWO="glowing"
 #. BEAST_ORGANIC_WALRUS_EYE_THREE="glowing"
-#. if pal_selection[v]=="glowing" then
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures/shared_info.lua:1396
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures/shared_info.lua:1397
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures/shared_info.lua:1398
@@ -1711,7 +3286,6 @@ msgstr ""
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures/shared_info.lua:1429
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures/shared_info.lua:1430
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures/shared_info.lua:1431
-#: data/vanilla/vanilla_procedural/scripts/generators/creatures/shared_info.lua:4922
 msgid "glowing"
 msgstr ""
 
@@ -3174,12 +4748,6 @@ msgctxt "evil_desc_adds"
 msgid "it repeatedly makes threats of torture and death"
 msgstr ""
 
-#. log(options.attack_tweak,"has no code associated! Did someone forget to add
-#. it?")
-#: data/vanilla/vanilla_procedural/scripts/generators/creatures/shared_info.lua:4348
-msgid "has no code associated! Did someone forget to add it?"
-msgstr ""
-
 #. desc=desc..pick_random({" great"," gigantic"," towering", "n enormous","
 #. huge"})
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures/shared_info.lua:4442
@@ -3326,12 +4894,6 @@ msgstr ""
 msgid "hill"
 msgstr ""
 
-#. name=function(subregion) return "buggy" end
-#: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:150
-msgctxt "NONE"
-msgid "buggy"
-msgstr ""
-
 #. sickness_name="beast sickness"
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:160
 msgid "beast sickness"
@@ -3340,12 +4902,6 @@ msgstr ""
 #. sickness_name="titan sickness"
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:199
 msgid "titan sickness"
-msgstr ""
-
-#. local subreg_name=subregion and regiontypes[subregion.type].name(subregion)
-#. or "buggy"
-#: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:244
-msgid "buggy"
 msgstr ""
 
 #. local name_str = subreg_name.." titan:"..subreg_name.."
@@ -3572,31 +5128,9 @@ msgstr ""
 msgid "demon sickness"
 msgstr ""
 
-#. if demon_type=="unique" then
-#: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:290
-msgid "unique"
-msgstr ""
-
-#. if(demon_type=="humanoid_beast") then options.humanoid_only=true end
-#. options.beast_only=demon_type=="humanoid_beast" or demon_type=="beast"
-#: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:321
-#: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:467
-msgid "humanoid_beast"
-msgstr ""
-
 #. options.fallback_pref_str="horrifying features"
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:334
 msgid "horrifying features"
-msgstr ""
-
-#. options.beast_only=demon_type=="humanoid_beast" or demon_type=="beast"
-#: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:467
-msgid "beast"
-msgstr ""
-
-#. if demon_type=="flying_spirit" then
-#: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:468
-msgid "flying_spirit"
 msgstr ""
 
 #. name_str=name.name.." of "..nmm..":"..name.names.." of
@@ -3609,11 +5143,6 @@ msgstr ""
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:1465
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:2068
 msgid " of "
-msgstr ""
-
-#. name_str="glitch demon:glitch demons:glitch demon"
-#: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:509
-msgid "glitch demon:glitch demons:glitch demon"
 msgstr ""
 
 #. end_phrase="Now you will know why you fear the night."
@@ -8527,16 +10056,6 @@ msgstr ""
 #. name_plural_str=name_str.."s"
 #: data/vanilla/vanilla_procedural/scripts/generators/interactions/mythical.lua:267
 msgid "s"
-msgstr ""
-
-#. tbl[#tbl+1]="[SYN_CLASS:NECROMANCER] for color purposes"
-#: data/vanilla/vanilla_procedural/scripts/generators/interactions/mythical.lua:283
-msgid "[SYN_CLASS:NECROMANCER] for color purposes"
-msgstr ""
-
-#. tbl[#tbl+1]="[SYN_CONCENTRATION_ADDED:1000:0] just in case"
-#: data/vanilla/vanilla_procedural/scripts/generators/interactions/mythical.lua:284
-msgid "[SYN_CONCENTRATION_ADDED:1000:0] just in case"
 msgstr ""
 
 #. "night"
