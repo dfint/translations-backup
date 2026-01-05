@@ -19,7 +19,7 @@
 # Michael Kobert, 2023
 # Jas L, 2024
 # Alan Köhler <alankoehler@online.de>, 2024
-# insolor, 2024
+# Mikhail M (insolor), 2024
 # Stefan Heider, 2024
 # Taro, 2024
 # Ramon Stohr, 2024
@@ -4994,7 +4994,7 @@ msgid "Slumberous"
 msgstr "Schläfrig"
 
 msgid "Unconscious"
-msgstr "Unbewusst"
+msgstr "Bewusstlos"
 
 msgid "Paralyzed"
 msgstr "Gelähmt"
@@ -10635,9 +10635,10 @@ msgid ""
 "Powder[C:7:0:0] for [C:6:0:1]Orthopedic Casts[C:7:0:0].  "
 "[C:6:0:1]Soap[C:7:0:0] is necessary to prevent infection. "
 msgstr ""
-"Some injuries require [C:6:0:1]Splints[C:7:0:0], or [C:6:0:1]Gypsum Plaster "
-"Powder[C:7:0:0] for [C:6:0:1]Orthopedic Casts[C:7:0:0].  "
-"[C:6:0:1]Soap[C:7:0:0] is necessary to prevent infection. "
+"Einige Verletzungen erfordern [C:6:0:1]Schienen[C:7:0:0], oder "
+"[C:6:0:1]Gips-Pulver[C:7:0:0] für [C:6:0:1]orthopädische "
+"Gipsverbände[C:7:0:0].  [C:6:0:1]Seife[C:7:0:0] ist notwendig, um "
+"Infektionen zu verhindern. "
 
 msgid ""
 "Some patients will need [C:6:0:1]Crutches[C:7:0:0] after they are treated. "
@@ -11358,6 +11359,9 @@ msgid ""
 "The [C:3:0:1]Judge of Intent[C:7:0:0] skill can help you keep tabs on the "
 "other speaker's mood.  The people you are conversing with "
 msgstr ""
+"Die Fertigkeit [C:3:0:1]Richter der Absichten[C:7:0:0] kann Ihnen dabei "
+"helfen, die Stimmung Ihres Gesprächspartners im Auge zu behalten. Die "
+"Personen, mit denen Sie sich unterhalten "
 
 msgid "might become impatient or upset with you.  "
 msgstr "könnten ungeduldig oder verärgert mit dir werden."
@@ -11544,6 +11548,7 @@ msgstr ""
 msgid ""
 "To change the camera's elevation, [C:2:0:1]roll the mouse wheel[C:7:0:0]."
 msgstr ""
+"Um die Höhe der Kamera zu ändern, [C:2:0:1]drehen Sie das Mausrad[C:7:0:0]."
 
 msgid ""
 "When your view is in the air above other tiles, you can usually see them "
@@ -11560,7 +11565,7 @@ msgstr ""
 "konzentrieren mit dem"
 
 msgid "] hotkey or by clicking the recenter button."
-msgstr ""
+msgstr "] Hotkey oder durch Klicken auf die Schaltfläche „Neu zentrieren“."
 
 msgid " (2 of 3)"
 msgstr " (2 von 3)"
@@ -11586,49 +11591,64 @@ msgid ""
 "If you right click in the play area, you'll open a context-sensitive menu of"
 " actions.  This lets you select a destination more carefully."
 msgstr ""
+"Wenn Sie mit der rechten Maustaste in den Speilbereich klicken, öffnet sich "
+"ein kontextsensitives Aktionsmenü. So können Sie ein Ziel genauer auswählen."
 
 msgid ""
 "It's very important to note that only one creature can be standing in a tile"
 " at a time.  "
 msgstr ""
+"Es ist sehr wichtig zu beachten, dass sich jeweils nur ein Wesen auf einem "
+"Feld befinden kann. "
 
 msgid ""
 "If you see brown downward triangles under your character, you will move very"
 " slowly and should try to stand if you are able.  "
 msgstr ""
+"Wenn Sie unter Ihrem Charakter braune, nach unten gerichtete Dreiecke sehen,"
+" bewegen Sie sich sehr langsam und sollten versuchen, sich aufzurichten, "
+"wenn Sie dazu in der Lage sind. "
 
 msgid ""
 "You can alternate between standing and a prone position by clicking the "
 "indicated button or pressing "
 msgstr ""
+"Sie können zwischen stehender und liegender Position wechseln, indem Sie auf"
+" die angegebene Schaltfläche klicken oder drücken."
 
 msgid ""
 "You can set your gait/speed and other movement options by clicking the "
 "indicated button or pressing "
 msgstr ""
+"Sie können Ihre Gangart/Geschwindigkeit und andere Bewegungsoptionen "
+"einstellen, indem Sie auf die angegebene Schaltfläche klicken oder drücken. "
 
 msgid ".  This menu will also show you how stealthfully you are moving."
-msgstr ""
+msgstr ".  Dieses Menü zeigt Ihnen auch, wie heimlich Sie sich bewegen."
 
 msgid "If you have a number pad, you can move one tile at a time by pressing "
 msgstr ""
+"Wenn Sie einen Ziffernblock haben, können Sie durch Drücken der passenden "
+"Taste jeweils eine Kachel verschieben. "
 
 msgid ""
 " etc.  If you want to move carefully, confirming your selection, you can "
 "press "
 msgstr ""
+"usw. Wenn Sie vorsichtig vorgehen und Ihre Auswahl bestätigen möchten, "
+"können Sie die Taste "
 
 msgid "] etc."
-msgstr ""
+msgstr "] etc."
 
 msgid "When flying, use "
-msgstr ""
+msgstr "Beim Fliegen verwenden Sie "
 
 msgid "] etc. and"
-msgstr ""
+msgstr "] usw.. und"
 
 msgid "] etc. to change altitude.  "
-msgstr ""
+msgstr "] usw., um die Höhe zu ändern. "
 
 msgid ""
 "You can also flying to other altitudes by left/right clicking while the "
@@ -11647,43 +11667,66 @@ msgid ""
 " to view your character's status.  This can be used to view your injuries, "
 "skills and needs."
 msgstr ""
+" um den Status Ihres Charakters anzuzeigen. Hier können Sie Ihre "
+"Verletzungen, Fähigkeiten und Bedürfnisse einsehen."
 
 msgid ""
 " to view your log.  Your character generally starts with a variety of local "
 "knowledge, including a few places to have an adventure.  "
 msgstr ""
+" um dein Protokoll anzuzeigen. Dein Charakter verfügt in der Regel über eine"
+" Vielzahl lokaler Kenntnisse, darunter auch einige Orte, an denen du "
+"Abenteuer erleben kannst. "
 
 msgid "You can also speak to locals and inquire about their troubles. "
 msgstr ""
+"Sie können auch mit Einheimischen sprechen und sich nach ihren Problemen "
+"erkundigen. "
 
 msgid " to view and interact with your worn and carried items.  "
 msgstr ""
+" um Ihre getragenen und mitgeführten Gegenstände anzusehen und mit ihnen zu "
+"interagieren. "
 
 msgid ""
 " to interact with nearby objects and environmental features.  In particular,"
 " this is an easy way to pick things up. "
 msgstr ""
+" mit Objekten und Umgebungsmerkmalen in der Nähe zu interagieren. "
+"Insbesondere ist dies eine einfache Möglichkeit, Dinge aufzuheben. "
 
 msgid ""
 "Right click on people to initiate conversations.  You can click the "
 "indicated button or press "
 msgstr ""
+"Klicken Sie mit der rechten Maustaste auf Personen, um Gespräche zu "
+"beginnen. Sie können auf die angegebene Schaltfläche klicken oder drücken "
+"Sie "
 
 msgid ""
 " to continue an active conversation.  People can share troubles they'd like "
 "your help with, and you can also trade with shopkeepers or barter with most "
 "others.  "
 msgstr ""
+" um ein aktives Gespräch fortzusetzen. Die Leute können dir Probleme "
+"schildern, bei denen sie deine Hilfe brauchen, und du kannst auch mit "
+"Ladenbesitzern handeln oder mit den meisten anderen tauschen. "
 
 msgid ""
 "Conversations, like movement, take place over time.  If you engage in a "
 "conversation, you'll generally wait for a reply before you can act again. "
 msgstr ""
+"Gespräche finden, wie Bewegungen, im Laufe der Zeit statt. Wenn Sie ein "
+"Gespräch führen, warten Sie in der Regel auf eine Antwort, bevor Sie wieder "
+"handeln können. "
 
 msgid ""
 " to butcher a carcass or to engage in crafting activities.  Hunting is an "
 "important way to get food.  The base game has limited crafting. "
 msgstr ""
+" eine Leiche zerlegen oder handwerklichen Tätigkeiten nachgehen. Die Jagd "
+"ist eine wichtige Möglichkeit, um an Nahrung zu gelangen. Das Basisspiel "
+"bietet nur begrenzte Handwerksmöglichkeiten. "
 
 msgid ""
 "You can strike, wrestle, or shoot to engage in combat.  You can also throw "
@@ -11719,7 +11762,7 @@ msgid ""
 msgstr ""
 
 msgid " to view the message log."
-msgstr ""
+msgstr " to view the message log."
 
 msgid "Companions"
 msgstr "Gefährten"
@@ -11872,12 +11915,14 @@ msgstr ""
 " sich Ihnen anzuschließen, aber viele werden sich vor Gefahren scheuen. "
 
 msgid "Perform"
-msgstr ""
+msgstr "Leistung"
 
 msgid ""
 "This is the performance menu.  Here you can initiate a poetry recital, tell "
 "a story, dance, sing, or play a musical instrument.  "
 msgstr ""
+"Dies ist das Leistungsmenü. Hier können Sie eine Gedichtlesung initiieren, "
+"eine Geschichte erzählen, tanzen, singen oder ein Musikinstrument spielen. "
 
 msgid ""
 "You can also compose poems, songs, and choreography if you know a relevant "
@@ -16606,7 +16651,7 @@ msgid "Crutches (Desired): "
 msgstr "Krücken (erwünscht): "
 
 msgid "Powder for casts (Desired): "
-msgstr "Powder for casts (Desired): "
+msgstr "Pulver für Gipsverbände (gewünscht): "
 
 msgid "Buckets (Desired): "
 msgstr "Eimer (erwünscht): "
@@ -52715,7 +52760,7 @@ msgid "tavern sign"
 msgstr "Tavernenschild"
 
 msgid "slab"
-msgstr "grabstein"
+msgstr "Grabstein"
 
 msgid "corpse"
 msgstr "Leiche"
@@ -56865,7 +56910,7 @@ msgid "poorly led"
 msgstr "poorly led"
 
 msgid " clashed with "
-msgstr " clashed with "
+msgstr " zusammengeprallt mit "
 
 msgid "a lone "
 msgstr "a lone "
@@ -56892,7 +56937,7 @@ msgid "everyone"
 msgstr "alle"
 
 msgid "the clash between "
-msgstr "the clash between "
+msgstr "der Konflikt zwischen "
 
 msgid "performed horrible experiments"
 msgstr "grausame Experimente durchgeführt"
@@ -60725,7 +60770,7 @@ msgid "singlemindedness"
 msgstr "Zielstrebigkeit"
 
 msgid "bashful"
-msgstr "bashful"
+msgstr "schüchtern"
 
 msgid "private"
 msgstr "private"
@@ -71770,7 +71815,7 @@ msgid "Furrowed "
 msgstr "Zerfurchter "
 
 msgid "Ashes"
-msgstr "Ashes"
+msgstr "Asche"
 
 msgid "Waterfall"
 msgstr "Waterfall"
@@ -80919,7 +80964,7 @@ msgid "Bad script! #3"
 msgstr "Bad script! #3"
 
 msgid "Need bag containing powder suitable for cast application"
-msgstr "Need bag containing powder suitable for cast application"
+msgstr "Benötige Beutel mit Pulver, das für Gipsanwendungen geeignet ist"
 
 msgid "No weapon for execution"
 msgstr "No weapon for execution"
