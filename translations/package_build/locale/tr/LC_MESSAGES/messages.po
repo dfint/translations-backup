@@ -1,0 +1,135 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# 
+# Translators:
+# kadir can, 2025
+# Baseus828, 2025
+# Mikhail M (insolor), 2025
+# 
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"PO-Revision-Date: 2024-07-22 14:54+0000\n"
+"Last-Translator: Mikhail M (insolor), 2025\n"
+"Language-Team: Turkish (https://app.transifex.com/dwarf-fortress-translation/teams/22396/tr/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: tr\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+
+msgid "DF localization package builder"
+msgstr "DF yerelleştirme paketi oluşturucu"
+
+msgid ""
+"Build/download a package, unpack into the game's directory with file "
+"repalacement."
+msgstr ""
+"Bir paket oluşturun/indirin, dosyayı yeniden yerleştirerek oyunun dizinine "
+"açın."
+
+msgid ""
+"It's recommended to use [dfint-"
+"installer](https://github.com/dfint/installer) instead of using this app. "
+"Use the package builder only if the installer doesn't work for you or you "
+"have some other issues with it."
+msgstr ""
+"Bu uygulamayı kullanmak yerine [dfint-"
+"installer](https://github.com/dfint/installer) kullanmanız önerilir. Paket "
+"oluşturucuyu yalnızca yükleyici sizin için çalışmazsa veya onunla ilgili "
+"başka sorunlarınız varsa kullanın."
+
+msgid "DF version"
+msgstr "DF versiyonu"
+
+msgid "Operating system/platform"
+msgstr "İşletim sistemi/platform"
+
+msgid "DF variant"
+msgstr "DF varyantı"
+
+msgid "Language"
+msgstr "Dil"
+
+msgid "Removing stale packages..."
+msgstr "Eski paketler kaldırılıyor..."
+
+msgid "Cannot create package with these parameters"
+msgstr "Bu parametrelerle paket oluşturulamıyor"
+
+msgid "Generate package"
+msgstr "Paket oluştur"
+
+msgid "Downloading files..."
+msgstr "Dosya indiriliyor..."
+
+msgid "Downloading complete!"
+msgstr "İndirme işlemi tamamlandı!"
+
+msgid "Building package..."
+msgstr "Yapı paketi..."
+
+msgid "Package is ready!"
+msgstr "Paket hazır!"
+
+msgid "Download package"
+msgstr "Paketi indirin"
+
+msgid "Filter available files by DF variant, operating system, language"
+msgstr ""
+"Mevcut dosyaları DF varyantına, işletim sistemine, dile göre filtreleme"
+
+msgid "Downloading library..."
+msgstr "Kütüphane indiriliyor..."
+
+msgid "Downloading dfhooks library..."
+msgstr "Dfhooks kütüphanesi indiriliyor..."
+
+msgid "Downloading config..."
+msgstr "Yapılandırma dosyası indiriliyor..."
+
+msgid "Downloading offsets..."
+msgstr "Ofsetler indiriliyor..."
+
+msgid "Downloading csv dictionary..."
+msgstr "Csv sözlüğü indiriliyor..."
+
+msgid "Downloading font file..."
+msgstr "Font dosyası indiriliyor..."
+
+msgid "Downloading encoding config..."
+msgstr "Kodlama yapılandırması indiriliyor..."
+
+msgid "Package files available to download"
+msgstr "İndirilebilir paket dosyaları "
+
+msgid "No package files available."
+msgstr "Paket dosyası bulunamadı."
+
+msgid "Package name"
+msgstr "Paket adı "
+
+msgid "When created"
+msgstr "Ne zaman oluşturuldu "
+
+msgid "less than an hour ago"
+msgstr "Bir saatten daha kısa bir süre önce"
+
+#, python-format
+msgid "%(num)d hour ago"
+msgid_plural "%(num)d hours ago"
+msgstr[0] "%(num)d saat önce"
+msgstr[1] "%(num)d saat önce"
+
+msgid "Download"
+msgstr "İndir"
+
+msgid "Getting hook metadata..."
+msgstr "Bağlantı meta verileri alınıyor..."
+
+msgid "Getting dictionary metadata..."
+msgstr "Sözlük meta verileri alınıyor..."

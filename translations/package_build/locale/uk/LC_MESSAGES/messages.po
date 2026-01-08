@@ -1,0 +1,134 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# 
+# Translators:
+# Mikhail M (insolor), 2024
+# 
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"PO-Revision-Date: 2024-07-22 14:54+0000\n"
+"Last-Translator: Mikhail M (insolor), 2024\n"
+"Language-Team: Ukrainian (https://app.transifex.com/dwarf-fortress-translation/teams/22396/uk/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: uk\n"
+"Plural-Forms: nplurals=4; plural=(n % 1 == 0 && n % 10 == 1 && n % 100 != 11 ? 0 : n % 1 == 0 && n % 10 >= 2 && n % 10 <= 4 && (n % 100 < 12 || n % 100 > 14) ? 1 : n % 1 == 0 && (n % 10 ==0 || (n % 10 >=5 && n % 10 <=9) || (n % 100 >=11 && n % 100 <=14 )) ? 2: 3);\n"
+
+msgid "DF localization package builder"
+msgstr "Конструктор пакетів локалізації DF"
+
+msgid ""
+"Build/download a package, unpack into the game's directory with file "
+"repalacement."
+msgstr ""
+"Зберіть/завантажте пакет, розпакуйте в директорію гри із заміною файлів."
+
+msgid ""
+"It's recommended to use [dfint-"
+"installer](https://github.com/dfint/installer) instead of using this app. "
+"Use the package builder only if the installer doesn't work for you or you "
+"have some other issues with it."
+msgstr ""
+"Рекомендується використовувати [dfint-"
+"installer](https://github.com/dfint/installer) замість цього конструктора. "
+"Використовуйте конструктор пакетів, лише якщо інсталятор у вас не працює або"
+" з ним виникають якісь інші проблеми."
+
+msgid "DF version"
+msgstr "Версія DF"
+
+msgid "Operating system/platform"
+msgstr "Операційна система/платформа"
+
+msgid "DF variant"
+msgstr "DF варіант"
+
+msgid "Language"
+msgstr "Мова"
+
+msgid "Removing stale packages..."
+msgstr "Видалення застарілих пакетів..."
+
+msgid "Cannot create package with these parameters"
+msgstr "Неможливо створити пакет із цими параметрами"
+
+msgid "Generate package"
+msgstr "Зібрати пакет"
+
+msgid "Downloading files..."
+msgstr "Завантаження файлів..."
+
+msgid "Downloading complete!"
+msgstr "Завантаження завершено!"
+
+msgid "Building package..."
+msgstr "Збирання пакету..."
+
+msgid "Package is ready!"
+msgstr "Пакет готовий!"
+
+msgid "Download package"
+msgstr "Завантажити пакет"
+
+msgid "Filter available files by DF variant, operating system, language"
+msgstr ""
+"Фільтрувати доступні файли за варіантом DF, операційною системою, мовою"
+
+msgid "Downloading library..."
+msgstr "Завантаження бібліотеки..."
+
+msgid "Downloading dfhooks library..."
+msgstr "Завантаження бібліотеки dfhooks.."
+
+msgid "Downloading config..."
+msgstr "Завантаження конфігу..."
+
+msgid "Downloading offsets..."
+msgstr "Завантаження офсетів..."
+
+msgid "Downloading csv dictionary..."
+msgstr "Завантаження csv словника..."
+
+msgid "Downloading font file..."
+msgstr "Завантаження файлу шрифту..."
+
+msgid "Downloading encoding config..."
+msgstr "Завантаження конфігу кодування..."
+
+msgid "Package files available to download"
+msgstr "Файли пакетів доступні для завантаження"
+
+msgid "No package files available."
+msgstr "Немає доступних пакетів."
+
+msgid "Package name"
+msgstr "Назва пакету"
+
+msgid "When created"
+msgstr "Створений"
+
+msgid "less than an hour ago"
+msgstr "менше години тому"
+
+#, python-format
+msgid "%(num)d hour ago"
+msgid_plural "%(num)d hours ago"
+msgstr[0] "%(num)d годину тому"
+msgstr[1] "%(num)d години тому"
+msgstr[2] "%(num)d годин тому"
+msgstr[3] "%(num)d годин тому"
+
+msgid "Download"
+msgstr "Завантажити"
+
+msgid "Getting hook metadata..."
+msgstr "Отримання метаданих хуку..."
+
+msgid "Getting dictionary metadata..."
+msgstr "Отримання метаданих словника..."

@@ -1,0 +1,134 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# 
+# Translators:
+# Taro, 2024
+# insolor, 2025
+# 
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"PO-Revision-Date: 2024-07-22 14:54+0000\n"
+"Last-Translator: insolor, 2025\n"
+"Language-Team: German (https://app.transifex.com/dwarf-fortress-translation/teams/22396/de/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: de\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "DF localization package builder"
+msgstr "DF-Lokalisierungspaket-Builder"
+
+msgid ""
+"Build/download a package, unpack into the game's directory with file "
+"repalacement."
+msgstr ""
+"Erstellen/laden Sie ein Paket herunter und entpacken Sie es mit "
+"Dateiersetzung in das Verzeichnis des Spiels."
+
+msgid ""
+"It's recommended to use [dfint-"
+"installer](https://github.com/dfint/installer) instead of using this app. "
+"Use the package builder only if the installer doesn't work for you or you "
+"have some other issues with it."
+msgstr ""
+"Es wird empfohlen, [dfint-installer](https://github.com/dfint/installer) "
+"anstelle dieser App zu verwenden. Verwenden Sie den Paket-Builder nur, wenn "
+"das Installationsprogramm bei Ihnen nicht funktioniert oder Sie andere "
+"Probleme damit haben."
+
+msgid "DF version"
+msgstr "DF Version"
+
+msgid "Operating system/platform"
+msgstr "Betriebssystem/Plattform"
+
+msgid "DF variant"
+msgstr "DF Variante"
+
+msgid "Language"
+msgstr "Sprache"
+
+msgid "Removing stale packages..."
+msgstr "Veraltete Pakete werden entfernt..."
+
+msgid "Cannot create package with these parameters"
+msgstr "Paket mit diesen Parametern kann nicht erstellt werden"
+
+msgid "Generate package"
+msgstr "Paket generieren"
+
+msgid "Downloading files..."
+msgstr "Dateien werden heruntergeladen..."
+
+msgid "Downloading complete!"
+msgstr "Download abgeschlossen!"
+
+msgid "Building package..."
+msgstr "Ein Paket erstellen..."
+
+msgid "Package is ready!"
+msgstr "Paket ist fertig!"
+
+msgid "Download package"
+msgstr "Paket herunterladen"
+
+msgid "Filter available files by DF variant, operating system, language"
+msgstr ""
+"Filtern Sie verfügbare Dateien nach DF Variante, Betriebssystem, Sprache"
+
+msgid "Downloading library..."
+msgstr "Bibliothek wird heruntergeladen..."
+
+msgid "Downloading dfhooks library..."
+msgstr "Die dfhooks-Bibliothek wird heruntergeladen …"
+
+msgid "Downloading config..."
+msgstr "Konfiguration wird heruntergeladen..."
+
+msgid "Downloading offsets..."
+msgstr "Offsets werden heruntergeladen..."
+
+msgid "Downloading csv dictionary..."
+msgstr "CSV-Wörterbuch wird heruntergeladen …"
+
+msgid "Downloading font file..."
+msgstr "Schriftartdatei wird heruntergeladen..."
+
+msgid "Downloading encoding config..."
+msgstr "Kodierungskonfiguration wird heruntergeladen …"
+
+msgid "Package files available to download"
+msgstr "Zum Download verfügbare Paketdateien"
+
+msgid "No package files available."
+msgstr "Keine Paketdateien verfügbar."
+
+msgid "Package name"
+msgstr "Paketname"
+
+msgid "When created"
+msgstr "Bei der Erstellung"
+
+msgid "less than an hour ago"
+msgstr "vor weniger als einer Stunde"
+
+#, python-format
+msgid "%(num)d hour ago"
+msgid_plural "%(num)d hours ago"
+msgstr[0] "vor %(num)d Stunde"
+msgstr[1] "vor %(num)d Stunden"
+
+msgid "Download"
+msgstr "Herunterladen"
+
+msgid "Getting hook metadata..."
+msgstr "Hook-Metadaten abrufen ..."
+
+msgid "Getting dictionary metadata..."
+msgstr "Wörterbuchmetadaten werden abgerufen ..."

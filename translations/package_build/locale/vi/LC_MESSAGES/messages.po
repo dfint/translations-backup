@@ -1,0 +1,132 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# 
+# Translators:
+# Revolt Duong, 2026
+# Mikhail M (insolor), 2026
+# 
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"PO-Revision-Date: 2024-07-22 14:54+0000\n"
+"Last-Translator: Mikhail M (insolor), 2026\n"
+"Language-Team: Vietnamese (https://app.transifex.com/dwarf-fortress-translation/teams/22396/vi/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: vi\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+msgid "DF localization package builder"
+msgstr "Công cụ tạo bản địa hóa DF"
+
+msgid ""
+"Build/download a package, unpack into the game's directory with file "
+"repalacement."
+msgstr ""
+"Tạo/tải xuống gói cài đặt, giải nén vào thư mục trò chơi và thay thế các tập"
+" tin."
+
+msgid ""
+"It's recommended to use [dfint-"
+"installer](https://github.com/dfint/installer) instead of using this app. "
+"Use the package builder only if the installer doesn't work for you or you "
+"have some other issues with it."
+msgstr ""
+"Nên sử dụng [dfint-installer](https://github.com/dfint/installer) Nếu bạn "
+"không sử dụng được ứng dụng này, hãy sử dụng gói cài đặt trực tiếp. Chỉ sử "
+"dụng gói cài đặt trực tiếp nếu ứng dụng cài đặt không hoạt động hoặc bạn gặp"
+" các sự cố khác với nó."
+
+msgid "DF version"
+msgstr "Phiên bản DF"
+
+msgid "Operating system/platform"
+msgstr "Hệ điều hành/nền tảng"
+
+msgid "DF variant"
+msgstr "Các phiên bản DF"
+
+msgid "Language"
+msgstr "Ngôn ngữ"
+
+msgid "Removing stale packages..."
+msgstr "Gỡ bỏ các gói cài đặt cũ..."
+
+msgid "Cannot create package with these parameters"
+msgstr "Không thể tạo gói cài đặt với các tham số này."
+
+msgid "Generate package"
+msgstr "Tạo gói cài đặt"
+
+msgid "Downloading files..."
+msgstr "Đang tải tập tin xuống..."
+
+msgid "Downloading complete!"
+msgstr "Tải xuống hoàn tất!"
+
+msgid "Building package..."
+msgstr "Đang tạo gói cài đặt..."
+
+msgid "Package is ready!"
+msgstr "Gói cài đặt sẵn sàng!"
+
+msgid "Download package"
+msgstr "Tải gói cài đặt"
+
+msgid "Filter available files by DF variant, operating system, language"
+msgstr "Lọc các tệp có sẵn theo các phiên bản DF, hệ điều hành, ngôn ngữ."
+
+msgid "Downloading library..."
+msgstr "Đang tải xuống thư viện..."
+
+msgid "Downloading dfhooks library..."
+msgstr "Đang tải xuống thư viện dfhooks..."
+
+msgid "Downloading config..."
+msgstr "Đang tải xuống các thông tin cấu hình..."
+
+msgid "Downloading offsets..."
+msgstr "Đang tải xuống thông tin offset..."
+
+msgid "Downloading csv dictionary..."
+msgstr "Đang tải xuống thông tin csv..."
+
+msgid "Downloading font file..."
+msgstr "Đang tải xuống tệp phông chữ..."
+
+msgid "Downloading encoding config..."
+msgstr "Đang tải cấu hình mã hóa..."
+
+msgid "Package files available to download"
+msgstr "Gói cài đặt đã sẵn sàng để tải xuống."
+
+msgid "No package files available."
+msgstr "Không có gói cài đặt nào khả dụng."
+
+msgid "Package name"
+msgstr "Tên gói cài đặt"
+
+msgid "When created"
+msgstr "Khi được tạo"
+
+msgid "less than an hour ago"
+msgstr "chưa đầy một giờ trước"
+
+#, python-format
+msgid "%(num)d hour ago"
+msgid_plural "%(num)d hours ago"
+msgstr[0] "%(num)d giờ trước"
+
+msgid "Download"
+msgstr "Tải xuống"
+
+msgid "Getting hook metadata..."
+msgstr "Đang lấy hook metadata..."
+
+msgid "Getting dictionary metadata..."
+msgstr "Đang lấy thư viện metadata..."
