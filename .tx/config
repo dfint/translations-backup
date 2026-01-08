@@ -1,6 +1,36 @@
 [main]
 host = https://www.transifex.com
 
+[o:dwarf-fortress-translation:p:dwarf-fortress:r:hardcoded]
+file_filter = translations/dwarf-fortress/hardcoded/<lang>.po
+source_file = translations/dwarf-fortress/hardcoded/en.po
+source_lang = en
+type        = PO
+
+[o:dwarf-fortress-translation:p:dwarf-fortress:r:raw-objects]
+file_filter = translations/dwarf-fortress/raw-objects/<lang>.po
+source_file = translations/dwarf-fortress/raw-objects/en.po
+source_lang = en
+type        = PO
+
+[o:dwarf-fortress-translation:p:dwarf-fortress:r:speech]
+file_filter = translations/dwarf-fortress/speech/<lang>.po
+source_file = translations/dwarf-fortress/speech/en.po
+source_lang = en
+type        = PO
+
+[o:dwarf-fortress-translation:p:dwarf-fortress:r:text]
+file_filter = translations/dwarf-fortress/text/<lang>.po
+source_file = translations/dwarf-fortress/text/en.po
+source_lang = en
+type        = PO
+
+[o:dwarf-fortress-translation:p:dwarf-fortress:r:uncompressed]
+file_filter = translations/dwarf-fortress/uncompressed/<lang>.po
+source_file = translations/dwarf-fortress/uncompressed/en.po
+source_lang = en
+type        = PO
+
 [o:dwarf-fortress-translation:p:dwarf-fortress-steam:r:hardcoded_steam]
 file_filter = translations/dwarf-fortress-steam/hardcoded_steam/<lang>.po
 source_file = translations/dwarf-fortress-steam/hardcoded_steam/en.po
