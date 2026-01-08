@@ -1,6 +1,30 @@
 [main]
 host = https://www.transifex.com
 
+[o:dwarf-fortress-translation:p:dwarf-fortress-steam:r:hardcoded_steam]
+file_filter = translations/dwarf-fortress-steam/hardcoded_steam/<lang>.po
+source_file = translations/dwarf-fortress-steam/hardcoded_steam/en.po
+source_lang = en
+type        = PO
+
+[o:dwarf-fortress-translation:p:dwarf-fortress-steam:r:objects]
+file_filter = translations/dwarf-fortress-steam/objects/<lang>.po
+source_file = translations/dwarf-fortress-steam/objects/en.po
+source_lang = en
+type        = PO
+
+[o:dwarf-fortress-translation:p:dwarf-fortress-steam:r:text_set]
+file_filter = translations/dwarf-fortress-steam/text_set/<lang>.po
+source_file = translations/dwarf-fortress-steam/text_set/en.po
+source_lang = en
+type        = PO
+
+[o:dwarf-fortress-translation:p:dwarf-fortress-steam:r:lua]
+file_filter = translations/dwarf-fortress-steam/lua/<lang>.po
+source_file = translations/dwarf-fortress-steam/lua/en.po
+source_lang = en
+type        = PO
+
 [o:dwarf-fortress-translation:p:dwarf-fortress:r:hardcoded]
 file_filter = translations/dwarf-fortress/hardcoded/<lang>.po
 source_file = translations/dwarf-fortress/hardcoded/en.po
@@ -28,29 +52,5 @@ type        = PO
 [o:dwarf-fortress-translation:p:dwarf-fortress:r:uncompressed]
 file_filter = translations/dwarf-fortress/uncompressed/<lang>.po
 source_file = translations/dwarf-fortress/uncompressed/en.po
-source_lang = en
-type        = PO
-
-[o:dwarf-fortress-translation:p:dwarf-fortress-steam:r:hardcoded_steam]
-file_filter = translations/dwarf-fortress-steam/hardcoded_steam/<lang>.po
-source_file = translations/dwarf-fortress-steam/hardcoded_steam/en.po
-source_lang = en
-type        = PO
-
-[o:dwarf-fortress-translation:p:dwarf-fortress-steam:r:objects]
-file_filter = translations/dwarf-fortress-steam/objects/<lang>.po
-source_file = translations/dwarf-fortress-steam/objects/en.po
-source_lang = en
-type        = PO
-
-[o:dwarf-fortress-translation:p:dwarf-fortress-steam:r:text_set]
-file_filter = translations/dwarf-fortress-steam/text_set/<lang>.po
-source_file = translations/dwarf-fortress-steam/text_set/en.po
-source_lang = en
-type        = PO
-
-[o:dwarf-fortress-translation:p:dwarf-fortress-steam:r:lua]
-file_filter = translations/dwarf-fortress-steam/lua/<lang>.po
-source_file = translations/dwarf-fortress-steam/lua/en.po
 source_lang = en
 type        = PO
