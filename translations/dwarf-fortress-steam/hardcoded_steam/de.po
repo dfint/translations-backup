@@ -31,12 +31,12 @@
 # Transifex Bot <>, 2025
 # Sven Kadereit, 2025
 # Pierre-André Barczyk, 2025
-# M D, 2026
 # Hans Meier, 2026
+# M D, 2026
 # 
 msgid ""
 msgstr ""
-"Last-Translator: Hans Meier, 2026\n"
+"Last-Translator: M D, 2026\n"
 "Language-Team: German (https://app.transifex.com/dwarf-fortress-translation/teams/22396/de/)\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -11890,6 +11890,8 @@ msgid ""
 "Moving quickly costs energy.  You'll begin to move slowly or even collapse "
 "if you sprint for too long.  "
 msgstr ""
+"Schnelles Bewegen kostet Energie. Wenn Sie zu lange sprinten, werden Sie "
+"langsamer oder brechen sogar zusammen. "
 
 msgid ""
 "If a gait has two numbers, the first number is the starting speed for the "
@@ -13032,7 +13034,7 @@ msgid "Keyboard cursor enabled"
 msgstr "Tastatur-Cursor aktiviert"
 
 msgid "Log world generation map rejects"
-msgstr "Log world generation map rejects"
+msgstr "Log Weltgenerierungs-Karte ablehnen"
 
 msgid "Enable multithreading"
 msgstr ""
@@ -13362,7 +13364,7 @@ msgid "Invader death aversion (six deaths)"
 msgstr ""
 
 msgid "Invader death aversion (seven deaths)"
-msgstr ""
+msgstr "Angst vor dem Tod durch Eindringlinge (sieben Todesfälle)"
 
 msgid "Invader death aversion (eight deaths)"
 msgstr ""
@@ -20085,6 +20087,8 @@ msgstr ""
 msgid ""
 "Do not move from current tile when dodging even if it means being struck."
 msgstr ""
+"Bewegen Sie sich beim Ausweichen nicht von der aktuellen Kachel weg, auch "
+"wenn dies bedeutet, dass Sie getroffen werden."
 
 msgid "Dodge away from charging opponents to avoid being knocked over."
 msgstr ""
@@ -48313,7 +48317,7 @@ msgid " for ignoring your hubris.  "
 msgstr ""
 
 msgid "Freedom is allowed even in this."
-msgstr ""
+msgstr "Auch hier ist Freiheit erlaubt."
 
 msgid " without bound"
 msgstr ""
@@ -65790,7 +65794,8 @@ msgstr ""
 msgid ""
 "The world generator is having trouble placing enough mid-level elevations.  "
 msgstr ""
-"The world generator is having trouble placing enough mid-level elevations.  "
+"Der Weltgenerator hat Probleme damit, genügend mittelhohe Erhebungen zu "
+"platzieren. "
 
 msgid "Can your parameters achieve elevations between 100 and 299?  "
 msgstr "Can your parameters achieve elevations between 100 and 299?  "
@@ -65809,7 +65814,8 @@ msgstr ""
 
 msgid "The world generator is having trouble placing enough low elevations.  "
 msgstr ""
-"The world generator is having trouble placing enough low elevations.  "
+"Der Weltgenerator hat Probleme damit, genügend niedrige Höhen zu platzieren."
+" "
 
 msgid "Can your parameters achieve elevations between 0 and 99?  "
 msgstr "Can your parameters achieve elevations between 0 and 99?  "
@@ -65817,7 +65823,8 @@ msgstr "Can your parameters achieve elevations between 0 and 99?  "
 msgid ""
 "The world generator is having trouble placing enough high elevations.  "
 msgstr ""
-"The world generator is having trouble placing enough high elevations.  "
+"Der Weltgenerator hat Probleme damit, genügend hohe Erhebungen zu "
+"platzieren. "
 
 msgid "Can your parameters achieve elevations between 300 and 400?  "
 msgstr "Can your parameters achieve elevations between 300 and 400?  "
@@ -65826,8 +65833,8 @@ msgid ""
 "The world generator is having trouble placing enough ocean squares along the"
 " edges.  "
 msgstr ""
-"The world generator is having trouble placing enough ocean squares along the"
-" edges.  "
+"Der Weltgenerator hat Probleme damit, genügend Ozeanquadrate an den Rändern "
+"zu platzieren.  "
 
 msgid "Can your parameters achieve elevations between 0 and 99 frequently?  "
 msgstr "Can your parameters achieve elevations between 0 and 99 frequently?  "
@@ -65842,8 +65849,8 @@ msgid ""
 "The world generator is having trouble placing rainfall in the manner "
 "specified by the parameters.  "
 msgstr ""
-"The world generator is having trouble placing rainfall in the manner "
-"specified by the parameters.  "
+"Der Weltgenerator hat Probleme damit, Niederschläge gemäß den festgelegten "
+"Parametern zu platzieren.  "
 
 msgid "You might want to adjust the parameters governing rainfall.  "
 msgstr "You might want to adjust the parameters governing rainfall.  "
@@ -65876,8 +65883,8 @@ msgid ""
 "The world generator is having trouble placing savagery in the manner "
 "specified by the parameters.  "
 msgstr ""
-"The world generator is having trouble placing savagery in the manner "
-"specified by the parameters.  "
+"Der Weltgenerator hat Probleme damit, die Wildheit gemäß den festgelegten "
+"Parametern zu platzieren. "
 
 msgid "You might want to adjust the parameters governing savagery.  "
 msgstr "You might want to adjust the parameters governing savagery.  "
@@ -65893,8 +65900,8 @@ msgid ""
 "The world generator is having trouble setting volcanism in the manner "
 "specified by the parameters.  "
 msgstr ""
-"The world generator is having trouble setting volcanism in the manner "
-"specified by the parameters.  "
+"Der Weltgenerator hat Probleme damit, den Vulkanismus gemäß den festgelegten"
+" Parametern einzustellen."
 
 msgid "You might want to adjust the parameters governing volcanism.  "
 msgstr "You might want to adjust the parameters governing volcanism.  "
@@ -65907,7 +65914,8 @@ msgstr ""
 "squares required."
 
 msgid "The world generator is having trouble placing enough volcanos.  "
-msgstr "The world generator is having trouble placing enough volcanos.  "
+msgstr ""
+"Der Weltgenerator hat Probleme damit, genügend Vulkane zu platzieren. "
 
 msgid ""
 "You must have at least as many of these highest volcanism points as you are "
@@ -65937,7 +65945,8 @@ msgstr ""
 "parameters."
 
 msgid "The world generator is having trouble placing swamps and marshes.  "
-msgstr "The world generator is having trouble placing swamps and marshes.  "
+msgstr ""
+"Der Weltgenerator hat Probleme beim Platzieren von Sümpfen und Mooren. "
 
 msgid ""
 "Make sure your parameters and presets can support mid-elevation, mid-to-high"
@@ -65954,7 +65963,8 @@ msgstr ""
 "required by the parameters."
 
 msgid "The world generator is having trouble placing deserts and badlands.  "
-msgstr "The world generator is having trouble placing deserts and badlands.  "
+msgstr ""
+"Der Weltgenerator hat Probleme beim Platzieren von Wüsten und Ödlanden. "
 
 msgid ""
 "Make sure your parameters and presets can support mid-elevation, very low "
@@ -65971,7 +65981,7 @@ msgstr ""
 "required by the parameters."
 
 msgid "The world generator is having trouble placing forests.  "
-msgstr "The world generator is having trouble placing forests.  "
+msgstr "Der Weltgenerator hat Probleme beim Platzieren von Wäldern. "
 
 msgid ""
 "Make sure your parameters and presets can support mid-elevation, high "
@@ -65981,7 +65991,7 @@ msgstr ""
 "rainfall, high drainage, non-freezing areas.  "
 
 msgid "The world generator is having trouble placing mountains.  "
-msgstr "The world generator is having trouble placing mountains.  "
+msgstr "Der Weltgenerator hat Probleme beim Platzieren von Bergen. "
 
 msgid ""
 "Make sure your parameters and presets can support high elevation areas.  "
@@ -65996,7 +66006,7 @@ msgstr ""
 "required by the parameters."
 
 msgid "The world generator is having trouble placing oceans.  "
-msgstr "The world generator is having trouble placing oceans.  "
+msgstr "Der Weltgenerator hat Probleme beim Platzieren der Ozeane. "
 
 msgid ""
 "Make sure your parameters and presets can support low elevation areas.  "
@@ -66011,7 +66021,7 @@ msgstr ""
 "required by the parameters."
 
 msgid "The world generator is having trouble placing glaciers.  "
-msgstr "The world generator is having trouble placing glaciers.  "
+msgstr "Der Weltgenerator hat Probleme beim Platzieren von Gletschern. "
 
 msgid ""
 "Make sure your parameters and presets can support mid-elevation, very high "
@@ -66028,7 +66038,7 @@ msgstr ""
 "required by the parameters."
 
 msgid "The world generator is having trouble placing tundra regions.  "
-msgstr "The world generator is having trouble placing tundra regions.  "
+msgstr "Der Weltgenerator hat Probleme beim Platzieren von Tundra-Regionen. "
 
 msgid ""
 "Make sure your parameters and presets can support mid-elevation, low-to-mid "
@@ -66045,7 +66055,8 @@ msgstr ""
 "required by the parameters."
 
 msgid "The world generator is having trouble placing grasslands.  "
-msgstr "The world generator is having trouble placing grasslands.  "
+msgstr ""
+"Der Weltgenerator hat Probleme beim Platzieren von Graslandschaften.  "
 
 msgid ""
 "Make sure your parameters and presets can support mid-elevation, low-to-mid "
@@ -66055,7 +66066,7 @@ msgstr ""
 "rainfall, low-to-mid drainage, non-freezing areas.  "
 
 msgid "The world generator is having trouble placing hills.  "
-msgstr "The world generator is having trouble placing hills.  "
+msgstr "Der Weltgenerator hat Probleme beim Platzieren von Hügeln.  "
 
 msgid ""
 "Make sure your parameters and presets can support mid-elevation, low-to-mid "
@@ -66065,7 +66076,7 @@ msgstr ""
 "rainfall, high drainage, non-freezing areas.  "
 
 msgid "The world generator is having trouble placing rivers.  "
-msgstr "The world generator is having trouble placing rivers.  "
+msgstr "Der Weltgenerator hat Probleme beim Platzieren von Flüssen.  "
 
 msgid ""
 "Make sure your parameters and presets allow as many mountain squares as you "
@@ -66082,7 +66093,7 @@ msgstr ""
 "parameters."
 
 msgid "The world generator is placing too many subregions.  "
-msgstr "The world generator is placing too many subregions.  "
+msgstr "Der Weltgenerator platziert zu viele Unterregionen. "
 
 msgid ""
 "Make sure your parameters and presets aren't so variable that biomes change "
@@ -66099,7 +66110,7 @@ msgstr ""
 "parameters, up to the cap."
 
 msgid "The world generator is having trouble placing mountain caves.  "
-msgstr "The world generator is having trouble placing mountain caves.  "
+msgstr "Der Weltgenerator hat Probleme beim Platzieren von Berghöhlen.  "
 
 msgid ""
 "Make sure your parameters and presets allow as many border mountain squares "
@@ -66116,7 +66127,8 @@ msgstr ""
 "parameters."
 
 msgid "The world generator is having trouble placing low-lying caves.  "
-msgstr "The world generator is having trouble placing low-lying caves.  "
+msgstr ""
+"Der Weltgenerator hat Probleme beim Platzieren von tief liegenden Höhlen.  "
 
 msgid ""
 "Make sure your parameters and presets allow as many mid-elevation squares as"
@@ -66133,7 +66145,9 @@ msgstr ""
 "the parameters."
 
 msgid "The world generator is having trouble placing enough civilizations.  "
-msgstr "The world generator is having trouble placing enough civilizations.  "
+msgstr ""
+"Der Weltgenerator hat Probleme damit, genügend Zivilisationen zu platzieren."
+"  "
 
 msgid ""
 "Make sure your parameters and presets offer enough low-to-mid savagery, "
@@ -66166,7 +66180,7 @@ msgstr ""
 "parameters."
 
 msgid "The world generator couldn't find any civilization definitions.  "
-msgstr "The world generator couldn't find any civilization definitions.  "
+msgstr "Der Weltgenerator konnte keine Zivilisationsdefinitionen finden  "
 
 msgid ""
 "This problem cannot be resolved by continuing, so you should either abort or"
@@ -66179,7 +66193,8 @@ msgstr ""
 msgid ""
 "The world generator is having trouble placing a controllable civilization.  "
 msgstr ""
-"The world generator is having trouble placing a controllable civilization.  "
+"Der Weltgenerator hat Probleme damit, eine kontrollierbare Zivilisation zu "
+"platzieren. "
 
 msgid ""
 "Dwarves, for example, require non-evil, non-good, unsavage mountain squares "
@@ -66205,7 +66220,8 @@ msgstr ""
 
 msgid "The world generator is having trouble placing farming civilizations.  "
 msgstr ""
-"The world generator is having trouble placing farming civilizations.  "
+"Der Weltgenerator hat Probleme beim Platzieren von landwirtschaftlichen "
+"Zivilisationen.  "
 
 msgid ""
 "Civilizations use available plants in their surroundings as their initial "
@@ -66342,7 +66358,7 @@ msgid " events total):"
 msgstr " Ereignisse insgesamt):"
 
 msgid "   Events: "
-msgstr "   Events: "
+msgstr "   Ereignisse: "
 
 msgid "LACK OF PEAKS"
 msgstr "LACK OF PEAKS"
@@ -66435,7 +66451,9 @@ msgid "ALLOW THIS REJECTION TYPE and continue reporting others."
 msgstr "ALLOW THIS REJECTION TYPE and continue reporting others."
 
 msgid "ALLOW ALL REJECTS, even if I end up with a legends-only world!"
-msgstr "ALLOW ALL REJECTS, even if I end up with a legends-only world!"
+msgstr ""
+"ALLE ABLEHNUNGEN ZULASSEN, auch wenn ich am Ende eine Welt nur mit Legenden "
+"habe!"
 
 msgid "Play now"
 msgstr "Spielen"
@@ -66741,8 +66759,8 @@ msgid ""
 "finds the acquisition and use of power abhorrent and would have all masters "
 "toppled"
 msgstr ""
-"finds the acquisition and use of power abhorrent and would have all masters "
-"toppled"
+"findet den Erwerb und die Ausübung von Macht abscheulich und würde alle "
+"Herrscher stürzen wollen"
 
 msgid "believes the truth is inviolable regardless of the cost"
 msgstr "believes the truth is inviolable regardless of the cost"
@@ -69572,7 +69590,7 @@ msgid "choking on smoke underground"
 msgstr "choking on smoke underground"
 
 msgid "being near to a waterfall"
-msgstr "being near to a waterfall"
+msgstr "in der Nähe eines Wasserfalls sein"
 
 msgid "choking on dust underground"
 msgstr "choking on dust underground"
@@ -69602,10 +69620,10 @@ msgid "the acceptance of a petition for a temple for "
 msgstr "the acceptance of a petition for a temple for "
 
 msgid "the establishment of a guildhall for "
-msgstr "the establishment of a guildhall for "
+msgstr "die Einrichtung einer Gildenhalle für "
 
 msgid "the acceptance of a petition for a guildhall for "
-msgstr "the acceptance of a petition for a guildhall for "
+msgstr "die Annahme eines Antrags für ein Gildenhalle für "
 
 msgid "being granted residency"
 msgstr "being granted residency"
@@ -69638,13 +69656,13 @@ msgid " being abandoned"
 msgstr "im Stich gelassen werdend"
 
 msgid "the rejection of a petition for a guildhall for "
-msgstr "the rejection of a petition for a guildhall for "
+msgstr "die Ablehnung eines Antrags auf ein Gildenhalle für "
 
 msgid "a petition for a guildhall for "
-msgstr "a petition for a guildhall for "
+msgstr "ein Antrag für ein Gildenhalle für "
 
 msgid "an agreement to construct a guildhall for "
-msgstr "an agreement to construct a guildhall for "
+msgstr "eine Vereinbarung zum Bau eines Gildenhalle für "
 
 msgid "being denied citizenship"
 msgstr "die Verweigerung der Bürgerschaft"
@@ -70330,7 +70348,9 @@ msgid "an animal was convicted of a crime"
 msgstr "ein Tier wurde wegen eines Verbrechens verurteilt"
 
 msgid "the bizarre conviction against all reason of the victim of a crime"
-msgstr "the bizarre conviction against all reason of the victim of a crime"
+msgstr ""
+"die bizarre Verurteilung des Opfers eines Verbrechens entgegen aller "
+"Vernunft"
 
 msgid "receiving justice through a criminal's conviction"
 msgstr "Gerechtigkeit durch die Verurteilung eines Straftäters"
@@ -70546,7 +70566,7 @@ msgid " has been ignored."
 msgstr "wurde ignoriert."
 
 msgid "The guildhall petition by "
-msgstr "Die Rathaus-Petition von "
+msgstr "Die Gildenhallen-Petition von "
 
 msgid "The citizenship petition of "
 msgstr "Der Antrag auf Einbürgerung von"
@@ -70555,7 +70575,7 @@ msgid "The residency petition of "
 msgstr "The residency petition of "
 
 msgid "The guildhall agreement with "
-msgstr "The guildhall agreement with "
+msgstr "Die Gildenhalle Vereinbarung mit "
 
 msgid " has been satisfied."
 msgstr "zufriedengestellt wurde."
@@ -70593,7 +70613,7 @@ msgstr ""
 "dafür, dass jede Andeutung von Hybris kindischer Unsinn war."
 
 msgid "What are a few pesky demons after all?"
-msgstr "What are a few pesky demons after all?"
+msgstr "Was sind schon ein paar lästige Dämonen?"
 
 msgid "The gods surely want you to dig deeper still!"
 msgstr "Die Götter wollen sicher, dass du noch tiefer gräbst!"
@@ -70936,7 +70956,7 @@ msgid " have embarked on their journey."
 msgstr "sind zur Reise aufgebrochen."
 
 msgid " partially overcome the paralysis."
-msgstr " partially overcome the paralysis."
+msgstr " die Lähmung teilweise überwunden."
 
 msgid " batters "
 msgstr " Schläger "
@@ -71240,7 +71260,7 @@ msgid "onomatopoeia"
 msgstr "onomatopoeia"
 
 msgid "alliteration"
-msgstr "alliteration"
+msgstr "Alliteration"
 
 msgid "internal rhyme"
 msgstr "Binnenreim"
@@ -71264,7 +71284,7 @@ msgid "symbolism"
 msgstr "Symbolik"
 
 msgid "allegory"
-msgstr "allegory"
+msgstr "Allegorie"
 
 msgid "simile"
 msgstr "simile"
@@ -73347,7 +73367,7 @@ msgid "the nature of mind and body"
 msgstr "die Natur von Geist und Körper"
 
 msgid "the nature of events"
-msgstr "the nature of events"
+msgstr "die Art der Ereignisse"
 
 msgid "the relationship between wholes and parts"
 msgstr "the relationship between wholes and parts"
@@ -73624,7 +73644,7 @@ msgid "experiments with symbolic notation for addition"
 msgstr "Experimente mit symbolischer Notation für die Addition"
 
 msgid "the causes of historical events"
-msgstr "the causes of historical events"
+msgstr "die Ursachen historischer Ereignisse"
 
 msgid "using personal interviews as sources"
 msgstr "using personal interviews as sources"
@@ -73705,8 +73725,8 @@ msgid ""
 "the exploration of how history would be different if some key past events "
 "had transpired differently"
 msgstr ""
-"the exploration of how history would be different if some key past events "
-"had transpired differently"
+"die Untersuchung, wie die Geschichte anders verlaufen wäre, wenn einige "
+"wichtige Ereignisse der Vergangenheit anders verlaufen wären"
 
 msgid ""
 "the role of cultural differences in source reliability and interpretation"
@@ -74663,7 +74683,7 @@ msgid "Happenings"
 msgstr "Geschehnisse"
 
 msgid "the Event"
-msgstr "the Event"
+msgstr "das Ereignis"
 
 msgid "Parts"
 msgstr "Parts"
@@ -76658,7 +76678,7 @@ msgid "the Joy"
 msgstr "the Joy"
 
 msgid "the Universe"
-msgstr "the Universe"
+msgstr "das Universum"
 
 msgid "the Region"
 msgstr "the Region"
@@ -76883,7 +76903,7 @@ msgid "philosophy:metaphysics:mind body"
 msgstr "philosophie:metaphysik:geist körper"
 
 msgid "philosophy:metaphysics:events"
-msgstr "philosophy:metaphysics:events"
+msgstr "Philosophie:Metaphysik:Ereignisse"
 
 msgid "philosophy:metaphysics:wholes and parts"
 msgstr "philosophy:metaphysics:wholes and parts"
@@ -77777,7 +77797,7 @@ msgid "mind and body"
 msgstr "Körper und Geist"
 
 msgid "events"
-msgstr "events"
+msgstr "Ereignisse"
 
 msgid "wholes and parts"
 msgstr "wholes and parts"
@@ -78548,16 +78568,16 @@ msgid "Not enough complete edge oceans"
 msgstr "Not enough complete edge oceans"
 
 msgid "Rainfall not evenly distributed: "
-msgstr "Rainfall not evenly distributed: "
+msgstr "Regenfälle ungleichmäßig verteilt: "
 
 msgid "Flat/rough areas not evenly distributed: "
-msgstr "Flat/rough areas not evenly distributed: "
+msgstr "Flache/raue Bereiche nicht gleichmäßig verteilt: "
 
 msgid "Savagery not evenly distributed"
-msgstr "Savagery not evenly distributed"
+msgstr "Grausamkeit ist ungleich verteilt"
 
 msgid "Volcanism not evenly distributed"
-msgstr "Volcanism not evenly distributed"
+msgstr "Vulkanismus ist nicht gleichmäßig verteilt"
 
 msgid "Initial swamp square count fails by "
 msgstr "Initial swamp square count fails by "
@@ -79007,7 +79027,7 @@ msgstr ""
 "Erforschen und untersuchen Sie die Geschichte der Welt, wie sie heute ist."
 
 msgid "Events in other modes are incorporated here."
-msgstr ""
+msgstr "Hier sind Ereignisse in anderen Modi enthalten."
 
 msgid "Directly control a single individual or party."
 msgstr ""
@@ -79413,7 +79433,7 @@ msgid "six thousand"
 msgstr ""
 
 msgid "seven thousand"
-msgstr ""
+msgstr "siebentausend"
 
 msgid "eight thousand"
 msgstr ""
@@ -79437,7 +79457,7 @@ msgid "sixty thousand"
 msgstr ""
 
 msgid "seventy thousand"
-msgstr ""
+msgstr "siebzigtausend"
 
 msgid "eighty thousand"
 msgstr ""
@@ -80031,8 +80051,8 @@ msgid ""
 "will frequently ramble on with stories that don't have any point or even "
 "conclusion"
 msgstr ""
-"will frequently ramble on with stories that don't have any point or even "
-"conclusion"
+"wird häufig mit Geschichten herumschwadronieren, die keinen Sinn ergeben und"
+" nicht einmal einen Schluss haben."
 
 msgid "quite often tells pointless stories when "
 msgstr "erzählt oft sinnlose Geschichten, wenn"
