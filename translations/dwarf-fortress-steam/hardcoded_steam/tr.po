@@ -2196,7 +2196,7 @@ msgid "It was last rumored to be "
 msgstr "En son şurada olduğu söylendi: "
 
 msgid "held by "
-msgstr "[Kişi]nin elindeki: "
+msgstr "Kişinin elindeki"
 
 msgid " in "
 msgstr " şurada "
@@ -4076,7 +4076,7 @@ msgid "With "
 msgstr "İle "
 
 msgid "View"
-msgstr "Görüntüle"
+msgstr "İzle"
 
 msgid "View stockpile"
 msgstr "Stok alanını görüntüle"
@@ -4280,7 +4280,7 @@ msgid "Health"
 msgstr "Sağlık"
 
 msgid "Rooms"
-msgstr "Odalar"
+msgstr "Odalr"
 
 msgid "Relations"
 msgstr "İlişkiler"
@@ -4724,7 +4724,7 @@ msgid "Not inclined to abstract"
 msgstr "Soyuta eğilimli değil"
 
 msgid "Not inclined to create art"
-msgstr "Sanat yaratmaya eğilimli değil"
+msgstr "Sanat yapmaya eğilimli değil"
 
 msgid "Values law"
 msgstr "Kanuna değer verir"
@@ -6116,7 +6116,7 @@ msgid "Link plate"
 msgstr "asınç plakasını bağl"
 
 msgid "Add new task"
-msgstr "Yeni görev ekle"
+msgstr "Yeni iş ekle"
 
 msgid "Workers cannot be assigned to this building."
 msgstr "Bu binaya işçi atanamaz."
@@ -8535,7 +8535,7 @@ msgid "End stairway"
 msgstr "Merdiveni bitir"
 
 msgid "Unpause"
-msgstr "Devam ettir"
+msgstr "Devam et"
 
 msgid "Finish mining"
 msgstr "Kazıyı bitir"
@@ -8601,10 +8601,10 @@ msgid "Don't show again"
 msgstr "Tekrar gösterme"
 
 msgid "Left click to move"
-msgstr "Hareket etmek için sol tıkla"
+msgstr "Sol tıkla hareket et"
 
 msgid "Right click to move"
-msgstr "Hareket etmek için sağ tıkla"
+msgstr "Sağ tıkla hareket et"
 
 msgid "Okay"
 msgstr "Tamam"
@@ -9994,10 +9994,9 @@ msgid ""
 "if you are out of empty ones, to [C:3:0:1]Brew Drinks[C:7:0:0] if you are "
 "running low, or to [C:3:0:1]Make Five Statues[C:7:0:0] every month."
 msgstr ""
-"Örneğin, boş [C:6:0:1]Sandıklarınız[C:7:0:0] bittiyse [C:3:0:1]Ahşap Sandık "
-"Yapmak[C:7:0:0], stokunuz azalıyorsa [C:3:0:1]İçecek Mayalamak[C:7:0:0] veya"
-" her ay [C:3:0:1]Beş Heykel Yapmak[C:7:0:0] için bir emir "
-"oluşturabilirsiniz."
+"Örneğin, boş sandıklarınız bittiyse [C:3:0:1]Ahşap Sandık Yapmak[C:7:0:0], "
+"stokunuz azalıyorsa [C:3:0:1]İçecek Mayalamak[C:7:0:0] veya her ay "
+"[C:3:0:1]Beş Heykel Yapmak[C:7:0:0] için bir emir oluşturabilirsiniz."
 
 msgid "You can limit work orders to a number of [C:6:0:0]Workshops[C:7:0:0]. "
 msgstr ""
@@ -10442,17 +10441,18 @@ msgid ""
 "[C:6:0:0]Chests[C:7:0:0] or "
 msgstr ""
 "Sakinler ayrıca [C:6:0:1]Kadehler[C:7:0:0], [C:6:0:1]Fincanlar[C:7:0:0] veya"
-" [C:6:0:1]Kupalardan[C:7:0:0] içmeyi severler.  Bunlar "
-"[C:1:0:1]Taverna[C:7:0:0] içindeki [C:6:0:0]Sandıklarda[C:7:0:0] veya "
+" [C:6:0:1]Kupalardan[C:7:0:0] içmeyi severler.  Bunlar "
+"[C:6:0:0]Sandıklarda[C:7:0:0] veya "
 
 msgid ""
 "[C:6:0:0]Coffers[C:7:0:0] inside the [C:1:0:1]Tavern[C:7:0:0].  Optionally "
 "you can place [C:6:0:0]Tables[C:7:0:0] and [C:6:0:0]Chairs[C:7:0:0] where "
 "your residents can eat. "
 msgstr ""
-"[C:6:0:0]Kasalarda[C:7:0:0] saklanmalıdır.  İsteğe bağlı olarak "
-"sakinlerinizin yemek yiyebileceği [C:6:0:0]Masalar[C:7:0:0] ve "
-"[C:6:0:0]Sandalyeler[C:7:0:0] yerleştirebilirsiniz. "
+"[C:1:0:1]Taverna[C:7:0:0] içindeki [C:6:0:0]Kasalarda[C:7:0:0] "
+"saklanmalıdır.  İsteğe bağlı olarak sakinlerinizin yemek yiyebileceği "
+"[C:6:0:0]Masalar[C:7:0:0] ve [C:6:0:0]Sandalyeler[C:7:0:0] "
+"yerleştirebilirsiniz. "
 
 msgid ""
 "You may also leave a cleared space your tavern-goers will use as a dance "
@@ -10554,10 +10554,10 @@ msgid ""
 "injured.  There they will rest and given water until "
 msgstr ""
 "Talihsiz vatandaşlarınız yaralandıklarında [C:1:0:1]Hastaneye[C:7:0:0] "
-"götürülürler.  Orada dinlenirler ve bir [C:5:0:0]Doktor[C:7:0:0] "
+"götürülürler.  Orada dinlenirler ve ... -e kadar su verilir "
 
 msgid "they are seen by a [C:5:0:0]Doctor[C:7:0:0]. "
-msgstr "tarafından görülene kadar onlara su verilir. "
+msgstr "bir [C:5:0:0]Doktor[C:7:0:0] tarafından görülene kadar su verilir. "
 
 msgid ""
 "To fully function your [C:1:0:1]Hospital[C:7:0:0] needs to have "
@@ -10795,7 +10795,7 @@ msgid ""
 "[C:3:0:1]Training[C:7:0:0] order allows your soldiers to train, but you must"
 " "
 msgstr ""
-"basılarak oluşturulan) [C:1:0:0]Sığınakların[C:7:0:0] bir listesini verir. "
+"takımınızın savunması için [C:5:0:1]Sığınak[C:7:0:0] menüsü). "
 "[C:3:0:1]Eğitim[C:7:0:0] emri askerlerinizin eğitim yapmasını sağlar, ancak "
 "önce "
 
@@ -10995,7 +10995,8 @@ msgstr ""
 "oluşturup seçtiğiniz her şeyi "
 
 msgid "you want to dump using the [C:5:0:1]Dump Designation[C:7:0:0] tool."
-msgstr "üzerine bir dikdörtgen sürükleyerek yapılabilir."
+msgstr ""
+"[C:5:0:1]Çöplük İşaretleme[C:7:0:0] aracını kullanarak atmak istediğiniz"
 
 msgid "There are many treasures and perils deep underground. "
 msgstr "Yerin derinliklerinde birçok hazine ve tehlike vardır. "
@@ -11084,7 +11085,7 @@ msgid ""
 " seven mythical symbols of office. "
 msgstr ""
 "ve sonunda onları yedi efsanevi makam sembolüyle donatılmış efsanevi bir "
-"tahta oturtarak Ana Yurt (Mountainhome) olmanız gerekecek. "
+"tahta oturtarak Ana Yurt Mountainhome olmanız gerekecek. "
 
 msgid "You'll be an accomplished player at this point."
 msgstr "Bu noktada başarılı bir oyuncu olacaksınız."
@@ -11204,7 +11205,7 @@ msgid ""
 "choice but to jump or scramble to another tile (or else be hit.)  Parrying "
 "is by weapon skill and only works on other weapons.  "
 msgstr ""
-"başka bir kareye atlamaktan veya kapağı atmaktan (sürünmekten) başka çaresi "
+"başka bir kareye atlamaktan veya kapağı atmaktan sürünmekten başka çaresi "
 "kalmayabilir (yoksa darbe alır). Savuşturma silah becerisiyle yapılır ve "
 "sadece diğer silahlara karşı işe yarar."
 
@@ -11552,7 +11553,7 @@ msgstr ". Bu menü ayrıca ne kadar gizli hareket ettiğinizi de gösterecektir.
 
 msgid "If you have a number pad, you can move one tile at a time by pressing "
 msgstr ""
-"Eğer bir sayı takımınız (numpad) varsa, şuna basarak her seferinde bir kare "
+"Eğer bir sayı takımınız numpad varsa, şuna basarak her seferinde bir kare "
 "hareket edebilirsiniz: "
 
 msgid ""
@@ -11663,8 +11664,8 @@ msgstr ""
 
 msgid "specify your attack more precisly. "
 msgstr ""
-"vurma ve güreşme düğmelerini (veya sağ tık Dövüş seçeneğini) "
-"kullanabilirsiniz. "
+"vurma ve güreşme düğmelerini veya sağ tık Dövüş seçeneğini "
+"kullanabilirsiniz."
 
 msgid ""
 " to yield in combat.  If the conflict has not reached a No Quarter state, "
@@ -11947,7 +11948,7 @@ msgid ""
 "to fell trees.  You can pick up few rocks and a tree branch to get started."
 "  "
 msgstr ""
-"Temel oyunda (modsuz) üretim, ağaçları kesmek için gerekli olan taş baltayı "
+"Vanilla oyunda üretim, ağaçları kesmek için gerekli olan taş baltayı "
 "yapmakla sınırlıdır. Başlamak için birkaç taş ve bir ağaç dalı "
 "alabilirsiniz. "
 
@@ -12049,7 +12050,7 @@ msgid ""
 "You can grab creatures with your grasps and limbs, and both the target and "
 "attacking part determine which wrestling moves are available.  "
 msgstr ""
-"Yaratıkları kavrayışlarınızla (grasps) ve uzuvlarınızla yakalayabilirsiniz; "
+"Yaratıkları kavrayışlarınızla grasps ve uzuvlarınızla yakalayabilirsiniz; "
 "Hangi güreş hamlelerinin mevcut olduğunu, hem hedef hem de saldıran uzuv "
 "belirler. "
 
@@ -12090,8 +12091,8 @@ msgid ""
 "Be warned that shooting a projectile currently has a long recovery time, so "
 "you may be subject to attack after you fire.  "
 msgstr ""
-"Dikkat: Mermi atmanın uzun bir toparlanma süresi (recovery time) vardır; "
-"ateş ettikten sonra saldırıya açık hale gelebilirsiniz. "
+"Dikkat: Mermi atmanın uzun bir toparlanma süresi recovery time vardır; ateş "
+"ettikten sonra saldırıya açık hale gelebilirsiniz. "
 
 msgid ""
 "Friendly fire isn't currently possible, so your companions should be safe.  "
@@ -12372,7 +12373,7 @@ msgid "Hyphen Compound"
 msgstr "Tireli Bileşik"
 
 msgid "The X"
-msgstr "X (Belirli)"
+msgstr "X"
 
 msgid "Clear"
 msgstr "Temizle"
@@ -12765,7 +12766,7 @@ msgid "No macros created."
 msgstr "Oluşturulmuş makro yok."
 
 msgid "Restore defaults"
-msgstr "Varsayılanları geri yükle"
+msgstr "Ayarları Sıfırla"
 
 msgid "Audio has been manually disabled."
 msgstr "Ses manuel olarak devre dışı bırakıldı."
@@ -12828,7 +12829,7 @@ msgid "Game"
 msgstr "Oyun"
 
 msgid "Keybindings"
-msgstr "Tuş Atamaları"
+msgstr "Tuş Atamalar"
 
 msgid "Announcements"
 msgstr "Bildirimler"
@@ -13009,7 +13010,7 @@ msgid "Log world generation map rejects"
 msgstr "Dünya oluşumu harita reddedilenleri kaydet"
 
 msgid "Enable multithreading"
-msgstr "Çoklu iş parçacığını (multithreading) etkinleştir"
+msgstr "Çoklu iş parçacığını multithreading etkinleştir"
 
 msgid "Default embark width"
 msgstr "Varsayılan yerleşim genişliği"
@@ -13108,7 +13109,7 @@ msgid "Grazing coefficient (higher = less grass)"
 msgstr "Otlatma katsayısı (yüksek = daha az çimen)"
 
 msgid "Show frames-per-second"
-msgstr "Saniyedeki kare sayısını (FPS) göster"
+msgstr "Saniyedeki kare sayısını FPS göster"
 
 msgid "Game frames-per-second cap (default 100)"
 msgstr "Oyun saniye başına kare sınırı (varsayılan 100)"
@@ -13784,7 +13785,7 @@ msgid "Folder: "
 msgstr "Klasör: "
 
 msgid "Autosave"
-msgstr "Otomatik kayıt"
+msgstr "Oto kayıt"
 
 msgid "Manual save"
 msgstr "Manuel kayıt"
@@ -13808,7 +13809,7 @@ msgid "Start new game in existing world"
 msgstr "Mevcut dünyada yeni oyuna başla"
 
 msgid "Create new world"
-msgstr "Yeni dünya yarat"
+msgstr "Yeni dünya kur"
 
 msgid "Object testing arena"
 msgstr "Nesne test arenası"
@@ -14289,7 +14290,7 @@ msgid ""
 "performance. Do you wish to enable it? (You can always turn it off or on in "
 "the options later.)"
 msgstr ""
-"FPS 50'nin altına düştü. Çoklu iş parçacığı (multithreading) açık değil ve "
+"FPS 50'nin altına düştü. Çoklu iş parçacığı multithreading açık değil ve "
 "performansı artırabilir. Etkinleştirmek ister misiniz? (Daha sonra "
 "seçeneklerden her zaman açıp kapatabilirsiniz.)"
 
@@ -15584,7 +15585,7 @@ msgid "Citizens"
 msgstr "Citizens"
 
 msgid "Pets/Livestock"
-msgstr "Evcil Hayvanlar/Çiftlik Hayvanları"
+msgstr "Evcil/Çiftlik"
 
 msgid "Overall Training"
 msgstr "Genel Eğitim"
@@ -16277,7 +16278,7 @@ msgid "Siege engines"
 msgstr "Kuşatma silahları"
 
 msgid "You do not have any zones."
-msgstr "Hiç bölgeniz (zone) yok."
+msgstr "Hiç bölgeniz zone yok."
 
 msgid "Zones can be added using the zone menu at the bottom of the screen."
 msgstr ""
@@ -16451,7 +16452,7 @@ msgid "Written content"
 msgstr "Yazılı içerik"
 
 msgid "Named objects"
-msgstr "İsimlendirilmiş nesneler"
+msgstr "İsimli eşyalar"
 
 msgid "Symbols"
 msgstr "Semboller"
@@ -16484,7 +16485,7 @@ msgid "You can do this from the Nobles and Administrators menu."
 msgstr "Bunu Soylular ve Yöneticiler menüsünden yapabilirsiniz."
 
 msgid "There aren't any crafted artifacts here."
-msgstr "Burada işlenmiş bir eser (artifact) yok."
+msgstr "Burada işlenmiş bir eser artifact yok."
 
 msgid "Your workers will rarely make them on their own."
 msgstr "İşçileriniz bunları nadiren kendi başlarına yaparlar."
@@ -16511,7 +16512,7 @@ msgid " family heirloom"
 msgstr " aile yadigarı"
 
 msgid "(De)select all currently-displayed creatures."
-msgstr "Görüntülenen tüm yaratıkları seç/seçimi kaldır."
+msgstr "Görüntülenen tüm yaratıkları (seç/seçimi kaldır)."
 
 msgid " Bugged"
 msgstr " Bugged"
@@ -17367,7 +17368,7 @@ msgid "Designating high traffic area"
 msgstr "Yüksek trafik alanı işaretleniyor"
 
 msgid "Removing mining/chopping/gathering/smoothing orders"
-msgstr "Madencilik/kesme/toplama/pürüzsüzleştirme emirleri kaldırılıyor"
+msgstr "Kazma/kesme/toplama/pürüzsüzleştirme emirlerikaldırma"
 
 msgid "A catapult's orientation cannot be changed"
 msgstr "Bir mancınığın yönü değiştirilemez"
@@ -17568,13 +17569,13 @@ msgid "Archery Range"
 msgstr "Okçuluk Alanı"
 
 msgid "Click an existing zone to select it."
-msgstr "Seçmek için mevcut bir bölgeye tıklayın."
+msgstr "Seçmek için mevcut bir bölgeye tıkla."
 
 msgid "Select a type below to add a zone."
 msgstr "Bir bölge eklemek için aşağıdan bir tür seçin."
 
 msgid "Click an icon to add a new zone."
-msgstr "Yeni bir bölge eklemek için bir simgeye tıklayın."
+msgstr "Yeni bölge eklemek için simgeye tıkla."
 
 msgid "Select a rectangle"
 msgstr "Bir dikdörtgen seçin"
@@ -17670,7 +17671,7 @@ msgid "Cold"
 msgstr "Soğuk"
 
 msgid "Add new burrow"
-msgstr "Yeni sığınak ekle"
+msgstr "Sığınak ekle"
 
 msgid "Nobody assigned"
 msgstr "Kimse atanmadı"
@@ -17685,7 +17686,7 @@ msgid "Building track stops is recommended!"
 msgstr "Ray durakları inşa edilmesi önerilir!"
 
 msgid "Add new route"
-msgstr "Yeni rota ekle"
+msgstr "Rota ekle"
 
 msgid "Stop "
 msgstr "Durak "
@@ -17897,7 +17898,7 @@ msgid "Change standard selections to blueprints."
 msgstr "Standart seçimleri planlara dönüştür."
 
 msgid "Show advanced options."
-msgstr "Gelişmiş seçenekleri göster."
+msgstr "Gelişmiş seçenekleri aç."
 
 msgid "Hide advanced options."
 msgstr "Gelişmiş seçenekleri gizle."
@@ -18226,7 +18227,7 @@ msgid ""
 " this zone.  If no open air tiles are included, they will dump the items on "
 "the floor."
 msgstr ""
-"Çöpe atılacak işaretli eşyalar, bu bölgedeki boşluklara (uçurumlara) "
+"Çöpe atılacak işaretli eşyalar, bu bölgedeki boşluklara uçurumlara "
 "fırlatılacaktır. Eğer açık hava boşluğu yoksa, eşyaları yere bırakırlar."
 
 msgid ""
@@ -20539,7 +20540,7 @@ msgid "No positions available"
 msgstr "Mevcut pozisyon yok"
 
 msgid "Abort"
-msgstr "İptal et"
+msgstr "Durdur"
 
 msgid ""
 "Make requests for next year's caravan.  They'll charge more for these items."
@@ -21090,10 +21091,10 @@ msgid "Everybody does this"
 msgstr "Herkes bunu yapar"
 
 msgid "Only selected do this"
-msgstr "Sadece seçilenler bunu yapar"
+msgstr "Sadece seçilenler"
 
 msgid "Nobody does this"
-msgstr "Kimse bunu yapmaz"
+msgstr "Kimse yapmasın"
 
 msgid "Details"
 msgstr "Details"
@@ -21153,7 +21154,7 @@ msgid "Sieges and forbidding"
 msgstr "Kuşatmalar ve yasaklama"
 
 msgid "Chores"
-msgstr "Angaryalar"
+msgstr "İşler "
 
 msgid "No automatic weaving"
 msgstr "Otomatik dokuma yok"
@@ -21261,7 +21262,7 @@ msgid "Workers save corpses"
 msgstr "İşçiler cesetleri saklar"
 
 msgid "Workers ignore outdoor vermin remains"
-msgstr "İşçiler dışarıdaki haşere leşlerini görmezden gelir"
+msgstr "İşçiler dışarıdaki haşereleri toplamaz"
 
 msgid "Workers ignore outdoor refuse"
 msgstr "İşçiler dışarıdaki çöpleri görmezden gelir"
@@ -21411,7 +21412,7 @@ msgid "Forbidding of death objects occurs at time of death."
 msgstr "Ölüm nesnelerinin yasaklanması ölüm anında gerçekleşir."
 
 msgid "Children do chores"
-msgstr "Çocuklar getir götür işleri yapar"
+msgstr "Çocuklar hafif işleri yapar"
 
 msgid "Children don't do chores"
 msgstr "Çocuklar getir götür işleri yapmaz"
@@ -21651,7 +21652,7 @@ msgid "Current month"
 msgstr "Mevcut ay"
 
 msgid "Add/edit routines (columns)"
-msgstr "Rutin ekle/düzenle (sütunlar)"
+msgstr "Rutin ekle/düzenle (sütnlar)"
 
 msgid "View monthly schedule"
 msgstr "Aylık programı görüntüle"
@@ -21744,16 +21745,16 @@ msgid "New weapon"
 msgstr "Yeni silahlar"
 
 msgid "Uniform replaces clothing"
-msgstr "Üniforma giysinin yerine geçer"
+msgstr "Kıyafet yerine üniforma"
 
 msgid "Uniform worn over clothing"
-msgstr "Üniforma giysinin üzerine giyilir"
+msgstr "Kıyafet üstüne üniforma"
 
 msgid "Exact matches only"
-msgstr "Sadece tam eşleşmeler"
+msgstr "Sadece tam eşleşme"
 
 msgid "Partial matches okay"
-msgstr "Kısmi eşleşmeler uygun"
+msgstr "Kısmi eşleşme uygun"
 
 msgid " individual choice"
 msgstr " bireysel seçim"
@@ -21810,7 +21811,7 @@ msgid "Assign uniform"
 msgstr "Üniforma ata"
 
 msgid "Add uniform"
-msgstr "Üniforma ekle"
+msgstr "Üniforma Ver"
 
 msgid "Supplies"
 msgstr "Erzak"
@@ -21828,7 +21829,7 @@ msgid "Standing orders"
 msgstr "Daimi emirler"
 
 msgid "Stone use"
-msgstr "Taş kullanımı"
+msgstr "Taş İzni "
 
 msgid "Violation of production order"
 msgstr "Üretim emri ihlali"
@@ -21885,16 +21886,16 @@ msgid "No witnesses"
 msgstr "Tanık yok"
 
 msgid "Open cases"
-msgstr "Açık davalar"
+msgstr "Açık dava"
 
 msgid "Cases"
 msgstr "Davalar"
 
 msgid "Closed cases"
-msgstr "Kapanmış davalar"
+msgstr "Kapanmış dava"
 
 msgid "Cold cases"
-msgstr "Faili meçhul davalar"
+msgstr "Eski dava"
 
 msgid "Fortress guard"
 msgstr "Kale muhafızı"
@@ -21909,7 +21910,7 @@ msgid "Guards List"
 msgstr "Muhafız Listesi"
 
 msgid "Convicts"
-msgstr "Hükümlüler"
+msgstr "Hükümlü"
 
 msgid "Convict list"
 msgstr "Hükümlü listesi"
@@ -28832,7 +28833,7 @@ msgid "Appearance"
 msgstr "Görünüm"
 
 msgid "Mount and pets"
-msgstr "Binek ve evcil hayvanlar"
+msgstr "Binek ve evcil"
 
 msgid "Accept attributes and skills"
 msgstr "Nitelikleri ve becerileri kabul et"
@@ -29349,7 +29350,7 @@ msgid "Full customization"
 msgstr "Tam özelleştirme"
 
 msgid "Change dream/goal (if possible)"
-msgstr "Hayali/hedefi değiştir (mümkünse)"
+msgstr "Hayali/hedef değiştir (mümkünse)"
 
 msgid "Randomize personality"
 msgstr "Kişiliği rastgeleleştir"
@@ -38702,7 +38703,7 @@ msgid "State intention to flee conflict"
 msgstr "Çatışmadan kaçma niyetini belirt"
 
 msgid "Say something about your master(s)"
-msgstr "Efendilerin hakkında bir şeyler söyle"
+msgstr "Efendi(ler)in hakkında bir şeyler söyle"
 
 msgid "talk"
 msgstr "konuş"
@@ -44684,7 +44685,7 @@ msgid "Chase Opponent"
 msgstr "Rakibi Kovala"
 
 msgid "Chase Opponent Flood"
-msgstr "Rakibi Kovala (Yayılım)"
+msgstr "Rakibi Kovala Yayılım"
 
 msgid "Chase Opponent (Same Square)"
 msgstr "Rakibi Kovala (Aynı Kare)"
@@ -44705,7 +44706,7 @@ msgid "Start Medical Aid"
 msgstr "Tıbbi Yardıma Başla"
 
 msgid "Seek Station Flood"
-msgstr "Mevzi Ara (Yayılım)"
+msgstr "Mevzi Ara Yayılım"
 
 msgid "Seek Station"
 msgstr "Mevzi Ara"
@@ -44726,10 +44727,10 @@ msgid "Scheduled Meal"
 msgstr "Planlanmış Yemek"
 
 msgid "Scheduled Sleep Bed"
-msgstr "Planlanmış Uyku (Yatak)"
+msgstr "Planlanmış Uyku Yatak"
 
 msgid "Scheduled Sleep Ground"
-msgstr "Planlanmış Uyku (Yer)"
+msgstr "Planlanmış Uyku Yer"
 
 msgid "Rest"
 msgstr "Dinlen"
@@ -49702,7 +49703,7 @@ msgid "What will you say about the missing treasure?"
 msgstr "Kayıp hazine hakkında ne söyleyeceksin?"
 
 msgid "Keywords: "
-msgstr "Anahtar kelimeler: "
+msgstr "Terimler: "
 
 msgid "In party nearby"
 msgstr "Grupta yakında"
@@ -50685,7 +50686,7 @@ msgid "[Requires ore, fuel]"
 msgstr "[Cevher, yakıt gerektirir]"
 
 msgid "[Requires "
-msgstr "[Gerektirir: "
+msgstr "[Gerekli"
 
 msgid " dye available"
 msgstr " boya mevcut"
@@ -56969,7 +56970,7 @@ msgid "became obsessed with "
 msgstr "şuna takıntılı hale geldi: "
 
 msgid " own mortality and sought to extend "
-msgstr " kendi ölümlülüğüne takıntılıydı ve (hayatını) uzatmaya çalıştı "
+msgstr " kendi ölümlülüğüne takıntılıydı ve hayatını uzatmaya çalıştı "
 
 msgid " life by any means"
 msgstr " hayatını ne pahasına olursa olsun"
@@ -65930,10 +65931,10 @@ msgid " not found -- using default."
 msgstr " bulunamadı -- varsayılan kullanılıyor."
 
 msgid "CREATE WORLD NOW = "
-msgstr "DÜNYAYI ŞİMDİ YARAT = "
+msgstr "DÜNYAYI ŞİMDİ KUR = "
 
 msgid "Loading data needed to create new world"
-msgstr "Yeni dünya yaratmak için gereken veriler yükleniyor"
+msgstr "Yeni dünya kurmak için gereken veriler yükleniyor"
 
 msgid "Initializing music load..."
 msgstr "Müzik yüklemesi başlatılıyor..."
@@ -66150,7 +66151,7 @@ msgid "Keep world and return to main menu"
 msgstr "Dünyayı sakla ve ana menüye dön"
 
 msgid "Use world now"
-msgstr "Dünyayı şimdi kullan"
+msgstr "Dünyayı kullan"
 
 msgid "Continue generating"
 msgstr "Oluşturmaya devam et"
@@ -66609,7 +66610,7 @@ msgid "finds the following of tradition foolish and limiting"
 msgstr "geleneği takip etmeyi aptalca ve sınırlayıcı bulur"
 
 msgid "is disgusted by tradition and would flout any "
-msgstr "gelenekten iğrenir ve fırsatını bulursa karşılaştığı her (geleneği) "
+msgstr "gelenekten iğrenir ve fırsatını bulursa karşılaştığı her geleneği "
 
 msgid " encounters if given a chance"
 msgstr " hiçe sayar"
@@ -70015,7 +70016,7 @@ msgid "being unable to pray"
 msgstr "dua edememek"
 
 msgid " for too long"
-msgstr " (çok uzun süre)"
+msgstr " çok uzun süre"
 
 msgid "being unoccupied for too long"
 msgstr "çok uzun süre boşta kalmak"
@@ -70171,16 +70172,16 @@ msgid "need"
 msgstr "ihtiyaç"
 
 msgid "The temple petition by "
-msgstr "Tapınak dilekçesi (başvuran: "
+msgstr "Tapınak dilekçesi başvuran: "
 
 msgid " has been ignored."
 msgstr " görmezden gelindi."
 
 msgid "The guildhall petition by "
-msgstr "Lonca binası dilekçesi (başvuran: "
+msgstr "Lonca binası dilekçesi başvuran: "
 
 msgid "The citizenship petition of "
-msgstr "Vatandaşlık dilekçesi (başvuran: "
+msgstr "Vatandaşlık dilekçesi başvuran: "
 
 msgid "The residency petition of "
 msgstr "Oturum izni dilekçesi (başvuran: "
@@ -71932,7 +71933,7 @@ msgid " keyboards"
 msgstr " klavyeler"
 
 msgid "[DESCRIPTION:The "
-msgstr "[TANIM:The "
+msgstr "[DESCRIPTION:The "
 
 msgid " keyboard allows the musician to select the pitch of the instrument.]"
 msgstr " klavye, müzisyenin enstrümanın perdesini seçmesini sağlar.]"
@@ -72134,7 +72135,7 @@ msgid " yokes"
 msgstr " boyunduruklar"
 
 msgid "[DESCRIPTION:The strings of the instrument are attached to the "
-msgstr "[TANIM:Enstrümanın telleri şuna bağlıdır: "
+msgstr "[DESCRIPTION:Enstrümanın telleri şuna bağlıdır: "
 
 msgid " yoke.]"
 msgstr " boyunduruk.]"
@@ -72371,7 +72372,7 @@ msgid " pipe"
 msgstr " boru"
 
 msgid "[DESCRIPTION:The musician uses the "
-msgstr "[TANIM:Müzisyen şunu kullanır: "
+msgstr "[DESCRIPTION:Müzisyen şunu kullanır: "
 
 msgid " pipes to select the pitch as the air leaves the instrument.]"
 msgstr " hava enstrümandan çıkarken perdeyi seçmek için borular.]"
@@ -72784,7 +72785,7 @@ msgid ""
 "[CATEGORY_DESCRIPTION:Make instrument pieces which can be used to assemble "
 "complete musical instruments.]"
 msgstr ""
-"[KATEGORİ_TANIMI:Tam müzik enstrümanlarını birleştirmek için "
+"[CATEGORY_DESCRIPTION:Tam müzik enstrümanlarını birleştirmek için "
 "kullanılabilecek enstrüman parçaları yapın.]"
 
 msgid "[NAME:assemble "
@@ -72803,7 +72804,7 @@ msgid ""
 "[CATEGORY_DESCRIPTION:Assemble complete musical instruments and construct "
 "single-piece instruments.]"
 msgstr ""
-"[KATEGORİ_TANIMI:Tam müzik enstrümanlarını birleştirin ve tek parça "
+"[CATEGORY_DESCRIPTION:Tam müzik enstrümanlarını birleştirin ve tek parça "
 "enstrümanlar inşa edin.]"
 
 msgid "seed"
@@ -77662,7 +77663,7 @@ msgid "the flask"
 msgstr "deney şişesi (flask)"
 
 msgid "spirit of niter"
-msgstr "güherçile ruhu (nitrik asit)"
+msgstr "nitrik asit"
 
 msgid "laboratory ovens"
 msgstr "laboratuvar fırınları"
@@ -78462,7 +78463,7 @@ msgid "Woe unto any that disturb the resting place of "
 msgstr "Şunun istirahatgahını rahatsız edenlerin vay haline: "
 
 msgid " The "
-msgstr " (The) "
+msgstr " "
 
 msgid " is with "
 msgstr " şununla birlikte "
@@ -81356,7 +81357,7 @@ msgid " is aware of "
 msgstr " şunun farkında: "
 
 msgid " surroundings again."
-msgstr " çevresinin (tekrar)."
+msgstr " çevresinin tekrar."
 
 msgid " has climbed out of depression."
 msgstr " depresyondan çıktı."
@@ -81461,7 +81462,7 @@ msgid " shoots"
 msgstr " ateş ediyor"
 
 msgid " out thick strands of webbing"
-msgstr " kalın ağ iplikleri (dışarı)"
+msgstr " kalın ağ iplikleri dışarı"
 
 msgid "unit contained in unit"
 msgstr "birim birimin içinde"
