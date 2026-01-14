@@ -5,10 +5,11 @@
 # Sven Kadereit, 2025
 # Pierre-André Barczyk, 2025
 # M D, 2026
+# Hans Meier, 2026
 # 
 msgid ""
 msgstr ""
-"Last-Translator: M D, 2026\n"
+"Last-Translator: Hans Meier, 2026\n"
 "Language-Team: German (https://app.transifex.com/dwarf-fortress-translation/teams/22396/de/)\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -1151,13 +1152,13 @@ msgstr "Gesetze"
 #: data/init/globals.lua:521
 msgctxt "random_sphere_nouns"
 msgid "lies"
-msgstr ""
+msgstr "Lügen"
 
 #. LIGHT={{str="light"}}
 #: data/init/globals.lua:522
 msgctxt "random_sphere_nouns"
 msgid "light"
-msgstr ""
+msgstr "Licht"
 
 #. LIGHTNING={{str="lightning"}}
 #: data/init/globals.lua:523
@@ -1235,13 +1236,13 @@ msgstr "Nebel"
 #: data/init/globals.lua:535
 msgctxt "random_sphere_nouns"
 msgid "moon"
-msgstr ""
+msgstr "Mond"
 
 #. MOUNTAINS={{str="mountains",flags={OF=true}}}
 #: data/init/globals.lua:536
 msgctxt "random_sphere_nouns"
 msgid "mountains"
-msgstr ""
+msgstr "Berge"
 
 #. MUCK={{str="muck"}}
 #: data/init/globals.lua:537
@@ -1259,25 +1260,25 @@ msgstr ""
 #: data/init/globals.lua:539
 msgctxt "random_sphere_nouns"
 msgid "music"
-msgstr ""
+msgstr "Musik"
 
 #. NATURE={{str="nature"}}
 #: data/init/globals.lua:540
 msgctxt "random_sphere_nouns"
 msgid "nature"
-msgstr ""
+msgstr "Natur"
 
 #. NIGHT={{str="night"}}
 #: data/init/globals.lua:541
 msgctxt "random_sphere_nouns"
 msgid "night"
-msgstr ""
+msgstr "Nacht"
 
 #. NIGHTMARES={{str="nightmares",flags={OF=true}}}
 #: data/init/globals.lua:542
 msgctxt "random_sphere_nouns"
 msgid "nightmares"
-msgstr ""
+msgstr "Alpträume"
 
 #. OATHS={{str="oaths",flags={OF=true}}}
 #: data/init/globals.lua:543
@@ -1289,13 +1290,13 @@ msgstr ""
 #: data/init/globals.lua:544
 msgctxt "random_sphere_nouns"
 msgid "oceans"
-msgstr ""
+msgstr "Ozeane"
 
 #. ORDER={{str="order"}}
 #: data/init/globals.lua:545
 msgctxt "random_sphere_nouns"
 msgid "order"
-msgstr ""
+msgstr "Befehl"
 
 #. PAINTING={{str="painting"}}
 #: data/init/globals.lua:546
@@ -1319,7 +1320,7 @@ msgstr ""
 #: data/init/globals.lua:549
 msgctxt "random_sphere_nouns"
 msgid "plants"
-msgstr ""
+msgstr "Pflanzen"
 
 #. POETRY={{str="poetry"}}
 #: data/init/globals.lua:550
@@ -1349,7 +1350,7 @@ msgstr "Regenbögen"
 #: data/init/globals.lua:554
 msgctxt "random_sphere_nouns"
 msgid "rebirth"
-msgstr ""
+msgstr "Wiedergeburt"
 
 #. REVELRY={{str="revelry"}}
 #: data/init/globals.lua:555
@@ -1367,25 +1368,25 @@ msgstr "Rache"
 #: data/init/globals.lua:557
 msgctxt "random_sphere_nouns"
 msgid "rivers"
-msgstr ""
+msgstr "Flüsse"
 
 #. RULERSHIP={{str="rulership"}}
 #: data/init/globals.lua:558
 msgctxt "random_sphere_nouns"
 msgid "rulership"
-msgstr ""
+msgstr "Herrschaft"
 
 #. RUMORS={{str="rumors",flags={OF=true}}}
 #: data/init/globals.lua:559
 msgctxt "random_sphere_nouns"
 msgid "rumors"
-msgstr ""
+msgstr "Gerüchte"
 
 #. SACRIFICE={{str="sacrifice"}}
 #: data/init/globals.lua:560
 msgctxt "random_sphere_nouns"
 msgid "sacrifice"
-msgstr ""
+msgstr "Opfer"
 
 #. SALT={{str="salt"}}
 #: data/init/globals.lua:561
@@ -1403,7 +1404,7 @@ msgstr "Stipendium"
 #: data/init/globals.lua:563
 msgctxt "random_sphere_nouns"
 msgid "seasons"
-msgstr ""
+msgstr "Jahreszeiten"
 
 #. SILENCE={{str="silence"}}
 #: data/init/globals.lua:564
@@ -1421,7 +1422,7 @@ msgstr "Himmel"
 #: data/init/globals.lua:566
 msgctxt "random_sphere_nouns"
 msgid "song"
-msgstr ""
+msgstr "Lied"
 
 #. SPEECH={{str="speech"}}
 #: data/init/globals.lua:567
@@ -1433,25 +1434,25 @@ msgstr "Sprache"
 #: data/init/globals.lua:568
 msgctxt "random_sphere_nouns"
 msgid "stars"
-msgstr ""
+msgstr "Sterne"
 
 #. STORMS={{str="storms",flags={OF=true}}}
 #: data/init/globals.lua:569
 msgctxt "random_sphere_nouns"
 msgid "storms"
-msgstr ""
+msgstr "Stürme"
 
 #. STRENGTH={{str="strength"}}
 #: data/init/globals.lua:570
 msgctxt "random_sphere_nouns"
 msgid "strength"
-msgstr ""
+msgstr "Stärke"
 
 #. SUICIDE={{str="suicide"}}
 #: data/init/globals.lua:571
 msgctxt "random_sphere_nouns"
 msgid "suicide"
-msgstr ""
+msgstr "Selbstmord"
 
 #. SUN={{str="sun"}}
 #: data/init/globals.lua:572
@@ -1475,7 +1476,7 @@ msgstr ""
 #: data/init/globals.lua:575
 msgctxt "random_sphere_nouns"
 msgid "thunder"
-msgstr ""
+msgstr "Donner"
 
 #. TORTURE={{str="torture"}}
 #: data/init/globals.lua:576
@@ -1493,7 +1494,7 @@ msgstr ""
 #: data/init/globals.lua:578
 msgctxt "random_sphere_nouns"
 msgid "travelers"
-msgstr ""
+msgstr "Reisende"
 
 #. TREACHERY={{str="treachery"}}
 #: data/init/globals.lua:579
@@ -1505,7 +1506,7 @@ msgstr ""
 #: data/init/globals.lua:580
 msgctxt "random_sphere_nouns"
 msgid "trees"
-msgstr ""
+msgstr "Bäume"
 
 #. TRICKERY={{str="trickery"}}
 #: data/init/globals.lua:581
@@ -1529,7 +1530,7 @@ msgstr ""
 #: data/init/globals.lua:584
 msgctxt "random_sphere_nouns"
 msgid "valor"
-msgstr ""
+msgstr "Tapferkeit"
 
 #. VICTORY={{str="victory"}}
 #: data/init/globals.lua:585
@@ -1541,7 +1542,7 @@ msgstr ""
 #: data/init/globals.lua:586
 msgctxt "random_sphere_nouns"
 msgid "volcanos"
-msgstr ""
+msgstr "Vulkane"
 
 #. WAR={{str="war"}}
 #: data/init/globals.lua:587
@@ -1553,7 +1554,7 @@ msgstr ""
 #: data/init/globals.lua:588
 msgctxt "random_sphere_nouns"
 msgid "water"
-msgstr ""
+msgstr "Wasser"
 
 #. WEALTH={{str="wealth"}}
 #: data/init/globals.lua:589
@@ -1565,7 +1566,7 @@ msgstr ""
 #: data/init/globals.lua:590
 msgctxt "random_sphere_nouns"
 msgid "weather"
-msgstr ""
+msgstr "Wetter"
 
 #. WIND={{str="wind"}}
 #: data/init/globals.lua:591
@@ -1577,7 +1578,7 @@ msgstr "Wind"
 #: data/init/globals.lua:592
 msgctxt "random_sphere_nouns"
 msgid "wisdom"
-msgstr ""
+msgstr "Weisheit"
 
 #. WRITING={{str="writing"}}
 #: data/init/globals.lua:593
@@ -1589,7 +1590,7 @@ msgstr ""
 #: data/init/globals.lua:594
 msgctxt "random_sphere_nouns"
 msgid "youth"
-msgstr ""
+msgstr "Jugend"
 
 #. name_string="blob"
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures/rcp.lua:405
@@ -1601,7 +1602,7 @@ msgstr ""
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures/rcp.lua:414
 msgctxt "GENERAL_QUADRUPED"
 msgid "quadruped"
-msgstr ""
+msgstr "vierbeinig"
 
 #. name_string="humanoid"
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures/rcp.lua:423
@@ -1625,7 +1626,7 @@ msgstr ""
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures/rcp.lua:451
 msgctxt "INSECT_DRAGONFLY"
 msgid "dragonfly"
-msgstr ""
+msgstr "Libelle"
 
 #. name_string="damselfly"
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures/rcp.lua:460
@@ -1637,13 +1638,13 @@ msgstr ""
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures/rcp.lua:469
 msgctxt "INSECT_STONEFLY"
 msgid "stonefly"
-msgstr ""
+msgstr "Steinfliege"
 
 #. name_string="earwig"
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures/rcp.lua:478
 msgctxt "INSECT_EARWIG"
 msgid "earwig"
-msgstr ""
+msgstr "Ohrenkneifer"
 
 #. name_string="grasshopper"
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures/rcp.lua:487
@@ -1667,7 +1668,7 @@ msgstr ""
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures/rcp.lua:514
 msgctxt "INSECT_COCKROACH"
 msgid "cockroach"
-msgstr ""
+msgstr "Kakerlake"
 
 #. name_string="termite"
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures/rcp.lua:523
@@ -1745,7 +1746,7 @@ msgstr ""
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures/rcp.lua:638
 msgctxt "INSECT_LADYBUG"
 msgid "ladybug"
-msgstr ""
+msgstr "Marienkäfer"
 
 #. name_string="weevil"
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures/rcp.lua:647
@@ -1829,13 +1830,13 @@ msgstr "fliegen"
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures/rcp.lua:768
 msgctxt "INSECT_MOSQUITO"
 msgid "mosquito"
-msgstr ""
+msgstr "Moskito"
 
 #. name_string="flea"
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures/rcp.lua:779
 msgctxt "INSECT_FLEA"
 msgid "flea"
-msgstr ""
+msgstr "Floh"
 
 #. name_string="scorpionfly"
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures/rcp.lua:787
@@ -1895,19 +1896,19 @@ msgstr "Skorpion"
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures/rcp.lua:876
 msgctxt "ARACHNID_TICK"
 msgid "tick"
-msgstr ""
+msgstr "Zecke"
 
 #. name_string="mite"
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures/rcp.lua:885
 msgctxt "ARACHNID_MITE"
 msgid "mite"
-msgstr ""
+msgstr "Milbe"
 
 #. name_string="shrimp"
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures/rcp.lua:895
 msgctxt "CRUSTACEAN_SHRIMP"
 msgid "shrimp"
-msgstr ""
+msgstr "Krabbe"
 
 #. name_string="lobster"
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures/rcp.lua:905
@@ -1919,7 +1920,7 @@ msgstr "Hummer"
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures/rcp.lua:915
 msgctxt "CRUSTACEAN_CRAB"
 msgid "crab"
-msgstr ""
+msgstr "Krabbe"
 
 #. name_string="nematode"
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures/rcp.lua:926
@@ -1931,13 +1932,13 @@ msgstr "Fadenwurm"
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures/rcp.lua:935
 msgctxt "MOLLUSC_SNAIL"
 msgid "snail"
-msgstr ""
+msgstr "Schnecke"
 
 #. name_string="slug"
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures/rcp.lua:946
 msgctxt "MOLLUSC_SLUG"
 msgid "slug"
-msgstr ""
+msgstr "Schnecke"
 
 #. name_string="earthworm"
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures/rcp.lua:957
@@ -1955,13 +1956,13 @@ msgstr "Blutegel"
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures/rcp.lua:976
 msgctxt "BRISTLEWORM"
 msgid "bristleworm"
-msgstr ""
+msgstr "Borstenwurm"
 
 #. name_string="ribbon worm"
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures/rcp.lua:986
 msgctxt "RIBBON_WORM"
 msgid "ribbon worm"
-msgstr ""
+msgstr "Bandwurm"
 
 #. name_string="flat worm"
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures/rcp.lua:995
@@ -1973,61 +1974,61 @@ msgstr ""
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures/rcp.lua:1005
 msgctxt "AMPHIBIAN_TOAD"
 msgid "toad"
-msgstr ""
+msgstr "Kröte"
 
 #. name_string="frog"
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures/rcp.lua:1016
 msgctxt "AMPHIBIAN_FROG"
 msgid "frog"
-msgstr ""
+msgstr "Frosch"
 
 #. name_string="salamander"
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures/rcp.lua:1028
 msgctxt "AMPHIBIAN_SALAMANDER"
 msgid "salamander"
-msgstr ""
+msgstr "Salamander"
 
 #. name_string="newt"
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures/rcp.lua:1040
 msgctxt "AMPHIBIAN_NEWT"
 msgid "newt"
-msgstr ""
+msgstr "Wassermolch"
 
 #. name_string="alligator"
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures/rcp.lua:1053
 msgctxt "CROCODILIAN_ALLIGATOR"
 msgid "alligator"
-msgstr ""
+msgstr "Alligator"
 
 #. name_string="crocodile"
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures/rcp.lua:1066
 msgctxt "CROCODILIAN_CROCODILE"
 msgid "crocodile"
-msgstr ""
+msgstr "Krokodil"
 
 #. name_string="lizard"
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures/rcp.lua:1080
 msgctxt "REPTILE_LIZARD"
 msgid "lizard"
-msgstr ""
+msgstr "Eidechse"
 
 #. name_string="chameleon"
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures/rcp.lua:1093
 msgctxt "REPTILE_CHAMELEON"
 msgid "chameleon"
-msgstr ""
+msgstr "Chamäleon"
 
 #. name_string="iguana"
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures/rcp.lua:1106
 msgctxt "REPTILE_IGUANA"
 msgid "iguana"
-msgstr ""
+msgstr "Leguan"
 
 #. name_string="gecko"
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures/rcp.lua:1119
 msgctxt "REPTILE_GECKO"
 msgid "gecko"
-msgstr ""
+msgstr "Gecko"
 
 #. name_string="skink"
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures/rcp.lua:1131
@@ -2039,7 +2040,7 @@ msgstr ""
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures/rcp.lua:1144
 msgctxt "REPTILE_GILA_MONSTER"
 msgid "gila monster"
-msgstr ""
+msgstr "Gila-Krustenechse"
 
 #. name_string="monitor"
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures/rcp.lua:1158
@@ -2051,49 +2052,49 @@ msgstr ""
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures/rcp.lua:1171
 msgctxt "REPTILE_SERPENT"
 msgid "serpent"
-msgstr ""
+msgstr "Giftschlange"
 
 #. name_string="viper"
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures/rcp.lua:1180
 msgctxt "REPTILE_VIPER"
 msgid "viper"
-msgstr ""
+msgstr "Viper"
 
 #. name_string="rattlesnake"
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures/rcp.lua:1190
 msgctxt "REPTILE_RATTLESNAKE"
 msgid "rattlesnake"
-msgstr ""
+msgstr "Klapperschlange"
 
 #. name_string="cobra"
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures/rcp.lua:1200
 msgctxt "REPTILE_COBRA"
 msgid "cobra"
-msgstr ""
+msgstr "Cobra"
 
 #. name_string="python"
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures/rcp.lua:1210
 msgctxt "REPTILE_PYTHON"
 msgid "python"
-msgstr ""
+msgstr "Python"
 
 #. name_string="anaconda"
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures/rcp.lua:1219
 msgctxt "REPTILE_ANACONDA"
 msgid "anaconda"
-msgstr ""
+msgstr "Anakonda"
 
 #. name_string="turtle"
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures/rcp.lua:1228
 msgctxt "REPTILE_TURTLE"
 msgid "turtle"
-msgstr ""
+msgstr "Schildkröte"
 
 #. name_string="tortoise"
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures/rcp.lua:1239
 msgctxt "REPTILE_TORTOISE"
 msgid "tortoise"
-msgstr ""
+msgstr "Landschildkröte"
 
 #. name_string="pterosaur"
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures/rcp.lua:1249
@@ -2144,61 +2145,61 @@ msgstr ""
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures/rcp.lua:1354
 msgctxt "BIRD_DUCK"
 msgid "duck"
-msgstr ""
+msgstr "Ente"
 
 #. name_string="goose"
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures/rcp.lua:1365
 msgctxt "BIRD_GOOSE"
 msgid "goose"
-msgstr ""
+msgstr "Gans"
 
 #. name_string="swan"
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures/rcp.lua:1376
 msgctxt "BIRD_SWAN"
 msgid "swan"
-msgstr ""
+msgstr "Schwan"
 
 #. name_string="turkey"
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures/rcp.lua:1387
 msgctxt "BIRD_TURKEY"
 msgid "turkey"
-msgstr ""
+msgstr "Truthahn"
 
 #. name_string="grouse"
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures/rcp.lua:1398
 msgctxt "BIRD_GROUSE"
 msgid "grouse"
-msgstr ""
+msgstr "Raufußhuhn"
 
 #. name_string="chicken"
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures/rcp.lua:1409
 msgctxt "BIRD_CHICKEN"
 msgid "chicken"
-msgstr ""
+msgstr "Huhn"
 
 #. name_string="quail"
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures/rcp.lua:1420
 msgctxt "BIRD_QUAIL"
 msgid "quail"
-msgstr ""
+msgstr "Wachtel"
 
 #. name_string="pheasant"
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures/rcp.lua:1431
 msgctxt "BIRD_PHEASANT"
 msgid "pheasant"
-msgstr ""
+msgstr "Fasan"
 
 #. name_string="gull"
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures/rcp.lua:1442
 msgctxt "BIRD_GULL"
 msgid "gull"
-msgstr ""
+msgstr "Möwe"
 
 #. name_string="loon"
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures/rcp.lua:1453
 msgctxt "BIRD_LOON"
 msgid "loon"
-msgstr ""
+msgstr "Seetaucher"
 
 #. name_string="grebe"
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures/rcp.lua:1464
@@ -2210,109 +2211,109 @@ msgstr ""
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures/rcp.lua:1475
 msgctxt "BIRD_ALBATROSS"
 msgid "albatross"
-msgstr ""
+msgstr "Albatros"
 
 #. name_string="petrel"
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures/rcp.lua:1486
 msgctxt "BIRD_PETREL"
 msgid "petrel"
-msgstr ""
+msgstr "Sturmvogel"
 
 #. name_string="penguin"
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures/rcp.lua:1497
 msgctxt "BIRD_PENGUIN"
 msgid "penguin"
-msgstr ""
+msgstr "Pinguin"
 
 #. name_string="pelican"
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures/rcp.lua:1508
 msgctxt "BIRD_PELICAN"
 msgid "pelican"
-msgstr ""
+msgstr "Pelikan"
 
 #. name_string="stork"
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures/rcp.lua:1519
 msgctxt "BIRD_STORK"
 msgid "stork"
-msgstr ""
+msgstr "Storch"
 
 #. name_string="vulture"
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures/rcp.lua:1530
 msgctxt "BIRD_VULTURE"
 msgid "vulture"
-msgstr ""
+msgstr "Geier"
 
 #. name_string="flamingo"
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures/rcp.lua:1541
 msgctxt "BIRD_FLAMINGO"
 msgid "flamingo"
-msgstr ""
+msgstr "Flamingo"
 
 #. name_string="falcon"
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures/rcp.lua:1552
 msgctxt "BIRD_FALCON"
 msgid "falcon"
-msgstr ""
+msgstr "Falke"
 
 #. name_string="kestrel"
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures/rcp.lua:1564
 msgctxt "BIRD_KESTREL"
 msgid "kestrel"
-msgstr ""
+msgstr "Turmfalke"
 
 #. name_string="condor"
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures/rcp.lua:1576
 msgctxt "BIRD_CONDOR"
 msgid "condor"
-msgstr ""
+msgstr "Kondor"
 
 #. name_string="osprey"
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures/rcp.lua:1587
 msgctxt "BIRD_OSPREY"
 msgid "osprey"
-msgstr ""
+msgstr "Fischadler"
 
 #. name_string="buzzard"
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures/rcp.lua:1599
 msgctxt "BIRD_BUZZARD"
 msgid "buzzard"
-msgstr ""
+msgstr "Bussard"
 
 #. name_string="eagle"
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures/rcp.lua:1610
 msgctxt "BIRD_EAGLE"
 msgid "eagle"
-msgstr ""
+msgstr "Adler"
 
 #. name_string="harrier"
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures/rcp.lua:1622
 msgctxt "BIRD_HARRIER"
 msgid "harrier"
-msgstr ""
+msgstr "Weihe"
 
 #. name_string="hawk"
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures/rcp.lua:1634
 msgctxt "BIRD_HAWK"
 msgid "hawk"
-msgstr ""
+msgstr "Habicht"
 
 #. name_string="kite"
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures/rcp.lua:1646
 msgctxt "BIRD_KITE"
 msgid "kite"
-msgstr ""
+msgstr "Milan"
 
 #. name_string="crane"
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures/rcp.lua:1658
 msgctxt "BIRD_CRANE"
 msgid "crane"
-msgstr ""
+msgstr "Kranich"
 
 #. name_string="dove"
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures/rcp.lua:1669
 msgctxt "BIRD_DOVE"
 msgid "dove"
-msgstr ""
+msgstr "Taube"
 
 #. name_string="pigeon"
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures/rcp.lua:1680
@@ -2324,55 +2325,55 @@ msgstr ""
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures/rcp.lua:1691
 msgctxt "BIRD_PARROT"
 msgid "parrot"
-msgstr ""
+msgstr "Papagei"
 
 #. name_string="cockatoo"
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures/rcp.lua:1702
 msgctxt "BIRD_COCKATOO"
 msgid "cockatoo"
-msgstr ""
+msgstr "Kakadu"
 
 #. name_string="cuckoo"
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures/rcp.lua:1713
 msgctxt "BIRD_CUCKOO"
 msgid "cuckoo"
-msgstr ""
+msgstr "Kuckuck"
 
 #. name_string="owl"
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures/rcp.lua:1724
 msgctxt "BIRD_OWL"
 msgid "owl"
-msgstr ""
+msgstr "Eule"
 
 #. name_string="nightjar"
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures/rcp.lua:1736
 msgctxt "BIRD_NIGHTJAR"
 msgid "nightjar"
-msgstr ""
+msgstr "Ziegenmelker"
 
 #. name_string="swift"
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures/rcp.lua:1747
 msgctxt "BIRD_SWIFT"
 msgid "swift"
-msgstr ""
+msgstr "Mauerschwalbe"
 
 #. name_string="hummingbird"
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures/rcp.lua:1758
 msgctxt "BIRD_HUMMINGBIRD"
 msgid "hummingbird"
-msgstr ""
+msgstr "Kolibri"
 
 #. name_string="kingfisher"
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures/rcp.lua:1769
 msgctxt "BIRD_KINGFISHER"
 msgid "kingfisher"
-msgstr ""
+msgstr "Eisvogel"
 
 #. name_string="hornbill"
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures/rcp.lua:1780
 msgctxt "BIRD_HORNBILL"
 msgid "hornbill"
-msgstr ""
+msgstr "Nashornvogel"
 
 #. name_string="quetzal"
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures/rcp.lua:1791
@@ -2390,7 +2391,7 @@ msgstr ""
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures/rcp.lua:1813
 msgctxt "BIRD_WOODPECKER"
 msgid "woodpecker"
-msgstr ""
+msgstr "Specht"
 
 #. name_string="lyrebird"
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures/rcp.lua:1824
@@ -3424,7 +3425,7 @@ msgstr ""
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures/shared_info.lua:3394
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures/shared_info.lua:3395
 msgid "horns"
-msgstr ""
+msgstr "Hörner"
 
 #. BEAST_ORGANIC_SNAKE_EYE_ONE="glowing"
 #. BEAST_ORGANIC_SNAKE_EYE_TWO="glowing"
@@ -3571,7 +3572,7 @@ msgstr ""
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures/shared_info.lua:3430
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures/shared_info.lua:3431
 msgid "glowing"
-msgstr ""
+msgstr "glühend"
 
 #. local desc=" It has "
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures/shared_info.lua:3831
@@ -3681,14 +3682,14 @@ msgstr ""
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures/shared_info.lua:3914
 msgctxt "TRUNK"
 msgid " It has a short trunk"
-msgstr ""
+msgstr "Es hat einen kurzen Stamm"
 
 #. function() options.pcg_layering_modifier.TRUNK="FAT" return " It has a fat,
 #. bulging trunk" end
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures/shared_info.lua:3915
 msgctxt "TRUNK"
 msgid " It has a fat, bulging trunk"
-msgstr ""
+msgstr " Es hat einen dicken, gewölbten Stamm."
 
 #. function() options.pcg_layering_modifier.TRUNK="TWISTING" return " It has a
 #. twisting, jointed trunk" end
@@ -3715,7 +3716,7 @@ msgstr ""
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures/shared_info.lua:3927
 msgctxt "SHELL"
 msgid " It has a round shell"
-msgstr ""
+msgstr "Es hat eine runde Schale"
 
 #. " It has a spiral shell"
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures/shared_info.lua:3928
@@ -6885,13 +6886,13 @@ msgstr ""
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:1843
 msgctxt "sphere_flavor"
 msgid "it seems eager to pronounce judgment on others"
-msgstr ""
+msgstr "er scheint darauf erpicht zu sein, über andere zu urteilen"
 
 #. LABOR={add="it appears very deliberate in its actions"}
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:1844
 msgctxt "sphere_flavor"
 msgid "it appears very deliberate in its actions"
-msgstr ""
+msgstr "scheint sehr bewusst zu handeln"
 
 #. LAKES={add="it moves ponderously"}
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:1845
@@ -8012,13 +8013,13 @@ msgstr ""
 #: data/vanilla/vanilla_procedural/scripts/generators/divine.lua:23
 msgctxt "DARKNESS"
 msgid "dark metal"
-msgstr ""
+msgstr "dunkles Metall"
 
 #. name="glowing metal"
 #: data/vanilla/vanilla_procedural/scripts/generators/divine.lua:28
 msgctxt "DAWN"
 msgid "glowing metal"
-msgstr ""
+msgstr "glühendes Metall"
 
 #. name="bright metal"
 #: data/vanilla/vanilla_procedural/scripts/generators/divine.lua:33
@@ -9899,7 +9900,7 @@ msgstr ""
 #: data/vanilla/vanilla_procedural/scripts/generators/interactions/mythical.lua:162
 msgctxt "SKY"
 msgid "blue"
-msgstr ""
+msgstr "blau"
 
 #. {adj="cloud",adj_after=false}
 #: data/vanilla/vanilla_procedural/scripts/generators/interactions/mythical.lua:163
@@ -9959,7 +9960,7 @@ msgstr ""
 #: data/vanilla/vanilla_procedural/scripts/generators/interactions/mythical.lua:176
 msgctxt "STORMS"
 msgid "tornado"
-msgstr ""
+msgstr "Tornado"
 
 #. {adj="hurricane",adj_after=false}
 #: data/vanilla/vanilla_procedural/scripts/generators/interactions/mythical.lua:177
@@ -10163,25 +10164,25 @@ msgstr ""
 #: data/vanilla/vanilla_procedural/scripts/generators/interactions/mythical.lua:216
 msgctxt "VOLCANOS"
 msgid "magma"
-msgstr ""
+msgstr "Magma"
 
 #. {adj="of magma",adj_after=true}
 #: data/vanilla/vanilla_procedural/scripts/generators/interactions/mythical.lua:217
 msgctxt "VOLCANOS"
 msgid "of magma"
-msgstr ""
+msgstr "von Magma"
 
 #. {adj="lava",adj_after=false}
 #: data/vanilla/vanilla_procedural/scripts/generators/interactions/mythical.lua:218
 msgctxt "VOLCANOS"
 msgid "lava"
-msgstr ""
+msgstr "Lava"
 
 #. {adj="of lava",adj_after=true}
 #: data/vanilla/vanilla_procedural/scripts/generators/interactions/mythical.lua:219
 msgctxt "VOLCANOS"
 msgid "of lava"
-msgstr ""
+msgstr "von Lava"
 
 #. {adj="of eruptions",adj_after=true}
 #: data/vanilla/vanilla_procedural/scripts/generators/interactions/mythical.lua:220
@@ -10211,19 +10212,19 @@ msgstr ""
 #: data/vanilla/vanilla_procedural/scripts/generators/interactions/mythical.lua:227
 msgctxt "WATER"
 msgid "ice"
-msgstr ""
+msgstr "Eis"
 
 #. {adj="of ice",adj_after=true}
 #: data/vanilla/vanilla_procedural/scripts/generators/interactions/mythical.lua:228
 msgctxt "WATER"
 msgid "of ice"
-msgstr ""
+msgstr "von Eis"
 
 #. {adj="wind",adj_after=false}
 #: data/vanilla/vanilla_procedural/scripts/generators/interactions/mythical.lua:231
 msgctxt "WIND"
 msgid "wind"
-msgstr ""
+msgstr "Wind"
 
 #. {adj="of the wind",adj_after=true}
 #: data/vanilla/vanilla_procedural/scripts/generators/interactions/mythical.lua:232
@@ -10241,7 +10242,7 @@ msgstr ""
 #: data/vanilla/vanilla_procedural/scripts/generators/interactions/mythical.lua:234
 msgctxt "WIND"
 msgid "tornado"
-msgstr ""
+msgstr "Tornado"
 
 #. {adj="hurricane",adj_after=false}
 #: data/vanilla/vanilla_procedural/scripts/generators/interactions/mythical.lua:235
@@ -10360,7 +10361,7 @@ msgstr ""
 #: data/vanilla/vanilla_procedural/scripts/generators/interactions/secret.lua:4
 msgctxt "necromancer_raise_adjectives"
 msgid "sunless"
-msgstr ""
+msgstr "sonnenlos"
 
 #. "dark"
 #: data/vanilla/vanilla_procedural/scripts/generators/interactions/secret.lua:5
@@ -10390,31 +10391,31 @@ msgstr ""
 #: data/vanilla/vanilla_procedural/scripts/generators/interactions/secret.lua:9
 msgctxt "necromancer_raise_adjectives"
 msgid "cold"
-msgstr ""
+msgstr "kalt"
 
 #. "gaunt"
 #: data/vanilla/vanilla_procedural/scripts/generators/interactions/secret.lua:10
 msgctxt "necromancer_raise_adjectives"
 msgid "gaunt"
-msgstr ""
+msgstr "ausgemergelt"
 
 #. "doomed"
 #: data/vanilla/vanilla_procedural/scripts/generators/interactions/secret.lua:11
 msgctxt "necromancer_raise_adjectives"
 msgid "doomed"
-msgstr ""
+msgstr "verdammt"
 
 #. "death"
 #: data/vanilla/vanilla_procedural/scripts/generators/interactions/secret.lua:12
 msgctxt "necromancer_raise_adjectives"
 msgid "death"
-msgstr ""
+msgstr "tot"
 
 #. "empty"
 #: data/vanilla/vanilla_procedural/scripts/generators/interactions/secret.lua:13
 msgctxt "necromancer_raise_adjectives"
 msgid "empty"
-msgstr ""
+msgstr "leer"
 
 #. "void"
 #: data/vanilla/vanilla_procedural/scripts/generators/interactions/secret.lua:14
@@ -10426,7 +10427,7 @@ msgstr ""
 #: data/vanilla/vanilla_procedural/scripts/generators/interactions/secret.lua:15
 msgctxt "necromancer_raise_adjectives"
 msgid "fallen"
-msgstr ""
+msgstr "gefallene"
 
 #. "fell"
 #: data/vanilla/vanilla_procedural/scripts/generators/interactions/secret.lua:16
@@ -10450,7 +10451,7 @@ msgstr ""
 #: data/vanilla/vanilla_procedural/scripts/generators/interactions/secret.lua:19
 msgctxt "necromancer_raise_adjectives"
 msgid "lost"
-msgstr ""
+msgstr "verloren"
 
 #. "ruined"
 #: data/vanilla/vanilla_procedural/scripts/generators/interactions/secret.lua:20
@@ -10462,13 +10463,13 @@ msgstr ""
 #: data/vanilla/vanilla_procedural/scripts/generators/interactions/secret.lua:21
 msgctxt "necromancer_raise_adjectives"
 msgid "dismal"
-msgstr ""
+msgstr "düster"
 
 #. "fetid"
 #: data/vanilla/vanilla_procedural/scripts/generators/interactions/secret.lua:22
 msgctxt "necromancer_raise_adjectives"
 msgid "fetid"
-msgstr ""
+msgstr "übelriechend"
 
 #. "rotten"
 #: data/vanilla/vanilla_procedural/scripts/generators/interactions/secret.lua:23
@@ -10480,61 +10481,61 @@ msgstr ""
 #: data/vanilla/vanilla_procedural/scripts/generators/interactions/secret.lua:24
 msgctxt "necromancer_raise_adjectives"
 msgid "putrid"
-msgstr ""
+msgstr "faulig"
 
 #. "corrupted"
 #: data/vanilla/vanilla_procedural/scripts/generators/interactions/secret.lua:25
 msgctxt "necromancer_raise_adjectives"
 msgid "corrupted"
-msgstr ""
+msgstr "beschädigt"
 
 #. "bitter"
 #: data/vanilla/vanilla_procedural/scripts/generators/interactions/secret.lua:26
 msgctxt "necromancer_raise_adjectives"
 msgid "bitter"
-msgstr ""
+msgstr "bitter"
 
 #. "bleak"
 #: data/vanilla/vanilla_procedural/scripts/generators/interactions/secret.lua:27
 msgctxt "necromancer_raise_adjectives"
 msgid "bleak"
-msgstr ""
+msgstr "trostlos"
 
 #. "frozen"
 #: data/vanilla/vanilla_procedural/scripts/generators/interactions/secret.lua:28
 msgctxt "necromancer_raise_adjectives"
 msgid "frozen"
-msgstr ""
+msgstr "gefroren"
 
 #. "faded"
 #: data/vanilla/vanilla_procedural/scripts/generators/interactions/secret.lua:29
 msgctxt "necromancer_raise_adjectives"
 msgid "faded"
-msgstr ""
+msgstr "verblasst"
 
 #. "faint"
 #: data/vanilla/vanilla_procedural/scripts/generators/interactions/secret.lua:30
 msgctxt "necromancer_raise_adjectives"
 msgid "faint"
-msgstr ""
+msgstr "schwach"
 
 #. "sallow"
 #: data/vanilla/vanilla_procedural/scripts/generators/interactions/secret.lua:31
 msgctxt "necromancer_raise_adjectives"
 msgid "sallow"
-msgstr ""
+msgstr "fahl"
 
 #. "forlorn"
 #: data/vanilla/vanilla_procedural/scripts/generators/interactions/secret.lua:32
 msgctxt "necromancer_raise_adjectives"
 msgid "forlorn"
-msgstr ""
+msgstr "verloren"
 
 #. "grim"
 #: data/vanilla/vanilla_procedural/scripts/generators/interactions/secret.lua:33
 msgctxt "necromancer_raise_adjectives"
 msgid "grim"
-msgstr ""
+msgstr "grimmig"
 
 #. "wasting"
 #: data/vanilla/vanilla_procedural/scripts/generators/interactions/secret.lua:34
@@ -10558,13 +10559,13 @@ msgstr ""
 #: data/vanilla/vanilla_procedural/scripts/generators/interactions/secret.lua:39
 msgctxt "necromancer_raise_nouns"
 msgid "corpse"
-msgstr ""
+msgstr "Leichnam"
 
 #. {"corpse","corpses"}
 #: data/vanilla/vanilla_procedural/scripts/generators/interactions/secret.lua:39
 msgctxt "necromancer_raise_nouns"
 msgid "corpses"
-msgstr ""
+msgstr "Leichname"
 
 #. {"ghoul","ghouls"}
 #: data/vanilla/vanilla_procedural/scripts/generators/interactions/secret.lua:40
@@ -10618,13 +10619,13 @@ msgstr ""
 #: data/vanilla/vanilla_procedural/scripts/generators/interactions/secret.lua:44
 msgctxt "necromancer_raise_nouns"
 msgid "hunter"
-msgstr ""
+msgstr "Jäger"
 
 #. {"hunter","hunters"}
 #: data/vanilla/vanilla_procedural/scripts/generators/interactions/secret.lua:44
 msgctxt "necromancer_raise_nouns"
 msgid "hunters"
-msgstr ""
+msgstr "Jäger"
 
 #. {"slayer","slayers"}
 #: data/vanilla/vanilla_procedural/scripts/generators/interactions/secret.lua:45
@@ -10660,13 +10661,13 @@ msgstr ""
 #: data/vanilla/vanilla_procedural/scripts/generators/interactions/secret.lua:52
 msgctxt "ghoul_adjectives"
 msgid "poisoned"
-msgstr ""
+msgstr "vergiftet"
 
 #. "tainted"
 #: data/vanilla/vanilla_procedural/scripts/generators/interactions/secret.lua:53
 msgctxt "ghoul_adjectives"
 msgid "tainted"
-msgstr ""
+msgstr "verdorben"
 
 #. "plague"
 #: data/vanilla/vanilla_procedural/scripts/generators/interactions/secret.lua:54
@@ -10690,13 +10691,13 @@ msgstr ""
 #: data/vanilla/vanilla_procedural/scripts/generators/interactions/secret.lua:59
 msgctxt "ghoul_nouns"
 msgid "thrall"
-msgstr ""
+msgstr "Knecht"
 
 #. {"thrall","thralls"}
 #: data/vanilla/vanilla_procedural/scripts/generators/interactions/secret.lua:59
 msgctxt "ghoul_nouns"
 msgid "thralls"
-msgstr ""
+msgstr "Knechte"
 
 #. "night"
 #: data/vanilla/vanilla_procedural/scripts/generators/interactions/secret.lua:63
@@ -10924,13 +10925,13 @@ msgstr ""
 #: data/vanilla/vanilla_procedural/scripts/generators/interactions/secret.lua:100
 msgctxt "necromancer_ghost_nouns"
 msgid "wraith"
-msgstr ""
+msgstr "Geist"
 
 #. {"wraith","wraiths"}
 #: data/vanilla/vanilla_procedural/scripts/generators/interactions/secret.lua:100
 msgctxt "necromancer_ghost_nouns"
 msgid "wraiths"
-msgstr ""
+msgstr "Geister"
 
 #. {"spirit","spirits"}
 #: data/vanilla/vanilla_procedural/scripts/generators/interactions/secret.lua:101
@@ -10984,7 +10985,7 @@ msgstr ""
 #: data/vanilla/vanilla_procedural/scripts/generators/materials.lua:13
 msgctxt "mythical_remnant_spheres.MOUNTAINS"
 msgid "stone"
-msgstr ""
+msgstr "Stein"
 
 #. name="crystal"
 #: data/vanilla/vanilla_procedural/scripts/generators/materials.lua:23
@@ -11211,13 +11212,13 @@ msgstr ""
 #: data/vanilla/vanilla_procedural/scripts/init.lua:87
 msgctxt "gestures"
 msgid "gesture:gestures"
-msgstr ""
+msgstr "Geste:Gesten"
 
 #. "point:points"
 #: data/vanilla/vanilla_procedural/scripts/init.lua:88
 msgctxt "gestures"
 msgid "point:points"
-msgstr ""
+msgstr "Punkt:Punkte"
 
 #. "hold up a hand:holds up a hand"
 #: data/vanilla/vanilla_procedural/scripts/init.lua:89
