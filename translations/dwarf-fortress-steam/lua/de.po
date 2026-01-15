@@ -5,11 +5,11 @@
 # Sven Kadereit, 2025
 # Pierre-André Barczyk, 2025
 # M D, 2026
-# Hans Meier, 2026
+# Saturo78, 2026
 # 
 msgid ""
 msgstr ""
-"Last-Translator: Hans Meier, 2026\n"
+"Last-Translator: Saturo78, 2026\n"
 "Language-Team: German (https://app.transifex.com/dwarf-fortress-translation/teams/22396/de/)\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -2433,13 +2433,13 @@ msgstr ""
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures/rcp.lua:1891
 msgctxt "BIRD_CROW"
 msgid "crow"
-msgstr ""
+msgstr "Krähe"
 
 #. name_string="raven"
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures/rcp.lua:1902
 msgctxt "BIRD_RAVEN"
 msgid "raven"
-msgstr ""
+msgstr "Rabe"
 
 #. name_string="jay"
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures/rcp.lua:1913
@@ -3577,44 +3577,44 @@ msgstr "glühend"
 #. local desc=" It has "
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures/shared_info.lua:3831
 msgid " It has "
-msgstr ""
+msgstr "Es hat"
 
 #. desc=desc.."wings"
 #. return options.btc2=="FEATHERS" and "wings" or "feathered wings"
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures/shared_info.lua:3835
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures/shared_info.lua:4100
 msgid "wings"
-msgstr ""
+msgstr "Flügel"
 
 #. flavor_adj={"winged"}
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures/shared_info.lua:3845
 msgctxt "WINGS"
 msgid "winged"
-msgstr ""
+msgstr "geflügelt"
 
 #. flavor_adj={"winged"}
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures/shared_info.lua:3850
 msgctxt "WINGS_FLIGHTLESS"
 msgid "winged"
-msgstr ""
+msgstr "geflügelt"
 
 #. str=str.." It has two "
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures/shared_info.lua:3883
 msgctxt "TAIL"
 msgid " It has two "
-msgstr ""
+msgstr "Es hat zwei"
 
 #. str=str.." It has three "
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures/shared_info.lua:3886
 msgctxt "TAIL"
 msgid " It has three "
-msgstr ""
+msgstr "Es hat drei"
 
 #. str=str.." It has a "
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures/shared_info.lua:3889
 msgctxt "TAIL"
 msgid " It has a "
-msgstr ""
+msgstr "Es hat ein"
 
 #. "long, hanging"
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures/shared_info.lua:3892
@@ -3638,7 +3638,7 @@ msgstr ""
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures/shared_info.lua:3895
 msgctxt "TAIL"
 msgid "short"
-msgstr ""
+msgstr "kurz"
 
 #. "stubby"
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures/shared_info.lua:3896
@@ -3796,31 +3796,31 @@ msgstr ""
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures/shared_info.lua:3956
 msgctxt "HEAD_HORNS"
 msgid " It has "
-msgstr ""
+msgstr "Es hat"
 
 #. str=str.."two "
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures/shared_info.lua:3958
 msgctxt "HEAD_HORNS"
 msgid "two "
-msgstr ""
+msgstr "zwei"
 
 #. str=str.."three "
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures/shared_info.lua:3960
 msgctxt "HEAD_HORNS"
 msgid "three "
-msgstr ""
+msgstr "drei"
 
 #. str=str.."four "
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures/shared_info.lua:3962
 msgctxt "HEAD_HORNS"
 msgid "four "
-msgstr ""
+msgstr "vier"
 
 #. str=str.."a "
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures/shared_info.lua:3964
 msgctxt "HEAD_HORNS"
 msgid "a "
-msgstr ""
+msgstr "ein"
 
 #. function() options.pcg_layering_modifier.HORN="LONG_SPIRAL" return "long,
 #. spiral" end
@@ -3840,7 +3840,7 @@ msgstr ""
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures/shared_info.lua:3969
 msgctxt "HEAD_HORNS"
 msgid "short"
-msgstr ""
+msgstr "kurz"
 
 #. function() options.pcg_layering_modifier.HORN="STUBBY" return "stubby" end
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures/shared_info.lua:3970
@@ -3865,13 +3865,13 @@ msgstr ""
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures/shared_info.lua:3975
 msgctxt "HEAD_HORNS"
 msgid " horns"
-msgstr ""
+msgstr "Hörner"
 
 #. str=str.." horn"
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures/shared_info.lua:3977
 msgctxt "HEAD_HORNS"
 msgid " horn"
-msgstr ""
+msgstr "Horn"
 
 #. flavor_adj={"skinless"}
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures/shared_info.lua:3981
@@ -3891,13 +3891,13 @@ msgstr ""
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures/shared_info.lua:3990
 msgctxt "NO_EYES"
 msgid "eyeless"
-msgstr ""
+msgstr "augenlos"
 
 #. flavor_adj={"eyeless","blind"}
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures/shared_info.lua:3990
 msgctxt "NO_EYES"
 msgid "blind"
-msgstr ""
+msgstr "blind"
 
 #. adj="one-eyed"
 #. flavor_adj={"one-eyed"}
@@ -3942,7 +3942,7 @@ msgstr ""
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures/shared_info.lua:4060
 msgctxt "HAIR"
 msgid "hairy"
-msgstr ""
+msgstr "haarig"
 
 #. return "thin wings of stretched skin"
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures/shared_info.lua:4065
@@ -4009,12 +4009,12 @@ msgstr ""
 #. adj="feathered"
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures/shared_info.lua:4095
 msgid "feathered"
-msgstr ""
+msgstr "gefedert"
 
 #. return options.btc2=="FEATHERS" and "wings" or "feathered wings"
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures/shared_info.lua:4100
 msgid "feathered wings"
-msgstr ""
+msgstr "gefederte Flügel"
 
 #. return ". Its "..world.descriptor.color[options.clp.color[1]].name.."
 #. feathers are "..pick_random({
@@ -4105,7 +4105,7 @@ msgstr ""
 #. "round"
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures/shared_info.lua:4142
 msgid "round"
-msgstr ""
+msgstr "rund"
 
 #. "blocky"
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures/shared_info.lua:4143
@@ -4268,7 +4268,7 @@ msgstr "Asche"
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures/shared_info.lua:4319
 msgctxt "ASH"
 msgid "shadow"
-msgstr ""
+msgstr "Schatten"
 
 #. options.name_mat[#options.name_mat+1]="soot"
 #. options.odor_string="soot"
@@ -4300,7 +4300,7 @@ msgstr "aus Asche bestehend"
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures/shared_info.lua:4327
 msgctxt "ASH"
 msgid "gray"
-msgstr ""
+msgstr "grau"
 
 #. options.flavor_adj[#options.flavor_adj+1]="shade"
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures/shared_info.lua:4328
@@ -4338,7 +4338,7 @@ msgstr ""
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures/shared_info.lua:4347
 msgctxt "MUD"
 msgid "brown"
-msgstr ""
+msgstr "braun"
 
 #. options.flavor_adj[#options.flavor_adj+1]="slick"
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures/shared_info.lua:4348
@@ -4370,7 +4370,7 @@ msgstr ""
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures/shared_info.lua:4365
 msgctxt "VOMIT"
 msgid "green"
-msgstr ""
+msgstr "grün"
 
 #. options.pref_str[#options.pref_str+1]="disgusting appearance"
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures/shared_info.lua:4370
@@ -4382,7 +4382,7 @@ msgstr ""
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures/shared_info.lua:4380
 msgctxt "SALT_POWDER"
 msgid "salt"
-msgstr ""
+msgstr "Salz"
 
 #. options.name_mat[#options.name_mat+1]="brine"
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures/shared_info.lua:4381
@@ -4400,13 +4400,13 @@ msgstr ""
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures/shared_info.lua:4385
 msgctxt "SALT_POWDER"
 msgid "gray"
-msgstr ""
+msgstr "grau"
 
 #. options.flavor_adj[#options.flavor_adj+1]="white"
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures/shared_info.lua:4386
 msgctxt "SALT_POWDER"
 msgid "white"
-msgstr ""
+msgstr "weiß"
 
 #. options.name_mat[#options.name_mat+1]="filth"
 #. options.odor_string="filth"
@@ -4438,7 +4438,7 @@ msgstr ""
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures/shared_info.lua:4416
 msgctxt "SNOW"
 msgid "snow"
-msgstr ""
+msgstr "Schnee"
 
 #. options.post_mat_adj="composed of snow"
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures/shared_info.lua:4417
@@ -4450,7 +4450,7 @@ msgstr ""
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures/shared_info.lua:4420
 msgctxt "SNOW"
 msgid "white"
-msgstr ""
+msgstr "weiß"
 
 #. options.flavor_adj[#options.flavor_adj+1]="blizzard"
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures/shared_info.lua:4421
@@ -4482,13 +4482,13 @@ msgstr ""
 #: data/vanilla/vanilla_procedural/scripts/generators/interactions/mythical.lua:223
 msgctxt "WATER"
 msgid "water"
-msgstr ""
+msgstr "Wasser"
 
 #. options.name_mat[#options.name_mat+1]="rain"
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures/shared_info.lua:4437
 msgctxt "WATER"
 msgid "rain"
-msgstr ""
+msgstr "Regen"
 
 #. options.post_mat_adj="composed of water"
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures/shared_info.lua:4438
@@ -4554,7 +4554,7 @@ msgstr ""
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures/shared_info.lua:4481
 msgctxt "FLAME"
 msgid "red"
-msgstr ""
+msgstr "rot"
 
 #. options.flavor_adj[#options.flavor_adj+1]="inferno"
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures/shared_info.lua:4482
@@ -4596,19 +4596,19 @@ msgstr ""
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures/shared_info.lua:4491
 msgctxt "FLAME"
 msgid "smoke"
-msgstr ""
+msgstr "Rauch"
 
 #. options.name_mat[#options.name_mat+1]="amber"
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures/shared_info.lua:4500
 msgctxt "AMBER"
 msgid "amber"
-msgstr ""
+msgstr "Bernstein"
 
 #. options.post_mat_adj="composed of amber"
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures/shared_info.lua:4501
 msgctxt "AMBER"
 msgid "composed of amber"
-msgstr ""
+msgstr "bestehend aus Bernstein"
 
 #. options.name_mat[#options.name_mat+1]="coral"
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures/shared_info.lua:4512
@@ -4632,7 +4632,7 @@ msgstr ""
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures/shared_info.lua:4525
 msgctxt "GLASS_GREEN"
 msgid "composed of green glass"
-msgstr ""
+msgstr "Bestehend aus gruenem Glas"
 
 #. options.name_mat[#options.name_mat+1]="glass"
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures/shared_info.lua:4536
@@ -4650,7 +4650,7 @@ msgstr ""
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures/shared_info.lua:4548
 msgctxt "GLASS_CRYSTAL"
 msgid "glass"
-msgstr ""
+msgstr "Glas"
 
 #. options.post_mat_adj="composed of crystal glass"
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures/shared_info.lua:4549
@@ -4662,7 +4662,7 @@ msgstr ""
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures/shared_info.lua:4561
 msgctxt "CHARCOAL"
 msgid "coal"
-msgstr ""
+msgstr "Kohle"
 
 #. options.post_mat_adj="composed of charcoal"
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures/shared_info.lua:4562
@@ -4674,7 +4674,7 @@ msgstr "bestehend aus Holzkohle"
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures/shared_info.lua:4564
 msgctxt "CHARCOAL"
 msgid "black"
-msgstr ""
+msgstr "schwarz"
 
 #. options.odor_string="soot"
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures/shared_info.lua:4568
@@ -4686,7 +4686,7 @@ msgstr ""
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures/shared_info.lua:4578
 msgctxt "COKE"
 msgid "coal"
-msgstr ""
+msgstr "Kohle"
 
 #. options.post_mat_adj="composed of coke"
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures/shared_info.lua:4579
@@ -4698,7 +4698,7 @@ msgstr ""
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures/shared_info.lua:4581
 msgctxt "COKE"
 msgid "black"
-msgstr ""
+msgstr "schwarz"
 
 #. options.odor_string="soot"
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures/shared_info.lua:4585
@@ -4710,7 +4710,7 @@ msgstr ""
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures/shared_info.lua:4594
 msgctxt "SALT_SOLID"
 msgid "salt"
-msgstr ""
+msgstr "Salz"
 
 #. options.name_mat[#options.name_mat+1]="brine"
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures/shared_info.lua:4595
@@ -4728,25 +4728,25 @@ msgstr ""
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures/shared_info.lua:4598
 msgctxt "SALT_SOLID"
 msgid "white"
-msgstr ""
+msgstr "weiß"
 
 #. options.name_mat[#options.name_mat+1]="ice"
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures/shared_info.lua:4610
 msgctxt "ICE"
 msgid "ice"
-msgstr ""
+msgstr "Eis"
 
 #. options.post_mat_adj="composed of ice"
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures/shared_info.lua:4611
 msgctxt "ICE"
 msgid "composed of ice"
-msgstr ""
+msgstr "bestehend aus Eis"
 
 #. options.flavor_adj[#options.flavor_adj+1]="white"
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures/shared_info.lua:4613
 msgctxt "ICE"
 msgid "white"
-msgstr ""
+msgstr "weiß"
 
 #. return "Beware its poisonous sting!"
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures/shared_info.lua:5102
@@ -4776,7 +4776,7 @@ msgstr ""
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures/shared_info.lua:5171
 msgctxt "BREATHE_TRAILING_FLOW"
 msgid "dust"
-msgstr ""
+msgstr "Staub"
 
 #. if options.poison_state=="LIQUID" then name,caps="vapor","VAPOR"
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures/shared_info.lua:5172
@@ -5061,7 +5061,7 @@ msgstr ""
 #. huge"})
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures/shared_info.lua:6443
 msgid " huge"
-msgstr ""
+msgstr " riesig"
 
 #. elseif options.body_size>=400000 then desc=desc.." very large"
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures/shared_info.lua:6444
@@ -5122,42 +5122,42 @@ msgstr "Wüste"
 #. return "taiga"
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:53
 msgid "taiga"
-msgstr ""
+msgstr "Taiga"
 
 #. return "jungle"
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:60
 msgid "jungle"
-msgstr ""
+msgstr "Dschungel"
 
 #. return "forest"
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:62
 msgid "forest"
-msgstr ""
+msgstr "Wald"
 
 #. name=function() return "mountain" end
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:75
 msgid "mountain"
-msgstr ""
+msgstr "Berg"
 
 #. name=function() return "ocean" end
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:85
 msgid "ocean"
-msgstr ""
+msgstr "Ozean"
 
 #. name=function() return "lake" end
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:96
 msgid "lake"
-msgstr ""
+msgstr "See"
 
 #. name=function() return "glacier" end
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:103
 msgid "glacier"
-msgstr ""
+msgstr "Gletscher"
 
 #. name=function() return "tundra" end
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:110
 msgid "tundra"
-msgstr ""
+msgstr "Tundra"
 
 #. return "brush"
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:126
@@ -5167,17 +5167,17 @@ msgstr ""
 #. return "savanna"
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:133
 msgid "savanna"
-msgstr ""
+msgstr "Savanne"
 
 #. return "plains"
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:135
 msgid "plains"
-msgstr ""
+msgstr "Ebenen"
 
 #. name=function() return "hill" end
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:146
 msgid "hill"
-msgstr ""
+msgstr "Hügel"
 
 #. sickness_name="beast sickness"
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:160
@@ -5212,42 +5212,42 @@ msgstr ""
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:256
 msgctxt "demon_names"
 msgid "demon"
-msgstr ""
+msgstr "Dämon"
 
 #. {name="demon",names="demons",name_adj="demonic",cond=function(options)
 #. return true end}
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:256
 msgctxt "demon_names"
 msgid "demons"
-msgstr ""
+msgstr "Dämonen"
 
 #. {name="demon",names="demons",name_adj="demonic",cond=function(options)
 #. return true end}
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:256
 msgctxt "demon_names"
 msgid "demonic"
-msgstr ""
+msgstr "dämonisch"
 
 #. {name="devil",names="devils",name_adj="devilish",cond=function(options)
 #. return true end}
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:257
 msgctxt "demon_names"
 msgid "devil"
-msgstr ""
+msgstr "Teufel"
 
 #. {name="devil",names="devils",name_adj="devilish",cond=function(options)
 #. return true end}
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:257
 msgctxt "demon_names"
 msgid "devils"
-msgstr ""
+msgstr "Teufel"
 
 #. {name="devil",names="devils",name_adj="devilish",cond=function(options)
 #. return true end}
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:257
 msgctxt "demon_names"
 msgid "devilish"
-msgstr ""
+msgstr "teuflisch"
 
 #. {name="fiend",names="fiends",name_adj="fiendish",cond=function(options)
 #. return true end}
@@ -5406,7 +5406,7 @@ msgstr ""
 #. forced_odor_string="brimstone"
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:283
 msgid "brimstone"
-msgstr ""
+msgstr "Schwefel"
 
 #. sickness_name="demon sickness"
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:285
@@ -5447,42 +5447,42 @@ msgstr ""
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:541
 msgctxt "night_troll_names"
 msgid "troll"
-msgstr ""
+msgstr "Troll"
 
 #. {name="troll",names="trolls",name_adj="troll",cond=function(options) return
 #. true end}
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:541
 msgctxt "night_troll_names"
 msgid "trolls"
-msgstr ""
+msgstr "Trolle"
 
 #. {name="man",names="men",name_adj="man",cond=function(options) return
 #. adj_exploitable_check(options.fadj) and options.is_male_version end}
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:542
 msgctxt "night_troll_names"
 msgid "man"
-msgstr ""
+msgstr "Mann"
 
 #. {name="man",names="men",name_adj="man",cond=function(options) return
 #. adj_exploitable_check(options.fadj) and options.is_male_version end}
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:542
 msgctxt "night_troll_names"
 msgid "men"
-msgstr ""
+msgstr "Männer"
 
 #. {name="woman",names="women",name_adj="woman",cond=function(options) return
 #. adj_exploitable_check(options.fadj) and not options.is_male_version end}
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:543
 msgctxt "night_troll_names"
 msgid "woman"
-msgstr ""
+msgstr "Frau"
 
 #. {name="woman",names="women",name_adj="woman",cond=function(options) return
 #. adj_exploitable_check(options.fadj) and not options.is_male_version end}
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:543
 msgctxt "night_troll_names"
 msgid "women"
-msgstr ""
+msgstr "Frauen"
 
 #. {name="brute",names="brutes",name_adj="brutish",cond=function(options)
 #. return options.is_male_version and options.night_creature_strength_pref and
@@ -5541,14 +5541,14 @@ msgstr ""
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:547
 msgctxt "night_troll_names"
 msgid "monster"
-msgstr ""
+msgstr "Monster"
 
 #. {name="monster",names="monsters",name_adj="monster",cond=function(options)
 #. return true end}
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:547
 msgctxt "night_troll_names"
 msgid "monsters"
-msgstr ""
+msgstr "Monster"
 
 #. {name="creature",names="creatures",name_adj="creature",cond=function(options)
 #. return true end}
@@ -5569,14 +5569,14 @@ msgstr ""
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:549
 msgctxt "night_troll_names"
 msgid "ogre"
-msgstr ""
+msgstr "Oger"
 
 #. {name="ogre",names="ogres",name_adj="ogre",cond=function(options) return
 #. options.night_creature_strength_pref and options.is_male_version end}
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:549
 msgctxt "night_troll_names"
 msgid "ogres"
-msgstr ""
+msgstr "Oger"
 
 #. {name="ogress",names="ogresses",name_adj="ogress",cond=function(options)
 #. return options.night_creature_strength_pref and not options.is_male_version
@@ -5584,7 +5584,7 @@ msgstr ""
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:550
 msgctxt "night_troll_names"
 msgid "ogress"
-msgstr ""
+msgstr "Ogerin"
 
 #. {name="ogress",names="ogresses",name_adj="ogress",cond=function(options)
 #. return options.night_creature_strength_pref and not options.is_male_version
@@ -5592,7 +5592,7 @@ msgstr ""
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:550
 msgctxt "night_troll_names"
 msgid "ogresses"
-msgstr ""
+msgstr "Ogerinnen"
 
 #. {name="freak",names="freak",name_adj="freak",cond=function(options) return
 #. adj_exploitable_check(options.fadj) end}
@@ -5619,25 +5619,25 @@ msgstr ""
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:556
 msgctxt "night_troll_flavor_adjs"
 msgid "night"
-msgstr ""
+msgstr "Nacht"
 
 #. "dark"
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:557
 msgctxt "night_troll_flavor_adjs"
 msgid "dark"
-msgstr ""
+msgstr "dunkel"
 
 #. "shadow"
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:558
 msgctxt "night_troll_flavor_adjs"
 msgid "shadow"
-msgstr ""
+msgstr "Schatten"
 
 #. "midnight"
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:559
 msgctxt "night_troll_flavor_adjs"
 msgid "midnight"
-msgstr ""
+msgstr "Mitternacht"
 
 #. "dusk"
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:560
@@ -5667,7 +5667,7 @@ msgstr ""
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:564
 msgctxt "night_troll_flavor_adjs"
 msgid "moon"
-msgstr ""
+msgstr "Mond"
 
 #. "gloom"
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:565
@@ -5737,7 +5737,7 @@ msgstr ""
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:579
 msgctxt "night_troll_flavor"
 msgid "it howls into high winds"
-msgstr ""
+msgstr "es heult in den Wind"
 
 #. flavor_adj={"screaming","howling","baying","bellowing","shrieking","wailing"}
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:580
@@ -5897,7 +5897,7 @@ msgstr ""
 #. options.flavor_adj[#options.flavor_adj+1]="narrow"
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:789
 msgid "narrow"
-msgstr ""
+msgstr "eng"
 
 #. options.flavor_adj[#options.flavor_adj+1]="starved"
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:790
@@ -5978,12 +5978,12 @@ msgstr ""
 #. {"bride","brides"}
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:825
 msgid "bride"
-msgstr ""
+msgstr "Braut"
 
 #. {"bride","brides"}
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:825
 msgid "brides"
-msgstr ""
+msgstr "Bräute"
 
 #. {"husband","husbands"}
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:831
@@ -6190,13 +6190,13 @@ msgstr ""
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:1378
 msgctxt "humanoid"
 msgid "demon"
-msgstr ""
+msgstr "Dämon"
 
 #. {"demon","demons"}
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:1378
 msgctxt "humanoid"
 msgid "demons"
-msgstr ""
+msgstr "Dämonen"
 
 #. {"warrior","warriors"}
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:1379
@@ -6214,13 +6214,13 @@ msgstr ""
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:1380
 msgctxt "humanoid"
 msgid "soldier"
-msgstr ""
+msgstr "Soldat"
 
 #. {"soldier","soldiers"}
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:1380
 msgctxt "humanoid"
 msgid "soldiers"
-msgstr ""
+msgstr "Soldaten"
 
 #. {"fist","fists"}
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:1381
@@ -6238,13 +6238,13 @@ msgstr ""
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:1382
 msgctxt "humanoid"
 msgid "eye"
-msgstr ""
+msgstr "Auge"
 
 #. {"eye","eyes"}
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:1382
 msgctxt "humanoid"
 msgid "eyes"
-msgstr ""
+msgstr "Augen"
 
 #. {"giant","giants"}
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:1385
@@ -6274,37 +6274,37 @@ msgstr ""
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:1387
 msgctxt "humanoid_giant"
 msgid "tower"
-msgstr ""
+msgstr "Turm"
 
 #. {"tower","towers"}
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:1387
 msgctxt "humanoid_giant"
 msgid "towers"
-msgstr ""
+msgstr "Türme"
 
 #. {"mountain","mountains"}
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:1388
 msgctxt "humanoid_giant"
 msgid "mountain"
-msgstr ""
+msgstr "Berg"
 
 #. {"mountain","mountains"}
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:1388
 msgctxt "humanoid_giant"
 msgid "mountains"
-msgstr ""
+msgstr "Berge"
 
 #. {"dog","dogs"}
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:1391
 msgctxt "beast_small"
 msgid "dog"
-msgstr ""
+msgstr "Hund"
 
 #. {"dog","dogs"}
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:1391
 msgctxt "beast_small"
 msgid "dogs"
-msgstr ""
+msgstr "Hunde"
 
 #. {"hound","hounds"}
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:1392
@@ -6322,13 +6322,13 @@ msgstr ""
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:1393
 msgctxt "beast_small"
 msgid "wolf"
-msgstr ""
+msgstr "Wolf"
 
 #. {"wolf","wolves"}
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:1393
 msgctxt "beast_small"
 msgid "wolves"
-msgstr ""
+msgstr "Wölfe"
 
 #. {"beast","beasts"}
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:1396
@@ -6346,13 +6346,13 @@ msgstr ""
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:1397
 msgctxt "beast_large"
 msgid "monster"
-msgstr ""
+msgstr "Monster"
 
 #. {"monster","monsters"}
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:1397
 msgctxt "beast_large"
 msgid "monsters"
-msgstr ""
+msgstr "Monster"
 
 #. {"creature","creatures"}
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:1398
@@ -6370,13 +6370,13 @@ msgstr ""
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:1401
 msgctxt "failed_small"
 msgid "mistake"
-msgstr ""
+msgstr "Fehler"
 
 #. {"mistake","mistakes"}
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:1401
 msgctxt "failed_small"
 msgid "mistakes"
-msgstr ""
+msgstr "Fehler"
 
 #. {"folly","follies"}
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:1402
@@ -6394,37 +6394,37 @@ msgstr ""
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:1403
 msgctxt "failed_small"
 msgid "experiment"
-msgstr ""
+msgstr "Experiment"
 
 #. {"experiment","experiments"}
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:1403
 msgctxt "failed_small"
 msgid "experiments"
-msgstr ""
+msgstr "Experimente"
 
 #. {"nightmare","nightmares"}
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:1406
 msgctxt "failed_large"
 msgid "nightmare"
-msgstr ""
+msgstr "Alptraum"
 
 #. {"nightmare","nightmares"}
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:1406
 msgctxt "failed_large"
 msgid "nightmares"
-msgstr ""
+msgstr "Alpträume"
 
 #. {"catastrophe","catastrophes"}
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:1407
 msgctxt "failed_large"
 msgid "catastrophe"
-msgstr ""
+msgstr "Katastrophe"
 
 #. {"catastrophe","catastrophes"}
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:1407
 msgctxt "failed_large"
 msgid "catastrophes"
-msgstr ""
+msgstr "Katastrophen"
 
 #. {"disaster","disasters"}
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:1408
@@ -6454,13 +6454,13 @@ msgstr ""
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:1416
 msgctxt "experiment_random_names"
 msgid "chaos"
-msgstr ""
+msgstr "Chaos"
 
 #. night={"night"}
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:1417
 msgctxt "experiment_random_names"
 msgid "night"
-msgstr ""
+msgstr "Nacht"
 
 #. local possessive=experiment_name.."'s "
 #. return add_name.."'s "..name..":"..add_name.."'s
@@ -6486,13 +6486,13 @@ msgstr ""
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:1602
 msgctxt "beast_experiment_rcps"
 msgid "spider"
-msgstr ""
+msgstr "Spinne"
 
 #. name_string="scorpion"
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:1607
 msgctxt "beast_experiment_rcps"
 msgid "scorpion"
-msgstr ""
+msgstr "Skorpion"
 
 #. name_string="decapod"
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:1614
@@ -6528,7 +6528,7 @@ msgstr ""
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:1709
 msgctxt "failed_experiment_rcps"
 msgid "worm"
-msgstr ""
+msgstr "Wurm"
 
 #. name_string="wyrm"
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:1714
@@ -6540,19 +6540,19 @@ msgstr ""
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:1719
 msgctxt "failed_experiment_rcps"
 msgid "snake"
-msgstr ""
+msgstr "Schlange"
 
 #. name_string="armless biped"
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:1724
 msgctxt "failed_experiment_rcps"
 msgid "armless biped"
-msgstr ""
+msgstr "armloser Zweibeiner"
 
 #. AGRICULTURE={add="it looks constantly to the sky for rain"}
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:1791
 msgctxt "sphere_flavor"
 msgid "it looks constantly to the sky for rain"
-msgstr ""
+msgstr "es blickt ständig zum Himmel nach Regen"
 
 #. ANIMALS={add="it growls, buzzes, clicks and generally makes a varied
 #. racket"}
@@ -6560,61 +6560,63 @@ msgstr ""
 msgctxt "sphere_flavor"
 msgid "it growls, buzzes, clicks and generally makes a varied racket"
 msgstr ""
+"es knurrt, summt, klickt und macht allgemein ein abwechslungsreiches "
+"Geräusch"
 
 #. ART={add="it is decorated with intricate patterns"}
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:1793
 msgctxt "sphere_flavor"
 msgid "it is decorated with intricate patterns"
-msgstr ""
+msgstr "es ist mit kunstvollen Mustern verziert"
 
 #. BALANCE={add="it is perfectly symmetric"}
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:1794
 msgctxt "sphere_flavor"
 msgid "it is perfectly symmetric"
-msgstr ""
+msgstr "es ist vollkommen symmetrisch"
 
 #. BEAUTY={add="it is strikingly beautiful"}
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:1795
 msgctxt "sphere_flavor"
 msgid "it is strikingly beautiful"
-msgstr ""
+msgstr "es ist auffallend schön"
 
 #. BIRTH={add="it is covered with a filmy sac"}
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:1796
 msgctxt "sphere_flavor"
 msgid "it is covered with a filmy sac"
-msgstr ""
+msgstr "es ist mit einem durchscheinenden Sack bedeckt"
 
 #. BLIGHT={add="nearby vegetation seem to shrink away from it"}
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:1797
 msgctxt "sphere_flavor"
 msgid "nearby vegetation seem to shrink away from it"
-msgstr ""
+msgstr "die nahegelegene Vegetation scheint vor ihm zurückzuweichen"
 
 #. BOUNDARIES={add="the pieces of its body are carefully separated by
 #. markings"}
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:1798
 msgctxt "sphere_flavor"
 msgid "the pieces of its body are carefully separated by markings"
-msgstr ""
+msgstr "die Teile seines Körpers sind sorgfältig durch Markierungen getrennt"
 
 #. CAVERNS={add="its moans seem to echo no matter where it resides"}
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:1799
 msgctxt "sphere_flavor"
 msgid "its moans seem to echo no matter where it resides"
-msgstr ""
+msgstr "seine Stöhngeräusche scheinen zu hallen, egal wo es sich befindet"
 
 #. CHAOS={add="it spins wildly, lurching and howling"}
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:1800
 msgctxt "sphere_flavor"
 msgid "it spins wildly, lurching and howling"
-msgstr ""
+msgstr "es dreht sich wild, taumelt und heult"
 
 #. CHARITY={add="it seems very pleasant"}
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:1801
 msgctxt "sphere_flavor"
 msgid "it seems very pleasant"
-msgstr ""
+msgstr "es wirkt sehr angenehm"
 
 #. CHILDREN={add="it never misses an opportunity to jump in puddles"}
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:1802
