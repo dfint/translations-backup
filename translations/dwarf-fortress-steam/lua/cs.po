@@ -40,13 +40,13 @@ msgstr "hedvábí"
 #: data/init/globals.lua:325
 msgctxt "random_sphere_adjective"
 msgid "agricultural"
-msgstr "zemědělský "
+msgstr "zemědělský"
 
 #. ANIMALS={"animal"}
 #: data/init/globals.lua:326
 msgctxt "random_sphere_adjective"
 msgid "animal"
-msgstr "zvíře"
+msgstr "zvířecí"
 
 #. ART={"artistic"}
 #: data/init/globals.lua:327
@@ -58,7 +58,7 @@ msgstr "umělecký"
 #: data/init/globals.lua:328
 msgctxt "random_sphere_adjective"
 msgid "balanced"
-msgstr "vyvážený "
+msgstr "vyvážený"
 
 #. BEAUTY={"beautiful"}
 #: data/init/globals.lua:329
@@ -258,7 +258,7 @@ msgstr "ohnivý"
 #: data/init/globals.lua:361 data/init/globals.lua:362
 msgctxt "random_sphere_adjective"
 msgid "fish"
-msgstr "ryby"
+msgstr "rybí"
 
 #. FOOD={"baked"}
 #: data/init/globals.lua:363
@@ -3573,7 +3573,7 @@ msgstr "zářící"
 #. local desc=" It has "
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures/shared_info.lua:3831
 msgid " It has "
-msgstr " Má "
+msgstr " Má"
 
 #. desc=desc.."wings"
 #. return options.btc2=="FEATHERS" and "wings" or "feathered wings"
@@ -3598,19 +3598,19 @@ msgstr "okřídlený"
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures/shared_info.lua:3883
 msgctxt "TAIL"
 msgid " It has two "
-msgstr " Má dva "
+msgstr " Má dva"
 
 #. str=str.." It has three "
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures/shared_info.lua:3886
 msgctxt "TAIL"
 msgid " It has three "
-msgstr " Má tři "
+msgstr " Má tři"
 
 #. str=str.." It has a "
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures/shared_info.lua:3889
 msgctxt "TAIL"
 msgid " It has a "
-msgstr " Má "
+msgstr " Má"
 
 #. "long, hanging"
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures/shared_info.lua:3892
@@ -3622,7 +3622,7 @@ msgstr "dlouhý, visící"
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures/shared_info.lua:3893
 msgctxt "TAIL"
 msgid "long, straight"
-msgstr "dlouhé, rovné"
+msgstr "dlouhý, rovný"
 
 #. "long, curly"
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures/shared_info.lua:3894
@@ -3640,7 +3640,7 @@ msgstr "krátký"
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures/shared_info.lua:3896
 msgctxt "TAIL"
 msgid "stubby"
-msgstr "pahýlovité"
+msgstr "pahýlovitý"
 
 #. "narrow"
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures/shared_info.lua:3897
@@ -3792,31 +3792,31 @@ msgstr " Má pár hrbolatých tykadel"
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures/shared_info.lua:3956
 msgctxt "HEAD_HORNS"
 msgid " It has "
-msgstr " Má "
+msgstr " Má"
 
 #. str=str.."two "
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures/shared_info.lua:3958
 msgctxt "HEAD_HORNS"
 msgid "two "
-msgstr "dva "
+msgstr "dva"
 
 #. str=str.."three "
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures/shared_info.lua:3960
 msgctxt "HEAD_HORNS"
 msgid "three "
-msgstr "tři "
+msgstr "tři"
 
 #. str=str.."four "
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures/shared_info.lua:3962
 msgctxt "HEAD_HORNS"
 msgid "four "
-msgstr "čtyři "
+msgstr "čtyři"
 
 #. str=str.."a "
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures/shared_info.lua:3964
 msgctxt "HEAD_HORNS"
 msgid "a "
-msgstr "jeden "
+msgstr "jeden"
 
 #. function() options.pcg_layering_modifier.HORN="LONG_SPIRAL" return "long,
 #. spiral" end
@@ -3951,14 +3951,14 @@ msgstr "tenká křídla z napnuté kůže"
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures/shared_info.lua:4068
 msgctxt "HAIR"
 msgid ". Its "
-msgstr ". Jeho "
+msgstr ". Jeho"
 
 #. return ". Its "..world.descriptor.color[options.clp.color[1]].name.." hair
 #. is "..pick_random({
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures/shared_info.lua:4068
 msgctxt "HAIR"
 msgid " hair is "
-msgstr " srst je "
+msgstr " srst je"
 
 #. "long and shaggy"
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures/shared_info.lua:4069
@@ -4031,13 +4031,13 @@ msgstr "pernatá křídla"
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures/shared_info.lua:4229
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures/shared_info.lua:6523
 msgid ". Its "
-msgstr ". Jeho "
+msgstr ". Jeho"
 
 #. return ". Its "..world.descriptor.color[options.clp.color[1]].name.."
 #. feathers are "..pick_random({
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures/shared_info.lua:4103
 msgid " feathers are "
-msgstr " peří je "
+msgstr " peří je"
 
 #. "fluffed-out"
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures/shared_info.lua:4104
@@ -4086,7 +4086,7 @@ msgstr "tenká křídla z napnuté kůže"
 #. are "..pick_random({
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures/shared_info.lua:4139
 msgid " scales are "
-msgstr " šupiny jsou "
+msgstr " šupiny jsou"
 
 #. "small"
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures/shared_info.lua:4140
@@ -4125,7 +4125,7 @@ msgstr "oválný"
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures/shared_info.lua:4146
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures/shared_info.lua:6489
 msgid " and "
-msgstr " a "
+msgstr " a"
 
 #. "overlapping"
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures/shared_info.lua:4147
@@ -4153,7 +4153,7 @@ msgstr "masitý"
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures/shared_info.lua:4169
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures/shared_info.lua:4197
 msgid " skin is "
-msgstr " kůže je "
+msgstr " kůže je"
 
 #. "waxy"
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures/shared_info.lua:4170
@@ -4211,42 +4211,42 @@ msgstr "krajková křídla"
 #. exoskeleton is "..pick_random({
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures/shared_info.lua:4229
 msgid " exoskeleton is "
-msgstr " krunýř je "
+msgstr " krunýř je"
 
 #. adj="six-legged"
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures/shared_info.lua:4240
 msgctxt "SIX_LEGGED"
 msgid "six-legged"
-msgstr ""
+msgstr "šestinohý"
 
 #. adj="eight-legged"
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures/shared_info.lua:4243
 msgctxt "EIGHT_LEGGED"
 msgid "eight-legged"
-msgstr ""
+msgstr "osminohý"
 
 #. form_desc="in humanoid form"
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures/shared_info.lua:4246
 msgctxt "MAKE_HUMANOID"
 msgid "in humanoid form"
-msgstr ""
+msgstr "v humanoidní podobě"
 
 #. twisted_desc="twisted into humanoid form"
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures/shared_info.lua:4247
 msgctxt "MAKE_HUMANOID"
 msgid "twisted into humanoid form"
-msgstr ""
+msgstr "zdeformovaný do humanoidní podoby"
 
 #. with_desc="with external ribs"
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures/shared_info.lua:4253
 msgctxt "RIBS_EXTERNAL"
 msgid "with external ribs"
-msgstr ""
+msgstr "s vnějšími žebry"
 
 #. options.post_mat_adj="composed of "
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures/shared_info.lua:4271
 msgid "composed of "
-msgstr ""
+msgstr "složený z"
 
 #. options.odor_string="soil"
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures/shared_info.lua:4297
@@ -4310,13 +4310,13 @@ msgstr "stín"
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures/shared_info.lua:4353
 msgctxt "MUD"
 msgid "mud"
-msgstr ""
+msgstr "bahno"
 
 #. options.name_mat[#options.name_mat+1]="sludge"
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures/shared_info.lua:4342
 msgctxt "MUD"
 msgid "sludge"
-msgstr ""
+msgstr "kal"
 
 #. options.name_mat[#options.name_mat+1]="muck"
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures/shared_info.lua:4343
@@ -4328,25 +4328,25 @@ msgstr "bláto"
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures/shared_info.lua:4344
 msgctxt "MUD"
 msgid "composed of mud"
-msgstr ""
+msgstr "složený z bahna"
 
 #. options.flavor_adj[#options.flavor_adj+1]="brown"
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures/shared_info.lua:4347
 msgctxt "MUD"
 msgid "brown"
-msgstr ""
+msgstr "hnědý"
 
 #. options.flavor_adj[#options.flavor_adj+1]="slick"
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures/shared_info.lua:4348
 msgctxt "MUD"
 msgid "slick"
-msgstr ""
+msgstr "kluzký"
 
 #. options.flavor_adj[#options.flavor_adj+1]="quagmire"
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures/shared_info.lua:4349
 msgctxt "MUD"
 msgid "quagmire"
-msgstr ""
+msgstr "močál"
 
 #. options.name_mat[#options.name_mat+1]="vomit"
 #. options.odor_string="vomit"
@@ -4354,25 +4354,25 @@ msgstr ""
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures/shared_info.lua:4371
 msgctxt "VOMIT"
 msgid "vomit"
-msgstr ""
+msgstr "zvratky"
 
 #. options.post_mat_adj="composed of vomit"
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures/shared_info.lua:4363
 msgctxt "VOMIT"
 msgid "composed of vomit"
-msgstr ""
+msgstr "složený ze zvratků"
 
 #. options.flavor_adj[#options.flavor_adj+1]="green"
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures/shared_info.lua:4365
 msgctxt "VOMIT"
 msgid "green"
-msgstr ""
+msgstr "zelený"
 
 #. options.pref_str[#options.pref_str+1]="disgusting appearance"
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures/shared_info.lua:4370
 msgctxt "VOMIT"
 msgid "disgusting appearance"
-msgstr ""
+msgstr "odporný vzhled"
 
 #. options.name_mat[#options.name_mat+1]="salt"
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures/shared_info.lua:4380
@@ -4384,13 +4384,13 @@ msgstr "sůl"
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures/shared_info.lua:4381
 msgctxt "SALT_POWDER"
 msgid "brine"
-msgstr ""
+msgstr "solanka"
 
 #. options.post_mat_adj="composed of salt"
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures/shared_info.lua:4382
 msgctxt "SALT_POWDER"
 msgid "composed of salt"
-msgstr ""
+msgstr "složený ze soli"
 
 #. options.flavor_adj[#options.flavor_adj+1]="gray"
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures/shared_info.lua:4385
@@ -4434,13 +4434,13 @@ msgstr "odpad"
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures/shared_info.lua:4416
 msgctxt "SNOW"
 msgid "snow"
-msgstr ""
+msgstr "sníh"
 
 #. options.post_mat_adj="composed of snow"
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures/shared_info.lua:4417
 msgctxt "SNOW"
 msgid "composed of snow"
-msgstr ""
+msgstr "složený ze sněhu"
 
 #. options.flavor_adj[#options.flavor_adj+1]="white"
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures/shared_info.lua:4420
@@ -4452,25 +4452,25 @@ msgstr "bílý"
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures/shared_info.lua:4421
 msgctxt "SNOW"
 msgid "blizzard"
-msgstr ""
+msgstr "vánice"
 
 #. options.flavor_adj[#options.flavor_adj+1]="slush"
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures/shared_info.lua:4422
 msgctxt "SNOW"
 msgid "slush"
-msgstr ""
+msgstr "břečka"
 
 #. options.flavor_adj[#options.flavor_adj+1]="sleet"
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures/shared_info.lua:4423
 msgctxt "SNOW"
 msgid "sleet"
-msgstr ""
+msgstr "mrznoucí déšť"
 
 #. options.potential_end_phrase[#options.potential_end_phrase+1]=" of tears"
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures/shared_info.lua:4425
 msgctxt "SNOW"
 msgid " of tears"
-msgstr ""
+msgstr " ze slz"
 
 #. options.name_mat[#options.name_mat+1]="water"
 #. {adj="water",adj_after=false}
@@ -4490,43 +4490,43 @@ msgstr "déšť"
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures/shared_info.lua:4438
 msgctxt "WATER"
 msgid "composed of water"
-msgstr ""
+msgstr "složený z vody"
 
 #. options.flavor_adj[#options.flavor_adj+1]="flood"
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures/shared_info.lua:4441
 msgctxt "WATER"
 msgid "flood"
-msgstr ""
+msgstr "povodeň"
 
 #. options.flavor_adj[#options.flavor_adj+1]="tear"
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures/shared_info.lua:4442
 msgctxt "WATER"
 msgid "tear"
-msgstr ""
+msgstr "slza"
 
 #. options.flavor_adj[#options.flavor_adj+1]="of tears"
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures/shared_info.lua:4443
 msgctxt "WATER"
 msgid "of tears"
-msgstr ""
+msgstr "ze slz"
 
 #. options.name_mat[#options.name_mat+1]="steam"
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures/shared_info.lua:4455
 msgctxt "STEAM"
 msgid "steam"
-msgstr ""
+msgstr "pára"
 
 #. options.post_mat_adj="composed of steam"
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures/shared_info.lua:4456
 msgctxt "STEAM"
 msgid "composed of steam"
-msgstr ""
+msgstr "složený z páry"
 
 #. options.flavor_adj[#options.flavor_adj+1]="boiling"
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures/shared_info.lua:4460
 msgctxt "STEAM"
 msgid "boiling"
-msgstr ""
+msgstr "vařící"
 
 #. options.name_mat[#options.name_mat+1]="flame"
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures/shared_info.lua:4475
@@ -4712,13 +4712,13 @@ msgstr "sůl"
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures/shared_info.lua:4595
 msgctxt "SALT_SOLID"
 msgid "brine"
-msgstr ""
+msgstr "solanka"
 
 #. options.post_mat_adj="composed of solid salt"
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures/shared_info.lua:4596
 msgctxt "SALT_SOLID"
 msgid "composed of solid salt"
-msgstr ""
+msgstr "složený z pevné soli"
 
 #. options.flavor_adj[#options.flavor_adj+1]="white"
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures/shared_info.lua:4598
@@ -4766,7 +4766,7 @@ msgstr "Pozor na jeho oheň!"
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures/shared_info.lua:5157
 msgctxt "WEBS"
 msgid "Beware its webs!"
-msgstr ""
+msgstr "Pozor na jeho sítě!"
 
 #. local name,caps="dust","DUST"
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures/shared_info.lua:5171
@@ -4852,182 +4852,182 @@ msgstr "Pozor na jeho smrtící prach!"
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures/shared_info.lua:5244
 msgctxt "SECRETION"
 msgid "Beware its noxious secretions!"
-msgstr ""
+msgstr "Pozor na jeho škodlivé výměšky!"
 
 #. return "Beware its deadly blood!"
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures/shared_info.lua:5266
 msgctxt "POISON_BLOOD"
 msgid "Beware its deadly blood!"
-msgstr ""
+msgstr "Pozor na jeho smrtící krev!"
 
 #. return "Beware its poisonous bite!"
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures/shared_info.lua:5280
 msgctxt "POISON_BITE"
 msgid "Beware its poisonous bite!"
-msgstr ""
+msgstr "Pozor na jeho jedovaté kousnutí!"
 
 #. return "Beware its hunger for warm blood!"
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures/shared_info.lua:5291
 msgctxt "PROBOSCIS_BLOOD"
 msgid "Beware its hunger for warm blood!"
-msgstr ""
+msgstr "Pozor, touží po teplé krvi!"
 
 #. return "it has a regal bearing"
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures/shared_info.lua:5302
 msgctxt "default_desc_adds"
 msgid "it has a regal bearing"
-msgstr ""
+msgstr "má královské vystupování"
 
 #. return "it has an austere look about it"
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures/shared_info.lua:5310
 msgctxt "default_desc_adds"
 msgid "it has an austere look about it"
-msgstr ""
+msgstr "má přísný vzhled"
 
 #. return "it moves deliberately"
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures/shared_info.lua:5318
 msgctxt "default_desc_adds"
 msgid "it moves deliberately"
-msgstr ""
+msgstr "pohybuje se záměrně"
 
 #. return "it moves about carelessly"
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures/shared_info.lua:5326
 msgctxt "default_desc_adds"
 msgid "it moves about carelessly"
-msgstr ""
+msgstr "pohybuje se neopatrně"
 
 #. options.pref_str[#options.pref_str+1]="peaceful nature"
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures/shared_info.lua:5337
 msgctxt "good_desc_adds"
 msgid "peaceful nature"
-msgstr ""
+msgstr "pokojná povaha"
 
 #. return "it bears a look of unbelievable peace"
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures/shared_info.lua:5338
 msgctxt "good_desc_adds"
 msgid "it bears a look of unbelievable peace"
-msgstr ""
+msgstr "má výraz neuvěřitelného klidu"
 
 #. options.pref_str[#options.pref_str+1]="kind nature"
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures/shared_info.lua:5349
 msgctxt "good_desc_adds"
 msgid "kind nature"
-msgstr ""
+msgstr "laskavá povaha"
 
 #. return "it emanates an aura of giving and kindness"
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures/shared_info.lua:5350
 msgctxt "good_desc_adds"
 msgid "it emanates an aura of giving and kindness"
-msgstr ""
+msgstr "vyzařuje auru štědrosti a laskavosti"
 
 #. options.pref_str[#options.pref_str+1]="joyful nature"
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures/shared_info.lua:5358
 msgctxt "good_desc_adds"
 msgid "joyful nature"
-msgstr ""
+msgstr "radostná povaha"
 
 #. return "joy marks its every movement"
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures/shared_info.lua:5359
 msgctxt "good_desc_adds"
 msgid "joy marks its every movement"
-msgstr ""
+msgstr "každý jeho pohyb je plný radosti"
 
 #. return "it moves its will in accordance with the truth of things"
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures/shared_info.lua:5367
 msgctxt "good_desc_adds"
 msgid "it moves its will in accordance with the truth of things"
-msgstr ""
+msgstr "jedná v souladu s pravdou věcí"
 
 #. "it is ravening"
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures/shared_info.lua:5379
 msgctxt "evil_desc_adds"
 msgid "it is ravening"
-msgstr ""
+msgstr "je dravý"
 
 #. "it is slavering"
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures/shared_info.lua:5380
 msgctxt "evil_desc_adds"
 msgid "it is slavering"
-msgstr ""
+msgstr "slintá"
 
 #. "it belches and croaks"
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures/shared_info.lua:5381
 msgctxt "evil_desc_adds"
 msgid "it belches and croaks"
-msgstr ""
+msgstr "krká a skřehotá"
 
 #. options.pref_str[#options.pref_str+1]="rhythmic undulations"
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures/shared_info.lua:5388
 msgctxt "evil_desc_adds"
 msgid "rhythmic undulations"
-msgstr ""
+msgstr "rytmické vlnění"
 
 #. return "it undulates rhythmically"
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures/shared_info.lua:5389
 msgctxt "evil_desc_adds"
 msgid "it undulates rhythmically"
-msgstr ""
+msgstr "vlní se rytmicky"
 
 #. return "it squirms and fidgets"
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures/shared_info.lua:5395
 msgctxt "evil_desc_adds"
 msgid "it squirms and fidgets"
-msgstr ""
+msgstr "kroutí se a vrtí"
 
 #. options.pref_str[#options.pref_str+1]="bloated appearance"
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures/shared_info.lua:5401
 msgctxt "evil_desc_adds"
 msgid "bloated appearance"
-msgstr ""
+msgstr "nafouklý vzhled"
 
 #. return "it has a bloated body"
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures/shared_info.lua:5402
 msgctxt "evil_desc_adds"
 msgid "it has a bloated body"
-msgstr ""
+msgstr "má nafouklé tělo"
 
 #. "it has a gaunt appearance"
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures/shared_info.lua:5409
 msgctxt "evil_desc_adds"
 msgid "it has a gaunt appearance"
-msgstr ""
+msgstr "má vyzáblý vzhled"
 
 #. "it appears to be emaciated"
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures/shared_info.lua:5410
 msgctxt "evil_desc_adds"
 msgid "it appears to be emaciated"
-msgstr ""
+msgstr "vypadá vychrtle"
 
 #. "it chants ceaselessly"
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures/shared_info.lua:5420
 msgctxt "evil_desc_adds"
 msgid "it chants ceaselessly"
-msgstr ""
+msgstr "neustále mumlá"
 
 #. "it murmurs horrible curses"
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures/shared_info.lua:5421
 msgctxt "evil_desc_adds"
 msgid "it murmurs horrible curses"
-msgstr ""
+msgstr "mumlá hrozné kletby"
 
 #. "it spouts gibberish periodically"
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures/shared_info.lua:5422
 msgctxt "evil_desc_adds"
 msgid "it spouts gibberish periodically"
-msgstr ""
+msgstr "pravidelně blábolí nesmysly"
 
 #. "it knows and intones the names of all it encounters"
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures/shared_info.lua:5423
 msgctxt "evil_desc_adds"
 msgid "it knows and intones the names of all it encounters"
-msgstr ""
+msgstr "zná a předříkává jména všech, které potká"
 
 #. if options.spheres.TORTURE then candidates[#candidates+1]="it repeatedly
 #. makes threats of torture and death" end
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures/shared_info.lua:5425
 msgctxt "evil_desc_adds"
 msgid "it repeatedly makes threats of torture and death"
-msgstr ""
+msgstr "opakovaně vyhrožuje mučením a smrtí"
 
 #. desc=desc..pick_random({" great"," gigantic"," towering", "n enormous","
 #. huge"})
@@ -5045,13 +5045,13 @@ msgstr " gigantický"
 #. huge"})
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures/shared_info.lua:6443
 msgid " towering"
-msgstr ""
+msgstr " tyčící se"
 
 #. desc=desc..pick_random({" great"," gigantic"," towering", "n enormous","
 #. huge"})
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures/shared_info.lua:6443
 msgid "n enormous"
-msgstr ""
+msgstr "enormní"
 
 #. desc=desc..pick_random({" great"," gigantic"," towering", "n enormous","
 #. huge"})
@@ -5062,7 +5062,7 @@ msgstr " obrovský"
 #. elseif options.body_size>=400000 then desc=desc.." very large"
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures/shared_info.lua:6444
 msgid " very large"
-msgstr ""
+msgstr " velmi velký"
 
 #. elseif options.body_size>=80000 then desc=desc.." large"
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures/shared_info.lua:6445
@@ -5072,7 +5072,7 @@ msgstr " velký"
 #. desc=desc.." very small"
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures/shared_info.lua:6449
 msgid " very small"
-msgstr ""
+msgstr " velmi malý"
 
 #. desc=desc.." small"
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures/shared_info.lua:6451
@@ -5084,250 +5084,250 @@ msgstr " malý"
 #. "..world.descriptor.color[options.eye_clp.color[1]].name
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures/shared_info.lua:6523
 msgid "eyes glow"
-msgstr ""
+msgstr "oči září"
 
 #. desc=desc..". Its "..(options.eye_count>1 and "eyes glow" or "eye
 #. glows").."
 #. "..world.descriptor.color[options.eye_clp.color[1]].name
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures/shared_info.lua:6523
 msgid "eye glows"
-msgstr ""
+msgstr "oko září"
 
 #. return (swamp_count >= 0) and "swamp" or "marsh"
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:24
 msgid "swamp"
-msgstr ""
+msgstr "bažina"
 
 #. return (swamp_count >= 0) and "swamp" or "marsh"
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:24
 msgid "marsh"
-msgstr ""
+msgstr "močál"
 
 #. return (sr.biome_count.DESERT_SAND > sr.biome_count.DESERT_ROCK +
 #. sr.biome_count.DESERT_BADLAND) and "sand" or "desert"
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:35
 msgid "sand"
-msgstr ""
+msgstr "písek"
 
 #. return (sr.biome_count.DESERT_SAND > sr.biome_count.DESERT_ROCK +
 #. sr.biome_count.DESERT_BADLAND) and "sand" or "desert"
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:35
 msgid "desert"
-msgstr ""
+msgstr "poušť"
 
 #. return "taiga"
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:53
 msgid "taiga"
-msgstr ""
+msgstr "tajga"
 
 #. return "jungle"
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:60
 msgid "jungle"
-msgstr ""
+msgstr "džungle"
 
 #. return "forest"
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:62
 msgid "forest"
-msgstr ""
+msgstr "les"
 
 #. name=function() return "mountain" end
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:75
 msgid "mountain"
-msgstr ""
+msgstr "hora"
 
 #. name=function() return "ocean" end
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:85
 msgid "ocean"
-msgstr ""
+msgstr "oceán"
 
 #. name=function() return "lake" end
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:96
 msgid "lake"
-msgstr ""
+msgstr "jezero"
 
 #. name=function() return "glacier" end
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:103
 msgid "glacier"
-msgstr ""
+msgstr "ledovec"
 
 #. name=function() return "tundra" end
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:110
 msgid "tundra"
-msgstr ""
+msgstr "tundra"
 
 #. return "brush"
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:126
 msgid "brush"
-msgstr ""
+msgstr "křoví"
 
 #. return "savanna"
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:133
 msgid "savanna"
-msgstr ""
+msgstr "savana"
 
 #. return "plains"
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:135
 msgid "plains"
-msgstr ""
+msgstr "pláň"
 
 #. name=function() return "hill" end
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:146
 msgid "hill"
-msgstr ""
+msgstr "kopec"
 
 #. sickness_name="beast sickness"
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:160
 msgid "beast sickness"
-msgstr ""
+msgstr "nemoc stvoření"
 
 #. sickness_name="titan sickness"
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:199
 msgid "titan sickness"
-msgstr ""
+msgstr "nemoc titánů"
 
 #. local name_str = subreg_name.." titan:"..subreg_name.."
 #. titans:"..subreg_name.."-titan]"
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:245
 msgid " titan:"
-msgstr ""
+msgstr " titán:"
 
 #. local name_str = subreg_name.." titan:"..subreg_name.."
 #. titans:"..subreg_name.."-titan]"
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:245
 msgid " titans:"
-msgstr ""
+msgstr " titáni:"
 
 #. local name_str = subreg_name.." titan:"..subreg_name.."
 #. titans:"..subreg_name.."-titan]"
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:245
 msgid "-titan]"
-msgstr ""
+msgstr "-titán]"
 
 #. {name="demon",names="demons",name_adj="demonic",cond=function(options)
 #. return true end}
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:256
 msgctxt "demon_names"
 msgid "demon"
-msgstr ""
+msgstr "démon"
 
 #. {name="demon",names="demons",name_adj="demonic",cond=function(options)
 #. return true end}
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:256
 msgctxt "demon_names"
 msgid "demons"
-msgstr ""
+msgstr "démoni"
 
 #. {name="demon",names="demons",name_adj="demonic",cond=function(options)
 #. return true end}
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:256
 msgctxt "demon_names"
 msgid "demonic"
-msgstr ""
+msgstr "démonický"
 
 #. {name="devil",names="devils",name_adj="devilish",cond=function(options)
 #. return true end}
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:257
 msgctxt "demon_names"
 msgid "devil"
-msgstr ""
+msgstr "ďábel"
 
 #. {name="devil",names="devils",name_adj="devilish",cond=function(options)
 #. return true end}
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:257
 msgctxt "demon_names"
 msgid "devils"
-msgstr ""
+msgstr "ďáblové"
 
 #. {name="devil",names="devils",name_adj="devilish",cond=function(options)
 #. return true end}
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:257
 msgctxt "demon_names"
 msgid "devilish"
-msgstr ""
+msgstr "ďábelský"
 
 #. {name="fiend",names="fiends",name_adj="fiendish",cond=function(options)
 #. return true end}
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:258
 msgctxt "demon_names"
 msgid "fiend"
-msgstr ""
+msgstr "zlý duch"
 
 #. {name="fiend",names="fiends",name_adj="fiendish",cond=function(options)
 #. return true end}
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:258
 msgctxt "demon_names"
 msgid "fiends"
-msgstr ""
+msgstr "zlí duchové"
 
 #. {name="fiend",names="fiends",name_adj="fiendish",cond=function(options)
 #. return true end}
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:258
 msgctxt "demon_names"
 msgid "fiendish"
-msgstr ""
+msgstr "démonský"
 
 #. {name="brute",names="brutes",name_adj="brutish",cond=function(options)
 #. return adj_exploitable_check(options.fadj) end}
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:259
 msgctxt "demon_names"
 msgid "brute"
-msgstr ""
+msgstr "brutál"
 
 #. {name="brute",names="brutes",name_adj="brutish",cond=function(options)
 #. return adj_exploitable_check(options.fadj) end}
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:259
 msgctxt "demon_names"
 msgid "brutes"
-msgstr ""
+msgstr "brutálové"
 
 #. {name="brute",names="brutes",name_adj="brutish",cond=function(options)
 #. return adj_exploitable_check(options.fadj) end}
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:259
 msgctxt "demon_names"
 msgid "brutish"
-msgstr ""
+msgstr "brutální"
 
 #. {name="monster",names="monsters",name_adj="monster",cond=function(options)
 #. return true end}
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:260
 msgctxt "demon_names"
 msgid "monster"
-msgstr ""
+msgstr "monstrum"
 
 #. {name="monster",names="monsters",name_adj="monster",cond=function(options)
 #. return true end}
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:260
 msgctxt "demon_names"
 msgid "monsters"
-msgstr ""
+msgstr "monstra"
 
 #. {name="spirit",names="spirits",name_adj="spirit",cond=function(options)
 #. return options.intangible end}
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:261
 msgctxt "demon_names"
 msgid "spirit"
-msgstr ""
+msgstr "duch"
 
 #. {name="spirit",names="spirits",name_adj="spirit",cond=function(options)
 #. return options.intangible end}
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:261
 msgctxt "demon_names"
 msgid "spirits"
-msgstr ""
+msgstr "duchové"
 
 #. {name="ghost",names="ghosts",name_adj="ghost",cond=function(options) return
 #. options.intangible end}
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:262
 msgctxt "demon_names"
 msgid "ghost"
-msgstr ""
+msgstr "přízrak"
 
 #. {name="ghost",names="ghosts",name_adj="ghost",cond=function(options) return
 #. options.intangible end}
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:262
 msgctxt "demon_names"
 msgid "ghosts"
-msgstr ""
+msgstr "přízraky"
 
 #. {name="banshee",names="banshees",name_adj="banshee",cond=function(options)
 #. return options.intangible end}
@@ -5348,56 +5348,56 @@ msgstr "banshee"
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:264
 msgctxt "demon_names"
 msgid "haunt"
-msgstr ""
+msgstr "strašidlo"
 
 #. {name="haunt",names="haunts",name_adj="haunt",cond=function(options) return
 #. options.intangible end}
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:264
 msgctxt "demon_names"
 msgid "haunts"
-msgstr ""
+msgstr "strašidla"
 
 #. {name="phantom",names="phantoms",name_adj="phantom",cond=function(options)
 #. return options.intangible end}
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:265
 msgctxt "demon_names"
 msgid "phantom"
-msgstr ""
+msgstr "fantom"
 
 #. {name="phantom",names="phantoms",name_adj="phantom",cond=function(options)
 #. return options.intangible end}
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:265
 msgctxt "demon_names"
 msgid "phantoms"
-msgstr ""
+msgstr "fantomové"
 
 #. {name="specter",names="specters",name_adj="specter",cond=function(options)
 #. return options.intangible end}
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:266
 msgctxt "demon_names"
 msgid "specter"
-msgstr ""
+msgstr "syčivý přízrak"
 
 #. {name="specter",names="specters",name_adj="specter",cond=function(options)
 #. return options.intangible end}
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:266
 msgctxt "demon_names"
 msgid "specters"
-msgstr ""
+msgstr "syčivé přízraky"
 
 #. {name="wraith",names="wraiths",name_adj="wraith",cond=function(options)
 #. return options.intangible end}
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:267
 msgctxt "demon_names"
 msgid "wraith"
-msgstr ""
+msgstr "stín"
 
 #. {name="wraith",names="wraiths",name_adj="wraith",cond=function(options)
 #. return options.intangible end}
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:267
 msgctxt "demon_names"
 msgid "wraiths"
-msgstr ""
+msgstr "stíny"
 
 #. forced_odor_string="brimstone"
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:283
@@ -5407,12 +5407,12 @@ msgstr "síra"
 #. sickness_name="demon sickness"
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:285
 msgid "demon sickness"
-msgstr ""
+msgstr "démonická nemoc"
 
 #. options.fallback_pref_str="horrifying features"
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:334
 msgid "horrifying features"
-msgstr ""
+msgstr "děsivé rysy"
 
 #. name_str=name.name.." of "..nmm..":"..name.names.." of
 #. "..nmm..":"..name.name.." of "..nmm
@@ -5424,7 +5424,7 @@ msgstr ""
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:1464
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:2067
 msgid " of "
-msgstr " z "
+msgstr " z"
 
 #. end_phrase="Now you will know why you fear the night."
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:523
@@ -5436,49 +5436,49 @@ msgstr "Nyní poznáš, proč se bojíš noci."
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:524
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:1284
 msgid "night sickness"
-msgstr ""
+msgstr "noční nemoc"
 
 #. {name="troll",names="trolls",name_adj="troll",cond=function(options) return
 #. true end}
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:541
 msgctxt "night_troll_names"
 msgid "troll"
-msgstr ""
+msgstr "trol"
 
 #. {name="troll",names="trolls",name_adj="troll",cond=function(options) return
 #. true end}
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:541
 msgctxt "night_troll_names"
 msgid "trolls"
-msgstr ""
+msgstr "trolové"
 
 #. {name="man",names="men",name_adj="man",cond=function(options) return
 #. adj_exploitable_check(options.fadj) and options.is_male_version end}
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:542
 msgctxt "night_troll_names"
 msgid "man"
-msgstr ""
+msgstr "muž"
 
 #. {name="man",names="men",name_adj="man",cond=function(options) return
 #. adj_exploitable_check(options.fadj) and options.is_male_version end}
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:542
 msgctxt "night_troll_names"
 msgid "men"
-msgstr ""
+msgstr "muži"
 
 #. {name="woman",names="women",name_adj="woman",cond=function(options) return
 #. adj_exploitable_check(options.fadj) and not options.is_male_version end}
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:543
 msgctxt "night_troll_names"
 msgid "woman"
-msgstr ""
+msgstr "žena"
 
 #. {name="woman",names="women",name_adj="woman",cond=function(options) return
 #. adj_exploitable_check(options.fadj) and not options.is_male_version end}
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:543
 msgctxt "night_troll_names"
 msgid "women"
-msgstr ""
+msgstr "ženy"
 
 #. {name="brute",names="brutes",name_adj="brutish",cond=function(options)
 #. return options.is_male_version and options.night_creature_strength_pref and
@@ -5486,7 +5486,7 @@ msgstr ""
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:544
 msgctxt "night_troll_names"
 msgid "brute"
-msgstr ""
+msgstr "brutál"
 
 #. {name="brute",names="brutes",name_adj="brutish",cond=function(options)
 #. return options.is_male_version and options.night_creature_strength_pref and
@@ -5494,7 +5494,7 @@ msgstr ""
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:544
 msgctxt "night_troll_names"
 msgid "brutes"
-msgstr ""
+msgstr "brutálové"
 
 #. {name="brute",names="brutes",name_adj="brutish",cond=function(options)
 #. return options.is_male_version and options.night_creature_strength_pref and
@@ -5502,77 +5502,77 @@ msgstr ""
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:544
 msgctxt "night_troll_names"
 msgid "brutish"
-msgstr ""
+msgstr "brutální"
 
 #. {name="hag",names="hags",name_adj="hag",cond=function(options) return not
 #. options.is_male_version end}
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:545
 msgctxt "night_troll_names"
 msgid "hag"
-msgstr ""
+msgstr "ježibaba"
 
 #. {name="hag",names="hags",name_adj="hag",cond=function(options) return not
 #. options.is_male_version end}
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:545
 msgctxt "night_troll_names"
 msgid "hags"
-msgstr ""
+msgstr "ježibaby"
 
 #. {name="crone",names="crones",name_adj="crone",cond=function(options) return
 #. not options.is_male_version end}
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:546
 msgctxt "night_troll_names"
 msgid "crone"
-msgstr ""
+msgstr "stařena"
 
 #. {name="crone",names="crones",name_adj="crone",cond=function(options) return
 #. not options.is_male_version end}
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:546
 msgctxt "night_troll_names"
 msgid "crones"
-msgstr ""
+msgstr "stařeny"
 
 #. {name="monster",names="monsters",name_adj="monster",cond=function(options)
 #. return true end}
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:547
 msgctxt "night_troll_names"
 msgid "monster"
-msgstr ""
+msgstr "monstrum"
 
 #. {name="monster",names="monsters",name_adj="monster",cond=function(options)
 #. return true end}
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:547
 msgctxt "night_troll_names"
 msgid "monsters"
-msgstr ""
+msgstr "monstra"
 
 #. {name="creature",names="creatures",name_adj="creature",cond=function(options)
 #. return true end}
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:548
 msgctxt "night_troll_names"
 msgid "creature"
-msgstr ""
+msgstr "tvor"
 
 #. {name="creature",names="creatures",name_adj="creature",cond=function(options)
 #. return true end}
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:548
 msgctxt "night_troll_names"
 msgid "creatures"
-msgstr ""
+msgstr "tvorové"
 
 #. {name="ogre",names="ogres",name_adj="ogre",cond=function(options) return
 #. options.night_creature_strength_pref and options.is_male_version end}
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:549
 msgctxt "night_troll_names"
 msgid "ogre"
-msgstr ""
+msgstr "obr"
 
 #. {name="ogre",names="ogres",name_adj="ogre",cond=function(options) return
 #. options.night_creature_strength_pref and options.is_male_version end}
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:549
 msgctxt "night_troll_names"
 msgid "ogres"
-msgstr ""
+msgstr "obři"
 
 #. {name="ogress",names="ogresses",name_adj="ogress",cond=function(options)
 #. return options.night_creature_strength_pref and not options.is_male_version
@@ -5580,7 +5580,7 @@ msgstr ""
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:550
 msgctxt "night_troll_names"
 msgid "ogress"
-msgstr ""
+msgstr "obryně"
 
 #. {name="ogress",names="ogresses",name_adj="ogress",cond=function(options)
 #. return options.night_creature_strength_pref and not options.is_male_version
@@ -5588,28 +5588,28 @@ msgstr ""
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:550
 msgctxt "night_troll_names"
 msgid "ogresses"
-msgstr ""
+msgstr "obryně"
 
 #. {name="freak",names="freak",name_adj="freak",cond=function(options) return
 #. adj_exploitable_check(options.fadj) end}
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:551
 msgctxt "night_troll_names"
 msgid "freak"
-msgstr ""
+msgstr "zrůda"
 
 #. {name="horror",names="horrors",name_adj="horror",cond=function(options)
 #. return true end}
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:552
 msgctxt "night_troll_names"
 msgid "horror"
-msgstr ""
+msgstr "hrůza"
 
 #. {name="horror",names="horrors",name_adj="horror",cond=function(options)
 #. return true end}
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:552
 msgctxt "night_troll_names"
 msgid "horrors"
-msgstr ""
+msgstr "hrůzy"
 
 #. "night"
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:556
@@ -5633,7 +5633,7 @@ msgstr "stín"
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:559
 msgctxt "night_troll_flavor_adjs"
 msgid "midnight"
-msgstr ""
+msgstr "půlnoc"
 
 #. "dusk"
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:560
@@ -5645,7 +5645,7 @@ msgstr "soumrak"
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:561
 msgctxt "night_troll_flavor_adjs"
 msgid "vile"
-msgstr ""
+msgstr "odporný"
 
 #. "wicked"
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:562
@@ -5669,31 +5669,31 @@ msgstr "měsíc"
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:565
 msgctxt "night_troll_flavor_adjs"
 msgid "gloom"
-msgstr ""
+msgstr "šero"
 
 #. "bleak"
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:566
 msgctxt "night_troll_flavor_adjs"
 msgid "bleak"
-msgstr ""
+msgstr "pochmurný"
 
 #. add="it mutters to itself as it moves aimlessly"
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:571
 msgctxt "night_troll_flavor"
 msgid "it mutters to itself as it moves aimlessly"
-msgstr ""
+msgstr "pobrukuje si, když se bezcílně pohybuje"
 
 #. flavor_adj={"muttering","grumbling","whispering","brooding"}
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:572
 msgctxt "night_troll_flavor"
 msgid "muttering"
-msgstr ""
+msgstr "mumlavý"
 
 #. flavor_adj={"muttering","grumbling","whispering","brooding"}
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:572
 msgctxt "night_troll_flavor"
 msgid "grumbling"
-msgstr ""
+msgstr "bručivý"
 
 #. flavor_adj={"muttering","grumbling","whispering","brooding"}
 #. flavor_adj={"groaning","moaning","whispering","brooding"}
@@ -5709,127 +5709,127 @@ msgstr "šeptající"
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:576
 msgctxt "night_troll_flavor"
 msgid "brooding"
-msgstr ""
+msgstr "zasmušilý"
 
 #. add="it groans from time to time"
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:575
 msgctxt "night_troll_flavor"
 msgid "it groans from time to time"
-msgstr ""
+msgstr "čas od času sténá"
 
 #. flavor_adj={"groaning","moaning","whispering","brooding"}
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:576
 msgctxt "night_troll_flavor"
 msgid "groaning"
-msgstr ""
+msgstr "stenající"
 
 #. flavor_adj={"groaning","moaning","whispering","brooding"}
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:576
 msgctxt "night_troll_flavor"
 msgid "moaning"
-msgstr ""
+msgstr "naříkající"
 
 #. add="it howls into high winds"
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:579
 msgctxt "night_troll_flavor"
 msgid "it howls into high winds"
-msgstr ""
+msgstr "vyje do silného větru"
 
 #. flavor_adj={"screaming","howling","baying","bellowing","shrieking","wailing"}
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:580
 msgctxt "night_troll_flavor"
 msgid "screaming"
-msgstr ""
+msgstr "křičící"
 
 #. flavor_adj={"screaming","howling","baying","bellowing","shrieking","wailing"}
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:580
 msgctxt "night_troll_flavor"
 msgid "howling"
-msgstr ""
+msgstr "vyjící"
 
 #. flavor_adj={"screaming","howling","baying","bellowing","shrieking","wailing"}
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:580
 msgctxt "night_troll_flavor"
 msgid "baying"
-msgstr ""
+msgstr "štěkající"
 
 #. flavor_adj={"screaming","howling","baying","bellowing","shrieking","wailing"}
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:580
 msgctxt "night_troll_flavor"
 msgid "bellowing"
-msgstr ""
+msgstr "řvoucí"
 
 #. flavor_adj={"screaming","howling","baying","bellowing","shrieking","wailing"}
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:580
 msgctxt "night_troll_flavor"
 msgid "shrieking"
-msgstr ""
+msgstr "ječící"
 
 #. flavor_adj={"screaming","howling","baying","bellowing","shrieking","wailing"}
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:580
 msgctxt "night_troll_flavor"
 msgid "wailing"
-msgstr ""
+msgstr "kvílící"
 
 #. add="it shambles sluggishly"
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:585
 msgctxt "night_troll_strength_flavor"
 msgid "it shambles sluggishly"
-msgstr ""
+msgstr "vláčí se pomalu"
 
 #. add="it stamps the ground and snorts"
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:589
 msgctxt "night_troll_strength_flavor"
 msgid "it stamps the ground and snorts"
-msgstr ""
+msgstr "dupe do země a frká"
 
 #. add="it has a bloated body"
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:593
 msgctxt "night_troll_strength_flavor"
 msgid "it has a bloated body"
-msgstr ""
+msgstr "má nafouklé tělo"
 
 #. flavor_adj={"bloated"}
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:594
 msgctxt "night_troll_strength_flavor"
 msgid "bloated"
-msgstr ""
+msgstr "nafouklý"
 
 #. add="it lumbers along steadily from place to place"
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:597
 msgctxt "night_troll_strength_flavor"
 msgid "it lumbers along steadily from place to place"
-msgstr ""
+msgstr "těžkopádně se přesouvá z místa na místo"
 
 #. add="its joints are backward"
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:603
 msgctxt "night_troll_agile_flavor"
 msgid "its joints are backward"
-msgstr ""
+msgstr "má obrácené klouby"
 
 #. flavor_adj={"backward"}
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:604
 msgctxt "night_troll_agile_flavor"
 msgid "backward"
-msgstr ""
+msgstr "obrácený"
 
 #. add="it moves with uneven jerking motions"
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:607
 msgctxt "night_troll_agile_flavor"
 msgid "it moves with uneven jerking motions"
-msgstr ""
+msgstr "pohybuje se trhaně a nerovnoměrně"
 
 #. add="its limbs jut out at asymmetric angles"
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:611
 msgctxt "night_troll_agile_flavor"
 msgid "its limbs jut out at asymmetric angles"
-msgstr ""
+msgstr "jeho končetiny trčí v asymetrických úhlech"
 
 #. flavor_adj={"crooked","twisted"}
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:612
 msgctxt "night_troll_agile_flavor"
 msgid "crooked"
-msgstr ""
+msgstr "křivý"
 
 #. flavor_adj={"crooked","twisted"}
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:612
@@ -5841,25 +5841,25 @@ msgstr "zkroucený"
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:615
 msgctxt "night_troll_agile_flavor"
 msgid "it lopes quickly along the ground"
-msgstr ""
+msgstr "rychle kluše po zemi"
 
 #. add="it strides in silence with purpose"
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:619
 msgctxt "night_troll_agile_flavor"
 msgid "it strides in silence with purpose"
-msgstr ""
+msgstr "kráčí tiše a záměrně"
 
 #. "bug innards"
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:625
 msgctxt "night_troll_smells"
 msgid "bug innards"
-msgstr ""
+msgstr "hmyzí vnitřnosti"
 
 #. "cooked flesh"
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:626
 msgctxt "night_troll_smells"
 msgid "cooked flesh"
-msgstr ""
+msgstr "vařené maso"
 
 #. "death"
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:627
@@ -5870,7 +5870,7 @@ msgstr "smrt"
 #. fallback_pref_str="macabre ways"
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:637
 msgid "macabre ways"
-msgstr ""
+msgstr "makabrózní způsoby"
 
 #. name_string="humanoid"
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:736
@@ -5883,12 +5883,12 @@ msgstr "humanoid"
 #. options.flavor_adj[#options.flavor_adj+1]="lumbering"
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:785
 msgid "lumbering"
-msgstr ""
+msgstr "těžkopádný"
 
 #. options.flavor_adj[#options.flavor_adj+1]="hulking"
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:786
 msgid "hulking"
-msgstr ""
+msgstr "mohutný"
 
 #. options.flavor_adj[#options.flavor_adj+1]="narrow"
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:789
@@ -5898,231 +5898,231 @@ msgstr "úzký"
 #. options.flavor_adj[#options.flavor_adj+1]="starved"
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:790
 msgid "starved"
-msgstr ""
+msgstr "vyhladovělý"
 
 #. options.flavor_adj[#options.flavor_adj+1]="emaciated"
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:791
 msgid "emaciated"
-msgstr ""
+msgstr "vychrtlý"
 
 #. " of the night"
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:800
 msgid " of the night"
-msgstr ""
+msgstr " noci"
 
 #. " of evil"
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:801
 msgid " of evil"
-msgstr ""
+msgstr " zla"
 
 #. " of twilight"
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:802
 msgid " of twilight"
-msgstr ""
+msgstr " soumraku"
 
 #. " of shadow"
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:803
 msgid " of shadow"
-msgstr ""
+msgstr " stínu"
 
 #. {"spouse","spouses"}
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:821
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:828
 msgid "spouse"
-msgstr ""
+msgstr "partner"
 
 #. {"spouse","spouses"}
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:821
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:828
 msgid "spouses"
-msgstr ""
+msgstr "partneři"
 
 #. {"mate","mates"}
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:822
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:829
 msgid "mate"
-msgstr ""
+msgstr "druh"
 
 #. {"mate","mates"}
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:822
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:829
 msgid "mates"
-msgstr ""
+msgstr "druhové"
 
 #. {"consort","consorts"}
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:823
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:830
 msgid "consort"
-msgstr ""
+msgstr "choť"
 
 #. {"consort","consorts"}
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:823
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:830
 msgid "consorts"
-msgstr ""
+msgstr "choti"
 
 #. {"wife","wives"}
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:824
 msgid "wife"
-msgstr ""
+msgstr "manželka"
 
 #. {"wife","wives"}
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:824
 msgid "wives"
-msgstr ""
+msgstr "manželky"
 
 #. {"bride","brides"}
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:825
 msgid "bride"
-msgstr ""
+msgstr "nevěsta"
 
 #. {"bride","brides"}
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:825
 msgid "brides"
-msgstr ""
+msgstr "nevěsty"
 
 #. {"husband","husbands"}
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:831
 msgid "husband"
-msgstr ""
+msgstr "manžel"
 
 #. {"husband","husbands"}
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:831
 msgid "husbands"
-msgstr ""
+msgstr "manželé"
 
 #. {"bridegroom","bridegrooms"}
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:832
 msgid "bridegroom"
-msgstr ""
+msgstr "ženich"
 
 #. {"bridegroom","bridegrooms"}
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:832
 msgid "bridegrooms"
-msgstr ""
+msgstr "ženíchové"
 
 #. {"groom","grooms"}
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:833
 msgid "groom"
-msgstr ""
+msgstr "ženich"
 
 #. {"groom","grooms"}
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:833
 msgid "grooms"
-msgstr ""
+msgstr "ženíchové"
 
 #. cstr=sn.." of the "..options.fadj.." "..name.name..":"..sns.." of the
 #. "..options.fadj.." "..name.name..":"..sn.." of the "..options.fadj.."
 #. "..name.name_adj
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:849
 msgid " of the "
-msgstr ""
+msgstr " z"
 
 #. fallback_pref_str="terror-inspiring antics"
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:879
 msgid "terror-inspiring antics"
-msgstr ""
+msgstr "děsivé posunky"
 
 #. return "it hurls vicious insults constantly"
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:948
 msgid "it hurls vicious insults constantly"
-msgstr ""
+msgstr "neustále chrlí zlé urážky"
 
 #. local name_str="bogeyman:bogeymen:bogeyman]"
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:952
 msgid "bogeyman:bogeymen:bogeyman]"
-msgstr ""
+msgstr "strašák:strašáci:strašák]"
 
 #. fallback_pref_str="unfathomably horrifying nature"
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:976
 msgid "unfathomably horrifying nature"
-msgstr ""
+msgstr "nepochopitelně děsivá povaha"
 
 #. return "with singular purpose it seeks to destroy the living"
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:1036
 msgid "with singular purpose it seeks to destroy the living"
-msgstr ""
+msgstr "s jednotným cílem usiluje o zničení živých"
 
 #. local name_str="nightmare:nightmares:nightmare]"
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:1040
 msgid "nightmare:nightmares:nightmare]"
-msgstr ""
+msgstr "noční můra:noční můry:noční můra]"
 
 #. lines[#lines+1]="[IS_HIST_STRING_2: to assume the form of a "..name.."-like
 #. monster every full moon"
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:1067
 msgid "-like monster every full moon"
-msgstr ""
+msgstr "-podobná nestvůra každý úplněk"
 
 #. lines[#lines+1]="[IS_TRIGGER_STRING:been cursed to assume the form of a
 #. "..name.."-like monster every fool moon!"
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:1070
 msgid "-like monster every fool moon!"
-msgstr ""
+msgstr "-podobná nestvůra každý bláznivý měsíc!"
 
 #. lines[#lines+1]="[IS_HIST_STRING_2: passing on the "..name.." monster
 #. curse"
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:1100
 msgid " monster curse"
-msgstr ""
+msgstr " kletba nestvůry"
 
 #. return "it is crazed for blood and flesh"
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:1238
 msgid "it is crazed for blood and flesh"
-msgstr ""
+msgstr "šílí po krvi a mase"
 
 #. local
 #. name_str="were"..rcp.name_string..":were"..rcp.name_string.."s:were"..rcp.name_string.."]"
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:1242
 msgid "were"
-msgstr ""
+msgstr "vlkodlak"
 
 #. local
 #. name_str="were"..rcp.name_string..":were"..rcp.name_string.."s:were"..rcp.name_string.."]"
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:1242
 msgid ":were"
-msgstr ""
+msgstr ":vlkodlak"
 
 #. local
 #. name_str="were"..rcp.name_string..":were"..rcp.name_string.."s:were"..rcp.name_string.."]"
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:1242
 msgid "s:were"
-msgstr ""
+msgstr "s:vlkodlak"
 
 #. options.pref_str=options.pref_str or {"unsettling origin"}
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:1285
 msgid "unsettling origin"
-msgstr ""
+msgstr "znepokojivý původ"
 
 #. add_desc(" This night creature was first created ")
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:1314
 msgid " This night creature was first created "
-msgstr " Tato noční bytost byla poprvé stvořena "
+msgstr " Tato noční bytost byla poprvé stvořena"
 
 #. add_desc("accidentally ")
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:1316
 msgid "accidentally "
-msgstr ""
+msgstr "náhodně"
 
 #. add_desc("by the ")
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:1318
 msgid "by the "
-msgstr ""
+msgstr "od"
 
 #. add_desc(" through the fiend's terrifying power")
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:1333
 msgid " through the fiend's terrifying power"
-msgstr ""
+msgstr " skrze strašlivou moc zlého ducha"
 
 #. add_desc(" through the fiend's twisted power")
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:1335
 msgid " through the fiend's twisted power"
-msgstr ""
+msgstr " skrze pokřivenou moc zlého ducha"
 
 #. add_desc(" through the fiend's chaotic power")
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:1337
 msgid " through the fiend's chaotic power"
-msgstr ""
+msgstr " skrze chaotickou moc zlého ducha"
 
 #. add_desc(" after horrible experiments")
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:1339
@@ -6137,152 +6137,152 @@ msgstr " které se zvrtly"
 #. if deformity or chaos then add_desc(" unleashed upon ")
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:1345
 msgid " unleashed upon "
-msgstr ""
+msgstr " vypuštěná na"
 
 #. else add_desc(" on ")
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:1346
 msgid " on "
-msgstr ""
+msgstr " na"
 
 #. if options.amalgam_experiment then add_desc("multitudes")
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:1348
 msgid "multitudes"
-msgstr ""
+msgstr "zástupy"
 
 #. add_desc("the ")
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:1350
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:1929
 msgid "the "
-msgstr ""
+msgstr "the"
 
 #. else add_desc("an unknown creature")
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:1360
 msgid "an unknown creature"
-msgstr ""
+msgstr "neznámý tvor"
 
 #. add_desc(" in "..ropar.experimenter_create_st.name.translated)
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:1367
 msgid " in "
-msgstr " v "
+msgstr " v"
 
 #. add_desc(" in the year "..tostring(world.year)..".")
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:1369
 msgid " in the year "
-msgstr " v roce "
+msgstr " v roce"
 
 #. {"hand","hands"}
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:1377
 msgctxt "humanoid"
 msgid "hand"
-msgstr ""
+msgstr "ruka"
 
 #. {"hand","hands"}
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:1377
 msgctxt "humanoid"
 msgid "hands"
-msgstr ""
+msgstr "ruce"
 
 #. {"demon","demons"}
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:1378
 msgctxt "humanoid"
 msgid "demon"
-msgstr ""
+msgstr "démon"
 
 #. {"demon","demons"}
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:1378
 msgctxt "humanoid"
 msgid "demons"
-msgstr ""
+msgstr "démoni"
 
 #. {"warrior","warriors"}
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:1379
 msgctxt "humanoid"
 msgid "warrior"
-msgstr ""
+msgstr "válečník"
 
 #. {"warrior","warriors"}
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:1379
 msgctxt "humanoid"
 msgid "warriors"
-msgstr ""
+msgstr "válečníci"
 
 #. {"soldier","soldiers"}
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:1380
 msgctxt "humanoid"
 msgid "soldier"
-msgstr ""
+msgstr "voják"
 
 #. {"soldier","soldiers"}
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:1380
 msgctxt "humanoid"
 msgid "soldiers"
-msgstr ""
+msgstr "vojáci"
 
 #. {"fist","fists"}
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:1381
 msgctxt "humanoid"
 msgid "fist"
-msgstr ""
+msgstr "pěst"
 
 #. {"fist","fists"}
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:1381
 msgctxt "humanoid"
 msgid "fists"
-msgstr ""
+msgstr "pěsti"
 
 #. {"eye","eyes"}
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:1382
 msgctxt "humanoid"
 msgid "eye"
-msgstr ""
+msgstr "oko"
 
 #. {"eye","eyes"}
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:1382
 msgctxt "humanoid"
 msgid "eyes"
-msgstr ""
+msgstr "oči"
 
 #. {"giant","giants"}
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:1385
 msgctxt "humanoid_giant"
 msgid "giant"
-msgstr ""
+msgstr "obr"
 
 #. {"giant","giants"}
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:1385
 msgctxt "humanoid_giant"
 msgid "giants"
-msgstr ""
+msgstr "obři"
 
 #. {"hulk","hulks"}
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:1386
 msgctxt "humanoid_giant"
 msgid "hulk"
-msgstr ""
+msgstr "obrovska masa"
 
 #. {"hulk","hulks"}
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:1386
 msgctxt "humanoid_giant"
 msgid "hulks"
-msgstr ""
+msgstr "obrovské masy"
 
 #. {"tower","towers"}
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:1387
 msgctxt "humanoid_giant"
 msgid "tower"
-msgstr ""
+msgstr "věž"
 
 #. {"tower","towers"}
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:1387
 msgctxt "humanoid_giant"
 msgid "towers"
-msgstr ""
+msgstr "věže"
 
 #. {"mountain","mountains"}
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:1388
 msgctxt "humanoid_giant"
 msgid "mountain"
-msgstr ""
+msgstr "hora"
 
 #. {"mountain","mountains"}
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:1388
@@ -6294,25 +6294,25 @@ msgstr "hory"
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:1391
 msgctxt "beast_small"
 msgid "dog"
-msgstr ""
+msgstr "pes"
 
 #. {"dog","dogs"}
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:1391
 msgctxt "beast_small"
 msgid "dogs"
-msgstr ""
+msgstr "psi"
 
 #. {"hound","hounds"}
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:1392
 msgctxt "beast_small"
 msgid "hound"
-msgstr ""
+msgstr "lovecký pes"
 
 #. {"hound","hounds"}
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:1392
 msgctxt "beast_small"
 msgid "hounds"
-msgstr ""
+msgstr "lovečtí psi"
 
 #. {"wolf","wolves"}
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:1393
@@ -6324,7 +6324,7 @@ msgstr "vlk"
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:1393
 msgctxt "beast_small"
 msgid "wolves"
-msgstr ""
+msgstr "vlci"
 
 #. {"beast","beasts"}
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:1396
@@ -6336,73 +6336,73 @@ msgstr "bestie"
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:1396
 msgctxt "beast_large"
 msgid "beasts"
-msgstr ""
+msgstr "bestie"
 
 #. {"monster","monsters"}
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:1397
 msgctxt "beast_large"
 msgid "monster"
-msgstr ""
+msgstr "monstrum"
 
 #. {"monster","monsters"}
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:1397
 msgctxt "beast_large"
 msgid "monsters"
-msgstr ""
+msgstr "monstra"
 
 #. {"creature","creatures"}
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:1398
 msgctxt "beast_large"
 msgid "creature"
-msgstr ""
+msgstr "tvor"
 
 #. {"creature","creatures"}
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:1398
 msgctxt "beast_large"
 msgid "creatures"
-msgstr ""
+msgstr "tvorové"
 
 #. {"mistake","mistakes"}
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:1401
 msgctxt "failed_small"
 msgid "mistake"
-msgstr ""
+msgstr "chyba"
 
 #. {"mistake","mistakes"}
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:1401
 msgctxt "failed_small"
 msgid "mistakes"
-msgstr ""
+msgstr "chyby"
 
 #. {"folly","follies"}
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:1402
 msgctxt "failed_small"
 msgid "folly"
-msgstr ""
+msgstr "pošetilost"
 
 #. {"folly","follies"}
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:1402
 msgctxt "failed_small"
 msgid "follies"
-msgstr ""
+msgstr "pošetilosti"
 
 #. {"experiment","experiments"}
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:1403
 msgctxt "failed_small"
 msgid "experiment"
-msgstr ""
+msgstr "experiment"
 
 #. {"experiment","experiments"}
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:1403
 msgctxt "failed_small"
 msgid "experiments"
-msgstr ""
+msgstr "experimenty"
 
 #. {"nightmare","nightmares"}
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:1406
 msgctxt "failed_large"
 msgid "nightmare"
-msgstr ""
+msgstr "noční můra"
 
 #. {"nightmare","nightmares"}
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:1406
@@ -6414,37 +6414,37 @@ msgstr "noční můry"
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:1407
 msgctxt "failed_large"
 msgid "catastrophe"
-msgstr ""
+msgstr "katastrofa"
 
 #. {"catastrophe","catastrophes"}
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:1407
 msgctxt "failed_large"
 msgid "catastrophes"
-msgstr ""
+msgstr "katastrofy"
 
 #. {"disaster","disasters"}
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:1408
 msgctxt "failed_large"
 msgid "disaster"
-msgstr ""
+msgstr "neštěstí"
 
 #. {"disaster","disasters"}
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:1408
 msgctxt "failed_large"
 msgid "disasters"
-msgstr ""
+msgstr "neštěstí"
 
 #. deformity_chaos={"horror"}
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:1414
 msgctxt "experiment_random_names"
 msgid "horror"
-msgstr ""
+msgstr "hrůza"
 
 #. deformity={"misfortune"}
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:1415
 msgctxt "experiment_random_names"
 msgid "misfortune"
-msgstr ""
+msgstr "smůla"
 
 #. chaos={"chaos"}
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:1416
@@ -6464,7 +6464,7 @@ msgstr "noc"
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:1461
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:2064
 msgid "'s "
-msgstr ""
+msgstr "’s"
 
 #. name_string="quadruped"
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:1591
@@ -6476,7 +6476,7 @@ msgstr "čtyřnožec"
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:1597
 msgctxt "beast_experiment_rcps"
 msgid "hexapod"
-msgstr ""
+msgstr "šestinožec"
 
 #. name_string="spider"
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:1602
@@ -6494,19 +6494,19 @@ msgstr "štír"
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:1614
 msgctxt "beast_experiment_rcps"
 msgid "decapod"
-msgstr ""
+msgstr "desetinožec"
 
 #. name_string="octopod"
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:1619
 msgctxt "beast_experiment_rcps"
 msgid "octopod"
-msgstr ""
+msgstr "osminožec"
 
 #. name_string="primate"
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:1624
 msgctxt "beast_experiment_rcps"
 msgid "primate"
-msgstr ""
+msgstr "primát"
 
 #. name_string="blob"
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:1699
@@ -6524,183 +6524,183 @@ msgstr "larva"
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:1709
 msgctxt "failed_experiment_rcps"
 msgid "worm"
-msgstr ""
+msgstr "červ"
 
 #. name_string="wyrm"
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:1714
 msgctxt "failed_experiment_rcps"
 msgid "wyrm"
-msgstr ""
+msgstr "wyrm"
 
 #. name_string="snake"
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:1719
 msgctxt "failed_experiment_rcps"
 msgid "snake"
-msgstr ""
+msgstr "had"
 
 #. name_string="armless biped"
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:1724
 msgctxt "failed_experiment_rcps"
 msgid "armless biped"
-msgstr ""
+msgstr "dvounožec bez rukou"
 
 #. AGRICULTURE={add="it looks constantly to the sky for rain"}
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:1791
 msgctxt "sphere_flavor"
 msgid "it looks constantly to the sky for rain"
-msgstr ""
+msgstr "neustále vzhlíží k nebi kvůli dešti"
 
 #. ANIMALS={add="it growls, buzzes, clicks and generally makes a varied
 #. racket"}
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:1792
 msgctxt "sphere_flavor"
 msgid "it growls, buzzes, clicks and generally makes a varied racket"
-msgstr ""
+msgstr "vrčí, bzučí, cvaká a celkově vydává různé kravály"
 
 #. ART={add="it is decorated with intricate patterns"}
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:1793
 msgctxt "sphere_flavor"
 msgid "it is decorated with intricate patterns"
-msgstr ""
+msgstr "je ozdoben složitými vzory"
 
 #. BALANCE={add="it is perfectly symmetric"}
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:1794
 msgctxt "sphere_flavor"
 msgid "it is perfectly symmetric"
-msgstr ""
+msgstr "je dokonale symetrický"
 
 #. BEAUTY={add="it is strikingly beautiful"}
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:1795
 msgctxt "sphere_flavor"
 msgid "it is strikingly beautiful"
-msgstr ""
+msgstr "je nápadně krásný"
 
 #. BIRTH={add="it is covered with a filmy sac"}
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:1796
 msgctxt "sphere_flavor"
 msgid "it is covered with a filmy sac"
-msgstr ""
+msgstr "je pokryt tenkou blánou"
 
 #. BLIGHT={add="nearby vegetation seem to shrink away from it"}
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:1797
 msgctxt "sphere_flavor"
 msgid "nearby vegetation seem to shrink away from it"
-msgstr ""
+msgstr "okolní vegetace se před ním zdánlivě stahuje"
 
 #. BOUNDARIES={add="the pieces of its body are carefully separated by
 #. markings"}
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:1798
 msgctxt "sphere_flavor"
 msgid "the pieces of its body are carefully separated by markings"
-msgstr ""
+msgstr "části jeho těla jsou pečlivě odděleny značkami"
 
 #. CAVERNS={add="its moans seem to echo no matter where it resides"}
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:1799
 msgctxt "sphere_flavor"
 msgid "its moans seem to echo no matter where it resides"
-msgstr ""
+msgstr "jeho sténání se zdá znít ozvěnou všude, kde se nachází"
 
 #. CHAOS={add="it spins wildly, lurching and howling"}
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:1800
 msgctxt "sphere_flavor"
 msgid "it spins wildly, lurching and howling"
-msgstr ""
+msgstr "divoce se otáčí, potácí a vyje"
 
 #. CHARITY={add="it seems very pleasant"}
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:1801
 msgctxt "sphere_flavor"
 msgid "it seems very pleasant"
-msgstr ""
+msgstr "zdá se velmi příjemný"
 
 #. CHILDREN={add="it never misses an opportunity to jump in puddles"}
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:1802
 msgctxt "sphere_flavor"
 msgid "it never misses an opportunity to jump in puddles"
-msgstr ""
+msgstr "nikdy nepropásne příležitost skočit do louže"
 
 #. COASTS={add="it appears to be covered with rocky crags"}
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:1803
 msgctxt "sphere_flavor"
 msgid "it appears to be covered with rocky crags"
-msgstr ""
+msgstr "zdá se být pokryt skalními výčnělky"
 
 #. CONSOLATION={add="it radiates a sad kindness"}
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:1804
 msgctxt "sphere_flavor"
 msgid "it radiates a sad kindness"
-msgstr ""
+msgstr "vyzařuje smutnou laskavost"
 
 #. COURAGE={add="it makes those around it feel brave"}
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:1805
 msgctxt "sphere_flavor"
 msgid "it makes those around it feel brave"
-msgstr ""
+msgstr "dodává odvahu těm kolem něj"
 
 #. CRAFTS={add="it appears constructed"}
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:1806
 msgctxt "sphere_flavor"
 msgid "it appears constructed"
-msgstr ""
+msgstr "působí uměle vytvořeně"
 
 #. CREATION={add="small objects seem to pop into existence around it"}
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:1807
 msgctxt "sphere_flavor"
 msgid "small objects seem to pop into existence around it"
-msgstr ""
+msgstr "kolem něj se zdánlivě objevují malé předměty"
 
 #. DANCE={add="it whirls, skips and jumps whenever it moves"}
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:1808
 msgctxt "sphere_flavor"
 msgid "it whirls, skips and jumps whenever it moves"
-msgstr ""
+msgstr "při pohybu se točí, poskakuje a skáče"
 
 #. DARKNESS={add="it is difficult to see clearly even in bright light"}
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:1809
 msgctxt "sphere_flavor"
 msgid "it is difficult to see clearly even in bright light"
-msgstr ""
+msgstr "je těžké jej jasně vidět i na ostrém světle"
 
 #. DAWN={add="it always turns to welcome the rise of the sun"}
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:1810
 msgctxt "sphere_flavor"
 msgid "it always turns to welcome the rise of the sun"
-msgstr ""
+msgstr "vždy se otočí, aby přivítal východ slunce"
 
 #. DAY={add="it hums pleasantly when the sun is high in the sky"}
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:1811
 msgctxt "sphere_flavor"
 msgid "it hums pleasantly when the sun is high in the sky"
-msgstr ""
+msgstr "příjemně hučí, když je slunce vysoko na obloze"
 
 #. DEATH={add="it has a rattling exhale"}
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:1812
 msgctxt "sphere_flavor"
 msgid "it has a rattling exhale"
-msgstr ""
+msgstr "má chraplavý výdech"
 
 #. DEFORMITY={add="its body is bent and misshapen"}
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:1813
 msgctxt "sphere_flavor"
 msgid "its body is bent and misshapen"
-msgstr ""
+msgstr "jeho tělo je ohnuté a zdeformované"
 
 #. DEPRAVITY={add="it slavers uncontrollably"}
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:1814
 msgctxt "sphere_flavor"
 msgid "it slavers uncontrollably"
-msgstr ""
+msgstr "nekontrolovaně slintá"
 
 #. DISCIPLINE={add="it moves with great focus"}
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:1815
 msgctxt "sphere_flavor"
 msgid "it moves with great focus"
-msgstr ""
+msgstr "pohybuje se s velkým soustředěním"
 
 #. DISEASE={add="it bears malodorous pustules",odor="death"}
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:1816
 msgctxt "sphere_flavor"
 msgid "it bears malodorous pustules"
-msgstr ""
+msgstr "má páchnoucí puchýře"
 
 #. DISEASE={add="it bears malodorous pustules",odor="death"}
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:1816
@@ -6722,49 +6722,49 @@ msgstr ""
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:1818
 msgctxt "sphere_flavor"
 msgid "it never looks toward the sun"
-msgstr ""
+msgstr "nikdy se nedívá směrem ke slunci"
 
 #. DUTY={add="it is utterly still when not taking deliberate action"}
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:1819
 msgctxt "sphere_flavor"
 msgid "it is utterly still when not taking deliberate action"
-msgstr ""
+msgstr "je naprosto nehybné, když úmyslně nejedná"
 
 #. EARTH={add="it looks very solid and stocky"}
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:1820
 msgctxt "sphere_flavor"
 msgid "it looks very solid and stocky"
-msgstr ""
+msgstr "vypadá velmi pevně a zavalitě"
 
 #. FAMILY={add="it appears to be closely related to every other of its kind"}
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:1821
 msgctxt "sphere_flavor"
 msgid "it appears to be closely related to every other of its kind"
-msgstr ""
+msgstr "zdá se být úzce příbuzné se všemi ostatními svého druhu"
 
 #. FAME={add="fanfare follows it wherever it goes"}
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:1822
 msgctxt "sphere_flavor"
 msgid "fanfare follows it wherever it goes"
-msgstr ""
+msgstr "kdekoli jde, následuje jej fanfára"
 
 #. FATE={add="it never appears to be perturbed or surprised by any happening"}
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:1823
 msgctxt "sphere_flavor"
 msgid "it never appears to be perturbed or surprised by any happening"
-msgstr ""
+msgstr "nikdy nevypadá rozrušeně nebo překvapeně"
 
 #. FERTILITY={add="it appears to be very healthy"}
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:1824
 msgctxt "sphere_flavor"
 msgid "it appears to be very healthy"
-msgstr ""
+msgstr "zdá se být velmi zdravé"
 
 #. FESTIVALS={add="it skips and twirls as it moves"}
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:1825
 msgctxt "sphere_flavor"
 msgid "it skips and twirls as it moves"
-msgstr ""
+msgstr "při pohybu poskakuje a točí se"
 
 #. FIRE={add="a sheen around it always seems to rise upward"}
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:1826
@@ -6776,259 +6776,259 @@ msgstr "zdá se, že kolem ní se vždy zvedá lesk"
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:1827
 msgctxt "sphere_flavor"
 msgid "it only looks comfortable when it is in the water"
-msgstr ""
+msgstr "vypadá pohodlně jen ve vodě"
 
 #. FISHING={add="it always moves carefully around water"}
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:1828
 msgctxt "sphere_flavor"
 msgid "it always moves carefully around water"
-msgstr ""
+msgstr "vždy se pohybuje opatrně kolem vody"
 
 #. FOOD={add="it has the delicious smell of freshly-baked
 #. goods",odor="freshly-baked goods"}
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:1829
 msgctxt "sphere_flavor"
 msgid "it has the delicious smell of freshly-baked goods"
-msgstr ""
+msgstr "voní jako čerstvě upečené pečivo"
 
 #. FOOD={add="it has the delicious smell of freshly-baked
 #. goods",odor="freshly-baked goods"}
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:1829
 msgctxt "sphere_flavor"
 msgid "freshly-baked goods"
-msgstr ""
+msgstr "čerstvě upečené pečivo"
 
 #. FORGIVENESS={add="it is impossible to hold a grudge near it"}
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:1830
 msgctxt "sphere_flavor"
 msgid "it is impossible to hold a grudge near it"
-msgstr ""
+msgstr "v jeho blízkosti nelze držet zášť"
 
 #. FORTRESSES={add="it is very sturdy-looking"}
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:1831
 msgctxt "sphere_flavor"
 msgid "it is very sturdy-looking"
-msgstr ""
+msgstr "vypadá velmi robustně"
 
 #. FREEDOM={add="it eagerly moves from place to place"}
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:1832
 msgctxt "sphere_flavor"
 msgid "it eagerly moves from place to place"
-msgstr ""
+msgstr "dychtivě se přesouvá z místa na místo"
 
 #. GAMBLING={add="it changes between two colors intermittently"}
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:1833
 msgctxt "sphere_flavor"
 msgid "it changes between two colors intermittently"
-msgstr ""
+msgstr "střídavě mění mezi dvěma barvami"
 
 #. GAMES={add="it giggles at random"}
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:1834
 msgctxt "sphere_flavor"
 msgid "it giggles at random"
-msgstr ""
+msgstr "náhodně se chichotá"
 
 #. GENEROSITY={add="it makes those around it want to give up their
 #. possessions"}
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:1835
 msgctxt "sphere_flavor"
 msgid "it makes those around it want to give up their possessions"
-msgstr ""
+msgstr "vzbuzuje v ostatních touhu vzdát se svých věcí"
 
 #. HAPPINESS={add="it seems to smile constantly"}
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:1836
 msgctxt "sphere_flavor"
 msgid "it seems to smile constantly"
-msgstr ""
+msgstr "zdá se, že se neustále usmívá"
 
 #. HEALING={add="it is surrounded by a gentle atmosphere"}
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:1837
 msgctxt "sphere_flavor"
 msgid "it is surrounded by a gentle atmosphere"
-msgstr ""
+msgstr "je obklopeno jemnou atmosférou"
 
 #. HOSPITALITY={add="it radiates an aura of welcoming"}
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:1838
 msgctxt "sphere_flavor"
 msgid "it radiates an aura of welcoming"
-msgstr ""
+msgstr "vyzařuje vítající auru"
 
 #. HUNTING={add="it inspects the ground intently as it moves"}
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:1839
 msgctxt "sphere_flavor"
 msgid "it inspects the ground intently as it moves"
-msgstr ""
+msgstr "při pohybu pozorně zkoumá zem"
 
 #. INSPIRATION={add="flashes of energy pulse across its surface
 #. intermittently"}
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:1840
 msgctxt "sphere_flavor"
 msgid "flashes of energy pulse across its surface intermittently"
-msgstr ""
+msgstr "záblesky energie pulzují po jeho povrchu"
 
 #. JEALOUSY={add="it appears to be a very bitter creature"}
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:1841
 msgctxt "sphere_flavor"
 msgid "it appears to be a very bitter creature"
-msgstr ""
+msgstr "zdá se být velmi zatrpklé"
 
 #. JEWELS={add="its whole body appears to be faceted in a symmetric fashion"}
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:1842
 msgctxt "sphere_flavor"
 msgid "its whole body appears to be faceted in a symmetric fashion"
-msgstr ""
+msgstr "celé jeho tělo vypadá symetricky facetované"
 
 #. JUSTICE={add="it seems eager to pronounce judgment on others"}
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:1843
 msgctxt "sphere_flavor"
 msgid "it seems eager to pronounce judgment on others"
-msgstr ""
+msgstr "zdá se dychtivé vynášet soudy nad ostatními"
 
 #. LABOR={add="it appears very deliberate in its actions"}
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:1844
 msgctxt "sphere_flavor"
 msgid "it appears very deliberate in its actions"
-msgstr ""
+msgstr "působí velmi záměrně ve svých činech"
 
 #. LAKES={add="it moves ponderously"}
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:1845
 msgctxt "sphere_flavor"
 msgid "it moves ponderously"
-msgstr ""
+msgstr "pohybuje se těžkopádně"
 
 #. LAWS={add="it has a very stark look about it"}
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:1846
 msgctxt "sphere_flavor"
 msgid "it has a very stark look about it"
-msgstr ""
+msgstr "má velmi strohý vzhled"
 
 #. LIES={add="it seems unerringly honest if one does not concentrate"}
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:1847
 msgctxt "sphere_flavor"
 msgid "it seems unerringly honest if one does not concentrate"
-msgstr ""
+msgstr "zdá se neomylně upřímné, pokud se člověk nesoustředí"
 
 #. LIGHT={add="it returns surrounding light with a new vibrance and
 #. intensity"}
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:1848
 msgctxt "sphere_flavor"
 msgid "it returns surrounding light with a new vibrance and intensity"
-msgstr ""
+msgstr "odráží okolní světlo s novou živostí a intenzitou"
 
 #. LIGHTNING={add="it crackles with energy"}
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:1849
 msgctxt "sphere_flavor"
 msgid "it crackles with energy"
-msgstr ""
+msgstr "praská energií"
 
 #. LONGEVITY={add="it always seems to be looking far into the distance"}
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:1850
 msgctxt "sphere_flavor"
 msgid "it always seems to be looking far into the distance"
-msgstr ""
+msgstr "zdá se, že se vždy dívá do dálky"
 
 #. LOVE={add="it stares longingly at those nearby"}
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:1851
 msgctxt "sphere_flavor"
 msgid "it stares longingly at those nearby"
-msgstr ""
+msgstr "toužebně zírá na ty poblíž"
 
 #. LOYALTY={add="it never abandons its companions"}
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:1852
 msgctxt "sphere_flavor"
 msgid "it never abandons its companions"
-msgstr ""
+msgstr "nikdy neopouští své společníky"
 
 #. LUCK={add="it changes direction suddenly at times"}
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:1853
 msgctxt "sphere_flavor"
 msgid "it changes direction suddenly at times"
-msgstr ""
+msgstr "občas náhle mění směr"
 
 #. LUST={add="it has an unnerving stare"}
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:1854
 msgctxt "sphere_flavor"
 msgid "it has an unnerving stare"
-msgstr ""
+msgstr "má znepokojivý pohled"
 
 #. MARRIAGE={add="it heckles those it meets that are not married"}
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:1855
 msgctxt "sphere_flavor"
 msgid "it heckles those it meets that are not married"
-msgstr ""
+msgstr "posmívá se těm, kteří nejsou ženatí či vdané"
 
 #. MERCY={add="it always seems like it is on the verge of crying"}
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:1856
 msgctxt "sphere_flavor"
 msgid "it always seems like it is on the verge of crying"
-msgstr ""
+msgstr "zdá se, že je stále na pokraji pláče"
 
 #. METALS={add="it appears to have sharp shimmering edges on many parts of its
 #. body"}
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:1857
 msgctxt "sphere_flavor"
 msgid "it appears to have sharp shimmering edges on many parts of its body"
-msgstr ""
+msgstr "má ostré třpytivé okraje na mnoha částech těla"
 
 #. MINERALS={add="it has an angular appearance"}
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:1858
 msgctxt "sphere_flavor"
 msgid "it has an angular appearance"
-msgstr ""
+msgstr "má hranatý vzhled"
 
 #. MISERY={add="it has a distinctly depressing moan"}
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:1859
 msgctxt "sphere_flavor"
 msgid "it has a distinctly depressing moan"
-msgstr ""
+msgstr "má výrazně skličující sténání"
 
 #. MIST={add="it is difficult to see clearly"}
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:1860
 msgctxt "sphere_flavor"
 msgid "it is difficult to see clearly"
-msgstr ""
+msgstr "je obtížné ho jasně vidět"
 
 #. MOON={add="it changes color with the phases of the moon"}
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:1861
 msgctxt "sphere_flavor"
 msgid "it changes color with the phases of the moon"
-msgstr ""
+msgstr "mění barvu podle fází měsíce"
 
 #. MOUNTAINS={add="it is very solidly built"}
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:1862
 msgctxt "sphere_flavor"
 msgid "it is very solidly built"
-msgstr ""
+msgstr "je velmi pevně stavěné"
 
 #. MUCK={add="there is a foul reek about it"}
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:1863
 msgctxt "sphere_flavor"
 msgid "there is a foul reek about it"
-msgstr ""
+msgstr "šíří se z něj odporný puch"
 
 #. MURDER={add="it cannot abide anything that lives"}
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:1864
 msgctxt "sphere_flavor"
 msgid "it cannot abide anything that lives"
-msgstr ""
+msgstr "nesnese nic živého"
 
 #. MUSIC={add="it sounds clear tones as its body moves in time"}
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:1865
 msgctxt "sphere_flavor"
 msgid "it sounds clear tones as its body moves in time"
-msgstr ""
+msgstr "při pohybu vydává čisté tóny"
 
 #. NATURE={add="it seems most at ease when it is outdoors"}
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:1866
 msgctxt "sphere_flavor"
 msgid "it seems most at ease when it is outdoors"
-msgstr ""
+msgstr "nejklidnější je venku"
 
 #. NIGHT={add="it eerily reflects the light of the stars and moon"}
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:1867
 msgctxt "sphere_flavor"
 msgid "it eerily reflects the light of the stars and moon"
-msgstr ""
+msgstr "děsivě odráží světlo hvězd a měsíce"
 
 #. NIGHTMARES={add="it reminds those that look upon it of their most
 #. unpleasant
@@ -7036,38 +7036,38 @@ msgstr ""
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:1868
 msgctxt "sphere_flavor"
 msgid "it reminds those that look upon it of their most unpleasant memories"
-msgstr ""
+msgstr "připomíná každému jeho nejhorší vzpomínky"
 
 #. OATHS={add="it cannot look directly at somebody that has broken an oath"}
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:1869
 msgctxt "sphere_flavor"
 msgid "it cannot look directly at somebody that has broken an oath"
-msgstr ""
+msgstr "nemůže se podívat přímo na někoho, kdo porušil přísahu"
 
 #. OCEANS={add="it always raises a part of its body toward the moon"}
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:1870
 msgctxt "sphere_flavor"
 msgid "it always raises a part of its body toward the moon"
-msgstr ""
+msgstr "vždy pozvedá část těla směrem k měsíci"
 
 #. ORDER={add="it moves very stiffly"}
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:1871
 msgctxt "sphere_flavor"
 msgid "it moves very stiffly"
-msgstr ""
+msgstr "pohybuje se velmi neohrabaně"
 
 #. PAINTING={add="its surface is always enlivened with a refreshing play of
 #. color"}
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:1872
 msgctxt "sphere_flavor"
 msgid "its surface is always enlivened with a refreshing play of color"
-msgstr ""
+msgstr "jeho povrch oživuje osvěžující hra barev"
 
 #. PEACE={add="it has an incredibly calm demeanor"}
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:1873
 msgctxt "sphere_flavor"
 msgid "it has an incredibly calm demeanor"
-msgstr ""
+msgstr "má neuvěřitelně klidné vystupování"
 
 #. PERSUASION={add="it rocks back and forth whenever somebody changes their
 #. mind in its presence"}
@@ -7082,31 +7082,31 @@ msgstr ""
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:1875
 msgctxt "sphere_flavor"
 msgid "it always seems to point toward the sun when it is in the sky"
-msgstr ""
+msgstr "vždy ukazuje směrem ke slunci"
 
 #. POETRY={add="it recites verses in a strange language on occasion"}
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:1876
 msgctxt "sphere_flavor"
 msgid "it recites verses in a strange language on occasion"
-msgstr ""
+msgstr "čas od času recituje verše v neznámém jazyce"
 
 #. PREGNANCY={add="it appears to be expecting"}
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:1877
 msgctxt "sphere_flavor"
 msgid "it appears to be expecting"
-msgstr ""
+msgstr "zdá se, že očekává potomstvo"
 
 #. RAIN={add="it leaves water wherever it goes"}
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:1878
 msgctxt "sphere_flavor"
 msgid "it leaves water wherever it goes"
-msgstr ""
+msgstr "zanechává za sebou vodu"
 
 #. RAINBOWS={add="it is strikingly colored"}
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:1879
 msgctxt "sphere_flavor"
 msgid "it is strikingly colored"
-msgstr ""
+msgstr "má nápadné zbarvení"
 
 #. REBIRTH={add="it alternates from instant to instant between sluggishness
 #. and
@@ -7122,109 +7122,109 @@ msgstr ""
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:1881
 msgctxt "sphere_flavor"
 msgid "it moves with a bouncing rhythm"
-msgstr ""
+msgstr "pohybuje se v poskakujícím rytmu"
 
 #. REVENGE={add="it has a fixed and unblinking gaze when interacting"}
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:1882
 msgctxt "sphere_flavor"
 msgid "it has a fixed and unblinking gaze when interacting"
-msgstr ""
+msgstr "má nehybný, nemrkající pohled při interakci"
 
 #. RIVERS={add="its outer surface seems to flow about its body"}
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:1883
 msgctxt "sphere_flavor"
 msgid "its outer surface seems to flow about its body"
-msgstr ""
+msgstr "jeho vnější povrch jako by po těle plynul"
 
 #. RULERSHIP={add="it is hard to disobey"}
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:1884
 msgctxt "sphere_flavor"
 msgid "it is hard to disobey"
-msgstr ""
+msgstr "je těžké ho neposlechnout"
 
 #. RUMORS={add="it always nods eagerly when somebody is speaking"}
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:1885
 msgctxt "sphere_flavor"
 msgid "it always nods eagerly when somebody is speaking"
-msgstr ""
+msgstr "dychtivě kývá, když někdo mluví"
 
 #. SACRIFICE={add="it inspires those around it to acts of great sacrifice"}
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:1886
 msgctxt "sphere_flavor"
 msgid "it inspires those around it to acts of great sacrifice"
-msgstr ""
+msgstr "inspiruje ostatní k velkým obětem"
 
 #. SALT={add="it makes nearby water undrinkable"}
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:1887
 msgctxt "sphere_flavor"
 msgid "it makes nearby water undrinkable"
-msgstr ""
+msgstr "znehodnocuje vodu v okolí"
 
 #. SCHOLARSHIP={add="it always seems to be deep in thought"}
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:1888
 msgctxt "sphere_flavor"
 msgid "it always seems to be deep in thought"
-msgstr ""
+msgstr "zdá se být neustále hluboce zamyšlené"
 
 #. SEASONS={add="its form is ever-changing"}
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:1889
 msgctxt "sphere_flavor"
 msgid "its form is ever-changing"
-msgstr ""
+msgstr "jeho forma se neustále mění"
 
 #. SILENCE={add="it makes absolutely no sound"}
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:1890
 msgctxt "sphere_flavor"
 msgid "it makes absolutely no sound"
-msgstr ""
+msgstr "nevydává vůbec žádný zvuk"
 
 #. SKY={add="it has a slowly shifting pattern on its surface"}
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:1891
 msgctxt "sphere_flavor"
 msgid "it has a slowly shifting pattern on its surface"
-msgstr ""
+msgstr "má na povrchu pomalu se měnící vzor"
 
 #. SONG={add="it sings beautiful songs endlessly"}
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:1892
 msgctxt "sphere_flavor"
 msgid "it sings beautiful songs endlessly"
-msgstr ""
+msgstr "bez konce zpívá krásné písně"
 
 #. SPEECH={add="it pays attention carefully to anybody that is speaking"}
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:1893
 msgctxt "sphere_flavor"
 msgid "it pays attention carefully to anybody that is speaking"
-msgstr ""
+msgstr "pozorně naslouchá každému, kdo mluví"
 
 #. STARS={add="it appears to sparkle after night falls"}
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:1894
 msgctxt "sphere_flavor"
 msgid "it appears to sparkle after night falls"
-msgstr ""
+msgstr "zdá se, že se třpytí po setmění"
 
 #. STORMS={add="its movement is the sound of wind and rain"}
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:1895
 msgctxt "sphere_flavor"
 msgid "its movement is the sound of wind and rain"
-msgstr ""
+msgstr "jeho pohyb zní jako vítr a déšť"
 
 #. STRENGTH={add="it looks solidly built"}
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:1896
 msgctxt "sphere_flavor"
 msgid "it looks solidly built"
-msgstr ""
+msgstr "vypadá pevně stavěné"
 
 #. SUICIDE={add="it mutters to itself about death"}
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:1897
 msgctxt "sphere_flavor"
 msgid "it mutters to itself about death"
-msgstr ""
+msgstr "mumlá si pro sebe o smrti"
 
 #. SUN={add="it is difficult to look at directly"}
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:1898
 msgctxt "sphere_flavor"
 msgid "it is difficult to look at directly"
-msgstr ""
+msgstr "je těžké se na něj dívat přímo"
 
 #. THEFT={add="it always seems to have its attention on the most valuable
 #. object in the area"}
@@ -7239,50 +7239,50 @@ msgstr ""
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:1900
 msgctxt "sphere_flavor"
 msgid "its movements sound like the rattling of chains"
-msgstr ""
+msgstr "jeho pohyb zní jako řinčení řetězů"
 
 #. THUNDER={add="it is incredibly noisy"}
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:1901
 msgctxt "sphere_flavor"
 msgid "it is incredibly noisy"
-msgstr ""
+msgstr "je neuvěřitelně hlučné"
 
 #. TORTURE={add="it appears to be covered with sharp hooks and barbs"}
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:1902
 msgctxt "sphere_flavor"
 msgid "it appears to be covered with sharp hooks and barbs"
-msgstr ""
+msgstr "vypadá, že je pokryto ostrými háčky a ostny"
 
 #. TRADE={add="it seems most content when a fair wind is blowing"}
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:1903
 msgctxt "sphere_flavor"
 msgid "it seems most content when a fair wind is blowing"
-msgstr ""
+msgstr "zdá se nejspokojenější při příznivém větru"
 
 #. TRAVELERS={add="it never stops moving completely"}
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:1904
 msgctxt "sphere_flavor"
 msgid "it never stops moving completely"
-msgstr ""
+msgstr "nikdy se zcela nezastaví"
 
 #. TREACHERY={add="it is unsettling to be around"}
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:1905
 msgctxt "sphere_flavor"
 msgid "it is unsettling to be around"
-msgstr ""
+msgstr "je znepokojivé být v jeho blízkosti"
 
 #. TREES={add="it is top-heavy"}
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:1906
 msgctxt "sphere_flavor"
 msgid "it is top-heavy"
-msgstr ""
+msgstr "má těžký vršek"
 
 #. TRICKERY={add="it has a tendency to laugh quietly to itself every so
 #. often"}
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:1907
 msgctxt "sphere_flavor"
 msgid "it has a tendency to laugh quietly to itself every so often"
-msgstr ""
+msgstr "čas od času tiše chichotá samo sobě"
 
 #. TRUTH={add="it tenses up throughout its entire body whenever somebody tells
 #. a falsehood in its presence"}
@@ -7298,7 +7298,7 @@ msgstr ""
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:1909
 msgctxt "sphere_flavor"
 msgid "it chitters briefly before sunrise and just after nightfall"
-msgstr ""
+msgstr "krátce cvrliká před úsvitem a po setmění"
 
 #. VALOR={add="it always tries to embolden any fighting in its presence with
 #. exhortations of bravery, even its foes"}
@@ -7313,77 +7313,77 @@ msgstr ""
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:1911
 msgctxt "sphere_flavor"
 msgid "it looks very proud of itself"
-msgstr ""
+msgstr "vypadá velmi pyšně"
 
 #. VOLCANOS={add="it seems to glow brightly from within"}
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:1912
 msgctxt "sphere_flavor"
 msgid "it seems to glow brightly from within"
-msgstr ""
+msgstr "zdá se jasně zářit zevnitř"
 
 #. WAR={add="it bellows and cheers without pause"}
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:1913
 msgctxt "sphere_flavor"
 msgid "it bellows and cheers without pause"
-msgstr ""
+msgstr "nepřetržitě řve a jásá"
 
 #. WATER={add="it seems to flow as it moves"}
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:1914
 msgctxt "sphere_flavor"
 msgid "it seems to flow as it moves"
-msgstr ""
+msgstr "při pohybu jako by plynulo"
 
 #. WEALTH={add="it always seems to be counting something"}
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:1915
 msgctxt "sphere_flavor"
 msgid "it always seems to be counting something"
-msgstr ""
+msgstr "zdá se, že stále něco počítá"
 
 #. WEATHER={add="it changes appearance based on the clouds and precipitation
 #. above"}
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:1916
 msgctxt "sphere_flavor"
 msgid "it changes appearance based on the clouds and precipitation above"
-msgstr ""
+msgstr "mění svůj vzhled podle oblaků a srážek nad sebou"
 
 #. WIND={add="it is surrounded by an everpresent rush of wind"}
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:1917
 msgctxt "sphere_flavor"
 msgid "it is surrounded by an everpresent rush of wind"
-msgstr ""
+msgstr "je obklopeno neustálým prouděním větru"
 
 #. WISDOM={add="it acts with unwavering calm"}
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:1918
 msgctxt "sphere_flavor"
 msgid "it acts with unwavering calm"
-msgstr ""
+msgstr "jedná s neochvějným klidem"
 
 #. WRITING={add="it is covered with divine writing"}
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:1919
 msgctxt "sphere_flavor"
 msgid "it is covered with divine writing"
-msgstr ""
+msgstr "je pokryto božským písmem"
 
 #. YOUTH={add="it appears spry and vigorous"}
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:1920
 msgctxt "sphere_flavor"
 msgid "it appears spry and vigorous"
-msgstr ""
+msgstr "působí čile a energicky"
 
 #. local end_str=" It was created by "
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:1925
 msgid " It was created by "
-msgstr " Vytvořil ji "
+msgstr " Vytvořil ji"
 
 #. if hf.gender==1 then add_desc("goddess")
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:1931
 msgid "goddess"
-msgstr ""
+msgstr "bohyně"
 
 #. elseif hf.gender==0 then add_desc("god")
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:1932
 msgid "god"
-msgstr ""
+msgstr "bůh"
 
 #. else add_desc("deity") end
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:1933
@@ -7398,7 +7398,7 @@ msgstr "neznámé božstvo"
 #. add_desc(" and is of a part with ")
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:1944
 msgid " and is of a part with "
-msgstr " a je součástí "
+msgstr " a je součástí"
 
 #. {"Angel","Angels","angelic"}
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:1958
@@ -7416,43 +7416,43 @@ msgstr "Andělé"
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:1958
 msgctxt "angel_names_humanoid_warrior"
 msgid "angelic"
-msgstr ""
+msgstr "andělský"
 
 #. {"Soldier","Soldiers","soldier"}
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:1959
 msgctxt "angel_names_humanoid_warrior"
 msgid "Soldier"
-msgstr ""
+msgstr "Voják"
 
 #. {"Soldier","Soldiers","soldier"}
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:1959
 msgctxt "angel_names_humanoid_warrior"
 msgid "Soldiers"
-msgstr ""
+msgstr "Vojáci"
 
 #. {"Soldier","Soldiers","soldier"}
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:1959
 msgctxt "angel_names_humanoid_warrior"
 msgid "soldier"
-msgstr ""
+msgstr "voják"
 
 #. {"Warrior","Warriors","warrior"}
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:1960
 msgctxt "angel_names_humanoid_warrior"
 msgid "Warrior"
-msgstr ""
+msgstr "Válečník"
 
 #. {"Warrior","Warriors","warrior"}
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:1960
 msgctxt "angel_names_humanoid_warrior"
 msgid "Warriors"
-msgstr ""
+msgstr "Válečníci"
 
 #. {"Warrior","Warriors","warrior"}
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:1960
 msgctxt "angel_names_humanoid_warrior"
 msgid "warrior"
-msgstr ""
+msgstr "válečník"
 
 #. {"Champion","Champions","champion"}
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:1961
@@ -7470,97 +7470,97 @@ msgstr "Šampióni"
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:1961
 msgctxt "angel_names_humanoid_warrior"
 msgid "champion"
-msgstr ""
+msgstr "šampión"
 
 #. {"Fighter","Fighters","fighter"}
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:1962
 msgctxt "angel_names_humanoid_warrior"
 msgid "Fighter"
-msgstr ""
+msgstr "Bojovník"
 
 #. {"Fighter","Fighters","fighter"}
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:1962
 msgctxt "angel_names_humanoid_warrior"
 msgid "Fighters"
-msgstr ""
+msgstr "Bojovníci"
 
 #. {"Fighter","Fighters","fighter"}
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:1962
 msgctxt "angel_names_humanoid_warrior"
 msgid "fighter"
-msgstr ""
+msgstr "bojovník"
 
 #. {"Guardian","Guardians","guardian"}
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:1963
 msgctxt "angel_names_humanoid_warrior"
 msgid "Guardian"
-msgstr ""
+msgstr "Strážce"
 
 #. {"Guardian","Guardians","guardian"}
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:1963
 msgctxt "angel_names_humanoid_warrior"
 msgid "Guardians"
-msgstr ""
+msgstr "Strážci"
 
 #. {"Guardian","Guardians","guardian"}
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:1963
 msgctxt "angel_names_humanoid_warrior"
 msgid "guardian"
-msgstr ""
+msgstr "strážce"
 
 #. {"Spirit","Spirits","spirit"}
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:1964
 msgctxt "angel_names_humanoid_warrior"
 msgid "Spirit"
-msgstr ""
+msgstr "Duch"
 
 #. {"Spirit","Spirits","spirit"}
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:1964
 msgctxt "angel_names_humanoid_warrior"
 msgid "Spirits"
-msgstr ""
+msgstr "Duchové"
 
 #. {"Spirit","Spirits","spirit"}
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:1964
 msgctxt "angel_names_humanoid_warrior"
 msgid "spirit"
-msgstr ""
+msgstr "duch"
 
 #. {"Messenger","Messengers","messenger"}
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:1965
 msgctxt "angel_names_humanoid_warrior"
 msgid "Messenger"
-msgstr ""
+msgstr "Posel"
 
 #. {"Messenger","Messengers","messenger"}
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:1965
 msgctxt "angel_names_humanoid_warrior"
 msgid "Messengers"
-msgstr ""
+msgstr "Poslové"
 
 #. {"Messenger","Messengers","messenger"}
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:1965
 msgctxt "angel_names_humanoid_warrior"
 msgid "messenger"
-msgstr ""
+msgstr "posel"
 
 #. {"Slayer","Slayers","slayer"}
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:1966
 msgctxt "angel_names_humanoid_warrior"
 msgid "Slayer"
-msgstr ""
+msgstr "Zabiják"
 
 #. {"Slayer","Slayers","slayer"}
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:1966
 msgctxt "angel_names_humanoid_warrior"
 msgid "Slayers"
-msgstr ""
+msgstr "Zabijáci"
 
 #. {"Slayer","Slayers","slayer"}
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:1966
 msgctxt "angel_names_humanoid_warrior"
 msgid "slayer"
-msgstr ""
+msgstr "zabiják"
 
 #. {"Enforcer","Enforcers","enforcer"}
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:1967
@@ -7578,19 +7578,19 @@ msgstr "Vykonavatelé"
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:1967
 msgctxt "angel_names_humanoid_warrior"
 msgid "enforcer"
-msgstr ""
+msgstr "vykonavatel"
 
 #. {"Beast","Beasts","beast"}
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:1971
 msgctxt "angel_names_great_beast"
 msgid "Beast"
-msgstr ""
+msgstr "Bestie"
 
 #. {"Beast","Beasts","beast"}
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:1971
 msgctxt "angel_names_great_beast"
 msgid "Beasts"
-msgstr ""
+msgstr "Bestie"
 
 #. {"Beast","Beasts","beast"}
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:1971
@@ -7602,181 +7602,181 @@ msgstr "bestie"
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:1972
 msgctxt "angel_names_great_beast"
 msgid "Behemoth"
-msgstr ""
+msgstr "Behemot"
 
 #. {"Behemoth","Behemoths","behemoth"}
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:1972
 msgctxt "angel_names_great_beast"
 msgid "Behemoths"
-msgstr ""
+msgstr "Behemoti"
 
 #. {"Behemoth","Behemoths","behemoth"}
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:1972
 msgctxt "angel_names_great_beast"
 msgid "behemoth"
-msgstr ""
+msgstr "behemot"
 
 #. {"Harbinger","Harbingers","harbinger"}
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:1973
 msgctxt "angel_names_great_beast"
 msgid "Harbinger"
-msgstr ""
+msgstr "Věstec"
 
 #. {"Harbinger","Harbingers","harbinger"}
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:1973
 msgctxt "angel_names_great_beast"
 msgid "Harbingers"
-msgstr ""
+msgstr "Věstci"
 
 #. {"Harbinger","Harbingers","harbinger"}
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:1973
 msgctxt "angel_names_great_beast"
 msgid "harbinger"
-msgstr ""
+msgstr "věstec"
 
 #. {"Monster","Monsters","monster"}
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:1974
 msgctxt "angel_names_great_beast"
 msgid "Monster"
-msgstr ""
+msgstr "Monstrum"
 
 #. {"Monster","Monsters","monster"}
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:1974
 msgctxt "angel_names_great_beast"
 msgid "Monsters"
-msgstr ""
+msgstr "Monstra"
 
 #. {"Monster","Monsters","monster"}
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:1974
 msgctxt "angel_names_great_beast"
 msgid "monster"
-msgstr ""
+msgstr "monstrum"
 
 #. {"Destroyer","Destroyers","destroyer"}
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:1975
 msgctxt "angel_names_great_beast"
 msgid "Destroyer"
-msgstr ""
+msgstr "Ničitel"
 
 #. {"Destroyer","Destroyers","destroyer"}
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:1975
 msgctxt "angel_names_great_beast"
 msgid "Destroyers"
-msgstr ""
+msgstr "Ničitelé"
 
 #. {"Destroyer","Destroyers","destroyer"}
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:1975
 msgctxt "angel_names_great_beast"
 msgid "destroyer"
-msgstr ""
+msgstr "ničitel"
 
 #. {"Doom","Dooms","doom"}
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:1976
 msgctxt "angel_names_great_beast"
 msgid "Doom"
-msgstr ""
+msgstr "Zkáza"
 
 #. {"Doom","Dooms","doom"}
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:1976
 msgctxt "angel_names_great_beast"
 msgid "Dooms"
-msgstr ""
+msgstr "Zkázy"
 
 #. {"Doom","Dooms","doom"}
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:1976
 msgctxt "angel_names_great_beast"
 msgid "doom"
-msgstr ""
+msgstr "zkáza"
 
 #. {"Bane","Banes","bane"}
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:1977
 msgctxt "angel_names_great_beast"
 msgid "Bane"
-msgstr ""
+msgstr "Zhouba"
 
 #. {"Bane","Banes","bane"}
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:1977
 msgctxt "angel_names_great_beast"
 msgid "Banes"
-msgstr ""
+msgstr "Zhoubci"
 
 #. {"Bane","Banes","bane"}
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:1977
 msgctxt "angel_names_great_beast"
 msgid "bane"
-msgstr ""
+msgstr "zhouba"
 
 #. {"Catastrophe","Catastrophes","catastrophe"}
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:1978
 msgctxt "angel_names_great_beast"
 msgid "Catastrophe"
-msgstr ""
+msgstr "Katastrofa"
 
 #. {"Catastrophe","Catastrophes","catastrophe"}
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:1978
 msgctxt "angel_names_great_beast"
 msgid "Catastrophes"
-msgstr ""
+msgstr "Katastrofy"
 
 #. {"Catastrophe","Catastrophes","catastrophe"}
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:1978
 msgctxt "angel_names_great_beast"
 msgid "catastrophe"
-msgstr ""
+msgstr "katastrofa"
 
 #. {"Ruination","Ruinations","ruination"}
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:1979
 msgctxt "angel_names_great_beast"
 msgid "Ruination"
-msgstr ""
+msgstr "Zkáza"
 
 #. {"Ruination","Ruinations","ruination"}
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:1979
 msgctxt "angel_names_great_beast"
 msgid "Ruinations"
-msgstr ""
+msgstr "Zkázy"
 
 #. {"Ruination","Ruinations","ruination"}
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:1979
 msgctxt "angel_names_great_beast"
 msgid "ruination"
-msgstr ""
+msgstr "zkáza"
 
 #. {"Judgment","Judgments","judgment"}
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:1980
 msgctxt "angel_names_great_beast"
 msgid "Judgment"
-msgstr ""
+msgstr "Soud"
 
 #. {"Judgment","Judgments","judgment"}
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:1980
 msgctxt "angel_names_great_beast"
 msgid "Judgments"
-msgstr ""
+msgstr "Soudy"
 
 #. {"Judgment","Judgments","judgment"}
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:1980
 msgctxt "angel_names_great_beast"
 msgid "judgment"
-msgstr ""
+msgstr "soud"
 
 #. {"Servant","Servants","servant"}
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:1984
 msgctxt "angel_names_humanoid_generic"
 msgid "Servant"
-msgstr ""
+msgstr "Služebník"
 
 #. {"Servant","Servants","servant"}
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:1984
 msgctxt "angel_names_humanoid_generic"
 msgid "Servants"
-msgstr ""
+msgstr "Služebníci"
 
 #. {"Servant","Servants","servant"}
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:1984
 msgctxt "angel_names_humanoid_generic"
 msgid "servant"
-msgstr ""
+msgstr "služebník"
 
 #. {"Assistant","Assistants","assistant"}
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:1985
@@ -7794,7 +7794,7 @@ msgstr "Asistenti"
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:1985
 msgctxt "angel_names_humanoid_generic"
 msgid "assistant"
-msgstr ""
+msgstr "asistent"
 
 #. {"Attendant","Attendants","attendant"}
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:1986
@@ -7812,79 +7812,79 @@ msgstr "Doprovody"
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:1986
 msgctxt "angel_names_humanoid_generic"
 msgid "attendant"
-msgstr ""
+msgstr "doprovod"
 
 #. {"Minion","Minions","minion"}
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:1987
 msgctxt "angel_names_humanoid_generic"
 msgid "Minion"
-msgstr ""
+msgstr "Poskok"
 
 #. {"Minion","Minions","minion"}
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:1987
 msgctxt "angel_names_humanoid_generic"
 msgid "Minions"
-msgstr ""
+msgstr "Poskoci"
 
 #. {"Minion","Minions","minion"}
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:1987
 msgctxt "angel_names_humanoid_generic"
 msgid "minion"
-msgstr ""
+msgstr "poskok"
 
 #. {"Helper","Helpers","helper"}
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:1988
 msgctxt "angel_names_humanoid_generic"
 msgid "Helper"
-msgstr ""
+msgstr "Pomocník"
 
 #. {"Helper","Helpers","helper"}
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:1988
 msgctxt "angel_names_humanoid_generic"
 msgid "Helpers"
-msgstr ""
+msgstr "Pomocníci"
 
 #. {"Helper","Helpers","helper"}
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:1988
 msgctxt "angel_names_humanoid_generic"
 msgid "helper"
-msgstr ""
+msgstr "pomocník"
 
 #. {"Worker","Workers","worker"}
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:1989
 msgctxt "angel_names_humanoid_generic"
 msgid "Worker"
-msgstr ""
+msgstr "Dělník"
 
 #. {"Worker","Workers","worker"}
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:1989
 msgctxt "angel_names_humanoid_generic"
 msgid "Workers"
-msgstr ""
+msgstr "Dělníci"
 
 #. {"Worker","Workers","worker"}
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:1989
 msgctxt "angel_names_humanoid_generic"
 msgid "worker"
-msgstr ""
+msgstr "dělník"
 
 #. {"Hand","Hands","hand"}
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:1990
 msgctxt "angel_names_humanoid_generic"
 msgid "Hand"
-msgstr ""
+msgstr "Ruka"
 
 #. {"Hand","Hands","hand"}
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:1990
 msgctxt "angel_names_humanoid_generic"
 msgid "Hands"
-msgstr ""
+msgstr "Ruce"
 
 #. {"Hand","Hands","hand"}
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:1990
 msgctxt "angel_names_humanoid_generic"
 msgid "hand"
-msgstr ""
+msgstr "ruka"
 
 #. {"Being","Beings","being"}
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:1991
@@ -7902,68 +7902,68 @@ msgstr "Bytosti"
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:1991
 msgctxt "angel_names_humanoid_generic"
 msgid "being"
-msgstr ""
+msgstr "bytost"
 
 #. {"Puppet","Puppets","puppet"}
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:1992
 msgctxt "angel_names_humanoid_generic"
 msgid "Puppet"
-msgstr ""
+msgstr "Loutka"
 
 #. {"Puppet","Puppets","puppet"}
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:1992
 msgctxt "angel_names_humanoid_generic"
 msgid "Puppets"
-msgstr ""
+msgstr "Loutky"
 
 #. {"Puppet","Puppets","puppet"}
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:1992
 msgctxt "angel_names_humanoid_generic"
 msgid "puppet"
-msgstr ""
+msgstr "loutka"
 
 #. {"Pawn","Pawns","pawn"}
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:1993
 msgctxt "angel_names_humanoid_generic"
 msgid "Pawn"
-msgstr ""
+msgstr "Pěšák"
 
 #. {"Pawn","Pawns","pawn"}
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:1993
 msgctxt "angel_names_humanoid_generic"
 msgid "Pawns"
-msgstr ""
+msgstr "Pěšáci"
 
 #. {"Pawn","Pawns","pawn"}
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:1993
 msgctxt "angel_names_humanoid_generic"
 msgid "pawn"
-msgstr ""
+msgstr "pěšák"
 
 #. {"Retainer","Retainers","retainer"}
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:1994
 msgctxt "angel_names_humanoid_generic"
 msgid "Retainer"
-msgstr ""
+msgstr "Podřízený"
 
 #. {"Retainer","Retainers","retainer"}
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:1994
 msgctxt "angel_names_humanoid_generic"
 msgid "Retainers"
-msgstr ""
+msgstr "Podřízení"
 
 #. {"Retainer","Retainers","retainer"}
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:1994
 msgctxt "angel_names_humanoid_generic"
 msgid "retainer"
-msgstr ""
+msgstr "podřízený"
 
 #. sickness_name="divine sickness"
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:2082
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:2156
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:2232
 msgid "divine sickness"
-msgstr ""
+msgstr "božská nemoc"
 
 #. name_string="humanoid"
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:2117
@@ -7977,7 +7977,7 @@ msgstr "humanoid"
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:2209
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:2275
 msgid "it is a divine being"
-msgstr ""
+msgstr "je to božská bytost"
 
 #. name="shining metal"
 #: data/vanilla/vanilla_procedural/scripts/generators/divine.lua:3
@@ -8061,79 +8061,79 @@ msgstr "fasetovaný kov"
 #: data/vanilla/vanilla_procedural/scripts/generators/divine.lua:68
 msgctxt "MOON"
 msgid "translucent metal"
-msgstr ""
+msgstr "průsvitný kov"
 
 #. name="frosty metal"
 #: data/vanilla/vanilla_procedural/scripts/generators/divine.lua:73
 msgctxt "MOUNTAINS"
 msgid "frosty metal"
-msgstr ""
+msgstr "ledový kov"
 
 #. name="slick metal"
 #: data/vanilla/vanilla_procedural/scripts/generators/divine.lua:78
 msgctxt "MUCK"
 msgid "slick metal"
-msgstr ""
+msgstr "kluzký kov"
 
 #. name="singing metal"
 #: data/vanilla/vanilla_procedural/scripts/generators/divine.lua:83
 msgctxt "MUSIC"
 msgid "singing metal"
-msgstr ""
+msgstr "zpívající kov"
 
 #. name="black metal"
 #: data/vanilla/vanilla_procedural/scripts/generators/divine.lua:88
 msgctxt "NIGHT"
 msgid "black metal"
-msgstr ""
+msgstr "černý kov"
 
 #. name="multicolored metal"
 #: data/vanilla/vanilla_procedural/scripts/generators/divine.lua:93
 msgctxt "RAINBOWS"
 msgid "multicolored metal"
-msgstr ""
+msgstr "vícebarevný kov"
 
 #. name="clear blue metal"
 #: data/vanilla/vanilla_procedural/scripts/generators/divine.lua:98
 msgctxt "SKY"
 msgid "clear blue metal"
-msgstr ""
+msgstr "čistě modrý kov"
 
 #. name="twinkling metal"
 #: data/vanilla/vanilla_procedural/scripts/generators/divine.lua:103
 msgctxt "STARS"
 msgid "twinkling metal"
-msgstr ""
+msgstr "třpytivý kov"
 
 #. name="crashing metal"
 #: data/vanilla/vanilla_procedural/scripts/generators/divine.lua:108
 msgctxt "STORMS"
 msgid "crashing metal"
-msgstr ""
+msgstr "burácející kov"
 
 #. name="blazing metal"
 #: data/vanilla/vanilla_procedural/scripts/generators/divine.lua:113
 msgctxt "SUN"
 msgid "blazing metal"
-msgstr ""
+msgstr "planoucí kov"
 
 #. name="booming metal"
 #: data/vanilla/vanilla_procedural/scripts/generators/divine.lua:118
 msgctxt "THUNDER"
 msgid "booming metal"
-msgstr ""
+msgstr "hřímavý kov"
 
 #. name="searing metal"
 #: data/vanilla/vanilla_procedural/scripts/generators/divine.lua:123
 msgctxt "TORTURE"
 msgid "searing metal"
-msgstr ""
+msgstr "pálivý kov"
 
 #. name="flowing metal"
 #: data/vanilla/vanilla_procedural/scripts/generators/divine.lua:128
 msgctxt "VOLCANOS"
 msgid "flowing metal"
-msgstr ""
+msgstr "přitékající kov"
 
 #. name="glowing cloth"
 #: data/vanilla/vanilla_procedural/scripts/generators/divine.lua:180
@@ -8241,85 +8241,85 @@ msgstr "těžká látka"
 #: data/vanilla/vanilla_procedural/scripts/generators/divine.lua:265
 msgctxt "MIST"
 msgid "misty cloth"
-msgstr ""
+msgstr "mlhavá látka"
 
 #. name="white cloth"
 #: data/vanilla/vanilla_procedural/scripts/generators/divine.lua:270
 msgctxt "MOON"
 msgid "white cloth"
-msgstr ""
+msgstr "bílá látka"
 
 #. name="dirty fabric"
 #: data/vanilla/vanilla_procedural/scripts/generators/divine.lua:275
 msgctxt "MUCK"
 msgid "dirty fabric"
-msgstr ""
+msgstr "špinavá tkanina"
 
 #. name="sonorous lines"
 #: data/vanilla/vanilla_procedural/scripts/generators/divine.lua:280
 msgctxt "MUSIC"
 msgid "sonorous lines"
-msgstr ""
+msgstr "zvučné linie"
 
 #. name="pitch-black fabric"
 #: data/vanilla/vanilla_procedural/scripts/generators/divine.lua:285
 msgctxt "NIGHT"
 msgid "pitch-black fabric"
-msgstr ""
+msgstr "zcela černá tkanina"
 
 #. name="screaming mouths"
 #: data/vanilla/vanilla_procedural/scripts/generators/divine.lua:290
 msgctxt "NIGHTMARES"
 msgid "screaming mouths"
-msgstr ""
+msgstr "křičící ústa"
 
 #. name="undulating cloth"
 #: data/vanilla/vanilla_procedural/scripts/generators/divine.lua:295
 msgctxt "OCEANS"
 msgid "undulating cloth"
-msgstr ""
+msgstr "vlnící se látka"
 
 #. name="moist fabric"
 #: data/vanilla/vanilla_procedural/scripts/generators/divine.lua:300
 msgctxt "RAIN"
 msgid "moist fabric"
-msgstr ""
+msgstr "vlhká tkanina"
 
 #. name="multicolored cloth"
 #: data/vanilla/vanilla_procedural/scripts/generators/divine.lua:305
 msgctxt "RAINBOWS"
 msgid "multicolored cloth"
-msgstr ""
+msgstr "vícebarevná látka"
 
 #. name="flowing fabric"
 #: data/vanilla/vanilla_procedural/scripts/generators/divine.lua:310
 msgctxt "RIVERS"
 msgid "flowing fabric"
-msgstr ""
+msgstr "proudící tkanina"
 
 #. name="clear blue cloth"
 #: data/vanilla/vanilla_procedural/scripts/generators/divine.lua:315
 msgctxt "SKY"
 msgid "clear blue cloth"
-msgstr ""
+msgstr "čistě modrá látka"
 
 #. name="motes of light"
 #: data/vanilla/vanilla_procedural/scripts/generators/divine.lua:320
 msgctxt "STARS"
 msgid "motes of light"
-msgstr ""
+msgstr "zrnka světla"
 
 #. name="flowing cloth"
 #: data/vanilla/vanilla_procedural/scripts/generators/divine.lua:325
 msgctxt "STORMS"
 msgid "flowing cloth"
-msgstr ""
+msgstr "proudící látka"
 
 #. name="blazing cloth"
 #: data/vanilla/vanilla_procedural/scripts/generators/divine.lua:330
 msgctxt "SUN"
 msgid "blazing cloth"
-msgstr ""
+msgstr "planoucí látka"
 
 #. name="shining cloth"
 #: data/vanilla/vanilla_procedural/scripts/generators/divine.lua:335
@@ -8331,31 +8331,31 @@ msgstr "lesknoucí se látka"
 #: data/vanilla/vanilla_procedural/scripts/generators/divine.lua:340
 msgctxt "TRICKERY"
 msgid "shimmering cloth"
-msgstr ""
+msgstr "třpytivá látka"
 
 #. name="shadow stuff"
 #: data/vanilla/vanilla_procedural/scripts/generators/divine.lua:345
 msgctxt "TWILIGHT"
 msgid "shadow stuff"
-msgstr ""
+msgstr "stínová hmota"
 
 #. name="molten liquid"
 #: data/vanilla/vanilla_procedural/scripts/generators/divine.lua:350
 msgctxt "VOLCANOS"
 msgid "molten liquid"
-msgstr ""
+msgstr "roztavená tekutina"
 
 #. name="liquid cloth"
 #: data/vanilla/vanilla_procedural/scripts/generators/divine.lua:355
 msgctxt "WATER"
 msgid "liquid cloth"
-msgstr ""
+msgstr "tekutá látka"
 
 #. name="rustling fabric"
 #: data/vanilla/vanilla_procedural/scripts/generators/divine.lua:360
 msgctxt "WIND"
 msgid "rustling fabric"
-msgstr ""
+msgstr "šustící tkanina"
 
 #. "blocky"
 #: data/vanilla/vanilla_procedural/scripts/generators/entities.lua:6
@@ -8425,7 +8425,7 @@ msgstr "hranatý"
 #: data/vanilla/vanilla_procedural/scripts/generators/entities.lua:17
 msgctxt "adj"
 msgid "segmented"
-msgstr ""
+msgstr "segmentovaný"
 
 #. "conical"
 #: data/vanilla/vanilla_procedural/scripts/generators/entities.lua:24
@@ -8440,7 +8440,7 @@ msgstr "kuželovitý"
 #: data/vanilla/vanilla_procedural/scripts/generators/entities.lua:203
 msgctxt "adj"
 msgid "tall"
-msgstr ""
+msgstr "vysoký"
 
 #. "bulky"
 #: data/vanilla/vanilla_procedural/scripts/generators/entities.lua:33
@@ -8452,14 +8452,14 @@ msgstr ""
 #: data/vanilla/vanilla_procedural/scripts/generators/entities.lua:189
 msgctxt "adj"
 msgid "bulky"
-msgstr ""
+msgstr "objemný"
 
 #. "intricate"
 #: data/vanilla/vanilla_procedural/scripts/generators/entities.lua:34
 #: data/vanilla/vanilla_procedural/scripts/generators/entities.lua:44
 msgctxt "adj"
 msgid "intricate"
-msgstr ""
+msgstr "složitý"
 
 #. "sleek"
 #: data/vanilla/vanilla_procedural/scripts/generators/entities.lua:43
@@ -8469,13 +8469,13 @@ msgstr ""
 #: data/vanilla/vanilla_procedural/scripts/generators/entities.lua:186
 msgctxt "adj"
 msgid "sleek"
-msgstr ""
+msgstr "uhlazený"
 
 #. "split"
 #: data/vanilla/vanilla_procedural/scripts/generators/entities.lua:53
 msgctxt "adj"
 msgid "split"
-msgstr ""
+msgstr "rozštěpený"
 
 #. "frilly"
 #: data/vanilla/vanilla_procedural/scripts/generators/entities.lua:54
@@ -8485,14 +8485,14 @@ msgstr ""
 #: data/vanilla/vanilla_procedural/scripts/generators/entities.lua:87
 msgctxt "adj"
 msgid "frilly"
-msgstr ""
+msgstr "nařasený"
 
 #. "sheer"
 #: data/vanilla/vanilla_procedural/scripts/generators/entities.lua:55
 #: data/vanilla/vanilla_procedural/scripts/generators/entities.lua:88
 msgctxt "adj"
 msgid "sheer"
-msgstr ""
+msgstr "průsvitný"
 
 #. "bell-shaped"
 #: data/vanilla/vanilla_procedural/scripts/generators/entities.lua:56
@@ -8515,7 +8515,7 @@ msgstr "asymetrický"
 #: data/vanilla/vanilla_procedural/scripts/generators/entities.lua:201
 msgctxt "adj"
 msgid "curved"
-msgstr ""
+msgstr "zakřivený"
 
 #. "wavy"
 #: data/vanilla/vanilla_procedural/scripts/generators/entities.lua:98
@@ -8530,26 +8530,26 @@ msgstr "vlnitý"
 #: data/vanilla/vanilla_procedural/scripts/generators/entities.lua:107
 msgctxt "adj"
 msgid "branching"
-msgstr ""
+msgstr "větvený"
 
 #. "long"
 #: data/vanilla/vanilla_procedural/scripts/generators/entities.lua:109
 #: data/vanilla/vanilla_procedural/scripts/generators/entities.lua:187
 msgctxt "adj"
 msgid "long"
-msgstr ""
+msgstr "dlouhý"
 
 #. "pointed"
 #: data/vanilla/vanilla_procedural/scripts/generators/entities.lua:115
 msgctxt "adj"
 msgid "pointed"
-msgstr ""
+msgstr "špičatý"
 
 #. "crescent"
 #: data/vanilla/vanilla_procedural/scripts/generators/entities.lua:133
 msgctxt "adj"
 msgid "crescent"
-msgstr ""
+msgstr "půlměsíc"
 
 #. "twisted"
 #: data/vanilla/vanilla_procedural/scripts/generators/entities.lua:151
@@ -8567,7 +8567,7 @@ msgstr "ohnutý"
 #: data/vanilla/vanilla_procedural/scripts/generators/entities.lua:169
 msgctxt "adj"
 msgid "large-headed"
-msgstr ""
+msgstr "velkohlavý"
 
 #. "thick"
 #: data/vanilla/vanilla_procedural/scripts/generators/entities.lua:177
@@ -8579,12 +8579,12 @@ msgstr "tlustý"
 #: data/vanilla/vanilla_procedural/scripts/generators/entities.lua:204
 msgctxt "adj"
 msgid "rectangular"
-msgstr ""
+msgstr "obdélníkový"
 
 #. angel_item_info.weapon.SWORD.gen.sword=make_sword_func("sword:swords")
 #: data/vanilla/vanilla_procedural/scripts/generators/entities.lua:632
 msgid "sword:swords"
-msgstr ""
+msgstr "meč:meče"
 
 #. angel_item_info.weapon.SWORD.gen.blade=make_sword_func("blade:blades")
 #: data/vanilla/vanilla_procedural/scripts/generators/entities.lua:634
@@ -8594,18 +8594,18 @@ msgstr "čepel:čepele"
 #. angel_item_info.weapon.WHIP.gen.whip=make_whip_func("whip:whips")
 #: data/vanilla/vanilla_procedural/scripts/generators/entities.lua:669
 msgid "whip:whips"
-msgstr ""
+msgstr "bič:biče"
 
 #. angel_item_info.weapon.WHIP.gen.lash=make_whip_func("lash:lashes")
 #: data/vanilla/vanilla_procedural/scripts/generators/entities.lua:671
 msgid "lash:lashes"
-msgstr ""
+msgstr "rána:rany"
 
 #. "cursed"
 #: data/vanilla/vanilla_procedural/scripts/generators/evil.lua:3
 msgctxt "cloud_adjs"
 msgid "cursed"
-msgstr ""
+msgstr "prokletý"
 
 #. "wicked"
 #: data/vanilla/vanilla_procedural/scripts/generators/evil.lua:4
@@ -8617,73 +8617,73 @@ msgstr "zlý"
 #: data/vanilla/vanilla_procedural/scripts/generators/evil.lua:5
 msgctxt "cloud_adjs"
 msgid "evil"
-msgstr ""
+msgstr "zlý"
 
 #. "creeping"
 #: data/vanilla/vanilla_procedural/scripts/generators/evil.lua:6
 msgctxt "cloud_adjs"
 msgid "creeping"
-msgstr ""
+msgstr "plíživý"
 
 #. "haunting"
 #: data/vanilla/vanilla_procedural/scripts/generators/evil.lua:7
 msgctxt "cloud_adjs"
 msgid "haunting"
-msgstr ""
+msgstr "pronásledující"
 
 #. "abominable"
 #: data/vanilla/vanilla_procedural/scripts/generators/evil.lua:8
 msgctxt "cloud_adjs"
 msgid "abominable"
-msgstr ""
+msgstr "ohavný"
 
 #. "devilish"
 #: data/vanilla/vanilla_procedural/scripts/generators/evil.lua:9
 msgctxt "cloud_adjs"
 msgid "devilish"
-msgstr ""
+msgstr "ďábelský"
 
 #. "fiendish"
 #: data/vanilla/vanilla_procedural/scripts/generators/evil.lua:10
 msgctxt "cloud_adjs"
 msgid "fiendish"
-msgstr ""
+msgstr "démonský"
 
 #. "foul"
 #: data/vanilla/vanilla_procedural/scripts/generators/evil.lua:11
 msgctxt "cloud_adjs"
 msgid "foul"
-msgstr ""
+msgstr "hnusný"
 
 #. "heinous"
 #: data/vanilla/vanilla_procedural/scripts/generators/evil.lua:12
 msgctxt "cloud_adjs"
 msgid "heinous"
-msgstr ""
+msgstr "hrozný"
 
 #. "nefarious"
 #: data/vanilla/vanilla_procedural/scripts/generators/evil.lua:13
 msgctxt "cloud_adjs"
 msgid "nefarious"
-msgstr ""
+msgstr "podlý"
 
 #. "profane"
 #: data/vanilla/vanilla_procedural/scripts/generators/evil.lua:14
 msgctxt "cloud_adjs"
 msgid "profane"
-msgstr ""
+msgstr "bezbožný"
 
 #. "vile"
 #: data/vanilla/vanilla_procedural/scripts/generators/evil.lua:15
 msgctxt "cloud_adjs"
 msgid "vile"
-msgstr ""
+msgstr "odporný"
 
 #. "accursed"
 #: data/vanilla/vanilla_procedural/scripts/generators/evil.lua:16
 msgctxt "cloud_adjs"
 msgid "accursed"
-msgstr ""
+msgstr "zatracený"
 
 #. "blighted"
 #: data/vanilla/vanilla_procedural/scripts/generators/evil.lua:17
@@ -8695,25 +8695,25 @@ msgstr "zasažený morem"
 #: data/vanilla/vanilla_procedural/scripts/generators/evil.lua:18
 msgctxt "cloud_adjs"
 msgid "execrable"
-msgstr ""
+msgstr "příšerný"
 
 #. "infernal"
 #: data/vanilla/vanilla_procedural/scripts/generators/evil.lua:19
 msgctxt "cloud_adjs"
 msgid "infernal"
-msgstr ""
+msgstr "pekelný"
 
 #. "unholy"
 #: data/vanilla/vanilla_procedural/scripts/generators/evil.lua:20
 msgctxt "cloud_adjs"
 msgid "unholy"
-msgstr ""
+msgstr "nesvětý"
 
 #. "eerie"
 #: data/vanilla/vanilla_procedural/scripts/generators/evil.lua:21
 msgctxt "cloud_adjs"
 msgid "eerie"
-msgstr ""
+msgstr "tísnivý"
 
 #. {"mist","GAS"}
 #: data/vanilla/vanilla_procedural/scripts/generators/evil.lua:26
@@ -8743,19 +8743,19 @@ msgstr "saze"
 #: data/vanilla/vanilla_procedural/scripts/generators/evil.lua:30
 msgctxt "cloud_names"
 msgid "fog"
-msgstr ""
+msgstr "mlha"
 
 #. {"gloom","GAS"}
 #: data/vanilla/vanilla_procedural/scripts/generators/evil.lua:31
 msgctxt "cloud_names"
 msgid "gloom"
-msgstr ""
+msgstr "šero"
 
 #. {"murk","GAS"}
 #: data/vanilla/vanilla_procedural/scripts/generators/evil.lua:32
 msgctxt "cloud_names"
 msgid "murk"
-msgstr ""
+msgstr "temnota"
 
 #. {"smoke","GAS"}
 #: data/vanilla/vanilla_procedural/scripts/generators/evil.lua:33
@@ -8773,175 +8773,175 @@ msgstr "výpar"
 #: data/vanilla/vanilla_procedural/scripts/generators/evil.lua:38
 msgctxt "cloud_zombie_names"
 msgid "husk"
-msgstr ""
+msgstr "skořápka"
 
 #. {"husk","husks"}
 #: data/vanilla/vanilla_procedural/scripts/generators/evil.lua:38
 msgctxt "cloud_zombie_names"
 msgid "husks"
-msgstr ""
+msgstr "skořápky"
 
 #. {"zombie","zombies"}
 #: data/vanilla/vanilla_procedural/scripts/generators/evil.lua:39
 msgctxt "cloud_zombie_names"
 msgid "zombie"
-msgstr ""
+msgstr "zombie"
 
 #. {"zombie","zombies"}
 #: data/vanilla/vanilla_procedural/scripts/generators/evil.lua:39
 msgctxt "cloud_zombie_names"
 msgid "zombies"
-msgstr ""
+msgstr "zombíci"
 
 #. {"thrall","thralls"}
 #: data/vanilla/vanilla_procedural/scripts/generators/evil.lua:40
 msgctxt "cloud_zombie_names"
 msgid "thrall"
-msgstr ""
+msgstr "otrok"
 
 #. {"thrall","thralls"}
 #: data/vanilla/vanilla_procedural/scripts/generators/evil.lua:40
 msgctxt "cloud_zombie_names"
 msgid "thralls"
-msgstr ""
+msgstr "otroci"
 
 #. "pungent"
 #: data/vanilla/vanilla_procedural/scripts/generators/evil.lua:113
 msgctxt "rain_adjs"
 msgid "pungent"
-msgstr ""
+msgstr "štiplavý"
 
 #. "acrid"
 #: data/vanilla/vanilla_procedural/scripts/generators/evil.lua:114
 msgctxt "rain_adjs"
 msgid "acrid"
-msgstr ""
+msgstr "trpký"
 
 #. "bitter"
 #: data/vanilla/vanilla_procedural/scripts/generators/evil.lua:115
 msgctxt "rain_adjs"
 msgid "bitter"
-msgstr ""
+msgstr "hořký"
 
 #. "stinking"
 #: data/vanilla/vanilla_procedural/scripts/generators/evil.lua:116
 msgctxt "rain_adjs"
 msgid "stinking"
-msgstr ""
+msgstr "páchoucí"
 
 #. "abhorrent"
 #: data/vanilla/vanilla_procedural/scripts/generators/evil.lua:117
 msgctxt "rain_adjs"
 msgid "abhorrent"
-msgstr ""
+msgstr "odporný"
 
 #. "fetid"
 #: data/vanilla/vanilla_procedural/scripts/generators/evil.lua:118
 msgctxt "rain_adjs"
 msgid "fetid"
-msgstr ""
+msgstr "páchnoucí"
 
 #. "filthy"
 #: data/vanilla/vanilla_procedural/scripts/generators/evil.lua:119
 msgctxt "rain_adjs"
 msgid "filthy"
-msgstr ""
+msgstr "špinavý"
 
 #. "heinous"
 #: data/vanilla/vanilla_procedural/scripts/generators/evil.lua:120
 msgctxt "rain_adjs"
 msgid "heinous"
-msgstr ""
+msgstr "hrozný"
 
 #. "horrid"
 #: data/vanilla/vanilla_procedural/scripts/generators/evil.lua:121
 msgctxt "rain_adjs"
 msgid "horrid"
-msgstr ""
+msgstr "hrozný"
 
 #. "loathsome"
 #: data/vanilla/vanilla_procedural/scripts/generators/evil.lua:122
 msgctxt "rain_adjs"
 msgid "loathsome"
-msgstr ""
+msgstr "hnusný"
 
 #. "malodorous"
 #: data/vanilla/vanilla_procedural/scripts/generators/evil.lua:123
 msgctxt "rain_adjs"
 msgid "malodorous"
-msgstr ""
+msgstr "zapáchající"
 
 #. "nauseating"
 #: data/vanilla/vanilla_procedural/scripts/generators/evil.lua:124
 msgctxt "rain_adjs"
 msgid "nauseating"
-msgstr ""
+msgstr "nechutný"
 
 #. "putrid"
 #: data/vanilla/vanilla_procedural/scripts/generators/evil.lua:125
 msgctxt "rain_adjs"
 msgid "putrid"
-msgstr ""
+msgstr "hnilobný"
 
 #. "repellent"
 #: data/vanilla/vanilla_procedural/scripts/generators/evil.lua:126
 msgctxt "rain_adjs"
 msgid "repellent"
-msgstr ""
+msgstr "odpuzující"
 
 #. "repulsive"
 #: data/vanilla/vanilla_procedural/scripts/generators/evil.lua:127
 msgctxt "rain_adjs"
 msgid "repulsive"
-msgstr ""
+msgstr "odporný"
 
 #. "revolting"
 #: data/vanilla/vanilla_procedural/scripts/generators/evil.lua:128
 msgctxt "rain_adjs"
 msgid "revolting"
-msgstr ""
+msgstr "hnusný"
 
 #. "rotten"
 #: data/vanilla/vanilla_procedural/scripts/generators/evil.lua:129
 msgctxt "rain_adjs"
 msgid "rotten"
-msgstr ""
+msgstr "shnilý"
 
 #. "vile"
 #: data/vanilla/vanilla_procedural/scripts/generators/evil.lua:130
 msgctxt "rain_adjs"
 msgid "vile"
-msgstr ""
+msgstr "odporný"
 
 #. "slime"
 #: data/vanilla/vanilla_procedural/scripts/generators/evil.lua:134
 msgctxt "rain_names"
 msgid "slime"
-msgstr ""
+msgstr "sliz"
 
 #. "goo"
 #: data/vanilla/vanilla_procedural/scripts/generators/evil.lua:135
 msgctxt "rain_names"
 msgid "goo"
-msgstr ""
+msgstr "pěna"
 
 #. "mucus"
 #: data/vanilla/vanilla_procedural/scripts/generators/evil.lua:136
 msgctxt "rain_names"
 msgid "mucus"
-msgstr ""
+msgstr "hlen"
 
 #. "ooze"
 #: data/vanilla/vanilla_procedural/scripts/generators/evil.lua:137
 msgctxt "rain_names"
 msgid "ooze"
-msgstr ""
+msgstr "výtok"
 
 #. "sludge"
 #: data/vanilla/vanilla_procedural/scripts/generators/evil.lua:138
 msgctxt "rain_names"
 msgid "sludge"
-msgstr ""
+msgstr "kal"
 
 #. "filth"
 #: data/vanilla/vanilla_procedural/scripts/generators/evil.lua:139
@@ -8959,114 +8959,114 @@ msgstr "bláto"
 #: data/vanilla/vanilla_procedural/scripts/generators/evil.lua:141
 msgctxt "rain_names"
 msgid "slush"
-msgstr ""
+msgstr "břečka"
 
 #. WEAPON="weapon"
 #: data/vanilla/vanilla_procedural/scripts/generators/interactions/blessing.lua:24
 msgid "weapon"
-msgstr ""
+msgstr "zbraň"
 
 #. SHIELD="shield"
 #: data/vanilla/vanilla_procedural/scripts/generators/interactions/blessing.lua:25
 msgid "shield"
-msgstr ""
+msgstr "štít"
 
 #. ARMOR="bodywear"
 #: data/vanilla/vanilla_procedural/scripts/generators/interactions/blessing.lua:26
 msgid "bodywear"
-msgstr ""
+msgstr "oděv trupu"
 
 #. PANTS="legwear"
 #: data/vanilla/vanilla_procedural/scripts/generators/interactions/blessing.lua:27
 msgid "legwear"
-msgstr ""
+msgstr "oděv nohou"
 
 #. HELM="headwear"
 #: data/vanilla/vanilla_procedural/scripts/generators/interactions/blessing.lua:28
 msgid "headwear"
-msgstr ""
+msgstr "oděv hlavy"
 
 #. GLOVES="handwear"
 #: data/vanilla/vanilla_procedural/scripts/generators/interactions/blessing.lua:29
 msgid "handwear"
-msgstr ""
+msgstr "rukavice"
 
 #. SHOES="footwear"
 #: data/vanilla/vanilla_procedural/scripts/generators/interactions/blessing.lua:30
 msgid "footwear"
-msgstr ""
+msgstr "obuv"
 
 #. [IS_TRIGGER_STRING:been blessed with]]..(include_article and " a " or "
 #. ").."holy"..item_names[i_type]..[[!]
 #: data/vanilla/vanilla_procedural/scripts/generators/interactions/blessing.lua:41
 msgid " a "
-msgstr ""
+msgstr " a"
 
 #. [IS_TRIGGER_STRING:been blessed with]]..(include_article and " a " or "
 #. ").."holy"..item_names[i_type]..[[!]
 #: data/vanilla/vanilla_procedural/scripts/generators/interactions/blessing.lua:41
 msgid "holy"
-msgstr ""
+msgstr "posvátný"
 
 #. "crypt"
 #: data/vanilla/vanilla_procedural/scripts/generators/interactions/disturbance.lua:2
 msgctxt "mummy_raise_adjectives"
 msgid "crypt"
-msgstr ""
+msgstr "hrobka"
 
 #. "tomb"
 #: data/vanilla/vanilla_procedural/scripts/generators/interactions/disturbance.lua:3
 msgctxt "mummy_raise_adjectives"
 msgid "tomb"
-msgstr ""
+msgstr "hrob"
 
 #. "entombed"
 #: data/vanilla/vanilla_procedural/scripts/generators/interactions/disturbance.lua:4
 msgctxt "mummy_raise_adjectives"
 msgid "entombed"
-msgstr ""
+msgstr "pohřbený"
 
 #. "buried"
 #: data/vanilla/vanilla_procedural/scripts/generators/interactions/disturbance.lua:5
 msgctxt "mummy_raise_adjectives"
 msgid "buried"
-msgstr ""
+msgstr "pohřbený"
 
 #. "once-resting"
 #: data/vanilla/vanilla_procedural/scripts/generators/interactions/disturbance.lua:6
 msgctxt "mummy_raise_adjectives"
 msgid "once-resting"
-msgstr ""
+msgstr "dříve odpočívající"
 
 #. "sanctified"
 #: data/vanilla/vanilla_procedural/scripts/generators/interactions/disturbance.lua:7
 msgctxt "mummy_raise_adjectives"
 msgid "sanctified"
-msgstr ""
+msgstr "posvěcený"
 
 #. "sacred"
 #: data/vanilla/vanilla_procedural/scripts/generators/interactions/disturbance.lua:8
 msgctxt "mummy_raise_adjectives"
 msgid "sacred"
-msgstr ""
+msgstr "posvátný"
 
 #. "profane"
 #: data/vanilla/vanilla_procedural/scripts/generators/interactions/disturbance.lua:9
 msgctxt "mummy_raise_adjectives"
 msgid "profane"
-msgstr ""
+msgstr "bezbožný"
 
 #. "mausoleum"
 #: data/vanilla/vanilla_procedural/scripts/generators/interactions/disturbance.lua:10
 msgctxt "mummy_raise_adjectives"
 msgid "mausoleum"
-msgstr ""
+msgstr "mauzoleum"
 
 #. "coffin"
 #: data/vanilla/vanilla_procedural/scripts/generators/interactions/disturbance.lua:11
 msgctxt "mummy_raise_adjectives"
 msgid "coffin"
-msgstr ""
+msgstr "rakve"
 
 #. "grave"
 #: data/vanilla/vanilla_procedural/scripts/generators/interactions/disturbance.lua:12
@@ -9078,109 +9078,109 @@ msgstr "hrob"
 #: data/vanilla/vanilla_procedural/scripts/generators/interactions/disturbance.lua:13
 msgctxt "mummy_raise_adjectives"
 msgid "sepulcher"
-msgstr ""
+msgstr "hrobka"
 
 #. "interred"
 #: data/vanilla/vanilla_procedural/scripts/generators/interactions/disturbance.lua:14
 msgctxt "mummy_raise_adjectives"
 msgid "interred"
-msgstr ""
+msgstr "uložený"
 
 #. {"one","ones"}
 #: data/vanilla/vanilla_procedural/scripts/generators/interactions/disturbance.lua:18
 msgctxt "mummy_raise_nouns"
 msgid "one"
-msgstr ""
+msgstr "jeden"
 
 #. {"one","ones"}
 #: data/vanilla/vanilla_procedural/scripts/generators/interactions/disturbance.lua:18
 msgctxt "mummy_raise_nouns"
 msgid "ones"
-msgstr ""
+msgstr "jedni"
 
 #. {"corpse","corpses"}
 #: data/vanilla/vanilla_procedural/scripts/generators/interactions/disturbance.lua:19
 msgctxt "mummy_raise_nouns"
 msgid "corpse"
-msgstr ""
+msgstr "mrtvola"
 
 #. {"corpse","corpses"}
 #: data/vanilla/vanilla_procedural/scripts/generators/interactions/disturbance.lua:19
 msgctxt "mummy_raise_nouns"
 msgid "corpses"
-msgstr ""
+msgstr "mrtvoly"
 
 #. {"ghoul","ghouls"}
 #: data/vanilla/vanilla_procedural/scripts/generators/interactions/disturbance.lua:20
 msgctxt "mummy_raise_nouns"
 msgid "ghoul"
-msgstr ""
+msgstr "ghúl"
 
 #. {"ghoul","ghouls"}
 #: data/vanilla/vanilla_procedural/scripts/generators/interactions/disturbance.lua:20
 msgctxt "mummy_raise_nouns"
 msgid "ghouls"
-msgstr ""
+msgstr "ghúlové"
 
 #. {"zombie","zombies"}
 #: data/vanilla/vanilla_procedural/scripts/generators/interactions/disturbance.lua:21
 msgctxt "mummy_raise_nouns"
 msgid "zombie"
-msgstr ""
+msgstr "zombie"
 
 #. {"zombie","zombies"}
 #: data/vanilla/vanilla_procedural/scripts/generators/interactions/disturbance.lua:21
 msgctxt "mummy_raise_nouns"
 msgid "zombies"
-msgstr ""
+msgstr "zombíci"
 
 #. {"stalker","stalkers"}
 #: data/vanilla/vanilla_procedural/scripts/generators/interactions/disturbance.lua:22
 msgctxt "mummy_raise_nouns"
 msgid "stalker"
-msgstr ""
+msgstr "stopař"
 
 #. {"stalker","stalkers"}
 #: data/vanilla/vanilla_procedural/scripts/generators/interactions/disturbance.lua:22
 msgctxt "mummy_raise_nouns"
 msgid "stalkers"
-msgstr ""
+msgstr "stopaři"
 
 #. {"butcher","butchers"}
 #: data/vanilla/vanilla_procedural/scripts/generators/interactions/disturbance.lua:23
 msgctxt "mummy_raise_nouns"
 msgid "butcher"
-msgstr ""
+msgstr "řezník"
 
 #. {"butcher","butchers"}
 #: data/vanilla/vanilla_procedural/scripts/generators/interactions/disturbance.lua:23
 msgctxt "mummy_raise_nouns"
 msgid "butchers"
-msgstr ""
+msgstr "řezníci"
 
 #. {"hunter","hunters"}
 #: data/vanilla/vanilla_procedural/scripts/generators/interactions/disturbance.lua:24
 msgctxt "mummy_raise_nouns"
 msgid "hunter"
-msgstr ""
+msgstr "lovec"
 
 #. {"hunter","hunters"}
 #: data/vanilla/vanilla_procedural/scripts/generators/interactions/disturbance.lua:24
 msgctxt "mummy_raise_nouns"
 msgid "hunters"
-msgstr ""
+msgstr "lovci"
 
 #. {"slayer","slayers"}
 #: data/vanilla/vanilla_procedural/scripts/generators/interactions/disturbance.lua:25
 msgctxt "mummy_raise_nouns"
 msgid "slayer"
-msgstr ""
+msgstr "zabiják"
 
 #. {"slayer","slayers"}
 #: data/vanilla/vanilla_procedural/scripts/generators/interactions/disturbance.lua:25
 msgctxt "mummy_raise_nouns"
 msgid "slayers"
-msgstr ""
+msgstr "zabijáci"
 
 #. {adj="cavern",adj_after=false}
 #: data/vanilla/vanilla_procedural/scripts/generators/interactions/mythical.lua:3
@@ -9474,55 +9474,55 @@ msgstr "kovový"
 #: data/vanilla/vanilla_procedural/scripts/generators/interactions/mythical.lua:71
 msgctxt "METALS"
 msgid "of metal"
-msgstr ""
+msgstr "z kovu"
 
 #. {adj="steel",adj_after=false}
 #: data/vanilla/vanilla_procedural/scripts/generators/interactions/mythical.lua:72
 msgctxt "METALS"
 msgid "steel"
-msgstr ""
+msgstr "ocel"
 
 #. {adj="of steel",adj_after=true}
 #: data/vanilla/vanilla_procedural/scripts/generators/interactions/mythical.lua:73
 msgctxt "METALS"
 msgid "of steel"
-msgstr ""
+msgstr "z oceli"
 
 #. {adj="iron",adj_after=false}
 #: data/vanilla/vanilla_procedural/scripts/generators/interactions/mythical.lua:74
 msgctxt "METALS"
 msgid "iron"
-msgstr ""
+msgstr "železo"
 
 #. {adj="of iron",adj_after=true}
 #: data/vanilla/vanilla_procedural/scripts/generators/interactions/mythical.lua:75
 msgctxt "METALS"
 msgid "of iron"
-msgstr ""
+msgstr "ze železa"
 
 #. {adj="bronze",adj_after=false}
 #: data/vanilla/vanilla_procedural/scripts/generators/interactions/mythical.lua:76
 msgctxt "METALS"
 msgid "bronze"
-msgstr ""
+msgstr "bronz"
 
 #. {adj="of bronze",adj_after=true}
 #: data/vanilla/vanilla_procedural/scripts/generators/interactions/mythical.lua:77
 msgctxt "METALS"
 msgid "of bronze"
-msgstr ""
+msgstr "z bronzu"
 
 #. {adj="golden",adj_after=false}
 #: data/vanilla/vanilla_procedural/scripts/generators/interactions/mythical.lua:78
 msgctxt "METALS"
 msgid "golden"
-msgstr ""
+msgstr "zlatý"
 
 #. {adj="of gold",adj_after=true}
 #: data/vanilla/vanilla_procedural/scripts/generators/interactions/mythical.lua:79
 msgctxt "METALS"
 msgid "of gold"
-msgstr ""
+msgstr "ze zlata"
 
 #. {adj="silver",adj_after=false}
 #: data/vanilla/vanilla_procedural/scripts/generators/interactions/mythical.lua:80
@@ -9546,7 +9546,7 @@ msgstr "krystalový"
 #: data/vanilla/vanilla_procedural/scripts/generators/interactions/mythical.lua:86
 msgctxt "MINERALS"
 msgid "of crystal"
-msgstr ""
+msgstr "z krystalu"
 
 #. {adj="stone",adj_after=false}
 #: data/vanilla/vanilla_procedural/scripts/generators/interactions/mythical.lua:87
@@ -9564,7 +9564,7 @@ msgstr "kamene"
 #: data/vanilla/vanilla_procedural/scripts/generators/interactions/mythical.lua:91
 msgctxt "MIST"
 msgid "shrouded"
-msgstr ""
+msgstr "zahalený"
 
 #. {adj="mist",adj_after=false}
 #: data/vanilla/vanilla_procedural/scripts/generators/interactions/mythical.lua:92
@@ -9576,25 +9576,25 @@ msgstr "mlha"
 #: data/vanilla/vanilla_procedural/scripts/generators/interactions/mythical.lua:93
 msgctxt "MIST"
 msgid "of mist"
-msgstr ""
+msgstr "z mlhy"
 
 #. {adj="fog",adj_after=false}
 #: data/vanilla/vanilla_procedural/scripts/generators/interactions/mythical.lua:94
 msgctxt "MIST"
 msgid "fog"
-msgstr ""
+msgstr "mlha"
 
 #. {adj="of fog",adj_after=true}
 #: data/vanilla/vanilla_procedural/scripts/generators/interactions/mythical.lua:95
 msgctxt "MIST"
 msgid "of fog"
-msgstr ""
+msgstr "z mlhy"
 
 #. {adj="hidden",adj_after=false}
 #: data/vanilla/vanilla_procedural/scripts/generators/interactions/mythical.lua:96
 msgctxt "MIST"
 msgid "hidden"
-msgstr ""
+msgstr "skrytý"
 
 #. {adj="moon",adj_after=false}
 #: data/vanilla/vanilla_procedural/scripts/generators/interactions/mythical.lua:99
@@ -9606,67 +9606,67 @@ msgstr "měsíc"
 #: data/vanilla/vanilla_procedural/scripts/generators/interactions/mythical.lua:100
 msgctxt "MOON"
 msgid "of the moon"
-msgstr ""
+msgstr "měsíční"
 
 #. {adj="lunar",adj_after=false}
 #: data/vanilla/vanilla_procedural/scripts/generators/interactions/mythical.lua:101
 msgctxt "MOON"
 msgid "lunar"
-msgstr ""
+msgstr "lunární"
 
 #. {adj="of the eclipse",adj_after=true}
 #: data/vanilla/vanilla_procedural/scripts/generators/interactions/mythical.lua:102
 msgctxt "MOON"
 msgid "of the eclipse"
-msgstr ""
+msgstr "z zatmění"
 
 #. {adj="crescent",adj_after=false}
 #: data/vanilla/vanilla_procedural/scripts/generators/interactions/mythical.lua:103
 msgctxt "MOON"
 msgid "crescent"
-msgstr ""
+msgstr "půlměsíc"
 
 #. {adj="mountain",adj_after=false}
 #: data/vanilla/vanilla_procedural/scripts/generators/interactions/mythical.lua:106
 msgctxt "MOUNTAINS"
 msgid "mountain"
-msgstr ""
+msgstr "hora"
 
 #. {adj="of the mountain",adj_after=true}
 #: data/vanilla/vanilla_procedural/scripts/generators/interactions/mythical.lua:107
 msgctxt "MOUNTAINS"
 msgid "of the mountain"
-msgstr ""
+msgstr "horský"
 
 #. {adj="peak",adj_after=false}
 #: data/vanilla/vanilla_procedural/scripts/generators/interactions/mythical.lua:108
 msgctxt "MOUNTAINS"
 msgid "peak"
-msgstr ""
+msgstr "vrchol"
 
 #. {adj="of the peak",adj_after=true}
 #: data/vanilla/vanilla_procedural/scripts/generators/interactions/mythical.lua:109
 msgctxt "MOUNTAINS"
 msgid "of the peak"
-msgstr ""
+msgstr "z vrcholu"
 
 #. {adj="summit",adj_after=false}
 #: data/vanilla/vanilla_procedural/scripts/generators/interactions/mythical.lua:110
 msgctxt "MOUNTAINS"
 msgid "summit"
-msgstr ""
+msgstr "vrcholek"
 
 #. {adj="of the heights",adj_after=true}
 #: data/vanilla/vanilla_procedural/scripts/generators/interactions/mythical.lua:111
 msgctxt "MOUNTAINS"
 msgid "of the heights"
-msgstr ""
+msgstr "z výšin"
 
 #. {adj="ridge",adj_after=false}
 #: data/vanilla/vanilla_procedural/scripts/generators/interactions/mythical.lua:112
 msgctxt "MOUNTAINS"
 msgid "ridge"
-msgstr ""
+msgstr "hřeben"
 
 #. {adj="muck",adj_after=false}
 #: data/vanilla/vanilla_procedural/scripts/generators/interactions/mythical.lua:115
@@ -9678,193 +9678,193 @@ msgstr "bláto"
 #: data/vanilla/vanilla_procedural/scripts/generators/interactions/mythical.lua:116
 msgctxt "MUCK"
 msgid "mud"
-msgstr ""
+msgstr "bahno"
 
 #. {adj="of the mud",adj_after=true}
 #: data/vanilla/vanilla_procedural/scripts/generators/interactions/mythical.lua:117
 msgctxt "MUCK"
 msgid "of the mud"
-msgstr ""
+msgstr "z bahna"
 
 #. {adj="swamp",adj_after=false}
 #: data/vanilla/vanilla_procedural/scripts/generators/interactions/mythical.lua:118
 msgctxt "MUCK"
 msgid "swamp"
-msgstr ""
+msgstr "bažina"
 
 #. {adj="of the swamp",adj_after=true}
 #: data/vanilla/vanilla_procedural/scripts/generators/interactions/mythical.lua:119
 msgctxt "MUCK"
 msgid "of the swamp"
-msgstr ""
+msgstr "z bažiny"
 
 #. {adj="marsh",adj_after=false}
 #: data/vanilla/vanilla_procedural/scripts/generators/interactions/mythical.lua:120
 msgctxt "MUCK"
 msgid "marsh"
-msgstr ""
+msgstr "močál"
 
 #. {adj="of the marsh",adj_after=true}
 #: data/vanilla/vanilla_procedural/scripts/generators/interactions/mythical.lua:121
 msgctxt "MUCK"
 msgid "of the marsh"
-msgstr ""
+msgstr "z močálu"
 
 #. {adj="dread",adj_after=false}
 #: data/vanilla/vanilla_procedural/scripts/generators/interactions/mythical.lua:124
 msgctxt "NIGHTMARES"
 msgid "dread"
-msgstr ""
+msgstr "děs"
 
 #. {adj="of dread",adj_after=true}
 #: data/vanilla/vanilla_procedural/scripts/generators/interactions/mythical.lua:125
 msgctxt "NIGHTMARES"
 msgid "of dread"
-msgstr ""
+msgstr "děsivý"
 
 #. {adj="nightmare",adj_after=false}
 #: data/vanilla/vanilla_procedural/scripts/generators/interactions/mythical.lua:126
 msgctxt "NIGHTMARES"
 msgid "nightmare"
-msgstr ""
+msgstr "noční můra"
 
 #. {adj="of nightmares",adj_after=true}
 #: data/vanilla/vanilla_procedural/scripts/generators/interactions/mythical.lua:127
 msgctxt "NIGHTMARES"
 msgid "of nightmares"
-msgstr ""
+msgstr "z nočních můr"
 
 #. {adj="fear",adj_after=false}
 #: data/vanilla/vanilla_procedural/scripts/generators/interactions/mythical.lua:128
 msgctxt "NIGHTMARES"
 msgid "fear"
-msgstr ""
+msgstr "strach"
 
 #. {adj="of fear",adj_after=true}
 #: data/vanilla/vanilla_procedural/scripts/generators/interactions/mythical.lua:129
 msgctxt "NIGHTMARES"
 msgid "of fear"
-msgstr ""
+msgstr "ze strachu"
 
 #. {adj="terror",adj_after=false}
 #: data/vanilla/vanilla_procedural/scripts/generators/interactions/mythical.lua:130
 msgctxt "NIGHTMARES"
 msgid "terror"
-msgstr ""
+msgstr "hrůza"
 
 #. {adj="of terror",adj_after=true}
 #: data/vanilla/vanilla_procedural/scripts/generators/interactions/mythical.lua:131
 msgctxt "NIGHTMARES"
 msgid "of terror"
-msgstr ""
+msgstr "z hrůzy"
 
 #. {adj="ocean",adj_after=false}
 #: data/vanilla/vanilla_procedural/scripts/generators/interactions/mythical.lua:134
 msgctxt "OCEANS"
 msgid "ocean"
-msgstr ""
+msgstr "oceán"
 
 #. {adj="of the ocean",adj_after=true}
 #: data/vanilla/vanilla_procedural/scripts/generators/interactions/mythical.lua:135
 msgctxt "OCEANS"
 msgid "of the ocean"
-msgstr ""
+msgstr "oceánský"
 
 #. {adj="of oceans",adj_after=true}
 #: data/vanilla/vanilla_procedural/scripts/generators/interactions/mythical.lua:136
 msgctxt "OCEANS"
 msgid "of oceans"
-msgstr ""
+msgstr "z oceánů"
 
 #. {adj="sea",adj_after=false}
 #: data/vanilla/vanilla_procedural/scripts/generators/interactions/mythical.lua:137
 msgctxt "OCEANS"
 msgid "sea"
-msgstr ""
+msgstr "moře"
 
 #. {adj="of the sea",adj_after=true}
 #: data/vanilla/vanilla_procedural/scripts/generators/interactions/mythical.lua:138
 msgctxt "OCEANS"
 msgid "of the sea"
-msgstr ""
+msgstr "mořský"
 
 #. {adj="of seas",adj_after=true}
 #: data/vanilla/vanilla_procedural/scripts/generators/interactions/mythical.lua:139
 msgctxt "OCEANS"
 msgid "of seas"
-msgstr ""
+msgstr "z moří"
 
 #. {adj="tidal",adj_after=false}
 #: data/vanilla/vanilla_procedural/scripts/generators/interactions/mythical.lua:140
 msgctxt "OCEANS"
 msgid "tidal"
-msgstr ""
+msgstr "přílivový"
 
 #. {adj="of the tide",adj_after=true}
 #: data/vanilla/vanilla_procedural/scripts/generators/interactions/mythical.lua:141
 msgctxt "OCEANS"
 msgid "of the tide"
-msgstr ""
+msgstr "z přílivu"
 
 #. {adj="of tides",adj_after=true}
 #: data/vanilla/vanilla_procedural/scripts/generators/interactions/mythical.lua:142
 msgctxt "OCEANS"
 msgid "of tides"
-msgstr ""
+msgstr "z přílivů"
 
 #. {adj="brine",adj_after=false}
 #: data/vanilla/vanilla_procedural/scripts/generators/interactions/mythical.lua:143
 msgctxt "OCEANS"
 msgid "brine"
-msgstr ""
+msgstr "solanka"
 
 #. {adj="of brine",adj_after=true}
 #: data/vanilla/vanilla_procedural/scripts/generators/interactions/mythical.lua:144
 msgctxt "OCEANS"
 msgid "of brine"
-msgstr ""
+msgstr "ze solanky"
 
 #. {adj="foam",adj_after=false}
 #: data/vanilla/vanilla_procedural/scripts/generators/interactions/mythical.lua:145
 msgctxt "OCEANS"
 msgid "foam"
-msgstr ""
+msgstr "pěna"
 
 #. {adj="of foam",adj_after=true}
 #: data/vanilla/vanilla_procedural/scripts/generators/interactions/mythical.lua:146
 msgctxt "OCEANS"
 msgid "of foam"
-msgstr ""
+msgstr "z pěny"
 
 #. {adj="leaf",adj_after=false}
 #: data/vanilla/vanilla_procedural/scripts/generators/interactions/mythical.lua:149
 msgctxt "PLANTS"
 msgid "leaf"
-msgstr ""
+msgstr "list"
 
 #. {adj="of leaves",adj_after=true}
 #: data/vanilla/vanilla_procedural/scripts/generators/interactions/mythical.lua:150
 msgctxt "PLANTS"
 msgid "of leaves"
-msgstr ""
+msgstr "z listů"
 
 #. {adj="verdant",adj_after=false}
 #: data/vanilla/vanilla_procedural/scripts/generators/interactions/mythical.lua:151
 msgctxt "PLANTS"
 msgid "verdant"
-msgstr ""
+msgstr "zelený"
 
 #. {adj="grass",adj_after=false}
 #: data/vanilla/vanilla_procedural/scripts/generators/interactions/mythical.lua:152
 msgctxt "PLANTS"
 msgid "grass"
-msgstr ""
+msgstr "tráva"
 
 #. {adj="of grasses",adj_after=true}
 #: data/vanilla/vanilla_procedural/scripts/generators/interactions/mythical.lua:153
 msgctxt "PLANTS"
 msgid "of grasses"
-msgstr ""
+msgstr "z trav"
 
 #. {adj="salt",adj_after=false}
 #: data/vanilla/vanilla_procedural/scripts/generators/interactions/mythical.lua:156
@@ -9876,7 +9876,7 @@ msgstr "sůl"
 #: data/vanilla/vanilla_procedural/scripts/generators/interactions/mythical.lua:157
 msgctxt "SALT"
 msgid "of salt"
-msgstr ""
+msgstr "ze soli"
 
 #. {adj="sky",adj_after=false}
 #: data/vanilla/vanilla_procedural/scripts/generators/interactions/mythical.lua:160
@@ -9888,49 +9888,49 @@ msgstr "obloha"
 #: data/vanilla/vanilla_procedural/scripts/generators/interactions/mythical.lua:161
 msgctxt "SKY"
 msgid "of the sky"
-msgstr ""
+msgstr "nebeský"
 
 #. {adj="blue",adj_after=false}
 #: data/vanilla/vanilla_procedural/scripts/generators/interactions/mythical.lua:162
 msgctxt "SKY"
 msgid "blue"
-msgstr ""
+msgstr "modrý"
 
 #. {adj="cloud",adj_after=false}
 #: data/vanilla/vanilla_procedural/scripts/generators/interactions/mythical.lua:163
 msgctxt "SKY"
 msgid "cloud"
-msgstr ""
+msgstr "mrak"
 
 #. {adj="of the clouds",adj_after=true}
 #: data/vanilla/vanilla_procedural/scripts/generators/interactions/mythical.lua:164
 msgctxt "SKY"
 msgid "of the clouds"
-msgstr ""
+msgstr "z mraků"
 
 #. {adj="of clouds",adj_after=true}
 #: data/vanilla/vanilla_procedural/scripts/generators/interactions/mythical.lua:165
 msgctxt "SKY"
 msgid "of clouds"
-msgstr ""
+msgstr "z oblaků"
 
 #. {adj="star",adj_after=false}
 #: data/vanilla/vanilla_procedural/scripts/generators/interactions/mythical.lua:168
 msgctxt "STARS"
 msgid "star"
-msgstr ""
+msgstr "hvězda"
 
 #. {adj="of the stars",adj_after=true}
 #: data/vanilla/vanilla_procedural/scripts/generators/interactions/mythical.lua:169
 msgctxt "STARS"
 msgid "of the stars"
-msgstr ""
+msgstr "z hvězd"
 
 #. {adj="of stars",adj_after=true}
 #: data/vanilla/vanilla_procedural/scripts/generators/interactions/mythical.lua:170
 msgctxt "STARS"
 msgid "of stars"
-msgstr ""
+msgstr "hvězdný"
 
 #. {adj="storm",adj_after=false}
 #: data/vanilla/vanilla_procedural/scripts/generators/interactions/mythical.lua:173
@@ -9942,7 +9942,7 @@ msgstr "bouře"
 #: data/vanilla/vanilla_procedural/scripts/generators/interactions/mythical.lua:174
 msgctxt "STORMS"
 msgid "of the storm"
-msgstr ""
+msgstr "z bouře"
 
 #. {adj="of storms",adj_after=true}
 #: data/vanilla/vanilla_procedural/scripts/generators/interactions/mythical.lua:175
@@ -9954,31 +9954,31 @@ msgstr "bouří"
 #: data/vanilla/vanilla_procedural/scripts/generators/interactions/mythical.lua:176
 msgctxt "STORMS"
 msgid "tornado"
-msgstr ""
+msgstr "tornádo"
 
 #. {adj="hurricane",adj_after=false}
 #: data/vanilla/vanilla_procedural/scripts/generators/interactions/mythical.lua:177
 msgctxt "STORMS"
 msgid "hurricane"
-msgstr ""
+msgstr "hurikán"
 
 #. {adj="gale",adj_after=false}
 #: data/vanilla/vanilla_procedural/scripts/generators/interactions/mythical.lua:178
 msgctxt "STORMS"
 msgid "gale"
-msgstr ""
+msgstr "vichr"
 
 #. {adj="of the gale",adj_after=true}
 #: data/vanilla/vanilla_procedural/scripts/generators/interactions/mythical.lua:179
 msgctxt "STORMS"
 msgid "of the gale"
-msgstr ""
+msgstr "z vichru"
 
 #. {adj="of gales",adj_after=true}
 #: data/vanilla/vanilla_procedural/scripts/generators/interactions/mythical.lua:180
 msgctxt "STORMS"
 msgid "of gales"
-msgstr ""
+msgstr "z vichrů"
 
 #. {adj="rain",adj_after=false}
 #: data/vanilla/vanilla_procedural/scripts/generators/interactions/mythical.lua:181
@@ -9990,13 +9990,13 @@ msgstr "déšť"
 #: data/vanilla/vanilla_procedural/scripts/generators/interactions/mythical.lua:182
 msgctxt "STORMS"
 msgid "of the rain"
-msgstr ""
+msgstr "z deště"
 
 #. {adj="of rains",adj_after=true}
 #: data/vanilla/vanilla_procedural/scripts/generators/interactions/mythical.lua:183
 msgctxt "STORMS"
 msgid "of rains"
-msgstr ""
+msgstr "z lijáků"
 
 #. {adj="sun",adj_after=false}
 #: data/vanilla/vanilla_procedural/scripts/generators/interactions/mythical.lua:186
@@ -10008,7 +10008,7 @@ msgstr "slunce"
 #: data/vanilla/vanilla_procedural/scripts/generators/interactions/mythical.lua:187
 msgctxt "SUN"
 msgid "of the sun"
-msgstr ""
+msgstr "ze slunce"
 
 #. {adj="day",adj_after=false}
 #: data/vanilla/vanilla_procedural/scripts/generators/interactions/mythical.lua:188
@@ -10032,169 +10032,169 @@ msgstr "úsvit"
 #: data/vanilla/vanilla_procedural/scripts/generators/interactions/mythical.lua:191
 msgctxt "SUN"
 msgid "of the dawn"
-msgstr ""
+msgstr "z úsvitu"
 
 #. {adj="of dawn",adj_after=true}
 #: data/vanilla/vanilla_procedural/scripts/generators/interactions/mythical.lua:192
 msgctxt "SUN"
 msgid "of dawn"
-msgstr ""
+msgstr "z úsvitu"
 
 #. {adj="noon",adj_after=false}
 #: data/vanilla/vanilla_procedural/scripts/generators/interactions/mythical.lua:193
 msgctxt "SUN"
 msgid "noon"
-msgstr ""
+msgstr "poledne"
 
 #. {adj="of the noon",adj_after=true}
 #: data/vanilla/vanilla_procedural/scripts/generators/interactions/mythical.lua:194
 msgctxt "SUN"
 msgid "of the noon"
-msgstr ""
+msgstr "z poledne"
 
 #. {adj="of noon",adj_after=true}
 #: data/vanilla/vanilla_procedural/scripts/generators/interactions/mythical.lua:195
 msgctxt "SUN"
 msgid "of noon"
-msgstr ""
+msgstr "z poledne"
 
 #. {adj="morning",adj_after=false}
 #: data/vanilla/vanilla_procedural/scripts/generators/interactions/mythical.lua:196
 msgctxt "SUN"
 msgid "morning"
-msgstr ""
+msgstr "ráno"
 
 #. {adj="tree",adj_after=false}
 #: data/vanilla/vanilla_procedural/scripts/generators/interactions/mythical.lua:199
 msgctxt "TREES"
 msgid "tree"
-msgstr ""
+msgstr "strom"
 
 #. {adj="of the trees",adj_after=true}
 #: data/vanilla/vanilla_procedural/scripts/generators/interactions/mythical.lua:200
 msgctxt "TREES"
 msgid "of the trees"
-msgstr ""
+msgstr "ze stromů"
 
 #. {adj="of trees",adj_after=true}
 #: data/vanilla/vanilla_procedural/scripts/generators/interactions/mythical.lua:201
 msgctxt "TREES"
 msgid "of trees"
-msgstr ""
+msgstr "z lesa"
 
 #. {adj="forest",adj_after=false}
 #: data/vanilla/vanilla_procedural/scripts/generators/interactions/mythical.lua:202
 msgctxt "TREES"
 msgid "forest"
-msgstr ""
+msgstr "les"
 
 #. {adj="of the forest",adj_after=true}
 #: data/vanilla/vanilla_procedural/scripts/generators/interactions/mythical.lua:203
 msgctxt "TREES"
 msgid "of the forest"
-msgstr ""
+msgstr "lesní"
 
 #. {adj="of forests",adj_after=true}
 #: data/vanilla/vanilla_procedural/scripts/generators/interactions/mythical.lua:204
 msgctxt "TREES"
 msgid "of forests"
-msgstr ""
+msgstr "z lesů"
 
 #. {adj="leaf",adj_after=false}
 #: data/vanilla/vanilla_procedural/scripts/generators/interactions/mythical.lua:205
 msgctxt "TREES"
 msgid "leaf"
-msgstr ""
+msgstr "list"
 
 #. {adj="of leaves",adj_after=true}
 #: data/vanilla/vanilla_procedural/scripts/generators/interactions/mythical.lua:206
 msgctxt "TREES"
 msgid "of leaves"
-msgstr ""
+msgstr "z listů"
 
 #. {adj="bark",adj_after=false}
 #: data/vanilla/vanilla_procedural/scripts/generators/interactions/mythical.lua:207
 msgctxt "TREES"
 msgid "bark"
-msgstr ""
+msgstr "kůra"
 
 #. {adj="of bark",adj_after=true}
 #: data/vanilla/vanilla_procedural/scripts/generators/interactions/mythical.lua:208
 msgctxt "TREES"
 msgid "of bark"
-msgstr ""
+msgstr "z kůry"
 
 #. {adj="of branches",adj_after=true}
 #: data/vanilla/vanilla_procedural/scripts/generators/interactions/mythical.lua:209
 msgctxt "TREES"
 msgid "of branches"
-msgstr ""
+msgstr "z větví"
 
 #. {adj="root",adj_after=false}
 #: data/vanilla/vanilla_procedural/scripts/generators/interactions/mythical.lua:210
 msgctxt "TREES"
 msgid "root"
-msgstr ""
+msgstr "kořen"
 
 #. {adj="of root",adj_after=true}
 #: data/vanilla/vanilla_procedural/scripts/generators/interactions/mythical.lua:211
 msgctxt "TREES"
 msgid "of root"
-msgstr ""
+msgstr "z kořene"
 
 #. {adj="volcano",adj_after=false}
 #: data/vanilla/vanilla_procedural/scripts/generators/interactions/mythical.lua:214
 msgctxt "VOLCANOS"
 msgid "volcano"
-msgstr ""
+msgstr "sopka"
 
 #. {adj="of volcanoes",adj_after=true}
 #: data/vanilla/vanilla_procedural/scripts/generators/interactions/mythical.lua:215
 msgctxt "VOLCANOS"
 msgid "of volcanoes"
-msgstr ""
+msgstr "ze sopek"
 
 #. {adj="magma",adj_after=false}
 #: data/vanilla/vanilla_procedural/scripts/generators/interactions/mythical.lua:216
 msgctxt "VOLCANOS"
 msgid "magma"
-msgstr ""
+msgstr "magma"
 
 #. {adj="of magma",adj_after=true}
 #: data/vanilla/vanilla_procedural/scripts/generators/interactions/mythical.lua:217
 msgctxt "VOLCANOS"
 msgid "of magma"
-msgstr ""
+msgstr "z magmatu"
 
 #. {adj="lava",adj_after=false}
 #: data/vanilla/vanilla_procedural/scripts/generators/interactions/mythical.lua:218
 msgctxt "VOLCANOS"
 msgid "lava"
-msgstr ""
+msgstr "láva"
 
 #. {adj="of lava",adj_after=true}
 #: data/vanilla/vanilla_procedural/scripts/generators/interactions/mythical.lua:219
 msgctxt "VOLCANOS"
 msgid "of lava"
-msgstr ""
+msgstr "z lávy"
 
 #. {adj="of eruptions",adj_after=true}
 #: data/vanilla/vanilla_procedural/scripts/generators/interactions/mythical.lua:220
 msgctxt "VOLCANOS"
 msgid "of eruptions"
-msgstr ""
+msgstr "ze erupcí"
 
 #. {adj="of the waters",adj_after=true}
 #: data/vanilla/vanilla_procedural/scripts/generators/interactions/mythical.lua:224
 msgctxt "WATER"
 msgid "of the waters"
-msgstr ""
+msgstr "z vod"
 
 #. {adj="of water",adj_after=true}
 #: data/vanilla/vanilla_procedural/scripts/generators/interactions/mythical.lua:225
 msgctxt "WATER"
 msgid "of water"
-msgstr ""
+msgstr "z vody"
 
 #. {adj="flowing",adj_after=false}
 #: data/vanilla/vanilla_procedural/scripts/generators/interactions/mythical.lua:226
@@ -10212,7 +10212,7 @@ msgstr "led"
 #: data/vanilla/vanilla_procedural/scripts/generators/interactions/mythical.lua:228
 msgctxt "WATER"
 msgid "of ice"
-msgstr ""
+msgstr "z ledu"
 
 #. {adj="wind",adj_after=false}
 #: data/vanilla/vanilla_procedural/scripts/generators/interactions/mythical.lua:231
@@ -10224,120 +10224,120 @@ msgstr "vítr"
 #: data/vanilla/vanilla_procedural/scripts/generators/interactions/mythical.lua:232
 msgctxt "WIND"
 msgid "of the wind"
-msgstr ""
+msgstr "z větru"
 
 #. {adj="of wind",adj_after=true}
 #: data/vanilla/vanilla_procedural/scripts/generators/interactions/mythical.lua:233
 msgctxt "WIND"
 msgid "of wind"
-msgstr ""
+msgstr "z větru"
 
 #. {adj="tornado",adj_after=false}
 #: data/vanilla/vanilla_procedural/scripts/generators/interactions/mythical.lua:234
 msgctxt "WIND"
 msgid "tornado"
-msgstr ""
+msgstr "tornádo"
 
 #. {adj="hurricane",adj_after=false}
 #: data/vanilla/vanilla_procedural/scripts/generators/interactions/mythical.lua:235
 msgctxt "WIND"
 msgid "hurricane"
-msgstr ""
+msgstr "hurikán"
 
 #. {adj="gale",adj_after=false}
 #: data/vanilla/vanilla_procedural/scripts/generators/interactions/mythical.lua:236
 msgctxt "WIND"
 msgid "gale"
-msgstr ""
+msgstr "vichr"
 
 #. {adj="of the gale",adj_after=true}
 #: data/vanilla/vanilla_procedural/scripts/generators/interactions/mythical.lua:237
 msgctxt "WIND"
 msgid "of the gale"
-msgstr ""
+msgstr "z vichru"
 
 #. {adj="of gales",adj_after=true}
 #: data/vanilla/vanilla_procedural/scripts/generators/interactions/mythical.lua:238
 msgctxt "WIND"
 msgid "of gales"
-msgstr ""
+msgstr "z vichrů"
 
 #. "servant"
 #: data/vanilla/vanilla_procedural/scripts/generators/interactions/mythical.lua:244
 msgctxt "mythical_names"
 msgid "servant"
-msgstr ""
+msgstr "služebník"
 
 #. "follower"
 #: data/vanilla/vanilla_procedural/scripts/generators/interactions/mythical.lua:245
 msgctxt "mythical_names"
 msgid "follower"
-msgstr ""
+msgstr "následovník"
 
 #. "cultist"
 #: data/vanilla/vanilla_procedural/scripts/generators/interactions/mythical.lua:246
 msgctxt "mythical_names"
 msgid "cultist"
-msgstr ""
+msgstr "kultista"
 
 #. "worshipper"
 #: data/vanilla/vanilla_procedural/scripts/generators/interactions/mythical.lua:247
 msgctxt "mythical_names"
 msgid "worshipper"
-msgstr ""
+msgstr "uctívač"
 
 #. "adept"
 #: data/vanilla/vanilla_procedural/scripts/generators/interactions/mythical.lua:250
 msgctxt "mythical_names"
 msgid "adept"
-msgstr ""
+msgstr "adept"
 
 #. "priest"
 #: data/vanilla/vanilla_procedural/scripts/generators/interactions/mythical.lua:251
 msgctxt "mythical_names"
 msgid "priest"
-msgstr ""
+msgstr "kněz"
 
 #. "cleric"
 #: data/vanilla/vanilla_procedural/scripts/generators/interactions/mythical.lua:252
 msgctxt "mythical_names"
 msgid "cleric"
-msgstr ""
+msgstr "klerik"
 
 #. "shaman"
 #: data/vanilla/vanilla_procedural/scripts/generators/interactions/mythical.lua:253
 msgctxt "mythical_names"
 msgid "shaman"
-msgstr ""
+msgstr "šaman"
 
 #. "lord"
 #: data/vanilla/vanilla_procedural/scripts/generators/interactions/mythical.lua:256
 msgctxt "mythical_names"
 msgid "lord"
-msgstr ""
+msgstr "pán"
 
 #. "master"
 #: data/vanilla/vanilla_procedural/scripts/generators/interactions/mythical.lua:257
 msgctxt "mythical_names"
 msgid "master"
-msgstr ""
+msgstr "mistr"
 
 #. "ancient"
 #: data/vanilla/vanilla_procedural/scripts/generators/interactions/mythical.lua:258
 msgctxt "mythical_names"
 msgid "ancient"
-msgstr ""
+msgstr "starobylý"
 
 #. "elder"
 #: data/vanilla/vanilla_procedural/scripts/generators/interactions/mythical.lua:259
 msgctxt "mythical_names"
 msgid "elder"
-msgstr ""
+msgstr "starší"
 
 #. name_plural_str=name_str.."s"
 #: data/vanilla/vanilla_procedural/scripts/generators/interactions/mythical.lua:267
 msgid "s"
-msgstr ""
+msgstr "s"
 
 #. "night"
 #: data/vanilla/vanilla_procedural/scripts/generators/interactions/secret.lua:2
@@ -10349,13 +10349,13 @@ msgstr "noc"
 #: data/vanilla/vanilla_procedural/scripts/generators/interactions/secret.lua:3
 msgctxt "necromancer_raise_adjectives"
 msgid "risen"
-msgstr ""
+msgstr "povstalý"
 
 #. "sunless"
 #: data/vanilla/vanilla_procedural/scripts/generators/interactions/secret.lua:4
 msgctxt "necromancer_raise_adjectives"
 msgid "sunless"
-msgstr ""
+msgstr "bezslunečný"
 
 #. "dark"
 #: data/vanilla/vanilla_procedural/scripts/generators/interactions/secret.lua:5
@@ -10367,37 +10367,37 @@ msgstr "tmavý"
 #: data/vanilla/vanilla_procedural/scripts/generators/interactions/secret.lua:6
 msgctxt "necromancer_raise_adjectives"
 msgid "pale"
-msgstr ""
+msgstr "bledý"
 
 #. "returned"
 #: data/vanilla/vanilla_procedural/scripts/generators/interactions/secret.lua:7
 msgctxt "necromancer_raise_adjectives"
 msgid "returned"
-msgstr ""
+msgstr "navrátivší"
 
 #. "hollow"
 #: data/vanilla/vanilla_procedural/scripts/generators/interactions/secret.lua:8
 msgctxt "necromancer_raise_adjectives"
 msgid "hollow"
-msgstr ""
+msgstr "dutý"
 
 #. "cold"
 #: data/vanilla/vanilla_procedural/scripts/generators/interactions/secret.lua:9
 msgctxt "necromancer_raise_adjectives"
 msgid "cold"
-msgstr ""
+msgstr "studený"
 
 #. "gaunt"
 #: data/vanilla/vanilla_procedural/scripts/generators/interactions/secret.lua:10
 msgctxt "necromancer_raise_adjectives"
 msgid "gaunt"
-msgstr ""
+msgstr "vyzáblý"
 
 #. "doomed"
 #: data/vanilla/vanilla_procedural/scripts/generators/interactions/secret.lua:11
 msgctxt "necromancer_raise_adjectives"
 msgid "doomed"
-msgstr ""
+msgstr "odsouzený"
 
 #. "death"
 #: data/vanilla/vanilla_procedural/scripts/generators/interactions/secret.lua:12
@@ -10409,229 +10409,229 @@ msgstr "smrt"
 #: data/vanilla/vanilla_procedural/scripts/generators/interactions/secret.lua:13
 msgctxt "necromancer_raise_adjectives"
 msgid "empty"
-msgstr ""
+msgstr "prázdný"
 
 #. "void"
 #: data/vanilla/vanilla_procedural/scripts/generators/interactions/secret.lua:14
 msgctxt "necromancer_raise_adjectives"
 msgid "void"
-msgstr ""
+msgstr "prázdnota"
 
 #. "fallen"
 #: data/vanilla/vanilla_procedural/scripts/generators/interactions/secret.lua:15
 msgctxt "necromancer_raise_adjectives"
 msgid "fallen"
-msgstr ""
+msgstr "padlý"
 
 #. "fell"
 #: data/vanilla/vanilla_procedural/scripts/generators/interactions/secret.lua:16
 msgctxt "necromancer_raise_adjectives"
 msgid "fell"
-msgstr ""
+msgstr "divoký"
 
 #. "cursed"
 #: data/vanilla/vanilla_procedural/scripts/generators/interactions/secret.lua:17
 msgctxt "necromancer_raise_adjectives"
 msgid "cursed"
-msgstr ""
+msgstr "prokletý"
 
 #. "damned"
 #: data/vanilla/vanilla_procedural/scripts/generators/interactions/secret.lua:18
 msgctxt "necromancer_raise_adjectives"
 msgid "damned"
-msgstr ""
+msgstr "zatracený"
 
 #. "lost"
 #: data/vanilla/vanilla_procedural/scripts/generators/interactions/secret.lua:19
 msgctxt "necromancer_raise_adjectives"
 msgid "lost"
-msgstr ""
+msgstr "ztracený"
 
 #. "ruined"
 #: data/vanilla/vanilla_procedural/scripts/generators/interactions/secret.lua:20
 msgctxt "necromancer_raise_adjectives"
 msgid "ruined"
-msgstr ""
+msgstr "zřícený"
 
 #. "dismal"
 #: data/vanilla/vanilla_procedural/scripts/generators/interactions/secret.lua:21
 msgctxt "necromancer_raise_adjectives"
 msgid "dismal"
-msgstr ""
+msgstr "ponurý"
 
 #. "fetid"
 #: data/vanilla/vanilla_procedural/scripts/generators/interactions/secret.lua:22
 msgctxt "necromancer_raise_adjectives"
 msgid "fetid"
-msgstr ""
+msgstr "páchnoucí"
 
 #. "rotten"
 #: data/vanilla/vanilla_procedural/scripts/generators/interactions/secret.lua:23
 msgctxt "necromancer_raise_adjectives"
 msgid "rotten"
-msgstr ""
+msgstr "shnilý"
 
 #. "putrid"
 #: data/vanilla/vanilla_procedural/scripts/generators/interactions/secret.lua:24
 msgctxt "necromancer_raise_adjectives"
 msgid "putrid"
-msgstr ""
+msgstr "hnilobný"
 
 #. "corrupted"
 #: data/vanilla/vanilla_procedural/scripts/generators/interactions/secret.lua:25
 msgctxt "necromancer_raise_adjectives"
 msgid "corrupted"
-msgstr ""
+msgstr "zkažený"
 
 #. "bitter"
 #: data/vanilla/vanilla_procedural/scripts/generators/interactions/secret.lua:26
 msgctxt "necromancer_raise_adjectives"
 msgid "bitter"
-msgstr ""
+msgstr "hořký"
 
 #. "bleak"
 #: data/vanilla/vanilla_procedural/scripts/generators/interactions/secret.lua:27
 msgctxt "necromancer_raise_adjectives"
 msgid "bleak"
-msgstr ""
+msgstr "pochmurný"
 
 #. "frozen"
 #: data/vanilla/vanilla_procedural/scripts/generators/interactions/secret.lua:28
 msgctxt "necromancer_raise_adjectives"
 msgid "frozen"
-msgstr ""
+msgstr "zmrzlý"
 
 #. "faded"
 #: data/vanilla/vanilla_procedural/scripts/generators/interactions/secret.lua:29
 msgctxt "necromancer_raise_adjectives"
 msgid "faded"
-msgstr ""
+msgstr "vybledlý"
 
 #. "faint"
 #: data/vanilla/vanilla_procedural/scripts/generators/interactions/secret.lua:30
 msgctxt "necromancer_raise_adjectives"
 msgid "faint"
-msgstr ""
+msgstr "slabý"
 
 #. "sallow"
 #: data/vanilla/vanilla_procedural/scripts/generators/interactions/secret.lua:31
 msgctxt "necromancer_raise_adjectives"
 msgid "sallow"
-msgstr ""
+msgstr "seschlý"
 
 #. "forlorn"
 #: data/vanilla/vanilla_procedural/scripts/generators/interactions/secret.lua:32
 msgctxt "necromancer_raise_adjectives"
 msgid "forlorn"
-msgstr ""
+msgstr "opuštěný"
 
 #. "grim"
 #: data/vanilla/vanilla_procedural/scripts/generators/interactions/secret.lua:33
 msgctxt "necromancer_raise_adjectives"
 msgid "grim"
-msgstr ""
+msgstr "ponurý"
 
 #. "wasting"
 #: data/vanilla/vanilla_procedural/scripts/generators/interactions/secret.lua:34
 msgctxt "necromancer_raise_adjectives"
 msgid "wasting"
-msgstr ""
+msgstr "chátrající"
 
 #. {"one","ones"}
 #: data/vanilla/vanilla_procedural/scripts/generators/interactions/secret.lua:38
 msgctxt "necromancer_raise_nouns"
 msgid "one"
-msgstr ""
+msgstr "jeden"
 
 #. {"one","ones"}
 #: data/vanilla/vanilla_procedural/scripts/generators/interactions/secret.lua:38
 msgctxt "necromancer_raise_nouns"
 msgid "ones"
-msgstr ""
+msgstr "jedni"
 
 #. {"corpse","corpses"}
 #: data/vanilla/vanilla_procedural/scripts/generators/interactions/secret.lua:39
 msgctxt "necromancer_raise_nouns"
 msgid "corpse"
-msgstr ""
+msgstr "mrtvola"
 
 #. {"corpse","corpses"}
 #: data/vanilla/vanilla_procedural/scripts/generators/interactions/secret.lua:39
 msgctxt "necromancer_raise_nouns"
 msgid "corpses"
-msgstr ""
+msgstr "mrtvoly"
 
 #. {"ghoul","ghouls"}
 #: data/vanilla/vanilla_procedural/scripts/generators/interactions/secret.lua:40
 msgctxt "necromancer_raise_nouns"
 msgid "ghoul"
-msgstr ""
+msgstr "ghúl"
 
 #. {"ghoul","ghouls"}
 #: data/vanilla/vanilla_procedural/scripts/generators/interactions/secret.lua:40
 msgctxt "necromancer_raise_nouns"
 msgid "ghouls"
-msgstr ""
+msgstr "ghúlové"
 
 #. {"zombie","zombies"}
 #: data/vanilla/vanilla_procedural/scripts/generators/interactions/secret.lua:41
 msgctxt "necromancer_raise_nouns"
 msgid "zombie"
-msgstr ""
+msgstr "zombie"
 
 #. {"zombie","zombies"}
 #: data/vanilla/vanilla_procedural/scripts/generators/interactions/secret.lua:41
 msgctxt "necromancer_raise_nouns"
 msgid "zombies"
-msgstr ""
+msgstr "zombíci"
 
 #. {"stalker","stalkers"}
 #: data/vanilla/vanilla_procedural/scripts/generators/interactions/secret.lua:42
 msgctxt "necromancer_raise_nouns"
 msgid "stalker"
-msgstr ""
+msgstr "stopař"
 
 #. {"stalker","stalkers"}
 #: data/vanilla/vanilla_procedural/scripts/generators/interactions/secret.lua:42
 msgctxt "necromancer_raise_nouns"
 msgid "stalkers"
-msgstr ""
+msgstr "stopaři"
 
 #. {"butcher","butchers"}
 #: data/vanilla/vanilla_procedural/scripts/generators/interactions/secret.lua:43
 msgctxt "necromancer_raise_nouns"
 msgid "butcher"
-msgstr ""
+msgstr "řezník"
 
 #. {"butcher","butchers"}
 #: data/vanilla/vanilla_procedural/scripts/generators/interactions/secret.lua:43
 msgctxt "necromancer_raise_nouns"
 msgid "butchers"
-msgstr ""
+msgstr "řezníci"
 
 #. {"hunter","hunters"}
 #: data/vanilla/vanilla_procedural/scripts/generators/interactions/secret.lua:44
 msgctxt "necromancer_raise_nouns"
 msgid "hunter"
-msgstr ""
+msgstr "lovec"
 
 #. {"hunter","hunters"}
 #: data/vanilla/vanilla_procedural/scripts/generators/interactions/secret.lua:44
 msgctxt "necromancer_raise_nouns"
 msgid "hunters"
-msgstr ""
+msgstr "lovci"
 
 #. {"slayer","slayers"}
 #: data/vanilla/vanilla_procedural/scripts/generators/interactions/secret.lua:45
 msgctxt "necromancer_raise_nouns"
 msgid "slayer"
-msgstr ""
+msgstr "zabiják"
 
 #. {"slayer","slayers"}
 #: data/vanilla/vanilla_procedural/scripts/generators/interactions/secret.lua:45
 msgctxt "necromancer_raise_nouns"
 msgid "slayers"
-msgstr ""
+msgstr "zabijáci"
 
 #. "blighted"
 #: data/vanilla/vanilla_procedural/scripts/generators/interactions/secret.lua:49
@@ -10643,7 +10643,7 @@ msgstr "zasažený morem"
 #: data/vanilla/vanilla_procedural/scripts/generators/interactions/secret.lua:50
 msgctxt "ghoul_adjectives"
 msgid "infected"
-msgstr ""
+msgstr "infikovaný"
 
 #. "diseased"
 #: data/vanilla/vanilla_procedural/scripts/generators/interactions/secret.lua:51
@@ -10655,43 +10655,43 @@ msgstr "nakažený"
 #: data/vanilla/vanilla_procedural/scripts/generators/interactions/secret.lua:52
 msgctxt "ghoul_adjectives"
 msgid "poisoned"
-msgstr ""
+msgstr "otravený"
 
 #. "tainted"
 #: data/vanilla/vanilla_procedural/scripts/generators/interactions/secret.lua:53
 msgctxt "ghoul_adjectives"
 msgid "tainted"
-msgstr ""
+msgstr "poskvrněný"
 
 #. "plague"
 #: data/vanilla/vanilla_procedural/scripts/generators/interactions/secret.lua:54
 msgctxt "ghoul_adjectives"
 msgid "plague"
-msgstr ""
+msgstr "mor"
 
 #. {"ghoul","ghouls"}
 #: data/vanilla/vanilla_procedural/scripts/generators/interactions/secret.lua:58
 msgctxt "ghoul_nouns"
 msgid "ghoul"
-msgstr ""
+msgstr "ghúl"
 
 #. {"ghoul","ghouls"}
 #: data/vanilla/vanilla_procedural/scripts/generators/interactions/secret.lua:58
 msgctxt "ghoul_nouns"
 msgid "ghouls"
-msgstr ""
+msgstr "ghúlové"
 
 #. {"thrall","thralls"}
 #: data/vanilla/vanilla_procedural/scripts/generators/interactions/secret.lua:59
 msgctxt "ghoul_nouns"
 msgid "thrall"
-msgstr ""
+msgstr "otrok"
 
 #. {"thrall","thralls"}
 #: data/vanilla/vanilla_procedural/scripts/generators/interactions/secret.lua:59
 msgctxt "ghoul_nouns"
 msgid "thralls"
-msgstr ""
+msgstr "otroci"
 
 #. "night"
 #: data/vanilla/vanilla_procedural/scripts/generators/interactions/secret.lua:63
@@ -10703,13 +10703,13 @@ msgstr "noc"
 #: data/vanilla/vanilla_procedural/scripts/generators/interactions/secret.lua:64
 msgctxt "necromancer_ghost_adjs"
 msgid "risen"
-msgstr ""
+msgstr "povstalý"
 
 #. "sunless"
 #: data/vanilla/vanilla_procedural/scripts/generators/interactions/secret.lua:65
 msgctxt "necromancer_ghost_adjs"
 msgid "sunless"
-msgstr ""
+msgstr "bezslunečný"
 
 #. "dark"
 #: data/vanilla/vanilla_procedural/scripts/generators/interactions/secret.lua:66
@@ -10721,37 +10721,37 @@ msgstr "tmavý"
 #: data/vanilla/vanilla_procedural/scripts/generators/interactions/secret.lua:67
 msgctxt "necromancer_ghost_adjs"
 msgid "pale"
-msgstr ""
+msgstr "bledý"
 
 #. "returned"
 #: data/vanilla/vanilla_procedural/scripts/generators/interactions/secret.lua:68
 msgctxt "necromancer_ghost_adjs"
 msgid "returned"
-msgstr ""
+msgstr "navrátivší"
 
 #. "hollow"
 #: data/vanilla/vanilla_procedural/scripts/generators/interactions/secret.lua:69
 msgctxt "necromancer_ghost_adjs"
 msgid "hollow"
-msgstr ""
+msgstr "dutý"
 
 #. "cold"
 #: data/vanilla/vanilla_procedural/scripts/generators/interactions/secret.lua:70
 msgctxt "necromancer_ghost_adjs"
 msgid "cold"
-msgstr ""
+msgstr "studený"
 
 #. "gaunt"
 #: data/vanilla/vanilla_procedural/scripts/generators/interactions/secret.lua:71
 msgctxt "necromancer_ghost_adjs"
 msgid "gaunt"
-msgstr ""
+msgstr "vyzáblý"
 
 #. "doomed"
 #: data/vanilla/vanilla_procedural/scripts/generators/interactions/secret.lua:72
 msgctxt "necromancer_ghost_adjs"
 msgid "doomed"
-msgstr ""
+msgstr "odsouzený"
 
 #. "death"
 #: data/vanilla/vanilla_procedural/scripts/generators/interactions/secret.lua:73
@@ -10763,145 +10763,145 @@ msgstr "smrt"
 #: data/vanilla/vanilla_procedural/scripts/generators/interactions/secret.lua:74
 msgctxt "necromancer_ghost_adjs"
 msgid "empty"
-msgstr ""
+msgstr "prázdný"
 
 #. "void"
 #: data/vanilla/vanilla_procedural/scripts/generators/interactions/secret.lua:75
 msgctxt "necromancer_ghost_adjs"
 msgid "void"
-msgstr ""
+msgstr "prázdnota"
 
 #. "fallen"
 #: data/vanilla/vanilla_procedural/scripts/generators/interactions/secret.lua:76
 msgctxt "necromancer_ghost_adjs"
 msgid "fallen"
-msgstr ""
+msgstr "padlý"
 
 #. "fell"
 #: data/vanilla/vanilla_procedural/scripts/generators/interactions/secret.lua:77
 msgctxt "necromancer_ghost_adjs"
 msgid "fell"
-msgstr ""
+msgstr "divoký"
 
 #. "cursed"
 #: data/vanilla/vanilla_procedural/scripts/generators/interactions/secret.lua:78
 msgctxt "necromancer_ghost_adjs"
 msgid "cursed"
-msgstr ""
+msgstr "prokletý"
 
 #. "damned"
 #: data/vanilla/vanilla_procedural/scripts/generators/interactions/secret.lua:79
 msgctxt "necromancer_ghost_adjs"
 msgid "damned"
-msgstr ""
+msgstr "zatracený"
 
 #. "lost"
 #: data/vanilla/vanilla_procedural/scripts/generators/interactions/secret.lua:80
 msgctxt "necromancer_ghost_adjs"
 msgid "lost"
-msgstr ""
+msgstr "ztracený"
 
 #. "ruined"
 #: data/vanilla/vanilla_procedural/scripts/generators/interactions/secret.lua:81
 msgctxt "necromancer_ghost_adjs"
 msgid "ruined"
-msgstr ""
+msgstr "zřícený"
 
 #. "dismal"
 #: data/vanilla/vanilla_procedural/scripts/generators/interactions/secret.lua:82
 msgctxt "necromancer_ghost_adjs"
 msgid "dismal"
-msgstr ""
+msgstr "ponurý"
 
 #. "fetid"
 #: data/vanilla/vanilla_procedural/scripts/generators/interactions/secret.lua:83
 msgctxt "necromancer_ghost_adjs"
 msgid "fetid"
-msgstr ""
+msgstr "páchnoucí"
 
 #. "rotten"
 #: data/vanilla/vanilla_procedural/scripts/generators/interactions/secret.lua:84
 msgctxt "necromancer_ghost_adjs"
 msgid "rotten"
-msgstr ""
+msgstr "shnilý"
 
 #. "putrid"
 #: data/vanilla/vanilla_procedural/scripts/generators/interactions/secret.lua:85
 msgctxt "necromancer_ghost_adjs"
 msgid "putrid"
-msgstr ""
+msgstr "hnilobný"
 
 #. "corrupted"
 #: data/vanilla/vanilla_procedural/scripts/generators/interactions/secret.lua:86
 msgctxt "necromancer_ghost_adjs"
 msgid "corrupted"
-msgstr ""
+msgstr "zkažený"
 
 #. "bitter"
 #: data/vanilla/vanilla_procedural/scripts/generators/interactions/secret.lua:87
 msgctxt "necromancer_ghost_adjs"
 msgid "bitter"
-msgstr ""
+msgstr "hořký"
 
 #. "bleak"
 #: data/vanilla/vanilla_procedural/scripts/generators/interactions/secret.lua:88
 msgctxt "necromancer_ghost_adjs"
 msgid "bleak"
-msgstr ""
+msgstr "pochmurný"
 
 #. "frozen"
 #: data/vanilla/vanilla_procedural/scripts/generators/interactions/secret.lua:89
 msgctxt "necromancer_ghost_adjs"
 msgid "frozen"
-msgstr ""
+msgstr "zmrzlý"
 
 #. "faded"
 #: data/vanilla/vanilla_procedural/scripts/generators/interactions/secret.lua:90
 msgctxt "necromancer_ghost_adjs"
 msgid "faded"
-msgstr ""
+msgstr "vybledlý"
 
 #. "faint"
 #: data/vanilla/vanilla_procedural/scripts/generators/interactions/secret.lua:91
 msgctxt "necromancer_ghost_adjs"
 msgid "faint"
-msgstr ""
+msgstr "slabý"
 
 #. "sallow"
 #: data/vanilla/vanilla_procedural/scripts/generators/interactions/secret.lua:92
 msgctxt "necromancer_ghost_adjs"
 msgid "sallow"
-msgstr ""
+msgstr "seschlý"
 
 #. "forlorn"
 #: data/vanilla/vanilla_procedural/scripts/generators/interactions/secret.lua:93
 msgctxt "necromancer_ghost_adjs"
 msgid "forlorn"
-msgstr ""
+msgstr "opuštěný"
 
 #. "grim"
 #: data/vanilla/vanilla_procedural/scripts/generators/interactions/secret.lua:94
 msgctxt "necromancer_ghost_adjs"
 msgid "grim"
-msgstr ""
+msgstr "ponurý"
 
 #. "wasting"
 #: data/vanilla/vanilla_procedural/scripts/generators/interactions/secret.lua:95
 msgctxt "necromancer_ghost_adjs"
 msgid "wasting"
-msgstr ""
+msgstr "chátrající"
 
 #. {"haunt","haunts"}
 #: data/vanilla/vanilla_procedural/scripts/generators/interactions/secret.lua:98
 msgctxt "necromancer_ghost_nouns"
 msgid "haunt"
-msgstr ""
+msgstr "strašidlo"
 
 #. {"haunt","haunts"}
 #: data/vanilla/vanilla_procedural/scripts/generators/interactions/secret.lua:98
 msgctxt "necromancer_ghost_nouns"
 msgid "haunts"
-msgstr ""
+msgstr "strašidla"
 
 #. {"shade","shades"}
 #: data/vanilla/vanilla_procedural/scripts/generators/interactions/secret.lua:99
@@ -10913,67 +10913,67 @@ msgstr "stín"
 #: data/vanilla/vanilla_procedural/scripts/generators/interactions/secret.lua:99
 msgctxt "necromancer_ghost_nouns"
 msgid "shades"
-msgstr ""
+msgstr "stíny"
 
 #. {"wraith","wraiths"}
 #: data/vanilla/vanilla_procedural/scripts/generators/interactions/secret.lua:100
 msgctxt "necromancer_ghost_nouns"
 msgid "wraith"
-msgstr ""
+msgstr "stín"
 
 #. {"wraith","wraiths"}
 #: data/vanilla/vanilla_procedural/scripts/generators/interactions/secret.lua:100
 msgctxt "necromancer_ghost_nouns"
 msgid "wraiths"
-msgstr ""
+msgstr "stíny"
 
 #. {"spirit","spirits"}
 #: data/vanilla/vanilla_procedural/scripts/generators/interactions/secret.lua:101
 msgctxt "necromancer_ghost_nouns"
 msgid "spirit"
-msgstr ""
+msgstr "duch"
 
 #. {"spirit","spirits"}
 #: data/vanilla/vanilla_procedural/scripts/generators/interactions/secret.lua:101
 msgctxt "necromancer_ghost_nouns"
 msgid "spirits"
-msgstr ""
+msgstr "duchové"
 
 #. "primordial"
 #: data/vanilla/vanilla_procedural/scripts/generators/materials.lua:2
 msgctxt "mythical_remnant_adjectives"
 msgid "primordial"
-msgstr ""
+msgstr "prvotní"
 
 #. "elder"
 #: data/vanilla/vanilla_procedural/scripts/generators/materials.lua:3
 msgctxt "mythical_remnant_adjectives"
 msgid "elder"
-msgstr ""
+msgstr "starší"
 
 #. "cosmic"
 #: data/vanilla/vanilla_procedural/scripts/generators/materials.lua:4
 msgctxt "mythical_remnant_adjectives"
 msgid "cosmic"
-msgstr ""
+msgstr "kosmický"
 
 #. "primal"
 #: data/vanilla/vanilla_procedural/scripts/generators/materials.lua:5
 msgctxt "mythical_remnant_adjectives"
 msgid "primal"
-msgstr ""
+msgstr "původní"
 
 #. "elemental"
 #: data/vanilla/vanilla_procedural/scripts/generators/materials.lua:6
 msgctxt "mythical_remnant_adjectives"
 msgid "elemental"
-msgstr ""
+msgstr "elementární"
 
 #. "primeval"
 #: data/vanilla/vanilla_procedural/scripts/generators/materials.lua:7
 msgctxt "mythical_remnant_adjectives"
 msgid "primeval"
-msgstr ""
+msgstr "pračasový"
 
 #. name="stone"
 #: data/vanilla/vanilla_procedural/scripts/generators/materials.lua:13
@@ -11003,7 +11003,7 @@ msgstr "temnota"
 #: data/vanilla/vanilla_procedural/scripts/generators/materials.lua:44
 msgctxt "mythical_remnant_spheres.DREAMS"
 msgid "dreamstuff"
-msgstr ""
+msgstr "snová hmota"
 
 #. name="fire"
 #: data/vanilla/vanilla_procedural/scripts/generators/materials.lua:50
@@ -11033,13 +11033,13 @@ msgstr "kovový"
 #: data/vanilla/vanilla_procedural/scripts/generators/materials.lua:74
 msgctxt "mythical_remnant_spheres.MOON"
 msgid "moonstone"
-msgstr ""
+msgstr "měsíční kámen"
 
 #. name="mudstone"
 #: data/vanilla/vanilla_procedural/scripts/generators/materials.lua:80
 msgctxt "mythical_remnant_spheres.MUCK"
 msgid "mudstone"
-msgstr ""
+msgstr "bahenní kámen"
 
 #. name="ice"
 #: data/vanilla/vanilla_procedural/scripts/generators/materials.lua:86
@@ -11051,7 +11051,7 @@ msgstr "led"
 #: data/vanilla/vanilla_procedural/scripts/generators/materials.lua:94
 msgctxt "mythical_remnant_spheres.PLANTS"
 msgid "leaf"
-msgstr ""
+msgstr "list"
 
 #. name="salt"
 #: data/vanilla/vanilla_procedural/scripts/generators/materials.lua:100
@@ -11063,198 +11063,198 @@ msgstr "sůl"
 #: data/vanilla/vanilla_procedural/scripts/generators/materials.lua:106
 msgctxt "mythical_remnant_spheres.MIST"
 msgid "cloudstuff"
-msgstr ""
+msgstr "oblačná hmota"
 
 #. name="stardust"
 #: data/vanilla/vanilla_procedural/scripts/generators/materials.lua:116
 msgctxt "mythical_remnant_spheres.STARS"
 msgid "stardust"
-msgstr ""
+msgstr "hvězdný prach"
 
 #. name="sunstone"
 #: data/vanilla/vanilla_procedural/scripts/generators/materials.lua:122
 msgctxt "mythical_remnant_spheres.SUN"
 msgid "sunstone"
-msgstr ""
+msgstr "sluneční kámen"
 
 #. name="wood"
 #: data/vanilla/vanilla_procedural/scripts/generators/materials.lua:128
 msgctxt "mythical_remnant_spheres.TREES"
 msgid "wood"
-msgstr ""
+msgstr "dřevo"
 
 #. name="obsidian"
 #: data/vanilla/vanilla_procedural/scripts/generators/materials.lua:134
 msgctxt "mythical_remnant_spheres.VOLCANOS"
 msgid "obsidian"
-msgstr ""
+msgstr "obsidián"
 
 #. "curious"
 #: data/vanilla/vanilla_procedural/scripts/generators/materials.lua:180
 msgctxt "mythical_healing_adjectives"
 msgid "curious"
-msgstr ""
+msgstr "zvědavý"
 
 #. "weird"
 #: data/vanilla/vanilla_procedural/scripts/generators/materials.lua:181
 msgctxt "mythical_healing_adjectives"
 msgid "weird"
-msgstr ""
+msgstr "podivný"
 
 #. "odd"
 #: data/vanilla/vanilla_procedural/scripts/generators/materials.lua:182
 msgctxt "mythical_healing_adjectives"
 msgid "odd"
-msgstr ""
+msgstr "zvláštní"
 
 #. "strange"
 #: data/vanilla/vanilla_procedural/scripts/generators/materials.lua:183
 msgctxt "mythical_healing_adjectives"
 msgid "strange"
-msgstr ""
+msgstr "divný"
 
 #. "unusual"
 #: data/vanilla/vanilla_procedural/scripts/generators/materials.lua:184
 msgctxt "mythical_healing_adjectives"
 msgid "unusual"
-msgstr ""
+msgstr "neobvyklý"
 
 #. "peculiar"
 #: data/vanilla/vanilla_procedural/scripts/generators/materials.lua:185
 msgctxt "mythical_healing_adjectives"
 msgid "peculiar"
-msgstr ""
+msgstr "podivuhodný"
 
 #. "liquid"
 #: data/vanilla/vanilla_procedural/scripts/generators/materials.lua:189
 msgctxt "mythical_healing_liquids"
 msgid "liquid"
-msgstr ""
+msgstr "tekutina"
 
 #. "fluid"
 #: data/vanilla/vanilla_procedural/scripts/generators/materials.lua:190
 msgctxt "mythical_healing_liquids"
 msgid "fluid"
-msgstr ""
+msgstr "fluidum"
 
 #. "broth"
 #: data/vanilla/vanilla_procedural/scripts/generators/materials.lua:191
 msgctxt "mythical_healing_liquids"
 msgid "broth"
-msgstr ""
+msgstr "vývar"
 
 #. "juice"
 #: data/vanilla/vanilla_procedural/scripts/generators/materials.lua:192
 msgctxt "mythical_healing_liquids"
 msgid "juice"
-msgstr ""
+msgstr "šťáva"
 
 #. "goo"
 #: data/vanilla/vanilla_procedural/scripts/generators/materials.lua:193
 msgctxt "mythical_healing_liquids"
 msgid "goo"
-msgstr ""
+msgstr "pěna"
 
 #. "liquor"
 #: data/vanilla/vanilla_procedural/scripts/generators/materials.lua:194
 msgctxt "mythical_healing_liquids"
 msgid "liquor"
-msgstr ""
+msgstr "tekutina"
 
 #. "solution"
 #: data/vanilla/vanilla_procedural/scripts/generators/materials.lua:195
 msgctxt "mythical_healing_liquids"
 msgid "solution"
-msgstr ""
+msgstr "roztok"
 
 #. "jelly"
 #: data/vanilla/vanilla_procedural/scripts/generators/materials.lua:203
 msgctxt "mythical_healing_globs"
 msgid "jelly"
-msgstr ""
+msgstr "želé"
 
 #. "pulp"
 #: data/vanilla/vanilla_procedural/scripts/generators/materials.lua:204
 msgctxt "mythical_healing_globs"
 msgid "pulp"
-msgstr ""
+msgstr "dužina"
 
 #. "wax"
 #: data/vanilla/vanilla_procedural/scripts/generators/materials.lua:205
 msgctxt "mythical_healing_globs"
 msgid "wax"
-msgstr ""
+msgstr "vosk"
 
 #. "jam"
 #: data/vanilla/vanilla_procedural/scripts/generators/materials.lua:206
 msgctxt "mythical_healing_globs"
 msgid "jam"
-msgstr ""
+msgstr "džem"
 
 #. "dough"
 #: data/vanilla/vanilla_procedural/scripts/generators/materials.lua:207
 msgctxt "mythical_healing_globs"
 msgid "dough"
-msgstr ""
+msgstr "těsto"
 
 #. lines[#lines+1]="        [SYN_NAME:"..name_str.." effect]"
 #: data/vanilla/vanilla_procedural/scripts/generators/materials.lua:255
 msgid " effect]"
-msgstr ""
+msgstr " efekt]"
 
 #. "gesture:gestures"
 #: data/vanilla/vanilla_procedural/scripts/init.lua:87
 msgctxt "gestures"
 msgid "gesture:gestures"
-msgstr ""
+msgstr "gesto:gesta"
 
 #. "point:points"
 #: data/vanilla/vanilla_procedural/scripts/init.lua:88
 msgctxt "gestures"
 msgid "point:points"
-msgstr ""
+msgstr "ukázat:ukazuje"
 
 #. "hold up a hand:holds up a hand"
 #: data/vanilla/vanilla_procedural/scripts/init.lua:89
 msgctxt "gestures"
 msgid "hold up a hand:holds up a hand"
-msgstr ""
+msgstr "zvednout ruku:zvedá ruku"
 
 #. "clench a fist:clenches a fist"
 #: data/vanilla/vanilla_procedural/scripts/init.lua:90
 msgctxt "gestures"
 msgid "clench a fist:clenches a fist"
-msgstr ""
+msgstr "sevřít pěst:sevře pěst"
 
 #. "make a flicking motion:makes a flicking motion"
 #: data/vanilla/vanilla_procedural/scripts/init.lua:91
 msgctxt "gestures"
 msgid "make a flicking motion:makes a flicking motion"
-msgstr ""
+msgstr "udělat škubavý pohyb:dělá škubavý pohyb"
 
 #. "point:points"
 #: data/vanilla/vanilla_procedural/scripts/init.lua:95
 msgctxt "gestures_abstract"
 msgid "point:points"
-msgstr ""
+msgstr "ukázat:ukazuje"
 
 #. "wave dismissively:waves dismissively"
 #: data/vanilla/vanilla_procedural/scripts/init.lua:96
 msgctxt "gestures_abstract"
 msgid "wave dismissively:waves dismissively"
-msgstr ""
+msgstr "mávnout pohrdavě:mává pohrdavě"
 
 #. adv_name="Cause pain"
 #: data/vanilla/vanilla_procedural/scripts/init.lua:104
 msgctxt "PAIN"
 msgid "Cause pain"
-msgstr ""
+msgstr "Způsobit bolest"
 
 #. target_verb="feel intense pain:grimaces"
 #: data/vanilla/vanilla_procedural/scripts/init.lua:105
 msgctxt "PAIN"
 msgid "feel intense pain:grimaces"
-msgstr ""
+msgstr "cítit silnou bolest:zkřiví obličej"
 
 #. adv_name="Blister"
 #: data/vanilla/vanilla_procedural/scripts/init.lua:112
@@ -11272,13 +11272,13 @@ msgstr "cítí tvořící se puchýře:šklebí se"
 #: data/vanilla/vanilla_procedural/scripts/init.lua:120
 msgctxt "PARALYSIS"
 msgid "Paralyze"
-msgstr ""
+msgstr "Ochromit"
 
 #. target_verb="feel frozen:freezes"
 #: data/vanilla/vanilla_procedural/scripts/init.lua:121
 msgctxt "PARALYSIS"
 msgid "feel frozen:freezes"
-msgstr ""
+msgstr "cítit zmrznutí:ztuhne"
 
 #. adv_name="Cause bleeding"
 #: data/vanilla/vanilla_procedural/scripts/init.lua:128
@@ -11332,25 +11332,25 @@ msgstr "cítí se nemocně:vypadá nemocně"
 #: data/vanilla/vanilla_procedural/scripts/init.lua:160
 msgctxt "NECROSIS"
 msgid "Rot"
-msgstr ""
+msgstr "Hnití"
 
 #. target_verb="feel death come over you:grimaces"
 #: data/vanilla/vanilla_procedural/scripts/init.lua:161
 msgctxt "NECROSIS"
 msgid "feel death come over you:grimaces"
-msgstr ""
+msgstr "cítit blížící se smrt:zkřiví obličej"
 
 #. adv_name="Suffocate"
 #: data/vanilla/vanilla_procedural/scripts/init.lua:184
 msgctxt "SUFFOCATE"
 msgid "Suffocate"
-msgstr ""
+msgstr "Udusit"
 
 #. target_verb="feel breath leaving you:pauses"
 #: data/vanilla/vanilla_procedural/scripts/init.lua:185
 msgctxt "SUFFOCATE"
 msgid "feel breath leaving you:pauses"
-msgstr ""
+msgstr "cítit odcházející dech:zastaví se"
 
 #. adv_name="Blind"
 #: data/vanilla/vanilla_procedural/scripts/init.lua:192
