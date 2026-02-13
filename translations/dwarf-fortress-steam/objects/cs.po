@@ -12612,7 +12612,7 @@ msgid ""
 "teeth.  It is capable of great speed.]"
 msgstr ""
 "[DESCRIPTION:Velká, agresivní mořská ryba s tlamou plnou ostrých zubů. Je "
-"schopná vysoké rychlosti.]"
+"schopná rychle plavat.]"
 
 msgctxt "CREATURE:SHARK_MAKO_SHORTFIN"
 msgid "[NAME:shortfin mako shark:shortfin mako sharks:shortfin mako shark]"
@@ -13214,15 +13214,16 @@ msgstr ""
 
 msgctxt "CREATURE:FISH_MILKFISH"
 msgid "[NAME:milkfish:milkfish:milkfish]"
-msgstr "[NAME:mléčná ryba:mléčné ryby:mléčné ryby]"
+msgstr "[NAME:chanos stříbřitý:chanosové stříbřití:chanosové stříbřití]"
 
 msgctxt "CREATURE:FISH_MILKFISH"
 msgid "[CASTE_NAME:milkfish:milkfish:milkfish]"
-msgstr "[CASTE_NAME:mléčná ryba:mléčné ryby:mléčné ryby]"
+msgstr "[CASTE_NAME:chanos stříbřitý:chanosové stříbřití:chanosové stříbřití]"
 
 msgctxt "CREATURE:FISH_MILKFISH"
 msgid "[GENERAL_CHILD_NAME:milkfish fry:milkfish fry]"
-msgstr "[GENERAL_CHILD_NAME:smažená mléčná ryba:smažené mléčné ryby]"
+msgstr ""
+"[GENERAL_CHILD_NAME:potěr chanose stříbřitého:potěr chanose stříbřitého]"
 
 msgctxt "CREATURE:FISH_MILKFISH"
 msgid "[PREFSTRING:silvery bodies]"
@@ -13908,15 +13909,15 @@ msgstr ""
 
 msgctxt "CREATURE:FISH_TIGERFISH"
 msgid "[NAME:tigerfish:tigerfish:tigerfish]"
-msgstr "[NAME:tigerfish:tigerfish:tigerfish]"
+msgstr "[NAME:afrotetra:afrotetra:afrotetra]"
 
 msgctxt "CREATURE:FISH_TIGERFISH"
 msgid "[CASTE_NAME:tigerfish:tigerfish:tigerfish]"
-msgstr "[CASTE_NAME:tigerfish:tigerfish:tigerfish]"
+msgstr "[CASTE_NAME:afrotetra:afrotetra:afrotetra]"
 
 msgctxt "CREATURE:FISH_TIGERFISH"
 msgid "[GENERAL_CHILD_NAME:tigerfish fry:tigerfish fry]"
-msgstr "[GENERAL_CHILD_NAME:tigerfish potěr:tigerfish potěr]"
+msgstr "[GENERAL_CHILD_NAME:potěr afrotetra:potěr afrotetrů]"
 
 msgctxt "CREATURE:FISH_TIGERFISH"
 msgid "[PREFSTRING:spirit]"
@@ -41706,15 +41707,15 @@ msgstr "[GROWTH_NAME:vlašský ořech:STP]"
 
 msgctxt "PLANT:MUSHROOM_HELMET_PLUMP"
 msgid "[NAME:plump helmet]"
-msgstr "[NAME:baculatá přilbice]"
+msgstr "[NAME:hřibovník]"
 
 msgctxt "PLANT:MUSHROOM_HELMET_PLUMP"
 msgid "[NAME_PLURAL:plump helmets]"
-msgstr "[NAME_PLURAL:baculaté přilbice]"
+msgstr "[NAME_PLURAL:hřibovníky]"
 
 msgctxt "PLANT:MUSHROOM_HELMET_PLUMP"
 msgid "[ADJ:plump helmet]"
-msgstr "[ADJ:baculatopřilbicový]"
+msgstr "[ADJ:hřibovníkový]"
 
 msgctxt "PLANT:MUSHROOM_HELMET_PLUMP"
 msgid "[STATE_NAME_ADJ:ALL_SOLID:frozen dwarven wine]"
@@ -41730,7 +41731,7 @@ msgstr "[STATE_NAME_ADJ:GAS:vřící trpasličí víno]"
 
 msgctxt "PLANT:MUSHROOM_HELMET_PLUMP"
 msgid "[SEED:plump helmet spawn:plump helmet spawn:]"
-msgstr "[SEED:spóra baculaté přilbice:spóry baculaté přilbice:]"
+msgstr "[SEED:spóra hřibovníku:spóry hřibovníků:]"
 
 msgctxt "PLANT:MUSHROOM_HELMET_PLUMP"
 msgid "[PREFSTRING:rounded tops]"
@@ -41738,15 +41739,15 @@ msgstr "[PREFSTRING:zaoblené klobouky]"
 
 msgctxt "PLANT:GRASS_TAIL_PIG"
 msgid "[NAME:pig tail]"
-msgstr "[NAME:prasochvost]"
+msgstr "[NAME:pigtail]"
 
 msgctxt "PLANT:GRASS_TAIL_PIG"
 msgid "[NAME_PLURAL:pig tails]"
-msgstr "[NAME_PLURAL:prasochvosty]"
+msgstr "[NAME_PLURAL:pigtaily]"
 
 msgctxt "PLANT:GRASS_TAIL_PIG"
 msgid "[ADJ:pig tail]"
-msgstr "[ADJ:prasochvostový]"
+msgstr "[ADJ:pigtailový]"
 
 msgctxt "PLANT:GRASS_TAIL_PIG"
 msgid "[STATE_NAME_ADJ:ALL_SOLID:frozen dwarven ale]"
@@ -41762,19 +41763,19 @@ msgstr "[STATE_NAME_ADJ:GAS:vřící trpasličí pivo]"
 
 msgctxt "PLANT:GRASS_TAIL_PIG"
 msgid "[SEED:pig tail seed:pig tail seeds:]"
-msgstr "[SEED:prasochvostové semeno:prasochvostová semena:]"
+msgstr "[SEED:pigtailová semínko:pigtailová semínka:]"
 
 msgctxt "PLANT:GRASS_TAIL_PIG"
 msgid "[STATE_NAME_ADJ:SOLID:pig tail]"
-msgstr "[STATE_NAME_ADJ:SOLID:prasochvost]"
+msgstr "[STATE_NAME_ADJ:SOLID:pigtail]"
 
 msgctxt "PLANT:GRASS_TAIL_PIG"
 msgid "[STATE_NAME_ADJ:SOLID_PASTE:pig tail slurry]"
-msgstr "[STATE_NAME_ADJ:SOLID_PASTE:prasochvostová kaše]"
+msgstr "[STATE_NAME_ADJ:SOLID_PASTE:pigtailová kaše]"
 
 msgctxt "PLANT:GRASS_TAIL_PIG"
 msgid "[STATE_NAME_ADJ:SOLID_PRESSED:pig tail paper]"
-msgstr "[STATE_NAME_ADJ:SOLID_PRESSED:prasochvostový papír]"
+msgstr "[STATE_NAME_ADJ:SOLID_PRESSED:pigtailový papír]"
 
 msgctxt "PLANT:GRASS_TAIL_PIG"
 msgid "[PREFSTRING:twisting stalks]"
