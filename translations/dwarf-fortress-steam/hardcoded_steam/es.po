@@ -4328,7 +4328,7 @@ msgid " Year"
 msgstr "año"
 
 msgid " Old"
-msgstr "Viejo"
+msgstr "de edad"
 
 msgid "Spouse: "
 msgstr "Cónyuge:"
@@ -4739,7 +4739,7 @@ msgid "Distrustful"
 msgstr "Desconfiado"
 
 msgid "Loner"
-msgstr "Solitario"
+msgstr "Asocial"
 
 msgid "Unassertive"
 msgstr "poco asertivo"
@@ -6700,13 +6700,13 @@ msgid "didn't feel "
 msgstr "no se sentía"
 
 msgid "was "
-msgstr "era"
+msgstr "estaba"
 
 msgid "is "
 msgstr "es"
 
 msgid "felt "
-msgstr "sintió"
+msgstr "se sintió"
 
 msgid "feels "
 msgstr "se siente"
@@ -6988,7 +6988,7 @@ msgid "loathing"
 msgstr "repugnancia"
 
 msgid "lonely"
-msgstr "solitario"
+msgstr "desamparado"
 
 msgid "lustful"
 msgstr "delicioso"
@@ -8872,8 +8872,8 @@ msgid ""
 "but it leaves [C:6:0:1]Boulders[C:7:0:0] which are an essential building "
 "material."
 msgstr ""
-"pero deja [C:6:0:1]Cantos rodados[C:7:0:0] que son un material de "
-"construcción esencial."
+"pero deja [C:6:0:1]Rocas[C:7:0:0] que son un material de construcción "
+"esencial."
 
 msgid "Later you can consider making a [C:3:0:0]Meeting Area[C:7:0:0] "
 msgstr ""
@@ -13528,7 +13528,7 @@ msgid "Value of temple"
 msgstr "Valor del templo"
 
 msgid "Value of temple complex"
-msgstr "Valor del complejo del templo"
+msgstr "Valor del complejo templario"
 
 msgid "Priesthood unit count"
 msgstr "Recuento de unidades del sacerdocio"
@@ -14288,7 +14288,7 @@ msgid "Handling job applications"
 msgstr "Manejando solicitudes de trabajo"
 
 msgid "Unit move"
-msgstr ""
+msgstr "Movimiento de unidad"
 
 msgid "Attempting to load a nemesis record's unit"
 msgstr ""
@@ -14300,61 +14300,61 @@ msgid "Performing social actions"
 msgstr "Realizando acciones sociales"
 
 msgid "Loading a unit chunk"
-msgstr ""
+msgstr "Cargando un pedazo de unidad"
 
 msgid "Advancing vegetation"
-msgstr ""
+msgstr "Avanzando vegetación"
 
 msgid "Advancing interactions"
-msgstr ""
+msgstr "Avanzando interacciones"
 
 msgid "Aging items"
 msgstr "Envejeciendo objetos"
 
 msgid "Advancing map blocks"
-msgstr ""
+msgstr "Avanzando Bloques de mapa"
 
 msgid "Advancing sites"
-msgstr ""
+msgstr "Avanzando sitios"
 
 msgid "Advancing entities"
-msgstr ""
+msgstr "Avanzando entidades"
 
 msgid "Fort mode weather check"
-msgstr ""
+msgstr "Verificar clima del modo fortaleza"
 
 msgid "Advancing unit moves"
-msgstr ""
+msgstr "Avanzando movimiento de entidades"
 
 msgid "Historical figure deaths"
-msgstr ""
+msgstr "Muerte de figura histórica"
 
 msgid "Historical figure conceptions"
-msgstr ""
+msgstr "Concepción de figura histórica"
 
 msgid "Wilderness population changes"
-msgstr ""
+msgstr "Cambios en la población salvaje"
 
 msgid "Entity population changes"
-msgstr ""
+msgstr "Cambios en la población de entidades"
 
 msgid "Historical figure births"
-msgstr ""
+msgstr "Nacimientos de figuras históricas"
 
 msgid "Historical figure growing up"
-msgstr ""
+msgstr "Crecimiento de figura histórica"
 
 msgid "Historical figure marriages"
-msgstr ""
+msgstr "Bodas de figuras históricas"
 
 msgid "Periodic cleanup"
-msgstr ""
+msgstr "limpieza periódica"
 
 msgid "Verifying squad orders"
-msgstr ""
+msgstr "Verificando ordenes de escuadrones"
 
 msgid "Scheduling squads"
-msgstr ""
+msgstr "Programando escuadrones"
 
 msgid "Rendering a widget"
 msgstr "Rendering a widget"
@@ -14397,6 +14397,9 @@ msgid ""
 "performance. Do you wish to enable it? (You can always turn it off or on in "
 "the options later.)"
 msgstr ""
+"Los FPS han caído por debajo de 50. El subprocesamiento múltiple no está "
+"activado y podría mejorar el rendimiento. ¿Deseas activarlo? (Siempre puedes"
+" activarlo o desactivarlo en las opciones más adelante)."
 
 msgid "Probing"
 msgstr "Sondeado"
@@ -15017,7 +15020,7 @@ msgid "a guildhall"
 msgstr "un gremio"
 
 msgid "a temple complex"
-msgstr "un complejo del templo"
+msgstr "un complejo templario"
 
 msgid "a temple"
 msgstr "un templo"
@@ -15685,7 +15688,7 @@ msgid "Any unassigned trainer"
 msgstr "Cualquier entrenador no asignado"
 
 msgid "Residents"
-msgstr ""
+msgstr "Residentes"
 
 msgid "Pets/Livestock"
 msgstr "Mascotas/Ganado"
@@ -15814,7 +15817,7 @@ msgid "Unusable armor"
 msgstr "Armadura inusable"
 
 msgid "Undyed"
-msgstr ""
+msgstr "Sin teñir"
 
 msgid "Unprepared fish"
 msgstr "Pez sin preparar"
@@ -16347,7 +16350,7 @@ msgid "0 = Can use any shop"
 msgstr "0 = Puede usar cualquier tienda"
 
 msgid "Must set colors"
-msgstr ""
+msgstr "Debe establecer los colores"
 
 msgid "There are no active work orders."
 msgstr "No hay órdenes de trabajo activas"
@@ -16383,7 +16386,7 @@ msgid "Farm plots"
 msgstr "Plantaciones"
 
 msgid "Siege engines"
-msgstr ""
+msgstr "Ingenieros de asedio"
 
 msgid "You do not have any zones."
 msgstr "No tienes ninguna zona."
@@ -16424,17 +16427,21 @@ msgstr "No tienes ninguna plantación."
 msgid ""
 "Farm plots are placed using the building menu at the bottom of the screen."
 msgstr ""
+"Las parcelas agrícolas se colocan usando el menú de construcción en la parte"
+" inferior de la pantalla."
 
 msgid "You do not have any siege engines."
-msgstr ""
+msgstr "No tienes ninguna máquina de asedio."
 
 msgid ""
 "Siege engines are placed using the building menu at the bottom of the "
 "screen."
 msgstr ""
+"Las máquinas de asedio se colocan usando el menú de construcción en la parte"
+" inferior de la pantalla."
 
 msgid "All siege engines"
-msgstr ""
+msgstr "Todas las máquinas de asedio"
 
 msgid " to be a holy city"
 msgstr "ser una ciudad sagrada"
@@ -16509,13 +16516,13 @@ msgid "Hospital"
 msgstr "Hospital"
 
 msgid " meeting place"
-msgstr ""
+msgstr "zona de reunión"
 
 msgid " guildhall"
 msgstr "Sede del gremio"
 
 msgid " grand guildhall"
-msgstr ""
+msgstr "gran sede gremial"
 
 msgid "Library"
 msgstr "Libreria"
@@ -16530,7 +16537,7 @@ msgid "Temple"
 msgstr "Templo"
 
 msgid "Temple complex"
-msgstr ""
+msgstr "Complejo templario"
 
 msgid " patient"
 msgstr "paciente"
@@ -16549,19 +16556,19 @@ msgid " to harvest"
 msgstr "cosechar"
 
 msgid "bolt"
-msgstr ""
+msgstr "virote"
 
 msgid "Loaded"
-msgstr ""
+msgstr "Cargado"
 
 msgid "Operator present"
-msgstr ""
+msgstr "Operador presente"
 
 msgid "Operator assigned"
-msgstr ""
+msgstr "Operador asignado"
 
 msgid "No operator"
-msgstr ""
+msgstr "Sin operador"
 
 msgid "Loading"
 msgstr "Cargando"
@@ -16638,7 +16645,7 @@ msgid " family heirloom"
 msgstr "reliquia familiar"
 
 msgid "(De)select all currently displayed creatures."
-msgstr ""
+msgstr "(De)seleccionar todas las criaturas que se muestran actualmente."
 
 msgid " Bugged"
 msgstr " Bugged"
@@ -16851,13 +16858,13 @@ msgid "Rented rooms (Total): "
 msgstr "Habitaciones Alquiladas (Total):"
 
 msgid "Temple Complex, "
-msgstr "Complejo del templo,"
+msgstr "Complejo templario, "
 
 msgid "Temple, "
-msgstr "Templo,"
+msgstr "Templo, "
 
 msgid "Shrine, "
-msgstr "Santuario,"
+msgstr "Santuario, "
 
 msgid "worshippers"
 msgstr " devotos"
@@ -16912,19 +16919,19 @@ msgid " hall"
 msgstr "salón"
 
 msgid "Want "
-msgstr ""
+msgstr "Quiere "
 
 msgid "meeting place"
-msgstr ""
+msgstr "zona de reunión"
 
 msgid "guildhall"
 msgstr "ayuntamiento"
 
 msgid "grand guildhall"
-msgstr ""
+msgstr "gran sede gremial"
 
 msgid "Have "
-msgstr ""
+msgstr "Tiene "
 
 msgid "No workers"
 msgstr "No hay trabajadores"
@@ -16936,7 +16943,7 @@ msgid "No members"
 msgstr "No hay miembros"
 
 msgid "(No particular deity)"
-msgstr ""
+msgstr "(Sin deidad particular)"
 
 msgid "shrine"
 msgstr "santuario"
@@ -16945,7 +16952,7 @@ msgid "temple"
 msgstr "templo"
 
 msgid "temple complex"
-msgstr ""
+msgstr "Complejo templario"
 
 msgid "No worshippers"
 msgstr "Sin devotos"
@@ -17158,7 +17165,7 @@ msgid "Wall"
 msgstr "Muro"
 
 msgid "Reinforced Wall"
-msgstr ""
+msgstr "Muro reforzado"
 
 msgid "Floor"
 msgstr "Suelo/piso"
@@ -17278,7 +17285,7 @@ msgid "Catapult"
 msgstr "catapulta"
 
 msgid "Bolt thrower"
-msgstr ""
+msgstr "Lanzavirotes"
 
 msgid "Disconnected"
 msgstr "Desconectado"
@@ -17527,13 +17534,13 @@ msgid "Removing mining/chopping/gathering/smoothing orders"
 msgstr "Eliminación de órdenes"
 
 msgid "A catapult's orientation cannot be changed"
-msgstr ""
+msgstr "La orientación de una catapulta no pudo ser cambiada"
 
 msgid "once it is placed."
-msgstr ""
+msgstr "una vez es colocado."
 
 msgid "A ballista's orientation cannot be changed"
-msgstr ""
+msgstr "La orientación de una balista no pudo ser cambiada"
 
 msgid "A bolt thrower can be freely turned by the"
 msgstr ""
@@ -17947,43 +17954,43 @@ msgid "Trade Information:"
 msgstr "Información Comercial:"
 
 msgid "Accepted petition:"
-msgstr ""
+msgstr "Petición aceptada:"
 
 msgid "Build a guildhall"
-msgstr ""
+msgstr "Construye un gremio"
 
 msgid "Build a grand guildhall"
-msgstr ""
+msgstr "Contruye una gran sede gremial"
 
 msgid " guild."
-msgstr "gremio."
+msgstr " gremio."
 
 msgid "The associated zones must have enough value. ("
-msgstr ""
+msgstr "Las zonas asociadas deben tener suficiente valor. ("
 
 msgid "Current top guildhall location:"
 msgstr ""
 
 msgid "Current guildhall location:"
-msgstr ""
+msgstr "Localización de gremio actual:"
 
 msgid "No guildhall location currently assigned to a zone."
-msgstr ""
+msgstr "Actualmente no hay ningún gremio asignada a una zona."
 
 msgid "Agreement date: "
-msgstr ""
+msgstr "Fecha de acuerdo: "
 
 msgid "Build a temple"
-msgstr ""
+msgstr "Construye un templo"
 
 msgid "Build a temple complex"
-msgstr ""
+msgstr "Construye un complejo templario"
 
 msgid "A priest must then be elevated."
-msgstr ""
+msgstr "Un sacerdote debe entonces ser consagrado."
 
 msgid "A high priest must then be elevated."
-msgstr ""
+msgstr "Un sumo sacerdote debe entonces ser consagrado."
 
 msgid "Current top temple location:"
 msgstr ""
@@ -17995,16 +18002,16 @@ msgid "No temple location currently assigned to a zone."
 msgstr ""
 
 msgid "Build guildhall"
-msgstr ""
+msgstr "Construir gremio"
 
 msgid "Build grand guildhall"
-msgstr ""
+msgstr "Contruir gran sede gremial"
 
 msgid "Build temple"
-msgstr ""
+msgstr "Construir templo"
 
 msgid "Build temple complex"
-msgstr ""
+msgstr "Construir complejo templario"
 
 msgid "Left click for recenter and expand options.  Right click to dismiss."
 msgstr ""
@@ -18012,7 +18019,7 @@ msgstr ""
 "opciones. Haga clic derecho para cerrar."
 
 msgid "Following "
-msgstr "Siguiendo"
+msgstr "Siguiendo a"
 
 msgid "Tooltip"
 msgstr "Sugerencia de herramienta"
@@ -20003,7 +20010,7 @@ msgid ""
 msgstr ""
 "Puedes construir muros sobre el suelo, en cavernas o en espacios que hayas "
 "excavado para bloquear el paso de criaturas, objetos y fluidos. Requiere "
-"canto rodado, bloque o madera."
+"roca, bloque o madera."
 
 msgid ""
 "You can build reinforced walls aboveground, in caverns, or in spaces you "
@@ -20011,6 +20018,10 @@ msgid ""
 "fluids.  Requires two boulder, block, or wood, and metal bars.  Provides "
 "some resistance to invaders."
 msgstr ""
+"Puedes construir muros reforzados sobre el suelo, en cavernas o en espacios "
+"que hayas excavado para bloquear el paso de criaturas, objetos y fluidos. "
+"Requiere dos rocas, bloque o madera, y barras de metal.  Proporciona algo de"
+" resistencia a invasores."
 
 msgid ""
 "You can place floors for functional reasons or to enhance the appearance of "
@@ -21463,7 +21474,7 @@ msgid "You have no appropriate ingredients."
 msgstr "No tienes los ingredientes apropiados."
 
 msgid "Hauling"
-msgstr "Transportar"
+msgstr "acarreo"
 
 msgid "Forbidding"
 msgstr ""
@@ -21472,7 +21483,7 @@ msgid "Petitions"
 msgstr ""
 
 msgid "Chores"
-msgstr "Quehaceres"
+msgstr "Tareas"
 
 msgid "Do not automate kitchen"
 msgstr "No automatices la cocina"
@@ -26491,10 +26502,10 @@ msgid " steps in an intricate pattern"
 msgstr "pasos en un intrincado patrón"
 
 msgid " move"
-msgstr "mover"
+msgstr "se mueve"
 
 msgid " turn"
-msgstr "girar"
+msgstr "se gira"
 
 msgid " facial expression"
 msgstr "expresión facial"
@@ -26503,16 +26514,16 @@ msgid " hand gesture"
 msgstr "gesto manual"
 
 msgid " straight walk"
-msgstr "caminar recto"
+msgstr "camino recto"
 
 msgid " curved walk"
-msgstr "caminar en curvas"
+msgstr "caminata en curvas"
 
 msgid " run"
-msgstr "correr"
+msgstr "corre"
 
 msgid " leap"
-msgstr "salto"
+msgstr "salta"
 
 msgid " kick"
 msgstr "patea"
@@ -49966,7 +49977,7 @@ msgid "Loathing"
 msgstr "Aborrecimiento"
 
 msgid "Lonely"
-msgstr "Solitario"
+msgstr "Desamparado"
 
 msgid "Miserable"
 msgstr "Miserable"
@@ -56411,7 +56422,7 @@ msgid "after acquiring "
 msgstr "después de adquirir"
 
 msgid "after "
-msgstr "después"
+msgstr "después de"
 
 msgid " was given away"
 msgstr "fue entregado"
@@ -57308,7 +57319,7 @@ msgid "led"
 msgstr "dirigido"
 
 msgid "a lone "
-msgstr "un solitario"
+msgstr "solitario"
 
 msgid "brilliantly led"
 msgstr "brillantemente dirigido"
@@ -62829,7 +62840,7 @@ msgid "Collect hive products"
 msgstr "Recoger productos de la colmena"
 
 msgid "four "
-msgstr ""
+msgstr "cuatro"
 
 msgid " blocks"
 msgstr "bloques"
@@ -69884,14 +69895,14 @@ msgid "a sparring session"
 msgstr "una sesión de entrenamiento"
 
 msgid "being unable to petition for citizenship"
-msgstr "siendo incapaz de solicitar la ciudadanía"
+msgstr "ser incapaz de solicitar la ciudadanía"
 
 msgid "being unable to find somebody to complain to about job scarcity"
 msgstr ""
 "Incapaz de encontrar a alguien para quejarse acerca de la escasez de trabajo"
 
 msgid "being unable to make suggestions about work allocations"
-msgstr "siendo incapaz de hacer sugerencias sobre asignaciones de trabajo"
+msgstr "ser incapaz de hacer sugerencias sobre asignaciones de trabajo"
 
 msgid "being unable to request weapon production"
 msgstr "es incapaz de solicitar producción de armas"
@@ -69903,10 +69914,10 @@ msgid "being unable to find a priest to cry on"
 msgstr "no poder encontrar un sacerdote para llorar"
 
 msgid "being unable to find somebody in charge to yell at"
-msgstr "siendo incapaz de encontrar a alguien a cargo para gritarle"
+msgstr "ser incapaz de encontrar a alguien a cargo para gritarle"
 
 msgid "being unable to find somebody in charge to cry on"
-msgstr "siendo incapaz de encontrar a alguien para llorarle"
+msgstr "ser incapaz de encontrar a alguien para llorarle"
 
 msgid "long patrol duty"
 msgstr "deber de patrulla larga"
@@ -70101,7 +70112,7 @@ msgid "being beaten with a hammer"
 msgstr "siendo golpeado con un martillo"
 
 msgid "being unable to find a hammer"
-msgstr "siendo incapaz de encontrar un martillo"
+msgstr "ser incapaz de encontrar un martillo"
 
 msgid "eating the same old food"
 msgstr "comiendo la misma vieja comida"
@@ -70437,7 +70448,7 @@ msgid "making a breakthrough concerning "
 msgstr "haciendo un gran avance en relación a"
 
 msgid "being unable to advance the study of "
-msgstr "siendo incapaz de avanzar el estudio de"
+msgstr "ser incapaz de avanzar el estudio de"
 
 msgid "discussing "
 msgstr "discutiendo"
@@ -70746,7 +70757,7 @@ msgid "being kept from alcohol for too long"
 msgstr "estando alejado del alcohol durante mucho tiempo"
 
 msgid "being unable to pray"
-msgstr "siendo incapaz de rezar"
+msgstr "ser incapaz de rezar"
 
 msgid " for too long"
 msgstr "por demasiado tiempo"
@@ -70755,7 +70766,7 @@ msgid "being unoccupied for too long"
 msgstr "estando desocupado durante mucho tiempo"
 
 msgid "being unable to admire art for so long"
-msgstr "siendo incapaz de admirar arte durante mucho tiempo"
+msgstr "ser incapaz de admirar arte durante mucho tiempo"
 
 msgid "doing nothing creative for so long"
 msgstr "no haciendo nada creativo durante mucho tiempo"
@@ -70788,7 +70799,7 @@ msgid "being unable to practice a craft for too long"
 msgstr "ser incapaz de practicar un arte por tanto tiempo"
 
 msgid "being unable to practice a martial art for too long"
-msgstr "siendo incapaz de practicar artes marciales durante mucho tiempo"
+msgstr "ser incapaz de practicar artes marciales durante mucho tiempo"
 
 msgid "being unable to practice a skill for too long"
 msgstr "Incapaz de practicar una habilidad por mucho tiempo"
@@ -70821,7 +70832,7 @@ msgid "being unable to argue for too long"
 msgstr "incapaz de discutir durante mucho tiempo"
 
 msgid "being unable to be extravagant for so long"
-msgstr "Siendo incapaz de ser extravagante por tanto tiempo."
+msgstr "ser incapaz de ser extravagante por mucho tiempo."
 
 msgid "being unable to wander for too long"
 msgstr "Incapaz de vagar por mucho tiempo"
@@ -79713,7 +79724,7 @@ msgid "three thousand"
 msgstr ""
 
 msgid "four thousand"
-msgstr ""
+msgstr "cuatro mil"
 
 msgid "five thousand"
 msgstr ""
@@ -82880,7 +82891,7 @@ msgid " has risen and is haunting the fortress!"
 msgstr "se ha levantado y atormenta la fortaleza!"
 
 msgid " is following "
-msgstr "está siguiendo "
+msgstr "está siguiendo a"
 
 msgid " has been misplaced.  No doubt "
 msgstr "ha sido movido de de lugar. Sin duda "
