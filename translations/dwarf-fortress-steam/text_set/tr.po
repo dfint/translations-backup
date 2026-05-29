@@ -1,43 +1,36 @@
-# 
 # Translators:
-# insolor, 2022
+# Mikhail M (insolor), 2022
 # Comrade Pochinki Grad, 2023
 # Recep Denizkuşları, 2023
+# Can Ulucan, 2026
 # 
 msgid ""
 msgstr ""
-"Last-Translator: Recep Denizkuşları, 2023\n"
+"Last-Translator: Can Ulucan, 2026\n"
 "Language-Team: Turkish (https://app.transifex.com/dwarf-fortress-translation/teams/22396/tr/)\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Language: tr\n"
 "Plural-Forms: nplurals=2; plural=(n > 1);\n"
 
-#: text_dwarf.txt:2
 msgid "who was too short to live"
 msgstr "yaşamak için çok kısa olan biri"
 
-#: text_dwarf.txt:3
 msgid "who tunneled away from me like a frightened mole"
 msgstr "korkak köstebek gibi benden kaçan biri"
 
-#: text_dwarf.txt:4
 msgid "who sucked plump helmets like a purring maggot"
 msgstr "mırıldayan bir kurtçuk gibi tombul mantarları yalayan biri"
 
-#: text_dwarf.txt:5
 msgid "whose hammer shattered on the anvil of my power"
 msgstr "gücümün örsünde paramparça olan bir çekiç gibi"
 
-#: text_dwarf.txt:6
 msgid "who forged [PRO_POS] own doom by challenging me"
 msgstr "bana meydan okuyarak [PRO_POS]'a kendi kaderini çizen"
 
-#: text_dwarf.txt:7
 msgid "who was returned to the rock and muck from which it was spawned"
 msgstr "doğduğu kayaya ve çamura dönen"
 
-#: text_dwarf.txt:8
 msgid ""
 "whose tall tales of bravery were all the more embarrassing because of "
 "[PRO_POS] height"
@@ -45,40 +38,31 @@ msgstr ""
 "[PRO_POS] boyu, cesaretiyle ilgili uzun hikayeleri daha utanç verici hale "
 "getiriyor"
 
-#: text_elf.txt:2
 msgid "who was felled like a slender sapling"
 msgstr "incecik bir fidan gibi devrilen biri"
 
-#: text_elf.txt:3
 msgid "whom I sent back to the home-tree as fertilizer"
 msgstr "ağaç evine gübre olarak geri gönderdiğim"
 
-#: text_elf.txt:4
 msgid "whose fragile bones shattered before the power of my contempt"
 msgstr "hakaretimin büyüklüğü karşısında kemikleri kırılan"
 
-#: text_elf.txt:5
 msgid "who came down from the home-tree and was devoured"
 msgstr "ağaç evinden aşağı inip yutulan biri"
 
-#: text_elf.txt:6
 msgid ""
 "who should have stayed in the trees when the real elves came down to fight"
 msgstr "elfler geldiğinde ağacında kalması gereken biri"
 
-#: text_lair_hunter_minotaur.txt:2
 msgid "I want your bones for my bone mill!"
 msgstr "Kemik değirmenim için kemiklerini istiyorum!"
 
-#: text_lair_hunter_minotaur.txt:3
 msgid "I'll grind you into porridge!"
 msgstr "Seni yulaf lapasına çevireceğim!"
 
-#: text_lair_hunter_minotaur.txt:4
 msgid "I'll eat you whole!"
 msgstr "Seni tümden yiyeceğim!"
 
-#: text_ab_specific_hf_seeker.txt:2
 msgid ""
 "seek out [CONTEXT:HIST_FIG:TRANS_NAME] at "
 "[CONTEXT:ABSTRACT_BUILDING:TRANS_NAME] over in [CONTEXT:SITE:TRANS_NAME]"
@@ -86,7 +70,6 @@ msgstr ""
 "[CONTEXT:HIST_FIG:TRANS_NAME] 'i [CONTEXT:SITE:TRANS_NAME] 'de yer alan "
 "[CONTEXT:ABSTRACT_BUILDING:TRANS_NAME] 'de ara "
 
-#: text_animal_slayer.txt:2
 msgid ""
 "I have taken down [CONTEXT:NUMBER] [CONTEXT:RACE:NUMBERED_NAME] while "
 "stalking [CONTEXT:PLACE:TRANS_NAME]."
@@ -94,7 +77,6 @@ msgstr ""
 "[CONTEXT:NUMBER] tane [CONTEXT:RACE:NUMBERED_NAME] 'i "
 "[CONTEXT:PLACE:TRANS_NAME] 'i ararken indirdim."
 
-#: text_arch_info_justification.txt:2
 msgid ""
 "It is said that the [CONTEXT:ARCH_ELEMENT] of "
 "[CONTEXT:ABSTRACT_BUILDING:TRANS_NAME] [CONTEXT:JUSTIFICATION] "
@@ -104,723 +86,546 @@ msgstr ""
 "[CONTEXT:ABSTRACT_BUILDING:TRANS_NAME] 'nin [CONTEXT:ARCH_ELEMENT] 'inin "
 "[CONTEXT:JUSTIFICATION] [CONTEXT:DEF_SPHERE] olduğu söylenir."
 
-#: text_book_art.txt2, text_book_instruction.txt:2
 msgid "[NAME]"
 msgstr "[NAME]"
 
-#: text_book_art.txt:3
 msgid "[PHRASE]"
 msgstr "[PHRASE]"
 
-#: text_book_art.txt:4
 msgid "[ADJ] [NO_ART_NAME]"
 msgstr "[ADJ] [NO_ART_NAME]"
 
-#: text_book_art.txt:5
 msgid "The [ADJ] [NO_ART_NAME]"
 msgstr "[ADJ] [NO_ART_NAME]"
 
-#: text_book_art.txt:6
 msgid "[NAME] [ADJ]"
 msgstr "[NAME] [ADJ]"
 
-#: text_book_art.txt:7
 msgid "[NAME] and the [NOUN]"
 msgstr "[NAME] ve [NOUN]"
 
-#: text_book_art.txt:8
 msgid "[NAME] and the [ADJ] [NOUN]"
 msgstr "[NAME] ve [ADJ] [NOUN]"
 
-#: text_book_art.txt:9
 msgid "The [NOUN] and [NAME]"
 msgstr "[NOUN] ve [NAME]"
 
-#: text_book_art.txt:10
 msgid "The [ADJ] [NOUN] and [NAME]"
 msgstr " [ADJ] [NOUN] ve [NAME]"
 
-#: text_book_art.txt:11
 msgid "[NAME]: [PHRASE]"
 msgstr "[NAME]:[PHRASE]"
 
-#: text_book_art.txt:12
 msgid "It Must Have Been [NAME]"
 msgstr "O [NAME] Olmalıydı"
 
-#: text_book_art.txt:13
 msgid "My Friend [NAME]"
 msgstr "Dostum [NAME]"
 
-#: text_book_art.txt:14
 msgid "The Birth of [NAME]"
 msgstr "[NAME] 'nin Doğuşu"
 
-#: text_book_art.txt:15
 msgid "The Sun Sets on [NAME]"
 msgstr "[NAME] 'da Güneş Batacak"
 
-#: text_book_art.txt:16
 msgid "We See [NAME]"
 msgstr "[NAME] 'i Görüyoruz"
 
-#: text_book_art.txt:17
 msgid "[NAME] Ever Onward"
 msgstr "[NAME] Hep İlerler"
 
-#: text_book_art.txt:18
 msgid "[NAME] and Nothing More"
 msgstr "Yalnızca [NAME]"
 
-#: text_book_art.txt:19
 msgid "And [ANY_PRONOUN] Sang '[NAME]!'"
 msgstr "Ve [ANY_PRONOUN] '[NAME]!' Şarkısını Söyledi"
 
-#: text_book_instruction.txt:3
 msgid "A Course on [NAME]"
 msgstr "[NAME] üzerine bir Kurs"
 
-#: text_book_instruction.txt:4
 msgid "A Humble Offering to [NAME]"
 msgstr "[NAME] 'e Mütevazi bir Teklif"
 
-#: text_book_instruction.txt:5
 msgid "A Meditation on [NAME]"
 msgstr "[NAME] üzerine Meditasyon"
 
-#: text_book_instruction.txt:6
 msgid "A Record of [NAME]"
 msgstr "[NAME] 'in Kaydı"
 
-#: text_book_instruction.txt:7
 msgid "A Treatise on [NAME]"
 msgstr "[NAME] üzerine Tez"
 
-#: text_book_instruction.txt:8
 msgid "A World of [NAME]"
 msgstr "[NAME] 'in Dünyası"
 
-#: text_book_instruction.txt:9
 msgid "About [NAME]"
 msgstr "[NAME] Hakkında"
 
-#: text_book_instruction.txt:10
 msgid "After [NAME]"
 msgstr " [NAME] 'den Sonra"
 
-#: text_book_instruction.txt:11
 msgid "Against [NAME]"
 msgstr "[NAME]'e Karşı"
 
-#: text_book_instruction.txt:12
 msgid "An Exploration of [NAME]"
 msgstr "[NAME] 'in Keşfi"
 
-#: text_book_instruction.txt:13
 msgid "An Introduction to [NAME]"
 msgstr "[NAME] 'e Giriş"
 
-#: text_book_instruction.txt:14
 msgid "An Offering to [NAME]"
 msgstr "[NAME] için bir Teklif"
 
-#: text_book_instruction.txt:15
 msgid "At One With [NAME]"
 msgstr "[NAME] ile Birlikte"
 
-#: text_book_instruction.txt:16
 msgid "Before [NAME]"
 msgstr "[NAME] 'den Önce"
 
-#: text_book_instruction.txt:17
 msgid "Better [NO_ART_NAME]"
 msgstr "Daha iyi [NO_ART_NAME]"
 
-#: text_book_instruction.txt:18
 msgid "Beyond [NAME]"
 msgstr "[NAME] 'in Ötesinde"
 
-#: text_book_instruction.txt:19
 msgid "Book of [NAME]"
 msgstr "[NAME] 'in Kitabı"
 
-#: text_book_instruction.txt:20
 msgid "Captivated by [NAME]"
 msgstr "[NAME] tarafından Büyülenmiş"
 
-#: text_book_instruction.txt:21
 msgid "Choose [NAME]"
 msgstr "[NAME] Seç"
 
-#: text_book_instruction.txt:22
 msgid "Classic [NO_ART_NAME]"
 msgstr "Klasik [NO_ART_NAME]"
 
-#: text_book_instruction.txt:23
 msgid "Commentary on [NAME]"
 msgstr "[NAME] ile İlgili Yorumlar"
 
-#: text_book_instruction.txt:24
 msgid "Common Sense [NO_ART_NAME]"
 msgstr "Sağduyu [NO_ART_NAME]"
 
-#: text_book_instruction.txt:25
 msgid "Concerning [NAME]"
 msgstr "[NAME] ile İlgili"
 
-#: text_book_instruction.txt:26
 msgid "Discourse on [NAME]"
 msgstr "[NAME] Üzerine Konuşuyor"
 
-#: text_book_instruction.txt:27
 msgid "Discovering [NAME]"
 msgstr "[NAME] Keşfediyor"
 
-#: text_book_instruction.txt:28
 msgid "Doubts About [NAME]"
 msgstr "[NAME] Hakkında Şüpheler"
 
-#: text_book_instruction.txt:29
 msgid "Dreams of [NAME]"
 msgstr "[NAME] 'in Hayalleri"
 
-#: text_book_instruction.txt:30
 msgid "Elements of [NAME]"
 msgstr "[NAME] 'in Elementleri"
 
-#: text_book_instruction.txt:31
 msgid "Errors In [NAME]"
 msgstr "[NAME] da Hatalar"
 
-#: text_book_instruction.txt:32
 msgid "Exploring [NAME]"
 msgstr "[NAME] Keşfediliyor"
 
-#: text_book_instruction.txt:33
 msgid "Explorations of [NAME]"
 msgstr "[NAME] 'in Keşifleri"
 
-#: text_book_instruction.txt:34
 msgid "Factual [NO_ART_NAME]"
 msgstr "Gerçek [NO_ART_NAME]"
 
-#: text_book_instruction.txt:35
 msgid "For the Love of [NAME]"
 msgstr "[NAME] Aşkına"
 
-#: text_book_instruction.txt:36
 msgid "Foundations of [NAME]"
 msgstr "[NAME] 'in Temelleri"
 
-#: text_book_instruction.txt:37
 msgid "Give Me [NAME]"
 msgstr "Bana [NAME] 'i Ver"
 
-#: text_book_instruction.txt:38
 msgid "Great [NO_ART_NAME]"
 msgstr "Büyük [NO_ART_NAME]"
 
-#: text_book_instruction.txt:39
 msgid "In Pursuit of [NAME]"
 msgstr "[NAME] Takibinde"
 
-#: text_book_instruction.txt:40
 msgid "Inquiries on [NAME]"
 msgstr "[NAME] 'i Araştırıyor"
 
-#: text_book_instruction.txt:41
 msgid "Interpretations of [NAME]"
 msgstr "[NAME] 'in Yorumları"
 
-#: text_book_instruction.txt:42
 msgid "Introduction to [NAME]"
 msgstr "[NAME]'a Tanıtım"
 
-#: text_book_instruction.txt:43
 msgid "It All Begins With [NAME]"
 msgstr "Her şey [NAME] ile başladı"
 
-#: text_book_instruction.txt:44
 msgid "It Is [NAME]"
 msgstr "O [NAME]"
 
-#: text_book_instruction.txt:45
 msgid "Journey to [NAME]"
 msgstr "[NAME]'a Yolculuk"
 
-#: text_book_instruction.txt:46
 msgid "Life With [NAME]"
 msgstr "[NAME] İle Hayat"
 
-#: text_book_instruction.txt:47
 msgid "Master of [NAME]"
 msgstr "[NAME]'in Ustası"
 
-#: text_book_instruction.txt:48
 msgid "Mastering [NAME]"
 msgstr "[NAME] 'de Ustalaşıyor"
 
-#: text_book_instruction.txt:49
 msgid "Meditations on [NAME]"
 msgstr "[NAME] Üzerine Meditasyon"
 
-#: text_book_instruction.txt:50
 msgid "Misconceptions About [NAME]"
 msgstr "[NAME] Hakkında Yanlış Bilinenler"
 
-#: text_book_instruction.txt:51
 msgid "More [NO_ART_NAME]"
 msgstr "Daha fazla [NO_ART_NAME]"
 
-#: text_book_instruction.txt:52
 msgid "Musings on [NAME]"
 msgstr "[NAME] üzerine Derince Düşünüyor"
 
-#: text_book_instruction.txt:53
 msgid "My Thoughts on [NAME]"
 msgstr "[NAME] üstüne Düşüncelerim"
 
-#: text_book_instruction.txt:54
 msgid "Mysteries of [NAME]"
 msgstr "[NAME]'in Gizemleri"
 
-#: text_book_instruction.txt:55
 msgid "Never Underestimate [NAME]"
 msgstr "Asla [NAME] 'i Küçümseme"
 
-#: text_book_instruction.txt:56
 msgid "New [NO_ART_NAME]"
 msgstr "Yeni [NO_ART_NAME]"
 
-#: text_book_instruction.txt:57
 msgid "Of [NAME]"
 msgstr "[NAME] 'in"
 
-#: text_book_instruction.txt:58
 msgid "On [NAME]"
 msgstr "[NAME] Üzerinde"
 
-#: text_book_instruction.txt:59
 msgid "Pathways to [NAME]"
 msgstr "[NAME] 'e doğru Patikalar"
 
-#: text_book_instruction.txt:60
 msgid "Principles of [NAME]"
 msgstr "[NAME] 'in Prensipleri"
 
-#: text_book_instruction.txt:61
 msgid "Question [NAME]"
 msgstr "[NAME] 'in Fikrini Alıyor"
 
-#: text_book_instruction.txt:62
 msgid "Questions About [NAME]"
 msgstr "[NAME] Hakkında Sorular"
 
-#: text_book_instruction.txt:63
 msgid "Records of [NAME]"
 msgstr "[NAME] 'in Kayıtları"
 
-#: text_book_instruction.txt:64
 msgid "Reflections on [NAME]"
 msgstr "[NAME] Üzerine Düşünüyor"
 
-#: text_book_instruction.txt:65
 msgid "Secret [NO_ART_NAME]"
 msgstr "Gizli [NO_ART_NAME]"
 
-#: text_book_instruction.txt:66
 msgid "Start Your Day With [NAME]"
 msgstr "Gününü [NAME] ile Başlat"
 
-#: text_book_instruction.txt:67
 msgid "Strange [NO_ART_NAME]"
 msgstr "Garip [NO_ART_NAME]"
 
-#: text_book_instruction.txt:68
 msgid "The Art of [NAME]"
 msgstr "[NAME]'in Resmi"
 
-#: text_book_instruction.txt:69
 msgid "The Book of [NAME]"
 msgstr "[NAME]'in Kitabı"
 
-#: text_book_instruction.txt:70
 msgid "The Future of [NAME]"
 msgstr "[NAME]'in Geleceği"
 
-#: text_book_instruction.txt:71
 msgid "The Great [NO_ART_NAME]"
 msgstr "Harika [NO_ART_NAME]"
 
-#: text_book_instruction.txt:72
 msgid "The Hidden Meaning of [NAME]"
 msgstr "[NAME] 'in Gizli Anlamı"
 
-#: text_book_instruction.txt:73
 msgid "The History of [NAME]"
 msgstr "[NAME]'in Tarihi"
 
-#: text_book_instruction.txt:74
 msgid "The Interpretation of [NAME]"
 msgstr "[NAME] 'in Yorumu"
 
-#: text_book_instruction.txt:75
 msgid "The Journey into [NAME]"
 msgstr "[NAME] 'e Yolculuk"
 
-#: text_book_instruction.txt:76
 msgid "The Knowledge of [NAME]"
 msgstr "[NAME] 'in Bilgisi"
 
-#: text_book_instruction.txt:77
 msgid "The Meaning of [NAME]"
 msgstr "[NAME]'in Anlamı"
 
-#: text_book_instruction.txt:78
 msgid "The Mysteries of [NAME]"
 msgstr "[NAME] 'in Gizemleri"
 
-#: text_book_instruction.txt:79
 msgid "The Mystery of [NAME]"
 msgstr "[NAME] 'in Gizemi"
 
-#: text_book_instruction.txt:80
 msgid "The Nuanced [NO_ART_NAME]"
 msgstr "Detaylı [NO_ART_NAME]"
 
-#: text_book_instruction.txt:81
 msgid "The Possibilities of [NAME]"
 msgstr "[NAME] 'in Olasılıkları"
 
-#: text_book_instruction.txt:82
 msgid "The Pursuit of [NAME]"
 msgstr "[NAME] 'in Peşinde"
 
-#: text_book_instruction.txt:83
 msgid "The Secret of [NAME]"
 msgstr "[NAME]'in Sırrı"
 
-#: text_book_instruction.txt:84
 msgid "The Student's [NO_ART_NAME]"
 msgstr "Öğrencinin [NO_ART_NAME] 'i"
 
-#: text_book_instruction.txt:85
 msgid "The Study of [NAME]"
 msgstr "[NAME] 'in Çalışması"
 
-#: text_book_instruction.txt:86
 msgid "The True [NO_ART_NAME]"
 msgstr "Gerçek [NO_ART_NAME]"
 
-#: text_book_instruction.txt:87
 msgid "The Truth About [NAME]"
 msgstr "[NAME] Hakkındaki Gerçek"
 
-#: text_book_instruction.txt:88
 msgid "The Unabridged [NO_ART_NAME]"
 msgstr "Kısaltılmamış [NO_ART_NAME]"
 
-#: text_book_instruction.txt:89
 msgid "The Way With [NAME]"
 msgstr "[NAME]  'li Yol"
 
-#: text_book_instruction.txt:90
 msgid "The Wizard's Guide to [NAME]"
 msgstr "Büyücünün [NAME] Rehberi"
 
-#: text_book_instruction.txt:91
 msgid "The World of [NAME]"
 msgstr "[NAME] 'in Dünyası"
 
-#: text_book_instruction.txt:92
 msgid "The World Without [NAME]"
 msgstr "[NAME] 'siz Dünya"
 
-#: text_book_instruction.txt:93
 msgid "Thoughts on [NAME]"
 msgstr "[NAME] hakkındaki Düşünceler"
 
-#: text_book_instruction.txt:94
 msgid "Time Spent With [NAME]"
 msgstr "[NAME] ile Harcanan Zaman"
 
-#: text_book_instruction.txt:95
 msgid "Traditional [NO_ART_NAME]"
 msgstr "Geleneksel [NO_ART_NAME]"
 
-#: text_book_instruction.txt:96
 msgid "Treatise on [NAME]"
 msgstr "[NAME] üzerine Tez"
 
-#: text_book_instruction.txt:97
 msgid "True [NO_ART_NAME]"
 msgstr "Gerçek [NO_ART_NAME]"
 
-#: text_book_instruction.txt:98
 msgid "Uncanny [NO_ART_NAME]"
 msgstr "Tekinsiz [NO_ART_NAME]"
 
-#: text_book_instruction.txt:99
 msgid "Uncovering [NAME]"
 msgstr "[NAME] 'i Ortaya çıkarmak"
 
-#: text_book_instruction.txt:100
 msgid "Understanding [NAME]"
 msgstr "[NAME] 'i Anlamak"
 
-#: text_book_instruction.txt:101
 msgid "Unknown [NO_ART_NAME]"
 msgstr "Bilinmeyen [NO_ART_NAME]"
 
-#: text_book_instruction.txt:102
 msgid "Unusual [NO_ART_NAME]"
 msgstr "Sıradışı [NO_ART_NAME]"
 
-#: text_book_instruction.txt:103
 msgid "Useful [NO_ART_NAME]"
 msgstr "Kullanışlı [NO_ART_NAME]"
 
-#: text_book_instruction.txt:104
 msgid "Victory By [NAME]"
 msgstr "[NAME] 'in Zaferi"
 
-#: text_book_instruction.txt:105
 msgid "[NAME] After The End"
 msgstr "Kıyamet Sonrası [NAME]"
 
-#: text_book_instruction.txt:106
 msgid "[NAME] and Beyond"
 msgstr "[NAME] ve Ötesi"
 
-#: text_book_instruction.txt:107
 msgid "[NAME] and More"
 msgstr "[NAME] ve Dahası"
 
-#: text_book_instruction.txt:108
 msgid "[NAME] and Other Topics"
 msgstr "[NAME] ve Diğer Konular"
 
-#: text_book_instruction.txt:109
 msgid "[NAME] and Other Travesties"
 msgstr "[NAME] ve Diğer Karikatürler"
 
-#: text_book_instruction.txt:110
 msgid "[NAME] and The Coming Troubles"
 msgstr "[NAME] ve Gelecek Sıkıntılar"
 
-#: text_book_instruction.txt:111
 msgid "[NAME] and The Universe"
 msgstr "[NAME] ve Evren"
 
-#: text_book_instruction.txt:112
 msgid "[NAME] Came Full Circle"
 msgstr "[NAME] Başlangıca Geri  Döndü"
 
-#: text_book_instruction.txt:113
 msgid "[NAME] Explained"
 msgstr "[NAME] Açıkladı"
 
-#: text_book_instruction.txt:114
 msgid "[NAME] Exposed"
 msgstr "[NAME] Ortaya Çıktı"
 
-#: text_book_instruction.txt:115
 msgid "[NAME] For Everyone"
 msgstr "Herkes İçin [NAME]"
 
-#: text_book_instruction.txt:116
 msgid "[NAME] For Students"
 msgstr "Öğrenciler İçin [NAME]"
 
-#: text_book_instruction.txt:117
 msgid "[NAME] For The Beginning Practitioner"
 msgstr "Yeni Başlayanlar İçin [NAME]"
 
-#: text_book_instruction.txt:118
 msgid "[NAME] In Practice"
 msgstr "Pratikte [NAME]"
 
-#: text_book_instruction.txt:119
 msgid "[NAME] In The Modern Era"
 msgstr "Modern Çağda [NAME]"
 
-#: text_book_instruction.txt:120
 msgid "[NAME] In The Time of My Ancestors"
 msgstr "Atalarımın Zamanında [NAME]"
 
-#: text_book_instruction.txt:121
 msgid "[NAME] In Theory"
 msgstr "Teoride [NAME]"
 
-#: text_book_instruction.txt:122
 msgid "[NAME] In [ANY_AGE]"
 msgstr "[NAME] [ANY_AGE] 'da"
 
-#: text_book_instruction.txt:123
 msgid "[NAME] Interpreted"
 msgstr "[NAME] Yorumlandı"
 
-#: text_book_instruction.txt:124
 msgid "[NAME] Might Help"
 msgstr "[NAME] Yardımcı Olabilir"
 
-#: text_book_instruction.txt:125
 msgid "[NAME] Questioned"
 msgstr "[NAME] Sorgulandı"
 
-#: text_book_instruction.txt:126
 msgid "[NAME] The Easy Way"
 msgstr "Kolay Yol [NAME]"
 
-#: text_book_instruction.txt:127
 msgid "[NAME] Uncovered"
 msgstr "Korumasız [NAME]"
 
-#: text_book_instruction.txt:128
 msgid "[NAME] Understood"
 msgstr "[NAME] Anladı"
 
-#: text_book_instruction.txt:129
 msgid "[NAME] When It Counts"
 msgstr "Değerli [NAME]"
 
-#: text_book_instruction.txt:130
 msgid "[NAME] Within Reason"
 msgstr "Mantıklı [NAME]"
 
-#: text_book_instruction.txt:131
 msgid "[NAME] Without Limits"
 msgstr "Limitsiz [NAME]"
 
-#: text_book_instruction.txt:132
 msgid "[NAME], Abridged"
 msgstr "Kısaltılmış [NAME]"
 
-#: text_book_instruction.txt:133
 msgid "[NAME], My Life"
 msgstr "Hayatım [NAME]"
 
-#: text_book_instruction.txt:134
 msgid "[NAME], My Love"
 msgstr "Aşkım [NAME]"
 
-#: text_book_instruction.txt:135
 msgid "[NAME]: A Brief History"
 msgstr "[NAME]: Kısa Bir Tarihçe"
 
-#: text_book_instruction.txt:136
 msgid "[NAME]: A Brief Introduction"
 msgstr "[NAME]: Kısa Bir Giriş"
 
-#: text_book_instruction.txt:137
 msgid "[NAME]: A New Approach"
 msgstr "[NAME]: Yeni Bir Yaklaşım"
 
-#: text_book_instruction.txt:138
 msgid "[NAME]: A Quandary"
 msgstr "[NAME]: Kararsızlık"
 
-#: text_book_instruction.txt:139
 msgid "[NAME]: Before and After"
 msgstr "[NAME]: Öncesi ve Sonrası"
 
-#: text_book_instruction.txt:140
 msgid "[NAME]: Common Practice"
 msgstr "[NAME]: Yaygın Uygulama"
 
-#: text_book_instruction.txt:141
 msgid "[NAME]: Fact or Fiction?"
 msgstr "[NAME]: Gerçek veya Kurgu?"
 
-#: text_book_instruction.txt:142
 msgid "[NAME]: Further Musings"
 msgstr "[NAME]: Diğer Kayıplar"
 
-#: text_book_instruction.txt:143
 msgid "[NAME]: My Only Mistake"
 msgstr "[NAME]: Tek Hatam"
 
-#: text_book_instruction.txt:144
 msgid "[NAME]: Natural or Supernatural?"
 msgstr "[NAME]: Doğal veya Doğaüstü?"
 
-#: text_book_instruction.txt:145
 msgid "[NAME]: Principles and Practice"
 msgstr "[NAME]: Pratikler ve Uygulama"
 
-#: text_book_instruction.txt:146
 msgid "[NAME]: Problems And Solutions"
 msgstr "[NAME]: Problemler ve Çözümler"
 
-#: text_book_instruction.txt:147
 msgid "[NAME]: The Definitive Guide"
 msgstr "[NAME]: Nihai Rehber"
 
-#: text_book_instruction.txt:148
 msgid "[NAME]: The Truth"
 msgstr "[NAME]: Gerçek"
 
-#: text_book_instruction.txt:149
 msgid "Can [NAME] Save The World?"
 msgstr "[NAME] Dünyayı Kurtarabilir mi?"
 
-#: text_book_instruction.txt:150
 msgid "Could It Be [NAME]?"
 msgstr "[NAME] Olabilir mi?"
 
-#: text_book_instruction.txt:151
 msgid "Did [NAME] Falter?"
 msgstr "[NAME] Titredi mi?"
 
-#: text_book_instruction.txt:152
 msgid "Do We Understand [NAME]?"
 msgstr "[NAME] 'i Anlıyor muyuz?"
 
-#: text_book_instruction.txt:153
 msgid "Do You Know [NAME]?"
 msgstr "[NAME] 'i Tanıyor musun?"
 
-#: text_book_instruction.txt:154
 msgid "First [NAME], Then The World!"
 msgstr "Önce [NAME], Sonra Dünya!"
 
-#: text_book_instruction.txt:155
 msgid "The [NO_ART_NAME] Book"
 msgstr "[NO_ART_NAME] Kitabı"
 
-#: text_book_instruction.txt:156
 msgid "To [NAME] and Glory!"
 msgstr "[NAME] 'e ve Zafere!"
 
-#: text_child_age_proclamation.txt:2
 msgid "I'm [CONTEXT:NUMBER]!"
 msgstr "[CONTEXT:NUMBER] yaşındayım!"
 
-#: text_current_profession_no_year.txt:2
 msgid "I am a [CONTEXT:UNIT_NAME]."
 msgstr "Ben bir [CONTEXT:UNIT_NAME] 'yim."
 
-#: text_current_profession_year.txt:2
 msgid "This is my [CONTEXT:ORDINAL] year as a [CONTEXT:UNIT_NAME]."
 msgstr "[CONTEXT:UNIT_NAME] olarak [CONTEXT:ORDINAL] yılım."
 
-#: text_curse.txt:2
 msgid "Who dares to enter my house?  I curse you!"
 msgstr "Evime girmeye kim cesaret eder? Seni lanetliyorum!"
 
-#: text_family_relationship_additional.txt:2
 msgid "[CONTEXT:HIST_FIG:PRO_SUB] is also my [CONTEXT:FAMILY_RELATIONSHIP]"
 msgstr ""
-"[CONTEXT:HIST_FIG:PRO_SUB] aynı zamanda benim [CONTEXT:FAMILT_RELATIONSHIP] "
-"'im"
+"[CONTEXT:HIST_FIG:PRO_SUB] is also my "
+"[CONTEXT:FAMILY_RELATIONSHIP][CONTEXT:HIST_FIG:PRO_SUB] aynı zamanda benim "
+"[CONTEXT:FAMILT_RELATIONSHIP] 'im"
 
-#: text_family_relationship_additional_dead.txt:2
 msgid "[CONTEXT:HIST_FIG:PRO_SUB] was also my [CONTEXT:FAMILY_RELATIONSHIP]"
 msgstr ""
-"[CONTEXT:HIST_FIG:PRO_SUB] aynı zamanda benim [CONTEXT:FAMILY_RELATIONSHIP] "
-"'imdi"
+"[CONTEXT:HIST_FIG:PRO_SUB] was also my "
+"[CONTEXT:FAMILY_RELATIONSHIP][CONTEXT:HIST_FIG:PRO_SUB] aynı zamanda benim "
+"[CONTEXT:FAMILY_RELATIONSHIP] 'imdi"
 
-#: text_family_relationship_no_spec.txt:2
 msgid ""
 "I have [CONTEXT:INDEF_FAMILY_RELATIONSHIP] named "
 "[CONTEXT:HIST_FIG:TRANS_NAME]"
@@ -828,7 +633,6 @@ msgstr ""
 "Benim [CONTEXT:HIST_FIG:TRANS_NAME] adında bir "
 "[CONTEXT:INDEF_FAMILY_RELATIONSHIP] var"
 
-#: text_family_relationship_no_spec_dead.txt:2
 msgid ""
 "I had [CONTEXT:INDEF_FAMILY_RELATIONSHIP] named "
 "[CONTEXT:HIST_FIG:TRANS_NAME]"
@@ -836,292 +640,225 @@ msgstr ""
 "Benim [CONTEXT:HIST_FIG:TRANS_NAME] adında bir "
 "[CONTEXT:INDEF_FAMILY_RELATIONSHIP] vardı"
 
-#: text_family_relationship_spec.txt:2
 msgid ""
 "my [CONTEXT:FAMILY_RELATIONSHIP] is named [CONTEXT:HIST_FIG:TRANS_NAME]"
 msgstr ""
 "benim [CONTEXT:FAMILY_RELATIONSHIP] 'ın adı [CONTEXT:HIST_FIG:TRANS_NAME]"
 
-#: text_family_relationship_spec_dead.txt:2
 msgid ""
 "my [CONTEXT:FAMILY_RELATIONSHIP] was named [CONTEXT:HIST_FIG:TRANS_NAME]"
 msgstr ""
 "benim [CONTEXT:FAMILY_RELATIONSIP] 'ın adı [CONTEXT:HIST_FIG:TRANS_NAME] idi"
 
-#: text_general.txt:2
 msgid "whose cries for mercy went unheeded by my wrath"
 msgstr "merhamet yakarışları gazabım tarafından önemsenmeyen biri"
 
-#: text_general.txt:3
 msgid "whose insignificant name I struggle to recall"
 msgstr "önemsiz adını hatırlamakta zorlandığım biri"
 
-#: text_general.txt:4
 msgid "a spineless slug who was crushed under my might"
 msgstr "gücümün altında kaburgasız bir sülük gibi ezilen biri"
 
-#: text_general.txt:5
 msgid "whom I buried alive under a mountain of hatred"
 msgstr "nefret dağının altına diri diri gömdüğüm biri"
 
-#: text_general.txt:6
 msgid "who lies dead, now only an embarrassing memory"
 msgstr "ölü yatan, şimdiyse sadece utanç verici bir anı olan  biri"
 
-#: text_general.txt:7
 msgid "who sought my praise, only to be rejected in death"
 msgstr "sadece ölüm tarafından reddedilmek için övgümü arayan biri"
 
-#: text_general.txt:8
 msgid "once revered by those who didn't know any better"
 msgstr "bir zamanlar daha iyisini bilmeyenlerce saygı gördü"
 
-#: text_goodbye_worship_1.txt:2
 msgid "upon arising in the mornings,"
 msgstr "sabah uyanır uyanmaz,"
 
-#: text_goodbye_worship_1.txt:3
 msgid "when going on a long journey,"
 msgstr "uzun bir yolculuğa çıkarken,"
 
-#: text_goodbye_worship_1.txt:4
 msgid "before retiring in the evening,"
 msgstr "uyumadan önce,"
 
-#: text_goodbye_worship_1.txt:5
 msgid "as sure as I am here now,"
 msgstr "şu an burada olduğum kadar eminim,"
 
-#: text_goodbye_worship_1.txt:6
 msgid "and lo,"
 msgstr "ve bak işte,"
 
-#: text_goodbye_worship_1.txt:7
 msgid "it cannot be said enough;"
 msgstr "ne kadar söylensede yeterli olmaz;"
 
-#: text_goodbye_worship_1.txt:8
 msgid "these are dangerous times, so"
 msgstr "bunlar tehlikeli zamanlar, yani"
 
-#: text_goodbye_worship_1.txt:9
 msgid "I say again"
 msgstr "Tekrar söylüyorum"
 
-#: text_goodbye_worship_1.txt:10
 msgid "yes,"
 msgstr "evet,"
 
-#: text_goodbye_worship_1.txt:11
 msgid "before every meal,"
 msgstr "her yemekten önce,"
 
-#: text_goodbye_worship_1.txt:12
 msgid "whenever the tide turns,"
 msgstr "akış her değiştiğinde,"
 
-#: text_goodbye_worship_1.txt:13
 msgid "when you return to this place,"
 msgstr "bu yer geri döndüğünde,"
 
-#: text_goodbye_worship_1.txt:14
 msgid "when you arrive at your destination,"
 msgstr "hedefine vardığında,"
 
-#: text_goodbye_worship_1.txt:15
 msgid "at this juncture in your life,"
 msgstr "hayatının bu noktasında,"
 
-#: text_goodbye_worship_2.txt:2
 msgid "don't forget to"
 msgstr "unutma"
 
-#: text_goodbye_worship_2.txt:3
 msgid "always remember to"
 msgstr "her zaman hatırla"
 
-#: text_goodbye_worship_2.txt:4
 msgid "it would be wise to"
 msgstr "akıllıca olurdu"
 
-#: text_goodbye_worship_2.txt:5
 msgid "you should"
 msgstr "yapmalısın"
 
-#: text_goodbye_worship_2.txt:6
 msgid "you must"
 msgstr "yapmak zorundasın"
 
-#: text_goodbye_worship_2.txt:7
 msgid "prudence demands that you"
 msgstr "sağduyu senden talep ediyor"
 
-#: text_goodbye_worship_2.txt:8
 msgid "even for a moment"
 msgstr "bir an için bile"
 
-#: text_goodbye_worship_2.txt:9
 msgid "follow my advice and"
 msgstr "nasihatlerimi dinle ve"
 
-#: text_goodbye_worship_2.txt:10
 msgid "heed my words and"
 msgstr "sözlerime kulak ver ve"
 
-#: text_goodbye_worship_2.txt:11
 msgid "remember to"
 msgstr "hatırla"
 
-#: text_goodbye_worship_2.txt:12
 msgid "show devotion and"
 msgstr "özveri göster ve"
 
-#: text_goodbye_worship_3.txt:2
 msgid "speak the praises of [SPEAKER:HF_LINK:DEITY:TRANS_NAME]"
 msgstr "[SPEAKER:HF_LINK:DEITY:TRANS_NAME] 'yi öv"
 
-#: text_goodbye_worship_3.txt:3
 msgid "speak the praises of [SPEAKER:HF_LINK:DEITY:RANDOM_DEF_SPHERE]"
 msgstr "[SPEAKER:HF_LINK:DEITY:RANDOM_DEF_SPHERE] 'yi öv"
 
-#: text_goodbye_worship_3.txt:4
 msgid "go with [SPEAKER:HF_LINK:DEITY:TRANS_NAME]"
 msgstr "[SPEAKER:HF_LINK:DEITY:TRANS_NAME] ile beraber git"
 
-#: text_goodbye_worship_3.txt:5
 msgid "go with [SPEAKER:HF_LINK:DEITY:RANDOM_DEF_SPHERE]"
 msgstr "[SPEAKER:HF_LINK:DEITY:RANDOM_DEF_SPHERE] ile beraber git"
 
-#: text_goodbye_worship_3.txt:6
 msgid "put your faith in [SPEAKER:HF_LINK:DEITY:TRANS_NAME]"
 msgstr "[SPEAKER:HF_LINK:DEITY:TRANS_NAME] için inancını ortaya koy"
 
-#: text_goodbye_worship_3.txt:7
 msgid "put your faith in [SPEAKER:HF_LINK:DEITY:RANDOM_DEF_SPHERE]"
 msgstr "[SPEAKER:HF_LINK:DEITY:RANDOM_DEF_SPHERE] için inancını ortaya koy"
 
-#: text_goodbye_worship_3.txt:8
 msgid "experience [SPEAKER:HF_LINK:DEITY:TRANS_NAME]"
 msgstr "[SPEAKER:HF_LINK:DEITY:TRANS_NAME] 'yi tecrübe et"
 
-#: text_goodbye_worship_3.txt:9
 msgid "experience [SPEAKER:HF_LINK:DEITY:RANDOM_DEF_SPHERE]"
 msgstr "[SPEAKER:HF_LINK:DEITY:RANDOM_DEF_SPHERE] 'yi tecrübe et"
 
-#: text_goodbye_worship_3.txt:10
 msgid "consider [SPEAKER:HF_LINK:DEITY:TRANS_NAME]"
 msgstr "[SPEAKER:HF_LINK:DEITY:TRANS_NAME] 'yi dikkate al"
 
-#: text_goodbye_worship_3.txt:11
 msgid "consider [SPEAKER:HF_LINK:DEITY:RANDOM_DEF_SPHERE]"
 msgstr "[SPEAKER:HF_LINK:DEITY:RANDOM_DEF_SPHERE] 'yi dikkate al"
 
-#: text_goodbye_worship_3.txt:12
 msgid "give yourself to [SPEAKER:HF_LINK:DEITY:TRANS_NAME]"
 msgstr "Kendini [SPEAKER:HF_LINK:DEITY:TRANS_NAME] 'ye ada"
 
-#: text_goodbye_worship_3.txt:13
 msgid "give yourself to [SPEAKER:HF_LINK:DEITY:RANDOM_DEF_SPHERE]"
 msgstr "Kendini [SPEAKER:HF_LINK:DEITY:RANDOM_DEF_SPHERE] 'ye ada"
 
-#: text_greet.txt:2
 msgid "Greetings.  My name is [SPEAKER:TRANS_NAME]."
 msgstr "Selamlar. Benim adım [SPEAKER:TRANS_NAME]."
 
-#: text_greet_baby.txt:2
 msgid "Hellooo!"
 msgstr "Selaaam!"
 
-#: text_greet_baby.txt:3
 msgid "Look at you!"
 msgstr "Maşallah!"
 
-#: text_greet_baby.txt:4
 msgid "A baby!  How adorable!"
 msgstr "Bir bebek! Ne kadar tatlı!"
 
-#: text_greet_reply.txt:2
 msgid "Ah, hello.  I'm [SPEAKER:TRANS_NAME]."
 msgstr "Merhaba. Ben [SPEAKER:TRANS_NAME]."
 
-#: text_greet_reply_after_hero.txt:2
 msgid "I am [SPEAKER:TRANS_NAME].  Can I be of some help?"
 msgstr "Ben [SPEAKER:TRANS_NAME]. Yardımcı olabilir miyim?"
 
-#: text_greet_reply_after_hero.txt:3
 msgid "I am [SPEAKER:TRANS_NAME].  How can I be of service?"
 msgstr "Ben [SPEAKER:TRANS_NAME]. Yapmamı arzu ettiğiniz bir şey var mı?"
 
-#: text_greet_reply_diff_language.txt:2
 msgid "Hello, [AUDIENCE:RACE].  I am [SPEAKER:TRANS_NAME]."
 msgstr "Merhaba, [AUDIENCE:RACE]. Ben [SPEAKER:TRANS_NAME]."
 
-#: text_greet_reply_unusual_first.txt:2
 msgid "[AUDIENCE:FIRST_NAME]...  your parents must have been interesting!"
 msgstr "[AUDIENCE:FIRST_NAME]... bu ismi koyarken çok düşünmüşler mi acaba!"
 
-#: text_greet_reply_unusual_first.txt:3
 msgid ""
 "You know, you don't meet many people with the name [AUDIENCE:FIRST_NAME]."
 msgstr ""
 "Bilirsin, buralarda ismi [AUDIENCE:FIRST_NAME] olan birileriyle pek "
 "karşılaşmazsın."
 
-#: text_greet_reply_unusual_first.txt:4
 msgid "So, [AUDIENCE:FIRST_NAME]...   [AUDIENCE:FIRST_NAME], was it?"
 msgstr ""
-"Demek adın [AUDIENCE:FIRST_NAME]...  Adın [AUDIENCE:FIRST_NAME] 'dı, değil "
-"mi?"
+"So, [AUDIENCE:FIRST_NAME]...   [AUDIENCE:FIRST_NAME], was it?Demek adın "
+"[AUDIENCE:FIRST_NAME]...  Adın [AUDIENCE:FIRST_NAME] 'dı, değil mi?"
 
-#: text_greet_reply_unusual_first.txt:5
 msgid "[AUDIENCE:FIRST_NAME].  Does that mean something?"
 msgstr "[AUDIENCE:FIRST_NAME]. Bi' anlamı falan var mı?"
 
-#: text_greet_reply_unusual_first.txt:6
 msgid "[AUDIENCE:FIRST_NAME].  I can't say I've heard that before."
 msgstr "[AUDIENCE:FIRST_NAME]. Daha önce bu ismi duyduğumu sanmıyorum."
 
-#: text_greet_worship.txt:2
 msgid "Praise be to [SPEAKER:HF_LINK:DEITY:TRANS_NAME]."
 msgstr "[SPEAKER:HF_LINK:DEITY:TRANS_NAME] 'e Övgüler olsun."
 
-#: text_greet_worship.txt:3
 msgid "Praise [SPEAKER:HF_LINK:DEITY:RANDOM_DEF_SPHERE]."
 msgstr "[SPEAKER:HF_LINK:DEITY:RANDOM_DEF_SPHERE] 'yi Övün."
 
-#: text_greet_worship.txt:4
 msgid "Life is, in a word, [SPEAKER:HF_LINK:DEITY:RANDOM_DEF_SPHERE]."
 msgstr "Hayat, tek kelimeyle [SPEAKER:HF_LINK:DEITY:RANDOM_DEF_SPHERE]."
 
-#: text_greet_worship.txt:5
 msgid "This servant of [SPEAKER:HF_LINK:DEITY:TRANS_NAME] greets you."
 msgstr "[SPEAKER:HF_LINK:DEITY:TRANS_NAME] 'in hizmetkarı sizi selamlıyor."
 
-#: text_greet_worship.txt:6
 msgid "This servant of [SPEAKER:HF_LINK:DEITY:RANDOM_DEF_SPHERE] greets you."
 msgstr ""
-"[SPEAKER:HF_LINK:DEITY:RANDOM_DEF_SPHERE] 'in hizmetkarı sizi selamlıyor."
+"This servant of [SPEAKER:HF_LINK:DEITY:RANDOM_DEF_SPHERE] greets "
+"you.[SPEAKER:HF_LINK:DEITY:RANDOM_DEF_SPHERE] 'in hizmetkarı sizi "
+"selamlıyor."
 
-#: text_guard_profession.txt:2
 msgid "I am a guard."
 msgstr "Ben bir muhafızım."
 
-#: text_guard_warning.txt:2
 msgid "Don't start any trouble."
 msgstr "Sıkıntı çıkarma."
 
-#: text_hist_fig_slayer.txt:2
 msgid ""
 "It is I that felled [CONTEXT:HIST_FIG:TRANS_NAME] the "
 "[CONTEXT:HIST_FIG:RACE]."
 msgstr ""
 "[CONTEXT:HIST_FIG:RACE] [CONTEXT:HIST_FIG:TRANS_NAME] 'yi düşüren benim."
 
-#: text_hunting_profession.txt:2
 msgid "I hunt great beasts in [CONTEXT:PLACE:TRANS_NAME]."
 msgstr "[CONTEXT:PLACE:TRANS_NAME] 'de büyük yaratıkları avlarım."
 
-#: text_hunting_profession_year.txt:2
 msgid ""
 "I have hunted great beasts in [CONTEXT:PLACE:TRANS_NAME] for "
 "[CONTEXT:NUMBER] of my years."
@@ -1129,27 +866,21 @@ msgstr ""
 "[CONTEXT:PLACE:TRANS_NAME] 'de [CONTEXT:NUMBER] yılımı büyük canavarları "
 "avlayarak harcadım."
 
-#: text_justification_antithetical.txt:2
 msgid "can be thought of as the antithesis of"
 msgstr "'in antitezi olarak düşünülebilir"
 
-#: text_justification_experience.txt:2
 msgid "can allow one to experience"
 msgstr "birinin deneyimlemesine izin verebilir"
 
-#: text_justification_proximity.txt:2
 msgid "can bring one near to"
 msgstr "birini yaklaştırabilir"
 
-#: text_justification_reminder.txt:2
 msgid "can remind one of"
 msgstr "birini hatırlatabilir"
 
-#: text_justification_representation.txt:2
 msgid "can be thought of as a representation of"
 msgstr "'in temsili hâli olarak  düşünülebilir"
 
-#: text_mercenary_profession.txt:2
 msgid ""
 "I seek fortune and glory by offering my skill at arms in "
 "[CONTEXT:PLACE:TRANS_NAME]."
@@ -1157,7 +888,6 @@ msgstr ""
 "[CONTEXT:PLACE:TRANS_NAME] 'de hünerlerimi sunarak zafer ve servet peşinde "
 "koşarım."
 
-#: text_mercenary_profession_year.txt:2
 msgid ""
 "I have sought fortune and glory by offering my skill at arms in "
 "[CONTEXT:PLACE:TRANS_NAME] for [CONTEXT:NUMBER] of my years."
@@ -1165,23 +895,18 @@ msgstr ""
 "[CONTEXT:NUMBER] yılımı [CONTEXT:PLACE:TRANS_NAME] 'de hünerlerimi sunarak "
 "zafer ve servet peşinde koşarak harcadım."
 
-#: text_no_family.txt:2
 msgid "I have no family to speak of"
 msgstr "konuşacak tek bir ailem yok"
 
-#: text_past_hunting_profession.txt:2
 msgid "In the past, I hunted great beasts."
 msgstr "Geçmiş zamanlarda büyük yaratıklar avladım."
 
-#: text_past_hunting_profession.txt:3
 msgid "I was a hunter of mighty beasts for [CONTEXT:NUMBER] of my years."
 msgstr "[CONTEXT:NUMBER] yıl boyunca kudretli yaratık avcısıydım."
 
-#: text_past_mercenary_profession.txt:2
 msgid "In the past, I sought fortune and glory by offering my skill at arms."
 msgstr "Geçmişte, askerde hünerlerimi sunarak servet ve zafer peşinde koştum."
 
-#: text_past_mercenary_profession.txt:3
 msgid ""
 "I sought fortune and glory by offering my skill at arms for [CONTEXT:NUMBER]"
 " of my years."
@@ -1189,80 +914,61 @@ msgstr ""
 "[CONTEXT:NUMBER] yıl boyunca, askerde hünerlerimi sunarak servet ve zafer "
 "peşinde koştum."
 
-#: text_past_profession_no_year.txt:2
 msgid "I was once a [CONTEXT:UNIT_NAME]."
 msgstr "Bir zamanlar [CONTEXT:UNIT_NAME] 'dim."
 
-#: text_past_profession_year.txt:2
 msgid ""
 "I was a [CONTEXT:UNIT_NAME] for [CONTEXT:NUMBER] of the years of my life."
 msgstr "[CONTEXT:NUMBER] yıl boyunca [CONTEXT:UNIT_NAME] 'dim."
 
-#: text_past_snatcher_profession.txt:2
 msgid "Once it was my calling to rescue lost children."
 msgstr "Bir zamanlar kayıp çocukları kurtarmak görevimdi."
 
-#: text_past_snatcher_profession.txt:3
 msgid "For [CONTEXT:NUMBER] of my years, I rescued lost children."
 msgstr "[CONTEXT:NUMBER] yıl boyunca kayıp çocukları kurtardım."
 
-#: text_past_thief_profession.txt:2
 msgid "I once sought great treasures."
 msgstr "Bir zamanlar büyük hazineleri arardım."
 
-#: text_past_thief_profession.txt:3
 msgid "I sought great treasures for [CONTEXT:NUMBER] of my years."
 msgstr "[CONTEXT:NUMBER] yıl boyunca büyük hazineleri aradım."
 
-#: text_past_wandering_profession.txt:2
 msgid "I once wandered the wilds."
 msgstr "Bir zamanlar vahşi doğada dolaşırdım."
 
-#: text_past_wandering_profession.txt:3
 msgid "For [CONTEXT:NUMBER] of my years, I wandered the wilds."
 msgstr "[CONTEXT:NUMBER] yıl boyunca vahşi doğada dolaşırdım."
 
-#: text_positive.txt:2
 msgid "fantastic!"
 msgstr "fantastik!"
 
-#: text_positive.txt:3
 msgid "wonderful!"
 msgstr "şahane!"
 
-#: text_positive.txt:4
 msgid "I'm thrilled to hear that."
 msgstr "Bunu duyduğuma çok sevindim."
 
-#: text_positive.txt:5
 msgid "I'm pleased to hear that."
 msgstr "Bunu duyduğuma sevindim."
 
-#: text_positive.txt:6
 msgid "that is good news."
 msgstr "bu iyi bir haber."
 
-#: text_positive.txt:7
 msgid "that is wonderful news."
 msgstr "bu müthiş bir haber."
 
-#: text_positive.txt:8
 msgid "this is encouraging."
 msgstr "bu cesaret verici."
 
-#: text_positive.txt:9
 msgid "very good."
 msgstr "çok iyi."
 
-#: text_positive.txt:10
 msgid "I'm proud of you."
 msgstr "Seninle gurur duyuyorum."
 
-#: text_positive.txt:11
 msgid "that is a good turn of affairs."
 msgstr "bu iyi bir gidişat."
 
-#: text_same_site_ab_specific_hf_seeker.txt:2
 msgid ""
 "seek out [CONTEXT:HIST_FIG:TRANS_NAME] here in [CONTEXT:SITE:TRANS_NAME] at "
 "[CONTEXT:ABSTRACT_BUILDING:TRANS_NAME]"
@@ -1270,163 +976,124 @@ msgstr ""
 "[CONTEXT:HIST_FIG:TRANS_NAME] 'i [CONTEXT:SITE:TRANS_NAME] 'de ki "
 "[CONTEXT:ABSTRACT_BUILDING:TRANS_NAME] 'de ara"
 
-#: text_same_site_specific_hf_seeker.txt:2
 msgid ""
 "seek out [CONTEXT:HIST_FIG:TRANS_NAME] here in [CONTEXT:SITE:TRANS_NAME]"
 msgstr "[CONTEXT:HIST_FIG:TRANS_NAME] 'i [CONTEXT:SITE:TRANS_NAME] 'de ara"
 
-#: text_secret_death.txt:2
 msgid "Annihilation"
 msgstr "İmha"
 
-#: text_secret_death.txt:3
 msgid "Bereavement"
 msgstr "Kayıp"
 
-#: text_secret_death.txt:4
 msgid "Death"
 msgstr "Ölüm"
 
-#: text_secret_death.txt:5
 msgid "Demise"
 msgstr "Ölüm"
 
-#: text_secret_death.txt:6
 msgid "Departure"
 msgstr "Gidiş"
 
-#: text_secret_death.txt:7
 msgid "Doom"
 msgstr "Kıyamet"
 
-#: text_secret_death.txt:8
 msgid "Dying"
 msgstr "Ölmek"
 
-#: text_secret_death.txt:9
 msgid "Eternal Rest"
 msgstr "Sonsuz Uyku"
 
-#: text_secret_death.txt:10
 msgid "Expiration"
 msgstr "Son Tarih"
 
-#: text_secret_death.txt:11
 msgid "Extinction"
 msgstr "Nesli Tükenmek"
 
-#: text_secret_death.txt:12
 msgid "Mortality"
 msgstr "Ölümlülük"
 
-#: text_secret_death.txt:13
 msgid "Immortality"
 msgstr "Ölümsüzlük"
 
-#: text_secret_death.txt:14
 msgid "Loss"
 msgstr "Kayıp"
 
-#: text_secret_death.txt:15
 msgid "Oblivion"
 msgstr "Unutmak"
 
-#: text_secret_death.txt:16
 msgid "Parting"
 msgstr "Ayrılma"
 
-#: text_secret_death.txt:17
 msgid "Ruin"
 msgstr "Yıkıntı"
 
-#: text_secret_death.txt:18
 msgid "Ruination"
 msgstr "Tahrip"
 
-#: text_secret_death.txt:19
 msgid "Sleep"
 msgstr "Uyku"
 
-#: text_secret_death.txt:20
 msgid "the Afterlife"
 msgstr "Ahiret"
 
-#: text_secret_death.txt:21
 msgid "the End"
 msgstr "Son"
 
-#: text_secret_death.txt:22
 msgid "the Grave"
 msgstr "Mezar"
 
-#: text_site_specific_hf_seeker.txt:2
 msgid ""
 "seek out [CONTEXT:HIST_FIG:TRANS_NAME] over in [CONTEXT:SITE:TRANS_NAME]"
 msgstr "[CONTEXT:HIST_FIG:TRANS_NAME] 'i [CONTEXT:SITE:TRANS_NAME] 'de ara"
 
-#: text_slayer.txt:2
 msgid "bane"
 msgstr "yıkım"
 
-#: text_slayer.txt:3
 msgid "conqueror"
 msgstr "fatih"
 
-#: text_slayer.txt:4
 msgid "death"
 msgstr "ölüm"
 
-#: text_slayer.txt:5
 msgid "foe"
 msgstr "rakip"
 
-#: text_slayer.txt:6
 msgid "killer"
 msgstr "katil"
 
-#: text_slayer.txt:7
 msgid "lord"
 msgstr "lord"
 
-#: text_slayer.txt:8
 msgid "master"
 msgstr "efendi"
 
-#: text_slayer.txt:9
 msgid "nemesis"
 msgstr "ezeli düşman"
 
-#: text_slayer.txt:10
 msgid "slayer"
 msgstr "katil"
 
-#: text_slayer.txt:11
 msgid "vanquisher"
 msgstr "galip"
 
-#: text_slayer.txt:12
 msgid "murderer"
 msgstr "cani"
 
-#: text_slayer.txt:13
 msgid "crusher"
 msgstr "ezici"
 
-#: text_slayer.txt:14
 msgid "extinguisher"
 msgstr "yangın söndürücü"
 
-#: text_slayer.txt:15
 msgid "strangler"
 msgstr "boğucu"
 
-#: text_snatcher_profession.txt:2
 msgid ""
 "I rescue lost children and bring them back to [CONTEXT:PLACE:TRANS_NAME]."
 msgstr ""
 "Kayıp çocukları kurtarıp [CONTEXT:PLACE:TRANS_NAME] 'e geri götürürüm."
 
-#: text_snatcher_profession_year.txt:2
 msgid ""
 "For [CONTEXT:NUMBER] of my years, I have been rescuing lost children and "
 "bringing them back to [CONTEXT:PLACE:TRANS_NAME]."
@@ -1434,35 +1101,27 @@ msgstr ""
 "[CONTEXT:NUMBER] yıl boyunca, kayıp çocukları kurtarıp "
 "[CONTEXT:PLACE:TRANS_NAME] 'e geri götürürdüm."
 
-#: text_soldier_profession.txt:2
 msgid "I am a soldier."
 msgstr "Ben bir askerim."
 
-#: text_task_recommendation.txt:2
 msgid "[CONTEXT:ANY:TRANS_NAME] might have a task for you"
 msgstr "[CONTEXT:ANY:TRANS|NAME] 'in senin için bir görevi olabilir"
 
-#: text_temple_already_member.txt:2
 msgid "simply"
 msgstr "basitçe"
 
-#: text_temple_already_member.txt:3
 msgid "it is enough to"
 msgstr "için yeterli"
 
-#: text_temple_already_member.txt:4
 msgid "your task is simple;"
 msgstr "görevin basit;"
 
-#: text_temple_already_member.txt:5
 msgid "just"
 msgstr "sadece"
 
-#: text_temple_already_member.txt:6
 msgid "all you need is to"
 msgstr "tek ihtiyacın olan şey"
 
-#: text_temple_become_member.txt:2
 msgid ""
 "Welcome to [CONTEXT:ENTITY:TRANS_NAME].  Praise be to "
 "[CONTEXT:ENTITY:WORSHIP_HF:TRANS_NAME]!"
@@ -1470,7 +1129,6 @@ msgstr ""
 "[CONTEXT:ENTITY:TRANS_NAME] 'e hoş geldiniz. "
 "[CONTEXT:ENTITY:WORSHIP_HF:TRANS_NAME] 'e övgüler olsun!"
 
-#: text_temple_become_member.txt:3
 msgid ""
 "Welcome to [CONTEXT:ENTITY:TRANS_NAME].  Praise be to "
 "[CONTEXT:ENTITY:WORSHIP_HF:RANDOM_DEF_SPHERE]!"
@@ -1478,7 +1136,6 @@ msgstr ""
 "[CONTEXT:ENTITY:TRANS_NAME] 'e hoş geldiniz. "
 "[CONTEXT:ENTITY:WORSHIP_HF:RANDOM_DEF_SPHERE] 'e övgüler olsun!"
 
-#: text_temple_become_member.txt:4
 msgid ""
 "As a member of [CONTEXT:ENTITY:TRANS_NAME], you can now seek the higher "
 "mysteries of [CONTEXT:ENTITY:WORSHIP_HF:TRANS_NAME]."
@@ -1487,7 +1144,6 @@ msgstr ""
 "[CONTEXT:ENTITY:WORSHIP_HF:TRANS_NAME] 'in daha derin gizemlerinin peşinden "
 "gidebilirsin."
 
-#: text_temple_become_member.txt:5
 msgid ""
 "As a member of [CONTEXT:ENTITY:TRANS_NAME], you can now seek the higher "
 "mysteries of [CONTEXT:ENTITY:WORSHIP_HF:RANDOM_DEF_SPHERE]."
@@ -1496,11 +1152,9 @@ msgstr ""
 "[CONTEXT:ENTITY:WORSHIP_HF:RANDOM_DEF_SPHERE] 'nin daha derin gizemlerinin "
 "peşinden gidebilirsin."
 
-#: text_thief_profession.txt:2
 msgid "I seek treasures and bring them back to [CONTEXT:PLACE:TRANS_NAME]."
 msgstr "Hazineleri ararım ve [CONTEXT:PLACE:TRANS_NAME] 'e geri götürürüm."
 
-#: text_thief_profession_year.txt:2
 msgid ""
 "I seek treasures and bring them back to [CONTEXT:PLACE:TRANS_NAME] and have "
 "done so for [CONTEXT:NUMBER] of the years of my life."
@@ -1508,11 +1162,9 @@ msgstr ""
 "[CONTEXT:NUMBER] yılımı hazine arayıp [CONTEXT:PLACE:TRANS_NAME] 'e geri "
 "götürerek harcadım."
 
-#: text_threat.txt:2
 msgid "Prepare to die!"
 msgstr "Kefenini giy!"
 
-#: text_unknown_hf_seeker.txt:2
 msgid ""
 "seek out [CONTEXT:HIST_FIG:TRANS_NAME], wherever [CONTEXT:HIST_FIG:PRO_SUB] "
 "might be"
@@ -1520,11 +1172,9 @@ msgstr ""
 "[CONTEXT:HIST_FIG:TRANS_NAME] 'i [CONTEXT:HIST_FIG:PRO_SUB] 'ın olabileceği "
 "her yerde ara"
 
-#: text_wandering_profession.txt:2
 msgid "I wander [CONTEXT:PLACE:TRANS_NAME]."
 msgstr "[CONTEXT:PLACE:TRANS_NAME] 'i dolaşıyorum."
 
-#: text_wandering_profession_year.txt:2
 msgid ""
 "I have wandered [CONTEXT:PLACE:TRANS_NAME] for [CONTEXT:NUMBER] of my years."
 msgstr ""
