@@ -3,7 +3,6 @@ title: "Перевод игры Dwarf Fortress на русский язык"
 description: "Русификатор для 50.* и более новых версий Dwarf Fortress"
 lang: "ru-RU" # replace it with your language code
 permalink: /russian/
-additional_links: false
 layout: download_page
 downloads:
     windows_description: "Версия для Windows:"
@@ -17,7 +16,7 @@ downloads:
 
 - Скачайте архив, распакуйте, запустите файл `dfint-installer`.
 - Выберите ("Откройте") исполняемый файл игры (`Dwarf Fortress.exe` или `dwarfort`). Можно положить файл `dfint-installer` в папку игры, тогда не нужно будет при первом запуске указывать путь к исполняемому файлу.
-- Выберите язык перевода, нажать "Обновить" ("Update").
+- Выберите язык перевода, нажать "Обновить".
 - Запустите игру.
 - Для обновления перевода/конфигурации для более новых версий игры — запустите инсталлятор снова (при закрытой игре), нажать "Обновить".
 
@@ -30,4 +29,4 @@ downloads:
 - [Проект перевода на transifex](https://app.transifex.com/dwarf-fortress-translation/dwarf-fortress-steam) - здесь вы можете принять участие в доработке перевода игры на русский язык
 - [Проект на github](https://github.com/dfint) - здесь ведется разработка инструментов для локализации
 - [Официальный сайт Dwarf Fortress](https://bay12games.com/dwarves/), [steam](https://store.steampowered.com/app/975370/Dwarf_Fortress/), [itch.io](https://kitfoxgames.itch.io/dwarf-fortress)
-{% if page.additional_links %}{% include_relative _additional_links.md %}{% endif %}
+{% if site.data.additional_links_enabled[page.lang] %}{% include_relative _additional_links.md %}{% endif %}
