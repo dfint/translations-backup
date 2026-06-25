@@ -1999,6 +1999,14 @@ msgctxt "BODY:SHELL"
 msgid "[BP:SHELL:shell:STP]"
 msgstr "[BP:SHELL:панцир:панцирі]"
 
+msgctxt "BODY:2PART_CARAPACE"
+msgid "[BP:UB_CARAPACE:upper carapace:STP]"
+msgstr ""
+
+msgctxt "BODY:2PART_CARAPACE"
+msgid "[BP:LB_CARAPACE:lower carapace:STP]"
+msgstr ""
+
 msgctxt "BODY:TAIL_STANCE"
 msgid "[BP:TAIL:tail:STP]"
 msgstr "[BP:TAIL:хвіст:хвости]"
@@ -2015,53 +2023,65 @@ msgctxt "BODY:UPPERBODY_PINCERS"
 msgid "[BP:L_UB_PINCER:left pincer:STP]"
 msgstr "[BP:L_UB_PINCER:ліва клешня:ліві клешні]"
 
-msgctxt "BODY:UPPERBODY_PINCERS"
+msgctxt "BODY:HEAD_PINCERS"
+msgid "[BP:R_HD_PINCER:right pincer:STP]"
+msgstr ""
+
+msgctxt "BODY:HEAD_PINCERS"
+msgid "[BP:L_HD_PINCER:left pincer:STP]"
+msgstr ""
+
+msgctxt "BODY:2_FRONTAL_PINCER_APPENDAGES"
+msgid "[BP:R_HD_PINCER:right frontal appendage:STP]"
+msgstr ""
+
+msgctxt "BODY:2_FRONTAL_PINCER_APPENDAGES"
+msgid "[BP:L_HD_PINCER:left frontal appendage:STP]"
+msgstr ""
+
+msgctxt "BODY:2_FRONTAL_PINCER_APPENDAGES"
 msgid "[BODYGLOSS:PAW:foot:paw:feet:paws]"
-msgstr "[BODYGLOSS:PAW:стопа:лапа:стопи:лапи]"
+msgstr ""
 
-msgctxt "BODY:UPPERBODY_PINCERS"
+msgctxt "BODY:2_FRONTAL_PINCER_APPENDAGES"
 msgid "[BODYGLOSS:MAW:mouth:maw:mouths:maws]"
-msgstr "[BODYGLOSS:MAW:рот:паща:роти:пащі]"
+msgstr ""
 
-msgctxt "BODY:UPPERBODY_PINCERS"
+msgctxt "BODY:2_FRONTAL_PINCER_APPENDAGES"
 msgid "[BODYGLOSS:CLAW_HAND:hand:claw:hands:claws]"
-msgstr "[BODYGLOSS:CLAW_HAND:кулак:пазур:кулаків:пазурі]"
+msgstr ""
 
-msgctxt "BODY:UPPERBODY_PINCERS"
+msgctxt "BODY:2_FRONTAL_PINCER_APPENDAGES"
 msgid "[BODYGLOSS:CLAW_FOOT:foot:claw:feet:claws]"
-msgstr "[BODYGLOSS:CLAW_FOOT:стопа:пазур:стопи:пазурі]"
+msgstr ""
 
-msgctxt "BODY:UPPERBODY_PINCERS"
+msgctxt "BODY:2_FRONTAL_PINCER_APPENDAGES"
 msgid "[BODYGLOSS:HOOF:foot:hoof:feet:hooves]"
-msgstr "[BODYGLOSS:HOOF:стопа:копито:стопи:копита]"
+msgstr ""
 
-msgctxt "BODY:UPPERBODY_PINCERS"
+msgctxt "BODY:2_FRONTAL_PINCER_APPENDAGES"
 msgid "[BODYGLOSS:TRUNK:body:trunk:bodies:trunks]"
-msgstr "[BODYGLOSS:TRUNK:тіло:тулуб:тіла:тулуби]"
+msgstr ""
 
-msgctxt "BODY:UPPERBODY_PINCERS"
+msgctxt "BODY:2_FRONTAL_PINCER_APPENDAGES"
 msgid "[BODYGLOSS:BRANCH_ARM:arm:branch:arms:branches]"
-msgstr "[BODYGLOSS:BRANCH_ARM:рука:гілка:руки:гілки]"
+msgstr ""
 
-msgctxt "BODY:UPPERBODY_PINCERS"
+msgctxt "BODY:2_FRONTAL_PINCER_APPENDAGES"
 msgid "[BODYGLOSS:LEG_STUMP:leg:stump:legs:stumps]"
-msgstr "[BODYGLOSS:LEG_STUMP:нога:комель:ноги:комелі]"
+msgstr ""
 
-msgctxt "BODY:UPPERBODY_PINCERS"
+msgctxt "BODY:2_FRONTAL_PINCER_APPENDAGES"
 msgid "[BODYGLOSS:ROOTS_FOOT:foot:roots:feet:roots]"
-msgstr "[BODYGLOSS:ROOTS_FOOT:ступня:корені:ступні:корені]"
+msgstr ""
 
-msgctxt "BODY:UPPERBODY_PINCERS"
+msgctxt "BODY:2_FRONTAL_PINCER_APPENDAGES"
 msgid "[BODYGLOSS:INSECT_UPPERBODY:upper body:thorax:upper bodies:thoraxes]"
 msgstr ""
-"[BODYGLOSS:INSECT_UPPERBODY:верхня частина тіла:груди:верхні частини "
-"тіла:груди]"
 
-msgctxt "BODY:UPPERBODY_PINCERS"
+msgctxt "BODY:2_FRONTAL_PINCER_APPENDAGES"
 msgid "[BODYGLOSS:INSECT_LOWERBODY:lower body:abdomen:lower bodies:abdomens]"
 msgstr ""
-"[BODYGLOSS:INSECT_LOWERBODY:нижня частина тіла:черевце:нижня частина "
-"тіла:черевця]"
 
 msgctxt "BODY:2EYES"
 msgid "[BP:REYE:right eye:STP]"
@@ -2098,6 +2118,26 @@ msgstr "[BP:EYE3:третє око:треті очі]"
 msgctxt "BODY:4EYES"
 msgid "[BP:EYE4:fourth eye:STP]"
 msgstr "[BP:EYE4:четверте око:четверті очі]"
+
+msgctxt "BODY:5EYES"
+msgid "[BP:EYE1:first eye:STP]"
+msgstr ""
+
+msgctxt "BODY:5EYES"
+msgid "[BP:EYE2:second eye:STP]"
+msgstr ""
+
+msgctxt "BODY:5EYES"
+msgid "[BP:EYE3:third eye:STP]"
+msgstr ""
+
+msgctxt "BODY:5EYES"
+msgid "[BP:EYE4:fourth eye:STP]"
+msgstr ""
+
+msgctxt "BODY:5EYES"
+msgid "[BP:EYE5:fifth eye:STP]"
+msgstr ""
 
 msgctxt "BODY:2EYESTALKS"
 msgid "[BP:REYE:right eyestalk:STP]"
@@ -2259,6 +2299,10 @@ msgctxt "BODY:BRAIN"
 msgid "[BP:BRAIN:brain:STP]"
 msgstr "[BP:BRAIN:мозок:мізки]"
 
+msgctxt "BODY:UB_BRAIN"
+msgid "[BP:BRAIN:brain:STP]"
+msgstr ""
+
 msgctxt "BODY:SKULL"
 msgid "[BP:SKULL:skull:STP]"
 msgstr "[BP:SKULL:череп:черепи]"
@@ -2266,6 +2310,10 @@ msgstr "[BP:SKULL:череп:черепи]"
 msgctxt "BODY:CASQUE"
 msgid "[BP:CASQUE:casque:STP]"
 msgstr "[BP:CASQUE:шолом:шоломи]"
+
+msgctxt "BODY:CREST"
+msgid "[BP:CREST:crest:STP]"
+msgstr ""
 
 msgctxt "BODY:HEAD_HORN"
 msgid "[BP:HEAD_HORN:horn:STP]"
@@ -2286,6 +2334,34 @@ msgstr "[BP:RHORN:перший ріг:перші роги]"
 msgctxt "BODY:2HEAD_HORN_NUMBERED"
 msgid "[BP:LHORN:second horn:STP]"
 msgstr "[BP:LHORN:другий ріг:другі роги]"
+
+msgctxt "BODY:3HEAD_HORNS_FRL"
+msgid "[BP:RHORN:front horn:STP]"
+msgstr ""
+
+msgctxt "BODY:3HEAD_HORNS_FRL"
+msgid "[BP:RHORN:right horn:STP]"
+msgstr ""
+
+msgctxt "BODY:3HEAD_HORNS_FRL"
+msgid "[BP:LHORN:left horn:STP]"
+msgstr ""
+
+msgctxt "BODY:4HEAD_HORNS_RLUL"
+msgid "[BP:RHORN:right upper horn:STP]"
+msgstr ""
+
+msgctxt "BODY:4HEAD_HORNS_RLUL"
+msgid "[BP:LHORN:left upper horn:STP]"
+msgstr ""
+
+msgctxt "BODY:4HEAD_HORNS_RLUL"
+msgid "[BP:RHORN:right lower horn:STP]"
+msgstr ""
+
+msgctxt "BODY:4HEAD_HORNS_RLUL"
+msgid "[BP:LHORN:left lower horn:STP]"
+msgstr ""
 
 msgctxt "BODY:2HEAD_ANTLER"
 msgid "[BP:RHORN:right antler:STP]"
@@ -2362,6 +2438,10 @@ msgstr "[BP:FINGER1:перший палець:перші пальці]"
 msgctxt "BODY:2FINGERS"
 msgid "[BP:FINGER2:second finger:STP]"
 msgstr "[BP:FINGER2:другий палець:другі пальці]"
+
+msgctxt "BODY:1FINGER"
+msgid "[BP:FINGER1:finger:STP]"
+msgstr ""
 
 msgctxt "BODY:5TOES"
 msgid "[BP:TOE1:first toe:STP]"
@@ -2835,6 +2915,22 @@ msgctxt "BODY:REAR_BODY_FLIPPERS"
 msgid "[BP:LRFLIP:left rear flipper:STP]"
 msgstr "[BP:LRFLIP:лівий задній плавець:ліві задні плавці]"
 
+msgctxt "BODY:FRONT_BODY_FINS"
+msgid "[BP:RFFIN:right front fin:STP]"
+msgstr ""
+
+msgctxt "BODY:FRONT_BODY_FINS"
+msgid "[BP:LFFIN:left front fin:STP]"
+msgstr ""
+
+msgctxt "BODY:REAR_BODY_FINS"
+msgid "[BP:RRFIN:right rear fin:STP]"
+msgstr ""
+
+msgctxt "BODY:REAR_BODY_FINS"
+msgid "[BP:LRFIN:left rear fin:STP]"
+msgstr ""
+
 msgctxt "BODY:1HUMP"
 msgid "[BP:HUMP1:hump:STP]"
 msgstr "[BP:HUMP1:горб:горби]"
@@ -2974,6 +3070,14 @@ msgstr "[BP:RL_INCISOR:нижній правий різець:нижні пра�
 msgctxt "BODY:RODENT_TEETH"
 msgid "[BP:LL_INCISOR:left lower incisor:STP]"
 msgstr "[BP:LL_INCISOR:нижній лівий різець:нижні ліві різці]"
+
+msgctxt "BODY:2_TEETH"
+msgid "[BP:RU_INCISOR:right tooth:STP]"
+msgstr ""
+
+msgctxt "BODY:2_TEETH"
+msgid "[BP:LU_INCISOR:left tooth:STP]"
+msgstr ""
 
 msgctxt "BODY:GENERIC_TEETH"
 msgid "[BP:TOOTH:tooth:teeth]"
@@ -3258,6 +3362,50 @@ msgstr "[BP:LF:ліва стопа:ліві стопи]"
 msgctxt "BODY:TUSK"
 msgid "[BP:TUSK:tusk:STP]"
 msgstr "[BP:TUSK:бивень:бивні]"
+
+msgctxt "BODY:2_FRONTAL_ENDITES"
+msgid "[BP:RF_ENDITE:right frontal endite:STP]"
+msgstr ""
+
+msgctxt "BODY:2_FRONTAL_ENDITES"
+msgid "[BP:LF_ENDITE:left frontal endite:STP]"
+msgstr ""
+
+msgctxt "BODY:HEAD_SCLERITE"
+msgid "[BP:HEAD_SCLERITE:head sclerite:STP]"
+msgstr ""
+
+msgctxt "BODY:TOOTH_WHORL"
+msgid "[BP:TOOTH_WHORL:tooth whorl:STP]"
+msgstr ""
+
+msgctxt "BODY:2_ANTENNAE"
+msgid "[BP:R_ANT:right antenna:STP]"
+msgstr ""
+
+msgctxt "BODY:2_ANTENNAE"
+msgid "[BP:L_ANT:left antenna:STP]"
+msgstr ""
+
+msgctxt "BODY:TAIL_THAGOMIZER"
+msgid "[BP:TAIL_THAGOMIZER:thagomizer:STP]"
+msgstr ""
+
+msgctxt "BODY:TAIL_CLUB"
+msgid "[BP:TAIL_CLUB:tail club:STP]"
+msgstr ""
+
+msgctxt "BODY:SAIL"
+msgid "[BP:SAIL:sail:STP]"
+msgstr ""
+
+msgctxt "BODY:SHOULDER_SPINES"
+msgid "[BP:R_SHOULDER_SPINE:right shoulder spine:STP]"
+msgstr ""
+
+msgctxt "BODY:SHOULDER_SPINES"
+msgid "[BP:L_SHOULDER_SPINE:left shoulder spine:STP]"
+msgstr ""
 
 msgctxt "BODY:RCP_BASIC_BODY"
 msgid "[BP:UB:body:bodies]"
@@ -29670,6 +29818,10 @@ msgid "[CASTE_NAME:sloth:sloths:sloth]"
 msgstr "[CASTE_NAME:лінивець:лінивці:лінивця]"
 
 msgctxt "CREATURE:SLOTH"
+msgid "[GENERAL_CHILD_NAME:sloth cub:sloth cubs]"
+msgstr ""
+
+msgctxt "CREATURE:SLOTH"
 msgid "[PREFSTRING:slow movement]"
 msgstr "[PREFSTRING:повільність]"
 
@@ -30876,6 +31028,5950 @@ msgctxt "CREATURE:GIANT_LYNX"
 msgid "[PREFSTRING:ear tufts]"
 msgstr "[PREFSTRING:пучки на вухах]"
 
+msgctxt "CREATURE:CAMBRIAN_HALLUCIGENIA"
+msgid ""
+"[DESCRIPTION:A tiny aquatic worm-like creature with ten pairs slender legs "
+"and seven pairs of protruding rigid spines along its body.]"
+msgstr ""
+
+msgctxt "CREATURE:CAMBRIAN_HALLUCIGENIA"
+msgid "[NAME:hallucigenia:hallucigenia:hallucigenia]"
+msgstr ""
+
+msgctxt "CREATURE:CAMBRIAN_HALLUCIGENIA"
+msgid "[CASTE_NAME:hallucigenia:hallucigenia:hallucigenia]"
+msgstr ""
+
+msgctxt "CREATURE:CAMBRIAN_HALLUCIGENIA"
+msgid "[PREFSTRING:spines]"
+msgstr ""
+
+msgctxt "CREATURE:CAMBRIAN_HALLUCIGENIA"
+msgid "[PREFSTRING:lobopods]"
+msgstr ""
+
+msgctxt "CREATURE:CAMBRIAN_HALLUCIGENIA"
+msgid "[STATE_NAME:ALL_SOLID:spine]"
+msgstr ""
+
+msgctxt "CREATURE:CAMBRIAN_HALLUCIGENIA"
+msgid "[STATE_ADJ:ALL_SOLID:spine]"
+msgstr ""
+
+msgctxt "CREATURE:CAMBRIAN_HALLUCIGENIA"
+msgid "[TLCM_NOUN:chitin:SINGULAR]"
+msgstr ""
+
+msgctxt "CREATURE:CAMBRIAN_HALLUCIGENIA"
+msgid "[TLCM_NOUN:eyes:PLURAL]"
+msgstr ""
+
+msgctxt "CREATURE:CAMBRIAN_HALLUCIGENIA_MAN"
+msgid "[CASTE_NAME:hallucigenia man:hallucigenia men:hallucigenia man]"
+msgstr ""
+
+msgctxt "CREATURE:CAMBRIAN_HALLUCIGENIA_MAN"
+msgid "[CASTE_NAME:hallucigenia woman:hallucigenia women:hallucigenia woman]"
+msgstr ""
+
+msgctxt "CREATURE:CAMBRIAN_HALLUCIGENIA_MAN"
+msgid "[NAME:hallucigenia man:hallucigenia men:hallucigenia man]"
+msgstr ""
+
+msgctxt "CREATURE:CAMBRIAN_HALLUCIGENIA_MAN"
+msgid "[DESCRIPTION:A small person with the back spines of a hallucigenia.]"
+msgstr ""
+
+msgctxt "CREATURE:CAMBRIAN_HAIKOUICHTHYS"
+msgid ""
+"[DESCRIPTION:A tiny four-eyed fish with a pronounced fin along its back.]"
+msgstr ""
+
+msgctxt "CREATURE:CAMBRIAN_HAIKOUICHTHYS"
+msgid "[NAME:haikouichthys:haikouichthys:haikouichthys]"
+msgstr ""
+
+msgctxt "CREATURE:CAMBRIAN_HAIKOUICHTHYS"
+msgid "[CASTE_NAME:haikouichthys:haikouichthys:haikouichthys]"
+msgstr ""
+
+msgctxt "CREATURE:CAMBRIAN_HAIKOUICHTHYS"
+msgid "[GENERAL_CHILD_NAME:haikouichthys fry:haikouichthys fry]"
+msgstr ""
+
+msgctxt "CREATURE:CAMBRIAN_HAIKOUICHTHYS"
+msgid "[PREFSTRING:extra eyes]"
+msgstr ""
+
+msgctxt "CREATURE:CAMBRIAN_HAIKOUICHTHYS"
+msgid "[PREFSTRING:fins]"
+msgstr ""
+
+msgctxt "CREATURE:CAMBRIAN_HAIKOUICHTHYS"
+msgid "[ATTACK_VERB:bite:bites]"
+msgstr ""
+
+msgctxt "CREATURE:CAMBRIAN_HAIKOUICHTHYS"
+msgid "[TLCM_NOUN:skin:SINGULAR]"
+msgstr ""
+
+msgctxt "CREATURE:CAMBRIAN_HAIKOUICHTHYS"
+msgid "[TLCM_NOUN:eyes:PLURAL]"
+msgstr ""
+
+msgctxt "CREATURE:CAMBRIAN_HAIKOUICHTHYS_MAN"
+msgid "[CASTE_NAME:haikouichthys man:haikouichthys men:haikouichthys man]"
+msgstr ""
+
+msgctxt "CREATURE:CAMBRIAN_HAIKOUICHTHYS_MAN"
+msgid ""
+"[CASTE_NAME:haikouichthys woman:haikouichthys women:haikouichthys woman]"
+msgstr ""
+
+msgctxt "CREATURE:CAMBRIAN_HAIKOUICHTHYS_MAN"
+msgid "[NAME:haikouichthys man:haikouichthys men:haikouichthys man]"
+msgstr ""
+
+msgctxt "CREATURE:CAMBRIAN_HAIKOUICHTHYS_MAN"
+msgid ""
+"[DESCRIPTION:A small four-eyed fish person with a pronounced back fin.]"
+msgstr ""
+
+msgctxt "CREATURE:CAMBRIAN_OPABINIA"
+msgid ""
+"[DESCRIPTION:A tiny five-eyed aquatic arthropod with a grasping proboscis.]"
+msgstr ""
+
+msgctxt "CREATURE:CAMBRIAN_OPABINIA"
+msgid "[NAME:opabinia:opabinia:opabinia]"
+msgstr ""
+
+msgctxt "CREATURE:CAMBRIAN_OPABINIA"
+msgid "[CASTE_NAME:opabinia:opabinia:opabinia]"
+msgstr ""
+
+msgctxt "CREATURE:CAMBRIAN_OPABINIA"
+msgid "[PREFSTRING:eyes]"
+msgstr ""
+
+msgctxt "CREATURE:CAMBRIAN_OPABINIA"
+msgid "[PREFSTRING:grasping proboscis]"
+msgstr ""
+
+msgctxt "CREATURE:CAMBRIAN_OPABINIA"
+msgid "[ATTACK_VERB:bite:bites]"
+msgstr ""
+
+msgctxt "CREATURE:CAMBRIAN_OPABINIA"
+msgid "[TLCM_NOUN:chitin:SINGULAR]"
+msgstr ""
+
+msgctxt "CREATURE:CAMBRIAN_OPABINIA"
+msgid "[TLCM_NOUN:eyes:PLURAL]"
+msgstr ""
+
+msgctxt "CREATURE:CAMBRIAN_OPABINIA_MAN"
+msgid "[CASTE_NAME:opabinia man:opabinia men:opabinia man]"
+msgstr ""
+
+msgctxt "CREATURE:CAMBRIAN_OPABINIA_MAN"
+msgid "[CASTE_NAME:opabinia woman:opabinia women:opabinia woman]"
+msgstr ""
+
+msgctxt "CREATURE:CAMBRIAN_OPABINIA_MAN"
+msgid "[NAME:opabinia man:opabinia men:opabinia man]"
+msgstr ""
+
+msgctxt "CREATURE:CAMBRIAN_OPABINIA_MAN"
+msgid ""
+"[DESCRIPTION:A small five-eyed arthropod person with grasping proboscis.]"
+msgstr ""
+
+msgctxt "CREATURE:CAMBRIAN_ANOMALOCARIS"
+msgid ""
+"[DESCRIPTION:A tiny aquatic arthropod with pronounced eyes and two frontal "
+"grasping appendages.]"
+msgstr ""
+
+msgctxt "CREATURE:CAMBRIAN_ANOMALOCARIS"
+msgid "[NAME:anomalocaris:anomalocaris:anomalocaris]"
+msgstr ""
+
+msgctxt "CREATURE:CAMBRIAN_ANOMALOCARIS"
+msgid "[CASTE_NAME:anomalocaris:anomalocaris:anomalocaris]"
+msgstr ""
+
+msgctxt "CREATURE:CAMBRIAN_ANOMALOCARIS"
+msgid "[PREFSTRING:frontal appendages]"
+msgstr ""
+
+msgctxt "CREATURE:CAMBRIAN_ANOMALOCARIS"
+msgid "[TLCM_NOUN:chitin:SINGULAR]"
+msgstr ""
+
+msgctxt "CREATURE:CAMBRIAN_ANOMALOCARIS"
+msgid "[TLCM_NOUN:eyes:PLURAL]"
+msgstr ""
+
+msgctxt "CREATURE:CAMBRIAN_ANOMALOCARIS_MAN"
+msgid "[CASTE_NAME:anomalocaris man:anomalocaris men:anomalocaris man]"
+msgstr ""
+
+msgctxt "CREATURE:CAMBRIAN_ANOMALOCARIS_MAN"
+msgid "[CASTE_NAME:anomalocaris woman:anomalocaris women:anomalocaris woman]"
+msgstr ""
+
+msgctxt "CREATURE:CAMBRIAN_ANOMALOCARIS_MAN"
+msgid "[NAME:anomalocaris man:anomalocaris men:anomalocaris man]"
+msgstr ""
+
+msgctxt "CREATURE:CAMBRIAN_ANOMALOCARIS_MAN"
+msgid ""
+"[DESCRIPTION:A small arthropod person with pronounced eyes and two grasping "
+"appendages protruding from their face.]"
+msgstr ""
+
+msgctxt "CREATURE:CAMBRIAN_TRILOBITE"
+msgid ""
+"[DESCRIPTION:A very small aquatic arthropod with two antennae.  It has many "
+"legs underneath its flat segmented oval body.  They can curl into a ball to "
+"protect themselves.]"
+msgstr ""
+
+msgctxt "CREATURE:CAMBRIAN_TRILOBITE"
+msgid "[NAME:trilobite:trilobites:trilobite]"
+msgstr ""
+
+msgctxt "CREATURE:CAMBRIAN_TRILOBITE"
+msgid "[CASTE_NAME:trilobite:trilobites:trilobite]"
+msgstr ""
+
+msgctxt "CREATURE:CAMBRIAN_TRILOBITE"
+msgid "[GENERAL_CHILD_NAME:juvenile trilobite:juvenile trilobite]"
+msgstr ""
+
+msgctxt "CREATURE:CAMBRIAN_TRILOBITE"
+msgid "[PREFSTRING:shells]"
+msgstr ""
+
+msgctxt "CREATURE:CAMBRIAN_TRILOBITE"
+msgid ""
+"[RETRACT_INTO_BP:BY_CATEGORY:SHELL:roll into a ball:rolls into a "
+"ball:unroll:unrolls]"
+msgstr ""
+
+msgctxt "CREATURE:CAMBRIAN_TRILOBITE"
+msgid "[TLCM_NOUN:chitin:SINGULAR]"
+msgstr ""
+
+msgctxt "CREATURE:CAMBRIAN_TRILOBITE"
+msgid "[TLCM_NOUN:eyes:PLURAL]"
+msgstr ""
+
+msgctxt "CREATURE:CAMBRIAN_TRILOBITE_MAN"
+msgid "[CASTE_NAME:trilobite man:trilobite men:trilobite man]"
+msgstr ""
+
+msgctxt "CREATURE:CAMBRIAN_TRILOBITE_MAN"
+msgid "[CASTE_NAME:trilobite woman:trilobite women:trilobite woman]"
+msgstr ""
+
+msgctxt "CREATURE:CAMBRIAN_TRILOBITE_MAN"
+msgid "[NAME:trilobite man:trilobite men:trilobite man]"
+msgstr ""
+
+msgctxt "CREATURE:CAMBRIAN_TRILOBITE_MAN"
+msgid ""
+"[DESCRIPTION:A small person with the segmented body and antennae of a "
+"trilobite.]"
+msgstr ""
+
+msgctxt "CREATURE:CAMBRIAN_WIWAXIA"
+msgid "[DESCRIPTION:A tiny hemispherical arthropod with protective spines.]"
+msgstr ""
+
+msgctxt "CREATURE:CAMBRIAN_WIWAXIA"
+msgid "[NAME:wiwaxia:wiwaxia:wiwaxia]"
+msgstr ""
+
+msgctxt "CREATURE:CAMBRIAN_WIWAXIA"
+msgid "[CASTE_NAME:wiwaxia:wiwaxia:wiwaxia]"
+msgstr ""
+
+msgctxt "CREATURE:CAMBRIAN_WIWAXIA"
+msgid "[PREFSTRING:spines]"
+msgstr ""
+
+msgctxt "CREATURE:CAMBRIAN_WIWAXIA"
+msgid "[STATE_NAME:ALL_SOLID:spine]"
+msgstr ""
+
+msgctxt "CREATURE:CAMBRIAN_WIWAXIA"
+msgid "[STATE_ADJ:ALL_SOLID:spine]"
+msgstr ""
+
+msgctxt "CREATURE:CAMBRIAN_WIWAXIA"
+msgid "[TLCM_NOUN:chitin:SINGULAR]"
+msgstr ""
+
+msgctxt "CREATURE:CAMBRIAN_WIWAXIA_MAN"
+msgid "[CASTE_NAME:wiwaxia man:wiwaxia men:wiwaxia man]"
+msgstr ""
+
+msgctxt "CREATURE:CAMBRIAN_WIWAXIA_MAN"
+msgid "[CASTE_NAME:wiwaxia woman:wiwaxia women:wiwaxia woman]"
+msgstr ""
+
+msgctxt "CREATURE:CAMBRIAN_WIWAXIA_MAN"
+msgid "[NAME:wiwaxia man:wiwaxia men:wiwaxia man]"
+msgstr ""
+
+msgctxt "CREATURE:CAMBRIAN_WIWAXIA_MAN"
+msgid ""
+"[DESCRIPTION:A tiny arthropod person with the protective spines of a "
+"wiwaxia.]"
+msgstr ""
+
+msgctxt "CREATURE:CARBONIFEROUS_OESTOCEPHALUS"
+msgid ""
+"[DESCRIPTION:A tiny amphibious limbless vertebrate that feeds on creatures "
+"as it slithers about.]"
+msgstr ""
+
+msgctxt "CREATURE:CARBONIFEROUS_OESTOCEPHALUS"
+msgid "[NAME:oestocephalus:oestocephalus:oestocephalus]"
+msgstr ""
+
+msgctxt "CREATURE:CARBONIFEROUS_OESTOCEPHALUS"
+msgid "[CASTE_NAME:oestocephalus:oestocephalus:oestocephalus]"
+msgstr ""
+
+msgctxt "CREATURE:CARBONIFEROUS_OESTOCEPHALUS"
+msgid "[PREFSTRING:slithering]"
+msgstr ""
+
+msgctxt "CREATURE:CARBONIFEROUS_OESTOCEPHALUS"
+msgid "[ATTACK_VERB:bite:bites]"
+msgstr ""
+
+msgctxt "CREATURE:CARBONIFEROUS_OESTOCEPHALUS"
+msgid "[TLCM_NOUN:skin:SINGULAR]"
+msgstr ""
+
+msgctxt "CREATURE:CARBONIFEROUS_OESTOCEPHALUS"
+msgid "[TLCM_NOUN:eyes:PLURAL]"
+msgstr ""
+
+msgctxt "CREATURE:CARBONIFEROUS_OESTOCEPHALUS_MAN"
+msgid "[CASTE_NAME:oestocephalus man:oestocephalus men:oestocephalus man]"
+msgstr ""
+
+msgctxt "CREATURE:CARBONIFEROUS_OESTOCEPHALUS_MAN"
+msgid ""
+"[CASTE_NAME:oestocephalus woman:oestocephalus women:oestocephalus woman]"
+msgstr ""
+
+msgctxt "CREATURE:CARBONIFEROUS_OESTOCEPHALUS_MAN"
+msgid "[NAME:oestocephalus man:oestocephalus men:oestocephalus man]"
+msgstr ""
+
+msgctxt "CREATURE:CARBONIFEROUS_OESTOCEPHALUS_MAN"
+msgid "[DESCRIPTION:A small slender legless amphibious person.]"
+msgstr ""
+
+msgctxt "CREATURE:CARBONIFEROUS_TULLIMONSTRUM"
+msgid ""
+"[DESCRIPTION:A tiny soft-bodied aquatic creature with a grasping forward "
+"appendage, two eyestalks and a finned tail.]"
+msgstr ""
+
+msgctxt "CREATURE:CARBONIFEROUS_TULLIMONSTRUM"
+msgid "[NAME:tullimonstrum:tullimonstrum:tullimonstrum]"
+msgstr ""
+
+msgctxt "CREATURE:CARBONIFEROUS_TULLIMONSTRUM"
+msgid "[CASTE_NAME:tullimonstrum:tullimonstrum:tullimonstrum]"
+msgstr ""
+
+msgctxt "CREATURE:CARBONIFEROUS_TULLIMONSTRUM"
+msgid "[PREFSTRING:jawed proboscis]"
+msgstr ""
+
+msgctxt "CREATURE:CARBONIFEROUS_TULLIMONSTRUM"
+msgid "[ATTACK_VERB:bite:bites]"
+msgstr ""
+
+msgctxt "CREATURE:CARBONIFEROUS_TULLIMONSTRUM"
+msgid "[TLCM_NOUN:skin:SINGULAR]"
+msgstr ""
+
+msgctxt "CREATURE:CARBONIFEROUS_TULLIMONSTRUM_MAN"
+msgid "[CASTE_NAME:tullimonstrum man:tullimonstrum men:tullimonstrum man]"
+msgstr ""
+
+msgctxt "CREATURE:CARBONIFEROUS_TULLIMONSTRUM_MAN"
+msgid ""
+"[CASTE_NAME:tullimonstrum woman:tullimonstrum women:tullimonstrum woman]"
+msgstr ""
+
+msgctxt "CREATURE:CARBONIFEROUS_TULLIMONSTRUM_MAN"
+msgid "[NAME:tullimonstrum man:tullimonstrum men:tullimonstrum man]"
+msgstr ""
+
+msgctxt "CREATURE:CARBONIFEROUS_TULLIMONSTRUM_MAN"
+msgid ""
+"[DESCRIPTION:A small legless person with two eyestalks and a grasping "
+"appendage attached to their face.]"
+msgstr ""
+
+msgctxt "CREATURE:CARBONIFEROUS_ARTHROPLEURA"
+msgid ""
+"[DESCRIPTION:A small myriapod, though very large for a myriapod.  It feeds "
+"on detritus.]"
+msgstr ""
+
+msgctxt "CREATURE:CARBONIFEROUS_ARTHROPLEURA"
+msgid "[NAME:arthropleura:arthropleura:arthropleura]"
+msgstr ""
+
+msgctxt "CREATURE:CARBONIFEROUS_ARTHROPLEURA"
+msgid "[CASTE_NAME:arthropleura:arthropleura:arthropleura]"
+msgstr ""
+
+msgctxt "CREATURE:CARBONIFEROUS_ARTHROPLEURA"
+msgid "[PREFSTRING:majesty]"
+msgstr ""
+
+msgctxt "CREATURE:CARBONIFEROUS_ARTHROPLEURA"
+msgid "[TLCM_NOUN:chitin:SINGULAR]"
+msgstr ""
+
+msgctxt "CREATURE:CARBONIFEROUS_ARTHROPLEURA"
+msgid "[TLCM_NOUN:eyes:PLURAL]"
+msgstr ""
+
+msgctxt "CREATURE:CARBONIFEROUS_ARTHROPLEURA_MAN"
+msgid "[CASTE_NAME:arthropleura man:arthropleura men:arthropleura man]"
+msgstr ""
+
+msgctxt "CREATURE:CARBONIFEROUS_ARTHROPLEURA_MAN"
+msgid "[CASTE_NAME:arthropleura woman:arthropleura women:arthropleura woman]"
+msgstr ""
+
+msgctxt "CREATURE:CARBONIFEROUS_ARTHROPLEURA_MAN"
+msgid "[NAME:arthropleura man:arthropleura men:arthropleura man]"
+msgstr ""
+
+msgctxt "CREATURE:CARBONIFEROUS_ARTHROPLEURA_MAN"
+msgid "[DESCRIPTION:A small arthropod person reminescent of a myriapod.]"
+msgstr ""
+
+msgctxt "CREATURE:CARBONIFEROUS_MEGANEURA"
+msgid ""
+"[DESCRIPTION:A tiny winged insect, though exceptionally large for a "
+"dragonfly.]"
+msgstr ""
+
+msgctxt "CREATURE:CARBONIFEROUS_MEGANEURA"
+msgid "[NAME:meganeura:meganeura:meganeura]"
+msgstr ""
+
+msgctxt "CREATURE:CARBONIFEROUS_MEGANEURA"
+msgid "[CASTE_NAME:meganeura:meganeura:meganeura]"
+msgstr ""
+
+msgctxt "CREATURE:CARBONIFEROUS_MEGANEURA"
+msgid "[PREFSTRING:disturbing size]"
+msgstr ""
+
+msgctxt "CREATURE:CARBONIFEROUS_MEGANEURA"
+msgid "[TLCM_NOUN:chitin:SINGULAR]"
+msgstr ""
+
+msgctxt "CREATURE:CARBONIFEROUS_MEGANEURA"
+msgid "[TLCM_NOUN:eyes:PLURAL]"
+msgstr ""
+
+msgctxt "CREATURE:CARBONIFEROUS_MEGANEURA_MAN"
+msgid "[CASTE_NAME:meganeura man:meganeura men:meganeura man]"
+msgstr ""
+
+msgctxt "CREATURE:CARBONIFEROUS_MEGANEURA_MAN"
+msgid "[CASTE_NAME:meganeura woman:meganeura women:meganeura woman]"
+msgstr ""
+
+msgctxt "CREATURE:CARBONIFEROUS_MEGANEURA_MAN"
+msgid "[NAME:meganeura man:meganeura men:meganeura man]"
+msgstr ""
+
+msgctxt "CREATURE:CARBONIFEROUS_MEGANEURA_MAN"
+msgid ""
+"[DESCRIPTION:A small arthropod person with the wings of a giant dragonfly.]"
+msgstr ""
+
+msgctxt "CREATURE:CENOZOIC_DEINOTHERIUM"
+msgid ""
+"[DESCRIPTION:A gigantic hairless mammal with a long trunk and two backward-"
+"curving tusks.]"
+msgstr ""
+
+msgctxt "CREATURE:CENOZOIC_DEINOTHERIUM"
+msgid "[NAME:deinotherium:deinotheriums:deinotherium]"
+msgstr ""
+
+msgctxt "CREATURE:CENOZOIC_DEINOTHERIUM"
+msgid "[CASTE_NAME:deinotherium:deinotheriums:deinotherium]"
+msgstr ""
+
+msgctxt "CREATURE:CENOZOIC_DEINOTHERIUM"
+msgid "[GENERAL_CHILD_NAME:deinotherium calf:deinotherium calves]"
+msgstr ""
+
+msgctxt "CREATURE:CENOZOIC_DEINOTHERIUM"
+msgid "[PREFSTRING:backward-curving tusks]"
+msgstr ""
+
+msgctxt "CREATURE:CENOZOIC_DEINOTHERIUM"
+msgid "[STATE_NAME:ALL_SOLID:ivory]"
+msgstr ""
+
+msgctxt "CREATURE:CENOZOIC_DEINOTHERIUM"
+msgid "[STATE_ADJ:ALL_SOLID:ivory]"
+msgstr ""
+
+msgctxt "CREATURE:CENOZOIC_DEINOTHERIUM"
+msgid "[TISSUE_NAME:ivory:NP]"
+msgstr ""
+
+msgctxt "CREATURE:CENOZOIC_DEINOTHERIUM"
+msgid "[ATTACK_VERB:kick:kicks]"
+msgstr ""
+
+msgctxt "CREATURE:CENOZOIC_DEINOTHERIUM"
+msgid "[ATTACK_VERB:gore:gores]"
+msgstr ""
+
+msgctxt "CREATURE:CENOZOIC_DEINOTHERIUM"
+msgid "[TLCM_NOUN:skin:SINGULAR]"
+msgstr ""
+
+msgctxt "CREATURE:CENOZOIC_DEINOTHERIUM"
+msgid "[TLCM_NOUN:eyes:PLURAL]"
+msgstr ""
+
+msgctxt "CREATURE:CENOZOIC_DEINOTHERIUM_MAN"
+msgid "[CASTE_NAME:deinotherium man:deinotherium men:deinotherium man]"
+msgstr ""
+
+msgctxt "CREATURE:CENOZOIC_DEINOTHERIUM_MAN"
+msgid "[CASTE_NAME:deinotherium woman:deinotherium women:deinotherium woman]"
+msgstr ""
+
+msgctxt "CREATURE:CENOZOIC_DEINOTHERIUM_MAN"
+msgid "[NAME:deinotherium man:deinotherium men:deinotherium man]"
+msgstr ""
+
+msgctxt "CREATURE:CENOZOIC_DEINOTHERIUM_MAN"
+msgid ""
+"[DESCRIPTION:A very large hairless mammal person with a trunk and two "
+"backward-curving tusks.]"
+msgstr ""
+
+msgctxt "CREATURE:CENOZOIC_SMILODON"
+msgid ""
+"[DESCRIPTION:A large feline with pronounced eye teeth protruding from its "
+"mouth.]"
+msgstr ""
+
+msgctxt "CREATURE:CENOZOIC_SMILODON"
+msgid "[NAME:smilodon:smilodons:smilodon]"
+msgstr ""
+
+msgctxt "CREATURE:CENOZOIC_SMILODON"
+msgid "[CASTE_NAME:smilodon:smilodons:smilodon]"
+msgstr ""
+
+msgctxt "CREATURE:CENOZOIC_SMILODON"
+msgid "[GENERAL_CHILD_NAME:smilodon cub:smilodon cubs]"
+msgstr ""
+
+msgctxt "CREATURE:CENOZOIC_SMILODON"
+msgid "[PREFSTRING:gigantic eye teeth]"
+msgstr ""
+
+msgctxt "CREATURE:CENOZOIC_SMILODON"
+msgid "[PREFSTRING:spots]"
+msgstr ""
+
+msgctxt "CREATURE:CENOZOIC_SMILODON"
+msgid "[ATTACK_VERB:bite:bites]"
+msgstr ""
+
+msgctxt "CREATURE:CENOZOIC_SMILODON"
+msgid "[ATTACK_VERB:scratch:scratches]"
+msgstr ""
+
+msgctxt "CREATURE:CENOZOIC_SMILODON"
+msgid "[TLCM_NOUN:hair:SINGULAR]"
+msgstr ""
+
+msgctxt "CREATURE:CENOZOIC_SMILODON"
+msgid "[TLCM_NOUN:skin:SINGULAR]"
+msgstr ""
+
+msgctxt "CREATURE:CENOZOIC_SMILODON"
+msgid "[TLCM_NOUN:eyes:PLURAL]"
+msgstr ""
+
+msgctxt "CREATURE:CENOZOIC_SMILODON_MAN"
+msgid "[CASTE_NAME:smilodon man:smilodon men:smilodon man]"
+msgstr ""
+
+msgctxt "CREATURE:CENOZOIC_SMILODON_MAN"
+msgid "[CASTE_NAME:smilodon woman:smilodon women:smilodon woman]"
+msgstr ""
+
+msgctxt "CREATURE:CENOZOIC_SMILODON_MAN"
+msgid "[NAME:smilodon man:smilodon men:smilodon man]"
+msgstr ""
+
+msgctxt "CREATURE:CENOZOIC_SMILODON_MAN"
+msgid ""
+"[DESCRIPTION:A large feline person with pronounced eye teeth protruding from"
+" their mouth.]"
+msgstr ""
+
+msgctxt "CREATURE:CENOZOIC_MAMMOTH_PYGMY"
+msgid "[DESCRIPTION:A huge mammal with a long trunk and two tusks.]"
+msgstr ""
+
+msgctxt "CREATURE:CENOZOIC_MAMMOTH_PYGMY"
+msgid "[NAME:pygmy mammoth:pygmy mammoths:pygmy mammoth]"
+msgstr ""
+
+msgctxt "CREATURE:CENOZOIC_MAMMOTH_PYGMY"
+msgid "[CASTE_NAME:pygmy mammoth:pygmy mammoths:pygmy mammoth]"
+msgstr ""
+
+msgctxt "CREATURE:CENOZOIC_MAMMOTH_PYGMY"
+msgid "[GENERAL_CHILD_NAME:pygmy mammoth calf:pygmy mammoth calves]"
+msgstr ""
+
+msgctxt "CREATURE:CENOZOIC_MAMMOTH_PYGMY"
+msgid "[PREFSTRING:size]"
+msgstr ""
+
+msgctxt "CREATURE:CENOZOIC_MAMMOTH_PYGMY"
+msgid "[PREFSTRING:hairy heads]"
+msgstr ""
+
+msgctxt "CREATURE:CENOZOIC_MAMMOTH_PYGMY"
+msgid "[STATE_NAME:ALL_SOLID:ivory]"
+msgstr ""
+
+msgctxt "CREATURE:CENOZOIC_MAMMOTH_PYGMY"
+msgid "[STATE_ADJ:ALL_SOLID:ivory]"
+msgstr ""
+
+msgctxt "CREATURE:CENOZOIC_MAMMOTH_PYGMY"
+msgid "[TISSUE_NAME:ivory:NP]"
+msgstr ""
+
+msgctxt "CREATURE:CENOZOIC_MAMMOTH_PYGMY"
+msgid "[ATTACK_VERB:kick:kicks]"
+msgstr ""
+
+msgctxt "CREATURE:CENOZOIC_MAMMOTH_PYGMY"
+msgid "[ATTACK_VERB:gore:gores]"
+msgstr ""
+
+msgctxt "CREATURE:CENOZOIC_MAMMOTH_PYGMY"
+msgid "[TLCM_NOUN:skin:SINGULAR]"
+msgstr ""
+
+msgctxt "CREATURE:CENOZOIC_MAMMOTH_PYGMY"
+msgid "[TLCM_NOUN:eyes:PLURAL]"
+msgstr ""
+
+msgctxt "CREATURE:CENOZOIC_MAMMOTH_PYGMY"
+msgid "[TLCM_NOUN:hair:SINGULAR]"
+msgstr ""
+
+msgctxt "CREATURE:CENOZOIC_MAMMOTH_PYGMY_MAN"
+msgid "[CASTE_NAME:pygmy mammoth man:pygmy mammoth men:pygmy mammoth man]"
+msgstr ""
+
+msgctxt "CREATURE:CENOZOIC_MAMMOTH_PYGMY_MAN"
+msgid ""
+"[CASTE_NAME:pygmy mammoth woman:pygmy mammoth women:pygmy mammoth woman]"
+msgstr ""
+
+msgctxt "CREATURE:CENOZOIC_MAMMOTH_PYGMY_MAN"
+msgid "[NAME:pygmy mammoth man:pygmy mammoth men:pygmy mammoth man]"
+msgstr ""
+
+msgctxt "CREATURE:CENOZOIC_MAMMOTH_PYGMY_MAN"
+msgid "[DESCRIPTION:A large mammal person with a long trunk and two tusks.]"
+msgstr ""
+
+msgctxt "CREATURE:CENOZOIC_MEGATHERIUM"
+msgid "[DESCRIPTION:A huge ground sloth with a long tongue.]"
+msgstr ""
+
+msgctxt "CREATURE:CENOZOIC_MEGATHERIUM"
+msgid "[NAME:megatherium:megatheriums:megatherium]"
+msgstr ""
+
+msgctxt "CREATURE:CENOZOIC_MEGATHERIUM"
+msgid "[CASTE_NAME:megatherium:megatheriums:megatherium]"
+msgstr ""
+
+msgctxt "CREATURE:CENOZOIC_MEGATHERIUM"
+msgid "[GENERAL_CHILD_NAME:megatherium cub:megatherium cubs]"
+msgstr ""
+
+msgctxt "CREATURE:CENOZOIC_MEGATHERIUM"
+msgid "[PREFSTRING:long tongues]"
+msgstr ""
+
+msgctxt "CREATURE:CENOZOIC_MEGATHERIUM"
+msgid "[ATTACK_VERB:kick:kicks]"
+msgstr ""
+
+msgctxt "CREATURE:CENOZOIC_MEGATHERIUM"
+msgid "[TLCM_NOUN:hair:SINGULAR]"
+msgstr ""
+
+msgctxt "CREATURE:CENOZOIC_MEGATHERIUM"
+msgid "[TLCM_NOUN:skin:SINGULAR]"
+msgstr ""
+
+msgctxt "CREATURE:CENOZOIC_MEGATHERIUM"
+msgid "[TLCM_NOUN:eyes:PLURAL]"
+msgstr ""
+
+msgctxt "CREATURE:CENOZOIC_MEGATHERIUM_MAN"
+msgid "[CASTE_NAME:megatherium man:megatherium men:megatherium man]"
+msgstr ""
+
+msgctxt "CREATURE:CENOZOIC_MEGATHERIUM_MAN"
+msgid "[CASTE_NAME:megatherium woman:megatherium women:megatherium woman]"
+msgstr ""
+
+msgctxt "CREATURE:CENOZOIC_MEGATHERIUM_MAN"
+msgid "[NAME:megatherium man:megatherium men:megatherium man]"
+msgstr ""
+
+msgctxt "CREATURE:CENOZOIC_MEGATHERIUM_MAN"
+msgid "[DESCRIPTION:A large sloth person with a long tongue.]"
+msgstr ""
+
+msgctxt "CREATURE:CENOZOIC_THYLACINE"
+msgid ""
+"[DESCRIPTION:A small striped mammal predator that hunts a night.  It can "
+"open its jaws unusually wide.]"
+msgstr ""
+
+msgctxt "CREATURE:CENOZOIC_THYLACINE"
+msgid "[NAME:thylacine:thylacines:thylacine]"
+msgstr ""
+
+msgctxt "CREATURE:CENOZOIC_THYLACINE"
+msgid "[CASTE_NAME:thylacine:thylacines:thylacine]"
+msgstr ""
+
+msgctxt "CREATURE:CENOZOIC_THYLACINE"
+msgid "[GENERAL_CHILD_NAME:thylacine pup:thylacine pups]"
+msgstr ""
+
+msgctxt "CREATURE:CENOZOIC_THYLACINE"
+msgid "[PREFSTRING:stripes]"
+msgstr ""
+
+msgctxt "CREATURE:CENOZOIC_THYLACINE"
+msgid "[ATTACK_VERB:bite:bites]"
+msgstr ""
+
+msgctxt "CREATURE:CENOZOIC_THYLACINE"
+msgid "[ATTACK_VERB:scratch:scratches]"
+msgstr ""
+
+msgctxt "CREATURE:CENOZOIC_THYLACINE"
+msgid "[TLCM_NOUN:hair:SINGULAR]"
+msgstr ""
+
+msgctxt "CREATURE:CENOZOIC_THYLACINE"
+msgid "[TLCM_NOUN:skin:SINGULAR]"
+msgstr ""
+
+msgctxt "CREATURE:CENOZOIC_THYLACINE"
+msgid "[TLCM_NOUN:eyes:PLURAL]"
+msgstr ""
+
+msgctxt "CREATURE:CENOZOIC_THYLACINE_MAN"
+msgid "[CASTE_NAME:thylacine man:thylacine men:thylacine man]"
+msgstr ""
+
+msgctxt "CREATURE:CENOZOIC_THYLACINE_MAN"
+msgid "[CASTE_NAME:thylacine woman:thylacine women:thylacine woman]"
+msgstr ""
+
+msgctxt "CREATURE:CENOZOIC_THYLACINE_MAN"
+msgid "[NAME:thylacine man:thylacine men:thylacine man]"
+msgstr ""
+
+msgctxt "CREATURE:CENOZOIC_THYLACINE_MAN"
+msgid "[DESCRIPTION:A small striped mammal person.]"
+msgstr ""
+
+msgctxt "CREATURE:CENOZOIC_ANDREWSARCHUS"
+msgid "[DESCRIPTION:A very large mammalian omnivore with a long head.]"
+msgstr ""
+
+msgctxt "CREATURE:CENOZOIC_ANDREWSARCHUS"
+msgid "[NAME:andrewsarchus:andrewsarchus:andrewsarchus]"
+msgstr ""
+
+msgctxt "CREATURE:CENOZOIC_ANDREWSARCHUS"
+msgid "[CASTE_NAME:andrewsarchus:andrewsarchus:andrewsarchus]"
+msgstr ""
+
+msgctxt "CREATURE:CENOZOIC_ANDREWSARCHUS"
+msgid "[GENERAL_CHILD_NAME:andrewsarchus pup:andrewsarchus pups]"
+msgstr ""
+
+msgctxt "CREATURE:CENOZOIC_ANDREWSARCHUS"
+msgid "[PREFSTRING:great size]"
+msgstr ""
+
+msgctxt "CREATURE:CENOZOIC_ANDREWSARCHUS"
+msgid "[ATTACK_VERB:bite:bites]"
+msgstr ""
+
+msgctxt "CREATURE:CENOZOIC_ANDREWSARCHUS"
+msgid "[ATTACK_VERB:scratch:scratches]"
+msgstr ""
+
+msgctxt "CREATURE:CENOZOIC_ANDREWSARCHUS"
+msgid "[TLCM_NOUN:hair:SINGULAR]"
+msgstr ""
+
+msgctxt "CREATURE:CENOZOIC_ANDREWSARCHUS"
+msgid "[TLCM_NOUN:skin:SINGULAR]"
+msgstr ""
+
+msgctxt "CREATURE:CENOZOIC_ANDREWSARCHUS"
+msgid "[TLCM_NOUN:eyes:PLURAL]"
+msgstr ""
+
+msgctxt "CREATURE:CENOZOIC_ANDREWSARCHUS_MAN"
+msgid "[CASTE_NAME:andrewsarchus man:andrewsarchus men:andrewsarchus man]"
+msgstr ""
+
+msgctxt "CREATURE:CENOZOIC_ANDREWSARCHUS_MAN"
+msgid ""
+"[CASTE_NAME:andrewsarchus woman:andrewsarchus women:andrewsarchus woman]"
+msgstr ""
+
+msgctxt "CREATURE:CENOZOIC_ANDREWSARCHUS_MAN"
+msgid "[NAME:andrewsarchus man:andrewsarchus men:andrewsarchus man]"
+msgstr ""
+
+msgctxt "CREATURE:CENOZOIC_ANDREWSARCHUS_MAN"
+msgid "[DESCRIPTION:A large mammalian person with a long head.]"
+msgstr ""
+
+msgctxt "CREATURE:CENOZOIC_RHINOCEROS_WOOLLY"
+msgid "[DESCRIPTION:A huge woolly mammal with two horns.]"
+msgstr ""
+
+msgctxt "CREATURE:CENOZOIC_RHINOCEROS_WOOLLY"
+msgid "[NAME:woolly rhinoceros:woolly rhinoceroses:woolly rhinoceros]"
+msgstr ""
+
+msgctxt "CREATURE:CENOZOIC_RHINOCEROS_WOOLLY"
+msgid "[CASTE_NAME:woolly rhinoceros:woolly rhinoceroses:woolly rhinoceros]"
+msgstr ""
+
+msgctxt "CREATURE:CENOZOIC_RHINOCEROS_WOOLLY"
+msgid "[GENERAL_CHILD_NAME:woolly rhinoceros calf:woolly rhinoceros calves]"
+msgstr ""
+
+msgctxt "CREATURE:CENOZOIC_RHINOCEROS_WOOLLY"
+msgid "[PREFSTRING:horns]"
+msgstr ""
+
+msgctxt "CREATURE:CENOZOIC_RHINOCEROS_WOOLLY"
+msgid "[PREFSTRING:wool]"
+msgstr ""
+
+msgctxt "CREATURE:CENOZOIC_RHINOCEROS_WOOLLY"
+msgid "[STATE_NAME:ALL_SOLID:wool]"
+msgstr ""
+
+msgctxt "CREATURE:CENOZOIC_RHINOCEROS_WOOLLY"
+msgid "[STATE_ADJ:ALL_SOLID:wool]"
+msgstr ""
+
+msgctxt "CREATURE:CENOZOIC_RHINOCEROS_WOOLLY"
+msgid "[TISSUE_NAME:wool:NP]"
+msgstr ""
+
+msgctxt "CREATURE:CENOZOIC_RHINOCEROS_WOOLLY"
+msgid "[ATTACK_VERB:kick:kicks]"
+msgstr ""
+
+msgctxt "CREATURE:CENOZOIC_RHINOCEROS_WOOLLY"
+msgid "[ATTACK_VERB:gore:gores]"
+msgstr ""
+
+msgctxt "CREATURE:CENOZOIC_RHINOCEROS_WOOLLY"
+msgid "[TLCM_NOUN:wool:SINGULAR]"
+msgstr ""
+
+msgctxt "CREATURE:CENOZOIC_RHINOCEROS_WOOLLY"
+msgid "[APP_MOD_NOUN:wool:SINGULAR]"
+msgstr ""
+
+msgctxt "CREATURE:CENOZOIC_RHINOCEROS_WOOLLY"
+msgid "[TLCM_NOUN:skin:SINGULAR]"
+msgstr ""
+
+msgctxt "CREATURE:CENOZOIC_RHINOCEROS_WOOLLY"
+msgid "[TLCM_NOUN:eyes:PLURAL]"
+msgstr ""
+
+msgctxt "CREATURE:CENOZOIC_RHINOCEROS_WOOLLY_MAN"
+msgid ""
+"[CASTE_NAME:woolly rhinoceros man:woolly rhinoceros men:woolly rhinoceros "
+"man]"
+msgstr ""
+
+msgctxt "CREATURE:CENOZOIC_RHINOCEROS_WOOLLY_MAN"
+msgid ""
+"[CASTE_NAME:woolly rhinoceros woman:woolly rhinoceros women:woolly "
+"rhinoceros woman]"
+msgstr ""
+
+msgctxt "CREATURE:CENOZOIC_RHINOCEROS_WOOLLY_MAN"
+msgid ""
+"[NAME:woolly rhinoceros man:woolly rhinoceros men:woolly rhinoceros man]"
+msgstr ""
+
+msgctxt "CREATURE:CENOZOIC_RHINOCEROS_WOOLLY_MAN"
+msgid "[DESCRIPTION:A large woolly mammal person with two horns.]"
+msgstr ""
+
+msgctxt "CREATURE:CENOZOIC_MIOHIPPUS"
+msgid "[DESCRIPTION:A small horse with three toes on each foot.]"
+msgstr ""
+
+msgctxt "CREATURE:CENOZOIC_MIOHIPPUS"
+msgid "[NAME:miohippus:miohippus:miohippus]"
+msgstr ""
+
+msgctxt "CREATURE:CENOZOIC_MIOHIPPUS"
+msgid "[CASTE_NAME:miohippus:miohippus:miohippus]"
+msgstr ""
+
+msgctxt "CREATURE:CENOZOIC_MIOHIPPUS"
+msgid "[GENERAL_CHILD_NAME:miohippus foal:miohippus foals]"
+msgstr ""
+
+msgctxt "CREATURE:CENOZOIC_MIOHIPPUS"
+msgid "[PREFSTRING:small size]"
+msgstr ""
+
+msgctxt "CREATURE:CENOZOIC_MIOHIPPUS"
+msgid "[PREFSTRING:three toes]"
+msgstr ""
+
+msgctxt "CREATURE:CENOZOIC_MIOHIPPUS"
+msgid "[ATTACK_VERB:kick:kicks]"
+msgstr ""
+
+msgctxt "CREATURE:CENOZOIC_MIOHIPPUS"
+msgid "[ATTACK_VERB:bite:bites]"
+msgstr ""
+
+msgctxt "CREATURE:CENOZOIC_MIOHIPPUS"
+msgid "[STATE_NAME:ALL_SOLID:frozen miohippus's milk]"
+msgstr ""
+
+msgctxt "CREATURE:CENOZOIC_MIOHIPPUS"
+msgid "[STATE_ADJ:ALL_SOLID:frozen miohippus's milk]"
+msgstr ""
+
+msgctxt "CREATURE:CENOZOIC_MIOHIPPUS"
+msgid "[STATE_NAME:LIQUID:miohippus's milk]"
+msgstr ""
+
+msgctxt "CREATURE:CENOZOIC_MIOHIPPUS"
+msgid "[STATE_ADJ:LIQUID:miohippus's milk]"
+msgstr ""
+
+msgctxt "CREATURE:CENOZOIC_MIOHIPPUS"
+msgid "[STATE_NAME:GAS:boiling miohippus's milk]"
+msgstr ""
+
+msgctxt "CREATURE:CENOZOIC_MIOHIPPUS"
+msgid "[STATE_ADJ:GAS:boiling miohippus's milk]"
+msgstr ""
+
+msgctxt "CREATURE:CENOZOIC_MIOHIPPUS"
+msgid "[STATE_NAME:SOLID:miohippus cheese]"
+msgstr ""
+
+msgctxt "CREATURE:CENOZOIC_MIOHIPPUS"
+msgid "[STATE_ADJ:SOLID:miohippus cheese]"
+msgstr ""
+
+msgctxt "CREATURE:CENOZOIC_MIOHIPPUS"
+msgid "[STATE_NAME:SOLID_POWDER:miohippus cheese powder]"
+msgstr ""
+
+msgctxt "CREATURE:CENOZOIC_MIOHIPPUS"
+msgid "[STATE_ADJ:SOLID_POWDER:miohippus cheese powder]"
+msgstr ""
+
+msgctxt "CREATURE:CENOZOIC_MIOHIPPUS"
+msgid "[STATE_NAME:LIQUID:melted miohippus cheese]"
+msgstr ""
+
+msgctxt "CREATURE:CENOZOIC_MIOHIPPUS"
+msgid "[STATE_ADJ:LIQUID:melted miohippus cheese]"
+msgstr ""
+
+msgctxt "CREATURE:CENOZOIC_MIOHIPPUS"
+msgid "[STATE_NAME:GAS:boiling miohippus cheese]"
+msgstr ""
+
+msgctxt "CREATURE:CENOZOIC_MIOHIPPUS"
+msgid "[STATE_ADJ:GAS:boiling miohippus cheese]"
+msgstr ""
+
+msgctxt "CREATURE:CENOZOIC_MIOHIPPUS"
+msgid "[TLCM_NOUN:hair:SINGULAR]"
+msgstr ""
+
+msgctxt "CREATURE:CENOZOIC_MIOHIPPUS"
+msgid "[TLCM_NOUN:skin:SINGULAR]"
+msgstr ""
+
+msgctxt "CREATURE:CENOZOIC_MIOHIPPUS"
+msgid "[TLCM_NOUN:eyes:PLURAL]"
+msgstr ""
+
+msgctxt "CREATURE:CENOZOIC_MIOHIPPUS_MAN"
+msgid "[CASTE_NAME:miohippus man:miohippus men:miohippus man]"
+msgstr ""
+
+msgctxt "CREATURE:CENOZOIC_MIOHIPPUS_MAN"
+msgid "[CASTE_NAME:miohippus woman:miohippus women:miohippus woman]"
+msgstr ""
+
+msgctxt "CREATURE:CENOZOIC_MIOHIPPUS_MAN"
+msgid "[NAME:miohippus man:miohippus men:miohippus man]"
+msgstr ""
+
+msgctxt "CREATURE:CENOZOIC_MIOHIPPUS_MAN"
+msgid "[DESCRIPTION:A small horse person with three fingers and three toes.]"
+msgstr ""
+
+msgctxt "CREATURE:CENOZOIC_GLYPTODON"
+msgid "[DESCRIPTION:A huge shelled mammal.]"
+msgstr ""
+
+msgctxt "CREATURE:CENOZOIC_GLYPTODON"
+msgid "[NAME:glyptodon:glyptodons:glyptodon]"
+msgstr ""
+
+msgctxt "CREATURE:CENOZOIC_GLYPTODON"
+msgid "[CASTE_NAME:glyptodon:glyptodons:glyptodon]"
+msgstr ""
+
+msgctxt "CREATURE:CENOZOIC_GLYPTODON"
+msgid "[GENERAL_CHILD_NAME:glyptodon pup:glyptodon pups]"
+msgstr ""
+
+msgctxt "CREATURE:CENOZOIC_GLYPTODON"
+msgid "[PREFSTRING:thick, bony armor plates]"
+msgstr ""
+
+msgctxt "CREATURE:CENOZOIC_GLYPTODON"
+msgid "[ATTACK_VERB:bite:bites]"
+msgstr ""
+
+msgctxt "CREATURE:CENOZOIC_GLYPTODON"
+msgid "[CASTE_NAME:glyptodon sow:glyptodon sows:glyptodon sow]"
+msgstr ""
+
+msgctxt "CREATURE:CENOZOIC_GLYPTODON"
+msgid "[CASTE_NAME:glyptodon boar:glyptodon boars:glyptodon boar]"
+msgstr ""
+
+msgctxt "CREATURE:CENOZOIC_GLYPTODON"
+msgid "[TLCM_NOUN:hair:SINGULAR]"
+msgstr ""
+
+msgctxt "CREATURE:CENOZOIC_GLYPTODON"
+msgid "[TLCM_NOUN:skin:SINGULAR]"
+msgstr ""
+
+msgctxt "CREATURE:CENOZOIC_GLYPTODON"
+msgid "[TLCM_NOUN:eyes:PLURAL]"
+msgstr ""
+
+msgctxt "CREATURE:CENOZOIC_GLYPTODON_MAN"
+msgid "[CASTE_NAME:glyptodon man:glyptodon men:glyptodon man]"
+msgstr ""
+
+msgctxt "CREATURE:CENOZOIC_GLYPTODON_MAN"
+msgid "[CASTE_NAME:glyptodon woman:glyptodon women:glyptodon woman]"
+msgstr ""
+
+msgctxt "CREATURE:CENOZOIC_GLYPTODON_MAN"
+msgid "[NAME:glyptodon man:glyptodon men:glyptodon man]"
+msgstr ""
+
+msgctxt "CREATURE:CENOZOIC_GLYPTODON_MAN"
+msgid "[DESCRIPTION:A large mammal person with a shell.]"
+msgstr ""
+
+msgctxt "CREATURE:CENOZOIC_MAMMOTH_WOOLLY"
+msgid "[DESCRIPTION:A gigantic woolly mammal with a long trunk and two tusk.]"
+msgstr ""
+
+msgctxt "CREATURE:CENOZOIC_MAMMOTH_WOOLLY"
+msgid "[NAME:woolly mammoth:woolly mammoths:woolly mammoth]"
+msgstr ""
+
+msgctxt "CREATURE:CENOZOIC_MAMMOTH_WOOLLY"
+msgid "[CASTE_NAME:woolly mammoth:woolly mammoths:woolly mammoth]"
+msgstr ""
+
+msgctxt "CREATURE:CENOZOIC_MAMMOTH_WOOLLY"
+msgid "[GENERAL_CHILD_NAME:woolly mammoth calf:woolly mammoth calves]"
+msgstr ""
+
+msgctxt "CREATURE:CENOZOIC_MAMMOTH_WOOLLY"
+msgid "[PREFSTRING:tusks]"
+msgstr ""
+
+msgctxt "CREATURE:CENOZOIC_MAMMOTH_WOOLLY"
+msgid "[PREFSTRING:wool]"
+msgstr ""
+
+msgctxt "CREATURE:CENOZOIC_MAMMOTH_WOOLLY"
+msgid "[STATE_NAME:ALL_SOLID:ivory]"
+msgstr ""
+
+msgctxt "CREATURE:CENOZOIC_MAMMOTH_WOOLLY"
+msgid "[STATE_ADJ:ALL_SOLID:ivory]"
+msgstr ""
+
+msgctxt "CREATURE:CENOZOIC_MAMMOTH_WOOLLY"
+msgid "[STATE_NAME:ALL_SOLID:wool]"
+msgstr ""
+
+msgctxt "CREATURE:CENOZOIC_MAMMOTH_WOOLLY"
+msgid "[STATE_ADJ:ALL_SOLID:wool]"
+msgstr ""
+
+msgctxt "CREATURE:CENOZOIC_MAMMOTH_WOOLLY"
+msgid "[TISSUE_NAME:ivory:NP]"
+msgstr ""
+
+msgctxt "CREATURE:CENOZOIC_MAMMOTH_WOOLLY"
+msgid "[TISSUE_NAME:wool:NP]"
+msgstr ""
+
+msgctxt "CREATURE:CENOZOIC_MAMMOTH_WOOLLY"
+msgid "[ATTACK_VERB:kick:kicks]"
+msgstr ""
+
+msgctxt "CREATURE:CENOZOIC_MAMMOTH_WOOLLY"
+msgid "[ATTACK_VERB:gore:gores]"
+msgstr ""
+
+msgctxt "CREATURE:CENOZOIC_MAMMOTH_WOOLLY"
+msgid "[TLCM_NOUN:wool:SINGULAR]"
+msgstr ""
+
+msgctxt "CREATURE:CENOZOIC_MAMMOTH_WOOLLY"
+msgid "[APP_MOD_NOUN:wool:SINGULAR]"
+msgstr ""
+
+msgctxt "CREATURE:CENOZOIC_MAMMOTH_WOOLLY"
+msgid "[TLCM_NOUN:skin:SINGULAR]"
+msgstr ""
+
+msgctxt "CREATURE:CENOZOIC_MAMMOTH_WOOLLY"
+msgid "[TLCM_NOUN:eyes:PLURAL]"
+msgstr ""
+
+msgctxt "CREATURE:CENOZOIC_MAMMOTH_WOOLLY_MAN"
+msgid "[CASTE_NAME:woolly mammoth man:woolly mammoth men:woolly mammoth man]"
+msgstr ""
+
+msgctxt "CREATURE:CENOZOIC_MAMMOTH_WOOLLY_MAN"
+msgid ""
+"[CASTE_NAME:woolly mammoth woman:woolly mammoth women:woolly mammoth woman]"
+msgstr ""
+
+msgctxt "CREATURE:CENOZOIC_MAMMOTH_WOOLLY_MAN"
+msgid "[NAME:woolly mammoth man:woolly mammoth men:woolly mammoth man]"
+msgstr ""
+
+msgctxt "CREATURE:CENOZOIC_MAMMOTH_WOOLLY_MAN"
+msgid "[DESCRIPTION:A very large woolly mammal person with two tusks.]"
+msgstr ""
+
+msgctxt "CREATURE:CENOZOIC_PARACERATHERIUM"
+msgid ""
+"[DESCRIPTION:A gigantic hairless mammal with a long neck and a small trunk.]"
+msgstr ""
+
+msgctxt "CREATURE:CENOZOIC_PARACERATHERIUM"
+msgid "[NAME:paraceratherium:paraceratheriums:paraceratherium]"
+msgstr ""
+
+msgctxt "CREATURE:CENOZOIC_PARACERATHERIUM"
+msgid "[CASTE_NAME:paraceratherium:paraceratheriums:paraceratherium]"
+msgstr ""
+
+msgctxt "CREATURE:CENOZOIC_PARACERATHERIUM"
+msgid "[GENERAL_CHILD_NAME:paraceratherium calf:paraceratherium calves]"
+msgstr ""
+
+msgctxt "CREATURE:CENOZOIC_PARACERATHERIUM"
+msgid "[PREFSTRING:great size]"
+msgstr ""
+
+msgctxt "CREATURE:CENOZOIC_PARACERATHERIUM"
+msgid "[PREFSTRING:small trunk]"
+msgstr ""
+
+msgctxt "CREATURE:CENOZOIC_PARACERATHERIUM"
+msgid "[ATTACK_VERB:kick:kicks]"
+msgstr ""
+
+msgctxt "CREATURE:CENOZOIC_PARACERATHERIUM"
+msgid "[TLCM_NOUN:skin:SINGULAR]"
+msgstr ""
+
+msgctxt "CREATURE:CENOZOIC_PARACERATHERIUM"
+msgid "[TLCM_NOUN:eyes:PLURAL]"
+msgstr ""
+
+msgctxt "CREATURE:CENOZOIC_PARACERATHERIUM_MAN"
+msgid ""
+"[CASTE_NAME:paraceratherium man:paraceratherium men:paraceratherium man]"
+msgstr ""
+
+msgctxt "CREATURE:CENOZOIC_PARACERATHERIUM_MAN"
+msgid ""
+"[CASTE_NAME:paraceratherium woman:paraceratherium women:paraceratherium "
+"woman]"
+msgstr ""
+
+msgctxt "CREATURE:CENOZOIC_PARACERATHERIUM_MAN"
+msgid "[NAME:paraceratherium man:paraceratherium men:paraceratherium man]"
+msgstr ""
+
+msgctxt "CREATURE:CENOZOIC_PARACERATHERIUM_MAN"
+msgid ""
+"[DESCRIPTION:A very large hairless mammal person with a long neck and a "
+"small trunk]"
+msgstr ""
+
+msgctxt "CREATURE:CENOZOIC_DODO"
+msgid "[DESCRIPTION:A small flightless bird with a large beak.]"
+msgstr ""
+
+msgctxt "CREATURE:CENOZOIC_DODO"
+msgid "[NAME:dodo:dodos:dodo]"
+msgstr ""
+
+msgctxt "CREATURE:CENOZOIC_DODO"
+msgid "[CASTE_NAME:dodo:dodos:dodo]"
+msgstr ""
+
+msgctxt "CREATURE:CENOZOIC_DODO"
+msgid "[GENERAL_CHILD_NAME:dodo hatchling:dodo hatchlings]"
+msgstr ""
+
+msgctxt "CREATURE:CENOZOIC_DODO"
+msgid "[PREFSTRING:large beaks]"
+msgstr ""
+
+msgctxt "CREATURE:CENOZOIC_DODO"
+msgid "[ATTACK_VERB:kick:kicks]"
+msgstr ""
+
+msgctxt "CREATURE:CENOZOIC_DODO"
+msgid "[ATTACK_VERB:bite:bites]"
+msgstr ""
+
+msgctxt "CREATURE:CENOZOIC_DODO"
+msgid "[CASTE_NAME:dodo hen:dodo hens:dodo hen]"
+msgstr ""
+
+msgctxt "CREATURE:CENOZOIC_DODO"
+msgid "[CASTE_NAME:dodo cock:dodo cocks:dodo cock]"
+msgstr ""
+
+msgctxt "CREATURE:CENOZOIC_DODO"
+msgid "[TLCM_NOUN:feathers:PLURAL]"
+msgstr ""
+
+msgctxt "CREATURE:CENOZOIC_DODO"
+msgid "[TLCM_NOUN:skin:SINGULAR]"
+msgstr ""
+
+msgctxt "CREATURE:CENOZOIC_DODO"
+msgid "[TLCM_NOUN:eyes:PLURAL]"
+msgstr ""
+
+msgctxt "CREATURE:CENOZOIC_DODO_MAN"
+msgid "[CASTE_NAME:dodo man:dodo men:dodo man]"
+msgstr ""
+
+msgctxt "CREATURE:CENOZOIC_DODO_MAN"
+msgid "[CASTE_NAME:dodo woman:dodo women:dodo woman]"
+msgstr ""
+
+msgctxt "CREATURE:CENOZOIC_DODO_MAN"
+msgid "[NAME:dodo man:dodo men:dodo man]"
+msgstr ""
+
+msgctxt "CREATURE:CENOZOIC_DODO_MAN"
+msgid "[DESCRIPTION:A small flightless bird person with a large beak.]"
+msgstr ""
+
+msgctxt "CREATURE:CENOZOIC_KELENKEN"
+msgid ""
+"[DESCRIPTION:A large predatory flightless bird with a terrifying beak.]"
+msgstr ""
+
+msgctxt "CREATURE:CENOZOIC_KELENKEN"
+msgid "[NAME:kelenken:kelenkens:kelenken]"
+msgstr ""
+
+msgctxt "CREATURE:CENOZOIC_KELENKEN"
+msgid "[CASTE_NAME:kelenken:kelenkens:kelenken]"
+msgstr ""
+
+msgctxt "CREATURE:CENOZOIC_KELENKEN"
+msgid "[GENERAL_CHILD_NAME:kelenken hatchling:kelenken hatchlings]"
+msgstr ""
+
+msgctxt "CREATURE:CENOZOIC_KELENKEN"
+msgid "[PREFSTRING:terrifying beaks]"
+msgstr ""
+
+msgctxt "CREATURE:CENOZOIC_KELENKEN"
+msgid "[ATTACK_VERB:bite:bites]"
+msgstr ""
+
+msgctxt "CREATURE:CENOZOIC_KELENKEN"
+msgid "[ATTACK_VERB:kick:kicks]"
+msgstr ""
+
+msgctxt "CREATURE:CENOZOIC_KELENKEN"
+msgid "[CASTE_NAME:kelenken hen:kelenken hens:kelenken hen]"
+msgstr ""
+
+msgctxt "CREATURE:CENOZOIC_KELENKEN"
+msgid "[CASTE_NAME:kelenken cock:kelenken cocks:kelenken cock]"
+msgstr ""
+
+msgctxt "CREATURE:CENOZOIC_KELENKEN"
+msgid "[TLCM_NOUN:feathers:PLURAL]"
+msgstr ""
+
+msgctxt "CREATURE:CENOZOIC_KELENKEN"
+msgid "[TLCM_NOUN:skin:SINGULAR]"
+msgstr ""
+
+msgctxt "CREATURE:CENOZOIC_KELENKEN"
+msgid "[TLCM_NOUN:eyes:PLURAL]"
+msgstr ""
+
+msgctxt "CREATURE:CENOZOIC_KELENKEN_MAN"
+msgid "[CASTE_NAME:kelenken man:kelenken men:kelenken man]"
+msgstr ""
+
+msgctxt "CREATURE:CENOZOIC_KELENKEN_MAN"
+msgid "[CASTE_NAME:kelenken woman:kelenken women:kelenken woman]"
+msgstr ""
+
+msgctxt "CREATURE:CENOZOIC_KELENKEN_MAN"
+msgid "[NAME:kelenken man:kelenken men:kelenken man]"
+msgstr ""
+
+msgctxt "CREATURE:CENOZOIC_KELENKEN_MAN"
+msgid "[DESCRIPTION:A flightless bird person with a terrifying beak.]"
+msgstr ""
+
+msgctxt "CREATURE:CENOZOIC_MOA"
+msgid ""
+"[DESCRIPTION:A large flightless bird.  Females are more than twice as large "
+"as males.  They are primarily herbivorous.]"
+msgstr ""
+
+msgctxt "CREATURE:CENOZOIC_MOA"
+msgid "[NAME:moa:moas:moa]"
+msgstr ""
+
+msgctxt "CREATURE:CENOZOIC_MOA"
+msgid "[CASTE_NAME:moa:moas:moa]"
+msgstr ""
+
+msgctxt "CREATURE:CENOZOIC_MOA"
+msgid "[GENERAL_CHILD_NAME:moa hatchling:moa hatchlings]"
+msgstr ""
+
+msgctxt "CREATURE:CENOZOIC_MOA"
+msgid "[PREFSTRING:long necks]"
+msgstr ""
+
+msgctxt "CREATURE:CENOZOIC_MOA"
+msgid "[PREFSTRING:giant eggs]"
+msgstr ""
+
+msgctxt "CREATURE:CENOZOIC_MOA"
+msgid "[ATTACK_VERB:kick:kicks]"
+msgstr ""
+
+msgctxt "CREATURE:CENOZOIC_MOA"
+msgid "[ATTACK_VERB:bite:bites]"
+msgstr ""
+
+msgctxt "CREATURE:CENOZOIC_MOA"
+msgid "[CASTE_NAME:moa hen:moa hens:moa hen]"
+msgstr ""
+
+msgctxt "CREATURE:CENOZOIC_MOA"
+msgid "[CASTE_NAME:moa cock:moa cocks:moa cock]"
+msgstr ""
+
+msgctxt "CREATURE:CENOZOIC_MOA"
+msgid "[TLCM_NOUN:feathers:PLURAL]"
+msgstr ""
+
+msgctxt "CREATURE:CENOZOIC_MOA"
+msgid "[TLCM_NOUN:skin:SINGULAR]"
+msgstr ""
+
+msgctxt "CREATURE:CENOZOIC_MOA"
+msgid "[TLCM_NOUN:eyes:PLURAL]"
+msgstr ""
+
+msgctxt "CREATURE:CENOZOIC_MOA_MAN"
+msgid "[CASTE_NAME:moa man:moa men:moa man]"
+msgstr ""
+
+msgctxt "CREATURE:CENOZOIC_MOA_MAN"
+msgid "[CASTE_NAME:moa woman:moa women:moa woman]"
+msgstr ""
+
+msgctxt "CREATURE:CENOZOIC_MOA_MAN"
+msgid "[NAME:moa man:moa men:moa man]"
+msgstr ""
+
+msgctxt "CREATURE:CENOZOIC_MOA_MAN"
+msgid ""
+"[DESCRIPTION:A large flightless bird person.  Moa women are twice the size "
+"of moa men.]"
+msgstr ""
+
+msgctxt "CREATURE:CENOZOIC_MEGALODON"
+msgid "[DESCRIPTION:A gigantic shark.]"
+msgstr ""
+
+msgctxt "CREATURE:CENOZOIC_MEGALODON"
+msgid "[NAME:megalodon:megalodons:megalodon]"
+msgstr ""
+
+msgctxt "CREATURE:CENOZOIC_MEGALODON"
+msgid "[CASTE_NAME:megalodon:megalodons:megalodon]"
+msgstr ""
+
+msgctxt "CREATURE:CENOZOIC_MEGALODON"
+msgid "[GENERAL_CHILD_NAME:megalodon pup:megalodon pups]"
+msgstr ""
+
+msgctxt "CREATURE:CENOZOIC_MEGALODON"
+msgid "[PREFSTRING:great size]"
+msgstr ""
+
+msgctxt "CREATURE:CENOZOIC_MEGALODON"
+msgid "[ATTACK_VERB:bite:bites]"
+msgstr ""
+
+msgctxt "CREATURE:CENOZOIC_MEGALODON"
+msgid "[ATTACK_VERB:slap:slaps]"
+msgstr ""
+
+msgctxt "CREATURE:CENOZOIC_MEGALODON"
+msgid "[TLCM_NOUN:skin:SINGULAR]"
+msgstr ""
+
+msgctxt "CREATURE:CENOZOIC_MEGALODON"
+msgid "[TLCM_NOUN:eyes:PLURAL]"
+msgstr ""
+
+msgctxt "CREATURE:CENOZOIC_MEGALODON_MAN"
+msgid "[CASTE_NAME:megalodon man:megalodon men:megalodon man]"
+msgstr ""
+
+msgctxt "CREATURE:CENOZOIC_MEGALODON_MAN"
+msgid "[CASTE_NAME:megalodon woman:megalodon women:megalodon woman]"
+msgstr ""
+
+msgctxt "CREATURE:CENOZOIC_MEGALODON_MAN"
+msgid "[NAME:megalodon man:megalodon men:megalodon man]"
+msgstr ""
+
+msgctxt "CREATURE:CENOZOIC_MEGALODON_MAN"
+msgid "[DESCRIPTION:A very large legless shark person.]"
+msgstr ""
+
+msgctxt "CREATURE:CENOZOIC_MEGALANIA"
+msgid "[DESCRIPTION:A very large lizard.]"
+msgstr ""
+
+msgctxt "CREATURE:CENOZOIC_MEGALANIA"
+msgid "[NAME:megalania:megalania:megalania]"
+msgstr ""
+
+msgctxt "CREATURE:CENOZOIC_MEGALANIA"
+msgid "[CASTE_NAME:megalania:megalania:megalania]"
+msgstr ""
+
+msgctxt "CREATURE:CENOZOIC_MEGALANIA"
+msgid "[GENERAL_CHILD_NAME:megalania hatchling:megalania hatchlings]"
+msgstr ""
+
+msgctxt "CREATURE:CENOZOIC_MEGALANIA"
+msgid "[PREFSTRING:great size]"
+msgstr ""
+
+msgctxt "CREATURE:CENOZOIC_MEGALANIA"
+msgid "[ATTACK_VERB:bite:bites]"
+msgstr ""
+
+msgctxt "CREATURE:CENOZOIC_MEGALANIA"
+msgid "[TLCM_NOUN:scales:PLURAL]"
+msgstr ""
+
+msgctxt "CREATURE:CENOZOIC_MEGALANIA"
+msgid "[TLCM_NOUN:eyes:PLURAL]"
+msgstr ""
+
+msgctxt "CREATURE:CENOZOIC_MEGALANIA_MAN"
+msgid "[CASTE_NAME:megalania man:megalania men:megalania man]"
+msgstr ""
+
+msgctxt "CREATURE:CENOZOIC_MEGALANIA_MAN"
+msgid "[CASTE_NAME:megalania woman:megalania women:megalania woman]"
+msgstr ""
+
+msgctxt "CREATURE:CENOZOIC_MEGALANIA_MAN"
+msgid "[NAME:megalania man:megalania men:megalania man]"
+msgstr ""
+
+msgctxt "CREATURE:CENOZOIC_MEGALANIA_MAN"
+msgid "[DESCRIPTION:A large lizard person.]"
+msgstr ""
+
+msgctxt "CREATURE:CENOZOIC_TITANOBOA"
+msgid ""
+"[DESCRIPTION:A very large snake.  It is amphibious and constricts its prey.]"
+msgstr ""
+
+msgctxt "CREATURE:CENOZOIC_TITANOBOA"
+msgid "[NAME:titanoboa:titanoboas:titanoboa]"
+msgstr ""
+
+msgctxt "CREATURE:CENOZOIC_TITANOBOA"
+msgid "[CASTE_NAME:titanoboa:titanoboas:titanoboa]"
+msgstr ""
+
+msgctxt "CREATURE:CENOZOIC_TITANOBOA"
+msgid "[GENERAL_CHILD_NAME:titanoboa hatchling:titanoboa hatchlings]"
+msgstr ""
+
+msgctxt "CREATURE:CENOZOIC_TITANOBOA"
+msgid "[PREFSTRING:great size]"
+msgstr ""
+
+msgctxt "CREATURE:CENOZOIC_TITANOBOA"
+msgid "[ATTACK_VERB:bite:bites]"
+msgstr ""
+
+msgctxt "CREATURE:CENOZOIC_TITANOBOA"
+msgid "[TLCM_NOUN:scales:PLURAL]"
+msgstr ""
+
+msgctxt "CREATURE:CENOZOIC_TITANOBOA"
+msgid "[TLCM_NOUN:eyes:PLURAL]"
+msgstr ""
+
+msgctxt "CREATURE:CENOZOIC_TITANOBOA_MAN"
+msgid "[CASTE_NAME:titanoboa man:titanoboa men:titanoboa man]"
+msgstr ""
+
+msgctxt "CREATURE:CENOZOIC_TITANOBOA_MAN"
+msgid "[CASTE_NAME:titanoboa woman:titanoboa women:titanoboa woman]"
+msgstr ""
+
+msgctxt "CREATURE:CENOZOIC_TITANOBOA_MAN"
+msgid "[NAME:titanoboa man:titanoboa men:titanoboa man]"
+msgstr ""
+
+msgctxt "CREATURE:CENOZOIC_TITANOBOA_MAN"
+msgid "[DESCRIPTION:A large legless snake person.]"
+msgstr ""
+
+msgctxt "CREATURE:CENOZOIC_PLATYBELODON"
+msgid ""
+"[DESCRIPTION:A huge hairless mammal with a great shovel-like mouth capped "
+"with two tusks.  It has a long trunk and two small upper tusks as well.]"
+msgstr ""
+
+msgctxt "CREATURE:CENOZOIC_PLATYBELODON"
+msgid "[NAME:platybelodon:platybelodons:platybelodon]"
+msgstr ""
+
+msgctxt "CREATURE:CENOZOIC_PLATYBELODON"
+msgid "[CASTE_NAME:platybelodon:platybelodons:platybelodon]"
+msgstr ""
+
+msgctxt "CREATURE:CENOZOIC_PLATYBELODON"
+msgid "[GENERAL_CHILD_NAME:platybelodon calf:platybelodon calves]"
+msgstr ""
+
+msgctxt "CREATURE:CENOZOIC_PLATYBELODON"
+msgid "[PREFSTRING:shovel-like lower tusks]"
+msgstr ""
+
+msgctxt "CREATURE:CENOZOIC_PLATYBELODON"
+msgid "[STATE_NAME:ALL_SOLID:ivory]"
+msgstr ""
+
+msgctxt "CREATURE:CENOZOIC_PLATYBELODON"
+msgid "[STATE_ADJ:ALL_SOLID:ivory]"
+msgstr ""
+
+msgctxt "CREATURE:CENOZOIC_PLATYBELODON"
+msgid "[TISSUE_NAME:ivory:NP]"
+msgstr ""
+
+msgctxt "CREATURE:CENOZOIC_PLATYBELODON"
+msgid "[ATTACK_VERB:kick:kicks]"
+msgstr ""
+
+msgctxt "CREATURE:CENOZOIC_PLATYBELODON"
+msgid "[ATTACK_VERB:gore:gores]"
+msgstr ""
+
+msgctxt "CREATURE:CENOZOIC_PLATYBELODON"
+msgid "[TLCM_NOUN:skin:SINGULAR]"
+msgstr ""
+
+msgctxt "CREATURE:CENOZOIC_PLATYBELODON"
+msgid "[TLCM_NOUN:eyes:PLURAL]"
+msgstr ""
+
+msgctxt "CREATURE:CENOZOIC_PLATYBELODON_MAN"
+msgid "[CASTE_NAME:platybelodon man:platybelodon men:platybelodon man]"
+msgstr ""
+
+msgctxt "CREATURE:CENOZOIC_PLATYBELODON_MAN"
+msgid "[CASTE_NAME:platybelodon woman:platybelodon women:platybelodon woman]"
+msgstr ""
+
+msgctxt "CREATURE:CENOZOIC_PLATYBELODON_MAN"
+msgid "[NAME:platybelodon man:platybelodon men:platybelodon man]"
+msgstr ""
+
+msgctxt "CREATURE:CENOZOIC_PLATYBELODON_MAN"
+msgid ""
+"[DESCRIPTION:A large hairless mammal person with a large shovel-like mouth "
+"and a trunk.]"
+msgstr ""
+
+msgctxt "CREATURE:CENOZOIC_ENTELODON"
+msgid ""
+"[DESCRIPTION:A large bulky mammal with a long snout.  It can run quickly on "
+"its thin legs.]"
+msgstr ""
+
+msgctxt "CREATURE:CENOZOIC_ENTELODON"
+msgid "[NAME:entelodon:entelodons:entelodon]"
+msgstr ""
+
+msgctxt "CREATURE:CENOZOIC_ENTELODON"
+msgid "[CASTE_NAME:entelodon:entelodons:entelodon]"
+msgstr ""
+
+msgctxt "CREATURE:CENOZOIC_ENTELODON"
+msgid "[GENERAL_CHILD_NAME:entelodon piglet:entelodon piglets]"
+msgstr ""
+
+msgctxt "CREATURE:CENOZOIC_ENTELODON"
+msgid "[PREFSTRING:snouts]"
+msgstr ""
+
+msgctxt "CREATURE:CENOZOIC_ENTELODON"
+msgid "[ATTACK_VERB:kick:kicks]"
+msgstr ""
+
+msgctxt "CREATURE:CENOZOIC_ENTELODON"
+msgid "[ATTACK_VERB:bite:bites]"
+msgstr ""
+
+msgctxt "CREATURE:CENOZOIC_ENTELODON"
+msgid "[TLCM_NOUN:hair:SINGULAR]"
+msgstr ""
+
+msgctxt "CREATURE:CENOZOIC_ENTELODON"
+msgid "[TLCM_NOUN:skin:SINGULAR]"
+msgstr ""
+
+msgctxt "CREATURE:CENOZOIC_ENTELODON"
+msgid "[TLCM_NOUN:eyes:PLURAL]"
+msgstr ""
+
+msgctxt "CREATURE:CENOZOIC_ENTELODON_MAN"
+msgid "[CASTE_NAME:entelodon man:entelodon men:entelodon man]"
+msgstr ""
+
+msgctxt "CREATURE:CENOZOIC_ENTELODON_MAN"
+msgid "[CASTE_NAME:entelodon woman:entelodon women:entelodon woman]"
+msgstr ""
+
+msgctxt "CREATURE:CENOZOIC_ENTELODON_MAN"
+msgid "[NAME:entelodon man:entelodon men:entelodon man]"
+msgstr ""
+
+msgctxt "CREATURE:CENOZOIC_ENTELODON_MAN"
+msgid ""
+"[DESCRIPTION:A large bulky mammal person with a long snout and skinny legs.]"
+msgstr ""
+
+msgctxt "CREATURE:CENOZOIC_MEGACEROPS"
+msgid "[DESCRIPTION:A huge hairless mammal with a forked horn.]"
+msgstr ""
+
+msgctxt "CREATURE:CENOZOIC_MEGACEROPS"
+msgid "[NAME:megacerops:megacerops:megacerops]"
+msgstr ""
+
+msgctxt "CREATURE:CENOZOIC_MEGACEROPS"
+msgid "[CASTE_NAME:megacerops:megacerops:megacerops]"
+msgstr ""
+
+msgctxt "CREATURE:CENOZOIC_MEGACEROPS"
+msgid "[GENERAL_CHILD_NAME:megacerops calf:megacerops calves]"
+msgstr ""
+
+msgctxt "CREATURE:CENOZOIC_MEGACEROPS"
+msgid "[PREFSTRING:forked horns]"
+msgstr ""
+
+msgctxt "CREATURE:CENOZOIC_MEGACEROPS"
+msgid "[ATTACK_VERB:kick:kicks]"
+msgstr ""
+
+msgctxt "CREATURE:CENOZOIC_MEGACEROPS"
+msgid "[ATTACK_VERB:gore:gores]"
+msgstr ""
+
+msgctxt "CREATURE:CENOZOIC_MEGACEROPS"
+msgid "[TLCM_NOUN:skin:SINGULAR]"
+msgstr ""
+
+msgctxt "CREATURE:CENOZOIC_MEGACEROPS"
+msgid "[TLCM_NOUN:eyes:PLURAL]"
+msgstr ""
+
+msgctxt "CREATURE:CENOZOIC_MEGACEROPS_MAN"
+msgid "[CASTE_NAME:megacerops man:megacerops men:megacerops man]"
+msgstr ""
+
+msgctxt "CREATURE:CENOZOIC_MEGACEROPS_MAN"
+msgid "[CASTE_NAME:megacerops woman:megacerops women:megacerops woman]"
+msgstr ""
+
+msgctxt "CREATURE:CENOZOIC_MEGACEROPS_MAN"
+msgid "[NAME:megacerops man:megacerops men:megacerops man]"
+msgstr ""
+
+msgctxt "CREATURE:CENOZOIC_MEGACEROPS_MAN"
+msgid "[DESCRIPTION:A large hairless mammal person with a forked horn.]"
+msgstr ""
+
+msgctxt "CREATURE:CRETACEOUS_AMMONITE"
+msgid "[DESCRIPTION:A very large cephalopod with a coiled shell.]"
+msgstr ""
+
+msgctxt "CREATURE:CRETACEOUS_AMMONITE"
+msgid "[NAME:ammonite:ammonite:ammonite]"
+msgstr ""
+
+msgctxt "CREATURE:CRETACEOUS_AMMONITE"
+msgid "[CASTE_NAME:ammonite:ammonite:ammonite]"
+msgstr ""
+
+msgctxt "CREATURE:CRETACEOUS_AMMONITE"
+msgid "[GENERAL_CHILD_NAME:ammonite hatchling:ammonite hatchlings]"
+msgstr ""
+
+msgctxt "CREATURE:CRETACEOUS_AMMONITE"
+msgid "[PREFSTRING:shells]"
+msgstr ""
+
+msgctxt "CREATURE:CRETACEOUS_AMMONITE"
+msgid "[PREFSTRING:many tentacles]"
+msgstr ""
+
+msgctxt "CREATURE:CRETACEOUS_AMMONITE"
+msgid "[ATTACK_VERB:bite:bites]"
+msgstr ""
+
+msgctxt "CREATURE:CRETACEOUS_AMMONITE"
+msgid "[TLCM_NOUN:shell:SINGULAR]"
+msgstr ""
+
+msgctxt "CREATURE:CRETACEOUS_AMMONITE"
+msgid "[TLCM_NOUN:skin:SINGULAR]"
+msgstr ""
+
+msgctxt "CREATURE:CRETACEOUS_AMMONITE_MAN"
+msgid "[CASTE_NAME:ammonite man:ammonite men:ammonite man]"
+msgstr ""
+
+msgctxt "CREATURE:CRETACEOUS_AMMONITE_MAN"
+msgid "[CASTE_NAME:ammonite woman:ammonite women:ammonite woman]"
+msgstr ""
+
+msgctxt "CREATURE:CRETACEOUS_AMMONITE_MAN"
+msgid "[NAME:ammonite man:ammonite men:ammonite man]"
+msgstr ""
+
+msgctxt "CREATURE:CRETACEOUS_AMMONITE_MAN"
+msgid ""
+"[DESCRIPTION:A large cephalod person with the tentacled face and shell of an"
+" ammonite.]"
+msgstr ""
+
+msgctxt "CREATURE:CRETACEOUS_ARCHELON"
+msgid "[DESCRIPTION:A huge marine turtle.]"
+msgstr ""
+
+msgctxt "CREATURE:CRETACEOUS_ARCHELON"
+msgid "[NAME:archelon:archelon:archelon]"
+msgstr ""
+
+msgctxt "CREATURE:CRETACEOUS_ARCHELON"
+msgid "[CASTE_NAME:archelon:archelon:archelon]"
+msgstr ""
+
+msgctxt "CREATURE:CRETACEOUS_ARCHELON"
+msgid "[GENERAL_CHILD_NAME:archelon hatchling:archelon hatchlings]"
+msgstr ""
+
+msgctxt "CREATURE:CRETACEOUS_ARCHELON"
+msgid "[PREFSTRING:great size]"
+msgstr ""
+
+msgctxt "CREATURE:CRETACEOUS_ARCHELON"
+msgid "[ATTACK_VERB:bite:bites]"
+msgstr ""
+
+msgctxt "CREATURE:CRETACEOUS_ARCHELON"
+msgid "[TLCM_NOUN:scales:PLURAL]"
+msgstr ""
+
+msgctxt "CREATURE:CRETACEOUS_ARCHELON"
+msgid "[TLCM_NOUN:eyes:PLURAL]"
+msgstr ""
+
+msgctxt "CREATURE:CRETACEOUS_ARCHELON_MAN"
+msgid "[CASTE_NAME:archelon man:archelon men:archelon man]"
+msgstr ""
+
+msgctxt "CREATURE:CRETACEOUS_ARCHELON_MAN"
+msgid "[CASTE_NAME:archelon woman:archelon women:archelon woman]"
+msgstr ""
+
+msgctxt "CREATURE:CRETACEOUS_ARCHELON_MAN"
+msgid "[NAME:archelon man:archelon men:archelon man]"
+msgstr ""
+
+msgctxt "CREATURE:CRETACEOUS_ARCHELON_MAN"
+msgid "[DESCRIPTION:A large reptile person with the shell of a turtle.]"
+msgstr ""
+
+msgctxt "CREATURE:CRETACEOUS_VELOCIRAPTOR"
+msgid ""
+"[DESCRIPTION:A small feathered bipedal dinosaur with a sharp scything claw "
+"on its second toe.  It can run very quickly.]"
+msgstr ""
+
+msgctxt "CREATURE:CRETACEOUS_VELOCIRAPTOR"
+msgid "[NAME:velociraptor:velociraptor:velociraptor]"
+msgstr ""
+
+msgctxt "CREATURE:CRETACEOUS_VELOCIRAPTOR"
+msgid "[CASTE_NAME:velociraptor:velociraptor:velociraptor]"
+msgstr ""
+
+msgctxt "CREATURE:CRETACEOUS_VELOCIRAPTOR"
+msgid "[GENERAL_CHILD_NAME:velociraptor hatchling:velociraptor hatchlings]"
+msgstr ""
+
+msgctxt "CREATURE:CRETACEOUS_VELOCIRAPTOR"
+msgid "[PREFSTRING:scything claws]"
+msgstr ""
+
+msgctxt "CREATURE:CRETACEOUS_VELOCIRAPTOR"
+msgid "[PREFSTRING:speed]"
+msgstr ""
+
+msgctxt "CREATURE:CRETACEOUS_VELOCIRAPTOR"
+msgid "[PREFSTRING:feathers]"
+msgstr ""
+
+msgctxt "CREATURE:CRETACEOUS_VELOCIRAPTOR"
+msgid "[ATTACK_VERB:bite:bites]"
+msgstr ""
+
+msgctxt "CREATURE:CRETACEOUS_VELOCIRAPTOR"
+msgid "[ATTACK_VERB:slice:slices]"
+msgstr ""
+
+msgctxt "CREATURE:CRETACEOUS_VELOCIRAPTOR"
+msgid "[ATTACK_VERB:kick:kicks]"
+msgstr ""
+
+msgctxt "CREATURE:CRETACEOUS_VELOCIRAPTOR"
+msgid "[TLCM_NOUN:feathers:PLURAL]"
+msgstr ""
+
+msgctxt "CREATURE:CRETACEOUS_VELOCIRAPTOR"
+msgid "[TLCM_NOUN:scales:PLURAL]"
+msgstr ""
+
+msgctxt "CREATURE:CRETACEOUS_VELOCIRAPTOR"
+msgid "[TLCM_NOUN:eyes:PLURAL]"
+msgstr ""
+
+msgctxt "CREATURE:CRETACEOUS_VELOCIRAPTOR_MAN"
+msgid "[CASTE_NAME:velociraptor man:velociraptor men:velociraptor man]"
+msgstr ""
+
+msgctxt "CREATURE:CRETACEOUS_VELOCIRAPTOR_MAN"
+msgid "[CASTE_NAME:velociraptor woman:velociraptor women:velociraptor woman]"
+msgstr ""
+
+msgctxt "CREATURE:CRETACEOUS_VELOCIRAPTOR_MAN"
+msgid "[ATTACK_VERB:slice:slices]"
+msgstr ""
+
+msgctxt "CREATURE:CRETACEOUS_VELOCIRAPTOR_MAN"
+msgid "[NAME:velociraptor man:velociraptor men:velociraptor man]"
+msgstr ""
+
+msgctxt "CREATURE:CRETACEOUS_VELOCIRAPTOR_MAN"
+msgid ""
+"[DESCRIPTION:A small feathered dinosaur person with a sharp claw on their "
+"second toe.  They can run very quickly.]"
+msgstr ""
+
+msgctxt "CREATURE:CRETACEOUS_MONONYKUS"
+msgid ""
+"[DESCRIPTION:A very small feathered bipedal dinosaur with a single claw on "
+"each side of its upper body.]"
+msgstr ""
+
+msgctxt "CREATURE:CRETACEOUS_MONONYKUS"
+msgid "[NAME:mononykus:mononykus:mononykus]"
+msgstr ""
+
+msgctxt "CREATURE:CRETACEOUS_MONONYKUS"
+msgid "[CASTE_NAME:mononykus:mononykus:mononykus]"
+msgstr ""
+
+msgctxt "CREATURE:CRETACEOUS_MONONYKUS"
+msgid "[GENERAL_CHILD_NAME:mononykus hatchling:mononykus hatchlings]"
+msgstr ""
+
+msgctxt "CREATURE:CRETACEOUS_MONONYKUS"
+msgid "[PREFSTRING:single claws]"
+msgstr ""
+
+msgctxt "CREATURE:CRETACEOUS_MONONYKUS"
+msgid "[PREFSTRING:feathers]"
+msgstr ""
+
+msgctxt "CREATURE:CRETACEOUS_MONONYKUS"
+msgid "[ATTACK_VERB:bite:bites]"
+msgstr ""
+
+msgctxt "CREATURE:CRETACEOUS_MONONYKUS"
+msgid "[ATTACK_VERB:scratch:scratches]"
+msgstr ""
+
+msgctxt "CREATURE:CRETACEOUS_MONONYKUS"
+msgid "[ATTACK_VERB:kick:kicks]"
+msgstr ""
+
+msgctxt "CREATURE:CRETACEOUS_MONONYKUS"
+msgid "[TLCM_NOUN:feathers:PLURAL]"
+msgstr ""
+
+msgctxt "CREATURE:CRETACEOUS_MONONYKUS"
+msgid "[TLCM_NOUN:scales:PLURAL]"
+msgstr ""
+
+msgctxt "CREATURE:CRETACEOUS_MONONYKUS"
+msgid "[TLCM_NOUN:eyes:PLURAL]"
+msgstr ""
+
+msgctxt "CREATURE:CRETACEOUS_MONONYKUS_MAN"
+msgid "[CASTE_NAME:mononykus man:mononykus men:mononykus man]"
+msgstr ""
+
+msgctxt "CREATURE:CRETACEOUS_MONONYKUS_MAN"
+msgid "[CASTE_NAME:mononykus woman:mononykus women:mononykus woman]"
+msgstr ""
+
+msgctxt "CREATURE:CRETACEOUS_MONONYKUS_MAN"
+msgid "[NAME:mononykus man:mononykus men:mononykus man]"
+msgstr ""
+
+msgctxt "CREATURE:CRETACEOUS_MONONYKUS_MAN"
+msgid ""
+"[DESCRIPTION:A small feathered dinosaur person with a single claw on each "
+"arm.]"
+msgstr ""
+
+msgctxt "CREATURE:CRETACEOUS_LINHENYKUS"
+msgid ""
+"[DESCRIPTION:A tiny feathered bipedal dinosaur with a single claw on each "
+"side of its upper body.]"
+msgstr ""
+
+msgctxt "CREATURE:CRETACEOUS_LINHENYKUS"
+msgid "[NAME:linhenykus:linhenykus:linhenykus]"
+msgstr ""
+
+msgctxt "CREATURE:CRETACEOUS_LINHENYKUS"
+msgid "[CASTE_NAME:linhenykus:linhenykus:linhenykus]"
+msgstr ""
+
+msgctxt "CREATURE:CRETACEOUS_LINHENYKUS"
+msgid "[GENERAL_CHILD_NAME:linhenykus hatchling:linhenykus hatchlings]"
+msgstr ""
+
+msgctxt "CREATURE:CRETACEOUS_LINHENYKUS"
+msgid "[PREFSTRING:single claws]"
+msgstr ""
+
+msgctxt "CREATURE:CRETACEOUS_LINHENYKUS"
+msgid "[PREFSTRING:feathers]"
+msgstr ""
+
+msgctxt "CREATURE:CRETACEOUS_LINHENYKUS"
+msgid "[ATTACK_VERB:bite:bites]"
+msgstr ""
+
+msgctxt "CREATURE:CRETACEOUS_LINHENYKUS"
+msgid "[ATTACK_VERB:scratch:scratches]"
+msgstr ""
+
+msgctxt "CREATURE:CRETACEOUS_LINHENYKUS"
+msgid "[ATTACK_VERB:kick:kicks]"
+msgstr ""
+
+msgctxt "CREATURE:CRETACEOUS_LINHENYKUS"
+msgid "[TLCM_NOUN:feathers:PLURAL]"
+msgstr ""
+
+msgctxt "CREATURE:CRETACEOUS_LINHENYKUS"
+msgid "[TLCM_NOUN:scales:PLURAL]"
+msgstr ""
+
+msgctxt "CREATURE:CRETACEOUS_LINHENYKUS"
+msgid "[TLCM_NOUN:eyes:PLURAL]"
+msgstr ""
+
+msgctxt "CREATURE:CRETACEOUS_LINHENYKUS_MAN"
+msgid "[CASTE_NAME:linhenykus man:linhenykus men:linhenykus man]"
+msgstr ""
+
+msgctxt "CREATURE:CRETACEOUS_LINHENYKUS_MAN"
+msgid "[CASTE_NAME:linhenykus woman:linhenykus women:linhenykus woman]"
+msgstr ""
+
+msgctxt "CREATURE:CRETACEOUS_LINHENYKUS_MAN"
+msgid "[NAME:linhenykus man:linhenykus men:linhenykus man]"
+msgstr ""
+
+msgctxt "CREATURE:CRETACEOUS_LINHENYKUS_MAN"
+msgid ""
+"[DESCRIPTION:A small feathered dinosaur person with a single claw on each "
+"arm.]"
+msgstr ""
+
+msgctxt "CREATURE:CRETACEOUS_BUITRERAPTOR"
+msgid ""
+"[DESCRIPTION:A very small feathered bipedal dinosaur with a sharp scything "
+"claw on its second toe.]"
+msgstr ""
+
+msgctxt "CREATURE:CRETACEOUS_BUITRERAPTOR"
+msgid "[NAME:buitreraptor:buitreraptor:buitreraptor]"
+msgstr ""
+
+msgctxt "CREATURE:CRETACEOUS_BUITRERAPTOR"
+msgid "[CASTE_NAME:buitreraptor:buitreraptor:buitreraptor]"
+msgstr ""
+
+msgctxt "CREATURE:CRETACEOUS_BUITRERAPTOR"
+msgid "[GENERAL_CHILD_NAME:buitreraptor hatchling:buitreraptor hatchlings]"
+msgstr ""
+
+msgctxt "CREATURE:CRETACEOUS_BUITRERAPTOR"
+msgid "[PREFSTRING:scything claws]"
+msgstr ""
+
+msgctxt "CREATURE:CRETACEOUS_BUITRERAPTOR"
+msgid "[PREFSTRING:feathers]"
+msgstr ""
+
+msgctxt "CREATURE:CRETACEOUS_BUITRERAPTOR"
+msgid "[ATTACK_VERB:bite:bites]"
+msgstr ""
+
+msgctxt "CREATURE:CRETACEOUS_BUITRERAPTOR"
+msgid "[ATTACK_VERB:slice:slices]"
+msgstr ""
+
+msgctxt "CREATURE:CRETACEOUS_BUITRERAPTOR"
+msgid "[ATTACK_VERB:kick:kicks]"
+msgstr ""
+
+msgctxt "CREATURE:CRETACEOUS_BUITRERAPTOR"
+msgid "[TLCM_NOUN:feathers:PLURAL]"
+msgstr ""
+
+msgctxt "CREATURE:CRETACEOUS_BUITRERAPTOR"
+msgid "[TLCM_NOUN:scales:PLURAL]"
+msgstr ""
+
+msgctxt "CREATURE:CRETACEOUS_BUITRERAPTOR"
+msgid "[TLCM_NOUN:eyes:PLURAL]"
+msgstr ""
+
+msgctxt "CREATURE:CRETACEOUS_BUITRERAPTOR_MAN"
+msgid "[CASTE_NAME:buitreraptor man:buitreraptor men:buitreraptor man]"
+msgstr ""
+
+msgctxt "CREATURE:CRETACEOUS_BUITRERAPTOR_MAN"
+msgid "[CASTE_NAME:buitreraptor woman:buitreraptor women:buitreraptor woman]"
+msgstr ""
+
+msgctxt "CREATURE:CRETACEOUS_BUITRERAPTOR_MAN"
+msgid "[ATTACK_VERB:slice:slices]"
+msgstr ""
+
+msgctxt "CREATURE:CRETACEOUS_BUITRERAPTOR_MAN"
+msgid "[NAME:buitreraptor man:buitreraptor men:buitreraptor man]"
+msgstr ""
+
+msgctxt "CREATURE:CRETACEOUS_BUITRERAPTOR_MAN"
+msgid ""
+"[DESCRIPTION:A small feathered dinosaur person with a sharp claw on their "
+"second toe.]"
+msgstr ""
+
+msgctxt "CREATURE:CRETACEOUS_DEINONYCHUS"
+msgid ""
+"[DESCRIPTION:A large feathered bipedal dinosaur with a sharp scything claw "
+"on its second toe.]"
+msgstr ""
+
+msgctxt "CREATURE:CRETACEOUS_DEINONYCHUS"
+msgid "[NAME:deinonychus:deinonychus:deinonychus]"
+msgstr ""
+
+msgctxt "CREATURE:CRETACEOUS_DEINONYCHUS"
+msgid "[CASTE_NAME:deinonychus:deinonychus:deinonychus]"
+msgstr ""
+
+msgctxt "CREATURE:CRETACEOUS_DEINONYCHUS"
+msgid "[GENERAL_CHILD_NAME:deinonychus hatchling:deinonychus hatchlings]"
+msgstr ""
+
+msgctxt "CREATURE:CRETACEOUS_DEINONYCHUS"
+msgid "[PREFSTRING:scything claws]"
+msgstr ""
+
+msgctxt "CREATURE:CRETACEOUS_DEINONYCHUS"
+msgid "[PREFSTRING:feathers]"
+msgstr ""
+
+msgctxt "CREATURE:CRETACEOUS_DEINONYCHUS"
+msgid "[ATTACK_VERB:bite:bites]"
+msgstr ""
+
+msgctxt "CREATURE:CRETACEOUS_DEINONYCHUS"
+msgid "[ATTACK_VERB:slice:slices]"
+msgstr ""
+
+msgctxt "CREATURE:CRETACEOUS_DEINONYCHUS"
+msgid "[ATTACK_VERB:kick:kicks]"
+msgstr ""
+
+msgctxt "CREATURE:CRETACEOUS_DEINONYCHUS"
+msgid "[TLCM_NOUN:feathers:PLURAL]"
+msgstr ""
+
+msgctxt "CREATURE:CRETACEOUS_DEINONYCHUS"
+msgid "[TLCM_NOUN:scales:PLURAL]"
+msgstr ""
+
+msgctxt "CREATURE:CRETACEOUS_DEINONYCHUS"
+msgid "[TLCM_NOUN:eyes:PLURAL]"
+msgstr ""
+
+msgctxt "CREATURE:CRETACEOUS_DEINONYCHUS_MAN"
+msgid "[CASTE_NAME:deinonychus man:deinonychus men:deinonychus man]"
+msgstr ""
+
+msgctxt "CREATURE:CRETACEOUS_DEINONYCHUS_MAN"
+msgid "[CASTE_NAME:deinonychus woman:deinonychus women:deinonychus woman]"
+msgstr ""
+
+msgctxt "CREATURE:CRETACEOUS_DEINONYCHUS_MAN"
+msgid "[ATTACK_VERB:slice:slices]"
+msgstr ""
+
+msgctxt "CREATURE:CRETACEOUS_DEINONYCHUS_MAN"
+msgid "[NAME:deinonychus man:deinonychus men:deinonychus man]"
+msgstr ""
+
+msgctxt "CREATURE:CRETACEOUS_DEINONYCHUS_MAN"
+msgid ""
+"[DESCRIPTION:A feathered dinosaur person with a sharp claw on their second "
+"toe.]"
+msgstr ""
+
+msgctxt "CREATURE:CRETACEOUS_UTAHRAPTOR"
+msgid ""
+"[DESCRIPTION:A very large feathered bipedal dinosaur with a sharp scything "
+"claw on its second toe.]"
+msgstr ""
+
+msgctxt "CREATURE:CRETACEOUS_UTAHRAPTOR"
+msgid "[NAME:utahraptor:utahraptor:utahraptor]"
+msgstr ""
+
+msgctxt "CREATURE:CRETACEOUS_UTAHRAPTOR"
+msgid "[CASTE_NAME:utahraptor:utahraptor:utahraptor]"
+msgstr ""
+
+msgctxt "CREATURE:CRETACEOUS_UTAHRAPTOR"
+msgid "[GENERAL_CHILD_NAME:utahraptor hatchling:utahraptor hatchlings]"
+msgstr ""
+
+msgctxt "CREATURE:CRETACEOUS_UTAHRAPTOR"
+msgid "[PREFSTRING:scything claws]"
+msgstr ""
+
+msgctxt "CREATURE:CRETACEOUS_UTAHRAPTOR"
+msgid "[PREFSTRING:feathers]"
+msgstr ""
+
+msgctxt "CREATURE:CRETACEOUS_UTAHRAPTOR"
+msgid "[ATTACK_VERB:bite:bites]"
+msgstr ""
+
+msgctxt "CREATURE:CRETACEOUS_UTAHRAPTOR"
+msgid "[ATTACK_VERB:slice:slices]"
+msgstr ""
+
+msgctxt "CREATURE:CRETACEOUS_UTAHRAPTOR"
+msgid "[ATTACK_VERB:kick:kicks]"
+msgstr ""
+
+msgctxt "CREATURE:CRETACEOUS_UTAHRAPTOR"
+msgid "[TLCM_NOUN:feathers:PLURAL]"
+msgstr ""
+
+msgctxt "CREATURE:CRETACEOUS_UTAHRAPTOR"
+msgid "[TLCM_NOUN:scales:PLURAL]"
+msgstr ""
+
+msgctxt "CREATURE:CRETACEOUS_UTAHRAPTOR"
+msgid "[TLCM_NOUN:eyes:PLURAL]"
+msgstr ""
+
+msgctxt "CREATURE:CRETACEOUS_UTAHRAPTOR_MAN"
+msgid "[CASTE_NAME:utahraptor man:utahraptor men:utahraptor man]"
+msgstr ""
+
+msgctxt "CREATURE:CRETACEOUS_UTAHRAPTOR_MAN"
+msgid "[CASTE_NAME:utahraptor woman:utahraptor women:utahraptor woman]"
+msgstr ""
+
+msgctxt "CREATURE:CRETACEOUS_UTAHRAPTOR_MAN"
+msgid "[ATTACK_VERB:slice:slices]"
+msgstr ""
+
+msgctxt "CREATURE:CRETACEOUS_UTAHRAPTOR_MAN"
+msgid "[NAME:utahraptor man:utahraptor men:utahraptor man]"
+msgstr ""
+
+msgctxt "CREATURE:CRETACEOUS_UTAHRAPTOR_MAN"
+msgid ""
+"[DESCRIPTION:A large feathered dinosaur person with a sharp claw on their "
+"second toe.]"
+msgstr ""
+
+msgctxt "CREATURE:CRETACEOUS_MOSASAURUS"
+msgid ""
+"[DESCRIPTION:A gigantic aquatic reptile with four flippers and a huge toothy"
+" mouth.]"
+msgstr ""
+
+msgctxt "CREATURE:CRETACEOUS_MOSASAURUS"
+msgid "[NAME:mosasaurus:mosasaurus:mosasaurus]"
+msgstr ""
+
+msgctxt "CREATURE:CRETACEOUS_MOSASAURUS"
+msgid "[CASTE_NAME:mosasaurus:mosasaurus:mosasaurus]"
+msgstr ""
+
+msgctxt "CREATURE:CRETACEOUS_MOSASAURUS"
+msgid "[GENERAL_CHILD_NAME:mosasaurus hatchling:mosasaurus hatchlings]"
+msgstr ""
+
+msgctxt "CREATURE:CRETACEOUS_MOSASAURUS"
+msgid "[PREFSTRING:flippers]"
+msgstr ""
+
+msgctxt "CREATURE:CRETACEOUS_MOSASAURUS"
+msgid "[ATTACK_VERB:bite:bites]"
+msgstr ""
+
+msgctxt "CREATURE:CRETACEOUS_MOSASAURUS"
+msgid "[TLCM_NOUN:scales:SINGULAR]"
+msgstr ""
+
+msgctxt "CREATURE:CRETACEOUS_MOSASAURUS"
+msgid "[TLCM_NOUN:eyes:PLURAL]"
+msgstr ""
+
+msgctxt "CREATURE:CRETACEOUS_MOSASAURUS_MAN"
+msgid "[CASTE_NAME:mosasaurus man:mosasaurus men:mosasaurus man]"
+msgstr ""
+
+msgctxt "CREATURE:CRETACEOUS_MOSASAURUS_MAN"
+msgid "[CASTE_NAME:mosasaurus woman:mosasaurus women:mosasaurus woman]"
+msgstr ""
+
+msgctxt "CREATURE:CRETACEOUS_MOSASAURUS_MAN"
+msgid "[NAME:mosasaurus man:mosasaurus men:mosasaurus man]"
+msgstr ""
+
+msgctxt "CREATURE:CRETACEOUS_MOSASAURUS_MAN"
+msgid "[DESCRIPTION:A very large legless person with a giant toothy mouth.]"
+msgstr ""
+
+msgctxt "CREATURE:CRETACEOUS_PARASAUROLOPHUS"
+msgid ""
+"[DESCRIPTION:A huge bipedal herbivorous dinosaur.  It has a beaked mouth and"
+" a hollow crest atop is head.]"
+msgstr ""
+
+msgctxt "CREATURE:CRETACEOUS_PARASAUROLOPHUS"
+msgid "[NAME:parasaurolophus:parasaurolophus:parasaurolophus]"
+msgstr ""
+
+msgctxt "CREATURE:CRETACEOUS_PARASAUROLOPHUS"
+msgid "[CASTE_NAME:parasaurolophus:parasaurolophus:parasaurolophus]"
+msgstr ""
+
+msgctxt "CREATURE:CRETACEOUS_PARASAUROLOPHUS"
+msgid ""
+"[GENERAL_CHILD_NAME:parasaurolophus hatchling:parasaurolophus hatchlings]"
+msgstr ""
+
+msgctxt "CREATURE:CRETACEOUS_PARASAUROLOPHUS"
+msgid "[PREFSTRING:crest]"
+msgstr ""
+
+msgctxt "CREATURE:CRETACEOUS_PARASAUROLOPHUS"
+msgid "[ATTACK_VERB:bite:bites]"
+msgstr ""
+
+msgctxt "CREATURE:CRETACEOUS_PARASAUROLOPHUS"
+msgid "[ATTACK_VERB:scratch:scratches]"
+msgstr ""
+
+msgctxt "CREATURE:CRETACEOUS_PARASAUROLOPHUS"
+msgid "[ATTACK_VERB:kick:kicks]"
+msgstr ""
+
+msgctxt "CREATURE:CRETACEOUS_PARASAUROLOPHUS"
+msgid "[ATTACK_VERB:slap:slaps]"
+msgstr ""
+
+msgctxt "CREATURE:CRETACEOUS_PARASAUROLOPHUS"
+msgid ""
+"[SOUND:ALERT:100:1000:VOCALIZATION:whistle harshly:whistles harshly:a harsh "
+"whistle]"
+msgstr ""
+
+msgctxt "CREATURE:CRETACEOUS_PARASAUROLOPHUS"
+msgid ""
+"[SOUND:PEACEFUL_INTERMITTENT:25:10000:VOCALIZATION:blow softly:blows "
+"softly:a soft blowing sound]"
+msgstr ""
+
+msgctxt "CREATURE:CRETACEOUS_PARASAUROLOPHUS"
+msgid "[SOUND:PEACEFUL_INTERMITTENT:50:10000:VOCALIZATION:toot:toots:a toot]"
+msgstr ""
+
+msgctxt "CREATURE:CRETACEOUS_PARASAUROLOPHUS"
+msgid "[TLCM_NOUN:scales:PLURAL]"
+msgstr ""
+
+msgctxt "CREATURE:CRETACEOUS_PARASAUROLOPHUS"
+msgid "[TLCM_NOUN:eyes:PLURAL]"
+msgstr ""
+
+msgctxt "CREATURE:CRETACEOUS_PARASAUROLOPHUS_MAN"
+msgid ""
+"[CASTE_NAME:parasaurolophus man:parasaurolophus men:parasaurolophus man]"
+msgstr ""
+
+msgctxt "CREATURE:CRETACEOUS_PARASAUROLOPHUS_MAN"
+msgid ""
+"[CASTE_NAME:parasaurolophus woman:parasaurolophus women:parasaurolophus "
+"woman]"
+msgstr ""
+
+msgctxt "CREATURE:CRETACEOUS_PARASAUROLOPHUS_MAN"
+msgid "[NAME:parasaurolophus man:parasaurolophus men:parasaurolophus man]"
+msgstr ""
+
+msgctxt "CREATURE:CRETACEOUS_PARASAUROLOPHUS_MAN"
+msgid ""
+"[DESCRIPTION:A large dinosaur person with a beaked mouth and a hollow crest "
+"atop their head.]"
+msgstr ""
+
+msgctxt "CREATURE:CRETACEOUS_IGUANODON"
+msgid ""
+"[DESCRIPTION:A huge bipedal herbivorous dinosaur.  It has two prominent "
+"thumb spikes and a beaked mouth.]"
+msgstr ""
+
+msgctxt "CREATURE:CRETACEOUS_IGUANODON"
+msgid "[NAME:iguanodon:iguanodon:iguanodon]"
+msgstr ""
+
+msgctxt "CREATURE:CRETACEOUS_IGUANODON"
+msgid "[CASTE_NAME:iguanodon:iguanodon:iguanodon]"
+msgstr ""
+
+msgctxt "CREATURE:CRETACEOUS_IGUANODON"
+msgid "[GENERAL_CHILD_NAME:iguanodon hatchling:iguanodon hatchlings]"
+msgstr ""
+
+msgctxt "CREATURE:CRETACEOUS_IGUANODON"
+msgid "[PREFSTRING:thumb spikes]"
+msgstr ""
+
+msgctxt "CREATURE:CRETACEOUS_IGUANODON"
+msgid "[ATTACK_VERB:bite:bites]"
+msgstr ""
+
+msgctxt "CREATURE:CRETACEOUS_IGUANODON"
+msgid "[ATTACK_VERB:stab:stabs]"
+msgstr ""
+
+msgctxt "CREATURE:CRETACEOUS_IGUANODON"
+msgid "[ATTACK_VERB:scratch:scratches]"
+msgstr ""
+
+msgctxt "CREATURE:CRETACEOUS_IGUANODON"
+msgid "[ATTACK_VERB:kick:kicks]"
+msgstr ""
+
+msgctxt "CREATURE:CRETACEOUS_IGUANODON"
+msgid "[ATTACK_VERB:slap:slaps]"
+msgstr ""
+
+msgctxt "CREATURE:CRETACEOUS_IGUANODON"
+msgid "[TLCM_NOUN:scales:PLURAL]"
+msgstr ""
+
+msgctxt "CREATURE:CRETACEOUS_IGUANODON"
+msgid "[TLCM_NOUN:eyes:PLURAL]"
+msgstr ""
+
+msgctxt "CREATURE:CRETACEOUS_IGUANODON_MAN"
+msgid "[CASTE_NAME:iguanodon man:iguanodon men:iguanodon man]"
+msgstr ""
+
+msgctxt "CREATURE:CRETACEOUS_IGUANODON_MAN"
+msgid "[CASTE_NAME:iguanodon woman:iguanodon women:iguanodon woman]"
+msgstr ""
+
+msgctxt "CREATURE:CRETACEOUS_IGUANODON_MAN"
+msgid "[NAME:iguanodon man:iguanodon men:iguanodon man]"
+msgstr ""
+
+msgctxt "CREATURE:CRETACEOUS_IGUANODON_MAN"
+msgid ""
+"[DESCRIPTION:A very large dinosaur person with thumb spikes and a beaked "
+"mouth.]"
+msgstr ""
+
+msgctxt "CREATURE:CRETACEOUS_TRICERATOPS"
+msgid ""
+"[DESCRIPTION:A gigantic herbivorous quadrupedal dinosaur.  It has a broad "
+"bony head frill and three horns.]"
+msgstr ""
+
+msgctxt "CREATURE:CRETACEOUS_TRICERATOPS"
+msgid "[NAME:triceratops:triceratops:triceratops]"
+msgstr ""
+
+msgctxt "CREATURE:CRETACEOUS_TRICERATOPS"
+msgid "[CASTE_NAME:triceratops:triceratops:triceratops]"
+msgstr ""
+
+msgctxt "CREATURE:CRETACEOUS_TRICERATOPS"
+msgid "[GENERAL_CHILD_NAME:triceratops hatchling:triceratops hatchlings]"
+msgstr ""
+
+msgctxt "CREATURE:CRETACEOUS_TRICERATOPS"
+msgid "[PREFSTRING:three horns]"
+msgstr ""
+
+msgctxt "CREATURE:CRETACEOUS_TRICERATOPS"
+msgid "[ATTACK_VERB:gore:gores]"
+msgstr ""
+
+msgctxt "CREATURE:CRETACEOUS_TRICERATOPS"
+msgid "[ATTACK_VERB:bite:bites]"
+msgstr ""
+
+msgctxt "CREATURE:CRETACEOUS_TRICERATOPS"
+msgid "[TLCM_NOUN:scales:PLURAL]"
+msgstr ""
+
+msgctxt "CREATURE:CRETACEOUS_TRICERATOPS"
+msgid "[TLCM_NOUN:eyes:PLURAL]"
+msgstr ""
+
+msgctxt "CREATURE:CRETACEOUS_TRICERATOPS_MAN"
+msgid "[CASTE_NAME:triceratops man:triceratops men:triceratops man]"
+msgstr ""
+
+msgctxt "CREATURE:CRETACEOUS_TRICERATOPS_MAN"
+msgid "[CASTE_NAME:triceratops woman:triceratops women:triceratops woman]"
+msgstr ""
+
+msgctxt "CREATURE:CRETACEOUS_TRICERATOPS_MAN"
+msgid "[NAME:triceratops man:triceratops men:triceratops man]"
+msgstr ""
+
+msgctxt "CREATURE:CRETACEOUS_TRICERATOPS_MAN"
+msgid ""
+"[DESCRIPTION:A very large person with a bony head frill and three horns.]"
+msgstr ""
+
+msgctxt "CREATURE:CRETACEOUS_KOSMOCERATOPS"
+msgid ""
+"[DESCRIPTION:A huge herbivorous quadrupedal dinosaur.  It has a broad spiky "
+"head frill and three horns.]"
+msgstr ""
+
+msgctxt "CREATURE:CRETACEOUS_KOSMOCERATOPS"
+msgid "[NAME:kosmoceratops:kosmoceratops:kosmoceratops]"
+msgstr ""
+
+msgctxt "CREATURE:CRETACEOUS_KOSMOCERATOPS"
+msgid "[CASTE_NAME:kosmoceratops:kosmoceratops:kosmoceratops]"
+msgstr ""
+
+msgctxt "CREATURE:CRETACEOUS_KOSMOCERATOPS"
+msgid "[GENERAL_CHILD_NAME:kosmoceratops hatchling:kosmoceratops hatchlings]"
+msgstr ""
+
+msgctxt "CREATURE:CRETACEOUS_KOSMOCERATOPS"
+msgid "[PREFSTRING:three horns]"
+msgstr ""
+
+msgctxt "CREATURE:CRETACEOUS_KOSMOCERATOPS"
+msgid "[ATTACK_VERB:gore:gores]"
+msgstr ""
+
+msgctxt "CREATURE:CRETACEOUS_KOSMOCERATOPS"
+msgid "[ATTACK_VERB:bite:bites]"
+msgstr ""
+
+msgctxt "CREATURE:CRETACEOUS_KOSMOCERATOPS"
+msgid "[TLCM_NOUN:scales:PLURAL]"
+msgstr ""
+
+msgctxt "CREATURE:CRETACEOUS_KOSMOCERATOPS"
+msgid "[TLCM_NOUN:eyes:PLURAL]"
+msgstr ""
+
+msgctxt "CREATURE:CRETACEOUS_KOSMOCERATOPS_MAN"
+msgid "[CASTE_NAME:kosmoceratops man:kosmoceratops men:kosmoceratops man]"
+msgstr ""
+
+msgctxt "CREATURE:CRETACEOUS_KOSMOCERATOPS_MAN"
+msgid ""
+"[CASTE_NAME:kosmoceratops woman:kosmoceratops women:kosmoceratops woman]"
+msgstr ""
+
+msgctxt "CREATURE:CRETACEOUS_KOSMOCERATOPS_MAN"
+msgid "[NAME:kosmoceratops man:kosmoceratops men:kosmoceratops man]"
+msgstr ""
+
+msgctxt "CREATURE:CRETACEOUS_KOSMOCERATOPS_MAN"
+msgid ""
+"[DESCRIPTION:A very large person with a spiky head frill and three horns.]"
+msgstr ""
+
+msgctxt "CREATURE:CRETACEOUS_MICROCERATUS"
+msgid ""
+"[DESCRIPTION:A very small bipedal herbivorous dinosaur with a bony head "
+"crest.]"
+msgstr ""
+
+msgctxt "CREATURE:CRETACEOUS_MICROCERATUS"
+msgid "[NAME:microceratus:microceratus:microceratus]"
+msgstr ""
+
+msgctxt "CREATURE:CRETACEOUS_MICROCERATUS"
+msgid "[CASTE_NAME:microceratus:microceratus:microceratus]"
+msgstr ""
+
+msgctxt "CREATURE:CRETACEOUS_MICROCERATUS"
+msgid "[GENERAL_CHILD_NAME:microceratus hatchling:microceratus hatchlings]"
+msgstr ""
+
+msgctxt "CREATURE:CRETACEOUS_MICROCERATUS"
+msgid "[PREFSTRING:small size]"
+msgstr ""
+
+msgctxt "CREATURE:CRETACEOUS_MICROCERATUS"
+msgid "[ATTACK_VERB:bite:bites]"
+msgstr ""
+
+msgctxt "CREATURE:CRETACEOUS_MICROCERATUS"
+msgid "[TLCM_NOUN:scales:PLURAL]"
+msgstr ""
+
+msgctxt "CREATURE:CRETACEOUS_MICROCERATUS"
+msgid "[TLCM_NOUN:eyes:PLURAL]"
+msgstr ""
+
+msgctxt "CREATURE:CRETACEOUS_MICROCERATUS_MAN"
+msgid "[CASTE_NAME:microceratus man:microceratus men:microceratus man]"
+msgstr ""
+
+msgctxt "CREATURE:CRETACEOUS_MICROCERATUS_MAN"
+msgid "[CASTE_NAME:microceratus woman:microceratus women:microceratus woman]"
+msgstr ""
+
+msgctxt "CREATURE:CRETACEOUS_MICROCERATUS_MAN"
+msgid "[NAME:microceratus man:microceratus men:microceratus man]"
+msgstr ""
+
+msgctxt "CREATURE:CRETACEOUS_MICROCERATUS_MAN"
+msgid "[DESCRIPTION:A small dinosaur person with a bony head crest.]"
+msgstr ""
+
+msgctxt "CREATURE:CRETACEOUS_ANKYLOSAURUS"
+msgid ""
+"[DESCRIPTION:A gigantic armored quadrupedal dinosaur with a mighty tail "
+"club.  It is a herbivore and has four horns.]"
+msgstr ""
+
+msgctxt "CREATURE:CRETACEOUS_ANKYLOSAURUS"
+msgid "[NAME:ankylosaurus:ankylosaurus:ankylosaurus]"
+msgstr ""
+
+msgctxt "CREATURE:CRETACEOUS_ANKYLOSAURUS"
+msgid "[CASTE_NAME:ankylosaurus:ankylosaurus:ankylosaurus]"
+msgstr ""
+
+msgctxt "CREATURE:CRETACEOUS_ANKYLOSAURUS"
+msgid "[GENERAL_CHILD_NAME:ankylosaurus hatchling:ankylosaurus hatchlings]"
+msgstr ""
+
+msgctxt "CREATURE:CRETACEOUS_ANKYLOSAURUS"
+msgid "[PREFSTRING:armored carapace]"
+msgstr ""
+
+msgctxt "CREATURE:CRETACEOUS_ANKYLOSAURUS"
+msgid "[PREFSTRING:tail club]"
+msgstr ""
+
+msgctxt "CREATURE:CRETACEOUS_ANKYLOSAURUS"
+msgid "[ATTACK_VERB:bash:bashes]"
+msgstr ""
+
+msgctxt "CREATURE:CRETACEOUS_ANKYLOSAURUS"
+msgid "[ATTACK_VERB:bite:bites]"
+msgstr ""
+
+msgctxt "CREATURE:CRETACEOUS_ANKYLOSAURUS"
+msgid "[TLCM_NOUN:scales:PLURAL]"
+msgstr ""
+
+msgctxt "CREATURE:CRETACEOUS_ANKYLOSAURUS"
+msgid "[TLCM_NOUN:eyes:PLURAL]"
+msgstr ""
+
+msgctxt "CREATURE:CRETACEOUS_ANKYLOSAURUS_MAN"
+msgid "[CASTE_NAME:ankylosaurus man:ankylosaurus men:ankylosaurus man]"
+msgstr ""
+
+msgctxt "CREATURE:CRETACEOUS_ANKYLOSAURUS_MAN"
+msgid "[CASTE_NAME:ankylosaurus woman:ankylosaurus women:ankylosaurus woman]"
+msgstr ""
+
+msgctxt "CREATURE:CRETACEOUS_ANKYLOSAURUS_MAN"
+msgid "[ATTACK_VERB:bash:bashes]"
+msgstr ""
+
+msgctxt "CREATURE:CRETACEOUS_ANKYLOSAURUS_MAN"
+msgid "[NAME:ankylosaurus man:ankylosaurus men:ankylosaurus man]"
+msgstr ""
+
+msgctxt "CREATURE:CRETACEOUS_ANKYLOSAURUS_MAN"
+msgid ""
+"[DESCRIPTION:A very large dinosaur person with a tail club, an armored "
+"carapace and four horns.]"
+msgstr ""
+
+msgctxt "CREATURE:CRETACEOUS_PACHYCEPHALOSAURUS"
+msgid ""
+"[DESCRIPTION:A very large herbivorous bipedal dinosaur with a thick domed "
+"head.]"
+msgstr ""
+
+msgctxt "CREATURE:CRETACEOUS_PACHYCEPHALOSAURUS"
+msgid "[NAME:pachycephalosaurus:pachycephalosaurus:pachycephalosaurus]"
+msgstr ""
+
+msgctxt "CREATURE:CRETACEOUS_PACHYCEPHALOSAURUS"
+msgid "[CASTE_NAME:pachycephalosaurus:pachycephalosaurus:pachycephalosaurus]"
+msgstr ""
+
+msgctxt "CREATURE:CRETACEOUS_PACHYCEPHALOSAURUS"
+msgid ""
+"[GENERAL_CHILD_NAME:pachycephalosaurus hatchling:pachycephalosaurus "
+"hatchlings]"
+msgstr ""
+
+msgctxt "CREATURE:CRETACEOUS_PACHYCEPHALOSAURUS"
+msgid "[PREFSTRING:dome]"
+msgstr ""
+
+msgctxt "CREATURE:CRETACEOUS_PACHYCEPHALOSAURUS"
+msgid "[ATTACK_VERB:bite:bites]"
+msgstr ""
+
+msgctxt "CREATURE:CRETACEOUS_PACHYCEPHALOSAURUS"
+msgid "[ATTACK_VERB:scratch:scratches]"
+msgstr ""
+
+msgctxt "CREATURE:CRETACEOUS_PACHYCEPHALOSAURUS"
+msgid "[ATTACK_VERB:kick:kicks]"
+msgstr ""
+
+msgctxt "CREATURE:CRETACEOUS_PACHYCEPHALOSAURUS"
+msgid "[ATTACK_VERB:slap:slaps]"
+msgstr ""
+
+msgctxt "CREATURE:CRETACEOUS_PACHYCEPHALOSAURUS"
+msgid "[TLCM_NOUN:scales:PLURAL]"
+msgstr ""
+
+msgctxt "CREATURE:CRETACEOUS_PACHYCEPHALOSAURUS"
+msgid "[TLCM_NOUN:eyes:PLURAL]"
+msgstr ""
+
+msgctxt "CREATURE:CRETACEOUS_PACHYCEPHALOSAURUS_MAN"
+msgid ""
+"[CASTE_NAME:pachycephalosaurus man:pachycephalosaurus men:pachycephalosaurus"
+" man]"
+msgstr ""
+
+msgctxt "CREATURE:CRETACEOUS_PACHYCEPHALOSAURUS_MAN"
+msgid ""
+"[CASTE_NAME:pachycephalosaurus woman:pachycephalosaurus "
+"women:pachycephalosaurus woman]"
+msgstr ""
+
+msgctxt "CREATURE:CRETACEOUS_PACHYCEPHALOSAURUS_MAN"
+msgid ""
+"[NAME:pachycephalosaurus man:pachycephalosaurus men:pachycephalosaurus man]"
+msgstr ""
+
+msgctxt "CREATURE:CRETACEOUS_PACHYCEPHALOSAURUS_MAN"
+msgid "[DESCRIPTION:A large dinosaur person with a thick domed head.]"
+msgstr ""
+
+msgctxt "CREATURE:CRETACEOUS_QUETZALCOATLUS"
+msgid ""
+"[DESCRIPTION:A large flying reptile with a long neck and beak.  It can soar "
+"at amazing speeds.]"
+msgstr ""
+
+msgctxt "CREATURE:CRETACEOUS_QUETZALCOATLUS"
+msgid "[NAME:quetzalcoatlus:quetzalcoatlus:quetzalcoatlus]"
+msgstr ""
+
+msgctxt "CREATURE:CRETACEOUS_QUETZALCOATLUS"
+msgid "[CASTE_NAME:quetzalcoatlus:quetzalcoatlus:quetzalcoatlus]"
+msgstr ""
+
+msgctxt "CREATURE:CRETACEOUS_QUETZALCOATLUS"
+msgid ""
+"[GENERAL_CHILD_NAME:quetzalcoatlus hatchling:quetzalcoatlus hatchlings]"
+msgstr ""
+
+msgctxt "CREATURE:CRETACEOUS_QUETZALCOATLUS"
+msgid "[PREFSTRING:speed]"
+msgstr ""
+
+msgctxt "CREATURE:CRETACEOUS_QUETZALCOATLUS"
+msgid "[PREFSTRING:wingspan]"
+msgstr ""
+
+msgctxt "CREATURE:CRETACEOUS_QUETZALCOATLUS"
+msgid "[ATTACK_VERB:bite:bites]"
+msgstr ""
+
+msgctxt "CREATURE:CRETACEOUS_QUETZALCOATLUS"
+msgid "[ATTACK_VERB:snatch at:snatches at]"
+msgstr ""
+
+msgctxt "CREATURE:CRETACEOUS_QUETZALCOATLUS"
+msgid "[TLCM_NOUN:hair:PLURAL]"
+msgstr ""
+
+msgctxt "CREATURE:CRETACEOUS_QUETZALCOATLUS"
+msgid "[TLCM_NOUN:skin:SINGULAR]"
+msgstr ""
+
+msgctxt "CREATURE:CRETACEOUS_QUETZALCOATLUS"
+msgid "[TLCM_NOUN:eyes:PLURAL]"
+msgstr ""
+
+msgctxt "CREATURE:CRETACEOUS_QUETZALCOATLUS_MAN"
+msgid "[CASTE_NAME:quetzalcoatlus man:quetzalcoatlus men:quetzalcoatlus man]"
+msgstr ""
+
+msgctxt "CREATURE:CRETACEOUS_QUETZALCOATLUS_MAN"
+msgid ""
+"[CASTE_NAME:quetzalcoatlus woman:quetzalcoatlus women:quetzalcoatlus woman]"
+msgstr ""
+
+msgctxt "CREATURE:CRETACEOUS_QUETZALCOATLUS_MAN"
+msgid "[NAME:quetzalcoatlus man:quetzalcoatlus men:quetzalcoatlus man]"
+msgstr ""
+
+msgctxt "CREATURE:CRETACEOUS_QUETZALCOATLUS_MAN"
+msgid "[DESCRIPTION:A large flying reptile person with a long neck and beak.]"
+msgstr ""
+
+msgctxt "CREATURE:CRETACEOUS_COLEPIOCEPHALE"
+msgid ""
+"[DESCRIPTION:A very small bipedal herbivorous dinosaur with a thick domed "
+"head.]"
+msgstr ""
+
+msgctxt "CREATURE:CRETACEOUS_COLEPIOCEPHALE"
+msgid "[NAME:colepiocephale:colepiocephale:colepiocephale]"
+msgstr ""
+
+msgctxt "CREATURE:CRETACEOUS_COLEPIOCEPHALE"
+msgid "[CASTE_NAME:colepiocephale:colepiocephale:colepiocephale]"
+msgstr ""
+
+msgctxt "CREATURE:CRETACEOUS_COLEPIOCEPHALE"
+msgid ""
+"[GENERAL_CHILD_NAME:colepiocephale hatchling:colepiocephale hatchlings]"
+msgstr ""
+
+msgctxt "CREATURE:CRETACEOUS_COLEPIOCEPHALE"
+msgid "[PREFSTRING:dome]"
+msgstr ""
+
+msgctxt "CREATURE:CRETACEOUS_COLEPIOCEPHALE"
+msgid "[ATTACK_VERB:bite:bites]"
+msgstr ""
+
+msgctxt "CREATURE:CRETACEOUS_COLEPIOCEPHALE"
+msgid "[ATTACK_VERB:scratch:scratches]"
+msgstr ""
+
+msgctxt "CREATURE:CRETACEOUS_COLEPIOCEPHALE"
+msgid "[ATTACK_VERB:kick:kicks]"
+msgstr ""
+
+msgctxt "CREATURE:CRETACEOUS_COLEPIOCEPHALE"
+msgid "[ATTACK_VERB:slap:slaps]"
+msgstr ""
+
+msgctxt "CREATURE:CRETACEOUS_COLEPIOCEPHALE"
+msgid "[TLCM_NOUN:scales:PLURAL]"
+msgstr ""
+
+msgctxt "CREATURE:CRETACEOUS_COLEPIOCEPHALE"
+msgid "[TLCM_NOUN:eyes:PLURAL]"
+msgstr ""
+
+msgctxt "CREATURE:CRETACEOUS_COLEPIOCEPHALE_MAN"
+msgid "[CASTE_NAME:colepiocephale man:colepiocephale men:colepiocephale man]"
+msgstr ""
+
+msgctxt "CREATURE:CRETACEOUS_COLEPIOCEPHALE_MAN"
+msgid ""
+"[CASTE_NAME:colepiocephale woman:colepiocephale women:colepiocephale woman]"
+msgstr ""
+
+msgctxt "CREATURE:CRETACEOUS_COLEPIOCEPHALE_MAN"
+msgid "[NAME:colepiocephale man:colepiocephale men:colepiocephale man]"
+msgstr ""
+
+msgctxt "CREATURE:CRETACEOUS_COLEPIOCEPHALE_MAN"
+msgid "[DESCRIPTION:A small dinosaur person with a thick domed head.]"
+msgstr ""
+
+msgctxt "CREATURE:CRETACEOUS_TSINTAOSAURUS"
+msgid ""
+"[DESCRIPTION:A huge bipedal herbivorous dinosaur with a prominent head crest"
+" and a beaked mouth.]"
+msgstr ""
+
+msgctxt "CREATURE:CRETACEOUS_TSINTAOSAURUS"
+msgid "[NAME:tsintaosaurus:tsintaosaurus:tsintaosaurus]"
+msgstr ""
+
+msgctxt "CREATURE:CRETACEOUS_TSINTAOSAURUS"
+msgid "[CASTE_NAME:tsintaosaurus:tsintaosaurus:tsintaosaurus]"
+msgstr ""
+
+msgctxt "CREATURE:CRETACEOUS_TSINTAOSAURUS"
+msgid "[GENERAL_CHILD_NAME:tsintaosaurus hatchling:tsintaosaurus hatchlings]"
+msgstr ""
+
+msgctxt "CREATURE:CRETACEOUS_TSINTAOSAURUS"
+msgid "[PREFSTRING:crest]"
+msgstr ""
+
+msgctxt "CREATURE:CRETACEOUS_TSINTAOSAURUS"
+msgid "[ATTACK_VERB:bite:bites]"
+msgstr ""
+
+msgctxt "CREATURE:CRETACEOUS_TSINTAOSAURUS"
+msgid "[ATTACK_VERB:scratch:scratches]"
+msgstr ""
+
+msgctxt "CREATURE:CRETACEOUS_TSINTAOSAURUS"
+msgid "[ATTACK_VERB:kick:kicks]"
+msgstr ""
+
+msgctxt "CREATURE:CRETACEOUS_TSINTAOSAURUS"
+msgid "[ATTACK_VERB:slap:slaps]"
+msgstr ""
+
+msgctxt "CREATURE:CRETACEOUS_TSINTAOSAURUS"
+msgid "[TLCM_NOUN:scales:PLURAL]"
+msgstr ""
+
+msgctxt "CREATURE:CRETACEOUS_TSINTAOSAURUS"
+msgid "[TLCM_NOUN:eyes:PLURAL]"
+msgstr ""
+
+msgctxt "CREATURE:CRETACEOUS_TSINTAOSAURUS_MAN"
+msgid "[CASTE_NAME:tsintaosaurus man:tsintaosaurus men:tsintaosaurus man]"
+msgstr ""
+
+msgctxt "CREATURE:CRETACEOUS_TSINTAOSAURUS_MAN"
+msgid ""
+"[CASTE_NAME:tsintaosaurus woman:tsintaosaurus women:tsintaosaurus woman]"
+msgstr ""
+
+msgctxt "CREATURE:CRETACEOUS_TSINTAOSAURUS_MAN"
+msgid "[NAME:tsintaosaurus man:tsintaosaurus men:tsintaosaurus man]"
+msgstr ""
+
+msgctxt "CREATURE:CRETACEOUS_TSINTAOSAURUS_MAN"
+msgid ""
+"[DESCRIPTION:A large dinosaur person with a beaked mouth and a prominent "
+"head crest.]"
+msgstr ""
+
+msgctxt "CREATURE:CRETACEOUS_THERIZINOSAURUS"
+msgid ""
+"[DESCRIPTION:A huge feathered bipedal dinosaur with three gigantic claws on "
+"each hand.  It is a herbivore with a beaked mouth.]"
+msgstr ""
+
+msgctxt "CREATURE:CRETACEOUS_THERIZINOSAURUS"
+msgid "[NAME:therizinosaurus:therizinosaurus:therizinosaurus]"
+msgstr ""
+
+msgctxt "CREATURE:CRETACEOUS_THERIZINOSAURUS"
+msgid "[CASTE_NAME:therizinosaurus:therizinosaurus:therizinosaurus]"
+msgstr ""
+
+msgctxt "CREATURE:CRETACEOUS_THERIZINOSAURUS"
+msgid ""
+"[GENERAL_CHILD_NAME:therizinosaurus hatchling:therizinosaurus hatchlings]"
+msgstr ""
+
+msgctxt "CREATURE:CRETACEOUS_THERIZINOSAURUS"
+msgid "[PREFSTRING:giant claws]"
+msgstr ""
+
+msgctxt "CREATURE:CRETACEOUS_THERIZINOSAURUS"
+msgid "[PREFSTRING:feathers]"
+msgstr ""
+
+msgctxt "CREATURE:CRETACEOUS_THERIZINOSAURUS"
+msgid "[ATTACK_VERB:bite:bites]"
+msgstr ""
+
+msgctxt "CREATURE:CRETACEOUS_THERIZINOSAURUS"
+msgid "[ATTACK_VERB:scratch:scratches]"
+msgstr ""
+
+msgctxt "CREATURE:CRETACEOUS_THERIZINOSAURUS"
+msgid "[ATTACK_VERB:kick:kicks]"
+msgstr ""
+
+msgctxt "CREATURE:CRETACEOUS_THERIZINOSAURUS"
+msgid "[TLCM_NOUN:feathers:PLURAL]"
+msgstr ""
+
+msgctxt "CREATURE:CRETACEOUS_THERIZINOSAURUS"
+msgid "[TLCM_NOUN:scales:PLURAL]"
+msgstr ""
+
+msgctxt "CREATURE:CRETACEOUS_THERIZINOSAURUS"
+msgid "[TLCM_NOUN:eyes:PLURAL]"
+msgstr ""
+
+msgctxt "CREATURE:CRETACEOUS_THERIZINOSAURUS_MAN"
+msgid ""
+"[CASTE_NAME:therizinosaurus man:therizinosaurus men:therizinosaurus man]"
+msgstr ""
+
+msgctxt "CREATURE:CRETACEOUS_THERIZINOSAURUS_MAN"
+msgid ""
+"[CASTE_NAME:therizinosaurus woman:therizinosaurus women:therizinosaurus "
+"woman]"
+msgstr ""
+
+msgctxt "CREATURE:CRETACEOUS_THERIZINOSAURUS_MAN"
+msgid "[NAME:therizinosaurus man:therizinosaurus men:therizinosaurus man]"
+msgstr ""
+
+msgctxt "CREATURE:CRETACEOUS_THERIZINOSAURUS_MAN"
+msgid ""
+"[DESCRIPTION:A very large feathered dinosaur person with three giant claws "
+"on each hand.]"
+msgstr ""
+
+msgctxt "CREATURE:CRETACEOUS_SUZHOUSAURUS"
+msgid ""
+"[DESCRIPTION:A huge feathered bipedal dinosaur with three gigantic claws on "
+"each hand.  It is a herbivore with a beaked mouth.]"
+msgstr ""
+
+msgctxt "CREATURE:CRETACEOUS_SUZHOUSAURUS"
+msgid "[NAME:suzhousaurus:suzhousaurus:suzhousaurus]"
+msgstr ""
+
+msgctxt "CREATURE:CRETACEOUS_SUZHOUSAURUS"
+msgid "[CASTE_NAME:suzhousaurus:suzhousaurus:suzhousaurus]"
+msgstr ""
+
+msgctxt "CREATURE:CRETACEOUS_SUZHOUSAURUS"
+msgid "[GENERAL_CHILD_NAME:suzhousaurus hatchling:suzhousaurus hatchlings]"
+msgstr ""
+
+msgctxt "CREATURE:CRETACEOUS_SUZHOUSAURUS"
+msgid "[PREFSTRING:giant claws]"
+msgstr ""
+
+msgctxt "CREATURE:CRETACEOUS_SUZHOUSAURUS"
+msgid "[PREFSTRING:feathers]"
+msgstr ""
+
+msgctxt "CREATURE:CRETACEOUS_SUZHOUSAURUS"
+msgid "[ATTACK_VERB:bite:bites]"
+msgstr ""
+
+msgctxt "CREATURE:CRETACEOUS_SUZHOUSAURUS"
+msgid "[ATTACK_VERB:scratch:scratches]"
+msgstr ""
+
+msgctxt "CREATURE:CRETACEOUS_SUZHOUSAURUS"
+msgid "[ATTACK_VERB:kick:kicks]"
+msgstr ""
+
+msgctxt "CREATURE:CRETACEOUS_SUZHOUSAURUS"
+msgid "[TLCM_NOUN:feathers:PLURAL]"
+msgstr ""
+
+msgctxt "CREATURE:CRETACEOUS_SUZHOUSAURUS"
+msgid "[TLCM_NOUN:scales:PLURAL]"
+msgstr ""
+
+msgctxt "CREATURE:CRETACEOUS_SUZHOUSAURUS"
+msgid "[TLCM_NOUN:eyes:PLURAL]"
+msgstr ""
+
+msgctxt "CREATURE:CRETACEOUS_SUZHOUSAURUS_MAN"
+msgid "[CASTE_NAME:suzhousaurus man:suzhousaurus men:suzhousaurus man]"
+msgstr ""
+
+msgctxt "CREATURE:CRETACEOUS_SUZHOUSAURUS_MAN"
+msgid "[CASTE_NAME:suzhousaurus woman:suzhousaurus women:suzhousaurus woman]"
+msgstr ""
+
+msgctxt "CREATURE:CRETACEOUS_SUZHOUSAURUS_MAN"
+msgid "[NAME:suzhousaurus man:suzhousaurus men:suzhousaurus man]"
+msgstr ""
+
+msgctxt "CREATURE:CRETACEOUS_SUZHOUSAURUS_MAN"
+msgid ""
+"[DESCRIPTION:A very large feathered dinosaur person with three giant claws "
+"on each hand.]"
+msgstr ""
+
+msgctxt "CREATURE:CRETACEOUS_NOTHRONYCHUS"
+msgid ""
+"[DESCRIPTION:A huge feathered bipedal dinosaur with three gigantic claws on "
+"each hand.  It is a herbivore with a beaked mouth.]"
+msgstr ""
+
+msgctxt "CREATURE:CRETACEOUS_NOTHRONYCHUS"
+msgid "[NAME:nothronychus:nothronychus:nothronychus]"
+msgstr ""
+
+msgctxt "CREATURE:CRETACEOUS_NOTHRONYCHUS"
+msgid "[CASTE_NAME:nothronychus:nothronychus:nothronychus]"
+msgstr ""
+
+msgctxt "CREATURE:CRETACEOUS_NOTHRONYCHUS"
+msgid "[GENERAL_CHILD_NAME:nothronychus hatchling:nothronychus hatchlings]"
+msgstr ""
+
+msgctxt "CREATURE:CRETACEOUS_NOTHRONYCHUS"
+msgid "[PREFSTRING:giant claws]"
+msgstr ""
+
+msgctxt "CREATURE:CRETACEOUS_NOTHRONYCHUS"
+msgid "[PREFSTRING:feathers]"
+msgstr ""
+
+msgctxt "CREATURE:CRETACEOUS_NOTHRONYCHUS"
+msgid "[ATTACK_VERB:bite:bites]"
+msgstr ""
+
+msgctxt "CREATURE:CRETACEOUS_NOTHRONYCHUS"
+msgid "[ATTACK_VERB:scratch:scratches]"
+msgstr ""
+
+msgctxt "CREATURE:CRETACEOUS_NOTHRONYCHUS"
+msgid "[ATTACK_VERB:kick:kicks]"
+msgstr ""
+
+msgctxt "CREATURE:CRETACEOUS_NOTHRONYCHUS"
+msgid "[TLCM_NOUN:feathers:PLURAL]"
+msgstr ""
+
+msgctxt "CREATURE:CRETACEOUS_NOTHRONYCHUS"
+msgid "[TLCM_NOUN:scales:PLURAL]"
+msgstr ""
+
+msgctxt "CREATURE:CRETACEOUS_NOTHRONYCHUS"
+msgid "[TLCM_NOUN:eyes:PLURAL]"
+msgstr ""
+
+msgctxt "CREATURE:CRETACEOUS_NOTHRONYCHUS_MAN"
+msgid "[CASTE_NAME:nothronychus man:nothronychus men:nothronychus man]"
+msgstr ""
+
+msgctxt "CREATURE:CRETACEOUS_NOTHRONYCHUS_MAN"
+msgid "[CASTE_NAME:nothronychus woman:nothronychus women:nothronychus woman]"
+msgstr ""
+
+msgctxt "CREATURE:CRETACEOUS_NOTHRONYCHUS_MAN"
+msgid "[NAME:nothronychus man:nothronychus men:nothronychus man]"
+msgstr ""
+
+msgctxt "CREATURE:CRETACEOUS_NOTHRONYCHUS_MAN"
+msgid ""
+"[DESCRIPTION:A very large feathered dinosaur person with three giant claws "
+"on each hand.]"
+msgstr ""
+
+msgctxt "CREATURE:CRETACEOUS_CARNOTAURUS"
+msgid ""
+"[DESCRIPTION:A huge bipedal dinosaur with a giant biting jaw and short arms."
+"  It has two small horns over its eyes.]"
+msgstr ""
+
+msgctxt "CREATURE:CRETACEOUS_CARNOTAURUS"
+msgid "[NAME:carnotaurus:carnotaurus:carnotaurus]"
+msgstr ""
+
+msgctxt "CREATURE:CRETACEOUS_CARNOTAURUS"
+msgid "[CASTE_NAME:carnotaurus:carnotaurus:carnotaurus]"
+msgstr ""
+
+msgctxt "CREATURE:CRETACEOUS_CARNOTAURUS"
+msgid "[GENERAL_CHILD_NAME:carnotaurus hatchling:carnotaurus hatchlings]"
+msgstr ""
+
+msgctxt "CREATURE:CRETACEOUS_CARNOTAURUS"
+msgid "[PREFSTRING:eye horns]"
+msgstr ""
+
+msgctxt "CREATURE:CRETACEOUS_CARNOTAURUS"
+msgid "[ATTACK_VERB:bite:bites]"
+msgstr ""
+
+msgctxt "CREATURE:CRETACEOUS_CARNOTAURUS"
+msgid "[ATTACK_VERB:scratch:scratches]"
+msgstr ""
+
+msgctxt "CREATURE:CRETACEOUS_CARNOTAURUS"
+msgid "[ATTACK_VERB:kick:kicks]"
+msgstr ""
+
+msgctxt "CREATURE:CRETACEOUS_CARNOTAURUS"
+msgid "[ATTACK_VERB:slap:slaps]"
+msgstr ""
+
+msgctxt "CREATURE:CRETACEOUS_CARNOTAURUS"
+msgid "[TLCM_NOUN:scales:PLURAL]"
+msgstr ""
+
+msgctxt "CREATURE:CRETACEOUS_CARNOTAURUS"
+msgid "[TLCM_NOUN:eyes:PLURAL]"
+msgstr ""
+
+msgctxt "CREATURE:CRETACEOUS_CARNOTAURUS_MAN"
+msgid "[CASTE_NAME:carnotaurus man:carnotaurus men:carnotaurus man]"
+msgstr ""
+
+msgctxt "CREATURE:CRETACEOUS_CARNOTAURUS_MAN"
+msgid "[CASTE_NAME:carnotaurus woman:carnotaurus women:carnotaurus woman]"
+msgstr ""
+
+msgctxt "CREATURE:CRETACEOUS_CARNOTAURUS_MAN"
+msgid "[NAME:carnotaurus man:carnotaurus men:carnotaurus man]"
+msgstr ""
+
+msgctxt "CREATURE:CRETACEOUS_CARNOTAURUS_MAN"
+msgid ""
+"[DESCRIPTION:A large dinosaur person with a fierce jaw, short arms, and "
+"small horns over their eyes.]"
+msgstr ""
+
+msgctxt "CREATURE:CRETACEOUS_SPINOSAURUS_AEGYPTIACUS"
+msgid ""
+"[DESCRIPTION:A gigantic bipedal dinosaur with a ferocious biting jaw and "
+"short arms.  It is amphibious and has a sail.]"
+msgstr ""
+
+msgctxt "CREATURE:CRETACEOUS_SPINOSAURUS_AEGYPTIACUS"
+msgid ""
+"[NAME:spinosaurus aegyptiacus:spinosaurus aegyptiacus:spinosaurus "
+"aegyptiacus]"
+msgstr ""
+
+msgctxt "CREATURE:CRETACEOUS_SPINOSAURUS_AEGYPTIACUS"
+msgid ""
+"[CASTE_NAME:spinosaurus aegyptiacus:spinosaurus aegyptiacus:spinosaurus "
+"aegyptiacus]"
+msgstr ""
+
+msgctxt "CREATURE:CRETACEOUS_SPINOSAURUS_AEGYPTIACUS"
+msgid ""
+"[GENERAL_CHILD_NAME:spinosaurus aegyptiacus hatchling:spinosaurus "
+"aegyptiacus hatchlings]"
+msgstr ""
+
+msgctxt "CREATURE:CRETACEOUS_SPINOSAURUS_AEGYPTIACUS"
+msgid "[PREFSTRING:sail]"
+msgstr ""
+
+msgctxt "CREATURE:CRETACEOUS_SPINOSAURUS_AEGYPTIACUS"
+msgid "[ATTACK_VERB:bite:bites]"
+msgstr ""
+
+msgctxt "CREATURE:CRETACEOUS_SPINOSAURUS_AEGYPTIACUS"
+msgid "[ATTACK_VERB:scratch:scratches]"
+msgstr ""
+
+msgctxt "CREATURE:CRETACEOUS_SPINOSAURUS_AEGYPTIACUS"
+msgid "[ATTACK_VERB:kick:kicks]"
+msgstr ""
+
+msgctxt "CREATURE:CRETACEOUS_SPINOSAURUS_AEGYPTIACUS"
+msgid "[ATTACK_VERB:slap:slaps]"
+msgstr ""
+
+msgctxt "CREATURE:CRETACEOUS_SPINOSAURUS_AEGYPTIACUS"
+msgid "[TLCM_NOUN:scales:PLURAL]"
+msgstr ""
+
+msgctxt "CREATURE:CRETACEOUS_SPINOSAURUS_AEGYPTIACUS"
+msgid "[TLCM_NOUN:eyes:PLURAL]"
+msgstr ""
+
+msgctxt "CREATURE:CRETACEOUS_SPINOSAURUS_AEGYPTIACUS_MAN"
+msgid ""
+"[CASTE_NAME:spinosaurus aegyptiacus man:spinosaurus aegyptiacus "
+"men:spinosaurus aegyptiacus man]"
+msgstr ""
+
+msgctxt "CREATURE:CRETACEOUS_SPINOSAURUS_AEGYPTIACUS_MAN"
+msgid ""
+"[CASTE_NAME:spinosaurus aegyptiacus woman:spinosaurus aegyptiacus "
+"women:spinosaurus aegyptiacus woman]"
+msgstr ""
+
+msgctxt "CREATURE:CRETACEOUS_SPINOSAURUS_AEGYPTIACUS_MAN"
+msgid ""
+"[NAME:spinosaurus aegyptiacus man:spinosaurus aegyptiacus men:spinosaurus "
+"aegyptiacus man]"
+msgstr ""
+
+msgctxt "CREATURE:CRETACEOUS_SPINOSAURUS_AEGYPTIACUS_MAN"
+msgid ""
+"[DESCRIPTION:A very large dinosaur person with a ferocious jaw, short arms, "
+"and a sail.]"
+msgstr ""
+
+msgctxt "CREATURE:CRETACEOUS_TYRANNOSAURUS"
+msgid ""
+"[DESCRIPTION:A gigantic bipedal dinosaur with a mighty jaw and very short "
+"arms with two claws.]"
+msgstr ""
+
+msgctxt "CREATURE:CRETACEOUS_TYRANNOSAURUS"
+msgid "[NAME:tyrannosaurus:tyrannosaurus:tyrannosaurus]"
+msgstr ""
+
+msgctxt "CREATURE:CRETACEOUS_TYRANNOSAURUS"
+msgid "[CASTE_NAME:tyrannosaurus:tyrannosaurus:tyrannosaurus]"
+msgstr ""
+
+msgctxt "CREATURE:CRETACEOUS_TYRANNOSAURUS"
+msgid "[GENERAL_CHILD_NAME:tyrannosaurus hatchling:tyrannosaurus hatchlings]"
+msgstr ""
+
+msgctxt "CREATURE:CRETACEOUS_TYRANNOSAURUS"
+msgid "[PREFSTRING:jaws]"
+msgstr ""
+
+msgctxt "CREATURE:CRETACEOUS_TYRANNOSAURUS"
+msgid "[PREFSTRING:tiny arms]"
+msgstr ""
+
+msgctxt "CREATURE:CRETACEOUS_TYRANNOSAURUS"
+msgid "[ATTACK_VERB:bite:bites]"
+msgstr ""
+
+msgctxt "CREATURE:CRETACEOUS_TYRANNOSAURUS"
+msgid "[ATTACK_VERB:scratch:scratches]"
+msgstr ""
+
+msgctxt "CREATURE:CRETACEOUS_TYRANNOSAURUS"
+msgid "[ATTACK_VERB:kick:kicks]"
+msgstr ""
+
+msgctxt "CREATURE:CRETACEOUS_TYRANNOSAURUS"
+msgid "[ATTACK_VERB:slap:slaps]"
+msgstr ""
+
+msgctxt "CREATURE:CRETACEOUS_TYRANNOSAURUS"
+msgid "[TLCM_NOUN:scales:PLURAL]"
+msgstr ""
+
+msgctxt "CREATURE:CRETACEOUS_TYRANNOSAURUS"
+msgid "[TLCM_NOUN:eyes:PLURAL]"
+msgstr ""
+
+msgctxt "CREATURE:CRETACEOUS_TYRANNOSAURUS_MAN"
+msgid "[CASTE_NAME:tyrannosaurus man:tyrannosaurus men:tyrannosaurus man]"
+msgstr ""
+
+msgctxt "CREATURE:CRETACEOUS_TYRANNOSAURUS_MAN"
+msgid ""
+"[CASTE_NAME:tyrannosaurus woman:tyrannosaurus women:tyrannosaurus woman]"
+msgstr ""
+
+msgctxt "CREATURE:CRETACEOUS_TYRANNOSAURUS_MAN"
+msgid "[NAME:tyrannosaurus man:tyrannosaurus men:tyrannosaurus man]"
+msgstr ""
+
+msgctxt "CREATURE:CRETACEOUS_TYRANNOSAURUS_MAN"
+msgid ""
+"[DESCRIPTION:A very large dinosaur person with a mighty jaw and very short "
+"arms with two fingers.]"
+msgstr ""
+
+msgctxt "CREATURE:CRETACEOUS_AMARGASAURUS"
+msgid ""
+"[DESCRIPTION:A huge herbivorous quadrupedal dinosaur with a long neck and "
+"sail along its neck.]"
+msgstr ""
+
+msgctxt "CREATURE:CRETACEOUS_AMARGASAURUS"
+msgid "[NAME:amargasaurus:amargasaurus:amargasaurus]"
+msgstr ""
+
+msgctxt "CREATURE:CRETACEOUS_AMARGASAURUS"
+msgid "[CASTE_NAME:amargasaurus:amargasaurus:amargasaurus]"
+msgstr ""
+
+msgctxt "CREATURE:CRETACEOUS_AMARGASAURUS"
+msgid "[GENERAL_CHILD_NAME:amargasaurus hatchling:amargasaurus hatchlings]"
+msgstr ""
+
+msgctxt "CREATURE:CRETACEOUS_AMARGASAURUS"
+msgid "[PREFSTRING:long necks]"
+msgstr ""
+
+msgctxt "CREATURE:CRETACEOUS_AMARGASAURUS"
+msgid "[PREFSTRING:sails]"
+msgstr ""
+
+msgctxt "CREATURE:CRETACEOUS_AMARGASAURUS"
+msgid "[ATTACK_VERB:bite:bites]"
+msgstr ""
+
+msgctxt "CREATURE:CRETACEOUS_AMARGASAURUS"
+msgid "[TLCM_NOUN:scales:PLURAL]"
+msgstr ""
+
+msgctxt "CREATURE:CRETACEOUS_AMARGASAURUS"
+msgid "[TLCM_NOUN:eyes:PLURAL]"
+msgstr ""
+
+msgctxt "CREATURE:CRETACEOUS_AMARGASAURUS_MAN"
+msgid "[CASTE_NAME:amargasaurus man:amargasaurus men:amargasaurus man]"
+msgstr ""
+
+msgctxt "CREATURE:CRETACEOUS_AMARGASAURUS_MAN"
+msgid "[CASTE_NAME:amargasaurus woman:amargasaurus women:amargasaurus woman]"
+msgstr ""
+
+msgctxt "CREATURE:CRETACEOUS_AMARGASAURUS_MAN"
+msgid "[NAME:amargasaurus man:amargasaurus men:amargasaurus man]"
+msgstr ""
+
+msgctxt "CREATURE:CRETACEOUS_AMARGASAURUS_MAN"
+msgid ""
+"[DESCRIPTION:A large dinosaur person with a long neck that has a sail.]"
+msgstr ""
+
+msgctxt "CREATURE:CRETACEOUS_OVIRAPTOR"
+msgid "[DESCRIPTION:A small feathered bipedal dinosaur with a beak.]"
+msgstr ""
+
+msgctxt "CREATURE:CRETACEOUS_OVIRAPTOR"
+msgid "[NAME:oviraptor:oviraptor:oviraptor]"
+msgstr ""
+
+msgctxt "CREATURE:CRETACEOUS_OVIRAPTOR"
+msgid "[CASTE_NAME:oviraptor:oviraptor:oviraptor]"
+msgstr ""
+
+msgctxt "CREATURE:CRETACEOUS_OVIRAPTOR"
+msgid "[GENERAL_CHILD_NAME:oviraptor hatchling:oviraptor hatchlings]"
+msgstr ""
+
+msgctxt "CREATURE:CRETACEOUS_OVIRAPTOR"
+msgid "[PREFSTRING:beaks]"
+msgstr ""
+
+msgctxt "CREATURE:CRETACEOUS_OVIRAPTOR"
+msgid "[PREFSTRING:feathers]"
+msgstr ""
+
+msgctxt "CREATURE:CRETACEOUS_OVIRAPTOR"
+msgid "[PREFSTRING:parenting]"
+msgstr ""
+
+msgctxt "CREATURE:CRETACEOUS_OVIRAPTOR"
+msgid "[ATTACK_VERB:bite:bites]"
+msgstr ""
+
+msgctxt "CREATURE:CRETACEOUS_OVIRAPTOR"
+msgid "[ATTACK_VERB:scratch:scratches]"
+msgstr ""
+
+msgctxt "CREATURE:CRETACEOUS_OVIRAPTOR"
+msgid "[ATTACK_VERB:kick:kicks]"
+msgstr ""
+
+msgctxt "CREATURE:CRETACEOUS_OVIRAPTOR"
+msgid "[TLCM_NOUN:feathers:PLURAL]"
+msgstr ""
+
+msgctxt "CREATURE:CRETACEOUS_OVIRAPTOR"
+msgid "[TLCM_NOUN:scales:PLURAL]"
+msgstr ""
+
+msgctxt "CREATURE:CRETACEOUS_OVIRAPTOR"
+msgid "[TLCM_NOUN:eyes:PLURAL]"
+msgstr ""
+
+msgctxt "CREATURE:CRETACEOUS_OVIRAPTOR_MAN"
+msgid "[CASTE_NAME:oviraptor man:oviraptor men:oviraptor man]"
+msgstr ""
+
+msgctxt "CREATURE:CRETACEOUS_OVIRAPTOR_MAN"
+msgid "[CASTE_NAME:oviraptor woman:oviraptor women:oviraptor woman]"
+msgstr ""
+
+msgctxt "CREATURE:CRETACEOUS_OVIRAPTOR_MAN"
+msgid "[NAME:oviraptor man:oviraptor men:oviraptor man]"
+msgstr ""
+
+msgctxt "CREATURE:CRETACEOUS_OVIRAPTOR_MAN"
+msgid "[DESCRIPTION:A small feathered dinosaur person with a beak.]"
+msgstr ""
+
+msgctxt "CREATURE:CRETACEOUS_SINOPTERUS"
+msgid "[DESCRIPTION:A very small flying reptile.]"
+msgstr ""
+
+msgctxt "CREATURE:CRETACEOUS_SINOPTERUS"
+msgid "[NAME:sinopterus:sinopterus:sinopterus]"
+msgstr ""
+
+msgctxt "CREATURE:CRETACEOUS_SINOPTERUS"
+msgid "[CASTE_NAME:sinopterus:sinopterus:sinopterus]"
+msgstr ""
+
+msgctxt "CREATURE:CRETACEOUS_SINOPTERUS"
+msgid "[GENERAL_CHILD_NAME:sinopterus hatchling:sinopterus hatchlings]"
+msgstr ""
+
+msgctxt "CREATURE:CRETACEOUS_SINOPTERUS"
+msgid "[PREFSTRING:wings]"
+msgstr ""
+
+msgctxt "CREATURE:CRETACEOUS_SINOPTERUS"
+msgid "[ATTACK_VERB:bite:bites]"
+msgstr ""
+
+msgctxt "CREATURE:CRETACEOUS_SINOPTERUS"
+msgid "[ATTACK_VERB:snatch at:snatches at]"
+msgstr ""
+
+msgctxt "CREATURE:CRETACEOUS_SINOPTERUS"
+msgid "[TLCM_NOUN:hair:PLURAL]"
+msgstr ""
+
+msgctxt "CREATURE:CRETACEOUS_SINOPTERUS"
+msgid "[TLCM_NOUN:skin:SINGULAR]"
+msgstr ""
+
+msgctxt "CREATURE:CRETACEOUS_SINOPTERUS"
+msgid "[TLCM_NOUN:eyes:PLURAL]"
+msgstr ""
+
+msgctxt "CREATURE:CRETACEOUS_SINOPTERUS_MAN"
+msgid "[CASTE_NAME:sinopterus man:sinopterus men:sinopterus man]"
+msgstr ""
+
+msgctxt "CREATURE:CRETACEOUS_SINOPTERUS_MAN"
+msgid "[CASTE_NAME:sinopterus woman:sinopterus women:sinopterus woman]"
+msgstr ""
+
+msgctxt "CREATURE:CRETACEOUS_SINOPTERUS_MAN"
+msgid "[NAME:sinopterus man:sinopterus men:sinopterus man]"
+msgstr ""
+
+msgctxt "CREATURE:CRETACEOUS_SINOPTERUS_MAN"
+msgid "[DESCRIPTION:A small flying reptile person.]"
+msgstr ""
+
+msgctxt "CREATURE:CRETACEOUS_SPINOSAURUS_MIRABILIS"
+msgid ""
+"[DESCRIPTION:A gigantic bipedal dinosaur with a ferocious biting jaw and "
+"short arms.  It is amphibious and has a sail and a horn.]"
+msgstr ""
+
+msgctxt "CREATURE:CRETACEOUS_SPINOSAURUS_MIRABILIS"
+msgid ""
+"[NAME:spinosaurus mirabilis:spinosaurus mirabilis:spinosaurus mirabilis]"
+msgstr ""
+
+msgctxt "CREATURE:CRETACEOUS_SPINOSAURUS_MIRABILIS"
+msgid ""
+"[CASTE_NAME:spinosaurus mirabilis:spinosaurus mirabilis:spinosaurus "
+"mirabilis]"
+msgstr ""
+
+msgctxt "CREATURE:CRETACEOUS_SPINOSAURUS_MIRABILIS"
+msgid ""
+"[GENERAL_CHILD_NAME:spinosaurus mirabilis hatchling:spinosaurus mirabilis "
+"hatchlings]"
+msgstr ""
+
+msgctxt "CREATURE:CRETACEOUS_SPINOSAURUS_MIRABILIS"
+msgid "[PREFSTRING:horn]"
+msgstr ""
+
+msgctxt "CREATURE:CRETACEOUS_SPINOSAURUS_MIRABILIS"
+msgid "[PREFSTRING:sail]"
+msgstr ""
+
+msgctxt "CREATURE:CRETACEOUS_SPINOSAURUS_MIRABILIS"
+msgid "[ATTACK_VERB:bite:bites]"
+msgstr ""
+
+msgctxt "CREATURE:CRETACEOUS_SPINOSAURUS_MIRABILIS"
+msgid "[ATTACK_VERB:scratch:scratches]"
+msgstr ""
+
+msgctxt "CREATURE:CRETACEOUS_SPINOSAURUS_MIRABILIS"
+msgid "[ATTACK_VERB:kick:kicks]"
+msgstr ""
+
+msgctxt "CREATURE:CRETACEOUS_SPINOSAURUS_MIRABILIS"
+msgid "[ATTACK_VERB:slap:slaps]"
+msgstr ""
+
+msgctxt "CREATURE:CRETACEOUS_SPINOSAURUS_MIRABILIS"
+msgid "[ATTACK_VERB:gore:gores]"
+msgstr ""
+
+msgctxt "CREATURE:CRETACEOUS_SPINOSAURUS_MIRABILIS"
+msgid "[TLCM_NOUN:scales:PLURAL]"
+msgstr ""
+
+msgctxt "CREATURE:CRETACEOUS_SPINOSAURUS_MIRABILIS"
+msgid "[TLCM_NOUN:eyes:PLURAL]"
+msgstr ""
+
+msgctxt "CREATURE:CRETACEOUS_SPINOSAURUS_MIRABILIS_MAN"
+msgid ""
+"[CASTE_NAME:spinosaurus mirabilis man:spinosaurus mirabilis men:spinosaurus "
+"mirabilis man]"
+msgstr ""
+
+msgctxt "CREATURE:CRETACEOUS_SPINOSAURUS_MIRABILIS_MAN"
+msgid ""
+"[CASTE_NAME:spinosaurus mirabilis woman:spinosaurus mirabilis "
+"women:spinosaurus mirabilis woman]"
+msgstr ""
+
+msgctxt "CREATURE:CRETACEOUS_SPINOSAURUS_MIRABILIS_MAN"
+msgid ""
+"[NAME:spinosaurus mirabilis man:spinosaurus mirabilis men:spinosaurus "
+"mirabilis man]"
+msgstr ""
+
+msgctxt "CREATURE:CRETACEOUS_SPINOSAURUS_MIRABILIS_MAN"
+msgid ""
+"[DESCRIPTION:A very large dinosaur person with a ferocious jaw, short arms, "
+"a sail and a horn.]"
+msgstr ""
+
+msgctxt "CREATURE:CRETACEOUS_HYPSILOPHODON"
+msgid ""
+"[DESCRIPTION:A very small feathered bipedal dinosaur with an opposable fifth"
+" finger.  It is a herbivore and has a beaked mouth.]"
+msgstr ""
+
+msgctxt "CREATURE:CRETACEOUS_HYPSILOPHODON"
+msgid "[NAME:hypsilophodon:hypsilophodon:hypsilophodon]"
+msgstr ""
+
+msgctxt "CREATURE:CRETACEOUS_HYPSILOPHODON"
+msgid "[CASTE_NAME:hypsilophodon:hypsilophodon:hypsilophodon]"
+msgstr ""
+
+msgctxt "CREATURE:CRETACEOUS_HYPSILOPHODON"
+msgid "[GENERAL_CHILD_NAME:hypsilophodon hatchling:hypsilophodon hatchlings]"
+msgstr ""
+
+msgctxt "CREATURE:CRETACEOUS_HYPSILOPHODON"
+msgid "[PREFSTRING:feathers]"
+msgstr ""
+
+msgctxt "CREATURE:CRETACEOUS_HYPSILOPHODON"
+msgid "[ATTACK_VERB:bite:bites]"
+msgstr ""
+
+msgctxt "CREATURE:CRETACEOUS_HYPSILOPHODON"
+msgid "[ATTACK_VERB:scratch:scratches]"
+msgstr ""
+
+msgctxt "CREATURE:CRETACEOUS_HYPSILOPHODON"
+msgid "[ATTACK_VERB:kick:kicks]"
+msgstr ""
+
+msgctxt "CREATURE:CRETACEOUS_HYPSILOPHODON"
+msgid "[TLCM_NOUN:feathers:PLURAL]"
+msgstr ""
+
+msgctxt "CREATURE:CRETACEOUS_HYPSILOPHODON"
+msgid "[TLCM_NOUN:scales:PLURAL]"
+msgstr ""
+
+msgctxt "CREATURE:CRETACEOUS_HYPSILOPHODON"
+msgid "[TLCM_NOUN:eyes:PLURAL]"
+msgstr ""
+
+msgctxt "CREATURE:CRETACEOUS_HYPSILOPHODON_MAN"
+msgid "[CASTE_NAME:hypsilophodon man:hypsilophodon men:hypsilophodon man]"
+msgstr ""
+
+msgctxt "CREATURE:CRETACEOUS_HYPSILOPHODON_MAN"
+msgid ""
+"[CASTE_NAME:hypsilophodon woman:hypsilophodon women:hypsilophodon woman]"
+msgstr ""
+
+msgctxt "CREATURE:CRETACEOUS_HYPSILOPHODON_MAN"
+msgid "[NAME:hypsilophodon man:hypsilophodon men:hypsilophodon man]"
+msgstr ""
+
+msgctxt "CREATURE:CRETACEOUS_HYPSILOPHODON_MAN"
+msgid "[DESCRIPTION:A small feathered dinosaur person with a beaked mouth.]"
+msgstr ""
+
+msgctxt "CREATURE:CRETACEOUS_NODOSAURUS"
+msgid ""
+"[DESCRIPTION:A huge quadrupedal dinosaur with an armored carapace.  It is a "
+"herbivore.]"
+msgstr ""
+
+msgctxt "CREATURE:CRETACEOUS_NODOSAURUS"
+msgid "[NAME:nodosaurus:nodosaurus:nodosaurus]"
+msgstr ""
+
+msgctxt "CREATURE:CRETACEOUS_NODOSAURUS"
+msgid "[CASTE_NAME:nodosaurus:nodosaurus:nodosaurus]"
+msgstr ""
+
+msgctxt "CREATURE:CRETACEOUS_NODOSAURUS"
+msgid "[GENERAL_CHILD_NAME:nodosaurus hatchling:nodosaurus hatchlings]"
+msgstr ""
+
+msgctxt "CREATURE:CRETACEOUS_NODOSAURUS"
+msgid "[PREFSTRING:armored carapace]"
+msgstr ""
+
+msgctxt "CREATURE:CRETACEOUS_NODOSAURUS"
+msgid "[ATTACK_VERB:bite:bites]"
+msgstr ""
+
+msgctxt "CREATURE:CRETACEOUS_NODOSAURUS"
+msgid "[TLCM_NOUN:scales:PLURAL]"
+msgstr ""
+
+msgctxt "CREATURE:CRETACEOUS_NODOSAURUS"
+msgid "[TLCM_NOUN:eyes:PLURAL]"
+msgstr ""
+
+msgctxt "CREATURE:CRETACEOUS_NODOSAURUS_MAN"
+msgid "[CASTE_NAME:nodosaurus man:nodosaurus men:nodosaurus man]"
+msgstr ""
+
+msgctxt "CREATURE:CRETACEOUS_NODOSAURUS_MAN"
+msgid "[CASTE_NAME:nodosaurus woman:nodosaurus women:nodosaurus woman]"
+msgstr ""
+
+msgctxt "CREATURE:CRETACEOUS_NODOSAURUS_MAN"
+msgid "[NAME:nodosaurus man:nodosaurus men:nodosaurus man]"
+msgstr ""
+
+msgctxt "CREATURE:CRETACEOUS_NODOSAURUS_MAN"
+msgid "[DESCRIPTION:A large dinosaur person with an armored carapace.]"
+msgstr ""
+
+msgctxt "CREATURE:DEVONIAN_DUNKLEOSTEUS"
+msgid "[DESCRIPTION:A huge armored fish with powerful biting jaws.]"
+msgstr ""
+
+msgctxt "CREATURE:DEVONIAN_DUNKLEOSTEUS"
+msgid "[NAME:dunkleosteus:dunkleosteus:dunkleosteus]"
+msgstr ""
+
+msgctxt "CREATURE:DEVONIAN_DUNKLEOSTEUS"
+msgid "[CASTE_NAME:dunkleosteus:dunkleosteus:dunkleosteus]"
+msgstr ""
+
+msgctxt "CREATURE:DEVONIAN_DUNKLEOSTEUS"
+msgid "[GENERAL_CHILD_NAME:dunkleosteus fry:dunkleosteus fry]"
+msgstr ""
+
+msgctxt "CREATURE:DEVONIAN_DUNKLEOSTEUS"
+msgid "[PREFSTRING:bony scutes]"
+msgstr ""
+
+msgctxt "CREATURE:DEVONIAN_DUNKLEOSTEUS"
+msgid "[ATTACK_VERB:bite:bites]"
+msgstr ""
+
+msgctxt "CREATURE:DEVONIAN_DUNKLEOSTEUS"
+msgid "[ATTACK_VERB:slap:slaps]"
+msgstr ""
+
+msgctxt "CREATURE:DEVONIAN_DUNKLEOSTEUS"
+msgid "[TLCM_NOUN:scales:PLURAL]"
+msgstr ""
+
+msgctxt "CREATURE:DEVONIAN_DUNKLEOSTEUS"
+msgid "[TLCM_NOUN:eyes:PLURAL]"
+msgstr ""
+
+msgctxt "CREATURE:DEVONIAN_DUNKLEOSTEUS_MAN"
+msgid "[CASTE_NAME:dunkleosteus man:dunkleosteus men:dunkleosteus man]"
+msgstr ""
+
+msgctxt "CREATURE:DEVONIAN_DUNKLEOSTEUS_MAN"
+msgid "[CASTE_NAME:dunkleosteus woman:dunkleosteus women:dunkleosteus woman]"
+msgstr ""
+
+msgctxt "CREATURE:DEVONIAN_DUNKLEOSTEUS_MAN"
+msgid "[NAME:dunkleosteus man:dunkleosteus men:dunkleosteus man]"
+msgstr ""
+
+msgctxt "CREATURE:DEVONIAN_DUNKLEOSTEUS_MAN"
+msgid ""
+"[DESCRIPTION:A large legless armor-plated person with the powerful biting "
+"jaws of a dunkleosteus.]"
+msgstr ""
+
+msgctxt "CREATURE:DEVONIAN_TIKTAALIK"
+msgid ""
+"[DESCRIPTION:A small four-finned fish suited to short excursions ashore.]"
+msgstr ""
+
+msgctxt "CREATURE:DEVONIAN_TIKTAALIK"
+msgid "[NAME:tiktaalik:tiktaalik:tiktaalik]"
+msgstr ""
+
+msgctxt "CREATURE:DEVONIAN_TIKTAALIK"
+msgid "[CASTE_NAME:tiktaalik:tiktaalik:tiktaalik]"
+msgstr ""
+
+msgctxt "CREATURE:DEVONIAN_TIKTAALIK"
+msgid "[GENERAL_CHILD_NAME:tiktaalik pup:tiktaalik pups]"
+msgstr ""
+
+msgctxt "CREATURE:DEVONIAN_TIKTAALIK"
+msgid "[PREFSTRING:affinity for land]"
+msgstr ""
+
+msgctxt "CREATURE:DEVONIAN_TIKTAALIK"
+msgid "[PREFSTRING:fins]"
+msgstr ""
+
+msgctxt "CREATURE:DEVONIAN_TIKTAALIK"
+msgid "[ATTACK_VERB:bite:bites]"
+msgstr ""
+
+msgctxt "CREATURE:DEVONIAN_TIKTAALIK"
+msgid "[TLCM_NOUN:skin:SINGULAR]"
+msgstr ""
+
+msgctxt "CREATURE:DEVONIAN_TIKTAALIK"
+msgid "[TLCM_NOUN:eyes:PLURAL]"
+msgstr ""
+
+msgctxt "CREATURE:DEVONIAN_TIKTAALIK_MAN"
+msgid "[CASTE_NAME:tiktaalik man:tiktaalik men:tiktaalik man]"
+msgstr ""
+
+msgctxt "CREATURE:DEVONIAN_TIKTAALIK_MAN"
+msgid "[CASTE_NAME:tiktaalik woman:tiktaalik women:tiktaalik woman]"
+msgstr ""
+
+msgctxt "CREATURE:DEVONIAN_TIKTAALIK_MAN"
+msgid "[NAME:tiktaalik man:tiktaalik men:tiktaalik man]"
+msgstr ""
+
+msgctxt "CREATURE:DEVONIAN_TIKTAALIK_MAN"
+msgid ""
+"[DESCRIPTION:A small person somewhat like a fish and somewhat like an "
+"amphibian.]"
+msgstr ""
+
+msgctxt "CREATURE:DEVONIAN_HIBBERTOPTERUS_SCOULERI"
+msgid "[DESCRIPTION:An aquatic arthropod with a wide head and tapering body.]"
+msgstr ""
+
+msgctxt "CREATURE:DEVONIAN_HIBBERTOPTERUS_SCOULERI"
+msgid ""
+"[NAME:hibbertopterus scouleri:hibbertopterus scouleri:hibbertopterus "
+"scouleri]"
+msgstr ""
+
+msgctxt "CREATURE:DEVONIAN_HIBBERTOPTERUS_SCOULERI"
+msgid ""
+"[CASTE_NAME:hibbertopterus scouleri:hibbertopterus scouleri:hibbertopterus "
+"scouleri]"
+msgstr ""
+
+msgctxt "CREATURE:DEVONIAN_HIBBERTOPTERUS_SCOULERI"
+msgid ""
+"[GENERAL_CHILD_NAME:juvenile hibbertopterus scouleri:juvenile hibbertopterus"
+" scouleri]"
+msgstr ""
+
+msgctxt "CREATURE:DEVONIAN_HIBBERTOPTERUS_SCOULERI"
+msgid "[PREFSTRING:broad heads]"
+msgstr ""
+
+msgctxt "CREATURE:DEVONIAN_HIBBERTOPTERUS_SCOULERI"
+msgid "[TLCM_NOUN:chitin:SINGULAR]"
+msgstr ""
+
+msgctxt "CREATURE:DEVONIAN_HIBBERTOPTERUS_SCOULERI"
+msgid "[TLCM_NOUN:eyes:PLURAL]"
+msgstr ""
+
+msgctxt "CREATURE:DEVONIAN_HIBBERTOPTERUS_SCOULERI_MAN"
+msgid ""
+"[CASTE_NAME:hibbertopterus scouleri man:hibbertopterus scouleri "
+"men:hibbertopterus scouleri man]"
+msgstr ""
+
+msgctxt "CREATURE:DEVONIAN_HIBBERTOPTERUS_SCOULERI_MAN"
+msgid ""
+"[CASTE_NAME:hibbertopterus scouleri woman:hibbertopterus scouleri "
+"women:hibbertopterus scouleri woman]"
+msgstr ""
+
+msgctxt "CREATURE:DEVONIAN_HIBBERTOPTERUS_SCOULERI_MAN"
+msgid ""
+"[NAME:hibbertopterus scouleri man:hibbertopterus scouleri men:hibbertopterus"
+" scouleri man]"
+msgstr ""
+
+msgctxt "CREATURE:DEVONIAN_HIBBERTOPTERUS_SCOULERI_MAN"
+msgid "[DESCRIPTION:A small arthropod person with a broad head.]"
+msgstr ""
+
+msgctxt "CREATURE:DEVONIAN_HIBBERTOPTERUS_PEACHI"
+msgid "[DESCRIPTION:An aquatic arthropod with a wide head and tapering body.]"
+msgstr ""
+
+msgctxt "CREATURE:DEVONIAN_HIBBERTOPTERUS_PEACHI"
+msgid ""
+"[NAME:hibbertopterus peachi:hibbertopterus peachi:hibbertopterus peachi]"
+msgstr ""
+
+msgctxt "CREATURE:DEVONIAN_HIBBERTOPTERUS_PEACHI"
+msgid ""
+"[CASTE_NAME:hibbertopterus peachi:hibbertopterus peachi:hibbertopterus "
+"peachi]"
+msgstr ""
+
+msgctxt "CREATURE:DEVONIAN_HIBBERTOPTERUS_PEACHI"
+msgid ""
+"[GENERAL_CHILD_NAME:juvenile hibbertopterus peachi:juvenile hibbertopterus "
+"peachi]"
+msgstr ""
+
+msgctxt "CREATURE:DEVONIAN_HIBBERTOPTERUS_PEACHI"
+msgid "[PREFSTRING:broad heads]"
+msgstr ""
+
+msgctxt "CREATURE:DEVONIAN_HIBBERTOPTERUS_PEACHI"
+msgid "[TLCM_NOUN:chitin:SINGULAR]"
+msgstr ""
+
+msgctxt "CREATURE:DEVONIAN_HIBBERTOPTERUS_PEACHI"
+msgid "[TLCM_NOUN:eyes:PLURAL]"
+msgstr ""
+
+msgctxt "CREATURE:DEVONIAN_HIBBERTOPTERUS_PEACHI_MAN"
+msgid ""
+"[CASTE_NAME:hibbertopterus peachi man:hibbertopterus peachi "
+"men:hibbertopterus peachi man]"
+msgstr ""
+
+msgctxt "CREATURE:DEVONIAN_HIBBERTOPTERUS_PEACHI_MAN"
+msgid ""
+"[CASTE_NAME:hibbertopterus peachi woman:hibbertopterus peachi "
+"women:hibbertopterus peachi woman]"
+msgstr ""
+
+msgctxt "CREATURE:DEVONIAN_HIBBERTOPTERUS_PEACHI_MAN"
+msgid ""
+"[NAME:hibbertopterus peachi man:hibbertopterus peachi men:hibbertopterus "
+"peachi man]"
+msgstr ""
+
+msgctxt "CREATURE:DEVONIAN_HIBBERTOPTERUS_PEACHI_MAN"
+msgid "[DESCRIPTION:A small arthropod person with a broad head.]"
+msgstr ""
+
+msgctxt "CREATURE:DEVONIAN_DREPANOPTERUS"
+msgid ""
+"[DESCRIPTION:A tiny aquatic arthropod with a broad head and tapering body.]"
+msgstr ""
+
+msgctxt "CREATURE:DEVONIAN_DREPANOPTERUS"
+msgid "[NAME:drepanopterus:drepanopterus:drepanopterus]"
+msgstr ""
+
+msgctxt "CREATURE:DEVONIAN_DREPANOPTERUS"
+msgid "[CASTE_NAME:drepanopterus:drepanopterus:drepanopterus]"
+msgstr ""
+
+msgctxt "CREATURE:DEVONIAN_DREPANOPTERUS"
+msgid "[GENERAL_CHILD_NAME:juvenile drepanopterus:juvenile drepanopterus]"
+msgstr ""
+
+msgctxt "CREATURE:DEVONIAN_DREPANOPTERUS"
+msgid "[PREFSTRING:broad heads]"
+msgstr ""
+
+msgctxt "CREATURE:DEVONIAN_DREPANOPTERUS"
+msgid "[TLCM_NOUN:chitin:SINGULAR]"
+msgstr ""
+
+msgctxt "CREATURE:DEVONIAN_DREPANOPTERUS"
+msgid "[TLCM_NOUN:eyes:PLURAL]"
+msgstr ""
+
+msgctxt "CREATURE:DEVONIAN_DREPANOPTERUS_MAN"
+msgid "[CASTE_NAME:drepanopterus man:drepanopterus men:drepanopterus man]"
+msgstr ""
+
+msgctxt "CREATURE:DEVONIAN_DREPANOPTERUS_MAN"
+msgid ""
+"[CASTE_NAME:drepanopterus woman:drepanopterus women:drepanopterus woman]"
+msgstr ""
+
+msgctxt "CREATURE:DEVONIAN_DREPANOPTERUS_MAN"
+msgid "[NAME:drepanopterus man:drepanopterus men:drepanopterus man]"
+msgstr ""
+
+msgctxt "CREATURE:DEVONIAN_DREPANOPTERUS_MAN"
+msgid "[DESCRIPTION:A small arthropod person with a broad head.]"
+msgstr ""
+
+msgctxt "CREATURE:DEVONIAN_MIMETASTER"
+msgid ""
+"[DESCRIPTION:A tiny arthropod that walks tilted upright on two large legs.  "
+"Six spined projections radiate outward from its head shield.]"
+msgstr ""
+
+msgctxt "CREATURE:DEVONIAN_MIMETASTER"
+msgid "[NAME:mimetaster:mimetaster:mimetaster]"
+msgstr ""
+
+msgctxt "CREATURE:DEVONIAN_MIMETASTER"
+msgid "[CASTE_NAME:mimetaster:mimetaster:mimetaster]"
+msgstr ""
+
+msgctxt "CREATURE:DEVONIAN_MIMETASTER"
+msgid "[GENERAL_CHILD_NAME:mimetaster hatchling:mimetaster hatchlings]"
+msgstr ""
+
+msgctxt "CREATURE:DEVONIAN_MIMETASTER"
+msgid "[PREFSTRING:tilted walk]"
+msgstr ""
+
+msgctxt "CREATURE:DEVONIAN_MIMETASTER"
+msgid "[TLCM_NOUN:chitin:SINGULAR]"
+msgstr ""
+
+msgctxt "CREATURE:DEVONIAN_MIMETASTER"
+msgid "[TLCM_NOUN:eyes:PLURAL]"
+msgstr ""
+
+msgctxt "CREATURE:DEVONIAN_MIMETASTER_MAN"
+msgid "[CASTE_NAME:mimetaster man:mimetaster men:mimetaster man]"
+msgstr ""
+
+msgctxt "CREATURE:DEVONIAN_MIMETASTER_MAN"
+msgid "[CASTE_NAME:mimetaster woman:mimetaster women:mimetaster woman]"
+msgstr ""
+
+msgctxt "CREATURE:DEVONIAN_MIMETASTER_MAN"
+msgid "[NAME:mimetaster man:mimetaster men:mimetaster man]"
+msgstr ""
+
+msgctxt "CREATURE:DEVONIAN_MIMETASTER_MAN"
+msgid ""
+"[DESCRIPTION:A small arthropod person with six spined projections radiating "
+"out from its head shield.]"
+msgstr ""
+
+msgctxt "CREATURE:JURASSIC_ICHTHYOSAURUS"
+msgid ""
+"[DESCRIPTION:A very large aquatic reptile with fish-like fins and an "
+"elongated snout.]"
+msgstr ""
+
+msgctxt "CREATURE:JURASSIC_ICHTHYOSAURUS"
+msgid "[NAME:ichthyosaurus:ichthyosaurus:ichthyosaurus]"
+msgstr ""
+
+msgctxt "CREATURE:JURASSIC_ICHTHYOSAURUS"
+msgid "[CASTE_NAME:ichthyosaurus:ichthyosaurus:ichthyosaurus]"
+msgstr ""
+
+msgctxt "CREATURE:JURASSIC_ICHTHYOSAURUS"
+msgid "[GENERAL_CHILD_NAME:ichthyosaurus pup:ichthyosaurus pups]"
+msgstr ""
+
+msgctxt "CREATURE:JURASSIC_ICHTHYOSAURUS"
+msgid "[PREFSTRING:elongated snout]"
+msgstr ""
+
+msgctxt "CREATURE:JURASSIC_ICHTHYOSAURUS"
+msgid "[ATTACK_VERB:bite:bites]"
+msgstr ""
+
+msgctxt "CREATURE:JURASSIC_ICHTHYOSAURUS"
+msgid "[ATTACK_VERB:slap:slaps]"
+msgstr ""
+
+msgctxt "CREATURE:JURASSIC_ICHTHYOSAURUS"
+msgid "[TLCM_NOUN:scales:PLURAL]"
+msgstr ""
+
+msgctxt "CREATURE:JURASSIC_ICHTHYOSAURUS"
+msgid "[TLCM_NOUN:eyes:PLURAL]"
+msgstr ""
+
+msgctxt "CREATURE:JURASSIC_ICHTHYOSAURUS_MAN"
+msgid "[CASTE_NAME:ichthyosaurus man:ichthyosaurus men:ichthyosaurus man]"
+msgstr ""
+
+msgctxt "CREATURE:JURASSIC_ICHTHYOSAURUS_MAN"
+msgid ""
+"[CASTE_NAME:ichthyosaurus woman:ichthyosaurus women:ichthyosaurus woman]"
+msgstr ""
+
+msgctxt "CREATURE:JURASSIC_ICHTHYOSAURUS_MAN"
+msgid "[NAME:ichthyosaurus man:ichthyosaurus men:ichthyosaurus man]"
+msgstr ""
+
+msgctxt "CREATURE:JURASSIC_ICHTHYOSAURUS_MAN"
+msgid ""
+"[DESCRIPTION:A large legless reptile person with the elongated snouth of an "
+"ichthyosaurus.]"
+msgstr ""
+
+msgctxt "CREATURE:JURASSIC_TORVOSAURUS"
+msgid ""
+"[DESCRIPTION:A huge bipedal dinosaur with a giant biting jaw and short "
+"arms.]"
+msgstr ""
+
+msgctxt "CREATURE:JURASSIC_TORVOSAURUS"
+msgid "[NAME:torvosaurus:torvosaurus:torvosaurus]"
+msgstr ""
+
+msgctxt "CREATURE:JURASSIC_TORVOSAURUS"
+msgid "[CASTE_NAME:torvosaurus:torvosaurus:torvosaurus]"
+msgstr ""
+
+msgctxt "CREATURE:JURASSIC_TORVOSAURUS"
+msgid "[GENERAL_CHILD_NAME:torvosaurus hatchling:torvosaurus hatchlings]"
+msgstr ""
+
+msgctxt "CREATURE:JURASSIC_TORVOSAURUS"
+msgid "[PREFSTRING:ferocious bite]"
+msgstr ""
+
+msgctxt "CREATURE:JURASSIC_TORVOSAURUS"
+msgid "[PREFSTRING:short arms]"
+msgstr ""
+
+msgctxt "CREATURE:JURASSIC_TORVOSAURUS"
+msgid "[ATTACK_VERB:bite:bites]"
+msgstr ""
+
+msgctxt "CREATURE:JURASSIC_TORVOSAURUS"
+msgid "[ATTACK_VERB:scratch:scratches]"
+msgstr ""
+
+msgctxt "CREATURE:JURASSIC_TORVOSAURUS"
+msgid "[ATTACK_VERB:kick:kicks]"
+msgstr ""
+
+msgctxt "CREATURE:JURASSIC_TORVOSAURUS"
+msgid "[ATTACK_VERB:slap:slaps]"
+msgstr ""
+
+msgctxt "CREATURE:JURASSIC_TORVOSAURUS"
+msgid "[TLCM_NOUN:scales:PLURAL]"
+msgstr ""
+
+msgctxt "CREATURE:JURASSIC_TORVOSAURUS"
+msgid "[TLCM_NOUN:eyes:PLURAL]"
+msgstr ""
+
+msgctxt "CREATURE:JURASSIC_TORVOSAURUS_MAN"
+msgid "[CASTE_NAME:torvosaurus man:torvosaurus men:torvosaurus man]"
+msgstr ""
+
+msgctxt "CREATURE:JURASSIC_TORVOSAURUS_MAN"
+msgid "[CASTE_NAME:torvosaurus woman:torvosaurus women:torvosaurus woman]"
+msgstr ""
+
+msgctxt "CREATURE:JURASSIC_TORVOSAURUS_MAN"
+msgid "[NAME:torvosaurus man:torvosaurus men:torvosaurus man]"
+msgstr ""
+
+msgctxt "CREATURE:JURASSIC_TORVOSAURUS_MAN"
+msgid ""
+"[DESCRIPTION:A large dinosaur person with a fierce jaw and short arms.]"
+msgstr ""
+
+msgctxt "CREATURE:JURASSIC_ARCHAEOPTERYX"
+msgid "[DESCRIPTION:A tiny feathered dinosaur with wings capable of flight.]"
+msgstr ""
+
+msgctxt "CREATURE:JURASSIC_ARCHAEOPTERYX"
+msgid "[NAME:archaeopteryx:archaeopteryx:archaeopteryx]"
+msgstr ""
+
+msgctxt "CREATURE:JURASSIC_ARCHAEOPTERYX"
+msgid "[CASTE_NAME:archaeopteryx:archaeopteryx:archaeopteryx]"
+msgstr ""
+
+msgctxt "CREATURE:JURASSIC_ARCHAEOPTERYX"
+msgid "[GENERAL_CHILD_NAME:archaeopteryx hatchling:archaeopteryx hatchlings]"
+msgstr ""
+
+msgctxt "CREATURE:JURASSIC_ARCHAEOPTERYX"
+msgid "[PREFSTRING:feathers]"
+msgstr ""
+
+msgctxt "CREATURE:JURASSIC_ARCHAEOPTERYX"
+msgid "[ATTACK_VERB:bite:bites]"
+msgstr ""
+
+msgctxt "CREATURE:JURASSIC_ARCHAEOPTERYX"
+msgid "[ATTACK_VERB:snatch at:snatches at]"
+msgstr ""
+
+msgctxt "CREATURE:JURASSIC_ARCHAEOPTERYX"
+msgid "[TLCM_NOUN:feathers:PLURAL]"
+msgstr ""
+
+msgctxt "CREATURE:JURASSIC_ARCHAEOPTERYX"
+msgid "[TLCM_NOUN:skin:SINGULAR]"
+msgstr ""
+
+msgctxt "CREATURE:JURASSIC_ARCHAEOPTERYX"
+msgid "[TLCM_NOUN:eyes:PLURAL]"
+msgstr ""
+
+msgctxt "CREATURE:JURASSIC_ARCHAEOPTERYX_MAN"
+msgid "[CASTE_NAME:archaeopteryx man:archaeopteryx men:archaeopteryx man]"
+msgstr ""
+
+msgctxt "CREATURE:JURASSIC_ARCHAEOPTERYX_MAN"
+msgid ""
+"[CASTE_NAME:archaeopteryx woman:archaeopteryx women:archaeopteryx woman]"
+msgstr ""
+
+msgctxt "CREATURE:JURASSIC_ARCHAEOPTERYX_MAN"
+msgid "[NAME:archaeopteryx man:archaeopteryx men:archaeopteryx man]"
+msgstr ""
+
+msgctxt "CREATURE:JURASSIC_ARCHAEOPTERYX_MAN"
+msgid "[DESCRIPTION:A small feathered dinosaur person with wings.]"
+msgstr ""
+
+msgctxt "CREATURE:JURASSIC_PLESIOSAURUS"
+msgid ""
+"[DESCRIPTION:A very large aquatic reptile with four flippers and a long "
+"neck.]"
+msgstr ""
+
+msgctxt "CREATURE:JURASSIC_PLESIOSAURUS"
+msgid "[NAME:plesiosaurus:plesiosaurus:plesiosaurus]"
+msgstr ""
+
+msgctxt "CREATURE:JURASSIC_PLESIOSAURUS"
+msgid "[CASTE_NAME:plesiosaurus:plesiosaurus:plesiosaurus]"
+msgstr ""
+
+msgctxt "CREATURE:JURASSIC_PLESIOSAURUS"
+msgid "[GENERAL_CHILD_NAME:plesiosaurus hatchling:plesiosaurus hatchlings]"
+msgstr ""
+
+msgctxt "CREATURE:JURASSIC_PLESIOSAURUS"
+msgid "[PREFSTRING:long necks]"
+msgstr ""
+
+msgctxt "CREATURE:JURASSIC_PLESIOSAURUS"
+msgid "[PREFSTRING:flippers]"
+msgstr ""
+
+msgctxt "CREATURE:JURASSIC_PLESIOSAURUS"
+msgid "[ATTACK_VERB:bite:bites]"
+msgstr ""
+
+msgctxt "CREATURE:JURASSIC_PLESIOSAURUS"
+msgid "[TLCM_NOUN:scales:SINGULAR]"
+msgstr ""
+
+msgctxt "CREATURE:JURASSIC_PLESIOSAURUS"
+msgid "[TLCM_NOUN:eyes:PLURAL]"
+msgstr ""
+
+msgctxt "CREATURE:JURASSIC_PLESIOSAURUS_MAN"
+msgid "[CASTE_NAME:plesiosaurus man:plesiosaurus men:plesiosaurus man]"
+msgstr ""
+
+msgctxt "CREATURE:JURASSIC_PLESIOSAURUS_MAN"
+msgid "[CASTE_NAME:plesiosaurus woman:plesiosaurus women:plesiosaurus woman]"
+msgstr ""
+
+msgctxt "CREATURE:JURASSIC_PLESIOSAURUS_MAN"
+msgid "[NAME:plesiosaurus man:plesiosaurus men:plesiosaurus man]"
+msgstr ""
+
+msgctxt "CREATURE:JURASSIC_PLESIOSAURUS_MAN"
+msgid "[DESCRIPTION:A large legless reptile person with a long neck.]"
+msgstr ""
+
+msgctxt "CREATURE:JURASSIC_STEGOSAURUS"
+msgid ""
+"[DESCRIPTION:A huge quadrupedal dinosaur with a prominent row of plates "
+"along its back and a spiked tail.  It is a herbivore but can defend itself.]"
+msgstr ""
+
+msgctxt "CREATURE:JURASSIC_STEGOSAURUS"
+msgid "[NAME:stegosaurus:stegosaurus:stegosaurus]"
+msgstr ""
+
+msgctxt "CREATURE:JURASSIC_STEGOSAURUS"
+msgid "[CASTE_NAME:stegosaurus:stegosaurus:stegosaurus]"
+msgstr ""
+
+msgctxt "CREATURE:JURASSIC_STEGOSAURUS"
+msgid "[GENERAL_CHILD_NAME:stegosaurus hatchling:stegosaurus hatchlings]"
+msgstr ""
+
+msgctxt "CREATURE:JURASSIC_STEGOSAURUS"
+msgid "[PREFSTRING:back plates]"
+msgstr ""
+
+msgctxt "CREATURE:JURASSIC_STEGOSAURUS"
+msgid "[PREFSTRING:tail spikes]"
+msgstr ""
+
+msgctxt "CREATURE:JURASSIC_STEGOSAURUS"
+msgid "[ATTACK_VERB:lash:lashes]"
+msgstr ""
+
+msgctxt "CREATURE:JURASSIC_STEGOSAURUS"
+msgid "[ATTACK_VERB:bite:bites]"
+msgstr ""
+
+msgctxt "CREATURE:JURASSIC_STEGOSAURUS"
+msgid "[TLCM_NOUN:scales:PLURAL]"
+msgstr ""
+
+msgctxt "CREATURE:JURASSIC_STEGOSAURUS"
+msgid "[TLCM_NOUN:eyes:PLURAL]"
+msgstr ""
+
+msgctxt "CREATURE:JURASSIC_STEGOSAURUS_MAN"
+msgid "[CASTE_NAME:stegosaurus man:stegosaurus men:stegosaurus man]"
+msgstr ""
+
+msgctxt "CREATURE:JURASSIC_STEGOSAURUS_MAN"
+msgid "[CASTE_NAME:stegosaurus woman:stegosaurus women:stegosaurus woman]"
+msgstr ""
+
+msgctxt "CREATURE:JURASSIC_STEGOSAURUS_MAN"
+msgid "[ATTACK_VERB:lash:lashes]"
+msgstr ""
+
+msgctxt "CREATURE:JURASSIC_STEGOSAURUS_MAN"
+msgid "[NAME:stegosaurus man:stegosaurus men:stegosaurus man]"
+msgstr ""
+
+msgctxt "CREATURE:JURASSIC_STEGOSAURUS_MAN"
+msgid ""
+"[DESCRIPTION:A large dinosaur person with plates along its back and a spiked"
+" tail.]"
+msgstr ""
+
+msgctxt "CREATURE:JURASSIC_KENTROSAURUS"
+msgid ""
+"[DESCRIPTION:A huge quadrupedal dinosaur with a row of spines along its "
+"back, a spiked tail, and two prominent shoulder spikes.  It is a herbivore "
+"but can defend itself.]"
+msgstr ""
+
+msgctxt "CREATURE:JURASSIC_KENTROSAURUS"
+msgid "[NAME:kentrosaurus:kentrosaurus:kentrosaurus]"
+msgstr ""
+
+msgctxt "CREATURE:JURASSIC_KENTROSAURUS"
+msgid "[CASTE_NAME:kentrosaurus:kentrosaurus:kentrosaurus]"
+msgstr ""
+
+msgctxt "CREATURE:JURASSIC_KENTROSAURUS"
+msgid "[GENERAL_CHILD_NAME:kentrosaurus hatchling:kentrosaurus hatchlings]"
+msgstr ""
+
+msgctxt "CREATURE:JURASSIC_KENTROSAURUS"
+msgid "[PREFSTRING:menacing spikes]"
+msgstr ""
+
+msgctxt "CREATURE:JURASSIC_KENTROSAURUS"
+msgid "[ATTACK_VERB:lash:lashes]"
+msgstr ""
+
+msgctxt "CREATURE:JURASSIC_KENTROSAURUS"
+msgid "[ATTACK_VERB:stab:stabs]"
+msgstr ""
+
+msgctxt "CREATURE:JURASSIC_KENTROSAURUS"
+msgid "[ATTACK_VERB:bite:bites]"
+msgstr ""
+
+msgctxt "CREATURE:JURASSIC_KENTROSAURUS"
+msgid "[TLCM_NOUN:scales:PLURAL]"
+msgstr ""
+
+msgctxt "CREATURE:JURASSIC_KENTROSAURUS"
+msgid "[TLCM_NOUN:eyes:PLURAL]"
+msgstr ""
+
+msgctxt "CREATURE:JURASSIC_KENTROSAURUS_MAN"
+msgid "[CASTE_NAME:kentrosaurus man:kentrosaurus men:kentrosaurus man]"
+msgstr ""
+
+msgctxt "CREATURE:JURASSIC_KENTROSAURUS_MAN"
+msgid "[CASTE_NAME:kentrosaurus woman:kentrosaurus women:kentrosaurus woman]"
+msgstr ""
+
+msgctxt "CREATURE:JURASSIC_KENTROSAURUS_MAN"
+msgid "[ATTACK_VERB:lash:lashes]"
+msgstr ""
+
+msgctxt "CREATURE:JURASSIC_KENTROSAURUS_MAN"
+msgid "[ATTACK_VERB:stab:stabs]"
+msgstr ""
+
+msgctxt "CREATURE:JURASSIC_KENTROSAURUS_MAN"
+msgid "[NAME:kentrosaurus man:kentrosaurus men:kentrosaurus man]"
+msgstr ""
+
+msgctxt "CREATURE:JURASSIC_KENTROSAURUS_MAN"
+msgid ""
+"[DESCRIPTION:A large dinosaur person with spines along its back, a spiked "
+"tail, and two menacing shoulder spikes.]"
+msgstr ""
+
+msgctxt "CREATURE:JURASSIC_PTERODACTYLUS"
+msgid "[DESCRIPTION:A very small flying reptile with a long narrow mouth.]"
+msgstr ""
+
+msgctxt "CREATURE:JURASSIC_PTERODACTYLUS"
+msgid "[NAME:pterodactylus:pterodactylus:pterodactylus]"
+msgstr ""
+
+msgctxt "CREATURE:JURASSIC_PTERODACTYLUS"
+msgid "[CASTE_NAME:pterodactylus:pterodactylus:pterodactylus]"
+msgstr ""
+
+msgctxt "CREATURE:JURASSIC_PTERODACTYLUS"
+msgid "[GENERAL_CHILD_NAME:pterodactylus hatchling:pterodactylus hatchlings]"
+msgstr ""
+
+msgctxt "CREATURE:JURASSIC_PTERODACTYLUS"
+msgid "[PREFSTRING:graceful flight]"
+msgstr ""
+
+msgctxt "CREATURE:JURASSIC_PTERODACTYLUS"
+msgid "[ATTACK_VERB:bite:bites]"
+msgstr ""
+
+msgctxt "CREATURE:JURASSIC_PTERODACTYLUS"
+msgid "[ATTACK_VERB:snatch at:snatches at]"
+msgstr ""
+
+msgctxt "CREATURE:JURASSIC_PTERODACTYLUS"
+msgid "[TLCM_NOUN:hair:PLURAL]"
+msgstr ""
+
+msgctxt "CREATURE:JURASSIC_PTERODACTYLUS"
+msgid "[TLCM_NOUN:skin:SINGULAR]"
+msgstr ""
+
+msgctxt "CREATURE:JURASSIC_PTERODACTYLUS"
+msgid "[TLCM_NOUN:eyes:PLURAL]"
+msgstr ""
+
+msgctxt "CREATURE:JURASSIC_PTERODACTYLUS_MAN"
+msgid "[CASTE_NAME:pterodactylus man:pterodactylus men:pterodactylus man]"
+msgstr ""
+
+msgctxt "CREATURE:JURASSIC_PTERODACTYLUS_MAN"
+msgid ""
+"[CASTE_NAME:pterodactylus woman:pterodactylus women:pterodactylus woman]"
+msgstr ""
+
+msgctxt "CREATURE:JURASSIC_PTERODACTYLUS_MAN"
+msgid "[NAME:pterodactylus man:pterodactylus men:pterodactylus man]"
+msgstr ""
+
+msgctxt "CREATURE:JURASSIC_PTERODACTYLUS_MAN"
+msgid "[DESCRIPTION:A small winged reptile person with a long narrow mouth.]"
+msgstr ""
+
+msgctxt "CREATURE:JURASSIC_JEHOLOPTERUS"
+msgid "[DESCRIPTION:A tiny flying reptile with a small round head.]"
+msgstr ""
+
+msgctxt "CREATURE:JURASSIC_JEHOLOPTERUS"
+msgid "[NAME:jeholopterus:jeholopterus:jeholopterus]"
+msgstr ""
+
+msgctxt "CREATURE:JURASSIC_JEHOLOPTERUS"
+msgid "[CASTE_NAME:jeholopterus:jeholopterus:jeholopterus]"
+msgstr ""
+
+msgctxt "CREATURE:JURASSIC_JEHOLOPTERUS"
+msgid "[GENERAL_CHILD_NAME:jeholopterus hatchling:jeholopterus hatchlings]"
+msgstr ""
+
+msgctxt "CREATURE:JURASSIC_JEHOLOPTERUS"
+msgid "[PREFSTRING:round heads]"
+msgstr ""
+
+msgctxt "CREATURE:JURASSIC_JEHOLOPTERUS"
+msgid "[ATTACK_VERB:bite:bites]"
+msgstr ""
+
+msgctxt "CREATURE:JURASSIC_JEHOLOPTERUS"
+msgid "[ATTACK_VERB:snatch at:snatches at]"
+msgstr ""
+
+msgctxt "CREATURE:JURASSIC_JEHOLOPTERUS"
+msgid "[TLCM_NOUN:hair:PLURAL]"
+msgstr ""
+
+msgctxt "CREATURE:JURASSIC_JEHOLOPTERUS"
+msgid "[TLCM_NOUN:skin:SINGULAR]"
+msgstr ""
+
+msgctxt "CREATURE:JURASSIC_JEHOLOPTERUS"
+msgid "[TLCM_NOUN:eyes:PLURAL]"
+msgstr ""
+
+msgctxt "CREATURE:JURASSIC_JEHOLOPTERUS_MAN"
+msgid "[CASTE_NAME:jeholopterus man:jeholopterus men:jeholopterus man]"
+msgstr ""
+
+msgctxt "CREATURE:JURASSIC_JEHOLOPTERUS_MAN"
+msgid "[CASTE_NAME:jeholopterus woman:jeholopterus women:jeholopterus woman]"
+msgstr ""
+
+msgctxt "CREATURE:JURASSIC_JEHOLOPTERUS_MAN"
+msgid "[NAME:jeholopterus man:jeholopterus men:jeholopterus man]"
+msgstr ""
+
+msgctxt "CREATURE:JURASSIC_JEHOLOPTERUS_MAN"
+msgid "[DESCRIPTION:A small winged reptile person with a round head.]"
+msgstr ""
+
+msgctxt "CREATURE:JURASSIC_DILOPHOSAURUS"
+msgid ""
+"[DESCRIPTION:A very large carnivorous bipedal dinosaur with two parallel "
+"head crests and short arms.]"
+msgstr ""
+
+msgctxt "CREATURE:JURASSIC_DILOPHOSAURUS"
+msgid "[NAME:dilophosaurus:dilophosaurus:dilophosaurus]"
+msgstr ""
+
+msgctxt "CREATURE:JURASSIC_DILOPHOSAURUS"
+msgid "[CASTE_NAME:dilophosaurus:dilophosaurus:dilophosaurus]"
+msgstr ""
+
+msgctxt "CREATURE:JURASSIC_DILOPHOSAURUS"
+msgid "[GENERAL_CHILD_NAME:dilophosaurus hatchling:dilophosaurus hatchlings]"
+msgstr ""
+
+msgctxt "CREATURE:JURASSIC_DILOPHOSAURUS"
+msgid "[PREFSTRING:head crests]"
+msgstr ""
+
+msgctxt "CREATURE:JURASSIC_DILOPHOSAURUS"
+msgid "[ATTACK_VERB:bite:bites]"
+msgstr ""
+
+msgctxt "CREATURE:JURASSIC_DILOPHOSAURUS"
+msgid "[ATTACK_VERB:scratch:scratches]"
+msgstr ""
+
+msgctxt "CREATURE:JURASSIC_DILOPHOSAURUS"
+msgid "[ATTACK_VERB:kick:kicks]"
+msgstr ""
+
+msgctxt "CREATURE:JURASSIC_DILOPHOSAURUS"
+msgid "[ATTACK_VERB:slap:slaps]"
+msgstr ""
+
+msgctxt "CREATURE:JURASSIC_DILOPHOSAURUS"
+msgid "[TLCM_NOUN:scales:PLURAL]"
+msgstr ""
+
+msgctxt "CREATURE:JURASSIC_DILOPHOSAURUS"
+msgid "[TLCM_NOUN:eyes:PLURAL]"
+msgstr ""
+
+msgctxt "CREATURE:JURASSIC_DILOPHOSAURUS_MAN"
+msgid "[CASTE_NAME:dilophosaurus man:dilophosaurus men:dilophosaurus man]"
+msgstr ""
+
+msgctxt "CREATURE:JURASSIC_DILOPHOSAURUS_MAN"
+msgid ""
+"[CASTE_NAME:dilophosaurus woman:dilophosaurus women:dilophosaurus woman]"
+msgstr ""
+
+msgctxt "CREATURE:JURASSIC_DILOPHOSAURUS_MAN"
+msgid "[NAME:dilophosaurus man:dilophosaurus men:dilophosaurus man]"
+msgstr ""
+
+msgctxt "CREATURE:JURASSIC_DILOPHOSAURUS_MAN"
+msgid ""
+"[DESCRIPTION:A large dinosaur person with two parallel head crests and short"
+" arms.]"
+msgstr ""
+
+msgctxt "CREATURE:JURASSIC_CERATOSAURUS"
+msgid ""
+"[DESCRIPTION:A very large carnivorous bipedal dinosaur with a horn and short"
+" arms.]"
+msgstr ""
+
+msgctxt "CREATURE:JURASSIC_CERATOSAURUS"
+msgid "[NAME:ceratosaurus:ceratosaurus:ceratosaurus]"
+msgstr ""
+
+msgctxt "CREATURE:JURASSIC_CERATOSAURUS"
+msgid "[CASTE_NAME:ceratosaurus:ceratosaurus:ceratosaurus]"
+msgstr ""
+
+msgctxt "CREATURE:JURASSIC_CERATOSAURUS"
+msgid "[GENERAL_CHILD_NAME:ceratosaurus hatchling:ceratosaurus hatchlings]"
+msgstr ""
+
+msgctxt "CREATURE:JURASSIC_CERATOSAURUS"
+msgid "[PREFSTRING:horns]"
+msgstr ""
+
+msgctxt "CREATURE:JURASSIC_CERATOSAURUS"
+msgid "[PREFSTRING:short arms]"
+msgstr ""
+
+msgctxt "CREATURE:JURASSIC_CERATOSAURUS"
+msgid "[ATTACK_VERB:bite:bites]"
+msgstr ""
+
+msgctxt "CREATURE:JURASSIC_CERATOSAURUS"
+msgid "[ATTACK_VERB:scratch:scratches]"
+msgstr ""
+
+msgctxt "CREATURE:JURASSIC_CERATOSAURUS"
+msgid "[ATTACK_VERB:kick:kicks]"
+msgstr ""
+
+msgctxt "CREATURE:JURASSIC_CERATOSAURUS"
+msgid "[ATTACK_VERB:slap:slaps]"
+msgstr ""
+
+msgctxt "CREATURE:JURASSIC_CERATOSAURUS"
+msgid "[TLCM_NOUN:scales:PLURAL]"
+msgstr ""
+
+msgctxt "CREATURE:JURASSIC_CERATOSAURUS"
+msgid "[TLCM_NOUN:eyes:PLURAL]"
+msgstr ""
+
+msgctxt "CREATURE:JURASSIC_CERATOSAURUS_MAN"
+msgid "[CASTE_NAME:ceratosaurus man:ceratosaurus men:ceratosaurus man]"
+msgstr ""
+
+msgctxt "CREATURE:JURASSIC_CERATOSAURUS_MAN"
+msgid "[CASTE_NAME:ceratosaurus woman:ceratosaurus women:ceratosaurus woman]"
+msgstr ""
+
+msgctxt "CREATURE:JURASSIC_CERATOSAURUS_MAN"
+msgid "[NAME:ceratosaurus man:ceratosaurus men:ceratosaurus man]"
+msgstr ""
+
+msgctxt "CREATURE:JURASSIC_CERATOSAURUS_MAN"
+msgid ""
+"[DESCRIPTION:A large dinosaur person with fierce jaws, a horn and short "
+"arms.]"
+msgstr ""
+
+msgctxt "CREATURE:JURASSIC_EUROPASAURUS"
+msgid ""
+"[DESCRIPTION:A very large herbivorous quadrupedal dinosaur with a long "
+"neck.]"
+msgstr ""
+
+msgctxt "CREATURE:JURASSIC_EUROPASAURUS"
+msgid "[NAME:europasaurus:europasaurus:europasaurus]"
+msgstr ""
+
+msgctxt "CREATURE:JURASSIC_EUROPASAURUS"
+msgid "[CASTE_NAME:europasaurus:europasaurus:europasaurus]"
+msgstr ""
+
+msgctxt "CREATURE:JURASSIC_EUROPASAURUS"
+msgid "[GENERAL_CHILD_NAME:europasaurus hatchling:europasaurus hatchlings]"
+msgstr ""
+
+msgctxt "CREATURE:JURASSIC_EUROPASAURUS"
+msgid "[PREFSTRING:long necks]"
+msgstr ""
+
+msgctxt "CREATURE:JURASSIC_EUROPASAURUS"
+msgid "[ATTACK_VERB:bite:bites]"
+msgstr ""
+
+msgctxt "CREATURE:JURASSIC_EUROPASAURUS"
+msgid "[TLCM_NOUN:scales:PLURAL]"
+msgstr ""
+
+msgctxt "CREATURE:JURASSIC_EUROPASAURUS"
+msgid "[TLCM_NOUN:eyes:PLURAL]"
+msgstr ""
+
+msgctxt "CREATURE:JURASSIC_EUROPASAURUS_MAN"
+msgid "[CASTE_NAME:europasaurus man:europasaurus men:europasaurus man]"
+msgstr ""
+
+msgctxt "CREATURE:JURASSIC_EUROPASAURUS_MAN"
+msgid "[CASTE_NAME:europasaurus woman:europasaurus women:europasaurus woman]"
+msgstr ""
+
+msgctxt "CREATURE:JURASSIC_EUROPASAURUS_MAN"
+msgid "[NAME:europasaurus man:europasaurus men:europasaurus man]"
+msgstr ""
+
+msgctxt "CREATURE:JURASSIC_EUROPASAURUS_MAN"
+msgid "[DESCRIPTION:A large dinosaur person with a long neck.]"
+msgstr ""
+
+msgctxt "CREATURE:JURASSIC_BRACHIOSAURUS"
+msgid ""
+"[DESCRIPTION:A towering herbivorous quadrupedal dinosaur with a long neck.]"
+msgstr ""
+
+msgctxt "CREATURE:JURASSIC_BRACHIOSAURUS"
+msgid "[NAME:brachiosaurus:brachiosaurus:brachiosaurus]"
+msgstr ""
+
+msgctxt "CREATURE:JURASSIC_BRACHIOSAURUS"
+msgid "[CASTE_NAME:brachiosaurus:brachiosaurus:brachiosaurus]"
+msgstr ""
+
+msgctxt "CREATURE:JURASSIC_BRACHIOSAURUS"
+msgid "[GENERAL_CHILD_NAME:brachiosaurus hatchling:brachiosaurus hatchlings]"
+msgstr ""
+
+msgctxt "CREATURE:JURASSIC_BRACHIOSAURUS"
+msgid "[PREFSTRING:long necks]"
+msgstr ""
+
+msgctxt "CREATURE:JURASSIC_BRACHIOSAURUS"
+msgid "[ATTACK_VERB:bite:bites]"
+msgstr ""
+
+msgctxt "CREATURE:JURASSIC_BRACHIOSAURUS"
+msgid "[TLCM_NOUN:scales:PLURAL]"
+msgstr ""
+
+msgctxt "CREATURE:JURASSIC_BRACHIOSAURUS"
+msgid "[TLCM_NOUN:eyes:PLURAL]"
+msgstr ""
+
+msgctxt "CREATURE:JURASSIC_BRACHIOSAURUS_MAN"
+msgid "[CASTE_NAME:brachiosaurus man:brachiosaurus men:brachiosaurus man]"
+msgstr ""
+
+msgctxt "CREATURE:JURASSIC_BRACHIOSAURUS_MAN"
+msgid ""
+"[CASTE_NAME:brachiosaurus woman:brachiosaurus women:brachiosaurus woman]"
+msgstr ""
+
+msgctxt "CREATURE:JURASSIC_BRACHIOSAURUS_MAN"
+msgid "[NAME:brachiosaurus man:brachiosaurus men:brachiosaurus man]"
+msgstr ""
+
+msgctxt "CREATURE:JURASSIC_BRACHIOSAURUS_MAN"
+msgid "[DESCRIPTION:A very large dinosaur person with a long neck.]"
+msgstr ""
+
+msgctxt "CREATURE:JURASSIC_DIPLODOCUS"
+msgid ""
+"[DESCRIPTION:A towering herbivorous quadrupedal dinosaur with a long neck.]"
+msgstr ""
+
+msgctxt "CREATURE:JURASSIC_DIPLODOCUS"
+msgid "[NAME:diplodocus:diplodocus:diplodocus]"
+msgstr ""
+
+msgctxt "CREATURE:JURASSIC_DIPLODOCUS"
+msgid "[CASTE_NAME:diplodocus:diplodocus:diplodocus]"
+msgstr ""
+
+msgctxt "CREATURE:JURASSIC_DIPLODOCUS"
+msgid "[GENERAL_CHILD_NAME:diplodocus hatchling:diplodocus hatchlings]"
+msgstr ""
+
+msgctxt "CREATURE:JURASSIC_DIPLODOCUS"
+msgid "[PREFSTRING:long necks]"
+msgstr ""
+
+msgctxt "CREATURE:JURASSIC_DIPLODOCUS"
+msgid "[ATTACK_VERB:bite:bites]"
+msgstr ""
+
+msgctxt "CREATURE:JURASSIC_DIPLODOCUS"
+msgid "[TLCM_NOUN:scales:PLURAL]"
+msgstr ""
+
+msgctxt "CREATURE:JURASSIC_DIPLODOCUS"
+msgid "[TLCM_NOUN:eyes:PLURAL]"
+msgstr ""
+
+msgctxt "CREATURE:JURASSIC_DIPLODOCUS_MAN"
+msgid "[CASTE_NAME:diplodocus man:diplodocus men:diplodocus man]"
+msgstr ""
+
+msgctxt "CREATURE:JURASSIC_DIPLODOCUS_MAN"
+msgid "[CASTE_NAME:diplodocus woman:diplodocus women:diplodocus woman]"
+msgstr ""
+
+msgctxt "CREATURE:JURASSIC_DIPLODOCUS_MAN"
+msgid "[NAME:diplodocus man:diplodocus men:diplodocus man]"
+msgstr ""
+
+msgctxt "CREATURE:JURASSIC_DIPLODOCUS_MAN"
+msgid "[DESCRIPTION:A very large dinosaur person with a long neck.]"
+msgstr ""
+
+msgctxt "CREATURE:JURASSIC_BRONTOSAURUS"
+msgid ""
+"[DESCRIPTION:A towering herbivorous quadrupedal dinosaur with a long neck.]"
+msgstr ""
+
+msgctxt "CREATURE:JURASSIC_BRONTOSAURUS"
+msgid "[NAME:brontosaurus:brontosaurus:brontosaurus]"
+msgstr ""
+
+msgctxt "CREATURE:JURASSIC_BRONTOSAURUS"
+msgid "[CASTE_NAME:brontosaurus:brontosaurus:brontosaurus]"
+msgstr ""
+
+msgctxt "CREATURE:JURASSIC_BRONTOSAURUS"
+msgid "[GENERAL_CHILD_NAME:brontosaurus hatchling:brontosaurus hatchlings]"
+msgstr ""
+
+msgctxt "CREATURE:JURASSIC_BRONTOSAURUS"
+msgid "[PREFSTRING:long necks]"
+msgstr ""
+
+msgctxt "CREATURE:JURASSIC_BRONTOSAURUS"
+msgid "[ATTACK_VERB:bite:bites]"
+msgstr ""
+
+msgctxt "CREATURE:JURASSIC_BRONTOSAURUS"
+msgid "[TLCM_NOUN:scales:PLURAL]"
+msgstr ""
+
+msgctxt "CREATURE:JURASSIC_BRONTOSAURUS"
+msgid "[TLCM_NOUN:eyes:PLURAL]"
+msgstr ""
+
+msgctxt "CREATURE:JURASSIC_BRONTOSAURUS_MAN"
+msgid "[CASTE_NAME:brontosaurus man:brontosaurus men:brontosaurus man]"
+msgstr ""
+
+msgctxt "CREATURE:JURASSIC_BRONTOSAURUS_MAN"
+msgid "[CASTE_NAME:brontosaurus woman:brontosaurus women:brontosaurus woman]"
+msgstr ""
+
+msgctxt "CREATURE:JURASSIC_BRONTOSAURUS_MAN"
+msgid "[NAME:brontosaurus man:brontosaurus men:brontosaurus man]"
+msgstr ""
+
+msgctxt "CREATURE:JURASSIC_BRONTOSAURUS_MAN"
+msgid "[DESCRIPTION:A very large dinosaur person with a long neck.]"
+msgstr ""
+
+msgctxt "CREATURE:JURASSIC_ALLOSAURUS"
+msgid ""
+"[DESCRIPTION:A huge bipedal dinosaur with a giant biting jaw and short arms."
+"  It has two small horns over its eyes.]"
+msgstr ""
+
+msgctxt "CREATURE:JURASSIC_ALLOSAURUS"
+msgid "[NAME:allosaurus:allosaurus:allosaurus]"
+msgstr ""
+
+msgctxt "CREATURE:JURASSIC_ALLOSAURUS"
+msgid "[CASTE_NAME:allosaurus:allosaurus:allosaurus]"
+msgstr ""
+
+msgctxt "CREATURE:JURASSIC_ALLOSAURUS"
+msgid "[GENERAL_CHILD_NAME:allosaurus hatchling:allosaurus hatchlings]"
+msgstr ""
+
+msgctxt "CREATURE:JURASSIC_ALLOSAURUS"
+msgid "[PREFSTRING:horns]"
+msgstr ""
+
+msgctxt "CREATURE:JURASSIC_ALLOSAURUS"
+msgid "[ATTACK_VERB:bite:bites]"
+msgstr ""
+
+msgctxt "CREATURE:JURASSIC_ALLOSAURUS"
+msgid "[ATTACK_VERB:scratch:scratches]"
+msgstr ""
+
+msgctxt "CREATURE:JURASSIC_ALLOSAURUS"
+msgid "[ATTACK_VERB:kick:kicks]"
+msgstr ""
+
+msgctxt "CREATURE:JURASSIC_ALLOSAURUS"
+msgid "[ATTACK_VERB:slap:slaps]"
+msgstr ""
+
+msgctxt "CREATURE:JURASSIC_ALLOSAURUS"
+msgid "[TLCM_NOUN:scales:PLURAL]"
+msgstr ""
+
+msgctxt "CREATURE:JURASSIC_ALLOSAURUS"
+msgid "[TLCM_NOUN:eyes:PLURAL]"
+msgstr ""
+
+msgctxt "CREATURE:JURASSIC_ALLOSAURUS_MAN"
+msgid "[CASTE_NAME:allosaurus man:allosaurus men:allosaurus man]"
+msgstr ""
+
+msgctxt "CREATURE:JURASSIC_ALLOSAURUS_MAN"
+msgid "[CASTE_NAME:allosaurus woman:allosaurus women:allosaurus woman]"
+msgstr ""
+
+msgctxt "CREATURE:JURASSIC_ALLOSAURUS_MAN"
+msgid "[NAME:allosaurus man:allosaurus men:allosaurus man]"
+msgstr ""
+
+msgctxt "CREATURE:JURASSIC_ALLOSAURUS_MAN"
+msgid ""
+"[DESCRIPTION:A large dinosaur person with a fierce jaw, short arms, and "
+"small horns over their eyes.]"
+msgstr ""
+
+msgctxt "CREATURE:JURASSIC_AFROVENATOR"
+msgid ""
+"[DESCRIPTION:A very large bipedal dinosaur with a giant biting jaw and a "
+"strong flexible neck.]"
+msgstr ""
+
+msgctxt "CREATURE:JURASSIC_AFROVENATOR"
+msgid "[NAME:afrovenator:afrovenator:afrovenator]"
+msgstr ""
+
+msgctxt "CREATURE:JURASSIC_AFROVENATOR"
+msgid "[CASTE_NAME:afrovenator:afrovenator:afrovenator]"
+msgstr ""
+
+msgctxt "CREATURE:JURASSIC_AFROVENATOR"
+msgid "[GENERAL_CHILD_NAME:afrovenator hatchling:afrovenator hatchlings]"
+msgstr ""
+
+msgctxt "CREATURE:JURASSIC_AFROVENATOR"
+msgid "[PREFSTRING:graceful movement]"
+msgstr ""
+
+msgctxt "CREATURE:JURASSIC_AFROVENATOR"
+msgid "[ATTACK_VERB:bite:bites]"
+msgstr ""
+
+msgctxt "CREATURE:JURASSIC_AFROVENATOR"
+msgid "[ATTACK_VERB:scratch:scratches]"
+msgstr ""
+
+msgctxt "CREATURE:JURASSIC_AFROVENATOR"
+msgid "[ATTACK_VERB:kick:kicks]"
+msgstr ""
+
+msgctxt "CREATURE:JURASSIC_AFROVENATOR"
+msgid "[ATTACK_VERB:slap:slaps]"
+msgstr ""
+
+msgctxt "CREATURE:JURASSIC_AFROVENATOR"
+msgid "[TLCM_NOUN:scales:PLURAL]"
+msgstr ""
+
+msgctxt "CREATURE:JURASSIC_AFROVENATOR"
+msgid "[TLCM_NOUN:eyes:PLURAL]"
+msgstr ""
+
+msgctxt "CREATURE:JURASSIC_AFROVENATOR_MAN"
+msgid "[CASTE_NAME:afrovenator man:afrovenator men:afrovenator man]"
+msgstr ""
+
+msgctxt "CREATURE:JURASSIC_AFROVENATOR_MAN"
+msgid "[CASTE_NAME:afrovenator woman:afrovenator women:afrovenator woman]"
+msgstr ""
+
+msgctxt "CREATURE:JURASSIC_AFROVENATOR_MAN"
+msgid "[NAME:afrovenator man:afrovenator men:afrovenator man]"
+msgstr ""
+
+msgctxt "CREATURE:JURASSIC_AFROVENATOR_MAN"
+msgid ""
+"[DESCRIPTION:A large dinosaur person with a fierce jaw and a strong flexible"
+" neck.]"
+msgstr ""
+
+msgctxt "CREATURE:JURASSIC_RHAMPHORHYNCHUS"
+msgid ""
+"[DESCRIPTION:A very small flying reptile with long wings and a ferocious "
+"jaw.]"
+msgstr ""
+
+msgctxt "CREATURE:JURASSIC_RHAMPHORHYNCHUS"
+msgid "[NAME:rhamphorhynchus:rhamphorhynchus:rhamphorhynchus]"
+msgstr ""
+
+msgctxt "CREATURE:JURASSIC_RHAMPHORHYNCHUS"
+msgid "[CASTE_NAME:rhamphorhynchus:rhamphorhynchus:rhamphorhynchus]"
+msgstr ""
+
+msgctxt "CREATURE:JURASSIC_RHAMPHORHYNCHUS"
+msgid ""
+"[GENERAL_CHILD_NAME:rhamphorhynchus hatchling:rhamphorhynchus hatchlings]"
+msgstr ""
+
+msgctxt "CREATURE:JURASSIC_RHAMPHORHYNCHUS"
+msgid "[PREFSTRING:ferocious jaws]"
+msgstr ""
+
+msgctxt "CREATURE:JURASSIC_RHAMPHORHYNCHUS"
+msgid "[ATTACK_VERB:bite:bites]"
+msgstr ""
+
+msgctxt "CREATURE:JURASSIC_RHAMPHORHYNCHUS"
+msgid "[ATTACK_VERB:snatch at:snatches at]"
+msgstr ""
+
+msgctxt "CREATURE:JURASSIC_RHAMPHORHYNCHUS"
+msgid "[TLCM_NOUN:hair:PLURAL]"
+msgstr ""
+
+msgctxt "CREATURE:JURASSIC_RHAMPHORHYNCHUS"
+msgid "[TLCM_NOUN:skin:SINGULAR]"
+msgstr ""
+
+msgctxt "CREATURE:JURASSIC_RHAMPHORHYNCHUS"
+msgid "[TLCM_NOUN:eyes:PLURAL]"
+msgstr ""
+
+msgctxt "CREATURE:JURASSIC_RHAMPHORHYNCHUS_MAN"
+msgid ""
+"[CASTE_NAME:rhamphorhynchus man:rhamphorhynchus men:rhamphorhynchus man]"
+msgstr ""
+
+msgctxt "CREATURE:JURASSIC_RHAMPHORHYNCHUS_MAN"
+msgid ""
+"[CASTE_NAME:rhamphorhynchus woman:rhamphorhynchus women:rhamphorhynchus "
+"woman]"
+msgstr ""
+
+msgctxt "CREATURE:JURASSIC_RHAMPHORHYNCHUS_MAN"
+msgid "[NAME:rhamphorhynchus man:rhamphorhynchus men:rhamphorhynchus man]"
+msgstr ""
+
+msgctxt "CREATURE:JURASSIC_RHAMPHORHYNCHUS_MAN"
+msgid "[DESCRIPTION:A small winged reptile person with a ferocious jaw.]"
+msgstr ""
+
+msgctxt "CREATURE:JURASSIC_OSTENOCARIS"
+msgid "[DESCRIPTION:A tiny scuttling arthropod with large compound eyes.]"
+msgstr ""
+
+msgctxt "CREATURE:JURASSIC_OSTENOCARIS"
+msgid "[NAME:ostenocaris:ostenocaris:ostenocaris]"
+msgstr ""
+
+msgctxt "CREATURE:JURASSIC_OSTENOCARIS"
+msgid "[CASTE_NAME:ostenocaris:ostenocaris:ostenocaris]"
+msgstr ""
+
+msgctxt "CREATURE:JURASSIC_OSTENOCARIS"
+msgid "[GENERAL_CHILD_NAME:juvenile ostenocaris:juvenile ostenocaris]"
+msgstr ""
+
+msgctxt "CREATURE:JURASSIC_OSTENOCARIS"
+msgid "[PREFSTRING:scuttling]"
+msgstr ""
+
+msgctxt "CREATURE:JURASSIC_OSTENOCARIS"
+msgid "[TLCM_NOUN:chitin:SINGULAR]"
+msgstr ""
+
+msgctxt "CREATURE:JURASSIC_OSTENOCARIS"
+msgid "[TLCM_NOUN:eyes:PLURAL]"
+msgstr ""
+
+msgctxt "CREATURE:JURASSIC_OSTENOCARIS_MAN"
+msgid "[CASTE_NAME:ostenocaris man:ostenocaris men:ostenocaris man]"
+msgstr ""
+
+msgctxt "CREATURE:JURASSIC_OSTENOCARIS_MAN"
+msgid "[CASTE_NAME:ostenocaris woman:ostenocaris women:ostenocaris woman]"
+msgstr ""
+
+msgctxt "CREATURE:JURASSIC_OSTENOCARIS_MAN"
+msgid "[NAME:ostenocaris man:ostenocaris men:ostenocaris man]"
+msgstr ""
+
+msgctxt "CREATURE:JURASSIC_OSTENOCARIS_MAN"
+msgid "[DESCRIPTION:A small arthropod person with large compound eyes.]"
+msgstr ""
+
+msgctxt "CREATURE:ORDOVICIAN_AEGIROCASSIS"
+msgid ""
+"[DESCRIPTION:An aquatic arthropod with a pronounced head structure and "
+"frontal appendages for filter feeding.  It is large for an arthropod.]"
+msgstr ""
+
+msgctxt "CREATURE:ORDOVICIAN_AEGIROCASSIS"
+msgid "[NAME:aegirocassis:aegirocassis:aegirocassis]"
+msgstr ""
+
+msgctxt "CREATURE:ORDOVICIAN_AEGIROCASSIS"
+msgid "[CASTE_NAME:aegirocassis:aegirocassis:aegirocassis]"
+msgstr ""
+
+msgctxt "CREATURE:ORDOVICIAN_AEGIROCASSIS"
+msgid "[GENERAL_CHILD_NAME:juvenile aegirocassis:juvenile aegirocassis]"
+msgstr ""
+
+msgctxt "CREATURE:ORDOVICIAN_AEGIROCASSIS"
+msgid "[PREFSTRING:bold head sclerites]"
+msgstr ""
+
+msgctxt "CREATURE:ORDOVICIAN_AEGIROCASSIS"
+msgid "[TLCM_NOUN:chitin:SINGULAR]"
+msgstr ""
+
+msgctxt "CREATURE:ORDOVICIAN_AEGIROCASSIS"
+msgid "[TLCM_NOUN:eyes:PLURAL]"
+msgstr ""
+
+msgctxt "CREATURE:ORDOVICIAN_AEGIROCASSIS_MAN"
+msgid "[CASTE_NAME:aegirocassis man:aegirocassis men:aegirocassis man]"
+msgstr ""
+
+msgctxt "CREATURE:ORDOVICIAN_AEGIROCASSIS_MAN"
+msgid "[CASTE_NAME:aegirocassis woman:aegirocassis women:aegirocassis woman]"
+msgstr ""
+
+msgctxt "CREATURE:ORDOVICIAN_AEGIROCASSIS_MAN"
+msgid "[NAME:aegirocassis man:aegirocassis men:aegirocassis man]"
+msgstr ""
+
+msgctxt "CREATURE:ORDOVICIAN_AEGIROCASSIS_MAN"
+msgid ""
+"[DESCRIPTION:An arthropod person with the pronounced head shape of an "
+"aegirocassis.]"
+msgstr ""
+
+msgctxt "CREATURE:PERMIAN_DIPLOCAULUS"
+msgid ""
+"[DESCRIPTION:A very small amphibian with a wedge-shaped head and long tail.]"
+msgstr ""
+
+msgctxt "CREATURE:PERMIAN_DIPLOCAULUS"
+msgid "[NAME:diplocaulus:diplocaulus:diplocaulus]"
+msgstr ""
+
+msgctxt "CREATURE:PERMIAN_DIPLOCAULUS"
+msgid "[CASTE_NAME:diplocaulus:diplocaulus:diplocaulus]"
+msgstr ""
+
+msgctxt "CREATURE:PERMIAN_DIPLOCAULUS"
+msgid "[GENERAL_CHILD_NAME:diplocaulus hatchling:diplocaulus hatchlings]"
+msgstr ""
+
+msgctxt "CREATURE:PERMIAN_DIPLOCAULUS"
+msgid "[PREFSTRING:wedge-shaped heads]"
+msgstr ""
+
+msgctxt "CREATURE:PERMIAN_DIPLOCAULUS"
+msgid "[ATTACK_VERB:bite:bites]"
+msgstr ""
+
+msgctxt "CREATURE:PERMIAN_DIPLOCAULUS"
+msgid "[TLCM_NOUN:skin:SINGULAR]"
+msgstr ""
+
+msgctxt "CREATURE:PERMIAN_DIPLOCAULUS"
+msgid "[TLCM_NOUN:eyes:PLURAL]"
+msgstr ""
+
+msgctxt "CREATURE:PERMIAN_DIPLOCAULUS_MAN"
+msgid "[CASTE_NAME:diplocaulus man:diplocaulus men:diplocaulus man]"
+msgstr ""
+
+msgctxt "CREATURE:PERMIAN_DIPLOCAULUS_MAN"
+msgid "[CASTE_NAME:diplocaulus woman:diplocaulus women:diplocaulus woman]"
+msgstr ""
+
+msgctxt "CREATURE:PERMIAN_DIPLOCAULUS_MAN"
+msgid "[NAME:diplocaulus man:diplocaulus men:diplocaulus man]"
+msgstr ""
+
+msgctxt "CREATURE:PERMIAN_DIPLOCAULUS_MAN"
+msgid ""
+"[DESCRIPTION:A small amphibian person with the wedge-shaped head and tail of"
+" a diplocaulus.]"
+msgstr ""
+
+msgctxt "CREATURE:PERMIAN_ERYOPS"
+msgid ""
+"[DESCRIPTION:A very small squat amphibian with a round tummy and long tail.]"
+msgstr ""
+
+msgctxt "CREATURE:PERMIAN_ERYOPS"
+msgid "[NAME:eryops:eryops:eryops]"
+msgstr ""
+
+msgctxt "CREATURE:PERMIAN_ERYOPS"
+msgid "[CASTE_NAME:eryops:eryops:eryops]"
+msgstr ""
+
+msgctxt "CREATURE:PERMIAN_ERYOPS"
+msgid "[GENERAL_CHILD_NAME:eryops hatchling:eryops hatchlings]"
+msgstr ""
+
+msgctxt "CREATURE:PERMIAN_ERYOPS"
+msgid "[PREFSTRING:round tummies]"
+msgstr ""
+
+msgctxt "CREATURE:PERMIAN_ERYOPS"
+msgid "[ATTACK_VERB:bite:bites]"
+msgstr ""
+
+msgctxt "CREATURE:PERMIAN_ERYOPS"
+msgid "[TLCM_NOUN:skin:PLURAL]"
+msgstr ""
+
+msgctxt "CREATURE:PERMIAN_ERYOPS"
+msgid "[TLCM_NOUN:eyes:PLURAL]"
+msgstr ""
+
+msgctxt "CREATURE:PERMIAN_ERYOPS_MAN"
+msgid "[CASTE_NAME:eryops man:eryops men:eryops man]"
+msgstr ""
+
+msgctxt "CREATURE:PERMIAN_ERYOPS_MAN"
+msgid "[CASTE_NAME:eryops woman:eryops women:eryops woman]"
+msgstr ""
+
+msgctxt "CREATURE:PERMIAN_ERYOPS_MAN"
+msgid "[NAME:eryops man:eryops men:eryops man]"
+msgstr ""
+
+msgctxt "CREATURE:PERMIAN_ERYOPS_MAN"
+msgid ""
+"[DESCRIPTION:A small person with the large head, round tummy, and tail of an"
+" eryops.]"
+msgstr ""
+
+msgctxt "CREATURE:PERMIAN_HELICOPRION"
+msgid ""
+"[DESCRIPTION:A large shark with a strikingly bizarre tooth whorl for biting "
+"prey.]"
+msgstr ""
+
+msgctxt "CREATURE:PERMIAN_HELICOPRION"
+msgid "[NAME:helicoprion:helicoprion:helicoprion]"
+msgstr ""
+
+msgctxt "CREATURE:PERMIAN_HELICOPRION"
+msgid "[CASTE_NAME:helicoprion:helicoprion:helicoprion]"
+msgstr ""
+
+msgctxt "CREATURE:PERMIAN_HELICOPRION"
+msgid "[GENERAL_CHILD_NAME:helicoprion hatchling:helicoprion hatchlings]"
+msgstr ""
+
+msgctxt "CREATURE:PERMIAN_HELICOPRION"
+msgid "[PREFSTRING:tooth whorl]"
+msgstr ""
+
+msgctxt "CREATURE:PERMIAN_HELICOPRION"
+msgid "[ATTACK_VERB:bite:bites]"
+msgstr ""
+
+msgctxt "CREATURE:PERMIAN_HELICOPRION"
+msgid "[ATTACK_VERB:slap:slaps]"
+msgstr ""
+
+msgctxt "CREATURE:PERMIAN_HELICOPRION"
+msgid "[TLCM_NOUN:skin:SINGULAR]"
+msgstr ""
+
+msgctxt "CREATURE:PERMIAN_HELICOPRION"
+msgid "[TLCM_NOUN:eyes:PLURAL]"
+msgstr ""
+
+msgctxt "CREATURE:PERMIAN_HELICOPRION_MAN"
+msgid "[CASTE_NAME:helicoprion man:helicoprion men:helicoprion man]"
+msgstr ""
+
+msgctxt "CREATURE:PERMIAN_HELICOPRION_MAN"
+msgid "[CASTE_NAME:helicoprion woman:helicoprion women:helicoprion woman]"
+msgstr ""
+
+msgctxt "CREATURE:PERMIAN_HELICOPRION_MAN"
+msgid "[NAME:helicoprion man:helicoprion men:helicoprion man]"
+msgstr ""
+
+msgctxt "CREATURE:PERMIAN_HELICOPRION_MAN"
+msgid ""
+"[DESCRIPTION:A large legless shark person with the bizarre tooth whorl of a "
+"helicoprion.]"
+msgstr ""
+
+msgctxt "CREATURE:PERMIAN_DIMETRODON"
+msgid "[DESCRIPTION:A large quadruped with a prominent sail along its back.]"
+msgstr ""
+
+msgctxt "CREATURE:PERMIAN_DIMETRODON"
+msgid "[NAME:dimetrodon:dimetrodon:dimetrodon]"
+msgstr ""
+
+msgctxt "CREATURE:PERMIAN_DIMETRODON"
+msgid "[CASTE_NAME:dimetrodon:dimetrodon:dimetrodon]"
+msgstr ""
+
+msgctxt "CREATURE:PERMIAN_DIMETRODON"
+msgid "[GENERAL_CHILD_NAME:dimetrodon hatchling:dimetrodon hatchlings]"
+msgstr ""
+
+msgctxt "CREATURE:PERMIAN_DIMETRODON"
+msgid "[PREFSTRING:sails]"
+msgstr ""
+
+msgctxt "CREATURE:PERMIAN_DIMETRODON"
+msgid "[ATTACK_VERB:bite:bites]"
+msgstr ""
+
+msgctxt "CREATURE:PERMIAN_DIMETRODON"
+msgid "[TLCM_NOUN:skin:PLURAL]"
+msgstr ""
+
+msgctxt "CREATURE:PERMIAN_DIMETRODON"
+msgid "[TLCM_NOUN:eyes:PLURAL]"
+msgstr ""
+
+msgctxt "CREATURE:PERMIAN_DIMETRODON_MAN"
+msgid "[CASTE_NAME:dimetrodon man:dimetrodon men:dimetrodon man]"
+msgstr ""
+
+msgctxt "CREATURE:PERMIAN_DIMETRODON_MAN"
+msgid "[CASTE_NAME:dimetrodon woman:dimetrodon women:dimetrodon woman]"
+msgstr ""
+
+msgctxt "CREATURE:PERMIAN_DIMETRODON_MAN"
+msgid "[NAME:dimetrodon man:dimetrodon men:dimetrodon man]"
+msgstr ""
+
+msgctxt "CREATURE:PERMIAN_DIMETRODON_MAN"
+msgid ""
+"[DESCRIPTION:A large person with the prominent back sail and tail of a "
+"dimetrodon.]"
+msgstr ""
+
+msgctxt "CREATURE:PERMIAN_DIADECTES"
+msgid ""
+"[DESCRIPTION:A large, strongly built quadruped with a tail.  It is a "
+"terrestrial herbivore.]"
+msgstr ""
+
+msgctxt "CREATURE:PERMIAN_DIADECTES"
+msgid "[NAME:diadectes:diadectes:diadectes]"
+msgstr ""
+
+msgctxt "CREATURE:PERMIAN_DIADECTES"
+msgid "[CASTE_NAME:diadectes:diadectes:diadectes]"
+msgstr ""
+
+msgctxt "CREATURE:PERMIAN_DIADECTES"
+msgid "[GENERAL_CHILD_NAME:diadectes hatchling:diadectes hatchlings]"
+msgstr ""
+
+msgctxt "CREATURE:PERMIAN_DIADECTES"
+msgid "[PREFSTRING:stout bodies]"
+msgstr ""
+
+msgctxt "CREATURE:PERMIAN_DIADECTES"
+msgid "[ATTACK_VERB:bite:bites]"
+msgstr ""
+
+msgctxt "CREATURE:PERMIAN_DIADECTES"
+msgid "[TLCM_NOUN:skin:PLURAL]"
+msgstr ""
+
+msgctxt "CREATURE:PERMIAN_DIADECTES"
+msgid "[TLCM_NOUN:eyes:PLURAL]"
+msgstr ""
+
+msgctxt "CREATURE:PERMIAN_DIADECTES_MAN"
+msgid "[CASTE_NAME:diadectes man:diadectes men:diadectes man]"
+msgstr ""
+
+msgctxt "CREATURE:PERMIAN_DIADECTES_MAN"
+msgid "[CASTE_NAME:diadectes woman:diadectes women:diadectes woman]"
+msgstr ""
+
+msgctxt "CREATURE:PERMIAN_DIADECTES_MAN"
+msgid "[NAME:diadectes man:diadectes men:diadectes man]"
+msgstr ""
+
+msgctxt "CREATURE:PERMIAN_DIADECTES_MAN"
+msgid "[DESCRIPTION:A large, strongly-built person with a tail.]"
+msgstr ""
+
+msgctxt "CREATURE:PERMIAN_ANTEOSAURUS"
+msgid ""
+"[DESCRIPTION:A very large quadrupedal predator, well-suited to the hunt.  It"
+" has a tail and powerful jaws, and it is terrestrial.]"
+msgstr ""
+
+msgctxt "CREATURE:PERMIAN_ANTEOSAURUS"
+msgid "[NAME:anteosaurus:anteosaurus:anteosaurus]"
+msgstr ""
+
+msgctxt "CREATURE:PERMIAN_ANTEOSAURUS"
+msgid "[CASTE_NAME:anteosaurus:anteosaurus:anteosaurus]"
+msgstr ""
+
+msgctxt "CREATURE:PERMIAN_ANTEOSAURUS"
+msgid "[GENERAL_CHILD_NAME:anteosaurus hatchling:anteosaurus hatchlings]"
+msgstr ""
+
+msgctxt "CREATURE:PERMIAN_ANTEOSAURUS"
+msgid "[PREFSTRING:agility]"
+msgstr ""
+
+msgctxt "CREATURE:PERMIAN_ANTEOSAURUS"
+msgid "[PREFSTRING:strength]"
+msgstr ""
+
+msgctxt "CREATURE:PERMIAN_ANTEOSAURUS"
+msgid "[PREFSTRING:hunting prowess]"
+msgstr ""
+
+msgctxt "CREATURE:PERMIAN_ANTEOSAURUS"
+msgid "[ATTACK_VERB:bite:bites]"
+msgstr ""
+
+msgctxt "CREATURE:PERMIAN_ANTEOSAURUS"
+msgid "[TLCM_NOUN:skin:PLURAL]"
+msgstr ""
+
+msgctxt "CREATURE:PERMIAN_ANTEOSAURUS"
+msgid "[TLCM_NOUN:eyes:PLURAL]"
+msgstr ""
+
+msgctxt "CREATURE:PERMIAN_ANTEOSAURUS_MAN"
+msgid "[CASTE_NAME:anteosaurus man:anteosaurus men:anteosaurus man]"
+msgstr ""
+
+msgctxt "CREATURE:PERMIAN_ANTEOSAURUS_MAN"
+msgid "[CASTE_NAME:anteosaurus woman:anteosaurus women:anteosaurus woman]"
+msgstr ""
+
+msgctxt "CREATURE:PERMIAN_ANTEOSAURUS_MAN"
+msgid "[NAME:anteosaurus man:anteosaurus men:anteosaurus man]"
+msgstr ""
+
+msgctxt "CREATURE:PERMIAN_ANTEOSAURUS_MAN"
+msgid ""
+"[DESCRIPTION:A large person with the powerful jaws and tail of an "
+"anteosaurus.]"
+msgstr ""
+
+msgctxt "CREATURE:PERMIAN_LYSTROSAURUS"
+msgid ""
+"[DESCRIPTION:A large quadruped with two teeth and a beak for eating plants.]"
+msgstr ""
+
+msgctxt "CREATURE:PERMIAN_LYSTROSAURUS"
+msgid "[NAME:lystrosaurus:lystrosaurus:lystrosaurus]"
+msgstr ""
+
+msgctxt "CREATURE:PERMIAN_LYSTROSAURUS"
+msgid "[CASTE_NAME:lystrosaurus:lystrosaurus:lystrosaurus]"
+msgstr ""
+
+msgctxt "CREATURE:PERMIAN_LYSTROSAURUS"
+msgid "[GENERAL_CHILD_NAME:lystrosaurus hatchling:lystrosaurus hatchlings]"
+msgstr ""
+
+msgctxt "CREATURE:PERMIAN_LYSTROSAURUS"
+msgid "[PREFSTRING:two teeth]"
+msgstr ""
+
+msgctxt "CREATURE:PERMIAN_LYSTROSAURUS"
+msgid "[ATTACK_VERB:bite:bites]"
+msgstr ""
+
+msgctxt "CREATURE:PERMIAN_LYSTROSAURUS"
+msgid "[TLCM_NOUN:skin:PLURAL]"
+msgstr ""
+
+msgctxt "CREATURE:PERMIAN_LYSTROSAURUS"
+msgid "[TLCM_NOUN:eyes:PLURAL]"
+msgstr ""
+
+msgctxt "CREATURE:PERMIAN_LYSTROSAURUS_MAN"
+msgid "[CASTE_NAME:lystrosaurus man:lystrosaurus men:lystrosaurus man]"
+msgstr ""
+
+msgctxt "CREATURE:PERMIAN_LYSTROSAURUS_MAN"
+msgid "[CASTE_NAME:lystrosaurus woman:lystrosaurus women:lystrosaurus woman]"
+msgstr ""
+
+msgctxt "CREATURE:PERMIAN_LYSTROSAURUS_MAN"
+msgid "[NAME:lystrosaurus man:lystrosaurus men:lystrosaurus man]"
+msgstr ""
+
+msgctxt "CREATURE:PERMIAN_LYSTROSAURUS_MAN"
+msgid ""
+"[DESCRIPTION:A heavily-built person with the two teeth and beak of a "
+"lystrosaurus.]"
+msgstr ""
+
+msgctxt "CREATURE:SILURIAN_JAEKELOPTERUS"
+msgid ""
+"[DESCRIPTION:A large aquatic arthropod with two pincers attached to its "
+"front and a sleek segmented body.]"
+msgstr ""
+
+msgctxt "CREATURE:SILURIAN_JAEKELOPTERUS"
+msgid "[NAME:jaekelopterus:jaekelopterus:jaekelopterus]"
+msgstr ""
+
+msgctxt "CREATURE:SILURIAN_JAEKELOPTERUS"
+msgid "[CASTE_NAME:jaekelopterus:jaekelopterus:jaekelopterus]"
+msgstr ""
+
+msgctxt "CREATURE:SILURIAN_JAEKELOPTERUS"
+msgid "[GENERAL_CHILD_NAME:juvenile jaekelopterus:juvenile jaekelopterus]"
+msgstr ""
+
+msgctxt "CREATURE:SILURIAN_JAEKELOPTERUS"
+msgid "[PREFSTRING:beauty]"
+msgstr ""
+
+msgctxt "CREATURE:SILURIAN_JAEKELOPTERUS"
+msgid "[TLCM_NOUN:chitin:SINGULAR]"
+msgstr ""
+
+msgctxt "CREATURE:SILURIAN_JAEKELOPTERUS"
+msgid "[TLCM_NOUN:eyes:PLURAL]"
+msgstr ""
+
+msgctxt "CREATURE:SILURIAN_JAEKELOPTERUS_MAN"
+msgid "[CASTE_NAME:jaekelopterus man:jaekelopterus men:jaekelopterus man]"
+msgstr ""
+
+msgctxt "CREATURE:SILURIAN_JAEKELOPTERUS_MAN"
+msgid ""
+"[CASTE_NAME:jaekelopterus woman:jaekelopterus women:jaekelopterus woman]"
+msgstr ""
+
+msgctxt "CREATURE:SILURIAN_JAEKELOPTERUS_MAN"
+msgid "[NAME:jaekelopterus man:jaekelopterus men:jaekelopterus man]"
+msgstr ""
+
+msgctxt "CREATURE:SILURIAN_JAEKELOPTERUS_MAN"
+msgid ""
+"[DESCRIPTION:A large arthropod person with two pincers attached to their "
+"head.]"
+msgstr ""
+
+msgctxt "CREATURE:TRIASSIC_GERROTHORAX"
+msgid "[DESCRIPTION:A small amphibian with a flat body.]"
+msgstr ""
+
+msgctxt "CREATURE:TRIASSIC_GERROTHORAX"
+msgid "[NAME:gerrothorax:gerrothorax:gerrothorax]"
+msgstr ""
+
+msgctxt "CREATURE:TRIASSIC_GERROTHORAX"
+msgid "[CASTE_NAME:gerrothorax:gerrothorax:gerrothorax]"
+msgstr ""
+
+msgctxt "CREATURE:TRIASSIC_GERROTHORAX"
+msgid "[GENERAL_CHILD_NAME:gerrothorax hatchling:gerrothorax hatchlings]"
+msgstr ""
+
+msgctxt "CREATURE:TRIASSIC_GERROTHORAX"
+msgid "[PREFSTRING:flatness]"
+msgstr ""
+
+msgctxt "CREATURE:TRIASSIC_GERROTHORAX"
+msgid "[ATTACK_VERB:bite:bites]"
+msgstr ""
+
+msgctxt "CREATURE:TRIASSIC_GERROTHORAX"
+msgid "[TLCM_NOUN:skin:SINGULAR]"
+msgstr ""
+
+msgctxt "CREATURE:TRIASSIC_GERROTHORAX"
+msgid "[TLCM_NOUN:eyes:PLURAL]"
+msgstr ""
+
+msgctxt "CREATURE:TRIASSIC_GERROTHORAX_MAN"
+msgid "[CASTE_NAME:gerrothorax man:gerrothorax men:gerrothorax man]"
+msgstr ""
+
+msgctxt "CREATURE:TRIASSIC_GERROTHORAX_MAN"
+msgid "[CASTE_NAME:gerrothorax woman:gerrothorax women:gerrothorax woman]"
+msgstr ""
+
+msgctxt "CREATURE:TRIASSIC_GERROTHORAX_MAN"
+msgid "[NAME:gerrothorax man:gerrothorax men:gerrothorax man]"
+msgstr ""
+
+msgctxt "CREATURE:TRIASSIC_GERROTHORAX_MAN"
+msgid "[DESCRIPTION:A small amphibian person with a flat body.]"
+msgstr ""
+
+msgctxt "CREATURE:TRIASSIC_EORAPTOR"
+msgid ""
+"[DESCRIPTION:A very small bipedal dinosaur with a long tail and short arms."
+"  It is omnivorous.]"
+msgstr ""
+
+msgctxt "CREATURE:TRIASSIC_EORAPTOR"
+msgid "[NAME:eoraptor:eoraptor:eoraptor]"
+msgstr ""
+
+msgctxt "CREATURE:TRIASSIC_EORAPTOR"
+msgid "[CASTE_NAME:eoraptor:eoraptor:eoraptor]"
+msgstr ""
+
+msgctxt "CREATURE:TRIASSIC_EORAPTOR"
+msgid "[GENERAL_CHILD_NAME:eoraptor hatchling:eoraptor hatchlings]"
+msgstr ""
+
+msgctxt "CREATURE:TRIASSIC_EORAPTOR"
+msgid "[PREFSTRING:short arms]"
+msgstr ""
+
+msgctxt "CREATURE:TRIASSIC_EORAPTOR"
+msgid "[ATTACK_VERB:bite:bites]"
+msgstr ""
+
+msgctxt "CREATURE:TRIASSIC_EORAPTOR"
+msgid "[ATTACK_VERB:scratch:scratches]"
+msgstr ""
+
+msgctxt "CREATURE:TRIASSIC_EORAPTOR"
+msgid "[ATTACK_VERB:kick:kicks]"
+msgstr ""
+
+msgctxt "CREATURE:TRIASSIC_EORAPTOR"
+msgid "[ATTACK_VERB:slap:slaps]"
+msgstr ""
+
+msgctxt "CREATURE:TRIASSIC_EORAPTOR"
+msgid "[TLCM_NOUN:scales:PLURAL]"
+msgstr ""
+
+msgctxt "CREATURE:TRIASSIC_EORAPTOR"
+msgid "[TLCM_NOUN:eyes:PLURAL]"
+msgstr ""
+
+msgctxt "CREATURE:TRIASSIC_EORAPTOR_MAN"
+msgid "[CASTE_NAME:eoraptor man:eoraptor men:eoraptor man]"
+msgstr ""
+
+msgctxt "CREATURE:TRIASSIC_EORAPTOR_MAN"
+msgid "[CASTE_NAME:eoraptor woman:eoraptor women:eoraptor woman]"
+msgstr ""
+
+msgctxt "CREATURE:TRIASSIC_EORAPTOR_MAN"
+msgid "[NAME:eoraptor man:eoraptor men:eoraptor man]"
+msgstr ""
+
+msgctxt "CREATURE:TRIASSIC_EORAPTOR_MAN"
+msgid "[DESCRIPTION:A small dinosaur person with a long tail and short arms.]"
+msgstr ""
+
+msgctxt "CREATURE:TRIASSIC_SHAROVIPTERYX"
+msgid ""
+"[DESCRIPTION:A tiny reptile with a gliding membrane between its back legs.]"
+msgstr ""
+
+msgctxt "CREATURE:TRIASSIC_SHAROVIPTERYX"
+msgid "[NAME:sharovipteryx:sharovipteryx:sharovipteryx]"
+msgstr ""
+
+msgctxt "CREATURE:TRIASSIC_SHAROVIPTERYX"
+msgid "[CASTE_NAME:sharovipteryx:sharovipteryx:sharovipteryx]"
+msgstr ""
+
+msgctxt "CREATURE:TRIASSIC_SHAROVIPTERYX"
+msgid "[GENERAL_CHILD_NAME:sharovipteryx hatchling:sharovipteryx hatchlings]"
+msgstr ""
+
+msgctxt "CREATURE:TRIASSIC_SHAROVIPTERYX"
+msgid "[PREFSTRING:gliding]"
+msgstr ""
+
+msgctxt "CREATURE:TRIASSIC_SHAROVIPTERYX"
+msgid "[ATTACK_VERB:bite:bites]"
+msgstr ""
+
+msgctxt "CREATURE:TRIASSIC_SHAROVIPTERYX"
+msgid "[TLCM_NOUN:scales:PLURAL]"
+msgstr ""
+
+msgctxt "CREATURE:TRIASSIC_SHAROVIPTERYX"
+msgid "[TLCM_NOUN:eyes:PLURAL]"
+msgstr ""
+
+msgctxt "CREATURE:TRIASSIC_SHAROVIPTERYX_MAN"
+msgid "[CASTE_NAME:sharovipteryx man:sharovipteryx men:sharovipteryx man]"
+msgstr ""
+
+msgctxt "CREATURE:TRIASSIC_SHAROVIPTERYX_MAN"
+msgid ""
+"[CASTE_NAME:sharovipteryx woman:sharovipteryx women:sharovipteryx woman]"
+msgstr ""
+
+msgctxt "CREATURE:TRIASSIC_SHAROVIPTERYX_MAN"
+msgid "[NAME:sharovipteryx man:sharovipteryx men:sharovipteryx man]"
+msgstr ""
+
+msgctxt "CREATURE:TRIASSIC_SHAROVIPTERYX_MAN"
+msgid ""
+"[DESCRIPTION:A small reptile person with a gliding membrance between their "
+"legs.  They also have wings.]"
+msgstr ""
+
+msgctxt "CREATURE:TRIASSIC_PSEPHODERMA"
+msgid "[DESCRIPTION:A very small reptile with a divided carapace.]"
+msgstr ""
+
+msgctxt "CREATURE:TRIASSIC_PSEPHODERMA"
+msgid "[NAME:psephoderma:psephoderma:psephoderma]"
+msgstr ""
+
+msgctxt "CREATURE:TRIASSIC_PSEPHODERMA"
+msgid "[CASTE_NAME:psephoderma:psephoderma:psephoderma]"
+msgstr ""
+
+msgctxt "CREATURE:TRIASSIC_PSEPHODERMA"
+msgid "[GENERAL_CHILD_NAME:psephoderma hatchling:psephoderma hatchlings]"
+msgstr ""
+
+msgctxt "CREATURE:TRIASSIC_PSEPHODERMA"
+msgid "[PREFSTRING:double carapace]"
+msgstr ""
+
+msgctxt "CREATURE:TRIASSIC_PSEPHODERMA"
+msgid "[ATTACK_VERB:bite:bites]"
+msgstr ""
+
+msgctxt "CREATURE:TRIASSIC_PSEPHODERMA"
+msgid "[TLCM_NOUN:scales:PLURAL]"
+msgstr ""
+
+msgctxt "CREATURE:TRIASSIC_PSEPHODERMA"
+msgid "[TLCM_NOUN:eyes:PLURAL]"
+msgstr ""
+
+msgctxt "CREATURE:TRIASSIC_PSEPHODERMA_MAN"
+msgid "[CASTE_NAME:psephoderma man:psephoderma men:psephoderma man]"
+msgstr ""
+
+msgctxt "CREATURE:TRIASSIC_PSEPHODERMA_MAN"
+msgid "[CASTE_NAME:psephoderma woman:psephoderma women:psephoderma woman]"
+msgstr ""
+
+msgctxt "CREATURE:TRIASSIC_PSEPHODERMA_MAN"
+msgid "[NAME:psephoderma man:psephoderma men:psephoderma man]"
+msgstr ""
+
+msgctxt "CREATURE:TRIASSIC_PSEPHODERMA_MAN"
+msgid "[DESCRIPTION:A small reptile person with a wide two-part carapace.]"
+msgstr ""
+
+msgctxt "CREATURE:TRIASSIC_PROCOMPSOGNATHUS"
+msgid ""
+"[DESCRIPTION:A tiny bipedal dinosaur.  It runs along the ground and eats "
+"small prey.]"
+msgstr ""
+
+msgctxt "CREATURE:TRIASSIC_PROCOMPSOGNATHUS"
+msgid "[NAME:procompsognathus:procompsognathus:procompsognathus]"
+msgstr ""
+
+msgctxt "CREATURE:TRIASSIC_PROCOMPSOGNATHUS"
+msgid "[CASTE_NAME:procompsognathus:procompsognathus:procompsognathus]"
+msgstr ""
+
+msgctxt "CREATURE:TRIASSIC_PROCOMPSOGNATHUS"
+msgid ""
+"[GENERAL_CHILD_NAME:procompsognathus hatchling:procompsognathus hatchlings]"
+msgstr ""
+
+msgctxt "CREATURE:TRIASSIC_PROCOMPSOGNATHUS"
+msgid "[PREFSTRING:lively nature]"
+msgstr ""
+
+msgctxt "CREATURE:TRIASSIC_PROCOMPSOGNATHUS"
+msgid "[ATTACK_VERB:bite:bites]"
+msgstr ""
+
+msgctxt "CREATURE:TRIASSIC_PROCOMPSOGNATHUS"
+msgid "[TLCM_NOUN:scales:PLURAL]"
+msgstr ""
+
+msgctxt "CREATURE:TRIASSIC_PROCOMPSOGNATHUS"
+msgid "[TLCM_NOUN:eyes:PLURAL]"
+msgstr ""
+
+msgctxt "CREATURE:TRIASSIC_PROCOMPSOGNATHUS_MAN"
+msgid ""
+"[CASTE_NAME:procompsognathus man:procompsognathus men:procompsognathus man]"
+msgstr ""
+
+msgctxt "CREATURE:TRIASSIC_PROCOMPSOGNATHUS_MAN"
+msgid ""
+"[CASTE_NAME:procompsognathus woman:procompsognathus women:procompsognathus "
+"woman]"
+msgstr ""
+
+msgctxt "CREATURE:TRIASSIC_PROCOMPSOGNATHUS_MAN"
+msgid "[NAME:procompsognathus man:procompsognathus men:procompsognathus man]"
+msgstr ""
+
+msgctxt "CREATURE:TRIASSIC_PROCOMPSOGNATHUS_MAN"
+msgid "[DESCRIPTION:A small dinosaur person with a long tail and short arms.]"
+msgstr ""
+
+msgctxt "CREATURE:TRIASSIC_DREPANOSAURUS"
+msgid ""
+"[DESCRIPTION:A very small reptile with a prehensile tail and giant claws on "
+"its second foredigits.]"
+msgstr ""
+
+msgctxt "CREATURE:TRIASSIC_DREPANOSAURUS"
+msgid "[NAME:drepanosaurus:drepanosaurus:drepanosaurus]"
+msgstr ""
+
+msgctxt "CREATURE:TRIASSIC_DREPANOSAURUS"
+msgid "[CASTE_NAME:drepanosaurus:drepanosaurus:drepanosaurus]"
+msgstr ""
+
+msgctxt "CREATURE:TRIASSIC_DREPANOSAURUS"
+msgid "[GENERAL_CHILD_NAME:drepanosaurus hatchling:drepanosaurus hatchlings]"
+msgstr ""
+
+msgctxt "CREATURE:TRIASSIC_DREPANOSAURUS"
+msgid "[PREFSTRING:prehensile tails]"
+msgstr ""
+
+msgctxt "CREATURE:TRIASSIC_DREPANOSAURUS"
+msgid "[PREFSTRING:giant second foredigit claws]"
+msgstr ""
+
+msgctxt "CREATURE:TRIASSIC_DREPANOSAURUS"
+msgid "[ATTACK_VERB:bite:bites]"
+msgstr ""
+
+msgctxt "CREATURE:TRIASSIC_DREPANOSAURUS"
+msgid "[TLCM_NOUN:scales:PLURAL]"
+msgstr ""
+
+msgctxt "CREATURE:TRIASSIC_DREPANOSAURUS"
+msgid "[TLCM_NOUN:eyes:PLURAL]"
+msgstr ""
+
+msgctxt "CREATURE:TRIASSIC_DREPANOSAURUS_MAN"
+msgid "[CASTE_NAME:drepanosaurus man:drepanosaurus men:drepanosaurus man]"
+msgstr ""
+
+msgctxt "CREATURE:TRIASSIC_DREPANOSAURUS_MAN"
+msgid ""
+"[CASTE_NAME:drepanosaurus woman:drepanosaurus women:drepanosaurus woman]"
+msgstr ""
+
+msgctxt "CREATURE:TRIASSIC_DREPANOSAURUS_MAN"
+msgid "[NAME:drepanosaurus man:drepanosaurus men:drepanosaurus man]"
+msgstr ""
+
+msgctxt "CREATURE:TRIASSIC_DREPANOSAURUS_MAN"
+msgid ""
+"[DESCRIPTION:A small reptile person with a prehensile tail and giant claws "
+"on their second foredigits.]"
+msgstr ""
+
 msgctxt "COLOR:AMBER"
 msgid "[NAME:amber]"
 msgstr ""
@@ -31338,6 +37434,86 @@ msgstr "[NAME:жовтозелений]"
 
 msgctxt "COLOR:BLUE-GRAY"
 msgid "[NAME:blue-gray]"
+msgstr ""
+
+msgctxt "COLOR:APPLE_GREEN"
+msgid "[NAME:apple green]"
+msgstr ""
+
+msgctxt "COLOR:BRIGHT_GREEN"
+msgid "[NAME:bright green]"
+msgstr ""
+
+msgctxt "COLOR:LEAF_GREEN"
+msgid "[NAME:leaf green]"
+msgstr ""
+
+msgctxt "COLOR:ZESTY_GREEN"
+msgid "[NAME:zesty green]"
+msgstr ""
+
+msgctxt "COLOR:WOODLAND_GREEN"
+msgid "[NAME:woodland green]"
+msgstr ""
+
+msgctxt "COLOR:GRASS_GREEN"
+msgid "[NAME:grass green]"
+msgstr ""
+
+msgctxt "COLOR:VIBRANT_GREEN"
+msgid "[NAME:vibrant green]"
+msgstr ""
+
+msgctxt "COLOR:EUCALYPTUS"
+msgid "[NAME:eucalyptus]"
+msgstr ""
+
+msgctxt "COLOR:SEA_FOAM"
+msgid "[NAME:sea foam]"
+msgstr ""
+
+msgctxt "COLOR:GLACIER_BLUE"
+msgid "[NAME:glacier blue]"
+msgstr ""
+
+msgctxt "COLOR:RIVER_BLUE"
+msgid "[NAME:river blue]"
+msgstr ""
+
+msgctxt "COLOR:CORNFLOWER"
+msgid "[NAME:cornflower]"
+msgstr ""
+
+msgctxt "COLOR:DEEP_SEA_BLUE"
+msgid "[NAME:deep sea blue]"
+msgstr ""
+
+msgctxt "COLOR:DARK_AZURE"
+msgid "[NAME:dark azure]"
+msgstr ""
+
+msgctxt "COLOR:ULTRAMARINE"
+msgid "[NAME:ultramarine]"
+msgstr ""
+
+msgctxt "COLOR:SAPPHIRE"
+msgid "[NAME:sapphire]"
+msgstr ""
+
+msgctxt "COLOR:CROCUS_PURPLE"
+msgid "[NAME:crocus purple]"
+msgstr ""
+
+msgctxt "COLOR:FOXGLOVE"
+msgid "[NAME:foxglove]"
+msgstr ""
+
+msgctxt "COLOR:ORCHID_PINK"
+msgid "[NAME:orchid pink]"
+msgstr ""
+
+msgctxt "COLOR:RASPBERRY_PINK"
+msgid "[NAME:raspberry pink]"
 msgstr ""
 
 msgctxt "SHAPE:STAR"
@@ -32747,6 +38923,14 @@ msgstr "[ATTACK:BLUNT:200:10000:протинаєте:протинає:NO_SUB:]"
 msgctxt "ITEM_WEAPON:ITEM_WEAPON_SPEAR_TRAINING"
 msgid "[ATTACK:BLUNT:10000:6000:bash:bashes:shaft:]"
 msgstr "[ATTACK:BLUNT:10000:6000:гамселите:гамселить:держаком:]"
+
+msgctxt "ITEM_WEAPON:ITEM_WEAPON_PICK_GREAT"
+msgid "[NAME:great pick:great picks]"
+msgstr ""
+
+msgctxt "ITEM_WEAPON:ITEM_WEAPON_PICK_GREAT"
+msgid "[ATTACK:EDGE:100:4000:strike:strikes:NO_SUB:]"
+msgstr ""
 
 msgctxt "INORGANIC:IRON"
 msgid "[STATE_NAME_ADJ:ALL_SOLID:iron]"
@@ -35692,6 +41876,10 @@ msgctxt "PLANT:SORGHUM"
 msgid "[GROWTH_NAME:sorghum flower cluster:STP]"
 msgstr ""
 
+msgctxt "PLANT:SORGHUM"
+msgid "[STATE_NAME_ADJ:ALL_SOLID:sorghum leaf dye]"
+msgstr ""
+
 msgctxt "PLANT:RICE"
 msgid "[NAME:rice plant]"
 msgstr ""
@@ -35731,6 +41919,10 @@ msgstr "[PREFSTRING:зерня]"
 msgctxt "PLANT:RICE"
 msgid "[GROWTH_NAME:rice leaf:rice leaves]"
 msgstr "[GROWTH_NAME:листок рису:листя рису]"
+
+msgctxt "PLANT:RICE"
+msgid "[STATE_NAME_ADJ:ALL_SOLID:rice husk dye]"
+msgstr ""
 
 msgctxt "PLANT:MAIZE"
 msgid "[NAME:maize plant]"
@@ -36050,6 +42242,10 @@ msgstr ""
 
 msgctxt "PLANT:RED_SPINACH"
 msgid "[GROWTH_NAME:red spinach inflorescence:STP]"
+msgstr ""
+
+msgctxt "PLANT:RED_SPINACH"
+msgid "[STATE_NAME_ADJ:ALL_SOLID:red spinach leaf dye]"
 msgstr ""
 
 msgctxt "PLANT:ELEPHANT-HEAD_AMARANTH"
@@ -36997,6 +43193,10 @@ msgctxt "PLANT:CABBAGE"
 msgid "[GROWTH_NAME:cabbage flower spike:STP]"
 msgstr ""
 
+msgctxt "PLANT:CABBAGE"
+msgid "[STATE_NAME_ADJ:ALL_SOLID:cabbage leaf dye]"
+msgstr ""
+
 msgctxt "PLANT:CAPER"
 msgid "[NAME:caper bush]"
 msgstr ""
@@ -37071,6 +43271,10 @@ msgstr ""
 
 msgctxt "PLANT:WILD_CARROT"
 msgid "[GROWTH_NAME:carrot umbel:STP]"
+msgstr ""
+
+msgctxt "PLANT:WILD_CARROT"
+msgid "[STATE_NAME_ADJ:ALL_SOLID:carrot dye]"
 msgstr ""
 
 msgctxt "PLANT:CASSAVA"
@@ -37295,6 +43499,10 @@ msgstr ""
 
 msgctxt "PLANT:EGGPLANT"
 msgid "[GROWTH_NAME:eggplant:STP]"
+msgstr ""
+
+msgctxt "PLANT:EGGPLANT"
+msgid "[STATE_NAME_ADJ:ALL_SOLID:eggplant dye]"
 msgstr ""
 
 msgctxt "PLANT:GARDEN_CRESS"
@@ -37573,6 +43781,10 @@ msgctxt "PLANT:ONION"
 msgid "[GROWTH_NAME:onion:STP]"
 msgstr ""
 
+msgctxt "PLANT:ONION"
+msgid "[STATE_NAME_ADJ:ALL_SOLID:onion skin dye]"
+msgstr ""
+
 msgctxt "PLANT:PARSNIP"
 msgid "[NAME:parsnip plant]"
 msgstr ""
@@ -37677,6 +43889,10 @@ msgctxt "PLANT:PEANUT"
 msgid "[GROWTH_NAME:peanut pod:STP]"
 msgstr ""
 
+msgctxt "PLANT:PEANUT"
+msgid "[STATE_NAME_ADJ:ALL_SOLID:peanut shell dye]"
+msgstr ""
+
 msgctxt "PLANT:PEPPER"
 msgid "[NAME:pepper plant]"
 msgstr ""
@@ -37749,6 +43965,10 @@ msgctxt "PLANT:POTATO"
 msgid "[GROWTH_NAME:potato flower:STP]"
 msgstr ""
 
+msgctxt "PLANT:POTATO"
+msgid "[STATE_NAME_ADJ:ALL_SOLID:potato skin dye]"
+msgstr ""
+
 msgctxt "PLANT:RADISH"
 msgid "[NAME:radish plant]"
 msgstr ""
@@ -37787,6 +44007,10 @@ msgstr ""
 
 msgctxt "PLANT:RADISH"
 msgid "[GROWTH_NAME:radish raceme:STP]"
+msgstr ""
+
+msgctxt "PLANT:RADISH"
+msgid "[STATE_NAME_ADJ:ALL_SOLID:radish dye]"
 msgstr ""
 
 msgctxt "PLANT:RED_BEAN"
@@ -37849,6 +44073,10 @@ msgctxt "PLANT:RHUBARB"
 msgid "[GROWTH_NAME:rhubarb inflorescence:STP]"
 msgstr ""
 
+msgctxt "PLANT:RHUBARB"
+msgid "[STATE_NAME_ADJ:ALL_SOLID:rhubarb leaf dye]"
+msgstr ""
+
 msgctxt "PLANT:SOYBEAN"
 msgid "[NAME:soybean plant]"
 msgstr "[NAME:сойова рослина]"
@@ -37908,6 +44136,10 @@ msgstr "[GROWTH_NAME:листок шпинату:листя шпинату]"
 msgctxt "PLANT:SPINACH"
 msgid "[GROWTH_NAME:spinach flower:STP]"
 msgstr "[GROWTH_NAME:квітка шпинату:квітки шпинату]"
+
+msgctxt "PLANT:SPINACH"
+msgid "[STATE_NAME_ADJ:ALL_SOLID:spinach leaf dye]"
+msgstr ""
 
 msgctxt "PLANT:SQUASH"
 msgid "[NAME:squash vine]"
@@ -37981,6 +44213,10 @@ msgctxt "PLANT:SWEET_POTATO"
 msgid "[GROWTH_NAME:sweet potato flower:STP]"
 msgstr ""
 
+msgctxt "PLANT:SWEET_POTATO"
+msgid "[STATE_NAME_ADJ:ALL_SOLID:sweet potato skin dye]"
+msgstr ""
+
 msgctxt "PLANT:TARO"
 msgid "[NAME:taro]"
 msgstr ""
@@ -38052,6 +44288,10 @@ msgstr "[GROWTH_NAME:квітка помідора:квітки помідора
 msgctxt "PLANT:TOMATO"
 msgid "[GROWTH_NAME:tomato:tomatoes]"
 msgstr "[GROWTH_NAME:помідор:помідори]"
+
+msgctxt "PLANT:TOMATO"
+msgid "[STATE_NAME_ADJ:ALL_SOLID:tomato skin dye]"
+msgstr ""
 
 msgctxt "PLANT:TOMATILLO"
 msgid "[NAME:tomatillo plant]"
@@ -38137,6 +44377,10 @@ msgctxt "PLANT:TURNIP"
 msgid "[GROWTH_NAME:turnip flower:STP]"
 msgstr ""
 
+msgctxt "PLANT:TURNIP"
+msgid "[STATE_NAME_ADJ:ALL_SOLID:turnip skin dye]"
+msgstr ""
+
 msgctxt "PLANT:URAD_BEAN"
 msgid "[NAME:urad bean plant]"
 msgstr ""
@@ -38204,6 +44448,10 @@ msgstr "[GROWTH_NAME:кавун:кавуни]"
 msgctxt "PLANT:WATERMELON"
 msgid "[GROWTH_PRINT:'o':'o':]"
 msgstr "[GROWTH_PRINT:'o':'o':]"
+
+msgctxt "PLANT:WATERMELON"
+msgid "[STATE_NAME_ADJ:ALL_SOLID:watermelon dye]"
+msgstr ""
 
 msgctxt "PLANT:WINTER_MELON"
 msgid "[NAME:winter melon vine]"
@@ -38441,6 +44689,10 @@ msgctxt "PLANT:GRAPE"
 msgid "[GROWTH_NAME:grape:STP]"
 msgstr ""
 
+msgctxt "PLANT:GRAPE"
+msgid "[STATE_NAME_ADJ:ALL_SOLID:grape dye]"
+msgstr ""
+
 msgctxt "PLANT:CRANBERRY"
 msgid "[NAME:cranberry vine]"
 msgstr ""
@@ -38483,6 +44735,10 @@ msgstr ""
 
 msgctxt "PLANT:CRANBERRY"
 msgid "[GROWTH_NAME:cranberry:cranberries]"
+msgstr ""
+
+msgctxt "PLANT:CRANBERRY"
+msgid "[STATE_NAME_ADJ:ALL_SOLID:cranberry dye]"
 msgstr ""
 
 msgctxt "PLANT:BILBERRY"
@@ -38529,6 +44785,10 @@ msgctxt "PLANT:BILBERRY"
 msgid "[GROWTH_NAME:bilberry:bilberries]"
 msgstr ""
 
+msgctxt "PLANT:BILBERRY"
+msgid "[STATE_NAME_ADJ:ALL_SOLID:bilberry dye]"
+msgstr ""
+
 msgctxt "PLANT:BLUEBERRY"
 msgid "[NAME:blueberry bush]"
 msgstr ""
@@ -38571,6 +44831,10 @@ msgstr ""
 
 msgctxt "PLANT:BLUEBERRY"
 msgid "[GROWTH_NAME:blueberry:blueberries]"
+msgstr ""
+
+msgctxt "PLANT:BLUEBERRY"
+msgid "[STATE_NAME_ADJ:ALL_SOLID:blueberry dye]"
 msgstr ""
 
 msgctxt "PLANT:BLACKBERRY"
@@ -38617,6 +44881,10 @@ msgctxt "PLANT:BLACKBERRY"
 msgid "[GROWTH_NAME:blackberry:blackberries]"
 msgstr ""
 
+msgctxt "PLANT:BLACKBERRY"
+msgid "[STATE_NAME_ADJ:ALL_SOLID:blackberry dye]"
+msgstr ""
+
 msgctxt "PLANT:RASPBERRY"
 msgid "[NAME:raspberry bush]"
 msgstr ""
@@ -38661,6 +44929,10 @@ msgctxt "PLANT:RASPBERRY"
 msgid "[GROWTH_NAME:raspberry:raspberries]"
 msgstr ""
 
+msgctxt "PLANT:RASPBERRY"
+msgid "[STATE_NAME_ADJ:ALL_SOLID:raspberry dye]"
+msgstr ""
+
 msgctxt "PLANT:PINEAPPLE"
 msgid "[NAME:pineapple plant]"
 msgstr ""
@@ -38703,6 +44975,10 @@ msgstr ""
 
 msgctxt "PLANT:PINEAPPLE"
 msgid "[GROWTH_NAME:pineapple:STP]"
+msgstr ""
+
+msgctxt "PLANT:PINEAPPLE"
+msgid "[STATE_NAME_ADJ:ALL_SOLID:pineapple leaf dye]"
 msgstr ""
 
 msgctxt "PLANT:MEADOW-GRASS"
@@ -39093,6 +45369,14 @@ msgctxt "PLANT:BANANA"
 msgid "[GROWTH_NAME:banana:STP]"
 msgstr ""
 
+msgctxt "PLANT:BANANA"
+msgid "[STATE_NAME_ADJ:ALL_SOLID:banana leaf dye]"
+msgstr ""
+
+msgctxt "PLANT:BANANA"
+msgid "[STATE_NAME_ADJ:ALL_SOLID:banana peel dye]"
+msgstr ""
+
 msgctxt "PLANT:CARAMBOLA"
 msgid "[NAME:carambola tree]"
 msgstr ""
@@ -39225,6 +45509,10 @@ msgctxt "PLANT:COFFEE"
 msgid "[GROWTH_NAME:coffee cherry:coffee cherries]"
 msgstr ""
 
+msgctxt "PLANT:COFFEE"
+msgid "[STATE_NAME_ADJ:ALL_SOLID:coffee bean dye]"
+msgstr ""
+
 msgctxt "PLANT:DURIAN"
 msgid "[NAME:durian tree]"
 msgstr ""
@@ -39327,6 +45615,14 @@ msgstr ""
 
 msgctxt "PLANT:GUAVA"
 msgid "[GROWTH_NAME:guava:STP]"
+msgstr ""
+
+msgctxt "PLANT:GUAVA"
+msgid "[STATE_NAME_ADJ:ALL_SOLID:guava bark dye]"
+msgstr ""
+
+msgctxt "PLANT:GUAVA"
+msgid "[STATE_NAME_ADJ:ALL_SOLID:guava leaf dye]"
 msgstr ""
 
 msgctxt "PLANT:PAPAYA"
@@ -39513,6 +45809,10 @@ msgctxt "PLANT:TEA"
 msgid "[GROWTH_NAME:tea tree capsule:STP]"
 msgstr ""
 
+msgctxt "PLANT:TEA"
+msgid "[STATE_NAME_ADJ:ALL_SOLID:tea leaf dye]"
+msgstr ""
+
 msgctxt "PLANT:AVOCADO"
 msgid "[NAME:avocado tree]"
 msgstr ""
@@ -39551,6 +45851,10 @@ msgstr ""
 
 msgctxt "PLANT:AVOCADO"
 msgid "[GROWTH_NAME:avocado:STP]"
+msgstr ""
+
+msgctxt "PLANT:AVOCADO"
+msgid "[STATE_NAME_ADJ:ALL_SOLID:avocado skin dye]"
 msgstr ""
 
 msgctxt "PLANT:LIME"
@@ -40177,6 +46481,14 @@ msgctxt "PLANT:OLIVE"
 msgid "[GROWTH_NAME:olive:STP]"
 msgstr ""
 
+msgctxt "PLANT:OLIVE"
+msgid "[STATE_NAME_ADJ:ALL_SOLID:olive bark dye]"
+msgstr ""
+
+msgctxt "PLANT:OLIVE"
+msgid "[STATE_NAME_ADJ:ALL_SOLID:olive leaf dye]"
+msgstr ""
+
 msgctxt "PLANT:POMEGRANATE"
 msgid "[NAME:pomegranate tree]"
 msgstr ""
@@ -40229,6 +46541,18 @@ msgctxt "PLANT:POMEGRANATE"
 msgid "[GROWTH_NAME:pomegranate:STP]"
 msgstr ""
 
+msgctxt "PLANT:POMEGRANATE"
+msgid "[STATE_NAME_ADJ:ALL_SOLID:pomegranate leaf dye]"
+msgstr ""
+
+msgctxt "PLANT:POMEGRANATE"
+msgid "[STATE_NAME_ADJ:ALL_SOLID:pomegranate rind dye]"
+msgstr ""
+
+msgctxt "PLANT:POMEGRANATE"
+msgid "[STATE_NAME_ADJ:ALL_SOLID:pomegranate bark dye]"
+msgstr ""
+
 msgctxt "PLANT:ALMOND"
 msgid "[NAME:almond tree]"
 msgstr ""
@@ -40267,6 +46591,10 @@ msgstr ""
 
 msgctxt "PLANT:ALMOND"
 msgid "[GROWTH_NAME:almond:STP]"
+msgstr ""
+
+msgctxt "PLANT:ALMOND"
+msgid "[STATE_NAME_ADJ:ALL_SOLID:almond shell dye]"
 msgstr ""
 
 msgctxt "PLANT:APPLE"
@@ -40321,6 +46649,14 @@ msgctxt "PLANT:APPLE"
 msgid "[GROWTH_NAME:apple:STP]"
 msgstr "[GROWTH_NAME:яблуко:яблука]"
 
+msgctxt "PLANT:APPLE"
+msgid "[STATE_NAME_ADJ:ALL_SOLID:apple bark dye]"
+msgstr ""
+
+msgctxt "PLANT:APPLE"
+msgid "[STATE_NAME_ADJ:ALL_SOLID:apple leaf dye]"
+msgstr ""
+
 msgctxt "PLANT:APRICOT"
 msgid "[NAME:apricot tree]"
 msgstr ""
@@ -40372,6 +46708,10 @@ msgstr ""
 msgctxt "PLANT:APRICOT"
 msgid "[GROWTH_NAME:apricot:STP]"
 msgstr "[GROWTH_NAME:абрикос:абрикоси]"
+
+msgctxt "PLANT:APRICOT"
+msgid "[STATE_NAME_ADJ:ALL_SOLID:apricot bark dye]"
+msgstr ""
 
 msgctxt "PLANT:BAYBERRY"
 msgid "[NAME:bayberry tree]"
@@ -40427,6 +46767,14 @@ msgstr ""
 
 msgctxt "PLANT:BAYBERRY"
 msgid "[GROWTH_NAME:bayberry:bayberries]"
+msgstr ""
+
+msgctxt "PLANT:BAYBERRY"
+msgid "[STATE_NAME_ADJ:ALL_SOLID:bayberry leaf dye]"
+msgstr ""
+
+msgctxt "PLANT:BAYBERRY"
+msgid "[STATE_NAME_ADJ:ALL_SOLID:bayberry dye]"
 msgstr ""
 
 msgctxt "PLANT:CHERRY"
@@ -40485,6 +46833,14 @@ msgctxt "PLANT:CHERRY"
 msgid "[GROWTH_NAME:cherry:cherries]"
 msgstr "[GROWTH_NAME:вишня:вишні]"
 
+msgctxt "PLANT:CHERRY"
+msgid "[STATE_NAME_ADJ:ALL_SOLID:cherry bark dye]"
+msgstr ""
+
+msgctxt "PLANT:CHERRY"
+msgid "[STATE_NAME_ADJ:ALL_SOLID:cherry leaf dye]"
+msgstr ""
+
 msgctxt "PLANT:GINKGO"
 msgid "[NAME:ginkgo tree]"
 msgstr ""
@@ -40525,6 +46881,10 @@ msgctxt "PLANT:GINKGO"
 msgid "[GROWTH_NAME:ginkgo seed:STP]"
 msgstr ""
 
+msgctxt "PLANT:GINKGO"
+msgid "[STATE_NAME_ADJ:ALL_SOLID:ginkgo leaf dye]"
+msgstr ""
+
 msgctxt "PLANT:HAZEL"
 msgid "[NAME:hazel tree]"
 msgstr ""
@@ -40563,6 +46923,14 @@ msgstr ""
 
 msgctxt "PLANT:HAZEL"
 msgid "[GROWTH_NAME:hazel nut:STP]"
+msgstr ""
+
+msgctxt "PLANT:HAZEL"
+msgid "[STATE_NAME_ADJ:ALL_SOLID:hazel bark dye]"
+msgstr ""
+
+msgctxt "PLANT:HAZEL"
+msgid "[STATE_NAME_ADJ:ALL_SOLID:hazel leaf dye]"
 msgstr ""
 
 msgctxt "PLANT:PEACH"
@@ -40617,6 +46985,10 @@ msgctxt "PLANT:PEACH"
 msgid "[GROWTH_NAME:peach:peaches]"
 msgstr "[GROWTH_NAME:персик:персики]"
 
+msgctxt "PLANT:PEACH"
+msgid "[STATE_NAME_ADJ:ALL_SOLID:peach bark dye]"
+msgstr ""
+
 msgctxt "PLANT:PEAR"
 msgid "[NAME:pear tree]"
 msgstr ""
@@ -40668,6 +47040,14 @@ msgstr ""
 msgctxt "PLANT:PEAR"
 msgid "[GROWTH_NAME:pear:STP]"
 msgstr "[GROWTH_NAME:груша:груші]"
+
+msgctxt "PLANT:PEAR"
+msgid "[STATE_NAME_ADJ:ALL_SOLID:pear bark dye]"
+msgstr ""
+
+msgctxt "PLANT:PEAR"
+msgid "[STATE_NAME_ADJ:ALL_SOLID:pear leaf dye]"
+msgstr ""
 
 msgctxt "PLANT:PECAN"
 msgid "[NAME:pecan tree]"
@@ -40761,6 +47141,10 @@ msgctxt "PLANT:PERSIMMON"
 msgid "[GROWTH_NAME:persimmon:STP]"
 msgstr ""
 
+msgctxt "PLANT:PERSIMMON"
+msgid "[STATE_NAME_ADJ:ALL_SOLID:persimmon dye]"
+msgstr ""
+
 msgctxt "PLANT:PLUM"
 msgid "[NAME:plum tree]"
 msgstr ""
@@ -40812,6 +47196,10 @@ msgstr ""
 msgctxt "PLANT:PLUM"
 msgid "[GROWTH_NAME:plum:STP]"
 msgstr "[GROWTH_NAME:слива:сливи]"
+
+msgctxt "PLANT:PLUM"
+msgid "[STATE_NAME_ADJ:ALL_SOLID:plum bark dye]"
+msgstr ""
 
 msgctxt "PLANT:SAND_PEAR"
 msgid "[NAME:sand pear tree]"
@@ -41677,6 +48065,14 @@ msgctxt "PLANT:MANGROVE"
 msgid "[GROWTH_NAME:mangrove fruit:mangrove fruit]"
 msgstr ""
 
+msgctxt "PLANT:MANGROVE"
+msgid "[STATE_NAME_ADJ:ALL_SOLID:mangrove bark dye]"
+msgstr ""
+
+msgctxt "PLANT:MANGROVE"
+msgid "[STATE_NAME_ADJ:ALL_SOLID:mangrove leaf dye]"
+msgstr ""
+
 msgctxt "PLANT:SAGUARO"
 msgid "[NAME:saguaro]"
 msgstr ""
@@ -41747,6 +48143,10 @@ msgstr ""
 
 msgctxt "PLANT:PINE"
 msgid "[GROWTH_NAME:pine pollen cone:STP]"
+msgstr ""
+
+msgctxt "PLANT:PINE"
+msgid "[STATE_NAME_ADJ:ALL_SOLID:pine bark dye]"
 msgstr ""
 
 msgctxt "PLANT:CEDAR"
@@ -41829,6 +48229,10 @@ msgctxt "PLANT:OAK"
 msgid "[GROWTH_NAME:acorn:STP]"
 msgstr "[GROWTH_NAME:жолудь:жолуді]"
 
+msgctxt "PLANT:OAK"
+msgid "[STATE_NAME_ADJ:ALL_SOLID:oak bark dye]"
+msgstr ""
+
 msgctxt "PLANT:MAHOGANY"
 msgid "[NAME:mahogany]"
 msgstr ""
@@ -41863,6 +48267,10 @@ msgstr ""
 
 msgctxt "PLANT:MAHOGANY"
 msgid "[GROWTH_NAME:mahogany fruit:mahogany fruit]"
+msgstr ""
+
+msgctxt "PLANT:MAHOGANY"
+msgid "[STATE_NAME_ADJ:ALL_SOLID:mahogany bark dye]"
 msgstr ""
 
 msgctxt "PLANT:ACACIA"
@@ -41903,6 +48311,10 @@ msgstr ""
 
 msgctxt "PLANT:ACACIA"
 msgid "[GROWTH_NAME:acacia seed pod:STP]"
+msgstr ""
+
+msgctxt "PLANT:ACACIA"
+msgid "[STATE_NAME_ADJ:ALL_SOLID:acacia bark dye]"
 msgstr ""
 
 msgctxt "PLANT:KAPOK"
@@ -41977,6 +48389,10 @@ msgctxt "PLANT:MAPLE"
 msgid "[GROWTH_NAME:maple samara:STP]"
 msgstr ""
 
+msgctxt "PLANT:MAPLE"
+msgid "[STATE_NAME_ADJ:ALL_SOLID:maple bark dye]"
+msgstr ""
+
 msgctxt "PLANT:WILLOW"
 msgid "[NAME:willow]"
 msgstr "[NAME:верба]"
@@ -42019,6 +48435,14 @@ msgstr ""
 
 msgctxt "PLANT:WILLOW"
 msgid "[GROWTH_NAME:willow fruit:willow fruit]"
+msgstr ""
+
+msgctxt "PLANT:WILLOW"
+msgid "[STATE_NAME_ADJ:ALL_SOLID:willow bark dye]"
+msgstr ""
+
+msgctxt "PLANT:WILLOW"
+msgid "[STATE_NAME_ADJ:ALL_SOLID:willow leaf dye]"
 msgstr ""
 
 msgctxt "PLANT:TOWER_CAP"
@@ -42341,6 +48765,10 @@ msgctxt "PLANT:LARCH"
 msgid "[GROWTH_NAME:larch pollen cone:STP]"
 msgstr ""
 
+msgctxt "PLANT:LARCH"
+msgid "[STATE_NAME_ADJ:ALL_SOLID:larch bark dye]"
+msgstr ""
+
 msgctxt "PLANT:CHESTNUT"
 msgid "[NAME:chestnut]"
 msgstr "[NAME:каштан]"
@@ -42397,6 +48825,18 @@ msgctxt "PLANT:CHESTNUT"
 msgid "[GROWTH_NAME:chestnut burr:STP]"
 msgstr ""
 
+msgctxt "PLANT:CHESTNUT"
+msgid "[STATE_NAME_ADJ:ALL_SOLID:chestnut bark dye]"
+msgstr ""
+
+msgctxt "PLANT:CHESTNUT"
+msgid "[STATE_NAME_ADJ:ALL_SOLID:chestnut leaf dye]"
+msgstr ""
+
+msgctxt "PLANT:CHESTNUT"
+msgid "[STATE_NAME_ADJ:ALL_SOLID:chestnut hull dye]"
+msgstr ""
+
 msgctxt "PLANT:ALDER"
 msgid "[NAME:alder]"
 msgstr "[NAME:вільха]"
@@ -42439,6 +48879,14 @@ msgstr ""
 
 msgctxt "PLANT:ALDER"
 msgid "[GROWTH_NAME:alder cone:STP]"
+msgstr ""
+
+msgctxt "PLANT:ALDER"
+msgid "[STATE_NAME_ADJ:ALL_SOLID:alder bark dye]"
+msgstr ""
+
+msgctxt "PLANT:ALDER"
+msgid "[STATE_NAME_ADJ:ALL_SOLID:alder cone dye]"
 msgstr ""
 
 msgctxt "PLANT:BIRCH"
@@ -42485,6 +48933,10 @@ msgctxt "PLANT:BIRCH"
 msgid "[GROWTH_NAME:birch seed catkin:STP]"
 msgstr ""
 
+msgctxt "PLANT:BIRCH"
+msgid "[STATE_NAME_ADJ:ALL_SOLID:birch bark dye]"
+msgstr ""
+
 msgctxt "PLANT:ASH"
 msgid "[NAME:ash]"
 msgstr "[NAME:ясен]"
@@ -42523,6 +48975,10 @@ msgstr ""
 
 msgctxt "PLANT:ASH"
 msgid "[GROWTH_NAME:ash samara:STP]"
+msgstr ""
+
+msgctxt "PLANT:ASH"
+msgid "[STATE_NAME_ADJ:ALL_SOLID:ash bark dye]"
 msgstr ""
 
 msgctxt "PLANT:CANDLENUT"
@@ -43175,6 +49631,560 @@ msgstr ""
 
 msgctxt "REACTION:MAKE WOODEN PEDESTAL"
 msgid "[PRODUCT_TOKEN:pedestal]"
+msgstr ""
+
+msgctxt "REACTION:ACACIA_BARK_DYE"
+msgid "[NAME:make acacia bark dye]"
+msgstr ""
+
+msgctxt "REACTION:ACACIA_BARK_DYE"
+msgid "[REAGENT:log:]"
+msgstr ""
+
+msgctxt "REACTION:ACACIA_BARK_DYE"
+msgid "[CATEGORY_NAME:Make dye]"
+msgstr ""
+
+msgctxt "REACTION:ACACIA_BARK_DYE"
+msgid ""
+"[CATEGORY_DESCRIPTION:Make dyes from plants and plant parts that don't "
+"require a mill.]"
+msgstr ""
+
+msgctxt "REACTION:ALDER_BARK_DYE"
+msgid "[NAME:make alder bark dye]"
+msgstr ""
+
+msgctxt "REACTION:ALDER_BARK_DYE"
+msgid "[REAGENT:log:]"
+msgstr ""
+
+msgctxt "REACTION:ALDER_CONE_DYE"
+msgid "[NAME:make alder cone dye]"
+msgstr ""
+
+msgctxt "REACTION:ALDER_CONE_DYE"
+msgid "[REAGENT:plant:]"
+msgstr ""
+
+msgctxt "REACTION:ALMOND_SHELL_DYE"
+msgid "[NAME:make almond shell dye]"
+msgstr ""
+
+msgctxt "REACTION:ALMOND_SHELL_DYE"
+msgid "[REAGENT:plant:]"
+msgstr ""
+
+msgctxt "REACTION:APPLE_BARK_DYE"
+msgid "[NAME:make apple bark dye]"
+msgstr ""
+
+msgctxt "REACTION:APPLE_BARK_DYE"
+msgid "[REAGENT:log:]"
+msgstr ""
+
+msgctxt "REACTION:APPLE_LEAF_DYE"
+msgid "[NAME:make apple leaf dye]"
+msgstr ""
+
+msgctxt "REACTION:APPLE_LEAF_DYE"
+msgid "[REAGENT:plant:]"
+msgstr ""
+
+msgctxt "REACTION:APRICOT_BARK_DYE"
+msgid "[NAME:make apricot bark dye]"
+msgstr ""
+
+msgctxt "REACTION:APRICOT_BARK_DYE"
+msgid "[REAGENT:log:]"
+msgstr ""
+
+msgctxt "REACTION:ASH_BARK_DYE"
+msgid "[NAME:make ash bark dye]"
+msgstr ""
+
+msgctxt "REACTION:ASH_BARK_DYE"
+msgid "[REAGENT:log:]"
+msgstr ""
+
+msgctxt "REACTION:AVOCADO_SKIN_DYE"
+msgid "[NAME:make avocado skin dye]"
+msgstr ""
+
+msgctxt "REACTION:AVOCADO_SKIN_DYE"
+msgid "[REAGENT:plant:]"
+msgstr ""
+
+msgctxt "REACTION:BANANA_LEAF_DYE"
+msgid "[NAME:make banana leaf dye]"
+msgstr ""
+
+msgctxt "REACTION:BANANA_LEAF_DYE"
+msgid "[REAGENT:plant:]"
+msgstr ""
+
+msgctxt "REACTION:BANANA_PEEL_DYE"
+msgid "[NAME:make banana peel dye]"
+msgstr ""
+
+msgctxt "REACTION:BANANA_PEEL_DYE"
+msgid "[REAGENT:plant:]"
+msgstr ""
+
+msgctxt "REACTION:BAYBERRY_LEAF_DYE"
+msgid "[NAME:make bayberry leaf dye]"
+msgstr ""
+
+msgctxt "REACTION:BAYBERRY_LEAF_DYE"
+msgid "[REAGENT:plant:]"
+msgstr ""
+
+msgctxt "REACTION:BAYBERRY_BERRY_DYE"
+msgid "[NAME:make bayberry dye]"
+msgstr ""
+
+msgctxt "REACTION:BAYBERRY_BERRY_DYE"
+msgid "[REAGENT:plant:]"
+msgstr ""
+
+msgctxt "REACTION:BIRCH_BARK_DYE"
+msgid "[NAME:make birch bark dye]"
+msgstr ""
+
+msgctxt "REACTION:BIRCH_BARK_DYE"
+msgid "[REAGENT:log:]"
+msgstr ""
+
+msgctxt "REACTION:CHERRY_BARK_DYE"
+msgid "[NAME:make cherry bark dye]"
+msgstr ""
+
+msgctxt "REACTION:CHERRY_BARK_DYE"
+msgid "[REAGENT:log:]"
+msgstr ""
+
+msgctxt "REACTION:CHERRY_LEAF_DYE"
+msgid "[NAME:make cherry leaf dye]"
+msgstr ""
+
+msgctxt "REACTION:CHERRY_LEAF_DYE"
+msgid "[REAGENT:plant:]"
+msgstr ""
+
+msgctxt "REACTION:CHESTNUT_BARK_DYE"
+msgid "[NAME:make chestnut bark dye]"
+msgstr ""
+
+msgctxt "REACTION:CHESTNUT_BARK_DYE"
+msgid "[REAGENT:log:]"
+msgstr ""
+
+msgctxt "REACTION:CHESTNUT_LEAF_DYE"
+msgid "[NAME:make chestnut leaf dye]"
+msgstr ""
+
+msgctxt "REACTION:CHESTNUT_LEAF_DYE"
+msgid "[REAGENT:plant:]"
+msgstr ""
+
+msgctxt "REACTION:CHESTNUT_HULL_DYE"
+msgid "[NAME:make chestnut hull dye]"
+msgstr ""
+
+msgctxt "REACTION:CHESTNUT_HULL_DYE"
+msgid "[REAGENT:plant:]"
+msgstr ""
+
+msgctxt "REACTION:COFFEE_BEAN_DYE"
+msgid "[NAME:make coffee bean dye]"
+msgstr ""
+
+msgctxt "REACTION:COFFEE_BEAN_DYE"
+msgid "[REAGENT:plant:]"
+msgstr ""
+
+msgctxt "REACTION:GINKGO_LEAF_DYE"
+msgid "[NAME:make ginkgo leaf dye]"
+msgstr ""
+
+msgctxt "REACTION:GINKGO_LEAF_DYE"
+msgid "[REAGENT:plant:]"
+msgstr ""
+
+msgctxt "REACTION:GUAVA_BARK_DYE"
+msgid "[NAME:make guava bark dye]"
+msgstr ""
+
+msgctxt "REACTION:GUAVA_BARK_DYE"
+msgid "[REAGENT:log:]"
+msgstr ""
+
+msgctxt "REACTION:GUAVA_LEAF_DYE"
+msgid "[NAME:make guava leaf dye]"
+msgstr ""
+
+msgctxt "REACTION:GUAVA_LEAF_DYE"
+msgid "[REAGENT:plant:]"
+msgstr ""
+
+msgctxt "REACTION:HAZEL_BARK_DYE"
+msgid "[NAME:make hazel bark dye]"
+msgstr ""
+
+msgctxt "REACTION:HAZEL_BARK_DYE"
+msgid "[REAGENT:log:]"
+msgstr ""
+
+msgctxt "REACTION:HAZEL_LEAF_DYE"
+msgid "[NAME:make hazel leaf dye]"
+msgstr ""
+
+msgctxt "REACTION:HAZEL_LEAF_DYE"
+msgid "[REAGENT:plant:]"
+msgstr ""
+
+msgctxt "REACTION:LARCH_BARK_DYE"
+msgid "[NAME:make larch bark dye]"
+msgstr ""
+
+msgctxt "REACTION:LARCH_BARK_DYE"
+msgid "[REAGENT:log:]"
+msgstr ""
+
+msgctxt "REACTION:MAHOGANY_BARK_DYE"
+msgid "[NAME:make mahogany bark dye]"
+msgstr ""
+
+msgctxt "REACTION:MAHOGANY_BARK_DYE"
+msgid "[REAGENT:log:]"
+msgstr ""
+
+msgctxt "REACTION:MANGROVE_BARK_DYE"
+msgid "[NAME:make mangrove bark dye]"
+msgstr ""
+
+msgctxt "REACTION:MANGROVE_BARK_DYE"
+msgid "[REAGENT:log:]"
+msgstr ""
+
+msgctxt "REACTION:MANGROVE_LEAF_DYE"
+msgid "[NAME:make mangrove leaf dye]"
+msgstr ""
+
+msgctxt "REACTION:MANGROVE_LEAF_DYE"
+msgid "[REAGENT:plant:]"
+msgstr ""
+
+msgctxt "REACTION:MAPLE_BARK_DYE"
+msgid "[NAME:make maple bark dye]"
+msgstr ""
+
+msgctxt "REACTION:MAPLE_BARK_DYE"
+msgid "[REAGENT:log:]"
+msgstr ""
+
+msgctxt "REACTION:OAK_BARK_DYE"
+msgid "[NAME:make oak bark dye]"
+msgstr ""
+
+msgctxt "REACTION:OAK_BARK_DYE"
+msgid "[REAGENT:log:]"
+msgstr ""
+
+msgctxt "REACTION:OLIVE_BARK_DYE"
+msgid "[NAME:make olive bark dye]"
+msgstr ""
+
+msgctxt "REACTION:OLIVE_BARK_DYE"
+msgid "[REAGENT:log:]"
+msgstr ""
+
+msgctxt "REACTION:OLIVE_LEAF_DYE"
+msgid "[NAME:make olive leaf dye]"
+msgstr ""
+
+msgctxt "REACTION:OLIVE_LEAF_DYE"
+msgid "[REAGENT:plant:]"
+msgstr ""
+
+msgctxt "REACTION:PEACH_BARK_DYE"
+msgid "[NAME:make peach bark dye]"
+msgstr ""
+
+msgctxt "REACTION:PEACH_BARK_DYE"
+msgid "[REAGENT:log:]"
+msgstr ""
+
+msgctxt "REACTION:PEAR_BARK_DYE"
+msgid "[NAME:make pear bark dye]"
+msgstr ""
+
+msgctxt "REACTION:PEAR_BARK_DYE"
+msgid "[REAGENT:log:]"
+msgstr ""
+
+msgctxt "REACTION:PEAR_LEAF_DYE"
+msgid "[NAME:make pear leaf dye]"
+msgstr ""
+
+msgctxt "REACTION:PEAR_LEAF_DYE"
+msgid "[REAGENT:plant:]"
+msgstr ""
+
+msgctxt "REACTION:PERSIMMON_FRUIT_DYE"
+msgid "[NAME:make persimmon dye]"
+msgstr ""
+
+msgctxt "REACTION:PERSIMMON_FRUIT_DYE"
+msgid "[REAGENT:plant:]"
+msgstr ""
+
+msgctxt "REACTION:PINE_BARK_DYE"
+msgid "[NAME:make pine bark dye]"
+msgstr ""
+
+msgctxt "REACTION:PINE_BARK_DYE"
+msgid "[REAGENT:log:]"
+msgstr ""
+
+msgctxt "REACTION:PLUM_BARK_DYE"
+msgid "[NAME:make plum bark dye]"
+msgstr ""
+
+msgctxt "REACTION:PLUM_BARK_DYE"
+msgid "[REAGENT:log:]"
+msgstr ""
+
+msgctxt "REACTION:POMEGRANATE_LEAF_DYE"
+msgid "[NAME:make pomegranate leaf dye]"
+msgstr ""
+
+msgctxt "REACTION:POMEGRANATE_LEAF_DYE"
+msgid "[REAGENT:plant:]"
+msgstr ""
+
+msgctxt "REACTION:POMEGRANATE_RIND_DYE"
+msgid "[NAME:make pomegranate rind dye]"
+msgstr ""
+
+msgctxt "REACTION:POMEGRANATE_RIND_DYE"
+msgid "[REAGENT:plant:]"
+msgstr ""
+
+msgctxt "REACTION:POMEGRANATE_BARK_DYE"
+msgid "[NAME:make pomegranate bark dye]"
+msgstr ""
+
+msgctxt "REACTION:POMEGRANATE_BARK_DYE"
+msgid "[REAGENT:log:]"
+msgstr ""
+
+msgctxt "REACTION:TEA_LEAF_DYE"
+msgid "[NAME:make tea leaf dye]"
+msgstr ""
+
+msgctxt "REACTION:TEA_LEAF_DYE"
+msgid "[REAGENT:plant:]"
+msgstr ""
+
+msgctxt "REACTION:WILLOW_BARK_DYE"
+msgid "[NAME:make willow bark dye]"
+msgstr ""
+
+msgctxt "REACTION:WILLOW_BARK_DYE"
+msgid "[REAGENT:log:]"
+msgstr ""
+
+msgctxt "REACTION:WILLOW_LEAF_DYE"
+msgid "[NAME:make willow leaf dye]"
+msgstr ""
+
+msgctxt "REACTION:WILLOW_LEAF_DYE"
+msgid "[REAGENT:plant:]"
+msgstr ""
+
+msgctxt "REACTION:RED_SPINACH_LEAF_DYE"
+msgid "[NAME:make red spinach leaf dye]"
+msgstr ""
+
+msgctxt "REACTION:RED_SPINACH_LEAF_DYE"
+msgid "[REAGENT:plant:]"
+msgstr ""
+
+msgctxt "REACTION:RICE_HUSK_DYE"
+msgid "[NAME:make rice husk dye]"
+msgstr ""
+
+msgctxt "REACTION:RICE_HUSK_DYE"
+msgid "[REAGENT:plant:]"
+msgstr ""
+
+msgctxt "REACTION:SORGHUM_LEAF_DYE"
+msgid "[NAME:make sorghum leaf dye]"
+msgstr ""
+
+msgctxt "REACTION:SORGHUM_LEAF_DYE"
+msgid "[REAGENT:plant:]"
+msgstr ""
+
+msgctxt "REACTION:BILBERRY_FRUIT_DYE"
+msgid "[NAME:make bilberry dye]"
+msgstr ""
+
+msgctxt "REACTION:BILBERRY_FRUIT_DYE"
+msgid "[REAGENT:plant:]"
+msgstr ""
+
+msgctxt "REACTION:BLACKBERRY_FRUIT_DYE"
+msgid "[NAME:make blackberry dye]"
+msgstr ""
+
+msgctxt "REACTION:BLACKBERRY_FRUIT_DYE"
+msgid "[REAGENT:plant:]"
+msgstr ""
+
+msgctxt "REACTION:BLUEBERRY_FRUIT_DYE"
+msgid "[NAME:make blueberry dye]"
+msgstr ""
+
+msgctxt "REACTION:BLUEBERRY_FRUIT_DYE"
+msgid "[REAGENT:plant:]"
+msgstr ""
+
+msgctxt "REACTION:CABBAGE_LEAF_DYE"
+msgid "[NAME:make cabbage leaf dye]"
+msgstr ""
+
+msgctxt "REACTION:CABBAGE_LEAF_DYE"
+msgid "[REAGENT:plant:]"
+msgstr ""
+
+msgctxt "REACTION:CRANBERRY_FRUIT_DYE"
+msgid "[NAME:make cranberry dye]"
+msgstr ""
+
+msgctxt "REACTION:CRANBERRY_FRUIT_DYE"
+msgid "[REAGENT:plant:]"
+msgstr ""
+
+msgctxt "REACTION:EGGPLANT_FRUIT_DYE"
+msgid "[NAME:make eggplant dye]"
+msgstr ""
+
+msgctxt "REACTION:EGGPLANT_FRUIT_DYE"
+msgid "[REAGENT:plant:]"
+msgstr ""
+
+msgctxt "REACTION:GRAPE_FRUIT_DYE"
+msgid "[NAME:make grape dye]"
+msgstr ""
+
+msgctxt "REACTION:GRAPE_FRUIT_DYE"
+msgid "[REAGENT:plant:]"
+msgstr ""
+
+msgctxt "REACTION:ONION_SKIN_DYE"
+msgid "[NAME:make onion skin dye]"
+msgstr ""
+
+msgctxt "REACTION:ONION_SKIN_DYE"
+msgid "[REAGENT:plant:]"
+msgstr ""
+
+msgctxt "REACTION:PEANUT_SHELL_DYE"
+msgid "[NAME:make peanut shell dye]"
+msgstr ""
+
+msgctxt "REACTION:PEANUT_SHELL_DYE"
+msgid "[REAGENT:plant:]"
+msgstr ""
+
+msgctxt "REACTION:PINEAPPLE_LEAF_DYE"
+msgid "[NAME:make pineapple leaf dye]"
+msgstr ""
+
+msgctxt "REACTION:PINEAPPLE_LEAF_DYE"
+msgid "[REAGENT:plant:]"
+msgstr ""
+
+msgctxt "REACTION:POTATO_SKIN_DYE"
+msgid "[NAME:make potato skin dye]"
+msgstr ""
+
+msgctxt "REACTION:POTATO_SKIN_DYE"
+msgid "[REAGENT:plant:]"
+msgstr ""
+
+msgctxt "REACTION:RADISH_ROOT_DYE"
+msgid "[NAME:make radish dye]"
+msgstr ""
+
+msgctxt "REACTION:RADISH_ROOT_DYE"
+msgid "[REAGENT:plant:]"
+msgstr ""
+
+msgctxt "REACTION:RASPBERRY_FRUIT_DYE"
+msgid "[NAME:make raspberry dye]"
+msgstr ""
+
+msgctxt "REACTION:RASPBERRY_FRUIT_DYE"
+msgid "[REAGENT:plant:]"
+msgstr ""
+
+msgctxt "REACTION:RHUBARB_LEAF_DYE"
+msgid "[NAME:make rhubarb leaf dye]"
+msgstr ""
+
+msgctxt "REACTION:RHUBARB_LEAF_DYE"
+msgid "[REAGENT:plant:]"
+msgstr ""
+
+msgctxt "REACTION:SPINACH_LEAF_DYE"
+msgid "[NAME:make spinach leaf dye]"
+msgstr ""
+
+msgctxt "REACTION:SPINACH_LEAF_DYE"
+msgid "[REAGENT:plant:]"
+msgstr ""
+
+msgctxt "REACTION:SWEET_POTATO_SKIN_DYE"
+msgid "[NAME:make sweet potato skin dye]"
+msgstr ""
+
+msgctxt "REACTION:SWEET_POTATO_SKIN_DYE"
+msgid "[REAGENT:plant:]"
+msgstr ""
+
+msgctxt "REACTION:TOMATO_SKIN_DYE"
+msgid "[NAME:make tomato skin dye]"
+msgstr ""
+
+msgctxt "REACTION:TOMATO_SKIN_DYE"
+msgid "[REAGENT:plant:]"
+msgstr ""
+
+msgctxt "REACTION:TURNIP_SKIN_DYE"
+msgid "[NAME:make turnip skin dye]"
+msgstr ""
+
+msgctxt "REACTION:TURNIP_SKIN_DYE"
+msgid "[REAGENT:plant:]"
+msgstr ""
+
+msgctxt "REACTION:WATERMELON_FRUIT_DYE"
+msgid "[NAME:make watermelon dye]"
+msgstr ""
+
+msgctxt "REACTION:WATERMELON_FRUIT_DYE"
+msgid "[REAGENT:plant:]"
+msgstr ""
+
+msgctxt "REACTION:WILD_CARROT_ROOT_DYE"
+msgid "[NAME:make carrot dye]"
+msgstr ""
+
+msgctxt "REACTION:WILD_CARROT_ROOT_DYE"
+msgid "[REAGENT:plant:]"
 msgstr ""
 
 msgctxt "REACTION:TAN_A_HIDE"
