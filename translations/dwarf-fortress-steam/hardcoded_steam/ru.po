@@ -48,10 +48,11 @@
 # Transifex Bot <>, 2026
 # Егор Левенков, 2026
 # Mikhail M (insolor), 2026
+# Mykhailo Yashchuk, 2026
 # 
 msgid ""
 msgstr ""
-"Last-Translator: Mikhail M (insolor), 2026\n"
+"Last-Translator: Mykhailo Yashchuk, 2026\n"
 "Language-Team: Russian (https://app.transifex.com/dwarf-fortress-translation/teams/22396/ru/)\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -456,7 +457,7 @@ msgid "Enemy/merchant population trigger 3"
 msgstr "Порог населения для появления врагов/торговцев 3"
 
 msgid "Click a creature to start a new conversation"
-msgstr "Кликните на существе, чтобы начать разговор"
+msgstr "Нажмите по существу, чтобы начать разговор"
 
 msgid "Furniture/siege ammo"
 msgstr "Мебель/осадные боеприпасы"
@@ -1572,6 +1573,9 @@ msgid ""
 "all of which are reserved by the raw parser. Mod authors: please fix before "
 "publishing."
 msgstr ""
+"Обычно это вызвано тем, что описания содержат символы [,] or :, которые "
+"зарезервированы парсером raw-файлов. Авторы модов: пожалуйста, исправьте это"
+" перед публикацией."
 
 msgid "It is now summer."
 msgstr "Наступило лето."
