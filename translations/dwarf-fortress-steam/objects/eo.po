@@ -1,10 +1,10 @@
 # Translators:
 # Mikhail M (insolor), 2022
-# Eduardo Esteban Martínez de León <eduardomtz100@hotmail.com>, 2022
+# Eduardo Esteban Martínez de León <eduardomtz100@hotmail.com>, 2026
 # 
 msgid ""
 msgstr ""
-"Last-Translator: Eduardo Esteban Martínez de León <eduardomtz100@hotmail.com>, 2022\n"
+"Last-Translator: Eduardo Esteban Martínez de León <eduardomtz100@hotmail.com>, 2026\n"
 "Language-Team: Esperanto (https://app.transifex.com/dwarf-fortress-translation/teams/22396/eo/)\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -1989,11 +1989,11 @@ msgstr "[BP:SHELL:karapaco:karapacoj]"
 
 msgctxt "BODY:2PART_CARAPACE"
 msgid "[BP:UB_CARAPACE:upper carapace:STP]"
-msgstr ""
+msgstr "[BP:UB_CARAPACE:supra karapaco:supraj karapacoj]"
 
 msgctxt "BODY:2PART_CARAPACE"
 msgid "[BP:LB_CARAPACE:lower carapace:STP]"
-msgstr ""
+msgstr "[BP:LB_CARAPACE:malsupra karapaco:malsupraj karapacoj]"
 
 msgctxt "BODY:TAIL_STANCE"
 msgid "[BP:TAIL:tail:STP]"
@@ -2013,63 +2013,65 @@ msgstr "[BP:L_UB_PINCER:maldekstra pinĉilo:maldekstraj pinĉiloj]"
 
 msgctxt "BODY:HEAD_PINCERS"
 msgid "[BP:R_HD_PINCER:right pincer:STP]"
-msgstr ""
+msgstr "[BP:R_HD_PINCER:dekstra pinĉilo:dekstraj pinĉiloj]"
 
 msgctxt "BODY:HEAD_PINCERS"
 msgid "[BP:L_HD_PINCER:left pincer:STP]"
-msgstr ""
+msgstr "[BP:L_HD_PINCER:maldekstra pinĉilo:maldekstraj pinĉiloj]"
 
 msgctxt "BODY:2_FRONTAL_PINCER_APPENDAGES"
 msgid "[BP:R_HD_PINCER:right frontal appendage:STP]"
-msgstr ""
+msgstr "[BP:R_HD_PINCER:dekstra antaŭa membro:dekstraj antaŭaj membroj]"
 
 msgctxt "BODY:2_FRONTAL_PINCER_APPENDAGES"
 msgid "[BP:L_HD_PINCER:left frontal appendage:STP]"
-msgstr ""
+msgstr "[BP:L_HD_PINCER:maldekstra antaŭa membro:maldekstraj antaŭaj membroj]"
 
 msgctxt "BODY:2_FRONTAL_PINCER_APPENDAGES"
 msgid "[BODYGLOSS:PAW:foot:paw:feet:paws]"
-msgstr ""
+msgstr "[BODYGLOSS:PAW:piedo:piedo:piedoj:piedoj]"
 
 msgctxt "BODY:2_FRONTAL_PINCER_APPENDAGES"
 msgid "[BODYGLOSS:MAW:mouth:maw:mouths:maws]"
-msgstr ""
+msgstr "[BODYGLOSS:MAW:buŝo:faŭko:buŝoj:faŭkoj]"
 
 msgctxt "BODY:2_FRONTAL_PINCER_APPENDAGES"
 msgid "[BODYGLOSS:CLAW_HAND:hand:claw:hands:claws]"
-msgstr ""
+msgstr "[BODYGLOSS:CLAW_HAND:mano:manego:manoj:manegoj]"
 
 msgctxt "BODY:2_FRONTAL_PINCER_APPENDAGES"
 msgid "[BODYGLOSS:CLAW_FOOT:foot:claw:feet:claws]"
-msgstr ""
+msgstr "[BODYGLOSS:CLAW_FOOT:piedo:piedego:piedoj:piedegoj]"
 
 msgctxt "BODY:2_FRONTAL_PINCER_APPENDAGES"
 msgid "[BODYGLOSS:HOOF:foot:hoof:feet:hooves]"
-msgstr ""
+msgstr "[BODYGLOSS:HOOF:piedo:hufo:piedoj:hufoj]"
 
 msgctxt "BODY:2_FRONTAL_PINCER_APPENDAGES"
 msgid "[BODYGLOSS:TRUNK:body:trunk:bodies:trunks]"
-msgstr ""
+msgstr "[BODYGLOSS:TRUNK:korpo:trunko:korpoj:trunkoj]"
 
 msgctxt "BODY:2_FRONTAL_PINCER_APPENDAGES"
 msgid "[BODYGLOSS:BRANCH_ARM:arm:branch:arms:branches]"
-msgstr ""
+msgstr "[BODYGLOSS:BRANCH_ARM:brako:branĉo:brakos:branĉoj]"
 
 msgctxt "BODY:2_FRONTAL_PINCER_APPENDAGES"
 msgid "[BODYGLOSS:LEG_STUMP:leg:stump:legs:stumps]"
-msgstr ""
+msgstr "[BODYGLOSS:LEG_STUMP:kruro:stumpo:kruroj:stumpoj]"
 
 msgctxt "BODY:2_FRONTAL_PINCER_APPENDAGES"
 msgid "[BODYGLOSS:ROOTS_FOOT:foot:roots:feet:roots]"
-msgstr ""
+msgstr "[BODYGLOSS:ROOTS_FOOT:piedo:radikoj:piedoj:radikoj]"
 
 msgctxt "BODY:2_FRONTAL_PINCER_APPENDAGES"
 msgid "[BODYGLOSS:INSECT_UPPERBODY:upper body:thorax:upper bodies:thoraxes]"
-msgstr ""
+msgstr "[BODYGLOSS:INSECT_UPPERBODY:supra korpo:torako:supraj korpoj:torakoj]"
 
 msgctxt "BODY:2_FRONTAL_PINCER_APPENDAGES"
 msgid "[BODYGLOSS:INSECT_LOWERBODY:lower body:abdomen:lower bodies:abdomens]"
 msgstr ""
+"[BODYGLOSS:INSECT_LOWERBODY:malsupra korpo:abdomeno:malsupraj "
+"korpoj:abdomenoj]"
 
 msgctxt "BODY:2EYES"
 msgid "[BP:REYE:right eye:STP]"
@@ -2109,23 +2111,23 @@ msgstr "[BP:EYE4:kvara okulo:kvaraj okuloj]"
 
 msgctxt "BODY:5EYES"
 msgid "[BP:EYE1:first eye:STP]"
-msgstr ""
+msgstr "[BP:EYE1:unua okulo:unuaj okuloj]"
 
 msgctxt "BODY:5EYES"
 msgid "[BP:EYE2:second eye:STP]"
-msgstr ""
+msgstr "[BP:EYE2:dua okulo:duaj okuloj]"
 
 msgctxt "BODY:5EYES"
 msgid "[BP:EYE3:third eye:STP]"
-msgstr ""
+msgstr "[BP:EYE3:tria okulo:triaj okuloj]"
 
 msgctxt "BODY:5EYES"
 msgid "[BP:EYE4:fourth eye:STP]"
-msgstr ""
+msgstr "[BP:EYE4:kvara okulo:kvaraj okuloj]"
 
 msgctxt "BODY:5EYES"
 msgid "[BP:EYE5:fifth eye:STP]"
-msgstr ""
+msgstr "[BP:EYE5:kvina okulo:kvinaj okuloj]"
 
 msgctxt "BODY:2EYESTALKS"
 msgid "[BP:REYE:right eyestalk:STP]"
@@ -2289,7 +2291,7 @@ msgstr "[BP:BRAIN:cerbo:cerboj]"
 
 msgctxt "BODY:UB_BRAIN"
 msgid "[BP:BRAIN:brain:STP]"
-msgstr ""
+msgstr "[BP:BRAIN:cerbo:cerboj]"
 
 msgctxt "BODY:SKULL"
 msgid "[BP:SKULL:skull:STP]"
@@ -2301,7 +2303,7 @@ msgstr "[BP:CASQUE:beka korno:bekaj kornoj]"
 
 msgctxt "BODY:CREST"
 msgid "[BP:CREST:crest:STP]"
-msgstr ""
+msgstr "[BP:CREST:kresto:krestoj]"
 
 msgctxt "BODY:HEAD_HORN"
 msgid "[BP:HEAD_HORN:horn:STP]"
@@ -2325,31 +2327,31 @@ msgstr "[BP:LHORN:dua korno:duaj kornoj]"
 
 msgctxt "BODY:3HEAD_HORNS_FRL"
 msgid "[BP:RHORN:front horn:STP]"
-msgstr ""
+msgstr "[BP:RHORN:antaŭa korno:antaŭaj kornoj]"
 
 msgctxt "BODY:3HEAD_HORNS_FRL"
 msgid "[BP:RHORN:right horn:STP]"
-msgstr ""
+msgstr "[BP:RHORN:dekstra korno:dekstraj kornoj]"
 
 msgctxt "BODY:3HEAD_HORNS_FRL"
 msgid "[BP:LHORN:left horn:STP]"
-msgstr ""
+msgstr "[BP:LHORN:maldekstra korno:maldekstraj kornoj]"
 
 msgctxt "BODY:4HEAD_HORNS_RLUL"
 msgid "[BP:RHORN:right upper horn:STP]"
-msgstr ""
+msgstr "[BP:RHORN:dekstra supra korno:dekstraj supraj kornoj]"
 
 msgctxt "BODY:4HEAD_HORNS_RLUL"
 msgid "[BP:LHORN:left upper horn:STP]"
-msgstr ""
+msgstr "[BP:LHORN:maldekstra supra korno:maldekstraj supraj kornoj]"
 
 msgctxt "BODY:4HEAD_HORNS_RLUL"
 msgid "[BP:RHORN:right lower horn:STP]"
-msgstr ""
+msgstr "[BP:RHORN:dekstra malsupra korno:dekstraj malsupraj kornoj]"
 
 msgctxt "BODY:4HEAD_HORNS_RLUL"
 msgid "[BP:LHORN:left lower horn:STP]"
-msgstr ""
+msgstr "[BP:LHORN:maldekstra malsupra korno:maldekstraj malsupraj kornoj]"
 
 msgctxt "BODY:2HEAD_ANTLER"
 msgid "[BP:RHORN:right antler:STP]"
@@ -2429,7 +2431,7 @@ msgstr "[BP:FINGER2:dua manfingro:duaj manfingroj]"
 
 msgctxt "BODY:1FINGER"
 msgid "[BP:FINGER1:finger:STP]"
-msgstr ""
+msgstr "[BP:FINGER1:manfingro:manfingroj]"
 
 msgctxt "BODY:5TOES"
 msgid "[BP:TOE1:first toe:STP]"
@@ -2914,19 +2916,19 @@ msgstr "[BP:LRFLIP:maldekstra posta naĝilo:maldekstraj postaj naĝiloj]"
 
 msgctxt "BODY:FRONT_BODY_FINS"
 msgid "[BP:RFFIN:right front fin:STP]"
-msgstr ""
+msgstr "[BP:RFFIN:dekstra antaŭa naĝilo:dekstraj antaŭaj naĝiloj]"
 
 msgctxt "BODY:FRONT_BODY_FINS"
 msgid "[BP:LFFIN:left front fin:STP]"
-msgstr ""
+msgstr "[BP:LFFIN:maldekstra antaŭa naĝilo:maldekstraj antaŭaj naĝiloj]"
 
 msgctxt "BODY:REAR_BODY_FINS"
 msgid "[BP:RRFIN:right rear fin:STP]"
-msgstr ""
+msgstr "[BP:RRFIN:dekstra posta naĝilo:dekstraj postaj naĝiloj]"
 
 msgctxt "BODY:REAR_BODY_FINS"
 msgid "[BP:LRFIN:left rear fin:STP]"
-msgstr ""
+msgstr "[BP:LRFIN:maldekstra posta naĝilo:maldekstraj postaj naĝiloj]"
 
 msgctxt "BODY:1HUMP"
 msgid "[BP:HUMP1:hump:STP]"
@@ -3074,11 +3076,11 @@ msgstr ""
 
 msgctxt "BODY:2_TEETH"
 msgid "[BP:RU_INCISOR:right tooth:STP]"
-msgstr ""
+msgstr "[BP:RU_INCISOR:dekstra dento:dekstraj dentoj]"
 
 msgctxt "BODY:2_TEETH"
 msgid "[BP:LU_INCISOR:left tooth:STP]"
-msgstr ""
+msgstr "[BP:LU_INCISOR:maldekstra dento:maldekstraj dentoj]"
 
 msgctxt "BODY:GENERIC_TEETH"
 msgid "[BP:TOOTH:tooth:teeth]"
@@ -3086,7 +3088,7 @@ msgstr "[BP:TOOTH:dento:dentoj]"
 
 msgctxt "BODY:TEETH"
 msgid "[BP:U_F_TOOTH:upper front tooth:upper front teeth]"
-msgstr "[BP:U_F_TOOTH:supra tranĉodento:supraj tranĉodentoj]"
+msgstr "[BP:U_F_TOOTH:supra antaŭa dento:supraj antaŭaj dentoj]"
 
 msgctxt "BODY:TEETH"
 msgid "[INDIVIDUAL_NAME:first upper right incisor:STP]"
@@ -3121,7 +3123,7 @@ msgstr "[INDIVIDUAL_NAME:maldekstra okuldento:maldekstraj okuldentoj]"
 
 msgctxt "BODY:TEETH"
 msgid "[BP:L_F_TOOTH:lower front tooth:lower front teeth]"
-msgstr "[BP:L_F_TOOTH:malsupra tranĉodento:malsupraj tranĉodentoj]"
+msgstr "[BP:L_F_TOOTH:malsupra antaŭa dento:malsupraj antaŭaj dentoj]"
 
 msgctxt "BODY:TEETH"
 msgid "[INDIVIDUAL_NAME:first lower right incisor:STP]"
@@ -3403,47 +3405,48 @@ msgstr "[BP:TUSK:dentego:dentegoj]"
 
 msgctxt "BODY:2_FRONTAL_ENDITES"
 msgid "[BP:RF_ENDITE:right frontal endite:STP]"
-msgstr ""
+msgstr "[BP:RF_ENDITE:dekstra antaŭa endito:dekstraj antaŭaj enditoj]"
 
 msgctxt "BODY:2_FRONTAL_ENDITES"
 msgid "[BP:LF_ENDITE:left frontal endite:STP]"
-msgstr ""
+msgstr "[BP:LF_ENDITE:dekstra antaŭa endito:dekstraj antaŭaj enditoj]"
 
 msgctxt "BODY:HEAD_SCLERITE"
 msgid "[BP:HEAD_SCLERITE:head sclerite:STP]"
-msgstr ""
+msgstr "[BP:HEAD_SCLERITE:kapa sklerito:kapaj skleritoj]"
 
 msgctxt "BODY:TOOTH_WHORL"
 msgid "[BP:TOOTH_WHORL:tooth whorl:STP]"
-msgstr ""
+msgstr "[BP:TOOTH_WHORL:denta helico:dentaj helicoj]"
 
 msgctxt "BODY:2_ANTENNAE"
 msgid "[BP:R_ANT:right antenna:STP]"
-msgstr ""
+msgstr "[BP:R_ANT:dekstra anteno:dekstraj antenoj]"
 
 msgctxt "BODY:2_ANTENNAE"
 msgid "[BP:L_ANT:left antenna:STP]"
-msgstr ""
+msgstr "[BP:L_ANT:maldekstra anteno:maldekstraj antenoj]"
 
 msgctxt "BODY:TAIL_THAGOMIZER"
 msgid "[BP:TAIL_THAGOMIZER:thagomizer:STP]"
-msgstr ""
+msgstr "[BP:TAIL_THAGOMIZER:vostpikilaro:vostpikilaroj]"
 
 msgctxt "BODY:TAIL_CLUB"
 msgid "[BP:TAIL_CLUB:tail club:STP]"
-msgstr ""
+msgstr "[BP:TAIL_CLUB:vostoklabo:vostoklaboj]"
 
 msgctxt "BODY:SAIL"
 msgid "[BP:SAIL:sail:STP]"
-msgstr ""
+msgstr "[BP:SAIL:velo:veloj]"
 
 msgctxt "BODY:SHOULDER_SPINES"
 msgid "[BP:R_SHOULDER_SPINE:right shoulder spine:STP]"
-msgstr ""
+msgstr "[BP:R_SHOULDER_SPINE:dekstra ŝultra spino:dekstraj ŝultraj spinoj]"
 
 msgctxt "BODY:SHOULDER_SPINES"
 msgid "[BP:L_SHOULDER_SPINE:left shoulder spine:STP]"
 msgstr ""
+"[BP:L_SHOULDER_SPINE:maldekstra ŝultra spino:maldekstraj ŝultraj spinoj]"
 
 msgctxt "BODY:RCP_BASIC_BODY"
 msgid "[BP:UB:body:bodies]"
@@ -4476,8 +4479,9 @@ msgid ""
 "are required to store the liquid products.]"
 msgstr ""
 "[TOOLTIP:Utila metiejo por elpremi likvaĵojn el diversaj fontoj. Eble "
-"necesas, ke, unue, iuj vegetaloj esti muelitaj antaŭ ili povas esti uzataj. "
-"Malplenaj kruĉoj estas bezonataj por konservi la likvajn produktaĵojn.]"
+"necesas, ke, unue, kelkaj vegetaloj estu muelitaj antaŭ ili povas esti "
+"uzataj. Malplenaj kruĉoj estas bezonataj por konservi la likvajn "
+"produktaĵojn.]"
 
 msgctxt "CREATURE_VARIATION:ANIMAL_PERSON"
 msgid "[CV_NEW_TAG:CDI:ADV_NAME:Pet animal]"
@@ -12412,7 +12416,7 @@ msgstr "[CDI:ADV_NAME:Kraĉi]"
 
 msgctxt "CREATURE:GNOME_MOUNTAIN"
 msgid "[CDI:VERB:spit:spits:]"
-msgstr ""
+msgstr "[CDI:VERB:kraĉas:kraĉas:]"
 
 msgctxt "CREATURE:GNOME_MOUNTAIN"
 msgid "[APP_MOD_NOUN:eyes:PLURAL]"
@@ -12506,7 +12510,7 @@ msgstr "[CDI:ADV_NAME:Kraĉi]"
 
 msgctxt "CREATURE:GNOME_DARK"
 msgid "[CDI:VERB:spit:spits:]"
-msgstr ""
+msgstr "[CDI:VERB:kraĉas:kraĉas:]"
 
 msgctxt "CREATURE:GNOME_DARK"
 msgid "[APP_MOD_NOUN:eyes:PLURAL]"
@@ -19037,6 +19041,8 @@ msgstr "[CDI:ADV_NAME:Ŝpruci fandatan rokon]"
 msgctxt "CREATURE:MAGMA_CRAB"
 msgid "[CDI:VERB:spit a glob of molten rock:spits a glob of molten rock:]"
 msgstr ""
+"[CDI:VERB:kraĉas sekreciaĵon el fandita roko:kraĉas sekreciaĵon el fandita "
+"roko:]"
 
 msgctxt "CREATURE:MAGMA_CRAB"
 msgid "[TLCM_NOUN:exterior:SINGULAR]"
@@ -19924,7 +19930,7 @@ msgstr "[CDI:ADV_NAME:Kraĉi]"
 
 msgctxt "CREATURE:GORLAK"
 msgid "[CDI:VERB:spit:spits:]"
-msgstr ""
+msgstr "[CDI:VERB:kraĉas:kraĉas:]"
 
 msgctxt "CREATURE:GORLAK"
 msgid "[ATTACK_VERB:bite:bites]"
@@ -20011,6 +20017,8 @@ msgid ""
 "[CDI:VERB:spray a stream of steaming juice:sprays a stream of steaming "
 "juice:]"
 msgstr ""
+"[CDI:VERB:aspergas torenton el bolanta suko:aspergas torenton el bolanta "
+"suko:]"
 
 msgctxt "CREATURE:CAVE_FLOATER"
 msgid "[TLCM_NOUN:exterior:SINGULAR]"
@@ -20226,7 +20234,7 @@ msgstr "[CDI:ADV_NAME:Ŝpruci inkon]"
 
 msgctxt "CREATURE:OCTOPUS"
 msgid "[CDI:VERB:squirt ink:squirts ink:]"
-msgstr ""
+msgstr "[CDI:VERB:ŝprucas inkon:ŝprucas inkon:]"
 
 msgctxt "CREATURE:OCTOPUS"
 msgid "[TLCM_NOUN:skin:SINGULAR]"
@@ -20490,7 +20498,7 @@ msgstr "[CDI:ADV_NAME:Ŝpruci inkon]"
 
 msgctxt "CREATURE:CUTTLEFISH"
 msgid "[CDI:VERB:squirt ink:squirts ink:]"
-msgstr ""
+msgstr "[CDI:VERB:ŝprucas inkon:ŝprucas inkon:]"
 
 msgctxt "CREATURE:CUTTLEFISH"
 msgid "[TLCM_NOUN:skin:SINGULAR]"
@@ -23706,7 +23714,7 @@ msgstr "[CDI:ADV_NAME:Ŝpruci inkon]"
 
 msgctxt "CREATURE:SQUID"
 msgid "[CDI:VERB:squirt ink:squirts ink:]"
-msgstr ""
+msgstr "[CDI:VERB:ŝprucas inkon:ŝprucas inkon:]"
 
 msgctxt "CREATURE:SQUID"
 msgid "[TLCM_NOUN:skin:SINGULAR]"
@@ -24127,7 +24135,7 @@ msgstr "[CDI:ADV_NAME:Kraĉi]"
 
 msgctxt "CREATURE:DWARF"
 msgid "[CDI:VERB:spit:spits:]"
-msgstr ""
+msgstr "[CDI:VERB:kraĉas:kraĉas:]"
 
 msgctxt "CREATURE:DWARF"
 msgid "[APP_MOD_NOUN:eyes:PLURAL]"
@@ -24369,7 +24377,7 @@ msgstr "[CDI:ADV_NAME:Kraĉi]"
 
 msgctxt "CREATURE:HUMAN"
 msgid "[CDI:VERB:spit:spits:]"
-msgstr ""
+msgstr "[CDI:VERB:kraĉas:kraĉas:]"
 
 msgctxt "CREATURE:HUMAN"
 msgid "[APP_MOD_NOUN:eyes:PLURAL]"
@@ -24549,7 +24557,7 @@ msgstr "[CDI:ADV_NAME:Kraĉi]"
 
 msgctxt "CREATURE:ELF"
 msgid "[CDI:VERB:spit:spits:]"
-msgstr ""
+msgstr "[CDI:VERB:kraĉas:kraĉas:]"
 
 msgctxt "CREATURE:ELF"
 msgid "[APP_MOD_NOUN:eyes:PLURAL]"
@@ -24724,7 +24732,7 @@ msgstr "[CDI:ADV_NAME:Kraĉi]"
 
 msgctxt "CREATURE:GOBLIN"
 msgid "[CDI:VERB:spit:spits:]"
-msgstr ""
+msgstr "[CDI:VERB:kraĉas:kraĉas:]"
 
 msgctxt "CREATURE:GOBLIN"
 msgid "[APP_MOD_NOUN:eyes:PLURAL]"
@@ -24900,7 +24908,7 @@ msgstr "[CDI:ADV_NAME:Kraĉi]"
 
 msgctxt "CREATURE:KOBOLD"
 msgid "[CDI:VERB:spit:spits:]"
-msgstr ""
+msgstr "[CDI:VERB:kraĉas:kraĉas:]"
 
 msgctxt "CREATURE:KOBOLD"
 msgid "[APP_MOD_NOUN:eyes:PLURAL]"
@@ -25045,7 +25053,7 @@ msgstr "[CDI:ADV_NAME:Kraĉi]"
 
 msgctxt "CREATURE:GREMLIN"
 msgid "[CDI:VERB:spit:spits:]"
-msgstr ""
+msgstr "[CDI:VERB:kraĉas:kraĉas:]"
 
 msgctxt "CREATURE:GREMLIN"
 msgid "[APP_MOD_NOUN:eyes:PLURAL]"
@@ -25317,7 +25325,7 @@ msgstr "[CASTE_NAME:drako:drakoj:de drako]"
 
 msgctxt "CREATURE:DRAGON"
 msgid "[CHILDNAME:dragon hatchling:dragon hatchlings]"
-msgstr ""
+msgstr "[CHILDNAME:drakido:drakidoj]"
 
 msgctxt "CREATURE:DRAGON"
 msgid "[CDI:ADV_NAME:Breathe fire]"
@@ -25375,7 +25383,7 @@ msgstr "[CDI:ADV_NAME:Kraĉi]"
 
 msgctxt "CREATURE:SATYR"
 msgid "[CDI:VERB:spit:spits:]"
-msgstr ""
+msgstr "[CDI:VERB:kraĉas:kraĉas:]"
 
 msgctxt "CREATURE:SATYR"
 msgid "[APP_MOD_NOUN:eyes:PLURAL]"
@@ -25516,7 +25524,7 @@ msgstr "[CDI:ADV_NAME:Kraĉi]"
 
 msgctxt "CREATURE:GIANT"
 msgid "[CDI:VERB:spit:spits:]"
-msgstr ""
+msgstr "[CDI:VERB:kraĉas:kraĉas:]"
 
 msgctxt "CREATURE:GIANT"
 msgid "[APP_MOD_NOUN:eyes:PLURAL]"
@@ -25636,7 +25644,7 @@ msgstr "[CDI:ADV_NAME:Kraĉi]"
 
 msgctxt "CREATURE:CYCLOPS"
 msgid "[CDI:VERB:spit:spits:]"
-msgstr ""
+msgstr "[CDI:VERB:kraĉas:kraĉas:]"
 
 msgctxt "CREATURE:CYCLOPS"
 msgid "[APP_MOD_NOUN:eye:SINGULAR]"
@@ -25744,7 +25752,7 @@ msgstr "[CDI:ADV_NAME:Kraĉi]"
 
 msgctxt "CREATURE:ETTIN"
 msgid "[CDI:VERB:spit:spits:]"
-msgstr ""
+msgstr "[CDI:VERB:kraĉas:kraĉas:]"
 
 msgctxt "CREATURE:ETTIN"
 msgid "[APP_MOD_NOUN:eyes:PLURAL]"
@@ -25852,7 +25860,7 @@ msgstr "[CDI:ADV_NAME:Kraĉi]"
 
 msgctxt "CREATURE:MINOTAUR"
 msgid "[CDI:VERB:spit:spits:]"
-msgstr ""
+msgstr "[CDI:VERB:kraĉas:kraĉas:]"
 
 msgctxt "CREATURE:MINOTAUR"
 msgid "[ATTACK_VERB:punch:punches]"
@@ -26539,7 +26547,7 @@ msgstr "[CDI:ADV_NAME:Kraĉi]"
 
 msgctxt "CREATURE:HARPY"
 msgid "[CDI:VERB:spit:spits:]"
-msgstr ""
+msgstr "[CDI:VERB:kraĉas:kraĉas:]"
 
 msgctxt "CREATURE:HARPY"
 msgid "[APP_MOD_NOUN:eyes:PLURAL]"
@@ -26640,7 +26648,7 @@ msgstr "[CDI:ADV_NAME:Kraĉi]"
 
 msgctxt "CREATURE:MERPERSON"
 msgid "[CDI:VERB:spit:spits:]"
-msgstr ""
+msgstr "[CDI:VERB:kraĉas:kraĉas:]"
 
 msgctxt "CREATURE:MERPERSON"
 msgid "[APP_MOD_NOUN:eyes:PLURAL]"
@@ -30814,7 +30822,7 @@ msgstr "[CASTE_NAME:bradipo:bradipoj:de bradipo]"
 
 msgctxt "CREATURE:SLOTH"
 msgid "[GENERAL_CHILD_NAME:sloth cub:sloth cubs]"
-msgstr ""
+msgstr "[GENERAL_CHILD_NAME:folivorido:folivoridoj]"
 
 msgctxt "CREATURE:SLOTH"
 msgid "[PREFSTRING:slow movement]"
@@ -32063,109 +32071,111 @@ msgid ""
 "[DESCRIPTION:A tiny aquatic worm-like creature with ten pairs slender legs "
 "and seven pairs of protruding rigid spines along its body.]"
 msgstr ""
+"[DESCRIPTION:Eta akva vermeca estaĵo kun dek paroj da maldiketaj kruroj kaj "
+"sep paroj da elstaraj rigidaj spinoj laŭ ĝia korpo.]"
 
 msgctxt "CREATURE:CAMBRIAN_HALLUCIGENIA"
 msgid "[NAME:hallucigenia:hallucigenia:hallucigenia]"
-msgstr ""
+msgstr "[NAME:halucigenio:halucigenioj:halucigenia]"
 
 msgctxt "CREATURE:CAMBRIAN_HALLUCIGENIA"
 msgid "[CASTE_NAME:hallucigenia:hallucigenia:hallucigenia]"
-msgstr ""
+msgstr "[CASTE_NAME:halucigenio:halucigenioj:halucigenia]"
 
 msgctxt "CREATURE:CAMBRIAN_HALLUCIGENIA"
 msgid "[PREFSTRING:spines]"
-msgstr ""
+msgstr "[PREFSTRING:spinoj]"
 
 msgctxt "CREATURE:CAMBRIAN_HALLUCIGENIA"
 msgid "[PREFSTRING:lobopods]"
-msgstr ""
+msgstr "[PREFSTRING:kruroj]"
 
 msgctxt "CREATURE:CAMBRIAN_HALLUCIGENIA"
 msgid "[STATE_NAME:ALL_SOLID:spine]"
-msgstr ""
+msgstr "[STATE_NAME:ALL_SOLID:spino]"
 
 msgctxt "CREATURE:CAMBRIAN_HALLUCIGENIA"
 msgid "[STATE_ADJ:ALL_SOLID:spine]"
-msgstr ""
+msgstr "[STATE_ADJ:ALL_SOLID:spina]"
 
 msgctxt "CREATURE:CAMBRIAN_HALLUCIGENIA"
 msgid "[TLCM_NOUN:chitin:SINGULAR]"
-msgstr ""
+msgstr "[TLCM_NOUN:ĥitino:SINGULAR]"
 
 msgctxt "CREATURE:CAMBRIAN_HALLUCIGENIA"
 msgid "[TLCM_NOUN:eyes:PLURAL]"
-msgstr ""
+msgstr "[TLCM_NOUN:okuloj:PLURAL]"
 
 msgctxt "CREATURE:CAMBRIAN_HALLUCIGENIA_MAN"
 msgid "[CASTE_NAME:hallucigenia man:hallucigenia men:hallucigenia man]"
-msgstr ""
+msgstr "[CASTE_NAME:homhalucigeniiĉo:homhalucigeniiĉoj:homhalucigeniiĉa]"
 
 msgctxt "CREATURE:CAMBRIAN_HALLUCIGENIA_MAN"
 msgid "[CASTE_NAME:hallucigenia woman:hallucigenia women:hallucigenia woman]"
-msgstr ""
+msgstr "[CASTE_NAME:homhalucigeniino:homhalucigeniinoj:homhalucigeniina]"
 
 msgctxt "CREATURE:CAMBRIAN_HALLUCIGENIA_MAN"
 msgid "[NAME:hallucigenia man:hallucigenia men:hallucigenia man]"
-msgstr ""
+msgstr "[NAME:homhalucigeniiĉo:homhalucigeniiĉoj:homhalucigeniiĉa]"
 
 msgctxt "CREATURE:CAMBRIAN_HALLUCIGENIA_MAN"
 msgid "[DESCRIPTION:A small person with the back spines of a hallucigenia.]"
-msgstr ""
+msgstr "[DESCRIPTION:Malgranda homo kun la dorsaj spinoj de halucigenio.]"
 
 msgctxt "CREATURE:CAMBRIAN_HAIKOUICHTHYS"
 msgid ""
 "[DESCRIPTION:A tiny four-eyed fish with a pronounced fin along its back.]"
-msgstr ""
+msgstr "[DESCRIPTION:Eta kvarokula fiŝo kun elstara naĝilo laŭ ĝia dorso.]"
 
 msgctxt "CREATURE:CAMBRIAN_HAIKOUICHTHYS"
 msgid "[NAME:haikouichthys:haikouichthys:haikouichthys]"
-msgstr ""
+msgstr "[NAME:haikouiĥto:haikouiĥtoj:haikouiĥta]"
 
 msgctxt "CREATURE:CAMBRIAN_HAIKOUICHTHYS"
 msgid "[CASTE_NAME:haikouichthys:haikouichthys:haikouichthys]"
-msgstr ""
+msgstr "[CASTE_NAME:haikouiĥto:haikouiĥtoj:haikouiĥta]"
 
 msgctxt "CREATURE:CAMBRIAN_HAIKOUICHTHYS"
 msgid "[GENERAL_CHILD_NAME:haikouichthys fry:haikouichthys fry]"
-msgstr ""
+msgstr "[GENERAL_CHILD_NAME:haikouiĥtido:haikouiĥtidoj]"
 
 msgctxt "CREATURE:CAMBRIAN_HAIKOUICHTHYS"
 msgid "[PREFSTRING:extra eyes]"
-msgstr ""
+msgstr "[PREFSTRING:kromaj okuloj]"
 
 msgctxt "CREATURE:CAMBRIAN_HAIKOUICHTHYS"
 msgid "[PREFSTRING:fins]"
-msgstr ""
+msgstr "[PREFSTRING:naĝiloj]"
 
 msgctxt "CREATURE:CAMBRIAN_HAIKOUICHTHYS"
 msgid "[ATTACK_VERB:bite:bites]"
-msgstr ""
+msgstr "[ATTACK_VERB:mordas:mordas]"
 
 msgctxt "CREATURE:CAMBRIAN_HAIKOUICHTHYS"
 msgid "[TLCM_NOUN:skin:SINGULAR]"
-msgstr ""
+msgstr "[TLCM_NOUN:haŭto:SINGULAR]"
 
 msgctxt "CREATURE:CAMBRIAN_HAIKOUICHTHYS"
 msgid "[TLCM_NOUN:eyes:PLURAL]"
-msgstr ""
+msgstr "[TLCM_NOUN:okuloj:PLURAL]"
 
 msgctxt "CREATURE:CAMBRIAN_HAIKOUICHTHYS_MAN"
 msgid "[CASTE_NAME:haikouichthys man:haikouichthys men:haikouichthys man]"
-msgstr ""
+msgstr "[CASTE_NAME:homhaikouiĥtiĉo:homhaikouiĥtiĉoj:homhaikouiĥtiĉa]"
 
 msgctxt "CREATURE:CAMBRIAN_HAIKOUICHTHYS_MAN"
 msgid ""
 "[CASTE_NAME:haikouichthys woman:haikouichthys women:haikouichthys woman]"
-msgstr ""
+msgstr "[CASTE_NAME:homhaikouiĥtino:homhaikouiĥtinoj:homhaikouiĥtina]"
 
 msgctxt "CREATURE:CAMBRIAN_HAIKOUICHTHYS_MAN"
 msgid "[NAME:haikouichthys man:haikouichthys men:haikouichthys man]"
-msgstr ""
+msgstr "[NAME:homhaikouiĥto:homhaikouiĥtoj:homhaikouiĥta]"
 
 msgctxt "CREATURE:CAMBRIAN_HAIKOUICHTHYS_MAN"
 msgid ""
 "[DESCRIPTION:A small four-eyed fish person with a pronounced back fin.]"
-msgstr ""
+msgstr "[DESCRIPTION:Malgranda kvarokula fiŝhomo kun elstara dorsa naĝilo.]"
 
 msgctxt "CREATURE:CAMBRIAN_OPABINIA"
 msgid ""
