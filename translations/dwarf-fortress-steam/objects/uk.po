@@ -5,12 +5,12 @@
 # Oleksii Zaichenko, 2025
 # Y Forreal, 2025
 # Mark Amell, 2025
-# Владислав Корнієнко, 2026
 # Mikhail M (insolor), 2026
+# Владислав Корнієнко, 2026
 # 
 msgid ""
 msgstr ""
-"Last-Translator: Mikhail M (insolor), 2026\n"
+"Last-Translator: Владислав Корнієнко, 2026\n"
 "Language-Team: Ukrainian (https://app.transifex.com/dwarf-fortress-translation/teams/22396/uk/)\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -2001,11 +2001,11 @@ msgstr "[BP:SHELL:панцир:панцирі]"
 
 msgctxt "BODY:2PART_CARAPACE"
 msgid "[BP:UB_CARAPACE:upper carapace:STP]"
-msgstr ""
+msgstr "[BP:UB_CARAPACE:верхній панцир:STP]"
 
 msgctxt "BODY:2PART_CARAPACE"
 msgid "[BP:LB_CARAPACE:lower carapace:STP]"
-msgstr ""
+msgstr "[BP:LB_CARAPACE:нижній панцир:STP]"
 
 msgctxt "BODY:TAIL_STANCE"
 msgid "[BP:TAIL:tail:STP]"
@@ -5014,6 +5014,8 @@ msgid ""
 "[DESCRIPTION:A small gregarious bird, blue and black with yellow eyes, found"
 " in temperate pastures.]"
 msgstr ""
+"[DESCRIPTION:Малий птах, що живе зграйками; синьо‑чорний із жовтими очима, "
+"трапляється на пасовищах помірного клімату.]"
 
 msgctxt "CREATURE:BIRD_GRACKLE"
 msgid "[NAME:grackle:grackles:grackle]"
@@ -5065,7 +5067,7 @@ msgstr ""
 
 msgctxt "CREATURE:GRACKLE_MAN"
 msgid "[DESCRIPTION:A person with the head and wings of a grackle.]"
-msgstr ""
+msgstr "[DESCRIPTION:Істота з головою та крилами грака.]"
 
 msgctxt "CREATURE:GIANT_GRACKLE"
 msgid "[NAME:giant grackle:giant grackles:giant grackle]"
@@ -5091,7 +5093,7 @@ msgctxt "CREATURE:BIRD_ORIOLE"
 msgid ""
 "[DESCRIPTION:A small yellow and black bird.  They feed in the canopy of the "
 "forest.]"
-msgstr ""
+msgstr "[DESCRIPTION:Невеликий жовто‑чорний птах. Харчується в кроні дерев.]"
 
 msgctxt "CREATURE:BIRD_ORIOLE"
 msgid "[NAME:oriole:orioles:oriole]"
@@ -5170,6 +5172,8 @@ msgid ""
 "[DESCRIPTION:A small black bird with bright red markings under the wings.  "
 "They live in the marshland.]"
 msgstr ""
+"[DESCRIPTION:Невеликий чорний птах із яскравими червоними плямами під "
+"крилами. Мешкає на болотах.]"
 
 msgctxt "CREATURE:BIRD_RW_BLACKBIRD"
 msgid "[NAME:red-winged blackbird:red-winged blackbirds:red-winged blackbird]"
@@ -5312,6 +5316,8 @@ msgid ""
 "[DESCRIPTION:A small flightless bird, blue in color, that lives on arctic "
 "shorelines.]"
 msgstr ""
+"[DESCRIPTION:Малий синій птах, що не літає й мешкає на арктичних "
+"узбережжях.]"
 
 msgctxt "CREATURE:BIRD_PENGUIN_LITTLE"
 msgid "[NAME:little penguin:little penguins:little penguin]"
@@ -5366,6 +5372,8 @@ msgid ""
 "[DESCRIPTION:A small flightless bird, it is the largest of the natural "
 "penguins.  It is known for its treks through leagues of glacial ice.]"
 msgstr ""
+"[DESCRIPTION:Малий нелітаючий птах, найбільший серед природних пінгвінів. "
+"Відомий довгими мандрівками по льодовиках.]"
 
 msgctxt "CREATURE:BIRD_PENGUIN_EMPEROR"
 msgid "[NAME:emperor penguin:emperor penguins:emperor penguin]"
@@ -15142,6 +15150,8 @@ msgid ""
 "[DESCRIPTION:A huge rodent that walks on tall legs.  Its bark can be heard "
 "at large distances.  It is fond of swimming.]"
 msgstr ""
+"[DESCRIPTION:Великий гризун, що ходить на високих ногах. Його гавкіт чути "
+"здалеку. Він полюбляє плавати.]"
 
 msgctxt "CREATURE:CAPYBARA, GIANT"
 msgid "[SOUND:ALERT:200:1000:VOCALIZATION:bark:barks:a resounding bark]"
@@ -15170,11 +15180,11 @@ msgstr ""
 
 msgctxt "CREATURE:CAPYBARA, GIANT"
 msgid "[PREFSTRING:beyond enormous rodentness]"
-msgstr ""
+msgstr "[PREFSTRING:надвеликий гризун]"
 
 msgctxt "CREATURE:CAPYBARA, GIANT"
 msgid "[PREFSTRING:graceful swimming]"
-msgstr ""
+msgstr "[PREFSTRING:граціозне плавання]"
 
 msgctxt "CREATURE:CAPYBARA, GIANT"
 msgid "[PREFSTRING:resonant barking]"
@@ -22830,6 +22840,8 @@ msgid ""
 "[DESCRIPTION:A tiny sea vermin with eight arms and two tentacles.  It can "
 "spray ink to confuse predators.]"
 msgstr ""
+"[DESCRIPTION:Маленька морська тварюка з вісьмома руками та двома щупальцями."
+" Вона може випускати чорнило, щоб збити хижаків з пантелику.]"
 
 msgctxt "CREATURE:SQUID"
 msgid "[NAME:squid:squids:squid]"
@@ -31045,11 +31057,11 @@ msgstr ""
 
 msgctxt "CREATURE:CAMBRIAN_HALLUCIGENIA"
 msgid "[PREFSTRING:spines]"
-msgstr ""
+msgstr "[PREFSTRING:шипи]"
 
 msgctxt "CREATURE:CAMBRIAN_HALLUCIGENIA"
 msgid "[PREFSTRING:lobopods]"
-msgstr ""
+msgstr "[PREFSTRING:лобоподи]"
 
 msgctxt "CREATURE:CAMBRIAN_HALLUCIGENIA"
 msgid "[STATE_NAME:ALL_SOLID:spine]"
@@ -48916,27 +48928,27 @@ msgstr "[PREFSTRING:сережки]"
 
 msgctxt "PLANT:BIRCH"
 msgid "[PREFSTRING:silver bark]"
-msgstr ""
+msgstr "[PREFSTRING:срібна кора]"
 
 msgctxt "PLANT:BIRCH"
 msgid "[PREFSTRING:autumn coloration]"
-msgstr ""
+msgstr "[PREFSTRING:осіннє забарвлення]"
 
 msgctxt "PLANT:BIRCH"
 msgid "[GROWTH_NAME:birch leaf:birch leaves]"
-msgstr ""
+msgstr "[GROWTH_NAME:лист берези:листя берези]"
 
 msgctxt "PLANT:BIRCH"
 msgid "[GROWTH_NAME:birch pollen catkin:STP]"
-msgstr ""
+msgstr "[GROWTH_NAME:сережка з пилком берези:STP]"
 
 msgctxt "PLANT:BIRCH"
 msgid "[GROWTH_NAME:birch seed catkin:STP]"
-msgstr ""
+msgstr "[GROWTH_NAME:сережка насіння берези:STP]"
 
 msgctxt "PLANT:BIRCH"
 msgid "[STATE_NAME_ADJ:ALL_SOLID:birch bark dye]"
-msgstr ""
+msgstr "[STATE_NAME_ADJ:ALL_SOLID:барвник з кори берези]"
 
 msgctxt "PLANT:ASH"
 msgid "[NAME:ash]"
@@ -48960,27 +48972,27 @@ msgstr "[STATE_ADJ:ALL_SOLID:з ясену]"
 
 msgctxt "PLANT:ASH"
 msgid "[PREFSTRING:flying keys]"
-msgstr ""
+msgstr "[PREFSTRING:летючі ключі]"
 
 msgctxt "PLANT:ASH"
 msgid "[PREFSTRING:autumn coloration]"
-msgstr ""
+msgstr "[PREFSTRING:осіннє забарвлення]"
 
 msgctxt "PLANT:ASH"
 msgid "[GROWTH_NAME:ash leaf:ash leaves]"
-msgstr ""
+msgstr "[GROWTH_NAME:лист ясена:листя ясена]"
 
 msgctxt "PLANT:ASH"
 msgid "[GROWTH_NAME:ash flower:STP]"
-msgstr ""
+msgstr "[GROWTH_NAME:квітка ясена:STP]"
 
 msgctxt "PLANT:ASH"
 msgid "[GROWTH_NAME:ash samara:STP]"
-msgstr ""
+msgstr "[GROWTH_NAME:крилатка ясена:STP]"
 
 msgctxt "PLANT:ASH"
 msgid "[STATE_NAME_ADJ:ALL_SOLID:ash bark dye]"
-msgstr ""
+msgstr "[STATE_NAME_ADJ:ALL_SOLID:барвник з кори ясена]"
 
 msgctxt "PLANT:CANDLENUT"
 msgid "[NAME:candlenut]"
@@ -48996,15 +49008,15 @@ msgstr "[ADJ:свічковий горіх]"
 
 msgctxt "PLANT:CANDLENUT"
 msgid "[STATE_NAME:ALL_SOLID:candlenut]"
-msgstr ""
+msgstr "[STATE_NAME:ALL_SOLID:свічковий горіх]"
 
 msgctxt "PLANT:CANDLENUT"
 msgid "[STATE_ADJ:ALL_SOLID:candlenut]"
-msgstr ""
+msgstr "[STATE_ADJ:ALL_SOLID:свічковий горіх]"
 
 msgctxt "PLANT:CANDLENUT"
 msgid "[SEED:candlenut:candlenuts:]"
-msgstr ""
+msgstr "[SEED:свічковий горіх:свічкові горіхи:]"
 
 msgctxt "PLANT:CANDLENUT"
 msgid "[PREFSTRING:nuts]"
@@ -49012,119 +49024,119 @@ msgstr "[PREFSTRING:горіхи]"
 
 msgctxt "PLANT:CANDLENUT"
 msgid "[GROWTH_NAME:candlenut leaf:candlenut leaves]"
-msgstr ""
+msgstr "[GROWTH_NAME:лист свічкового горіха:листя свічкового дерева]"
 
 msgctxt "PLANT:CANDLENUT"
 msgid "[GROWTH_NAME:candlenut flower:STP]"
-msgstr ""
+msgstr "[GROWTH_NAME:квітка свічкового горіха:STP]"
 
 msgctxt "PLANT:CANDLENUT"
 msgid "[GROWTH_NAME:candlenut:STP]"
-msgstr ""
+msgstr "[GROWTH_NAME:свічковий горіх:STP]"
 
 msgctxt "PLANT:MANGO"
 msgid "[NAME:mango tree]"
-msgstr ""
+msgstr "[NAME:дерево манго]"
 
 msgctxt "PLANT:MANGO"
 msgid "[NAME_PLURAL:mango trees]"
-msgstr ""
+msgstr "[NAME_PLURAL:дерева манго]"
 
 msgctxt "PLANT:MANGO"
 msgid "[ADJ:mango tree]"
-msgstr ""
+msgstr "[ADJ:дерево манго]"
 
 msgctxt "PLANT:MANGO"
 msgid "[STATE_NAME:ALL_SOLID:mango wood]"
-msgstr ""
+msgstr "[STATE_NAME:ALL_SOLID:деревина манго]"
 
 msgctxt "PLANT:MANGO"
 msgid "[STATE_ADJ:ALL_SOLID:mango wood]"
-msgstr ""
+msgstr "[STATE_ADJ:ALL_SOLID:деревина манго]"
 
 msgctxt "PLANT:MANGO"
 msgid "[STATE_NAME_ADJ:ALL_SOLID:frozen mango wine]"
-msgstr ""
+msgstr "[STATE_NAME_ADJ:ALL_SOLID:заморожене мангове вино]"
 
 msgctxt "PLANT:MANGO"
 msgid "[STATE_NAME_ADJ:LIQUID:mango wine]"
-msgstr ""
+msgstr "[STATE_NAME_ADJ:LIQUID:мангове вино]"
 
 msgctxt "PLANT:MANGO"
 msgid "[STATE_NAME_ADJ:GAS:boiling mango wine]"
-msgstr ""
+msgstr "[STATE_NAME_ADJ:GAS:варіння мангового вина]"
 
 msgctxt "PLANT:MANGO"
 msgid "[SEED:mango pit:mango pits:]"
-msgstr ""
+msgstr "[SEED:плід манго:плоди манго:]"
 
 msgctxt "PLANT:MANGO"
 msgid "[PREFSTRING:sweet-smelling flowers]"
-msgstr ""
+msgstr "[PREFSTRING:ароматні квіти]"
 
 msgctxt "PLANT:MANGO"
 msgid "[GROWTH_NAME:mango leaf:mango leaves]"
-msgstr ""
+msgstr "[GROWTH_NAME:лист манго:мангове листя]"
 
 msgctxt "PLANT:MANGO"
 msgid "[GROWTH_NAME:mango flower:STP]"
-msgstr ""
+msgstr "[GROWTH_NAME:квітка манго:STP]"
 
 msgctxt "PLANT:MANGO"
 msgid "[GROWTH_NAME:mango:STP]"
-msgstr ""
+msgstr "[GROWTH_NAME:манго:STP]"
 
 msgctxt "PLANT:RUBBER"
 msgid "[NAME:rubber tree]"
-msgstr ""
+msgstr "[NAME:каучукове дерево]"
 
 msgctxt "PLANT:RUBBER"
 msgid "[NAME_PLURAL:rubber trees]"
-msgstr ""
+msgstr "[NAME_PLURAL:каучукові дерева]"
 
 msgctxt "PLANT:RUBBER"
 msgid "[ADJ:rubber tree]"
-msgstr ""
+msgstr "[ADJ:каучукове дерево]"
 
 msgctxt "PLANT:RUBBER"
 msgid "[STATE_NAME:ALL_SOLID:rubber wood]"
-msgstr ""
+msgstr "[STATE_NAME:ALL_SOLID:дерево каучука]"
 
 msgctxt "PLANT:RUBBER"
 msgid "[STATE_ADJ:ALL_SOLID:rubber wood]"
-msgstr ""
+msgstr "[STATE_ADJ:ALL_SOLID:дерево каучука]"
 
 msgctxt "PLANT:RUBBER"
 msgid "[PREFSTRING:branch shedding]"
-msgstr ""
+msgstr "[PREFSTRING:скидання гілок]"
 
 msgctxt "PLANT:RUBBER"
 msgid "[GROWTH_NAME:rubber leaf:rubber leaves]"
-msgstr ""
+msgstr "[GROWTH_NAME:лист каучука:листя каучука]"
 
 msgctxt "PLANT:CACAO"
 msgid "[NAME:cacao tree]"
-msgstr ""
+msgstr "[NAME:какаове дерево]"
 
 msgctxt "PLANT:CACAO"
 msgid "[NAME_PLURAL:cacao trees]"
-msgstr ""
+msgstr "[NAME_PLURAL:какаові дерева]"
 
 msgctxt "PLANT:CACAO"
 msgid "[ADJ:cacao tree]"
-msgstr ""
+msgstr "[ADJ:какаове дерево]"
 
 msgctxt "PLANT:CACAO"
 msgid "[STATE_NAME:ALL_SOLID:cacao wood]"
-msgstr ""
+msgstr "[STATE_NAME:ALL_SOLID:дерево какао]"
 
 msgctxt "PLANT:CACAO"
 msgid "[STATE_ADJ:ALL_SOLID:cacao wood]"
-msgstr ""
+msgstr "[STATE_ADJ:ALL_SOLID:дерево какао]"
 
 msgctxt "PLANT:CACAO"
 msgid "[SEED:cacao bean:cacao beans:]"
-msgstr ""
+msgstr "[SEED:какао-біб:боби какао:]"
 
 msgctxt "PLANT:CACAO"
 msgid "[PREFSTRING:flowers]"
@@ -49132,35 +49144,35 @@ msgstr "[PREFSTRING:квіти]"
 
 msgctxt "PLANT:CACAO"
 msgid "[GROWTH_NAME:cacao leaf:cacao leaves]"
-msgstr ""
+msgstr "[GROWTH_NAME:листок какао:листя какао]"
 
 msgctxt "PLANT:CACAO"
 msgid "[GROWTH_NAME:cacao flower:STP]"
-msgstr ""
+msgstr "[GROWTH_NAME:квітка какао:STP]"
 
 msgctxt "PLANT:CACAO"
 msgid "[GROWTH_NAME:cacao pod:STP]"
-msgstr ""
+msgstr "[GROWTH_NAME:плід какао:STP]"
 
 msgctxt "PLANT:PALM"
 msgid "[NAME:coconut palm]"
-msgstr ""
+msgstr "[NAME:кокосова пальма]"
 
 msgctxt "PLANT:PALM"
 msgid "[NAME_PLURAL:coconut palms]"
-msgstr ""
+msgstr "[NAME_PLURAL:кокосова пальма]"
 
 msgctxt "PLANT:PALM"
 msgid "[ADJ:coconut palm]"
-msgstr ""
+msgstr "[ADJ:кокосова пальма]"
 
 msgctxt "PLANT:PALM"
 msgid "[STATE_NAME:ALL_SOLID:coconut palm]"
-msgstr ""
+msgstr "[STATE_NAME:ALL_SOLID:кокосова пальма]"
 
 msgctxt "PLANT:PALM"
 msgid "[STATE_ADJ:ALL_SOLID:coconut palm]"
-msgstr ""
+msgstr "[STATE_ADJ:ALL_SOLID:кокосова пальма]"
 
 msgctxt "PLANT:PALM"
 msgid "[PREFSTRING:leaves]"
@@ -49169,18 +49181,20 @@ msgstr "[PREFSTRING:листя]"
 msgctxt "PLANT:PALM"
 msgid "[GROWTH_NAME:coconut palm frond blade:coconut palm frond blades]"
 msgstr ""
+"[GROWTH_NAME:листова пластинка кокосової пальми:листові пластинки кокосової "
+"пальми]"
 
 msgctxt "PLANT:PALM"
 msgid "[GROWTH_NAME:coconut palm spathe:STP]"
-msgstr ""
+msgstr "[GROWTH_NAME:спата кокосової пальми:STP]"
 
 msgctxt "PLANT:PALM"
 msgid "[GROWTH_NAME:coconut:STP]"
-msgstr ""
+msgstr "[GROWTH_NAME:кокос:STP]"
 
 msgctxt "REACTION:MAKE WOODEN CHAIR"
 msgid "[NAME:make wooden chair]"
-msgstr ""
+msgstr "[NAME:зробити дерев'яний стілець]"
 
 msgctxt "REACTION:MAKE WOODEN CHAIR"
 msgid "[REAGENT:log:]"
@@ -49192,25 +49206,27 @@ msgstr "[REAGENT:інструмент:]"
 
 msgctxt "REACTION:MAKE WOODEN CHAIR"
 msgid "[PRODUCT:100:1:CHAIR:NONE:GET_MATERIAL_FROM_REAGENT:log:]"
-msgstr ""
+msgstr "[PRODUCT:100:1:CHAIR:NONE:GET_MATERIAL_FROM_REAGENT:колода:]"
 
 msgctxt "REACTION:MAKE WOODEN CHAIR"
 msgid "[PRODUCT_TOKEN:chair]"
-msgstr ""
+msgstr "[PRODUCT_TOKEN:стілець]"
 
 msgctxt "REACTION:MAKE WOODEN CHAIR"
 msgid "[CATEGORY_NAME:Carpentry]"
-msgstr ""
+msgstr "[CATEGORY_NAME:Столярство]"
 
 msgctxt "REACTION:MAKE WOODEN CHAIR"
 msgid ""
 "[CATEGORY_DESCRIPTION:Make furniture at a carpenter's workshop using logs "
 "and a sharp tool.]"
 msgstr ""
+"[CATEGORY_DESCRIPTION:Виготовляти меблі у столярній майстерні за допомогою "
+"колод та гострих інструментів.]"
 
 msgctxt "REACTION:MAKE WOODEN TABLE"
 msgid "[NAME:make wooden table]"
-msgstr ""
+msgstr "[NAME:зробити дерев'яний стіл]"
 
 msgctxt "REACTION:MAKE WOODEN TABLE"
 msgid "[REAGENT:log:]"
@@ -49222,15 +49238,15 @@ msgstr "[REAGENT:інструмент:]"
 
 msgctxt "REACTION:MAKE WOODEN TABLE"
 msgid "[PRODUCT:100:1:TABLE:NONE:GET_MATERIAL_FROM_REAGENT:log:]"
-msgstr ""
+msgstr "[PRODUCT:100:1:TABLE:NONE:GET_MATERIAL_FROM_REAGENT:колода:]"
 
 msgctxt "REACTION:MAKE WOODEN TABLE"
 msgid "[PRODUCT_TOKEN:table]"
-msgstr ""
+msgstr "[PRODUCT_TOKEN:стіл]"
 
 msgctxt "REACTION:MAKE WOODEN BED"
 msgid "[NAME:make wooden bed]"
-msgstr ""
+msgstr "[NAME:зробити дерев'яне ліжко]"
 
 msgctxt "REACTION:MAKE WOODEN BED"
 msgid "[REAGENT:log:]"
@@ -49242,15 +49258,15 @@ msgstr "[REAGENT:інструмент:]"
 
 msgctxt "REACTION:MAKE WOODEN BED"
 msgid "[PRODUCT:100:1:BED:NONE:GET_MATERIAL_FROM_REAGENT:log:]"
-msgstr ""
+msgstr "[PRODUCT:100:1:BED:NONE:GET_MATERIAL_FROM_REAGENT:колода:]"
 
 msgctxt "REACTION:MAKE WOODEN BED"
 msgid "[PRODUCT_TOKEN:bed]"
-msgstr ""
+msgstr "[PRODUCT_TOKEN:ліжко]"
 
 msgctxt "REACTION:MAKE WOODEN CHEST"
 msgid "[NAME:make wooden chest]"
-msgstr ""
+msgstr "[NAME:зробити дерев'яну скриню]"
 
 msgctxt "REACTION:MAKE WOODEN CHEST"
 msgid "[REAGENT:log:]"
@@ -49262,15 +49278,15 @@ msgstr "[REAGENT:інструмент:]"
 
 msgctxt "REACTION:MAKE WOODEN CHEST"
 msgid "[PRODUCT:100:1:BOX:NONE:GET_MATERIAL_FROM_REAGENT:log:]"
-msgstr ""
+msgstr "[PRODUCT:100:1:BOX:NONE:GET_MATERIAL_FROM_REAGENT:колода:]"
 
 msgctxt "REACTION:MAKE WOODEN CHEST"
 msgid "[PRODUCT_TOKEN:chest]"
-msgstr ""
+msgstr "[PRODUCT_TOKEN:скриня]"
 
 msgctxt "REACTION:MAKE WOODEN CABINET"
 msgid "[NAME:make wooden cabinet]"
-msgstr ""
+msgstr "[NAME:зробити дерев'яний комод]"
 
 msgctxt "REACTION:MAKE WOODEN CABINET"
 msgid "[REAGENT:log:]"
@@ -49282,15 +49298,15 @@ msgstr "[REAGENT:інструмент:]"
 
 msgctxt "REACTION:MAKE WOODEN CABINET"
 msgid "[PRODUCT:100:1:CABINET:NONE:GET_MATERIAL_FROM_REAGENT:log:]"
-msgstr ""
+msgstr "[PRODUCT:100:1:CABINET:NONE:GET_MATERIAL_FROM_REAGENT:колода:]"
 
 msgctxt "REACTION:MAKE WOODEN CABINET"
 msgid "[PRODUCT_TOKEN:cabinet]"
-msgstr ""
+msgstr "[PRODUCT_TOKEN:комод]"
 
 msgctxt "REACTION:MAKE WOODEN DOOR"
 msgid "[NAME:make wooden door]"
-msgstr ""
+msgstr "[NAME:зробити дерев'яні двері]"
 
 msgctxt "REACTION:MAKE WOODEN DOOR"
 msgid "[REAGENT:log:]"
@@ -49302,15 +49318,15 @@ msgstr "[REAGENT:інструмент:]"
 
 msgctxt "REACTION:MAKE WOODEN DOOR"
 msgid "[PRODUCT:100:1:DOOR:NONE:GET_MATERIAL_FROM_REAGENT:log:]"
-msgstr ""
+msgstr "[PRODUCT:100:1:DOOR:NONE:GET_MATERIAL_FROM_REAGENT:колода:]"
 
 msgctxt "REACTION:MAKE WOODEN DOOR"
 msgid "[PRODUCT_TOKEN:door]"
-msgstr ""
+msgstr "[PRODUCT_TOKEN:двері]"
 
 msgctxt "REACTION:MAKE WOODEN BARREL"
 msgid "[NAME:make wooden barrel]"
-msgstr ""
+msgstr "[NAME:зробити дерев'яну бочку]"
 
 msgctxt "REACTION:MAKE WOODEN BARREL"
 msgid "[REAGENT:log:]"
@@ -49322,15 +49338,15 @@ msgstr "[REAGENT:інструмент:]"
 
 msgctxt "REACTION:MAKE WOODEN BARREL"
 msgid "[PRODUCT:100:1:BARREL:NONE:GET_MATERIAL_FROM_REAGENT:log:]"
-msgstr ""
+msgstr "[PRODUCT:100:1:BARREL:NONE:GET_MATERIAL_FROM_REAGENT:колода:]"
 
 msgctxt "REACTION:MAKE WOODEN BARREL"
 msgid "[PRODUCT_TOKEN:barrel]"
-msgstr ""
+msgstr "[PRODUCT_TOKEN:бочка]"
 
 msgctxt "REACTION:MAKE WOODEN BUCKET"
 msgid "[NAME:make wooden bucket]"
-msgstr ""
+msgstr "[NAME:зробити дерев'яне відро]"
 
 msgctxt "REACTION:MAKE WOODEN BUCKET"
 msgid "[REAGENT:log:]"
@@ -49342,15 +49358,15 @@ msgstr "[REAGENT:інструмент:]"
 
 msgctxt "REACTION:MAKE WOODEN BUCKET"
 msgid "[PRODUCT:100:1:BUCKET:NONE:GET_MATERIAL_FROM_REAGENT:log:]"
-msgstr ""
+msgstr "[PRODUCT:100:1:BUCKET:NONE:GET_MATERIAL_FROM_REAGENT:колода:]"
 
 msgctxt "REACTION:MAKE WOODEN BUCKET"
 msgid "[PRODUCT_TOKEN:bucket]"
-msgstr ""
+msgstr "[PRODUCT_TOKEN:відро]"
 
 msgctxt "REACTION:MAKE WOODEN CASKET"
 msgid "[NAME:make wooden casket]"
-msgstr ""
+msgstr "[NAME:зробити дерев'яну труну]"
 
 msgctxt "REACTION:MAKE WOODEN CASKET"
 msgid "[REAGENT:log:]"
@@ -49362,7 +49378,7 @@ msgstr "[REAGENT:інструмент:]"
 
 msgctxt "REACTION:MAKE WOODEN CASKET"
 msgid "[PRODUCT:100:1:COFFIN:NONE:GET_MATERIAL_FROM_REAGENT:log:]"
-msgstr ""
+msgstr "[PRODUCT:100:1:COFFIN:NONE:GET_MATERIAL_FROM_REAGENT:колода:]"
 
 msgctxt "REACTION:MAKE WOODEN CASKET"
 msgid "[PRODUCT_TOKEN:casket]"
@@ -49370,7 +49386,7 @@ msgstr "[PRODUCT_TOKEN:труна]"
 
 msgctxt "REACTION:MAKE WOODEN HATCH COVER"
 msgid "[NAME:make wooden hatch cover]"
-msgstr ""
+msgstr "[NAME:зробити дерев'яну кришку люка]"
 
 msgctxt "REACTION:MAKE WOODEN HATCH COVER"
 msgid "[REAGENT:log:]"
@@ -49382,11 +49398,11 @@ msgstr "[REAGENT:інструмент:]"
 
 msgctxt "REACTION:MAKE WOODEN HATCH COVER"
 msgid "[PRODUCT:100:1:HATCH_COVER:NONE:GET_MATERIAL_FROM_REAGENT:log:]"
-msgstr ""
+msgstr "[PRODUCT:100:1:HATCH_COVER:NONE:GET_MATERIAL_FROM_REAGENT:колода:]"
 
 msgctxt "REACTION:MAKE WOODEN HATCH COVER"
 msgid "[PRODUCT_TOKEN:hatch cover]"
-msgstr ""
+msgstr "[PRODUCT_TOKEN:кришка люка]"
 
 msgctxt "REACTION:MAKE WOODEN GRATE"
 msgid "[NAME:make wooden grate]"
@@ -49402,7 +49418,7 @@ msgstr "[REAGENT:інструмент:]"
 
 msgctxt "REACTION:MAKE WOODEN GRATE"
 msgid "[PRODUCT:100:1:GRATE:NONE:GET_MATERIAL_FROM_REAGENT:log:]"
-msgstr ""
+msgstr "[PRODUCT:100:1:GRATE:NONE:GET_MATERIAL_FROM_REAGENT:колода:]"
 
 msgctxt "REACTION:MAKE WOODEN GRATE"
 msgid "[PRODUCT_TOKEN:grate]"
@@ -49422,7 +49438,7 @@ msgstr "[REAGENT:інструмент:]"
 
 msgctxt "REACTION:MAKE WOODEN BIN"
 msgid "[PRODUCT:100:1:BIN:NONE:GET_MATERIAL_FROM_REAGENT:log:]"
-msgstr ""
+msgstr "[PRODUCT:100:1:BIN:NONE:GET_MATERIAL_FROM_REAGENT:колода:]"
 
 msgctxt "REACTION:MAKE WOODEN BIN"
 msgid "[PRODUCT_TOKEN:bin]"
@@ -49430,7 +49446,7 @@ msgstr "[PRODUCT_TOKEN:ящик]"
 
 msgctxt "REACTION:MAKE WOODEN STEPLADDER"
 msgid "[NAME:make wooden stepladder]"
-msgstr ""
+msgstr "[NAME:зробити дерев'яну стрем'янку]"
 
 msgctxt "REACTION:MAKE WOODEN STEPLADDER"
 msgid "[REAGENT:log:]"
@@ -49444,14 +49460,15 @@ msgctxt "REACTION:MAKE WOODEN STEPLADDER"
 msgid ""
 "[PRODUCT:100:1:TOOL:ITEM_TOOL_STEPLADDER:GET_MATERIAL_FROM_REAGENT:log:]"
 msgstr ""
+"[PRODUCT:100:1:TOOL:ITEM_TOOL_STEPLADDER:GET_MATERIAL_FROM_REAGENT:колода:]"
 
 msgctxt "REACTION:MAKE WOODEN STEPLADDER"
 msgid "[PRODUCT_TOKEN:stepladder]"
-msgstr ""
+msgstr "[PRODUCT_TOKEN:стрем’янка]"
 
 msgctxt "REACTION:MAKE WOODEN BOOKCASE"
 msgid "[NAME:make wooden bookcase]"
-msgstr ""
+msgstr "[NAME:зробити дерев'яну книжкову шафу]"
 
 msgctxt "REACTION:MAKE WOODEN BOOKCASE"
 msgid "[REAGENT:log:]"
@@ -49464,6 +49481,7 @@ msgstr "[REAGENT:інструмент:]"
 msgctxt "REACTION:MAKE WOODEN BOOKCASE"
 msgid "[PRODUCT:100:1:TOOL:ITEM_TOOL_BOOKCASE:GET_MATERIAL_FROM_REAGENT:log:]"
 msgstr ""
+"[PRODUCT:100:1:TOOL:ITEM_TOOL_BOOKCASE:GET_MATERIAL_FROM_REAGENT:колода:]"
 
 msgctxt "REACTION:MAKE WOODEN BOOKCASE"
 msgid "[PRODUCT_TOKEN:bookcase]"
@@ -49483,7 +49501,7 @@ msgstr "[REAGENT:інструмент:]"
 
 msgctxt "REACTION:MAKE WOODEN SPLINT"
 msgid "[PRODUCT:100:1:SPLINT:NONE:GET_MATERIAL_FROM_REAGENT:log:]"
-msgstr ""
+msgstr "[PRODUCT:100:1:SPLINT:NONE:GET_MATERIAL_FROM_REAGENT:колода:]"
 
 msgctxt "REACTION:MAKE WOODEN SPLINT"
 msgid "[PRODUCT_TOKEN:splint]"
@@ -49525,6 +49543,7 @@ msgctxt "REACTION:MAKE WOODEN SHIELD"
 msgid ""
 "[PRODUCT:100:1:SHIELD:ITEM_SHIELD_SHIELD:GET_MATERIAL_FROM_REAGENT:log:]"
 msgstr ""
+"[PRODUCT:100:1:SHIELD:ITEM_SHIELD_SHIELD:GET_MATERIAL_FROM_REAGENT:колода:]"
 
 msgctxt "REACTION:MAKE WOODEN SHIELD"
 msgid "[PRODUCT_TOKEN:shield]"
@@ -49532,7 +49551,7 @@ msgstr "[PRODUCT_TOKEN:щит]"
 
 msgctxt "REACTION:MAKE WOODEN BUCKLER"
 msgid "[NAME:make wooden buckler]"
-msgstr ""
+msgstr "[NAME:зробити дерев'яний баклер]"
 
 msgctxt "REACTION:MAKE WOODEN BUCKLER"
 msgid "[REAGENT:log:]"
@@ -49546,14 +49565,15 @@ msgctxt "REACTION:MAKE WOODEN BUCKLER"
 msgid ""
 "[PRODUCT:100:1:SHIELD:ITEM_SHIELD_BUCKLER:GET_MATERIAL_FROM_REAGENT:log:]"
 msgstr ""
+"[PRODUCT:100:1:SHIELD:ITEM_SHIELD_BUCKLER:GET_MATERIAL_FROM_REAGENT:колода:]"
 
 msgctxt "REACTION:MAKE WOODEN BUCKLER"
 msgid "[PRODUCT_TOKEN:buckler]"
-msgstr ""
+msgstr "[PRODUCT_TOKEN:баклер]"
 
 msgctxt "REACTION:MAKE WOODEN TRAINING AXE"
 msgid "[NAME:make wooden training axe]"
-msgstr ""
+msgstr "[NAME:зробити дерев'яну сокиру для тренувань]"
 
 msgctxt "REACTION:MAKE WOODEN TRAINING AXE"
 msgid "[REAGENT:log:]"
@@ -49567,6 +49587,7 @@ msgctxt "REACTION:MAKE WOODEN TRAINING AXE"
 msgid ""
 "[PRODUCT:100:1:WEAPON:ITEM_WEAPON_AXE_TRAINING:GET_MATERIAL_FROM_REAGENT:log:]"
 msgstr ""
+"[PRODUCT:100:1:WEAPON:ITEM_WEAPON_AXE_TRAINING:GET_MATERIAL_FROM_REAGENT:колода:]"
 
 msgctxt "REACTION:MAKE WOODEN TRAINING AXE"
 msgid "[PRODUCT_TOKEN:axe]"
@@ -49574,7 +49595,7 @@ msgstr "[PRODUCT_TOKEN:сокира]"
 
 msgctxt "REACTION:MAKE WOODEN TRAINING SHORT SWORD"
 msgid "[NAME:make wooden training short sword]"
-msgstr ""
+msgstr "[NAME:зробити дерев'яний короткий меч для тренувань]"
 
 msgctxt "REACTION:MAKE WOODEN TRAINING SHORT SWORD"
 msgid "[REAGENT:log:]"
@@ -49588,6 +49609,7 @@ msgctxt "REACTION:MAKE WOODEN TRAINING SHORT SWORD"
 msgid ""
 "[PRODUCT:100:1:WEAPON:ITEM_WEAPON_SWORD_SHORT_TRAINING:GET_MATERIAL_FROM_REAGENT:log:]"
 msgstr ""
+"[PRODUCT:100:1:WEAPON:ITEM_WEAPON_SWORD_SHORT_TRAINING:GET_MATERIAL_FROM_REAGENT:колода:]"
 
 msgctxt "REACTION:MAKE WOODEN TRAINING SHORT SWORD"
 msgid "[PRODUCT_TOKEN:sword]"
@@ -49595,7 +49617,7 @@ msgstr "[PRODUCT_TOKEN:меч]"
 
 msgctxt "REACTION:MAKE WOODEN TRAINING SPEAR"
 msgid "[NAME:make wooden training spear]"
-msgstr ""
+msgstr "[NAME:зробити дерев'яний спис для тренувань]"
 
 msgctxt "REACTION:MAKE WOODEN TRAINING SPEAR"
 msgid "[REAGENT:log:]"
@@ -49609,6 +49631,7 @@ msgctxt "REACTION:MAKE WOODEN TRAINING SPEAR"
 msgid ""
 "[PRODUCT:100:1:WEAPON:ITEM_WEAPON_SPEAR_TRAINING:GET_MATERIAL_FROM_REAGENT:log:]"
 msgstr ""
+"[PRODUCT:100:1:WEAPON:ITEM_WEAPON_SPEAR_TRAINING:GET_MATERIAL_FROM_REAGENT:колода:]"
 
 msgctxt "REACTION:MAKE WOODEN TRAINING SPEAR"
 msgid "[PRODUCT_TOKEN:spear]"
@@ -49616,7 +49639,7 @@ msgstr "[PRODUCT_TOKEN:спис]"
 
 msgctxt "REACTION:MAKE WOODEN PEDESTAL"
 msgid "[NAME:make wooden pedestal]"
-msgstr ""
+msgstr "[NAME:зробити дерев’яний п’єдестал]"
 
 msgctxt "REACTION:MAKE WOODEN PEDESTAL"
 msgid "[REAGENT:log:]"
@@ -49629,10 +49652,11 @@ msgstr "[REAGENT:інструмент:]"
 msgctxt "REACTION:MAKE WOODEN PEDESTAL"
 msgid "[PRODUCT:100:1:TOOL:ITEM_TOOL_PEDESTAL:GET_MATERIAL_FROM_REAGENT:log:]"
 msgstr ""
+"[PRODUCT:100:1:TOOL:ITEM_TOOL_PEDESTAL:GET_MATERIAL_FROM_REAGENT:колода:]"
 
 msgctxt "REACTION:MAKE WOODEN PEDESTAL"
 msgid "[PRODUCT_TOKEN:pedestal]"
-msgstr ""
+msgstr "[PRODUCT_TOKEN:п'єдестал]"
 
 msgctxt "REACTION:ACACIA_BARK_DYE"
 msgid "[NAME:make acacia bark dye]"
@@ -49651,6 +49675,8 @@ msgid ""
 "[CATEGORY_DESCRIPTION:Make dyes from plants and plant parts that don't "
 "require a mill.]"
 msgstr ""
+"[CATEGORY_DESCRIPTION:Створювати барвники з рослин та їхніх частин, які не "
+"потребують млина.]"
 
 msgctxt "REACTION:ALDER_BARK_DYE"
 msgid "[NAME:make alder bark dye]"
@@ -49666,7 +49692,7 @@ msgstr ""
 
 msgctxt "REACTION:ALDER_CONE_DYE"
 msgid "[REAGENT:plant:]"
-msgstr ""
+msgstr "[REAGENT:рослина:]"
 
 msgctxt "REACTION:ALMOND_SHELL_DYE"
 msgid "[NAME:make almond shell dye]"
@@ -49674,7 +49700,7 @@ msgstr ""
 
 msgctxt "REACTION:ALMOND_SHELL_DYE"
 msgid "[REAGENT:plant:]"
-msgstr ""
+msgstr "[REAGENT:рослина:]"
 
 msgctxt "REACTION:APPLE_BARK_DYE"
 msgid "[NAME:make apple bark dye]"
@@ -49690,7 +49716,7 @@ msgstr ""
 
 msgctxt "REACTION:APPLE_LEAF_DYE"
 msgid "[REAGENT:plant:]"
-msgstr ""
+msgstr "[REAGENT:рослина:]"
 
 msgctxt "REACTION:APRICOT_BARK_DYE"
 msgid "[NAME:make apricot bark dye]"
@@ -49714,7 +49740,7 @@ msgstr ""
 
 msgctxt "REACTION:AVOCADO_SKIN_DYE"
 msgid "[REAGENT:plant:]"
-msgstr ""
+msgstr "[REAGENT:рослина:]"
 
 msgctxt "REACTION:BANANA_LEAF_DYE"
 msgid "[NAME:make banana leaf dye]"
@@ -49722,7 +49748,7 @@ msgstr ""
 
 msgctxt "REACTION:BANANA_LEAF_DYE"
 msgid "[REAGENT:plant:]"
-msgstr ""
+msgstr "[REAGENT:рослина:]"
 
 msgctxt "REACTION:BANANA_PEEL_DYE"
 msgid "[NAME:make banana peel dye]"
@@ -49730,7 +49756,7 @@ msgstr ""
 
 msgctxt "REACTION:BANANA_PEEL_DYE"
 msgid "[REAGENT:plant:]"
-msgstr ""
+msgstr "[REAGENT:рослина:]"
 
 msgctxt "REACTION:BAYBERRY_LEAF_DYE"
 msgid "[NAME:make bayberry leaf dye]"
@@ -49738,7 +49764,7 @@ msgstr ""
 
 msgctxt "REACTION:BAYBERRY_LEAF_DYE"
 msgid "[REAGENT:plant:]"
-msgstr ""
+msgstr "[REAGENT:рослина:]"
 
 msgctxt "REACTION:BAYBERRY_BERRY_DYE"
 msgid "[NAME:make bayberry dye]"
@@ -49746,7 +49772,7 @@ msgstr ""
 
 msgctxt "REACTION:BAYBERRY_BERRY_DYE"
 msgid "[REAGENT:plant:]"
-msgstr ""
+msgstr "[REAGENT:рослина:]"
 
 msgctxt "REACTION:BIRCH_BARK_DYE"
 msgid "[NAME:make birch bark dye]"
@@ -49770,7 +49796,7 @@ msgstr ""
 
 msgctxt "REACTION:CHERRY_LEAF_DYE"
 msgid "[REAGENT:plant:]"
-msgstr ""
+msgstr "[REAGENT:рослина:]"
 
 msgctxt "REACTION:CHESTNUT_BARK_DYE"
 msgid "[NAME:make chestnut bark dye]"
@@ -49786,7 +49812,7 @@ msgstr ""
 
 msgctxt "REACTION:CHESTNUT_LEAF_DYE"
 msgid "[REAGENT:plant:]"
-msgstr ""
+msgstr "[REAGENT:рослина:]"
 
 msgctxt "REACTION:CHESTNUT_HULL_DYE"
 msgid "[NAME:make chestnut hull dye]"
@@ -49794,7 +49820,7 @@ msgstr ""
 
 msgctxt "REACTION:CHESTNUT_HULL_DYE"
 msgid "[REAGENT:plant:]"
-msgstr ""
+msgstr "[REAGENT:рослина:]"
 
 msgctxt "REACTION:COFFEE_BEAN_DYE"
 msgid "[NAME:make coffee bean dye]"
@@ -49802,7 +49828,7 @@ msgstr ""
 
 msgctxt "REACTION:COFFEE_BEAN_DYE"
 msgid "[REAGENT:plant:]"
-msgstr ""
+msgstr "[REAGENT:рослина:]"
 
 msgctxt "REACTION:GINKGO_LEAF_DYE"
 msgid "[NAME:make ginkgo leaf dye]"
@@ -49810,7 +49836,7 @@ msgstr ""
 
 msgctxt "REACTION:GINKGO_LEAF_DYE"
 msgid "[REAGENT:plant:]"
-msgstr ""
+msgstr "[REAGENT:рослина:]"
 
 msgctxt "REACTION:GUAVA_BARK_DYE"
 msgid "[NAME:make guava bark dye]"
@@ -49826,7 +49852,7 @@ msgstr ""
 
 msgctxt "REACTION:GUAVA_LEAF_DYE"
 msgid "[REAGENT:plant:]"
-msgstr ""
+msgstr "[REAGENT:рослина:]"
 
 msgctxt "REACTION:HAZEL_BARK_DYE"
 msgid "[NAME:make hazel bark dye]"
@@ -49842,7 +49868,7 @@ msgstr ""
 
 msgctxt "REACTION:HAZEL_LEAF_DYE"
 msgid "[REAGENT:plant:]"
-msgstr ""
+msgstr "[REAGENT:рослина:]"
 
 msgctxt "REACTION:LARCH_BARK_DYE"
 msgid "[NAME:make larch bark dye]"
@@ -49874,7 +49900,7 @@ msgstr ""
 
 msgctxt "REACTION:MANGROVE_LEAF_DYE"
 msgid "[REAGENT:plant:]"
-msgstr ""
+msgstr "[REAGENT:рослина:]"
 
 msgctxt "REACTION:MAPLE_BARK_DYE"
 msgid "[NAME:make maple bark dye]"
@@ -49906,7 +49932,7 @@ msgstr ""
 
 msgctxt "REACTION:OLIVE_LEAF_DYE"
 msgid "[REAGENT:plant:]"
-msgstr ""
+msgstr "[REAGENT:рослина:]"
 
 msgctxt "REACTION:PEACH_BARK_DYE"
 msgid "[NAME:make peach bark dye]"
@@ -49930,7 +49956,7 @@ msgstr ""
 
 msgctxt "REACTION:PEAR_LEAF_DYE"
 msgid "[REAGENT:plant:]"
-msgstr ""
+msgstr "[REAGENT:рослина:]"
 
 msgctxt "REACTION:PERSIMMON_FRUIT_DYE"
 msgid "[NAME:make persimmon dye]"
@@ -49938,11 +49964,11 @@ msgstr ""
 
 msgctxt "REACTION:PERSIMMON_FRUIT_DYE"
 msgid "[REAGENT:plant:]"
-msgstr ""
+msgstr "[REAGENT:рослина:]"
 
 msgctxt "REACTION:PINE_BARK_DYE"
 msgid "[NAME:make pine bark dye]"
-msgstr ""
+msgstr "[NAME:зробити барвник із кори сосни]"
 
 msgctxt "REACTION:PINE_BARK_DYE"
 msgid "[REAGENT:log:]"
@@ -49950,7 +49976,7 @@ msgstr "[REAGENT:колода:]"
 
 msgctxt "REACTION:PLUM_BARK_DYE"
 msgid "[NAME:make plum bark dye]"
-msgstr ""
+msgstr "[NAME:зробити барвник із кори сливи]"
 
 msgctxt "REACTION:PLUM_BARK_DYE"
 msgid "[REAGENT:log:]"
@@ -49958,23 +49984,23 @@ msgstr "[REAGENT:колода:]"
 
 msgctxt "REACTION:POMEGRANATE_LEAF_DYE"
 msgid "[NAME:make pomegranate leaf dye]"
-msgstr ""
+msgstr "[NAME:зробити барвник із листя граната]"
 
 msgctxt "REACTION:POMEGRANATE_LEAF_DYE"
 msgid "[REAGENT:plant:]"
-msgstr ""
+msgstr "[REAGENT:рослина:]"
 
 msgctxt "REACTION:POMEGRANATE_RIND_DYE"
 msgid "[NAME:make pomegranate rind dye]"
-msgstr ""
+msgstr "[NAME:зробити барвник із шкірки граната]"
 
 msgctxt "REACTION:POMEGRANATE_RIND_DYE"
 msgid "[REAGENT:plant:]"
-msgstr ""
+msgstr "[REAGENT:рослина:]"
 
 msgctxt "REACTION:POMEGRANATE_BARK_DYE"
 msgid "[NAME:make pomegranate bark dye]"
-msgstr ""
+msgstr "[NAME:зробити барвник із кори граната]"
 
 msgctxt "REACTION:POMEGRANATE_BARK_DYE"
 msgid "[REAGENT:log:]"
@@ -49982,15 +50008,15 @@ msgstr "[REAGENT:колода:]"
 
 msgctxt "REACTION:TEA_LEAF_DYE"
 msgid "[NAME:make tea leaf dye]"
-msgstr ""
+msgstr "[NAME:зробити барвник із чайного листя]"
 
 msgctxt "REACTION:TEA_LEAF_DYE"
 msgid "[REAGENT:plant:]"
-msgstr ""
+msgstr "[REAGENT:рослина:]"
 
 msgctxt "REACTION:WILLOW_BARK_DYE"
 msgid "[NAME:make willow bark dye]"
-msgstr ""
+msgstr "[NAME:зробити барвник із кори верби]"
 
 msgctxt "REACTION:WILLOW_BARK_DYE"
 msgid "[REAGENT:log:]"
@@ -50681,6 +50707,8 @@ msgid ""
 "[IMPROVEMENT:100:scroll:SPECIFIC:ROLLERS:GET_MATERIAL_FROM_REAGENT:scroll "
 "rollers:]"
 msgstr ""
+"[IMPROVEMENT:100:scroll:SPECIFIC:ROLLERS:GET_MATERIAL_FROM_REAGENT:валик для"
+" сувоїв:]"
 
 msgctxt "REACTION:MAKE_QUIRE"
 msgid "[NAME:make quire]"
@@ -51043,7 +51071,7 @@ msgstr "[NAME:виготовити якісні олов’яні злитки (
 
 msgctxt "REACTION:PEWTER_FINE_MAKING2"
 msgid "[NAME:make fine pewter bars (use bars)]"
-msgstr ""
+msgstr "[NAME:виготовити якісні злитки з олова (використати злитки)]"
 
 msgctxt "REACTION:PEWTER_TRIFLE_MAKING"
 msgid "[NAME:make trifle pewter bars (use ore)]"
