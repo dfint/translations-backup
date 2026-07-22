@@ -5,10 +5,11 @@
 # Ángel Molina, 2026
 # Fnose fn, 2026
 # ilan Fritzler, 2026
+# Brandon Rosas, 2026
 # 
 msgid ""
 msgstr ""
-"Last-Translator: ilan Fritzler, 2026\n"
+"Last-Translator: Brandon Rosas, 2026\n"
 "Language-Team: Spanish (https://app.transifex.com/dwarf-fortress-translation/teams/22396/es/)\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -85,7 +86,7 @@ msgstr "marchito"
 #: data/init/globals.lua:332
 msgctxt "random_sphere_adjective"
 msgid "delineated"
-msgstr "deliniado"
+msgstr "delineando"
 
 #. CAVERNS={"cavernous"}
 #: data/init/globals.lua:333
@@ -121,7 +122,7 @@ msgstr "costero"
 #: data/init/globals.lua:338
 msgctxt "random_sphere_adjective"
 msgid "consoling"
-msgstr "consolador"
+msgstr "Consolando"
 
 #. COURAGE={"courageous"}
 #: data/init/globals.lua:339
@@ -3097,7 +3098,7 @@ msgstr "toro"
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures/shared_info.lua:3050
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures/shared_info.lua:3051
 msgid "shell"
-msgstr ""
+msgstr "Concha"
 
 #. BEAST_SNAKE_ANTENNAE="antennae"
 #. BEAST_WORM_LONG_ANTENNAE="antennae"
@@ -3148,7 +3149,7 @@ msgstr ""
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures/shared_info.lua:3184
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures/shared_info.lua:3185
 msgid "antennae"
-msgstr ""
+msgstr "Antenas"
 
 #. BEAST_SNAKE_BEAK="beak"
 #. BEAST_HUMANOID_BEAK="beak"
@@ -3175,7 +3176,7 @@ msgstr ""
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures/shared_info.lua:3334
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures/shared_info.lua:3335
 msgid "beak"
-msgstr ""
+msgstr "Pico"
 
 #. BEAST_SNAKE_QUILLS="quills"
 #. BEAST_WORM_LONG_QUILLS="quills"
@@ -3226,7 +3227,7 @@ msgstr ""
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures/shared_info.lua:3346
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures/shared_info.lua:3347
 msgid "quills"
-msgstr ""
+msgstr "Pluma"
 
 #. BEAST_SNAKE_PLATES="plates"
 #. BEAST_WORM_LONG_PLATES="plates"
@@ -3277,7 +3278,7 @@ msgstr ""
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures/shared_info.lua:3358
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures/shared_info.lua:3359
 msgid "plates"
-msgstr ""
+msgstr "Placas"
 
 #. BEAST_SNAKE_HORN="horns"
 #. BEAST_WORM_LONG_HORN="horns"
@@ -3424,7 +3425,7 @@ msgstr ""
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures/shared_info.lua:3394
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures/shared_info.lua:3395
 msgid "horns"
-msgstr ""
+msgstr "Cuernos"
 
 #. BEAST_ORGANIC_SNAKE_EYE_ONE="glowing"
 #. BEAST_ORGANIC_SNAKE_EYE_TWO="glowing"
@@ -3571,97 +3572,97 @@ msgstr ""
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures/shared_info.lua:3430
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures/shared_info.lua:3431
 msgid "glowing"
-msgstr ""
+msgstr "Brillante"
 
 #. local desc=" It has "
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures/shared_info.lua:3831
 msgid " It has "
-msgstr ""
+msgstr "Tiene"
 
 #. desc=desc.."wings"
 #. return options.btc2=="FEATHERS" and "wings" or "feathered wings"
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures/shared_info.lua:3835
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures/shared_info.lua:4100
 msgid "wings"
-msgstr ""
+msgstr "alas"
 
 #. flavor_adj={"winged"}
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures/shared_info.lua:3845
 msgctxt "WINGS"
 msgid "winged"
-msgstr ""
+msgstr "Alado"
 
 #. flavor_adj={"winged"}
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures/shared_info.lua:3850
 msgctxt "WINGS_FLIGHTLESS"
 msgid "winged"
-msgstr ""
+msgstr "Alada"
 
 #. str=str.." It has two "
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures/shared_info.lua:3883
 msgctxt "TAIL"
 msgid " It has two "
-msgstr ""
+msgstr "Tiene dos "
 
 #. str=str.." It has three "
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures/shared_info.lua:3886
 msgctxt "TAIL"
 msgid " It has three "
-msgstr ""
+msgstr "Tiene tres "
 
 #. str=str.." It has a "
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures/shared_info.lua:3889
 msgctxt "TAIL"
 msgid " It has a "
-msgstr ""
+msgstr "Tiene un/una "
 
 #. "long, hanging"
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures/shared_info.lua:3892
 msgctxt "TAIL"
 msgid "long, hanging"
-msgstr ""
+msgstr "Largo y colgante"
 
 #. "long, straight"
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures/shared_info.lua:3893
 msgctxt "TAIL"
 msgid "long, straight"
-msgstr ""
+msgstr "Largo y recto"
 
 #. "long, curly"
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures/shared_info.lua:3894
 msgctxt "TAIL"
 msgid "long, curly"
-msgstr ""
+msgstr "largo y rizado"
 
 #. "short"
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures/shared_info.lua:3895
 msgctxt "TAIL"
 msgid "short"
-msgstr ""
+msgstr "corto / corta"
 
 #. "stubby"
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures/shared_info.lua:3896
 msgctxt "TAIL"
 msgid "stubby"
-msgstr ""
+msgstr "grueso"
 
 #. "narrow"
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures/shared_info.lua:3897
 msgctxt "TAIL"
 msgid "narrow"
-msgstr ""
+msgstr "delgado / delgada"
 
 #. if options.tail_count>1 then str=str.." tails"
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures/shared_info.lua:3900
 msgctxt "TAIL"
 msgid " tails"
-msgstr ""
+msgstr "colas"
 
 #. else str=str.." tail" end
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures/shared_info.lua:3901
 msgctxt "TAIL"
 msgid " tail"
-msgstr ""
+msgstr "cola"
 
 #. has_desc_func=function(options) return " It has a proboscis" end
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures/shared_info.lua:3907
@@ -3674,7 +3675,7 @@ msgstr "tiene una trompa"
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures/shared_info.lua:3913
 msgctxt "TRUNK"
 msgid " It has a long, swinging trunk"
-msgstr ""
+msgstr "Tiene una trompa larga y móvil"
 
 #. function() options.pcg_layering_modifier.TRUNK="SHORT" return " It has a
 #. short trunk" end
@@ -3789,25 +3790,25 @@ msgstr ""
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures/shared_info.lua:3945
 msgctxt "ANTENNAE"
 msgid " It has a pair of knobby antennae"
-msgstr "tiene un par de antenas nudosas."
+msgstr "Tiene un par de antenas nudosas."
 
 #. local str=" It has "
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures/shared_info.lua:3956
 msgctxt "HEAD_HORNS"
 msgid " It has "
-msgstr ""
+msgstr "Tiene"
 
 #. str=str.."two "
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures/shared_info.lua:3958
 msgctxt "HEAD_HORNS"
 msgid "two "
-msgstr ""
+msgstr "dos"
 
 #. str=str.."three "
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures/shared_info.lua:3960
 msgctxt "HEAD_HORNS"
 msgid "three "
-msgstr ""
+msgstr "tres"
 
 #. str=str.."four "
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures/shared_info.lua:3962
@@ -3882,7 +3883,7 @@ msgstr ""
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures/shared_info.lua:3985
 msgctxt "LARGE_MANDIBLES"
 msgid " It has large mandibles"
-msgstr ""
+msgstr "Tiene mandíbulas grandes"
 
 #. adj="eyeless"
 #. flavor_adj={"eyeless","blind"}
