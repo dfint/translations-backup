@@ -1,11 +1,11 @@
 # Translators:
 # Transifex Bot <>, 2025
 # Simone Paoletti, 2026
-# Pietro Capriata, 2026
+# Pietro, 2026
 # 
 msgid ""
 msgstr ""
-"Last-Translator: Pietro Capriata, 2026\n"
+"Last-Translator: Pietro, 2026\n"
 "Language-Team: Italian (https://app.transifex.com/dwarf-fortress-translation/teams/22396/it/)\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -667,13 +667,13 @@ msgstr ""
 #: data/init/globals.lua:431
 msgctxt "random_sphere_adjective"
 msgid "hopeless"
-msgstr ""
+msgstr "senza speranza"
 
 #. SUN={"sunny"}
 #: data/init/globals.lua:432
 msgctxt "random_sphere_adjective"
 msgid "sunny"
-msgstr ""
+msgstr "soleggiato"
 
 #. THEFT={"thieving"}
 #: data/init/globals.lua:433
@@ -799,7 +799,7 @@ msgstr ""
 #: data/init/globals.lua:454
 msgctxt "random_sphere_adjective"
 msgid "young"
-msgstr ""
+msgstr "giovane"
 
 #. return sph and pick_random(random_sphere_adjective[sph]) or "no sphere"
 #. local tbl = sph and pick_random(random_sphere_nouns[sph]) or {str="no
@@ -842,7 +842,7 @@ msgstr ""
 #: data/init/globals.lua:470
 msgctxt "random_sphere_nouns"
 msgid "birth"
-msgstr ""
+msgstr "nascita"
 
 #. BLIGHT={{str="blight"}}
 #: data/init/globals.lua:471
@@ -860,13 +860,13 @@ msgstr ""
 #: data/init/globals.lua:473
 msgctxt "random_sphere_nouns"
 msgid "caverns"
-msgstr ""
+msgstr "caverne"
 
 #. CHAOS={{str="chaos"}}
 #: data/init/globals.lua:474
 msgctxt "random_sphere_nouns"
 msgid "chaos"
-msgstr ""
+msgstr "caos"
 
 #. CHARITY={{str="charity"}}
 #: data/init/globals.lua:475
@@ -878,13 +878,13 @@ msgstr ""
 #: data/init/globals.lua:476
 msgctxt "random_sphere_nouns"
 msgid "children"
-msgstr ""
+msgstr "bambini"
 
 #. COASTS={{str="coasts",flags={OF=true}}}
 #: data/init/globals.lua:477
 msgctxt "random_sphere_nouns"
 msgid "coasts"
-msgstr ""
+msgstr "coste"
 
 #. CONSOLATION={{str="consolation",flags={OF=true}}}
 #: data/init/globals.lua:478
@@ -896,7 +896,7 @@ msgstr ""
 #: data/init/globals.lua:479
 msgctxt "random_sphere_nouns"
 msgid "courage"
-msgstr ""
+msgstr "coraggio"
 
 #. CRAFTS={{str="crafts",flags={OF=true}}}
 #: data/init/globals.lua:480
@@ -908,13 +908,13 @@ msgstr ""
 #: data/init/globals.lua:481
 msgctxt "random_sphere_nouns"
 msgid "creation"
-msgstr ""
+msgstr "creazione"
 
 #. DANCE={{str="dance"}}
 #: data/init/globals.lua:482
 msgctxt "random_sphere_nouns"
 msgid "dance"
-msgstr ""
+msgstr "danza"
 
 #. DARKNESS={{str="darkness"}}
 #: data/init/globals.lua:483
@@ -932,49 +932,49 @@ msgstr ""
 #: data/init/globals.lua:485
 msgctxt "random_sphere_nouns"
 msgid "day"
-msgstr ""
+msgstr "giorno"
 
 #. DEATH={{str="death"}}
 #: data/init/globals.lua:486
 msgctxt "random_sphere_nouns"
 msgid "death"
-msgstr ""
+msgstr "morte"
 
 #. DEFORMITY={{str="deformity",flags={OF=true}}}
 #: data/init/globals.lua:487
 msgctxt "random_sphere_nouns"
 msgid "deformity"
-msgstr ""
+msgstr "deformità"
 
 #. DEPRAVITY={{str="depravity",flags={OF=true}}}
 #: data/init/globals.lua:488
 msgctxt "random_sphere_nouns"
 msgid "depravity"
-msgstr ""
+msgstr "depravazione"
 
 #. DISCIPLINE={{str="discipline",flags={OF=true}}}
 #: data/init/globals.lua:489
 msgctxt "random_sphere_nouns"
 msgid "discipline"
-msgstr ""
+msgstr "disciplina"
 
 #. DISEASE={{str="disease"}}
 #: data/init/globals.lua:490
 msgctxt "random_sphere_nouns"
 msgid "disease"
-msgstr ""
+msgstr "malattia"
 
 #. DREAMS={{str="dreams",flags={OF=true}}}
 #: data/init/globals.lua:491
 msgctxt "random_sphere_nouns"
 msgid "dreams"
-msgstr ""
+msgstr "sogni"
 
 #. DUSK={{str="dusk"}}
 #: data/init/globals.lua:492
 msgctxt "random_sphere_nouns"
 msgid "dusk"
-msgstr ""
+msgstr "tramonto"
 
 #. DUTY={{str="duty"}}
 #: data/init/globals.lua:493
@@ -986,235 +986,235 @@ msgstr ""
 #: data/init/globals.lua:494
 msgctxt "random_sphere_nouns"
 msgid "earth"
-msgstr ""
+msgstr "terra"
 
 #. FAMILY={{str="family"}}
 #: data/init/globals.lua:495
 msgctxt "random_sphere_nouns"
 msgid "family"
-msgstr ""
+msgstr "famiglia"
 
 #. FAME={{str="fame"}}
 #: data/init/globals.lua:496
 msgctxt "random_sphere_nouns"
 msgid "fame"
-msgstr ""
+msgstr "fama"
 
 #. FATE={{str="fate"}}
 #: data/init/globals.lua:497
 msgctxt "random_sphere_nouns"
 msgid "fate"
-msgstr ""
+msgstr "destino"
 
 #. FERTILITY={{str="fertility",flags={OF=true}}}
 #: data/init/globals.lua:498
 msgctxt "random_sphere_nouns"
 msgid "fertility"
-msgstr ""
+msgstr "fertilità"
 
 #. FESTIVALS={{str="festivals",flags={OF=true}}}
 #: data/init/globals.lua:499
 msgctxt "random_sphere_nouns"
 msgid "festivals"
-msgstr ""
+msgstr "festival"
 
 #. FIRE={{str="fire"}}
 #: data/init/globals.lua:500
 msgctxt "random_sphere_nouns"
 msgid "fire"
-msgstr ""
+msgstr "fuoco"
 
 #. FISH={{str="fish",flags={OF=true}}}
 #: data/init/globals.lua:501
 msgctxt "random_sphere_nouns"
 msgid "fish"
-msgstr ""
+msgstr "pesce"
 
 #. FISHING={{str="fishing"}}
 #: data/init/globals.lua:502
 msgctxt "random_sphere_nouns"
 msgid "fishing"
-msgstr ""
+msgstr "pesca"
 
 #. FOOD={{str="food"}}
 #: data/init/globals.lua:503
 msgctxt "random_sphere_nouns"
 msgid "food"
-msgstr ""
+msgstr "cibo"
 
 #. FORGIVENESS={{str="forgiveness",flags={OF=true}}}
 #: data/init/globals.lua:504
 msgctxt "random_sphere_nouns"
 msgid "forgiveness"
-msgstr ""
+msgstr "perdono"
 
 #. FORTRESSES={{str="fortresses",flags={OF=true}}}
 #: data/init/globals.lua:505
 msgctxt "random_sphere_nouns"
 msgid "fortresses"
-msgstr ""
+msgstr "fortezze"
 
 #. FREEDOM={{str="freedom"}}
 #: data/init/globals.lua:506
 msgctxt "random_sphere_nouns"
 msgid "freedom"
-msgstr ""
+msgstr "libertà"
 
 #. GAMBLING={{str="gambling"}}
 #: data/init/globals.lua:507
 msgctxt "random_sphere_nouns"
 msgid "gambling"
-msgstr ""
+msgstr "gioco d'azzardo"
 
 #. GAMES={{str="games",flags={OF=true}}}
 #: data/init/globals.lua:508
 msgctxt "random_sphere_nouns"
 msgid "games"
-msgstr ""
+msgstr "giochi"
 
 #. GENEROSITY={{str="generosity",flags={OF=true}}}
 #: data/init/globals.lua:509
 msgctxt "random_sphere_nouns"
 msgid "generosity"
-msgstr ""
+msgstr "generosità"
 
 #. HAPPINESS={{str="happiness",flags={PRE=true,OF=true}}}
 #: data/init/globals.lua:510
 msgctxt "random_sphere_nouns"
 msgid "happiness"
-msgstr ""
+msgstr "felicità"
 
 #. HEALING={{str="healing"}}
 #: data/init/globals.lua:511
 msgctxt "random_sphere_nouns"
 msgid "healing"
-msgstr ""
+msgstr "guarigione"
 
 #. HOSPITALITY={{str="hospitality",flags={OF=true}}}
 #: data/init/globals.lua:512
 msgctxt "random_sphere_nouns"
 msgid "hospitality"
-msgstr ""
+msgstr "ospitalità"
 
 #. HUNTING={{str="hunting"}}
 #: data/init/globals.lua:513
 msgctxt "random_sphere_nouns"
 msgid "hunting"
-msgstr ""
+msgstr "caccia"
 
 #. INSPIRATION={{str="inspiration",flags={OF=true}}}
 #: data/init/globals.lua:514
 msgctxt "random_sphere_nouns"
 msgid "inspiration"
-msgstr ""
+msgstr "ispirazione"
 
 #. JEALOUSY={{str="jealousy",flags={OF=true}}}
 #: data/init/globals.lua:515
 msgctxt "random_sphere_nouns"
 msgid "jealousy"
-msgstr ""
+msgstr "gelosia"
 
 #. JEWELS={{str="jewels",flags={OF=true}}}
 #: data/init/globals.lua:516
 msgctxt "random_sphere_nouns"
 msgid "jewels"
-msgstr ""
+msgstr "gioielli"
 
 #. JUSTICE={{str="justice"}}
 #: data/init/globals.lua:517
 msgctxt "random_sphere_nouns"
 msgid "justice"
-msgstr ""
+msgstr "giustizia"
 
 #. LABOR={{str="labor"}}
 #: data/init/globals.lua:518
 msgctxt "random_sphere_nouns"
 msgid "labor"
-msgstr ""
+msgstr "lavoro"
 
 #. LAKES={{str="lakes",flags={OF=true}}}
 #: data/init/globals.lua:519
 msgctxt "random_sphere_nouns"
 msgid "lakes"
-msgstr ""
+msgstr "laghi"
 
 #. LAWS={{str="laws",flags={OF=true}}}
 #: data/init/globals.lua:520
 msgctxt "random_sphere_nouns"
 msgid "laws"
-msgstr ""
+msgstr "leggi"
 
 #. LIES={{str="lies",flags={OF=true}}}
 #: data/init/globals.lua:521
 msgctxt "random_sphere_nouns"
 msgid "lies"
-msgstr ""
+msgstr "bugie"
 
 #. LIGHT={{str="light"}}
 #: data/init/globals.lua:522
 msgctxt "random_sphere_nouns"
 msgid "light"
-msgstr ""
+msgstr "luce"
 
 #. LIGHTNING={{str="lightning"}}
 #: data/init/globals.lua:523
 msgctxt "random_sphere_nouns"
 msgid "lightning"
-msgstr ""
+msgstr "fulmine"
 
 #. LONGEVITY={{str="longevity",flags={OF=true}}}
 #: data/init/globals.lua:524
 msgctxt "random_sphere_nouns"
 msgid "longevity"
-msgstr ""
+msgstr "longevità"
 
 #. LOVE={{str="love"}}
 #: data/init/globals.lua:525
 msgctxt "random_sphere_nouns"
 msgid "love"
-msgstr ""
+msgstr "amore"
 
 #. LOYALTY={{str="loyalty",flags={OF=true}}}
 #: data/init/globals.lua:526
 msgctxt "random_sphere_nouns"
 msgid "loyalty"
-msgstr ""
+msgstr "lealtà"
 
 #. LUCK={{str="luck"}}
 #: data/init/globals.lua:527
 msgctxt "random_sphere_nouns"
 msgid "luck"
-msgstr ""
+msgstr "fortuna"
 
 #. LUST={{str="lust"}}
 #: data/init/globals.lua:528
 msgctxt "random_sphere_nouns"
 msgid "lust"
-msgstr ""
+msgstr "lussuria"
 
 #. MARRIAGE={{str="marriage"}}
 #: data/init/globals.lua:529
 msgctxt "random_sphere_nouns"
 msgid "marriage"
-msgstr ""
+msgstr "matrimonio"
 
 #. MERCY={{str="mercy"}}
 #: data/init/globals.lua:530
 msgctxt "random_sphere_nouns"
 msgid "mercy"
-msgstr ""
+msgstr "misericordia"
 
 #. METALS={{str="metals",flags={OF=true}}}
 #: data/init/globals.lua:531
 msgctxt "random_sphere_nouns"
 msgid "metals"
-msgstr ""
+msgstr "metalli"
 
 #. MINERALS={{str="minerals",flags={OF=true}}}
 #: data/init/globals.lua:532
 msgctxt "random_sphere_nouns"
 msgid "minerals"
-msgstr ""
+msgstr "minerali"
 
 #. MISERY={{str="misery"}}
 #: data/init/globals.lua:533
