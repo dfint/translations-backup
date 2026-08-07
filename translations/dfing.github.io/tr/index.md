@@ -3,15 +3,14 @@ title: "Dwarf Fortress'in Türkçeye Çevirisi"
 description: "Dwarf Fortress 50.* ve üzeri sürümler için yerelleştirme"
 lang: "tr" # replace it with your language code
 permalink: /tr/
-additional_links: false
 layout: download_page
 downloads:
     windows_description: Windows sürümü
     linux_description: Linux sürümü
 ---
 
-Yerelleştirme yükleyicisi, DF 50.10 ve üst sürümlerini (51, 52 ve 53 sürümler dahil) destekler.
-Hem Windows hem de Linux platformları için Steam, itch.io ve klasik sürümler desteklenmektedir.
+Yerelleştirme yükleyicisi, 51, 52 ve 53 sürümleri de dahil olmak üzere DF 50.10 ve daha yeni sürümleri desteklemektedir.
+Steam, itch.io; hem Windows hem de Linux platformları için klasik sürümler desteklenmektedir.
 
 Çevirinin kurulumu için kısa talimatlar:
 
@@ -30,4 +29,4 @@ Eğer yükleyici ile ilgili bazı sorunlar yaşıyorsanız (örneğin Windows 7 
 - [Transifex üzerindeki çeviri projesi](https://app.transifex.com/dwarf-fortress-translation/dwarf-fortress-steam) -  burada oyunun kendi diline çevirisine katılabilirsiniz.
 - [GitHub üzerindeki proje](https://github.com/dfint) – burası yerelleştirme için araçların geliştirildiği yerdir. 
 - [Resmi Dwarf Fortress sitesi](https://bay12games.com/dwarves/), [Steam](https://store.steampowered.com/app/975370/Dwarf_Fortress/), [itch.io](https://kitfoxgames.itch.io/dwarf-fortress) 
-{% if page.additional_links %}{% include_relative _additional_links.md %}{% endif %}
+{% if site.data.additional_links_enabled[page.lang] %}{% include_relative _additional_links.md %}{% endif %}
