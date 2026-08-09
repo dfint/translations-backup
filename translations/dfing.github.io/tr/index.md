@@ -10,7 +10,7 @@ downloads:
 ---
 
 Yerelleştirme yükleyicisi, 51, 52 ve 53 sürümleri de dahil olmak üzere DF 50.10 ve daha yeni sürümleri desteklemektedir.
-Steam, itch.io; hem Windows hem de Linux platformları için klasik sürümler desteklenmektedir.
+Steam, itch.io ve klasik sürümler hem Windows hem de Linux platformlarında desteklenmektedir.
 
 Çevirinin kurulumu için kısa talimatlar:
 
@@ -20,7 +20,7 @@ Steam, itch.io; hem Windows hem de Linux platformları için klasik sürümler d
 - Oyunu çalıştır.
 - Oyunun daha yeni bir sürümü için çeviriyi veya yapılandırmayı güncellemek isterseniz, (oyun kapalıyken) yükleyiciyi tekrar çalıştırın ve ardından ‘Güncelle’ butonuna basın.
 
-Eğer yükleyici ile ilgili bazı sorunlar yaşıyorsanız (örneğin Windows 7 veya 8 kullanıyorsanız), onun yerine [package-builder](https://dfint-package-build.streamlit.app){:target="_blank"}’ı kullanabilirsiniz. 
+Eğer yükleyici ile ilgili bazı sorunlar yaşıyorsanız (örneğin Windows 7 veya 8 kullanıyorsanız), onun yerine [package-builder](https://dfint-package-build.streamlit.app){:target="_blank"}’ı kullanabilirsiniz.
 
 ![screenshot](screenshot.png){:.centered}
 
