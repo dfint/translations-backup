@@ -260,7 +260,7 @@ msgstr ""
 #: data/init/globals.lua:361 data/init/globals.lua:362
 msgctxt "random_sphere_adjective"
 msgid "fish"
-msgstr ""
+msgstr "риба"
 
 #. FOOD={"baked"}
 #: data/init/globals.lua:363
@@ -434,7 +434,7 @@ msgstr ""
 #: data/init/globals.lua:391
 msgctxt "random_sphere_adjective"
 msgid "metal"
-msgstr ""
+msgstr "метал"
 
 #. MINERALS={"crystal"}
 #: data/init/globals.lua:392
@@ -723,7 +723,7 @@ msgstr ""
 #: data/init/globals.lua:440
 msgctxt "random_sphere_adjective"
 msgid "wooden"
-msgstr ""
+msgstr "дерев'яний"
 
 #. TRICKERY={"tricky"}
 #: data/init/globals.lua:441
@@ -1030,13 +1030,13 @@ msgstr ""
 #: data/init/globals.lua:501
 msgctxt "random_sphere_nouns"
 msgid "fish"
-msgstr ""
+msgstr "риба"
 
 #. FISHING={{str="fishing"}}
 #: data/init/globals.lua:502
 msgctxt "random_sphere_nouns"
 msgid "fishing"
-msgstr ""
+msgstr "риболовля"
 
 #. FOOD={{str="food"}}
 #: data/init/globals.lua:503
@@ -1210,7 +1210,7 @@ msgstr ""
 #: data/init/globals.lua:531
 msgctxt "random_sphere_nouns"
 msgid "metals"
-msgstr ""
+msgstr "метали"
 
 #. MINERALS={{str="minerals",flags={OF=true}}}
 #: data/init/globals.lua:532
@@ -1612,7 +1612,7 @@ msgstr "гуманоїд"
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures/rcp.lua:432
 msgctxt "INSECT_SILVERFISH"
 msgid "silverfish"
-msgstr ""
+msgstr "лусочниця"
 
 #. name_string="mayfly"
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures/rcp.lua:441
@@ -1636,7 +1636,7 @@ msgstr ""
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures/rcp.lua:469
 msgctxt "INSECT_STONEFLY"
 msgid "stonefly"
-msgstr ""
+msgstr "веснянка"
 
 #. name_string="earwig"
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures/rcp.lua:478
@@ -4169,7 +4169,7 @@ msgstr ""
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures/shared_info.lua:4199
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures/shared_info.lua:4231
 msgid "leathery"
-msgstr ""
+msgstr "згрубілий"
 
 #. "warty"
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures/shared_info.lua:4172
@@ -4202,7 +4202,7 @@ msgstr ""
 #. adj="armored"
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures/shared_info.lua:4221
 msgid "armored"
-msgstr ""
+msgstr "броньований"
 
 #. return "lacy wings"
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures/shared_info.lua:4226
@@ -4624,37 +4624,37 @@ msgstr ""
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures/shared_info.lua:4524
 msgctxt "GLASS_GREEN"
 msgid "glass"
-msgstr ""
+msgstr "скло"
 
 #. options.post_mat_adj="composed of green glass"
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures/shared_info.lua:4525
 msgctxt "GLASS_GREEN"
 msgid "composed of green glass"
-msgstr ""
+msgstr "складається із зеленого скла"
 
 #. options.name_mat[#options.name_mat+1]="glass"
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures/shared_info.lua:4536
 msgctxt "GLASS_CLEAR"
 msgid "glass"
-msgstr ""
+msgstr "скло"
 
 #. options.post_mat_adj="composed of clear glass"
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures/shared_info.lua:4537
 msgctxt "GLASS_CLEAR"
 msgid "composed of clear glass"
-msgstr ""
+msgstr "складаються з прозорого скла"
 
 #. options.name_mat[#options.name_mat+1]="glass"
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures/shared_info.lua:4548
 msgctxt "GLASS_CRYSTAL"
 msgid "glass"
-msgstr ""
+msgstr "скло"
 
 #. options.post_mat_adj="composed of crystal glass"
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures/shared_info.lua:4549
 msgctxt "GLASS_CRYSTAL"
 msgid "composed of crystal glass"
-msgstr ""
+msgstr "складається з кришталю"
 
 #. options.name_mat[#options.name_mat+1]="coal"
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures/shared_info.lua:4561
@@ -5404,7 +5404,7 @@ msgstr ""
 #. forced_odor_string="brimstone"
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:283
 msgid "brimstone"
-msgstr ""
+msgstr "сірка"
 
 #. sickness_name="demon sickness"
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:285
@@ -7986,163 +7986,163 @@ msgstr ""
 #: data/vanilla/vanilla_procedural/scripts/generators/divine.lua:3
 msgctxt "LIGHT"
 msgid "shining metal"
-msgstr ""
+msgstr "сяючий метал"
 
 #. name="flashing metal"
 #: data/vanilla/vanilla_procedural/scripts/generators/divine.lua:8
 msgctxt "LIGHTNING"
 msgid "flashing metal"
-msgstr ""
+msgstr "блимаючий метал"
 
 #. name="rusted metal"
 #: data/vanilla/vanilla_procedural/scripts/generators/divine.lua:13
 msgctxt "BLIGHT"
 msgid "rusted metal"
-msgstr ""
+msgstr "заіржавілий метал"
 
 #. name="twisting metal"
 #: data/vanilla/vanilla_procedural/scripts/generators/divine.lua:18
 msgctxt "CHAOS"
 msgid "twisting metal"
-msgstr ""
+msgstr "скручений метал"
 
 #. name="dark metal"
 #: data/vanilla/vanilla_procedural/scripts/generators/divine.lua:23
 msgctxt "DARKNESS"
 msgid "dark metal"
-msgstr ""
+msgstr "темний метал"
 
 #. name="glowing metal"
 #: data/vanilla/vanilla_procedural/scripts/generators/divine.lua:28
 msgctxt "DAWN"
 msgid "glowing metal"
-msgstr ""
+msgstr "палаючий метал"
 
 #. name="bright metal"
 #: data/vanilla/vanilla_procedural/scripts/generators/divine.lua:33
 msgctxt "DAY"
 msgid "bright metal"
-msgstr ""
+msgstr "яскравий метал"
 
 #. name="pale metal"
 #: data/vanilla/vanilla_procedural/scripts/generators/divine.lua:38
 msgctxt "DEATH"
 msgid "pale metal"
-msgstr ""
+msgstr "блідий метал"
 
 #. name="pock-marked metal"
 #: data/vanilla/vanilla_procedural/scripts/generators/divine.lua:43
 msgctxt "DEFORMITY"
 msgid "pock-marked metal"
-msgstr ""
+msgstr "метал у вибоїнах"
 
 #. name="blistered metal"
 #: data/vanilla/vanilla_procedural/scripts/generators/divine.lua:48
 msgctxt "DISEASE"
 msgid "blistered metal"
-msgstr ""
+msgstr "вкритий пухирями метал"
 
 #. name="ruddy metal"
 #: data/vanilla/vanilla_procedural/scripts/generators/divine.lua:53
 msgctxt "EARTH"
 msgid "ruddy metal"
-msgstr ""
+msgstr "рум'яний метал"
 
 #. name="flickering metal"
 #: data/vanilla/vanilla_procedural/scripts/generators/divine.lua:58
 msgctxt "FIRE"
 msgid "flickering metal"
-msgstr ""
+msgstr "мерехтливий метал"
 
 #. name="faceted metal"
 #: data/vanilla/vanilla_procedural/scripts/generators/divine.lua:63
 msgctxt "JEWELS"
 msgid "faceted metal"
-msgstr ""
+msgstr "гранований метал"
 
 #. name="translucent metal"
 #: data/vanilla/vanilla_procedural/scripts/generators/divine.lua:68
 msgctxt "MOON"
 msgid "translucent metal"
-msgstr ""
+msgstr "напівпрозорий метал"
 
 #. name="frosty metal"
 #: data/vanilla/vanilla_procedural/scripts/generators/divine.lua:73
 msgctxt "MOUNTAINS"
 msgid "frosty metal"
-msgstr ""
+msgstr "морозний метал"
 
 #. name="slick metal"
 #: data/vanilla/vanilla_procedural/scripts/generators/divine.lua:78
 msgctxt "MUCK"
 msgid "slick metal"
-msgstr ""
+msgstr "гладкий метал"
 
 #. name="singing metal"
 #: data/vanilla/vanilla_procedural/scripts/generators/divine.lua:83
 msgctxt "MUSIC"
 msgid "singing metal"
-msgstr ""
+msgstr "співучий метал"
 
 #. name="black metal"
 #: data/vanilla/vanilla_procedural/scripts/generators/divine.lua:88
 msgctxt "NIGHT"
 msgid "black metal"
-msgstr ""
+msgstr "чорний метал"
 
 #. name="multicolored metal"
 #: data/vanilla/vanilla_procedural/scripts/generators/divine.lua:93
 msgctxt "RAINBOWS"
 msgid "multicolored metal"
-msgstr ""
+msgstr "багатобарвний метал"
 
 #. name="clear blue metal"
 #: data/vanilla/vanilla_procedural/scripts/generators/divine.lua:98
 msgctxt "SKY"
 msgid "clear blue metal"
-msgstr ""
+msgstr "блакитний прозорий метал"
 
 #. name="twinkling metal"
 #: data/vanilla/vanilla_procedural/scripts/generators/divine.lua:103
 msgctxt "STARS"
 msgid "twinkling metal"
-msgstr ""
+msgstr "мерехтливий метал"
 
 #. name="crashing metal"
 #: data/vanilla/vanilla_procedural/scripts/generators/divine.lua:108
 msgctxt "STORMS"
 msgid "crashing metal"
-msgstr ""
+msgstr "гучний метал"
 
 #. name="blazing metal"
 #: data/vanilla/vanilla_procedural/scripts/generators/divine.lua:113
 msgctxt "SUN"
 msgid "blazing metal"
-msgstr ""
+msgstr "полум'яний метал"
 
 #. name="booming metal"
 #: data/vanilla/vanilla_procedural/scripts/generators/divine.lua:118
 msgctxt "THUNDER"
 msgid "booming metal"
-msgstr ""
+msgstr "гучний метал"
 
 #. name="searing metal"
 #: data/vanilla/vanilla_procedural/scripts/generators/divine.lua:123
 msgctxt "TORTURE"
 msgid "searing metal"
-msgstr ""
+msgstr "пекучий метал"
 
 #. name="flowing metal"
 #: data/vanilla/vanilla_procedural/scripts/generators/divine.lua:128
 msgctxt "VOLCANOS"
 msgid "flowing metal"
-msgstr ""
+msgstr "плинний метал"
 
 #. name="glowing cloth"
 #: data/vanilla/vanilla_procedural/scripts/generators/divine.lua:180
 msgctxt "LIGHT"
 msgid "glowing cloth"
-msgstr ""
+msgstr "сяюча тканина"
 
 #. name="flashing sparks"
 #: data/vanilla/vanilla_procedural/scripts/generators/divine.lua:185
@@ -8166,7 +8166,7 @@ msgstr ""
 #: data/vanilla/vanilla_procedural/scripts/generators/divine.lua:200
 msgctxt "CHAOS"
 msgid "never-still cloth"
-msgstr ""
+msgstr "вічно рухома тканина"
 
 #. name="liquid darkness"
 #: data/vanilla/vanilla_procedural/scripts/generators/divine.lua:205
@@ -8178,13 +8178,13 @@ msgstr ""
 #: data/vanilla/vanilla_procedural/scripts/generators/divine.lua:210
 msgctxt "DAWN"
 msgid "shining cloth"
-msgstr ""
+msgstr "блискуча тканина"
 
 #. name="bright cloth"
 #: data/vanilla/vanilla_procedural/scripts/generators/divine.lua:215
 msgctxt "DAY"
 msgid "bright cloth"
-msgstr ""
+msgstr "яскрава тканина"
 
 #. name="pale fabric"
 #: data/vanilla/vanilla_procedural/scripts/generators/divine.lua:220
@@ -8202,31 +8202,31 @@ msgstr ""
 #: data/vanilla/vanilla_procedural/scripts/generators/divine.lua:230
 msgctxt "DISEASE"
 msgid "patchy cloth"
-msgstr ""
+msgstr "клаптева тканина"
 
 #. name="wispy cloth"
 #: data/vanilla/vanilla_procedural/scripts/generators/divine.lua:235
 msgctxt "DREAMS"
 msgid "wispy cloth"
-msgstr ""
+msgstr "тонке волокно"
 
 #. name="translucent cloth"
 #: data/vanilla/vanilla_procedural/scripts/generators/divine.lua:240
 msgctxt "DUSK"
 msgid "translucent cloth"
-msgstr ""
+msgstr "напівпрозора тканина"
 
 #. name="flickering cloth"
 #: data/vanilla/vanilla_procedural/scripts/generators/divine.lua:245
 msgctxt "FIRE"
 msgid "flickering cloth"
-msgstr ""
+msgstr "іскриста тканина"
 
 #. name="faceted cloth"
 #: data/vanilla/vanilla_procedural/scripts/generators/divine.lua:250
 msgctxt "JEWELS"
 msgid "faceted cloth"
-msgstr ""
+msgstr "гранована тканина"
 
 #. name="still blue fabric"
 #: data/vanilla/vanilla_procedural/scripts/generators/divine.lua:255
@@ -8238,19 +8238,19 @@ msgstr ""
 #: data/vanilla/vanilla_procedural/scripts/generators/divine.lua:260
 msgctxt "LIES"
 msgid "heavy cloth"
-msgstr ""
+msgstr "важка тканина"
 
 #. name="misty cloth"
 #: data/vanilla/vanilla_procedural/scripts/generators/divine.lua:265
 msgctxt "MIST"
 msgid "misty cloth"
-msgstr ""
+msgstr "туманна тканина"
 
 #. name="white cloth"
 #: data/vanilla/vanilla_procedural/scripts/generators/divine.lua:270
 msgctxt "MOON"
 msgid "white cloth"
-msgstr ""
+msgstr "біла тканина"
 
 #. name="dirty fabric"
 #: data/vanilla/vanilla_procedural/scripts/generators/divine.lua:275
@@ -8280,7 +8280,7 @@ msgstr ""
 #: data/vanilla/vanilla_procedural/scripts/generators/divine.lua:295
 msgctxt "OCEANS"
 msgid "undulating cloth"
-msgstr ""
+msgstr "хвиляста тканина"
 
 #. name="moist fabric"
 #: data/vanilla/vanilla_procedural/scripts/generators/divine.lua:300
@@ -8292,7 +8292,7 @@ msgstr ""
 #: data/vanilla/vanilla_procedural/scripts/generators/divine.lua:305
 msgctxt "RAINBOWS"
 msgid "multicolored cloth"
-msgstr ""
+msgstr "багатобарвна тканина"
 
 #. name="flowing fabric"
 #: data/vanilla/vanilla_procedural/scripts/generators/divine.lua:310
@@ -8304,7 +8304,7 @@ msgstr ""
 #: data/vanilla/vanilla_procedural/scripts/generators/divine.lua:315
 msgctxt "SKY"
 msgid "clear blue cloth"
-msgstr ""
+msgstr "блакитно-прозора тканина"
 
 #. name="motes of light"
 #: data/vanilla/vanilla_procedural/scripts/generators/divine.lua:320
@@ -8316,25 +8316,25 @@ msgstr ""
 #: data/vanilla/vanilla_procedural/scripts/generators/divine.lua:325
 msgctxt "STORMS"
 msgid "flowing cloth"
-msgstr ""
+msgstr "струмениста тканина"
 
 #. name="blazing cloth"
 #: data/vanilla/vanilla_procedural/scripts/generators/divine.lua:330
 msgctxt "SUN"
 msgid "blazing cloth"
-msgstr ""
+msgstr "палаюча тканина"
 
 #. name="shining cloth"
 #: data/vanilla/vanilla_procedural/scripts/generators/divine.lua:335
 msgctxt "THUNDER"
 msgid "shining cloth"
-msgstr ""
+msgstr "блискуча тканина"
 
 #. name="shimmering cloth"
 #: data/vanilla/vanilla_procedural/scripts/generators/divine.lua:340
 msgctxt "TRICKERY"
 msgid "shimmering cloth"
-msgstr ""
+msgstr "мерехтлива тканина"
 
 #. name="shadow stuff"
 #: data/vanilla/vanilla_procedural/scripts/generators/divine.lua:345
@@ -8352,7 +8352,7 @@ msgstr ""
 #: data/vanilla/vanilla_procedural/scripts/generators/divine.lua:355
 msgctxt "WATER"
 msgid "liquid cloth"
-msgstr ""
+msgstr "мерехтлива тканина"
 
 #. name="rustling fabric"
 #: data/vanilla/vanilla_procedural/scripts/generators/divine.lua:360
@@ -8967,7 +8967,7 @@ msgstr ""
 #. WEAPON="weapon"
 #: data/vanilla/vanilla_procedural/scripts/generators/interactions/blessing.lua:24
 msgid "weapon"
-msgstr ""
+msgstr "зброя"
 
 #. SHIELD="shield"
 #: data/vanilla/vanilla_procedural/scripts/generators/interactions/blessing.lua:25
@@ -9345,13 +9345,13 @@ msgstr ""
 #: data/vanilla/vanilla_procedural/scripts/generators/interactions/mythical.lua:39
 msgctxt "EARTH"
 msgid "stone"
-msgstr ""
+msgstr "камінь"
 
 #. {adj="of stone",adj_after=true}
 #: data/vanilla/vanilla_procedural/scripts/generators/interactions/mythical.lua:40
 msgctxt "EARTH"
 msgid "of stone"
-msgstr ""
+msgstr "із каміння"
 
 #. {adj="fire",adj_after=false}
 #: data/vanilla/vanilla_procedural/scripts/generators/interactions/mythical.lua:43
@@ -9387,13 +9387,13 @@ msgstr ""
 #: data/vanilla/vanilla_procedural/scripts/generators/interactions/mythical.lua:50
 msgctxt "JEWELS"
 msgid "gem"
-msgstr ""
+msgstr "самоцвіт"
 
 #. {adj="of gems",adj_after=true}
 #: data/vanilla/vanilla_procedural/scripts/generators/interactions/mythical.lua:51
 msgctxt "JEWELS"
 msgid "of gems"
-msgstr ""
+msgstr "самоцвітів "
 
 #. {adj="jewel",adj_after=false}
 #: data/vanilla/vanilla_procedural/scripts/generators/interactions/mythical.lua:52
@@ -9471,13 +9471,13 @@ msgstr ""
 #: data/vanilla/vanilla_procedural/scripts/generators/interactions/mythical.lua:70
 msgctxt "METALS"
 msgid "metal"
-msgstr ""
+msgstr "метал"
 
 #. {adj="of metal",adj_after=true}
 #: data/vanilla/vanilla_procedural/scripts/generators/interactions/mythical.lua:71
 msgctxt "METALS"
 msgid "of metal"
-msgstr ""
+msgstr "металу"
 
 #. {adj="steel",adj_after=false}
 #: data/vanilla/vanilla_procedural/scripts/generators/interactions/mythical.lua:72
@@ -9555,13 +9555,13 @@ msgstr ""
 #: data/vanilla/vanilla_procedural/scripts/generators/interactions/mythical.lua:87
 msgctxt "MINERALS"
 msgid "stone"
-msgstr ""
+msgstr "камінь"
 
 #. {adj="of stone",adj_after=true}
 #: data/vanilla/vanilla_procedural/scripts/generators/interactions/mythical.lua:88
 msgctxt "MINERALS"
 msgid "of stone"
-msgstr ""
+msgstr "із каміння"
 
 #. {adj="shrouded",adj_after=false}
 #: data/vanilla/vanilla_procedural/scripts/generators/interactions/mythical.lua:91
@@ -10982,7 +10982,7 @@ msgstr ""
 #: data/vanilla/vanilla_procedural/scripts/generators/materials.lua:13
 msgctxt "mythical_remnant_spheres.MOUNTAINS"
 msgid "stone"
-msgstr ""
+msgstr "камінь"
 
 #. name="crystal"
 #: data/vanilla/vanilla_procedural/scripts/generators/materials.lua:23
@@ -11030,19 +11030,19 @@ msgstr ""
 #: data/vanilla/vanilla_procedural/scripts/generators/materials.lua:68
 msgctxt "mythical_remnant_spheres.METALS"
 msgid "metal"
-msgstr ""
+msgstr "метал"
 
 #. name="moonstone"
 #: data/vanilla/vanilla_procedural/scripts/generators/materials.lua:74
 msgctxt "mythical_remnant_spheres.MOON"
 msgid "moonstone"
-msgstr ""
+msgstr "місякамінь"
 
 #. name="mudstone"
 #: data/vanilla/vanilla_procedural/scripts/generators/materials.lua:80
 msgctxt "mythical_remnant_spheres.MUCK"
 msgid "mudstone"
-msgstr ""
+msgstr "аргіліт"
 
 #. name="ice"
 #: data/vanilla/vanilla_procedural/scripts/generators/materials.lua:86
@@ -11078,13 +11078,13 @@ msgstr ""
 #: data/vanilla/vanilla_procedural/scripts/generators/materials.lua:122
 msgctxt "mythical_remnant_spheres.SUN"
 msgid "sunstone"
-msgstr ""
+msgstr "сонячний камінь"
 
 #. name="wood"
 #: data/vanilla/vanilla_procedural/scripts/generators/materials.lua:128
 msgctxt "mythical_remnant_spheres.TREES"
 msgid "wood"
-msgstr ""
+msgstr "дерево"
 
 #. name="obsidian"
 #: data/vanilla/vanilla_procedural/scripts/generators/materials.lua:134
