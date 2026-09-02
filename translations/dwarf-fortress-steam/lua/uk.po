@@ -1300,7 +1300,7 @@ msgstr ""
 #: data/init/globals.lua:546
 msgctxt "random_sphere_nouns"
 msgid "painting"
-msgstr ""
+msgstr "живопис"
 
 #. PEACE={{str="peace"}}
 #: data/init/globals.lua:547
@@ -1582,7 +1582,7 @@ msgstr ""
 #: data/init/globals.lua:593
 msgctxt "random_sphere_nouns"
 msgid "writing"
-msgstr ""
+msgstr "напис"
 
 #. YOUTH={{str="youth"}}
 #: data/init/globals.lua:594
@@ -2473,7 +2473,7 @@ msgstr ""
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures/rcp.lua:1968
 msgctxt "BIRD_MARTIN"
 msgid "martin"
-msgstr ""
+msgstr "мартин"
 
 #. name_string="bushtit"
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures/rcp.lua:1979
@@ -2545,7 +2545,7 @@ msgstr ""
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures/rcp.lua:2102
 msgctxt "BIRD_BUNTING"
 msgid "bunting"
-msgstr ""
+msgstr "вівсянка"
 
 #. name_string="finch"
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures/rcp.lua:2113
@@ -3694,7 +3694,7 @@ msgstr ""
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures/shared_info.lua:3916
 msgctxt "TRUNK"
 msgid " It has a twisting, jointed trunk"
-msgstr ""
+msgstr "Воно має звивистий, членистий тулуб"
 
 #. function() options.pcg_layering_modifier.TRUNK="CURLING" return " It has a
 #. curling trunk" end
@@ -4374,7 +4374,7 @@ msgstr ""
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures/shared_info.lua:4370
 msgctxt "VOMIT"
 msgid "disgusting appearance"
-msgstr ""
+msgstr "огидна зовнішність"
 
 #. options.name_mat[#options.name_mat+1]="salt"
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures/shared_info.lua:4380
@@ -4750,13 +4750,13 @@ msgstr ""
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures/shared_info.lua:5102
 msgctxt "TAIL_STINGER"
 msgid "Beware its poisonous sting!"
-msgstr ""
+msgstr "Остерігайтеся його отруйного жала!"
 
 #. return "Beware its poisonous sting!"
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures/shared_info.lua:5113
 msgctxt "INSECT_STINGER"
 msgid "Beware its poisonous sting!"
-msgstr ""
+msgstr "Остерігайтеся його отруйного жала!"
 
 #. return "Beware its fire!"
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures/shared_info.lua:5150
@@ -6983,7 +6983,7 @@ msgstr ""
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:1865
 msgctxt "sphere_flavor"
 msgid "it has a distinctly depressing moan"
-msgstr ""
+msgstr "воно видає виразно гнітюче стогнання"
 
 #. MIST={add="it is difficult to see clearly"}
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:1866
@@ -7097,7 +7097,7 @@ msgstr ""
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:1883
 msgctxt "sphere_flavor"
 msgid "it appears to be expecting"
-msgstr ""
+msgstr "здається, вона в очікуванні"
 
 #. RAIN={add="it leaves water wherever it goes"}
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:1884
@@ -7131,7 +7131,7 @@ msgstr ""
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:1888
 msgctxt "sphere_flavor"
 msgid "it has a fixed and unblinking gaze when interacting"
-msgstr ""
+msgstr "воно дивиться пильним і неклимним поглядом під час взаємодії"
 
 #. RIVERS={add="its outer surface seems to flow about its body"}
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:1889
@@ -7185,7 +7185,7 @@ msgstr ""
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:1897
 msgctxt "sphere_flavor"
 msgid "it has a slowly shifting pattern on its surface"
-msgstr ""
+msgstr "його поверхня вкрита візерунком, що повільно змінюється"
 
 #. SONG={add="it sings beautiful songs endlessly"}
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:1898
@@ -7311,6 +7311,8 @@ msgid ""
 "it always tries to embolden any fighting in its presence with exhortations "
 "of bravery, even its foes"
 msgstr ""
+"воно завжди намагається підбадьорити будь-яку бійку в своїй присутності "
+"закликами до хоробрості, навіть своїх ворогів"
 
 #. VICTORY={add="it looks very proud of itself"}
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:1917
@@ -7340,7 +7342,7 @@ msgstr ""
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:1921
 msgctxt "sphere_flavor"
 msgid "it always seems to be counting something"
-msgstr ""
+msgstr "здається, він вічно щось рахує"
 
 #. WEATHER={add="it changes appearance based on the clouds and precipitation
 #. above"}
@@ -7365,7 +7367,7 @@ msgstr ""
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:1925
 msgctxt "sphere_flavor"
 msgid "it is covered with divine writing"
-msgstr ""
+msgstr "вкрито божественними письменами"
 
 #. YOUTH={add="it appears spry and vigorous"}
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:1926
@@ -8632,7 +8634,7 @@ msgstr ""
 #: data/vanilla/vanilla_procedural/scripts/generators/evil.lua:7
 msgctxt "cloud_adjs"
 msgid "haunting"
-msgstr ""
+msgstr "примарний"
 
 #. "abominable"
 #: data/vanilla/vanilla_procedural/scripts/generators/evil.lua:8
@@ -8830,7 +8832,7 @@ msgstr ""
 #: data/vanilla/vanilla_procedural/scripts/generators/evil.lua:116
 msgctxt "rain_adjs"
 msgid "stinking"
-msgstr ""
+msgstr "смердючий"
 
 #. "abhorrent"
 #: data/vanilla/vanilla_procedural/scripts/generators/evil.lua:117
@@ -8878,7 +8880,7 @@ msgstr ""
 #: data/vanilla/vanilla_procedural/scripts/generators/evil.lua:124
 msgctxt "rain_adjs"
 msgid "nauseating"
-msgstr ""
+msgstr "нудотний"
 
 #. "putrid"
 #: data/vanilla/vanilla_procedural/scripts/generators/evil.lua:125
@@ -8902,7 +8904,7 @@ msgstr ""
 #: data/vanilla/vanilla_procedural/scripts/generators/evil.lua:128
 msgctxt "rain_adjs"
 msgid "revolting"
-msgstr ""
+msgstr "мерзенний"
 
 #. "rotten"
 #: data/vanilla/vanilla_procedural/scripts/generators/evil.lua:129
@@ -9039,7 +9041,7 @@ msgstr ""
 #: data/vanilla/vanilla_procedural/scripts/generators/interactions/disturbance.lua:6
 msgctxt "mummy_raise_adjectives"
 msgid "once-resting"
-msgstr ""
+msgstr "колись спочилий"
 
 #. "sanctified"
 #: data/vanilla/vanilla_procedural/scripts/generators/interactions/disturbance.lua:7
@@ -9495,13 +9497,13 @@ msgstr ""
 #: data/vanilla/vanilla_procedural/scripts/generators/interactions/mythical.lua:74
 msgctxt "METALS"
 msgid "iron"
-msgstr ""
+msgstr "залізо"
 
 #. {adj="of iron",adj_after=true}
 #: data/vanilla/vanilla_procedural/scripts/generators/interactions/mythical.lua:75
 msgctxt "METALS"
 msgid "of iron"
-msgstr ""
+msgstr "залізний"
 
 #. {adj="bronze",adj_after=false}
 #: data/vanilla/vanilla_procedural/scripts/generators/interactions/mythical.lua:76
@@ -10538,7 +10540,7 @@ msgstr ""
 #: data/vanilla/vanilla_procedural/scripts/generators/interactions/secret.lua:34
 msgctxt "necromancer_raise_adjectives"
 msgid "wasting"
-msgstr ""
+msgstr "виснажливий"
 
 #. {"one","ones"}
 #: data/vanilla/vanilla_procedural/scripts/generators/interactions/secret.lua:38
@@ -10892,7 +10894,7 @@ msgstr ""
 #: data/vanilla/vanilla_procedural/scripts/generators/interactions/secret.lua:95
 msgctxt "necromancer_ghost_adjs"
 msgid "wasting"
-msgstr ""
+msgstr "виснажливий"
 
 #. {"haunt","haunts"}
 #: data/vanilla/vanilla_procedural/scripts/generators/interactions/secret.lua:98
