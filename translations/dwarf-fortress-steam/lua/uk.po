@@ -2521,13 +2521,13 @@ msgstr ""
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures/rcp.lua:2056
 msgctxt "BIRD_NUTHATCH"
 msgid "nuthatch"
-msgstr ""
+msgstr "повзик"
 
 #. name_string="sparrow"
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures/rcp.lua:2067
 msgctxt "BIRD_SPARROW"
 msgid "sparrow"
-msgstr ""
+msgstr "горобець"
 
 #. name_string="tanager"
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures/rcp.lua:2078
@@ -3648,7 +3648,7 @@ msgstr ""
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures/shared_info.lua:3897
 msgctxt "TAIL"
 msgid "narrow"
-msgstr ""
+msgstr "вузький"
 
 #. if options.tail_count>1 then str=str.." tails"
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures/shared_info.lua:3900
@@ -4069,7 +4069,7 @@ msgstr ""
 #. "long and narrow"
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures/shared_info.lua:4109
 msgid "long and narrow"
-msgstr ""
+msgstr "довгий й вузький"
 
 #. adj="scaly"
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures/shared_info.lua:4131
@@ -5895,7 +5895,7 @@ msgstr ""
 #. options.flavor_adj[#options.flavor_adj+1]="narrow"
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:789
 msgid "narrow"
-msgstr ""
+msgstr "вузький"
 
 #. options.flavor_adj[#options.flavor_adj+1]="starved"
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:790
@@ -6755,7 +6755,7 @@ msgstr ""
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:1829
 msgctxt "sphere_flavor"
 msgid "it never appears to be perturbed or surprised by any happening"
-msgstr ""
+msgstr "воно ніколи не здається збентеженим чи здивованим будь-якою подією"
 
 #. FERTILITY={add="it appears to be very healthy"}
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:1830
@@ -7025,7 +7025,7 @@ msgstr ""
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:1872
 msgctxt "sphere_flavor"
 msgid "it seems most at ease when it is outdoors"
-msgstr ""
+msgstr "здається, найбільше воно розслаблене, коли перебуває на вулиці."
 
 #. NIGHT={add="it eerily reflects the light of the stars and moon"}
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:1873
@@ -7040,6 +7040,7 @@ msgstr ""
 msgctxt "sphere_flavor"
 msgid "it reminds those that look upon it of their most unpleasant memories"
 msgstr ""
+"це нагадує тим, хто дивиться на нього, про їхні найнеприємніші спогади"
 
 #. OATHS={add="it cannot look directly at somebody that has broken an oath"}
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:1875
@@ -7625,19 +7626,19 @@ msgstr ""
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:1979
 msgctxt "angel_names_great_beast"
 msgid "Harbinger"
-msgstr ""
+msgstr "Вісник"
 
 #. {"Harbinger","Harbingers","harbinger"}
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:1979
 msgctxt "angel_names_great_beast"
 msgid "Harbingers"
-msgstr ""
+msgstr "Вісники"
 
 #. {"Harbinger","Harbingers","harbinger"}
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:1979
 msgctxt "angel_names_great_beast"
 msgid "harbinger"
-msgstr ""
+msgstr "вісник"
 
 #. {"Monster","Monsters","monster"}
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:1980
@@ -9029,7 +9030,7 @@ msgstr ""
 #: data/vanilla/vanilla_procedural/scripts/generators/interactions/disturbance.lua:4
 msgctxt "mummy_raise_adjectives"
 msgid "entombed"
-msgstr ""
+msgstr "похований"
 
 #. "buried"
 #: data/vanilla/vanilla_procedural/scripts/generators/interactions/disturbance.lua:5
@@ -9071,7 +9072,7 @@ msgstr ""
 #: data/vanilla/vanilla_procedural/scripts/generators/interactions/disturbance.lua:11
 msgctxt "mummy_raise_adjectives"
 msgid "coffin"
-msgstr ""
+msgstr "труна"
 
 #. "grave"
 #: data/vanilla/vanilla_procedural/scripts/generators/interactions/disturbance.lua:12
@@ -11259,7 +11260,7 @@ msgstr ""
 #: data/vanilla/vanilla_procedural/scripts/init.lua:105
 msgctxt "PAIN"
 msgid "feel intense pain:grimaces"
-msgstr ""
+msgstr "відчуває сильний біль:кривиться"
 
 #. adv_name="Blister"
 #: data/vanilla/vanilla_procedural/scripts/init.lua:112
@@ -11271,7 +11272,7 @@ msgstr ""
 #: data/vanilla/vanilla_procedural/scripts/init.lua:113
 msgctxt "BLISTERS"
 msgid "feel blisters forming:grimaces"
-msgstr ""
+msgstr "відчуває появу пухирів:кривиться"
 
 #. adv_name="Paralyze"
 #: data/vanilla/vanilla_procedural/scripts/init.lua:120
@@ -11295,7 +11296,7 @@ msgstr ""
 #: data/vanilla/vanilla_procedural/scripts/init.lua:129
 msgctxt "BLEEDING"
 msgid "feel blood welling up:grimaces"
-msgstr ""
+msgstr "відчуває, як приливає кров:кривиться"
 
 #. adv_name="Sicken"
 #: data/vanilla/vanilla_procedural/scripts/init.lua:136
@@ -11343,7 +11344,7 @@ msgstr ""
 #: data/vanilla/vanilla_procedural/scripts/init.lua:161
 msgctxt "NECROSIS"
 msgid "feel death come over you:grimaces"
-msgstr ""
+msgstr "відчуває, як наближається смерть:кривиться"
 
 #. adv_name="Suffocate"
 #: data/vanilla/vanilla_procedural/scripts/init.lua:184
