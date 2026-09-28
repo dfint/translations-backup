@@ -910,7 +910,7 @@ msgstr "ремесла"
 #: data/init/globals.lua:481
 msgctxt "random_sphere_nouns"
 msgid "creation"
-msgstr ""
+msgstr "створення"
 
 #. DANCE={{str="dance"}}
 #: data/init/globals.lua:482
@@ -2575,7 +2575,7 @@ msgstr "омелюх"
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures/rcp.lua:2157
 msgctxt "BIRD_FLYCATCHER"
 msgid "flycatcher"
-msgstr ""
+msgstr "мухоловка"
 
 #. name_string="opossum"
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures/rcp.lua:2169
@@ -2869,7 +2869,7 @@ msgstr ""
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures/rcp.lua:2799
 msgctxt "MAMMAL_MAMMOTH"
 msgid "mammoth"
-msgstr ""
+msgstr "мамонт"
 
 #. name_string="horse"
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures/rcp.lua:2809
@@ -3751,7 +3751,7 @@ msgstr ""
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures/shared_info.lua:3940
 msgctxt "ANTENNAE"
 msgid " It has a pair of long antennae"
-msgstr ""
+msgstr " Воно має пару довгих вусиків"
 
 #. function() options.pcg_layering_modifier.ANTENNA="FAN" return " It has a
 #. pair of fan-like antennae" end
@@ -3806,7 +3806,7 @@ msgstr ""
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures/shared_info.lua:3960
 msgctxt "HEAD_HORNS"
 msgid "three "
-msgstr ""
+msgstr "три"
 
 #. str=str.."four "
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures/shared_info.lua:3962
@@ -5130,7 +5130,7 @@ msgstr ""
 #. return "forest"
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:62
 msgid "forest"
-msgstr ""
+msgstr "ліс"
 
 #. name=function() return "mountain" end
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:75
@@ -5553,7 +5553,7 @@ msgstr ""
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:548
 msgctxt "night_troll_names"
 msgid "creature"
-msgstr ""
+msgstr "створіння"
 
 #. {name="creature",names="creatures",name_adj="creature",cond=function(options)
 #. return true end}
@@ -6356,7 +6356,7 @@ msgstr ""
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:1404
 msgctxt "beast_large"
 msgid "creature"
-msgstr ""
+msgstr "створіння"
 
 #. {"creature","creatures"}
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:1404
@@ -6563,7 +6563,7 @@ msgstr "воно гарчить, дзижчить, клацає і взагал�
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:1799
 msgctxt "sphere_flavor"
 msgid "it is decorated with intricate patterns"
-msgstr ""
+msgstr "воно оздоблене складними візерунками"
 
 #. BALANCE={add="it is perfectly symmetric"}
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:1800
@@ -7110,7 +7110,7 @@ msgstr ""
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:1885
 msgctxt "sphere_flavor"
 msgid "it is strikingly colored"
-msgstr ""
+msgstr "він яскраво забарвлений"
 
 #. REBIRTH={add="it alternates from instant to instant between sluggishness
 #. and
@@ -7303,7 +7303,7 @@ msgstr ""
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:1915
 msgctxt "sphere_flavor"
 msgid "it chitters briefly before sunrise and just after nightfall"
-msgstr ""
+msgstr "коротко цвірінькає перед світанком і одразу після настання ночі"
 
 #. VALOR={add="it always tries to embolden any fighting in its presence with
 #. exhortations of bravery, even its foes"}
@@ -7332,7 +7332,7 @@ msgstr ""
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:1919
 msgctxt "sphere_flavor"
 msgid "it bellows and cheers without pause"
-msgstr ""
+msgstr "воно без упину реве й вигукує"
 
 #. WATER={add="it seems to flow as it moves"}
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:1920
@@ -7861,7 +7861,7 @@ msgstr ""
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:1995
 msgctxt "angel_names_humanoid_generic"
 msgid "Worker"
-msgstr ""
+msgstr "Робітник"
 
 #. {"Worker","Workers","worker"}
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:1995
@@ -7873,7 +7873,7 @@ msgstr "Робітники"
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:1995
 msgctxt "angel_names_humanoid_generic"
 msgid "worker"
-msgstr ""
+msgstr "робітник"
 
 #. {"Hand","Hands","hand"}
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:1996
@@ -10093,19 +10093,19 @@ msgstr ""
 #: data/vanilla/vanilla_procedural/scripts/generators/interactions/mythical.lua:202
 msgctxt "TREES"
 msgid "forest"
-msgstr ""
+msgstr "ліс"
 
 #. {adj="of the forest",adj_after=true}
 #: data/vanilla/vanilla_procedural/scripts/generators/interactions/mythical.lua:203
 msgctxt "TREES"
 msgid "of the forest"
-msgstr ""
+msgstr "лісу"
 
 #. {adj="of forests",adj_after=true}
 #: data/vanilla/vanilla_procedural/scripts/generators/interactions/mythical.lua:204
 msgctxt "TREES"
 msgid "of forests"
-msgstr ""
+msgstr "лісів"
 
 #. {adj="leaf",adj_after=false}
 #: data/vanilla/vanilla_procedural/scripts/generators/interactions/mythical.lua:205
@@ -10165,13 +10165,13 @@ msgstr ""
 #: data/vanilla/vanilla_procedural/scripts/generators/interactions/mythical.lua:216
 msgctxt "VOLCANOS"
 msgid "magma"
-msgstr ""
+msgstr "магма"
 
 #. {adj="of magma",adj_after=true}
 #: data/vanilla/vanilla_procedural/scripts/generators/interactions/mythical.lua:217
 msgctxt "VOLCANOS"
 msgid "of magma"
-msgstr ""
+msgstr "магми"
 
 #. {adj="lava",adj_after=false}
 #: data/vanilla/vanilla_procedural/scripts/generators/interactions/mythical.lua:218
@@ -10950,7 +10950,7 @@ msgstr ""
 #: data/vanilla/vanilla_procedural/scripts/generators/materials.lua:2
 msgctxt "mythical_remnant_adjectives"
 msgid "primordial"
-msgstr ""
+msgstr "первісний"
 
 #. "elder"
 #: data/vanilla/vanilla_procedural/scripts/generators/materials.lua:3
