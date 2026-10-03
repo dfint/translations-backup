@@ -518,7 +518,7 @@ msgstr ""
 #: data/init/globals.lua:406
 msgctxt "random_sphere_adjective"
 msgid "painted"
-msgstr ""
+msgstr "пофарбовано "
 
 #. PEACE={"peaceful"}
 #: data/init/globals.lua:407
@@ -771,13 +771,13 @@ msgstr ""
 #: data/init/globals.lua:448
 msgctxt "random_sphere_adjective"
 msgid "watery"
-msgstr ""
+msgstr "водянистий"
 
 #. WEALTH={"wealthy"}
 #: data/init/globals.lua:449
 msgctxt "random_sphere_adjective"
 msgid "wealthy"
-msgstr ""
+msgstr "заможний"
 
 #. WIND={"windy"}
 #: data/init/globals.lua:451
@@ -1552,13 +1552,13 @@ msgstr ""
 #: data/init/globals.lua:588
 msgctxt "random_sphere_nouns"
 msgid "water"
-msgstr ""
+msgstr "вода"
 
 #. WEALTH={{str="wealth"}}
 #: data/init/globals.lua:589
 msgctxt "random_sphere_nouns"
 msgid "wealth"
-msgstr ""
+msgstr "багатство"
 
 #. WEATHER={{str="weather"}}
 #: data/init/globals.lua:590
@@ -2989,7 +2989,7 @@ msgstr ""
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures/rcp.lua:3015
 msgctxt "MAMMAL_BULL"
 msgid "bull"
-msgstr ""
+msgstr "бик"
 
 #. BEAST_AMORPHOUS_SHELL_BACK="shell"
 #. BEAST_SNAKE_SHELL_BACK="shell"
@@ -4219,13 +4219,13 @@ msgstr ""
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures/shared_info.lua:4240
 msgctxt "SIX_LEGGED"
 msgid "six-legged"
-msgstr ""
+msgstr "шестиногий"
 
 #. adj="eight-legged"
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures/shared_info.lua:4243
 msgctxt "EIGHT_LEGGED"
 msgid "eight-legged"
-msgstr ""
+msgstr "восьминогий"
 
 #. form_desc="in humanoid form"
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures/shared_info.lua:4246
@@ -4480,7 +4480,7 @@ msgstr ""
 #: data/vanilla/vanilla_procedural/scripts/generators/interactions/mythical.lua:223
 msgctxt "WATER"
 msgid "water"
-msgstr ""
+msgstr "вода"
 
 #. options.name_mat[#options.name_mat+1]="rain"
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures/shared_info.lua:4437
@@ -4492,7 +4492,7 @@ msgstr ""
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures/shared_info.lua:4438
 msgctxt "WATER"
 msgid "composed of water"
-msgstr ""
+msgstr "складається з води"
 
 #. options.flavor_adj[#options.flavor_adj+1]="flood"
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures/shared_info.lua:4441
@@ -4986,7 +4986,7 @@ msgstr ""
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures/shared_info.lua:5402
 msgctxt "evil_desc_adds"
 msgid "it has a bloated body"
-msgstr ""
+msgstr "воно має роздуте тіло"
 
 #. "it has a gaunt appearance"
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures/shared_info.lua:5409
@@ -5789,7 +5789,7 @@ msgstr ""
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:593
 msgctxt "night_troll_strength_flavor"
 msgid "it has a bloated body"
-msgstr ""
+msgstr "воно має роздуте тіло"
 
 #. flavor_adj={"bloated"}
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:594
@@ -6099,7 +6099,7 @@ msgstr ""
 #. add_desc(" This night creature was first created ")
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:1320
 msgid " This night creature was first created "
-msgstr ""
+msgstr " Цю нічну істоту вперше було створено "
 
 #. add_desc("accidentally ")
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:1322
@@ -6149,7 +6149,7 @@ msgstr ""
 #. if options.amalgam_experiment then add_desc("multitudes")
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:1354
 msgid "multitudes"
-msgstr ""
+msgstr "множини"
 
 #. add_desc("the ")
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:1356
@@ -6594,7 +6594,7 @@ msgstr ""
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:1804
 msgctxt "sphere_flavor"
 msgid "the pieces of its body are carefully separated by markings"
-msgstr ""
+msgstr "частини його тіла чітко розділені мітками"
 
 #. CAVERNS={add="its moans seem to echo no matter where it resides"}
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:1805
@@ -6684,7 +6684,7 @@ msgstr ""
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:1819
 msgctxt "sphere_flavor"
 msgid "its body is bent and misshapen"
-msgstr ""
+msgstr "його тіло зігнуте та понівечене"
 
 #. DEPRAVITY={add="it slavers uncontrollably"}
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:1820
@@ -6879,7 +6879,7 @@ msgstr ""
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:1848
 msgctxt "sphere_flavor"
 msgid "its whole body appears to be faceted in a symmetric fashion"
-msgstr ""
+msgstr "усе його тіло, здається, симетрично грановане"
 
 #. JUSTICE={add="it seems eager to pronounce judgment on others"}
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:1849
@@ -6971,7 +6971,7 @@ msgstr "завжди виглядає так, ніби стоїть на меж�
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:1863
 msgctxt "sphere_flavor"
 msgid "it appears to have sharp shimmering edges on many parts of its body"
-msgstr ""
+msgstr "здається, на багатьох частинах його тіла є гострі мерехтливі краї"
 
 #. MINERALS={add="it has an angular appearance"}
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:1864
@@ -7019,7 +7019,7 @@ msgstr "воно не терпить нічого живого"
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:1871
 msgctxt "sphere_flavor"
 msgid "it sounds clear tones as its body moves in time"
-msgstr ""
+msgstr "воно видає чисті тони, рухаючись у такт"
 
 #. NATURE={add="it seems most at ease when it is outdoors"}
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:1872
@@ -7080,6 +7080,8 @@ msgctxt "sphere_flavor"
 msgid ""
 "it rocks back and forth whenever somebody changes their mind in its presence"
 msgstr ""
+"воно гойдається вперед-назад щоразу, коли хтось у його присутності змінює "
+"свою думку"
 
 #. PLANTS={add="it always seems to point toward the sun when it is in the
 #. sky"}
@@ -7104,7 +7106,7 @@ msgstr "здається, вона в очікуванні"
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:1884
 msgctxt "sphere_flavor"
 msgid "it leaves water wherever it goes"
-msgstr ""
+msgstr "він залишає по собі воду всюди, де проходить"
 
 #. RAINBOWS={add="it is strikingly colored"}
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:1885
@@ -7138,7 +7140,7 @@ msgstr "воно дивиться пильним і неклимним погл�
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:1889
 msgctxt "sphere_flavor"
 msgid "its outer surface seems to flow about its body"
-msgstr ""
+msgstr "здається, його зовнішня поверхня обтікає тіло"
 
 #. RULERSHIP={add="it is hard to disobey"}
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:1890
@@ -7198,7 +7200,7 @@ msgstr ""
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:1899
 msgctxt "sphere_flavor"
 msgid "it pays attention carefully to anybody that is speaking"
-msgstr ""
+msgstr "воно уважно слухає кожного, хто говорить"
 
 #. STARS={add="it appears to sparkle after night falls"}
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:1900
@@ -7297,6 +7299,7 @@ msgid ""
 "it tenses up throughout its entire body whenever somebody tells a falsehood "
 "in its presence"
 msgstr ""
+"воно напружує все тіло щоразу, коли хтось у його присутності каже неправду"
 
 #. TWILIGHT={add="it chitters briefly before sunrise and just after
 #. nightfall"}
@@ -7380,7 +7383,7 @@ msgstr ""
 #. local end_str=" It was created by "
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:1931
 msgid " It was created by "
-msgstr ""
+msgstr " Його створив "
 
 #. if hf.gender==1 then add_desc("goddess")
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:1937
@@ -8981,7 +8984,7 @@ msgstr "щит"
 #. ARMOR="bodywear"
 #: data/vanilla/vanilla_procedural/scripts/generators/interactions/blessing.lua:26
 msgid "bodywear"
-msgstr ""
+msgstr "верхній одяг"
 
 #. PANTS="legwear"
 #: data/vanilla/vanilla_procedural/scripts/generators/interactions/blessing.lua:27
@@ -8991,12 +8994,12 @@ msgstr ""
 #. HELM="headwear"
 #: data/vanilla/vanilla_procedural/scripts/generators/interactions/blessing.lua:28
 msgid "headwear"
-msgstr ""
+msgstr " головний убір"
 
 #. GLOVES="handwear"
 #: data/vanilla/vanilla_procedural/scripts/generators/interactions/blessing.lua:29
 msgid "handwear"
-msgstr ""
+msgstr "одяг для рук"
 
 #. SHOES="footwear"
 #: data/vanilla/vanilla_procedural/scripts/generators/interactions/blessing.lua:30
@@ -10195,13 +10198,13 @@ msgstr ""
 #: data/vanilla/vanilla_procedural/scripts/generators/interactions/mythical.lua:224
 msgctxt "WATER"
 msgid "of the waters"
-msgstr ""
+msgstr "вод"
 
 #. {adj="of water",adj_after=true}
 #: data/vanilla/vanilla_procedural/scripts/generators/interactions/mythical.lua:225
 msgctxt "WATER"
 msgid "of water"
-msgstr ""
+msgstr "водяний"
 
 #. {adj="flowing",adj_after=false}
 #: data/vanilla/vanilla_procedural/scripts/generators/interactions/mythical.lua:226
