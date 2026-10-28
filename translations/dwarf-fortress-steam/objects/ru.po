@@ -11,10 +11,11 @@
 # Егор Левенков, 2026
 # Mikhail M (insolor), 2026
 # Арсений Шубин, 2026
+# Дмитрий Кирьяков, 2026
 # 
 msgid ""
 msgstr ""
-"Last-Translator: Арсений Шубин, 2026\n"
+"Last-Translator: Дмитрий Кирьяков, 2026\n"
 "Language-Team: Russian (https://app.transifex.com/dwarf-fortress-translation/teams/22396/ru/)\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -32844,20 +32845,27 @@ msgstr "[TLCM_NOUN:глаза:PLURAL]"
 msgctxt "CREATURE:CAMBRIAN_ANOMALOCARIS_MAN"
 msgid "[CASTE_NAME:anomalocaris man:anomalocaris men:anomalocaris man]"
 msgstr ""
+"[CASTE_NAME:мужчина-аномалокарис:мужчины-аномалокарисы:мужчины-"
+"аномалокариса]"
 
 msgctxt "CREATURE:CAMBRIAN_ANOMALOCARIS_MAN"
 msgid "[CASTE_NAME:anomalocaris woman:anomalocaris women:anomalocaris woman]"
 msgstr ""
+"[CASTE_NAME:женщина-аномалокарис:женщины-аномалокарисы:женщины-"
+"аномалокариса]"
 
 msgctxt "CREATURE:CAMBRIAN_ANOMALOCARIS_MAN"
 msgid "[NAME:anomalocaris man:anomalocaris men:anomalocaris man]"
 msgstr ""
+"[NAME:мужчина-аномалокарис:мужчины-аномалокарисы:мужчины-аномалокариса]"
 
 msgctxt "CREATURE:CAMBRIAN_ANOMALOCARIS_MAN"
 msgid ""
 "[DESCRIPTION:A small arthropod person with pronounced eyes and two grasping "
 "appendages protruding from their face.]"
 msgstr ""
+"[DESCRIPTION:Маленькое членистоногое существо с ярко выраженными глазами и "
+"двумя хватательными отростками, выступающих из его лица.]"
 
 msgctxt "CREATURE:CAMBRIAN_TRILOBITE"
 msgid ""
@@ -32865,6 +32873,9 @@ msgid ""
 "legs underneath its flat segmented oval body.  They can curl into a ball to "
 "protect themselves.]"
 msgstr ""
+"[DESCRIPTION:Очень маленькое водное ракообразное существо с парой усиков. "
+"Его плоское овальное тело состоит из сегментов, а снизу расположено "
+"множество лапок. Чтобы защититься, эти существа могут скатываться в клубок.]"
 
 msgctxt "CREATURE:CAMBRIAN_TRILOBITE"
 msgid "[NAME:trilobite:trilobites:trilobite]"
@@ -32887,6 +32898,8 @@ msgid ""
 "[RETRACT_INTO_BP:BY_CATEGORY:SHELL:roll into a ball:rolls into a "
 "ball:unroll:unrolls]"
 msgstr ""
+"[RETRACT_INTO_BP:BY_CATEGORY:SHELL:сворачиваетесь в клубок:сворачивается в "
+"клубок:разворачиваетесь:разворачивается]"
 
 msgctxt "CREATURE:CAMBRIAN_TRILOBITE"
 msgid "[TLCM_NOUN:chitin:SINGULAR]"
@@ -32898,7 +32911,7 @@ msgstr "[TLCM_NOUN:глаза:PLURAL]"
 
 msgctxt "CREATURE:CAMBRIAN_TRILOBITE_MAN"
 msgid "[CASTE_NAME:trilobite man:trilobite men:trilobite man]"
-msgstr ""
+msgstr "[CASTE_NAME:мужчина-трилобит:мужчины-трилобиты:мужчины-трилобита]"
 
 msgctxt "CREATURE:CAMBRIAN_TRILOBITE_MAN"
 msgid "[CASTE_NAME:trilobite woman:trilobite women:trilobite woman]"
