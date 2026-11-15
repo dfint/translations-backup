@@ -1,0 +1,133 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# 
+# Translators:
+# Daniel Nylander <po@danielnylander.se>, 2026
+# 
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"PO-Revision-Date: 2024-07-22 14:54+0000\n"
+"Last-Translator: Daniel Nylander <po@danielnylander.se>, 2026\n"
+"Language-Team: Swedish (https://app.transifex.com/dwarf-fortress-translation/teams/22396/sv/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: sv\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "DF localization package builder"
+msgstr "Paketbyggare för DF-lokalisering"
+
+msgid ""
+"Build/download a package, unpack into the game's directory with file "
+"repalacement."
+msgstr ""
+"Skapa eller hämta ett paket och packa upp det i spelets katalog så att "
+"befintliga filer ersätts."
+
+msgid ""
+"It's recommended to use [dfint-"
+"installer](https://github.com/dfint/installer) instead of using this app. "
+"Use the package builder only if the installer doesn't work for you or you "
+"have some other issues with it."
+msgstr ""
+"Vi rekommenderar att du använder [dfint-"
+"installer](https://github.com/dfint/installer) i stället för den här appen. "
+"Använd paketbyggaren endast om installationsprogrammet inte fungerar för dig"
+" eller om du får andra problem med det."
+
+msgid "DF version"
+msgstr "DF-version"
+
+msgid "Operating system/platform"
+msgstr "Operativsystem/plattform"
+
+msgid "DF variant"
+msgstr "DF-variant"
+
+msgid "Language"
+msgstr "Språk"
+
+msgid "Removing stale packages..."
+msgstr "Tar bort inaktuella paket..."
+
+msgid "Cannot create package with these parameters"
+msgstr "Kan inte skapa ett paket med dessa parametrar"
+
+msgid "Generate package"
+msgstr "Skapa paket"
+
+msgid "Downloading files..."
+msgstr "Hämtar filer..."
+
+msgid "Downloading complete!"
+msgstr "Hämtningen är klar!"
+
+msgid "Building package..."
+msgstr "Skapar paket..."
+
+msgid "Package is ready!"
+msgstr "Paketet är klart!"
+
+msgid "Download package"
+msgstr "Hämta paket"
+
+msgid "Filter available files by DF variant, operating system, language"
+msgstr ""
+"Filtrera tillgängliga filer efter DF-variant, operativsystem och språk"
+
+msgid "Downloading library..."
+msgstr "Hämtar bibliotek..."
+
+msgid "Downloading dfhooks library..."
+msgstr "Hämtar biblioteket dfhooks..."
+
+msgid "Downloading config..."
+msgstr "Hämtar konfiguration..."
+
+msgid "Downloading offsets..."
+msgstr "Hämtar offsetvärden..."
+
+msgid "Downloading csv dictionary..."
+msgstr "Hämtar CSV-ordlista..."
+
+msgid "Downloading font file..."
+msgstr "Hämtar typsnittsfil..."
+
+msgid "Downloading encoding config..."
+msgstr "Hämtar teckenkodningskonfiguration..."
+
+msgid "Package files available to download"
+msgstr "Paketfiler tillgängliga för hämtning"
+
+msgid "No package files available."
+msgstr "Inga paketfiler är tillgängliga."
+
+msgid "Package name"
+msgstr "Paketnamn"
+
+msgid "When created"
+msgstr "Skapad"
+
+msgid "less than an hour ago"
+msgstr "för mindre än en timme sedan"
+
+#, python-format
+msgid "%(num)d hour ago"
+msgid_plural "%(num)d hours ago"
+msgstr[0] "%(num)d timme sedan"
+msgstr[1] "%(num)d timmar sedan"
+
+msgid "Download"
+msgstr "Hämta"
+
+msgid "Getting hook metadata..."
+msgstr "Hämtar metadata för hookar..."
+
+msgid "Getting dictionary metadata..."
+msgstr "Hämtar metadata för ordlista..."
