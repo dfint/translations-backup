@@ -3636,7 +3636,7 @@ msgstr "довгий, кучерявий"
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures/shared_info.lua:3895
 msgctxt "TAIL"
 msgid "short"
-msgstr ""
+msgstr "короткий"
 
 #. "stubby"
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures/shared_info.lua:3896
@@ -3680,7 +3680,7 @@ msgstr " Воно має довгий хобот, що розгойдуєтьс�
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures/shared_info.lua:3914
 msgctxt "TRUNK"
 msgid " It has a short trunk"
-msgstr ""
+msgstr " Має короткий хобот"
 
 #. function() options.pcg_layering_modifier.TRUNK="FAT" return " It has a fat,
 #. bulging trunk" end
@@ -3714,7 +3714,7 @@ msgstr ""
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures/shared_info.lua:3927
 msgctxt "SHELL"
 msgid " It has a round shell"
-msgstr ""
+msgstr " Має округлий панцир"
 
 #. " It has a spiral shell"
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures/shared_info.lua:3928
@@ -3838,7 +3838,7 @@ msgstr " довгий, вигнутий"
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures/shared_info.lua:3969
 msgctxt "HEAD_HORNS"
 msgid "short"
-msgstr ""
+msgstr "короткий"
 
 #. function() options.pcg_layering_modifier.HORN="STUBBY" return "stubby" end
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures/shared_info.lua:3970
@@ -3978,7 +3978,7 @@ msgstr ""
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures/shared_info.lua:4071
 msgctxt "HAIR"
 msgid "short and even"
-msgstr ""
+msgstr "короткий і рівний"
 
 #. "patchy"
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures/shared_info.lua:4072
@@ -4103,7 +4103,7 @@ msgstr ""
 #. "round"
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures/shared_info.lua:4142
 msgid "round"
-msgstr ""
+msgstr "круглий"
 
 #. "blocky"
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures/shared_info.lua:4143
@@ -5180,12 +5180,12 @@ msgstr ""
 #. sickness_name="beast sickness"
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:160
 msgid "beast sickness"
-msgstr ""
+msgstr "звіряча хвороба"
 
 #. sickness_name="titan sickness"
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:199
 msgid "titan sickness"
-msgstr ""
+msgstr "хвороба титанів"
 
 #. local name_str = subreg_name.." titan:"..subreg_name.."
 #. titans:"..subreg_name.."-titan]"
@@ -5409,7 +5409,7 @@ msgstr "сірка"
 #. sickness_name="demon sickness"
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:285
 msgid "demon sickness"
-msgstr ""
+msgstr "демонічна хвороба"
 
 #. options.fallback_pref_str="horrifying features"
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:334
@@ -5438,7 +5438,7 @@ msgstr ""
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:524
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:1290
 msgid "night sickness"
-msgstr ""
+msgstr "нічна хвороба"
 
 #. {name="troll",names="trolls",name_adj="troll",cond=function(options) return
 #. true end}
@@ -5783,7 +5783,7 @@ msgstr ""
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:589
 msgctxt "night_troll_strength_flavor"
 msgid "it stamps the ground and snorts"
-msgstr ""
+msgstr "тупотить ногами по землі й фиркає"
 
 #. add="it has a bloated body"
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:593
@@ -6672,7 +6672,7 @@ msgstr "завжди обертається, щоб зустріти схід с
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:1817
 msgctxt "sphere_flavor"
 msgid "it hums pleasantly when the sun is high in the sky"
-msgstr ""
+msgstr "приємно наспівує, коли сонце високо в небі"
 
 #. DEATH={add="it has a rattling exhale"}
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:1818
@@ -6848,7 +6848,7 @@ msgstr "воно, здається, постійно усміхається"
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:1843
 msgctxt "sphere_flavor"
 msgid "it is surrounded by a gentle atmosphere"
-msgstr ""
+msgstr "його оточує лагідна атмосфера"
 
 #. HOSPITALITY={add="it radiates an aura of welcoming"}
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:1844
@@ -7094,7 +7094,7 @@ msgstr "завжди здається, що воно спрямоване до �
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:1882
 msgctxt "sphere_flavor"
 msgid "it recites verses in a strange language on occasion"
-msgstr ""
+msgstr "час від часу декламує вірші дивною мовою"
 
 #. PREGNANCY={add="it appears to be expecting"}
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:1883
@@ -7122,7 +7122,7 @@ msgctxt "sphere_flavor"
 msgid ""
 "it alternates from instant to instant between sluggishness and extreme "
 "vibrancy"
-msgstr ""
+msgstr "щомиті чергує млявість із надзвичайною жвавістю"
 
 #. REVELRY={add="it moves with a bouncing rhythm"}
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:1887
@@ -7158,7 +7158,7 @@ msgstr "завжди жваво киває, коли хтось говорить
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:1892
 msgctxt "sphere_flavor"
 msgid "it inspires those around it to acts of great sacrifice"
-msgstr ""
+msgstr "надихає оточуючих на великі самопожертви"
 
 #. SALT={add="it makes nearby water undrinkable"}
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:1893
@@ -7276,7 +7276,7 @@ msgstr "він ніколи повністю не припиняє рухати�
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:1911
 msgctxt "sphere_flavor"
 msgid "it is unsettling to be around"
-msgstr ""
+msgstr "поруч із ним стає моторошно"
 
 #. TREES={add="it is top-heavy"}
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:1912
@@ -7900,19 +7900,19 @@ msgstr ""
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:1997
 msgctxt "angel_names_humanoid_generic"
 msgid "Being"
-msgstr ""
+msgstr "Істота"
 
 #. {"Being","Beings","being"}
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:1997
 msgctxt "angel_names_humanoid_generic"
 msgid "Beings"
-msgstr ""
+msgstr "Істоти"
 
 #. {"Being","Beings","being"}
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:1997
 msgctxt "angel_names_humanoid_generic"
 msgid "being"
-msgstr ""
+msgstr "істоти"
 
 #. {"Puppet","Puppets","puppet"}
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:1998
@@ -7973,7 +7973,7 @@ msgstr ""
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:2162
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:2238
 msgid "divine sickness"
-msgstr ""
+msgstr "божественна хвороба"
 
 #. name_string="humanoid"
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:2123
@@ -7987,7 +7987,7 @@ msgstr "гуманоїд"
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:2215
 #: data/vanilla/vanilla_procedural/scripts/generators/creatures.lua:2281
 msgid "it is a divine being"
-msgstr ""
+msgstr "це божественна істота"
 
 #. name="shining metal"
 #: data/vanilla/vanilla_procedural/scripts/generators/divine.lua:3
@@ -8379,7 +8379,7 @@ msgstr "блочний"
 #: data/vanilla/vanilla_procedural/scripts/generators/entities.lua:25
 msgctxt "adj"
 msgid "rounded"
-msgstr ""
+msgstr "заокруглений"
 
 #. "thin"
 #: data/vanilla/vanilla_procedural/scripts/generators/entities.lua:8
