@@ -1,0 +1,132 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# 
+# Translators:
+# Adilet Seitzhappar, 2026
+# 
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"PO-Revision-Date: 2024-07-22 14:54+0000\n"
+"Last-Translator: Adilet Seitzhappar, 2026\n"
+"Language-Team: Kazakh (https://app.transifex.com/dwarf-fortress-translation/teams/22396/kk/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: kk\n"
+"Plural-Forms: nplurals=2; plural=(n!=1);\n"
+
+msgid "DF localization package builder"
+msgstr "DF локализация бумасын құрастырушы"
+
+msgid ""
+"Build/download a package, unpack into the game's directory with file "
+"repalacement."
+msgstr ""
+"Буманы құрастырыңыз/жүктеп алыңыз. Ішіндегі файлдарды ойын қалтасына "
+"шығарып, ондағы файлдарды жаңаларына ауыстырыңыз."
+
+msgid ""
+"It's recommended to use [dfint-"
+"installer](https://github.com/dfint/installer) instead of using this app. "
+"Use the package builder only if the installer doesn't work for you or you "
+"have some other issues with it."
+msgstr ""
+"Бұл қолданбаның орнына [dfint-installer](https://github.com/dfint/installer)"
+" пайдаланған жөн. Орнатқыш жұмыс істемесе немесе оны пайдалану кезінде басқа"
+" қиындықтар туындаса ғана бума құрастыру құралын қолданыңыз."
+
+msgid "DF version"
+msgstr "DF нұсқасы"
+
+msgid "Operating system/platform"
+msgstr "Операциялық жүйе/платформа"
+
+msgid "DF variant"
+msgstr "DF түрі"
+
+msgid "Language"
+msgstr "Тіл"
+
+msgid "Removing stale packages..."
+msgstr "Ескірген бумалар жойылуда..."
+
+msgid "Cannot create package with these parameters"
+msgstr "Осы параметрлермен бума жасау мүмкін емес"
+
+msgid "Generate package"
+msgstr "Бума жасау"
+
+msgid "Downloading files..."
+msgstr "Файлдар жүктеп алынуда..."
+
+msgid "Downloading complete!"
+msgstr "Жүктеп алу аяқталды!"
+
+msgid "Building package..."
+msgstr "Бума құрастырылуда..."
+
+msgid "Package is ready!"
+msgstr "Бума дайын!"
+
+msgid "Download package"
+msgstr "Буманы жүктеп алу"
+
+msgid "Filter available files by DF variant, operating system, language"
+msgstr ""
+"Қолжетімді файлдарды DF опциясы, операциялық жүйе, тіл бойынша сүзіңіз"
+
+msgid "Downloading library..."
+msgstr "Кітапхана жүктеп алынуда..."
+
+msgid "Downloading dfhooks library..."
+msgstr "Dfhooks кітапханасы жүктеп алынуда..."
+
+msgid "Downloading config..."
+msgstr "Конфигурация жүктеп алынуда..."
+
+msgid "Downloading offsets..."
+msgstr "Офсеттер жүктеп алынуда..."
+
+msgid "Downloading csv dictionary..."
+msgstr "CSV сөздігі жүктеп алынуда..."
+
+msgid "Downloading font file..."
+msgstr "Қаріп файлы жүктеп алынуда..."
+
+msgid "Downloading encoding config..."
+msgstr "Кодтау конфигурациясы жүктеп алынуда..."
+
+msgid "Package files available to download"
+msgstr "Жүктеп алуға болатын бума файлдары"
+
+msgid "No package files available."
+msgstr "Қолжетімді бума файлдары жоқ"
+
+msgid "Package name"
+msgstr "Бума атауы"
+
+msgid "When created"
+msgstr "Жасалған кезі"
+
+msgid "less than an hour ago"
+msgstr "бір сағаттан аз уақыт бұрын"
+
+#, python-format
+msgid "%(num)d hour ago"
+msgid_plural "%(num)d hours ago"
+msgstr[0] "%(num)d сағат бұрын"
+msgstr[1] "%(num)d сағат бұрын"
+
+msgid "Download"
+msgstr "Жүктеп алу"
+
+msgid "Getting hook metadata..."
+msgstr "Хук метадеректері алынуда..."
+
+msgid "Getting dictionary metadata..."
+msgstr "Сөздік метадеректері алынуда..."
